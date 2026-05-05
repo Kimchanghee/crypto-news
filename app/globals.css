@@ -87,3 +87,123 @@ a:hover { text-decoration: underline; }
   color: var(--muted);
   background: rgba(184, 184, 184, 0.03);
 }
+
+.affiliate-module {
+  border: 1px solid var(--soft);
+  border-radius: 8px;
+  background: #fff;
+  padding: 18px;
+}
+
+.affiliate-module-compact {
+  padding: 16px;
+}
+
+.affiliate-module-header {
+  margin-bottom: 14px;
+}
+
+.affiliate-eyebrow {
+  margin: 0 0 6px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--accent-orange);
+}
+
+.affiliate-title {
+  margin: 0;
+  font-size: 20px;
+  line-height: 1.25;
+}
+
+.affiliate-description {
+  margin: 8px 0 0;
+  color: #5f5c55;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.affiliate-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+}
+
+.affiliate-grid-compact {
+  grid-template-columns: 1fr;
+}
+
+.affiliate-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 148px;
+  padding: 14px;
+  border: 1px solid var(--soft);
+  border-radius: 8px;
+  color: var(--ink);
+  text-decoration: none;
+  background: linear-gradient(180deg, rgba(217, 119, 87, 0.08) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+.affiliate-card:hover {
+  text-decoration: none;
+  border-color: rgba(217, 119, 87, 0.35);
+  box-shadow: 0 8px 24px rgba(20, 20, 19, 0.06);
+}
+
+.affiliate-card-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.affiliate-brand {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.affiliate-badge {
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+  border-radius: 999px;
+  padding: 4px 8px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  background: rgba(20, 20, 19, 0.08);
+  color: #3f3a33;
+}
+
+.affiliate-note {
+  margin: 0;
+  color: #5f5c55;
+  font-size: 14px;
+  line-height: 1.55;
+  flex: 1;
+}
+
+.affiliate-cta {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  border-radius: 999px;
+  padding: 8px 12px;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.affiliate-disclosure {
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.5;
+}

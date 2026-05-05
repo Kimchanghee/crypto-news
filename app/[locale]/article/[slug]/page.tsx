@@ -4,6 +4,7 @@ import { defaultLocale, type Locale } from '@/i18n';
 import { articleMetadata, faqJsonLd, newsArticleJsonLd } from '@/lib/seo';
 import { AdSlot } from '@/components/AdSlot';
 import { ArticleCard } from '@/components/ArticleCard';
+import { AffiliateShowcase } from '@/components/AffiliateShowcase';
 import { getTranslations } from 'next-intl/server';
 import { channel } from '@/channel.config';
 
@@ -60,6 +61,10 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
         <AdSlot network="adsterra" zoneId={process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY} format="banner" size={{ w: 728, h: 90 }} />
 
         <div className="prose-paper" style={{ marginTop: 18 }} dangerouslySetInnerHTML={{ __html: i.bodyHtml }} />
+
+        <div style={{ marginTop: 24 }}>
+          <AffiliateShowcase locale={params.locale} placement="article" />
+        </div>
 
         <div style={{ margin: '24px 0' }}>
           <AdSlot network="mgid" zoneId={process.env.NEXT_PUBLIC_MGID_WIDGET_ID} />

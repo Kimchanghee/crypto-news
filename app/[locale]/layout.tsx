@@ -1,4 +1,3 @@
-import './../globals.css';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
@@ -36,20 +35,18 @@ export default async function LocaleLayout({
   const isRTL = rtlLocales.includes(locale);
 
   return (
-    <html lang={locale} dir={isRTL ? 'rtl' : 'ltr'}>
-      <body>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
-        />
-        <NextIntlClientProvider messages={messages}>
-          <Header locale={locale} />
-          <main style={{ maxWidth: 1200, margin: '0 auto', padding: '24px' }}>{children}</main>
-          <Footer locale={locale} />
-          <MGIDLoader />
-          <AdsterraPopunder />
-        </NextIntlClientProvider>
-      </body>
-    </html>
+    <div lang={locale} dir={isRTL ? 'rtl' : 'ltr'}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
+      />
+      <NextIntlClientProvider messages={messages}>
+        <Header locale={locale} />
+        <main style={{ maxWidth: 1200, margin: '0 auto', padding: '24px' }}>{children}</main>
+        <Footer locale={locale} />
+        <MGIDLoader />
+        <AdsterraPopunder />
+      </NextIntlClientProvider>
+    </div>
   );
 }

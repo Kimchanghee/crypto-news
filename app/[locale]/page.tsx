@@ -1,6 +1,7 @@
 import { db } from '@/lib/db';
 import { ArticleCard } from '@/components/ArticleCard';
 import { AdSlot } from '@/components/AdSlot';
+import { AffiliateShowcase } from '@/components/AffiliateShowcase';
 import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
 import { getTranslations } from 'next-intl/server';
@@ -29,6 +30,8 @@ export default async function Home({ params: { locale } }: { params: { locale: L
           )}
         </div>
         <aside>
+          <AffiliateShowcase locale={locale} placement="sidebar" />
+          <div style={{ height: 16 }} />
           <AdSlot
             network="adsterra"
             zoneId={process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY}
