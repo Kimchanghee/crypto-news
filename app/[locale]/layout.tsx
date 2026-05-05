@@ -1,5 +1,5 @@
 import { NextIntlClientProvider } from 'next-intl';
-import { getMessages, getTranslations } from 'next-intl/server';
+import { getMessages } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
@@ -12,14 +12,13 @@ import { channel } from '@/channel.config';
 export const dynamic = 'force-dynamic';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
-  const t = await getTranslations({ locale: params.locale, namespace: 'site' });
   return {
-    title: { default: t('name'), template: `%s — ${t('name')}` },
-    description: t('description'),
+    title: { default: channel.name, template: `%s — ${channel.name}` },
+    description: channel.description,
     alternates: { canonical: `/${params.locale}`, languages: Object.fromEntries(locales.map((l) => [l, `/${l}`])) },
     metadataBase: new URL(process.env.SITE_URL || `https://${channel.domain}`),
     icons: { icon: '/favicon.ico' },
-    openGraph: { siteName: t('name'), locale: params.locale, type: 'website' }
+    openGraph: { siteName: channel.name, locale: params.locale, type: 'website', description: channel.description }
   };
 }
 

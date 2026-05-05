@@ -11,7 +11,7 @@ export function Header({ locale }: { locale: Locale }) {
       <div style={{ maxWidth: 1200, margin: '0 auto', padding: '14px 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 16 }}>
         <Link href={`/${locale}`} style={{ textDecoration: 'none', color: 'var(--ink)', display: 'flex', flexDirection: 'column' }}>
           <span style={{ fontFamily: 'Poppins', fontWeight: 700, fontSize: 22, letterSpacing: -0.4 }}>{channel.name}</span>
-          <span style={{ fontSize: 12, color: 'var(--muted)' }}>{t('site.tagline')}</span>
+          <span style={{ fontSize: 12, color: 'var(--muted)' }}>{channel.tagline}</span>
         </Link>
         <nav style={{ display: 'flex', gap: 18, fontFamily: 'Poppins', fontSize: 14 }}>
           <Link href={`/${locale}`} style={{ color: 'var(--ink)' }}>{t('nav.home')}</Link>
