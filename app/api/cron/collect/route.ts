@@ -1,17 +1,17 @@
 /**
- * Vercel Cron handler. Runs every 5 minutes (see vercel.json).
- * Authenticates with `CRON_SECRET` (Vercel sets `Authorization: Bearer $CRON_SECRET` automatically).
+ * External cron handler. Triggered by GitHub Actions every 5 minutes.
+ * Authenticates with `CRON_SECRET` (Authorization: Bearer …).
  *
  * Pipeline:
  *   1. Pull RSS sources for this channel
- *   2. Drop items already seen (KV) + same-title duplicates
- *   3. Cap to 5 new items per run (cost guardrail)
- *   4. For each item → call Anthropic to rewrite + translate to 11 locales
- *   5. Persist to KV
+ *   2. 3-key dedup against persistent store (URL canonical + title fingerprint + source+title)
+ *   3. Cap to MAX_ARTICLES_PER_RUN new items
+ *   4. Rewrite + translate via Anthropic
+ *   5. Persist + record dedup keys
  */
 import { NextResponse } from 'next/server';
 import { db } from '@/lib/db';
-import { dedupeByTitle, fetchAllSources } from '@/lib/rss';
+import { dedupeByTitle, fetchAllSources, dedupKeys } from '@/lib/rss';
 import { rewriteAndTranslate } from '@/lib/anthropic';
 import { channel } from '@/channel.config';
 
@@ -28,8 +28,17 @@ export async function GET(req: Request) {
 
   const fetched = await fetchAllSources(channel.id);
   const fresh: typeof fetched = [];
+
+  // First pass: in-batch dedup
   for (const item of dedupeByTitle(fetched)) {
+    // Second pass: persistent dedup against KV (3 independent keys)
     if (await db.hasSeen(item.id)) continue;
+    const keys = dedupKeys(item);
+    let dup = false;
+    for (const k of keys) {
+      if (await db.hasSeenKey(k)) { dup = true; break; }
+    }
+    if (dup) continue;
     fresh.push(item);
     if (fresh.length >= MAX_PER_RUN) break;
   }
@@ -40,6 +49,7 @@ export async function GET(req: Request) {
       const article = await rewriteAndTranslate(item);
       await db.putArticle(article);
       await db.markSeen([item]);
+      await db.markSeenKeys(dedupKeys(item));
       created.push({ id: article.id, slug: article.slug, title: article.i18n.ko?.title ?? item.rawTitle });
     } catch (err) {
       console.error('[cron] failed', item.id, (err as Error).message);
@@ -55,7 +65,6 @@ export async function GET(req: Request) {
   });
 }
 
-/** Manual POST trigger (for /api/cron/collect with body { secret }) — for local dev */
 export async function POST(req: Request) {
   const { secret } = await req.json().catch(() => ({}));
   if (process.env.CRON_SECRET && secret !== process.env.CRON_SECRET) {
