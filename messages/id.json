@@ -1,0 +1,9 @@
+{
+  "site": { "name": "{{CHANNEL_NAME}}", "tagline": "{{CHANNEL_TAGLINE_ID}}", "description": "{{CHANNEL_DESCRIPTION_ID}}" },
+  "nav": { "home": "Beranda", "categories": "Kategori", "latest": "Terbaru", "popular": "Populer", "about": "Tentang" },
+  "common": { "readMore": "Baca selengkapnya", "search": "Cari", "loading": "Memuat…", "language": "Bahasa", "back": "Kembali", "copy": "Salin", "share": "Bagikan" },
+  "article": { "published": "Terbit", "updated": "Diperbarui", "source": "Sumber", "summary": "Ringkasan", "easyRead": "Versi sederhana", "faq": "Tanya jawab", "related": "Terkait", "minutes": "{count} menit baca" },
+  "ad": { "disclosure": "Iklan", "sponsored": "Bersponsor" },
+  "footer": { "copyright": "© {year} {{CHANNEL_NAME}}. Hak cipta dilindungi.", "privacy": "Privasi", "terms": "Syarat", "contact": "Kontak" },
+  "errors": { "notFound": "Halaman tidak ditemukan", "general": "Terjadi kesalahan." }
+}

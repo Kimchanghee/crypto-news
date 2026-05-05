@@ -1,0 +1,9 @@
+{
+  "site": { "name": "{{CHANNEL_NAME}}", "tagline": "{{CHANNEL_TAGLINE_ZH}}", "description": "{{CHANNEL_DESCRIPTION_ZH}}" },
+  "nav": { "home": "首页", "categories": "分类", "latest": "最新", "popular": "热门", "about": "关于" },
+  "common": { "readMore": "阅读更多", "search": "搜索", "loading": "加载中…", "language": "语言", "back": "返回", "copy": "复制", "share": "分享" },
+  "article": { "published": "发布", "updated": "更新", "source": "来源", "summary": "一句$话总结", "easyRead": "通俗版", "faq": "常见问题", "related": "相关文章", "minutes": "阅读Ꭶ {count} 分钟" },
+  "ad": { "disclosure": "广告", "sponsored": "Sponsored" },
+  "footer": { "copyright": "© {year} {{CHANNEL_NAME}}. 保畮所有权利。", "privacy": "隐私", "terms": "条款亲那東", "contact": "联系" },
+  "errors": { "notFound": "页面未找到", "general": "出现问题，请稍后重试。" }
+}

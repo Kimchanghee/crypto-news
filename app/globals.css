@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --ink: #141413;
+  --paper: #faf9f5;
+  --soft: #e8e6dc;
+  --muted: #b0aea5;
+  --accent-orange: #d97757;
+  --accent-blue: #6a9bcc;
+  --accent-green: #788c5d;
+}
+
+html, body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Lora', Georgia, serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', system-ui, Arial, sans-serif;
+  letter-spacing: -0.01em;
+}
+
+[dir="rtl"] body { font-family: 'Noto Naskh Arabic', 'Lora', Georgia, serif; }
+
+a { color: var(--accent-orange); }
+a:hover { text-decoration: underline; }
+
+.prose-paper {
+  max-width: 68ch;
+  line-height: 1.75;
+}
+
+.tag {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 999px;
+  background: var(--soft);
+  color: var(--ink);
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.divider {
+  height: 1px;
+  background: var(--soft);
+  margin: 2rem 0;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 16px;
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  text-decoration: none;
+}
+.btn:hover { background: var(--accent-orange); }
+
+.card {
+  border: 1px solid var(--soft);
+  border-radius: 12px;
+  padding: 20px;
+  background: white;
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.card:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(20,20,19,0.06); }
+
+.ad-slot {
+  border: 1px dashed var(--muted);
+  border-radius: 8px;
+  padding: 12px;
+  text-align: center;
+  font-size: 11px;
+  color: var(--muted);
+  background: rgba(184, 184, 184, 0.03);
+}

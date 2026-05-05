@@ -1,0 +1,9 @@
+{
+  "site": { "name": "{{CHANNEL_NAME}}", "tagline": "{{CHANNEL_TAGLINE_AR}}", "description": "{{CHANNEL_DESCRIPTION_AR}}" },
+  "nav": { "home": "الرئيسية", "categories": "التصنيفات", "latest": "الأحدث", "popular": "الأكثر قراءة", "about": "حول" },
+  "common": { "readMore": "�قرأ المزيد', "search": "بحث", "loading": "جار�� 85�ᅅ � � �� Ѐ����s���", "language": "اللغة", "back": "رجوع", "copy": "نسخ", "share": "مشاركة" },
+  "article": { "published": "تاريخ النشر", "updated": "آخر تحديثكه�", "source": "المصدر", "summary": "ملخص", "easyRead": "نسخة مبسطة", "faq": "الأسئلة الشائعة", "related": "مقالات ذات صلة", "minutes": "{count} دقيقة قراءة" },
+  "ad": { "disclosure": "عتجأ", "sponsored": "مموّل" },
+  "footer": { "copyright": "© {year} {{CHANNEL_NAME}}. جميد الحقوق محفوظة.", "privacy": "الخصوصية", "terms": "الشروط", "contact": "تواصل" },
+  "errors": { "notFound": "الصفحة غير موجودة", "general": "حدث خطأ." }
+}

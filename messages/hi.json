@@ -1,0 +1,9 @@
+{
+  "site": { "name": "{{CHANNEL_NAME}}", "tagline": "{{CHANNEL_TAGLINE_HI}}", "description": "{{CHANNEL_DESCRIPTION_HI}}" },
+  "nav": { "home": "होम", "categories": "श्रेणियाँ", "latest": "नवीनतम", "popular": "लोकप्रिय", "about": "परिचय" },
+  "common": { "readMore": "और पढ़ें", "search": "खोजें", "loading": "लोड हो रहा है…", "language": "भाषा", "back": "वापस", "copy": "कॉपी", "share": "शेयर" },
+  "article": { "published": "प्रकाशित", "updated": "अपडेट", "source": "स्रोत", "summary": "सारांश", "easyRead": "आसान संस्करण", "faq": "अक्सर पूछे जाने वाले प्रश्न", "related": "संबंधित", "minutes": "{count} मिनट" },
+  "ad": { "disclosure": "विज्ञापन", "sponsored": "प्रायोजित" },
+  "footer": { "copyright": "© {year} {{CHANNEL_NAME}}. सर्वाधिकार सुरक्षित।", "privacy": "गोपनीयता", "terms": "शर्तें", "contact": "संपर्क" },
+  "errors": { "notFound": "पृष्ठ नहीं मिला", "general": "कुछ गलत हो गया।" }
+}

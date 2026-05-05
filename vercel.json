@@ -1,0 +1,9 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/collect",
+      "schedule": "*/5 * * * *"
+    }
+  ],
+  "framework": "nextjs"
+}

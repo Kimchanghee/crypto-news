@@ -1,0 +1,9 @@
+{
+  "site": { "name": "{{CHANNEL_NAME}}", "tagline": "{{CHANNEL_TAGLINE_DE}}", "description": "{{CHANNEL_DESCRIPTION_DE}}" },
+  "nav": { "home": "Start", "categories": "Kategorien", "latest": "Neueste", "popular": "Beliebt", "about": "Über uns" },
+  "common": { "readMore": "Weiterlesen", "search": "Suche", "loading": "Lädt…", "language": "Sprache", "back": "Zurück", "copy": "Kopieren", "share": "Teilen" },
+  "article": { "published": "Veröffentlicht", "updated": "Aktualisiert", "source": "Quelle", "summary": "Kurzfassung", "easyRead": "Leicht erklärt", "faq": "FAQ", "related": "Verwandte Artikel", "minutes": "{count} Min. Lesezeit" },
+  "ad": { "disclosure": "Werbung", "sponsored": "Gesponsert" },
+  "footer": { "copyright": "© {year} {{CHANNEL_NAME}}. Alle Rechte vorbehalten.", "privacy": "Datenschutz", "terms": "AGB", "contact": "Kontakt" },
+  "errors": { "notFound": "Seite nicht gefunden", "general": "Etwas ist schiefgelaufen." }
+}
