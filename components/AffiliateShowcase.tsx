@@ -16,6 +16,8 @@ type Offer = {
   note: string;
 };
 
+const AMAZON_TAG = 'amazonfi00681-20';
+
 function getCopy(locale: Locale, placement: Placement) {
   if (locale === 'ko') {
     return {
@@ -44,6 +46,12 @@ function getCopy(locale: Locale, placement: Placement) {
 
 function getOffers(locale: Locale): Offer[] {
   const isKo = locale === 'ko';
+  const keyword = channel.keywords?.[0] || channel.name;
+  const amazonUrl = new URL('https://www.amazon.com/s');
+  amazonUrl.searchParams.set('k', keyword);
+  amazonUrl.searchParams.set('tag', AMAZON_TAG);
+  amazonUrl.searchParams.set('linkCode', 'll2');
+  amazonUrl.searchParams.set('language', 'en_US');
 
   const offers: Offer[] = [
     {
@@ -63,7 +71,7 @@ function getOffers(locale: Locale): Offer[] {
     {
       id: 'amazon',
       label: isKo ? '아마존 어필리에이트' : 'Amazon Associates',
-      href: process.env.NEXT_PUBLIC_AMAZON_AFFILIATE_URL,
+      href: process.env.NEXT_PUBLIC_AMAZON_AFFILIATE_URL || amazonUrl.toString(),
       badge: isKo ? '글로벌 상품' : 'Global reach',
       note: isKo ? '도서, 업무 도구, 글로벌 구매 수요 대응' : 'Useful for books, work tools, and international shoppers.'
     }
