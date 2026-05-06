@@ -1,0 +1,75 @@
+{
+  "id": "8a039d6ce661",
+  "slug": "why-stablecoins-and-swift-may-have-to-coexist-774004",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-06T20:48:57.710Z",
+  "updatedAt": "2026-05-06T20:48:57.710Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/features/why-stablecoins-swift-may-have-coexist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/features/why-stablecoins-swift-may-have-coexist",
+  "titleFingerprint": "f6185b00311be92680e3dc158461968d3107a8c7",
+  "dedupKeys": [
+    "8a039d6ce661029ce9c7902a11ae0db26b9b4750",
+    "f6185b00311be92680e3dc158461968d3107a8c7",
+    "20370f20d5b70c3f36a17fb6ad7ceeb07f9d7cc8"
+  ],
+  "imageUrl": "/images/articles/8a039d6ce661.jpg",
+  "i18n": {
+    "ko": {
+      "title": "스테이블코인·SWIFT 공존론 부상, 송금업계 결제 우회가 던진 현실적 질문",
+      "excerpt": "코인텔레그래프는 송금업체들이 암호화폐로 전통 결제 인프라 일부를 우회하고 있지만, 이것이 SWIFT의 소멸을 뜻하지는 않는다고 전했다.",
+      "body": "코인텔레그래프에 따르면 송금업체들은 최근 암호화폐를 활용해 전통적인 결제·정산 인프라의 일부 단계를 우회하고 있다. 이는 국경 간 송금에서 스테이블코인 등 디지털 자산의 활용 가능성이 커지고 있음을 보여준다. 다만 이러한 변화가 SWIFT의 역할이 사라진다는 의미는 아니다. 기존 금융기관과 결제망은 여전히 규제, 은행 간 메시징, 신뢰 기반 정산에서 기능을 유지하고 있다. 따라서 시장의 핵심 쟁점은 대체가 아니라 공존이다. 송금업계는 비용과 속도 개선을 위해 암호화폐를 활용하고, SWIFT는 전통 금융 시스템과 연결된 인프라로 남을 가능성이 있다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "Stablecoins and SWIFT Coexistence Gains Focus as Remittance Firms Bypass Settlement Layers",
+      "excerpt": "Cointelegraph reported that remittance firms are using crypto to bypass parts of traditional settlement infrastructure, but this does not mean SWIFT is disappearing.",
+      "body": "According to Cointelegraph, remittance firms are using cryptocurrency to bypass some steps in traditional payment and settlement infrastructure. The shift shows that digital assets such as stablecoins are gaining practical relevance in cross-border remittances. However, it does not mean SWIFT is disappearing. Existing financial institutions and payment networks still play roles in regulation, interbank messaging, and trust-based settlement. The central issue is therefore coexistence rather than replacement. Remittance companies may use crypto to improve cost and speed, while SWIFT can remain infrastructure connected to the traditional financial system. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "ステーブルコインとSWIFTの共存論、送金企業の決済迂回で現実味増す",
+      "excerpt": "コインテレグラフは、送金企業が暗号資産で従来の決済インフラの一部を迂回しているが、SWIFT消滅を意味しないと伝えた。",
+      "body": "コインテレグラフによると、送金企業は暗号資産を活用し、従来の決済・清算インフラの一部段階を迂回している。これは国境を越える送金で、ステーブルコインなどのデジタル資産の利用可能性が高まっていることを示す。ただし、この変化はSWIFTの役割がなくなることを意味しない。既存の金融機関と決済ネットワークは、規制、銀行間メッセージング、信頼に基づく清算でなお機能を保っている。焦点は代替ではなく共存だ。送金業界はコストと速度の改善に暗号資産を使い、SWIFTは伝統的金融システムにつながるインフラとして残る可能性がある。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "稳定币与SWIFT共存受关注，汇款公司绕过部分结算环节",
+      "excerpt": "Cointelegraph称，汇款公司正用加密货币绕过传统结算基础设施的部分环节，但这并不意味着SWIFT将消失。",
+      "body": "据Cointelegraph报道，汇款公司正在使用加密货币绕过传统支付和结算基础设施中的部分步骤。这表明，在跨境汇款中，稳定币等数字资产的实际应用空间正在扩大。不过，这一变化并不意味着SWIFT的作用会消失。现有金融机构和支付网络在监管、银行间信息传递以及基于信任的结算中仍然发挥作用。因此，市场关注的核心不是替代，而是共存。汇款行业可能继续利用加密货币改善成本和速度，而SWIFT仍可能作为连接传统金融体系的基础设施存在。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "Stablecoins y SWIFT: la coexistencia gana peso mientras las remesadoras usan cripto",
+      "excerpt": "Cointelegraph informó que las remesadoras usan cripto para evitar partes de la infraestructura tradicional de liquidación, sin que eso implique la desaparición de SWIFT.",
+      "body": "Según Cointelegraph, las empresas de remesas están utilizando criptomonedas para evitar algunos pasos de la infraestructura tradicional de pagos y liquidación. El cambio muestra que activos digitales como las stablecoins ganan relevancia práctica en los envíos transfronterizos. Sin embargo, esto no significa que SWIFT vaya a desaparecer. Las instituciones financieras y las redes de pago existentes siguen cumpliendo funciones en regulación, mensajería interbancaria y liquidación basada en confianza. Por eso, el punto central no es la sustitución, sino la coexistencia. Las remesadoras pueden usar cripto para mejorar costos y velocidad, mientras SWIFT permanece como infraestructura vinculada al sistema financiero tradicional. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "Stablecoins e SWIFT podem coexistir enquanto remessas usam cripto em liquidações",
+      "excerpt": "A Cointelegraph informou que empresas de remessa usam cripto para contornar partes da infraestrutura tradicional de liquidação, sem indicar o fim da SWIFT.",
+      "body": "Segundo a Cointelegraph, empresas de remessas estão usando criptomoedas para contornar algumas etapas da infraestrutura tradicional de pagamentos e liquidação. A mudança mostra que ativos digitais como stablecoins ganham relevância prática em transferências internacionais. Ainda assim, isso não significa que a SWIFT esteja desaparecendo. Instituições financeiras e redes de pagamento existentes continuam tendo funções em regulação, mensagens entre bancos e liquidação baseada em confiança. Portanto, o ponto central é coexistência, não substituição. As remessadoras podem usar cripto para melhorar custo e velocidade, enquanto a SWIFT permanece como infraestrutura ligada ao sistema financeiro tradicional. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "Stablecoins und SWIFT rücken als Koexistenzmodell für Überweisungen in den Fokus",
+      "excerpt": "Cointelegraph berichtet, dass Überweisungsfirmen Krypto nutzen, um Teile traditioneller Abwicklungsinfrastruktur zu umgehen, ohne dass SWIFT verschwindet.",
+      "body": "Laut Cointelegraph nutzen Überweisungsunternehmen Kryptowährungen, um einige Schritte der traditionellen Zahlungs- und Abwicklungsinfrastruktur zu umgehen. Das zeigt, dass digitale Vermögenswerte wie Stablecoins bei grenzüberschreitenden Überweisungen praktisch an Bedeutung gewinnen. Dies bedeutet jedoch nicht, dass SWIFT verschwindet. Bestehende Finanzinstitute und Zahlungsnetze behalten Funktionen bei Regulierung, Interbanken-Messaging und vertrauensbasierter Abwicklung. Im Mittelpunkt steht daher nicht Ersatz, sondern Koexistenz. Überweisungsanbieter können Krypto einsetzen, um Kosten und Geschwindigkeit zu verbessern, während SWIFT als Infrastruktur mit Verbindung zum traditionellen Finanzsystem bestehen bleibt. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "Stablecoins et SWIFT: la coexistence s’impose avec les transferts en crypto",
+      "excerpt": "Cointelegraph indique que des sociétés de transfert utilisent la crypto pour contourner des parties de l’infrastructure de règlement, sans annoncer la disparition de SWIFT.",
+      "body": "Selon Cointelegraph, des sociétés de transfert d’argent utilisent les cryptomonnaies pour contourner certaines étapes de l’infrastructure traditionnelle de paiement et de règlement. Cette évolution montre que des actifs numériques comme les stablecoins gagnent en utilité dans les transferts transfrontaliers. Elle ne signifie toutefois pas que SWIFT disparaît. Les institutions financières et réseaux de paiement existants conservent un rôle dans la régulation, la messagerie interbancaire et le règlement fondé sur la confiance. L’enjeu central est donc la coexistence, non le remplacement. Les acteurs des transferts peuvent utiliser la crypto pour améliorer coûts et rapidité, tandis que SWIFT reste une infrastructure liée au système financier traditionnel. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "العملات المستقرة وSWIFT نحو تعايش أوضح مع استخدام شركات التحويل للعملات المشفرة",
+      "excerpt": "أفاد Cointelegraph بأن شركات التحويل تستخدم العملات المشفرة لتجاوز أجزاء من بنية التسوية التقليدية، لكن ذلك لا يعني اختفاء SWIFT.",
+      "body": "بحسب Cointelegraph، تستخدم شركات تحويل الأموال العملات المشفرة لتجاوز بعض مراحل البنية التقليدية للمدفوعات والتسوية. ويظهر ذلك أن الأصول الرقمية مثل العملات المستقرة تكتسب أهمية عملية في التحويلات عبر الحدود. لكن هذا التحول لا يعني أن دور SWIFT يختفي. فالمؤسسات المالية وشبكات الدفع القائمة ما زالت تؤدي وظائف في التنظيم، والرسائل بين البنوك، والتسوية القائمة على الثقة. لذلك فإن القضية الأساسية ليست الاستبدال، بل التعايش. قد تستخدم شركات التحويل العملات المشفرة لتحسين التكلفة والسرعة، بينما يبقى SWIFT بنية تحتية مرتبطة بالنظام المالي التقليدي. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "स्टेबलकॉइन और SWIFT साथ रह सकते हैं, रेमिटेंस कंपनियों के क्रिप्टो उपयोग से बहस तेज",
+      "excerpt": "Cointelegraph के अनुसार रेमिटेंस कंपनियां पारंपरिक सेटलमेंट ढांचे के कुछ हिस्सों को बायपास करने के लिए क्रिप्टो का उपयोग कर रही हैं, लेकिन SWIFT खत्म नहीं हो रहा।",
+      "body": "Cointelegraph के अनुसार, रेमिटेंस कंपनियां पारंपरिक भुगतान और सेटलमेंट इंफ्रास्ट्रक्चर के कुछ चरणों को बायपास करने के लिए क्रिप्टोकरेंसी का उपयोग कर रही हैं। यह दिखाता है कि सीमा पार धन भेजने में स्टेबलकॉइन जैसे डिजिटल एसेट की उपयोगिता बढ़ रही है। हालांकि, इसका अर्थ यह नहीं है कि SWIFT गायब हो रहा है। मौजूदा वित्तीय संस्थान और भुगतान नेटवर्क नियमन, बैंकों के बीच मैसेजिंग और भरोसे पर आधारित सेटलमेंट में अब भी भूमिका निभाते हैं। इसलिए मुख्य मुद्दा प्रतिस्थापन नहीं, बल्कि सह-अस्तित्व है। रेमिटेंस कंपनियां लागत और गति सुधारने के लिए क्रिप्टो अपना सकती हैं, जबकि SWIFT पारंपरिक वित्तीय प्रणाली से जुड़ी इंफ्रास्ट्रक्चर के रूप में बना रह सकता है। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "Stablecoin dan SWIFT Kian Dilihat Bisa Berjalan Bersama Saat Remitansi Pakai Kripto",
+      "excerpt": "Cointelegraph melaporkan perusahaan remitansi memakai kripto untuk melewati sebagian infrastruktur penyelesaian tradisional, tetapi itu bukan berarti SWIFT menghilang.",
+      "body": "Menurut Cointelegraph, perusahaan remitansi menggunakan cryptocurrency untuk melewati sebagian tahap dalam infrastruktur pembayaran dan penyelesaian tradisional. Perubahan ini menunjukkan bahwa aset digital seperti stablecoin semakin relevan dalam pengiriman uang lintas batas. Namun, hal itu tidak berarti SWIFT akan menghilang. Lembaga keuangan dan jaringan pembayaran yang ada masih berperan dalam regulasi, pesan antarbank, serta penyelesaian berbasis kepercayaan. Karena itu, isu utamanya bukan penggantian, melainkan koeksistensi. Industri remitansi dapat memakai kripto untuk meningkatkan biaya dan kecepatan, sementara SWIFT tetap menjadi infrastruktur yang terhubung dengan sistem keuangan tradisional. Sumber: cointelegraph.com"
+    }
+  }
+}
