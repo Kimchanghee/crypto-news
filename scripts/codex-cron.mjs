@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/** Codex v6 — 매우 짧은 프롬프트, 빠른 응답, 디버그 강화 */
+/** Codex v9 — stdin closed + correct NDJSON parser */
 import { spawn } from 'node:child_process';
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
@@ -81,15 +81,7 @@ function makeSlug(title) {
   return title.toLowerCase().replace(/[^\p{L}\p{N}\s-]+/gu,'').trim().replace(/\s+/g,'-').slice(0, 60) + '-' + Math.floor(Math.random()*900000+100000);
 }
 
-// Run codex CLI with comprehensive debug
 async function runCodex(prompt, timeoutMs = 180_000) {
-  // 핵심 플래그:
-  // --ask-for-approval never : 인터랙티브 승인 대기 차단
-  // --skip-git-repo-check : git 체크 안함
-  // --ignore-rules : .rules 파일 무시
-  // --json : NDJSON 출력
-  // --sandbox read-only : 가장 빠름
-  // (--model 미지정: 코덱스 기본값=gpt-5.5)
   const args = [
     'exec',
     '--json',
@@ -105,8 +97,7 @@ async function runCodex(prompt, timeoutMs = 180_000) {
     child.stdout.on('data', d => {
       const s = d.toString();
       out += s;
-      // Print first chunk for debug
-      if (out.length < 500) console.log('[codex stdout]', s.slice(0, 200));
+      if (out.length < 600) console.log('[codex stdout]', s.slice(0, 250));
     });
     child.stderr.on('data', d => {
       const s = d.toString();
@@ -128,33 +119,45 @@ async function runCodex(prompt, timeoutMs = 180_000) {
 }
 
 function parseJson(stdout) {
-  // 모든 stdout에서 JSON 객체 검색 (가장 마지막 것 선호)
-  const allMatches = [...stdout.matchAll(/\{[^{}]*"title"[\s\S]*?"excerpt"[\s\S]*?\}/g)];
-  for (const m of allMatches.reverse()) {
-    try { return JSON.parse(m[0]); } catch {}
-  }
-  // NDJSON 라인 파싱
+  // codex CLI emits NDJSON (one JSON per line):
+  // {"type":"thread.started","thread_id":"..."}
+  // {"type":"turn.started"}
+  // {"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"..."}}
+  // {"type":"turn.completed","usage":{...}}
   const lines = stdout.split('\n').filter(Boolean);
-  for (let i = lines.length - 1; i >= 0; i--) {
+  const messages = [];
+  for (const ln of lines) {
     try {
-      const obj = JSON.parse(lines[i]);
-      const t = obj?.message?.content || obj?.text || obj?.content || obj?.delta?.content;
-      if (typeof t === 'string') {
-        const m = t.match(/\{[\s\S]+?\}/);
-        if (m) {
-          try { return JSON.parse(m[0]); } catch {}
-        }
+      const obj = JSON.parse(ln);
+      if (obj.type === 'item.completed' && obj.item && obj.item.type === 'agent_message' && typeof obj.item.text === 'string') {
+        messages.push(obj.item.text);
       }
     } catch {}
   }
-  throw new Error('JSON 파싱 실패. stdout 처음 600자: ' + stdout.slice(0, 600));
+  console.log('[parser] agent_messages:', messages.length, 'last len:', messages[messages.length-1]?.length);
+  // Try last assistant message first
+  for (let i = messages.length - 1; i >= 0; i--) {
+    const text = messages[i].trim();
+    // Try parsing whole text as JSON
+    try { return JSON.parse(text); } catch {}
+    // Strip code-fence ```json ... ```
+    const m1 = text.match(/```(?:json)?\s*([\s\S]+?)```/);
+    if (m1) {
+      try { return JSON.parse(m1[1].trim()); } catch {}
+    }
+    // Extract JSON object containing both "title" and "excerpt"
+    const m2 = text.match(/\{[\s\S]*?"title"[\s\S]*?"excerpt"[\s\S]*?\}/);
+    if (m2) {
+      try { return JSON.parse(m2[0]); } catch {}
+    }
+  }
+  throw new Error('JSON parse fail. messages='+messages.length+' last text head: '+(messages[messages.length-1]||'').slice(0,300));
 }
 
 async function generateOne(channel, item) {
   const slug = makeSlug(item.title);
   const id = sha1(canonicalUrl(item.link)).slice(0, 12);
 
-  // 매우 짧은 프롬프트 — 응답 시간 최소화
   const prompt = `다음 영문 기사 헤드라인을 한국어로 자연스럽게 다시 쓰고 200자 요약을 만들어 JSON 한 줄로만 답하세요.\n원문: "${item.title.slice(0,150)}"\n설명: "${item.description.slice(0,300)}"\n출력형식: {"title":"...","excerpt":"..."}`;
 
   console.log(`[codex] start: ${item.title.slice(0,60)}...`);
@@ -182,7 +185,7 @@ async function generateOne(channel, item) {
 
   await fs.mkdir(ART_DIR, { recursive: true });
   await fs.writeFile(path.join(ART_DIR, `${id}.json`), JSON.stringify(article, null, 2));
-  console.log(`[codex] ✓ data/articles/${id}.json`);
+  console.log(`[codex] OK data/articles/${id}.json`);
   return article;
 }
 
@@ -194,16 +197,16 @@ async function rebuildSeed() {
   }
   all.sort((a,b) => (b.publishedAt||'').localeCompare(a.publishedAt||''));
   await fs.writeFile(SEED_PATH, JSON.stringify(all.slice(0, 60), null, 2));
-  console.log(`seed.json 재구성: ${Math.min(all.length, 60)}/${all.length}개`);
+  console.log(`seed.json rebuilt: ${Math.min(all.length, 60)}/${all.length}`);
 }
 
 async function main() {
-  console.log('=== codex-cron v8 (stdin closed + gpt-5.5) ===');
+  console.log('=== codex-cron v9 (NDJSON parser fix) ===');
   const channel = await loadChannel();
-  console.log(`채널: ${channel.name} (${channel.id})  소스: ${channel.sources.length}`);
+  console.log(`channel: ${channel.name} (${channel.id})  sources: ${channel.sources.length}`);
 
   const seen = await loadExistingDedupKeys();
-  console.log(`기존 dedup keys: ${seen.size}`);
+  console.log(`dedup keys: ${seen.size}`);
 
   const candidates = [];
   for (const src of channel.sources) {
@@ -218,7 +221,7 @@ async function main() {
       }
     } catch (e) { console.warn(`RSS skip ${src.url}: ${e.message}`); }
   }
-  console.log(`new candidates: ${candidates.length}`);
+  console.log(`candidates: ${candidates.length}`);
 
   const picked = candidates.slice(0, MAX_ARTICLES);
   let ok = 0;
@@ -227,12 +230,12 @@ async function main() {
       await generateOne(channel, it);
       ok++;
     } catch (e) {
-      console.error(`기사 실패: ${e.message}`);
+      console.error(`fail: ${e.message}`);
     }
   }
 
   if (ok > 0) await rebuildSeed();
-  console.log(`완료: ${ok}/${picked.length}`);
+  console.log(`done: ${ok}/${picked.length}`);
 }
 
 main().catch(e => { console.error('FATAL:', e); process.exit(1); });
