@@ -1,5 +1,5 @@
 import { NextIntlClientProvider } from 'next-intl';
-import { getMessages } from 'next-intl/server';
+import { getMessages, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
@@ -12,13 +12,25 @@ import { channel } from '@/channel.config';
 export const dynamic = 'force-dynamic';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
+  const t = await getTranslations({ locale: params.locale, namespace: 'site' });
+  const channelName = (channel as any).name || t('name');
   return {
-    title: { default: channel.name, template: `%s — ${channel.name}` },
-    description: channel.description,
-    alternates: { canonical: `/${params.locale}`, languages: Object.fromEntries(locales.map((l) => [l, `/${l}`])) },
-    metadataBase: new URL(process.env.SITE_URL || `https://${channel.domain}`),
-    icons: { icon: '/favicon.ico' },
-    openGraph: { siteName: channel.name, locale: params.locale, type: 'website', description: channel.description }
+    title: { default: channelName, template: `%s — ${channelName}` },
+    description: (channel as any).description || t('description'),
+    alternates: {
+      canonical: `/${params.locale}`,
+      languages: Object.fromEntries(locales.map((l) => [l, `/${l}`])),
+      types: { 'application/rss+xml': `/${params.locale}/rss.xml` }
+    },
+    metadataBase: new URL(process.env.SITE_URL || `https://${(channel as any).domain || ''}`),
+    manifest: '/manifest.json',
+    themeColor: '#0e1116',
+    icons: {
+      icon: '/favicon.ico',
+      apple: '/apple-touch-icon.svg',
+      shortcut: '/icon-192.svg'
+    },
+    openGraph: { siteName: channelName, locale: params.locale, type: 'website' }
   };
 }
 
