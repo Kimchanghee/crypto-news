@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 /**
- * Codex v11 — image_gen 통합 + 11개 언어 번역 + 뉴스 구조 + SEO
+ * Codex v12 — RSS/article OG 이미지 추출 + 11개 언어 번역 + 뉴스 구조 + SEO
  * 각 기사:
- *  1) codex CLI image_gen으로 1200x630 photographic 이미지 생성 → public/images/articles/{id}.png
- *  2) codex CLI로 11개 언어 SEO 뉴스 번역 (v10 동일)
+ *  1) RSS의 enclosure/media:content + 원본 기사 페이지의 og:image 추출 → public/images/articles/{id}.{ext}
+ *  2) codex CLI로 11개 언어 SEO 뉴스 번역 (v10/v11 동일)
  */
 import { spawn } from 'node:child_process';
 import { promises as fs } from 'node:fs';
@@ -14,8 +14,9 @@ const ROOT = process.cwd();
 const ART_DIR = path.join(ROOT, 'data', 'articles');
 const SEED_PATH = path.join(ROOT, 'data', 'seed.json');
 const IMG_DIR = path.join(ROOT, 'public', 'images', 'articles');
-const MAX_ARTICLES = Number(process.env.MAX_ARTICLES || '2');
+const MAX_ARTICLES = Number(process.env.MAX_ARTICLES || '3');
 const LOCALES = ['ko','en','ja','zh','es','pt','de','fr','ar','hi','id'];
+const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36';
 
 async function loadChannel() {
   const txt = await fs.readFile(path.join(ROOT, 'channel.config.ts'), 'utf8');
@@ -35,7 +36,7 @@ function canonicalUrl(u) {
 function titleFp(t='') { return sha1(t.toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim()); }
 
 async function fetchRss(url) {
-  const r = await fetch(url, { headers: { 'user-agent': 'Mozilla/5.0 (codex-cron)' } });
+  const r = await fetch(url, { headers: { 'user-agent': UA } });
   if (!r.ok) throw new Error(`RSS ${url} ${r.status}`);
   const xml = await r.text();
   const items = [];
@@ -50,15 +51,135 @@ async function fetchRss(url) {
       v = v.replace(/<!\[CDATA\[/, '').replace(/\]\]>/, '').trim();
       return v;
     };
+    // Look for image url in enclosure or media:content
+    let rssImg = '';
+    const enc = block.match(/<enclosure[^>]*url=["']([^"']+\.(?:jpe?g|png|webp|gif))[^"']*["'][^>]*>/i);
+    if (enc) rssImg = enc[1];
+    if (!rssImg) {
+      const mc = block.match(/<media:content[^>]*url=["']([^"']+\.(?:jpe?g|png|webp|gif))[^"']*["'][^>]*>/i);
+      if (mc) rssImg = mc[1];
+    }
+    if (!rssImg) {
+      const mt = block.match(/<media:thumbnail[^>]*url=["']([^"']+\.(?:jpe?g|png|webp|gif))[^"']*["'][^>]*>/i);
+      if (mt) rssImg = mt[1];
+    }
+    if (!rssImg) {
+      // <description> 안에 <img src="..."> 있을 때
+      const desc = pick('description');
+      const img = desc.match(/<img[^>]*src=["']([^"']+\.(?:jpe?g|png|webp|gif)[^"']*)["'][^>]*>/i);
+      if (img) rssImg = img[1];
+    }
     items.push({
       title: pick('title'),
       link: pick('link'),
       description: pick('description').replace(/<[^>]+>/g,'').slice(0, 800),
       pubDate: pick('pubDate'),
       sourceName: pick('source') || new URL(url).hostname.replace(/^www\./,''),
+      rssImage: rssImg,
     });
   }
   return items;
+}
+
+async function fetchOgImage(articleUrl) {
+  try {
+    const ctrl = new AbortController();
+    const to = setTimeout(() => ctrl.abort(), 15000);
+    const r = await fetch(articleUrl, {
+      headers: { 'user-agent': UA, 'accept': 'text/html,application/xhtml+xml' },
+      signal: ctrl.signal,
+      redirect: 'follow',
+    });
+    clearTimeout(to);
+    if (!r.ok) return null;
+    const html = await r.text();
+    // Try og:image first, then og:image:secure_url, then twitter:image
+    const candidates = [
+      /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
+      /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
+      /<meta[^>]+property=["']og:image:secure_url["'][^>]+content=["']([^"']+)["']/i,
+      /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i,
+      /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i,
+    ];
+    for (const re of candidates) {
+      const m = html.match(re);
+      if (m && m[1]) {
+        let url = m[1].trim();
+        if (url.startsWith('//')) url = 'https:' + url;
+        if (url.startsWith('/')) url = new URL(articleUrl).origin + url;
+        return url;
+      }
+    }
+    return null;
+  } catch (e) { return null; }
+}
+
+async function downloadImage(imageUrl, destAbsPath) {
+  try {
+    const ctrl = new AbortController();
+    const to = setTimeout(() => ctrl.abort(), 30000);
+    const r = await fetch(imageUrl, {
+      headers: { 'user-agent': UA, 'accept': 'image/*' },
+      signal: ctrl.signal,
+      redirect: 'follow',
+    });
+    clearTimeout(to);
+    if (!r.ok) return false;
+    const ct = r.headers.get('content-type') || '';
+    if (!ct.startsWith('image/')) return false;
+    const buf = Buffer.from(await r.arrayBuffer());
+    if (buf.length < 1500) return false; // 너무 작으면 placeholder
+    await fs.mkdir(path.dirname(destAbsPath), { recursive: true });
+    await fs.writeFile(destAbsPath, buf);
+    return true;
+  } catch (e) { return false; }
+}
+
+function pickExt(imageUrl, contentType) {
+  const m = imageUrl.match(/\.(jpe?g|png|webp|gif|avif)(?:[?#]|$)/i);
+  if (m) return m[1].toLowerCase().replace('jpeg','jpg');
+  if (contentType?.includes('png')) return 'png';
+  if (contentType?.includes('webp')) return 'webp';
+  if (contentType?.includes('gif')) return 'gif';
+  return 'jpg';
+}
+
+async function fetchAndSaveImage(item, id) {
+  // 1순위: RSS의 image, 2순위: 기사 페이지 og:image
+  let candidate = item.rssImage;
+  if (!candidate) {
+    candidate = await fetchOgImage(item.link);
+  }
+  if (!candidate) {
+    console.log(`[img] no candidate for ${id}`);
+    return null;
+  }
+  const ext = pickExt(candidate);
+  const relPath = `public/images/articles/${id}.${ext}`;
+  const absPath = path.join(ROOT, relPath);
+  const ok = await downloadImage(candidate, absPath);
+  if (ok) {
+    const st = await fs.stat(absPath);
+    console.log(`[img] OK ${relPath} (${st.size}b) <- ${candidate.slice(0,80)}`);
+    return `/images/articles/${id}.${ext}`;
+  }
+  // 다운로드 실패 시 og:image도 fallback 시도
+  if (candidate === item.rssImage) {
+    const og = await fetchOgImage(item.link);
+    if (og && og !== candidate) {
+      const ext2 = pickExt(og);
+      const relPath2 = `public/images/articles/${id}.${ext2}`;
+      const absPath2 = path.join(ROOT, relPath2);
+      const ok2 = await downloadImage(og, absPath2);
+      if (ok2) {
+        const st2 = await fs.stat(absPath2);
+        console.log(`[img] OK fallback ${relPath2} (${st2.size}b)`);
+        return `/images/articles/${id}.${ext2}`;
+      }
+    }
+  }
+  console.log(`[img] download failed for ${id}: ${candidate.slice(0,80)}`);
+  return null;
 }
 
 async function loadExistingDedupKeys() {
@@ -88,37 +209,20 @@ function makeSlug(title) {
   return title.toLowerCase().replace(/[^\p{L}\p{N}\s-]+/gu,'').trim().replace(/\s+/g,'-').slice(0, 60) + '-' + Math.floor(Math.random()*900000+100000);
 }
 
-// Run codex with sandbox option
 async function runCodex(prompt, opts = {}) {
   const sandbox = opts.sandbox || 'read-only';
   const timeoutMs = opts.timeoutMs || 240_000;
-  const args = [
-    'exec',
-    '--json',
-    '--sandbox', sandbox,
-    '--skip-git-repo-check',
-    '--ignore-rules',
-    prompt,
-  ];
+  const args = ['exec','--json','--sandbox', sandbox,'--skip-git-repo-check','--ignore-rules', prompt];
   return new Promise((resolve, reject) => {
     const child = spawn('codex', args, { cwd: ROOT, stdio: ['ignore', 'pipe', 'pipe'] });
     let out = '', err = '';
     child.stdout.on('data', d => { out += d.toString(); });
     child.stderr.on('data', d => { err += d.toString(); });
-    const to = setTimeout(() => {
-      child.kill('SIGKILL');
-      reject(new Error(`codex timeout ${timeoutMs}ms (sandbox=${sandbox})`));
-    }, timeoutMs);
+    const to = setTimeout(() => { child.kill('SIGKILL'); reject(new Error(`codex timeout ${timeoutMs}ms`)); }, timeoutMs);
     child.on('error', e => { clearTimeout(to); reject(new Error('spawn: '+e.message)); });
     child.on('close', code => {
       clearTimeout(to);
-      console.log(`[codex ${sandbox}] code=${code} stdout=${out.length}b err=${err.length}b`);
-      if (out.length < 2000) {
-        console.log(`[codex ${sandbox} small-stdout]:`, out.slice(0, 2000));
-      }
-      if (err.length > 0) {
-        console.log(`[codex ${sandbox} stderr]:`, err.slice(0, 500));
-      }
+      console.log(`[codex] code=${code} stdout=${out.length}b err=${err.length}b`);
       if (code !== 0) return reject(new Error(`exit ${code}. err: ${err.slice(0,300)}`));
       resolve(out);
     });
@@ -136,7 +240,6 @@ function parseJson(stdout) {
       }
     } catch {}
   }
-  console.log(`[parser] msgs=${messages.length} last=${messages[messages.length-1]?.length}b`);
   for (let i = messages.length - 1; i >= 0; i--) {
     const text = messages[i].trim();
     try { return JSON.parse(text); } catch {}
@@ -163,7 +266,7 @@ function buildTranslationPrompt(channel, item) {
     `=== 작성 규칙 ===`,
     `1. title: 50-80자, 핵심 키워드 앞쪽 배치, 클릭률 높은 톤, 과장·낚시 금지`,
     `2. excerpt: 150-200자, meta description용. 누가/무엇을/언제/왜를 한 줄로 압축`,
-    `3. body: 400-700자. 뉴스 구조: 리드(5W1H) → 배경/맥k��/관련 수치 → 영향/전망 → 출처: ${item.sourceName} 인용`,
+    `3. body: 400-700자. 뉴스 구조: 리드(5W1H) → 배경/맥락/관련 수치 → 영향/전망 → 출처: ${item.sourceName} 인용`,
     `4. 사실 그대로(원문 정보만 사용), 추측·과장 금지`,
     `5. 11개 언어 모두 동일 사실, 자연스러운 현지어 어순`,
     `6. 한국어가 원천이며 다른 언어는 한국어 본문을 충실 번역`,
@@ -176,63 +279,15 @@ function buildTranslationPrompt(channel, item) {
   ].join('\n');
 }
 
-function buildImagePrompt(item, imgRelPath) {
-  const desc = (item.title.slice(0, 180) + ' — ' + item.description.slice(0, 220)).replace(/[`"\\]/g, ' ').replace(/\s+/g, ' ').trim();
-  return [
-    `$imagegen`,
-    ``,
-    `Generate ONE 1200x630 photorealistic editorial news photograph and save it at: ${imgRelPath}`,
-    ``,
-    `Image content: ${desc}`,
-    ``,
-    `Style: Reuters/AP wire-service photograph, photorealistic, professional lighting, documentary style, 16:9 wide composition, no text overlay, no watermark, no captions, no logos.`,
-    ``,
-    `IMPORTANT — file location:`,
-    `1. After image_gen creates the image, find it (probably in $HOME/.codex/generated_images/ — newest .png file).`,
-    `2. Run shell: \`mkdir -p $(dirname ${imgRelPath}) && cp "$(ls -t $HOME/.codex/generated_images/*.png 2>/dev/null | head -1)" "${imgRelPath}"\``,
-    `3. Verify with \`ls -la ${imgRelPath}\` — file must exist and be > 1KB.`,
-    ``,
-    `Reply with: OK on success, FAIL: <reason> on failure.`,
-  ].join('\n');
-}
-
-async function generateImage(item, id) {
-  const imgRelPath = `public/images/articles/${id}.png`;
-  const imgAbsPath = path.join(ROOT, imgRelPath);
-  // Ensure dir exists
-  await fs.mkdir(path.dirname(imgAbsPath), { recursive: true });
-  const prompt = buildImagePrompt(item, imgRelPath);
-  console.log(`[img] gen ${id}.png ...`);
-  try {
-    await runCodex(prompt, { sandbox: 'workspace-write', timeoutMs: 300_000 });
-  } catch (e) {
-    console.warn(`[img] codex failed: ${e.message}`);
-    return null;
-  }
-  // Verify file exists
-  try {
-    const st = await fs.stat(imgAbsPath);
-    if (st.size > 1000) {
-      console.log(`[img] OK ${imgRelPath} (${st.size}b)`);
-      return `/images/articles/${id}.png`;
-    } else {
-      console.warn(`[img] file too small: ${st.size}b`);
-      return null;
-    }
-  } catch (e) {
-    console.warn(`[img] file not found: ${imgAbsPath}`);
-    return null;
-  }
-}
-
 async function generateOne(channel, item) {
   const slug = makeSlug(item.title);
   const id = sha1(canonicalUrl(item.link)).slice(0, 12);
 
-  // Step 1: generate image (in workspace-write sandbox)
-  const imageUrl = await generateImage(item, id);
+  // Step 1: fetch real image (RSS image OR original article OG image)
+  console.log(`[img] start ${id}`);
+  const imageUrl = await fetchAndSaveImage(item, id);
 
-  // Step 2: generate 11-language translation
+  // Step 2: 11-language translation via codex
   const tPrompt = buildTranslationPrompt(channel, item);
   console.log(`[translate] start: ${item.title.slice(0,60)}...`);
   const stdout = await runCodex(tPrompt, { sandbox: 'read-only', timeoutMs: 240_000 });
@@ -286,7 +341,7 @@ async function rebuildSeed() {
 }
 
 async function main() {
-  console.log('=== codex-cron v11 (image_gen + 11-locale + SEO) ===');
+  console.log('=== codex-cron v12 (real OG images + 11-locale + SEO) ===');
   const channel = await loadChannel();
   console.log(`channel: ${channel.name} (${channel.id})  sources: ${channel.sources.length}`);
 
