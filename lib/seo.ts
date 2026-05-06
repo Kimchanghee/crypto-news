@@ -36,7 +36,7 @@ export function articleMetadata(a: GeneratedArticle, locale: Locale): Metadata {
   const title = i.title || a.slug;
   const desc = pickMetaDescription(i);
   return {
-    title: `${title} — ${channel.name}`,
+    title: title, // layout template adds " — channel.name"
     description: desc,
     alternates: {
       canonical: url,
