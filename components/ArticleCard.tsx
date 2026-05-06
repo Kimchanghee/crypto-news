@@ -8,13 +8,32 @@ function calcReadingTime(text: string): number {
   return Math.max(1, Math.round(text.split(/\s+/).length / 200));
 }
 
+// Map channelId (uppercase) to category SVG slug (lowercase)
+const CHANNEL_TO_CAT: Record<string, string> = {
+  REALESTATE: 'realestate',
+  STOCKS: 'stocks',
+  CRYPTO: 'crypto',
+  MACRO: 'macro',
+  ETF: 'etf',
+  FX: 'fx',
+};
+
+function pickCategorySlug(article: GeneratedArticle): string {
+  const cat = (article.category || '').toLowerCase();
+  // If category matches a known SVG, use it
+  if (['realestate','stocks','crypto','macro','etf','fx'].includes(cat)) return cat;
+  // Else fallback to channel
+  const channelCat = CHANNEL_TO_CAT[(article.channelId || '').toUpperCase()];
+  return channelCat || 'breaking';
+}
+
 export function ArticleCard({ article, locale, large = false }: { article: GeneratedArticle; locale: Locale; large?: boolean }) {
   const t = useTranslations();
   const i: any = article.i18n[locale] ?? article.i18n[defaultLocale] ?? {};
   const summary = i.summary || i.excerpt || '';
   const readingTime = i.readingTime || calcReadingTime(i.body || i.bodyHtml || '');
-  // Always show image; fallback to category SVG
-  const img = article.imageUrl || `/images/category-${article.category || 'breaking'}.svg`;
+  const cat = pickCategorySlug(article);
+  const img = article.imageUrl || `/images/category-${cat}.svg`;
 
   return (
     <Link href={`/${locale}/article/${article.slug}`} className="card" style={{ display: 'block', textDecoration: 'none', color: 'var(--ink)', padding: 0, overflow: 'hidden' }}>
@@ -23,7 +42,7 @@ export function ArticleCard({ article, locale, large = false }: { article: Gener
       </div>
       <div style={{ padding: large ? 24 : 18 }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', gap: 8, marginBottom: 8 }}>
-          <span className="tag">{article.category}</span>
+          <span className="tag">{cat}</span>
           <span style={{ fontSize: 11, color: 'var(--muted)' }}>{readingTime} min</span>
         </div>
         <h3 style={{ fontSize: large ? 24 : 18, fontWeight: 600, margin: '4px 0 8px', lineHeight: 1.3 }}>{i.title}</h3>
