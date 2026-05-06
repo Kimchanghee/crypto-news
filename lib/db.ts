@@ -1,113 +1,79 @@
 /**
- * Vercel KV-backed persistence with two graceful fallbacks:
- *   1) seed JSON shipped in the repo (data/seed.json) — used when KV is empty
- *      so the site shows curated content from day one.
- *   2) in-memory map for `next dev` without KV credentials.
+ * Filesystem-backed persistence — source of truth is git-tracked data/seed.json.
+ * codex-cron writes new articles to data/articles/{id}.json then rebuilds seed.json.
+ * This module reads seed.json (bundled at build time by Next.js JSON import).
  */
-import { kv } from '@vercel/kv';
-import type { GeneratedArticle, SourceItem } from './types';
+import type { GeneratedArticle } from './types';
 
-const HAS_KV = !!process.env.KV_REST_API_URL && !!process.env.KV_REST_API_TOKEN;
+let _cache: GeneratedArticle[] | null = null;
 
-const memArticles = new Map<string, GeneratedArticle>();
-const memSeen = new Set<string>();
-
-const KEY_ARTICLE = (id: string) => `article:${id}`;
-const KEY_BY_SLUG = (slug: string) => `slug:${slug}`;
-const KEY_INDEX = (channelId: string) => `index:${channelId}`;
-const KEY_SEEN = (id: string) => `seen:${id}`;
-
-/** Three-key dedup signature. */
-const KEY_SEEN_KEYS = (k: string) => `seenkey:${k}`;
-
-let _seedCache: GeneratedArticle[] | null = null;
-async function loadSeeds(): Promise<GeneratedArticle[]> {
-  if (_seedCache) return _seedCache;
+async function loadAll(): Promise<GeneratedArticle[]> {
+  if (_cache) return _cache;
   try {
     const mod = await import('@/data/seed.json');
-    _seedCache = (mod as any).default ?? (mod as any);
+    const data = (mod as any).default ?? (mod as any);
+    _cache = Array.isArray(data) ? data : [];
   } catch {
-    _seedCache = [];
+    _cache = [];
   }
-  return _seedCache!;
+  return _cache!;
 }
 
 export const db = {
-  async hasSeen(id: string): Promise<boolean> {
-    if (!HAS_KV) return memSeen.has(id);
-    return (await kv.get(KEY_SEEN(id))) !== null;
-  },
-  /** Has this dedup key (URL hash, title hash, or source+title hash) been seen? */
-  async hasSeenKey(key: string): Promise<boolean> {
-    if (!HAS_KV) return memSeen.has(key);
-    return (await kv.get(KEY_SEEN_KEYS(key))) !== null;
-  },
-  async markSeen(items: SourceItem[]): Promise<void> {
-    if (!HAS_KV) {
-      items.forEach((i) => memSeen.add(i.id));
-      return;
-    }
-    await Promise.all(items.map((i) => kv.set(KEY_SEEN(i.id), 1, { ex: 60 * 60 * 24 * 60 })));
-  },
-  async markSeenKeys(keys: string[]): Promise<void> {
-    if (!HAS_KV) {
-      keys.forEach((k) => memSeen.add(k));
-      return;
-    }
-    await Promise.all(keys.map((k) => kv.set(KEY_SEEN_KEYS(k), 1, { ex: 60 * 60 * 24 * 60 })));
-  },
-  async putArticle(a: GeneratedArticle): Promise<void> {
-    if (!HAS_KV) {
-      memArticles.set(a.id, a);
-      return;
-    }
-    await kv.set(KEY_ARTICLE(a.id), a);
-    await kv.set(KEY_BY_SLUG(a.slug), a.id);
-    await kv.lpush(KEY_INDEX(a.channelId), a.id);
-    await kv.ltrim(KEY_INDEX(a.channelId), 0, 4999);
-  },
+  async hasSeen(_id: string): Promise<boolean> { return false; },
+  async markSeen(_items: any[]): Promise<void> {},
+  async putArticle(_a: GeneratedArticle): Promise<void> {},
+
   async getBySlug(slug: string): Promise<GeneratedArticle | null> {
-    if (!HAS_KV) {
-      const mem = Array.from(memArticles.values()).find((a) => a.slug === slug);
-      if (mem) return mem;
-      const seeds = await loadSeeds();
-      return seeds.find((a) => a.slug === slug) ?? null;
+    const all = await loadAll();
+    // Try exact match first
+    let hit = all.find((a) => a.slug === slug);
+    if (hit) return hit;
+    // Try URL-decoded match (Next.js may pass percent-encoded)
+    try {
+      const decoded = decodeURIComponent(slug);
+      hit = all.find((a) => a.slug === decoded);
+      if (hit) return hit;
+    } catch {}
+    // Try matching by id suffix (slug ends with -{6digits})
+    const m = slug.match(/-(\d{6})$/);
+    if (m) {
+      hit = all.find((a) => a.slug?.endsWith(`-${m[1]}`));
+      if (hit) return hit;
     }
-    const id = await kv.get<string>(KEY_BY_SLUG(slug));
-    if (id) {
-      const a = await kv.get<GeneratedArticle>(KEY_ARTICLE(id));
-      if (a) return a;
+    // Try matching by article id (12 hex chars)
+    if (/^[a-f0-9]{12}$/i.test(slug)) {
+      hit = all.find((a) => a.id === slug);
+      if (hit) return hit;
     }
-    // KV miss → try seeds
-    const seeds = await loadSeeds();
-    return seeds.find((a) => a.slug === slug) ?? null;
+    return null;
   },
+
+  async getById(id: string): Promise<GeneratedArticle | null> {
+    const all = await loadAll();
+    return all.find((a) => a.id === id) ?? null;
+  },
+
   async listLatest(channelId: string, limit = 30): Promise<GeneratedArticle[]> {
-    let arts: GeneratedArticle[] = [];
-    if (HAS_KV) {
-      const ids = await kv.lrange<string>(KEY_INDEX(channelId), 0, limit - 1);
-      if (ids?.length) {
-        const fetched = await Promise.all(ids.map((id) => kv.get<GeneratedArticle>(KEY_ARTICLE(id))));
-        arts = fetched.filter(Boolean) as GeneratedArticle[];
-      }
-    } else {
-      arts = Array.from(memArticles.values())
-        .filter((a) => a.channelId === channelId)
-        .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
-    }
-    if (arts.length < limit) {
-      // Augment with seeds (avoid duplicate ids)
-      const seen = new Set(arts.map((a) => a.id));
-      const seeds = await loadSeeds();
-      const seedExtra = seeds.filter((a) => a.channelId === channelId && !seen.has(a.id));
-      arts = arts.concat(seedExtra)
-        .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
-        .slice(0, limit);
-    }
-    return arts;
+    const all = await loadAll();
+    return all
+      .filter((a) => !channelId || a.channelId === channelId)
+      .sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''))
+      .slice(0, limit);
   },
+
   async listByCategory(channelId: string, category: string, limit = 30): Promise<GeneratedArticle[]> {
-    const all = await db.listLatest(channelId, 200);
-    return all.filter((a) => a.category === category).slice(0, limit);
+    const all = await loadAll();
+    return all
+      .filter((a) => (!channelId || a.channelId === channelId) && a.category === category)
+      .sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''))
+      .slice(0, limit);
+  },
+
+  async listAll(limit = 200): Promise<GeneratedArticle[]> {
+    const all = await loadAll();
+    return all
+      .sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''))
+      .slice(0, limit);
   }
 };
