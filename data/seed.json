@@ -1,5 +1,230 @@
 [
   {
+    "id": "fc0c5368f55b",
+    "slug": "linea-contributes-zk-rollup-stack-to-linux-foundation-open-s-563500",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T21:49:19.312Z",
+    "updatedAt": "2026-05-06T21:49:19.312Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/linea-contributes-zk-rollup-stack-to-linux-foundation-open-source-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/linea-contributes-zk-rollup-stack-to-linux-foundation-open-source-group",
+    "titleFingerprint": "25ba0293a31bfa5dc4853edd24396fa19f916b58",
+    "dedupKeys": [
+      "fc0c5368f55b7a10160d5c4b9af69ed67f17e884",
+      "25ba0293a31bfa5dc4853edd24396fa19f916b58",
+      "3bd111900a57dc7b63c5992270a2eb7af2ab267d"
+    ],
+    "imageUrl": "/images/articles/fc0c5368f55b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Linea, ZK 롤업 스택 Lineth로 LFDT에 기여",
+        "excerpt": "Linea 컨소시엄은 2026년 5월 6일 보도에서 리눅스 재단 분산신뢰 그룹 LFDT에 프리미어 회원으로 합류하고 ZK 롤업 스택을 Lineth로 이전했다고 밝혔다.",
+        "body": "Linea 컨소시엄이 리눅스 재단 분산신뢰 그룹 LFDT에 프리미어 회원으로 합류하고, Linea를 구동하는 오픈소스 ZK 롤업 스택을 새 코드 프로젝트 Lineth로 기여했다. 코인텔레그래프가 2026년 5월 6일 보도한 내용에 따르면 이번 조치는 단일 회사가 아닌 재단 거버넌스 아래 핵심 레이어2 기술을 두기 위한 것이다. 이 스택은 실행, 합의, 증명 시스템과 L1·L2 스마트컨트랙트를 포함한다. Linea 컨소시엄 이사 Declan Fox는 이 기술에 중립적 거처를 제공한다고 설명했다. 다만 보도는 이번 기여가 오픈소스 기술 스택의 거버넌스에 관한 것이며, Linea 네트워크 자체의 탈중앙화를 의미하지는 않는다고 전했다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Linea Moves ZK Rollup Stack Lineth to LFDT Governance",
+        "excerpt": "Linea Consortium joined LFDT as a premier member and contributed its ZK rollup stack as Lineth, placing the technology under foundation-governed open-source oversight.",
+        "body": "Linea Consortium has joined Linux Foundation Decentralized Trust, or LFDT, as a premier member and contributed the open-source ZK rollup stack powering Linea as a new code project called Lineth. According to Cointelegraph’s May 6, 2026 report, the move puts Linea’s core layer-2 technology under foundation governance rather than a single company. The stack includes execution, consensus and proof systems, plus L1 and L2 smart contracts. Linea Consortium board director Declan Fox said the step gives the technology a neutral home. The report also noted that the contribution concerns governance of the open-source technology stack and does not necessarily decentralize the Linea network itself. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "Linea、ZKロールアップ基盤LinethをLFDT管理へ移管",
+        "excerpt": "LineaコンソーシアムはLFDTにプレミア会員として参加し、ZKロールアップスタックをLinethとして提供、技術を財団統治下に置いた。",
+        "body": "Lineaコンソーシアムは、Linux Foundation Decentralized Trust（LFDT）にプレミア会員として参加し、Lineaを支えるオープンソースのZKロールアップスタックを新たなコードプロジェクトLinethとして提供した。Cointelegraphが2026年5月6日に報じたところによると、この動きは中核的なレイヤー2技術を単一企業ではなく財団のガバナンス下に置くものだ。スタックには実行、合意、証明システム、L1・L2スマートコントラクトが含まれる。Lineaコンソーシアム理事のDeclan Fox氏は、技術に中立的な拠点を与えると説明した。ただし報道は、今回の提供がオープンソース技術スタックのガバナンスに関するもので、Lineaネットワーク自体の分散化を意味するとは限らないと伝えた。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "Linea将ZK Rollup堆栈Lineth纳入LFDT治理",
+        "excerpt": "Linea Consortium以高级会员身份加入LFDT，并将其ZK Rollup技术栈作为Lineth贡献给开源治理，使核心技术进入基金会管理框架。",
+        "body": "Linea Consortium已以高级会员身份加入Linux Foundation Decentralized Trust（LFDT），并将驱动Linea的开源ZK Rollup技术栈作为新代码项目Lineth贡献给该组织。据Cointelegraph 2026年5月6日报道，此举旨在把Linea的核心二层技术置于基金会治理之下，而非由单一公司控制。该技术栈包括执行、共识和证明系统，以及L1和L2智能合约。Linea Consortium董事Declan Fox表示，这为相关技术提供了一个中立归属。不过报道也指出，这次贡献涉及开源技术栈的治理，并不必然意味着Linea网络本身已经实现去中心化。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Linea lleva su stack ZK rollup Lineth a la gobernanza LFDT",
+        "excerpt": "Linea Consortium se unió a LFDT como miembro premier y aportó su stack ZK rollup como Lineth para situar la tecnología bajo gobernanza abierta de fundación.",
+        "body": "Linea Consortium se unió a Linux Foundation Decentralized Trust, o LFDT, como miembro premier y aportó el stack ZK rollup de código abierto que impulsa Linea como un nuevo proyecto de código llamado Lineth. Según informó Cointelegraph el 6 de mayo de 2026, la medida coloca la tecnología central de capa 2 de Linea bajo gobernanza de una fundación, en lugar de una sola empresa. El stack incluye sistemas de ejecución, consenso y pruebas, además de contratos inteligentes L1 y L2. Declan Fox, director de la junta de Linea Consortium, dijo que el paso da a la tecnología un hogar neutral. El reporte aclaró que la contribución trata sobre la gobernanza del stack abierto y no necesariamente descentraliza la red Linea en sí. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Linea leva stack ZK rollup Lineth para governança da LFDT",
+        "excerpt": "O Linea Consortium entrou na LFDT como membro premier e contribuiu seu stack ZK rollup como Lineth, colocando a tecnologia sob governança aberta de fundação.",
+        "body": "O Linea Consortium entrou na Linux Foundation Decentralized Trust, ou LFDT, como membro premier e contribuiu o stack ZK rollup de código aberto que alimenta a Linea como um novo projeto de código chamado Lineth. Segundo reportagem da Cointelegraph em 6 de maio de 2026, a medida coloca a tecnologia central de camada 2 da Linea sob governança de uma fundação, e não de uma única empresa. O stack inclui sistemas de execução, consenso e prova, além de contratos inteligentes L1 e L2. Declan Fox, diretor do conselho do Linea Consortium, disse que a iniciativa dá à tecnologia um lar neutro. A reportagem observou que a contribuição trata da governança do stack aberto e não significa necessariamente a descentralização da própria rede Linea. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Linea stellt ZK-Rollup-Stack Lineth unter LFDT-Governance",
+        "excerpt": "Das Linea Consortium trat LFDT als Premier-Mitglied bei und brachte seinen ZK-Rollup-Stack als Lineth ein, damit die Technologie von einer Stiftung verwaltet wird.",
+        "body": "Das Linea Consortium ist der Linux Foundation Decentralized Trust, kurz LFDT, als Premier-Mitglied beigetreten und hat den Open-Source-ZK-Rollup-Stack, der Linea antreibt, als neues Codeprojekt Lineth eingebracht. Laut einem Bericht von Cointelegraph vom 6. Mai 2026 wird Lineas zentrale Layer-2-Technologie damit unter die Governance einer Stiftung gestellt, statt von einem einzelnen Unternehmen kontrolliert zu werden. Der Stack umfasst Ausführungs-, Konsens- und Beweissysteme sowie L1- und L2-Smart-Contracts. Declan Fox, Board Director des Linea Consortium, sagte, der Schritt gebe der Technologie ein neutrales Zuhause. Der Bericht betonte zugleich, dass es um die Governance des Open-Source-Technologiestacks geht und nicht zwingend um die Dezentralisierung des Linea-Netzwerks selbst. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Linea place son stack ZK rollup Lineth sous gouvernance LFDT",
+        "excerpt": "Linea Consortium a rejoint la LFDT comme membre premier et contribué son stack ZK rollup sous le nom Lineth afin de placer la technologie sous gouvernance de fondation.",
+        "body": "Linea Consortium a rejoint Linux Foundation Decentralized Trust, ou LFDT, comme membre premier et a contribué le stack ZK rollup open source qui alimente Linea comme nouveau projet de code nommé Lineth. Selon Cointelegraph le 6 mai 2026, cette décision place la technologie centrale de couche 2 de Linea sous la gouvernance d’une fondation plutôt que sous le contrôle d’une seule entreprise. Le stack comprend des systèmes d’exécution, de consensus et de preuve, ainsi que des smart contracts L1 et L2. Declan Fox, directeur du conseil de Linea Consortium, a déclaré que cette étape donne à la technologie un foyer neutre. Le média a aussi précisé que la contribution concerne la gouvernance du stack open source et ne signifie pas nécessairement la décentralisation du réseau Linea lui-même. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "Linea تنقل حزمة ZK Rollup Lineth إلى حوكمة LFDT",
+        "excerpt": "انضم Linea Consortium إلى LFDT كعضو مميز وقدم حزمة ZK rollup باسم Lineth، في خطوة تضع التقنية ضمن حوكمة مفتوحة تديرها مؤسسة محايدة.",
+        "body": "انضم Linea Consortium إلى Linux Foundation Decentralized Trust، المعروفة باسم LFDT، كعضو مميز، وقدم حزمة ZK rollup مفتوحة المصدر التي تشغل Linea كمشروع كود جديد باسم Lineth. ووفقا لتقرير Cointelegraph في 6 مايو 2026، تنقل الخطوة تقنية الطبقة الثانية الأساسية لدى Linea إلى حوكمة مؤسسة بدلا من سيطرة شركة واحدة. وتشمل الحزمة أنظمة التنفيذ والإجماع والإثبات، إضافة إلى عقود ذكية على L1 وL2. وقال Declan Fox، مدير مجلس Linea Consortium، إن الخطوة تمنح التقنية موطنا محايدا. لكن التقرير أوضح أن المساهمة تتعلق بحوكمة الحزمة التقنية مفتوحة المصدر، ولا تعني بالضرورة لامركزية شبكة Linea نفسها. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Linea ने ZK रोलअप स्टैक Lineth को LFDT शासन में दिया",
+        "excerpt": "Linea Consortium LFDT का प्रीमियर सदस्य बना और अपने ZK रोलअप स्टैक को Lineth के रूप में योगदान दिया, जिससे तकनीक फाउंडेशन गवर्नेंस में आई।",
+        "body": "Linea Consortium Linux Foundation Decentralized Trust, यानी LFDT, में प्रीमियर सदस्य के रूप में शामिल हुआ और Linea को चलाने वाले ओपन-सोर्स ZK रोलअप स्टैक को Lineth नाम के नए कोड प्रोजेक्ट के रूप में योगदान दिया। Cointelegraph की 6 मई 2026 की रिपोर्ट के अनुसार, यह कदम Linea की मुख्य लेयर-2 तकनीक को किसी एक कंपनी के बजाय फाउंडेशन गवर्नेंस के तहत रखता है। इस स्टैक में execution, consensus और proof systems के साथ L1 और L2 smart contracts शामिल हैं। Linea Consortium के बोर्ड निदेशक Declan Fox ने कहा कि यह तकनीक को एक neutral home देता है। रिपोर्ट ने यह भी स्पष्ट किया कि योगदान ओपन-सोर्स तकनीकी स्टैक की गवर्नेंस से जुड़ा है और इसका मतलब Linea नेटवर्क का स्वतः विकेंद्रीकरण नहीं है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Linea Bawa Stack ZK Rollup Lineth ke Tata Kelola LFDT",
+        "excerpt": "Linea Consortium bergabung dengan LFDT sebagai anggota premier dan menyumbangkan stack ZK rollup sebagai Lineth agar teknologi berada di bawah tata kelola yayasan.",
+        "body": "Linea Consortium bergabung dengan Linux Foundation Decentralized Trust, atau LFDT, sebagai anggota premier dan menyumbangkan stack ZK rollup open-source yang menjalankan Linea sebagai proyek kode baru bernama Lineth. Menurut laporan Cointelegraph pada 6 Mei 2026, langkah ini menempatkan teknologi inti layer-2 Linea di bawah tata kelola yayasan, bukan kendali satu perusahaan. Stack tersebut mencakup sistem eksekusi, konsensus, dan pembuktian, serta smart contract L1 dan L2. Direktur dewan Linea Consortium Declan Fox mengatakan langkah ini memberi teknologi tersebut rumah yang netral. Namun laporan itu juga menegaskan bahwa kontribusi ini menyangkut tata kelola stack teknologi open-source dan tidak serta-merta berarti desentralisasi jaringan Linea itu sendiri. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "b9636082c732",
+    "slug": "bubblemaps-flags-mystery-token-over-90-wallet-launch-sniping-122007",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T21:48:14.426Z",
+    "updatedAt": "2026-05-06T21:48:14.426Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/bubblemaps-flags-mystery-over-90-wallet-launch-sniping-cluster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/bubblemaps-flags-mystery-over-90-wallet-launch-sniping-cluster",
+    "titleFingerprint": "3ef32c3f9f0285bb2b920546026b51ee635c1f0b",
+    "dedupKeys": [
+      "b9636082c73274cc7cf829866f32f800e9fd7786",
+      "3ef32c3f9f0285bb2b920546026b51ee635c1f0b",
+      "eeae57533f75875916c2c6d0741331b13df7da78"
+    ],
+    "imageUrl": "/images/articles/b9636082c732.jpg",
+    "i18n": {
+      "ko": {
+        "title": "MYSTERY 토큰, 90개 지갑 출시 스나이핑 의혹 제기",
+        "excerpt": "Bubblemaps는 MYSTERY 토큰 출시 당시 90개 이상 지갑 클러스터가 공급량 90%를 축적했다고 밝혀 분배 구조 우려를 키웠다.",
+        "body": "블록체인 분석 플랫폼 Bubblemaps는 MYSTERY 토큰 출시 과정에서 90개 이상 지갑으로 구성된 대형 클러스터가 공급량의 90%를 축적한 정황을 확인했다고 밝혔다. 해당 지갑군은 출시 시점에 토큰을 집중 매집한 것으로 지목돼, 초기 분배가 얼마나 넓게 이뤄졌는지에 대한 의문을 낳고 있다. Bubblemaps의 문제 제기는 MYSTERY 토큰 보유 구조와 시장 신뢰를 둘러싼 검토로 이어질 수 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "MYSTERY token flagged over 90-wallet launch sniping cluster",
+        "excerpt": "Bubblemaps said a cluster of more than 90 wallets accumulated 90% of MYSTERY’s supply at launch, raising concerns over token distribution.",
+        "body": "Blockchain analytics platform Bubblemaps said it identified signs that a large cluster of more than 90 wallets accumulated 90% of the MYSTERY token supply during launch. The wallet group was flagged for concentrated buying at the launch stage, raising questions about how broadly the token was initially distributed. Bubblemaps’ finding may lead to closer scrutiny of MYSTERY’s ownership structure and market trust. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "MYSTERYトークン、90超のウォレット群にローンチ狙いの懸念",
+        "excerpt": "Bubblemapsは、MYSTERYのローンチ時に90超のウォレット群が供給量の90%を蓄積したと指摘し、分配への懸念が高まった。",
+        "body": "ブロックチェーン分析プラットフォームのBubblemapsは、MYSTERYトークンのローンチ時に90を超えるウォレットで構成される大規模クラスターが供給量の90%を蓄積した兆候を確認したと述べた。このウォレット群はローンチ段階で集中的に取得したとして注目され、初期分配がどれほど広く行われたのかに疑問を投げかけている。今回の指摘は、MYSTERYの保有構造と市場の信頼を巡る精査につながる可能性がある。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "MYSTERY代币被指90多个钱包启动抢购集群",
+        "excerpt": "Bubblemaps称，MYSTERY上线时一个由90多个钱包组成的集群积累了90%供应量，引发对代币分配结构的担忧。",
+        "body": "区块链分析平台Bubblemaps表示，其发现MYSTERY代币上线过程中，一个由90多个钱包组成的大型集群积累了该代币90%供应量的迹象。该钱包群被指在上线阶段集中买入，引发外界对初始分配是否足够分散的疑问。Bubblemaps的提示可能促使市场进一步审视MYSTERY的持有结构及其信任基础。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "MYSTERY bajo alerta por clúster de más de 90 wallets en lanzamiento",
+        "excerpt": "Bubblemaps dijo que más de 90 wallets acumularon el 90% del suministro de MYSTERY en su lanzamiento, elevando dudas sobre su distribución.",
+        "body": "La plataforma de análisis blockchain Bubblemaps dijo que identificó indicios de que un gran clúster de más de 90 wallets acumuló el 90% del suministro del token MYSTERY durante su lanzamiento. El grupo de wallets fue señalado por compras concentradas en la fase inicial, lo que plantea dudas sobre qué tan amplia fue la distribución del token. El hallazgo de Bubblemaps podría llevar a un mayor escrutinio de la estructura de tenencia de MYSTERY y de la confianza del mercado. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "MYSTERY entra em alerta por cluster de mais de 90 carteiras",
+        "excerpt": "A Bubblemaps disse que mais de 90 carteiras acumularam 90% da oferta do MYSTERY no lançamento, levantando dúvidas sobre a distribuição.",
+        "body": "A plataforma de análise blockchain Bubblemaps afirmou ter identificado sinais de que um grande cluster com mais de 90 carteiras acumulou 90% da oferta do token MYSTERY durante o lançamento. O grupo de carteiras foi apontado por compras concentradas na fase inicial, levantando dúvidas sobre o quão ampla foi a distribuição do token. A constatação da Bubblemaps pode levar a uma análise mais próxima da estrutura de posse do MYSTERY e da confiança do mercado. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "MYSTERY-Token wegen 90-Wallet-Cluster beim Start markiert",
+        "excerpt": "Bubblemaps meldete, dass über 90 Wallets beim Start 90% des MYSTERY-Angebots ansammelten und damit Zweifel an der Verteilung auslösten.",
+        "body": "Die Blockchain-Analyseplattform Bubblemaps teilte mit, Hinweise darauf gefunden zu haben, dass ein großer Cluster aus mehr als 90 Wallets beim Start 90% des Angebots des MYSTERY-Tokens ansammelte. Die Wallet-Gruppe wurde wegen konzentrierter Käufe in der Startphase markiert, was Fragen zur Breite der anfänglichen Token-Verteilung aufwirft. Der Befund von Bubblemaps könnte zu einer genaueren Prüfung der Besitzstruktur von MYSTERY und des Marktvertrauens führen. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "MYSTERY signalé pour un cluster de plus de 90 wallets au lancement",
+        "excerpt": "Bubblemaps affirme qu’un cluster de plus de 90 wallets a accumulé 90% de l’offre de MYSTERY au lancement, soulevant des doutes sur la distribution.",
+        "body": "La plateforme d’analyse blockchain Bubblemaps a déclaré avoir identifié des signes selon lesquels un grand cluster de plus de 90 wallets a accumulé 90% de l’offre du token MYSTERY lors de son lancement. Ce groupe de wallets a été signalé pour des achats concentrés au stade initial, ce qui soulève des questions sur l’ampleur de la distribution de départ. Le constat de Bubblemaps pourrait entraîner un examen plus attentif de la structure de détention de MYSTERY et de la confiance du marché. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "تحذير حول MYSTERY بسبب كتلة من أكثر من 90 محفظة عند الإطلاق",
+        "excerpt": "قالت Bubblemaps إن كتلة تضم أكثر من 90 محفظة جمعت 90% من معروض MYSTERY عند الإطلاق، ما أثار مخاوف بشأن التوزيع.",
+        "body": "قالت منصة تحليل البلوكتشين Bubblemaps إنها رصدت مؤشرات على أن كتلة كبيرة تضم أكثر من 90 محفظة جمعت 90% من معروض توكن MYSTERY أثناء الإطلاق. وتمت الإشارة إلى هذه المحافظ بسبب الشراء المركز في مرحلة الإطلاق، ما يطرح تساؤلات حول مدى اتساع التوزيع الأولي للتوكن. وقد يدفع تنبيه Bubblemaps إلى مزيد من التدقيق في هيكل ملكية MYSTERY وثقة السوق به. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "MYSTERY टोकन पर 90 से अधिक वॉलेट क्लस्टर को लेकर अलर्ट",
+        "excerpt": "Bubblemaps ने कहा कि लॉन्च पर 90 से अधिक वॉलेट्स के क्लस्टर ने MYSTERY की 90% सप्लाई जुटाई, जिससे वितरण पर चिंता बढ़ी।",
+        "body": "ब्लॉकचेन एनालिटिक्स प्लेटफॉर्म Bubblemaps ने कहा कि उसने संकेत पहचाने हैं कि MYSTERY टोकन के लॉन्च के दौरान 90 से अधिक वॉलेट्स वाले एक बड़े क्लस्टर ने कुल सप्लाई का 90% जमा कर लिया। इस वॉलेट समूह को लॉन्च चरण में केंद्रित खरीदारी के लिए चिह्नित किया गया, जिससे यह सवाल उठा कि शुरुआती वितरण कितना व्यापक था। Bubblemaps की यह जानकारी MYSTERY की होल्डिंग संरचना और बाजार भरोसे की अधिक जांच को जन्म दे सकती है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "MYSTERY disorot karena klaster sniping lebih dari 90 wallet",
+        "excerpt": "Bubblemaps menyebut lebih dari 90 wallet mengakumulasi 90% suplai MYSTERY saat peluncuran, memicu kekhawatiran soal distribusi token.",
+        "body": "Platform analitik blockchain Bubblemaps mengatakan telah mengidentifikasi tanda bahwa klaster besar berisi lebih dari 90 wallet mengakumulasi 90% suplai token MYSTERY saat peluncuran. Kelompok wallet itu disorot karena pembelian terkonsentrasi pada tahap awal, sehingga menimbulkan pertanyaan tentang seberapa luas distribusi awal token tersebut. Temuan Bubblemaps dapat mendorong pemeriksaan lebih lanjut atas struktur kepemilikan MYSTERY dan kepercayaan pasar. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "fc927b8a6b7c",
+    "slug": "us-bitcoin-reserve-update-coming-in-next-few-weeks-white-hou-839470",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T21:47:30.960Z",
+    "updatedAt": "2026-05-06T21:47:30.960Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/policy/2026/05/06/u-s-bitcoin-reserve-update-coming-in-next-few-weeks-white-house-s-adviser-says",
+    "canonicalUrl": "https://www.coindesk.com/policy/2026/05/06/u-s-bitcoin-reserve-update-coming-in-next-few-weeks-white-house-s-adviser-says",
+    "titleFingerprint": "1095673c7c60f1f080c6fd8c3cacb04f80b2fa03",
+    "dedupKeys": [
+      "fc927b8a6b7cd60503d553e03a9f18c8f9021954",
+      "1095673c7c60f1f080c6fd8c3cacb04f80b2fa03",
+      "61141a76bb9659b6aba3fd203224b3e35de57d69"
+    ],
+    "imageUrl": "/images/articles/fc927b8a6b7c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 비트코인 준비금 업데이트 임박, 백악관 고문 발언 주목",
+        "excerpt": "백악관 디지털자산 고문 패트릭 위트는 향후 몇 주 안에 미국 비트코인 준비금 관련 업데이트가 나올 것이라며 연방 보유 암호자산 보호 필요성을 강조했다.",
+        "body": "백악관 디지털자산 고문 패트릭 위트는 미국 비트코인 준비금에 관한 업데이트가 “향후 몇 주 안에” 나올 것이라고 밝혔다. 그는 최근 미국 연방보안관실이 보유한 자산과 관련된 익스플로잇 사례를 언급하며, 연방 정부가 보유한 암호자산을 더 안전하게 관리해야 한다고 설명했다. 이번 발언은 미국 정부의 비트코인 및 암호자산 보유분을 둘러싼 관리 체계와 보안 논의가 이어지는 가운데 나왔다. 향후 발표는 준비금 운용 방향과 보관 방식에 대한 추가 단서를 제공할 수 있다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "U.S. Bitcoin Reserve Update Nears as White House Adviser Speaks",
+        "excerpt": "White House digital-assets adviser Patrick Witt said an update on the U.S. Bitcoin reserve is expected in the next few weeks, citing the need to protect federal crypto holdings.",
+        "body": "White House digital-assets adviser Patrick Witt said an update on the U.S. Bitcoin reserve will come in the “next few weeks.” He pointed to a recent exploit involving assets held by the U.S. Marshals as evidence that crypto assets held by the federal government need stronger safeguards. The comments come as debate continues over how the U.S. government should manage and secure its Bitcoin and other crypto holdings. The upcoming update may offer more detail on the reserve’s operating direction and custody approach. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "米ビットコイン準備金の続報近く、ホワイトハウス顧問が発言",
+        "excerpt": "ホワイトハウスのデジタル資産顧問パトリック・ウィット氏は、米ビットコイン準備金に関する続報が今後数週間で出ると述べた。",
+        "body": "ホワイトハウスのデジタル資産顧問パトリック・ウィット氏は、米国のビットコイン準備金に関するアップデートが「今後数週間以内」に出ると明らかにした。同氏は、米連邦保安局が保有する資産に関係した最近のエクスプロイト事例を挙げ、連邦政府が保有する暗号資産にはより強固な保護が必要だと説明した。発言は、米政府のビットコインおよび暗号資産保有分の管理体制と保管方法をめぐる議論が続く中で出た。今後の発表は、準備金の運用方針や保管体制に関する追加の手掛かりとなる可能性がある。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "美国比特币储备更新临近，白宫顾问释放关键信号",
+        "excerpt": "白宫数字资产顾问Patrick Witt表示，美国比特币储备将在未来几周内迎来更新，并强调联邦加密资产需要更安全的保护。",
+        "body": "白宫数字资产顾问Patrick Witt表示，有关美国比特币储备的更新将在“未来几周内”公布。他提到，近期一起涉及美国法警署所持资产的漏洞利用事件，说明联邦政府持有的加密资产需要更强的安全保护。此番表态出现在美国政府如何管理和保护其比特币及其他加密资产持仓的讨论持续之际。即将发布的更新，可能为储备的运行方向和托管方式提供更多线索。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Reserva de Bitcoin de EE. UU. tendrá actualización pronto, dice asesor",
+        "excerpt": "Patrick Witt, asesor de activos digitales de la Casa Blanca, dijo que habrá una actualización sobre la reserva de Bitcoin de EE. UU. en las próximas semanas.",
+        "body": "Patrick Witt, asesor de activos digitales de la Casa Blanca, dijo que una actualización sobre la reserva de Bitcoin de Estados Unidos llegará en las “próximas semanas”. Witt citó un exploit reciente relacionado con activos mantenidos por el U.S. Marshals Service como prueba de que las tenencias cripto del gobierno federal necesitan mayor protección. Sus declaraciones llegan mientras continúa el debate sobre cómo debe administrar y resguardar el gobierno estadounidense sus bitcoins y otros criptoactivos. La próxima actualización podría aportar más detalles sobre la dirección operativa de la reserva y su modelo de custodia. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Reserva de Bitcoin dos EUA terá atualização em breve, diz assessor",
+        "excerpt": "Patrick Witt, assessor de ativos digitais da Casa Branca, disse que uma atualização sobre a reserva de Bitcoin dos EUA deve sair nas próximas semanas.",
+        "body": "Patrick Witt, assessor de ativos digitais da Casa Branca, afirmou que uma atualização sobre a reserva de Bitcoin dos Estados Unidos deve chegar nas “próximas semanas”. Ele citou um exploit recente envolvendo ativos mantidos pelo U.S. Marshals Service como evidência de que os criptoativos sob posse do governo federal precisam de salvaguardas mais fortes. A fala ocorre enquanto segue o debate sobre como o governo dos EUA deve administrar e proteger seus bitcoins e outros ativos digitais. A próxima atualização pode trazer mais detalhes sobre a direção operacional da reserva e o modelo de custódia. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "US-Bitcoin-Reserve vor Update, Berater des Weißen Hauses spricht",
+        "excerpt": "Patrick Witt, Digital-Assets-Berater des Weißen Hauses, sagte, ein Update zur US-Bitcoin-Reserve werde in den nächsten Wochen erwartet.",
+        "body": "Patrick Witt, Digital-Assets-Berater des Weißen Hauses, sagte, ein Update zur US-Bitcoin-Reserve werde in den “nächsten Wochen” kommen. Er verwies auf einen jüngsten Exploit im Zusammenhang mit Vermögenswerten, die vom U.S. Marshals Service gehalten werden, als Beleg dafür, dass Krypto-Bestände der Bundesregierung besser geschützt werden müssen. Die Aussagen fallen in eine laufende Debatte darüber, wie die US-Regierung ihre Bitcoin- und sonstigen Krypto-Bestände verwalten und sichern soll. Das erwartete Update könnte weitere Hinweise zur Ausrichtung der Reserve und zur Verwahrung liefern. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Réserve Bitcoin américaine: une mise à jour attendue sous peu",
+        "excerpt": "Patrick Witt, conseiller de la Maison Blanche pour les actifs numériques, a indiqué qu’une mise à jour sur la réserve Bitcoin des États-Unis arriverait bientôt.",
+        "body": "Patrick Witt, conseiller de la Maison Blanche pour les actifs numériques, a déclaré qu’une mise à jour sur la réserve Bitcoin des États-Unis arriverait dans les “prochaines semaines”. Il a cité un exploit récent impliquant des actifs détenus par l’U.S. Marshals Service comme preuve que les avoirs crypto du gouvernement fédéral doivent être mieux protégés. Ces propos interviennent alors que le débat se poursuit sur la gestion et la sécurisation des bitcoins et autres actifs numériques détenus par l’État américain. La prochaine annonce pourrait fournir davantage d’indices sur l’orientation opérationnelle de la réserve et son mode de conservation. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "تحديث احتياطي بيتكوين الأمريكي يقترب وفق مستشار بالبيت الأبيض",
+        "excerpt": "قال باتريك ويت، مستشار الأصول الرقمية في البيت الأبيض، إن تحديثا بشأن احتياطي بيتكوين الأمريكي سيصدر خلال الأسابيع المقبلة مع التشديد على حماية الأصول الفيدرالية.",
+        "body": "قال باتريك ويت، مستشار الأصول الرقمية في البيت الأبيض، إن تحديثا بشأن احتياطي بيتكوين الأمريكي سيصدر خلال “الأسابيع القليلة المقبلة”. وأشار إلى استغلال حديث شمل أصولا يحتفظ بها جهاز المارشال الأمريكي، معتبرا ذلك دليلا على أن الأصول المشفرة التي تملكها الحكومة الفيدرالية تحتاج إلى ضمانات حماية أقوى. تأتي التصريحات بينما يستمر النقاش حول كيفية إدارة الحكومة الأمريكية لممتلكاتها من بيتكوين والأصول المشفرة الأخرى وتأمينها. وقد يقدم التحديث المقبل مزيدا من التفاصيل عن اتجاه تشغيل الاحتياطي وطريقة الحفظ. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "अमेरिकी बिटकॉइन रिजर्व अपडेट जल्द, व्हाइट हाउस सलाहकार का बयान",
+        "excerpt": "व्हाइट हाउस के डिजिटल-एसेट सलाहकार पैट्रिक विट ने कहा कि अमेरिकी बिटकॉइन रिजर्व पर अपडेट अगले कुछ हफ्तों में आएगा और संघीय क्रिप्टो सुरक्षा जरूरी है।",
+        "body": "व्हाइट हाउस के डिजिटल-एसेट सलाहकार पैट्रिक विट ने कहा कि अमेरिकी बिटकॉइन रिजर्व पर अपडेट “अगले कुछ हफ्तों” में आएगा। उन्होंने U.S. Marshals द्वारा रखी गई संपत्तियों से जुड़े हालिया एक्सप्लॉइट का हवाला देते हुए कहा कि संघीय सरकार के पास मौजूद क्रिप्टो परिसंपत्तियों को अधिक मजबूत सुरक्षा की जरूरत है। यह बयान ऐसे समय आया है जब अमेरिकी सरकार के बिटकॉइन और अन्य क्रिप्टो होल्डिंग्स के प्रबंधन और सुरक्षा पर चर्चा जारी है। आगामी अपडेट रिजर्व की संचालन दिशा और कस्टडी व्यवस्था पर और संकेत दे सकता है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Update Cadangan Bitcoin AS Segera Hadir, Penasihat Gedung Putih",
+        "excerpt": "Penasihat aset digital Gedung Putih Patrick Witt mengatakan update cadangan Bitcoin AS akan hadir dalam beberapa pekan ke depan dan menyoroti keamanan aset kripto federal.",
+        "body": "Penasihat aset digital Gedung Putih Patrick Witt mengatakan update mengenai cadangan Bitcoin Amerika Serikat akan hadir dalam “beberapa pekan ke depan”. Ia menunjuk exploit terbaru yang melibatkan aset yang dipegang U.S. Marshals sebagai bukti bahwa aset kripto milik pemerintah federal membutuhkan perlindungan yang lebih kuat. Pernyataan ini muncul saat pembahasan tentang cara pemerintah AS mengelola dan mengamankan kepemilikan Bitcoin serta aset kripto lainnya masih berlangsung. Update mendatang dapat memberi petunjuk tambahan tentang arah operasional cadangan dan metode kustodinya. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
     "id": "8ce18ad06344",
     "slug": "us-senator-says-crypto-market-structure-vote-could-happen-by-556728",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Bitcoin Tembus US$80.000 Setelah Kesepakatan Bunga Stablecoin AS",
         "excerpt": "JoongAng Ilbo melaporkan Bitcoin naik melewati US$80.000 setelah muncul kabar kesepakatan di AS terkait pembayaran bunga pada stablecoin.",
         "body": "Harga Bitcoin menembus US$80.000 setelah muncul kabar di Amerika Serikat mengenai kesepakatan terkait “pembayaran bunga” pada stablecoin, lapor JoongAng Ilbo.\n\nMenurut laporan tersebut, kabar ini membuat pasar stablecoin dan pergerakan harga aset kripto sama-sama menjadi perhatian. Judul asli menempatkan kesepakatan bunga stablecoin di AS dan kenaikan Bitcoin di atas US$80.000 sebagai poin utama.\n\nPasar menyoroti bersamaan perubahan terkait stablecoin dan pergerakan harga aset kripto utama. Informasi sumber yang diberikan tidak memuat pihak-pihak dalam kesepakatan, rincian syarat, atau komentar pejabat terkait.\n\nSumber: JoongAng Ilbo"
-      }
-    }
-  },
-  {
-    "id": "8ae2d0a068fb",
-    "slug": "비트코인-절대-안-팔아-82만개-모은-그-남자결국-백기-투항-왜---서울신문-842760",
-    "channelId": "CRYPTO",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:59:50.542Z",
-    "updatedAt": "2026-05-06T07:59:50.542Z",
-    "sourceName": "서울신문",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01d1dpdUZSVEdMdVU5X0xVS1JsdEdBN2ZZX0xwWUNvUzNTR2txNFBUaG9TMlJWZFJ3cS1KQmtGdFl1OEdtemY4Q3lMdDRrS0l0VzlIRzJhZXhiYkVrYWdUY0N6QS0zakpVX01xM3dNTQ?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01d1dpdUZSVEdMdVU5X0xVS1JsdEdBN2ZZX0xwWUNvUzNTR2txNFBUaG9TMlJWZFJ3cS1KQmtGdFl1OEdtemY4Q3lMdDRrS0l0VzlIRzJhZXhiYkVrYWdUY0N6QS0zakpVX01xM3dNTQ?oc=5",
-    "titleFingerprint": "894d73503ce19272f4fb5592638c8e7673c89c0f",
-    "dedupKeys": [
-      "8ae2d0a068fb9b2f457cdbc480a138626192eade",
-      "894d73503ce19272f4fb5592638c8e7673c89c0f",
-      "b9c0f9fb993bede7dd39d46bb782535ae00f65f3"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 81만8334개 보유 스트래티지, 일부 매도 가능성 시사",
-        "excerpt": "마이클 세일러 스트래티지 회장은 5일 1분기 실적 발표에서 배당금 지급을 위해 일부 비트코인을 팔 수 있다고 밝혀 기존 ‘절대 매도 안 한다’ 원칙을 사실상 수정했다.",
-        "body": "마이클 세일러 스트래티지 회장이 5일(현지시간) 1분기 실적 발표 컨퍼런스콜에서 배당금 지급을 위해 일부 비트코인을 매도할 수 있다고 밝혔다. 이는 그동안 고수해온 ‘비트코인은 절대 팔지 않는다’는 입장을 사실상 바꾼 발언이다.\n\n스트래티지는 현재 81만8334개의 비트코인을 보유한 세계 최대 비트코인 투자 기업으로, 평균 매입가는 개당 7만5537달러다. 1분기 매출은 1억2430만달러로 전망치 1억2507만달러를 밑돌았고, 영업손실은 145억달러, 순손실은 128억달러에 달했다.\n\n비트코인 가격이 고점 대비 30% 넘게 하락하고 회사 주가도 최고점 대비 70% 가까이 떨어지면서 유동화 압박이 커졌다. 세일러 회장은 빌린 돈으로 비트코인을 사고 가격 상승을 기다린 뒤 배당금 지급을 위해 일부를 파는 방식도 언급했다.\n\n출처: 서울신문"
-      },
-      "en": {
-        "title": "Strategy With 818,334 Bitcoin Signals Possible Sale for Dividends",
-        "excerpt": "Strategy chairman Michael Saylor said on May 5 that the company may sell part of its Bitcoin holdings to pay dividends, effectively softening his long-held no-sale stance.",
-        "body": "Strategy chairman Michael Saylor said during the company’s first-quarter earnings call on May 5 local time that some Bitcoin could be sold to pay dividends. The remark effectively changes his long-held position that Strategy would never sell Bitcoin.\n\nStrategy is the world’s largest corporate Bitcoin holder, with 818,334 BTC at an average purchase price of $75,537 each. First-quarter revenue was $124.3 million, below the $125.07 million forecast, while operating loss reached $14.5 billion and net loss totaled $12.8 billion.\n\nThe pressure to liquidate assets has grown as Bitcoin has fallen more than 30% from its peak and Strategy shares have dropped nearly 70% from their high. Saylor also described a model of buying Bitcoin with borrowed money, waiting for prices to rise, and selling part of the holdings to fund dividends.\n\nSource: Seoul Shinmun"
-      },
-      "ja": {
-        "title": "ビットコイン81万8334枚保有のStrategy、一部売却の可能性を示唆",
-        "excerpt": "Strategyのマイケル・セイラー会長は5日の第1四半期決算説明で、配当支払いのため一部ビットコインを売却する可能性を示し、従来の不売却方針を事実上修正した。",
-        "body": "Strategyのマイケル・セイラー会長は5日（現地時間）の第1四半期決算説明会で、配当金の支払いに向けて一部ビットコインを売却する可能性があると述べた。これまで掲げてきた「ビットコインは絶対に売らない」という方針を事実上修正した発言だ。\n\nStrategyは世界最大の企業ビットコイン保有者で、現在81万8334BTCを保有している。平均取得価格は1枚あたり7万5537ドル。第1四半期売上高は1億2430万ドルで予想の1億2507万ドルを下回り、営業損失は145億ドル、純損失は128億ドルに達した。\n\nビットコイン価格が高値から30％超下落し、同社株も最高値から約70％下げたことで、資産流動化への圧力が強まった。セイラー氏は、借入金でビットコインを買い、価格上昇を待ったうえで配当支払いのため一部を売る方式にも言及した。\n\n出典: ソウル新聞"
-      },
-      "zh": {
-        "title": "Strategy持有81万8334枚比特币，暗示或为分红出售部分持仓",
-        "excerpt": "Strategy董事长迈克尔·塞勒5日在一季度业绩会上表示，可能为支付股息出售部分比特币，事实上调整了其长期坚持的“不卖比特币”立场。",
-        "body": "Strategy董事长迈克尔·塞勒于当地时间5日在第一季度业绩电话会上表示，公司可能出售部分比特币以支付股息。这意味着他长期坚持的“绝不出售比特币”立场事实上出现调整。\n\nStrategy是全球持有比特币最多的企业，目前持有81万8334枚比特币，平均买入价为每枚7万5537美元。第一季度营收为1.243亿美元，低于市场预期的1.2507亿美元；营业亏损达145亿美元，净亏损为128亿美元。\n\n随着比特币价格较高点下跌超过30%，公司股价也较峰值下跌近70%，资产流动化压力上升。塞勒还提到，公司模式包括借钱买入比特币、等待价格上涨，并为支付股息出售部分持仓。\n\n来源: 首尔新闻"
-      },
-      "es": {
-        "title": "Strategy, con 818.334 bitcoin, abre la puerta a vender parte de sus tenencias",
-        "excerpt": "Michael Saylor, presidente de Strategy, dijo el 5 de mayo que la empresa podría vender parte de sus bitcoin para pagar dividendos, suavizando su postura histórica de no vender.",
-        "body": "Michael Saylor, presidente de Strategy, dijo en la llamada de resultados del primer trimestre del 5 de mayo, hora local, que la empresa podría vender parte de sus bitcoin para pagar dividendos. La declaración modifica de hecho su postura de que Strategy nunca vendería bitcoin.\n\nStrategy es la mayor empresa inversora en bitcoin del mundo, con 818.334 BTC a un precio medio de compra de 75.537 dólares por unidad. Los ingresos del primer trimestre fueron de 124,3 millones de dólares, por debajo de la previsión de 125,07 millones; la pérdida operativa fue de 14.500 millones y la pérdida neta de 12.800 millones.\n\nLa presión para liquidar activos aumentó después de que bitcoin cayera más de un 30% desde su máximo y las acciones de Strategy bajaran casi un 70% desde su pico. Saylor también mencionó comprar bitcoin con deuda, esperar una subida de precio y vender una parte para financiar dividendos.\n\nFuente: Seoul Shinmun"
-      },
-      "pt": {
-        "title": "Strategy, com 818.334 bitcoins, admite venda parcial para pagar dividendos",
-        "excerpt": "Michael Saylor, presidente da Strategy, disse em 5 de maio que a empresa pode vender parte de seus bitcoins para pagar dividendos, revendo na prática sua posição de nunca vender.",
-        "body": "Michael Saylor, presidente da Strategy, afirmou na teleconferência de resultados do primeiro trimestre, em 5 de maio no horário local, que a empresa pode vender parte de seus bitcoins para pagar dividendos. A fala altera na prática a posição mantida por ele de nunca vender bitcoin.\n\nA Strategy é a maior empresa investidora em bitcoin do mundo, com 818.334 BTC e preço médio de compra de US$ 75.537 por unidade. A receita do primeiro trimestre foi de US$ 124,3 milhões, abaixo da previsão de US$ 125,07 milhões; o prejuízo operacional chegou a US$ 14,5 bilhões e o prejuízo líquido a US$ 12,8 bilhões.\n\nA pressão por liquidez cresceu após o bitcoin cair mais de 30% ante o pico e as ações da Strategy recuarem quase 70% desde a máxima. Saylor também citou o modelo de comprar bitcoin com dinheiro emprestado, esperar a alta do preço e vender parte para pagar dividendos.\n\nFonte: Seoul Shinmun"
-      },
-      "de": {
-        "title": "Strategy mit 818.334 Bitcoin deutet Teilverkauf für Dividenden an",
-        "excerpt": "Strategy-Chef Michael Saylor sagte am 5. Mai in der Bilanzrunde, das Unternehmen könne zur Dividendenzahlung einen Teil seiner Bitcoin verkaufen und rückt damit von seiner No-Sell-Linie ab.",
-        "body": "Strategy-Chairman Michael Saylor sagte in der Telefonkonferenz zu den Ergebnissen des ersten Quartals am 5. Mai Ortszeit, dass das Unternehmen zur Zahlung von Dividenden einen Teil seiner Bitcoin verkaufen könnte. Damit ändert er faktisch seine lange vertretene Haltung, Bitcoin niemals zu verkaufen.\n\nStrategy ist der weltweit größte Unternehmenshalter von Bitcoin und besitzt derzeit 818.334 BTC zu einem durchschnittlichen Kaufpreis von 75.537 Dollar je Stück. Der Umsatz im ersten Quartal lag bei 124,3 Millionen Dollar und damit unter der Prognose von 125,07 Millionen Dollar; der operative Verlust betrug 14,5 Milliarden Dollar, der Nettoverlust 12,8 Milliarden Dollar.\n\nDer Druck zur Liquidisierung ist gestiegen, nachdem Bitcoin mehr als 30% unter sein Hoch gefallen ist und die Strategy-Aktie fast 70% vom Höchststand verloren hat. Saylor nannte auch ein Modell, bei dem mit geliehenem Geld Bitcoin gekauft und später ein Teil zur Dividendenzahlung verkauft wird.\n\nQuelle: Seoul Shinmun"
-      },
-      "fr": {
-        "title": "Strategy, détentrice de 818 334 bitcoins, envisage une vente partielle",
-        "excerpt": "Michael Saylor, président de Strategy, a déclaré le 5 mai que l’entreprise pourrait vendre une partie de ses bitcoins pour payer des dividendes, assouplissant de fait sa position de non-vente.",
-        "body": "Michael Saylor, président de Strategy, a déclaré lors de la conférence sur les résultats du premier trimestre, le 5 mai heure locale, que l’entreprise pourrait vendre une partie de ses bitcoins afin de verser des dividendes. Cette déclaration revient de fait sur sa position de longue date selon laquelle Strategy ne vendrait jamais ses bitcoins.\n\nStrategy est la plus grande entreprise détentrice de bitcoin au monde, avec 818 334 BTC acquis à un prix moyen de 75 537 dollars l’unité. Le chiffre d’affaires du premier trimestre a atteint 124,3 millions de dollars, sous la prévision de 125,07 millions; la perte d’exploitation s’est élevée à 14,5 milliards de dollars et la perte nette à 12,8 milliards.\n\nLa pression pour liquider des actifs a augmenté après une baisse de plus de 30% du bitcoin depuis son sommet et un recul de près de 70% de l’action Strategy. Saylor a aussi évoqué un modèle consistant à acheter du bitcoin avec de la dette, attendre une hausse, puis en vendre une partie pour payer les dividendes.\n\nSource: Seoul Shinmun"
-      },
-      "ar": {
-        "title": "ستراتيجي المالكة لـ818334 بيتكوين تلمح إلى بيع جزء من الحيازة",
-        "excerpt": "قال مايكل سايلور، رئيس ستراتيجي، في 5 مايو إن الشركة قد تبيع جزءا من بيتكوين لدفع توزيعات الأرباح، ما يعد تعديلا فعليا لموقفه السابق بعدم البيع مطلقا.",
-        "body": "قال مايكل سايلور، رئيس شركة ستراتيجي، خلال مؤتمر نتائج الربع الأول في 5 مايو بالتوقيت المحلي إن الشركة قد تبيع جزءا من بيتكوين لدفع توزيعات الأرباح. ويمثل ذلك تغييرا فعليا في موقفه الطويل بأن الشركة لن تبيع بيتكوين أبدا.\n\nتعد ستراتيجي أكبر شركة مالكة لبيتكوين في العالم، إذ تحتفظ بـ818334 بيتكوين بمتوسط سعر شراء يبلغ 75537 دولارا للوحدة. وبلغت إيرادات الربع الأول 124.3 مليون دولار، أقل من التوقعات البالغة 125.07 مليون دولار، فيما وصل الخسار التشغيلي إلى 14.5 مليار دولار وصافي الخسارة إلى 12.8 مليار دولار.\n\nزادت ضغوط تسييل الأصول بعد هبوط بيتكوين بأكثر من 30% من قمته وتراجع سهم ستراتيجي بنحو 70% من أعلى مستوى. كما أشار سايلور إلى نموذج يقوم على شراء بيتكوين بأموال مقترضة، وانتظار ارتفاع السعر، ثم بيع جزء لدفع الأرباح.\n\nالمصدر: Seoul Shinmun"
-      },
-      "hi": {
-        "title": "818,334 बिटकॉइन रखने वाली Strategy ने आंशिक बिक्री के संकेत दिए",
-        "excerpt": "Strategy के चेयरमैन माइकल सेलर ने 5 मई को कहा कि कंपनी डिविडेंड भुगतान के लिए कुछ बिटकॉइन बेच सकती है, जिससे उनकी लंबे समय से चली आ रही न बेचने की नीति व्यावहारिक रूप से बदली।",
-        "body": "Strategy के चेयरमैन माइकल सेलर ने स्थानीय समयानुसार 5 मई को पहली तिमाही के नतीजों की कॉन्फ्रेंस कॉल में कहा कि डिविडेंड भुगतान के लिए कंपनी कुछ बिटकॉइन बेच सकती है। यह उनके लंबे समय से दोहराए गए रुख, कि Strategy बिटकॉइन कभी नहीं बेचेगी, में व्यावहारिक बदलाव है।\n\nStrategy दुनिया की सबसे बड़ी कॉरपोरेट बिटकॉइन धारक है। उसके पास 818,334 BTC हैं और औसत खरीद मूल्य 75,537 डॉलर प्रति बिटकॉइन है। पहली तिमाही का राजस्व 124.3 मिलियन डॉलर रहा, जो 125.07 मिलियन डॉलर के अनुमान से कम था। परिचालन घाटा 14.5 बिलियन डॉलर और शुद्ध घाटा 12.8 बिलियन डॉलर रहा।\n\nबिटकॉइन अपने उच्च स्तर से 30% से अधिक गिरा है और Strategy का शेयर भी शिखर से लगभग 70% नीचे आया है, जिससे संपत्ति नकदीकरण का दबाव बढ़ा। सेलर ने उधार के पैसे से बिटकॉइन खरीदने, कीमत बढ़ने की प्रतीक्षा करने और डिविडेंड के लिए कुछ हिस्सा बेचने के मॉडल का भी उल्लेख किया।\n\nस्रोत: Seoul Shinmun"
-      },
-      "id": {
-        "title": "Strategy Pegang 818.334 Bitcoin, Buka Peluang Jual Sebagian Aset",
-        "excerpt": "Michael Saylor, chairman Strategy, pada 5 Mei mengatakan perusahaan dapat menjual sebagian bitcoin untuk membayar dividen, mengubah secara de facto sikap lama bahwa bitcoin tidak akan dijual.",
-        "body": "Michael Saylor, chairman Strategy, mengatakan dalam paparan kinerja kuartal pertama pada 5 Mei waktu setempat bahwa perusahaan dapat menjual sebagian bitcoin untuk membayar dividen. Pernyataan itu secara de facto mengubah sikap lamanya bahwa Strategy tidak akan pernah menjual bitcoin.\n\nStrategy adalah perusahaan pemegang bitcoin terbesar di dunia, dengan 818.334 BTC dan harga beli rata-rata 75.537 dolar AS per koin. Pendapatan kuartal pertama mencapai 124,3 juta dolar AS, di bawah perkiraan 125,07 juta dolar AS; rugi operasional mencapai 14,5 miliar dolar AS dan rugi bersih 12,8 miliar dolar AS.\n\nTekanan untuk mencairkan aset meningkat setelah harga bitcoin turun lebih dari 30% dari puncaknya dan saham Strategy merosot hampir 70% dari level tertinggi. Saylor juga menyebut model membeli bitcoin dengan dana pinjaman, menunggu harga naik, lalu menjual sebagian untuk membayar dividen.\n\nSumber: Seoul Shinmun"
-      }
-    }
-  },
-  {
-    "id": "ce6b873d8892",
-    "slug": "비트코인-8만-달러-안착-안간힘-안도-랠리냐-구조적-반등이냐---글로벌이코노믹-912145",
-    "channelId": "CRYPTO",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:58:26.177Z",
-    "updatedAt": "2026-05-06T07:58:26.177Z",
-    "sourceName": "글로벌이코노믹",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMVhtRmFyaDRQTDE0VU04YXZDYWNQMlVlSHowSzIxSVA0aTU2YUtFbUllc1JxZENCUHZTd0Y0Vlp2UXhRY3NoZ1QtcFRPbkU3VWY0LWY3MVRqNUxqRG1uZ00wX3hiaHplZmZOV2c3bl9TT2tZcE1lTGtwT0xoQTBRODk0MGlqODFC?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMVhtRmFyaDRQTDE0VU04YXZDYWNQMlVlSHowSzIxSVA0aTU2YUtFbUllc1JxZENCUHZTd0Y0Vlp2UXhRY3NoZ1QtcFRPbkU3VWY0LWY3MVRqNUxqRG1uZ00wX3hiaHplZmZOV2c3bl9TT2tZcE1lTGtwT0xoQTBRODk0MGlqODFC?oc=5",
-    "titleFingerprint": "2299d40f8c63b54da1ff0a7c9c94c32d4ed90c4d",
-    "dedupKeys": [
-      "ce6b873d8892ddc3d745ef33b83915a7f684fcb7",
-      "2299d40f8c63b54da1ff0a7c9c94c32d4ed90c4d",
-      "946510535f8126883ddf589fe55ec8b66028446f"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 8만 달러 안착 시도, 안도 랠리와 구조적 반등 사이 주목",
-        "excerpt": "글로벌이코노믹은 비트코인이 8만 달러 선에 안착하려는 움직임을 보이며 이번 상승이 안도 랠리인지 구조적 반등인지 시장의 관심이 모이고 있다고 전했다.",
-        "body": "비트코인이 8만 달러 선에 안착하려는 움직임을 보이고 있다고 글로벌이코노믹이 보도했다. 보도는 이번 흐름을 두고 시장에서 안도 랠리인지, 구조적 반등인지에 대한 판단이 엇갈리고 있다고 전했다.\n\n핵심 가격대는 8만 달러다. 비트코인이 해당 수준을 지켜내는지 여부가 단기 흐름을 가르는 기준으로 주목받고 있으며, 상승세가 일시적 회복인지 더 넓은 반등 국면의 시작인지가 쟁점으로 제시됐다.\n\n시장 영향은 비트코인의 8만 달러 안착 여부에 달려 있다. 보도에 따르면 투자자들은 가격 흐름이 안도 랠리에 머무를지, 구조적 반등으로 이어질지를 확인하는 데 초점을 맞추고 있다.\n\n출처: 글로벌이코노믹"
-      },
-      "en": {
-        "title": "Bitcoin Struggles to Hold $80K as Market Weighs Relief Rally or Structural Rebound",
-        "excerpt": "Global Economic reported that Bitcoin is trying to settle above the $80,000 level, while markets debate whether the move is a relief rally or a structural rebound.",
-        "body": "Bitcoin is attempting to settle around the $80,000 level, Global Economic reported. The report said the market is divided over whether the latest move is a relief rally or a structural rebound.\n\nThe key price level is $80,000. Whether Bitcoin can hold that level is being watched as a short-term signal, while the main question is whether the rise is a temporary recovery or the start of a broader rebound phase.\n\nThe market impact depends on Bitcoin’s ability to stay near $80,000. According to the report, investors are focused on whether the price move remains a relief rally or develops into a structural rebound.\n\nSource: Global Economic"
-      },
-      "ja": {
-        "title": "ビットコイン8万ドル定着を模索、安心ラリーか構造的反発かに注目",
-        "excerpt": "グローバルエコノミックは、ビットコインが8万ドル台への定着を試みるなか、今回の上昇が安心ラリーか構造的反発かに市場の関心が集まっていると伝えた。",
-        "body": "ビットコインが8万ドル水準への定着を試みていると、グローバルエコノミックが報じた。報道では、この動きについて市場で安心ラリーなのか、構造的反発なのか判断が分かれていると伝えた。\n\n焦点となる価格帯は8万ドルだ。ビットコインがこの水準を維持できるかどうかが短期的な流れを見極める基準として注目されており、上昇が一時的な回復なのか、より広い反発局面の始まりなのかが争点になっている。\n\n市場への影響は、ビットコインが8万ドルに定着できるかにかかっている。報道によると、投資家は価格の動きが安心ラリーにとどまるのか、構造的反発へつながるのかを確認することに焦点を当てている。\n\n出典: グローバルエコノミック"
-      },
-      "zh": {
-        "title": "比特币力守8万美元关口，市场聚焦安慰性反弹还是结构性回升",
-        "excerpt": "Global Economic报道称，比特币正试图站稳8万美元关口，市场关注此次上涨究竟是安慰性反弹，还是结构性回升的开始。",
-        "body": "Global Economic报道称，比特币正试图在8万美元关口站稳。报道指出，围绕这一走势，市场对于其是安慰性反弹还是结构性回升存在不同判断。\n\n当前关键价格位是8万美元。比特币能否守住这一水平，被视为判断短期走势的重要依据；此次上涨是短暂修复，还是更大范围反弹阶段的开始，成为市场讨论焦点。\n\n市场影响取决于比特币能否在8万美元附近企稳。报道称，投资者正关注价格走势会停留在安慰性反弹，还是进一步发展为结构性回升。\n\n来源: Global Economic"
-      },
-      "es": {
-        "title": "Bitcoin intenta afianzarse en US$80.000 entre dudas sobre rally de alivio o rebote estructural",
-        "excerpt": "Global Economic informó que Bitcoin intenta consolidarse en torno a los US$80.000, mientras el mercado evalúa si el avance es un rally de alivio o un rebote estructural.",
-        "body": "Bitcoin intenta consolidarse en el nivel de US$80.000, informó Global Economic. Según el reporte, el mercado mantiene opiniones divididas sobre si el movimiento actual es un rally de alivio o un rebote estructural.\n\nEl nivel clave es US$80.000. Que Bitcoin logre sostener esa zona se observa como una referencia para la tendencia de corto plazo, mientras la cuestión central es si la subida representa una recuperación temporal o el inicio de una fase de rebote más amplia.\n\nEl impacto en el mercado depende de la capacidad de Bitcoin para asentarse en US$80.000. De acuerdo con el reporte, los inversores se enfocan en confirmar si el movimiento seguirá siendo un rally de alivio o si avanzará hacia un rebote estructural.\n\nFuente: Global Economic"
-      },
-      "pt": {
-        "title": "Bitcoin tenta firmar US$80 mil enquanto mercado avalia rali de alívio ou recuperação estrutural",
-        "excerpt": "A Global Economic informou que o Bitcoin tenta se firmar na faixa de US$80 mil, enquanto o mercado discute se a alta é um rali de alívio ou uma recuperação estrutural.",
-        "body": "O Bitcoin tenta se firmar no patamar de US$80 mil, informou a Global Economic. Segundo a reportagem, o mercado está dividido sobre se o movimento recente é um rali de alívio ou uma recuperação estrutural.\n\nO nível central é US$80 mil. A capacidade do Bitcoin de sustentar essa faixa é observada como referência para o curto prazo, enquanto a principal questão é se a alta representa uma recuperação temporária ou o início de uma fase de reação mais ampla.\n\nO impacto no mercado depende de o Bitcoin conseguir se manter perto de US$80 mil. De acordo com a reportagem, investidores acompanham se o movimento ficará limitado a um rali de alívio ou se poderá evoluir para uma recuperação estrutural.\n\nFonte: Global Economic"
-      },
-      "de": {
-        "title": "Bitcoin ringt um 80.000 Dollar: Erholungsrally oder strukturelle Trendwende im Fokus",
-        "excerpt": "Global Economic berichtete, dass Bitcoin versucht, sich bei 80.000 Dollar zu stabilisieren, während der Markt abwägt, ob es eine Erholungsrally oder ein struktureller Rebound ist.",
-        "body": "Bitcoin versucht, sich im Bereich von 80.000 Dollar zu stabilisieren, berichtete Global Economic. Dem Bericht zufolge ist der Markt uneins, ob die aktuelle Bewegung eine Erholungsrally oder ein struktureller Rebound ist.\n\nDie zentrale Marke liegt bei 80.000 Dollar. Ob Bitcoin dieses Niveau halten kann, gilt als Orientierung für die kurzfristige Entwicklung; zugleich steht die Frage im Mittelpunkt, ob der Anstieg nur eine vorübergehende Erholung oder der Beginn einer breiteren Gegenbewegung ist.\n\nDie Marktwirkung hängt davon ab, ob Bitcoin sich bei 80.000 Dollar festsetzen kann. Laut Bericht achten Anleger darauf, ob die Kursbewegung eine Erholungsrally bleibt oder in einen strukturellen Rebound übergeht.\n\nQuelle: Global Economic"
-      },
-      "fr": {
-        "title": "Bitcoin tente de tenir les 80 000 dollars, entre rally de soulagement et rebond structurel",
-        "excerpt": "Global Economic rapporte que Bitcoin tente de s’installer autour de 80 000 dollars, tandis que le marché cherche à savoir s’il s’agit d’un rally de soulagement ou d’un rebond structurel.",
-        "body": "Bitcoin tente de s’installer au niveau des 80 000 dollars, a rapporté Global Economic. Selon l’article, le marché reste partagé sur la question de savoir si le mouvement actuel est un rally de soulagement ou un rebond structurel.\n\nLe seuil clé est celui des 80 000 dollars. La capacité de Bitcoin à conserver ce niveau est observée comme un repère de court terme, tandis que l’enjeu principal est de déterminer si la hausse correspond à une reprise temporaire ou au début d’une phase de rebond plus large.\n\nL’impact sur le marché dépendra de la capacité de Bitcoin à se maintenir près de 80 000 dollars. D’après le reportage, les investisseurs cherchent à vérifier si le mouvement restera un rally de soulagement ou s’il évoluera vers un rebond structurel.\n\nSource: Global Economic"
-      },
-      "ar": {
-        "title": "بيتكوين تحاول تثبيت مستوى 80 ألف دولار وسط ترقب: صعود ارتياحي أم تعاف هيكلي؟",
-        "excerpt": "ذكرت Global Economic أن بيتكوين تحاول الاستقرار قرب مستوى 80 ألف دولار، بينما يترقب السوق ما إذا كانت الحركة صعودا ارتياحيا أم تعافيا هيكليا.",
-        "body": "تحاول بيتكوين الاستقرار عند مستوى 80 ألف دولار، بحسب ما أوردته Global Economic. وذكر التقرير أن السوق منقسم بشأن ما إذا كانت الحركة الحالية تمثل صعودا ارتياحيا أم تعافيا هيكليا.\n\nالمستوى المحوري هو 80 ألف دولار. ويجري النظر إلى قدرة بيتكوين على الحفاظ على هذا المستوى كمؤشر لاتجاهها في الأجل القصير، بينما يبقى السؤال الرئيسي ما إذا كان الارتفاع تعافيا مؤقتا أم بداية مرحلة ارتداد أوسع.\n\nيعتمد تأثير ذلك في السوق على قدرة بيتكوين على التمركز قرب 80 ألف دولار. ووفقا للتقرير، يركز المستثمرون على ما إذا كانت حركة السعر ستبقى ضمن صعود ارتياحي أم ستتطور إلى تعاف هيكلي.\n\nالمصدر: Global Economic"
-      },
-      "hi": {
-        "title": "Bitcoin 80,000 डॉलर पर टिकने की कोशिश में, राहत रैली या संरचनात्मक उछाल पर नजर",
-        "excerpt": "Global Economic के अनुसार Bitcoin 80,000 डॉलर के स्तर पर टिकने की कोशिश कर रहा है, जबकि बाजार यह देख रहा है कि यह राहत रैली है या संरचनात्मक उछाल।",
-        "body": "Bitcoin 80,000 डॉलर के स्तर पर टिकने की कोशिश कर रहा है, Global Economic ने रिपोर्ट किया। रिपोर्ट के अनुसार बाजार में इस बात पर मतभेद है कि मौजूदा चाल राहत रैली है या संरचनात्मक उछाल।\n\nमुख्य मूल्य स्तर 80,000 डॉलर है। Bitcoin इस स्तर को बनाए रख पाता है या नहीं, इसे अल्पकालिक रुझान के संकेत के रूप में देखा जा रहा है। बहस का केंद्र यह है कि बढ़त अस्थायी रिकवरी है या व्यापक उछाल चरण की शुरुआत।\n\nबाजार पर प्रभाव Bitcoin के 80,000 डॉलर के पास टिकने की क्षमता पर निर्भर है। रिपोर्ट के मुताबिक निवेशक यह 확인 करने पर ध्यान दे रहे हैं कि मूल्य चाल राहत रैली तक सीमित रहेगी या संरचनात्मक उछाल में बदलेगी।\n\nस्रोत: Global Economic"
-      },
-      "id": {
-        "title": "Bitcoin Coba Bertahan di US$80.000, Pasar Soroti Reli Lega atau Rebound Struktural",
-        "excerpt": "Global Economic melaporkan Bitcoin berupaya menetap di level US$80.000, sementara pasar menilai apakah kenaikan ini reli lega atau rebound struktural.",
-        "body": "Bitcoin berupaya menetap di level US$80.000, menurut laporan Global Economic. Laporan itu menyebut pasar masih terbelah dalam menilai apakah pergerakan terbaru merupakan reli lega atau rebound struktural.\n\nLevel utama yang menjadi perhatian adalah US$80.000. Kemampuan Bitcoin mempertahankan area tersebut dipantau sebagai acuan arah jangka pendek, sementara pertanyaan utamanya adalah apakah kenaikan ini hanya pemulihan sementara atau awal fase rebound yang lebih luas.\n\nDampak terhadap pasar bergantung pada kemampuan Bitcoin bertahan di sekitar US$80.000. Menurut laporan tersebut, investor berfokus memastikan apakah pergerakan harga tetap sebatas reli lega atau berkembang menjadi rebound struktural.\n\nSumber: Global Economic"
-      }
-    }
-  },
-  {
-    "id": "5b7c3a4c5bb9",
-    "slug": "코인시세-비트코인-8만-달러-탈환규제-완화-기대감에-강력-랠리---연합뉴스tv-505557",
-    "channelId": "CRYPTO",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:57:21.093Z",
-    "updatedAt": "2026-05-06T07:57:21.093Z",
-    "sourceName": "연합뉴스TV",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0taERLblJ4MkhIWkg2M1MwaWFjdDl0SUdFR2IyYWJiWEIzNFBvcS1YRTQ3T2FKTW1DVWNwcmJfQ0s2YzNyYjhrQnFPaGV4eURxREItdl95REhhMXN0cVhpVl9wR0s?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0taERLblJ4MkhIWkg2M1MwaWFjdDl0SUdFR2IyYWJiWEIzNFBvcS1YRTQ3T2FKTW1DVWNwcmJfQ0s2YzNyYjhrQnFPaGV4eURxREItdl95REhhMXN0cVhpVl9wR0s?oc=5",
-    "titleFingerprint": "dfba0321e24b2322ff1086cd5e91394dfd538c29",
-    "dedupKeys": [
-      "5b7c3a4c5bb90d0f2ee615535e53a2baf947d6c1",
-      "dfba0321e24b2322ff1086cd5e91394dfd538c29",
-      "c1d35629ae7a61b23bf8302c41752b3c2a8df71e"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 8만 달러 재돌파, 美 규제 합의 기대에 가상자산 랠리",
-        "excerpt": "비트코인이 2026년 5월 6일 오전 약 3개월 만에 8만 달러를 다시 넘었다. 미 의회의 규제 합의 소식과 주요 자산 호재가 가상자산 시장 상승을 이끌었다.",
-        "body": "비트코인이 2026년 5월 6일 오전 8시 기준 약 3개월 만에 8만 달러 선을 돌파하며 가상자산 시장 상승세를 주도했다. 미 의회의 규제 합의 소식과 주요 자산들의 기술적 호재가 매수 심리에 영향을 준 것으로 전해졌다.\n\n빗썸 AI코인시세에 따르면 이날 오전 8시 기준 131개 자산이 상승했고 265개 자산은 보합, 59개 자산은 하락했다. 가상자산 가격은 급등 후 상승폭을 일부 줄이며 보합 흐름을 보였고, 공포·탐욕 지수는 46포인트로 중립 단계였다.\n\n시장 반응은 미국 가상자산 시장 구조화 법안인 클래리티법의 스테이블코인 이자 지급 쟁점에 대한 초당적 합의 소식에 집중됐다. 비트코인은 8만1,000달러 선을 회복했고 DePIN, 메타버스, 레이어1 섹터와 톤코인, 스택스, 지토가 주목받았다.\n\n출처: 연합뉴스TV"
-      },
-      "en": {
-        "title": "Bitcoin Reclaims $80,000 as U.S. Crypto Rule Deal Fuels Market Rally",
-        "excerpt": "Bitcoin moved back above $80,000 on the morning of May 6, 2026, for the first time in about three months, as U.S. regulatory progress and asset-specific catalysts lifted crypto sentiment.",
-        "body": "Bitcoin led gains in the digital asset market on the morning of May 6, 2026, crossing the $80,000 level for the first time in about three months. The move came as news of a U.S. congressional regulatory agreement and technical positives for major assets supported buying sentiment.\n\nAccording to Bithumb AI Coin Market data, as of 8 a.m. that day, 131 assets were rising, 265 were unchanged and 59 were falling. After a sharp climb, crypto prices trimmed part of their gains and moved into a steadier range, while the Crypto Fear and Greed Index stood at 46, indicating a neutral phase.\n\nMarket attention centered on bipartisan agreement over stablecoin interest payments, a key issue in the U.S. crypto market structure bill known as the Clarity Act. Bitcoin recovered to the $81,000 range, while DePIN, metaverse and Layer 1 sectors, along with Toncoin, Stacks and Jito, drew attention.\n\nSource: Yonhap News TV"
-      },
-      "ja": {
-        "title": "ビットコイン8万ドル回復、米規制合意期待で暗号資産が上昇",
-        "excerpt": "ビットコインは2026年5月6日午前、約3カ月ぶりに8万ドル台を回復した。米議会の規制合意報道と主要資産の材料が暗号資産市場を押し上げた。",
-        "body": "ビットコインは2026年5月6日午前8時時点で、約3カ月ぶりに8万ドルを突破し、暗号資産市場の上昇を主導した。米議会での規制合意に関する報道と、主要資産の技術的な好材料が買い心理に影響したと伝えられた。\n\nBithumb AIコイン市況によると、同日午前8時時点で131銘柄が上昇し、265銘柄が横ばい、59銘柄が下落した。暗号資産価格は急伸後に上げ幅を一部縮小して横ばい気味に推移し、恐怖・強欲指数は46ポイントで中立段階だった。\n\n市場は、米国の暗号資産市場構造法案であるクラリティ法を巡り、ステーブルコインの利払い問題で超党派合意が伝わったことに反応した。ビットコインは8万1,000ドル台を回復し、DePIN、メタバース、レイヤー1、トンコイン、スタックス、ジトに注目が集まった。\n\n出典: 聯合ニュースTV"
-      },
-      "zh": {
-        "title": "比特币重返8万美元，美国监管协议预期推动加密资产反弹",
-        "excerpt": "2026年5月6日上午，比特币约三个月来首次重返8万美元上方。美国国会监管协议消息和主要资产技术利好带动加密资产市场走强。",
-        "body": "截至2026年5月6日上午8时，比特币约三个月来首次突破8万美元，带动加密资产市场上涨。报道称，美国国会监管协议消息以及主要资产的技术性利好提振了买盘情绪。\n\n根据Bithumb AI币价数据，当天上午8时，131项资产上涨，265项资产持平，59项资产下跌。加密资产价格在一轮快速上涨后部分回吐涨幅，整体呈现整理走势；加密资产恐惧与贪婪指数为46点，处于中性阶段。\n\n市场焦点集中在美国加密资产市场结构法案“Clarity Act”中有关稳定币付息争议的两党协议消息。比特币回升至8.1万美元一线，DePIN、元宇宙、Layer 1板块以及Toncoin、Stacks、Jito受到关注。\n\n来源: 韩联社TV"
-      },
-      "es": {
-        "title": "Bitcoin recupera los 80.000 dólares por expectativas de acuerdo regulatorio en EE. UU.",
-        "excerpt": "Bitcoin superó los 80.000 dólares en la mañana del 6 de mayo de 2026, por primera vez en unos tres meses, impulsado por avances regulatorios en EE. UU. y catalizadores técnicos.",
-        "body": "Bitcoin lideró las subidas del mercado de criptoactivos en la mañana del 6 de mayo de 2026, al superar los 80.000 dólares por primera vez en cerca de tres meses. La noticia de un acuerdo regulatorio en el Congreso de Estados Unidos y factores técnicos favorables en activos clave influyeron en el ánimo comprador.\n\nSegún Bithumb AI Coin Market, a las 8:00 de ese día subían 131 activos, 265 se mantenían sin cambios y 59 bajaban. Tras el fuerte avance, los precios redujeron parte de las ganancias y pasaron a una fase más estable; el índice de miedo y codicia cripto marcó 46 puntos, nivel neutral.\n\nLa atención del mercado se centró en el acuerdo bipartidista sobre el pago de intereses en stablecoins, un punto clave de la ley estadounidense de estructura del mercado cripto, conocida como Clarity Act. Bitcoin recuperó la zona de 81.000 dólares y destacaron DePIN, metaverso, Layer 1, Toncoin, Stacks y Jito.\n\nFuente: Yonhap News TV"
-      },
-      "pt": {
-        "title": "Bitcoin volta aos US$ 80 mil com expectativa de acordo regulatório nos EUA",
-        "excerpt": "O bitcoin superou US$ 80 mil na manhã de 6 de maio de 2026, pela primeira vez em cerca de três meses, apoiado por avanço regulatório nos EUA e fatores técnicos em ativos relevantes.",
-        "body": "O bitcoin liderou a alta do mercado de criptoativos na manhã de 6 de maio de 2026, ao romper a marca de US$ 80 mil pela primeira vez em cerca de três meses. A notícia de um acordo regulatório no Congresso dos Estados Unidos e fatores técnicos positivos em ativos importantes influenciaram o sentimento de compra.\n\nSegundo o Bithumb AI Coin Market, às 8h daquele dia 131 ativos estavam em alta, 265 estáveis e 59 em queda. Depois de uma forte valorização, os preços reduziram parte dos ganhos e passaram a mostrar movimento mais lateral; o índice de medo e ganância cripto ficou em 46 pontos, nível neutro.\n\nO mercado reagiu ao acordo bipartidário sobre o pagamento de juros em stablecoins, tema central do projeto norte-americano de estrutura do mercado cripto, o Clarity Act. O bitcoin recuperou a faixa de US$ 81 mil, enquanto DePIN, metaverso, Layer 1, Toncoin, Stacks e Jito ganharam atenção.\n\nFonte: Yonhap News TV"
-      },
-      "de": {
-        "title": "Bitcoin steigt wieder über 80.000 Dollar, US-Regulierungsdeal stützt Kryptomarkt",
-        "excerpt": "Bitcoin überschritt am Morgen des 6. Mai 2026 erstmals seit rund drei Monaten wieder 80.000 Dollar. Fortschritte bei US-Regeln und technische Impulse wichtiger Assets trieben den Markt an.",
-        "body": "Bitcoin führte am Morgen des 6. Mai 2026 die Erholung am Kryptomarkt an und überschritt erstmals seit rund drei Monaten wieder die Marke von 80.000 Dollar. Berichte über eine regulatorische Einigung im US-Kongress sowie technische positive Faktoren bei wichtigen Assets stützten die Kaufstimmung.\n\nLaut Bithumb AI Coin Market lagen um 8 Uhr an diesem Tag 131 Assets im Plus, 265 unverändert und 59 im Minus. Nach dem starken Anstieg gaben die Preise einen Teil der Gewinne ab und bewegten sich stabiler; der Krypto-Angst-und-Gier-Index stand bei 46 Punkten und damit im neutralen Bereich.\n\nIm Fokus stand eine parteiübergreifende Einigung zur Verzinsung von Stablecoins, einem Kernpunkt des US-Gesetzes zur Struktur des Kryptomarkts, dem Clarity Act. Bitcoin erholte sich bis in den Bereich von 81.000 Dollar, während DePIN, Metaverse, Layer 1 sowie Toncoin, Stacks und Jito Aufmerksamkeit erhielten.\n\nQuelle: Yonhap News TV"
-      },
-      "fr": {
-        "title": "Bitcoin repasse les 80 000 dollars avec l’espoir d’un accord réglementaire américain",
-        "excerpt": "Le bitcoin a dépassé 80 000 dollars le matin du 6 mai 2026, une première en environ trois mois, porté par des avancées réglementaires aux États-Unis et des signaux techniques favorables.",
-        "body": "Le bitcoin a mené la hausse du marché des cryptoactifs le matin du 6 mai 2026, en dépassant le seuil de 80 000 dollars pour la première fois depuis environ trois mois. L’annonce d’un accord réglementaire au Congrès américain et des facteurs techniques favorables sur plusieurs actifs majeurs ont soutenu l’appétit acheteur.\n\nSelon Bithumb AI Coin Market, à 8 h ce jour-là, 131 actifs progressaient, 265 étaient stables et 59 reculaient. Après une forte hausse, les prix ont réduit une partie de leurs gains et évolué de manière plus stable; l’indice crypto de peur et de cupidité s’établissait à 46 points, en zone neutre.\n\nLe marché s’est concentré sur l’accord bipartisan concernant le versement d’intérêts sur les stablecoins, un point clé du projet américain de structuration du marché crypto, le Clarity Act. Le bitcoin a retrouvé la zone des 81 000 dollars, tandis que DePIN, métavers, Layer 1, Toncoin, Stacks et Jito ont attiré l’attention.\n\nSource: Yonhap News TV"
-      },
-      "ar": {
-        "title": "بيتكوين تستعيد 80 ألف دولار مع توقعات اتفاق تنظيمي أمريكي يدعم السوق",
-        "excerpt": "تجاوزت بيتكوين مستوى 80 ألف دولار صباح 6 مايو 2026 للمرة الأولى في نحو ثلاثة أشهر، بدعم من أنباء تقدم تنظيمي في الولايات المتحدة ومحفزات فنية لأصول رئيسية.",
-        "body": "قادت بيتكوين مكاسب سوق الأصول المشفرة صباح 6 مايو 2026، بعدما تجاوزت مستوى 80 ألف دولار للمرة الأولى في نحو ثلاثة أشهر. وجاء التحرك مع تأثير أنباء اتفاق تنظيمي في الكونغرس الأمريكي وعوامل فنية إيجابية في أصول رئيسية على معنويات الشراء.\n\nوبحسب بيانات Bithumb AI Coin Market، كانت 131 أصلا مرتفعة عند الساعة الثامنة صباحا، مقابل 265 أصلا مستقرا و59 أصلا متراجعا. وبعد صعود حاد، قلصت الأسعار جزءا من مكاسبها واتجهت إلى حركة أكثر استقرارا، بينما سجل مؤشر الخوف والطمع في العملات المشفرة 46 نقطة، وهو مستوى محايد.\n\nتركز اهتمام السوق على اتفاق بين الحزبين بشأن دفع الفوائد على العملات المستقرة، وهو بند رئيسي في مشروع قانون هيكلة سوق الأصول المشفرة الأمريكي المعروف باسم Clarity Act. وتعافت بيتكوين إلى نطاق 81 ألف دولار، فيما حظيت قطاعات DePIN والميتافيرس وLayer 1، إضافة إلى Toncoin وStacks وJito، باهتمام المستثمرين.\n\nالمصدر: يونهاب نيوز TV"
-      },
-      "hi": {
-        "title": "बिटकॉइन फिर 80,000 डॉलर के पार, अमेरिकी नियामकीय सहमति से क्रिप्टो बाजार में तेजी",
-        "excerpt": "बिटकॉइन 6 मई 2026 की सुबह करीब तीन महीने बाद 80,000 डॉलर से ऊपर निकला। अमेरिकी नियामकीय सहमति की खबर और प्रमुख परिसंपत्तियों के तकनीकी संकेतों ने बाजार को सहारा दिया।",
-        "body": "बिटकॉइन ने 6 मई 2026 की सुबह क्रिप्टो परिसंपत्ति बाजार की बढ़त का नेतृत्व किया और करीब तीन महीने बाद 80,000 डॉलर के स्तर को पार किया। अमेरिकी कांग्रेस में नियामकीय सहमति की खबर और प्रमुख परिसंपत्तियों से जुड़े तकनीकी सकारात्मक कारकों ने खरीदारी भावना को प्रभावित किया।\n\nBithumb AI Coin Market के अनुसार, उस दिन सुबह 8 बजे 131 परिसंपत्तियां चढ़ रही थीं, 265 स्थिर थीं और 59 गिर रही थीं। तेज उछाल के बाद कीमतों ने कुछ बढ़त गंवाई और अधिक स्थिर दायरे में रहीं; क्रिप्टो फियर एंड ग्रीड इंडेक्स 46 अंक पर था, जो तटस्थ स्थिति को दिखाता है।\n\nबाजार का ध्यान अमेरिकी क्रिप्टो बाजार संरचना विधेयक Clarity Act में स्टेबलकॉइन पर ब्याज भुगतान से जुड़े प्रमुख मुद्दे पर द्विदलीय सहमति की खबर पर रहा। बिटकॉइन 81,000 डॉलर के दायरे में लौटा, जबकि DePIN, मेटावर्स, Layer 1, Toncoin, Stacks और Jito पर ध्यान गया।\n\nस्रोत: Yonhap News TV"
-      },
-      "id": {
-        "title": "Bitcoin Tembus Lagi US$80.000, Harapan Kesepakatan Regulasi AS Dorong Reli",
-        "excerpt": "Bitcoin kembali menembus US$80.000 pada pagi 6 Mei 2026 untuk pertama kalinya dalam sekitar tiga bulan, didukung kabar kemajuan regulasi AS dan katalis teknis aset utama.",
-        "body": "Bitcoin memimpin kenaikan pasar aset kripto pada pagi 6 Mei 2026 setelah menembus level US$80.000 untuk pertama kalinya dalam sekitar tiga bulan. Kabar kesepakatan regulasi di Kongres AS dan faktor teknis positif pada aset-aset utama disebut memengaruhi sentimen beli.\n\nMenurut Bithumb AI Coin Market, pada pukul 08.00 hari itu terdapat 131 aset yang naik, 265 aset stagnan, dan 59 aset turun. Setelah lonjakan tajam, harga kripto memangkas sebagian kenaikan dan bergerak lebih stabil; indeks fear and greed kripto berada di 46 poin, atau fase netral.\n\nPerhatian pasar tertuju pada kesepakatan bipartisan terkait pembayaran bunga stablecoin, isu utama dalam rancangan undang-undang struktur pasar kripto AS yang dikenal sebagai Clarity Act. Bitcoin pulih ke area US$81.000, sementara sektor DePIN, metaverse, Layer 1, serta Toncoin, Stacks, dan Jito menjadi sorotan.\n\nSumber: Yonhap News TV"
       }
     }
   }

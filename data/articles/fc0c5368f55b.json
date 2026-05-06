@@ -1,0 +1,75 @@
+{
+  "id": "fc0c5368f55b",
+  "slug": "linea-contributes-zk-rollup-stack-to-linux-foundation-open-s-563500",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-06T21:49:19.312Z",
+  "updatedAt": "2026-05-06T21:49:19.312Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/linea-contributes-zk-rollup-stack-to-linux-foundation-open-source-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/linea-contributes-zk-rollup-stack-to-linux-foundation-open-source-group",
+  "titleFingerprint": "25ba0293a31bfa5dc4853edd24396fa19f916b58",
+  "dedupKeys": [
+    "fc0c5368f55b7a10160d5c4b9af69ed67f17e884",
+    "25ba0293a31bfa5dc4853edd24396fa19f916b58",
+    "3bd111900a57dc7b63c5992270a2eb7af2ab267d"
+  ],
+  "imageUrl": "/images/articles/fc0c5368f55b.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Linea, ZK 롤업 스택 Lineth로 LFDT에 기여",
+      "excerpt": "Linea 컨소시엄은 2026년 5월 6일 보도에서 리눅스 재단 분산신뢰 그룹 LFDT에 프리미어 회원으로 합류하고 ZK 롤업 스택을 Lineth로 이전했다고 밝혔다.",
+      "body": "Linea 컨소시엄이 리눅스 재단 분산신뢰 그룹 LFDT에 프리미어 회원으로 합류하고, Linea를 구동하는 오픈소스 ZK 롤업 스택을 새 코드 프로젝트 Lineth로 기여했다. 코인텔레그래프가 2026년 5월 6일 보도한 내용에 따르면 이번 조치는 단일 회사가 아닌 재단 거버넌스 아래 핵심 레이어2 기술을 두기 위한 것이다. 이 스택은 실행, 합의, 증명 시스템과 L1·L2 스마트컨트랙트를 포함한다. Linea 컨소시엄 이사 Declan Fox는 이 기술에 중립적 거처를 제공한다고 설명했다. 다만 보도는 이번 기여가 오픈소스 기술 스택의 거버넌스에 관한 것이며, Linea 네트워크 자체의 탈중앙화를 의미하지는 않는다고 전했다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "Linea Moves ZK Rollup Stack Lineth to LFDT Governance",
+      "excerpt": "Linea Consortium joined LFDT as a premier member and contributed its ZK rollup stack as Lineth, placing the technology under foundation-governed open-source oversight.",
+      "body": "Linea Consortium has joined Linux Foundation Decentralized Trust, or LFDT, as a premier member and contributed the open-source ZK rollup stack powering Linea as a new code project called Lineth. According to Cointelegraph’s May 6, 2026 report, the move puts Linea’s core layer-2 technology under foundation governance rather than a single company. The stack includes execution, consensus and proof systems, plus L1 and L2 smart contracts. Linea Consortium board director Declan Fox said the step gives the technology a neutral home. The report also noted that the contribution concerns governance of the open-source technology stack and does not necessarily decentralize the Linea network itself. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "Linea、ZKロールアップ基盤LinethをLFDT管理へ移管",
+      "excerpt": "LineaコンソーシアムはLFDTにプレミア会員として参加し、ZKロールアップスタックをLinethとして提供、技術を財団統治下に置いた。",
+      "body": "Lineaコンソーシアムは、Linux Foundation Decentralized Trust（LFDT）にプレミア会員として参加し、Lineaを支えるオープンソースのZKロールアップスタックを新たなコードプロジェクトLinethとして提供した。Cointelegraphが2026年5月6日に報じたところによると、この動きは中核的なレイヤー2技術を単一企業ではなく財団のガバナンス下に置くものだ。スタックには実行、合意、証明システム、L1・L2スマートコントラクトが含まれる。Lineaコンソーシアム理事のDeclan Fox氏は、技術に中立的な拠点を与えると説明した。ただし報道は、今回の提供がオープンソース技術スタックのガバナンスに関するもので、Lineaネットワーク自体の分散化を意味するとは限らないと伝えた。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "Linea将ZK Rollup堆栈Lineth纳入LFDT治理",
+      "excerpt": "Linea Consortium以高级会员身份加入LFDT，并将其ZK Rollup技术栈作为Lineth贡献给开源治理，使核心技术进入基金会管理框架。",
+      "body": "Linea Consortium已以高级会员身份加入Linux Foundation Decentralized Trust（LFDT），并将驱动Linea的开源ZK Rollup技术栈作为新代码项目Lineth贡献给该组织。据Cointelegraph 2026年5月6日报道，此举旨在把Linea的核心二层技术置于基金会治理之下，而非由单一公司控制。该技术栈包括执行、共识和证明系统，以及L1和L2智能合约。Linea Consortium董事Declan Fox表示，这为相关技术提供了一个中立归属。不过报道也指出，这次贡献涉及开源技术栈的治理，并不必然意味着Linea网络本身已经实现去中心化。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "Linea lleva su stack ZK rollup Lineth a la gobernanza LFDT",
+      "excerpt": "Linea Consortium se unió a LFDT como miembro premier y aportó su stack ZK rollup como Lineth para situar la tecnología bajo gobernanza abierta de fundación.",
+      "body": "Linea Consortium se unió a Linux Foundation Decentralized Trust, o LFDT, como miembro premier y aportó el stack ZK rollup de código abierto que impulsa Linea como un nuevo proyecto de código llamado Lineth. Según informó Cointelegraph el 6 de mayo de 2026, la medida coloca la tecnología central de capa 2 de Linea bajo gobernanza de una fundación, en lugar de una sola empresa. El stack incluye sistemas de ejecución, consenso y pruebas, además de contratos inteligentes L1 y L2. Declan Fox, director de la junta de Linea Consortium, dijo que el paso da a la tecnología un hogar neutral. El reporte aclaró que la contribución trata sobre la gobernanza del stack abierto y no necesariamente descentraliza la red Linea en sí. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "Linea leva stack ZK rollup Lineth para governança da LFDT",
+      "excerpt": "O Linea Consortium entrou na LFDT como membro premier e contribuiu seu stack ZK rollup como Lineth, colocando a tecnologia sob governança aberta de fundação.",
+      "body": "O Linea Consortium entrou na Linux Foundation Decentralized Trust, ou LFDT, como membro premier e contribuiu o stack ZK rollup de código aberto que alimenta a Linea como um novo projeto de código chamado Lineth. Segundo reportagem da Cointelegraph em 6 de maio de 2026, a medida coloca a tecnologia central de camada 2 da Linea sob governança de uma fundação, e não de uma única empresa. O stack inclui sistemas de execução, consenso e prova, além de contratos inteligentes L1 e L2. Declan Fox, diretor do conselho do Linea Consortium, disse que a iniciativa dá à tecnologia um lar neutro. A reportagem observou que a contribuição trata da governança do stack aberto e não significa necessariamente a descentralização da própria rede Linea. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "Linea stellt ZK-Rollup-Stack Lineth unter LFDT-Governance",
+      "excerpt": "Das Linea Consortium trat LFDT als Premier-Mitglied bei und brachte seinen ZK-Rollup-Stack als Lineth ein, damit die Technologie von einer Stiftung verwaltet wird.",
+      "body": "Das Linea Consortium ist der Linux Foundation Decentralized Trust, kurz LFDT, als Premier-Mitglied beigetreten und hat den Open-Source-ZK-Rollup-Stack, der Linea antreibt, als neues Codeprojekt Lineth eingebracht. Laut einem Bericht von Cointelegraph vom 6. Mai 2026 wird Lineas zentrale Layer-2-Technologie damit unter die Governance einer Stiftung gestellt, statt von einem einzelnen Unternehmen kontrolliert zu werden. Der Stack umfasst Ausführungs-, Konsens- und Beweissysteme sowie L1- und L2-Smart-Contracts. Declan Fox, Board Director des Linea Consortium, sagte, der Schritt gebe der Technologie ein neutrales Zuhause. Der Bericht betonte zugleich, dass es um die Governance des Open-Source-Technologiestacks geht und nicht zwingend um die Dezentralisierung des Linea-Netzwerks selbst. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "Linea place son stack ZK rollup Lineth sous gouvernance LFDT",
+      "excerpt": "Linea Consortium a rejoint la LFDT comme membre premier et contribué son stack ZK rollup sous le nom Lineth afin de placer la technologie sous gouvernance de fondation.",
+      "body": "Linea Consortium a rejoint Linux Foundation Decentralized Trust, ou LFDT, comme membre premier et a contribué le stack ZK rollup open source qui alimente Linea comme nouveau projet de code nommé Lineth. Selon Cointelegraph le 6 mai 2026, cette décision place la technologie centrale de couche 2 de Linea sous la gouvernance d’une fondation plutôt que sous le contrôle d’une seule entreprise. Le stack comprend des systèmes d’exécution, de consensus et de preuve, ainsi que des smart contracts L1 et L2. Declan Fox, directeur du conseil de Linea Consortium, a déclaré que cette étape donne à la technologie un foyer neutre. Le média a aussi précisé que la contribution concerne la gouvernance du stack open source et ne signifie pas nécessairement la décentralisation du réseau Linea lui-même. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "Linea تنقل حزمة ZK Rollup Lineth إلى حوكمة LFDT",
+      "excerpt": "انضم Linea Consortium إلى LFDT كعضو مميز وقدم حزمة ZK rollup باسم Lineth، في خطوة تضع التقنية ضمن حوكمة مفتوحة تديرها مؤسسة محايدة.",
+      "body": "انضم Linea Consortium إلى Linux Foundation Decentralized Trust، المعروفة باسم LFDT، كعضو مميز، وقدم حزمة ZK rollup مفتوحة المصدر التي تشغل Linea كمشروع كود جديد باسم Lineth. ووفقا لتقرير Cointelegraph في 6 مايو 2026، تنقل الخطوة تقنية الطبقة الثانية الأساسية لدى Linea إلى حوكمة مؤسسة بدلا من سيطرة شركة واحدة. وتشمل الحزمة أنظمة التنفيذ والإجماع والإثبات، إضافة إلى عقود ذكية على L1 وL2. وقال Declan Fox، مدير مجلس Linea Consortium، إن الخطوة تمنح التقنية موطنا محايدا. لكن التقرير أوضح أن المساهمة تتعلق بحوكمة الحزمة التقنية مفتوحة المصدر، ولا تعني بالضرورة لامركزية شبكة Linea نفسها. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "Linea ने ZK रोलअप स्टैक Lineth को LFDT शासन में दिया",
+      "excerpt": "Linea Consortium LFDT का प्रीमियर सदस्य बना और अपने ZK रोलअप स्टैक को Lineth के रूप में योगदान दिया, जिससे तकनीक फाउंडेशन गवर्नेंस में आई।",
+      "body": "Linea Consortium Linux Foundation Decentralized Trust, यानी LFDT, में प्रीमियर सदस्य के रूप में शामिल हुआ और Linea को चलाने वाले ओपन-सोर्स ZK रोलअप स्टैक को Lineth नाम के नए कोड प्रोजेक्ट के रूप में योगदान दिया। Cointelegraph की 6 मई 2026 की रिपोर्ट के अनुसार, यह कदम Linea की मुख्य लेयर-2 तकनीक को किसी एक कंपनी के बजाय फाउंडेशन गवर्नेंस के तहत रखता है। इस स्टैक में execution, consensus और proof systems के साथ L1 और L2 smart contracts शामिल हैं। Linea Consortium के बोर्ड निदेशक Declan Fox ने कहा कि यह तकनीक को एक neutral home देता है। रिपोर्ट ने यह भी स्पष्ट किया कि योगदान ओपन-सोर्स तकनीकी स्टैक की गवर्नेंस से जुड़ा है और इसका मतलब Linea नेटवर्क का स्वतः विकेंद्रीकरण नहीं है। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "Linea Bawa Stack ZK Rollup Lineth ke Tata Kelola LFDT",
+      "excerpt": "Linea Consortium bergabung dengan LFDT sebagai anggota premier dan menyumbangkan stack ZK rollup sebagai Lineth agar teknologi berada di bawah tata kelola yayasan.",
+      "body": "Linea Consortium bergabung dengan Linux Foundation Decentralized Trust, atau LFDT, sebagai anggota premier dan menyumbangkan stack ZK rollup open-source yang menjalankan Linea sebagai proyek kode baru bernama Lineth. Menurut laporan Cointelegraph pada 6 Mei 2026, langkah ini menempatkan teknologi inti layer-2 Linea di bawah tata kelola yayasan, bukan kendali satu perusahaan. Stack tersebut mencakup sistem eksekusi, konsensus, dan pembuktian, serta smart contract L1 dan L2. Direktur dewan Linea Consortium Declan Fox mengatakan langkah ini memberi teknologi tersebut rumah yang netral. Namun laporan itu juga menegaskan bahwa kontribusi ini menyangkut tata kelola stack teknologi open-source dan tidak serta-merta berarti desentralisasi jaringan Linea itu sendiri. Sumber: cointelegraph.com"
+    }
+  }
+}
