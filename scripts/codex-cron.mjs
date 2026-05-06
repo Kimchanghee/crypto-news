@@ -63,12 +63,7 @@ async function fetchRss(url) {
       const mt = block.match(/<media:thumbnail[^>]*url=["']([^"']+\.(?:jpe?g|png|webp|gif))[^"']*["'][^>]*>/i);
       if (mt) rssImg = mt[1];
     }
-    if (!rssImg) {
-      // <description> 안에 <img src="..."> 있을 때
-      const desc = pick('description');
-      const img = desc.match(/<img[^>]*src=["']([^"']+\.(?:jpe?g|png|webp|gif)[^"']*)["'][^>]*>/i);
-      if (img) rssImg = img[1];
-    }
+    // <description>의 <img>는 Google News 로고 등 광고/썸네일이므로 무시
     items.push({
       title: pick('title'),
       link: pick('link'),
@@ -175,6 +170,10 @@ function pickExt(imageUrl, contentType) {
 async function fetchAndSaveImage(item, id) {
   // 1순위: RSS의 image, 2순위: 기사 페이지 og:image
   let candidate = item.rssImage;
+  // Google News 로고/썸네일은 무시
+  if (candidate && /lh3\.googleusercontent\.com|googleusercontent\.com\/proxy/.test(candidate)) {
+    candidate = null;
+  }
   if (!candidate) {
     const realUrl = await resolveArticleUrl(item.link);
     candidate = await fetchOgImage(realUrl);
