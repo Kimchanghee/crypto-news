@@ -1,5 +1,230 @@
 [
   {
+    "id": "5faae6bb994d",
+    "slug": "opentrade-raises-17m-as-ceo-sees-stablecoin-yield-tailwinds-618292",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T20:12:53.820Z",
+    "updatedAt": "2026-05-06T20:12:53.820Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/opentrade-17-million-raise-stablecoin-yield-ceo-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/opentrade-17-million-raise-stablecoin-yield-ceo-regulation",
+    "titleFingerprint": "bb2f069ec84ce10bc60d3adb70cda6de01c61c6b",
+    "dedupKeys": [
+      "5faae6bb994db5bbaca38ca2b5cb526d66733ad8",
+      "bb2f069ec84ce10bc60d3adb70cda6de01c61c6b",
+      "6273c5835328e1ab5011ed11427146e3c110b129"
+    ],
+    "imageUrl": "/images/articles/5faae6bb994d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "OpenTrade, 스테이블코인 수익률 플랫폼 확장 위해 1,700만달러 조달",
+        "excerpt": "OpenTrade가 스테이블코인 수익률 플랫폼 확대를 위해 1,700만달러를 조달하며 총 투자금은 3,000만달러를 넘어섰다.",
+        "body": "OpenTrade는 스테이블코인 수익률 플랫폼 확대를 위해 1,700만달러 규모의 자금을 조달했다. 회사는 이번 투자 유치로 누적 조달액이 3,000만달러를 넘어섰다고 밝혔다. 이번 자금은 글로벌 고객을 대상으로 스테이블코인 수익률 인프라를 확장하는 데 쓰일 예정이다. 원문에 따르면 OpenTrade 최고경영자는 스테이블코인 수익률 시장의 우호적 흐름을 성장 배경으로 보고 있다. 스테이블코인 기반 수익 상품에 대한 수요가 커지는 가운데, OpenTrade는 관련 인프라 확장을 통해 고객 기반을 넓히는 데 초점을 맞추고 있다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "OpenTrade Raises $17M to Expand Stablecoin Yield Platform",
+        "excerpt": "OpenTrade raised $17 million to expand its stablecoin yield platform, lifting total funding above $30 million for global infrastructure growth.",
+        "body": "OpenTrade has raised $17 million to expand its stablecoin yield platform. The company said the latest round brings its total funding to more than $30 million. The capital will be used to scale stablecoin yield infrastructure for global clients. According to the original report, OpenTrade’s CEO sees favorable tailwinds in the stablecoin yield market as a factor behind the company’s growth outlook. As demand for stablecoin-based yield products increases, OpenTrade is focusing on expanding the infrastructure needed to serve a broader client base. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "OpenTrade、ステーブルコイン利回り基盤拡大へ1700万ドル調達",
+        "excerpt": "OpenTradeはステーブルコイン利回りプラットフォーム拡大のため1700万ドルを調達し、累計調達額は3000万ドルを超えた。",
+        "body": "OpenTradeは、ステーブルコイン利回りプラットフォームを拡大するため、1700万ドルの資金を調達した。同社によると、今回の調達により累計調達額は3000万ドルを超えた。資金は、グローバル顧客向けのステーブルコイン利回りインフラを拡張するために使われる予定だ。原文によれば、OpenTradeのCEOはステーブルコイン利回り市場の追い風を成長見通しの背景として見ている。ステーブルコインを基盤とする利回り商品への需要が高まる中、同社は顧客基盤拡大に必要なインフラ整備に注力している。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "OpenTrade融资1700万美元，扩展稳定币收益率平台",
+        "excerpt": "OpenTrade为扩展稳定币收益率平台融资1700万美元，累计融资超过3000万美元，将面向全球客户扩展基础设施。",
+        "body": "OpenTrade已融资1700万美元，用于扩展其稳定币收益率平台。该公司表示，随着本轮融资完成，其累计融资额已超过3000万美元。新资金将用于为全球客户扩展稳定币收益率基础设施。根据原文报道，OpenTrade首席执行官认为，稳定币收益率市场的有利趋势是公司增长前景的重要背景。随着基于稳定币的收益产品需求上升，OpenTrade正把重点放在扩大相关基础设施，以服务更广泛的客户群体。来源: cointelegraph.com."
+      },
+      "es": {
+        "title": "OpenTrade capta 17 millones de dólares para ampliar rendimientos con stablecoins",
+        "excerpt": "OpenTrade captó 17 millones de dólares para ampliar su plataforma de rendimiento con stablecoins y elevó su financiación total por encima de 30 millones.",
+        "body": "OpenTrade captó 17 millones de dólares para ampliar su plataforma de rendimiento con stablecoins. La empresa dijo que esta ronda eleva su financiación total a más de 30 millones de dólares. El capital se destinará a escalar la infraestructura de rendimiento con stablecoins para clientes globales. Según el informe original, el CEO de OpenTrade considera que los vientos favorables del mercado de rendimiento con stablecoins respaldan sus perspectivas de crecimiento. Mientras aumenta la demanda de productos de rendimiento basados en stablecoins, OpenTrade se centra en ampliar la infraestructura necesaria para atender a una base de clientes más amplia. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "OpenTrade capta US$ 17 mi para expandir plataforma de rendimento com stablecoins",
+        "excerpt": "A OpenTrade captou US$ 17 milhões para ampliar sua plataforma de rendimento com stablecoins, levando o financiamento total para mais de US$ 30 milhões.",
+        "body": "A OpenTrade captou US$ 17 milhões para expandir sua plataforma de rendimento com stablecoins. A empresa afirmou que a nova rodada eleva seu financiamento total para mais de US$ 30 milhões. Os recursos serão usados para escalar a infraestrutura de rendimento com stablecoins para clientes globais. Segundo o relatório original, o CEO da OpenTrade vê ventos favoráveis no mercado de rendimento com stablecoins como parte do cenário de crescimento da companhia. Com a demanda por produtos de rendimento baseados em stablecoins em alta, a OpenTrade concentra seus esforços na expansão da infraestrutura necessária para atender uma base maior de clientes. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "OpenTrade sammelt 17 Mio. Dollar für Ausbau der Stablecoin-Renditeplattform ein",
+        "excerpt": "OpenTrade hat 17 Mio. Dollar für den Ausbau seiner Stablecoin-Renditeplattform eingesammelt; die Gesamtfinanzierung steigt auf über 30 Mio. Dollar.",
+        "body": "OpenTrade hat 17 Mio. Dollar eingesammelt, um seine Stablecoin-Renditeplattform auszubauen. Nach Angaben des Unternehmens steigt die gesamte Finanzierung damit auf mehr als 30 Mio. Dollar. Das Kapital soll genutzt werden, um die Stablecoin-Renditeinfrastruktur für globale Kunden zu skalieren. Dem Originalbericht zufolge sieht der CEO von OpenTrade günstige Rückenwinde im Markt für Stablecoin-Renditen als Teil der Wachstumsperspektive. Da die Nachfrage nach renditeorientierten Produkten auf Stablecoin-Basis zunimmt, konzentriert sich OpenTrade auf den Ausbau der Infrastruktur, die für eine breitere Kundenbasis erforderlich ist. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "OpenTrade lève 17 M$ pour étendre sa plateforme de rendement en stablecoins",
+        "excerpt": "OpenTrade a levé 17 millions de dollars pour étendre sa plateforme de rendement en stablecoins, portant son financement total à plus de 30 millions.",
+        "body": "OpenTrade a levé 17 millions de dollars afin d’étendre sa plateforme de rendement en stablecoins. L’entreprise a indiqué que ce nouveau tour porte son financement total à plus de 30 millions de dollars. Les fonds serviront à développer l’infrastructure de rendement en stablecoins pour des clients mondiaux. Selon le rapport original, le PDG d’OpenTrade voit dans les vents favorables du marché du rendement en stablecoins un élément soutenant ses perspectives de croissance. Alors que la demande pour des produits de rendement fondés sur les stablecoins augmente, OpenTrade se concentre sur l’expansion de l’infrastructure nécessaire pour servir une base de clients plus large. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "OpenTrade تجمع 17 مليون دولار لتوسيع منصة عوائد العملات المستقرة",
+        "excerpt": "جمعت OpenTrade مبلغ 17 مليون دولار لتوسيع منصة عوائد العملات المستقرة، ليرتفع إجمالي تمويلها إلى أكثر من 30 مليون دولار.",
+        "body": "جمعت OpenTrade تمويلا بقيمة 17 مليون دولار لتوسيع منصة عوائد العملات المستقرة التابعة لها. وقالت الشركة إن هذه الجولة ترفع إجمالي التمويل الذي حصلت عليه إلى أكثر من 30 مليون دولار. ومن المقرر استخدام رأس المال لتوسيع بنية عوائد العملات المستقرة للعملاء العالميين. ووفقا للتقرير الأصلي، يرى الرئيس التنفيذي لـ OpenTrade أن الاتجاهات الداعمة في سوق عوائد العملات المستقرة تمثل خلفية لنظرة نمو الشركة. ومع تزايد الطلب على منتجات العائد القائمة على العملات المستقرة، تركز OpenTrade على توسيع البنية التحتية اللازمة لخدمة قاعدة أوسع من العملاء. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "OpenTrade ने स्टेबलकॉइन यील्ड प्लेटफॉर्म विस्तार के लिए $17M जुटाए",
+        "excerpt": "OpenTrade ने स्टेबलकॉइन यील्ड प्लेटफॉर्म विस्तार के लिए $17 मिलियन जुटाए, जिससे कुल फंडिंग $30 मिलियन से अधिक हो गई।",
+        "body": "OpenTrade ने अपने स्टेबलकॉइन यील्ड प्लेटफॉर्म का विस्तार करने के लिए 17 मिलियन डॉलर जुटाए हैं। कंपनी ने कहा कि इस दौर के बाद उसकी कुल फंडिंग 30 मिलियन डॉलर से अधिक हो गई है। इस पूंजी का उपयोग वैश्विक ग्राहकों के लिए स्टेबलकॉइन यील्ड इन्फ्रास्ट्रक्चर को बढ़ाने में किया जाएगा। मूल रिपोर्ट के अनुसार, OpenTrade के सीईओ स्टेबलकॉइन यील्ड बाजार में अनुकूल रुझानों को कंपनी की वृद्धि की पृष्ठभूमि के रूप में देखते हैं। स्टेबलकॉइन आधारित यील्ड उत्पादों की मांग बढ़ने के बीच, OpenTrade व्यापक ग्राहक आधार की सेवा के लिए आवश्यक इन्फ्रास्ट्रक्चर विस्तार पर ध्यान दे रही है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "OpenTrade Raih $17 Juta untuk Perluas Platform Imbal Hasil Stablecoin",
+        "excerpt": "OpenTrade meraih $17 juta untuk memperluas platform imbal hasil stablecoin, sehingga total pendanaannya melampaui $30 juta.",
+        "body": "OpenTrade meraih pendanaan sebesar $17 juta untuk memperluas platform imbal hasil stablecoin miliknya. Perusahaan mengatakan putaran terbaru ini membuat total pendanaannya melampaui $30 juta. Dana tersebut akan digunakan untuk meningkatkan infrastruktur imbal hasil stablecoin bagi klien global. Menurut laporan asli, CEO OpenTrade melihat dorongan positif di pasar imbal hasil stablecoin sebagai bagian dari latar pertumbuhan perusahaan. Seiring meningkatnya permintaan atas produk imbal hasil berbasis stablecoin, OpenTrade berfokus pada perluasan infrastruktur yang dibutuhkan untuk melayani basis klien yang lebih luas. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "776bbb8be0a2",
+    "slug": "stablecoin-industry-opposes-bank-of-englands-unhosted-wallet-793237",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T20:12:05.378Z",
+    "updatedAt": "2026-05-06T20:12:05.378Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/features/stablecoin-industry-opposes-bank-of-englands-unhosted-wallet-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/features/stablecoin-industry-opposes-bank-of-englands-unhosted-wallet-ban",
+    "titleFingerprint": "c8e449eacfc481a1c9ee5c5415fd099c6927b3fc",
+    "dedupKeys": [
+      "776bbb8be0a274d83716e7f82c0dca1825411ef5",
+      "c8e449eacfc481a1c9ee5c5415fd099c6927b3fc",
+      "7bb4d485766f84167e227c68b571e5cab710f83d"
+    ],
+    "imageUrl": "/images/articles/776bbb8be0a2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "스테이블코인 업계, 영란은행 지갑 금지안에 반발",
+        "excerpt": "영국 크립토 업계가 영란은행의 스테이블코인 지갑 금지 정책안에 반대하며, 해당 제안이 업계 운영과 이용자 접근성에 영향을 줄 수 있다고 밝혔다.",
+        "body": "영국 크립토 업계가 영란은행이 제안한 스테이블코인 관련 지갑 금지 정책에 반대하고 나섰다. 이번 정책안은 스테이블코인 이용 과정에서 특정 지갑 형태를 제한하는 내용을 담고 있으며, 업계는 이에 대해 공개적으로 우려를 표명했다. 배경에는 영국 당국이 스테이블코인 규제 체계를 마련하려는 움직임이 있다. 업계는 해당 조치가 시장 참여자와 이용자에게 영향을 줄 수 있다고 보고 있다. 향후 논의는 영란은행의 정책 검토와 업계 의견 수렴 과정에 따라 이어질 전망이다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Stablecoin Industry Pushes Back on Bank of England Wallet Ban",
+        "excerpt": "The UK crypto industry has opposed the Bank of England’s proposed stablecoin wallet ban, warning the policy could affect industry operations and user access.",
+        "body": "The UK crypto industry has come out against the Bank of England’s proposed policy on stablecoin wallet restrictions. The proposal would limit certain wallet use in connection with stablecoins, and industry participants have publicly raised concerns. The move comes as UK authorities work on a regulatory framework for stablecoins. The industry sees the measure as one that could affect market participants and users. Further debate is expected as the Bank of England reviews the policy and receives industry feedback. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "ステーブルコイン業界、英中銀のウォレット禁止案に反発",
+        "excerpt": "英国の暗号資産業界は、英イングランド銀行のステーブルコイン関連ウォレット禁止案に反対し、業界運営と利用者アクセスへの影響を懸念した。",
+        "body": "英国の暗号資産業界は、英イングランド銀行が提案したステーブルコイン関連ウォレット制限政策に反対している。この政策案は、ステーブルコイン利用における特定のウォレット形態を制限する内容で、業界関係者は懸念を公に示した。背景には、英国当局がステーブルコイン規制の枠組みを整備しようとする動きがある。業界は、この措置が市場参加者や利用者に影響を及ぼす可能性があるとみている。今後は英中銀の政策検討と業界意見の聴取を通じて議論が続く見通しだ。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "稳定币行业反对英国央行钱包禁令提案",
+        "excerpt": "英国加密行业反对英国央行提出的稳定币钱包禁令政策，认为该提案可能影响行业运营与用户访问。",
+        "body": "英国加密行业已对英国央行提出的稳定币相关钱包限制政策表示反对。该政策提案涉及在稳定币使用过程中限制特定钱包形式，行业参与者对此公开表达了担忧。其背景是英国监管机构正在推进稳定币监管框架建设。行业认为，这项措施可能对市场参与者和用户产生影响。后续讨论预计将随着英国央行的政策审查以及行业意见征集继续展开。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Industria de stablecoins rechaza veto de billeteras del BoE",
+        "excerpt": "La industria cripto del Reino Unido rechazó la propuesta del Banco de Inglaterra sobre billeteras de stablecoins por su posible impacto en usuarios y operadores.",
+        "body": "La industria cripto del Reino Unido se ha pronunciado contra la propuesta del Banco de Inglaterra sobre restricciones a billeteras vinculadas con stablecoins. La política planteada limitaría ciertos tipos de billeteras en el uso de stablecoins, y los participantes del sector expresaron públicamente su preocupación. El contexto es el avance de las autoridades británicas hacia un marco regulatorio para stablecoins. La industria considera que la medida podría afectar a participantes del mercado y usuarios. El debate continuará conforme el Banco de Inglaterra revise la propuesta y reciba comentarios del sector. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Setor de stablecoins rejeita veto a carteiras do Banco da Inglaterra",
+        "excerpt": "A indústria cripto do Reino Unido se opôs à proposta do Banco da Inglaterra sobre carteiras de stablecoins, citando possíveis impactos em usuários e operadores.",
+        "body": "A indústria cripto do Reino Unido se manifestou contra a proposta do Banco da Inglaterra para restringir carteiras relacionadas a stablecoins. A política proposta limitaria determinados tipos de carteira no uso de stablecoins, e participantes do setor expressaram preocupação publicamente. O contexto é o avanço das autoridades britânicas na criação de uma estrutura regulatória para stablecoins. O setor entende que a medida pode afetar participantes do mercado e usuários. A discussão deve continuar conforme o Banco da Inglaterra analisa a política e recebe contribuições da indústria. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Stablecoin-Branche lehnt Wallet-Verbot der Bank of England ab",
+        "excerpt": "Die britische Kryptoindustrie stellt sich gegen den Stablecoin-Wallet-Vorschlag der Bank of England und warnt vor Folgen für Anbieter und Nutzerzugang.",
+        "body": "Die britische Kryptoindustrie hat sich gegen den Vorschlag der Bank of England zu Einschränkungen bei Stablecoin-Wallets ausgesprochen. Der Entwurf würde bestimmte Wallet-Formen im Zusammenhang mit der Nutzung von Stablecoins begrenzen, woraufhin Marktteilnehmer öffentlich Bedenken äußerten. Hintergrund ist der Versuch britischer Behörden, einen Regulierungsrahmen für Stablecoins zu schaffen. Die Branche sieht mögliche Auswirkungen auf Marktteilnehmer und Nutzer. Die weitere Debatte dürfte von der Prüfung der Bank of England und den Rückmeldungen der Industrie abhängen. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Le secteur des stablecoins conteste l’interdiction de wallets de la BoE",
+        "excerpt": "L’industrie crypto britannique s’oppose au projet de la Banque d’Angleterre sur les wallets de stablecoins, évoquant des effets possibles sur l’accès des utilisateurs.",
+        "body": "L’industrie crypto britannique s’est opposée à la proposition de la Banque d’Angleterre visant à restreindre certains wallets liés aux stablecoins. Le projet limiterait des formes spécifiques de wallets dans l’utilisation des stablecoins, et les acteurs du secteur ont publiquement exprimé leurs inquiétudes. Cette initiative s’inscrit dans le contexte des efforts des autorités britanniques pour établir un cadre réglementaire des stablecoins. Le secteur estime que la mesure pourrait affecter les participants au marché et les utilisateurs. Le débat devrait se poursuivre avec l’examen de la politique par la Banque d’Angleterre et la consultation de l’industrie. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "قطاع العملات المستقرة يعارض حظر المحافظ المقترح من بنك إنجلترا",
+        "excerpt": "عارض قطاع الكريبتو في المملكة المتحدة مقترح بنك إنجلترا بشأن محافظ العملات المستقرة، محذرا من تأثيره المحتمل على المشغلين ووصول المستخدمين.",
+        "body": "أعلن قطاع الكريبتو في المملكة المتحدة معارضته لمقترح بنك إنجلترا المتعلق بتقييد محافظ مرتبطة بالعملات المستقرة. ويتضمن المقترح الحد من استخدام أشكال معينة من المحافظ عند التعامل بالعملات المستقرة، وقد عبّر مشاركون في القطاع علنا عن مخاوفهم. يأتي ذلك في سياق سعي السلطات البريطانية إلى بناء إطار تنظيمي للعملات المستقرة. ويرى القطاع أن الإجراء قد يؤثر في المشاركين في السوق والمستخدمين. ومن المتوقع أن تستمر المناقشات مع مراجعة بنك إنجلترا للسياسة وتلقيه آراء الصناعة. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "स्टेबलकॉइन उद्योग ने बैंक ऑफ इंग्लैंड के वॉलेट प्रतिबंध का विरोध किया",
+        "excerpt": "यूके के क्रिप्टो उद्योग ने बैंक ऑफ इंग्लैंड के स्टेबलकॉइन वॉलेट प्रतिबंध प्रस्ताव का विरोध किया, जो ऑपरेटरों और उपयोगकर्ता पहुंच को प्रभावित कर सकता है।",
+        "body": "यूके के क्रिप्टो उद्योग ने बैंक ऑफ इंग्लैंड की स्टेबलकॉइन से जुड़े वॉलेट प्रतिबंध नीति के प्रस्ताव का विरोध किया है। इस प्रस्ताव में स्टेबलकॉइन के उपयोग के दौरान कुछ प्रकार के वॉलेट को सीमित करने की बात है, जिस पर उद्योग प्रतिभागियों ने सार्वजनिक रूप से चिंता जताई। इसकी पृष्ठभूमि में यूके अधिकारियों द्वारा स्टेबलकॉइन के लिए नियामकीय ढांचा तैयार करने की प्रक्रिया है। उद्योग का मानना है कि यह कदम बाजार प्रतिभागियों और उपयोगकर्ताओं को प्रभावित कर सकता है। आगे की चर्चा बैंक ऑफ इंग्लैंड की नीति समीक्षा और उद्योग से मिलने वाली प्रतिक्रिया पर निर्भर करेगी। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Industri Stablecoin Tolak Larangan Wallet Bank of England",
+        "excerpt": "Industri kripto Inggris menolak usulan Bank of England soal larangan wallet stablecoin karena dinilai dapat memengaruhi operator pasar dan akses pengguna.",
+        "body": "Industri kripto Inggris menyatakan penolakan terhadap kebijakan yang diusulkan Bank of England terkait pembatasan wallet untuk stablecoin. Usulan tersebut akan membatasi bentuk wallet tertentu dalam penggunaan stablecoin, dan pelaku industri telah menyampaikan kekhawatiran secara terbuka. Latar belakangnya adalah langkah otoritas Inggris untuk menyusun kerangka regulasi stablecoin. Industri menilai kebijakan itu dapat berdampak pada pelaku pasar dan pengguna. Pembahasan diperkirakan berlanjut seiring tinjauan Bank of England dan proses penerimaan masukan dari industri. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "615f01048a40",
+    "slug": "morgan-stanley-takes-on-crypto-trading-rivals-with-etrade-pi-389816",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T20:11:14.056Z",
+    "updatedAt": "2026-05-06T20:11:14.056Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/morgan-stanley-emerges-as-crypto-exchange-competitor-with-low-fee-trading-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/morgan-stanley-emerges-as-crypto-exchange-competitor-with-low-fee-trading-pilot",
+    "titleFingerprint": "466e92ab076772b8fa40afafbaa9aca75e4585fc",
+    "dedupKeys": [
+      "615f01048a4070bba4a3fd60a77745061b9c4d6e",
+      "466e92ab076772b8fa40afafbaa9aca75e4585fc",
+      "ba2f078a2a3e36d229dd1a2b55cebc60a016e0c9"
+    ],
+    "imageUrl": "/images/articles/615f01048a40.jpg",
+    "i18n": {
+      "ko": {
+        "title": "모건스탠리, E*Trade 암호화폐 파일럿으로 거래 수수료 경쟁 본격화",
+        "excerpt": "모건스탠리는 2026년 5월 6일 E*Trade 암호화폐 거래 파일럿에서 거래당 50bp 수수료를 적용해 코인베이스·로빈후드·찰스슈와브 기본 요율보다 낮게 책정했다.",
+        "body": "모건스탠리는 E*Trade 플랫폼에서 암호화폐 거래 파일럿을 시작하며 미국 리테일 거래 시장의 주요 경쟁자들과 수수료 경쟁에 나섰다. 코인텔레그래프에 따르면 이 월가 은행은 암호화폐 거래 1건당 거래금액의 50bp를 부과하며, 이는 코인베이스·로빈후드·찰스슈와브의 기본 리테일 가격보다 낮다. 해당 서비스는 현재 파일럿 단계이며 E*Trade의 860만 고객은 올해 말 접근할 수 있을 것으로 보도됐다. 모건스탠리 대변인은 블룸버그가 전한 세부 내용과 수수료 구조가 정확하다고 확인했다. 다만 Kraken Pro, Binance US 및 일부 Coinbase Advanced 등급은 더 낮은 수수료를 제공한다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Morgan Stanley Uses E*Trade Crypto Pilot to Challenge Trading Rivals",
+        "excerpt": "Morgan Stanley said on May 6, 2026 that its E*Trade crypto trading pilot charges 50 basis points per trade, below standard retail pricing at Coinbase, Robinhood and Charles Schwab.",
+        "body": "Morgan Stanley has started a cryptocurrency trading pilot on E*Trade, stepping into a fee contest with major US retail trading rivals. According to Cointelegraph, the Wall Street bank charges 50 basis points on the value of each crypto transaction, below the basic retail pricing of Coinbase, Robinhood and Charles Schwab. The service is now in pilot mode, and E*Trade’s 8.6 million clients are expected to gain access later this year. A Morgan Stanley spokesperson confirmed that the details and fee structure reported by Bloomberg were accurate. However, Kraken Pro, Binance US and some Coinbase Advanced tiers offer lower fees. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "モルガン・スタンレー、E*Trade暗号資産試験で手数料競争へ",
+        "excerpt": "モルガン・スタンレーは2026年5月6日、E*Tradeの暗号資産取引試験で1取引50bpの手数料を設定し、Coinbase、Robinhood、Charles Schwabの基本小売料金を下回った。",
+        "body": "モルガン・スタンレーはE*Tradeで暗号資産取引のパイロットを開始し、米国の主要リテール取引業者との手数料競争に踏み込んだ。Cointelegraphによると、このウォール街の銀行は暗号資産取引ごとに取引金額の50bpを課し、Coinbase、Robinhood、Charles Schwabの基本リテール価格を下回る。サービスは現在パイロット段階で、E*Tradeの860万人の顧客は今年後半にアクセスできる見通しだ。モルガン・スタンレーの広報担当者は、Bloombergが報じた詳細と手数料体系が正確だと確認した。ただし、Kraken Pro、Binance US、一部のCoinbase Advanced階層はより低い手数料を提供している。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "摩根士丹利借E*Trade加密交易试点挑战零售交易对手",
+        "excerpt": "摩根士丹利于2026年5月6日披露，E*Trade加密交易试点每笔收取50个基点，低于Coinbase、Robinhood和Charles Schwab的基础零售定价。",
+        "body": "摩根士丹利已在E*Trade平台启动加密货币交易试点，加入美国主要零售交易平台之间的手续费竞争。据Cointelegraph报道，这家华尔街银行对每笔加密交易按交易金额收取50个基点，低于Coinbase、Robinhood和Charles Schwab的基础零售价格。该服务目前处于试点阶段，E*Trade的860万客户预计将在今年晚些时候获得访问权限。摩根士丹利发言人确认，彭博报道的细节和费用结构准确。不过，Kraken Pro、Binance US以及部分Coinbase Advanced等级提供更低费用。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Morgan Stanley reta a rivales cripto con piloto de E*Trade y tarifa baja",
+        "excerpt": "Morgan Stanley informó el 6 de mayo de 2026 que su piloto de trading cripto en E*Trade cobra 50 puntos básicos por operación, menos que las tarifas minoristas básicas de Coinbase, Robinhood y Charles Schwab.",
+        "body": "Morgan Stanley inició un piloto de trading de criptomonedas en E*Trade y entró en la competencia de comisiones con grandes rivales minoristas de Estados Unidos. Según Cointelegraph, el banco de Wall Street cobra 50 puntos básicos sobre el valor de cada operación cripto, por debajo del precio minorista básico de Coinbase, Robinhood y Charles Schwab. El servicio está en fase piloto y se espera que los 8,6 millones de clientes de E*Trade accedan más adelante este año. Un portavoz de Morgan Stanley confirmó que los detalles y la estructura de comisiones publicados por Bloomberg eran correctos. Sin embargo, Kraken Pro, Binance US y algunos niveles de Coinbase Advanced ofrecen comisiones más bajas. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Morgan Stanley desafia rivais cripto com piloto da E*Trade e taxa menor",
+        "excerpt": "O Morgan Stanley informou em 6 de maio de 2026 que o piloto de negociação cripto da E*Trade cobra 50 pontos-base por operação, abaixo das tarifas básicas de varejo da Coinbase, Robinhood e Charles Schwab.",
+        "body": "O Morgan Stanley iniciou um piloto de negociação de criptomoedas na E*Trade e entrou na disputa de taxas com grandes rivais de varejo dos EUA. Segundo a Cointelegraph, o banco de Wall Street cobra 50 pontos-base sobre o valor de cada transação cripto, abaixo do preço básico de varejo da Coinbase, Robinhood e Charles Schwab. O serviço está em fase piloto, e os 8,6 milhões de clientes da E*Trade devem ter acesso ainda este ano. Um porta-voz do Morgan Stanley confirmou que os detalhes e a estrutura de taxas relatados pela Bloomberg estavam corretos. Ainda assim, Kraken Pro, Binance US e alguns níveis do Coinbase Advanced oferecem taxas mais baixas. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Morgan Stanley fordert Krypto-Rivalen mit E*Trade-Pilot und 50 bp heraus",
+        "excerpt": "Morgan Stanley erklärte am 6. Mai 2026, dass der E*Trade-Kryptohandelspilot 50 Basispunkte je Trade verlangt und damit unter den Basispreisen von Coinbase, Robinhood und Charles Schwab liegt.",
+        "body": "Morgan Stanley hat auf E*Trade einen Pilotversuch für den Handel mit Kryptowährungen gestartet und tritt damit in den Gebührenwettbewerb mit großen US-Retail-Anbietern ein. Laut Cointelegraph berechnet die Wall-Street-Bank 50 Basispunkte auf den Wert jeder Kryptotransaktion, weniger als die grundlegenden Retail-Preise von Coinbase, Robinhood und Charles Schwab. Der Dienst befindet sich derzeit im Pilotmodus; die 8,6 Millionen Kunden von E*Trade sollen später in diesem Jahr Zugang erhalten. Ein Sprecher von Morgan Stanley bestätigte, dass die von Bloomberg berichteten Details und die Gebührenstruktur korrekt seien. Allerdings bieten Kraken Pro, Binance US und einige Coinbase-Advanced-Stufen niedrigere Gebühren. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Morgan Stanley défie ses rivaux crypto avec un pilote E*Trade à 50 pb",
+        "excerpt": "Morgan Stanley a indiqué le 6 mai 2026 que son pilote de trading crypto sur E*Trade facture 50 points de base par transaction, sous les tarifs de détail de base de Coinbase, Robinhood et Charles Schwab.",
+        "body": "Morgan Stanley a lancé un pilote de trading de cryptomonnaies sur E*Trade et entre dans la concurrence des frais avec de grands acteurs américains du trading de détail. Selon Cointelegraph, la banque de Wall Street facture 50 points de base sur la valeur de chaque transaction crypto, moins que les prix de détail de base de Coinbase, Robinhood et Charles Schwab. Le service est actuellement en phase pilote, et les 8,6 millions de clients d’E*Trade devraient y accéder plus tard cette année. Un porte-parole de Morgan Stanley a confirmé que les détails et la structure tarifaire rapportés par Bloomberg étaient exacts. Toutefois, Kraken Pro, Binance US et certains niveaux Coinbase Advanced proposent des frais plus bas. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "مورغان ستانلي ينافس منصات الكريبتو عبر تجربة E*Trade برسوم أقل",
+        "excerpt": "أعلنت مورغان ستانلي في 6 مايو 2026 أن تجربة تداول العملات المشفرة عبر E*Trade تفرض 50 نقطة أساس لكل صفقة، أقل من التسعير الأساسي لدى Coinbase وRobinhood وCharles Schwab.",
+        "body": "بدأت مورغان ستانلي تجربة لتداول العملات المشفرة على منصة E*Trade، لتدخل منافسة الرسوم مع أبرز منصات التداول بالتجزئة في الولايات المتحدة. وبحسب Cointelegraph، يفرض بنك وول ستريت 50 نقطة أساس على قيمة كل معاملة كريبتو، وهو مستوى أدنى من التسعير الأساسي للتجزئة لدى Coinbase وRobinhood وCharles Schwab. الخدمة ما زالت في مرحلة تجريبية، ومن المتوقع أن يحصل عملاء E*Trade البالغ عددهم 8.6 مليون على الوصول في وقت لاحق من هذا العام. وأكد متحدث باسم مورغان ستانلي أن التفاصيل وهيكل الرسوم الواردين في تقرير Bloomberg دقيقان. لكن Kraken Pro وBinance US وبعض فئات Coinbase Advanced تقدم رسوما أقل. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Morgan Stanley ने E*Trade क्रिप्टो पायलट से कम फीस की होड़ तेज की",
+        "excerpt": "Morgan Stanley ने 6 मई 2026 को बताया कि E*Trade क्रिप्टो ट्रेडिंग पायलट हर ट्रेड पर 50 बेसिस पॉइंट शुल्क लेता है, जो Coinbase, Robinhood और Charles Schwab की बुनियादी रिटेल दरों से कम है।",
+        "body": "Morgan Stanley ने E*Trade प्लेटफॉर्म पर क्रिप्टोकरेंसी ट्रेडिंग पायलट शुरू कर अमेरिका के बड़े रिटेल ट्रेडिंग प्रतिद्वंद्वियों के साथ शुल्क प्रतिस्पर्धा में कदम रखा है। Cointelegraph के अनुसार, वॉल स्ट्रीट बैंक हर क्रिप्टो लेनदेन के मूल्य पर 50 बेसिस पॉइंट शुल्क ले रहा है, जो Coinbase, Robinhood और Charles Schwab की बुनियादी रिटेल कीमतों से कम है। सेवा अभी पायलट मोड में है और E*Trade के 86 लाख ग्राहकों को इस साल बाद में पहुंच मिलने की उम्मीद है। Morgan Stanley के प्रवक्ता ने पुष्टि की कि Bloomberg द्वारा बताई गई जानकारी और शुल्क संरचना सही है। हालांकि Kraken Pro, Binance US और Coinbase Advanced के कुछ स्तर कम शुल्क देते हैं। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Morgan Stanley Tantang Rival Kripto Lewat Pilot E*Trade Bertarif Rendah",
+        "excerpt": "Morgan Stanley pada 6 Mei 2026 menyatakan pilot trading kripto E*Trade mengenakan 50 basis poin per transaksi, lebih rendah dari tarif ritel dasar Coinbase, Robinhood, dan Charles Schwab.",
+        "body": "Morgan Stanley memulai pilot trading mata uang kripto di platform E*Trade dan masuk ke persaingan biaya dengan pemain ritel besar di AS. Menurut Cointelegraph, bank Wall Street itu mengenakan 50 basis poin atas nilai setiap transaksi kripto, lebih rendah dari harga ritel dasar Coinbase, Robinhood, dan Charles Schwab. Layanan ini masih dalam mode pilot, dan 8,6 juta klien E*Trade diperkirakan mendapat akses akhir tahun ini. Juru bicara Morgan Stanley mengonfirmasi bahwa rincian dan struktur biaya yang dilaporkan Bloomberg akurat. Namun, Kraken Pro, Binance US, dan beberapa tingkat Coinbase Advanced menawarkan biaya lebih rendah. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "38496c825997",
     "slug": "crypto-backed-republican-candidate-wins-indiana-congressiona-204249",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Bitcoin dan Aset Kripto Turun Separuh dalam Setahun Saat Bursa Korea Menguat",
         "excerpt": "Dong-A Ilbo melaporkan bahwa kepemilikan Bitcoin dan aset kripto lain turun menjadi sekitar separuh dalam satu tahun di tengah penguatan pasar saham Korea Selatan.",
         "body": "Dong-A Ilbo melaporkan bahwa kepemilikan Bitcoin dan aset kripto lain turun menjadi sekitar separuh dalam satu tahun, ketika pasar saham domestik Korea Selatan menunjukkan momentum kuat.\n\nMenurut laporan tersebut, perubahan ini terjadi seiring meningkatnya minat terhadap pasar saham dalam negeri. Penurunan kepemilikan aset kripto hingga separuh dalam setahun disajikan sebagai tanda bahwa perhatian dana investasi mungkin bergeser ke pasar saham.\n\nPasar aset kripto, termasuk Bitcoin, dipengaruhi oleh perubahan minat investor bersamaan dengan pergerakan bursa domestik. Laporan Dong-A Ilbo berfokus pada kemunculan bersamaan antara penguatan pasar saham domestik dan penyusutan skala kepemilikan aset kripto.\n\nSumber: Dong-A Ilbo"
-      }
-    }
-  },
-  {
-    "id": "0b3f47ae325e",
-    "slug": "나스닥-최고치-랠리에-동참비트코인-81만달러대---마켓인-486902",
-    "channelId": "CRYPTO",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:49:04.001Z",
-    "updatedAt": "2026-05-06T07:49:04.001Z",
-    "sourceName": "마켓인",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1weEpETUVlTUxyeGVLNzAzeWF5cF8yT1JTZm52bnpXNW13bHJkZ3R3U2Q4U2t6VnAwTnZnQ3RxajRLSU9MN1FKdXBmWGtYX1dwU3FFcHRfRV9xc3NEWWR5eFZtdGtXZ191eVlzYkhHVlM3RVk?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1weEpETUVlTUxyeGVLNzAzeWF5cF8yT1JTZm52bnpXNW13bHJkZ3R3U2Q4U2t6VnAwTnZnQ3RxajRLSU9MN1FKdXBmWGtYX1dwU3FFcHRfRV9xc3NEWWR5eFZtdGtXZ191eVlzYkhHVlM3RVk?oc=5",
-    "titleFingerprint": "5b4856ea5a99e90c365e1fd5b3d5a9c67072cbeb",
-    "dedupKeys": [
-      "0b3f47ae325eb969bf4776ce2c10f380832805cc",
-      "5b4856ea5a99e90c365e1fd5b3d5a9c67072cbeb",
-      "173281b3700919edcfd029ac562a1a62d4b6a693"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 8.1만달러대, 나스닥 최고치 랠리와 동반 상승",
-        "excerpt": "마켓인 보도에 따르면 비트코인은 나스닥 최고치 랠리에 동참하며 8.1만달러대에서 움직였다. 주식시장 강세와 함께 암호화폐 가격 흐름이 주목된다.",
-        "body": "마켓인 보도에 따르면 비트코인은 나스닥 최고치 랠리에 동참하며 8.1만달러대에서 거래 흐름을 보였다. 이번 움직임은 미국 기술주 중심 지수의 강세와 함께 암호화폐 시장에서도 가격 상승세가 나타났다는 점에서 주목된다.\n\n보도에서 제시된 핵심 수치는 비트코인 가격이 8.1만달러대에 머물렀다는 점이다. 나스닥이 최고치 랠리를 이어가는 가운데 비트코인도 같은 방향의 흐름을 보이며 위험자산 전반의 투자 심리와 연결된 모습이다.\n\n다만 원문에는 추가적인 가격 변동 폭이나 구체적인 시장 참가자 발언은 제시되지 않았다. 투자자들은 나스닥 랠리와 비트코인 가격 흐름이 함께 이어질지에 주목할 것으로 보인다.\n\n출처: 마켓인"
-      },
-      "en": {
-        "title": "Bitcoin Holds in $81,000 Range as Nasdaq Record Rally Extends",
-        "excerpt": "According to Marketin, Bitcoin moved in the $81,000 range while joining the Nasdaq’s record-high rally, drawing attention to parallel strength in stocks and crypto.",
-        "body": "According to Marketin, Bitcoin traded in the $81,000 range as it joined the Nasdaq’s record-high rally. The move drew attention because price strength appeared in the cryptocurrency market alongside gains in the U.S. technology-focused index.\n\nThe key figure cited in the report was Bitcoin’s position in the $81,000 range. As the Nasdaq continued its record rally, Bitcoin moved in the same direction, showing a pattern linked to broader risk-asset sentiment.\n\nThe original report did not provide additional price-change details or specific comments from market participants. Investors are likely to watch whether the Nasdaq rally and Bitcoin’s price trend continue to move together.\n\nSource: Marketin"
-      },
-      "ja": {
-        "title": "ビットコイン8.1万ドル台、ナスダック最高値ラリーに連動",
-        "excerpt": "マーケットインによると、ビットコインはナスダックの最高値ラリーに加わり、8.1万ドル台で推移した。株式市場の強さと暗号資産の動きが注目される。",
-        "body": "マーケットインの報道によると、ビットコインはナスダックの最高値ラリーに加わり、8.1万ドル台で取引される流れを示した。米国のハイテク株中心指数の強さとともに、暗号資産市場でも価格上昇の動きが見られた点が注目される。\n\n報道で示された主要な数値は、ビットコイン価格が8.1万ドル台にとどまったことだ。ナスダックが最高値ラリーを続ける中、ビットコインも同じ方向に動き、リスク資産全般の投資心理と結び付いた形となった。\n\nただし、原文では追加の価格変動幅や具体的な市場関係者の発言は示されていない。投資家はナスダックのラリーとビットコインの価格推移がともに続くかに注目するとみられる。\n\n出典: マーケットイン"
-      },
-      "zh": {
-        "title": "比特币维持8.1万美元区间，跟随纳斯达克新高行情",
-        "excerpt": "据Marketin报道，比特币跟随纳斯达克创纪录高位行情，在8.1万美元区间波动。股票市场走强与加密货币价格走势同步受到关注。",
-        "body": "据Marketin报道，比特币跟随纳斯达克创纪录高位行情，在8.1万美元区间呈现交易走势。此次动向受到关注，因为在美国科技股为主的指数走强之际，加密货币市场也出现了价格上行动能。\n\n报道中给出的核心数字是，比特币价格停留在8.1万美元区间。随着纳斯达克延续最高位行情，比特币也朝相同方向移动，显示出与整体风险资产投资情绪相关的走势。\n\n不过，原文未提供进一步的价格变动幅度，也未列出具体市场人士评论。投资者预计将关注纳斯达克行情与比特币价格走势是否继续同步。\n\n来源: Marketin"
-      },
-      "es": {
-        "title": "Bitcoin se mantiene en US$81.000 junto al rally récord del Nasdaq",
-        "excerpt": "Según Marketin, Bitcoin se movió en la zona de US$81.000 al sumarse al rally de máximos del Nasdaq, lo que centra la atención en la fuerza paralela de acciones y cripto.",
-        "body": "Según Marketin, Bitcoin cotizó en la zona de US$81.000 al sumarse al rally de máximos del Nasdaq. El movimiento llamó la atención porque la fortaleza del índice estadounidense centrado en tecnología coincidió con avances en el mercado de criptomonedas.\n\nLa cifra clave citada por el reporte fue que Bitcoin se mantuvo en el rango de US$81.000. Mientras el Nasdaq continuaba su rally de máximos, Bitcoin avanzó en la misma dirección, mostrando una dinámica vinculada al sentimiento hacia los activos de riesgo.\n\nEl texto original no incluyó detalles adicionales sobre la variación de precio ni comentarios concretos de participantes del mercado. Los inversores observarán si el rally del Nasdaq y la tendencia de Bitcoin siguen moviéndose en paralelo.\n\nFuente: Marketin"
-      },
-      "pt": {
-        "title": "Bitcoin fica na faixa de US$81 mil com rali recorde do Nasdaq",
-        "excerpt": "Segundo a Marketin, o Bitcoin avançou na faixa de US$81 mil ao acompanhar o rali de máximas do Nasdaq, destacando a força simultânea entre ações e criptoativos.",
-        "body": "Segundo a Marketin, o Bitcoin foi negociado na faixa de US$81 mil ao acompanhar o rali de máximas do Nasdaq. O movimento chamou atenção porque a força do índice norte-americano concentrado em tecnologia ocorreu junto com alta no mercado de criptomoedas.\n\nO principal número citado na reportagem foi a permanência do Bitcoin na faixa de US$81 mil. Enquanto o Nasdaq mantinha seu rali recorde, o Bitcoin seguiu na mesma direção, em um movimento associado ao sentimento mais amplo por ativos de risco.\n\nO texto original não trouxe detalhes adicionais sobre a variação de preço nem comentários específicos de participantes do mercado. Investidores devem acompanhar se o rali do Nasdaq e a trajetória do Bitcoin continuarão alinhados.\n\nFonte: Marketin"
-      },
-      "de": {
-        "title": "Bitcoin bei 81.000 Dollar, Nasdaq-Rekordrally stützt Marktbild",
-        "excerpt": "Laut Marketin bewegte sich Bitcoin im Bereich von 81.000 Dollar und schloss sich der Rekordrally des Nasdaq an. Aktien- und Kryptomärkte stehen damit gemeinsam im Fokus.",
-        "body": "Laut Marketin wurde Bitcoin im Bereich von 81.000 Dollar gehandelt und schloss sich damit der Rekordrally des Nasdaq an. Beachtung fand die Bewegung, weil neben der Stärke des US-Technologieindex auch am Kryptomarkt ein positiver Preisverlauf sichtbar wurde.\n\nDie zentrale Zahl des Berichts war, dass Bitcoin in der Spanne um 81.000 Dollar blieb. Während der Nasdaq seine Höchststandsrally fortsetzte, bewegte sich Bitcoin in dieselbe Richtung und zeigte damit eine Verbindung zur Stimmung bei Risikoanlagen.\n\nDer Originalbericht nannte keine weiteren Details zur Preisveränderung und keine konkreten Kommentare von Marktteilnehmern. Anleger dürften beobachten, ob Nasdaq-Rally und Bitcoin-Trend weiter gemeinsam verlaufen.\n\nQuelle: Marketin"
-      },
-      "fr": {
-        "title": "Bitcoin autour de 81.000 dollars avec le rally record du Nasdaq",
-        "excerpt": "Selon Marketin, le bitcoin a évolué autour de 81.000 dollars en accompagnant le rally record du Nasdaq, attirant l’attention sur la vigueur parallèle des actions et des cryptos.",
-        "body": "Selon Marketin, le bitcoin s’est échangé autour de 81.000 dollars en accompagnant le rally record du Nasdaq. Ce mouvement retient l’attention car la vigueur de l’indice américain centré sur la technologie s’est accompagnée d’une progression sur le marché des cryptomonnaies.\n\nLe chiffre clé du rapport est le maintien du bitcoin dans la zone des 81.000 dollars. Alors que le Nasdaq poursuivait son rally vers des sommets, le bitcoin a évolué dans la même direction, reflétant un lien avec le sentiment général envers les actifs risqués.\n\nLe texte d’origine ne donne pas d’autres détails sur l’ampleur de la variation ni de commentaires précis d’intervenants du marché. Les investisseurs suivront l’éventuelle poursuite commune du rally du Nasdaq et de la tendance du bitcoin.\n\nSource: Marketin"
-      },
-      "ar": {
-        "title": "بيتكوين عند نطاق 81 ألف دولار مع استمرار صعود ناسداك القياسي",
-        "excerpt": "بحسب ماركت إن، تحركت بيتكوين في نطاق 81 ألف دولار بالتزامن مع انضمامها إلى موجة صعود ناسداك القياسية، ما يسلط الضوء على قوة الأسهم والعملات المشفرة.",
-        "body": "بحسب تقرير ماركت إن، جرى تداول بيتكوين في نطاق 81 ألف دولار مع انضمامها إلى موجة الصعود القياسية في ناسداك. وقد لفتت هذه الحركة الانتباه لأنها جاءت مع قوة مؤشر الأسهم الأميركية المرتبط بالتكنولوجيا وظهور اتجاه صاعد في سوق العملات المشفرة.\n\nالرقم الرئيسي الوارد في التقرير هو بقاء سعر بيتكوين في نطاق 81 ألف دولار. ومع استمرار ناسداك في تسجيل موجة صعود نحو مستويات قياسية، تحركت بيتكوين في الاتجاه نفسه، بما يعكس ارتباطا بمعنويات الاستثمار في الأصول عالية المخاطر.\n\nولم يورد النص الأصلي تفاصيل إضافية عن حجم تغير السعر أو تصريحات محددة من مشاركين في السوق. ومن المتوقع أن يتابع المستثمرون ما إذا كان صعود ناسداك واتجاه بيتكوين سيستمران معا.\n\nالمصدر: ماركت إن"
-      },
-      "hi": {
-        "title": "बिटकॉइन 81,000 डॉलर दायरे में, नैस्डैक रिकॉर्ड रैली के साथ बढ़त",
-        "excerpt": "Marketin के अनुसार, बिटकॉइन नैस्डैक की रिकॉर्ड ऊंचाई वाली रैली के साथ 81,000 डॉलर के दायरे में रहा। शेयर बाजार और क्रिप्टो की समान मजबूती पर ध्यान है।",
-        "body": "Marketin की रिपोर्ट के अनुसार, बिटकॉइन नैस्डैक की रिकॉर्ड ऊंचाई वाली रैली में शामिल होते हुए 81,000 डॉलर के दायरे में कारोबार करता दिखा। यह चाल इसलिए अहम रही क्योंकि अमेरिकी टेक-केंद्रित सूचकांक की मजबूती के साथ क्रिप्टोकरेंसी बाजार में भी मूल्य बढ़त दिखाई दी।\n\nरिपोर्ट में दिया गया मुख्य आंकड़ा बिटकॉइन का 81,000 डॉलर के दायरे में रहना था। नैस्डैक के रिकॉर्ड रैली जारी रखने के बीच बिटकॉइन भी उसी दिशा में चला, जिससे व्यापक जोखिम वाली परिसंपत्तियों को लेकर निवेश भावना से जुड़ा रुझान दिखा।\n\nमूल रिपोर्ट में कीमत में बदलाव की अतिरिक्त सीमा या बाजार प्रतिभागियों की कोई विशिष्ट टिप्पणी नहीं दी गई। निवेशक देखेंगे कि नैस्डैक रैली और बिटकॉइन की कीमत का रुझान साथ-साथ जारी रहता है या नहीं।\n\nस्रोत: Marketin"
-      },
-      "id": {
-        "title": "Bitcoin di Kisaran US$81.000 Ikuti Reli Rekor Nasdaq",
-        "excerpt": "Menurut Marketin, Bitcoin bergerak di kisaran US$81.000 saat mengikuti reli rekor Nasdaq. Kekuatan pasar saham dan aset kripto kini menjadi perhatian investor.",
-        "body": "Menurut Marketin, Bitcoin diperdagangkan di kisaran US$81.000 saat mengikuti reli rekor Nasdaq. Pergerakan ini menarik perhatian karena penguatan indeks saham AS yang berfokus pada teknologi terjadi bersamaan dengan kenaikan harga di pasar kripto.\n\nAngka utama dalam laporan tersebut adalah posisi Bitcoin yang bertahan di kisaran US$81.000. Ketika Nasdaq melanjutkan reli ke level tertinggi, Bitcoin bergerak ke arah yang sama dan menunjukkan keterkaitan dengan sentimen terhadap aset berisiko secara lebih luas.\n\nNamun, teks asli tidak memuat rincian tambahan mengenai besaran perubahan harga atau komentar khusus dari pelaku pasar. Investor kemungkinan akan memantau apakah reli Nasdaq dan tren harga Bitcoin terus bergerak sejalan.\n\nSumber: Marketin"
-      }
-    }
-  },
-  {
-    "id": "ec18b8387213",
-    "slug": "비트코인-1억2000만원대美-클래리티-법안-진전-호재---뉴시스-616602",
-    "channelId": "CRYPTO",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:48:00.375Z",
-    "updatedAt": "2026-05-06T07:48:00.375Z",
-    "sourceName": "뉴시스",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DXy1Iak1qaDVlVnBIU1R5Tkk5NWhZNDUtV3BpMGkyRjhJenhMb3FhaFQ0MjFBRk1KVk1YLWtFdGF0Qld0bG1LLXM2cUNSQWJGVlVGNXdnR1BMb3F3WXFyMdIBeEFVX3lxTE1VaTFEdmctSHFHbzlfSmRuTjd1emd6UXN4em8xWE5WNUdfS1YtS0ZGZEFtanp0dTVzYjBDS2V1Yl9zQW1uUlFVQ1U2aUJwb1ZxdjFWaUZJQlh6Uk80QVQxbkloQ3gtcWFwZFpaZEkzZ0VFMHRGVkJEeg?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DXy1Iak1qaDVlVnBIU1R5Tkk5NWhZNDUtV3BpMGkyRjhJenhMb3FhaFQ0MjFBRk1KVk1YLWtFdGF0Qld0bG1LLXM2cUNSQWJGVlVGNXdnR1BMb3F3WXFyMdIBeEFVX3lxTE1VaTFEdmctSHFHbzlfSmRuTjd1emd6UXN4em8xWE5WNUdfS1YtS0ZGZEFtanp0dTVzYjBDS2V1Yl9zQW1uUlFVQ1U2aUJwb1ZxdjFWaUZJQlh6Uk80QVQxbkloQ3gtcWFwZFpaZEkzZ0VFMHRGVkJEeg?oc=5",
-    "titleFingerprint": "39b0a87b938548d04040c606d5a9a7b896431b91",
-    "dedupKeys": [
-      "ec18b83872139e18509114265666324846d5a761",
-      "39b0a87b938548d04040c606d5a9a7b896431b91",
-      "82eace9289dd136bfdd3ebe8631366ef7e6f24cb"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 1억2000만원대 유지…미국 클래리티 법안 진전이 호재로",
-        "excerpt": "비트코인이 1억2000만원대에서 움직이는 가운데, 미국 ‘클래리티 법안’ 진전 소식이 시장에 긍정적 재료로 작용했다고 뉴시스가 전했다.",
-        "body": "비트코인이 1억2000만원대에서 거래되며 시장의 관심을 받고 있다. 뉴시스는 미국 ‘클래리티 법안’ 진전 소식이 비트코인 가격 흐름에 호재로 작용했다고 전했다.\n\n이번 보도에서 확인된 핵심 수치는 비트코인이 1억2000만원대에 머물고 있다는 점이다. 미국의 가상자산 관련 입법 논의로 알려진 클래리티 법안의 진전은 투자자들이 주목한 배경으로 제시됐다.\n\n다만 원문은 구체적인 가격 변동 폭이나 추가 관계자 발언을 제시하지 않았다. 시장은 법안 진전 소식이 비트코인 투자 심리에 어떤 영향을 줄지 살피는 흐름이다.\n\n출처: 뉴시스"
-      },
-      "en": {
-        "title": "Bitcoin Holds Around 120 Million Won as U.S. Clarity Act Progress Lifts Sentiment",
-        "excerpt": "Bitcoin traded in the 120 million won range as progress on the U.S. “Clarity Act” was cited by Newsis as a positive factor for market sentiment.",
-        "body": "Bitcoin is drawing market attention as it trades in the 120 million won range. Newsis reported that progress on the U.S. “Clarity Act” acted as a favorable factor for Bitcoin’s price trend.\n\nThe key figure in the report is that Bitcoin remains around 120 million won. Progress on the Clarity Act, known as a U.S. legislative discussion related to digital assets, was presented as background that investors are watching.\n\nThe original report did not provide a specific price-change range or additional comments from officials. The market is watching how news of the bill’s progress may affect Bitcoin investment sentiment.\n\nSource: Newsis"
-      },
-      "ja": {
-        "title": "ビットコイン、1億2000万ウォン台を維持　米クラリティ法案進展が好材料に",
-        "excerpt": "ビットコインが1億2000万ウォン台で推移する中、米国の「クラリティ法案」進展が市場心理にプラス材料として作用したとニューシスが伝えた。",
-        "body": "ビットコインは1億2000万ウォン台で取引され、市場の関心を集めている。ニューシスは、米国の「クラリティ法案」進展のニュースがビットコインの価格動向に好材料として作用したと報じた。\n\n今回の報道で確認された中心的な数値は、ビットコインが1億2000万ウォン台にとどまっている点だ。米国の暗号資産関連の立法議論として知られるクラリティ法案の進展が、投資家の注目する背景として示された。\n\nただし原文では、具体的な価格変動幅や追加の関係者コメントは示されていない。市場は法案進展のニュースがビットコイン投資心理にどのような影響を与えるかを見守っている。\n\n出典: ニューシス"
-      },
-      "zh": {
-        "title": "比特币维持在1.2亿韩元区间，美国“清晰法案”进展成利好",
-        "excerpt": "据纽西斯报道，比特币在1.2亿韩元区间运行，美国“清晰法案”取得进展的消息被视为提振市场情绪的积极因素。",
-        "body": "比特币在1.2亿韩元区间交易，受到市场关注。据纽西斯报道，美国“清晰法案”取得进展的消息，对比特币价格走势形成利好。\n\n此次报道中确认的核心数据是，比特币仍处于1.2亿韩元区间。作为美国加密资产相关立法讨论之一，清晰法案的进展被视为投资者关注的背景因素。\n\n不过，原文未给出具体价格波动幅度，也未提供更多相关人士评论。市场正在观察该法案进展消息将如何影响比特币投资情绪。\n\n来源: 纽西斯"
-      },
-      "es": {
-        "title": "Bitcoin se mantiene cerca de 120 millones de wones por avance de la Ley Clarity en EE. UU.",
-        "excerpt": "Bitcoin cotizó en la zona de 120 millones de wones, mientras Newsis señaló que el avance de la Ley Clarity de EE. UU. actuó como factor positivo para el mercado.",
-        "body": "Bitcoin atrae la atención del mercado al cotizar en la zona de 120 millones de wones. Newsis informó que el avance de la “Ley Clarity” en Estados Unidos actuó como un factor favorable para la tendencia del precio de Bitcoin.\n\nEl dato central del reporte es que Bitcoin se mantiene en torno a 120 millones de wones. El progreso de la Ley Clarity, conocida como una discusión legislativa estadounidense relacionada con los criptoactivos, fue presentado como un contexto observado por los inversores.\n\nEl texto original no incluyó un rango concreto de variación del precio ni comentarios adicionales de funcionarios. El mercado observa cómo la noticia del avance del proyecto puede influir en el ánimo inversor hacia Bitcoin.\n\nFuente: Newsis"
-      },
-      "pt": {
-        "title": "Bitcoin fica na faixa de 120 milhões de won com avanço da Lei Clarity nos EUA",
-        "excerpt": "O Bitcoin operou na faixa de 120 milhões de won, enquanto a Newsis citou o avanço da Lei Clarity dos EUA como fator positivo para o sentimento do mercado.",
-        "body": "O Bitcoin chama a atenção do mercado ao ser negociado na faixa de 120 milhões de won. A Newsis informou que o avanço da “Lei Clarity” nos Estados Unidos atuou como fator favorável para a trajetória do preço do Bitcoin.\n\nO principal número confirmado na reportagem é que o Bitcoin permanece na faixa de 120 milhões de won. O avanço da Lei Clarity, conhecida como uma discussão legislativa dos EUA ligada a criptoativos, foi apresentado como um ponto observado pelos investidores.\n\nO texto original não trouxe uma variação específica de preço nem comentários adicionais de autoridades. O mercado acompanha como a notícia do avanço do projeto pode afetar o sentimento de investimento em Bitcoin.\n\nFonte: Newsis"
-      },
-      "de": {
-        "title": "Bitcoin hält Marke von 120 Mio. Won, Fortschritt beim US-Clarity Act stützt Stimmung",
-        "excerpt": "Bitcoin bewegte sich im Bereich von 120 Millionen Won. Newsis nannte Fortschritte beim US-„Clarity Act“ als positiven Faktor für die Marktstimmung.",
-        "body": "Bitcoin steht im Fokus des Marktes, da die Kryptowährung im Bereich von 120 Millionen Won gehandelt wird. Newsis berichtete, dass Fortschritte beim US-„Clarity Act“ als positiver Faktor für die Preisentwicklung von Bitcoin wirkten.\n\nDie zentrale Zahl des Berichts ist, dass Bitcoin im Bereich von 120 Millionen Won bleibt. Der Fortschritt beim Clarity Act, der als US-Gesetzesdebatte zu digitalen Vermögenswerten bekannt ist, wurde als Hintergrund genannt, den Anleger beobachten.\n\nDer Originalbericht nannte jedoch keine konkrete Spanne der Preisbewegung und keine zusätzlichen Kommentare von Beteiligten. Der Markt beobachtet, wie sich die Nachricht über den Gesetzesfortschritt auf die Bitcoin-Anlegerstimmung auswirken könnte.\n\nQuelle: Newsis"
-      },
-      "fr": {
-        "title": "Le bitcoin reste autour de 120 millions de wons, porté par l’avancée du Clarity Act américain",
-        "excerpt": "Le bitcoin évoluait autour de 120 millions de wons, tandis que Newsis a cité l’avancée du « Clarity Act » américain comme facteur positif pour le marché.",
-        "body": "Le bitcoin attire l’attention du marché en s’échangeant autour de 120 millions de wons. Newsis a rapporté que l’avancée du « Clarity Act » aux États-Unis avait agi comme un facteur favorable pour l’évolution du prix du bitcoin.\n\nLe chiffre clé du reportage est que le bitcoin reste dans la zone des 120 millions de wons. L’avancée du Clarity Act, présenté comme une discussion législative américaine liée aux actifs numériques, a été citée comme un élément suivi par les investisseurs.\n\nLe texte original ne fournit toutefois pas d’ampleur précise de variation du prix ni de commentaires supplémentaires de responsables. Le marché observe l’effet que cette avancée législative pourrait avoir sur le sentiment d’investissement envers le bitcoin.\n\nSource: Newsis"
-      },
-      "ar": {
-        "title": "بيتكوين قرب 120 مليون وون مع تقدم قانون كلاريتي الأميركي كعامل داعم",
-        "excerpt": "تداولت بيتكوين في نطاق 120 مليون وون، فيما ذكرت نيوسيس أن تقدم قانون «كلاريتي» الأميركي شكل عاملا إيجابيا لمعنويات السوق.",
-        "body": "تجذب بيتكوين اهتمام السوق مع تداولها في نطاق 120 مليون وون. وذكرت نيوسيس أن تقدم قانون «كلاريتي» في الولايات المتحدة كان عاملا مواتيا لاتجاه سعر بيتكوين.\n\nالرقم الأساسي في التقرير هو بقاء بيتكوين عند نطاق 120 مليون وون. وقد قُدم تقدم قانون كلاريتي، المعروف كنقاش تشريعي أميركي مرتبط بالأصول الرقمية، كخلفية يراقبها المستثمرون.\n\nلكن النص الأصلي لم يقدم نطاقا محددا لتغير السعر أو تعليقات إضافية من مسؤولين. ويراقب السوق كيف يمكن أن تؤثر أخبار تقدم القانون في معنويات الاستثمار في بيتكوين.\n\nالمصدر: نيوسيس"
-      },
-      "hi": {
-        "title": "बिटकॉइन 12 करोड़ वॉन के दायरे में, अमेरिकी Clarity Act की प्रगति से धारणा मजबूत",
-        "excerpt": "बिटकॉइन 12 करोड़ वॉन के दायरे में कारोबार कर रहा था, जबकि Newsis ने अमेरिकी “Clarity Act” में प्रगति को बाजार धारणा के लिए सकारात्मक कारक बताया।",
-        "body": "बिटकॉइन 12 करोड़ वॉन के दायरे में कारोबार करते हुए बाजार का ध्यान खींच रहा है। Newsis ने बताया कि अमेरिका के “Clarity Act” में प्रगति की खबर बिटकॉइन की कीमत की दिशा के लिए सकारात्मक कारक बनी।\n\nरिपोर्ट में मुख्य आंकड़ा यह है कि बिटकॉइन 12 करोड़ वॉन के दायरे में बना हुआ है। डिजिटल एसेट्स से जुड़ी अमेरिकी विधायी चर्चा के रूप में पहचाने जाने वाले Clarity Act की प्रगति को निवेशकों द्वारा देखे जा रहे संदर्भ के रूप में रखा गया।\n\nहालांकि मूल रिपोर्ट ने कीमत में बदलाव की कोई ठोस सीमा या संबंधित अधिकारियों की अतिरिक्त टिप्पणी नहीं दी। बाजार देख रहा है कि विधेयक की प्रगति की खबर बिटकॉइन निवेश धारणा पर क्या असर डालती है।\n\nस्रोत: Newsis"
-      },
-      "id": {
-        "title": "Bitcoin Bertahan di Kisaran 120 Juta Won, Kemajuan UU Clarity AS Jadi Sentimen Positif",
-        "excerpt": "Bitcoin bergerak di kisaran 120 juta won, sementara Newsis menyebut kemajuan “Clarity Act” AS sebagai faktor positif bagi sentimen pasar.",
-        "body": "Bitcoin menarik perhatian pasar karena diperdagangkan di kisaran 120 juta won. Newsis melaporkan bahwa kemajuan “Clarity Act” di Amerika Serikat menjadi faktor positif bagi arah harga Bitcoin.\n\nAngka utama dalam laporan tersebut adalah Bitcoin yang masih berada di kisaran 120 juta won. Kemajuan Clarity Act, yang dikenal sebagai pembahasan legislasi AS terkait aset digital, disebut sebagai latar yang diperhatikan investor.\n\nNamun, laporan asli tidak menyajikan rentang perubahan harga yang spesifik atau komentar tambahan dari pihak terkait. Pasar mencermati bagaimana kabar kemajuan rancangan undang-undang itu dapat memengaruhi sentimen investasi Bitcoin.\n\nSumber: Newsis"
-      }
-    }
-  },
-  {
-    "id": "75cead16faba",
-    "slug": "비트코인-8만달러-재돌파에3억달러-넘는-숏포지션-청산-발생---연합인포맥스-110222",
-    "channelId": "CRYPTO",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:47:00.860Z",
-    "updatedAt": "2026-05-06T07:47:00.860Z",
-    "sourceName": "연합인포맥스",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrVW14WUdRMUx5WFJnNlBINi1LV3pUbHktS1FxNXdrdWw3cXlyazhiT2EwR09FU2lDUDItOE0zeGJUc3JKUWhlaHRlMlBxRjFSYUNXYmtMblgzMGppU0FKbkxkdFB4bHFBaWpVeG1mZkrSAXRBVV95cUxQMi1GX3l4TUUwMHNHYk9Ra2kxcE9NdEpmdGl4N0M3ZVZOdFk3SXBfcWZqR1g1Q0lxcEJqdUxxQUxXb01XM1ZBbG9GWGZ4cENaRU9WanRTOUVjc0RjOXFGdTNpX1FGU2d1T29USFl3WWtqeUNQVA?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrVW14WUdRMUx5WFJnNlBINi1LV3pUbHktS1FxNXdrdWw3cXlyazhiT2EwR09FU2lDUDItOE0zeGJUc3JKUWhlaHRlMlBxRjFSYUNXYmtMblgzMGppU0FKbkxkdFB4bHFBaWpVeG1mZkrSAXRBVV95cUxQMi1GX3l4TUUwMHNHYk9Ra2kxcE9NdEpmdGl4N0M3ZVZOdFk3SXBfcWZqR1g1Q0lxcEJqdUxxQUxXb01XM1ZBbG9GWGZ4cENaRU9WanRTOUVjc0RjOXFGdTNpX1FGU2d1T29USFl3WWtqeUNQVA?oc=5",
-    "titleFingerprint": "9ce86fa4cc17a2771f957402e3e8146c24f31bdc",
-    "dedupKeys": [
-      "75cead16faba70c84255ec3e7faa616949a9951f",
-      "9ce86fa4cc17a2771f957402e3e8146c24f31bdc",
-      "6fbcdacddee8e7316936c5de26ee9d11e811fc87"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 8만달러 재돌파, 3억달러 넘는 숏포지션 청산 발생",
-        "excerpt": "비트코인이 8만달러 선을 다시 넘어서면서 시장에서 3억달러가 넘는 숏포지션 청산이 발생했다고 연합인포맥스가 전했다.",
-        "body": "비트코인이 8만달러 선을 재돌파하면서 암호화폐 시장에서 3억달러가 넘는 숏포지션 청산이 발생했다고 연합인포맥스가 보도했다.\n\n이번 청산은 비트코인 가격이 8만달러를 다시 넘어서는 흐름 속에서 나타났다. 숏포지션은 가격 하락에 베팅한 거래로, 가격이 반대로 상승할 경우 손실 확대에 따라 강제 청산될 수 있다.\n\n연합인포맥스가 전한 내용에 따르면, 이번 움직임은 비트코인 가격 반등이 파생상품 시장의 포지션 정리에 직접적인 영향을 준 사례로 해석된다.\n\n출처: 연합인포맥스"
-      },
-      "en": {
-        "title": "Bitcoin Reclaims $80,000 as Over $300 Million in Shorts Are Liquidated",
-        "excerpt": "Bitcoin moved back above the $80,000 mark, triggering more than $300 million in short-position liquidations, Yonhap Infomax reported.",
-        "body": "Bitcoin reclaimed the $80,000 level, leading to more than $300 million in short-position liquidations across the crypto market, Yonhap Infomax reported.\n\nThe liquidations occurred as Bitcoin rose back above $80,000. Short positions are trades that bet on a price decline, and they can be forcibly closed when prices move higher against those positions.\n\nAccording to Yonhap Infomax, the move shows how Bitcoin’s rebound directly affected position unwinding in the derivatives market.\n\nSource: Yonhap Infomax"
-      },
-      "ja": {
-        "title": "ビットコイン8万ドル再突破、3億ドル超のショート清算発生",
-        "excerpt": "ビットコインが8万ドル台を再び突破したことで、市場では3億ドルを超えるショートポジションの清算が発生したと聯合インフォマックスが伝えた。",
-        "body": "ビットコインが8万ドルの水準を再び突破し、暗号資産市場で3億ドルを超えるショートポジションの清算が発生したと聯合インフォマックスが報じた。\n\n今回の清算は、ビットコイン価格が8万ドルを再び上回る流れの中で起きた。ショートポジションは価格下落に賭ける取引であり、価格が反対に上昇すると損失拡大により強制清算される場合がある。\n\n聯合インフォマックスによると、今回の動きはビットコインの反発がデリバティブ市場のポジション整理に直接影響した事例と解釈される。\n\n出典: 聯合インフォマックス"
-      },
-      "zh": {
-        "title": "比特币重返8万美元上方，逾3亿美元空头头寸被清算",
-        "excerpt": "据韩联社Infomax报道，比特币重新突破8万美元关口后，市场上发生了超过3亿美元的空头头寸清算。",
-        "body": "据韩联社Infomax报道，比特币重新突破8万美元关口后，加密货币市场出现超过3亿美元的空头头寸清算。\n\n此次清算发生在比特币价格再次升破8万美元的过程中。空头头寸是押注价格下跌的交易，当价格反向上涨时，相关头寸可能因亏损扩大而被强制平仓。\n\n韩联社Infomax称，这一走势可被视为比特币价格反弹直接影响衍生品市场头寸出清的案例。\n\n来源: 韩联社Infomax"
-      },
-      "es": {
-        "title": "Bitcoin supera de nuevo los 80.000 dólares y liquida más de 300 millones en cortos",
-        "excerpt": "Bitcoin volvió a superar los 80.000 dólares y provocó liquidaciones de posiciones cortas por más de 300 millones de dólares, informó Yonhap Infomax.",
-        "body": "Bitcoin volvió a superar el nivel de 80.000 dólares, lo que generó liquidaciones de posiciones cortas por más de 300 millones de dólares en el mercado cripto, informó Yonhap Infomax.\n\nLas liquidaciones se produjeron mientras el precio de Bitcoin recuperaba la zona de 80.000 dólares. Las posiciones cortas apuestan por una caída del precio y pueden cerrarse de forma forzada cuando el mercado sube en sentido contrario.\n\nSegún Yonhap Infomax, el movimiento muestra cómo el rebote de Bitcoin impactó directamente en el ajuste de posiciones del mercado de derivados.\n\nFuente: Yonhap Infomax"
-      },
-      "pt": {
-        "title": "Bitcoin volta a superar US$ 80 mil e liquida mais de US$ 300 milhões em shorts",
-        "excerpt": "O Bitcoin voltou a superar a marca de US$ 80 mil, provocando mais de US$ 300 milhões em liquidações de posições vendidas, informou a Yonhap Infomax.",
-        "body": "O Bitcoin voltou a superar o patamar de US$ 80 mil, levando a mais de US$ 300 milhões em liquidações de posições vendidas no mercado cripto, informou a Yonhap Infomax.\n\nAs liquidações ocorreram enquanto o preço do Bitcoin retornava acima de US$ 80 mil. Posições vendidas apostam na queda do preço e podem ser encerradas à força quando o mercado se move em alta contra essas apostas.\n\nSegundo a Yonhap Infomax, o movimento mostra como a recuperação do Bitcoin afetou diretamente o ajuste de posições no mercado de derivativos.\n\nFonte: Yonhap Infomax"
-      },
-      "de": {
-        "title": "Bitcoin zurück über 80.000 Dollar, Shorts über 300 Millionen Dollar liquidiert",
-        "excerpt": "Bitcoin stieg wieder über die Marke von 80.000 Dollar und löste Liquidationen von Short-Positionen im Wert von mehr als 300 Millionen Dollar aus, berichtete Yonhap Infomax.",
-        "body": "Bitcoin hat die Marke von 80.000 Dollar erneut überschritten und damit im Kryptomarkt Liquidationen von Short-Positionen im Wert von mehr als 300 Millionen Dollar ausgelöst, berichtete Yonhap Infomax.\n\nDie Liquidationen erfolgten, als der Bitcoin-Kurs wieder über 80.000 Dollar stieg. Short-Positionen setzen auf fallende Preise und können zwangsweise geschlossen werden, wenn der Kurs entgegen dieser Wette steigt.\n\nLaut Yonhap Infomax zeigt die Entwicklung, wie die Erholung von Bitcoin die Positionsbereinigung am Derivatemarkt direkt beeinflusste.\n\nQuelle: Yonhap Infomax"
-      },
-      "fr": {
-        "title": "Bitcoin repasse les 80.000 dollars, plus de 300 millions de dollars de shorts liquidés",
-        "excerpt": "Le bitcoin est repassé au-dessus de 80.000 dollars, entraînant plus de 300 millions de dollars de liquidations de positions courtes, selon Yonhap Infomax.",
-        "body": "Le bitcoin a de nouveau franchi le seuil des 80.000 dollars, provoquant plus de 300 millions de dollars de liquidations de positions courtes sur le marché crypto, a rapporté Yonhap Infomax.\n\nCes liquidations sont intervenues alors que le prix du bitcoin repassait au-dessus de 80.000 dollars. Les positions courtes misent sur une baisse du prix et peuvent être clôturées de force lorsque le marché monte dans le sens opposé.\n\nSelon Yonhap Infomax, ce mouvement illustre l’impact direct du rebond du bitcoin sur l’ajustement des positions du marché des dérivés.\n\nSource: Yonhap Infomax"
-      },
-      "ar": {
-        "title": "بتكوين تعود فوق 80 ألف دولار وتصفية مراكز بيع تتجاوز 300 مليون دولار",
-        "excerpt": "عادت بتكوين إلى تجاوز مستوى 80 ألف دولار، ما أدى إلى تصفية مراكز بيع على المكشوف بأكثر من 300 مليون دولار، وفق يونهاب إنفوماكس.",
-        "body": "تجاوزت بتكوين مجددا مستوى 80 ألف دولار، ما أدى إلى تصفية مراكز بيع على المكشوف بأكثر من 300 مليون دولار في سوق العملات المشفرة، بحسب ما أفادت يونهاب إنفوماكس.\n\nوجاءت هذه التصفيات مع صعود سعر بتكوين مرة أخرى فوق 80 ألف دولار. وتراهن مراكز البيع على المكشوف على انخفاض السعر، وقد تتم تصفيتها قسريا عندما يتحرك السعر صعودا بعكس تلك الرهانات.\n\nوبحسب يونهاب إنفوماكس، يوضح هذا التحرك كيف أثر ارتداد بتكوين مباشرة في إعادة ترتيب المراكز داخل سوق المشتقات.\n\nالمصدر: يونهاب إنفوماكس"
-      },
-      "hi": {
-        "title": "बिटकॉइन फिर 80,000 डॉलर के पार, 300 मिलियन डॉलर से अधिक शॉर्ट पोजिशन खत्म",
-        "excerpt": "बिटकॉइन के फिर 80,000 डॉलर से ऊपर जाने पर 300 मिलियन डॉलर से अधिक की शॉर्ट पोजिशन लिक्विडेट हुईं, योनहाप इन्फोमैक्स ने बताया।",
-        "body": "बिटकॉइन ने फिर 80,000 डॉलर का स्तर पार किया, जिसके बाद क्रिप्टो बाजार में 300 मिलियन डॉलर से अधिक की शॉर्ट पोजिशन लिक्विडेट हुईं, योनहाप इन्फोमैक्स ने रिपोर्ट किया।\n\nयह लिक्विडेशन तब हुआ जब बिटकॉइन की कीमत फिर 80,000 डॉलर से ऊपर गई। शॉर्ट पोजिशन कीमत गिरने पर दांव लगाती हैं, और कीमत उलटी दिशा में बढ़ने पर नुकसान बढ़ने से उन्हें जबरन बंद किया जा सकता है।\n\nयोनहाप इन्फोमैक्स के अनुसार, यह घटना दिखाती है कि बिटकॉइन की वापसी ने डेरिवेटिव बाजार में पोजिशन समायोजन को सीधे प्रभावित किया।\n\nस्रोत: योनहाप इन्फोमैक्स"
-      },
-      "id": {
-        "title": "Bitcoin Kembali Tembus US$80.000, Short Lebih dari US$300 Juta Dilikuidasi",
-        "excerpt": "Bitcoin kembali menembus level US$80.000 dan memicu likuidasi posisi short senilai lebih dari US$300 juta, menurut laporan Yonhap Infomax.",
-        "body": "Bitcoin kembali menembus level US$80.000, memicu likuidasi posisi short senilai lebih dari US$300 juta di pasar kripto, menurut laporan Yonhap Infomax.\n\nLikuidasi tersebut terjadi saat harga Bitcoin kembali bergerak di atas US$80.000. Posisi short adalah transaksi yang bertaruh pada penurunan harga, dan dapat ditutup paksa ketika harga justru naik melawan posisi tersebut.\n\nMenurut Yonhap Infomax, pergerakan ini menunjukkan bagaimana rebound Bitcoin berdampak langsung pada penyesuaian posisi di pasar derivatif.\n\nSumber: Yonhap Infomax"
       }
     }
   }
