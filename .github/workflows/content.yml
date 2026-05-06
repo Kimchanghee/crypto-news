@@ -1,15 +1,15 @@
-name: Content - Codex CLI ì½íì¸  ìë ìì±/ì´ë¯¸ì§/ì»¤ë°
+name: Content - Codex CLI 콘텐츠 자동 생성/이미지/커밋
 
 on:
   schedule:
-    # ChatGPT Pro êµ¬ë: 5ë¶ ê°ê²© (rate-limit ì¶©ë¶)
+    # ChatGPT Pro 구독: 5분 간격 (rate-limit 충분)
     - cron: '*/5 * * * *'
   workflow_dispatch:
     inputs:
       max_articles:
-        description: 'ì´ë² ì¤íìì ìë¡ ìì±í  ê¸°ì¬ ìµë ê°ì'
+        description: '이번 실행에서 새로 생성할 기사 최대 개수'
         required: false
-        default: '3'
+        default: '1'
 
 permissions:
   contents: write
@@ -33,12 +33,12 @@ jobs:
         with:
           node-version: 20
 
-      - name: Restore Codex auth (ChatGPT êµ¬ë)
+      - name: Restore Codex auth (ChatGPT 구독)
         env:
           CODEX_AUTH_JSON: ${{ secrets.CODEX_AUTH_JSON }}
         run: |
           if [ -z "$CODEX_AUTH_JSON" ]; then
-            echo "::error::CODEX_AUTH_JSON secret ìì"
+            echo "::error::CODEX_AUTH_JSON secret 없음"
             exit 1
           fi
           mkdir -p ~/.codex
@@ -57,7 +57,7 @@ jobs:
           OUT=$(codex exec --json --sandbox read-only --skip-git-repo-check "Reply with the single word: ok" 2>&1 || true)
           echo "$OUT" | head -50
           if echo "$OUT" | grep -qi "auth\|login\|expired\|unauthorized"; then
-            echo "::error::Codex ì¸ì¦ ì¤í¨"
+            echo "::error::Codex 인증 실패"
             exit 1
           fi
 
@@ -66,7 +66,7 @@ jobs:
 
       - name: Generate content via codex
         env:
-          MAX_ARTICLES: ${{ inputs.max_articles || '1' }}
+          MAX_ARTICLES: ${{ inputs.max_articles || '3' }}
         run: node scripts/codex-cron.mjs
 
       - name: Commit & push if changed (with rebase retry)
@@ -82,12 +82,12 @@ jobs:
           git add data/ public/images/ 2>&1
           STAGED=$(git diff --cached --name-only | head -100)
           if [ -z "$STAGED" ]; then
-            echo "ë³ê²½ ìì â skip commit"
+            echo "변경 없음 — skip commit"
             exit 0
           fi
           COUNT=$(echo "$STAGED" | grep -c 'data/articles/' || echo 0)
           echo "=== git commit (COUNT=$COUNT) ==="
-          git commit -m "[bot] codex: ${COUNT}ê° ê¸°ì¬ ìì±"
+          git commit -m "[bot] codex: ${COUNT}개 기사 생성"
           
           # Retry push with rebase up to 3 times
           for i in 1 2 3; do
@@ -95,7 +95,7 @@ jobs:
             git pull --rebase origin main 2>&1 | tail -10
             git push 2>&1
             if [ $? -eq 0 ]; then
-              echo "â pushed on attempt $i"
+              echo "✓ pushed on attempt $i"
               exit 0
             fi
             echo "push attempt $i failed, retrying..."
