@@ -15,12 +15,16 @@ export default async function Home({ params: { locale } }: { params: { locale: L
   // Headline cards
   const [hero, ...rest] = articles;
 
+  // Use channel config directly (placeholders in messages files are unresolved)
+  const channelName = (channel as any).name || '';
+  const channelDesc = (channel as any).description || (channel as any).tagline || '';
+
   return (
     <div>
-      {/* SEO H1 — visible to search engines, visually compact */}
+      {/* SEO H1 — visible to search engines */}
       <header style={{ marginBottom: 20 }}>
         <h1 style={{ fontSize: 22, fontWeight: 700, lineHeight: 1.3, margin: 0, color: 'var(--ink)' }}>
-          {t('site.name')} — {t('site.tagline')}
+          {channelName}{channelDesc ? ` — ${channelDesc}` : ''}
         </h1>
       </header>
 
@@ -62,7 +66,6 @@ export default async function Home({ params: { locale } }: { params: { locale: L
           ))}
         </div>
 
-        {/* In-feed ad */}
         <div style={{ margin: '20px 0' }}>
           <AdSlot
             network="adsterra"
@@ -78,13 +81,12 @@ export default async function Home({ params: { locale } }: { params: { locale: L
         </div>
       </section>
 
-      {/* Categories */}
       <section id="categories" style={{ marginTop: 40 }}>
         <h2 style={{ fontSize: 20, fontWeight: 600, marginBottom: 14 }}>{t('nav.categories')}</h2>
         <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-          {channel.categories.map((c) => (
+          {channel.categories.map((c: any) => (
             <a key={c.slug} href={`/${locale}/category/${c.slug}`} className="tag">
-              {c.name[locale] ?? c.name[defaultLocale] ?? c.slug}
+              {c.name?.[locale] ?? c.name?.[defaultLocale] ?? c.slug}
             </a>
           ))}
         </div>
