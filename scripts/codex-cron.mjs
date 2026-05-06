@@ -95,7 +95,6 @@ async function runCodex(prompt, timeoutMs = 180_000) {
     '--json',
     '--sandbox', 'read-only',
     '--skip-git-repo-check',
-    '--ask-for-approval', 'never',
     '--ignore-rules',
     prompt,
   ];
