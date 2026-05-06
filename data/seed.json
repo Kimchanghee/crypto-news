@@ -1,5 +1,230 @@
 [
   {
+    "id": "b5e184250053",
+    "slug": "wall-streets-clearinghouse-seeks-high-performance-blockchain-527436",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T22:36:16.528Z",
+    "updatedAt": "2026-05-06T22:36:16.528Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/06/wall-street-s-clearinghouse-seeks-high-performance-blockchains-to-tokenize-corporate-actions",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/wall-street-s-clearinghouse-seeks-high-performance-blockchains-to-tokenize-corporate-actions",
+    "titleFingerprint": "e6b418389dd8162cb99d0ac773318561c480a6b3",
+    "dedupKeys": [
+      "b5e1842500538ce0734315e864719b73dbda43a1",
+      "e6b418389dd8162cb99d0ac773318561c480a6b3",
+      "267b093e658359ea4f023481f9a6909227c9fd3a"
+    ],
+    "imageUrl": "/images/articles/b5e184250053.jpg",
+    "i18n": {
+      "ko": {
+        "title": "DTCC, 기업행위 토큰화 위해 고성능 레이어1 블록체인 모색",
+        "excerpt": "DTCC의 프랭크 라 살라 CEO는 배당 지급 등 수백만 건의 기업행위를 온체인으로 옮기기 위해 레이어1 블록체인들과 협력 중이라고 밝혔다.",
+        "body": "월가의 핵심 청산기관인 DTCC가 기업행위 토큰화를 위해 고성능 레이어1 블록체인 활용을 모색하고 있다. 프랭크 라 살라 DTCC CEO는 배당 지급 같은 수백만 건의 기업행위를 온체인으로 가져오기 위해 여러 레이어1 블록체인과 협력하고 있다고 말했다. 기업행위는 증권 시장 인프라에서 반복적으로 처리되는 핵심 절차로, 토큰화가 실제 업무에 적용되려면 대규모 처리 성능과 안정성이 중요하다. 다만 라 살라는 아직 해결해야 할 과제가 남아 있다고 설명했다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "DTCC Eyes High-Performance Layer-1 Chains for Corporate Actions",
+        "excerpt": "DTCC CEO Frank La Salla said the clearing giant is working with layer-1 blockchains to bring millions of corporate actions, including dividends, onchain.",
+        "body": "DTCC, a key Wall Street clearinghouse, is exploring high-performance layer-1 blockchains to tokenize corporate actions. CEO Frank La Salla said the clearing giant is working with several layer-1 blockchains to bring millions of corporate actions, such as dividend payments, onchain. Corporate actions are recurring core processes in securities market infrastructure, and large-scale performance and reliability are important if tokenization is to be used in real operations. La Salla also noted that challenges remain before that can be achieved. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "DTCC、企業行為のトークン化へ高性能レイヤー1を模索",
+        "excerpt": "DTCCのフランク・ラ・サラCEOは、配当支払いなど数百万件の企業行為をオンチェーン化するため、レイヤー1ブロックチェーンと協力していると述べた。",
+        "body": "ウォール街の主要清算機関であるDTCCは、企業行為のトークン化に向けて高性能なレイヤー1ブロックチェーンの活用を模索している。フランク・ラ・サラCEOは、配当支払いのような数百万件の企業行為をオンチェーンに移すため、複数のレイヤー1ブロックチェーンと協力していると語った。企業行為は証券市場インフラで繰り返し処理される中核的な手続きであり、トークン化を実務に適用するには大規模な処理性能と信頼性が重要になる。ただし、ラ・サラ氏はなお解決すべき課題が残っているとも説明した。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "DTCC寻求高性能Layer1链，推进企业行动代币化",
+        "excerpt": "DTCC首席执行官Frank La Salla表示，这家清算巨头正与Layer1区块链合作，将股息支付等数百万项企业行动搬上链。",
+        "body": "华尔街核心清算机构DTCC正探索使用高性能Layer1区块链来推动企业行动代币化。DTCC首席执行官Frank La Salla表示，该清算巨头正在与多个Layer1区块链合作，试图将股息支付等数百万项企业行动带到链上。企业行动是证券市场基础设施中反复处理的关键流程，如果代币化要用于实际业务，大规模处理能力和稳定性至关重要。不过，La Salla也指出，目前仍有一些挑战需要解决。来源: coindesk.com"
+      },
+      "es": {
+        "title": "DTCC busca blockchains Layer 1 de alto rendimiento para acciones corporativas",
+        "excerpt": "Frank La Salla, CEO de DTCC, dijo que la cámara de compensación trabaja con blockchains Layer 1 para llevar millones de acciones corporativas, como dividendos, onchain.",
+        "body": "DTCC, una cámara de compensación clave de Wall Street, está explorando blockchains Layer 1 de alto rendimiento para tokenizar acciones corporativas. Su CEO, Frank La Salla, dijo que la entidad trabaja con varias blockchains Layer 1 para llevar onchain millones de acciones corporativas, como pagos de dividendos. Estas acciones son procesos centrales y recurrentes dentro de la infraestructura del mercado de valores, por lo que el rendimiento a gran escala y la fiabilidad son importantes para aplicar la tokenización en operaciones reales. Aun así, La Salla señaló que todavía quedan desafíos por resolver. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "DTCC mira blockchains Layer 1 de alto desempenho para ações corporativas",
+        "excerpt": "Frank La Salla, CEO da DTCC, disse que a câmara de compensação trabalha com blockchains Layer 1 para levar milhões de ações corporativas, como dividendos, onchain.",
+        "body": "A DTCC, uma importante câmara de compensação de Wall Street, está explorando blockchains Layer 1 de alto desempenho para tokenizar ações corporativas. O CEO Frank La Salla disse que a instituição trabalha com várias blockchains Layer 1 para levar onchain milhões de ações corporativas, como pagamentos de dividendos. Essas ações são processos centrais e recorrentes na infraestrutura do mercado de valores, e desempenho em grande escala e confiabilidade são importantes para que a tokenização seja aplicada em operações reais. Ainda assim, La Salla afirmou que desafios permanecem. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "DTCC sucht leistungsstarke Layer-1-Blockchains für Corporate Actions",
+        "excerpt": "DTCC-CEO Frank La Salla sagte, die Clearingstelle arbeite mit Layer-1-Blockchains daran, Millionen von Corporate Actions wie Dividendenzahlungen onchain zu bringen.",
+        "body": "DTCC, eine zentrale Clearingstelle der Wall Street, prüft leistungsstarke Layer-1-Blockchains für die Tokenisierung von Corporate Actions. CEO Frank La Salla sagte, das Unternehmen arbeite mit mehreren Layer-1-Blockchains zusammen, um Millionen von Corporate Actions, etwa Dividendenzahlungen, onchain abzuwickeln. Corporate Actions sind wiederkehrende Kernprozesse der Wertpapiermarkt-Infrastruktur; damit Tokenisierung im realen Betrieb eingesetzt werden kann, sind hohe Verarbeitungskapazität und Zuverlässigkeit wichtig. La Salla erklärte jedoch auch, dass weiterhin Herausforderungen bestehen. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "DTCC vise des blockchains Layer 1 performantes pour les opérations sur titres",
+        "excerpt": "Frank La Salla, CEO de DTCC, a déclaré que la chambre de compensation travaille avec des blockchains Layer 1 pour porter onchain des millions d’opérations sur titres, dont les dividendes.",
+        "body": "DTCC, chambre de compensation majeure de Wall Street, explore des blockchains Layer 1 à haute performance pour tokeniser les opérations sur titres. Son CEO, Frank La Salla, a indiqué que l’entreprise travaille avec plusieurs blockchains Layer 1 afin de porter onchain des millions d’opérations, comme les paiements de dividendes. Ces opérations sont des processus récurrents au cœur de l’infrastructure des marchés de titres; pour appliquer la tokenisation aux activités réelles, la capacité de traitement à grande échelle et la fiabilité sont essentielles. La Salla a toutefois précisé que des défis restent à résoudre. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "DTCC تبحث عن شبكات Layer 1 عالية الأداء لترميز إجراءات الشركات",
+        "excerpt": "قال فرانك لا سالا، الرئيس التنفيذي لـDTCC، إن غرفة المقاصة تعمل مع شبكات Layer 1 لنقل ملايين إجراءات الشركات، مثل توزيعات الأرباح، إلى البلوكشين.",
+        "body": "تستكشف DTCC، وهي غرفة مقاصة رئيسية في وول ستريت، استخدام شبكات بلوكشين Layer 1 عالية الأداء لترميز إجراءات الشركات. وقال الرئيس التنفيذي فرانك لا سالا إن المؤسسة تعمل مع عدة شبكات Layer 1 لنقل ملايين إجراءات الشركات، مثل مدفوعات توزيعات الأرباح، إلى البلوكشين. وتعد إجراءات الشركات عمليات أساسية ومتكررة في بنية أسواق الأوراق المالية، لذلك فإن القدرة على المعالجة واسعة النطاق والموثوقية مهمتان إذا أريد للتوكنة أن تدخل العمليات الفعلية. ومع ذلك، أوضح لا سالا أن تحديات ما زالت قائمة. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "DTCC कॉरपोरेट एक्शंस के लिए हाई-परफॉर्मेंस Layer 1 चेन तलाश रहा",
+        "excerpt": "DTCC के CEO फ्रैंक ला साला ने कहा कि क्लियरिंग दिग्गज डिविडेंड भुगतान जैसे लाखों कॉरपोरेट एक्शंस को ऑनचेन लाने के लिए Layer 1 ब्लॉकचेन के साथ काम कर रहा है।",
+        "body": "वॉल स्ट्रीट की प्रमुख क्लियरिंग संस्था DTCC कॉरपोरेट एक्शंस को टोकनाइज़ करने के लिए हाई-परफॉर्मेंस Layer 1 ब्लॉकचेन का उपयोग तलाश रही है। CEO फ्रैंक ला साला ने कहा कि संस्था डिविडेंड भुगतान जैसे लाखों कॉरपोरेट एक्शंस को ऑनचेन लाने के लिए कई Layer 1 ब्लॉकचेन के साथ काम कर रही है। कॉरपोरेट एक्शंस सिक्योरिटीज मार्केट इन्फ्रास्ट्रक्चर में बार-बार संसाधित होने वाली मुख्य प्रक्रियाएं हैं, इसलिए वास्तविक संचालन में टोकनाइजेशन लागू करने के लिए बड़े पैमाने की प्रोसेसिंग क्षमता और विश्वसनीयता महत्वपूर्ण हैं। ला साला ने यह भी कहा कि चुनौतियां अभी बाकी हैं। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "DTCC Incar Layer 1 Berperforma Tinggi untuk Tokenisasi Aksi Korporasi",
+        "excerpt": "CEO DTCC Frank La Salla mengatakan raksasa kliring itu bekerja dengan blockchain Layer 1 untuk membawa jutaan aksi korporasi, termasuk pembayaran dividen, ke onchain.",
+        "body": "DTCC, lembaga kliring utama Wall Street, sedang menjajaki blockchain Layer 1 berperforma tinggi untuk menokenisasi aksi korporasi. CEO Frank La Salla mengatakan raksasa kliring itu bekerja dengan beberapa blockchain Layer 1 untuk membawa jutaan aksi korporasi, seperti pembayaran dividen, ke onchain. Aksi korporasi merupakan proses inti yang berulang dalam infrastruktur pasar sekuritas, sehingga kinerja skala besar dan keandalan penting jika tokenisasi ingin diterapkan dalam operasi nyata. Namun, La Salla juga menyebut masih ada tantangan yang perlu diselesaikan. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "3b61f7d8bcf5",
+    "slug": "nasdaqs-president-says-the-secs-new-crypto-stance-is-letting-662573",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T22:35:25.433Z",
+    "updatedAt": "2026-05-06T22:35:25.433Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/policy/2026/05/06/nasdaq-s-president-says-the-sec-s-new-crypto-stance-is-letting-markets-build-again",
+    "canonicalUrl": "https://www.coindesk.com/policy/2026/05/06/nasdaq-s-president-says-the-sec-s-new-crypto-stance-is-letting-markets-build-again",
+    "titleFingerprint": "ba2ac8fbc3720500a43be306bc6826c98e351ccf",
+    "dedupKeys": [
+      "3b61f7d8bcf515c9b10c1bb8dbfaf8fe6aaf20eb",
+      "ba2ac8fbc3720500a43be306bc6826c98e351ccf",
+      "02c998247ba07e392a846f5685d0bf12fa8d91f0"
+    ],
+    "imageUrl": "/images/articles/3b61f7d8bcf5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SEC 친화적 암호화폐 기조에 나스닥 사장 “시장, 다시 구축 중”",
+        "excerpt": "나스닥 사장 탈 코언은 최근 SEC의 더 우호적인 암호화폐 기조가 기업과 거래소에 토큰화와 디지털 시장 인프라를 실험할 여지를 주고 있다고 밝혔다.",
+        "body": "나스닥 사장 탈 코언은 최근 미국 증권거래위원회(SEC)의 암호화폐에 대한 더 우호적인 태도가 시장이 다시 ‘구축’할 수 있는 환경을 만들고 있다고 말했다. 코언에 따르면 이 변화는 암호화폐 기업과 거래소가 토큰화 및 디지털 시장 인프라를 시험할 공간을 넓히고 있다. 배경에는 규제 당국의 기조 변화가 시장 참여자의 실험 가능성을 좌우한다는 점이 있다. 구체적 수치나 개별 프로젝트명은 제시되지 않았지만, 발언의 초점은 제도권 거래소와 디지털 자산 기업이 새 시장 구조를 탐색할 여지가 커졌다는 데 있다. 향후 영향은 토큰화와 시장 인프라 실험의 확대 여부에 달려 있다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "SEC Crypto Shift Lets Nasdaq See Markets ‘Build’ Again, President Says",
+        "excerpt": "Nasdaq President Tal Cohen said the SEC’s friendlier crypto stance is giving firms and exchanges room to experiment with tokenization and digital market infrastructure.",
+        "body": "Nasdaq President Tal Cohen said the U.S. Securities and Exchange Commission’s friendlier approach to crypto is creating room for markets to “build” again. According to Cohen, the shift gives crypto companies and exchanges more space to experiment with tokenization and digital market infrastructure. The context is that regulatory posture can shape how much market participants are able to test new structures. No specific figures or individual project names were provided, but the focus of the remarks was that established exchanges and digital asset firms may now have more room to explore new market systems. The outlook depends on whether tokenization and market infrastructure experiments expand from here. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "SECの暗号資産姿勢転換でナスダック社長「市場は再び構築へ」",
+        "excerpt": "ナスダック社長タル・コーエン氏は、SECのより友好的な暗号資産姿勢が企業や取引所にトークン化とデジタル市場インフラを試す余地を与えていると述べた。",
+        "body": "ナスダック社長のタル・コーエン氏は、米証券取引委員会（SEC）の暗号資産に対するより友好的な姿勢が、市場が再び「構築」できる環境を生んでいると述べた。コーエン氏によると、この変化は暗号資産企業や取引所がトークン化とデジタル市場インフラを実験する余地を広げている。背景には、規制当局の姿勢が市場参加者の実験可能性を左右するという点がある。具体的な数値や個別プロジェクト名は示されていないが、発言の焦点は、既存の取引所とデジタル資産企業が新たな市場構造を探る余地が大きくなったことにある。今後の影響は、トークン化と市場インフラの実験が拡大するかにかかっている。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "SEC加密立场转向友好，纳斯达克总裁称市场正重新建设",
+        "excerpt": "纳斯达克总裁Tal Cohen表示，SEC对加密货币更友好的立场，正为企业和交易所试验代币化与数字市场基础设施提供空间。",
+        "body": "纳斯达克总裁Tal Cohen表示，美国证券交易委员会（SEC）对加密货币采取更友好的态度，正在为市场重新“建设”创造环境。按照Cohen的说法，这一变化让加密企业和交易所有更多空间试验代币化和数字市场基础设施。其背景在于，监管机构的立场会影响市场参与者测试新结构的可能性。报道未提供具体数据或单个项目名称，但这番表态的重点是，传统交易所和数字资产企业探索新市场结构的余地正在扩大。后续影响将取决于代币化和市场基础设施试验是否继续扩大。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Giro cripto de la SEC permite a Nasdaq ver mercados que vuelven a ‘construir’",
+        "excerpt": "Tal Cohen, presidente de Nasdaq, dijo que una SEC más favorable al cripto da a empresas y bolsas margen para experimentar con tokenización e infraestructura digital de mercado.",
+        "body": "Tal Cohen, presidente de Nasdaq, dijo que el enfoque más favorable de la Comisión de Bolsa y Valores de EE. UU. (SEC) hacia las criptomonedas está creando espacio para que los mercados vuelvan a “construir”. Según Cohen, el cambio da a las empresas cripto y a las bolsas más margen para experimentar con tokenización e infraestructura digital de mercado. El contexto es que la postura regulatoria puede condicionar cuánto pueden probar los participantes nuevas estructuras. No se ofrecieron cifras concretas ni nombres de proyectos, pero el foco de sus comentarios fue que las bolsas establecidas y las firmas de activos digitales tienen más espacio para explorar nuevos sistemas de mercado. El impacto dependerá de si estos experimentos se amplían. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Virada cripto da SEC faz Nasdaq ver mercados voltando a ‘construir’",
+        "excerpt": "Tal Cohen, presidente da Nasdaq, disse que uma SEC mais favorável às criptomoedas dá a empresas e bolsas espaço para testar tokenização e infraestrutura digital de mercado.",
+        "body": "Tal Cohen, presidente da Nasdaq, disse que a postura mais favorável da Comissão de Valores Mobiliários dos EUA (SEC) em relação às criptomoedas está criando espaço para os mercados voltarem a “construir”. Segundo Cohen, a mudança dá a empresas cripto e bolsas mais margem para experimentar tokenização e infraestrutura digital de mercado. O contexto é que a posição regulatória pode determinar quanto os participantes conseguem testar novas estruturas. Não foram apresentados números específicos nem nomes de projetos, mas o foco das declarações foi que bolsas tradicionais e empresas de ativos digitais têm mais espaço para explorar novos sistemas de mercado. O impacto dependerá da expansão desses testes. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "SEC-Kryptokurs lässt Nasdaq-Präsident Märkte wieder ‘bauen’ sehen",
+        "excerpt": "Nasdaq-Präsident Tal Cohen sagte, die freundlichere Krypto-Haltung der SEC gebe Firmen und Börsen Raum, Tokenisierung und digitale Marktinfrastruktur zu erproben.",
+        "body": "Nasdaq-Präsident Tal Cohen sagte, die freundlichere Haltung der US-Börsenaufsicht SEC gegenüber Kryptowerten schaffe Raum dafür, dass Märkte wieder “bauen” können. Cohen zufolge gibt dieser Wandel Kryptounternehmen und Börsen mehr Spielraum, Tokenisierung und digitale Marktinfrastruktur zu erproben. Der Hintergrund ist, dass die regulatorische Haltung beeinflusst, wie weit Marktteilnehmer neue Strukturen testen können. Konkrete Zahlen oder einzelne Projektnamen wurden nicht genannt. Im Mittelpunkt der Aussage stand jedoch, dass etablierte Börsen und Digital-Asset-Unternehmen mehr Möglichkeiten haben, neue Marktstrukturen zu erkunden. Die weitere Wirkung hängt davon ab, ob sich Experimente mit Tokenisierung und Marktinfrastruktur ausweiten. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Le virage crypto de la SEC laisse Nasdaq voir les marchés ‘bâtir’ à nouveau",
+        "excerpt": "Tal Cohen, président de Nasdaq, a déclaré que l’attitude plus favorable de la SEC envers les cryptos donne aux entreprises et aux bourses de la place pour tester tokenisation et infrastructure numérique.",
+        "body": "Tal Cohen, président de Nasdaq, a déclaré que l’approche plus favorable de la Securities and Exchange Commission (SEC) américaine envers les cryptoactifs crée un espace permettant aux marchés de “bâtir” à nouveau. Selon Cohen, ce changement donne aux entreprises crypto et aux bourses davantage de marge pour expérimenter la tokenisation et l’infrastructure numérique de marché. Le contexte est que la posture réglementaire peut déterminer la capacité des acteurs à tester de nouvelles structures. Aucun chiffre précis ni nom de projet n’a été fourni, mais les propos soulignent que les bourses établies et les sociétés d’actifs numériques disposent de plus d’espace pour explorer de nouveaux systèmes de marché. L’impact dépendra de l’ampleur de ces essais. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "تحول SEC الودي تجاه الكريبتو يدفع ناسداك لرؤية الأسواق تبني من جديد",
+        "excerpt": "قال تال كوهين، رئيس ناسداك، إن موقف SEC الأكثر ودية تجاه العملات المشفرة يمنح الشركات والبورصات مساحة لتجربة الترميز وبنية الأسواق الرقمية.",
+        "body": "قال تال كوهين، رئيس ناسداك، إن النهج الأكثر ودية من هيئة الأوراق المالية والبورصات الأمريكية SEC تجاه العملات المشفرة يخلق بيئة تتيح للأسواق أن “تبني” من جديد. وبحسب كوهين، فإن هذا التحول يمنح شركات الكريبتو والبورصات مساحة أوسع لتجربة الترميز وبنية الأسواق الرقمية. وتكمن الخلفية في أن موقف الجهات التنظيمية يؤثر في قدرة المشاركين في السوق على اختبار هياكل جديدة. لم تُعرض أرقام محددة أو أسماء مشاريع بعينها، لكن محور التصريحات كان أن البورصات القائمة وشركات الأصول الرقمية بات لديها مجال أكبر لاستكشاف أنظمة سوق جديدة. وسيتوقف الأثر المقبل على مدى توسع تجارب الترميز وبنية السوق. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "SEC के नरम क्रिप्टो रुख से Nasdaq को बाजार फिर ‘बनते’ दिखे",
+        "excerpt": "Nasdaq के अध्यक्ष Tal Cohen ने कहा कि SEC का अधिक अनुकूल क्रिप्टो रुख कंपनियों और एक्सचेंजों को टोकनाइजेशन व डिजिटल बाजार ढांचे पर प्रयोग की जगह दे रहा है।",
+        "body": "Nasdaq के अध्यक्ष Tal Cohen ने कहा कि अमेरिकी Securities and Exchange Commission (SEC) का क्रिप्टो के प्रति अधिक अनुकूल रुख बाजारों को फिर से “बनाने” की जगह दे रहा है। Cohen के अनुसार, यह बदलाव क्रिप्टो कंपनियों और एक्सचेंजों को टोकनाइजेशन और डिजिटल मार्केट इन्फ्रास्ट्रक्चर पर प्रयोग करने की अधिक गुंजाइश देता है। इसका संदर्भ यह है कि नियामकीय रुख तय कर सकता है कि बाजार प्रतिभागी नई संरचनाओं को कितना परख सकते हैं। कोई विशिष्ट आंकड़ा या अलग परियोजना नाम नहीं दिया गया, लेकिन बयान का केंद्र यह था कि स्थापित एक्सचेंज और डिजिटल एसेट कंपनियां नए बाजार सिस्टम तलाशने के लिए अधिक जगह पा रही हैं। आगे का प्रभाव इन प्रयोगों के विस्तार पर निर्भर करेगा। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Sikap Kripto SEC Lebih Ramah, Presiden Nasdaq: Pasar Bisa ‘Membangun’ Lagi",
+        "excerpt": "Presiden Nasdaq Tal Cohen mengatakan sikap SEC yang lebih ramah terhadap kripto memberi perusahaan dan bursa ruang untuk menguji tokenisasi serta infrastruktur pasar digital.",
+        "body": "Presiden Nasdaq Tal Cohen mengatakan pendekatan Komisi Sekuritas dan Bursa AS (SEC) yang lebih ramah terhadap kripto menciptakan ruang bagi pasar untuk “membangun” lagi. Menurut Cohen, perubahan ini memberi perusahaan kripto dan bursa lebih banyak ruang untuk bereksperimen dengan tokenisasi dan infrastruktur pasar digital. Latar belakangnya, sikap regulator dapat memengaruhi sejauh mana pelaku pasar bisa menguji struktur baru. Tidak ada angka khusus atau nama proyek individual yang disampaikan, tetapi fokus pernyataan tersebut adalah bahwa bursa mapan dan perusahaan aset digital kini memiliki ruang lebih besar untuk mengeksplorasi sistem pasar baru. Dampaknya akan bergantung pada apakah eksperimen tokenisasi dan infrastruktur pasar terus meluas. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "3ebbc6c9d13c",
+    "slug": "grant-cardone-says-bitcoin-real-estate-strategy-could-outper-869429",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T22:34:27.495Z",
+    "updatedAt": "2026-05-06T22:34:27.495Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury",
+    "titleFingerprint": "76034f9a01d072ac6af96b4d0a9abd79f622db00",
+    "dedupKeys": [
+      "3ebbc6c9d13c75c5e1c78444e2a5c0449d8f4f25",
+      "76034f9a01d072ac6af96b4d0a9abd79f622db00",
+      "31ffc3df1f444451aa7edb087e5c3ade589a669c"
+    ],
+    "imageUrl": "/images/articles/3ebbc6c9d13c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인·부동산 전략, 리츠 앞설까…그랜트 카돈 BTC 추가",
+        "excerpt": "부동산 투자자 그랜트 카돈은 비트코인과 부동산을 결합한 전략이 리츠보다 나은 성과를 낼 수 있다며, 자사 트레저리에 BTC를 추가했다고 밝혔다.",
+        "body": "부동산 거물 그랜트 카돈은 비트코인과 부동산을 결합한 하이브리드 전략이 전통 리츠(REITs)보다 더 나은 성과를 낼 수 있다고 밝혔다. 그는 이 모델이 부동산 투자 구조에 암호화폐를 접목해 새로운 이용자를 크립토 시장으로 끌어들이고, 기존 부동산 투자 방식에도 도전한다고 설명했다. 카돈은 또한 자사 트레저리에 비트코인을 추가했다고 밝혔다. 이번 발언은 부동산 자산과 디지털 자산을 함께 활용하려는 전략이 기존 리츠 중심 구조와 비교될 수 있음을 보여준다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Bitcoin Real Estate Strategy Could Beat REITs, Says Grant Cardone",
+        "excerpt": "Real estate investor Grant Cardone said a bitcoin-real estate strategy could outperform REITs and confirmed he added more BTC to his company treasury.",
+        "body": "Real estate mogul Grant Cardone said a hybrid strategy combining bitcoin and real estate could outperform traditional REITs. He described the model as a way to connect crypto with real estate investing, bring new users into the crypto market, and challenge existing real estate investment structures. Cardone also said he added more bitcoin to his company treasury. The comments highlight how strategies linking property assets with digital assets are being positioned against the traditional REIT model. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "ビットコイン不動産戦略、REIT超えも　グラント・カードン氏",
+        "excerpt": "不動産投資家グラント・カードン氏は、ビットコインと不動産を組み合わせた戦略がREITを上回る可能性があると述べ、BTC追加も明かした。",
+        "body": "不動産業界の有力投資家グラント・カードン氏は、ビットコインと不動産を組み合わせたハイブリッド戦略が、従来のREITを上回る成果を出す可能性があると述べた。同氏は、このモデルが不動産投資の仕組みに暗号資産を取り込み、新たな利用者をクリプト市場へ呼び込み、既存の不動産投資構造にも挑戦すると説明した。カードン氏はまた、自社のトレジャリーにビットコインを追加したことも明らかにした。不動産資産とデジタル資産を組み合わせる戦略が、REIT中心の従来モデルと比較されている。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "比特币房地产策略或跑赢REITs，Grant Cardone再增持BTC",
+        "excerpt": "房地产投资人Grant Cardone表示，比特币与房地产结合的策略可能优于REITs，并称已向公司财库追加比特币。",
+        "body": "房地产大亨Grant Cardone表示，将比特币与房地产结合的混合策略，可能比传统REITs取得更好表现。他称，这一模式把加密资产引入房地产投资结构，能够为加密市场带来新用户，并对现有房地产投资方式形成挑战。Cardone还表示，他已向公司财库追加比特币。该表态显示，结合房地产资产与数字资产的策略，正被拿来与以REITs为核心的传统结构进行比较。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Bitcoin y bienes raíces podrían superar a los REITs, dice Cardone",
+        "excerpt": "El inversor inmobiliario Grant Cardone dijo que combinar bitcoin y bienes raíces podría superar a los REITs y añadió más BTC a la tesorería de su firma.",
+        "body": "El magnate inmobiliario Grant Cardone dijo que una estrategia híbrida que combina bitcoin y bienes raíces podría rendir más que los REITs tradicionales. Según explicó, el modelo integra cripto en las estructuras de inversión inmobiliaria, atrae nuevos usuarios al mercado cripto y desafía los formatos tradicionales del sector. Cardone también afirmó que añadió más bitcoin a la tesorería de su compañía. Sus comentarios muestran cómo las estrategias que unen activos inmobiliarios y digitales se comparan con el modelo centrado en REITs. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Bitcoin e imóveis podem superar REITs, afirma Grant Cardone",
+        "excerpt": "O investidor imobiliário Grant Cardone disse que uma estratégia com bitcoin e imóveis pode superar REITs e confirmou mais BTC na tesouraria da empresa.",
+        "body": "O magnata do setor imobiliário Grant Cardone afirmou que uma estratégia híbrida que combina bitcoin e imóveis pode ter desempenho melhor que REITs tradicionais. Ele disse que o modelo leva cripto para estruturas de investimento imobiliário, atrai novos usuários para o mercado cripto e desafia formatos tradicionais do setor. Cardone também afirmou que adicionou mais bitcoin à tesouraria de sua empresa. A fala mostra como estratégias que unem ativos imobiliários e digitais passam a ser comparadas ao modelo baseado em REITs. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Bitcoin-Immobilien-Strategie könnte REITs schlagen, sagt Cardone",
+        "excerpt": "Immobilieninvestor Grant Cardone sagte, eine Strategie aus Bitcoin und Immobilien könne REITs übertreffen, und fügte seiner Firmenkasse mehr BTC hinzu.",
+        "body": "Der Immobilienunternehmer Grant Cardone sagte, eine hybride Strategie aus Bitcoin und Immobilien könne traditionelle REITs übertreffen. Er erklärte, das Modell verbinde Krypto mit Immobilieninvestitionen, bringe neue Nutzer in den Kryptomarkt und stelle bestehende Immobilienstrukturen infrage. Cardone sagte außerdem, er habe der Treasury seines Unternehmens weitere Bitcoin hinzugefügt. Die Aussagen zeigen, wie Strategien, die Immobilienwerte und digitale Vermögenswerte verbinden, dem klassischen REIT-Modell gegenübergestellt werden. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Bitcoin et immobilier pourraient battre les REITs, selon Cardone",
+        "excerpt": "L’investisseur immobilier Grant Cardone estime qu’une stratégie mêlant bitcoin et immobilier pourrait dépasser les REITs, avec plus de BTC en trésorerie.",
+        "body": "Le magnat de l’immobilier Grant Cardone a déclaré qu’une stratégie hybride combinant bitcoin et immobilier pourrait faire mieux que les REITs traditionnels. Selon lui, ce modèle intègre la crypto aux structures d’investissement immobilier, attire de nouveaux utilisateurs vers le marché crypto et remet en cause les formats classiques du secteur. Cardone a aussi indiqué avoir ajouté davantage de bitcoin à la trésorerie de son entreprise. Ces propos montrent que les stratégies mêlant actifs immobiliers et numériques sont comparées au modèle des REITs. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "استراتيجية بيتكوين والعقارات قد تتفوق على REITs بحسب كاردون",
+        "excerpt": "قال المستثمر العقاري غرانت كاردون إن الجمع بين بيتكوين والعقارات قد يتفوق على REITs، مؤكدا إضافة مزيد من BTC إلى خزينة شركته.",
+        "body": "قال قطب العقارات غرانت كاردون إن استراتيجية هجينة تجمع بين بيتكوين والعقارات قد تحقق أداء أفضل من صناديق الاستثمار العقاري التقليدية REITs. وأوضح أن هذا النموذج يربط الاستثمار العقاري بالأصول المشفرة، ويجذب مستخدمين جددا إلى سوق الكريبتو، كما يتحدى الهياكل التقليدية للاستثمار العقاري. وقال كاردون أيضا إنه أضاف مزيدا من بيتكوين إلى خزينة شركته. وتبرز تصريحاته كيف يجري وضع الاستراتيجيات التي تجمع الأصول العقارية والرقمية في مقارنة مع نموذج REITs التقليدي. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "Bitcoin-Real Estate रणनीति REITs से आगे निकल सकती है: Cardone",
+        "excerpt": "रियल एस्टेट निवेशक Grant Cardone ने कहा कि bitcoin और रियल एस्टेट का मॉडल REITs से बेहतर प्रदर्शन कर सकता है और कंपनी ट्रेजरी में BTC जोड़ा गया है।",
+        "body": "रियल एस्टेट दिग्गज Grant Cardone ने कहा कि bitcoin और रियल एस्टेट को जोड़ने वाली हाइब्रिड रणनीति पारंपरिक REITs से बेहतर प्रदर्शन कर सकती है। उनके अनुसार, यह मॉडल रियल एस्टेट निवेश संरचना में क्रिप्टो को जोड़ता है, नए उपयोगकर्ताओं को क्रिप्टो बाजार में लाता है और मौजूदा रियल एस्टेट ढांचों को चुनौती देता है। Cardone ने यह भी कहा कि उन्होंने अपनी कंपनी की ट्रेजरी में और bitcoin जोड़ा है। यह बयान दिखाता है कि संपत्ति और डिजिटल एसेट को साथ रखने वाली रणनीतियों की तुलना अब REITs मॉडल से की जा रही है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Strategi Bitcoin-Real Estat Bisa Kalahkan REITs, Kata Cardone",
+        "excerpt": "Investor real estat Grant Cardone mengatakan strategi bitcoin dan properti bisa mengungguli REITs, sambil menambah lebih banyak BTC ke treasury perusahaannya.",
+        "body": "Tokoh real estat Grant Cardone mengatakan strategi hibrida yang menggabungkan bitcoin dan real estat dapat berkinerja lebih baik daripada REITs tradisional. Ia menjelaskan bahwa model ini memasukkan kripto ke struktur investasi properti, membawa pengguna baru ke pasar kripto, dan menantang pola investasi real estat yang sudah ada. Cardone juga mengatakan telah menambahkan lebih banyak bitcoin ke treasury perusahaannya. Pernyataan ini menunjukkan bahwa strategi yang menggabungkan aset properti dan aset digital mulai dibandingkan dengan model REITs. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
     "id": "bff8dc8b2f03",
     "slug": "bitcoin-short-term-holder-cost-basis-eyes-92k-as-next-price--968536",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Hyperscale Data Rencanakan Beli Emas, Pegang 681 Bitcoin",
         "excerpt": "Hyperscale Data berencana membeli emas dan dilaporkan memegang 681 bitcoin, menyoroti strategi aset perusahaan yang mencakup aset digital dan emas.",
         "body": "Hyperscale Data berencana membeli emas, menurut laporan Investing.com Korea. Laporan tersebut juga menyebutkan bahwa perusahaan saat ini memegang 681 bitcoin. Informasi ini menempatkan bitcoin dan emas dalam sorotan sebagai bagian dari strategi kepemilikan aset perusahaan. Namun, laporan asli tidak memberikan rincian tambahan mengenai jumlah pembelian emas yang direncanakan, jadwal, atau metode pelaksanaannya. Ke depan, investor dapat mencermati bagaimana perusahaan memperjelas rencana pembelian emas tersebut dan apakah strategi kepemilikan bitcoin yang ada akan berubah. Sumber: Investing.com Korea."
-      }
-    }
-  },
-  {
-    "id": "e75bc65e4584",
-    "slug": "비트코인-석-달만에-1억2000만원-넘어---한국경제-567434",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T09:46:01.526Z",
-    "updatedAt": "2026-05-06T09:46:01.526Z",
-    "sourceName": "한국경제",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUlF1Z3pQcFByNUdDS2hvQmV2WWJwc2JmbnRLcm5YUDVDcjgyamZIRHRKUm8xdDM3M3BSMTlHOVgySk9xSkJQTEdlcXdUVE1LbWQtUDd3Z3VCQdIBVEFVX3lxTE11b3U4eDdiUnlPeFhaYzB3aWoxZ05FRVY3UVR6Q280UkdsOGllUXF3YWJkN2pDQnFiQWRKLVYxWnZtcVVUMlNsd1A0RFg3R0dOc1FQag?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUlF1Z3pQcFByNUdDS2hvQmV2WWJwc2JmbnRLcm5YUDVDcjgyamZIRHRKUm8xdDM3M3BSMTlHOVgySk9xSkJQTEdlcXdUVE1LbWQtUDd3Z3VCQdIBVEFVX3lxTE11b3U4eDdiUnlPeFhaYzB3aWoxZ05FRVY3UVR6Q280UkdsOGllUXF3YWJkN2pDQnFiQWRKLVYxWnZtcVVUMlNsd1A0RFg3R0dOc1FQag?oc=5",
-    "titleFingerprint": "bcb6142fb569bef9303c44b826e75913ad8a25b5",
-    "dedupKeys": [
-      "e75bc65e4584c979957d6de98ba9bcceadff193e",
-      "bcb6142fb569bef9303c44b826e75913ad8a25b5",
-      "8c00bccf4570e5aa06f1baf2146aa673c1c5ee2a"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 3개월 만에 1억2000만원 돌파, 국내 시세 다시 주목",
-        "excerpt": "한국경제에 따르면 비트코인이 석 달 만에 1억2000만원을 넘어서며 국내 가상자산 시장에서 가격 흐름에 대한 관심이 다시 커지고 있다.",
-        "body": "비트코인이 국내 시장에서 석 달 만에 1억2000만원을 넘어섰다. 한국경제는 비트코인 가격이 3개월 만에 1억2000만원 선을 돌파했다고 전했다. 이번 보도에서 확인된 핵심 수치는 ‘1억2000만원’과 ‘석 달 만’이라는 시점이다. 비트코인은 대표 가상자산으로 국내 투자자들이 가격 흐름을 주시하는 자산인 만큼, 해당 가격대 회복 여부가 시장의 관심을 모으고 있다. 다만 원문은 구체적인 상승 배경이나 추가 전망을 제시하지 않았다. 출처: 한국경제."
-      },
-      "en": {
-        "title": "Bitcoin Tops 120 Million Won After Three Months, Drawing Fresh Market Attention",
-        "excerpt": "According to The Korea Economic Daily, Bitcoin has climbed above 120 million won for the first time in three months, drawing renewed attention in Korea’s crypto market.",
-        "body": "Bitcoin has risen above 120 million won in the Korean market for the first time in three months. The Korea Economic Daily reported that the Bitcoin price crossed the 120 million won level after a three-month gap. The key confirmed details are the price level of 120 million won and the timing of three months. As Bitcoin is the leading crypto asset watched by domestic investors, its return to this price range is attracting market attention. The original report did not provide specific reasons for the rise or additional forecasts. Source: The Korea Economic Daily."
-      },
-      "ja": {
-        "title": "ビットコイン、3カ月ぶりに1億2000万ウォン突破し市場の関心再燃",
-        "excerpt": "韓国経済新聞によると、ビットコインは3カ月ぶりに1億2000万ウォンを上回り、韓国の暗号資産市場で価格動向への関心が再び高まっている。",
-        "body": "ビットコインが韓国市場で3カ月ぶりに1億2000万ウォンを超えた。韓国経済新聞は、ビットコイン価格が3カ月ぶりに1億2000万ウォン台を突破したと報じた。今回確認された主な数値は「1億2000万ウォン」と「3カ月ぶり」という時点である。ビットコインは代表的な暗号資産であり、韓国の投資家が価格推移を注視する資産であるため、この水準の回復が市場の関心を集めている。ただし原文は、具体的な上昇要因や追加の見通しを示していない。出典: 韓国経済新聞。"
-      },
-      "zh": {
-        "title": "比特币三个月来首次突破1.2亿韩元，韩国市场重新关注价格走势",
-        "excerpt": "据《韩国经济新闻》报道，比特币三个月来首次升破1.2亿韩元，韩国加密资产市场对其价格走势的关注再次升温。",
-        "body": "比特币在韩国市场三个月来首次突破1.2亿韩元。《韩国经济新闻》报道称，比特币价格在时隔三个月后越过1.2亿韩元关口。本次报道确认的核心信息是“1.2亿韩元”这一价格水平，以及“三个月来首次”这一时间点。作为代表性加密资产，比特币一直是韩国投资者关注价格走势的重要资产，因此重回这一价位受到市场关注。不过，原文并未说明具体上涨背景，也未提出进一步展望。来源: 《韩国经济新闻》。"
-      },
-      "es": {
-        "title": "Bitcoin supera los 120 millones de wones tras tres meses y vuelve al foco",
-        "excerpt": "Según The Korea Economic Daily, Bitcoin superó los 120 millones de wones por primera vez en tres meses, reactivando la atención del mercado cripto coreano.",
-        "body": "Bitcoin superó los 120 millones de wones en el mercado coreano por primera vez en tres meses. The Korea Economic Daily informó que el precio de Bitcoin cruzó ese nivel tras una pausa de tres meses. Los datos clave confirmados son el umbral de 120 millones de wones y el momento: por primera vez en tres meses. Como Bitcoin es el principal criptoactivo seguido por los inversores locales, la recuperación de ese rango de precio está atrayendo atención en el mercado. El reporte original no ofreció causas específicas del alza ni previsiones adicionales. Fuente: The Korea Economic Daily."
-      },
-      "pt": {
-        "title": "Bitcoin supera 120 milhões de wons após três meses e volta ao radar do mercado",
-        "excerpt": "Segundo o The Korea Economic Daily, o Bitcoin ultrapassou 120 milhões de wons pela primeira vez em três meses, reacendendo a atenção no mercado cripto coreano.",
-        "body": "O Bitcoin superou 120 milhões de wons no mercado coreano pela primeira vez em três meses. O The Korea Economic Daily informou que o preço do Bitcoin cruzou esse patamar após um intervalo de três meses. Os principais dados confirmados são o nível de 120 milhões de wons e o momento de três meses. Como o Bitcoin é o principal criptoativo acompanhado por investidores locais, a retomada dessa faixa de preço está atraindo atenção do mercado. A reportagem original não apresentou motivos específicos para a alta nem projeções adicionais. Fonte: The Korea Economic Daily."
-      },
-      "de": {
-        "title": "Bitcoin steigt nach drei Monaten über 120 Millionen Won und rückt in den Fokus",
-        "excerpt": "Laut The Korea Economic Daily hat Bitcoin erstmals seit drei Monaten wieder die Marke von 120 Millionen Won überschritten und zieht in Korea neue Aufmerksamkeit auf sich.",
-        "body": "Bitcoin ist am koreanischen Markt erstmals seit drei Monaten wieder über 120 Millionen Won gestiegen. The Korea Economic Daily berichtete, dass der Bitcoin-Preis nach drei Monaten die Marke von 120 Millionen Won überschritten hat. Die zentral bestätigten Angaben sind das Preisniveau von 120 Millionen Won und der Zeitraum von drei Monaten. Da Bitcoin als führende Kryptowährung von inländischen Anlegern aufmerksam verfolgt wird, lenkt die Rückkehr in diese Preisspanne erneut den Blick des Marktes auf sich. Der Originalbericht nannte keine konkreten Gründe für den Anstieg und gab keine weiteren Prognosen ab. Quelle: The Korea Economic Daily."
-      },
-      "fr": {
-        "title": "Le bitcoin dépasse 120 millions de wons après trois mois et ravive l’attention",
-        "excerpt": "Selon The Korea Economic Daily, le bitcoin a franchi 120 millions de wons pour la première fois en trois mois, relançant l’attention du marché crypto coréen.",
-        "body": "Le bitcoin a dépassé 120 millions de wons sur le marché coréen pour la première fois en trois mois. The Korea Economic Daily a rapporté que le prix du bitcoin avait franchi ce seuil après trois mois. Les éléments confirmés sont le niveau de 120 millions de wons et le délai de trois mois. En tant que principal cryptoactif suivi par les investisseurs nationaux, le retour du bitcoin dans cette zone de prix attire l’attention du marché. Le rapport original ne fournit pas de raisons précises à cette hausse ni de perspectives supplémentaires. Source: The Korea Economic Daily."
-      },
-      "ar": {
-        "title": "بيتكوين يتجاوز 120 مليون وون بعد ثلاثة أشهر ويعيد جذب اهتمام السوق",
-        "excerpt": "بحسب صحيفة كوريا الاقتصادية اليومية، تجاوز بيتكوين مستوى 120 مليون وون لأول مرة منذ ثلاثة أشهر، ما أعاد الاهتمام بحركة الأسعار في سوق العملات المشفرة الكوري.",
-        "body": "تجاوز بيتكوين في السوق الكورية مستوى 120 مليون وون لأول مرة منذ ثلاثة أشهر. وذكرت صحيفة كوريا الاقتصادية اليومية أن سعر بيتكوين اخترق هذا المستوى بعد مرور ثلاثة أشهر. وتتمثل المعلومات المؤكدة في مستوى 120 مليون وون والتوقيت المرتبط بمرور ثلاثة أشهر. وباعتباره أبرز أصل مشفر يتابعه المستثمرون المحليون، فإن عودة بيتكوين إلى هذا النطاق السعري تجذب اهتمام السوق. ولم يذكر التقرير الأصلي أسبابا محددة للارتفاع أو توقعات إضافية. المصدر: صحيفة كوريا الاقتصادية اليومية."
-      },
-      "hi": {
-        "title": "बिटकॉइन तीन महीने बाद 12 करोड़ वॉन के पार, कोरियाई बाजार का ध्यान लौटा",
-        "excerpt": "द कोरिया इकोनॉमिक डेली के अनुसार, बिटकॉइन तीन महीने में पहली बार 12 करोड़ वॉन से ऊपर गया, जिससे कोरिया के क्रिप्टो बाजार में कीमतों पर ध्यान बढ़ा है।",
-        "body": "बिटकॉइन कोरियाई बाजार में तीन महीने में पहली बार 12 करोड़ वॉन से ऊपर चला गया। द कोरिया इकोनॉमिक डेली ने बताया कि बिटकॉइन की कीमत तीन महीने बाद 12 करोड़ वॉन के स्तर को पार कर गई। इस रिपोर्ट में पुष्टि की गई मुख्य बातें 12 करोड़ वॉन का स्तर और तीन महीने का अंतराल हैं। बिटकॉइन प्रमुख क्रिप्टो परिसंपत्ति है और घरेलू निवेशक इसकी कीमतों पर नजर रखते हैं, इसलिए इस स्तर पर वापसी बाजार का ध्यान खींच रही है। मूल रिपोर्ट में तेजी के विशिष्ट कारण या अतिरिक्त पूर्वानुमान नहीं दिए गए। स्रोत: द कोरिया इकोनॉमिक डेली."
-      },
-      "id": {
-        "title": "Bitcoin Tembus 120 Juta Won Setelah Tiga Bulan, Pasar Korea Kembali Menyorot",
-        "excerpt": "Menurut The Korea Economic Daily, Bitcoin menembus 120 juta won untuk pertama kalinya dalam tiga bulan, memicu kembali perhatian pada pasar aset kripto Korea.",
-        "body": "Bitcoin di pasar Korea menembus 120 juta won untuk pertama kalinya dalam tiga bulan. The Korea Economic Daily melaporkan bahwa harga Bitcoin melewati level 120 juta won setelah jeda tiga bulan. Informasi utama yang terkonfirmasi adalah level harga 120 juta won dan waktu tiga bulan. Sebagai aset kripto utama yang dipantau investor domestik, kembalinya Bitcoin ke kisaran harga tersebut menarik perhatian pasar. Namun, laporan asli tidak menyebutkan penyebab spesifik kenaikan maupun prospek tambahan. Sumber: The Korea Economic Daily."
-      }
-    }
-  },
-  {
-    "id": "b9b3eb7d40da",
-    "slug": "비트코인-투자로-연-10대-이자를-스트레티지-우선주의-모든-것-엠블록레터---vdaumnet-775637",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T09:45:08.090Z",
-    "updatedAt": "2026-05-06T09:45:08.090Z",
-    "sourceName": "v.daum.net",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHZmdfOHFWZzN2WGktenpINzFJeHU1QWowR29wQXdoZHl3NVRQQkt0cFprVkEyRE1aX0dOTkZyRGVlWHV6U3U5alZnUFRDUUk?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHZmdfOHFWZzN2WGktenpINzFJeHU1QWowR29wQXdoZHl3NVRQQkt0cFprVkEyRE1aX0dOTkZyRGVlWHV6U3U5alZnUFRDUUk?oc=5",
-    "titleFingerprint": "cf3bfe4dcca583238145df9985eca85c99ef0644",
-    "dedupKeys": [
-      "b9b3eb7d40dae09b06a67a892b68fe70eef1037c",
-      "cf3bfe4dcca583238145df9985eca85c99ef0644",
-      "3c660be142de33df2f63cb62f2933f4493105a61"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 투자 연 10%대 이자 가능성, 스트레티지 우선주 핵심 정리",
-        "excerpt": "v.daum.net 엠블록레터는 비트코인 투자와 연 10%대 이자 가능성을 연결해 스트레티지 우선주의 구조와 투자자가 확인할 쟁점을 소개했다.",
-        "body": "v.daum.net의 엠블록레터는 ‘비트코인 투자로 연 10%대 이자를?’이라는 질문을 내걸고 스트레티지 우선주를 다뤘다. 보도는 비트코인에 직접 투자하는 방식과 달리 우선주를 통해 이자 성격의 수익을 기대하는 접근을 소개하며, 연 10%대 이자 가능성을 핵심 키워드로 제시했다. 배경에는 비트코인 투자 수요와 이를 금융상품 형태로 접하려는 투자자의 관심이 있다. 다만 기사 제목이 시사하듯 핵심은 높은 수익률 가능성만이 아니라 스트레티지 우선주의 구조를 이해하는 데 있다. 투자자는 비트코인 가격 변동, 우선주의 성격, 수익 지급 조건 등을 함께 살펴볼 필요가 있다. 출처: v.daum.net."
-      },
-      "en": {
-        "title": "Bitcoin Yield Near 10%? Key Points on Strategy Preferred Shares",
-        "excerpt": "v.daum.net’s Mblock Letter introduced Strategy preferred shares, linking Bitcoin exposure with the possibility of annual interest in the 10% range.",
-        "body": "v.daum.net’s Mblock Letter covered Strategy preferred shares under the question, “Can Bitcoin investing offer annual interest in the 10% range?” The report introduced an approach that differs from direct Bitcoin investment, focusing on preferred shares that may provide returns with an interest-like character. Its core keyword was the possibility of annual interest in the 10% range. The context is investor demand for Bitcoin exposure and interest in accessing it through financial products. As the headline suggests, however, the issue is not only the high potential yield but also understanding the structure of Strategy preferred shares. Investors need to review Bitcoin price volatility, the nature of preferred shares, and payment conditions. Source: v.daum.net."
-      },
-      "ja": {
-        "title": "ビットコイン投資で年10％台の利回りか、ストラテジー優先株の要点",
-        "excerpt": "v.daum.netのエムブロックレターは、ビットコイン投資と年10％台の利息可能性を結び付け、ストラテジー優先株の注目点を紹介した。",
-        "body": "v.daum.netのエムブロックレターは、「ビットコイン投資で年10％台の利息を得られるのか」という問いを掲げ、ストラテジー優先株を取り上げた。報道は、ビットコインに直接投資する方法とは異なり、優先株を通じて利息に近い収益を期待するアプローチを紹介し、年10％台の利息可能性を主要キーワードとして示した。背景には、ビットコイン投資需要と、それを金融商品として接したい投資家の関心がある。ただし見出しが示す通り、焦点は高い利回りの可能性だけでなく、ストラテジー優先株の仕組みを理解することにある。投資家はビットコイン価格の変動、優先株の性格、収益支払い条件を確認する必要がある。出典: v.daum.net."
-      },
-      "zh": {
-        "title": "比特币投资或获年化10%级收益？Strategy优先股要点梳理",
-        "excerpt": "v.daum.net的Mblock Letter介绍了Strategy优先股，将比特币投资与年化10%级利息可能性联系起来，提示投资者关注其结构。",
-        "body": "v.daum.net的Mblock Letter以“比特币投资能否获得年化10%级利息？”为题，报道了Strategy优先股。报道介绍了一种不同于直接买入比特币的方式，即通过优先股期待具有利息性质的收益，并将年化10%级利息可能性作为核心关键词。其背景是市场对比特币投资的需求，以及投资者希望以金融产品形式接触比特币的兴趣。不过，正如标题所提示，重点并不只是较高收益率的可能性，还在于理解Strategy优先股的结构。投资者需要同时关注比特币价格波动、优先股属性以及收益支付条件等因素。来源: v.daum.net."
-      },
-      "es": {
-        "title": "¿Bitcoin con interés anual cercano al 10%? Claves de las preferentes de Strategy",
-        "excerpt": "Mblock Letter de v.daum.net presentó las acciones preferentes de Strategy, vinculando la exposición a Bitcoin con una posible rentabilidad anual de dos dígitos.",
-        "body": "Mblock Letter de v.daum.net abordó las acciones preferentes de Strategy bajo la pregunta: “¿Puede una inversión en Bitcoin ofrecer intereses anuales en el rango del 10%?” El reporte presentó un enfoque distinto a la inversión directa en Bitcoin, centrado en preferentes que podrían generar ingresos con características similares a intereses. La posibilidad de un interés anual en torno al 10% fue el punto clave. El contexto es la demanda de exposición a Bitcoin y el interés de los inversores por acceder a ella mediante productos financieros. Sin embargo, como sugiere el titular, el foco no es solo el potencial de alta rentabilidad, sino entender la estructura de las preferentes de Strategy. Los inversores deben revisar la volatilidad de Bitcoin, la naturaleza de las preferentes y las condiciones de pago. Fuente: v.daum.net."
-      },
-      "pt": {
-        "title": "Bitcoin com juros anuais na faixa de 10%? Entenda as preferenciais da Strategy",
-        "excerpt": "A Mblock Letter do v.daum.net apresentou as ações preferenciais da Strategy, ligando exposição ao Bitcoin à possibilidade de juros anuais na faixa de 10%.",
-        "body": "A Mblock Letter do v.daum.net tratou das ações preferenciais da Strategy com a pergunta: “Investir em Bitcoin pode render juros anuais na faixa de 10%?” A reportagem apresentou uma abordagem diferente da compra direta de Bitcoin, baseada em ações preferenciais que podem oferecer retornos com caráter semelhante a juros. A possibilidade de juros anuais na faixa de 10% foi o ponto central. O contexto é a demanda por exposição ao Bitcoin e o interesse de investidores em acessá-la por meio de produtos financeiros. Porém, como indica o título, o foco não está apenas no potencial de retorno elevado, mas também na compreensão da estrutura das preferenciais da Strategy. Investidores devem observar a volatilidade do Bitcoin, a natureza das preferenciais e as condições de pagamento. Fonte: v.daum.net."
-      },
-      "de": {
-        "title": "Bitcoin-Anlage mit rund 10% Zins? Das steckt hinter Strategy-Vorzugsaktien",
-        "excerpt": "Der Mblock Letter von v.daum.net stellte Strategy-Vorzugsaktien vor und verband Bitcoin-Exposure mit der Möglichkeit jährlicher Zinsen im 10%-Bereich.",
-        "body": "Der Mblock Letter von v.daum.net behandelte Strategy-Vorzugsaktien unter der Frage: „Kann eine Bitcoin-Anlage jährliche Zinsen im 10%-Bereich bringen?“ Der Bericht stellte einen Ansatz vor, der sich von einer direkten Bitcoin-Investition unterscheidet: Über Vorzugsaktien könnten Anleger Erträge mit zinsähnlichem Charakter erwarten. Die mögliche jährliche Verzinsung im 10%-Bereich wurde als zentrales Stichwort genannt. Hintergrund sind die Nachfrage nach Bitcoin-Exposure und das Interesse, dieses über Finanzprodukte zu erhalten. Wie die Überschrift nahelegt, geht es jedoch nicht nur um die Chance auf hohe Renditen, sondern um das Verständnis der Struktur von Strategy-Vorzugsaktien. Anleger sollten Bitcoin-Kursschwankungen, die Eigenschaften von Vorzugsaktien und Zahlungsbedingungen prüfen. Quelle: v.daum.net."
-      },
-      "fr": {
-        "title": "Bitcoin avec un intérêt annuel autour de 10 % ? Les actions préférentielles Strategy",
-        "excerpt": "Mblock Letter de v.daum.net a présenté les actions préférentielles Strategy, reliant l’exposition au Bitcoin à une possible rémunération annuelle proche de 10 %.",
-        "body": "Mblock Letter de v.daum.net a consacré un article aux actions préférentielles Strategy sous la question : « Un investissement en Bitcoin peut-il offrir un intérêt annuel dans la tranche des 10 % ? » Le reportage présente une approche différente de l’achat direct de Bitcoin, via des actions préférentielles susceptibles de générer un revenu proche d’un intérêt. La possibilité d’un intérêt annuel autour de 10 % en est le mot-clé. Le contexte est la demande d’exposition au Bitcoin et l’intérêt des investisseurs pour des produits financiers liés à cet actif. Toutefois, comme le suggère le titre, l’enjeu n’est pas seulement le rendement potentiel élevé, mais aussi la compréhension de la structure des actions préférentielles Strategy. Les investisseurs doivent examiner la volatilité du Bitcoin, la nature des préférentielles et les conditions de paiement. Source : v.daum.net."
-      },
-      "ar": {
-        "title": "استثمار بيتكوين بعائد سنوي قرب 10%؟ أبرز ما ورد عن أسهم Strategy الممتازة",
-        "excerpt": "عرضت Mblock Letter عبر v.daum.net أسهم Strategy الممتازة، رابطـة التعرض لبيتكوين بإمكانية الحصول على فائدة سنوية في نطاق 10%.",
-        "body": "تناولت Mblock Letter على v.daum.net أسهم Strategy الممتازة من خلال سؤال: هل يمكن لاستثمار بيتكوين أن يوفر فائدة سنوية في نطاق 10%؟ وقدم التقرير نهجا يختلف عن الاستثمار المباشر في بيتكوين، إذ يركز على أسهم ممتازة قد تمنح عائدا ذا طبيعة قريبة من الفائدة. وكانت إمكانية الفائدة السنوية في نطاق 10% هي الفكرة الأساسية. يأتي ذلك في سياق طلب المستثمرين على التعرض لبيتكوين ورغبتهم في الوصول إليه عبر منتجات مالية. لكن، كما يوحي العنوان، لا ينحصر التركيز في العائد المرتفع المحتمل، بل يشمل فهم هيكل أسهم Strategy الممتازة. وينبغي للمستثمرين مراجعة تقلب سعر بيتكوين وطبيعة الأسهم الممتازة وشروط دفع العائد. المصدر: v.daum.net."
-      },
-      "hi": {
-        "title": "क्या बिटकॉइन निवेश पर सालाना 10% के आसपास ब्याज? Strategy प्रेफर्ड शेयर समझें",
-        "excerpt": "v.daum.net के Mblock Letter ने Strategy प्रेफर्ड शेयरों को पेश किया, जिनमें बिटकॉइन एक्सपोजर को सालाना 10% के दायरे के ब्याज की संभावना से जोड़ा गया।",
-        "body": "v.daum.net के Mblock Letter ने “क्या बिटकॉइन निवेश से सालाना 10% के दायरे में ब्याज मिल सकता है?” इस सवाल के साथ Strategy प्रेफर्ड शेयरों पर चर्चा की। रिपोर्ट ने बिटकॉइन में सीधे निवेश से अलग एक तरीका बताया, जिसमें प्रेफर्ड शेयरों के जरिए ब्याज जैसी प्रकृति वाला रिटर्न अपेक्षित हो सकता है। सालाना 10% के दायरे के ब्याज की संभावना को मुख्य बिंदु के रूप में रखा गया। पृष्ठभूमि में बिटकॉइन निवेश की मांग और इसे वित्तीय उत्पाद के रूप में अपनाने में निवेशकों की रुचि है। हालांकि शीर्षक से स्पष्ट है कि मुद्दा सिर्फ ऊंचे रिटर्न की संभावना नहीं, बल्कि Strategy प्रेफर्ड शेयरों की संरचना समझना भी है। निवेशकों को बिटकॉइन मूल्य उतार-चढ़ाव, प्रेफर्ड शेयरों की प्रकृति और भुगतान शर्तें देखनी चाहिए। स्रोत: v.daum.net."
-      },
-      "id": {
-        "title": "Investasi Bitcoin Berbunga 10% per Tahun? Inti Saham Preferen Strategy",
-        "excerpt": "Mblock Letter di v.daum.net memperkenalkan saham preferen Strategy, mengaitkan eksposur Bitcoin dengan kemungkinan bunga tahunan di kisaran 10%.",
-        "body": "Mblock Letter di v.daum.net membahas saham preferen Strategy melalui pertanyaan, “Bisakah investasi Bitcoin memberi bunga tahunan di kisaran 10%?” Laporan itu memperkenalkan pendekatan yang berbeda dari investasi langsung pada Bitcoin, yakni melalui saham preferen yang dapat memberikan imbal hasil berkarakter seperti bunga. Kemungkinan bunga tahunan di kisaran 10% menjadi kata kunci utama. Latar belakangnya adalah permintaan terhadap eksposur Bitcoin dan minat investor untuk mengaksesnya lewat produk keuangan. Namun, seperti tersirat dalam judul, fokusnya bukan hanya potensi imbal hasil tinggi, melainkan pemahaman atas struktur saham preferen Strategy. Investor perlu mencermati volatilitas harga Bitcoin, karakter saham preferen, dan syarat pembayaran imbal hasil. Sumber: v.daum.net."
-      }
-    }
-  },
-  {
-    "id": "bb73a8e8413b",
-    "slug": "크립토now-스트래티지-1분기-18조원-순손실---매일경제tv-671206",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T09:44:05.007Z",
-    "updatedAt": "2026-05-06T09:44:05.007Z",
-    "sourceName": "매일경제TV",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wcmUxekpWTVpfcWlmN0Y4NW1yVEFWNUs2RTloNEZHSW1iRjNmdnV1Z3EwV0FIV1dkY24tWEtfZ2VpaTZ2eW1zZlJaOEVZNnpTcGJwU0ZEeENzb0FqWmZwcmxPVy01TXFt?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wcmUxekpWTVpfcWlmN0Y4NW1yVEFWNUs2RTloNEZHSW1iRjNmdnV1Z3EwV0FIV1dkY24tWEtfZ2VpaTZ2eW1zZlJaOEVZNnpTcGJwU0ZEeENzb0FqWmZwcmxPVy01TXFt?oc=5",
-    "titleFingerprint": "e2f3767f6bfa3c63e0b3457cc1085d249082b9a2",
-    "dedupKeys": [
-      "bb73a8e8413bd29dddbf24d13b62a94493cf8d45",
-      "e2f3767f6bfa3c63e0b3457cc1085d249082b9a2",
-      "b39e10b0ae4593e0bbc31088f874d30b864a02c3"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "스트래티지 1분기 18조원 순손실, 매일경제TV 크립토Now 보도",
-        "excerpt": "매일경제TV는 크립토Now를 통해 스트래티지가 1분기에 18조원 규모의 순손실을 기록했다고 보도했다. 제공된 원문은 해당 실적 수치와 출처를 핵심으로 전했다.",
-        "body": "매일경제TV는 크립토Now 기사에서 스트래티지가 1분기에 18조원 규모의 순손실을 기록했다고 전했다. 보도 제목은 ‘[크립토Now] 스트래티지, 1분기 18조원 순손실’로, 핵심 내용은 회사의 분기 순손실 규모에 맞춰졌다. 제공된 원문 요약에는 손실 발생 배경, 세부 회계 항목, 전년 동기 비교, 향후 계획 등 추가 수치는 포함되지 않았다. 따라서 현재 확인 가능한 사실은 스트래티지의 1분기 순손실이 18조원으로 보도됐다는 점이다. 시장 영향과 전망 역시 원문 요약만으로는 구체적으로 제시되지 않았다. 출처: 매일경제TV."
-      },
-      "en": {
-        "title": "Strategy Posts 18 Trillion Won Q1 Net Loss, Maeil Business TV Reports",
-        "excerpt": "Maeil Business TV reported in CryptoNow that Strategy recorded a first-quarter net loss of 18 trillion won. The provided source focuses on the loss figure and the outlet.",
-        "body": "Maeil Business TV reported in a CryptoNow article that Strategy recorded a first-quarter net loss of 18 trillion won. The article title, “[CryptoNow] Strategy, 18 Trillion Won Net Loss in Q1,” centers on the size of the company’s quarterly net loss. The provided summary does not include the cause of the loss, detailed accounting items, year-on-year comparisons, or future plans. Based only on the available source text, the confirmed fact is that Strategy’s Q1 net loss was reported at 18 trillion won. Market impact and outlook were not specified in the provided summary. Source: Maeil Business TV."
-      },
-      "ja": {
-        "title": "ストラテジー、第1四半期に18兆ウォン純損失と毎日経済TV報道",
-        "excerpt": "毎日経済TVはCryptoNowで、ストラテジーが第1四半期に18兆ウォン規模の純損失を計上したと報じた。提供原文は損失額と出所を中心に伝えている。",
-        "body": "毎日経済TVはCryptoNowの記事で、ストラテジーが第1四半期に18兆ウォン規模の純損失を記録したと伝えた。記事の見出しは「[CryptoNow] ストラテジー、第1四半期18兆ウォン純損失」で、中心となる内容は同社の四半期純損失額だった。提供された原文要約には、損失の背景、詳細な会計項目、前年同期比、今後の計画などの追加数値は含まれていない。そのため現時点で確認できる事実は、ストラテジーの第1四半期純損失が18兆ウォンと報じられた点である。市場への影響や見通しも、原文要約だけでは具体的に示されていない。出所：毎日経済TV。"
-      },
-      "zh": {
-        "title": "Strategy一季度净亏损18万亿韩元，韩媒每日经济TV报道",
-        "excerpt": "每日经济TV在CryptoNow报道称，Strategy第一季度录得18万亿韩元规模的净亏损。所提供原文主要呈现该亏损数字与消息来源。",
-        "body": "每日经济TV在CryptoNow报道中称，Strategy第一季度录得18万亿韩元规模的净亏损。报道标题为“[CryptoNow] Strategy，第一季度净亏损18万亿韩元”，核心内容集中在该公司的季度净亏损规模。所提供的原文摘要未包含亏损原因、具体会计项目、同比比较或后续计划等其他数据。因此，依据当前可见原文，能够确认的事实是Strategy第一季度净亏损被报道为18万亿韩元。关于市场影响和后续展望，原文摘要中也未作具体说明。来源：每日经济TV。"
-      },
-      "es": {
-        "title": "Strategy registra pérdida neta de 18 billones de wones en el 1T, según Maeil Business TV",
-        "excerpt": "Maeil Business TV informó en CryptoNow que Strategy registró una pérdida neta de 18 billones de wones en el primer trimestre. El texto fuente se centra en esa cifra y la fuente.",
-        "body": "Maeil Business TV informó en un artículo de CryptoNow que Strategy registró una pérdida neta de 18 billones de wones en el primer trimestre. El título, “[CryptoNow] Strategy, pérdida neta de 18 billones de wones en el 1T”, centra el contenido en el tamaño de la pérdida trimestral de la compañía. El resumen proporcionado no incluye las causas de la pérdida, partidas contables detalladas, comparaciones interanuales ni planes futuros. Por tanto, el hecho verificable con el texto disponible es que la pérdida neta de Strategy en el primer trimestre fue reportada en 18 billones de wones. El impacto de mercado y las perspectivas tampoco se especifican en el resumen original. Fuente: Maeil Business TV."
-      },
-      "pt": {
-        "title": "Strategy tem prejuízo líquido de 18 trilhões de won no 1º trimestre, diz Maeil Business TV",
-        "excerpt": "A Maeil Business TV informou no CryptoNow que a Strategy registrou prejuízo líquido de 18 trilhões de won no primeiro trimestre. O texto fornecido destaca a cifra e a fonte.",
-        "body": "A Maeil Business TV informou em uma matéria do CryptoNow que a Strategy registrou prejuízo líquido de 18 trilhões de won no primeiro trimestre. O título, “[CryptoNow] Strategy, prejuízo líquido de 18 trilhões de won no 1º trimestre”, concentra o conteúdo no tamanho da perda trimestral da empresa. O resumo fornecido não inclui a causa do prejuízo, itens contábeis detalhados, comparação anual ou planos futuros. Assim, com base apenas no texto disponível, o fato confirmado é que o prejuízo líquido da Strategy no primeiro trimestre foi reportado em 18 trilhões de won. Impacto de mercado e perspectivas também não foram especificados no resumo original. Fonte: Maeil Business TV."
-      },
-      "de": {
-        "title": "Strategy meldet 18 Billionen Won Nettoverlust im ersten Quartal, berichtet Maeil Business TV",
-        "excerpt": "Maeil Business TV berichtete in CryptoNow, dass Strategy im ersten Quartal einen Nettoverlust von 18 Billionen Won verzeichnete. Die Vorlage nennt vor allem Zahl und Quelle.",
-        "body": "Maeil Business TV berichtete in einem CryptoNow-Artikel, dass Strategy im ersten Quartal einen Nettoverlust von 18 Billionen Won verzeichnete. Der Titel „[CryptoNow] Strategy, 18 Billionen Won Nettoverlust im ersten Quartal“ stellt die Höhe des Quartalsverlustes in den Mittelpunkt. Die bereitgestellte Zusammenfassung enthält keine Angaben zu den Ursachen des Verlustes, einzelnen Bilanzposten, Vorjahresvergleichen oder künftigen Plänen. Auf Basis des verfügbaren Ausgangstextes ist daher nur gesichert, dass der Nettoverlust von Strategy im ersten Quartal mit 18 Billionen Won berichtet wurde. Marktauswirkungen und Ausblick werden in der Zusammenfassung ebenfalls nicht konkret genannt. Quelle: Maeil Business TV."
-      },
-      "fr": {
-        "title": "Strategy affiche une perte nette de 18 billions de wons au 1er trimestre, selon Maeil Business TV",
-        "excerpt": "Maeil Business TV a rapporté dans CryptoNow que Strategy avait enregistré une perte nette de 18 billions de wons au premier trimestre. Le texte fourni se concentre sur ce chiffre et la source.",
-        "body": "Maeil Business TV a rapporté dans un article CryptoNow que Strategy avait enregistré une perte nette de 18 billions de wons au premier trimestre. Le titre, « [CryptoNow] Strategy, perte nette de 18 billions de wons au 1er trimestre », met l’accent sur l’ampleur de la perte trimestrielle de l’entreprise. Le résumé fourni ne mentionne pas les causes de la perte, les postes comptables détaillés, les comparaisons avec l’année précédente ni les plans futurs. Ainsi, sur la seule base du texte disponible, le fait confirmé est que la perte nette de Strategy au premier trimestre a été rapportée à 18 billions de wons. L’impact sur le marché et les perspectives ne sont pas précisés dans le résumé original. Source : Maeil Business TV."
-      },
-      "ar": {
-        "title": "ستراتيجي تسجل خسارة صافية بـ18 تريليون وون في الربع الأول وفق ماييل بيزنس TV",
-        "excerpt": "ذكرت ماييل بيزنس TV عبر CryptoNow أن ستراتيجي سجلت خسارة صافية قدرها 18 تريليون وون في الربع الأول. يركز النص الأصلي المتاح على الرقم والمصدر.",
-        "body": "ذكرت ماييل بيزنس TV في خبر ضمن CryptoNow أن ستراتيجي سجلت خسارة صافية قدرها 18 تريليون وون في الربع الأول. وجاء العنوان بصيغة “[CryptoNow] ستراتيجي، خسارة صافية بـ18 تريليون وون في الربع الأول”، مع تركيز واضح على حجم الخسارة الفصلية للشركة. لا يتضمن الملخص المقدم أسباب الخسارة أو البنود المحاسبية التفصيلية أو مقارنة مع الفترة نفسها من العام السابق أو خططا مستقبلية. لذلك، وبناء على النص المتاح فقط، فإن الحقيقة المؤكدة هي أن خسارة ستراتيجي الصافية في الربع الأول وردت بقيمة 18 تريليون وون. كما أن تأثير السوق والتوقعات لم يردا بشكل محدد في الملخص الأصلي. المصدر: ماييل بيزنس TV."
-      },
-      "hi": {
-        "title": "स्ट्रैटेजी को पहली तिमाही में 18 ट्रिलियन वॉन का शुद्ध घाटा, Maeil Business TV की रिपोर्ट",
-        "excerpt": "Maeil Business TV ने CryptoNow में बताया कि Strategy ने पहली तिमाही में 18 ट्रिलियन वॉन का शुद्ध घाटा दर्ज किया। उपलब्ध मूल पाठ में मुख्य रूप से यही आंकड़ा और स्रोत है।",
-        "body": "Maeil Business TV ने CryptoNow लेख में बताया कि Strategy ने पहली तिमाही में 18 ट्रिलियन वॉन का शुद्ध घाटा दर्ज किया। लेख का शीर्षक “[CryptoNow] Strategy, पहली तिमाही में 18 ट्रिलियन वॉन शुद्ध घाटा” है और इसका मुख्य जोर कंपनी के तिमाही शुद्ध घाटे के आकार पर है। उपलब्ध सारांश में घाटे का कारण, विस्तृत लेखांकन मदें, सालाना तुलना या भविष्य की योजनाओं से जुड़े अतिरिक्त आंकड़े शामिल नहीं हैं। इसलिए उपलब्ध मूल पाठ के आधार पर पुष्ट तथ्य यही है कि Strategy का पहली तिमाही का शुद्ध घाटा 18 ट्रिलियन वॉन बताया गया। बाजार प्रभाव और आगे की संभावनाएं भी मूल सारांश में स्पष्ट रूप से नहीं दी गई हैं। स्रोत: Maeil Business TV."
-      },
-      "id": {
-        "title": "Strategy Catat Rugi Bersih 18 Triliun Won pada Kuartal I, Laporan Maeil Business TV",
-        "excerpt": "Maeil Business TV melalui CryptoNow melaporkan bahwa Strategy mencatat rugi bersih 18 triliun won pada kuartal pertama. Ringkasan sumber berfokus pada angka kerugian dan asal laporan.",
-        "body": "Maeil Business TV melaporkan dalam artikel CryptoNow bahwa Strategy mencatat rugi bersih sebesar 18 triliun won pada kuartal pertama. Judul berita, “[CryptoNow] Strategy, rugi bersih 18 triliun won pada kuartal I,” menempatkan besaran kerugian kuartalan perusahaan sebagai inti informasi. Ringkasan yang diberikan tidak memuat penyebab kerugian, rincian pos akuntansi, perbandingan tahunan, atau rencana ke depan. Karena itu, berdasarkan teks sumber yang tersedia, fakta yang dapat dipastikan adalah bahwa rugi bersih Strategy pada kuartal pertama dilaporkan sebesar 18 triliun won. Dampak pasar dan prospek juga tidak dijelaskan secara spesifik dalam ringkasan asli. Sumber: Maeil Business TV."
       }
     }
   }

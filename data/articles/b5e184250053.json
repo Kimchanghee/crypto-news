@@ -1,0 +1,75 @@
+{
+  "id": "b5e184250053",
+  "slug": "wall-streets-clearinghouse-seeks-high-performance-blockchain-527436",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-06T22:36:16.528Z",
+  "updatedAt": "2026-05-06T22:36:16.528Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/business/2026/05/06/wall-street-s-clearinghouse-seeks-high-performance-blockchains-to-tokenize-corporate-actions",
+  "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/wall-street-s-clearinghouse-seeks-high-performance-blockchains-to-tokenize-corporate-actions",
+  "titleFingerprint": "e6b418389dd8162cb99d0ac773318561c480a6b3",
+  "dedupKeys": [
+    "b5e1842500538ce0734315e864719b73dbda43a1",
+    "e6b418389dd8162cb99d0ac773318561c480a6b3",
+    "267b093e658359ea4f023481f9a6909227c9fd3a"
+  ],
+  "imageUrl": "/images/articles/b5e184250053.jpg",
+  "i18n": {
+    "ko": {
+      "title": "DTCC, 기업행위 토큰화 위해 고성능 레이어1 블록체인 모색",
+      "excerpt": "DTCC의 프랭크 라 살라 CEO는 배당 지급 등 수백만 건의 기업행위를 온체인으로 옮기기 위해 레이어1 블록체인들과 협력 중이라고 밝혔다.",
+      "body": "월가의 핵심 청산기관인 DTCC가 기업행위 토큰화를 위해 고성능 레이어1 블록체인 활용을 모색하고 있다. 프랭크 라 살라 DTCC CEO는 배당 지급 같은 수백만 건의 기업행위를 온체인으로 가져오기 위해 여러 레이어1 블록체인과 협력하고 있다고 말했다. 기업행위는 증권 시장 인프라에서 반복적으로 처리되는 핵심 절차로, 토큰화가 실제 업무에 적용되려면 대규모 처리 성능과 안정성이 중요하다. 다만 라 살라는 아직 해결해야 할 과제가 남아 있다고 설명했다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "DTCC Eyes High-Performance Layer-1 Chains for Corporate Actions",
+      "excerpt": "DTCC CEO Frank La Salla said the clearing giant is working with layer-1 blockchains to bring millions of corporate actions, including dividends, onchain.",
+      "body": "DTCC, a key Wall Street clearinghouse, is exploring high-performance layer-1 blockchains to tokenize corporate actions. CEO Frank La Salla said the clearing giant is working with several layer-1 blockchains to bring millions of corporate actions, such as dividend payments, onchain. Corporate actions are recurring core processes in securities market infrastructure, and large-scale performance and reliability are important if tokenization is to be used in real operations. La Salla also noted that challenges remain before that can be achieved. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "DTCC、企業行為のトークン化へ高性能レイヤー1を模索",
+      "excerpt": "DTCCのフランク・ラ・サラCEOは、配当支払いなど数百万件の企業行為をオンチェーン化するため、レイヤー1ブロックチェーンと協力していると述べた。",
+      "body": "ウォール街の主要清算機関であるDTCCは、企業行為のトークン化に向けて高性能なレイヤー1ブロックチェーンの活用を模索している。フランク・ラ・サラCEOは、配当支払いのような数百万件の企業行為をオンチェーンに移すため、複数のレイヤー1ブロックチェーンと協力していると語った。企業行為は証券市場インフラで繰り返し処理される中核的な手続きであり、トークン化を実務に適用するには大規模な処理性能と信頼性が重要になる。ただし、ラ・サラ氏はなお解決すべき課題が残っているとも説明した。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "DTCC寻求高性能Layer1链，推进企业行动代币化",
+      "excerpt": "DTCC首席执行官Frank La Salla表示，这家清算巨头正与Layer1区块链合作，将股息支付等数百万项企业行动搬上链。",
+      "body": "华尔街核心清算机构DTCC正探索使用高性能Layer1区块链来推动企业行动代币化。DTCC首席执行官Frank La Salla表示，该清算巨头正在与多个Layer1区块链合作，试图将股息支付等数百万项企业行动带到链上。企业行动是证券市场基础设施中反复处理的关键流程，如果代币化要用于实际业务，大规模处理能力和稳定性至关重要。不过，La Salla也指出，目前仍有一些挑战需要解决。来源: coindesk.com"
+    },
+    "es": {
+      "title": "DTCC busca blockchains Layer 1 de alto rendimiento para acciones corporativas",
+      "excerpt": "Frank La Salla, CEO de DTCC, dijo que la cámara de compensación trabaja con blockchains Layer 1 para llevar millones de acciones corporativas, como dividendos, onchain.",
+      "body": "DTCC, una cámara de compensación clave de Wall Street, está explorando blockchains Layer 1 de alto rendimiento para tokenizar acciones corporativas. Su CEO, Frank La Salla, dijo que la entidad trabaja con varias blockchains Layer 1 para llevar onchain millones de acciones corporativas, como pagos de dividendos. Estas acciones son procesos centrales y recurrentes dentro de la infraestructura del mercado de valores, por lo que el rendimiento a gran escala y la fiabilidad son importantes para aplicar la tokenización en operaciones reales. Aun así, La Salla señaló que todavía quedan desafíos por resolver. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "DTCC mira blockchains Layer 1 de alto desempenho para ações corporativas",
+      "excerpt": "Frank La Salla, CEO da DTCC, disse que a câmara de compensação trabalha com blockchains Layer 1 para levar milhões de ações corporativas, como dividendos, onchain.",
+      "body": "A DTCC, uma importante câmara de compensação de Wall Street, está explorando blockchains Layer 1 de alto desempenho para tokenizar ações corporativas. O CEO Frank La Salla disse que a instituição trabalha com várias blockchains Layer 1 para levar onchain milhões de ações corporativas, como pagamentos de dividendos. Essas ações são processos centrais e recorrentes na infraestrutura do mercado de valores, e desempenho em grande escala e confiabilidade são importantes para que a tokenização seja aplicada em operações reais. Ainda assim, La Salla afirmou que desafios permanecem. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "DTCC sucht leistungsstarke Layer-1-Blockchains für Corporate Actions",
+      "excerpt": "DTCC-CEO Frank La Salla sagte, die Clearingstelle arbeite mit Layer-1-Blockchains daran, Millionen von Corporate Actions wie Dividendenzahlungen onchain zu bringen.",
+      "body": "DTCC, eine zentrale Clearingstelle der Wall Street, prüft leistungsstarke Layer-1-Blockchains für die Tokenisierung von Corporate Actions. CEO Frank La Salla sagte, das Unternehmen arbeite mit mehreren Layer-1-Blockchains zusammen, um Millionen von Corporate Actions, etwa Dividendenzahlungen, onchain abzuwickeln. Corporate Actions sind wiederkehrende Kernprozesse der Wertpapiermarkt-Infrastruktur; damit Tokenisierung im realen Betrieb eingesetzt werden kann, sind hohe Verarbeitungskapazität und Zuverlässigkeit wichtig. La Salla erklärte jedoch auch, dass weiterhin Herausforderungen bestehen. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "DTCC vise des blockchains Layer 1 performantes pour les opérations sur titres",
+      "excerpt": "Frank La Salla, CEO de DTCC, a déclaré que la chambre de compensation travaille avec des blockchains Layer 1 pour porter onchain des millions d’opérations sur titres, dont les dividendes.",
+      "body": "DTCC, chambre de compensation majeure de Wall Street, explore des blockchains Layer 1 à haute performance pour tokeniser les opérations sur titres. Son CEO, Frank La Salla, a indiqué que l’entreprise travaille avec plusieurs blockchains Layer 1 afin de porter onchain des millions d’opérations, comme les paiements de dividendes. Ces opérations sont des processus récurrents au cœur de l’infrastructure des marchés de titres; pour appliquer la tokenisation aux activités réelles, la capacité de traitement à grande échelle et la fiabilité sont essentielles. La Salla a toutefois précisé que des défis restent à résoudre. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "DTCC تبحث عن شبكات Layer 1 عالية الأداء لترميز إجراءات الشركات",
+      "excerpt": "قال فرانك لا سالا، الرئيس التنفيذي لـDTCC، إن غرفة المقاصة تعمل مع شبكات Layer 1 لنقل ملايين إجراءات الشركات، مثل توزيعات الأرباح، إلى البلوكشين.",
+      "body": "تستكشف DTCC، وهي غرفة مقاصة رئيسية في وول ستريت، استخدام شبكات بلوكشين Layer 1 عالية الأداء لترميز إجراءات الشركات. وقال الرئيس التنفيذي فرانك لا سالا إن المؤسسة تعمل مع عدة شبكات Layer 1 لنقل ملايين إجراءات الشركات، مثل مدفوعات توزيعات الأرباح، إلى البلوكشين. وتعد إجراءات الشركات عمليات أساسية ومتكررة في بنية أسواق الأوراق المالية، لذلك فإن القدرة على المعالجة واسعة النطاق والموثوقية مهمتان إذا أريد للتوكنة أن تدخل العمليات الفعلية. ومع ذلك، أوضح لا سالا أن تحديات ما زالت قائمة. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "DTCC कॉरपोरेट एक्शंस के लिए हाई-परफॉर्मेंस Layer 1 चेन तलाश रहा",
+      "excerpt": "DTCC के CEO फ्रैंक ला साला ने कहा कि क्लियरिंग दिग्गज डिविडेंड भुगतान जैसे लाखों कॉरपोरेट एक्शंस को ऑनचेन लाने के लिए Layer 1 ब्लॉकचेन के साथ काम कर रहा है।",
+      "body": "वॉल स्ट्रीट की प्रमुख क्लियरिंग संस्था DTCC कॉरपोरेट एक्शंस को टोकनाइज़ करने के लिए हाई-परफॉर्मेंस Layer 1 ब्लॉकचेन का उपयोग तलाश रही है। CEO फ्रैंक ला साला ने कहा कि संस्था डिविडेंड भुगतान जैसे लाखों कॉरपोरेट एक्शंस को ऑनचेन लाने के लिए कई Layer 1 ब्लॉकचेन के साथ काम कर रही है। कॉरपोरेट एक्शंस सिक्योरिटीज मार्केट इन्फ्रास्ट्रक्चर में बार-बार संसाधित होने वाली मुख्य प्रक्रियाएं हैं, इसलिए वास्तविक संचालन में टोकनाइजेशन लागू करने के लिए बड़े पैमाने की प्रोसेसिंग क्षमता और विश्वसनीयता महत्वपूर्ण हैं। ला साला ने यह भी कहा कि चुनौतियां अभी बाकी हैं। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "DTCC Incar Layer 1 Berperforma Tinggi untuk Tokenisasi Aksi Korporasi",
+      "excerpt": "CEO DTCC Frank La Salla mengatakan raksasa kliring itu bekerja dengan blockchain Layer 1 untuk membawa jutaan aksi korporasi, termasuk pembayaran dividen, ke onchain.",
+      "body": "DTCC, lembaga kliring utama Wall Street, sedang menjajaki blockchain Layer 1 berperforma tinggi untuk menokenisasi aksi korporasi. CEO Frank La Salla mengatakan raksasa kliring itu bekerja dengan beberapa blockchain Layer 1 untuk membawa jutaan aksi korporasi, seperti pembayaran dividen, ke onchain. Aksi korporasi merupakan proses inti yang berulang dalam infrastruktur pasar sekuritas, sehingga kinerja skala besar dan keandalan penting jika tokenisasi ingin diterapkan dalam operasi nyata. Namun, La Salla juga menyebut masih ada tantangan yang perlu diselesaikan. Sumber: coindesk.com"
+    }
+  }
+}
