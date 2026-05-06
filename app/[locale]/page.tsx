@@ -24,7 +24,7 @@ export default async function Home({ params: { locale } }: { params: { locale: L
             <ArticleCard article={hero} locale={locale} />
           ) : (
             <div className="card" style={{ minHeight: 220 }}>
-              <h1 style={{ fontSize: 28, marginBottom: 8 }}>{t('site.tagline')}</h1>
+              <h1 style={{ fontSize: 28, marginBottom: 8 }}>{channel.tagline}</h1>
               <p style={{ color: 'var(--muted)' }}>{t('common.loading')}</p>
             </div>
           )}
