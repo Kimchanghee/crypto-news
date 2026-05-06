@@ -1,0 +1,75 @@
+{
+  "id": "1b329010c9b8",
+  "slug": "defis-stress-test-ends-quietly-nothing-broke-461869",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-06T12:06:40.232Z",
+  "updatedAt": "2026-05-06T12:06:40.232Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/daybook-us/2026/05/06/crypto-daily",
+  "canonicalUrl": "https://www.coindesk.com/daybook-us/2026/05/06/crypto-daily",
+  "titleFingerprint": "60ab1dd089af1d38a23228fa3ca85eb34c292810",
+  "dedupKeys": [
+    "1b329010c9b87c1c6de05f724e2cbb307541e8f0",
+    "60ab1dd089af1d38a23228fa3ca85eb34c292810",
+    "cf02dfaa48a7e037bed78922d9ce7df84e3eaacc"
+  ],
+  "imageUrl": "/images/articles/1b329010c9b8.jpg",
+  "i18n": {
+    "ko": {
+      "title": "DeFi 스트레스 테스트 조용히 종료, 시스템 이상 없이 통과",
+      "excerpt": "코인데스크는 2026년 5월 6일 데이 어헤드 전망에서 DeFi 스트레스 테스트가 조용히 끝났고, 핵심 시스템에 문제가 발생하지 않았다고 전했다.",
+      "body": "2026년 5월 6일 코인데스크의 데이 어헤드 전망에 따르면 DeFi의 스트레스 테스트는 조용히 마무리됐고, 아무것도 고장 나지 않았다. 이번 소식의 핵심은 시장 압박 상황을 거친 뒤에도 DeFi 시스템에서 명시된 장애나 파손이 보고되지 않았다는 점이다. 제공된 원문 요약에는 추가 수치나 세부 원인, 특정 프로토콜명은 포함되지 않았다. 따라서 영향은 ‘문제 없이 통과했다’는 사실에 한정해 해석해야 한다. 향후 전망 역시 원문이 제시한 범위를 넘어 추정하지 않는다. 출처: coindesk.com."
+    },
+    "en": {
+      "title": "DeFi Stress Test Ends Quietly With No Reported Breakage",
+      "excerpt": "CoinDesk said in its May 6, 2026 day-ahead outlook that DeFi’s stress test ended quietly, with no reported breakage across the system.",
+      "body": "According to CoinDesk’s day-ahead outlook for May 6, 2026, DeFi’s stress test ended quietly, and nothing broke. The key point is that after a period described as a stress test, no explicit system failure or damage was reported in the provided summary. The original information does not include additional figures, causes, or named protocols. Its impact should therefore be read only as a quiet pass through pressure, not as a broader claim. Any outlook beyond that is not stated in the source. Source: coindesk.com."
+    },
+    "ja": {
+      "title": "DeFiストレステストは静かに終了、障害報告なしで通過",
+      "excerpt": "CoinDeskは2026年5月6日のデイアヘッド見通しで、DeFiのストレステストが静かに終わり、システムに破損はなかったと伝えた。",
+      "body": "CoinDeskの2026年5月6日付デイアヘッド見通しによると、DeFiのストレステストは静かに終了し、何も壊れなかった。要点は、市場の圧力局面を経た後でも、提供された要約上ではDeFiシステムに明示的な障害や破損が報告されていないことだ。原文情報には追加の数値、詳しい原因、特定プロトコル名は含まれていない。したがって影響は「問題なく通過した」という事実に限って読むべきだ。今後の見通しも出典の範囲を超えて推測しない。出典: coindesk.com."
+    },
+    "zh": {
+      "title": "DeFi压力测试平静结束，系统未报告任何故障",
+      "excerpt": "CoinDesk在2026年5月6日的前瞻报道中称，DeFi压力测试已平静结束，相关系统没有出现被报告的损坏。",
+      "body": "根据CoinDesk 2026年5月6日的前瞻报道，DeFi的压力测试平静结束，没有任何东西被打破。核心信息是，在经历被称为压力测试的阶段后，所提供摘要中并未报告DeFi系统出现明确故障或损坏。原文信息没有包含更多数据、具体原因或特定协议名称。因此，其影响应限于“在压力下未出问题”这一事实，不应扩展为更广泛判断。后续展望也不超出来源所述范围。来源: coindesk.com."
+    },
+    "es": {
+      "title": "Prueba de estrés DeFi termina sin fallos reportados",
+      "excerpt": "CoinDesk señaló en su panorama del 6 de mayo de 2026 que la prueba de estrés de DeFi terminó en calma y sin roturas reportadas.",
+      "body": "Según el panorama anticipado de CoinDesk para el 6 de mayo de 2026, la prueba de estrés de DeFi terminó en silencio y nada se rompió. El punto central es que, tras una fase descrita como prueba de estrés, el resumen disponible no reportó fallos explícitos ni daños en el sistema DeFi. La información original no incluye cifras adicionales, causas detalladas ni nombres de protocolos concretos. Por eso, el impacto debe leerse solo como un paso sin problemas bajo presión. Cualquier perspectiva más amplia no está indicada por la fuente. Fuente: coindesk.com."
+    },
+    "pt": {
+      "title": "Teste de estresse DeFi termina sem falhas reportadas",
+      "excerpt": "A CoinDesk informou em sua prévia de 6 de maio de 2026 que o teste de estresse do DeFi terminou de forma calma, sem quebras reportadas.",
+      "body": "Segundo a prévia da CoinDesk para 6 de maio de 2026, o teste de estresse do DeFi terminou discretamente e nada quebrou. O ponto central é que, após uma fase descrita como teste de estresse, o resumo fornecido não registrou falhas explícitas nem danos no sistema DeFi. A informação original não traz números adicionais, causas detalhadas ou nomes de protocolos específicos. Assim, o impacto deve ser lido apenas como uma passagem sem problemas sob pressão. Qualquer projeção além disso não consta na fonte. Fonte: coindesk.com."
+    },
+    "de": {
+      "title": "DeFi-Stresstest endet ruhig, keine Ausfälle gemeldet",
+      "excerpt": "CoinDesk berichtete im Ausblick für den 6. Mai 2026, dass der DeFi-Stresstest ruhig endete und keine Systemschäden gemeldet wurden.",
+      "body": "Laut dem Day-Ahead-Ausblick von CoinDesk für den 6. Mai 2026 endete der Stresstest von DeFi ruhig, und nichts ging kaputt. Der Kernpunkt ist, dass nach einer als Stresstest beschriebenen Phase in der bereitgestellten Zusammenfassung kein ausdrücklicher Systemausfall und kein Schaden gemeldet wurde. Die ursprüngliche Information enthält keine zusätzlichen Zahlen, Ursachen oder Namen einzelner Protokolle. Die Wirkung sollte daher nur als problemloses Bestehen unter Druck verstanden werden. Weitere Prognosen werden von der Quelle nicht genannt. Quelle: coindesk.com."
+    },
+    "fr": {
+      "title": "Test de résistance DeFi terminé sans panne signalée",
+      "excerpt": "CoinDesk a indiqué dans son aperçu du 6 mai 2026 que le test de résistance de la DeFi s’est terminé calmement, sans rupture signalée.",
+      "body": "Selon l’aperçu de CoinDesk pour le 6 mai 2026, le test de résistance de la DeFi s’est terminé discrètement et rien ne s’est cassé. Le point essentiel est qu’après une phase décrite comme un test de résistance, le résumé fourni ne signale aucune panne explicite ni dommage du système DeFi. L’information d’origine ne contient pas de chiffres supplémentaires, de causes détaillées ni de noms de protocoles précis. L’impact doit donc être limité au constat d’un passage sans problème sous pression. Toute perspective plus large n’est pas indiquée par la source. Source: coindesk.com."
+    },
+    "ar": {
+      "title": "اختبار ضغط DeFi ينتهي بهدوء من دون أعطال معلنة",
+      "excerpt": "قالت CoinDesk في نظرتها ليوم 6 مايو 2026 إن اختبار ضغط DeFi انتهى بهدوء، من دون تسجيل أي كسر أو عطل في النظام.",
+      "body": "بحسب النظرة اليومية المسبقة من CoinDesk ليوم 6 مايو 2026، انتهى اختبار ضغط DeFi بهدوء ولم ينكسر شيء. الفكرة الأساسية أن المرحلة التي وُصفت بأنها اختبار ضغط لم تتبعها، في الملخص المتاح، أي تقارير صريحة عن تعطل أو تلف في نظام DeFi. ولا تتضمن المعلومات الأصلية أرقاما إضافية أو أسبابا تفصيلية أو أسماء بروتوكولات محددة. لذلك ينبغي حصر الأثر في حقيقة أن النظام مر بالضغط من دون مشكلة مذكورة. ولا تطرح المادة توقعات أبعد من ذلك. المصدر: coindesk.com."
+    },
+    "hi": {
+      "title": "DeFi स्ट्रेस टेस्ट शांतिपूर्वक समाप्त, कोई टूट-फूट रिपोर्ट नहीं",
+      "excerpt": "CoinDesk ने 6 मई 2026 के डे-अहेड आउटलुक में कहा कि DeFi का स्ट्रेस टेस्ट शांतिपूर्वक खत्म हुआ और सिस्टम में कोई टूट-फूट रिपोर्ट नहीं हुई।",
+      "body": "CoinDesk के 6 मई 2026 के डे-अहेड आउटलुक के अनुसार, DeFi का स्ट्रेस टेस्ट शांतिपूर्वक समाप्त हुआ और कुछ भी नहीं टूटा। मुख्य बात यह है कि स्ट्रेस टेस्ट कहे गए चरण के बाद उपलब्ध सारांश में DeFi सिस्टम में किसी स्पष्ट विफलता या क्षति की सूचना नहीं दी गई। मूल जानकारी में अतिरिक्त आंकड़े, विस्तृत कारण या किसी खास प्रोटोकॉल का नाम शामिल नहीं है। इसलिए प्रभाव को केवल दबाव के बीच बिना समस्या गुजरने के तथ्य तक सीमित समझना चाहिए। इससे आगे की संभावना स्रोत में नहीं दी गई है। स्रोत: coindesk.com."
+    },
+    "id": {
+      "title": "Uji Tekanan DeFi Berakhir Tenang Tanpa Kerusakan",
+      "excerpt": "CoinDesk menyebut dalam outlook 6 Mei 2026 bahwa uji tekanan DeFi berakhir dengan tenang, tanpa kerusakan sistem yang dilaporkan.",
+      "body": "Menurut outlook day-ahead CoinDesk untuk 6 Mei 2026, uji tekanan DeFi berakhir dengan tenang dan tidak ada yang rusak. Inti beritanya adalah setelah fase yang disebut sebagai uji tekanan, ringkasan yang tersedia tidak melaporkan kegagalan atau kerusakan eksplisit pada sistem DeFi. Informasi asli tidak memuat angka tambahan, penyebab terperinci, atau nama protokol tertentu. Karena itu, dampaknya sebaiknya dibaca hanya sebagai keberhasilan melewati tekanan tanpa masalah yang disebutkan. Prospek lebih jauh tidak dinyatakan dalam sumber. Sumber: coindesk.com."
+    }
+  }
+}
