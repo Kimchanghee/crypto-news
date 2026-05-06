@@ -12,11 +12,11 @@ on:
         default: '3'
 
 permissions:
-  contents: write   # data/, public/images/ 커밋 push
+  contents: write
 
 concurrency:
   group: codex-content
-  cancel-in-progress: false   # 진행 중이면 다음 트리거 큐잉
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -37,7 +37,7 @@ jobs:
           CODEX_AUTH_JSON: ${{ secrets.CODEX_AUTH_JSON }}
         run: |
           if [ -z "$CODEX_AUTH_JSON" ]; then
-            echo "::error::CODEX_AUTH_JSON secret 없음. README의 setup 섹션 참고."
+            echo "::error::CODEX_AUTH_JSON secret 없음"
             exit 1
           fi
           mkdir -p ~/.codex
@@ -56,7 +56,7 @@ jobs:
           OUT=$(codex exec --json --sandbox read-only --skip-git-repo-check "Reply with the single word: ok" 2>&1 || true)
           echo "$OUT" | head -50
           if echo "$OUT" | grep -qi "auth\|login\|expired\|unauthorized"; then
-            echo "::error::Codex 인증 실패 — auth.json 만료/회전 가능. 로컬에서 'codex login' 다시 실행 후 secret 재업로드 필요."
+            echo "::error::Codex 인증 실패"
             exit 1
           fi
 
@@ -69,15 +69,35 @@ jobs:
         run: node scripts/codex-cron.mjs
 
       - name: Commit & push if changed
+        shell: bash
         run: |
+          set +e
+          echo "=== pwd ==="
+          pwd
+          echo "=== ls data/articles ==="
+          ls -la data/articles/ 2>&1 || echo "(no articles dir)"
+          echo "=== git status (before add) ==="
+          git status
+          echo "=== git config ==="
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/ public/images/ 2>/dev/null || true
-          if git diff --cached --quiet; then
-            echo "변경 없음 — 신규 기사 0건"
-          else
-            COUNT=$(git diff --cached --name-only | grep -c 'data/articles/' || true)
-            git commit -m "[bot] codex: ${COUNT}개 기사 생성 + 이미지"
-            git push
-            echo "✓ pushed"
+          echo "=== git add data/ ==="
+          git add data/ 2>&1
+          echo "exit code: $?"
+          echo "=== git add public/images/ (optional) ==="
+          git add public/images/ 2>&1 || echo "(no public/images dir)"
+          echo "=== git diff --cached --name-only ==="
+          git diff --cached --name-only
+          STAGED=$(git diff --cached --name-only | head -50)
+          if [ -z "$STAGED" ]; then
+            echo "변경 없음 — skip commit"
+            exit 0
           fi
+          COUNT=$(echo "$STAGED" | grep -c 'data/articles/' || echo 0)
+          echo "=== git commit (COUNT=$COUNT) ==="
+          git commit -m "[bot] codex: ${COUNT}개 기사 생성"
+          echo "exit code: $?"
+          echo "=== git push ==="
+          git push 2>&1
+          echo "exit code: $?"
+          echo "✓ done"
