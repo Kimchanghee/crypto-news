@@ -1,22 +1,22 @@
-name: Content - Codex CLI 콘텐츠 자동 생성/이미지/커밋
+name: Content - Codex CLI ì½íì¸  ìë ìì±/ì´ë¯¸ì§/ì»¤ë°
 
 on:
   schedule:
-    # ChatGPT 구독 rate-limit 보호: 1시간 간격 (5분은 Plus 한도 초과)
-    - cron: '7 */1 * * *'
+    # ChatGPT êµ¬ë rate-limit ë³´í¸: 1ìê° ê°ê²© (5ë¶ì Plus íë ì´ê³¼)
+    - cron: '*/5 * * * *'
   workflow_dispatch:
     inputs:
       max_articles:
-        description: '이번 실행에서 새로 생성할 기사 최대 개수'
+        description: 'ì´ë² ì¤íìì ìë¡ ìì±í  ê¸°ì¬ ìµë ê°ì'
         required: false
         default: '3'
 
 permissions:
-  contents: write   # data/, public/images/ 커밋 push
+  contents: write   # data/, public/images/ ì»¤ë° push
 
 concurrency:
   group: codex-content
-  cancel-in-progress: false   # 진행 중이면 다음 트리거 큐잉
+  cancel-in-progress: false   # ì§í ì¤ì´ë©´ ë¤ì í¸ë¦¬ê±° íì
 
 jobs:
   generate:
@@ -32,12 +32,12 @@ jobs:
         with:
           node-version: 20
 
-      - name: Restore Codex auth (ChatGPT 구독)
+      - name: Restore Codex auth (ChatGPT êµ¬ë)
         env:
           CODEX_AUTH_JSON: ${{ secrets.CODEX_AUTH_JSON }}
         run: |
           if [ -z "$CODEX_AUTH_JSON" ]; then
-            echo "::error::CODEX_AUTH_JSON secret 없음. README의 setup 섹션 참고."
+            echo "::error::CODEX_AUTH_JSON secret ìì. READMEì setup ì¹ì ì°¸ê³ ."
             exit 1
           fi
           mkdir -p ~/.codex
@@ -53,11 +53,11 @@ jobs:
       - name: Verify Codex auth
         run: |
           set -e
-          # 작은 핑으로 인증 확인 (응답이 짧음)
+          # ìì íì¼ë¡ ì¸ì¦ íì¸ (ìëµì´ ì§§ì)
           OUT=$(codex exec --json --sandbox read-only --skip-git-repo-check "Reply with the single word: ok" 2>&1 || true)
           echo "$OUT" | head -50
           if echo "$OUT" | grep -qi "auth\|login\|expired\|unauthorized"; then
-            echo "::error::Codex 인증 실패 — auth.json 만료/회전 가능. 로컬에서 'codex login' 다시 실행 후 secret 재업로드 필요."
+            echo "::error::Codex ì¸ì¦ ì¤í¨ â auth.json ë§ë£/íì  ê°ë¥. ë¡ì»¬ìì 'codex login' ë¤ì ì¤í í secret ì¬ìë¡ë íì."
             exit 1
           fi
 
@@ -75,9 +75,9 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/ public/images/ 2>/dev/null || true
           if git diff --cached --quiet; then
-            echo "변경 없음 — 신규 기사 0건"
+            echo "ë³ê²½ ìì â ì ê· ê¸°ì¬ 0ê±´"
           else
             COUNT=$(git diff --cached --name-only | grep -c 'data/articles/' || true)
-            git commit -m "[bot] codex: ${COUNT}개 기사 생성 + 이미지"
+            git commit -m "[bot] codex: ${COUNT}ê° ê¸°ì¬ ìì± + ì´ë¯¸ì§"
             git push
           fi
