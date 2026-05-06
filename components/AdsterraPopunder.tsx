@@ -1,5 +1,6 @@
 /**
  * Adsterra popunder. One per site, mounted in root layout.
+ * Supports both Adsterra Beta full URLs and legacy invoke keys.
  */
 'use client';
 import { useEffect } from 'react';
@@ -13,7 +14,8 @@ export function AdsterraPopunder() {
     s.id = 'adsterra-popunder-script';
     s.async = true;
     s.dataset.cfasync = 'false';
-    s.src = `//pl${key}.profitableratecpm.com/${key}/invoke.js`;
+    // If key is already a full URL (Adsterra Beta), use it directly; else legacy template
+    s.src = key.startsWith('http') || key.startsWith('//') ? key : `//pl${key}.profitableratecpm.com/${key}/invoke.js`;
     document.body.appendChild(s);
   }, [key]);
   return null;
