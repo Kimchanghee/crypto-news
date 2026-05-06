@@ -17,14 +17,20 @@ export default async function Home({ params: { locale } }: { params: { locale: L
 
   return (
     <div>
+      {/* SEO H1 — visible to search engines, visually compact */}
+      <header style={{ marginBottom: 20 }}>
+        <h1 style={{ fontSize: 22, fontWeight: 700, lineHeight: 1.3, margin: 0, color: 'var(--ink)' }}>
+          {t('site.name')} — {t('site.tagline')}
+        </h1>
+      </header>
+
       {/* Hero */}
       <section style={{ display: 'grid', gridTemplateColumns: '2fr 1fr', gap: 24, marginBottom: 32 }}>
         <div>
           {hero ? (
-            <ArticleCard article={hero} locale={locale} />
+            <ArticleCard article={hero} locale={locale} large={true} />
           ) : (
-            <div className="card" style={{ minHeight: 220 }}>
-              <h1 style={{ fontSize: 28, marginBottom: 8 }}>{channel.tagline}</h1>
+            <div className="card" style={{ minHeight: 220, padding: 24 }}>
               <p style={{ color: 'var(--muted)' }}>{t('common.loading')}</p>
             </div>
           )}
