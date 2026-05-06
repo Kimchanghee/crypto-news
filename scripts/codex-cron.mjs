@@ -113,6 +113,12 @@ async function runCodex(prompt, opts = {}) {
     child.on('close', code => {
       clearTimeout(to);
       console.log(`[codex ${sandbox}] code=${code} stdout=${out.length}b err=${err.length}b`);
+      if (out.length < 2000) {
+        console.log(`[codex ${sandbox} small-stdout]:`, out.slice(0, 2000));
+      }
+      if (err.length > 0) {
+        console.log(`[codex ${sandbox} stderr]:`, err.slice(0, 500));
+      }
       if (code !== 0) return reject(new Error(`exit ${code}. err: ${err.slice(0,300)}`));
       resolve(out);
     });
@@ -171,20 +177,22 @@ function buildTranslationPrompt(channel, item) {
 }
 
 function buildImagePrompt(item, imgRelPath) {
+  const desc = (item.title.slice(0, 180) + ' — ' + item.description.slice(0, 220)).replace(/[`"\\]/g, ' ').replace(/\s+/g, ' ').trim();
   return [
-    `Generate a 1200x630 photorealistic editorial news image and save it at: ${imgRelPath}`,
+    `$imagegen`,
     ``,
-    `Use the image_gen tool with this prompt:`,
-    `"Editorial news photograph, Reuters/AP wire-service style, photorealistic, professional lighting, depicting: ${item.title.slice(0, 180).replace(/"/g, "'")}. Context: ${item.description.slice(0, 220).replace(/"/g, "'")}. Wide 16:9 composition, no text, no watermark, no logo, no captions, natural colors, documentary style."`,
+    `Generate ONE 1200x630 photorealistic editorial news photograph and save it at: ${imgRelPath}`,
     ``,
-    `After image_gen completes:`,
-    `1. The image is initially saved at $CODEX_HOME/generated_images/ — find the most recently created file there (e.g. \`ls -t $HOME/.codex/generated_images/*.png 2>/dev/null | head -1\` or whatever path image_gen actually used).`,
-    `2. Use shell commands to move/copy that file to the target path: ${imgRelPath}`,
-    `   Example: \`mkdir -p $(dirname ${imgRelPath}) && cp "<source>" "${imgRelPath}"\``,
-    `3. Verify the file exists at ${imgRelPath} with \`ls -la ${imgRelPath}\``,
+    `Image content: ${desc}`,
     ``,
-    `When the file is verified at ${imgRelPath}, reply with exactly: OK`,
-    `If anything fails, reply with: FAIL: <reason>`,
+    `Style: Reuters/AP wire-service photograph, photorealistic, professional lighting, documentary style, 16:9 wide composition, no text overlay, no watermark, no captions, no logos.`,
+    ``,
+    `IMPORTANT — file location:`,
+    `1. After image_gen creates the image, find it (probably in $HOME/.codex/generated_images/ — newest .png file).`,
+    `2. Run shell: \`mkdir -p $(dirname ${imgRelPath}) && cp "$(ls -t $HOME/.codex/generated_images/*.png 2>/dev/null | head -1)" "${imgRelPath}"\``,
+    `3. Verify with \`ls -la ${imgRelPath}\` — file must exist and be > 1KB.`,
+    ``,
+    `Reply with: OK on success, FAIL: <reason> on failure.`,
   ].join('\n');
 }
 
