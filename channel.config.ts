@@ -11,11 +11,11 @@ export const channel = {
   keywords: ['비트코인', '이더리움', '암호화폐', '코인', '디파이', '블록체인'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },
   rssSources: [
-    { url: 'https://news.google.com/rss/search?q=%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8&hl=ko&gl=KR&ceid=KR:ko', category: 'market' },
-    { url: 'https://news.google.com/rss/search?q=%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90&hl=ko&gl=KR&ceid=KR:ko', category: 'breaking' },
-    { url: 'https://news.google.com/rss/search?q=bitcoin&hl=en&gl=US&ceid=US:en', category: 'market' },
-    { url: 'https://news.google.com/rss/search?q=ethereum+defi&hl=en&gl=US&ceid=US:en', category: 'analysis' },
-    { url: 'https://news.google.com/rss/search?q=crypto+regulation&hl=en&gl=US&ceid=US:en', category: 'policy' }
+    { url: 'https://www.coindesk.com/arc/outboundfeeds/rss/', category: 'market' },
+    { url: 'https://cointelegraph.com/rss', category: 'breaking' },
+    { url: 'https://decrypt.co/feed', category: 'analysis' },
+    { url: 'https://www.mk.co.kr/rss/40300001/', category: 'policy' },
+    { url: 'https://www.hankyung.com/feed/it', category: 'analysis' }
   ] as RSSSource[],
   categories: [
     { slug: 'breaking', name: { ko: '속보', en: 'Breaking', ja: '速報', zh: '快讯', es: 'Última hora', pt: 'Última hora', de: 'Eilmeldung', fr: 'Dernières', ar: 'عاجل', hi: 'ब्रेकिंग', id: 'Terbaru' } },
