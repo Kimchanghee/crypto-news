@@ -100,7 +100,7 @@ async function runCodex(prompt, timeoutMs = 180_000) {
   ];
   return new Promise((resolve, reject) => {
     console.log('[codex] spawn args:', JSON.stringify(args.slice(0, -1)));
-    const child = spawn('codex', args, { cwd: ROOT });
+    const child = spawn('codex', args, { cwd: ROOT, stdio: ['ignore', 'pipe', 'pipe'] });
     let out = '', err = '';
     child.stdout.on('data', d => {
       const s = d.toString();
@@ -198,7 +198,7 @@ async function rebuildSeed() {
 }
 
 async function main() {
-  console.log('=== codex-cron v6 (gpt-5.5 default) ===');
+  console.log('=== codex-cron v8 (stdin closed + gpt-5.5) ===');
   const channel = await loadChannel();
   console.log(`채널: ${channel.name} (${channel.id})  소스: ${channel.sources.length}`);
 
