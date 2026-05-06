@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#0e1116"/>
+    </linearGradient>
+    <pattern id="p" width="60" height="60" patternUnits="userSpaceOnUse">
+      <circle cx="30" cy="30" r="1.5" fill="rgba(255,255,255,0.15)"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect width="1200" height="630" fill="url(#p)"/>
+  <text x="60" y="560" font-family="-apple-system,Helvetica,sans-serif" font-size="42" font-weight="700" fill="white" letter-spacing="0.04em" opacity="0.95">MACRO</text>
+  <line x1="60" y1="495" x2="200" y2="495" stroke="white" stroke-width="3" opacity="0.9"/>
+</svg>
