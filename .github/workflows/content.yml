@@ -21,12 +21,13 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -68,27 +69,18 @@ jobs:
           MAX_ARTICLES: ${{ inputs.max_articles || '3' }}
         run: node scripts/codex-cron.mjs
 
-      - name: Commit & push if changed
+      - name: Commit & push if changed (with rebase retry)
         shell: bash
         run: |
           set +e
           echo "=== pwd ==="
           pwd
           echo "=== ls data/articles ==="
-          ls -la data/articles/ 2>&1 || echo "(no articles dir)"
-          echo "=== git status (before add) ==="
-          git status
-          echo "=== git config ==="
+          ls -la data/articles/ 2>&1 | head -30 || echo "(no articles dir)"
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          echo "=== git add data/ ==="
-          git add data/ 2>&1
-          echo "exit code: $?"
-          echo "=== git add public/images/ (optional) ==="
-          git add public/images/ 2>&1 || echo "(no public/images dir)"
-          echo "=== git diff --cached --name-only ==="
-          git diff --cached --name-only
-          STAGED=$(git diff --cached --name-only | head -50)
+          git add data/ public/images/ 2>&1
+          STAGED=$(git diff --cached --name-only | head -100)
           if [ -z "$STAGED" ]; then
             echo "변경 없음 — skip commit"
             exit 0
@@ -96,8 +88,18 @@ jobs:
           COUNT=$(echo "$STAGED" | grep -c 'data/articles/' || echo 0)
           echo "=== git commit (COUNT=$COUNT) ==="
           git commit -m "[bot] codex: ${COUNT}개 기사 생성"
-          echo "exit code: $?"
-          echo "=== git push ==="
-          git push 2>&1
-          echo "exit code: $?"
-          echo "✓ done"
+          
+          # Retry push with rebase up to 3 times
+          for i in 1 2 3; do
+            echo "=== push attempt $i ==="
+            git pull --rebase origin main 2>&1 | tail -10
+            git push 2>&1
+            if [ $? -eq 0 ]; then
+              echo "✓ pushed on attempt $i"
+              exit 0
+            fi
+            echo "push attempt $i failed, retrying..."
+            sleep 5
+          done
+          echo "::error::all push attempts failed"
+          exit 1
