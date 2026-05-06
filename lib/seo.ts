@@ -1,13 +1,27 @@
 /**
- * SEO / AEO / GEO helpers — JSON-LD generators and meta builders.
+ * SEO / AEO / GEO helpers — backwards-compatible with v10 schema (excerpt/body only).
  */
 import type { Metadata } from 'next';
-import type { GeneratedArticle, ArticleI18n } from './types';
+import type { GeneratedArticle } from './types';
 import type { Locale } from '@/i18n';
 import { locales, defaultLocale } from '@/i18n';
 import { channel } from '@/channel.config';
 
-const SITE_URL = process.env.SITE_URL || `https://${channel.domain}`;
+const SITE_URL = process.env.SITE_URL || `https://${(channel as any).domain || ''}`;
+
+function pickI18n(a: GeneratedArticle, locale: Locale): any {
+  return (a.i18n as any)[locale] ?? (a.i18n as any)[defaultLocale] ?? {};
+}
+
+function pickMetaDescription(i: any): string {
+  return (i.metaDescription || i.excerpt || i.summary || '').slice(0, 200);
+}
+
+function pickKeywords(i: any, a: GeneratedArticle): string {
+  if (Array.isArray(i.keywords) && i.keywords.length) return i.keywords.join(', ');
+  // Fallback: derive from category + sourceName
+  return [a.category, a.sourceName].filter(Boolean).join(', ');
+}
 
 export function alternateLanguages(path: string): Record<string, string> {
   const out: Record<string, string> = {};
@@ -17,11 +31,13 @@ export function alternateLanguages(path: string): Record<string, string> {
 }
 
 export function articleMetadata(a: GeneratedArticle, locale: Locale): Metadata {
-  const i = a.i18n[locale] ?? a.i18n[defaultLocale]!;
+  const i = pickI18n(a, locale);
   const url = `${SITE_URL}/${locale}/article/${a.slug}`;
+  const title = i.title || a.slug;
+  const desc = pickMetaDescription(i);
   return {
-    title: `${i.title} — ${channel.name}`,
-    description: i.metaDescription,
+    title: `${title} — ${channel.name}`,
+    description: desc,
     alternates: {
       canonical: url,
       languages: alternateLanguages(`/article/${a.slug}`)
@@ -29,49 +45,55 @@ export function articleMetadata(a: GeneratedArticle, locale: Locale): Metadata {
     openGraph: {
       type: 'article',
       url,
-      title: i.title,
-      description: i.metaDescription,
+      title,
+      description: desc,
       siteName: channel.name,
       locale,
       publishedTime: a.publishedAt,
       modifiedTime: a.updatedAt,
-      authors: [channel.name]
+      authors: [channel.name],
+      images: a.imageUrl ? [a.imageUrl] : [`${SITE_URL}/images/category-${a.category || 'breaking'}.svg`]
     },
-    twitter: { card: 'summary_large_image', title: i.title, description: i.metaDescription },
+    twitter: { card: 'summary_large_image', title, description: desc },
     robots: { index: true, follow: true }
   };
 }
 
 export function newsArticleJsonLd(a: GeneratedArticle, locale: Locale) {
-  const i = a.i18n[locale] ?? a.i18n[defaultLocale]!;
+  const i = pickI18n(a, locale);
   const url = `${SITE_URL}/${locale}/article/${a.slug}`;
+  const title = i.title || a.slug;
+  const desc = pickMetaDescription(i);
+  const heroImg = a.imageUrl || `${SITE_URL}/images/category-${a.category || 'breaking'}.svg`;
   return {
     '@context': 'https://schema.org',
     '@type': 'NewsArticle',
-    headline: i.title,
-    description: i.metaDescription,
+    headline: title,
+    description: desc,
     inLanguage: locale,
     datePublished: a.publishedAt,
     dateModified: a.updatedAt,
     mainEntityOfPage: url,
+    image: [heroImg],
     isAccessibleForFree: true,
     publisher: { '@type': 'Organization', name: channel.name, url: SITE_URL },
     author: { '@type': 'Organization', name: channel.name },
     articleSection: a.category,
-    keywords: i.keywords.join(', '),
-    spatialCoverage: { '@type': 'Place', name: channel.geo.country },
-    citation: { '@type': 'CreativeWork', name: a.sourceName, url: a.sourceUrl }
+    keywords: pickKeywords(i, a),
+    spatialCoverage: (channel as any).geo ? { '@type': 'Place', name: (channel as any).geo.country } : undefined,
+    citation: a.sourceUrl ? { '@type': 'CreativeWork', name: a.sourceName, url: a.sourceUrl } : undefined
   };
 }
 
-export function faqJsonLd(i: ArticleI18n) {
+export function faqJsonLd(i: any) {
+  const faqs = Array.isArray(i?.faq) ? i.faq : [];
   return {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: i.faq.map((f) => ({
+    mainEntity: faqs.map((f: any) => ({
       '@type': 'Question',
-      name: f.q,
-      acceptedAnswer: { '@type': 'Answer', text: f.a }
+      name: f?.q,
+      acceptedAnswer: { '@type': 'Answer', text: f?.a }
     }))
   };
 }
@@ -82,7 +104,7 @@ export function organizationJsonLd() {
     '@type': 'NewsMediaOrganization',
     name: channel.name,
     url: SITE_URL,
-    description: channel.description,
-    areaServed: { '@type': 'Country', name: channel.geo.country }
+    description: (channel as any).description || '',
+    areaServed: (channel as any).geo ? { '@type': 'Country', name: (channel as any).geo.country } : undefined
   };
 }
