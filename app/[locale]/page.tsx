@@ -11,24 +11,18 @@ export const revalidate = 60;
 export default async function Home({ params: { locale } }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale });
   const articles = await db.listLatest(channel.id, 24);
-
-  // Headline cards
   const [hero, ...rest] = articles;
-
-  // Use channel config directly (placeholders in messages files are unresolved)
   const channelName = (channel as any).name || '';
   const channelDesc = (channel as any).description || (channel as any).tagline || '';
 
   return (
     <div>
-      {/* SEO H1 — visible to search engines */}
       <header style={{ marginBottom: 20 }}>
         <h1 style={{ fontSize: 22, fontWeight: 700, lineHeight: 1.3, margin: 0, color: 'var(--ink)' }}>
           {channelName}{channelDesc ? ` — ${channelDesc}` : ''}
         </h1>
       </header>
 
-      {/* Hero */}
       <section style={{ display: 'grid', gridTemplateColumns: '2fr 1fr', gap: 24, marginBottom: 32 }}>
         <div>
           {hero ? (
@@ -44,7 +38,7 @@ export default async function Home({ params: { locale } }: { params: { locale: L
           <div style={{ height: 16 }} />
           <AdSlot
             network="adsterra"
-            zoneId={process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY}
+            zoneId={process.env.NEXT_PUBLIC_ADSTERRA_BANNER_300_KEY}
             format="banner"
             size={{ w: 300, h: 250 }}
           />
@@ -57,7 +51,6 @@ export default async function Home({ params: { locale } }: { params: { locale: L
         </aside>
       </section>
 
-      {/* Latest grid */}
       <section id="latest">
         <h2 style={{ fontSize: 20, fontWeight: 600, marginBottom: 14 }}>{t('nav.latest')}</h2>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16 }}>
@@ -66,6 +59,7 @@ export default async function Home({ params: { locale } }: { params: { locale: L
           ))}
         </div>
 
+        {/* In-feed native ad after 5th card */}
         <div style={{ margin: '20px 0' }}>
           <AdSlot
             network="adsterra"
@@ -75,7 +69,23 @@ export default async function Home({ params: { locale } }: { params: { locale: L
         </div>
 
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16 }}>
-          {rest.slice(5).map((a) => (
+          {rest.slice(5, 13).map((a) => (
+            <ArticleCard key={a.id} article={a} locale={locale} />
+          ))}
+        </div>
+
+        {/* 728x90 horizontal banner mid-page (desktop) */}
+        <div style={{ margin: '20px 0' }}>
+          <AdSlot
+            network="adsterra"
+            zoneId={process.env.NEXT_PUBLIC_ADSTERRA_BANNER_728_KEY}
+            format="banner"
+            size={{ w: 728, h: 90 }}
+          />
+        </div>
+
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16 }}>
+          {rest.slice(13).map((a) => (
             <ArticleCard key={a.id} article={a} locale={locale} />
           ))}
         </div>
