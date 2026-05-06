@@ -81,6 +81,34 @@ async function fetchRss(url) {
   return items;
 }
 
+async function resolveArticleUrl(url) {
+  // Google News의 redirect URL이면 실제 기사 URL로 따라감
+  if (!/news\.google\.com/.test(url)) return url;
+  try {
+    const ctrl = new AbortController();
+    const to = setTimeout(() => ctrl.abort(), 12000);
+    const r = await fetch(url, { headers: { 'user-agent': UA, 'accept': 'text/html' }, signal: ctrl.signal, redirect: 'follow' });
+    clearTimeout(to);
+    if (!r.ok) return url;
+    // 만약 fetch가 이미 redirect를 따라간 결과 URL이 google.com 아니면 그대로 사용
+    if (r.url && !/news\.google\.com/.test(r.url)) return r.url;
+    const html = await r.text();
+    // 1) meta refresh
+    let m = html.match(/<meta[^>]+http-equiv=["']refresh["'][^>]+content=["'][^;]*;\s*url=([^"']+)["']/i);
+    if (m && !/news\.google\.com/.test(m[1])) return m[1].replace(/&amp;/g,'&');
+    // 2) data-n-au attribute (Google News)
+    m = html.match(/data-n-au=["']([^"']+)["']/);
+    if (m && !/news\.google\.com/.test(m[1])) return m[1].replace(/&amp;/g,'&');
+    // 3) JavaScript 안의 redirect URL 패턴 (HTMLString.replace, location.replace 등)
+    m = html.match(/(?:location\.replace|window\.open|href=)\s*\(?\s*["'](https?:\/\/(?!news\.google\.com)[^"']+)["']/);
+    if (m) return m[1];
+    // 4) <a href="https://..."> 비-google 링크
+    m = html.match(/<a[^>]+href=["'](https?:\/\/(?!news\.google\.com|accounts\.google\.com|policies\.google)[^"']{30,})["']/);
+    if (m) return m[1];
+  } catch {}
+  return url;
+}
+
 async function fetchOgImage(articleUrl) {
   try {
     const ctrl = new AbortController();
@@ -148,7 +176,11 @@ async function fetchAndSaveImage(item, id) {
   // 1순위: RSS의 image, 2순위: 기사 페이지 og:image
   let candidate = item.rssImage;
   if (!candidate) {
-    candidate = await fetchOgImage(item.link);
+    const realUrl = await resolveArticleUrl(item.link);
+    candidate = await fetchOgImage(realUrl);
+    if (!candidate && realUrl !== item.link) {
+      candidate = await fetchOgImage(item.link);
+    }
   }
   if (!candidate) {
     console.log(`[img] no candidate for ${id}`);
@@ -165,7 +197,8 @@ async function fetchAndSaveImage(item, id) {
   }
   // 다운로드 실패 시 og:image도 fallback 시도
   if (candidate === item.rssImage) {
-    const og = await fetchOgImage(item.link);
+    const realUrl = await resolveArticleUrl(item.link);
+    const og = await fetchOgImage(realUrl);
     if (og && og !== candidate) {
       const ext2 = pickExt(og);
       const relPath2 = `public/images/articles/${id}.${ext2}`;
