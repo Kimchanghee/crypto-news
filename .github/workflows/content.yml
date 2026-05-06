@@ -1,0 +1,83 @@
+name: Content - Codex CLI 콘텐츠 자동 생성/이미지/커밋
+
+on:
+  schedule:
+    # ChatGPT 구독 rate-limit 보호: 1시간 간격 (5분은 Plus 한도 초과)
+    - cron: '7 */1 * * *'
+  workflow_dispatch:
+    inputs:
+      max_articles:
+        description: '이번 실행에서 새로 생성할 기사 최대 개수'
+        required: false
+        default: '3'
+
+permissions:
+  contents: write   # data/, public/images/ 커밋 push
+
+concurrency:
+  group: codex-content
+  cancel-in-progress: false   # 진행 중이면 다음 트리거 큐잉
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Restore Codex auth (ChatGPT 구독)
+        env:
+          CODEX_AUTH_JSON: ${{ secrets.CODEX_AUTH_JSON }}
+        run: |
+          if [ -z "$CODEX_AUTH_JSON" ]; then
+            echo "::error::CODEX_AUTH_JSON secret 없음. README의 setup 섹션 참고."
+            exit 1
+          fi
+          mkdir -p ~/.codex
+          printf '%s' "$CODEX_AUTH_JSON" > ~/.codex/auth.json
+          chmod 600 ~/.codex/auth.json
+          echo "auth.json restored ($(wc -c < ~/.codex/auth.json) bytes)"
+
+      - name: Install Codex CLI
+        run: |
+          npm i -g @openai/codex
+          codex --version
+
+      - name: Verify Codex auth
+        run: |
+          set -e
+          # 작은 핑으로 인증 확인 (응답이 짧음)
+          OUT=$(codex exec --json --sandbox read-only --skip-git-repo-check "Reply with the single word: ok" 2>&1 || true)
+          echo "$OUT" | head -50
+          if echo "$OUT" | grep -qi "auth\|login\|expired\|unauthorized"; then
+            echo "::error::Codex 인증 실패 — auth.json 만료/회전 가능. 로컬에서 'codex login' 다시 실행 후 secret 재업로드 필요."
+            exit 1
+          fi
+
+      - name: Install repo deps
+        run: npm install --legacy-peer-deps
+
+      - name: Generate content via codex
+        env:
+          MAX_ARTICLES: ${{ inputs.max_articles || '3' }}
+        run: node scripts/codex-cron.mjs
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/ public/images/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "변경 없음 — 신규 기사 0건"
+          else
+            COUNT=$(git diff --cached --name-only | grep -c 'data/articles/' || true)
+            git commit -m "[bot] codex: ${COUNT}개 기사 생성 + 이미지"
+            git push
+          fi
