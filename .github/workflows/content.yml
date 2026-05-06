@@ -9,7 +9,7 @@ on:
       max_articles:
         description: '이번 실행에서 새로 생성할 기사 최대 개수'
         required: false
-        default: '1'
+        default: '3'
 
 permissions:
   contents: write
