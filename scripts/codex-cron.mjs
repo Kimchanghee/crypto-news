@@ -75,7 +75,7 @@ function makeSlug(title) {
 
 async function runCodex(prompt, timeoutMs = 240_000) {
   // read-only sandbox = much faster (no permission checks/file ops)
-  const args = ['exec', '--json', '--sandbox', 'read-only', '--skip-git-repo-check', '--ignore-rules', prompt];
+  const args = ['exec', '--json', '--sandbox', 'read-only', '--skip-git-repo-check', '--model', 'gpt-5.5', '--ignore-rules', prompt];
   return new Promise((resolve, reject) => {
     const child = spawn('codex', args, { cwd: ROOT });
     let out = '', err = '';
