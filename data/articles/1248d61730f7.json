@@ -1,0 +1,75 @@
+{
+  "id": "1248d61730f7",
+  "slug": "bitcoins-post-quantum-migration-will-be-harder-than-taproot--600617",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-06T23:01:46.121Z",
+  "updatedAt": "2026-05-06T23:01:46.121Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says",
+  "titleFingerprint": "5c9f557c734d643fc5e23c162c096816541bca8a",
+  "dedupKeys": [
+    "1248d61730f72e91c7da8c440e73586d42f1d1b5",
+    "5c9f557c734d643fc5e23c162c096816541bca8a",
+    "ffd0d2cfba8487c30a9595181b4abae8af58294e"
+  ],
+  "imageUrl": "/images/articles/1248d61730f7.jpg",
+  "i18n": {
+    "ko": {
+      "title": "비트코인 포스트양자 전환, 탭루트보다 어렵다…지금 시작해야",
+      "excerpt": "프로젝트 일레븐 CEO 알렉스 프루든은 양자컴퓨팅 시점의 불확실성보다 선제 대응의 비대칭성이 커 비트코인 개발자가 지금 생산 단계로 옮겨야 한다고 말했다.",
+      "body": "프로젝트 일레븐 CEO 알렉스 프루든은 비트코인의 포스트양자 서명 체계 전환이 탭루트 업그레이드보다 더 어려울 수 있으며 지금 시작해야 한다고 밝혔다. 그는 양자컴퓨팅 하드웨어가 언제 충분히 발전할지 확실해질 때까지 기다리는 선택과, 지금 포스트양자 서명 방안을 추진하는 선택 사이에는 위험과 보상의 비대칭성이 있다고 설명했다. 배경은 비트코인 개발자들이 연구 단계에 머물러 있는 포스트양자 대응을 실제 생산 단계로 옮겨야 하는지에 대한 논의다. 프루든은 확실한 일정이 없더라도 준비를 늦추는 비용이 커질 수 있다는 점을 강조했다. 이는 향후 비트코인 보안 로드맵과 개발 우선순위에 영향을 줄 수 있다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Bitcoin Post-Quantum Shift Harder Than Taproot, CEO Says",
+      "excerpt": "Project Eleven CEO Alex Pruden said Bitcoin developers should move post-quantum signatures from research to production because waiting for certainty carries asymmetric risk.",
+      "body": "Project Eleven CEO Alex Pruden said Bitcoin’s move to a post-quantum signature scheme could be harder than the Taproot upgrade and needs to start now. He said there is an asymmetry between acting on a post-quantum signature approach today and waiting for certainty about when quantum-computing hardware will mature. The issue centers on whether Bitcoin developers should keep post-quantum work in research or move it toward production. Pruden argued that even without a firm hardware timeline, the cost of delaying preparation could grow. The debate may influence Bitcoin’s future security roadmap and developer priorities. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "ビットコインの耐量子移行、Taprootより難しいとCEO",
+      "excerpt": "Project ElevenのCEOアレックス・プルーデン氏は、量子計算機の時期を待つより今ポスト量子署名を本番段階へ進めるべきだと述べた。",
+      "body": "Project ElevenのCEOアレックス・プルーデン氏は、ビットコインのポスト量子署名方式への移行はTaprootアップグレードより難しくなる可能性があり、今始める必要があると述べた。同氏は、量子コンピューティングのハードウェアがいつ十分に成熟するか確実になるまで待つ選択と、現在ポスト量子署名案に取り組む選択の間には、リスクと見返りの非対称性があると説明した。背景には、ビットコイン開発者が研究段階にあるポスト量子対応を本番段階へ移すべきかという議論がある。明確な時期がなくても準備を遅らせるコストは大きくなり得るとの見方だ。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "比特币后量子迁移或比Taproot更难，CEO称应现在启动",
+      "excerpt": "Project Eleven首席执行官Alex Pruden表示，量子硬件时间表仍不确定，但比特币开发者应将后量子签名从研究推进到生产。",
+      "body": "Project Eleven首席执行官Alex Pruden表示，比特币向后量子签名方案迁移可能比Taproot升级更困难，并且需要现在开始。他说，在今天采取后量子签名行动与等待量子计算硬件时间表变得确定之间，风险和回报存在不对称性。相关背景是，比特币开发者是否应把仍处于研究阶段的后量子应对推进到生产阶段。Pruden强调，即使没有明确的硬件成熟时间，推迟准备的成本也可能上升。这一讨论可能影响比特币未来的安全路线图和开发优先级。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Migración poscuántica de Bitcoin será más difícil que Taproot",
+      "excerpt": "Alex Pruden, CEO de Project Eleven, dijo que los desarrolladores de Bitcoin deberían llevar las firmas poscuánticas de la investigación a producción por el riesgo de esperar.",
+      "body": "Alex Pruden, CEO de Project Eleven, dijo que la migración de Bitcoin a un esquema de firmas poscuánticas podría ser más difícil que la actualización Taproot y debe comenzar ahora. Explicó que existe una asimetría entre actuar hoy sobre una solución de firma poscuántica y esperar certeza sobre los plazos del hardware de computación cuántica. El contexto es el debate sobre si los desarrolladores de Bitcoin deben mantener esa respuesta en investigación o llevarla a producción. Pruden sostuvo que, aunque no haya una fecha clara para el hardware, el costo de retrasar la preparación puede aumentar. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Migração pós-quântica do Bitcoin será mais difícil que Taproot",
+      "excerpt": "Alex Pruden, CEO da Project Eleven, disse que desenvolvedores do Bitcoin devem levar assinaturas pós-quânticas da pesquisa à produção diante do risco de esperar.",
+      "body": "Alex Pruden, CEO da Project Eleven, afirmou que a migração do Bitcoin para um esquema de assinaturas pós-quânticas pode ser mais difícil que a atualização Taproot e precisa começar agora. Ele disse que há uma assimetria entre agir hoje sobre uma solução de assinatura pós-quântica e esperar certeza sobre o cronograma do hardware de computação quântica. O contexto é o debate sobre se desenvolvedores do Bitcoin devem manter essa resposta na pesquisa ou avançá-la para produção. Pruden destacou que, mesmo sem uma data clara para o hardware, o custo de adiar a preparação pode crescer. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Bitcoins Post-Quantum-Umstieg laut CEO schwieriger als Taproot",
+      "excerpt": "Project-Eleven-CEO Alex Pruden sagte, Bitcoin-Entwickler sollten Post-Quantum-Signaturen wegen asymmetrischer Risiken vom Forschungs- in den Produktionsmodus bringen.",
+      "body": "Alex Pruden, CEO von Project Eleven, sagte, Bitcoins Umstieg auf ein Post-Quantum-Signaturschema könne schwieriger werden als das Taproot-Upgrade und müsse jetzt beginnen. Er erklärte, zwischen dem heutigen Handeln bei Post-Quantum-Signaturen und dem Warten auf Gewissheit über Zeitpläne für Quantencomputing-Hardware bestehe eine Asymmetrie bei Risiko und Nutzen. Hintergrund ist die Frage, ob Bitcoin-Entwickler entsprechende Arbeiten in der Forschung belassen oder in Richtung Produktion verschieben sollten. Pruden betonte, dass die Kosten einer verzögerten Vorbereitung auch ohne festen Hardware-Zeitplan steigen könnten. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Bitcoin post-quantique plus difficile que Taproot, selon un CEO",
+      "excerpt": "Alex Pruden, CEO de Project Eleven, estime que les développeurs Bitcoin devraient passer les signatures post-quantiques de la recherche à la production face au risque d’attendre.",
+      "body": "Alex Pruden, CEO de Project Eleven, a déclaré que la migration de Bitcoin vers un schéma de signatures post-quantiques pourrait être plus difficile que la mise à niveau Taproot et devrait commencer maintenant. Il a expliqué qu’il existe une asymétrie entre agir aujourd’hui sur une solution de signature post-quantique et attendre des certitudes sur le calendrier du matériel de calcul quantique. Le débat porte sur le maintien de ces travaux au stade de la recherche ou leur passage en production par les développeurs Bitcoin. Selon Pruden, même sans calendrier matériel clair, le coût d’un retard de préparation pourrait augmenter. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "انتقال بيتكوين لما بعد الكم أصعب من تابروت، والرئيس التنفيذي يدعو للبدء",
+      "excerpt": "قال أليكس برودن، الرئيس التنفيذي لـProject Eleven، إن مطوري بيتكوين يجب أن ينقلوا توقيعات ما بعد الكم من البحث إلى الإنتاج بسبب مخاطر انتظار اليقين.",
+      "body": "قال أليكس برودن، الرئيس التنفيذي لـProject Eleven، إن انتقال بيتكوين إلى نظام توقيعات ما بعد الكم قد يكون أصعب من ترقية Taproot ويجب أن يبدأ الآن. وأوضح أن هناك عدم تماثل بين التحرك اليوم بشأن مخطط توقيع ما بعد الكم وبين انتظار اليقين حول توقيت نضج عتاد الحوسبة الكمومية. يدور السياق حول ما إذا كان على مطوري بيتكوين إبقاء الاستجابة لما بعد الكم في مرحلة البحث أم نقلها إلى الإنتاج. وشدد برودن على أن غياب جدول زمني مؤكد للعتاد لا يعني أن تأخير الاستعداد بلا تكلفة، إذ قد ترتفع كلفته. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "बिटकॉइन का पोस्ट-क्वांटम बदलाव Taproot से कठिन, CEO की चेतावनी",
+      "excerpt": "Project Eleven के CEO एलेक्स प्रूडेन ने कहा कि क्वांटम हार्डवेयर की निश्चित समयसीमा का इंतजार करने के बजाय Bitcoin डेवलपर्स को पोस्ट-क्वांटम सिग्नेचर उत्पादन में लाने चाहिए।",
+      "body": "Project Eleven के CEO एलेक्स प्रूडेन ने कहा कि बिटकॉइन को पोस्ट-क्वांटम सिग्नेचर स्कीम में ले जाना Taproot अपग्रेड से अधिक कठिन हो सकता है और इसे अभी शुरू करना चाहिए। उनके अनुसार, आज पोस्ट-क्वांटम सिग्नेचर पर कदम उठाने और क्वांटम-कंप्यूटिंग हार्डवेयर की समयसीमा पर निश्चितता का इंतजार करने के बीच जोखिम और लाभ की असमानता है। संदर्भ यह है कि Bitcoin डेवलपर्स पोस्ट-क्वांटम तैयारी को शोध तक सीमित रखें या उत्पादन चरण में ले जाएं। प्रूडेन ने जोर दिया कि हार्डवेयर की स्पष्ट तारीख न होने पर भी तैयारी टालने की लागत बढ़ सकती है। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Migrasi Post-Quantum Bitcoin Lebih Sulit dari Taproot, Kata CEO",
+      "excerpt": "CEO Project Eleven Alex Pruden mengatakan pengembang Bitcoin perlu memindahkan tanda tangan post-quantum dari riset ke produksi karena risiko menunggu kepastian terlalu besar.",
+      "body": "CEO Project Eleven Alex Pruden mengatakan migrasi Bitcoin ke skema tanda tangan post-quantum bisa lebih sulit daripada upgrade Taproot dan perlu dimulai sekarang. Ia menjelaskan ada asimetri antara bertindak hari ini pada skema tanda tangan post-quantum dan menunggu kepastian tentang lini masa perangkat keras komputasi kuantum. Konteksnya adalah apakah pengembang Bitcoin harus mempertahankan upaya post-quantum di tahap riset atau membawanya ke produksi. Pruden menekankan bahwa meski belum ada jadwal perangkat keras yang pasti, biaya menunda persiapan dapat meningkat. Sumber: coindesk.com"
+    }
+  }
+}

@@ -1,5 +1,230 @@
 [
   {
+    "id": "1248d61730f7",
+    "slug": "bitcoins-post-quantum-migration-will-be-harder-than-taproot--600617",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T23:01:46.121Z",
+    "updatedAt": "2026-05-06T23:01:46.121Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says",
+    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says",
+    "titleFingerprint": "5c9f557c734d643fc5e23c162c096816541bca8a",
+    "dedupKeys": [
+      "1248d61730f72e91c7da8c440e73586d42f1d1b5",
+      "5c9f557c734d643fc5e23c162c096816541bca8a",
+      "ffd0d2cfba8487c30a9595181b4abae8af58294e"
+    ],
+    "imageUrl": "/images/articles/1248d61730f7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 포스트양자 전환, 탭루트보다 어렵다…지금 시작해야",
+        "excerpt": "프로젝트 일레븐 CEO 알렉스 프루든은 양자컴퓨팅 시점의 불확실성보다 선제 대응의 비대칭성이 커 비트코인 개발자가 지금 생산 단계로 옮겨야 한다고 말했다.",
+        "body": "프로젝트 일레븐 CEO 알렉스 프루든은 비트코인의 포스트양자 서명 체계 전환이 탭루트 업그레이드보다 더 어려울 수 있으며 지금 시작해야 한다고 밝혔다. 그는 양자컴퓨팅 하드웨어가 언제 충분히 발전할지 확실해질 때까지 기다리는 선택과, 지금 포스트양자 서명 방안을 추진하는 선택 사이에는 위험과 보상의 비대칭성이 있다고 설명했다. 배경은 비트코인 개발자들이 연구 단계에 머물러 있는 포스트양자 대응을 실제 생산 단계로 옮겨야 하는지에 대한 논의다. 프루든은 확실한 일정이 없더라도 준비를 늦추는 비용이 커질 수 있다는 점을 강조했다. 이는 향후 비트코인 보안 로드맵과 개발 우선순위에 영향을 줄 수 있다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Bitcoin Post-Quantum Shift Harder Than Taproot, CEO Says",
+        "excerpt": "Project Eleven CEO Alex Pruden said Bitcoin developers should move post-quantum signatures from research to production because waiting for certainty carries asymmetric risk.",
+        "body": "Project Eleven CEO Alex Pruden said Bitcoin’s move to a post-quantum signature scheme could be harder than the Taproot upgrade and needs to start now. He said there is an asymmetry between acting on a post-quantum signature approach today and waiting for certainty about when quantum-computing hardware will mature. The issue centers on whether Bitcoin developers should keep post-quantum work in research or move it toward production. Pruden argued that even without a firm hardware timeline, the cost of delaying preparation could grow. The debate may influence Bitcoin’s future security roadmap and developer priorities. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "ビットコインの耐量子移行、Taprootより難しいとCEO",
+        "excerpt": "Project ElevenのCEOアレックス・プルーデン氏は、量子計算機の時期を待つより今ポスト量子署名を本番段階へ進めるべきだと述べた。",
+        "body": "Project ElevenのCEOアレックス・プルーデン氏は、ビットコインのポスト量子署名方式への移行はTaprootアップグレードより難しくなる可能性があり、今始める必要があると述べた。同氏は、量子コンピューティングのハードウェアがいつ十分に成熟するか確実になるまで待つ選択と、現在ポスト量子署名案に取り組む選択の間には、リスクと見返りの非対称性があると説明した。背景には、ビットコイン開発者が研究段階にあるポスト量子対応を本番段階へ移すべきかという議論がある。明確な時期がなくても準備を遅らせるコストは大きくなり得るとの見方だ。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "比特币后量子迁移或比Taproot更难，CEO称应现在启动",
+        "excerpt": "Project Eleven首席执行官Alex Pruden表示，量子硬件时间表仍不确定，但比特币开发者应将后量子签名从研究推进到生产。",
+        "body": "Project Eleven首席执行官Alex Pruden表示，比特币向后量子签名方案迁移可能比Taproot升级更困难，并且需要现在开始。他说，在今天采取后量子签名行动与等待量子计算硬件时间表变得确定之间，风险和回报存在不对称性。相关背景是，比特币开发者是否应把仍处于研究阶段的后量子应对推进到生产阶段。Pruden强调，即使没有明确的硬件成熟时间，推迟准备的成本也可能上升。这一讨论可能影响比特币未来的安全路线图和开发优先级。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Migración poscuántica de Bitcoin será más difícil que Taproot",
+        "excerpt": "Alex Pruden, CEO de Project Eleven, dijo que los desarrolladores de Bitcoin deberían llevar las firmas poscuánticas de la investigación a producción por el riesgo de esperar.",
+        "body": "Alex Pruden, CEO de Project Eleven, dijo que la migración de Bitcoin a un esquema de firmas poscuánticas podría ser más difícil que la actualización Taproot y debe comenzar ahora. Explicó que existe una asimetría entre actuar hoy sobre una solución de firma poscuántica y esperar certeza sobre los plazos del hardware de computación cuántica. El contexto es el debate sobre si los desarrolladores de Bitcoin deben mantener esa respuesta en investigación o llevarla a producción. Pruden sostuvo que, aunque no haya una fecha clara para el hardware, el costo de retrasar la preparación puede aumentar. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Migração pós-quântica do Bitcoin será mais difícil que Taproot",
+        "excerpt": "Alex Pruden, CEO da Project Eleven, disse que desenvolvedores do Bitcoin devem levar assinaturas pós-quânticas da pesquisa à produção diante do risco de esperar.",
+        "body": "Alex Pruden, CEO da Project Eleven, afirmou que a migração do Bitcoin para um esquema de assinaturas pós-quânticas pode ser mais difícil que a atualização Taproot e precisa começar agora. Ele disse que há uma assimetria entre agir hoje sobre uma solução de assinatura pós-quântica e esperar certeza sobre o cronograma do hardware de computação quântica. O contexto é o debate sobre se desenvolvedores do Bitcoin devem manter essa resposta na pesquisa ou avançá-la para produção. Pruden destacou que, mesmo sem uma data clara para o hardware, o custo de adiar a preparação pode crescer. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Bitcoins Post-Quantum-Umstieg laut CEO schwieriger als Taproot",
+        "excerpt": "Project-Eleven-CEO Alex Pruden sagte, Bitcoin-Entwickler sollten Post-Quantum-Signaturen wegen asymmetrischer Risiken vom Forschungs- in den Produktionsmodus bringen.",
+        "body": "Alex Pruden, CEO von Project Eleven, sagte, Bitcoins Umstieg auf ein Post-Quantum-Signaturschema könne schwieriger werden als das Taproot-Upgrade und müsse jetzt beginnen. Er erklärte, zwischen dem heutigen Handeln bei Post-Quantum-Signaturen und dem Warten auf Gewissheit über Zeitpläne für Quantencomputing-Hardware bestehe eine Asymmetrie bei Risiko und Nutzen. Hintergrund ist die Frage, ob Bitcoin-Entwickler entsprechende Arbeiten in der Forschung belassen oder in Richtung Produktion verschieben sollten. Pruden betonte, dass die Kosten einer verzögerten Vorbereitung auch ohne festen Hardware-Zeitplan steigen könnten. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Bitcoin post-quantique plus difficile que Taproot, selon un CEO",
+        "excerpt": "Alex Pruden, CEO de Project Eleven, estime que les développeurs Bitcoin devraient passer les signatures post-quantiques de la recherche à la production face au risque d’attendre.",
+        "body": "Alex Pruden, CEO de Project Eleven, a déclaré que la migration de Bitcoin vers un schéma de signatures post-quantiques pourrait être plus difficile que la mise à niveau Taproot et devrait commencer maintenant. Il a expliqué qu’il existe une asymétrie entre agir aujourd’hui sur une solution de signature post-quantique et attendre des certitudes sur le calendrier du matériel de calcul quantique. Le débat porte sur le maintien de ces travaux au stade de la recherche ou leur passage en production par les développeurs Bitcoin. Selon Pruden, même sans calendrier matériel clair, le coût d’un retard de préparation pourrait augmenter. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "انتقال بيتكوين لما بعد الكم أصعب من تابروت، والرئيس التنفيذي يدعو للبدء",
+        "excerpt": "قال أليكس برودن، الرئيس التنفيذي لـProject Eleven، إن مطوري بيتكوين يجب أن ينقلوا توقيعات ما بعد الكم من البحث إلى الإنتاج بسبب مخاطر انتظار اليقين.",
+        "body": "قال أليكس برودن، الرئيس التنفيذي لـProject Eleven، إن انتقال بيتكوين إلى نظام توقيعات ما بعد الكم قد يكون أصعب من ترقية Taproot ويجب أن يبدأ الآن. وأوضح أن هناك عدم تماثل بين التحرك اليوم بشأن مخطط توقيع ما بعد الكم وبين انتظار اليقين حول توقيت نضج عتاد الحوسبة الكمومية. يدور السياق حول ما إذا كان على مطوري بيتكوين إبقاء الاستجابة لما بعد الكم في مرحلة البحث أم نقلها إلى الإنتاج. وشدد برودن على أن غياب جدول زمني مؤكد للعتاد لا يعني أن تأخير الاستعداد بلا تكلفة، إذ قد ترتفع كلفته. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "बिटकॉइन का पोस्ट-क्वांटम बदलाव Taproot से कठिन, CEO की चेतावनी",
+        "excerpt": "Project Eleven के CEO एलेक्स प्रूडेन ने कहा कि क्वांटम हार्डवेयर की निश्चित समयसीमा का इंतजार करने के बजाय Bitcoin डेवलपर्स को पोस्ट-क्वांटम सिग्नेचर उत्पादन में लाने चाहिए।",
+        "body": "Project Eleven के CEO एलेक्स प्रूडेन ने कहा कि बिटकॉइन को पोस्ट-क्वांटम सिग्नेचर स्कीम में ले जाना Taproot अपग्रेड से अधिक कठिन हो सकता है और इसे अभी शुरू करना चाहिए। उनके अनुसार, आज पोस्ट-क्वांटम सिग्नेचर पर कदम उठाने और क्वांटम-कंप्यूटिंग हार्डवेयर की समयसीमा पर निश्चितता का इंतजार करने के बीच जोखिम और लाभ की असमानता है। संदर्भ यह है कि Bitcoin डेवलपर्स पोस्ट-क्वांटम तैयारी को शोध तक सीमित रखें या उत्पादन चरण में ले जाएं। प्रूडेन ने जोर दिया कि हार्डवेयर की स्पष्ट तारीख न होने पर भी तैयारी टालने की लागत बढ़ सकती है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Migrasi Post-Quantum Bitcoin Lebih Sulit dari Taproot, Kata CEO",
+        "excerpt": "CEO Project Eleven Alex Pruden mengatakan pengembang Bitcoin perlu memindahkan tanda tangan post-quantum dari riset ke produksi karena risiko menunggu kepastian terlalu besar.",
+        "body": "CEO Project Eleven Alex Pruden mengatakan migrasi Bitcoin ke skema tanda tangan post-quantum bisa lebih sulit daripada upgrade Taproot dan perlu dimulai sekarang. Ia menjelaskan ada asimetri antara bertindak hari ini pada skema tanda tangan post-quantum dan menunggu kepastian tentang lini masa perangkat keras komputasi kuantum. Konteksnya adalah apakah pengembang Bitcoin harus mempertahankan upaya post-quantum di tahap riset atau membawanya ke produksi. Pruden menekankan bahwa meski belum ada jadwal perangkat keras yang pasti, biaya menunda persiapan dapat meningkat. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "6db6b0e98518",
+    "slug": "cryptos-mainstream-moment-has-arrived-say-industry-leaders-s-155866",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T23:00:57.936Z",
+    "updatedAt": "2026-05-06T23:00:57.936Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/06/crypto-s-mainstream-moment-has-arrived-say-industry-leaders-speaking-at-consensus-miami",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/crypto-s-mainstream-moment-has-arrived-say-industry-leaders-speaking-at-consensus-miami",
+    "titleFingerprint": "dac89b52a2f11705f72739d1be07b14a005d7c62",
+    "dedupKeys": [
+      "6db6b0e9851897df6aee82c9e3ebf5d46078b579",
+      "dac89b52a2f11705f72739d1be07b14a005d7c62",
+      "5a4a02a424948eb0c375c1063fdef45d1ed348ab"
+    ],
+    "imageUrl": "/images/articles/6db6b0e98518.jpg",
+    "i18n": {
+      "ko": {
+        "title": "크립토 주류화 가속, Binance·Revolut·Circle이 본 금융 인프라 전환",
+        "excerpt": "Consensus Miami에서 Binance, Revolut, Circle 임원들은 크립토가 투기 자산을 넘어 결제·송금·글로벌 금융 접근을 뒷받침하는 인프라로 진화하고 있다고 밝혔다.",
+        "body": "Consensus Miami에서 Binance, Revolut, Circle 임원들은 크립토가 주류 금융의 전면에 가까워졌다고 평가했다. 이들은 크립토가 단순한 가격 투기나 투자 테마를 넘어 결제, 송금, 더 넓은 글로벌 금융 접근성을 가능하게 하는 기반 인프라로 발전하고 있다고 설명했다. 배경에는 디지털 자산과 스테이블코인, 글로벌 플랫폼이 실생활 금융 흐름에 연결되는 변화가 있다. 업계 리더들은 이러한 흐름이 크립토의 역할을 금융 서비스의 보조 수단에서 핵심 배관으로 넓히고 있다고 봤다. 다만 원문은 구체적 수치나 신규 발표보다 산업 인식의 변화를 강조했다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Crypto Goes Mainstream as Binance, Revolut and Circle See Infrastructure Shift",
+        "excerpt": "At Consensus Miami, executives from Binance, Revolut and Circle said crypto is moving beyond speculation into infrastructure for payments, remittances and global access.",
+        "body": "At Consensus Miami, executives from Binance, Revolut and Circle said crypto is moving closer to the center of mainstream finance. They described the industry as evolving beyond price speculation or investment narratives into financial infrastructure that supports payments, remittances and broader global access. The context is a shift in which digital assets, stablecoins and global platforms are becoming linked to everyday financial flows. Industry leaders said this trend is expanding crypto’s role from a supporting financial tool to core infrastructure. The original report emphasized the change in industry perception rather than specific figures or new product announcements. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "暗号資産の主流化進む、Binance・Revolut・Circleが語る金融インフラ化",
+        "excerpt": "Consensus MiamiでBinance、Revolut、Circleの幹部は、暗号資産が投機を超え、決済・送金・世界的な金融アクセスを支えるインフラへ進化していると述べた。",
+        "body": "Consensus MiamiでBinance、Revolut、Circleの幹部は、暗号資産が主流金融の中心に近づいていると評価した。彼らは、暗号資産が単なる価格投機や投資テーマを超え、決済、送金、より広い世界的な金融アクセスを可能にする基盤インフラへ発展していると説明した。背景には、デジタル資産、ステーブルコイン、グローバルプラットフォームが日常的な金融の流れと結びつきつつある変化がある。業界リーダーは、この流れが暗号資産の役割を補助的な金融手段から中核インフラへ広げていると見ている。原文は具体的な数値や新発表より、業界認識の変化を強調した。出典: coindesk.com。"
+      },
+      "zh": {
+        "title": "加密货币走向主流，Binance、Revolut与Circle看好金融基础设施转型",
+        "excerpt": "在Consensus Miami上，Binance、Revolut和Circle高管表示，加密货币正超越投机，成为支撑支付、汇款和全球金融可及性的基础设施。",
+        "body": "在Consensus Miami上，Binance、Revolut和Circle的高管表示，加密货币正更加接近主流金融的核心。他们认为，加密货币不再只是价格投机或投资主题，而是在发展为支持支付、汇款以及更广泛全球金融可及性的基础设施。其背景是数字资产、稳定币和全球平台正在与日常金融流动相连接。行业领导者认为，这一趋势正在把加密货币的角色从辅助性金融工具扩展为核心基础设施。原文强调的是行业认知的变化，而不是具体数据或新的产品发布。来源: coindesk.com。"
+      },
+      "es": {
+        "title": "Cripto entra en la corriente principal, según Binance, Revolut y Circle",
+        "excerpt": "En Consensus Miami, ejecutivos de Binance, Revolut y Circle dijeron que cripto supera la especulación y avanza como infraestructura para pagos, remesas y acceso global.",
+        "body": "En Consensus Miami, ejecutivos de Binance, Revolut y Circle afirmaron que cripto se acerca al centro de las finanzas tradicionales. Según explicaron, el sector está dejando de ser solo una apuesta de precio o una narrativa de inversión para convertirse en infraestructura financiera que respalda pagos, remesas y un acceso global más amplio. El contexto es un cambio en el que activos digitales, stablecoins y plataformas globales se conectan con flujos financieros cotidianos. Los líderes del sector consideran que esta tendencia amplía el papel de cripto desde una herramienta financiera complementaria hacia infraestructura central. El reporte original destacó el cambio de percepción de la industria más que cifras concretas o nuevos anuncios. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Cripto avança ao mainstream, dizem Binance, Revolut e Circle",
+        "excerpt": "No Consensus Miami, executivos da Binance, Revolut e Circle disseram que cripto vai além da especulação e vira infraestrutura para pagamentos, remessas e acesso global.",
+        "body": "No Consensus Miami, executivos da Binance, Revolut e Circle disseram que cripto está se aproximando do centro das finanças tradicionais. Eles explicaram que o setor está evoluindo para além da especulação de preços ou de uma tese de investimento, tornando-se infraestrutura financeira para pagamentos, remessas e acesso global mais amplo. O pano de fundo é uma mudança em que ativos digitais, stablecoins e plataformas globais passam a se conectar aos fluxos financeiros do dia a dia. Para os líderes do setor, essa tendência amplia o papel de cripto de ferramenta financeira auxiliar para infraestrutura central. O texto original enfatizou a mudança de percepção da indústria, não números específicos ou novos anúncios. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Krypto wird Mainstream: Binance, Revolut und Circle sehen Infrastrukturwandel",
+        "excerpt": "Auf der Consensus Miami sagten Führungskräfte von Binance, Revolut und Circle, Krypto entwickle sich über Spekulation hinaus zur Infrastruktur für Zahlungen, Überweisungen und globalen Zugang.",
+        "body": "Auf der Consensus Miami erklärten Führungskräfte von Binance, Revolut und Circle, dass Krypto näher an das Zentrum der etablierten Finanzwelt rückt. Sie beschrieben die Branche als Entwicklung über reine Preisspekulation oder Anlagethemen hinaus hin zu Finanzinfrastruktur für Zahlungen, Überweisungen und breiteren globalen Zugang. Hintergrund ist ein Wandel, bei dem digitale Vermögenswerte, Stablecoins und globale Plattformen mit alltäglichen Finanzströmen verbunden werden. Branchenführer sehen darin eine Ausweitung der Rolle von Krypto: von einem ergänzenden Finanzinstrument zu zentraler Infrastruktur. Der Originalbericht betonte vor allem den Wahrnehmungswandel in der Branche, nicht konkrete Zahlen oder neue Ankündigungen. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "La crypto devient grand public, selon Binance, Revolut et Circle",
+        "excerpt": "À Consensus Miami, des dirigeants de Binance, Revolut et Circle ont dit que la crypto dépasse la spéculation pour devenir une infrastructure de paiements, transferts et accès mondial.",
+        "body": "À Consensus Miami, des dirigeants de Binance, Revolut et Circle ont estimé que la crypto se rapprochait du cœur de la finance grand public. Ils ont expliqué que le secteur évolue au-delà de la spéculation sur les prix ou du simple thème d’investissement pour devenir une infrastructure financière soutenant les paiements, les transferts de fonds et un accès mondial plus large. Le contexte est celui d’un changement où actifs numériques, stablecoins et plateformes mondiales se relient aux flux financiers du quotidien. Les leaders du secteur considèrent que cette tendance élargit le rôle de la crypto, d’un outil financier complémentaire vers une infrastructure centrale. Le texte original mettait l’accent sur l’évolution de la perception du secteur plutôt que sur des chiffres précis ou de nouvelles annonces. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "العملات المشفرة تقترب من التيار المالي الرئيسي برؤية Binance وRevolut وCircle",
+        "excerpt": "في Consensus Miami، قال مسؤولون من Binance وRevolut وCircle إن العملات المشفرة تتجاوز المضاربة لتصبح بنية تحتية للمدفوعات والتحويلات والوصول المالي العالمي.",
+        "body": "في Consensus Miami، قال مسؤولون تنفيذيون من Binance وRevolut وCircle إن العملات المشفرة باتت أقرب إلى قلب التمويل السائد. وأوضحوا أن القطاع يتطور متجاوزا المضاربة على الأسعار أو كونه مجرد موضوع استثماري، ليصبح بنية تحتية مالية تدعم المدفوعات والتحويلات وإتاحة وصول أوسع إلى الخدمات المالية عالميا. وتأتي هذه الرؤية في سياق تحول ترتبط فيه الأصول الرقمية والعملات المستقرة والمنصات العالمية بتدفقات مالية يومية. ويرى قادة الصناعة أن هذا الاتجاه يوسع دور العملات المشفرة من أداة مالية مساعدة إلى بنية أساسية محورية. وركز النص الأصلي على تغير نظرة الصناعة أكثر من الأرقام المحددة أو الإعلانات الجديدة. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "क्रिप्टो मुख्यधारा की ओर, Binance, Revolut और Circle ने बताया इन्फ्रास्ट्रक्चर बदलाव",
+        "excerpt": "Consensus Miami में Binance, Revolut और Circle के अधिकारियों ने कहा कि क्रिप्टो सट्टेबाजी से आगे बढ़कर भुगतान, रेमिटेंस और वैश्विक पहुंच की वित्तीय संरचना बन रहा है।",
+        "body": "Consensus Miami में Binance, Revolut और Circle के अधिकारियों ने कहा कि क्रिप्टो मुख्यधारा की वित्तीय व्यवस्था के केंद्र के करीब पहुंच रहा है। उनके अनुसार, यह क्षेत्र केवल कीमतों की सट्टेबाजी या निवेश कथा से आगे बढ़कर ऐसी वित्तीय आधारभूत संरचना बन रहा है जो भुगतान, रेमिटेंस और व्यापक वैश्विक वित्तीय पहुंच को सहारा देती है। इसके पीछे वह बदलाव है जिसमें डिजिटल एसेट, स्टेबलकॉइन और वैश्विक प्लेटफॉर्म रोजमर्रा के वित्तीय प्रवाह से जुड़ रहे हैं। उद्योग नेताओं का मानना है कि यह रुझान क्रिप्टो की भूमिका को सहायक वित्तीय साधन से केंद्रीय ढांचे तक बढ़ा रहा है। मूल रिपोर्ट ने खास आंकड़ों या नई घोषणाओं से अधिक उद्योग की धारणा में बदलाव पर जोर दिया। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Kripto Masuk Arus Utama, Binance, Revolut dan Circle Soroti Peran Infrastruktur",
+        "excerpt": "Di Consensus Miami, eksekutif Binance, Revolut dan Circle mengatakan kripto bergerak melampaui spekulasi menjadi infrastruktur pembayaran, remitansi dan akses global.",
+        "body": "Di Consensus Miami, eksekutif Binance, Revolut dan Circle menilai kripto semakin dekat dengan pusat keuangan arus utama. Mereka menjelaskan bahwa kripto tidak lagi hanya terkait spekulasi harga atau tema investasi, tetapi berkembang menjadi infrastruktur keuangan yang menopang pembayaran, remitansi dan akses global yang lebih luas. Latar belakangnya adalah perubahan ketika aset digital, stablecoin dan platform global mulai terhubung dengan arus keuangan sehari-hari. Para pemimpin industri melihat tren ini memperluas peran kripto dari alat keuangan pelengkap menjadi infrastruktur inti. Naskah asli menekankan perubahan persepsi industri, bukan angka spesifik atau pengumuman baru. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "89405cb9275e",
+    "slug": "ai-agents-becoming-more-relevant-than-humans-by-2035-has-big-679952",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-06T23:00:06.450Z",
+    "updatedAt": "2026-05-06T23:00:06.450Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/06/ai-agents-will-become-more-relevant-than-humans-by-2035-says-charles-hoskinson",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/ai-agents-will-become-more-relevant-than-humans-by-2035-says-charles-hoskinson",
+    "titleFingerprint": "136b1586b515913e51fd8c5ed35127a70dbc3bbc",
+    "dedupKeys": [
+      "89405cb9275e7d909a500411063a53573b42b522",
+      "136b1586b515913e51fd8c5ed35127a70dbc3bbc",
+      "0ad15c260b87976c29fb32d42946cad0545b3c54"
+    ],
+    "imageUrl": "/images/articles/89405cb9275e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 에이전트 2035년 인간보다 중요해질까, 호스킨슨 발언 주목",
+        "excerpt": "카르다노 Input Output의 창업자 겸 CEO 찰스 호스킨슨은 2035년 AI 에이전트가 인간보다 더 중요해질 수 있으며, 광고 대응 방식 때문에 빅테크가 긴장하고 있다고 말했다.",
+        "body": "카르다노 개발사 Input Output의 창업자 겸 CEO 찰스 호스킨슨은 2035년까지 AI 에이전트가 인간보다 더 관련성 있는 존재가 될 수 있다고 말했다. 그는 구글, 아마존, 페이스북이 이 변화에 ‘두려움을 느끼고 있다’고 언급했다. 배경에는 광고 중심 인터넷 경제가 있다. 호스킨슨은 AI 에이전트가 광고를 마주했을 때 인간처럼 행동하지 않을 것이라고 봤다. 이는 이용자의 관심과 클릭을 전제로 한 기존 광고 모델에 영향을 줄 수 있다. AI 에이전트의 역할이 커질수록 빅테크 플랫폼의 광고 전략도 재검토될 가능성이 있다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "AI Agents Could Outrank Humans by 2035, Hoskinson Warns Big Tech",
+        "excerpt": "Cardano Input Output founder and CEO Charles Hoskinson said AI agents could become more relevant than humans by 2035, unsettling Big Tech because they do not respond to ads like people.",
+        "body": "Charles Hoskinson, founder and CEO of Cardano developer Input Output, said AI agents could become more relevant than humans by 2035. He said Google, Amazon and Facebook are “terrified” by this shift. The context is the ad-driven internet economy. According to Hoskinson, AI agents will not behave like humans when confronted with ads. That could affect existing advertising models built around user attention and clicks. As AI agents take on a larger role, Big Tech platforms may need to reassess their advertising strategies. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "AIエージェント、2035年に人間超えも ホスキンソン氏が警鐘",
+        "excerpt": "カルダノのInput Output創業者兼CEOチャールズ・ホスキンソン氏は、AIエージェントが2035年までに人間以上に重要になり、広告への反応の違いでビッグテックが警戒していると述べた。",
+        "body": "カルダノ開発企業Input Outputの創業者兼CEOであるチャールズ・ホスキンソン氏は、2035年までにAIエージェントが人間よりも関連性の高い存在になる可能性があると述べた。同氏は、グーグル、アマゾン、フェイスブックがこの変化に「恐怖を感じている」と語った。背景にあるのは広告中心のインターネット経済だ。ホスキンソン氏によれば、AIエージェントは広告に直面しても人間のようには行動しない。これは利用者の関心やクリックを前提にした既存の広告モデルに影響を与え得る。AIエージェントの役割が拡大すれば、ビッグテックの広告戦略も見直しを迫られる可能性がある。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "AI代理到2035年或比人类更重要，Hoskinson称巨头担忧",
+        "excerpt": "Cardano旗下Input Output创始人兼CEO Charles Hoskinson表示，到2035年AI代理可能比人类更具相关性，因其面对广告时不会像人类一样反应，令科技巨头紧张。",
+        "body": "Cardano开发公司Input Output创始人兼CEO Charles Hoskinson表示，到2035年，AI代理可能成为比人类更具相关性的存在。他称，Google、Amazon和Facebook正因这一变化而“感到恐惧”。其背景是以广告为核心的互联网经济。Hoskinson认为，AI代理在面对广告时不会像人类那样行动。这可能影响建立在用户注意力和点击之上的现有广告模式。随着AI代理角色扩大，科技巨头平台的广告策略也可能需要重新评估。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Agentes de IA podrían superar a humanos en 2035, advierte Hoskinson",
+        "excerpt": "Charles Hoskinson, fundador y CEO de Input Output de Cardano, dijo que los agentes de IA podrían ser más relevantes que los humanos en 2035 y preocupar a Big Tech por su reacción ante anuncios.",
+        "body": "Charles Hoskinson, fundador y CEO de Input Output, la empresa desarrolladora de Cardano, dijo que los agentes de IA podrían volverse más relevantes que los humanos para 2035. Señaló que Google, Amazon y Facebook están “aterrorizadas” por este cambio. El contexto es la economía de internet basada en publicidad. Según Hoskinson, los agentes de IA no se comportarán como los humanos cuando se enfrenten a anuncios. Esto podría afectar los modelos publicitarios existentes, basados en la atención y los clics de los usuarios. A medida que crezca el papel de los agentes de IA, las plataformas de Big Tech podrían tener que revisar sus estrategias publicitarias. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Agentes de IA podem superar humanos em 2035, diz Hoskinson",
+        "excerpt": "Charles Hoskinson, fundador e CEO da Input Output da Cardano, disse que agentes de IA podem ser mais relevantes que humanos até 2035, preocupando Big Tech pela forma como reagem a anúncios.",
+        "body": "Charles Hoskinson, fundador e CEO da Input Output, desenvolvedora da Cardano, afirmou que agentes de IA podem se tornar mais relevantes que humanos até 2035. Ele disse que Google, Amazon e Facebook estão “aterrorizadas” com essa mudança. O pano de fundo é a economia da internet baseada em publicidade. Segundo Hoskinson, agentes de IA não se comportarão como humanos quando confrontados com anúncios. Isso pode afetar modelos de publicidade existentes, sustentados pela atenção e pelos cliques dos usuários. À medida que o papel dos agentes de IA crescer, plataformas de Big Tech poderão precisar reavaliar suas estratégias de anúncios. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "KI-Agenten könnten Menschen bis 2035 überholen, warnt Hoskinson",
+        "excerpt": "Charles Hoskinson, Gründer und CEO von Cardanos Input Output, sagte, KI-Agenten könnten bis 2035 relevanter als Menschen werden und Big Tech beunruhigen, weil sie auf Werbung anders reagieren.",
+        "body": "Charles Hoskinson, Gründer und CEO des Cardano-Entwicklers Input Output, sagte, KI-Agenten könnten bis 2035 relevanter werden als Menschen. Er erklärte, Google, Amazon und Facebook seien von diesem Wandel „verängstigt“. Hintergrund ist die werbefinanzierte Internetwirtschaft. Hoskinson zufolge werden KI-Agenten nicht wie Menschen handeln, wenn sie mit Werbung konfrontiert werden. Das könnte bestehende Werbemodelle beeinflussen, die auf Aufmerksamkeit und Klicks der Nutzer setzen. Wenn die Rolle von KI-Agenten wächst, könnten Big-Tech-Plattformen ihre Werbestrategien neu bewerten müssen. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Les agents IA pourraient dépasser l’humain d’ici 2035, dit Hoskinson",
+        "excerpt": "Charles Hoskinson, fondateur et CEO d’Input Output de Cardano, a déclaré que les agents IA pourraient devenir plus pertinents que les humains d’ici 2035, inquiétant Big Tech face à leur réaction aux publicités.",
+        "body": "Charles Hoskinson, fondateur et CEO d’Input Output, la société de développement de Cardano, a déclaré que les agents IA pourraient devenir plus pertinents que les humains d’ici 2035. Il a indiqué que Google, Amazon et Facebook étaient « terrifiés » par cette évolution. Le contexte est celui de l’économie d’internet fondée sur la publicité. Selon Hoskinson, les agents IA ne se comporteront pas comme les humains lorsqu’ils seront confrontés à des annonces. Cela pourrait affecter les modèles publicitaires existants, basés sur l’attention et les clics des utilisateurs. À mesure que le rôle des agents IA grandira, les plateformes Big Tech pourraient devoir réévaluer leurs stratégies publicitaires. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "وكلاء الذكاء الاصطناعي قد يتفوقون على البشر بحلول 2035",
+        "excerpt": "قال تشارلز هوسكينسون، مؤسس ورئيس Input Output التابعة لكاردانو، إن وكلاء الذكاء الاصطناعي قد يصبحون أكثر أهمية من البشر بحلول 2035، ما يقلق شركات التكنولوجيا الكبرى بسبب تعاملهم المختلف مع الإعلانات.",
+        "body": "قال تشارلز هوسكينسون، مؤسس ورئيس شركة Input Output المطورة لكاردانو، إن وكلاء الذكاء الاصطناعي قد يصبحون أكثر صلة وأهمية من البشر بحلول عام 2035. وذكر أن Google وAmazon وFacebook تشعر بـ«الخوف» من هذا التحول. ويأتي ذلك في سياق اقتصاد الإنترنت القائم على الإعلانات. وبحسب هوسكينسون، فإن وكلاء الذكاء الاصطناعي لن يتصرفوا مثل البشر عند مواجهة الإعلانات. وقد يؤثر ذلك في نماذج الإعلان الحالية المبنية على انتباه المستخدمين ونقراتهم. ومع اتساع دور وكلاء الذكاء الاصطناعي، قد تحتاج منصات التكنولوجيا الكبرى إلى إعادة تقييم استراتيجياتها الإعلانية. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "AI एजेंट 2035 तक इंसानों से अधिक अहम हो सकते हैं: Hoskinson",
+        "excerpt": "Cardano की Input Output के संस्थापक और CEO Charles Hoskinson ने कहा कि AI एजेंट 2035 तक इंसानों से अधिक प्रासंगिक हो सकते हैं, जिससे Big Tech चिंतित है क्योंकि वे विज्ञापनों पर इंसानों जैसा व्यवहार नहीं करेंगे।",
+        "body": "Cardano डेवलपर Input Output के संस्थापक और CEO Charles Hoskinson ने कहा कि 2035 तक AI एजेंट इंसानों से अधिक प्रासंगिक बन सकते हैं। उन्होंने कहा कि Google, Amazon और Facebook इस बदलाव से “भयभीत” हैं। इसका संदर्भ विज्ञापन-आधारित इंटरनेट अर्थव्यवस्था है। Hoskinson के अनुसार, AI एजेंट विज्ञापनों का सामना करते समय इंसानों की तरह व्यवहार नहीं करेंगे। इससे उपयोगकर्ता के ध्यान और क्लिक पर आधारित मौजूदा विज्ञापन मॉडल प्रभावित हो सकते हैं। जैसे-जैसे AI एजेंटों की भूमिका बढ़ेगी, Big Tech प्लेटफॉर्म अपनी विज्ञापन रणनीतियों की फिर से समीक्षा कर सकते हैं। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Agen AI Bisa Lebih Relevan dari Manusia pada 2035, Kata Hoskinson",
+        "excerpt": "Pendiri dan CEO Input Output Cardano, Charles Hoskinson, mengatakan agen AI bisa lebih relevan daripada manusia pada 2035, membuat Big Tech khawatir karena mereka tidak merespons iklan seperti manusia.",
+        "body": "Charles Hoskinson, pendiri dan CEO Input Output, pengembang Cardano, mengatakan agen AI dapat menjadi lebih relevan daripada manusia pada 2035. Ia menyebut Google, Amazon, dan Facebook “ketakutan” menghadapi perubahan ini. Latar belakangnya adalah ekonomi internet yang bertumpu pada iklan. Menurut Hoskinson, agen AI tidak akan berperilaku seperti manusia saat berhadapan dengan iklan. Hal ini dapat memengaruhi model iklan yang ada, yang dibangun di atas perhatian dan klik pengguna. Seiring meningkatnya peran agen AI, platform Big Tech mungkin perlu meninjau ulang strategi periklanan mereka. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "b5e184250053",
     "slug": "wall-streets-clearinghouse-seeks-high-performance-blockchain-527436",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Bitcoin Tembus US$82.000, ZEC dan DASH Reli Dua Digit",
         "excerpt": "Bitcoin naik di atas US$82.000 karena pelemahan dolar mengangkat pasar kripto, sementara ZEC, DASH, dan token terkait AI memimpin reli altcoin.",
         "body": "Bitcoin (BTC) bergerak di atas US$82.000 setelah pelemahan dolar memperbaiki sentimen di pasar kripto. Dalam reli yang sama, privacy coin ZEC dan DASH mencatat kenaikan dua digit, sementara token terkait AI juga memimpin penguatan altcoin. Laporan asli menyebut dolar yang melemah sebagai latar utama kenaikan pasar kripto yang lebih luas. Kenaikan serentak pada kelompok altcoin utama menunjukkan rebound Bitcoin mulai menyebar ke pasar yang lebih luas. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "a29b62e5155f",
-    "slug": "기관-자금-유입에-반등하는-비트코인중동-리스크가-변수---블루밍비트-653006",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T10:34:27.826Z",
-    "updatedAt": "2026-05-06T10:34:27.826Z",
-    "sourceName": "블루밍비트",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yZmJDejZjSi02NEhvaWEya0VfYmpXR2JkZWp4SUk5TDBpb1lRNy1PNmg4Zi1jTk5odHV4ZzU2VUFrLWZnRXpRWEx5VlVxaWtv?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yZmJDejZjSi02NEhvaWEya0VfYmpXR2JkZWp4SUk5TDBpb1lRNy1PNmg4Zi1jTk5odHV4ZzU2VUFrLWZnRXpRWEx5VlVxaWtv?oc=5",
-    "titleFingerprint": "3f5a7b4d451121072cd440705729784e53dab7d2",
-    "dedupKeys": [
-      "a29b62e5155f7080f7eaf773b1f5bee85fe16ea2",
-      "3f5a7b4d451121072cd440705729784e53dab7d2",
-      "7287e043f31a40531b4c13103f84d2ad150da7d5"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "비트코인, 기관 자금 유입에 반등…중동 리스크가 향후 변수",
-        "excerpt": "블루밍비트는 비트코인이 기관 자금 유입에 힘입어 반등하고 있지만, 중동 리스크가 향후 흐름을 좌우할 변수로 남아 있다고 보도했다.",
-        "body": "비트코인이 기관 자금 유입을 바탕으로 반등세를 보이고 있다고 블루밍비트가 보도했다. 최근 시장에서는 기관 투자자의 자금 유입이 가격 회복을 뒷받침하는 요인으로 거론되고 있다. 다만 중동 지역의 지정학적 리스크는 위험자산 선호를 흔들 수 있는 변수로 남아 있다. 이에 따라 비트코인의 단기 흐름은 기관 수급이 이어지는지, 동시에 중동 리스크가 시장 심리에 어떤 영향을 주는지에 따라 달라질 수 있다. 블루밍비트는 “기관 자금 유입에 반등하는 비트코인…중동 리스크가 변수”라고 전했다."
-      },
-      "en": {
-        "title": "Bitcoin Rebounds on Institutional Inflows as Middle East Risk Remains Key",
-        "excerpt": "Bloomingbit reported that Bitcoin is rebounding on institutional fund inflows, while Middle East risk remains a factor that could shape its next market direction.",
-        "body": "Bitcoin is showing a rebound supported by institutional fund inflows, Bloomingbit reported. In the recent market, inflows from institutional investors are being cited as a factor helping the price recover. However, geopolitical risks in the Middle East remain a variable that could affect appetite for risk assets. As a result, Bitcoin’s near-term direction may depend on whether institutional demand continues and how Middle East risks influence market sentiment. Bloomingbit said, “Bitcoin rebounds on institutional fund inflows…Middle East risk is a variable.”"
-      },
-      "ja": {
-        "title": "ビットコイン、機関投資家資金の流入で反発…中東リスクが焦点",
-        "excerpt": "ブルーミングビットは、ビットコインが機関投資家の資金流入を背景に反発している一方、中東リスクが今後の相場を左右する要因として残ると報じた。",
-        "body": "ビットコインが機関投資家の資金流入を背景に反発していると、ブルーミングビットが報じた。最近の市場では、機関投資家からの資金流入が価格回復を支える要因として挙げられている。ただし、中東地域の地政学的リスクは、リスク資産への選好を揺さぶり得る変数として残っている。そのため、ビットコインの短期的な動きは、機関需要が続くかどうか、また中東リスクが市場心理にどのような影響を及ぼすかに左右される可能性がある。ブルーミングビットは「機関資金流入で反発するビットコイン…中東リスクが変数」と伝えた。"
-      },
-      "zh": {
-        "title": "比特币受机构资金流入推动反弹，中东风险仍是关键变量",
-        "excerpt": "Bloomingbit报道称，比特币在机构资金流入支撑下反弹，但中东地区风险仍可能影响后续走势和市场情绪。",
-        "body": "Bloomingbit报道称，比特币正受到机构资金流入支撑而出现反弹。近期市场认为，机构投资者资金流入是推动价格恢复的因素之一。不过，中东地区的地缘政治风险仍是可能影响风险资产偏好的变量。因此，比特币的短期走势可能取决于机构资金需求是否延续，以及中东风险如何影响市场情绪。Bloomingbit表示：“比特币因机构资金流入而反弹……中东风险是变量。”"
-      },
-      "es": {
-        "title": "Bitcoin repunta por flujos institucionales, con riesgo de Oriente Medio en foco",
-        "excerpt": "Bloomingbit informó que Bitcoin repunta apoyado por entradas de capital institucional, aunque el riesgo de Oriente Medio sigue siendo una variable clave.",
-        "body": "Bitcoin muestra un repunte apoyado por entradas de capital institucional, informó Bloomingbit. En el mercado reciente, los flujos de inversores institucionales se mencionan como un factor que respalda la recuperación del precio. Sin embargo, los riesgos geopolíticos en Oriente Medio siguen siendo una variable que puede afectar el apetito por activos de riesgo. Por ello, la evolución de Bitcoin a corto plazo podría depender de si continúa la demanda institucional y de cómo esos riesgos influyen en el sentimiento del mercado. Bloomingbit señaló: “Bitcoin repunta por entradas institucionales… el riesgo de Oriente Medio es una variable.”"
-      },
-      "pt": {
-        "title": "Bitcoin reage com entrada de capital institucional, mas risco no Oriente Médio pesa",
-        "excerpt": "A Bloomingbit informou que o Bitcoin se recupera com entradas de capital institucional, enquanto o risco no Oriente Médio segue como fator para o mercado.",
-        "body": "O Bitcoin apresenta recuperação apoiada por entradas de capital institucional, informou a Bloomingbit. No mercado recente, os fluxos de investidores institucionais são citados como um fator que sustenta a retomada do preço. Ainda assim, os riscos geopolíticos no Oriente Médio permanecem como uma variável capaz de afetar a preferência por ativos de risco. Assim, o movimento de curto prazo do Bitcoin pode depender da continuidade da demanda institucional e do impacto desses riscos sobre o sentimento do mercado. A Bloomingbit afirmou: “Bitcoin reage com entradas institucionais… risco no Oriente Médio é variável.”"
-      },
-      "de": {
-        "title": "Bitcoin erholt sich durch institutionelle Zuflüsse, Nahost-Risiko bleibt Faktor",
-        "excerpt": "Bloomingbit berichtete, dass Bitcoin dank institutioneller Kapitalzuflüsse zulegt, während Risiken im Nahen Osten die weitere Entwicklung beeinflussen können.",
-        "body": "Bitcoin zeigt eine Erholung, gestützt durch institutionelle Kapitalzuflüsse, berichtete Bloomingbit. Am Markt werden Zuflüsse institutioneller Investoren zuletzt als Faktor genannt, der die Preiserholung unterstützt. Zugleich bleiben geopolitische Risiken im Nahen Osten eine Variable, die die Nachfrage nach Risikoanlagen beeinflussen kann. Der kurzfristige Verlauf von Bitcoin könnte daher davon abhängen, ob die institutionelle Nachfrage anhält und wie sich die Nahost-Risiken auf die Marktstimmung auswirken. Bloomingbit schrieb: „Bitcoin erholt sich durch institutionelle Zuflüsse… Nahost-Risiko ist eine Variable.“"
-      },
-      "fr": {
-        "title": "Bitcoin rebondit grâce aux flux institutionnels, le risque au Moyen-Orient pèse",
-        "excerpt": "Bloomingbit rapporte que Bitcoin rebondit avec l’appui des flux institutionnels, tandis que le risque au Moyen-Orient reste une variable de marché.",
-        "body": "Bitcoin affiche un rebond soutenu par des flux de capitaux institutionnels, a rapporté Bloomingbit. Sur le marché récent, les entrées de fonds d’investisseurs institutionnels sont citées comme un facteur aidant la reprise du prix. Toutefois, les risques géopolitiques au Moyen-Orient restent une variable susceptible d’affecter l’appétit pour les actifs risqués. Ainsi, l’évolution à court terme de Bitcoin pourrait dépendre de la poursuite de la demande institutionnelle et de l’effet de ces risques sur le sentiment du marché. Bloomingbit a indiqué : « Bitcoin rebondit grâce aux flux institutionnels… le risque au Moyen-Orient est une variable. »"
-      },
-      "ar": {
-        "title": "بيتكوين ترتد بدعم تدفقات مؤسسية ومخاطر الشرق الأوسط تبقى عاملا حاسما",
-        "excerpt": "أفادت بلومينغبيت بأن بيتكوين ترتد بدعم من تدفقات الأموال المؤسسية، بينما تبقى مخاطر الشرق الأوسط عاملا قد يؤثر في اتجاه السوق المقبل.",
-        "body": "أفادت بلومينغبيت بأن بيتكوين تظهر ارتدادا بدعم من تدفقات الأموال المؤسسية. وفي السوق مؤخرا، يجري طرح دخول أموال المستثمرين المؤسسيين كعامل يساعد على تعافي السعر. ومع ذلك، تبقى المخاطر الجيوسياسية في الشرق الأوسط متغيرا قد يؤثر في شهية المستثمرين للأصول عالية المخاطر. لذلك قد يعتمد المسار القصير الأجل لبيتكوين على استمرار الطلب المؤسسي، وعلى كيفية تأثير مخاطر الشرق الأوسط في معنويات السوق. وذكرت بلومينغبيت: “بيتكوين ترتد بفعل تدفقات الأموال المؤسسية… ومخاطر الشرق الأوسط متغير.”"
-      },
-      "hi": {
-        "title": "संस्थागत फंड प्रवाह से बिटकॉइन में उछाल, मध्य पूर्व जोखिम अहम 변수",
-        "excerpt": "ब्लूमिंगबिट ने बताया कि बिटकॉइन संस्थागत फंड प्रवाह के सहारे उबर रहा है, जबकि मध्य पूर्व जोखिम आगे की दिशा को प्रभावित करने वाला कारक बना हुआ है।",
-        "body": "ब्लूमिंगबिट के अनुसार, बिटकॉइन संस्थागत फंड प्रवाह के सहारे पलटाव दिखा रहा है। हालिया बाजार में संस्थागत निवेशकों से आने वाले धन को कीमत में सुधार को सहारा देने वाले कारक के रूप में देखा जा रहा है। हालांकि, मध्य पूर्व क्षेत्र का भू-राजनीतिक जोखिम जोखिम वाली परिसंपत्तियों के प्रति निवेशकों की रुचि को प्रभावित कर सकने वाला चर बना हुआ है। इसलिए बिटकॉइन की अल्पकालिक दिशा इस बात पर निर्भर कर सकती है कि संस्थागत मांग जारी रहती है या नहीं और मध्य पूर्व जोखिम बाजार भावना को कैसे प्रभावित करता है। ब्लूमिंगबिट ने कहा, “संस्थागत फंड प्रवाह से बिटकॉइन में पलटाव…मध्य पूर्व जोखिम एक चर है।”"
-      },
-      "id": {
-        "title": "Bitcoin Rebound Berkat Dana Institusional, Risiko Timur Tengah Jadi Variabel",
-        "excerpt": "Bloomingbit melaporkan Bitcoin rebound berkat aliran dana institusional, sementara risiko Timur Tengah tetap menjadi faktor yang dapat memengaruhi arah pasar.",
-        "body": "Bitcoin menunjukkan rebound yang didukung oleh aliran dana institusional, lapor Bloomingbit. Di pasar belakangan ini, masuknya dana dari investor institusional disebut sebagai faktor yang menopang pemulihan harga. Namun, risiko geopolitik di Timur Tengah tetap menjadi variabel yang dapat memengaruhi minat terhadap aset berisiko. Karena itu, arah jangka pendek Bitcoin dapat bergantung pada apakah permintaan institusional berlanjut dan bagaimana risiko Timur Tengah memengaruhi sentimen pasar. Bloomingbit menyatakan, “Bitcoin rebound karena aliran dana institusional…risiko Timur Tengah menjadi variabel.”"
-      }
-    }
-  },
-  {
-    "id": "b9a409b5b224",
-    "slug": "기관-자금-유입에-반등하는-비트코인중동-리스크가-변수---vdaumnet-491848",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T10:33:40.293Z",
-    "updatedAt": "2026-05-06T10:33:40.293Z",
-    "sourceName": "v.daum.net",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wWERvSm5VWnF4U1h3bVlFLXg2OWJyN2hiSm9CdV9Ndk9NMjQta20ydXpxTTI3MUo2azNtSUZOYkJ1ZnhaZFZMdFcwenJrRHc?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wWERvSm5VWnF4U1h3bVlFLXg2OWJyN2hiSm9CdV9Ndk9NMjQta20ydXpxTTI3MUo2azNtSUZOYkJ1ZnhaZFZMdFcwenJrRHc?oc=5",
-    "titleFingerprint": "3877c9114546dc5118fafcb0eadb3700b0a31ac5",
-    "dedupKeys": [
-      "b9a409b5b224db1085a061ac910e444c09f18e3d",
-      "3877c9114546dc5118fafcb0eadb3700b0a31ac5",
-      "dd7b043e0c4f8e956cdae7c060d84377ebdcd216"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "비트코인, 기관 자금 유입에 반등…중동 리스크가 향방 가른다",
-        "excerpt": "비트코인이 기관 자금 유입에 힘입어 반등세를 보이고 있지만, 중동 지역 리스크가 시장 심리와 향후 가격 흐름의 주요 변수로 떠올랐다.",
-        "body": "비트코인이 기관 자금 유입에 힘입어 반등하고 있다. 최근 시장에서는 기관 투자자의 매수세가 회복 흐름을 뒷받침하는 요인으로 거론된다. 다만 중동 지역의 지정학적 리스크가 변수로 남아 있어 투자 심리와 가격 흐름에 영향을 줄 수 있다는 관측이 나온다. 기관 자금 유입은 비트코인 수요를 떠받치는 긍정적 신호로 해석되지만, 외부 불확실성이 커질 경우 변동성 확대 가능성도 배제하기 어렵다. 향후 시장은 기관 자금 흐름과 중동 리스크 전개를 함께 주시할 전망이다. 출처: v.daum.net"
-      },
-      "en": {
-        "title": "Bitcoin Rebounds on Institutional Inflows as Middle East Risk Looms",
-        "excerpt": "Bitcoin is rebounding on institutional fund inflows, but risks in the Middle East have emerged as a key variable for market sentiment and future price direction.",
-        "body": "Bitcoin is rebounding as institutional fund inflows support market momentum. Recent market attention has focused on renewed buying from institutional investors as a factor behind the recovery. However, geopolitical risks in the Middle East remain a variable that could affect investor sentiment and price movements. Institutional inflows are being viewed as a positive signal for Bitcoin demand, but greater external uncertainty could still raise volatility. The market is expected to watch both institutional capital flows and developments in Middle East risk. Source: v.daum.net"
-      },
-      "ja": {
-        "title": "ビットコイン、機関資金流入で反発…中東リスクが相場の変数に",
-        "excerpt": "ビットコインは機関投資家の資金流入を受けて反発しているが、中東リスクが市場心理と今後の価格動向を左右する変数となっている。",
-        "body": "ビットコインが機関投資家の資金流入を背景に反発している。最近の市場では、機関投資家による買い需要の回復が相場を支える要因として挙げられている。ただし、中東地域の地政学的リスクが変数として残っており、投資家心理や価格推移に影響を与える可能性がある。機関資金の流入はビットコイン需要を支える前向きなシグナルと受け止められる一方、外部の不確実性が高まれば変動性が拡大する可能性も否定できない。今後の市場は機関資金の動きと中東リスクの展開を注視するとみられる。出典: v.daum.net"
-      },
-      "zh": {
-        "title": "比特币受机构资金流入推动反弹，中东风险成关键变量",
-        "excerpt": "比特币在机构资金流入支撑下出现反弹，但中东地区风险已成为影响市场情绪和后续价格走势的重要变量。",
-        "body": "比特币正受到机构资金流入支撑而反弹。近期市场认为，机构投资者买盘恢复是推动走势回升的因素之一。不过，中东地区的地缘政治风险仍是变量，可能影响投资情绪和价格走势。机构资金流入被解读为支撑比特币需求的积极信号，但如果外部不确定性扩大，市场波动加剧的可能性也难以排除。后续市场预计将同时关注机构资金流向以及中东风险的发展。来源: v.daum.net"
-      },
-      "es": {
-        "title": "Bitcoin rebota por flujos institucionales, con riesgo en Medio Oriente",
-        "excerpt": "Bitcoin muestra un repunte impulsado por entradas de capital institucional, aunque el riesgo en Medio Oriente pesa como variable clave para el ánimo del mercado.",
-        "body": "Bitcoin está rebotando gracias al respaldo de entradas de capital institucional. En el mercado reciente, la recuperación de las compras por parte de inversores institucionales se menciona como un factor que sostiene el movimiento al alza. Sin embargo, el riesgo geopolítico en Medio Oriente sigue siendo una variable que puede influir en el sentimiento inversor y en la evolución del precio. Los flujos institucionales se interpretan como una señal positiva para la demanda de Bitcoin, pero una mayor incertidumbre externa podría ampliar la volatilidad. El mercado seguirá atento a los flujos institucionales y al desarrollo del riesgo en Medio Oriente. Fuente: v.daum.net"
-      },
-      "pt": {
-        "title": "Bitcoin reage com entrada institucional, mas risco no Oriente Médio pesa",
-        "excerpt": "O Bitcoin avança com a entrada de recursos institucionais, enquanto riscos no Oriente Médio surgem como variável central para o sentimento e os preços.",
-        "body": "O Bitcoin está reagindo com apoio da entrada de recursos institucionais. No mercado recente, a retomada das compras por investidores institucionais é apontada como um fator que sustenta a recuperação. Ainda assim, o risco geopolítico no Oriente Médio permanece como uma variável capaz de afetar o sentimento dos investidores e o movimento dos preços. A entrada de capital institucional é vista como um sinal positivo para a demanda por Bitcoin, mas maior incerteza externa pode elevar a volatilidade. O mercado deve acompanhar os fluxos institucionais e a evolução dos riscos no Oriente Médio. Fonte: v.daum.net"
-      },
-      "de": {
-        "title": "Bitcoin erholt sich durch institutionelle Zuflüsse, Nahost-Risiko bleibt",
-        "excerpt": "Bitcoin legt dank institutioneller Kapitalzuflüsse wieder zu, doch Risiken im Nahen Osten bleiben ein wichtiger Faktor für Stimmung und weitere Kursrichtung.",
-        "body": "Bitcoin erholt sich, gestützt durch institutionelle Kapitalzuflüsse. Am Markt wird die Rückkehr von Käufen institutioneller Investoren als Faktor für die aktuelle Erholung genannt. Gleichzeitig bleibt das geopolitische Risiko im Nahen Osten eine Variable, die Anlegerstimmung und Kursverlauf beeinflussen kann. Institutionelle Zuflüsse werden als positives Signal für die Bitcoin-Nachfrage gewertet, doch eine Zunahme externer Unsicherheit könnte auch stärkere Schwankungen auslösen. Der Markt dürfte daher sowohl die institutionellen Kapitalströme als auch die Entwicklung der Nahost-Risiken beobachten. Quelle: v.daum.net"
-      },
-      "fr": {
-        "title": "Bitcoin rebondit avec les flux institutionnels, risque au Moyen-Orient",
-        "excerpt": "Le Bitcoin rebondit grâce aux flux de capitaux institutionnels, mais les risques au Moyen-Orient deviennent une variable clé pour le marché et les prix.",
-        "body": "Le Bitcoin rebondit avec le soutien des entrées de capitaux institutionnels. Sur le marché, le retour des achats d’investisseurs institutionnels est cité comme un facteur de reprise. Toutefois, le risque géopolitique au Moyen-Orient demeure une variable susceptible d’influencer le sentiment des investisseurs et l’évolution des prix. Les flux institutionnels sont interprétés comme un signal positif pour la demande de Bitcoin, mais une incertitude externe plus forte pourrait accroître la volatilité. Le marché devrait suivre à la fois les mouvements de capitaux institutionnels et l’évolution des risques au Moyen-Orient. Source: v.daum.net"
-      },
-      "ar": {
-        "title": "بيتكوين ترتد بدعم تدفقات مؤسسية ومخاطر الشرق الأوسط تبقى مؤثرة",
-        "excerpt": "تتعافى بيتكوين بدعم من تدفقات الأموال المؤسسية، لكن مخاطر الشرق الأوسط برزت كعامل رئيسي قد يؤثر في معنويات السوق واتجاه الأسعار.",
-        "body": "تسجل بيتكوين ارتدادا بدعم من تدفقات الأموال المؤسسية. وفي السوق مؤخرا، يشار إلى عودة الشراء من المستثمرين المؤسسيين كعامل يدعم مسار التعافي. ومع ذلك، تبقى المخاطر الجيوسياسية في الشرق الأوسط متغيرا قد يؤثر في معنويات المستثمرين وحركة الأسعار. وتعد التدفقات المؤسسية إشارة إيجابية إلى الطلب على بيتكوين، لكن زيادة عدم اليقين الخارجي قد ترفع احتمالات اتساع التقلبات. ومن المتوقع أن تتابع السوق مسار الأموال المؤسسية وتطور مخاطر الشرق الأوسط معا. المصدر: v.daum.net"
-      },
-      "hi": {
-        "title": "संस्थागत निवेश से बिटकॉइन में उछाल, मध्य पूर्व जोखिम बना अहम कारक",
-        "excerpt": "संस्थागत धन प्रवाह से बिटकॉइन में सुधार दिख रहा है, लेकिन मध्य पूर्व का जोखिम बाजार धारणा और आगे की कीमत दिशा के लिए अहम कारक बना है।",
-        "body": "बिटकॉइन संस्थागत धन प्रवाह के सहारे फिर से उभर रहा है। हाल के बाजार में संस्थागत निवेशकों की खरीदारी में वापसी को सुधार का समर्थन करने वाला कारण माना जा रहा है। हालांकि, मध्य पूर्व क्षेत्र का भू-राजनीतिक जोखिम अभी भी एक ऐसा कारक है जो निवेशक धारणा और कीमतों की चाल को प्रभावित कर सकता है। संस्थागत धन प्रवाह को बिटकॉइन मांग के लिए सकारात्मक संकेत के रूप में देखा जा रहा है, लेकिन बाहरी अनिश्चितता बढ़ने पर अस्थिरता बढ़ने की संभावना से इनकार नहीं किया जा सकता। बाजार आगे संस्थागत पूंजी प्रवाह और मध्य पूर्व जोखिम के घटनाक्रम पर नजर रखेगा। स्रोत: v.daum.net"
-      },
-      "id": {
-        "title": "Bitcoin Menguat Berkat Dana Institusi, Risiko Timur Tengah Jadi Penentu",
-        "excerpt": "Bitcoin kembali menguat didorong arus dana institusi, sementara risiko di Timur Tengah menjadi variabel penting bagi sentimen pasar dan arah harga berikutnya.",
-        "body": "Bitcoin kembali menguat dengan dukungan arus dana institusi. Di pasar terbaru, pulihnya pembelian dari investor institusional disebut sebagai faktor yang menopang rebound tersebut. Namun, risiko geopolitik di Timur Tengah masih menjadi variabel yang dapat memengaruhi sentimen investor dan pergerakan harga. Arus dana institusi dipandang sebagai sinyal positif bagi permintaan Bitcoin, tetapi meningkatnya ketidakpastian eksternal dapat membuka peluang volatilitas yang lebih besar. Ke depan, pasar diperkirakan akan mencermati aliran dana institusi dan perkembangan risiko Timur Tengah secara bersamaan. Sumber: v.daum.net"
-      }
-    }
-  },
-  {
-    "id": "fea53b8c54bb",
-    "slug": "하이퍼스케일-데이터-금-매입-계획비트코인-681개-보유---investingcom-한국어-513228",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T10:32:49.357Z",
-    "updatedAt": "2026-05-06T10:32:49.357Z",
-    "sourceName": "Investing.com 한국어",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBObHQwNjVneFhNN2ZkcEluczZLUmpfSHYtalBOcUlteXgwU0EzV2VLWXVXWmhPeU44ckhNUlktdi0zeG56T3VkSE8wSmZQYmpLLVRoMVdocVBhNDlxMEhtYzgwLXQ2SjhZeHE2OTNKVEE?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBObHQwNjVneFhNN2ZkcEluczZLUmpfSHYtalBOcUlteXgwU0EzV2VLWXVXWmhPeU44ckhNUlktdi0zeG56T3VkSE8wSmZQYmpLLVRoMVdocVBhNDlxMEhtYzgwLXQ2SjhZeHE2OTNKVEE?oc=5",
-    "titleFingerprint": "e8d25875fd23fce12205985980952bb55fa0b718",
-    "dedupKeys": [
-      "fea53b8c54bb4374938a8ef9735a6c31186810f2",
-      "e8d25875fd23fce12205985980952bb55fa0b718",
-      "bb07e1fb5f53310762ce4c4f776ce743d96ee5e8"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "하이퍼스케일 데이터, 금 매입 계획 공개…비트코인 681개 보유",
-        "excerpt": "하이퍼스케일 데이터가 금 매입 계획을 밝히고 비트코인 681개 보유 사실이 함께 전해졌다. 디지털 자산과 금 보유 전략이 투자자 관심을 끌고 있다.",
-        "body": "하이퍼스케일 데이터가 금 매입 계획을 추진한다는 소식이 Investing.com 한국어를 통해 전해졌다. 보도에 따르면 회사는 현재 비트코인 681개를 보유하고 있으며, 금 매입 계획도 함께 언급됐다. 이번 내용은 기업의 자산 보유 전략에서 비트코인과 금이 동시에 거론됐다는 점에서 시장의 관심을 받을 수 있다. 다만 원문에는 금 매입 규모, 일정, 구체적인 집행 방식 등 추가 세부 사항은 제시되지 않았다. 향후 회사가 금 매입 계획을 어떻게 구체화하는지와 기존 비트코인 보유 전략의 변화 여부가 관전 포인트다. 출처: Investing.com 한국어."
-      },
-      "en": {
-        "title": "Hyperscale Data Plans Gold Purchases, Holds 681 Bitcoin",
-        "excerpt": "Hyperscale Data plans to buy gold and reportedly holds 681 bitcoin, drawing attention to its asset strategy involving both digital assets and gold.",
-        "body": "Hyperscale Data is planning to purchase gold, according to a report from Investing.com Korea. The report also noted that the company currently holds 681 bitcoin. The information puts both bitcoin and gold in focus within the company’s asset-holding strategy. However, the original report did not provide further details on the size of the planned gold purchases, timing, or execution method. Investors may watch how the company develops its gold purchase plan and whether its existing bitcoin holding strategy changes. Source: Investing.com Korea."
-      },
-      "ja": {
-        "title": "ハイパースケール・データ、金購入計画を公表　ビットコイン681枚保有",
-        "excerpt": "ハイパースケール・データが金購入計画を示し、ビットコイン681枚を保有していることも報じられた。資産戦略に関心が集まる。",
-        "body": "Investing.com韓国語版によると、ハイパースケール・データは金の購入計画を進めている。報道では、同社が現在ビットコイン681枚を保有していることも伝えられた。今回の内容は、同社の資産保有戦略においてビットコインと金が同時に言及された点で市場の注目を集める可能性がある。ただし、原文では金購入の規模、時期、具体的な実行方法などの追加詳細は示されていない。今後は、同社が金購入計画をどのように具体化するか、既存のビットコイン保有戦略に変化があるかが焦点となる。出典：Investing.com韓国語版。"
-      },
-      "zh": {
-        "title": "Hyperscale Data计划买入黄金，已持有681枚比特币",
-        "excerpt": "Hyperscale Data计划购买黄金，并被报道称持有681枚比特币。其同时涉及数字资产与黄金的资产策略受到关注。",
-        "body": "据Investing.com韩语版报道，Hyperscale Data正计划购买黄金。报道称，该公司目前持有681枚比特币，同时也提到了黄金购买计划。该消息使比特币和黄金同时出现在公司的资产持有策略中，可能引发市场关注。不过，原文并未披露黄金购买规模、时间安排或具体执行方式等更多细节。接下来，市场或将关注该公司如何细化黄金购买计划，以及现有比特币持有策略是否会发生变化。来源：Investing.com韩语版。"
-      },
-      "es": {
-        "title": "Hyperscale Data planea comprar oro y mantiene 681 bitcoins",
-        "excerpt": "Hyperscale Data planea comprar oro y, según el reporte, posee 681 bitcoins, lo que centra la atención en su estrategia de activos digitales y oro.",
-        "body": "Hyperscale Data planea comprar oro, según informó Investing.com en coreano. El reporte también señaló que la compañía posee actualmente 681 bitcoins. La noticia pone en foco una estrategia de tenencia de activos en la que se mencionan tanto bitcoin como el oro. Sin embargo, el texto original no ofreció detalles adicionales sobre el tamaño de la compra de oro, el calendario o el método concreto de ejecución. En adelante, el mercado podría observar cómo la empresa concreta su plan de compra de oro y si cambia su estrategia actual de tenencia de bitcoin. Fuente: Investing.com Corea."
-      },
-      "pt": {
-        "title": "Hyperscale Data planeja comprar ouro e detém 681 bitcoins",
-        "excerpt": "A Hyperscale Data planeja comprar ouro e, segundo o relato, possui 681 bitcoins, chamando atenção para sua estratégia com ativos digitais e ouro.",
-        "body": "A Hyperscale Data planeja comprar ouro, segundo reportagem da Investing.com em coreano. O texto também informou que a empresa detém atualmente 681 bitcoins. A notícia destaca uma estratégia de manutenção de ativos em que bitcoin e ouro são mencionados ao mesmo tempo. No entanto, o conteúdo original não trouxe detalhes adicionais sobre o volume da compra de ouro, o cronograma ou a forma concreta de execução. Daqui em diante, investidores podem acompanhar como a companhia detalhará o plano de compra de ouro e se haverá mudança em sua estratégia atual de posse de bitcoin. Fonte: Investing.com Coreia."
-      },
-      "de": {
-        "title": "Hyperscale Data plant Goldkäufe und hält 681 Bitcoin",
-        "excerpt": "Hyperscale Data plant laut Bericht den Kauf von Gold und hält 681 Bitcoin. Damit rückt die Vermögensstrategie mit digitalen Assets und Gold in den Fokus.",
-        "body": "Hyperscale Data plant den Kauf von Gold, wie Investing.com Korea berichtete. Dem Bericht zufolge hält das Unternehmen derzeit 681 Bitcoin. Damit werden Bitcoin und Gold zugleich als Teil der Vermögensstrategie des Unternehmens genannt, was am Markt Aufmerksamkeit auslösen kann. Weitere Angaben zum Umfang der geplanten Goldkäufe, zum Zeitplan oder zur konkreten Umsetzung enthielt der Originalbericht nicht. Beobachter dürften nun darauf achten, wie Hyperscale Data den Goldkaufplan konkretisiert und ob sich die bestehende Bitcoin-Haltestrategie verändert. Quelle: Investing.com Korea."
-      },
-      "fr": {
-        "title": "Hyperscale Data prévoit d’acheter de l’or et détient 681 bitcoins",
-        "excerpt": "Hyperscale Data prévoit d’acheter de l’or et détient, selon le rapport, 681 bitcoins, attirant l’attention sur sa stratégie entre actifs numériques et or.",
-        "body": "Hyperscale Data prévoit d’acheter de l’or, selon un article d’Investing.com en coréen. Le rapport indique également que la société détient actuellement 681 bitcoins. Cette information met en avant une stratégie de détention d’actifs dans laquelle le bitcoin et l’or sont mentionnés ensemble. Toutefois, l’article original ne fournit pas de précisions supplémentaires sur le montant des achats d’or, le calendrier ou les modalités d’exécution. Les investisseurs pourront suivre la manière dont l’entreprise précisera son plan d’achat d’or et l’éventuelle évolution de sa stratégie de détention de bitcoins. Source : Investing.com Corée."
-      },
-      "ar": {
-        "title": "هايبرسكيل داتا تخطط لشراء الذهب وتحتفظ بـ681 بيتكوين",
-        "excerpt": "تخطط هايبرسكيل داتا لشراء الذهب، فيما أفاد تقرير بأنها تحتفظ بـ681 بيتكوين، ما يسلط الضوء على استراتيجيتها بين الأصول الرقمية والذهب.",
-        "body": "أفاد موقع Investing.com باللغة الكورية بأن شركة هايبرسكيل داتا تخطط لشراء الذهب. وذكر التقرير أيضا أن الشركة تحتفظ حاليا بـ681 بيتكوين. وتبرز هذه المعلومة استراتيجية حيازة أصول يجري فيها ذكر البيتكوين والذهب معا، وهو ما قد يجذب اهتمام السوق. لكن النص الأصلي لم يقدم تفاصيل إضافية حول حجم مشتريات الذهب المخطط لها أو جدولها الزمني أو طريقة تنفيذها المحددة. ومن المنتظر أن يراقب المستثمرون كيف ستفصل الشركة خطة شراء الذهب، وما إذا كانت استراتيجية الاحتفاظ بالبيتكوين ستتغير. المصدر: Investing.com الكورية."
-      },
-      "hi": {
-        "title": "Hyperscale Data की सोना खरीद योजना, 681 बिटकॉइन भी होल्ड",
-        "excerpt": "Hyperscale Data ने सोना खरीदने की योजना बताई और रिपोर्ट के अनुसार उसके पास 681 बिटकॉइन हैं, जिससे डिजिटल एसेट और सोने की रणनीति पर ध्यान गया।",
-        "body": "Investing.com कोरिया की रिपोर्ट के अनुसार, Hyperscale Data सोना खरीदने की योजना बना रही है। रिपोर्ट में यह भी बताया गया कि कंपनी के पास फिलहाल 681 बिटकॉइन हैं। यह जानकारी कंपनी की एसेट होल्डिंग रणनीति में बिटकॉइन और सोने, दोनों के उल्लेख के कारण बाजार का ध्यान खींच सकती है। हालांकि मूल रिपोर्ट में सोना खरीद की मात्रा, समयसीमा या अमल के तरीके पर अतिरिक्त जानकारी नहीं दी गई। आगे निवेशक यह देख सकते हैं कि कंपनी अपनी सोना खरीद योजना को कैसे स्पष्ट करती है और मौजूदा बिटकॉइन होल्डिंग रणनीति में कोई बदलाव होता है या नहीं। स्रोत: Investing.com कोरिया."
-      },
-      "id": {
-        "title": "Hyperscale Data Rencanakan Beli Emas, Pegang 681 Bitcoin",
-        "excerpt": "Hyperscale Data berencana membeli emas dan dilaporkan memegang 681 bitcoin, menyoroti strategi aset perusahaan yang mencakup aset digital dan emas.",
-        "body": "Hyperscale Data berencana membeli emas, menurut laporan Investing.com Korea. Laporan tersebut juga menyebutkan bahwa perusahaan saat ini memegang 681 bitcoin. Informasi ini menempatkan bitcoin dan emas dalam sorotan sebagai bagian dari strategi kepemilikan aset perusahaan. Namun, laporan asli tidak memberikan rincian tambahan mengenai jumlah pembelian emas yang direncanakan, jadwal, atau metode pelaksanaannya. Ke depan, investor dapat mencermati bagaimana perusahaan memperjelas rencana pembelian emas tersebut dan apakah strategi kepemilikan bitcoin yang ada akan berubah. Sumber: Investing.com Korea."
       }
     }
   }
