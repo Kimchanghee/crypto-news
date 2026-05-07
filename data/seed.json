@@ -1,5 +1,230 @@
 [
   {
+    "id": "cdf2bf0e38a1",
+    "slug": "trustedvolumes-hit-by-67m-exploit-as-1inch-denies-breach-349816",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T12:12:21.554Z",
+    "updatedAt": "2026-05-07T12:12:21.554Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/1inch-fusion-resolver-trusted-volumes-floats-bounty-after-67m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/1inch-fusion-resolver-trusted-volumes-floats-bounty-after-67m-exploit",
+    "titleFingerprint": "a99233ab84fe06743ae23291ed64aa5306f34e15",
+    "dedupKeys": [
+      "cdf2bf0e38a19b78aa7679946090173966fd4b48",
+      "a99233ab84fe06743ae23291ed64aa5306f34e15",
+      "e4319bf63700e783ae5a02852d4c34b33e775d15"
+    ],
+    "imageUrl": "/images/articles/cdf2bf0e38a1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "TrustedVolumes 670만달러 익스플로잇, 1inch 침해 의혹 부인",
+        "excerpt": "1inch는 독립 리졸버 TrustedVolumes를 겨냥한 670만달러 규모 익스플로잇과 관련해 자사 프로토콜, 인프라, 사용자 자금은 영향받지 않았다고 밝혔다.",
+        "body": "독립 리졸버 TrustedVolumes가 670만달러 규모 익스플로잇을 당한 가운데, 1inch는 이번 사건이 자사 침해가 아니라고 밝혔다. 1inch는 공격 대상이 TrustedVolumes였으며, 자사 프로토콜과 인프라, 사용자 자금은 영향을 받지 않았다고 설명했다. 이번 사안은 1inch 생태계와 연결된 독립 운영 주체의 보안 이슈로 알려졌지만, 1inch는 핵심 시스템과 이용자 자산에는 문제가 없다는 입장을 분명히 했다. 시장 영향은 TrustedVolumes 관련 범위에 한정될 가능성이 거론된다. 출처: cointelegraph.com 인용."
+      },
+      "en": {
+        "title": "TrustedVolumes $6.7M Exploit: 1inch Denies Any Breach",
+        "excerpt": "1inch said its protocols, infrastructure and user funds were not affected after a $6.7 million exploit targeted independent resolver TrustedVolumes.",
+        "body": "Independent resolver TrustedVolumes was hit by a $6.7 million exploit, while 1inch said the incident was not a breach of its own systems. According to 1inch, the attack targeted TrustedVolumes, and its protocols, infrastructure and user funds were not affected. The case has been described as a security issue involving an independently operated resolver connected to the 1inch ecosystem, but 1inch emphasized that its core systems and user assets remained unaffected. Any market impact is expected to be limited to the TrustedVolumes-related scope. Source: cited from cointelegraph.com."
+      },
+      "ja": {
+        "title": "TrustedVolumesで670万ドル被害、1inchは侵害を否定",
+        "excerpt": "1inchは、独立リゾルバーTrustedVolumesを狙った670万ドル規模のエクスプロイトについて、自社プロトコルやインフラ、ユーザー資金に影響はないと述べた。",
+        "body": "独立リゾルバーのTrustedVolumesが670万ドル規模のエクスプロイトを受けるなか、1inchは今回の事案が自社システムの侵害ではないと説明した。1inchによれば、攻撃対象はTrustedVolumesであり、自社プロトコル、インフラ、ユーザー資金には影響がなかった。今回の件は1inchエコシステムに関連する独立運営主体のセキュリティ問題とされるが、1inchは中核システムと利用者資産に問題はないとの立場を明確にした。市場への影響はTrustedVolumes関連の範囲に限られる可能性がある。出典: cointelegraph.com引用。"
+      },
+      "zh": {
+        "title": "TrustedVolumes遭670万美元攻击，1inch否认被入侵",
+        "excerpt": "1inch表示，针对独立解析器TrustedVolumes的670万美元漏洞攻击，并未影响其协议、基础设施和用户资金。",
+        "body": "独立解析器TrustedVolumes遭遇670万美元规模的漏洞攻击后，1inch表示该事件并非其自身系统遭到入侵。1inch称，攻击目标是TrustedVolumes，其协议、基础设施和用户资金均未受到影响。此事被视为与1inch生态相关的独立运营方安全事件，但1inch明确强调，核心系统和用户资产没有出现问题。相关市场影响可能仅限于TrustedVolumes涉及的范围。来源：引用cointelegraph.com。"
+      },
+      "es": {
+        "title": "TrustedVolumes sufre exploit de $6,7M; 1inch niega brecha",
+        "excerpt": "1inch afirmó que sus protocolos, infraestructura y fondos de usuarios no fueron afectados por el exploit de 6,7 millones de dólares contra TrustedVolumes.",
+        "body": "El resolver independiente TrustedVolumes sufrió un exploit de 6,7 millones de dólares, mientras 1inch afirmó que el incidente no fue una brecha de sus propios sistemas. Según 1inch, el ataque tuvo como objetivo a TrustedVolumes y no afectó sus protocolos, infraestructura ni fondos de usuarios. El caso se presenta como un problema de seguridad de un operador independiente vinculado al ecosistema de 1inch, pero la firma subrayó que sus sistemas centrales y los activos de los usuarios no registraron impacto. El efecto de mercado podría quedar limitado al ámbito relacionado con TrustedVolumes. Fuente: citado de cointelegraph.com."
+      },
+      "pt": {
+        "title": "TrustedVolumes sofre exploit de US$ 6,7 mi; 1inch nega invasão",
+        "excerpt": "A 1inch disse que seus protocolos, infraestrutura e fundos de usuários não foram afetados pelo exploit de US$ 6,7 milhões contra a TrustedVolumes.",
+        "body": "A resolver independente TrustedVolumes sofreu um exploit de US$ 6,7 milhões, enquanto a 1inch afirmou que o caso não foi uma invasão de seus próprios sistemas. Segundo a 1inch, o ataque teve como alvo a TrustedVolumes, e seus protocolos, infraestrutura e fundos de usuários não foram afetados. O episódio é descrito como uma questão de segurança envolvendo uma entidade independente ligada ao ecossistema da 1inch, mas a empresa reforçou que seus sistemas centrais e os ativos dos usuários permaneceram intactos. O impacto de mercado pode ficar restrito ao escopo relacionado à TrustedVolumes. Fonte: citado de cointelegraph.com."
+      },
+      "de": {
+        "title": "TrustedVolumes erleidet 6,7-Mio.-Dollar-Exploit, 1inch dementiert",
+        "excerpt": "1inch erklärte, dass Protokolle, Infrastruktur und Nutzergelder vom 6,7-Mio.-Dollar-Exploit gegen den unabhängigen Resolver TrustedVolumes nicht betroffen waren.",
+        "body": "Der unabhängige Resolver TrustedVolumes wurde von einem Exploit über 6,7 Millionen Dollar getroffen, während 1inch erklärte, der Vorfall sei kein Angriff auf die eigenen Systeme gewesen. Nach Angaben von 1inch richtete sich der Angriff gegen TrustedVolumes; Protokolle, Infrastruktur und Nutzergelder von 1inch waren nicht betroffen. Der Fall gilt als Sicherheitsproblem eines unabhängig betriebenen Akteurs mit Bezug zum 1inch-Ökosystem, doch 1inch betonte, dass Kernsysteme und Nutzervermögen unberührt blieben. Mögliche Marktauswirkungen dürften sich auf den TrustedVolumes-Kontext beschränken. Quelle: zitiert nach cointelegraph.com."
+      },
+      "fr": {
+        "title": "TrustedVolumes visé par un exploit de 6,7 M$; 1inch nie toute faille",
+        "excerpt": "1inch a déclaré que ses protocoles, son infrastructure et les fonds des utilisateurs n’avaient pas été touchés par l’exploit de 6,7 M$ visant TrustedVolumes.",
+        "body": "Le résolveur indépendant TrustedVolumes a subi un exploit de 6,7 millions de dollars, tandis que 1inch a affirmé que l’incident ne constituait pas une compromission de ses propres systèmes. Selon 1inch, l’attaque visait TrustedVolumes, et ses protocoles, son infrastructure ainsi que les fonds des utilisateurs n’ont pas été affectés. L’affaire relève d’un problème de sécurité concernant un opérateur indépendant lié à l’écosystème 1inch, mais la société a précisé que ses systèmes centraux et les actifs des utilisateurs restaient indemnes. L’impact de marché pourrait se limiter au périmètre lié à TrustedVolumes. Source: cité de cointelegraph.com."
+      },
+      "ar": {
+        "title": "استغلال TrustedVolumes بـ6.7 مليون دولار و1inch تنفي الاختراق",
+        "excerpt": "قالت 1inch إن بروتوكولاتها وبنيتها التحتية وأموال المستخدمين لم تتأثر بالاستغلال الذي استهدف محلل الطلبات المستقل TrustedVolumes بقيمة 6.7 مليون دولار.",
+        "body": "تعرّض محلل الطلبات المستقل TrustedVolumes لاستغلال بقيمة 6.7 مليون دولار، فيما قالت 1inch إن الحادث لا يمثل اختراقا لأنظمتها. وأوضحت 1inch أن الهجوم استهدف TrustedVolumes، وأن بروتوكولاتها وبنيتها التحتية وأموال المستخدمين لم تتأثر. ويُعرض الأمر كمسألة أمنية تخص جهة تشغيل مستقلة مرتبطة بمنظومة 1inch، لكن الشركة شددت على أن أنظمتها الأساسية وأصول المستخدمين لم تتضرر. وقد يظل الأثر في السوق محصورا في النطاق المرتبط بـTrustedVolumes. المصدر: نقلا عن cointelegraph.com."
+      },
+      "hi": {
+        "title": "TrustedVolumes पर $6.7M एक्सप्लॉइट, 1inch ने सेंध से इनकार किया",
+        "excerpt": "1inch ने कहा कि स्वतंत्र रिजॉल्वर TrustedVolumes को निशाना बनाने वाले 6.7 मिलियन डॉलर के एक्सप्लॉइट से उसके प्रोटोकॉल, इन्फ्रास्ट्रक्चर और यूजर फंड प्रभावित नहीं हुए।",
+        "body": "स्वतंत्र रिजॉल्वर TrustedVolumes पर 6.7 मिलियन डॉलर का एक्सप्लॉइट हुआ, जबकि 1inch ने कहा कि यह उसके अपने सिस्टम में सेंध नहीं थी। 1inch के अनुसार, हमले का लक्ष्य TrustedVolumes था और उसके प्रोटोकॉल, इन्फ्रास्ट्रक्चर तथा यूजर फंड प्रभावित नहीं हुए। यह मामला 1inch इकोसिस्टम से जुड़े एक स्वतंत्र ऑपरेटर की सुरक्षा समस्या के रूप में सामने आया, लेकिन 1inch ने स्पष्ट किया कि उसके मुख्य सिस्टम और उपयोगकर्ता संपत्तियों पर कोई असर नहीं पड़ा। बाजार प्रभाव TrustedVolumes से जुड़े दायरे तक सीमित रह सकता है। स्रोत: cointelegraph.com से उद्धृत।"
+      },
+      "id": {
+        "title": "TrustedVolumes Kena Eksploitasi $6,7 Juta, 1inch Bantah Diretas",
+        "excerpt": "1inch menyatakan protokol, infrastruktur, dan dana pengguna tidak terdampak eksploitasi senilai $6,7 juta yang menargetkan resolver independen TrustedVolumes.",
+        "body": "Resolver independen TrustedVolumes terkena eksploitasi senilai $6,7 juta, sementara 1inch menyatakan insiden itu bukan pelanggaran terhadap sistemnya sendiri. Menurut 1inch, serangan tersebut menargetkan TrustedVolumes, dan protokol, infrastruktur, serta dana pengguna 1inch tidak terdampak. Kasus ini dipandang sebagai isu keamanan pada pihak independen yang terhubung dengan ekosistem 1inch, tetapi 1inch menegaskan bahwa sistem inti dan aset pengguna tetap tidak bermasalah. Dampak pasar kemungkinan terbatas pada ruang lingkup yang terkait TrustedVolumes. Sumber: dikutip dari cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "17d659786f8c",
+    "slug": "purge-of-millions-of-crypto-tokens-underway-btc-needs-it-for-709788",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T12:11:31.755Z",
+    "updatedAt": "2026-05-07T12:11:31.755Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/07/purge-of-millions-of-crypto-tokens-underway-btc-needs-it-for-sustainable-bull-cycle-ben-cowen",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/07/purge-of-millions-of-crypto-tokens-underway-btc-needs-it-for-sustainable-bull-cycle-ben-cowen",
+    "titleFingerprint": "86fdf4c5dd04866bbf52b72703a81c51a784dde1",
+    "dedupKeys": [
+      "17d659786f8c7552a3ed21bb2278f96080a9e899",
+      "86fdf4c5dd04866bbf52b72703a81c51a784dde1",
+      "bd80a19ef563148b0f5f67b7ecbfb46417d5de45"
+    ],
+    "imageUrl": "/images/articles/17d659786f8c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 강세장 위해 수백만 알트코인 정리 진행",
+        "excerpt": "시장 분석가 벤 코웬은 수백만 개 알트코인의 정리가 이미 진행 중이며, 지속 가능한 비트코인 강세장을 위해 필요한 과정이라고 밝혔다.",
+        "body": "리서처이자 시장 분석가인 벤 코웬은 수백만 개에 이르는 알트코인의 정리가 이미 진행되고 있으며, 이는 지속 가능한 비트코인 강세 사이클이 형성되기 위해 필요한 과정이라고 말했다. 그는 시장에 너무 많은 토큰이 존재하는 상황이 비트코인 중심의 건전한 상승 흐름을 방해할 수 있다는 취지로 설명했다. 이번 발언은 알트코인 공급 과잉과 시장 선별 압력이 커지는 가운데 나왔다. 코웬은 이러한 정리가 비트코인 강세장이 더 오래 유지되는 기반이 될 수 있다고 봤다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Bitcoin Bull Cycle Needs Altcoin Token Purge, Ben Cowen Says",
+        "excerpt": "Market analyst Ben Cowen says a purge of millions of altcoins is already underway and is needed for a sustainable bitcoin bull market.",
+        "body": "Researcher and market analyst Ben Cowen said a purge of millions of altcoins is already underway and is necessary for a sustainable bitcoin bull cycle to take shape. He explained that the presence of too many tokens in the market can hinder a healthier bitcoin-led upward trend. The comments come as concerns grow over excessive altcoin supply and stronger market selection pressure. Cowen said this cleanup could help provide a more durable foundation for a bitcoin bull market. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "ビットコイン強気相場に数百万アルトコイン整理が必要",
+        "excerpt": "市場アナリストのベン・コーウェン氏は、数百万のアルトコイン整理がすでに進行中で、持続的なビットコイン強気相場に必要だと述べた。",
+        "body": "リサーチャーで市場アナリストのベン・コーウェン氏は、数百万に上るアルトコインの整理がすでに進んでおり、持続可能なビットコインの強気サイクルが形成されるために必要な過程だと述べた。同氏は、市場にあまりに多くのトークンが存在する状況が、ビットコイン主導の健全な上昇基調を妨げ得るとの趣旨で説明した。この発言は、アルトコインの供給過多と市場の選別圧力が高まる中で出たものだ。コーウェン氏は、こうした整理がビットコイン強気相場をより長く支える基盤になり得ると見ている。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "比特币牛市需要清理数百万山寨币，Ben Cowen称",
+        "excerpt": "市场分析师Ben Cowen表示，数百万种山寨币的清理已经开始，这是形成可持续比特币牛市所需的过程。",
+        "body": "研究员兼市场分析师Ben Cowen表示，数百万种山寨币的清理已经在进行中，而这一过程对于形成可持续的比特币牛市周期是必要的。他解释称，市场上存在过多代币，可能会阻碍以比特币为核心的更健康上涨趋势。此番言论出现在山寨币供应过剩以及市场筛选压力加大的背景下。Cowen认为，这种清理可能为比特币牛市更长久地维持提供基础。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Bitcoin necesita purga de millones de altcoins, dice Ben Cowen",
+        "excerpt": "El analista Ben Cowen afirma que la purga de millones de altcoins ya está en marcha y es necesaria para un mercado alcista sostenible de bitcoin.",
+        "body": "El investigador y analista de mercado Ben Cowen dijo que la purga de millones de altcoins ya está en marcha y que es necesaria para que se forme un ciclo alcista sostenible de bitcoin. Explicó que la existencia de demasiados tokens en el mercado puede obstaculizar una tendencia alcista más sana liderada por bitcoin. Sus comentarios llegan en un contexto de exceso de oferta de altcoins y mayor presión de selección del mercado. Cowen considera que esta limpieza podría dar una base más duradera al mercado alcista de bitcoin. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Bitcoin precisa de expurgo de milhões de altcoins, diz Ben Cowen",
+        "excerpt": "O analista Ben Cowen afirma que a limpeza de milhões de altcoins já está em curso e é necessária para um ciclo sustentável de alta do bitcoin.",
+        "body": "O pesquisador e analista de mercado Ben Cowen disse que a limpeza de milhões de altcoins já está em andamento e que esse processo é necessário para a formação de um ciclo sustentável de alta do bitcoin. Ele explicou que a existência de tokens em excesso no mercado pode atrapalhar uma tendência de alta mais saudável liderada pelo bitcoin. A declaração ocorre em meio ao excesso de oferta de altcoins e ao aumento da pressão de seleção no mercado. Cowen vê essa limpeza como uma possível base para sustentar por mais tempo a alta do bitcoin. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Bitcoin-Bullenmarkt braucht Bereinigung von Millionen Altcoins",
+        "excerpt": "Marktanalyst Ben Cowen sagt, die Bereinigung von Millionen Altcoins laufe bereits und sei für einen nachhaltigen Bitcoin-Bullenmarkt nötig.",
+        "body": "Der Researcher und Marktanalyst Ben Cowen sagte, die Bereinigung von Millionen Altcoins sei bereits im Gange und notwendig, damit sich ein nachhaltiger Bitcoin-Bullenzyklus bilden könne. Er erklärte, dass zu viele Token am Markt einen gesünderen, von Bitcoin getragenen Aufwärtstrend behindern könnten. Die Aussagen fallen in eine Phase, in der das Überangebot an Altcoins und der Selektionsdruck am Markt zunehmen. Cowen sieht in dieser Bereinigung eine mögliche Grundlage dafür, dass ein Bitcoin-Bullenmarkt länger Bestand haben kann. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Bitcoin a besoin d’une purge de millions d’altcoins, selon Cowen",
+        "excerpt": "L’analyste Ben Cowen affirme que la purge de millions d’altcoins est déjà en cours et nécessaire à un marché haussier durable du bitcoin.",
+        "body": "Le chercheur et analyste de marché Ben Cowen a déclaré qu’une purge de millions d’altcoins était déjà en cours et qu’elle était nécessaire à la formation d’un cycle haussier durable du bitcoin. Selon lui, la présence d’un trop grand nombre de tokens sur le marché peut freiner une tendance haussière plus saine menée par le bitcoin. Ces propos interviennent alors que l’excès d’offre d’altcoins et la pression de sélection du marché augmentent. Cowen estime que ce nettoyage pourrait offrir une base plus solide à la durée du marché haussier du bitcoin. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "بيتكوين تحتاج إلى تصفية ملايين العملات البديلة، وفق بن كاون",
+        "excerpt": "قال المحلل بن كاون إن تصفية ملايين العملات البديلة بدأت بالفعل، وهي ضرورية لتكوين دورة صعود مستدامة في سوق بيتكوين.",
+        "body": "قال الباحث ومحلل الأسواق بن كاون إن تصفية ملايين العملات البديلة جارية بالفعل، وإنها عملية ضرورية لتشكيل دورة صعود مستدامة في بيتكوين. وأوضح أن وجود عدد كبير جدا من الرموز في السوق قد يعرقل اتجاها صعوديا أكثر صحة تقوده بيتكوين. جاءت تصريحاته في ظل تزايد المخاوف من فائض المعروض في العملات البديلة وارتفاع ضغط الانتقاء داخل السوق. ويرى كاون أن هذه التصفية قد توفر أساسا يساعد سوق بيتكوين الصاعد على الاستمرار مدة أطول. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "बिटकॉइन बुल साइकिल के लिए लाखों ऑल्टकॉइन की सफाई जरूरी",
+        "excerpt": "विश्लेषक बेन कोवेन का कहना है कि लाखों ऑल्टकॉइन की सफाई पहले से जारी है और टिकाऊ बिटकॉइन बुल मार्केट के लिए जरूरी है।",
+        "body": "शोधकर्ता और बाजार विश्लेषक बेन कोवेन ने कहा कि लाखों ऑल्टकॉइन की सफाई पहले से जारी है और टिकाऊ बिटकॉइन बुल साइकिल बनने के लिए यह प्रक्रिया जरूरी है। उन्होंने समझाया कि बाजार में बहुत अधिक टोकन मौजूद होना बिटकॉइन के नेतृत्व वाली स्वस्थ तेजी की दिशा में बाधा बन सकता है। यह बयान ऐसे समय आया है जब ऑल्टकॉइन की अत्यधिक आपूर्ति और बाजार में चयन का दबाव बढ़ रहा है। कोवेन के अनुसार, यह सफाई बिटकॉइन बुल मार्केट को अधिक समय तक टिकाए रखने की बुनियाद बन सकती है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Bitcoin Butuh Pembersihan Jutaan Altcoin, Kata Ben Cowen",
+        "excerpt": "Analis pasar Ben Cowen mengatakan pembersihan jutaan altcoin sudah berlangsung dan diperlukan untuk siklus bull bitcoin yang berkelanjutan.",
+        "body": "Peneliti dan analis pasar Ben Cowen mengatakan pembersihan jutaan altcoin sudah berlangsung dan diperlukan agar siklus bull bitcoin yang berkelanjutan dapat terbentuk. Ia menjelaskan bahwa terlalu banyak token di pasar dapat menghambat tren kenaikan yang lebih sehat dengan bitcoin sebagai pusatnya. Pernyataan ini muncul saat kelebihan pasokan altcoin dan tekanan seleksi pasar semakin meningkat. Cowen menilai pembersihan tersebut dapat menjadi dasar yang membantu bull market bitcoin bertahan lebih lama. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "a8d3307a8c31",
+    "slug": "bitcoin-narrowly-missed-a-major-breakout-history-says-be-car-364773",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T12:10:41.240Z",
+    "updatedAt": "2026-05-07T12:10:41.240Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/daybook-us/2026/05/07/bitcoin-narrowly-missed-a-major-breakout-history-says-be-careful",
+    "canonicalUrl": "https://www.coindesk.com/daybook-us/2026/05/07/bitcoin-narrowly-missed-a-major-breakout-history-says-be-careful",
+    "titleFingerprint": "d28236b00e83f4d51a34073f781c130a7380a14b",
+    "dedupKeys": [
+      "a8d3307a8c31d2069e428ffec1158d5606e2f62c",
+      "d28236b00e83f4d51a34073f781c130a7380a14b",
+      "c4d641f15c82fcf285ae8b953c1bfc95aeb0f24c"
+    ],
+    "imageUrl": "/images/articles/a8d3307a8c31.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 주요 돌파 실패, 5월 7일 시장이 조심해야 할 이유",
+        "excerpt": "2026년 5월 7일을 앞두고 비트코인이 주요 돌파에 근접했지만 실패했다는 분석이 나왔고, 과거 흐름은 투자자들에게 신중한 대응을 시사한다.",
+        "body": "2026년 5월 7일을 앞둔 크립토 시장에서 비트코인은 주요 돌파에 거의 도달했지만 끝내 확인에는 실패했다. 원문은 이 움직임을 당일 전 시장을 살펴보는 관점에서 다루며, 단순한 상승 기대보다 신중한 판단이 필요하다고 전했다. 배경은 비트코인이 중요한 가격 흐름을 앞두고도 확실한 돌파 신호를 만들지 못했다는 점이다. 관련 수치는 원문 요약에 제시되지 않았지만, 핵심 메시지는 과거 유사한 흐름이 경계심을 요구했다는 것이다. 이에 따라 단기 투자자와 시장 참여자는 돌파 여부를 재확인하며 변동성에 대비할 필요가 있다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Bitcoin Misses Key Breakout as May 7 Market Watch Urges Caution",
+        "excerpt": "Ahead of May 7, 2026, Bitcoin came close to a major breakout but failed to confirm it, while historical patterns suggest investors should stay cautious.",
+        "body": "Ahead of May 7, 2026, Bitcoin nearly reached a major breakout but failed to confirm the move. The original report framed this as a day-ahead look at the crypto market, emphasizing caution rather than simple upside expectations. The context is that Bitcoin approached an important market threshold without producing a clear breakout signal. No specific figures were provided in the original summary, but the main point was that history has called for care in similar situations. Short-term traders and market participants may therefore need to watch for confirmation and prepare for volatility. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "ビットコイン主要突破ならず、5月7日の市場は慎重姿勢に",
+        "excerpt": "2026年5月7日を前に、ビットコインは主要な突破に迫ったものの確認には至らず、過去の流れは投資家に慎重な対応を促している。",
+        "body": "2026年5月7日を前にした暗号資産市場で、ビットコインは主要なブレイクアウトにあと一歩まで迫ったが、最終的な確認には至らなかった。原文はこれを翌日の市場を見通す文脈で取り上げ、単純な上昇期待よりも慎重な判断が必要だと伝えている。背景には、重要な値動きの局面で明確な突破シグナルを作れなかった点がある。原文要約には具体的な数値は示されていないが、核心は過去の類似局面が警戒を促してきたということだ。短期投資家と市場参加者は、突破の確認と変動性への備えが求められる。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "比特币未能完成关键突破，5月7日市场需保持谨慎",
+        "excerpt": "在2026年5月7日到来前，比特币一度接近重大突破但未获确认，历史走势显示投资者仍需谨慎应对。",
+        "body": "在2026年5月7日到来前的加密市场中，比特币几乎触及一次重大突破，但最终未能获得确认。原文将这一走势放在日内前瞻的框架下分析，强调相比单纯期待上涨，市场更需要谨慎判断。背景在于，比特币虽然接近重要价格走势节点，却没有形成明确的突破信号。原文摘要未提供具体数据，但核心信息是，历史上类似走势往往要求投资者保持警惕。因此，短线交易者和市场参与者需要继续确认突破是否成立，并为波动做好准备。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Bitcoin falla un breakout clave y el mercado del 7 de mayo pide cautela",
+        "excerpt": "De cara al 7 de mayo de 2026, Bitcoin estuvo cerca de un gran breakout pero no lo confirmó, mientras la historia sugiere cautela para los inversores.",
+        "body": "De cara al 7 de mayo de 2026, Bitcoin estuvo muy cerca de un breakout importante, pero no logró confirmarlo. El informe original lo presentó como una mirada previa al mercado cripto del día siguiente y destacó la necesidad de cautela por encima de una simple expectativa alcista. El contexto es que Bitcoin se acercó a una zona técnica relevante sin generar una señal clara de ruptura. El resumen original no incluyó cifras específicas, pero el mensaje central fue que la historia aconseja cuidado en situaciones similares. Por ello, los operadores de corto plazo y participantes del mercado deberían vigilar la confirmación y prepararse para la volatilidad. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Bitcoin falha rompimento importante e mercado de 7 de maio pede cautela",
+        "excerpt": "Antes de 7 de maio de 2026, o Bitcoin ficou perto de um grande rompimento, mas não confirmou o movimento, e o histórico sugere cautela aos investidores.",
+        "body": "Antes de 7 de maio de 2026, o Bitcoin chegou muito perto de um rompimento importante, mas não conseguiu confirmar o movimento. O texto original tratou o tema como uma visão antecipada do mercado cripto para o dia seguinte, destacando cautela em vez de uma expectativa simples de alta. O contexto é que o Bitcoin se aproximou de um ponto relevante de preço sem produzir um sinal claro de rompimento. O resumo original não apresentou números específicos, mas a mensagem central foi que a história recomenda cuidado em situações semelhantes. Assim, traders de curto prazo e participantes do mercado devem acompanhar a confirmação e se preparar para volatilidade. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Bitcoin verpasst wichtigen Ausbruch, Markt am 7. Mai bleibt vorsichtig",
+        "excerpt": "Vor dem 7. Mai 2026 näherte sich Bitcoin einem wichtigen Ausbruch, bestätigte ihn aber nicht; historische Muster mahnen Anleger zur Vorsicht.",
+        "body": "Vor dem 7. Mai 2026 stand Bitcoin kurz vor einem wichtigen Ausbruch, konnte diese Bewegung jedoch nicht bestätigen. Der Originalbericht ordnete dies als Ausblick auf den Kryptomarkt des Folgetages ein und betonte, dass Vorsicht wichtiger sei als reine Aufwärtserwartungen. Der Hintergrund ist, dass Bitcoin eine bedeutende Marktzone erreichte, ohne ein klares Ausbruchssignal zu liefern. Konkrete Zahlen wurden in der ursprünglichen Zusammenfassung nicht genannt, doch die Kernaussage lautet, dass die Geschichte in ähnlichen Situationen zur Vorsicht mahnt. Kurzfristige Trader und Marktteilnehmer sollten daher auf Bestätigung achten und sich auf Volatilität einstellen. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Bitcoin manque une cassure majeure, prudence avant le marché du 7 mai",
+        "excerpt": "À l’approche du 7 mai 2026, Bitcoin a frôlé une cassure majeure sans la confirmer, tandis que l’historique invite les investisseurs à rester prudents.",
+        "body": "À l’approche du 7 mai 2026, Bitcoin a presque atteint une cassure majeure, mais le mouvement n’a pas été confirmé. L’article original l’a présenté comme un aperçu du marché crypto pour la journée suivante, en soulignant la prudence plutôt qu’une simple attente de hausse. Le contexte est que Bitcoin s’est rapproché d’un seuil de marché important sans produire de signal clair de cassure. Le résumé original ne fournit pas de chiffres précis, mais son message central est que l’histoire appelle à la prudence dans des situations similaires. Les traders de court terme et les participants au marché devraient donc surveiller la confirmation et se préparer à la volatilité. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "بيتكوين يفشل في اختراق رئيسي وسوق 7 مايو يتطلب الحذر",
+        "excerpt": "قبيل 7 مايو 2026، اقتربت بيتكوين من اختراق كبير لكنها لم تؤكده، فيما تشير الأنماط التاريخية إلى ضرورة حذر المستثمرين.",
+        "body": "قبيل 7 مايو 2026، اقتربت بيتكوين من تحقيق اختراق رئيسي في سوق العملات المشفرة، لكنها لم تتمكن من تأكيد الحركة. عرض التقرير الأصلي ذلك ضمن نظرة استباقية على السوق لليوم التالي، مع التأكيد على أن الحذر أهم من الاكتفاء بتوقعات صعودية. تكمن الخلفية في أن بيتكوين اقتربت من مسار سعري مهم من دون أن تنتج إشارة اختراق واضحة. لم يقدم ملخص المصدر أرقاما محددة، لكن الرسالة الأساسية هي أن التاريخ يدعو إلى الانتباه في مواقف مشابهة. لذلك يحتاج المتداولون قصيرو الأجل والمشاركون في السوق إلى مراقبة تأكيد الاختراق والاستعداد للتقلبات. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "Bitcoin का बड़ा ब्रेकआउट चूका, 7 मई के बाजार में सतर्कता जरूरी",
+        "excerpt": "7 मई 2026 से पहले Bitcoin बड़े ब्रेकआउट के करीब पहुंचा लेकिन पुष्टि नहीं हुई, और इतिहास निवेशकों को सावधानी बरतने का संकेत देता है।",
+        "body": "7 मई 2026 से पहले क्रिप्टो बाजार में Bitcoin एक बड़े ब्रेकआउट के बहुत करीब पहुंचा, लेकिन यह चाल पुष्टि तक नहीं पहुंच सकी। मूल रिपोर्ट ने इसे अगले दिन के बाजार पर नजर के रूप में पेश किया और केवल तेजी की उम्मीद के बजाय सतर्क निर्णय की जरूरत बताई। संदर्भ यह है कि Bitcoin एक अहम कीमत-चाल के मोड़ पर पहुंचा, पर स्पष्ट ब्रेकआउट संकेत नहीं बना। मूल सारांश में कोई विशिष्ट आंकड़े नहीं दिए गए, लेकिन मुख्य संदेश यह था कि ऐसे समान ऐतिहासिक दौर सावधानी की मांग करते हैं। इसलिए अल्पकालिक ट्रेडरों और बाजार प्रतिभागियों को पुष्टि पर नजर रखनी चाहिए और अस्थिरता के लिए तैयार रहना चाहिए। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Bitcoin Gagal Breakout Besar, Pasar 7 Mei Perlu Lebih Waspada",
+        "excerpt": "Menjelang 7 Mei 2026, Bitcoin nyaris mencetak breakout besar tetapi gagal terkonfirmasi, sementara sejarah menunjukkan investor perlu berhati-hati.",
+        "body": "Menjelang 7 Mei 2026, Bitcoin hampir mencapai breakout besar di pasar kripto, tetapi pergerakan itu belum terkonfirmasi. Laporan asli membingkainya sebagai pandangan sehari ke depan untuk pasar, dengan penekanan pada kehati-hatian daripada sekadar ekspektasi kenaikan. Latar utamanya adalah Bitcoin mendekati fase harga penting tanpa menghasilkan sinyal breakout yang jelas. Ringkasan asli tidak memuat angka spesifik, namun pesan intinya adalah bahwa sejarah menyarankan kewaspadaan dalam situasi serupa. Karena itu, trader jangka pendek dan pelaku pasar perlu menunggu konfirmasi serta bersiap menghadapi volatilitas. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
     "id": "e8a005985269",
     "slug": "changelly-report-highlights-growing-stablecoin-use-in-everyd-583984",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Clarity Act Target 4 Juli, Gedung Putih Percepat Agenda Kripto",
         "excerpt": "Patrick Witt mengatakan Gedung Putih menargetkan pengesahan Clarity Act pada 4 Juli, sementara Komite Perbankan Senat akan menggelar dengar pendapat bulan ini.",
         "body": "Gedung Putih menargetkan 4 Juli untuk pengesahan Clarity Act, rancangan undang-undang tentang struktur pasar kripto, menurut Patrick Witt, direktur eksekutif President's Council of Advisors for Digital Assets. Witt mengatakan Komite Perbankan Senat akan menggelar dengar pendapat bulan ini mengenai rancangan undang-undang struktur pasar tersebut. Pernyataan itu menunjukkan bahwa pembahasan regulasi aset digital dan struktur pasar mulai masuk dalam agenda Kongres. Tanggal target dan jadwal dengar pendapat akan menjadi acuan penting bagi diskusi kebijakan kripto Amerika Serikat. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "a9554e25faa2",
-    "slug": "zcash-price-may-hit-800-as-27b-hedge-fund-reveals-significan-982763",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T20:50:56.997Z",
-    "updatedAt": "2026-05-06T20:50:56.997Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/zcash-price-eyes-40-rally-as-27b-hedge-fund-reveals-significant-position-in-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/zcash-price-eyes-40-rally-as-27b-hedge-fund-reveals-significant-position-in-zec",
-    "titleFingerprint": "7d4dfd6e0759d374894db7ecc22bb52f8944d65a",
-    "dedupKeys": [
-      "a9554e25faa277709261422fcba09c82be353ce1",
-      "7d4dfd6e0759d374894db7ecc22bb52f8944d65a",
-      "6363ecc7292f525719450dea567c46ddc96a0e9e"
-    ],
-    "imageUrl": "/images/articles/a9554e25faa2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Zcash 가격 800달러 전망, 27억달러 헤지펀드 ZEC 보유 공개",
-        "excerpt": "5월 6일 코인텔레그래프는 멀티코인캐피털의 ZEC 대규모 보유 공개, 로빈후드 상장, 공급 축소가 Zcash 가격의 800달러 기술적 목표를 뒷받침한다고 전했다.",
-        "body": "5월 6일 코인텔레그래프에 따르면 프라이버시 코인 Zcash(ZEC)는 미국 암호화폐 헤지펀드 멀티코인캐피털이 ‘상당한 포지션’을 공개한 뒤 강세 전망이 강화됐다. 26억8,700만달러를 운용하는 멀티코인은 공동창업자 투샤르 자인을 통해 2월부터 ZEC를 매수해 왔다고 밝혔다. ZEC는 최근 한 달 125% 이상 올라 주요 코인 평균 15% 상승을 웃돌았고, 발표 후 24시간 동안 43% 넘게 급등했다. 기술적으로 주간 차트의 불 플래그 돌파 목표는 약 800달러이며, 수요일 장중 고점 607달러 대비 약 40% 위다. 4월 23일 로빈후드 상장, 미·이란 긴장 완화 기대, 유통 ZEC의 30% 이상이 차폐 주소에 있는 점도 공급 축소 요인으로 언급됐다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Zcash Price Eyes $800 as $2.7B Hedge Fund Reveals ZEC Stake",
-        "excerpt": "On May 6, Cointelegraph reported that Multicoin Capital’s major ZEC position, Robinhood’s listing and tighter liquid supply support Zcash’s technical path toward $800.",
-        "body": "According to Cointelegraph on May 6, privacy coin Zcash (ZEC) gained a stronger bullish outlook after US crypto hedge fund Multicoin Capital disclosed a “significant position.” The firm, which manages $2.687 billion in assets, said through co-founder Tushar Jain that it had been buying ZEC since February. ZEC has risen more than 125% over the past month, versus an average 15% gain for major coins, and jumped over 43% in the 24 hours after the announcement. Technically, a weekly bull-flag breakout points to a target near $800, about 40% above Wednesday’s intraday high of $607. Cointelegraph also cited Robinhood’s April 23 listing, easing US-Iran tensions and more than 30% of circulating ZEC being held in shielded addresses as supply-tightening factors. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "Zcash価格800ドル視野、27億ドルファンドがZEC保有を公開",
-        "excerpt": "5月6日、コインテレグラフは、マルチコインのZEC大口保有、ロビンフッド上場、流動供給の縮小がZcashの800ドル目標を支えると報じた。",
-        "body": "コインテレグラフが5月6日に報じたところによると、プライバシーコインZcash（ZEC）は、米暗号資産ヘッジファンドのマルチコイン・キャピタルが「重要なポジション」を公開したことで強気見通しが強まった。同社は26億8,700万ドルを運用しており、共同創業者トゥシャール・ジャイン氏を通じて2月からZECを購入してきたと明らかにした。ZECは過去1カ月で125%超上昇し、主要コイン平均の15%を上回ったほか、発表後24時間で43%超急騰した。週足のブルフラッグ上抜けは約800ドルを目標とし、水曜の高値607ドルから約40%上に位置する。4月23日のロビンフッド上場、米イラン緊張緩和への期待、流通ZECの30%超がシールドアドレスにある点も供給逼迫要因として挙げられた。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "Zcash价格瞄准800美元，27亿美元基金披露ZEC持仓",
-        "excerpt": "5月6日，Cointelegraph称，Multicoin Capital披露ZEC重要持仓，加上Robinhood上市和流动供应收紧，支撑Zcash迈向800美元技术目标。",
-        "body": "据Cointelegraph 5月6日报道，隐私币Zcash（ZEC）在美国加密对冲基金Multicoin Capital披露“重要持仓”后， bullish 预期进一步增强。该基金管理资产26.87亿美元，联合创始人Tushar Jain表示，自2月以来一直在买入ZEC。过去一个月，ZEC上涨超过125%，高于主要币种平均15%的涨幅；公告发布后24小时内又上涨逾43%。从技术面看，周线牛旗突破给出的目标接近800美元，较周三盘中高点607美元约高40%。Cointelegraph还提到，4月23日Robinhood上线ZEC、美伊紧张缓和预期，以及超过30%的流通ZEC位于屏蔽地址，均被视为供应收紧因素。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Zcash apunta a 800 dólares tras posición ZEC de fondo de 2.700M",
-        "excerpt": "El 6 de mayo, Cointelegraph informó que la posición relevante de Multicoin en ZEC, la llegada a Robinhood y una oferta líquida menor apoyan el objetivo técnico de 800 dólares.",
-        "body": "Según Cointelegraph el 6 de mayo, la moneda de privacidad Zcash (ZEC) reforzó su perspectiva alcista después de que el fondo cripto estadounidense Multicoin Capital revelara una “posición significativa”. La firma, que gestiona 2.687 millones de dólares, dijo por medio de su cofundador Tushar Jain que compra ZEC desde febrero. ZEC subió más de 125% en el último mes, frente al avance promedio de 15% de las principales monedas, y saltó más de 43% en las 24 horas posteriores al anuncio. En el plano técnico, la ruptura de una bandera alcista semanal apunta a un objetivo cercano a 800 dólares, alrededor de 40% sobre el máximo intradía del miércoles de 607 dólares. Cointelegraph también citó la cotización en Robinhood del 23 de abril, la menor tensión entre EE. UU. e Irán y que más de 30% del ZEC circulante está en direcciones blindadas como factores de menor oferta. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Zcash mira US$ 800 após fundo de US$ 2,7 bi revelar posição em ZEC",
-        "excerpt": "Em 6 de maio, a Cointelegraph informou que a posição relevante da Multicoin em ZEC, a listagem na Robinhood e a menor oferta líquida sustentam a meta técnica de US$ 800.",
-        "body": "Segundo a Cointelegraph em 6 de maio, a moeda de privacidade Zcash (ZEC) ganhou perspectiva mais otimista depois que o hedge fund cripto americano Multicoin Capital revelou uma “posição significativa”. A gestora, com US$ 2,687 bilhões sob gestão, disse por meio do cofundador Tushar Jain que compra ZEC desde fevereiro. O ZEC subiu mais de 125% no último mês, acima da média de 15% das principais moedas, e avançou mais de 43% nas 24 horas após o anúncio. Tecnicamente, o rompimento de uma bandeira de alta no gráfico semanal aponta para uma meta perto de US$ 800, cerca de 40% acima da máxima intradiária de quarta-feira, de US$ 607. A Cointelegraph também citou a listagem na Robinhood em 23 de abril, a expectativa de alívio nas tensões EUA-Irã e mais de 30% do ZEC circulante em endereços blindados como fatores de aperto de oferta. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Zcash peilt 800 Dollar an, 2,7-Mrd.-Fonds meldet ZEC-Position",
-        "excerpt": "Am 6. Mai berichtete Cointelegraph, dass Multicoins größere ZEC-Position, das Robinhood-Listing und eine knappere liquide Menge das technische Ziel von 800 Dollar stützen.",
-        "body": "Laut Cointelegraph vom 6. Mai hat sich der bullische Ausblick für die Privacy-Coin Zcash (ZEC) verstärkt, nachdem der US-Krypto-Hedgefonds Multicoin Capital eine „signifikante Position“ offengelegt hatte. Die Firma verwaltet 2,687 Milliarden Dollar und erklärte über Mitgründer Tushar Jain, seit Februar ZEC zu kaufen. ZEC stieg im vergangenen Monat um mehr als 125% und lag damit über dem durchschnittlichen Plus von 15% bei wichtigen Coins; nach der Mitteilung legte der Token binnen 24 Stunden um über 43% zu. Technisch deutet der Ausbruch aus einer Bull Flag im Wochenchart auf ein Ziel nahe 800 Dollar hin, rund 40% über dem Mittwoch-Hoch von 607 Dollar. Cointelegraph nannte zudem das Robinhood-Listing vom 23. April, nachlassende Spannungen zwischen den USA und Iran sowie mehr als 30% des umlaufenden ZEC in Shielded Addresses als Faktoren für ein knapperes Angebot. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Zcash vise 800 dollars après la position ZEC d’un fonds de 2,7 Md$",
-        "excerpt": "Le 6 mai, Cointelegraph a indiqué que la position importante de Multicoin en ZEC, la cotation Robinhood et une offre liquide réduite soutiennent l’objectif technique de 800 dollars.",
-        "body": "Selon Cointelegraph le 6 mai, la cryptomonnaie de confidentialité Zcash (ZEC) a vu ses perspectives haussières se renforcer après que le hedge fund crypto américain Multicoin Capital a révélé une « position significative ». La société, qui gère 2,687 milliards de dollars d’actifs, a indiqué par son cofondateur Tushar Jain acheter du ZEC depuis février. ZEC a progressé de plus de 125% sur un mois, contre une hausse moyenne de 15% pour les principales cryptomonnaies, puis a bondi de plus de 43% dans les 24 heures suivant l’annonce. Sur le plan technique, la sortie d’un bull flag hebdomadaire donne un objectif proche de 800 dollars, environ 40% au-dessus du sommet intrajournalier de mercredi à 607 dollars. Cointelegraph cite aussi la cotation sur Robinhood le 23 avril, l’apaisement des tensions États-Unis-Iran et plus de 30% du ZEC en circulation dans des adresses protégées comme facteurs de resserrement de l’offre. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "سعر Zcash يستهدف 800 دولار بعد كشف صندوق بـ2.7 مليار عن ZEC",
-        "excerpt": "في 6 مايو، أفاد Cointelegraph بأن حيازة Multicoin الكبيرة من ZEC، وإدراجه على Robinhood، وتراجع المعروض السائل تدعم الهدف الفني لسعر Zcash قرب 800 دولار.",
-        "body": "وفقًا لتقرير Cointelegraph في 6 مايو، تعززت النظرة الصعودية لعملة الخصوصية Zcash (ZEC) بعدما كشف صندوق التحوط الأمريكي للعملات المشفرة Multicoin Capital عن “مركز كبير”. ويدير الصندوق أصولًا بقيمة 2.687 مليار دولار، وقال عبر مؤسسه المشارك Tushar Jain إنه يشتري ZEC منذ فبراير. ارتفعت ZEC بأكثر من 125% خلال الشهر الماضي، مقارنة بمتوسط 15% لأبرز العملات، وقفزت بأكثر من 43% خلال 24 ساعة بعد الإعلان. فنيًا، يشير اختراق نموذج الراية الصاعدة على الرسم الأسبوعي إلى هدف قريب من 800 دولار، أي نحو 40% فوق أعلى مستوى يوم الأربعاء عند 607 دولارات. وذكر Cointelegraph أيضًا إدراج Robinhood في 23 أبريل، وتراجع التوتر بين الولايات المتحدة وإيران، ووجود أكثر من 30% من المعروض المتداول من ZEC في عناوين محمية كعوامل تضيق المعروض. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "Zcash कीमत $800 की ओर, $2.7B फंड ने ZEC पोजिशन बताई",
-        "excerpt": "6 मई को Cointelegraph ने बताया कि Multicoin की बड़ी ZEC होल्डिंग, Robinhood लिस्टिंग और घटती लिक्विड सप्लाई Zcash के $800 तकनीकी लक्ष्य को सहारा दे रही हैं।",
-        "body": "Cointelegraph की 6 मई की रिपोर्ट के अनुसार, प्राइवेसी कॉइन Zcash (ZEC) पर तेजी का नजरिया तब मजबूत हुआ जब अमेरिकी क्रिप्टो हेज फंड Multicoin Capital ने “महत्वपूर्ण पोजिशन” का खुलासा किया। 2.687 अरब डॉलर की संपत्ति प्रबंधित करने वाली फर्म ने सह-संस्थापक Tushar Jain के जरिये बताया कि वह फरवरी से ZEC खरीद रही है। ZEC पिछले एक महीने में 125% से अधिक चढ़ा, जबकि प्रमुख कॉइनों की औसत बढ़त 15% रही, और घोषणा के बाद 24 घंटे में 43% से ज्यादा उछला। तकनीकी रूप से, साप्ताहिक बुल फ्लैग ब्रेकआउट करीब $800 का लक्ष्य दिखाता है, जो बुधवार के $607 इंट्राडे हाई से लगभग 40% ऊपर है। Cointelegraph ने 23 अप्रैल की Robinhood लिस्टिंग, अमेरिका-ईरान तनाव में नरमी की उम्मीद और सर्कुलेटिंग ZEC के 30% से अधिक के शील्डेड एड्रेस में होने को भी सप्लाई घटाने वाले कारक बताया। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Zcash Bidik $800 Usai Dana $2,7 Miliar Ungkap Posisi ZEC",
-        "excerpt": "Pada 6 Mei, Cointelegraph melaporkan posisi besar Multicoin di ZEC, listing Robinhood, dan pasokan likuid yang menyusut mendukung target teknikal Zcash menuju $800.",
-        "body": "Menurut Cointelegraph pada 6 Mei, prospek bullish koin privasi Zcash (ZEC) menguat setelah hedge fund kripto AS Multicoin Capital mengungkap “posisi signifikan”. Perusahaan yang mengelola aset $2,687 miliar itu, melalui salah satu pendirinya Tushar Jain, menyatakan telah membeli ZEC sejak Februari. ZEC naik lebih dari 125% dalam sebulan terakhir, melampaui kenaikan rata-rata 15% pada koin utama, dan melonjak lebih dari 43% dalam 24 jam setelah pengumuman. Secara teknikal, breakout bull flag mingguan mengarah ke target sekitar $800, sekitar 40% di atas level tertinggi intraday Rabu di $607. Cointelegraph juga menyebut listing Robinhood pada 23 April, meredanya ketegangan AS-Iran, serta lebih dari 30% ZEC beredar berada di shielded address sebagai faktor yang memperketat pasokan. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "0bb64e071bad",
-    "slug": "samsung-sds-wins-deal-to-build-south-koreas-blockchain-secur-986287",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T20:49:41.652Z",
-    "updatedAt": "2026-05-06T20:49:41.652Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/samsung-sds-to-build-token-securities-platform-for-korea-securities-depository?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/samsung-sds-to-build-token-securities-platform-for-korea-securities-depository",
-    "titleFingerprint": "7c75ee6387f6c6e06e2801cd0d96452aadfa5d42",
-    "dedupKeys": [
-      "0bb64e071bad82bf5e374504804c3bb128ced8cb",
-      "7c75ee6387f6c6e06e2801cd0d96452aadfa5d42",
-      "5e1772e12fb48319a8c443499297d2e7328c5b50"
-    ],
-    "imageUrl": "/images/articles/0bb64e071bad.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성SDS, 한국 블록체인 증권 시스템 구축 사업 수주",
-        "excerpt": "삼성SDS가 한국예탁결제원의 블록체인 기반 증권 플랫폼 구축 사업을 수주했으며, 해당 시스템은 보안토큰 제도 도입에 맞춰 2027년 2월 가동될 전망이다.",
-        "body": "삼성SDS가 한국예탁결제원의 블록체인 기반 증권 시스템 구축 사업을 수주했다고 cointelegraph.com이 보도했다. 이 플랫폼은 한국의 보안토큰 제도 도입 일정에 맞춰 2027년 2월 가동될 것으로 예상된다. 한국예탁결제원은 증권 예탁과 결제 인프라를 담당하는 기관으로, 이번 시스템은 블록체인 기술을 활용한 증권 처리 기반을 마련하는 데 초점이 있다. 보안토큰 프레임워크가 시행되면 관련 발행과 유통 인프라의 중요성도 커질 수 있다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Samsung SDS Wins Korea Blockchain Securities System Deal",
-        "excerpt": "Samsung SDS has won a Korea Securities Depository project to build a blockchain-based securities platform, expected to launch by February 2027 alongside the security token framework.",
-        "body": "Samsung SDS has won a contract to build a blockchain-based securities system for the Korea Securities Depository, cointelegraph.com reported. The platform is expected to go live in February 2027, in line with South Korea’s incoming security token framework. The Korea Securities Depository handles securities depository and settlement infrastructure, and the project focuses on creating a blockchain-based foundation for securities processing. As the security token framework takes effect, infrastructure for related issuance and distribution may become more important. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "Samsung SDS、韓国ブロックチェーン証券システム受注",
-        "excerpt": "Samsung SDSは韓国預託決済院のブロックチェーン証券プラットフォーム構築事業を受注し、同システムは2027年2月に稼働する見通しです。",
-        "body": "Samsung SDSが韓国預託決済院のブロックチェーン基盤証券システム構築事業を受注したと、cointelegraph.comが報じた。このプラットフォームは、韓国で導入予定のセキュリティトークン制度に合わせ、2027年2月に稼働する見通しだ。韓国預託決済院は証券の預託と決済インフラを担う機関であり、今回のシステムはブロックチェーン技術を活用した証券処理基盤の整備に焦点を当てる。制度開始後、関連する発行・流通インフラの重要性が高まる可能性がある。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "三星SDS获韩国区块链证券系统建设项目",
-        "excerpt": "三星SDS赢得韩国证券存托院区块链证券平台建设项目，该系统预计将配合韩国证券型代币框架于2027年2月上线。",
-        "body": "据cointelegraph.com报道，三星SDS已赢得韩国证券存托院区块链证券系统建设项目。该平台预计将于2027年2月上线，并与韩国即将推出的证券型代币框架保持一致。韩国证券存托院负责证券存托和结算基础设施，此次系统建设重点是利用区块链技术建立证券处理基础。随着证券型代币框架实施，相关发行和流通基础设施的重要性可能进一步提升。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Samsung SDS gana sistema blockchain de valores en Corea",
-        "excerpt": "Samsung SDS ganó el proyecto del Korea Securities Depository para crear una plataforma blockchain de valores, prevista para febrero de 2027 junto al marco de tokens de seguridad.",
-        "body": "Samsung SDS ganó un contrato para construir un sistema de valores basado en blockchain para el Korea Securities Depository, informó cointelegraph.com. La plataforma está prevista para entrar en funcionamiento en febrero de 2027, alineada con el próximo marco de tokens de seguridad de Corea del Sur. El Korea Securities Depository gestiona infraestructura de depósito y liquidación de valores, y el proyecto busca crear una base de procesamiento de valores con tecnología blockchain. Con la entrada del marco de tokens de seguridad, la infraestructura de emisión y distribución relacionada podría ganar importancia. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Samsung SDS vence sistema blockchain de valores na Coreia",
-        "excerpt": "A Samsung SDS venceu projeto do Korea Securities Depository para criar uma plataforma blockchain de valores, prevista para fevereiro de 2027 com o marco de tokens mobiliários.",
-        "body": "A Samsung SDS venceu um contrato para construir um sistema de valores baseado em blockchain para o Korea Securities Depository, informou o cointelegraph.com. A plataforma deve entrar em operação em fevereiro de 2027, em linha com o futuro marco de tokens mobiliários da Coreia do Sul. O Korea Securities Depository atua na infraestrutura de custódia e liquidação de valores, e o projeto foca em criar uma base de processamento com tecnologia blockchain. Com a implementação do marco de tokens mobiliários, a infraestrutura de emissão e distribuição relacionada pode ganhar importância. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Samsung SDS gewinnt Koreas Blockchain-Wertpapiersystem",
-        "excerpt": "Samsung SDS hat den Auftrag des Korea Securities Depository für eine Blockchain-Wertpapierplattform erhalten, die bis Februar 2027 mit dem Security-Token-Rahmen starten soll.",
-        "body": "Samsung SDS hat den Auftrag erhalten, für das Korea Securities Depository ein blockchainbasiertes Wertpapiersystem aufzubauen, berichtete cointelegraph.com. Die Plattform soll im Februar 2027 in Betrieb gehen und mit Südkoreas geplantem Rahmen für Security Tokens übereinstimmen. Das Korea Securities Depository ist für Verwahrung und Abwicklung von Wertpapieren zuständig, und das Projekt zielt auf eine Blockchain-Grundlage für die Wertpapierverarbeitung. Mit Inkrafttreten des Security-Token-Rahmens könnte die Infrastruktur für Ausgabe und Handel entsprechender Produkte wichtiger werden. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Samsung SDS remporte le système blockchain de titres coréen",
-        "excerpt": "Samsung SDS a remporté le projet du Korea Securities Depository pour bâtir une plateforme blockchain de titres, attendue en février 2027 avec le cadre des security tokens.",
-        "body": "Samsung SDS a remporté un contrat pour construire un système de titres basé sur la blockchain pour le Korea Securities Depository, selon cointelegraph.com. La plateforme devrait être mise en service en février 2027, en cohérence avec le futur cadre sud-coréen des security tokens. Le Korea Securities Depository gère l’infrastructure de dépôt et de règlement des titres, et ce projet vise à créer une base de traitement des titres utilisant la blockchain. Avec l’entrée en vigueur du cadre des security tokens, l’infrastructure liée à l’émission et à la distribution pourrait gagner en importance. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "سامسونغ SDS تفوز بنظام أوراق مالية بلوكتشين في كوريا",
-        "excerpt": "فازت سامسونغ SDS بمشروع لدى هيئة الإيداع الكورية لبناء منصة أوراق مالية قائمة على البلوكتشين، والمتوقع تشغيلها في فبراير 2027 مع إطار رموز الأمان.",
-        "body": "فازت سامسونغ SDS بعقد لبناء نظام أوراق مالية قائم على البلوكتشين لصالح هيئة الإيداع الكورية، بحسب ما أفاد cointelegraph.com. ومن المتوقع أن يبدأ تشغيل المنصة في فبراير 2027، بالتزامن مع إطار رموز الأمان القادم في كوريا الجنوبية. وتتولى هيئة الإيداع الكورية بنية إيداع وتسوية الأوراق المالية، ويركز المشروع على إنشاء أساس لمعالجة الأوراق المالية باستخدام تقنية البلوكتشين. ومع بدء تطبيق إطار رموز الأمان، قد تزداد أهمية البنية التحتية المرتبطة بالإصدار والتداول. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "Samsung SDS कोरिया ब्लॉकचेन सिक्योरिटीज सिस्टम बनाएगी",
-        "excerpt": "Samsung SDS ने Korea Securities Depository की ब्लॉकचेन आधारित सिक्योरिटीज प्लेटफॉर्म परियोजना जीती है, जिसके फरवरी 2027 तक शुरू होने की उम्मीद है।",
-        "body": "Samsung SDS ने Korea Securities Depository के लिए ब्लॉकचेन आधारित सिक्योरिटीज सिस्टम बनाने का अनुबंध जीता है, cointelegraph.com ने रिपोर्ट किया। यह प्लेटफॉर्म दक्षिण कोरिया के आने वाले सिक्योरिटी टोकन फ्रेमवर्क के अनुरूप फरवरी 2027 में लाइव होने की उम्मीद है। Korea Securities Depository सिक्योरिटीज डिपॉजिटरी और सेटलमेंट इंफ्रास्ट्रक्चर संभालता है, और यह परियोजना ब्लॉकचेन तकनीक के जरिए सिक्योरिटीज प्रोसेसिंग की बुनियाद तैयार करने पर केंद्रित है। फ्रेमवर्क लागू होने पर संबंधित जारीकरण और वितरण इंफ्रास्ट्रक्चर का महत्व बढ़ सकता है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Samsung SDS Menang Proyek Sistem Sekuritas Blockchain Korea",
-        "excerpt": "Samsung SDS memenangkan proyek Korea Securities Depository untuk membangun platform sekuritas berbasis blockchain yang diperkirakan aktif pada Februari 2027.",
-        "body": "Samsung SDS memenangkan kontrak untuk membangun sistem sekuritas berbasis blockchain bagi Korea Securities Depository, lapor cointelegraph.com. Platform tersebut diperkirakan mulai beroperasi pada Februari 2027, sejalan dengan kerangka token sekuritas Korea Selatan yang akan datang. Korea Securities Depository menangani infrastruktur penyimpanan dan penyelesaian sekuritas, sementara proyek ini berfokus pada pembangunan dasar pemrosesan sekuritas dengan teknologi blockchain. Saat kerangka token sekuritas berlaku, infrastruktur penerbitan dan distribusi terkait dapat menjadi semakin penting. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "8a039d6ce661",
-    "slug": "why-stablecoins-and-swift-may-have-to-coexist-774004",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T20:48:57.710Z",
-    "updatedAt": "2026-05-06T20:48:57.710Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/features/why-stablecoins-swift-may-have-coexist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/features/why-stablecoins-swift-may-have-coexist",
-    "titleFingerprint": "f6185b00311be92680e3dc158461968d3107a8c7",
-    "dedupKeys": [
-      "8a039d6ce661029ce9c7902a11ae0db26b9b4750",
-      "f6185b00311be92680e3dc158461968d3107a8c7",
-      "20370f20d5b70c3f36a17fb6ad7ceeb07f9d7cc8"
-    ],
-    "imageUrl": "/images/articles/8a039d6ce661.jpg",
-    "i18n": {
-      "ko": {
-        "title": "스테이블코인·SWIFT 공존론 부상, 송금업계 결제 우회가 던진 현실적 질문",
-        "excerpt": "코인텔레그래프는 송금업체들이 암호화폐로 전통 결제 인프라 일부를 우회하고 있지만, 이것이 SWIFT의 소멸을 뜻하지는 않는다고 전했다.",
-        "body": "코인텔레그래프에 따르면 송금업체들은 최근 암호화폐를 활용해 전통적인 결제·정산 인프라의 일부 단계를 우회하고 있다. 이는 국경 간 송금에서 스테이블코인 등 디지털 자산의 활용 가능성이 커지고 있음을 보여준다. 다만 이러한 변화가 SWIFT의 역할이 사라진다는 의미는 아니다. 기존 금융기관과 결제망은 여전히 규제, 은행 간 메시징, 신뢰 기반 정산에서 기능을 유지하고 있다. 따라서 시장의 핵심 쟁점은 대체가 아니라 공존이다. 송금업계는 비용과 속도 개선을 위해 암호화폐를 활용하고, SWIFT는 전통 금융 시스템과 연결된 인프라로 남을 가능성이 있다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Stablecoins and SWIFT Coexistence Gains Focus as Remittance Firms Bypass Settlement Layers",
-        "excerpt": "Cointelegraph reported that remittance firms are using crypto to bypass parts of traditional settlement infrastructure, but this does not mean SWIFT is disappearing.",
-        "body": "According to Cointelegraph, remittance firms are using cryptocurrency to bypass some steps in traditional payment and settlement infrastructure. The shift shows that digital assets such as stablecoins are gaining practical relevance in cross-border remittances. However, it does not mean SWIFT is disappearing. Existing financial institutions and payment networks still play roles in regulation, interbank messaging, and trust-based settlement. The central issue is therefore coexistence rather than replacement. Remittance companies may use crypto to improve cost and speed, while SWIFT can remain infrastructure connected to the traditional financial system. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "ステーブルコインとSWIFTの共存論、送金企業の決済迂回で現実味増す",
-        "excerpt": "コインテレグラフは、送金企業が暗号資産で従来の決済インフラの一部を迂回しているが、SWIFT消滅を意味しないと伝えた。",
-        "body": "コインテレグラフによると、送金企業は暗号資産を活用し、従来の決済・清算インフラの一部段階を迂回している。これは国境を越える送金で、ステーブルコインなどのデジタル資産の利用可能性が高まっていることを示す。ただし、この変化はSWIFTの役割がなくなることを意味しない。既存の金融機関と決済ネットワークは、規制、銀行間メッセージング、信頼に基づく清算でなお機能を保っている。焦点は代替ではなく共存だ。送金業界はコストと速度の改善に暗号資産を使い、SWIFTは伝統的金融システムにつながるインフラとして残る可能性がある。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "稳定币与SWIFT共存受关注，汇款公司绕过部分结算环节",
-        "excerpt": "Cointelegraph称，汇款公司正用加密货币绕过传统结算基础设施的部分环节，但这并不意味着SWIFT将消失。",
-        "body": "据Cointelegraph报道，汇款公司正在使用加密货币绕过传统支付和结算基础设施中的部分步骤。这表明，在跨境汇款中，稳定币等数字资产的实际应用空间正在扩大。不过，这一变化并不意味着SWIFT的作用会消失。现有金融机构和支付网络在监管、银行间信息传递以及基于信任的结算中仍然发挥作用。因此，市场关注的核心不是替代，而是共存。汇款行业可能继续利用加密货币改善成本和速度，而SWIFT仍可能作为连接传统金融体系的基础设施存在。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Stablecoins y SWIFT: la coexistencia gana peso mientras las remesadoras usan cripto",
-        "excerpt": "Cointelegraph informó que las remesadoras usan cripto para evitar partes de la infraestructura tradicional de liquidación, sin que eso implique la desaparición de SWIFT.",
-        "body": "Según Cointelegraph, las empresas de remesas están utilizando criptomonedas para evitar algunos pasos de la infraestructura tradicional de pagos y liquidación. El cambio muestra que activos digitales como las stablecoins ganan relevancia práctica en los envíos transfronterizos. Sin embargo, esto no significa que SWIFT vaya a desaparecer. Las instituciones financieras y las redes de pago existentes siguen cumpliendo funciones en regulación, mensajería interbancaria y liquidación basada en confianza. Por eso, el punto central no es la sustitución, sino la coexistencia. Las remesadoras pueden usar cripto para mejorar costos y velocidad, mientras SWIFT permanece como infraestructura vinculada al sistema financiero tradicional. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Stablecoins e SWIFT podem coexistir enquanto remessas usam cripto em liquidações",
-        "excerpt": "A Cointelegraph informou que empresas de remessa usam cripto para contornar partes da infraestrutura tradicional de liquidação, sem indicar o fim da SWIFT.",
-        "body": "Segundo a Cointelegraph, empresas de remessas estão usando criptomoedas para contornar algumas etapas da infraestrutura tradicional de pagamentos e liquidação. A mudança mostra que ativos digitais como stablecoins ganham relevância prática em transferências internacionais. Ainda assim, isso não significa que a SWIFT esteja desaparecendo. Instituições financeiras e redes de pagamento existentes continuam tendo funções em regulação, mensagens entre bancos e liquidação baseada em confiança. Portanto, o ponto central é coexistência, não substituição. As remessadoras podem usar cripto para melhorar custo e velocidade, enquanto a SWIFT permanece como infraestrutura ligada ao sistema financeiro tradicional. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Stablecoins und SWIFT rücken als Koexistenzmodell für Überweisungen in den Fokus",
-        "excerpt": "Cointelegraph berichtet, dass Überweisungsfirmen Krypto nutzen, um Teile traditioneller Abwicklungsinfrastruktur zu umgehen, ohne dass SWIFT verschwindet.",
-        "body": "Laut Cointelegraph nutzen Überweisungsunternehmen Kryptowährungen, um einige Schritte der traditionellen Zahlungs- und Abwicklungsinfrastruktur zu umgehen. Das zeigt, dass digitale Vermögenswerte wie Stablecoins bei grenzüberschreitenden Überweisungen praktisch an Bedeutung gewinnen. Dies bedeutet jedoch nicht, dass SWIFT verschwindet. Bestehende Finanzinstitute und Zahlungsnetze behalten Funktionen bei Regulierung, Interbanken-Messaging und vertrauensbasierter Abwicklung. Im Mittelpunkt steht daher nicht Ersatz, sondern Koexistenz. Überweisungsanbieter können Krypto einsetzen, um Kosten und Geschwindigkeit zu verbessern, während SWIFT als Infrastruktur mit Verbindung zum traditionellen Finanzsystem bestehen bleibt. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Stablecoins et SWIFT: la coexistence s’impose avec les transferts en crypto",
-        "excerpt": "Cointelegraph indique que des sociétés de transfert utilisent la crypto pour contourner des parties de l’infrastructure de règlement, sans annoncer la disparition de SWIFT.",
-        "body": "Selon Cointelegraph, des sociétés de transfert d’argent utilisent les cryptomonnaies pour contourner certaines étapes de l’infrastructure traditionnelle de paiement et de règlement. Cette évolution montre que des actifs numériques comme les stablecoins gagnent en utilité dans les transferts transfrontaliers. Elle ne signifie toutefois pas que SWIFT disparaît. Les institutions financières et réseaux de paiement existants conservent un rôle dans la régulation, la messagerie interbancaire et le règlement fondé sur la confiance. L’enjeu central est donc la coexistence, non le remplacement. Les acteurs des transferts peuvent utiliser la crypto pour améliorer coûts et rapidité, tandis que SWIFT reste une infrastructure liée au système financier traditionnel. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "العملات المستقرة وSWIFT نحو تعايش أوضح مع استخدام شركات التحويل للعملات المشفرة",
-        "excerpt": "أفاد Cointelegraph بأن شركات التحويل تستخدم العملات المشفرة لتجاوز أجزاء من بنية التسوية التقليدية، لكن ذلك لا يعني اختفاء SWIFT.",
-        "body": "بحسب Cointelegraph، تستخدم شركات تحويل الأموال العملات المشفرة لتجاوز بعض مراحل البنية التقليدية للمدفوعات والتسوية. ويظهر ذلك أن الأصول الرقمية مثل العملات المستقرة تكتسب أهمية عملية في التحويلات عبر الحدود. لكن هذا التحول لا يعني أن دور SWIFT يختفي. فالمؤسسات المالية وشبكات الدفع القائمة ما زالت تؤدي وظائف في التنظيم، والرسائل بين البنوك، والتسوية القائمة على الثقة. لذلك فإن القضية الأساسية ليست الاستبدال، بل التعايش. قد تستخدم شركات التحويل العملات المشفرة لتحسين التكلفة والسرعة، بينما يبقى SWIFT بنية تحتية مرتبطة بالنظام المالي التقليدي. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "स्टेबलकॉइन और SWIFT साथ रह सकते हैं, रेमिटेंस कंपनियों के क्रिप्टो उपयोग से बहस तेज",
-        "excerpt": "Cointelegraph के अनुसार रेमिटेंस कंपनियां पारंपरिक सेटलमेंट ढांचे के कुछ हिस्सों को बायपास करने के लिए क्रिप्टो का उपयोग कर रही हैं, लेकिन SWIFT खत्म नहीं हो रहा।",
-        "body": "Cointelegraph के अनुसार, रेमिटेंस कंपनियां पारंपरिक भुगतान और सेटलमेंट इंफ्रास्ट्रक्चर के कुछ चरणों को बायपास करने के लिए क्रिप्टोकरेंसी का उपयोग कर रही हैं। यह दिखाता है कि सीमा पार धन भेजने में स्टेबलकॉइन जैसे डिजिटल एसेट की उपयोगिता बढ़ रही है। हालांकि, इसका अर्थ यह नहीं है कि SWIFT गायब हो रहा है। मौजूदा वित्तीय संस्थान और भुगतान नेटवर्क नियमन, बैंकों के बीच मैसेजिंग और भरोसे पर आधारित सेटलमेंट में अब भी भूमिका निभाते हैं। इसलिए मुख्य मुद्दा प्रतिस्थापन नहीं, बल्कि सह-अस्तित्व है। रेमिटेंस कंपनियां लागत और गति सुधारने के लिए क्रिप्टो अपना सकती हैं, जबकि SWIFT पारंपरिक वित्तीय प्रणाली से जुड़ी इंफ्रास्ट्रक्चर के रूप में बना रह सकता है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Stablecoin dan SWIFT Kian Dilihat Bisa Berjalan Bersama Saat Remitansi Pakai Kripto",
-        "excerpt": "Cointelegraph melaporkan perusahaan remitansi memakai kripto untuk melewati sebagian infrastruktur penyelesaian tradisional, tetapi itu bukan berarti SWIFT menghilang.",
-        "body": "Menurut Cointelegraph, perusahaan remitansi menggunakan cryptocurrency untuk melewati sebagian tahap dalam infrastruktur pembayaran dan penyelesaian tradisional. Perubahan ini menunjukkan bahwa aset digital seperti stablecoin semakin relevan dalam pengiriman uang lintas batas. Namun, hal itu tidak berarti SWIFT akan menghilang. Lembaga keuangan dan jaringan pembayaran yang ada masih berperan dalam regulasi, pesan antarbank, serta penyelesaian berbasis kepercayaan. Karena itu, isu utamanya bukan penggantian, melainkan koeksistensi. Industri remitansi dapat memakai kripto untuk meningkatkan biaya dan kecepatan, sementara SWIFT tetap menjadi infrastruktur yang terhubung dengan sistem keuangan tradisional. Sumber: cointelegraph.com"
       }
     }
   }

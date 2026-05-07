@@ -1,0 +1,75 @@
+{
+  "id": "cdf2bf0e38a1",
+  "slug": "trustedvolumes-hit-by-67m-exploit-as-1inch-denies-breach-349816",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T12:12:21.554Z",
+  "updatedAt": "2026-05-07T12:12:21.554Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/1inch-fusion-resolver-trusted-volumes-floats-bounty-after-67m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/1inch-fusion-resolver-trusted-volumes-floats-bounty-after-67m-exploit",
+  "titleFingerprint": "a99233ab84fe06743ae23291ed64aa5306f34e15",
+  "dedupKeys": [
+    "cdf2bf0e38a19b78aa7679946090173966fd4b48",
+    "a99233ab84fe06743ae23291ed64aa5306f34e15",
+    "e4319bf63700e783ae5a02852d4c34b33e775d15"
+  ],
+  "imageUrl": "/images/articles/cdf2bf0e38a1.jpg",
+  "i18n": {
+    "ko": {
+      "title": "TrustedVolumes 670만달러 익스플로잇, 1inch 침해 의혹 부인",
+      "excerpt": "1inch는 독립 리졸버 TrustedVolumes를 겨냥한 670만달러 규모 익스플로잇과 관련해 자사 프로토콜, 인프라, 사용자 자금은 영향받지 않았다고 밝혔다.",
+      "body": "독립 리졸버 TrustedVolumes가 670만달러 규모 익스플로잇을 당한 가운데, 1inch는 이번 사건이 자사 침해가 아니라고 밝혔다. 1inch는 공격 대상이 TrustedVolumes였으며, 자사 프로토콜과 인프라, 사용자 자금은 영향을 받지 않았다고 설명했다. 이번 사안은 1inch 생태계와 연결된 독립 운영 주체의 보안 이슈로 알려졌지만, 1inch는 핵심 시스템과 이용자 자산에는 문제가 없다는 입장을 분명히 했다. 시장 영향은 TrustedVolumes 관련 범위에 한정될 가능성이 거론된다. 출처: cointelegraph.com 인용."
+    },
+    "en": {
+      "title": "TrustedVolumes $6.7M Exploit: 1inch Denies Any Breach",
+      "excerpt": "1inch said its protocols, infrastructure and user funds were not affected after a $6.7 million exploit targeted independent resolver TrustedVolumes.",
+      "body": "Independent resolver TrustedVolumes was hit by a $6.7 million exploit, while 1inch said the incident was not a breach of its own systems. According to 1inch, the attack targeted TrustedVolumes, and its protocols, infrastructure and user funds were not affected. The case has been described as a security issue involving an independently operated resolver connected to the 1inch ecosystem, but 1inch emphasized that its core systems and user assets remained unaffected. Any market impact is expected to be limited to the TrustedVolumes-related scope. Source: cited from cointelegraph.com."
+    },
+    "ja": {
+      "title": "TrustedVolumesで670万ドル被害、1inchは侵害を否定",
+      "excerpt": "1inchは、独立リゾルバーTrustedVolumesを狙った670万ドル規模のエクスプロイトについて、自社プロトコルやインフラ、ユーザー資金に影響はないと述べた。",
+      "body": "独立リゾルバーのTrustedVolumesが670万ドル規模のエクスプロイトを受けるなか、1inchは今回の事案が自社システムの侵害ではないと説明した。1inchによれば、攻撃対象はTrustedVolumesであり、自社プロトコル、インフラ、ユーザー資金には影響がなかった。今回の件は1inchエコシステムに関連する独立運営主体のセキュリティ問題とされるが、1inchは中核システムと利用者資産に問題はないとの立場を明確にした。市場への影響はTrustedVolumes関連の範囲に限られる可能性がある。出典: cointelegraph.com引用。"
+    },
+    "zh": {
+      "title": "TrustedVolumes遭670万美元攻击，1inch否认被入侵",
+      "excerpt": "1inch表示，针对独立解析器TrustedVolumes的670万美元漏洞攻击，并未影响其协议、基础设施和用户资金。",
+      "body": "独立解析器TrustedVolumes遭遇670万美元规模的漏洞攻击后，1inch表示该事件并非其自身系统遭到入侵。1inch称，攻击目标是TrustedVolumes，其协议、基础设施和用户资金均未受到影响。此事被视为与1inch生态相关的独立运营方安全事件，但1inch明确强调，核心系统和用户资产没有出现问题。相关市场影响可能仅限于TrustedVolumes涉及的范围。来源：引用cointelegraph.com。"
+    },
+    "es": {
+      "title": "TrustedVolumes sufre exploit de $6,7M; 1inch niega brecha",
+      "excerpt": "1inch afirmó que sus protocolos, infraestructura y fondos de usuarios no fueron afectados por el exploit de 6,7 millones de dólares contra TrustedVolumes.",
+      "body": "El resolver independiente TrustedVolumes sufrió un exploit de 6,7 millones de dólares, mientras 1inch afirmó que el incidente no fue una brecha de sus propios sistemas. Según 1inch, el ataque tuvo como objetivo a TrustedVolumes y no afectó sus protocolos, infraestructura ni fondos de usuarios. El caso se presenta como un problema de seguridad de un operador independiente vinculado al ecosistema de 1inch, pero la firma subrayó que sus sistemas centrales y los activos de los usuarios no registraron impacto. El efecto de mercado podría quedar limitado al ámbito relacionado con TrustedVolumes. Fuente: citado de cointelegraph.com."
+    },
+    "pt": {
+      "title": "TrustedVolumes sofre exploit de US$ 6,7 mi; 1inch nega invasão",
+      "excerpt": "A 1inch disse que seus protocolos, infraestrutura e fundos de usuários não foram afetados pelo exploit de US$ 6,7 milhões contra a TrustedVolumes.",
+      "body": "A resolver independente TrustedVolumes sofreu um exploit de US$ 6,7 milhões, enquanto a 1inch afirmou que o caso não foi uma invasão de seus próprios sistemas. Segundo a 1inch, o ataque teve como alvo a TrustedVolumes, e seus protocolos, infraestrutura e fundos de usuários não foram afetados. O episódio é descrito como uma questão de segurança envolvendo uma entidade independente ligada ao ecossistema da 1inch, mas a empresa reforçou que seus sistemas centrais e os ativos dos usuários permaneceram intactos. O impacto de mercado pode ficar restrito ao escopo relacionado à TrustedVolumes. Fonte: citado de cointelegraph.com."
+    },
+    "de": {
+      "title": "TrustedVolumes erleidet 6,7-Mio.-Dollar-Exploit, 1inch dementiert",
+      "excerpt": "1inch erklärte, dass Protokolle, Infrastruktur und Nutzergelder vom 6,7-Mio.-Dollar-Exploit gegen den unabhängigen Resolver TrustedVolumes nicht betroffen waren.",
+      "body": "Der unabhängige Resolver TrustedVolumes wurde von einem Exploit über 6,7 Millionen Dollar getroffen, während 1inch erklärte, der Vorfall sei kein Angriff auf die eigenen Systeme gewesen. Nach Angaben von 1inch richtete sich der Angriff gegen TrustedVolumes; Protokolle, Infrastruktur und Nutzergelder von 1inch waren nicht betroffen. Der Fall gilt als Sicherheitsproblem eines unabhängig betriebenen Akteurs mit Bezug zum 1inch-Ökosystem, doch 1inch betonte, dass Kernsysteme und Nutzervermögen unberührt blieben. Mögliche Marktauswirkungen dürften sich auf den TrustedVolumes-Kontext beschränken. Quelle: zitiert nach cointelegraph.com."
+    },
+    "fr": {
+      "title": "TrustedVolumes visé par un exploit de 6,7 M$; 1inch nie toute faille",
+      "excerpt": "1inch a déclaré que ses protocoles, son infrastructure et les fonds des utilisateurs n’avaient pas été touchés par l’exploit de 6,7 M$ visant TrustedVolumes.",
+      "body": "Le résolveur indépendant TrustedVolumes a subi un exploit de 6,7 millions de dollars, tandis que 1inch a affirmé que l’incident ne constituait pas une compromission de ses propres systèmes. Selon 1inch, l’attaque visait TrustedVolumes, et ses protocoles, son infrastructure ainsi que les fonds des utilisateurs n’ont pas été affectés. L’affaire relève d’un problème de sécurité concernant un opérateur indépendant lié à l’écosystème 1inch, mais la société a précisé que ses systèmes centraux et les actifs des utilisateurs restaient indemnes. L’impact de marché pourrait se limiter au périmètre lié à TrustedVolumes. Source: cité de cointelegraph.com."
+    },
+    "ar": {
+      "title": "استغلال TrustedVolumes بـ6.7 مليون دولار و1inch تنفي الاختراق",
+      "excerpt": "قالت 1inch إن بروتوكولاتها وبنيتها التحتية وأموال المستخدمين لم تتأثر بالاستغلال الذي استهدف محلل الطلبات المستقل TrustedVolumes بقيمة 6.7 مليون دولار.",
+      "body": "تعرّض محلل الطلبات المستقل TrustedVolumes لاستغلال بقيمة 6.7 مليون دولار، فيما قالت 1inch إن الحادث لا يمثل اختراقا لأنظمتها. وأوضحت 1inch أن الهجوم استهدف TrustedVolumes، وأن بروتوكولاتها وبنيتها التحتية وأموال المستخدمين لم تتأثر. ويُعرض الأمر كمسألة أمنية تخص جهة تشغيل مستقلة مرتبطة بمنظومة 1inch، لكن الشركة شددت على أن أنظمتها الأساسية وأصول المستخدمين لم تتضرر. وقد يظل الأثر في السوق محصورا في النطاق المرتبط بـTrustedVolumes. المصدر: نقلا عن cointelegraph.com."
+    },
+    "hi": {
+      "title": "TrustedVolumes पर $6.7M एक्सप्लॉइट, 1inch ने सेंध से इनकार किया",
+      "excerpt": "1inch ने कहा कि स्वतंत्र रिजॉल्वर TrustedVolumes को निशाना बनाने वाले 6.7 मिलियन डॉलर के एक्सप्लॉइट से उसके प्रोटोकॉल, इन्फ्रास्ट्रक्चर और यूजर फंड प्रभावित नहीं हुए।",
+      "body": "स्वतंत्र रिजॉल्वर TrustedVolumes पर 6.7 मिलियन डॉलर का एक्सप्लॉइट हुआ, जबकि 1inch ने कहा कि यह उसके अपने सिस्टम में सेंध नहीं थी। 1inch के अनुसार, हमले का लक्ष्य TrustedVolumes था और उसके प्रोटोकॉल, इन्फ्रास्ट्रक्चर तथा यूजर फंड प्रभावित नहीं हुए। यह मामला 1inch इकोसिस्टम से जुड़े एक स्वतंत्र ऑपरेटर की सुरक्षा समस्या के रूप में सामने आया, लेकिन 1inch ने स्पष्ट किया कि उसके मुख्य सिस्टम और उपयोगकर्ता संपत्तियों पर कोई असर नहीं पड़ा। बाजार प्रभाव TrustedVolumes से जुड़े दायरे तक सीमित रह सकता है। स्रोत: cointelegraph.com से उद्धृत।"
+    },
+    "id": {
+      "title": "TrustedVolumes Kena Eksploitasi $6,7 Juta, 1inch Bantah Diretas",
+      "excerpt": "1inch menyatakan protokol, infrastruktur, dan dana pengguna tidak terdampak eksploitasi senilai $6,7 juta yang menargetkan resolver independen TrustedVolumes.",
+      "body": "Resolver independen TrustedVolumes terkena eksploitasi senilai $6,7 juta, sementara 1inch menyatakan insiden itu bukan pelanggaran terhadap sistemnya sendiri. Menurut 1inch, serangan tersebut menargetkan TrustedVolumes, dan protokol, infrastruktur, serta dana pengguna 1inch tidak terdampak. Kasus ini dipandang sebagai isu keamanan pada pihak independen yang terhubung dengan ekosistem 1inch, tetapi 1inch menegaskan bahwa sistem inti dan aset pengguna tetap tidak bermasalah. Dampak pasar kemungkinan terbatas pada ruang lingkup yang terkait TrustedVolumes. Sumber: dikutip dari cointelegraph.com."
+    }
+  }
+}
