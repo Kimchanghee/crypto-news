@@ -1,0 +1,75 @@
+{
+  "id": "3607419bf135",
+  "slug": "aave-liquidates-kelp-dao-hackers-rseth-positions-on-ethereum-842693",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T06:51:41.069Z",
+  "updatedAt": "2026-05-07T06:51:41.069Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/aave-liquidates-kelp-dao-hackers-rseth-stash-ethereum-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/aave-liquidates-kelp-dao-hackers-rseth-stash-ethereum-arbitrum",
+  "titleFingerprint": "2c6eae1039117ca2130ecc0c159d8a778bf44e2b",
+  "dedupKeys": [
+    "3607419bf135ad4512e4f821f987cb6ab97d73cd",
+    "2c6eae1039117ca2130ecc0c159d8a778bf44e2b",
+    "c96a8acac2c6bbbd626f5506845dd9c8668a9621"
+  ],
+  "imageUrl": "/images/articles/3607419bf135.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Aave, Kelp DAO 해커 rsETH 포지션 청산…부실채권 회복 근접",
+      "excerpt": "Aave가 최근 이더리움과 아비트럼에서 Kelp DAO 해커의 rsETH 포지션을 청산하며 해킹 이후 발생한 대출 프로토콜 부실채권 회복에 가까워졌다.",
+      "body": "Aave는 최근 이더리움과 아비트럼에서 Kelp DAO 해커의 rsETH 포지션을 청산했다. 이번 조치는 Kelp DAO 해킹 이후 Aave 대출 프로토콜에 발생한 부실채권을 줄이는 과정에서 나왔다. Galaxy Digital의 Thaddeus Pinakiewicz는 Aave가 해당 부실채권을 회복하는 데 이제 약 10%만 남았다고 언급했다. 이번 청산은 해킹 여파로 생긴 손실 회복이 상당 부분 진행됐음을 보여주지만, 완전한 회복까지는 추가 정리가 필요하다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "Aave Liquidates Kelp DAO Hacker rsETH Positions, Nears Debt Recovery",
+      "excerpt": "Aave recently liquidated the Kelp DAO hacker’s rsETH positions on Ethereum and Arbitrum, moving closer to recovering bad debt from the hack.",
+      "body": "Aave recently liquidated the Kelp DAO hacker’s rsETH positions on Ethereum and Arbitrum. The move came as Aave worked to reduce bad debt that hit its lending protocol after the Kelp DAO hack. Galaxy Digital’s Thaddeus Pinakiewicz noted that Aave is now only about 10% short of recovering from that bad debt. The liquidation shows that recovery from the losses caused by the hack has advanced significantly, though further cleanup is still needed before full recovery. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "Aave、Kelp DAOハッカーのrsETHポジション清算で回復に接近",
+      "excerpt": "Aaveは最近、EthereumとArbitrum上でKelp DAOハッカーのrsETHポジションを清算し、ハッキング後の不良債権回収に近づいた。",
+      "body": "Aaveは最近、EthereumとArbitrum上でKelp DAOハッカーのrsETHポジションを清算した。この措置は、Kelp DAOのハッキング後にAaveのレンディングプロトコルで発生した不良債権を減らす過程で行われた。Galaxy DigitalのThaddeus Pinakiewicz氏は、Aaveがこの不良債権の回収まで残り約10%の段階にあると指摘した。今回の清算は、ハッキングによる損失回復が大きく進んだことを示す一方、完全な回復にはなお追加対応が必要だ。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "Aave清算Kelp DAO黑客rsETH头寸，坏账回收接近完成",
+      "excerpt": "Aave近日在以太坊和Arbitrum清算Kelp DAO黑客的rsETH头寸，使其更接近回收该黑客事件后产生的贷款协议坏账。",
+      "body": "Aave近日在以太坊和Arbitrum上清算了Kelp DAO黑客的rsETH头寸。此举是在Aave削减Kelp DAO黑客事件后其贷款协议所产生坏账的过程中进行的。Galaxy Digital的Thaddeus Pinakiewicz指出，Aave距离收回这笔坏账目前只差约10%。本次清算显示，黑客事件造成的损失回收已取得显著进展，但在完全恢复之前仍需要进一步处理。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "Aave liquida posiciones rsETH del hacker de Kelp DAO y avanza",
+      "excerpt": "Aave liquidó recientemente las posiciones rsETH del hacker de Kelp DAO en Ethereum y Arbitrum, acercándose a recuperar la deuda incobrable del hackeo.",
+      "body": "Aave liquidó recientemente las posiciones rsETH del hacker de Kelp DAO en Ethereum y Arbitrum. La medida forma parte del proceso para reducir la deuda incobrable que afectó a su protocolo de préstamos tras el hackeo de Kelp DAO. Thaddeus Pinakiewicz, de Galaxy Digital, señaló que Aave está ahora a solo cerca de un 10% de recuperar esa deuda. La liquidación muestra que la recuperación de las pérdidas causadas por el hackeo ha avanzado de forma importante, aunque aún falta más saneamiento para completarla. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "Aave liquida rsETH do hacker da Kelp DAO e se aproxima da recuperação",
+      "excerpt": "Aave liquidou recentemente posições rsETH do hacker da Kelp DAO na Ethereum e na Arbitrum, ficando mais perto de recuperar a dívida ruim do hack.",
+      "body": "Aave liquidou recentemente as posições em rsETH do hacker da Kelp DAO na Ethereum e na Arbitrum. A medida ocorreu enquanto a Aave reduzia a dívida ruim que atingiu seu protocolo de empréstimos após o hack da Kelp DAO. Thaddeus Pinakiewicz, da Galaxy Digital, observou que a Aave está agora a apenas cerca de 10% de recuperar essa dívida. A liquidação indica que a recuperação das perdas causadas pelo hack avançou de forma significativa, embora ainda seja necessária uma limpeza adicional antes da recuperação total. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "Aave liquidiert rsETH des Kelp-DAO-Hackers und nähert sich Erholung",
+      "excerpt": "Aave hat jüngst rsETH-Positionen des Kelp-DAO-Hackers auf Ethereum und Arbitrum liquidiert und rückt der Erholung von Bad Debt näher.",
+      "body": "Aave hat jüngst die rsETH-Positionen des Kelp-DAO-Hackers auf Ethereum und Arbitrum liquidiert. Der Schritt erfolgte, während Aave die Bad Debt abbaut, die sein Lending-Protokoll nach dem Kelp-DAO-Hack belastete. Thaddeus Pinakiewicz von Galaxy Digital merkte an, dass Aave nun nur noch rund 10% von der Erholung dieser Bad Debt entfernt ist. Die Liquidation zeigt, dass die Aufarbeitung der durch den Hack entstandenen Verluste deutlich vorangekommen ist, auch wenn bis zur vollständigen Erholung weiterer Abbau nötig bleibt. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "Aave liquide les rsETH du hacker de Kelp DAO et se rapproche du redressement",
+      "excerpt": "Aave a récemment liquidé les positions rsETH du hacker de Kelp DAO sur Ethereum et Arbitrum, se rapprochant du recouvrement de la mauvaise dette liée au piratage.",
+      "body": "Aave a récemment liquidé les positions rsETH du hacker de Kelp DAO sur Ethereum et Arbitrum. Cette mesure intervient alors qu’Aave réduit la mauvaise dette qui a touché son protocole de prêt après le piratage de Kelp DAO. Thaddeus Pinakiewicz, de Galaxy Digital, a indiqué qu’Aave n’est plus qu’à environ 10% du recouvrement de cette dette. La liquidation montre que la récupération des pertes causées par le piratage a fortement progressé, même si un assainissement supplémentaire reste nécessaire avant un redressement complet. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "Aave تصفي مراكز rsETH لمخترق Kelp DAO وتقترب من تعافي الديون",
+      "excerpt": "صفّت Aave مؤخرا مراكز rsETH الخاصة بمخترق Kelp DAO على Ethereum وArbitrum، مقتربة من استرداد الديون المتعثرة الناتجة عن الاختراق.",
+      "body": "صفّت Aave مؤخرا مراكز rsETH الخاصة بمخترق Kelp DAO على شبكتي Ethereum وArbitrum. وجاءت الخطوة ضمن مسار خفض الديون المتعثرة التي أثرت في بروتوكول الإقراض التابع لها بعد اختراق Kelp DAO. وأشار Thaddeus Pinakiewicz من Galaxy Digital إلى أن Aave أصبحت الآن على بعد نحو 10% فقط من استرداد تلك الديون. وتظهر هذه التصفية أن التعافي من الخسائر الناتجة عن الاختراق تقدم بشكل كبير، لكن الوصول إلى التعافي الكامل لا يزال يتطلب معالجة إضافية. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "Aave ने Kelp DAO हैकर की rsETH पोजीशनें लिक्विडेट कीं, रिकवरी करीब",
+      "excerpt": "Aave ने हाल में Ethereum और Arbitrum पर Kelp DAO हैकर की rsETH पोजीशनें लिक्विडेट कीं, जिससे हैक के बाद बने bad debt की रिकवरी करीब आई।",
+      "body": "Aave ने हाल में Ethereum और Arbitrum पर Kelp DAO हैकर की rsETH पोजीशनें लिक्विडेट कीं। यह कदम Kelp DAO हैक के बाद उसके लेंडिंग प्रोटोकॉल पर पड़े bad debt को घटाने की प्रक्रिया में आया। Galaxy Digital के Thaddeus Pinakiewicz ने कहा कि Aave अब इस bad debt की रिकवरी से केवल करीब 10% दूर है। यह लिक्विडेशन दिखाता है कि हैक से हुए नुकसान की भरपाई में काफी प्रगति हुई है, हालांकि पूरी रिकवरी से पहले अभी और समाधान जरूरी है। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "Aave Likuidasi rsETH Hacker Kelp DAO, Pemulihan Utang Makin Dekat",
+      "excerpt": "Aave baru-baru ini melikuidasi posisi rsETH milik hacker Kelp DAO di Ethereum dan Arbitrum, mendekati pemulihan bad debt akibat peretasan.",
+      "body": "Aave baru-baru ini melikuidasi posisi rsETH milik hacker Kelp DAO di Ethereum dan Arbitrum. Langkah ini dilakukan saat Aave mengurangi bad debt yang menimpa protokol pinjamannya setelah peretasan Kelp DAO. Thaddeus Pinakiewicz dari Galaxy Digital mencatat bahwa Aave kini hanya kurang sekitar 10% dari pemulihan bad debt tersebut. Likuidasi ini menunjukkan pemulihan kerugian akibat peretasan telah maju signifikan, meski penyelesaian tambahan masih diperlukan sebelum pemulihan penuh. Sumber: cointelegraph.com"
+    }
+  }
+}
