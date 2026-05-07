@@ -1,0 +1,75 @@
+{
+  "id": "5ec5201a31a4",
+  "slug": "chrome-is-quietly-installing-a-4gb-ai-model-on-your-computer-833589",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T02:00:29.427Z",
+  "updatedAt": "2026-05-07T02:00:29.427Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
+  "canonicalUrl": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
+  "titleFingerprint": "3876b8fdae4bd6272fd294adb2048bd982ebcc6c",
+  "dedupKeys": [
+    "5ec5201a31a49cc6efb77f80ef7bc96dfa204155",
+    "3876b8fdae4bd6272fd294adb2048bd982ebcc6c",
+    "6024cc8357a0cfe34928fc7fb948b6c72be4ce83"
+  ],
+  "imageUrl": "/images/articles/5ec5201a31a4.png",
+  "i18n": {
+    "ko": {
+      "title": "크롬, 4GB 제미나이 나노 AI 모델 조용히 설치 후 삭제해도 복원",
+      "excerpt": "구글 크롬이 적격 기기에 4GB 규모 제미나이 나노 AI 모델을 조용히 내려받고, 사용자가 삭제해도 다시 설치하며, 표시되는 AI Mode 버튼은 이를 쓰지 않는 것으로 전해졌다.",
+      "body": "구글 크롬이 적격 기기에 4GB 규모의 제미나이 나노 AI 모델을 조용히 다운로드하고, 사용자가 이를 삭제해도 다시 내려받는 것으로 전해졌다. 원문에 따르면 이 모델은 크롬 내부에 설치되지만, 사용자가 실제로 보는 AI Mode 버튼은 해당 모델을 사용하지 않는다. 핵심 쟁점은 대용량 온디바이스 AI 모델이 명확한 사용자 인지 없이 설치되고, 삭제 후에도 복원된다는 점이다. 크롬 이용자는 저장공간 사용과 기능 작동 방식에 대해 더 큰 투명성을 요구할 수 있다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "Chrome Quietly Installs 4GB Gemini Nano AI Model and Restores It",
+      "excerpt": "Google Chrome reportedly downloads a 4GB Gemini Nano AI model to eligible devices, reinstalls it if users delete it, and the visible AI Mode button does not use it.",
+      "body": "Google Chrome reportedly downloads a 4GB Gemini Nano AI model quietly to eligible devices and downloads it again if users delete it. According to the original report, the model is installed inside Chrome, but the AI Mode button users actually see does not use that model. The central issue is that a large on-device AI model is being installed without clear user awareness and restored after deletion. Chrome users may demand greater transparency about storage use and how the feature works. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "Chrome、4GBのGemini Nano AIモデルを静かに導入し削除後も復元",
+      "excerpt": "Google Chromeは対象端末に4GB規模のGemini Nano AIモデルを密かにダウンロードし、削除しても再導入する一方、表示されるAI Modeボタンはそれを使わないと報じられた。",
+      "body": "Google Chromeが対象端末に4GB規模のGemini Nano AIモデルを静かにダウンロードし、ユーザーが削除しても再び取得することが報じられた。原文によると、このモデルはChrome内部にインストールされるが、ユーザーが実際に目にするAI Modeボタンはそのモデルを使用していない。焦点は、大容量のオンデバイスAIモデルが明確な認知なしに導入され、削除後も復元される点にある。Chrome利用者は、保存容量の使用や機能の仕組みについて、より高い透明性を求める可能性がある。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "Chrome悄悄安装4GB Gemini Nano AI模型，删除后仍会恢复",
+      "excerpt": "据报道，Google Chrome会在符合条件的设备上静默下载4GB Gemini Nano AI模型，即使用户删除也会重新安装，而可见的AI Mode按钮并不使用它。",
+      "body": "据报道，Google Chrome会在符合条件的设备上悄悄下载一个4GB规模的Gemini Nano AI模型，并在用户删除后再次下载。原文称，该模型安装在Chrome内部，但用户实际看到的AI Mode按钮并不使用这个模型。核心问题在于，一个大型端侧AI模型在用户缺乏明确感知的情况下被安装，并且删除后仍会恢复。Chrome用户可能会要求Google对存储空间占用和功能运行方式提供更高透明度。来源: decrypt.co"
+    },
+    "es": {
+      "title": "Chrome instala en silencio un modelo Gemini Nano de 4GB y lo restaura",
+      "excerpt": "Google Chrome descarga en dispositivos elegibles un modelo Gemini Nano de 4GB, lo vuelve a instalar si el usuario lo borra y el botón AI Mode visible no lo utiliza.",
+      "body": "Google Chrome descarga silenciosamente un modelo Gemini Nano de 4GB en dispositivos elegibles y vuelve a descargarlo si el usuario lo elimina, según el reporte original. El modelo queda instalado dentro de Chrome, pero el botón AI Mode que los usuarios realmente ven no usa ese modelo. El punto central es que un modelo de IA local de gran tamaño se instala sin una conciencia clara del usuario y se restaura tras ser borrado. Los usuarios de Chrome podrían pedir más transparencia sobre el uso de almacenamiento y el funcionamiento de la función. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "Chrome instala modelo Gemini Nano de 4GB em silêncio e o restaura",
+      "excerpt": "O Google Chrome baixa em dispositivos elegíveis um modelo Gemini Nano de 4GB, reinstala se o usuário apagar, e o botão AI Mode visível não utiliza esse modelo.",
+      "body": "O Google Chrome baixa silenciosamente um modelo Gemini Nano de 4GB em dispositivos elegíveis e volta a baixá-lo se o usuário o excluir, segundo o relato original. O modelo é instalado dentro do Chrome, mas o botão AI Mode que os usuários realmente veem não usa esse modelo. A questão central é que um grande modelo de IA no dispositivo é instalado sem percepção clara do usuário e restaurado após a exclusão. Usuários do Chrome podem exigir mais transparência sobre uso de armazenamento e funcionamento do recurso. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "Chrome installiert leise 4GB Gemini Nano KI-Modell und stellt es wieder her",
+      "excerpt": "Google Chrome lädt auf geeigneten Geräten ein 4GB großes Gemini Nano KI-Modell herunter, installiert es nach Löschung erneut, doch der sichtbare AI Mode nutzt es nicht.",
+      "body": "Google Chrome lädt Berichten zufolge leise ein 4GB großes Gemini Nano KI-Modell auf geeignete Geräte herunter und lädt es erneut, wenn Nutzer es löschen. Laut dem Originalbericht wird das Modell intern in Chrome installiert, doch die AI-Mode-Schaltfläche, die Nutzer tatsächlich sehen, verwendet dieses Modell nicht. Im Mittelpunkt steht, dass ein großes On-Device-KI-Modell ohne klare Nutzerwahrnehmung installiert und nach dem Löschen wiederhergestellt wird. Chrome-Nutzer könnten mehr Transparenz über Speicherverbrauch und Funktionsweise verlangen. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "Chrome installe discrètement un modèle IA Gemini Nano de 4Go et le restaure",
+      "excerpt": "Google Chrome télécharge sur les appareils éligibles un modèle IA Gemini Nano de 4Go, le réinstalle s’il est supprimé, tandis que le bouton AI Mode visible ne l’utilise pas.",
+      "body": "Google Chrome télécharge discrètement un modèle IA Gemini Nano de 4Go sur les appareils éligibles et le récupère de nouveau si l’utilisateur le supprime, selon le rapport original. Le modèle est installé dans Chrome, mais le bouton AI Mode que les utilisateurs voient réellement ne l’utilise pas. L’enjeu principal est qu’un grand modèle d’IA embarqué est installé sans perception claire de l’utilisateur et restauré après suppression. Les utilisateurs de Chrome pourraient demander plus de transparence sur l’espace utilisé et le fonctionnement de la fonction. Source: decrypt.co"
+    },
+    "ar": {
+      "title": "كروم يثبت بصمت نموذج Gemini Nano بحجم 4GB ويعيده بعد الحذف",
+      "excerpt": "يقال إن Google Chrome ينزل نموذج Gemini Nano بحجم 4GB على الأجهزة المؤهلة، ويعيد تثبيته إذا حذفه المستخدم، بينما زر AI Mode الظاهر لا يستخدمه.",
+      "body": "يقال إن Google Chrome ينزل بصمت نموذج Gemini Nano للذكاء الاصطناعي بحجم 4GB على الأجهزة المؤهلة، ثم يعيد تنزيله إذا حذفه المستخدم. وبحسب التقرير الأصلي، يثبت النموذج داخل Chrome، لكن زر AI Mode الذي يراه المستخدمون فعليا لا يستخدم هذا النموذج. القضية الأساسية هي أن نموذج ذكاء اصطناعي كبيرا يعمل على الجهاز يثبت من دون وعي واضح من المستخدم، ثم يستعاد بعد الحذف. قد يطالب مستخدمو Chrome بمزيد من الشفافية حول استهلاك مساحة التخزين وطريقة عمل الميزة. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "Chrome चुपचाप 4GB Gemini Nano AI मॉडल इंस्टॉल कर हटाने पर लौटाता है",
+      "excerpt": "Google Chrome योग्य डिवाइसों पर 4GB Gemini Nano AI मॉडल चुपचाप डाउनलोड करता है, हटाने पर फिर इंस्टॉल करता है, जबकि दिखने वाला AI Mode बटन इसका उपयोग नहीं करता।",
+      "body": "रिपोर्ट के अनुसार Google Chrome योग्य डिवाइसों पर 4GB का Gemini Nano AI मॉडल चुपचाप डाउनलोड करता है और उपयोगकर्ता के हटाने पर उसे फिर से डाउनलोड कर देता है। मूल रिपोर्ट बताती है कि यह मॉडल Chrome के भीतर इंस्टॉल होता है, लेकिन उपयोगकर्ताओं को दिखने वाला AI Mode बटन इस मॉडल का इस्तेमाल नहीं करता। मुख्य मुद्दा यह है कि बड़ा ऑन-डिवाइस AI मॉडल स्पष्ट उपयोगकर्ता जानकारी के बिना इंस्टॉल होता है और हटाने के बाद भी लौट आता है। Chrome उपयोगकर्ता स्टोरेज उपयोग और फीचर के कामकाज पर अधिक पारदर्शिता मांग सकते हैं। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "Chrome Diam-Diam Pasang Model AI Gemini Nano 4GB dan Memulihkannya",
+      "excerpt": "Google Chrome dilaporkan mengunduh model AI Gemini Nano 4GB ke perangkat yang memenuhi syarat, menginstal ulang jika dihapus, sementara tombol AI Mode yang terlihat tidak memakainya.",
+      "body": "Google Chrome dilaporkan diam-diam mengunduh model AI Gemini Nano berukuran 4GB ke perangkat yang memenuhi syarat dan mengunduhnya lagi jika pengguna menghapusnya. Menurut laporan asli, model itu terpasang di dalam Chrome, tetapi tombol AI Mode yang benar-benar dilihat pengguna tidak menggunakan model tersebut. Isu utamanya adalah model AI on-device berukuran besar dipasang tanpa kesadaran pengguna yang jelas dan dipulihkan setelah dihapus. Pengguna Chrome dapat menuntut transparansi lebih besar soal penggunaan penyimpanan dan cara kerja fitur. Sumber: decrypt.co"
+    }
+  }
+}

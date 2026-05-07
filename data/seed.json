@@ -1,5 +1,230 @@
 [
   {
+    "id": "c36ccb6365ef",
+    "slug": "bitcoin-ethereum-39q-day39-quantum-threat-could-arrive-as-so-975280",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T02:02:33.827Z",
+    "updatedAt": "2026-05-07T02:02:33.827Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030",
+    "canonicalUrl": "https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030",
+    "titleFingerprint": "d78fe709617a71c05445bb7b82af9313361c7cfb",
+    "dedupKeys": [
+      "c36ccb6365efc4ee0fbe72c9df6bdaf2c1bfaa20",
+      "d78fe709617a71c05445bb7b82af9313361c7cfb",
+      "1eddfcb30f166543b93373d48bd80732fc15ec92"
+    ],
+    "imageUrl": "/images/articles/c36ccb6365ef.png",
+    "i18n": {
+      "ko": {
+        "title": "비트코인·이더리움 ‘Q-Day’ 2030년 도래 가능성, 양자 보안 전환 경고",
+        "excerpt": "Project Eleven은 2026년 5월 보고서에서 비트코인·이더리움 암호체계를 깰 양자컴퓨터가 이르면 2030년 등장할 수 있다고 경고했다.",
+        "body": "2026년 5월 Project Eleven의 새 기술 보고서는 비트코인과 이더리움 등 주요 블록체인의 전자서명 암호체계를 깰 수 있는 양자컴퓨터가 이르면 2030년, 늦어도 2033년에는 등장할 가능성이 높다고 분석했다. 보고서는 최근 하드웨어 발전으로 위협 시계가 앞당겨졌고, 구글 연구가 비트코인에 쓰이는 타원곡선 암호를 약 1,200개 논리 큐비트와 90분 미만 연산으로 깰 수 있다고 제시한 점을 언급했다. 노출된 공개키 주소에는 약 690만 BTC와 전체 ETH의 65% 이상이 포함될 수 있다. Decrypt.co에 따르면 개발자들은 대응안을 논의 중이지만, 체인 거버넌스와 이전 작업은 수년이 걸릴 수 있다."
+      },
+      "en": {
+        "title": "Bitcoin and Ethereum Q-Day Could Arrive by 2030, Quantum Security Report Warns",
+        "excerpt": "Project Eleven warned in a May 2026 report that quantum computers capable of breaking Bitcoin and Ethereum cryptography could appear as early as 2030.",
+        "body": "A May 2026 technical report from Project Eleven says quantum computers able to break the digital signature cryptography behind Bitcoin, Ethereum and other major blockchains could arrive as early as 2030, and are more likely than not by 2033. The report says recent hardware progress has accelerated the risk timeline, citing Google research that suggested Bitcoin’s elliptic-curve cryptography could be broken with about 1,200 logical qubits and under 90 minutes of computation. Around 6.9 million BTC and more than 65% of all ETH may sit in addresses with exposed public keys. According to Decrypt.co, developers are discussing defenses, but governance and migration work could take years."
+      },
+      "ja": {
+        "title": "ビットコインとイーサリアムのQ-Day、2030年到来の可能性を報告書が警告",
+        "excerpt": "Project Elevenは2026年5月の報告書で、ビットコインとイーサリアムの暗号を破る量子コンピューターが早ければ2030年に現れる可能性を警告した。",
+        "body": "Project Elevenが2026年5月に公表した技術報告書は、ビットコイン、イーサリアムなど主要ブロックチェーンの電子署名暗号を破れる量子コンピューターが早ければ2030年、遅くとも2033年までに存在する可能性が高いと分析した。報告書は、最近のハードウェア進展で脅威の時期が早まったとし、グーグルの研究がビットコインの楕円曲線暗号を約1,200論理量子ビット、90分未満の計算で破れる可能性を示した点に触れた。公開鍵が露出したアドレスには約690万BTCと全ETHの65%以上が含まれる可能性がある。Decrypt.coによると、開発者は対策を検討しているが、ガバナンスと移行には数年かかり得る。"
+      },
+      "zh": {
+        "title": "比特币和以太坊Q-Day或在2030年到来，量子安全报告发出警告",
+        "excerpt": "Project Eleven在2026年5月报告中警告，能够破解比特币和以太坊加密体系的量子计算机最早可能在2030年出现。",
+        "body": "Project Eleven在2026年5月发布的技术报告称，能够破解比特币、以太坊等主要区块链数字签名加密体系的量子计算机最早可能在2030年出现，并且到2033年前出现的可能性更高。报告指出，近期硬件进展加快了风险时间表，并提到谷歌研究显示，破解比特币使用的椭圆曲线加密或只需约1,200个逻辑量子比特和不到90分钟计算。约690万枚BTC以及超过65%的ETH可能位于已暴露公钥的地址中。据Decrypt.co报道，开发者正在讨论防御方案，但链上治理和迁移工作可能需要数年。"
+      },
+      "es": {
+        "title": "Bitcoin y Ethereum ante Q-Day en 2030: informe alerta sobre amenaza cuántica",
+        "excerpt": "Project Eleven advirtió en un informe de mayo de 2026 que computadoras cuánticas capaces de romper la criptografía de Bitcoin y Ethereum podrían llegar en 2030.",
+        "body": "Un informe técnico de Project Eleven publicado en mayo de 2026 afirma que las computadoras cuánticas capaces de romper la criptografía de firmas digitales que protege a Bitcoin, Ethereum y otras grandes blockchains podrían llegar tan pronto como 2030, y con alta probabilidad antes de 2033. El reporte dice que los avances recientes en hardware aceleraron el calendario de riesgo y cita una investigación de Google según la cual la criptografía de curva elíptica de Bitcoin podría romperse con unos 1.200 qubits lógicos y menos de 90 minutos de cómputo. Unos 6,9 millones de BTC y más del 65% de todo el ETH podrían estar en direcciones con claves públicas expuestas. Según Decrypt.co, los desarrolladores analizan defensas, pero la gobernanza y migración podrían tardar años."
+      },
+      "pt": {
+        "title": "Bitcoin e Ethereum podem enfrentar Q-Day em 2030, alerta relatório quântico",
+        "excerpt": "A Project Eleven alertou em relatório de maio de 2026 que computadores quânticos capazes de quebrar a criptografia de Bitcoin e Ethereum podem surgir já em 2030.",
+        "body": "Um relatório técnico da Project Eleven, publicado em maio de 2026, afirma que computadores quânticos capazes de quebrar a criptografia de assinaturas digitais que protege Bitcoin, Ethereum e outras grandes blockchains podem surgir já em 2030, com probabilidade elevada até 2033. O documento diz que avanços recentes em hardware aceleraram o cronograma da ameaça e cita pesquisa do Google segundo a qual a criptografia de curva elíptica do Bitcoin poderia ser rompida com cerca de 1.200 qubits lógicos e menos de 90 minutos de computação. Cerca de 6,9 milhões de BTC e mais de 65% de todo o ETH podem estar em endereços com chaves públicas expostas. Segundo o Decrypt.co, desenvolvedores discutem defesas, mas governança e migração podem levar anos."
+      },
+      "de": {
+        "title": "Bitcoin und Ethereum vor Q-Day ab 2030: Bericht warnt vor Quantenrisiko",
+        "excerpt": "Project Eleven warnte in einem Bericht vom Mai 2026, dass Quantencomputer, die die Kryptografie von Bitcoin und Ethereum brechen können, schon 2030 erscheinen könnten.",
+        "body": "Ein technischer Bericht von Project Eleven vom Mai 2026 kommt zu dem Schluss, dass Quantencomputer, die die digitale Signaturkryptografie von Bitcoin, Ethereum und anderen großen Blockchains brechen können, bereits 2030 auftauchen könnten und bis 2033 wahrscheinlicher als nicht seien. Der Bericht verweist auf jüngste Hardwarefortschritte, die den Zeitplan der Bedrohung beschleunigen, sowie auf Google-Forschung, wonach Bitcoins elliptische Kurvenkryptografie mit rund 1.200 logischen Qubits und weniger als 90 Minuten Rechenzeit gebrochen werden könnte. Etwa 6,9 Millionen BTC und mehr als 65% aller ETH könnten in Adressen mit offengelegten öffentlichen Schlüsseln liegen. Laut Decrypt.co beraten Entwickler über Gegenmaßnahmen, doch Governance und Migration könnten Jahre dauern."
+      },
+      "fr": {
+        "title": "Bitcoin et Ethereum face au Q-Day dès 2030, un rapport alerte sur le risque quantique",
+        "excerpt": "Project Eleven a averti dans un rapport de mai 2026 que des ordinateurs quantiques capables de casser la cryptographie de Bitcoin et Ethereum pourraient arriver dès 2030.",
+        "body": "Un rapport technique de Project Eleven publié en mai 2026 estime que des ordinateurs quantiques capables de casser la cryptographie des signatures numériques protégeant Bitcoin, Ethereum et d’autres grandes blockchains pourraient apparaître dès 2030, et probablement d’ici 2033. Le rapport indique que les progrès récents du matériel ont accéléré le calendrier de la menace et cite une étude de Google selon laquelle la cryptographie à courbe elliptique de Bitcoin pourrait être cassée avec environ 1.200 qubits logiques et moins de 90 minutes de calcul. Environ 6,9 millions de BTC et plus de 65% de tous les ETH pourraient se trouver dans des adresses dont les clés publiques sont exposées. Selon Decrypt.co, les développeurs discutent de défenses, mais la gouvernance et la migration pourraient prendre des années."
+      },
+      "ar": {
+        "title": "بيتكوين وإيثريوم أمام Q-Day بحلول 2030: تقرير يحذر من الخطر الكمي",
+        "excerpt": "حذرت Project Eleven في تقرير صدر في مايو 2026 من أن حواسيب كمية قادرة على كسر تشفير بيتكوين وإيثريوم قد تظهر في وقت مبكر من عام 2030.",
+        "body": "قال تقرير تقني صادر عن Project Eleven في مايو 2026 إن الحواسيب الكمية القادرة على كسر تشفير التوقيعات الرقمية الذي يحمي بيتكوين وإيثريوم وسلاسل كتل كبرى أخرى قد تظهر في وقت مبكر من عام 2030، ومن المرجح وجودها بحلول 2033. وأوضح التقرير أن تطورات العتاد الأخيرة سرّعت جدول الخطر، مستشهدا ببحث من جوجل أشار إلى أن تشفير المنحنى الإهليلجي المستخدم في بيتكوين قد يُكسر بنحو 1,200 كيوبت منطقي وأقل من 90 دقيقة من الحوسبة. وقد تكون نحو 6.9 مليون BTC وأكثر من 65% من إجمالي ETH في عناوين كُشفت مفاتيحها العامة. ووفقا لـDecrypt.co، يناقش المطورون دفاعات محتملة، لكن الحوكمة والترحيل قد يستغرقان سنوات."
+      },
+      "hi": {
+        "title": "Bitcoin और Ethereum Q-Day 2030 तक आ सकता है, क्वांटम रिपोर्ट ने चेताया",
+        "excerpt": "Project Eleven ने मई 2026 की रिपोर्ट में चेतावनी दी कि Bitcoin और Ethereum की क्रिप्टोग्राफी तोड़ सकने वाले क्वांटम कंप्यूटर 2030 तक आ सकते हैं।",
+        "body": "Project Eleven की मई 2026 की तकनीकी रिपोर्ट के अनुसार Bitcoin, Ethereum और अन्य प्रमुख ब्लॉकचेन की डिजिटल सिग्नेचर क्रिप्टोग्राफी तोड़ सकने वाले क्वांटम कंप्यूटर 2030 तक आ सकते हैं, और 2033 तक उनके मौजूद होने की संभावना अधिक है। रिपोर्ट कहती है कि हालिया हार्डवेयर प्रगति ने जोखिम की समयसीमा को तेज किया है। इसमें Google शोध का हवाला है, जिसके मुताबिक Bitcoin में इस्तेमाल elliptic-curve cryptography को करीब 1,200 logical qubits और 90 मिनट से कम कंप्यूटिंग में तोड़ा जा सकता है। लगभग 6.9 मिलियन BTC और कुल ETH के 65% से अधिक हिस्से ऐसे पतों में हो सकते हैं जिनकी public keys उजागर हैं। Decrypt.co के अनुसार, डेवलपर बचाव पर चर्चा कर रहे हैं, लेकिन governance और migration में कई साल लग सकते हैं।"
+      },
+      "id": {
+        "title": "Bitcoin dan Ethereum Hadapi Q-Day 2030, Laporan Peringatkan Risiko Kuantum",
+        "excerpt": "Project Eleven memperingatkan dalam laporan Mei 2026 bahwa komputer kuantum yang mampu memecahkan kriptografi Bitcoin dan Ethereum bisa muncul paling cepat pada 2030.",
+        "body": "Laporan teknis Project Eleven pada Mei 2026 menyebut komputer kuantum yang mampu memecahkan kriptografi tanda tangan digital di balik Bitcoin, Ethereum, dan blockchain besar lain bisa hadir paling cepat pada 2030, dan kemungkinan besar ada pada 2033. Laporan itu mengatakan kemajuan perangkat keras terbaru mempercepat garis waktu ancaman, mengutip riset Google yang menyebut kriptografi kurva eliptik Bitcoin dapat dipecahkan dengan sekitar 1.200 qubit logis dan komputasi kurang dari 90 menit. Sekitar 6,9 juta BTC dan lebih dari 65% seluruh ETH mungkin berada di alamat dengan kunci publik yang sudah terekspos. Menurut Decrypt.co, pengembang sedang membahas pertahanan, tetapi tata kelola dan migrasi dapat memakan waktu bertahun-tahun."
+      }
+    }
+  },
+  {
+    "id": "a1c14797a8fd",
+    "slug": "this-ai-reads-your-chemistry-instructions-and-finds-the-best-906576",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T02:01:29.658Z",
+    "updatedAt": "2026-05-07T02:01:29.658Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367048/ai-chemistry-instructions-build-molecule",
+    "canonicalUrl": "https://decrypt.co/367048/ai-chemistry-instructions-build-molecule",
+    "titleFingerprint": "4041a378022e5629fc879cce1f78d9cd38639fe3",
+    "dedupKeys": [
+      "a1c14797a8fda0c754da202d659b30e4bbd10fbf",
+      "4041a378022e5629fc879cce1f78d9cd38639fe3",
+      "a1f2286f977d22f488f343e28ba8f70491230aab"
+    ],
+    "imageUrl": "/images/articles/a1c14797a8fd.png",
+    "i18n": {
+      "ko": {
+        "title": "AI 분자 합성 경로 추천, EPFL이 자연어 지시 해석 프레임워크 공개",
+        "excerpt": "EPFL 연구진은 화학자가 원하는 분자를 자연어로 설명하면 AI가 수천 개 합성 경로를 검토해 적합한 방법을 찾는 프레임워크를 구축했다고 decrypt.co가 보도했다.",
+        "body": "EPFL 연구진이 화학자의 자연어 지시를 읽고 원하는 분자를 만들 합성 경로를 찾는 AI 프레임워크를 구축했다. 이 시스템은 화학자가 필요한 조건이나 목표를 평이한 언어로 설명하면, AI가 수천 개의 가능한 합성 경로를 살펴보고 적합한 선택지를 제시하도록 설계됐다. 배경에는 복잡한 분자 합성 과정에서 선택 가능한 경로가 많고, 연구자가 이를 일일이 비교해야 하는 부담이 있다. 이번 프레임워크는 화학 지식과 언어 기반 지시를 연결해 탐색 과정을 줄이는 데 초점을 맞춘다. 향후 화학자들이 목표 분자에 맞는 합성 전략을 더 빠르게 검토하는 데 활용될 수 있다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "AI Molecule Synthesis Tool From EPFL Reads Plain-Language Chemistry Goals",
+        "excerpt": "EPFL researchers built a framework that lets chemists describe a target molecule in plain language while AI reviews thousands of synthesis routes to find a suitable path, decrypt.co reported.",
+        "body": "Researchers at EPFL have built an AI framework that reads chemists' plain-language instructions and searches for synthesis routes to make a desired molecule. The system is designed so a chemist can describe required conditions or goals in ordinary language, while AI reviews thousands of possible synthesis paths and presents suitable options. The context is that complex molecule synthesis can involve many available routes, leaving researchers to compare them one by one. The framework focuses on connecting chemical knowledge with language-based instructions to reduce the search process. It could help chemists review synthesis strategies for target molecules more quickly. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "EPFLのAI分子合成支援、自然言語の化学指示を読んで経路探索",
+        "excerpt": "EPFLの研究者は、化学者が目的の分子を自然な言葉で説明すると、AIが数千の合成経路を調べて適切な方法を探す枠組みを構築したとdecrypt.coが報じた。",
+        "body": "EPFLの研究者は、化学者の自然言語による指示を読み、目的の分子を作るための合成経路を探すAIフレームワークを構築した。このシステムは、化学者が必要な条件や目標を平易な言葉で説明すると、AIが数千の可能な合成経路を確認し、適切な選択肢を示すよう設計されている。背景には、複雑な分子合成では選べる経路が多く、研究者がそれらを一つずつ比較しなければならない負担がある。この枠組みは、化学知識と言語ベースの指示を結び、探索過程を短縮することに重点を置く。今後、化学者が標的分子に合った合成戦略をより早く検討する用途が見込まれる。出典: decrypt.co。"
+      },
+      "zh": {
+        "title": "EPFL推出AI分子合成框架，可读取自然语言化学指令",
+        "excerpt": "decrypt.co报道，EPFL研究人员构建了一个框架，让化学家用自然语言描述目标分子后，由AI筛选数千条合成路线并寻找合适方法。",
+        "body": "EPFL研究人员构建了一个AI框架，可读取化学家的自然语言指令，并寻找制造目标分子的合成路线。该系统的设计方式是，化学家用日常语言说明所需条件或目标，AI随后查看数千条可能的合成路径，并给出合适选项。其背景在于，复杂分子合成往往存在许多可选路线，研究人员需要逐一比较。这个框架重点连接化学知识与基于语言的指令，以减少搜索过程。未来，它可帮助化学家更快评估适合目标分子的合成策略。来源: decrypt.co。"
+      },
+      "es": {
+        "title": "IA de EPFL para síntesis molecular lee instrucciones químicas en lenguaje natural",
+        "excerpt": "Investigadores de EPFL crearon un marco que permite a químicos describir una molécula en lenguaje natural para que la IA revise miles de rutas de síntesis y encuentre una opción adecuada, informó decrypt.co.",
+        "body": "Investigadores de EPFL construyeron un marco de IA que lee instrucciones en lenguaje natural de químicos y busca rutas de síntesis para crear una molécula deseada. El sistema está diseñado para que un químico describa condiciones necesarias u objetivos con palabras comunes, mientras la IA revisa miles de posibles rutas de síntesis y presenta opciones adecuadas. El contexto es que la síntesis de moléculas complejas puede incluir muchas rutas disponibles, lo que obliga a los investigadores a compararlas una por una. El marco se centra en conectar conocimiento químico con instrucciones basadas en lenguaje para reducir el proceso de búsqueda. Podría ayudar a los químicos a revisar más rápido estrategias de síntesis para moléculas objetivo. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "IA da EPFL para síntese molecular lê instruções químicas em linguagem natural",
+        "excerpt": "Pesquisadores da EPFL criaram uma estrutura que permite a químicos descrever uma molécula em linguagem natural enquanto a IA analisa milhares de rotas de síntese para achar uma opção adequada, informou decrypt.co.",
+        "body": "Pesquisadores da EPFL criaram uma estrutura de IA que lê instruções em linguagem natural de químicos e busca rotas de síntese para produzir uma molécula desejada. O sistema foi projetado para que o químico descreva condições necessárias ou objetivos em linguagem comum, enquanto a IA examina milhares de rotas de síntese possíveis e apresenta opções adequadas. O contexto é que a síntese de moléculas complexas pode envolver muitas rotas disponíveis, exigindo que pesquisadores as comparem uma a uma. A estrutura busca conectar conhecimento químico a instruções baseadas em linguagem para reduzir o processo de busca. Ela pode ajudar químicos a revisar mais rapidamente estratégias de síntese para moléculas-alvo. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "EPFL-KI für Molekülsynthese liest chemische Ziele in Alltagssprache",
+        "excerpt": "EPFL-Forscher haben ein Framework entwickelt, mit dem Chemiker Zielmoleküle in Alltagssprache beschreiben können, während KI Tausende Syntheserouten prüft und passende Wege findet, berichtete decrypt.co.",
+        "body": "Forscher der EPFL haben ein KI-Framework entwickelt, das natürlichsprachliche Anweisungen von Chemikern liest und Syntheserouten für ein gewünschtes Molekül sucht. Das System ist so konzipiert, dass ein Chemiker benötigte Bedingungen oder Ziele in einfacher Sprache beschreibt, während die KI Tausende mögliche Synthesewege prüft und geeignete Optionen präsentiert. Hintergrund ist, dass die Synthese komplexer Moleküle viele verfügbare Routen umfassen kann und Forscher diese einzeln vergleichen müssen. Das Framework konzentriert sich darauf, chemisches Wissen mit sprachbasierten Anweisungen zu verbinden und den Suchprozess zu verkürzen. Es könnte Chemikern helfen, Synthesestrategien für Zielmoleküle schneller zu prüfen. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "L’IA d’EPFL pour la synthèse moléculaire lit les consignes chimiques en langage naturel",
+        "excerpt": "Des chercheurs de l’EPFL ont créé un cadre permettant aux chimistes de décrire une molécule en langage naturel, tandis que l’IA examine des milliers de voies de synthèse pour trouver une option adaptée, selon decrypt.co.",
+        "body": "Des chercheurs de l’EPFL ont construit un cadre d’IA qui lit les instructions en langage naturel des chimistes et cherche des voies de synthèse pour fabriquer une molécule souhaitée. Le système est conçu pour qu’un chimiste décrive les conditions nécessaires ou les objectifs en langage courant, tandis que l’IA examine des milliers de voies de synthèse possibles et présente des options adaptées. Le contexte est que la synthèse de molécules complexes peut offrir de nombreuses routes, que les chercheurs doivent comparer une par une. Ce cadre vise à relier les connaissances chimiques aux instructions fondées sur le langage afin de réduire le processus de recherche. Il pourrait aider les chimistes à évaluer plus rapidement des stratégies de synthèse pour des molécules cibles. Source: decrypt.co."
+      },
+      "ar": {
+        "title": "ذكاء اصطناعي من EPFL يقرأ تعليمات الكيمياء ويقترح مسارات تصنيع الجزيئات",
+        "excerpt": "أفاد decrypt.co بأن باحثين في EPFL بنوا إطارا يتيح للكيميائيين وصف الجزيء المطلوب بلغة طبيعية، لتفحص الذكاء الاصطناعي آلاف مسارات التخليق ويجد خيارا مناسبا.",
+        "body": "بنى باحثون في EPFL إطارا للذكاء الاصطناعي يقرأ تعليمات الكيميائيين باللغة الطبيعية ويبحث عن مسارات تخليق لصنع الجزيء المطلوب. صمم النظام بحيث يصف الكيميائي الشروط أو الأهداف المطلوبة بلغة عادية، ثم يفحص الذكاء الاصطناعي آلاف مسارات التخليق الممكنة ويعرض خيارات مناسبة. يأتي ذلك في سياق أن تخليق الجزيئات المعقدة قد يتضمن مسارات كثيرة متاحة، ما يفرض على الباحثين مقارنتها واحدا تلو الآخر. يركز الإطار على ربط المعرفة الكيميائية بالتعليمات اللغوية لتقليل عملية البحث. وقد يساعد الكيميائيين مستقبلا على مراجعة استراتيجيات التخليق للجزيئات المستهدفة بسرعة أكبر. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "EPFL का AI अणु संश्लेषण टूल प्राकृतिक भाषा में रसायन निर्देश पढ़ता है",
+        "excerpt": "decrypt.co के अनुसार, EPFL शोधकर्ताओं ने ऐसा फ्रेमवर्क बनाया है जिसमें रसायनज्ञ लक्ष्य अणु को सामान्य भाषा में बताते हैं और AI हजारों संश्लेषण मार्गों की समीक्षा कर उपयुक्त तरीका खोजता है।",
+        "body": "EPFL के शोधकर्ताओं ने एक AI फ्रेमवर्क बनाया है जो रसायनज्ञों के प्राकृतिक भाषा वाले निर्देश पढ़ता है और इच्छित अणु बनाने के लिए संश्लेषण मार्ग खोजता है। यह प्रणाली इस तरह डिजाइन की गई है कि रसायनज्ञ जरूरी शर्तों या लक्ष्यों को सामान्य भाषा में बताए, और AI हजारों संभावित संश्लेषण मार्गों की जांच कर उपयुक्त विकल्प प्रस्तुत करे। पृष्ठभूमि यह है कि जटिल अणुओं के संश्लेषण में कई उपलब्ध मार्ग हो सकते हैं, जिन्हें शोधकर्ताओं को एक-एक कर तुलना करनी पड़ती है। यह फ्रेमवर्क रासायनिक ज्ञान को भाषा-आधारित निर्देशों से जोड़कर खोज प्रक्रिया कम करने पर केंद्रित है। आगे यह रसायनज्ञों को लक्ष्य अणुओं के लिए संश्लेषण रणनीतियों की तेज समीक्षा में मदद कर सकता है। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "AI EPFL untuk Sintesis Molekul Membaca Instruksi Kimia Bahasa Alami",
+        "excerpt": "Peneliti EPFL membangun kerangka yang memungkinkan ahli kimia menjelaskan molekul target dalam bahasa alami, lalu AI meninjau ribuan rute sintesis untuk menemukan opsi yang sesuai, lapor decrypt.co.",
+        "body": "Peneliti EPFL membangun kerangka AI yang membaca instruksi ahli kimia dalam bahasa alami dan mencari rute sintesis untuk membuat molekul yang diinginkan. Sistem ini dirancang agar ahli kimia dapat menjelaskan kondisi atau tujuan yang diperlukan dengan bahasa sehari-hari, sementara AI memeriksa ribuan kemungkinan rute sintesis dan menyajikan opsi yang sesuai. Latar belakangnya, sintesis molekul kompleks dapat memiliki banyak rute yang tersedia, sehingga peneliti harus membandingkannya satu per satu. Kerangka ini berfokus menghubungkan pengetahuan kimia dengan instruksi berbasis bahasa untuk mengurangi proses pencarian. Ke depan, ini dapat membantu ahli kimia meninjau strategi sintesis bagi molekul target dengan lebih cepat. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "5ec5201a31a4",
+    "slug": "chrome-is-quietly-installing-a-4gb-ai-model-on-your-computer-833589",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T02:00:29.427Z",
+    "updatedAt": "2026-05-07T02:00:29.427Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
+    "canonicalUrl": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
+    "titleFingerprint": "3876b8fdae4bd6272fd294adb2048bd982ebcc6c",
+    "dedupKeys": [
+      "5ec5201a31a49cc6efb77f80ef7bc96dfa204155",
+      "3876b8fdae4bd6272fd294adb2048bd982ebcc6c",
+      "6024cc8357a0cfe34928fc7fb948b6c72be4ce83"
+    ],
+    "imageUrl": "/images/articles/5ec5201a31a4.png",
+    "i18n": {
+      "ko": {
+        "title": "크롬, 4GB 제미나이 나노 AI 모델 조용히 설치 후 삭제해도 복원",
+        "excerpt": "구글 크롬이 적격 기기에 4GB 규모 제미나이 나노 AI 모델을 조용히 내려받고, 사용자가 삭제해도 다시 설치하며, 표시되는 AI Mode 버튼은 이를 쓰지 않는 것으로 전해졌다.",
+        "body": "구글 크롬이 적격 기기에 4GB 규모의 제미나이 나노 AI 모델을 조용히 다운로드하고, 사용자가 이를 삭제해도 다시 내려받는 것으로 전해졌다. 원문에 따르면 이 모델은 크롬 내부에 설치되지만, 사용자가 실제로 보는 AI Mode 버튼은 해당 모델을 사용하지 않는다. 핵심 쟁점은 대용량 온디바이스 AI 모델이 명확한 사용자 인지 없이 설치되고, 삭제 후에도 복원된다는 점이다. 크롬 이용자는 저장공간 사용과 기능 작동 방식에 대해 더 큰 투명성을 요구할 수 있다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Chrome Quietly Installs 4GB Gemini Nano AI Model and Restores It",
+        "excerpt": "Google Chrome reportedly downloads a 4GB Gemini Nano AI model to eligible devices, reinstalls it if users delete it, and the visible AI Mode button does not use it.",
+        "body": "Google Chrome reportedly downloads a 4GB Gemini Nano AI model quietly to eligible devices and downloads it again if users delete it. According to the original report, the model is installed inside Chrome, but the AI Mode button users actually see does not use that model. The central issue is that a large on-device AI model is being installed without clear user awareness and restored after deletion. Chrome users may demand greater transparency about storage use and how the feature works. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "Chrome、4GBのGemini Nano AIモデルを静かに導入し削除後も復元",
+        "excerpt": "Google Chromeは対象端末に4GB規模のGemini Nano AIモデルを密かにダウンロードし、削除しても再導入する一方、表示されるAI Modeボタンはそれを使わないと報じられた。",
+        "body": "Google Chromeが対象端末に4GB規模のGemini Nano AIモデルを静かにダウンロードし、ユーザーが削除しても再び取得することが報じられた。原文によると、このモデルはChrome内部にインストールされるが、ユーザーが実際に目にするAI Modeボタンはそのモデルを使用していない。焦点は、大容量のオンデバイスAIモデルが明確な認知なしに導入され、削除後も復元される点にある。Chrome利用者は、保存容量の使用や機能の仕組みについて、より高い透明性を求める可能性がある。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "Chrome悄悄安装4GB Gemini Nano AI模型，删除后仍会恢复",
+        "excerpt": "据报道，Google Chrome会在符合条件的设备上静默下载4GB Gemini Nano AI模型，即使用户删除也会重新安装，而可见的AI Mode按钮并不使用它。",
+        "body": "据报道，Google Chrome会在符合条件的设备上悄悄下载一个4GB规模的Gemini Nano AI模型，并在用户删除后再次下载。原文称，该模型安装在Chrome内部，但用户实际看到的AI Mode按钮并不使用这个模型。核心问题在于，一个大型端侧AI模型在用户缺乏明确感知的情况下被安装，并且删除后仍会恢复。Chrome用户可能会要求Google对存储空间占用和功能运行方式提供更高透明度。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Chrome instala en silencio un modelo Gemini Nano de 4GB y lo restaura",
+        "excerpt": "Google Chrome descarga en dispositivos elegibles un modelo Gemini Nano de 4GB, lo vuelve a instalar si el usuario lo borra y el botón AI Mode visible no lo utiliza.",
+        "body": "Google Chrome descarga silenciosamente un modelo Gemini Nano de 4GB en dispositivos elegibles y vuelve a descargarlo si el usuario lo elimina, según el reporte original. El modelo queda instalado dentro de Chrome, pero el botón AI Mode que los usuarios realmente ven no usa ese modelo. El punto central es que un modelo de IA local de gran tamaño se instala sin una conciencia clara del usuario y se restaura tras ser borrado. Los usuarios de Chrome podrían pedir más transparencia sobre el uso de almacenamiento y el funcionamiento de la función. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Chrome instala modelo Gemini Nano de 4GB em silêncio e o restaura",
+        "excerpt": "O Google Chrome baixa em dispositivos elegíveis um modelo Gemini Nano de 4GB, reinstala se o usuário apagar, e o botão AI Mode visível não utiliza esse modelo.",
+        "body": "O Google Chrome baixa silenciosamente um modelo Gemini Nano de 4GB em dispositivos elegíveis e volta a baixá-lo se o usuário o excluir, segundo o relato original. O modelo é instalado dentro do Chrome, mas o botão AI Mode que os usuários realmente veem não usa esse modelo. A questão central é que um grande modelo de IA no dispositivo é instalado sem percepção clara do usuário e restaurado após a exclusão. Usuários do Chrome podem exigir mais transparência sobre uso de armazenamento e funcionamento do recurso. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Chrome installiert leise 4GB Gemini Nano KI-Modell und stellt es wieder her",
+        "excerpt": "Google Chrome lädt auf geeigneten Geräten ein 4GB großes Gemini Nano KI-Modell herunter, installiert es nach Löschung erneut, doch der sichtbare AI Mode nutzt es nicht.",
+        "body": "Google Chrome lädt Berichten zufolge leise ein 4GB großes Gemini Nano KI-Modell auf geeignete Geräte herunter und lädt es erneut, wenn Nutzer es löschen. Laut dem Originalbericht wird das Modell intern in Chrome installiert, doch die AI-Mode-Schaltfläche, die Nutzer tatsächlich sehen, verwendet dieses Modell nicht. Im Mittelpunkt steht, dass ein großes On-Device-KI-Modell ohne klare Nutzerwahrnehmung installiert und nach dem Löschen wiederhergestellt wird. Chrome-Nutzer könnten mehr Transparenz über Speicherverbrauch und Funktionsweise verlangen. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Chrome installe discrètement un modèle IA Gemini Nano de 4Go et le restaure",
+        "excerpt": "Google Chrome télécharge sur les appareils éligibles un modèle IA Gemini Nano de 4Go, le réinstalle s’il est supprimé, tandis que le bouton AI Mode visible ne l’utilise pas.",
+        "body": "Google Chrome télécharge discrètement un modèle IA Gemini Nano de 4Go sur les appareils éligibles et le récupère de nouveau si l’utilisateur le supprime, selon le rapport original. Le modèle est installé dans Chrome, mais le bouton AI Mode que les utilisateurs voient réellement ne l’utilise pas. L’enjeu principal est qu’un grand modèle d’IA embarqué est installé sans perception claire de l’utilisateur et restauré après suppression. Les utilisateurs de Chrome pourraient demander plus de transparence sur l’espace utilisé et le fonctionnement de la fonction. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "كروم يثبت بصمت نموذج Gemini Nano بحجم 4GB ويعيده بعد الحذف",
+        "excerpt": "يقال إن Google Chrome ينزل نموذج Gemini Nano بحجم 4GB على الأجهزة المؤهلة، ويعيد تثبيته إذا حذفه المستخدم، بينما زر AI Mode الظاهر لا يستخدمه.",
+        "body": "يقال إن Google Chrome ينزل بصمت نموذج Gemini Nano للذكاء الاصطناعي بحجم 4GB على الأجهزة المؤهلة، ثم يعيد تنزيله إذا حذفه المستخدم. وبحسب التقرير الأصلي، يثبت النموذج داخل Chrome، لكن زر AI Mode الذي يراه المستخدمون فعليا لا يستخدم هذا النموذج. القضية الأساسية هي أن نموذج ذكاء اصطناعي كبيرا يعمل على الجهاز يثبت من دون وعي واضح من المستخدم، ثم يستعاد بعد الحذف. قد يطالب مستخدمو Chrome بمزيد من الشفافية حول استهلاك مساحة التخزين وطريقة عمل الميزة. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Chrome चुपचाप 4GB Gemini Nano AI मॉडल इंस्टॉल कर हटाने पर लौटाता है",
+        "excerpt": "Google Chrome योग्य डिवाइसों पर 4GB Gemini Nano AI मॉडल चुपचाप डाउनलोड करता है, हटाने पर फिर इंस्टॉल करता है, जबकि दिखने वाला AI Mode बटन इसका उपयोग नहीं करता।",
+        "body": "रिपोर्ट के अनुसार Google Chrome योग्य डिवाइसों पर 4GB का Gemini Nano AI मॉडल चुपचाप डाउनलोड करता है और उपयोगकर्ता के हटाने पर उसे फिर से डाउनलोड कर देता है। मूल रिपोर्ट बताती है कि यह मॉडल Chrome के भीतर इंस्टॉल होता है, लेकिन उपयोगकर्ताओं को दिखने वाला AI Mode बटन इस मॉडल का इस्तेमाल नहीं करता। मुख्य मुद्दा यह है कि बड़ा ऑन-डिवाइस AI मॉडल स्पष्ट उपयोगकर्ता जानकारी के बिना इंस्टॉल होता है और हटाने के बाद भी लौट आता है। Chrome उपयोगकर्ता स्टोरेज उपयोग और फीचर के कामकाज पर अधिक पारदर्शिता मांग सकते हैं। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Chrome Diam-Diam Pasang Model AI Gemini Nano 4GB dan Memulihkannya",
+        "excerpt": "Google Chrome dilaporkan mengunduh model AI Gemini Nano 4GB ke perangkat yang memenuhi syarat, menginstal ulang jika dihapus, sementara tombol AI Mode yang terlihat tidak memakainya.",
+        "body": "Google Chrome dilaporkan diam-diam mengunduh model AI Gemini Nano berukuran 4GB ke perangkat yang memenuhi syarat dan mengunduhnya lagi jika pengguna menghapusnya. Menurut laporan asli, model itu terpasang di dalam Chrome, tetapi tombol AI Mode yang benar-benar dilihat pengguna tidak menggunakan model tersebut. Isu utamanya adalah model AI on-device berukuran besar dipasang tanpa kesadaran pengguna yang jelas dan dipulihkan setelah dihapus. Pengguna Chrome dapat menuntut transparansi lebih besar soal penggunaan penyimpanan dan cara kerja fitur. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
     "id": "19d0877fc14b",
     "slug": "anchorage-launches-agentic-banking-as-ceo-tips-trillion-doll-579611",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Mitra Tokenisasi NYSE Peringatkan Risiko Token Saham Sintetis",
         "excerpt": "Mitra tokenisasi NYSE baru-baru ini memperingatkan bahwa token saham sintetis offshore mungkin tidak mewakili ekuitas asli, memakai nama perusahaan tanpa izin dan menyesatkan trader ritel.",
         "body": "Mitra tokenisasi NYSE baru-baru ini memperingatkan bahwa token saham sintetis yang diterbitkan offshore dapat membingungkan trader ritel. Kekhawatiran utamanya adalah sebagian token mungkin tidak benar-benar mewakili saham yang mendasarinya dan dapat memakai nama perusahaan tanpa persetujuan. Mereka menilai produk seperti ini bisa memanfaatkan celah perbedaan regulasi, sehingga investor salah memahami apakah mereka memiliki saham nyata atau hak terkait. Seiring meluasnya tokenisasi saham, struktur penerbitan dan aturan yang berlaku menjadi isu utama perlindungan investor. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "be6384f10d5e",
-    "slug": "memecoin-trades-carry-rare-seven-leg-parlay-odds-bonks-nom-s-443031",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T13:42:26.084Z",
-    "updatedAt": "2026-05-06T13:42:26.084Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/06/memecoin-trades-carry-rare-seven-leg-parlay-odds-bonk-s-nom-says-at-consensus",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/06/memecoin-trades-carry-rare-seven-leg-parlay-odds-bonk-s-nom-says-at-consensus",
-    "titleFingerprint": "ea04f0df2809e6bfb8269fda7bf5e9e78f53a39c",
-    "dedupKeys": [
-      "be6384f10d5e39752f7d67a5d89c1333e7d583d7",
-      "ea04f0df2809e6bfb8269fda7bf5e9e78f53a39c",
-      "d05e3b7a11fbef806eb3234325e5254755eed32e"
-    ],
-    "imageUrl": "/images/articles/be6384f10d5e.png",
-    "i18n": {
-      "ko": {
-        "title": "BONK 기여자 Nom, 밈코인 거래를 ‘7중 파레이’ 확률에 비유",
-        "excerpt": "BONK 핵심 기여자 Nom은 Consensus에서 밈코인 거래가 ETF와 상장사 경로를 건너뛰며 개인투자자에게 불리하게 작동할 수 있다고 지적했다.",
-        "body": "BONK 핵심 기여자 Nom은 Consensus 행사에서 밈코인 거래가 드문 ‘7중 파레이’에 가까운 확률을 안고 있다고 말했다. 그는 일부 밈코인이 ETF나 상장기업 같은 제도권 경로를 거치지 않은 채 시장에 유통되면서 개인투자자가 손실을 떠안을 수 있다고 주장했다. 이번 발언은 밈코인 투자 열기가 이어지는 가운데, 투자 접근성보다 구조적 위험을 먼저 봐야 한다는 문제 제기로 읽힌다. Nom은 특히 중간 검증 장치가 부족한 거래 환경이 개인투자자를 반복적으로 소진시킬 수 있다고 봤다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "BONK’s Nom Says Memecoin Trades Carry Seven-Leg Parlay Odds",
-        "excerpt": "At Consensus, BONK core contributor Nom said memecoin trades can resemble rare seven-leg parlay odds when they skip ETF and public-company rails.",
-        "body": "BONK core contributor Nom said at Consensus that memecoin trades can carry odds similar to a rare seven-leg parlay. He argued that some memecoins bypass ETF and public-company rails, leaving retail investors exposed to losses. The comment came as memecoin activity remains a visible part of crypto trading, with Nom emphasizing structural risk over simple market access. His point was that when tokens move without familiar validation or distribution channels, retail traders may be repeatedly rinsed by the trading setup itself. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "BONKのNom氏、ミームコイン取引を7連パーレー級の確率と指摘",
-        "excerpt": "BONKの中核貢献者Nom氏はConsensusで、ETFや上場企業の経路を飛ばすミームコイン取引が個人投資家に不利になり得ると述べた。",
-        "body": "BONKの中核貢献者Nom氏はConsensusの場で、ミームコイン取引はまれな7連パーレーに近い確率を伴うと語った。同氏は、一部のミームコインがETFや上場企業といった制度的な経路を経ずに市場で取引されることで、個人投資家が損失を負いやすくなると主張した。発言は、ミームコイン投資への関心が続くなか、アクセスのしやすさだけでなく構造的リスクを見るべきだという問題提起といえる。Nom氏は、検証や流通の仕組みが乏しい環境では個人投資家が繰り返し消耗させられる可能性があると見ている。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "BONK贡献者Nom称迷因币交易如七串一赔率般罕见",
-        "excerpt": "BONK核心贡献者Nom在Consensus表示，迷因币若绕过ETF和上市公司路径，交易结构可能让散户投资者处于不利位置。",
-        "body": "BONK核心贡献者Nom在Consensus活动上表示，迷因币交易可能带有类似罕见七串一投注的概率。他认为，一些迷因币绕过ETF和上市公司等制度化路径进入市场，最终可能让散户投资者承担损失。此番表态出现在迷因币交易热度仍受关注之际，重点指向的不是进入市场的便利性，而是交易结构本身的风险。Nom认为，当代币缺少熟悉的验证和分发渠道时，散户可能在这种交易环境中被反复消耗。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Nom de BONK compara las memecoins con una parlay de siete patas",
-        "excerpt": "En Consensus, Nom, colaborador central de BONK, dijo que las memecoins que evitan vías como ETF y empresas públicas pueden perjudicar al minorista.",
-        "body": "Nom, colaborador central de BONK, dijo en Consensus que las operaciones con memecoins pueden tener probabilidades parecidas a una rara parlay de siete patas. Sostuvo que algunas memecoins llegan al mercado sin pasar por vías como ETF o empresas que cotizan en bolsa, lo que deja a los inversores minoristas expuestos a pérdidas. La declaración llega mientras las memecoins siguen presentes en la actividad cripto, y centra la atención en el riesgo estructural más que en la facilidad de acceso. Según Nom, cuando faltan canales reconocibles de validación y distribución, el propio entorno de negociación puede terminar drenando repetidamente al minorista. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Nom da BONK vê memecoins com odds de parlay rara de sete pernas",
-        "excerpt": "No Consensus, Nom, colaborador central da BONK, afirmou que memecoins fora de rotas como ETFs e companhias abertas podem prejudicar o varejo.",
-        "body": "Nom, colaborador central da BONK, disse no Consensus que negociações com memecoins podem carregar probabilidades semelhantes às de uma rara parlay de sete pernas. Ele argumentou que algumas memecoins chegam ao mercado sem passar por rotas como ETFs ou empresas de capital aberto, deixando investidores de varejo mais expostos a perdas. A fala ocorre enquanto as memecoins seguem relevantes na negociação cripto e desloca o foco da facilidade de acesso para o risco estrutural. Para Nom, quando faltam canais conhecidos de validação e distribuição, o próprio ambiente de negociação pode acabar drenando repetidamente o varejo. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "BONK-Beitragender Nom vergleicht Memecoin-Trades mit Siebener-Parlay",
-        "excerpt": "Bei Consensus sagte BONK-Kernbeitragender Nom, Memecoins ohne ETF- und Börsenfirmen-Schienen könnten Privatanleger strukturell benachteiligen.",
-        "body": "BONK-Kernbeitragender Nom sagte bei Consensus, dass Memecoin-Trades Wahrscheinlichkeiten wie ein seltenes Siebener-Parlay tragen könnten. Er argumentierte, dass manche Memecoins ETF- und börsennotierte Unternehmensschienen überspringen und dadurch Privatanleger Verlusten aussetzen. Die Aussage fällt in eine Phase, in der Memecoins weiter ein sichtbarer Teil des Kryptohandels sind, richtet den Blick aber auf strukturelle Risiken statt nur auf einfachen Marktzugang. Nom zufolge kann ein Handelsumfeld ohne vertraute Prüf- und Vertriebskanäle dazu führen, dass Retail-Anleger wiederholt ausgewaschen werden. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Nom de BONK compare les memecoins à une cote rare de pari à sept volets",
-        "excerpt": "À Consensus, Nom, contributeur clé de BONK, a dit que les memecoins évitant ETF et sociétés cotées peuvent exposer les particuliers à des pertes.",
-        "body": "Nom, contributeur clé de BONK, a déclaré lors de Consensus que les transactions sur memecoins pouvaient présenter des probabilités proches d’un rare pari combiné à sept volets. Selon lui, certaines memecoins arrivent sur le marché sans passer par des voies comme les ETF ou les sociétés cotées, ce qui expose les investisseurs particuliers aux pertes. Cette remarque intervient alors que les memecoins restent visibles dans le trading crypto et met l’accent sur le risque structurel plutôt que sur le simple accès au marché. Pour Nom, l’absence de canaux familiers de validation et de distribution peut conduire à épuiser à répétition les particuliers. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "Nom من BONK يشبه تداول الميم كوين باحتمالات رهان سباعي نادر",
-        "excerpt": "قال Nom، المساهم الأساسي في BONK، خلال Consensus إن الميم كوين التي تتجاوز مسارات ETF والشركات العامة قد تضع مستثمري التجزئة في موقف خاسر.",
-        "body": "قال Nom، المساهم الأساسي في BONK، خلال فعالية Consensus إن تداول الميم كوين قد يحمل احتمالات تشبه رهان بارلاي سباعي نادر. وجادل بأن بعض عملات الميم تتجاوز مسارات مثل صناديق ETF والشركات العامة قبل وصولها إلى السوق، ما قد يترك مستثمري التجزئة معرضين للخسائر. تأتي هذه التصريحات بينما تبقى الميم كوين جزءا بارزا من نشاط تداول العملات المشفرة، لكنها تركز على المخاطر البنيوية لا على سهولة الوصول فقط. وبحسب Nom، فإن غياب قنوات تحقق وتوزيع مألوفة قد يجعل بيئة التداول نفسها تستنزف مستثمري التجزئة مرارا. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "BONK के Nom ने मेमेकॉइन ट्रेड को सात-लेग पारले जैसी संभावना बताया",
-        "excerpt": "Consensus में BONK के मुख्य योगदानकर्ता Nom ने कहा कि ETF और सार्वजनिक कंपनी मार्ग छोड़ने वाली मेमेकॉइन खुदरा निवेशकों के लिए नुकसानदेह हो सकती हैं।",
-        "body": "BONK के मुख्य योगदानकर्ता Nom ने Consensus में कहा कि मेमेकॉइन ट्रेड में दुर्लभ सात-लेग पारले जैसी संभावना हो सकती है। उनका तर्क था कि कुछ मेमेकॉइन ETF और सार्वजनिक कंपनी जैसे संस्थागत रास्तों से गुजरे बिना बाजार में आती हैं, जिससे खुदरा निवेशक नुकसान के प्रति अधिक खुल जाते हैं। यह टिप्पणी ऐसे समय आई है जब मेमेकॉइन क्रिप्टो ट्रेडिंग में अब भी दिखती हैं, लेकिन Nom ने आसान पहुंच के बजाय संरचनात्मक जोखिम पर जोर दिया। उनके अनुसार, जब परिचित सत्यापन और वितरण चैनल नहीं होते, तो ट्रेडिंग माहौल खुदरा निवेशकों को बार-बार नुकसान में धकेल सकता है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Nom BONK Sebut Trading Memecoin Mirip Odds Parlay Tujuh Kaki",
-        "excerpt": "Di Consensus, kontributor inti BONK, Nom, mengatakan memecoin yang melewati jalur ETF dan perusahaan publik dapat merugikan investor ritel.",
-        "body": "Kontributor inti BONK, Nom, mengatakan di Consensus bahwa trading memecoin dapat membawa peluang seperti parlay tujuh kaki yang langka. Ia berargumen bahwa sebagian memecoin masuk ke pasar tanpa melalui jalur seperti ETF atau perusahaan publik, sehingga investor ritel lebih rentan menanggung kerugian. Pernyataan ini muncul saat aktivitas memecoin masih terlihat dalam perdagangan kripto, tetapi Nom menyoroti risiko struktural, bukan sekadar kemudahan akses. Menurutnya, ketika token bergerak tanpa kanal validasi dan distribusi yang dikenal, lingkungan trading itu sendiri dapat berulang kali menguras investor ritel. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "a5b3bf4b557b",
-    "slug": "opentrade-raises-17-million-to-connect-stablecoins-to-real-w-648364",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T13:41:05.234Z",
-    "updatedAt": "2026-05-06T13:41:05.234Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/06/opentrade-raises-usd17-million-to-expand-stablecoin-yield-infrastructure",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/opentrade-raises-usd17-million-to-expand-stablecoin-yield-infrastructure",
-    "titleFingerprint": "1f9fe48d1ae3b9382a5d9903fbaed7ca78e6e64d",
-    "dedupKeys": [
-      "a5b3bf4b557b9a63c0ab371c229ae03debbf4d27",
-      "1f9fe48d1ae3b9382a5d9903fbaed7ca78e6e64d",
-      "88606dd1812da0a31549fa95d24821bc6804725a"
-    ],
-    "imageUrl": "/images/articles/a5b3bf4b557b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "OpenTrade, 스테이블코인·실물자산 연결 위해 1,700만달러 조달",
-        "excerpt": "a16z가 지원하는 스테이블코인 수익률 및 RWA 대출 플랫폼 OpenTrade가 Mercury Fund와 Notion Capital 주도로 1,700만달러를 조달했다.",
-        "body": "OpenTrade가 스테이블코인과 실물자산(RWA)을 연결하는 사업 확장을 위해 1,700만달러 규모의 자금을 조달했다. 이번 라운드는 Mercury Fund와 Notion Capital이 주도했으며, OpenTrade는 a16z의 지원을 받는 스테이블코인 수익률 및 RWA 대출 플랫폼이다. 이번 투자 유치는 스테이블코인 기반 수익 상품과 실물자산 대출을 결합하려는 플랫폼의 전략에 자금을 보태는 움직임이다. 조달 자금의 구체적 사용처나 추가 투자자 정보는 원문에 제시되지 않았다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "OpenTrade Raises $17M to Link Stablecoins With Real-World Assets",
-        "excerpt": "OpenTrade, an a16z-backed stablecoin yield and RWA lending platform, raised $17 million in a round led by Mercury Fund and Notion Capital.",
-        "body": "OpenTrade has raised $17 million to expand its effort to connect stablecoins with real-world assets, or RWAs. The round was led by Mercury Fund and Notion Capital. OpenTrade is a stablecoin yield and RWA lending platform backed by a16z. The funding adds capital to a platform strategy that combines stablecoin-based yield products with lending tied to real-world assets. The original report did not provide specific details on how the funds will be used or name additional investors. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "OpenTrade、ステーブルコインとRWA接続へ1,700万ドル調達",
-        "excerpt": "a16z支援のステーブルコイン利回り・RWA融資プラットフォームOpenTradeが、Mercury FundとNotion Capital主導で1,700万ドルを調達した。",
-        "body": "OpenTradeは、ステーブルコインと現実資産（RWA）を結びつける事業拡大に向け、1,700万ドルを調達した。今回のラウンドはMercury FundとNotion Capitalが主導した。OpenTradeは、a16zの支援を受けるステーブルコイン利回りおよびRWA融資プラットフォームだ。今回の資金調達は、ステーブルコインを基盤とする利回り商品と現実資産に関連する融資を組み合わせる同社の戦略を後押しするものとなる。資金の具体的な使途や追加投資家は原文で示されていない。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "OpenTrade融资1700万美元，连接稳定币与现实资产",
-        "excerpt": "获a16z支持的稳定币收益和RWA借贷平台OpenTrade完成1700万美元融资，本轮由Mercury Fund和Notion Capital领投。",
-        "body": "OpenTrade已融资1700万美元，用于推进稳定币与现实资产（RWA）连接相关业务。此轮融资由Mercury Fund和Notion Capital领投。OpenTrade是一家获得a16z支持的稳定币收益和RWA借贷平台。此次融资为其平台战略补充资金，该战略旨在把基于稳定币的收益产品与现实资产相关借贷结合起来。原文未披露资金的具体用途，也未列出其他投资方信息。来源: coindesk.com"
-      },
-      "es": {
-        "title": "OpenTrade recauda $17 millones para unir stablecoins y activos reales",
-        "excerpt": "OpenTrade, plataforma de rendimiento con stablecoins y préstamos RWA respaldada por a16z, recaudó $17 millones en una ronda liderada por Mercury Fund y Notion Capital.",
-        "body": "OpenTrade recaudó $17 millones para ampliar su iniciativa de conectar stablecoins con activos del mundo real, o RWA. La ronda fue liderada por Mercury Fund y Notion Capital. OpenTrade es una plataforma de rendimiento con stablecoins y préstamos RWA respaldada por a16z. La financiación aporta capital a una estrategia que combina productos de rendimiento basados en stablecoins con préstamos vinculados a activos reales. El informe original no detalló el uso específico de los fondos ni mencionó otros inversores. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "OpenTrade capta US$17 milhões para ligar stablecoins a ativos reais",
-        "excerpt": "A OpenTrade, plataforma de rendimento com stablecoins e crédito RWA apoiada pela a16z, captou US$17 milhões em rodada liderada por Mercury Fund e Notion Capital.",
-        "body": "A OpenTrade captou US$17 milhões para ampliar sua iniciativa de conectar stablecoins a ativos do mundo real, ou RWA. A rodada foi liderada por Mercury Fund e Notion Capital. A OpenTrade é uma plataforma de rendimento com stablecoins e empréstimos RWA apoiada pela a16z. O financiamento reforça a estratégia da plataforma de combinar produtos de rendimento baseados em stablecoins com crédito ligado a ativos reais. O relatório original não informou o uso específico dos recursos nem citou investidores adicionais. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "OpenTrade sammelt 17 Mio. Dollar für Stablecoins und reale Vermögenswerte",
-        "excerpt": "Die von a16z unterstützte Plattform OpenTrade für Stablecoin-Renditen und RWA-Kredite sammelte 17 Mio. Dollar ein, angeführt von Mercury Fund und Notion Capital.",
-        "body": "OpenTrade hat 17 Mio. Dollar aufgenommen, um seine Arbeit an der Verbindung von Stablecoins mit realen Vermögenswerten, sogenannten RWAs, auszubauen. Die Finanzierungsrunde wurde von Mercury Fund und Notion Capital angeführt. OpenTrade ist eine von a16z unterstützte Plattform für Stablecoin-Renditen und RWA-Kredite. Die Mittel stärken eine Strategie, die auf Stablecoins basierende Renditeprodukte mit Krediten rund um reale Vermögenswerte kombiniert. Konkrete Angaben zur Verwendung der Mittel oder zu weiteren Investoren enthielt der Originalbericht nicht. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "OpenTrade lève 17 M$ pour relier stablecoins et actifs réels",
-        "excerpt": "OpenTrade, plateforme de rendement en stablecoins et de prêts RWA soutenue par a16z, a levé 17 M$ lors d’un tour mené par Mercury Fund et Notion Capital.",
-        "body": "OpenTrade a levé 17 M$ afin d’étendre son projet de connexion entre les stablecoins et les actifs du monde réel, ou RWA. Le tour de financement a été mené par Mercury Fund et Notion Capital. OpenTrade est une plateforme de rendement en stablecoins et de prêts RWA soutenue par a16z. Ce financement apporte des capitaux à une stratégie qui combine des produits de rendement fondés sur les stablecoins avec des prêts liés aux actifs réels. Le rapport original ne précise pas l’usage des fonds ni d’autres investisseurs. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "OpenTrade تجمع 17 مليون دولار لربط العملات المستقرة بالأصول الواقعية",
-        "excerpt": "جمعت OpenTrade، منصة عوائد العملات المستقرة وإقراض أصول RWA المدعومة من a16z، 17 مليون دولار في جولة قادتها Mercury Fund وNotion Capital.",
-        "body": "جمعت OpenTrade تمويلا قدره 17 مليون دولار لتوسيع جهودها في ربط العملات المستقرة بالأصول الواقعية، المعروفة باسم RWA. وقادت الجولة كل من Mercury Fund وNotion Capital. وتعد OpenTrade منصة لعوائد العملات المستقرة وإقراض أصول RWA، وتحظى بدعم a16z. يضيف التمويل رأسمالا إلى استراتيجية المنصة التي تجمع بين منتجات العائد القائمة على العملات المستقرة والإقراض المرتبط بالأصول الواقعية. ولم يذكر التقرير الأصلي تفاصيل محددة عن استخدام الأموال أو أسماء مستثمرين إضافيين. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "OpenTrade ने स्टेबलकॉइन और RWA जोड़ने के लिए $17 मिलियन जुटाए",
-        "excerpt": "a16z समर्थित स्टेबलकॉइन यील्ड और RWA लेंडिंग प्लेटफॉर्म OpenTrade ने Mercury Fund और Notion Capital के नेतृत्व में $17 मिलियन जुटाए।",
-        "body": "OpenTrade ने स्टेबलकॉइन को वास्तविक दुनिया की संपत्तियों, यानी RWA, से जोड़ने के अपने प्रयास को बढ़ाने के लिए $17 मिलियन जुटाए हैं। इस फंडिंग राउंड का नेतृत्व Mercury Fund और Notion Capital ने किया। OpenTrade a16z समर्थित स्टेबलकॉइन यील्ड और RWA लेंडिंग प्लेटफॉर्म है। यह फंडिंग उस प्लेटफॉर्म रणनीति को पूंजी देती है, जो स्टेबलकॉइन आधारित यील्ड उत्पादों को वास्तविक संपत्तियों से जुड़े ऋण के साथ मिलाती है। मूल रिपोर्ट में धन के विशिष्ट उपयोग या अतिरिक्त निवेशकों की जानकारी नहीं दी गई। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "OpenTrade Raih $17 Juta untuk Hubungkan Stablecoin dan Aset Nyata",
-        "excerpt": "OpenTrade, platform imbal hasil stablecoin dan pinjaman RWA yang didukung a16z, meraih $17 juta dalam putaran yang dipimpin Mercury Fund dan Notion Capital.",
-        "body": "OpenTrade meraih pendanaan $17 juta untuk memperluas upayanya menghubungkan stablecoin dengan aset dunia nyata, atau RWA. Putaran ini dipimpin oleh Mercury Fund dan Notion Capital. OpenTrade adalah platform imbal hasil stablecoin dan pinjaman RWA yang didukung a16z. Pendanaan tersebut menambah modal bagi strategi platform yang menggabungkan produk imbal hasil berbasis stablecoin dengan pinjaman yang terkait aset nyata. Laporan asli tidak memuat rincian penggunaan dana maupun menyebut investor tambahan. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "aa6e70a087f8",
-    "slug": "coindesk-20-performance-update-index-jumps-25-continuing-hig-381893",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T13:40:19.446Z",
-    "updatedAt": "2026-05-06T13:40:19.446Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/coindesk-indices/2026/05/06/coindesk-20-performance-update-index-jumps-2-5-continuing-higher",
-    "canonicalUrl": "https://www.coindesk.com/coindesk-indices/2026/05/06/coindesk-20-performance-update-index-jumps-2-5-continuing-higher",
-    "titleFingerprint": "63dd7466a0e9a5597cbd546355f47aa21754933b",
-    "dedupKeys": [
-      "aa6e70a087f8bff8b86710d6ac930162de9975df",
-      "63dd7466a0e9a5597cbd546355f47aa21754933b",
-      "e48ac9083d44ca6df367ceb0003d02ea65c81a3c"
-    ],
-    "imageUrl": "/images/articles/aa6e70a087f8.png",
-    "i18n": {
-      "ko": {
-        "title": "CoinDesk 20 지수 2.5% 상승, NEAR 16%·ICP 10.4% 급등이 주도",
-        "excerpt": "CoinDesk 20 성과 업데이트에서 지수가 2.5% 오르며 상승 흐름을 이어갔고, Near Protocol(NEAR)은 16%, Internet Computer(ICP)는 10.4% 상승해 지수 강세를 이끌었다.",
-        "body": "CoinDesk 20 성과 업데이트에서 지수는 2.5% 상승하며 더 높은 흐름을 이어갔다. 이번 움직임은 Near Protocol(NEAR)과 Internet Computer(ICP)의 강세가 핵심으로 제시됐다. NEAR는 16% 급등했고 ICP는 10.4% 올랐다. 두 자산의 상승률이 두드러지면서 CoinDesk 20 지수 전체를 위로 끌어올린 것으로 설명됐다. 이번 업데이트는 개별 디지털 자산의 강한 상승이 지수 성과에 어떻게 반영됐는지를 보여준다. 다만 제공된 원문은 추가 가격대나 거래량, 다른 구성 종목의 세부 성과는 제시하지 않았다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "CoinDesk 20 rises 2.5% as NEAR jumps 16% and ICP gains 10.4%",
-        "excerpt": "In the CoinDesk 20 performance update, the index rose 2.5% and continued higher, led by Near Protocol (NEAR), up 16%, and Internet Computer (ICP), up 10.4%.",
-        "body": "In the CoinDesk 20 performance update, the index climbed 2.5%, continuing its move higher. The main drivers highlighted in the update were Near Protocol (NEAR) and Internet Computer (ICP). NEAR surged 16%, while ICP gained 10.4%. Those two advances stood out and were described as leading the broader CoinDesk 20 index upward. The update shows how strong gains in individual digital assets were reflected in index performance. The source text did not provide additional price levels, trading volume, or detailed results for other constituents. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "CoinDesk 20が2.5%上昇、NEAR 16%高とICP 10.4%高が主導",
-        "excerpt": "CoinDesk 20のパフォーマンス更新で指数は2.5%上昇し、上向きの流れを継続。Near Protocol（NEAR）は16%、Internet Computer（ICP）は10.4%上昇して指数を押し上げた。",
-        "body": "CoinDesk 20のパフォーマンス更新で、指数は2.5%上昇し、さらに高い水準へ進む流れを続けた。今回の動きでは、Near Protocol（NEAR）とInternet Computer（ICP）の強さが中心として示された。NEARは16%急伸し、ICPは10.4%上昇した。両資産の上昇率が目立ち、CoinDesk 20指数全体を押し上げたと説明されている。今回の更新は、個別デジタル資産の強い値上がりが指数の成績にどう反映されたかを示す内容だ。ただし原文では、追加の価格水準、取引量、ほかの構成銘柄の詳細な成績は示されていない。出典: coindesk.com。"
-      },
-      "zh": {
-        "title": "CoinDesk 20上涨2.5%，NEAR涨16%、ICP涨10.4%领涨",
-        "excerpt": "在CoinDesk 20表现更新中，指数上涨2.5%并延续升势；Near Protocol（NEAR）上涨16%，Internet Computer（ICP）上涨10.4%，带动指数走高。",
-        "body": "在CoinDesk 20表现更新中，该指数上涨2.5%，延续了向上的走势。本次变动中，Near Protocol（NEAR）和Internet Computer（ICP）的强劲表现被列为主要推动因素。NEAR大涨16%，ICP上涨10.4%。这两项资产的涨幅较为突出，并被描述为带动CoinDesk 20整体指数上行。此次更新显示，单个数字资产的强势上涨如何反映到指数表现中。不过，原文未提供更多价格水平、交易量，或其他成分资产的详细表现。来源：coindesk.com。"
-      },
-      "es": {
-        "title": "CoinDesk 20 sube 2,5% impulsado por NEAR con 16% e ICP con 10,4%",
-        "excerpt": "En la actualización de desempeño de CoinDesk 20, el índice avanzó 2,5% y mantuvo su impulso alcista, liderado por Near Protocol (NEAR), que subió 16%, e Internet Computer (ICP), que ganó 10,4%.",
-        "body": "En la actualización de desempeño de CoinDesk 20, el índice subió 2,5% y continuó moviéndose al alza. El informe destacó como principales motores a Near Protocol (NEAR) e Internet Computer (ICP). NEAR se disparó 16%, mientras que ICP ganó 10,4%. Esas dos subidas sobresalieron y fueron presentadas como el impulso que llevó más arriba al índice CoinDesk 20 en conjunto. La actualización muestra cómo los fuertes avances de activos digitales individuales se reflejaron en el desempeño del índice. El texto original no incluyó niveles de precio adicionales, volumen de negociación ni detalles sobre otros componentes. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "CoinDesk 20 sobe 2,5% com NEAR em alta de 16% e ICP de 10,4%",
-        "excerpt": "Na atualização de desempenho do CoinDesk 20, o índice subiu 2,5% e manteve o movimento de alta, liderado por Near Protocol (NEAR), com avanço de 16%, e Internet Computer (ICP), com ganho de 10,4%.",
-        "body": "Na atualização de desempenho do CoinDesk 20, o índice avançou 2,5% e continuou em trajetória de alta. O movimento teve como principais destaques Near Protocol (NEAR) e Internet Computer (ICP). O NEAR disparou 16%, enquanto o ICP subiu 10,4%. As duas altas se destacaram e foram apontadas como responsáveis por puxar o índice CoinDesk 20 para cima. A atualização mostra como ganhos fortes em ativos digitais específicos se refletiram no desempenho do índice. O texto original não informou níveis adicionais de preço, volume de negociação nem detalhes sobre outros componentes. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "CoinDesk 20 steigt 2,5%, NEAR plus 16% und ICP plus 10,4% führen",
-        "excerpt": "Im Performance-Update zum CoinDesk 20 legte der Index um 2,5% zu und setzte seine Aufwärtsbewegung fort; Near Protocol (NEAR) stieg um 16%, Internet Computer (ICP) um 10,4%.",
-        "body": "Im Performance-Update zum CoinDesk 20 stieg der Index um 2,5% und setzte seine Bewegung nach oben fort. Als wichtigste Treiber wurden Near Protocol (NEAR) und Internet Computer (ICP) hervorgehoben. NEAR sprang um 16% nach oben, während ICP 10,4% gewann. Diese beiden Anstiege fielen besonders auf und wurden als Faktoren beschrieben, die den gesamten CoinDesk 20 Index nach oben führten. Das Update zeigt, wie starke Gewinne einzelner digitaler Vermögenswerte in die Indexentwicklung einflossen. Der Originaltext nannte keine weiteren Kursniveaus, Handelsvolumina oder detaillierten Ergebnisse anderer Bestandteile. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "CoinDesk 20 gagne 2,5%, porté par NEAR à 16% et ICP à 10,4%",
-        "excerpt": "Dans la mise à jour de performance du CoinDesk 20, l’indice a progressé de 2,5% et poursuivi sa hausse, soutenu par Near Protocol (NEAR), en hausse de 16%, et Internet Computer (ICP), en gain de 10,4%.",
-        "body": "Dans la mise à jour de performance du CoinDesk 20, l’indice a gagné 2,5% et a poursuivi son mouvement haussier. Les principaux moteurs signalés sont Near Protocol (NEAR) et Internet Computer (ICP). NEAR a bondi de 16%, tandis qu’ICP a progressé de 10,4%. Ces deux hausses se sont distinguées et ont été présentées comme les facteurs ayant tiré l’ensemble de l’indice CoinDesk 20 vers le haut. Cette mise à jour montre comment les fortes progressions de certains actifs numériques se reflètent dans la performance de l’indice. Le texte original ne fournit pas d’autres niveaux de prix, volumes d’échange ou détails sur les autres composants. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "مؤشر CoinDesk 20 يرتفع 2.5% بقيادة NEAR عند 16% وICP عند 10.4%",
-        "excerpt": "في تحديث أداء CoinDesk 20، ارتفع المؤشر 2.5% وواصل الصعود، بدعم من Near Protocol (NEAR) الذي قفز 16% وInternet Computer (ICP) الذي صعد 10.4%.",
-        "body": "في تحديث أداء CoinDesk 20، ارتفع المؤشر بنسبة 2.5% وواصل التحرك إلى مستويات أعلى. وبرزت قوة Near Protocol (NEAR) وInternet Computer (ICP) كالعاملين الرئيسيين في هذه الحركة. فقد قفز NEAR بنسبة 16%، بينما ارتفع ICP بنسبة 10.4%. وكانت مكاسب الأصلين لافتة، ووُصفت بأنها قادت مؤشر CoinDesk 20 الأوسع إلى الصعود. يوضح هذا التحديث كيف انعكست المكاسب القوية في أصول رقمية محددة على أداء المؤشر. ولم يقدم النص الأصلي مستويات سعرية إضافية أو أحجام تداول أو تفاصيل أداء لبقية المكونات. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "CoinDesk 20 में 2.5% तेजी, NEAR 16% और ICP 10.4% चढ़कर आगे",
-        "excerpt": "CoinDesk 20 प्रदर्शन अपडेट में सूचकांक 2.5% चढ़कर ऊंचे स्तर की ओर बढ़ता रहा; Near Protocol (NEAR) 16% उछला और Internet Computer (ICP) 10.4% बढ़ा।",
-        "body": "CoinDesk 20 प्रदर्शन अपडेट में सूचकांक 2.5% बढ़ा और ऊंचे स्तर की ओर अपनी चाल जारी रखी। इस बढ़त में Near Protocol (NEAR) और Internet Computer (ICP) की मजबूती को मुख्य वजह के रूप में दिखाया गया। NEAR 16% उछला, जबकि ICP 10.4% बढ़ा। दोनों परिसंपत्तियों की बढ़त खास रही और इन्हें व्यापक CoinDesk 20 सूचकांक को ऊपर ले जाने वाला बताया गया। यह अपडेट दिखाता है कि अलग-अलग डिजिटल परिसंपत्तियों की मजबूत तेजी सूचकांक के प्रदर्शन में कैसे झलकती है। मूल पाठ में अतिरिक्त मूल्य स्तर, ट्रेडिंग वॉल्यूम या अन्य घटकों के विस्तृत प्रदर्शन की जानकारी नहीं दी गई। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "CoinDesk 20 naik 2,5%, dipimpin NEAR 16% dan ICP 10,4%",
-        "excerpt": "Dalam pembaruan kinerja CoinDesk 20, indeks naik 2,5% dan terus bergerak lebih tinggi, dipimpin Near Protocol (NEAR) yang melonjak 16% dan Internet Computer (ICP) yang menguat 10,4%.",
-        "body": "Dalam pembaruan kinerja CoinDesk 20, indeks naik 2,5% dan melanjutkan pergerakan ke level yang lebih tinggi. Penguatan Near Protocol (NEAR) dan Internet Computer (ICP) disebut sebagai pendorong utama. NEAR melonjak 16%, sementara ICP naik 10,4%. Kenaikan dua aset tersebut menonjol dan dijelaskan sebagai faktor yang mengangkat indeks CoinDesk 20 secara keseluruhan. Pembaruan ini menunjukkan bagaimana kenaikan kuat pada aset digital individual tercermin dalam kinerja indeks. Teks sumber tidak memberikan level harga tambahan, volume perdagangan, atau rincian kinerja komponen lain. Sumber: coindesk.com."
       }
     }
   }

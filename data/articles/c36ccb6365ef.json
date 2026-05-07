@@ -1,0 +1,75 @@
+{
+  "id": "c36ccb6365ef",
+  "slug": "bitcoin-ethereum-39q-day39-quantum-threat-could-arrive-as-so-975280",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T02:02:33.827Z",
+  "updatedAt": "2026-05-07T02:02:33.827Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030",
+  "canonicalUrl": "https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030",
+  "titleFingerprint": "d78fe709617a71c05445bb7b82af9313361c7cfb",
+  "dedupKeys": [
+    "c36ccb6365efc4ee0fbe72c9df6bdaf2c1bfaa20",
+    "d78fe709617a71c05445bb7b82af9313361c7cfb",
+    "1eddfcb30f166543b93373d48bd80732fc15ec92"
+  ],
+  "imageUrl": "/images/articles/c36ccb6365ef.png",
+  "i18n": {
+    "ko": {
+      "title": "비트코인·이더리움 ‘Q-Day’ 2030년 도래 가능성, 양자 보안 전환 경고",
+      "excerpt": "Project Eleven은 2026년 5월 보고서에서 비트코인·이더리움 암호체계를 깰 양자컴퓨터가 이르면 2030년 등장할 수 있다고 경고했다.",
+      "body": "2026년 5월 Project Eleven의 새 기술 보고서는 비트코인과 이더리움 등 주요 블록체인의 전자서명 암호체계를 깰 수 있는 양자컴퓨터가 이르면 2030년, 늦어도 2033년에는 등장할 가능성이 높다고 분석했다. 보고서는 최근 하드웨어 발전으로 위협 시계가 앞당겨졌고, 구글 연구가 비트코인에 쓰이는 타원곡선 암호를 약 1,200개 논리 큐비트와 90분 미만 연산으로 깰 수 있다고 제시한 점을 언급했다. 노출된 공개키 주소에는 약 690만 BTC와 전체 ETH의 65% 이상이 포함될 수 있다. Decrypt.co에 따르면 개발자들은 대응안을 논의 중이지만, 체인 거버넌스와 이전 작업은 수년이 걸릴 수 있다."
+    },
+    "en": {
+      "title": "Bitcoin and Ethereum Q-Day Could Arrive by 2030, Quantum Security Report Warns",
+      "excerpt": "Project Eleven warned in a May 2026 report that quantum computers capable of breaking Bitcoin and Ethereum cryptography could appear as early as 2030.",
+      "body": "A May 2026 technical report from Project Eleven says quantum computers able to break the digital signature cryptography behind Bitcoin, Ethereum and other major blockchains could arrive as early as 2030, and are more likely than not by 2033. The report says recent hardware progress has accelerated the risk timeline, citing Google research that suggested Bitcoin’s elliptic-curve cryptography could be broken with about 1,200 logical qubits and under 90 minutes of computation. Around 6.9 million BTC and more than 65% of all ETH may sit in addresses with exposed public keys. According to Decrypt.co, developers are discussing defenses, but governance and migration work could take years."
+    },
+    "ja": {
+      "title": "ビットコインとイーサリアムのQ-Day、2030年到来の可能性を報告書が警告",
+      "excerpt": "Project Elevenは2026年5月の報告書で、ビットコインとイーサリアムの暗号を破る量子コンピューターが早ければ2030年に現れる可能性を警告した。",
+      "body": "Project Elevenが2026年5月に公表した技術報告書は、ビットコイン、イーサリアムなど主要ブロックチェーンの電子署名暗号を破れる量子コンピューターが早ければ2030年、遅くとも2033年までに存在する可能性が高いと分析した。報告書は、最近のハードウェア進展で脅威の時期が早まったとし、グーグルの研究がビットコインの楕円曲線暗号を約1,200論理量子ビット、90分未満の計算で破れる可能性を示した点に触れた。公開鍵が露出したアドレスには約690万BTCと全ETHの65%以上が含まれる可能性がある。Decrypt.coによると、開発者は対策を検討しているが、ガバナンスと移行には数年かかり得る。"
+    },
+    "zh": {
+      "title": "比特币和以太坊Q-Day或在2030年到来，量子安全报告发出警告",
+      "excerpt": "Project Eleven在2026年5月报告中警告，能够破解比特币和以太坊加密体系的量子计算机最早可能在2030年出现。",
+      "body": "Project Eleven在2026年5月发布的技术报告称，能够破解比特币、以太坊等主要区块链数字签名加密体系的量子计算机最早可能在2030年出现，并且到2033年前出现的可能性更高。报告指出，近期硬件进展加快了风险时间表，并提到谷歌研究显示，破解比特币使用的椭圆曲线加密或只需约1,200个逻辑量子比特和不到90分钟计算。约690万枚BTC以及超过65%的ETH可能位于已暴露公钥的地址中。据Decrypt.co报道，开发者正在讨论防御方案，但链上治理和迁移工作可能需要数年。"
+    },
+    "es": {
+      "title": "Bitcoin y Ethereum ante Q-Day en 2030: informe alerta sobre amenaza cuántica",
+      "excerpt": "Project Eleven advirtió en un informe de mayo de 2026 que computadoras cuánticas capaces de romper la criptografía de Bitcoin y Ethereum podrían llegar en 2030.",
+      "body": "Un informe técnico de Project Eleven publicado en mayo de 2026 afirma que las computadoras cuánticas capaces de romper la criptografía de firmas digitales que protege a Bitcoin, Ethereum y otras grandes blockchains podrían llegar tan pronto como 2030, y con alta probabilidad antes de 2033. El reporte dice que los avances recientes en hardware aceleraron el calendario de riesgo y cita una investigación de Google según la cual la criptografía de curva elíptica de Bitcoin podría romperse con unos 1.200 qubits lógicos y menos de 90 minutos de cómputo. Unos 6,9 millones de BTC y más del 65% de todo el ETH podrían estar en direcciones con claves públicas expuestas. Según Decrypt.co, los desarrolladores analizan defensas, pero la gobernanza y migración podrían tardar años."
+    },
+    "pt": {
+      "title": "Bitcoin e Ethereum podem enfrentar Q-Day em 2030, alerta relatório quântico",
+      "excerpt": "A Project Eleven alertou em relatório de maio de 2026 que computadores quânticos capazes de quebrar a criptografia de Bitcoin e Ethereum podem surgir já em 2030.",
+      "body": "Um relatório técnico da Project Eleven, publicado em maio de 2026, afirma que computadores quânticos capazes de quebrar a criptografia de assinaturas digitais que protege Bitcoin, Ethereum e outras grandes blockchains podem surgir já em 2030, com probabilidade elevada até 2033. O documento diz que avanços recentes em hardware aceleraram o cronograma da ameaça e cita pesquisa do Google segundo a qual a criptografia de curva elíptica do Bitcoin poderia ser rompida com cerca de 1.200 qubits lógicos e menos de 90 minutos de computação. Cerca de 6,9 milhões de BTC e mais de 65% de todo o ETH podem estar em endereços com chaves públicas expostas. Segundo o Decrypt.co, desenvolvedores discutem defesas, mas governança e migração podem levar anos."
+    },
+    "de": {
+      "title": "Bitcoin und Ethereum vor Q-Day ab 2030: Bericht warnt vor Quantenrisiko",
+      "excerpt": "Project Eleven warnte in einem Bericht vom Mai 2026, dass Quantencomputer, die die Kryptografie von Bitcoin und Ethereum brechen können, schon 2030 erscheinen könnten.",
+      "body": "Ein technischer Bericht von Project Eleven vom Mai 2026 kommt zu dem Schluss, dass Quantencomputer, die die digitale Signaturkryptografie von Bitcoin, Ethereum und anderen großen Blockchains brechen können, bereits 2030 auftauchen könnten und bis 2033 wahrscheinlicher als nicht seien. Der Bericht verweist auf jüngste Hardwarefortschritte, die den Zeitplan der Bedrohung beschleunigen, sowie auf Google-Forschung, wonach Bitcoins elliptische Kurvenkryptografie mit rund 1.200 logischen Qubits und weniger als 90 Minuten Rechenzeit gebrochen werden könnte. Etwa 6,9 Millionen BTC und mehr als 65% aller ETH könnten in Adressen mit offengelegten öffentlichen Schlüsseln liegen. Laut Decrypt.co beraten Entwickler über Gegenmaßnahmen, doch Governance und Migration könnten Jahre dauern."
+    },
+    "fr": {
+      "title": "Bitcoin et Ethereum face au Q-Day dès 2030, un rapport alerte sur le risque quantique",
+      "excerpt": "Project Eleven a averti dans un rapport de mai 2026 que des ordinateurs quantiques capables de casser la cryptographie de Bitcoin et Ethereum pourraient arriver dès 2030.",
+      "body": "Un rapport technique de Project Eleven publié en mai 2026 estime que des ordinateurs quantiques capables de casser la cryptographie des signatures numériques protégeant Bitcoin, Ethereum et d’autres grandes blockchains pourraient apparaître dès 2030, et probablement d’ici 2033. Le rapport indique que les progrès récents du matériel ont accéléré le calendrier de la menace et cite une étude de Google selon laquelle la cryptographie à courbe elliptique de Bitcoin pourrait être cassée avec environ 1.200 qubits logiques et moins de 90 minutes de calcul. Environ 6,9 millions de BTC et plus de 65% de tous les ETH pourraient se trouver dans des adresses dont les clés publiques sont exposées. Selon Decrypt.co, les développeurs discutent de défenses, mais la gouvernance et la migration pourraient prendre des années."
+    },
+    "ar": {
+      "title": "بيتكوين وإيثريوم أمام Q-Day بحلول 2030: تقرير يحذر من الخطر الكمي",
+      "excerpt": "حذرت Project Eleven في تقرير صدر في مايو 2026 من أن حواسيب كمية قادرة على كسر تشفير بيتكوين وإيثريوم قد تظهر في وقت مبكر من عام 2030.",
+      "body": "قال تقرير تقني صادر عن Project Eleven في مايو 2026 إن الحواسيب الكمية القادرة على كسر تشفير التوقيعات الرقمية الذي يحمي بيتكوين وإيثريوم وسلاسل كتل كبرى أخرى قد تظهر في وقت مبكر من عام 2030، ومن المرجح وجودها بحلول 2033. وأوضح التقرير أن تطورات العتاد الأخيرة سرّعت جدول الخطر، مستشهدا ببحث من جوجل أشار إلى أن تشفير المنحنى الإهليلجي المستخدم في بيتكوين قد يُكسر بنحو 1,200 كيوبت منطقي وأقل من 90 دقيقة من الحوسبة. وقد تكون نحو 6.9 مليون BTC وأكثر من 65% من إجمالي ETH في عناوين كُشفت مفاتيحها العامة. ووفقا لـDecrypt.co، يناقش المطورون دفاعات محتملة، لكن الحوكمة والترحيل قد يستغرقان سنوات."
+    },
+    "hi": {
+      "title": "Bitcoin और Ethereum Q-Day 2030 तक आ सकता है, क्वांटम रिपोर्ट ने चेताया",
+      "excerpt": "Project Eleven ने मई 2026 की रिपोर्ट में चेतावनी दी कि Bitcoin और Ethereum की क्रिप्टोग्राफी तोड़ सकने वाले क्वांटम कंप्यूटर 2030 तक आ सकते हैं।",
+      "body": "Project Eleven की मई 2026 की तकनीकी रिपोर्ट के अनुसार Bitcoin, Ethereum और अन्य प्रमुख ब्लॉकचेन की डिजिटल सिग्नेचर क्रिप्टोग्राफी तोड़ सकने वाले क्वांटम कंप्यूटर 2030 तक आ सकते हैं, और 2033 तक उनके मौजूद होने की संभावना अधिक है। रिपोर्ट कहती है कि हालिया हार्डवेयर प्रगति ने जोखिम की समयसीमा को तेज किया है। इसमें Google शोध का हवाला है, जिसके मुताबिक Bitcoin में इस्तेमाल elliptic-curve cryptography को करीब 1,200 logical qubits और 90 मिनट से कम कंप्यूटिंग में तोड़ा जा सकता है। लगभग 6.9 मिलियन BTC और कुल ETH के 65% से अधिक हिस्से ऐसे पतों में हो सकते हैं जिनकी public keys उजागर हैं। Decrypt.co के अनुसार, डेवलपर बचाव पर चर्चा कर रहे हैं, लेकिन governance और migration में कई साल लग सकते हैं।"
+    },
+    "id": {
+      "title": "Bitcoin dan Ethereum Hadapi Q-Day 2030, Laporan Peringatkan Risiko Kuantum",
+      "excerpt": "Project Eleven memperingatkan dalam laporan Mei 2026 bahwa komputer kuantum yang mampu memecahkan kriptografi Bitcoin dan Ethereum bisa muncul paling cepat pada 2030.",
+      "body": "Laporan teknis Project Eleven pada Mei 2026 menyebut komputer kuantum yang mampu memecahkan kriptografi tanda tangan digital di balik Bitcoin, Ethereum, dan blockchain besar lain bisa hadir paling cepat pada 2030, dan kemungkinan besar ada pada 2033. Laporan itu mengatakan kemajuan perangkat keras terbaru mempercepat garis waktu ancaman, mengutip riset Google yang menyebut kriptografi kurva eliptik Bitcoin dapat dipecahkan dengan sekitar 1.200 qubit logis dan komputasi kurang dari 90 menit. Sekitar 6,9 juta BTC dan lebih dari 65% seluruh ETH mungkin berada di alamat dengan kunci publik yang sudah terekspos. Menurut Decrypt.co, pengembang sedang membahas pertahanan, tetapi tata kelola dan migrasi dapat memakan waktu bertahun-tahun."
+    }
+  }
+}

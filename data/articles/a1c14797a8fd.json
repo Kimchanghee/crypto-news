@@ -1,0 +1,75 @@
+{
+  "id": "a1c14797a8fd",
+  "slug": "this-ai-reads-your-chemistry-instructions-and-finds-the-best-906576",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T02:01:29.658Z",
+  "updatedAt": "2026-05-07T02:01:29.658Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367048/ai-chemistry-instructions-build-molecule",
+  "canonicalUrl": "https://decrypt.co/367048/ai-chemistry-instructions-build-molecule",
+  "titleFingerprint": "4041a378022e5629fc879cce1f78d9cd38639fe3",
+  "dedupKeys": [
+    "a1c14797a8fda0c754da202d659b30e4bbd10fbf",
+    "4041a378022e5629fc879cce1f78d9cd38639fe3",
+    "a1f2286f977d22f488f343e28ba8f70491230aab"
+  ],
+  "imageUrl": "/images/articles/a1c14797a8fd.png",
+  "i18n": {
+    "ko": {
+      "title": "AI 분자 합성 경로 추천, EPFL이 자연어 지시 해석 프레임워크 공개",
+      "excerpt": "EPFL 연구진은 화학자가 원하는 분자를 자연어로 설명하면 AI가 수천 개 합성 경로를 검토해 적합한 방법을 찾는 프레임워크를 구축했다고 decrypt.co가 보도했다.",
+      "body": "EPFL 연구진이 화학자의 자연어 지시를 읽고 원하는 분자를 만들 합성 경로를 찾는 AI 프레임워크를 구축했다. 이 시스템은 화학자가 필요한 조건이나 목표를 평이한 언어로 설명하면, AI가 수천 개의 가능한 합성 경로를 살펴보고 적합한 선택지를 제시하도록 설계됐다. 배경에는 복잡한 분자 합성 과정에서 선택 가능한 경로가 많고, 연구자가 이를 일일이 비교해야 하는 부담이 있다. 이번 프레임워크는 화학 지식과 언어 기반 지시를 연결해 탐색 과정을 줄이는 데 초점을 맞춘다. 향후 화학자들이 목표 분자에 맞는 합성 전략을 더 빠르게 검토하는 데 활용될 수 있다. 출처: decrypt.co."
+    },
+    "en": {
+      "title": "AI Molecule Synthesis Tool From EPFL Reads Plain-Language Chemistry Goals",
+      "excerpt": "EPFL researchers built a framework that lets chemists describe a target molecule in plain language while AI reviews thousands of synthesis routes to find a suitable path, decrypt.co reported.",
+      "body": "Researchers at EPFL have built an AI framework that reads chemists' plain-language instructions and searches for synthesis routes to make a desired molecule. The system is designed so a chemist can describe required conditions or goals in ordinary language, while AI reviews thousands of possible synthesis paths and presents suitable options. The context is that complex molecule synthesis can involve many available routes, leaving researchers to compare them one by one. The framework focuses on connecting chemical knowledge with language-based instructions to reduce the search process. It could help chemists review synthesis strategies for target molecules more quickly. Source: decrypt.co."
+    },
+    "ja": {
+      "title": "EPFLのAI分子合成支援、自然言語の化学指示を読んで経路探索",
+      "excerpt": "EPFLの研究者は、化学者が目的の分子を自然な言葉で説明すると、AIが数千の合成経路を調べて適切な方法を探す枠組みを構築したとdecrypt.coが報じた。",
+      "body": "EPFLの研究者は、化学者の自然言語による指示を読み、目的の分子を作るための合成経路を探すAIフレームワークを構築した。このシステムは、化学者が必要な条件や目標を平易な言葉で説明すると、AIが数千の可能な合成経路を確認し、適切な選択肢を示すよう設計されている。背景には、複雑な分子合成では選べる経路が多く、研究者がそれらを一つずつ比較しなければならない負担がある。この枠組みは、化学知識と言語ベースの指示を結び、探索過程を短縮することに重点を置く。今後、化学者が標的分子に合った合成戦略をより早く検討する用途が見込まれる。出典: decrypt.co。"
+    },
+    "zh": {
+      "title": "EPFL推出AI分子合成框架，可读取自然语言化学指令",
+      "excerpt": "decrypt.co报道，EPFL研究人员构建了一个框架，让化学家用自然语言描述目标分子后，由AI筛选数千条合成路线并寻找合适方法。",
+      "body": "EPFL研究人员构建了一个AI框架，可读取化学家的自然语言指令，并寻找制造目标分子的合成路线。该系统的设计方式是，化学家用日常语言说明所需条件或目标，AI随后查看数千条可能的合成路径，并给出合适选项。其背景在于，复杂分子合成往往存在许多可选路线，研究人员需要逐一比较。这个框架重点连接化学知识与基于语言的指令，以减少搜索过程。未来，它可帮助化学家更快评估适合目标分子的合成策略。来源: decrypt.co。"
+    },
+    "es": {
+      "title": "IA de EPFL para síntesis molecular lee instrucciones químicas en lenguaje natural",
+      "excerpt": "Investigadores de EPFL crearon un marco que permite a químicos describir una molécula en lenguaje natural para que la IA revise miles de rutas de síntesis y encuentre una opción adecuada, informó decrypt.co.",
+      "body": "Investigadores de EPFL construyeron un marco de IA que lee instrucciones en lenguaje natural de químicos y busca rutas de síntesis para crear una molécula deseada. El sistema está diseñado para que un químico describa condiciones necesarias u objetivos con palabras comunes, mientras la IA revisa miles de posibles rutas de síntesis y presenta opciones adecuadas. El contexto es que la síntesis de moléculas complejas puede incluir muchas rutas disponibles, lo que obliga a los investigadores a compararlas una por una. El marco se centra en conectar conocimiento químico con instrucciones basadas en lenguaje para reducir el proceso de búsqueda. Podría ayudar a los químicos a revisar más rápido estrategias de síntesis para moléculas objetivo. Fuente: decrypt.co."
+    },
+    "pt": {
+      "title": "IA da EPFL para síntese molecular lê instruções químicas em linguagem natural",
+      "excerpt": "Pesquisadores da EPFL criaram uma estrutura que permite a químicos descrever uma molécula em linguagem natural enquanto a IA analisa milhares de rotas de síntese para achar uma opção adequada, informou decrypt.co.",
+      "body": "Pesquisadores da EPFL criaram uma estrutura de IA que lê instruções em linguagem natural de químicos e busca rotas de síntese para produzir uma molécula desejada. O sistema foi projetado para que o químico descreva condições necessárias ou objetivos em linguagem comum, enquanto a IA examina milhares de rotas de síntese possíveis e apresenta opções adequadas. O contexto é que a síntese de moléculas complexas pode envolver muitas rotas disponíveis, exigindo que pesquisadores as comparem uma a uma. A estrutura busca conectar conhecimento químico a instruções baseadas em linguagem para reduzir o processo de busca. Ela pode ajudar químicos a revisar mais rapidamente estratégias de síntese para moléculas-alvo. Fonte: decrypt.co."
+    },
+    "de": {
+      "title": "EPFL-KI für Molekülsynthese liest chemische Ziele in Alltagssprache",
+      "excerpt": "EPFL-Forscher haben ein Framework entwickelt, mit dem Chemiker Zielmoleküle in Alltagssprache beschreiben können, während KI Tausende Syntheserouten prüft und passende Wege findet, berichtete decrypt.co.",
+      "body": "Forscher der EPFL haben ein KI-Framework entwickelt, das natürlichsprachliche Anweisungen von Chemikern liest und Syntheserouten für ein gewünschtes Molekül sucht. Das System ist so konzipiert, dass ein Chemiker benötigte Bedingungen oder Ziele in einfacher Sprache beschreibt, während die KI Tausende mögliche Synthesewege prüft und geeignete Optionen präsentiert. Hintergrund ist, dass die Synthese komplexer Moleküle viele verfügbare Routen umfassen kann und Forscher diese einzeln vergleichen müssen. Das Framework konzentriert sich darauf, chemisches Wissen mit sprachbasierten Anweisungen zu verbinden und den Suchprozess zu verkürzen. Es könnte Chemikern helfen, Synthesestrategien für Zielmoleküle schneller zu prüfen. Quelle: decrypt.co."
+    },
+    "fr": {
+      "title": "L’IA d’EPFL pour la synthèse moléculaire lit les consignes chimiques en langage naturel",
+      "excerpt": "Des chercheurs de l’EPFL ont créé un cadre permettant aux chimistes de décrire une molécule en langage naturel, tandis que l’IA examine des milliers de voies de synthèse pour trouver une option adaptée, selon decrypt.co.",
+      "body": "Des chercheurs de l’EPFL ont construit un cadre d’IA qui lit les instructions en langage naturel des chimistes et cherche des voies de synthèse pour fabriquer une molécule souhaitée. Le système est conçu pour qu’un chimiste décrive les conditions nécessaires ou les objectifs en langage courant, tandis que l’IA examine des milliers de voies de synthèse possibles et présente des options adaptées. Le contexte est que la synthèse de molécules complexes peut offrir de nombreuses routes, que les chercheurs doivent comparer une par une. Ce cadre vise à relier les connaissances chimiques aux instructions fondées sur le langage afin de réduire le processus de recherche. Il pourrait aider les chimistes à évaluer plus rapidement des stratégies de synthèse pour des molécules cibles. Source: decrypt.co."
+    },
+    "ar": {
+      "title": "ذكاء اصطناعي من EPFL يقرأ تعليمات الكيمياء ويقترح مسارات تصنيع الجزيئات",
+      "excerpt": "أفاد decrypt.co بأن باحثين في EPFL بنوا إطارا يتيح للكيميائيين وصف الجزيء المطلوب بلغة طبيعية، لتفحص الذكاء الاصطناعي آلاف مسارات التخليق ويجد خيارا مناسبا.",
+      "body": "بنى باحثون في EPFL إطارا للذكاء الاصطناعي يقرأ تعليمات الكيميائيين باللغة الطبيعية ويبحث عن مسارات تخليق لصنع الجزيء المطلوب. صمم النظام بحيث يصف الكيميائي الشروط أو الأهداف المطلوبة بلغة عادية، ثم يفحص الذكاء الاصطناعي آلاف مسارات التخليق الممكنة ويعرض خيارات مناسبة. يأتي ذلك في سياق أن تخليق الجزيئات المعقدة قد يتضمن مسارات كثيرة متاحة، ما يفرض على الباحثين مقارنتها واحدا تلو الآخر. يركز الإطار على ربط المعرفة الكيميائية بالتعليمات اللغوية لتقليل عملية البحث. وقد يساعد الكيميائيين مستقبلا على مراجعة استراتيجيات التخليق للجزيئات المستهدفة بسرعة أكبر. المصدر: decrypt.co."
+    },
+    "hi": {
+      "title": "EPFL का AI अणु संश्लेषण टूल प्राकृतिक भाषा में रसायन निर्देश पढ़ता है",
+      "excerpt": "decrypt.co के अनुसार, EPFL शोधकर्ताओं ने ऐसा फ्रेमवर्क बनाया है जिसमें रसायनज्ञ लक्ष्य अणु को सामान्य भाषा में बताते हैं और AI हजारों संश्लेषण मार्गों की समीक्षा कर उपयुक्त तरीका खोजता है।",
+      "body": "EPFL के शोधकर्ताओं ने एक AI फ्रेमवर्क बनाया है जो रसायनज्ञों के प्राकृतिक भाषा वाले निर्देश पढ़ता है और इच्छित अणु बनाने के लिए संश्लेषण मार्ग खोजता है। यह प्रणाली इस तरह डिजाइन की गई है कि रसायनज्ञ जरूरी शर्तों या लक्ष्यों को सामान्य भाषा में बताए, और AI हजारों संभावित संश्लेषण मार्गों की जांच कर उपयुक्त विकल्प प्रस्तुत करे। पृष्ठभूमि यह है कि जटिल अणुओं के संश्लेषण में कई उपलब्ध मार्ग हो सकते हैं, जिन्हें शोधकर्ताओं को एक-एक कर तुलना करनी पड़ती है। यह फ्रेमवर्क रासायनिक ज्ञान को भाषा-आधारित निर्देशों से जोड़कर खोज प्रक्रिया कम करने पर केंद्रित है। आगे यह रसायनज्ञों को लक्ष्य अणुओं के लिए संश्लेषण रणनीतियों की तेज समीक्षा में मदद कर सकता है। स्रोत: decrypt.co."
+    },
+    "id": {
+      "title": "AI EPFL untuk Sintesis Molekul Membaca Instruksi Kimia Bahasa Alami",
+      "excerpt": "Peneliti EPFL membangun kerangka yang memungkinkan ahli kimia menjelaskan molekul target dalam bahasa alami, lalu AI meninjau ribuan rute sintesis untuk menemukan opsi yang sesuai, lapor decrypt.co.",
+      "body": "Peneliti EPFL membangun kerangka AI yang membaca instruksi ahli kimia dalam bahasa alami dan mencari rute sintesis untuk membuat molekul yang diinginkan. Sistem ini dirancang agar ahli kimia dapat menjelaskan kondisi atau tujuan yang diperlukan dengan bahasa sehari-hari, sementara AI memeriksa ribuan kemungkinan rute sintesis dan menyajikan opsi yang sesuai. Latar belakangnya, sintesis molekul kompleks dapat memiliki banyak rute yang tersedia, sehingga peneliti harus membandingkannya satu per satu. Kerangka ini berfokus menghubungkan pengetahuan kimia dengan instruksi berbasis bahasa untuk mengurangi proses pencarian. Ke depan, ini dapat membantu ahli kimia meninjau strategi sintesis bagi molekul target dengan lebih cepat. Sumber: decrypt.co."
+    }
+  }
+}
