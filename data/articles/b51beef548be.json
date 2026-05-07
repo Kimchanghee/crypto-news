@@ -1,0 +1,75 @@
+{
+  "id": "b51beef548be",
+  "slug": "your-ai-chatbot-may-be-leaking-your-chats-to-meta-tiktok-and-468403",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T23:34:50.434Z",
+  "updatedAt": "2026-05-07T23:34:50.434Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367164/your-ai-chatbot-leaking-chats-meta-tiktok-google",
+  "canonicalUrl": "https://decrypt.co/367164/your-ai-chatbot-leaking-chats-meta-tiktok-google",
+  "titleFingerprint": "5925fb2b63b3f38322bdafe0b20721be31cccde5",
+  "dedupKeys": [
+    "b51beef548bec6379ccdf0501fcd79bd3f110c8c",
+    "5925fb2b63b3f38322bdafe0b20721be31cccde5",
+    "b8887fd8b99d4fae35434d9b396035b63bc270c6"
+  ],
+  "imageUrl": "/images/articles/b51beef548be.png",
+  "i18n": {
+    "ko": {
+      "title": "AI 챗봇 개인정보 유출 우려, 쿠키 거부해도 메타·틱톡·구글 추적기로",
+      "excerpt": "2026년 5월 7일 decrypt.co 보도에 따르면 새 연구는 ChatGPT, Claude, Grok, Perplexity가 이용자 데이터를 제3자 광고 추적기와 공유할 수 있다고 밝혔다.",
+      "body": "2026년 5월 7일 decrypt.co는 새 연구를 인용해 주요 AI 챗봇의 개인정보 공유 우려를 보도했다. 연구에 따르면 ChatGPT, Claude, Grok, Perplexity는 이용자 데이터를 메타, 틱톡, 구글 등 제3자 광고 추적기와 공유하는 것으로 나타났다. 특히 일부 경우에는 사용자가 쿠키 수집을 거부해도 데이터 공유가 이뤄질 수 있다고 지적됐다. 생성형 AI 서비스가 일상 검색과 상담 도구로 자리 잡는 가운데, 대화 내용과 이용 행태가 광고 추적 생태계로 흘러갈 가능성은 개인정보 보호 논란을 키울 수 있다. 이번 보도는 AI 챗봇 사용자가 쿠키 설정과 데이터 처리 방식을 더 주의 깊게 확인해야 한다는 점을 보여준다. 출처: decrypt.co 인용."
+    },
+    "en": {
+      "title": "AI Chatbot Privacy Risk: Data May Reach Meta, TikTok and Google Trackers",
+      "excerpt": "According to decrypt.co on May 7, 2026, a new study found ChatGPT, Claude, Grok and Perplexity may share user data with third-party ad trackers.",
+      "body": "On May 7, 2026, decrypt.co reported on a new study raising privacy concerns around major AI chatbots. The study found that ChatGPT, Claude, Grok and Perplexity share user data with third-party ad trackers, including Meta, TikTok and Google. In some cases, the data sharing may occur even when users reject cookies. As generative AI becomes a common tool for search, assistance and everyday questions, the possibility that chat activity and usage behavior may flow into the advertising tracking ecosystem could intensify privacy debate. The report shows why AI chatbot users should pay closer attention to cookie choices and data handling terms. Source: decrypt.co."
+    },
+    "ja": {
+      "title": "AIチャットボットの個人情報リスク、拒否後も広告追跡へ共有か",
+      "excerpt": "decrypt.coが2026年5月7日に報じた新研究によると、ChatGPT、Claude、Grok、Perplexityは利用者データを第三者広告トラッカーと共有する可能性がある。",
+      "body": "decrypt.coは2026年5月7日、新たな研究を引用し、主要AIチャットボットの個人情報共有リスクを報じた。研究によれば、ChatGPT、Claude、Grok、Perplexityは利用者データをMeta、TikTok、Googleなどの第三者広告トラッカーと共有している。さらに一部のケースでは、利用者がCookie収集を拒否してもデータ共有が行われる可能性があると指摘された。生成AIが検索や相談、日常的な作業支援に使われる中、会話内容や利用行動が広告追跡の仕組みに流れる可能性は、プライバシーをめぐる議論を強める恐れがある。出典: decrypt.co。"
+    },
+    "zh": {
+      "title": "AI聊天机器人隐私风险：数据或流向Meta、TikTok和Google追踪器",
+      "excerpt": "decrypt.co于2026年5月7日报道称，一项新研究发现，ChatGPT、Claude、Grok和Perplexity可能会与第三方广告追踪器共享用户数据。",
+      "body": "decrypt.co在2026年5月7日报道称，一项新研究对主流AI聊天机器人的隐私问题提出警示。研究发现，ChatGPT、Claude、Grok和Perplexity会将用户数据分享给第三方广告追踪器，其中包括Meta、TikTok和Google。在某些情况下，即使用户拒绝Cookie，数据共享仍可能发生。随着生成式AI成为搜索、咨询和日常任务工具，聊天内容和使用行为流入广告追踪生态的可能性，可能进一步引发隐私争议。该报道显示，AI聊天机器人用户需要更仔细查看Cookie设置和数据处理方式。来源：decrypt.co。"
+    },
+    "es": {
+      "title": "Riesgo de privacidad en chatbots IA: datos a Meta, TikTok y Google",
+      "excerpt": "Según decrypt.co el 7 de mayo de 2026, un nuevo estudio halló que ChatGPT, Claude, Grok y Perplexity pueden compartir datos de usuarios con rastreadores publicitarios.",
+      "body": "El 7 de mayo de 2026, decrypt.co informó sobre un nuevo estudio que alerta sobre la privacidad en los principales chatbots de IA. Según la investigación, ChatGPT, Claude, Grok y Perplexity comparten datos de usuarios con rastreadores publicitarios de terceros, incluidos Meta, TikTok y Google. En algunos casos, ese intercambio podría ocurrir incluso cuando el usuario rechaza las cookies. A medida que la IA generativa se consolida como herramienta de búsqueda, consulta y asistencia diaria, la posibilidad de que conversaciones y patrones de uso lleguen al ecosistema de seguimiento publicitario puede ampliar el debate sobre privacidad. Fuente: decrypt.co."
+    },
+    "pt": {
+      "title": "Privacidade em chatbots de IA: dados podem ir a Meta, TikTok e Google",
+      "excerpt": "Segundo o decrypt.co em 7 de maio de 2026, um novo estudo apontou que ChatGPT, Claude, Grok e Perplexity podem compartilhar dados de usuários com rastreadores de anúncios.",
+      "body": "Em 7 de maio de 2026, o decrypt.co informou sobre um novo estudo que levanta preocupações de privacidade envolvendo grandes chatbots de IA. De acordo com a pesquisa, ChatGPT, Claude, Grok e Perplexity compartilham dados de usuários com rastreadores publicitários de terceiros, incluindo Meta, TikTok e Google. Em alguns casos, esse compartilhamento pode ocorrer mesmo quando o usuário recusa cookies. À medida que a IA generativa se torna ferramenta comum para buscas, consultas e tarefas diárias, a possibilidade de conversas e comportamento de uso chegarem ao ecossistema de anúncios pode ampliar o debate sobre proteção de dados. Fonte: decrypt.co."
+    },
+    "de": {
+      "title": "KI-Chatbot-Datenschutz: Daten könnten an Meta, TikTok und Google fließen",
+      "excerpt": "Laut decrypt.co vom 7. Mai 2026 zeigt eine neue Studie, dass ChatGPT, Claude, Grok und Perplexity Nutzerdaten mit Werbe-Trackern Dritter teilen können.",
+      "body": "Am 7. Mai 2026 berichtete decrypt.co über eine neue Studie zu Datenschutzrisiken bei großen KI-Chatbots. Demnach teilen ChatGPT, Claude, Grok und Perplexity Nutzerdaten mit Werbe-Trackern von Drittanbietern, darunter Meta, TikTok und Google. In einigen Fällen könne diese Datenweitergabe sogar stattfinden, wenn Nutzer Cookies ablehnen. Da generative KI zunehmend für Suche, Beratung und alltägliche Aufgaben genutzt wird, könnte die mögliche Weitergabe von Chataktivitäten und Nutzungsverhalten an das Werbe-Tracking-Ökosystem die Datenschutzdebatte verschärfen. Die Meldung zeigt, warum Nutzer Cookie-Einstellungen und Datenverarbeitung genauer prüfen sollten. Quelle: decrypt.co."
+    },
+    "fr": {
+      "title": "Confidentialité des chatbots IA : des données vers Meta, TikTok et Google",
+      "excerpt": "Selon decrypt.co le 7 mai 2026, une nouvelle étude indique que ChatGPT, Claude, Grok et Perplexity peuvent partager des données utilisateurs avec des traceurs publicitaires tiers.",
+      "body": "Le 7 mai 2026, decrypt.co a relayé une nouvelle étude soulevant des inquiétudes sur la confidentialité des grands chatbots IA. Selon cette recherche, ChatGPT, Claude, Grok et Perplexity partagent des données utilisateurs avec des traceurs publicitaires tiers, notamment Meta, TikTok et Google. Dans certains cas, ce partage pourrait avoir lieu même lorsque l’utilisateur refuse les cookies. Alors que l’IA générative devient un outil courant de recherche, de conseil et d’assistance quotidienne, la possibilité que des conversations et comportements d’usage alimentent l’écosystème publicitaire pourrait renforcer le débat sur la protection des données. Source : decrypt.co."
+    },
+    "ar": {
+      "title": "خصوصية روبوتات الذكاء الاصطناعي: بيانات قد تصل إلى Meta وTikTok وGoogle",
+      "excerpt": "بحسب decrypt.co في 7 مايو 2026، وجدت دراسة جديدة أن ChatGPT وClaude وGrok وPerplexity قد تشارك بيانات المستخدمين مع متتبعات إعلانية تابعة لجهات خارجية.",
+      "body": "في 7 مايو 2026، نقل decrypt.co دراسة جديدة تثير مخاوف بشأن خصوصية روبوتات الدردشة المعتمدة على الذكاء الاصطناعي. ووفق الدراسة، فإن ChatGPT وClaude وGrok وPerplexity تشارك بيانات المستخدمين مع متتبعات إعلانية تابعة لجهات خارجية، من بينها Meta وTikTok وGoogle. وفي بعض الحالات قد يحدث هذا حتى عندما يرفض المستخدم ملفات تعريف الارتباط. ومع تحول الذكاء الاصطناعي التوليدي إلى أداة يومية للبحث والاستشارة والمساعدة، فإن احتمال انتقال المحادثات وسلوك الاستخدام إلى منظومة التتبع الإعلاني قد يزيد الجدل حول حماية البيانات. المصدر: decrypt.co."
+    },
+    "hi": {
+      "title": "AI चैटबॉट प्राइवेसी जोखिम: डेटा Meta, TikTok और Google ट्रैकर्स तक",
+      "excerpt": "decrypt.co ने 7 मई 2026 को बताया कि एक नए अध्ययन में ChatGPT, Claude, Grok और Perplexity द्वारा यूजर डेटा तीसरे पक्ष के विज्ञापन ट्रैकर्स से साझा करने की बात सामने आई।",
+      "body": "7 मई 2026 को decrypt.co ने एक नए अध्ययन के हवाले से प्रमुख AI चैटबॉट्स से जुड़ी प्राइवेसी चिंता पर रिपोर्ट किया। अध्ययन के अनुसार ChatGPT, Claude, Grok और Perplexity यूजर डेटा को Meta, TikTok और Google जैसे तीसरे पक्ष के विज्ञापन ट्रैकर्स के साथ साझा करते हैं। कुछ मामलों में यह डेटा साझा करना तब भी हो सकता है जब यूजर कुकीज से इनकार करता है। जनरेटिव AI के खोज, सलाह और रोजमर्रा की सहायता के सामान्य साधन बनने के साथ, बातचीत और उपयोग व्यवहार के विज्ञापन ट्रैकिंग इकोसिस्टम तक पहुंचने की संभावना प्राइवेसी बहस को बढ़ा सकती है। स्रोत: decrypt.co."
+    },
+    "id": {
+      "title": "Risiko Privasi Chatbot AI: Data Bisa Mengalir ke Meta, TikTok dan Google",
+      "excerpt": "Menurut decrypt.co pada 7 Mei 2026, studi baru menemukan ChatGPT, Claude, Grok dan Perplexity dapat membagikan data pengguna ke pelacak iklan pihak ketiga.",
+      "body": "Pada 7 Mei 2026, decrypt.co melaporkan studi baru yang menyoroti kekhawatiran privasi pada chatbot AI besar. Menurut studi tersebut, ChatGPT, Claude, Grok dan Perplexity membagikan data pengguna dengan pelacak iklan pihak ketiga, termasuk Meta, TikTok dan Google. Dalam beberapa kasus, pembagian data itu dapat terjadi bahkan ketika pengguna menolak cookie. Saat AI generatif makin sering dipakai untuk pencarian, konsultasi dan bantuan harian, kemungkinan percakapan serta perilaku penggunaan masuk ke ekosistem pelacakan iklan dapat memperbesar debat privasi. Laporan ini menunjukkan pengguna chatbot AI perlu lebih cermat memeriksa pengaturan cookie dan pemrosesan data. Sumber: decrypt.co."
+    }
+  }
+}

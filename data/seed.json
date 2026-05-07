@@ -1,5 +1,230 @@
 [
   {
+    "id": "b51beef548be",
+    "slug": "your-ai-chatbot-may-be-leaking-your-chats-to-meta-tiktok-and-468403",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T23:34:50.434Z",
+    "updatedAt": "2026-05-07T23:34:50.434Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367164/your-ai-chatbot-leaking-chats-meta-tiktok-google",
+    "canonicalUrl": "https://decrypt.co/367164/your-ai-chatbot-leaking-chats-meta-tiktok-google",
+    "titleFingerprint": "5925fb2b63b3f38322bdafe0b20721be31cccde5",
+    "dedupKeys": [
+      "b51beef548bec6379ccdf0501fcd79bd3f110c8c",
+      "5925fb2b63b3f38322bdafe0b20721be31cccde5",
+      "b8887fd8b99d4fae35434d9b396035b63bc270c6"
+    ],
+    "imageUrl": "/images/articles/b51beef548be.png",
+    "i18n": {
+      "ko": {
+        "title": "AI 챗봇 개인정보 유출 우려, 쿠키 거부해도 메타·틱톡·구글 추적기로",
+        "excerpt": "2026년 5월 7일 decrypt.co 보도에 따르면 새 연구는 ChatGPT, Claude, Grok, Perplexity가 이용자 데이터를 제3자 광고 추적기와 공유할 수 있다고 밝혔다.",
+        "body": "2026년 5월 7일 decrypt.co는 새 연구를 인용해 주요 AI 챗봇의 개인정보 공유 우려를 보도했다. 연구에 따르면 ChatGPT, Claude, Grok, Perplexity는 이용자 데이터를 메타, 틱톡, 구글 등 제3자 광고 추적기와 공유하는 것으로 나타났다. 특히 일부 경우에는 사용자가 쿠키 수집을 거부해도 데이터 공유가 이뤄질 수 있다고 지적됐다. 생성형 AI 서비스가 일상 검색과 상담 도구로 자리 잡는 가운데, 대화 내용과 이용 행태가 광고 추적 생태계로 흘러갈 가능성은 개인정보 보호 논란을 키울 수 있다. 이번 보도는 AI 챗봇 사용자가 쿠키 설정과 데이터 처리 방식을 더 주의 깊게 확인해야 한다는 점을 보여준다. 출처: decrypt.co 인용."
+      },
+      "en": {
+        "title": "AI Chatbot Privacy Risk: Data May Reach Meta, TikTok and Google Trackers",
+        "excerpt": "According to decrypt.co on May 7, 2026, a new study found ChatGPT, Claude, Grok and Perplexity may share user data with third-party ad trackers.",
+        "body": "On May 7, 2026, decrypt.co reported on a new study raising privacy concerns around major AI chatbots. The study found that ChatGPT, Claude, Grok and Perplexity share user data with third-party ad trackers, including Meta, TikTok and Google. In some cases, the data sharing may occur even when users reject cookies. As generative AI becomes a common tool for search, assistance and everyday questions, the possibility that chat activity and usage behavior may flow into the advertising tracking ecosystem could intensify privacy debate. The report shows why AI chatbot users should pay closer attention to cookie choices and data handling terms. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "AIチャットボットの個人情報リスク、拒否後も広告追跡へ共有か",
+        "excerpt": "decrypt.coが2026年5月7日に報じた新研究によると、ChatGPT、Claude、Grok、Perplexityは利用者データを第三者広告トラッカーと共有する可能性がある。",
+        "body": "decrypt.coは2026年5月7日、新たな研究を引用し、主要AIチャットボットの個人情報共有リスクを報じた。研究によれば、ChatGPT、Claude、Grok、Perplexityは利用者データをMeta、TikTok、Googleなどの第三者広告トラッカーと共有している。さらに一部のケースでは、利用者がCookie収集を拒否してもデータ共有が行われる可能性があると指摘された。生成AIが検索や相談、日常的な作業支援に使われる中、会話内容や利用行動が広告追跡の仕組みに流れる可能性は、プライバシーをめぐる議論を強める恐れがある。出典: decrypt.co。"
+      },
+      "zh": {
+        "title": "AI聊天机器人隐私风险：数据或流向Meta、TikTok和Google追踪器",
+        "excerpt": "decrypt.co于2026年5月7日报道称，一项新研究发现，ChatGPT、Claude、Grok和Perplexity可能会与第三方广告追踪器共享用户数据。",
+        "body": "decrypt.co在2026年5月7日报道称，一项新研究对主流AI聊天机器人的隐私问题提出警示。研究发现，ChatGPT、Claude、Grok和Perplexity会将用户数据分享给第三方广告追踪器，其中包括Meta、TikTok和Google。在某些情况下，即使用户拒绝Cookie，数据共享仍可能发生。随着生成式AI成为搜索、咨询和日常任务工具，聊天内容和使用行为流入广告追踪生态的可能性，可能进一步引发隐私争议。该报道显示，AI聊天机器人用户需要更仔细查看Cookie设置和数据处理方式。来源：decrypt.co。"
+      },
+      "es": {
+        "title": "Riesgo de privacidad en chatbots IA: datos a Meta, TikTok y Google",
+        "excerpt": "Según decrypt.co el 7 de mayo de 2026, un nuevo estudio halló que ChatGPT, Claude, Grok y Perplexity pueden compartir datos de usuarios con rastreadores publicitarios.",
+        "body": "El 7 de mayo de 2026, decrypt.co informó sobre un nuevo estudio que alerta sobre la privacidad en los principales chatbots de IA. Según la investigación, ChatGPT, Claude, Grok y Perplexity comparten datos de usuarios con rastreadores publicitarios de terceros, incluidos Meta, TikTok y Google. En algunos casos, ese intercambio podría ocurrir incluso cuando el usuario rechaza las cookies. A medida que la IA generativa se consolida como herramienta de búsqueda, consulta y asistencia diaria, la posibilidad de que conversaciones y patrones de uso lleguen al ecosistema de seguimiento publicitario puede ampliar el debate sobre privacidad. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Privacidade em chatbots de IA: dados podem ir a Meta, TikTok e Google",
+        "excerpt": "Segundo o decrypt.co em 7 de maio de 2026, um novo estudo apontou que ChatGPT, Claude, Grok e Perplexity podem compartilhar dados de usuários com rastreadores de anúncios.",
+        "body": "Em 7 de maio de 2026, o decrypt.co informou sobre um novo estudo que levanta preocupações de privacidade envolvendo grandes chatbots de IA. De acordo com a pesquisa, ChatGPT, Claude, Grok e Perplexity compartilham dados de usuários com rastreadores publicitários de terceiros, incluindo Meta, TikTok e Google. Em alguns casos, esse compartilhamento pode ocorrer mesmo quando o usuário recusa cookies. À medida que a IA generativa se torna ferramenta comum para buscas, consultas e tarefas diárias, a possibilidade de conversas e comportamento de uso chegarem ao ecossistema de anúncios pode ampliar o debate sobre proteção de dados. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "KI-Chatbot-Datenschutz: Daten könnten an Meta, TikTok und Google fließen",
+        "excerpt": "Laut decrypt.co vom 7. Mai 2026 zeigt eine neue Studie, dass ChatGPT, Claude, Grok und Perplexity Nutzerdaten mit Werbe-Trackern Dritter teilen können.",
+        "body": "Am 7. Mai 2026 berichtete decrypt.co über eine neue Studie zu Datenschutzrisiken bei großen KI-Chatbots. Demnach teilen ChatGPT, Claude, Grok und Perplexity Nutzerdaten mit Werbe-Trackern von Drittanbietern, darunter Meta, TikTok und Google. In einigen Fällen könne diese Datenweitergabe sogar stattfinden, wenn Nutzer Cookies ablehnen. Da generative KI zunehmend für Suche, Beratung und alltägliche Aufgaben genutzt wird, könnte die mögliche Weitergabe von Chataktivitäten und Nutzungsverhalten an das Werbe-Tracking-Ökosystem die Datenschutzdebatte verschärfen. Die Meldung zeigt, warum Nutzer Cookie-Einstellungen und Datenverarbeitung genauer prüfen sollten. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Confidentialité des chatbots IA : des données vers Meta, TikTok et Google",
+        "excerpt": "Selon decrypt.co le 7 mai 2026, une nouvelle étude indique que ChatGPT, Claude, Grok et Perplexity peuvent partager des données utilisateurs avec des traceurs publicitaires tiers.",
+        "body": "Le 7 mai 2026, decrypt.co a relayé une nouvelle étude soulevant des inquiétudes sur la confidentialité des grands chatbots IA. Selon cette recherche, ChatGPT, Claude, Grok et Perplexity partagent des données utilisateurs avec des traceurs publicitaires tiers, notamment Meta, TikTok et Google. Dans certains cas, ce partage pourrait avoir lieu même lorsque l’utilisateur refuse les cookies. Alors que l’IA générative devient un outil courant de recherche, de conseil et d’assistance quotidienne, la possibilité que des conversations et comportements d’usage alimentent l’écosystème publicitaire pourrait renforcer le débat sur la protection des données. Source : decrypt.co."
+      },
+      "ar": {
+        "title": "خصوصية روبوتات الذكاء الاصطناعي: بيانات قد تصل إلى Meta وTikTok وGoogle",
+        "excerpt": "بحسب decrypt.co في 7 مايو 2026، وجدت دراسة جديدة أن ChatGPT وClaude وGrok وPerplexity قد تشارك بيانات المستخدمين مع متتبعات إعلانية تابعة لجهات خارجية.",
+        "body": "في 7 مايو 2026، نقل decrypt.co دراسة جديدة تثير مخاوف بشأن خصوصية روبوتات الدردشة المعتمدة على الذكاء الاصطناعي. ووفق الدراسة، فإن ChatGPT وClaude وGrok وPerplexity تشارك بيانات المستخدمين مع متتبعات إعلانية تابعة لجهات خارجية، من بينها Meta وTikTok وGoogle. وفي بعض الحالات قد يحدث هذا حتى عندما يرفض المستخدم ملفات تعريف الارتباط. ومع تحول الذكاء الاصطناعي التوليدي إلى أداة يومية للبحث والاستشارة والمساعدة، فإن احتمال انتقال المحادثات وسلوك الاستخدام إلى منظومة التتبع الإعلاني قد يزيد الجدل حول حماية البيانات. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "AI चैटबॉट प्राइवेसी जोखिम: डेटा Meta, TikTok और Google ट्रैकर्स तक",
+        "excerpt": "decrypt.co ने 7 मई 2026 को बताया कि एक नए अध्ययन में ChatGPT, Claude, Grok और Perplexity द्वारा यूजर डेटा तीसरे पक्ष के विज्ञापन ट्रैकर्स से साझा करने की बात सामने आई।",
+        "body": "7 मई 2026 को decrypt.co ने एक नए अध्ययन के हवाले से प्रमुख AI चैटबॉट्स से जुड़ी प्राइवेसी चिंता पर रिपोर्ट किया। अध्ययन के अनुसार ChatGPT, Claude, Grok और Perplexity यूजर डेटा को Meta, TikTok और Google जैसे तीसरे पक्ष के विज्ञापन ट्रैकर्स के साथ साझा करते हैं। कुछ मामलों में यह डेटा साझा करना तब भी हो सकता है जब यूजर कुकीज से इनकार करता है। जनरेटिव AI के खोज, सलाह और रोजमर्रा की सहायता के सामान्य साधन बनने के साथ, बातचीत और उपयोग व्यवहार के विज्ञापन ट्रैकिंग इकोसिस्टम तक पहुंचने की संभावना प्राइवेसी बहस को बढ़ा सकती है। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Risiko Privasi Chatbot AI: Data Bisa Mengalir ke Meta, TikTok dan Google",
+        "excerpt": "Menurut decrypt.co pada 7 Mei 2026, studi baru menemukan ChatGPT, Claude, Grok dan Perplexity dapat membagikan data pengguna ke pelacak iklan pihak ketiga.",
+        "body": "Pada 7 Mei 2026, decrypt.co melaporkan studi baru yang menyoroti kekhawatiran privasi pada chatbot AI besar. Menurut studi tersebut, ChatGPT, Claude, Grok dan Perplexity membagikan data pengguna dengan pelacak iklan pihak ketiga, termasuk Meta, TikTok dan Google. Dalam beberapa kasus, pembagian data itu dapat terjadi bahkan ketika pengguna menolak cookie. Saat AI generatif makin sering dipakai untuk pencarian, konsultasi dan bantuan harian, kemungkinan percakapan serta perilaku penggunaan masuk ke ekosistem pelacakan iklan dapat memperbesar debat privasi. Laporan ini menunjukkan pengguna chatbot AI perlu lebih cermat memeriksa pengaturan cookie dan pemrosesan data. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "1daf2dc64f56",
+    "slug": "clarity-act-markup-could-happen-as-early-as-next-week-coinba-672976",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T23:33:48.293Z",
+    "updatedAt": "2026-05-07T23:33:48.293Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/clarity-act-markup-could-happen-as-early-as-next-week-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/clarity-act-markup-could-happen-as-early-as-next-week-coinbase-exec",
+    "titleFingerprint": "7494206e6df610e4dee9214b817e2ced6d3b244d",
+    "dedupKeys": [
+      "1daf2dc64f56af7bc09a97111d1199f35b9e65be",
+      "7494206e6df610e4dee9214b817e2ced6d3b244d",
+      "36ba60e63a5082c037e7b30f55b16128085f7a2a"
+    ],
+    "imageUrl": "/images/articles/1daf2dc64f56.jpg",
+    "i18n": {
+      "ko": {
+        "title": "CLARITY Act 심사, 다음 주 시작 가능성…코인베이스 임원 발언",
+        "excerpt": "코인베이스 임원은 암호화폐 시장 구조 법안인 CLARITY Act의 조항이 은행·크립토 로비 단체 검토를 거쳐 이르면 다음 주 마크업될 수 있다고 밝혔다.",
+        "body": "코인베이스 임원은 암호화폐 시장 구조 법안인 CLARITY Act의 마크업이 이르면 다음 주 진행될 수 있다고 밝혔다. 이 법안의 세부 조항은 현재 은행권과 암호화폐 업계 로비 단체의 검토를 받고 있다. 동시에 새 여론조사에서는 해당 입법에 대해 양당 유권자 모두 지지하는 흐름이 나타났다. CLARITY Act는 미국 암호화폐 시장 구조를 다루는 법안으로, 심사 일정이 구체화될 경우 업계와 정책권의 논의가 더 빨라질 수 있다. 다만 현재까지는 조항 검토가 이어지고 있어 최종 내용과 일정은 확정되지 않았다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "CLARITY Act Markup Could Begin Next Week, Coinbase Exec Says",
+        "excerpt": "A Coinbase executive said the CLARITY Act, a crypto market structure bill, could be marked up as early as next week while lobby groups review its provisions.",
+        "body": "A Coinbase executive said the CLARITY Act, a crypto market structure bill, could move to markup as early as next week. The bill’s provisions are still being reviewed by banking and crypto industry lobbying groups. At the same time, a new poll showed bipartisan voter support for the legislation. The CLARITY Act focuses on the structure of the U.S. crypto market, and a clearer review schedule could accelerate discussions among industry and policymakers. However, the provisions remain under review, so the final text and timing have not yet been confirmed. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "CLARITY Act、来週にもマークアップか Coinbase幹部が言及",
+        "excerpt": "コインベース幹部は、暗号資産市場構造法案CLARITY Actが、銀行・暗号資産ロビーの条項確認を経て来週にも審議入りする可能性があると述べた。",
+        "body": "コインベース幹部は、暗号資産市場構造法案であるCLARITY Actのマークアップが、早ければ来週にも行われる可能性があると述べた。法案の各条項は現在、銀行業界と暗号資産業界のロビー団体による確認が続いている。同時に、新たな世論調査では、この法案に対して超党派の有権者支持が示された。CLARITY Actは米国の暗号資産市場構造を扱う法案であり、審査日程が具体化すれば業界と政策当局の議論が加速する可能性がある。ただし、条項の検討は継続中で、最終内容と日程はまだ確定していない。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "CLARITY Act最快下周审议，Coinbase高管透露进展",
+        "excerpt": "Coinbase高管表示，作为加密市场结构法案的CLARITY Act条款仍在接受银行和加密游说团体审查，最快可能于下周进入标记审议。",
+        "body": "Coinbase一名高管表示，加密货币市场结构法案CLARITY Act最快可能在下周进入标记审议。该法案的具体条款目前仍由银行业和加密行业游说团体审查。与此同时，一项新的民调显示，该立法获得两党选民支持。CLARITY Act聚焦美国加密市场结构，如果审议时间进一步明确，行业与政策层面的讨论可能加快。不过，目前条款审查仍在继续，最终内容和具体时间尚未确定。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "CLARITY Act podría avanzar la próxima semana, según Coinbase",
+        "excerpt": "Un ejecutivo de Coinbase dijo que la CLARITY Act, proyecto sobre estructura del mercado cripto, podría marcarse la próxima semana mientras los lobbies revisan sus cláusulas.",
+        "body": "Un ejecutivo de Coinbase dijo que la CLARITY Act, un proyecto de ley sobre la estructura del mercado cripto, podría pasar a markup tan pronto como la próxima semana. Las disposiciones del texto siguen bajo revisión de grupos de lobby bancarios y del sector cripto. Al mismo tiempo, una nueva encuesta mostró apoyo bipartidista de los votantes a la legislación. La CLARITY Act aborda la estructura del mercado cripto en Estados Unidos, y un calendario más claro podría acelerar el debate entre la industria y los responsables políticos. Sin embargo, las cláusulas siguen en revisión, por lo que el texto final y las fechas aún no están confirmados. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "CLARITY Act pode avançar na próxima semana, diz executivo da Coinbase",
+        "excerpt": "Um executivo da Coinbase afirmou que o CLARITY Act, projeto sobre estrutura do mercado cripto, pode entrar em markup já na próxima semana após revisão de lobbies.",
+        "body": "Um executivo da Coinbase afirmou que o CLARITY Act, projeto de lei sobre a estrutura do mercado cripto, pode avançar para markup já na próxima semana. As disposições do projeto ainda estão sendo revisadas por grupos de lobby do setor bancário e da indústria cripto. Ao mesmo tempo, uma nova pesquisa mostrou apoio bipartidário dos eleitores à legislação. O CLARITY Act trata da estrutura do mercado cripto nos Estados Unidos, e um cronograma mais definido pode acelerar as discussões entre o setor e formuladores de políticas. No entanto, como a revisão das cláusulas continua, o texto final e o calendário ainda não foram confirmados. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "CLARITY Act könnte nächste Woche starten, sagt Coinbase-Manager",
+        "excerpt": "Ein Coinbase-Manager sagte, der CLARITY Act zur Struktur des Kryptomarkts könne schon nächste Woche ins Markup gehen, während Banken- und Kryptolobbys die Regeln prüfen.",
+        "body": "Ein Coinbase-Manager sagte, der CLARITY Act, ein Gesetzentwurf zur Struktur des Kryptomarkts, könne bereits nächste Woche in das Markup-Verfahren gehen. Die Bestimmungen des Entwurfs werden weiterhin von Lobbygruppen aus dem Banken- und Kryptosektor geprüft. Zugleich zeigte eine neue Umfrage parteiübergreifende Unterstützung der Wähler für die Gesetzgebung. Der CLARITY Act befasst sich mit der Struktur des US-Kryptomarkts. Ein klarerer Prüfungszeitplan könnte die Debatte zwischen Branche und Politik beschleunigen. Da die Bestimmungen jedoch noch geprüft werden, sind endgültiger Text und Zeitplan nicht bestätigt. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "CLARITY Act : examen possible dès la semaine prochaine, selon Coinbase",
+        "excerpt": "Un dirigeant de Coinbase a indiqué que le CLARITY Act, projet sur la structure du marché crypto, pourrait être examiné dès la semaine prochaine après revue des lobbies.",
+        "body": "Un dirigeant de Coinbase a déclaré que le CLARITY Act, projet de loi sur la structure du marché crypto, pourrait passer en phase de markup dès la semaine prochaine. Ses dispositions sont encore examinées par des groupes de lobbying bancaires et crypto. Dans le même temps, un nouveau sondage montre un soutien des électeurs des deux partis à cette législation. Le CLARITY Act porte sur la structure du marché crypto aux États-Unis, et un calendrier d’examen plus clair pourrait accélérer les discussions entre l’industrie et les responsables politiques. Toutefois, les dispositions restent à l’étude, et le texte final ainsi que le calendrier ne sont pas confirmés. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "قانون CLARITY قد يُراجع الأسبوع المقبل وفق مسؤول في Coinbase",
+        "excerpt": "قال مسؤول في Coinbase إن مشروع قانون CLARITY لتنظيم هيكل سوق الكريبتو قد يدخل مرحلة المراجعة الأسبوع المقبل، بينما تراجع جماعات الضغط المصرفية والرقمية بنوده.",
+        "body": "قال مسؤول في Coinbase إن مشروع قانون CLARITY، المتعلق بهيكل سوق العملات المشفرة، قد ينتقل إلى مرحلة المراجعة التشريعية في وقت مبكر من الأسبوع المقبل. وما زالت بنود المشروع قيد الفحص من جانب جماعات ضغط مصرفية وأخرى مرتبطة بقطاع الكريبتو. وفي الوقت نفسه، أظهر استطلاع جديد دعما من ناخبين من الحزبين لهذا التشريع. يركز قانون CLARITY على هيكل سوق الكريبتو في الولايات المتحدة، وقد يؤدي وضوح جدول المراجعة إلى تسريع النقاش بين القطاع وصناع السياسات. ومع ذلك، لا تزال البنود قيد المراجعة، لذلك لم يتم تأكيد النص النهائي أو الموعد بعد. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "CLARITY Act पर अगले सप्ताह मार्कअप संभव, Coinbase अधिकारी का बयान",
+        "excerpt": "Coinbase अधिकारी ने कहा कि क्रिप्टो बाजार संरचना विधेयक CLARITY Act पर अगले सप्ताह मार्कअप हो सकता है, जबकि बैंकिंग और क्रिप्टो लॉबी इसके प्रावधानों की समीक्षा कर रही हैं।",
+        "body": "Coinbase के एक अधिकारी ने कहा कि क्रिप्टो बाजार संरचना विधेयक CLARITY Act पर मार्कअप अगले सप्ताह की शुरुआत में हो सकता है। इस विधेयक के प्रावधानों की अभी बैंकिंग और क्रिप्टो उद्योग से जुड़े लॉबी समूहों द्वारा समीक्षा की जा रही है। इसी बीच एक नए सर्वेक्षण में इस कानून के लिए दोनों दलों के मतदाताओं का समर्थन दिखा। CLARITY Act अमेरिका के क्रिप्टो बाजार की संरचना से जुड़ा विधेयक है, और यदि समीक्षा कार्यक्रम स्पष्ट होता है तो उद्योग और नीति निर्माताओं के बीच चर्चा तेज हो सकती है। हालांकि प्रावधान अभी समीक्षा में हैं, इसलिए अंतिम पाठ और समय तय नहीं हुए हैं। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "CLARITY Act Bisa Dibahas Pekan Depan, Kata Eksekutif Coinbase",
+        "excerpt": "Eksekutif Coinbase menyebut CLARITY Act, RUU struktur pasar kripto, bisa masuk markup paling cepat pekan depan saat lobi perbankan dan kripto meninjau ketentuannya.",
+        "body": "Seorang eksekutif Coinbase mengatakan CLARITY Act, rancangan undang-undang tentang struktur pasar kripto, dapat masuk tahap markup paling cepat pekan depan. Ketentuan dalam RUU tersebut masih ditinjau oleh kelompok lobi perbankan dan industri kripto. Pada saat yang sama, jajak pendapat baru menunjukkan dukungan pemilih bipartisan terhadap legislasi itu. CLARITY Act membahas struktur pasar kripto di Amerika Serikat, dan jadwal pembahasan yang lebih jelas dapat mempercepat diskusi antara industri dan pembuat kebijakan. Namun, karena ketentuannya masih ditinjau, isi final dan waktunya belum dikonfirmasi. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "c80a2e56d8e6",
+    "slug": "us-treasury-privately-demanded-binance-comply-with-monitorin-624359",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T23:32:59.537Z",
+    "updatedAt": "2026-05-07T23:32:59.537Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/us-treasury-binance-monitoring-program-reminder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/us-treasury-binance-monitoring-program-reminder",
+    "titleFingerprint": "4b35aef2cb046469d5af9a24c5732f1236771b74",
+    "dedupKeys": [
+      "c80a2e56d8e6f06d481cd2361f47daa3e9c23a3f",
+      "4b35aef2cb046469d5af9a24c5732f1236771b74",
+      "b227e6635d9716f5c1e67e1d65f3ee203bef941c"
+    ],
+    "imageUrl": "/images/articles/c80a2e56d8e6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미 재무부, 바이낸스에 2023년 감시 합의 준수 압박했다는 보도",
+        "excerpt": "미 재무부 관계자들이 이란 연계 거래 의혹 보도 이후 바이낸스에 2023년 감시 합의 준수를 요구하는 서한을 보냈다고 코인텔레그래프가 전했다.",
+        "body": "미국 재무부 관계자들이 암호화폐 거래소 바이낸스에 2023년 체결한 감시 합의를 준수하라고 비공개로 요구했다는 보도가 나왔다. 코인텔레그래프에 따르면 재무부는 바이낸스가 이란과 연계된 거래를 처리했다는 보도가 나온 뒤 회사 측에 서한을 보내 컴플라이언스 이행을 압박한 것으로 알려졌다. 이번 사안은 바이낸스가 과거 합의에 따라 강화된 감시와 규제 준수 의무를 지고 있는 가운데 불거졌다. 시장에서는 미국 당국의 감독 강도가 유지될 수 있다는 점에 주목하고 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "US Treasury Reportedly Pressed Binance on 2023 Monitoring Deal",
+        "excerpt": "US Treasury officials reportedly sent Binance a letter after Iran-linked transaction reports, urging compliance with its 2023 monitoring agreement.",
+        "body": "US Treasury officials privately demanded that crypto exchange Binance comply with a monitoring agreement reached in 2023, according to a report. Cointelegraph said the Treasury sent a letter to Binance after reports circulated that the company had facilitated transactions linked to Iran, pressing the exchange on compliance obligations. The matter comes as Binance remains subject to enhanced monitoring and regulatory commitments under the earlier deal. Market observers may focus on whether US oversight of the exchange continues at the same intensity. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "米財務省、バイナンスに2023年監視合意の順守を要求か",
+        "excerpt": "米財務省当局者は、イラン関連取引を巡る報道後、バイナンスに2023年の監視合意順守を求める書簡を送ったと報じられた。",
+        "body": "米財務省当局者が、暗号資産取引所バイナンスに対し、2023年に結んだ監視合意を順守するよう非公開で求めたと報じられた。コインテレグラフによると、同省はバイナンスがイランに関連する取引を処理したとの報道が出た後、同社に書簡を送り、コンプライアンス対応を迫ったという。今回の件は、バイナンスが過去の合意に基づき強化された監視と規制順守義務を負う中で浮上した。市場では、米当局による監督の強度が維持されるかが注目されている。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "美财政部据称要求币安遵守2023年监控协议",
+        "excerpt": "据报道，在币安被指处理与伊朗相关交易后，美国财政部官员向其发函，要求遵守2023年达成的监控协议。",
+        "body": "据报道，美国财政部官员私下要求加密货币交易所币安遵守其在2023年达成的监控协议。Cointelegraph称，在有关币安促成与伊朗相关交易的报道流传后，财政部向币安发送了一封信，敦促该公司履行合规义务。此事发生之际，币安仍因此前协议承担更严格的监控和监管合规责任。市场关注点在于，美国监管部门对该交易所的监督力度是否会继续维持。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Tesoro de EE. UU. habría presionado a Binance por acuerdo de 2023",
+        "excerpt": "Funcionarios del Tesoro de EE. UU. habrían enviado una carta a Binance tras reportes de transacciones ligadas a Irán, exigiendo cumplir el acuerdo de monitoreo de 2023.",
+        "body": "Funcionarios del Tesoro de Estados Unidos exigieron en privado que el exchange cripto Binance cumpliera un acuerdo de monitoreo alcanzado en 2023, según un reporte. Cointelegraph informó que el Tesoro envió una carta a Binance después de que circularan reportes de que la compañía habría facilitado transacciones vinculadas a Irán, presionando por el cumplimiento de sus obligaciones. El caso surge mientras Binance sigue sujeta a mayor supervisión y compromisos regulatorios derivados del acuerdo previo. El mercado observa si la vigilancia de las autoridades estadounidenses sobre el exchange se mantendrá con la misma intensidad. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Tesouro dos EUA teria pressionado Binance por acordo de 2023",
+        "excerpt": "Autoridades do Tesouro dos EUA teriam enviado carta à Binance após relatos de transações ligadas ao Irã, cobrando cumprimento do acordo de monitoramento de 2023.",
+        "body": "Autoridades do Tesouro dos Estados Unidos exigiram em caráter privado que a exchange de criptomoedas Binance cumprisse um acordo de monitoramento firmado em 2023, segundo reportagem. A Cointelegraph informou que o Tesouro enviou uma carta à Binance depois que circularam relatos de que a empresa teria facilitado transações ligadas ao Irã, pressionando a exchange sobre suas obrigações de compliance. O caso surge enquanto a Binance segue sujeita a monitoramento reforçado e compromissos regulatórios do acordo anterior. O mercado observa se a supervisão dos EUA sobre a exchange continuará intensa. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "US-Finanzministerium soll Binance zu Überwachungsdeal gedrängt haben",
+        "excerpt": "US-Finanzbeamte sollen Binance nach Berichten über Iran-bezogene Transaktionen per Brief zur Einhaltung der Überwachungsvereinbarung von 2023 aufgefordert haben.",
+        "body": "Beamte des US-Finanzministeriums haben die Kryptobörse Binance einem Bericht zufolge privat aufgefordert, eine 2023 geschlossene Überwachungsvereinbarung einzuhalten. Laut Cointelegraph schickte das Ministerium Binance einen Brief, nachdem Berichte kursierten, das Unternehmen habe Transaktionen mit Bezug zum Iran erleichtert, und drängte auf die Erfüllung der Compliance-Pflichten. Der Vorgang kommt zu einem Zeitpunkt, an dem Binance aufgrund der früheren Vereinbarung weiter verstärkter Überwachung und regulatorischen Zusagen unterliegt. Der Markt achtet nun darauf, ob die US-Aufsicht über die Börse mit gleicher Intensität fortgesetzt wird. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Le Trésor américain aurait pressé Binance sur l’accord de 2023",
+        "excerpt": "Des responsables du Trésor américain auraient envoyé une lettre à Binance après des rapports sur des transactions liées à l’Iran, exigeant le respect de l’accord de surveillance de 2023.",
+        "body": "Des responsables du Trésor américain ont exigé en privé que la plateforme crypto Binance respecte un accord de surveillance conclu en 2023, selon un rapport. D’après Cointelegraph, le Trésor a envoyé une lettre à Binance après la diffusion d’informations selon lesquelles l’entreprise aurait facilité des transactions liées à l’Iran, en insistant sur ses obligations de conformité. Cette affaire intervient alors que Binance reste soumise à une surveillance renforcée et à des engagements réglementaires issus de l’accord antérieur. Le marché observe si la supervision américaine de la plateforme restera aussi soutenue. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "الخزانة الأمريكية ضغطت على بينانس للالتزام باتفاق رقابة 2023",
+        "excerpt": "أفادت تقارير بأن مسؤولي الخزانة الأمريكية أرسلوا رسالة إلى بينانس بعد تقارير عن معاملات مرتبطة بإيران، مطالبين بالالتزام باتفاق الرقابة لعام 2023.",
+        "body": "أفادت تقارير بأن مسؤولي وزارة الخزانة الأمريكية طالبوا منصة العملات المشفرة بينانس بشكل خاص بالالتزام باتفاق رقابة تم التوصل إليه في عام 2023. ووفقًا لكوينتيليغراف، أرسلت الخزانة رسالة إلى بينانس بعد تداول تقارير تفيد بأن الشركة سهّلت معاملات مرتبطة بإيران، وضغطت عليها بشأن تنفيذ التزامات الامتثال. وتأتي هذه القضية بينما لا تزال بينانس خاضعة لرقابة معززة والتزامات تنظيمية بموجب الاتفاق السابق. ويركز السوق على ما إذا كانت رقابة السلطات الأمريكية على المنصة ستستمر بالقوة نفسها. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "अमेरिकी ट्रेजरी ने Binance पर 2023 निगरानी समझौते के पालन का दबाव डाला",
+        "excerpt": "रिपोर्ट के अनुसार, ईरान से जुड़े लेनदेन की खबरों के बाद अमेरिकी ट्रेजरी अधिकारियों ने Binance को पत्र भेजकर 2023 निगरानी समझौते के पालन पर जोर दिया।",
+        "body": "एक रिपोर्ट के अनुसार, अमेरिकी ट्रेजरी अधिकारियों ने क्रिप्टो एक्सचेंज Binance से 2023 में हुए निगरानी समझौते का पालन करने की निजी तौर पर मांग की। Cointelegraph के मुताबिक, जब यह खबरें सामने आईं कि कंपनी ने ईरान से जुड़े लेनदेन को सुविधाजनक बनाया, तब ट्रेजरी ने Binance को पत्र भेजकर अनुपालन दायित्वों पर दबाव डाला। यह मामला ऐसे समय आया है जब Binance पहले के समझौते के तहत बढ़ी हुई निगरानी और नियामकीय प्रतिबद्धताओं के अधीन है। बाजार की नजर इस बात पर है कि क्या अमेरिकी अधिकारियों की निगरानी इसी तीव्रता से जारी रहेगी। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Departemen Keuangan AS Disebut Tekan Binance soal Kesepakatan 2023",
+        "excerpt": "Pejabat Departemen Keuangan AS dilaporkan mengirim surat ke Binance setelah laporan transaksi terkait Iran, mendesak kepatuhan pada kesepakatan pemantauan 2023.",
+        "body": "Pejabat Departemen Keuangan Amerika Serikat dilaporkan secara pribadi menuntut bursa kripto Binance mematuhi kesepakatan pemantauan yang dibuat pada 2023. Menurut Cointelegraph, Departemen Keuangan mengirim surat kepada Binance setelah beredar laporan bahwa perusahaan tersebut memfasilitasi transaksi yang terkait dengan Iran, sambil menekan bursa itu soal kewajiban kepatuhan. Masalah ini muncul ketika Binance masih berada di bawah pemantauan yang diperkuat dan komitmen regulasi dari kesepakatan sebelumnya. Pasar mencermati apakah pengawasan otoritas AS terhadap bursa tersebut akan tetap berlangsung dengan intensitas yang sama. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "f38746f14c39",
     "slug": "imf-warns-ai-will-supercharge-cyberattacks-on-global-financi-629453",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Pria California Dihukum 78 Bulan dalam Konspirasi Pencurian Kripto $250 Juta",
         "excerpt": "Marlon Ferro dari California, dikenal sebagai “GothFerrari”, dijatuhi hukuman 78 bulan karena membobol rumah korban untuk mencuri hardware wallet saat peretasan jarak jauh gagal.",
         "body": "Marlon Ferro, 20 tahun, dari Santa Ana, California, yang dikenal online sebagai “GothFerrari”, dijatuhi hukuman 78 bulan penjara pada 6 Mei oleh pengadilan federal di Washington, DC, karena ikut dalam konspirasi pencurian kripto. Ia dilaporkan membobol rumah korban untuk mencuri hardware wallet ketika rekan-rekannya tidak dapat memperoleh akses lewat peretasan jarak jauh atau penipuan. Otoritas menyebut kelompok itu sebagai jaringan rekayasa sosial yang mencuri lebih dari $250 juta dari korban di seluruh Amerika Serikat antara akhir 2023 dan awal 2025. Ferro juga diperintahkan menjalani tiga tahun pembebasan dengan pengawasan dan membayar restitusi $2,5 juta. Kasus ini menunjukkan risiko keamanan kripto dapat meluas dari serangan online ke pembobolan fisik. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "2f867b18decc",
-    "slug": "core-scientific-sold-208-million-of-bitcoin-in-q1-as-ai-pivo-183493",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T10:40:39.211Z",
-    "updatedAt": "2026-05-07T10:40:39.211Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/07/core-scientific-sold-usd208-million-of-bitcoin-in-q1-as-ai-pivot-continues",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/07/core-scientific-sold-usd208-million-of-bitcoin-in-q1-as-ai-pivot-continues",
-    "titleFingerprint": "25387224f52ffaf7bf9a6d976804b405b71a83aa",
-    "dedupKeys": [
-      "2f867b18decc9692c82d42fb8a2d01c45363b46d",
-      "25387224f52ffaf7bf9a6d976804b405b71a83aa",
-      "3a0cb030f1d21dfaaf9a9a49a36eb09086ce4511"
-    ],
-    "imageUrl": "/images/articles/2f867b18decc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코어 사이언티픽, 1분기 비트코인 2억800만 달러 매각",
-        "excerpt": "코어 사이언티픽은 1분기 2억800만 달러 규모의 비트코인을 매각했으며, 코어위브와의 590MW 계약 확대를 기반으로 AI 전환을 이어가고 있다.",
-        "body": "코어 사이언티픽은 1분기에 2억800만 달러 규모의 비트코인을 매각했다. 회사는 비트코인 채굴 중심 사업에서 AI 인프라로 전환하는 전략을 이어가고 있다. 핵심 배경은 코어위브와의 590MW 규모 계약 확대다. 이 계약은 향후 12년 동안 102억 달러의 매출을 낼 것으로 예상된다. 비트코인 매각은 AI 전환을 추진하는 과정에서 나온 재무 움직임으로 해석된다. 향후 회사의 실적과 사업 구조는 코어위브 계약 확대와 AI 인프라 수요에 따라 영향을 받을 전망이다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Core Scientific Sells $208M in Bitcoin in Q1 Amid AI Pivot",
-        "excerpt": "Core Scientific sold $208 million worth of bitcoin in Q1 as it continues its AI pivot, backed by a 590 MW CoreWeave contract expansion.",
-        "body": "Core Scientific sold $208 million worth of bitcoin in the first quarter. The company is continuing its shift from a bitcoin mining-focused business toward AI infrastructure. The key backdrop is a 590 MW contract expansion with CoreWeave. That agreement is projected to generate $10.2 billion in revenue over 12 years. The bitcoin sale is a financial move made as the company advances its AI transition. Its future results and business structure are expected to be shaped by the CoreWeave expansion and demand for AI infrastructure. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "コア・サイエンティフィック、Q1にビットコイン2.08億ドル売却",
-        "excerpt": "コア・サイエンティフィックは第1四半期に2億800万ドル相当のビットコインを売却し、コアウィーブとの590MW契約拡大を軸にAI転換を続けている。",
-        "body": "コア・サイエンティフィックは第1四半期に2億800万ドル相当のビットコインを売却した。同社はビットコイン採掘中心の事業からAIインフラへ移行する戦略を継続している。背景にあるのは、コアウィーブとの590MW規模の契約拡大だ。この契約は今後12年間で102億ドルの収益を生むと見込まれている。今回のビットコイン売却は、AI転換を進める過程での財務上の動きと位置づけられる。今後の業績と事業構造は、コアウィーブ契約の拡大とAIインフラ需要に左右される見通しだ。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "Core Scientific一季度出售2.08亿美元比特币，AI转型继续",
-        "excerpt": "Core Scientific一季度出售价值2.08亿美元的比特币，并依托与CoreWeave扩大的590MW合同继续推进AI基础设施转型。",
-        "body": "Core Scientific在第一季度出售了价值2.08亿美元的比特币。该公司正继续从以比特币挖矿为核心的业务转向AI基础设施。关键背景是其与CoreWeave扩大至590MW的合同。该合同预计将在未来12年带来102亿美元收入。此次比特币出售可被视为公司推进AI转型过程中的一项财务动作。未来业绩和业务结构将受到CoreWeave合同扩展以及AI基础设施需求的影响。来源: coindesk.com."
-      },
-      "es": {
-        "title": "Core Scientific vende $208 millones en bitcoin en Q1 por giro a IA",
-        "excerpt": "Core Scientific vendió $208 millones en bitcoin en el primer trimestre mientras avanza su giro hacia IA, apoyado por una ampliación de contrato de 590 MW con CoreWeave.",
-        "body": "Core Scientific vendió $208 millones en bitcoin durante el primer trimestre. La empresa mantiene su estrategia de pasar de un negocio centrado en la minería de bitcoin a infraestructura de IA. El contexto clave es la ampliación de un contrato de 590 MW con CoreWeave. Ese acuerdo prevé generar $10.200 millones en ingresos durante 12 años. La venta de bitcoin se enmarca como un movimiento financiero dentro de la transición hacia IA. Sus resultados futuros y estructura de negocio dependerán de la expansión del contrato con CoreWeave y de la demanda de infraestructura de IA. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Core Scientific vende US$ 208 milhões em bitcoin no 1º trimestre",
-        "excerpt": "A Core Scientific vendeu US$ 208 milhões em bitcoin no 1º trimestre enquanto avança sua virada para IA, apoiada por expansão de contrato de 590 MW com a CoreWeave.",
-        "body": "A Core Scientific vendeu US$ 208 milhões em bitcoin no primeiro trimestre. A empresa continua sua estratégia de migrar de um negócio centrado em mineração de bitcoin para infraestrutura de IA. O principal contexto é a expansão de um contrato de 590 MW com a CoreWeave. O acordo deve gerar US$ 10,2 bilhões em receita ao longo de 12 anos. A venda de bitcoin aparece como um movimento financeiro durante a transição para IA. Os resultados futuros e a estrutura de negócios da companhia devem ser influenciados pela ampliação do contrato com a CoreWeave e pela demanda por infraestrutura de IA. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Core Scientific verkauft im Q1 Bitcoin im Wert von 208 Mio. Dollar",
-        "excerpt": "Core Scientific verkaufte im ersten Quartal Bitcoin im Wert von 208 Mio. Dollar und setzt die KI-Wende mit einer 590-MW-Vertragserweiterung mit CoreWeave fort.",
-        "body": "Core Scientific hat im ersten Quartal Bitcoin im Wert von 208 Mio. Dollar verkauft. Das Unternehmen setzt seine Strategie fort, sich vom bitcoinzentrierten Mining-Geschäft in Richtung KI-Infrastruktur zu verlagern. Der zentrale Hintergrund ist eine Vertragserweiterung über 590 MW mit CoreWeave. Diese Vereinbarung soll über 12 Jahre Einnahmen von 10,2 Mrd. Dollar bringen. Der Bitcoin-Verkauf ist eine finanzielle Maßnahme im Verlauf der KI-Transformation. Künftige Ergebnisse und Geschäftsstruktur dürften von der CoreWeave-Erweiterung und der Nachfrage nach KI-Infrastruktur geprägt werden. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Core Scientific vend 208 M$ de bitcoins au T1 pendant son virage IA",
-        "excerpt": "Core Scientific a vendu 208 millions de dollars de bitcoins au premier trimestre tout en poursuivant son virage vers l’IA, soutenu par un contrat CoreWeave de 590 MW.",
-        "body": "Core Scientific a vendu 208 millions de dollars de bitcoins au premier trimestre. L’entreprise poursuit sa stratégie de passage d’une activité centrée sur le minage de bitcoin vers l’infrastructure d’IA. Le principal contexte est l’extension d’un contrat de 590 MW avec CoreWeave. Cet accord devrait générer 10,2 milliards de dollars de revenus sur 12 ans. La vente de bitcoins s’inscrit comme un mouvement financier dans cette transition vers l’IA. Les résultats futurs et la structure de l’entreprise devraient dépendre de l’expansion du contrat avec CoreWeave et de la demande en infrastructure d’IA. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "كور ساينتيفيك تبيع بيتكوين بقيمة 208 ملايين دولار في الربع الأول",
-        "excerpt": "باعت كور ساينتيفيك بيتكوين بقيمة 208 ملايين دولار في الربع الأول، وتواصل تحولها نحو الذكاء الاصطناعي بدعم من توسعة عقد 590 ميغاواط مع كور ويف.",
-        "body": "باعت كور ساينتيفيك بيتكوين بقيمة 208 ملايين دولار في الربع الأول. وتواصل الشركة استراتيجيتها للانتقال من نشاط يركز على تعدين البيتكوين إلى بنية تحتية للذكاء الاصطناعي. وتتمثل الخلفية الرئيسية في توسعة عقد بقدرة 590 ميغاواط مع كور ويف. ومن المتوقع أن يحقق هذا العقد إيرادات قدرها 10.2 مليارات دولار على مدى 12 عاما. ويعد بيع البيتكوين خطوة مالية ضمن مسار التحول إلى الذكاء الاصطناعي. ومن المرجح أن تتأثر نتائج الشركة وهيكل أعمالها مستقبلا بتوسعة عقد كور ويف والطلب على بنية الذكاء الاصطناعي. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "Core Scientific ने Q1 में $208 मिलियन के बिटकॉइन बेचे",
-        "excerpt": "Core Scientific ने पहली तिमाही में $208 मिलियन के बिटकॉइन बेचे और CoreWeave के साथ 590 MW अनुबंध विस्तार के आधार पर AI बदलाव जारी रखा।",
-        "body": "Core Scientific ने पहली तिमाही में $208 मिलियन मूल्य के बिटकॉइन बेचे। कंपनी बिटकॉइन माइनिंग केंद्रित कारोबार से AI इन्फ्रास्ट्रक्चर की ओर बदलाव की रणनीति जारी रखे हुए है। इसका मुख्य आधार CoreWeave के साथ 590 MW का अनुबंध विस्तार है। इस अनुबंध से अगले 12 वर्षों में $10.2 बिलियन राजस्व आने का अनुमान है। बिटकॉइन की बिक्री को AI बदलाव के दौरान उठाया गया वित्तीय कदम माना जा सकता है। आगे कंपनी के नतीजे और कारोबार की संरचना CoreWeave अनुबंध विस्तार और AI इन्फ्रास्ट्रक्चर की मांग से प्रभावित हो सकती है। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Core Scientific Jual Bitcoin $208 Juta di Q1 Saat Pivot AI Berlanjut",
-        "excerpt": "Core Scientific menjual bitcoin senilai $208 juta pada kuartal pertama sambil melanjutkan pivot AI yang didukung perluasan kontrak 590 MW dengan CoreWeave.",
-        "body": "Core Scientific menjual bitcoin senilai $208 juta pada kuartal pertama. Perusahaan terus menjalankan strategi peralihan dari bisnis yang berfokus pada penambangan bitcoin menuju infrastruktur AI. Latar utama langkah ini adalah perluasan kontrak 590 MW dengan CoreWeave. Kontrak tersebut diproyeksikan menghasilkan pendapatan $10,2 miliar selama 12 tahun. Penjualan bitcoin ini menjadi langkah finansial dalam proses transisi menuju AI. Ke depan, kinerja dan struktur bisnis perusahaan diperkirakan dipengaruhi oleh perluasan kontrak CoreWeave serta permintaan infrastruktur AI. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "79ce6b8e6d34",
-    "slug": "safety-first-why-adam-back-says-bitcoin-is-winning-the-defi--629658",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T10:39:51.980Z",
-    "updatedAt": "2026-05-07T10:39:51.980Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/tech/2026/05/07/safety-first-why-adam-back-says-bitcoin-is-winning-the-defi-security-war",
-    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/07/safety-first-why-adam-back-says-bitcoin-is-winning-the-defi-security-war",
-    "titleFingerprint": "fd4279877c115a949973f4c95cbed189ea165f30",
-    "dedupKeys": [
-      "79ce6b8e6d3442c967d38c69f6241baa234f55bf",
-      "fd4279877c115a949973f4c95cbed189ea165f30",
-      "3619ebc732445fd682ae7bd1e0b52529ade4505d"
-    ],
-    "imageUrl": "/images/articles/79ce6b8e6d34.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 보안 우위, 애덤 백이 본 DeFi 경쟁의 승부처",
-        "excerpt": "블록스트림 CEO 애덤 백은 컨센서스 마이애미 2026에서 비트코인이 DeFi 보안 경쟁에서 앞서며 다음 채택 물결을 이끌 것이라고 말했다.",
-        "body": "블록스트림 CEO 애덤 백은 컨센서스 마이애미 2026에서 비트코인이 ‘DeFi 보안 전쟁’에서 이기고 있다고 말했다. 그는 안전성을 우선하는 흐름 속에서 비트코인이 주권 국가, 연기금, 기업 재무 전략의 다음 채택 단계에 들어설 것이라고 설명했다. 이번 발언은 비트코인 채택 논의가 개인 투자자와 일부 기업을 넘어 더 보수적인 기관 자금으로 확장될 수 있다는 맥락에서 나왔다. 백은 특히 보안 신뢰가 DeFi 경쟁의 핵심 기준이 되고 있다고 봤다. 향후 시장의 관심은 이들 기관이 실제로 비트코인 노출을 얼마나 늘릴지에 모일 전망이다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Bitcoin Security Edge: Adam Back on the DeFi Security War",
-        "excerpt": "Blockstream CEO Adam Back said at Consensus Miami 2026 that Bitcoin is leading the DeFi security battle and could drive the next adoption wave.",
-        "body": "Blockstream CEO Adam Back said at Consensus Miami 2026 that Bitcoin is winning the “DeFi security war.” He argued that, as safety comes first, Bitcoin is entering the next stage of adoption by sovereigns, pension funds and corporate treasury companies. The comments came as Bitcoin adoption discussions move beyond retail investors and some companies toward more conservative institutional capital. Back framed security trust as a central standard in the DeFi competition. Market attention is likely to focus on how much these institutions actually increase their Bitcoin exposure. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "ビットコインの安全性優位、アダム・バック氏が語るDeFi競争",
-        "excerpt": "ブロックストリームCEOのアダム・バック氏はConsensus Miami 2026で、ビットコインがDeFiの安全性競争で優位にあると述べた。",
-        "body": "ブロックストリームCEOのアダム・バック氏はConsensus Miami 2026で、ビットコインが「DeFiのセキュリティ戦争」に勝っていると述べた。同氏は、安全性を最優先する流れの中で、ビットコインが主権国家、年金基金、企業の財務戦略による次の採用段階に入るとの見方を示した。発言は、ビットコイン採用の議論が個人投資家や一部企業を超え、より保守的な機関資金へ広がる可能性を背景に出たものだ。バック氏は、セキュリティへの信頼がDeFi競争の核心的な基準になるとみている。今後は、これらの機関が実際にどれだけビットコインへのエクスポージャーを増やすかが焦点となる。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "比特币安全优势：Adam Back谈DeFi安全之战",
-        "excerpt": "Blockstream首席执行官Adam Back在Consensus Miami 2026表示，比特币正赢得DeFi安全竞争，并将迎来下一波采用。",
-        "body": "Blockstream首席执行官Adam Back在Consensus Miami 2026上表示，比特币正在赢得“DeFi安全战争”。他称，在安全优先的趋势下，比特币将进入由主权国家、养老基金和企业财资公司推动的下一阶段采用。此番言论的背景是，比特币采用讨论可能从散户投资者和部分企业，扩展到更保守的机构资金。Back认为，安全信任正成为DeFi竞争的核心标准。未来市场关注点将落在这些机构实际会把比特币敞口提高到何种程度。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Bitcoin y seguridad: Adam Back ve ganada la guerra DeFi",
-        "excerpt": "El CEO de Blockstream, Adam Back, dijo en Consensus Miami 2026 que Bitcoin lidera la batalla de seguridad DeFi y la próxima ola de adopción.",
-        "body": "Adam Back, CEO de Blockstream, dijo en Consensus Miami 2026 que Bitcoin está ganando la “guerra de seguridad DeFi”. Según Back, en un entorno donde la seguridad es prioritaria, Bitcoin entrará en la siguiente fase de adopción por parte de soberanos, fondos de pensiones y compañías de tesorería corporativa. Sus comentarios llegan cuando el debate sobre la adopción de Bitcoin puede pasar de inversores minoristas y algunas empresas a capital institucional más conservador. Back señaló que la confianza en la seguridad es un criterio central en la competencia DeFi. La atención del mercado se centrará ahora en cuánto aumentan estas instituciones su exposición a Bitcoin. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Bitcoin e segurança: Adam Back vê vitória na guerra DeFi",
-        "excerpt": "O CEO da Blockstream, Adam Back, disse no Consensus Miami 2026 que o Bitcoin lidera a disputa de segurança DeFi e a próxima onda de adoção.",
-        "body": "Adam Back, CEO da Blockstream, disse no Consensus Miami 2026 que o Bitcoin está vencendo a “guerra de segurança DeFi”. Segundo ele, em um cenário no qual a segurança vem em primeiro lugar, o Bitcoin deve entrar na próxima fase de adoção por soberanos, fundos de pensão e empresas de tesouraria corporativa. A fala ocorre enquanto o debate sobre adoção do Bitcoin pode avançar de investidores de varejo e algumas companhias para capital institucional mais conservador. Back vê a confiança em segurança como um critério central na competição DeFi. A atenção do mercado deve se voltar para quanto essas instituições realmente ampliarão sua exposição ao Bitcoin. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Bitcoin-Sicherheit vorn: Adam Back über den DeFi-Wettstreit",
-        "excerpt": "Blockstream-CEO Adam Back sagte auf der Consensus Miami 2026, Bitcoin liege im DeFi-Sicherheitskampf vorn und könne die nächste Adoption treiben.",
-        "body": "Blockstream-CEO Adam Back sagte auf der Consensus Miami 2026, Bitcoin gewinne den „DeFi-Sicherheitskrieg“. Aus seiner Sicht tritt Bitcoin in einer Phase, in der Sicherheit Vorrang hat, in die nächste Adoptionsstufe durch Staaten, Pensionsfonds und Treasury-Unternehmen ein. Die Aussagen fallen in einen Kontext, in dem sich die Debatte über Bitcoin-Adoption über Privatanleger und einige Unternehmen hinaus auf konservativeres institutionelles Kapital ausweiten könnte. Back sieht Sicherheitsvertrauen als zentrales Kriterium im DeFi-Wettbewerb. Der Markt dürfte nun darauf achten, wie stark diese Institutionen ihr Bitcoin-Exposure tatsächlich erhöhen. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Bitcoin et sécurité : Adam Back voit un avantage dans la DeFi",
-        "excerpt": "Le CEO de Blockstream, Adam Back, a déclaré à Consensus Miami 2026 que Bitcoin mène la bataille de sécurité DeFi et la prochaine adoption.",
-        "body": "Adam Back, CEO de Blockstream, a déclaré à Consensus Miami 2026 que Bitcoin est en train de gagner la « guerre de la sécurité DeFi ». Selon lui, dans un contexte où la sécurité passe d’abord, Bitcoin entre dans une nouvelle phase d’adoption par les souverains, les fonds de pension et les sociétés de trésorerie. Ces propos interviennent alors que le débat sur l’adoption de Bitcoin pourrait dépasser les investisseurs particuliers et certaines entreprises pour toucher des capitaux institutionnels plus conservateurs. Back estime que la confiance dans la sécurité devient un critère central de la concurrence DeFi. Le marché suivra désormais l’ampleur réelle de l’exposition à Bitcoin de ces institutions. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "تفوق أمان بيتكوين: آدم باك يتحدث عن معركة DeFi",
-        "excerpt": "قال آدم باك، الرئيس التنفيذي لـBlockstream، في Consensus Miami 2026 إن بيتكوين تتقدم في معركة أمان DeFi وقد تقود موجة التبني التالية.",
-        "body": "قال آدم باك، الرئيس التنفيذي لشركة Blockstream، في مؤتمر Consensus Miami 2026 إن بيتكوين تفوز في “حرب أمان DeFi”. وأوضح أنه مع تصدر السلامة للأولويات، تدخل بيتكوين مرحلة تبن جديدة تشمل جهات سيادية وصناديق تقاعد وشركات خزينة. جاءت هذه التصريحات في سياق نقاش يتجه فيه تبني بيتكوين من المستثمرين الأفراد وبعض الشركات إلى رؤوس أموال مؤسسية أكثر تحفظا. ويرى باك أن الثقة الأمنية أصبحت معيارا محوريا في منافسة DeFi. ومن المتوقع أن يتركز اهتمام السوق على مدى زيادة هذه المؤسسات لانكشافها الفعلي على بيتكوين. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Bitcoin सुरक्षा बढ़त: Adam Back ने DeFi युद्ध पर क्या कहा",
-        "excerpt": "Blockstream CEO Adam Back ने Consensus Miami 2026 में कहा कि Bitcoin DeFi सुरक्षा लड़ाई में आगे है और अगली अपनाने की लहर ला सकता है।",
-        "body": "Blockstream CEO Adam Back ने Consensus Miami 2026 में कहा कि Bitcoin “DeFi सुरक्षा युद्ध” जीत रहा है। उनके अनुसार, सुरक्षा को प्राथमिकता देने वाले माहौल में Bitcoin संप्रभु संस्थाओं, पेंशन फंडों और कॉरपोरेट ट्रेजरी कंपनियों द्वारा अपनाए जाने के अगले चरण में प्रवेश कर रहा है। यह टिप्पणी ऐसे समय आई है जब Bitcoin अपनाने की चर्चा खुदरा निवेशकों और कुछ कंपनियों से आगे बढ़कर अधिक सावधान संस्थागत पूंजी तक फैल सकती है। Back ने सुरक्षा पर भरोसे को DeFi प्रतिस्पर्धा का केंद्रीय मानक बताया। आगे बाजार की नजर इस पर रहेगी कि ये संस्थान वास्तव में Bitcoin एक्सपोजर कितना बढ़ाते हैं। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Keunggulan Keamanan Bitcoin: Adam Back soal Perang DeFi",
-        "excerpt": "CEO Blockstream Adam Back mengatakan di Consensus Miami 2026 bahwa Bitcoin memimpin perang keamanan DeFi dan gelombang adopsi berikutnya.",
-        "body": "CEO Blockstream Adam Back mengatakan di Consensus Miami 2026 bahwa Bitcoin sedang memenangkan “perang keamanan DeFi”. Ia menjelaskan bahwa, saat keamanan menjadi prioritas, Bitcoin memasuki tahap adopsi berikutnya oleh negara berdaulat, dana pensiun, dan perusahaan treasury. Pernyataan ini muncul ketika pembahasan adopsi Bitcoin berpotensi bergerak dari investor ritel dan sebagian perusahaan menuju modal institusional yang lebih konservatif. Back menilai kepercayaan terhadap keamanan sebagai standar utama dalam persaingan DeFi. Perhatian pasar selanjutnya akan tertuju pada seberapa besar institusi tersebut benar-benar menambah eksposur ke Bitcoin. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "d104c912400b",
-    "slug": "altcoins-climb-as-bitcoin-and-ether-retreat-from-weekly-high-799322",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T10:39:00.564Z",
-    "updatedAt": "2026-05-07T10:39:00.564Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/07/altcoins-climb-as-bitcoin-and-ether-retreat-from-weekly-highs",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/07/altcoins-climb-as-bitcoin-and-ether-retreat-from-weekly-highs",
-    "titleFingerprint": "e59447f254a4d8b209a0abedc2a0baeee6b07d05",
-    "dedupKeys": [
-      "d104c912400ba78a354b67005e0c1b373971b75a",
-      "e59447f254a4d8b209a0abedc2a0baeee6b07d05",
-      "125d18e60415d60a41fa033f9420289571e0881c"
-    ],
-    "imageUrl": "/images/articles/d104c912400b.png",
-    "i18n": {
-      "ko": {
-        "title": "알트코인 상승, 비트코인·이더 주간 고점 후퇴 속 강세",
-        "excerpt": "목요일 암호화폐 시장에서 투자심리가 개선되며 트레이더들이 고위험 자산으로 이동했고, 알트코인은 비트코인과 이더가 주간 고점에서 물러난 사이 상대적 강세를 보였다.",
-        "body": "목요일 암호화폐 시장에서 알트코인이 비트코인과 이더보다 더 나은 흐름을 보였다. 비트코인과 이더가 주간 고점에서 후퇴하는 동안, 트레이더들은 개선된 시장 심리를 바탕으로 상대적으로 위험도가 높은 자산으로 자금을 옮겼다. 이번 움직임은 주요 암호화폐의 상승 탄력이 둔화된 가운데 위험 선호가 일부 알트코인으로 확산된 흐름으로 해석된다. 다만 원문은 구체적인 종목별 상승률이나 거래량 수치를 제시하지 않았다. 향후 시장의 초점은 비트코인과 이더의 고점 회복 여부, 그리고 알트코인으로의 자금 순환이 이어질지에 맞춰질 전망이다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Altcoins Rise as Bitcoin and Ether Pull Back From Weekly Highs",
-        "excerpt": "On Thursday, improving crypto market sentiment led traders toward higher-risk assets, helping altcoins outperform as bitcoin and ether retreated from weekly highs.",
-        "body": "Altcoins outperformed bitcoin and ether in Thursday’s crypto trading. While bitcoin and ether moved back from their weekly highs, traders shifted funds into higher-risk assets as market sentiment improved. The move suggests that, as momentum in the two largest cryptocurrencies cooled, risk appetite spread into parts of the altcoin market. The original report did not provide specific gains by token or trading-volume figures. Market attention is now likely to center on whether bitcoin and ether can reclaim their weekly highs and whether capital rotation into altcoins continues. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "アルトコイン上昇、ビットコインとイーサは週間高値から後退",
-        "excerpt": "木曜日の暗号資産市場では投資心理が改善し、トレーダーが高リスク資産へ資金を移したことで、アルトコインがビットコインとイーサを上回った。",
-        "body": "木曜日の暗号資産市場で、アルトコインはビットコインとイーサを上回る値動きを見せた。ビットコインとイーサが週間高値から後退する一方、トレーダーは改善した市場心理を背景に、相対的にリスクの高い資産へ資金を移した。今回の動きは、主要暗号資産の上昇力が鈍る中で、リスク選好が一部アルトコインへ広がった流れとみられる。ただし原文では、個別銘柄の上昇率や取引量の具体的な数値は示されていない。今後はビットコインとイーサが週間高値を回復できるか、アルトコインへの資金循環が続くかが焦点となる。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "山寨币走强，比特币和以太币自周内高点回落",
-        "excerpt": "周四，加密货币市场情绪改善，交易员转向更高风险资产；在比特币和以太币自周内高点回落之际，山寨币表现相对更强。",
-        "body": "周四的加密货币市场中，山寨币表现优于比特币和以太币。随着比特币和以太币从周内高点回落，交易员在市场情绪改善的背景下，将资金转向相对更高风险的资产。这一走势显示，在主要加密货币上涨动能放缓时，风险偏好部分扩散至山寨币市场。不过，原文未提供具体代币涨幅或交易量数据。接下来，市场关注点将集中在比特币和以太币能否重返周内高点，以及资金向山寨币轮动的趋势是否延续。来源: coindesk.com."
-      },
-      "es": {
-        "title": "Altcoins suben mientras bitcoin y ether ceden desde máximos semanales",
-        "excerpt": "El jueves, la mejora del ánimo del mercado cripto llevó a los operadores hacia activos de mayor riesgo, impulsando a las altcoins frente a bitcoin y ether.",
-        "body": "Las altcoins superaron a bitcoin y ether en la sesión cripto del jueves. Mientras bitcoin y ether retrocedían desde sus máximos semanales, los operadores movieron capital hacia activos de mayor riesgo ante una mejora del sentimiento de mercado. El movimiento indica que, con el impulso de las principales criptomonedas perdiendo fuerza, el apetito por riesgo se extendió a parte del mercado de altcoins. El reporte original no ofreció cifras concretas de subidas por token ni datos de volumen. La atención del mercado se centrará ahora en si bitcoin y ether recuperan sus máximos semanales y si continúa la rotación de capital hacia altcoins. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Altcoins sobem enquanto bitcoin e ether recuam de máximas semanais",
-        "excerpt": "Na quinta-feira, a melhora do sentimento no mercado cripto levou traders a ativos de maior risco, fazendo altcoins superarem bitcoin e ether no desempenho.",
-        "body": "As altcoins tiveram desempenho superior ao de bitcoin e ether no mercado cripto de quinta-feira. Enquanto bitcoin e ether recuavam de suas máximas semanais, traders direcionaram recursos para ativos de maior risco diante da melhora do sentimento de mercado. O movimento sugere que, com a perda de força das principais criptomoedas, o apetite por risco se espalhou para parte do mercado de altcoins. O texto original não informou ganhos específicos por token nem dados de volume negociado. Daqui em diante, o foco do mercado deve ficar na capacidade de bitcoin e ether retomarem as máximas semanais e na continuidade da rotação de capital para altcoins. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Altcoins steigen, während Bitcoin und Ether von Wochenhochs nachgeben",
-        "excerpt": "Am Donnerstag führte eine bessere Stimmung am Kryptomarkt dazu, dass Trader in riskantere Anlagen wechselten; Altcoins schnitten dadurch besser ab als Bitcoin und Ether.",
-        "body": "Altcoins entwickelten sich im Kryptohandel am Donnerstag besser als Bitcoin und Ether. Während Bitcoin und Ether von ihren Wochenhochs zurückfielen, verlagerten Trader Kapital in risikoreichere Anlagen, gestützt durch eine verbesserte Marktstimmung. Die Bewegung deutet darauf hin, dass bei nachlassendem Schwung der größten Kryptowährungen die Risikobereitschaft auf Teile des Altcoin-Markts übergriff. Der Originalbericht nannte keine konkreten Kursgewinne einzelner Token und keine Handelsvolumina. Im Fokus steht nun, ob Bitcoin und Ether ihre Wochenhochs zurückerobern können und ob die Kapitalrotation in Altcoins anhält. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Les altcoins montent tandis que bitcoin et ether quittent leurs pics hebdomadaires",
-        "excerpt": "Jeudi, l’amélioration du sentiment sur le marché crypto a poussé les traders vers des actifs plus risqués, permettant aux altcoins de faire mieux que bitcoin et ether.",
-        "body": "Les altcoins ont surperformé bitcoin et ether lors de la séance crypto de jeudi. Alors que bitcoin et ether reculaient depuis leurs plus hauts hebdomadaires, les traders ont déplacé des capitaux vers des actifs plus risqués, dans un contexte d’amélioration du sentiment de marché. Ce mouvement montre que, avec l’essoufflement des principales cryptomonnaies, l’appétit pour le risque s’est étendu à une partie du marché des altcoins. Le rapport original ne fournit pas de hausses précises par jeton ni de données de volume. L’attention du marché portera désormais sur la capacité de bitcoin et d’ether à retrouver leurs plus hauts hebdomadaires et sur la poursuite éventuelle de la rotation vers les altcoins. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "العملات البديلة ترتفع مع تراجع بتكوين وإيثر عن قمم الأسبوع",
-        "excerpt": "يوم الخميس، تحسن مزاج سوق العملات المشفرة ودفع المتداولين نحو أصول أعلى مخاطرة، لتتفوق العملات البديلة على بتكوين وإيثر بعد تراجعهما عن قمم الأسبوع.",
-        "body": "تفوقت العملات البديلة على بتكوين وإيثر في تداولات العملات المشفرة يوم الخميس. وبينما تراجعت بتكوين وإيثر عن أعلى مستوياتهما الأسبوعية، نقل المتداولون أموالهم إلى أصول أعلى مخاطرة بدعم من تحسن معنويات السوق. وتشير هذه الحركة إلى أن تباطؤ زخم أكبر عملتين مشفرتين ترافق مع امتداد الإقبال على المخاطرة إلى أجزاء من سوق العملات البديلة. ولم يذكر التقرير الأصلي نسب ارتفاع محددة لكل عملة أو أرقام حجم التداول. وسيتجه تركيز السوق الآن إلى ما إذا كانت بتكوين وإيثر ستستعيدان قمم الأسبوع، وما إذا كان دوران السيولة نحو العملات البديلة سيستمر. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "बिटकॉइन और ईथर के साप्ताहिक उच्च स्तर से फिसलने पर ऑल्टकॉइन चढ़े",
-        "excerpt": "गुरुवार को क्रिप्टो बाजार की धारणा सुधरने से ट्रेडर अधिक जोखिम वाली संपत्तियों की ओर बढ़े, जिससे ऑल्टकॉइन ने बिटकॉइन और ईथर से बेहतर प्रदर्शन किया।",
-        "body": "गुरुवार के क्रिप्टो कारोबार में ऑल्टकॉइन ने बिटकॉइन और ईथर से बेहतर प्रदर्शन किया। बिटकॉइन और ईथर अपने साप्ताहिक उच्च स्तरों से पीछे हटे, जबकि बेहतर बाजार भावना के बीच ट्रेडरों ने अपेक्षाकृत अधिक जोखिम वाली संपत्तियों में पूंजी लगाई। यह कदम दिखाता है कि प्रमुख क्रिप्टोकरेंसी की तेजी की गति धीमी पड़ने पर जोखिम लेने की रुचि ऑल्टकॉइन बाजार के कुछ हिस्सों में फैल गई। मूल रिपोर्ट में किसी विशेष टोकन की बढ़त या ट्रेडिंग वॉल्यूम के आंकड़े नहीं दिए गए। आगे बाजार की नजर इस पर रहेगी कि बिटकॉइन और ईथर साप्ताहिक उच्च स्तर फिर पा सकते हैं या नहीं, और ऑल्टकॉइन की ओर पूंजी रोटेशन जारी रहता है या नहीं। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Altcoin Menguat Saat Bitcoin dan Ether Turun dari Puncak Mingguan",
-        "excerpt": "Pada Kamis, sentimen pasar kripto yang membaik mendorong trader masuk ke aset berisiko lebih tinggi, membuat altcoin mengungguli bitcoin dan ether.",
-        "body": "Altcoin mencatat kinerja lebih baik daripada bitcoin dan ether dalam perdagangan kripto pada Kamis. Saat bitcoin dan ether mundur dari level tertinggi mingguan, trader mengalihkan dana ke aset yang lebih berisiko seiring membaiknya sentimen pasar. Pergerakan ini menunjukkan bahwa ketika momentum dua kripto utama melemah, minat terhadap risiko menyebar ke sebagian pasar altcoin. Laporan asli tidak menyebutkan angka kenaikan per token atau data volume perdagangan. Ke depan, perhatian pasar akan tertuju pada apakah bitcoin dan ether dapat kembali ke puncak mingguan, serta apakah rotasi dana ke altcoin berlanjut. Sumber: coindesk.com."
       }
     }
   }
