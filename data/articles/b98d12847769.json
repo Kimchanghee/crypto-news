@@ -1,0 +1,75 @@
+{
+  "id": "b98d12847769",
+  "slug": "amazons-new-ai-wallet-aws-coinbase-and-stripe-build-payment--135584",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T17:07:23.370Z",
+  "updatedAt": "2026-05-07T17:07:23.370Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/business/2026/05/07/amazon-rolls-out-ai-agent-stablecoin-payments-platform-with-coinbase-and-stripe",
+  "canonicalUrl": "https://www.coindesk.com/business/2026/05/07/amazon-rolls-out-ai-agent-stablecoin-payments-platform-with-coinbase-and-stripe",
+  "titleFingerprint": "7136e1df4e6358dd5ceb9c9b250119dbe6088b8d",
+  "dedupKeys": [
+    "b98d12847769c1bf2490dd027af66b920287b249",
+    "7136e1df4e6358dd5ceb9c9b250119dbe6088b8d",
+    "7abe7a1cfa691ec7c2d3bd8244ae9f7ed6c5222d"
+  ],
+  "imageUrl": "/images/articles/b98d12847769.jpg",
+  "i18n": {
+    "ko": {
+      "title": "아마존 AI 월렛 공개, AWS·코인베이스·스트라이프가 봇 결제 레일 구축",
+      "excerpt": "아마존은 AWS, 코인베이스, 스트라이프와 함께 AI 에이전트가 API와 웹 콘텐츠, 온라인 서비스를 구매할 수 있는 결제 기반을 마련한다고 밝혔다.",
+      "body": "아마존은 AWS, 코인베이스, 스트라이프가 AI 에이전트를 위한 새로운 결제 레일을 구축하고 있다고 밝혔다. 현재 AI 에이전트는 API, 웹 콘텐츠, 기타 온라인 서비스를 구매하는 범위에서 허용된다. 이는 사람이 직접 결제하지 않아도 봇이 디지털 서비스에 접근하고 비용을 지불할 수 있게 하는 초기 단계다. 아마존은 향후 버전에서 호텔 예약, 여행 예약, 상점 대상 결제까지 가능하게 할 계획이라고 설명했다. 이번 구상은 AI 에이전트가 실제 온라인 경제 활동에 참여하기 위한 결제 인프라를 마련하는 흐름으로 해석된다. 출처: coindesk.com."
+    },
+    "en": {
+      "title": "Amazon AI Wallet: AWS, Coinbase and Stripe Build Bot Payment Rails",
+      "excerpt": "Amazon said AWS, Coinbase and Stripe are building payment rails that let AI agents buy APIs, web content and other online services at this stage.",
+      "body": "Amazon said AWS, Coinbase and Stripe are building new payment rails for AI agents. For now, AI agents will be allowed to buy APIs, web content and other online services. The setup marks an early step toward letting bots access digital services and pay for them without a person making each transaction directly. Amazon said future versions would enable hotel bookings, travel reservations and payments to merchants. The plan points to payment infrastructure designed for AI agents to participate in online economic activity. Source: coindesk.com."
+    },
+    "ja": {
+      "title": "AmazonのAIウォレット、AWS・Coinbase・Stripeがボット決済基盤を構築",
+      "excerpt": "Amazonは、AWS、Coinbase、Stripeとともに、AIエージェントがAPIやウェブコンテンツ、オンラインサービスを購入できる決済基盤を整えると述べた。",
+      "body": "Amazonは、AWS、Coinbase、StripeがAIエージェント向けの新たな決済レールを構築していると述べた。現時点でAIエージェントに認められるのは、API、ウェブコンテンツ、その他オンラインサービスの購入だ。これは、人が毎回直接支払わなくても、ボットがデジタルサービスにアクセスし費用を支払えるようにする初期段階にあたる。Amazonは今後のバージョンで、ホテル予約、旅行予約、加盟店への支払いも可能にすると説明した。この構想は、AIエージェントがオンライン経済活動に参加するための決済インフラ整備と受け止められる。出典: coindesk.com。"
+    },
+    "zh": {
+      "title": "亚马逊AI钱包亮相：AWS、Coinbase与Stripe搭建机器人支付轨道",
+      "excerpt": "亚马逊表示，AWS、Coinbase和Stripe正搭建支付基础设施，让AI代理现阶段可购买API、网页内容和其他在线服务。",
+      "body": "亚马逊表示，AWS、Coinbase和Stripe正在为AI代理搭建新的支付轨道。目前，AI代理被允许购买API、网页内容以及其他在线服务。这是让机器人无需人工逐笔操作也能访问数字服务并完成付款的早期阶段。亚马逊称，未来版本将支持酒店预订、旅行预订以及向商户付款。该计划显示，面向AI代理参与线上经济活动的支付基础设施正在形成。来源：coindesk.com。"
+    },
+    "es": {
+      "title": "Amazon AI Wallet: AWS, Coinbase y Stripe crean pagos para bots",
+      "excerpt": "Amazon dijo que AWS, Coinbase y Stripe construyen rieles de pago para que los agentes de IA compren API, contenido web y otros servicios online.",
+      "body": "Amazon dijo que AWS, Coinbase y Stripe están construyendo nuevos rieles de pago para agentes de IA. Por ahora, esos agentes podrán comprar API, contenido web y otros servicios en línea. El sistema representa una primera etapa para que los bots accedan a servicios digitales y paguen por ellos sin que una persona realice cada transacción de forma directa. Amazon explicó que futuras versiones permitirán reservas de hoteles, reservas de viaje y pagos a comercios. La iniciativa apunta a una infraestructura de pagos para que los agentes de IA participen en la actividad económica online. Fuente: coindesk.com."
+    },
+    "pt": {
+      "title": "Amazon AI Wallet: AWS, Coinbase e Stripe criam pagamentos para bots",
+      "excerpt": "A Amazon disse que AWS, Coinbase e Stripe constroem trilhos de pagamento para agentes de IA comprarem APIs, conteúdo web e serviços online.",
+      "body": "A Amazon disse que AWS, Coinbase e Stripe estão construindo novos trilhos de pagamento para agentes de IA. Por enquanto, esses agentes poderão comprar APIs, conteúdo web e outros serviços online. A estrutura representa uma etapa inicial para que bots acessem serviços digitais e paguem por eles sem que uma pessoa faça cada transação diretamente. A Amazon afirmou que versões futuras permitirão reservas de hotéis, reservas de viagem e pagamentos a comerciantes. A iniciativa indica uma infraestrutura de pagamentos para agentes de IA participarem da economia online. Fonte: coindesk.com."
+    },
+    "de": {
+      "title": "Amazon AI Wallet: AWS, Coinbase und Stripe bauen Zahlungswege für Bots",
+      "excerpt": "Amazon erklärte, dass AWS, Coinbase und Stripe Zahlungswege schaffen, über die KI-Agenten APIs, Webinhalte und andere Online-Dienste kaufen können.",
+      "body": "Amazon erklärte, dass AWS, Coinbase und Stripe neue Zahlungswege für KI-Agenten aufbauen. Vorerst sollen KI-Agenten APIs, Webinhalte und andere Online-Dienste kaufen dürfen. Das ist ein früher Schritt, damit Bots digitale Dienste nutzen und bezahlen können, ohne dass eine Person jede Transaktion direkt ausführt. Amazon sagte, spätere Versionen würden Hotelbuchungen, Reisebuchungen und Zahlungen an Händler ermöglichen. Der Plan deutet auf eine Zahlungsinfrastruktur hin, mit der KI-Agenten an Online-Wirtschaftsaktivitäten teilnehmen können. Quelle: coindesk.com."
+    },
+    "fr": {
+      "title": "Amazon AI Wallet : AWS, Coinbase et Stripe bâtissent le paiement pour bots",
+      "excerpt": "Amazon a indiqué qu’AWS, Coinbase et Stripe créent des rails de paiement permettant aux agents IA d’acheter des API, contenus web et services en ligne.",
+      "body": "Amazon a indiqué qu’AWS, Coinbase et Stripe construisent de nouveaux rails de paiement pour les agents IA. Pour l’instant, ces agents seront autorisés à acheter des API, du contenu web et d’autres services en ligne. Ce dispositif marque une première étape pour permettre aux bots d’accéder à des services numériques et de les payer sans qu’une personne valide chaque transaction directement. Amazon a précisé que de futures versions permettront les réservations d’hôtels, les réservations de voyage et les paiements aux marchands. Le projet vise une infrastructure de paiement pour l’activité économique en ligne des agents IA. Source : coindesk.com."
+    },
+    "ar": {
+      "title": "محفظة أمازون للذكاء الاصطناعي: AWS وكوينبيس وسترايب تبني مدفوعات للبوتات",
+      "excerpt": "قالت أمازون إن AWS وكوينبيس وسترايب تبني مسارات دفع تتيح لوكلاء الذكاء الاصطناعي شراء واجهات API ومحتوى الويب وخدمات الإنترنت.",
+      "body": "قالت أمازون إن AWS وكوينبيس وسترايب تبني مسارات دفع جديدة لوكلاء الذكاء الاصطناعي. في المرحلة الحالية، سيسمح لهؤلاء الوكلاء بشراء واجهات API ومحتوى الويب وخدمات أخرى عبر الإنترنت. تمثل هذه الخطوة مرحلة مبكرة تتيح للبوتات الوصول إلى الخدمات الرقمية ودفع تكلفتها من دون أن ينفذ شخص كل معاملة مباشرة. وأوضحت أمازون أن الإصدارات المستقبلية ستتيح حجوزات الفنادق وحجوزات السفر والمدفوعات إلى التجار. وتشير الخطة إلى بنية دفع مخصصة لمشاركة وكلاء الذكاء الاصطناعي في النشاط الاقتصادي عبر الإنترنت. المصدر: coindesk.com."
+    },
+    "hi": {
+      "title": "Amazon AI Wallet: AWS, Coinbase और Stripe बना रहे बॉट पेमेंट रेल",
+      "excerpt": "Amazon ने कहा कि AWS, Coinbase और Stripe ऐसे पेमेंट रेल बना रहे हैं जिनसे AI एजेंट API, वेब कंटेंट और अन्य ऑनलाइन सेवाएं खरीद सकेंगे।",
+      "body": "Amazon ने कहा कि AWS, Coinbase और Stripe AI एजेंटों के लिए नए पेमेंट रेल बना रहे हैं। फिलहाल AI एजेंटों को API, वेब कंटेंट और अन्य ऑनलाइन सेवाएं खरीदने की अनुमति होगी। यह ऐसी शुरुआती व्यवस्था है जिसमें बॉट हर लेनदेन के लिए किसी व्यक्ति की सीधी कार्रवाई के बिना डिजिटल सेवाओं तक पहुंच सकते हैं और भुगतान कर सकते हैं। Amazon ने बताया कि भविष्य के संस्करण होटल बुकिंग, यात्रा आरक्षण और व्यापारियों को भुगतान सक्षम करेंगे। यह योजना AI एजेंटों को ऑनलाइन आर्थिक गतिविधि में शामिल करने के लिए भुगतान ढांचा तैयार करने की दिशा दिखाती है। स्रोत: coindesk.com."
+    },
+    "id": {
+      "title": "Amazon AI Wallet: AWS, Coinbase, Stripe Bangun Rel Pembayaran Bot",
+      "excerpt": "Amazon mengatakan AWS, Coinbase, dan Stripe membangun rel pembayaran agar agen AI dapat membeli API, konten web, dan layanan online lain saat ini.",
+      "body": "Amazon mengatakan AWS, Coinbase, dan Stripe sedang membangun rel pembayaran baru untuk agen AI. Untuk saat ini, agen AI akan diizinkan membeli API, konten web, dan layanan online lainnya. Ini menjadi tahap awal agar bot dapat mengakses layanan digital dan membayarnya tanpa seseorang melakukan setiap transaksi secara langsung. Amazon menjelaskan bahwa versi mendatang akan memungkinkan pemesanan hotel, reservasi perjalanan, dan pembayaran kepada merchant. Rencana ini menunjukkan infrastruktur pembayaran yang disiapkan agar agen AI dapat ikut dalam aktivitas ekonomi online. Sumber: coindesk.com."
+    }
+  }
+}
