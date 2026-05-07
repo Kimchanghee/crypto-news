@@ -1,0 +1,75 @@
+{
+  "id": "72a91058a994",
+  "slug": "chrome-deletes-its-own-privacy-promise-for-sneaky-on-device--334736",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T23:09:55.332Z",
+  "updatedAt": "2026-05-07T23:09:55.332Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367193/chrome-removes-privacy-claim-gemini-nano-google",
+  "canonicalUrl": "https://decrypt.co/367193/chrome-removes-privacy-claim-gemini-nano-google",
+  "titleFingerprint": "a4508276bf61056760b02dc43470b4011636235d",
+  "dedupKeys": [
+    "72a91058a994a89ad999bcf5905bd8729f2cf62e",
+    "a4508276bf61056760b02dc43470b4011636235d",
+    "0f62c86a382d1dc8b94a0594d32e0e5dae828764"
+  ],
+  "imageUrl": "/images/articles/72a91058a994.png",
+  "i18n": {
+    "ko": {
+      "title": "크롬 4GB 온디바이스 AI 논란, 개인정보 약속 문구 삭제",
+      "excerpt": "크롬이 기기에 4GB 규모 AI를 조용히 설치하는 가운데, 최신 버전에서 데이터가 구글 서버로 가지 않는다는 기존 고지 문구가 삭제돼 논란이 커지고 있다.",
+      "body": "크롬이 최신 버전에서 온디바이스 AI 관련 개인정보 고지 문구를 삭제한 것으로 전해졌다. Decrypt에 따르면 크롬은 사용자 기기에 약 4GB 규모의 AI를 조용히 설치하고 있으며, 이전에는 데이터가 구글 서버로 전송되지 않는다는 취지의 설명을 제공했다. 그러나 최신 버전에서는 해당 약속으로 읽히던 문구가 사라졌다. 이 변화는 브라우저에 내장되는 AI 기능이 사용자의 기기 저장공간과 개인정보 처리 방식에 어떤 영향을 주는지에 대한 관심을 키운다. 현재 보도에서 확인된 핵심은 4GB AI 설치와 고지 문구 삭제다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "Chrome 4GB On-Device AI Raises Privacy Promise Concerns",
+      "excerpt": "Chrome is quietly installing a 4GB AI on devices, while its latest version removed wording that said user data would stay off Google’s servers.",
+      "body": "Chrome has reportedly removed privacy disclosure language tied to its on-device AI in the latest version. According to Decrypt, Chrome is quietly installing an AI package of about 4GB on user devices, and earlier wording indicated that data would not be sent to Google’s servers. In the latest version, however, the language that read as that promise has disappeared. The change increases attention on how AI features built into the browser may affect device storage and the handling of personal data. The confirmed points in the report are the 4GB AI installation and the removal of the disclosure text. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "Chromeの4GBオンデバイスAI、プライバシー文言削除で波紋",
+      "excerpt": "Chromeが端末に4GB規模のAIを静かに導入する中、最新版ではデータをGoogleサーバーへ送らないとする従来の説明文が削除された。",
+      "body": "Chromeの最新版で、オンデバイスAIに関するプライバシー説明文が削除されたと報じられた。Decryptによると、Chromeはユーザー端末に約4GB規模のAIを静かにインストールしており、以前はデータがGoogleのサーバーに送信されない趣旨の説明を示していた。しかし最新版では、その約束と読める文言が消えている。この変更により、ブラウザ内蔵AI機能が端末の保存容量や個人データの扱いにどのような影響を与えるのかへの関心が高まっている。報道で確認された要点は、4GBのAI導入と説明文の削除である。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "Chrome 4GB端侧AI引争议，隐私承诺文字被删除",
+      "excerpt": "Chrome正悄然在设备上安装约4GB AI，而最新版删除了此前称用户数据不会进入Google服务器的披露文字。",
+      "body": "据报道，Chrome在最新版本中删除了与端侧AI相关的隐私披露文字。Decrypt称，Chrome正悄然在用户设备上安装约4GB规模的AI，此前说明曾表示数据不会发送到Google服务器。然而在最新版本中，这段可被视为承诺的文字已经消失。此举让外界更加关注浏览器内置AI功能将如何影响设备存储空间以及个人数据处理方式。目前报道确认的核心信息是，Chrome安装约4GB AI，并删除了相关披露文字。来源: decrypt.co"
+    },
+    "es": {
+      "title": "Chrome instala una IA local de 4GB y borra una promesa de privacidad",
+      "excerpt": "Chrome instala discretamente una IA de 4GB en los dispositivos y su versión más reciente eliminó el aviso de que los datos no irían a servidores de Google.",
+      "body": "Chrome habría eliminado en su versión más reciente un texto de privacidad relacionado con su IA en el dispositivo. Según Decrypt, Chrome está instalando de forma discreta una IA de unos 4GB en los dispositivos de los usuarios, y antes mostraba una explicación que indicaba que los datos no se enviarían a los servidores de Google. Sin embargo, en la versión actual esa frase, leída como una promesa, ya no aparece. El cambio aumenta la atención sobre cómo las funciones de IA integradas en el navegador pueden afectar el almacenamiento del dispositivo y el tratamiento de datos personales. Los puntos confirmados son la instalación de la IA de 4GB y la eliminación del aviso. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "Chrome instala IA local de 4GB e remove promessa de privacidade",
+      "excerpt": "O Chrome instala discretamente uma IA de 4GB nos dispositivos, enquanto a versão mais recente removeu o aviso de que dados não iriam aos servidores do Google.",
+      "body": "O Chrome teria removido, em sua versão mais recente, um texto de privacidade ligado à IA no dispositivo. Segundo o Decrypt, o Chrome está instalando discretamente uma IA de cerca de 4GB nos aparelhos dos usuários, e antes exibia uma explicação de que os dados não seriam enviados aos servidores do Google. Na versão mais nova, porém, a frase que podia ser lida como essa promessa desapareceu. A mudança aumenta a atenção sobre como recursos de IA integrados ao navegador podem afetar o armazenamento do dispositivo e o tratamento de dados pessoais. Os pontos confirmados são a instalação da IA de 4GB e a remoção do aviso. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "Chrome installiert 4GB-On-Device-KI und streicht Datenschutzversprechen",
+      "excerpt": "Chrome installiert still eine rund 4GB große KI auf Geräten; in der neuesten Version fehlt der Hinweis, dass Daten nicht an Google-Server gehen.",
+      "body": "Chrome soll in der neuesten Version einen Datenschutzhinweis zur On-Device-KI entfernt haben. Laut Decrypt installiert Chrome still eine etwa 4GB große KI auf Nutzergeräten. Zuvor enthielt die Erklärung den Hinweis, dass Daten nicht an Googles Server gesendet würden. In der aktuellen Version ist diese Formulierung, die als Versprechen gelesen werden konnte, jedoch verschwunden. Die Änderung lenkt mehr Aufmerksamkeit darauf, wie im Browser integrierte KI-Funktionen den Gerätespeicher und den Umgang mit personenbezogenen Daten beeinflussen könnten. Bestätigt sind laut Bericht die Installation der 4GB-KI und die Entfernung des Hinweistexts. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "Chrome installe une IA locale de 4Go et retire une promesse de confidentialité",
+      "excerpt": "Chrome installe discrètement une IA de 4Go sur les appareils, tandis que sa dernière version retire l’avis disant que les données n’iraient pas chez Google.",
+      "body": "Chrome aurait supprimé dans sa dernière version un texte de confidentialité lié à son IA sur appareil. Selon Decrypt, Chrome installe discrètement une IA d’environ 4Go sur les appareils des utilisateurs, tandis qu’un précédent libellé indiquait que les données ne seraient pas envoyées aux serveurs de Google. Dans la version la plus récente, cette phrase, lisible comme une promesse, a disparu. Ce changement attire l’attention sur l’impact possible des fonctions d’IA intégrées au navigateur sur le stockage des appareils et le traitement des données personnelles. Les éléments confirmés sont l’installation de l’IA de 4Go et la suppression du texte d’information. Source: decrypt.co"
+    },
+    "ar": {
+      "title": "كروم يثبت ذكاء اصطناعيا بحجم 4GB ويحذف وعد الخصوصية",
+      "excerpt": "يثبت Chrome بهدوء ذكاء اصطناعيا بحجم 4GB على الأجهزة، فيما حذفت نسخته الأخيرة عبارة تفيد بأن البيانات لن تصل إلى خوادم Google.",
+      "body": "أفادت تقارير بأن Chrome حذف في أحدث إصدار عبارة إفصاح عن الخصوصية مرتبطة بالذكاء الاصطناعي على الجهاز. وبحسب Decrypt، يثبت Chrome بهدوء حزمة ذكاء اصطناعي بحجم يقارب 4GB على أجهزة المستخدمين، وكانت الصياغة السابقة تشير إلى أن البيانات لن ترسل إلى خوادم Google. لكن في الإصدار الأحدث، اختفت العبارة التي كان يمكن قراءتها كتعهد بذلك. يزيد هذا التغيير الاهتمام بكيفية تأثير ميزات الذكاء الاصطناعي المدمجة في المتصفح على مساحة التخزين في الجهاز وطريقة التعامل مع البيانات الشخصية. النقاط المؤكدة في التقرير هي تثبيت ذكاء اصطناعي بحجم 4GB وحذف نص الإفصاح. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "Chrome की 4GB ऑन-डिवाइस AI पर विवाद, गोपनीयता वादा हटाया गया",
+      "excerpt": "Chrome चुपचाप डिवाइसों पर 4GB AI इंस्टॉल कर रहा है, जबकि नए संस्करण से वह सूचना हट गई है कि डेटा Google सर्वर पर नहीं जाएगा।",
+      "body": "Chrome के नवीनतम संस्करण में ऑन-डिवाइस AI से जुड़ा गोपनीयता खुलासा हटाए जाने की रिपोर्ट है। Decrypt के अनुसार, Chrome उपयोगकर्ताओं के डिवाइसों पर लगभग 4GB आकार की AI चुपचाप इंस्टॉल कर रहा है। पहले दी गई भाषा में यह संकेत था कि डेटा Google के सर्वरों पर नहीं भेजा जाएगा। हालांकि नए संस्करण में वह वाक्य, जिसे इस वादे के रूप में पढ़ा जा सकता था, गायब है। इस बदलाव से ब्राउज़र में शामिल AI सुविधाओं के डिवाइस स्टोरेज और व्यक्तिगत डेटा के प्रबंधन पर असर को लेकर ध्यान बढ़ा है। रिपोर्ट में पुष्टि किए गए मुख्य बिंदु 4GB AI इंस्टॉलेशन और खुलासा पाठ को हटाना हैं। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "Chrome Pasang AI 4GB di Perangkat dan Hapus Janji Privasi",
+      "excerpt": "Chrome diam-diam memasang AI 4GB di perangkat, sementara versi terbarunya menghapus keterangan bahwa data tidak akan masuk ke server Google.",
+      "body": "Chrome dilaporkan menghapus teks pengungkapan privasi terkait AI on-device pada versi terbarunya. Menurut Decrypt, Chrome diam-diam memasang AI berukuran sekitar 4GB di perangkat pengguna, dan sebelumnya memberikan keterangan bahwa data tidak akan dikirim ke server Google. Namun pada versi terbaru, kalimat yang dapat dibaca sebagai janji itu telah hilang. Perubahan ini meningkatkan perhatian terhadap bagaimana fitur AI yang tertanam di browser dapat memengaruhi ruang penyimpanan perangkat dan pemrosesan data pribadi. Poin yang terkonfirmasi dalam laporan adalah pemasangan AI 4GB dan penghapusan teks pengungkapan tersebut. Sumber: decrypt.co"
+    }
+  }
+}

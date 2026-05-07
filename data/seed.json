@@ -1,5 +1,230 @@
 [
   {
+    "id": "f38746f14c39",
+    "slug": "imf-warns-ai-will-supercharge-cyberattacks-on-global-financi-629453",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T23:10:52.068Z",
+    "updatedAt": "2026-05-07T23:10:52.068Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367178/imf-warns-ai-supercharge-cyberattacks-global-financial-system",
+    "canonicalUrl": "https://decrypt.co/367178/imf-warns-ai-supercharge-cyberattacks-global-financial-system",
+    "titleFingerprint": "d22f2203c23d877ba632df2f8502ea242a47c013",
+    "dedupKeys": [
+      "f38746f14c397ccccbdb03332d37bef23c11cfae",
+      "d22f2203c23d877ba632df2f8502ea242a47c013",
+      "0ef94eb00a32879d2e474afa64090bb8f0f91a02"
+    ],
+    "imageUrl": "/images/articles/f38746f14c39.png",
+    "i18n": {
+      "ko": {
+        "title": "IMF, AI발 사이버공격 경고…글로벌 금융 안정 핵심 변수",
+        "excerpt": "IMF는 최근 AI 도구가 미숙련 공격자에게도 핵심 인프라 침투 능력을 제공한다며 사이버보안을 금융 안정의 핵심 이슈로 다뤄야 한다고 밝혔다.",
+        "body": "IMF가 최근 인공지능(AI) 도구의 확산이 글로벌 금융 시스템을 겨냥한 사이버공격을 한층 강화할 수 있다고 경고했다. IMF는 새로운 AI 기술이 숙련도가 낮은 공격자에게도 핵심 인프라를 침해할 수 있는 능력을 제공하면서, 사이버보안을 단순한 기술 문제가 아니라 금융 안정의 핵심 의제로 다뤄야 한다고 강조했다. 배경에는 금융기관과 주요 인프라가 디지털 네트워크에 깊이 의존하고 있다는 점이 있다. AI가 공격 자동화와 침투 역량을 높이면 방어 역량이 부족한 조직의 위험도 커질 수 있다. IMF의 메시지는 각국 정책 당국과 금융권이 사이버 회복력과 대응 체계를 안정성 관리의 중심에 둬야 한다는 의미로 해석된다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "IMF Warns AI Cyberattacks Could Threaten Global Finance",
+        "excerpt": "The IMF recently said AI tools can let even unskilled attackers breach critical infrastructure, urging cybersecurity to be treated as a core financial stability issue.",
+        "body": "The IMF has warned that the spread of artificial intelligence tools could significantly strengthen cyberattacks targeting the global financial system. According to the IMF, new AI technology can give even low-skilled attackers the ability to breach critical infrastructure, making cybersecurity not just a technical concern but a core issue for financial stability. The warning comes as financial institutions and essential infrastructure rely heavily on digital networks. If AI increases attack automation and intrusion capabilities, organizations with weaker defenses could face greater risk. The IMF’s message suggests that policymakers and financial firms should place cyber resilience and response systems at the center of stability management. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "IMF、AIサイバー攻撃に警鐘…世界金融安定の重要課題に",
+        "excerpt": "IMFは最近、AIツールが未熟な攻撃者にも重要インフラ侵入能力を与えるとして、サイバーセキュリティを金融安定の中核課題にすべきだと述べた。",
+        "body": "IMFは最近、人工知能（AI）ツールの広がりが世界の金融システムを狙うサイバー攻撃を一段と強める可能性があると警告した。IMFは、新たなAI技術が熟練度の低い攻撃者にも重要インフラへ侵入する能力を与え得るため、サイバーセキュリティを単なる技術問題ではなく金融安定の中核課題として扱うべきだと強調した。背景には、金融機関と主要インフラがデジタルネットワークに深く依存している現状がある。AIが攻撃の自動化や侵入能力を高めれば、防御力が不十分な組織のリスクは拡大し得る。IMFのメッセージは、各国当局と金融業界がサイバー耐性と対応体制を安定管理の中心に置く必要があることを示している。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "IMF警告AI网络攻击升级，全球金融稳定面临新风险",
+        "excerpt": "IMF近日表示，AI工具可能让缺乏技能的攻击者也能入侵关键基础设施，呼吁将网络安全视为金融稳定的核心议题。",
+        "body": "IMF近日警告，人工智能（AI）工具的扩散可能显著增强针对全球金融体系的网络攻击。IMF表示，新的AI技术可能让技能不足的攻击者也具备入侵关键基础设施的能力，因此网络安全不应只被视为技术问题，而应被纳入金融稳定的核心议题。其背景是，金融机构和重要基础设施已高度依赖数字网络。如果AI提升攻击自动化和入侵能力，防御能力较弱的组织可能面临更大风险。IMF的这一信息意味着，各国政策制定者和金融业应把网络韧性与响应机制置于稳定管理的中心位置。来源: decrypt.co"
+      },
+      "es": {
+        "title": "FMI alerta que la IA puede impulsar ciberataques financieros",
+        "excerpt": "El FMI dijo recientemente que las herramientas de IA pueden permitir que atacantes sin experiencia vulneren infraestructura crítica y pidió tratar la ciberseguridad como estabilidad financiera.",
+        "body": "El FMI advirtió recientemente que la expansión de herramientas de inteligencia artificial (IA) podría fortalecer los ciberataques contra el sistema financiero global. Según el FMI, las nuevas tecnologías de IA pueden dar incluso a atacantes poco capacitados la capacidad de vulnerar infraestructura crítica, por lo que la ciberseguridad debe tratarse no solo como un asunto técnico, sino como un tema central de estabilidad financiera. El contexto es la fuerte dependencia de bancos, entidades financieras e infraestructuras clave de las redes digitales. Si la IA aumenta la automatización de ataques y la capacidad de intrusión, las organizaciones con defensas débiles podrían enfrentar más riesgos. El mensaje del FMI apunta a que autoridades y sector financiero sitúen la resiliencia y la respuesta cibernética en el centro de la gestión de estabilidad. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "FMI alerta que IA pode ampliar ciberataques ao sistema financeiro",
+        "excerpt": "O FMI afirmou recentemente que ferramentas de IA podem permitir que até atacantes sem qualificação invadam infraestrutura crítica e pediu tratar cibersegurança como estabilidade financeira.",
+        "body": "O FMI alertou recentemente que a disseminação de ferramentas de inteligência artificial (IA) pode fortalecer de forma significativa ciberataques contra o sistema financeiro global. Segundo o FMI, novas tecnologias de IA podem dar até a atacantes com baixa qualificação a capacidade de invadir infraestrutura crítica, tornando a cibersegurança não apenas uma questão técnica, mas um tema central de estabilidade financeira. O alerta ocorre em um contexto em que instituições financeiras e infraestruturas essenciais dependem fortemente de redes digitais. Se a IA ampliar a automação dos ataques e a capacidade de intrusão, organizações com defesas mais frágeis podem enfrentar riscos maiores. A mensagem do FMI indica que autoridades e o setor financeiro devem colocar resiliência e resposta cibernética no centro da gestão da estabilidade. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "IWF warnt vor KI-Cyberangriffen auf das globale Finanzsystem",
+        "excerpt": "Der IWF erklärte kürzlich, KI-Tools könnten selbst unerfahrenen Angreifern Zugang zu kritischer Infrastruktur ermöglichen, und fordert Cybersicherheit als Kernfrage der Finanzstabilität.",
+        "body": "Der IWF hat kürzlich gewarnt, dass die Verbreitung von Werkzeugen der künstlichen Intelligenz (KI) Cyberangriffe auf das globale Finanzsystem deutlich verstärken könnte. Nach Einschätzung des IWF können neue KI-Technologien selbst wenig erfahrenen Angreifern die Fähigkeit geben, kritische Infrastruktur zu kompromittieren. Cybersicherheit müsse daher nicht nur als technisches Thema, sondern als zentrale Frage der Finanzstabilität behandelt werden. Hintergrund ist die starke Abhängigkeit von Finanzinstituten und wichtiger Infrastruktur von digitalen Netzwerken. Wenn KI Automatisierung und Eindringfähigkeiten von Angriffen erhöht, können Organisationen mit schwächeren Abwehrsystemen größeren Risiken ausgesetzt sein. Die Botschaft des IWF legt nahe, dass Behörden und Finanzbranche Cyberresilienz und Reaktionssysteme in den Mittelpunkt des Stabilitätsmanagements stellen sollten. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Le FMI alerte sur les cyberattaques dopées par l’IA dans la finance",
+        "excerpt": "Le FMI a récemment déclaré que les outils d’IA peuvent permettre même à des attaquants peu qualifiés de viser des infrastructures critiques et appelle à faire de la cybersécurité un enjeu de stabilité financière.",
+        "body": "Le FMI a récemment averti que la diffusion des outils d’intelligence artificielle (IA) pourrait renforcer les cyberattaques visant le système financier mondial. Selon le FMI, les nouvelles technologies d’IA peuvent donner même à des attaquants peu qualifiés la capacité de compromettre des infrastructures critiques. La cybersécurité doit donc être traitée non comme un simple sujet technique, mais comme une question centrale de stabilité financière. Ce constat intervient alors que les institutions financières et les infrastructures essentielles dépendent fortement des réseaux numériques. Si l’IA accroît l’automatisation des attaques et les capacités d’intrusion, les organisations moins bien protégées pourraient courir davantage de risques. Le message du FMI signifie que les autorités et le secteur financier doivent placer la résilience et la réponse cyber au cœur de la gestion de la stabilité. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "صندوق النقد يحذر: الذكاء الاصطناعي يعزز الهجمات على التمويل العالمي",
+        "excerpt": "قال صندوق النقد الدولي مؤخرا إن أدوات الذكاء الاصطناعي قد تتيح حتى لمهاجمين غير مهرة اختراق بنى تحتية حيوية، داعيا إلى اعتبار الأمن السيبراني قضية استقرار مالي أساسية.",
+        "body": "حذر صندوق النقد الدولي مؤخرا من أن انتشار أدوات الذكاء الاصطناعي قد يعزز الهجمات السيبرانية التي تستهدف النظام المالي العالمي. وبحسب الصندوق، يمكن للتقنيات الجديدة أن تمنح حتى المهاجمين محدودي المهارة قدرة على اختراق بنى تحتية حيوية، ما يجعل الأمن السيبراني قضية تتجاوز الجانب التقني إلى صلب الاستقرار المالي. يأتي هذا التحذير في ظل اعتماد المؤسسات المالية والبنى الأساسية المهمة على الشبكات الرقمية بدرجة كبيرة. وإذا زاد الذكاء الاصطناعي من أتمتة الهجمات وقدرات التسلل، فقد تواجه المؤسسات ذات الدفاعات الأضعف مخاطر أكبر. وتشير رسالة الصندوق إلى ضرورة أن تضع الجهات التنظيمية والقطاع المالي المرونة السيبرانية وأنظمة الاستجابة في مركز إدارة الاستقرار. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "IMF की चेतावनी: AI साइबर हमले वैश्विक वित्त के लिए बड़ा जोखिम",
+        "excerpt": "IMF ने हाल में कहा कि AI टूल कम कुशल हमलावरों को भी महत्वपूर्ण बुनियादी ढांचे में सेंध लगाने की क्षमता दे सकते हैं और साइबर सुरक्षा को वित्तीय स्थिरता का मुख्य मुद्दा मानना चाहिए।",
+        "body": "IMF ने हाल में चेतावनी दी कि कृत्रिम बुद्धिमत्ता (AI) टूल्स का प्रसार वैश्विक वित्तीय प्रणाली को निशाना बनाने वाले साइबर हमलों को काफी मजबूत कर सकता है। IMF के अनुसार, नई AI तकनीक कम कुशल हमलावरों को भी महत्वपूर्ण बुनियादी ढांचे में सेंध लगाने की क्षमता दे सकती है, इसलिए साइबर सुरक्षा को केवल तकनीकी समस्या नहीं बल्कि वित्तीय स्थिरता के मुख्य मुद्दे के रूप में देखना चाहिए। यह चेतावनी ऐसे समय आई है जब वित्तीय संस्थान और जरूरी बुनियादी ढांचा डिजिटल नेटवर्क पर गहराई से निर्भर हैं। अगर AI हमलों के स्वचालन और घुसपैठ की क्षमता बढ़ाता है, तो कमजोर सुरक्षा वाली संस्थाओं के लिए जोखिम बढ़ सकता है। IMF का संदेश है कि नीति निर्माताओं और वित्तीय क्षेत्र को साइबर लचीलापन और प्रतिक्रिया तंत्र को स्थिरता प्रबंधन के केंद्र में रखना चाहिए। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "IMF Peringatkan AI Bisa Perkuat Serangan Siber ke Keuangan Global",
+        "excerpt": "IMF baru-baru ini menyatakan alat AI dapat membuat penyerang tak terampil menembus infrastruktur kritis dan mendesak keamanan siber diperlakukan sebagai isu inti stabilitas keuangan.",
+        "body": "IMF baru-baru ini memperingatkan bahwa penyebaran alat kecerdasan buatan (AI) dapat memperkuat serangan siber terhadap sistem keuangan global. Menurut IMF, teknologi AI baru dapat memberi kemampuan kepada penyerang dengan keterampilan rendah untuk menembus infrastruktur kritis, sehingga keamanan siber harus diperlakukan bukan sekadar masalah teknis, melainkan isu inti stabilitas keuangan. Latar belakangnya adalah ketergantungan mendalam lembaga keuangan dan infrastruktur penting pada jaringan digital. Jika AI meningkatkan otomatisasi serangan dan kemampuan intrusi, organisasi dengan pertahanan lemah dapat menghadapi risiko lebih besar. Pesan IMF menunjukkan bahwa otoritas kebijakan dan industri keuangan perlu menempatkan ketahanan siber serta sistem respons di pusat pengelolaan stabilitas. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "72a91058a994",
+    "slug": "chrome-deletes-its-own-privacy-promise-for-sneaky-on-device--334736",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T23:09:55.332Z",
+    "updatedAt": "2026-05-07T23:09:55.332Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367193/chrome-removes-privacy-claim-gemini-nano-google",
+    "canonicalUrl": "https://decrypt.co/367193/chrome-removes-privacy-claim-gemini-nano-google",
+    "titleFingerprint": "a4508276bf61056760b02dc43470b4011636235d",
+    "dedupKeys": [
+      "72a91058a994a89ad999bcf5905bd8729f2cf62e",
+      "a4508276bf61056760b02dc43470b4011636235d",
+      "0f62c86a382d1dc8b94a0594d32e0e5dae828764"
+    ],
+    "imageUrl": "/images/articles/72a91058a994.png",
+    "i18n": {
+      "ko": {
+        "title": "크롬 4GB 온디바이스 AI 논란, 개인정보 약속 문구 삭제",
+        "excerpt": "크롬이 기기에 4GB 규모 AI를 조용히 설치하는 가운데, 최신 버전에서 데이터가 구글 서버로 가지 않는다는 기존 고지 문구가 삭제돼 논란이 커지고 있다.",
+        "body": "크롬이 최신 버전에서 온디바이스 AI 관련 개인정보 고지 문구를 삭제한 것으로 전해졌다. Decrypt에 따르면 크롬은 사용자 기기에 약 4GB 규모의 AI를 조용히 설치하고 있으며, 이전에는 데이터가 구글 서버로 전송되지 않는다는 취지의 설명을 제공했다. 그러나 최신 버전에서는 해당 약속으로 읽히던 문구가 사라졌다. 이 변화는 브라우저에 내장되는 AI 기능이 사용자의 기기 저장공간과 개인정보 처리 방식에 어떤 영향을 주는지에 대한 관심을 키운다. 현재 보도에서 확인된 핵심은 4GB AI 설치와 고지 문구 삭제다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Chrome 4GB On-Device AI Raises Privacy Promise Concerns",
+        "excerpt": "Chrome is quietly installing a 4GB AI on devices, while its latest version removed wording that said user data would stay off Google’s servers.",
+        "body": "Chrome has reportedly removed privacy disclosure language tied to its on-device AI in the latest version. According to Decrypt, Chrome is quietly installing an AI package of about 4GB on user devices, and earlier wording indicated that data would not be sent to Google’s servers. In the latest version, however, the language that read as that promise has disappeared. The change increases attention on how AI features built into the browser may affect device storage and the handling of personal data. The confirmed points in the report are the 4GB AI installation and the removal of the disclosure text. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "Chromeの4GBオンデバイスAI、プライバシー文言削除で波紋",
+        "excerpt": "Chromeが端末に4GB規模のAIを静かに導入する中、最新版ではデータをGoogleサーバーへ送らないとする従来の説明文が削除された。",
+        "body": "Chromeの最新版で、オンデバイスAIに関するプライバシー説明文が削除されたと報じられた。Decryptによると、Chromeはユーザー端末に約4GB規模のAIを静かにインストールしており、以前はデータがGoogleのサーバーに送信されない趣旨の説明を示していた。しかし最新版では、その約束と読める文言が消えている。この変更により、ブラウザ内蔵AI機能が端末の保存容量や個人データの扱いにどのような影響を与えるのかへの関心が高まっている。報道で確認された要点は、4GBのAI導入と説明文の削除である。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "Chrome 4GB端侧AI引争议，隐私承诺文字被删除",
+        "excerpt": "Chrome正悄然在设备上安装约4GB AI，而最新版删除了此前称用户数据不会进入Google服务器的披露文字。",
+        "body": "据报道，Chrome在最新版本中删除了与端侧AI相关的隐私披露文字。Decrypt称，Chrome正悄然在用户设备上安装约4GB规模的AI，此前说明曾表示数据不会发送到Google服务器。然而在最新版本中，这段可被视为承诺的文字已经消失。此举让外界更加关注浏览器内置AI功能将如何影响设备存储空间以及个人数据处理方式。目前报道确认的核心信息是，Chrome安装约4GB AI，并删除了相关披露文字。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Chrome instala una IA local de 4GB y borra una promesa de privacidad",
+        "excerpt": "Chrome instala discretamente una IA de 4GB en los dispositivos y su versión más reciente eliminó el aviso de que los datos no irían a servidores de Google.",
+        "body": "Chrome habría eliminado en su versión más reciente un texto de privacidad relacionado con su IA en el dispositivo. Según Decrypt, Chrome está instalando de forma discreta una IA de unos 4GB en los dispositivos de los usuarios, y antes mostraba una explicación que indicaba que los datos no se enviarían a los servidores de Google. Sin embargo, en la versión actual esa frase, leída como una promesa, ya no aparece. El cambio aumenta la atención sobre cómo las funciones de IA integradas en el navegador pueden afectar el almacenamiento del dispositivo y el tratamiento de datos personales. Los puntos confirmados son la instalación de la IA de 4GB y la eliminación del aviso. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Chrome instala IA local de 4GB e remove promessa de privacidade",
+        "excerpt": "O Chrome instala discretamente uma IA de 4GB nos dispositivos, enquanto a versão mais recente removeu o aviso de que dados não iriam aos servidores do Google.",
+        "body": "O Chrome teria removido, em sua versão mais recente, um texto de privacidade ligado à IA no dispositivo. Segundo o Decrypt, o Chrome está instalando discretamente uma IA de cerca de 4GB nos aparelhos dos usuários, e antes exibia uma explicação de que os dados não seriam enviados aos servidores do Google. Na versão mais nova, porém, a frase que podia ser lida como essa promessa desapareceu. A mudança aumenta a atenção sobre como recursos de IA integrados ao navegador podem afetar o armazenamento do dispositivo e o tratamento de dados pessoais. Os pontos confirmados são a instalação da IA de 4GB e a remoção do aviso. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Chrome installiert 4GB-On-Device-KI und streicht Datenschutzversprechen",
+        "excerpt": "Chrome installiert still eine rund 4GB große KI auf Geräten; in der neuesten Version fehlt der Hinweis, dass Daten nicht an Google-Server gehen.",
+        "body": "Chrome soll in der neuesten Version einen Datenschutzhinweis zur On-Device-KI entfernt haben. Laut Decrypt installiert Chrome still eine etwa 4GB große KI auf Nutzergeräten. Zuvor enthielt die Erklärung den Hinweis, dass Daten nicht an Googles Server gesendet würden. In der aktuellen Version ist diese Formulierung, die als Versprechen gelesen werden konnte, jedoch verschwunden. Die Änderung lenkt mehr Aufmerksamkeit darauf, wie im Browser integrierte KI-Funktionen den Gerätespeicher und den Umgang mit personenbezogenen Daten beeinflussen könnten. Bestätigt sind laut Bericht die Installation der 4GB-KI und die Entfernung des Hinweistexts. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Chrome installe une IA locale de 4Go et retire une promesse de confidentialité",
+        "excerpt": "Chrome installe discrètement une IA de 4Go sur les appareils, tandis que sa dernière version retire l’avis disant que les données n’iraient pas chez Google.",
+        "body": "Chrome aurait supprimé dans sa dernière version un texte de confidentialité lié à son IA sur appareil. Selon Decrypt, Chrome installe discrètement une IA d’environ 4Go sur les appareils des utilisateurs, tandis qu’un précédent libellé indiquait que les données ne seraient pas envoyées aux serveurs de Google. Dans la version la plus récente, cette phrase, lisible comme une promesse, a disparu. Ce changement attire l’attention sur l’impact possible des fonctions d’IA intégrées au navigateur sur le stockage des appareils et le traitement des données personnelles. Les éléments confirmés sont l’installation de l’IA de 4Go et la suppression du texte d’information. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "كروم يثبت ذكاء اصطناعيا بحجم 4GB ويحذف وعد الخصوصية",
+        "excerpt": "يثبت Chrome بهدوء ذكاء اصطناعيا بحجم 4GB على الأجهزة، فيما حذفت نسخته الأخيرة عبارة تفيد بأن البيانات لن تصل إلى خوادم Google.",
+        "body": "أفادت تقارير بأن Chrome حذف في أحدث إصدار عبارة إفصاح عن الخصوصية مرتبطة بالذكاء الاصطناعي على الجهاز. وبحسب Decrypt، يثبت Chrome بهدوء حزمة ذكاء اصطناعي بحجم يقارب 4GB على أجهزة المستخدمين، وكانت الصياغة السابقة تشير إلى أن البيانات لن ترسل إلى خوادم Google. لكن في الإصدار الأحدث، اختفت العبارة التي كان يمكن قراءتها كتعهد بذلك. يزيد هذا التغيير الاهتمام بكيفية تأثير ميزات الذكاء الاصطناعي المدمجة في المتصفح على مساحة التخزين في الجهاز وطريقة التعامل مع البيانات الشخصية. النقاط المؤكدة في التقرير هي تثبيت ذكاء اصطناعي بحجم 4GB وحذف نص الإفصاح. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Chrome की 4GB ऑन-डिवाइस AI पर विवाद, गोपनीयता वादा हटाया गया",
+        "excerpt": "Chrome चुपचाप डिवाइसों पर 4GB AI इंस्टॉल कर रहा है, जबकि नए संस्करण से वह सूचना हट गई है कि डेटा Google सर्वर पर नहीं जाएगा।",
+        "body": "Chrome के नवीनतम संस्करण में ऑन-डिवाइस AI से जुड़ा गोपनीयता खुलासा हटाए जाने की रिपोर्ट है। Decrypt के अनुसार, Chrome उपयोगकर्ताओं के डिवाइसों पर लगभग 4GB आकार की AI चुपचाप इंस्टॉल कर रहा है। पहले दी गई भाषा में यह संकेत था कि डेटा Google के सर्वरों पर नहीं भेजा जाएगा। हालांकि नए संस्करण में वह वाक्य, जिसे इस वादे के रूप में पढ़ा जा सकता था, गायब है। इस बदलाव से ब्राउज़र में शामिल AI सुविधाओं के डिवाइस स्टोरेज और व्यक्तिगत डेटा के प्रबंधन पर असर को लेकर ध्यान बढ़ा है। रिपोर्ट में पुष्टि किए गए मुख्य बिंदु 4GB AI इंस्टॉलेशन और खुलासा पाठ को हटाना हैं। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Chrome Pasang AI 4GB di Perangkat dan Hapus Janji Privasi",
+        "excerpt": "Chrome diam-diam memasang AI 4GB di perangkat, sementara versi terbarunya menghapus keterangan bahwa data tidak akan masuk ke server Google.",
+        "body": "Chrome dilaporkan menghapus teks pengungkapan privasi terkait AI on-device pada versi terbarunya. Menurut Decrypt, Chrome diam-diam memasang AI berukuran sekitar 4GB di perangkat pengguna, dan sebelumnya memberikan keterangan bahwa data tidak akan dikirim ke server Google. Namun pada versi terbaru, kalimat yang dapat dibaca sebagai janji itu telah hilang. Perubahan ini meningkatkan perhatian terhadap bagaimana fitur AI yang tertanam di browser dapat memengaruhi ruang penyimpanan perangkat dan pemrosesan data pribadi. Poin yang terkonfirmasi dalam laporan adalah pemasangan AI 4GB dan penghapusan teks pengungkapan tersebut. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "2bba7c51b180",
+    "slug": "tom-lee-says-bitmine-may-slow-ethereum-buys-after-amassing-n-288548",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T23:09:05.969Z",
+    "updatedAt": "2026-05-07T23:09:05.970Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367192/tom-lee-bitmine-slow-ethereum-buys-12-billion-eth",
+    "canonicalUrl": "https://decrypt.co/367192/tom-lee-bitmine-slow-ethereum-buys-12-billion-eth",
+    "titleFingerprint": "d1326b7f8df0a0d8420ae238792196982501ea83",
+    "dedupKeys": [
+      "2bba7c51b18046a815355b01f5f370885437d93f",
+      "d1326b7f8df0a0d8420ae238792196982501ea83",
+      "f17120f310765bf15ff90c0a8f449bd51b9745ed"
+    ],
+    "imageUrl": "/images/articles/2bba7c51b180.jpg",
+    "i18n": {
+      "ko": {
+        "title": "BitMine ETH 매입 속도 늦추나, 톰 리 5% 공급 목표 언급",
+        "excerpt": "톰 리 BitMine 회장은 2026년 5월 7일 마이애미 Consensus 2026에서 회사가 이더리움 공급량 5% 목표에 가까워지며 ETH 매입 속도를 늦출 수 있다고 밝혔다.",
+        "body": "톰 리 BitMine Immersion Technologies 회장은 2026년 5월 7일 마이애미에서 열린 Consensus 2026 무대에서 회사가 이더리움 매입 속도를 늦출 수 있다고 말했다. 공개 상장 이더리움 트레저리 기업인 BitMine은 총 ETH 공급량의 5% 보유를 목표로 해왔으며, 현재 속도를 유지하면 약 6주 안에 목표에 도달할 수 있다고 설명했다. 회사는 5월 3일 기준 518만 ETH를 보유해 이더리움 총 공급량 1억2070만 ETH의 4.29%에 해당한다고 밝혔다. ETH 가격 기준 보유분은 약 120억 달러에 근접한다. decrypt.co에 따르면 BitMine의 총 암호화폐, 현금 및 지분 보유액은 131억 달러이며 여기에는 200 BTC, 현금 7억 달러, Beast Industries와 Eightco Holdings 지분이 포함된다."
+      },
+      "en": {
+        "title": "BitMine May Slow ETH Buying as Tom Lee Cites 5% Supply Goal",
+        "excerpt": "BitMine Chairman Tom Lee said on May 7, 2026 at Consensus 2026 in Miami that the Ethereum treasury firm may slow ETH purchases as it nears its 5% supply target.",
+        "body": "BitMine Immersion Technologies Chairman Tom Lee said on May 7, 2026, at Consensus 2026 in Miami that the company may slow its Ethereum buying pace. The publicly traded Ethereum treasury firm has aimed to hold 5% of total ETH supply, and Lee said it could reach that target in about six weeks if it keeps buying at the current rate. BitMine said it held 5.18 million ETH as of May 3, equal to 4.29% of Ethereum’s 120.7 million ETH supply. Its ETH position is near $12 billion based on market pricing. According to decrypt.co, BitMine’s total crypto, cash, and equity holdings stood at $13.1 billion, including 200 BTC, $700 million in cash, and stakes in Beast Industries and Eightco Holdings."
+      },
+      "ja": {
+        "title": "BitMine、ETH購入減速も トム・リー氏が5%保有目標に言及",
+        "excerpt": "BitMineのトム・リー会長は2026年5月7日、マイアミのConsensus 2026で、5%供給目標に近づく中でETH購入を減速する可能性を示した。",
+        "body": "BitMine Immersion Technologiesのトム・リー会長は2026年5月7日、マイアミで開かれたConsensus 2026の壇上で、同社がイーサリアム購入のペースを落とす可能性があると述べた。上場イーサリアム・トレジャリー企業であるBitMineは、ETH総供給量の5%保有を目標としており、現在のペースを続ければ約6週間で目標に届く可能性があるという。同社は5月3日時点で518万ETHを保有し、1億2070万ETHの総供給量の4.29%に相当すると発表した。市場価格ベースでETH保有額は約120億ドルに迫る。decrypt.coによると、同社の暗号資産、現金、株式持分の合計は131億ドルで、200 BTC、現金7億ドル、Beast IndustriesとEightco Holdingsの持分を含む。"
+      },
+      "zh": {
+        "title": "BitMine或放慢ETH买入，Tom Lee提及5%供应目标",
+        "excerpt": "BitMine董事长Tom Lee于2026年5月7日在迈阿密Consensus 2026表示，随着接近以太坊5%供应目标，公司可能放慢ETH购买速度。",
+        "body": "BitMine Immersion Technologies董事长Tom Lee于2026年5月7日在迈阿密举行的Consensus 2026上表示，公司可能放慢以太坊买入速度。作为一家上市以太坊财库公司，BitMine一直以持有ETH总供应量5%为目标；Lee称，如果维持当前购买节奏，公司约六周内可能达到该目标。BitMine表示，截至5月3日，公司持有518万枚ETH，占以太坊1.207亿枚总供应量的4.29%。按市场价格计算，其ETH持仓接近120亿美元。decrypt.co称，BitMine的加密资产、现金和股权持仓总额为131亿美元，其中包括200枚BTC、7亿美元现金，以及Beast Industries和Eightco Holdings股权。"
+      },
+      "es": {
+        "title": "BitMine podría frenar compras de ETH, dice Tom Lee por meta del 5%",
+        "excerpt": "Tom Lee, presidente de BitMine, dijo el 7 de mayo de 2026 en Consensus 2026 en Miami que la firma podría reducir compras de ETH al acercarse a su meta del 5%.",
+        "body": "Tom Lee, presidente de BitMine Immersion Technologies, dijo el 7 de mayo de 2026 en Consensus 2026 en Miami que la compañía podría reducir el ritmo de compras de Ethereum. La firma cotizada de tesorería en Ethereum tiene como objetivo mantener el 5% del suministro total de ETH, y Lee señaló que podría alcanzar esa meta en unas seis semanas si continúa comprando al ritmo actual. BitMine informó que al 3 de mayo mantenía 5,18 millones de ETH, equivalentes al 4,29% del suministro total de 120,7 millones de ETH. Su posición en ETH se acerca a los 12.000 millones de dólares según precios de mercado. Según decrypt.co, los activos totales en cripto, efectivo y participaciones de BitMine sumaban 13.100 millones de dólares, incluidos 200 BTC, 700 millones en efectivo y participaciones en Beast Industries y Eightco Holdings."
+      },
+      "pt": {
+        "title": "BitMine pode reduzir compras de ETH, diz Tom Lee sobre meta de 5%",
+        "excerpt": "Tom Lee, presidente da BitMine, disse em 7 de maio de 2026 na Consensus 2026 em Miami que a empresa pode desacelerar compras de ETH ao se aproximar da meta de 5%.",
+        "body": "Tom Lee, presidente da BitMine Immersion Technologies, disse em 7 de maio de 2026, na Consensus 2026 em Miami, que a empresa pode desacelerar o ritmo de compras de Ethereum. A companhia listada de tesouraria em Ethereum tem como meta deter 5% da oferta total de ETH, e Lee afirmou que poderia atingir esse objetivo em cerca de seis semanas se mantiver o ritmo atual. A BitMine informou que possuía 5,18 milhões de ETH em 3 de maio, equivalentes a 4,29% da oferta total de 120,7 milhões de ETH. A posição em ETH se aproxima de US$ 12 bilhões com base nos preços de mercado. Segundo decrypt.co, o total em cripto, caixa e participações da BitMine era de US$ 13,1 bilhões, incluindo 200 BTC, US$ 700 milhões em caixa e participações na Beast Industries e na Eightco Holdings."
+      },
+      "de": {
+        "title": "BitMine könnte ETH-Käufe bremsen, Tom Lee nennt 5%-Ziel",
+        "excerpt": "BitMine-Chairman Tom Lee sagte am 7. Mai 2026 auf der Consensus 2026 in Miami, das Unternehmen könnte ETH-Käufe verlangsamen, da es dem 5%-Ziel näherkommt.",
+        "body": "Tom Lee, Chairman von BitMine Immersion Technologies, sagte am 7. Mai 2026 auf der Consensus 2026 in Miami, dass das Unternehmen sein Tempo beim Kauf von Ethereum möglicherweise verringern werde. Die börsennotierte Ethereum-Treasury-Firma verfolgt das Ziel, 5% des gesamten ETH-Angebots zu halten. Lee erklärte, BitMine könne dieses Ziel in etwa sechs Wochen erreichen, wenn es im aktuellen Tempo weiterkaufe. Das Unternehmen teilte mit, zum 3. Mai 5,18 Millionen ETH zu halten, was 4,29% des Gesamtangebots von 120,7 Millionen ETH entspricht. Der ETH-Bestand nähert sich nach Marktpreisen 12 Milliarden US-Dollar. Laut decrypt.co beliefen sich BitMines gesamte Krypto-, Bar- und Beteiligungsbestände auf 13,1 Milliarden US-Dollar, darunter 200 BTC, 700 Millionen US-Dollar in bar sowie Anteile an Beast Industries und Eightco Holdings."
+      },
+      "fr": {
+        "title": "BitMine pourrait ralentir ses achats d’ETH, Tom Lee évoque l’objectif de 5%",
+        "excerpt": "Tom Lee, président de BitMine, a déclaré le 7 mai 2026 à Consensus 2026 à Miami que la société pourrait ralentir ses achats d’ETH en approchant son objectif de 5%.",
+        "body": "Tom Lee, président de BitMine Immersion Technologies, a déclaré le 7 mai 2026, lors de Consensus 2026 à Miami, que la société pourrait ralentir le rythme de ses achats d’Ethereum. Cette entreprise cotée de trésorerie en Ethereum vise à détenir 5% de l’offre totale d’ETH, et Lee a indiqué qu’elle pourrait atteindre cet objectif en environ six semaines si elle maintenait son rythme actuel. BitMine a déclaré détenir 5,18 millions d’ETH au 3 mai, soit 4,29% de l’offre totale de 120,7 millions d’ETH. Sa position en ETH approche 12 milliards de dollars aux prix de marché. Selon decrypt.co, les avoirs totaux de BitMine en crypto, liquidités et participations atteignaient 13,1 milliards de dollars, dont 200 BTC, 700 millions de dollars en cash et des participations dans Beast Industries et Eightco Holdings."
+      },
+      "ar": {
+        "title": "BitMine قد تبطئ شراء ETH مع اقتراب هدف 5% بحسب توم لي",
+        "excerpt": "قال توم لي، رئيس BitMine، في 7 مايو 2026 خلال Consensus 2026 في ميامي إن الشركة قد تبطئ شراء ETH مع اقترابها من هدف امتلاك 5% من المعروض.",
+        "body": "قال توم لي، رئيس BitMine Immersion Technologies، في 7 مايو 2026 خلال مؤتمر Consensus 2026 في ميامي إن الشركة قد تخفض وتيرة شراء إيثريوم. وتستهدف شركة الخزانة المدرجة في السوق امتلاك 5% من إجمالي معروض ETH، وأوضح لي أنها قد تصل إلى هذا الهدف خلال نحو ستة أسابيع إذا واصلت الشراء بالمعدل الحالي. وقالت BitMine إنها كانت تمتلك 5.18 مليون ETH في 3 مايو، بما يعادل 4.29% من إجمالي معروض إيثريوم البالغ 120.7 مليون ETH. وتقترب قيمة حيازتها من ETH من 12 مليار دولار وفق أسعار السوق. وبحسب decrypt.co، بلغت حيازات BitMine الإجمالية من العملات المشفرة والنقد والحصص 13.1 مليار دولار، وتشمل 200 BTC و700 مليون دولار نقدا وحصصا في Beast Industries وEightco Holdings."
+      },
+      "hi": {
+        "title": "BitMine ETH खरीद धीमी कर सकती है, Tom Lee ने 5% लक्ष्य बताया",
+        "excerpt": "BitMine के चेयरमैन Tom Lee ने 7 मई 2026 को मियामी में Consensus 2026 के दौरान कहा कि 5% आपूर्ति लक्ष्य के करीब पहुंचने पर कंपनी ETH खरीद धीमी कर सकती है।",
+        "body": "BitMine Immersion Technologies के चेयरमैन Tom Lee ने 7 मई 2026 को मियामी में Consensus 2026 के मंच पर कहा कि कंपनी Ethereum खरीदने की गति धीमी कर सकती है। सूचीबद्ध Ethereum ट्रेजरी कंपनी BitMine का लक्ष्य कुल ETH आपूर्ति का 5% रखना है, और Lee ने कहा कि मौजूदा गति जारी रही तो कंपनी लगभग छह सप्ताह में इस लक्ष्य तक पहुंच सकती है। कंपनी ने बताया कि 3 मई तक उसके पास 5.18 मिलियन ETH थे, जो Ethereum की 120.7 मिलियन ETH कुल आपूर्ति का 4.29% है। बाजार मूल्य के आधार पर यह ETH होल्डिंग लगभग 12 अरब डॉलर के करीब है। decrypt.co के अनुसार, BitMine की कुल क्रिप्टो, नकद और इक्विटी होल्डिंग 13.1 अरब डॉलर थी, जिसमें 200 BTC, 700 मिलियन डॉलर नकद, और Beast Industries व Eightco Holdings में हिस्सेदारी शामिल है।"
+      },
+      "id": {
+        "title": "BitMine Bisa Perlambat Beli ETH, Tom Lee Soroti Target Pasokan 5%",
+        "excerpt": "Ketua BitMine Tom Lee mengatakan pada 7 Mei 2026 di Consensus 2026 Miami bahwa perusahaan bisa memperlambat pembelian ETH saat mendekati target pasokan 5%.",
+        "body": "Ketua BitMine Immersion Technologies Tom Lee mengatakan pada 7 Mei 2026 di panggung Consensus 2026 di Miami bahwa perusahaan mungkin memperlambat laju pembelian Ethereum. Perusahaan treasury Ethereum yang diperdagangkan publik itu menargetkan kepemilikan 5% dari total pasokan ETH, dan Lee mengatakan target tersebut bisa tercapai dalam sekitar enam minggu jika pembelian berlanjut pada laju saat ini. BitMine menyatakan memiliki 5,18 juta ETH per 3 Mei, setara 4,29% dari total pasokan Ethereum sebesar 120,7 juta ETH. Nilai posisi ETH itu mendekati 12 miliar dolar AS berdasarkan harga pasar. Menurut decrypt.co, total kepemilikan kripto, kas, dan ekuitas BitMine mencapai 13,1 miliar dolar AS, termasuk 200 BTC, kas 700 juta dolar AS, serta saham di Beast Industries dan Eightco Holdings."
+      }
+    }
+  },
+  {
     "id": "ca539ee2d41b",
     "slug": "coinbase-shares-slide-as-crypto-giant-reports-394-million-q1-271642",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Altcoin Menguat Saat Bitcoin dan Ether Turun dari Puncak Mingguan",
         "excerpt": "Pada Kamis, sentimen pasar kripto yang membaik mendorong trader masuk ke aset berisiko lebih tinggi, membuat altcoin mengungguli bitcoin dan ether.",
         "body": "Altcoin mencatat kinerja lebih baik daripada bitcoin dan ether dalam perdagangan kripto pada Kamis. Saat bitcoin dan ether mundur dari level tertinggi mingguan, trader mengalihkan dana ke aset yang lebih berisiko seiring membaiknya sentimen pasar. Pergerakan ini menunjukkan bahwa ketika momentum dua kripto utama melemah, minat terhadap risiko menyebar ke sebagian pasar altcoin. Laporan asli tidak menyebutkan angka kenaikan per token atau data volume perdagangan. Ke depan, perhatian pasar akan tertuju pada apakah bitcoin dan ether dapat kembali ke puncak mingguan, serta apakah rotasi dana ke altcoin berlanjut. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "7f41e9076135",
-    "slug": "bithumb-enters-vietnam-crypto-license-race-with-ssi-digital--288813",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T09:50:02.791Z",
-    "updatedAt": "2026-05-07T09:50:02.791Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/bithumb-moves-vietnams-crypto-exchange-race-ssi-digital-tie-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/bithumb-moves-vietnams-crypto-exchange-race-ssi-digital-tie-up",
-    "titleFingerprint": "9676570c31391c26a9501908bce5e9545d6c6e5e",
-    "dedupKeys": [
-      "7f41e9076135a9014b2aa6a2814a65fa6087123e",
-      "9676570c31391c26a9501908bce5e9545d6c6e5e",
-      "88ac6f6673c30d8f5d4a362acd762db22d3db995"
-    ],
-    "imageUrl": "/images/articles/7f41e9076135.jpg",
-    "i18n": {
-      "ko": {
-        "title": "빗썸, SSI디지털 제휴로 베트남 가상자산 거래소 인가 경쟁 합류",
-        "excerpt": "빗썸은 SSI디지털과의 제휴로 베트남의 엄격한 가상자산 거래소 시범 인가 경쟁에 뛰어들었다. 희소한 라이선스를 둘러싼 경쟁이 치열해지는 가운데 국내 감시도 커지고 있다.",
-        "body": "빗썸이 SSI디지털과 손잡고 베트남 가상자산 거래소 시범 인가 경쟁에 뛰어들었다. 이번 제휴는 베트남이 엄격한 기준 아래 추진하는 암호화폐 거래소 파일럿 제도에서 입지를 확보하려는 움직임으로 해석된다. 현지에서는 발급 가능한 라이선스가 제한적인 만큼 경쟁이 빠르게 달아오르고 있다. 동시에 빗썸은 국내에서도 감시와 규제 관심이 커지는 상황에 놓여 있다. 이번 협력은 해외 시장 진출 기회를 넓히는 동시에 제한된 인가를 둘러싼 경쟁 압박을 키울 수 있다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Bithumb joins Vietnam crypto exchange license race with SSI Digital deal",
-        "excerpt": "Bithumb has entered Vietnam’s strict crypto exchange pilot race through a tie-up with SSI Digital, as competition for scarce licenses intensifies and scrutiny rises at home.",
-        "body": "Bithumb has partnered with SSI Digital to enter Vietnam’s pilot licensing race for crypto exchanges. The deal positions the Korean exchange for a market where Vietnam is pursuing a tightly controlled framework for digital asset trading platforms. Because available licenses are scarce, competition among would-be operators is heating up. At the same time, Bithumb faces growing scrutiny in its home market. The partnership could expand its overseas opportunity while increasing exposure to a highly competitive licensing process. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "ビッサム、SSIデジタル提携でベトナム暗号資産取引所認可競争へ",
-        "excerpt": "ビッサムはSSIデジタルとの提携により、ベトナムの厳格な暗号資産取引所試験認可競争に参入した。希少なライセンスを巡る競争が激化し、国内での監視も強まっている。",
-        "body": "ビッサムはSSIデジタルと提携し、ベトナムの暗号資産取引所試験認可を巡る競争に加わった。今回の提携は、ベトナムが厳格な基準の下で進める暗号資産取引所パイロット制度において、足場を確保する動きとみられる。現地では発給されるライセンスが限られるため、競争が急速に熱を帯びている。一方で、ビッサムは本国でも監視と規制上の関心が高まる状況にある。今回の協力は海外市場での機会を広げる一方、限定的な認可を巡る競争圧力も高める可能性がある。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "Bithumb携手SSI Digital加入越南加密交易所牌照竞争",
-        "excerpt": "Bithumb通过与SSI Digital合作，进入越南严格的加密货币交易所试点牌照竞争；稀缺牌照争夺升温之际，其本土监管关注也在增加。",
-        "body": "Bithumb已与SSI Digital达成合作，加入越南加密货币交易所试点牌照竞争。此次合作使这家韩国交易所能够切入越南正在以严格标准推进的数字资产交易平台试点框架。由于可获得的牌照数量有限，潜在运营方之间的竞争正在迅速升温。与此同时，Bithumb在本土市场也面临更高的审视和监管关注。该合作可能扩大其海外市场机会，但也意味着要面对围绕稀缺牌照的更大竞争压力。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "Bithumb entra en la carrera de licencias cripto de Vietnam con SSI Digital",
-        "excerpt": "Bithumb entra en el estricto piloto vietnamita de licencias para exchanges cripto mediante su alianza con SSI Digital, mientras se intensifica la competencia por permisos escasos y aumenta el escrutinio local.",
-        "body": "Bithumb se ha aliado con SSI Digital para entrar en la carrera por licencias piloto de exchanges de criptomonedas en Vietnam. El acuerdo posiciona a la bolsa surcoreana ante un marco que Vietnam impulsa con criterios estrictos para plataformas de negociación de activos digitales. Como las licencias disponibles son limitadas, la competencia entre posibles operadores se acelera. Al mismo tiempo, Bithumb afronta un mayor escrutinio en su mercado local. La cooperación puede ampliar sus oportunidades en el extranjero, pero también aumenta su exposición a un proceso de licencias muy disputado. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Bithumb entra na disputa por licença cripto no Vietnã com SSI Digital",
-        "excerpt": "A Bithumb entrou no rigoroso piloto vietnamita de licenças para exchanges cripto por meio de parceria com a SSI Digital, enquanto a disputa por autorizações escassas cresce e a fiscalização doméstica aumenta.",
-        "body": "A Bithumb firmou parceria com a SSI Digital para entrar na disputa por licenças piloto de exchanges de criptomoedas no Vietnã. O acordo posiciona a corretora sul-coreana em um mercado no qual o Vietnã avança com uma estrutura rigidamente controlada para plataformas de negociação de ativos digitais. Como as licenças disponíveis são escassas, a competição entre possíveis operadores se intensifica. Ao mesmo tempo, a Bithumb enfrenta maior escrutínio em seu mercado doméstico. A cooperação pode ampliar suas oportunidades externas, mas também eleva a pressão de competir por autorizações limitadas. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Bithumb steigt mit SSI Digital in Vietnams Krypto-Lizenzrennen ein",
-        "excerpt": "Bithumb steigt über eine Partnerschaft mit SSI Digital in Vietnams strenges Pilotverfahren für Krypto-Börsenlizenzen ein, während der Wettbewerb um knappe Genehmigungen zunimmt und die Kontrolle daheim wächst.",
-        "body": "Bithumb hat sich mit SSI Digital zusammengeschlossen, um am vietnamesischen Pilotverfahren für Lizenzen von Krypto-Börsen teilzunehmen. Die Vereinbarung positioniert die koreanische Börse in einem Markt, in dem Vietnam einen streng kontrollierten Rahmen für Handelsplattformen digitaler Vermögenswerte vorantreibt. Da verfügbare Lizenzen knapp sind, verschärft sich der Wettbewerb unter möglichen Betreibern. Gleichzeitig steht Bithumb im Heimatmarkt unter wachsender Beobachtung. Die Partnerschaft kann die Chancen im Ausland erweitern, erhöht aber auch den Druck eines stark umkämpften Lizenzprozesses. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Bithumb rejoint la course aux licences crypto au Vietnam avec SSI Digital",
-        "excerpt": "Bithumb entre dans le strict pilote vietnamien de licences pour plateformes crypto grâce à son accord avec SSI Digital, alors que la concurrence pour des autorisations rares s’intensifie et que la surveillance augmente dans son pays.",
-        "body": "Bithumb s’est associé à SSI Digital pour rejoindre la course aux licences pilotes des plateformes d’échange de cryptomonnaies au Vietnam. Cet accord positionne la plateforme coréenne dans un marché où le Vietnam met en place un cadre strictement contrôlé pour les plateformes d’actifs numériques. Les licences disponibles étant limitées, la concurrence entre opérateurs potentiels s’intensifie rapidement. Dans le même temps, Bithumb fait face à une surveillance accrue sur son marché domestique. Cette coopération peut élargir ses perspectives à l’étranger tout en l’exposant à une procédure d’agrément très disputée. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "بيثومب تدخل سباق تراخيص العملات المشفرة في فيتنام عبر SSI Digital",
-        "excerpt": "دخلت بيثومب سباق برنامج فيتنام الصارم لترخيص منصات العملات المشفرة عبر شراكة مع SSI Digital، مع اشتداد المنافسة على التراخيص المحدودة وتزايد التدقيق في سوقها المحلي.",
-        "body": "دخلت بيثومب في شراكة مع SSI Digital للمشاركة في سباق تراخيص تجريبي لمنصات تداول العملات المشفرة في فيتنام. تضع هذه الخطوة المنصة الكورية في موقع متقدم داخل إطار تنظيمي تدفعه فيتنام بمعايير صارمة لمنصات تداول الأصول الرقمية. وبما أن عدد التراخيص المتاحة محدود، فإن المنافسة بين المشغلين المحتملين تزداد حدة. في الوقت نفسه، تواجه بيثومب تدقيقا متناميا في سوقها المحلي. وقد توسع هذه الشراكة فرصها الخارجية، لكنها تزيد أيضا تعرضها لضغط المنافسة على تراخيص نادرة. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Bithumb SSI Digital सौदे से वियतनाम की क्रिप्टो लाइसेंस दौड़ में उतरा",
-        "excerpt": "Bithumb ने SSI Digital के साथ साझेदारी के जरिए वियतनाम के सख्त क्रिप्टो एक्सचेंज पायलट लाइसेंस मुकाबले में प्रवेश किया है, जबकि सीमित लाइसेंसों की होड़ और घरेलू निगरानी बढ़ रही है।",
-        "body": "Bithumb ने SSI Digital के साथ साझेदारी कर वियतनाम में क्रिप्टो एक्सचेंजों के पायलट लाइसेंस की दौड़ में प्रवेश किया है। यह सौदा कोरियाई एक्सचेंज को उस बाजार के लिए तैयार करता है जहां वियतनाम डिजिटल एसेट ट्रेडिंग प्लेटफॉर्म के लिए कड़े नियंत्रण वाला ढांचा आगे बढ़ा रहा है। उपलब्ध लाइसेंस सीमित होने के कारण संभावित ऑपरेटरों के बीच प्रतिस्पर्धा तेज हो रही है। इसी समय, Bithumb अपने घरेलू बाजार में बढ़ती जांच और नियामकीय ध्यान का सामना कर रहा है। यह साझेदारी उसके विदेशी अवसर बढ़ा सकती है, लेकिन सीमित लाइसेंस प्रक्रिया में प्रतिस्पर्धी दबाव भी बढ़ाती है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Bithumb masuk perebutan lisensi kripto Vietnam lewat SSI Digital",
-        "excerpt": "Bithumb masuk ke program percontohan lisensi bursa kripto Vietnam yang ketat melalui kemitraan dengan SSI Digital, saat persaingan atas izin terbatas memanas dan pengawasan di dalam negeri meningkat.",
-        "body": "Bithumb bermitra dengan SSI Digital untuk masuk ke persaingan lisensi percontohan bursa kripto di Vietnam. Kesepakatan ini menempatkan bursa Korea tersebut dalam posisi untuk mengikuti kerangka yang sedang didorong Vietnam dengan standar ketat bagi platform perdagangan aset digital. Karena lisensi yang tersedia terbatas, persaingan di antara calon operator semakin panas. Pada saat yang sama, Bithumb menghadapi peningkatan pengawasan di pasar domestiknya. Kerja sama ini dapat memperluas peluang luar negeri, tetapi juga menambah tekanan dalam proses lisensi yang sangat kompetitif. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "260362b289ff",
-    "slug": "luffa-unveils-major-brand-upgrade-repositioned-as-ai-web3-su-629285",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T09:48:51.622Z",
-    "updatedAt": "2026-05-07T09:48:51.622Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/press-releases/luffa-unveils-major-brand-upgrade-repositioned-as-ai-web3-super-connector?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/press-releases/luffa-unveils-major-brand-upgrade-repositioned-as-ai-web3-super-connector",
-    "titleFingerprint": "346f5669b0e11c522a1ba4e557cc17482e94b6e0",
-    "dedupKeys": [
-      "260362b289ff2ed8ec2e8078d12768691ba6b78a",
-      "346f5669b0e11c522a1ba4e557cc17482e94b6e0",
-      "5fc4713005ab713e716d328f41e9ad3d5924ae54"
-    ],
-    "imageUrl": "/images/articles/260362b289ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Luffa, AI×Web3 슈퍼 커넥터로 브랜드 재정비 공식 발표",
-        "excerpt": "글로벌 지능형 생태계 플랫폼 기업 Luffa가 오늘 대규모 브랜드 업그레이드를 발표하고 AI×Web3 슈퍼 커넥터로 재포지셔닝했다.",
-        "body": "Luffa는 오늘 대규모 브랜드 업그레이드를 공식 발표하고 자사를 AI×Web3 슈퍼 커넥터로 재포지셔닝한다고 밝혔다. 원문에 따르면 Luffa는 글로벌 지능형 생태계 플랫폼 분야의 선도 기업으로 소개됐다. 이번 발표의 핵심은 브랜드 정체성을 AI와 Web3를 연결하는 역할에 맞춰 새롭게 정리한 것이다. 구체적인 제품 변화, 일정, 수치 등 추가 세부사항은 원문에 제시되지 않았다. 이번 재정비는 Luffa가 지능형 생태계 플랫폼이라는 기존 포지션을 바탕으로 AI와 Web3 연결성에 초점을 맞추겠다는 메시지로 해석된다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Luffa Announces Brand Upgrade as AI×Web3 Super Connector",
-        "excerpt": "Luffa, a global intelligent ecosystem platform leader, today announced a major brand upgrade and repositioned itself as an AI×Web3 Super Connector.",
-        "body": "Luffa today officially announced a major brand upgrade, saying it is repositioning itself as an AI×Web3 Super Connector. According to the original report, Luffa is described as a global leader in intelligent ecosystem platforms. The central point of the announcement is a refreshed brand identity focused on connecting AI and Web3. The source did not provide further details on product changes, timelines, or numerical targets. The repositioning signals Luffa’s intent to emphasize AI and Web3 connectivity while building on its existing role as an intelligent ecosystem platform. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "Luffa、AI×Web3スーパーコネクターへブランド刷新を発表",
-        "excerpt": "グローバルなインテリジェント・エコシステムプラットフォーム企業Luffaは本日、大規模なブランド刷新を発表し、AI×Web3スーパーコネクターへ再定義した。",
-        "body": "Luffaは本日、大規模なブランドアップグレードを正式に発表し、自社をAI×Web3スーパーコネクターとして再ポジショニングすると明らかにした。原文によると、Luffaはインテリジェント・エコシステムプラットフォーム分野のグローバルリーダーとして紹介されている。発表の中心は、AIとWeb3をつなぐ役割に合わせてブランドの位置づけを整理した点にある。製品変更、日程、具体的な数値などの追加情報は原文では示されていない。今回の刷新は、既存のプラットフォームとしての立場を基盤に、AIとWeb3の接続性を重視する姿勢を示すものだ。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "Luffa宣布品牌升级，定位AI×Web3超级连接器",
-        "excerpt": "全球智能生态平台企业Luffa今日宣布重大品牌升级，并将自身重新定位为AI×Web3超级连接器。",
-        "body": "Luffa今日正式宣布重大品牌升级，并表示将自身重新定位为AI×Web3超级连接器。根据原文，Luffa被介绍为全球智能生态平台领域的领导者。此次公告的核心，是围绕连接AI与Web3这一角色，重新梳理品牌定位。原文未提供具体产品变化、时间表或相关数据等更多细节。此次品牌调整表明，Luffa将在既有智能生态平台定位基础上，进一步强调AI与Web3之间的连接能力。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Luffa anuncia renovación de marca como superconector AI×Web3",
-        "excerpt": "Luffa, líder global en plataformas de ecosistemas inteligentes, anunció hoy una importante actualización de marca y se reposicionó como superconector AI×Web3.",
-        "body": "Luffa anunció hoy oficialmente una importante actualización de marca y afirmó que se reposiciona como superconector AI×Web3. Según el texto original, Luffa es presentada como líder global en plataformas de ecosistemas inteligentes. El punto central del anuncio es una identidad de marca reorganizada en torno al papel de conectar la IA y Web3. La fuente no ofreció detalles adicionales sobre cambios de producto, calendario o cifras concretas. Este reposicionamiento indica que Luffa busca enfatizar la conectividad entre IA y Web3 sobre la base de su posición existente como plataforma de ecosistema inteligente. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Luffa anuncia atualização de marca como superconector AI×Web3",
-        "excerpt": "A Luffa, líder global em plataformas de ecossistemas inteligentes, anunciou hoje uma grande atualização de marca e se reposicionou como superconector AI×Web3.",
-        "body": "A Luffa anunciou hoje oficialmente uma grande atualização de marca, afirmando que se reposiciona como superconector AI×Web3. Segundo o texto original, a Luffa é descrita como líder global em plataformas de ecossistemas inteligentes. O ponto central do anúncio é uma identidade de marca reorganizada em torno do papel de conectar IA e Web3. A fonte não apresentou detalhes adicionais sobre mudanças de produto, cronograma ou números específicos. Esse reposicionamento indica que a Luffa pretende enfatizar a conectividade entre IA e Web3 com base em sua posição existente como plataforma de ecossistema inteligente. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Luffa verkündet Markenupdate als AI×Web3 Super Connector",
-        "excerpt": "Luffa, ein global führendes Unternehmen für intelligente Ökosystem-Plattformen, kündigte heute ein großes Markenupdate an und positioniert sich als AI×Web3 Super Connector neu.",
-        "body": "Luffa hat heute offiziell ein großes Markenupdate angekündigt und erklärt, sich als AI×Web3 Super Connector neu zu positionieren. Laut Originalmeldung wird Luffa als globaler Marktführer im Bereich intelligenter Ökosystem-Plattformen beschrieben. Im Mittelpunkt der Mitteilung steht eine geschärfte Markenidentität, die auf die Verbindung von KI und Web3 ausgerichtet ist. Weitere Details zu Produktänderungen, Zeitplänen oder konkreten Zahlen nannte die Quelle nicht. Die Neupositionierung zeigt, dass Luffa auf Basis seiner bestehenden Rolle als intelligente Ökosystem-Plattform die Verbindung von KI und Web3 stärker betonen will. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Luffa annonce une refonte de marque comme Super Connector AI×Web3",
-        "excerpt": "Luffa, leader mondial des plateformes d’écosystèmes intelligents, a annoncé aujourd’hui une importante évolution de marque et se repositionne comme Super Connector AI×Web3.",
-        "body": "Luffa a officiellement annoncé aujourd’hui une importante évolution de marque, indiquant se repositionner comme Super Connector AI×Web3. Selon le texte original, Luffa est présenté comme un leader mondial des plateformes d’écosystèmes intelligents. Le cœur de l’annonce porte sur une identité de marque recentrée autour du rôle de connexion entre l’IA et le Web3. La source ne donne pas d’autres détails sur des changements de produits, un calendrier ou des chiffres précis. Ce repositionnement montre que Luffa entend mettre l’accent sur la connectivité entre IA et Web3 en s’appuyant sur sa position existante de plateforme d’écosystème intelligent. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "Luffa تعلن ترقية علامتها كموصل فائق بين AI وWeb3",
-        "excerpt": "أعلنت Luffa، الرائدة عالميا في منصات الأنظمة البيئية الذكية، اليوم ترقية كبيرة لعلامتها التجارية وإعادة تموضعها كموصل فائق بين AI وWeb3.",
-        "body": "أعلنت Luffa اليوم رسميا عن ترقية كبيرة لعلامتها التجارية، وقالت إنها تعيد تموضعها كموصل فائق بين AI وWeb3. ووفق النص الأصلي، توصف Luffa بأنها رائدة عالميا في منصات الأنظمة البيئية الذكية. يتمثل جوهر الإعلان في إعادة صياغة هوية العلامة حول دور الربط بين الذكاء الاصطناعي وWeb3. ولم يقدم المصدر تفاصيل إضافية عن تغييرات في المنتجات أو جداول زمنية أو أرقام محددة. وتشير هذه الخطوة إلى أن Luffa تريد إبراز اتصال AI وWeb3 انطلاقا من موقعها القائم كمنصة نظام بيئي ذكي. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "Luffa ने AI×Web3 सुपर कनेक्टर के रूप में ब्रांड अपग्रेड घोषित किया",
-        "excerpt": "इंटेलिजेंट इकोसिस्टम प्लेटफॉर्म की वैश्विक अग्रणी Luffa ने आज बड़े ब्रांड अपग्रेड की घोषणा की और खुद को AI×Web3 सुपर कनेक्टर के रूप में पुनर्स्थापित किया।",
-        "body": "Luffa ने आज आधिकारिक रूप से एक बड़े ब्रांड अपग्रेड की घोषणा की और कहा कि वह खुद को AI×Web3 सुपर कनेक्टर के रूप में पुनर्स्थापित कर रही है। मूल रिपोर्ट के अनुसार, Luffa को इंटेलिजेंट इकोसिस्टम प्लेटफॉर्म क्षेत्र की वैश्विक अग्रणी कंपनी बताया गया है। इस घोषणा का मुख्य बिंदु AI और Web3 को जोड़ने की भूमिका के अनुरूप ब्रांड पहचान को फिर से व्यवस्थित करना है। स्रोत में उत्पाद बदलाव, समयसीमा या विशिष्ट आंकड़ों पर अतिरिक्त जानकारी नहीं दी गई। यह पुनर्स्थापन संकेत देता है कि Luffa अपने मौजूदा इंटेलिजेंट इकोसिस्टम प्लेटफॉर्म आधार पर AI और Web3 कनेक्टिविटी पर जोर देना चाहती है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Luffa Umumkan Upgrade Merek sebagai Super Connector AI×Web3",
-        "excerpt": "Luffa, pemimpin global platform ekosistem cerdas, hari ini mengumumkan upgrade besar merek dan memosisikan ulang diri sebagai Super Connector AI×Web3.",
-        "body": "Luffa hari ini secara resmi mengumumkan upgrade besar merek dan menyatakan bahwa perusahaan memosisikan ulang diri sebagai Super Connector AI×Web3. Menurut teks asli, Luffa diperkenalkan sebagai pemimpin global di bidang platform ekosistem cerdas. Inti pengumuman ini adalah penataan ulang identitas merek yang berfokus pada peran menghubungkan AI dan Web3. Sumber tidak memberikan rincian tambahan tentang perubahan produk, jadwal, atau angka tertentu. Reposisi ini menunjukkan bahwa Luffa ingin menekankan konektivitas AI dan Web3 dengan berlandaskan posisinya saat ini sebagai platform ekosistem cerdas. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "17125a9435bd",
-    "slug": "the-metaverse-isnt-a-place-why-animocas-yat-siu-says-the-fut-426191",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T09:48:00.997Z",
-    "updatedAt": "2026-05-07T09:48:00.997Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/07/animoca-pivots-from-virtual-worlds-to-an-ai-driven-metaverse-at-consensus-2026",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/07/animoca-pivots-from-virtual-worlds-to-an-ai-driven-metaverse-at-consensus-2026",
-    "titleFingerprint": "c88ff50f539dd7c54c32103a1c679d87ce5b5069",
-    "dedupKeys": [
-      "17125a9435bd7a6df76eabbc6d93fa956e7f7464",
-      "c88ff50f539dd7c54c32103a1c679d87ce5b5069",
-      "e3e846f481c3f261894aa06bef2ac2312725d860"
-    ],
-    "imageUrl": "/images/articles/17125a9435bd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 에이전트 1000억 시대, 야트 시우가 본 메타버스의 새 방향",
-        "excerpt": "애니모카의 야트 시우는 메타버스가 몰입형 디지털 공간을 넘어, AI 에이전트가 블록체인 인프라 위에서 상거래와 결제, 조정을 처리하는 방향으로 진화하고 있다고 말했다.",
-        "body": "애니모카의 야트 시우는 최근 메타버스의 미래가 특정 ‘장소’가 아니라 AI 에이전트가 움직이는 디지털 경제 인프라로 바뀌고 있다고 말했다. 그는 메타버스가 몰입형 가상세계 중심의 개념을 넘어, AI 에이전트들이 상거래와 결제, 조정 기능을 점점 더 많이 맡는 구조로 진화하고 있다고 설명했다. 이 과정에서 블록체인은 사용자가 직접 인식하지 못하는 배경 인프라로 작동하며, 거래와 정산을 뒷받침하는 역할을 한다. 시우가 언급한 핵심은 향후 1000억 개 규모의 AI 에이전트가 디지털 활동의 주체가 될 수 있다는 전망이다. 이는 메타버스 논의가 화면 속 공간에서 자동화된 경제 활동과 신뢰 인프라로 이동하고 있음을 보여준다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "100 Billion AI Agents: Yat Siu’s New Vision for the Metaverse",
-        "excerpt": "Animoca’s Yat Siu said the metaverse is moving beyond immersive digital worlds as AI agents increasingly handle commerce, payments and coordination on blockchain infrastructure.",
-        "body": "Animoca’s Yat Siu recently said the future of the metaverse is shifting from a specific “place” to digital economic infrastructure powered by AI agents. He explained that the metaverse is evolving beyond immersive virtual worlds, with AI agents taking on more roles in commerce, payments and coordination. In this model, blockchain works in the background as infrastructure that users may not directly notice, supporting transactions and settlement. Siu’s central point is that as many as 100 billion AI agents could become active participants in digital activity. The view signals a move in metaverse discussions from screen-based spaces toward automated economic activity and trust infrastructure. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "AIエージェント1000億時代、ヤット・シウ氏が語るメタバースの未来",
-        "excerpt": "アニモカのヤット・シウ氏は、メタバースが没入型デジタル空間を超え、AIエージェントがブロックチェーン基盤上で商取引や決済、調整を担う方向へ進化していると述べた。",
-        "body": "アニモカのヤット・シウ氏は最近、メタバースの未来は特定の「場所」ではなく、AIエージェントが動くデジタル経済インフラへ変わりつつあると述べた。同氏は、メタバースが没入型の仮想世界を中心とする概念を超え、AIエージェントが商取引、決済、調整の役割をさらに担う構造へ進化していると説明した。この過程でブロックチェーンは、利用者が直接意識しない背景インフラとして機能し、取引と決済を支える。シウ氏の要点は、将来的に1000億規模のAIエージェントがデジタル活動の主体になり得るという見方だ。これはメタバース論議が画面上の空間から、自動化された経済活動と信頼インフラへ移っていることを示す。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "1000亿AI代理时代：Yat Siu眼中的元宇宙新方向",
-        "excerpt": "Animoca的Yat Siu表示，元宇宙正超越沉浸式数字世界，AI代理将越来越多地通过后台区块链基础设施处理商业、支付与协调。",
-        "body": "Animoca的Yat Siu近日表示，元宇宙的未来正在从某个具体“场所”，转向由AI代理运行的数字经济基础设施。他解释说，元宇宙不再只是以沉浸式虚拟世界为中心的概念，而是正在演变为AI代理承担更多商业、支付和协调功能的结构。在这一过程中，区块链将作为用户未必直接感知的后台基础设施运行，支撑交易和结算。Siu强调的核心是，未来可能有多达1000亿个AI代理成为数字活动的主体。这表明元宇宙讨论正从屏幕中的空间，转向自动化经济活动与信任基础设施。来源: coindesk.com."
-      },
-      "es": {
-        "title": "100.000 millones de agentes de IA: la nueva visión de Yat Siu sobre el metaverso",
-        "excerpt": "Yat Siu, de Animoca, dijo que el metaverso supera los mundos digitales inmersivos, con agentes de IA que gestionan comercio, pagos y coordinación sobre blockchain.",
-        "body": "Yat Siu, de Animoca, dijo recientemente que el futuro del metaverso está pasando de ser un “lugar” específico a una infraestructura económica digital impulsada por agentes de IA. Explicó que el metaverso evoluciona más allá de los mundos virtuales inmersivos, mientras los agentes de IA asumen cada vez más funciones de comercio, pagos y coordinación. En este modelo, blockchain opera en segundo plano como infraestructura que los usuarios quizá no perciban directamente, pero que sostiene transacciones y liquidaciones. El punto central de Siu es que hasta 100.000 millones de agentes de IA podrían convertirse en participantes de la actividad digital. La idea muestra que el debate sobre el metaverso se desplaza de espacios en pantalla hacia actividad económica automatizada e infraestructura de confianza. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "100 bilhões de agentes de IA: a nova visão de Yat Siu para o metaverso",
-        "excerpt": "Yat Siu, da Animoca, disse que o metaverso avança além dos mundos digitais imersivos, com agentes de IA cuidando de comércio, pagamentos e coordenação via blockchain.",
-        "body": "Yat Siu, da Animoca, disse recentemente que o futuro do metaverso está deixando de ser um “lugar” específico para se tornar uma infraestrutura econômica digital movida por agentes de IA. Ele explicou que o metaverso evolui além dos mundos virtuais imersivos, com agentes de IA assumindo mais funções de comércio, pagamentos e coordenação. Nesse modelo, a blockchain atua em segundo plano como infraestrutura que os usuários talvez não percebam diretamente, apoiando transações e liquidações. O ponto central de Siu é que até 100 bilhões de agentes de IA podem se tornar participantes da atividade digital. A visão indica que o debate sobre o metaverso se desloca de espaços na tela para atividade econômica automatizada e infraestrutura de confiança. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "100 Milliarden KI-Agenten: Yat Sius neue Metaverse-Vision",
-        "excerpt": "Animoca-Manager Yat Siu sagte, das Metaverse entwickle sich über immersive Digitalwelten hinaus, während KI-Agenten Handel, Zahlungen und Koordination über Blockchain-Infrastruktur übernehmen.",
-        "body": "Animocas Yat Siu sagte kürzlich, die Zukunft des Metaverse verlagere sich von einem bestimmten „Ort“ zu einer digitalen Wirtschaftsinfrastruktur, die von KI-Agenten betrieben wird. Er erklärte, das Metaverse entwickle sich über immersive virtuelle Welten hinaus, wobei KI-Agenten zunehmend Aufgaben in Handel, Zahlungen und Koordination übernehmen. In diesem Modell arbeitet Blockchain im Hintergrund als Infrastruktur, die Nutzer nicht unbedingt direkt wahrnehmen, die aber Transaktionen und Abwicklung stützt. Sius Kernpunkt ist, dass bis zu 100 Milliarden KI-Agenten zu Akteuren digitaler Aktivitäten werden könnten. Diese Sicht zeigt, dass sich die Metaverse-Debatte von Bildschirmräumen hin zu automatisierter wirtschaftlicher Aktivität und Vertrauensinfrastruktur bewegt. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "100 milliards d’agents IA : la nouvelle vision du métavers selon Yat Siu",
-        "excerpt": "Yat Siu d’Animoca a déclaré que le métavers dépasse les mondes numériques immersifs, tandis que les agents IA gèrent commerce, paiements et coordination via la blockchain.",
-        "body": "Yat Siu, d’Animoca, a récemment déclaré que l’avenir du métavers passe d’un « lieu » précis à une infrastructure économique numérique animée par des agents IA. Il a expliqué que le métavers évolue au-delà des mondes virtuels immersifs, avec des agents IA qui prennent de plus en plus en charge le commerce, les paiements et la coordination. Dans ce modèle, la blockchain fonctionne en arrière-plan comme une infrastructure que les utilisateurs ne perçoivent pas forcément directement, mais qui soutient les transactions et le règlement. Le point central de Siu est que jusqu’à 100 milliards d’agents IA pourraient devenir des acteurs de l’activité numérique. Cette vision montre que le débat sur le métavers se déplace des espaces à l’écran vers l’activité économique automatisée et l’infrastructure de confiance. Source : coindesk.com."
-      },
-      "ar": {
-        "title": "100 مليار وكيل ذكاء اصطناعي: رؤية يات سيو الجديدة للميتافيرس",
-        "excerpt": "قال يات سيو من أنيموكا إن الميتافيرس يتجاوز العوالم الرقمية الغامرة، مع تولي وكلاء الذكاء الاصطناعي التجارة والمدفوعات والتنسيق عبر بنية بلوكشين خلفية.",
-        "body": "قال يات سيو من أنيموكا مؤخرا إن مستقبل الميتافيرس يتحول من «مكان» محدد إلى بنية تحتية لاقتصاد رقمي تعمل عبر وكلاء الذكاء الاصطناعي. وأوضح أن الميتافيرس يتطور إلى ما هو أبعد من العوالم الافتراضية الغامرة، إذ يتولى وكلاء الذكاء الاصطناعي مزيدا من أدوار التجارة والمدفوعات والتنسيق. في هذا النموذج، تعمل البلوكشين في الخلفية كبنية تحتية قد لا يلاحظها المستخدمون مباشرة، لكنها تدعم المعاملات والتسوية. النقطة الأساسية لدى سيو هي أن ما يصل إلى 100 مليار وكيل ذكاء اصطناعي قد يصبحون أطرافا فاعلة في النشاط الرقمي. وتظهر هذه الرؤية انتقال نقاش الميتافيرس من المساحات المعروضة على الشاشات إلى النشاط الاقتصادي الآلي وبنية الثقة. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "100 अरब AI एजेंट: मेटावर्स पर याट सिउ की नई दिशा",
-        "excerpt": "एनिमोका के याट सिउ ने कहा कि मेटावर्स इमर्सिव डिजिटल दुनिया से आगे बढ़ रहा है, जहां AI एजेंट ब्लॉकचेन ढांचे पर वाणिज्य, भुगतान और समन्वय संभाल रहे हैं।",
-        "body": "एनिमोका के याट सिउ ने हाल में कहा कि मेटावर्स का भविष्य किसी खास “जगह” से बदलकर AI एजेंटों द्वारा संचालित डिजिटल आर्थिक बुनियादी ढांचे की ओर जा रहा है। उन्होंने बताया कि मेटावर्स इमर्सिव वर्चुअल दुनिया की अवधारणा से आगे बढ़ रहा है, जहां AI एजेंट वाणिज्य, भुगतान और समन्वय की अधिक भूमिकाएं संभाल रहे हैं। इस मॉडल में ब्लॉकचेन पृष्ठभूमि में ऐसे ढांचे की तरह काम करता है जिसे उपयोगकर्ता सीधे महसूस न करें, लेकिन जो लेनदेन और निपटान को सहारा देता है। सिउ का मुख्य बिंदु है कि भविष्य में 100 अरब तक AI एजेंट डिजिटल गतिविधि के भागीदार बन सकते हैं। यह दिखाता है कि मेटावर्स पर चर्चा स्क्रीन के भीतर की जगहों से स्वचालित आर्थिक गतिविधि और भरोसे के ढांचे की ओर बढ़ रही है। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "100 Miliar Agen AI: Arah Baru Metaverse Menurut Yat Siu",
-        "excerpt": "Yat Siu dari Animoca mengatakan metaverse bergerak melampaui dunia digital imersif, saat agen AI menangani perdagangan, pembayaran, dan koordinasi lewat infrastruktur blockchain.",
-        "body": "Yat Siu dari Animoca baru-baru ini mengatakan masa depan metaverse bergeser dari sebuah “tempat” tertentu menjadi infrastruktur ekonomi digital yang digerakkan oleh agen AI. Ia menjelaskan bahwa metaverse berkembang melampaui dunia virtual imersif, dengan agen AI semakin banyak menangani fungsi perdagangan, pembayaran, dan koordinasi. Dalam model ini, blockchain bekerja di latar belakang sebagai infrastruktur yang mungkin tidak langsung disadari pengguna, tetapi menopang transaksi dan penyelesaian. Poin utama Siu adalah bahwa hingga 100 miliar agen AI dapat menjadi pelaku dalam aktivitas digital. Pandangan ini menunjukkan bahwa pembahasan metaverse bergeser dari ruang di layar menuju aktivitas ekonomi otomatis dan infrastruktur kepercayaan. Sumber: coindesk.com."
       }
     }
   }
