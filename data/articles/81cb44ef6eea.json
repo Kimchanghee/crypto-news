@@ -1,0 +1,75 @@
+{
+  "id": "81cb44ef6eea",
+  "slug": "jaredfromsubway-bot-front-runs-vitalik-buterins-4-token-swap-200457",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T14:46:04.480Z",
+  "updatedAt": "2026-05-07T14:46:04.480Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume",
+  "titleFingerprint": "c8b7b7cf53fab4abf355520acbf098d3f6c3d1fd",
+  "dedupKeys": [
+    "81cb44ef6eea50e022a8c7d25898202a3cd1e0c8",
+    "c8b7b7cf53fab4abf355520acbf098d3f6c3d1fd",
+    "2a0b7e82f3da867309c54bf0972e5a94469674e4"
+  ],
+  "imageUrl": "/images/articles/81cb44ef6eea.png",
+  "i18n": {
+    "ko": {
+      "title": "JaredfromSubway 봇, 비탈릭 4달러 토큰 스왑에 100만달러 거래",
+      "excerpt": "이더리움 공동창업자 비탈릭 부테린의 4달러 토큰 스왑이 악명 높은 MEV 샌드위치 봇 JaredfromSubway에 의해 선행·후행 거래되며 100만달러 규모 거래를 만들었다.",
+      "body": "이더리움 공동창업자 비탈릭 부테린의 4달러 토큰 스왑이 네트워크에서 가장 악명 높은 샌드위치 봇으로 알려진 JaredfromSubway에 의해 선행 거래와 후행 거래를 당했다고 CoinDesk가 보도했다. 이 거래 과정에서 봇은 약 100만달러 규모의 거래량을 일으켰다. 부테린은 최근 몇 달간 암호화된 멤풀 제안 등을 통해 유해한 MEV에 반대하는 캠페인을 이어왔다. 이번 사례는 MEV가 일반 이용자뿐 아니라 이더리움 핵심 인물의 거래에도 영향을 미칠 수 있음을 보여준다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "JaredfromSubway Bot Front-Runs Vitalik’s $4 Swap With $1M Volume",
+      "excerpt": "Ethereum co-founder Vitalik Buterin’s $4 token swap was front-run and back-run by the notorious MEV sandwich bot JaredfromSubway, generating about $1 million in trading volume.",
+      "body": "Ethereum co-founder Vitalik Buterin’s $4 token swap was front-run and back-run by JaredfromSubway, widely known as one of the network’s most notorious sandwich bots, CoinDesk reported. The bot generated about $1 million in trading volume around the transaction. Buterin has spent recent months campaigning against toxic MEV, including proposals for encrypted mempools. The incident underscores how MEV can affect not only ordinary users but also transactions made by one of Ethereum’s most prominent figures. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "JaredfromSubway、ヴィタリック氏の4ドル交換で100万ドル取引",
+      "excerpt": "イーサリアム共同創設者ヴィタリック・ブテリン氏の4ドル相当のトークンスワップが、悪名高いMEVサンドイッチボットJaredfromSubwayに先回り・後追いされた。",
+      "body": "イーサリアム共同創設者ヴィタリック・ブテリン氏の4ドル相当のトークンスワップが、ネットワークで最も悪名高いサンドイッチボットの一つとされるJaredfromSubwayに先回り取引と後追い取引を受けたとCoinDeskが報じた。この過程で同ボットは約100万ドルの取引量を発生させた。ブテリン氏はここ数カ月、暗号化メンプールの提案などを通じて有害なMEVに反対してきた。今回の事例は、MEVが一般利用者だけでなくイーサリアムの中心人物の取引にも影響し得ることを示している。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "JaredfromSubway抢跑Vitalik 4美元换币，交易量达100万美元",
+      "excerpt": "以太坊联合创始人Vitalik Buterin一笔4美元代币兑换，被知名MEV三明治机器人JaredfromSubway抢跑和尾随交易，产生约100万美元交易量。",
+      "body": "据CoinDesk报道，以太坊联合创始人Vitalik Buterin一笔4美元代币兑换，被网络上最知名的三明治机器人之一JaredfromSubway进行抢跑和尾随交易。围绕这笔交易，该机器人产生了约100万美元交易量。过去数月，Buterin一直通过加密内存池等提案反对有害MEV。此次事件显示，MEV不仅会影响普通用户，也可能影响以太坊核心人物的链上交易。来源: coindesk.com"
+    },
+    "es": {
+      "title": "JaredfromSubway adelanta el swap de $4 de Vitalik con $1M en volumen",
+      "excerpt": "El swap de tokens de $4 de Vitalik Buterin, cofundador de Ethereum, fue adelantado y seguido por el bot MEV JaredfromSubway, generando cerca de $1 millón en volumen.",
+      "body": "El swap de tokens de $4 de Vitalik Buterin, cofundador de Ethereum, fue adelantado y seguido por JaredfromSubway, uno de los bots de sándwich más notorios de la red, informó CoinDesk. Alrededor de esa operación, el bot generó cerca de $1 millón en volumen de negociación. Buterin ha pasado los últimos meses haciendo campaña contra el MEV tóxico, incluidas propuestas de mempools cifrados. El caso muestra que el MEV puede afectar no solo a usuarios comunes, sino también a transacciones de una de las figuras centrales de Ethereum. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "JaredfromSubway antecipa swap de US$4 de Vitalik com volume de US$1 mi",
+      "excerpt": "O swap de tokens de US$4 de Vitalik Buterin, cofundador do Ethereum, foi antecipado e seguido pelo bot MEV JaredfromSubway, gerando cerca de US$1 milhão em volume.",
+      "body": "O swap de tokens de US$4 de Vitalik Buterin, cofundador do Ethereum, foi antecipado e seguido pelo JaredfromSubway, um dos bots de sanduíche mais notórios da rede, informou a CoinDesk. Em torno dessa transação, o bot gerou cerca de US$1 milhão em volume de negociação. Buterin passou os últimos meses fazendo campanha contra o MEV tóxico, incluindo propostas de mempools criptografados. O episódio mostra que o MEV pode afetar não apenas usuários comuns, mas também transações de uma das figuras centrais do Ethereum. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "JaredfromSubway front-runt Vitaliks 4-Dollar-Swap mit 1 Mio. Dollar Volumen",
+      "excerpt": "Der 4-Dollar-Token-Swap von Ethereum-Mitgründer Vitalik Buterin wurde vom berüchtigten MEV-Sandwich-Bot JaredfromSubway front- und back-runned und erzeugte rund 1 Mio. Dollar Volumen.",
+      "body": "Der 4-Dollar-Token-Swap von Ethereum-Mitgründer Vitalik Buterin wurde von JaredfromSubway, einem der berüchtigtsten Sandwich-Bots des Netzwerks, front- und back-runned, berichtete CoinDesk. Rund um die Transaktion erzeugte der Bot etwa 1 Mio. Dollar Handelsvolumen. Buterin hatte in den vergangenen Monaten gegen toxisches MEV geworben, unter anderem mit Vorschlägen für verschlüsselte Mempools. Der Fall zeigt, dass MEV nicht nur normale Nutzer, sondern auch Transaktionen einer der wichtigsten Ethereum-Persönlichkeiten betreffen kann. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "JaredfromSubway devance le swap de 4 $ de Vitalik avec 1 M$ de volume",
+      "excerpt": "Le swap de tokens de 4 $ de Vitalik Buterin, cofondateur d’Ethereum, a été devancé puis suivi par le bot MEV JaredfromSubway, générant environ 1 million de dollars de volume.",
+      "body": "Le swap de tokens de 4 $ de Vitalik Buterin, cofondateur d’Ethereum, a été devancé puis suivi par JaredfromSubway, l’un des bots de sandwich les plus notoires du réseau, a rapporté CoinDesk. Autour de cette transaction, le bot a généré environ 1 million de dollars de volume d’échange. Buterin a passé ces derniers mois à combattre le MEV toxique, notamment avec des propositions de mempools chiffrés. L’épisode montre que le MEV peut toucher non seulement les utilisateurs ordinaires, mais aussi les transactions de l’une des figures centrales d’Ethereum. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "JaredfromSubway يسبق مبادلة فيتاليك بـ4 دولارات وحجمها مليون دولار",
+      "excerpt": "تعرضت مبادلة رموز بقيمة 4 دولارات أجراها فيتاليك بوتيرين، الشريك المؤسس لإيثريوم، للتقديم والتأخير من بوت MEV المعروف JaredfromSubway بحجم يقارب مليون دولار.",
+      "body": "أفادت CoinDesk بأن مبادلة رموز بقيمة 4 دولارات أجراها فيتاليك بوتيرين، الشريك المؤسس لإيثريوم، تعرضت لصفقتي تقديم وتأخير من JaredfromSubway، أحد أشهر بوتات الساندويتش على الشبكة. وولّد البوت حول العملية حجما يقارب مليون دولار. وكان بوتيرين قد أمضى الأشهر الأخيرة في حملة ضد MEV الضار، بما في ذلك مقترحات لمجمعات معاملات مشفرة. وتوضح الواقعة أن MEV قد يؤثر ليس فقط في المستخدمين العاديين، بل أيضا في معاملات إحدى أبرز شخصيات إيثريوم. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "JaredfromSubway ने Vitalik के $4 स्वैप को $1M वॉल्यूम से फ्रंट-रन किया",
+      "excerpt": "Ethereum सह-संस्थापक Vitalik Buterin के $4 टोकन स्वैप को कुख्यात MEV सैंडविच बॉट JaredfromSubway ने फ्रंट-रन और बैक-रन किया, जिससे करीब $1 मिलियन वॉल्यूम बना।",
+      "body": "CoinDesk के अनुसार, Ethereum सह-संस्थापक Vitalik Buterin के $4 टोकन स्वैप को नेटवर्क के सबसे कुख्यात सैंडविच बॉट्स में गिने जाने वाले JaredfromSubway ने फ्रंट-रन और बैक-रन किया। इस लेनदेन के आसपास बॉट ने करीब $1 मिलियन का ट्रेडिंग वॉल्यूम बनाया। Buterin पिछले कई महीनों से एन्क्रिप्टेड मेमपूल जैसे प्रस्तावों के जरिए हानिकारक MEV के खिलाफ अभियान चला रहे हैं। यह घटना दिखाती है कि MEV केवल आम उपयोगकर्ताओं को नहीं, बल्कि Ethereum की प्रमुख शख्सियतों के लेनदेन को भी प्रभावित कर सकता है। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "JaredfromSubway Front-Run Swap $4 Vitalik dengan Volume $1 Juta",
+      "excerpt": "Swap token senilai $4 milik salah satu pendiri Ethereum, Vitalik Buterin, di-front-run dan di-back-run oleh bot MEV JaredfromSubway, menghasilkan volume sekitar $1 juta.",
+      "body": "Swap token senilai $4 milik salah satu pendiri Ethereum, Vitalik Buterin, di-front-run dan di-back-run oleh JaredfromSubway, salah satu bot sandwich paling terkenal di jaringan tersebut, menurut laporan CoinDesk. Di sekitar transaksi itu, bot menghasilkan volume perdagangan sekitar $1 juta. Dalam beberapa bulan terakhir, Buterin berkampanye melawan MEV berbahaya, termasuk melalui proposal mempool terenkripsi. Kasus ini menunjukkan bahwa MEV dapat memengaruhi bukan hanya pengguna biasa, tetapi juga transaksi salah satu tokoh utama Ethereum. Sumber: coindesk.com"
+    }
+  }
+}

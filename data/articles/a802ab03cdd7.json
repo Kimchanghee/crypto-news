@@ -1,0 +1,75 @@
+{
+  "id": "a802ab03cdd7",
+  "slug": "aave-to-overhaul-collateral-and-listing-standards-after-kelp-962287",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T14:44:11.492Z",
+  "updatedAt": "2026-05-07T14:44:11.492Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit",
+  "canonicalUrl": "https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit",
+  "titleFingerprint": "f79a970c7f24aa939f8f9db3f40cae369db413f9",
+  "dedupKeys": [
+    "a802ab03cdd7709222959bb103a93ca44f5ea209",
+    "f79a970c7f24aa939f8f9db3f40cae369db413f9",
+    "c9927b1776df8b052befe4e75e56474566c51132"
+  ],
+  "imageUrl": "/images/articles/a802ab03cdd7.png",
+  "i18n": {
+    "ko": {
+      "title": "Aave, KelpDAO 익스플로잇 후 담보·상장 기준 전면 개편",
+      "excerpt": "Aave는 KelpDAO 익스플로잇 이후 자산 상장 기준을 금융 리스크 중심에서 사이버보안과 아키텍처 검토까지 확대하며 DeFi 업계 전반의 동참을 촉구했다.",
+      "body": "탈중앙화 대출 프로토콜 Aave가 KelpDAO 익스플로잇 이후 담보와 자산 상장 기준을 개편한다. 이번 조치는 어떤 자산을 프로토콜에 받아들일지 판단할 때 기존의 금융 리스크뿐 아니라 사이버보안 위험과 기술 아키텍처까지 함께 평가하겠다는 내용이다. Aave는 대형 대출 플랫폼으로서 상장 심사 범위를 넓혀 유사한 취약점이 담보 시장과 대출 시스템으로 확산되는 것을 줄이려 한다. 이번 변화는 개별 프로토콜의 내부 기준을 넘어 DeFi 전반의 자산 심사 방식에도 영향을 줄 수 있다. Aave는 다른 DeFi 프로젝트들도 같은 방향의 기준 강화를 따르길 원한다고 밝혔다. 출처: coindesk.com."
+    },
+    "en": {
+      "title": "Aave to Tighten Collateral and Listing Rules After KelpDAO Exploit",
+      "excerpt": "After the KelpDAO exploit, Aave is expanding asset listing reviews beyond financial risk to include cybersecurity and architecture, urging wider DeFi adoption.",
+      "body": "Aave, the decentralized lending protocol, is overhauling its collateral and asset listing standards after the KelpDAO exploit. The change means assets considered for the protocol will be reviewed not only for financial risk, but also for cybersecurity exposure and technical architecture. As a major lending platform, Aave aims to reduce the chance that similar weaknesses spread into collateral markets and lending systems. The move may also influence how the broader DeFi sector evaluates assets before listing them. Aave said it wants other DeFi projects to strengthen standards in the same direction. Source: coindesk.com."
+    },
+    "ja": {
+      "title": "Aave、KelpDAO悪用後に担保・上場基準を全面見直し",
+      "excerpt": "AaveはKelpDAOのエクスプロイト後、資産上場基準を金融リスクだけでなくサイバーセキュリティと設計面の審査へ広げ、DeFi全体にも対応を促した。",
+      "body": "分散型レンディングプロトコルのAaveは、KelpDAOのエクスプロイトを受け、担保と資産上場の基準を見直す。今回の対応では、プロトコルに受け入れる資産を判断する際、従来の金融リスクに加えて、サイバーセキュリティ上のリスクや技術アーキテクチャも評価対象にする。大手レンディング基盤であるAaveは、同様の脆弱性が担保市場や貸付システムへ広がる可能性を抑えたい考えだ。この変更は個別プロトコルの内部基準にとどまらず、DeFi全体の資産審査にも影響を及ぼす可能性がある。Aaveは他のDeFiプロジェクトにも同じ方向で基準を強化するよう求めている。出典: coindesk.com。"
+    },
+    "zh": {
+      "title": "Aave因KelpDAO漏洞事件全面收紧抵押品与上市标准",
+      "excerpt": "KelpDAO遭遇漏洞利用后，Aave将资产上市审查从金融风险扩展至网络安全和技术架构，并希望更广泛的DeFi项目跟进。",
+      "body": "去中心化借贷协议Aave在KelpDAO漏洞利用事件后，将改革抵押品和资产上市标准。新做法意味着，Aave在判断哪些资产可进入协议时，不再只评估金融风险，还会纳入网络安全风险和技术架构审查。作为大型借贷平台，Aave希望降低类似弱点向抵押品市场和借贷系统扩散的可能性。此举也可能影响更广泛DeFi行业在资产上市前的审查方式。Aave表示，希望其他DeFi项目也沿着同一方向强化标准。来源: coindesk.com。"
+    },
+    "es": {
+      "title": "Aave endurece reglas de colateral y listado tras exploit de KelpDAO",
+      "excerpt": "Tras el exploit de KelpDAO, Aave ampliará sus criterios de listado de activos más allá del riesgo financiero para incluir ciberseguridad y arquitectura.",
+      "body": "Aave, el protocolo de préstamos descentralizados, revisará sus estándares de colateral y listado de activos después del exploit de KelpDAO. La medida implica que los activos evaluados para entrar al protocolo ya no se analizarán solo por riesgo financiero, sino también por exposición de ciberseguridad y arquitectura técnica. Como gran plataforma de préstamos, Aave busca reducir la posibilidad de que debilidades similares se extiendan a los mercados de colateral y a los sistemas de crédito. El cambio también podría influir en la forma en que el sector DeFi revisa activos antes de listarlos. Aave dijo que quiere que otros proyectos DeFi refuercen sus criterios en la misma dirección. Fuente: coindesk.com."
+    },
+    "pt": {
+      "title": "Aave reforça regras de colateral e listagem após exploit da KelpDAO",
+      "excerpt": "Após o exploit da KelpDAO, a Aave ampliará critérios de listagem de ativos além do risco financeiro, incluindo cibersegurança e arquitetura técnica.",
+      "body": "Aave, protocolo descentralizado de empréstimos, vai reformular seus padrões de colateral e listagem de ativos após o exploit da KelpDAO. A mudança significa que os ativos avaliados para entrar no protocolo não serão analisados apenas pelo risco financeiro, mas também por exposição de cibersegurança e arquitetura técnica. Como grande plataforma de empréstimos, a Aave busca reduzir a chance de fragilidades semelhantes se espalharem para mercados de colateral e sistemas de crédito. A medida também pode influenciar a forma como o setor DeFi avalia ativos antes da listagem. Aave afirmou que quer que outros projetos DeFi fortaleçam critérios na mesma direção. Fonte: coindesk.com."
+    },
+    "de": {
+      "title": "Aave verschärft Sicherheiten- und Listingregeln nach KelpDAO-Exploit",
+      "excerpt": "Nach dem KelpDAO-Exploit erweitert Aave seine Kriterien für Asset-Listings über Finanzrisiken hinaus auf Cybersicherheit und technische Architektur.",
+      "body": "Aave, das dezentrale Kreditprotokoll, überarbeitet nach dem KelpDAO-Exploit seine Standards für Sicherheiten und Asset-Listings. Künftig sollen Vermögenswerte, die für das Protokoll geprüft werden, nicht nur nach finanziellen Risiken bewertet werden, sondern auch nach Cybersicherheitsrisiken und technischer Architektur. Als große Lending-Plattform will Aave verringern, dass ähnliche Schwachstellen in Sicherheitenmärkte und Kreditsysteme übergreifen. Die Änderung könnte auch beeinflussen, wie der breitere DeFi-Sektor Assets vor einem Listing prüft. Aave erklärte, es wolle, dass andere DeFi-Projekte ihre Standards in dieselbe Richtung verschärfen. Quelle: coindesk.com."
+    },
+    "fr": {
+      "title": "Aave durcit ses règles de collatéral et de listing après KelpDAO",
+      "excerpt": "Après l’exploit de KelpDAO, Aave élargit ses critères de listing d’actifs au-delà du risque financier pour inclure cybersécurité et architecture.",
+      "body": "Aave, protocole de prêt décentralisé, va revoir ses normes de collatéral et de listing d’actifs après l’exploit de KelpDAO. Ce changement signifie que les actifs envisagés pour le protocole ne seront plus évalués seulement selon le risque financier, mais aussi selon l’exposition en cybersécurité et l’architecture technique. En tant que grande plateforme de prêt, Aave veut réduire la possibilité que des faiblesses similaires se propagent aux marchés de collatéral et aux systèmes de crédit. Cette évolution pourrait aussi influencer la manière dont le secteur DeFi examine les actifs avant leur listing. Aave a indiqué souhaiter que d’autres projets DeFi renforcent leurs critères dans le même sens. Source: coindesk.com."
+    },
+    "ar": {
+      "title": "Aave تشدد معايير الضمانات والإدراج بعد استغلال KelpDAO",
+      "excerpt": "بعد استغلال KelpDAO، توسع Aave معايير إدراج الأصول لتتجاوز المخاطر المالية وتشمل الأمن السيبراني والبنية التقنية، داعية قطاع DeFi إلى النهج نفسه.",
+      "body": "تعتزم Aave، وهي بروتوكول إقراض لامركزي، تعديل معايير الضمانات وإدراج الأصول بعد استغلال KelpDAO. ويعني ذلك أن الأصول المرشحة للدخول إلى البروتوكول لن تُقيّم فقط من زاوية المخاطر المالية، بل ستخضع أيضا لمراجعة مخاطر الأمن السيبراني والبنية التقنية. وبصفتها منصة إقراض كبرى، تسعى Aave إلى تقليل احتمال انتقال ثغرات مشابهة إلى أسواق الضمانات وأنظمة الإقراض. وقد يؤثر هذا التغيير كذلك في طريقة تقييم قطاع DeFi الأوسع للأصول قبل إدراجها. وقالت Aave إنها تريد من مشاريع DeFi الأخرى تعزيز معاييرها في الاتجاه نفسه. المصدر: coindesk.com."
+    },
+    "hi": {
+      "title": "KelpDAO exploit के बाद Aave collateral और listing नियम बदलेगा",
+      "excerpt": "KelpDAO exploit के बाद Aave asset listing criteria को financial risk से आगे बढ़ाकर cybersecurity और architecture review तक ले जा रहा है।",
+      "body": "Decentralized lending protocol Aave ने KelpDAO exploit के बाद collateral और asset listing standards में बदलाव करने का फैसला किया है। इस कदम के तहत protocol में शामिल किए जाने वाले assets को अब केवल financial risk के आधार पर नहीं, बल्कि cybersecurity exposure और technical architecture के आधार पर भी परखा जाएगा। एक बड़े lending platform के रूप में Aave समान कमजोरियों को collateral markets और lending systems तक फैलने से कम करना चाहता है। यह बदलाव DeFi sector में assets की listing से पहले होने वाली review प्रक्रिया को भी प्रभावित कर सकता है। Aave ने कहा कि वह चाहता है कि अन्य DeFi projects भी इसी दिशा में standards को मजबूत करें। स्रोत: coindesk.com."
+    },
+    "id": {
+      "title": "Aave Perketat Standar Kolateral dan Listing Usai Eksploit KelpDAO",
+      "excerpt": "Setelah eksploit KelpDAO, Aave memperluas kriteria listing aset dari risiko finansial ke keamanan siber dan arsitektur, serta mendorong DeFi ikut.",
+      "body": "Aave, protokol pinjaman terdesentralisasi, akan merombak standar kolateral dan listing aset setelah eksploit KelpDAO. Perubahan ini berarti aset yang dipertimbangkan masuk ke protokol tidak hanya dinilai dari risiko finansial, tetapi juga dari paparan keamanan siber dan arsitektur teknis. Sebagai platform pinjaman besar, Aave ingin mengurangi kemungkinan kelemahan serupa menyebar ke pasar kolateral dan sistem pinjaman. Langkah ini juga dapat memengaruhi cara sektor DeFi yang lebih luas meninjau aset sebelum listing. Aave menyatakan ingin proyek DeFi lain memperkuat standar ke arah yang sama. Sumber: coindesk.com."
+    }
+  }
+}

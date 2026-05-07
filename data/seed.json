@@ -1,5 +1,230 @@
 [
   {
+    "id": "81cb44ef6eea",
+    "slug": "jaredfromsubway-bot-front-runs-vitalik-buterins-4-token-swap-200457",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T14:46:04.480Z",
+    "updatedAt": "2026-05-07T14:46:04.480Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume",
+    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume",
+    "titleFingerprint": "c8b7b7cf53fab4abf355520acbf098d3f6c3d1fd",
+    "dedupKeys": [
+      "81cb44ef6eea50e022a8c7d25898202a3cd1e0c8",
+      "c8b7b7cf53fab4abf355520acbf098d3f6c3d1fd",
+      "2a0b7e82f3da867309c54bf0972e5a94469674e4"
+    ],
+    "imageUrl": "/images/articles/81cb44ef6eea.png",
+    "i18n": {
+      "ko": {
+        "title": "JaredfromSubway 봇, 비탈릭 4달러 토큰 스왑에 100만달러 거래",
+        "excerpt": "이더리움 공동창업자 비탈릭 부테린의 4달러 토큰 스왑이 악명 높은 MEV 샌드위치 봇 JaredfromSubway에 의해 선행·후행 거래되며 100만달러 규모 거래를 만들었다.",
+        "body": "이더리움 공동창업자 비탈릭 부테린의 4달러 토큰 스왑이 네트워크에서 가장 악명 높은 샌드위치 봇으로 알려진 JaredfromSubway에 의해 선행 거래와 후행 거래를 당했다고 CoinDesk가 보도했다. 이 거래 과정에서 봇은 약 100만달러 규모의 거래량을 일으켰다. 부테린은 최근 몇 달간 암호화된 멤풀 제안 등을 통해 유해한 MEV에 반대하는 캠페인을 이어왔다. 이번 사례는 MEV가 일반 이용자뿐 아니라 이더리움 핵심 인물의 거래에도 영향을 미칠 수 있음을 보여준다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "JaredfromSubway Bot Front-Runs Vitalik’s $4 Swap With $1M Volume",
+        "excerpt": "Ethereum co-founder Vitalik Buterin’s $4 token swap was front-run and back-run by the notorious MEV sandwich bot JaredfromSubway, generating about $1 million in trading volume.",
+        "body": "Ethereum co-founder Vitalik Buterin’s $4 token swap was front-run and back-run by JaredfromSubway, widely known as one of the network’s most notorious sandwich bots, CoinDesk reported. The bot generated about $1 million in trading volume around the transaction. Buterin has spent recent months campaigning against toxic MEV, including proposals for encrypted mempools. The incident underscores how MEV can affect not only ordinary users but also transactions made by one of Ethereum’s most prominent figures. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "JaredfromSubway、ヴィタリック氏の4ドル交換で100万ドル取引",
+        "excerpt": "イーサリアム共同創設者ヴィタリック・ブテリン氏の4ドル相当のトークンスワップが、悪名高いMEVサンドイッチボットJaredfromSubwayに先回り・後追いされた。",
+        "body": "イーサリアム共同創設者ヴィタリック・ブテリン氏の4ドル相当のトークンスワップが、ネットワークで最も悪名高いサンドイッチボットの一つとされるJaredfromSubwayに先回り取引と後追い取引を受けたとCoinDeskが報じた。この過程で同ボットは約100万ドルの取引量を発生させた。ブテリン氏はここ数カ月、暗号化メンプールの提案などを通じて有害なMEVに反対してきた。今回の事例は、MEVが一般利用者だけでなくイーサリアムの中心人物の取引にも影響し得ることを示している。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "JaredfromSubway抢跑Vitalik 4美元换币，交易量达100万美元",
+        "excerpt": "以太坊联合创始人Vitalik Buterin一笔4美元代币兑换，被知名MEV三明治机器人JaredfromSubway抢跑和尾随交易，产生约100万美元交易量。",
+        "body": "据CoinDesk报道，以太坊联合创始人Vitalik Buterin一笔4美元代币兑换，被网络上最知名的三明治机器人之一JaredfromSubway进行抢跑和尾随交易。围绕这笔交易，该机器人产生了约100万美元交易量。过去数月，Buterin一直通过加密内存池等提案反对有害MEV。此次事件显示，MEV不仅会影响普通用户，也可能影响以太坊核心人物的链上交易。来源: coindesk.com"
+      },
+      "es": {
+        "title": "JaredfromSubway adelanta el swap de $4 de Vitalik con $1M en volumen",
+        "excerpt": "El swap de tokens de $4 de Vitalik Buterin, cofundador de Ethereum, fue adelantado y seguido por el bot MEV JaredfromSubway, generando cerca de $1 millón en volumen.",
+        "body": "El swap de tokens de $4 de Vitalik Buterin, cofundador de Ethereum, fue adelantado y seguido por JaredfromSubway, uno de los bots de sándwich más notorios de la red, informó CoinDesk. Alrededor de esa operación, el bot generó cerca de $1 millón en volumen de negociación. Buterin ha pasado los últimos meses haciendo campaña contra el MEV tóxico, incluidas propuestas de mempools cifrados. El caso muestra que el MEV puede afectar no solo a usuarios comunes, sino también a transacciones de una de las figuras centrales de Ethereum. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "JaredfromSubway antecipa swap de US$4 de Vitalik com volume de US$1 mi",
+        "excerpt": "O swap de tokens de US$4 de Vitalik Buterin, cofundador do Ethereum, foi antecipado e seguido pelo bot MEV JaredfromSubway, gerando cerca de US$1 milhão em volume.",
+        "body": "O swap de tokens de US$4 de Vitalik Buterin, cofundador do Ethereum, foi antecipado e seguido pelo JaredfromSubway, um dos bots de sanduíche mais notórios da rede, informou a CoinDesk. Em torno dessa transação, o bot gerou cerca de US$1 milhão em volume de negociação. Buterin passou os últimos meses fazendo campanha contra o MEV tóxico, incluindo propostas de mempools criptografados. O episódio mostra que o MEV pode afetar não apenas usuários comuns, mas também transações de uma das figuras centrais do Ethereum. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "JaredfromSubway front-runt Vitaliks 4-Dollar-Swap mit 1 Mio. Dollar Volumen",
+        "excerpt": "Der 4-Dollar-Token-Swap von Ethereum-Mitgründer Vitalik Buterin wurde vom berüchtigten MEV-Sandwich-Bot JaredfromSubway front- und back-runned und erzeugte rund 1 Mio. Dollar Volumen.",
+        "body": "Der 4-Dollar-Token-Swap von Ethereum-Mitgründer Vitalik Buterin wurde von JaredfromSubway, einem der berüchtigtsten Sandwich-Bots des Netzwerks, front- und back-runned, berichtete CoinDesk. Rund um die Transaktion erzeugte der Bot etwa 1 Mio. Dollar Handelsvolumen. Buterin hatte in den vergangenen Monaten gegen toxisches MEV geworben, unter anderem mit Vorschlägen für verschlüsselte Mempools. Der Fall zeigt, dass MEV nicht nur normale Nutzer, sondern auch Transaktionen einer der wichtigsten Ethereum-Persönlichkeiten betreffen kann. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "JaredfromSubway devance le swap de 4 $ de Vitalik avec 1 M$ de volume",
+        "excerpt": "Le swap de tokens de 4 $ de Vitalik Buterin, cofondateur d’Ethereum, a été devancé puis suivi par le bot MEV JaredfromSubway, générant environ 1 million de dollars de volume.",
+        "body": "Le swap de tokens de 4 $ de Vitalik Buterin, cofondateur d’Ethereum, a été devancé puis suivi par JaredfromSubway, l’un des bots de sandwich les plus notoires du réseau, a rapporté CoinDesk. Autour de cette transaction, le bot a généré environ 1 million de dollars de volume d’échange. Buterin a passé ces derniers mois à combattre le MEV toxique, notamment avec des propositions de mempools chiffrés. L’épisode montre que le MEV peut toucher non seulement les utilisateurs ordinaires, mais aussi les transactions de l’une des figures centrales d’Ethereum. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "JaredfromSubway يسبق مبادلة فيتاليك بـ4 دولارات وحجمها مليون دولار",
+        "excerpt": "تعرضت مبادلة رموز بقيمة 4 دولارات أجراها فيتاليك بوتيرين، الشريك المؤسس لإيثريوم، للتقديم والتأخير من بوت MEV المعروف JaredfromSubway بحجم يقارب مليون دولار.",
+        "body": "أفادت CoinDesk بأن مبادلة رموز بقيمة 4 دولارات أجراها فيتاليك بوتيرين، الشريك المؤسس لإيثريوم، تعرضت لصفقتي تقديم وتأخير من JaredfromSubway، أحد أشهر بوتات الساندويتش على الشبكة. وولّد البوت حول العملية حجما يقارب مليون دولار. وكان بوتيرين قد أمضى الأشهر الأخيرة في حملة ضد MEV الضار، بما في ذلك مقترحات لمجمعات معاملات مشفرة. وتوضح الواقعة أن MEV قد يؤثر ليس فقط في المستخدمين العاديين، بل أيضا في معاملات إحدى أبرز شخصيات إيثريوم. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "JaredfromSubway ने Vitalik के $4 स्वैप को $1M वॉल्यूम से फ्रंट-रन किया",
+        "excerpt": "Ethereum सह-संस्थापक Vitalik Buterin के $4 टोकन स्वैप को कुख्यात MEV सैंडविच बॉट JaredfromSubway ने फ्रंट-रन और बैक-रन किया, जिससे करीब $1 मिलियन वॉल्यूम बना।",
+        "body": "CoinDesk के अनुसार, Ethereum सह-संस्थापक Vitalik Buterin के $4 टोकन स्वैप को नेटवर्क के सबसे कुख्यात सैंडविच बॉट्स में गिने जाने वाले JaredfromSubway ने फ्रंट-रन और बैक-रन किया। इस लेनदेन के आसपास बॉट ने करीब $1 मिलियन का ट्रेडिंग वॉल्यूम बनाया। Buterin पिछले कई महीनों से एन्क्रिप्टेड मेमपूल जैसे प्रस्तावों के जरिए हानिकारक MEV के खिलाफ अभियान चला रहे हैं। यह घटना दिखाती है कि MEV केवल आम उपयोगकर्ताओं को नहीं, बल्कि Ethereum की प्रमुख शख्सियतों के लेनदेन को भी प्रभावित कर सकता है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "JaredfromSubway Front-Run Swap $4 Vitalik dengan Volume $1 Juta",
+        "excerpt": "Swap token senilai $4 milik salah satu pendiri Ethereum, Vitalik Buterin, di-front-run dan di-back-run oleh bot MEV JaredfromSubway, menghasilkan volume sekitar $1 juta.",
+        "body": "Swap token senilai $4 milik salah satu pendiri Ethereum, Vitalik Buterin, di-front-run dan di-back-run oleh JaredfromSubway, salah satu bot sandwich paling terkenal di jaringan tersebut, menurut laporan CoinDesk. Di sekitar transaksi itu, bot menghasilkan volume perdagangan sekitar $1 juta. Dalam beberapa bulan terakhir, Buterin berkampanye melawan MEV berbahaya, termasuk melalui proposal mempool terenkripsi. Kasus ini menunjukkan bahwa MEV dapat memengaruhi bukan hanya pengguna biasa, tetapi juga transaksi salah satu tokoh utama Ethereum. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "6efeb5ca2be1",
+    "slug": "bitcoin-tests-bollinger-bands-breakout-as-creator-flips-bull-274922",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T14:45:05.619Z",
+    "updatedAt": "2026-05-07T14:45:05.619Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/07/bitcoin-tests-bollinger-bands-breakout-as-creator-flips-bullish-on-btc",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/07/bitcoin-tests-bollinger-bands-breakout-as-creator-flips-bullish-on-btc",
+    "titleFingerprint": "abf17173b39385d64241a1afd0c5b230a335170d",
+    "dedupKeys": [
+      "6efeb5ca2be13ed015ba2d64334a9a8a039fe238",
+      "abf17173b39385d64241a1afd0c5b230a335170d",
+      "679314ec7fb7b30de554de600b5f047acc30ab2e"
+    ],
+    "imageUrl": "/images/articles/6efeb5ca2be1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 볼린저밴드 돌파 시험, 창시자도 BTC 강세 전환에 주목한 시장",
+        "excerpt": "비트코인이 볼린저밴드 돌파를 시험하는 가운데, 해당 지표 창시자가 BTC에 강세로 돌아섰고 관련 MVRV 지표는 과열권에 진입했다.",
+        "body": "비트코인이 기술적 지표인 볼린저밴드 상단 돌파를 시험하고 있다. coindesk.com에 따르면 볼린저밴드 창시자는 BTC에 대해 강세로 돌아섰고, 시장은 이 신호와 함께 관련 MVRV 지표를 주목하고 있다. 해당 MVRV 지표는 과열 수준에 도달했으며, 이는 비트코인이 2024년 말 10만 달러를 향해 움직이기 전 마지막으로 나타났던 구간과 비교됐다. 다만 기사에 제시된 내용은 돌파 시도와 과열 신호의 동시 출현에 초점을 맞추고 있으며, 향후 가격 방향을 단정하지는 않는다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Bitcoin Tests Bollinger Bands Breakout as Creator Turns Bullish on BTC",
+        "excerpt": "Bitcoin is testing a Bollinger Bands breakout as the indicator’s creator turns bullish on BTC and a related MVRV gauge reaches overheated levels.",
+        "body": "Bitcoin is testing a breakout above the upper range of the Bollinger Bands, a widely watched technical indicator. According to coindesk.com, the creator of Bollinger Bands has turned bullish on BTC, while traders are also watching a related MVRV indicator. That MVRV gauge has reached overheated levels last seen before bitcoin’s late-2024 move toward $100,000. The report focuses on the simultaneous appearance of a breakout attempt and an overheated valuation signal, but it does not state a definitive future price direction. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "ビットコイン、ボリンジャーバンド突破を試す　考案者もBTC強気に転換",
+        "excerpt": "ビットコインがボリンジャーバンド突破を試す中、同指標の考案者がBTCに強気へ転じ、関連MVRV指標は過熱水準に達した。",
+        "body": "ビットコインは、テクニカル指標であるボリンジャーバンド上限の突破を試している。coindesk.comによると、ボリンジャーバンドの考案者はBTCに対して強気に転じており、市場はこの動きと関連MVRV指標を注視している。同MVRV指標は過熱水準に達し、これはビットコインが2024年後半に10万ドルへ向けて上昇する前に最後に見られた水準と比較された。ただし記事は、突破の試みと過熱シグナルが同時に出た点に焦点を当てており、今後の価格方向を断定していない。出典: coindesk.com。"
+      },
+      "zh": {
+        "title": "比特币测试布林带突破，指标创建者也转向看涨BTC",
+        "excerpt": "比特币正在测试布林带突破，同时该指标创建者转向看涨BTC，相关MVRV指标也升至过热水平。",
+        "body": "比特币正在测试对布林带上轨的突破，这一技术指标受到市场广泛关注。据coindesk.com报道，布林带创建者已转向看涨BTC，交易者同时关注相关MVRV指标。该MVRV指标已达到过热水平，上一次出现类似水平是在比特币于2024年末向10万美元推进之前。报道重点在于突破尝试与估值过热信号同时出现，但并未对未来价格方向作出确定判断。来源: coindesk.com。"
+      },
+      "es": {
+        "title": "Bitcoin prueba ruptura de Bandas de Bollinger y su creador ve alcista a BTC",
+        "excerpt": "Bitcoin prueba una ruptura de las Bandas de Bollinger mientras su creador se vuelve alcista sobre BTC y un MVRV relacionado entra en zona sobrecalentada.",
+        "body": "Bitcoin está probando una ruptura por encima del rango superior de las Bandas de Bollinger, un indicador técnico seguido por el mercado. Según coindesk.com, el creador de las Bandas de Bollinger se volvió alcista sobre BTC, mientras los operadores observan también un indicador MVRV relacionado. Ese MVRV alcanzó niveles sobrecalentados vistos por última vez antes del avance de bitcoin hacia los 100.000 dólares a finales de 2024. El reporte se centra en la coincidencia entre el intento de ruptura y la señal de sobrecalentamiento, sin afirmar una dirección futura definitiva del precio. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Bitcoin testa rompimento das Bandas de Bollinger e criador vê BTC em alta",
+        "excerpt": "O bitcoin testa um rompimento das Bandas de Bollinger enquanto o criador do indicador fica otimista com BTC e um MVRV relacionado atinge nível aquecido.",
+        "body": "O bitcoin está testando um rompimento acima da faixa superior das Bandas de Bollinger, indicador técnico acompanhado pelo mercado. Segundo coindesk.com, o criador das Bandas de Bollinger passou a ver BTC de forma otimista, enquanto investidores observam também um indicador MVRV relacionado. Esse MVRV chegou a níveis aquecidos vistos pela última vez antes do movimento do bitcoin rumo a US$ 100.000 no fim de 2024. A reportagem destaca a presença simultânea da tentativa de rompimento e do sinal de sobreaquecimento, sem definir uma direção futura para o preço. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Bitcoin testet Bollinger-Bänder-Ausbruch, Entwickler wird bullisch für BTC",
+        "excerpt": "Bitcoin testet einen Ausbruch aus den Bollinger-Bändern, während deren Entwickler bullisch für BTC wird und ein MVRV-Indikator überhitzte Niveaus erreicht.",
+        "body": "Bitcoin testet einen Ausbruch über die obere Spanne der Bollinger-Bänder, eines viel beachteten technischen Indikators. Laut coindesk.com hat sich der Entwickler der Bollinger-Bänder bullisch zu BTC geäußert, während der Markt zugleich einen damit verbundenen MVRV-Indikator beobachtet. Dieser MVRV-Wert erreichte überhitzte Niveaus, die zuletzt vor Bitcoins Bewegung in Richtung 100.000 US-Dollar Ende 2024 zu sehen waren. Der Bericht konzentriert sich auf das gleichzeitige Auftreten eines Ausbruchsversuchs und eines überhitzten Bewertungssignals, ohne eine künftige Preisrichtung festzulegen. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Bitcoin teste une cassure des Bandes de Bollinger, leur créateur devient haussier",
+        "excerpt": "Bitcoin teste une cassure des Bandes de Bollinger tandis que leur créateur devient haussier sur BTC et qu’un MVRV lié atteint un niveau de surchauffe.",
+        "body": "Bitcoin teste une cassure au-dessus de la borne supérieure des Bandes de Bollinger, un indicateur technique suivi par le marché. Selon coindesk.com, le créateur des Bandes de Bollinger est devenu haussier sur BTC, tandis que les opérateurs surveillent aussi un indicateur MVRV lié. Ce MVRV a atteint des niveaux de surchauffe observés pour la dernière fois avant le mouvement de bitcoin vers 100.000 dollars fin 2024. L’article met l’accent sur l’apparition simultanée d’une tentative de cassure et d’un signal de valorisation surchauffée, sans affirmer une direction future certaine du prix. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "بيتكوين تختبر اختراق بولينجر باندز ومبتكر المؤشر يتحول للتفاؤل بشأن BTC",
+        "excerpt": "تختبر بيتكوين اختراق نطاق بولينجر باندز بينما تحول مبتكر المؤشر إلى نظرة صعودية بشأن BTC وبلغ مؤشر MVRV مرتبط مستويات محمومة.",
+        "body": "تختبر بيتكوين اختراق الحد العلوي لمؤشر بولينجر باندز، وهو مؤشر فني تتابعه الأسواق على نطاق واسع. ووفقًا لـ coindesk.com، تحول مبتكر بولينجر باندز إلى موقف صعودي تجاه BTC، بينما يراقب المتداولون أيضًا مؤشر MVRV مرتبطًا. وقد وصل هذا المؤشر إلى مستويات محمومة لم تظهر آخر مرة إلا قبل تحرك بيتكوين في أواخر 2024 نحو 100,000 دولار. يركز التقرير على تزامن محاولة الاختراق مع إشارة التقييم المحموم، لكنه لا يجزم باتجاه السعر في المستقبل. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "Bitcoin ने Bollinger Bands ब्रेकआउट परखी, निर्माता भी BTC पर बुलिश हुए",
+        "excerpt": "Bitcoin Bollinger Bands ब्रेकआउट की परीक्षा कर रहा है, जबकि संकेतक के निर्माता BTC पर बुलिश हुए और संबंधित MVRV गेज ओवरहीट स्तर पर पहुंचा।",
+        "body": "Bitcoin तकनीकी संकेतक Bollinger Bands की ऊपरी सीमा से ऊपर ब्रेकआउट की परीक्षा कर रहा है। coindesk.com के अनुसार, Bollinger Bands के निर्माता BTC पर बुलिश हो गए हैं, जबकि बाजार संबंधित MVRV संकेतक पर भी नजर रख रहा है। यह MVRV गेज ओवरहीट स्तर पर पहुंच गया है, जो आखिरी बार Bitcoin के 2024 के अंत में 100,000 डॉलर की ओर बढ़ने से पहले देखा गया था। रिपोर्ट ब्रेकआउट प्रयास और ओवरहीट वैल्यूएशन संकेत के साथ-साथ आने पर केंद्रित है, लेकिन भविष्य की कीमत दिशा को निश्चित रूप से नहीं बताती। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Bitcoin Uji Breakout Bollinger Bands, Penciptanya Berbalik Bullish pada BTC",
+        "excerpt": "Bitcoin menguji breakout Bollinger Bands saat pencipta indikator itu berbalik bullish pada BTC dan indikator MVRV terkait mencapai level terlalu panas.",
+        "body": "Bitcoin sedang menguji breakout di atas rentang atas Bollinger Bands, indikator teknikal yang banyak dipantau pasar. Menurut coindesk.com, pencipta Bollinger Bands berbalik bullish terhadap BTC, sementara pelaku pasar juga memperhatikan indikator MVRV terkait. Indikator MVRV itu mencapai level terlalu panas yang terakhir terlihat sebelum pergerakan bitcoin pada akhir 2024 menuju US$100.000. Laporan tersebut menyoroti kemunculan bersamaan antara upaya breakout dan sinyal valuasi yang memanas, namun tidak memastikan arah harga berikutnya. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "a802ab03cdd7",
+    "slug": "aave-to-overhaul-collateral-and-listing-standards-after-kelp-962287",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T14:44:11.492Z",
+    "updatedAt": "2026-05-07T14:44:11.492Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit",
+    "titleFingerprint": "f79a970c7f24aa939f8f9db3f40cae369db413f9",
+    "dedupKeys": [
+      "a802ab03cdd7709222959bb103a93ca44f5ea209",
+      "f79a970c7f24aa939f8f9db3f40cae369db413f9",
+      "c9927b1776df8b052befe4e75e56474566c51132"
+    ],
+    "imageUrl": "/images/articles/a802ab03cdd7.png",
+    "i18n": {
+      "ko": {
+        "title": "Aave, KelpDAO 익스플로잇 후 담보·상장 기준 전면 개편",
+        "excerpt": "Aave는 KelpDAO 익스플로잇 이후 자산 상장 기준을 금융 리스크 중심에서 사이버보안과 아키텍처 검토까지 확대하며 DeFi 업계 전반의 동참을 촉구했다.",
+        "body": "탈중앙화 대출 프로토콜 Aave가 KelpDAO 익스플로잇 이후 담보와 자산 상장 기준을 개편한다. 이번 조치는 어떤 자산을 프로토콜에 받아들일지 판단할 때 기존의 금융 리스크뿐 아니라 사이버보안 위험과 기술 아키텍처까지 함께 평가하겠다는 내용이다. Aave는 대형 대출 플랫폼으로서 상장 심사 범위를 넓혀 유사한 취약점이 담보 시장과 대출 시스템으로 확산되는 것을 줄이려 한다. 이번 변화는 개별 프로토콜의 내부 기준을 넘어 DeFi 전반의 자산 심사 방식에도 영향을 줄 수 있다. Aave는 다른 DeFi 프로젝트들도 같은 방향의 기준 강화를 따르길 원한다고 밝혔다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Aave to Tighten Collateral and Listing Rules After KelpDAO Exploit",
+        "excerpt": "After the KelpDAO exploit, Aave is expanding asset listing reviews beyond financial risk to include cybersecurity and architecture, urging wider DeFi adoption.",
+        "body": "Aave, the decentralized lending protocol, is overhauling its collateral and asset listing standards after the KelpDAO exploit. The change means assets considered for the protocol will be reviewed not only for financial risk, but also for cybersecurity exposure and technical architecture. As a major lending platform, Aave aims to reduce the chance that similar weaknesses spread into collateral markets and lending systems. The move may also influence how the broader DeFi sector evaluates assets before listing them. Aave said it wants other DeFi projects to strengthen standards in the same direction. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "Aave、KelpDAO悪用後に担保・上場基準を全面見直し",
+        "excerpt": "AaveはKelpDAOのエクスプロイト後、資産上場基準を金融リスクだけでなくサイバーセキュリティと設計面の審査へ広げ、DeFi全体にも対応を促した。",
+        "body": "分散型レンディングプロトコルのAaveは、KelpDAOのエクスプロイトを受け、担保と資産上場の基準を見直す。今回の対応では、プロトコルに受け入れる資産を判断する際、従来の金融リスクに加えて、サイバーセキュリティ上のリスクや技術アーキテクチャも評価対象にする。大手レンディング基盤であるAaveは、同様の脆弱性が担保市場や貸付システムへ広がる可能性を抑えたい考えだ。この変更は個別プロトコルの内部基準にとどまらず、DeFi全体の資産審査にも影響を及ぼす可能性がある。Aaveは他のDeFiプロジェクトにも同じ方向で基準を強化するよう求めている。出典: coindesk.com。"
+      },
+      "zh": {
+        "title": "Aave因KelpDAO漏洞事件全面收紧抵押品与上市标准",
+        "excerpt": "KelpDAO遭遇漏洞利用后，Aave将资产上市审查从金融风险扩展至网络安全和技术架构，并希望更广泛的DeFi项目跟进。",
+        "body": "去中心化借贷协议Aave在KelpDAO漏洞利用事件后，将改革抵押品和资产上市标准。新做法意味着，Aave在判断哪些资产可进入协议时，不再只评估金融风险，还会纳入网络安全风险和技术架构审查。作为大型借贷平台，Aave希望降低类似弱点向抵押品市场和借贷系统扩散的可能性。此举也可能影响更广泛DeFi行业在资产上市前的审查方式。Aave表示，希望其他DeFi项目也沿着同一方向强化标准。来源: coindesk.com。"
+      },
+      "es": {
+        "title": "Aave endurece reglas de colateral y listado tras exploit de KelpDAO",
+        "excerpt": "Tras el exploit de KelpDAO, Aave ampliará sus criterios de listado de activos más allá del riesgo financiero para incluir ciberseguridad y arquitectura.",
+        "body": "Aave, el protocolo de préstamos descentralizados, revisará sus estándares de colateral y listado de activos después del exploit de KelpDAO. La medida implica que los activos evaluados para entrar al protocolo ya no se analizarán solo por riesgo financiero, sino también por exposición de ciberseguridad y arquitectura técnica. Como gran plataforma de préstamos, Aave busca reducir la posibilidad de que debilidades similares se extiendan a los mercados de colateral y a los sistemas de crédito. El cambio también podría influir en la forma en que el sector DeFi revisa activos antes de listarlos. Aave dijo que quiere que otros proyectos DeFi refuercen sus criterios en la misma dirección. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Aave reforça regras de colateral e listagem após exploit da KelpDAO",
+        "excerpt": "Após o exploit da KelpDAO, a Aave ampliará critérios de listagem de ativos além do risco financeiro, incluindo cibersegurança e arquitetura técnica.",
+        "body": "Aave, protocolo descentralizado de empréstimos, vai reformular seus padrões de colateral e listagem de ativos após o exploit da KelpDAO. A mudança significa que os ativos avaliados para entrar no protocolo não serão analisados apenas pelo risco financeiro, mas também por exposição de cibersegurança e arquitetura técnica. Como grande plataforma de empréstimos, a Aave busca reduzir a chance de fragilidades semelhantes se espalharem para mercados de colateral e sistemas de crédito. A medida também pode influenciar a forma como o setor DeFi avalia ativos antes da listagem. Aave afirmou que quer que outros projetos DeFi fortaleçam critérios na mesma direção. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Aave verschärft Sicherheiten- und Listingregeln nach KelpDAO-Exploit",
+        "excerpt": "Nach dem KelpDAO-Exploit erweitert Aave seine Kriterien für Asset-Listings über Finanzrisiken hinaus auf Cybersicherheit und technische Architektur.",
+        "body": "Aave, das dezentrale Kreditprotokoll, überarbeitet nach dem KelpDAO-Exploit seine Standards für Sicherheiten und Asset-Listings. Künftig sollen Vermögenswerte, die für das Protokoll geprüft werden, nicht nur nach finanziellen Risiken bewertet werden, sondern auch nach Cybersicherheitsrisiken und technischer Architektur. Als große Lending-Plattform will Aave verringern, dass ähnliche Schwachstellen in Sicherheitenmärkte und Kreditsysteme übergreifen. Die Änderung könnte auch beeinflussen, wie der breitere DeFi-Sektor Assets vor einem Listing prüft. Aave erklärte, es wolle, dass andere DeFi-Projekte ihre Standards in dieselbe Richtung verschärfen. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Aave durcit ses règles de collatéral et de listing après KelpDAO",
+        "excerpt": "Après l’exploit de KelpDAO, Aave élargit ses critères de listing d’actifs au-delà du risque financier pour inclure cybersécurité et architecture.",
+        "body": "Aave, protocole de prêt décentralisé, va revoir ses normes de collatéral et de listing d’actifs après l’exploit de KelpDAO. Ce changement signifie que les actifs envisagés pour le protocole ne seront plus évalués seulement selon le risque financier, mais aussi selon l’exposition en cybersécurité et l’architecture technique. En tant que grande plateforme de prêt, Aave veut réduire la possibilité que des faiblesses similaires se propagent aux marchés de collatéral et aux systèmes de crédit. Cette évolution pourrait aussi influencer la manière dont le secteur DeFi examine les actifs avant leur listing. Aave a indiqué souhaiter que d’autres projets DeFi renforcent leurs critères dans le même sens. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "Aave تشدد معايير الضمانات والإدراج بعد استغلال KelpDAO",
+        "excerpt": "بعد استغلال KelpDAO، توسع Aave معايير إدراج الأصول لتتجاوز المخاطر المالية وتشمل الأمن السيبراني والبنية التقنية، داعية قطاع DeFi إلى النهج نفسه.",
+        "body": "تعتزم Aave، وهي بروتوكول إقراض لامركزي، تعديل معايير الضمانات وإدراج الأصول بعد استغلال KelpDAO. ويعني ذلك أن الأصول المرشحة للدخول إلى البروتوكول لن تُقيّم فقط من زاوية المخاطر المالية، بل ستخضع أيضا لمراجعة مخاطر الأمن السيبراني والبنية التقنية. وبصفتها منصة إقراض كبرى، تسعى Aave إلى تقليل احتمال انتقال ثغرات مشابهة إلى أسواق الضمانات وأنظمة الإقراض. وقد يؤثر هذا التغيير كذلك في طريقة تقييم قطاع DeFi الأوسع للأصول قبل إدراجها. وقالت Aave إنها تريد من مشاريع DeFi الأخرى تعزيز معاييرها في الاتجاه نفسه. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "KelpDAO exploit के बाद Aave collateral और listing नियम बदलेगा",
+        "excerpt": "KelpDAO exploit के बाद Aave asset listing criteria को financial risk से आगे बढ़ाकर cybersecurity और architecture review तक ले जा रहा है।",
+        "body": "Decentralized lending protocol Aave ने KelpDAO exploit के बाद collateral और asset listing standards में बदलाव करने का फैसला किया है। इस कदम के तहत protocol में शामिल किए जाने वाले assets को अब केवल financial risk के आधार पर नहीं, बल्कि cybersecurity exposure और technical architecture के आधार पर भी परखा जाएगा। एक बड़े lending platform के रूप में Aave समान कमजोरियों को collateral markets और lending systems तक फैलने से कम करना चाहता है। यह बदलाव DeFi sector में assets की listing से पहले होने वाली review प्रक्रिया को भी प्रभावित कर सकता है। Aave ने कहा कि वह चाहता है कि अन्य DeFi projects भी इसी दिशा में standards को मजबूत करें। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Aave Perketat Standar Kolateral dan Listing Usai Eksploit KelpDAO",
+        "excerpt": "Setelah eksploit KelpDAO, Aave memperluas kriteria listing aset dari risiko finansial ke keamanan siber dan arsitektur, serta mendorong DeFi ikut.",
+        "body": "Aave, protokol pinjaman terdesentralisasi, akan merombak standar kolateral dan listing aset setelah eksploit KelpDAO. Perubahan ini berarti aset yang dipertimbangkan masuk ke protokol tidak hanya dinilai dari risiko finansial, tetapi juga dari paparan keamanan siber dan arsitektur teknis. Sebagai platform pinjaman besar, Aave ingin mengurangi kemungkinan kelemahan serupa menyebar ke pasar kolateral dan sistem pinjaman. Langkah ini juga dapat memengaruhi cara sektor DeFi yang lebih luas meninjau aset sebelum listing. Aave menyatakan ingin proyek DeFi lain memperkuat standar ke arah yang sama. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "73f93e48cef9",
     "slug": "vanecks-sigel-sees-bitcoin-reaching-1m-within-five-years-895950",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Strategi Bitcoin-Real Estat Bisa Kalahkan REITs, Kata Cardone",
         "excerpt": "Investor real estat Grant Cardone mengatakan strategi bitcoin dan properti bisa mengungguli REITs, sambil menambah lebih banyak BTC ke treasury perusahaannya.",
         "body": "Tokoh real estat Grant Cardone mengatakan strategi hibrida yang menggabungkan bitcoin dan real estat dapat berkinerja lebih baik daripada REITs tradisional. Ia menjelaskan bahwa model ini memasukkan kripto ke struktur investasi properti, membawa pengguna baru ke pasar kripto, dan menantang pola investasi real estat yang sudah ada. Cardone juga mengatakan telah menambahkan lebih banyak bitcoin ke treasury perusahaannya. Pernyataan ini menunjukkan bahwa strategi yang menggabungkan aset properti dan aset digital mulai dibandingkan dengan model REITs. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "bff8dc8b2f03",
-    "slug": "bitcoin-short-term-holder-cost-basis-eyes-92k-as-next-price--968536",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T22:13:58.311Z",
-    "updatedAt": "2026-05-06T22:13:58.311Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/bitcoins-sth-cost-basis-suggests-92k-is-the-next-stop-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/bitcoins-sth-cost-basis-suggests-92k-is-the-next-stop-for-btc-price",
-    "titleFingerprint": "272f4c674da4633121e163efefcd294631349e74",
-    "dedupKeys": [
-      "bff8dc8b2f03916fe48e47348cc6f8994928c164",
-      "272f4c674da4633121e163efefcd294631349e74",
-      "24d93ecba2ca72ca5906ddde21708cc8bcaa2905"
-    ],
-    "imageUrl": "/images/articles/bff8dc8b2f03.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 단기 보유자 원가 기준, 다음 목표가 9만2000달러 주목",
-        "excerpt": "비트코인 온체인 데이터는 단기 보유자 원가 기준을 근거로 BTC 가격의 추가 상승 여지가 남아 있음을 시사하지만, 8만4000달러 저항이 회복을 늦출 수 있다.",
-        "body": "비트코인 가격의 다음 관전 지점으로 단기 보유자 원가 기준인 9만2000달러가 주목받고 있다. cointelegraph.com에 따르면 최근 온체인 데이터는 BTC 가격의 상승 여력이 아직 끝나지 않았을 가능성을 시사한다. 다만 회복 과정에서 8만4000달러 부근의 저항이 변수로 제시됐다. 단기 보유자 원가 기준은 시장 참여자의 평균 매입 가격을 가늠하는 지표로, 가격 목표와 심리적 저항을 해석하는 데 활용된다. 현재 흐름은 추가 반등 가능성을 열어두지만, 8만4000달러 돌파 여부가 회복 속도를 좌우할 수 있다. 출처는 cointelegraph.com이다."
-      },
-      "en": {
-        "title": "Bitcoin Short-Term Holder Cost Basis Puts $92K Target in Focus",
-        "excerpt": "Bitcoin onchain data suggests BTC may still have room to rise, with the short-term holder cost basis pointing to $92,000, though $84,000 resistance may slow recovery.",
-        "body": "Bitcoin’s next key level is drawing attention as the short-term holder cost basis points toward $92,000. According to cointelegraph.com, recent onchain data suggests that BTC’s upside may not yet be over. However, resistance near $84,000 remains a factor that could delay the recovery. The short-term holder cost basis is used to gauge the average acquisition price of recent market participants and can help frame price targets and psychological resistance. The current setup leaves room for a further rebound, but whether Bitcoin can clear $84,000 may influence the pace of any recovery. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "ビットコイン短期保有者コスト基準、次の目標は9.2万ドルか",
-        "excerpt": "ビットコインのオンチェーンデータはBTC価格に上昇余地が残る可能性を示す一方、8.4万ドルの抵抗が回復を遅らせる可能性がある。",
-        "body": "ビットコイン価格の次の注目水準として、短期保有者のコスト基準である9万2000ドルが意識されている。cointelegraph.comによると、最近のオンチェーンデータはBTC価格の上昇余地がまだ尽きていない可能性を示している。ただし、回復局面では8万4000ドル付近の抵抗が変数として挙げられた。短期保有者コスト基準は、市場参加者の平均取得価格を測る指標で、価格目標や心理的抵抗を読み解く際に使われる。現在の流れは追加反発の可能性を残すが、8万4000ドルを突破できるかが回復速度を左右し得る。出典はcointelegraph.com。"
-      },
-      "zh": {
-        "title": "比特币短期持有者成本基础指向9.2万美元目标",
-        "excerpt": "比特币链上数据显示，BTC价格或仍有上行空间，短期持有者成本基础指向9.2万美元，但8.4万美元阻力可能拖慢复苏。",
-        "body": "比特币价格的下一关键观察点，是短期持有者成本基础所指向的9.2万美元。cointelegraph.com称，近期链上数据表明，BTC价格的上行空间可能尚未结束。不过，在复苏过程中，8.4万美元附近的阻力被视为重要变量。短期持有者成本基础用于衡量近期市场参与者的平均买入价格，也常被用于解读价格目标和心理阻力。当前走势仍为进一步反弹留下可能，但比特币能否突破8.4万美元，可能影响复苏速度。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Bitcoin mira los 92.000 dólares por base de costo de holders cortos",
-        "excerpt": "Los datos onchain de Bitcoin sugieren que BTC aún podría tener margen alcista, con la base de costo de holders de corto plazo en 92.000 dólares, aunque la resistencia de 84.000 puede frenar la recuperación.",
-        "body": "El próximo nivel clave para Bitcoin se centra en los 92.000 dólares, señalado por la base de costo de los holders de corto plazo. Según cointelegraph.com, los datos onchain recientes sugieren que el potencial alcista del precio de BTC podría no haber terminado. Sin embargo, la resistencia cercana a los 84.000 dólares aparece como un factor que podría retrasar la recuperación. La base de costo de los holders de corto plazo ayuda a estimar el precio medio de compra de participantes recientes y se utiliza para interpretar objetivos de precio y resistencias psicológicas. El escenario mantiene abierta la posibilidad de un rebote adicional, pero superar los 84.000 dólares puede influir en el ritmo de recuperación. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Bitcoin mira US$ 92 mil com base de custo de holders de curto prazo",
-        "excerpt": "Dados onchain do Bitcoin sugerem que o BTC ainda pode ter espaço para subir, com a base de custo de holders de curto prazo mirando US$ 92 mil, embora US$ 84 mil possa atrasar a recuperação.",
-        "body": "O próximo nível de atenção para o Bitcoin é US$ 92 mil, indicado pela base de custo dos holders de curto prazo. Segundo cointelegraph.com, dados onchain recentes sugerem que o potencial de alta do preço do BTC talvez ainda não tenha terminado. Ainda assim, a resistência perto de US$ 84 mil foi apontada como um fator que pode atrasar a recuperação. A base de custo dos holders de curto prazo ajuda a estimar o preço médio de compra de participantes recentes do mercado e é usada para interpretar metas de preço e resistências psicológicas. O cenário atual mantém aberta a possibilidade de novo avanço, mas romper US$ 84 mil pode influenciar a velocidade da recuperação. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Bitcoin-Kostenbasis kurzfristiger Halter rückt 92.000 Dollar in den Fokus",
-        "excerpt": "Bitcoin-Onchain-Daten deuten auf weiteres Aufwärtspotenzial für BTC hin, während die Kostenbasis kurzfristiger Halter 92.000 Dollar nahelegt und Widerstand bei 84.000 Dollar die Erholung bremsen könnte.",
-        "body": "Beim Bitcoin rückt als nächstes wichtiges Niveau die Kostenbasis kurzfristiger Halter bei 92.000 Dollar in den Fokus. Laut cointelegraph.com deuten aktuelle Onchain-Daten darauf hin, dass das Aufwärtspotenzial des BTC-Preises noch nicht ausgeschöpft sein könnte. Zugleich gilt der Bereich um 84.000 Dollar als Widerstand, der die Erholung verzögern kann. Die Kostenbasis kurzfristiger Halter dient dazu, den durchschnittlichen Einstiegspreis jüngerer Marktteilnehmer einzuordnen und Preisziele sowie psychologische Widerstände zu bewerten. Die aktuelle Lage lässt eine weitere Erholung offen, doch ein Durchbruch über 84.000 Dollar könnte das Tempo entscheidend beeinflussen. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Bitcoin vise 92.000 dollars via le coût de base des détenteurs court terme",
-        "excerpt": "Les données onchain de Bitcoin suggèrent que le BTC pourrait encore progresser, avec un coût de base des détenteurs de court terme vers 92.000 dollars, même si la résistance à 84.000 dollars peut freiner la reprise.",
-        "body": "Le prochain niveau clé du Bitcoin se situe autour de 92.000 dollars, selon le coût de base des détenteurs de court terme. D’après cointelegraph.com, les données onchain récentes indiquent que le potentiel de hausse du prix du BTC pourrait ne pas être épuisé. Toutefois, la résistance proche de 84.000 dollars est présentée comme un facteur susceptible de retarder la reprise. Le coût de base des détenteurs de court terme sert à estimer le prix moyen d’achat des participants récents et à interpréter les objectifs de prix ainsi que les résistances psychologiques. La configuration actuelle laisse ouverte la possibilité d’un rebond supplémentaire, mais le franchissement de 84.000 dollars pourrait peser sur le rythme de la reprise. Source : cointelegraph.com."
-      },
-      "ar": {
-        "title": "بيتكوين تراقب 92 ألف دولار عبر تكلفة حائزي الأجل القصير",
-        "excerpt": "تشير بيانات بيتكوين على السلسلة إلى أن سعر BTC قد لا يزال يملك مجالا للصعود، مع تركيز تكلفة حائزي الأجل القصير على 92 ألف دولار، بينما قد تؤخر مقاومة 84 ألف دولار التعافي.",
-        "body": "يتجه الاهتمام في سعر بيتكوين إلى مستوى 92 ألف دولار، الذي تشير إليه تكلفة أساس الحائزين قصيري الأجل. ووفقا لـ cointelegraph.com، توحي بيانات السلسلة الحديثة بأن الاتجاه الصاعد لسعر BTC قد لا يكون انتهى بعد. لكن المقاومة قرب 84 ألف دولار تظل عاملا قد يؤخر التعافي. وتستخدم تكلفة أساس الحائزين قصيري الأجل لقياس متوسط سعر الشراء لدى المشاركين الأحدث في السوق، كما تساعد في فهم أهداف السعر والمقاومات النفسية. الوضع الحالي يترك احتمال ارتداد إضافي قائما، إلا أن قدرة بيتكوين على تجاوز 84 ألف دولار قد تؤثر في سرعة التعافي. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Bitcoin शॉर्ट-टर्म होल्डर कॉस्ट बेसिस से $92K लक्ष्य फोकस में",
-        "excerpt": "Bitcoin के ऑनचेन डेटा से संकेत मिलता है कि BTC में बढ़त की गुंजाइश बची हो सकती है; शॉर्ट-टर्म होल्डर कॉस्ट बेसिस $92,000 दिखाता है, जबकि $84,000 प्रतिरोध रिकवरी धीमी कर सकता है।",
-        "body": "Bitcoin की कीमत के लिए अगला प्रमुख स्तर शॉर्ट-टर्म होल्डर कॉस्ट बेसिस के आधार पर $92,000 के रूप में देखा जा रहा है। cointelegraph.com के अनुसार, हालिया ऑनचेन डेटा संकेत देता है कि BTC की तेजी की संभावना अभी समाप्त नहीं हुई हो सकती। हालांकि, रिकवरी के दौरान $84,000 के पास प्रतिरोध एक ऐसा स्तर है जो गति को धीमा कर सकता है। शॉर्ट-टर्म होल्डर कॉस्ट बेसिस हाल के बाजार भागीदारों के औसत खरीद मूल्य का अंदाजा देता है और कीमत लक्ष्य तथा मनोवैज्ञानिक प्रतिरोध समझने में उपयोग होता है। मौजूदा स्थिति आगे उछाल की संभावना खुली रखती है, लेकिन $84,000 पार करना रिकवरी की रफ्तार तय कर सकता है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Bitcoin Bidik $92K dari Cost Basis Holder Jangka Pendek",
-        "excerpt": "Data onchain Bitcoin menunjukkan harga BTC mungkin masih punya ruang naik, dengan cost basis holder jangka pendek mengarah ke $92.000, meski resistensi $84.000 dapat memperlambat pemulihan.",
-        "body": "Level penting berikutnya untuk harga Bitcoin kini tertuju pada $92.000, yang ditunjukkan oleh cost basis holder jangka pendek. Menurut cointelegraph.com, data onchain terbaru mengisyaratkan bahwa potensi kenaikan harga BTC mungkin belum berakhir. Namun, resistensi di sekitar $84.000 menjadi faktor yang dapat menunda pemulihan. Cost basis holder jangka pendek digunakan untuk memperkirakan harga beli rata-rata pelaku pasar terbaru, sekaligus membantu membaca target harga dan resistensi psikologis. Kondisi saat ini masih membuka peluang rebound lanjutan, tetapi kemampuan Bitcoin menembus $84.000 dapat memengaruhi kecepatan pemulihan. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "a1eca5297f0a",
-    "slug": "spot-bitcoin-etfs-solved-access-but-custody-advisors-and-plu-147533",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T22:13:02.331Z",
-    "updatedAt": "2026-05-06T22:13:02.331Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/06/spot-bitcoin-etfs-solved-access-but-custody-advisors-and-plumbing-still-lag-panelists-say",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/spot-bitcoin-etfs-solved-access-but-custody-advisors-and-plumbing-still-lag-panelists-say",
-    "titleFingerprint": "c5e81a1e781987c573e055ceb5e36d44724e05d5",
-    "dedupKeys": [
-      "a1eca5297f0a4a99739d013c85b45165dc0439ed",
-      "c5e81a1e781987c573e055ceb5e36d44724e05d5",
-      "84767d02cb554ffe4a85e8ab68e82404d6b801cf"
-    ],
-    "imageUrl": "/images/articles/a1eca5297f0a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "현물 비트코인 ETF, 접근성 해결 뒤 수탁·자문·배관 과제 부상",
-        "excerpt": "코인셰어스·칼라모스·프로셰어스·플로 트레이더스 고위 관계자들은 현물 비트코인 ETF가 접근성은 넓혔지만 수탁 집중과 자문 채택, 설정 흐름 효율이 과제로 남았다고 짚었다.",
-        "body": "현물 비트코인 ETF가 투자 접근성 문제를 상당 부분 해결했지만, 업계 패널들은 다음 과제가 수탁, 자문 채널, 시장 인프라에 있다고 지적했다. 코인셰어스, 칼라모스, 프로셰어스, 플로 트레이더스의 고위 인사들은 패널 논의에서 코인베이스에 집중된 수탁 구조, 아직 제한적인 재무자문가 채택, ETF 설정 흐름의 비효율성을 주요 문제로 거론했다. 현물 ETF는 비트코인 노출을 제도권 상품 안으로 가져왔지만, 운용과 거래를 뒷받침하는 구조가 더 정교해져야 한다는 의미다. 이들은 접근성 확대 이후 시장이 지속적으로 성장하려면 수탁 분산, 자문가 참여 확대, 생성·환매 절차 개선이 필요하다고 봤다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Spot Bitcoin ETFs Face Custody, Advisor and Plumbing Hurdles",
-        "excerpt": "Senior executives from CoinShares, Calamos, ProShares and Flow Traders said spot Bitcoin ETFs improved access, but custody concentration, modest advisor adoption and creation-flow inefficiency remain key issues.",
-        "body": "Spot Bitcoin ETFs have solved much of the access problem for investors, but panelists said the next challenges sit in custody, advisor channels and market plumbing. Senior figures from CoinShares, Calamos, ProShares and Flow Traders pointed during a panel discussion to Coinbase-heavy custody concentration, still modest adoption by financial advisors and inefficiencies in ETF creation flows as major issues. The products have brought Bitcoin exposure into regulated investment wrappers, but the operating and trading structures behind them still need refinement. The panelists said continued market growth will depend on broader custody arrangements, greater advisor participation and smoother creation and redemption processes. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "現物ビットコインETF、次の課題はカストディと助言網",
-        "excerpt": "CoinShares、Calamos、ProShares、Flow Tradersの幹部は、現物ビットコインETFがアクセスを改善した一方、カストディ集中、助言業者の採用、設定フロー効率が課題だと述べた。",
-        "body": "現物ビットコインETFは投資家のアクセス問題を大きく改善したが、業界パネリストは次の課題がカストディ、アドバイザー経由の販売、マーケットインフラにあると指摘した。CoinShares、Calamos、ProShares、Flow Tradersの幹部は討議で、Coinbaseに偏ったカストディ集中、まだ限定的な金融アドバイザーの採用、ETF設定フローの非効率を主要な問題として挙げた。現物ETFはビットコインへのエクスポージャーを規制下の商品に取り込んだが、運用と取引を支える仕組みには一段の改善が必要だという見方だ。市場の持続的成長には、カストディの分散、アドバイザー参加の拡大、設定・償還手続きの改善が重要になる。出典: coindesk.com。"
-      },
-      "zh": {
-        "title": "现货比特币ETF解决准入后，托管与顾问短板浮现",
-        "excerpt": "CoinShares、Calamos、ProShares和Flow Traders高层表示，现货比特币ETF扩大了投资准入，但托管集中、顾问采用有限和申购流程低效仍是待解难题。",
-        "body": "现货比特币ETF在很大程度上解决了投资者准入问题，但业内小组嘉宾表示，下一阶段的挑战集中在托管、顾问渠道和市场基础设施。来自CoinShares、Calamos、ProShares和Flow Traders的高层在讨论中指出，托管过度集中于Coinbase、财务顾问采用度仍然有限，以及ETF申购流程效率不足，是当前主要问题。现货ETF已把比特币敞口纳入受监管的投资产品，但支撑其运营和交易的结构仍需进一步完善。嘉宾认为，市场要持续增长，需要推动托管分散、扩大顾问参与，并改进申购与赎回流程。来源：coindesk.com。"
-      },
-      "es": {
-        "title": "ETF spot de Bitcoin: acceso resuelto, pero custodia y asesores rezagados",
-        "excerpt": "Directivos de CoinShares, Calamos, ProShares y Flow Traders dijeron que los ETF spot de Bitcoin mejoraron el acceso, pero siguen pendientes la concentración de custodia, la baja adopción de asesores y la ineficiencia operativa.",
-        "body": "Los ETF spot de Bitcoin han resuelto buena parte del problema de acceso para los inversores, pero los panelistas señalaron que los próximos retos están en la custodia, los canales de asesores y la infraestructura de mercado. Altos cargos de CoinShares, Calamos, ProShares y Flow Traders destacaron en un panel la fuerte concentración de custodia en Coinbase, la adopción aún modesta por parte de asesores financieros y las ineficiencias en los flujos de creación de ETF. Estos productos llevaron la exposición a Bitcoin a vehículos regulados, pero las estructuras operativas y de negociación aún requieren ajustes. Para sostener el crecimiento, dijeron, harán falta más diversificación de custodia, mayor participación de asesores y mejores procesos de creación y reembolso. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "ETFs spot de Bitcoin avançam no acesso, mas custódia ainda pesa",
-        "excerpt": "Executivos da CoinShares, Calamos, ProShares e Flow Traders disseram que os ETFs spot de Bitcoin ampliaram o acesso, mas concentração de custódia, baixa adoção por assessores e fluxos de criação ineficientes seguem como desafios.",
-        "body": "Os ETFs spot de Bitcoin resolveram grande parte do problema de acesso para investidores, mas painelistas afirmaram que os próximos desafios estão em custódia, canais de assessoria e infraestrutura de mercado. Executivos da CoinShares, Calamos, ProShares e Flow Traders apontaram, em discussão, a concentração de custódia em torno da Coinbase, a adoção ainda modesta por assessores financeiros e ineficiências nos fluxos de criação de ETFs como questões centrais. Os produtos levaram exposição ao Bitcoin para estruturas reguladas, mas os mecanismos operacionais e de negociação ainda precisam ser aprimorados. Para sustentar o crescimento, será necessário ampliar a diversificação de custódia, a participação de assessores e melhorar processos de criação e resgate. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Spot-Bitcoin-ETFs: Zugang gelöst, doch Verwahrung bleibt Problem",
-        "excerpt": "Führungskräfte von CoinShares, Calamos, ProShares und Flow Traders sagten, Spot-Bitcoin-ETFs hätten den Zugang verbessert, doch Verwahrungskonzentration, geringe Beraternutzung und ineffiziente Creation-Flows bleiben offen.",
-        "body": "Spot-Bitcoin-ETFs haben das Zugangsproblem für Anleger weitgehend gelöst, doch Panelteilnehmer sehen die nächsten Herausforderungen bei Verwahrung, Beraterkanälen und Marktinfrastruktur. Führende Vertreter von CoinShares, Calamos, ProShares und Flow Traders nannten in einer Diskussion die starke Konzentration der Verwahrung bei Coinbase, die weiterhin begrenzte Nutzung durch Finanzberater und Ineffizienzen bei ETF-Creation-Flows als zentrale Punkte. Die Produkte haben Bitcoin-Exposure in regulierte Anlagevehikel gebracht, doch die operativen und handelstechnischen Strukturen müssen weiter verbessert werden. Für weiteres Wachstum seien breitere Verwahrungslösungen, mehr Beraterbeteiligung und effizientere Creation- und Redemption-Prozesse nötig. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "ETF Bitcoin spot : l’accès progresse, la garde et les conseillers restent en retard",
-        "excerpt": "Des dirigeants de CoinShares, Calamos, ProShares et Flow Traders ont estimé que les ETF Bitcoin spot ont amélioré l’accès, mais que la concentration de la garde, l’adoption limitée par les conseillers et les flux de création restent problématiques.",
-        "body": "Les ETF Bitcoin spot ont largement résolu le problème d’accès des investisseurs, mais les intervenants d’un panel ont indiqué que les prochains défis concernent la garde, les réseaux de conseillers et l’infrastructure de marché. Des responsables de CoinShares, Calamos, ProShares et Flow Traders ont cité la forte concentration de la garde autour de Coinbase, l’adoption encore modeste par les conseillers financiers et les inefficacités des flux de création d’ETF comme principaux enjeux. Ces produits ont intégré l’exposition au Bitcoin dans des véhicules réglementés, mais les mécanismes opérationnels et de négociation doivent encore être affinés. La croissance durable dépendra d’une garde plus diversifiée, d’une participation accrue des conseillers et de processus de création et de rachat plus efficaces. Source : coindesk.com."
-      },
-      "ar": {
-        "title": "صناديق بتكوين الفورية تحل الوصول وتبقي الحفظ والمستشارين تحديا",
-        "excerpt": "قال مسؤولون من CoinShares وCalamos وProShares وFlow Traders إن صناديق بتكوين الفورية حسنت الوصول، لكن تركز الحفظ، وضعف تبني المستشارين، وعدم كفاءة تدفقات الإنشاء لا تزال مشكلات أساسية.",
-        "body": "حلت صناديق بتكوين المتداولة الفورية جزءا كبيرا من مشكلة وصول المستثمرين، لكن مشاركين في جلسة نقاش قالوا إن التحديات التالية تتركز في الحفظ وقنوات المستشارين وبنية السوق. وأشار مسؤولون كبار من CoinShares وCalamos وProShares وFlow Traders إلى تركز الحفظ بشكل كبير لدى Coinbase، وإلى تبن محدود من المستشارين الماليين، وإلى عدم كفاءة في تدفقات إنشاء وحدات الصناديق. هذه المنتجات أدخلت التعرض لبتكوين ضمن أدوات استثمار منظمة، لكن الهياكل التشغيلية والتداولية الداعمة لها ما زالت تحتاج إلى تطوير. ويرى المشاركون أن استمرار نمو السوق يتطلب تنويعا أكبر في الحفظ، وزيادة مشاركة المستشارين، وتحسين إجراءات الإنشاء والاسترداد. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "स्पॉट बिटकॉइन ETF में पहुंच सुधरी, पर कस्टडी और सलाहकार चुनौती",
-        "excerpt": "CoinShares, Calamos, ProShares और Flow Traders के वरिष्ठ अधिकारियों ने कहा कि स्पॉट बिटकॉइन ETF ने पहुंच बेहतर की है, लेकिन कस्टडी केंद्रीकरण, कम सलाहकार अपनापन और क्रिएशन फ्लो की अक्षमता अब भी प्रमुख मुद्दे हैं।",
-        "body": "स्पॉट बिटकॉइन ETF ने निवेशकों की पहुंच से जुड़ी बड़ी समस्या को काफी हद तक हल किया है, लेकिन पैनलिस्टों ने कहा कि अगली चुनौतियां कस्टडी, सलाहकार चैनलों और बाजार संरचना में हैं। CoinShares, Calamos, ProShares और Flow Traders के वरिष्ठ प्रतिनिधियों ने चर्चा में Coinbase पर भारी कस्टडी निर्भरता, वित्तीय सलाहकारों द्वारा अभी सीमित अपनाने और ETF क्रिएशन फ्लो की अक्षमता को प्रमुख समस्याओं के रूप में उठाया। इन उत्पादों ने बिटकॉइन एक्सपोजर को विनियमित निवेश ढांचे में ला दिया है, लेकिन इनके संचालन और ट्रेडिंग को सहारा देने वाली व्यवस्था को और बेहतर करने की जरूरत है। पैनलिस्टों के अनुसार आगे की वृद्धि के लिए कस्टडी में विविधता, सलाहकारों की अधिक भागीदारी और क्रिएशन-रिडेम्प्शन प्रक्रियाओं में सुधार जरूरी होगा। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "ETF Bitcoin Spot Buka Akses, Namun Kustodi dan Penasihat Tertinggal",
-        "excerpt": "Eksekutif CoinShares, Calamos, ProShares dan Flow Traders mengatakan ETF Bitcoin spot memperluas akses, tetapi konsentrasi kustodi, adopsi penasihat yang terbatas dan alur creation yang tidak efisien masih menjadi masalah.",
-        "body": "ETF Bitcoin spot telah menyelesaikan sebagian besar masalah akses bagi investor, tetapi para panelis mengatakan tantangan berikutnya berada pada kustodi, kanal penasihat dan infrastruktur pasar. Tokoh senior dari CoinShares, Calamos, ProShares dan Flow Traders dalam diskusi panel menyoroti konsentrasi kustodi yang berat pada Coinbase, adopsi yang masih terbatas oleh penasihat keuangan, serta ketidakefisienan dalam alur creation ETF sebagai masalah utama. Produk ini membawa eksposur Bitcoin ke dalam instrumen investasi teregulasi, tetapi struktur operasional dan perdagangan di belakangnya masih perlu disempurnakan. Menurut para panelis, pertumbuhan pasar yang berkelanjutan membutuhkan diversifikasi kustodi, keterlibatan penasihat yang lebih luas, serta proses creation dan redemption yang lebih baik. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "364bbd74b7ff",
-    "slug": "reid-hoffman-says-nfts-may-make-a-comeback-as-ai-agents-stra-649442",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T22:12:04.560Z",
-    "updatedAt": "2026-05-06T22:12:04.560Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/06/reid-hoffman-says-nfts-may-make-a-comeback-as-ai-agents-strain-online-identity",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/reid-hoffman-says-nfts-may-make-a-comeback-as-ai-agents-strain-online-identity",
-    "titleFingerprint": "75122470f61ddfaa449b5f45560ed0d306dbf436",
-    "dedupKeys": [
-      "364bbd74b7ff9fed3dc6a7af467564942aa30445",
-      "75122470f61ddfaa449b5f45560ed0d306dbf436",
-      "2324543eef29c370a79bba36bb0ba9d46ea11539"
-    ],
-    "imageUrl": "/images/articles/364bbd74b7ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "NFT 재부상 가능성 주목, 리드 호프먼이 본 AI 에이전트와 온라인 신원 문제",
-        "excerpt": "그레이록 파트너이자 링크드인 공동창업자 리드 호프먼은 AI 에이전트가 공개 인터넷에서 거래하려면 암호화폐 기반 신뢰 체계가 필요하다고 말했다.",
-        "body": "그레이록 파트너이자 링크드인 공동창업자인 리드 호프먼은 AI 에이전트가 온라인 신원 체계에 부담을 주면서 NFT가 다시 주목받을 수 있다고 말했다. 자율적으로 움직이는 에이전트가 공개 인터넷에서 거래하고 상호작용하려면, 상대가 누구인지와 권한을 확인할 수 있는 신뢰 장치가 필요하다는 설명이다. 그는 이 맥락에서 암호화폐 기반 신뢰 시스템이 역할을 할 수 있다고 봤다. NFT는 디지털 소유권과 식별을 표현하는 수단으로 활용될 수 있어, AI 에이전트 시대의 신원 문제와 다시 연결될 가능성이 제기된다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "NFT comeback gains attention as Reid Hoffman links AI agents to online identity strain",
-        "excerpt": "Greylock partner and LinkedIn co-founder Reid Hoffman said AI agents may need crypto-based trust systems to transact across the open internet.",
-        "body": "Reid Hoffman, a Greylock partner and LinkedIn co-founder, said NFTs may draw attention again as AI agents put pressure on online identity systems. His point is that autonomous agents interacting and transacting across the open internet will need trust mechanisms that can verify who or what is acting and what authority it has. In that context, Hoffman said crypto-based trust systems could play a role. Because NFTs can represent digital ownership and identification, they may become relevant again as identity questions grow in the AI agent era. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "NFT再浮上に注目、リード・ホフマン氏がAIエージェントとオンラインID問題を指摘",
-        "excerpt": "グレイロックのパートナーでリンクトイン共同創業者のリード・ホフマン氏は、AIエージェントの取引には暗号資産ベースの信頼システムが必要だと述べた。",
-        "body": "グレイロックのパートナーでリンクトイン共同創業者のリード・ホフマン氏は、AIエージェントがオンラインIDの仕組みに負荷をかける中で、NFTが再び注目される可能性があると述べた。自律的に動くエージェントが公開インターネット上で取引し、相互にやり取りするには、相手や権限を確認できる信頼の仕組みが必要になるという見方だ。この文脈で同氏は、暗号資産ベースの信頼システムが役割を果たし得るとした。NFTはデジタル所有権や識別を表す手段になり得るため、AIエージェント時代のID問題と再び結び付く可能性がある。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "NFT回归受关注，里德·霍夫曼谈AI代理带来的在线身份压力",
-        "excerpt": "Greylock合伙人、LinkedIn联合创始人里德·霍夫曼表示，AI代理若要在开放互联网交易，可能需要基于加密货币的信任系统。",
-        "body": "Greylock合伙人、LinkedIn联合创始人里德·霍夫曼表示，随着AI代理给在线身份体系带来压力，NFT可能再次受到关注。他的观点是，自主运行的代理若要在开放互联网中交易和互动，就需要能够确认对方身份及其权限的信任机制。在这一背景下，霍夫曼认为，基于加密货币的信任系统可能发挥作用。由于NFT可用于表达数字所有权和身份识别，它们有可能在AI代理时代的身份问题中重新获得相关性。来源: coindesk.com."
-      },
-      "es": {
-        "title": "El regreso de los NFT cobra atención mientras Reid Hoffman vincula agentes de IA e identidad online",
-        "excerpt": "Reid Hoffman, socio de Greylock y cofundador de LinkedIn, dijo que los agentes de IA necesitarán sistemas de confianza basados en cripto para operar en internet abierto.",
-        "body": "Reid Hoffman, socio de Greylock y cofundador de LinkedIn, dijo que los NFT podrían volver a ganar atención a medida que los agentes de IA presionen los sistemas de identidad online. Su planteamiento es que los agentes autónomos, al interactuar y realizar transacciones en internet abierto, necesitarán mecanismos de confianza capaces de verificar quién o qué actúa y con qué autoridad. En ese contexto, Hoffman señaló que los sistemas de confianza basados en criptomonedas podrían desempeñar un papel. Como los NFT pueden representar propiedad digital e identificación, podrían volver a conectarse con el debate sobre identidad en la era de los agentes de IA. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Volta dos NFTs ganha atenção enquanto Reid Hoffman liga agentes de IA à identidade online",
-        "excerpt": "Reid Hoffman, sócio da Greylock e cofundador do LinkedIn, disse que agentes de IA podem precisar de sistemas de confiança baseados em cripto para transacionar na internet aberta.",
-        "body": "Reid Hoffman, sócio da Greylock e cofundador do LinkedIn, disse que os NFTs podem voltar a ganhar atenção à medida que agentes de IA pressionam os sistemas de identidade online. A visão dele é que agentes autônomos, ao interagir e realizar transações na internet aberta, precisarão de mecanismos de confiança capazes de verificar quem ou o que está agindo e com qual autoridade. Nesse contexto, Hoffman afirmou que sistemas de confiança baseados em criptomoedas podem ter um papel. Como NFTs podem representar propriedade digital e identificação, eles podem voltar a se conectar ao problema de identidade na era dos agentes de IA. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "NFT-Comeback rückt in den Fokus, Reid Hoffman verknüpft KI-Agenten mit Online-Identität",
-        "excerpt": "Greylock-Partner und LinkedIn-Mitgründer Reid Hoffman sagte, KI-Agenten könnten für Transaktionen im offenen Internet kryptobasierte Vertrauenssysteme benötigen.",
-        "body": "Reid Hoffman, Greylock-Partner und Mitgründer von LinkedIn, sagte, NFTs könnten wieder stärker in den Fokus rücken, wenn KI-Agenten Online-Identitätssysteme belasten. Sein Punkt: Autonom handelnde Agenten, die im offenen Internet interagieren und Transaktionen ausführen, brauchen Vertrauensmechanismen, mit denen sich Akteur und Berechtigung überprüfen lassen. In diesem Zusammenhang könnten laut Hoffman kryptobasierte Vertrauenssysteme eine Rolle spielen. Da NFTs digitales Eigentum und Identifikation abbilden können, könnten sie in der Ära der KI-Agenten erneut mit Identitätsfragen verbunden werden. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Le retour des NFT attire l’attention alors que Reid Hoffman lie agents IA et identité en ligne",
-        "excerpt": "Reid Hoffman, partenaire chez Greylock et cofondateur de LinkedIn, a déclaré que les agents IA pourraient avoir besoin de systèmes de confiance fondés sur la crypto pour transiger sur l’internet ouvert.",
-        "body": "Reid Hoffman, partenaire chez Greylock et cofondateur de LinkedIn, a déclaré que les NFT pourraient de nouveau attirer l’attention à mesure que les agents IA mettent sous pression les systèmes d’identité en ligne. Selon lui, des agents autonomes qui interagissent et réalisent des transactions sur l’internet ouvert auront besoin de mécanismes de confiance capables de vérifier qui ou quoi agit, et avec quelle autorité. Dans ce contexte, Hoffman estime que des systèmes de confiance fondés sur les cryptomonnaies pourraient jouer un rôle. Comme les NFT peuvent représenter la propriété numérique et l’identification, ils pourraient redevenir pertinents face aux enjeux d’identité de l’ère des agents IA. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "عودة NFT محط اهتمام مع ربط ريد هوفمان وكلاء الذكاء الاصطناعي بضغط الهوية الرقمية",
-        "excerpt": "قال ريد هوفمان، شريك Greylock والمؤسس المشارك لـLinkedIn، إن وكلاء الذكاء الاصطناعي قد يحتاجون إلى أنظمة ثقة قائمة على العملات المشفرة للتعامل عبر الإنترنت المفتوح.",
-        "body": "قال ريد هوفمان، شريك Greylock والمؤسس المشارك لـLinkedIn، إن رموز NFT قد تعود إلى دائرة الاهتمام مع تسبب وكلاء الذكاء الاصطناعي في ضغط على أنظمة الهوية عبر الإنترنت. وتقوم فكرته على أن الوكلاء المستقلين، عند التفاعل وإجراء المعاملات عبر الإنترنت المفتوح، سيحتاجون إلى آليات ثقة قادرة على التحقق من هوية الجهة الفاعلة وصلاحياتها. وفي هذا السياق، رأى هوفمان أن أنظمة الثقة القائمة على العملات المشفرة قد تؤدي دورا مهما. وبما أن NFT يمكن أن تمثل الملكية الرقمية والتعريف، فقد تصبح مرتبطة مجددا بمشكلة الهوية في عصر وكلاء الذكاء الاصطناعي. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "NFT की वापसी पर नजर, रीड हॉफमैन ने AI एजेंटों को ऑनलाइन पहचान दबाव से जोड़ा",
-        "excerpt": "Greylock पार्टनर और LinkedIn सह-संस्थापक रीड हॉफमैन ने कहा कि खुले इंटरनेट पर लेनदेन के लिए AI एजेंटों को क्रिप्टो-आधारित भरोसा प्रणालियों की जरूरत हो सकती है।",
-        "body": "Greylock पार्टनर और LinkedIn सह-संस्थापक रीड हॉफमैन ने कहा कि AI एजेंटों के कारण ऑनलाइन पहचान प्रणालियों पर दबाव बढ़ने से NFT फिर से चर्चा में आ सकते हैं। उनका कहना है कि खुले इंटरनेट पर लेनदेन और बातचीत करने वाले स्वायत्त एजेंटों को ऐसे भरोसा तंत्र की जरूरत होगी जो यह सत्यापित कर सके कि कौन या क्या काम कर रहा है और उसके पास क्या अधिकार हैं। इसी संदर्भ में हॉफमैन ने कहा कि क्रिप्टो-आधारित भरोसा प्रणालियां भूमिका निभा सकती हैं। NFT डिजिटल स्वामित्व और पहचान को व्यक्त कर सकते हैं, इसलिए AI एजेंटों के दौर में वे पहचान से जुड़े प्रश्नों से फिर जुड़ सकते हैं। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Kembalinya NFT disorot saat Reid Hoffman kaitkan agen AI dengan tekanan identitas online",
-        "excerpt": "Reid Hoffman, partner Greylock dan salah satu pendiri LinkedIn, mengatakan agen AI mungkin memerlukan sistem kepercayaan berbasis kripto untuk bertransaksi di internet terbuka.",
-        "body": "Reid Hoffman, partner Greylock dan salah satu pendiri LinkedIn, mengatakan NFT dapat kembali mendapat perhatian ketika agen AI memberi tekanan pada sistem identitas online. Menurutnya, agen otonom yang berinteraksi dan bertransaksi di internet terbuka akan membutuhkan mekanisme kepercayaan yang mampu memverifikasi siapa atau apa yang bertindak serta wewenangnya. Dalam konteks itu, Hoffman menilai sistem kepercayaan berbasis kripto dapat berperan. Karena NFT dapat mewakili kepemilikan digital dan identifikasi, aset ini mungkin kembali relevan dengan masalah identitas pada era agen AI. Sumber: coindesk.com."
       }
     }
   }
