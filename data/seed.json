@@ -1,5 +1,230 @@
 [
   {
+    "id": "39dc2e67a8c5",
+    "slug": "bitcoin-treasury-firms-outline-3-trillion-opportunity-in-btc-595607",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T12:59:54.577Z",
+    "updatedAt": "2026-05-07T12:59:54.577Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/07/bitcoin-treasury-firms-outline-usd3-trillion-opportunity-in-btc-backed-digital-credit-at-consensus",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/07/bitcoin-treasury-firms-outline-usd3-trillion-opportunity-in-btc-backed-digital-credit-at-consensus",
+    "titleFingerprint": "f36c7e215c35e954aeb39a535dc7f58c8420f36d",
+    "dedupKeys": [
+      "39dc2e67a8c57a7ae3df72aba9794a22cd629494",
+      "f36c7e215c35e954aeb39a535dc7f58c8420f36d",
+      "9ed2aa2decffb9675b68e424c4881fe822df3255"
+    ],
+    "imageUrl": "/images/articles/39dc2e67a8c5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 담보 디지털 신용, 컨센서스서 3조달러 기회 부상",
+        "excerpt": "비트코인 트레저리 기업 임원들은 컨센서스에서 BTC 담보 디지털 신용이 빠르게 확장 중이며 장기적으로 3조달러 규모의 기회가 될 수 있다고 밝혔다.",
+        "body": "컨센서스 행사에서 비트코인 트레저리 기업 임원들은 비트코인 담보 ‘디지털 신용’ 시장이 빠르게 커지고 있다고 밝혔다. 이들은 BTC를 기반으로 한 신용 상품이 장기적으로 3조달러 규모의 기회로 발전할 수 있다고 설명했다. 배경에는 비트코인을 보유한 기업들이 자산을 단순 보관하는 데 그치지 않고 담보 기반 신용으로 활용하려는 흐름이 있다. 관련 수치로 제시된 3조달러 전망은 이 시장의 잠재적 규모를 보여준다. 향후 관건은 BTC 담보 신용이 실제 금융 수요와 얼마나 연결되는지다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Bitcoin-Backed Digital Credit Takes Spotlight With $3T Opportunity",
+        "excerpt": "Executives from Bitcoin treasury firms said at Consensus that BTC-backed digital credit is scaling quickly and could become a $3 trillion long-term opportunity.",
+        "body": "At Consensus, executives from Bitcoin treasury firms said the market for Bitcoin-backed “digital credit” is expanding quickly. They described BTC-based credit products as a long-term opportunity that could reach $3 trillion. The backdrop is a shift among companies holding Bitcoin from simply storing the asset to using it as collateral for credit. The $3 trillion figure cited by executives underscores the potential scale of the market. The key question ahead is how closely BTC-backed credit can connect with real financial demand. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "ビットコイン担保デジタル信用、3兆ドル機会として注目",
+        "excerpt": "ビットコイン財務企業の幹部らはConsensusで、BTC担保デジタル信用が急速に拡大し、長期的に3兆ドル規模の機会になり得ると述べた。",
+        "body": "Consensusの会場で、ビットコイン財務企業の幹部らは、ビットコイン担保の「デジタル信用」市場が急速に拡大していると述べた。幹部らは、BTCを基盤とする信用商品が長期的に3兆ドル規模の機会へ発展する可能性があると説明した。背景には、ビットコインを保有する企業が資産を単に保管するだけでなく、担保付き信用に活用しようとする流れがある。提示された3兆ドルという数字は、この市場の潜在規模を示している。今後の焦点は、BTC担保信用が実際の金融需要とどこまで結び付くかだ。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "比特币抵押数字信贷受关注，长期机会达3万亿美元",
+        "excerpt": "比特币财库公司高管在Consensus表示，BTC抵押数字信贷正快速扩张，长期可能发展为规模达3万亿美元的市场机会。",
+        "body": "在Consensus大会上，比特币财库公司高管表示，比特币抵押的“数字信贷”市场正在快速扩大。他们称，基于BTC的信贷产品长期可能发展为3万亿美元规模的机会。其背景是，持有比特币的企业不再只是单纯保管资产，而是尝试将其用于抵押型信贷。高管提出的3万亿美元数字显示了这一市场的潜在规模。接下来的关键在于，BTC抵押信贷能在多大程度上与真实金融需求连接。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Crédito digital respaldado por Bitcoin apunta a oportunidad de $3 billones",
+        "excerpt": "Ejecutivos de firmas con tesorería en Bitcoin dijeron en Consensus que el crédito digital respaldado por BTC crece rápido y podría alcanzar una oportunidad de $3 billones a largo plazo.",
+        "body": "En Consensus, ejecutivos de firmas con tesorería en Bitcoin dijeron que el mercado de “crédito digital” respaldado por Bitcoin se está expandiendo con rapidez. Señalaron que los productos de crédito basados en BTC podrían convertirse a largo plazo en una oportunidad de $3 billones. El contexto es un cambio entre empresas que mantienen Bitcoin: pasar de solo custodiar el activo a usarlo como garantía para crédito. La cifra de $3 billones citada muestra la escala potencial del mercado. La cuestión clave será cuánto podrá conectarse el crédito respaldado por BTC con la demanda financiera real. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Crédito digital com garantia em Bitcoin mira oportunidade de US$ 3 tri",
+        "excerpt": "Executivos de empresas de tesouraria em Bitcoin disseram no Consensus que o crédito digital lastreado em BTC cresce rapidamente e pode representar uma oportunidade de US$ 3 trilhões no longo prazo.",
+        "body": "No Consensus, executivos de empresas de tesouraria em Bitcoin disseram que o mercado de “crédito digital” com garantia em Bitcoin está se expandindo rapidamente. Eles afirmaram que produtos de crédito baseados em BTC podem se tornar uma oportunidade de US$ 3 trilhões no longo prazo. O contexto é a mudança entre empresas que detêm Bitcoin, deixando de apenas guardar o ativo para usá-lo como garantia em crédito. O número de US$ 3 trilhões citado indica o potencial de escala desse mercado. O ponto central será quanto o crédito garantido por BTC se conectará à demanda financeira real. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Bitcoin-besicherter Digitalkredit rückt mit 3-Billionen-Dollar-Chance vor",
+        "excerpt": "Führungskräfte von Bitcoin-Treasury-Firmen sagten auf der Consensus, dass BTC-besicherter digitaler Kredit schnell wächst und langfristig eine Chance von 3 Billionen Dollar sein könnte.",
+        "body": "Auf der Consensus erklärten Führungskräfte von Bitcoin-Treasury-Firmen, dass der Markt für Bitcoin-besicherten „digitalen Kredit“ schnell wächst. Sie beschrieben BTC-basierte Kreditprodukte als langfristige Chance, die ein Volumen von 3 Billionen Dollar erreichen könnte. Hintergrund ist ein Wandel bei Unternehmen, die Bitcoin halten: Sie bewahren den Vermögenswert nicht nur auf, sondern wollen ihn auch als Sicherheit für Kredit nutzen. Die genannte Zahl von 3 Billionen Dollar zeigt die mögliche Größe dieses Marktes. Entscheidend wird sein, wie stark BTC-besicherter Kredit mit realer Finanznachfrage verbunden wird. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Le crédit numérique adossé au Bitcoin vise une opportunité de 3 000 Md$",
+        "excerpt": "Des dirigeants de sociétés de trésorerie Bitcoin ont déclaré à Consensus que le crédit numérique adossé au BTC se développe vite et pourrait représenter 3 000 Md$ à long terme.",
+        "body": "Lors de Consensus, des dirigeants de sociétés de trésorerie Bitcoin ont déclaré que le marché du « crédit numérique » adossé au Bitcoin se développe rapidement. Ils ont présenté les produits de crédit basés sur le BTC comme une opportunité de long terme pouvant atteindre 3 000 milliards de dollars. Le contexte est l’évolution d’entreprises détenant du Bitcoin, qui ne se limitent plus à conserver l’actif mais cherchent à l’utiliser comme garantie de crédit. Le chiffre de 3 000 milliards de dollars illustre l’ampleur potentielle du marché. L’enjeu sera de savoir dans quelle mesure ce crédit adossé au BTC répondra à une demande financière réelle. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "الائتمان الرقمي المدعوم ببيتكوين يبرز كفرصة بقيمة 3 تريليونات دولار",
+        "excerpt": "قال مسؤولون في شركات خزائن بيتكوين خلال Consensus إن الائتمان الرقمي المدعوم بـBTC يتوسع بسرعة وقد يمثل فرصة طويلة الأجل بقيمة 3 تريليونات دولار.",
+        "body": "خلال فعالية Consensus، قال مسؤولون في شركات خزائن بيتكوين إن سوق «الائتمان الرقمي» المدعوم ببيتكوين ينمو بسرعة. وأوضحوا أن منتجات الائتمان القائمة على BTC قد تتحول على المدى الطويل إلى فرصة بقيمة 3 تريليونات دولار. وتأتي الخلفية من توجه الشركات المالكة لبيتكوين إلى عدم الاكتفاء بحفظ الأصل، بل استخدامه كضمان للحصول على الائتمان. ويبرز رقم 3 تريليونات دولار الحجم المحتمل لهذا السوق. وسيكون العامل الحاسم هو مدى ارتباط الائتمان المدعوم بـBTC بالطلب المالي الفعلي. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "Bitcoin-समर्थित डिजिटल क्रेडिट में 3 ट्रिलियन डॉलर का अवसर उभरा",
+        "excerpt": "Bitcoin treasury कंपनियों के अधिकारियों ने Consensus में कहा कि BTC-समर्थित डिजिटल क्रेडिट तेजी से बढ़ रहा है और लंबी अवधि में 3 ट्रिलियन डॉलर का अवसर बन सकता है।",
+        "body": "Consensus में Bitcoin treasury कंपनियों के अधिकारियों ने कहा कि Bitcoin-समर्थित “डिजिटल क्रेडिट” बाजार तेजी से विस्तार कर रहा है। उनके अनुसार, BTC पर आधारित क्रेडिट उत्पाद लंबी अवधि में 3 ट्रिलियन डॉलर के अवसर के रूप में विकसित हो सकते हैं। इसकी पृष्ठभूमि में वे कंपनियां हैं जो Bitcoin को केवल सुरक्षित रखने के बजाय उसे क्रेडिट के लिए गिरवी संपत्ति के रूप में उपयोग करना चाहती हैं। अधिकारियों द्वारा बताई गई 3 ट्रिलियन डॉलर की संख्या इस बाजार की संभावित व्यापकता दिखाती है। आगे मुख्य प्रश्न यह होगा कि BTC-समर्थित क्रेडिट वास्तविक वित्तीय मांग से कितना जुड़ पाता है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Kredit Digital Berjaminan Bitcoin Bidik Peluang US$3 Triliun",
+        "excerpt": "Eksekutif perusahaan treasury Bitcoin mengatakan di Consensus bahwa kredit digital berbasis jaminan BTC tumbuh cepat dan dapat menjadi peluang jangka panjang senilai US$3 triliun.",
+        "body": "Dalam acara Consensus, eksekutif perusahaan treasury Bitcoin mengatakan pasar “kredit digital” berbasis jaminan Bitcoin sedang berkembang cepat. Mereka menyebut produk kredit berbasis BTC dapat menjadi peluang jangka panjang senilai US$3 triliun. Latar belakangnya adalah perusahaan yang memegang Bitcoin mulai tidak hanya menyimpan aset tersebut, tetapi juga memanfaatkannya sebagai jaminan kredit. Angka US$3 triliun yang disebutkan menunjukkan skala potensial pasar ini. Ke depan, hal pentingnya adalah seberapa jauh kredit berjaminan BTC dapat terhubung dengan kebutuhan finansial nyata. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "e686f4b4721a",
+    "slug": "sofis-crypto-relaunch-brought-in-1216-million-in-q1-almost-a-282447",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T12:58:57.952Z",
+    "updatedAt": "2026-05-07T12:58:57.952Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/07/sofi-s-relaunched-crypto-business-generated-usd121-6-million-in-q1-transaction-revenue",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/07/sofi-s-relaunched-crypto-business-generated-usd121-6-million-in-q1-transaction-revenue",
+    "titleFingerprint": "6fdf2fe3e28b97b22ee1fbfa74eb7a15da2d1970",
+    "dedupKeys": [
+      "e686f4b4721aa460f18aee83fb4d5320d5edbc20",
+      "6fdf2fe3e28b97b22ee1fbfa74eb7a15da2d1970",
+      "acf2dbd0def35f05eb67b54615bdf0f42e10c02a"
+    ],
+    "imageUrl": "/images/articles/e686f4b4721a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SoFi 암호화폐 재출시, 1분기 1억2160만달러 유입에도 비용 부담",
+        "excerpt": "SoFi는 1분기 암호화폐 재출시로 1억2160만달러를 벌었지만 대부분이 비용으로 처리됐고, 12월 SoFiUSD 출시와 마스터카드 협력이 배경이 됐다.",
+        "body": "SoFi의 암호화폐 사업 재출시는 1분기에 1억2160만달러의 유입을 기록했지만, 해당 금액의 거의 전부가 비용으로 나갔다. 회사는 지난해 12월 기업 결제용 스테이블코인 SoFiUSD를 출시했고, 결제 정산 역량을 위해 마스터카드와 협력했다. 이번 수치는 암호화폐 재진입이 매출 확대에는 기여했지만, 초기 운영과 관련 비용 부담이 컸다는 점을 보여준다. 향후 관건은 SoFiUSD와 마스터카드 정산 협력이 비용 구조를 개선하며 지속 가능한 사업 기반으로 이어질 수 있는지다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "SoFi crypto relaunch brought $121.6M in Q1, but costs consumed nearly all",
+        "excerpt": "SoFi generated $121.6 million from its crypto relaunch in Q1, but most of it went to costs after launching SoFiUSD in December and partnering with Mastercard.",
+        "body": "SoFi’s crypto business relaunch generated $121.6 million in inflows in the first quarter, but almost all of that amount went to costs. The company launched SoFiUSD, a stablecoin for enterprise payments, in December and partnered with Mastercard for settlement capabilities. The figures show that the return to crypto contributed to revenue growth, while early operating and related costs remained heavy. The key issue ahead is whether SoFiUSD and the Mastercard settlement partnership can improve the cost structure and support a sustainable business base. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "SoFiの暗号資産再開、1Qに1億2160万ドルも大半がコストに",
+        "excerpt": "SoFiは1Qの暗号資産事業再開で1億2160万ドルを得たが、その大半はコストに回り、12月のSoFiUSD開始とMastercard提携が背景となった。",
+        "body": "SoFiの暗号資産事業再開は第1四半期に1億2160万ドルの流入を記録したが、そのほぼ全額がコストとして支出された。同社は昨年12月、企業決済向けステーブルコインSoFiUSDを開始し、決済処理能力を得るためMastercardと提携した。今回の数字は、暗号資産への再参入が収益拡大に寄与した一方、初期運営と関連費用の負担が大きかったことを示している。今後の焦点は、SoFiUSDとMastercardの決済提携がコスト構造を改善し、持続可能な事業基盤につながるかどうかだ。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "SoFi重启加密业务首季进账1.216亿美元，但成本几乎吞噬全部",
+        "excerpt": "SoFi第一季度通过重启加密业务获得1.216亿美元，但大部分用于成本；此前公司12月推出SoFiUSD，并与万事达卡合作结算能力。",
+        "body": "SoFi重启加密货币业务后，第一季度录得1.216亿美元流入，但这笔金额几乎全部用于成本。该公司去年12月推出面向企业支付的稳定币SoFiUSD，并与万事达卡合作以获得结算能力。这一数据表明，重新进入加密领域推动了收入扩大，但早期运营和相关费用负担较重。接下来的关键在于，SoFiUSD以及与万事达卡的结算合作能否改善成本结构，并形成可持续的业务基础。来源: coindesk.com"
+      },
+      "es": {
+        "title": "SoFi reactivó cripto y captó US$121,6M en Q1, pero los costos pesaron",
+        "excerpt": "SoFi obtuvo US$121,6 millones con su relanzamiento cripto en el primer trimestre, aunque casi todo fue a costos tras lanzar SoFiUSD y asociarse con Mastercard.",
+        "body": "El relanzamiento del negocio cripto de SoFi generó US$121,6 millones en el primer trimestre, pero casi todo ese monto se destinó a costos. La compañía lanzó en diciembre SoFiUSD, una stablecoin para pagos empresariales, y se asoció con Mastercard para capacidades de liquidación. La cifra muestra que el regreso a las criptomonedas ayudó a ampliar ingresos, pero también que los costos iniciales de operación y otros gastos relacionados fueron elevados. La cuestión ahora es si SoFiUSD y la alianza de liquidación con Mastercard podrán mejorar la estructura de costos y sostener una base de negocio viable. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "SoFi relança cripto e soma US$121,6 mi no 1º tri, mas custos dominam",
+        "excerpt": "A SoFi gerou US$121,6 milhões com o relançamento cripto no 1º trimestre, mas quase tudo virou custo após lançar o SoFiUSD e fechar parceria com a Mastercard.",
+        "body": "O relançamento do negócio de criptomoedas da SoFi registrou US$121,6 milhões em entradas no primeiro trimestre, mas quase todo esse valor foi destinado a custos. A empresa lançou em dezembro o SoFiUSD, uma stablecoin para pagamentos corporativos, e firmou parceria com a Mastercard para capacidades de liquidação. Os números mostram que a volta ao mercado cripto contribuiu para ampliar receitas, enquanto os custos iniciais de operação e despesas relacionadas permaneceram elevados. O ponto central daqui em diante é se o SoFiUSD e a parceria de liquidação com a Mastercard poderão melhorar a estrutura de custos e apoiar uma base de negócio sustentável. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "SoFi-Krypto-Neustart bringt 121,6 Mio. USD in Q1, doch Kosten dominieren",
+        "excerpt": "SoFi erzielte im ersten Quartal 121,6 Mio. USD mit dem Krypto-Neustart, doch fast alles floss in Kosten nach SoFiUSD-Start und Mastercard-Partnerschaft.",
+        "body": "Der Neustart des Kryptogeschäfts von SoFi brachte im ersten Quartal Zuflüsse von 121,6 Millionen US-Dollar, doch nahezu der gesamte Betrag ging in Kosten auf. Das Unternehmen startete im Dezember SoFiUSD, einen Stablecoin für Unternehmenszahlungen, und kooperierte mit Mastercard für Abwicklungsfunktionen. Die Zahlen zeigen, dass die Rückkehr in den Kryptobereich zwar zum Umsatzwachstum beitrug, die frühen Betriebs- und damit verbundenen Kosten aber hoch blieben. Entscheidend wird nun sein, ob SoFiUSD und die Mastercard-Partnerschaft die Kostenstruktur verbessern und eine nachhaltige Geschäftsgrundlage schaffen können. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "SoFi relance la crypto et encaisse 121,6 M$ au T1, mais les coûts absorbent presque tout",
+        "excerpt": "SoFi a généré 121,6 M$ avec sa relance crypto au premier trimestre, mais la majeure partie est partie en coûts après SoFiUSD et l’accord avec Mastercard.",
+        "body": "La relance de l’activité crypto de SoFi a généré 121,6 millions de dollars d’entrées au premier trimestre, mais presque tout ce montant a été absorbé par les coûts. La société a lancé en décembre SoFiUSD, un stablecoin destiné aux paiements d’entreprise, et s’est associée à Mastercard pour des capacités de règlement. Ces chiffres montrent que le retour dans la crypto a contribué à accroître les revenus, tout en laissant apparaître des coûts initiaux d’exploitation et des dépenses liées élevés. L’enjeu sera de voir si SoFiUSD et le partenariat de règlement avec Mastercard peuvent améliorer la structure de coûts et soutenir une base d’activité durable. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "إعادة إطلاق كريبتو SoFi تجلب 121.6 مليون دولار في الربع الأول لكن التكاليف تبتلعها",
+        "excerpt": "حققت SoFi نحو 121.6 مليون دولار من إعادة إطلاق نشاط الكريبتو في الربع الأول، لكن معظمها ذهب للتكاليف بعد إطلاق SoFiUSD وشراكة Mastercard.",
+        "body": "سجلت إعادة إطلاق نشاط العملات المشفرة لدى SoFi تدفقات بلغت 121.6 مليون دولار في الربع الأول، لكن هذا المبلغ ذهب شبه كامل إلى التكاليف. أطلقت الشركة في ديسمبر عملة SoFiUSD المستقرة المخصصة لمدفوعات الشركات، ودخلت في شراكة مع Mastercard لتوفير قدرات التسوية. تظهر الأرقام أن العودة إلى العملات المشفرة ساعدت في زيادة الإيرادات، لكنها كشفت أيضا عن عبء كبير في تكاليف التشغيل الأولية والمصاريف المرتبطة بها. ويبقى السؤال الأهم هو ما إذا كان SoFiUSD وشراكة التسوية مع Mastercard قادرين على تحسين هيكل التكاليف وبناء قاعدة أعمال مستدامة. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "SoFi क्रिप्टो रीलॉन्च से Q1 में $121.6M आया, लेकिन लागत ने लगभग सब खा लिया",
+        "excerpt": "SoFi ने Q1 में क्रिप्टो रीलॉन्च से $121.6 मिलियन कमाए, लेकिन लगभग पूरी राशि लागत में गई; दिसंबर में SoFiUSD लॉन्च और Mastercard साझेदारी इसकी पृष्ठभूमि रही।",
+        "body": "SoFi के क्रिप्टो कारोबार के रीलॉन्च ने पहली तिमाही में $121.6 मिलियन की आमद दर्ज की, लेकिन यह राशि लगभग पूरी तरह लागत में चली गई। कंपनी ने दिसंबर में एंटरप्राइज पेमेंट्स के लिए SoFiUSD स्टेबलकॉइन लॉन्च किया था और सेटलमेंट क्षमताओं के लिए Mastercard के साथ साझेदारी की थी। ये आंकड़े दिखाते हैं कि क्रिप्टो में वापसी ने राजस्व बढ़ाने में योगदान दिया, लेकिन शुरुआती संचालन और संबंधित खर्चों का बोझ बड़ा रहा। आगे मुख्य सवाल यह है कि SoFiUSD और Mastercard की सेटलमेंट साझेदारी लागत ढांचे को सुधारकर टिकाऊ कारोबारी आधार बना पाएगी या नहीं। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Relaunch kripto SoFi hasilkan US$121,6 juta di Q1, namun biaya menyerap hampir semua",
+        "excerpt": "SoFi membukukan US$121,6 juta dari relaunch kripto pada kuartal pertama, tetapi hampir semuanya masuk biaya setelah SoFiUSD dan kemitraan Mastercard.",
+        "body": "Relaunch bisnis kripto SoFi mencatat arus masuk US$121,6 juta pada kuartal pertama, tetapi hampir seluruh jumlah itu digunakan untuk biaya. Perusahaan meluncurkan SoFiUSD, stablecoin untuk pembayaran enterprise, pada Desember dan bermitra dengan Mastercard untuk kemampuan settlement. Angka ini menunjukkan bahwa kembalinya SoFi ke kripto membantu memperluas pendapatan, sementara biaya operasional awal dan pengeluaran terkait masih besar. Fokus berikutnya adalah apakah SoFiUSD dan kemitraan settlement dengan Mastercard dapat memperbaiki struktur biaya dan mendukung dasar bisnis yang berkelanjutan. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "17e850c37f10",
+    "slug": "kraken-to-buy-stablecoin-payments-firm-reap-in-600-million-d-772163",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T12:58:04.088Z",
+    "updatedAt": "2026-05-07T12:58:04.088Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/07/kraken-to-buy-stablecoin-payments-firm-reap-in-usd600-million-deal-bloomberg",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/07/kraken-to-buy-stablecoin-payments-firm-reap-in-usd600-million-deal-bloomberg",
+    "titleFingerprint": "fce5a9dfacc5f9889d1cc26c7d4f11e903d97089",
+    "dedupKeys": [
+      "17e850c37f10b6bcc3cab12c7d2f0217d04212c1",
+      "fce5a9dfacc5f9889d1cc26c7d4f11e903d97089",
+      "ec64433c03f14a34f81ef892f41174c0c6a18405"
+    ],
+    "imageUrl": "/images/articles/17e850c37f10.jpg",
+    "i18n": {
+      "ko": {
+        "title": "크라켄, 6억달러에 스테이블코인 결제사 Reap 인수 추진",
+        "excerpt": "크라켄 소유주 페이워드가 아시아 스테이블코인·결제 인프라 확대를 위해 홍콩 기반 Reap Technologies를 6억달러 규모 거래로 인수한다고 블룸버그가 보도했다.",
+        "body": "블룸버그 보도에 따르면 크라켄 소유주 페이워드는 홍콩 기반 스테이블코인 결제 기업 Reap Technologies를 6억달러 규모 거래로 인수한다. 이번 인수는 크립토 거래소 크라켄이 아시아에서 스테이블코인과 결제 인프라 사업을 확대하는 과정에서 추진됐다. Reap은 홍콩에 기반을 둔 결제 기술 기업으로, 거래 규모는 6억달러로 전해졌다. 이번 거래가 완료되면 크라켄은 아시아 지역 결제 인프라와 스테이블코인 관련 사업 기반을 강화하게 된다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Kraken to Buy Stablecoin Payments Firm Reap in $600M Deal",
+        "excerpt": "Kraken owner Payward will acquire Hong Kong-based Reap Technologies in a $600 million deal as the exchange expands stablecoin and payments infrastructure in Asia, Bloomberg reported.",
+        "body": "According to Bloomberg, Kraken owner Payward will acquire Hong Kong-based stablecoin payments firm Reap Technologies in a $600 million deal. The acquisition comes as crypto exchange Kraken expands its stablecoin and payments infrastructure business in Asia. Reap is a Hong Kong-based payments technology company, and the reported transaction value is $600 million. If completed, the deal would strengthen Kraken’s payments infrastructure and stablecoin business base across Asia. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "クラーケン、ステーブルコイン決済Reapを6億ドルで買収へ",
+        "excerpt": "クラーケンの所有者Paywardは、アジアでステーブルコインと決済インフラ事業を拡大するため、香港拠点のReap Technologiesを6億ドル規模で買収するとブルームバーグが報じた。",
+        "body": "ブルームバーグによると、クラーケンの所有者であるPaywardは、香港拠点のステーブルコイン決済企業Reap Technologiesを6億ドル規模の取引で買収する。今回の買収は、暗号資産取引所クラーケンがアジアでステーブルコインと決済インフラ事業を拡大する中で進められた。Reapは香港を拠点とする決済技術企業で、取引額は6億ドルとされる。完了すれば、クラーケンはアジア地域の決済インフラとステーブルコイン関連事業基盤を強化することになる。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "Kraken拟6亿美元收购稳定币支付公司Reap",
+        "excerpt": "彭博报道称，Kraken所有方Payward将以6亿美元收购总部位于香港的Reap Technologies，以扩大其在亚洲的稳定币和支付基础设施业务。",
+        "body": "据彭博报道，Kraken所有方Payward将以6亿美元收购总部位于香港的稳定币支付公司Reap Technologies。此次收购发生在加密货币交易所Kraken扩大其亚洲稳定币和支付基础设施业务之际。Reap是一家位于香港的支付技术公司，报道中的交易规模为6亿美元。若交易完成，Kraken将在亚洲进一步加强支付基础设施和稳定币相关业务基础。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Kraken comprará Reap, firma de pagos con stablecoins, por $600M",
+        "excerpt": "Payward, dueño de Kraken, adquirirá Reap Technologies, con sede en Hong Kong, por $600 millones para ampliar su infraestructura de stablecoins y pagos en Asia, informó Bloomberg.",
+        "body": "Según Bloomberg, Payward, propietario de Kraken, adquirirá Reap Technologies, una empresa de pagos con stablecoins con sede en Hong Kong, en una operación de $600 millones. La adquisición llega mientras el exchange de criptomonedas Kraken amplía su negocio de infraestructura de stablecoins y pagos en Asia. Reap es una compañía de tecnología de pagos basada en Hong Kong, y el valor reportado de la transacción es de $600 millones. Si se completa, el acuerdo reforzará la base de Kraken en infraestructura de pagos y negocios vinculados a stablecoins en Asia. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Kraken comprará Reap, empresa de pagamentos com stablecoins, por US$ 600 mi",
+        "excerpt": "A Payward, dona da Kraken, adquirirá a Reap Technologies, sediada em Hong Kong, por US$ 600 milhões para expandir sua infraestrutura de stablecoins e pagamentos na Ásia, informou a Bloomberg.",
+        "body": "Segundo a Bloomberg, a Payward, proprietária da Kraken, adquirirá a Reap Technologies, empresa de pagamentos com stablecoins sediada em Hong Kong, em um acordo de US$ 600 milhões. A aquisição ocorre enquanto a exchange de criptomoedas Kraken expande seus negócios de infraestrutura de stablecoins e pagamentos na Ásia. A Reap é uma companhia de tecnologia de pagamentos baseada em Hong Kong, e o valor informado da transação é de US$ 600 milhões. Se concluído, o acordo fortalecerá a base da Kraken em infraestrutura de pagamentos e negócios ligados a stablecoins na Ásia. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Kraken kauft Stablecoin-Zahlungsfirma Reap für 600 Mio. Dollar",
+        "excerpt": "Kraken-Eigentümer Payward übernimmt die in Hongkong ansässige Reap Technologies für 600 Millionen Dollar, um Stablecoin- und Zahlungsinfrastruktur in Asien auszubauen, berichtete Bloomberg.",
+        "body": "Laut Bloomberg wird Kraken-Eigentümer Payward die in Hongkong ansässige Stablecoin-Zahlungsfirma Reap Technologies in einem Deal über 600 Millionen Dollar übernehmen. Die Akquisition erfolgt, während die Kryptobörse Kraken ihr Geschäft mit Stablecoin- und Zahlungsinfrastruktur in Asien ausbaut. Reap ist ein Zahlungstechnologieunternehmen mit Sitz in Hongkong, der gemeldete Transaktionswert liegt bei 600 Millionen Dollar. Bei Abschluss würde Kraken seine Basis für Zahlungsinfrastruktur und Stablecoin-Geschäfte in Asien stärken. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Kraken va racheter Reap, spécialiste des paiements en stablecoins, pour 600 M$",
+        "excerpt": "Payward, propriétaire de Kraken, va acquérir Reap Technologies, basée à Hong Kong, pour 600 millions de dollars afin d’étendre son infrastructure de stablecoins et de paiements en Asie, selon Bloomberg.",
+        "body": "Selon Bloomberg, Payward, propriétaire de Kraken, va acquérir Reap Technologies, société de paiements en stablecoins basée à Hong Kong, dans une transaction de 600 millions de dollars. Cette acquisition intervient alors que la plateforme d’échange de cryptomonnaies Kraken développe ses activités d’infrastructure de stablecoins et de paiements en Asie. Reap est une entreprise de technologie de paiement basée à Hong Kong, et le montant rapporté de l’opération est de 600 millions de dollars. Si elle est finalisée, l’opération renforcera la base de Kraken dans les paiements et les activités liées aux stablecoins en Asie. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "كراكن تستحوذ على Reap لمدفوعات العملات المستقرة مقابل 600 مليون دولار",
+        "excerpt": "ذكرت بلومبرغ أن Payward المالكة لكراكن ستستحوذ على Reap Technologies ومقرها هونغ كونغ مقابل 600 مليون دولار لتوسيع بنية العملات المستقرة والمدفوعات في آسيا.",
+        "body": "بحسب بلومبرغ، ستستحوذ Payward المالكة لكراكن على شركة Reap Technologies المتخصصة في مدفوعات العملات المستقرة ومقرها هونغ كونغ، في صفقة بقيمة 600 مليون دولار. وتأتي الصفقة بينما توسع منصة تداول العملات المشفرة كراكن أعمالها في بنية العملات المستقرة والمدفوعات في آسيا. Reap هي شركة تكنولوجيا مدفوعات مقرها هونغ كونغ، وتبلغ قيمة الصفقة المعلنة 600 مليون دولار. وإذا اكتملت، فستعزز كراكن قاعدة أعمالها في البنية التحتية للمدفوعات والأنشطة المرتبطة بالعملات المستقرة في آسيا. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "Kraken 600 मिलियन डॉलर में stablecoin भुगतान कंपनी Reap खरीदेगा",
+        "excerpt": "Bloomberg के अनुसार, Kraken की मालिक Payward एशिया में stablecoin और भुगतान अवसंरचना कारोबार बढ़ाने के लिए Hong Kong स्थित Reap Technologies को 600 मिलियन डॉलर में खरीदेगी।",
+        "body": "Bloomberg के अनुसार, Kraken की मालिक Payward Hong Kong स्थित stablecoin भुगतान कंपनी Reap Technologies को 600 मिलियन डॉलर के सौदे में खरीदेगी। यह अधिग्रहण ऐसे समय हो रहा है जब क्रिप्टो एक्सचेंज Kraken एशिया में अपने stablecoin और भुगतान अवसंरचना कारोबार का विस्तार कर रहा है। Reap Hong Kong आधारित भुगतान तकनीक कंपनी है, और रिपोर्ट के मुताबिक सौदे का मूल्य 600 मिलियन डॉलर है। सौदा पूरा होने पर Kraken एशिया में भुगतान अवसंरचना और stablecoin से जुड़े कारोबार की अपनी आधारशिला मजबूत करेगा। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Kraken Akan Beli Reap, Perusahaan Pembayaran Stablecoin, Senilai $600 Juta",
+        "excerpt": "Pemilik Kraken, Payward, akan mengakuisisi Reap Technologies yang berbasis di Hong Kong senilai $600 juta untuk memperluas infrastruktur stablecoin dan pembayaran di Asia, lapor Bloomberg.",
+        "body": "Menurut Bloomberg, pemilik Kraken, Payward, akan mengakuisisi Reap Technologies, perusahaan pembayaran stablecoin yang berbasis di Hong Kong, dalam kesepakatan senilai $600 juta. Akuisisi ini dilakukan saat bursa kripto Kraken memperluas bisnis infrastruktur stablecoin dan pembayaran di Asia. Reap adalah perusahaan teknologi pembayaran berbasis Hong Kong, dengan nilai transaksi yang dilaporkan sebesar $600 juta. Jika selesai, kesepakatan ini akan memperkuat basis Kraken dalam infrastruktur pembayaran dan bisnis terkait stablecoin di Asia. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "cdf2bf0e38a1",
     "slug": "trustedvolumes-hit-by-67m-exploit-as-1inch-denies-breach-349816",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Update Cadangan Bitcoin AS Segera Hadir, Penasihat Gedung Putih",
         "excerpt": "Penasihat aset digital Gedung Putih Patrick Witt mengatakan update cadangan Bitcoin AS akan hadir dalam beberapa pekan ke depan dan menyoroti keamanan aset kripto federal.",
         "body": "Penasihat aset digital Gedung Putih Patrick Witt mengatakan update mengenai cadangan Bitcoin Amerika Serikat akan hadir dalam “beberapa pekan ke depan”. Ia menunjuk exploit terbaru yang melibatkan aset yang dipegang U.S. Marshals sebagai bukti bahwa aset kripto milik pemerintah federal membutuhkan perlindungan yang lebih kuat. Pernyataan ini muncul saat pembahasan tentang cara pemerintah AS mengelola dan mengamankan kepemilikan Bitcoin serta aset kripto lainnya masih berlangsung. Update mendatang dapat memberi petunjuk tambahan tentang arah operasional cadangan dan metode kustodinya. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "8ce18ad06344",
-    "slug": "us-senator-says-crypto-market-structure-vote-could-happen-by-556728",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T21:23:02.334Z",
-    "updatedAt": "2026-05-06T21:23:02.334Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/kirsten-gillibrand-crypto-market-structure-august-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/kirsten-gillibrand-crypto-market-structure-august-vote",
-    "titleFingerprint": "834198200a7325f4634689aed5d198db2a42708f",
-    "dedupKeys": [
-      "8ce18ad0634490814cefe3f256301bad051d3498",
-      "834198200a7325f4634689aed5d198db2a42708f",
-      "c343a00307f756a2ed1efd01aff4f1b1e22ada1c"
-    ],
-    "imageUrl": "/images/articles/8ce18ad06344.jpg",
-    "i18n": {
-      "ko": {
-        "title": "암호화폐 시장구조법 표결, 미 상원서 8월 휴회 전 가능성 부상",
-        "excerpt": "커스틴 질리브랜드 미 상원의원은 CLARITY Act 표결에 앞서 의원들의 업계 내부 지위에 따른 이해상충 문제를 다뤄야 한다며, 8월 전 표결 가능성을 언급했다.",
-        "body": "커스틴 질리브랜드 미국 상원의원은 수요일 마이애미에서 열린 Consensus 행사에서 암호화폐 시장구조 법안 표결이 8월 휴회 전 이뤄질 수 있다고 말했다. 다만 CLARITY Act 표결에 앞서, 의원들이 업계에 대한 내부 지위 때문에 ‘이들 산업으로 부자가 되는’ 문제를 상원이 다뤄야 한다고 밝혔다. 그는 소비자 보호, 불법 금융 대응, 윤리 조항이 필요하다고 설명했다. 상원 은행위원회 표결은 1월 연기된 뒤 새 일정이 잡히지 않았다. Cointelegraph.com에 따르면 질리브랜드는 농업위원회 초안과의 결합 및 윤리 조항 마련이 관건이라고 말했다."
-      },
-      "en": {
-        "title": "Crypto market structure vote in US Senate could come before August recess",
-        "excerpt": "US Senator Kirsten Gillibrand said a CLARITY Act vote could happen before August, but the Senate must first address ethics concerns over lawmakers’ industry access.",
-        "body": "US Senator Kirsten Gillibrand said Wednesday at Consensus in Miami that a Senate vote on crypto market structure legislation could happen before the August recess. However, before any vote on the CLARITY Act, she said the Senate must address concerns that lawmakers could become ‘rich off of these industries’ because of their insider status. Gillibrand pointed to the need for consumer protection, illicit finance measures and ethics provisions. A Senate Banking Committee vote was postponed in January and has not been rescheduled. According to Cointelegraph.com, she said combining the bill with the Agriculture Committee draft and adding ethics language remain key issues."
-      },
-      "ja": {
-        "title": "暗号資産市場構造法案、米上院で8月休会前採決の可能性",
-        "excerpt": "カーステン・ギリブランド米上院議員は、CLARITY Actの採決前に議員の業界内の立場に伴う利益相反を扱う必要があると述べ、8月前の採決可能性に触れた。",
-        "body": "カーステン・ギリブランド米上院議員は水曜日、マイアミで開かれたConsensusで、暗号資産市場構造法案の上院採決が8月休会前に行われる可能性があると述べた。ただしCLARITY Actの採決前に、議員が業界に対する内部的な立場によって『これらの産業で富を得る』問題に上院が対応すべきだとした。消費者保護、不正金融対策、倫理規定が必要だとも説明した。上院銀行委員会の採決は1月に延期され、その後の日程は未定。Cointelegraph.comによると、農業委員会案との統合と倫理条項の整備が焦点だという。"
-      },
-      "zh": {
-        "title": "美国参议院或在8月休会前表决加密市场结构法案",
-        "excerpt": "美国参议员Kirsten Gillibrand表示，CLARITY Act表决前，参议院必须处理议员因行业内部地位可能获利的伦理问题，并提到8月前表决的可能。",
-        "body": "美国参议员Kirsten Gillibrand周三在迈阿密Consensus大会上表示，加密市场结构法案可能在8月休会前由参议院表决。不过她说，在对CLARITY Act进行任何表决前，参议院必须处理议员因其行业内部地位而可能‘从这些行业致富’的问题。她还指出，需要消费者保护、打击非法金融以及伦理条款。参议院银行委员会的表决已在1月推迟，尚未重新安排日期。Cointelegraph.com称，Gillibrand表示，将该法案与农业委员会草案合并并加入伦理措辞，是当前关键问题。"
-      },
-      "es": {
-        "title": "Voto sobre estructura cripto en el Senado de EE. UU. podría llegar antes de agosto",
-        "excerpt": "La senadora Kirsten Gillibrand dijo que un voto sobre la CLARITY Act podría llegar antes de agosto, pero antes deben abordarse preocupaciones éticas sobre legisladores y acceso interno.",
-        "body": "La senadora estadounidense Kirsten Gillibrand dijo el miércoles en Consensus, en Miami, que el Senado podría votar una ley de estructura del mercado cripto antes del receso de agosto. Sin embargo, antes de cualquier voto sobre la CLARITY Act, afirmó que el Senado debe abordar la posibilidad de que legisladores se hagan ‘ricos con estas industrias’ por su estatus interno. Señaló la necesidad de protección al consumidor, medidas contra las finanzas ilícitas y cláusulas éticas. La votación del Comité Bancario del Senado se aplazó en enero y no tiene nueva fecha. Según Cointelegraph.com, combinar el texto con el borrador del Comité de Agricultura y añadir normas éticas sigue siendo clave."
-      },
-      "pt": {
-        "title": "Voto sobre estrutura do mercado cripto nos EUA pode ocorrer antes de agosto",
-        "excerpt": "A senadora Kirsten Gillibrand disse que a votação da CLARITY Act pode ocorrer antes de agosto, mas antes o Senado deve tratar de preocupações éticas sobre acesso interno de legisladores.",
-        "body": "A senadora norte-americana Kirsten Gillibrand disse na quarta-feira, no Consensus em Miami, que o Senado pode votar uma lei de estrutura do mercado cripto antes do recesso de agosto. Porém, antes de qualquer votação sobre a CLARITY Act, afirmou que o Senado precisa tratar do risco de legisladores ficarem ‘ricos com essas indústrias’ por sua posição interna. Ela citou a necessidade de proteção ao consumidor, combate a finanças ilícitas e regras éticas. A votação no Comitê Bancário do Senado foi adiada em janeiro e ainda não foi remarcada. Segundo Cointelegraph.com, combinar o texto com a proposta do Comitê de Agricultura e incluir cláusulas éticas são pontos centrais."
-      },
-      "de": {
-        "title": "US-Senat könnte Kryptomarktstruktur-Gesetz vor Augustpause abstimmen",
-        "excerpt": "US-Senatorin Kirsten Gillibrand sagte, eine Abstimmung über den CLARITY Act könne vor August kommen, zuvor müsse der Senat aber ethische Fragen zu Abgeordneten und Insiderstatus klären.",
-        "body": "US-Senatorin Kirsten Gillibrand sagte am Mittwoch auf der Consensus in Miami, dass der Senat noch vor der Augustpause über ein Gesetz zur Kryptomarktstruktur abstimmen könnte. Vor jeder Abstimmung über den CLARITY Act müsse der Senat jedoch klären, ob Abgeordnete wegen ihres Insiderstatus ‘reich an diesen Branchen’ werden könnten. Sie nannte Verbraucherschutz, Maßnahmen gegen illegale Finanzströme und Ethikregeln als notwendig. Eine Abstimmung im Bankenausschuss des Senats wurde im Januar verschoben und bisher nicht neu terminiert. Laut Cointelegraph.com bleiben die Verbindung mit dem Entwurf des Agrarausschusses und Ethikformulierungen zentrale Punkte."
-      },
-      "fr": {
-        "title": "Le Sénat américain pourrait voter la structure du marché crypto avant août",
-        "excerpt": "La sénatrice Kirsten Gillibrand a dit qu’un vote sur le CLARITY Act pourrait avoir lieu avant août, mais que le Sénat doit d’abord traiter les enjeux éthiques liés au statut interne des élus.",
-        "body": "La sénatrice américaine Kirsten Gillibrand a déclaré mercredi à Consensus, à Miami, qu’un vote du Sénat sur une loi de structure du marché crypto pourrait avoir lieu avant la pause d’août. Toutefois, avant tout vote sur le CLARITY Act, elle a dit que le Sénat devait traiter le risque que des élus deviennent ‘riches grâce à ces industries’ en raison de leur statut interne. Elle a cité la protection des consommateurs, la lutte contre la finance illicite et des dispositions éthiques. Le vote de la commission bancaire du Sénat a été reporté en janvier et n’a pas été reprogrammé. Selon Cointelegraph.com, l’association avec le projet de la commission de l’agriculture et les règles éthiques restent déterminantes."
-      },
-      "ar": {
-        "title": "تصويت مجلس الشيوخ على هيكل سوق الكريبتو قد يحدث قبل عطلة أغسطس",
-        "excerpt": "قالت السيناتورة كيرستن جيليبراند إن التصويت على قانون CLARITY قد يحدث قبل أغسطس، لكن على مجلس الشيوخ أولا معالجة مخاوف أخلاقية تتعلق بوضع المشرعين الداخلي في الصناعة.",
-        "body": "قالت السيناتورة الأميركية كيرستن جيليبراند يوم الأربعاء في مؤتمر Consensus بميامي إن مجلس الشيوخ قد يصوت على تشريع هيكل سوق العملات المشفرة قبل عطلة أغسطس. لكنها أوضحت أنه قبل أي تصويت على قانون CLARITY، يجب أن يعالج المجلس احتمال أن يصبح المشرعون ‘أثرياء من هذه الصناعات’ بسبب وضعهم الداخلي. وذكرت الحاجة إلى حماية المستهلك، ومكافحة التمويل غير المشروع، وبنود أخلاقية. وكان تصويت لجنة البنوك في مجلس الشيوخ قد أرجئ في يناير ولم يحدد موعد جديد. وبحسب Cointelegraph.com، قالت إن دمج النص مع مسودة لجنة الزراعة وإضافة لغة أخلاقية يظلان نقطتين أساسيتين."
-      },
-      "hi": {
-        "title": "अमेरिकी सीनेट में क्रिप्टो मार्केट स्ट्रक्चर वोट अगस्त से पहले संभव",
-        "excerpt": "सीनेटर Kirsten Gillibrand ने कहा कि CLARITY Act पर वोट अगस्त से पहले हो सकता है, लेकिन उससे पहले सीनेट को सांसदों की उद्योग में अंदरूनी स्थिति से जुड़े नैतिक सवालों को सुलझाना होगा।",
-        "body": "अमेरिकी सीनेटर Kirsten Gillibrand ने बुधवार को मियामी में Consensus कार्यक्रम में कहा कि क्रिप्टो मार्केट स्ट्रक्चर कानून पर सीनेट का वोट अगस्त अवकाश से पहले हो सकता है। हालांकि, CLARITY Act पर किसी भी वोट से पहले उन्होंने कहा कि सीनेट को यह देखना होगा कि सांसद अपनी अंदरूनी स्थिति के कारण ‘इन उद्योगों से अमीर’ न बनें। उन्होंने उपभोक्ता संरक्षण, अवैध वित्त से निपटने और नैतिक प्रावधानों की जरूरत बताई। सीनेट बैंकिंग कमेटी का वोट जनवरी में टल गया था और नई तारीख तय नहीं हुई है। Cointelegraph.com के अनुसार, कृषि समिति के मसौदे से जोड़ना और नैतिक भाषा शामिल करना अहम मुद्दे हैं।"
-      },
-      "id": {
-        "title": "Voting struktur pasar kripto Senat AS bisa berlangsung sebelum reses Agustus",
-        "excerpt": "Senator AS Kirsten Gillibrand mengatakan voting CLARITY Act bisa terjadi sebelum Agustus, tetapi Senat harus lebih dulu membahas isu etik terkait status internal anggota parlemen di industri.",
-        "body": "Senator AS Kirsten Gillibrand mengatakan pada Rabu di Consensus, Miami, bahwa voting Senat atas legislasi struktur pasar kripto dapat terjadi sebelum reses Agustus. Namun sebelum voting apa pun atas CLARITY Act, ia mengatakan Senat harus menangani kekhawatiran bahwa anggota parlemen bisa menjadi ‘kaya dari industri-industri ini’ karena status internal mereka. Ia menyebut perlunya perlindungan konsumen, langkah melawan keuangan ilegal, dan ketentuan etik. Voting Komite Perbankan Senat ditunda pada Januari dan belum dijadwalkan ulang. Menurut Cointelegraph.com, penggabungan dengan draf Komite Pertanian dan penambahan bahasa etik tetap menjadi isu utama."
-      }
-    }
-  },
-  {
-    "id": "1e24d884f1af",
-    "slug": "dominance-of-tether-and-circle-is-a-net-bad-for-stablecoins--800798",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T21:21:21.377Z",
-    "updatedAt": "2026-05-06T21:21:21.377Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/06/dominance-of-tether-and-circle-is-net-bad-for-stablecoins-says-bridge",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/dominance-of-tether-and-circle-is-net-bad-for-stablecoins-says-bridge",
-    "titleFingerprint": "6d0f1ec133928d18e54416c51cfc1be42ebaa417",
-    "dedupKeys": [
-      "1e24d884f1afa53891d2be4bcc936a2a2ac41482",
-      "6d0f1ec133928d18e54416c51cfc1be42ebaa417",
-      "655d4180d36496f36b1621eecae31c20cb07aaee"
-    ],
-    "imageUrl": "/images/articles/1e24d884f1af.jpg",
-    "i18n": {
-      "ko": {
-        "title": "테더·서클 지배력, 스테이블코인 ‘돈’ 인식에 부담이라는 지적",
-        "excerpt": "브리지의 자금 이동 부문 책임자 벤 오닐은 코인데스크 보도에서 테더와 서클의 지배력이 스테이블코인을 실제 돈처럼 느끼기 어렵게 만들 수 있다고 말했다.",
-        "body": "스테이블코인 시장에서 테더와 서클의 지배력이 커지는 현상이 업계에 부정적일 수 있다는 지적이 나왔다. 브리지에서 자금 이동을 총괄하는 벤 오닐은 코인데스크 보도에서 테더와 서클이 스테이블코인이 ‘돈’처럼 느껴지는 것을 더 어렵게 만들 것이라고 말했다. 그는 특정 기업 중심의 구도가 스테이블코인의 사용 경험과 인식에 영향을 줄 수 있다는 취지로 설명했다. 이번 발언은 스테이블코인이 결제와 가치 저장 수단으로 확산되는 과정에서 발행사 집중도가 어떤 의미를 갖는지에 대한 논의를 다시 부각시킨다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Tether and Circle Dominance Seen as a Drag on Stablecoin Money Use",
-        "excerpt": "Ben O'Neill, head of money movement at Bridge, told CoinDesk that the dominance of Tether and Circle could make stablecoins harder to feel like real money.",
-        "body": "The growing dominance of Tether and Circle in the stablecoin market may be a net negative for the sector, according to Ben O'Neill, head of money movement at Bridge. In comments reported by CoinDesk, O'Neill said Tether and Circle are going to make it harder for stablecoins to feel like money. His point centered on how a market led by a small number of major issuers could affect user experience and perception. The remarks highlight renewed debate over what issuer concentration means as stablecoins seek broader use in payments and value transfer. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "テザーとサークルの支配力、ステーブルコインの通貨感に重荷",
-        "excerpt": "Bridgeの資金移動責任者ベン・オニール氏はCoinDeskに対し、テザーとサークルの支配力がステーブルコインを実際のお金のように感じにくくすると述べた。",
-        "body": "ステーブルコイン市場でテザーとサークルの存在感が強まることは、業界全体にとってマイナスになり得るとの見方が示された。Bridgeで資金移動を統括するベン・オニール氏は、CoinDeskの報道で、テザーとサークルはステーブルコインを「お金」のように感じさせることを難しくすると述べた。発言の焦点は、少数の主要発行体に市場が集中する構図が、利用体験や認識に影響し得る点にある。ステーブルコインが決済や価値移転で広がる中、発行体集中の意味が改めて問われている。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Tether与Circle主导地位被指不利于稳定币货币属性",
-        "excerpt": "Bridge资金流动负责人Ben O'Neill在CoinDesk报道中表示，Tether和Circle的主导地位可能让稳定币更难被用户感知为真正的钱。",
-        "body": "稳定币市场中Tether和Circle的主导地位，可能对整个行业构成负面影响。Bridge资金流动负责人Ben O'Neill在CoinDesk报道中表示，Tether和Circle将使稳定币更难让人感觉像“钱”。他的观点集中在少数主要发行方主导市场的格局，可能如何影响用户体验与市场认知。随着稳定币在支付和价值转移场景中继续扩展，发行方集中度所代表的意义再次成为讨论焦点。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Dominio de Tether y Circle complica que las stablecoins parezcan dinero",
-        "excerpt": "Ben O'Neill, responsable de movimiento de dinero en Bridge, dijo a CoinDesk que el dominio de Tether y Circle podría dificultar que las stablecoins se sientan como dinero real.",
-        "body": "El creciente dominio de Tether y Circle en el mercado de stablecoins podría ser negativo para el sector, según Ben O'Neill, responsable de movimiento de dinero en Bridge. En declaraciones recogidas por CoinDesk, O'Neill afirmó que Tether y Circle harán más difícil que las stablecoins se sientan como dinero. Su planteamiento se centra en cómo un mercado liderado por pocos emisores importantes puede influir en la experiencia del usuario y en la percepción del producto. El comentario reabre el debate sobre lo que implica la concentración de emisores mientras las stablecoins buscan más uso en pagos y transferencia de valor. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Domínio de Tether e Circle pesa sobre uso das stablecoins como dinheiro",
-        "excerpt": "Ben O'Neill, chefe de movimentação de dinheiro da Bridge, disse ao CoinDesk que o domínio de Tether e Circle pode dificultar que stablecoins pareçam dinheiro real.",
-        "body": "O avanço do domínio de Tether e Circle no mercado de stablecoins pode ser negativo para o setor, segundo Ben O'Neill, chefe de movimentação de dinheiro da Bridge. Em declaração reportada pelo CoinDesk, O'Neill afirmou que Tether e Circle vão tornar mais difícil que stablecoins pareçam dinheiro. O ponto central é como um mercado liderado por poucos grandes emissores pode afetar a experiência dos usuários e a percepção do ativo. A fala recoloca em destaque o significado da concentração de emissores enquanto stablecoins buscam ampliar seu uso em pagamentos e transferência de valor. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Tether- und Circle-Dominanz belastet Stablecoin-Wahrnehmung als Geld",
-        "excerpt": "Ben O'Neill, Head of Money Movement bei Bridge, sagte CoinDesk, dass die Dominanz von Tether und Circle Stablecoins weniger wie echtes Geld erscheinen lassen könnte.",
-        "body": "Die wachsende Dominanz von Tether und Circle im Stablecoin-Markt könnte für den Sektor insgesamt negativ sein, sagte Ben O'Neill, Head of Money Movement bei Bridge. Laut CoinDesk erklärte O'Neill, Tether und Circle würden es Stablecoins erschweren, sich wie Geld anzufühlen. Im Mittelpunkt steht die Frage, wie ein von wenigen großen Emittenten geprägter Markt Nutzererfahrung und Wahrnehmung beeinflussen kann. Die Aussage rückt erneut in den Fokus, was die Konzentration von Emittenten bedeutet, während Stablecoins breitere Nutzung bei Zahlungen und Wertübertragungen anstreben. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "La domination de Tether et Circle pèse sur l’image monétaire des stablecoins",
-        "excerpt": "Ben O'Neill, responsable des mouvements d’argent chez Bridge, a déclaré à CoinDesk que la domination de Tether et Circle pourrait rendre les stablecoins moins proches de l’argent réel.",
-        "body": "La domination croissante de Tether et Circle sur le marché des stablecoins pourrait être négative pour le secteur, selon Ben O'Neill, responsable des mouvements d’argent chez Bridge. Dans des propos rapportés par CoinDesk, O'Neill a déclaré que Tether et Circle allaient rendre plus difficile le fait que les stablecoins soient perçus comme de l’argent. Son analyse porte sur l’effet qu’un marché dominé par quelques grands émetteurs peut avoir sur l’expérience utilisateur et la perception. Cette déclaration relance le débat sur la concentration des émetteurs alors que les stablecoins cherchent un usage plus large dans les paiements et les transferts de valeur. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "هيمنة تيثر وسيركل قد تضعف إحساس المستخدمين بالعملات المستقرة كمال",
-        "excerpt": "قال بن أونيل، رئيس حركة الأموال في Bridge، لـCoinDesk إن هيمنة تيثر وسيركل قد تجعل العملات المستقرة أقل شبها بالمال الحقيقي في نظر المستخدمين.",
-        "body": "قد تكون الهيمنة المتزايدة لكل من تيثر وسيركل في سوق العملات المستقرة عاملا سلبيا للقطاع، بحسب بن أونيل، رئيس حركة الأموال في Bridge. ووفقا لما نقلته CoinDesk، قال أونيل إن تيثر وسيركل ستجعلان من الأصعب أن يشعر المستخدمون بأن العملات المستقرة هي «مال». وتركز ملاحظته على تأثير سوق يقوده عدد محدود من المصدرين الكبار في تجربة المستخدمين وطريقة إدراكهم لهذه الأصول. وتعيد التصريحات إبراز النقاش حول معنى تركّز جهات الإصدار مع سعي العملات المستقرة إلى استخدام أوسع في المدفوعات ونقل القيمة. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Tether और Circle का दबदबा stablecoins को पैसे जैसा महसूस कराने में बाधा",
-        "excerpt": "Bridge में मनी मूवमेंट के प्रमुख Ben O'Neill ने CoinDesk से कहा कि Tether और Circle का दबदबा stablecoins को वास्तविक पैसे जैसा महसूस कराना कठिन बना सकता है।",
-        "body": "Stablecoin बाजार में Tether और Circle का बढ़ता दबदबा इस क्षेत्र के लिए नकारात्मक हो सकता है, ऐसा Bridge में मनी मूवमेंट के प्रमुख Ben O'Neill ने कहा। CoinDesk की रिपोर्ट के अनुसार, O'Neill ने कहा कि Tether और Circle stablecoins को “पैसे” जैसा महसूस कराना कठिन बना देंगे। उनका संकेत इस बात पर था कि कुछ बड़े जारीकर्ताओं के नेतृत्व वाला बाजार उपयोगकर्ता अनुभव और धारणा को प्रभावित कर सकता है। यह टिप्पणी फिर से इस बहस को सामने लाती है कि भुगतान और मूल्य हस्तांतरण में stablecoins के व्यापक उपयोग की कोशिशों के बीच जारीकर्ताओं की एकाग्रता का क्या अर्थ है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Dominasi Tether dan Circle Dinilai Membebani Stablecoin sebagai Uang",
-        "excerpt": "Ben O'Neill, kepala pergerakan uang di Bridge, mengatakan kepada CoinDesk bahwa dominasi Tether dan Circle dapat membuat stablecoin lebih sulit terasa seperti uang nyata.",
-        "body": "Dominasi Tether dan Circle yang makin kuat di pasar stablecoin dapat menjadi hal negatif bagi sektor ini, menurut Ben O'Neill, kepala pergerakan uang di Bridge. Dalam laporan CoinDesk, O'Neill mengatakan Tether dan Circle akan membuat stablecoin lebih sulit terasa seperti “uang”. Pernyataannya menyoroti bagaimana pasar yang dipimpin oleh sedikit penerbit besar dapat memengaruhi pengalaman pengguna dan persepsi terhadap stablecoin. Komentar ini kembali mengangkat perdebatan tentang arti konsentrasi penerbit saat stablecoin berupaya memperluas penggunaan dalam pembayaran dan transfer nilai. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "9586e2e27ea8",
-    "slug": "white-house-targets-july-4-for-clarity-act-passage-says-cryp-879087",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T21:20:25.850Z",
-    "updatedAt": "2026-05-06T21:20:25.850Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/policy/2026/05/06/white-house-targets-july-4-for-clarity-act-passage-says-crypto-adviser-patrick-witt",
-    "canonicalUrl": "https://www.coindesk.com/policy/2026/05/06/white-house-targets-july-4-for-clarity-act-passage-says-crypto-adviser-patrick-witt",
-    "titleFingerprint": "36e304b97358c07792868c16122455f2add08610",
-    "dedupKeys": [
-      "9586e2e27ea8a29458be72cc002475dab56437d4",
-      "36e304b97358c07792868c16122455f2add08610",
-      "869cc5239a48557314dd26b08a8a5b07e9aa8439"
-    ],
-    "imageUrl": "/images/articles/9586e2e27ea8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "클래리티 법안 7월 4일 통과 목표, 백악관 암호화폐 정책 속도",
-        "excerpt": "패트릭 위트 백악관 디지털자산 자문위 사무총장은 백악관이 클래리티 법안의 7월 4일 통과를 목표로 하며, 상원 은행위 청문회가 이달 열린다고 밝혔다.",
-        "body": "백악관이 암호화폐 시장 구조 법안인 클래리티 법안의 통과 시점을 7월 4일로 겨냥하고 있다고 패트릭 위트 대통령 디지털자산 자문위원회 사무총장이 밝혔다. 위트 사무총장은 상원 은행위원회가 이달 시장 구조 법안을 다루는 청문회를 열 예정이라고 말했다. 해당 발언은 디지털자산 규제 체계와 시장 구조 논의가 의회 일정 안에서 본격화되고 있음을 보여준다. 법안 처리 목표일과 청문회 일정은 향후 미국 암호화폐 정책 논의의 핵심 기준점이 될 전망이다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Clarity Act July 4 Target Puts White House Crypto Policy in Focus",
-        "excerpt": "Patrick Witt said the White House is targeting July 4 for Clarity Act passage, with a Senate Banking Committee hearing on market structure set for this month.",
-        "body": "The White House is targeting July 4 for passage of the Clarity Act, a crypto market structure bill, according to Patrick Witt, executive director of the President's Council of Advisors for Digital Assets. Witt said the Senate Banking Committee is expected to hold a hearing this month on the market structure bill. The comments show that debate over digital asset regulation and market structure is moving into the congressional calendar. The target date and hearing schedule are set to become key reference points for U.S. crypto policy discussions. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "クラリティ法案、7月4日成立目標で米暗号資産政策が焦点に",
-        "excerpt": "パトリック・ウィット氏は、ホワイトハウスがクラリティ法案の7月4日成立を目指し、上院銀行委員会の公聴会が今月開かれると述べた。",
-        "body": "ホワイトハウスは、暗号資産の市場構造法案であるクラリティ法案について、7月4日の成立を目標にしている。大統領デジタル資産諮問委員会の事務局長パトリック・ウィット氏が明らかにした。ウィット氏によると、上院銀行委員会は今月、市場構造法案に関する公聴会を開く予定だ。この発言は、デジタル資産規制と市場構造をめぐる議論が議会日程の中で本格化していることを示す。目標日と公聴会の日程は、今後の米国暗号資産政策をめぐる重要な基準点となる見通しだ。出典: coindesk.com。"
-      },
-      "zh": {
-        "title": "Clarity法案瞄准7月4日通过，白宫加快加密政策议程",
-        "excerpt": "帕特里克·维特表示，白宫目标是在7月4日通过Clarity法案，参议院银行委员会本月将就市场结构法案举行听证会。",
-        "body": "白宫正将7月4日作为加密货币市场结构法案Clarity Act的通过目标。总统数字资产顾问委员会执行主任帕特里克·维特透露了这一安排。维特表示，参议院银行委员会预计将在本月就市场结构法案举行听证会。相关表态显示，数字资产监管框架和市场结构讨论正进入国会议程。法案目标日期和听证会时间，将成为未来美国加密政策讨论的重要参考点。来源：coindesk.com。"
-      },
-      "es": {
-        "title": "Clarity Act apunta al 4 de julio y centra la agenda cripto de la Casa Blanca",
-        "excerpt": "Patrick Witt dijo que la Casa Blanca busca aprobar la Clarity Act el 4 de julio y que el Comité Bancario del Senado celebrará este mes una audiencia sobre estructura de mercado.",
-        "body": "La Casa Blanca apunta al 4 de julio para la aprobación de la Clarity Act, un proyecto de ley sobre estructura del mercado cripto, según Patrick Witt, director ejecutivo del Consejo de Asesores del Presidente para Activos Digitales. Witt señaló que el Comité Bancario del Senado celebrará este mes una audiencia sobre el proyecto de estructura de mercado. Sus declaraciones muestran que el debate sobre regulación de activos digitales y estructura de mercado avanza dentro del calendario del Congreso. La fecha objetivo y la audiencia serán referencias clave para la política cripto de Estados Unidos. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Clarity Act mira 4 de julho e coloca política cripto da Casa Branca em foco",
-        "excerpt": "Patrick Witt disse que a Casa Branca mira 4 de julho para aprovar a Clarity Act, enquanto o Comitê Bancário do Senado fará audiência este mês sobre estrutura de mercado.",
-        "body": "A Casa Branca mira 4 de julho para a aprovação da Clarity Act, projeto de lei sobre estrutura do mercado cripto, segundo Patrick Witt, diretor executivo do Conselho de Assessores do Presidente para Ativos Digitais. Witt afirmou que o Comitê Bancário do Senado deve realizar este mês uma audiência sobre o projeto de estrutura de mercado. A declaração mostra que a discussão sobre regulação de ativos digitais e estrutura de mercado está avançando no calendário do Congresso. A data-alvo e a audiência devem servir como referências centrais para a política cripto dos EUA. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Clarity Act bis 4. Juli: Weißes Haus rückt Kryptopolitik in den Fokus",
-        "excerpt": "Patrick Witt sagte, das Weiße Haus ziele auf eine Verabschiedung des Clarity Act bis 4. Juli; der Bankenausschuss des Senats plant diesen Monat eine Anhörung zur Marktstruktur.",
-        "body": "Das Weiße Haus peilt den 4. Juli für die Verabschiedung des Clarity Act an, eines Gesetzentwurfs zur Marktstruktur im Kryptosektor. Das sagte Patrick Witt, Exekutivdirektor des President's Council of Advisors for Digital Assets. Witt erklärte, der Bankenausschuss des Senats werde in diesem Monat eine Anhörung zum Marktstrukturgesetz abhalten. Die Aussagen zeigen, dass die Debatte über Regulierung digitaler Vermögenswerte und Marktstruktur in den Kongresskalender rückt. Zieldatum und Anhörung dürften wichtige Bezugspunkte für die US-Kryptopolitik werden. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Clarity Act visé pour le 4 juillet, la Maison Blanche accélère sur la crypto",
-        "excerpt": "Patrick Witt a indiqué que la Maison Blanche vise le 4 juillet pour adopter le Clarity Act, tandis qu'une audition du Sénat sur la structure de marché aura lieu ce mois-ci.",
-        "body": "La Maison Blanche vise le 4 juillet pour l'adoption du Clarity Act, un projet de loi sur la structure du marché crypto, selon Patrick Witt, directeur exécutif du Conseil présidentiel des conseillers pour les actifs numériques. Witt a déclaré que la commission bancaire du Sénat tiendrait ce mois-ci une audition sur ce texte de structure de marché. Ces propos montrent que le débat sur la régulation des actifs numériques et l'organisation du marché s'inscrit désormais dans le calendrier du Congrès. La date cible et l'audition devraient devenir des repères clés pour la politique crypto américaine. Source : coindesk.com."
-      },
-      "ar": {
-        "title": "قانون Clarity يستهدف 4 يوليو والبيت الأبيض يسرع أجندة العملات المشفرة",
-        "excerpt": "قال باتريك ويت إن البيت الأبيض يستهدف تمرير قانون Clarity في 4 يوليو، وإن لجنة البنوك في مجلس الشيوخ ستعقد هذا الشهر جلسة حول هيكل السوق.",
-        "body": "يستهدف البيت الأبيض تمرير قانون Clarity، وهو مشروع قانون يتعلق بهيكل سوق العملات المشفرة، في 4 يوليو، بحسب باتريك ويت، المدير التنفيذي لمجلس مستشاري الرئيس للأصول الرقمية. وقال ويت إن لجنة البنوك في مجلس الشيوخ ستعقد هذا الشهر جلسة استماع بشأن مشروع قانون هيكل السوق. وتظهر هذه التصريحات أن نقاش تنظيم الأصول الرقمية وهيكل السوق يدخل جدول أعمال الكونغرس. ومن المتوقع أن يصبح موعد الهدف وجدول الجلسة نقطتين مرجعيتين أساسيتين في نقاش سياسة العملات المشفرة في الولايات المتحدة. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "Clarity Act के लिए 4 जुलाई लक्ष्य, व्हाइट हाउस की क्रिप्टो नीति तेज",
-        "excerpt": "पैट्रिक विट ने कहा कि व्हाइट हाउस Clarity Act को 4 जुलाई तक पारित कराने का लक्ष्य रख रहा है और सीनेट बैंकिंग कमेटी इस महीने बाजार संरचना पर सुनवाई करेगी।",
-        "body": "व्हाइट हाउस क्रिप्टो बाजार संरचना से जुड़े Clarity Act को 4 जुलाई तक पारित कराने का लक्ष्य रख रहा है। यह जानकारी डिजिटल एसेट्स पर राष्ट्रपति की सलाहकार परिषद के कार्यकारी निदेशक पैट्रिक विट ने दी। विट ने कहा कि सीनेट बैंकिंग कमेटी इस महीने बाजार संरचना विधेयक पर सुनवाई करेगी। यह बयान दिखाता है कि डिजिटल एसेट विनियमन और बाजार संरचना पर चर्चा अब कांग्रेस के कार्यक्रम में आगे बढ़ रही है। लक्ष्य तारीख और सुनवाई का समय अमेरिकी क्रिप्टो नीति पर आगे की बहस के प्रमुख संदर्भ बन सकते हैं। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Clarity Act Target 4 Juli, Gedung Putih Percepat Agenda Kripto",
-        "excerpt": "Patrick Witt mengatakan Gedung Putih menargetkan pengesahan Clarity Act pada 4 Juli, sementara Komite Perbankan Senat akan menggelar dengar pendapat bulan ini.",
-        "body": "Gedung Putih menargetkan 4 Juli untuk pengesahan Clarity Act, rancangan undang-undang tentang struktur pasar kripto, menurut Patrick Witt, direktur eksekutif President's Council of Advisors for Digital Assets. Witt mengatakan Komite Perbankan Senat akan menggelar dengar pendapat bulan ini mengenai rancangan undang-undang struktur pasar tersebut. Pernyataan itu menunjukkan bahwa pembahasan regulasi aset digital dan struktur pasar mulai masuk dalam agenda Kongres. Tanggal target dan jadwal dengar pendapat akan menjadi acuan penting bagi diskusi kebijakan kripto Amerika Serikat. Sumber: coindesk.com."
       }
     }
   }
