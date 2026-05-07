@@ -1,0 +1,75 @@
+{
+  "id": "56fa8c4bc8c7",
+  "slug": "arbitrum-vote-to-release-71m-in-frozen-kelp-exploit-eth-set--336328",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T19:53:28.869Z",
+  "updatedAt": "2026-05-07T19:53:28.869Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/arbitrum-vote-on-proposal-to-unfreeze-71m-eth-passes-with-90-majority?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/arbitrum-vote-on-proposal-to-unfreeze-71m-eth-passes-with-90-majority",
+  "titleFingerprint": "8f0782fb974fe87469d0fff4e8e03bd6e4593295",
+  "dedupKeys": [
+    "56fa8c4bc8c7eda3d40d12c75ce5f8c760411b03",
+    "8f0782fb974fe87469d0fff4e8e03bd6e4593295",
+    "fd12d3b650d93acebead731537f789262825e177"
+  ],
+  "imageUrl": "",
+  "i18n": {
+    "ko": {
+      "title": "아비트럼, Kelp 해킹 동결 ETH 7,100만달러 해제 투표 통과 임박",
+      "excerpt": "아비트럼 커뮤니티의 Snapshot 투표가 5월 7일 종료를 앞두고 Kelp DAO 해킹 뒤 동결된 3만765 ETH 해제를 압도적으로 지지했다.",
+      "body": "아비트럼 커뮤니티의 Snapshot 투표가 5월 7일 18시54분 UTC 종료를 앞두고 Kelp DAO 익스플로잇 이후 동결된 약 7,100만달러 규모 3만765 ETH 해제안을 통과시킬 전망이다. 찬성은 90.5%로 1억7,390만 ARB, 기권은 9.4%로 1,810만 ARB였고 반대는 1% 미만, 1,700 ARB에 그쳤다. 이 제안은 Aave Labs, Kelp DAO, LayerZero, EtherFi, Compound가 공동 작성했으며 4월 21일 아비트럼 보안위원회가 동결한 자금 해제를 목표로 한다. 승인되면 회복 작업은 대표자 의견을 묻는 추가 Snapshot 온도 점검을 거쳐 Tally의 구속력 있는 온체인 Constitutional AIP로 이동한다. 출처 cointelegraph.com."
+    },
+    "en": {
+      "title": "Arbitrum Vote Nears Approval to Release $71M in Frozen Kelp ETH",
+      "excerpt": "Arbitrum’s Snapshot vote was set to close on May 7 with strong support for releasing 30,765 ETH frozen after the Kelp DAO exploit.",
+      "body": "Arbitrum’s Snapshot vote was expected to pass before its scheduled close at 18:54 UTC on May 7, clearing a proposal to release about $71 million, or 30,765 ETH, frozen after the Kelp DAO exploit. Support stood at 90.5%, equal to 173.9 million ARB, while 9.4%, or 18.1 million ARB, abstained. Less than 1%, about 1,700 ARB, voted against. The proposal was co-authored by Aave Labs, Kelp DAO, LayerZero, EtherFi and Compound, and targets funds frozen by Arbitrum’s Security Council on April 21. If approved, the recovery effort moves to another Snapshot temperature check before a binding onchain Constitutional AIP via Tally. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "Arbitrum、Kelp流出で凍結の7100万ドルETH解除投票が可決目前",
+      "excerpt": "ArbitrumのSnapshot投票は5月7日の終了を前に、Kelp DAO攻撃後に凍結された3万765 ETHの解除を強く支持した。",
+      "body": "ArbitrumコミュニティのSnapshot投票は、5月7日18時54分UTCの終了を前に、Kelp DAOエクスプロイト後に凍結された約7100万ドル相当、3万765 ETHの解除案を可決する見通しだ。賛成は90.5%で1億7390万ARB、棄権は9.4%で1810万ARB、反対は1%未満の1700ARBにとどまった。提案はAave Labs、Kelp DAO、LayerZero、EtherFi、Compoundが共同作成し、4月21日にArbitrum Security Councilが凍結した資金の解除を目指す。承認後は代表者の意向を測る追加のSnapshot温度確認を経て、Tally上の拘束力あるオンチェーンConstitutional AIPへ進む。出典: cointelegraph.com。"
+    },
+    "zh": {
+      "title": "Arbitrum拟通过投票，解冻Kelp事件中7100万美元ETH",
+      "excerpt": "Arbitrum的Snapshot投票将于5月7日结束，社区强烈支持解冻Kelp DAO攻击后被冻结的30,765枚ETH。",
+      "body": "Arbitrum社区的Snapshot投票预计将在5月7日18:54 UTC结束前通过，推动解冻Kelp DAO漏洞事件后被冻结的约7100万美元、即30,765枚ETH。支持率为90.5%，对应1.739亿枚ARB；弃权为9.4%，对应1810万枚ARB；反对不足1%，约1700枚ARB。该提案由Aave Labs、Kelp DAO、LayerZero、EtherFi和Compound共同起草，目标是释放Arbitrum安全委员会4月21日冻结的资金。若获批准，恢复工作将进入另一次Snapshot温度检查，以衡量代表意见，随后通过Tally提交具有约束力的链上Constitutional AIP。来源：cointelegraph.com。"
+    },
+    "es": {
+      "title": "Arbitrum se acerca a aprobar liberar $71M en ETH congelado de Kelp",
+      "excerpt": "La votación Snapshot de Arbitrum cerraba el 7 de mayo con amplio apoyo para liberar 30.765 ETH congelados tras el exploit de Kelp DAO.",
+      "body": "La votación Snapshot de Arbitrum estaba encaminada a aprobarse antes de su cierre previsto a las 18:54 UTC del 7 de mayo, con una propuesta para liberar unos 71 millones de dólares, o 30.765 ETH, congelados tras el exploit de Kelp DAO. El apoyo alcanzó el 90,5%, equivalente a 173,9 millones de ARB; el 9,4%, o 18,1 millones de ARB, se abstuvo, y menos del 1%, unos 1.700 ARB, votó en contra. La propuesta fue coescrita por Aave Labs, Kelp DAO, LayerZero, EtherFi y Compound, y apunta a fondos congelados por el Consejo de Seguridad de Arbitrum el 21 de abril. Si se aprueba, el proceso pasará a otra consulta Snapshot y luego a una Constitutional AIP vinculante en Tally. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "Arbitrum deve aprovar liberação de US$71 mi em ETH congelado da Kelp",
+      "excerpt": "A votação Snapshot da Arbitrum chegava ao fim em 7 de maio com forte apoio para liberar 30.765 ETH congelados após o exploit da Kelp DAO.",
+      "body": "A votação Snapshot da Arbitrum caminhava para aprovação antes do encerramento previsto para 18h54 UTC de 7 de maio, liberando uma proposta para destravar cerca de US$71 milhões, ou 30.765 ETH, congelados após o exploit da Kelp DAO. O apoio era de 90,5%, equivalente a 173,9 milhões de ARB; 9,4%, ou 18,1 milhões de ARB, se abstiveram; e menos de 1%, cerca de 1.700 ARB, votou contra. A proposta foi coautoria de Aave Labs, Kelp DAO, LayerZero, EtherFi e Compound, e mira fundos congelados pelo Conselho de Segurança da Arbitrum em 21 de abril. Se aprovada, a recuperação seguirá para outra checagem Snapshot e depois para uma Constitutional AIP onchain vinculante via Tally. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "Arbitrum-Abstimmung zur Freigabe von $71 Mio. Kelp-ETH vor Erfolg",
+      "excerpt": "Die Snapshot-Abstimmung von Arbitrum sollte am 7. Mai enden und zeigte breite Zustimmung zur Freigabe von 30.765 ETH aus dem Kelp-DAO-Exploit.",
+      "body": "Die Snapshot-Abstimmung der Arbitrum-Community stand vor der Annahme, bevor sie am 7. Mai um 18:54 UTC enden sollte. Der Vorschlag sieht die Freigabe von rund 71 Millionen US-Dollar, also 30.765 ETH, vor, die nach dem Kelp-DAO-Exploit eingefroren wurden. 90,5% stimmten zu, entsprechend 173,9 Millionen ARB; 9,4% oder 18,1 Millionen ARB enthielten sich. Weniger als 1%, rund 1.700 ARB, stimmte dagegen. Der Vorschlag wurde von Aave Labs, Kelp DAO, LayerZero, EtherFi und Compound mitverfasst und betrifft Mittel, die der Arbitrum Security Council am 21. April eingefroren hatte. Bei Zustimmung folgt ein weiterer Snapshot Temperature Check, danach ein bindender Onchain Constitutional AIP über Tally. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "Arbitrum proche d’approuver la libération de 71 M$ d’ETH Kelp gelés",
+      "excerpt": "Le vote Snapshot d’Arbitrum devait se clore le 7 mai avec un fort soutien à la libération de 30 765 ETH gelés après l’exploit de Kelp DAO.",
+      "body": "Le vote Snapshot de la communauté Arbitrum semblait devoir être adopté avant sa clôture prévue le 7 mai à 18h54 UTC, avec une proposition visant à libérer environ 71 millions de dollars, soit 30 765 ETH, gelés après l’exploit de Kelp DAO. Le soutien atteignait 90,5%, soit 173,9 millions d’ARB, tandis que 9,4%, ou 18,1 millions d’ARB, se sont abstenus. Moins de 1%, environ 1 700 ARB, a voté contre. La proposition a été corédigée par Aave Labs, Kelp DAO, LayerZero, EtherFi et Compound, et concerne les fonds gelés le 21 avril par le Security Council d’Arbitrum. En cas d’approbation, l’effort de récupération passera par un autre test Snapshot, puis par une Constitutional AIP onchain contraignante via Tally. Source: cointelegraph.com."
+    },
+    "ar": {
+      "title": "تصويت Arbitrum يقترب من تحرير 71 مليون دولار من ETH مجمدة في Kelp",
+      "excerpt": "كان تصويت Snapshot في Arbitrum يتجه للإغلاق في 7 مايو بدعم قوي لتحرير 30,765 ETH جُمدت بعد استغلال Kelp DAO.",
+      "body": "كان تصويت Snapshot في مجتمع Arbitrum يتجه إلى الإقرار قبل موعد إغلاقه في 7 مايو الساعة 18:54 بالتوقيت العالمي، لدعم مقترح يحرر نحو 71 مليون دولار، أو 30,765 ETH، جُمدت بعد استغلال Kelp DAO. بلغت نسبة التأييد 90.5% بما يعادل 173.9 مليون ARB، بينما امتنع 9.4% أو 18.1 مليون ARB، وصوت أقل من 1%، نحو 1,700 ARB، ضد المقترح. شاركت Aave Labs وKelp DAO وLayerZero وEtherFi وCompound في صياغته، وهو يستهدف أموالا جمدها مجلس أمن Arbitrum في 21 أبريل. إذا أُقر، ستنتقل جهود التعافي إلى فحص حرارة Snapshot آخر، ثم إلى مقترح Constitutional AIP ملزم على السلسلة عبر Tally. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "Arbitrum में Kelp की जमी $71M ETH रिलीज वोट पास होने के करीब",
+      "excerpt": "Arbitrum का Snapshot वोट 7 मई को समाप्त होने से पहले Kelp DAO exploit के बाद जमी 30,765 ETH को रिलीज करने के पक्ष में दिखा।",
+      "body": "Arbitrum समुदाय का Snapshot वोट 7 मई को 18:54 UTC पर तय समाप्ति से पहले पास होता दिख रहा था, जिसमें Kelp DAO exploit के बाद जमी करीब 7.1 करोड़ डॉलर मूल्य की 30,765 ETH रिलीज करने का प्रस्ताव है। समर्थन 90.5% था, यानी 17.39 करोड़ ARB; 9.4% या 1.81 करोड़ ARB ने मतदान से परहेज किया, जबकि 1% से कम, करीब 1,700 ARB, विरोध में थे। प्रस्ताव Aave Labs, Kelp DAO, LayerZero, EtherFi और Compound ने मिलकर बनाया है और यह 21 अप्रैल को Arbitrum Security Council द्वारा फ्रीज किए गए फंड पर केंद्रित है। मंजूरी मिलने पर रिकवरी प्रयास एक और Snapshot तापमान जांच से गुजरेंगे और फिर Tally पर बाध्यकारी ऑनचेन Constitutional AIP में जाएंगे। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "Arbitrum Segera Setujui Pelepasan ETH Kelp Beku Senilai $71 Juta",
+      "excerpt": "Voting Snapshot Arbitrum yang berakhir 7 Mei mendapat dukungan kuat untuk melepas 30.765 ETH yang dibekukan setelah exploit Kelp DAO.",
+      "body": "Voting Snapshot komunitas Arbitrum diperkirakan lolos sebelum penutupan pada 7 Mei pukul 18:54 UTC, membawa proposal untuk melepas sekitar $71 juta, atau 30.765 ETH, yang dibekukan setelah exploit Kelp DAO. Dukungan mencapai 90,5%, setara 173,9 juta ARB; 9,4% atau 18,1 juta ARB abstain; dan kurang dari 1%, sekitar 1.700 ARB, menolak. Proposal ini disusun bersama oleh Aave Labs, Kelp DAO, LayerZero, EtherFi, dan Compound, dengan target dana yang dibekukan Dewan Keamanan Arbitrum pada 21 April. Jika disetujui, upaya pemulihan berlanjut ke pemeriksaan suhu Snapshot lain sebelum diajukan sebagai Constitutional AIP onchain yang mengikat melalui Tally. Sumber: cointelegraph.com."
+    }
+  }
+}
