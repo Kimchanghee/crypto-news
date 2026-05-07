@@ -1,0 +1,75 @@
+{
+  "id": "0cbfb9bdc544",
+  "slug": "solv-protocol-will-dump-layerzero-migrate-700m-tokenized-bit-860223",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T22:41:47.754Z",
+  "updatedAt": "2026-05-07T22:41:47.754Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367154/solv-protocol-dump-layerzero-migrate-700m-tokenized-bitcoin-chainlink",
+  "canonicalUrl": "https://decrypt.co/367154/solv-protocol-dump-layerzero-migrate-700m-tokenized-bitcoin-chainlink",
+  "titleFingerprint": "063449913f12bfa6310918f10a90935b9bc1e339",
+  "dedupKeys": [
+    "0cbfb9bdc54452bf228a0fe7a5befc5f24f24359",
+    "063449913f12bfa6310918f10a90935b9bc1e339",
+    "08ba7ffa20c69415ad162ce53d9ddc50a1e5d82e"
+  ],
+  "imageUrl": "/images/articles/0cbfb9bdc544.png",
+  "i18n": {
+    "ko": {
+      "title": "Solv Protocol, LayerZero 떠나 7억달러 비트코인 기술 Chainlink로 이전",
+      "excerpt": "Solv Protocol은 Kelp DAO가 해킹 책임을 LayerZero에 돌린 뒤, 7억달러 규모 토큰화 비트코인 인프라를 Chainlink로 이전하기로 했다.",
+      "body": "Solv Protocol이 토큰화 비트코인 인프라를 LayerZero에서 Chainlink로 이전한다. 이번 결정은 Kelp DAO가 해킹 이후 LayerZero를 원인으로 지목하며 Chainlink로 이동한 흐름을 뒤따른 것이다. 이전 대상은 약 7억달러 규모의 토큰화 비트코인 기술로, Solv Protocol의 핵심 인프라에 해당한다. LayerZero를 떠나는 움직임은 크로스체인 기술 선택과 보안 신뢰에 대한 시장의 관심을 키울 수 있다. 다만 원문은 이전 계획과 배경을 전했을 뿐, 구체적 일정이나 추가 기술 조건은 공개하지 않았다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "Solv Protocol to Leave LayerZero, Move $700M Bitcoin Tech to Chainlink",
+      "excerpt": "Solv Protocol will migrate its $700 million tokenized Bitcoin infrastructure to Chainlink after Kelp DAO blamed LayerZero for a hack and made a similar move.",
+      "body": "Solv Protocol will move its tokenized Bitcoin infrastructure from LayerZero to Chainlink. The decision follows Kelp DAO, which shifted to Chainlink after blaming LayerZero for a hack. The technology being migrated is tied to about $700 million in tokenized Bitcoin and forms a core part of Solv Protocol’s infrastructure. The move may increase market attention on cross-chain technology choices and security trust. However, the source reported only the migration plan and its context, without disclosing a specific timeline or additional technical terms. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "Solv Protocol、LayerZero離脱へ 7億ドルのBTC技術をChainlinkへ",
+      "excerpt": "Solv Protocolは、Kelp DAOがハッキングの原因をLayerZeroに帰した後、7億ドル規模のトークン化ビットコイン基盤をChainlinkへ移行する。",
+      "body": "Solv Protocolは、トークン化ビットコインのインフラをLayerZeroからChainlinkへ移行する。今回の決定は、Kelp DAOがハッキング後にLayerZeroを原因として挙げ、Chainlinkへ移った流れに続くものだ。移行対象は約7億ドル規模のトークン化ビットコイン技術で、Solv Protocolの中核インフラにあたる。LayerZeroを離れる動きは、クロスチェーン技術の選択やセキュリティへの信頼をめぐる市場の関心を高める可能性がある。ただし原文は移行計画と背景を伝えたのみで、具体的な時期や追加の技術条件は明らかにしていない。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "Solv Protocol将弃用LayerZero，7亿美元比特币技术转向Chainlink",
+      "excerpt": "Solv Protocol将在Kelp DAO因黑客事件指责LayerZero后，把7亿美元规模的代币化比特币基础设施迁移至Chainlink。",
+      "body": "Solv Protocol将把其代币化比特币基础设施从LayerZero迁移至Chainlink。此举紧随Kelp DAO之后，后者在一次黑客事件后将责任归因于LayerZero，并转向Chainlink。此次迁移涉及约7亿美元规模的代币化比特币技术，是Solv Protocol核心基础设施的一部分。离开LayerZero的动向，可能使市场更加关注跨链技术选择与安全信任问题。不过，原文仅报道了迁移计划及其背景，并未披露具体时间表或更多技术条件。来源：decrypt.co"
+    },
+    "es": {
+      "title": "Solv Protocol dejará LayerZero y moverá $700M en Bitcoin tokenizado a Chainlink",
+      "excerpt": "Solv Protocol migrará a Chainlink su infraestructura de Bitcoin tokenizado de $700 millones tras el movimiento de Kelp DAO, que culpó a LayerZero por un hackeo.",
+      "body": "Solv Protocol trasladará su infraestructura de Bitcoin tokenizado de LayerZero a Chainlink. La decisión sigue el paso de Kelp DAO, que se movió a Chainlink después de responsabilizar a LayerZero por un hackeo. La tecnología que será migrada está vinculada a unos $700 millones en Bitcoin tokenizado y forma parte central de la infraestructura de Solv Protocol. La salida de LayerZero puede elevar la atención del mercado sobre la elección de tecnologías cross-chain y la confianza en seguridad. Sin embargo, la fuente solo informó el plan de migración y su contexto, sin revelar un calendario concreto ni condiciones técnicas adicionales. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "Solv Protocol deixará LayerZero e levará US$ 700 mi em Bitcoin tokenizado à Chainlink",
+      "excerpt": "A Solv Protocol migrará para a Chainlink sua infraestrutura de Bitcoin tokenizado de US$ 700 milhões após a Kelp DAO culpar a LayerZero por um hack.",
+      "body": "A Solv Protocol vai transferir sua infraestrutura de Bitcoin tokenizado da LayerZero para a Chainlink. A decisão segue o movimento da Kelp DAO, que migrou para a Chainlink depois de atribuir à LayerZero a responsabilidade por um hack. A tecnologia a ser migrada está ligada a cerca de US$ 700 milhões em Bitcoin tokenizado e integra a infraestrutura central da Solv Protocol. A saída da LayerZero pode aumentar a atenção do mercado sobre escolhas de tecnologia cross-chain e confiança em segurança. No entanto, a fonte informou apenas o plano de migração e seu contexto, sem divulgar prazo específico ou condições técnicas adicionais. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "Solv Protocol verlässt LayerZero und verschiebt $700M Bitcoin-Technik zu Chainlink",
+      "excerpt": "Solv Protocol migriert seine tokenisierte Bitcoin-Infrastruktur im Wert von 700 Millionen Dollar zu Chainlink, nachdem Kelp DAO LayerZero für einen Hack verantwortlich machte.",
+      "body": "Solv Protocol wird seine Infrastruktur für tokenisierten Bitcoin von LayerZero zu Chainlink verlagern. Die Entscheidung folgt Kelp DAO, das nach einem Hack LayerZero verantwortlich machte und ebenfalls zu Chainlink wechselte. Betroffen ist Technologie im Zusammenhang mit rund 700 Millionen Dollar an tokenisiertem Bitcoin, die zur zentralen Infrastruktur von Solv Protocol gehört. Der Abschied von LayerZero könnte die Aufmerksamkeit des Marktes auf Cross-Chain-Technologie und Sicherheitsvertrauen lenken. Die Quelle berichtet jedoch nur über den Migrationsplan und dessen Hintergrund, ohne einen konkreten Zeitplan oder weitere technische Bedingungen offenzulegen. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "Solv Protocol quitte LayerZero et migre 700 M$ de Bitcoin tokenisé vers Chainlink",
+      "excerpt": "Solv Protocol va migrer vers Chainlink son infrastructure de Bitcoin tokenisé de 700 millions de dollars après que Kelp DAO a imputé un piratage à LayerZero.",
+      "body": "Solv Protocol va transférer son infrastructure de Bitcoin tokenisé de LayerZero vers Chainlink. Cette décision suit celle de Kelp DAO, qui est passé à Chainlink après avoir imputé un piratage à LayerZero. La technologie concernée représente environ 700 millions de dollars de Bitcoin tokenisé et fait partie de l’infrastructure centrale de Solv Protocol. Le départ de LayerZero pourrait attirer davantage l’attention du marché sur les choix de technologie cross-chain et la confiance en matière de sécurité. Toutefois, la source ne rapporte que le plan de migration et son contexte, sans préciser de calendrier ni de conditions techniques supplémentaires. Source : decrypt.co"
+    },
+    "ar": {
+      "title": "Solv Protocol يغادر LayerZero وينقل تقنية بيتكوين بقيمة 700 مليون دولار إلى Chainlink",
+      "excerpt": "ستنتقل Solv Protocol ببنيتها التحتية للبيتكوين المرمز البالغة 700 مليون دولار إلى Chainlink بعد أن حمّلت Kelp DAO منصة LayerZero مسؤولية اختراق.",
+      "body": "ستقوم Solv Protocol بنقل بنيتها التحتية للبيتكوين المرمز من LayerZero إلى Chainlink. يأتي القرار بعد خطوة مماثلة من Kelp DAO، التي انتقلت إلى Chainlink بعدما حمّلت LayerZero مسؤولية اختراق. وتشمل عملية النقل تقنية مرتبطة بنحو 700 مليون دولار من البيتكوين المرمز، وهي جزء أساسي من بنية Solv Protocol. وقد يزيد الابتعاد عن LayerZero اهتمام السوق باختيارات تقنيات الربط بين السلاسل والثقة الأمنية. لكن المصدر أورد خطة الانتقال وسياقها فقط، من دون كشف جدول زمني محدد أو شروط تقنية إضافية. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "Solv Protocol LayerZero छोड़ेगा, $700M Bitcoin तकनीक Chainlink पर ले जाएगा",
+      "excerpt": "Solv Protocol अपनी $700 मिलियन की tokenized Bitcoin अवसंरचना को Chainlink पर ले जाएगा, जब Kelp DAO ने एक हैक के लिए LayerZero को जिम्मेदार ठहराया।",
+      "body": "Solv Protocol अपनी tokenized Bitcoin अवसंरचना को LayerZero से Chainlink पर स्थानांतरित करेगा। यह निर्णय Kelp DAO के कदम के बाद आया है, जिसने एक हैक के बाद LayerZero को जिम्मेदार बताया और Chainlink की ओर रुख किया। माइग्रेशन में लगभग $700 मिलियन मूल्य की tokenized Bitcoin तकनीक शामिल है, जो Solv Protocol की मुख्य अवसंरचना का हिस्सा है। LayerZero से हटने की यह पहल cross-chain तकनीक के चयन और सुरक्षा भरोसे पर बाजार का ध्यान बढ़ा सकती है। हालांकि स्रोत ने केवल माइग्रेशन योजना और उसका संदर्भ बताया है; कोई निश्चित समयसीमा या अतिरिक्त तकनीकी शर्तें सार्वजनिक नहीं की गईं। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "Solv Protocol Tinggalkan LayerZero, Pindahkan Teknologi Bitcoin $700 Juta ke Chainlink",
+      "excerpt": "Solv Protocol akan memigrasikan infrastruktur Bitcoin tertokenisasi senilai $700 juta ke Chainlink setelah Kelp DAO menyalahkan LayerZero atas sebuah peretasan.",
+      "body": "Solv Protocol akan memindahkan infrastruktur Bitcoin tertokenisasinya dari LayerZero ke Chainlink. Keputusan ini mengikuti langkah Kelp DAO, yang beralih ke Chainlink setelah menyalahkan LayerZero atas sebuah peretasan. Teknologi yang dimigrasikan terkait dengan sekitar $700 juta Bitcoin tertokenisasi dan menjadi bagian inti dari infrastruktur Solv Protocol. Perpindahan dari LayerZero dapat meningkatkan perhatian pasar terhadap pilihan teknologi cross-chain dan kepercayaan keamanan. Namun, sumber hanya melaporkan rencana migrasi dan latar belakangnya, tanpa mengungkap jadwal spesifik atau ketentuan teknis tambahan. Sumber: decrypt.co"
+    }
+  }
+}
