@@ -1,13 +1,17 @@
-/**
- * SEO / AEO / GEO helpers — backwards-compatible with v10 schema (excerpt/body only).
- */
 import type { Metadata } from 'next';
 import type { GeneratedArticle } from './types';
 import type { Locale } from '@/i18n';
 import { locales, defaultLocale } from '@/i18n';
 import { channel } from '@/channel.config';
 
-const SITE_URL = process.env.SITE_URL || `https://${(channel as any).domain || ''}`;
+const rawSiteUrl = process.env.SITE_URL || `https://${(channel as any).domain || ''}`;
+export const SITE_URL = rawSiteUrl.replace(/\/+$/, '');
+export const INDEXNOW_KEY = 'e5f4a1c9d3b748e6a12c4f0b9d87e35a';
+
+export function absoluteUrl(path = ''): string {
+  if (/^https?:\/\//i.test(path)) return path;
+  return `${SITE_URL}${path.startsWith('/') ? path : `/${path}`}`;
+}
 
 function pickI18n(a: GeneratedArticle, locale: Locale): any {
   return (a.i18n as any)[locale] ?? (a.i18n as any)[defaultLocale] ?? {};
@@ -30,14 +34,24 @@ export function alternateLanguages(path: string): Record<string, string> {
   return out;
 }
 
+function siteKeywords(extra: string[] = []): string[] {
+  return Array.from(new Set([...(channel as any).keywords ?? [], ...extra].filter(Boolean)));
+}
+
+function siteImage(): string {
+  return absoluteUrl('/icon-512.svg');
+}
+
 export function articleMetadata(a: GeneratedArticle, locale: Locale): Metadata {
   const i = pickI18n(a, locale);
   const url = `${SITE_URL}/${locale}/article/${a.slug}`;
   const title = i.title || a.slug;
   const desc = pickMetaDescription(i);
+  const image = absoluteUrl(a.imageUrl || `/images/category-${a.category || 'breaking'}.svg`);
   return {
     title: title, // layout template adds " — channel.name"
     description: desc,
+    keywords: siteKeywords(Array.isArray(i.keywords) ? i.keywords : [a.category, a.sourceName]),
     alternates: {
       canonical: url,
       languages: alternateLanguages(`/article/${a.slug}`)
@@ -52,10 +66,20 @@ export function articleMetadata(a: GeneratedArticle, locale: Locale): Metadata {
       publishedTime: a.publishedAt,
       modifiedTime: a.updatedAt,
       authors: [channel.name],
-      images: a.imageUrl ? [a.imageUrl] : [`${SITE_URL}/images/category-${a.category || 'breaking'}.svg`]
+      images: [{ url: image, width: 1200, height: 630, alt: title }]
     },
-    twitter: { card: 'summary_large_image', title, description: desc },
-    robots: { index: true, follow: true }
+    twitter: { card: 'summary_large_image', title, description: desc, images: [image] },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        'max-image-preview': 'large',
+        'max-snippet': -1,
+        'max-video-preview': -1
+      }
+    }
   };
 }
 
@@ -64,7 +88,7 @@ export function newsArticleJsonLd(a: GeneratedArticle, locale: Locale) {
   const url = `${SITE_URL}/${locale}/article/${a.slug}`;
   const title = i.title || a.slug;
   const desc = pickMetaDescription(i);
-  const heroImg = a.imageUrl || `${SITE_URL}/images/category-${a.category || 'breaking'}.svg`;
+  const heroImg = absoluteUrl(a.imageUrl || `/images/category-${a.category || 'breaking'}.svg`);
   return {
     '@context': 'https://schema.org',
     '@type': 'NewsArticle',
@@ -73,10 +97,15 @@ export function newsArticleJsonLd(a: GeneratedArticle, locale: Locale) {
     inLanguage: locale,
     datePublished: a.publishedAt,
     dateModified: a.updatedAt,
-    mainEntityOfPage: url,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
     image: [heroImg],
     isAccessibleForFree: true,
-    publisher: { '@type': 'Organization', name: channel.name, url: SITE_URL },
+    publisher: {
+      '@type': 'NewsMediaOrganization',
+      name: channel.name,
+      url: SITE_URL,
+      logo: { '@type': 'ImageObject', url: siteImage() }
+    },
     author: { '@type': 'Organization', name: channel.name },
     articleSection: a.category,
     keywords: pickKeywords(i, a),
@@ -105,6 +134,49 @@ export function organizationJsonLd() {
     name: channel.name,
     url: SITE_URL,
     description: (channel as any).description || '',
+    logo: siteImage(),
     areaServed: (channel as any).geo ? { '@type': 'Country', name: (channel as any).geo.country } : undefined
+  };
+}
+
+export function websiteJsonLd(locale: Locale) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: channel.name,
+    url: `${SITE_URL}/${locale}`,
+    inLanguage: locale,
+    description: (channel as any).description || (channel as any).tagline || '',
+    publisher: organizationJsonLd()
+  };
+}
+
+export function itemListJsonLd(items: GeneratedArticle[], locale: Locale, name = channel.name) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name,
+    itemListElement: items.map((a, index) => {
+      const i = pickI18n(a, locale);
+      return {
+        '@type': 'ListItem',
+        position: index + 1,
+        url: `${SITE_URL}/${locale}/article/${a.slug}`,
+        name: i.title || a.slug
+      };
+    })
+  };
+}
+
+export function breadcrumbJsonLd(items: { name: string; url: string }[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: items.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.name,
+      item: absoluteUrl(item.url)
+    }))
   };
 }

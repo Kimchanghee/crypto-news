@@ -5,6 +5,7 @@ import { AffiliateShowcase } from '@/components/AffiliateShowcase';
 import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
 import { getTranslations } from 'next-intl/server';
+import { itemListJsonLd } from '@/lib/seo';
 
 export const revalidate = 60;
 
@@ -17,6 +18,10 @@ export default async function Home({ params: { locale } }: { params: { locale: L
 
   return (
     <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd(articles.slice(0, 20), locale, `${channel.name} latest news`)) }}
+      />
       <header style={{ marginBottom: 20 }}>
         <h1 style={{ fontSize: 22, fontWeight: 700, lineHeight: 1.3, margin: 0, color: 'var(--ink)' }}>
           {channelName}{channelDesc ? ` — ${channelDesc}` : ''}

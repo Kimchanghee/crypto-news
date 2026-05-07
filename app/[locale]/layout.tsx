@@ -5,8 +5,9 @@ import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { MGIDLoader } from '@/components/MGIDLoader';
 import { AdsterraPopunder } from '@/components/AdsterraPopunder';
+import { AdsterraSocialBar } from '@/components/AdsterraSocialBar';
 import { locales, rtlLocales, type Locale } from '@/i18n';
-import { organizationJsonLd } from '@/lib/seo';
+import { SITE_URL, alternateLanguages, organizationJsonLd, websiteJsonLd } from '@/lib/seo';
 import { channel } from '@/channel.config';
 
 export const dynamic = 'force-dynamic';
@@ -17,12 +18,14 @@ export async function generateMetadata({ params }: { params: { locale: Locale } 
   return {
     title: { default: channelName, template: `%s — ${channelName}` },
     description: (channel as any).description || t('description'),
+    applicationName: channelName,
+    keywords: (channel as any).keywords || [],
     alternates: {
-      canonical: `/${params.locale}`,
-      languages: Object.fromEntries(locales.map((l) => [l, `/${l}`])),
+      canonical: `${SITE_URL}/${params.locale}`,
+      languages: alternateLanguages(''),
       types: { 'application/rss+xml': `/${params.locale}/rss.xml` }
     },
-    metadataBase: new URL(process.env.SITE_URL || `https://${(channel as any).domain || ''}`),
+    metadataBase: new URL(SITE_URL),
     manifest: '/manifest.json',
     themeColor: '#0e1116',
     icons: {
@@ -30,7 +33,32 @@ export async function generateMetadata({ params }: { params: { locale: Locale } 
       apple: '/apple-touch-icon.svg',
       shortcut: '/icon-192.svg'
     },
-    openGraph: { siteName: channelName, locale: params.locale, type: 'website' }
+    openGraph: {
+      siteName: channelName,
+      locale: params.locale,
+      type: 'website',
+      url: `${SITE_URL}/${params.locale}`,
+      title: channelName,
+      description: (channel as any).description || t('description'),
+      images: [{ url: '/icon-512.svg', width: 512, height: 512, alt: channelName }]
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: channelName,
+      description: (channel as any).description || t('description'),
+      images: ['/icon-512.svg']
+    },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        'max-image-preview': 'large',
+        'max-snippet': -1,
+        'max-video-preview': -1
+      }
+    }
   };
 }
 
@@ -51,12 +79,17 @@ export default async function LocaleLayout({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd(locale)) }}
+      />
       <NextIntlClientProvider messages={messages}>
         <Header locale={locale} />
         <main style={{ maxWidth: 1200, margin: '0 auto', padding: '24px' }}>{children}</main>
         <Footer locale={locale} />
         <MGIDLoader />
         <AdsterraPopunder />
+        <AdsterraSocialBar />
       </NextIntlClientProvider>
     </div>
   );

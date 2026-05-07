@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { db } from '@/lib/db';
 import { defaultLocale, type Locale } from '@/i18n';
-import { articleMetadata, faqJsonLd, newsArticleJsonLd } from '@/lib/seo';
+import { SITE_URL, articleMetadata, breadcrumbJsonLd, faqJsonLd, newsArticleJsonLd } from '@/lib/seo';
 import { AdSlot } from '@/components/AdSlot';
 import { ArticleCard } from '@/components/ArticleCard';
 import { AffiliateShowcase } from '@/components/AffiliateShowcase';
@@ -49,6 +49,16 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
   return (
     <article>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(newsArticleJsonLd(a, params.locale)) }} />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(breadcrumbJsonLd([
+            { name: channel.name, url: `/${params.locale}` },
+            { name: a.category, url: `/${params.locale}/category/${a.category}` },
+            { name: title, url: `${SITE_URL}/${params.locale}/article/${a.slug}` }
+          ]))
+        }}
+      />
       {faqs.length > 0 && (
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd(i)) }} />
       )}
@@ -60,10 +70,10 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
         </div>
         <h1 style={{ fontSize: 38, fontWeight: 700, lineHeight: 1.2, margin: '0 0 12px', letterSpacing: '-0.01em' }}>{title}</h1>
         <p style={{ fontSize: 15, color: 'var(--muted)' }}>
-          {t('article.published')}: {new Date(a.publishedAt).toLocaleDateString(params.locale)} · {t('article.source')}: <a href={a.sourceUrl} rel="noopener nofollow" target="_blank">{a.sourceName}</a>
+          {t('article.published')}: <time dateTime={a.publishedAt}>{new Date(a.publishedAt).toLocaleDateString(params.locale)}</time> · {t('article.source')}: <a href={a.sourceUrl} rel="noopener nofollow" target="_blank">{a.sourceName}</a>
         </p>
         <figure style={{ margin: '20px 0 0' }}>
-          <img src={heroImg} alt={title} style={{ width: '100%', aspectRatio: '16/9', objectFit: 'cover', borderRadius: 12, display: 'block', background: 'var(--soft)' }} decoding="async" />
+          <img src={heroImg} alt={title} style={{ width: '100%', aspectRatio: '16/9', objectFit: 'cover', borderRadius: 12, display: 'block', background: 'var(--soft)' }} decoding="async" fetchPriority="high" />
         </figure>
         {summary && (
           <div style={{ marginTop: 16, padding: 16, background: 'var(--soft)', borderRadius: 8 }}>

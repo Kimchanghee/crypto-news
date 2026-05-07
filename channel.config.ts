@@ -6,7 +6,7 @@ export const channel = {
   name: '크립토데일리',
   tagline: '비트코인·이더리움·디파이를 매일 쉽게',
   description: '비트코인, 이더리움, 알트코인, 디파이, NFT, 규제 뉴스를 초등생도 이해할 수 있게 정리합니다.',
-  domain: 'cryptodaily.live',
+  domain: 'crypto-news-beta.vercel.app',
   accent: 'green',
   keywords: ['비트코인', '이더리움', '암호화폐', '코인', '디파이', '블록체인'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },
