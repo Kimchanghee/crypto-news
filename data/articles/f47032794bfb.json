@@ -1,0 +1,75 @@
+{
+  "id": "f47032794bfb",
+  "slug": "privacy-and-accountability-can-coexist-onchain-say-panelists-604468",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T21:18:22.231Z",
+  "updatedAt": "2026-05-07T21:18:22.232Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/07/privacy-and-accountability-can-coexist-onchain-say-panelists-at-consensus-miami",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/05/07/privacy-and-accountability-can-coexist-onchain-say-panelists-at-consensus-miami",
+  "titleFingerprint": "a416f97a2d17fc8e33d770ae68dea60c348dcf58",
+  "dedupKeys": [
+    "f47032794bfb691cd902a87c6538891d961379fa",
+    "a416f97a2d17fc8e33d770ae68dea60c348dcf58",
+    "26f8566fb3fa967500f873415cb765ec9d14c4cf"
+  ],
+  "imageUrl": "/images/articles/f47032794bfb.jpg",
+  "i18n": {
+    "ko": {
+      "title": "온체인 프라이버시와 책임성 공존 가능성, 컨센서스 마이애미서 제기",
+      "excerpt": "컨센서스 마이애미 패널에서 무디스 레이팅스와 ChangeNOW 관계자들은 퍼블릭 블록체인의 추적성과 이용자 프라이버시를 함께 다룰 해법을 논의했다.",
+      "body": "컨센서스 마이애미 패널에서 무디스 레이팅스와 ChangeNOW 연사들은 퍼블릭 블록체인에서 프라이버시와 책임성이 동시에 유지될 수 있다고 밝혔다. 퍼블릭 블록체인은 거래 흐름을 추적할 수 있게 해 투명성을 높이지만, 이 특성은 이용자 프라이버시를 약화시킬 수 있다. 패널은 하이브리드 블록체인 아키텍처와 주소 단위 모니터링이 두 과제를 함께 해결하는 방식이 될 수 있다고 설명했다. 이는 온체인 활동의 책임성을 유지하면서도 개인정보 노출 우려를 줄이는 접근으로 제시됐다. 출처: coindesk.com."
+    },
+    "en": {
+      "title": "Onchain Privacy and Accountability Can Coexist, Consensus Miami Panel Says",
+      "excerpt": "At Consensus Miami, speakers from Moody’s Ratings and ChangeNOW discussed how public blockchain traceability and user privacy could be addressed together.",
+      "body": "At a Consensus Miami panel, speakers from Moody’s Ratings and ChangeNOW said privacy and accountability can coexist on public blockchains. Public blockchains make transaction flows traceable and increase transparency, but that same feature can weaken user privacy. The panelists said hybrid blockchain architecture and address-level monitoring could help address both challenges at the same time. The approach was presented as a way to maintain accountability for onchain activity while reducing concerns about personal information exposure. Source: coindesk.com."
+    },
+    "ja": {
+      "title": "オンチェーンのプライバシーと責任性は共存可能、Consensus Miamiで議論",
+      "excerpt": "Consensus Miamiのパネルで、Moody’s RatingsとChangeNOWの登壇者は、パブリックブロックチェーンの追跡性と利用者プライバシーを両立する方法を論じた。",
+      "body": "Consensus Miamiのパネルで、Moody’s RatingsとChangeNOWの登壇者は、パブリックブロックチェーン上でプライバシーと責任性は同時に維持できると述べた。パブリックブロックチェーンは取引の流れを追跡可能にし透明性を高める一方、その特性は利用者のプライバシーを弱める可能性がある。登壇者は、ハイブリッド型ブロックチェーン構造とアドレス単位の監視が、二つの課題を同時に解決する手段になり得ると説明した。これはオンチェーン活動の責任性を保ちながら、個人情報露出への懸念を減らすアプローチとして示された。出典: coindesk.com。"
+    },
+    "zh": {
+      "title": "链上隐私与问责可并存，Consensus Miami小组提出路径",
+      "excerpt": "在Consensus Miami小组讨论中，Moody’s Ratings和ChangeNOW发言人讨论了如何同时处理公链可追踪性与用户隐私问题。",
+      "body": "在Consensus Miami的一场小组讨论中，Moody’s Ratings和ChangeNOW的发言人表示，隐私与问责可以在公链上同时存在。公链让交易流向可以被追踪，并提高透明度，但这一特性也可能削弱用户隐私。与会者称，混合区块链架构和地址级监控可能有助于同时解决这两个问题。该方式被提出为一种在维持链上活动问责性的同时，降低个人信息暴露担忧的路径。来源: coindesk.com。"
+    },
+    "es": {
+      "title": "Privacidad y rendición de cuentas onchain pueden coexistir, dice panel en Miami",
+      "excerpt": "En Consensus Miami, representantes de Moody’s Ratings y ChangeNOW debatieron cómo combinar trazabilidad de blockchains públicas y privacidad de usuarios.",
+      "body": "En un panel de Consensus Miami, ponentes de Moody’s Ratings y ChangeNOW afirmaron que la privacidad y la rendición de cuentas pueden coexistir en blockchains públicas. Estas redes permiten rastrear los flujos de transacciones y elevan la transparencia, pero esa misma característica puede afectar la privacidad de los usuarios. Los panelistas dijeron que una arquitectura blockchain híbrida y el monitoreo a nivel de dirección pueden ayudar a resolver ambos problemas a la vez. El enfoque se presentó como una forma de mantener la responsabilidad de la actividad onchain mientras se reducen las preocupaciones por la exposición de información personal. Fuente: coindesk.com."
+    },
+    "pt": {
+      "title": "Privacidade e responsabilidade onchain podem coexistir, diz painel em Miami",
+      "excerpt": "No Consensus Miami, representantes da Moody’s Ratings e da ChangeNOW discutiram como conciliar rastreabilidade em blockchains públicas e privacidade do usuário.",
+      "body": "Em um painel no Consensus Miami, palestrantes da Moody’s Ratings e da ChangeNOW disseram que privacidade e responsabilidade podem coexistir em blockchains públicas. Essas redes tornam os fluxos de transações rastreáveis e aumentam a transparência, mas essa mesma característica pode reduzir a privacidade dos usuários. Os painelistas afirmaram que uma arquitetura blockchain híbrida e o monitoramento em nível de endereço podem ajudar a enfrentar os dois problemas ao mesmo tempo. A abordagem foi apresentada como uma forma de manter a responsabilidade da atividade onchain enquanto diminui preocupações com exposição de informações pessoais. Fonte: coindesk.com."
+    },
+    "de": {
+      "title": "Onchain-Privatsphäre und Verantwortlichkeit können koexistieren, sagt Miami-Panel",
+      "excerpt": "Beim Consensus Miami diskutierten Vertreter von Moody’s Ratings und ChangeNOW, wie öffentliche Blockchain-Nachverfolgbarkeit und Nutzerdatenschutz zusammengehen können.",
+      "body": "Auf einem Panel beim Consensus Miami sagten Sprecher von Moody’s Ratings und ChangeNOW, dass Privatsphäre und Verantwortlichkeit auf öffentlichen Blockchains gleichzeitig bestehen können. Öffentliche Blockchains machen Transaktionsflüsse nachvollziehbar und erhöhen die Transparenz, doch genau diese Eigenschaft kann die Privatsphäre der Nutzer schwächen. Die Panelisten erklärten, hybride Blockchain-Architektur und Monitoring auf Adressebene könnten helfen, beide Probleme zugleich anzugehen. Der Ansatz wurde als Möglichkeit dargestellt, Verantwortlichkeit für Onchain-Aktivitäten zu erhalten und zugleich Bedenken wegen der Offenlegung persönlicher Informationen zu verringern. Quelle: coindesk.com."
+    },
+    "fr": {
+      "title": "Confidentialité et responsabilité onchain peuvent coexister, selon un panel à Miami",
+      "excerpt": "À Consensus Miami, des intervenants de Moody’s Ratings et ChangeNOW ont expliqué comment concilier traçabilité des blockchains publiques et vie privée des utilisateurs.",
+      "body": "Lors d’un panel à Consensus Miami, des intervenants de Moody’s Ratings et de ChangeNOW ont déclaré que confidentialité et responsabilité pouvaient coexister sur les blockchains publiques. Ces réseaux rendent les flux de transactions traçables et renforcent la transparence, mais cette même caractéristique peut affaiblir la vie privée des utilisateurs. Les panélistes ont indiqué qu’une architecture blockchain hybride et une surveillance au niveau des adresses pourraient aider à répondre aux deux enjeux simultanément. L’approche a été présentée comme un moyen de maintenir la responsabilité des activités onchain tout en réduisant les préoccupations liées à l’exposition d’informations personnelles. Source: coindesk.com."
+    },
+    "ar": {
+      "title": "خصوصية البلوكشين والمساءلة يمكن أن تتعايشا على السلسلة، وفق لوحة في ميامي",
+      "excerpt": "في Consensus Miami، ناقش متحدثون من Moody’s Ratings وChangeNOW كيفية الجمع بين قابلية تتبع البلوكشين العامة وخصوصية المستخدمين.",
+      "body": "في جلسة ضمن Consensus Miami، قال متحدثون من Moody’s Ratings وChangeNOW إن الخصوصية والمساءلة يمكن أن تتعايشا على شبكات البلوكشين العامة. فهذه الشبكات تجعل تدفقات المعاملات قابلة للتتبع وتزيد الشفافية، لكن هذه السمة نفسها قد تأتي على حساب خصوصية المستخدمين. وأوضح المشاركون أن بنية بلوكشين هجينة والمراقبة على مستوى العناوين يمكن أن تساعدا في معالجة المشكلتين في الوقت نفسه. وقُدم هذا النهج كطريقة للحفاظ على مساءلة النشاط على السلسلة مع تقليل مخاوف كشف المعلومات الشخصية. المصدر: coindesk.com."
+    },
+    "hi": {
+      "title": "ऑनचेन गोपनीयता और जवाबदेही साथ चल सकती हैं, Consensus Miami पैनल का मत",
+      "excerpt": "Consensus Miami में Moody’s Ratings और ChangeNOW के वक्ताओं ने सार्वजनिक ब्लॉकचेन की ट्रेसबिलिटी और यूजर प्राइवेसी को साथ संभालने के तरीकों पर चर्चा की।",
+      "body": "Consensus Miami के एक पैनल में Moody’s Ratings और ChangeNOW के वक्ताओं ने कहा कि सार्वजनिक ब्लॉकचेन पर गोपनीयता और जवाबदेही साथ-साथ बनी रह सकती हैं। सार्वजनिक ब्लॉकचेन लेनदेन के प्रवाह को ट्रेस करने योग्य बनाते हैं और पारदर्शिता बढ़ाते हैं, लेकिन यही विशेषता यूजर प्राइवेसी को कमजोर कर सकती है। पैनलिस्टों ने कहा कि हाइब्रिड ब्लॉकचेन आर्किटेक्चर और एड्रेस-लेवल मॉनिटरिंग दोनों समस्याओं को एक साथ हल करने में मदद कर सकते हैं। इसे ऑनचेन गतिविधि की जवाबदेही बनाए रखते हुए निजी जानकारी के उजागर होने की चिंता कम करने वाले दृष्टिकोण के रूप में पेश किया गया। स्रोत: coindesk.com."
+    },
+    "id": {
+      "title": "Privasi dan Akuntabilitas Onchain Bisa Berjalan Bersama, Kata Panel Miami",
+      "excerpt": "Di Consensus Miami, pembicara dari Moody’s Ratings dan ChangeNOW membahas cara menyelaraskan keterlacakan blockchain publik dengan privasi pengguna.",
+      "body": "Dalam panel Consensus Miami, pembicara dari Moody’s Ratings dan ChangeNOW mengatakan privasi dan akuntabilitas dapat berjalan bersama di blockchain publik. Blockchain publik membuat alur transaksi dapat dilacak dan meningkatkan transparansi, tetapi karakteristik yang sama dapat melemahkan privasi pengguna. Para panelis mengatakan arsitektur blockchain hibrida dan pemantauan tingkat alamat dapat membantu menangani kedua masalah tersebut sekaligus. Pendekatan ini dipaparkan sebagai cara menjaga akuntabilitas aktivitas onchain sambil mengurangi kekhawatiran atas paparan informasi pribadi. Sumber: coindesk.com."
+    }
+  }
+}
