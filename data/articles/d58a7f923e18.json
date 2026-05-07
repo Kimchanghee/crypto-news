@@ -1,0 +1,75 @@
+{
+  "id": "d58a7f923e18",
+  "slug": "polygon-reduces-block-time-to-175-seconds-as-payments-push-a-409851",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T20:25:47.759Z",
+  "updatedAt": "2026-05-07T20:25:47.759Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/polygon-reduces-block-production-time-175-second?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/polygon-reduces-block-production-time-175-second",
+  "titleFingerprint": "df1688c04443f68865781a217f796c01c7883039",
+  "dedupKeys": [
+    "d58a7f923e1818c29f4858c96ced060ec0682705",
+    "df1688c04443f68865781a217f796c01c7883039",
+    "1a86b0e06e4f3f666edfcb8694bd35d1244f9368"
+  ],
+  "imageUrl": "/images/articles/d58a7f923e18.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Polygon 블록 시간 1.75초로 단축, 결제 활용 확대에 속도",
+      "excerpt": "Polygon은 이번 업그레이드로 제네시스 이후 첫 블록 시간 단축을 적용해 1.75초를 구현했으며, 프라이빗 스테이블코인 결제 등 고빈도 애플리케이션 대응력을 높이고 있다.",
+      "body": "Polygon은 이번 네트워크 업그레이드를 통해 블록 시간을 1.75초로 줄였다. 이는 제네시스 이후 처음 이뤄진 블록 시간 단축 업그레이드다. 이번 조치는 네트워크가 더 빠른 처리 주기를 필요로 하는 고빈도 애플리케이션에 맞춰 입지를 강화하려는 흐름 속에서 나왔다. 특히 Polygon은 프라이빗 스테이블코인 결제와 같은 결제 중심 활용 사례를 염두에 두고 있다. 블록 시간이 짧아지면 결제와 거래 처리에서 더 빠른 확인 경험을 제공할 수 있어 관련 애플리케이션 확장에 중요한 기반이 될 수 있다. 다만 이번 내용은 블록 시간 단축과 결제 활용 확대 방향에 초점이 맞춰져 있다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "Polygon Cuts Block Time to 1.75 Seconds as Payments Push Grows",
+      "excerpt": "Polygon has reduced block time to 1.75 seconds in its first such upgrade since genesis, aiming to support high-frequency uses such as private stablecoin payments.",
+      "body": "Polygon has reduced its network block time to 1.75 seconds through a new upgrade. It is the first block time reduction upgrade since the network’s genesis. The move comes as Polygon looks to strengthen its position for high-frequency applications that require faster processing cycles. One key area is payments, including use cases such as private stablecoin payments. A shorter block time can support faster confirmation experiences for payments and transactions, making it relevant for applications that depend on frequent activity. The reported update focuses on the reduced block time and Polygon’s broader push toward payment-oriented use cases. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "Polygon、ブロック時間を1.75秒に短縮し決済活用を加速",
+      "excerpt": "Polygonは今回のアップグレードでジェネシス以来初のブロック時間短縮を実施し、1.75秒を実現。プライベートなステーブルコイン決済など高頻度用途への対応を進めている。",
+      "body": "Polygonは今回のネットワークアップグレードにより、ブロック時間を1.75秒に短縮した。これはジェネシス以来、初めて実施されたブロック時間短縮アップグレードとなる。今回の動きは、より速い処理サイクルを必要とする高頻度アプリケーションに向けて、同ネットワークの位置付けを強める流れの中で行われた。特にPolygonは、プライベートなステーブルコイン決済のような決済中心のユースケースを視野に入れている。ブロック時間の短縮は、決済や取引処理における確認体験の高速化につながり、関連アプリケーション拡大の基盤となり得る。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "Polygon将区块时间降至1.75秒，支付布局继续提速",
+      "excerpt": "Polygon通过此次升级将区块时间缩短至1.75秒，这是其创世以来首次降低区块时间，旨在支持私密稳定币支付等高频应用场景。",
+      "body": "Polygon通过新的网络升级将区块时间缩短至1.75秒。这是该网络自创世以来首次进行区块时间降低升级。此次调整发生在Polygon寻求面向更高频应用强化定位的背景下，这类应用需要更快的处理周期。支付是其中的重要方向，尤其包括私密稳定币支付等用例。更短的区块时间有助于在支付和交易处理中提供更快的确认体验，因此可能成为相关应用扩展的重要基础。不过，本次报道的重点仍是区块时间缩短以及Polygon推动支付类应用发展的方向。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "Polygon baja el tiempo de bloque a 1,75 segundos y acelera pagos",
+      "excerpt": "Polygon redujo el tiempo de bloque a 1,75 segundos en su primera actualización de este tipo desde el génesis, con foco en usos de alta frecuencia como pagos privados con stablecoins.",
+      "body": "Polygon redujo el tiempo de bloque de su red a 1,75 segundos mediante una nueva actualización. Se trata de la primera reducción del tiempo de bloque desde el génesis de la red. La medida llega mientras Polygon busca posicionarse mejor para aplicaciones de alta frecuencia que requieren ciclos de procesamiento más rápidos. Un foco relevante son los pagos, incluidos casos como pagos privados con stablecoins. Un menor tiempo de bloque puede ofrecer confirmaciones más rápidas en pagos y transacciones, lo que resulta importante para aplicaciones con actividad frecuente. La información se centra en esta reducción y en el impulso de Polygon hacia usos de pago. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "Polygon reduz tempo de bloco para 1,75 segundo e acelera pagamentos",
+      "excerpt": "A Polygon reduziu o tempo de bloco para 1,75 segundo em sua primeira atualização do tipo desde a gênese, mirando usos de alta frequência como pagamentos privados com stablecoins.",
+      "body": "A Polygon reduziu o tempo de bloco da rede para 1,75 segundo por meio de uma nova atualização. Esta é a primeira redução de tempo de bloco desde a gênese da rede. A medida ocorre enquanto a Polygon busca se posicionar para aplicações de alta frequência que exigem ciclos de processamento mais rápidos. Um dos principais focos está nos pagamentos, incluindo casos como pagamentos privados com stablecoins. Um tempo de bloco menor pode oferecer confirmações mais rápidas em pagamentos e transações, o que é relevante para aplicações com atividade frequente. A atualização destacada trata da redução do tempo de bloco e do avanço da Polygon em usos voltados a pagamentos. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "Polygon senkt Blockzeit auf 1,75 Sekunden und treibt Zahlungen voran",
+      "excerpt": "Polygon hat die Blockzeit mit dem ersten solchen Upgrade seit Genesis auf 1,75 Sekunden reduziert und zielt auf Hochfrequenzanwendungen wie private Stablecoin-Zahlungen.",
+      "body": "Polygon hat die Blockzeit seines Netzwerks durch ein neues Upgrade auf 1,75 Sekunden reduziert. Es ist die erste Senkung der Blockzeit seit der Genesis des Netzwerks. Der Schritt erfolgt, während Polygon seine Position für Hochfrequenzanwendungen stärken will, die schnellere Verarbeitungszyklen benötigen. Ein wichtiger Bereich sind Zahlungen, darunter Anwendungsfälle wie private Stablecoin-Zahlungen. Eine kürzere Blockzeit kann bei Zahlungen und Transaktionen schnellere Bestätigungen ermöglichen und damit für Anwendungen mit hoher Aktivität relevant sein. Im Mittelpunkt der Meldung stehen die Blockzeitverkürzung und Polygons verstärkter Fokus auf zahlungsorientierte Nutzung. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "Polygon réduit le temps de bloc à 1,75 seconde et accélère les paiements",
+      "excerpt": "Polygon a ramené son temps de bloc à 1,75 seconde via sa première mise à niveau de ce type depuis la genèse, afin de soutenir des usages à haute fréquence comme les paiements privés en stablecoins.",
+      "body": "Polygon a réduit le temps de bloc de son réseau à 1,75 seconde grâce à une nouvelle mise à niveau. Il s’agit de la première réduction du temps de bloc depuis la genèse du réseau. Cette évolution intervient alors que Polygon cherche à mieux se positionner pour des applications à haute fréquence nécessitant des cycles de traitement plus rapides. Les paiements figurent parmi les axes clés, notamment les paiements privés en stablecoins. Un temps de bloc plus court peut offrir des confirmations plus rapides pour les paiements et les transactions, ce qui compte pour les applications à activité fréquente. L’information porte sur cette réduction et sur l’orientation de Polygon vers les usages de paiement. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "Polygon تخفض زمن الكتلة إلى 1.75 ثانية مع تسارع توجه المدفوعات",
+      "excerpt": "خفضت Polygon زمن الكتلة إلى 1.75 ثانية في أول ترقية من هذا النوع منذ التأسيس، بهدف دعم تطبيقات عالية التكرار مثل مدفوعات العملات المستقرة الخاصة.",
+      "body": "خفضت Polygon زمن الكتلة على شبكتها إلى 1.75 ثانية عبر ترقية جديدة. وتعد هذه أول ترقية لتقليل زمن الكتلة منذ تأسيس الشبكة. تأتي الخطوة بينما تسعى Polygon إلى تعزيز موقعها للتطبيقات عالية التكرار التي تحتاج إلى دورات معالجة أسرع. ويبرز مجال المدفوعات كأحد المحاور الرئيسية، بما في ذلك استخدامات مثل مدفوعات العملات المستقرة الخاصة. قد يساعد زمن الكتلة الأقصر في توفير تجربة تأكيد أسرع للمدفوعات والمعاملات، ما يجعله مهما للتطبيقات ذات النشاط المتكرر. يركز الخبر على خفض زمن الكتلة واتجاه Polygon المتزايد نحو استخدامات المدفوعات. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "Polygon ने ब्लॉक समय 1.75 सेकंड किया, भुगतान रणनीति तेज",
+      "excerpt": "Polygon ने जेनेसिस के बाद पहली बार ब्लॉक समय घटाने वाला अपग्रेड लागू कर इसे 1.75 सेकंड किया है, ताकि निजी स्टेबलकॉइन भुगतान जैसे उच्च-आवृत्ति उपयोगों को समर्थन मिल सके।",
+      "body": "Polygon ने नए नेटवर्क अपग्रेड के जरिए ब्लॉक समय को 1.75 सेकंड तक घटा दिया है। यह नेटवर्क के जेनेसिस के बाद ब्लॉक समय घटाने वाला पहला अपग्रेड है। यह कदम ऐसे समय आया है जब Polygon तेज प्रोसेसिंग चक्र की जरूरत वाले उच्च-आवृत्ति एप्लिकेशन के लिए अपनी स्थिति मजबूत करना चाहता है। इसमें भुगतान एक अहम क्षेत्र है, खासकर निजी स्टेबलकॉइन भुगतान जैसे उपयोग। कम ब्लॉक समय भुगतान और लेनदेन में तेज पुष्टि अनुभव दे सकता है, इसलिए यह लगातार गतिविधि वाले एप्लिकेशन के विस्तार के लिए उपयोगी आधार बन सकता है। रिपोर्ट का केंद्र ब्लॉक समय में कमी और Polygon का भुगतान-केंद्रित उपयोगों की ओर बढ़ता ध्यान है। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "Polygon Pangkas Waktu Blok ke 1,75 Detik, Dorong Fokus Pembayaran",
+      "excerpt": "Polygon memangkas waktu blok menjadi 1,75 detik lewat peningkatan pertama sejak genesis, untuk mendukung aplikasi berfrekuensi tinggi seperti pembayaran stablecoin privat.",
+      "body": "Polygon memangkas waktu blok jaringannya menjadi 1,75 detik melalui peningkatan baru. Ini merupakan peningkatan pengurangan waktu blok pertama sejak genesis jaringan tersebut. Langkah ini hadir saat Polygon berupaya memperkuat posisinya untuk aplikasi berfrekuensi tinggi yang membutuhkan siklus pemrosesan lebih cepat. Salah satu fokus utamanya adalah pembayaran, termasuk penggunaan seperti pembayaran stablecoin privat. Waktu blok yang lebih pendek dapat mendukung pengalaman konfirmasi yang lebih cepat untuk pembayaran dan transaksi, sehingga relevan bagi aplikasi dengan aktivitas yang sering. Laporan ini berfokus pada pemangkasan waktu blok dan dorongan Polygon menuju penggunaan berbasis pembayaran. Sumber: cointelegraph.com"
+    }
+  }
+}
