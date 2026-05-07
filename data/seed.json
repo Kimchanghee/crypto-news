@@ -1,5 +1,230 @@
 [
   {
+    "id": "5038e46557ea",
+    "slug": "six-group-wins-swiss-approval-to-offer-crypto-custody-alongs-367760",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T00:14:50.888Z",
+    "updatedAt": "2026-05-07T00:14:50.888Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/six-group-receives-finma-approval-to-integrate-crypto-custody-into-csd-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/six-group-receives-finma-approval-to-integrate-crypto-custody-into-csd-infrastructure",
+    "titleFingerprint": "d5fa1f6c4426322427246fada0a102673f8b9d6b",
+    "dedupKeys": [
+      "5038e46557ea640a2308a77ae99ab0f39d8207d6",
+      "d5fa1f6c4426322427246fada0a102673f8b9d6b",
+      "3124d47a29e9135aaccf101eca48a9f1657cf617"
+    ],
+    "imageUrl": "/images/articles/5038e46557ea.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SIX그룹, FINMA 승인으로 전통 증권 인프라서 암호화폐 수탁 제공",
+        "excerpt": "SIX그룹은 FINMA 승인을 받아 전통 증권 결제와 후거래 서비스에 쓰이는 동일 규제 인프라를 통해 암호화폐 수탁을 제공할 수 있게 됐다.",
+        "body": "SIX그룹이 스위스 금융시장감독청(FINMA)의 승인을 받아 전통 증권 결제와 후거래 서비스에 사용해 온 동일한 규제 인프라에서 암호화폐 수탁 서비스를 제공할 수 있게 됐다. 이번 승인은 기존 증권 업무를 처리하던 체계 안에서 디지털 자산 보관을 함께 다룰 수 있도록 허용한 것이 핵심이다. 배경에는 전통 금융시장 인프라와 암호화폐 보관 업무를 같은 규제 틀에서 운영하려는 SIX그룹의 접근이 있다. 이에 따라 고객은 별도 비규제 구조가 아니라 기존 증권 후처리 서비스와 연결된 환경에서 암호화폐 수탁을 이용할 수 있다. 향후 영향은 전통 증권 서비스와 디지털 자산 보관의 접점이 더 뚜렷해지는 데 있다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "SIX Group wins FINMA approval for crypto custody on securities rails",
+        "excerpt": "SIX Group has received FINMA approval to offer crypto custody through the same regulated infrastructure used for traditional securities settlement and post-trade services.",
+        "body": "SIX Group has received approval from Switzerland’s Financial Market Supervisory Authority, FINMA, to provide crypto custody through the same regulated infrastructure it uses for traditional securities settlement and post-trade services. The key point of the approval is that digital asset custody can now be handled within the framework already used for established securities operations. The context is SIX Group’s move to place crypto safekeeping alongside traditional market infrastructure rather than in a separate unregulated setup. As a result, clients can access crypto custody in an environment connected to existing securities post-trade services. The main implication is a clearer link between traditional securities services and digital asset custody. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "SIXグループ、FINMA承認で証券基盤上の暗号資産カストディ提供へ",
+        "excerpt": "SIXグループはFINMAの承認を受け、従来の証券決済とポストトレードサービスで使う同じ規制インフラを通じて暗号資産カストディを提供できるようになった。",
+        "body": "SIXグループはスイス金融市場監督機構（FINMA）の承認を受け、従来の証券決済とポストトレードサービスに使ってきた同じ規制インフラ上で暗号資産カストディサービスを提供できるようになった。今回の承認の要点は、既存の証券業務を処理する枠組みの中でデジタル資産の保管も扱えるようになったことだ。背景には、伝統的な金融市場インフラと暗号資産保管を同じ規制環境で運用しようとするSIXグループの方針がある。これにより顧客は、別個の非規制構造ではなく、既存の証券ポストトレードサービスとつながる環境で暗号資産カストディを利用できる。今後の焦点は、証券サービスとデジタル資産保管の接点がより明確になる点にある。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "SIX集团获FINMA批准，在证券基础设施上提供加密托管",
+        "excerpt": "SIX集团已获得FINMA批准，可通过用于传统证券结算和交易后服务的同一受监管基础设施提供加密资产托管服务。",
+        "body": "SIX集团已获得瑞士金融市场监管机构FINMA批准，可在其用于传统证券结算和交易后服务的同一受监管基础设施上提供加密资产托管服务。此次批准的核心在于，数字资产保管可以被纳入原本处理传统证券业务的框架之中。其背景是SIX集团希望把传统金融市场基础设施与加密资产托管放在同一监管体系下运行，而不是采用单独的非监管结构。因此，客户可在与现有证券交易后服务相连接的环境中使用加密托管。其影响在于，传统证券服务与数字资产保管之间的联系将更加明确。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "SIX Group obtiene aval de FINMA para custodia cripto en infraestructura de valores",
+        "excerpt": "SIX Group recibió la aprobación de FINMA para ofrecer custodia cripto mediante la misma infraestructura regulada usada en liquidación de valores y servicios postnegociación.",
+        "body": "SIX Group recibió la aprobación de la Autoridad Supervisora del Mercado Financiero de Suiza, FINMA, para ofrecer custodia de criptomonedas mediante la misma infraestructura regulada que utiliza para la liquidación de valores tradicionales y los servicios postnegociación. El punto central de la autorización es que la custodia de activos digitales puede gestionarse dentro del marco ya usado para las operaciones de valores existentes. El contexto es el enfoque de SIX Group de operar la infraestructura financiera tradicional y la custodia cripto bajo un mismo entorno regulado. Así, los clientes pueden acceder a la custodia cripto en un sistema conectado con los servicios postnegociación de valores, no en una estructura separada no regulada. La implicación es una relación más clara entre los servicios de valores tradicionales y la custodia de activos digitales. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "SIX Group recebe aval da FINMA para custódia cripto em infraestrutura de valores",
+        "excerpt": "A SIX Group recebeu aprovação da FINMA para oferecer custódia cripto pela mesma infraestrutura regulada usada em liquidação de valores mobiliários e serviços pós-negociação.",
+        "body": "A SIX Group recebeu aprovação da Autoridade Supervisora do Mercado Financeiro da Suíça, FINMA, para fornecer custódia de criptomoedas pela mesma infraestrutura regulada usada na liquidação de valores mobiliários tradicionais e em serviços pós-negociação. O ponto central da aprovação é permitir que a guarda de ativos digitais seja tratada dentro da estrutura já utilizada nas operações de valores existentes. O contexto é a abordagem da SIX Group de operar a infraestrutura do mercado financeiro tradicional e a custódia cripto no mesmo ambiente regulado. Com isso, clientes podem acessar custódia cripto em um sistema conectado aos serviços pós-negociação de valores, e não em uma estrutura separada sem regulação. O impacto esperado é uma ligação mais clara entre serviços tradicionais de valores e custódia de ativos digitais. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "SIX Group erhält FINMA-Zulassung für Krypto-Verwahrung auf Wertpapierinfrastruktur",
+        "excerpt": "SIX Group hat die FINMA-Zulassung erhalten, Krypto-Verwahrung über dieselbe regulierte Infrastruktur anzubieten, die für Wertpapierabwicklung und Nachhandelsdienste genutzt wird.",
+        "body": "SIX Group hat von der Schweizer Finanzmarktaufsicht FINMA die Genehmigung erhalten, Krypto-Verwahrung über dieselbe regulierte Infrastruktur anzubieten, die sie für die Abwicklung traditioneller Wertpapiere und für Nachhandelsdienste nutzt. Kern der Zulassung ist, dass die Verwahrung digitaler Vermögenswerte innerhalb des bereits für bestehende Wertpapiergeschäfte genutzten Rahmens erfolgen kann. Hintergrund ist der Ansatz von SIX Group, traditionelle Finanzmarktinfrastruktur und Krypto-Verwahrung unter demselben regulierten Umfeld zu betreiben. Kunden können damit Krypto-Verwahrung in einer Umgebung nutzen, die mit bestehenden Wertpapier-Nachhandelsdiensten verbunden ist, statt in einer separaten unregulierten Struktur. Die Bedeutung liegt in einer klareren Verbindung zwischen klassischen Wertpapierdiensten und der Verwahrung digitaler Vermögenswerte. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "SIX Group obtient l’aval de la FINMA pour la garde crypto sur rails titres",
+        "excerpt": "SIX Group a reçu l’approbation de la FINMA pour proposer la garde crypto via la même infrastructure réglementée que celle utilisée pour le règlement de titres et les services post-marché.",
+        "body": "SIX Group a reçu l’approbation de l’Autorité fédérale de surveillance des marchés financiers suisse, la FINMA, pour fournir des services de garde de cryptoactifs via la même infrastructure réglementée que celle utilisée pour le règlement des titres traditionnels et les services post-marché. Le point central de cette autorisation est que la conservation d’actifs numériques peut être traitée dans le cadre déjà employé pour les opérations sur titres existantes. Le contexte est l’approche de SIX Group, qui consiste à exploiter l’infrastructure de marché traditionnelle et la garde crypto dans un même environnement réglementé. Les clients peuvent ainsi accéder à la garde crypto dans un système relié aux services post-marché de titres, plutôt que dans une structure séparée non réglementée. L’impact tient à un lien plus net entre services de titres traditionnels et conservation d’actifs numériques. Source : cointelegraph.com."
+      },
+      "ar": {
+        "title": "مجموعة SIX تحصل على موافقة FINMA لحفظ العملات المشفرة عبر بنية الأوراق المالية",
+        "excerpt": "حصلت مجموعة SIX على موافقة FINMA لتقديم حفظ العملات المشفرة عبر البنية التحتية المنظمة نفسها المستخدمة في تسوية الأوراق المالية التقليدية وخدمات ما بعد التداول.",
+        "body": "حصلت مجموعة SIX على موافقة هيئة الرقابة على الأسواق المالية السويسرية FINMA لتقديم خدمات حفظ العملات المشفرة عبر البنية التحتية المنظمة نفسها التي تستخدمها في تسوية الأوراق المالية التقليدية وخدمات ما بعد التداول. جوهر الموافقة هو السماح بالتعامل مع حفظ الأصول الرقمية داخل الإطار المستخدم بالفعل في عمليات الأوراق المالية القائمة. ويأتي ذلك في سياق نهج مجموعة SIX القائم على تشغيل بنية الأسواق المالية التقليدية وحفظ العملات المشفرة ضمن البيئة التنظيمية نفسها. وبذلك يمكن للعملاء استخدام حفظ العملات المشفرة في بيئة متصلة بخدمات ما بعد التداول للأوراق المالية، لا عبر هيكل منفصل غير منظم. وتتمثل الدلالة في جعل الصلة بين خدمات الأوراق المالية التقليدية وحفظ الأصول الرقمية أكثر وضوحا. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "SIX Group को FINMA मंजूरी, सिक्योरिटीज इन्फ्रास्ट्रक्चर पर क्रिप्टो कस्टडी",
+        "excerpt": "SIX Group को FINMA की मंजूरी मिली है, जिससे वह पारंपरिक सिक्योरिटीज सेटलमेंट और पोस्ट-ट्रेड सेवाओं में इस्तेमाल उसी विनियमित इन्फ्रास्ट्रक्चर से क्रिप्टो कस्टडी दे सकेगा।",
+        "body": "SIX Group को स्विट्जरलैंड के वित्तीय बाजार नियामक FINMA से मंजूरी मिली है, जिसके बाद वह पारंपरिक सिक्योरिटीज सेटलमेंट और पोस्ट-ट्रेड सेवाओं में इस्तेमाल होने वाले उसी विनियमित इन्फ्रास्ट्रक्चर के जरिए क्रिप्टो कस्टडी सेवाएं प्रदान कर सकेगा। इस मंजूरी का मुख्य अर्थ यह है कि डिजिटल एसेट्स की सुरक्षित रखरखाव सेवा को मौजूदा सिक्योरिटीज कारोबार के ढांचे में ही संभाला जा सकता है। पृष्ठभूमि में SIX Group का वह तरीका है जिसमें पारंपरिक वित्तीय बाजार इन्फ्रास्ट्रक्चर और क्रिप्टो कस्टडी को एक ही नियामकीय माहौल में चलाया जाता है। इससे ग्राहक अलग गैर-विनियमित संरचना के बजाय मौजूदा सिक्योरिटीज पोस्ट-ट्रेड सेवाओं से जुड़े वातावरण में क्रिप्टो कस्टडी का उपयोग कर सकेंगे। इसका असर पारंपरिक सिक्योरिटीज सेवाओं और डिजिटल एसेट कस्टडी के बीच स्पष्ट जुड़ाव के रूप में दिखता है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "SIX Group raih persetujuan FINMA untuk kustodi kripto di infrastruktur sekuritas",
+        "excerpt": "SIX Group menerima persetujuan FINMA untuk menyediakan kustodi kripto melalui infrastruktur teregulasi yang sama dengan penyelesaian sekuritas dan layanan pascatransaksi tradisional.",
+        "body": "SIX Group menerima persetujuan dari Otoritas Pengawas Pasar Keuangan Swiss, FINMA, untuk menyediakan layanan kustodi kripto melalui infrastruktur teregulasi yang sama dengan yang digunakan untuk penyelesaian sekuritas tradisional dan layanan pascatransaksi. Inti persetujuan ini adalah bahwa penyimpanan aset digital dapat ditangani dalam kerangka yang sudah dipakai untuk operasi sekuritas yang ada. Latar belakangnya adalah pendekatan SIX Group untuk menjalankan infrastruktur pasar keuangan tradisional dan kustodi kripto dalam lingkungan regulasi yang sama. Dengan demikian, klien dapat mengakses kustodi kripto dalam sistem yang terhubung dengan layanan pascatransaksi sekuritas, bukan melalui struktur terpisah yang tidak teregulasi. Dampaknya adalah hubungan antara layanan sekuritas tradisional dan penyimpanan aset digital menjadi lebih jelas. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "b11b2739af56",
+    "slug": "a16z-raises-22b-for-new-fund-backing-stablecoins-prediction--781554",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T00:13:50.071Z",
+    "updatedAt": "2026-05-07T00:13:50.071Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/a16z-raises-2-billion-fund-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/a16z-raises-2-billion-fund-crypto-projects",
+    "titleFingerprint": "23383e47bcb8564873c28d592ac74a7a5985c52a",
+    "dedupKeys": [
+      "b11b2739af560827b0a9697ec2fdb3faecb24636",
+      "23383e47bcb8564873c28d592ac74a7a5985c52a",
+      "76d4488144bd91540d220088d1c2ab4770fdcdbf"
+    ],
+    "imageUrl": "/images/articles/b11b2739af56.jpg",
+    "i18n": {
+      "ko": {
+        "title": "A16z 크립토, 22억달러 신규 펀드로 스테이블코인·예측시장 투자 확대",
+        "excerpt": "A16z 크립토는 2026년 5월 6일 22억달러 규모의 다섯 번째 크립토 펀드를 조성하고 스테이블코인, 예측시장, 토큰화 자산 프로젝트를 지원한다고 밝혔다.",
+        "body": "벤처캐피털 Andreessen Horowitz의 크립토 투자 부문 A16z Crypto가 2026년 5월 6일 22억달러 규모의 다섯 번째 크립토 전용 펀드 Crypto Fund 5를 조성했다. 이 펀드는 스테이블코인, 무기한 선물, 예측시장, 토큰화 자산 등 일상적으로 쓰이는 제품을 만드는 창업자를 지원하는 데 초점을 둔다. 새 펀드는 2022년 5월 출시된 45억달러 규모 이전 펀드보다 작다. 회사는 시장의 조용한 국면에서 과열이 사라져도 사람들이 계속 사용하는 프로젝트를 찾겠다고 설명했다. cointelegraph.com에 따르면 A16z는 스테이블코인 사용이 침체기에도 증가했고 예측시장과 크립토 무기한 선물도 의미 있는 성장세를 보였다고 밝혔다."
+      },
+      "en": {
+        "title": "A16z Crypto Raises $2.2B Fund to Back Stablecoins and Prediction Markets",
+        "excerpt": "A16z Crypto said on May 6, 2026, it raised a $2.2 billion fifth crypto fund to support stablecoins, prediction markets, tokenized assets and everyday blockchain products.",
+        "body": "A16z Crypto, the crypto investment arm of venture capital firm Andreessen Horowitz, said on May 6, 2026, that it raised $2.2 billion for Crypto Fund 5, its fifth fund focused on crypto projects. The fund will back founders building products people use every day, including stablecoins, perpetual futures, prediction markets and tokenized assets. The new fund is smaller than the $4.5 billion crypto fund launched in May 2022. A16z said it is looking for projects people keep using when hype fades, during what it called a quieter phase of the market. According to cointelegraph.com, the firm said stablecoin use has kept climbing through downturns, while prediction markets and crypto perpetual futures have also shown meaningful growth."
+      },
+      "ja": {
+        "title": "A16zクリプト、22億ドル新ファンドでステーブルコインと予測市場を支援",
+        "excerpt": "A16zクリプトは2026年5月6日、22億ドル規模の第5号暗号資産ファンドを組成し、ステーブルコインや予測市場、トークン化資産を支援すると発表した。",
+        "body": "ベンチャーキャピタルAndreessen Horowitzの暗号資産投資部門であるA16z Cryptoは、2026年5月6日、暗号資産プロジェクト向け第5号ファンドCrypto Fund 5として22億ドルを調達したと明らかにした。対象は、ステーブルコイン、無期限先物、予測市場、トークン化資産など、日常的に使われる製品をつくる創業者だ。新ファンドは2022年5月に立ち上げた45億ドル規模の前回ファンドより小さい。同社は、市場が静かな局面にある中で、過熱感が薄れても利用され続けるプロジェクトを探すとしている。cointelegraph.comによると、A16zはステーブルコイン利用が下落局面でも増え続け、予測市場と暗号資産の無期限先物にも意味ある成長が見られると述べた。"
+      },
+      "zh": {
+        "title": "A16z Crypto筹集22亿美元新基金，押注稳定币和预测市场",
+        "excerpt": "A16z Crypto于2026年5月6日表示，已筹集22亿美元第五只加密基金，将支持稳定币、预测市场、代币化资产和日常区块链产品。",
+        "body": "风险投资公司Andreessen Horowitz旗下加密投资部门A16z Crypto于2026年5月6日表示，其第五只加密专项基金Crypto Fund 5已筹集22亿美元。该基金将支持把新基础设施转化为日常产品的创始人，重点包括稳定币、永续合约、预测市场和代币化资产。新基金规模低于该公司2022年5月推出的45亿美元加密基金。A16z称，在市场较为安静的阶段，公司将寻找即使热度消退后人们仍会继续使用的项目。据cointelegraph.com报道，A16z表示，稳定币使用量在低迷期仍持续上升，预测市场和加密永续合约也出现了有意义的增长。"
+      },
+      "es": {
+        "title": "A16z Crypto recauda 2.200 millones para stablecoins y mercados predictivos",
+        "excerpt": "A16z Crypto dijo el 6 de mayo de 2026 que recaudó 2.200 millones de dólares para su quinto fondo cripto, enfocado en stablecoins, mercados predictivos y activos tokenizados.",
+        "body": "A16z Crypto, el brazo de inversión cripto de la firma de capital riesgo Andreessen Horowitz, informó el 6 de mayo de 2026 que recaudó 2.200 millones de dólares para Crypto Fund 5, su quinto fondo dedicado a proyectos cripto. El vehículo respaldará a fundadores que creen productos de uso cotidiano, incluidos stablecoins, futuros perpetuos, mercados predictivos y activos tokenizados. El nuevo fondo es menor que el fondo cripto de 4.500 millones de dólares lanzado en mayo de 2022. A16z dijo que busca proyectos que la gente siga usando cuando se apague el entusiasmo, en una etapa más tranquila del mercado. Según cointelegraph.com, la firma afirmó que el uso de stablecoins siguió creciendo incluso en caídas, mientras los mercados predictivos y los futuros perpetuos cripto también mostraron crecimiento significativo."
+      },
+      "pt": {
+        "title": "A16z Crypto levanta US$ 2,2 bi para stablecoins e mercados de previsão",
+        "excerpt": "A16z Crypto informou em 6 de maio de 2026 que levantou US$ 2,2 bilhões para seu quinto fundo cripto, voltado a stablecoins, mercados de previsão e ativos tokenizados.",
+        "body": "A16z Crypto, braço de investimento em cripto da Andreessen Horowitz, informou em 6 de maio de 2026 que levantou US$ 2,2 bilhões para o Crypto Fund 5, seu quinto fundo dedicado a projetos cripto. O fundo apoiará fundadores que transformam infraestrutura em produtos de uso diário, incluindo stablecoins, futuros perpétuos, mercados de previsão e ativos tokenizados. O novo fundo é menor que o fundo cripto de US$ 4,5 bilhões lançado em maio de 2022. A A16z disse que busca projetos que as pessoas continuem usando quando a euforia passa, em uma fase mais silenciosa do mercado. Segundo o cointelegraph.com, a empresa afirmou que o uso de stablecoins continuou subindo mesmo em quedas, enquanto mercados de previsão e futuros perpétuos cripto também tiveram crescimento relevante."
+      },
+      "de": {
+        "title": "A16z Crypto sammelt 2,2 Mrd. Dollar für Stablecoins und Prognosemärkte",
+        "excerpt": "A16z Crypto gab am 6. Mai 2026 bekannt, 2,2 Milliarden Dollar für seinen fünften Kryptofonds eingesammelt zu haben, mit Fokus auf Stablecoins, Prognosemärkte und tokenisierte Assets.",
+        "body": "A16z Crypto, der Krypto-Investmentarm von Andreessen Horowitz, gab am 6. Mai 2026 bekannt, 2,2 Milliarden Dollar für Crypto Fund 5 eingesammelt zu haben, den fünften Fonds für Kryptoprojekte. Der Fonds soll Gründer unterstützen, die Produkte für den täglichen Gebrauch bauen, darunter Stablecoins, Perpetual Futures, Prognosemärkte und tokenisierte Vermögenswerte. Der neue Fonds ist kleiner als der im Mai 2022 aufgelegte Kryptofonds über 4,5 Milliarden Dollar. A16z erklärte, man suche in einer ruhigeren Marktphase nach Projekten, die Menschen auch nach dem Abklingen des Hypes weiter nutzen. Laut cointelegraph.com sagte das Unternehmen, die Stablecoin-Nutzung sei auch in Abschwüngen weiter gestiegen; Prognosemärkte und Krypto-Perpetual-Futures hätten ebenfalls deutliches Wachstum gezeigt."
+      },
+      "fr": {
+        "title": "A16z Crypto lève 2,2 milliards pour stablecoins et marchés prédictifs",
+        "excerpt": "A16z Crypto a annoncé le 6 mai 2026 avoir levé 2,2 milliards de dollars pour son cinquième fonds crypto, destiné aux stablecoins, marchés prédictifs et actifs tokenisés.",
+        "body": "A16z Crypto, la branche d’investissement crypto d’Andreessen Horowitz, a annoncé le 6 mai 2026 avoir levé 2,2 milliards de dollars pour Crypto Fund 5, son cinquième fonds dédié aux projets crypto. Le fonds soutiendra des fondateurs qui créent des produits utilisés au quotidien, notamment les stablecoins, les contrats à terme perpétuels, les marchés prédictifs et les actifs tokenisés. Ce nouveau fonds est inférieur au fonds crypto de 4,5 milliards de dollars lancé en mai 2022. A16z dit chercher, dans une phase plus calme du marché, les projets que les utilisateurs conservent quand l’engouement retombe. Selon cointelegraph.com, l’entreprise affirme que l’usage des stablecoins a continué de progresser pendant les ralentissements, tandis que les marchés prédictifs et les perpétuels crypto ont aussi enregistré une croissance notable."
+      },
+      "ar": {
+        "title": "A16z Crypto تجمع 2.2 مليار دولار لدعم العملات المستقرة وأسواق التنبؤ",
+        "excerpt": "قالت A16z Crypto في 6 مايو 2026 إنها جمعت 2.2 مليار دولار لصندوقها الخامس للعملات المشفرة، لدعم العملات المستقرة وأسواق التنبؤ والأصول المرمزة.",
+        "body": "أعلنت A16z Crypto، ذراع الاستثمار في العملات المشفرة لدى Andreessen Horowitz، في 6 مايو 2026 أنها جمعت 2.2 مليار دولار لصندوق Crypto Fund 5، وهو صندوقها الخامس المخصص لمشاريع الكريبتو. سيركز الصندوق على مؤسسين يبنون منتجات يستخدمها الناس يوميا، بما في ذلك العملات المستقرة والعقود الدائمة وأسواق التنبؤ والأصول المرمزة. ويعد حجم الصندوق الجديد أصغر من صندوق الكريبتو البالغ 4.5 مليار دولار الذي أطلق في مايو 2022. وقالت A16z إنها تبحث في مرحلة أكثر هدوءا من السوق عن مشاريع يواصل الناس استخدامها عندما يتراجع الزخم. ووفقا لموقع cointelegraph.com، ذكرت الشركة أن استخدام العملات المستقرة واصل الارتفاع حتى خلال فترات الهبوط، كما أظهرت أسواق التنبؤ والعقود الدائمة للعملات المشفرة نموا ذا معنى."
+      },
+      "hi": {
+        "title": "A16z Crypto ने स्टेबलकॉइन और प्रेडिक्शन मार्केट के लिए 2.2 अरब डॉलर जुटाए",
+        "excerpt": "A16z Crypto ने 6 मई 2026 को कहा कि उसने अपने पांचवें क्रिप्टो फंड के लिए 2.2 अरब डॉलर जुटाए हैं, जो स्टेबलकॉइन, प्रेडिक्शन मार्केट और टोकनाइज्ड एसेट्स को समर्थन देगा।",
+        "body": "वेंचर कैपिटल फर्म Andreessen Horowitz की क्रिप्टो निवेश इकाई A16z Crypto ने 6 मई 2026 को बताया कि उसने Crypto Fund 5 के लिए 2.2 अरब डॉलर जुटाए हैं। यह उसका पांचवां फंड है, जो क्रिप्टो परियोजनाओं पर केंद्रित है। फंड उन संस्थापकों को समर्थन देगा जो रोजमर्रा में इस्तेमाल होने वाले उत्पाद बना रहे हैं, जिनमें स्टेबलकॉइन, परपेचुअल फ्यूचर्स, प्रेडिक्शन मार्केट और टोकनाइज्ड एसेट्स शामिल हैं। नया फंड मई 2022 में लॉन्च हुए 4.5 अरब डॉलर के पिछले क्रिप्टो फंड से छोटा है। A16z ने कहा कि बाजार के शांत दौर में वह ऐसे प्रोजेक्ट खोज रही है जिनका उपयोग लोग उत्साह कम होने के बाद भी करते रहें। cointelegraph.com के अनुसार, कंपनी ने कहा कि मंदी के दौरान भी स्टेबलकॉइन का उपयोग बढ़ता रहा और प्रेडिक्शन मार्केट तथा क्रिप्टो परपेचुअल फ्यूचर्स में भी सार्थक वृद्धि दिखी।"
+      },
+      "id": {
+        "title": "A16z Crypto Himpun US$2,2 Miliar untuk Stablecoin dan Pasar Prediksi",
+        "excerpt": "A16z Crypto pada 6 Mei 2026 mengatakan telah menghimpun US$2,2 miliar untuk dana kripto kelimanya, guna mendukung stablecoin, pasar prediksi dan aset tertokenisasi.",
+        "body": "A16z Crypto, lengan investasi kripto Andreessen Horowitz, pada 6 Mei 2026 mengatakan telah menghimpun US$2,2 miliar untuk Crypto Fund 5, dana kelimanya yang berfokus pada proyek kripto. Dana ini akan mendukung pendiri yang membangun produk untuk penggunaan sehari-hari, termasuk stablecoin, kontrak perpetual, pasar prediksi dan aset tertokenisasi. Dana baru tersebut lebih kecil dari dana kripto US$4,5 miliar yang diluncurkan pada Mei 2022. A16z mengatakan pihaknya mencari proyek yang tetap digunakan orang ketika hype mereda, di tengah fase pasar yang lebih tenang. Menurut cointelegraph.com, perusahaan menyebut penggunaan stablecoin terus meningkat bahkan saat pasar melemah, sementara pasar prediksi dan kontrak perpetual kripto juga menunjukkan pertumbuhan berarti."
+      }
+    }
+  },
+  {
+    "id": "8c6d1d226ff8",
+    "slug": "law-enforcement-freezes-41m-connected-to-150m-crypto-ponzi-c-135339",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T00:12:40.326Z",
+    "updatedAt": "2026-05-07T00:12:40.326Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/law-enforcement-freezes-millions-connected-to-crypto-ponzi-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/law-enforcement-freezes-millions-connected-to-crypto-ponzi-collapse",
+    "titleFingerprint": "0424236bb4c20cd87a824c1afa436f92ca6773f0",
+    "dedupKeys": [
+      "8c6d1d226ff8f00bf1d6b64da73a734a60477a4c",
+      "0424236bb4c20cd87a824c1afa436f92ca6773f0",
+      "d9c054298f083e9db8574c84e6c41d30ad7aba83"
+    ],
+    "imageUrl": "/images/articles/8c6d1d226ff8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "암호화폐 폰지 붕괴 연루 4,100만달러 동결, BG Wealth Sharing 주목",
+        "excerpt": "당국은 1억5,000만달러 규모 암호화폐 폰지 붕괴와 연결된 4,100만달러를 동결했다. BG Wealth Sharing은 SNS 광고와 일일 수익 기회를 내세운 것으로 알려졌다.",
+        "body": "당국은 1억5,000만달러 규모 암호화폐 폰지 붕괴와 연결된 자금 4,100만달러를 동결했다. 보도에 따르면 BG Wealth Sharing은 암호화폐 거래 지침을 제공한다고 주장했고, 소셜미디어에서 적극적으로 광고했으며 “일일 수익 기회”를 제시했다. 이번 조치는 대규모 투자 사기 붕괴 이후 관련 자금 흐름을 차단하려는 법 집행 대응으로 풀이된다. 투자자 피해 규모와 추가 조치 여부는 당국 발표와 수사 진행에 따라 확인될 전망이다. 출처: cointelegraph.com 인용."
+      },
+      "en": {
+        "title": "Crypto Ponzi Collapse: Law Enforcement Freezes $41M Linked to BG Wealth Sharing",
+        "excerpt": "Authorities froze $41 million tied to a $150 million crypto Ponzi collapse, with BG Wealth Sharing said to have promoted trading guidance and daily profit opportunities on social media.",
+        "body": "Law enforcement has frozen $41 million connected to the collapse of a $150 million crypto Ponzi scheme. According to the report, BG Wealth Sharing claimed to provide guidance on crypto trading, advertised heavily on social media and offered “daily profit opportunities.” The move is a law enforcement response aimed at blocking related fund flows after a large-scale investment fraud collapse. The scale of investor losses and whether further actions follow will depend on official updates and the progress of the investigation. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "暗号資産ポンジ崩壊で4100万ドル凍結、BG Wealth Sharingに注目",
+        "excerpt": "当局は1億5000万ドル規模の暗号資産ポンジ崩壊に関連する4100万ドルを凍結。BG Wealth SharingはSNS広告と日次利益機会を掲げたとされる。",
+        "body": "当局は、1億5000万ドル規模の暗号資産ポンジスキーム崩壊に関連する資金4100万ドルを凍結した。報道によると、BG Wealth Sharingは暗号資産取引の助言を提供すると主張し、ソーシャルメディアで積極的に広告を展開し、「日次の利益機会」を提示していた。今回の措置は、大規模な投資詐欺崩壊後に関連資金の流れを遮断する法執行上の対応とみられる。投資家被害の規模や追加措置の有無は、当局発表と捜査の進展により確認される見通しだ。出典: cointelegraph.com。"
+      },
+      "zh": {
+        "title": "加密庞氏崩盘牵出4100万美元冻结，BG Wealth Sharing受关注",
+        "excerpt": "执法部门冻结了与1.5亿美元加密庞氏骗局崩盘相关的4100万美元。BG Wealth Sharing据称通过社交媒体宣传交易指导和每日获利机会。",
+        "body": "执法部门已冻结与一起1.5亿美元规模加密庞氏骗局崩盘相关的4100万美元资金。据报道，BG Wealth Sharing声称提供加密货币交易指导，在社交媒体上大量投放广告，并推出“每日获利机会”。这一行动被视为大型投资欺诈崩盘后，执法机构阻断相关资金流动的应对措施。投资者损失规模以及是否会有进一步行动，将取决于官方通报和调查进展。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "Colapso cripto Ponzi: congelan $41M vinculados a BG Wealth Sharing",
+        "excerpt": "Las autoridades congelaron $41 millones ligados al colapso de un esquema Ponzi cripto de $150 millones; BG Wealth Sharing promocionaba guías de trading y oportunidades diarias de ganancia.",
+        "body": "Las fuerzas del orden congelaron $41 millones conectados con el colapso de un esquema Ponzi cripto de $150 millones. Según el reporte, BG Wealth Sharing afirmaba ofrecer orientación sobre trading de criptomonedas, se promocionaba ampliamente en redes sociales y ofrecía “oportunidades diarias de ganancia”. La medida busca bloquear los flujos de fondos relacionados tras el derrumbe de un fraude de inversión de gran escala. El alcance de las pérdidas de los inversionistas y posibles acciones adicionales dependerán de los comunicados oficiales y del avance de la investigación. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Colapso de Ponzi cripto leva a bloqueio de US$ 41 mi ligados à BG Wealth Sharing",
+        "excerpt": "Autoridades congelaram US$ 41 milhões ligados ao colapso de um Ponzi cripto de US$ 150 milhões; a BG Wealth Sharing divulgava orientação de trading e oportunidades diárias de lucro.",
+        "body": "As autoridades congelaram US$ 41 milhões conectados ao colapso de um esquema Ponzi cripto de US$ 150 milhões. Segundo a reportagem, a BG Wealth Sharing afirmava oferecer orientação sobre negociação de criptomoedas, fazia forte divulgação em redes sociais e oferecia “oportunidades diárias de lucro”. A medida representa uma resposta de aplicação da lei para bloquear fluxos de fundos relacionados após a queda de uma fraude de investimento de grande escala. A dimensão das perdas dos investidores e eventuais novas ações dependerão de comunicados oficiais e do avanço da investigação. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Krypto-Ponzi-Kollaps: Behörden frieren 41 Mio. USD mit Bezug zu BG Wealth Sharing ein",
+        "excerpt": "Behörden froren 41 Mio. USD ein, die mit dem Kollaps eines 150-Mio.-USD-Krypto-Ponzi-Systems verbunden sind. BG Wealth Sharing warb in sozialen Medien mit Trading-Hilfe und täglichen Gewinnchancen.",
+        "body": "Strafverfolgungsbehörden haben 41 Mio. USD eingefroren, die mit dem Zusammenbruch eines Krypto-Ponzi-Systems im Umfang von 150 Mio. USD verbunden sind. Dem Bericht zufolge behauptete BG Wealth Sharing, Unterstützung beim Kryptohandel zu bieten, warb intensiv in sozialen Medien und stellte “tägliche Gewinnchancen” in Aussicht. Die Maßnahme gilt als Reaktion der Strafverfolgung, um nach dem Kollaps eines groß angelegten Anlagebetrugs verbundene Geldflüsse zu blockieren. Das Ausmaß der Anlegerverluste und mögliche weitere Schritte hängen von offiziellen Mitteilungen und dem Fortgang der Ermittlungen ab. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Ponzi crypto: 41 M$ gelés après l’effondrement lié à BG Wealth Sharing",
+        "excerpt": "Les autorités ont gelé 41 M$ liés à l’effondrement d’un Ponzi crypto de 150 M$; BG Wealth Sharing aurait promu des conseils de trading et des opportunités de profit quotidiennes.",
+        "body": "Les forces de l’ordre ont gelé 41 M$ liés à l’effondrement d’un système de Ponzi crypto évalué à 150 M$. Selon le rapport, BG Wealth Sharing affirmait fournir des conseils sur le trading de cryptomonnaies, faisait une forte promotion sur les réseaux sociaux et proposait des “opportunités de profit quotidiennes”. Cette mesure vise à bloquer les flux de fonds associés après l’effondrement d’une fraude d’investissement de grande ampleur. L’ampleur des pertes des investisseurs et d’éventuelles actions supplémentaires dépendront des annonces officielles et de l’avancée de l’enquête. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "انهيار بونزي العملات المشفرة: تجميد 41 مليون دولار مرتبطة بـ BG Wealth Sharing",
+        "excerpt": "جمّدت سلطات إنفاذ القانون 41 مليون دولار مرتبطة بانهيار مخطط بونزي للعملات المشفرة بقيمة 150 مليون دولار، فيما روجت BG Wealth Sharing لإرشادات تداول وفرص ربح يومية عبر الشبكات الاجتماعية.",
+        "body": "جمّدت سلطات إنفاذ القانون 41 مليون دولار مرتبطة بانهيار مخطط بونزي للعملات المشفرة بقيمة 150 مليون دولار. ووفقاً للتقرير، زعمت BG Wealth Sharing أنها تقدم إرشادات بشأن تداول العملات المشفرة، وأعلنت بكثافة على وسائل التواصل الاجتماعي، وقدمت “فرص ربح يومية”. وتعد هذه الخطوة استجابة من جهات إنفاذ القانون لوقف تدفقات الأموال المرتبطة بعد انهيار احتيال استثماري واسع النطاق. وسيعتمد حجم خسائر المستثمرين وما إذا كانت ستتبعها إجراءات إضافية على البيانات الرسمية وتقدم التحقيق. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "क्रिप्टो Ponzi ध्वस्त: BG Wealth Sharing से जुड़े $41M फ्रीज",
+        "excerpt": "अधिकारियों ने $150 मिलियन के क्रिप्टो Ponzi ढहने से जुड़े $41 मिलियन फ्रीज किए। BG Wealth Sharing ने सोशल मीडिया पर ट्रेडिंग मार्गदर्शन और दैनिक लाभ अवसरों का प्रचार किया था।",
+        "body": "कानून प्रवर्तन एजेंसियों ने $150 मिलियन के क्रिप्टो Ponzi स्कीम के ढहने से जुड़े $41 मिलियन फ्रीज किए हैं। रिपोर्ट के अनुसार, BG Wealth Sharing ने क्रिप्टो ट्रेडिंग पर मार्गदर्शन देने का दावा किया, सोशल मीडिया पर भारी विज्ञापन किया और “दैनिक लाभ अवसर” पेश किए। यह कदम बड़े निवेश धोखाधड़ी ढहने के बाद संबंधित धन प्रवाह रोकने के लिए कानून प्रवर्तन की प्रतिक्रिया माना जा रहा है। निवेशकों के नुकसान का पैमाना और आगे की कार्रवाई आधिकारिक घोषणाओं और जांच की प्रगति पर निर्भर करेगी। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Ponzi Kripto Runtuh: $41 Juta Terkait BG Wealth Sharing Dibekukan",
+        "excerpt": "Penegak hukum membekukan $41 juta yang terkait dengan runtuhnya skema Ponzi kripto senilai $150 juta; BG Wealth Sharing disebut mempromosikan panduan trading dan peluang profit harian di media sosial.",
+        "body": "Penegak hukum telah membekukan $41 juta yang terhubung dengan runtuhnya skema Ponzi kripto senilai $150 juta. Menurut laporan, BG Wealth Sharing mengklaim memberikan panduan trading kripto, beriklan secara masif di media sosial, dan menawarkan “peluang profit harian”. Langkah ini menjadi respons penegakan hukum untuk memblokir aliran dana terkait setelah runtuhnya penipuan investasi berskala besar. Besaran kerugian investor dan kemungkinan tindakan lanjutan akan bergantung pada pengumuman resmi serta perkembangan penyelidikan. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "560b045312e0",
     "slug": "okx-card-data-shows-crypto-is-paying-for-everyday-life-in-eu-530405",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Zcash Melonjak 30%, Likuidasi Short ZEC Capai US$46,7 Juta",
         "excerpt": "Zcash naik 30% pada Selasa dan memperpanjang reli beberapa bulan, setelah Multicoin Capital mengungkap posisi besar di ZEC dan short senilai US$46,7 juta dilikuidasi.",
         "body": "Zcash (ZEC) melonjak 30% pada Selasa, memperpanjang reli yang telah berlangsung beberapa bulan. Menurut laporan asli, kenaikan ini memicu likuidasi posisi short ZEC senilai US$46,7 juta, menjadi jumlah likuidasi terbesar kedua setelah bitcoin. Latar belakangnya adalah pengungkapan Multicoin Capital bahwa mereka memiliki posisi signifikan di ZEC. Menguatnya permintaan terhadap koin privasi itu membuat taruhan bearish cepat tersingkir dari pasar. Pergerakan ini menunjukkan bahwa reli ZEC tidak hanya berdampak pada harga spot, tetapi juga pada penyesuaian posisi di pasar derivatif. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "d904762f11f1",
-    "slug": "crypto-custodian-taurus-moves-straight-into-eu-capital-marke-562555",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T12:08:28.640Z",
-    "updatedAt": "2026-05-06T12:08:28.640Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/policy/2026/05/06/crypto-custody-firm-taurus-granted-mifid-license-in-cyprus",
-    "canonicalUrl": "https://www.coindesk.com/policy/2026/05/06/crypto-custody-firm-taurus-granted-mifid-license-in-cyprus",
-    "titleFingerprint": "ec0c753d1c034a218251f46d93377a4cffabea93",
-    "dedupKeys": [
-      "d904762f11f10deeeb1cc5b8f881247041b99d45",
-      "ec0c753d1c034a218251f46d93377a4cffabea93",
-      "79d2e25fec45e9a514d35e55e4465566c667c413"
-    ],
-    "imageUrl": "/images/articles/d904762f11f1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "크립토 수탁사 타우루스, 키프로스 MiFID 라이선스로 EU 자본시장 진출",
-        "excerpt": "타우루스는 키프로스에서 MiFID 라이선스를 확보해 EU 은행에 토큰화 금융상품을 제공하고 토큰화 증권의 2차 거래 서비스를 열 수 있게 됐다.",
-        "body": "크립토 수탁사 타우루스가 키프로스에서 MiFID 라이선스를 확보하며 EU 자본시장 진출 기반을 마련했다. 이번 라이선스는 회사가 EU 은행을 대상으로 토큰화 금융상품을 제공할 수 있게 하는 것이 핵심이다. 대상 상품에는 토큰화 채권, 펀드 지분, 주식, 구조화 상품이 포함되며, 타우루스는 이들 상품의 2차 거래 서비스도 제공할 수 있다. 토큰화 자산이 전통 금융 인프라와 연결되는 흐름 속에서, 이번 인가는 은행 고객을 겨냥한 규제 기반 서비스 확대의 의미를 갖는다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Crypto Custodian Taurus Enters EU Capital Markets With Cyprus MiFID License",
-        "excerpt": "Taurus secured a MiFID license in Cyprus, allowing it to offer tokenized financial instruments to EU banks and enable secondary trading in tokenized securities.",
-        "body": "Crypto custodian Taurus has secured a MiFID license in Cyprus, giving it a regulatory path into EU capital markets. The license allows the firm to offer tokenized financial instruments to banks across the European Union. The covered products include tokenized bonds, fund shares, equities, and structured products, and Taurus can also provide secondary trading for those instruments. As tokenized assets connect more closely with traditional financial infrastructure, the approval marks an expansion of regulated services aimed at bank clients. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "暗号資産カストディのTaurus、キプロスMiFID免許でEU資本市場へ参入",
-        "excerpt": "TaurusはキプロスでMiFIDライセンスを取得し、EUの銀行向けにトークン化金融商品とトークン化証券の二次取引を提供できるようになった。",
-        "body": "暗号資産カストディ企業のTaurusは、キプロスでMiFIDライセンスを取得し、EU資本市場に参入する基盤を整えた。このライセンスにより、同社はEU域内の銀行にトークン化された金融商品を提供できる。対象にはトークン化債券、ファンド持分、株式、仕組み商品が含まれ、これら商品の二次取引サービスも提供可能となる。トークン化資産が伝統的な金融インフラと結びつく流れの中で、今回の認可は銀行顧客向けの規制対応サービス拡大を意味する。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "加密托管商Taurus获塞浦路斯MiFID牌照，进军欧盟资本市场",
-        "excerpt": "Taurus在塞浦路斯取得MiFID牌照，可向欧盟银行提供代币化金融工具，并为代币化证券提供二级交易服务。",
-        "body": "加密托管公司Taurus已在塞浦路斯取得MiFID牌照，为进入欧盟资本市场奠定监管基础。该牌照允许公司向欧盟银行提供代币化金融工具。相关产品包括代币化债券、基金份额、股票和结构性产品，Taurus还可为这些工具提供二级交易服务。在代币化资产与传统金融基础设施加速连接的背景下，此次许可意味着其面向银行客户的合规服务范围进一步扩大。来源: coindesk.com."
-      },
-      "es": {
-        "title": "Taurus entra al mercado de capitales de la UE con licencia MiFID en Chipre",
-        "excerpt": "Taurus obtuvo una licencia MiFID en Chipre para ofrecer instrumentos financieros tokenizados a bancos de la UE y negociación secundaria de valores tokenizados.",
-        "body": "El custodio cripto Taurus obtuvo una licencia MiFID en Chipre, lo que le abre una vía regulada hacia los mercados de capitales de la Unión Europea. La licencia permite a la firma ofrecer instrumentos financieros tokenizados a bancos de la UE. Entre los productos cubiertos figuran bonos tokenizados, participaciones de fondos, acciones y productos estructurados, además de servicios de negociación secundaria para esos instrumentos. En un contexto de mayor conexión entre activos tokenizados e infraestructura financiera tradicional, la autorización amplía sus servicios regulados para clientes bancarios. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Taurus avança no mercado de capitais da UE com licença MiFID no Chipre",
-        "excerpt": "A Taurus obteve uma licença MiFID no Chipre para oferecer instrumentos financeiros tokenizados a bancos da UE e negociação secundária de ativos tokenizados.",
-        "body": "A custodiante cripto Taurus obteve uma licença MiFID no Chipre, criando uma base regulatória para entrar nos mercados de capitais da União Europeia. A licença permite que a empresa ofereça instrumentos financeiros tokenizados a bancos da UE. Os produtos incluem títulos tokenizados, cotas de fundos, ações e produtos estruturados, além de serviços de negociação secundária para esses instrumentos. Com os ativos tokenizados se conectando à infraestrutura financeira tradicional, a autorização marca a expansão de serviços regulados voltados a clientes bancários. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Taurus betritt EU-Kapitalmärkte mit MiFID-Lizenz aus Zypern",
-        "excerpt": "Taurus erhielt in Zypern eine MiFID-Lizenz und kann EU-Banken tokenisierte Finanzinstrumente sowie Sekundärhandel für tokenisierte Wertpapiere anbieten.",
-        "body": "Der Krypto-Verwahrer Taurus hat in Zypern eine MiFID-Lizenz erhalten und sich damit einen regulierten Zugang zu den EU-Kapitalmärkten geschaffen. Die Lizenz erlaubt es dem Unternehmen, Banken in der Europäischen Union tokenisierte Finanzinstrumente anzubieten. Dazu zählen tokenisierte Anleihen, Fondsanteile, Aktien und strukturierte Produkte; auch Sekundärhandel für diese Instrumente kann Taurus anbieten. Während tokenisierte Vermögenswerte stärker mit traditioneller Finanzinfrastruktur verbunden werden, steht die Genehmigung für eine Ausweitung regulierter Dienste für Bankkunden. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Taurus accède aux marchés de capitaux de l’UE avec une licence MiFID à Chypre",
-        "excerpt": "Taurus a obtenu une licence MiFID à Chypre, lui permettant d’offrir aux banques de l’UE des instruments financiers tokenisés et leur marché secondaire.",
-        "body": "Le dépositaire crypto Taurus a obtenu une licence MiFID à Chypre, ouvrant une voie réglementée vers les marchés de capitaux de l’Union européenne. Cette licence permet à l’entreprise de proposer des instruments financiers tokenisés aux banques de l’UE. Les produits concernés comprennent des obligations tokenisées, des parts de fonds, des actions et des produits structurés, avec aussi la possibilité d’offrir une négociation secondaire. Alors que les actifs tokenisés se rapprochent des infrastructures financières traditionnelles, cette autorisation élargit les services réglementés destinés aux clients bancaires. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "Taurus تدخل أسواق رأس المال الأوروبية بترخيص MiFID من قبرص",
-        "excerpt": "حصلت Taurus على ترخيص MiFID في قبرص، ما يتيح لها تقديم أدوات مالية مرمزة لبنوك الاتحاد الأوروبي وتداول ثانوي للأوراق المالية المرمزة.",
-        "body": "حصلت شركة حفظ الأصول المشفرة Taurus على ترخيص MiFID في قبرص، ما يمنحها مسارا منظما للدخول إلى أسواق رأس المال في الاتحاد الأوروبي. يتيح الترخيص للشركة تقديم أدوات مالية مرمزة إلى البنوك داخل الاتحاد الأوروبي. وتشمل المنتجات السندات المرمزة وحصص الصناديق والأسهم والمنتجات المهيكلة، كما يمكن لـTaurus تقديم خدمات التداول الثانوي لهذه الأدوات. ومع ارتباط الأصول المرمزة بشكل أكبر بالبنية التحتية المالية التقليدية، يمثل الترخيص توسعا في الخدمات المنظمة الموجهة لعملاء البنوك. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "Taurus ने साइप्रस MiFID लाइसेंस के साथ EU पूंजी बाजार में कदम रखा",
-        "excerpt": "Taurus को साइप्रस में MiFID लाइसेंस मिला, जिससे वह EU बैंकों को टोकनाइज्ड वित्तीय साधन और टोकनाइज्ड सिक्योरिटीज की सेकेंडरी ट्रेडिंग दे सकेगी।",
-        "body": "क्रिप्टो कस्टोडियन Taurus ने साइप्रस में MiFID लाइसेंस हासिल किया है, जिससे उसे यूरोपीय संघ के पूंजी बाजारों में प्रवेश का नियामकीय आधार मिला है। यह लाइसेंस कंपनी को EU बैंकों को टोकनाइज्ड वित्तीय साधन उपलब्ध कराने की अनुमति देता है। इनमें टोकनाइज्ड बॉन्ड, फंड शेयर, इक्विटी और स्ट्रक्चर्ड प्रोडक्ट शामिल हैं, और Taurus इन साधनों के लिए सेकेंडरी ट्रेडिंग सेवा भी दे सकेगी। टोकनाइज्ड एसेट्स के पारंपरिक वित्तीय ढांचे से जुड़ने के बीच, यह मंजूरी बैंक ग्राहकों के लिए विनियमित सेवाओं के विस्तार को दर्शाती है। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Taurus Masuki Pasar Modal UE Lewat Lisensi MiFID di Siprus",
-        "excerpt": "Taurus memperoleh lisensi MiFID di Siprus untuk menawarkan instrumen keuangan tokenisasi kepada bank UE dan perdagangan sekunder efek tokenisasi.",
-        "body": "Kustodian kripto Taurus memperoleh lisensi MiFID di Siprus, membuka jalur teregulasi menuju pasar modal Uni Eropa. Lisensi ini memungkinkan perusahaan menawarkan instrumen keuangan tokenisasi kepada bank-bank UE. Produk yang tercakup meliputi obligasi tokenisasi, saham dana, ekuitas, dan produk terstruktur, serta layanan perdagangan sekunder untuk instrumen tersebut. Saat aset tokenisasi semakin terhubung dengan infrastruktur keuangan tradisional, izin ini menandai perluasan layanan teregulasi yang menyasar klien perbankan. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "e49454a078df",
-    "slug": "from-what-to-how-robinhood-and-bitstamp-say-banks-are-ready--953715",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T12:07:31.596Z",
-    "updatedAt": "2026-05-06T12:07:31.596Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/06/wall-street-is-finally-coming-to-crypto-but-on-its-own-terms",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/wall-street-is-finally-coming-to-crypto-but-on-its-own-terms",
-    "titleFingerprint": "5b7f1dc9f388a8f2d136d3e50761c0bd37bb8058",
-    "dedupKeys": [
-      "e49454a078df9a59f4465a5b27fb7b8396112692",
-      "5b7f1dc9f388a8f2d136d3e50761c0bd37bb8058",
-      "f4c55ccfb233bba7c1ba09fefb3dc4fda1294f4f"
-    ],
-    "imageUrl": "/images/articles/e49454a078df.jpg",
-    "i18n": {
-      "ko": {
-        "title": "온체인 인프라로 움직이는 은행권, 로빈후드·비트스탬프의 진단",
-        "excerpt": "컨센서스 마이애미 2026에서 온도, 로빈후드, 바빌론랩스 임원들은 은행과 전통 금융사가 크립토 인프라를 받아들이고 있다고 밝혔다.",
-        "body": "컨센서스 마이애미 2026에서 온도, 로빈후드, 바빌론랩스 임원들은 은행과 전통 금융사가 크립토 인프라를 수용하며 온체인 구축 논의가 ‘무엇을 할 것인가’에서 ‘어떻게 할 것인가’로 이동하고 있다고 밝혔다. 로빈후드와 비트스탬프의 진단처럼 금융권은 블록체인 기반 서비스를 검토하는 단계를 넘어 실제 활용 방식을 모색하고 있다. 다만 기관 채택은 여전히 제약을 받고 있어 확산 속도에는 한계가 남아 있다. 이는 전통 금융과 크립토 인프라의 접점이 넓어지고 있음을 보여주지만, 제도와 운영상의 장벽이 해소돼야 본격적인 도입이 가능하다는 의미다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Banks Move Toward On-Chain Infrastructure, Robinhood and Bitstamp Say",
-        "excerpt": "At Consensus Miami 2026, executives from Ondo, Robinhood and Babylon Labs said banks and traditional finance firms are embracing crypto infrastructure.",
-        "body": "At Consensus Miami 2026, executives from Ondo, Robinhood and Babylon Labs said banks and traditional finance firms are accepting crypto infrastructure and that the on-chain discussion is moving from “what to build” to “how to build it.” As Robinhood and Bitstamp assessed, the financial sector is moving beyond simply reviewing blockchain-based services and is now exploring practical ways to use them. However, institutional adoption remains constrained, leaving limits on the pace of broader expansion. The remarks show that the connection between traditional finance and crypto infrastructure is widening, but meaningful adoption still depends on resolving institutional and operational barriers. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "オンチェーン基盤へ動く銀行、ロビンフッドとビットスタンプが指摘",
-        "excerpt": "Consensus Miami 2026でOndo、Robinhood、Babylon Labsの幹部は、銀行と伝統金融が暗号資産インフラを受け入れていると述べた。",
-        "body": "Consensus Miami 2026で、Ondo、Robinhood、Babylon Labsの幹部は、銀行と伝統金融企業が暗号資産インフラを受け入れ、オンチェーン構築をめぐる議論が「何をするか」から「どう実行するか」へ移っていると述べた。RobinhoodとBitstampの見方のように、金融業界はブロックチェーン基盤サービスを検討する段階を超え、実際の活用方法を探っている。ただし、機関投資家や金融機関による採用にはなお制約があり、普及の速度には限界が残る。これは伝統金融と暗号資産インフラの接点が広がっている一方、本格導入には制度面と運用面の障壁解消が必要であることを示している。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "银行转向链上基础设施，Robinhood与Bitstamp给出判断",
-        "excerpt": "在Consensus Miami 2026上，Ondo、Robinhood和Babylon Labs高管表示，银行和传统金融机构正接受加密基础设施。",
-        "body": "在Consensus Miami 2026上，Ondo、Robinhood和Babylon Labs的高管表示，银行和传统金融公司正在接受加密基础设施，围绕链上建设的讨论正从“做什么”转向“如何做”。正如Robinhood和Bitstamp所判断的那样，金融业已不再只是评估基于区块链的服务，而是在寻找实际使用方式。不过，机构采用仍受到限制，因此更广泛扩散的速度仍有边界。这表明传统金融与加密基础设施之间的连接正在扩大，但要实现真正落地，仍需解决制度和运营层面的障碍。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Bancos avanzan hacia infraestructura on-chain, según Robinhood y Bitstamp",
-        "excerpt": "En Consensus Miami 2026, ejecutivos de Ondo, Robinhood y Babylon Labs dijeron que bancos y firmas financieras tradicionales adoptan infraestructura cripto.",
-        "body": "En Consensus Miami 2026, ejecutivos de Ondo, Robinhood y Babylon Labs dijeron que los bancos y las firmas de finanzas tradicionales están aceptando la infraestructura cripto y que el debate sobre construir on-chain está pasando de “qué hacer” a “cómo hacerlo”. Como señalaron Robinhood y Bitstamp, el sector financiero va más allá de revisar servicios basados en blockchain y busca formas prácticas de utilizarlos. Sin embargo, la adopción institucional sigue limitada, por lo que el ritmo de expansión aún tiene restricciones. Esto muestra que el vínculo entre las finanzas tradicionales y la infraestructura cripto se amplía, aunque la adopción real requiere resolver barreras institucionales y operativas. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Bancos avançam para infraestrutura on-chain, dizem Robinhood e Bitstamp",
-        "excerpt": "No Consensus Miami 2026, executivos da Ondo, Robinhood e Babylon Labs disseram que bancos e finanças tradicionais adotam infraestrutura cripto.",
-        "body": "No Consensus Miami 2026, executivos da Ondo, Robinhood e Babylon Labs disseram que bancos e empresas de finanças tradicionais estão aceitando a infraestrutura cripto e que a discussão sobre construir on-chain passou de “o que fazer” para “como fazer”. Como avaliaram Robinhood e Bitstamp, o setor financeiro está deixando a simples análise de serviços baseados em blockchain e buscando formas práticas de uso. Ainda assim, a adoção institucional continua limitada, o que restringe a velocidade de expansão. Isso mostra que o ponto de contato entre finanças tradicionais e infraestrutura cripto está crescendo, mas a adoção ampla depende da superação de barreiras institucionais e operacionais. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Banken rücken zu On-Chain-Infrastruktur vor, sagen Robinhood und Bitstamp",
-        "excerpt": "Auf der Consensus Miami 2026 sagten Führungskräfte von Ondo, Robinhood und Babylon Labs, Banken und traditionelle Finanzfirmen nähmen Krypto-Infrastruktur an.",
-        "body": "Auf der Consensus Miami 2026 sagten Führungskräfte von Ondo, Robinhood und Babylon Labs, dass Banken und traditionelle Finanzunternehmen Krypto-Infrastruktur annehmen und sich die On-Chain-Debatte von der Frage „was bauen“ zu „wie bauen“ verlagert. Nach Einschätzung von Robinhood und Bitstamp geht der Finanzsektor über die reine Prüfung blockchainbasierter Dienste hinaus und sucht nach konkreten Nutzungswegen. Die institutionelle Einführung bleibt jedoch weiter eingeschränkt, sodass dem Tempo der Verbreitung Grenzen gesetzt sind. Das zeigt, dass die Verbindung zwischen traditioneller Finanzwelt und Krypto-Infrastruktur breiter wird, eine umfassende Einführung aber von der Lösung institutioneller und operativer Hürden abhängt. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Les banques avancent vers l’on-chain, selon Robinhood et Bitstamp",
-        "excerpt": "À Consensus Miami 2026, des dirigeants d’Ondo, Robinhood et Babylon Labs ont déclaré que banques et finance traditionnelle adoptent l’infrastructure crypto.",
-        "body": "À Consensus Miami 2026, des dirigeants d’Ondo, Robinhood et Babylon Labs ont déclaré que les banques et les acteurs de la finance traditionnelle acceptent l’infrastructure crypto, tandis que le débat sur la construction on-chain passe de « quoi faire » à « comment le faire ». Selon l’analyse de Robinhood et Bitstamp, le secteur financier ne se limite plus à examiner les services fondés sur la blockchain et cherche désormais des usages concrets. Toutefois, l’adoption institutionnelle reste contrainte, ce qui limite encore le rythme de diffusion. Cela montre que le lien entre finance traditionnelle et infrastructure crypto s’élargit, mais qu’une adoption réelle suppose de lever des obstacles institutionnels et opérationnels. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "البنوك تتجه إلى البنية التحتية على السلسلة وفق روبن هود وبيتستامب",
-        "excerpt": "في Consensus Miami 2026 قال مسؤولون من Ondo وRobinhood وBabylon Labs إن البنوك وشركات التمويل التقليدي تتبنى بنية الكريبتو التحتية.",
-        "body": "في مؤتمر Consensus Miami 2026، قال مسؤولون من Ondo وRobinhood وBabylon Labs إن البنوك وشركات التمويل التقليدي تتقبل بنية الكريبتو التحتية، وإن النقاش حول البناء على السلسلة ينتقل من سؤال “ماذا نبني” إلى “كيف نبنيه”. ووفق تقييم Robinhood وBitstamp، لم يعد القطاع المالي يكتفي بدراسة الخدمات القائمة على البلوك تشين، بل يبحث عن طرق عملية لاستخدامها. مع ذلك، لا يزال التبني المؤسسي مقيدا، ما يحد من سرعة الانتشار الأوسع. وهذا يشير إلى اتساع الصلة بين التمويل التقليدي وبنية الكريبتو، لكن التطبيق الواسع يتطلب معالجة العوائق المؤسسية والتشغيلية. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "ऑन-चेन इन्फ्रास्ट्रक्चर की ओर बैंक, Robinhood और Bitstamp का आकलन",
-        "excerpt": "Consensus Miami 2026 में Ondo, Robinhood और Babylon Labs के अधिकारियों ने कहा कि बैंक और पारंपरिक वित्त कंपनियां क्रिप्टो इन्फ्रास्ट्रक्चर अपना रही हैं।",
-        "body": "Consensus Miami 2026 में Ondo, Robinhood और Babylon Labs के अधिकारियों ने कहा कि बैंक और पारंपरिक वित्त कंपनियां क्रिप्टो इन्फ्रास्ट्रक्चर को स्वीकार कर रही हैं और ऑन-चेन निर्माण की चर्चा “क्या बनाना है” से “कैसे बनाना है” की ओर बढ़ रही है। Robinhood और Bitstamp के आकलन के अनुसार, वित्तीय क्षेत्र ब्लॉकचेन आधारित सेवाओं की केवल समीक्षा करने से आगे बढ़कर उनके व्यावहारिक उपयोग के तरीके खोज रहा है। हालांकि, संस्थागत अपनाने पर अब भी सीमाएं हैं, इसलिए व्यापक विस्तार की गति सीमित रह सकती है। यह पारंपरिक वित्त और क्रिप्टो इन्फ्रास्ट्रक्चर के बीच बढ़ते जुड़ाव को दिखाता है, लेकिन वास्तविक अपनाने के लिए संस्थागत और संचालन संबंधी बाधाओं का समाधान जरूरी है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Bank Bergerak ke Infrastruktur On-Chain, Kata Robinhood dan Bitstamp",
-        "excerpt": "Di Consensus Miami 2026, eksekutif Ondo, Robinhood, dan Babylon Labs mengatakan bank serta keuangan tradisional mulai menerima infrastruktur kripto.",
-        "body": "Di Consensus Miami 2026, eksekutif Ondo, Robinhood, dan Babylon Labs mengatakan bank serta perusahaan keuangan tradisional mulai menerima infrastruktur kripto, sementara diskusi pembangunan on-chain bergeser dari “apa yang dibangun” menjadi “bagaimana membangunnya”. Seperti penilaian Robinhood dan Bitstamp, sektor keuangan tidak lagi hanya meninjau layanan berbasis blockchain, tetapi mulai mencari cara penggunaan yang praktis. Namun, adopsi institusional masih memiliki kendala, sehingga laju perluasan tetap terbatas. Hal ini menunjukkan hubungan antara keuangan tradisional dan infrastruktur kripto semakin luas, tetapi adopsi nyata masih membutuhkan penyelesaian hambatan institusional dan operasional. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "1b329010c9b8",
-    "slug": "defis-stress-test-ends-quietly-nothing-broke-461869",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T12:06:40.232Z",
-    "updatedAt": "2026-05-06T12:06:40.232Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/daybook-us/2026/05/06/crypto-daily",
-    "canonicalUrl": "https://www.coindesk.com/daybook-us/2026/05/06/crypto-daily",
-    "titleFingerprint": "60ab1dd089af1d38a23228fa3ca85eb34c292810",
-    "dedupKeys": [
-      "1b329010c9b87c1c6de05f724e2cbb307541e8f0",
-      "60ab1dd089af1d38a23228fa3ca85eb34c292810",
-      "cf02dfaa48a7e037bed78922d9ce7df84e3eaacc"
-    ],
-    "imageUrl": "/images/articles/1b329010c9b8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "DeFi 스트레스 테스트 조용히 종료, 시스템 이상 없이 통과",
-        "excerpt": "코인데스크는 2026년 5월 6일 데이 어헤드 전망에서 DeFi 스트레스 테스트가 조용히 끝났고, 핵심 시스템에 문제가 발생하지 않았다고 전했다.",
-        "body": "2026년 5월 6일 코인데스크의 데이 어헤드 전망에 따르면 DeFi의 스트레스 테스트는 조용히 마무리됐고, 아무것도 고장 나지 않았다. 이번 소식의 핵심은 시장 압박 상황을 거친 뒤에도 DeFi 시스템에서 명시된 장애나 파손이 보고되지 않았다는 점이다. 제공된 원문 요약에는 추가 수치나 세부 원인, 특정 프로토콜명은 포함되지 않았다. 따라서 영향은 ‘문제 없이 통과했다’는 사실에 한정해 해석해야 한다. 향후 전망 역시 원문이 제시한 범위를 넘어 추정하지 않는다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "DeFi Stress Test Ends Quietly With No Reported Breakage",
-        "excerpt": "CoinDesk said in its May 6, 2026 day-ahead outlook that DeFi’s stress test ended quietly, with no reported breakage across the system.",
-        "body": "According to CoinDesk’s day-ahead outlook for May 6, 2026, DeFi’s stress test ended quietly, and nothing broke. The key point is that after a period described as a stress test, no explicit system failure or damage was reported in the provided summary. The original information does not include additional figures, causes, or named protocols. Its impact should therefore be read only as a quiet pass through pressure, not as a broader claim. Any outlook beyond that is not stated in the source. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "DeFiストレステストは静かに終了、障害報告なしで通過",
-        "excerpt": "CoinDeskは2026年5月6日のデイアヘッド見通しで、DeFiのストレステストが静かに終わり、システムに破損はなかったと伝えた。",
-        "body": "CoinDeskの2026年5月6日付デイアヘッド見通しによると、DeFiのストレステストは静かに終了し、何も壊れなかった。要点は、市場の圧力局面を経た後でも、提供された要約上ではDeFiシステムに明示的な障害や破損が報告されていないことだ。原文情報には追加の数値、詳しい原因、特定プロトコル名は含まれていない。したがって影響は「問題なく通過した」という事実に限って読むべきだ。今後の見通しも出典の範囲を超えて推測しない。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "DeFi压力测试平静结束，系统未报告任何故障",
-        "excerpt": "CoinDesk在2026年5月6日的前瞻报道中称，DeFi压力测试已平静结束，相关系统没有出现被报告的损坏。",
-        "body": "根据CoinDesk 2026年5月6日的前瞻报道，DeFi的压力测试平静结束，没有任何东西被打破。核心信息是，在经历被称为压力测试的阶段后，所提供摘要中并未报告DeFi系统出现明确故障或损坏。原文信息没有包含更多数据、具体原因或特定协议名称。因此，其影响应限于“在压力下未出问题”这一事实，不应扩展为更广泛判断。后续展望也不超出来源所述范围。来源: coindesk.com."
-      },
-      "es": {
-        "title": "Prueba de estrés DeFi termina sin fallos reportados",
-        "excerpt": "CoinDesk señaló en su panorama del 6 de mayo de 2026 que la prueba de estrés de DeFi terminó en calma y sin roturas reportadas.",
-        "body": "Según el panorama anticipado de CoinDesk para el 6 de mayo de 2026, la prueba de estrés de DeFi terminó en silencio y nada se rompió. El punto central es que, tras una fase descrita como prueba de estrés, el resumen disponible no reportó fallos explícitos ni daños en el sistema DeFi. La información original no incluye cifras adicionales, causas detalladas ni nombres de protocolos concretos. Por eso, el impacto debe leerse solo como un paso sin problemas bajo presión. Cualquier perspectiva más amplia no está indicada por la fuente. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Teste de estresse DeFi termina sem falhas reportadas",
-        "excerpt": "A CoinDesk informou em sua prévia de 6 de maio de 2026 que o teste de estresse do DeFi terminou de forma calma, sem quebras reportadas.",
-        "body": "Segundo a prévia da CoinDesk para 6 de maio de 2026, o teste de estresse do DeFi terminou discretamente e nada quebrou. O ponto central é que, após uma fase descrita como teste de estresse, o resumo fornecido não registrou falhas explícitas nem danos no sistema DeFi. A informação original não traz números adicionais, causas detalhadas ou nomes de protocolos específicos. Assim, o impacto deve ser lido apenas como uma passagem sem problemas sob pressão. Qualquer projeção além disso não consta na fonte. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "DeFi-Stresstest endet ruhig, keine Ausfälle gemeldet",
-        "excerpt": "CoinDesk berichtete im Ausblick für den 6. Mai 2026, dass der DeFi-Stresstest ruhig endete und keine Systemschäden gemeldet wurden.",
-        "body": "Laut dem Day-Ahead-Ausblick von CoinDesk für den 6. Mai 2026 endete der Stresstest von DeFi ruhig, und nichts ging kaputt. Der Kernpunkt ist, dass nach einer als Stresstest beschriebenen Phase in der bereitgestellten Zusammenfassung kein ausdrücklicher Systemausfall und kein Schaden gemeldet wurde. Die ursprüngliche Information enthält keine zusätzlichen Zahlen, Ursachen oder Namen einzelner Protokolle. Die Wirkung sollte daher nur als problemloses Bestehen unter Druck verstanden werden. Weitere Prognosen werden von der Quelle nicht genannt. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Test de résistance DeFi terminé sans panne signalée",
-        "excerpt": "CoinDesk a indiqué dans son aperçu du 6 mai 2026 que le test de résistance de la DeFi s’est terminé calmement, sans rupture signalée.",
-        "body": "Selon l’aperçu de CoinDesk pour le 6 mai 2026, le test de résistance de la DeFi s’est terminé discrètement et rien ne s’est cassé. Le point essentiel est qu’après une phase décrite comme un test de résistance, le résumé fourni ne signale aucune panne explicite ni dommage du système DeFi. L’information d’origine ne contient pas de chiffres supplémentaires, de causes détaillées ni de noms de protocoles précis. L’impact doit donc être limité au constat d’un passage sans problème sous pression. Toute perspective plus large n’est pas indiquée par la source. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "اختبار ضغط DeFi ينتهي بهدوء من دون أعطال معلنة",
-        "excerpt": "قالت CoinDesk في نظرتها ليوم 6 مايو 2026 إن اختبار ضغط DeFi انتهى بهدوء، من دون تسجيل أي كسر أو عطل في النظام.",
-        "body": "بحسب النظرة اليومية المسبقة من CoinDesk ليوم 6 مايو 2026، انتهى اختبار ضغط DeFi بهدوء ولم ينكسر شيء. الفكرة الأساسية أن المرحلة التي وُصفت بأنها اختبار ضغط لم تتبعها، في الملخص المتاح، أي تقارير صريحة عن تعطل أو تلف في نظام DeFi. ولا تتضمن المعلومات الأصلية أرقاما إضافية أو أسبابا تفصيلية أو أسماء بروتوكولات محددة. لذلك ينبغي حصر الأثر في حقيقة أن النظام مر بالضغط من دون مشكلة مذكورة. ولا تطرح المادة توقعات أبعد من ذلك. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "DeFi स्ट्रेस टेस्ट शांतिपूर्वक समाप्त, कोई टूट-फूट रिपोर्ट नहीं",
-        "excerpt": "CoinDesk ने 6 मई 2026 के डे-अहेड आउटलुक में कहा कि DeFi का स्ट्रेस टेस्ट शांतिपूर्वक खत्म हुआ और सिस्टम में कोई टूट-फूट रिपोर्ट नहीं हुई।",
-        "body": "CoinDesk के 6 मई 2026 के डे-अहेड आउटलुक के अनुसार, DeFi का स्ट्रेस टेस्ट शांतिपूर्वक समाप्त हुआ और कुछ भी नहीं टूटा। मुख्य बात यह है कि स्ट्रेस टेस्ट कहे गए चरण के बाद उपलब्ध सारांश में DeFi सिस्टम में किसी स्पष्ट विफलता या क्षति की सूचना नहीं दी गई। मूल जानकारी में अतिरिक्त आंकड़े, विस्तृत कारण या किसी खास प्रोटोकॉल का नाम शामिल नहीं है। इसलिए प्रभाव को केवल दबाव के बीच बिना समस्या गुजरने के तथ्य तक सीमित समझना चाहिए। इससे आगे की संभावना स्रोत में नहीं दी गई है। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Uji Tekanan DeFi Berakhir Tenang Tanpa Kerusakan",
-        "excerpt": "CoinDesk menyebut dalam outlook 6 Mei 2026 bahwa uji tekanan DeFi berakhir dengan tenang, tanpa kerusakan sistem yang dilaporkan.",
-        "body": "Menurut outlook day-ahead CoinDesk untuk 6 Mei 2026, uji tekanan DeFi berakhir dengan tenang dan tidak ada yang rusak. Inti beritanya adalah setelah fase yang disebut sebagai uji tekanan, ringkasan yang tersedia tidak melaporkan kegagalan atau kerusakan eksplisit pada sistem DeFi. Informasi asli tidak memuat angka tambahan, penyebab terperinci, atau nama protokol tertentu. Karena itu, dampaknya sebaiknya dibaca hanya sebagai keberhasilan melewati tekanan tanpa masalah yang disebutkan. Prospek lebih jauh tidak dinyatakan dalam sumber. Sumber: coindesk.com."
       }
     }
   }
