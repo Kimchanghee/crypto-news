@@ -1,0 +1,75 @@
+{
+  "id": "86dfb5dc39fb",
+  "slug": "quantum-attacks-could-worsen-without-proof-of-ownership-near-892657",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T08:50:08.624Z",
+  "updatedAt": "2026-05-07T08:50:08.624Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/quantum-threat-not-just-about-stolen-funds-near?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/quantum-threat-not-just-about-stolen-funds-near",
+  "titleFingerprint": "1bf19248ea256b062e11f0b2b3e6c8638a2ddd22",
+  "dedupKeys": [
+    "86dfb5dc39fb6e8a5fcadd2fb8950379fe70a5f1",
+    "1bf19248ea256b062e11f0b2b3e6c8638a2ddd22",
+    "ebad07281b42c35328d020aa13d5376e6eb59d34"
+  ],
+  "imageUrl": "/images/articles/86dfb5dc39fb.jpg",
+  "i18n": {
+    "ko": {
+      "title": "양자 공격 위협, 지갑 키 손상 시 소유권 증명 필요성 커진다",
+      "excerpt": "니어 원은 양자 공격이 지갑 키를 손상해 개인 자산을 노출할 경우, 블록체인이 새로운 소유권 검증 시스템을 검토해야 할 수 있다고 밝혔다.",
+      "body": "니어 원은 양자 공격이 블록체인 지갑 키를 손상시키면 개인 자산이 노출될 수 있어, 네트워크가 새로운 소유권 검증 체계를 필요로 할 수 있다고 밝혔다. 핵심은 기존 지갑 키가 훼손될 때 자산의 실제 소유자를 어떻게 확인할지다. 블록체인은 일반적으로 키 보유를 소유권의 근거로 삼지만, 양자 공격으로 이 전제가 흔들리면 복구와 보호 절차가 더 복잡해질 수 있다. 니어 원은 이런 상황에서 소유권 증명이 보안 논의의 중요한 축이 될 수 있다고 봤다. 출처: cointelegraph.com."
+    },
+    "en": {
+      "title": "Quantum Attack Risk Raises Need for Blockchain Ownership Proof",
+      "excerpt": "Near One said blockchains may need new ownership verification systems if quantum attacks compromise wallet keys and expose private assets.",
+      "body": "Near One said blockchains may need new ownership verification systems if quantum attacks compromise wallet keys and expose private assets. The central issue is how a network can confirm the real owner of assets when the wallet key used as proof of control is no longer reliable. Blockchains generally treat key control as the basis of ownership, but that assumption could become harder to maintain if quantum attacks undermine wallet security. Near One said proof of ownership could become a key part of the security debate in that scenario. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "量子攻撃リスク、ウォレット鍵侵害で所有権証明が焦点に",
+      "excerpt": "Near Oneは、量子攻撃でウォレット鍵が侵害され私有資産が露出する場合、ブロックチェーンに新たな所有権検証が必要になる可能性があると述べた。",
+      "body": "Near Oneは、量子攻撃がブロックチェーンのウォレット鍵を侵害した場合、私有資産が露出する恐れがあり、ネットワークには新たな所有権検証システムが必要になる可能性があると述べた。焦点は、既存の鍵が損なわれたときに資産の実際の所有者をどう確認するかだ。ブロックチェーンは通常、鍵の保有を所有権の根拠とするが、量子攻撃でこの前提が揺らげば、復旧と保護の手続きはより複雑になり得る。Near Oneは、この状況で所有権証明が重要な安全性論点になると見ている。出典: cointelegraph.com."
+    },
+    "zh": {
+      "title": "量子攻击风险升高，钱包密钥受损或需所有权证明",
+      "excerpt": "Near One表示，如果量子攻击破坏钱包密钥并暴露私人资产，区块链可能需要新的所有权验证系统来应对风险。",
+      "body": "Near One表示，如果量子攻击破坏区块链钱包密钥，私人资产可能被暴露，网络或许需要新的所有权验证体系。关键问题在于，当原本用于证明控制权的钱包密钥不再可靠时，区块链应如何确认资产的真实所有者。区块链通常把持有密钥视为所有权依据，但若量子攻击动摇这一前提，资产恢复与保护流程可能变得更复杂。Near One认为，在这种情况下，所有权证明可能成为安全讨论的重要部分。来源: cointelegraph.com."
+    },
+    "es": {
+      "title": "Riesgo de ataques cuánticos impulsa la prueba de propiedad cripto",
+      "excerpt": "Near One dijo que las blockchains podrían necesitar nuevos sistemas de verificación de propiedad si ataques cuánticos comprometen claves de billeteras y exponen activos privados.",
+      "body": "Near One dijo que las blockchains podrían necesitar nuevos sistemas de verificación de propiedad si los ataques cuánticos comprometen claves de billeteras y exponen activos privados. El punto central es cómo una red puede confirmar al propietario real de los activos cuando la clave de la billetera, usada como prueba de control, deja de ser confiable. Las blockchains suelen tratar el control de la clave como base de la propiedad, pero esa premisa podría debilitarse si los ataques cuánticos afectan la seguridad de las billeteras. Near One señaló que la prueba de propiedad podría volverse un eje del debate de seguridad. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "Ataques quânticos elevam demanda por prova de propriedade cripto",
+      "excerpt": "A Near One disse que blockchains podem precisar de novos sistemas de verificação de propriedade se ataques quânticos comprometerem chaves de carteiras e expuserem ativos privados.",
+      "body": "A Near One disse que blockchains podem precisar de novos sistemas de verificação de propriedade se ataques quânticos comprometerem chaves de carteiras e expuserem ativos privados. A questão central é como uma rede pode confirmar o verdadeiro dono dos ativos quando a chave da carteira, usada como prova de controle, deixa de ser confiável. Blockchains geralmente tratam o controle da chave como base da propriedade, mas essa premissa pode ser abalada se ataques quânticos enfraquecerem a segurança das carteiras. A Near One afirmou que a prova de propriedade pode se tornar um ponto importante no debate de segurança. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "Quantenangriffe erhöhen Bedarf an Eigentumsnachweis für Wallets",
+      "excerpt": "Near One sagte, Blockchains könnten neue Systeme zur Eigentumsprüfung benötigen, falls Quantenangriffe Wallet-Schlüssel kompromittieren und private Vermögenswerte offenlegen.",
+      "body": "Near One sagte, Blockchains könnten neue Systeme zur Eigentumsprüfung benötigen, wenn Quantenangriffe Wallet-Schlüssel kompromittieren und private Vermögenswerte offenlegen. Entscheidend ist, wie ein Netzwerk den tatsächlichen Eigentümer von Vermögenswerten bestätigen kann, wenn der Wallet-Schlüssel als Nachweis der Kontrolle nicht mehr verlässlich ist. Blockchains stützen Eigentum meist auf die Kontrolle des Schlüssels, doch diese Annahme könnte durch Quantenangriffe auf die Wallet-Sicherheit ins Wanken geraten. Near One sieht den Eigentumsnachweis in einem solchen Szenario als wichtigen Teil der Sicherheitsdebatte. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "Attaques quantiques: la preuve de propriété crypto devient cruciale",
+      "excerpt": "Near One a déclaré que les blockchains pourraient avoir besoin de nouveaux systèmes de vérification de propriété si des attaques quantiques compromettent les clés de wallets et exposent des actifs privés.",
+      "body": "Near One a déclaré que les blockchains pourraient avoir besoin de nouveaux systèmes de vérification de propriété si des attaques quantiques compromettent les clés de wallets et exposent des actifs privés. L’enjeu central est de savoir comment un réseau peut confirmer le véritable propriétaire des actifs lorsque la clé du wallet, utilisée comme preuve de contrôle, n’est plus fiable. Les blockchains considèrent généralement la maîtrise de la clé comme base de propriété, mais cette hypothèse pourrait être fragilisée par des attaques quantiques. Near One estime que la preuve de propriété pourrait devenir un axe important du débat sur la sécurité. Source: cointelegraph.com."
+    },
+    "ar": {
+      "title": "هجمات الكم ترفع الحاجة لإثبات ملكية محافظ البلوكشين",
+      "excerpt": "قالت Near One إن شبكات البلوكشين قد تحتاج إلى أنظمة جديدة للتحقق من الملكية إذا أدت هجمات الكم إلى اختراق مفاتيح المحافظ وكشف الأصول الخاصة.",
+      "body": "قالت Near One إن شبكات البلوكشين قد تحتاج إلى أنظمة جديدة للتحقق من الملكية إذا أدت هجمات الكم إلى اختراق مفاتيح المحافظ وكشف الأصول الخاصة. تتمثل المسألة الأساسية في كيفية تأكيد المالك الحقيقي للأصول عندما لا يعود مفتاح المحفظة، المستخدم عادة كدليل على السيطرة، موثوقا. تعتمد البلوكشين غالبا على امتلاك المفتاح كأساس للملكية، لكن هذا الافتراض قد يتعرض للضغط إذا أضعفت هجمات الكم أمن المحافظ. وترى Near One أن إثبات الملكية قد يصبح جزءا مهما من نقاشات الأمن في هذا السيناريو. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "क्वांटम हमलों से वॉलेट स्वामित्व प्रमाण की जरूरत बढ़ सकती है",
+      "excerpt": "Near One ने कहा कि यदि क्वांटम हमले वॉलेट की चाबियों को प्रभावित कर निजी संपत्तियां उजागर करते हैं, तो ब्लॉकचेन को नए स्वामित्व सत्यापन सिस्टम चाहिए हो सकते हैं।",
+      "body": "Near One ने कहा कि यदि क्वांटम हमले ब्लॉकचेन वॉलेट की चाबियों को प्रभावित करते हैं, तो निजी संपत्तियां उजागर हो सकती हैं और नेटवर्क को नए स्वामित्व सत्यापन सिस्टम की जरूरत पड़ सकती है। मुख्य सवाल यह है कि जब नियंत्रण का प्रमाण मानी जाने वाली वॉलेट कुंजी भरोसेमंद न रहे, तब किसी संपत्ति के वास्तविक मालिक की पुष्टि कैसे की जाए। ब्लॉकचेन आम तौर पर कुंजी पर नियंत्रण को स्वामित्व का आधार मानते हैं, लेकिन क्वांटम हमले इस धारणा को कमजोर कर सकते हैं। Near One के अनुसार ऐसे हालात में स्वामित्व प्रमाण सुरक्षा चर्चा का अहम हिस्सा बन सकता है। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "Risiko Serangan Kuantum Dorong Bukti Kepemilikan Blockchain",
+      "excerpt": "Near One mengatakan blockchain mungkin memerlukan sistem verifikasi kepemilikan baru jika serangan kuantum merusak kunci wallet dan membuka aset pribadi.",
+      "body": "Near One mengatakan blockchain mungkin memerlukan sistem verifikasi kepemilikan baru jika serangan kuantum merusak kunci wallet dan membuka aset pribadi. Isu utamanya adalah bagaimana jaringan dapat memastikan pemilik aset yang sebenarnya ketika kunci wallet, yang biasa dipakai sebagai bukti kendali, tidak lagi dapat diandalkan. Blockchain umumnya menjadikan kendali atas kunci sebagai dasar kepemilikan, tetapi asumsi itu bisa terganggu jika serangan kuantum melemahkan keamanan wallet. Near One menilai bukti kepemilikan dapat menjadi bagian penting dalam pembahasan keamanan pada skenario tersebut. Sumber: cointelegraph.com."
+    }
+  }
+}
