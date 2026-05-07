@@ -1,0 +1,75 @@
+{
+  "id": "cb0cb7596991",
+  "slug": "ripple-jpmorgan-settle-first-cross-border-tokenized-treasury-269692",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T05:52:10.158Z",
+  "updatedAt": "2026-05-07T05:52:10.158Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/05/07/ripple-jpmorgan-settle-first-cross-border-tokenized-treasury-redemption-on-xrp-ledger",
+  "canonicalUrl": "https://www.coindesk.com/markets/2026/05/07/ripple-jpmorgan-settle-first-cross-border-tokenized-treasury-redemption-on-xrp-ledger",
+  "titleFingerprint": "ede9262cb889c92697e41d119e0e9c441f5bd204",
+  "dedupKeys": [
+    "cb0cb7596991491bfeeae96c625ec03359deb098",
+    "ede9262cb889c92697e41d119e0e9c441f5bd204",
+    "cf0a9d5ea2e424c00c16f2f53d5a449403cbd01d"
+  ],
+  "imageUrl": "/images/articles/cb0cb7596991.jpg",
+  "i18n": {
+    "ko": {
+      "title": "리플·JPMorgan, XRP 원장서 첫 국경간 토큰화 국채 상환 처리",
+      "excerpt": "리플과 JPMorgan은 Ondo Finance·Mastercard와 진행한 파일럿에서 XRP Ledger 기반 OUSG 토큰화 국채 펀드 상환을 5초 미만에 처리했다.",
+      "body": "리플과 JPMorgan이 Ondo Finance, Mastercard와 함께 XRP Ledger에서 첫 국경간 토큰화 국채 상환을 처리했다. 이번 파일럿은 Ondo의 OUSG 토큰화 국채 펀드 상환을 대상으로 진행됐으며, 거래 처리 시간은 5초 미만이었다. OUSG는 국채를 토큰화한 펀드로, 이번 사례는 토큰화 자산의 상환 절차가 블록체인 네트워크에서 빠르게 처리될 수 있음을 보여준다. 다만 공개된 내용은 파일럿 결과와 참여사, 처리 시간에 한정된다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Ripple and JPMorgan Complete First XRP Ledger Tokenized Treasury Redemption",
+      "excerpt": "Ripple and JPMorgan, with Ondo Finance and Mastercard, processed a cross-border redemption of Ondo’s OUSG tokenized Treasury fund on XRP Ledger in under five seconds.",
+      "body": "Ripple and JPMorgan processed the first cross-border tokenized Treasury redemption on XRP Ledger with Ondo Finance and Mastercard. The pilot focused on the redemption of Ondo’s OUSG tokenized Treasury fund, and the transaction was completed in under five seconds. OUSG is a tokenized Treasury fund, making the test a direct example of how redemption flows for tokenized assets can be handled on a blockchain network. The disclosed details are limited to the pilot, participants, asset, and processing time. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "RippleとJPMorgan、XRP Ledgerで初の越境トークン化国債償還を処理",
+      "excerpt": "RippleとJPMorganはOndo Finance、Mastercardとの試験で、XRP Ledger上のOUSGトークン化国債ファンド償還を5秒未満で処理した。",
+      "body": "RippleとJPMorganは、Ondo FinanceおよびMastercardとともに、XRP Ledger上で初の越境トークン化国債償還を処理した。今回のパイロットはOndoのOUSGトークン化国債ファンドの償還を対象に行われ、処理時間は5秒未満だった。OUSGは国債をトークン化したファンドであり、今回の事例はトークン化資産の償還手続きがブロックチェーンネットワーク上で迅速に処理され得ることを示した。公開情報は試験結果、参加企業、対象資産、処理時間に限られる。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "Ripple与JPMorgan在XRP Ledger完成首笔跨境代币化国债赎回",
+      "excerpt": "Ripple与JPMorgan携手Ondo Finance和Mastercard，在试点中通过XRP Ledger于5秒内处理Ondo OUSG代币化国债基金赎回。",
+      "body": "Ripple与JPMorgan携手Ondo Finance和Mastercard，在XRP Ledger上完成首笔跨境代币化国债赎回。此次试点针对Ondo的OUSG代币化国债基金赎回进行，交易处理时间不到5秒。OUSG是一只代币化国债基金，因此该案例直接展示了代币化资产赎回流程可在区块链网络上快速完成。已披露的信息仅限于试点结果、参与方、相关资产以及处理时间，未包含更多商业部署细节。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Ripple y JPMorgan liquidan la primera redención de Treasury tokenizado en XRP Ledger",
+      "excerpt": "Ripple y JPMorgan, junto con Ondo Finance y Mastercard, procesaron en menos de cinco segundos la redención transfronteriza del fondo OUSG tokenizado de Ondo.",
+      "body": "Ripple y JPMorgan procesaron con Ondo Finance y Mastercard la primera redención transfronteriza de un Treasury tokenizado en XRP Ledger. El piloto se centró en la redención del fondo OUSG de Ondo, un vehículo de Treasury tokenizado, y la operación se completó en menos de cinco segundos. El caso muestra que los flujos de redención de activos tokenizados pueden ejecutarse rápidamente en una red blockchain. La información publicada se limita al piloto, los participantes, el activo utilizado y el tiempo de procesamiento. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Ripple e JPMorgan fazem primeiro resgate de Treasury tokenizado no XRP Ledger",
+      "excerpt": "Ripple e JPMorgan, com Ondo Finance e Mastercard, processaram em menos de cinco segundos o resgate transfronteiriço do fundo OUSG tokenizado da Ondo.",
+      "body": "Ripple e JPMorgan processaram, com Ondo Finance e Mastercard, o primeiro resgate transfronteiriço de um Treasury tokenizado no XRP Ledger. O piloto teve como foco o resgate do fundo OUSG da Ondo, um fundo de Treasuries tokenizado, e a transação foi concluída em menos de cinco segundos. O caso mostra que fluxos de resgate de ativos tokenizados podem ser executados rapidamente em uma rede blockchain. As informações divulgadas se limitam ao piloto, aos participantes, ao ativo envolvido e ao tempo de processamento. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Ripple und JPMorgan wickeln erste tokenisierte Treasury-Rücknahme auf XRP Ledger ab",
+      "excerpt": "Ripple und JPMorgan verarbeiteten mit Ondo Finance und Mastercard die grenzüberschreitende Rücknahme von Ondos OUSG-Tokenized-Treasury-Fonds in unter fünf Sekunden.",
+      "body": "Ripple und JPMorgan haben gemeinsam mit Ondo Finance und Mastercard die erste grenzüberschreitende Rücknahme eines tokenisierten Treasury-Fonds auf dem XRP Ledger verarbeitet. Der Pilot betraf die Rücknahme von Ondos OUSG, einem tokenisierten Treasury-Fonds, und wurde in weniger als fünf Sekunden abgeschlossen. Der Fall zeigt, dass Rücknahmeprozesse tokenisierter Vermögenswerte auf einem Blockchain-Netzwerk sehr schnell abgewickelt werden können. Die veröffentlichten Angaben beschränken sich auf Pilot, Teilnehmer, Vermögenswert und Verarbeitungszeit. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Ripple et JPMorgan réalisent le premier rachat de Treasury tokenisé sur XRP Ledger",
+      "excerpt": "Ripple et JPMorgan, avec Ondo Finance et Mastercard, ont traité en moins de cinq secondes le rachat transfrontalier du fonds Treasury tokenisé OUSG d’Ondo.",
+      "body": "Ripple et JPMorgan ont traité avec Ondo Finance et Mastercard le premier rachat transfrontalier d’un Treasury tokenisé sur XRP Ledger. Le pilote portait sur le rachat du fonds OUSG d’Ondo, un fonds de Treasuries tokenisé, et l’opération a été finalisée en moins de cinq secondes. Ce cas montre que les flux de rachat d’actifs tokenisés peuvent être exécutés rapidement sur un réseau blockchain. Les informations publiées se limitent au pilote, aux participants, à l’actif concerné et au temps de traitement. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "Ripple وJPMorgan تنفذان أول استرداد عابر للحدود لسندات خزانة مرمزة على XRP Ledger",
+      "excerpt": "نفذت Ripple وJPMorgan، مع Ondo Finance وMastercard، تجربة استرداد صندوق OUSG لسندات الخزانة المرمزة على XRP Ledger في أقل من خمس ثوان.",
+      "body": "نفذت Ripple وJPMorgan، بالتعاون مع Ondo Finance وMastercard، أول استرداد عابر للحدود لسندات خزانة مرمزة على XRP Ledger. ركزت التجربة على استرداد صندوق OUSG التابع لـOndo، وهو صندوق سندات خزانة مرمز، وتمت معالجة العملية في أقل من خمس ثوان. يوضح هذا المثال أن إجراءات استرداد الأصول المرمزة يمكن أن تتم بسرعة على شبكة بلوكتشين. وتقتصر المعلومات المعلنة على التجربة والجهات المشاركة والأصل المستخدم ووقت المعالجة. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "Ripple और JPMorgan ने XRP Ledger पर पहला सीमा-पार टोकनाइज्ड Treasury रिडेम्पशन किया",
+      "excerpt": "Ripple और JPMorgan ने Ondo Finance और Mastercard के साथ XRP Ledger पर Ondo के OUSG टोकनाइज्ड Treasury फंड का रिडेम्पशन पांच सेकंड से कम समय में प्रोसेस किया।",
+      "body": "Ripple और JPMorgan ने Ondo Finance और Mastercard के साथ XRP Ledger पर पहला सीमा-पार टोकनाइज्ड Treasury रिडेम्पशन प्रोसेस किया। यह पायलट Ondo के OUSG टोकनाइज्ड Treasury फंड के रिडेम्पशन पर केंद्रित था, और लेनदेन पांच सेकंड से कम समय में पूरा हुआ। OUSG एक टोकनाइज्ड Treasury फंड है, इसलिए यह उदाहरण दिखाता है कि टोकनाइज्ड एसेट्स के रिडेम्पशन फ्लो ब्लॉकचेन नेटवर्क पर तेजी से संभाले जा सकते हैं। जारी जानकारी पायलट, भागीदारों, एसेट और प्रोसेसिंग समय तक सीमित है। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Ripple dan JPMorgan Selesaikan Redemption Treasury Tokenisasi Pertama di XRP Ledger",
+      "excerpt": "Ripple dan JPMorgan, bersama Ondo Finance dan Mastercard, memproses redemption lintas batas dana Treasury tokenisasi OUSG milik Ondo dalam waktu kurang dari lima detik.",
+      "body": "Ripple dan JPMorgan memproses redemption Treasury tokenisasi lintas batas pertama di XRP Ledger bersama Ondo Finance dan Mastercard. Pilot ini berfokus pada redemption dana OUSG milik Ondo, yaitu dana Treasury yang ditokenisasi, dan transaksi selesai dalam waktu kurang dari lima detik. Kasus ini menunjukkan bahwa alur redemption aset tokenisasi dapat diproses cepat di jaringan blockchain. Informasi yang dipublikasikan terbatas pada pilot, pihak yang terlibat, aset yang digunakan, dan waktu pemrosesan. Sumber: coindesk.com"
+    }
+  }
+}
