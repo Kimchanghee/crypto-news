@@ -1,0 +1,75 @@
+{
+  "id": "258aa0de19b0",
+  "slug": "jpmorgan-mastercard-make-first-cross-border-us-treasury-tran-148317",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T03:22:17.951Z",
+  "updatedAt": "2026-05-07T03:22:17.952Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger",
+  "titleFingerprint": "19a54e1e293ed9cbc5d40f03b39140e92da364d8",
+  "dedupKeys": [
+    "258aa0de19b07d616c267377fc3fc4fce2595c8d",
+    "19a54e1e293ed9cbc5d40f03b39140e92da364d8",
+    "30245fc6a973643c8b115b1b9a55c1280e497e73"
+  ],
+  "imageUrl": "/images/articles/258aa0de19b0.jpg",
+  "i18n": {
+    "ko": {
+      "title": "JPMorgan·Mastercard, XRP Ledger로 첫 국경 간 미국채 이전",
+      "excerpt": "JPMorgan과 Mastercard가 XRP Ledger를 활용해 토큰화된 미국 국채 펀드의 첫 국경 간 이전을 수행하며 블록체인과 은행 결제망 연계를 시험했다.",
+      "body": "JPMorgan과 Mastercard는 XRP Ledger를 통해 토큰화된 미국 국채 펀드의 첫 국경 간 이전을 수행했다. 이번 거래는 블록체인 인프라와 기존 은행 결제망을 결합해 미국 국채 기반 자산을 국경 밖으로 이전한 사례다. 앞서 같은 펀드는 공개형 블록체인과 허가형 블록체인 사이를 이동하는 파일럿에 활용된 바 있다. 이번 시도는 토큰화 자산이 서로 다른 네트워크와 금융 인프라를 거쳐 이전될 수 있는지를 검증하는 흐름의 연장선에 있다. 다만 공개된 내용은 거래 실행과 이전 구조에 초점을 맞추고 있으며, 향후 상용화 일정이나 추가 규모는 제시되지 않았다. 출처: cointelegraph.com."
+    },
+    "en": {
+      "title": "JPMorgan, Mastercard Complete First XRP Ledger Treasury Transfer",
+      "excerpt": "JPMorgan and Mastercard used the XRP Ledger for a first cross-border transfer of a tokenized US Treasury fund, testing links between blockchain and banking rails.",
+      "body": "JPMorgan and Mastercard completed the first cross-border transfer of a tokenized US Treasury fund using the XRP Ledger. The transaction combined blockchain infrastructure with traditional banking rails to move a US Treasury-backed asset across borders. It builds on an earlier pilot in which the same fund was transferred between a public blockchain and a permissioned blockchain. The latest step extends the effort to test whether tokenized assets can move across different networks and financial infrastructure. The available details focus on the execution and transfer structure, while no commercialization timeline or additional transaction scale was disclosed. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "JPMorganとMastercard、XRP Ledgerで初の米国債越境移転",
+      "excerpt": "JPMorganとMastercardはXRP Ledgerを使い、トークン化米国債ファンドの初の越境移転を実施し、ブロックチェーンと銀行レールの連携を検証した。",
+      "body": "JPMorganとMastercardは、XRP Ledgerを通じてトークン化された米国債ファンドの初の越境移転を実施した。今回の取引は、ブロックチェーン基盤と既存の銀行決済レールを組み合わせ、米国債に裏付けられた資産を国境を越えて移転した事例だ。これに先立ち、同じファンドは公開型ブロックチェーンと許可型ブロックチェーンの間で移動するパイロットに使われていた。今回の取り組みは、トークン化資産が異なるネットワークと金融インフラをまたいで移転できるかを検証する流れの延長にある。公表内容は取引実行と移転構造が中心で、商用化時期や追加規模は示されていない。出典: cointelegraph.com."
+    },
+    "zh": {
+      "title": "JPMorgan与Mastercard通过XRP Ledger完成首笔美国国债跨境转移",
+      "excerpt": "JPMorgan和Mastercard利用XRP Ledger完成代币化美国国债基金的首笔跨境转移，测试区块链与银行结算轨道的连接。",
+      "body": "JPMorgan和Mastercard通过XRP Ledger完成了代币化美国国债基金的首笔跨境转移。此次交易结合区块链基础设施与传统银行结算轨道，将以美国国债为基础的资产跨境转移。此前，同一基金曾用于一项试点，在公有区块链与许可型区块链之间移动。此次行动延续了对代币化资产能否在不同网络和金融基础设施之间转移的验证。已披露信息主要聚焦交易执行和转移结构，尚未公布商业化时间表或后续交易规模。来源: cointelegraph.com."
+    },
+    "es": {
+      "title": "JPMorgan y Mastercard hacen primera transferencia de bonos del Tesoro vía XRP Ledger",
+      "excerpt": "JPMorgan y Mastercard usaron XRP Ledger para la primera transferencia transfronteriza de un fondo tokenizado de bonos del Tesoro de EE. UU., probando blockchain y rieles bancarios.",
+      "body": "JPMorgan y Mastercard completaron la primera transferencia transfronteriza de un fondo tokenizado de bonos del Tesoro de Estados Unidos mediante XRP Ledger. La operación combinó infraestructura blockchain con rieles bancarios tradicionales para mover fuera de fronteras un activo respaldado por bonos del Tesoro estadounidense. El paso se apoya en un piloto anterior en el que el mismo fondo se trasladó entre una blockchain pública y una blockchain con permisos. La iniciativa amplía la prueba de si los activos tokenizados pueden moverse entre redes e infraestructuras financieras distintas. La información disponible se centra en la ejecución y la estructura de transferencia, sin calendario comercial ni escala adicional divulgados. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "JPMorgan e Mastercard fazem 1ª transferência de Treasuries via XRP Ledger",
+      "excerpt": "JPMorgan e Mastercard usaram o XRP Ledger na primeira transferência internacional de um fundo tokenizado de Treasuries dos EUA, testando blockchain e trilhos bancários.",
+      "body": "JPMorgan e Mastercard concluíram a primeira transferência internacional de um fundo tokenizado de títulos do Tesouro dos Estados Unidos usando o XRP Ledger. A transação combinou infraestrutura blockchain com trilhos bancários tradicionais para mover, entre fronteiras, um ativo lastreado em Treasuries. A operação se baseia em um piloto anterior no qual o mesmo fundo foi transferido entre uma blockchain pública e uma blockchain permissionada. O movimento amplia o teste sobre a capacidade de ativos tokenizados circularem por diferentes redes e infraestruturas financeiras. As informações divulgadas se concentram na execução e na estrutura da transferência, sem indicar cronograma comercial ou escala adicional. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "JPMorgan und Mastercard übertragen erstmals US-Treasuries via XRP Ledger",
+      "excerpt": "JPMorgan und Mastercard nutzten das XRP Ledger für die erste grenzüberschreitende Übertragung eines tokenisierten US-Treasury-Fonds und testeten Blockchain- sowie Bankeninfrastruktur.",
+      "body": "JPMorgan und Mastercard haben über das XRP Ledger erstmals einen tokenisierten US-Treasury-Fonds grenzüberschreitend übertragen. Die Transaktion verband Blockchain-Infrastruktur mit bestehenden Bankenschienen, um einen durch US-Staatsanleihen gestützten Vermögenswert über Landesgrenzen hinweg zu bewegen. Sie knüpft an einen früheren Piloten an, bei dem derselbe Fonds zwischen einer öffentlichen und einer permissionierten Blockchain übertragen wurde. Der Schritt erweitert den Test, ob tokenisierte Vermögenswerte über unterschiedliche Netzwerke und Finanzinfrastrukturen hinweg bewegt werden können. Die verfügbaren Angaben konzentrieren sich auf Ausführung und Übertragungsstruktur; ein Zeitplan für die Kommerzialisierung oder ein weiteres Volumen wurde nicht genannt. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "JPMorgan et Mastercard réalisent un premier transfert de Treasuries via XRP Ledger",
+      "excerpt": "JPMorgan et Mastercard ont utilisé XRP Ledger pour le premier transfert transfrontalier d’un fonds tokenisé de bons du Trésor américain, testant blockchain et rails bancaires.",
+      "body": "JPMorgan et Mastercard ont réalisé, via XRP Ledger, le premier transfert transfrontalier d’un fonds tokenisé de bons du Trésor américain. L’opération a combiné une infrastructure blockchain avec des rails bancaires traditionnels afin de déplacer au-delà des frontières un actif adossé à des Treasuries américains. Elle s’inscrit dans la continuité d’un pilote antérieur où le même fonds avait circulé entre une blockchain publique et une blockchain permissionnée. Cette étape prolonge les tests visant à vérifier si des actifs tokenisés peuvent passer entre différents réseaux et infrastructures financières. Les informations publiées portent sur l’exécution et la structure du transfert, sans calendrier commercial ni volume supplémentaire annoncé. Source: cointelegraph.com."
+    },
+    "ar": {
+      "title": "JPMorgan وMastercard تنفذان أول نقل لسندات خزانة عبر XRP Ledger",
+      "excerpt": "استخدمت JPMorgan وMastercard شبكة XRP Ledger لتنفيذ أول نقل عابر للحدود لصندوق سندات خزانة أمريكية مرمز، لاختبار الربط بين البلوكشين ومسارات البنوك.",
+      "body": "نفذت JPMorgan وMastercard أول عملية نقل عابرة للحدود لصندوق مرمز من سندات الخزانة الأمريكية عبر XRP Ledger. جمعت الصفقة بين بنية البلوكشين ومسارات التسوية المصرفية التقليدية لنقل أصل مدعوم بسندات الخزانة الأمريكية عبر الحدود. وتأتي هذه الخطوة استكمالا لتجربة سابقة تحرك فيها الصندوق نفسه بين بلوكشين عامة وبلوكشين مصرح بها. وتهدف العملية إلى اختبار قدرة الأصول المرمزة على الانتقال بين شبكات وبنى مالية مختلفة. وتركز المعلومات المتاحة على تنفيذ الصفقة وهيكل النقل، من دون الكشف عن جدول تجاري أو حجم إضافي. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "JPMorgan और Mastercard ने XRP Ledger पर पहली क्रॉस-बॉर्डर Treasury ट्रांसफर की",
+      "excerpt": "JPMorgan और Mastercard ने XRP Ledger के जरिए टोकनाइज्ड अमेरिकी Treasury फंड का पहला क्रॉस-बॉर्डर ट्रांसफर किया, जिसमें ब्लॉकचेन और बैंकिंग रेल का परीक्षण हुआ।",
+      "body": "JPMorgan और Mastercard ने XRP Ledger का उपयोग करके टोकनाइज्ड अमेरिकी Treasury फंड का पहला क्रॉस-बॉर्डर ट्रांसफर पूरा किया। इस लेनदेन में ब्लॉकचेन इन्फ्रास्ट्रक्चर और पारंपरिक बैंकिंग रेल को जोड़कर अमेरिकी Treasury समर्थित संपत्ति को सीमाओं के पार स्थानांतरित किया गया। यह कदम पहले हुए एक पायलट पर आधारित है, जिसमें यही फंड एक पब्लिक ब्लॉकचेन और एक परमिशन्ड ब्लॉकचेन के बीच स्थानांतरित हुआ था। नया परीक्षण यह देखने की प्रक्रिया को आगे बढ़ाता है कि टोकनाइज्ड संपत्तियां अलग-अलग नेटवर्क और वित्तीय इन्फ्रास्ट्रक्चर के बीच जा सकती हैं या नहीं। उपलब्ध जानकारी लेनदेन के निष्पादन और ट्रांसफर संरचना तक सीमित है; वाणिज्यिक समयसीमा या अतिरिक्त पैमाना नहीं बताया गया। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "JPMorgan dan Mastercard Transfer Treasury AS Pertama via XRP Ledger",
+      "excerpt": "JPMorgan dan Mastercard memakai XRP Ledger untuk transfer lintas batas pertama atas dana Treasury AS tokenisasi, menguji koneksi blockchain dan rel perbankan.",
+      "body": "JPMorgan dan Mastercard menyelesaikan transfer lintas batas pertama atas dana Treasury AS yang ditokenisasi melalui XRP Ledger. Transaksi ini menggabungkan infrastruktur blockchain dengan rel perbankan tradisional untuk memindahkan aset berbasis Treasury AS ke luar negeri. Langkah tersebut melanjutkan uji coba sebelumnya, ketika dana yang sama dipindahkan antara blockchain publik dan blockchain berizin. Upaya ini memperluas pengujian apakah aset tokenisasi dapat berpindah melalui jaringan dan infrastruktur keuangan yang berbeda. Informasi yang tersedia berfokus pada eksekusi transaksi dan struktur transfer, tanpa jadwal komersialisasi atau skala tambahan yang diumumkan. Sumber: cointelegraph.com."
+    }
+  }
+}
