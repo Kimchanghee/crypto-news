@@ -1,5 +1,230 @@
 [
   {
+    "id": "f1a53de7d71a",
+    "slug": "the-700-million-migration-why-solv-protocol-is-ditching-laye-634415",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T15:40:52.888Z",
+    "updatedAt": "2026-05-07T15:40:52.888Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/07/solv-drops-layerzero-for-chainlink-ccip-in-usd700-million-tokenized-bitcoin-migration",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/07/solv-drops-layerzero-for-chainlink-ccip-in-usd700-million-tokenized-bitcoin-migration",
+    "titleFingerprint": "c443893d2676e3584626461a4ce04b82ea0df19f",
+    "dedupKeys": [
+      "f1a53de7d71a56e3945fcc44ac831257a0778a06",
+      "c443893d2676e3584626461a4ce04b82ea0df19f",
+      "90712710ff2ffefe2869724b82e05126e7c7ea64"
+    ],
+    "imageUrl": "/images/articles/f1a53de7d71a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Solv 7억달러 이전, Chainlink CCIP로 향한 크로스체인 신뢰 경쟁",
+        "excerpt": "Solv Protocol은 보안 검토와 최근 크로스체인 해킹 이후 SolvBTC·xSolvBTC 7억달러 이상을 LayerZero 브리지에서 Chainlink CCIP로 이전한다.",
+        "body": "Solv Protocol이 보안 검토와 최근 크로스체인 해킹 이후 7억달러 이상 규모의 토큰화 비트코인 자산을 LayerZero 브리지에서 Chainlink의 CCIP로 이전한다. 대상 자산은 DeFi와 BTCfi 시장에서 쓰이는 SolvBTC와 xSolvBTC다. 이번 결정은 Kelp DAO가 LayerZero 기반 브리지에서 2억9200만달러 규모 익스플로잇을 겪은 뒤 Chainlink로 옮긴 흐름과 맞물린다. 두 이전을 합치면 거의 10억달러의 자산이 CCIP로 이동하며, LayerZero와 Kelp는 단일 검증자 설정을 둘러싸고 책임 공방을 벌이고 있다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Solv’s $700M Move Puts Chainlink CCIP in Cross-Chain Spotlight",
+        "excerpt": "Solv Protocol is moving over $700 million in SolvBTC and xSolvBTC from LayerZero to Chainlink CCIP after a security review and recent cross-chain hacks.",
+        "body": "Solv Protocol is moving more than $700 million in tokenized bitcoin assets from the LayerZero bridge to Chainlink’s CCIP after a security review and recent cross-chain hacks. The assets include SolvBTC and xSolvBTC, which are used in DeFi and BTCfi markets. The decision follows Kelp DAO’s shift to Chainlink after a $292 million exploit on its LayerZero-powered bridge. Together, the Solv and Kelp migrations move nearly $1 billion in assets to CCIP. LayerZero and Kelp are disputing responsibility over the bridge’s single-verifier setup. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "Solvの7億ドル移行、Chainlink CCIPに集まるクロスチェーン信頼",
+        "excerpt": "Solv Protocolはセキュリティレビューと最近のクロスチェーン攻撃を受け、SolvBTCとxSolvBTCの7億ドル超をLayerZeroからChainlink CCIPへ移す。",
+        "body": "Solv Protocolは、セキュリティレビューと最近のクロスチェーンハッキングを受け、7億ドル超のトークン化ビットコイン資産をLayerZeroブリッジからChainlinkのCCIPへ移行する。対象はDeFiとBTCfi市場で使われるSolvBTCとxSolvBTCだ。今回の判断は、Kelp DAOがLayerZero基盤のブリッジで2億9200万ドル規模のエクスプロイトを受けた後、Chainlinkへ移行した流れに続く。両者を合わせると、ほぼ10億ドルの資産がCCIPへ移る。LayerZeroとKelpは単一検証者設定を巡り責任を争っている。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "Solv 7亿美元迁移转向Chainlink CCIP，跨链信任竞争升温",
+        "excerpt": "Solv Protocol在安全审查和近期跨链黑客事件后，将超过7亿美元的SolvBTC和xSolvBTC从LayerZero桥迁移至Chainlink CCIP。",
+        "body": "Solv Protocol在完成安全审查并经历近期跨链黑客事件背景后，正将超过7亿美元的代币化比特币资产从LayerZero桥迁移至Chainlink的CCIP。涉及资产包括用于DeFi和BTCfi市场的SolvBTC与xSolvBTC。此前，Kelp DAO在其LayerZero驱动的桥遭遇2.92亿美元漏洞攻击后，也转向Chainlink。Solv与Kelp两项迁移合计使近10亿美元资产流向CCIP。LayerZero与Kelp目前围绕该桥的单一验证者设置互相追责。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Solv mueve $700M a Chainlink CCIP y reordena la confianza cross-chain",
+        "excerpt": "Solv Protocol trasladará más de $700 millones en SolvBTC y xSolvBTC desde LayerZero a Chainlink CCIP tras una revisión de seguridad y recientes hackeos cross-chain.",
+        "body": "Solv Protocol trasladará más de $700 millones en activos de bitcoin tokenizado desde el puente de LayerZero hacia CCIP de Chainlink tras una revisión de seguridad y recientes hackeos cross-chain. Los activos incluidos son SolvBTC y xSolvBTC, usados en mercados DeFi y BTCfi. La decisión sigue el movimiento de Kelp DAO hacia Chainlink después de un exploit de $292 millones en su puente basado en LayerZero. En conjunto, las migraciones de Solv y Kelp llevan casi $1.000 millones en activos a CCIP. LayerZero y Kelp discuten la responsabilidad por la configuración de verificador único. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Solv migra US$ 700 mi para Chainlink CCIP e muda confiança cross-chain",
+        "excerpt": "A Solv Protocol vai mover mais de US$ 700 milhões em SolvBTC e xSolvBTC da LayerZero para o Chainlink CCIP após revisão de segurança e hacks cross-chain recentes.",
+        "body": "A Solv Protocol vai transferir mais de US$ 700 milhões em ativos de bitcoin tokenizado da ponte LayerZero para o CCIP da Chainlink após uma revisão de segurança e hacks cross-chain recentes. Os ativos incluem SolvBTC e xSolvBTC, usados nos mercados DeFi e BTCfi. A decisão vem depois que a Kelp DAO migrou para a Chainlink após um exploit de US$ 292 milhões em sua ponte baseada na LayerZero. Somadas, as migrações de Solv e Kelp levam quase US$ 1 bilhão em ativos ao CCIP. LayerZero e Kelp disputam responsabilidade sobre a configuração de verificador único. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Solv verlagert 700 Mio. Dollar zu Chainlink CCIP und stärkt Cross-Chain-Vertrauen",
+        "excerpt": "Solv Protocol verschiebt nach einer Sicherheitsprüfung und jüngsten Cross-Chain-Hacks mehr als 700 Mio. Dollar in SolvBTC und xSolvBTC von LayerZero zu Chainlink CCIP.",
+        "body": "Solv Protocol verlagert nach einer Sicherheitsprüfung und jüngsten Cross-Chain-Hacks mehr als 700 Millionen Dollar an tokenisierten Bitcoin-Vermögenswerten von der LayerZero-Brücke zu Chainlinks CCIP. Betroffen sind SolvBTC und xSolvBTC, die in DeFi- und BTCfi-Märkten genutzt werden. Die Entscheidung folgt auf den Wechsel von Kelp DAO zu Chainlink, nachdem dessen LayerZero-basierte Brücke von einem Exploit über 292 Millionen Dollar betroffen war. Zusammen bringen die Migrationen von Solv und Kelp fast 1 Milliarde Dollar an Vermögenswerten zu CCIP. LayerZero und Kelp streiten über die Verantwortung für die Single-Verifier-Konfiguration. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Solv transfère 700 M$ vers Chainlink CCIP et relance la confiance cross-chain",
+        "excerpt": "Solv Protocol déplace plus de 700 M$ en SolvBTC et xSolvBTC de LayerZero vers Chainlink CCIP après un audit de sécurité et de récents piratages cross-chain.",
+        "body": "Solv Protocol transfère plus de 700 millions de dollars d’actifs en bitcoin tokenisé du pont LayerZero vers le CCIP de Chainlink après un examen de sécurité et de récents piratages cross-chain. Les actifs concernés sont SolvBTC et xSolvBTC, utilisés sur les marchés DeFi et BTCfi. Cette décision suit la migration de Kelp DAO vers Chainlink après un exploit de 292 millions de dollars sur son pont basé sur LayerZero. Ensemble, les migrations de Solv et Kelp déplacent près de 1 milliard de dollars d’actifs vers CCIP. LayerZero et Kelp se renvoient la responsabilité autour d’une configuration à vérificateur unique. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "سولف تنقل 700 مليون دولار إلى Chainlink CCIP وسط اختبار ثقة الجسور",
+        "excerpt": "تنقل Solv Protocol أكثر من 700 مليون دولار من SolvBTC وxSolvBTC من جسر LayerZero إلى Chainlink CCIP بعد مراجعة أمنية واختراقات عبر السلاسل.",
+        "body": "تعتزم Solv Protocol نقل أكثر من 700 مليون دولار من أصول البيتكوين المرمزة من جسر LayerZero إلى بروتوكول CCIP التابع لـChainlink بعد مراجعة أمنية واختراقات حديثة عبر السلاسل. تشمل الأصول SolvBTC وxSolvBTC المستخدمين في أسواق DeFi وBTCfi. وتأتي الخطوة بعد انتقال Kelp DAO إلى Chainlink عقب استغلال بقيمة 292 مليون دولار في جسرها المعتمد على LayerZero. وبجمع انتقالات Solv وKelp، تتحرك أصول تقارب مليار دولار إلى CCIP. ويتبادل LayerZero وKelp المسؤولية بشأن إعداد المدقق الواحد في الجسر. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "Solv का $700M माइग्रेशन, Chainlink CCIP पर बढ़ा क्रॉस-चेन भरोसा",
+        "excerpt": "Solv Protocol सुरक्षा समीक्षा और हालिया क्रॉस-चेन हैक के बाद SolvBTC और xSolvBTC में $700 मिलियन से अधिक को LayerZero से Chainlink CCIP पर ले जा रहा है।",
+        "body": "Solv Protocol सुरक्षा समीक्षा और हालिया क्रॉस-चेन हैक के बाद $700 मिलियन से अधिक के टोकनाइज्ड बिटकॉइन एसेट्स को LayerZero ब्रिज से Chainlink के CCIP पर स्थानांतरित कर रहा है। इसमें DeFi और BTCfi बाजारों में इस्तेमाल होने वाले SolvBTC और xSolvBTC शामिल हैं। यह कदम Kelp DAO के Chainlink पर जाने के बाद आया है, जब उसके LayerZero-आधारित ब्रिज पर $292 मिलियन का exploit हुआ था। Solv और Kelp की संयुक्त माइग्रेशन से करीब $1 बिलियन के एसेट्स CCIP पर जा रहे हैं। LayerZero और Kelp ब्रिज के single-verifier सेटअप को लेकर जिम्मेदारी पर विवाद कर रहे हैं। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Solv Pindahkan $700 Juta ke Chainlink CCIP, Kepercayaan Cross-Chain Diuji",
+        "excerpt": "Solv Protocol memindahkan lebih dari $700 juta dalam SolvBTC dan xSolvBTC dari LayerZero ke Chainlink CCIP setelah tinjauan keamanan dan peretasan cross-chain terbaru.",
+        "body": "Solv Protocol akan memindahkan lebih dari $700 juta aset bitcoin tertokenisasi dari bridge LayerZero ke CCIP milik Chainlink setelah tinjauan keamanan dan peretasan cross-chain terbaru. Aset yang dipindahkan mencakup SolvBTC dan xSolvBTC, yang digunakan di pasar DeFi dan BTCfi. Keputusan ini mengikuti langkah Kelp DAO ke Chainlink setelah exploit senilai $292 juta pada bridge berbasis LayerZero miliknya. Jika digabung, migrasi Solv dan Kelp mengalihkan hampir $1 miliar aset ke CCIP. LayerZero dan Kelp masih saling menyalahkan terkait konfigurasi single-verifier pada bridge tersebut. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "70e92b4515a1",
+    "slug": "crypto-for-advisors-beneath-the-crypto-surface-649654",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T15:39:56.310Z",
+    "updatedAt": "2026-05-07T15:39:56.310Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/coindesk-indices/2026/05/06/crypto-for-advisors-beneath-the-crypto-surface",
+    "canonicalUrl": "https://www.coindesk.com/coindesk-indices/2026/05/06/crypto-for-advisors-beneath-the-crypto-surface",
+    "titleFingerprint": "bb53a9449d65dacdac73d01fa5bce333f88b7fdf",
+    "dedupKeys": [
+      "70e92b4515a119186d3bd052c37d51c5fec98ecb",
+      "bb53a9449d65dacdac73d01fa5bce333f88b7fdf",
+      "179dc0611fea2872cdb960e5ad1adc6218685b1f"
+    ],
+    "imageUrl": "/images/articles/70e92b4515a1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "크립토 자산배분, 정체장 속 자문가와 장기 투자자가 움직인다",
+        "excerpt": "시장 정체에도 자문가와 장기 투자자들은 크립토 자산군에 대한 이해와 신뢰를 높이며 지속 가능한 배분을 조용히 구축하고 있다.",
+        "body": "크립토 시장이 뚜렷한 상승 동력을 찾지 못하는 가운데, 자문가와 장기 투자자들은 이 자산군에 대한 배분을 조용히 이어가고 있다. 원문은 ‘정체된 시장 아래에서’ 이들이 내구성 있는 크립토 포트폴리오를 구축하고 있으며, 투자 편안함도 높아지고 있다고 전했다. 이는 단기 가격 흐름보다 장기적 자산배분 관점에서 크립토를 바라보는 흐름이 유지되고 있음을 보여준다. 다만 원문은 구체적 수치나 신규 상품 발표보다 투자자 태도의 변화를 강조했다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Crypto Allocations Grow as Advisors Look Beyond Stalled Markets",
+        "excerpt": "Even as the market stalls, advisors and long-term investors are quietly building durable crypto allocations and growing more comfortable with the asset class.",
+        "body": "As the crypto market struggles to find clear upward momentum, advisors and long-term investors are quietly maintaining allocations to the asset class. The original report says that, beneath the stalled market, these investors are building durable crypto portfolios and becoming more comfortable investing in crypto. The trend points to a continued focus on long-term asset allocation rather than short-term price action. The report emphasized a shift in investor attitude, rather than specific figures or new product announcements. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "暗号資産配分、停滞相場でも助言者と長期投資家が継続",
+        "excerpt": "市場が停滞するなかでも、助言者と長期投資家は暗号資産への理解と信頼を深め、持続的な配分を静かに築いている。",
+        "body": "暗号資産市場が明確な上昇材料を見いだせないなか、助言者と長期投資家はこの資産クラスへの配分を静かに続けている。原文は、停滞した市場の下で、彼らが耐久性のある暗号資産ポートフォリオを構築し、投資への安心感を高めていると伝えた。これは短期的な価格変動よりも、長期的な資産配分の観点で暗号資産を見る動きが続いていることを示す。原文は具体的な数値や新商品の発表より、投資家の姿勢の変化を強調した。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "加密资产配置升温，顾问与长期投资者穿越停滞行情",
+        "excerpt": "尽管市场停滞，顾问和长期投资者仍在提升对加密资产类别的理解与信心，并悄然建立更持久的配置。",
+        "body": "在加密市场尚未找到明确上行动力之际，顾问和长期投资者仍在悄然维持对这一资产类别的配置。原文称，在停滞市场表面之下，这些投资者正在构建更具耐久性的加密投资组合，并对投资加密资产变得更加从容。这表明，相比短期价格走势，市场中仍存在以长期资产配置视角看待加密资产的趋势。不过，原文强调的是投资者态度的变化，而非具体数据或新产品发布。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Asignación cripto avanza mientras asesores miran más allá del mercado",
+        "excerpt": "Aunque el mercado está estancado, asesores e inversores de largo plazo construyen asignaciones cripto duraderas y ganan confianza en esta clase de activo.",
+        "body": "Mientras el mercado cripto no encuentra un impulso alcista claro, asesores e inversores de largo plazo siguen manteniendo asignaciones a esta clase de activo de forma discreta. El texto original señala que, bajo la superficie de un mercado estancado, estos participantes están construyendo carteras cripto duraderas y se sienten cada vez más cómodos invirtiendo en ellas. La tendencia muestra una lectura centrada en la asignación de largo plazo, no solo en el precio de corto plazo. El artículo destacó el cambio de actitud inversora, más que cifras concretas o nuevos productos. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Alocação em cripto cresce com assessores além do mercado parado",
+        "excerpt": "Mesmo com o mercado parado, assessores e investidores de longo prazo constroem alocações cripto duráveis e ganham confiança nessa classe de ativos.",
+        "body": "Enquanto o mercado cripto não encontra um impulso claro de alta, assessores e investidores de longo prazo continuam mantendo alocações nessa classe de ativos de forma discreta. O texto original afirma que, sob a superfície de um mercado estagnado, esses investidores estão construindo carteiras cripto duráveis e se sentindo mais confortáveis para investir. Isso indica que a visão de alocação de longo prazo segue presente, acima do foco em movimentos de preço de curto prazo. O artigo destacou a mudança de postura dos investidores, não números específicos ou novos produtos. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Krypto-Allokation wächst, während Berater über den Stillstand blicken",
+        "excerpt": "Trotz stagnierendem Markt bauen Berater und langfristige Anleger robuste Krypto-Allokationen auf und gewinnen mehr Vertrauen in diese Anlageklasse.",
+        "body": "Während der Kryptomarkt keine klare Aufwärtsdynamik findet, halten Berater und langfristige Anleger still an Allokationen in dieser Anlageklasse fest. Der Originalbericht beschreibt, dass sie unter der Oberfläche des stagnierenden Marktes robuste Krypto-Portfolios aufbauen und sich mit Investitionen in Krypto zunehmend wohler fühlen. Das zeigt, dass der Blick auf langfristige Asset-Allokation wichtiger bleibt als kurzfristige Preisbewegungen. Der Bericht betonte damit vor allem den Wandel der Anlegerhaltung, nicht konkrete Zahlen oder neue Produktankündigungen. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Allocation crypto: les conseillers avancent malgré un marché bloqué",
+        "excerpt": "Malgré un marché au ralenti, conseillers et investisseurs de long terme bâtissent des allocations crypto durables et gagnent en confiance.",
+        "body": "Alors que le marché crypto peine à trouver une dynamique haussière claire, les conseillers et les investisseurs de long terme continuent discrètement d’allouer des capitaux à cette classe d’actifs. Le texte original indique que, sous la surface d’un marché bloqué, ils construisent des portefeuilles crypto durables et deviennent plus à l’aise avec cet investissement. Cette évolution montre que l’approche de long terme en matière d’allocation d’actifs reste présente, au-delà des variations de prix à court terme. L’article met surtout l’accent sur le changement d’attitude des investisseurs, sans chiffres précis ni annonce de nouveau produit. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "تخصيصات الكريبتو تتقدم مع نظر المستشارين لما وراء ركود السوق",
+        "excerpt": "رغم ركود السوق، يواصل المستشارون والمستثمرون طويلو الأجل بناء تخصيصات كريبتو متينة ويزداد ارتياحهم لهذه الفئة من الأصول.",
+        "body": "بينما لا يجد سوق الكريبتو زخما صعوديا واضحا، يواصل المستشارون والمستثمرون طويلو الأجل بهدوء الحفاظ على تخصيصات لهذه الفئة من الأصول. ويقول النص الأصلي إن ما يحدث تحت سطح السوق المتوقف هو بناء محافظ كريبتو أكثر متانة، مع ازدياد الارتياح للاستثمار في هذا المجال. ويشير ذلك إلى استمرار النظر إلى الكريبتو من زاوية تخصيص الأصول على المدى الطويل، لا من زاوية تحركات الأسعار القصيرة فقط. ولم يركز النص على أرقام محددة أو منتجات جديدة، بل على تغير موقف المستثمرين. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "क्रिप्टो आवंटन बढ़ा, ठहरे बाजार में सलाहकारों की दीर्घकालिक चाल",
+        "excerpt": "बाजार ठहरा होने के बावजूद सलाहकार और दीर्घकालिक निवेशक टिकाऊ क्रिप्टो आवंटन बना रहे हैं और इस परिसंपत्ति वर्ग को लेकर सहज हो रहे हैं।",
+        "body": "क्रिप्टो बाजार में स्पष्ट तेजी की गति न दिखने के बावजूद सलाहकार और दीर्घकालिक निवेशक इस परिसंपत्ति वर्ग में आवंटन चुपचाप बनाए हुए हैं। मूल लेख के अनुसार, ठहरे हुए बाजार की सतह के नीचे ये निवेशक टिकाऊ क्रिप्टो पोर्टफोलियो बना रहे हैं और क्रिप्टो में निवेश को लेकर अधिक सहज हो रहे हैं। यह रुझान दिखाता है कि अल्पकालिक कीमतों से अधिक, दीर्घकालिक परिसंपत्ति आवंटन के नजरिए से क्रिप्टो को देखने की प्रवृत्ति बनी हुई है। लेख ने ठोस आंकड़ों या नए उत्पादों के बजाय निवेशक रवैये में बदलाव पर जोर दिया। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Alokasi Kripto Menguat Saat Penasihat Melihat Lewat Pasar Stagnan",
+        "excerpt": "Meski pasar stagnan, penasihat dan investor jangka panjang diam-diam membangun alokasi kripto yang tahan lama dan makin nyaman dengan aset ini.",
+        "body": "Saat pasar kripto belum menemukan dorongan kenaikan yang jelas, penasihat dan investor jangka panjang tetap diam-diam mempertahankan alokasi pada kelas aset ini. Teks asli menyebut bahwa di balik permukaan pasar yang stagnan, mereka membangun portofolio kripto yang lebih tahan lama dan semakin nyaman berinvestasi di dalamnya. Hal ini menunjukkan bahwa pandangan alokasi aset jangka panjang terhadap kripto masih bertahan, melampaui fokus pada pergerakan harga jangka pendek. Artikel tersebut lebih menekankan perubahan sikap investor daripada angka spesifik atau pengumuman produk baru. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "e614faf36ceb",
+    "slug": "ripple-linked-xrp-slips-25-below-142-as-traders-watch-breako-137537",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-07T15:39:01.848Z",
+    "updatedAt": "2026-05-07T15:39:01.848Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/07/ripple-linked-xrp-slips-25-below-usd1-42-as-traders-watch-breakout",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/07/ripple-linked-xrp-slips-25-below-usd1-42-as-traders-watch-breakout",
+    "titleFingerprint": "9a97526d0902e879983701d8d096e1dcded4c184",
+    "dedupKeys": [
+      "e614faf36cebaa7c7ebc8a8f3a1eaeef50b4ca5f",
+      "9a97526d0902e879983701d8d096e1dcded4c184",
+      "16b1ddbd4c7c0f2883ecbc671593d6b20520a03b"
+    ],
+    "imageUrl": "/images/articles/e614faf36ceb.png",
+    "i18n": {
+      "ko": {
+        "title": "XRP 25% 급락, 1.42달러 아래서 돌파 구조 유지 시험",
+        "excerpt": "리플 연계 XRP가 XRPL 기반 토큰화 미 국채의 국경 간 결제 완료 소식에도 1.42달러 아래로 25% 밀리며 최근 돌파 흐름의 지속 여부가 주목된다.",
+        "body": "리플과 JPMorgan이 XRPL에서 토큰화된 미 국채의 국경 간 결제를 완료했지만, 리플 연계 토큰 XRP는 1.42달러 아래로 밀리며 약 25% 하락했다. 시장 참가자들은 이번 조정이 최근 형성된 돌파 구조를 훼손하는지, 아니면 해당 구간에서 지지를 확인하는 과정인지 주시하고 있다. 이번 거래는 XRPL을 활용한 기관형 결제 사례로 언급됐지만, 가격 흐름은 호재와 별개로 약세 압력을 받았다. 단기 관전 포인트는 XRP가 1.42달러 아래에서 매도세를 흡수하고 돌파 구간을 유지할 수 있는지다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "XRP Drops 25% Below $1.42 as Breakout Structure Faces Test",
+        "excerpt": "Ripple-linked XRP fell 25% below $1.42 even after Ripple and JPMorgan completed a cross-border tokenized Treasury settlement on XRPL.",
+        "body": "Ripple and JPMorgan completed a cross-border settlement of tokenized U.S. Treasuries on XRPL, but Ripple-linked XRP slipped below $1.42 and fell about 25%. Traders are watching whether this pullback damages the recent breakout structure or simply tests support around the move. The transaction was cited as an institutional settlement case using XRPL, yet price action remained under bearish pressure despite the development. The near-term focus is whether XRP can absorb selling below $1.42 and preserve the breakout zone. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "XRPが25％下落、1.42ドル割れでブレイク維持を試す",
+        "excerpt": "リップル関連のXRPは、RippleとJPMorganがXRPL上でトークン化米国債の越境決済を完了した後も1.42ドルを下回り25％下落した。",
+        "body": "RippleとJPMorganはXRPL上でトークン化された米国債の越境決済を完了したが、リップル関連トークンのXRPは1.42ドルを下回り、約25％下落した。市場参加者は、この調整が直近のブレイクアウト構造を損なうのか、それとも同水準での支持確認にとどまるのかを注視している。今回の取引はXRPLを使った機関投資家向け決済事例として言及された一方、価格は材料とは別に弱含みの圧力を受けた。短期的な焦点は、XRPが1.42ドル割れの水準で売りを吸収し、ブレイクアウト帯を維持できるかだ。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "XRP跌破1.42美元并回落25%，突破结构面临考验",
+        "excerpt": "尽管Ripple与JPMorgan在XRPL上完成代币化美国国债跨境结算，Ripple相关XRP仍跌破1.42美元并回落25%。",
+        "body": "Ripple与JPMorgan在XRPL上完成了代币化美国国债的跨境结算，但与Ripple相关的XRP跌破1.42美元，回落约25%。交易员正关注此次调整是否破坏近期形成的突破结构，或只是对该区域支撑的测试。这笔交易被视为使用XRPL进行机构级结算的案例，但价格走势并未因此摆脱下行压力。短期看点在于，XRP能否在1.42美元下方吸收卖压，并维持此前的突破区间。来源: coindesk.com."
+      },
+      "es": {
+        "title": "XRP cae 25% bajo 1,42 dólares y pone a prueba su ruptura",
+        "excerpt": "XRP, vinculado a Ripple, cayó 25% por debajo de 1,42 dólares pese a que Ripple y JPMorgan completaron una liquidación transfronteriza de Treasuries tokenizados en XRPL.",
+        "body": "Ripple y JPMorgan completaron en XRPL una liquidación transfronteriza de Treasuries estadounidenses tokenizados, pero XRP, vinculado a Ripple, cayó por debajo de 1,42 dólares y retrocedió cerca de 25%. Los operadores observan si esta corrección daña la estructura de ruptura reciente o si solo prueba el soporte en esa zona. La operación fue señalada como un caso de liquidación institucional con XRPL, aunque el precio siguió bajo presión bajista pese a la noticia. El foco de corto plazo es si XRP puede absorber las ventas bajo 1,42 dólares y mantener la zona de ruptura. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "XRP cai 25% abaixo de US$ 1,42 e testa estrutura de rompimento",
+        "excerpt": "O XRP ligado à Ripple caiu 25% abaixo de US$ 1,42 mesmo após Ripple e JPMorgan concluírem uma liquidação transfronteiriça de Treasuries tokenizados na XRPL.",
+        "body": "A Ripple e o JPMorgan concluíram na XRPL uma liquidação transfronteiriça de Treasuries dos EUA tokenizados, mas o XRP ligado à Ripple caiu abaixo de US$ 1,42 e recuou cerca de 25%. Operadores acompanham se essa correção compromete a estrutura recente de rompimento ou se apenas testa suporte nessa região. A operação foi citada como um caso de liquidação institucional usando a XRPL, embora o preço tenha permanecido sob pressão vendedora apesar da notícia. No curto prazo, o ponto central é saber se o XRP consegue absorver vendas abaixo de US$ 1,42 e preservar a zona de rompimento. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "XRP fällt 25% unter 1,42 Dollar, Ausbruch steht im Test",
+        "excerpt": "Der mit Ripple verbundene XRP fiel trotz einer von Ripple und JPMorgan abgeschlossenen grenzüberschreitenden Abwicklung tokenisierter Treasuries auf XRPL 25% unter 1,42 Dollar.",
+        "body": "Ripple und JPMorgan haben auf XRPL eine grenzüberschreitende Abwicklung tokenisierter US-Treasuries abgeschlossen, doch der mit Ripple verbundene XRP rutschte unter 1,42 Dollar und verlor rund 25%. Händler beobachten, ob diese Korrektur die jüngste Ausbruchsstruktur beschädigt oder lediglich die Unterstützung in diesem Bereich testet. Die Transaktion wurde als Beispiel für institutionelle Abwicklung über XRPL genannt, während der Kurs trotz dieser Entwicklung unter Verkaufsdruck blieb. Kurzfristig zählt, ob XRP unter 1,42 Dollar Verkaufsdruck aufnehmen und die Ausbruchszone halten kann. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "XRP chute de 25% sous 1,42 dollar, le breakout sous pression",
+        "excerpt": "Le XRP lié à Ripple a chuté de 25% sous 1,42 dollar malgré le règlement transfrontalier de Treasuries tokenisés réalisé par Ripple et JPMorgan sur XRPL.",
+        "body": "Ripple et JPMorgan ont réalisé sur XRPL un règlement transfrontalier de Treasuries américains tokenisés, mais le XRP lié à Ripple est passé sous 1,42 dollar et a reculé d’environ 25%. Les traders surveillent si cette correction remet en cause la structure de breakout récente ou si elle teste seulement le support de cette zone. L’opération a été citée comme un cas de règlement institutionnel utilisant XRPL, tandis que le prix est resté sous pression vendeuse malgré cette annonce. À court terme, l’enjeu est de savoir si XRP peut absorber les ventes sous 1,42 dollar et préserver sa zone de breakout. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "XRP يهبط 25% دون 1.42 دولار واختبار حاسم لاختراقه الأخير",
+        "excerpt": "هبط XRP المرتبط بريبل 25% دون 1.42 دولار رغم إتمام Ripple وJPMorgan تسوية عابرة للحدود لسندات خزانة مرمزة على XRPL.",
+        "body": "أتمت Ripple وJPMorgan تسوية عابرة للحدود لسندات خزانة أمريكية مرمزة على XRPL، لكن XRP المرتبط بريبل تراجع دون 1.42 دولار وهبط بنحو 25%. يراقب المتداولون ما إذا كان هذا التراجع يضعف هيكل الاختراق الأخير، أم أنه مجرد اختبار للدعم في تلك المنطقة. وذُكرت العملية كحالة تسوية مؤسسية باستخدام XRPL، إلا أن حركة السعر ظلت تحت ضغط بيعي رغم هذا التطور. التركيز قصير الأجل ينصب على قدرة XRP على امتصاص البيع دون 1.42 دولار والحفاظ على منطقة الاختراق. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "XRP 25% गिरकर $1.42 से नीचे, ब्रेकआउट संरचना की परीक्षा",
+        "excerpt": "Ripple से जुड़ा XRP, Ripple और JPMorgan द्वारा XRPL पर टोकनाइज्ड Treasury का सीमा-पार निपटान पूरा करने के बावजूद $1.42 से नीचे 25% फिसल गया।",
+        "body": "Ripple और JPMorgan ने XRPL पर टोकनाइज्ड अमेरिकी Treasuries का सीमा-पार निपटान पूरा किया, लेकिन Ripple से जुड़ा XRP $1.42 से नीचे फिसल गया और करीब 25% गिरा। ट्रेडर देख रहे हैं कि यह गिरावट हालिया ब्रेकआउट संरचना को कमजोर करती है या उसी क्षेत्र में समर्थन की जांच भर है। यह लेनदेन XRPL के जरिए संस्थागत निपटान के उदाहरण के रूप में सामने आया, फिर भी कीमत पर बिकवाली का दबाव बना रहा। अल्पावधि में मुख्य सवाल यह है कि क्या XRP $1.42 के नीचे बिक्री दबाव को संभालकर ब्रेकआउट क्षेत्र बनाए रख सकता है। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "XRP Turun 25% di Bawah US$1,42, Struktur Breakout Diuji",
+        "excerpt": "XRP yang terkait Ripple turun 25% di bawah US$1,42 meski Ripple dan JPMorgan menyelesaikan settlement lintas batas Treasury tokenisasi di XRPL.",
+        "body": "Ripple dan JPMorgan menyelesaikan settlement lintas batas Treasury AS yang ditokenisasi di XRPL, tetapi XRP yang terkait Ripple turun di bawah US$1,42 dan melemah sekitar 25%. Pelaku pasar memantau apakah koreksi ini merusak struktur breakout terbaru atau hanya menguji dukungan di area tersebut. Transaksi itu disebut sebagai contoh settlement institusional memakai XRPL, namun pergerakan harga tetap berada di bawah tekanan jual meski ada perkembangan tersebut. Fokus jangka pendeknya adalah apakah XRP dapat menyerap tekanan jual di bawah US$1,42 dan mempertahankan zona breakout. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "81cb44ef6eea",
     "slug": "jaredfromsubway-bot-front-runs-vitalik-buterins-4-token-swap-200457",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Agen AI Bisa Lebih Relevan dari Manusia pada 2035, Kata Hoskinson",
         "excerpt": "Pendiri dan CEO Input Output Cardano, Charles Hoskinson, mengatakan agen AI bisa lebih relevan daripada manusia pada 2035, membuat Big Tech khawatir karena mereka tidak merespons iklan seperti manusia.",
         "body": "Charles Hoskinson, pendiri dan CEO Input Output, pengembang Cardano, mengatakan agen AI dapat menjadi lebih relevan daripada manusia pada 2035. Ia menyebut Google, Amazon, dan Facebook “ketakutan” menghadapi perubahan ini. Latar belakangnya adalah ekonomi internet yang bertumpu pada iklan. Menurut Hoskinson, agen AI tidak akan berperilaku seperti manusia saat berhadapan dengan iklan. Hal ini dapat memengaruhi model iklan yang ada, yang dibangun di atas perhatian dan klik pengguna. Seiring meningkatnya peran agen AI, platform Big Tech mungkin perlu meninjau ulang strategi periklanan mereka. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "b5e184250053",
-    "slug": "wall-streets-clearinghouse-seeks-high-performance-blockchain-527436",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T22:36:16.528Z",
-    "updatedAt": "2026-05-06T22:36:16.528Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/06/wall-street-s-clearinghouse-seeks-high-performance-blockchains-to-tokenize-corporate-actions",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/wall-street-s-clearinghouse-seeks-high-performance-blockchains-to-tokenize-corporate-actions",
-    "titleFingerprint": "e6b418389dd8162cb99d0ac773318561c480a6b3",
-    "dedupKeys": [
-      "b5e1842500538ce0734315e864719b73dbda43a1",
-      "e6b418389dd8162cb99d0ac773318561c480a6b3",
-      "267b093e658359ea4f023481f9a6909227c9fd3a"
-    ],
-    "imageUrl": "/images/articles/b5e184250053.jpg",
-    "i18n": {
-      "ko": {
-        "title": "DTCC, 기업행위 토큰화 위해 고성능 레이어1 블록체인 모색",
-        "excerpt": "DTCC의 프랭크 라 살라 CEO는 배당 지급 등 수백만 건의 기업행위를 온체인으로 옮기기 위해 레이어1 블록체인들과 협력 중이라고 밝혔다.",
-        "body": "월가의 핵심 청산기관인 DTCC가 기업행위 토큰화를 위해 고성능 레이어1 블록체인 활용을 모색하고 있다. 프랭크 라 살라 DTCC CEO는 배당 지급 같은 수백만 건의 기업행위를 온체인으로 가져오기 위해 여러 레이어1 블록체인과 협력하고 있다고 말했다. 기업행위는 증권 시장 인프라에서 반복적으로 처리되는 핵심 절차로, 토큰화가 실제 업무에 적용되려면 대규모 처리 성능과 안정성이 중요하다. 다만 라 살라는 아직 해결해야 할 과제가 남아 있다고 설명했다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "DTCC Eyes High-Performance Layer-1 Chains for Corporate Actions",
-        "excerpt": "DTCC CEO Frank La Salla said the clearing giant is working with layer-1 blockchains to bring millions of corporate actions, including dividends, onchain.",
-        "body": "DTCC, a key Wall Street clearinghouse, is exploring high-performance layer-1 blockchains to tokenize corporate actions. CEO Frank La Salla said the clearing giant is working with several layer-1 blockchains to bring millions of corporate actions, such as dividend payments, onchain. Corporate actions are recurring core processes in securities market infrastructure, and large-scale performance and reliability are important if tokenization is to be used in real operations. La Salla also noted that challenges remain before that can be achieved. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "DTCC、企業行為のトークン化へ高性能レイヤー1を模索",
-        "excerpt": "DTCCのフランク・ラ・サラCEOは、配当支払いなど数百万件の企業行為をオンチェーン化するため、レイヤー1ブロックチェーンと協力していると述べた。",
-        "body": "ウォール街の主要清算機関であるDTCCは、企業行為のトークン化に向けて高性能なレイヤー1ブロックチェーンの活用を模索している。フランク・ラ・サラCEOは、配当支払いのような数百万件の企業行為をオンチェーンに移すため、複数のレイヤー1ブロックチェーンと協力していると語った。企業行為は証券市場インフラで繰り返し処理される中核的な手続きであり、トークン化を実務に適用するには大規模な処理性能と信頼性が重要になる。ただし、ラ・サラ氏はなお解決すべき課題が残っているとも説明した。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "DTCC寻求高性能Layer1链，推进企业行动代币化",
-        "excerpt": "DTCC首席执行官Frank La Salla表示，这家清算巨头正与Layer1区块链合作，将股息支付等数百万项企业行动搬上链。",
-        "body": "华尔街核心清算机构DTCC正探索使用高性能Layer1区块链来推动企业行动代币化。DTCC首席执行官Frank La Salla表示，该清算巨头正在与多个Layer1区块链合作，试图将股息支付等数百万项企业行动带到链上。企业行动是证券市场基础设施中反复处理的关键流程，如果代币化要用于实际业务，大规模处理能力和稳定性至关重要。不过，La Salla也指出，目前仍有一些挑战需要解决。来源: coindesk.com"
-      },
-      "es": {
-        "title": "DTCC busca blockchains Layer 1 de alto rendimiento para acciones corporativas",
-        "excerpt": "Frank La Salla, CEO de DTCC, dijo que la cámara de compensación trabaja con blockchains Layer 1 para llevar millones de acciones corporativas, como dividendos, onchain.",
-        "body": "DTCC, una cámara de compensación clave de Wall Street, está explorando blockchains Layer 1 de alto rendimiento para tokenizar acciones corporativas. Su CEO, Frank La Salla, dijo que la entidad trabaja con varias blockchains Layer 1 para llevar onchain millones de acciones corporativas, como pagos de dividendos. Estas acciones son procesos centrales y recurrentes dentro de la infraestructura del mercado de valores, por lo que el rendimiento a gran escala y la fiabilidad son importantes para aplicar la tokenización en operaciones reales. Aun así, La Salla señaló que todavía quedan desafíos por resolver. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "DTCC mira blockchains Layer 1 de alto desempenho para ações corporativas",
-        "excerpt": "Frank La Salla, CEO da DTCC, disse que a câmara de compensação trabalha com blockchains Layer 1 para levar milhões de ações corporativas, como dividendos, onchain.",
-        "body": "A DTCC, uma importante câmara de compensação de Wall Street, está explorando blockchains Layer 1 de alto desempenho para tokenizar ações corporativas. O CEO Frank La Salla disse que a instituição trabalha com várias blockchains Layer 1 para levar onchain milhões de ações corporativas, como pagamentos de dividendos. Essas ações são processos centrais e recorrentes na infraestrutura do mercado de valores, e desempenho em grande escala e confiabilidade são importantes para que a tokenização seja aplicada em operações reais. Ainda assim, La Salla afirmou que desafios permanecem. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "DTCC sucht leistungsstarke Layer-1-Blockchains für Corporate Actions",
-        "excerpt": "DTCC-CEO Frank La Salla sagte, die Clearingstelle arbeite mit Layer-1-Blockchains daran, Millionen von Corporate Actions wie Dividendenzahlungen onchain zu bringen.",
-        "body": "DTCC, eine zentrale Clearingstelle der Wall Street, prüft leistungsstarke Layer-1-Blockchains für die Tokenisierung von Corporate Actions. CEO Frank La Salla sagte, das Unternehmen arbeite mit mehreren Layer-1-Blockchains zusammen, um Millionen von Corporate Actions, etwa Dividendenzahlungen, onchain abzuwickeln. Corporate Actions sind wiederkehrende Kernprozesse der Wertpapiermarkt-Infrastruktur; damit Tokenisierung im realen Betrieb eingesetzt werden kann, sind hohe Verarbeitungskapazität und Zuverlässigkeit wichtig. La Salla erklärte jedoch auch, dass weiterhin Herausforderungen bestehen. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "DTCC vise des blockchains Layer 1 performantes pour les opérations sur titres",
-        "excerpt": "Frank La Salla, CEO de DTCC, a déclaré que la chambre de compensation travaille avec des blockchains Layer 1 pour porter onchain des millions d’opérations sur titres, dont les dividendes.",
-        "body": "DTCC, chambre de compensation majeure de Wall Street, explore des blockchains Layer 1 à haute performance pour tokeniser les opérations sur titres. Son CEO, Frank La Salla, a indiqué que l’entreprise travaille avec plusieurs blockchains Layer 1 afin de porter onchain des millions d’opérations, comme les paiements de dividendes. Ces opérations sont des processus récurrents au cœur de l’infrastructure des marchés de titres; pour appliquer la tokenisation aux activités réelles, la capacité de traitement à grande échelle et la fiabilité sont essentielles. La Salla a toutefois précisé que des défis restent à résoudre. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "DTCC تبحث عن شبكات Layer 1 عالية الأداء لترميز إجراءات الشركات",
-        "excerpt": "قال فرانك لا سالا، الرئيس التنفيذي لـDTCC، إن غرفة المقاصة تعمل مع شبكات Layer 1 لنقل ملايين إجراءات الشركات، مثل توزيعات الأرباح، إلى البلوكشين.",
-        "body": "تستكشف DTCC، وهي غرفة مقاصة رئيسية في وول ستريت، استخدام شبكات بلوكشين Layer 1 عالية الأداء لترميز إجراءات الشركات. وقال الرئيس التنفيذي فرانك لا سالا إن المؤسسة تعمل مع عدة شبكات Layer 1 لنقل ملايين إجراءات الشركات، مثل مدفوعات توزيعات الأرباح، إلى البلوكشين. وتعد إجراءات الشركات عمليات أساسية ومتكررة في بنية أسواق الأوراق المالية، لذلك فإن القدرة على المعالجة واسعة النطاق والموثوقية مهمتان إذا أريد للتوكنة أن تدخل العمليات الفعلية. ومع ذلك، أوضح لا سالا أن تحديات ما زالت قائمة. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "DTCC कॉरपोरेट एक्शंस के लिए हाई-परफॉर्मेंस Layer 1 चेन तलाश रहा",
-        "excerpt": "DTCC के CEO फ्रैंक ला साला ने कहा कि क्लियरिंग दिग्गज डिविडेंड भुगतान जैसे लाखों कॉरपोरेट एक्शंस को ऑनचेन लाने के लिए Layer 1 ब्लॉकचेन के साथ काम कर रहा है।",
-        "body": "वॉल स्ट्रीट की प्रमुख क्लियरिंग संस्था DTCC कॉरपोरेट एक्शंस को टोकनाइज़ करने के लिए हाई-परफॉर्मेंस Layer 1 ब्लॉकचेन का उपयोग तलाश रही है। CEO फ्रैंक ला साला ने कहा कि संस्था डिविडेंड भुगतान जैसे लाखों कॉरपोरेट एक्शंस को ऑनचेन लाने के लिए कई Layer 1 ब्लॉकचेन के साथ काम कर रही है। कॉरपोरेट एक्शंस सिक्योरिटीज मार्केट इन्फ्रास्ट्रक्चर में बार-बार संसाधित होने वाली मुख्य प्रक्रियाएं हैं, इसलिए वास्तविक संचालन में टोकनाइजेशन लागू करने के लिए बड़े पैमाने की प्रोसेसिंग क्षमता और विश्वसनीयता महत्वपूर्ण हैं। ला साला ने यह भी कहा कि चुनौतियां अभी बाकी हैं। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "DTCC Incar Layer 1 Berperforma Tinggi untuk Tokenisasi Aksi Korporasi",
-        "excerpt": "CEO DTCC Frank La Salla mengatakan raksasa kliring itu bekerja dengan blockchain Layer 1 untuk membawa jutaan aksi korporasi, termasuk pembayaran dividen, ke onchain.",
-        "body": "DTCC, lembaga kliring utama Wall Street, sedang menjajaki blockchain Layer 1 berperforma tinggi untuk menokenisasi aksi korporasi. CEO Frank La Salla mengatakan raksasa kliring itu bekerja dengan beberapa blockchain Layer 1 untuk membawa jutaan aksi korporasi, seperti pembayaran dividen, ke onchain. Aksi korporasi merupakan proses inti yang berulang dalam infrastruktur pasar sekuritas, sehingga kinerja skala besar dan keandalan penting jika tokenisasi ingin diterapkan dalam operasi nyata. Namun, La Salla juga menyebut masih ada tantangan yang perlu diselesaikan. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "3b61f7d8bcf5",
-    "slug": "nasdaqs-president-says-the-secs-new-crypto-stance-is-letting-662573",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T22:35:25.433Z",
-    "updatedAt": "2026-05-06T22:35:25.433Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/policy/2026/05/06/nasdaq-s-president-says-the-sec-s-new-crypto-stance-is-letting-markets-build-again",
-    "canonicalUrl": "https://www.coindesk.com/policy/2026/05/06/nasdaq-s-president-says-the-sec-s-new-crypto-stance-is-letting-markets-build-again",
-    "titleFingerprint": "ba2ac8fbc3720500a43be306bc6826c98e351ccf",
-    "dedupKeys": [
-      "3b61f7d8bcf515c9b10c1bb8dbfaf8fe6aaf20eb",
-      "ba2ac8fbc3720500a43be306bc6826c98e351ccf",
-      "02c998247ba07e392a846f5685d0bf12fa8d91f0"
-    ],
-    "imageUrl": "/images/articles/3b61f7d8bcf5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "SEC 친화적 암호화폐 기조에 나스닥 사장 “시장, 다시 구축 중”",
-        "excerpt": "나스닥 사장 탈 코언은 최근 SEC의 더 우호적인 암호화폐 기조가 기업과 거래소에 토큰화와 디지털 시장 인프라를 실험할 여지를 주고 있다고 밝혔다.",
-        "body": "나스닥 사장 탈 코언은 최근 미국 증권거래위원회(SEC)의 암호화폐에 대한 더 우호적인 태도가 시장이 다시 ‘구축’할 수 있는 환경을 만들고 있다고 말했다. 코언에 따르면 이 변화는 암호화폐 기업과 거래소가 토큰화 및 디지털 시장 인프라를 시험할 공간을 넓히고 있다. 배경에는 규제 당국의 기조 변화가 시장 참여자의 실험 가능성을 좌우한다는 점이 있다. 구체적 수치나 개별 프로젝트명은 제시되지 않았지만, 발언의 초점은 제도권 거래소와 디지털 자산 기업이 새 시장 구조를 탐색할 여지가 커졌다는 데 있다. 향후 영향은 토큰화와 시장 인프라 실험의 확대 여부에 달려 있다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "SEC Crypto Shift Lets Nasdaq See Markets ‘Build’ Again, President Says",
-        "excerpt": "Nasdaq President Tal Cohen said the SEC’s friendlier crypto stance is giving firms and exchanges room to experiment with tokenization and digital market infrastructure.",
-        "body": "Nasdaq President Tal Cohen said the U.S. Securities and Exchange Commission’s friendlier approach to crypto is creating room for markets to “build” again. According to Cohen, the shift gives crypto companies and exchanges more space to experiment with tokenization and digital market infrastructure. The context is that regulatory posture can shape how much market participants are able to test new structures. No specific figures or individual project names were provided, but the focus of the remarks was that established exchanges and digital asset firms may now have more room to explore new market systems. The outlook depends on whether tokenization and market infrastructure experiments expand from here. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "SECの暗号資産姿勢転換でナスダック社長「市場は再び構築へ」",
-        "excerpt": "ナスダック社長タル・コーエン氏は、SECのより友好的な暗号資産姿勢が企業や取引所にトークン化とデジタル市場インフラを試す余地を与えていると述べた。",
-        "body": "ナスダック社長のタル・コーエン氏は、米証券取引委員会（SEC）の暗号資産に対するより友好的な姿勢が、市場が再び「構築」できる環境を生んでいると述べた。コーエン氏によると、この変化は暗号資産企業や取引所がトークン化とデジタル市場インフラを実験する余地を広げている。背景には、規制当局の姿勢が市場参加者の実験可能性を左右するという点がある。具体的な数値や個別プロジェクト名は示されていないが、発言の焦点は、既存の取引所とデジタル資産企業が新たな市場構造を探る余地が大きくなったことにある。今後の影響は、トークン化と市場インフラの実験が拡大するかにかかっている。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "SEC加密立场转向友好，纳斯达克总裁称市场正重新建设",
-        "excerpt": "纳斯达克总裁Tal Cohen表示，SEC对加密货币更友好的立场，正为企业和交易所试验代币化与数字市场基础设施提供空间。",
-        "body": "纳斯达克总裁Tal Cohen表示，美国证券交易委员会（SEC）对加密货币采取更友好的态度，正在为市场重新“建设”创造环境。按照Cohen的说法，这一变化让加密企业和交易所有更多空间试验代币化和数字市场基础设施。其背景在于，监管机构的立场会影响市场参与者测试新结构的可能性。报道未提供具体数据或单个项目名称，但这番表态的重点是，传统交易所和数字资产企业探索新市场结构的余地正在扩大。后续影响将取决于代币化和市场基础设施试验是否继续扩大。来源: coindesk.com."
-      },
-      "es": {
-        "title": "Giro cripto de la SEC permite a Nasdaq ver mercados que vuelven a ‘construir’",
-        "excerpt": "Tal Cohen, presidente de Nasdaq, dijo que una SEC más favorable al cripto da a empresas y bolsas margen para experimentar con tokenización e infraestructura digital de mercado.",
-        "body": "Tal Cohen, presidente de Nasdaq, dijo que el enfoque más favorable de la Comisión de Bolsa y Valores de EE. UU. (SEC) hacia las criptomonedas está creando espacio para que los mercados vuelvan a “construir”. Según Cohen, el cambio da a las empresas cripto y a las bolsas más margen para experimentar con tokenización e infraestructura digital de mercado. El contexto es que la postura regulatoria puede condicionar cuánto pueden probar los participantes nuevas estructuras. No se ofrecieron cifras concretas ni nombres de proyectos, pero el foco de sus comentarios fue que las bolsas establecidas y las firmas de activos digitales tienen más espacio para explorar nuevos sistemas de mercado. El impacto dependerá de si estos experimentos se amplían. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Virada cripto da SEC faz Nasdaq ver mercados voltando a ‘construir’",
-        "excerpt": "Tal Cohen, presidente da Nasdaq, disse que uma SEC mais favorável às criptomoedas dá a empresas e bolsas espaço para testar tokenização e infraestrutura digital de mercado.",
-        "body": "Tal Cohen, presidente da Nasdaq, disse que a postura mais favorável da Comissão de Valores Mobiliários dos EUA (SEC) em relação às criptomoedas está criando espaço para os mercados voltarem a “construir”. Segundo Cohen, a mudança dá a empresas cripto e bolsas mais margem para experimentar tokenização e infraestrutura digital de mercado. O contexto é que a posição regulatória pode determinar quanto os participantes conseguem testar novas estruturas. Não foram apresentados números específicos nem nomes de projetos, mas o foco das declarações foi que bolsas tradicionais e empresas de ativos digitais têm mais espaço para explorar novos sistemas de mercado. O impacto dependerá da expansão desses testes. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "SEC-Kryptokurs lässt Nasdaq-Präsident Märkte wieder ‘bauen’ sehen",
-        "excerpt": "Nasdaq-Präsident Tal Cohen sagte, die freundlichere Krypto-Haltung der SEC gebe Firmen und Börsen Raum, Tokenisierung und digitale Marktinfrastruktur zu erproben.",
-        "body": "Nasdaq-Präsident Tal Cohen sagte, die freundlichere Haltung der US-Börsenaufsicht SEC gegenüber Kryptowerten schaffe Raum dafür, dass Märkte wieder “bauen” können. Cohen zufolge gibt dieser Wandel Kryptounternehmen und Börsen mehr Spielraum, Tokenisierung und digitale Marktinfrastruktur zu erproben. Der Hintergrund ist, dass die regulatorische Haltung beeinflusst, wie weit Marktteilnehmer neue Strukturen testen können. Konkrete Zahlen oder einzelne Projektnamen wurden nicht genannt. Im Mittelpunkt der Aussage stand jedoch, dass etablierte Börsen und Digital-Asset-Unternehmen mehr Möglichkeiten haben, neue Marktstrukturen zu erkunden. Die weitere Wirkung hängt davon ab, ob sich Experimente mit Tokenisierung und Marktinfrastruktur ausweiten. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Le virage crypto de la SEC laisse Nasdaq voir les marchés ‘bâtir’ à nouveau",
-        "excerpt": "Tal Cohen, président de Nasdaq, a déclaré que l’attitude plus favorable de la SEC envers les cryptos donne aux entreprises et aux bourses de la place pour tester tokenisation et infrastructure numérique.",
-        "body": "Tal Cohen, président de Nasdaq, a déclaré que l’approche plus favorable de la Securities and Exchange Commission (SEC) américaine envers les cryptoactifs crée un espace permettant aux marchés de “bâtir” à nouveau. Selon Cohen, ce changement donne aux entreprises crypto et aux bourses davantage de marge pour expérimenter la tokenisation et l’infrastructure numérique de marché. Le contexte est que la posture réglementaire peut déterminer la capacité des acteurs à tester de nouvelles structures. Aucun chiffre précis ni nom de projet n’a été fourni, mais les propos soulignent que les bourses établies et les sociétés d’actifs numériques disposent de plus d’espace pour explorer de nouveaux systèmes de marché. L’impact dépendra de l’ampleur de ces essais. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "تحول SEC الودي تجاه الكريبتو يدفع ناسداك لرؤية الأسواق تبني من جديد",
-        "excerpt": "قال تال كوهين، رئيس ناسداك، إن موقف SEC الأكثر ودية تجاه العملات المشفرة يمنح الشركات والبورصات مساحة لتجربة الترميز وبنية الأسواق الرقمية.",
-        "body": "قال تال كوهين، رئيس ناسداك، إن النهج الأكثر ودية من هيئة الأوراق المالية والبورصات الأمريكية SEC تجاه العملات المشفرة يخلق بيئة تتيح للأسواق أن “تبني” من جديد. وبحسب كوهين، فإن هذا التحول يمنح شركات الكريبتو والبورصات مساحة أوسع لتجربة الترميز وبنية الأسواق الرقمية. وتكمن الخلفية في أن موقف الجهات التنظيمية يؤثر في قدرة المشاركين في السوق على اختبار هياكل جديدة. لم تُعرض أرقام محددة أو أسماء مشاريع بعينها، لكن محور التصريحات كان أن البورصات القائمة وشركات الأصول الرقمية بات لديها مجال أكبر لاستكشاف أنظمة سوق جديدة. وسيتوقف الأثر المقبل على مدى توسع تجارب الترميز وبنية السوق. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "SEC के नरम क्रिप्टो रुख से Nasdaq को बाजार फिर ‘बनते’ दिखे",
-        "excerpt": "Nasdaq के अध्यक्ष Tal Cohen ने कहा कि SEC का अधिक अनुकूल क्रिप्टो रुख कंपनियों और एक्सचेंजों को टोकनाइजेशन व डिजिटल बाजार ढांचे पर प्रयोग की जगह दे रहा है।",
-        "body": "Nasdaq के अध्यक्ष Tal Cohen ने कहा कि अमेरिकी Securities and Exchange Commission (SEC) का क्रिप्टो के प्रति अधिक अनुकूल रुख बाजारों को फिर से “बनाने” की जगह दे रहा है। Cohen के अनुसार, यह बदलाव क्रिप्टो कंपनियों और एक्सचेंजों को टोकनाइजेशन और डिजिटल मार्केट इन्फ्रास्ट्रक्चर पर प्रयोग करने की अधिक गुंजाइश देता है। इसका संदर्भ यह है कि नियामकीय रुख तय कर सकता है कि बाजार प्रतिभागी नई संरचनाओं को कितना परख सकते हैं। कोई विशिष्ट आंकड़ा या अलग परियोजना नाम नहीं दिया गया, लेकिन बयान का केंद्र यह था कि स्थापित एक्सचेंज और डिजिटल एसेट कंपनियां नए बाजार सिस्टम तलाशने के लिए अधिक जगह पा रही हैं। आगे का प्रभाव इन प्रयोगों के विस्तार पर निर्भर करेगा। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Sikap Kripto SEC Lebih Ramah, Presiden Nasdaq: Pasar Bisa ‘Membangun’ Lagi",
-        "excerpt": "Presiden Nasdaq Tal Cohen mengatakan sikap SEC yang lebih ramah terhadap kripto memberi perusahaan dan bursa ruang untuk menguji tokenisasi serta infrastruktur pasar digital.",
-        "body": "Presiden Nasdaq Tal Cohen mengatakan pendekatan Komisi Sekuritas dan Bursa AS (SEC) yang lebih ramah terhadap kripto menciptakan ruang bagi pasar untuk “membangun” lagi. Menurut Cohen, perubahan ini memberi perusahaan kripto dan bursa lebih banyak ruang untuk bereksperimen dengan tokenisasi dan infrastruktur pasar digital. Latar belakangnya, sikap regulator dapat memengaruhi sejauh mana pelaku pasar bisa menguji struktur baru. Tidak ada angka khusus atau nama proyek individual yang disampaikan, tetapi fokus pernyataan tersebut adalah bahwa bursa mapan dan perusahaan aset digital kini memiliki ruang lebih besar untuk mengeksplorasi sistem pasar baru. Dampaknya akan bergantung pada apakah eksperimen tokenisasi dan infrastruktur pasar terus meluas. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "3ebbc6c9d13c",
-    "slug": "grant-cardone-says-bitcoin-real-estate-strategy-could-outper-869429",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-06T22:34:27.495Z",
-    "updatedAt": "2026-05-06T22:34:27.495Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury",
-    "titleFingerprint": "76034f9a01d072ac6af96b4d0a9abd79f622db00",
-    "dedupKeys": [
-      "3ebbc6c9d13c75c5e1c78444e2a5c0449d8f4f25",
-      "76034f9a01d072ac6af96b4d0a9abd79f622db00",
-      "31ffc3df1f444451aa7edb087e5c3ade589a669c"
-    ],
-    "imageUrl": "/images/articles/3ebbc6c9d13c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인·부동산 전략, 리츠 앞설까…그랜트 카돈 BTC 추가",
-        "excerpt": "부동산 투자자 그랜트 카돈은 비트코인과 부동산을 결합한 전략이 리츠보다 나은 성과를 낼 수 있다며, 자사 트레저리에 BTC를 추가했다고 밝혔다.",
-        "body": "부동산 거물 그랜트 카돈은 비트코인과 부동산을 결합한 하이브리드 전략이 전통 리츠(REITs)보다 더 나은 성과를 낼 수 있다고 밝혔다. 그는 이 모델이 부동산 투자 구조에 암호화폐를 접목해 새로운 이용자를 크립토 시장으로 끌어들이고, 기존 부동산 투자 방식에도 도전한다고 설명했다. 카돈은 또한 자사 트레저리에 비트코인을 추가했다고 밝혔다. 이번 발언은 부동산 자산과 디지털 자산을 함께 활용하려는 전략이 기존 리츠 중심 구조와 비교될 수 있음을 보여준다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Bitcoin Real Estate Strategy Could Beat REITs, Says Grant Cardone",
-        "excerpt": "Real estate investor Grant Cardone said a bitcoin-real estate strategy could outperform REITs and confirmed he added more BTC to his company treasury.",
-        "body": "Real estate mogul Grant Cardone said a hybrid strategy combining bitcoin and real estate could outperform traditional REITs. He described the model as a way to connect crypto with real estate investing, bring new users into the crypto market, and challenge existing real estate investment structures. Cardone also said he added more bitcoin to his company treasury. The comments highlight how strategies linking property assets with digital assets are being positioned against the traditional REIT model. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "ビットコイン不動産戦略、REIT超えも　グラント・カードン氏",
-        "excerpt": "不動産投資家グラント・カードン氏は、ビットコインと不動産を組み合わせた戦略がREITを上回る可能性があると述べ、BTC追加も明かした。",
-        "body": "不動産業界の有力投資家グラント・カードン氏は、ビットコインと不動産を組み合わせたハイブリッド戦略が、従来のREITを上回る成果を出す可能性があると述べた。同氏は、このモデルが不動産投資の仕組みに暗号資産を取り込み、新たな利用者をクリプト市場へ呼び込み、既存の不動産投資構造にも挑戦すると説明した。カードン氏はまた、自社のトレジャリーにビットコインを追加したことも明らかにした。不動産資産とデジタル資産を組み合わせる戦略が、REIT中心の従来モデルと比較されている。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "比特币房地产策略或跑赢REITs，Grant Cardone再增持BTC",
-        "excerpt": "房地产投资人Grant Cardone表示，比特币与房地产结合的策略可能优于REITs，并称已向公司财库追加比特币。",
-        "body": "房地产大亨Grant Cardone表示，将比特币与房地产结合的混合策略，可能比传统REITs取得更好表现。他称，这一模式把加密资产引入房地产投资结构，能够为加密市场带来新用户，并对现有房地产投资方式形成挑战。Cardone还表示，他已向公司财库追加比特币。该表态显示，结合房地产资产与数字资产的策略，正被拿来与以REITs为核心的传统结构进行比较。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Bitcoin y bienes raíces podrían superar a los REITs, dice Cardone",
-        "excerpt": "El inversor inmobiliario Grant Cardone dijo que combinar bitcoin y bienes raíces podría superar a los REITs y añadió más BTC a la tesorería de su firma.",
-        "body": "El magnate inmobiliario Grant Cardone dijo que una estrategia híbrida que combina bitcoin y bienes raíces podría rendir más que los REITs tradicionales. Según explicó, el modelo integra cripto en las estructuras de inversión inmobiliaria, atrae nuevos usuarios al mercado cripto y desafía los formatos tradicionales del sector. Cardone también afirmó que añadió más bitcoin a la tesorería de su compañía. Sus comentarios muestran cómo las estrategias que unen activos inmobiliarios y digitales se comparan con el modelo centrado en REITs. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Bitcoin e imóveis podem superar REITs, afirma Grant Cardone",
-        "excerpt": "O investidor imobiliário Grant Cardone disse que uma estratégia com bitcoin e imóveis pode superar REITs e confirmou mais BTC na tesouraria da empresa.",
-        "body": "O magnata do setor imobiliário Grant Cardone afirmou que uma estratégia híbrida que combina bitcoin e imóveis pode ter desempenho melhor que REITs tradicionais. Ele disse que o modelo leva cripto para estruturas de investimento imobiliário, atrai novos usuários para o mercado cripto e desafia formatos tradicionais do setor. Cardone também afirmou que adicionou mais bitcoin à tesouraria de sua empresa. A fala mostra como estratégias que unem ativos imobiliários e digitais passam a ser comparadas ao modelo baseado em REITs. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Bitcoin-Immobilien-Strategie könnte REITs schlagen, sagt Cardone",
-        "excerpt": "Immobilieninvestor Grant Cardone sagte, eine Strategie aus Bitcoin und Immobilien könne REITs übertreffen, und fügte seiner Firmenkasse mehr BTC hinzu.",
-        "body": "Der Immobilienunternehmer Grant Cardone sagte, eine hybride Strategie aus Bitcoin und Immobilien könne traditionelle REITs übertreffen. Er erklärte, das Modell verbinde Krypto mit Immobilieninvestitionen, bringe neue Nutzer in den Kryptomarkt und stelle bestehende Immobilienstrukturen infrage. Cardone sagte außerdem, er habe der Treasury seines Unternehmens weitere Bitcoin hinzugefügt. Die Aussagen zeigen, wie Strategien, die Immobilienwerte und digitale Vermögenswerte verbinden, dem klassischen REIT-Modell gegenübergestellt werden. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Bitcoin et immobilier pourraient battre les REITs, selon Cardone",
-        "excerpt": "L’investisseur immobilier Grant Cardone estime qu’une stratégie mêlant bitcoin et immobilier pourrait dépasser les REITs, avec plus de BTC en trésorerie.",
-        "body": "Le magnat de l’immobilier Grant Cardone a déclaré qu’une stratégie hybride combinant bitcoin et immobilier pourrait faire mieux que les REITs traditionnels. Selon lui, ce modèle intègre la crypto aux structures d’investissement immobilier, attire de nouveaux utilisateurs vers le marché crypto et remet en cause les formats classiques du secteur. Cardone a aussi indiqué avoir ajouté davantage de bitcoin à la trésorerie de son entreprise. Ces propos montrent que les stratégies mêlant actifs immobiliers et numériques sont comparées au modèle des REITs. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "استراتيجية بيتكوين والعقارات قد تتفوق على REITs بحسب كاردون",
-        "excerpt": "قال المستثمر العقاري غرانت كاردون إن الجمع بين بيتكوين والعقارات قد يتفوق على REITs، مؤكدا إضافة مزيد من BTC إلى خزينة شركته.",
-        "body": "قال قطب العقارات غرانت كاردون إن استراتيجية هجينة تجمع بين بيتكوين والعقارات قد تحقق أداء أفضل من صناديق الاستثمار العقاري التقليدية REITs. وأوضح أن هذا النموذج يربط الاستثمار العقاري بالأصول المشفرة، ويجذب مستخدمين جددا إلى سوق الكريبتو، كما يتحدى الهياكل التقليدية للاستثمار العقاري. وقال كاردون أيضا إنه أضاف مزيدا من بيتكوين إلى خزينة شركته. وتبرز تصريحاته كيف يجري وضع الاستراتيجيات التي تجمع الأصول العقارية والرقمية في مقارنة مع نموذج REITs التقليدي. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Bitcoin-Real Estate रणनीति REITs से आगे निकल सकती है: Cardone",
-        "excerpt": "रियल एस्टेट निवेशक Grant Cardone ने कहा कि bitcoin और रियल एस्टेट का मॉडल REITs से बेहतर प्रदर्शन कर सकता है और कंपनी ट्रेजरी में BTC जोड़ा गया है।",
-        "body": "रियल एस्टेट दिग्गज Grant Cardone ने कहा कि bitcoin और रियल एस्टेट को जोड़ने वाली हाइब्रिड रणनीति पारंपरिक REITs से बेहतर प्रदर्शन कर सकती है। उनके अनुसार, यह मॉडल रियल एस्टेट निवेश संरचना में क्रिप्टो को जोड़ता है, नए उपयोगकर्ताओं को क्रिप्टो बाजार में लाता है और मौजूदा रियल एस्टेट ढांचों को चुनौती देता है। Cardone ने यह भी कहा कि उन्होंने अपनी कंपनी की ट्रेजरी में और bitcoin जोड़ा है। यह बयान दिखाता है कि संपत्ति और डिजिटल एसेट को साथ रखने वाली रणनीतियों की तुलना अब REITs मॉडल से की जा रही है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Strategi Bitcoin-Real Estat Bisa Kalahkan REITs, Kata Cardone",
-        "excerpt": "Investor real estat Grant Cardone mengatakan strategi bitcoin dan properti bisa mengungguli REITs, sambil menambah lebih banyak BTC ke treasury perusahaannya.",
-        "body": "Tokoh real estat Grant Cardone mengatakan strategi hibrida yang menggabungkan bitcoin dan real estat dapat berkinerja lebih baik daripada REITs tradisional. Ia menjelaskan bahwa model ini memasukkan kripto ke struktur investasi properti, membawa pengguna baru ke pasar kripto, dan menantang pola investasi real estat yang sudah ada. Cardone juga mengatakan telah menambahkan lebih banyak bitcoin ke treasury perusahaannya. Pernyataan ini menunjukkan bahwa strategi yang menggabungkan aset properti dan aset digital mulai dibandingkan dengan model REITs. Sumber: coindesk.com"
       }
     }
   }

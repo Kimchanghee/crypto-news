@@ -1,0 +1,75 @@
+{
+  "id": "f1a53de7d71a",
+  "slug": "the-700-million-migration-why-solv-protocol-is-ditching-laye-634415",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-07T15:40:52.888Z",
+  "updatedAt": "2026-05-07T15:40:52.888Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/business/2026/05/07/solv-drops-layerzero-for-chainlink-ccip-in-usd700-million-tokenized-bitcoin-migration",
+  "canonicalUrl": "https://www.coindesk.com/business/2026/05/07/solv-drops-layerzero-for-chainlink-ccip-in-usd700-million-tokenized-bitcoin-migration",
+  "titleFingerprint": "c443893d2676e3584626461a4ce04b82ea0df19f",
+  "dedupKeys": [
+    "f1a53de7d71a56e3945fcc44ac831257a0778a06",
+    "c443893d2676e3584626461a4ce04b82ea0df19f",
+    "90712710ff2ffefe2869724b82e05126e7c7ea64"
+  ],
+  "imageUrl": "/images/articles/f1a53de7d71a.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Solv 7억달러 이전, Chainlink CCIP로 향한 크로스체인 신뢰 경쟁",
+      "excerpt": "Solv Protocol은 보안 검토와 최근 크로스체인 해킹 이후 SolvBTC·xSolvBTC 7억달러 이상을 LayerZero 브리지에서 Chainlink CCIP로 이전한다.",
+      "body": "Solv Protocol이 보안 검토와 최근 크로스체인 해킹 이후 7억달러 이상 규모의 토큰화 비트코인 자산을 LayerZero 브리지에서 Chainlink의 CCIP로 이전한다. 대상 자산은 DeFi와 BTCfi 시장에서 쓰이는 SolvBTC와 xSolvBTC다. 이번 결정은 Kelp DAO가 LayerZero 기반 브리지에서 2억9200만달러 규모 익스플로잇을 겪은 뒤 Chainlink로 옮긴 흐름과 맞물린다. 두 이전을 합치면 거의 10억달러의 자산이 CCIP로 이동하며, LayerZero와 Kelp는 단일 검증자 설정을 둘러싸고 책임 공방을 벌이고 있다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Solv’s $700M Move Puts Chainlink CCIP in Cross-Chain Spotlight",
+      "excerpt": "Solv Protocol is moving over $700 million in SolvBTC and xSolvBTC from LayerZero to Chainlink CCIP after a security review and recent cross-chain hacks.",
+      "body": "Solv Protocol is moving more than $700 million in tokenized bitcoin assets from the LayerZero bridge to Chainlink’s CCIP after a security review and recent cross-chain hacks. The assets include SolvBTC and xSolvBTC, which are used in DeFi and BTCfi markets. The decision follows Kelp DAO’s shift to Chainlink after a $292 million exploit on its LayerZero-powered bridge. Together, the Solv and Kelp migrations move nearly $1 billion in assets to CCIP. LayerZero and Kelp are disputing responsibility over the bridge’s single-verifier setup. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "Solvの7億ドル移行、Chainlink CCIPに集まるクロスチェーン信頼",
+      "excerpt": "Solv Protocolはセキュリティレビューと最近のクロスチェーン攻撃を受け、SolvBTCとxSolvBTCの7億ドル超をLayerZeroからChainlink CCIPへ移す。",
+      "body": "Solv Protocolは、セキュリティレビューと最近のクロスチェーンハッキングを受け、7億ドル超のトークン化ビットコイン資産をLayerZeroブリッジからChainlinkのCCIPへ移行する。対象はDeFiとBTCfi市場で使われるSolvBTCとxSolvBTCだ。今回の判断は、Kelp DAOがLayerZero基盤のブリッジで2億9200万ドル規模のエクスプロイトを受けた後、Chainlinkへ移行した流れに続く。両者を合わせると、ほぼ10億ドルの資産がCCIPへ移る。LayerZeroとKelpは単一検証者設定を巡り責任を争っている。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "Solv 7亿美元迁移转向Chainlink CCIP，跨链信任竞争升温",
+      "excerpt": "Solv Protocol在安全审查和近期跨链黑客事件后，将超过7亿美元的SolvBTC和xSolvBTC从LayerZero桥迁移至Chainlink CCIP。",
+      "body": "Solv Protocol在完成安全审查并经历近期跨链黑客事件背景后，正将超过7亿美元的代币化比特币资产从LayerZero桥迁移至Chainlink的CCIP。涉及资产包括用于DeFi和BTCfi市场的SolvBTC与xSolvBTC。此前，Kelp DAO在其LayerZero驱动的桥遭遇2.92亿美元漏洞攻击后，也转向Chainlink。Solv与Kelp两项迁移合计使近10亿美元资产流向CCIP。LayerZero与Kelp目前围绕该桥的单一验证者设置互相追责。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Solv mueve $700M a Chainlink CCIP y reordena la confianza cross-chain",
+      "excerpt": "Solv Protocol trasladará más de $700 millones en SolvBTC y xSolvBTC desde LayerZero a Chainlink CCIP tras una revisión de seguridad y recientes hackeos cross-chain.",
+      "body": "Solv Protocol trasladará más de $700 millones en activos de bitcoin tokenizado desde el puente de LayerZero hacia CCIP de Chainlink tras una revisión de seguridad y recientes hackeos cross-chain. Los activos incluidos son SolvBTC y xSolvBTC, usados en mercados DeFi y BTCfi. La decisión sigue el movimiento de Kelp DAO hacia Chainlink después de un exploit de $292 millones en su puente basado en LayerZero. En conjunto, las migraciones de Solv y Kelp llevan casi $1.000 millones en activos a CCIP. LayerZero y Kelp discuten la responsabilidad por la configuración de verificador único. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Solv migra US$ 700 mi para Chainlink CCIP e muda confiança cross-chain",
+      "excerpt": "A Solv Protocol vai mover mais de US$ 700 milhões em SolvBTC e xSolvBTC da LayerZero para o Chainlink CCIP após revisão de segurança e hacks cross-chain recentes.",
+      "body": "A Solv Protocol vai transferir mais de US$ 700 milhões em ativos de bitcoin tokenizado da ponte LayerZero para o CCIP da Chainlink após uma revisão de segurança e hacks cross-chain recentes. Os ativos incluem SolvBTC e xSolvBTC, usados nos mercados DeFi e BTCfi. A decisão vem depois que a Kelp DAO migrou para a Chainlink após um exploit de US$ 292 milhões em sua ponte baseada na LayerZero. Somadas, as migrações de Solv e Kelp levam quase US$ 1 bilhão em ativos ao CCIP. LayerZero e Kelp disputam responsabilidade sobre a configuração de verificador único. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Solv verlagert 700 Mio. Dollar zu Chainlink CCIP und stärkt Cross-Chain-Vertrauen",
+      "excerpt": "Solv Protocol verschiebt nach einer Sicherheitsprüfung und jüngsten Cross-Chain-Hacks mehr als 700 Mio. Dollar in SolvBTC und xSolvBTC von LayerZero zu Chainlink CCIP.",
+      "body": "Solv Protocol verlagert nach einer Sicherheitsprüfung und jüngsten Cross-Chain-Hacks mehr als 700 Millionen Dollar an tokenisierten Bitcoin-Vermögenswerten von der LayerZero-Brücke zu Chainlinks CCIP. Betroffen sind SolvBTC und xSolvBTC, die in DeFi- und BTCfi-Märkten genutzt werden. Die Entscheidung folgt auf den Wechsel von Kelp DAO zu Chainlink, nachdem dessen LayerZero-basierte Brücke von einem Exploit über 292 Millionen Dollar betroffen war. Zusammen bringen die Migrationen von Solv und Kelp fast 1 Milliarde Dollar an Vermögenswerten zu CCIP. LayerZero und Kelp streiten über die Verantwortung für die Single-Verifier-Konfiguration. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Solv transfère 700 M$ vers Chainlink CCIP et relance la confiance cross-chain",
+      "excerpt": "Solv Protocol déplace plus de 700 M$ en SolvBTC et xSolvBTC de LayerZero vers Chainlink CCIP après un audit de sécurité et de récents piratages cross-chain.",
+      "body": "Solv Protocol transfère plus de 700 millions de dollars d’actifs en bitcoin tokenisé du pont LayerZero vers le CCIP de Chainlink après un examen de sécurité et de récents piratages cross-chain. Les actifs concernés sont SolvBTC et xSolvBTC, utilisés sur les marchés DeFi et BTCfi. Cette décision suit la migration de Kelp DAO vers Chainlink après un exploit de 292 millions de dollars sur son pont basé sur LayerZero. Ensemble, les migrations de Solv et Kelp déplacent près de 1 milliard de dollars d’actifs vers CCIP. LayerZero et Kelp se renvoient la responsabilité autour d’une configuration à vérificateur unique. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "سولف تنقل 700 مليون دولار إلى Chainlink CCIP وسط اختبار ثقة الجسور",
+      "excerpt": "تنقل Solv Protocol أكثر من 700 مليون دولار من SolvBTC وxSolvBTC من جسر LayerZero إلى Chainlink CCIP بعد مراجعة أمنية واختراقات عبر السلاسل.",
+      "body": "تعتزم Solv Protocol نقل أكثر من 700 مليون دولار من أصول البيتكوين المرمزة من جسر LayerZero إلى بروتوكول CCIP التابع لـChainlink بعد مراجعة أمنية واختراقات حديثة عبر السلاسل. تشمل الأصول SolvBTC وxSolvBTC المستخدمين في أسواق DeFi وBTCfi. وتأتي الخطوة بعد انتقال Kelp DAO إلى Chainlink عقب استغلال بقيمة 292 مليون دولار في جسرها المعتمد على LayerZero. وبجمع انتقالات Solv وKelp، تتحرك أصول تقارب مليار دولار إلى CCIP. ويتبادل LayerZero وKelp المسؤولية بشأن إعداد المدقق الواحد في الجسر. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "Solv का $700M माइग्रेशन, Chainlink CCIP पर बढ़ा क्रॉस-चेन भरोसा",
+      "excerpt": "Solv Protocol सुरक्षा समीक्षा और हालिया क्रॉस-चेन हैक के बाद SolvBTC और xSolvBTC में $700 मिलियन से अधिक को LayerZero से Chainlink CCIP पर ले जा रहा है।",
+      "body": "Solv Protocol सुरक्षा समीक्षा और हालिया क्रॉस-चेन हैक के बाद $700 मिलियन से अधिक के टोकनाइज्ड बिटकॉइन एसेट्स को LayerZero ब्रिज से Chainlink के CCIP पर स्थानांतरित कर रहा है। इसमें DeFi और BTCfi बाजारों में इस्तेमाल होने वाले SolvBTC और xSolvBTC शामिल हैं। यह कदम Kelp DAO के Chainlink पर जाने के बाद आया है, जब उसके LayerZero-आधारित ब्रिज पर $292 मिलियन का exploit हुआ था। Solv और Kelp की संयुक्त माइग्रेशन से करीब $1 बिलियन के एसेट्स CCIP पर जा रहे हैं। LayerZero और Kelp ब्रिज के single-verifier सेटअप को लेकर जिम्मेदारी पर विवाद कर रहे हैं। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Solv Pindahkan $700 Juta ke Chainlink CCIP, Kepercayaan Cross-Chain Diuji",
+      "excerpt": "Solv Protocol memindahkan lebih dari $700 juta dalam SolvBTC dan xSolvBTC dari LayerZero ke Chainlink CCIP setelah tinjauan keamanan dan peretasan cross-chain terbaru.",
+      "body": "Solv Protocol akan memindahkan lebih dari $700 juta aset bitcoin tertokenisasi dari bridge LayerZero ke CCIP milik Chainlink setelah tinjauan keamanan dan peretasan cross-chain terbaru. Aset yang dipindahkan mencakup SolvBTC dan xSolvBTC, yang digunakan di pasar DeFi dan BTCfi. Keputusan ini mengikuti langkah Kelp DAO ke Chainlink setelah exploit senilai $292 juta pada bridge berbasis LayerZero miliknya. Jika digabung, migrasi Solv dan Kelp mengalihkan hampir $1 miliar aset ke CCIP. LayerZero dan Kelp masih saling menyalahkan terkait konfigurasi single-verifier pada bridge tersebut. Sumber: coindesk.com"
+    }
+  }
+}
