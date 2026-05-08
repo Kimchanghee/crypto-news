@@ -1,0 +1,75 @@
+{
+  "id": "6a388f0e0927",
+  "slug": "amazon-teams-with-coinbase-and-stripe-to-let-ai-agents-pay-w-276735",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T01:07:51.749Z",
+  "updatedAt": "2026-05-08T01:07:51.749Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367125/amazon-coinbase-stripe-ai-agents-pay-stablecoins",
+  "canonicalUrl": "https://decrypt.co/367125/amazon-coinbase-stripe-ai-agents-pay-stablecoins",
+  "titleFingerprint": "28beddb5874ab0c49036108d1e63a9d692631325",
+  "dedupKeys": [
+    "6a388f0e0927b1bf8d66a493cc47a7e60dd8a618",
+    "28beddb5874ab0c49036108d1e63a9d692631325",
+    "bf3679bf932fff7f4de716abeef72d2167fec496"
+  ],
+  "imageUrl": "/images/articles/6a388f0e0927.png",
+  "i18n": {
+    "ko": {
+      "title": "아마존 AWS, 코인베이스·스트라이프와 AI 에이전트 USDC 결제 지원",
+      "excerpt": "아마존웹서비스가 코인베이스와 스트라이프와 협력해 AI 에이전트가 USDC 스테이블코인으로 API, 데이터, 온라인 서비스 비용을 결제할 수 있는 새 시스템을 선보였다.",
+      "body": "아마존웹서비스(AWS)는 코인베이스, 스트라이프와 협력해 AI 에이전트가 USDC 스테이블코인으로 API, 데이터, 온라인 서비스 비용을 결제할 수 있는 새 시스템을 공개했다. 이 시스템은 사람이 직접 결제하지 않아도 AI 에이전트가 필요한 디지털 서비스에 접근하고 비용을 처리할 수 있게 하는 데 초점을 맞춘다. 배경에는 AI 에이전트가 온라인 작업을 수행하며 API와 데이터 사용료를 지불해야 하는 수요가 있다. USDC는 달러 가치에 연동된 스테이블코인으로, 이번 협력은 AI 기반 서비스 이용과 크립토 결제 인프라가 만나는 사례로 주목된다. 향후 AI 에이전트의 자동 결제 활용 범위가 API, 데이터, 온라인 서비스 영역에서 확대될 가능성이 있다. 출처: decrypt.co."
+    },
+    "en": {
+      "title": "Amazon AWS Teams With Coinbase and Stripe for AI Agent USDC Payments",
+      "excerpt": "Amazon Web Services has partnered with Coinbase and Stripe on a new system that lets AI agents pay for APIs, data, and online services using the USDC stablecoin.",
+      "body": "Amazon Web Services has unveiled a new system developed with Coinbase and Stripe that allows AI agents to pay for APIs, data, and online services using the USDC stablecoin. The system focuses on enabling AI agents to access digital services and handle payments without a person making each transaction manually. The context is growing demand for AI agents to perform online tasks that may require paying for API access and data usage. USDC is a dollar-pegged stablecoin, and the collaboration highlights a link between AI-based service use and crypto payment infrastructure. The approach could broaden how AI agents use automated payments across APIs, data, and online services. Source: decrypt.co."
+    },
+    "ja": {
+      "title": "Amazon AWS、Coinbase・StripeとAIエージェントのUSDC決済に対応",
+      "excerpt": "Amazon Web ServicesはCoinbase、Stripeと協力し、AIエージェントがUSDCステーブルコインでAPI、データ、オンラインサービス料金を支払える新システムを発表した。",
+      "body": "Amazon Web Services（AWS）は、CoinbaseとStripeと協力し、AIエージェントがUSDCステーブルコインでAPI、データ、オンラインサービスの料金を支払える新システムを公開した。この仕組みは、人が取引ごとに手動で決済しなくても、AIエージェントが必要なデジタルサービスへアクセスし、支払いを処理できるようにすることを目的としている。背景には、AIエージェントがオンライン作業を行う中でAPIやデータ利用料を支払う需要がある。USDCは米ドルに連動するステーブルコインで、今回の協力はAIサービス利用と暗号資産決済インフラが接点を持つ事例として注目される。今後、API、データ、オンラインサービス領域でAIエージェントの自動決済活用が広がる可能性がある。出典: decrypt.co。"
+    },
+    "zh": {
+      "title": "亚马逊AWS携手Coinbase和Stripe支持AI代理USDC支付",
+      "excerpt": "亚马逊云科技与Coinbase和Stripe合作推出新系统，让AI代理可使用USDC稳定币支付API、数据和在线服务费用。",
+      "body": "亚马逊云科技（AWS）与Coinbase和Stripe合作，推出一套新系统，使AI代理能够使用USDC稳定币支付API、数据和在线服务费用。该系统的重点是让AI代理在无需人工逐笔操作付款的情况下，访问所需数字服务并完成支付。其背景是，AI代理在执行在线任务时，可能需要为API访问和数据使用付费。USDC是一种与美元挂钩的稳定币，此次合作显示了AI服务使用场景与加密支付基础设施之间的结合。未来，AI代理的自动支付应用范围可能在API、数据和在线服务领域进一步扩大。来源：decrypt.co。"
+    },
+    "es": {
+      "title": "Amazon AWS se une a Coinbase y Stripe para pagos USDC de agentes de IA",
+      "excerpt": "Amazon Web Services se alió con Coinbase y Stripe para crear un sistema que permite a agentes de IA pagar APIs, datos y servicios online con la stablecoin USDC.",
+      "body": "Amazon Web Services presentó un nuevo sistema desarrollado con Coinbase y Stripe que permite a los agentes de IA pagar APIs, datos y servicios online usando la stablecoin USDC. El sistema busca que los agentes de IA accedan a servicios digitales y gestionen pagos sin que una persona tenga que aprobar manualmente cada transacción. El contexto es la demanda de agentes de IA que realizan tareas online y pueden necesitar pagar por acceso a APIs y uso de datos. USDC es una stablecoin vinculada al dólar, y esta colaboración muestra un punto de contacto entre el uso de servicios basados en IA y la infraestructura de pagos cripto. En adelante, los pagos automatizados de agentes de IA podrían ampliarse en APIs, datos y servicios online. Fuente: decrypt.co."
+    },
+    "pt": {
+      "title": "Amazon AWS une Coinbase e Stripe para pagamentos USDC de agentes de IA",
+      "excerpt": "A Amazon Web Services fez parceria com Coinbase e Stripe em um sistema que permite a agentes de IA pagar APIs, dados e serviços online com a stablecoin USDC.",
+      "body": "A Amazon Web Services apresentou um novo sistema desenvolvido com Coinbase e Stripe que permite a agentes de IA pagar por APIs, dados e serviços online usando a stablecoin USDC. O foco é permitir que agentes de IA acessem serviços digitais e processem pagamentos sem que uma pessoa realize manualmente cada transação. O contexto é a demanda por agentes de IA que executam tarefas online e podem precisar pagar por acesso a APIs e uso de dados. USDC é uma stablecoin atrelada ao dólar, e a parceria destaca a conexão entre o uso de serviços baseados em IA e a infraestrutura de pagamentos cripto. No futuro, o uso de pagamentos automatizados por agentes de IA pode se expandir em APIs, dados e serviços online. Fonte: decrypt.co."
+    },
+    "de": {
+      "title": "Amazon AWS kooperiert mit Coinbase und Stripe für USDC-Zahlungen von KI-Agenten",
+      "excerpt": "Amazon Web Services arbeitet mit Coinbase und Stripe an einem neuen System, mit dem KI-Agenten APIs, Daten und Onlinedienste per USDC-Stablecoin bezahlen können.",
+      "body": "Amazon Web Services hat ein neues System vorgestellt, das gemeinsam mit Coinbase und Stripe entwickelt wurde und KI-Agenten Zahlungen für APIs, Daten und Onlinedienste mit dem USDC-Stablecoin ermöglicht. Im Mittelpunkt steht, dass KI-Agenten digitale Dienste nutzen und Zahlungen abwickeln können, ohne dass jede Transaktion manuell durch eine Person erfolgt. Hintergrund ist die Nachfrage nach KI-Agenten, die Onlineaufgaben erledigen und dabei für API-Zugänge oder Datennutzung bezahlen müssen. USDC ist ein an den US-Dollar gekoppelter Stablecoin. Die Kooperation zeigt damit eine Verbindung zwischen KI-gestützter Servicenutzung und Krypto-Zahlungsinfrastruktur. Künftig könnte sich der Einsatz automatisierter Zahlungen durch KI-Agenten in den Bereichen APIs, Daten und Onlinedienste ausweiten. Quelle: decrypt.co."
+    },
+    "fr": {
+      "title": "Amazon AWS s’allie à Coinbase et Stripe pour les paiements USDC des agents IA",
+      "excerpt": "Amazon Web Services s’associe à Coinbase et Stripe pour un système permettant aux agents IA de payer API, données et services en ligne avec le stablecoin USDC.",
+      "body": "Amazon Web Services a présenté un nouveau système conçu avec Coinbase et Stripe, permettant aux agents IA de payer des API, des données et des services en ligne avec le stablecoin USDC. Le dispositif vise à permettre aux agents IA d’accéder à des services numériques et de gérer les paiements sans intervention humaine pour chaque transaction. Le contexte est la demande croissante d’agents IA capables d’exécuter des tâches en ligne pouvant nécessiter le paiement d’accès API ou d’utilisation de données. USDC est un stablecoin adossé au dollar, et cette collaboration illustre le lien entre l’usage de services fondés sur l’IA et l’infrastructure de paiement crypto. À l’avenir, les paiements automatisés par agents IA pourraient s’étendre aux API, aux données et aux services en ligne. Source : decrypt.co."
+    },
+    "ar": {
+      "title": "أمازون AWS تتعاون مع Coinbase وStripe لمدفوعات USDC لوكلاء الذكاء الاصطناعي",
+      "excerpt": "تعاونت Amazon Web Services مع Coinbase وStripe لإطلاق نظام يتيح لوكلاء الذكاء الاصطناعي دفع تكاليف واجهات API والبيانات والخدمات عبر الإنترنت بعملة USDC المستقرة.",
+      "body": "كشفت Amazon Web Services عن نظام جديد بالتعاون مع Coinbase وStripe يتيح لوكلاء الذكاء الاصطناعي دفع تكاليف واجهات API والبيانات والخدمات عبر الإنترنت باستخدام عملة USDC المستقرة. يركز النظام على تمكين وكلاء الذكاء الاصطناعي من الوصول إلى الخدمات الرقمية ومعالجة المدفوعات دون أن ينفذ شخص كل معاملة يدويا. وتأتي الخلفية من الحاجة إلى وكلاء ذكاء اصطناعي ينفذون مهاما عبر الإنترنت وقد يحتاجون إلى دفع رسوم الوصول إلى واجهات API أو استخدام البيانات. تعد USDC عملة مستقرة مرتبطة بالدولار، ويبرز هذا التعاون نقطة التقاء بين استخدام خدمات الذكاء الاصطناعي وبنية مدفوعات العملات المشفرة. وقد يتوسع استخدام المدفوعات الآلية لوكلاء الذكاء الاصطناعي في مجالات واجهات API والبيانات والخدمات عبر الإنترنت. المصدر: decrypt.co."
+    },
+    "hi": {
+      "title": "Amazon AWS ने AI एजेंट USDC भुगतान के लिए Coinbase और Stripe से हाथ मिलाया",
+      "excerpt": "Amazon Web Services ने Coinbase और Stripe के साथ नया सिस्टम पेश किया है, जिससे AI एजेंट USDC स्टेबलकॉइन से API, डेटा और ऑनलाइन सेवाओं का भुगतान कर सकते हैं।",
+      "body": "Amazon Web Services ने Coinbase और Stripe के साथ विकसित एक नया सिस्टम पेश किया है, जो AI एजेंटों को USDC स्टेबलकॉइन के जरिए API, डेटा और ऑनलाइन सेवाओं के लिए भुगतान करने देता है। इस सिस्टम का लक्ष्य यह है कि AI एजेंट हर भुगतान के लिए इंसानी हस्तक्षेप के बिना जरूरी डिजिटल सेवाओं तक पहुंच सकें और भुगतान संभाल सकें। इसकी पृष्ठभूमि में ऐसे AI एजेंटों की मांग है जो ऑनलाइन कार्य करते हैं और जिन्हें API एक्सेस या डेटा उपयोग के लिए भुगतान करना पड़ सकता है। USDC डॉलर से जुड़ा स्टेबलकॉइन है, और यह सहयोग AI आधारित सेवाओं के उपयोग तथा क्रिप्टो भुगतान ढांचे के बीच संबंध दिखाता है। आगे चलकर AI एजेंटों के स्वचालित भुगतान का उपयोग API, डेटा और ऑनलाइन सेवाओं में बढ़ सकता है। स्रोत: decrypt.co."
+    },
+    "id": {
+      "title": "Amazon AWS Gandeng Coinbase dan Stripe untuk Pembayaran USDC Agen AI",
+      "excerpt": "Amazon Web Services bekerja sama dengan Coinbase dan Stripe menghadirkan sistem yang memungkinkan agen AI membayar API, data, dan layanan online memakai stablecoin USDC.",
+      "body": "Amazon Web Services memperkenalkan sistem baru yang dikembangkan bersama Coinbase dan Stripe, yang memungkinkan agen AI membayar API, data, dan layanan online menggunakan stablecoin USDC. Sistem ini berfokus pada kemampuan agen AI untuk mengakses layanan digital dan memproses pembayaran tanpa manusia melakukan setiap transaksi secara manual. Latar belakangnya adalah kebutuhan agen AI yang menjalankan tugas online dan mungkin harus membayar akses API atau penggunaan data. USDC adalah stablecoin yang dipatok ke dolar, dan kerja sama ini menunjukkan pertemuan antara penggunaan layanan berbasis AI dan infrastruktur pembayaran kripto. Ke depan, pemakaian pembayaran otomatis oleh agen AI dapat meluas di area API, data, dan layanan online. Sumber: decrypt.co."
+    }
+  }
+}

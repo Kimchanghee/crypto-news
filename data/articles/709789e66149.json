@@ -1,0 +1,75 @@
+{
+  "id": "709789e66149",
+  "slug": "tether39s-medical-ai-runs-on-your-phone-and-outperforms-mode-303447",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T01:08:48.460Z",
+  "updatedAt": "2026-05-08T01:08:48.460Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367127/tether-medical-ai-runs-on-phone-outperforms-models-16x",
+  "canonicalUrl": "https://decrypt.co/367127/tether-medical-ai-runs-on-phone-outperforms-models-16x",
+  "titleFingerprint": "a745757945d32fa893271a5a93e14a96357de514",
+  "dedupKeys": [
+    "709789e66149f3e4bebec8fba876aeff1d619b35",
+    "a745757945d32fa893271a5a93e14a96357de514",
+    "27aaeb36051b1b22902d1092c7c60efd9c6b6cf2"
+  ],
+  "imageUrl": "/images/articles/709789e66149.png",
+  "i18n": {
+    "ko": {
+      "title": "테더 의료 AI QVAC MedPsy, 스마트폰서 대형 모델 앞섰다",
+      "excerpt": "테더의 QVAC MedPsy가 스마트폰에서 구동되는 임상 AI로 소개됐다. 실제 의료 시나리오에서 구글 MedGemma-27B를 앞서고 컴퓨팅 자원은 3분의 1 수준을 쓴 것으로 전해졌다.",
+      "body": "테더의 의료 인공지능 QVAC MedPsy가 스마트폰에서 실행되는 임상 AI 모델로 주목받고 있다. decrypt.co에 따르면 이 모델은 실제 의료 시나리오 평가에서 구글의 MedGemma-27B보다 나은 성능을 보였고, 크기가 16배 큰 모델을 앞섰다. 동시에 필요한 컴퓨팅 자원은 세 배 적은 수준으로 제시됐다. 핵심은 고성능 의료 AI를 대형 서버가 아니라 휴대전화 안에서 구동할 수 있다는 점이다. 이는 임상 AI 활용에서 기기 접근성과 연산 효율성을 중요한 비교 기준으로 부각시킨다. 다만 보도 내용은 성능 비교와 자원 사용 결과에 초점을 맞추고 있으며, 실제 의료 적용 범위나 규제 승인 여부는 언급하지 않았다. 출처: decrypt.co."
+    },
+    "en": {
+      "title": "Tether’s QVAC MedPsy Medical AI Beats Larger Models on Phones",
+      "excerpt": "Tether’s QVAC MedPsy was presented as clinical AI that runs on a smartphone, outperforming Google’s MedGemma-27B in real-world scenarios while using three times fewer compute resources.",
+      "body": "Tether’s medical AI, QVAC MedPsy, is drawing attention as a clinical AI model that can run on a smartphone. According to decrypt.co, the model outperformed Google’s MedGemma-27B in real-world medical scenario testing and beat a model 16 times its size. It was also reported to use three times fewer compute resources. The key point is that high-performing medical AI can operate on a phone rather than relying on large servers. That makes device accessibility and compute efficiency important comparison points for clinical AI use. The report focuses on performance comparisons and resource use, while not stating the scope of real medical deployment or regulatory approval. Source: decrypt.co."
+    },
+    "ja": {
+      "title": "Tetherの医療AI QVAC MedPsy、スマホで大型モデルを上回る",
+      "excerpt": "TetherのQVAC MedPsyはスマートフォンで動く臨床AIとして紹介された。実世界の医療シナリオでGoogleのMedGemma-27Bを上回り、計算資源は3分の1で済むとされた。",
+      "body": "Tetherの医療AIであるQVAC MedPsyが、スマートフォン上で動作する臨床AIモデルとして注目されている。decrypt.coによると、このモデルは実世界の医療シナリオ評価でGoogleのMedGemma-27Bを上回り、サイズが16倍大きいモデルより高い性能を示した。同時に、必要な計算資源は3分の1の水準とされた。重要なのは、高性能な医療AIを大型サーバーではなく携帯電話内で動かせる点だ。これにより、臨床AI活用では端末へのアクセス性と演算効率が重要な比較軸として浮上する。ただし報道は性能比較と資源使用に焦点を当てており、実際の医療適用範囲や規制承認の有無には触れていない。出典: decrypt.co。"
+    },
+    "zh": {
+      "title": "Tether医疗AI QVAC MedPsy在手机上超越大型模型",
+      "excerpt": "Tether的QVAC MedPsy被介绍为可在智能手机上运行的临床AI。报道称，它在真实医疗场景中超过Google MedGemma-27B，计算资源消耗仅为其三分之一。",
+      "body": "Tether的医疗人工智能QVAC MedPsy正因可在智能手机上运行的临床AI模型而受到关注。据decrypt.co报道，该模型在真实医疗场景评估中表现优于Google的MedGemma-27B，并超过了体量大16倍的模型。同时，其所需计算资源据称少三倍。关键在于，高性能医疗AI可以不依赖大型服务器，而是在手机端运行。这使设备可及性和计算效率成为临床AI应用中的重要比较标准。不过，报道重点是性能对比和资源使用结果，并未说明实际医疗应用范围或监管批准情况。来源：decrypt.co。"
+    },
+    "es": {
+      "title": "QVAC MedPsy de Tether lleva IA médica al móvil y supera modelos mayores",
+      "excerpt": "QVAC MedPsy de Tether fue presentado como IA clínica que funciona en un smartphone. Superó a Google MedGemma-27B en escenarios reales y usó tres veces menos recursos de cómputo.",
+      "body": "La IA médica de Tether, QVAC MedPsy, atrae atención como modelo clínico capaz de ejecutarse en un smartphone. Según decrypt.co, el modelo superó a MedGemma-27B de Google en evaluaciones con escenarios médicos reales y también a un modelo 16 veces más grande. Al mismo tiempo, se informó que necesitó tres veces menos recursos de cómputo. El punto central es que una IA médica de alto rendimiento puede operar en un teléfono, no solo en grandes servidores. Esto destaca la accesibilidad del dispositivo y la eficiencia computacional como criterios clave para comparar usos de IA clínica. El reporte se centra en rendimiento y recursos, sin mencionar alcance de uso médico real ni aprobación regulatoria. Fuente: decrypt.co."
+    },
+    "pt": {
+      "title": "QVAC MedPsy da Tether roda no celular e supera modelos maiores",
+      "excerpt": "O QVAC MedPsy da Tether foi apresentado como IA clínica que roda em smartphone. Em cenários médicos reais, superou o Google MedGemma-27B usando três vezes menos recursos computacionais.",
+      "body": "A IA médica da Tether, QVAC MedPsy, chama atenção como um modelo clínico capaz de rodar em um smartphone. Segundo o decrypt.co, o modelo superou o MedGemma-27B do Google em avaliações com cenários médicos do mundo real e também venceu um modelo 16 vezes maior. Ao mesmo tempo, foi apresentado como usando três vezes menos recursos computacionais. O ponto central é que uma IA médica de alto desempenho pode operar em um telefone, e não apenas em grandes servidores. Isso coloca acessibilidade do dispositivo e eficiência de cálculo como critérios importantes para o uso de IA clínica. A reportagem foca comparação de desempenho e uso de recursos, sem citar escopo de aplicação médica real ou aprovação regulatória. Fonte: decrypt.co."
+    },
+    "de": {
+      "title": "Tethers QVAC MedPsy: Medizin-KI läuft auf dem Handy und schlägt größere Modelle",
+      "excerpt": "Tethers QVAC MedPsy wurde als klinische KI vorgestellt, die auf einem Smartphone läuft. In realen Medizinszenarien übertraf sie Googles MedGemma-27B und nutzte dreimal weniger Rechenressourcen.",
+      "body": "Tethers medizinische KI QVAC MedPsy rückt als klinisches KI-Modell in den Fokus, das auf einem Smartphone laufen kann. Laut decrypt.co übertraf das Modell Googles MedGemma-27B in Tests mit realen medizinischen Szenarien und schnitt besser ab als ein 16-mal größeres Modell. Zugleich soll es dreimal weniger Rechenressourcen benötigen. Entscheidend ist, dass leistungsfähige Medizin-KI nicht nur auf großen Servern, sondern direkt auf einem Telefon betrieben werden kann. Damit werden Gerätezugang und Recheneffizienz wichtige Vergleichskriterien für klinische KI-Anwendungen. Der Bericht konzentriert sich auf Leistungsvergleich und Ressourcenverbrauch; ein realer medizinischer Einsatzumfang oder eine regulatorische Zulassung werden nicht genannt. Quelle: decrypt.co."
+    },
+    "fr": {
+      "title": "QVAC MedPsy de Tether fait tourner l’IA médicale sur mobile et bat des modèles plus grands",
+      "excerpt": "QVAC MedPsy de Tether est présenté comme une IA clinique fonctionnant sur smartphone. Dans des scénarios médicaux réels, elle a dépassé Google MedGemma-27B avec trois fois moins de calcul.",
+      "body": "L’IA médicale de Tether, QVAC MedPsy, attire l’attention comme modèle clinique capable de fonctionner sur un smartphone. Selon decrypt.co, le modèle a surpassé MedGemma-27B de Google lors d’évaluations fondées sur des scénarios médicaux réels et a dépassé un modèle 16 fois plus grand. Il aurait aussi utilisé trois fois moins de ressources de calcul. L’élément clé est qu’une IA médicale performante peut fonctionner dans un téléphone plutôt que sur de grands serveurs. Cela met en avant l’accessibilité des appareils et l’efficacité informatique comme critères de comparaison pour l’IA clinique. Le reportage porte sur les performances et les ressources, sans préciser le champ d’usage médical réel ni l’approbation réglementaire. Source: decrypt.co."
+    },
+    "ar": {
+      "title": "QVAC MedPsy من Tether يشغل الذكاء الطبي على الهاتف ويتفوق على نماذج أكبر",
+      "excerpt": "قُدم QVAC MedPsy من Tether كذكاء اصطناعي سريري يعمل على الهاتف الذكي. ووفق التقرير، تفوق على Google MedGemma-27B في سيناريوهات طبية واقعية مع استخدام موارد حوسبة أقل بثلاث مرات.",
+      "body": "يلفت الذكاء الاصطناعي الطبي QVAC MedPsy من Tether الانتباه كنموذج سريري يمكن تشغيله على هاتف ذكي. وبحسب decrypt.co، تفوق النموذج في تقييمات سيناريوهات طبية واقعية على MedGemma-27B من Google، كما تجاوز نموذجا أكبر منه حجما بـ16 مرة. وفي الوقت نفسه، قيل إنه يستخدم موارد حوسبة أقل بثلاث مرات. النقطة الأساسية هي أن الذكاء الطبي عالي الأداء يمكن أن يعمل داخل الهاتف بدلا من الاعتماد على خوادم كبيرة. وهذا يبرز إمكانية الوصول إلى الجهاز وكفاءة الحوسبة كمعيارين مهمين عند مقارنة استخدامات الذكاء الاصطناعي السريري. يركز التقرير على مقارنة الأداء واستخدام الموارد، ولا يذكر نطاق التطبيق الطبي الفعلي أو الموافقة التنظيمية. المصدر: decrypt.co."
+    },
+    "hi": {
+      "title": "Tether QVAC MedPsy मेडिकल AI फोन पर चलता है, बड़े मॉडल से आगे",
+      "excerpt": "Tether का QVAC MedPsy स्मार्टफोन पर चलने वाला क्लिनिकल AI बताया गया है। वास्तविक चिकित्सा परिदृश्यों में इसने Google MedGemma-27B को पीछे छोड़ा और तीन गुना कम कंप्यूट संसाधन इस्तेमाल किए।",
+      "body": "Tether का मेडिकल AI QVAC MedPsy स्मार्टफोन पर चलने वाले क्लिनिकल AI मॉडल के रूप में ध्यान खींच रहा है। decrypt.co के अनुसार, इस मॉडल ने वास्तविक चिकित्सा परिदृश्यों के मूल्यांकन में Google के MedGemma-27B से बेहतर प्रदर्शन किया और अपने से 16 गुना बड़े मॉडल को भी पीछे छोड़ा। साथ ही, इसे तीन गुना कम कंप्यूट संसाधनों का उपयोग करने वाला बताया गया। मुख्य बात यह है कि उच्च प्रदर्शन वाला मेडिकल AI बड़े सर्वर के बजाय फोन पर चल सकता है। इससे क्लिनिकल AI उपयोग में डिवाइस पहुंच और कंप्यूट दक्षता अहम तुलना मानक बनते हैं। रिपोर्ट प्रदर्शन तुलना और संसाधन उपयोग पर केंद्रित है; वास्तविक चिकित्सा उपयोग के दायरे या नियामकीय मंजूरी का उल्लेख नहीं है। स्रोत: decrypt.co."
+    },
+    "id": {
+      "title": "QVAC MedPsy Tether Jalankan AI Medis di Ponsel dan Ungguli Model Besar",
+      "excerpt": "QVAC MedPsy dari Tether diperkenalkan sebagai AI klinis yang berjalan di smartphone. Dalam skenario medis nyata, model ini mengungguli Google MedGemma-27B dengan sumber daya komputasi tiga kali lebih sedikit.",
+      "body": "AI medis Tether, QVAC MedPsy, menarik perhatian sebagai model AI klinis yang dapat berjalan di smartphone. Menurut decrypt.co, model ini mengungguli MedGemma-27B milik Google dalam evaluasi skenario medis dunia nyata dan mengalahkan model yang ukurannya 16 kali lebih besar. Pada saat yang sama, model ini disebut memakai sumber daya komputasi tiga kali lebih sedikit. Poin utamanya adalah AI medis berkinerja tinggi dapat beroperasi di ponsel, bukan hanya di server besar. Ini menempatkan akses perangkat dan efisiensi komputasi sebagai tolok ukur penting dalam penggunaan AI klinis. Laporan tersebut berfokus pada perbandingan kinerja dan penggunaan sumber daya, tanpa menyebut cakupan penerapan medis nyata atau persetujuan regulasi. Sumber: decrypt.co."
+    }
+  }
+}

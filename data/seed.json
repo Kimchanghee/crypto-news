@@ -1,5 +1,230 @@
 [
   {
+    "id": "709789e66149",
+    "slug": "tether39s-medical-ai-runs-on-your-phone-and-outperforms-mode-303447",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T01:08:48.460Z",
+    "updatedAt": "2026-05-08T01:08:48.460Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367127/tether-medical-ai-runs-on-phone-outperforms-models-16x",
+    "canonicalUrl": "https://decrypt.co/367127/tether-medical-ai-runs-on-phone-outperforms-models-16x",
+    "titleFingerprint": "a745757945d32fa893271a5a93e14a96357de514",
+    "dedupKeys": [
+      "709789e66149f3e4bebec8fba876aeff1d619b35",
+      "a745757945d32fa893271a5a93e14a96357de514",
+      "27aaeb36051b1b22902d1092c7c60efd9c6b6cf2"
+    ],
+    "imageUrl": "/images/articles/709789e66149.png",
+    "i18n": {
+      "ko": {
+        "title": "테더 의료 AI QVAC MedPsy, 스마트폰서 대형 모델 앞섰다",
+        "excerpt": "테더의 QVAC MedPsy가 스마트폰에서 구동되는 임상 AI로 소개됐다. 실제 의료 시나리오에서 구글 MedGemma-27B를 앞서고 컴퓨팅 자원은 3분의 1 수준을 쓴 것으로 전해졌다.",
+        "body": "테더의 의료 인공지능 QVAC MedPsy가 스마트폰에서 실행되는 임상 AI 모델로 주목받고 있다. decrypt.co에 따르면 이 모델은 실제 의료 시나리오 평가에서 구글의 MedGemma-27B보다 나은 성능을 보였고, 크기가 16배 큰 모델을 앞섰다. 동시에 필요한 컴퓨팅 자원은 세 배 적은 수준으로 제시됐다. 핵심은 고성능 의료 AI를 대형 서버가 아니라 휴대전화 안에서 구동할 수 있다는 점이다. 이는 임상 AI 활용에서 기기 접근성과 연산 효율성을 중요한 비교 기준으로 부각시킨다. 다만 보도 내용은 성능 비교와 자원 사용 결과에 초점을 맞추고 있으며, 실제 의료 적용 범위나 규제 승인 여부는 언급하지 않았다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Tether’s QVAC MedPsy Medical AI Beats Larger Models on Phones",
+        "excerpt": "Tether’s QVAC MedPsy was presented as clinical AI that runs on a smartphone, outperforming Google’s MedGemma-27B in real-world scenarios while using three times fewer compute resources.",
+        "body": "Tether’s medical AI, QVAC MedPsy, is drawing attention as a clinical AI model that can run on a smartphone. According to decrypt.co, the model outperformed Google’s MedGemma-27B in real-world medical scenario testing and beat a model 16 times its size. It was also reported to use three times fewer compute resources. The key point is that high-performing medical AI can operate on a phone rather than relying on large servers. That makes device accessibility and compute efficiency important comparison points for clinical AI use. The report focuses on performance comparisons and resource use, while not stating the scope of real medical deployment or regulatory approval. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "Tetherの医療AI QVAC MedPsy、スマホで大型モデルを上回る",
+        "excerpt": "TetherのQVAC MedPsyはスマートフォンで動く臨床AIとして紹介された。実世界の医療シナリオでGoogleのMedGemma-27Bを上回り、計算資源は3分の1で済むとされた。",
+        "body": "Tetherの医療AIであるQVAC MedPsyが、スマートフォン上で動作する臨床AIモデルとして注目されている。decrypt.coによると、このモデルは実世界の医療シナリオ評価でGoogleのMedGemma-27Bを上回り、サイズが16倍大きいモデルより高い性能を示した。同時に、必要な計算資源は3分の1の水準とされた。重要なのは、高性能な医療AIを大型サーバーではなく携帯電話内で動かせる点だ。これにより、臨床AI活用では端末へのアクセス性と演算効率が重要な比較軸として浮上する。ただし報道は性能比較と資源使用に焦点を当てており、実際の医療適用範囲や規制承認の有無には触れていない。出典: decrypt.co。"
+      },
+      "zh": {
+        "title": "Tether医疗AI QVAC MedPsy在手机上超越大型模型",
+        "excerpt": "Tether的QVAC MedPsy被介绍为可在智能手机上运行的临床AI。报道称，它在真实医疗场景中超过Google MedGemma-27B，计算资源消耗仅为其三分之一。",
+        "body": "Tether的医疗人工智能QVAC MedPsy正因可在智能手机上运行的临床AI模型而受到关注。据decrypt.co报道，该模型在真实医疗场景评估中表现优于Google的MedGemma-27B，并超过了体量大16倍的模型。同时，其所需计算资源据称少三倍。关键在于，高性能医疗AI可以不依赖大型服务器，而是在手机端运行。这使设备可及性和计算效率成为临床AI应用中的重要比较标准。不过，报道重点是性能对比和资源使用结果，并未说明实际医疗应用范围或监管批准情况。来源：decrypt.co。"
+      },
+      "es": {
+        "title": "QVAC MedPsy de Tether lleva IA médica al móvil y supera modelos mayores",
+        "excerpt": "QVAC MedPsy de Tether fue presentado como IA clínica que funciona en un smartphone. Superó a Google MedGemma-27B en escenarios reales y usó tres veces menos recursos de cómputo.",
+        "body": "La IA médica de Tether, QVAC MedPsy, atrae atención como modelo clínico capaz de ejecutarse en un smartphone. Según decrypt.co, el modelo superó a MedGemma-27B de Google en evaluaciones con escenarios médicos reales y también a un modelo 16 veces más grande. Al mismo tiempo, se informó que necesitó tres veces menos recursos de cómputo. El punto central es que una IA médica de alto rendimiento puede operar en un teléfono, no solo en grandes servidores. Esto destaca la accesibilidad del dispositivo y la eficiencia computacional como criterios clave para comparar usos de IA clínica. El reporte se centra en rendimiento y recursos, sin mencionar alcance de uso médico real ni aprobación regulatoria. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "QVAC MedPsy da Tether roda no celular e supera modelos maiores",
+        "excerpt": "O QVAC MedPsy da Tether foi apresentado como IA clínica que roda em smartphone. Em cenários médicos reais, superou o Google MedGemma-27B usando três vezes menos recursos computacionais.",
+        "body": "A IA médica da Tether, QVAC MedPsy, chama atenção como um modelo clínico capaz de rodar em um smartphone. Segundo o decrypt.co, o modelo superou o MedGemma-27B do Google em avaliações com cenários médicos do mundo real e também venceu um modelo 16 vezes maior. Ao mesmo tempo, foi apresentado como usando três vezes menos recursos computacionais. O ponto central é que uma IA médica de alto desempenho pode operar em um telefone, e não apenas em grandes servidores. Isso coloca acessibilidade do dispositivo e eficiência de cálculo como critérios importantes para o uso de IA clínica. A reportagem foca comparação de desempenho e uso de recursos, sem citar escopo de aplicação médica real ou aprovação regulatória. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Tethers QVAC MedPsy: Medizin-KI läuft auf dem Handy und schlägt größere Modelle",
+        "excerpt": "Tethers QVAC MedPsy wurde als klinische KI vorgestellt, die auf einem Smartphone läuft. In realen Medizinszenarien übertraf sie Googles MedGemma-27B und nutzte dreimal weniger Rechenressourcen.",
+        "body": "Tethers medizinische KI QVAC MedPsy rückt als klinisches KI-Modell in den Fokus, das auf einem Smartphone laufen kann. Laut decrypt.co übertraf das Modell Googles MedGemma-27B in Tests mit realen medizinischen Szenarien und schnitt besser ab als ein 16-mal größeres Modell. Zugleich soll es dreimal weniger Rechenressourcen benötigen. Entscheidend ist, dass leistungsfähige Medizin-KI nicht nur auf großen Servern, sondern direkt auf einem Telefon betrieben werden kann. Damit werden Gerätezugang und Recheneffizienz wichtige Vergleichskriterien für klinische KI-Anwendungen. Der Bericht konzentriert sich auf Leistungsvergleich und Ressourcenverbrauch; ein realer medizinischer Einsatzumfang oder eine regulatorische Zulassung werden nicht genannt. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "QVAC MedPsy de Tether fait tourner l’IA médicale sur mobile et bat des modèles plus grands",
+        "excerpt": "QVAC MedPsy de Tether est présenté comme une IA clinique fonctionnant sur smartphone. Dans des scénarios médicaux réels, elle a dépassé Google MedGemma-27B avec trois fois moins de calcul.",
+        "body": "L’IA médicale de Tether, QVAC MedPsy, attire l’attention comme modèle clinique capable de fonctionner sur un smartphone. Selon decrypt.co, le modèle a surpassé MedGemma-27B de Google lors d’évaluations fondées sur des scénarios médicaux réels et a dépassé un modèle 16 fois plus grand. Il aurait aussi utilisé trois fois moins de ressources de calcul. L’élément clé est qu’une IA médicale performante peut fonctionner dans un téléphone plutôt que sur de grands serveurs. Cela met en avant l’accessibilité des appareils et l’efficacité informatique comme critères de comparaison pour l’IA clinique. Le reportage porte sur les performances et les ressources, sans préciser le champ d’usage médical réel ni l’approbation réglementaire. Source: decrypt.co."
+      },
+      "ar": {
+        "title": "QVAC MedPsy من Tether يشغل الذكاء الطبي على الهاتف ويتفوق على نماذج أكبر",
+        "excerpt": "قُدم QVAC MedPsy من Tether كذكاء اصطناعي سريري يعمل على الهاتف الذكي. ووفق التقرير، تفوق على Google MedGemma-27B في سيناريوهات طبية واقعية مع استخدام موارد حوسبة أقل بثلاث مرات.",
+        "body": "يلفت الذكاء الاصطناعي الطبي QVAC MedPsy من Tether الانتباه كنموذج سريري يمكن تشغيله على هاتف ذكي. وبحسب decrypt.co، تفوق النموذج في تقييمات سيناريوهات طبية واقعية على MedGemma-27B من Google، كما تجاوز نموذجا أكبر منه حجما بـ16 مرة. وفي الوقت نفسه، قيل إنه يستخدم موارد حوسبة أقل بثلاث مرات. النقطة الأساسية هي أن الذكاء الطبي عالي الأداء يمكن أن يعمل داخل الهاتف بدلا من الاعتماد على خوادم كبيرة. وهذا يبرز إمكانية الوصول إلى الجهاز وكفاءة الحوسبة كمعيارين مهمين عند مقارنة استخدامات الذكاء الاصطناعي السريري. يركز التقرير على مقارنة الأداء واستخدام الموارد، ولا يذكر نطاق التطبيق الطبي الفعلي أو الموافقة التنظيمية. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "Tether QVAC MedPsy मेडिकल AI फोन पर चलता है, बड़े मॉडल से आगे",
+        "excerpt": "Tether का QVAC MedPsy स्मार्टफोन पर चलने वाला क्लिनिकल AI बताया गया है। वास्तविक चिकित्सा परिदृश्यों में इसने Google MedGemma-27B को पीछे छोड़ा और तीन गुना कम कंप्यूट संसाधन इस्तेमाल किए।",
+        "body": "Tether का मेडिकल AI QVAC MedPsy स्मार्टफोन पर चलने वाले क्लिनिकल AI मॉडल के रूप में ध्यान खींच रहा है। decrypt.co के अनुसार, इस मॉडल ने वास्तविक चिकित्सा परिदृश्यों के मूल्यांकन में Google के MedGemma-27B से बेहतर प्रदर्शन किया और अपने से 16 गुना बड़े मॉडल को भी पीछे छोड़ा। साथ ही, इसे तीन गुना कम कंप्यूट संसाधनों का उपयोग करने वाला बताया गया। मुख्य बात यह है कि उच्च प्रदर्शन वाला मेडिकल AI बड़े सर्वर के बजाय फोन पर चल सकता है। इससे क्लिनिकल AI उपयोग में डिवाइस पहुंच और कंप्यूट दक्षता अहम तुलना मानक बनते हैं। रिपोर्ट प्रदर्शन तुलना और संसाधन उपयोग पर केंद्रित है; वास्तविक चिकित्सा उपयोग के दायरे या नियामकीय मंजूरी का उल्लेख नहीं है। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "QVAC MedPsy Tether Jalankan AI Medis di Ponsel dan Ungguli Model Besar",
+        "excerpt": "QVAC MedPsy dari Tether diperkenalkan sebagai AI klinis yang berjalan di smartphone. Dalam skenario medis nyata, model ini mengungguli Google MedGemma-27B dengan sumber daya komputasi tiga kali lebih sedikit.",
+        "body": "AI medis Tether, QVAC MedPsy, menarik perhatian sebagai model AI klinis yang dapat berjalan di smartphone. Menurut decrypt.co, model ini mengungguli MedGemma-27B milik Google dalam evaluasi skenario medis dunia nyata dan mengalahkan model yang ukurannya 16 kali lebih besar. Pada saat yang sama, model ini disebut memakai sumber daya komputasi tiga kali lebih sedikit. Poin utamanya adalah AI medis berkinerja tinggi dapat beroperasi di ponsel, bukan hanya di server besar. Ini menempatkan akses perangkat dan efisiensi komputasi sebagai tolok ukur penting dalam penggunaan AI klinis. Laporan tersebut berfokus pada perbandingan kinerja dan penggunaan sumber daya, tanpa menyebut cakupan penerapan medis nyata atau persetujuan regulasi. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "6a388f0e0927",
+    "slug": "amazon-teams-with-coinbase-and-stripe-to-let-ai-agents-pay-w-276735",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T01:07:51.749Z",
+    "updatedAt": "2026-05-08T01:07:51.749Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367125/amazon-coinbase-stripe-ai-agents-pay-stablecoins",
+    "canonicalUrl": "https://decrypt.co/367125/amazon-coinbase-stripe-ai-agents-pay-stablecoins",
+    "titleFingerprint": "28beddb5874ab0c49036108d1e63a9d692631325",
+    "dedupKeys": [
+      "6a388f0e0927b1bf8d66a493cc47a7e60dd8a618",
+      "28beddb5874ab0c49036108d1e63a9d692631325",
+      "bf3679bf932fff7f4de716abeef72d2167fec496"
+    ],
+    "imageUrl": "/images/articles/6a388f0e0927.png",
+    "i18n": {
+      "ko": {
+        "title": "아마존 AWS, 코인베이스·스트라이프와 AI 에이전트 USDC 결제 지원",
+        "excerpt": "아마존웹서비스가 코인베이스와 스트라이프와 협력해 AI 에이전트가 USDC 스테이블코인으로 API, 데이터, 온라인 서비스 비용을 결제할 수 있는 새 시스템을 선보였다.",
+        "body": "아마존웹서비스(AWS)는 코인베이스, 스트라이프와 협력해 AI 에이전트가 USDC 스테이블코인으로 API, 데이터, 온라인 서비스 비용을 결제할 수 있는 새 시스템을 공개했다. 이 시스템은 사람이 직접 결제하지 않아도 AI 에이전트가 필요한 디지털 서비스에 접근하고 비용을 처리할 수 있게 하는 데 초점을 맞춘다. 배경에는 AI 에이전트가 온라인 작업을 수행하며 API와 데이터 사용료를 지불해야 하는 수요가 있다. USDC는 달러 가치에 연동된 스테이블코인으로, 이번 협력은 AI 기반 서비스 이용과 크립토 결제 인프라가 만나는 사례로 주목된다. 향후 AI 에이전트의 자동 결제 활용 범위가 API, 데이터, 온라인 서비스 영역에서 확대될 가능성이 있다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Amazon AWS Teams With Coinbase and Stripe for AI Agent USDC Payments",
+        "excerpt": "Amazon Web Services has partnered with Coinbase and Stripe on a new system that lets AI agents pay for APIs, data, and online services using the USDC stablecoin.",
+        "body": "Amazon Web Services has unveiled a new system developed with Coinbase and Stripe that allows AI agents to pay for APIs, data, and online services using the USDC stablecoin. The system focuses on enabling AI agents to access digital services and handle payments without a person making each transaction manually. The context is growing demand for AI agents to perform online tasks that may require paying for API access and data usage. USDC is a dollar-pegged stablecoin, and the collaboration highlights a link between AI-based service use and crypto payment infrastructure. The approach could broaden how AI agents use automated payments across APIs, data, and online services. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "Amazon AWS、Coinbase・StripeとAIエージェントのUSDC決済に対応",
+        "excerpt": "Amazon Web ServicesはCoinbase、Stripeと協力し、AIエージェントがUSDCステーブルコインでAPI、データ、オンラインサービス料金を支払える新システムを発表した。",
+        "body": "Amazon Web Services（AWS）は、CoinbaseとStripeと協力し、AIエージェントがUSDCステーブルコインでAPI、データ、オンラインサービスの料金を支払える新システムを公開した。この仕組みは、人が取引ごとに手動で決済しなくても、AIエージェントが必要なデジタルサービスへアクセスし、支払いを処理できるようにすることを目的としている。背景には、AIエージェントがオンライン作業を行う中でAPIやデータ利用料を支払う需要がある。USDCは米ドルに連動するステーブルコインで、今回の協力はAIサービス利用と暗号資産決済インフラが接点を持つ事例として注目される。今後、API、データ、オンラインサービス領域でAIエージェントの自動決済活用が広がる可能性がある。出典: decrypt.co。"
+      },
+      "zh": {
+        "title": "亚马逊AWS携手Coinbase和Stripe支持AI代理USDC支付",
+        "excerpt": "亚马逊云科技与Coinbase和Stripe合作推出新系统，让AI代理可使用USDC稳定币支付API、数据和在线服务费用。",
+        "body": "亚马逊云科技（AWS）与Coinbase和Stripe合作，推出一套新系统，使AI代理能够使用USDC稳定币支付API、数据和在线服务费用。该系统的重点是让AI代理在无需人工逐笔操作付款的情况下，访问所需数字服务并完成支付。其背景是，AI代理在执行在线任务时，可能需要为API访问和数据使用付费。USDC是一种与美元挂钩的稳定币，此次合作显示了AI服务使用场景与加密支付基础设施之间的结合。未来，AI代理的自动支付应用范围可能在API、数据和在线服务领域进一步扩大。来源：decrypt.co。"
+      },
+      "es": {
+        "title": "Amazon AWS se une a Coinbase y Stripe para pagos USDC de agentes de IA",
+        "excerpt": "Amazon Web Services se alió con Coinbase y Stripe para crear un sistema que permite a agentes de IA pagar APIs, datos y servicios online con la stablecoin USDC.",
+        "body": "Amazon Web Services presentó un nuevo sistema desarrollado con Coinbase y Stripe que permite a los agentes de IA pagar APIs, datos y servicios online usando la stablecoin USDC. El sistema busca que los agentes de IA accedan a servicios digitales y gestionen pagos sin que una persona tenga que aprobar manualmente cada transacción. El contexto es la demanda de agentes de IA que realizan tareas online y pueden necesitar pagar por acceso a APIs y uso de datos. USDC es una stablecoin vinculada al dólar, y esta colaboración muestra un punto de contacto entre el uso de servicios basados en IA y la infraestructura de pagos cripto. En adelante, los pagos automatizados de agentes de IA podrían ampliarse en APIs, datos y servicios online. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Amazon AWS une Coinbase e Stripe para pagamentos USDC de agentes de IA",
+        "excerpt": "A Amazon Web Services fez parceria com Coinbase e Stripe em um sistema que permite a agentes de IA pagar APIs, dados e serviços online com a stablecoin USDC.",
+        "body": "A Amazon Web Services apresentou um novo sistema desenvolvido com Coinbase e Stripe que permite a agentes de IA pagar por APIs, dados e serviços online usando a stablecoin USDC. O foco é permitir que agentes de IA acessem serviços digitais e processem pagamentos sem que uma pessoa realize manualmente cada transação. O contexto é a demanda por agentes de IA que executam tarefas online e podem precisar pagar por acesso a APIs e uso de dados. USDC é uma stablecoin atrelada ao dólar, e a parceria destaca a conexão entre o uso de serviços baseados em IA e a infraestrutura de pagamentos cripto. No futuro, o uso de pagamentos automatizados por agentes de IA pode se expandir em APIs, dados e serviços online. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Amazon AWS kooperiert mit Coinbase und Stripe für USDC-Zahlungen von KI-Agenten",
+        "excerpt": "Amazon Web Services arbeitet mit Coinbase und Stripe an einem neuen System, mit dem KI-Agenten APIs, Daten und Onlinedienste per USDC-Stablecoin bezahlen können.",
+        "body": "Amazon Web Services hat ein neues System vorgestellt, das gemeinsam mit Coinbase und Stripe entwickelt wurde und KI-Agenten Zahlungen für APIs, Daten und Onlinedienste mit dem USDC-Stablecoin ermöglicht. Im Mittelpunkt steht, dass KI-Agenten digitale Dienste nutzen und Zahlungen abwickeln können, ohne dass jede Transaktion manuell durch eine Person erfolgt. Hintergrund ist die Nachfrage nach KI-Agenten, die Onlineaufgaben erledigen und dabei für API-Zugänge oder Datennutzung bezahlen müssen. USDC ist ein an den US-Dollar gekoppelter Stablecoin. Die Kooperation zeigt damit eine Verbindung zwischen KI-gestützter Servicenutzung und Krypto-Zahlungsinfrastruktur. Künftig könnte sich der Einsatz automatisierter Zahlungen durch KI-Agenten in den Bereichen APIs, Daten und Onlinedienste ausweiten. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Amazon AWS s’allie à Coinbase et Stripe pour les paiements USDC des agents IA",
+        "excerpt": "Amazon Web Services s’associe à Coinbase et Stripe pour un système permettant aux agents IA de payer API, données et services en ligne avec le stablecoin USDC.",
+        "body": "Amazon Web Services a présenté un nouveau système conçu avec Coinbase et Stripe, permettant aux agents IA de payer des API, des données et des services en ligne avec le stablecoin USDC. Le dispositif vise à permettre aux agents IA d’accéder à des services numériques et de gérer les paiements sans intervention humaine pour chaque transaction. Le contexte est la demande croissante d’agents IA capables d’exécuter des tâches en ligne pouvant nécessiter le paiement d’accès API ou d’utilisation de données. USDC est un stablecoin adossé au dollar, et cette collaboration illustre le lien entre l’usage de services fondés sur l’IA et l’infrastructure de paiement crypto. À l’avenir, les paiements automatisés par agents IA pourraient s’étendre aux API, aux données et aux services en ligne. Source : decrypt.co."
+      },
+      "ar": {
+        "title": "أمازون AWS تتعاون مع Coinbase وStripe لمدفوعات USDC لوكلاء الذكاء الاصطناعي",
+        "excerpt": "تعاونت Amazon Web Services مع Coinbase وStripe لإطلاق نظام يتيح لوكلاء الذكاء الاصطناعي دفع تكاليف واجهات API والبيانات والخدمات عبر الإنترنت بعملة USDC المستقرة.",
+        "body": "كشفت Amazon Web Services عن نظام جديد بالتعاون مع Coinbase وStripe يتيح لوكلاء الذكاء الاصطناعي دفع تكاليف واجهات API والبيانات والخدمات عبر الإنترنت باستخدام عملة USDC المستقرة. يركز النظام على تمكين وكلاء الذكاء الاصطناعي من الوصول إلى الخدمات الرقمية ومعالجة المدفوعات دون أن ينفذ شخص كل معاملة يدويا. وتأتي الخلفية من الحاجة إلى وكلاء ذكاء اصطناعي ينفذون مهاما عبر الإنترنت وقد يحتاجون إلى دفع رسوم الوصول إلى واجهات API أو استخدام البيانات. تعد USDC عملة مستقرة مرتبطة بالدولار، ويبرز هذا التعاون نقطة التقاء بين استخدام خدمات الذكاء الاصطناعي وبنية مدفوعات العملات المشفرة. وقد يتوسع استخدام المدفوعات الآلية لوكلاء الذكاء الاصطناعي في مجالات واجهات API والبيانات والخدمات عبر الإنترنت. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "Amazon AWS ने AI एजेंट USDC भुगतान के लिए Coinbase और Stripe से हाथ मिलाया",
+        "excerpt": "Amazon Web Services ने Coinbase और Stripe के साथ नया सिस्टम पेश किया है, जिससे AI एजेंट USDC स्टेबलकॉइन से API, डेटा और ऑनलाइन सेवाओं का भुगतान कर सकते हैं।",
+        "body": "Amazon Web Services ने Coinbase और Stripe के साथ विकसित एक नया सिस्टम पेश किया है, जो AI एजेंटों को USDC स्टेबलकॉइन के जरिए API, डेटा और ऑनलाइन सेवाओं के लिए भुगतान करने देता है। इस सिस्टम का लक्ष्य यह है कि AI एजेंट हर भुगतान के लिए इंसानी हस्तक्षेप के बिना जरूरी डिजिटल सेवाओं तक पहुंच सकें और भुगतान संभाल सकें। इसकी पृष्ठभूमि में ऐसे AI एजेंटों की मांग है जो ऑनलाइन कार्य करते हैं और जिन्हें API एक्सेस या डेटा उपयोग के लिए भुगतान करना पड़ सकता है। USDC डॉलर से जुड़ा स्टेबलकॉइन है, और यह सहयोग AI आधारित सेवाओं के उपयोग तथा क्रिप्टो भुगतान ढांचे के बीच संबंध दिखाता है। आगे चलकर AI एजेंटों के स्वचालित भुगतान का उपयोग API, डेटा और ऑनलाइन सेवाओं में बढ़ सकता है। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Amazon AWS Gandeng Coinbase dan Stripe untuk Pembayaran USDC Agen AI",
+        "excerpt": "Amazon Web Services bekerja sama dengan Coinbase dan Stripe menghadirkan sistem yang memungkinkan agen AI membayar API, data, dan layanan online memakai stablecoin USDC.",
+        "body": "Amazon Web Services memperkenalkan sistem baru yang dikembangkan bersama Coinbase dan Stripe, yang memungkinkan agen AI membayar API, data, dan layanan online menggunakan stablecoin USDC. Sistem ini berfokus pada kemampuan agen AI untuk mengakses layanan digital dan memproses pembayaran tanpa manusia melakukan setiap transaksi secara manual. Latar belakangnya adalah kebutuhan agen AI yang menjalankan tugas online dan mungkin harus membayar akses API atau penggunaan data. USDC adalah stablecoin yang dipatok ke dolar, dan kerja sama ini menunjukkan pertemuan antara penggunaan layanan berbasis AI dan infrastruktur pembayaran kripto. Ke depan, pemakaian pembayaran otomatis oleh agen AI dapat meluas di area API, data, dan layanan online. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "9917b823b7ca",
+    "slug": "bitcoin-bulls-target-115k-by-december-does-data-back-the-exp-450623",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T01:06:57.474Z",
+    "updatedAt": "2026-05-08T01:06:57.474Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/bitcoin-bulls-target-115k-by-december-does-data-back-the-expectation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/bitcoin-bulls-target-115k-by-december-does-data-back-the-expectation",
+    "titleFingerprint": "665d794b96ede6a944e957634d60f58ffe6e8d19",
+    "dedupKeys": [
+      "9917b823b7ca5002586c3eebbb1839a6f1a9b8aa",
+      "665d794b96ede6a944e957634d60f58ffe6e8d19",
+      "4eb4724e5294e13e2c56a40a72008997cacb6e5a"
+    ],
+    "imageUrl": "/images/articles/9917b823b7ca.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 강세론, 12월 11만5천달러 목표…옵션 데이터가 뒷받침할까",
+        "excerpt": "비트코인 옵션 시장에서 강세 투자자들이 12월까지 11만5천달러를 겨냥하는 가운데, 트레이더들의 기대가 과도한지 데이터가 주목받고 있다.",
+        "body": "비트코인 강세론자들이 12월까지 가격 목표를 11만5천달러로 제시하고 있다. cointelegraph.com에 따르면 비트코인 옵션 흐름은 연말 고점을 기대하는 투자자들의 포지셔닝을 보여준다. 다만 핵심 쟁점은 이 기대가 실제 데이터로 뒷받침되는지, 아니면 트레이더들이 지나치게 낙관적으로 기울고 있는지다. 옵션 시장은 향후 가격 기대를 반영하지만, 목표가 달성 여부를 보장하지는 않는다. 시장 참가자들은 연말까지 비트코인 가격 흐름과 옵션 수요 변화를 함께 확인할 필요가 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Bitcoin Bulls Eye $115K by December as Options Data Faces Test",
+        "excerpt": "Bitcoin options show bullish traders targeting $115,000 by December, raising the question of whether market expectations are becoming too optimistic.",
+        "body": "Bitcoin bulls are setting a $115,000 price target for December. According to cointelegraph.com, Bitcoin options activity shows positioning by investors expecting a year-end high. The key question is whether that expectation is supported by data or whether traders are becoming too optimistic. Options markets can reflect future price expectations, but they do not guarantee that a target will be reached. Market participants will need to watch Bitcoin’s price action and changes in options demand through year-end. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "ビットコイン強気派、12月に11.5万ドル目標…オプションデータは示すか",
+        "excerpt": "ビットコインのオプション市場では強気派が12月までに11万5000ドルを狙う一方、投資家の期待が過度に楽観的かが焦点となっている。",
+        "body": "ビットコインの強気派は、12月までの価格目標として11万5000ドルを掲げている。cointelegraph.comによると、ビットコインのオプション動向は年末高値を期待する投資家のポジショニングを示している。ただし焦点は、その期待がデータで裏付けられているのか、それともトレーダーが過度に楽観へ傾いているのかだ。オプション市場は将来の価格期待を反映し得るが、目標達成を保証するものではない。市場参加者は年末まで価格推移とオプション需要の変化を確認する必要がある。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "比特币多头瞄准12月11.5万美元，期权数据能否支撑预期",
+        "excerpt": "比特币期权显示多头交易者瞄准12月前11.5万美元目标，市场关注这一预期是否已有数据支撑或过度乐观。",
+        "body": "比特币多头正把12月前的价格目标设定在11.5万美元。cointelegraph.com称，比特币期权走势显示，部分投资者正在为年末高位进行布局。不过，核心问题在于这一预期是否得到数据支持，还是交易者已经变得过于乐观。期权市场可以反映未来价格预期，但并不保证目标一定实现。市场参与者需要在年末前继续观察比特币价格走势以及期权需求的变化。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Alcistas de Bitcoin apuntan a $115.000 en diciembre: la prueba está en los datos",
+        "excerpt": "Las opciones de Bitcoin muestran a operadores alcistas buscando $115.000 para diciembre, mientras crece la duda sobre si el optimismo es excesivo.",
+        "body": "Los alcistas de Bitcoin están fijando un objetivo de precio de $115.000 para diciembre. Según cointelegraph.com, el movimiento en las opciones de Bitcoin muestra el posicionamiento de inversores que esperan un máximo hacia fin de año. La cuestión central es si esa expectativa está respaldada por los datos o si los traders se están volviendo demasiado optimistas. El mercado de opciones puede reflejar expectativas futuras de precio, pero no garantiza que el objetivo se cumpla. Los participantes deberán seguir la evolución del precio de Bitcoin y la demanda de opciones hasta fin de año. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Alta do Bitcoin mira US$ 115 mil em dezembro; opções sustentam a aposta?",
+        "excerpt": "Opções de Bitcoin mostram investidores otimistas mirando US$ 115 mil até dezembro, enquanto cresce a dúvida sobre possível excesso de otimismo.",
+        "body": "Os investidores otimistas com Bitcoin estão apontando para uma meta de US$ 115 mil até dezembro. Segundo cointelegraph.com, o fluxo de opções de Bitcoin mostra posicionamento de participantes que esperam uma máxima no fim do ano. A questão principal é se essa expectativa é sustentada pelos dados ou se os traders estão ficando otimistas demais. O mercado de opções pode refletir expectativas futuras de preço, mas não garante que a meta será alcançada. Participantes do mercado devem acompanhar a trajetória do Bitcoin e mudanças na demanda por opções até o fim do ano. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Bitcoin-Bullen zielen auf 115.000 Dollar bis Dezember: Stützen Daten die Wette?",
+        "excerpt": "Bitcoin-Optionen zeigen bullische Trader mit Ziel 115.000 Dollar bis Dezember; im Fokus steht, ob die Erwartung bereits zu optimistisch ist.",
+        "body": "Bitcoin-Bullen nennen für Dezember ein Kursziel von 115.000 Dollar. Laut cointelegraph.com zeigt die Aktivität bei Bitcoin-Optionen eine Positionierung von Investoren, die auf ein Hoch zum Jahresende setzen. Entscheidend ist jedoch, ob diese Erwartung durch Daten gestützt wird oder ob Trader bereits zu optimistisch geworden sind. Optionsmärkte können künftige Preiserwartungen widerspiegeln, garantieren aber nicht, dass ein Ziel erreicht wird. Marktteilnehmer sollten bis zum Jahresende sowohl den Bitcoin-Kurs als auch Veränderungen der Optionsnachfrage beobachten. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Bitcoin vise 115 000 $ d’ici décembre: les options confirment-elles l’élan?",
+        "excerpt": "Les options Bitcoin montrent des traders haussiers visant 115 000 $ d’ici décembre, mais la question reste de savoir si l’optimisme devient excessif.",
+        "body": "Les investisseurs haussiers sur Bitcoin fixent un objectif de 115 000 $ d’ici décembre. Selon cointelegraph.com, l’activité sur les options Bitcoin montre un positionnement d’investisseurs qui anticipent un sommet en fin d’année. Le point central est de savoir si cette attente est soutenue par les données ou si les traders deviennent trop optimistes. Le marché des options peut refléter les anticipations de prix futures, mais il ne garantit pas que l’objectif sera atteint. Les acteurs du marché devront suivre l’évolution du prix du Bitcoin et la demande d’options jusqu’à la fin de l’année. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "ثيران بيتكوين يستهدفون 115 ألف دولار في ديسمبر فهل تدعم البيانات ذلك؟",
+        "excerpt": "تُظهر خيارات بيتكوين أن المتداولين المتفائلين يستهدفون 115 ألف دولار بحلول ديسمبر، وسط تساؤلات حول ما إذا كانت التوقعات مفرطة في التفاؤل.",
+        "body": "يضع المتفائلون ببيتكوين هدفا سعريا عند 115 ألف دولار بحلول ديسمبر. ووفقا لـ cointelegraph.com، تُظهر حركة خيارات بيتكوين تموضع مستثمرين يتوقعون مستوى مرتفعا بنهاية العام. لكن السؤال الأساسي هو ما إذا كانت هذه التوقعات مدعومة بالبيانات، أم أن المتداولين أصبحوا مفرطين في التفاؤل. يمكن لسوق الخيارات أن يعكس توقعات الأسعار المستقبلية، لكنه لا يضمن تحقق الهدف. لذلك يحتاج المشاركون في السوق إلى متابعة حركة سعر بيتكوين وتغيرات الطلب على الخيارات حتى نهاية العام. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "बिटकॉइन बुल्स दिसंबर तक $115K पर नजर, क्या ऑप्शंस डेटा समर्थन करता है?",
+        "excerpt": "बिटकॉइन ऑप्शंस में तेजी वाले ट्रेडर दिसंबर तक $115,000 का लक्ष्य देख रहे हैं, लेकिन सवाल है कि क्या यह उम्मीद जरूरत से ज्यादा आशावादी है।",
+        "body": "बिटकॉइन के बुल्स दिसंबर तक $115,000 के मूल्य लक्ष्य पर नजर रख रहे हैं। cointelegraph.com के अनुसार, बिटकॉइन ऑप्शंस की गतिविधि दिखाती है कि निवेशक साल के अंत में ऊंचे स्तर की उम्मीद के साथ पोजिशन बना रहे हैं। मुख्य सवाल यह है कि क्या यह उम्मीद डेटा से समर्थित है या ट्रेडर जरूरत से ज्यादा आशावादी हो रहे हैं। ऑप्शंस बाजार भविष्य की कीमतों की अपेक्षाओं को दिखा सकता है, लेकिन लक्ष्य पूरा होने की गारंटी नहीं देता। बाजार प्रतिभागियों को साल के अंत तक बिटकॉइन की कीमत और ऑप्शंस मांग में बदलाव पर नजर रखनी होगी। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Bulls Bitcoin Bidik $115K pada Desember, Data Opsi Jadi Ujian",
+        "excerpt": "Opsi Bitcoin menunjukkan trader bullish menargetkan $115.000 hingga Desember, sementara pasar menilai apakah ekspektasi itu terlalu optimistis.",
+        "body": "Bulls Bitcoin menetapkan target harga $115.000 hingga Desember. Menurut cointelegraph.com, pergerakan opsi Bitcoin menunjukkan posisi investor yang mengharapkan level tinggi pada akhir tahun. Namun, pertanyaan utamanya adalah apakah ekspektasi itu didukung oleh data atau trader mulai terlalu optimistis. Pasar opsi dapat mencerminkan ekspektasi harga ke depan, tetapi tidak menjamin target akan tercapai. Pelaku pasar perlu memantau pergerakan harga Bitcoin dan perubahan permintaan opsi hingga akhir tahun. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "f5e611268422",
     "slug": "trump-backed-american-bitcoin-shares-fall-after-82-million-q-414578",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Kraken Akan Beli Reap, Perusahaan Pembayaran Stablecoin, Senilai $600 Juta",
         "excerpt": "Pemilik Kraken, Payward, akan mengakuisisi Reap Technologies yang berbasis di Hong Kong senilai $600 juta untuk memperluas infrastruktur stablecoin dan pembayaran di Asia, lapor Bloomberg.",
         "body": "Menurut Bloomberg, pemilik Kraken, Payward, akan mengakuisisi Reap Technologies, perusahaan pembayaran stablecoin yang berbasis di Hong Kong, dalam kesepakatan senilai $600 juta. Akuisisi ini dilakukan saat bursa kripto Kraken memperluas bisnis infrastruktur stablecoin dan pembayaran di Asia. Reap adalah perusahaan teknologi pembayaran berbasis Hong Kong, dengan nilai transaksi yang dilaporkan sebesar $600 juta. Jika selesai, kesepakatan ini akan memperkuat basis Kraken dalam infrastruktur pembayaran dan bisnis terkait stablecoin di Asia. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "cdf2bf0e38a1",
-    "slug": "trustedvolumes-hit-by-67m-exploit-as-1inch-denies-breach-349816",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T12:12:21.554Z",
-    "updatedAt": "2026-05-07T12:12:21.554Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/1inch-fusion-resolver-trusted-volumes-floats-bounty-after-67m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/1inch-fusion-resolver-trusted-volumes-floats-bounty-after-67m-exploit",
-    "titleFingerprint": "a99233ab84fe06743ae23291ed64aa5306f34e15",
-    "dedupKeys": [
-      "cdf2bf0e38a19b78aa7679946090173966fd4b48",
-      "a99233ab84fe06743ae23291ed64aa5306f34e15",
-      "e4319bf63700e783ae5a02852d4c34b33e775d15"
-    ],
-    "imageUrl": "/images/articles/cdf2bf0e38a1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "TrustedVolumes 670만달러 익스플로잇, 1inch 침해 의혹 부인",
-        "excerpt": "1inch는 독립 리졸버 TrustedVolumes를 겨냥한 670만달러 규모 익스플로잇과 관련해 자사 프로토콜, 인프라, 사용자 자금은 영향받지 않았다고 밝혔다.",
-        "body": "독립 리졸버 TrustedVolumes가 670만달러 규모 익스플로잇을 당한 가운데, 1inch는 이번 사건이 자사 침해가 아니라고 밝혔다. 1inch는 공격 대상이 TrustedVolumes였으며, 자사 프로토콜과 인프라, 사용자 자금은 영향을 받지 않았다고 설명했다. 이번 사안은 1inch 생태계와 연결된 독립 운영 주체의 보안 이슈로 알려졌지만, 1inch는 핵심 시스템과 이용자 자산에는 문제가 없다는 입장을 분명히 했다. 시장 영향은 TrustedVolumes 관련 범위에 한정될 가능성이 거론된다. 출처: cointelegraph.com 인용."
-      },
-      "en": {
-        "title": "TrustedVolumes $6.7M Exploit: 1inch Denies Any Breach",
-        "excerpt": "1inch said its protocols, infrastructure and user funds were not affected after a $6.7 million exploit targeted independent resolver TrustedVolumes.",
-        "body": "Independent resolver TrustedVolumes was hit by a $6.7 million exploit, while 1inch said the incident was not a breach of its own systems. According to 1inch, the attack targeted TrustedVolumes, and its protocols, infrastructure and user funds were not affected. The case has been described as a security issue involving an independently operated resolver connected to the 1inch ecosystem, but 1inch emphasized that its core systems and user assets remained unaffected. Any market impact is expected to be limited to the TrustedVolumes-related scope. Source: cited from cointelegraph.com."
-      },
-      "ja": {
-        "title": "TrustedVolumesで670万ドル被害、1inchは侵害を否定",
-        "excerpt": "1inchは、独立リゾルバーTrustedVolumesを狙った670万ドル規模のエクスプロイトについて、自社プロトコルやインフラ、ユーザー資金に影響はないと述べた。",
-        "body": "独立リゾルバーのTrustedVolumesが670万ドル規模のエクスプロイトを受けるなか、1inchは今回の事案が自社システムの侵害ではないと説明した。1inchによれば、攻撃対象はTrustedVolumesであり、自社プロトコル、インフラ、ユーザー資金には影響がなかった。今回の件は1inchエコシステムに関連する独立運営主体のセキュリティ問題とされるが、1inchは中核システムと利用者資産に問題はないとの立場を明確にした。市場への影響はTrustedVolumes関連の範囲に限られる可能性がある。出典: cointelegraph.com引用。"
-      },
-      "zh": {
-        "title": "TrustedVolumes遭670万美元攻击，1inch否认被入侵",
-        "excerpt": "1inch表示，针对独立解析器TrustedVolumes的670万美元漏洞攻击，并未影响其协议、基础设施和用户资金。",
-        "body": "独立解析器TrustedVolumes遭遇670万美元规模的漏洞攻击后，1inch表示该事件并非其自身系统遭到入侵。1inch称，攻击目标是TrustedVolumes，其协议、基础设施和用户资金均未受到影响。此事被视为与1inch生态相关的独立运营方安全事件，但1inch明确强调，核心系统和用户资产没有出现问题。相关市场影响可能仅限于TrustedVolumes涉及的范围。来源：引用cointelegraph.com。"
-      },
-      "es": {
-        "title": "TrustedVolumes sufre exploit de $6,7M; 1inch niega brecha",
-        "excerpt": "1inch afirmó que sus protocolos, infraestructura y fondos de usuarios no fueron afectados por el exploit de 6,7 millones de dólares contra TrustedVolumes.",
-        "body": "El resolver independiente TrustedVolumes sufrió un exploit de 6,7 millones de dólares, mientras 1inch afirmó que el incidente no fue una brecha de sus propios sistemas. Según 1inch, el ataque tuvo como objetivo a TrustedVolumes y no afectó sus protocolos, infraestructura ni fondos de usuarios. El caso se presenta como un problema de seguridad de un operador independiente vinculado al ecosistema de 1inch, pero la firma subrayó que sus sistemas centrales y los activos de los usuarios no registraron impacto. El efecto de mercado podría quedar limitado al ámbito relacionado con TrustedVolumes. Fuente: citado de cointelegraph.com."
-      },
-      "pt": {
-        "title": "TrustedVolumes sofre exploit de US$ 6,7 mi; 1inch nega invasão",
-        "excerpt": "A 1inch disse que seus protocolos, infraestrutura e fundos de usuários não foram afetados pelo exploit de US$ 6,7 milhões contra a TrustedVolumes.",
-        "body": "A resolver independente TrustedVolumes sofreu um exploit de US$ 6,7 milhões, enquanto a 1inch afirmou que o caso não foi uma invasão de seus próprios sistemas. Segundo a 1inch, o ataque teve como alvo a TrustedVolumes, e seus protocolos, infraestrutura e fundos de usuários não foram afetados. O episódio é descrito como uma questão de segurança envolvendo uma entidade independente ligada ao ecossistema da 1inch, mas a empresa reforçou que seus sistemas centrais e os ativos dos usuários permaneceram intactos. O impacto de mercado pode ficar restrito ao escopo relacionado à TrustedVolumes. Fonte: citado de cointelegraph.com."
-      },
-      "de": {
-        "title": "TrustedVolumes erleidet 6,7-Mio.-Dollar-Exploit, 1inch dementiert",
-        "excerpt": "1inch erklärte, dass Protokolle, Infrastruktur und Nutzergelder vom 6,7-Mio.-Dollar-Exploit gegen den unabhängigen Resolver TrustedVolumes nicht betroffen waren.",
-        "body": "Der unabhängige Resolver TrustedVolumes wurde von einem Exploit über 6,7 Millionen Dollar getroffen, während 1inch erklärte, der Vorfall sei kein Angriff auf die eigenen Systeme gewesen. Nach Angaben von 1inch richtete sich der Angriff gegen TrustedVolumes; Protokolle, Infrastruktur und Nutzergelder von 1inch waren nicht betroffen. Der Fall gilt als Sicherheitsproblem eines unabhängig betriebenen Akteurs mit Bezug zum 1inch-Ökosystem, doch 1inch betonte, dass Kernsysteme und Nutzervermögen unberührt blieben. Mögliche Marktauswirkungen dürften sich auf den TrustedVolumes-Kontext beschränken. Quelle: zitiert nach cointelegraph.com."
-      },
-      "fr": {
-        "title": "TrustedVolumes visé par un exploit de 6,7 M$; 1inch nie toute faille",
-        "excerpt": "1inch a déclaré que ses protocoles, son infrastructure et les fonds des utilisateurs n’avaient pas été touchés par l’exploit de 6,7 M$ visant TrustedVolumes.",
-        "body": "Le résolveur indépendant TrustedVolumes a subi un exploit de 6,7 millions de dollars, tandis que 1inch a affirmé que l’incident ne constituait pas une compromission de ses propres systèmes. Selon 1inch, l’attaque visait TrustedVolumes, et ses protocoles, son infrastructure ainsi que les fonds des utilisateurs n’ont pas été affectés. L’affaire relève d’un problème de sécurité concernant un opérateur indépendant lié à l’écosystème 1inch, mais la société a précisé que ses systèmes centraux et les actifs des utilisateurs restaient indemnes. L’impact de marché pourrait se limiter au périmètre lié à TrustedVolumes. Source: cité de cointelegraph.com."
-      },
-      "ar": {
-        "title": "استغلال TrustedVolumes بـ6.7 مليون دولار و1inch تنفي الاختراق",
-        "excerpt": "قالت 1inch إن بروتوكولاتها وبنيتها التحتية وأموال المستخدمين لم تتأثر بالاستغلال الذي استهدف محلل الطلبات المستقل TrustedVolumes بقيمة 6.7 مليون دولار.",
-        "body": "تعرّض محلل الطلبات المستقل TrustedVolumes لاستغلال بقيمة 6.7 مليون دولار، فيما قالت 1inch إن الحادث لا يمثل اختراقا لأنظمتها. وأوضحت 1inch أن الهجوم استهدف TrustedVolumes، وأن بروتوكولاتها وبنيتها التحتية وأموال المستخدمين لم تتأثر. ويُعرض الأمر كمسألة أمنية تخص جهة تشغيل مستقلة مرتبطة بمنظومة 1inch، لكن الشركة شددت على أن أنظمتها الأساسية وأصول المستخدمين لم تتضرر. وقد يظل الأثر في السوق محصورا في النطاق المرتبط بـTrustedVolumes. المصدر: نقلا عن cointelegraph.com."
-      },
-      "hi": {
-        "title": "TrustedVolumes पर $6.7M एक्सप्लॉइट, 1inch ने सेंध से इनकार किया",
-        "excerpt": "1inch ने कहा कि स्वतंत्र रिजॉल्वर TrustedVolumes को निशाना बनाने वाले 6.7 मिलियन डॉलर के एक्सप्लॉइट से उसके प्रोटोकॉल, इन्फ्रास्ट्रक्चर और यूजर फंड प्रभावित नहीं हुए।",
-        "body": "स्वतंत्र रिजॉल्वर TrustedVolumes पर 6.7 मिलियन डॉलर का एक्सप्लॉइट हुआ, जबकि 1inch ने कहा कि यह उसके अपने सिस्टम में सेंध नहीं थी। 1inch के अनुसार, हमले का लक्ष्य TrustedVolumes था और उसके प्रोटोकॉल, इन्फ्रास्ट्रक्चर तथा यूजर फंड प्रभावित नहीं हुए। यह मामला 1inch इकोसिस्टम से जुड़े एक स्वतंत्र ऑपरेटर की सुरक्षा समस्या के रूप में सामने आया, लेकिन 1inch ने स्पष्ट किया कि उसके मुख्य सिस्टम और उपयोगकर्ता संपत्तियों पर कोई असर नहीं पड़ा। बाजार प्रभाव TrustedVolumes से जुड़े दायरे तक सीमित रह सकता है। स्रोत: cointelegraph.com से उद्धृत।"
-      },
-      "id": {
-        "title": "TrustedVolumes Kena Eksploitasi $6,7 Juta, 1inch Bantah Diretas",
-        "excerpt": "1inch menyatakan protokol, infrastruktur, dan dana pengguna tidak terdampak eksploitasi senilai $6,7 juta yang menargetkan resolver independen TrustedVolumes.",
-        "body": "Resolver independen TrustedVolumes terkena eksploitasi senilai $6,7 juta, sementara 1inch menyatakan insiden itu bukan pelanggaran terhadap sistemnya sendiri. Menurut 1inch, serangan tersebut menargetkan TrustedVolumes, dan protokol, infrastruktur, serta dana pengguna 1inch tidak terdampak. Kasus ini dipandang sebagai isu keamanan pada pihak independen yang terhubung dengan ekosistem 1inch, tetapi 1inch menegaskan bahwa sistem inti dan aset pengguna tetap tidak bermasalah. Dampak pasar kemungkinan terbatas pada ruang lingkup yang terkait TrustedVolumes. Sumber: dikutip dari cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "17d659786f8c",
-    "slug": "purge-of-millions-of-crypto-tokens-underway-btc-needs-it-for-709788",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T12:11:31.755Z",
-    "updatedAt": "2026-05-07T12:11:31.755Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/07/purge-of-millions-of-crypto-tokens-underway-btc-needs-it-for-sustainable-bull-cycle-ben-cowen",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/07/purge-of-millions-of-crypto-tokens-underway-btc-needs-it-for-sustainable-bull-cycle-ben-cowen",
-    "titleFingerprint": "86fdf4c5dd04866bbf52b72703a81c51a784dde1",
-    "dedupKeys": [
-      "17d659786f8c7552a3ed21bb2278f96080a9e899",
-      "86fdf4c5dd04866bbf52b72703a81c51a784dde1",
-      "bd80a19ef563148b0f5f67b7ecbfb46417d5de45"
-    ],
-    "imageUrl": "/images/articles/17d659786f8c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 강세장 위해 수백만 알트코인 정리 진행",
-        "excerpt": "시장 분석가 벤 코웬은 수백만 개 알트코인의 정리가 이미 진행 중이며, 지속 가능한 비트코인 강세장을 위해 필요한 과정이라고 밝혔다.",
-        "body": "리서처이자 시장 분석가인 벤 코웬은 수백만 개에 이르는 알트코인의 정리가 이미 진행되고 있으며, 이는 지속 가능한 비트코인 강세 사이클이 형성되기 위해 필요한 과정이라고 말했다. 그는 시장에 너무 많은 토큰이 존재하는 상황이 비트코인 중심의 건전한 상승 흐름을 방해할 수 있다는 취지로 설명했다. 이번 발언은 알트코인 공급 과잉과 시장 선별 압력이 커지는 가운데 나왔다. 코웬은 이러한 정리가 비트코인 강세장이 더 오래 유지되는 기반이 될 수 있다고 봤다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Bitcoin Bull Cycle Needs Altcoin Token Purge, Ben Cowen Says",
-        "excerpt": "Market analyst Ben Cowen says a purge of millions of altcoins is already underway and is needed for a sustainable bitcoin bull market.",
-        "body": "Researcher and market analyst Ben Cowen said a purge of millions of altcoins is already underway and is necessary for a sustainable bitcoin bull cycle to take shape. He explained that the presence of too many tokens in the market can hinder a healthier bitcoin-led upward trend. The comments come as concerns grow over excessive altcoin supply and stronger market selection pressure. Cowen said this cleanup could help provide a more durable foundation for a bitcoin bull market. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "ビットコイン強気相場に数百万アルトコイン整理が必要",
-        "excerpt": "市場アナリストのベン・コーウェン氏は、数百万のアルトコイン整理がすでに進行中で、持続的なビットコイン強気相場に必要だと述べた。",
-        "body": "リサーチャーで市場アナリストのベン・コーウェン氏は、数百万に上るアルトコインの整理がすでに進んでおり、持続可能なビットコインの強気サイクルが形成されるために必要な過程だと述べた。同氏は、市場にあまりに多くのトークンが存在する状況が、ビットコイン主導の健全な上昇基調を妨げ得るとの趣旨で説明した。この発言は、アルトコインの供給過多と市場の選別圧力が高まる中で出たものだ。コーウェン氏は、こうした整理がビットコイン強気相場をより長く支える基盤になり得ると見ている。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "比特币牛市需要清理数百万山寨币，Ben Cowen称",
-        "excerpt": "市场分析师Ben Cowen表示，数百万种山寨币的清理已经开始，这是形成可持续比特币牛市所需的过程。",
-        "body": "研究员兼市场分析师Ben Cowen表示，数百万种山寨币的清理已经在进行中，而这一过程对于形成可持续的比特币牛市周期是必要的。他解释称，市场上存在过多代币，可能会阻碍以比特币为核心的更健康上涨趋势。此番言论出现在山寨币供应过剩以及市场筛选压力加大的背景下。Cowen认为，这种清理可能为比特币牛市更长久地维持提供基础。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Bitcoin necesita purga de millones de altcoins, dice Ben Cowen",
-        "excerpt": "El analista Ben Cowen afirma que la purga de millones de altcoins ya está en marcha y es necesaria para un mercado alcista sostenible de bitcoin.",
-        "body": "El investigador y analista de mercado Ben Cowen dijo que la purga de millones de altcoins ya está en marcha y que es necesaria para que se forme un ciclo alcista sostenible de bitcoin. Explicó que la existencia de demasiados tokens en el mercado puede obstaculizar una tendencia alcista más sana liderada por bitcoin. Sus comentarios llegan en un contexto de exceso de oferta de altcoins y mayor presión de selección del mercado. Cowen considera que esta limpieza podría dar una base más duradera al mercado alcista de bitcoin. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Bitcoin precisa de expurgo de milhões de altcoins, diz Ben Cowen",
-        "excerpt": "O analista Ben Cowen afirma que a limpeza de milhões de altcoins já está em curso e é necessária para um ciclo sustentável de alta do bitcoin.",
-        "body": "O pesquisador e analista de mercado Ben Cowen disse que a limpeza de milhões de altcoins já está em andamento e que esse processo é necessário para a formação de um ciclo sustentável de alta do bitcoin. Ele explicou que a existência de tokens em excesso no mercado pode atrapalhar uma tendência de alta mais saudável liderada pelo bitcoin. A declaração ocorre em meio ao excesso de oferta de altcoins e ao aumento da pressão de seleção no mercado. Cowen vê essa limpeza como uma possível base para sustentar por mais tempo a alta do bitcoin. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Bitcoin-Bullenmarkt braucht Bereinigung von Millionen Altcoins",
-        "excerpt": "Marktanalyst Ben Cowen sagt, die Bereinigung von Millionen Altcoins laufe bereits und sei für einen nachhaltigen Bitcoin-Bullenmarkt nötig.",
-        "body": "Der Researcher und Marktanalyst Ben Cowen sagte, die Bereinigung von Millionen Altcoins sei bereits im Gange und notwendig, damit sich ein nachhaltiger Bitcoin-Bullenzyklus bilden könne. Er erklärte, dass zu viele Token am Markt einen gesünderen, von Bitcoin getragenen Aufwärtstrend behindern könnten. Die Aussagen fallen in eine Phase, in der das Überangebot an Altcoins und der Selektionsdruck am Markt zunehmen. Cowen sieht in dieser Bereinigung eine mögliche Grundlage dafür, dass ein Bitcoin-Bullenmarkt länger Bestand haben kann. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Bitcoin a besoin d’une purge de millions d’altcoins, selon Cowen",
-        "excerpt": "L’analyste Ben Cowen affirme que la purge de millions d’altcoins est déjà en cours et nécessaire à un marché haussier durable du bitcoin.",
-        "body": "Le chercheur et analyste de marché Ben Cowen a déclaré qu’une purge de millions d’altcoins était déjà en cours et qu’elle était nécessaire à la formation d’un cycle haussier durable du bitcoin. Selon lui, la présence d’un trop grand nombre de tokens sur le marché peut freiner une tendance haussière plus saine menée par le bitcoin. Ces propos interviennent alors que l’excès d’offre d’altcoins et la pression de sélection du marché augmentent. Cowen estime que ce nettoyage pourrait offrir une base plus solide à la durée du marché haussier du bitcoin. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "بيتكوين تحتاج إلى تصفية ملايين العملات البديلة، وفق بن كاون",
-        "excerpt": "قال المحلل بن كاون إن تصفية ملايين العملات البديلة بدأت بالفعل، وهي ضرورية لتكوين دورة صعود مستدامة في سوق بيتكوين.",
-        "body": "قال الباحث ومحلل الأسواق بن كاون إن تصفية ملايين العملات البديلة جارية بالفعل، وإنها عملية ضرورية لتشكيل دورة صعود مستدامة في بيتكوين. وأوضح أن وجود عدد كبير جدا من الرموز في السوق قد يعرقل اتجاها صعوديا أكثر صحة تقوده بيتكوين. جاءت تصريحاته في ظل تزايد المخاوف من فائض المعروض في العملات البديلة وارتفاع ضغط الانتقاء داخل السوق. ويرى كاون أن هذه التصفية قد توفر أساسا يساعد سوق بيتكوين الصاعد على الاستمرار مدة أطول. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "बिटकॉइन बुल साइकिल के लिए लाखों ऑल्टकॉइन की सफाई जरूरी",
-        "excerpt": "विश्लेषक बेन कोवेन का कहना है कि लाखों ऑल्टकॉइन की सफाई पहले से जारी है और टिकाऊ बिटकॉइन बुल मार्केट के लिए जरूरी है।",
-        "body": "शोधकर्ता और बाजार विश्लेषक बेन कोवेन ने कहा कि लाखों ऑल्टकॉइन की सफाई पहले से जारी है और टिकाऊ बिटकॉइन बुल साइकिल बनने के लिए यह प्रक्रिया जरूरी है। उन्होंने समझाया कि बाजार में बहुत अधिक टोकन मौजूद होना बिटकॉइन के नेतृत्व वाली स्वस्थ तेजी की दिशा में बाधा बन सकता है। यह बयान ऐसे समय आया है जब ऑल्टकॉइन की अत्यधिक आपूर्ति और बाजार में चयन का दबाव बढ़ रहा है। कोवेन के अनुसार, यह सफाई बिटकॉइन बुल मार्केट को अधिक समय तक टिकाए रखने की बुनियाद बन सकती है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Bitcoin Butuh Pembersihan Jutaan Altcoin, Kata Ben Cowen",
-        "excerpt": "Analis pasar Ben Cowen mengatakan pembersihan jutaan altcoin sudah berlangsung dan diperlukan untuk siklus bull bitcoin yang berkelanjutan.",
-        "body": "Peneliti dan analis pasar Ben Cowen mengatakan pembersihan jutaan altcoin sudah berlangsung dan diperlukan agar siklus bull bitcoin yang berkelanjutan dapat terbentuk. Ia menjelaskan bahwa terlalu banyak token di pasar dapat menghambat tren kenaikan yang lebih sehat dengan bitcoin sebagai pusatnya. Pernyataan ini muncul saat kelebihan pasokan altcoin dan tekanan seleksi pasar semakin meningkat. Cowen menilai pembersihan tersebut dapat menjadi dasar yang membantu bull market bitcoin bertahan lebih lama. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "a8d3307a8c31",
-    "slug": "bitcoin-narrowly-missed-a-major-breakout-history-says-be-car-364773",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T12:10:41.240Z",
-    "updatedAt": "2026-05-07T12:10:41.240Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/daybook-us/2026/05/07/bitcoin-narrowly-missed-a-major-breakout-history-says-be-careful",
-    "canonicalUrl": "https://www.coindesk.com/daybook-us/2026/05/07/bitcoin-narrowly-missed-a-major-breakout-history-says-be-careful",
-    "titleFingerprint": "d28236b00e83f4d51a34073f781c130a7380a14b",
-    "dedupKeys": [
-      "a8d3307a8c31d2069e428ffec1158d5606e2f62c",
-      "d28236b00e83f4d51a34073f781c130a7380a14b",
-      "c4d641f15c82fcf285ae8b953c1bfc95aeb0f24c"
-    ],
-    "imageUrl": "/images/articles/a8d3307a8c31.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 주요 돌파 실패, 5월 7일 시장이 조심해야 할 이유",
-        "excerpt": "2026년 5월 7일을 앞두고 비트코인이 주요 돌파에 근접했지만 실패했다는 분석이 나왔고, 과거 흐름은 투자자들에게 신중한 대응을 시사한다.",
-        "body": "2026년 5월 7일을 앞둔 크립토 시장에서 비트코인은 주요 돌파에 거의 도달했지만 끝내 확인에는 실패했다. 원문은 이 움직임을 당일 전 시장을 살펴보는 관점에서 다루며, 단순한 상승 기대보다 신중한 판단이 필요하다고 전했다. 배경은 비트코인이 중요한 가격 흐름을 앞두고도 확실한 돌파 신호를 만들지 못했다는 점이다. 관련 수치는 원문 요약에 제시되지 않았지만, 핵심 메시지는 과거 유사한 흐름이 경계심을 요구했다는 것이다. 이에 따라 단기 투자자와 시장 참여자는 돌파 여부를 재확인하며 변동성에 대비할 필요가 있다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Bitcoin Misses Key Breakout as May 7 Market Watch Urges Caution",
-        "excerpt": "Ahead of May 7, 2026, Bitcoin came close to a major breakout but failed to confirm it, while historical patterns suggest investors should stay cautious.",
-        "body": "Ahead of May 7, 2026, Bitcoin nearly reached a major breakout but failed to confirm the move. The original report framed this as a day-ahead look at the crypto market, emphasizing caution rather than simple upside expectations. The context is that Bitcoin approached an important market threshold without producing a clear breakout signal. No specific figures were provided in the original summary, but the main point was that history has called for care in similar situations. Short-term traders and market participants may therefore need to watch for confirmation and prepare for volatility. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "ビットコイン主要突破ならず、5月7日の市場は慎重姿勢に",
-        "excerpt": "2026年5月7日を前に、ビットコインは主要な突破に迫ったものの確認には至らず、過去の流れは投資家に慎重な対応を促している。",
-        "body": "2026年5月7日を前にした暗号資産市場で、ビットコインは主要なブレイクアウトにあと一歩まで迫ったが、最終的な確認には至らなかった。原文はこれを翌日の市場を見通す文脈で取り上げ、単純な上昇期待よりも慎重な判断が必要だと伝えている。背景には、重要な値動きの局面で明確な突破シグナルを作れなかった点がある。原文要約には具体的な数値は示されていないが、核心は過去の類似局面が警戒を促してきたということだ。短期投資家と市場参加者は、突破の確認と変動性への備えが求められる。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "比特币未能完成关键突破，5月7日市场需保持谨慎",
-        "excerpt": "在2026年5月7日到来前，比特币一度接近重大突破但未获确认，历史走势显示投资者仍需谨慎应对。",
-        "body": "在2026年5月7日到来前的加密市场中，比特币几乎触及一次重大突破，但最终未能获得确认。原文将这一走势放在日内前瞻的框架下分析，强调相比单纯期待上涨，市场更需要谨慎判断。背景在于，比特币虽然接近重要价格走势节点，却没有形成明确的突破信号。原文摘要未提供具体数据，但核心信息是，历史上类似走势往往要求投资者保持警惕。因此，短线交易者和市场参与者需要继续确认突破是否成立，并为波动做好准备。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Bitcoin falla un breakout clave y el mercado del 7 de mayo pide cautela",
-        "excerpt": "De cara al 7 de mayo de 2026, Bitcoin estuvo cerca de un gran breakout pero no lo confirmó, mientras la historia sugiere cautela para los inversores.",
-        "body": "De cara al 7 de mayo de 2026, Bitcoin estuvo muy cerca de un breakout importante, pero no logró confirmarlo. El informe original lo presentó como una mirada previa al mercado cripto del día siguiente y destacó la necesidad de cautela por encima de una simple expectativa alcista. El contexto es que Bitcoin se acercó a una zona técnica relevante sin generar una señal clara de ruptura. El resumen original no incluyó cifras específicas, pero el mensaje central fue que la historia aconseja cuidado en situaciones similares. Por ello, los operadores de corto plazo y participantes del mercado deberían vigilar la confirmación y prepararse para la volatilidad. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Bitcoin falha rompimento importante e mercado de 7 de maio pede cautela",
-        "excerpt": "Antes de 7 de maio de 2026, o Bitcoin ficou perto de um grande rompimento, mas não confirmou o movimento, e o histórico sugere cautela aos investidores.",
-        "body": "Antes de 7 de maio de 2026, o Bitcoin chegou muito perto de um rompimento importante, mas não conseguiu confirmar o movimento. O texto original tratou o tema como uma visão antecipada do mercado cripto para o dia seguinte, destacando cautela em vez de uma expectativa simples de alta. O contexto é que o Bitcoin se aproximou de um ponto relevante de preço sem produzir um sinal claro de rompimento. O resumo original não apresentou números específicos, mas a mensagem central foi que a história recomenda cuidado em situações semelhantes. Assim, traders de curto prazo e participantes do mercado devem acompanhar a confirmação e se preparar para volatilidade. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Bitcoin verpasst wichtigen Ausbruch, Markt am 7. Mai bleibt vorsichtig",
-        "excerpt": "Vor dem 7. Mai 2026 näherte sich Bitcoin einem wichtigen Ausbruch, bestätigte ihn aber nicht; historische Muster mahnen Anleger zur Vorsicht.",
-        "body": "Vor dem 7. Mai 2026 stand Bitcoin kurz vor einem wichtigen Ausbruch, konnte diese Bewegung jedoch nicht bestätigen. Der Originalbericht ordnete dies als Ausblick auf den Kryptomarkt des Folgetages ein und betonte, dass Vorsicht wichtiger sei als reine Aufwärtserwartungen. Der Hintergrund ist, dass Bitcoin eine bedeutende Marktzone erreichte, ohne ein klares Ausbruchssignal zu liefern. Konkrete Zahlen wurden in der ursprünglichen Zusammenfassung nicht genannt, doch die Kernaussage lautet, dass die Geschichte in ähnlichen Situationen zur Vorsicht mahnt. Kurzfristige Trader und Marktteilnehmer sollten daher auf Bestätigung achten und sich auf Volatilität einstellen. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Bitcoin manque une cassure majeure, prudence avant le marché du 7 mai",
-        "excerpt": "À l’approche du 7 mai 2026, Bitcoin a frôlé une cassure majeure sans la confirmer, tandis que l’historique invite les investisseurs à rester prudents.",
-        "body": "À l’approche du 7 mai 2026, Bitcoin a presque atteint une cassure majeure, mais le mouvement n’a pas été confirmé. L’article original l’a présenté comme un aperçu du marché crypto pour la journée suivante, en soulignant la prudence plutôt qu’une simple attente de hausse. Le contexte est que Bitcoin s’est rapproché d’un seuil de marché important sans produire de signal clair de cassure. Le résumé original ne fournit pas de chiffres précis, mais son message central est que l’histoire appelle à la prudence dans des situations similaires. Les traders de court terme et les participants au marché devraient donc surveiller la confirmation et se préparer à la volatilité. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "بيتكوين يفشل في اختراق رئيسي وسوق 7 مايو يتطلب الحذر",
-        "excerpt": "قبيل 7 مايو 2026، اقتربت بيتكوين من اختراق كبير لكنها لم تؤكده، فيما تشير الأنماط التاريخية إلى ضرورة حذر المستثمرين.",
-        "body": "قبيل 7 مايو 2026، اقتربت بيتكوين من تحقيق اختراق رئيسي في سوق العملات المشفرة، لكنها لم تتمكن من تأكيد الحركة. عرض التقرير الأصلي ذلك ضمن نظرة استباقية على السوق لليوم التالي، مع التأكيد على أن الحذر أهم من الاكتفاء بتوقعات صعودية. تكمن الخلفية في أن بيتكوين اقتربت من مسار سعري مهم من دون أن تنتج إشارة اختراق واضحة. لم يقدم ملخص المصدر أرقاما محددة، لكن الرسالة الأساسية هي أن التاريخ يدعو إلى الانتباه في مواقف مشابهة. لذلك يحتاج المتداولون قصيرو الأجل والمشاركون في السوق إلى مراقبة تأكيد الاختراق والاستعداد للتقلبات. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Bitcoin का बड़ा ब्रेकआउट चूका, 7 मई के बाजार में सतर्कता जरूरी",
-        "excerpt": "7 मई 2026 से पहले Bitcoin बड़े ब्रेकआउट के करीब पहुंचा लेकिन पुष्टि नहीं हुई, और इतिहास निवेशकों को सावधानी बरतने का संकेत देता है।",
-        "body": "7 मई 2026 से पहले क्रिप्टो बाजार में Bitcoin एक बड़े ब्रेकआउट के बहुत करीब पहुंचा, लेकिन यह चाल पुष्टि तक नहीं पहुंच सकी। मूल रिपोर्ट ने इसे अगले दिन के बाजार पर नजर के रूप में पेश किया और केवल तेजी की उम्मीद के बजाय सतर्क निर्णय की जरूरत बताई। संदर्भ यह है कि Bitcoin एक अहम कीमत-चाल के मोड़ पर पहुंचा, पर स्पष्ट ब्रेकआउट संकेत नहीं बना। मूल सारांश में कोई विशिष्ट आंकड़े नहीं दिए गए, लेकिन मुख्य संदेश यह था कि ऐसे समान ऐतिहासिक दौर सावधानी की मांग करते हैं। इसलिए अल्पकालिक ट्रेडरों और बाजार प्रतिभागियों को पुष्टि पर नजर रखनी चाहिए और अस्थिरता के लिए तैयार रहना चाहिए। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Bitcoin Gagal Breakout Besar, Pasar 7 Mei Perlu Lebih Waspada",
-        "excerpt": "Menjelang 7 Mei 2026, Bitcoin nyaris mencetak breakout besar tetapi gagal terkonfirmasi, sementara sejarah menunjukkan investor perlu berhati-hati.",
-        "body": "Menjelang 7 Mei 2026, Bitcoin hampir mencapai breakout besar di pasar kripto, tetapi pergerakan itu belum terkonfirmasi. Laporan asli membingkainya sebagai pandangan sehari ke depan untuk pasar, dengan penekanan pada kehati-hatian daripada sekadar ekspektasi kenaikan. Latar utamanya adalah Bitcoin mendekati fase harga penting tanpa menghasilkan sinyal breakout yang jelas. Ringkasan asli tidak memuat angka spesifik, namun pesan intinya adalah bahwa sejarah menyarankan kewaspadaan dalam situasi serupa. Karena itu, trader jangka pendek dan pelaku pasar perlu menunggu konfirmasi serta bersiap menghadapi volatilitas. Sumber: coindesk.com"
       }
     }
   }
