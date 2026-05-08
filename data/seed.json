@@ -1,5 +1,230 @@
 [
   {
+    "id": "d44f41cb0ece",
+    "slug": "속보-미-4월-고용-11만5000명-증가예상치-상회-358727",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T12:57:12.454Z",
+    "updatedAt": "2026-05-08T12:57:12.454Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12041808",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12041808",
+    "titleFingerprint": "4b247f0bdf1a693b114159437908dae1166164a6",
+    "dedupKeys": [
+      "d44f41cb0ecee3228d9dfc3107bc2320b2471b00",
+      "4b247f0bdf1a693b114159437908dae1166164a6",
+      "e44737212e34ab7748708af879a1c2a091da19ed"
+    ],
+    "imageUrl": "/images/articles/d44f41cb0ece.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 4월 비농업 고용 11만5000명 증가, 예상치 크게 웃돌아",
+        "excerpt": "미 노동부 노동통계국은 8일 현지시간 4월 미국 비농업 일자리가 전월보다 11만5000명 늘어 전문가 예상치 5만5000명을 상회했다고 밝혔다.",
+        "body": "미 노동부 노동통계국은 8일(현지시간) 4월 미국의 비농업 일자리가 전월 대비 11만5000명 증가했다고 밝혔다. 이는 다우존스가 집계한 전문가 예상치 5만5000명 증가를 웃도는 수치다. 비농업 고용은 미국 노동시장의 흐름을 가늠하는 주요 지표로, 시장은 이번 발표를 통해 4월 고용 상황이 예상보다 강했는지 확인하게 됐다. 다만 원문에는 실업률이나 임금 상승률 등 추가 지표는 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "US April Nonfarm Payrolls Rise by 115,000, Beating Forecasts",
+        "excerpt": "The US Bureau of Labor Statistics said on the 8th local time that April nonfarm payrolls rose by 115,000 from the previous month, above the Dow Jones forecast of 55,000.",
+        "body": "The US Bureau of Labor Statistics said on the 8th local time that US nonfarm payrolls increased by 115,000 in April from the previous month. The figure exceeded the 55,000 gain expected by economists surveyed by Dow Jones. Nonfarm payrolls are a key indicator used to assess the direction of the US labor market, and the release showed that April job growth came in stronger than expected. The original report did not provide additional indicators such as the unemployment rate or wage growth. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米4月非農業部門雇用者数11万5000人増、予想を上回る",
+        "excerpt": "米労働省労働統計局は現地時間8日、4月の米非農業部門雇用者数が前月比11万5000人増え、予想の5万5000人増を上回ったと発表した。",
+        "body": "米労働省労働統計局は現地時間8日、4月の米国の非農業部門雇用者数が前月比11万5000人増加したと発表した。これはダウ・ジョーンズがまとめた専門家予想の5万5000人増を上回る数字だ。非農業部門雇用者数は米労働市場の流れを判断する主要指標であり、今回の発表により4月の雇用状況が予想より強かったことが確認された。原文では失業率や賃金上昇率など追加指標は示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美国4月非农就业增加11.5万人，高于市场预期",
+        "excerpt": "美国劳工部劳工统计局当地时间8日表示，4月美国非农就业人数较上月增加11.5万人，高于道琼斯统计的5.5万人预期。",
+        "body": "美国劳工部劳工统计局当地时间8日公布，4月美国非农就业人数较上月增加11.5万人。该数据高于道琼斯汇总的经济学家预期，即增加5.5万人。非农就业是衡量美国劳动力市场走势的重要指标，市场可通过此次发布确认4月就业增长强于预期。不过，原文未提供失业率、工资增速等其他指标。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Empleo no agrícola de EE. UU. sube 115.000 en abril y supera previsiones",
+        "excerpt": "La Oficina de Estadísticas Laborales de EE. UU. informó el día 8, hora local, que las nóminas no agrícolas de abril aumentaron en 115.000, por encima de los 55.000 esperados.",
+        "body": "La Oficina de Estadísticas Laborales del Departamento de Trabajo de Estados Unidos informó el día 8, hora local, que el empleo no agrícola de abril aumentó en 115.000 puestos frente al mes anterior. La cifra superó la previsión de 55.000 empleos elaborada por Dow Jones a partir de estimaciones de expertos. Las nóminas no agrícolas son un indicador clave para evaluar la evolución del mercado laboral estadounidense, y el dato mostró que el empleo de abril fue más fuerte de lo esperado. El texto original no incluyó otros indicadores como desempleo o salarios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Emprego não agrícola dos EUA cresce 115 mil em abril e supera previsão",
+        "excerpt": "O Bureau of Labor Statistics dos EUA informou no dia 8, horário local, que o emprego não agrícola de abril cresceu 115 mil vagas, acima da previsão de 55 mil.",
+        "body": "O Bureau of Labor Statistics do Departamento do Trabalho dos Estados Unidos informou no dia 8, horário local, que o emprego não agrícola do país aumentou em 115 mil vagas em abril ante o mês anterior. O resultado ficou acima da previsão de 55 mil vagas de especialistas compilada pela Dow Jones. A folha de pagamento não agrícola é um indicador central para avaliar a direção do mercado de trabalho dos EUA, e o dado mostrou que a geração de empregos em abril superou as expectativas. O texto original não trouxe desemprego ou crescimento salarial. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "US-Beschäftigung außerhalb der Landwirtschaft steigt im April um 115.000",
+        "excerpt": "Das US Bureau of Labor Statistics teilte am 8. Ortszeit mit, dass die Beschäftigung außerhalb der Landwirtschaft im April um 115.000 stieg und die Prognose von 55.000 übertraf.",
+        "body": "Das Bureau of Labor Statistics des US-Arbeitsministeriums teilte am 8. Ortszeit mit, dass die Zahl der Beschäftigten außerhalb der Landwirtschaft in den USA im April gegenüber dem Vormonat um 115.000 gestiegen ist. Damit lag der Wert über der von Dow Jones zusammengestellten Expertenschätzung von 55.000 zusätzlichen Stellen. Die Beschäftigung außerhalb der Landwirtschaft gilt als wichtiger Indikator für die Lage am US-Arbeitsmarkt. Die Veröffentlichung zeigte, dass der Beschäftigungszuwachs im April stärker ausfiel als erwartet. Weitere Kennzahlen wie Arbeitslosenquote oder Lohnwachstum wurden im Original nicht genannt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’emploi non agricole américain progresse de 115 000 en avril, au-dessus des attentes",
+        "excerpt": "Le Bureau of Labor Statistics américain a indiqué le 8, heure locale, que l’emploi non agricole d’avril avait augmenté de 115 000, dépassant la prévision de 55 000.",
+        "body": "Le Bureau of Labor Statistics du département américain du Travail a annoncé le 8, heure locale, que l’emploi non agricole aux États-Unis avait augmenté de 115 000 postes en avril par rapport au mois précédent. Ce chiffre dépasse la prévision de 55 000 emplois établie par Dow Jones auprès d’experts. L’emploi non agricole est un indicateur majeur pour évaluer l’évolution du marché du travail américain, et cette publication montre que la situation de l’emploi en avril a été plus solide qu’attendu. Le texte original ne mentionne pas d’autres données comme le chômage ou les salaires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الوظائف غير الزراعية الأمريكية ترتفع 115 ألفا في أبريل متجاوزة التوقعات",
+        "excerpt": "قال مكتب إحصاءات العمل الأمريكي في الثامن بالتوقيت المحلي إن الوظائف غير الزراعية في أبريل زادت 115 ألفا عن الشهر السابق، فوق توقعات داو جونز البالغة 55 ألفا.",
+        "body": "أعلن مكتب إحصاءات العمل التابع لوزارة العمل الأمريكية في الثامن بالتوقيت المحلي أن الوظائف غير الزراعية في الولايات المتحدة زادت بمقدار 115 ألف وظيفة في أبريل مقارنة بالشهر السابق. وجاء الرقم أعلى من توقعات الخبراء التي جمعتها داو جونز والبالغة 55 ألف وظيفة. وتعد الوظائف غير الزراعية مؤشرا رئيسيا لقراءة اتجاه سوق العمل الأمريكي، وأظهر الإعلان أن نمو التوظيف في أبريل كان أقوى من المتوقع. ولم يورد النص الأصلي مؤشرات إضافية مثل معدل البطالة أو نمو الأجور. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिका में अप्रैल गैर-कृषि रोजगार 1.15 लाख बढ़ा, अनुमान से ऊपर",
+        "excerpt": "अमेरिकी श्रम सांख्यिकी ब्यूरो ने स्थानीय समयानुसार 8 तारीख को कहा कि अप्रैल में गैर-कृषि रोजगार पिछले महीने से 1.15 लाख बढ़ा, जो 55 हजार के अनुमान से अधिक है।",
+        "body": "अमेरिकी श्रम विभाग के श्रम सांख्यिकी ब्यूरो ने स्थानीय समयानुसार 8 तारीख को बताया कि अप्रैल में अमेरिका के गैर-कृषि रोजगार में पिछले महीने की तुलना में 1.15 लाख की वृद्धि हुई। यह डाउ जोन्स द्वारा संकलित विशेषज्ञ अनुमान 55 हजार की वृद्धि से अधिक है। गैर-कृषि रोजगार अमेरिकी श्रम बाजार की दिशा समझने का एक प्रमुख संकेतक है, और इस आंकड़े से अप्रैल की रोजगार स्थिति अपेक्षा से मजबूत दिखी। मूल रिपोर्ट में बेरोजगारी दर या वेतन वृद्धि जैसे अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Payroll Nonpertanian AS April Naik 115 Ribu, Lampaui Perkiraan",
+        "excerpt": "Biro Statistik Tenaga Kerja AS pada 8 waktu setempat menyatakan payroll nonpertanian April bertambah 115 ribu dari bulan sebelumnya, di atas perkiraan 55 ribu.",
+        "body": "Biro Statistik Tenaga Kerja Departemen Tenaga Kerja Amerika Serikat pada tanggal 8 waktu setempat menyatakan bahwa jumlah pekerjaan nonpertanian AS pada April meningkat 115 ribu dibanding bulan sebelumnya. Angka ini melampaui perkiraan ekonom yang dihimpun Dow Jones, yakni kenaikan 55 ribu. Payroll nonpertanian merupakan indikator utama untuk menilai arah pasar tenaga kerja AS, dan rilis ini menunjukkan kondisi ketenagakerjaan April lebih kuat dari perkiraan. Laporan asli tidak memuat indikator tambahan seperti tingkat pengangguran atau pertumbuhan upah. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "852e1086fb5f",
+    "slug": "매달-2200만원온오프라인서-같은-번호-모두-당첨된-남성-610412",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T12:56:22.942Z",
+    "updatedAt": "2026-05-08T12:56:22.942Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041815",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041815",
+    "titleFingerprint": "ac10d3f78a3f6e443789005a606e9d5cf1820258",
+    "dedupKeys": [
+      "852e1086fb5f45ec06ae3813b49251a53162883f",
+      "ac10d3f78a3f6e443789005a606e9d5cf1820258",
+      "4fc516f1294e721cb01b9d04414785db3320470f"
+    ],
+    "imageUrl": "/images/articles/852e1086fb5f.png",
+    "i18n": {
+      "ko": {
+        "title": "연금복권 같은 번호 온·오프라인 동시 당첨, 매달 2200만원 받는다",
+        "excerpt": "동행복권은 8일 연금복권720+ 312회차에서 A씨가 같은 번호를 온·오프라인으로 구매해 1·2등에 모두 당첨됐다고 밝혔다.",
+        "body": "8일 동행복권에 따르면 연금복권720+ 312회차에서 A씨가 1등과 2등에 동시에 당첨됐다. A씨는 같은 번호의 연금복권을 온라인과 오프라인에서 함께 구매했고, 두 구매분이 모두 당첨된 사례로 알려졌다. 이번 당첨으로 A씨는 매달 2200만원을 받게 됐다. 연금복권은 당첨금을 일정 기간 나눠 지급하는 방식이어서, 같은 번호를 여러 경로에서 산 이번 사례가 관심을 모은다. 복권 구매자들 사이에서는 번호 선택과 구매 방식에 대한 관심도 커질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Same Pension Lottery Number Wins Online and Offline, Paying 22 Million Won Monthly",
+        "excerpt": "Donghaeng Lottery said on the 8th that Mr. A won both first and second prizes in Pension Lottery 720+ round 312 after buying the same number online and offline.",
+        "body": "According to Donghaeng Lottery on the 8th, Mr. A won both first and second prizes in round 312 of Pension Lottery 720+. He purchased lottery tickets with the same number through both online and offline channels, and both entries were selected as winners. As a result, he is set to receive 22 million won every month. Pension Lottery pays prizes in installments over a fixed period, and this case is drawing attention because the same number bought through different channels won at the same time. Interest in number selection and purchase methods may rise among lottery buyers. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "同じ年金宝くじ番号がオンライン・店頭で同時当選、毎月2200万ウォン",
+        "excerpt": "同行福券は8日、年金福券720+第312回でAさんが同じ番号をオンラインと店頭で購入し、1等と2等の両方に当選したと明らかにした。",
+        "body": "8日、同行福券によると、年金福券720+第312回でAさんが1等と2等に同時当選した。Aさんは同じ番号の年金福券をオンラインとオフラインで購入しており、その両方が当選した事例として注目されている。今回の当選により、Aさんは毎月2200万ウォンを受け取ることになる。年金福券は当選金を一定期間に分けて支給する方式で、同じ番号を複数の経路で購入した今回のケースに関心が集まっている。購入者の間では番号選びや購入方法への関心も高まりそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "同一养老金彩票号码线上线下同时中奖，每月可领2200万韩元",
+        "excerpt": "韩国同行彩票8日表示，A某在养老金彩票720+第312期中以同一号码线上线下购买，结果同时中得一等奖和二等奖。",
+        "body": "据韩国同行彩票8日消息，A某在养老金彩票720+第312期中同时中得一等奖和二等奖。A某在线上和线下购买了相同号码的养老金彩票，两份彩票均中奖，因此受到关注。此次中奖后，A某将每月领取2200万韩元。养老金彩票的特点是将奖金在一定期间内分期支付，而同一号码通过不同渠道购买并同时中奖的案例引发了讨论。彩票购买者对号码选择和购买方式的关注也可能随之增加。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Mismo número de lotería de pensión gana online y offline: 22 millones de wones al mes",
+        "excerpt": "Donghaeng Lottery informó el día 8 que el Sr. A ganó el primer y segundo premio de Pension Lottery 720+ ronda 312 tras comprar el mismo número online y offline.",
+        "body": "Según Donghaeng Lottery el día 8, el Sr. A ganó simultáneamente el primer y segundo premio en la ronda 312 de Pension Lottery 720+. Compró boletos con el mismo número tanto en línea como fuera de línea, y ambos resultaron premiados. Con este resultado, recibirá 22 millones de wones cada mes. La lotería de pensión paga los premios en cuotas durante un periodo determinado, por lo que este caso llama la atención al tratarse del mismo número adquirido por dos canales distintos y ganador al mismo tiempo. Entre los compradores podría aumentar el interés por la elección de números y las formas de compra. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Mesmo número da loteria de pensão vence online e offline: 22 milhões de wons por mês",
+        "excerpt": "A Donghaeng Lottery informou no dia 8 que o Sr. A ganhou o 1º e o 2º prêmios da Pension Lottery 720+ rodada 312 após comprar o mesmo número online e offline.",
+        "body": "Segundo a Donghaeng Lottery no dia 8, o Sr. A ganhou simultaneamente o 1º e o 2º prêmios na rodada 312 da Pension Lottery 720+. Ele comprou bilhetes com o mesmo número tanto online quanto em pontos físicos, e ambas as compras foram premiadas. Com isso, passará a receber 22 milhões de wons por mês. A loteria de pensão paga o prêmio em parcelas ao longo de um período definido, e o caso chama atenção por envolver o mesmo número adquirido por canais diferentes e vencedor ao mesmo tempo. O interesse por escolha de números e formas de compra pode crescer entre apostadores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gleiche Rentenlotterie-Zahl gewinnt online und offline: 22 Millionen Won monatlich",
+        "excerpt": "Donghaeng Lottery teilte am 8. mit, dass Herr A in Runde 312 der Pension Lottery 720+ mit derselben online und offline gekauften Zahl den ersten und zweiten Preis gewann.",
+        "body": "Nach Angaben von Donghaeng Lottery vom 8. gewann Herr A in Runde 312 der Pension Lottery 720+ gleichzeitig den ersten und zweiten Preis. Er hatte Lose mit derselben Zahl sowohl online als auch offline gekauft, und beide Käufe waren erfolgreich. Dadurch erhält er monatlich 22 Millionen Won. Die Rentenlotterie zahlt Gewinne über einen festgelegten Zeitraum in Raten aus. Der Fall sorgt für Aufmerksamkeit, weil dieselbe Zahl über verschiedene Kaufwege gleichzeitig gewann. Unter Lotteriekäufern dürfte dadurch das Interesse an Zahlenauswahl und Kaufmethoden steigen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Même numéro de loterie pension gagnant en ligne et hors ligne: 22 millions de wons par mois",
+        "excerpt": "Donghaeng Lottery a indiqué le 8 que M. A avait remporté les 1er et 2e prix du Pension Lottery 720+ tour 312 après avoir acheté le même numéro en ligne et hors ligne.",
+        "body": "Selon Donghaeng Lottery le 8, M. A a remporté simultanément les premier et deuxième prix du tour 312 de Pension Lottery 720+. Il avait acheté des billets portant le même numéro à la fois en ligne et hors ligne, et les deux achats ont été gagnants. Il recevra ainsi 22 millions de wons chaque mois. Cette loterie de pension verse les gains par échéances pendant une période déterminée, ce qui rend ce cas notable: le même numéro acheté par deux canaux différents a gagné en même temps. L’intérêt pour le choix des numéros et les modes d’achat pourrait augmenter parmi les joueurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رقم واحد في يانصيب المعاش يفوز عبر الإنترنت وخارجه: 22 مليون وون شهريا",
+        "excerpt": "قالت Donghaeng Lottery في 8 مايو إن السيد A فاز بالجائزتين الأولى والثانية في الجولة 312 من Pension Lottery 720+ بعد شراء الرقم نفسه عبر الإنترنت ومن منفذ بيع.",
+        "body": "وفقا لما أعلنته Donghaeng Lottery في 8 مايو، فاز السيد A بالجائزتين الأولى والثانية في الجولة 312 من Pension Lottery 720+. كان قد اشترى تذاكر تحمل الرقم نفسه عبر الإنترنت ومن خلال قناة بيع غير إلكترونية، وجاءت كلتا عمليتي الشراء فائزتين. وبذلك سيحصل على 22 مليون وون شهريا. ويتميز هذا النوع من اليانصيب بدفع الجائزة على أقساط خلال فترة محددة، ما جعل هذه الحالة محط اهتمام لأنها تتعلق بالرقم نفسه الذي فاز عبر قناتين مختلفتين في الوقت ذاته. وقد يزداد اهتمام المشترين باختيار الأرقام وطرق الشراء. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "एक ही पेंशन लॉटरी नंबर ऑनलाइन और ऑफलाइन जीता, हर महीने 2.2 करोड़ वोन",
+        "excerpt": "डोंगहैंग लॉटरी ने 8 मई को बताया कि श्री A ने Pension Lottery 720+ की 312वीं ड्रॉ में वही नंबर ऑनलाइन और ऑफलाइन खरीदकर पहला और दूसरा पुरस्कार दोनों जीते।",
+        "body": "डोंगहैंग लॉटरी के अनुसार, 8 मई को Pension Lottery 720+ की 312वीं ड्रॉ में श्री A ने पहला और दूसरा पुरस्कार एक साथ जीता। उन्होंने एक ही नंबर वाली पेंशन लॉटरी ऑनलाइन और ऑफलाइन दोनों माध्यमों से खरीदी थी, और दोनों खरीदारी विजेता निकलीं। इस जीत के बाद उन्हें हर महीने 2.2 करोड़ वोन मिलेंगे। पेंशन लॉटरी में पुरस्कार राशि तय अवधि तक किस्तों में दी जाती है, इसलिए अलग-अलग चैनलों से खरीदे गए एक ही नंबर के एक साथ जीतने का यह मामला ध्यान खींच रहा है। खरीदारों के बीच नंबर चुनने और खरीदारी के तरीकों को लेकर रुचि बढ़ सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Nomor Lotre Pensiun Sama Menang Online dan Offline, Terima 22 Juta Won per Bulan",
+        "excerpt": "Donghaeng Lottery pada 8 Mei menyatakan bahwa A memenangkan hadiah pertama dan kedua Pension Lottery 720+ putaran 312 setelah membeli nomor yang sama secara online dan offline.",
+        "body": "Menurut Donghaeng Lottery pada 8 Mei, A memenangkan hadiah pertama dan kedua secara bersamaan dalam Pension Lottery 720+ putaran 312. Ia membeli tiket lotre pensiun dengan nomor yang sama melalui kanal online dan offline, dan kedua pembelian tersebut sama-sama menang. Dengan hasil ini, A akan menerima 22 juta won setiap bulan. Lotre pensiun membayarkan hadiah secara bertahap selama periode tertentu, sehingga kasus nomor yang sama dibeli melalui dua kanal dan menang bersamaan ini menarik perhatian. Minat pembeli terhadap pemilihan nomor dan cara pembelian diperkirakan ikut meningkat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "8834fe4b9121",
+    "slug": "us-added-115k-jobs-in-april-nearly-doubling-expectations-632748",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T12:55:21.509Z",
+    "updatedAt": "2026-05-08T12:55:21.509Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/07/u-s-added-115k-jobs-in-april-nearly-doubling-expectations",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/07/u-s-added-115k-jobs-in-april-nearly-doubling-expectations",
+    "titleFingerprint": "8c3e4dfce6f30a110c8fafe4ea9676234437e1ab",
+    "dedupKeys": [
+      "8834fe4b9121e2c1e5bf19f3262ffd7af3622f58",
+      "8c3e4dfce6f30a110c8fafe4ea9676234437e1ab",
+      "4002b3e5d2a6bd694ae03a03465b356f838f4a91"
+    ],
+    "imageUrl": "/images/articles/8834fe4b9121.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 4월 고용 11만5천명 증가, 예상치 거의 두 배로 웃돌아",
+        "excerpt": "미국은 4월 비농업 고용이 11만5천명 늘었다고 발표했으며, 이는 시장 예상의 거의 두 배로 연준 의장 교체를 앞둔 시점에 나온 핵심 지표다.",
+        "body": "미국의 4월 고용 증가폭이 시장 예상을 크게 웃돌았다. 미국은 4월 일자리가 11만5천명 증가했다고 발표했으며, 이는 예상치를 거의 두 배 웃도는 수준이다. 이번 고용 지표는 이달 말 미국 중앙은행인 연방준비제도에서 새 의장이 취임할 것으로 예상되는 시점을 앞두고 공개됐다. 고용 수치는 연준의 정책 환경을 판단하는 핵심 자료로 꼽히는 만큼, 의장 교체 국면에서 시장의 관심을 받았다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "U.S. April Jobs Rise 115K, Nearly Doubling Market Expectations",
+        "excerpt": "The U.S. reported 115,000 jobs added in April, nearly twice expectations, just before an expected change in Federal Reserve leadership later this month.",
+        "body": "U.S. job growth in April came in well above market expectations. The United States reported that employment increased by 115,000 jobs in April, a figure that nearly doubled expectations. The data was released ahead of what is expected to be the arrival of a new Federal Reserve chairman at the U.S. central bank later this month. Because employment figures are a key input for assessing the Fed’s policy environment, the report drew attention during a period of leadership transition. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "米4月雇用者数11.5万人増、市場予想のほぼ2倍に",
+        "excerpt": "米国の4月雇用者数は11万5,000人増となり、市場予想のほぼ2倍に達した。今月後半に見込まれるFRB議長交代を前に公表された。",
+        "body": "米国の4月の雇用増加幅は市場予想を大きく上回った。米国は4月の雇用者数が11万5,000人増加したと発表し、これは予想のほぼ2倍に当たる水準だった。今回の雇用統計は、今月後半に米中央銀行である連邦準備制度理事会で新議長が就任すると見込まれる時期を前に公表された。雇用指標はFRBの政策環境を判断する重要な材料とされるため、議長交代局面で市場の注目を集めた。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "美国4月新增就业11.5万，几乎为市场预期两倍",
+        "excerpt": "美国公布4月新增就业11.5万人，几乎达到市场预期的两倍；该数据出炉之际，美联储预计将在本月晚些时候迎来新主席。",
+        "body": "美国4月就业增长明显高于市场预期。美国公布，4月就业人数增加11.5万人，几乎是预期水平的两倍。该就业数据发布之际，市场预计美国中央银行美联储将在本月晚些时候由新主席接任。就业数据通常被视为判断美联储政策环境的重要依据，因此在主席交接背景下受到市场关注。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Empleo en EE. UU. sube 115.000 en abril, casi el doble de lo previsto",
+        "excerpt": "EE. UU. informó que añadió 115.000 empleos en abril, casi el doble de lo esperado, antes del previsto relevo en la presidencia de la Reserva Federal este mes.",
+        "body": "El crecimiento del empleo en Estados Unidos superó con claridad las expectativas del mercado en abril. El país informó que se añadieron 115.000 puestos de trabajo durante el mes, una cifra que casi duplicó lo previsto. El dato se publicó antes de lo que se espera sea la llegada de un nuevo presidente de la Reserva Federal al banco central estadounidense más adelante este mes. Como el empleo es una referencia clave para evaluar el entorno de política de la Fed, el informe atrajo atención en medio del cambio de liderazgo. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "EUA criam 115 mil empregos em abril, quase o dobro do esperado",
+        "excerpt": "Os EUA informaram a criação de 115 mil empregos em abril, quase o dobro das expectativas, antes da prevista troca na presidência do Federal Reserve neste mês.",
+        "body": "O crescimento do emprego nos Estados Unidos ficou bem acima das expectativas do mercado em abril. O país informou que foram criados 115 mil postos de trabalho no mês, número que quase dobrou o esperado. O dado foi divulgado antes do que se espera ser a chegada de um novo presidente do Federal Reserve ao banco central dos EUA ainda neste mês. Como os números de emprego são referência importante para avaliar o ambiente de política do Fed, o relatório ganhou atenção durante a transição de liderança. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "US-Arbeitsmarkt legt im April um 115.000 Jobs zu, fast doppelt erwartet",
+        "excerpt": "Die USA meldeten im April 115.000 neue Jobs, nahezu doppelt so viel wie erwartet, kurz vor dem erwarteten Wechsel an der Spitze der Federal Reserve.",
+        "body": "Das Beschäftigungswachstum in den USA lag im April deutlich über den Markterwartungen. Die Vereinigten Staaten meldeten einen Anstieg der Beschäftigung um 115.000 Stellen, fast doppelt so viel wie erwartet. Die Daten wurden veröffentlicht, bevor später in diesem Monat voraussichtlich ein neuer Vorsitzender die Führung der US-Notenbank Federal Reserve übernimmt. Da Arbeitsmarktdaten als wichtiger Maßstab für das geldpolitische Umfeld der Fed gelten, erhielt der Bericht in der Phase des Führungswechsels besondere Aufmerksamkeit. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "L’emploi américain grimpe de 115 000 en avril, presque le double attendu",
+        "excerpt": "Les États-Unis ont annoncé 115 000 emplois créés en avril, presque deux fois les attentes, avant l’arrivée attendue d’un nouveau président de la Fed ce mois-ci.",
+        "body": "La croissance de l’emploi aux États-Unis a nettement dépassé les attentes du marché en avril. Le pays a annoncé une hausse de 115 000 emplois sur le mois, un niveau presque deux fois supérieur aux prévisions. Ces données ont été publiées avant ce qui devrait être l’arrivée d’un nouveau président à la tête de la Réserve fédérale américaine plus tard ce mois-ci. Les chiffres de l’emploi étant un élément clé pour évaluer l’environnement de politique de la Fed, le rapport a retenu l’attention dans ce contexte de transition. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "الوظائف الأمريكية ترتفع 115 ألفا في أبريل وتتجاوز التوقعات بنحو الضعف",
+        "excerpt": "أعلنت الولايات المتحدة إضافة 115 ألف وظيفة في أبريل، أي ما يقارب ضعف التوقعات، قبل تغيير متوقع في رئاسة مجلس الاحتياطي الفيدرالي لاحقا هذا الشهر.",
+        "body": "جاء نمو الوظائف في الولايات المتحدة خلال أبريل أعلى بكثير من توقعات السوق. فقد أعلنت الولايات المتحدة أن عدد الوظائف زاد بمقدار 115 ألف وظيفة في أبريل، وهو مستوى يقارب ضعف التوقعات. صدرت هذه البيانات قبل ما يتوقع أن يكون تسلم رئيس جديد لمجلس الاحتياطي الفيدرالي، البنك المركزي الأمريكي، مهامه في وقت لاحق من هذا الشهر. وبما أن أرقام التوظيف تعد من المؤشرات الأساسية لتقييم بيئة سياسة الفيدرالي، فقد حظي التقرير باهتمام خلال مرحلة تغيير القيادة. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "अप्रैल में अमेरिका में 1.15 लाख नौकरियां बढ़ीं, अनुमान से करीब दोगुनी",
+        "excerpt": "अमेरिका ने अप्रैल में 1.15 लाख नौकरियां जुड़ने की सूचना दी, जो उम्मीदों से करीब दोगुनी रहीं और इस महीने बाद में अपेक्षित फेड नेतृत्व बदलाव से पहले आईं।",
+        "body": "अप्रैल में अमेरिका की रोजगार वृद्धि बाजार उम्मीदों से काफी ऊपर रही। अमेरिका ने बताया कि अप्रैल में 1.15 लाख नौकरियां जोड़ी गईं, जो अनुमानित स्तर से लगभग दोगुनी थीं। यह आंकड़ा ऐसे समय आया है जब इस महीने के अंत में अमेरिकी केंद्रीय बैंक, फेडरल रिजर्व, में नए चेयरमैन के पद संभालने की उम्मीद है। रोजगार आंकड़े फेड की नीतिगत परिस्थिति का आकलन करने के लिए अहम माने जाते हैं, इसलिए नेतृत्व परिवर्तन के दौर में इस रिपोर्ट पर बाजार का ध्यान रहा। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Pekerjaan AS April Naik 115 Ribu, Hampir Dua Kali Ekspektasi",
+        "excerpt": "AS melaporkan penambahan 115 ribu pekerjaan pada April, hampir dua kali ekspektasi, menjelang perkiraan pergantian ketua Federal Reserve akhir bulan ini.",
+        "body": "Pertumbuhan pekerjaan di Amerika Serikat pada April jauh melampaui ekspektasi pasar. AS melaporkan bahwa jumlah pekerjaan bertambah 115 ribu pada April, hampir dua kali lipat dari perkiraan. Data ini dirilis menjelang apa yang diperkirakan sebagai masuknya ketua baru Federal Reserve, bank sentral AS, pada akhir bulan ini. Karena angka ketenagakerjaan menjadi bahan penting untuk menilai lingkungan kebijakan The Fed, laporan ini mendapat perhatian saat proses pergantian kepemimpinan berlangsung. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
     "id": "b6c17247701b",
     "slug": "morning-minute-coinbase-misses-earnings-on-surprise-loss-657304",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "BitMine Bisa Perlambat Beli ETH, Tom Lee Soroti Target Pasokan 5%",
         "excerpt": "Ketua BitMine Tom Lee mengatakan pada 7 Mei 2026 di Consensus 2026 Miami bahwa perusahaan bisa memperlambat pembelian ETH saat mendekati target pasokan 5%.",
         "body": "Ketua BitMine Immersion Technologies Tom Lee mengatakan pada 7 Mei 2026 di panggung Consensus 2026 di Miami bahwa perusahaan mungkin memperlambat laju pembelian Ethereum. Perusahaan treasury Ethereum yang diperdagangkan publik itu menargetkan kepemilikan 5% dari total pasokan ETH, dan Lee mengatakan target tersebut bisa tercapai dalam sekitar enam minggu jika pembelian berlanjut pada laju saat ini. BitMine menyatakan memiliki 5,18 juta ETH per 3 Mei, setara 4,29% dari total pasokan Ethereum sebesar 120,7 juta ETH. Nilai posisi ETH itu mendekati 12 miliar dolar AS berdasarkan harga pasar. Menurut decrypt.co, total kepemilikan kripto, kas, dan ekuitas BitMine mencapai 13,1 miliar dolar AS, termasuk 200 BTC, kas 700 juta dolar AS, serta saham di Beast Industries dan Eightco Holdings."
-      }
-    }
-  },
-  {
-    "id": "ca539ee2d41b",
-    "slug": "coinbase-shares-slide-as-crypto-giant-reports-394-million-q1-271642",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T22:42:35.375Z",
-    "updatedAt": "2026-05-07T22:42:35.375Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367216/coinbase-shares-slide-crypto-giant-reports-394-million-q1-loss",
-    "canonicalUrl": "https://decrypt.co/367216/coinbase-shares-slide-crypto-giant-reports-394-million-q1-loss",
-    "titleFingerprint": "3a1288a1f273dba5bd9acb6e34f08b2871eb40c5",
-    "dedupKeys": [
-      "ca539ee2d41b161df2e1a7726bbe858f25a075ab",
-      "3a1288a1f273dba5bd9acb6e34f08b2871eb40c5",
-      "9152293ac06fe55e6f5efd919575f91cda8cd203"
-    ],
-    "imageUrl": "/images/articles/ca539ee2d41b.png",
-    "i18n": {
-      "ko": {
-        "title": "코인베이스 주가 하락, 1분기 3억9400만달러 손실 충격",
-        "excerpt": "코인베이스는 1분기 3억9400만달러 손실을 보고했으며, 변동성 큰 시장 속 거래 수익이 40% 급감하면서 연속 분기 적자를 기록했다.",
-        "body": "코인베이스 주가가 1분기 실적 발표 이후 하락했다. 암호화폐 거래소 코인베이스는 1분기에 3억9400만달러 손실을 기록했다고 밝혔다. 이번 손실은 변동성이 큰 시장 환경에서 거래 수익이 40% 급감한 데 따른 것으로, 회사는 연속 분기 적자를 보고했다. 거래 수익 감소는 시장 변동과 투자자 거래 활동 둔화가 실적에 직접적인 압박을 준 상황을 보여준다. 단기적으로 코인베이스 주가는 실적 부진과 수익성 우려에 영향을 받을 수 있다. 다만 원문은 추가 전망이나 대응 계획을 제시하지 않았다. 출처: decrypt.co."
-      },
-      "en": {
-        "title": "Coinbase Shares Fall After $394 Million Q1 Loss Hits Revenue",
-        "excerpt": "Coinbase reported a $394 million first-quarter loss as transaction revenue plunged 40% in a volatile crypto market, marking another quarterly loss.",
-        "body": "Coinbase shares fell after the company released its first-quarter results. The crypto exchange reported a $394 million loss for Q1. The loss came as transaction revenue dropped 40% during a volatile market, leaving the company with another quarterly deficit. The decline in transaction revenue shows how market turbulence and weaker trading activity directly pressured Coinbase’s results. In the near term, the stock may remain affected by the weak earnings and concerns over profitability. The original report did not provide additional forecasts or a response plan. Source: decrypt.co."
-      },
-      "ja": {
-        "title": "コインベース株下落、1Qに3億9400万ドル損失",
-        "excerpt": "コインベースは第1四半期に3億9400万ドルの損失を計上し、変動の大きい市場で取引収入が40%急減して連続赤字となった。",
-        "body": "コインベースの株価は第1四半期決算の発表後に下落した。暗号資産取引所のコインベースは、1Qに3億9400万ドルの損失を記録したと報告した。今回の損失は、変動の大きい市場環境で取引収入が40%急減したことによるもので、同社は連続して四半期赤字を計上した。取引収入の減少は、市場変動と投資家の取引活動の鈍化が業績を直接圧迫した状況を示している。短期的に株価は低調な業績と収益性への懸念に左右される可能性がある。原文は追加の見通しや対応策を示していない。出典: decrypt.co."
-      },
-      "zh": {
-        "title": "Coinbase股价下跌，第一季度亏损3.94亿美元",
-        "excerpt": "Coinbase公布第一季度亏损3.94亿美元，在波动市场中交易收入骤降40%，公司连续一个季度录得亏损。",
-        "body": "Coinbase股价在第一季度业绩公布后下跌。加密货币交易所Coinbase报告称，第一季度亏损3.94亿美元。此次亏损源于市场波动加剧期间交易收入下降40%，公司因此再次录得季度亏损。交易收入下滑显示，市场波动和投资者交易活动放缓直接压制了Coinbase的业绩。短期内，股价可能继续受到业绩疲弱和盈利能力担忧影响。不过，原文未提供进一步展望或应对计划。来源: decrypt.co。"
-      },
-      "es": {
-        "title": "Acciones de Coinbase caen tras pérdida de 394 millones en Q1",
-        "excerpt": "Coinbase reportó una pérdida de 394 millones de dólares en el primer trimestre, con ingresos por transacciones cayendo 40% en un mercado volátil.",
-        "body": "Las acciones de Coinbase cayeron después de que la compañía publicara sus resultados del primer trimestre. El exchange de criptomonedas informó una pérdida de 394 millones de dólares en Q1. La pérdida se produjo mientras los ingresos por transacciones se desplomaron 40% en un mercado volátil, lo que llevó a la empresa a registrar otra pérdida trimestral. La caída de esos ingresos muestra cómo la volatilidad del mercado y la menor actividad de negociación presionaron directamente sus resultados. A corto plazo, la acción puede verse afectada por el débil desempeño y las dudas sobre rentabilidad. El texto original no ofreció más previsiones ni planes de respuesta. Fuente: decrypt.co."
-      },
-      "pt": {
-        "title": "Ações da Coinbase caem após perda de US$ 394 milhões no 1º tri",
-        "excerpt": "A Coinbase informou perda de US$ 394 milhões no primeiro trimestre, enquanto a receita de transações caiu 40% em um mercado cripto volátil.",
-        "body": "As ações da Coinbase caíram após a divulgação dos resultados do primeiro trimestre. A exchange de criptomoedas informou uma perda de US$ 394 milhões no 1º tri. O resultado ocorreu enquanto a receita de transações recuou 40% em um mercado volátil, levando a empresa a registrar mais um prejuízo trimestral. A queda dessa receita mostra como a volatilidade do mercado e a menor atividade de negociação pressionaram diretamente o desempenho da Coinbase. No curto prazo, as ações podem ser afetadas pelos resultados fracos e por dúvidas sobre rentabilidade. O texto original não trouxe novas projeções nem plano de resposta. Fonte: decrypt.co."
-      },
-      "de": {
-        "title": "Coinbase-Aktie fällt nach 394-Millionen-Dollar-Verlust in Q1",
-        "excerpt": "Coinbase meldete im ersten Quartal einen Verlust von 394 Millionen Dollar, da die Transaktionserlöse im volatilen Markt um 40% einbrachen.",
-        "body": "Die Coinbase-Aktie fiel nach der Veröffentlichung der Ergebnisse für das erste Quartal. Die Kryptobörse meldete für Q1 einen Verlust von 394 Millionen Dollar. Der Verlust entstand, nachdem die Transaktionserlöse in einem volatilen Markt um 40% eingebrochen waren, wodurch das Unternehmen erneut einen Quartalsverlust auswies. Der Rückgang zeigt, wie Marktvolatilität und schwächere Handelsaktivität die Ergebnisse direkt belasteten. Kurzfristig könnte die Aktie weiter von den schwachen Zahlen und Sorgen über die Profitabilität beeinflusst werden. Der Originalbericht nannte keine weiteren Prognosen oder Reaktionspläne. Quelle: decrypt.co."
-      },
-      "fr": {
-        "title": "L’action Coinbase recule après une perte de 394 M$ au T1",
-        "excerpt": "Coinbase a annoncé une perte de 394 millions de dollars au premier trimestre, alors que les revenus de transaction ont chuté de 40% dans un marché volatil.",
-        "body": "L’action Coinbase a reculé après la publication des résultats du premier trimestre. La plateforme d’échange de cryptomonnaies a annoncé une perte de 394 millions de dollars au T1. Cette perte intervient alors que les revenus de transaction ont chuté de 40% dans un marché volatil, conduisant l’entreprise à enregistrer une nouvelle perte trimestrielle. Ce recul montre comment la volatilité du marché et le ralentissement de l’activité de trading ont directement pesé sur les résultats. À court terme, l’action peut rester influencée par la faiblesse des résultats et les inquiétudes sur la rentabilité. Le texte original ne donne pas d’autres prévisions ni de plan de réponse. Source: decrypt.co."
-      },
-      "ar": {
-        "title": "تراجع سهم Coinbase بعد خسارة 394 مليون دولار في الربع الأول",
-        "excerpt": "أعلنت Coinbase خسارة قدرها 394 مليون دولار في الربع الأول، مع هبوط إيرادات المعاملات 40% وسط سوق شديدة التقلب.",
-        "body": "تراجع سهم Coinbase بعد إعلان نتائج الربع الأول. وقالت بورصة العملات المشفرة Coinbase إنها سجلت خسارة قدرها 394 مليون دولار في الربع الأول. وجاءت الخسارة مع هبوط إيرادات المعاملات بنسبة 40% في سوق متقلبة، لتسجل الشركة خسارة فصلية متتالية. يوضح انخفاض إيرادات المعاملات أن تقلب السوق وتراجع نشاط التداول لدى المستثمرين ضغطا مباشرة على النتائج. وعلى المدى القصير، قد يتأثر السهم بضعف الأداء وبالمخاوف المتعلقة بالربحية. ولم يقدم النص الأصلي توقعات إضافية أو خطة استجابة. المصدر: decrypt.co."
-      },
-      "hi": {
-        "title": "Coinbase शेयर गिरे, Q1 में 394 मिलियन डॉलर के नुकसान का असर",
-        "excerpt": "Coinbase ने पहली तिमाही में 394 मिलियन डॉलर का नुकसान बताया, क्योंकि अस्थिर बाजार में ट्रांजैक्शन रेवेन्यू 40% गिर गया।",
-        "body": "पहली तिमाही के नतीजे जारी होने के बाद Coinbase के शेयर गिर गए। क्रिप्टो एक्सचेंज Coinbase ने Q1 में 394 मिलियन डॉलर का नुकसान दर्ज किया। यह नुकसान अस्थिर बाजार के बीच ट्रांजैक्शन रेवेन्यू में 40% गिरावट के कारण हुआ, जिससे कंपनी ने लगातार तिमाही घाटा रिपोर्ट किया। ट्रांजैक्शन रेवेन्यू में कमी दिखाती है कि बाजार की अस्थिरता और निवेशकों की कमजोर ट्रेडिंग गतिविधि ने नतीजों पर सीधा दबाव डाला। अल्प अवधि में शेयर कमजोर कमाई और लाभप्रदता को लेकर चिंताओं से प्रभावित रह सकता है। मूल रिपोर्ट ने कोई अतिरिक्त अनुमान या प्रतिक्रिया योजना नहीं दी। स्रोत: decrypt.co."
-      },
-      "id": {
-        "title": "Saham Coinbase Turun Usai Rugi Q1 Sebesar US$394 Juta",
-        "excerpt": "Coinbase melaporkan rugi US$394 juta pada kuartal pertama setelah pendapatan transaksi anjlok 40% di tengah pasar kripto yang volatil.",
-        "body": "Saham Coinbase turun setelah perusahaan merilis hasil kuartal pertama. Bursa kripto Coinbase melaporkan kerugian US$394 juta pada Q1. Kerugian itu terjadi ketika pendapatan transaksi merosot 40% di tengah pasar yang volatil, membuat perusahaan kembali mencatat rugi kuartalan. Penurunan pendapatan transaksi menunjukkan bagaimana volatilitas pasar dan melemahnya aktivitas perdagangan investor menekan langsung kinerja Coinbase. Dalam jangka pendek, saham dapat dipengaruhi oleh hasil yang lemah dan kekhawatiran atas profitabilitas. Laporan asli tidak memberikan proyeksi tambahan atau rencana respons. Sumber: decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "0cbfb9bdc544",
-    "slug": "solv-protocol-will-dump-layerzero-migrate-700m-tokenized-bit-860223",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T22:41:47.754Z",
-    "updatedAt": "2026-05-07T22:41:47.754Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367154/solv-protocol-dump-layerzero-migrate-700m-tokenized-bitcoin-chainlink",
-    "canonicalUrl": "https://decrypt.co/367154/solv-protocol-dump-layerzero-migrate-700m-tokenized-bitcoin-chainlink",
-    "titleFingerprint": "063449913f12bfa6310918f10a90935b9bc1e339",
-    "dedupKeys": [
-      "0cbfb9bdc54452bf228a0fe7a5befc5f24f24359",
-      "063449913f12bfa6310918f10a90935b9bc1e339",
-      "08ba7ffa20c69415ad162ce53d9ddc50a1e5d82e"
-    ],
-    "imageUrl": "/images/articles/0cbfb9bdc544.png",
-    "i18n": {
-      "ko": {
-        "title": "Solv Protocol, LayerZero 떠나 7억달러 비트코인 기술 Chainlink로 이전",
-        "excerpt": "Solv Protocol은 Kelp DAO가 해킹 책임을 LayerZero에 돌린 뒤, 7억달러 규모 토큰화 비트코인 인프라를 Chainlink로 이전하기로 했다.",
-        "body": "Solv Protocol이 토큰화 비트코인 인프라를 LayerZero에서 Chainlink로 이전한다. 이번 결정은 Kelp DAO가 해킹 이후 LayerZero를 원인으로 지목하며 Chainlink로 이동한 흐름을 뒤따른 것이다. 이전 대상은 약 7억달러 규모의 토큰화 비트코인 기술로, Solv Protocol의 핵심 인프라에 해당한다. LayerZero를 떠나는 움직임은 크로스체인 기술 선택과 보안 신뢰에 대한 시장의 관심을 키울 수 있다. 다만 원문은 이전 계획과 배경을 전했을 뿐, 구체적 일정이나 추가 기술 조건은 공개하지 않았다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Solv Protocol to Leave LayerZero, Move $700M Bitcoin Tech to Chainlink",
-        "excerpt": "Solv Protocol will migrate its $700 million tokenized Bitcoin infrastructure to Chainlink after Kelp DAO blamed LayerZero for a hack and made a similar move.",
-        "body": "Solv Protocol will move its tokenized Bitcoin infrastructure from LayerZero to Chainlink. The decision follows Kelp DAO, which shifted to Chainlink after blaming LayerZero for a hack. The technology being migrated is tied to about $700 million in tokenized Bitcoin and forms a core part of Solv Protocol’s infrastructure. The move may increase market attention on cross-chain technology choices and security trust. However, the source reported only the migration plan and its context, without disclosing a specific timeline or additional technical terms. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "Solv Protocol、LayerZero離脱へ 7億ドルのBTC技術をChainlinkへ",
-        "excerpt": "Solv Protocolは、Kelp DAOがハッキングの原因をLayerZeroに帰した後、7億ドル規模のトークン化ビットコイン基盤をChainlinkへ移行する。",
-        "body": "Solv Protocolは、トークン化ビットコインのインフラをLayerZeroからChainlinkへ移行する。今回の決定は、Kelp DAOがハッキング後にLayerZeroを原因として挙げ、Chainlinkへ移った流れに続くものだ。移行対象は約7億ドル規模のトークン化ビットコイン技術で、Solv Protocolの中核インフラにあたる。LayerZeroを離れる動きは、クロスチェーン技術の選択やセキュリティへの信頼をめぐる市場の関心を高める可能性がある。ただし原文は移行計画と背景を伝えたのみで、具体的な時期や追加の技術条件は明らかにしていない。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "Solv Protocol将弃用LayerZero，7亿美元比特币技术转向Chainlink",
-        "excerpt": "Solv Protocol将在Kelp DAO因黑客事件指责LayerZero后，把7亿美元规模的代币化比特币基础设施迁移至Chainlink。",
-        "body": "Solv Protocol将把其代币化比特币基础设施从LayerZero迁移至Chainlink。此举紧随Kelp DAO之后，后者在一次黑客事件后将责任归因于LayerZero，并转向Chainlink。此次迁移涉及约7亿美元规模的代币化比特币技术，是Solv Protocol核心基础设施的一部分。离开LayerZero的动向，可能使市场更加关注跨链技术选择与安全信任问题。不过，原文仅报道了迁移计划及其背景，并未披露具体时间表或更多技术条件。来源：decrypt.co"
-      },
-      "es": {
-        "title": "Solv Protocol dejará LayerZero y moverá $700M en Bitcoin tokenizado a Chainlink",
-        "excerpt": "Solv Protocol migrará a Chainlink su infraestructura de Bitcoin tokenizado de $700 millones tras el movimiento de Kelp DAO, que culpó a LayerZero por un hackeo.",
-        "body": "Solv Protocol trasladará su infraestructura de Bitcoin tokenizado de LayerZero a Chainlink. La decisión sigue el paso de Kelp DAO, que se movió a Chainlink después de responsabilizar a LayerZero por un hackeo. La tecnología que será migrada está vinculada a unos $700 millones en Bitcoin tokenizado y forma parte central de la infraestructura de Solv Protocol. La salida de LayerZero puede elevar la atención del mercado sobre la elección de tecnologías cross-chain y la confianza en seguridad. Sin embargo, la fuente solo informó el plan de migración y su contexto, sin revelar un calendario concreto ni condiciones técnicas adicionales. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Solv Protocol deixará LayerZero e levará US$ 700 mi em Bitcoin tokenizado à Chainlink",
-        "excerpt": "A Solv Protocol migrará para a Chainlink sua infraestrutura de Bitcoin tokenizado de US$ 700 milhões após a Kelp DAO culpar a LayerZero por um hack.",
-        "body": "A Solv Protocol vai transferir sua infraestrutura de Bitcoin tokenizado da LayerZero para a Chainlink. A decisão segue o movimento da Kelp DAO, que migrou para a Chainlink depois de atribuir à LayerZero a responsabilidade por um hack. A tecnologia a ser migrada está ligada a cerca de US$ 700 milhões em Bitcoin tokenizado e integra a infraestrutura central da Solv Protocol. A saída da LayerZero pode aumentar a atenção do mercado sobre escolhas de tecnologia cross-chain e confiança em segurança. No entanto, a fonte informou apenas o plano de migração e seu contexto, sem divulgar prazo específico ou condições técnicas adicionais. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Solv Protocol verlässt LayerZero und verschiebt $700M Bitcoin-Technik zu Chainlink",
-        "excerpt": "Solv Protocol migriert seine tokenisierte Bitcoin-Infrastruktur im Wert von 700 Millionen Dollar zu Chainlink, nachdem Kelp DAO LayerZero für einen Hack verantwortlich machte.",
-        "body": "Solv Protocol wird seine Infrastruktur für tokenisierten Bitcoin von LayerZero zu Chainlink verlagern. Die Entscheidung folgt Kelp DAO, das nach einem Hack LayerZero verantwortlich machte und ebenfalls zu Chainlink wechselte. Betroffen ist Technologie im Zusammenhang mit rund 700 Millionen Dollar an tokenisiertem Bitcoin, die zur zentralen Infrastruktur von Solv Protocol gehört. Der Abschied von LayerZero könnte die Aufmerksamkeit des Marktes auf Cross-Chain-Technologie und Sicherheitsvertrauen lenken. Die Quelle berichtet jedoch nur über den Migrationsplan und dessen Hintergrund, ohne einen konkreten Zeitplan oder weitere technische Bedingungen offenzulegen. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Solv Protocol quitte LayerZero et migre 700 M$ de Bitcoin tokenisé vers Chainlink",
-        "excerpt": "Solv Protocol va migrer vers Chainlink son infrastructure de Bitcoin tokenisé de 700 millions de dollars après que Kelp DAO a imputé un piratage à LayerZero.",
-        "body": "Solv Protocol va transférer son infrastructure de Bitcoin tokenisé de LayerZero vers Chainlink. Cette décision suit celle de Kelp DAO, qui est passé à Chainlink après avoir imputé un piratage à LayerZero. La technologie concernée représente environ 700 millions de dollars de Bitcoin tokenisé et fait partie de l’infrastructure centrale de Solv Protocol. Le départ de LayerZero pourrait attirer davantage l’attention du marché sur les choix de technologie cross-chain et la confiance en matière de sécurité. Toutefois, la source ne rapporte que le plan de migration et son contexte, sans préciser de calendrier ni de conditions techniques supplémentaires. Source : decrypt.co"
-      },
-      "ar": {
-        "title": "Solv Protocol يغادر LayerZero وينقل تقنية بيتكوين بقيمة 700 مليون دولار إلى Chainlink",
-        "excerpt": "ستنتقل Solv Protocol ببنيتها التحتية للبيتكوين المرمز البالغة 700 مليون دولار إلى Chainlink بعد أن حمّلت Kelp DAO منصة LayerZero مسؤولية اختراق.",
-        "body": "ستقوم Solv Protocol بنقل بنيتها التحتية للبيتكوين المرمز من LayerZero إلى Chainlink. يأتي القرار بعد خطوة مماثلة من Kelp DAO، التي انتقلت إلى Chainlink بعدما حمّلت LayerZero مسؤولية اختراق. وتشمل عملية النقل تقنية مرتبطة بنحو 700 مليون دولار من البيتكوين المرمز، وهي جزء أساسي من بنية Solv Protocol. وقد يزيد الابتعاد عن LayerZero اهتمام السوق باختيارات تقنيات الربط بين السلاسل والثقة الأمنية. لكن المصدر أورد خطة الانتقال وسياقها فقط، من دون كشف جدول زمني محدد أو شروط تقنية إضافية. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "Solv Protocol LayerZero छोड़ेगा, $700M Bitcoin तकनीक Chainlink पर ले जाएगा",
-        "excerpt": "Solv Protocol अपनी $700 मिलियन की tokenized Bitcoin अवसंरचना को Chainlink पर ले जाएगा, जब Kelp DAO ने एक हैक के लिए LayerZero को जिम्मेदार ठहराया।",
-        "body": "Solv Protocol अपनी tokenized Bitcoin अवसंरचना को LayerZero से Chainlink पर स्थानांतरित करेगा। यह निर्णय Kelp DAO के कदम के बाद आया है, जिसने एक हैक के बाद LayerZero को जिम्मेदार बताया और Chainlink की ओर रुख किया। माइग्रेशन में लगभग $700 मिलियन मूल्य की tokenized Bitcoin तकनीक शामिल है, जो Solv Protocol की मुख्य अवसंरचना का हिस्सा है। LayerZero से हटने की यह पहल cross-chain तकनीक के चयन और सुरक्षा भरोसे पर बाजार का ध्यान बढ़ा सकती है। हालांकि स्रोत ने केवल माइग्रेशन योजना और उसका संदर्भ बताया है; कोई निश्चित समयसीमा या अतिरिक्त तकनीकी शर्तें सार्वजनिक नहीं की गईं। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Solv Protocol Tinggalkan LayerZero, Pindahkan Teknologi Bitcoin $700 Juta ke Chainlink",
-        "excerpt": "Solv Protocol akan memigrasikan infrastruktur Bitcoin tertokenisasi senilai $700 juta ke Chainlink setelah Kelp DAO menyalahkan LayerZero atas sebuah peretasan.",
-        "body": "Solv Protocol akan memindahkan infrastruktur Bitcoin tertokenisasinya dari LayerZero ke Chainlink. Keputusan ini mengikuti langkah Kelp DAO, yang beralih ke Chainlink setelah menyalahkan LayerZero atas sebuah peretasan. Teknologi yang dimigrasikan terkait dengan sekitar $700 juta Bitcoin tertokenisasi dan menjadi bagian inti dari infrastruktur Solv Protocol. Perpindahan dari LayerZero dapat meningkatkan perhatian pasar terhadap pilihan teknologi cross-chain dan kepercayaan keamanan. Namun, sumber hanya melaporkan rencana migrasi dan latar belakangnya, tanpa mengungkap jadwal spesifik atau ketentuan teknis tambahan. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "e8ef774422ac",
-    "slug": "crypto-pacs-spend-72m-to-support-candidates-in-5-us-states-a-945856",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T22:40:59.882Z",
-    "updatedAt": "2026-05-07T22:40:59.883Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/crypto-pacs-spending-candidates-five-states-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/crypto-pacs-spending-candidates-five-states-midterms",
-    "titleFingerprint": "ca748d71ca0c364c10af1885c9d9f0031b1ea5fa",
-    "dedupKeys": [
-      "e8ef774422ac47883761bab99e0fa40b49a05752",
-      "ca748d71ca0c364c10af1885c9d9f0031b1ea5fa",
-      "70fc55d6c7195f42f393030709aa8c1ac2cffccf"
-    ],
-    "imageUrl": "/images/articles/e8ef774422ac.jpg",
-    "i18n": {
-      "ko": {
-        "title": "크립토 PAC, 미 5개 주 선거 후보 지원에 720만 달러 집행",
-        "excerpt": "크립토 업계가 후원하는 PAC 페어셰이크의 두 계열 단체가 이번 주 조지아·앨라배마·네브래스카·켄터키·텍사스 후보 지원을 위한 720만 달러 규모 미디어 구매를 보고했다.",
-        "body": "미국 선거를 앞두고 크립토 업계가 후원하는 정치활동위원회(PAC) 페어셰이크의 두 계열 단체가 이번 주 5개 주 후보 지원을 위한 미디어 구매를 보고했다. cointelegraph.com에 따르면 집행 규모는 총 720만 달러로, 대상 지역은 조지아, 앨라배마, 네브래스카, 켄터키, 텍사스다. 이번 지출은 크립토 관련 PAC들이 선거 국면에서 특정 정치 후보를 지원하기 위해 광고와 미디어 집행에 자금을 투입하고 있음을 보여준다. 다만 원문은 각 후보의 세부 명단이나 주별 배분액은 제시하지 않았다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Crypto PACs Spend $7.2M Backing Candidates Across 5 US States",
-        "excerpt": "Two affiliates of the crypto-backed PAC Fairshake reported $7.2 million in media buys this week to support candidates in Georgia, Alabama, Nebraska, Kentucky and Texas.",
-        "body": "Ahead of US elections, two affiliates of the crypto-backed political action committee Fairshake reported media buys this week to support candidates in five states. According to cointelegraph.com, the reported spending totals $7.2 million, targeting Georgia, Alabama, Nebraska, Kentucky and Texas. The spending shows crypto-linked PACs putting funds into advertising and media placements to support specific political candidates during the election period. The original report did not provide a detailed candidate list or a state-by-state allocation of the funds. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "暗号資産PAC、米5州の候補支援に720万ドルを投入",
-        "excerpt": "暗号資産業界が支援するPACフェアシェイクの関連2団体が今週、ジョージア、アラバマ、ネブラスカ、ケンタッキー、テキサスの候補支援へ720万ドル規模のメディア購入を報告した。",
-        "body": "米国の選挙を前に、暗号資産業界が支援する政治活動委員会（PAC）フェアシェイクの関連2団体が今週、5州の候補者を支援するためのメディア購入を報告した。cointelegraph.comによると、支出総額は720万ドルで、対象はジョージア、アラバマ、ネブラスカ、ケンタッキー、テキサスの各州。今回の支出は、暗号資産関連PACが選挙局面で特定の政治候補を支えるため、広告やメディア枠に資金を投じていることを示す。原文では候補者の詳細な名簿や州別配分額は示されていない。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "加密PAC斥资720万美元支持美国5州候选人",
-        "excerpt": "由加密行业支持的PAC Fairshake旗下两个关联组织本周报告称，已为佐治亚、阿拉巴马、内布拉斯加、肯塔基和得克萨斯候选人购买720万美元媒体投放。",
-        "body": "在美国选举前夕，由加密行业支持的政治行动委员会Fairshake的两个关联组织本周报告了面向五个州候选人的媒体购买。cointelegraph.com称，相关支出总额为720万美元，覆盖佐治亚、阿拉巴马、内布拉斯加、肯塔基和得克萨斯。此项支出显示，加密相关PAC正在选举期间通过广告和媒体投放投入资金，以支持特定政治候选人。原文未披露具体候选人名单，也未给出各州资金分配明细。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "PAC cripto gastan 7,2 millones de dólares en candidatos de 5 estados",
-        "excerpt": "Dos afiliadas del PAC Fairshake, respaldado por la industria cripto, informaron esta semana compras de medios por 7,2 millones de dólares para apoyar candidatos en Georgia, Alabama, Nebraska, Kentucky y Texas.",
-        "body": "Antes de las elecciones en Estados Unidos, dos afiliadas del comité de acción política Fairshake, respaldado por la industria cripto, informaron esta semana compras de medios para apoyar candidatos en cinco estados. Según cointelegraph.com, el gasto total asciende a 7,2 millones de dólares y se dirige a Georgia, Alabama, Nebraska, Kentucky y Texas. El desembolso muestra que los PAC vinculados al sector cripto están destinando fondos a publicidad y medios para respaldar candidatos políticos concretos durante el periodo electoral. El informe original no detalló la lista de candidatos ni la distribución por estado. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "PACs cripto gastam US$ 7,2 mi para apoiar candidatos em 5 estados",
-        "excerpt": "Duas afiliadas do PAC Fairshake, apoiado pelo setor cripto, relataram nesta semana compras de mídia de US$ 7,2 milhões para apoiar candidatos na Geórgia, Alabama, Nebraska, Kentucky e Texas.",
-        "body": "Antes das eleições nos Estados Unidos, duas afiliadas do comitê de ação política Fairshake, apoiado pelo setor cripto, relataram nesta semana compras de mídia para apoiar candidatos em cinco estados. Segundo o cointelegraph.com, o gasto total é de US$ 7,2 milhões, com foco na Geórgia, Alabama, Nebraska, Kentucky e Texas. A movimentação mostra que PACs ligados ao mercado cripto estão destinando recursos a publicidade e mídia para apoiar candidatos políticos específicos durante o período eleitoral. O texto original não informou a lista detalhada de candidatos nem a divisão dos valores por estado. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Krypto-PACs geben 7,2 Mio. Dollar für Kandidaten in 5 US-Staaten aus",
-        "excerpt": "Zwei Ableger des von der Kryptobranche unterstützten PAC Fairshake meldeten diese Woche Medienkäufe über 7,2 Millionen Dollar zur Unterstützung von Kandidaten in Georgia, Alabama, Nebraska, Kentucky und Texas.",
-        "body": "Vor den US-Wahlen haben zwei Ableger des von der Kryptobranche unterstützten Political Action Committee Fairshake diese Woche Medienkäufe zur Unterstützung von Kandidaten in fünf Bundesstaaten gemeldet. Laut cointelegraph.com beläuft sich das Gesamtvolumen auf 7,2 Millionen Dollar; betroffen sind Georgia, Alabama, Nebraska, Kentucky und Texas. Die Ausgaben zeigen, dass kryptobezogene PACs im Wahlumfeld Mittel in Werbung und Medienplatzierungen lenken, um bestimmte politische Kandidaten zu unterstützen. Der Originalbericht nennt keine detaillierte Kandidatenliste und keine Aufschlüsselung der Beträge nach Bundesstaat. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Des PAC crypto dépensent 7,2 M$ pour des candidats dans 5 États américains",
-        "excerpt": "Deux affiliés du PAC Fairshake, soutenu par l’industrie crypto, ont déclaré cette semaine 7,2 millions de dollars d’achats médias pour soutenir des candidats en Géorgie, Alabama, Nebraska, Kentucky et Texas.",
-        "body": "À l’approche des élections américaines, deux affiliés du comité d’action politique Fairshake, soutenu par l’industrie crypto, ont déclaré cette semaine des achats médias destinés à soutenir des candidats dans cinq États. Selon cointelegraph.com, le montant total atteint 7,2 millions de dollars et concerne la Géorgie, l’Alabama, le Nebraska, le Kentucky et le Texas. Cette dépense montre que les PAC liés aux cryptomonnaies financent de la publicité et des placements médias pour appuyer certains candidats politiques pendant la période électorale. Le rapport original ne détaille pas la liste des candidats ni la répartition par État. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "لجان PAC المشفرة تنفق 7.2 مليون دولار لدعم مرشحين في 5 ولايات",
-        "excerpt": "أبلغت جهتان تابعتان للجنة Fairshake المدعومة من قطاع العملات المشفرة هذا الأسبوع عن مشتريات إعلامية بقيمة 7.2 مليون دولار لدعم مرشحين في جورجيا وألاباما ونبراسكا وكنتاكي وتكساس.",
-        "body": "قبيل الانتخابات الأميركية، أبلغت جهتان تابعتان للجنة العمل السياسي Fairshake المدعومة من قطاع العملات المشفرة هذا الأسبوع عن مشتريات إعلامية لدعم مرشحين في خمس ولايات. وبحسب cointelegraph.com، يبلغ إجمالي الإنفاق 7.2 مليون دولار، ويشمل جورجيا وألاباما ونبراسكا وكنتاكي وتكساس. يوضح هذا الإنفاق أن لجان PAC المرتبطة بالعملات المشفرة تضخ أموالا في الإعلانات ووسائل الإعلام لدعم مرشحين سياسيين محددين خلال فترة الانتخابات. ولم يورد التقرير الأصلي قائمة مفصلة بالمرشحين أو توزيعا للمبالغ حسب الولاية. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "क्रिप्टो PAC ने 5 अमेरिकी राज्यों में उम्मीदवारों पर $7.2 मिलियन खर्च किए",
-        "excerpt": "क्रिप्टो समर्थित PAC Fairshake से जुड़ी दो इकाइयों ने इस सप्ताह जॉर्जिया, अलबामा, नेब्रास्का, केंटकी और टेक्सास में उम्मीदवारों के समर्थन के लिए $7.2 मिलियन की मीडिया खरीद की सूचना दी।",
-        "body": "अमेरिकी चुनावों से पहले, क्रिप्टो उद्योग समर्थित राजनीतिक कार्रवाई समिति Fairshake से जुड़ी दो इकाइयों ने इस सप्ताह पांच राज्यों में उम्मीदवारों के समर्थन के लिए मीडिया खरीद की सूचना दी। cointelegraph.com के अनुसार, कुल खर्च $7.2 मिलियन है और लक्षित राज्य जॉर्जिया, अलबामा, नेब्रास्का, केंटकी और टेक्सास हैं। यह खर्च दिखाता है कि क्रिप्टो से जुड़े PAC चुनावी अवधि में विशेष राजनीतिक उम्मीदवारों को समर्थन देने के लिए विज्ञापन और मीडिया प्लेसमेंट में धन लगा रहे हैं। मूल रिपोर्ट में उम्मीदवारों की विस्तृत सूची या राज्यवार राशि का ब्योरा नहीं दिया गया। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "PAC Kripto Gelontorkan US$7,2 Juta untuk Kandidat di 5 Negara Bagian AS",
-        "excerpt": "Dua afiliasi PAC Fairshake yang didukung industri kripto melaporkan pembelian media senilai US$7,2 juta pekan ini untuk mendukung kandidat di Georgia, Alabama, Nebraska, Kentucky, dan Texas.",
-        "body": "Menjelang pemilu Amerika Serikat, dua afiliasi komite aksi politik Fairshake yang didukung industri kripto melaporkan pembelian media pekan ini untuk mendukung kandidat di lima negara bagian. Menurut cointelegraph.com, total pengeluaran mencapai US$7,2 juta, dengan sasaran Georgia, Alabama, Nebraska, Kentucky, dan Texas. Pengeluaran ini menunjukkan bahwa PAC terkait kripto menyalurkan dana ke iklan dan penempatan media untuk mendukung kandidat politik tertentu selama periode pemilu. Laporan asli tidak merinci daftar kandidat maupun pembagian dana per negara bagian. Sumber: cointelegraph.com"
       }
     }
   }
