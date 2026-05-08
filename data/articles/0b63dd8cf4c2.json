@@ -1,0 +1,75 @@
+{
+  "id": "0b63dd8cf4c2",
+  "slug": "coinbase-blames-aws-for-hours-long-crypto-trading-outage-538009",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T11:52:37.426Z",
+  "updatedAt": "2026-05-08T11:52:37.426Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/business/2026/05/08/coinbase-disruption-tied-to-aws-outage-draws-criticism-amid-staff-layoffs-and-q1-losses",
+  "canonicalUrl": "https://www.coindesk.com/business/2026/05/08/coinbase-disruption-tied-to-aws-outage-draws-criticism-amid-staff-layoffs-and-q1-losses",
+  "titleFingerprint": "9c0dc9e8f11d1641d016d7acc9d9dda63cf98100",
+  "dedupKeys": [
+    "0b63dd8cf4c209881b34b7838a7ca46128efcf8e",
+    "9c0dc9e8f11d1641d016d7acc9d9dda63cf98100",
+    "84a8e2aad1b7b95ce842e33acda4e577e54f006a"
+  ],
+  "imageUrl": "/images/articles/0b63dd8cf4c2.jpg",
+  "i18n": {
+    "ko": {
+      "title": "코인베이스, 수시간 암호화폐 거래 중단 원인으로 AWS 지목",
+      "excerpt": "코인베이스는 수시간 이어진 암호화폐 거래 중단이 AWS와 관련됐다고 밝히며, 장애는 완전히 해결됐고 사건을 전면 조사하겠다고 설명했다.",
+      "body": "코인베이스는 수시간 동안 이어진 암호화폐 거래 중단의 원인으로 AWS를 지목했다. 회사는 해당 장애가 완전히 해결됐다고 밝히며, 이번 사건을 전면적으로 조사하겠다고 설명했다. 이번 중단은 거래 서비스 이용에 영향을 준 기술 장애로, 구체적인 발생 시각이나 피해 규모는 원문에 제시되지 않았다. 암호화폐 거래소에서 인프라 장애는 이용자 접근성과 주문 처리 안정성에 직접 연결되는 사안인 만큼, 코인베이스의 후속 조사 결과가 향후 재발 방지 조치의 기준이 될 전망이다. 출처: coindesk.com."
+    },
+    "en": {
+      "title": "Coinbase Blames AWS for Hours-Long Crypto Trading Outage",
+      "excerpt": "Coinbase said AWS was linked to an hours-long crypto trading outage, adding that the issue has been fully resolved and the incident will be fully investigated.",
+      "body": "Coinbase blamed AWS for an hours-long crypto trading outage that disrupted trading services. The company said the outage has been fully resolved and added that it will investigate the incident fully. The original report did not provide a specific start time, end time, or scale of impact. Because infrastructure failures at crypto exchanges can directly affect user access and trading reliability, Coinbase’s follow-up investigation will be important for understanding what happened and what measures may prevent a repeat. Source: coindesk.com."
+    },
+    "ja": {
+      "title": "Coinbase、数時間の暗号資産取引停止でAWSを原因に挙げる",
+      "excerpt": "Coinbaseは、数時間続いた暗号資産取引の停止がAWSに関連すると説明し、障害は完全に解消され、事案を全面的に調査すると述べた。",
+      "body": "Coinbaseは、数時間にわたって続いた暗号資産取引停止の原因としてAWSを挙げた。同社はこの障害が完全に解消されたとし、今回の事案を全面的に調査すると説明した。原文では、具体的な発生時刻や終了時刻、影響規模は示されていない。暗号資産取引所におけるインフラ障害は、利用者のアクセスや注文処理の安定性に直接関わる問題であるため、Coinbaseの今後の調査結果は、発生原因の把握と再発防止策を考えるうえで重要になる。出典: coindesk.com。"
+    },
+    "zh": {
+      "title": "Coinbase称数小时加密货币交易中断与AWS有关",
+      "excerpt": "Coinbase表示，持续数小时的加密货币交易中断与AWS有关，故障已完全解决，公司将对该事件展开全面调查。",
+      "body": "Coinbase将持续数小时的加密货币交易中断归因于AWS。该公司表示，相关故障已经完全解决，并称将对这一事件进行全面调查。原文未提供具体的开始时间、结束时间或影响规模。对于加密货币交易所而言，基础设施故障会直接关系到用户访问和订单处理的稳定性，因此Coinbase后续调查结果将有助于了解事件原因，并为未来防止类似问题提供依据。来源: coindesk.com。"
+    },
+    "es": {
+      "title": "Coinbase culpa a AWS por una caída de horas en el trading cripto",
+      "excerpt": "Coinbase dijo que AWS estuvo vinculada a una interrupción de varias horas en el trading cripto, ya resuelta por completo, y que investigará el incidente a fondo.",
+      "body": "Coinbase atribuyó a AWS una interrupción de varias horas en el trading de criptomonedas. La empresa afirmó que la caída ya fue resuelta por completo y añadió que investigará el incidente de forma integral. El reporte original no indicó una hora exacta de inicio o finalización ni el alcance del impacto. En un exchange cripto, una falla de infraestructura puede afectar directamente el acceso de los usuarios y la estabilidad del procesamiento de órdenes, por lo que la investigación posterior de Coinbase será clave para entender lo ocurrido y definir medidas que eviten una repetición. Fuente: coindesk.com."
+    },
+    "pt": {
+      "title": "Coinbase culpa AWS por queda de horas no trading de criptomoedas",
+      "excerpt": "A Coinbase afirmou que a AWS esteve ligada a uma interrupção de várias horas no trading cripto, já totalmente resolvida, e disse que investigará o caso a fundo.",
+      "body": "A Coinbase atribuiu à AWS uma interrupção de várias horas no trading de criptomoedas. A empresa disse que a falha foi totalmente resolvida e acrescentou que investigará o incidente de forma completa. O relato original não informou horário exato de início ou término nem a escala do impacto. Em uma corretora de criptoativos, falhas de infraestrutura podem afetar diretamente o acesso dos usuários e a estabilidade do processamento de ordens. Por isso, a investigação posterior da Coinbase será importante para esclarecer o ocorrido e orientar medidas contra uma repetição. Fonte: coindesk.com."
+    },
+    "de": {
+      "title": "Coinbase macht AWS für stundenlangen Krypto-Handelsausfall verantwortlich",
+      "excerpt": "Coinbase erklärte, AWS stehe mit einem stundenlangen Ausfall des Krypto-Handels in Verbindung; die Störung sei vollständig behoben und werde umfassend untersucht.",
+      "body": "Coinbase machte AWS für einen stundenlangen Ausfall des Krypto-Handels verantwortlich. Das Unternehmen teilte mit, die Störung sei vollständig behoben, und kündigte an, den Vorfall umfassend zu untersuchen. Der ursprüngliche Bericht nannte keine genaue Start- oder Endzeit und keine konkrete Größenordnung der Auswirkungen. Bei einer Kryptobörse können Infrastrukturprobleme den Zugang der Nutzer und die Stabilität der Orderverarbeitung direkt betreffen. Daher wird die weitere Untersuchung von Coinbase wichtig sein, um den Ablauf zu verstehen und Maßnahmen gegen eine Wiederholung abzuleiten. Quelle: coindesk.com."
+    },
+    "fr": {
+      "title": "Coinbase accuse AWS après une panne de plusieurs heures du trading crypto",
+      "excerpt": "Coinbase a déclaré qu’AWS était lié à une panne de plusieurs heures du trading crypto, désormais entièrement résolue, et qu’elle enquêterait pleinement sur l’incident.",
+      "body": "Coinbase a attribué à AWS une panne de plusieurs heures ayant touché le trading de cryptomonnaies. L’entreprise a indiqué que l’interruption était désormais entièrement résolue et qu’elle mènerait une enquête complète sur l’incident. Le rapport d’origine ne précisait pas l’heure exacte de début ou de fin, ni l’ampleur de l’impact. Pour une plateforme d’échange crypto, une défaillance d’infrastructure peut affecter directement l’accès des utilisateurs et la stabilité du traitement des ordres. Les conclusions de Coinbase seront donc importantes pour comprendre l’événement et prévenir une répétition. Source: coindesk.com."
+    },
+    "ar": {
+      "title": "كوين بيس تلقي باللوم على AWS بعد تعطل تداول العملات المشفرة لساعات",
+      "excerpt": "قالت كوين بيس إن تعطل تداول العملات المشفرة لساعات كان مرتبطا بـ AWS، مؤكدة أن المشكلة حلت بالكامل وأنها ستجري تحقيقا شاملا في الحادث.",
+      "body": "ألقت كوين بيس باللوم على AWS في تعطل تداول العملات المشفرة لعدة ساعات. وقالت الشركة إن العطل تم حله بالكامل، وأضافت أنها ستجري تحقيقا كاملا في الحادث. ولم يذكر التقرير الأصلي وقتا محددا لبداية العطل أو نهايته، كما لم يوضح حجم التأثير. في منصات تداول العملات المشفرة، يمكن أن تؤثر أعطال البنية التحتية مباشرة في وصول المستخدمين واستقرار معالجة الأوامر. لذلك ستكون نتائج تحقيق كوين بيس اللاحقة مهمة لفهم ما حدث وتحديد الإجراءات التي قد تمنع تكراره. المصدر: coindesk.com."
+    },
+    "hi": {
+      "title": "Coinbase ने घंटों चले क्रिप्टो ट्रेडिंग आउटेज के लिए AWS को जिम्मेदार बताया",
+      "excerpt": "Coinbase ने कहा कि घंटों चला क्रिप्टो ट्रेडिंग आउटेज AWS से जुड़ा था, समस्या पूरी तरह हल हो गई है और कंपनी घटना की पूरी जांच करेगी।",
+      "body": "Coinbase ने कई घंटों तक चले क्रिप्टोकरेंसी ट्रेडिंग आउटेज के लिए AWS को जिम्मेदार बताया। कंपनी ने कहा कि यह समस्या पूरी तरह हल हो चुकी है और वह इस घटना की पूरी जांच करेगी। मूल रिपोर्ट में आउटेज शुरू या खत्म होने का सटीक समय और प्रभाव का दायरा नहीं बताया गया। क्रिप्टो एक्सचेंज में इन्फ्रास्ट्रक्चर से जुड़ी खराबी उपयोगकर्ता पहुंच और ऑर्डर प्रोसेसिंग की स्थिरता को सीधे प्रभावित कर सकती है। इसलिए Coinbase की आगे की जांच यह समझने में अहम होगी कि क्या हुआ और दोबारा ऐसी घटना रोकने के लिए क्या कदम जरूरी हो सकते हैं। स्रोत: coindesk.com."
+    },
+    "id": {
+      "title": "Coinbase Salahkan AWS atas Gangguan Trading Kripto Berjam-jam",
+      "excerpt": "Coinbase menyebut gangguan trading kripto selama berjam-jam terkait AWS, mengatakan masalah sudah sepenuhnya pulih dan insiden akan diselidiki menyeluruh.",
+      "body": "Coinbase menyalahkan AWS atas gangguan trading kripto yang berlangsung selama berjam-jam. Perusahaan mengatakan gangguan tersebut telah sepenuhnya diselesaikan dan menambahkan bahwa insiden ini akan diselidiki secara menyeluruh. Laporan asli tidak menyebutkan waktu mulai, waktu berakhir, atau skala dampak secara rinci. Pada bursa kripto, gangguan infrastruktur dapat langsung memengaruhi akses pengguna dan stabilitas pemrosesan order. Karena itu, hasil investigasi lanjutan Coinbase akan penting untuk memahami kejadian ini dan menentukan langkah pencegahan agar tidak terulang. Sumber: coindesk.com."
+    }
+  }
+}

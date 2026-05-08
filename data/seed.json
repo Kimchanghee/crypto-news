@@ -1,5 +1,230 @@
 [
   {
+    "id": "f1f098069347",
+    "slug": "arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-136045",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T11:53:24.955Z",
+    "updatedAt": "2026-05-08T11:53:24.955Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
+    "canonicalUrl": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
+    "titleFingerprint": "a7924c400f955144e10844d75d17e07af471dc9f",
+    "dedupKeys": [
+      "f1f09806934741db2b72da620d3a9e67dde06a58",
+      "a7924c400f955144e10844d75d17e07af471dc9f",
+      "6eabb4faa98760100467a7f6348fbd4c5ed6a2a8"
+    ],
+    "imageUrl": "/images/articles/f1f098069347.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Arbitrum DAO, Kelp DAO 익스플로잇 구제금 7천만달러 해제 의결",
+        "excerpt": "Arbitrum DAO가 Kelp DAO 익스플로잇 피해 구제를 위해 7천만달러 규모 자금 해제를 의결했지만, 미국 법원 제한 통지가 이전 절차에 법적 불확실성을 더했다.",
+        "body": "Arbitrum DAO는 Kelp DAO 익스플로잇 피해 구제를 위해 7천만달러 규모의 자금 해제를 투표로 승인했다. 이번 의결은 익스플로잇 관련 자금을 피해 구제에 쓰기 위한 절차로, DAO 거버넌스가 승인한 이전이라는 점에서 주목된다. 그러나 승인 직후 미국 법원의 restraining notice가 제기되면서 실제 자금 이전은 법적 위험에 놓였다. 이에 따라 DAO 투표 결과가 곧바로 집행될 수 있을지는 불확실해졌고, 구제 자금 지급 일정도 영향을 받을 수 있다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Arbitrum DAO Votes to Unlock $70M for Kelp DAO Exploit Relief",
+        "excerpt": "Arbitrum DAO voted to unlock $70 million for Kelp DAO exploit relief, but a U.S. court restraining notice has placed the approved transfer in legal uncertainty.",
+        "body": "Arbitrum DAO has voted to approve the release of $70 million in funds for relief tied to the Kelp DAO exploit. The decision is aimed at using exploit-related funds for victim relief and stands out as a DAO governance-approved transfer. However, after the vote, a U.S. court restraining notice put the actual transfer in legal jeopardy. As a result, it remains uncertain whether the DAO-approved move can be executed immediately, and the timeline for distributing relief funds may be affected. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "Arbitrum DAO、Kelp DAO被害救済へ7000万ドル解除を可決",
+        "excerpt": "Arbitrum DAOはKelp DAOのエクスプロイト被害救済に向け7000万ドルの資金解除を可決したが、米裁判所の制限通知で移転は法的不透明感に直面している。",
+        "body": "Arbitrum DAOは、Kelp DAOのエクスプロイト被害救済のため、7000万ドル規模の資金解除を投票で承認した。今回の決定は、エクスプロイト関連資金を被害救済に充てる手続きであり、DAOガバナンスによって承認された移転として注目される。しかし承認後、米裁判所のrestraining noticeにより、実際の資金移転は法的リスクにさらされた。これにより、DAOの投票結果が直ちに執行できるかは不透明となり、救済資金の支払い時期にも影響が及ぶ可能性がある。出典: decrypt.co."
+      },
+      "zh": {
+        "title": "Arbitrum DAO表决解锁7000万美元用于Kelp DAO漏洞救济",
+        "excerpt": "Arbitrum DAO表决批准解锁7000万美元用于Kelp DAO漏洞事件救济，但美国法院限制通知使已获批转账面临法律不确定性。",
+        "body": "Arbitrum DAO已通过投票，批准释放7000万美元资金，用于Kelp DAO漏洞事件相关救济。该决定旨在将与漏洞事件有关的资金用于受影响方救济，也因其属于DAO治理批准的转账而受到关注。不过，在投票通过后，美国法院发出的restraining notice使实际资金转移陷入法律风险之中。因此，DAO表决结果能否立即执行仍存在不确定性，救济资金的发放时间也可能受到影响。来源：decrypt.co。"
+      },
+      "es": {
+        "title": "Arbitrum DAO aprueba liberar US$70M para alivio por exploit de Kelp DAO",
+        "excerpt": "Arbitrum DAO votó liberar US$70 millones para el alivio por el exploit de Kelp DAO, pero una orden restrictiva de un tribunal de EE. UU. puso la transferencia en duda legal.",
+        "body": "Arbitrum DAO aprobó mediante votación la liberación de US$70 millones en fondos para el alivio relacionado con el exploit de Kelp DAO. La decisión busca destinar fondos vinculados al exploit a la compensación de afectados y destaca por tratarse de una transferencia aprobada por gobernanza DAO. Sin embargo, tras la aprobación, una restraining notice de un tribunal de Estados Unidos colocó la transferencia efectiva en riesgo legal. Por ello, no está claro si el resultado de la votación podrá ejecutarse de inmediato, y el calendario de pago de los fondos de alivio podría verse afectado. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Arbitrum DAO aprova liberar US$70 mi para alívio do exploit da Kelp DAO",
+        "excerpt": "A Arbitrum DAO votou para liberar US$70 milhões para o alívio do exploit da Kelp DAO, mas uma restrição de tribunal dos EUA colocou a transferência aprovada em incerteza legal.",
+        "body": "A Arbitrum DAO aprovou em votação a liberação de US$70 milhões em fundos para o alívio relacionado ao exploit da Kelp DAO. A decisão busca usar recursos ligados ao exploit para compensação de afetados e chama atenção por ser uma transferência aprovada pela governança da DAO. No entanto, após a aprovação, uma restraining notice de um tribunal dos Estados Unidos colocou a transferência efetiva em risco jurídico. Assim, ainda não está claro se o resultado da votação poderá ser executado imediatamente, e o cronograma de pagamento dos fundos de alívio pode ser afetado. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Arbitrum DAO stimmt für 70 Mio. US-Dollar Hilfe nach Kelp-DAO-Exploit",
+        "excerpt": "Die Arbitrum DAO hat die Freigabe von 70 Mio. US-Dollar für Hilfe nach dem Kelp-DAO-Exploit beschlossen, doch eine Verfügung eines US-Gerichts bringt die Übertragung rechtlich in Gefahr.",
+        "body": "Die Arbitrum DAO hat per Abstimmung die Freigabe von 70 Mio. US-Dollar für Hilfsmaßnahmen im Zusammenhang mit dem Kelp-DAO-Exploit genehmigt. Der Beschluss soll exploitbezogene Mittel für die Entschädigung Betroffener nutzbar machen und ist als durch DAO-Governance genehmigte Übertragung bemerkenswert. Nach der Zustimmung brachte jedoch eine restraining notice eines US-Gerichts die tatsächliche Mittelübertragung in rechtliche Gefahr. Damit ist unklar, ob das Abstimmungsergebnis unmittelbar umgesetzt werden kann; auch der Zeitplan für die Auszahlung der Hilfsgelder könnte betroffen sein. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Arbitrum DAO vote 70 M$ d’aide après l’exploit de Kelp DAO",
+        "excerpt": "Arbitrum DAO a voté le déblocage de 70 M$ pour l’aide liée à l’exploit de Kelp DAO, mais une notification restrictive d’un tribunal américain place le transfert approuvé dans l’incertitude juridique.",
+        "body": "Arbitrum DAO a approuvé par vote le déblocage de 70 millions de dollars de fonds destinés à l’aide liée à l’exploit de Kelp DAO. Cette décision vise à utiliser des fonds associés à l’exploit pour l’indemnisation des personnes touchées et retient l’attention en tant que transfert approuvé par la gouvernance de la DAO. Toutefois, après l’approbation, une restraining notice d’un tribunal américain a placé le transfert effectif dans une situation de risque juridique. Il reste donc incertain que le vote puisse être exécuté immédiatement, et le calendrier de versement des fonds d’aide pourrait être affecté. Source : decrypt.co."
+      },
+      "ar": {
+        "title": "Arbitrum DAO تصوت لإطلاق 70 مليون دولار لإغاثة استغلال Kelp DAO",
+        "excerpt": "صوتت Arbitrum DAO على إطلاق 70 مليون دولار لإغاثة المتضررين من استغلال Kelp DAO، لكن إشعار تقييد من محكمة أمريكية وضع التحويل المعتمد في مأزق قانوني.",
+        "body": "وافقت Arbitrum DAO عبر تصويت على إطلاق أموال بقيمة 70 مليون دولار لإغاثة مرتبطة باستغلال Kelp DAO. ويهدف القرار إلى استخدام الأموال المرتبطة بالاستغلال في تعويض المتضررين، كما يبرز بوصفه تحويلا أقرته حوكمة DAO. لكن بعد الموافقة، أدى إشعار restraining notice صادر عن محكمة أمريكية إلى وضع التحويل الفعلي أمام مخاطر قانونية. وبذلك لم يعد واضحا ما إذا كان يمكن تنفيذ نتيجة التصويت فورا، وقد يتأثر أيضا جدول صرف أموال الإغاثة. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "Arbitrum DAO ने Kelp DAO exploit राहत के लिए $70M अनलॉक को मंजूरी दी",
+        "excerpt": "Arbitrum DAO ने Kelp DAO exploit राहत के लिए $70 मिलियन जारी करने पर मतदान किया, लेकिन अमेरिकी अदालत के restraining notice ने स्वीकृत ट्रांसफर को कानूनी अनिश्चितता में डाल दिया।",
+        "body": "Arbitrum DAO ने Kelp DAO exploit से जुड़ी राहत के लिए $70 मिलियन की राशि जारी करने को मतदान के जरिए मंजूरी दी। यह फैसला exploit से संबंधित फंड को प्रभावित पक्षों की राहत में इस्तेमाल करने की प्रक्रिया है और DAO governance द्वारा स्वीकृत ट्रांसफर होने के कारण अहम है। हालांकि मंजूरी के बाद अमेरिकी अदालत के restraining notice ने वास्तविक फंड ट्रांसफर को कानूनी जोखिम में डाल दिया। इसलिए यह अनिश्चित है कि DAO मतदान का परिणाम तुरंत लागू हो सकेगा या नहीं, और राहत राशि के भुगतान की समयसीमा भी प्रभावित हो सकती है। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Arbitrum DAO Setujui Buka US$70 Juta untuk Relief Exploit Kelp DAO",
+        "excerpt": "Arbitrum DAO memilih membuka dana US$70 juta untuk relief exploit Kelp DAO, tetapi restraining notice dari pengadilan AS membuat transfer yang disetujui berada dalam ketidakpastian hukum.",
+        "body": "Arbitrum DAO menyetujui lewat pemungutan suara pelepasan dana US$70 juta untuk relief terkait exploit Kelp DAO. Keputusan ini ditujukan untuk memakai dana terkait exploit bagi bantuan kepada pihak terdampak dan menonjol karena merupakan transfer yang disetujui melalui tata kelola DAO. Namun setelah persetujuan, restraining notice dari pengadilan Amerika Serikat menempatkan transfer aktual dalam risiko hukum. Akibatnya, belum jelas apakah hasil voting DAO dapat langsung dijalankan, dan jadwal penyaluran dana relief juga dapat terdampak. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "0b63dd8cf4c2",
+    "slug": "coinbase-blames-aws-for-hours-long-crypto-trading-outage-538009",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T11:52:37.426Z",
+    "updatedAt": "2026-05-08T11:52:37.426Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/08/coinbase-disruption-tied-to-aws-outage-draws-criticism-amid-staff-layoffs-and-q1-losses",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/08/coinbase-disruption-tied-to-aws-outage-draws-criticism-amid-staff-layoffs-and-q1-losses",
+    "titleFingerprint": "9c0dc9e8f11d1641d016d7acc9d9dda63cf98100",
+    "dedupKeys": [
+      "0b63dd8cf4c209881b34b7838a7ca46128efcf8e",
+      "9c0dc9e8f11d1641d016d7acc9d9dda63cf98100",
+      "84a8e2aad1b7b95ce842e33acda4e577e54f006a"
+    ],
+    "imageUrl": "/images/articles/0b63dd8cf4c2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코인베이스, 수시간 암호화폐 거래 중단 원인으로 AWS 지목",
+        "excerpt": "코인베이스는 수시간 이어진 암호화폐 거래 중단이 AWS와 관련됐다고 밝히며, 장애는 완전히 해결됐고 사건을 전면 조사하겠다고 설명했다.",
+        "body": "코인베이스는 수시간 동안 이어진 암호화폐 거래 중단의 원인으로 AWS를 지목했다. 회사는 해당 장애가 완전히 해결됐다고 밝히며, 이번 사건을 전면적으로 조사하겠다고 설명했다. 이번 중단은 거래 서비스 이용에 영향을 준 기술 장애로, 구체적인 발생 시각이나 피해 규모는 원문에 제시되지 않았다. 암호화폐 거래소에서 인프라 장애는 이용자 접근성과 주문 처리 안정성에 직접 연결되는 사안인 만큼, 코인베이스의 후속 조사 결과가 향후 재발 방지 조치의 기준이 될 전망이다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Coinbase Blames AWS for Hours-Long Crypto Trading Outage",
+        "excerpt": "Coinbase said AWS was linked to an hours-long crypto trading outage, adding that the issue has been fully resolved and the incident will be fully investigated.",
+        "body": "Coinbase blamed AWS for an hours-long crypto trading outage that disrupted trading services. The company said the outage has been fully resolved and added that it will investigate the incident fully. The original report did not provide a specific start time, end time, or scale of impact. Because infrastructure failures at crypto exchanges can directly affect user access and trading reliability, Coinbase’s follow-up investigation will be important for understanding what happened and what measures may prevent a repeat. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "Coinbase、数時間の暗号資産取引停止でAWSを原因に挙げる",
+        "excerpt": "Coinbaseは、数時間続いた暗号資産取引の停止がAWSに関連すると説明し、障害は完全に解消され、事案を全面的に調査すると述べた。",
+        "body": "Coinbaseは、数時間にわたって続いた暗号資産取引停止の原因としてAWSを挙げた。同社はこの障害が完全に解消されたとし、今回の事案を全面的に調査すると説明した。原文では、具体的な発生時刻や終了時刻、影響規模は示されていない。暗号資産取引所におけるインフラ障害は、利用者のアクセスや注文処理の安定性に直接関わる問題であるため、Coinbaseの今後の調査結果は、発生原因の把握と再発防止策を考えるうえで重要になる。出典: coindesk.com。"
+      },
+      "zh": {
+        "title": "Coinbase称数小时加密货币交易中断与AWS有关",
+        "excerpt": "Coinbase表示，持续数小时的加密货币交易中断与AWS有关，故障已完全解决，公司将对该事件展开全面调查。",
+        "body": "Coinbase将持续数小时的加密货币交易中断归因于AWS。该公司表示，相关故障已经完全解决，并称将对这一事件进行全面调查。原文未提供具体的开始时间、结束时间或影响规模。对于加密货币交易所而言，基础设施故障会直接关系到用户访问和订单处理的稳定性，因此Coinbase后续调查结果将有助于了解事件原因，并为未来防止类似问题提供依据。来源: coindesk.com。"
+      },
+      "es": {
+        "title": "Coinbase culpa a AWS por una caída de horas en el trading cripto",
+        "excerpt": "Coinbase dijo que AWS estuvo vinculada a una interrupción de varias horas en el trading cripto, ya resuelta por completo, y que investigará el incidente a fondo.",
+        "body": "Coinbase atribuyó a AWS una interrupción de varias horas en el trading de criptomonedas. La empresa afirmó que la caída ya fue resuelta por completo y añadió que investigará el incidente de forma integral. El reporte original no indicó una hora exacta de inicio o finalización ni el alcance del impacto. En un exchange cripto, una falla de infraestructura puede afectar directamente el acceso de los usuarios y la estabilidad del procesamiento de órdenes, por lo que la investigación posterior de Coinbase será clave para entender lo ocurrido y definir medidas que eviten una repetición. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Coinbase culpa AWS por queda de horas no trading de criptomoedas",
+        "excerpt": "A Coinbase afirmou que a AWS esteve ligada a uma interrupção de várias horas no trading cripto, já totalmente resolvida, e disse que investigará o caso a fundo.",
+        "body": "A Coinbase atribuiu à AWS uma interrupção de várias horas no trading de criptomoedas. A empresa disse que a falha foi totalmente resolvida e acrescentou que investigará o incidente de forma completa. O relato original não informou horário exato de início ou término nem a escala do impacto. Em uma corretora de criptoativos, falhas de infraestrutura podem afetar diretamente o acesso dos usuários e a estabilidade do processamento de ordens. Por isso, a investigação posterior da Coinbase será importante para esclarecer o ocorrido e orientar medidas contra uma repetição. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Coinbase macht AWS für stundenlangen Krypto-Handelsausfall verantwortlich",
+        "excerpt": "Coinbase erklärte, AWS stehe mit einem stundenlangen Ausfall des Krypto-Handels in Verbindung; die Störung sei vollständig behoben und werde umfassend untersucht.",
+        "body": "Coinbase machte AWS für einen stundenlangen Ausfall des Krypto-Handels verantwortlich. Das Unternehmen teilte mit, die Störung sei vollständig behoben, und kündigte an, den Vorfall umfassend zu untersuchen. Der ursprüngliche Bericht nannte keine genaue Start- oder Endzeit und keine konkrete Größenordnung der Auswirkungen. Bei einer Kryptobörse können Infrastrukturprobleme den Zugang der Nutzer und die Stabilität der Orderverarbeitung direkt betreffen. Daher wird die weitere Untersuchung von Coinbase wichtig sein, um den Ablauf zu verstehen und Maßnahmen gegen eine Wiederholung abzuleiten. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Coinbase accuse AWS après une panne de plusieurs heures du trading crypto",
+        "excerpt": "Coinbase a déclaré qu’AWS était lié à une panne de plusieurs heures du trading crypto, désormais entièrement résolue, et qu’elle enquêterait pleinement sur l’incident.",
+        "body": "Coinbase a attribué à AWS une panne de plusieurs heures ayant touché le trading de cryptomonnaies. L’entreprise a indiqué que l’interruption était désormais entièrement résolue et qu’elle mènerait une enquête complète sur l’incident. Le rapport d’origine ne précisait pas l’heure exacte de début ou de fin, ni l’ampleur de l’impact. Pour une plateforme d’échange crypto, une défaillance d’infrastructure peut affecter directement l’accès des utilisateurs et la stabilité du traitement des ordres. Les conclusions de Coinbase seront donc importantes pour comprendre l’événement et prévenir une répétition. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "كوين بيس تلقي باللوم على AWS بعد تعطل تداول العملات المشفرة لساعات",
+        "excerpt": "قالت كوين بيس إن تعطل تداول العملات المشفرة لساعات كان مرتبطا بـ AWS، مؤكدة أن المشكلة حلت بالكامل وأنها ستجري تحقيقا شاملا في الحادث.",
+        "body": "ألقت كوين بيس باللوم على AWS في تعطل تداول العملات المشفرة لعدة ساعات. وقالت الشركة إن العطل تم حله بالكامل، وأضافت أنها ستجري تحقيقا كاملا في الحادث. ولم يذكر التقرير الأصلي وقتا محددا لبداية العطل أو نهايته، كما لم يوضح حجم التأثير. في منصات تداول العملات المشفرة، يمكن أن تؤثر أعطال البنية التحتية مباشرة في وصول المستخدمين واستقرار معالجة الأوامر. لذلك ستكون نتائج تحقيق كوين بيس اللاحقة مهمة لفهم ما حدث وتحديد الإجراءات التي قد تمنع تكراره. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "Coinbase ने घंटों चले क्रिप्टो ट्रेडिंग आउटेज के लिए AWS को जिम्मेदार बताया",
+        "excerpt": "Coinbase ने कहा कि घंटों चला क्रिप्टो ट्रेडिंग आउटेज AWS से जुड़ा था, समस्या पूरी तरह हल हो गई है और कंपनी घटना की पूरी जांच करेगी।",
+        "body": "Coinbase ने कई घंटों तक चले क्रिप्टोकरेंसी ट्रेडिंग आउटेज के लिए AWS को जिम्मेदार बताया। कंपनी ने कहा कि यह समस्या पूरी तरह हल हो चुकी है और वह इस घटना की पूरी जांच करेगी। मूल रिपोर्ट में आउटेज शुरू या खत्म होने का सटीक समय और प्रभाव का दायरा नहीं बताया गया। क्रिप्टो एक्सचेंज में इन्फ्रास्ट्रक्चर से जुड़ी खराबी उपयोगकर्ता पहुंच और ऑर्डर प्रोसेसिंग की स्थिरता को सीधे प्रभावित कर सकती है। इसलिए Coinbase की आगे की जांच यह समझने में अहम होगी कि क्या हुआ और दोबारा ऐसी घटना रोकने के लिए क्या कदम जरूरी हो सकते हैं। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Coinbase Salahkan AWS atas Gangguan Trading Kripto Berjam-jam",
+        "excerpt": "Coinbase menyebut gangguan trading kripto selama berjam-jam terkait AWS, mengatakan masalah sudah sepenuhnya pulih dan insiden akan diselidiki menyeluruh.",
+        "body": "Coinbase menyalahkan AWS atas gangguan trading kripto yang berlangsung selama berjam-jam. Perusahaan mengatakan gangguan tersebut telah sepenuhnya diselesaikan dan menambahkan bahwa insiden ini akan diselidiki secara menyeluruh. Laporan asli tidak menyebutkan waktu mulai, waktu berakhir, atau skala dampak secara rinci. Pada bursa kripto, gangguan infrastruktur dapat langsung memengaruhi akses pengguna dan stabilitas pemrosesan order. Karena itu, hasil investigasi lanjutan Coinbase akan penting untuk memahami kejadian ini dan menentukan langkah pencegahan agar tidak terulang. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "1ad657207697",
+    "slug": "us-hiring-slowdown-could-be-great-for-bitcoin-unless-wages-s-196737",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T11:51:44.627Z",
+    "updatedAt": "2026-05-08T11:51:44.627Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/daybook-us/2026/05/08/u-s-hiring-slowdown-could-be-great-for-bitcoin-unless-wages-spoil-the-party",
+    "canonicalUrl": "https://www.coindesk.com/daybook-us/2026/05/08/u-s-hiring-slowdown-could-be-great-for-bitcoin-unless-wages-spoil-the-party",
+    "titleFingerprint": "2651b4dc6538037eef4c751dd2b5fae5c3dad04b",
+    "dedupKeys": [
+      "1ad657207697323b18bd603a876f01cf7e07ab5c",
+      "2651b4dc6538037eef4c751dd2b5fae5c3dad04b",
+      "2d933df7d4ae1539920813f29136688e3da1c7e7"
+    ],
+    "imageUrl": "/images/articles/1ad657207697.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인, 미국 고용 둔화에 반등 기대…임금 지표가 변수로 부상한 5월 8일 프리뷰",
+        "excerpt": "2026년 5월 8일을 앞둔 코인데스크 데이 어헤드에서 미국 고용 둔화는 비트코인에 우호적일 수 있지만, 임금 흐름이 기대를 흔들 변수로 제시됐다. 투자자들은 노동시장 신호와 임금 압력을 함께 봐야 한다.",
+        "body": "2026년 5월 8일을 앞두고 시장의 관심은 미국 고용 둔화가 비트코인에 어떤 영향을 줄지에 모이고 있다. 코인데스크는 이날 데이 어헤드에서 미국의 채용 속도 둔화가 비트코인에는 긍정적 재료가 될 수 있다고 짚었다. 다만 같은 맥락에서 임금 흐름이 변수로 제시됐다. 고용이 식어도 임금 압력이 이어지면 시장의 우호적 해석이 약해질 수 있기 때문이다. 따라서 투자자들은 단순한 채용 둔화 여부뿐 아니라 임금 지표가 함께 보내는 신호를 확인해야 한다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Bitcoin Eyes U.S. Hiring Slowdown Boost as Wage Data Becomes Key May 8 Risk",
+        "excerpt": "Ahead of May 8, 2026, CoinDesk’s day-ahead view said slower U.S. hiring could be supportive for bitcoin, but wage trends may become the key factor that weakens that favorable setup for investors.",
+        "body": "Ahead of May 8, 2026, market attention is centered on how a slowdown in U.S. hiring may affect bitcoin. CoinDesk said in its day-ahead look that a softer pace of U.S. hiring could be a positive factor for bitcoin. The same setup, however, leaves wage trends as the main variable. If wage pressure remains firm even as hiring cools, the market’s favorable reading could lose strength. Investors therefore need to watch not only whether hiring is slowing, but also the signal coming from wage data. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "ビットコイン、米雇用鈍化が追い風か…賃金指標が5月8日の焦点に",
+        "excerpt": "2026年5月8日を前に、CoinDeskのデイアヘッドは米雇用の鈍化がビットコインに追い風となる可能性を指摘した一方、賃金動向がその見方を揺るがす重要な変数になるとした。",
+        "body": "2026年5月8日を前に、市場の関心は米国の雇用鈍化がビットコインにどのような影響を与えるかに集まっている。CoinDeskはデイアヘッドで、米国の採用ペースの鈍化がビットコインにとって前向きな材料になり得ると指摘した。ただし同じ文脈で、賃金動向が重要な変数として示された。雇用が冷え込んでも賃金圧力が続けば、市場の好意的な解釈は弱まる可能性がある。投資家は採用鈍化だけでなく、賃金指標が示すシグナルも確認する必要がある。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "比特币关注美国招聘放缓利好，工资数据成5月8日关键变量",
+        "excerpt": "在2026年5月8日前，CoinDesk的前瞻称，美国招聘放缓可能对比特币形成支撑，但工资走势可能成为削弱这一利好解读的关键变量，投资者需同时关注两类信号。",
+        "body": "在2026年5月8日前，市场焦点集中在美国招聘放缓将如何影响比特币。CoinDesk在当日市场前瞻中指出，美国招聘速度放慢可能成为比特币的积极因素。不过，在同一背景下，工资走势被视为关键变量。即使就业降温，如果工资压力仍然存在，市场对比特币的有利解读也可能减弱。因此，投资者不仅要观察招聘是否放缓，还应同时关注工资数据释放的信号。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Bitcoin mira el freno en la contratación de EE. UU., con salarios como riesgo clave",
+        "excerpt": "De cara al 8 de mayo de 2026, CoinDesk señaló que una desaceleración de la contratación en EE. UU. podría favorecer a bitcoin, aunque la evolución salarial puede debilitar esa lectura positiva.",
+        "body": "De cara al 8 de mayo de 2026, la atención del mercado se centra en cómo una desaceleración de la contratación en Estados Unidos puede influir en bitcoin. CoinDesk indicó en su mirada previa del día que un ritmo más lento de contratación estadounidense podría ser un factor positivo para bitcoin. Sin embargo, en ese mismo contexto, los salarios aparecen como la variable clave. Si la presión salarial continúa pese al enfriamiento del empleo, la lectura favorable del mercado podría perder fuerza. Por eso, los inversores deben observar tanto la contratación como las señales de los salarios. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Bitcoin vê chance com desaceleração das contratações nos EUA, mas salários pesam",
+        "excerpt": "Para 8 de maio de 2026, a CoinDesk destacou que a desaceleração das contratações nos EUA pode favorecer o bitcoin, mas a trajetória dos salários pode enfraquecer essa leitura positiva do mercado.",
+        "body": "Às vésperas de 8 de maio de 2026, a atenção do mercado está voltada para o efeito que uma desaceleração das contratações nos Estados Unidos pode ter sobre o bitcoin. A CoinDesk afirmou em sua prévia diária que um ritmo menor de contratações nos EUA pode ser um fator positivo para o bitcoin. Ainda assim, no mesmo contexto, os salários surgem como a principal variável. Se a pressão salarial continuar mesmo com o emprego esfriando, a leitura favorável do mercado pode perder força. Investidores devem acompanhar tanto a contratação quanto os sinais dos salários. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Bitcoin hofft auf langsamere US-Einstellungen, doch Löhne werden zum Schlüsselrisiko",
+        "excerpt": "Vor dem 8. Mai 2026 schrieb CoinDesk, dass eine Verlangsamung der US-Einstellungen bitcoin stützen könnte. Lohntrends könnten diese positive Lesart jedoch zum entscheidenden Risiko machen.",
+        "body": "Vor dem 8. Mai 2026 richtet sich der Blick des Marktes darauf, wie eine Verlangsamung der Einstellungen in den USA bitcoin beeinflussen könnte. CoinDesk erklärte im Tagesausblick, ein schwächeres Tempo bei Neueinstellungen in den USA könne für bitcoin ein positiver Faktor sein. Zugleich wurden die Löhne als zentrale Variable genannt. Wenn der Lohndruck trotz abkühlender Beschäftigung anhält, könnte die freundliche Marktinterpretation an Kraft verlieren. Anleger sollten daher nicht nur auf langsamere Einstellungen achten, sondern auch auf die Signale der Lohndaten. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Bitcoin soutenu par le ralentissement de l’embauche aux États-Unis, salaires en risque clé",
+        "excerpt": "Avant le 8 mai 2026, CoinDesk a indiqué qu’un ralentissement des embauches aux États-Unis pourrait soutenir bitcoin, mais que l’évolution des salaires pourrait affaiblir cette lecture favorable.",
+        "body": "À l’approche du 8 mai 2026, l’attention du marché porte sur l’effet qu’un ralentissement des embauches aux États-Unis pourrait avoir sur bitcoin. CoinDesk a indiqué dans son aperçu du jour qu’un rythme d’embauche plus faible aux États-Unis pourrait être un élément favorable pour bitcoin. Toutefois, dans ce même contexte, les salaires apparaissent comme la variable clé. Si la pression salariale persiste alors que l’emploi ralentit, l’interprétation positive du marché pourrait perdre de sa force. Les investisseurs doivent donc suivre à la fois les embauches et les signaux des salaires. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "بيتكوين تترقب تباطؤ التوظيف الأميركي، والأجور تتحول إلى عامل حاسم في 8 مايو",
+        "excerpt": "قبيل 8 مايو 2026، قالت CoinDesk إن تباطؤ التوظيف في الولايات المتحدة قد يكون داعما لبيتكوين، لكن اتجاهات الأجور قد تصبح العامل الذي يضعف هذه القراءة الإيجابية لدى المستثمرين.",
+        "body": "قبيل 8 مايو 2026، يتركز اهتمام السوق على كيفية تأثير تباطؤ التوظيف في الولايات المتحدة في بيتكوين. وذكرت CoinDesk في نظرتها لليوم التالي أن تباطؤ وتيرة التوظيف الأميركية قد يكون عاملا إيجابيا لبيتكوين. لكن السياق نفسه يضع اتجاهات الأجور كمتغير رئيسي. فإذا استمرت ضغوط الأجور رغم فتور التوظيف، فقد تضعف القراءة الإيجابية في السوق. لذلك يحتاج المستثمرون إلى متابعة ما إذا كان التوظيف يتباطأ، وكذلك الإشارة التي تقدمها بيانات الأجور. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "बिटकॉइन को अमेरिकी hiring slowdown से सहारा, wage data बना 8 मई का बड़ा जोखिम",
+        "excerpt": "8 मई 2026 से पहले CoinDesk ने कहा कि अमेरिका में hiring slowdown बिटकॉइन के लिए सहायक हो सकता है, लेकिन wage trends इस सकारात्मक बाजार व्याख्या को कमजोर करने वाला मुख्य कारक बन सकते हैं।",
+        "body": "8 मई 2026 से पहले बाजार का ध्यान इस बात पर है कि अमेरिका में hiring slowdown बिटकॉइन को कैसे प्रभावित कर सकता है। CoinDesk ने अपने day-ahead look में कहा कि अमेरिकी hiring की धीमी रफ्तार बिटकॉइन के लिए सकारात्मक कारक हो सकती है। हालांकि इसी संदर्भ में wage trends को मुख्य variable बताया गया। यदि employment ठंडा होने के बावजूद wage pressure बना रहता है, तो बाजार की अनुकूल व्याख्या कमजोर पड़ सकती है। इसलिए निवेशकों को केवल hiring slowdown नहीं, बल्कि wage data से मिलने वाले संकेत भी देखने होंगे। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Bitcoin Pantau Perlambatan Perekrutan AS, Data Upah Jadi Risiko Kunci 8 Mei",
+        "excerpt": "Menjelang 8 Mei 2026, CoinDesk menyebut perlambatan perekrutan di AS dapat mendukung bitcoin, tetapi tren upah bisa menjadi faktor utama yang melemahkan pembacaan positif pasar tersebut.",
+        "body": "Menjelang 8 Mei 2026, perhatian pasar tertuju pada bagaimana perlambatan perekrutan di Amerika Serikat dapat memengaruhi bitcoin. CoinDesk dalam tinjauan day-ahead menyebut laju perekrutan AS yang lebih lambat dapat menjadi faktor positif bagi bitcoin. Namun dalam konteks yang sama, tren upah menjadi variabel utama. Jika tekanan upah tetap bertahan meski pasar kerja mendingin, pembacaan positif pasar bisa melemah. Karena itu, investor perlu memantau bukan hanya perlambatan perekrutan, tetapi juga sinyal dari data upah. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "1449b9c6641a",
     "slug": "bitcoin-etfs-snap-5-day-inflow-streak-as-btc-dips-under-80k-946926",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Coinbax Menang PitchFest Consensus Miami Lewat Kepatuhan Stablecoin",
         "excerpt": "Coinbax meraih posisi pertama di PitchFest Consensus Miami dan memenangkan $20.000 lewat software yang menambahkan kontrol kepatuhan pada pembayaran onchain.",
         "body": "Coinbax meraih posisi pertama di PitchFest yang digelar dalam Consensus Miami dan memperoleh hadiah $20.000 untuk solusi kepatuhan stablecoin. Perusahaan itu mempresentasikan software yang dirancang untuk menambahkan kontrol kepatuhan pada pembayaran onchain. Kemenangan ini menunjukkan bahwa pengelolaan kepatuhan regulasi menjadi faktor kompetitif penting dalam infrastruktur pembayaran stablecoin. Presentasi Coinbax berfokus pada penerapan kontrol yang dibutuhkan dalam alur pembayaran melalui software saat pembayaran onchain terus berkembang. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "8209f98fa6e1",
-    "slug": "coinbase-and-aws-launch-usdc-payment-rails-for-ai-agents-422849",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T21:44:44.524Z",
-    "updatedAt": "2026-05-07T21:44:44.524Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/aws-and-coinbase-launch-crypto-payment-infrastructure-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/aws-and-coinbase-launch-crypto-payment-infrastructure-for-ai-agents",
-    "titleFingerprint": "e7c0c637454e3835047cec8599f6c6bffe61a10c",
-    "dedupKeys": [
-      "8209f98fa6e129ce73c242bfe69f35843067da65",
-      "e7c0c637454e3835047cec8599f6c6bffe61a10c",
-      "ffe6ad78092d02873b86b2a9beb33ec12dff75e6"
-    ],
-    "imageUrl": "/images/articles/8209f98fa6e1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Coinbase·AWS, AI 에이전트용 USDC 결제 레일 출시",
-        "excerpt": "Coinbase와 AWS가 Amazon Bedrock AgentCore 기반 AI 에이전트가 x402 프로토콜로 USDC 소액결제를 자율 수행하도록 하는 통합을 공개했다.",
-        "body": "Coinbase와 AWS는 Amazon Bedrock AgentCore에서 구축된 AI 에이전트가 Coinbase의 x402 프로토콜을 통해 USDC 소액결제를 실행하고 필요한 서비스에 자율적으로 접근할 수 있는 결제 레일 통합을 선보였다. 이번 통합의 핵심은 AI 에이전트가 사람의 직접 개입 없이 온체인 결제 수단인 USDC를 활용해 서비스 이용 대가를 처리할 수 있게 하는 것이다. 배경에는 AI 에이전트가 API, 데이터, 디지털 서비스에 접근할 때 소액 단위 결제가 필요해지는 흐름이 있다. Amazon Bedrock AgentCore는 AI 에이전트 구축 기반을 제공하고, Coinbase의 x402는 결제 요청과 정산을 연결하는 프로토콜로 활용된다. 이 통합은 AI 에이전트 기반 서비스 이용 방식과 스테이블코인 결제 활용 범위를 넓힐 수 있다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Coinbase and AWS Launch USDC Payment Rails for AI Agents",
-        "excerpt": "Coinbase and AWS unveiled an integration enabling AI agents built on Amazon Bedrock AgentCore to make autonomous USDC micropayments via x402.",
-        "body": "Coinbase and AWS have introduced a payment rails integration that lets AI agents built on Amazon Bedrock AgentCore use Coinbase’s x402 protocol to make USDC micropayments and access services autonomously. The core of the integration is enabling AI agents to pay for services with USDC, an onchain payment asset, without direct human intervention. The context is a growing need for small payments when AI agents access APIs, data and digital services. Amazon Bedrock AgentCore provides the foundation for building AI agents, while Coinbase’s x402 is used as the protocol connecting payment requests and settlement. The integration may broaden how AI agent-based services use stablecoin payments. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "CoinbaseとAWS、AIエージェント向けUSDC決済基盤を開始",
-        "excerpt": "CoinbaseとAWSは、Amazon Bedrock AgentCore上のAIエージェントがx402でUSDC少額決済を自律実行できる統合を公開した。",
-        "body": "CoinbaseとAWSは、Amazon Bedrock AgentCoreで構築されたAIエージェントがCoinbaseのx402プロトコルを通じてUSDCの少額決済を行い、必要なサービスへ自律的にアクセスできる決済レール統合を発表した。今回の統合の要点は、AIエージェントが人の直接介入なしに、オンチェーン決済手段であるUSDCを使ってサービス利用料を処理できるようにすることだ。背景には、AIエージェントがAPI、データ、デジタルサービスへアクセスする際に少額決済が必要になる流れがある。Amazon Bedrock AgentCoreはAIエージェント構築の基盤を提供し、Coinbaseのx402は決済リクエストと精算をつなぐプロトコルとして使われる。この統合は、AIエージェント型サービスの利用方法とステーブルコイン決済の活用範囲を広げる可能性がある。出典: cointelegraph.com。"
-      },
-      "zh": {
-        "title": "Coinbase与AWS推出面向AI代理的USDC支付通道",
-        "excerpt": "Coinbase与AWS发布集成，使基于Amazon Bedrock AgentCore构建的AI代理可通过x402自主完成USDC小额支付。",
-        "body": "Coinbase与AWS推出一项支付通道集成，使基于Amazon Bedrock AgentCore构建的AI代理能够通过Coinbase的x402协议进行USDC小额支付，并自主访问所需服务。此次集成的核心，是让AI代理在没有人工直接介入的情况下，使用链上支付资产USDC处理服务使用费用。其背景是，AI代理在访问API、数据和数字服务时，对小额支付的需求正在出现。Amazon Bedrock AgentCore提供AI代理构建基础，Coinbase的x402则作为连接支付请求与结算的协议使用。该集成可能扩大AI代理型服务的使用方式，以及稳定币支付的应用范围。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Coinbase y AWS lanzan pagos USDC para agentes de IA",
-        "excerpt": "Coinbase y AWS presentaron una integración para que agentes de IA creados en Amazon Bedrock AgentCore hagan micropagos autónomos en USDC con x402.",
-        "body": "Coinbase y AWS presentaron una integración de rieles de pago que permite a los agentes de IA creados en Amazon Bedrock AgentCore realizar micropagos en USDC mediante el protocolo x402 de Coinbase y acceder a servicios de forma autónoma. El punto central es que los agentes de IA puedan pagar servicios con USDC, un activo de pago onchain, sin intervención humana directa. El contexto es la necesidad creciente de pagos de bajo valor cuando los agentes de IA acceden a API, datos y servicios digitales. Amazon Bedrock AgentCore ofrece la base para crear agentes de IA, mientras que x402 de Coinbase se usa como protocolo para conectar solicitudes de pago y liquidación. La integración puede ampliar el uso de pagos con stablecoins en servicios basados en agentes de IA. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Coinbase e AWS lançam trilhos de pagamento USDC para agentes de IA",
-        "excerpt": "Coinbase e AWS apresentaram integração para agentes de IA criados no Amazon Bedrock AgentCore fazerem micropagamentos autônomos em USDC via x402.",
-        "body": "A Coinbase e a AWS apresentaram uma integração de trilhos de pagamento que permite a agentes de IA criados no Amazon Bedrock AgentCore fazer micropagamentos em USDC por meio do protocolo x402 da Coinbase e acessar serviços de forma autônoma. O ponto central da integração é permitir que agentes de IA paguem por serviços com USDC, um ativo de pagamento onchain, sem intervenção humana direta. O contexto é a necessidade de pagamentos de pequeno valor quando agentes de IA acessam APIs, dados e serviços digitais. O Amazon Bedrock AgentCore fornece a base para criar agentes de IA, enquanto o x402 da Coinbase é usado como protocolo para conectar solicitações de pagamento e liquidação. A integração pode ampliar o uso de stablecoins em serviços baseados em agentes de IA. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Coinbase und AWS starten USDC-Zahlungswege für KI-Agenten",
-        "excerpt": "Coinbase und AWS stellen eine Integration vor, mit der KI-Agenten auf Amazon Bedrock AgentCore autonome USDC-Mikrozahlungen per x402 ausführen können.",
-        "body": "Coinbase und AWS haben eine Integration für Zahlungswege vorgestellt, mit der auf Amazon Bedrock AgentCore entwickelte KI-Agenten über Coinbases x402-Protokoll USDC-Mikrozahlungen ausführen und autonom auf Dienste zugreifen können. Kern der Integration ist, dass KI-Agenten ohne direkte menschliche Eingriffe mit USDC, einem Onchain-Zahlungsmittel, für Services bezahlen können. Hintergrund ist der Bedarf an kleinen Zahlungen, wenn KI-Agenten auf APIs, Daten und digitale Dienste zugreifen. Amazon Bedrock AgentCore stellt die Grundlage für den Aufbau von KI-Agenten bereit, während Coinbases x402 als Protokoll zur Verbindung von Zahlungsanforderungen und Abwicklung dient. Die Integration kann die Nutzung von Stablecoin-Zahlungen in KI-Agenten-basierten Diensten erweitern. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Coinbase et AWS lancent des rails USDC pour agents IA",
-        "excerpt": "Coinbase et AWS ont dévoilé une intégration permettant aux agents IA créés sur Amazon Bedrock AgentCore d’effectuer des micropaiements USDC via x402.",
-        "body": "Coinbase et AWS ont présenté une intégration de rails de paiement permettant aux agents IA créés sur Amazon Bedrock AgentCore d’effectuer des micropaiements en USDC via le protocole x402 de Coinbase et d’accéder à des services de manière autonome. Le point central est de permettre aux agents IA de payer des services avec l’USDC, un actif de paiement onchain, sans intervention humaine directe. Le contexte est le besoin de petits paiements lorsque les agents IA accèdent à des API, des données et des services numériques. Amazon Bedrock AgentCore fournit la base de création des agents IA, tandis que x402 de Coinbase sert de protocole reliant demandes de paiement et règlement. Cette intégration peut élargir l’usage des paiements en stablecoins dans les services fondés sur des agents IA. Source : cointelegraph.com."
-      },
-      "ar": {
-        "title": "Coinbase وAWS تطلقان مسارات دفع USDC لوكلاء الذكاء الاصطناعي",
-        "excerpt": "كشفت Coinbase وAWS عن تكامل يتيح لوكلاء الذكاء الاصطناعي المبنيين على Amazon Bedrock AgentCore تنفيذ مدفوعات USDC صغيرة عبر x402 ذاتيا.",
-        "body": "قدمت Coinbase وAWS تكاملا لمسارات الدفع يتيح لوكلاء الذكاء الاصطناعي المبنيين على Amazon Bedrock AgentCore استخدام بروتوكول x402 من Coinbase لتنفيذ مدفوعات صغيرة بعملة USDC والوصول إلى الخدمات بصورة ذاتية. جوهر التكامل هو تمكين وكلاء الذكاء الاصطناعي من دفع مقابل الخدمات باستخدام USDC، وهو أصل دفع على السلسلة، من دون تدخل بشري مباشر. تأتي الخلفية من الحاجة إلى مدفوعات صغيرة عندما يصل وكلاء الذكاء الاصطناعي إلى واجهات API والبيانات والخدمات الرقمية. يوفر Amazon Bedrock AgentCore أساس بناء وكلاء الذكاء الاصطناعي، بينما يعمل x402 من Coinbase كبروتوكول يربط طلبات الدفع بالتسوية. وقد يوسع هذا التكامل استخدام مدفوعات العملات المستقرة في الخدمات القائمة على وكلاء الذكاء الاصطناعي. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Coinbase और AWS ने AI एजेंटों के लिए USDC भुगतान रेल शुरू की",
-        "excerpt": "Coinbase और AWS ने ऐसा इंटीग्रेशन पेश किया जिससे Amazon Bedrock AgentCore पर बने AI एजेंट x402 के जरिए USDC माइक्रोपेमेंट स्वायत्त रूप से कर सकते हैं।",
-        "body": "Coinbase और AWS ने एक भुगतान रेल इंटीग्रेशन पेश किया है, जिससे Amazon Bedrock AgentCore पर बने AI एजेंट Coinbase के x402 प्रोटोकॉल के जरिए USDC माइक्रोपेमेंट कर सकते हैं और सेवाओं तक स्वायत्त रूप से पहुंच सकते हैं। इस इंटीग्रेशन का मुख्य बिंदु यह है कि AI एजेंट बिना प्रत्यक्ष मानवीय हस्तक्षेप के ऑनचेन भुगतान संपत्ति USDC से सेवाओं का भुगतान कर सकें। पृष्ठभूमि में यह जरूरत है कि AI एजेंट जब API, डेटा और डिजिटल सेवाओं तक पहुंचते हैं, तो छोटे भुगतान की आवश्यकता हो सकती है। Amazon Bedrock AgentCore AI एजेंट बनाने का आधार देता है, जबकि Coinbase का x402 भुगतान अनुरोध और निपटान को जोड़ने वाले प्रोटोकॉल के रूप में इस्तेमाल होता है। यह इंटीग्रेशन AI एजेंट आधारित सेवाओं में स्टेबलकॉइन भुगतान के उपयोग को बढ़ा सकता है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Coinbase dan AWS Luncurkan Jalur Pembayaran USDC untuk Agen AI",
-        "excerpt": "Coinbase dan AWS memperkenalkan integrasi agar agen AI di Amazon Bedrock AgentCore dapat melakukan micropayment USDC mandiri lewat x402.",
-        "body": "Coinbase dan AWS memperkenalkan integrasi jalur pembayaran yang memungkinkan agen AI yang dibangun di Amazon Bedrock AgentCore melakukan micropayment USDC melalui protokol x402 milik Coinbase dan mengakses layanan secara otonom. Inti integrasi ini adalah membuat agen AI dapat membayar layanan dengan USDC, aset pembayaran onchain, tanpa campur tangan langsung manusia. Latar belakangnya adalah kebutuhan pembayaran bernilai kecil saat agen AI mengakses API, data, dan layanan digital. Amazon Bedrock AgentCore menyediakan fondasi untuk membangun agen AI, sementara x402 Coinbase digunakan sebagai protokol yang menghubungkan permintaan pembayaran dan penyelesaian. Integrasi ini dapat memperluas cara layanan berbasis agen AI memakai pembayaran stablecoin. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "59b8c30778ec",
-    "slug": "bny-eyes-institutional-bitcoin-ethereum-custody-for-investor-781425",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T21:43:44.446Z",
-    "updatedAt": "2026-05-07T21:43:44.446Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/bny-to-launch-institutional-bitcoin-ethereum-custody-for-investors-in-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/bny-to-launch-institutional-bitcoin-ethereum-custody-for-investors-in-uae",
-    "titleFingerprint": "a0d0377bf9a51037522c58a693037d56319e9325",
-    "dedupKeys": [
-      "59b8c30778ecf89aa9466fbe884b299547209ac9",
-      "a0d0377bf9a51037522c58a693037d56319e9325",
-      "90c0eace6bfaf744168af7fdb70cac609087826d"
-    ],
-    "imageUrl": "/images/articles/59b8c30778ec.jpg",
-    "i18n": {
-      "ko": {
-        "title": "BNY, UAE 기관투자자 대상 비트코인·이더리움 수탁 추진",
-        "excerpt": "BNY가 Finstreet, ADI Foundation과 협력해 아부다비 글로벌마켓을 기반으로 UAE 고객에게 규제된 비트코인·이더리움 수탁 서비스를 제공하려 한다.",
-        "body": "BNY가 아랍에미리트(UAE) 투자자를 대상으로 비트코인과 이더리움 기관 수탁 서비스를 추진한다. 회사는 Finstreet, ADI Foundation과 파트너십을 맺고 아부다비 글로벌마켓(ADGM)을 기반으로 규제된 디지털자산 수탁 서비스를 UAE 고객에게 제공하는 방안을 준비하고 있다. 이번 움직임은 기관 투자자가 암호화폐를 보관할 때 규제 틀과 신뢰할 수 있는 수탁 인프라를 중시하는 흐름과 맞닿아 있다. 서비스가 현실화되면 UAE 내 전문 투자자와 기관 고객은 비트코인·이더리움 보관 선택지를 넓힐 수 있다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "BNY Targets Bitcoin and Ethereum Custody for UAE Institutions",
-        "excerpt": "BNY is partnering with Finstreet and ADI Foundation to offer regulated Bitcoin and Ethereum custody to UAE clients through Abu Dhabi Global Market.",
-        "body": "BNY is moving to provide institutional custody services for Bitcoin and Ethereum to investors in the United Arab Emirates. The company is partnering with Finstreet and ADI Foundation to prepare a regulated digital asset custody offering for UAE clients from the Abu Dhabi Global Market, or ADGM. The plan reflects growing institutional focus on regulated frameworks and trusted custody infrastructure when holding crypto assets. If launched, the service would give professional investors and institutional clients in the UAE another option for safeguarding Bitcoin and Ethereum. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "BNY、UAE機関投資家向けビットコイン・イーサリアム保管へ",
-        "excerpt": "BNYはFinstreet、ADI Foundationと提携し、アブダビ・グローバル・マーケットを拠点にUAE顧客へ規制下のBTC・ETH保管を提供する計画だ。",
-        "body": "BNYは、アラブ首長国連邦（UAE）の投資家向けにビットコインとイーサリアムの機関投資家向けカストディサービスを進めている。同社はFinstreetおよびADI Foundationと提携し、アブダビ・グローバル・マーケット（ADGM）を拠点に、UAE顧客へ規制下のデジタル資産カストディを提供する準備を進める。今回の動きは、機関投資家が暗号資産を保管する際、規制の枠組みと信頼できる保管インフラを重視する流れに沿うものだ。実現すれば、UAEの専門投資家や機関顧客はBTCとETHの保管手段を広げられる。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "BNY瞄准阿联酋机构比特币与以太坊托管服务",
-        "excerpt": "BNY正与Finstreet和ADI Foundation合作，计划依托阿布扎比全球市场，为阿联酋客户提供受监管的比特币和以太坊托管服务。",
-        "body": "BNY正推进面向阿拉伯联合酋长国投资者的比特币和以太坊机构托管服务。该公司与Finstreet和ADI Foundation建立合作，准备依托阿布扎比全球市场（ADGM），向阿联酋客户提供受监管的数字资产托管方案。此举符合机构投资者在持有加密资产时更加重视监管框架和可信托管基础设施的趋势。如果服务落地，阿联酋的专业投资者和机构客户将在比特币、以太坊保管方面获得更多选择。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "BNY apunta a custodia de Bitcoin y Ethereum para instituciones en EAU",
-        "excerpt": "BNY se asocia con Finstreet y ADI Foundation para ofrecer custodia regulada de Bitcoin y Ethereum a clientes de EAU desde Abu Dhabi Global Market.",
-        "body": "BNY avanza hacia la prestación de servicios de custodia institucional de Bitcoin y Ethereum para inversores en los Emiratos Árabes Unidos. La firma se ha asociado con Finstreet y ADI Foundation para preparar una oferta regulada de custodia de activos digitales para clientes de EAU desde Abu Dhabi Global Market, o ADGM. El movimiento refleja el interés de los inversores institucionales por marcos regulados e infraestructura de custodia confiable al mantener criptoactivos. Si se concreta, el servicio ampliaría las opciones de resguardo de Bitcoin y Ethereum para clientes profesionales e institucionales en EAU. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "BNY mira custódia de Bitcoin e Ethereum para instituições nos EAU",
-        "excerpt": "A BNY fez parceria com Finstreet e ADI Foundation para oferecer custódia regulada de Bitcoin e Ethereum a clientes dos EAU a partir do Abu Dhabi Global Market.",
-        "body": "A BNY avança para oferecer serviços de custódia institucional de Bitcoin e Ethereum a investidores nos Emirados Árabes Unidos. A empresa firmou parceria com a Finstreet e a ADI Foundation para preparar uma oferta regulada de custódia de ativos digitais para clientes dos EAU a partir do Abu Dhabi Global Market, ou ADGM. A iniciativa acompanha a atenção de investidores institucionais a estruturas regulatórias e infraestrutura confiável de custódia ao manter criptoativos. Se lançada, a solução ampliará as opções de guarda de Bitcoin e Ethereum para clientes profissionais e institucionais nos EAU. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "BNY plant Bitcoin- und Ethereum-Verwahrung für Institutionen in VAE",
-        "excerpt": "BNY arbeitet mit Finstreet und ADI Foundation zusammen, um Kunden in den VAE über Abu Dhabi Global Market regulierte Verwahrung für Bitcoin und Ethereum anzubieten.",
-        "body": "BNY treibt institutionelle Verwahrdienste für Bitcoin und Ethereum für Investoren in den Vereinigten Arabischen Emiraten voran. Das Unternehmen kooperiert mit Finstreet und ADI Foundation, um vom Abu Dhabi Global Market, kurz ADGM, aus ein reguliertes Angebot zur Verwahrung digitaler Vermögenswerte für Kunden in den VAE vorzubereiten. Der Schritt passt zum Fokus institutioneller Anleger auf klare Regulierung und vertrauenswürdige Verwahrinfrastruktur beim Halten von Kryptoassets. Kommt der Service zustande, erhalten professionelle Anleger und institutionelle Kunden in den VAE eine weitere Option zur Verwahrung von Bitcoin und Ethereum. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "BNY vise la garde de Bitcoin et Ethereum pour institutions aux EAU",
-        "excerpt": "BNY s’associe à Finstreet et ADI Foundation pour offrir une garde réglementée de Bitcoin et Ethereum aux clients des EAU depuis Abu Dhabi Global Market.",
-        "body": "BNY prépare des services de garde institutionnelle de Bitcoin et d’Ethereum pour les investisseurs des Émirats arabes unis. La société s’associe à Finstreet et à ADI Foundation afin de proposer, depuis Abu Dhabi Global Market, ou ADGM, une offre réglementée de garde d’actifs numériques aux clients des EAU. Cette initiative s’inscrit dans une tendance où les investisseurs institutionnels accordent une importance accrue aux cadres réglementés et aux infrastructures de garde fiables pour conserver des cryptoactifs. Si le service voit le jour, les clients professionnels et institutionnels des EAU disposeront d’une option supplémentaire pour sécuriser Bitcoin et Ethereum. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "BNY تستهدف حفظ بيتكوين وإيثريوم للمؤسسات في الإمارات",
-        "excerpt": "تتعاون BNY مع Finstreet وADI Foundation لتقديم حفظ منظم لبيتكوين وإيثريوم لعملاء الإمارات عبر سوق أبوظبي العالمي.",
-        "body": "تعمل BNY على توفير خدمات حفظ مؤسسية لبيتكوين وإيثريوم للمستثمرين في دولة الإمارات العربية المتحدة. وتتعاون الشركة مع Finstreet وADI Foundation لإعداد عرض منظم لحفظ الأصول الرقمية لعملاء الإمارات من خلال سوق أبوظبي العالمي، ADGM. وتنسجم هذه الخطوة مع تركيز المستثمرين المؤسسيين على الأطر التنظيمية والبنية التحتية الموثوقة للحفظ عند الاحتفاظ بالأصول المشفرة. وإذا تم إطلاق الخدمة، فستمنح المستثمرين المحترفين والعملاء المؤسسيين في الإمارات خيارا إضافيا لحفظ بيتكوين وإيثريوم. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "BNY की नजर UAE संस्थानों के लिए Bitcoin और Ethereum कस्टडी पर",
-        "excerpt": "BNY, Finstreet और ADI Foundation के साथ मिलकर Abu Dhabi Global Market से UAE ग्राहकों को विनियमित Bitcoin और Ethereum कस्टडी देने की तैयारी कर रहा है।",
-        "body": "BNY संयुक्त अरब अमीरात के निवेशकों के लिए Bitcoin और Ethereum की संस्थागत कस्टडी सेवाएं शुरू करने की दिशा में काम कर रहा है। कंपनी Finstreet और ADI Foundation के साथ साझेदारी कर रही है ताकि Abu Dhabi Global Market, यानी ADGM, से UAE ग्राहकों के लिए विनियमित डिजिटल एसेट कस्टडी पेशकश तैयार की जा सके। यह कदम उस प्रवृत्ति से जुड़ा है जिसमें संस्थागत निवेशक क्रिप्टो एसेट रखने के लिए नियामकीय ढांचे और भरोसेमंद कस्टडी इंफ्रास्ट्रक्चर को महत्व देते हैं। सेवा शुरू होने पर UAE के पेशेवर निवेशकों और संस्थागत ग्राहकों को Bitcoin और Ethereum सुरक्षित रखने का एक और विकल्प मिलेगा। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "BNY bidik kustodi Bitcoin dan Ethereum untuk institusi di UEA",
-        "excerpt": "BNY bermitra dengan Finstreet dan ADI Foundation untuk menawarkan kustodi Bitcoin dan Ethereum teregulasi bagi klien UEA dari Abu Dhabi Global Market.",
-        "body": "BNY bergerak untuk menyediakan layanan kustodi institusional Bitcoin dan Ethereum bagi investor di Uni Emirat Arab. Perusahaan ini bermitra dengan Finstreet dan ADI Foundation untuk menyiapkan penawaran kustodi aset digital yang teregulasi bagi klien UEA dari Abu Dhabi Global Market, atau ADGM. Langkah ini sejalan dengan fokus investor institusional pada kerangka regulasi dan infrastruktur kustodi yang tepercaya saat menyimpan aset kripto. Jika diluncurkan, layanan tersebut akan memberi investor profesional dan klien institusional di UEA pilihan tambahan untuk menyimpan Bitcoin dan Ethereum. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "f1204fb8f16c",
-    "slug": "bitcoin-analysts-say-this-level-must-break-for-btc-price-to--374563",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T21:42:53.916Z",
-    "updatedAt": "2026-05-07T21:42:53.916Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/bitcoin-analysts-say-this-level-must-break-btc-price-confirm-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/bitcoin-analysts-say-this-level-must-break-btc-price-confirm-bottom",
-    "titleFingerprint": "6ab78a44682166fd0724674a12aa71dc38ce91d3",
-    "dedupKeys": [
-      "f1204fb8f16cf1c9b318d26b64c08ead108900e9",
-      "6ab78a44682166fd0724674a12aa71dc38ce91d3",
-      "4980de92e1a21a58e1b6f2c537b0e1f1be8da474"
-    ],
-    "imageUrl": "/images/articles/f1204fb8f16c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 8만8000달러 지지선 회복이 바닥 확인 핵심 변수",
-        "excerpt": "비트코인 분석가들은 최근 차익 실현 둔화와 8만8000달러 지지선 회복이 BTC 가격의 사이클 바닥 확인을 위한 선결 조건이라고 봤다.",
-        "body": "비트코인(BTC) 가격이 사이클 바닥을 확인하려면 8만8000달러를 지지선으로 되찾아야 한다는 분석이 나왔다. 분석가들은 최근 시장에서 차익 실현 속도가 둔화되고 있지만, 이 흐름만으로는 바닥 확인이 충분하지 않다고 봤다. 핵심 수치는 8만8000달러다. BTC가 이 가격대를 단순히 돌파하는 데 그치지 않고 지지선으로 유지해야 매도 압력이 약해졌다는 신호가 될 수 있다. 시장 참가자들은 차익 실현 둔화와 지지선 회복 여부를 함께 보며 향후 가격 안정 가능성을 판단할 전망이다. 출처는 cointelegraph.com이다."
-      },
-      "en": {
-        "title": "Bitcoin $88K Support Reclaim Seen as Key to Confirming BTC Bottom",
-        "excerpt": "Bitcoin analysts said a slowdown in profit-taking and a reclaim of $88,000 as support are needed for BTC price to confirm its cycle bottom.",
-        "body": "Bitcoin (BTC) must reclaim $88,000 as support to confirm a cycle bottom, according to analysts. They said recent profit-taking has slowed, but that alone is not enough to verify that the market has bottomed. The key level is $88,000. BTC would need not only to move above that price area but also hold it as support, which could indicate easing sell pressure. Market participants are expected to watch both the slowdown in profit-taking and the recovery of this support level when assessing whether BTC price stability can improve. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "ビットコイン、8万8000ドル支持回復が底打ち確認の焦点に",
-        "excerpt": "ビットコイン分析家は、利益確定売りの鈍化と8万8000ドルの支持線回復が、BTC価格のサイクル底確認に必要だと指摘した。",
-        "body": "ビットコイン（BTC）価格がサイクルの底を確認するには、8万8000ドルを支持線として回復する必要があるとの分析が示された。分析家は、足元で利益確定の動きは鈍化しているものの、それだけでは底打ち確認には不十分だと見ている。焦点となる水準は8万8000ドルだ。BTCがこの価格帯を単に上回るだけでなく、支持線として維持できれば、売り圧力の弱まりを示す可能性がある。市場参加者は今後、利益確定の鈍化と支持線回復を合わせて、価格安定の可能性を判断するとみられる。出典はcointelegraph.com。"
-      },
-      "zh": {
-        "title": "比特币重回8.8万美元支撑位成确认BTC底部关键",
-        "excerpt": "比特币分析师认为，获利了结放缓并重新站稳8.8万美元支撑位，是BTC价格确认周期底部的前提条件。",
-        "body": "分析师表示，比特币（BTC）若要确认周期底部，需要重新夺回8.8万美元并将其转化为支撑位。近期市场获利了结速度有所放缓，但分析师认为，仅凭这一点还不足以确认底部。关键水平是8.8万美元。BTC不仅需要突破该价格区间，还必须守住这一支撑，才可能显示卖压正在减弱。市场参与者预计将同时关注获利了结是否继续放缓，以及8.8万美元支撑位能否恢复，以判断BTC价格稳定的可能性。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Bitcoin necesita recuperar los USD 88.000 para confirmar el fondo",
-        "excerpt": "Analistas de Bitcoin dijeron que la toma de ganancias debe desacelerarse y BTC debe recuperar los USD 88.000 como soporte para confirmar el fondo del ciclo.",
-        "body": "Bitcoin (BTC) debe recuperar los USD 88.000 como soporte para confirmar un fondo de ciclo, según analistas. Señalaron que la toma de ganancias reciente se ha desacelerado, pero que ese factor por sí solo no basta para verificar que el mercado haya tocado fondo. El nivel clave es USD 88.000. BTC no solo tendría que superar esa zona de precio, sino también mantenerla como soporte, lo que podría indicar una menor presión vendedora. Los participantes del mercado observarán tanto la desaceleración de la toma de ganancias como la recuperación de ese soporte para evaluar la estabilidad del precio. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Bitcoin precisa recuperar suporte de US$ 88 mil para confirmar fundo",
-        "excerpt": "Analistas de Bitcoin afirmam que a desaceleração da realização de lucros e a recuperação de US$ 88 mil como suporte são pré-requisitos para confirmar o fundo do BTC.",
-        "body": "O Bitcoin (BTC) precisa recuperar US$ 88 mil como suporte para confirmar um fundo de ciclo, segundo analistas. Eles afirmam que a realização de lucros no mercado desacelerou recentemente, mas que esse movimento, sozinho, não é suficiente para confirmar o fundo. O nível central é US$ 88 mil. O BTC teria de não apenas superar essa faixa de preço, mas também mantê-la como suporte, o que poderia indicar enfraquecimento da pressão vendedora. Participantes do mercado devem acompanhar a desaceleração da realização de lucros e a recuperação desse suporte para avaliar a possível estabilidade do preço. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Bitcoin muss 88.000 US-Dollar als Support zurückerobern",
-        "excerpt": "Bitcoin-Analysten sehen eine nachlassende Gewinnmitnahme und die Rückeroberung von 88.000 US-Dollar als Support als Voraussetzung für einen bestätigten BTC-Zyklusboden.",
-        "body": "Bitcoin (BTC) muss die Marke von 88.000 US-Dollar als Unterstützung zurückerobern, um einen Zyklusboden zu bestätigen, sagen Analysten. Zwar habe sich die jüngste Gewinnmitnahme verlangsamt, doch allein reiche dieser Faktor nicht aus, um einen Boden zu bestätigen. Entscheidend ist die Zone um 88.000 US-Dollar. BTC müsste diesen Bereich nicht nur überschreiten, sondern auch als Support halten, was auf nachlassenden Verkaufsdruck hindeuten könnte. Marktteilnehmer dürften daher sowohl die verlangsamte Gewinnmitnahme als auch die Rückeroberung dieser Unterstützung beobachten, um die mögliche Preisstabilisierung einzuschätzen. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Bitcoin doit reprendre les 88 000 dollars pour confirmer un plancher",
-        "excerpt": "Des analystes estiment que le ralentissement des prises de bénéfices et la reprise des 88 000 dollars comme support sont nécessaires pour confirmer le plancher du BTC.",
-        "body": "Le bitcoin (BTC) doit reprendre les 88 000 dollars comme support pour confirmer un plancher de cycle, selon des analystes. Ils indiquent que les prises de bénéfices ont récemment ralenti, mais que ce seul élément ne suffit pas à valider un point bas du marché. Le niveau clé reste 88 000 dollars. Le BTC devrait non seulement repasser au-dessus de cette zone, mais aussi la conserver comme support, ce qui pourrait signaler un affaiblissement de la pression vendeuse. Les acteurs du marché devraient donc suivre à la fois le ralentissement des prises de bénéfices et la reprise de ce support pour évaluer la stabilité du prix. Source : cointelegraph.com."
-      },
-      "ar": {
-        "title": "بيتكوين تحتاج لاستعادة دعم 88 ألف دولار لتأكيد قاع الدورة",
-        "excerpt": "قال محللو بيتكوين إن تباطؤ جني الأرباح واستعادة مستوى 88 ألف دولار كدعم شرطان أساسيان لتأكيد قاع دورة سعر BTC.",
-        "body": "قال محللون إن سعر بيتكوين (BTC) يحتاج إلى استعادة مستوى 88 ألف دولار كدعم لتأكيد قاع الدورة. وأوضحوا أن وتيرة جني الأرباح تباطأت مؤخرا، لكن هذا العامل وحده لا يكفي لتأكيد أن السوق بلغ القاع. المستوى المحوري هو 88 ألف دولار. ولا يكفي أن يتجاوز BTC هذه المنطقة السعرية، بل يجب أن يحافظ عليها كدعم، وهو ما قد يشير إلى تراجع ضغط البيع. ومن المتوقع أن يراقب المشاركون في السوق تباطؤ جني الأرباح واستعادة هذا الدعم معا لتقييم احتمال تحسن استقرار السعر. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "बिटकॉइन में निचला स्तर पक्का करने को 88,000 डॉलर सपोर्ट अहम",
-        "excerpt": "बिटकॉइन विश्लेषकों के अनुसार, मुनाफावसूली की रफ्तार कम होना और 88,000 डॉलर को सपोर्ट के रूप में वापस पाना BTC के साइकिल बॉटम की पुष्टि के लिए जरूरी है।",
-        "body": "विश्लेषकों के अनुसार, बिटकॉइन (BTC) को साइकिल बॉटम की पुष्टि के लिए 88,000 डॉलर को सपोर्ट के रूप में फिर हासिल करना होगा। उनका कहना है कि हाल में मुनाफावसूली की रफ्तार धीमी हुई है, लेकिन केवल यह संकेत बाजार के निचले स्तर की पुष्टि के लिए पर्याप्त नहीं है। प्रमुख स्तर 88,000 डॉलर है। BTC को इस दायरे से ऊपर जाने के साथ इसे सपोर्ट के रूप में बनाए रखना होगा, जिससे बिकवाली दबाव कम होने का संकेत मिल सकता है। बाजार प्रतिभागी आगे मुनाफावसूली की सुस्ती और इस सपोर्ट की वापसी, दोनों को देखकर कीमत की स्थिरता का आकलन करेंगे। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Bitcoin Perlu Rebut Support US$88.000 untuk Konfirmasi Bottom",
-        "excerpt": "Analis Bitcoin menilai perlambatan aksi ambil untung dan kembalinya US$88.000 sebagai support menjadi syarat bagi BTC untuk mengonfirmasi dasar siklus.",
-        "body": "Bitcoin (BTC) perlu merebut kembali US$88.000 sebagai support untuk mengonfirmasi dasar siklus, menurut analis. Mereka menyebut aksi ambil untung belakangan ini melambat, tetapi faktor itu saja belum cukup untuk memastikan pasar telah mencapai dasar. Level kuncinya adalah US$88.000. BTC tidak hanya harus bergerak di atas area harga tersebut, tetapi juga mempertahankannya sebagai support, yang dapat menandakan tekanan jual mulai mereda. Pelaku pasar diperkirakan akan memantau perlambatan ambil untung dan pemulihan support ini secara bersamaan untuk menilai peluang stabilitas harga. Sumber: cointelegraph.com."
       }
     }
   }
