@@ -1,5 +1,230 @@
 [
   {
+    "id": "bcde820e0597",
+    "slug": "coinbase-outage-disrupts-crypto-trading-and-transfers-amid-a-435730",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T15:47:05.224Z",
+    "updatedAt": "2026-05-08T15:47:05.224Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367268/coinbase-outage-disrupts-crypto-trading-transfers-amazon-failure",
+    "canonicalUrl": "https://decrypt.co/367268/coinbase-outage-disrupts-crypto-trading-transfers-amazon-failure",
+    "titleFingerprint": "7f53c0e47e6639477686100a454380ddc1ea0fa0",
+    "dedupKeys": [
+      "bcde820e059737011fb452b806a3be64515b83b7",
+      "7f53c0e47e6639477686100a454380ddc1ea0fa0",
+      "cf57a22c2dc499c8893c28df915c9eb57e7ed877"
+    ],
+    "imageUrl": "/images/articles/bcde820e0597.png",
+    "i18n": {
+      "ko": {
+        "title": "Coinbase 장애, AWS 다중 가용영역 실패로 거래·이체 차질",
+        "excerpt": "Coinbase는 Amazon Web Services의 여러 가용영역에서 발생한 장애로 플랫폼에 장시간 중단이 생겨 암호화폐 거래와 이체가 차질을 빚었다고 밝혔다.",
+        "body": "Coinbase에서 암호화폐 거래와 이체가 차질을 빚는 장시간 플랫폼 장애가 발생했다. 회사는 Amazon Web Services가 여러 가용영역에서 실패를 겪으면서 Coinbase 서비스 중단으로 이어졌다고 설명했다. 이번 장애는 거래소 운영이 외부 클라우드 인프라 안정성에 영향을 받을 수 있음을 보여준다. 원문에 따르면 구체적인 피해 규모나 복구 시간, 사용자 수치는 제시되지 않았다. 향후 관건은 Coinbase가 AWS 장애 여파를 어떻게 관리하고 거래 및 전송 기능의 안정성을 유지하느냐다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Coinbase Outage Hits Crypto Trading and Transfers After AWS Failure",
+        "excerpt": "Coinbase said failures across multiple Amazon Web Services availability zones caused an extended platform outage that disrupted crypto trading and transfers.",
+        "body": "Coinbase suffered an extended platform outage that disrupted crypto trading and transfers. The company said the interruption was caused by failures at Amazon Web Services across multiple availability zones, which affected Coinbase services. The incident highlights how exchange operations can depend on the stability of outside cloud infrastructure. According to the original report, no specific figures were provided for damage, recovery time, or the number of affected users. The key issue ahead is how Coinbase manages the impact of the AWS failure and maintains stable trading and transfer functions. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "Coinbase障害、AWS複数AZの不具合で取引・送金に影響",
+        "excerpt": "Coinbaseは、Amazon Web Servicesの複数のアベイラビリティゾーンで発生した障害により、暗号資産取引と送金に長時間の支障が出たと明らかにした。",
+        "body": "Coinbaseで、暗号資産の取引と送金に支障をきたす長時間のプラットフォーム障害が発生した。同社は、Amazon Web Servicesが複数のアベイラビリティゾーンで不具合を起こし、Coinbaseのサービス停止につながったと説明した。今回の障害は、取引所の運営が外部クラウド基盤の安定性に左右され得ることを示している。原文によると、具体的な被害規模、復旧時間、影響を受けたユーザー数は示されていない。今後の焦点は、CoinbaseがAWS障害の影響をどう管理し、取引と送金機能の安定性を維持するかだ。出典: decrypt.co."
+      },
+      "zh": {
+        "title": "Coinbase宕机因AWS多可用区故障，交易与转账受影响",
+        "excerpt": "Coinbase表示，Amazon Web Services多个可用区发生故障，导致其平台长时间中断，进而影响加密货币交易和转账。",
+        "body": "Coinbase发生长时间平台宕机，导致加密货币交易和转账受阻。该公司称，Amazon Web Services在多个可用区出现故障，进而引发Coinbase服务中断。此次事件显示，交易所运营可能受到外部云基础设施稳定性的影响。根据原文，报道未提供具体损失规模、恢复时间或受影响用户数量。接下来的关键在于，Coinbase如何管理AWS故障带来的影响，并维持交易与转账功能的稳定性。来源: decrypt.co."
+      },
+      "es": {
+        "title": "Caída de Coinbase por fallo de AWS afecta trading y transferencias cripto",
+        "excerpt": "Coinbase dijo que fallos en varias zonas de disponibilidad de Amazon Web Services causaron una interrupción prolongada que afectó operaciones y transferencias cripto.",
+        "body": "Coinbase sufrió una interrupción prolongada de su plataforma que afectó el trading y las transferencias de criptomonedas. La compañía explicó que el corte se debió a fallos de Amazon Web Services en múltiples zonas de disponibilidad, lo que impactó los servicios de Coinbase. El incidente muestra que la operación de un exchange puede depender de la estabilidad de infraestructura cloud externa. Según el informe original, no se ofrecieron cifras concretas sobre daños, tiempo de recuperación o usuarios afectados. La cuestión ahora es cómo Coinbase gestiona el impacto del fallo de AWS y mantiene estables las funciones de trading y transferencia. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Falha na Coinbase após pane da AWS afeta negociações e transferências",
+        "excerpt": "A Coinbase disse que falhas em várias zonas de disponibilidade da Amazon Web Services causaram uma interrupção prolongada que afetou negociações e transferências cripto.",
+        "body": "A Coinbase enfrentou uma interrupção prolongada de sua plataforma, afetando negociações e transferências de criptomoedas. A empresa afirmou que a paralisação foi causada por falhas da Amazon Web Services em múltiplas zonas de disponibilidade, o que impactou os serviços da Coinbase. O episódio mostra que a operação de uma corretora pode depender da estabilidade de infraestrutura externa em nuvem. Segundo o relato original, não foram informados números específicos sobre prejuízos, tempo de recuperação ou usuários afetados. O ponto central agora é como a Coinbase administrará o impacto da falha da AWS e manterá estáveis as funções de negociação e transferência. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Coinbase-Ausfall nach AWS-Störung bremst Handel und Krypto-Transfers",
+        "excerpt": "Coinbase erklärte, Ausfälle in mehreren Availability Zones von Amazon Web Services hätten eine längere Plattformstörung verursacht und Handel sowie Transfers beeinträchtigt.",
+        "body": "Bei Coinbase kam es zu einem längeren Plattformausfall, der den Kryptohandel und Transfers beeinträchtigte. Das Unternehmen erklärte, die Unterbrechung sei durch Störungen bei Amazon Web Services in mehreren Availability Zones ausgelöst worden und habe Coinbase-Dienste betroffen. Der Vorfall zeigt, dass der Betrieb einer Börse von der Stabilität externer Cloud-Infrastruktur abhängen kann. Dem Originalbericht zufolge wurden keine konkreten Angaben zu Schadenshöhe, Wiederherstellungszeit oder Zahl betroffener Nutzer gemacht. Entscheidend ist nun, wie Coinbase die Folgen der AWS-Störung verwaltet und die Stabilität von Handels- und Transferfunktionen wahrt. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Panne Coinbase liée à AWS: trading et transferts crypto perturbés",
+        "excerpt": "Coinbase a indiqué que des défaillances dans plusieurs zones de disponibilité d’Amazon Web Services ont causé une longue panne affectant trading et transferts crypto.",
+        "body": "Coinbase a subi une panne prolongée de sa plateforme, perturbant le trading et les transferts de cryptomonnaies. L’entreprise a expliqué que l’interruption provenait de défaillances d’Amazon Web Services dans plusieurs zones de disponibilité, ce qui a affecté les services Coinbase. L’incident montre que l’exploitation d’une plateforme d’échange peut dépendre de la stabilité d’une infrastructure cloud externe. Selon le rapport original, aucun chiffre précis n’a été fourni sur l’ampleur des dommages, le délai de rétablissement ou le nombre d’utilisateurs touchés. L’enjeu sera désormais de voir comment Coinbase gère l’impact de la panne AWS et maintient la stabilité des fonctions de trading et de transfert. Source: decrypt.co."
+      },
+      "ar": {
+        "title": "تعطل Coinbase بسبب خلل AWS يؤثر على التداول والتحويلات المشفرة",
+        "excerpt": "قالت Coinbase إن أعطالا في عدة مناطق توافر تابعة لـ Amazon Web Services تسببت في انقطاع مطول لمنصتها وأثرت على تداول العملات المشفرة والتحويلات.",
+        "body": "شهدت Coinbase انقطاعا مطولا في منصتها أدى إلى تعطيل تداول العملات المشفرة والتحويلات. وقالت الشركة إن السبب يعود إلى أعطال في Amazon Web Services عبر عدة مناطق توافر، ما انعكس على خدمات Coinbase. يوضح الحادث أن تشغيل منصات التداول قد يتأثر باستقرار البنية التحتية السحابية الخارجية. وبحسب التقرير الأصلي، لم تُذكر أرقام محددة عن حجم الضرر أو وقت الاستعادة أو عدد المستخدمين المتأثرين. وتبقى المسألة الأساسية هي كيفية إدارة Coinbase لتداعيات خلل AWS والحفاظ على استقرار وظائف التداول والتحويل. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "AWS विफलता से Coinbase ठप, क्रिप्टो ट्रेडिंग और ट्रांसफर प्रभावित",
+        "excerpt": "Coinbase ने कहा कि Amazon Web Services के कई उपलब्धता क्षेत्रों में आई विफलताओं से उसके प्लेटफॉर्म पर लंबा आउटेज हुआ, जिससे क्रिप्टो ट्रेडिंग और ट्रांसफर प्रभावित हुए।",
+        "body": "Coinbase के प्लेटफॉर्म पर लंबा आउटेज हुआ, जिससे क्रिप्टोकरेंसी ट्रेडिंग और ट्रांसफर में बाधा आई। कंपनी ने बताया कि Amazon Web Services के कई availability zones में विफलताओं के कारण Coinbase सेवाएं बाधित हुईं। यह घटना दिखाती है कि किसी एक्सचेंज का संचालन बाहरी क्लाउड इन्फ्रास्ट्रक्चर की स्थिरता से प्रभावित हो सकता है। मूल रिपोर्ट के अनुसार, नुकसान के आकार, रिकवरी समय या प्रभावित उपयोगकर्ताओं की संख्या पर कोई विशिष्ट आंकड़ा नहीं दिया गया। आगे अहम सवाल यह है कि Coinbase AWS विफलता के प्रभाव को कैसे संभालता है और ट्रेडिंग व ट्रांसफर सुविधाओं की स्थिरता कैसे बनाए रखता है। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Gangguan Coinbase Akibat AWS Hambat Trading dan Transfer Kripto",
+        "excerpt": "Coinbase mengatakan kegagalan di beberapa availability zone Amazon Web Services menyebabkan pemadaman panjang pada platformnya dan mengganggu trading serta transfer kripto.",
+        "body": "Coinbase mengalami pemadaman platform yang berlangsung lama, sehingga trading dan transfer kripto terganggu. Perusahaan menyatakan gangguan itu disebabkan oleh kegagalan Amazon Web Services di beberapa availability zone, yang kemudian berdampak pada layanan Coinbase. Insiden ini menunjukkan bahwa operasi bursa dapat dipengaruhi oleh stabilitas infrastruktur cloud eksternal. Menurut laporan asli, tidak ada angka spesifik mengenai skala kerugian, waktu pemulihan, atau jumlah pengguna terdampak. Fokus berikutnya adalah bagaimana Coinbase mengelola dampak kegagalan AWS dan menjaga stabilitas fungsi trading serta transfer. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "75318f9d9387",
+    "slug": "ecbs-lagarde-pushes-back-on-euro-stablecoins-warns-of-struct-557956",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T15:46:16.963Z",
+    "updatedAt": "2026-05-08T15:46:16.963Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367265/ecbs-lagarde-pushes-back-on-euro-stablecoins-warns-of-structural-weaknesses",
+    "canonicalUrl": "https://decrypt.co/367265/ecbs-lagarde-pushes-back-on-euro-stablecoins-warns-of-structural-weaknesses",
+    "titleFingerprint": "b79a156d162f855bd1a61af2a16f23ae9b59bd10",
+    "dedupKeys": [
+      "75318f9d93870caf73436a004a71eebd4ee1ad6b",
+      "b79a156d162f855bd1a61af2a16f23ae9b59bd10",
+      "040cdff753b21a5214931036d9586552b1584b5d"
+    ],
+    "imageUrl": "/images/articles/75318f9d9387.jpg",
+    "i18n": {
+      "ko": {
+        "title": "ECB 라가르드, 유로 스테이블코인에 선 긋고 구조적 약점 경고",
+        "excerpt": "크리스틴 라가르드 ECB 총재는 유럽이 향할 방향은 분명하지만 유로 스테이블코인은 아니라고 밝히며 구조적 약점을 경고했다.",
+        "body": "크리스틴 라가르드 유럽중앙은행(ECB) 총재가 유로 스테이블코인 구상에 거리를 뒀다. decrypt.co에 따르면 라가르드는 유럽이 “어느 항구로 항해하는지 알고 있다”고 말했지만, 그 목적지가 유로 스테이블코인은 아니라고 강조했다. 이번 발언은 유로 표시 디지털 자산과 스테이블코인을 둘러싼 논의가 이어지는 가운데 나왔다. 라가르드는 스테이블코인의 ‘구조적 약점’을 경고하며 ECB가 해당 방향으로 움직이지 않는다는 점을 분명히 했다. 이에 따라 유럽의 디지털 화폐 논의는 민간 스테이블코인보다 중앙은행의 정책 방향에 더 무게가 실릴 전망이다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "ECB’s Lagarde Rejects Euro Stablecoin Push, Warns of Weaknesses",
+        "excerpt": "ECB President Christine Lagarde said Europe knows its direction, but it is not toward a euro stablecoin, warning of structural weaknesses.",
+        "body": "European Central Bank President Christine Lagarde pushed back against the idea of a euro stablecoin. According to decrypt.co, Lagarde said Europe “knows which port it is sailing to,” but stressed that the destination is not a euro stablecoin. Her comments came as debate continues around euro-denominated digital assets and stablecoins. Lagarde warned of “structural weaknesses” in stablecoins and made clear that the ECB is not moving in that direction. The remarks suggest Europe’s digital money discussion will remain focused on the central bank’s policy path rather than a private euro stablecoin. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "ECBラガルド総裁、ユーロ・ステーブルコインに否定的姿勢",
+        "excerpt": "ECBのクリスティーヌ・ラガルド総裁は、欧州の進む先は明確だがユーロ・ステーブルコインではないと述べ、構造的弱点を警告した。",
+        "body": "欧州中央銀行（ECB）のクリスティーヌ・ラガルド総裁は、ユーロ・ステーブルコイン構想に距離を置いた。decrypt.coによると、ラガルド氏は欧州は「どの港へ向かって航行しているかを知っている」と述べた一方、その目的地はユーロ・ステーブルコインではないと強調した。発言は、ユーロ建てデジタル資産やステーブルコインをめぐる議論が続く中で出たものだ。ラガルド氏はステーブルコインの「構造的弱点」を警告し、ECBがその方向へ進んでいないことを明確にした。出典: decrypt.co."
+      },
+      "zh": {
+        "title": "欧洲央行拉加德拒绝欧元稳定币方向，警告结构性弱点",
+        "excerpt": "欧洲央行行长拉加德表示，欧洲清楚自己的航向，但目的地不是欧元稳定币，并警告其存在结构性弱点。",
+        "body": "欧洲中央银行行长克里斯蒂娜·拉加德对欧元稳定币构想作出反驳。decrypt.co报道称，拉加德表示欧洲“知道自己正驶向哪个港口”，但强调这个目的地并不是欧元稳定币。她的表态出现在欧元计价数字资产和稳定币讨论持续升温之际。拉加德警告稳定币存在“结构性弱点”，并明确表示欧洲央行并未朝这一方向推进。这意味着欧洲关于数字货币的讨论，仍将更侧重央行自身的政策路径，而非私人欧元稳定币。来源：decrypt.co。"
+      },
+      "es": {
+        "title": "Lagarde del BCE frena la idea de una stablecoin en euros",
+        "excerpt": "Christine Lagarde, presidenta del BCE, dijo que Europa sabe hacia dónde navega, pero no es hacia una stablecoin en euros, y advirtió debilidades estructurales.",
+        "body": "La presidenta del Banco Central Europeo, Christine Lagarde, tomó distancia de la idea de una stablecoin en euros. Según decrypt.co, Lagarde dijo que Europa “sabe a qué puerto navega”, pero subrayó que ese destino no es una stablecoin en euros. Sus declaraciones llegan mientras continúa el debate sobre activos digitales denominados en euros y stablecoins. Lagarde advirtió sobre las “debilidades estructurales” de las stablecoins y dejó claro que el BCE no avanza en esa dirección. El mensaje apunta a que la discusión europea sobre dinero digital seguirá centrada en la ruta de política del banco central. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Lagarde do BCE rejeita stablecoin em euro e alerta fragilidades",
+        "excerpt": "Christine Lagarde, presidente do BCE, disse que a Europa sabe para onde navega, mas não rumo a uma stablecoin em euro, citando fraquezas estruturais.",
+        "body": "A presidente do Banco Central Europeu, Christine Lagarde, afastou a ideia de uma stablecoin em euro. Segundo o decrypt.co, Lagarde afirmou que a Europa “sabe para qual porto está navegando”, mas destacou que esse destino não é uma stablecoin em euro. A declaração ocorre enquanto seguem os debates sobre ativos digitais denominados em euro e stablecoins. Lagarde alertou para as “fraquezas estruturais” das stablecoins e deixou claro que o BCE não se move nessa direção. Assim, a discussão europeia sobre dinheiro digital tende a permanecer ligada ao caminho de política do banco central. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "EZB-Chefin Lagarde weist Euro-Stablecoin zurück und warnt",
+        "excerpt": "EZB-Präsidentin Christine Lagarde sagte, Europa kenne seinen Kurs, steuere aber nicht auf einen Euro-Stablecoin zu, und warnte vor strukturellen Schwächen.",
+        "body": "Christine Lagarde, Präsidentin der Europäischen Zentralbank, hat sich gegen die Idee eines Euro-Stablecoins gestellt. Laut decrypt.co sagte Lagarde, Europa wisse, “welchen Hafen es ansteuert”, betonte jedoch, dass dieses Ziel kein Euro-Stablecoin sei. Die Äußerung fällt in eine anhaltende Debatte über auf Euro lautende digitale Vermögenswerte und Stablecoins. Lagarde warnte vor “strukturellen Schwächen” von Stablecoins und machte deutlich, dass die EZB nicht in diese Richtung geht. Damit dürfte Europas Diskussion über digitales Geld stärker auf den politischen Kurs der Zentralbank fokussiert bleiben. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Lagarde de la BCE écarte un stablecoin en euro et avertit",
+        "excerpt": "Christine Lagarde, présidente de la BCE, a dit que l’Europe connaît sa direction, mais qu’elle ne mène pas vers un stablecoin en euro, citant des faiblesses structurelles.",
+        "body": "La présidente de la Banque centrale européenne, Christine Lagarde, a pris ses distances avec l’idée d’un stablecoin en euro. Selon decrypt.co, Lagarde a déclaré que l’Europe “sait vers quel port elle navigue”, tout en soulignant que cette destination n’est pas un stablecoin en euro. Ses propos interviennent alors que les discussions se poursuivent autour des actifs numériques libellés en euro et des stablecoins. Lagarde a averti des “faiblesses structurelles” des stablecoins et a clairement indiqué que la BCE ne suit pas cette voie. La discussion européenne sur la monnaie numérique devrait donc rester centrée sur la trajectoire de la banque centrale. Source: decrypt.co."
+      },
+      "ar": {
+        "title": "لاغارد ترفض عملة يورو مستقرة وتحذر من نقاط ضعف هيكلية",
+        "excerpt": "قالت كريستين لاغارد رئيسة البنك المركزي الأوروبي إن أوروبا تعرف وجهتها، لكنها ليست نحو عملة مستقرة باليورو، محذرة من نقاط ضعف هيكلية.",
+        "body": "ابتعدت كريستين لاغارد، رئيسة البنك المركزي الأوروبي، عن فكرة إصدار عملة مستقرة مقومة باليورو. وبحسب decrypt.co، قالت لاغارد إن أوروبا “تعرف إلى أي ميناء تبحر”، لكنها شددت على أن تلك الوجهة ليست عملة مستقرة باليورو. جاءت التصريحات بينما يستمر النقاش حول الأصول الرقمية المقومة باليورو والعملات المستقرة. وحذرت لاغارد من “نقاط ضعف هيكلية” في العملات المستقرة، وأوضحت أن البنك المركزي الأوروبي لا يتحرك في هذا الاتجاه. لذلك يبقى نقاش أوروبا حول النقود الرقمية مرتبطا بمسار سياسة البنك المركزي أكثر من ارتباطه بعملة مستقرة خاصة. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "ECB की लागार्ड ने यूरो स्टेबलकॉइन से दूरी बनाई, कमजोरी चेताई",
+        "excerpt": "ECB अध्यक्ष क्रिस्टीन लागार्ड ने कहा कि यूरोप अपनी दिशा जानता है, लेकिन वह यूरो स्टेबलकॉइन नहीं है; उन्होंने संरचनात्मक कमजोरियों की चेतावनी दी।",
+        "body": "यूरोपीय सेंट्रल बैंक की अध्यक्ष क्रिस्टीन लागार्ड ने यूरो स्टेबलकॉइन के विचार से दूरी बनाई। decrypt.co के अनुसार, लागार्ड ने कहा कि यूरोप “जानता है कि वह किस बंदरगाह की ओर जा रहा है”, लेकिन उन्होंने जोर दिया कि वह मंजिल यूरो स्टेबलकॉइन नहीं है। यह बयान ऐसे समय आया है जब यूरो में अंकित डिजिटल एसेट्स और स्टेबलकॉइन पर चर्चा जारी है। लागार्ड ने स्टेबलकॉइन की “संरचनात्मक कमजोरियों” को लेकर चेतावनी दी और स्पष्ट किया कि ECB उस दिशा में नहीं बढ़ रहा है। इससे संकेत मिलता है कि यूरोप में डिजिटल मुद्रा की बहस निजी यूरो स्टेबलकॉइन के बजाय केंद्रीय बैंक की नीति दिशा पर केंद्रित रहेगी। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Lagarde ECB Tolak Arah Stablecoin Euro, Peringatkan Kelemahan",
+        "excerpt": "Presiden ECB Christine Lagarde mengatakan Eropa tahu arah tujuannya, tetapi bukan menuju stablecoin euro, sambil memperingatkan kelemahan struktural.",
+        "body": "Presiden Bank Sentral Eropa Christine Lagarde menjauhkan diri dari gagasan stablecoin euro. Menurut decrypt.co, Lagarde mengatakan Eropa “tahu pelabuhan mana yang dituju,” tetapi menegaskan bahwa tujuan itu bukan stablecoin euro. Pernyataan ini muncul saat perdebatan tentang aset digital berdenominasi euro dan stablecoin masih berlangsung. Lagarde memperingatkan adanya “kelemahan struktural” pada stablecoin dan memperjelas bahwa ECB tidak bergerak ke arah tersebut. Dengan demikian, pembahasan uang digital di Eropa diperkirakan tetap berfokus pada arah kebijakan bank sentral, bukan stablecoin euro swasta. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "610c80546444",
+    "slug": "kelp-dao-exploit-prompts-defi-protocols-to-rethink-oracle-pr-459361",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T15:45:16.840Z",
+    "updatedAt": "2026-05-08T15:45:16.840Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/kelp-dao-exploit-prompts-defi-protocols-rethink-oracle-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/kelp-dao-exploit-prompts-defi-protocols-rethink-oracle-providers",
+    "titleFingerprint": "87f0c8b80b5b8e1d604dbb0b624af23165781fab",
+    "dedupKeys": [
+      "610c805464449827659332e449173c9e6ed7df41",
+      "87f0c8b80b5b8e1d604dbb0b624af23165781fab",
+      "596baedd1c61958fb66e7d88b15f1178ca67cdb7"
+    ],
+    "imageUrl": "/images/articles/610c80546444.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Kelp DAO 2억9300만달러 익스플로잇, DeFi 오라클 전환 촉발",
+        "excerpt": "4월 Kelp DAO의 2억9300만달러 익스플로잇 이후 Solv Protocol 등 DeFi 프로젝트들이 브리지·오라클 리스크를 줄이기 위해 Chainlink 인프라로 이동하고 있다.",
+        "body": "Kelp DAO 익스플로잇 이후 DeFi 프로토콜들이 오라클과 크로스체인 인프라 선택을 다시 점검하고 있다. 4월 발생한 이번 사건에서는 약 2억9300만달러 규모 피해가 드러났고, 제3자 브리지와 오라클 구성의 위험이 핵심 쟁점으로 떠올랐다. 이에 Solv Protocol을 포함한 여러 DeFi 프로젝트는 보안 의존도를 낮추기 위해 Chainlink 인프라로 이전하고 있다. 이번 이동은 DeFi 시장에서 오라클 제공자와 브리지 구조 검증이 더 엄격해질 수 있음을 보여준다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Kelp DAO $293M Exploit Pushes DeFi Toward Chainlink Oracles",
+        "excerpt": "After Kelp DAO’s $293 million April exploit, Solv Protocol and other DeFi projects are moving to Chainlink infrastructure to reduce bridge and oracle risks.",
+        "body": "The Kelp DAO exploit has prompted DeFi protocols to reassess their oracle and cross-chain infrastructure choices. The April incident exposed about $293 million in losses and put the risks of third-party bridge and oracle setups at the center of industry debate. Solv Protocol and other DeFi projects are now migrating to Chainlink infrastructure to reduce security dependencies. The shift shows that oracle providers and bridge designs may face tougher scrutiny across DeFi. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "Kelp DAOの2.93億ドル被害でDeFiがChainlink移行を再考",
+        "excerpt": "4月のKelp DAOによる2億9300万ドル規模のエクスプロイト後、Solv ProtocolなどのDeFiプロジェクトはブリッジとオラクルのリスク低減へChainlinkへ移行している。",
+        "body": "Kelp DAOのエクスプロイトを受け、DeFiプロトコルはオラクルとクロスチェーン基盤の選定を見直している。4月に発生したこの事件では約2億9300万ドルの被害が明らかになり、第三者ブリッジとオラクル構成のリスクが主要な論点となった。Solv Protocolを含む複数のDeFiプロジェクトは、セキュリティ上の依存を下げるためChainlinkインフラへ移行している。この動きは、DeFi全体でオラクル提供者とブリッジ設計への検証が厳しくなる可能性を示している。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "Kelp DAO 2.93亿美元漏洞事件促使DeFi转向Chainlink",
+        "excerpt": "4月Kelp DAO发生2.93亿美元漏洞事件后，Solv Protocol等DeFi项目正迁移至Chainlink基础设施，以降低桥和预言机设置风险。",
+        "body": "Kelp DAO漏洞事件后，DeFi协议开始重新评估预言机和跨链基础设施的选择。4月发生的这起事件暴露了约2.93亿美元损失，也让第三方桥和预言机配置风险成为行业关注重点。包括Solv Protocol在内的多个DeFi项目正迁移至Chainlink基础设施，以降低安全依赖。此次转向显示，DeFi市场对预言机提供方和桥架构的审查可能会更加严格。来源: cointelegraph.com."
+      },
+      "es": {
+        "title": "Exploit de Kelp DAO por $293M empuja a DeFi hacia Chainlink",
+        "excerpt": "Tras el exploit de Kelp DAO por $293 millones en abril, Solv Protocol y otros proyectos DeFi migran a Chainlink para reducir riesgos de puentes y oráculos.",
+        "body": "El exploit de Kelp DAO llevó a los protocolos DeFi a revisar sus decisiones sobre oráculos e infraestructura cross-chain. El incidente de abril expuso pérdidas cercanas a $293 millones y puso en primer plano los riesgos de configuraciones de puentes y oráculos de terceros. Solv Protocol y otros proyectos DeFi están migrando a la infraestructura de Chainlink para reducir dependencias de seguridad. El movimiento indica que los proveedores de oráculos y los diseños de puentes podrían enfrentar un escrutinio más estricto en DeFi. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Exploit de US$293 mi da Kelp DAO leva DeFi a buscar Chainlink",
+        "excerpt": "Após o exploit de US$293 milhões da Kelp DAO em abril, Solv Protocol e outros projetos DeFi migram para a Chainlink para reduzir riscos de bridges e oráculos.",
+        "body": "O exploit da Kelp DAO levou protocolos DeFi a reavaliar suas escolhas de oráculos e infraestrutura cross-chain. O incidente de abril expôs perdas de cerca de US$293 milhões e colocou os riscos de bridges e configurações de oráculos de terceiros no centro do debate. Solv Protocol e outros projetos DeFi estão migrando para a infraestrutura da Chainlink para reduzir dependências de segurança. A mudança mostra que provedores de oráculos e estruturas de bridges podem passar por maior escrutínio no mercado DeFi. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Kelp-DAO-Exploit über 293 Mio. Dollar treibt DeFi zu Chainlink",
+        "excerpt": "Nach dem Kelp-DAO-Exploit über 293 Millionen Dollar im April wechseln Solv Protocol und andere DeFi-Projekte zu Chainlink, um Bridge- und Oracle-Risiken zu senken.",
+        "body": "Der Kelp-DAO-Exploit veranlasst DeFi-Protokolle, ihre Auswahl von Oracles und Cross-Chain-Infrastruktur neu zu bewerten. Der Vorfall im April legte Schäden von rund 293 Millionen Dollar offen und rückte Risiken bei Drittanbieter-Bridges und Oracle-Konfigurationen in den Mittelpunkt. Solv Protocol und weitere DeFi-Projekte migrieren nun zu Chainlink-Infrastruktur, um Sicherheitsabhängigkeiten zu verringern. Der Schritt zeigt, dass Oracle-Anbieter und Bridge-Designs im DeFi-Markt strenger geprüft werden könnten. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "L’exploit Kelp DAO à 293 M$ pousse la DeFi vers Chainlink",
+        "excerpt": "Après l’exploit de Kelp DAO à 293 millions de dollars en avril, Solv Protocol et d’autres projets DeFi migrent vers Chainlink pour réduire les risques de bridges et d’oracles.",
+        "body": "L’exploit de Kelp DAO pousse les protocoles DeFi à réévaluer leurs choix d’oracles et d’infrastructure cross-chain. L’incident d’avril a révélé environ 293 millions de dollars de pertes et a placé les risques liés aux bridges et aux configurations d’oracles tiers au centre du débat. Solv Protocol et d’autres projets DeFi migrent désormais vers l’infrastructure Chainlink afin de réduire leurs dépendances de sécurité. Ce mouvement montre que les fournisseurs d’oracles et les architectures de bridges pourraient être examinés plus strictement dans la DeFi. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "استغلال Kelp DAO بقيمة 293 مليون دولار يدفع DeFi نحو Chainlink",
+        "excerpt": "بعد استغلال Kelp DAO بقيمة 293 مليون دولار في أبريل، تنتقل Solv Protocol ومشاريع DeFi أخرى إلى بنية Chainlink لتقليل مخاطر الجسور والأوراكل.",
+        "body": "دفع استغلال Kelp DAO بروتوكولات DeFi إلى إعادة تقييم اختياراتها لمزودي الأوراكل وبنية التشغيل عبر السلاسل. كشف الحادث الذي وقع في أبريل عن خسائر تقارب 293 مليون دولار، وجعل مخاطر الجسور التابعة لجهات خارجية وإعدادات الأوراكل محور النقاش. وتنتقل Solv Protocol ومشاريع DeFi أخرى إلى بنية Chainlink لتقليل الاعتماد الأمني. ويشير هذا التحول إلى أن مزودي الأوراكل وتصميمات الجسور في سوق DeFi قد يواجهون تدقيقا أكثر صرامة. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Kelp DAO के $293M exploit ने DeFi को Chainlink की ओर मोड़ा",
+        "excerpt": "अप्रैल में Kelp DAO के $293 मिलियन exploit के बाद Solv Protocol और अन्य DeFi प्रोजेक्ट bridge व oracle जोखिम घटाने के लिए Chainlink infrastructure अपना रहे हैं।",
+        "body": "Kelp DAO exploit के बाद DeFi protocols अपने oracle और cross-chain infrastructure विकल्पों की फिर से समीक्षा कर रहे हैं। अप्रैल की इस घटना में लगभग $293 मिलियन का नुकसान सामने आया और third-party bridge तथा oracle setups के जोखिम मुख्य मुद्दा बन गए। Solv Protocol सहित कई DeFi projects सुरक्षा निर्भरता घटाने के लिए Chainlink infrastructure पर जा रहे हैं। यह बदलाव दिखाता है कि DeFi बाजार में oracle providers और bridge designs की जांच और कड़ी हो सकती है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Eksploit Kelp DAO $293 Juta Dorong DeFi Beralih ke Chainlink",
+        "excerpt": "Setelah eksploit Kelp DAO senilai $293 juta pada April, Solv Protocol dan proyek DeFi lain bermigrasi ke Chainlink untuk mengurangi risiko bridge dan oracle.",
+        "body": "Eksploit Kelp DAO membuat protokol DeFi meninjau ulang pilihan oracle dan infrastruktur cross-chain mereka. Insiden pada April itu mengungkap kerugian sekitar $293 juta dan menempatkan risiko pengaturan bridge serta oracle pihak ketiga sebagai isu utama. Solv Protocol dan beberapa proyek DeFi lain kini bermigrasi ke infrastruktur Chainlink untuk mengurangi ketergantungan keamanan. Peralihan ini menunjukkan bahwa penyedia oracle dan desain bridge di pasar DeFi dapat menghadapi pemeriksaan yang lebih ketat. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "829676ccaabd",
     "slug": "revolut-users-report-bitcoin-price-glitch-showing-btc-at-2-c-583085",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Kalshi Capai Valuasi US$22 Miliar Setelah Investasi Baru US$1 Miliar",
         "excerpt": "Kalshi, pemimpin pasar prediksi AS, meraih investasi baru US$1 miliar dan menaikkan valuasinya menjadi US$22 miliar, menurut decrypt.co.",
         "body": "Kalshi, pemimpin pasar prediksi di Amerika Serikat, meraih investasi baru sebesar US$1 miliar dan menaikkan valuasinya menjadi US$22 miliar. Menurut decrypt.co, perusahaan kini memiliki tambahan US$1 miliar seiring pertumbuhan yang terus berlangsung cepat. Pendanaan ini kembali menyoroti posisi Kalshi di sektor pasar prediksi AS dan memberi perusahaan ruang lebih besar untuk melanjutkan fase pertumbuhannya. Laporan tersebut tidak menyebutkan investor tertentu maupun rencana rinci penggunaan dana. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "709789e66149",
-    "slug": "tether39s-medical-ai-runs-on-your-phone-and-outperforms-mode-303447",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T01:08:48.460Z",
-    "updatedAt": "2026-05-08T01:08:48.460Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367127/tether-medical-ai-runs-on-phone-outperforms-models-16x",
-    "canonicalUrl": "https://decrypt.co/367127/tether-medical-ai-runs-on-phone-outperforms-models-16x",
-    "titleFingerprint": "a745757945d32fa893271a5a93e14a96357de514",
-    "dedupKeys": [
-      "709789e66149f3e4bebec8fba876aeff1d619b35",
-      "a745757945d32fa893271a5a93e14a96357de514",
-      "27aaeb36051b1b22902d1092c7c60efd9c6b6cf2"
-    ],
-    "imageUrl": "/images/articles/709789e66149.png",
-    "i18n": {
-      "ko": {
-        "title": "테더 의료 AI QVAC MedPsy, 스마트폰서 대형 모델 앞섰다",
-        "excerpt": "테더의 QVAC MedPsy가 스마트폰에서 구동되는 임상 AI로 소개됐다. 실제 의료 시나리오에서 구글 MedGemma-27B를 앞서고 컴퓨팅 자원은 3분의 1 수준을 쓴 것으로 전해졌다.",
-        "body": "테더의 의료 인공지능 QVAC MedPsy가 스마트폰에서 실행되는 임상 AI 모델로 주목받고 있다. decrypt.co에 따르면 이 모델은 실제 의료 시나리오 평가에서 구글의 MedGemma-27B보다 나은 성능을 보였고, 크기가 16배 큰 모델을 앞섰다. 동시에 필요한 컴퓨팅 자원은 세 배 적은 수준으로 제시됐다. 핵심은 고성능 의료 AI를 대형 서버가 아니라 휴대전화 안에서 구동할 수 있다는 점이다. 이는 임상 AI 활용에서 기기 접근성과 연산 효율성을 중요한 비교 기준으로 부각시킨다. 다만 보도 내용은 성능 비교와 자원 사용 결과에 초점을 맞추고 있으며, 실제 의료 적용 범위나 규제 승인 여부는 언급하지 않았다. 출처: decrypt.co."
-      },
-      "en": {
-        "title": "Tether’s QVAC MedPsy Medical AI Beats Larger Models on Phones",
-        "excerpt": "Tether’s QVAC MedPsy was presented as clinical AI that runs on a smartphone, outperforming Google’s MedGemma-27B in real-world scenarios while using three times fewer compute resources.",
-        "body": "Tether’s medical AI, QVAC MedPsy, is drawing attention as a clinical AI model that can run on a smartphone. According to decrypt.co, the model outperformed Google’s MedGemma-27B in real-world medical scenario testing and beat a model 16 times its size. It was also reported to use three times fewer compute resources. The key point is that high-performing medical AI can operate on a phone rather than relying on large servers. That makes device accessibility and compute efficiency important comparison points for clinical AI use. The report focuses on performance comparisons and resource use, while not stating the scope of real medical deployment or regulatory approval. Source: decrypt.co."
-      },
-      "ja": {
-        "title": "Tetherの医療AI QVAC MedPsy、スマホで大型モデルを上回る",
-        "excerpt": "TetherのQVAC MedPsyはスマートフォンで動く臨床AIとして紹介された。実世界の医療シナリオでGoogleのMedGemma-27Bを上回り、計算資源は3分の1で済むとされた。",
-        "body": "Tetherの医療AIであるQVAC MedPsyが、スマートフォン上で動作する臨床AIモデルとして注目されている。decrypt.coによると、このモデルは実世界の医療シナリオ評価でGoogleのMedGemma-27Bを上回り、サイズが16倍大きいモデルより高い性能を示した。同時に、必要な計算資源は3分の1の水準とされた。重要なのは、高性能な医療AIを大型サーバーではなく携帯電話内で動かせる点だ。これにより、臨床AI活用では端末へのアクセス性と演算効率が重要な比較軸として浮上する。ただし報道は性能比較と資源使用に焦点を当てており、実際の医療適用範囲や規制承認の有無には触れていない。出典: decrypt.co。"
-      },
-      "zh": {
-        "title": "Tether医疗AI QVAC MedPsy在手机上超越大型模型",
-        "excerpt": "Tether的QVAC MedPsy被介绍为可在智能手机上运行的临床AI。报道称，它在真实医疗场景中超过Google MedGemma-27B，计算资源消耗仅为其三分之一。",
-        "body": "Tether的医疗人工智能QVAC MedPsy正因可在智能手机上运行的临床AI模型而受到关注。据decrypt.co报道，该模型在真实医疗场景评估中表现优于Google的MedGemma-27B，并超过了体量大16倍的模型。同时，其所需计算资源据称少三倍。关键在于，高性能医疗AI可以不依赖大型服务器，而是在手机端运行。这使设备可及性和计算效率成为临床AI应用中的重要比较标准。不过，报道重点是性能对比和资源使用结果，并未说明实际医疗应用范围或监管批准情况。来源：decrypt.co。"
-      },
-      "es": {
-        "title": "QVAC MedPsy de Tether lleva IA médica al móvil y supera modelos mayores",
-        "excerpt": "QVAC MedPsy de Tether fue presentado como IA clínica que funciona en un smartphone. Superó a Google MedGemma-27B en escenarios reales y usó tres veces menos recursos de cómputo.",
-        "body": "La IA médica de Tether, QVAC MedPsy, atrae atención como modelo clínico capaz de ejecutarse en un smartphone. Según decrypt.co, el modelo superó a MedGemma-27B de Google en evaluaciones con escenarios médicos reales y también a un modelo 16 veces más grande. Al mismo tiempo, se informó que necesitó tres veces menos recursos de cómputo. El punto central es que una IA médica de alto rendimiento puede operar en un teléfono, no solo en grandes servidores. Esto destaca la accesibilidad del dispositivo y la eficiencia computacional como criterios clave para comparar usos de IA clínica. El reporte se centra en rendimiento y recursos, sin mencionar alcance de uso médico real ni aprobación regulatoria. Fuente: decrypt.co."
-      },
-      "pt": {
-        "title": "QVAC MedPsy da Tether roda no celular e supera modelos maiores",
-        "excerpt": "O QVAC MedPsy da Tether foi apresentado como IA clínica que roda em smartphone. Em cenários médicos reais, superou o Google MedGemma-27B usando três vezes menos recursos computacionais.",
-        "body": "A IA médica da Tether, QVAC MedPsy, chama atenção como um modelo clínico capaz de rodar em um smartphone. Segundo o decrypt.co, o modelo superou o MedGemma-27B do Google em avaliações com cenários médicos do mundo real e também venceu um modelo 16 vezes maior. Ao mesmo tempo, foi apresentado como usando três vezes menos recursos computacionais. O ponto central é que uma IA médica de alto desempenho pode operar em um telefone, e não apenas em grandes servidores. Isso coloca acessibilidade do dispositivo e eficiência de cálculo como critérios importantes para o uso de IA clínica. A reportagem foca comparação de desempenho e uso de recursos, sem citar escopo de aplicação médica real ou aprovação regulatória. Fonte: decrypt.co."
-      },
-      "de": {
-        "title": "Tethers QVAC MedPsy: Medizin-KI läuft auf dem Handy und schlägt größere Modelle",
-        "excerpt": "Tethers QVAC MedPsy wurde als klinische KI vorgestellt, die auf einem Smartphone läuft. In realen Medizinszenarien übertraf sie Googles MedGemma-27B und nutzte dreimal weniger Rechenressourcen.",
-        "body": "Tethers medizinische KI QVAC MedPsy rückt als klinisches KI-Modell in den Fokus, das auf einem Smartphone laufen kann. Laut decrypt.co übertraf das Modell Googles MedGemma-27B in Tests mit realen medizinischen Szenarien und schnitt besser ab als ein 16-mal größeres Modell. Zugleich soll es dreimal weniger Rechenressourcen benötigen. Entscheidend ist, dass leistungsfähige Medizin-KI nicht nur auf großen Servern, sondern direkt auf einem Telefon betrieben werden kann. Damit werden Gerätezugang und Recheneffizienz wichtige Vergleichskriterien für klinische KI-Anwendungen. Der Bericht konzentriert sich auf Leistungsvergleich und Ressourcenverbrauch; ein realer medizinischer Einsatzumfang oder eine regulatorische Zulassung werden nicht genannt. Quelle: decrypt.co."
-      },
-      "fr": {
-        "title": "QVAC MedPsy de Tether fait tourner l’IA médicale sur mobile et bat des modèles plus grands",
-        "excerpt": "QVAC MedPsy de Tether est présenté comme une IA clinique fonctionnant sur smartphone. Dans des scénarios médicaux réels, elle a dépassé Google MedGemma-27B avec trois fois moins de calcul.",
-        "body": "L’IA médicale de Tether, QVAC MedPsy, attire l’attention comme modèle clinique capable de fonctionner sur un smartphone. Selon decrypt.co, le modèle a surpassé MedGemma-27B de Google lors d’évaluations fondées sur des scénarios médicaux réels et a dépassé un modèle 16 fois plus grand. Il aurait aussi utilisé trois fois moins de ressources de calcul. L’élément clé est qu’une IA médicale performante peut fonctionner dans un téléphone plutôt que sur de grands serveurs. Cela met en avant l’accessibilité des appareils et l’efficacité informatique comme critères de comparaison pour l’IA clinique. Le reportage porte sur les performances et les ressources, sans préciser le champ d’usage médical réel ni l’approbation réglementaire. Source: decrypt.co."
-      },
-      "ar": {
-        "title": "QVAC MedPsy من Tether يشغل الذكاء الطبي على الهاتف ويتفوق على نماذج أكبر",
-        "excerpt": "قُدم QVAC MedPsy من Tether كذكاء اصطناعي سريري يعمل على الهاتف الذكي. ووفق التقرير، تفوق على Google MedGemma-27B في سيناريوهات طبية واقعية مع استخدام موارد حوسبة أقل بثلاث مرات.",
-        "body": "يلفت الذكاء الاصطناعي الطبي QVAC MedPsy من Tether الانتباه كنموذج سريري يمكن تشغيله على هاتف ذكي. وبحسب decrypt.co، تفوق النموذج في تقييمات سيناريوهات طبية واقعية على MedGemma-27B من Google، كما تجاوز نموذجا أكبر منه حجما بـ16 مرة. وفي الوقت نفسه، قيل إنه يستخدم موارد حوسبة أقل بثلاث مرات. النقطة الأساسية هي أن الذكاء الطبي عالي الأداء يمكن أن يعمل داخل الهاتف بدلا من الاعتماد على خوادم كبيرة. وهذا يبرز إمكانية الوصول إلى الجهاز وكفاءة الحوسبة كمعيارين مهمين عند مقارنة استخدامات الذكاء الاصطناعي السريري. يركز التقرير على مقارنة الأداء واستخدام الموارد، ولا يذكر نطاق التطبيق الطبي الفعلي أو الموافقة التنظيمية. المصدر: decrypt.co."
-      },
-      "hi": {
-        "title": "Tether QVAC MedPsy मेडिकल AI फोन पर चलता है, बड़े मॉडल से आगे",
-        "excerpt": "Tether का QVAC MedPsy स्मार्टफोन पर चलने वाला क्लिनिकल AI बताया गया है। वास्तविक चिकित्सा परिदृश्यों में इसने Google MedGemma-27B को पीछे छोड़ा और तीन गुना कम कंप्यूट संसाधन इस्तेमाल किए।",
-        "body": "Tether का मेडिकल AI QVAC MedPsy स्मार्टफोन पर चलने वाले क्लिनिकल AI मॉडल के रूप में ध्यान खींच रहा है। decrypt.co के अनुसार, इस मॉडल ने वास्तविक चिकित्सा परिदृश्यों के मूल्यांकन में Google के MedGemma-27B से बेहतर प्रदर्शन किया और अपने से 16 गुना बड़े मॉडल को भी पीछे छोड़ा। साथ ही, इसे तीन गुना कम कंप्यूट संसाधनों का उपयोग करने वाला बताया गया। मुख्य बात यह है कि उच्च प्रदर्शन वाला मेडिकल AI बड़े सर्वर के बजाय फोन पर चल सकता है। इससे क्लिनिकल AI उपयोग में डिवाइस पहुंच और कंप्यूट दक्षता अहम तुलना मानक बनते हैं। रिपोर्ट प्रदर्शन तुलना और संसाधन उपयोग पर केंद्रित है; वास्तविक चिकित्सा उपयोग के दायरे या नियामकीय मंजूरी का उल्लेख नहीं है। स्रोत: decrypt.co."
-      },
-      "id": {
-        "title": "QVAC MedPsy Tether Jalankan AI Medis di Ponsel dan Ungguli Model Besar",
-        "excerpt": "QVAC MedPsy dari Tether diperkenalkan sebagai AI klinis yang berjalan di smartphone. Dalam skenario medis nyata, model ini mengungguli Google MedGemma-27B dengan sumber daya komputasi tiga kali lebih sedikit.",
-        "body": "AI medis Tether, QVAC MedPsy, menarik perhatian sebagai model AI klinis yang dapat berjalan di smartphone. Menurut decrypt.co, model ini mengungguli MedGemma-27B milik Google dalam evaluasi skenario medis dunia nyata dan mengalahkan model yang ukurannya 16 kali lebih besar. Pada saat yang sama, model ini disebut memakai sumber daya komputasi tiga kali lebih sedikit. Poin utamanya adalah AI medis berkinerja tinggi dapat beroperasi di ponsel, bukan hanya di server besar. Ini menempatkan akses perangkat dan efisiensi komputasi sebagai tolok ukur penting dalam penggunaan AI klinis. Laporan tersebut berfokus pada perbandingan kinerja dan penggunaan sumber daya, tanpa menyebut cakupan penerapan medis nyata atau persetujuan regulasi. Sumber: decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "6a388f0e0927",
-    "slug": "amazon-teams-with-coinbase-and-stripe-to-let-ai-agents-pay-w-276735",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T01:07:51.749Z",
-    "updatedAt": "2026-05-08T01:07:51.749Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367125/amazon-coinbase-stripe-ai-agents-pay-stablecoins",
-    "canonicalUrl": "https://decrypt.co/367125/amazon-coinbase-stripe-ai-agents-pay-stablecoins",
-    "titleFingerprint": "28beddb5874ab0c49036108d1e63a9d692631325",
-    "dedupKeys": [
-      "6a388f0e0927b1bf8d66a493cc47a7e60dd8a618",
-      "28beddb5874ab0c49036108d1e63a9d692631325",
-      "bf3679bf932fff7f4de716abeef72d2167fec496"
-    ],
-    "imageUrl": "/images/articles/6a388f0e0927.png",
-    "i18n": {
-      "ko": {
-        "title": "아마존 AWS, 코인베이스·스트라이프와 AI 에이전트 USDC 결제 지원",
-        "excerpt": "아마존웹서비스가 코인베이스와 스트라이프와 협력해 AI 에이전트가 USDC 스테이블코인으로 API, 데이터, 온라인 서비스 비용을 결제할 수 있는 새 시스템을 선보였다.",
-        "body": "아마존웹서비스(AWS)는 코인베이스, 스트라이프와 협력해 AI 에이전트가 USDC 스테이블코인으로 API, 데이터, 온라인 서비스 비용을 결제할 수 있는 새 시스템을 공개했다. 이 시스템은 사람이 직접 결제하지 않아도 AI 에이전트가 필요한 디지털 서비스에 접근하고 비용을 처리할 수 있게 하는 데 초점을 맞춘다. 배경에는 AI 에이전트가 온라인 작업을 수행하며 API와 데이터 사용료를 지불해야 하는 수요가 있다. USDC는 달러 가치에 연동된 스테이블코인으로, 이번 협력은 AI 기반 서비스 이용과 크립토 결제 인프라가 만나는 사례로 주목된다. 향후 AI 에이전트의 자동 결제 활용 범위가 API, 데이터, 온라인 서비스 영역에서 확대될 가능성이 있다. 출처: decrypt.co."
-      },
-      "en": {
-        "title": "Amazon AWS Teams With Coinbase and Stripe for AI Agent USDC Payments",
-        "excerpt": "Amazon Web Services has partnered with Coinbase and Stripe on a new system that lets AI agents pay for APIs, data, and online services using the USDC stablecoin.",
-        "body": "Amazon Web Services has unveiled a new system developed with Coinbase and Stripe that allows AI agents to pay for APIs, data, and online services using the USDC stablecoin. The system focuses on enabling AI agents to access digital services and handle payments without a person making each transaction manually. The context is growing demand for AI agents to perform online tasks that may require paying for API access and data usage. USDC is a dollar-pegged stablecoin, and the collaboration highlights a link between AI-based service use and crypto payment infrastructure. The approach could broaden how AI agents use automated payments across APIs, data, and online services. Source: decrypt.co."
-      },
-      "ja": {
-        "title": "Amazon AWS、Coinbase・StripeとAIエージェントのUSDC決済に対応",
-        "excerpt": "Amazon Web ServicesはCoinbase、Stripeと協力し、AIエージェントがUSDCステーブルコインでAPI、データ、オンラインサービス料金を支払える新システムを発表した。",
-        "body": "Amazon Web Services（AWS）は、CoinbaseとStripeと協力し、AIエージェントがUSDCステーブルコインでAPI、データ、オンラインサービスの料金を支払える新システムを公開した。この仕組みは、人が取引ごとに手動で決済しなくても、AIエージェントが必要なデジタルサービスへアクセスし、支払いを処理できるようにすることを目的としている。背景には、AIエージェントがオンライン作業を行う中でAPIやデータ利用料を支払う需要がある。USDCは米ドルに連動するステーブルコインで、今回の協力はAIサービス利用と暗号資産決済インフラが接点を持つ事例として注目される。今後、API、データ、オンラインサービス領域でAIエージェントの自動決済活用が広がる可能性がある。出典: decrypt.co。"
-      },
-      "zh": {
-        "title": "亚马逊AWS携手Coinbase和Stripe支持AI代理USDC支付",
-        "excerpt": "亚马逊云科技与Coinbase和Stripe合作推出新系统，让AI代理可使用USDC稳定币支付API、数据和在线服务费用。",
-        "body": "亚马逊云科技（AWS）与Coinbase和Stripe合作，推出一套新系统，使AI代理能够使用USDC稳定币支付API、数据和在线服务费用。该系统的重点是让AI代理在无需人工逐笔操作付款的情况下，访问所需数字服务并完成支付。其背景是，AI代理在执行在线任务时，可能需要为API访问和数据使用付费。USDC是一种与美元挂钩的稳定币，此次合作显示了AI服务使用场景与加密支付基础设施之间的结合。未来，AI代理的自动支付应用范围可能在API、数据和在线服务领域进一步扩大。来源：decrypt.co。"
-      },
-      "es": {
-        "title": "Amazon AWS se une a Coinbase y Stripe para pagos USDC de agentes de IA",
-        "excerpt": "Amazon Web Services se alió con Coinbase y Stripe para crear un sistema que permite a agentes de IA pagar APIs, datos y servicios online con la stablecoin USDC.",
-        "body": "Amazon Web Services presentó un nuevo sistema desarrollado con Coinbase y Stripe que permite a los agentes de IA pagar APIs, datos y servicios online usando la stablecoin USDC. El sistema busca que los agentes de IA accedan a servicios digitales y gestionen pagos sin que una persona tenga que aprobar manualmente cada transacción. El contexto es la demanda de agentes de IA que realizan tareas online y pueden necesitar pagar por acceso a APIs y uso de datos. USDC es una stablecoin vinculada al dólar, y esta colaboración muestra un punto de contacto entre el uso de servicios basados en IA y la infraestructura de pagos cripto. En adelante, los pagos automatizados de agentes de IA podrían ampliarse en APIs, datos y servicios online. Fuente: decrypt.co."
-      },
-      "pt": {
-        "title": "Amazon AWS une Coinbase e Stripe para pagamentos USDC de agentes de IA",
-        "excerpt": "A Amazon Web Services fez parceria com Coinbase e Stripe em um sistema que permite a agentes de IA pagar APIs, dados e serviços online com a stablecoin USDC.",
-        "body": "A Amazon Web Services apresentou um novo sistema desenvolvido com Coinbase e Stripe que permite a agentes de IA pagar por APIs, dados e serviços online usando a stablecoin USDC. O foco é permitir que agentes de IA acessem serviços digitais e processem pagamentos sem que uma pessoa realize manualmente cada transação. O contexto é a demanda por agentes de IA que executam tarefas online e podem precisar pagar por acesso a APIs e uso de dados. USDC é uma stablecoin atrelada ao dólar, e a parceria destaca a conexão entre o uso de serviços baseados em IA e a infraestrutura de pagamentos cripto. No futuro, o uso de pagamentos automatizados por agentes de IA pode se expandir em APIs, dados e serviços online. Fonte: decrypt.co."
-      },
-      "de": {
-        "title": "Amazon AWS kooperiert mit Coinbase und Stripe für USDC-Zahlungen von KI-Agenten",
-        "excerpt": "Amazon Web Services arbeitet mit Coinbase und Stripe an einem neuen System, mit dem KI-Agenten APIs, Daten und Onlinedienste per USDC-Stablecoin bezahlen können.",
-        "body": "Amazon Web Services hat ein neues System vorgestellt, das gemeinsam mit Coinbase und Stripe entwickelt wurde und KI-Agenten Zahlungen für APIs, Daten und Onlinedienste mit dem USDC-Stablecoin ermöglicht. Im Mittelpunkt steht, dass KI-Agenten digitale Dienste nutzen und Zahlungen abwickeln können, ohne dass jede Transaktion manuell durch eine Person erfolgt. Hintergrund ist die Nachfrage nach KI-Agenten, die Onlineaufgaben erledigen und dabei für API-Zugänge oder Datennutzung bezahlen müssen. USDC ist ein an den US-Dollar gekoppelter Stablecoin. Die Kooperation zeigt damit eine Verbindung zwischen KI-gestützter Servicenutzung und Krypto-Zahlungsinfrastruktur. Künftig könnte sich der Einsatz automatisierter Zahlungen durch KI-Agenten in den Bereichen APIs, Daten und Onlinedienste ausweiten. Quelle: decrypt.co."
-      },
-      "fr": {
-        "title": "Amazon AWS s’allie à Coinbase et Stripe pour les paiements USDC des agents IA",
-        "excerpt": "Amazon Web Services s’associe à Coinbase et Stripe pour un système permettant aux agents IA de payer API, données et services en ligne avec le stablecoin USDC.",
-        "body": "Amazon Web Services a présenté un nouveau système conçu avec Coinbase et Stripe, permettant aux agents IA de payer des API, des données et des services en ligne avec le stablecoin USDC. Le dispositif vise à permettre aux agents IA d’accéder à des services numériques et de gérer les paiements sans intervention humaine pour chaque transaction. Le contexte est la demande croissante d’agents IA capables d’exécuter des tâches en ligne pouvant nécessiter le paiement d’accès API ou d’utilisation de données. USDC est un stablecoin adossé au dollar, et cette collaboration illustre le lien entre l’usage de services fondés sur l’IA et l’infrastructure de paiement crypto. À l’avenir, les paiements automatisés par agents IA pourraient s’étendre aux API, aux données et aux services en ligne. Source : decrypt.co."
-      },
-      "ar": {
-        "title": "أمازون AWS تتعاون مع Coinbase وStripe لمدفوعات USDC لوكلاء الذكاء الاصطناعي",
-        "excerpt": "تعاونت Amazon Web Services مع Coinbase وStripe لإطلاق نظام يتيح لوكلاء الذكاء الاصطناعي دفع تكاليف واجهات API والبيانات والخدمات عبر الإنترنت بعملة USDC المستقرة.",
-        "body": "كشفت Amazon Web Services عن نظام جديد بالتعاون مع Coinbase وStripe يتيح لوكلاء الذكاء الاصطناعي دفع تكاليف واجهات API والبيانات والخدمات عبر الإنترنت باستخدام عملة USDC المستقرة. يركز النظام على تمكين وكلاء الذكاء الاصطناعي من الوصول إلى الخدمات الرقمية ومعالجة المدفوعات دون أن ينفذ شخص كل معاملة يدويا. وتأتي الخلفية من الحاجة إلى وكلاء ذكاء اصطناعي ينفذون مهاما عبر الإنترنت وقد يحتاجون إلى دفع رسوم الوصول إلى واجهات API أو استخدام البيانات. تعد USDC عملة مستقرة مرتبطة بالدولار، ويبرز هذا التعاون نقطة التقاء بين استخدام خدمات الذكاء الاصطناعي وبنية مدفوعات العملات المشفرة. وقد يتوسع استخدام المدفوعات الآلية لوكلاء الذكاء الاصطناعي في مجالات واجهات API والبيانات والخدمات عبر الإنترنت. المصدر: decrypt.co."
-      },
-      "hi": {
-        "title": "Amazon AWS ने AI एजेंट USDC भुगतान के लिए Coinbase और Stripe से हाथ मिलाया",
-        "excerpt": "Amazon Web Services ने Coinbase और Stripe के साथ नया सिस्टम पेश किया है, जिससे AI एजेंट USDC स्टेबलकॉइन से API, डेटा और ऑनलाइन सेवाओं का भुगतान कर सकते हैं।",
-        "body": "Amazon Web Services ने Coinbase और Stripe के साथ विकसित एक नया सिस्टम पेश किया है, जो AI एजेंटों को USDC स्टेबलकॉइन के जरिए API, डेटा और ऑनलाइन सेवाओं के लिए भुगतान करने देता है। इस सिस्टम का लक्ष्य यह है कि AI एजेंट हर भुगतान के लिए इंसानी हस्तक्षेप के बिना जरूरी डिजिटल सेवाओं तक पहुंच सकें और भुगतान संभाल सकें। इसकी पृष्ठभूमि में ऐसे AI एजेंटों की मांग है जो ऑनलाइन कार्य करते हैं और जिन्हें API एक्सेस या डेटा उपयोग के लिए भुगतान करना पड़ सकता है। USDC डॉलर से जुड़ा स्टेबलकॉइन है, और यह सहयोग AI आधारित सेवाओं के उपयोग तथा क्रिप्टो भुगतान ढांचे के बीच संबंध दिखाता है। आगे चलकर AI एजेंटों के स्वचालित भुगतान का उपयोग API, डेटा और ऑनलाइन सेवाओं में बढ़ सकता है। स्रोत: decrypt.co."
-      },
-      "id": {
-        "title": "Amazon AWS Gandeng Coinbase dan Stripe untuk Pembayaran USDC Agen AI",
-        "excerpt": "Amazon Web Services bekerja sama dengan Coinbase dan Stripe menghadirkan sistem yang memungkinkan agen AI membayar API, data, dan layanan online memakai stablecoin USDC.",
-        "body": "Amazon Web Services memperkenalkan sistem baru yang dikembangkan bersama Coinbase dan Stripe, yang memungkinkan agen AI membayar API, data, dan layanan online menggunakan stablecoin USDC. Sistem ini berfokus pada kemampuan agen AI untuk mengakses layanan digital dan memproses pembayaran tanpa manusia melakukan setiap transaksi secara manual. Latar belakangnya adalah kebutuhan agen AI yang menjalankan tugas online dan mungkin harus membayar akses API atau penggunaan data. USDC adalah stablecoin yang dipatok ke dolar, dan kerja sama ini menunjukkan pertemuan antara penggunaan layanan berbasis AI dan infrastruktur pembayaran kripto. Ke depan, pemakaian pembayaran otomatis oleh agen AI dapat meluas di area API, data, dan layanan online. Sumber: decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "9917b823b7ca",
-    "slug": "bitcoin-bulls-target-115k-by-december-does-data-back-the-exp-450623",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T01:06:57.474Z",
-    "updatedAt": "2026-05-08T01:06:57.474Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/bitcoin-bulls-target-115k-by-december-does-data-back-the-expectation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/bitcoin-bulls-target-115k-by-december-does-data-back-the-expectation",
-    "titleFingerprint": "665d794b96ede6a944e957634d60f58ffe6e8d19",
-    "dedupKeys": [
-      "9917b823b7ca5002586c3eebbb1839a6f1a9b8aa",
-      "665d794b96ede6a944e957634d60f58ffe6e8d19",
-      "4eb4724e5294e13e2c56a40a72008997cacb6e5a"
-    ],
-    "imageUrl": "/images/articles/9917b823b7ca.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 강세론, 12월 11만5천달러 목표…옵션 데이터가 뒷받침할까",
-        "excerpt": "비트코인 옵션 시장에서 강세 투자자들이 12월까지 11만5천달러를 겨냥하는 가운데, 트레이더들의 기대가 과도한지 데이터가 주목받고 있다.",
-        "body": "비트코인 강세론자들이 12월까지 가격 목표를 11만5천달러로 제시하고 있다. cointelegraph.com에 따르면 비트코인 옵션 흐름은 연말 고점을 기대하는 투자자들의 포지셔닝을 보여준다. 다만 핵심 쟁점은 이 기대가 실제 데이터로 뒷받침되는지, 아니면 트레이더들이 지나치게 낙관적으로 기울고 있는지다. 옵션 시장은 향후 가격 기대를 반영하지만, 목표가 달성 여부를 보장하지는 않는다. 시장 참가자들은 연말까지 비트코인 가격 흐름과 옵션 수요 변화를 함께 확인할 필요가 있다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Bitcoin Bulls Eye $115K by December as Options Data Faces Test",
-        "excerpt": "Bitcoin options show bullish traders targeting $115,000 by December, raising the question of whether market expectations are becoming too optimistic.",
-        "body": "Bitcoin bulls are setting a $115,000 price target for December. According to cointelegraph.com, Bitcoin options activity shows positioning by investors expecting a year-end high. The key question is whether that expectation is supported by data or whether traders are becoming too optimistic. Options markets can reflect future price expectations, but they do not guarantee that a target will be reached. Market participants will need to watch Bitcoin’s price action and changes in options demand through year-end. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "ビットコイン強気派、12月に11.5万ドル目標…オプションデータは示すか",
-        "excerpt": "ビットコインのオプション市場では強気派が12月までに11万5000ドルを狙う一方、投資家の期待が過度に楽観的かが焦点となっている。",
-        "body": "ビットコインの強気派は、12月までの価格目標として11万5000ドルを掲げている。cointelegraph.comによると、ビットコインのオプション動向は年末高値を期待する投資家のポジショニングを示している。ただし焦点は、その期待がデータで裏付けられているのか、それともトレーダーが過度に楽観へ傾いているのかだ。オプション市場は将来の価格期待を反映し得るが、目標達成を保証するものではない。市場参加者は年末まで価格推移とオプション需要の変化を確認する必要がある。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "比特币多头瞄准12月11.5万美元，期权数据能否支撑预期",
-        "excerpt": "比特币期权显示多头交易者瞄准12月前11.5万美元目标，市场关注这一预期是否已有数据支撑或过度乐观。",
-        "body": "比特币多头正把12月前的价格目标设定在11.5万美元。cointelegraph.com称，比特币期权走势显示，部分投资者正在为年末高位进行布局。不过，核心问题在于这一预期是否得到数据支持，还是交易者已经变得过于乐观。期权市场可以反映未来价格预期，但并不保证目标一定实现。市场参与者需要在年末前继续观察比特币价格走势以及期权需求的变化。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Alcistas de Bitcoin apuntan a $115.000 en diciembre: la prueba está en los datos",
-        "excerpt": "Las opciones de Bitcoin muestran a operadores alcistas buscando $115.000 para diciembre, mientras crece la duda sobre si el optimismo es excesivo.",
-        "body": "Los alcistas de Bitcoin están fijando un objetivo de precio de $115.000 para diciembre. Según cointelegraph.com, el movimiento en las opciones de Bitcoin muestra el posicionamiento de inversores que esperan un máximo hacia fin de año. La cuestión central es si esa expectativa está respaldada por los datos o si los traders se están volviendo demasiado optimistas. El mercado de opciones puede reflejar expectativas futuras de precio, pero no garantiza que el objetivo se cumpla. Los participantes deberán seguir la evolución del precio de Bitcoin y la demanda de opciones hasta fin de año. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Alta do Bitcoin mira US$ 115 mil em dezembro; opções sustentam a aposta?",
-        "excerpt": "Opções de Bitcoin mostram investidores otimistas mirando US$ 115 mil até dezembro, enquanto cresce a dúvida sobre possível excesso de otimismo.",
-        "body": "Os investidores otimistas com Bitcoin estão apontando para uma meta de US$ 115 mil até dezembro. Segundo cointelegraph.com, o fluxo de opções de Bitcoin mostra posicionamento de participantes que esperam uma máxima no fim do ano. A questão principal é se essa expectativa é sustentada pelos dados ou se os traders estão ficando otimistas demais. O mercado de opções pode refletir expectativas futuras de preço, mas não garante que a meta será alcançada. Participantes do mercado devem acompanhar a trajetória do Bitcoin e mudanças na demanda por opções até o fim do ano. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Bitcoin-Bullen zielen auf 115.000 Dollar bis Dezember: Stützen Daten die Wette?",
-        "excerpt": "Bitcoin-Optionen zeigen bullische Trader mit Ziel 115.000 Dollar bis Dezember; im Fokus steht, ob die Erwartung bereits zu optimistisch ist.",
-        "body": "Bitcoin-Bullen nennen für Dezember ein Kursziel von 115.000 Dollar. Laut cointelegraph.com zeigt die Aktivität bei Bitcoin-Optionen eine Positionierung von Investoren, die auf ein Hoch zum Jahresende setzen. Entscheidend ist jedoch, ob diese Erwartung durch Daten gestützt wird oder ob Trader bereits zu optimistisch geworden sind. Optionsmärkte können künftige Preiserwartungen widerspiegeln, garantieren aber nicht, dass ein Ziel erreicht wird. Marktteilnehmer sollten bis zum Jahresende sowohl den Bitcoin-Kurs als auch Veränderungen der Optionsnachfrage beobachten. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Bitcoin vise 115 000 $ d’ici décembre: les options confirment-elles l’élan?",
-        "excerpt": "Les options Bitcoin montrent des traders haussiers visant 115 000 $ d’ici décembre, mais la question reste de savoir si l’optimisme devient excessif.",
-        "body": "Les investisseurs haussiers sur Bitcoin fixent un objectif de 115 000 $ d’ici décembre. Selon cointelegraph.com, l’activité sur les options Bitcoin montre un positionnement d’investisseurs qui anticipent un sommet en fin d’année. Le point central est de savoir si cette attente est soutenue par les données ou si les traders deviennent trop optimistes. Le marché des options peut refléter les anticipations de prix futures, mais il ne garantit pas que l’objectif sera atteint. Les acteurs du marché devront suivre l’évolution du prix du Bitcoin et la demande d’options jusqu’à la fin de l’année. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "ثيران بيتكوين يستهدفون 115 ألف دولار في ديسمبر فهل تدعم البيانات ذلك؟",
-        "excerpt": "تُظهر خيارات بيتكوين أن المتداولين المتفائلين يستهدفون 115 ألف دولار بحلول ديسمبر، وسط تساؤلات حول ما إذا كانت التوقعات مفرطة في التفاؤل.",
-        "body": "يضع المتفائلون ببيتكوين هدفا سعريا عند 115 ألف دولار بحلول ديسمبر. ووفقا لـ cointelegraph.com، تُظهر حركة خيارات بيتكوين تموضع مستثمرين يتوقعون مستوى مرتفعا بنهاية العام. لكن السؤال الأساسي هو ما إذا كانت هذه التوقعات مدعومة بالبيانات، أم أن المتداولين أصبحوا مفرطين في التفاؤل. يمكن لسوق الخيارات أن يعكس توقعات الأسعار المستقبلية، لكنه لا يضمن تحقق الهدف. لذلك يحتاج المشاركون في السوق إلى متابعة حركة سعر بيتكوين وتغيرات الطلب على الخيارات حتى نهاية العام. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "बिटकॉइन बुल्स दिसंबर तक $115K पर नजर, क्या ऑप्शंस डेटा समर्थन करता है?",
-        "excerpt": "बिटकॉइन ऑप्शंस में तेजी वाले ट्रेडर दिसंबर तक $115,000 का लक्ष्य देख रहे हैं, लेकिन सवाल है कि क्या यह उम्मीद जरूरत से ज्यादा आशावादी है।",
-        "body": "बिटकॉइन के बुल्स दिसंबर तक $115,000 के मूल्य लक्ष्य पर नजर रख रहे हैं। cointelegraph.com के अनुसार, बिटकॉइन ऑप्शंस की गतिविधि दिखाती है कि निवेशक साल के अंत में ऊंचे स्तर की उम्मीद के साथ पोजिशन बना रहे हैं। मुख्य सवाल यह है कि क्या यह उम्मीद डेटा से समर्थित है या ट्रेडर जरूरत से ज्यादा आशावादी हो रहे हैं। ऑप्शंस बाजार भविष्य की कीमतों की अपेक्षाओं को दिखा सकता है, लेकिन लक्ष्य पूरा होने की गारंटी नहीं देता। बाजार प्रतिभागियों को साल के अंत तक बिटकॉइन की कीमत और ऑप्शंस मांग में बदलाव पर नजर रखनी होगी। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Bulls Bitcoin Bidik $115K pada Desember, Data Opsi Jadi Ujian",
-        "excerpt": "Opsi Bitcoin menunjukkan trader bullish menargetkan $115.000 hingga Desember, sementara pasar menilai apakah ekspektasi itu terlalu optimistis.",
-        "body": "Bulls Bitcoin menetapkan target harga $115.000 hingga Desember. Menurut cointelegraph.com, pergerakan opsi Bitcoin menunjukkan posisi investor yang mengharapkan level tinggi pada akhir tahun. Namun, pertanyaan utamanya adalah apakah ekspektasi itu didukung oleh data atau trader mulai terlalu optimistis. Pasar opsi dapat mencerminkan ekspektasi harga ke depan, tetapi tidak menjamin target akan tercapai. Pelaku pasar perlu memantau pergerakan harga Bitcoin dan perubahan permintaan opsi hingga akhir tahun. Sumber: cointelegraph.com"
       }
     }
   }

@@ -1,0 +1,75 @@
+{
+  "id": "610c80546444",
+  "slug": "kelp-dao-exploit-prompts-defi-protocols-to-rethink-oracle-pr-459361",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T15:45:16.840Z",
+  "updatedAt": "2026-05-08T15:45:16.840Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/kelp-dao-exploit-prompts-defi-protocols-rethink-oracle-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/kelp-dao-exploit-prompts-defi-protocols-rethink-oracle-providers",
+  "titleFingerprint": "87f0c8b80b5b8e1d604dbb0b624af23165781fab",
+  "dedupKeys": [
+    "610c805464449827659332e449173c9e6ed7df41",
+    "87f0c8b80b5b8e1d604dbb0b624af23165781fab",
+    "596baedd1c61958fb66e7d88b15f1178ca67cdb7"
+  ],
+  "imageUrl": "/images/articles/610c80546444.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Kelp DAO 2억9300만달러 익스플로잇, DeFi 오라클 전환 촉발",
+      "excerpt": "4월 Kelp DAO의 2억9300만달러 익스플로잇 이후 Solv Protocol 등 DeFi 프로젝트들이 브리지·오라클 리스크를 줄이기 위해 Chainlink 인프라로 이동하고 있다.",
+      "body": "Kelp DAO 익스플로잇 이후 DeFi 프로토콜들이 오라클과 크로스체인 인프라 선택을 다시 점검하고 있다. 4월 발생한 이번 사건에서는 약 2억9300만달러 규모 피해가 드러났고, 제3자 브리지와 오라클 구성의 위험이 핵심 쟁점으로 떠올랐다. 이에 Solv Protocol을 포함한 여러 DeFi 프로젝트는 보안 의존도를 낮추기 위해 Chainlink 인프라로 이전하고 있다. 이번 이동은 DeFi 시장에서 오라클 제공자와 브리지 구조 검증이 더 엄격해질 수 있음을 보여준다. 출처: cointelegraph.com."
+    },
+    "en": {
+      "title": "Kelp DAO $293M Exploit Pushes DeFi Toward Chainlink Oracles",
+      "excerpt": "After Kelp DAO’s $293 million April exploit, Solv Protocol and other DeFi projects are moving to Chainlink infrastructure to reduce bridge and oracle risks.",
+      "body": "The Kelp DAO exploit has prompted DeFi protocols to reassess their oracle and cross-chain infrastructure choices. The April incident exposed about $293 million in losses and put the risks of third-party bridge and oracle setups at the center of industry debate. Solv Protocol and other DeFi projects are now migrating to Chainlink infrastructure to reduce security dependencies. The shift shows that oracle providers and bridge designs may face tougher scrutiny across DeFi. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "Kelp DAOの2.93億ドル被害でDeFiがChainlink移行を再考",
+      "excerpt": "4月のKelp DAOによる2億9300万ドル規模のエクスプロイト後、Solv ProtocolなどのDeFiプロジェクトはブリッジとオラクルのリスク低減へChainlinkへ移行している。",
+      "body": "Kelp DAOのエクスプロイトを受け、DeFiプロトコルはオラクルとクロスチェーン基盤の選定を見直している。4月に発生したこの事件では約2億9300万ドルの被害が明らかになり、第三者ブリッジとオラクル構成のリスクが主要な論点となった。Solv Protocolを含む複数のDeFiプロジェクトは、セキュリティ上の依存を下げるためChainlinkインフラへ移行している。この動きは、DeFi全体でオラクル提供者とブリッジ設計への検証が厳しくなる可能性を示している。出典: cointelegraph.com."
+    },
+    "zh": {
+      "title": "Kelp DAO 2.93亿美元漏洞事件促使DeFi转向Chainlink",
+      "excerpt": "4月Kelp DAO发生2.93亿美元漏洞事件后，Solv Protocol等DeFi项目正迁移至Chainlink基础设施，以降低桥和预言机设置风险。",
+      "body": "Kelp DAO漏洞事件后，DeFi协议开始重新评估预言机和跨链基础设施的选择。4月发生的这起事件暴露了约2.93亿美元损失，也让第三方桥和预言机配置风险成为行业关注重点。包括Solv Protocol在内的多个DeFi项目正迁移至Chainlink基础设施，以降低安全依赖。此次转向显示，DeFi市场对预言机提供方和桥架构的审查可能会更加严格。来源: cointelegraph.com."
+    },
+    "es": {
+      "title": "Exploit de Kelp DAO por $293M empuja a DeFi hacia Chainlink",
+      "excerpt": "Tras el exploit de Kelp DAO por $293 millones en abril, Solv Protocol y otros proyectos DeFi migran a Chainlink para reducir riesgos de puentes y oráculos.",
+      "body": "El exploit de Kelp DAO llevó a los protocolos DeFi a revisar sus decisiones sobre oráculos e infraestructura cross-chain. El incidente de abril expuso pérdidas cercanas a $293 millones y puso en primer plano los riesgos de configuraciones de puentes y oráculos de terceros. Solv Protocol y otros proyectos DeFi están migrando a la infraestructura de Chainlink para reducir dependencias de seguridad. El movimiento indica que los proveedores de oráculos y los diseños de puentes podrían enfrentar un escrutinio más estricto en DeFi. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "Exploit de US$293 mi da Kelp DAO leva DeFi a buscar Chainlink",
+      "excerpt": "Após o exploit de US$293 milhões da Kelp DAO em abril, Solv Protocol e outros projetos DeFi migram para a Chainlink para reduzir riscos de bridges e oráculos.",
+      "body": "O exploit da Kelp DAO levou protocolos DeFi a reavaliar suas escolhas de oráculos e infraestrutura cross-chain. O incidente de abril expôs perdas de cerca de US$293 milhões e colocou os riscos de bridges e configurações de oráculos de terceiros no centro do debate. Solv Protocol e outros projetos DeFi estão migrando para a infraestrutura da Chainlink para reduzir dependências de segurança. A mudança mostra que provedores de oráculos e estruturas de bridges podem passar por maior escrutínio no mercado DeFi. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "Kelp-DAO-Exploit über 293 Mio. Dollar treibt DeFi zu Chainlink",
+      "excerpt": "Nach dem Kelp-DAO-Exploit über 293 Millionen Dollar im April wechseln Solv Protocol und andere DeFi-Projekte zu Chainlink, um Bridge- und Oracle-Risiken zu senken.",
+      "body": "Der Kelp-DAO-Exploit veranlasst DeFi-Protokolle, ihre Auswahl von Oracles und Cross-Chain-Infrastruktur neu zu bewerten. Der Vorfall im April legte Schäden von rund 293 Millionen Dollar offen und rückte Risiken bei Drittanbieter-Bridges und Oracle-Konfigurationen in den Mittelpunkt. Solv Protocol und weitere DeFi-Projekte migrieren nun zu Chainlink-Infrastruktur, um Sicherheitsabhängigkeiten zu verringern. Der Schritt zeigt, dass Oracle-Anbieter und Bridge-Designs im DeFi-Markt strenger geprüft werden könnten. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "L’exploit Kelp DAO à 293 M$ pousse la DeFi vers Chainlink",
+      "excerpt": "Après l’exploit de Kelp DAO à 293 millions de dollars en avril, Solv Protocol et d’autres projets DeFi migrent vers Chainlink pour réduire les risques de bridges et d’oracles.",
+      "body": "L’exploit de Kelp DAO pousse les protocoles DeFi à réévaluer leurs choix d’oracles et d’infrastructure cross-chain. L’incident d’avril a révélé environ 293 millions de dollars de pertes et a placé les risques liés aux bridges et aux configurations d’oracles tiers au centre du débat. Solv Protocol et d’autres projets DeFi migrent désormais vers l’infrastructure Chainlink afin de réduire leurs dépendances de sécurité. Ce mouvement montre que les fournisseurs d’oracles et les architectures de bridges pourraient être examinés plus strictement dans la DeFi. Source: cointelegraph.com."
+    },
+    "ar": {
+      "title": "استغلال Kelp DAO بقيمة 293 مليون دولار يدفع DeFi نحو Chainlink",
+      "excerpt": "بعد استغلال Kelp DAO بقيمة 293 مليون دولار في أبريل، تنتقل Solv Protocol ومشاريع DeFi أخرى إلى بنية Chainlink لتقليل مخاطر الجسور والأوراكل.",
+      "body": "دفع استغلال Kelp DAO بروتوكولات DeFi إلى إعادة تقييم اختياراتها لمزودي الأوراكل وبنية التشغيل عبر السلاسل. كشف الحادث الذي وقع في أبريل عن خسائر تقارب 293 مليون دولار، وجعل مخاطر الجسور التابعة لجهات خارجية وإعدادات الأوراكل محور النقاش. وتنتقل Solv Protocol ومشاريع DeFi أخرى إلى بنية Chainlink لتقليل الاعتماد الأمني. ويشير هذا التحول إلى أن مزودي الأوراكل وتصميمات الجسور في سوق DeFi قد يواجهون تدقيقا أكثر صرامة. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "Kelp DAO के $293M exploit ने DeFi को Chainlink की ओर मोड़ा",
+      "excerpt": "अप्रैल में Kelp DAO के $293 मिलियन exploit के बाद Solv Protocol और अन्य DeFi प्रोजेक्ट bridge व oracle जोखिम घटाने के लिए Chainlink infrastructure अपना रहे हैं।",
+      "body": "Kelp DAO exploit के बाद DeFi protocols अपने oracle और cross-chain infrastructure विकल्पों की फिर से समीक्षा कर रहे हैं। अप्रैल की इस घटना में लगभग $293 मिलियन का नुकसान सामने आया और third-party bridge तथा oracle setups के जोखिम मुख्य मुद्दा बन गए। Solv Protocol सहित कई DeFi projects सुरक्षा निर्भरता घटाने के लिए Chainlink infrastructure पर जा रहे हैं। यह बदलाव दिखाता है कि DeFi बाजार में oracle providers और bridge designs की जांच और कड़ी हो सकती है। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "Eksploit Kelp DAO $293 Juta Dorong DeFi Beralih ke Chainlink",
+      "excerpt": "Setelah eksploit Kelp DAO senilai $293 juta pada April, Solv Protocol dan proyek DeFi lain bermigrasi ke Chainlink untuk mengurangi risiko bridge dan oracle.",
+      "body": "Eksploit Kelp DAO membuat protokol DeFi meninjau ulang pilihan oracle dan infrastruktur cross-chain mereka. Insiden pada April itu mengungkap kerugian sekitar $293 juta dan menempatkan risiko pengaturan bridge serta oracle pihak ketiga sebagai isu utama. Solv Protocol dan beberapa proyek DeFi lain kini bermigrasi ke infrastruktur Chainlink untuk mengurangi ketergantungan keamanan. Peralihan ini menunjukkan bahwa penyedia oracle dan desain bridge di pasar DeFi dapat menghadapi pemeriksaan yang lebih ketat. Sumber: cointelegraph.com."
+    }
+  }
+}
