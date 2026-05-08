@@ -1,0 +1,75 @@
+{
+  "id": "7fc62faea0ef",
+  "slug": "exodus-launches-ai-agent-focused-stablecoin-on-solana-464511",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T19:52:47.626Z",
+  "updatedAt": "2026-05-08T19:52:47.626Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana",
+  "titleFingerprint": "a9bc2f29614b7ada3f929617226d510e3119f4ec",
+  "dedupKeys": [
+    "7fc62faea0efcfd4b9ed59ac794b355c86823548",
+    "a9bc2f29614b7ada3f929617226d510e3119f4ec",
+    "e1179224c82791b1e7f9aef87dd36ee5b024c9b6"
+  ],
+  "imageUrl": "/images/articles/7fc62faea0ef.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Exodus, 솔라나 기반 AI 에이전트용 스테이블코인 XO Cash 출시",
+      "excerpt": "암호화폐 지갑 기업 Exodus가 솔라나에서 XO Cash 토큰을 선보이며, AI 에이전트가 사전 설정 지출 한도와 스테이블코인 결제로 거래하도록 지원한다.",
+      "body": "암호화폐 지갑 기업 Exodus가 솔라나 기반 AI 에이전트용 스테이블코인 XO Cash를 출시했다고 cointelegraph.com이 보도했다. 이 토큰은 AI 에이전트가 스테이블코인 결제를 수행할 수 있도록 설계됐으며, 함께 제공되는 소프트웨어 도구는 사전 설정된 지출 통제를 적용해 거래를 관리하게 한다. 배경에는 AI 에이전트가 디지털 환경에서 자동으로 결제와 거래를 처리해야 하는 수요가 있다. Exodus는 XO Cash와 관련 도구를 결합해 AI 에이전트의 결제 사용 범위를 명확한 한도 안에서 운영하도록 지원한다. 이번 출시는 솔라나 네트워크에서 AI 에이전트와 스테이블코인 결제를 연결하는 사례로 주목된다. 출처는 cointelegraph.com이다."
+    },
+    "en": {
+      "title": "Exodus Launches XO Cash Stablecoin for AI Agents on Solana",
+      "excerpt": "Crypto wallet firm Exodus has introduced XO Cash on Solana, pairing the token with tools that let AI agents transact under preset spending controls.",
+      "body": "Crypto wallet company Exodus has launched XO Cash, a Solana-based stablecoin focused on AI agents, according to cointelegraph.com. The token is designed to let AI agents make stablecoin payments, while the accompanying software tools apply preset spending controls to manage transactions. The context is growing demand for AI agents to handle payments and transactions automatically in digital environments. By combining XO Cash with these tools, Exodus aims to support agent payments within clearly defined limits. The launch highlights a use case linking AI agents and stablecoin payments on the Solana network. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "Exodus、ソラナ上でAIエージェント向けステーブルコインXO Cashを開始",
+      "excerpt": "暗号資産ウォレット企業Exodusは、ソラナ上でXO Cashを発表し、AIエージェントが事前設定された支出管理の下で取引できるツールを組み合わせた。",
+      "body": "暗号資産ウォレット企業Exodusが、ソラナ基盤のAIエージェント向けステーブルコインXO Cashを開始したとcointelegraph.comが報じた。このトークンはAIエージェントがステーブルコイン決済を行えるよう設計され、併せて提供されるソフトウェアツールは事前設定された支出管理を取引に適用する。背景には、AIエージェントがデジタル環境で決済や取引を自動処理する需要がある。ExodusはXO Cashと関連ツールを組み合わせ、明確な上限内でエージェント決済を運用できるよう支援する。今回の開始は、ソラナネットワーク上でAIエージェントとステーブルコイン決済を結ぶ事例として注目される。出典はcointelegraph.com。"
+    },
+    "zh": {
+      "title": "Exodus在Solana推出面向AI代理的稳定币XO Cash",
+      "excerpt": "加密钱包公司Exodus在Solana推出XO Cash，并配套软件工具，让AI代理在预设支出控制下使用稳定币完成交易。",
+      "body": "据cointelegraph.com报道，加密钱包公司Exodus推出了基于Solana、面向AI代理的稳定币XO Cash。该代币旨在让AI代理进行稳定币支付，配套软件工具则通过预设支出控制来管理交易。其背景是，AI代理在数字环境中自动处理支付和交易的需求正在出现。Exodus将XO Cash与相关工具结合，支持AI代理在明确限额内使用支付功能。此次推出显示了Solana网络上连接AI代理与稳定币支付的一项应用案例。来源：cointelegraph.com。"
+    },
+    "es": {
+      "title": "Exodus lanza XO Cash, stablecoin para agentes de IA en Solana",
+      "excerpt": "La billetera cripto Exodus presentó XO Cash en Solana, con herramientas para que agentes de IA transaccionen con controles de gasto predefinidos.",
+      "body": "La empresa de billeteras cripto Exodus lanzó XO Cash, una stablecoin basada en Solana enfocada en agentes de IA, según cointelegraph.com. El token está diseñado para permitir que los agentes de IA realicen pagos con stablecoins, mientras que las herramientas de software asociadas aplican controles de gasto predefinidos para gestionar las transacciones. El contexto es la demanda de que los agentes de IA procesen pagos y operaciones de forma automática en entornos digitales. Al combinar XO Cash con esas herramientas, Exodus busca apoyar pagos de agentes dentro de límites claros. El lanzamiento destaca un caso de uso que conecta agentes de IA y pagos con stablecoins en Solana. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "Exodus lança XO Cash, stablecoin para agentes de IA na Solana",
+      "excerpt": "A carteira cripto Exodus lançou o XO Cash na Solana, com ferramentas para agentes de IA transacionarem sob controles de gastos predefinidos.",
+      "body": "A empresa de carteira cripto Exodus lançou o XO Cash, uma stablecoin baseada na Solana voltada a agentes de IA, segundo o cointelegraph.com. O token foi criado para permitir que agentes de IA façam pagamentos com stablecoins, enquanto as ferramentas de software associadas aplicam controles de gastos predefinidos para gerenciar transações. O contexto é a demanda para que agentes de IA processem pagamentos e operações automaticamente em ambientes digitais. Ao combinar o XO Cash com essas ferramentas, a Exodus apoia pagamentos de agentes dentro de limites claros. O lançamento destaca um caso de uso que conecta agentes de IA e pagamentos com stablecoins na Solana. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "Exodus startet XO Cash, Stablecoin für KI-Agenten auf Solana",
+      "excerpt": "Die Krypto-Wallet-Firma Exodus führt XO Cash auf Solana ein und koppelt den Token mit Tools für KI-Agenten, die unter festen Ausgabenlimits handeln.",
+      "body": "Das Krypto-Wallet-Unternehmen Exodus hat XO Cash gestartet, einen auf Solana basierenden Stablecoin für KI-Agenten, wie cointelegraph.com berichtet. Der Token soll KI-Agenten Stablecoin-Zahlungen ermöglichen, während die zugehörigen Softwaretools voreingestellte Ausgabenkontrollen auf Transaktionen anwenden. Hintergrund ist die Nachfrage, dass KI-Agenten Zahlungen und Transaktionen in digitalen Umgebungen automatisch ausführen können. Exodus verbindet XO Cash mit diesen Tools, um Agentenzahlungen innerhalb klar definierter Grenzen zu unterstützen. Der Start zeigt einen Anwendungsfall, der KI-Agenten und Stablecoin-Zahlungen im Solana-Netzwerk zusammenführt. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "Exodus lance XO Cash, un stablecoin pour agents IA sur Solana",
+      "excerpt": "Le portefeuille crypto Exodus présente XO Cash sur Solana, avec des outils permettant aux agents IA de payer en stablecoins sous limites de dépenses.",
+      "body": "La société de portefeuille crypto Exodus a lancé XO Cash, un stablecoin basé sur Solana destiné aux agents IA, selon cointelegraph.com. Le jeton est conçu pour permettre aux agents IA d’effectuer des paiements en stablecoins, tandis que les outils logiciels associés appliquent des contrôles de dépenses prédéfinis pour gérer les transactions. Le contexte est la demande d’agents IA capables de traiter automatiquement paiements et transactions dans les environnements numériques. En associant XO Cash à ces outils, Exodus soutient des paiements d’agents dans des limites clairement établies. Ce lancement illustre un cas d’usage reliant agents IA et paiements en stablecoins sur Solana. Source : cointelegraph.com."
+    },
+    "ar": {
+      "title": "Exodus تطلق XO Cash كعملة مستقرة لوكلاء الذكاء الاصطناعي على سولانا",
+      "excerpt": "أطلقت شركة محفظة العملات المشفرة Exodus رمز XO Cash على سولانا مع أدوات تتيح لوكلاء الذكاء الاصطناعي إجراء معاملات ضمن ضوابط إنفاق مسبقة.",
+      "body": "أطلقت شركة محفظة العملات المشفرة Exodus عملة XO Cash المستقرة القائمة على سولانا والموجهة لوكلاء الذكاء الاصطناعي، وفق ما أفاد cointelegraph.com. صمم الرمز لتمكين وكلاء الذكاء الاصطناعي من تنفيذ مدفوعات بالعملات المستقرة، بينما تطبق أدوات البرمجيات المرافقة ضوابط إنفاق محددة مسبقا لإدارة المعاملات. ويأتي ذلك في سياق الحاجة إلى أن يعالج وكلاء الذكاء الاصطناعي المدفوعات والمعاملات تلقائيا في البيئات الرقمية. ومن خلال الجمع بين XO Cash وهذه الأدوات، تدعم Exodus مدفوعات الوكلاء ضمن حدود واضحة. يبرز الإطلاق حالة استخدام تربط وكلاء الذكاء الاصطناعي بمدفوعات العملات المستقرة على شبكة سولانا. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "Exodus ने Solana पर AI एजेंटों के लिए XO Cash स्टेबलकॉइन लॉन्च किया",
+      "excerpt": "क्रिप्टो वॉलेट कंपनी Exodus ने Solana पर XO Cash पेश किया, जिसके साथ AI एजेंट तय खर्च नियंत्रणों में स्टेबलकॉइन भुगतान कर सकते हैं।",
+      "body": "क्रिप्टो वॉलेट कंपनी Exodus ने Solana आधारित, AI एजेंटों पर केंद्रित स्टेबलकॉइन XO Cash लॉन्च किया है, यह जानकारी cointelegraph.com ने दी। यह टोकन AI एजेंटों को स्टेबलकॉइन भुगतान करने देने के लिए बनाया गया है, जबकि साथ दिए गए सॉफ्टवेयर टूल लेनदेन प्रबंधन के लिए पहले से तय खर्च नियंत्रण लागू करते हैं। पृष्ठभूमि में डिजिटल माहौल में AI एजेंटों द्वारा भुगतान और लेनदेन को स्वचालित रूप से संभालने की जरूरत है। XO Cash और इन टूल्स को जोड़कर Exodus एजेंट भुगतान को स्पष्ट सीमाओं के भीतर चलाने में सहायता करता है। यह लॉन्च Solana नेटवर्क पर AI एजेंटों और स्टेबलकॉइन भुगतान को जोड़ने का एक उपयोग मामला दिखाता है। स्रोत: cointelegraph.com।"
+    },
+    "id": {
+      "title": "Exodus Luncurkan XO Cash, Stablecoin untuk Agen AI di Solana",
+      "excerpt": "Perusahaan dompet kripto Exodus merilis XO Cash di Solana, dipadukan dengan alat agar agen AI bertransaksi memakai kontrol belanja yang ditetapkan.",
+      "body": "Perusahaan dompet kripto Exodus meluncurkan XO Cash, stablecoin berbasis Solana yang berfokus pada agen AI, menurut cointelegraph.com. Token ini dirancang agar agen AI dapat melakukan pembayaran stablecoin, sementara alat perangkat lunak pendamping menerapkan kontrol pengeluaran yang telah ditetapkan untuk mengelola transaksi. Latar belakangnya adalah kebutuhan agar agen AI dapat memproses pembayaran dan transaksi secara otomatis di lingkungan digital. Dengan menggabungkan XO Cash dan alat tersebut, Exodus mendukung pembayaran agen dalam batas yang jelas. Peluncuran ini menyoroti contoh penggunaan yang menghubungkan agen AI dan pembayaran stablecoin di jaringan Solana. Sumber: cointelegraph.com."
+    }
+  }
+}

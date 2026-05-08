@@ -1,5 +1,230 @@
 [
   {
+    "id": "6ea0a1849ddf",
+    "slug": "us-senator-questions-mark-zuckerberg-on-metas-stablecoin-pla-159665",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T19:53:37.992Z",
+    "updatedAt": "2026-05-08T19:53:37.992Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/us-senator-mark-zuckerberg-meta-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/us-senator-mark-zuckerberg-meta-stablecoin",
+    "titleFingerprint": "f489579006b31fad4c8cebdf320e8a636fea3384",
+    "dedupKeys": [
+      "6ea0a1849ddf81b709498283a0c04d5c3f3d6a73",
+      "f489579006b31fad4c8cebdf320e8a636fea3384",
+      "00d28f3481f486b062e85735daf347e7a84cddb2"
+    ],
+    "imageUrl": "/images/articles/6ea0a1849ddf.jpg",
+    "i18n": {
+      "ko": {
+        "title": "메타 스테이블코인 계획에 美 워런 의원, 저커버그에 직접 질의",
+        "excerpt": "엘리자베스 워런 미국 상원의원이 콜롬비아·필리핀 크리에이터 대상 소규모 출시 일주일 뒤, 메타의 스테이블코인 통합 계획을 저커버그에게 질의했다.",
+        "body": "엘리자베스 워런 미국 상원의원이 마크 저커버그 메타 CEO에게 플랫폼 내 스테이블코인 통합 계획의 세부 내용을 요구했다. 이번 질의는 메타가 콜롬비아와 필리핀의 일부 크리에이터를 대상으로 소규모 출시를 진행한 지 일주일 뒤 이뤄졌다. 워런 의원은 해당 기능이 어떤 방식으로 플랫폼에 결합되는지와 관련 정보를 확인하려는 취지로 저커버그에게 설명을 요청했다. 메타의 움직임은 스테이블코인이 대형 소셜 플랫폼 결제·보상 기능과 연결될 수 있는지에 대한 관심을 키우고 있다. 다만 원문은 출시 범위가 제한적이라는 점 외에 추가 확대 일정이나 구체적 수치를 제시하지 않았다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Meta stablecoin plans face US Senator Warren’s questions to Zuckerberg",
+        "excerpt": "US Senator Elizabeth Warren asked Mark Zuckerberg for details on Meta’s stablecoin integration one week after a small rollout to creators in Colombia and the Philippines.",
+        "body": "US Senator Elizabeth Warren asked Meta CEO Mark Zuckerberg to provide details on the company’s plans to integrate a stablecoin into its platform. The request came one week after Meta conducted a small rollout for selected creators in Colombia and the Philippines. Warren sought information from Zuckerberg on how the feature would be connected to the platform and what details Meta could provide about the integration. The move has drawn attention to whether stablecoins could be linked with payments or creator rewards on a major social platform. The original report did not provide an expansion timeline or additional figures beyond the limited rollout. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "メタのステーブルコイン計画に米ウォーレン上院議員が質問",
+        "excerpt": "米上院議員エリザベス・ウォーレン氏は、コロンビアとフィリピンのクリエイター向け小規模展開から1週間後、メタの統合計画をザッカーバーグ氏に尋ねた。",
+        "body": "米上院議員エリザベス・ウォーレン氏は、メタのマーク・ザッカーバーグCEOに対し、同社プラットフォームへのステーブルコイン統合計画について詳細を示すよう求めた。今回の質問は、メタがコロンビアとフィリピンの一部クリエイターを対象に小規模な展開を行ってから1週間後に出された。ウォーレン氏は、この機能がどのようにプラットフォームへ組み込まれるのか、関連情報の説明を求めた形だ。メタの動きは、大手ソーシャルプラットフォームの決済やクリエイター報酬とステーブルコインが結び付く可能性への関心を高めている。ただし原文は、展開範囲が限定的である点以外に、拡大時期や具体的な数値を示していない。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "Meta稳定币计划受关注，美国参议员沃伦询问扎克伯格",
+        "excerpt": "美国参议员伊丽莎白·沃伦在Meta面向哥伦比亚和菲律宾创作者小范围推出一周后，要求扎克伯格说明稳定币整合计划细节。",
+        "body": "美国参议员伊丽莎白·沃伦要求Meta首席执行官马克·扎克伯格提供该公司在平台中整合稳定币计划的细节。此次询问发生在Meta面向哥伦比亚和菲律宾部分创作者进行小范围推出一周之后。沃伦希望了解这一功能将如何接入平台，以及Meta能够披露哪些相关信息。Meta的举动使外界更加关注稳定币是否会与大型社交平台的支付或创作者奖励功能相连接。不过，原文除说明推出范围有限外，并未提供后续扩大时间表或更具体数据。来源: cointelegraph.com."
+      },
+      "es": {
+        "title": "Planes de stablecoin de Meta reciben preguntas de Warren a Zuckerberg",
+        "excerpt": "La senadora estadounidense Elizabeth Warren pidió a Mark Zuckerberg detalles sobre la integración de una stablecoin en Meta, una semana después de una pequeña prueba con creadores en Colombia y Filipinas.",
+        "body": "La senadora estadounidense Elizabeth Warren pidió al CEO de Meta, Mark Zuckerberg, que entregue detalles sobre los planes de la compañía para integrar una stablecoin en su plataforma. La solicitud llegó una semana después de que Meta realizara un pequeño lanzamiento para creadores seleccionados en Colombia y Filipinas. Warren buscó información sobre cómo se incorporaría esta función a la plataforma y qué datos puede ofrecer Meta sobre la integración. El movimiento aumenta el interés sobre si las stablecoins pueden vincularse con pagos o recompensas para creadores en una gran red social. El reporte original no incluyó un calendario de expansión ni cifras adicionales más allá del alcance limitado del lanzamiento. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Planos de stablecoin da Meta levam Warren a questionar Zuckerberg",
+        "excerpt": "A senadora dos EUA Elizabeth Warren pediu a Mark Zuckerberg detalhes sobre a integração de uma stablecoin na Meta, uma semana após um pequeno lançamento para criadores na Colômbia e nas Filipinas.",
+        "body": "A senadora dos Estados Unidos Elizabeth Warren pediu ao CEO da Meta, Mark Zuckerberg, que forneça detalhes sobre os planos da empresa para integrar uma stablecoin à sua plataforma. O pedido ocorreu uma semana depois de a Meta realizar um pequeno lançamento para criadores selecionados na Colômbia e nas Filipinas. Warren buscou informações sobre como o recurso seria conectado à plataforma e quais detalhes a Meta poderia apresentar sobre a integração. O movimento chama atenção para a possibilidade de stablecoins se ligarem a pagamentos ou recompensas de criadores em uma grande rede social. O texto original não informou cronograma de expansão nem números adicionais além do alcance limitado do lançamento. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Metas Stablecoin-Pläne: Warren befragt Zuckerberg zu Details",
+        "excerpt": "US-Senatorin Elizabeth Warren bat Mark Zuckerberg um Details zur Stablecoin-Integration von Meta, eine Woche nach einem kleinen Start für Creator in Kolumbien und auf den Philippinen.",
+        "body": "US-Senatorin Elizabeth Warren hat Meta-CEO Mark Zuckerberg aufgefordert, Details zu den Plänen des Unternehmens für die Integration einer Stablecoin in seine Plattform vorzulegen. Die Anfrage erfolgte eine Woche, nachdem Meta einen kleinen Rollout für ausgewählte Creator in Kolumbien und auf den Philippinen durchgeführt hatte. Warren wollte wissen, wie die Funktion mit der Plattform verbunden werden soll und welche Informationen Meta dazu bereitstellen kann. Der Schritt lenkt den Blick darauf, ob Stablecoins mit Zahlungs- oder Creator-Belohnungsfunktionen großer sozialer Plattformen verknüpft werden könnten. Der Originalbericht nannte außer dem begrenzten Rollout keinen Zeitplan für eine Ausweitung und keine weiteren konkreten Zahlen. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Projet de stablecoin de Meta: Warren interroge Zuckerberg sur les détails",
+        "excerpt": "La sénatrice américaine Elizabeth Warren a demandé à Mark Zuckerberg des précisions sur l’intégration d’un stablecoin chez Meta, une semaine après un petit déploiement auprès de créateurs en Colombie et aux Philippines.",
+        "body": "La sénatrice américaine Elizabeth Warren a demandé au PDG de Meta, Mark Zuckerberg, de fournir des détails sur les plans de l’entreprise visant à intégrer un stablecoin à sa plateforme. Cette demande intervient une semaine après un petit déploiement mené par Meta auprès de créateurs sélectionnés en Colombie et aux Philippines. Warren cherche à comprendre comment cette fonction serait reliée à la plateforme et quelles informations Meta peut communiquer sur cette intégration. Cette initiative attire l’attention sur le lien possible entre stablecoins, paiements et récompenses de créateurs sur une grande plateforme sociale. Le rapport original ne donne pas de calendrier d’extension ni de chiffres supplémentaires au-delà du déploiement limité. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "خطط العملة المستقرة لدى ميتا تثير أسئلة وارن لزوكربيرغ",
+        "excerpt": "طلبت السيناتورة الأميركية إليزابيث وارن من مارك زوكربيرغ تفاصيل دمج عملة مستقرة في منصة ميتا، بعد أسبوع من طرح محدود لصناع محتوى في كولومبيا والفلبين.",
+        "body": "طلبت السيناتورة الأميركية إليزابيث وارن من مارك زوكربيرغ، الرئيس التنفيذي لشركة ميتا، تقديم تفاصيل عن خطط الشركة لدمج عملة مستقرة في منصتها. وجاء الطلب بعد أسبوع من تنفيذ ميتا طرحا محدودا لبعض صناع المحتوى في كولومبيا والفلبين. وتسعى وارن إلى معرفة كيفية ربط هذه الميزة بالمنصة وما المعلومات التي يمكن لميتا تقديمها بشأن عملية الدمج. وتزيد هذه الخطوة الاهتمام بإمكان ارتباط العملات المستقرة بمدفوعات أو مكافآت صناع المحتوى داخل منصة اجتماعية كبرى. ولم يذكر التقرير الأصلي جدولا زمنيا للتوسع أو أرقاما إضافية تتجاوز نطاق الطرح المحدود. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Meta के stablecoin प्लान पर Warren ने Zuckerberg से मांगे जवाब",
+        "excerpt": "अमेरिकी सीनेटर Elizabeth Warren ने Colombia और Philippines के क्रिएटर्स के लिए छोटे rollout के एक सप्ताह बाद Meta की stablecoin integration योजना पर Mark Zuckerberg से विवरण मांगा।",
+        "body": "अमेरिकी सीनेटर Elizabeth Warren ने Meta के CEO Mark Zuckerberg से कंपनी के platform में stablecoin integration की योजना पर विस्तृत जानकारी देने को कहा। यह सवाल Meta द्वारा Colombia और Philippines के चुनिंदा creators के लिए छोटे rollout के एक सप्ताह बाद आया। Warren ने यह जानना चाहा कि यह feature platform से किस तरह जुड़ेगा और Meta इस integration पर कौन-सी जानकारी दे सकती है। इस कदम से यह ध्यान बढ़ा है कि stablecoins किसी बड़े social platform पर payments या creator rewards से जुड़ सकते हैं या नहीं। मूल रिपोर्ट में सीमित rollout के अलावा expansion timeline या अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Rencana stablecoin Meta dipertanyakan Senator Warren ke Zuckerberg",
+        "excerpt": "Senator AS Elizabeth Warren meminta Mark Zuckerberg menjelaskan detail integrasi stablecoin Meta, sepekan setelah peluncuran kecil untuk kreator di Kolombia dan Filipina.",
+        "body": "Senator Amerika Serikat Elizabeth Warren meminta CEO Meta Mark Zuckerberg memberikan rincian tentang rencana perusahaan mengintegrasikan stablecoin ke platformnya. Permintaan itu muncul sepekan setelah Meta melakukan peluncuran kecil untuk sejumlah kreator di Kolombia dan Filipina. Warren meminta penjelasan tentang bagaimana fitur tersebut akan terhubung dengan platform serta informasi apa yang dapat diberikan Meta terkait integrasi itu. Langkah Meta ini meningkatkan perhatian terhadap kemungkinan stablecoin terkait dengan pembayaran atau reward kreator di platform sosial besar. Laporan asli tidak menyebut jadwal perluasan atau angka tambahan selain cakupan peluncuran yang terbatas. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "7fc62faea0ef",
+    "slug": "exodus-launches-ai-agent-focused-stablecoin-on-solana-464511",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T19:52:47.626Z",
+    "updatedAt": "2026-05-08T19:52:47.626Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana",
+    "titleFingerprint": "a9bc2f29614b7ada3f929617226d510e3119f4ec",
+    "dedupKeys": [
+      "7fc62faea0efcfd4b9ed59ac794b355c86823548",
+      "a9bc2f29614b7ada3f929617226d510e3119f4ec",
+      "e1179224c82791b1e7f9aef87dd36ee5b024c9b6"
+    ],
+    "imageUrl": "/images/articles/7fc62faea0ef.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Exodus, 솔라나 기반 AI 에이전트용 스테이블코인 XO Cash 출시",
+        "excerpt": "암호화폐 지갑 기업 Exodus가 솔라나에서 XO Cash 토큰을 선보이며, AI 에이전트가 사전 설정 지출 한도와 스테이블코인 결제로 거래하도록 지원한다.",
+        "body": "암호화폐 지갑 기업 Exodus가 솔라나 기반 AI 에이전트용 스테이블코인 XO Cash를 출시했다고 cointelegraph.com이 보도했다. 이 토큰은 AI 에이전트가 스테이블코인 결제를 수행할 수 있도록 설계됐으며, 함께 제공되는 소프트웨어 도구는 사전 설정된 지출 통제를 적용해 거래를 관리하게 한다. 배경에는 AI 에이전트가 디지털 환경에서 자동으로 결제와 거래를 처리해야 하는 수요가 있다. Exodus는 XO Cash와 관련 도구를 결합해 AI 에이전트의 결제 사용 범위를 명확한 한도 안에서 운영하도록 지원한다. 이번 출시는 솔라나 네트워크에서 AI 에이전트와 스테이블코인 결제를 연결하는 사례로 주목된다. 출처는 cointelegraph.com이다."
+      },
+      "en": {
+        "title": "Exodus Launches XO Cash Stablecoin for AI Agents on Solana",
+        "excerpt": "Crypto wallet firm Exodus has introduced XO Cash on Solana, pairing the token with tools that let AI agents transact under preset spending controls.",
+        "body": "Crypto wallet company Exodus has launched XO Cash, a Solana-based stablecoin focused on AI agents, according to cointelegraph.com. The token is designed to let AI agents make stablecoin payments, while the accompanying software tools apply preset spending controls to manage transactions. The context is growing demand for AI agents to handle payments and transactions automatically in digital environments. By combining XO Cash with these tools, Exodus aims to support agent payments within clearly defined limits. The launch highlights a use case linking AI agents and stablecoin payments on the Solana network. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "Exodus、ソラナ上でAIエージェント向けステーブルコインXO Cashを開始",
+        "excerpt": "暗号資産ウォレット企業Exodusは、ソラナ上でXO Cashを発表し、AIエージェントが事前設定された支出管理の下で取引できるツールを組み合わせた。",
+        "body": "暗号資産ウォレット企業Exodusが、ソラナ基盤のAIエージェント向けステーブルコインXO Cashを開始したとcointelegraph.comが報じた。このトークンはAIエージェントがステーブルコイン決済を行えるよう設計され、併せて提供されるソフトウェアツールは事前設定された支出管理を取引に適用する。背景には、AIエージェントがデジタル環境で決済や取引を自動処理する需要がある。ExodusはXO Cashと関連ツールを組み合わせ、明確な上限内でエージェント決済を運用できるよう支援する。今回の開始は、ソラナネットワーク上でAIエージェントとステーブルコイン決済を結ぶ事例として注目される。出典はcointelegraph.com。"
+      },
+      "zh": {
+        "title": "Exodus在Solana推出面向AI代理的稳定币XO Cash",
+        "excerpt": "加密钱包公司Exodus在Solana推出XO Cash，并配套软件工具，让AI代理在预设支出控制下使用稳定币完成交易。",
+        "body": "据cointelegraph.com报道，加密钱包公司Exodus推出了基于Solana、面向AI代理的稳定币XO Cash。该代币旨在让AI代理进行稳定币支付，配套软件工具则通过预设支出控制来管理交易。其背景是，AI代理在数字环境中自动处理支付和交易的需求正在出现。Exodus将XO Cash与相关工具结合，支持AI代理在明确限额内使用支付功能。此次推出显示了Solana网络上连接AI代理与稳定币支付的一项应用案例。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "Exodus lanza XO Cash, stablecoin para agentes de IA en Solana",
+        "excerpt": "La billetera cripto Exodus presentó XO Cash en Solana, con herramientas para que agentes de IA transaccionen con controles de gasto predefinidos.",
+        "body": "La empresa de billeteras cripto Exodus lanzó XO Cash, una stablecoin basada en Solana enfocada en agentes de IA, según cointelegraph.com. El token está diseñado para permitir que los agentes de IA realicen pagos con stablecoins, mientras que las herramientas de software asociadas aplican controles de gasto predefinidos para gestionar las transacciones. El contexto es la demanda de que los agentes de IA procesen pagos y operaciones de forma automática en entornos digitales. Al combinar XO Cash con esas herramientas, Exodus busca apoyar pagos de agentes dentro de límites claros. El lanzamiento destaca un caso de uso que conecta agentes de IA y pagos con stablecoins en Solana. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Exodus lança XO Cash, stablecoin para agentes de IA na Solana",
+        "excerpt": "A carteira cripto Exodus lançou o XO Cash na Solana, com ferramentas para agentes de IA transacionarem sob controles de gastos predefinidos.",
+        "body": "A empresa de carteira cripto Exodus lançou o XO Cash, uma stablecoin baseada na Solana voltada a agentes de IA, segundo o cointelegraph.com. O token foi criado para permitir que agentes de IA façam pagamentos com stablecoins, enquanto as ferramentas de software associadas aplicam controles de gastos predefinidos para gerenciar transações. O contexto é a demanda para que agentes de IA processem pagamentos e operações automaticamente em ambientes digitais. Ao combinar o XO Cash com essas ferramentas, a Exodus apoia pagamentos de agentes dentro de limites claros. O lançamento destaca um caso de uso que conecta agentes de IA e pagamentos com stablecoins na Solana. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Exodus startet XO Cash, Stablecoin für KI-Agenten auf Solana",
+        "excerpt": "Die Krypto-Wallet-Firma Exodus führt XO Cash auf Solana ein und koppelt den Token mit Tools für KI-Agenten, die unter festen Ausgabenlimits handeln.",
+        "body": "Das Krypto-Wallet-Unternehmen Exodus hat XO Cash gestartet, einen auf Solana basierenden Stablecoin für KI-Agenten, wie cointelegraph.com berichtet. Der Token soll KI-Agenten Stablecoin-Zahlungen ermöglichen, während die zugehörigen Softwaretools voreingestellte Ausgabenkontrollen auf Transaktionen anwenden. Hintergrund ist die Nachfrage, dass KI-Agenten Zahlungen und Transaktionen in digitalen Umgebungen automatisch ausführen können. Exodus verbindet XO Cash mit diesen Tools, um Agentenzahlungen innerhalb klar definierter Grenzen zu unterstützen. Der Start zeigt einen Anwendungsfall, der KI-Agenten und Stablecoin-Zahlungen im Solana-Netzwerk zusammenführt. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Exodus lance XO Cash, un stablecoin pour agents IA sur Solana",
+        "excerpt": "Le portefeuille crypto Exodus présente XO Cash sur Solana, avec des outils permettant aux agents IA de payer en stablecoins sous limites de dépenses.",
+        "body": "La société de portefeuille crypto Exodus a lancé XO Cash, un stablecoin basé sur Solana destiné aux agents IA, selon cointelegraph.com. Le jeton est conçu pour permettre aux agents IA d’effectuer des paiements en stablecoins, tandis que les outils logiciels associés appliquent des contrôles de dépenses prédéfinis pour gérer les transactions. Le contexte est la demande d’agents IA capables de traiter automatiquement paiements et transactions dans les environnements numériques. En associant XO Cash à ces outils, Exodus soutient des paiements d’agents dans des limites clairement établies. Ce lancement illustre un cas d’usage reliant agents IA et paiements en stablecoins sur Solana. Source : cointelegraph.com."
+      },
+      "ar": {
+        "title": "Exodus تطلق XO Cash كعملة مستقرة لوكلاء الذكاء الاصطناعي على سولانا",
+        "excerpt": "أطلقت شركة محفظة العملات المشفرة Exodus رمز XO Cash على سولانا مع أدوات تتيح لوكلاء الذكاء الاصطناعي إجراء معاملات ضمن ضوابط إنفاق مسبقة.",
+        "body": "أطلقت شركة محفظة العملات المشفرة Exodus عملة XO Cash المستقرة القائمة على سولانا والموجهة لوكلاء الذكاء الاصطناعي، وفق ما أفاد cointelegraph.com. صمم الرمز لتمكين وكلاء الذكاء الاصطناعي من تنفيذ مدفوعات بالعملات المستقرة، بينما تطبق أدوات البرمجيات المرافقة ضوابط إنفاق محددة مسبقا لإدارة المعاملات. ويأتي ذلك في سياق الحاجة إلى أن يعالج وكلاء الذكاء الاصطناعي المدفوعات والمعاملات تلقائيا في البيئات الرقمية. ومن خلال الجمع بين XO Cash وهذه الأدوات، تدعم Exodus مدفوعات الوكلاء ضمن حدود واضحة. يبرز الإطلاق حالة استخدام تربط وكلاء الذكاء الاصطناعي بمدفوعات العملات المستقرة على شبكة سولانا. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Exodus ने Solana पर AI एजेंटों के लिए XO Cash स्टेबलकॉइन लॉन्च किया",
+        "excerpt": "क्रिप्टो वॉलेट कंपनी Exodus ने Solana पर XO Cash पेश किया, जिसके साथ AI एजेंट तय खर्च नियंत्रणों में स्टेबलकॉइन भुगतान कर सकते हैं।",
+        "body": "क्रिप्टो वॉलेट कंपनी Exodus ने Solana आधारित, AI एजेंटों पर केंद्रित स्टेबलकॉइन XO Cash लॉन्च किया है, यह जानकारी cointelegraph.com ने दी। यह टोकन AI एजेंटों को स्टेबलकॉइन भुगतान करने देने के लिए बनाया गया है, जबकि साथ दिए गए सॉफ्टवेयर टूल लेनदेन प्रबंधन के लिए पहले से तय खर्च नियंत्रण लागू करते हैं। पृष्ठभूमि में डिजिटल माहौल में AI एजेंटों द्वारा भुगतान और लेनदेन को स्वचालित रूप से संभालने की जरूरत है। XO Cash और इन टूल्स को जोड़कर Exodus एजेंट भुगतान को स्पष्ट सीमाओं के भीतर चलाने में सहायता करता है। यह लॉन्च Solana नेटवर्क पर AI एजेंटों और स्टेबलकॉइन भुगतान को जोड़ने का एक उपयोग मामला दिखाता है। स्रोत: cointelegraph.com।"
+      },
+      "id": {
+        "title": "Exodus Luncurkan XO Cash, Stablecoin untuk Agen AI di Solana",
+        "excerpt": "Perusahaan dompet kripto Exodus merilis XO Cash di Solana, dipadukan dengan alat agar agen AI bertransaksi memakai kontrol belanja yang ditetapkan.",
+        "body": "Perusahaan dompet kripto Exodus meluncurkan XO Cash, stablecoin berbasis Solana yang berfokus pada agen AI, menurut cointelegraph.com. Token ini dirancang agar agen AI dapat melakukan pembayaran stablecoin, sementara alat perangkat lunak pendamping menerapkan kontrol pengeluaran yang telah ditetapkan untuk mengelola transaksi. Latar belakangnya adalah kebutuhan agar agen AI dapat memproses pembayaran dan transaksi secara otomatis di lingkungan digital. Dengan menggabungkan XO Cash dan alat tersebut, Exodus mendukung pembayaran agen dalam batas yang jelas. Peluncuran ini menyoroti contoh penggunaan yang menghubungkan agen AI dan pembayaran stablecoin di jaringan Solana. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "b1408ed78365",
+    "slug": "price-predictions-58-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-b-951286",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T19:51:54.514Z",
+    "updatedAt": "2026-05-08T19:51:54.514Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/price-predictions-58-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/price-predictions-58-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch",
+    "titleFingerprint": "79d9bafc321fcc7cc86cb5bd8f2989534ebebd0c",
+    "dedupKeys": [
+      "b1408ed7836535c299fa7dc035b75c40682f44f8",
+      "79d9bafc321fcc7cc86cb5bd8f2989534ebebd0c",
+      "5dc33f336e5cfb919d1e835989e76ceb9695f35d"
+    ],
+    "imageUrl": "/images/articles/b1408ed78365.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 가격 전망 5/8: BTC·ETH·BNB 주요 저항대 주목",
+        "excerpt": "5월 8일 코인텔레그래프는 비트코인이 하락 때마다 매수세를 확인하고 있지만, 8만4,000~9만2,000달러 저항 구간 돌파는 쉽지 않을 수 있다고 전했다.",
+        "body": "5월 8일 코인텔레그래프에 따르면 비트코인은 가격이 밀릴 때마다 매수자를 찾고 있다. 이번 가격 전망은 BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH 등 주요 암호화폐 차트를 다뤘다. 핵심 변수는 비트코인이 8만4,000~9만2,000달러 저항 구간을 넘어설 수 있는지다. 차트는 저가 매수 수요가 이어지고 있음을 보여주지만, 해당 저항대가 단기 상승 흐름의 부담으로 작용할 수 있음을 시사한다. 시장 참여자들은 주요 코인의 움직임과 함께 비트코인 저항 구간 돌파 여부를 주시할 전망이다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Bitcoin Price Outlook 5/8: BTC, ETH and BNB Face Key Resistance",
+        "excerpt": "On May 8, Cointelegraph reported that Bitcoin keeps finding buyers on dips, but the $84,000-$92,000 resistance cluster may be difficult for traders to overcome.",
+        "body": "According to Cointelegraph on May 8, Bitcoin continues to find buyers whenever its price pulls back. The price outlook covered major crypto charts including BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC and BCH. The key issue is whether Bitcoin can move above the $84,000-$92,000 resistance cluster. The charts show that dip-buying demand remains present, but they also suggest this resistance area could weigh on the near-term upward trend. Market participants are expected to watch the moves of major coins alongside Bitcoin’s attempt to break through that range. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "ビットコイン価格予測5/8：BTC・ETH・BNBは重要抵抗帯に注目",
+        "excerpt": "コインテレグラフは5月8日、ビットコインは下落のたびに買い手を見つけているが、8万4,000〜9万2,000ドルの抵抗帯突破は容易でない可能性があると伝えた。",
+        "body": "コインテレグラフによると、5月8日時点でビットコインは価格が押し下げられるたびに買い手を見つけている。今回の価格予測はBTC、ETH、BNB、XRP、SOL、DOGE、HYPE、ADA、ZEC、BCHなど主要暗号資産のチャートを扱った。焦点は、ビットコインが8万4,000〜9万2,000ドルの抵抗帯を上抜けできるかどうかだ。チャートは押し目買い需要が続いていることを示す一方、この抵抗帯が短期的な上昇の重荷になり得ることも示唆している。市場参加者は主要コインの動きとともに、ビットコインの抵抗帯突破を注視するとみられる。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "比特币价格预测5/8：BTC、ETH、BNB关注关键阻力区",
+        "excerpt": "Cointelegraph 5月8日报道，比特币在每次回调中仍有买盘支撑，但8.4万至9.2万美元阻力区间可能让交易者难以突破。",
+        "body": "据 Cointelegraph 5月8日报道，比特币在价格回落时仍持续找到买家。本次价格预测涵盖 BTC、ETH、BNB、XRP、SOL、DOGE、HYPE、ADA、ZEC、BCH 等主要加密货币图表。核心问题是比特币能否突破8.4万至9.2万美元的阻力集群。图表显示，逢低买入需求仍然存在，但也暗示该阻力区可能对短期上涨构成压力。市场参与者预计将关注主要币种走势，以及比特币能否突破这一关键区间。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "Predicción de Bitcoin 5/8: BTC, ETH y BNB ante resistencia clave",
+        "excerpt": "El 8 de mayo, Cointelegraph informó que Bitcoin sigue atrayendo compradores en cada caída, aunque la zona de 84.000 a 92.000 dólares podría frenar a los traders.",
+        "body": "Según Cointelegraph el 8 de mayo, Bitcoin sigue encontrando compradores cada vez que su precio retrocede. El análisis de precios incluyó los gráficos de BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC y BCH. La cuestión central es si Bitcoin puede superar el grupo de resistencia entre 84.000 y 92.000 dólares. Los gráficos muestran que la demanda de compra en caídas continúa, pero también sugieren que esa zona de resistencia podría pesar sobre la tendencia alcista de corto plazo. Los participantes del mercado observarán los movimientos de las principales monedas y el intento de Bitcoin de romper ese rango. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Previsão do Bitcoin 5/8: BTC, ETH e BNB miram resistência-chave",
+        "excerpt": "Em 8 de maio, a Cointelegraph informou que o Bitcoin segue encontrando compradores nas quedas, mas a faixa de US$ 84 mil a US$ 92 mil pode dificultar o avanço.",
+        "body": "Segundo a Cointelegraph em 8 de maio, o Bitcoin continua encontrando compradores sempre que o preço recua. A previsão de preços analisou gráficos de BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC e BCH. O ponto central é se o Bitcoin conseguirá superar o grupo de resistência entre US$ 84 mil e US$ 92 mil. Os gráficos mostram que a demanda por compras nas quedas permanece, mas também indicam que essa região pode pesar sobre a tendência de alta de curto prazo. Participantes do mercado devem acompanhar os principais criptoativos e a tentativa do Bitcoin de romper essa faixa. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Bitcoin-Prognose 5/8: BTC, ETH und BNB vor wichtiger Widerstandszone",
+        "excerpt": "Cointelegraph berichtete am 8. Mai, dass Bitcoin bei Rücksetzern weiter Käufer findet, doch die Widerstandszone von 84.000 bis 92.000 US-Dollar schwer zu überwinden sein könnte.",
+        "body": "Laut Cointelegraph vom 8. Mai findet Bitcoin weiterhin Käufer, sobald der Preis zurücksetzt. Die Kursprognose behandelte die Charts wichtiger Kryptowährungen wie BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC und BCH. Entscheidend ist, ob Bitcoin die Widerstandszone zwischen 84.000 und 92.000 US-Dollar überwinden kann. Die Charts zeigen anhaltende Nachfrage bei Kursrückgängen, deuten aber zugleich darauf hin, dass diese Zone die kurzfristige Aufwärtsbewegung belasten könnte. Marktteilnehmer dürften daher die Bewegungen der großen Coins und den Ausbruchsversuch von Bitcoin genau verfolgen. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Prévision Bitcoin 5/8 : BTC, ETH et BNB face à une résistance clé",
+        "excerpt": "Le 8 mai, Cointelegraph a indiqué que Bitcoin trouve encore des acheteurs à chaque repli, mais que la zone de 84 000 à 92 000 dollars pourrait rester difficile à franchir.",
+        "body": "Selon Cointelegraph le 8 mai, Bitcoin continue de trouver des acheteurs lorsque son prix recule. Cette prévision de prix a examiné les graphiques de BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC et BCH. L’enjeu principal est de savoir si Bitcoin peut dépasser la zone de résistance située entre 84 000 et 92 000 dollars. Les graphiques montrent que la demande lors des replis reste présente, mais suggèrent aussi que cette zone pourrait peser sur la tendance haussière à court terme. Les acteurs du marché devraient surveiller les grands cryptoactifs ainsi que la tentative de Bitcoin de franchir cette fourchette. Source : cointelegraph.com."
+      },
+      "ar": {
+        "title": "توقعات سعر بيتكوين 5/8: BTC وETH وBNB أمام مقاومة رئيسية",
+        "excerpt": "في 8 مايو، أفادت Cointelegraph بأن بيتكوين تواصل جذب المشترين عند كل تراجع، لكن نطاق المقاومة بين 84,000 و92,000 دولار قد يصعب تجاوزه.",
+        "body": "بحسب Cointelegraph في 8 مايو، تواصل بيتكوين العثور على مشترين كلما تراجع سعرها. وتناول تقرير توقعات الأسعار مخططات عملات رئيسية تشمل BTC وETH وBNB وXRP وSOL وDOGE وHYPE وADA وZEC وBCH. وتتمثل النقطة الأساسية في ما إذا كانت بيتكوين قادرة على تجاوز تجمع المقاومة بين 84,000 و92,000 دولار. وتظهر المخططات استمرار الطلب على الشراء عند الانخفاضات، لكنها تشير أيضا إلى أن هذا النطاق قد يشكل عبئا على الاتجاه الصاعد قصير الأجل. ومن المتوقع أن يراقب المشاركون في السوق تحركات العملات الكبرى ومحاولة بيتكوين اختراق هذا النطاق. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "बिटकॉइन प्राइस आउटलुक 5/8: BTC, ETH, BNB के सामने अहम रेजिस्टेंस",
+        "excerpt": "8 मई को Cointelegraph ने बताया कि बिटकॉइन हर गिरावट पर खरीदार पा रहा है, लेकिन 84,000-92,000 डॉलर का रेजिस्टेंस क्लस्टर पार करना कठिन हो सकता है।",
+        "body": "Cointelegraph के अनुसार 8 मई को बिटकॉइन कीमत में गिरावट आने पर भी खरीदार हासिल कर रहा है। इस प्राइस आउटलुक में BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC और BCH जैसी प्रमुख क्रिप्टोकरेंसी के चार्ट शामिल थे। मुख्य सवाल यह है कि क्या बिटकॉइन 84,000 से 92,000 डॉलर के रेजिस्टेंस क्लस्टर से ऊपर जा सकता है। चार्ट दिखाते हैं कि गिरावट पर खरीदारी की मांग बनी हुई है, लेकिन यह भी संकेत देते हैं कि यह रेजिस्टेंस क्षेत्र निकट अवधि की तेजी पर दबाव डाल सकता है। बाजार प्रतिभागी प्रमुख कॉइन की चाल और बिटकॉइन के इस दायरे को तोड़ने के प्रयास पर नजर रखेंगे। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Prediksi Harga Bitcoin 5/8: BTC, ETH, BNB Hadapi Resistensi Kunci",
+        "excerpt": "Pada 8 Mei, Cointelegraph melaporkan Bitcoin terus menemukan pembeli di setiap penurunan, tetapi klaster resistensi US$84.000-US$92.000 mungkin sulit ditembus trader.",
+        "body": "Menurut Cointelegraph pada 8 Mei, Bitcoin terus menemukan pembeli setiap kali harganya melemah. Prediksi harga ini membahas grafik kripto utama, termasuk BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, dan BCH. Fokus utamanya adalah apakah Bitcoin dapat menembus klaster resistensi US$84.000 hingga US$92.000. Grafik menunjukkan permintaan beli saat harga turun masih ada, tetapi juga mengisyaratkan bahwa area resistensi tersebut dapat membebani tren naik jangka pendek. Pelaku pasar diperkirakan akan memantau pergerakan koin utama serta upaya Bitcoin menembus kisaran itu. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "50d15c671680",
     "slug": "kraken-parent-payward-applies-for-occ-national-trust-bank-ch-148722",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Farage Klaim Tak Wajib Laporkan Hadiah $6,7 Juta dari Miliarder Tether",
         "excerpt": "Nigel Farage dari Reform UK mengatakan hadiah $6,7 juta dari Christopher Harborne untuk keamanan pribadi dan telah ditinjau dari semua sisi hukum.",
         "body": "Nigel Farage dari Reform UK mengklaim tidak memiliki kewajiban untuk melaporkan hadiah senilai $6,7 juta dari Christopher Harborne, yang disebut sebagai miliarder Tether. Farage mengatakan hadiah itu ditujukan untuk keamanan pribadinya dan telah ditinjau “dari setiap sudut hukum”. Pernyataan ini muncul di tengah sorotan atas sifat hadiah bernilai besar tersebut dan kewajiban pelaporan bagi politisi. Isu utamanya adalah apakah dana itu merupakan dukungan untuk aktivitas politik atau biaya keselamatan pribadi. Farage menegaskan tinjauan hukum menunjukkan hadiah itu tidak wajib dilaporkan, namun perdebatan soal hadiah besar dan transparansi kemungkinan berlanjut. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "8f8a5fb451cd",
-    "slug": "bitcoin-exchange-reserves-fall-to-two-year-low-after-8b-exod-639722",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T07:29:41.055Z",
-    "updatedAt": "2026-05-08T07:29:41.055Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/8b-bitcoin-exodus-drains-exchange-reserves-to-multi-year-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/8b-bitcoin-exodus-drains-exchange-reserves-to-multi-year-lows",
-    "titleFingerprint": "990876ac25a001459588579796eb65700d576e3f",
-    "dedupKeys": [
-      "8f8a5fb451cddebe65ea9c3039701ebd035401cf",
-      "990876ac25a001459588579796eb65700d576e3f",
-      "b62a9cda57c824e54b68988e6178bbf3c4d4220b"
-    ],
-    "imageUrl": "/images/articles/8f8a5fb451cd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 거래소 보유량 2년 최저…80억달러 유출 주목",
-        "excerpt": "주요 거래소에서 비트코인 약 10만개가 빠져나가며 보유량이 2년 최저치로 내려갔고, OTC 잔고 축소와 축적 주소 수요 증가가 유동 공급 감소를 시사했다.",
-        "body": "비트코인 거래소 보유량이 주요 거래소에서 약 10만 BTC가 빠져나간 뒤 2년 만의 최저 수준으로 떨어졌다. cointelegraph.com에 따르면 이번 유출 규모는 약 80억달러로 집계됐으며, 장외거래(OTC) 잔고도 함께 타이트해졌다. 동시에 축적 주소의 수요는 60% 증가해 시장에서 즉시 매도 가능한 유동 공급이 줄어드는 흐름을 뒷받침했다. 거래소 보유량 감소는 투자자가 코인을 외부 지갑이나 장기 보유 성격의 주소로 옮기고 있음을 보여주는 지표로 해석된다. 다만 원문은 가격 전망을 단정하지 않고, 공급 측면에서 시장 유동성이 축소되고 있다는 신호로 설명했다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Bitcoin Exchange Reserves Hit Two-Year Low After $8B Outflow",
-        "excerpt": "Nearly 100,000 Bitcoin left major exchanges as reserves fell to a two-year low, with tighter OTC balances and 60% stronger accumulator demand signaling reduced liquid supply.",
-        "body": "Bitcoin exchange reserves have dropped to their lowest level in two years after nearly 100,000 BTC exited major trading platforms. According to cointelegraph.com, the outflow was valued at about $8 billion, while over-the-counter, or OTC, balances also tightened. At the same time, demand from accumulator addresses increased by 60%, supporting the view that immediately liquid supply in the market has declined. A fall in exchange reserves is commonly read as a sign that investors are moving coins to external wallets or longer-term holding addresses. The original report did not make a firm price forecast, instead presenting the data as a supply-side signal of shrinking market liquidity. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "ビットコイン取引所準備高が2年ぶり低水準、80億ドル流出",
-        "excerpt": "主要取引所から約10万BTCが流出し、ビットコイン準備高は2年ぶり低水準に低下。OTC残高の逼迫と蓄積アドレス需要60%増が流動供給減を示した。",
-        "body": "ビットコインの取引所準備高は、主要取引所から約10万BTCが流出した後、2年ぶりの低水準に落ち込んだ。cointelegraph.comによると、今回の流出額は約80億ドルとされ、店頭取引（OTC）の残高も引き締まった。同時に、蓄積アドレスからの需要は60%増加し、市場で直ちに売却可能な流動供給が減っているとの見方を支えた。取引所準備高の減少は、投資家がコインを外部ウォレットや長期保有型のアドレスへ移している兆候として解釈される。原文は価格見通しを断定せず、供給面で市場流動性が縮小しているシグナルとして説明した。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "比特币交易所储备降至两年低点，80亿美元流出受关注",
-        "excerpt": "约10万枚比特币从主要交易所流出，储备降至两年低点；OTC余额收紧且积累地址需求增长60%，显示流动供应减少。",
-        "body": "在约10万枚BTC流出主要交易平台后，比特币交易所储备降至两年来最低水平。据cointelegraph.com报道，此次流出规模约为80亿美元，同时场外交易（OTC）余额也趋于紧张。与此同时，来自积累地址的需求增长了60%，进一步支持市场中可立即出售的流动供应正在减少这一判断。交易所储备下降通常被解读为投资者将代币转移至外部钱包或偏长期持有地址的迹象。原文并未对价格走势作出确定预测，而是将这些数据描述为供应端市场流动性收缩的信号。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Reservas de Bitcoin en exchanges caen a mínimo de dos años tras salida de US$8.000M",
-        "excerpt": "Casi 100.000 Bitcoin salieron de grandes exchanges y las reservas tocaron un mínimo de dos años, mientras los saldos OTC ajustados y la demanda acumuladora apuntan a menor oferta líquida.",
-        "body": "Las reservas de Bitcoin en exchanges cayeron a su nivel más bajo en dos años después de que casi 100.000 BTC salieran de las principales plataformas. Según cointelegraph.com, la salida fue valorada en unos US$8.000 millones, mientras que los saldos de operaciones extrabursátiles, u OTC, también se redujeron. Al mismo tiempo, la demanda de direcciones acumuladoras aumentó un 60%, lo que respalda la lectura de una menor oferta líquida disponible de inmediato en el mercado. La caída de reservas en exchanges suele interpretarse como una señal de que los inversores trasladan monedas a billeteras externas o direcciones de tenencia más prolongada. El reporte original no fijó una previsión de precio y presentó los datos como una señal de menor liquidez desde el lado de la oferta. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Reservas de Bitcoin em exchanges caem ao menor nível em dois anos após saída de US$8 bi",
-        "excerpt": "Quase 100.000 Bitcoin deixaram grandes exchanges, levando as reservas ao menor nível em dois anos, com saldos OTC mais apertados e demanda acumuladora 60% maior indicando menor oferta líquida.",
-        "body": "As reservas de Bitcoin em exchanges caíram para o menor nível em dois anos depois que quase 100.000 BTC deixaram as principais plataformas. Segundo cointelegraph.com, a saída foi estimada em cerca de US$8 bilhões, enquanto os saldos de balcão, ou OTC, também ficaram mais apertados. Ao mesmo tempo, a demanda de endereços acumuladores aumentou 60%, reforçando a leitura de que a oferta líquida imediatamente disponível no mercado diminuiu. A redução das reservas em exchanges costuma ser interpretada como sinal de que investidores estão transferindo moedas para carteiras externas ou endereços com perfil de retenção mais longo. O relatório original não cravou uma projeção de preço e descreveu os dados como um sinal de contração da liquidez pelo lado da oferta. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Bitcoin-Bestände auf Börsen fallen nach 8-Mrd.-Dollar-Abfluss auf Zweijahrestief",
-        "excerpt": "Fast 100.000 Bitcoin verließen große Börsen, die Reserven sanken auf ein Zweijahrestief; engere OTC-Bestände und 60% mehr Nachfrage von Akkumulator-Adressen deuten auf weniger liquide Versorgung.",
-        "body": "Die Bitcoin-Bestände auf Börsen sind auf den niedrigsten Stand seit zwei Jahren gefallen, nachdem fast 100.000 BTC große Handelsplattformen verlassen hatten. Laut cointelegraph.com belief sich der Abfluss auf rund 8 Milliarden US-Dollar, während auch die Bestände im außerbörslichen Handel, also OTC, knapper wurden. Gleichzeitig stieg die Nachfrage von Akkumulator-Adressen um 60%, was die Einschätzung stützt, dass die unmittelbar liquide verfügbare Menge am Markt gesunken ist. Sinkende Börsenreserven werden häufig als Zeichen gewertet, dass Anleger Coins in externe Wallets oder längerfristig ausgerichtete Adressen verschieben. Der Originalbericht traf keine feste Preisprognose, sondern beschrieb die Daten als angebotsseitiges Signal für schrumpfende Marktliquidität. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Les réserves de Bitcoin sur exchanges au plus bas depuis deux ans après 8 Md$ de sorties",
-        "excerpt": "Près de 100.000 Bitcoin ont quitté les grandes plateformes, faisant tomber les réserves à un plus bas de deux ans, tandis que les soldes OTC serrés et la demande d’accumulation en hausse de 60% signalent moins d’offre liquide.",
-        "body": "Les réserves de Bitcoin sur les exchanges sont tombées à leur plus bas niveau depuis deux ans après la sortie de près de 100.000 BTC des principales plateformes. Selon cointelegraph.com, ces sorties représentent environ 8 milliards de dollars, tandis que les soldes de gré à gré, ou OTC, se sont également resserrés. Dans le même temps, la demande des adresses d’accumulation a augmenté de 60%, ce qui appuie l’idée d’une baisse de l’offre immédiatement liquide sur le marché. La diminution des réserves sur exchanges est souvent interprétée comme le signe que les investisseurs déplacent leurs coins vers des portefeuilles externes ou des adresses orientées vers une détention plus longue. Le rapport original ne formule pas de prévision ferme sur les prix et présente ces données comme un signal de contraction de la liquidité côté offre. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "احتياطيات بيتكوين في المنصات تهبط لأدنى مستوى في عامين بعد خروج 8 مليارات دولار",
-        "excerpt": "خرج نحو 100 ألف بيتكوين من منصات كبرى، فهبطت الاحتياطيات لأدنى مستوى في عامين، مع تضييق أرصدة OTC وزيادة طلب عناوين التجميع 60% بما يشير إلى تراجع المعروض السائل.",
-        "body": "هبطت احتياطيات بيتكوين في منصات التداول إلى أدنى مستوى لها خلال عامين بعد خروج نحو 100 ألف BTC من المنصات الرئيسية. ووفقًا لـ cointelegraph.com، بلغت قيمة هذا الخروج نحو 8 مليارات دولار، كما أصبحت أرصدة التداول خارج المنصات، أو OTC، أكثر ضيقًا. وفي الوقت نفسه، ارتفع الطلب من عناوين التجميع بنسبة 60%، ما يدعم قراءة تفيد بأن المعروض السائل المتاح للبيع الفوري في السوق قد تراجع. ويُفسَّر انخفاض احتياطيات المنصات عادةً على أنه إشارة إلى نقل المستثمرين للعملات إلى محافظ خارجية أو عناوين ذات طابع احتفاظ أطول. ولم يقدم التقرير الأصلي توقعًا حاسمًا للسعر، بل عرض البيانات كإشارة من جانب العرض إلى تقلص سيولة السوق. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Bitcoin एक्सचेंज रिजर्व दो साल के निचले स्तर पर, $8B निकासी ने खींचा ध्यान",
-        "excerpt": "करीब 100,000 Bitcoin प्रमुख एक्सचेंजों से निकले और रिजर्व दो साल के निचले स्तर पर आ गया; OTC बैलेंस सख्त होने और accumulator addresses की मांग 60% बढ़ने से लिक्विड सप्लाई घटने का संकेत मिला।",
-        "body": "करीब 100,000 BTC के प्रमुख ट्रेडिंग प्लेटफॉर्मों से बाहर निकलने के बाद Bitcoin एक्सचेंज रिजर्व दो साल के सबसे निचले स्तर पर आ गया। cointelegraph.com के अनुसार, इस निकासी का मूल्य लगभग $8 अरब था, जबकि ओवर-द-काउंटर यानी OTC बैलेंस भी सख्त हुआ। इसी दौरान accumulator addresses की मांग 60% बढ़ी, जिससे यह संकेत मजबूत हुआ कि बाजार में तुरंत बिक सकने वाली लिक्विड सप्लाई कम हुई है। एक्सचेंज रिजर्व में गिरावट को आम तौर पर इस संकेत के रूप में देखा जाता है कि निवेशक कॉइन को बाहरी वॉलेट या लंबी अवधि की होल्डिंग वाले पतों पर ले जा रहे हैं। मूल रिपोर्ट ने कीमत पर कोई निश्चित अनुमान नहीं दिया और इन आंकड़ों को सप्लाई पक्ष से बाजार की घटती लिक्विडिटी का संकेत बताया। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Cadangan Bitcoin di Exchange Turun ke Level Terendah Dua Tahun Usai Arus Keluar US$8 Miliar",
-        "excerpt": "Hampir 100.000 Bitcoin keluar dari exchange besar sehingga cadangan menyentuh level terendah dua tahun, sementara saldo OTC mengetat dan permintaan alamat akumulator naik 60% menandakan pasokan likuid berkurang.",
-        "body": "Cadangan Bitcoin di exchange turun ke level terendah dalam dua tahun setelah hampir 100.000 BTC keluar dari platform perdagangan utama. Menurut cointelegraph.com, arus keluar tersebut bernilai sekitar US$8 miliar, sementara saldo over-the-counter, atau OTC, juga mengetat. Pada saat yang sama, permintaan dari alamat akumulator meningkat 60%, mendukung pandangan bahwa pasokan likuid yang segera tersedia di pasar telah berkurang. Penurunan cadangan exchange biasanya dibaca sebagai tanda bahwa investor memindahkan koin ke dompet eksternal atau alamat dengan karakter kepemilikan jangka lebih panjang. Laporan asli tidak menetapkan proyeksi harga, melainkan menggambarkan data ini sebagai sinyal dari sisi pasokan bahwa likuiditas pasar menyusut. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "f26299e80f35",
-    "slug": "aws-northern-virginia-data-center-overheats-impacting-coinba-999736",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T07:28:29.357Z",
-    "updatedAt": "2026-05-08T07:28:29.357Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others",
-    "titleFingerprint": "67ec400457d2815449c8d3559423e6b5bb75f3cd",
-    "dedupKeys": [
-      "f26299e80f3549ed42f656171eec8b5aed0837e9",
-      "67ec400457d2815449c8d3559423e6b5bb75f3cd",
-      "17d400c8b7c7abfc5ed946766a0449bc8efb699c"
-    ],
-    "imageUrl": "/images/articles/f26299e80f35.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AWS 북버지니아 데이터센터 과열, 코인베이스 거래 ‘취소 전용’ 전환과 재개 예고",
-        "excerpt": "암호화폐 거래소 코인베이스는 금요일 AWS 북버지니아 데이터센터 과열 영향으로 자사 시장을 ‘취소 전용’ 모드에 두고 있으며, 거래 재활성화는 ‘곧’ 시작될 예정이라고 밝혔다.",
-        "body": "금요일 AWS 북버지니아 데이터센터에서 과열 문제가 발생해 코인베이스 시장 운영에 영향을 미쳤다. 코인베이스는 자사 시장이 현재 ‘취소 전용’ 모드에 놓이고 있다고 밝혔으며, 이는 신규 거래보다 기존 주문 취소에 초점을 둔 제한적 운영 상태를 뜻한다. 이번 상황의 핵심 배경은 AWS Northern Virginia 데이터센터의 과열이며, 원문은 이 문제가 코인베이스에 영향을 줬다고 전했다. 코인베이스는 거래를 ‘곧’ 다시 활성화하기 시작할 것이라고 설명해 단계적 정상화 가능성을 시사했다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "AWS Northern Virginia Data Center Overheats, Coinbase Shifts Markets to Cancel-Only",
-        "excerpt": "Coinbase said Friday that its markets are being placed in cancel-only mode after overheating at an AWS Northern Virginia data center, with trading expected to begin re-enabling shortly.",
-        "body": "On Friday, overheating at an AWS Northern Virginia data center affected Coinbase market operations. Coinbase said its markets are being placed in “cancel only” mode, a limited operating state focused on canceling existing orders rather than opening new trades. The key context is the overheating issue at the AWS Northern Virginia data center, which the original report said impacted Coinbase. Coinbase added that it would begin to re-enable trading “shortly,” pointing to a gradual move back toward normal market activity. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "AWS北バージニアのデータセンター過熱、Coinbase市場がキャンセル専用へ",
-        "excerpt": "Coinbaseは金曜日、AWS北バージニアのデータセンター過熱の影響で市場を「キャンセル専用」モードに置いており、取引の再有効化を「まもなく」始めると述べた。",
-        "body": "金曜日、AWS北バージニアのデータセンターで過熱問題が発生し、Coinbaseの市場運営に影響が出た。Coinbaseは、自社市場が現在「キャンセル専用」モードに置かれていると明らかにした。これは新規取引よりも既存注文のキャンセルを中心とする限定的な運用状態を意味する。今回の背景はAWS Northern Virginiaデータセンターの過熱であり、原文はこの問題がCoinbaseに影響したと伝えた。Coinbaseは取引を「まもなく」再有効化し始めるとしており、段階的な正常化の可能性を示した。出典: cointelegraph.com。"
-      },
-      "zh": {
-        "title": "AWS北弗吉尼亚数据中心过热，Coinbase市场转入仅取消模式",
-        "excerpt": "Coinbase周五表示，受AWS北弗吉尼亚数据中心过热影响，其市场正被置于“仅取消”模式，并将“很快”开始重新启用交易。",
-        "body": "周五，AWS北弗吉尼亚数据中心发生过热问题，影响了Coinbase的市场运营。Coinbase表示，其市场目前正被置于“仅取消”模式，这意味着运营受到限制，重点是取消现有订单，而不是开启新的交易。此次事件的核心背景是AWS Northern Virginia数据中心过热，原文称该问题对Coinbase造成影响。Coinbase还表示，将“很快”开始重新启用交易，显示市场功能可能逐步恢复正常。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Centro de datos AWS en Virginia del Norte se sobrecalienta y Coinbase limita mercados",
-        "excerpt": "Coinbase dijo el viernes que sus mercados están pasando a modo “solo cancelación” tras el sobrecalentamiento de un centro de datos de AWS en Virginia del Norte, y que reactivará operaciones pronto.",
-        "body": "El viernes, un sobrecalentamiento en un centro de datos de AWS en Virginia del Norte afectó las operaciones de mercado de Coinbase. La compañía dijo que sus mercados están siendo colocados en modo “solo cancelación”, un estado operativo limitado centrado en cancelar órdenes existentes en lugar de abrir nuevas operaciones. El contexto principal es el problema de sobrecalentamiento en el centro de datos AWS Northern Virginia, que según el reporte original impactó a Coinbase. Coinbase agregó que comenzará a reactivar las operaciones “en breve”, lo que apunta a una normalización gradual. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Data center AWS na Virgínia do Norte superaquece e Coinbase limita mercados",
-        "excerpt": "A Coinbase disse na sexta-feira que seus mercados estão sendo colocados em modo “somente cancelamento” após superaquecimento em um data center da AWS na Virgínia do Norte, com reativação em breve.",
-        "body": "Na sexta-feira, um superaquecimento em um data center da AWS na Virgínia do Norte afetou as operações de mercado da Coinbase. A empresa afirmou que seus mercados estão sendo colocados em modo “somente cancelamento”, uma condição operacional limitada voltada ao cancelamento de ordens existentes, em vez da abertura de novas negociações. O contexto central é o problema de superaquecimento no data center AWS Northern Virginia, que o relato original disse ter impactado a Coinbase. A Coinbase acrescentou que começará a reativar as negociações “em breve”, indicando possível normalização gradual. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "AWS-Rechenzentrum in Nord-Virginia überhitzt, Coinbase stellt Märkte auf Cancel-Only",
-        "excerpt": "Coinbase erklärte am Freitag, dass seine Märkte nach einer Überhitzung in einem AWS-Rechenzentrum in Nord-Virginia in den „Cancel-only“-Modus versetzt werden und der Handel bald wieder aktiviert wird.",
-        "body": "Am Freitag beeinträchtigte eine Überhitzung in einem AWS-Rechenzentrum in Nord-Virginia den Marktbetrieb von Coinbase. Coinbase teilte mit, dass seine Märkte derzeit in den „Cancel only“-Modus versetzt werden. Das bedeutet einen eingeschränkten Betriebszustand, der auf das Stornieren bestehender Aufträge statt auf neue Transaktionen ausgerichtet ist. Der zentrale Hintergrund ist die Überhitzung im AWS Northern Virginia Data Center, die laut Originalbericht Coinbase betraf. Coinbase erklärte außerdem, der Handel werde „shortly“ wieder aktiviert, was auf eine schrittweise Rückkehr zum Normalbetrieb hindeutet. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Surchauffe d’un centre de données AWS en Virginie du Nord, Coinbase limite ses marchés",
-        "excerpt": "Coinbase a déclaré vendredi que ses marchés étaient placés en mode « annulation uniquement » après la surchauffe d’un centre de données AWS en Virginie du Nord, avec une reprise des échanges prévue bientôt.",
-        "body": "Vendredi, une surchauffe dans un centre de données AWS en Virginie du Nord a affecté les opérations de marché de Coinbase. Coinbase a indiqué que ses marchés étaient placés en mode « annulation uniquement », un état de fonctionnement limité centré sur l’annulation des ordres existants plutôt que sur l’ouverture de nouvelles transactions. Le contexte principal est la surchauffe du centre de données AWS Northern Virginia, que le rapport original dit avoir impacté Coinbase. Coinbase a ajouté qu’elle commencerait à réactiver les échanges « sous peu », suggérant une normalisation progressive. Source : cointelegraph.com."
-      },
-      "ar": {
-        "title": "ارتفاع حرارة مركز بيانات AWS في شمال فيرجينيا يدفع Coinbase لوضع الإلغاء فقط",
-        "excerpt": "قالت Coinbase يوم الجمعة إن أسواقها وُضعت في وضع “الإلغاء فقط” بعد ارتفاع حرارة مركز بيانات AWS في شمال فيرجينيا، وإنها ستبدأ إعادة تفعيل التداول “قريبًا”.",
-        "body": "يوم الجمعة، أثرت مشكلة ارتفاع الحرارة في مركز بيانات AWS بشمال فيرجينيا على عمليات أسواق Coinbase. وقالت Coinbase إن أسواقها يجري وضعها في وضع “الإلغاء فقط”، وهو وضع تشغيل محدود يركز على إلغاء الأوامر القائمة بدل فتح تداولات جديدة. وتتمثل خلفية الحدث في ارتفاع حرارة مركز بيانات AWS Northern Virginia، والذي ذكر التقرير الأصلي أنه أثر في Coinbase. وأضافت Coinbase أنها ستبدأ إعادة تفعيل التداول “قريبًا”، ما يشير إلى احتمال عودة تدريجية نحو التشغيل الطبيعي. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "AWS नॉर्दर्न वर्जीनिया डेटा सेंटर ओवरहीट, Coinbase बाजार cancel-only मोड में",
-        "excerpt": "Coinbase ने शुक्रवार को कहा कि AWS नॉर्दर्न वर्जीनिया डेटा सेंटर में ओवरहीटिंग के असर से उसके बाजार “cancel only” मोड में रखे जा रहे हैं और ट्रेडिंग “जल्द” फिर सक्षम होगी।",
-        "body": "शुक्रवार को AWS नॉर्दर्न वर्जीनिया डेटा सेंटर में ओवरहीटिंग की समस्या ने Coinbase के बाजार संचालन को प्रभावित किया। Coinbase ने कहा कि उसके बाजारों को “cancel only” मोड में रखा जा रहा है। इसका मतलब सीमित संचालन है, जिसमें नई ट्रेड खोलने के बजाय मौजूदा ऑर्डर रद्द करने पर ध्यान रहता है। इस घटना की मुख्य पृष्ठभूमि AWS Northern Virginia डेटा सेंटर की ओवरहीटिंग है, जिसे मूल रिपोर्ट ने Coinbase पर असर डालने वाला बताया। Coinbase ने यह भी कहा कि वह ट्रेडिंग को “जल्द” फिर सक्षम करना शुरू करेगी, जिससे क्रमिक सामान्यीकरण की संभावना दिखती है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Pusat Data AWS Northern Virginia Overheat, Coinbase Alihkan Pasar ke Cancel-Only",
-        "excerpt": "Coinbase mengatakan pada Jumat bahwa pasarnya ditempatkan dalam mode “cancel only” setelah pusat data AWS Northern Virginia mengalami overheat, dan perdagangan akan mulai diaktifkan kembali “segera”.",
-        "body": "Pada Jumat, masalah overheat di pusat data AWS Northern Virginia memengaruhi operasi pasar Coinbase. Coinbase mengatakan pasarnya sedang ditempatkan dalam mode “cancel only”, yaitu kondisi operasi terbatas yang berfokus pada pembatalan order yang sudah ada, bukan pembukaan transaksi baru. Latar utama peristiwa ini adalah overheat di pusat data AWS Northern Virginia, yang menurut laporan asli berdampak pada Coinbase. Coinbase menambahkan bahwa pihaknya akan mulai mengaktifkan kembali perdagangan “segera”, menunjukkan kemungkinan pemulihan bertahap menuju operasi normal. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "b42136a996bd",
-    "slug": "aptos-foundation-aptos-labs-commit-50m-to-development-as-it--289202",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T07:27:21.930Z",
-    "updatedAt": "2026-05-08T07:27:21.930Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/aptos-foundation-labs-commit-50m-sees-opportunity-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/aptos-foundation-labs-commit-50m-sees-opportunity-ai-agents",
-    "titleFingerprint": "56267d69b01dffaecf034b9ba7ec3c4daefc29ec",
-    "dedupKeys": [
-      "b42136a996bda298be63c964befaecd8d7125464",
-      "56267d69b01dffaecf034b9ba7ec3c4daefc29ec",
-      "34281f9dbf63096000269487e59d0c290664e91b"
-    ],
-    "imageUrl": "/images/articles/b42136a996bd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "앱토스, AI 에이전트 시대 겨냥해 개발에 5천만달러 투입",
-        "excerpt": "앱토스 재단과 앱토스 랩스는 5월 8일 AI 에이전트 채택 확대에 대비해 사람 개입 없이 1초 미만 확정성을 지원하는 인프라 개발에 5천만달러를 투입한다고 밝혔다.",
-        "body": "앱토스 재단과 앱토스 랩스는 5월 8일 블록체인 개발과 인프라 확장을 위해 5천만달러를 투입한다고 밝혔다. 이번 계획의 초점은 AI 에이전트가 사람의 개입 없이 거래와 정산을 처리할 수 있도록 1초 미만 확정성을 제공하는 기반을 강화하는 데 있다. 앱토스는 차세대 AI 에이전트 채택을 지원하려면 빠른 finality와 자동화 친화적 인프라가 핵심이라고 설명했다. 이번 자금은 개발 역량과 생태계 기반을 넓히는 데 쓰일 예정이다. 다만 구체적인 집행 일정이나 세부 배분 항목은 공개되지 않았다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Aptos Puts $50M Into Development for an AI Agent Future",
-        "excerpt": "Aptos Foundation and Aptos Labs said on May 8 they will commit $50 million to infrastructure that supports sub-second finality without human intervention as AI agent adoption grows.",
-        "body": "Aptos Foundation and Aptos Labs said on May 8 that they will commit $50 million to blockchain development and infrastructure expansion. The plan focuses on strengthening systems that can provide sub-second finality so AI agents can handle transactions and settlement without human intervention. Aptos said fast finality and automation-ready infrastructure are key to supporting the next wave of AI agent adoption. The funding is expected to broaden development capacity and the ecosystem’s technical base. Specific timelines or detailed allocation items were not disclosed. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "Aptos、AIエージェント時代へ開発に5,000万ドル投入",
-        "excerpt": "Aptos FoundationとAptos Labsは5月8日、AIエージェント普及に備え、人の介入なしに1秒未満の確定性を支えるインフラ開発へ5,000万ドルを投じると発表した。",
-        "body": "Aptos FoundationとAptos Labsは5月8日、ブロックチェーン開発とインフラ拡張に5,000万ドルを投じると明らかにした。今回の計画は、AIエージェントが人の介入なしに取引や決済を処理できるよう、1秒未満のファイナリティを提供する基盤を強化することに重点を置く。Aptosは、次のAIエージェント採用拡大を支えるには、高速な確定性と自動化に適したインフラが重要だと説明した。資金は開発力とエコシステムの技術基盤拡大に使われる見通しだ。具体的な実行時期や詳細な配分は公表されていない。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "Aptos投入5000万美元开发，押注AI代理未来",
-        "excerpt": "Aptos Foundation和Aptos Labs于5月8日表示，将投入5000万美元建设基础设施，以在人类无需介入的情况下支持亚秒级最终确定性，迎接AI代理采用增长。",
-        "body": "Aptos Foundation和Aptos Labs于5月8日表示，将投入5000万美元用于区块链开发和基础设施扩展。该计划重点是强化可提供亚秒级最终确定性的基础设施，使AI代理能够在无需人工介入的情况下处理交易和结算。Aptos称，要支持下一波AI代理采用，快速最终确定性以及适合自动化运行的基础设施是关键。相关资金预计将用于扩大开发能力和生态系统的技术基础。不过，具体执行时间表和资金细分用途尚未披露。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Aptos destina $50M al desarrollo para el futuro de agentes de IA",
-        "excerpt": "Aptos Foundation y Aptos Labs dijeron el 8 de mayo que comprometerán 50 millones de dólares a infraestructura con finalidad en menos de un segundo y sin intervención humana ante la adopción de agentes de IA.",
-        "body": "Aptos Foundation y Aptos Labs dijeron el 8 de mayo que comprometerán 50 millones de dólares al desarrollo de blockchain y a la expansión de infraestructura. El plan se centra en reforzar sistemas capaces de ofrecer finalidad en menos de un segundo para que los agentes de IA procesen transacciones y liquidaciones sin intervención humana. Aptos afirmó que la finalidad rápida y una infraestructura preparada para la automatización son claves para apoyar la próxima ola de adopción de agentes de IA. Los fondos ampliarán la capacidad de desarrollo y la base técnica del ecosistema. No se divulgaron calendarios ni asignaciones detalladas. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Aptos investe US$ 50 mi em desenvolvimento para futuro com agentes de IA",
-        "excerpt": "A Aptos Foundation e a Aptos Labs disseram em 8 de maio que destinarão US$ 50 milhões a uma infraestrutura com finalidade abaixo de um segundo e sem intervenção humana para apoiar agentes de IA.",
-        "body": "A Aptos Foundation e a Aptos Labs disseram em 8 de maio que destinarão US$ 50 milhões ao desenvolvimento de blockchain e à expansão de infraestrutura. O plano foca em fortalecer sistemas capazes de oferecer finalidade em menos de um segundo para que agentes de IA processem transações e liquidações sem intervenção humana. A Aptos afirmou que finality rápida e infraestrutura adequada à automação são essenciais para sustentar a próxima onda de adoção de agentes de IA. Os recursos devem ampliar a capacidade de desenvolvimento e a base técnica do ecossistema. Cronogramas e divisões específicas não foram divulgados. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Aptos investiert 50 Mio. Dollar in Entwicklung für KI-Agenten",
-        "excerpt": "Aptos Foundation und Aptos Labs erklärten am 8. Mai, sie würden 50 Millionen Dollar in Infrastruktur investieren, die Finalität unter einer Sekunde ohne menschliches Eingreifen für KI-Agenten ermöglicht.",
-        "body": "Aptos Foundation und Aptos Labs erklärten am 8. Mai, dass sie 50 Millionen Dollar in Blockchain-Entwicklung und den Ausbau der Infrastruktur investieren werden. Der Plan konzentriert sich auf Systeme, die Finalität in weniger als einer Sekunde ermöglichen, damit KI-Agenten Transaktionen und Abwicklungen ohne menschliches Eingreifen verarbeiten können. Aptos sagte, schnelle Finalität und automatisierungsfreundliche Infrastruktur seien entscheidend, um die nächste Welle der KI-Agenten-Adoption zu unterstützen. Die Mittel sollen Entwicklungskapazitäten und die technische Basis des Ökosystems erweitern. Konkrete Zeitpläne oder detaillierte Zuweisungen wurden nicht genannt. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Aptos engage 50 M$ pour préparer l’avenir des agents IA",
-        "excerpt": "Aptos Foundation et Aptos Labs ont déclaré le 8 mai qu’ils engageraient 50 millions de dollars dans une infrastructure offrant une finalité en moins d’une seconde sans intervention humaine pour les agents IA.",
-        "body": "Aptos Foundation et Aptos Labs ont déclaré le 8 mai qu’ils engageraient 50 millions de dollars dans le développement blockchain et l’expansion de l’infrastructure. Le plan vise à renforcer des systèmes capables d’offrir une finalité en moins d’une seconde afin que les agents IA puissent traiter transactions et règlements sans intervention humaine. Aptos a indiqué que la finalité rapide et une infrastructure adaptée à l’automatisation sont essentielles pour soutenir la prochaine vague d’adoption des agents IA. Les fonds doivent élargir les capacités de développement et la base technique de l’écosystème. Aucun calendrier ni détail d’allocation n’a été communiqué. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "أبتوس تخصص 50 مليون دولار للتطوير استعدادا لمستقبل وكلاء الذكاء الاصطناعي",
-        "excerpt": "قالت Aptos Foundation وAptos Labs في 8 مايو إنهما ستخصصان 50 مليون دولار لبنية تحتية تدعم نهائية في أقل من ثانية ومن دون تدخل بشري مع توسع اعتماد وكلاء الذكاء الاصطناعي.",
-        "body": "قالت Aptos Foundation وAptos Labs في 8 مايو إنهما ستخصصان 50 مليون دولار لتطوير البلوكشين وتوسيع البنية التحتية. تركز الخطة على تعزيز أنظمة قادرة على توفير نهائية في أقل من ثانية، بحيث تستطيع وكلاء الذكاء الاصطناعي معالجة المعاملات والتسويات من دون تدخل بشري. وأوضحت أبتوس أن سرعة النهائية والبنية التحتية الملائمة للأتمتة عنصران أساسيان لدعم الموجة المقبلة من اعتماد وكلاء الذكاء الاصطناعي. ومن المتوقع أن توسع الأموال قدرات التطوير والقاعدة التقنية للنظام البيئي. ولم تكشف الشركة عن جدول زمني محدد أو تفاصيل توزيع التمويل. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "Aptos ने AI एजेंट भविष्य के लिए विकास में $50M लगाने की घोषणा की",
-        "excerpt": "Aptos Foundation और Aptos Labs ने 8 मई को कहा कि वे AI एजेंट अपनाने की अगली लहर के लिए बिना मानवीय हस्तक्षेप सब-सेकंड फाइनलिटी देने वाले इन्फ्रास्ट्रक्चर में $50 मिलियन लगाएंगे।",
-        "body": "Aptos Foundation और Aptos Labs ने 8 मई को कहा कि वे ब्लॉकचेन विकास और इन्फ्रास्ट्रक्चर विस्तार के लिए $50 मिलियन लगाएंगे। इस योजना का केंद्र ऐसे आधार को मजबूत करना है जो AI एजेंटों को मानवीय हस्तक्षेप के बिना लेनदेन और सेटलमेंट संभालने के लिए एक सेकंड से कम समय में finality दे सके। Aptos ने कहा कि AI एजेंट अपनाने की अगली लहर को सहारा देने के लिए तेज finality और ऑटोमेशन के अनुकूल इन्फ्रास्ट्रक्चर अहम हैं। यह धन विकास क्षमता और इकोसिस्टम की तकनीकी बुनियाद को बढ़ाने में इस्तेमाल होगा। ठोस समयसीमा या विस्तृत आवंटन का खुलासा नहीं किया गया। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Aptos Siapkan $50 Juta untuk Pengembangan Era Agen AI",
-        "excerpt": "Aptos Foundation dan Aptos Labs pada 8 Mei mengatakan akan mengucurkan $50 juta untuk infrastruktur yang mendukung finality di bawah satu detik tanpa campur tangan manusia saat adopsi agen AI meningkat.",
-        "body": "Aptos Foundation dan Aptos Labs pada 8 Mei mengatakan akan mengucurkan $50 juta untuk pengembangan blockchain dan perluasan infrastruktur. Rencana ini berfokus pada penguatan sistem yang dapat memberi finality di bawah satu detik agar agen AI bisa menangani transaksi dan penyelesaian tanpa campur tangan manusia. Aptos menyebut finality cepat dan infrastruktur yang siap untuk otomasi sebagai kunci untuk mendukung gelombang berikutnya adopsi agen AI. Dana tersebut diperkirakan akan memperluas kapasitas pengembangan dan basis teknis ekosistem. Jadwal pelaksanaan dan rincian alokasi belum diungkapkan. Sumber: cointelegraph.com"
       }
     }
   }
