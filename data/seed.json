@@ -1,5 +1,230 @@
 [
   {
+    "id": "d3b7495eab22",
+    "slug": "austrac-launches-supervision-campaigns-as-australia39s-crypt-783051",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T10:45:24.737Z",
+    "updatedAt": "2026-05-08T10:45:24.737Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367236/austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-kick-in",
+    "canonicalUrl": "https://decrypt.co/367236/austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-kick-in",
+    "titleFingerprint": "798cae90185a84ad25a9911bb838c71ef991261c",
+    "dedupKeys": [
+      "d3b7495eab22133110b497f8e47a25a49ca82305",
+      "798cae90185a84ad25a9911bb838c71ef991261c",
+      "97833009601b38f8e728183a87f6bb83c03f742f"
+    ],
+    "imageUrl": "/images/articles/d3b7495eab22.jpg",
+    "i18n": {
+      "ko": {
+        "title": "호주 AUSTRAC, 암호화폐 규제 개편 맞춰 감독 캠페인 착수",
+        "excerpt": "호주 금융정보기관 AUSTRAC가 새 암호화폐 규제 시행에 맞춰 장외거래 운영자와 현지 거래소를 대상으로 감독 캠페인을 시작했다.",
+        "body": "호주 금융정보기관 AUSTRAC는 암호화폐 규제 개편이 시행되는 가운데 장외거래 운영자와 현지 거래소를 대상으로 감독 캠페인을 시작했다. 이번 조치는 새 법률이 암호화폐 보관과 중개 서비스까지 감독 범위를 넓히는 데 맞춰 진행된다. 캠페인의 핵심 대상은 장외거래 사업자와 호주 내 거래소다. 기존 감시 체계가 거래소 중심이었다면, 개편 이후에는 고객 자산 보관과 중개 활동도 규제 대상에 포함된다. 이에 따라 관련 사업자는 내부 통제와 보고 의무를 재점검해야 할 가능성이 커졌다. 이번 감독 강화는 호주 암호화폐 시장의 규정 준수 압박을 높이고, 현지 서비스 제공자의 운영 방식에도 영향을 줄 전망이다. 출처 decrypt.co에 따르면 AUSTRAC의 캠페인은 새 규제 틀이 적용되는 시점에 맞춰 추진되고 있다."
+      },
+      "en": {
+        "title": "Australia’s AUSTRAC Starts Crypto Oversight Campaigns Under New Rules",
+        "excerpt": "Australia’s AUSTRAC has launched supervision campaigns targeting OTC operators and local exchanges as new crypto laws expand oversight.",
+        "body": "Australia’s financial intelligence agency AUSTRAC has launched supervision campaigns targeting over-the-counter crypto operators and local exchanges as the country’s crypto regulatory reforms take effect. The move comes as new laws expand oversight to include custody and brokerage services. The main focus of the campaigns is on OTC businesses and domestic exchanges. While earlier supervision centered largely on exchanges, the revised framework brings customer asset custody and brokerage activity into the regulatory scope. As a result, affected businesses may need to review internal controls and reporting obligations. The tighter supervision is expected to increase compliance pressure across Australia’s crypto market and influence how local service providers operate. According to decrypt.co, AUSTRAC’s campaigns are being rolled out as the new regulatory framework begins to apply."
+      },
+      "ja": {
+        "title": "豪AUSTRAC、新暗号資産規制に合わせ監督キャンペーン開始",
+        "excerpt": "豪金融情報機関AUSTRACは、新たな暗号資産規制の施行に合わせ、OTC事業者と国内取引所を対象に監督キャンペーンを始めた。",
+        "body": "オーストラリアの金融情報機関AUSTRACは、暗号資産規制改革が施行される中、店頭取引（OTC）事業者と国内取引所を対象に監督キャンペーンを開始した。今回の動きは、新法が暗号資産のカストディと仲介サービスまで監督範囲を広げることに合わせたものだ。キャンペーンの主な対象はOTC事業者と豪州内の取引所である。従来の監督が取引所を中心としていたのに対し、改正後の枠組みでは顧客資産の保管や仲介活動も規制対象に含まれる。これにより、関連事業者は内部管理や報告義務の点検を求められる可能性が高まる。監督強化は豪州の暗号資産市場におけるコンプライアンス圧力を高め、現地サービス提供者の運営にも影響しそうだ。decrypt.coによると、AUSTRACのキャンペーンは新規制枠組みの適用時期に合わせて進められている。"
+      },
+      "zh": {
+        "title": "澳大利亚AUSTRAC启动加密监管行动，配合新规落地",
+        "excerpt": "澳大利亚金融情报机构AUSTRAC在新加密法规生效之际，启动针对场外交易运营商和本地交易所的监管行动。",
+        "body": "澳大利亚金融情报机构AUSTRAC在加密货币监管改革生效之际，启动了针对场外交易运营商和本地交易所的监管行动。此举配合新法律扩大监管范围，将加密资产托管和经纪服务纳入监督。此次行动的重点对象是场外交易业务和澳大利亚本土交易所。此前监管主要集中在交易所，而改革后的框架将客户资产保管和经纪活动也纳入监管范围。因此，相关企业可能需要重新检查内部控制和报告义务。监管加强预计将提高澳大利亚加密市场的合规压力，并影响本地服务提供商的运营方式。据decrypt.co报道，AUSTRAC的监管行动正随着新监管框架开始适用而推进。"
+      },
+      "es": {
+        "title": "AUSTRAC inicia campañas de supervisión cripto bajo nuevas normas en Australia",
+        "excerpt": "AUSTRAC, la agencia australiana de inteligencia financiera, lanzó campañas de supervisión sobre operadores OTC y exchanges locales.",
+        "body": "La agencia australiana de inteligencia financiera AUSTRAC lanzó campañas de supervisión dirigidas a operadores cripto extrabursátiles y exchanges locales mientras entran en vigor las reformas regulatorias del país. La medida acompaña nuevas leyes que amplían la supervisión a los servicios de custodia y corretaje. El foco principal está en los negocios OTC y las plataformas nacionales. Si antes la vigilancia se centraba sobre todo en los exchanges, el marco revisado incluye ahora la custodia de activos de clientes y la actividad de intermediación. Por ello, las empresas afectadas podrían tener que revisar controles internos y obligaciones de reporte. El refuerzo de la supervisión elevará la presión de cumplimiento en el mercado cripto australiano y puede influir en la operación de los proveedores locales. Según decrypt.co, las campañas de AUSTRAC avanzan junto con la aplicación del nuevo marco regulatorio."
+      },
+      "pt": {
+        "title": "AUSTRAC inicia supervisão cripto na Austrália com novas regras em vigor",
+        "excerpt": "A AUSTRAC, agência de inteligência financeira da Austrália, iniciou campanhas contra operadores OTC e exchanges locais sob novas regras cripto.",
+        "body": "A agência australiana de inteligência financeira AUSTRAC iniciou campanhas de supervisão voltadas a operadores cripto de balcão e exchanges locais enquanto as reformas regulatórias do país entram em vigor. A medida acompanha novas leis que ampliam a fiscalização para serviços de custódia e corretagem. O foco principal das campanhas são empresas OTC e plataformas domésticas. Se antes a supervisão se concentrava principalmente nas exchanges, o novo marco inclui também a guarda de ativos de clientes e atividades de intermediação. Assim, empresas afetadas podem precisar revisar controles internos e obrigações de reporte. O reforço deve aumentar a pressão de conformidade no mercado cripto australiano e influenciar a operação de provedores locais. Segundo o decrypt.co, as campanhas da AUSTRAC estão sendo conduzidas conforme o novo marco regulatório começa a ser aplicado."
+      },
+      "de": {
+        "title": "Australiens AUSTRAC startet Krypto-Aufsichtskampagnen mit neuen Regeln",
+        "excerpt": "Australiens Finanzaufsicht AUSTRAC startet Kampagnen gegen OTC-Betreiber und lokale Börsen, während neue Kryptogesetze greifen.",
+        "body": "Australiens Finanznachrichtendienst AUSTRAC hat Aufsichtskampagnen gegen Krypto-OTC-Betreiber und lokale Börsen gestartet, während die Reformen der Kryptoregulierung in Kraft treten. Der Schritt erfolgt, weil neue Gesetze die Aufsicht auf Verwahr- und Vermittlungsdienste ausweiten. Im Mittelpunkt stehen OTC-Anbieter und inländische Handelsplätze. Lag der Fokus bisher vor allem auf Börsen, umfasst der überarbeitete Rahmen nun auch die Verwahrung von Kundenvermögen und Brokerage-Aktivitäten. Betroffene Unternehmen dürften daher interne Kontrollen und Meldepflichten überprüfen müssen. Die strengere Aufsicht erhöht den Compliance-Druck im australischen Kryptomarkt und könnte die Arbeitsweise lokaler Dienstleister beeinflussen. Laut decrypt.co werden die AUSTRAC-Kampagnen parallel zur Anwendung des neuen Regulierungsrahmens umgesetzt."
+      },
+      "fr": {
+        "title": "AUSTRAC lance une supervision crypto en Australie avec les nouvelles règles",
+        "excerpt": "L’agence australienne AUSTRAC lance des campagnes de supervision visant les opérateurs OTC et les exchanges locaux avec les nouvelles lois crypto.",
+        "body": "L’agence australienne de renseignement financier AUSTRAC a lancé des campagnes de supervision visant les opérateurs crypto de gré à gré et les exchanges locaux, alors que les réformes réglementaires du pays entrent en vigueur. Cette initiative accompagne de nouvelles lois qui étendent la surveillance aux services de conservation et de courtage. Les principales cibles sont les acteurs OTC et les plateformes australiennes. Alors que la supervision portait surtout sur les exchanges, le cadre révisé inclut désormais la garde des actifs clients et les activités d’intermédiation. Les entreprises concernées pourraient donc devoir réexaminer leurs contrôles internes et obligations de déclaration. Ce renforcement devrait accroître la pression de conformité sur le marché crypto australien et influencer le fonctionnement des prestataires locaux. Selon decrypt.co, les campagnes d’AUSTRAC sont déployées au moment où le nouveau cadre réglementaire commence à s’appliquer."
+      },
+      "ar": {
+        "title": "AUSTRAC تبدأ حملات رقابة على العملات المشفرة مع قواعد أستراليا الجديدة",
+        "excerpt": "أطلقت AUSTRAC الأسترالية حملات إشراف تستهدف مشغلي التداول خارج البورصة والمنصات المحلية مع توسع قوانين العملات المشفرة الجديدة.",
+        "body": "أطلقت وكالة الاستخبارات المالية الأسترالية AUSTRAC حملات إشراف تستهدف مشغلي العملات المشفرة خارج البورصة والمنصات المحلية، بالتزامن مع بدء تطبيق إصلاحات تنظيم العملات المشفرة في البلاد. وتأتي الخطوة مع قوانين جديدة توسع نطاق الرقابة ليشمل خدمات الحفظ والوساطة. يتركز الاهتمام على مشغلي التداول خارج البورصة والبورصات المحلية. وبينما كانت الرقابة السابقة تتركز غالبا على المنصات، فإن الإطار المعدل يضم الآن حفظ أصول العملاء وأنشطة الوساطة ضمن النطاق التنظيمي. لذلك قد تحتاج الشركات المعنية إلى مراجعة الضوابط الداخلية والتزامات الإبلاغ. ومن المتوقع أن يزيد التشديد الرقابي ضغط الامتثال في سوق العملات المشفرة الأسترالي وأن يؤثر في طريقة عمل مزودي الخدمات المحليين. ووفقا لموقع decrypt.co، يجري تنفيذ حملات AUSTRAC مع بدء تطبيق الإطار التنظيمي الجديد."
+      },
+      "hi": {
+        "title": "ऑस्ट्रेलिया में AUSTRAC ने नए क्रिप्टो नियमों के साथ निगरानी शुरू की",
+        "excerpt": "ऑस्ट्रेलिया की AUSTRAC ने नए क्रिप्टो कानून लागू होने पर OTC ऑपरेटरों और स्थानीय एक्सचेंजों के लिए निगरानी अभियान शुरू किए।",
+        "body": "ऑस्ट्रेलिया की वित्तीय खुफिया एजेंसी AUSTRAC ने देश में क्रिप्टो नियामकीय सुधार लागू होने के बीच ओवर-द-काउंटर क्रिप्टो ऑपरेटरों और स्थानीय एक्सचेंजों को लक्षित करते हुए निगरानी अभियान शुरू किए हैं। यह कदम उन नए कानूनों के साथ जुड़ा है जो निगरानी का दायरा कस्टडी और ब्रोकरेज सेवाओं तक बढ़ाते हैं। अभियान का मुख्य फोकस OTC व्यवसायों और घरेलू एक्सचेंजों पर है। पहले निगरानी मुख्य रूप से एक्सचेंजों पर केंद्रित थी, लेकिन संशोधित ढांचा अब ग्राहकों की संपत्ति की कस्टडी और मध्यस्थता गतिविधियों को भी नियमन में शामिल करता है। इससे संबंधित कंपनियों को आंतरिक नियंत्रण और रिपोर्टिंग दायित्वों की समीक्षा करनी पड़ सकती है। सख्त निगरानी ऑस्ट्रेलिया के क्रिप्टो बाजार में अनुपालन दबाव बढ़ा सकती है और स्थानीय सेवा प्रदाताओं के संचालन को प्रभावित कर सकती है। decrypt.co के अनुसार, AUSTRAC के अभियान नए नियामकीय ढांचे के लागू होने के साथ आगे बढ़ रहे हैं।"
+      },
+      "id": {
+        "title": "AUSTRAC Australia Mulai Kampanye Pengawasan Kripto Saat Aturan Baru Berlaku",
+        "excerpt": "AUSTRAC Australia memulai kampanye pengawasan terhadap operator OTC dan bursa lokal seiring perluasan aturan kripto baru.",
+        "body": "Badan intelijen keuangan Australia, AUSTRAC, memulai kampanye pengawasan terhadap operator kripto over-the-counter dan bursa lokal saat reformasi regulasi kripto negara itu mulai berlaku. Langkah ini mengikuti undang-undang baru yang memperluas pengawasan hingga layanan kustodi dan pialang. Fokus utama kampanye adalah pelaku OTC dan bursa domestik. Jika sebelumnya pengawasan terutama berpusat pada bursa, kerangka yang direvisi kini mencakup penyimpanan aset pelanggan dan aktivitas perantara. Karena itu, bisnis terkait mungkin perlu meninjau kontrol internal dan kewajiban pelaporan. Pengawasan yang lebih ketat diperkirakan meningkatkan tekanan kepatuhan di pasar kripto Australia dan memengaruhi cara penyedia layanan lokal beroperasi. Menurut decrypt.co, kampanye AUSTRAC dijalankan seiring mulai diterapkannya kerangka regulasi baru."
+      }
+    }
+  },
+  {
+    "id": "3f3e150f9b2e",
+    "slug": "stablecoin-card-spend-is-growing-100-year-over-year-rain-exe-814340",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T10:44:22.205Z",
+    "updatedAt": "2026-05-08T10:44:22.205Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/08/stablecoin-card-spend-is-growing-100-year-over-year-rain-exec-says",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/08/stablecoin-card-spend-is-growing-100-year-over-year-rain-exec-says",
+    "titleFingerprint": "5854d11a5dd63483eaf10013f6073b140972ae1b",
+    "dedupKeys": [
+      "3f3e150f9b2ef9fc7be2fdc7394fb90d88729c12",
+      "5854d11a5dd63483eaf10013f6073b140972ae1b",
+      "694bc42397cce21fc4b09865d0cde7fb0242c559"
+    ],
+    "imageUrl": "/images/articles/3f3e150f9b2e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "스테이블코인 카드 지출 연 100% 성장, Rain 임원이 밝힌 결제 효율 개선",
+        "excerpt": "Rain 임원은 스테이블코인 기반 카드 지출이 전년 대비 100% 증가하고, 주말·공휴일 결제로 묶인 자본을 40% 이상 줄인다고 밝혔다.",
+        "body": "Rain 임원은 스테이블코인 기반 카드 지출이 전년 대비 100% 성장하고 있다고 밝혔다. 핵심은 스테이블코인 결제가 주말과 공휴일에도 정산을 가능하게 한다는 점이다. 기존 카드 정산 구조에서는 영업일 제약 때문에 발행사가 일정 자본을 묶어 둬야 하지만, 스테이블코인 정산은 이 부담을 40% 이상 줄일 수 있다고 설명했다. 이는 카드 발행사의 자금 운용 여력을 높이고 카드 사업의 경제성을 개선하는 요인으로 제시됐다. 다만 기사에서 언급된 내용은 결제 효율과 발행사 유연성 개선에 초점이 맞춰져 있다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Stablecoin Card Spend Grows 100% Year Over Year, Rain Executive Says",
+        "excerpt": "A Rain executive said stablecoin card spending is up 100% year over year, with weekend and holiday settlement cutting trapped capital by more than 40%.",
+        "body": "A Rain executive said stablecoin-based card spending is growing 100% year over year. The key factor is that stablecoin settlement can operate on weekends and holidays, when traditional card settlement is often constrained by business-day schedules. According to the executive, this can reduce trapped capital by more than 40% for issuers. That improvement gives card issuers more financial flexibility and can strengthen the economics of running card programs. The report focuses on settlement efficiency and issuer flexibility rather than broader market forecasts. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "ステーブルコインカード支出が前年比100%増、Rain幹部が決済効率を説明",
+        "excerpt": "Rain幹部は、ステーブルコイン型カード支出が前年比100%増加し、週末・祝日決済で滞留資本を40%以上減らせると述べた。",
+        "body": "Rainの幹部は、ステーブルコインを利用したカード支出が前年比100%で成長していると述べた。注目点は、ステーブルコイン決済が週末や祝日でも精算を可能にすることだ。従来のカード精算では営業日の制約により、発行会社が一定の資本を拘束される場合がある。幹部によれば、ステーブルコイン精算はこの滞留資本を40%以上削減できる。これによりカード発行会社の資金運用の柔軟性が高まり、カード事業の経済性改善につながると説明された。記事の焦点は決済効率と発行会社の柔軟性にある。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "稳定币卡消费同比增长100%，Rain高管称结算效率正在改善",
+        "excerpt": "Rain高管表示，稳定币卡消费同比增长100%，周末和假日结算可将被占用资本减少40%以上，改善发卡方灵活性。",
+        "body": "Rain一名高管表示，基于稳定币的银行卡消费正在同比增长100%。其核心在于，稳定币结算能够在周末和假日继续进行，而传统银行卡结算通常受到工作日安排限制。在这种结构下，发卡方往往需要保留一定资金以应对结算周期。该高管称，稳定币结算可将这类被占用资本减少40%以上。这一变化有助于提高发卡机构的资金运用灵活性，并改善银行卡业务的经济性。报道重点集中在结算效率和发卡方财务弹性上。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Gasto con tarjetas de stablecoin crece 100% anual, según ejecutivo de Rain",
+        "excerpt": "Un ejecutivo de Rain dijo que el gasto con tarjetas basadas en stablecoins crece 100% interanual y reduce capital atrapado en más de 40%.",
+        "body": "Un ejecutivo de Rain afirmó que el gasto con tarjetas basadas en stablecoins está creciendo 100% interanual. El punto central es que la liquidación con stablecoins permite operar durante fines de semana y feriados, cuando la liquidación tradicional de tarjetas suele depender de días hábiles. Según el ejecutivo, este modelo puede reducir el capital atrapado en más de 40% para los emisores. Esa mejora aumenta la flexibilidad financiera de las entidades emisoras y puede mejorar la economía de sus programas de tarjetas. El informe se centra en eficiencia de liquidación y flexibilidad para emisores. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Gasto com cartões de stablecoin cresce 100% ao ano, diz executivo da Rain",
+        "excerpt": "Executivo da Rain disse que o gasto com cartões de stablecoin cresce 100% em base anual e reduz capital preso em mais de 40% com liquidação contínua.",
+        "body": "Um executivo da Rain afirmou que o gasto com cartões baseados em stablecoins está crescendo 100% ano a ano. O ponto principal é que a liquidação com stablecoins pode ocorrer em fins de semana e feriados, períodos em que a liquidação tradicional de cartões costuma depender de dias úteis. Segundo o executivo, esse modelo pode reduzir o capital preso em mais de 40% para emissores. A mudança melhora a flexibilidade financeira das instituições emissoras e pode fortalecer a economia dos programas de cartão. A reportagem destaca eficiência de liquidação e maior flexibilidade para emissores. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Stablecoin-Kartenausgaben wachsen jährlich um 100%, sagt Rain-Manager",
+        "excerpt": "Ein Rain-Manager sagte, Stablecoin-Kartenausgaben steigen jährlich um 100%; Wochenend- und Feiertagsabwicklung senkt gebundenes Kapital um über 40%.",
+        "body": "Ein Manager von Rain sagte, dass Kartenausgaben auf Stablecoin-Basis im Jahresvergleich um 100% wachsen. Entscheidend sei, dass Stablecoin-Abwicklung auch an Wochenenden und Feiertagen möglich ist, während klassische Kartenabwicklung oft an Geschäftstage gebunden bleibt. Nach Aussage des Managers kann dieses Modell das gebundene Kapital der Emittenten um mehr als 40% verringern. Dadurch erhalten Kartenherausgeber mehr finanzielle Flexibilität, und die Wirtschaftlichkeit von Kartenprogrammen kann sich verbessern. Der Bericht konzentriert sich auf Abwicklungseffizienz und Flexibilität der Emittenten. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Les dépenses par carte en stablecoin grimpent de 100% par an, selon Rain",
+        "excerpt": "Un dirigeant de Rain affirme que les dépenses par carte en stablecoin progressent de 100% sur un an et réduisent le capital immobilisé de plus de 40%.",
+        "body": "Un dirigeant de Rain a déclaré que les dépenses par carte fondées sur les stablecoins augmentent de 100% sur un an. L’élément clé est que le règlement en stablecoin peut fonctionner les week-ends et les jours fériés, alors que le règlement classique des cartes dépend souvent des jours ouvrés. Selon ce dirigeant, ce modèle peut réduire de plus de 40% le capital immobilisé pour les émetteurs. Cette amélioration renforce leur flexibilité financière et peut améliorer l’économie des programmes de cartes. Le rapport met l’accent sur l’efficacité du règlement et la souplesse offerte aux émetteurs. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "إنفاق بطاقات العملات المستقرة ينمو 100% سنويا، وفق مسؤول في Rain",
+        "excerpt": "قال مسؤول في Rain إن إنفاق بطاقات العملات المستقرة ينمو 100% سنويا، وإن التسوية في العطل تخفض رأس المال العالق بأكثر من 40%.",
+        "body": "قال مسؤول في Rain إن الإنفاق عبر البطاقات المعتمدة على العملات المستقرة ينمو بنسبة 100% على أساس سنوي. وتكمن النقطة الأساسية في أن تسوية العملات المستقرة يمكن أن تتم في عطلات نهاية الأسبوع والعطلات الرسمية، بينما ترتبط تسوية البطاقات التقليدية غالبا بأيام العمل. وبحسب المسؤول، يمكن لهذا النموذج أن يخفض رأس المال العالق لدى جهات الإصدار بأكثر من 40%. وهذا يمنح مصدري البطاقات مرونة مالية أكبر وقد يحسن اقتصاديات برامج البطاقات. ويركز التقرير على كفاءة التسوية ومرونة جهات الإصدار. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "स्टेबलकॉइन कार्ड खर्च सालाना 100% बढ़ा, Rain अधिकारी ने बताई वजह",
+        "excerpt": "Rain अधिकारी के अनुसार स्टेबलकॉइन कार्ड खर्च सालाना 100% बढ़ रहा है और सप्ताहांत व छुट्टी निपटान फंसी पूंजी को 40% से अधिक घटाता है।",
+        "body": "Rain के एक अधिकारी ने कहा कि स्टेबलकॉइन आधारित कार्ड खर्च साल-दर-साल 100% बढ़ रहा है। मुख्य बात यह है कि स्टेबलकॉइन सेटलमेंट सप्ताहांत और छुट्टियों में भी हो सकता है, जबकि पारंपरिक कार्ड सेटलमेंट अक्सर कारोबारी दिनों पर निर्भर रहता है। अधिकारी के अनुसार, यह व्यवस्था जारीकर्ताओं की फंसी हुई पूंजी को 40% से अधिक कम कर सकती है। इससे कार्ड जारीकर्ताओं की वित्तीय लचीलापन बढ़ती है और कार्ड कार्यक्रमों की अर्थव्यवस्था बेहतर हो सकती है। रिपोर्ट का ध्यान सेटलमेंट दक्षता और जारीकर्ताओं की लचीलापन सुधार पर है। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Belanja Kartu Stablecoin Tumbuh 100% Tahunan, Kata Eksekutif Rain",
+        "excerpt": "Eksekutif Rain mengatakan belanja kartu stablecoin tumbuh 100% tahunan, sementara penyelesaian akhir pekan dan hari libur memangkas modal tertahan lebih dari 40%.",
+        "body": "Seorang eksekutif Rain mengatakan belanja kartu berbasis stablecoin tumbuh 100% dari tahun ke tahun. Faktor utamanya adalah penyelesaian stablecoin dapat berjalan pada akhir pekan dan hari libur, saat penyelesaian kartu tradisional biasanya bergantung pada hari kerja. Menurut eksekutif tersebut, model ini dapat mengurangi modal yang tertahan bagi penerbit lebih dari 40%. Perbaikan itu memberi penerbit kartu fleksibilitas keuangan yang lebih besar dan dapat memperbaiki keekonomian program kartu. Laporan ini berfokus pada efisiensi penyelesaian dan fleksibilitas penerbit. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "a655acd5b601",
+    "slug": "bitcoin-retreats-below-80000-liquidating-300-million-in-futu-145877",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T10:43:29.430Z",
+    "updatedAt": "2026-05-08T10:43:29.430Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/08/bitcoin-retreats-below-usd80-000-liquidating-usd300-million-in-futures-bets",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/08/bitcoin-retreats-below-usd80-000-liquidating-usd300-million-in-futures-bets",
+    "titleFingerprint": "2c4f40463b9fa2a7ecf595ffaab245500d4ab90a",
+    "dedupKeys": [
+      "a655acd5b601e48bb3358887ac4b6a33fb0e9114",
+      "2c4f40463b9fa2a7ecf595ffaab245500d4ab90a",
+      "a966e29362c0551a3cc2654fb9e08972c095efc9"
+    ],
+    "imageUrl": "/images/articles/a655acd5b601.png",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 8만 달러 하회, 선물 청산 3억 달러로 확대",
+        "excerpt": "비트코인은 미국의 이란 공습 이후 유가가 한때 100달러를 넘어서자 위험 회피 심리가 커지며 8만 달러 아래로 밀렸고, 선물 포지션 3억 달러가 청산됐다.",
+        "body": "비트코인(BTC)이 미국의 이란 공습 이후 8만 달러 아래로 후퇴했다. 공습 여파로 국제유가가 한때 배럴당 100달러를 웃돌면서 시장 전반에 위험 회피 심리가 확산됐고, 암호화폐 파생상품 시장에서는 약 3억 달러 규모의 선물 베팅이 청산됐다. 이번 하락은 단기 가격 변동성 확대와 함께 투자자 포지션이 약세 쪽으로 이동하고 있음을 보여준다. 유가 급등과 지정학적 긴장이 맞물리면서 비트코인 시장은 방어적인 흐름을 보였다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Bitcoin Falls Below $80,000 as Futures Liquidations Hit $300M",
+        "excerpt": "Bitcoin slipped below $80,000 after U.S. strikes in Iran briefly pushed oil above $100, triggering risk-off sentiment and $300 million in futures liquidations.",
+        "body": "Bitcoin (BTC) retreated below $80,000 after U.S. strikes in Iran. The move briefly sent oil prices above $100 per barrel, spreading risk-off sentiment across markets and triggering about $300 million in liquidations of crypto futures bets. The decline highlights a sharp increase in short-term volatility and a shift in investor positioning toward a more bearish stance. With higher oil prices and geopolitical tension moving together, Bitcoin traded defensively. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "ビットコイン8万ドル割れ、先物清算は3億ドルに拡大",
+        "excerpt": "ビットコインは米国のイラン攻撃後、原油が一時100ドルを上回ったことでリスク回避が強まり、8万ドルを下回り先物3億ドルが清算された。",
+        "body": "ビットコイン（BTC）は、米国によるイラン攻撃の後、8万ドルを下回った。攻撃の影響で国際原油価格が一時1バレル100ドルを上回り、市場全体にリスク回避姿勢が広がった。暗号資産デリバティブ市場では、約3億ドル規模の先物ポジションが清算された。今回の下落は短期的な価格変動の拡大に加え、投資家のポジションが弱気方向へ傾いていることを示している。原油高と地政学的緊張が重なり、ビットコイン市場は防御的な展開となった。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "比特币跌破8万美元，期货清算规模升至3亿美元",
+        "excerpt": "美国对伊朗发动打击后，油价一度升破100美元，比特币跌破8万美元，避险情绪升温并引发3亿美元期货清算。",
+        "body": "比特币（BTC）在美国对伊朗发动打击后跌破8万美元。受相关事件影响，国际油价一度升至每桶100美元上方，市场风险偏好下降，避险情绪扩散至加密货币市场。加密衍生品市场中，约3亿美元的期货押注被清算。此次下跌显示短期价格波动加剧，同时投资者仓位正转向更偏空的方向。在油价上涨与地缘政治紧张交织之下，比特币市场呈现防御性走势。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Bitcoin cae por debajo de $80.000 y liquida $300M en futuros",
+        "excerpt": "Bitcoin cayó por debajo de $80.000 después de que ataques de EE. UU. en Irán llevaran el petróleo brevemente sobre $100, provocando liquidaciones por $300 millones.",
+        "body": "Bitcoin (BTC) retrocedió por debajo de los $80.000 tras los ataques de Estados Unidos en Irán. El impacto llevó al petróleo a superar brevemente los $100 por barril, extendiendo la aversión al riesgo en los mercados y provocando cerca de $300 millones en liquidaciones de apuestas de futuros cripto. La caída refleja un aumento de la volatilidad de corto plazo y un cambio de posicionamiento de los inversionistas hacia una postura más bajista. Con el alza del petróleo y la tensión geopolítica actuando al mismo tiempo, Bitcoin mostró un comportamiento defensivo. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Bitcoin cai abaixo de US$ 80 mil e liquida US$ 300 mi em futuros",
+        "excerpt": "O Bitcoin caiu abaixo de US$ 80 mil após ataques dos EUA no Irã elevarem o petróleo brevemente acima de US$ 100, gerando liquidações de US$ 300 milhões.",
+        "body": "O Bitcoin (BTC) recuou para abaixo de US$ 80 mil após ataques dos Estados Unidos no Irã. O episódio levou o petróleo a superar brevemente US$ 100 por barril, espalhando aversão ao risco pelos mercados e provocando cerca de US$ 300 milhões em liquidações de apostas em futuros de criptoativos. A queda mostra aumento da volatilidade de curto prazo e uma mudança no posicionamento dos investidores para um viés mais baixista. Com a alta do petróleo e a tensão geopolítica combinadas, o mercado de Bitcoin operou de forma defensiva. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Bitcoin fällt unter 80.000 Dollar, Futures im Wert von 300 Mio. liquidiert",
+        "excerpt": "Bitcoin rutschte unter 80.000 Dollar, nachdem US-Angriffe im Iran Öl kurz über 100 Dollar trieben und Futures-Liquidationen von 300 Millionen Dollar auslösten.",
+        "body": "Bitcoin (BTC) fiel nach US-Angriffen im Iran unter 80.000 Dollar. Die Ereignisse ließen den Ölpreis zeitweise über 100 Dollar je Barrel steigen, wodurch sich Risikoaversion an den Märkten ausbreitete. Im Markt für Krypto-Derivate wurden Futures-Wetten im Umfang von rund 300 Millionen Dollar liquidiert. Der Rückgang zeigt eine Zunahme kurzfristiger Preisschwankungen und eine Verlagerung der Anlegerpositionierung in Richtung einer bärischeren Haltung. Angesichts steigender Ölpreise und geopolitischer Spannungen zeigte sich der Bitcoin-Markt defensiv. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Bitcoin passe sous 80 000 $, 300 M$ de futures liquidés",
+        "excerpt": "Le Bitcoin est tombé sous 80 000 $ après des frappes américaines en Iran qui ont brièvement porté le pétrole au-dessus de 100 $, déclenchant 300 M$ de liquidations.",
+        "body": "Le Bitcoin (BTC) est repassé sous les 80 000 $ après des frappes américaines en Iran. Ces événements ont brièvement fait monter le pétrole au-dessus de 100 $ le baril, propageant un mouvement d’aversion au risque sur les marchés et entraînant environ 300 millions de dollars de liquidations de paris sur futures crypto. Cette baisse souligne une hausse de la volatilité à court terme et un basculement du positionnement des investisseurs vers une posture plus baissière. Avec la hausse du pétrole et les tensions géopolitiques, le marché du Bitcoin a évolué sur un ton défensif. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "بيتكوين تهبط دون 80 ألف دولار وتصفيات العقود الآجلة تبلغ 300 مليون",
+        "excerpt": "هبطت بيتكوين دون 80 ألف دولار بعد ضربات أمريكية في إيران دفعت النفط مؤقتا فوق 100 دولار، ما أثار عزوفا عن المخاطر وتصفيات آجلة بقيمة 300 مليون دولار.",
+        "body": "تراجعت بيتكوين (BTC) إلى ما دون 80 ألف دولار بعد ضربات أمريكية في إيران. وأدى ذلك إلى صعود أسعار النفط العالمية مؤقتا فوق 100 دولار للبرميل، ما وسع حالة العزوف عن المخاطر في الأسواق ودفع إلى تصفية رهانات على العقود الآجلة للعملات المشفرة بنحو 300 مليون دولار. يعكس هذا الهبوط زيادة في تقلبات الأسعار قصيرة الأجل، إلى جانب تحول مراكز المستثمرين نحو اتجاه أكثر ميلا للهبوط. ومع تزامن ارتفاع النفط والتوتر الجيوسياسي، اتخذ سوق بيتكوين مسارا دفاعيا. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "बिटकॉइन $80,000 से नीचे, फ्यूचर्स में $300 मिलियन की लिक्विडेशन",
+        "excerpt": "ईरान में अमेरिकी हमलों के बाद तेल कुछ समय के लिए $100 से ऊपर गया, जिससे जोखिम से बचाव बढ़ा और बिटकॉइन $80,000 से नीचे फिसलकर $300 मिलियन फ्यूचर्स लिक्विडेशन हुआ।",
+        "body": "बिटकॉइन (BTC) ईरान में अमेरिकी हमलों के बाद $80,000 से नीचे चला गया। इन हमलों के असर से अंतरराष्ट्रीय तेल कीमतें कुछ समय के लिए $100 प्रति बैरल से ऊपर पहुंचीं, जिससे बाजारों में जोखिम से बचने की प्रवृत्ति बढ़ी। क्रिप्टो डेरिवेटिव बाजार में लगभग $300 मिलियन मूल्य की फ्यूचर्स पोजिशन लिक्विडेट हुईं। यह गिरावट अल्पकालिक मूल्य अस्थिरता बढ़ने और निवेशकों की पोजिशनिंग के अधिक मंदी वाले रुख की ओर जाने को दिखाती है। तेल में तेजी और भू-राजनीतिक तनाव के बीच बिटकॉइन बाजार रक्षात्मक रहा। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Bitcoin Turun di Bawah $80.000, Likuidasi Futures Capai $300 Juta",
+        "excerpt": "Bitcoin turun di bawah $80.000 setelah serangan AS di Iran sempat mendorong minyak di atas $100, memicu aksi hindari risiko dan likuidasi futures $300 juta.",
+        "body": "Bitcoin (BTC) melemah ke bawah $80.000 setelah serangan Amerika Serikat di Iran. Dampaknya membuat harga minyak internasional sempat naik di atas $100 per barel, sehingga sentimen hindari risiko menyebar di pasar. Di pasar derivatif kripto, sekitar $300 juta posisi futures dilikuidasi. Penurunan ini menunjukkan meningkatnya volatilitas harga jangka pendek sekaligus pergeseran posisi investor ke arah yang lebih bearish. Dengan kenaikan harga minyak dan ketegangan geopolitik yang terjadi bersamaan, pasar Bitcoin bergerak defensif. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
     "id": "465a3bbb9a13",
     "slug": "apple-agrees-to-250-million-settlement-over-ai-claimshere39s-596424",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Privasi dan Akuntabilitas Onchain Bisa Berjalan Bersama, Kata Panel Miami",
         "excerpt": "Di Consensus Miami, pembicara dari Moody’s Ratings dan ChangeNOW membahas cara menyelaraskan keterlacakan blockchain publik dengan privasi pengguna.",
         "body": "Dalam panel Consensus Miami, pembicara dari Moody’s Ratings dan ChangeNOW mengatakan privasi dan akuntabilitas dapat berjalan bersama di blockchain publik. Blockchain publik membuat alur transaksi dapat dilacak dan meningkatkan transparansi, tetapi karakteristik yang sama dapat melemahkan privasi pengguna. Para panelis mengatakan arsitektur blockchain hibrida dan pemantauan tingkat alamat dapat membantu menangani kedua masalah tersebut sekaligus. Pendekatan ini dipaparkan sebagai cara menjaga akuntabilitas aktivitas onchain sambil mengurangi kekhawatiran atas paparan informasi pribadi. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "093e6d2dc9d3",
-    "slug": "core-scientific-posts-347m-loss-as-ai-hosting-overtakes-bitc-338070",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T20:54:45.156Z",
-    "updatedAt": "2026-05-07T20:54:45.156Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/core-scientific-q1-loss-bitcoin-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/core-scientific-q1-loss-bitcoin-mining-revenue-falls",
-    "titleFingerprint": "ecef25f501649e926ccda5f7f6bf78a2dd9b83e1",
-    "dedupKeys": [
-      "093e6d2dc9d38a877da85499c3654641b732b29f",
-      "ecef25f501649e926ccda5f7f6bf78a2dd9b83e1",
-      "f7b4d45d4337abcc4f20ab15a135d1d143b3df80"
-    ],
-    "imageUrl": "/images/articles/093e6d2dc9d3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Core Scientific 3억4700만달러 손실, AI 호스팅이 채굴 추월",
-        "excerpt": "Core Scientific은 이번 분기 3억4700만달러 손실을 기록했고, 비트코인 채굴량은 279 BTC로 전년 대비 45% 감소했으며 코로케이션이 최대 매출원이 됐다.",
-        "body": "Core Scientific은 이번 분기에 3억4700만달러 손실을 기록했다. 회사의 비트코인 채굴량은 279 BTC로, 1년 전보다 45% 줄었다. 같은 기간 AI 호스팅 수요와 연결된 코로케이션 사업은 회사의 최대 매출원으로 올라섰다. 이는 Core Scientific의 수익 구조에서 비트코인 채굴보다 호스팅 인프라 비중이 더 커졌음을 보여준다. 관련 수치상 채굴 생산은 감소했고, 코로케이션 매출은 핵심 사업으로 부상했다. 향후 회사 실적 평가는 채굴 회복 여부와 AI 호스팅 중심 매출 흐름이 함께 좌우할 전망이다. 출처는 cointelegraph.com이다."
-      },
-      "en": {
-        "title": "Core Scientific Posts $347M Loss as AI Hosting Tops Mining",
-        "excerpt": "Core Scientific reported a $347 million quarterly loss as Bitcoin output fell 45% to 279 BTC and colocation became its largest revenue source.",
-        "body": "Core Scientific posted a $347 million loss in the quarter. The company mined 279 BTC, down 45% from a year earlier. During the same period, its colocation business, tied to AI hosting demand, became the company’s largest revenue source. The figures show that hosting infrastructure has taken a larger role than Bitcoin mining in Core Scientific’s revenue mix. Mining production declined, while colocation emerged as the key business line. Future performance will depend on both any recovery in mining output and the revenue trend from AI hosting. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "Core Scientific、3.47億ドル損失 AIホスティングが採掘超え",
-        "excerpt": "Core Scientificは今四半期に3億4700万ドルの損失を計上し、ビットコイン採掘量は279 BTCと前年比45%減、コロケーションが最大収益源となった。",
-        "body": "Core Scientificは今四半期に3億4700万ドルの損失を計上した。同社のビットコイン採掘量は279 BTCで、1年前から45%減少した。同じ期間に、AIホスティング需要と結びつくコロケーション事業は同社最大の収益源となった。これはCore Scientificの収益構造で、ビットコイン採掘よりホスティングインフラの比重が高まったことを示す。数値上、採掘生産は減少し、コロケーション収益が中核事業として浮上した。今後の業績評価は、採掘の回復有無とAIホスティング中心の収益動向に左右される見通しだ。出典はcointelegraph.com。"
-      },
-      "zh": {
-        "title": "Core Scientific亏损3.47亿美元，AI托管收入超越挖矿",
-        "excerpt": "Core Scientific本季度亏损3.47亿美元，比特币产量降至279 BTC，同比减少45%，同时托管业务成为其最大收入来源。",
-        "body": "Core Scientific本季度录得3.47亿美元亏损。该公司比特币挖矿产量为279 BTC，较一年前下降45%。同期，与AI托管需求相关的托管业务成为公司最大收入来源。这表明，在Core Scientific的收入结构中，托管基础设施的比重已超过比特币挖矿。相关数据显示，挖矿产量下降，而托管收入上升为核心业务。未来公司业绩评估将同时取决于挖矿是否恢复，以及以AI托管为中心的收入走势。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Core Scientific pierde $347M mientras hosting de IA supera minería",
-        "excerpt": "Core Scientific registró una pérdida trimestral de $347 millones, minó 279 BTC, un 45% menos interanual, y colocation pasó a ser su mayor fuente de ingresos.",
-        "body": "Core Scientific registró una pérdida de $347 millones en el trimestre. La compañía minó 279 BTC, un 45% menos que un año antes. En el mismo periodo, su negocio de colocation, vinculado a la demanda de hosting de IA, se convirtió en su mayor fuente de ingresos. Las cifras muestran que la infraestructura de hosting ganó más peso que la minería de Bitcoin dentro de la mezcla de ingresos de Core Scientific. La producción minera cayó, mientras colocation emergió como línea principal. El desempeño futuro dependerá de una posible recuperación de la minería y de la evolución de los ingresos centrados en IA. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Core Scientific perde US$347 mi e hosting de IA supera mineração",
-        "excerpt": "A Core Scientific registrou prejuízo trimestral de US$347 milhões, minerou 279 BTC, queda anual de 45%, e colocation virou sua maior fonte de receita.",
-        "body": "A Core Scientific registrou prejuízo de US$347 milhões no trimestre. A empresa minerou 279 BTC, queda de 45% em relação ao ano anterior. No mesmo período, seu negócio de colocation, ligado à demanda por hosting de IA, tornou-se a maior fonte de receita da companhia. Os números mostram que a infraestrutura de hosting passou a ter peso maior que a mineração de Bitcoin na composição de receitas da Core Scientific. A produção de mineração caiu, enquanto colocation surgiu como negócio central. O desempenho futuro dependerá da recuperação da mineração e da tendência de receita baseada em IA. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Core Scientific verliert 347 Mio. USD, KI-Hosting überholt Mining",
-        "excerpt": "Core Scientific meldete im Quartal 347 Mio. USD Verlust, förderte mit 279 BTC 45% weniger als im Vorjahr, während Colocation zur größten Umsatzquelle wurde.",
-        "body": "Core Scientific verzeichnete im Quartal einen Verlust von 347 Mio. USD. Das Unternehmen schürfte 279 BTC, 45% weniger als ein Jahr zuvor. Im selben Zeitraum wurde das mit der Nachfrage nach KI-Hosting verbundene Colocation-Geschäft zur größten Umsatzquelle des Unternehmens. Die Zahlen zeigen, dass Hosting-Infrastruktur in der Umsatzstruktur von Core Scientific mehr Gewicht erhielt als Bitcoin-Mining. Die Mining-Produktion ging zurück, während Colocation als zentrale Geschäftslinie hervortrat. Die künftige Bewertung der Ergebnisse wird sowohl von einer Erholung des Minings als auch vom Umsatztrend im KI-Hosting abhängen. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Core Scientific perd 347 M$, l’hébergement IA dépasse le minage",
-        "excerpt": "Core Scientific a enregistré une perte trimestrielle de 347 M$, miné 279 BTC, soit 45% de moins sur un an, et la colocation est devenue sa première source de revenus.",
-        "body": "Core Scientific a enregistré une perte de 347 millions de dollars sur le trimestre. L’entreprise a miné 279 BTC, en baisse de 45% par rapport à l’année précédente. Sur la même période, son activité de colocation, liée à la demande d’hébergement IA, est devenue sa principale source de revenus. Ces chiffres montrent que l’infrastructure d’hébergement pèse désormais davantage que le minage de Bitcoin dans la structure de revenus de Core Scientific. La production minière a reculé, tandis que la colocation s’est imposée comme activité clé. Les résultats futurs dépendront d’un éventuel rebond du minage et de l’évolution des revenus liés à l’IA. Source : cointelegraph.com."
-      },
-      "ar": {
-        "title": "Core Scientific تخسر 347 مليون دولار واستضافة الذكاء الاصطناعي تتصدر",
-        "excerpt": "سجلت Core Scientific خسارة فصلية قدرها 347 مليون دولار، وانخفض تعدين بيتكوين إلى 279 BTC بتراجع 45% سنويا، بينما أصبحت الكولوكيشن أكبر مصدر إيرادات.",
-        "body": "سجلت Core Scientific خسارة قدرها 347 مليون دولار في هذا الربع. وبلغ إنتاج الشركة من تعدين بيتكوين 279 BTC، بانخفاض 45% مقارنة بالعام السابق. وفي الفترة نفسها، أصبح نشاط الكولوكيشن المرتبط بطلب استضافة الذكاء الاصطناعي أكبر مصدر لإيرادات الشركة. وتظهر هذه الأرقام أن بنية الاستضافة باتت تشغل وزنا أكبر من تعدين بيتكوين في مزيج إيرادات Core Scientific. فقد تراجع إنتاج التعدين، بينما برزت الكولوكيشن كنشاط رئيسي. وسيعتمد تقييم الأداء المقبل على تعافي التعدين واتجاه إيرادات استضافة الذكاء الاصطناعي. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Core Scientific को $347M घाटा, AI होस्टिंग ने माइनिंग को पछाड़ा",
-        "excerpt": "Core Scientific ने तिमाही में $347 मिलियन घाटा दर्ज किया, Bitcoin उत्पादन 45% घटकर 279 BTC रहा और colocation उसकी सबसे बड़ी आय स्रोत बन गई।",
-        "body": "Core Scientific ने इस तिमाही में $347 मिलियन का घाटा दर्ज किया। कंपनी ने 279 BTC माइन किए, जो एक साल पहले की तुलना में 45% कम है। इसी अवधि में AI होस्टिंग मांग से जुड़ा उसका colocation कारोबार कंपनी का सबसे बड़ा राजस्व स्रोत बन गया। ये आंकड़े दिखाते हैं कि Core Scientific की आय संरचना में Bitcoin माइनिंग की तुलना में होस्टिंग इन्फ्रास्ट्रक्चर का वजन बढ़ा है। माइनिंग उत्पादन घटा, जबकि colocation प्रमुख कारोबार के रूप में उभरा। आगे प्रदर्शन का आकलन माइनिंग में सुधार और AI होस्टिंग आधारित राजस्व प्रवाह, दोनों पर निर्भर करेगा। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Core Scientific Rugi $347 Juta, Hosting AI Salip Mining Bitcoin",
-        "excerpt": "Core Scientific mencatat rugi kuartalan $347 juta, menambang 279 BTC atau turun 45% tahunan, sementara colocation menjadi sumber pendapatan terbesarnya.",
-        "body": "Core Scientific mencatat kerugian $347 juta pada kuartal ini. Perusahaan menambang 279 BTC, turun 45% dibandingkan setahun sebelumnya. Pada periode yang sama, bisnis colocation yang terkait dengan permintaan hosting AI menjadi sumber pendapatan terbesar perusahaan. Angka ini menunjukkan bahwa infrastruktur hosting memiliki porsi lebih besar daripada mining Bitcoin dalam struktur pendapatan Core Scientific. Produksi mining menurun, sementara colocation muncul sebagai lini bisnis utama. Kinerja ke depan akan dipengaruhi oleh pemulihan mining dan tren pendapatan yang berpusat pada hosting AI. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "4f1d8943ae58",
-    "slug": "south-korea-confirms-22-crypto-tax-starting-january-2027-rep-961852",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T20:53:57.784Z",
-    "updatedAt": "2026-05-07T20:53:57.784Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/south-korea-confirms-22-crypto-tax-will-go-ahead-in-january-2027-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/south-korea-confirms-22-crypto-tax-will-go-ahead-in-january-2027-report",
-    "titleFingerprint": "96184f38cb2085df2d5d4a279c674f7c7f7e7318",
-    "dedupKeys": [
-      "4f1d8943ae58ff6afb3ab96e83118c8644c9fd7f",
-      "96184f38cb2085df2d5d4a279c674f7c7f7e7318",
-      "a6705c2106bbbfc5ef381f194627e23248a315c7"
-    ],
-    "imageUrl": "/images/articles/4f1d8943ae58.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국 2027년 1월부터 암호화폐 수익 22% 과세 예정 확인",
-        "excerpt": "한국 기획재정부가 2027년 1월부터 암호화폐 양도차익에 22% 세금을 예정대로 부과하겠다는 방침을 처음 확인한 것으로 전해졌다.",
-        "body": "한국 기획재정부가 암호화폐 수익에 대한 22% 과세를 2027년 1월부터 예정대로 시행하겠다는 입장을 처음 확인한 것으로 전해졌다. 보도에 따르면 이번 과세는 암호화폐로 발생한 이익에 적용되며, 시행 시점은 기존 일정인 2027년 1월이다. 그동안 관련 과세 시행 여부에 관심이 이어진 가운데, 재정 당국의 확인은 투자자와 시장 참여자들이 세금 부담을 준비해야 하는 기준점이 될 수 있다. 다만 보도는 추가 세부 기준이나 예외 조항은 전하지 않았다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "South Korea Confirms 22% Crypto Gains Tax From January 2027",
-        "excerpt": "South Korea’s Finance Ministry has reportedly confirmed that a 22% tax on crypto gains will begin as scheduled in January 2027.",
-        "body": "South Korea’s Finance Ministry has reportedly confirmed for the first time that a 22% tax on cryptocurrency gains will proceed as scheduled from January 2027. According to the report, the tax applies to gains generated from crypto assets, with the implementation date remaining January 2027. The confirmation gives investors and market participants a clearer timeline for preparing for the tax burden. The report did not provide additional details on specific rules or exemptions. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "韓国、2027年1月から暗号資産利益に22%課税へ確認",
-        "excerpt": "韓国企画財政部が、暗号資産の利益に対する22%課税を2027年1月から予定通り実施する方針を初めて確認したと報じられた。",
-        "body": "韓国企画財政部が、暗号資産の利益に対する22%課税を2027年1月から予定通り実施する方針を初めて確認したと報じられた。報道によると、この課税は暗号資産から発生した利益に適用され、実施時期は従来の予定通り2027年1月となる。課税開始の有無に注目が集まる中、財政当局の確認は投資家や市場参加者が税負担に備えるための重要な時点となる可能性がある。ただし、具体的な細則や例外規定については報じられていない。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "韩国确认2027年1月起对加密收益征收22%税",
-        "excerpt": "据报道，韩国企划财政部首次确认，将按原计划自2027年1月起对加密货币收益征收22%的税。",
-        "body": "据报道，韩国企划财政部首次确认，将按计划自2027年1月起对加密货币收益征收22%的税。报道显示，该税适用于通过加密资产产生的收益，实施时间仍为原定的2027年1月。在市场持续关注相关税制是否会按期执行之际，财政部门的确认可为投资者和市场参与者准备税务负担提供明确时间点。不过，报道未提及更具体的执行规则或例外条款。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Corea del Sur confirma impuesto cripto del 22% desde enero de 2027",
-        "excerpt": "El Ministerio de Finanzas de Corea del Sur habría confirmado que el impuesto del 22% sobre ganancias cripto comenzará en enero de 2027.",
-        "body": "El Ministerio de Finanzas de Corea del Sur habría confirmado por primera vez que un impuesto del 22% sobre las ganancias de criptomonedas avanzará según lo previsto desde enero de 2027. Según el informe, el gravamen se aplicará a las ganancias generadas por criptoactivos, y la fecha de implementación se mantiene en enero de 2027. La confirmación ofrece a inversores y participantes del mercado un plazo más claro para prepararse ante la carga fiscal. El reporte no incluyó detalles adicionales sobre normas específicas o exenciones. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Coreia do Sul confirma imposto cripto de 22% a partir de janeiro de 2027",
-        "excerpt": "O Ministério das Finanças da Coreia do Sul teria confirmado que o imposto de 22% sobre ganhos cripto começará em janeiro de 2027.",
-        "body": "O Ministério das Finanças da Coreia do Sul teria confirmado pela primeira vez que um imposto de 22% sobre ganhos com criptomoedas avançará conforme previsto a partir de janeiro de 2027. Segundo a reportagem, a cobrança se aplica aos ganhos gerados por criptoativos, com a data de implementação mantida em janeiro de 2027. A confirmação dá a investidores e participantes do mercado um prazo mais claro para se preparar para a carga tributária. O relatório não trouxe detalhes adicionais sobre regras específicas ou exceções. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Südkorea bestätigt 22% Krypto-Steuer ab Januar 2027",
-        "excerpt": "Südkoreas Finanzministerium soll erstmals bestätigt haben, dass die 22% Steuer auf Krypto-Gewinne wie geplant im Januar 2027 startet.",
-        "body": "Südkoreas Finanzministerium hat Berichten zufolge erstmals bestätigt, dass eine Steuer von 22% auf Gewinne aus Kryptowährungen wie geplant ab Januar 2027 eingeführt wird. Dem Bericht zufolge gilt die Steuer für Gewinne aus Kryptoassets, während der Starttermin beim bisherigen Zeitplan Januar 2027 bleibt. Die Bestätigung gibt Anlegern und Marktteilnehmern einen klareren Zeitpunkt, um sich auf die Steuerbelastung vorzubereiten. Weitere Details zu konkreten Regeln oder Ausnahmen wurden in dem Bericht nicht genannt. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "La Corée du Sud confirme une taxe crypto de 22% dès janvier 2027",
-        "excerpt": "Le ministère sud-coréen des Finances aurait confirmé que la taxe de 22% sur les gains crypto entrera en vigueur en janvier 2027.",
-        "body": "Le ministère sud-coréen des Finances aurait confirmé pour la première fois qu’une taxe de 22% sur les gains liés aux cryptomonnaies sera appliquée comme prévu à partir de janvier 2027. Selon le rapport, cette taxe concerne les gains générés par les cryptoactifs, avec une mise en œuvre maintenue à janvier 2027. Cette confirmation donne aux investisseurs et aux acteurs du marché un calendrier plus clair pour anticiper la charge fiscale. Le rapport ne fournit pas de détails supplémentaires sur les règles précises ou les exemptions. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "كوريا الجنوبية تؤكد ضريبة 22% على أرباح العملات المشفرة في يناير 2027",
-        "excerpt": "أفادت تقارير بأن وزارة المالية في كوريا الجنوبية أكدت أن ضريبة 22% على أرباح العملات المشفرة ستبدأ كما هو مقرر في يناير 2027.",
-        "body": "أفادت تقارير بأن وزارة المالية في كوريا الجنوبية أكدت للمرة الأولى أن ضريبة بنسبة 22% على أرباح العملات المشفرة ستُطبق كما هو مقرر بدءا من يناير 2027. ووفقا للتقرير، ستنطبق الضريبة على الأرباح الناتجة عن الأصول المشفرة، مع بقاء موعد التنفيذ عند يناير 2027. ويمنح هذا التأكيد المستثمرين والمشاركين في السوق إطارا زمنيا أوضح للاستعداد للعبء الضريبي. ولم يورد التقرير تفاصيل إضافية بشأن القواعد المحددة أو أي استثناءات. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया जनवरी 2027 से क्रिप्टो लाभ पर 22% टैक्स की पुष्टि",
-        "excerpt": "दक्षिण कोरिया के वित्त मंत्रालय ने कथित तौर पर पुष्टि की है कि क्रिप्टो लाभ पर 22% टैक्स जनवरी 2027 से तय समय पर लागू होगा।",
-        "body": "दक्षिण कोरिया के वित्त मंत्रालय ने कथित तौर पर पहली बार पुष्टि की है कि क्रिप्टोकरेंसी लाभ पर 22% टैक्स जनवरी 2027 से तय कार्यक्रम के अनुसार लागू होगा। रिपोर्ट के अनुसार, यह टैक्स क्रिप्टो परिसंपत्तियों से होने वाले लाभ पर लागू होगा और इसकी शुरुआत जनवरी 2027 में ही रहेगी। इस पुष्टि से निवेशकों और बाजार सहभागियों को कर बोझ की तैयारी के लिए अधिक स्पष्ट समयसीमा मिलती है। रिपोर्ट में विशेष नियमों या छूटों पर अतिरिक्त जानकारी नहीं दी गई। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Korea Selatan Konfirmasi Pajak Kripto 22% Mulai Januari 2027",
-        "excerpt": "Kementerian Keuangan Korea Selatan dilaporkan mengonfirmasi pajak 22% atas keuntungan kripto akan berlaku sesuai jadwal pada Januari 2027.",
-        "body": "Kementerian Keuangan Korea Selatan dilaporkan untuk pertama kalinya mengonfirmasi bahwa pajak 22% atas keuntungan mata uang kripto akan berjalan sesuai jadwal mulai Januari 2027. Menurut laporan tersebut, pajak ini berlaku untuk keuntungan yang dihasilkan dari aset kripto, dengan waktu penerapan tetap pada Januari 2027. Konfirmasi ini memberi investor dan pelaku pasar garis waktu yang lebih jelas untuk mempersiapkan beban pajak. Laporan itu tidak memuat rincian tambahan tentang aturan khusus atau pengecualian. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "e3028e8b329e",
-    "slug": "coinbase-stock-drops-4-after-surprise-1q-miss-as-crypto-trad-489408",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T20:53:05.651Z",
-    "updatedAt": "2026-05-07T20:53:05.651Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/07/coinbase-stock-drops-4-after-surprise-1q-miss-as-crypto-trading-slows",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/07/coinbase-stock-drops-4-after-surprise-1q-miss-as-crypto-trading-slows",
-    "titleFingerprint": "59b25d479f2ad66fbba81e5127e726b773508eb3",
-    "dedupKeys": [
-      "e3028e8b329e2409aa77d6a6d5f1810d35bd2e02",
-      "59b25d479f2ad66fbba81e5127e726b773508eb3",
-      "9a5e81290bd4acae2931e072d79d575f1358298a"
-    ],
-    "imageUrl": "/images/articles/e3028e8b329e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코인베이스 주가 4% 하락, 1분기 깜짝 실적 부진에 거래 둔화 우려",
-        "excerpt": "코인베이스는 1분기 실적에서 이익과 매출이 시장 예상치를 밑돌며, 디지털 자산 가격 하락에 따른 거래 활동 둔화와 투자심리 약화로 주가가 4% 떨어졌다.",
-        "body": "코인베이스 주가가 1분기 실적 부진 이후 4% 하락했다. 암호화폐 거래 플랫폼인 코인베이스는 이번 분기 이익과 매출 모두 시장 예상치를 밑돌았다. 디지털 자산 가격이 하락하면서 플랫폼 내 거래 활동이 둔화됐고, 이는 투자자 심리에도 부담으로 작용했다. 이번 결과는 암호화폐 가격 흐름이 거래소 수익성과 주가에 직접적인 영향을 줄 수 있음을 보여준다. 시장은 향후 디지털 자산 가격과 거래량 회복 여부가 코인베이스 실적 전망의 핵심 변수로 남을 것으로 보고 있다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Coinbase Stock Falls 4% as Surprise Q1 Miss Sparks Trading Slowdown Concerns",
-        "excerpt": "Coinbase shares fell 4% after first-quarter earnings and revenue missed estimates, as lower digital asset prices weighed on trading activity and investor sentiment.",
-        "body": "Coinbase shares dropped 4% after the company reported weaker-than-expected first-quarter results. The crypto trading platform missed both earnings and revenue estimates for the quarter. Falling digital asset prices slowed trading activity on the platform and also weighed on investor sentiment. The result highlights how crypto price trends can directly affect exchange revenue and stock performance. Markets will continue watching whether digital asset prices and trading volumes recover, as those factors remain central to Coinbase’s earnings outlook. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "コインベース株4％下落、1Q予想外の未達で取引鈍化懸念強まる",
-        "excerpt": "コインベースは第1四半期決算で利益と売上高が市場予想を下回り、デジタル資産価格の下落による取引活動の鈍化と投資家心理の悪化で株価が4％下落した。",
-        "body": "コインベースの株価は、第1四半期決算の不振を受けて4％下落した。暗号資産取引プラットフォームである同社は、同四半期の利益と売上高のいずれも市場予想を下回った。デジタル資産価格の下落によりプラットフォーム上の取引活動が鈍化し、投資家心理にも重荷となった。今回の結果は、暗号資産価格の動きが取引所の収益性と株価に直接影響し得ることを示している。市場は今後、デジタル資産価格と取引量が回復するかどうかを、コインベースの業績見通しを左右する重要要因として注視している。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Coinbase股价下跌4%，一季度意外逊预期引发交易放缓担忧",
-        "excerpt": "Coinbase一季度盈利和营收均低于市场预期，数字资产价格下跌拖累交易活动和投资者情绪，推动其股价下跌4%。",
-        "body": "Coinbase股价在一季度业绩不及预期后下跌4%。这家加密货币交易平台本季度的盈利和营收均低于市场预期。数字资产价格下跌导致平台交易活动放缓，也对投资者情绪形成压力。此次结果显示，加密货币价格走势可能直接影响交易所的盈利能力和股价表现。市场接下来将关注数字资产价格与交易量能否恢复，因为这些因素仍是Coinbase业绩前景的关键变量。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Acciones de Coinbase caen 4% tras sorpresa negativa del 1T y menor trading cripto",
-        "excerpt": "Coinbase cayó 4% después de que sus resultados del primer trimestre quedaran por debajo de las estimaciones, afectados por menores precios de activos digitales y menor actividad de trading.",
-        "body": "Las acciones de Coinbase cayeron 4% después de que la compañía presentara resultados del primer trimestre por debajo de lo esperado. La plataforma de criptomonedas no alcanzó las estimaciones de ganancias ni de ingresos del periodo. La caída de los precios de los activos digitales redujo la actividad de trading en la plataforma y también afectó el ánimo de los inversionistas. El resultado muestra cómo la evolución de los precios cripto puede impactar directamente la rentabilidad de los exchanges y sus acciones. El mercado seguirá atento a una posible recuperación de precios y volúmenes, factores clave para las perspectivas de Coinbase. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Ação da Coinbase cai 4% após surpresa negativa no 1T e menor trading cripto",
-        "excerpt": "A Coinbase caiu 4% após lucro e receita do primeiro trimestre ficarem abaixo das estimativas, com preços menores de ativos digitais pesando sobre o trading e o sentimento dos investidores.",
-        "body": "As ações da Coinbase caíram 4% depois que a empresa divulgou resultados do primeiro trimestre abaixo do esperado. A plataforma de negociação de criptomoedas não atingiu as estimativas de lucro nem de receita no período. A queda nos preços dos ativos digitais reduziu a atividade de negociação na plataforma e também pressionou o sentimento dos investidores. O resultado mostra como a trajetória dos preços cripto pode afetar diretamente a rentabilidade das corretoras e o desempenho das ações. O mercado acompanhará se preços e volumes de negociação se recuperam, fatores centrais para a perspectiva de resultados da Coinbase. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Coinbase-Aktie fällt 4%, überraschender Q1-Fehlschlag schürt Trading-Sorgen",
-        "excerpt": "Coinbase verfehlte im ersten Quartal die Gewinn- und Umsatzschätzungen, während niedrigere Preise digitaler Vermögenswerte Handelsaktivität und Anlegerstimmung belasteten.",
-        "body": "Die Coinbase-Aktie fiel nach schwächer als erwarteten Ergebnissen im ersten Quartal um 4%. Die Krypto-Handelsplattform verfehlte sowohl die Gewinn- als auch die Umsatzschätzungen für das Quartal. Sinkende Preise digitaler Vermögenswerte bremsten die Handelsaktivität auf der Plattform und belasteten zugleich die Stimmung der Anleger. Das Ergebnis zeigt, wie direkt Bewegungen bei Kryptopreisen die Profitabilität von Börsen und deren Aktienkurs beeinflussen können. Der Markt wird nun beobachten, ob sich die Preise digitaler Vermögenswerte und das Handelsvolumen erholen, da diese Faktoren für den Ausblick von Coinbase zentral bleiben. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "L’action Coinbase chute de 4% après un T1 décevant et un trading crypto ralenti",
-        "excerpt": "Coinbase a reculé de 4% après des bénéfices et revenus du premier trimestre inférieurs aux estimations, la baisse des actifs numériques pesant sur l’activité et le sentiment.",
-        "body": "L’action Coinbase a chuté de 4% après la publication de résultats du premier trimestre inférieurs aux attentes. La plateforme de trading de cryptomonnaies a manqué les estimations de bénéfices et de revenus sur la période. La baisse des prix des actifs numériques a ralenti l’activité de trading sur la plateforme et a aussi pesé sur le sentiment des investisseurs. Ce résultat montre que l’évolution des prix crypto peut affecter directement la rentabilité des plateformes d’échange et leur cours de Bourse. Le marché surveillera désormais une éventuelle reprise des prix des actifs numériques et des volumes, facteurs clés pour les perspectives de Coinbase. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "سهم Coinbase يهبط 4% بعد إخفاق مفاجئ في الربع الأول وتباطؤ تداول العملات المشفرة",
-        "excerpt": "هبط سهم Coinbase بنسبة 4% بعدما جاءت أرباح وإيرادات الربع الأول دون التقديرات، مع ضغط تراجع أسعار الأصول الرقمية على نشاط التداول ومعنويات المستثمرين.",
-        "body": "هبط سهم Coinbase بنسبة 4% بعد إعلان نتائج للربع الأول جاءت أضعف من المتوقع. فقد أخفقت منصة تداول العملات المشفرة في تحقيق تقديرات الأرباح والإيرادات خلال الفترة. وتسبب تراجع أسعار الأصول الرقمية في تباطؤ نشاط التداول على المنصة، كما ضغط على معنويات المستثمرين. وتوضح هذه النتائج أن تحركات أسعار العملات المشفرة قد تؤثر مباشرة في ربحية منصات التداول وأداء أسهمها. وسيراقب السوق ما إذا كانت أسعار الأصول الرقمية وأحجام التداول ستتعافى، إذ تظل هذه العوامل محورية لتوقعات أداء Coinbase. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Coinbase शेयर 4% गिरा, पहली तिमाही की चूक से क्रिप्टो ट्रेडिंग सुस्ती की चिंता",
-        "excerpt": "Coinbase के पहली तिमाही के मुनाफे और राजस्व अनुमान से कम रहे, क्योंकि डिजिटल एसेट कीमतों में गिरावट ने ट्रेडिंग गतिविधि और निवेशक भावना पर दबाव डाला, जिससे शेयर 4% गिरा।",
-        "body": "Coinbase का शेयर पहली तिमाही के कमजोर नतीजों के बाद 4% गिर गया। क्रिप्टो ट्रेडिंग प्लेटफॉर्म ने इस तिमाही में मुनाफे और राजस्व, दोनों में बाजार अनुमानों को पूरा नहीं किया। डिजिटल एसेट कीमतों में गिरावट से प्लेटफॉर्म पर ट्रेडिंग गतिविधि धीमी हुई और निवेशकों की भावना पर भी दबाव पड़ा। यह नतीजा दिखाता है कि क्रिप्टो कीमतों की दिशा एक्सचेंज की आय और शेयर प्रदर्शन को सीधे प्रभावित कर सकती है। बाजार अब यह देखेगा कि डिजिटल एसेट कीमतें और ट्रेडिंग वॉल्यूम सुधरते हैं या नहीं, क्योंकि ये Coinbase की आय संभावनाओं के लिए अहम बने रहेंगे। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Saham Coinbase Turun 4% Usai Kinerja Q1 Meleset dan Trading Kripto Melambat",
-        "excerpt": "Coinbase turun 4% setelah laba dan pendapatan kuartal pertama meleset dari estimasi, karena penurunan harga aset digital menekan aktivitas trading dan sentimen investor.",
-        "body": "Saham Coinbase turun 4% setelah perusahaan melaporkan hasil kuartal pertama yang lebih lemah dari perkiraan. Platform perdagangan kripto itu gagal memenuhi estimasi laba dan pendapatan pada periode tersebut. Penurunan harga aset digital memperlambat aktivitas trading di platform dan turut menekan sentimen investor. Hasil ini menunjukkan bahwa pergerakan harga kripto dapat berdampak langsung pada profitabilitas bursa dan kinerja sahamnya. Pasar akan terus mencermati apakah harga aset digital dan volume perdagangan pulih, karena faktor tersebut tetap menjadi kunci prospek kinerja Coinbase. Sumber: coindesk.com"
       }
     }
   }
