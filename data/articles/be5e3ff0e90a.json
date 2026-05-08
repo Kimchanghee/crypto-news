@@ -1,0 +1,75 @@
+{
+  "id": "be5e3ff0e90a",
+  "slug": "anthropic-deploys-ai-agents-to-tackle-wall-street39s-most-te-181678",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T08:08:23.943Z",
+  "updatedAt": "2026-05-08T08:08:23.943Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/366977/anthropic-deploys-ai-agents-to-tackle-wall-streets-most-tedious-work",
+  "canonicalUrl": "https://decrypt.co/366977/anthropic-deploys-ai-agents-to-tackle-wall-streets-most-tedious-work",
+  "titleFingerprint": "02cc34a3f1169d1bfa5ad988df98c59309145802",
+  "dedupKeys": [
+    "be5e3ff0e90ad4584555e18c353fcb073930e2c3",
+    "02cc34a3f1169d1bfa5ad988df98c59309145802",
+    "d41661719440a0c7de415641341d7779d149c9ee"
+  ],
+  "imageUrl": "/images/articles/be5e3ff0e90a.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Anthropic AI 에이전트, 월가 반복 업무 겨냥한 금융 템플릿 공개",
+      "excerpt": "Anthropic은 금융권의 피치북 제작과 월말 결산 등 시간이 많이 드는 업무를 줄이기 위해 바로 실행 가능한 AI 에이전트 템플릿 10종을 공개했다.",
+      "body": "Anthropic이 월가의 반복적이고 시간이 많이 드는 업무를 겨냥해 바로 실행할 수 있는 AI 에이전트 템플릿 10종을 공개했다. 이번 템플릿은 금융권에서 자주 발생하는 피치북 제작부터 월말 장부 마감까지 다양한 업무를 대상으로 한다. 회사는 이 같은 작업이 금융 현장에서 많은 시간을 차지한다는 점에 초점을 맞췄다. 공개된 템플릿은 별도 구축 부담을 줄이고, 정형화된 업무 흐름에 AI 에이전트를 적용하려는 금융기관의 활용 가능성을 보여준다. 다만 원문은 구체적 도입 기업이나 성과 수치를 제시하지 않았다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "Anthropic AI Agents Target Wall Street’s Repetitive Finance Work",
+      "excerpt": "Anthropic released 10 ready-to-run AI agent templates for finance, aiming to reduce time spent on pitchbooks, month-end close and other tedious tasks.",
+      "body": "Anthropic has released 10 ready-to-run AI agent templates aimed at some of Wall Street’s most repetitive and time-consuming work. The templates focus on common finance tasks, ranging from building pitchbooks to closing the books at month-end. The company’s move highlights how much time these structured workflows can consume inside financial firms. The templates may reduce the burden of building custom systems and show how AI agents can be applied to standardized finance processes. The original report did not provide specific client names or performance figures. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "AnthropicのAIエージェント、ウォール街の反復業務に照準",
+      "excerpt": "Anthropicは、ピッチブック作成や月末決算など金融業界で時間を要する業務向けに、すぐ使えるAIエージェントテンプレート10種を公開した。",
+      "body": "Anthropicは、ウォール街で繰り返し発生し時間を取られる業務を対象に、すぐ実行できるAIエージェントテンプレート10種を公開した。対象には、金融業界で一般的なピッチブック作成から月末の帳簿締めまでが含まれる。同社は、こうした定型業務が金融現場で大きな時間を占めている点に着目した。今回のテンプレートは、個別構築の負担を抑えながら、標準化された業務フローにAIエージェントを導入する可能性を示すものだ。ただし原文では、導入企業名や具体的な成果数値は示されていない。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "Anthropic AI智能体瞄准华尔街高耗时金融重复工作",
+      "excerpt": "Anthropic发布10个可直接运行的金融AI智能体模板，覆盖投行业务演示材料制作、月末结账等耗时任务。",
+      "body": "Anthropic发布了10个可直接运行的AI智能体模板，目标是华尔街部分最重复、最耗时的金融工作。这些模板覆盖金融机构常见任务，从制作投行业务演示材料到月末结账。该公司此举聚焦于这些结构化流程在金融现场占用大量时间的现实。模板可能降低机构自行搭建系统的负担，并展示AI智能体应用于标准化金融流程的方式。不过，原文未披露具体采用企业或成效数据。来源: decrypt.co"
+    },
+    "es": {
+      "title": "Agentes de IA de Anthropic apuntan al trabajo repetitivo de Wall Street",
+      "excerpt": "Anthropic lanzó 10 plantillas de agentes de IA listas para usar en finanzas, enfocadas en pitchbooks, cierres mensuales y otras tareas tediosas.",
+      "body": "Anthropic presentó 10 plantillas de agentes de IA listas para ejecutar, dirigidas a algunas de las tareas más repetitivas y demandantes de tiempo en Wall Street. Las plantillas cubren trabajos frecuentes en finanzas, desde la creación de pitchbooks hasta el cierre de libros a fin de mes. La iniciativa subraya cuánto tiempo pueden consumir estos flujos estructurados dentro de las firmas financieras. Las plantillas podrían reducir la carga de crear sistemas a medida y mostrar cómo aplicar agentes de IA a procesos financieros estandarizados. El reporte original no incluyó empresas usuarias ni cifras de resultados. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "Agentes de IA da Anthropic miram tarefas repetitivas de Wall Street",
+      "excerpt": "A Anthropic lançou 10 modelos de agentes de IA prontos para uso em finanças, voltados a pitchbooks, fechamento mensal e outras tarefas demoradas.",
+      "body": "A Anthropic lançou 10 modelos de agentes de IA prontos para executar, mirando algumas das tarefas mais repetitivas e demoradas de Wall Street. Os modelos abrangem atividades comuns no setor financeiro, da criação de pitchbooks ao fechamento dos livros no fim do mês. A iniciativa destaca quanto tempo esses fluxos estruturados podem consumir dentro das instituições financeiras. Os modelos podem reduzir o esforço de criar sistemas personalizados e mostram como agentes de IA podem ser aplicados a processos financeiros padronizados. A reportagem original não informou empresas adotantes nem métricas de desempenho. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "Anthropic AI-Agenten zielen auf repetitive Wall-Street-Aufgaben",
+      "excerpt": "Anthropic hat 10 einsatzbereite KI-Agenten-Vorlagen für Finanzaufgaben veröffentlicht, darunter Pitchbooks, Monatsabschluss und weitere zeitraubende Abläufe.",
+      "body": "Anthropic hat 10 sofort einsatzbereite KI-Agenten-Vorlagen veröffentlicht, die auf besonders repetitive und zeitaufwendige Aufgaben an der Wall Street ausgerichtet sind. Die Vorlagen decken typische Finanzprozesse ab, vom Erstellen von Pitchbooks bis zum Monatsabschluss. Der Schritt zeigt, wie viel Zeit solche strukturierten Arbeitsabläufe in Finanzunternehmen beanspruchen können. Die Vorlagen könnten den Aufwand für individuell gebaute Systeme senken und zeigen, wie KI-Agenten in standardisierte Finanzprozesse eingebunden werden können. Der Originalbericht nennt keine konkreten Kunden oder Leistungszahlen. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "Les agents IA d’Anthropic ciblent les tâches répétitives de Wall Street",
+      "excerpt": "Anthropic a publié 10 modèles d’agents IA prêts à l’emploi pour la finance, visant les pitchbooks, les clôtures mensuelles et d’autres tâches longues.",
+      "body": "Anthropic a publié 10 modèles d’agents IA prêts à être utilisés, destinés à certaines des tâches les plus répétitives et chronophages de Wall Street. Ces modèles couvrent des travaux courants dans la finance, de la création de pitchbooks à la clôture des comptes en fin de mois. L’initiative souligne le temps que ces flux structurés peuvent prendre au sein des sociétés financières. Les modèles pourraient réduire l’effort nécessaire pour créer des systèmes sur mesure et montrer comment appliquer des agents IA à des processus financiers standardisés. Le rapport original ne cite pas d’entreprises utilisatrices ni de chiffres de performance. Source: decrypt.co"
+    },
+    "ar": {
+      "title": "وكلاء Anthropic للذكاء الاصطناعي يستهدفون أعمال وول ستريت المتكررة",
+      "excerpt": "أطلقت Anthropic عشرة قوالب جاهزة لوكلاء ذكاء اصطناعي في قطاع التمويل، تشمل إعداد عروض الاستثمار والإغلاق الشهري ومهام أخرى تستغرق وقتا طويلا.",
+      "body": "أطلقت Anthropic عشرة قوالب جاهزة للتشغيل لوكلاء ذكاء اصطناعي تستهدف بعض أكثر أعمال وول ستريت تكرارا واستهلاكا للوقت. وتركز القوالب على مهام شائعة في قطاع التمويل، من إعداد عروض الاستثمار إلى إغلاق الدفاتر في نهاية الشهر. وتبرز الخطوة مقدار الوقت الذي يمكن أن تستغرقه هذه الإجراءات المنظمة داخل المؤسسات المالية. وقد تخفف القوالب عبء بناء أنظمة مخصصة، وتوضح كيف يمكن تطبيق وكلاء الذكاء الاصطناعي على عمليات مالية معيارية. ولم يذكر التقرير الأصلي أسماء شركات مستخدمة أو أرقام أداء محددة. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "Anthropic AI एजेंट्स वॉल स्ट्रीट के दोहराव वाले वित्तीय कामों पर केंद्रित",
+      "excerpt": "Anthropic ने वित्त क्षेत्र के लिए 10 तैयार AI एजेंट टेम्पलेट जारी किए, जो पिचबुक बनाने, महीने के अंत में बही बंद करने और अन्य समय लेने वाले कामों पर केंद्रित हैं।",
+      "body": "Anthropic ने वॉल स्ट्रीट के कुछ सबसे दोहराव वाले और समय लेने वाले कामों के लिए 10 तैयार AI एजेंट टेम्पलेट जारी किए हैं। ये टेम्पलेट वित्त क्षेत्र के आम कार्यों को लक्षित करते हैं, जिनमें पिचबुक बनाना और महीने के अंत में खातों की बही बंद करना शामिल है। कंपनी का यह कदम दिखाता है कि ऐसे संरचित कार्यप्रवाह वित्तीय संस्थानों में कितना समय ले सकते हैं। ये टेम्पलेट कस्टम सिस्टम बनाने की जरूरत को कम कर सकते हैं और मानकीकृत वित्तीय प्रक्रियाओं में AI एजेंट लागू करने की संभावना दिखाते हैं। मूल रिपोर्ट में किसी अपनाने वाली कंपनी या प्रदर्शन आंकड़ों का उल्लेख नहीं है। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "Agen AI Anthropic Sasar Tugas Keuangan Berulang di Wall Street",
+      "excerpt": "Anthropic merilis 10 template agen AI siap pakai untuk keuangan, mencakup pembuatan pitchbook, penutupan buku akhir bulan, dan tugas lain yang memakan waktu.",
+      "body": "Anthropic merilis 10 template agen AI siap dijalankan untuk menangani sebagian pekerjaan Wall Street yang paling berulang dan memakan waktu. Template ini menyasar tugas umum di sektor keuangan, mulai dari pembuatan pitchbook hingga penutupan buku pada akhir bulan. Langkah tersebut menyoroti besarnya waktu yang dapat tersita oleh alur kerja terstruktur di perusahaan keuangan. Template ini dapat mengurangi beban membangun sistem khusus dan menunjukkan cara agen AI diterapkan pada proses keuangan yang terstandardisasi. Laporan asli tidak mencantumkan nama perusahaan pengguna atau angka kinerja tertentu. Sumber: decrypt.co"
+    }
+  }
+}
