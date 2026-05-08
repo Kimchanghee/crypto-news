@@ -1,0 +1,75 @@
+{
+  "id": "89280b525c0b",
+  "slug": "ai-agents-could-solve-cryptos-user-problem-280994",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T06:02:44.398Z",
+  "updatedAt": "2026-05-08T06:02:44.398Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/05/08/ai-agents-could-solve-crypto-s-user-problem",
+  "canonicalUrl": "https://www.coindesk.com/markets/2026/05/08/ai-agents-could-solve-crypto-s-user-problem",
+  "titleFingerprint": "e68d2843aaf04e5b5bbab92f520f6a242355b1ef",
+  "dedupKeys": [
+    "89280b525c0b137b0d1a08249a85d4a8d212fac2",
+    "e68d2843aaf04e5b5bbab92f520f6a242355b1ef",
+    "d75462f21f6bcc84de15db0495d29a4a097d58db"
+  ],
+  "imageUrl": "/images/articles/89280b525c0b.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 에이전트가 암호화폐 사용자 문제 풀까, 지갑·스테이블코인 활용 주목",
+      "excerpt": "차피 아셀은 코인데스크 보도에서 자율 소프트웨어가 인간보다 지갑과 스테이블코인의 더 자연스러운 사용자가 될 수 있지만 에이전트 결제는 아직 이론적이라고 말했다.",
+      "body": "차피 아셀은 코인데스크 보도에서 AI 에이전트로 불리는 자율 소프트웨어가 암호화폐의 사용자 문제를 푸는 단서가 될 수 있다고 밝혔다. 그는 인간보다 소프트웨어 에이전트가 지갑과 스테이블코인을 더 자연스럽게 사용할 수 있다고 봤다. 배경에는 사람이 직접 지갑을 다루고 결제하는 과정에서 생기는 사용성 장벽이 있다. 다만 에이전트가 스스로 결제하는 이른바 에이전틱 결제는 아직 대부분 이론 단계에 머물러 있다. 이 관점은 암호화폐 사용 주체가 사람에서 자율 소프트웨어로 넓어질 가능성을 보여주지만, 실제 확산 여부는 검증이 필요하다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "AI Agents May Tackle Crypto’s User Problem as Wallets and Stablecoins Gain Focus",
+      "excerpt": "Chappy Asel told CoinDesk that autonomous software may be more natural users of wallets and stablecoins than humans, while agentic payments remain mostly theoretical.",
+      "body": "Chappy Asel said in a CoinDesk report that autonomous software known as AI agents could offer a clue to solving crypto’s user problem. He argued that software agents may be more natural users of wallets and stablecoins than humans. The context is the usability barrier created when people must directly manage wallets and payments. Still, so-called agentic payments, in which agents make payments on their own, remain mostly theoretical. The view points to a possible expansion of crypto users from people to autonomous software, but real-world adoption still needs to be tested. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "AIエージェントは暗号資産のユーザー問題を解くか、ウォレットとステーブルコインに注目",
+      "excerpt": "チャッピー・アセル氏はCoinDeskの報道で、自律ソフトウェアは人間よりウォレットやステーブルコインの自然な利用者になり得るが、エージェント決済はなお理論段階だと述べた。",
+      "body": "チャッピー・アセル氏はCoinDeskの報道で、AIエージェントと呼ばれる自律ソフトウェアが暗号資産のユーザー問題を解く手がかりになり得ると語った。同氏は、人間よりもソフトウェアエージェントの方がウォレットやステーブルコインを自然に使える可能性があると見ている。背景には、人が直接ウォレットを扱い決済する際の使いにくさがある。ただし、エージェントが自ら支払うエージェント型決済はまだ大半が理論段階にとどまる。この見方は暗号資産の利用主体が人から自律ソフトウェアへ広がる可能性を示すが、実際の普及には検証が必要だ。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "AI代理能否解决加密货币用户难题，钱包与稳定币使用受关注",
+      "excerpt": "Chappy Asel在CoinDesk报道中表示，自主软件可能比人类更自然地使用钱包和稳定币，但代理式支付目前仍主要停留在理论阶段。",
+      "body": "Chappy Asel在CoinDesk报道中表示，被称为AI代理的自主软件，可能为解决加密货币的用户问题提供线索。他认为，相比人类，软件代理或许更能自然地使用钱包和稳定币。其背景是，人们直接管理钱包并完成支付时存在使用门槛。不过，由代理自主完成付款的所谓代理式支付，目前大多仍停留在理论阶段。这一观点显示，加密货币的使用主体可能从人扩展到自主软件，但实际普及仍需要验证。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Agentes de IA podrían aliviar el problema de usuarios cripto con wallets y stablecoins",
+      "excerpt": "Chappy Asel dijo a CoinDesk que el software autónomo podría usar wallets y stablecoins de forma más natural que los humanos, aunque los pagos agénticos siguen siendo sobre todo teóricos.",
+      "body": "Chappy Asel señaló en un reporte de CoinDesk que el software autónomo conocido como agentes de IA podría ofrecer una pista para resolver el problema de usuarios de las criptomonedas. Según Asel, los agentes de software podrían ser usuarios más naturales de wallets y stablecoins que los humanos. El contexto es la barrera de usabilidad que surge cuando las personas deben manejar directamente wallets y pagos. Sin embargo, los pagos agénticos, en los que los agentes pagan por sí mismos, siguen siendo en su mayoría teóricos. La idea apunta a que el uso cripto podría ampliarse de personas a software autónomo, aunque su adopción real aún debe comprobarse. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Agentes de IA podem enfrentar problema de usuários cripto com carteiras e stablecoins",
+      "excerpt": "Chappy Asel disse ao CoinDesk que softwares autônomos podem usar carteiras e stablecoins de forma mais natural que humanos, embora pagamentos agênticos ainda sejam majoritariamente teóricos.",
+      "body": "Chappy Asel afirmou em reportagem do CoinDesk que softwares autônomos conhecidos como agentes de IA podem oferecer uma pista para resolver o problema de usuários das criptomoedas. Para ele, agentes de software talvez sejam usuários mais naturais de carteiras e stablecoins do que humanos. O pano de fundo é a barreira de usabilidade criada quando pessoas precisam lidar diretamente com carteiras e pagamentos. Ainda assim, os chamados pagamentos agênticos, nos quais agentes pagam por conta própria, seguem em grande parte teóricos. A visão indica que o uso cripto pode se expandir de pessoas para softwares autônomos, mas a adoção real ainda precisa ser comprovada. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "KI-Agenten könnten Kryptos Nutzerproblem mit Wallets und Stablecoins entschärfen",
+      "excerpt": "Chappy Asel sagte CoinDesk, autonome Software könne Wallets und Stablecoins natürlicher nutzen als Menschen, während agentische Zahlungen bislang weitgehend theoretisch bleiben.",
+      "body": "Chappy Asel sagte in einem Bericht von CoinDesk, autonome Software, die als KI-Agenten bezeichnet wird, könne einen Hinweis zur Lösung des Nutzerproblems von Kryptowährungen liefern. Er sieht Software-Agenten als möglicherweise natürlichere Nutzer von Wallets und Stablecoins als Menschen. Hintergrund ist die Hürde bei der Bedienung, wenn Menschen Wallets und Zahlungen direkt verwalten müssen. Agentische Zahlungen, bei denen Agenten selbstständig bezahlen, bleiben jedoch größtenteils theoretisch. Die Sichtweise deutet darauf hin, dass sich der Kreis der Krypto-Nutzer von Menschen auf autonome Software erweitern könnte, doch eine tatsächliche Verbreitung muss erst geprüft werden. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Les agents IA pourraient résoudre le problème d’usage crypto via wallets et stablecoins",
+      "excerpt": "Chappy Asel a déclaré à CoinDesk que les logiciels autonomes pourraient utiliser wallets et stablecoins plus naturellement que les humains, même si les paiements agentiques restent surtout théoriques.",
+      "body": "Chappy Asel a déclaré dans un article de CoinDesk que les logiciels autonomes appelés agents IA pourraient fournir une piste pour résoudre le problème d’utilisateurs des cryptomonnaies. Selon lui, les agents logiciels pourraient être des utilisateurs plus naturels des wallets et des stablecoins que les humains. Le contexte est la barrière d’usage créée lorsque les personnes doivent gérer directement wallets et paiements. Toutefois, les paiements agentiques, dans lesquels les agents paient eux-mêmes, restent pour l’essentiel théoriques. Cette vision suggère que l’usage crypto pourrait s’élargir des humains aux logiciels autonomes, mais son adoption réelle doit encore être vérifiée. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "وكلاء الذكاء الاصطناعي قد يعالجون مشكلة مستخدمي الكريبتو عبر المحافظ والعملات المستقرة",
+      "excerpt": "قال تشابي أسيل في تقرير كوين ديسك إن البرمجيات المستقلة قد تكون مستخدما أكثر طبيعية للمحافظ والعملات المستقرة من البشر، رغم أن مدفوعات الوكلاء لا تزال نظرية غالبا.",
+      "body": "قال تشابي أسيل في تقرير نشره موقع CoinDesk إن البرمجيات المستقلة المعروفة بوكلاء الذكاء الاصطناعي قد تقدم مفتاحا لمعالجة مشكلة المستخدمين في العملات المشفرة. ويرى أن وكلاء البرمجيات قد يكونون مستخدمين أكثر طبيعية للمحافظ والعملات المستقرة من البشر. وتأتي هذه الفكرة في ظل عوائق الاستخدام التي تظهر عندما يضطر الأشخاص إلى إدارة المحافظ والمدفوعات مباشرة. مع ذلك، فإن ما يسمى بالمدفوعات الوكيلة، حيث تدفع الوكلاء من تلقاء نفسها، لا يزال في معظمه ضمن الإطار النظري. وتوضح هذه الرؤية احتمال اتساع مستخدمي الكريبتو من البشر إلى البرمجيات المستقلة، لكن الانتشار الفعلي يحتاج إلى تحقق. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "AI एजेंट वॉलेट और स्टेबलकॉइन के जरिए क्रिप्टो की यूजर समस्या सुलझा सकते हैं",
+      "excerpt": "Chappy Asel ने CoinDesk से कहा कि स्वायत्त सॉफ्टवेयर वॉलेट और स्टेबलकॉइन के लिए इंसानों से अधिक स्वाभाविक उपयोगकर्ता हो सकते हैं, हालांकि एजेंटिक भुगतान अभी ज्यादातर सैद्धांतिक हैं।",
+      "body": "Chappy Asel ने CoinDesk की रिपोर्ट में कहा कि AI एजेंट कहे जाने वाले स्वायत्त सॉफ्टवेयर क्रिप्टो की यूजर समस्या सुलझाने का संकेत दे सकते हैं। उनके अनुसार, सॉफ्टवेयर एजेंट इंसानों की तुलना में वॉलेट और स्टेबलकॉइन के अधिक स्वाभाविक उपयोगकर्ता हो सकते हैं। इसकी पृष्ठभूमि वह उपयोगिता बाधा है जो तब पैदा होती है जब लोगों को वॉलेट और भुगतान सीधे संभालने पड़ते हैं। हालांकि, एजेंटों द्वारा अपने आप भुगतान करने वाली एजेंटिक पेमेंट व्यवस्था अभी अधिकतर सैद्धांतिक चरण में है। यह दृष्टिकोण दिखाता है कि क्रिप्टो उपयोगकर्ता इंसानों से आगे स्वायत्त सॉफ्टवेयर तक फैल सकते हैं, लेकिन वास्तविक अपनाने की पुष्टि अभी बाकी है। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Agen AI Bisa Jawab Masalah Pengguna Kripto lewat Dompet dan Stablecoin",
+      "excerpt": "Chappy Asel mengatakan kepada CoinDesk bahwa perangkat lunak otonom bisa menjadi pengguna dompet dan stablecoin yang lebih alami daripada manusia, meski pembayaran agentik masih sebagian besar teoretis.",
+      "body": "Chappy Asel mengatakan dalam laporan CoinDesk bahwa perangkat lunak otonom yang disebut agen AI dapat menjadi petunjuk untuk menyelesaikan masalah pengguna kripto. Ia menilai agen perangkat lunak mungkin lebih alami menggunakan dompet dan stablecoin dibanding manusia. Latar belakangnya adalah hambatan kegunaan ketika orang harus mengelola dompet dan pembayaran secara langsung. Namun, pembayaran agentik, yaitu saat agen melakukan pembayaran sendiri, masih sebagian besar berada pada tahap teoretis. Pandangan ini menunjukkan kemungkinan pengguna kripto meluas dari manusia ke perangkat lunak otonom, tetapi adopsi nyata masih perlu dibuktikan. Sumber: coindesk.com"
+    }
+  }
+}
