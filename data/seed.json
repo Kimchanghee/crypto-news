@@ -1,5 +1,230 @@
 [
   {
+    "id": "f2f61c99f617",
+    "slug": "hardware-wallet-thief-gets-78-months-in-prison-over-250m-cry-563925",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T04:13:56.735Z",
+    "updatedAt": "2026-05-08T04:13:56.735Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367066/hardware-wallet-thief-gets-78-months-in-prison-over-250m-crypto-heist",
+    "canonicalUrl": "https://decrypt.co/367066/hardware-wallet-thief-gets-78-months-in-prison-over-250m-crypto-heist",
+    "titleFingerprint": "213bdb9e5cfbb2413fd06c7ad6ec219380c7cf15",
+    "dedupKeys": [
+      "f2f61c99f6172222a42f37b08dd58ac8ff2f6a65",
+      "213bdb9e5cfbb2413fd06c7ad6ec219380c7cf15",
+      "f84bb87ea91247c17af18b37c0acb3a83d9484b0"
+    ],
+    "imageUrl": "/images/articles/f2f61c99f617.png",
+    "i18n": {
+      "ko": {
+        "title": "하드웨어 지갑 절도범, 2억5000만달러 암호화폐 사건으로 징역 78개월",
+        "excerpt": "‘GothFerrari’가 사회공학 수법과 물리적 침입으로 암호화폐를 훔친 범죄 조직 가담 혐의로 징역 78개월을 선고받았다.",
+        "body": "하드웨어 지갑 절도 사건에 연루된 ‘GothFerrari’가 2억5000만달러 규모의 암호화폐 절도 사건과 관련해 징역 78개월을 선고받았다. 그는 사회공학 수법과 물리적 침입을 통해 암호화폐를 훔친 범죄 조직에 가담한 혐의로 처벌을 받았다. 이번 사건은 디지털 자산 보관 수단인 하드웨어 지갑도 사용자 정보 탈취와 오프라인 침입이 결합될 경우 공격 대상이 될 수 있음을 보여준다. 관련 수치는 피해 규모가 2억5000만달러에 달했다는 점에서 주목된다. 판결은 암호화폐 보안에서 기술적 보호뿐 아니라 신원 확인, 접근 관리, 물리적 보안의 중요성을 다시 부각시킨다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Hardware Wallet Thief Gets 78 Months Over $250M Crypto Heist",
+        "excerpt": "‘GothFerrari’ was sentenced to 78 months in prison for joining a criminal enterprise that stole crypto through social engineering and physical break-ins.",
+        "body": "‘GothFerrari,’ linked to a hardware wallet theft case, was sentenced to 78 months in prison over a $250 million crypto theft. He was punished for his role in a criminal enterprise that stole cryptocurrency through social engineering and physical break-ins. The case shows that even hardware wallets, used to store digital assets, can become targets when user information theft and offline intrusion are combined. The reported $250 million scale makes the case especially notable. The sentence again highlights the importance of identity checks, access control, and physical security alongside technical protections in crypto custody. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "ハードウェアウォレット窃盗犯、2.5億ドル暗号資産事件で禁錮78カ月",
+        "excerpt": "‘GothFerrari’は、ソーシャルエンジニアリングと物理的侵入で暗号資産を盗んだ犯罪組織への関与により禁錮78カ月を言い渡された。",
+        "body": "ハードウェアウォレット窃盗事件に関与した‘GothFerrari’が、2億5000万ドル規模の暗号資産窃盗事件をめぐり禁錮78カ月を言い渡された。彼は、ソーシャルエンジニアリングと物理的な侵入を通じて暗号資産を盗んだ犯罪組織に加わったとして処罰された。この事件は、デジタル資産の保管手段であるハードウェアウォレットも、利用者情報の奪取とオフラインでの侵入が組み合わされれば攻撃対象になり得ることを示している。被害規模が2億5000万ドルに達した点でも注目される。判決は、暗号資産保管において技術的保護だけでなく、本人確認、アクセス管理、物理的セキュリティの重要性を改めて浮き彫りにした。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "硬件钱包窃贼因2.5亿美元加密货币盗案被判78个月监禁",
+        "excerpt": "‘GothFerrari’因参与一个通过社会工程和实体闯入盗取加密货币的犯罪组织，被判处78个月监禁。",
+        "body": "涉及硬件钱包盗窃案的‘GothFerrari’因一起规模达2.5亿美元的加密货币盗窃事件被判处78个月监禁。他因参与一个通过社会工程手段和实体闯入盗取加密货币的犯罪组织而受到处罚。此案显示，即便是用于保存数字资产的硬件钱包，在用户信息被获取并结合线下入侵时，也可能成为攻击目标。2.5亿美元的涉案规模使该案格外受到关注。该判决再次凸显，在加密资产托管中，除技术保护外，身份核验、访问管理和实体安全同样重要。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Ladrón de billetera hardware recibe 78 meses por robo cripto de $250M",
+        "excerpt": "‘GothFerrari’ fue condenado a 78 meses de prisión por participar en una organización que robó cripto con ingeniería social y allanamientos físicos.",
+        "body": "‘GothFerrari,’ vinculado a un caso de robo de billeteras hardware, fue condenado a 78 meses de prisión por un robo de criptomonedas de 250 millones de dólares. Fue castigado por su papel en una organización criminal que sustrajo criptoactivos mediante ingeniería social y allanamientos físicos. El caso muestra que incluso las billeteras hardware, usadas para custodiar activos digitales, pueden ser objetivo cuando el robo de información del usuario se combina con intrusiones fuera de línea. La cifra de 250 millones de dólares hace que el caso sea especialmente relevante. La sentencia vuelve a subrayar la importancia de la verificación de identidad, el control de accesos y la seguridad física junto con las protecciones técnicas. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Ladrão de carteira hardware pega 78 meses por roubo cripto de US$250 mi",
+        "excerpt": "‘GothFerrari’ foi condenado a 78 meses de prisão por integrar organização que roubou criptomoedas com engenharia social e invasões físicas.",
+        "body": "‘GothFerrari,’ ligado a um caso de roubo de carteira hardware, foi condenado a 78 meses de prisão por um roubo de criptomoedas de US$ 250 milhões. Ele foi punido por participar de uma organização criminosa que roubou criptoativos por meio de engenharia social e invasões físicas. O caso mostra que até carteiras hardware, usadas para guardar ativos digitais, podem virar alvo quando a captura de informações do usuário é combinada com intrusões fora do ambiente online. O valor de US$ 250 milhões torna o episódio especialmente relevante. A sentença reforça a importância de verificação de identidade, controle de acesso e segurança física, além das proteções técnicas. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Hardware-Wallet-Dieb erhält 78 Monate Haft für 250-Mio.-Dollar-Krypto-Fall",
+        "excerpt": "‘GothFerrari’ wurde zu 78 Monaten Haft verurteilt, weil er an einer Gruppe beteiligt war, die Krypto per Social Engineering und Einbrüchen stahl.",
+        "body": "‘GothFerrari,’ der mit einem Hardware-Wallet-Diebstahl in Verbindung steht, wurde wegen eines Krypto-Diebstahls im Umfang von 250 Millionen Dollar zu 78 Monaten Haft verurteilt. Bestraft wurde seine Rolle in einer kriminellen Organisation, die Kryptowährungen durch Social Engineering und physische Einbrüche entwendete. Der Fall zeigt, dass auch Hardware-Wallets zur Verwahrung digitaler Vermögenswerte angreifbar sein können, wenn der Diebstahl von Nutzerdaten mit Offline-Zugriff kombiniert wird. Die genannte Summe von 250 Millionen Dollar macht den Fall besonders bemerkenswert. Das Urteil unterstreicht erneut die Bedeutung von Identitätsprüfung, Zugriffskontrolle und physischer Sicherheit neben technischen Schutzmaßnahmen. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Voleur de portefeuille matériel condamné à 78 mois pour un casse crypto de 250 M$",
+        "excerpt": "‘GothFerrari’ a été condamné à 78 mois de prison pour son rôle dans une organisation volant des cryptos par ingénierie sociale et intrusions physiques.",
+        "body": "‘GothFerrari,’ lié à une affaire de vol de portefeuille matériel, a été condamné à 78 mois de prison dans un vol de cryptomonnaies estimé à 250 millions de dollars. Il a été sanctionné pour son rôle dans une organisation criminelle qui dérobait des cryptoactifs au moyen d’ingénierie sociale et d’intrusions physiques. L’affaire montre que les portefeuilles matériels, utilisés pour conserver des actifs numériques, peuvent aussi devenir des cibles lorsque le vol d’informations utilisateur s’ajoute à une intrusion hors ligne. Le montant de 250 millions de dollars rend le dossier particulièrement notable. La décision rappelle l’importance de la vérification d’identité, du contrôle d’accès et de la sécurité physique, en plus des protections techniques. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "سارق محفظة عتادية ينال 78 شهرا في قضية سرقة عملات مشفرة بـ250 مليون دولار",
+        "excerpt": "حُكم على ‘GothFerrari’ بالسجن 78 شهرا لدوره في منظمة إجرامية سرقت عملات مشفرة عبر الهندسة الاجتماعية والاقتحامات المادية.",
+        "body": "حُكم على ‘GothFerrari’، المرتبط بقضية سرقة محفظة عتادية، بالسجن 78 شهرا في قضية سرقة عملات مشفرة بلغت قيمتها 250 مليون دولار. وجاء الحكم بسبب دوره في منظمة إجرامية سرقت أصولا مشفرة عبر الهندسة الاجتماعية والاقتحامات المادية. وتوضح القضية أن المحافظ العتادية، رغم استخدامها لحفظ الأصول الرقمية، قد تصبح هدفا عندما يقترن الحصول على معلومات المستخدم باختراقات خارج الإنترنت. كما أن حجم القضية، البالغ 250 مليون دولار، يجعلها لافتة. ويعيد الحكم إبراز أهمية التحقق من الهوية، وإدارة الوصول، والأمن المادي إلى جانب الحماية التقنية في حفظ العملات المشفرة. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "हार्डवेयर वॉलेट चोर को $250M क्रिप्टो चोरी मामले में 78 महीने की सजा",
+        "excerpt": "‘GothFerrari’ को सोशल इंजीनियरिंग और भौतिक घुसपैठ से क्रिप्टो चुराने वाले आपराधिक समूह में भूमिका के लिए 78 महीने की जेल हुई।",
+        "body": "हार्डवेयर वॉलेट चोरी मामले से जुड़े ‘GothFerrari’ को 25 करोड़ डॉलर के क्रिप्टो चोरी मामले में 78 महीने की जेल की सजा सुनाई गई। उसे उस आपराधिक संगठन में भूमिका के लिए दंडित किया गया जिसने सोशल इंजीनियरिंग और भौतिक घुसपैठ के जरिए क्रिप्टोकरेंसी चुराई। यह मामला दिखाता है कि डिजिटल संपत्ति रखने के लिए इस्तेमाल होने वाले हार्डवेयर वॉलेट भी तब निशाना बन सकते हैं जब उपयोगकर्ता जानकारी की चोरी को ऑफलाइन घुसपैठ से जोड़ा जाए। 25 करोड़ डॉलर का पैमाना इस घटना को खास बनाता है। यह फैसला क्रिप्टो कस्टडी में तकनीकी सुरक्षा के साथ पहचान सत्यापन, एक्सेस नियंत्रण और भौतिक सुरक्षा के महत्व को फिर रेखांकित करता है। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Pencuri Dompet Hardware Divonis 78 Bulan atas Pencurian Kripto $250 Juta",
+        "excerpt": "‘GothFerrari’ divonis 78 bulan penjara karena terlibat dalam organisasi yang mencuri kripto lewat rekayasa sosial dan pembobolan fisik.",
+        "body": "‘GothFerrari,’ yang terkait kasus pencurian dompet hardware, divonis 78 bulan penjara atas pencurian kripto senilai $250 juta. Ia dihukum karena perannya dalam organisasi kriminal yang mencuri aset kripto melalui rekayasa sosial dan pembobolan fisik. Kasus ini menunjukkan bahwa dompet hardware, yang digunakan untuk menyimpan aset digital, tetap dapat menjadi sasaran ketika pencurian informasi pengguna digabungkan dengan intrusi offline. Nilai $250 juta membuat kasus ini menonjol. Putusan tersebut kembali menegaskan pentingnya verifikasi identitas, pengelolaan akses, dan keamanan fisik selain perlindungan teknis dalam penyimpanan kripto. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "5b5b7d700f57",
+    "slug": "defi-platform-trustedvolumes-hit-by-67m-exploit-303995",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T04:12:59.741Z",
+    "updatedAt": "2026-05-08T04:12:59.741Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367070/defi-platform-trustedvolumes-hit-by-6-7m-exploit",
+    "canonicalUrl": "https://decrypt.co/367070/defi-platform-trustedvolumes-hit-by-6-7m-exploit",
+    "titleFingerprint": "4ba21420d410b5c6aca09e84dc1c9c9497d48d98",
+    "dedupKeys": [
+      "5b5b7d700f570a0ff1d13d209f382fc8774dc63d",
+      "4ba21420d410b5c6aca09e84dc1c9c9497d48d98",
+      "ed0f88b8bfbe4c2791f391c9d1acf9d74de50454"
+    ],
+    "imageUrl": "/images/articles/5b5b7d700f57.png",
+    "i18n": {
+      "ko": {
+        "title": "TrustedVolumes 670만 달러 익스플로잇, DeFi 유동성 리졸버 피격",
+        "excerpt": "DeFi 플랫폼 TrustedVolumes가 670만 달러 규모 익스플로잇을 당했으며, 여러 프로토콜이 쓰는 유동성 리졸버가 공격 대상이 됐다.",
+        "body": "DeFi 플랫폼 TrustedVolumes가 670만 달러 규모의 익스플로잇을 당했다. decrypt.co에 따르면 이번 공격은 여러 DeFi 프로토콜이 사용하는 유동성 리졸버를 겨냥한 것으로 전해졌다. 유동성 리졸버는 거래 경로와 유동성 처리에 관여하는 인프라로, 복수의 프로토콜이 연계해 사용할 수 있다. DEX 애그리게이터 1inch는 자사 시스템에는 영향이 없었다고 밝혔다. 이번 사건은 공유 인프라를 활용하는 DeFi 서비스에서 특정 구성 요소의 취약점이 여러 서비스의 운영 리스크로 이어질 수 있음을 보여준다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "TrustedVolumes Hit by $6.7M Exploit as DeFi Liquidity Resolver Targeted",
+        "excerpt": "DeFi platform TrustedVolumes suffered a $6.7 million exploit after a liquidity resolver used by multiple protocols was targeted.",
+        "body": "DeFi platform TrustedVolumes was hit by a $6.7 million exploit. According to decrypt.co, the attack targeted a liquidity resolver used by multiple DeFi protocols. A liquidity resolver is infrastructure involved in routing trades and handling liquidity, and it can be shared across several protocol integrations. DEX aggregator 1inch said its own systems were not affected. The incident highlights how a weakness in a shared DeFi infrastructure component can become an operational risk for services that rely on it. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "TrustedVolumesで670万ドル不正流出、DeFi流動性リゾルバーが標的に",
+        "excerpt": "DeFiプラットフォームTrustedVolumesで670万ドル規模のエクスプロイトが発生し、複数プロトコルが使う流動性リゾルバーが狙われた。",
+        "body": "DeFiプラットフォームTrustedVolumesが670万ドル規模のエクスプロイトを受けた。decrypt.coによると、今回の攻撃は複数のDeFiプロトコルが利用する流動性リゾルバーを標的にしたものだ。流動性リゾルバーは取引経路や流動性処理に関わるインフラで、複数のプロトコル連携で使われる場合がある。DEXアグリゲーターの1inchは、自社システムへの影響はなかったと述べた。今回の件は、共有インフラの一部の脆弱性がDeFiサービスの運用リスクにつながり得ることを示している。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "TrustedVolumes遭670万美元攻击，DeFi流动性解析器成目标",
+        "excerpt": "DeFi平台TrustedVolumes遭遇670万美元规模漏洞攻击，多个协议使用的流动性解析器成为攻击目标，1inch称系统未受影响。",
+        "body": "DeFi平台TrustedVolumes遭遇670万美元规模的漏洞攻击。据decrypt.co报道，此次攻击针对的是多个DeFi协议使用的流动性解析器。流动性解析器属于处理交易路径和流动性的基础设施，可能被多个协议集成使用。DEX聚合器1inch表示，其自身系统未受到影响。该事件显示，在DeFi服务依赖共享基础设施的情况下，某一组件的弱点可能转化为多个服务的运营风险。来源: decrypt.co"
+      },
+      "es": {
+        "title": "TrustedVolumes sufre exploit de $6,7 millones en resolver de liquidez DeFi",
+        "excerpt": "La plataforma DeFi TrustedVolumes sufrió un exploit de $6,7 millones contra un resolver de liquidez usado por varios protocolos.",
+        "body": "La plataforma DeFi TrustedVolumes sufrió un exploit de $6,7 millones. Según decrypt.co, el ataque se dirigió contra un resolver de liquidez utilizado por múltiples protocolos DeFi. Este tipo de infraestructura participa en el enrutamiento de operaciones y en la gestión de liquidez, y puede integrarse en varios servicios. El agregador DEX 1inch afirmó que sus propios sistemas no se vieron afectados. El caso muestra cómo una debilidad en un componente compartido de infraestructura DeFi puede convertirse en un riesgo operativo para los servicios que dependen de él. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "TrustedVolumes sofre exploit de US$ 6,7 mi em resolver de liquidez DeFi",
+        "excerpt": "A plataforma DeFi TrustedVolumes sofreu um exploit de US$ 6,7 milhões contra um resolver de liquidez usado por vários protocolos.",
+        "body": "A plataforma DeFi TrustedVolumes sofreu um exploit de US$ 6,7 milhões. Segundo o decrypt.co, o ataque teve como alvo um resolver de liquidez usado por múltiplos protocolos DeFi. Esse tipo de infraestrutura participa do roteamento de negociações e do processamento de liquidez, podendo ser integrado por vários serviços. A agregadora DEX 1inch afirmou que seus próprios sistemas não foram afetados. O episódio mostra como uma fragilidade em um componente compartilhado da infraestrutura DeFi pode se tornar risco operacional para serviços que dependem dele. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "TrustedVolumes von 6,7-Mio.-Dollar-Exploit bei DeFi-Liquiditätsresolver getroffen",
+        "excerpt": "Die DeFi-Plattform TrustedVolumes wurde von einem 6,7-Mio.-Dollar-Exploit getroffen, der einen von mehreren Protokollen genutzten Liquiditätsresolver betraf.",
+        "body": "Die DeFi-Plattform TrustedVolumes wurde von einem Exploit in Höhe von 6,7 Millionen Dollar getroffen. Laut decrypt.co richtete sich der Angriff gegen einen Liquiditätsresolver, der von mehreren DeFi-Protokollen genutzt wird. Ein solcher Resolver ist Infrastruktur für Handelsrouten und Liquiditätsverarbeitung und kann in verschiedene Protokolle eingebunden sein. Der DEX-Aggregator 1inch erklärte, die eigenen Systeme seien nicht betroffen gewesen. Der Vorfall zeigt, dass Schwachstellen in gemeinsam genutzter DeFi-Infrastruktur zu Betriebsrisiken für darauf aufbauende Dienste werden können. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "TrustedVolumes touché par un exploit de 6,7 M$ visant un resolver DeFi",
+        "excerpt": "La plateforme DeFi TrustedVolumes a subi un exploit de 6,7 millions de dollars visant un resolver de liquidité utilisé par plusieurs protocoles.",
+        "body": "La plateforme DeFi TrustedVolumes a été touchée par un exploit de 6,7 millions de dollars. Selon decrypt.co, l’attaque visait un resolver de liquidité utilisé par plusieurs protocoles DeFi. Ce type d’infrastructure intervient dans le routage des échanges et le traitement de la liquidité, et peut être intégré à plusieurs services. L’agrégateur DEX 1inch a indiqué que ses propres systèmes n’avaient pas été affectés. L’incident montre qu’une faiblesse dans un composant d’infrastructure DeFi partagé peut devenir un risque opérationnel pour les services qui en dépendent. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "TrustedVolumes تتعرض لاستغلال بقيمة 6.7 مليون دولار عبر Resolver سيولة DeFi",
+        "excerpt": "تعرضت منصة DeFi TrustedVolumes لاستغلال بقيمة 6.7 مليون دولار استهدف Resolver سيولة تستخدمه عدة بروتوكولات، بينما قالت 1inch إن أنظمتها لم تتأثر.",
+        "body": "تعرضت منصة DeFi TrustedVolumes لاستغلال بقيمة 6.7 مليون دولار. وبحسب decrypt.co، استهدف الهجوم Resolver سيولة تستخدمه عدة بروتوكولات DeFi. ويعد هذا المكوّن بنية تحتية تشارك في توجيه الصفقات ومعالجة السيولة، وقد تعتمد عليه تكاملات متعددة. وقال مجمع التداول اللامركزي 1inch إن أنظمته الخاصة لم تتأثر. وتوضح الحادثة أن ضعف مكوّن مشترك في بنية DeFi التحتية قد يتحول إلى خطر تشغيلي على الخدمات التي تعتمد عليه. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "TrustedVolumes पर $6.7M exploit, DeFi liquidity resolver बना निशाना",
+        "excerpt": "DeFi प्लेटफॉर्म TrustedVolumes पर $6.7 मिलियन का exploit हुआ, जिसमें कई प्रोटोकॉल द्वारा इस्तेमाल liquidity resolver को निशाना बनाया गया।",
+        "body": "DeFi प्लेटफॉर्म TrustedVolumes पर $6.7 मिलियन का exploit हुआ। decrypt.co के अनुसार, हमले में उस liquidity resolver को निशाना बनाया गया जिसका उपयोग कई DeFi प्रोटोकॉल करते हैं। यह resolver ट्रेड रूटिंग और liquidity प्रोसेसिंग से जुड़ी इन्फ्रास्ट्रक्चर परत है और कई सेवाओं में इंटीग्रेट हो सकती है। DEX aggregator 1inch ने कहा कि उसके अपने सिस्टम पर कोई असर नहीं पड़ा। यह घटना दिखाती है कि साझा DeFi इन्फ्रास्ट्रक्चर के किसी एक घटक की कमजोरी उस पर निर्भर सेवाओं के लिए ऑपरेशनल जोखिम बन सकती है। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "TrustedVolumes Kena Exploit $6,7 Juta, Resolver Likuiditas DeFi Jadi Target",
+        "excerpt": "Platform DeFi TrustedVolumes terkena exploit senilai $6,7 juta setelah resolver likuiditas yang dipakai beberapa protokol menjadi target serangan.",
+        "body": "Platform DeFi TrustedVolumes terkena exploit senilai $6,7 juta. Menurut decrypt.co, serangan ini menargetkan resolver likuiditas yang digunakan oleh beberapa protokol DeFi. Resolver likuiditas adalah infrastruktur yang berperan dalam perutean transaksi dan pemrosesan likuiditas, serta dapat dipakai dalam berbagai integrasi protokol. Agregator DEX 1inch menyatakan sistemnya sendiri tidak terdampak. Insiden ini menunjukkan bahwa kelemahan pada satu komponen infrastruktur DeFi bersama dapat menjadi risiko operasional bagi layanan yang bergantung padanya. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "6b8ce3b6d2da",
+    "slug": "morning-minute-morgan-stanley-is-coming-for-coinbase-394343",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T04:12:14.836Z",
+    "updatedAt": "2026-05-08T04:12:14.836Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367069/morning-minute-morgan-stanley-is-coming-for-coinbase",
+    "canonicalUrl": "https://decrypt.co/367069/morning-minute-morgan-stanley-is-coming-for-coinbase",
+    "titleFingerprint": "fb829f22d4836c1e2b69415b10df13cd8344bbab",
+    "dedupKeys": [
+      "6b8ce3b6d2da356f6f0ae54e0a54fff1431f993c",
+      "fb829f22d4836c1e2b69415b10df13cd8344bbab",
+      "f8504b16b5788f50e51642a7fc5b09c878c6d1c1"
+    ],
+    "imageUrl": "/images/articles/6b8ce3b6d2da.png",
+    "i18n": {
+      "ko": {
+        "title": "모건스탠리 ETrade 암호화폐 거래 출시, 코인베이스 경쟁 본격화",
+        "excerpt": "모건스탠리가 ETrade에서 암호화폐 거래를 시작하고 백악관은 Clarity Act의 7월 4일 서명을 원하면서 미국 크립토 시장 경쟁과 규제 논의가 동시에 부각됐다.",
+        "body": "모건스탠리가 ETrade에서 암호화폐 거래 서비스를 출시하며 코인베이스가 주도해 온 미국 크립토 거래 시장에 새 경쟁 구도를 만들고 있다. 이번 소식은 백악관이 Clarity Act를 7월 4일까지 서명하기를 원한다는 내용과 함께 전해졌다. 대형 금융사가 기존 온라인 투자 플랫폼을 통해 암호화폐 거래를 제공하기 시작했다는 점에서 개인 투자자 접점이 넓어질 수 있다. 동시에 Clarity Act 일정은 미국 내 디지털자산 규제 논의의 핵심 변수로 남아 있다. 출처 decrypt.co에 따르면 두 사안은 미국 크립토 시장의 제도권 편입과 경쟁 심화를 보여주는 주요 뉴스로 제시됐다."
+      },
+      "en": {
+        "title": "Morgan Stanley Launches ETrade Crypto Trading, Challenging Coinbase",
+        "excerpt": "Morgan Stanley launched crypto trading on ETrade as the White House seeks a July 4 signing of the Clarity Act, highlighting U.S. crypto competition and regulation.",
+        "body": "Morgan Stanley has launched crypto trading on ETrade, creating a new competitive dynamic in the U.S. crypto trading market long associated with Coinbase. The development came alongside news that the White House wants the Clarity Act signed by July 4. By offering crypto trading through an established online investing platform, a major financial institution may widen access for retail investors. At the same time, the Clarity Act timeline remains a key point in U.S. digital asset regulation. According to decrypt.co, the two developments show how crypto is moving further into mainstream finance while market competition intensifies."
+      },
+      "ja": {
+        "title": "モルガン・スタンレーがETradeで暗号資産取引開始、Coinbaseに対抗",
+        "excerpt": "モルガン・スタンレーがETradeで暗号資産取引を開始し、ホワイトハウスはClarity Actの7月4日署名を望んでいる。米国市場の競争と規制が焦点となった。",
+        "body": "モルガン・スタンレーはETradeで暗号資産取引サービスを開始し、Coinbaseが存在感を示してきた米国の暗号資産取引市場に新たな競争構図を生んでいる。このニュースは、ホワイトハウスがClarity Actを7月4日までに署名することを望んでいるという内容とともに伝えられた。大手金融機関が既存のオンライン投資プラットフォームを通じて暗号資産取引を提供する点で、個人投資家との接点が広がる可能性がある。同時に、Clarity Actの日程は米国のデジタル資産規制をめぐる重要な論点であり続ける。decrypt.coによると、両件は暗号資産の制度圏入りと競争激化を示す主要ニュースだ。"
+      },
+      "zh": {
+        "title": "摩根士丹利在ETrade推出加密货币交易，直面Coinbase竞争",
+        "excerpt": "摩根士丹利在ETrade推出加密货币交易，同时白宫希望Clarity Act于7月4日签署，美国加密市场竞争与监管议题同步升温。",
+        "body": "摩根士丹利已在ETrade推出加密货币交易服务，为长期由Coinbase占据重要位置的美国加密交易市场带来新的竞争格局。与此同时，白宫希望Clarity Act能在7月4日前签署的消息也一并传出。大型金融机构通过现有线上投资平台提供加密货币交易，意味着个人投资者的接入渠道可能进一步扩大。与此同时，Clarity Act的时间表仍是美国数字资产监管讨论中的关键变量。据decrypt.co报道，这两项进展显示，加密资产正进一步进入主流金融体系，市场竞争也在加剧。"
+      },
+      "es": {
+        "title": "Morgan Stanley lanza cripto en ETrade y aumenta el reto para Coinbase",
+        "excerpt": "Morgan Stanley lanzó trading cripto en ETrade mientras la Casa Blanca busca firmar la Clarity Act el 4 de julio, elevando el foco en competencia y regulación en EE. UU.",
+        "body": "Morgan Stanley lanzó el trading de criptomonedas en ETrade, creando una nueva dinámica competitiva en el mercado estadounidense de compraventa cripto, donde Coinbase ha sido un actor central. La noticia llegó junto con el dato de que la Casa Blanca quiere que la Clarity Act sea firmada para el 4 de julio. Al ofrecer cripto a través de una plataforma de inversión en línea ya establecida, una gran entidad financiera puede ampliar el acceso para inversores minoristas. Al mismo tiempo, el calendario de la Clarity Act sigue siendo un punto clave en el debate regulatorio sobre activos digitales en Estados Unidos. Según decrypt.co, ambos hechos muestran la entrada más profunda de las criptomonedas en las finanzas tradicionales y una competencia más intensa."
+      },
+      "pt": {
+        "title": "Morgan Stanley lança cripto no ETrade e amplia desafio à Coinbase",
+        "excerpt": "Morgan Stanley lançou negociação de cripto no ETrade enquanto a Casa Branca quer a Clarity Act assinada até 4 de julho, destacando competição e regulação nos EUA.",
+        "body": "O Morgan Stanley lançou a negociação de criptomoedas no ETrade, criando uma nova dinâmica competitiva no mercado cripto dos Estados Unidos, no qual a Coinbase tem forte presença. A notícia foi divulgada junto com a informação de que a Casa Branca quer que a Clarity Act seja assinada até 4 de julho. Ao oferecer cripto por meio de uma plataforma online de investimentos já estabelecida, uma grande instituição financeira pode ampliar o acesso de investidores de varejo. Ao mesmo tempo, o cronograma da Clarity Act segue como ponto central no debate regulatório sobre ativos digitais nos EUA. Segundo o decrypt.co, os dois fatos mostram a aproximação das criptomoedas ao sistema financeiro tradicional e o aumento da competição."
+      },
+      "de": {
+        "title": "Morgan Stanley startet Krypto-Handel bei ETrade und fordert Coinbase heraus",
+        "excerpt": "Morgan Stanley startet Krypto-Handel auf ETrade, während das Weiße Haus den Clarity Act bis 4. Juli unterzeichnet sehen will. Wettbewerb und Regulierung rücken in den Fokus.",
+        "body": "Morgan Stanley hat den Krypto-Handel auf ETrade gestartet und schafft damit eine neue Wettbewerbslage im US-Markt für Kryptohandel, der stark mit Coinbase verbunden ist. Die Meldung wurde gemeinsam mit der Nachricht berichtet, dass das Weiße Haus den Clarity Act bis zum 4. Juli unterzeichnet sehen möchte. Wenn eine große Finanzinstitution Krypto-Handel über eine etablierte Online-Investmentplattform anbietet, kann dies den Zugang für Privatanleger erweitern. Zugleich bleibt der Zeitplan des Clarity Act ein wichtiger Punkt in der US-Debatte über die Regulierung digitaler Vermögenswerte. Laut decrypt.co zeigen beide Entwicklungen, wie Krypto weiter in den traditionellen Finanzsektor rückt und der Wettbewerb zunimmt."
+      },
+      "fr": {
+        "title": "Morgan Stanley lance la crypto sur ETrade et défie davantage Coinbase",
+        "excerpt": "Morgan Stanley a lancé le trading crypto sur ETrade, tandis que la Maison-Blanche veut une signature du Clarity Act le 4 juillet, mettant en avant concurrence et régulation aux États-Unis.",
+        "body": "Morgan Stanley a lancé le trading de cryptomonnaies sur ETrade, créant une nouvelle dynamique concurrentielle sur le marché américain où Coinbase occupe une place majeure. Cette information est arrivée avec celle selon laquelle la Maison-Blanche souhaite que le Clarity Act soit signé d’ici le 4 juillet. En proposant la crypto via une plateforme d’investissement en ligne déjà établie, une grande institution financière peut élargir l’accès aux investisseurs particuliers. Dans le même temps, le calendrier du Clarity Act reste un élément clé du débat américain sur la régulation des actifs numériques. Selon decrypt.co, ces deux développements montrent l’intégration croissante de la crypto dans la finance traditionnelle et l’intensification de la concurrence."
+      },
+      "ar": {
+        "title": "مورغان ستانلي تطلق تداول العملات المشفرة عبر ETrade وتواجه Coinbase",
+        "excerpt": "أطلقت مورغان ستانلي تداول العملات المشفرة على ETrade، بينما يريد البيت الأبيض توقيع Clarity Act بحلول 4 يوليو، ما يبرز المنافسة والتنظيم في السوق الأميركية.",
+        "body": "أطلقت مورغان ستانلي خدمة تداول العملات المشفرة عبر ETrade، ما يخلق مشهدا تنافسيا جديدا في سوق التداول الأميركية التي ارتبطت بقوة بمنصة Coinbase. وجاءت هذه الأخبار مع إشارة إلى أن البيت الأبيض يريد توقيع Clarity Act بحلول 4 يوليو. تقديم التداول المشفر من خلال منصة استثمار إلكترونية قائمة يعني أن مؤسسة مالية كبرى قد توسع نقاط الوصول أمام المستثمرين الأفراد. وفي الوقت نفسه، يبقى جدول Clarity Act عاملا مهما في نقاش تنظيم الأصول الرقمية داخل الولايات المتحدة. وبحسب decrypt.co، يعكس الأمران دخول العملات المشفرة بشكل أعمق في التمويل التقليدي واشتداد المنافسة في السوق."
+      },
+      "hi": {
+        "title": "Morgan Stanley ने ETrade पर क्रिप्टो ट्रेडिंग शुरू की, Coinbase को चुनौती",
+        "excerpt": "Morgan Stanley ने ETrade पर क्रिप्टो ट्रेडिंग शुरू की, जबकि व्हाइट हाउस Clarity Act पर 4 जुलाई तक हस्ताक्षर चाहता है। अमेरिका में प्रतिस्पर्धा और नियमन फिर केंद्र में हैं।",
+        "body": "Morgan Stanley ने ETrade पर क्रिप्टोकरेंसी ट्रेडिंग सेवा शुरू की है, जिससे उस अमेरिकी क्रिप्टो ट्रेडिंग बाजार में नई प्रतिस्पर्धा बन रही है जहां Coinbase प्रमुख नाम रहा है। यह खबर इस जानकारी के साथ आई कि व्हाइट हाउस चाहता है कि Clarity Act पर 4 जुलाई तक हस्ताक्षर हो जाएं। एक बड़ी वित्तीय संस्था द्वारा पहले से स्थापित ऑनलाइन निवेश प्लेटफॉर्म के जरिए क्रिप्टो ट्रेडिंग देना खुदरा निवेशकों की पहुंच बढ़ा सकता है। साथ ही, Clarity Act की समयसीमा अमेरिका में डिजिटल एसेट नियमन की चर्चा का अहम बिंदु बनी हुई है। decrypt.co के अनुसार, ये दोनों घटनाएं क्रिप्टो के मुख्यधारा वित्त में आगे प्रवेश और बढ़ती प्रतिस्पर्धा को दिखाती हैं।"
+      },
+      "id": {
+        "title": "Morgan Stanley Luncurkan Trading Kripto di ETrade, Tantang Coinbase",
+        "excerpt": "Morgan Stanley meluncurkan trading kripto di ETrade, sementara Gedung Putih ingin Clarity Act diteken pada 4 Juli, menyoroti persaingan dan regulasi kripto AS.",
+        "body": "Morgan Stanley meluncurkan layanan trading kripto di ETrade, menciptakan dinamika persaingan baru di pasar perdagangan kripto Amerika Serikat yang selama ini lekat dengan Coinbase. Kabar ini muncul bersamaan dengan informasi bahwa Gedung Putih ingin Clarity Act ditandatangani pada 4 Juli. Dengan menawarkan trading kripto melalui platform investasi online yang sudah mapan, lembaga keuangan besar dapat memperluas akses bagi investor ritel. Pada saat yang sama, jadwal Clarity Act tetap menjadi variabel penting dalam pembahasan regulasi aset digital di AS. Menurut decrypt.co, kedua perkembangan ini menunjukkan kripto makin masuk ke ranah keuangan arus utama dan persaingan pasar semakin kuat."
+      }
+    }
+  },
+  {
     "id": "78c0e1e7928c",
     "slug": "white-house-targets-july-4-for-clarity-act-passage-crypto-ad-213202",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "XRP Turun 25% di Bawah US$1,42, Struktur Breakout Diuji",
         "excerpt": "XRP yang terkait Ripple turun 25% di bawah US$1,42 meski Ripple dan JPMorgan menyelesaikan settlement lintas batas Treasury tokenisasi di XRPL.",
         "body": "Ripple dan JPMorgan menyelesaikan settlement lintas batas Treasury AS yang ditokenisasi di XRPL, tetapi XRP yang terkait Ripple turun di bawah US$1,42 dan melemah sekitar 25%. Pelaku pasar memantau apakah koreksi ini merusak struktur breakout terbaru atau hanya menguji dukungan di area tersebut. Transaksi itu disebut sebagai contoh settlement institusional memakai XRPL, namun pergerakan harga tetap berada di bawah tekanan jual meski ada perkembangan tersebut. Fokus jangka pendeknya adalah apakah XRP dapat menyerap tekanan jual di bawah US$1,42 dan mempertahankan zona breakout. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "81cb44ef6eea",
-    "slug": "jaredfromsubway-bot-front-runs-vitalik-buterins-4-token-swap-200457",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T14:46:04.480Z",
-    "updatedAt": "2026-05-07T14:46:04.480Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume",
-    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume",
-    "titleFingerprint": "c8b7b7cf53fab4abf355520acbf098d3f6c3d1fd",
-    "dedupKeys": [
-      "81cb44ef6eea50e022a8c7d25898202a3cd1e0c8",
-      "c8b7b7cf53fab4abf355520acbf098d3f6c3d1fd",
-      "2a0b7e82f3da867309c54bf0972e5a94469674e4"
-    ],
-    "imageUrl": "/images/articles/81cb44ef6eea.png",
-    "i18n": {
-      "ko": {
-        "title": "JaredfromSubway 봇, 비탈릭 4달러 토큰 스왑에 100만달러 거래",
-        "excerpt": "이더리움 공동창업자 비탈릭 부테린의 4달러 토큰 스왑이 악명 높은 MEV 샌드위치 봇 JaredfromSubway에 의해 선행·후행 거래되며 100만달러 규모 거래를 만들었다.",
-        "body": "이더리움 공동창업자 비탈릭 부테린의 4달러 토큰 스왑이 네트워크에서 가장 악명 높은 샌드위치 봇으로 알려진 JaredfromSubway에 의해 선행 거래와 후행 거래를 당했다고 CoinDesk가 보도했다. 이 거래 과정에서 봇은 약 100만달러 규모의 거래량을 일으켰다. 부테린은 최근 몇 달간 암호화된 멤풀 제안 등을 통해 유해한 MEV에 반대하는 캠페인을 이어왔다. 이번 사례는 MEV가 일반 이용자뿐 아니라 이더리움 핵심 인물의 거래에도 영향을 미칠 수 있음을 보여준다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "JaredfromSubway Bot Front-Runs Vitalik’s $4 Swap With $1M Volume",
-        "excerpt": "Ethereum co-founder Vitalik Buterin’s $4 token swap was front-run and back-run by the notorious MEV sandwich bot JaredfromSubway, generating about $1 million in trading volume.",
-        "body": "Ethereum co-founder Vitalik Buterin’s $4 token swap was front-run and back-run by JaredfromSubway, widely known as one of the network’s most notorious sandwich bots, CoinDesk reported. The bot generated about $1 million in trading volume around the transaction. Buterin has spent recent months campaigning against toxic MEV, including proposals for encrypted mempools. The incident underscores how MEV can affect not only ordinary users but also transactions made by one of Ethereum’s most prominent figures. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "JaredfromSubway、ヴィタリック氏の4ドル交換で100万ドル取引",
-        "excerpt": "イーサリアム共同創設者ヴィタリック・ブテリン氏の4ドル相当のトークンスワップが、悪名高いMEVサンドイッチボットJaredfromSubwayに先回り・後追いされた。",
-        "body": "イーサリアム共同創設者ヴィタリック・ブテリン氏の4ドル相当のトークンスワップが、ネットワークで最も悪名高いサンドイッチボットの一つとされるJaredfromSubwayに先回り取引と後追い取引を受けたとCoinDeskが報じた。この過程で同ボットは約100万ドルの取引量を発生させた。ブテリン氏はここ数カ月、暗号化メンプールの提案などを通じて有害なMEVに反対してきた。今回の事例は、MEVが一般利用者だけでなくイーサリアムの中心人物の取引にも影響し得ることを示している。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "JaredfromSubway抢跑Vitalik 4美元换币，交易量达100万美元",
-        "excerpt": "以太坊联合创始人Vitalik Buterin一笔4美元代币兑换，被知名MEV三明治机器人JaredfromSubway抢跑和尾随交易，产生约100万美元交易量。",
-        "body": "据CoinDesk报道，以太坊联合创始人Vitalik Buterin一笔4美元代币兑换，被网络上最知名的三明治机器人之一JaredfromSubway进行抢跑和尾随交易。围绕这笔交易，该机器人产生了约100万美元交易量。过去数月，Buterin一直通过加密内存池等提案反对有害MEV。此次事件显示，MEV不仅会影响普通用户，也可能影响以太坊核心人物的链上交易。来源: coindesk.com"
-      },
-      "es": {
-        "title": "JaredfromSubway adelanta el swap de $4 de Vitalik con $1M en volumen",
-        "excerpt": "El swap de tokens de $4 de Vitalik Buterin, cofundador de Ethereum, fue adelantado y seguido por el bot MEV JaredfromSubway, generando cerca de $1 millón en volumen.",
-        "body": "El swap de tokens de $4 de Vitalik Buterin, cofundador de Ethereum, fue adelantado y seguido por JaredfromSubway, uno de los bots de sándwich más notorios de la red, informó CoinDesk. Alrededor de esa operación, el bot generó cerca de $1 millón en volumen de negociación. Buterin ha pasado los últimos meses haciendo campaña contra el MEV tóxico, incluidas propuestas de mempools cifrados. El caso muestra que el MEV puede afectar no solo a usuarios comunes, sino también a transacciones de una de las figuras centrales de Ethereum. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "JaredfromSubway antecipa swap de US$4 de Vitalik com volume de US$1 mi",
-        "excerpt": "O swap de tokens de US$4 de Vitalik Buterin, cofundador do Ethereum, foi antecipado e seguido pelo bot MEV JaredfromSubway, gerando cerca de US$1 milhão em volume.",
-        "body": "O swap de tokens de US$4 de Vitalik Buterin, cofundador do Ethereum, foi antecipado e seguido pelo JaredfromSubway, um dos bots de sanduíche mais notórios da rede, informou a CoinDesk. Em torno dessa transação, o bot gerou cerca de US$1 milhão em volume de negociação. Buterin passou os últimos meses fazendo campanha contra o MEV tóxico, incluindo propostas de mempools criptografados. O episódio mostra que o MEV pode afetar não apenas usuários comuns, mas também transações de uma das figuras centrais do Ethereum. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "JaredfromSubway front-runt Vitaliks 4-Dollar-Swap mit 1 Mio. Dollar Volumen",
-        "excerpt": "Der 4-Dollar-Token-Swap von Ethereum-Mitgründer Vitalik Buterin wurde vom berüchtigten MEV-Sandwich-Bot JaredfromSubway front- und back-runned und erzeugte rund 1 Mio. Dollar Volumen.",
-        "body": "Der 4-Dollar-Token-Swap von Ethereum-Mitgründer Vitalik Buterin wurde von JaredfromSubway, einem der berüchtigtsten Sandwich-Bots des Netzwerks, front- und back-runned, berichtete CoinDesk. Rund um die Transaktion erzeugte der Bot etwa 1 Mio. Dollar Handelsvolumen. Buterin hatte in den vergangenen Monaten gegen toxisches MEV geworben, unter anderem mit Vorschlägen für verschlüsselte Mempools. Der Fall zeigt, dass MEV nicht nur normale Nutzer, sondern auch Transaktionen einer der wichtigsten Ethereum-Persönlichkeiten betreffen kann. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "JaredfromSubway devance le swap de 4 $ de Vitalik avec 1 M$ de volume",
-        "excerpt": "Le swap de tokens de 4 $ de Vitalik Buterin, cofondateur d’Ethereum, a été devancé puis suivi par le bot MEV JaredfromSubway, générant environ 1 million de dollars de volume.",
-        "body": "Le swap de tokens de 4 $ de Vitalik Buterin, cofondateur d’Ethereum, a été devancé puis suivi par JaredfromSubway, l’un des bots de sandwich les plus notoires du réseau, a rapporté CoinDesk. Autour de cette transaction, le bot a généré environ 1 million de dollars de volume d’échange. Buterin a passé ces derniers mois à combattre le MEV toxique, notamment avec des propositions de mempools chiffrés. L’épisode montre que le MEV peut toucher non seulement les utilisateurs ordinaires, mais aussi les transactions de l’une des figures centrales d’Ethereum. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "JaredfromSubway يسبق مبادلة فيتاليك بـ4 دولارات وحجمها مليون دولار",
-        "excerpt": "تعرضت مبادلة رموز بقيمة 4 دولارات أجراها فيتاليك بوتيرين، الشريك المؤسس لإيثريوم، للتقديم والتأخير من بوت MEV المعروف JaredfromSubway بحجم يقارب مليون دولار.",
-        "body": "أفادت CoinDesk بأن مبادلة رموز بقيمة 4 دولارات أجراها فيتاليك بوتيرين، الشريك المؤسس لإيثريوم، تعرضت لصفقتي تقديم وتأخير من JaredfromSubway، أحد أشهر بوتات الساندويتش على الشبكة. وولّد البوت حول العملية حجما يقارب مليون دولار. وكان بوتيرين قد أمضى الأشهر الأخيرة في حملة ضد MEV الضار، بما في ذلك مقترحات لمجمعات معاملات مشفرة. وتوضح الواقعة أن MEV قد يؤثر ليس فقط في المستخدمين العاديين، بل أيضا في معاملات إحدى أبرز شخصيات إيثريوم. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "JaredfromSubway ने Vitalik के $4 स्वैप को $1M वॉल्यूम से फ्रंट-रन किया",
-        "excerpt": "Ethereum सह-संस्थापक Vitalik Buterin के $4 टोकन स्वैप को कुख्यात MEV सैंडविच बॉट JaredfromSubway ने फ्रंट-रन और बैक-रन किया, जिससे करीब $1 मिलियन वॉल्यूम बना।",
-        "body": "CoinDesk के अनुसार, Ethereum सह-संस्थापक Vitalik Buterin के $4 टोकन स्वैप को नेटवर्क के सबसे कुख्यात सैंडविच बॉट्स में गिने जाने वाले JaredfromSubway ने फ्रंट-रन और बैक-रन किया। इस लेनदेन के आसपास बॉट ने करीब $1 मिलियन का ट्रेडिंग वॉल्यूम बनाया। Buterin पिछले कई महीनों से एन्क्रिप्टेड मेमपूल जैसे प्रस्तावों के जरिए हानिकारक MEV के खिलाफ अभियान चला रहे हैं। यह घटना दिखाती है कि MEV केवल आम उपयोगकर्ताओं को नहीं, बल्कि Ethereum की प्रमुख शख्सियतों के लेनदेन को भी प्रभावित कर सकता है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "JaredfromSubway Front-Run Swap $4 Vitalik dengan Volume $1 Juta",
-        "excerpt": "Swap token senilai $4 milik salah satu pendiri Ethereum, Vitalik Buterin, di-front-run dan di-back-run oleh bot MEV JaredfromSubway, menghasilkan volume sekitar $1 juta.",
-        "body": "Swap token senilai $4 milik salah satu pendiri Ethereum, Vitalik Buterin, di-front-run dan di-back-run oleh JaredfromSubway, salah satu bot sandwich paling terkenal di jaringan tersebut, menurut laporan CoinDesk. Di sekitar transaksi itu, bot menghasilkan volume perdagangan sekitar $1 juta. Dalam beberapa bulan terakhir, Buterin berkampanye melawan MEV berbahaya, termasuk melalui proposal mempool terenkripsi. Kasus ini menunjukkan bahwa MEV dapat memengaruhi bukan hanya pengguna biasa, tetapi juga transaksi salah satu tokoh utama Ethereum. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "6efeb5ca2be1",
-    "slug": "bitcoin-tests-bollinger-bands-breakout-as-creator-flips-bull-274922",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T14:45:05.619Z",
-    "updatedAt": "2026-05-07T14:45:05.619Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/07/bitcoin-tests-bollinger-bands-breakout-as-creator-flips-bullish-on-btc",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/07/bitcoin-tests-bollinger-bands-breakout-as-creator-flips-bullish-on-btc",
-    "titleFingerprint": "abf17173b39385d64241a1afd0c5b230a335170d",
-    "dedupKeys": [
-      "6efeb5ca2be13ed015ba2d64334a9a8a039fe238",
-      "abf17173b39385d64241a1afd0c5b230a335170d",
-      "679314ec7fb7b30de554de600b5f047acc30ab2e"
-    ],
-    "imageUrl": "/images/articles/6efeb5ca2be1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 볼린저밴드 돌파 시험, 창시자도 BTC 강세 전환에 주목한 시장",
-        "excerpt": "비트코인이 볼린저밴드 돌파를 시험하는 가운데, 해당 지표 창시자가 BTC에 강세로 돌아섰고 관련 MVRV 지표는 과열권에 진입했다.",
-        "body": "비트코인이 기술적 지표인 볼린저밴드 상단 돌파를 시험하고 있다. coindesk.com에 따르면 볼린저밴드 창시자는 BTC에 대해 강세로 돌아섰고, 시장은 이 신호와 함께 관련 MVRV 지표를 주목하고 있다. 해당 MVRV 지표는 과열 수준에 도달했으며, 이는 비트코인이 2024년 말 10만 달러를 향해 움직이기 전 마지막으로 나타났던 구간과 비교됐다. 다만 기사에 제시된 내용은 돌파 시도와 과열 신호의 동시 출현에 초점을 맞추고 있으며, 향후 가격 방향을 단정하지는 않는다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Bitcoin Tests Bollinger Bands Breakout as Creator Turns Bullish on BTC",
-        "excerpt": "Bitcoin is testing a Bollinger Bands breakout as the indicator’s creator turns bullish on BTC and a related MVRV gauge reaches overheated levels.",
-        "body": "Bitcoin is testing a breakout above the upper range of the Bollinger Bands, a widely watched technical indicator. According to coindesk.com, the creator of Bollinger Bands has turned bullish on BTC, while traders are also watching a related MVRV indicator. That MVRV gauge has reached overheated levels last seen before bitcoin’s late-2024 move toward $100,000. The report focuses on the simultaneous appearance of a breakout attempt and an overheated valuation signal, but it does not state a definitive future price direction. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "ビットコイン、ボリンジャーバンド突破を試す　考案者もBTC強気に転換",
-        "excerpt": "ビットコインがボリンジャーバンド突破を試す中、同指標の考案者がBTCに強気へ転じ、関連MVRV指標は過熱水準に達した。",
-        "body": "ビットコインは、テクニカル指標であるボリンジャーバンド上限の突破を試している。coindesk.comによると、ボリンジャーバンドの考案者はBTCに対して強気に転じており、市場はこの動きと関連MVRV指標を注視している。同MVRV指標は過熱水準に達し、これはビットコインが2024年後半に10万ドルへ向けて上昇する前に最後に見られた水準と比較された。ただし記事は、突破の試みと過熱シグナルが同時に出た点に焦点を当てており、今後の価格方向を断定していない。出典: coindesk.com。"
-      },
-      "zh": {
-        "title": "比特币测试布林带突破，指标创建者也转向看涨BTC",
-        "excerpt": "比特币正在测试布林带突破，同时该指标创建者转向看涨BTC，相关MVRV指标也升至过热水平。",
-        "body": "比特币正在测试对布林带上轨的突破，这一技术指标受到市场广泛关注。据coindesk.com报道，布林带创建者已转向看涨BTC，交易者同时关注相关MVRV指标。该MVRV指标已达到过热水平，上一次出现类似水平是在比特币于2024年末向10万美元推进之前。报道重点在于突破尝试与估值过热信号同时出现，但并未对未来价格方向作出确定判断。来源: coindesk.com。"
-      },
-      "es": {
-        "title": "Bitcoin prueba ruptura de Bandas de Bollinger y su creador ve alcista a BTC",
-        "excerpt": "Bitcoin prueba una ruptura de las Bandas de Bollinger mientras su creador se vuelve alcista sobre BTC y un MVRV relacionado entra en zona sobrecalentada.",
-        "body": "Bitcoin está probando una ruptura por encima del rango superior de las Bandas de Bollinger, un indicador técnico seguido por el mercado. Según coindesk.com, el creador de las Bandas de Bollinger se volvió alcista sobre BTC, mientras los operadores observan también un indicador MVRV relacionado. Ese MVRV alcanzó niveles sobrecalentados vistos por última vez antes del avance de bitcoin hacia los 100.000 dólares a finales de 2024. El reporte se centra en la coincidencia entre el intento de ruptura y la señal de sobrecalentamiento, sin afirmar una dirección futura definitiva del precio. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Bitcoin testa rompimento das Bandas de Bollinger e criador vê BTC em alta",
-        "excerpt": "O bitcoin testa um rompimento das Bandas de Bollinger enquanto o criador do indicador fica otimista com BTC e um MVRV relacionado atinge nível aquecido.",
-        "body": "O bitcoin está testando um rompimento acima da faixa superior das Bandas de Bollinger, indicador técnico acompanhado pelo mercado. Segundo coindesk.com, o criador das Bandas de Bollinger passou a ver BTC de forma otimista, enquanto investidores observam também um indicador MVRV relacionado. Esse MVRV chegou a níveis aquecidos vistos pela última vez antes do movimento do bitcoin rumo a US$ 100.000 no fim de 2024. A reportagem destaca a presença simultânea da tentativa de rompimento e do sinal de sobreaquecimento, sem definir uma direção futura para o preço. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Bitcoin testet Bollinger-Bänder-Ausbruch, Entwickler wird bullisch für BTC",
-        "excerpt": "Bitcoin testet einen Ausbruch aus den Bollinger-Bändern, während deren Entwickler bullisch für BTC wird und ein MVRV-Indikator überhitzte Niveaus erreicht.",
-        "body": "Bitcoin testet einen Ausbruch über die obere Spanne der Bollinger-Bänder, eines viel beachteten technischen Indikators. Laut coindesk.com hat sich der Entwickler der Bollinger-Bänder bullisch zu BTC geäußert, während der Markt zugleich einen damit verbundenen MVRV-Indikator beobachtet. Dieser MVRV-Wert erreichte überhitzte Niveaus, die zuletzt vor Bitcoins Bewegung in Richtung 100.000 US-Dollar Ende 2024 zu sehen waren. Der Bericht konzentriert sich auf das gleichzeitige Auftreten eines Ausbruchsversuchs und eines überhitzten Bewertungssignals, ohne eine künftige Preisrichtung festzulegen. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Bitcoin teste une cassure des Bandes de Bollinger, leur créateur devient haussier",
-        "excerpt": "Bitcoin teste une cassure des Bandes de Bollinger tandis que leur créateur devient haussier sur BTC et qu’un MVRV lié atteint un niveau de surchauffe.",
-        "body": "Bitcoin teste une cassure au-dessus de la borne supérieure des Bandes de Bollinger, un indicateur technique suivi par le marché. Selon coindesk.com, le créateur des Bandes de Bollinger est devenu haussier sur BTC, tandis que les opérateurs surveillent aussi un indicateur MVRV lié. Ce MVRV a atteint des niveaux de surchauffe observés pour la dernière fois avant le mouvement de bitcoin vers 100.000 dollars fin 2024. L’article met l’accent sur l’apparition simultanée d’une tentative de cassure et d’un signal de valorisation surchauffée, sans affirmer une direction future certaine du prix. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "بيتكوين تختبر اختراق بولينجر باندز ومبتكر المؤشر يتحول للتفاؤل بشأن BTC",
-        "excerpt": "تختبر بيتكوين اختراق نطاق بولينجر باندز بينما تحول مبتكر المؤشر إلى نظرة صعودية بشأن BTC وبلغ مؤشر MVRV مرتبط مستويات محمومة.",
-        "body": "تختبر بيتكوين اختراق الحد العلوي لمؤشر بولينجر باندز، وهو مؤشر فني تتابعه الأسواق على نطاق واسع. ووفقًا لـ coindesk.com، تحول مبتكر بولينجر باندز إلى موقف صعودي تجاه BTC، بينما يراقب المتداولون أيضًا مؤشر MVRV مرتبطًا. وقد وصل هذا المؤشر إلى مستويات محمومة لم تظهر آخر مرة إلا قبل تحرك بيتكوين في أواخر 2024 نحو 100,000 دولار. يركز التقرير على تزامن محاولة الاختراق مع إشارة التقييم المحموم، لكنه لا يجزم باتجاه السعر في المستقبل. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "Bitcoin ने Bollinger Bands ब्रेकआउट परखी, निर्माता भी BTC पर बुलिश हुए",
-        "excerpt": "Bitcoin Bollinger Bands ब्रेकआउट की परीक्षा कर रहा है, जबकि संकेतक के निर्माता BTC पर बुलिश हुए और संबंधित MVRV गेज ओवरहीट स्तर पर पहुंचा।",
-        "body": "Bitcoin तकनीकी संकेतक Bollinger Bands की ऊपरी सीमा से ऊपर ब्रेकआउट की परीक्षा कर रहा है। coindesk.com के अनुसार, Bollinger Bands के निर्माता BTC पर बुलिश हो गए हैं, जबकि बाजार संबंधित MVRV संकेतक पर भी नजर रख रहा है। यह MVRV गेज ओवरहीट स्तर पर पहुंच गया है, जो आखिरी बार Bitcoin के 2024 के अंत में 100,000 डॉलर की ओर बढ़ने से पहले देखा गया था। रिपोर्ट ब्रेकआउट प्रयास और ओवरहीट वैल्यूएशन संकेत के साथ-साथ आने पर केंद्रित है, लेकिन भविष्य की कीमत दिशा को निश्चित रूप से नहीं बताती। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Bitcoin Uji Breakout Bollinger Bands, Penciptanya Berbalik Bullish pada BTC",
-        "excerpt": "Bitcoin menguji breakout Bollinger Bands saat pencipta indikator itu berbalik bullish pada BTC dan indikator MVRV terkait mencapai level terlalu panas.",
-        "body": "Bitcoin sedang menguji breakout di atas rentang atas Bollinger Bands, indikator teknikal yang banyak dipantau pasar. Menurut coindesk.com, pencipta Bollinger Bands berbalik bullish terhadap BTC, sementara pelaku pasar juga memperhatikan indikator MVRV terkait. Indikator MVRV itu mencapai level terlalu panas yang terakhir terlihat sebelum pergerakan bitcoin pada akhir 2024 menuju US$100.000. Laporan tersebut menyoroti kemunculan bersamaan antara upaya breakout dan sinyal valuasi yang memanas, namun tidak memastikan arah harga berikutnya. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "a802ab03cdd7",
-    "slug": "aave-to-overhaul-collateral-and-listing-standards-after-kelp-962287",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T14:44:11.492Z",
-    "updatedAt": "2026-05-07T14:44:11.492Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit",
-    "titleFingerprint": "f79a970c7f24aa939f8f9db3f40cae369db413f9",
-    "dedupKeys": [
-      "a802ab03cdd7709222959bb103a93ca44f5ea209",
-      "f79a970c7f24aa939f8f9db3f40cae369db413f9",
-      "c9927b1776df8b052befe4e75e56474566c51132"
-    ],
-    "imageUrl": "/images/articles/a802ab03cdd7.png",
-    "i18n": {
-      "ko": {
-        "title": "Aave, KelpDAO 익스플로잇 후 담보·상장 기준 전면 개편",
-        "excerpt": "Aave는 KelpDAO 익스플로잇 이후 자산 상장 기준을 금융 리스크 중심에서 사이버보안과 아키텍처 검토까지 확대하며 DeFi 업계 전반의 동참을 촉구했다.",
-        "body": "탈중앙화 대출 프로토콜 Aave가 KelpDAO 익스플로잇 이후 담보와 자산 상장 기준을 개편한다. 이번 조치는 어떤 자산을 프로토콜에 받아들일지 판단할 때 기존의 금융 리스크뿐 아니라 사이버보안 위험과 기술 아키텍처까지 함께 평가하겠다는 내용이다. Aave는 대형 대출 플랫폼으로서 상장 심사 범위를 넓혀 유사한 취약점이 담보 시장과 대출 시스템으로 확산되는 것을 줄이려 한다. 이번 변화는 개별 프로토콜의 내부 기준을 넘어 DeFi 전반의 자산 심사 방식에도 영향을 줄 수 있다. Aave는 다른 DeFi 프로젝트들도 같은 방향의 기준 강화를 따르길 원한다고 밝혔다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Aave to Tighten Collateral and Listing Rules After KelpDAO Exploit",
-        "excerpt": "After the KelpDAO exploit, Aave is expanding asset listing reviews beyond financial risk to include cybersecurity and architecture, urging wider DeFi adoption.",
-        "body": "Aave, the decentralized lending protocol, is overhauling its collateral and asset listing standards after the KelpDAO exploit. The change means assets considered for the protocol will be reviewed not only for financial risk, but also for cybersecurity exposure and technical architecture. As a major lending platform, Aave aims to reduce the chance that similar weaknesses spread into collateral markets and lending systems. The move may also influence how the broader DeFi sector evaluates assets before listing them. Aave said it wants other DeFi projects to strengthen standards in the same direction. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "Aave、KelpDAO悪用後に担保・上場基準を全面見直し",
-        "excerpt": "AaveはKelpDAOのエクスプロイト後、資産上場基準を金融リスクだけでなくサイバーセキュリティと設計面の審査へ広げ、DeFi全体にも対応を促した。",
-        "body": "分散型レンディングプロトコルのAaveは、KelpDAOのエクスプロイトを受け、担保と資産上場の基準を見直す。今回の対応では、プロトコルに受け入れる資産を判断する際、従来の金融リスクに加えて、サイバーセキュリティ上のリスクや技術アーキテクチャも評価対象にする。大手レンディング基盤であるAaveは、同様の脆弱性が担保市場や貸付システムへ広がる可能性を抑えたい考えだ。この変更は個別プロトコルの内部基準にとどまらず、DeFi全体の資産審査にも影響を及ぼす可能性がある。Aaveは他のDeFiプロジェクトにも同じ方向で基準を強化するよう求めている。出典: coindesk.com。"
-      },
-      "zh": {
-        "title": "Aave因KelpDAO漏洞事件全面收紧抵押品与上市标准",
-        "excerpt": "KelpDAO遭遇漏洞利用后，Aave将资产上市审查从金融风险扩展至网络安全和技术架构，并希望更广泛的DeFi项目跟进。",
-        "body": "去中心化借贷协议Aave在KelpDAO漏洞利用事件后，将改革抵押品和资产上市标准。新做法意味着，Aave在判断哪些资产可进入协议时，不再只评估金融风险，还会纳入网络安全风险和技术架构审查。作为大型借贷平台，Aave希望降低类似弱点向抵押品市场和借贷系统扩散的可能性。此举也可能影响更广泛DeFi行业在资产上市前的审查方式。Aave表示，希望其他DeFi项目也沿着同一方向强化标准。来源: coindesk.com。"
-      },
-      "es": {
-        "title": "Aave endurece reglas de colateral y listado tras exploit de KelpDAO",
-        "excerpt": "Tras el exploit de KelpDAO, Aave ampliará sus criterios de listado de activos más allá del riesgo financiero para incluir ciberseguridad y arquitectura.",
-        "body": "Aave, el protocolo de préstamos descentralizados, revisará sus estándares de colateral y listado de activos después del exploit de KelpDAO. La medida implica que los activos evaluados para entrar al protocolo ya no se analizarán solo por riesgo financiero, sino también por exposición de ciberseguridad y arquitectura técnica. Como gran plataforma de préstamos, Aave busca reducir la posibilidad de que debilidades similares se extiendan a los mercados de colateral y a los sistemas de crédito. El cambio también podría influir en la forma en que el sector DeFi revisa activos antes de listarlos. Aave dijo que quiere que otros proyectos DeFi refuercen sus criterios en la misma dirección. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Aave reforça regras de colateral e listagem após exploit da KelpDAO",
-        "excerpt": "Após o exploit da KelpDAO, a Aave ampliará critérios de listagem de ativos além do risco financeiro, incluindo cibersegurança e arquitetura técnica.",
-        "body": "Aave, protocolo descentralizado de empréstimos, vai reformular seus padrões de colateral e listagem de ativos após o exploit da KelpDAO. A mudança significa que os ativos avaliados para entrar no protocolo não serão analisados apenas pelo risco financeiro, mas também por exposição de cibersegurança e arquitetura técnica. Como grande plataforma de empréstimos, a Aave busca reduzir a chance de fragilidades semelhantes se espalharem para mercados de colateral e sistemas de crédito. A medida também pode influenciar a forma como o setor DeFi avalia ativos antes da listagem. Aave afirmou que quer que outros projetos DeFi fortaleçam critérios na mesma direção. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Aave verschärft Sicherheiten- und Listingregeln nach KelpDAO-Exploit",
-        "excerpt": "Nach dem KelpDAO-Exploit erweitert Aave seine Kriterien für Asset-Listings über Finanzrisiken hinaus auf Cybersicherheit und technische Architektur.",
-        "body": "Aave, das dezentrale Kreditprotokoll, überarbeitet nach dem KelpDAO-Exploit seine Standards für Sicherheiten und Asset-Listings. Künftig sollen Vermögenswerte, die für das Protokoll geprüft werden, nicht nur nach finanziellen Risiken bewertet werden, sondern auch nach Cybersicherheitsrisiken und technischer Architektur. Als große Lending-Plattform will Aave verringern, dass ähnliche Schwachstellen in Sicherheitenmärkte und Kreditsysteme übergreifen. Die Änderung könnte auch beeinflussen, wie der breitere DeFi-Sektor Assets vor einem Listing prüft. Aave erklärte, es wolle, dass andere DeFi-Projekte ihre Standards in dieselbe Richtung verschärfen. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Aave durcit ses règles de collatéral et de listing après KelpDAO",
-        "excerpt": "Après l’exploit de KelpDAO, Aave élargit ses critères de listing d’actifs au-delà du risque financier pour inclure cybersécurité et architecture.",
-        "body": "Aave, protocole de prêt décentralisé, va revoir ses normes de collatéral et de listing d’actifs après l’exploit de KelpDAO. Ce changement signifie que les actifs envisagés pour le protocole ne seront plus évalués seulement selon le risque financier, mais aussi selon l’exposition en cybersécurité et l’architecture technique. En tant que grande plateforme de prêt, Aave veut réduire la possibilité que des faiblesses similaires se propagent aux marchés de collatéral et aux systèmes de crédit. Cette évolution pourrait aussi influencer la manière dont le secteur DeFi examine les actifs avant leur listing. Aave a indiqué souhaiter que d’autres projets DeFi renforcent leurs critères dans le même sens. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "Aave تشدد معايير الضمانات والإدراج بعد استغلال KelpDAO",
-        "excerpt": "بعد استغلال KelpDAO، توسع Aave معايير إدراج الأصول لتتجاوز المخاطر المالية وتشمل الأمن السيبراني والبنية التقنية، داعية قطاع DeFi إلى النهج نفسه.",
-        "body": "تعتزم Aave، وهي بروتوكول إقراض لامركزي، تعديل معايير الضمانات وإدراج الأصول بعد استغلال KelpDAO. ويعني ذلك أن الأصول المرشحة للدخول إلى البروتوكول لن تُقيّم فقط من زاوية المخاطر المالية، بل ستخضع أيضا لمراجعة مخاطر الأمن السيبراني والبنية التقنية. وبصفتها منصة إقراض كبرى، تسعى Aave إلى تقليل احتمال انتقال ثغرات مشابهة إلى أسواق الضمانات وأنظمة الإقراض. وقد يؤثر هذا التغيير كذلك في طريقة تقييم قطاع DeFi الأوسع للأصول قبل إدراجها. وقالت Aave إنها تريد من مشاريع DeFi الأخرى تعزيز معاييرها في الاتجاه نفسه. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "KelpDAO exploit के बाद Aave collateral और listing नियम बदलेगा",
-        "excerpt": "KelpDAO exploit के बाद Aave asset listing criteria को financial risk से आगे बढ़ाकर cybersecurity और architecture review तक ले जा रहा है।",
-        "body": "Decentralized lending protocol Aave ने KelpDAO exploit के बाद collateral और asset listing standards में बदलाव करने का फैसला किया है। इस कदम के तहत protocol में शामिल किए जाने वाले assets को अब केवल financial risk के आधार पर नहीं, बल्कि cybersecurity exposure और technical architecture के आधार पर भी परखा जाएगा। एक बड़े lending platform के रूप में Aave समान कमजोरियों को collateral markets और lending systems तक फैलने से कम करना चाहता है। यह बदलाव DeFi sector में assets की listing से पहले होने वाली review प्रक्रिया को भी प्रभावित कर सकता है। Aave ने कहा कि वह चाहता है कि अन्य DeFi projects भी इसी दिशा में standards को मजबूत करें। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Aave Perketat Standar Kolateral dan Listing Usai Eksploit KelpDAO",
-        "excerpt": "Setelah eksploit KelpDAO, Aave memperluas kriteria listing aset dari risiko finansial ke keamanan siber dan arsitektur, serta mendorong DeFi ikut.",
-        "body": "Aave, protokol pinjaman terdesentralisasi, akan merombak standar kolateral dan listing aset setelah eksploit KelpDAO. Perubahan ini berarti aset yang dipertimbangkan masuk ke protokol tidak hanya dinilai dari risiko finansial, tetapi juga dari paparan keamanan siber dan arsitektur teknis. Sebagai platform pinjaman besar, Aave ingin mengurangi kemungkinan kelemahan serupa menyebar ke pasar kolateral dan sistem pinjaman. Langkah ini juga dapat memengaruhi cara sektor DeFi yang lebih luas meninjau aset sebelum listing. Aave menyatakan ingin proyek DeFi lain memperkuat standar ke arah yang sama. Sumber: coindesk.com."
       }
     }
   }

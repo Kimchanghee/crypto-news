@@ -1,0 +1,75 @@
+{
+  "id": "5b5b7d700f57",
+  "slug": "defi-platform-trustedvolumes-hit-by-67m-exploit-303995",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T04:12:59.741Z",
+  "updatedAt": "2026-05-08T04:12:59.741Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367070/defi-platform-trustedvolumes-hit-by-6-7m-exploit",
+  "canonicalUrl": "https://decrypt.co/367070/defi-platform-trustedvolumes-hit-by-6-7m-exploit",
+  "titleFingerprint": "4ba21420d410b5c6aca09e84dc1c9c9497d48d98",
+  "dedupKeys": [
+    "5b5b7d700f570a0ff1d13d209f382fc8774dc63d",
+    "4ba21420d410b5c6aca09e84dc1c9c9497d48d98",
+    "ed0f88b8bfbe4c2791f391c9d1acf9d74de50454"
+  ],
+  "imageUrl": "/images/articles/5b5b7d700f57.png",
+  "i18n": {
+    "ko": {
+      "title": "TrustedVolumes 670만 달러 익스플로잇, DeFi 유동성 리졸버 피격",
+      "excerpt": "DeFi 플랫폼 TrustedVolumes가 670만 달러 규모 익스플로잇을 당했으며, 여러 프로토콜이 쓰는 유동성 리졸버가 공격 대상이 됐다.",
+      "body": "DeFi 플랫폼 TrustedVolumes가 670만 달러 규모의 익스플로잇을 당했다. decrypt.co에 따르면 이번 공격은 여러 DeFi 프로토콜이 사용하는 유동성 리졸버를 겨냥한 것으로 전해졌다. 유동성 리졸버는 거래 경로와 유동성 처리에 관여하는 인프라로, 복수의 프로토콜이 연계해 사용할 수 있다. DEX 애그리게이터 1inch는 자사 시스템에는 영향이 없었다고 밝혔다. 이번 사건은 공유 인프라를 활용하는 DeFi 서비스에서 특정 구성 요소의 취약점이 여러 서비스의 운영 리스크로 이어질 수 있음을 보여준다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "TrustedVolumes Hit by $6.7M Exploit as DeFi Liquidity Resolver Targeted",
+      "excerpt": "DeFi platform TrustedVolumes suffered a $6.7 million exploit after a liquidity resolver used by multiple protocols was targeted.",
+      "body": "DeFi platform TrustedVolumes was hit by a $6.7 million exploit. According to decrypt.co, the attack targeted a liquidity resolver used by multiple DeFi protocols. A liquidity resolver is infrastructure involved in routing trades and handling liquidity, and it can be shared across several protocol integrations. DEX aggregator 1inch said its own systems were not affected. The incident highlights how a weakness in a shared DeFi infrastructure component can become an operational risk for services that rely on it. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "TrustedVolumesで670万ドル不正流出、DeFi流動性リゾルバーが標的に",
+      "excerpt": "DeFiプラットフォームTrustedVolumesで670万ドル規模のエクスプロイトが発生し、複数プロトコルが使う流動性リゾルバーが狙われた。",
+      "body": "DeFiプラットフォームTrustedVolumesが670万ドル規模のエクスプロイトを受けた。decrypt.coによると、今回の攻撃は複数のDeFiプロトコルが利用する流動性リゾルバーを標的にしたものだ。流動性リゾルバーは取引経路や流動性処理に関わるインフラで、複数のプロトコル連携で使われる場合がある。DEXアグリゲーターの1inchは、自社システムへの影響はなかったと述べた。今回の件は、共有インフラの一部の脆弱性がDeFiサービスの運用リスクにつながり得ることを示している。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "TrustedVolumes遭670万美元攻击，DeFi流动性解析器成目标",
+      "excerpt": "DeFi平台TrustedVolumes遭遇670万美元规模漏洞攻击，多个协议使用的流动性解析器成为攻击目标，1inch称系统未受影响。",
+      "body": "DeFi平台TrustedVolumes遭遇670万美元规模的漏洞攻击。据decrypt.co报道，此次攻击针对的是多个DeFi协议使用的流动性解析器。流动性解析器属于处理交易路径和流动性的基础设施，可能被多个协议集成使用。DEX聚合器1inch表示，其自身系统未受到影响。该事件显示，在DeFi服务依赖共享基础设施的情况下，某一组件的弱点可能转化为多个服务的运营风险。来源: decrypt.co"
+    },
+    "es": {
+      "title": "TrustedVolumes sufre exploit de $6,7 millones en resolver de liquidez DeFi",
+      "excerpt": "La plataforma DeFi TrustedVolumes sufrió un exploit de $6,7 millones contra un resolver de liquidez usado por varios protocolos.",
+      "body": "La plataforma DeFi TrustedVolumes sufrió un exploit de $6,7 millones. Según decrypt.co, el ataque se dirigió contra un resolver de liquidez utilizado por múltiples protocolos DeFi. Este tipo de infraestructura participa en el enrutamiento de operaciones y en la gestión de liquidez, y puede integrarse en varios servicios. El agregador DEX 1inch afirmó que sus propios sistemas no se vieron afectados. El caso muestra cómo una debilidad en un componente compartido de infraestructura DeFi puede convertirse en un riesgo operativo para los servicios que dependen de él. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "TrustedVolumes sofre exploit de US$ 6,7 mi em resolver de liquidez DeFi",
+      "excerpt": "A plataforma DeFi TrustedVolumes sofreu um exploit de US$ 6,7 milhões contra um resolver de liquidez usado por vários protocolos.",
+      "body": "A plataforma DeFi TrustedVolumes sofreu um exploit de US$ 6,7 milhões. Segundo o decrypt.co, o ataque teve como alvo um resolver de liquidez usado por múltiplos protocolos DeFi. Esse tipo de infraestrutura participa do roteamento de negociações e do processamento de liquidez, podendo ser integrado por vários serviços. A agregadora DEX 1inch afirmou que seus próprios sistemas não foram afetados. O episódio mostra como uma fragilidade em um componente compartilhado da infraestrutura DeFi pode se tornar risco operacional para serviços que dependem dele. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "TrustedVolumes von 6,7-Mio.-Dollar-Exploit bei DeFi-Liquiditätsresolver getroffen",
+      "excerpt": "Die DeFi-Plattform TrustedVolumes wurde von einem 6,7-Mio.-Dollar-Exploit getroffen, der einen von mehreren Protokollen genutzten Liquiditätsresolver betraf.",
+      "body": "Die DeFi-Plattform TrustedVolumes wurde von einem Exploit in Höhe von 6,7 Millionen Dollar getroffen. Laut decrypt.co richtete sich der Angriff gegen einen Liquiditätsresolver, der von mehreren DeFi-Protokollen genutzt wird. Ein solcher Resolver ist Infrastruktur für Handelsrouten und Liquiditätsverarbeitung und kann in verschiedene Protokolle eingebunden sein. Der DEX-Aggregator 1inch erklärte, die eigenen Systeme seien nicht betroffen gewesen. Der Vorfall zeigt, dass Schwachstellen in gemeinsam genutzter DeFi-Infrastruktur zu Betriebsrisiken für darauf aufbauende Dienste werden können. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "TrustedVolumes touché par un exploit de 6,7 M$ visant un resolver DeFi",
+      "excerpt": "La plateforme DeFi TrustedVolumes a subi un exploit de 6,7 millions de dollars visant un resolver de liquidité utilisé par plusieurs protocoles.",
+      "body": "La plateforme DeFi TrustedVolumes a été touchée par un exploit de 6,7 millions de dollars. Selon decrypt.co, l’attaque visait un resolver de liquidité utilisé par plusieurs protocoles DeFi. Ce type d’infrastructure intervient dans le routage des échanges et le traitement de la liquidité, et peut être intégré à plusieurs services. L’agrégateur DEX 1inch a indiqué que ses propres systèmes n’avaient pas été affectés. L’incident montre qu’une faiblesse dans un composant d’infrastructure DeFi partagé peut devenir un risque opérationnel pour les services qui en dépendent. Source: decrypt.co"
+    },
+    "ar": {
+      "title": "TrustedVolumes تتعرض لاستغلال بقيمة 6.7 مليون دولار عبر Resolver سيولة DeFi",
+      "excerpt": "تعرضت منصة DeFi TrustedVolumes لاستغلال بقيمة 6.7 مليون دولار استهدف Resolver سيولة تستخدمه عدة بروتوكولات، بينما قالت 1inch إن أنظمتها لم تتأثر.",
+      "body": "تعرضت منصة DeFi TrustedVolumes لاستغلال بقيمة 6.7 مليون دولار. وبحسب decrypt.co، استهدف الهجوم Resolver سيولة تستخدمه عدة بروتوكولات DeFi. ويعد هذا المكوّن بنية تحتية تشارك في توجيه الصفقات ومعالجة السيولة، وقد تعتمد عليه تكاملات متعددة. وقال مجمع التداول اللامركزي 1inch إن أنظمته الخاصة لم تتأثر. وتوضح الحادثة أن ضعف مكوّن مشترك في بنية DeFi التحتية قد يتحول إلى خطر تشغيلي على الخدمات التي تعتمد عليه. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "TrustedVolumes पर $6.7M exploit, DeFi liquidity resolver बना निशाना",
+      "excerpt": "DeFi प्लेटफॉर्म TrustedVolumes पर $6.7 मिलियन का exploit हुआ, जिसमें कई प्रोटोकॉल द्वारा इस्तेमाल liquidity resolver को निशाना बनाया गया।",
+      "body": "DeFi प्लेटफॉर्म TrustedVolumes पर $6.7 मिलियन का exploit हुआ। decrypt.co के अनुसार, हमले में उस liquidity resolver को निशाना बनाया गया जिसका उपयोग कई DeFi प्रोटोकॉल करते हैं। यह resolver ट्रेड रूटिंग और liquidity प्रोसेसिंग से जुड़ी इन्फ्रास्ट्रक्चर परत है और कई सेवाओं में इंटीग्रेट हो सकती है। DEX aggregator 1inch ने कहा कि उसके अपने सिस्टम पर कोई असर नहीं पड़ा। यह घटना दिखाती है कि साझा DeFi इन्फ्रास्ट्रक्चर के किसी एक घटक की कमजोरी उस पर निर्भर सेवाओं के लिए ऑपरेशनल जोखिम बन सकती है। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "TrustedVolumes Kena Exploit $6,7 Juta, Resolver Likuiditas DeFi Jadi Target",
+      "excerpt": "Platform DeFi TrustedVolumes terkena exploit senilai $6,7 juta setelah resolver likuiditas yang dipakai beberapa protokol menjadi target serangan.",
+      "body": "Platform DeFi TrustedVolumes terkena exploit senilai $6,7 juta. Menurut decrypt.co, serangan ini menargetkan resolver likuiditas yang digunakan oleh beberapa protokol DeFi. Resolver likuiditas adalah infrastruktur yang berperan dalam perutean transaksi dan pemrosesan likuiditas, serta dapat dipakai dalam berbagai integrasi protokol. Agregator DEX 1inch menyatakan sistemnya sendiri tidak terdampak. Insiden ini menunjukkan bahwa kelemahan pada satu komponen infrastruktur DeFi bersama dapat menjadi risiko operasional bagi layanan yang bergantung padanya. Sumber: decrypt.co"
+    }
+  }
+}
