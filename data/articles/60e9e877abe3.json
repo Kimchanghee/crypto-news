@@ -1,0 +1,75 @@
+{
+  "id": "60e9e877abe3",
+  "slug": "google-found-a-way-to-make-local-ai-up-to-3x-fasterno-new-ha-853326",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T01:53:27.348Z",
+  "updatedAt": "2026-05-08T01:53:27.348Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367095/google-make-local-ai-3x-faster-no-new-hardware",
+  "canonicalUrl": "https://decrypt.co/367095/google-make-local-ai-3x-faster-no-new-hardware",
+  "titleFingerprint": "24564d2baabff4613323acfcdc085a17afe29143",
+  "dedupKeys": [
+    "60e9e877abe387d169b018d564bb1f2ab99fd8e3",
+    "24564d2baabff4613323acfcdc085a17afe29143",
+    "9569ddb226e2d55adffd717af8055cac1d1a2f99"
+  ],
+  "imageUrl": "/images/articles/60e9e877abe3.png",
+  "i18n": {
+    "ko": {
+      "title": "구글 로컬 AI 속도 최대 3배 향상, 새 하드웨어 없이 Gemma 4 가속",
+      "excerpt": "구글이 새 Multi-Token Prediction 드래프터를 통해 사용자의 자체 하드웨어에서 Gemma 4를 최대 3배 빠르게 실행할 수 있다고 밝혔다.",
+      "body": "구글은 로컬 AI 실행 속도를 높이는 새 Multi-Token Prediction 드래프터를 공개했다. 이 기술은 클라우드에 의존하지 않고 사용자가 보유한 하드웨어에서 Gemma 4를 최대 3배 빠르게 실행할 수 있도록 설계됐다. 핵심은 새 장비를 추가하지 않아도 된다는 점이다. 원문에 따르면 품질 손실 없이 속도 개선을 제공하는 것이 특징이다. 로컬 환경에서 AI 모델을 돌리려는 이용자에게는 비용, 지연 시간, 클라우드 의존도를 줄일 수 있는 선택지가 될 수 있다. 향후 온디바이스 AI 활용 확대에도 영향을 줄 가능성이 있다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "Google Speeds Up Local AI Up to 3x Without New Hardware for Gemma 4",
+      "excerpt": "Google says its new Multi-Token Prediction drafters can run Gemma 4 up to 3x faster on users’ own hardware without cloud use or quality loss.",
+      "body": "Google has introduced new Multi-Token Prediction drafters designed to accelerate local AI performance. The technology can make Gemma 4 run up to 3x faster on hardware users already own, without relying on the cloud. The key point is that no new hardware is required. According to the original report, the speed gain comes without a loss in quality. For users who want to run AI models locally, this could help reduce cost, latency, and dependence on cloud infrastructure. It may also support broader use of on-device AI in the future. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "Google、Gemma 4のローカルAIを新ハードなしで最大3倍高速化",
+      "excerpt": "Googleは新しいMulti-Token Predictionドラフターにより、クラウド不要でGemma 4を手元のハードウェア上で最大3倍高速化できるとした。",
+      "body": "Googleは、ローカルAIの実行速度を高める新しいMulti-Token Predictionドラフターを発表した。この技術は、クラウドに頼らず、ユーザーがすでに持つハードウェア上でGemma 4を最大3倍速く動かせるよう設計されている。重要なのは、新しい機器を追加する必要がない点だ。原文によると、速度向上は品質を損なわずに実現される。ローカル環境でAIモデルを動かしたい利用者にとって、コスト、遅延、クラウド依存を抑える選択肢になり得る。今後のオンデバイスAI活用の広がりにも影響する可能性がある。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "Google让Gemma 4本地AI提速最高3倍，无需新硬件",
+      "excerpt": "Google表示，新的Multi-Token Prediction草拟器可让Gemma 4在用户自有硬件上提速最高3倍，无需云端且不损失质量。",
+      "body": "Google推出了新的Multi-Token Prediction草拟器，用于提升本地AI运行速度。该技术可在不依赖云端的情况下，让Gemma 4在用户已有硬件上运行速度最高提升3倍。重点在于不需要增加新硬件。根据原文，这一速度提升不会带来质量损失。对于希望在本地环境运行AI模型的用户来说，这可能有助于降低成本、延迟和对云基础设施的依赖。它也可能影响未来端侧AI应用的扩展。来源: decrypt.co"
+    },
+    "es": {
+      "title": "Google acelera la IA local hasta 3 veces para Gemma 4 sin nuevo hardware",
+      "excerpt": "Google afirma que sus nuevos drafters Multi-Token Prediction pueden ejecutar Gemma 4 hasta 3 veces más rápido en hardware propio, sin nube ni pérdida de calidad.",
+      "body": "Google presentó nuevos drafters Multi-Token Prediction para aumentar la velocidad de la IA local. La tecnología puede hacer que Gemma 4 funcione hasta 3 veces más rápido en el hardware que los usuarios ya tienen, sin depender de la nube. El punto central es que no requiere comprar ni añadir nuevo hardware. Según el informe original, la mejora de velocidad no implica pérdida de calidad. Para quienes quieren ejecutar modelos de IA en entornos locales, puede ayudar a reducir costos, latencia y dependencia de infraestructura en la nube. También podría influir en una adopción más amplia de la IA en dispositivos. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "Google acelera IA local em até 3 vezes no Gemma 4 sem novo hardware",
+      "excerpt": "O Google diz que seus novos drafters Multi-Token Prediction podem rodar o Gemma 4 até 3 vezes mais rápido no hardware do usuário, sem nuvem ou perda de qualidade.",
+      "body": "O Google apresentou novos drafters Multi-Token Prediction para aumentar a velocidade da IA local. A tecnologia pode fazer o Gemma 4 rodar até 3 vezes mais rápido no hardware que os usuários já possuem, sem depender da nuvem. O ponto principal é que não exige novo hardware. Segundo o relatório original, o ganho de velocidade ocorre sem perda de qualidade. Para usuários que desejam executar modelos de IA localmente, isso pode ajudar a reduzir custos, latência e dependência de infraestrutura em nuvem. Também pode influenciar a expansão futura da IA em dispositivos. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "Google beschleunigt lokale KI für Gemma 4 bis zu 3-fach ohne neue Hardware",
+      "excerpt": "Google sagt, neue Multi-Token-Prediction-Drafter könnten Gemma 4 auf eigener Hardware bis zu 3-mal schneller ausführen, ohne Cloud und ohne Qualitätsverlust.",
+      "body": "Google hat neue Multi-Token-Prediction-Drafter vorgestellt, die lokale KI schneller machen sollen. Die Technologie kann Gemma 4 auf bereits vorhandener Nutzerhardware bis zu 3-mal schneller ausführen, ohne auf die Cloud angewiesen zu sein. Entscheidend ist, dass keine neue Hardware erforderlich ist. Dem Originalbericht zufolge erfolgt der Geschwindigkeitsschub ohne Qualitätsverlust. Für Nutzer, die KI-Modelle lokal betreiben möchten, kann dies Kosten, Latenz und Abhängigkeit von Cloud-Infrastruktur verringern. Zudem könnte es die künftige Nutzung von On-Device-KI unterstützen. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "Google accélère l’IA locale jusqu’à 3 fois pour Gemma 4 sans nouveau matériel",
+      "excerpt": "Google affirme que ses nouveaux drafters Multi-Token Prediction peuvent faire tourner Gemma 4 jusqu’à 3 fois plus vite sur le matériel de l’utilisateur, sans cloud ni perte de qualité.",
+      "body": "Google a présenté de nouveaux drafters Multi-Token Prediction destinés à accélérer l’IA locale. Cette technologie peut faire fonctionner Gemma 4 jusqu’à 3 fois plus vite sur le matériel que les utilisateurs possèdent déjà, sans dépendre du cloud. Le point clé est qu’aucun nouveau matériel n’est nécessaire. Selon l’article original, ce gain de vitesse ne s’accompagne d’aucune perte de qualité. Pour les utilisateurs qui souhaitent exécuter des modèles d’IA localement, cela peut réduire les coûts, la latence et la dépendance à l’infrastructure cloud. Cela pourrait aussi favoriser l’usage futur de l’IA embarquée. Source: decrypt.co"
+    },
+    "ar": {
+      "title": "غوغل تسرّع الذكاء الاصطناعي المحلي حتى 3 مرات لـ Gemma 4 بلا عتاد جديد",
+      "excerpt": "تقول غوغل إن مسودات Multi-Token Prediction الجديدة يمكنها تشغيل Gemma 4 أسرع حتى 3 مرات على عتاد المستخدم نفسه، من دون سحابة أو فقدان جودة.",
+      "body": "كشفت غوغل عن مسودات Multi-Token Prediction جديدة لزيادة سرعة تشغيل الذكاء الاصطناعي محليا. صُممت التقنية لجعل Gemma 4 يعمل بسرعة أعلى تصل إلى 3 مرات على العتاد الذي يملكه المستخدمون بالفعل، من دون الاعتماد على السحابة. النقطة الأساسية أنها لا تتطلب إضافة عتاد جديد. ووفقا للتقرير الأصلي، يتحقق تحسن السرعة من دون فقدان في الجودة. بالنسبة لمن يريدون تشغيل نماذج الذكاء الاصطناعي محليا، قد يساعد ذلك في خفض التكلفة وزمن الاستجابة والاعتماد على البنية السحابية. كما قد يؤثر في توسيع استخدام الذكاء الاصطناعي على الأجهزة مستقبلا. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "Google ने Gemma 4 लोकल AI को नए हार्डवेयर बिना 3 गुना तक तेज किया",
+      "excerpt": "Google का कहना है कि नए Multi-Token Prediction drafters Gemma 4 को यूजर के अपने हार्डवेयर पर 3 गुना तक तेज चला सकते हैं, बिना क्लाउड या गुणवत्ता हानि के।",
+      "body": "Google ने लोकल AI की गति बढ़ाने के लिए नए Multi-Token Prediction drafters पेश किए हैं। यह तकनीक Gemma 4 को यूजर के पहले से मौजूद हार्डवेयर पर 3 गुना तक तेज चलाने के लिए बनाई गई है, वह भी क्लाउड पर निर्भर हुए बिना। मुख्य बात यह है कि इसके लिए नया हार्डवेयर जरूरी नहीं है। मूल रिपोर्ट के अनुसार, यह गति सुधार गुणवत्ता में कमी के बिना मिलता है। जो यूजर AI मॉडल स्थानीय रूप से चलाना चाहते हैं, उनके लिए यह लागत, लेटेंसी और क्लाउड इन्फ्रास्ट्रक्चर पर निर्भरता घटाने का विकल्प हो सकता है। भविष्य में ऑन-डिवाइस AI के उपयोग को भी इससे बढ़ावा मिल सकता है। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "Google Percepat AI Lokal Gemma 4 hingga 3 Kali Tanpa Hardware Baru",
+      "excerpt": "Google mengatakan drafter Multi-Token Prediction baru dapat menjalankan Gemma 4 hingga 3 kali lebih cepat di hardware pengguna sendiri, tanpa cloud dan tanpa penurunan kualitas.",
+      "body": "Google memperkenalkan drafter Multi-Token Prediction baru untuk meningkatkan kecepatan AI lokal. Teknologi ini dirancang agar Gemma 4 dapat berjalan hingga 3 kali lebih cepat pada hardware yang sudah dimiliki pengguna, tanpa bergantung pada cloud. Poin utamanya adalah tidak perlu menambah hardware baru. Menurut laporan asli, peningkatan kecepatan ini hadir tanpa kehilangan kualitas. Bagi pengguna yang ingin menjalankan model AI secara lokal, hal ini dapat membantu mengurangi biaya, latensi, dan ketergantungan pada infrastruktur cloud. Ke depan, teknologi ini juga dapat memengaruhi perluasan penggunaan AI di perangkat. Sumber: decrypt.co"
+    }
+  }
+}
