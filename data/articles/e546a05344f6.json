@@ -1,0 +1,75 @@
+{
+  "id": "e546a05344f6",
+  "slug": "stablecoins-have-their-permission-slip-now-comes-the-hard-pa-126226",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T13:37:12.629Z",
+  "updatedAt": "2026-05-08T13:37:12.629Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
+  "canonicalUrl": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
+  "titleFingerprint": "1e9f38a5e829b541f1c459ded47e67552863d541",
+  "dedupKeys": [
+    "e546a05344f6190c19231ff8b7c030884e51482e",
+    "1e9f38a5e829b541f1c459ded47e67552863d541",
+    "f5a303c10644dc93cd2364100cbdcbcba49c587d"
+  ],
+  "imageUrl": "/images/articles/e546a05344f6.jpg",
+  "i18n": {
+    "ko": {
+      "title": "스테이블코인 규제 허가 이후 과제, 인프라·프라이버시가 관건",
+      "excerpt": "Consensus Miami 2026에서 MoonPay, Ripple, Paxos 임원들은 규제가 스테이블코인 채택을 앞당겼지만 인프라와 프라이버시, 유통 장벽은 여전하다고 밝혔다.",
+      "body": "Consensus Miami 2026에서 MoonPay, Ripple, Paxos 임원들은 스테이블코인이 규제 측면의 허가를 얻으며 채택 속도를 높였다고 밝혔다. 다만 실제 확산을 위해서는 결제·정산 인프라, 사용자 프라이버시, 유통망 구축이 핵심 과제로 남아 있다는 점을 강조했다. 이번 발언은 규제가 불확실성을 줄여 기업과 이용자의 접근성을 높였지만, 제도적 승인만으로 대중적 사용이 보장되지는 않는다는 맥락에서 나왔다. 향후 스테이블코인 시장의 성장은 규제 준수와 함께 실사용을 뒷받침할 기술·서비스 기반을 얼마나 빠르게 마련하느냐에 달려 있다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Stablecoin Regulation Opens the Door, but Infrastructure Remains the Test",
+      "excerpt": "At Consensus Miami 2026, executives from MoonPay, Ripple and Paxos said regulation has accelerated stablecoin adoption, while infrastructure, privacy and distribution remain hurdles.",
+      "body": "At Consensus Miami 2026, executives from MoonPay, Ripple and Paxos said stablecoins have gained a regulatory permission slip that is helping adoption move faster. They stressed, however, that broader use still depends on payment and settlement infrastructure, user privacy and reliable distribution channels. The comments framed regulation as a force that reduces uncertainty and improves access for companies and users, but not as a guarantee of mainstream usage on its own. Future growth in stablecoins will depend on how quickly the market can pair compliance with the technical and service foundations needed for real-world use. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "ステーブルコイン規制承認後の課題、インフラとプライバシーが焦点",
+      "excerpt": "Consensus Miami 2026でMoonPay、Ripple、Paxosの幹部は、規制がステーブルコイン普及を加速させた一方、インフラやプライバシー、流通が課題だと述べた。",
+      "body": "Consensus Miami 2026で、MoonPay、Ripple、Paxosの幹部は、ステーブルコインが規制面での許可を得たことで採用の速度が高まっていると述べた。ただし、実際に広く使われるには、決済・清算インフラ、利用者のプライバシー、流通網の整備が重要な課題として残ると強調した。今回の発言は、規制が不確実性を減らし、企業や利用者のアクセスを高める一方、制度上の承認だけで一般利用が保証されるわけではないという文脈で示された。今後の成長は、規制遵守と実利用を支える技術・サービス基盤をどれだけ早く整えられるかに左右される。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "稳定币监管许可落地之后，基础设施与隐私成关键考验",
+      "excerpt": "在Consensus Miami 2026上，MoonPay、Ripple和Paxos高管表示，监管推动了稳定币采用，但基础设施、隐私和分发仍是主要障碍。",
+      "body": "在Consensus Miami 2026上，MoonPay、Ripple和Paxos的高管表示，稳定币已在监管层面获得类似许可的地位，从而加快了采用速度。不过，他们强调，若要实现更广泛使用，支付与结算基础设施、用户隐私以及分发网络建设仍是关键难题。这些观点表明，监管降低了不确定性，并改善了企业和用户的进入条件，但制度认可本身并不等于大众化使用。稳定币市场未来的增长，将取决于行业能否在合规之外，尽快建立支撑真实使用场景的技术和服务基础。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Stablecoins tras el aval regulatorio: infraestructura y privacidad, el reto",
+      "excerpt": "En Consensus Miami 2026, ejecutivos de MoonPay, Ripple y Paxos dijeron que la regulación aceleró la adopción de stablecoins, pero persisten retos de infraestructura, privacidad y distribución.",
+      "body": "En Consensus Miami 2026, ejecutivos de MoonPay, Ripple y Paxos dijeron que las stablecoins ya cuentan con una especie de permiso regulatorio que está acelerando su adopción. Sin embargo, subrayaron que el uso amplio aún depende de la infraestructura de pagos y liquidación, la privacidad de los usuarios y canales de distribución sólidos. Los comentarios sitúan la regulación como un factor que reduce la incertidumbre y facilita el acceso para empresas y usuarios, pero no como una garantía de uso masivo por sí sola. El crecimiento futuro de las stablecoins dependerá de la rapidez con que el mercado combine cumplimiento normativo con bases técnicas y de servicio para el uso real. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Stablecoins após aval regulatório: infraestrutura e privacidade são o teste",
+      "excerpt": "No Consensus Miami 2026, executivos da MoonPay, Ripple e Paxos disseram que a regulação acelerou a adoção de stablecoins, mas infraestrutura, privacidade e distribuição ainda são obstáculos.",
+      "body": "No Consensus Miami 2026, executivos da MoonPay, Ripple e Paxos disseram que as stablecoins receberam uma espécie de permissão regulatória, o que tem acelerado sua adoção. Ainda assim, destacaram que o uso mais amplo depende de infraestrutura de pagamentos e liquidação, privacidade dos usuários e canais de distribuição confiáveis. As declarações colocam a regulação como um fator que reduz incertezas e melhora o acesso para empresas e usuários, mas não como garantia de uso popular por si só. O crescimento futuro das stablecoins dependerá da velocidade com que o mercado conseguirá unir conformidade regulatória às bases técnicas e de serviço necessárias para o uso real. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Stablecoins nach Regulierungsschub: Infrastruktur und Datenschutz im Fokus",
+      "excerpt": "Auf der Consensus Miami 2026 sagten Führungskräfte von MoonPay, Ripple und Paxos, Regulierung beschleunige die Stablecoin-Nutzung, doch Infrastruktur, Datenschutz und Vertrieb bleiben Hürden.",
+      "body": "Auf der Consensus Miami 2026 erklärten Führungskräfte von MoonPay, Ripple und Paxos, Stablecoins hätten durch die Regulierung eine Art Erlaubnis erhalten, was die Akzeptanz beschleunige. Zugleich betonten sie, dass eine breitere Nutzung weiter von Zahlungs- und Abwicklungsinfrastruktur, Nutzerdatenschutz und belastbaren Vertriebskanälen abhängt. Die Aussagen zeigen Regulierung als Faktor, der Unsicherheit reduziert und Unternehmen sowie Nutzern den Zugang erleichtert, aber allein keine massenhafte Nutzung garantiert. Das künftige Wachstum von Stablecoins hängt davon ab, wie schnell der Markt Compliance mit den technischen und servicebezogenen Grundlagen für reale Anwendungen verbinden kann. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Stablecoins après le feu vert réglementaire: infrastructure et vie privée en jeu",
+      "excerpt": "À Consensus Miami 2026, des dirigeants de MoonPay, Ripple et Paxos ont déclaré que la régulation accélère l’adoption des stablecoins, mais que l’infrastructure, la confidentialité et la distribution restent des freins.",
+      "body": "À Consensus Miami 2026, des dirigeants de MoonPay, Ripple et Paxos ont déclaré que les stablecoins disposent désormais d’une forme d’autorisation réglementaire qui accélère leur adoption. Ils ont toutefois souligné que l’usage à grande échelle dépend encore de l’infrastructure de paiement et de règlement, de la confidentialité des utilisateurs et de canaux de distribution fiables. Ces propos présentent la régulation comme un moyen de réduire l’incertitude et d’améliorer l’accès pour les entreprises et les utilisateurs, sans garantir à elle seule une adoption grand public. La croissance future des stablecoins dépendra de la capacité du marché à associer conformité et bases techniques et de service pour des usages réels. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "العملات المستقرة بعد الضوء التنظيمي: البنية التحتية والخصوصية الاختبار الأهم",
+      "excerpt": "في Consensus Miami 2026، قال مسؤولون من MoonPay وRipple وPaxos إن التنظيم سرّع تبني العملات المستقرة، لكن البنية التحتية والخصوصية والتوزيع ما زالت عقبات رئيسية.",
+      "body": "في Consensus Miami 2026، قال مسؤولون من MoonPay وRipple وPaxos إن العملات المستقرة حصلت على ما يشبه الإذن التنظيمي، ما ساعد على تسريع تبنيها. لكنهم أكدوا أن الانتشار الأوسع لا يزال يعتمد على بنية المدفوعات والتسوية، وخصوصية المستخدمين، وقنوات توزيع موثوقة. وتضع هذه التصريحات التنظيم في موقع عامل يقلل عدم اليقين ويحسن وصول الشركات والمستخدمين، لكنه لا يضمن وحده الاستخدام الجماهيري. وسيعتمد نمو سوق العملات المستقرة مستقبلا على سرعة الجمع بين الامتثال التنظيمي والأسس التقنية والخدمية اللازمة للاستخدام الفعلي. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "नियामकीय मंजूरी के बाद स्टेबलकॉइन की असली परीक्षा: ढांचा और गोपनीयता",
+      "excerpt": "Consensus Miami 2026 में MoonPay, Ripple और Paxos के अधिकारियों ने कहा कि नियमन ने स्टेबलकॉइन अपनाने की रफ्तार बढ़ाई है, लेकिन इन्फ्रास्ट्रक्चर, प्राइवेसी और वितरण बड़ी बाधाएं हैं।",
+      "body": "Consensus Miami 2026 में MoonPay, Ripple और Paxos के अधिकारियों ने कहा कि स्टेबलकॉइन को नियामकीय स्तर पर एक तरह की अनुमति मिल गई है, जिससे अपनाने की गति तेज हुई है। हालांकि उन्होंने जोर दिया कि व्यापक उपयोग के लिए भुगतान और निपटान इन्फ्रास्ट्रक्चर, उपयोगकर्ता गोपनीयता और मजबूत वितरण चैनल अब भी अहम चुनौतियां हैं। ये टिप्पणियां दिखाती हैं कि नियमन अनिश्चितता घटाता है और कंपनियों व उपयोगकर्ताओं की पहुंच बेहतर करता है, लेकिन केवल संस्थागत स्वीकृति से आम उपयोग की गारंटी नहीं मिलती। स्टेबलकॉइन बाजार की आगे की वृद्धि इस पर निर्भर करेगी कि अनुपालन के साथ वास्तविक उपयोग को सहारा देने वाली तकनीकी और सेवा नींव कितनी जल्दी तैयार होती है। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Stablecoin Setelah Lampu Hijau Regulasi: Infrastruktur dan Privasi Jadi Ujian",
+      "excerpt": "Di Consensus Miami 2026, eksekutif MoonPay, Ripple, dan Paxos mengatakan regulasi mempercepat adopsi stablecoin, tetapi infrastruktur, privasi, dan distribusi masih menjadi hambatan utama.",
+      "body": "Di Consensus Miami 2026, eksekutif MoonPay, Ripple, dan Paxos mengatakan stablecoin telah memperoleh semacam izin dari sisi regulasi, sehingga adopsinya bergerak lebih cepat. Namun, mereka menekankan bahwa penggunaan yang lebih luas masih bergantung pada infrastruktur pembayaran dan penyelesaian, privasi pengguna, serta saluran distribusi yang andal. Pernyataan itu menempatkan regulasi sebagai faktor yang mengurangi ketidakpastian dan memperluas akses bagi perusahaan serta pengguna, tetapi bukan jaminan penggunaan massal dengan sendirinya. Pertumbuhan pasar stablecoin ke depan akan ditentukan oleh seberapa cepat industri memadukan kepatuhan dengan fondasi teknis dan layanan untuk penggunaan nyata. Sumber: coindesk.com"
+    }
+  }
+}
