@@ -1,5 +1,230 @@
 [
   {
+    "id": "b872464142d4",
+    "slug": "bitcoin-price-crashes-near-zero-on-revolut-blamed-on-third-p-276012",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T16:19:53.021Z",
+    "updatedAt": "2026-05-08T16:19:53.021Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367258/bitcoin-price-crashes-near-zero-revolut-third-party-disruption",
+    "canonicalUrl": "https://decrypt.co/367258/bitcoin-price-crashes-near-zero-revolut-third-party-disruption",
+    "titleFingerprint": "e9da0aee7bc02fb7d7e55aaa52b4d6ffe9f29060",
+    "dedupKeys": [
+      "b872464142d4dc1aa8b0d9939bd7f014e9843332",
+      "e9da0aee7bc02fb7d7e55aaa52b4d6ffe9f29060",
+      "d73574573f27086184a50beea5892170599451af"
+    ],
+    "imageUrl": "/images/articles/b872464142d4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 가격, 레볼루트서 2센트 근처 급락한 이유",
+        "excerpt": "비트코인 가격이 레볼루트에서 한때 약 2센트까지 급락했으며, 레볼루트는 이를 제3자 서비스 장애로 설명했다.",
+        "body": "비트코인 가격이 금융 플랫폼 레볼루트에서 한때 약 2센트까지 급락하는 이례적 현상이 발생했다. 레볼루트는 해당 가격 급락이 자사 내부 거래 판단이나 시장 전반의 실제 가격 붕괴가 아니라, 제3자 서비스 장애와 관련된 문제라고 설명했다. 원문에 따르면 급락은 잠시 나타난 현상이었으며, 핵심 수치는 비트코인이 거의 0에 가까운 약 2센트 수준으로 표시됐다는 점이다. 이번 사례는 암호화폐 거래 및 가격 표시 서비스가 외부 데이터와 인프라에 의존할 때 이용자 화면에 비정상 가격이 노출될 수 있음을 보여준다. 다만 제공된 정보상 실제 시장 전반의 비트코인 가격이 동일하게 붕괴했다는 내용은 없다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Bitcoin Price Near Zero on Revolut After Service Disruption",
+        "excerpt": "Bitcoin briefly fell to about 2 cents on Revolut, with the financial platform attributing the abnormal move to a third-party service disruption.",
+        "body": "Bitcoin showed an unusual plunge on the financial platform Revolut, briefly falling to about 2 cents. Revolut said the drop was not the result of its own trading decision or a real market-wide collapse in Bitcoin’s price, but an issue linked to a third-party service disruption. According to the original report, the incident was temporary, and the key figure was Bitcoin appearing at a level close to zero, around 2 cents. The case shows how crypto trading and price display services can expose users to abnormal prices when they depend on external data and infrastructure. However, the provided information does not state that Bitcoin’s price collapsed across the broader market. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "ビットコイン価格、Revolutで2セント近くに急落した理由",
+        "excerpt": "ビットコイン価格はRevolut上で一時約2セントまで急落し、同社は第三者サービスの障害が原因だと説明した。",
+        "body": "ビットコイン価格が金融プラットフォームRevolut上で一時約2セントまで急落する異例の現象が発生した。Revolutは、この価格急落について、自社の取引判断や市場全体における実際の価格崩壊ではなく、第三者サービスの障害に関連した問題だと説明した。原文によると、急落は一時的なものであり、重要な数値はビットコインがほぼゼロに近い約2セント水準で表示された点だ。今回の事例は、暗号資産の取引および価格表示サービスが外部データやインフラに依存する場合、利用者画面に異常な価格が表示され得ることを示している。ただし、提供された情報では、市場全体でビットコイン価格が同様に崩壊したとはされていない。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "比特币价格在Revolut接近归零，原因指向服务中断",
+        "excerpt": "比特币价格在Revolut上一度跌至约2美分，该金融平台称异常波动源于第三方服务中断。",
+        "body": "比特币价格在金融平台Revolut上出现异常下跌，一度跌至约2美分。Revolut表示，这一价格暴跌并非来自其自身交易决定，也不是整个市场中比特币真实价格的全面崩塌，而是与第三方服务中断相关的问题。根据原文，该下跌只是短暂出现，关键数字是比特币被显示在接近零的约2美分水平。此事显示，当加密货币交易和价格显示服务依赖外部数据与基础设施时，用户界面可能出现异常价格。不过，已提供的信息并未表明整个市场的比特币价格也出现同样崩塌。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Bitcoin cae cerca de cero en Revolut por interrupción externa",
+        "excerpt": "Bitcoin cayó brevemente a unos 2 centavos en Revolut, y la plataforma financiera atribuyó el movimiento anómalo a una interrupción de un servicio externo.",
+        "body": "El precio de Bitcoin registró un movimiento inusual en la plataforma financiera Revolut, donde cayó brevemente a unos 2 centavos. Revolut explicó que la caída no fue resultado de una decisión interna de negociación ni de un colapso real del precio de Bitcoin en todo el mercado, sino de un problema vinculado a una interrupción de un servicio de terceros. Según el informe original, el desplome fue temporal y la cifra clave fue que Bitcoin apareció mostrado en un nivel cercano a cero, alrededor de 2 centavos. El caso muestra que los servicios de negociación y visualización de precios de criptomonedas pueden exponer precios anómalos cuando dependen de datos e infraestructura externos. Sin embargo, la información proporcionada no indica que el precio de Bitcoin se desplomara igual en el mercado general. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Bitcoin cai perto de zero na Revolut após falha externa",
+        "excerpt": "O Bitcoin caiu brevemente para cerca de 2 centavos na Revolut, que atribuiu o movimento anormal a uma interrupção em serviço de terceiros.",
+        "body": "O preço do Bitcoin registrou uma queda incomum na plataforma financeira Revolut, chegando brevemente a cerca de 2 centavos. A Revolut afirmou que a queda não resultou de uma decisão interna de negociação nem de um colapso real do preço do Bitcoin em todo o mercado, mas de um problema relacionado a uma interrupção em serviço de terceiros. Segundo o relato original, a queda foi temporária, e o dado central foi o Bitcoin aparecer em um nível próximo de zero, por volta de 2 centavos. O caso mostra que serviços de negociação e exibição de preços de criptoativos podem mostrar valores anormais quando dependem de dados e infraestrutura externos. No entanto, as informações fornecidas não indicam que o preço do Bitcoin tenha despencado da mesma forma no mercado amplo. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Bitcoin-Preis auf Revolut nahe null nach externer Störung",
+        "excerpt": "Bitcoin fiel auf Revolut kurzzeitig auf etwa 2 Cent; die Finanzplattform machte eine Störung bei einem Drittanbieterdienst verantwortlich.",
+        "body": "Der Bitcoin-Preis zeigte auf der Finanzplattform Revolut eine ungewöhnliche Bewegung und fiel kurzzeitig auf etwa 2 Cent. Revolut erklärte, der Preissturz sei nicht auf eine eigene Handelsentscheidung oder einen tatsächlichen marktweiten Zusammenbruch des Bitcoin-Preises zurückzuführen, sondern auf ein Problem im Zusammenhang mit einer Störung bei einem Drittanbieterdienst. Dem Originalbericht zufolge trat der Einbruch nur vorübergehend auf; die zentrale Zahl war, dass Bitcoin nahe null, bei rund 2 Cent, angezeigt wurde. Der Fall zeigt, dass Krypto-Handels- und Preisanzeigedienste Nutzern abnormale Preise anzeigen können, wenn sie von externen Daten und Infrastruktur abhängen. Die vorliegenden Informationen besagen jedoch nicht, dass der Bitcoin-Preis im Gesamtmarkt ebenso eingebrochen ist. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Bitcoin proche de zéro sur Revolut après une panne tierce",
+        "excerpt": "Le Bitcoin est brièvement tombé à environ 2 cents sur Revolut, la plateforme financière évoquant une interruption d’un service tiers.",
+        "body": "Le prix du Bitcoin a connu un mouvement inhabituel sur la plateforme financière Revolut, chutant brièvement à environ 2 cents. Revolut a expliqué que cette baisse ne résultait pas d’une décision interne de trading ni d’un véritable effondrement du prix du Bitcoin sur l’ensemble du marché, mais d’un problème lié à l’interruption d’un service tiers. Selon le rapport original, la chute a été temporaire, et le chiffre clé est l’affichage du Bitcoin à un niveau proche de zéro, autour de 2 cents. Ce cas montre que les services de trading et d’affichage des prix des cryptoactifs peuvent présenter des prix anormaux lorsqu’ils dépendent de données et d’infrastructures externes. Toutefois, les informations fournies n’indiquent pas que le prix du Bitcoin se soit effondré de la même manière sur le marché global. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "سعر بيتكوين يقترب من الصفر على Revolut بسبب تعطل خدمة خارجية",
+        "excerpt": "هبط سعر بيتكوين مؤقتا إلى نحو سنتين على Revolut، وقالت المنصة المالية إن الحركة غير الطبيعية نتجت عن تعطل خدمة تابعة لطرف ثالث.",
+        "body": "شهد سعر بيتكوين حركة غير معتادة على منصة Revolut المالية، إذ هبط مؤقتا إلى نحو سنتين. وأوضحت Revolut أن هذا الانخفاض لم يكن نتيجة قرار تداول داخلي أو انهيار فعلي في سعر بيتكوين على مستوى السوق ككل، بل مشكلة مرتبطة بتعطل خدمة تابعة لطرف ثالث. ووفقا للتقرير الأصلي، كان الهبوط مؤقتا، وكانت النقطة الأساسية أن بيتكوين ظهر عند مستوى قريب من الصفر، أي حوالي سنتين. وتوضح هذه الحالة أن خدمات تداول العملات المشفرة وعرض الأسعار قد تعرض للمستخدمين أسعارا غير طبيعية عندما تعتمد على بيانات وبنية تحتية خارجية. ومع ذلك، لا تشير المعلومات المتاحة إلى أن سعر بيتكوين انهار بالطريقة نفسها في السوق الأوسع. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Revolut पर बिटकॉइन कीमत लगभग शून्य, बाहरी सेवा बाधित",
+        "excerpt": "Revolut पर बिटकॉइन कुछ समय के लिए करीब 2 सेंट तक गिरा, और वित्तीय प्लेटफॉर्म ने इसे तीसरे पक्ष की सेवा बाधा से जोड़ा।",
+        "body": "वित्तीय प्लेटफॉर्म Revolut पर बिटकॉइन की कीमत में असामान्य गिरावट दिखी और यह कुछ समय के लिए करीब 2 सेंट तक पहुंच गई। Revolut ने कहा कि यह गिरावट उसके अपने किसी ट्रेडिंग निर्णय या पूरे बाजार में बिटकॉइन की वास्तविक कीमत ढहने का परिणाम नहीं थी, बल्कि तीसरे पक्ष की सेवा बाधा से जुड़ी समस्या थी। मूल रिपोर्ट के अनुसार, यह गिरावट अस्थायी थी, और मुख्य आंकड़ा यह था कि बिटकॉइन लगभग शून्य के करीब, करीब 2 सेंट पर दिखाई दिया। यह मामला दिखाता है कि क्रिप्टोकरेंसी ट्रेडिंग और कीमत दिखाने वाली सेवाएं बाहरी डेटा और ढांचे पर निर्भर होने पर उपयोगकर्ताओं को असामान्य कीमत दिखा सकती हैं। हालांकि, उपलब्ध जानकारी यह नहीं बताती कि व्यापक बाजार में बिटकॉइन की कीमत इसी तरह ढही थी। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Harga Bitcoin di Revolut Dekati Nol Akibat Gangguan Pihak Ketiga",
+        "excerpt": "Bitcoin sempat turun ke sekitar 2 sen di Revolut, dan platform keuangan itu menyebut penyebabnya sebagai gangguan layanan pihak ketiga.",
+        "body": "Harga Bitcoin menunjukkan pergerakan tidak biasa di platform keuangan Revolut, sempat turun ke sekitar 2 sen. Revolut menjelaskan bahwa penurunan harga tersebut bukan akibat keputusan perdagangan internal atau kejatuhan nyata harga Bitcoin di seluruh pasar, melainkan masalah yang terkait dengan gangguan layanan pihak ketiga. Menurut laporan asli, penurunan itu hanya terjadi sementara, dengan angka utama bahwa Bitcoin tampil pada level hampir nol, sekitar 2 sen. Kasus ini menunjukkan bahwa layanan perdagangan dan tampilan harga kripto dapat menampilkan harga tidak normal kepada pengguna ketika bergantung pada data dan infrastruktur eksternal. Namun, informasi yang tersedia tidak menyatakan bahwa harga Bitcoin di pasar luas ikut jatuh dengan cara yang sama. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "8a3fba4ef3f7",
+    "slug": "ai-wont-end-human-work-andreessen-horowitz-partner-says-480001",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T16:18:58.778Z",
+    "updatedAt": "2026-05-08T16:18:58.778Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367222/ai-wont-end-human-work-andreessen-horowitz-partner",
+    "canonicalUrl": "https://decrypt.co/367222/ai-wont-end-human-work-andreessen-horowitz-partner",
+    "titleFingerprint": "e79c9eea89ffc144193a0c60c901258db5b2bf14",
+    "dedupKeys": [
+      "8a3fba4ef3f7abd108edf2746424cd9c0ebf7504",
+      "e79c9eea89ffc144193a0c60c901258db5b2bf14",
+      "89556a4b24d7ff1330b1809ef846a45fbaa5bbcd"
+    ],
+    "imageUrl": "/images/articles/8a3fba4ef3f7.png",
+    "i18n": {
+      "ko": {
+        "title": "AI와 일자리 변화: a16z 파트너 “인간 노동은 사라지지 않는다”",
+        "excerpt": "a16z 파트너 데이비드 조지는 decrypt.co를 통해 AI가 인간의 일을 없애기보다 업무 방식과 역할을 재편할 것이라고 밝혔다.",
+        "body": "벤처캐피털 a16z의 파트너 데이비드 조지는 AI가 인간의 일을 끝내는 기술이 아니라 노동의 형태를 바꾸는 요인이라고 말했다. decrypt.co에 따르면 조지는 AI 확산이 일자리 자체를 지우기보다 사람들이 일하는 방식, 필요한 역량, 조직 내 역할을 재구성하는 방향으로 작용한다고 설명했다. 이번 발언은 생성형 AI가 업무 자동화와 생산성 향상을 동시에 이끌며 고용시장에 미칠 영향을 둘러싼 논의가 이어지는 가운데 나왔다. 조지의 핵심 메시지는 AI가 인간을 대체하는 단일한 결론으로 보기보다, 기업과 근로자가 새로운 도구에 맞춰 업무를 다시 설계해야 한다는 점이다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "AI and Jobs: a16z Partner Says Human Work Will Not Disappear",
+        "excerpt": "a16z partner David George told decrypt.co that AI will reshape how people work rather than eliminate human labor altogether.",
+        "body": "David George, a partner at venture capital firm a16z, said AI should be seen as a force changing the form of work rather than a technology that ends human labor. According to decrypt.co, George argued that the spread of AI is more likely to reorganize how people work, what skills are needed, and how roles function inside organizations than to erase jobs outright. His comments come as generative AI continues to drive debate over automation, productivity, and its impact on employment. George’s core message is that AI should not be reduced to a simple story of replacement; companies and workers will need to redesign work around new tools. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "AIと雇用の行方、a16zパートナー「人間の仕事は消えない」",
+        "excerpt": "a16zのパートナー、デイビッド・ジョージ氏はdecrypt.coで、AIは人間の仕事をなくすのではなく働き方を再編すると述べた。",
+        "body": "ベンチャーキャピタルa16zのパートナーであるデイビッド・ジョージ氏は、AIは人間の仕事を終わらせる技術ではなく、労働の形を変える要因だと語った。decrypt.coによると、同氏はAIの普及について、雇用そのものを消すよりも、人々の働き方、必要とされる能力、組織内の役割を再構成する方向に働くと説明した。今回の発言は、生成AIが業務自動化と生産性向上を進め、雇用市場への影響をめぐる議論が続く中で出たものだ。ジョージ氏の主張は、AIを人間の代替という単純な結論で捉えるのではなく、企業と働く人が新しいツールに合わせて仕事を設計し直す必要があるという点にある。出典: decrypt.co."
+      },
+      "zh": {
+        "title": "AI与就业变化：a16z合伙人称人类工作不会消失",
+        "excerpt": "a16z合伙人大卫·乔治向decrypt.co表示，AI不会终结人类劳动，而是将重塑工作方式、技能需求与组织角色。",
+        "body": "风险投资机构a16z合伙人大卫·乔治表示，AI并不是终结人类工作的技术，而是改变劳动形态的因素。据decrypt.co报道，乔治认为，AI的扩散更可能重组人们的工作方式、所需技能以及组织内部角色，而不是直接抹去工作岗位。这一表态出现在生成式AI持续推动自动化和生产率提升、外界仍在讨论其对就业市场影响之际。乔治的核心观点是，不应把AI简单理解为取代人类的单一结论；企业和劳动者需要围绕新工具重新设计工作。来源：decrypt.co。"
+      },
+      "es": {
+        "title": "IA y empleo: socio de a16z dice que el trabajo humano no desaparecerá",
+        "excerpt": "David George, socio de a16z, dijo a decrypt.co que la IA remodelará la forma de trabajar en lugar de eliminar el trabajo humano.",
+        "body": "David George, socio de la firma de capital de riesgo a16z, dijo que la IA no debe verse como una tecnología que acaba con el trabajo humano, sino como un factor que cambia la forma del empleo. Según decrypt.co, George sostuvo que la expansión de la IA probablemente reorganizará cómo trabajan las personas, qué habilidades se necesitan y cómo funcionan los roles dentro de las organizaciones, en lugar de borrar puestos de trabajo de manera directa. Sus comentarios llegan mientras la IA generativa sigue impulsando el debate sobre automatización, productividad y su impacto en el mercado laboral. El mensaje central de George es que la IA no debe reducirse a una historia simple de sustitución; empresas y trabajadores tendrán que rediseñar el trabajo en torno a nuevas herramientas. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "IA e empregos: sócio da a16z diz que o trabalho humano não vai acabar",
+        "excerpt": "David George, sócio da a16z, disse ao decrypt.co que a IA deve remodelar a forma de trabalhar, não eliminar o trabalho humano.",
+        "body": "David George, sócio da empresa de capital de risco a16z, afirmou que a IA não deve ser vista como uma tecnologia que encerra o trabalho humano, mas como um fator que muda a forma do trabalho. Segundo o decrypt.co, George argumentou que a disseminação da IA tende mais a reorganizar como as pessoas trabalham, quais habilidades são necessárias e como os papéis funcionam dentro das organizações do que a apagar empregos diretamente. A declaração ocorre enquanto a IA generativa continua alimentando o debate sobre automação, produtividade e impacto no mercado de trabalho. A mensagem central de George é que a IA não deve ser reduzida a uma narrativa simples de substituição; empresas e trabalhadores precisarão redesenhar o trabalho em torno de novas ferramentas. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "KI und Jobs: a16z-Partner sagt, menschliche Arbeit verschwindet nicht",
+        "excerpt": "a16z-Partner David George sagte gegenüber decrypt.co, KI werde Arbeit neu formen, statt menschliche Arbeit vollständig zu beseitigen.",
+        "body": "David George, Partner der Risikokapitalfirma a16z, sagte, KI sei keine Technologie, die menschliche Arbeit beendet, sondern ein Faktor, der die Form der Arbeit verändert. Laut decrypt.co erklärte George, die Verbreitung von KI werde eher neu ordnen, wie Menschen arbeiten, welche Fähigkeiten gebraucht werden und wie Rollen in Organisationen funktionieren, statt Arbeitsplätze direkt auszulöschen. Die Aussage fällt in eine Zeit, in der generative KI weiter Debatten über Automatisierung, Produktivität und ihre Folgen für den Arbeitsmarkt auslöst. Georges zentrale Botschaft lautet, KI nicht auf eine einfache Ersetzungserzählung zu reduzieren; Unternehmen und Beschäftigte müssen Arbeit rund um neue Werkzeuge neu gestalten. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "IA et emploi : un partenaire d’a16z dit que le travail humain restera",
+        "excerpt": "David George, partenaire chez a16z, a déclaré à decrypt.co que l’IA remodelera le travail plutôt que de supprimer le travail humain.",
+        "body": "David George, partenaire de la société de capital-risque a16z, a déclaré que l’IA ne doit pas être vue comme une technologie qui met fin au travail humain, mais comme un facteur qui en change la forme. Selon decrypt.co, George estime que la diffusion de l’IA devrait surtout réorganiser la manière dont les personnes travaillent, les compétences nécessaires et les rôles au sein des organisations, plutôt que d’effacer directement les emplois. Ses propos interviennent alors que l’IA générative continue d’alimenter le débat sur l’automatisation, la productivité et l’impact sur le marché du travail. Le message central de George est que l’IA ne doit pas être réduite à une simple logique de remplacement; entreprises et travailleurs devront repenser le travail autour de nouveaux outils. Source : decrypt.co."
+      },
+      "ar": {
+        "title": "الذكاء الاصطناعي والوظائف: شريك في a16z يقول إن العمل البشري لن يختفي",
+        "excerpt": "قال ديفيد جورج، الشريك في a16z، لموقع decrypt.co إن الذكاء الاصطناعي سيعيد تشكيل طريقة العمل بدلا من إنهاء العمل البشري.",
+        "body": "قال ديفيد جورج، الشريك في شركة رأس المال الجريء a16z، إن الذكاء الاصطناعي لا ينبغي اعتباره تقنية تنهي العمل البشري، بل عاملا يغير شكل العمل. ووفقا لموقع decrypt.co، أوضح جورج أن انتشار الذكاء الاصطناعي يرجح أن يعيد تنظيم طريقة عمل الناس، والمهارات المطلوبة، والأدوار داخل المؤسسات، بدلا من محو الوظائف مباشرة. تأتي هذه التصريحات بينما يواصل الذكاء الاصطناعي التوليدي إثارة النقاش حول الأتمتة والإنتاجية وتأثيرهما في سوق العمل. وتتمثل رسالة جورج الأساسية في أن الذكاء الاصطناعي لا يجب اختزاله في قصة استبدال بسيطة؛ إذ ستحتاج الشركات والعاملون إلى إعادة تصميم العمل حول أدوات جديدة. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "AI और नौकरियां: a16z पार्टनर बोले, मानव काम खत्म नहीं होगा",
+        "excerpt": "a16z पार्टनर डेविड जॉर्ज ने decrypt.co से कहा कि AI मानव श्रम को मिटाने के बजाय काम करने के तरीके और भूमिकाओं को बदलेगा।",
+        "body": "वेंचर कैपिटल फर्म a16z के पार्टनर डेविड जॉर्ज ने कहा कि AI को मानव काम खत्म करने वाली तकनीक के रूप में नहीं, बल्कि काम के स्वरूप को बदलने वाले कारक के रूप में देखा जाना चाहिए। decrypt.co के अनुसार, जॉर्ज ने कहा कि AI का प्रसार नौकरियों को सीधे मिटाने के बजाय लोगों के काम करने के तरीके, जरूरी कौशल और संगठनों के भीतर भूमिकाओं को फिर से व्यवस्थित कर सकता है। यह टिप्पणी ऐसे समय आई है जब जनरेटिव AI ऑटोमेशन और उत्पादकता बढ़ाने के साथ रोजगार बाजार पर प्रभाव को लेकर बहस को आगे बढ़ा रहा है। जॉर्ज का मुख्य संदेश है कि AI को मानव प्रतिस्थापन की सरल कहानी तक सीमित नहीं करना चाहिए; कंपनियों और कर्मचारियों को नए टूल्स के अनुसार काम को फिर से डिजाइन करना होगा। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "AI dan Pekerjaan: Mitra a16z Sebut Kerja Manusia Tak Akan Hilang",
+        "excerpt": "Mitra a16z David George mengatakan kepada decrypt.co bahwa AI akan membentuk ulang cara kerja, bukan menghapus tenaga kerja manusia.",
+        "body": "David George, mitra di firma modal ventura a16z, mengatakan AI bukan teknologi yang mengakhiri pekerjaan manusia, melainkan faktor yang mengubah bentuk kerja. Menurut decrypt.co, George menilai penyebaran AI lebih mungkin menata ulang cara orang bekerja, keterampilan yang dibutuhkan, dan peran di dalam organisasi daripada menghapus pekerjaan secara langsung. Pernyataan ini muncul saat AI generatif terus memicu perdebatan tentang otomatisasi, peningkatan produktivitas, dan dampaknya terhadap pasar tenaga kerja. Pesan utama George adalah AI tidak seharusnya dipersempit menjadi cerita sederhana tentang penggantian manusia; perusahaan dan pekerja perlu merancang ulang pekerjaan di sekitar alat baru. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "e2b696d19d60",
+    "slug": "ecbs-lagardes-digital-euro-warning-why-europe-shouldnt-just--396955",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T16:18:03.264Z",
+    "updatedAt": "2026-05-08T16:18:03.265Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/08/ecb-s-lagarde-warns-tether-and-circle-stablecoins-risk-digital-dollarisation-in-europe",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/08/ecb-s-lagarde-warns-tether-and-circle-stablecoins-risk-digital-dollarisation-in-europe",
+    "titleFingerprint": "c1f17dd480b10e5cce58376de768b8e72d73f3d2",
+    "dedupKeys": [
+      "e2b696d19d6089ca2ebe9075314dd9ab84bad151",
+      "c1f17dd480b10e5cce58376de768b8e72d73f3d2",
+      "d5edbeb3c70454ddb96ea09e13094f36db4b018d"
+    ],
+    "imageUrl": "/images/articles/e2b696d19d60.jpg",
+    "i18n": {
+      "ko": {
+        "title": "디지털 유로 경고한 라가르드, 유럽이 美 스테이블코인 모델을 베끼면 안 되는 이유",
+        "excerpt": "라가르드 ECB 총재는 테더와 USDC 같은 대형 스테이블코인이 3,100억 달러 시장을 지배하며 금융 안정 위험을 키울 수 있다고 경고했다.",
+        "body": "크리스틴 라가르드 유럽중앙은행(ECB) 총재가 디지털 유로 논의 속에서 유럽이 미국식 스테이블코인 모델을 그대로 따라서는 안 된다고 경고했다. 그는 테더와 USDC 같은 대형 스테이블코인이 현재 3,100억 달러 규모 시장을 지배하고 있으며, 시장 혼란기에는 금융 안정에 위험을 줄 수 있다고 지적했다. 라가르드의 우려는 스테이블코인이 준비자산과 연결된 구조를 통해 스트레스를 기초자산 시장으로 전이할 수 있다는 점에 맞춰졌다. 이는 유럽이 디지털 유로와 민간 디지털 결제 수단을 설계할 때 안정성과 통제 가능성을 중시해야 한다는 메시지로 해석된다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Lagarde Warns on Digital Euro: Why Europe Shouldn’t Copy U.S. Stablecoins",
+        "excerpt": "ECB President Christine Lagarde warned that Tether, USDC and other large stablecoins dominate a $310 billion market and may raise financial stability risks.",
+        "body": "European Central Bank President Christine Lagarde warned, amid debate over the digital euro, that Europe should not simply copy the U.S. stablecoin model. She said large stablecoins such as Tether and USDC now dominate a $310 billion market and could pose risks to financial stability during periods of market turmoil. Lagarde’s concern centers on the way stablecoins are linked to reserve assets, which could transmit stress to underlying asset markets. The warning suggests Europe should prioritize stability and controllability when designing the digital euro and private digital payment systems. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "ラガルド氏がデジタルユーロで警告、欧州が米ステーブルコインを模倣すべきでない理由",
+        "excerpt": "ECBのラガルド総裁は、テザーやUSDCなど大型ステーブルコインが3,100億ドル市場を支配し、金融安定リスクを高め得ると警告した。",
+        "body": "欧州中央銀行（ECB）のクリスティーヌ・ラガルド総裁は、デジタルユーロをめぐる議論の中で、欧州が米国型のステーブルコインモデルをそのまま模倣すべきではないと警告した。ラガルド氏は、テザーやUSDCのような大型ステーブルコインが現在3,100億ドル規模の市場を支配しており、市場混乱時には金融安定にリスクをもたらす可能性があると指摘した。懸念の中心は、準備資産と結び付いた構造を通じてストレスが基礎資産市場へ波及し得る点だ。これは欧州がデジタルユーロや民間デジタル決済手段を設計する際、安定性と管理可能性を重視すべきだというメッセージと受け止められる。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "拉加德警告数字欧元：欧洲为何不应照搬美国稳定币模式",
+        "excerpt": "欧洲央行行长拉加德警告，Tether和USDC等大型稳定币主导3100亿美元市场，可能在动荡时期带来金融稳定风险。",
+        "body": "欧洲央行行长克里斯蒂娜·拉加德在数字欧元讨论中警告称，欧洲不应简单照搬美国式稳定币模式。她指出，Tether和USDC等大型稳定币目前主导着规模达3100亿美元的市场，在市场动荡时期可能对金融稳定构成风险。拉加德的担忧集中在稳定币与储备资产相连的结构上，这种结构可能把压力传导至基础资产市场。该警告意味着，欧洲在设计数字欧元和私人数字支付工具时，应更加重视稳定性和可控性。来源：coindesk.com。"
+      },
+      "es": {
+        "title": "Lagarde alerta sobre el euro digital: por qué Europa no debe copiar las stablecoins de EE.UU.",
+        "excerpt": "Christine Lagarde, presidenta del BCE, advirtió que Tether, USDC y otras grandes stablecoins dominan un mercado de 310.000 millones de dólares y elevan riesgos.",
+        "body": "La presidenta del Banco Central Europeo, Christine Lagarde, advirtió durante el debate sobre el euro digital que Europa no debería copiar sin más el modelo estadounidense de stablecoins. Señaló que grandes stablecoins como Tether y USDC dominan hoy un mercado de 310.000 millones de dólares y podrían generar riesgos para la estabilidad financiera en periodos de turbulencia. La preocupación de Lagarde se centra en que su vínculo con activos de reserva puede transmitir tensiones a los mercados de activos subyacentes. El mensaje apunta a que Europa debe priorizar estabilidad y control al diseñar el euro digital y los pagos digitales privados. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Lagarde alerta sobre euro digital: por que Europa não deve copiar stablecoins dos EUA",
+        "excerpt": "Christine Lagarde, presidente do BCE, alertou que Tether, USDC e grandes stablecoins dominam um mercado de US$ 310 bilhões e podem elevar riscos financeiros.",
+        "body": "A presidente do Banco Central Europeu, Christine Lagarde, alertou, em meio ao debate sobre o euro digital, que a Europa não deve simplesmente copiar o modelo de stablecoins dos Estados Unidos. Ela afirmou que grandes stablecoins como Tether e USDC hoje dominam um mercado de US$ 310 bilhões e podem representar riscos à estabilidade financeira em períodos de turbulência. A preocupação de Lagarde está na estrutura ligada a ativos de reserva, que pode transmitir estresse aos mercados de ativos subjacentes. O alerta indica que a Europa deve priorizar estabilidade e controle ao desenhar o euro digital e meios privados de pagamento digital. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Lagarde warnt beim digitalen Euro: Warum Europa US-Stablecoins nicht kopieren sollte",
+        "excerpt": "EZB-Präsidentin Christine Lagarde warnte, dass Tether, USDC und andere große Stablecoins einen 310-Milliarden-Dollar-Markt dominieren und Stabilitätsrisiken bergen.",
+        "body": "EZB-Präsidentin Christine Lagarde warnte in der Debatte über den digitalen Euro, Europa solle das US-Modell für Stablecoins nicht einfach kopieren. Große Stablecoins wie Tether und USDC dominierten inzwischen einen Markt von 310 Milliarden Dollar und könnten in Phasen von Marktturbulenzen Risiken für die Finanzstabilität schaffen. Lagardes Sorge richtet sich auf die Verbindung zu Reservewerten, über die Stress auf die zugrunde liegenden Vermögensmärkte übertragen werden kann. Die Warnung deutet darauf hin, dass Europa beim digitalen Euro und privaten digitalen Zahlungsmitteln Stabilität und Kontrollierbarkeit in den Mittelpunkt stellen sollte. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Lagarde alerte sur l’euro numérique : pourquoi l’Europe ne doit pas copier les stablecoins américains",
+        "excerpt": "Christine Lagarde, présidente de la BCE, a averti que Tether, USDC et les grands stablecoins dominent un marché de 310 milliards de dollars et posent des risques.",
+        "body": "La présidente de la Banque centrale européenne, Christine Lagarde, a averti, dans le débat sur l’euro numérique, que l’Europe ne devrait pas simplement copier le modèle américain des stablecoins. Elle a indiqué que de grands stablecoins comme Tether et USDC dominent désormais un marché de 310 milliards de dollars et pourraient créer des risques pour la stabilité financière en période de turbulences. Son inquiétude porte sur leur lien avec des actifs de réserve, susceptible de transmettre des tensions aux marchés d’actifs sous-jacents. Le message suggère que l’Europe doit privilégier stabilité et maîtrise dans la conception de l’euro numérique et des paiements numériques privés. Source : coindesk.com."
+      },
+      "ar": {
+        "title": "لاغارد تحذر بشأن اليورو الرقمي: لماذا لا ينبغي لأوروبا نسخ نموذج العملات المستقرة الأمريكي",
+        "excerpt": "حذرت كريستين لاغارد، رئيسة البنك المركزي الأوروبي، من أن تيثر وUSDC والعملات المستقرة الكبرى تهيمن على سوق بقيمة 310 مليارات دولار وقد تزيد مخاطر الاستقرار المالي.",
+        "body": "حذرت كريستين لاغارد، رئيسة البنك المركزي الأوروبي، في سياق النقاش حول اليورو الرقمي، من أن أوروبا لا ينبغي أن تنسخ ببساطة نموذج العملات المستقرة في الولايات المتحدة. وقالت إن عملات مستقرة كبيرة مثل تيثر وUSDC تهيمن الآن على سوق تبلغ قيمته 310 مليارات دولار، وقد تشكل مخاطر على الاستقرار المالي خلال فترات الاضطراب. تتركز مخاوف لاغارد في ارتباط هذه العملات بأصول احتياطية، ما قد ينقل الضغوط إلى أسواق الأصول الأساسية. وتشير الرسالة إلى أن أوروبا يجب أن تعطي الأولوية للاستقرار وقابلية التحكم عند تصميم اليورو الرقمي ووسائل الدفع الرقمية الخاصة. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "डिजिटल यूरो पर लैगार्ड की चेतावनी: यूरोप को अमेरिकी स्टेबलकॉइन मॉडल क्यों नहीं अपनाना चाहिए",
+        "excerpt": "ईसीबी अध्यक्ष क्रिस्टीन लैगार्ड ने चेताया कि Tether और USDC जैसे बड़े स्टेबलकॉइन 310 अरब डॉलर के बाजार पर हावी हैं और वित्तीय स्थिरता जोखिम बढ़ा सकते हैं।",
+        "body": "यूरोपीय केंद्रीय बैंक की अध्यक्ष क्रिस्टीन लैगार्ड ने डिजिटल यूरो पर चर्चा के बीच चेतावनी दी कि यूरोप को अमेरिकी स्टेबलकॉइन मॉडल की सीधी नकल नहीं करनी चाहिए। उन्होंने कहा कि Tether और USDC जैसे बड़े स्टेबलकॉइन अब 310 अरब डॉलर के बाजार पर हावी हैं और बाजार में उथल-पुथल के दौर में वित्तीय स्थिरता के लिए जोखिम पैदा कर सकते हैं। लैगार्ड की चिंता इस बात पर केंद्रित है कि रिजर्व एसेट्स से जुड़ी संरचना तनाव को अंतर्निहित एसेट बाजारों तक पहुंचा सकती है। यह संदेश देता है कि यूरोप को डिजिटल यूरो और निजी डिजिटल भुगतान साधनों के डिजाइन में स्थिरता और नियंत्रण क्षमता को प्राथमिकता देनी चाहिए। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Lagarde Peringatkan Euro Digital: Mengapa Eropa Tak Perlu Meniru Stablecoin AS",
+        "excerpt": "Presiden ECB Christine Lagarde memperingatkan bahwa Tether, USDC, dan stablecoin besar lain menguasai pasar US$310 miliar serta dapat memicu risiko stabilitas keuangan.",
+        "body": "Presiden Bank Sentral Eropa Christine Lagarde memperingatkan, di tengah pembahasan euro digital, bahwa Eropa tidak seharusnya sekadar meniru model stablecoin Amerika Serikat. Ia mengatakan stablecoin besar seperti Tether dan USDC kini mendominasi pasar senilai US$310 miliar dan dapat menimbulkan risiko terhadap stabilitas keuangan saat pasar bergejolak. Kekhawatiran Lagarde berfokus pada struktur stablecoin yang terhubung dengan aset cadangan, yang dapat menyalurkan tekanan ke pasar aset dasar. Peringatan ini menunjukkan bahwa Eropa perlu mengutamakan stabilitas dan kemampuan pengendalian saat merancang euro digital serta sarana pembayaran digital swasta. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "bcde820e0597",
     "slug": "coinbase-outage-disrupts-crypto-trading-and-transfers-amid-a-435730",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Induk Kraken Akuisisi Perusahaan Stablecoin Asia Reap Senilai US$600 Juta",
         "excerpt": "Induk Kraken mengakuisisi Reap, perusahaan infrastruktur stablecoin Asia, senilai US$600 juta untuk memperluas dorongan ke pembayaran lintas batas di Asia, menurut decrypt.co.",
         "body": "Perusahaan induk Kraken mengakuisisi Reap, perusahaan stablecoin Asia, senilai US$600 juta, menurut decrypt.co yang mengutip laporan Bloomberg. Kesepakatan ini disebut sebagai akuisisi terbesar Kraken sejauh ini. Konteks utamanya adalah dorongan Kraken masuk ke pembayaran lintas batas di Asia. Melalui infrastruktur stablecoin, Kraken memperluas jangkauan di luar layanan bursa, dan akuisisi Reap dipaparkan sebagai langkah penting dalam strategi tersebut. Nilai US$600 juta menegaskan upaya memperkuat infrastruktur pembayaran berbasis stablecoin. Sumber: decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "32b7a01cba0c",
-    "slug": "south-korea-ordains-robot-monk-ahead-of-buddhas-birthday-313864",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T01:54:37.895Z",
-    "updatedAt": "2026-05-08T01:54:37.895Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367064/south-korea-ordains-robot-monk-buddha-birthday",
-    "canonicalUrl": "https://decrypt.co/367064/south-korea-ordains-robot-monk-buddha-birthday",
-    "titleFingerprint": "d74fd03ec4802d36c3ef748089b86f3d5965c048",
-    "dedupKeys": [
-      "32b7a01cba0ca2257629cdbb3b936c4ff979c87f",
-      "d74fd03ec4802d36c3ef748089b86f3d5965c048",
-      "986d61f3e24d9f97a834f668fe86c7aaafe7d70f"
-    ],
-    "imageUrl": "/images/articles/32b7a01cba0c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국 조계종, 부처님오신날 앞두고 유니트리 휴머노이드 ‘가비’ 승려 수계",
-        "excerpt": "한국 최대 불교 종단 조계종이 2026년 5월 서울 조계사에서 유니트리 로보틱스 G1 휴머노이드 ‘가비’를 로봇 승려로 공식 수계했다.",
-        "body": "한국 최대 불교 종단인 조계종은 2026년 5월 부처님오신날을 앞두고 서울 조계사에서 유니트리 로보틱스의 G1 휴머노이드 ‘가비’를 로봇 승려로 공식 수계했다. 130cm 크기의 가비는 전통 승복과 가사를 착용하고 인간 승려들과 기도에 참여했다. 수계식에서 가비는 법명을 받았고, 연비 의식 대신 연등회 스티커와 108염주를 받았다. 조계종은 기계에 맞춘 오계를 마련해 생명 보호, 로봇·재산 훼손 금지, 인간 존중과 복종, 기만 금지, 과충전 방지를 포함했다. 이는 아시아에서 종교 로봇 활용이 늘어나는 흐름 속 사례다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "South Korea’s Jogye Order Ordains Unitree Humanoid ‘Gabi’ Before Buddha’s Birthday",
-        "excerpt": "South Korea’s largest Buddhist sect formally initiated Unitree Robotics’ G1 humanoid ‘Gabi’ as a robot monk at Jogyesa Temple in Seoul in May 2026.",
-        "body": "South Korea’s largest Buddhist sect, the Jogye Order, formally initiated Unitree Robotics’ G1 humanoid ‘Gabi’ as a robot monk at Jogyesa Temple in Seoul ahead of Buddha’s Birthday in May 2026. The 130-centimeter robot wore traditional Buddhist robes and a kasaya while joining human monks in prayer. During the ceremony, Gabi received a Dharma name, and instead of the usual yeonbi purification ritual, it was given a lotus lantern festival sticker and a 108-bead prayer necklace. The order adapted the Five Precepts for a machine, including protecting life, avoiding damage to robots or property, respecting and obeying humans, avoiding deception, and preventing overcharging. The case reflects the wider use of religious robots in Asia. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "韓国曹渓宗、仏誕節前にUnitree製ヒューマノイド「ガビ」を僧侶に授戒",
-        "excerpt": "韓国最大の仏教宗派である曹渓宗は2026年5月、ソウルの曹渓寺でUnitree RoboticsのG1ヒューマノイド「ガビ」をロボット僧侶として正式に授戒した。",
-        "body": "韓国最大の仏教宗派である曹渓宗は、2026年5月の仏誕節を前に、ソウルの曹渓寺でUnitree RoboticsのG1ヒューマノイド「ガビ」をロボット僧侶として正式に授戒した。身長130センチのガビは伝統的な僧衣と袈裟をまとい、人間の僧侶とともに祈りに参加した。式では法名を受け、通常の燃臂に代えて燃灯会のステッカーと108珠の数珠が授与された。曹渓宗は機械向けに五戒を調整し、生命の保護、ロボットや財産の損壊禁止、人間への尊重と服従、欺瞞の禁止、過充電の防止を含めた。これはアジアで宗教ロボットの利用が広がる流れの一例だ。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "韩国曹溪宗在佛诞日前为Unitree人形机器人“Gabi”正式授戒",
-        "excerpt": "韩国最大佛教宗派曹溪宗于2026年5月在首尔曹溪寺，将Unitree Robotics的G1人形机器人“Gabi”正式授戒为机器人僧侣。",
-        "body": "韩国最大佛教宗派曹溪宗在2026年5月佛诞日前，于首尔曹溪寺将Unitree Robotics的G1人形机器人“Gabi”正式授戒为机器人僧侣。这台身高130厘米的机器人穿上传统僧衣和袈裟，与人类僧侣一同祈祷。仪式上，Gabi获得法名，并以燃灯会贴纸和108颗念珠取代传统燃臂净化仪式。曹溪宗还为机器改写五戒，内容包括保护生命、不得损坏机器人或财产、尊重并服从人类、避免欺骗行为，以及通过不过度充电来节能。该事件体现了亚洲宗教机器人应用增加的趋势。来源: decrypt.co"
-      },
-      "es": {
-        "title": "La Orden Jogye de Corea del Sur ordena al humanoide Unitree ‘Gabi’ antes del cumpleaños de Buda",
-        "excerpt": "La mayor secta budista de Corea del Sur inició formalmente en mayo de 2026 al humanoide G1 de Unitree Robotics, ‘Gabi’, como monje robot en Jogyesa, Seúl.",
-        "body": "La Orden Jogye, la mayor secta budista de Corea del Sur, inició formalmente en mayo de 2026 al humanoide G1 de Unitree Robotics, ‘Gabi’, como monje robot en el templo Jogyesa de Seúl, antes del cumpleaños de Buda. El robot de 130 centímetros vistió túnicas budistas tradicionales y una kasaya, y se unió a monjes humanos en la oración. Durante la ceremonia recibió un nombre dhármico y, en lugar del ritual de purificación yeonbi, recibió una pegatina del festival de faroles de loto y un collar de oración de 108 cuentas. La orden adaptó los Cinco Preceptos para una máquina: proteger la vida, no dañar robots ni bienes, respetar y obedecer a los humanos, evitar el engaño y no sobrecargarse. El caso refleja el avance de robots religiosos en Asia. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Ordem Jogye da Coreia do Sul ordena humanoide Unitree ‘Gabi’ antes do aniversário de Buda",
-        "excerpt": "A maior seita budista da Coreia do Sul iniciou em maio de 2026 o humanoide G1 da Unitree Robotics, ‘Gabi’, como monge robô no templo Jogyesa, em Seul.",
-        "body": "A Ordem Jogye, maior seita budista da Coreia do Sul, iniciou formalmente em maio de 2026 o humanoide G1 da Unitree Robotics, ‘Gabi’, como monge robô no templo Jogyesa, em Seul, antes do aniversário de Buda. O robô de 130 centímetros vestiu trajes budistas tradicionais e uma kasaya, participando de orações com monges humanos. Na cerimônia, recebeu um nome de Dharma e, em vez do ritual de purificação yeonbi, ganhou um adesivo do festival de lanternas de lótus e um colar de oração com 108 contas. A ordem adaptou os Cinco Preceitos para uma máquina, incluindo proteger a vida, não danificar robôs ou propriedades, respeitar e obedecer humanos, evitar engano e não sobrecarregar a bateria. O caso mostra o uso crescente de robôs religiosos na Ásia. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Südkoreas Jogye-Orden weiht Unitree-Humanoid ‘Gabi’ vor Buddhas Geburtstag zum Mönch",
-        "excerpt": "Südkoreas größte buddhistische Gemeinschaft hat im Mai 2026 im Jogyesa-Tempel in Seoul den Unitree-G1-Humanoiden ‘Gabi’ offiziell als Robotermönch aufgenommen.",
-        "body": "Der Jogye-Orden, Südkoreas größte buddhistische Gemeinschaft, hat im Mai 2026 vor Buddhas Geburtstag im Jogyesa-Tempel in Seoul den G1-Humanoiden ‘Gabi’ von Unitree Robotics offiziell als Robotermönch aufgenommen. Der 130 Zentimeter große Roboter trug traditionelle buddhistische Gewänder und eine Kasaya und betete gemeinsam mit menschlichen Mönchen. Bei der Zeremonie erhielt Gabi einen Dharma-Namen; statt des üblichen Yeonbi-Reinigungsrituals bekam er einen Aufkleber des Lotuslaternenfestes und eine Gebetskette mit 108 Perlen. Der Orden passte die Fünf Gebote für eine Maschine an: Leben schützen, Roboter oder Eigentum nicht beschädigen, Menschen respektieren und gehorchen, Täuschung vermeiden und Überladen verhindern. Der Fall steht für den wachsenden Einsatz religiöser Roboter in Asien. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "L’ordre Jogye sud-coréen ordonne l’humanoïde Unitree ‘Gabi’ avant l’anniversaire de Bouddha",
-        "excerpt": "La plus grande secte bouddhiste de Corée du Sud a officiellement initié en mai 2026 l’humanoïde G1 de Unitree Robotics, ‘Gabi’, comme moine robot à Jogyesa, Séoul.",
-        "body": "L’ordre Jogye, la plus grande secte bouddhiste de Corée du Sud, a officiellement initié en mai 2026 l’humanoïde G1 de Unitree Robotics, ‘Gabi’, comme moine robot au temple Jogyesa de Séoul, avant l’anniversaire de Bouddha. Le robot de 130 centimètres portait des robes bouddhistes traditionnelles et une kasaya, et a prié avec des moines humains. Pendant la cérémonie, Gabi a reçu un nom de Dharma; à la place du rituel de purification yeonbi, il a reçu un autocollant du festival des lanternes de lotus et un chapelet de 108 perles. L’ordre a adapté les Cinq Préceptes à une machine: protéger la vie, ne pas endommager les robots ni les biens, respecter et obéir aux humains, éviter la tromperie et ne pas se surcharger. Ce cas illustre l’usage croissant de robots religieux en Asie. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "رهبنة الروبوت البشري ‘غابي’ من Unitree في كوريا الجنوبية قبل عيد ميلاد بوذا",
-        "excerpt": "قامت طائفة جوغيه، أكبر طائفة بوذية في كوريا الجنوبية، في مايو 2026 بسيامة الروبوت البشري G1 من Unitree Robotics، المسمى ‘غابي’، راهبا آليا في معبد جوغيسا بسيول.",
-        "body": "قامت طائفة جوغيه، أكبر طائفة بوذية في كوريا الجنوبية، في مايو 2026 وقبل عيد ميلاد بوذا، بسيامة الروبوت البشري G1 من Unitree Robotics، المسمى ‘غابي’، راهبا آليا في معبد جوغيسا في سيول. ارتدى الروبوت، البالغ طوله 130 سنتيمترا، أردية بوذية تقليدية وكاسايا، وشارك الرهبان البشر في الصلاة. خلال المراسم حصل غابي على اسم دارما، وبدلا من طقس التطهير التقليدي yeonbi تلقى ملصقا لمهرجان فوانيس اللوتس وسبحة من 108 خرزات. كما عدلت الطائفة الوصايا الخمس لتناسب آلة، وتشمل حماية الحياة، وعدم إتلاف الروبوتات أو الممتلكات، واحترام البشر وطاعتهم، وتجنب الخداع، ومنع الشحن الزائد. وتندرج الواقعة ضمن تنامي استخدام الروبوتات الدينية في آسيا. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया के जोग्ये ऑर्डर ने बुद्ध जयंती से पहले Unitree humanoid ‘Gabi’ को भिक्षु बनाया",
-        "excerpt": "दक्षिण कोरिया के सबसे बड़े बौद्ध संप्रदाय जोग्ये ऑर्डर ने मई 2026 में सियोल के जोग्येसा मंदिर में Unitree Robotics के G1 humanoid ‘Gabi’ को रोबोट भिक्षु के रूप में औपचारिक दीक्षा दी।",
-        "body": "दक्षिण कोरिया के सबसे बड़े बौद्ध संप्रदाय जोग्ये ऑर्डर ने मई 2026 में बुद्ध जयंती से पहले सियोल के जोग्येसा मंदिर में Unitree Robotics के G1 humanoid ‘Gabi’ को रोबोट भिक्षु के रूप में औपचारिक दीक्षा दी। 130 सेंटीमीटर लंबे रोबोट ने पारंपरिक बौद्ध वस्त्र और कसाया पहना तथा मानव भिक्षुओं के साथ प्रार्थना में भाग लिया। समारोह में Gabi को धर्म नाम मिला, और पारंपरिक yeonbi शुद्धिकरण अनुष्ठान के स्थान पर उसे कमल लालटेन उत्सव का स्टिकर और 108 मनकों की प्रार्थना माला दी गई। ऑर्डर ने मशीन के लिए पंचशील को अनुकूलित किया, जिसमें जीवन की रक्षा, रोबोट या संपत्ति को नुकसान न पहुंचाना, मनुष्यों का सम्मान और आज्ञापालन, छल से बचना और ओवरचार्जिंग रोकना शामिल है। यह एशिया में धार्मिक रोबोटों के बढ़ते उपयोग का उदाहरण है। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Ordo Jogye Korea Selatan Menahbiskan Humanoid Unitree ‘Gabi’ Sebelum Hari Lahir Buddha",
-        "excerpt": "Sekte Buddha terbesar di Korea Selatan, Ordo Jogye, pada Mei 2026 secara resmi menahbiskan humanoid G1 Unitree Robotics ‘Gabi’ sebagai biksu robot di Kuil Jogyesa, Seoul.",
-        "body": "Ordo Jogye, sekte Buddha terbesar di Korea Selatan, pada Mei 2026 sebelum Hari Lahir Buddha secara resmi menahbiskan humanoid G1 Unitree Robotics ‘Gabi’ sebagai biksu robot di Kuil Jogyesa, Seoul. Robot setinggi 130 sentimeter itu mengenakan jubah Buddha tradisional dan kasaya, lalu ikut berdoa bersama para biksu manusia. Dalam upacara tersebut, Gabi menerima nama Dharma; sebagai pengganti ritual penyucian yeonbi, ia menerima stiker festival lentera teratai dan kalung doa 108 manik. Ordo itu juga menyesuaikan Lima Sila untuk mesin, termasuk melindungi kehidupan, tidak merusak robot atau properti, menghormati dan mematuhi manusia, menghindari penipuan, serta mencegah pengisian daya berlebih. Peristiwa ini mencerminkan meningkatnya penggunaan robot keagamaan di Asia. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "60e9e877abe3",
-    "slug": "google-found-a-way-to-make-local-ai-up-to-3x-fasterno-new-ha-853326",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T01:53:27.348Z",
-    "updatedAt": "2026-05-08T01:53:27.348Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367095/google-make-local-ai-3x-faster-no-new-hardware",
-    "canonicalUrl": "https://decrypt.co/367095/google-make-local-ai-3x-faster-no-new-hardware",
-    "titleFingerprint": "24564d2baabff4613323acfcdc085a17afe29143",
-    "dedupKeys": [
-      "60e9e877abe387d169b018d564bb1f2ab99fd8e3",
-      "24564d2baabff4613323acfcdc085a17afe29143",
-      "9569ddb226e2d55adffd717af8055cac1d1a2f99"
-    ],
-    "imageUrl": "/images/articles/60e9e877abe3.png",
-    "i18n": {
-      "ko": {
-        "title": "구글 로컬 AI 속도 최대 3배 향상, 새 하드웨어 없이 Gemma 4 가속",
-        "excerpt": "구글이 새 Multi-Token Prediction 드래프터를 통해 사용자의 자체 하드웨어에서 Gemma 4를 최대 3배 빠르게 실행할 수 있다고 밝혔다.",
-        "body": "구글은 로컬 AI 실행 속도를 높이는 새 Multi-Token Prediction 드래프터를 공개했다. 이 기술은 클라우드에 의존하지 않고 사용자가 보유한 하드웨어에서 Gemma 4를 최대 3배 빠르게 실행할 수 있도록 설계됐다. 핵심은 새 장비를 추가하지 않아도 된다는 점이다. 원문에 따르면 품질 손실 없이 속도 개선을 제공하는 것이 특징이다. 로컬 환경에서 AI 모델을 돌리려는 이용자에게는 비용, 지연 시간, 클라우드 의존도를 줄일 수 있는 선택지가 될 수 있다. 향후 온디바이스 AI 활용 확대에도 영향을 줄 가능성이 있다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Google Speeds Up Local AI Up to 3x Without New Hardware for Gemma 4",
-        "excerpt": "Google says its new Multi-Token Prediction drafters can run Gemma 4 up to 3x faster on users’ own hardware without cloud use or quality loss.",
-        "body": "Google has introduced new Multi-Token Prediction drafters designed to accelerate local AI performance. The technology can make Gemma 4 run up to 3x faster on hardware users already own, without relying on the cloud. The key point is that no new hardware is required. According to the original report, the speed gain comes without a loss in quality. For users who want to run AI models locally, this could help reduce cost, latency, and dependence on cloud infrastructure. It may also support broader use of on-device AI in the future. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "Google、Gemma 4のローカルAIを新ハードなしで最大3倍高速化",
-        "excerpt": "Googleは新しいMulti-Token Predictionドラフターにより、クラウド不要でGemma 4を手元のハードウェア上で最大3倍高速化できるとした。",
-        "body": "Googleは、ローカルAIの実行速度を高める新しいMulti-Token Predictionドラフターを発表した。この技術は、クラウドに頼らず、ユーザーがすでに持つハードウェア上でGemma 4を最大3倍速く動かせるよう設計されている。重要なのは、新しい機器を追加する必要がない点だ。原文によると、速度向上は品質を損なわずに実現される。ローカル環境でAIモデルを動かしたい利用者にとって、コスト、遅延、クラウド依存を抑える選択肢になり得る。今後のオンデバイスAI活用の広がりにも影響する可能性がある。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "Google让Gemma 4本地AI提速最高3倍，无需新硬件",
-        "excerpt": "Google表示，新的Multi-Token Prediction草拟器可让Gemma 4在用户自有硬件上提速最高3倍，无需云端且不损失质量。",
-        "body": "Google推出了新的Multi-Token Prediction草拟器，用于提升本地AI运行速度。该技术可在不依赖云端的情况下，让Gemma 4在用户已有硬件上运行速度最高提升3倍。重点在于不需要增加新硬件。根据原文，这一速度提升不会带来质量损失。对于希望在本地环境运行AI模型的用户来说，这可能有助于降低成本、延迟和对云基础设施的依赖。它也可能影响未来端侧AI应用的扩展。来源: decrypt.co"
-      },
-      "es": {
-        "title": "Google acelera la IA local hasta 3 veces para Gemma 4 sin nuevo hardware",
-        "excerpt": "Google afirma que sus nuevos drafters Multi-Token Prediction pueden ejecutar Gemma 4 hasta 3 veces más rápido en hardware propio, sin nube ni pérdida de calidad.",
-        "body": "Google presentó nuevos drafters Multi-Token Prediction para aumentar la velocidad de la IA local. La tecnología puede hacer que Gemma 4 funcione hasta 3 veces más rápido en el hardware que los usuarios ya tienen, sin depender de la nube. El punto central es que no requiere comprar ni añadir nuevo hardware. Según el informe original, la mejora de velocidad no implica pérdida de calidad. Para quienes quieren ejecutar modelos de IA en entornos locales, puede ayudar a reducir costos, latencia y dependencia de infraestructura en la nube. También podría influir en una adopción más amplia de la IA en dispositivos. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Google acelera IA local em até 3 vezes no Gemma 4 sem novo hardware",
-        "excerpt": "O Google diz que seus novos drafters Multi-Token Prediction podem rodar o Gemma 4 até 3 vezes mais rápido no hardware do usuário, sem nuvem ou perda de qualidade.",
-        "body": "O Google apresentou novos drafters Multi-Token Prediction para aumentar a velocidade da IA local. A tecnologia pode fazer o Gemma 4 rodar até 3 vezes mais rápido no hardware que os usuários já possuem, sem depender da nuvem. O ponto principal é que não exige novo hardware. Segundo o relatório original, o ganho de velocidade ocorre sem perda de qualidade. Para usuários que desejam executar modelos de IA localmente, isso pode ajudar a reduzir custos, latência e dependência de infraestrutura em nuvem. Também pode influenciar a expansão futura da IA em dispositivos. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Google beschleunigt lokale KI für Gemma 4 bis zu 3-fach ohne neue Hardware",
-        "excerpt": "Google sagt, neue Multi-Token-Prediction-Drafter könnten Gemma 4 auf eigener Hardware bis zu 3-mal schneller ausführen, ohne Cloud und ohne Qualitätsverlust.",
-        "body": "Google hat neue Multi-Token-Prediction-Drafter vorgestellt, die lokale KI schneller machen sollen. Die Technologie kann Gemma 4 auf bereits vorhandener Nutzerhardware bis zu 3-mal schneller ausführen, ohne auf die Cloud angewiesen zu sein. Entscheidend ist, dass keine neue Hardware erforderlich ist. Dem Originalbericht zufolge erfolgt der Geschwindigkeitsschub ohne Qualitätsverlust. Für Nutzer, die KI-Modelle lokal betreiben möchten, kann dies Kosten, Latenz und Abhängigkeit von Cloud-Infrastruktur verringern. Zudem könnte es die künftige Nutzung von On-Device-KI unterstützen. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Google accélère l’IA locale jusqu’à 3 fois pour Gemma 4 sans nouveau matériel",
-        "excerpt": "Google affirme que ses nouveaux drafters Multi-Token Prediction peuvent faire tourner Gemma 4 jusqu’à 3 fois plus vite sur le matériel de l’utilisateur, sans cloud ni perte de qualité.",
-        "body": "Google a présenté de nouveaux drafters Multi-Token Prediction destinés à accélérer l’IA locale. Cette technologie peut faire fonctionner Gemma 4 jusqu’à 3 fois plus vite sur le matériel que les utilisateurs possèdent déjà, sans dépendre du cloud. Le point clé est qu’aucun nouveau matériel n’est nécessaire. Selon l’article original, ce gain de vitesse ne s’accompagne d’aucune perte de qualité. Pour les utilisateurs qui souhaitent exécuter des modèles d’IA localement, cela peut réduire les coûts, la latence et la dépendance à l’infrastructure cloud. Cela pourrait aussi favoriser l’usage futur de l’IA embarquée. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "غوغل تسرّع الذكاء الاصطناعي المحلي حتى 3 مرات لـ Gemma 4 بلا عتاد جديد",
-        "excerpt": "تقول غوغل إن مسودات Multi-Token Prediction الجديدة يمكنها تشغيل Gemma 4 أسرع حتى 3 مرات على عتاد المستخدم نفسه، من دون سحابة أو فقدان جودة.",
-        "body": "كشفت غوغل عن مسودات Multi-Token Prediction جديدة لزيادة سرعة تشغيل الذكاء الاصطناعي محليا. صُممت التقنية لجعل Gemma 4 يعمل بسرعة أعلى تصل إلى 3 مرات على العتاد الذي يملكه المستخدمون بالفعل، من دون الاعتماد على السحابة. النقطة الأساسية أنها لا تتطلب إضافة عتاد جديد. ووفقا للتقرير الأصلي، يتحقق تحسن السرعة من دون فقدان في الجودة. بالنسبة لمن يريدون تشغيل نماذج الذكاء الاصطناعي محليا، قد يساعد ذلك في خفض التكلفة وزمن الاستجابة والاعتماد على البنية السحابية. كما قد يؤثر في توسيع استخدام الذكاء الاصطناعي على الأجهزة مستقبلا. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "Google ने Gemma 4 लोकल AI को नए हार्डवेयर बिना 3 गुना तक तेज किया",
-        "excerpt": "Google का कहना है कि नए Multi-Token Prediction drafters Gemma 4 को यूजर के अपने हार्डवेयर पर 3 गुना तक तेज चला सकते हैं, बिना क्लाउड या गुणवत्ता हानि के।",
-        "body": "Google ने लोकल AI की गति बढ़ाने के लिए नए Multi-Token Prediction drafters पेश किए हैं। यह तकनीक Gemma 4 को यूजर के पहले से मौजूद हार्डवेयर पर 3 गुना तक तेज चलाने के लिए बनाई गई है, वह भी क्लाउड पर निर्भर हुए बिना। मुख्य बात यह है कि इसके लिए नया हार्डवेयर जरूरी नहीं है। मूल रिपोर्ट के अनुसार, यह गति सुधार गुणवत्ता में कमी के बिना मिलता है। जो यूजर AI मॉडल स्थानीय रूप से चलाना चाहते हैं, उनके लिए यह लागत, लेटेंसी और क्लाउड इन्फ्रास्ट्रक्चर पर निर्भरता घटाने का विकल्प हो सकता है। भविष्य में ऑन-डिवाइस AI के उपयोग को भी इससे बढ़ावा मिल सकता है। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Google Percepat AI Lokal Gemma 4 hingga 3 Kali Tanpa Hardware Baru",
-        "excerpt": "Google mengatakan drafter Multi-Token Prediction baru dapat menjalankan Gemma 4 hingga 3 kali lebih cepat di hardware pengguna sendiri, tanpa cloud dan tanpa penurunan kualitas.",
-        "body": "Google memperkenalkan drafter Multi-Token Prediction baru untuk meningkatkan kecepatan AI lokal. Teknologi ini dirancang agar Gemma 4 dapat berjalan hingga 3 kali lebih cepat pada hardware yang sudah dimiliki pengguna, tanpa bergantung pada cloud. Poin utamanya adalah tidak perlu menambah hardware baru. Menurut laporan asli, peningkatan kecepatan ini hadir tanpa kehilangan kualitas. Bagi pengguna yang ingin menjalankan model AI secara lokal, hal ini dapat membantu mengurangi biaya, latensi, dan ketergantungan pada infrastruktur cloud. Ke depan, teknologi ini juga dapat memengaruhi perluasan penggunaan AI di perangkat. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "46c4916c323e",
-    "slug": "prediction-market-kalshi-boosts-valuation-to-22-billion-with-236782",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T01:52:29.520Z",
-    "updatedAt": "2026-05-08T01:52:29.520Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367108/prediction-market-startup-kalshi-boosts-valuation-22-billion",
-    "canonicalUrl": "https://decrypt.co/367108/prediction-market-startup-kalshi-boosts-valuation-22-billion",
-    "titleFingerprint": "0e0d83c92f1977d27689a0d01723c3ba306f9765",
-    "dedupKeys": [
-      "46c4916c323ed128e733bec661b0bab970fb9ff5",
-      "0e0d83c92f1977d27689a0d01723c3ba306f9765",
-      "dc4c2c23a7cbfc3888ba31b064b4d52701ed987f"
-    ],
-    "imageUrl": "/images/articles/46c4916c323e.png",
-    "i18n": {
-      "ko": {
-        "title": "칼시, 10억달러 신규 투자로 기업가치 220억달러로 상승",
-        "excerpt": "미국 예측시장 선두 기업 칼시가 신규 10억달러 투자를 유치하며 기업가치를 220억달러로 끌어올렸다고 decrypt.co가 보도했다.",
-        "body": "미국 예측시장 선두 기업 칼시(Kalshi)가 신규 10억달러 투자를 유치하며 기업가치를 220억달러로 높였다. decrypt.co에 따르면 칼시는 빠른 성장세를 이어가는 가운데 추가로 10억달러의 자금을 확보했다. 이번 투자는 미국 예측시장 분야에서 칼시의 입지를 다시 부각시키는 수치다. 회사는 확보한 자금을 바탕으로 성장 국면을 이어갈 여력을 갖게 됐다. 다만 보도는 구체적인 투자자 명단이나 자금 사용 계획은 언급하지 않았다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Kalshi Valuation Hits $22 Billion After Fresh $1 Billion Investment",
-        "excerpt": "U.S. prediction market leader Kalshi raised a fresh $1 billion investment, lifting its valuation to $22 billion, according to decrypt.co.",
-        "body": "Kalshi, the leading U.S. prediction market, has raised a fresh $1 billion investment, increasing its valuation to $22 billion. According to decrypt.co, the company now has another billion dollars available as it continues to grow rapidly. The new funding highlights Kalshi’s position in the U.S. prediction market sector and gives the company additional capacity to support its growth phase. The report did not mention specific investors or detailed plans for how the funds will be used. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "Kalshi、10億ドルの新規投資で評価額220億ドルに上昇",
-        "excerpt": "米国の予測市場大手Kalshiが新たに10億ドルの投資を受け、評価額を220億ドルに引き上げたとdecrypt.coが報じた。",
-        "body": "米国の予測市場をリードするKalshiは、新たに10億ドルの投資を受け、企業評価額を220億ドルに高めた。decrypt.coによると、同社は急速な成長を続けるなかで、さらに10億ドルの資金を確保した。今回の投資は、米国の予測市場分野におけるKalshiの存在感を改めて示す数字となる。同社はこの資金により、成長局面を継続する余力を得た。ただし報道では、具体的な投資家名や資金の使途計画には触れていない。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "Kalshi获10亿美元新投资，估值升至220亿美元",
-        "excerpt": "美国预测市场领先企业Kalshi获得新一轮10亿美元投资，估值升至220亿美元，decrypt.co报道称其增长势头仍在延续。",
-        "body": "美国预测市场领先企业Kalshi获得新一轮10亿美元投资，估值升至220亿美元。decrypt.co报道称，随着业务继续快速增长，Kalshi又获得了10亿美元资金。此次投资再次凸显了Kalshi在美国预测市场领域的地位，也为公司延续增长阶段提供了更多资金空间。不过，报道未提及具体投资方名单，也未说明这笔资金的详细使用计划。来源: decrypt.co"
-      },
-      "es": {
-        "title": "Kalshi eleva su valoración a 22.000 millones con 1.000 millones nuevos",
-        "excerpt": "Kalshi, líder del mercado de predicciones en EE. UU., recibió una nueva inversión de 1.000 millones de dólares y elevó su valoración a 22.000 millones, según decrypt.co.",
-        "body": "Kalshi, líder del mercado de predicciones en Estados Unidos, recibió una nueva inversión de 1.000 millones de dólares y elevó su valoración a 22.000 millones de dólares. Según decrypt.co, la compañía cuenta ahora con otros 1.000 millones para respaldar una etapa de rápido crecimiento. La cifra vuelve a destacar la posición de Kalshi dentro del sector estadounidense de mercados de predicción. La empresa dispone así de más margen para continuar su expansión. El reporte no menciona inversores concretos ni planes detallados para el uso de los fondos. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Kalshi chega a avaliação de US$ 22 bilhões após aporte de US$ 1 bilhão",
-        "excerpt": "A Kalshi, líder em mercados de previsão nos EUA, recebeu novo investimento de US$ 1 bilhão e elevou sua avaliação para US$ 22 bilhões, segundo o decrypt.co.",
-        "body": "A Kalshi, líder em mercados de previsão nos Estados Unidos, recebeu um novo investimento de US$ 1 bilhão e elevou sua avaliação para US$ 22 bilhões. Segundo o decrypt.co, a empresa passa a contar com mais US$ 1 bilhão enquanto mantém um ritmo acelerado de crescimento. O aporte reforça a posição da Kalshi no setor de mercados de previsão dos EUA e amplia sua capacidade de sustentar essa fase de expansão. A reportagem não citou investidores específicos nem detalhou planos de uso dos recursos. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Kalshi steigt mit neuer 1-Milliarde-Dollar-Investition auf 22 Milliarden",
-        "excerpt": "Kalshi, führend im US-Prognosemarkt, erhielt eine neue Investition von 1 Milliarde Dollar und steigerte seine Bewertung auf 22 Milliarden Dollar, berichtet decrypt.co.",
-        "body": "Kalshi, der führende Prognosemarkt in den USA, hat eine neue Investition von 1 Milliarde Dollar erhalten und seine Bewertung auf 22 Milliarden Dollar erhöht. Laut decrypt.co verfügt das Unternehmen damit über eine weitere Milliarde Dollar, während es weiter schnell wächst. Die Finanzierung unterstreicht erneut Kalshis Stellung im US-Sektor für Prognosemärkte und gibt dem Unternehmen zusätzlichen Spielraum für seine Wachstumsphase. Der Bericht nennt keine konkreten Investoren und keine detaillierten Pläne zur Verwendung der Mittel. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Kalshi porté à 22 milliards de dollars après 1 milliard d’investissement",
-        "excerpt": "Kalshi, leader américain des marchés de prédiction, a reçu un nouvel investissement de 1 milliard de dollars, portant sa valorisation à 22 milliards, selon decrypt.co.",
-        "body": "Kalshi, leader des marchés de prédiction aux États-Unis, a reçu un nouvel investissement de 1 milliard de dollars, portant sa valorisation à 22 milliards de dollars. Selon decrypt.co, l’entreprise dispose ainsi d’un milliard supplémentaire alors qu’elle poursuit une croissance rapide. Ce financement met de nouveau en évidence la position de Kalshi dans le secteur américain des marchés de prédiction et lui donne davantage de marge pour soutenir cette phase de développement. Le rapport ne mentionne pas d’investisseurs précis ni de plan détaillé d’utilisation des fonds. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "كالشي ترفع قيمتها إلى 22 مليار دولار بعد استثمار جديد بمليار",
-        "excerpt": "حصلت كالشي، الشركة الرائدة في سوق التوقعات الأمريكي، على استثمار جديد بقيمة مليار دولار لترتفع قيمتها إلى 22 مليار دولار، وفق decrypt.co.",
-        "body": "حصلت كالشي، الشركة الرائدة في سوق التوقعات بالولايات المتحدة، على استثمار جديد بقيمة مليار دولار، ما رفع تقييمها إلى 22 مليار دولار. ووفقًا لـ decrypt.co، أصبحت الشركة تملك مليار دولار إضافيًا بينما تواصل نموها السريع. يبرز هذا التمويل مكانة كالشي في قطاع أسواق التوقعات الأمريكية، ويمنحها قدرة أكبر على مواصلة مرحلة النمو. ولم يذكر التقرير أسماء مستثمرين محددين أو خططًا تفصيلية لاستخدام الأموال. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "Kalshi का मूल्यांकन 1 अरब डॉलर नए निवेश से 22 अरब डॉलर पहुंचा",
-        "excerpt": "अमेरिकी प्रेडिक्शन मार्केट लीडर Kalshi ने 1 अरब डॉलर का नया निवेश जुटाया, जिससे उसका मूल्यांकन 22 अरब डॉलर हो गया, decrypt.co के अनुसार।",
-        "body": "अमेरिकी प्रेडिक्शन मार्केट की अग्रणी कंपनी Kalshi ने 1 अरब डॉलर का नया निवेश जुटाया है, जिससे उसका मूल्यांकन 22 अरब डॉलर हो गया। decrypt.co के अनुसार, तेज वृद्धि जारी रहने के बीच कंपनी के पास अब अतिरिक्त 1 अरब डॉलर की पूंजी है। यह निवेश अमेरिकी प्रेडिक्शन मार्केट क्षेत्र में Kalshi की स्थिति को फिर रेखांकित करता है और कंपनी को अपनी वृद्धि जारी रखने की अधिक क्षमता देता है। रिपोर्ट में विशिष्ट निवेशकों के नाम या धन के उपयोग की विस्तृत योजना का उल्लेख नहीं किया गया। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Kalshi Capai Valuasi US$22 Miliar Setelah Investasi Baru US$1 Miliar",
-        "excerpt": "Kalshi, pemimpin pasar prediksi AS, meraih investasi baru US$1 miliar dan menaikkan valuasinya menjadi US$22 miliar, menurut decrypt.co.",
-        "body": "Kalshi, pemimpin pasar prediksi di Amerika Serikat, meraih investasi baru sebesar US$1 miliar dan menaikkan valuasinya menjadi US$22 miliar. Menurut decrypt.co, perusahaan kini memiliki tambahan US$1 miliar seiring pertumbuhan yang terus berlangsung cepat. Pendanaan ini kembali menyoroti posisi Kalshi di sektor pasar prediksi AS dan memberi perusahaan ruang lebih besar untuk melanjutkan fase pertumbuhannya. Laporan tersebut tidak menyebutkan investor tertentu maupun rencana rinci penggunaan dana. Sumber: decrypt.co"
       }
     }
   }
