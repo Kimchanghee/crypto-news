@@ -1,0 +1,75 @@
+{
+  "id": "50edbdcc028a",
+  "slug": "chaos-labs-says-oracles-secure-after-attempted-nation-state--182941",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T06:51:57.320Z",
+  "updatedAt": "2026-05-08T06:51:57.320Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/chaos-labs-nation-state-wallet-attack-oracles-secure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/chaos-labs-nation-state-wallet-attack-oracles-secure",
+  "titleFingerprint": "9af3f41b743161c8ccf5e44a637d67a9722ed1f3",
+  "dedupKeys": [
+    "50edbdcc028a70d6590d21eaa67c665c3d47e04a",
+    "9af3f41b743161c8ccf5e44a637d67a9722ed1f3",
+    "529fe40c3c1b3e89070f888e5243bbb3e6a8fb00"
+  ],
+  "imageUrl": "/images/articles/50edbdcc028a.jpg",
+  "i18n": {
+    "ko": {
+      "title": "카오스랩스, ‘국가 배후’ 지갑 공격 시도 후 오라클 보안 확인",
+      "excerpt": "카오스랩스는 주말 발생한 ‘국가 배후’ 지갑 공격 시도 이후 모든 키를 교체했으며, 목요일 기준 추가 의심 활동은 감지되지 않았다고 밝혔다.",
+      "body": "카오스랩스는 목요일 주말 사이 발생한 ‘국가 배후’ 지갑 공격 시도 이후 자사 오라클이 안전하다고 밝혔다. 회사는 공격 시도 뒤 모든 키를 교체했으며, 이후 의심스러운 활동은 감지하지 못했다고 설명했다. 이번 사안은 오라클 인프라와 관련 지갑 보안에 대한 점검으로 이어졌으며, 카오스랩스는 키 로테이션을 통해 노출 가능성을 줄였다고 전했다. 현재까지 추가 이상 징후가 없다는 점은 서비스 안정성 측면에서 긍정적이지만, 지갑과 키 관리의 중요성은 다시 부각됐다. 출처: cointelegraph.com 인용."
+    },
+    "en": {
+      "title": "Chaos Labs Confirms Oracles Secure After Wallet Attack Attempt",
+      "excerpt": "Chaos Labs said Thursday it rotated all keys after a weekend ‘nation-state’ wallet attack attempt and has detected no further suspicious activity.",
+      "body": "Chaos Labs said Thursday that its oracles remain secure after an attempted ‘nation-state’ wallet attack over the weekend. The company said it rotated all keys after the attempt and has not detected any suspicious activity since. The incident prompted a security review around oracle infrastructure and related wallet access, with Chaos Labs saying the key rotation reduced potential exposure. While the absence of further warning signs supports service stability for now, the case again highlights the importance of wallet and key management. Source: cited from cointelegraph.com."
+    },
+    "ja": {
+      "title": "Chaos Labs、ウォレット攻撃未遂後もオラクル安全と確認",
+      "excerpt": "Chaos Labsは木曜日、週末の「国家関与」ウォレット攻撃未遂後に全キーをローテーションし、その後不審な活動は検出していないと述べた。",
+      "body": "Chaos Labsは木曜日、週末に発生した「国家関与」とされるウォレット攻撃未遂の後も、自社オラクルは安全だと発表した。同社は攻撃未遂後にすべてのキーをローテーションし、それ以降、不審な活動は検出されていないと説明した。今回の事案は、オラクル基盤と関連ウォレットアクセスの安全確認につながり、Chaos Labsはキー交換によって潜在的な露出を抑えたとしている。現時点で追加の異常がないことはサービス安定性にとって前向きだが、ウォレットとキー管理の重要性を改めて示した。出典: cointelegraph.com引用。"
+    },
+    "zh": {
+      "title": "Chaos Labs确认钱包攻击未遂后预言机仍安全",
+      "excerpt": "Chaos Labs周四表示，在周末发生“国家级”钱包攻击未遂后已轮换所有密钥，至今未发现进一步可疑活动。",
+      "body": "Chaos Labs周四表示，在周末发生一起被称为“国家级”的钱包攻击未遂后，其预言机仍保持安全。公司称，攻击尝试发生后已轮换所有密钥，此后没有检测到任何可疑活动。该事件促使其对预言机基础设施及相关钱包访问安全进行检查，Chaos Labs表示，密钥轮换有助于降低潜在暴露风险。截至目前未出现更多异常迹象，对服务稳定性而言是积极信号，但也再次凸显钱包和密钥管理的重要性。来源：引用cointelegraph.com。"
+    },
+    "es": {
+      "title": "Chaos Labs confirma oráculos seguros tras intento de ataque a wallet",
+      "excerpt": "Chaos Labs dijo el jueves que rotó todas las claves tras el intento de ataque de wallet del fin de semana y que no detectó más actividad sospechosa.",
+      "body": "Chaos Labs dijo el jueves que sus oráculos siguen seguros después de un intento de ataque a una wallet durante el fin de semana, descrito como de ‘Estado-nación’. La compañía afirmó que rotó todas las claves tras el intento y que desde entonces no ha detectado actividad sospechosa. El caso llevó a revisar la seguridad de la infraestructura de oráculos y del acceso a wallets relacionadas, y Chaos Labs señaló que la rotación de claves redujo una posible exposición. La falta de nuevas señales anómalas respalda por ahora la estabilidad del servicio, aunque vuelve a destacar la importancia de gestionar wallets y claves. Fuente: citado de cointelegraph.com."
+    },
+    "pt": {
+      "title": "Chaos Labs confirma oráculos seguros após tentativa de ataque a wallet",
+      "excerpt": "A Chaos Labs disse na quinta-feira que rotacionou todas as chaves após a tentativa de ataque a wallet no fim de semana e não detectou novas atividades suspeitas.",
+      "body": "A Chaos Labs afirmou na quinta-feira que seus oráculos continuam seguros após uma tentativa de ataque a uma wallet no fim de semana, descrita como de ‘Estado-nação’. A empresa disse que rotacionou todas as chaves depois da tentativa e que, desde então, não detectou qualquer atividade suspeita. O episódio levou a uma revisão da segurança da infraestrutura de oráculos e do acesso a wallets relacionadas, com a Chaos Labs afirmando que a rotação de chaves reduziu possível exposição. A ausência de novos sinais anômalos favorece a estabilidade do serviço por enquanto, mas reforça a importância da gestão de wallets e chaves. Fonte: citado de cointelegraph.com."
+    },
+    "de": {
+      "title": "Chaos Labs bestätigt sichere Orakel nach versuchtem Wallet-Angriff",
+      "excerpt": "Chaos Labs teilte am Donnerstag mit, nach dem versuchten ‘Nation-State’-Wallet-Angriff vom Wochenende alle Schlüssel rotiert und keine weitere verdächtige Aktivität entdeckt zu haben.",
+      "body": "Chaos Labs erklärte am Donnerstag, dass seine Orakel nach einem versuchten ‘Nation-State’-Wallet-Angriff am Wochenende sicher geblieben seien. Das Unternehmen gab an, nach dem Angriff alle Schlüssel rotiert zu haben; seitdem sei keine verdächtige Aktivität festgestellt worden. Der Vorfall führte zu einer Sicherheitsprüfung der Orakel-Infrastruktur und des Zugriffs auf zugehörige Wallets. Chaos Labs zufolge verringerte die Schlüsselrotation eine mögliche Exponierung. Dass bislang keine weiteren Auffälligkeiten gemeldet wurden, spricht vorerst für die Stabilität des Dienstes, unterstreicht aber erneut die Bedeutung von Wallet- und Schlüsselverwaltung. Quelle: zitiert nach cointelegraph.com."
+    },
+    "fr": {
+      "title": "Chaos Labs confirme des oracles sécurisés après une tentative d’attaque",
+      "excerpt": "Chaos Labs a déclaré jeudi avoir effectué une rotation de toutes les clés après une tentative d’attaque de wallet le week-end, sans détecter d’autre activité suspecte.",
+      "body": "Chaos Labs a déclaré jeudi que ses oracles restaient sécurisés après une tentative d’attaque de wallet survenue durant le week-end, décrite comme liée à un ‘État-nation’. L’entreprise a indiqué avoir effectué une rotation de toutes les clés après la tentative et n’avoir détecté depuis aucune activité suspecte. L’incident a entraîné une vérification de la sécurité de l’infrastructure d’oracles et des accès aux wallets associés, Chaos Labs affirmant que la rotation des clés a réduit une exposition potentielle. L’absence de nouveaux signaux anormaux soutient pour l’instant la stabilité du service, tout en rappelant l’importance de la gestion des wallets et des clés. Source: cité de cointelegraph.com."
+    },
+    "ar": {
+      "title": "Chaos Labs تؤكد أمان الأوراكل بعد محاولة هجوم على محفظة",
+      "excerpt": "قالت Chaos Labs يوم الخميس إنها بدلت جميع المفاتيح بعد محاولة هجوم على محفظة خلال عطلة نهاية الأسبوع، ولم ترصد أي نشاط مريب لاحق.",
+      "body": "قالت Chaos Labs يوم الخميس إن أنظمة الأوراكل التابعة لها ما زالت آمنة بعد محاولة هجوم على محفظة خلال عطلة نهاية الأسبوع، ووصفت المحاولة بأنها مرتبطة بجهة على مستوى ‘دولة’. وأوضحت الشركة أنها أجرت تدويرا لجميع المفاتيح بعد محاولة الهجوم، ولم تكتشف منذ ذلك الحين أي نشاط مريب. وأدت الحادثة إلى مراجعة أمنية للبنية التحتية للأوراكل ووصول المحافظ المرتبطة بها، وقالت Chaos Labs إن تدوير المفاتيح قلل أي تعرض محتمل. عدم ظهور مؤشرات إضافية حتى الآن يدعم استقرار الخدمة حاليا، لكنه يبرز مجددا أهمية إدارة المحافظ والمفاتيح. المصدر: نقلا عن cointelegraph.com."
+    },
+    "hi": {
+      "title": "Chaos Labs ने वॉलेट हमले की कोशिश के बाद ओरैकल सुरक्षित बताए",
+      "excerpt": "Chaos Labs ने गुरुवार को कहा कि सप्ताहांत की ‘नेशन-स्टेट’ वॉलेट हमले की कोशिश के बाद सभी keys बदली गईं और कोई संदिग्ध गतिविधि नहीं मिली।",
+      "body": "Chaos Labs ने गुरुवार को कहा कि सप्ताहांत में हुई ‘नेशन-स्टेट’ वॉलेट हमले की कोशिश के बाद भी उसके oracles सुरक्षित हैं। कंपनी ने बताया कि प्रयास के बाद सभी keys को rotate किया गया और उसके बाद से कोई संदिग्ध गतिविधि नहीं मिली। इस घटना के बाद oracle infrastructure और संबंधित wallet access की सुरक्षा की समीक्षा की गई, और Chaos Labs के अनुसार key rotation से संभावित exposure कम हुआ। अब तक कोई अतिरिक्त असामान्य संकेत न मिलना सेवा स्थिरता के लिए सकारात्मक है, लेकिन यह wallet और key management के महत्व को फिर से रेखांकित करता है। स्रोत: cointelegraph.com से उद्धृत।"
+    },
+    "id": {
+      "title": "Chaos Labs Pastikan Oracle Aman Usai Percobaan Serangan Wallet",
+      "excerpt": "Chaos Labs mengatakan pada Kamis bahwa semua key telah dirotasi setelah percobaan serangan wallet akhir pekan dan tidak ada aktivitas mencurigakan sejak itu.",
+      "body": "Chaos Labs mengatakan pada Kamis bahwa oracle miliknya tetap aman setelah percobaan serangan wallet pada akhir pekan yang disebut sebagai serangan ‘nation-state’. Perusahaan menyatakan telah merotasi semua key setelah percobaan tersebut dan sejak itu tidak mendeteksi aktivitas mencurigakan. Insiden ini memicu pemeriksaan keamanan pada infrastruktur oracle dan akses wallet terkait, dengan Chaos Labs menyebut rotasi key mengurangi potensi paparan. Tidak adanya tanda abnormal tambahan sejauh ini mendukung stabilitas layanan, tetapi kembali menegaskan pentingnya pengelolaan wallet dan key. Sumber: dikutip dari cointelegraph.com."
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "fda5f263c15a",
+  "slug": "consensus-panelists-explain-why-perp-dexes-remain-a-tough-se-255785",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T06:50:58.715Z",
+  "updatedAt": "2026-05-08T06:50:58.715Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why",
+  "canonicalUrl": "https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why",
+  "titleFingerprint": "99c7dfa547416b458a0a0145a8d67024bdb65bb6",
+  "dedupKeys": [
+    "fda5f263c15a3d7a64dfe4eaa71182d6cdd120c2",
+    "99c7dfa547416b458a0a0145a8d67024bdb65bb6",
+    "e52e8541c9c95958edad47621fd6d05a19c4316f"
+  ],
+  "imageUrl": "/images/articles/fda5f263c15a.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Perp DEX, 기관투자자 유입 막는 보안·KYC 장벽",
+      "excerpt": "Consensus Miami 패널들은 기관투자자들이 보안 위험과 KYC 절차의 마찰 때문에 Perp DEX 참여에 여전히 신중하다고 설명했다.",
+      "body": "Consensus Miami 패널 토론에서 참석자들은 기관투자자들이 Perp DEX, 즉 무기한 선물 탈중앙화 거래소에 아직 대체로 참여하지 않고 있다고 밝혔다. 패널들은 핵심 이유로 보안 위험과 KYC 절차에서 발생하는 마찰을 꼽았다. Perp DEX는 탈중앙화 방식으로 무기한 계약 거래를 제공하지만, 기관 자금이 요구하는 위험 관리와 신원 확인 기준을 충족하는 데 부담이 남아 있다는 설명이다. 이 같은 장벽이 해소되지 않는 한 기관투자자의 본격 유입은 제한적일 수 있다는 평가가 나온다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Perp DEX Adoption Faces Security and KYC Barriers",
+      "excerpt": "Panelists at Consensus Miami said institutional investors remain cautious toward perp DEXs because of security risks and KYC friction.",
+      "body": "At a Consensus Miami panel, speakers said institutional investors are still largely absent from perp DEXs, or decentralized exchanges for perpetual futures. The panelists cited security risks and friction around KYC procedures as the main barriers. While perp DEXs offer perpetual contract trading through decentralized infrastructure, institutions still face challenges in meeting their risk management and identity verification requirements. Unless those obstacles are reduced, broader institutional participation may remain limited, according to the discussion. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "Perp DEX、機関投資家を阻むセキュリティとKYC",
+      "excerpt": "Consensus Miamiのパネリストは、セキュリティリスクとKYC手続きの摩擦により、機関投資家のPerp DEX参加はなお限定的だと述べた。",
+      "body": "Consensus Miamiのパネル討論で、登壇者らはPerp DEX、つまり無期限先物を扱う分散型取引所に機関投資家がまだ大きく参加していないと説明した。主な理由として挙げられたのは、セキュリティリスクとKYC手続きに伴う摩擦だ。Perp DEXは分散型の仕組みで無期限契約取引を提供するが、機関資金が求めるリスク管理や本人確認の基準を満たすうえで負担が残るという。こうした障壁が緩和されない限り、機関投資家の本格的な流入は限定的にとどまる可能性がある。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "Perp DEX难吸引机构，安全与KYC仍是障碍",
+      "excerpt": "Consensus Miami小组嘉宾表示，因安全风险和KYC流程摩擦，机构投资者目前仍大多缺席Perp DEX市场。",
+      "body": "在Consensus Miami的一场小组讨论中，嘉宾表示，机构投资者目前仍大多没有参与Perp DEX，即提供永续合约交易的去中心化交易所。小组嘉宾指出，主要障碍是安全风险以及KYC流程带来的摩擦。Perp DEX通过去中心化基础设施提供永续合约交易，但在满足机构资金所要求的风险管理和身份验证标准方面仍存在压力。讨论认为，如果这些障碍不能缓解，机构投资者的大规模进入可能仍会受到限制。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Perp DEX: seguridad y KYC frenan a inversores institucionales",
+      "excerpt": "Panelistas de Consensus Miami dijeron que los inversores institucionales siguen lejos de los perp DEX por riesgos de seguridad y fricción en KYC.",
+      "body": "En un panel de Consensus Miami, los participantes señalaron que los inversores institucionales siguen en gran medida ausentes de los perp DEX, es decir, exchanges descentralizados para futuros perpetuos. Los panelistas citaron como principales barreras los riesgos de seguridad y la fricción en los procedimientos KYC. Aunque los perp DEX ofrecen negociación de contratos perpetuos mediante infraestructura descentralizada, aún existe presión para cumplir los estándares de gestión de riesgo e identificación que exige el capital institucional. Si esos obstáculos no se reducen, la entrada institucional amplia podría seguir limitada. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Perp DEX enfrenta barreiras de segurança e KYC para instituições",
+      "excerpt": "Painelistas no Consensus Miami disseram que investidores institucionais seguem cautelosos com perp DEXs por riscos de segurança e fricção no KYC.",
+      "body": "Em um painel no Consensus Miami, participantes afirmaram que investidores institucionais ainda estão em grande parte ausentes dos perp DEXs, as exchanges descentralizadas de futuros perpétuos. Os painelistas apontaram riscos de segurança e atritos nos processos de KYC como as principais barreiras. Embora os perp DEXs ofereçam negociação de contratos perpétuos por infraestrutura descentralizada, ainda há dificuldades para atender aos padrões de gestão de risco e verificação de identidade exigidos pelo capital institucional. Sem redução desses obstáculos, a entrada mais ampla de instituições pode continuar limitada. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Perp DEX: Sicherheits- und KYC-Hürden bremsen Institutionelle",
+      "excerpt": "Panelisten auf der Consensus Miami sagten, institutionelle Investoren blieben Perp DEXs wegen Sicherheitsrisiken und KYC-Reibung fern.",
+      "body": "Bei einer Podiumsdiskussion auf der Consensus Miami erklärten Teilnehmer, dass institutionelle Investoren bei Perp DEXs, also dezentralen Börsen für unbefristete Futures, weiterhin weitgehend fehlen. Als zentrale Hürden nannten die Panelisten Sicherheitsrisiken und Reibungsverluste bei KYC-Prozessen. Perp DEXs ermöglichen den Handel mit unbefristeten Kontrakten über dezentrale Infrastruktur, doch für institutionelles Kapital bleiben Anforderungen an Risikomanagement und Identitätsprüfung schwer umzusetzen. Solange diese Hindernisse bestehen, dürfte eine breitere Beteiligung institutioneller Investoren begrenzt bleiben. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Perp DEX: sécurité et KYC freinent les investisseurs institutionnels",
+      "excerpt": "Des intervenants à Consensus Miami ont indiqué que les investisseurs institutionnels restent prudents face aux perp DEX, en raison de risques de sécurité et du KYC.",
+      "body": "Lors d’un panel à Consensus Miami, des intervenants ont déclaré que les investisseurs institutionnels restent encore largement absents des perp DEX, les plateformes décentralisées de contrats perpétuels. Ils ont cité les risques de sécurité et les frictions liées aux procédures KYC comme principaux obstacles. Les perp DEX permettent de négocier des contrats perpétuels via une infrastructure décentralisée, mais répondre aux exigences de gestion des risques et de vérification d’identité des capitaux institutionnels demeure difficile. Tant que ces barrières ne seront pas réduites, une adoption institutionnelle plus large pourrait rester limitée. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "منصات Perp DEX تواجه عوائق الأمن وKYC أمام المؤسسات",
+      "excerpt": "قال مشاركون في Consensus Miami إن المستثمرين المؤسسيين ما زالوا حذرين تجاه منصات Perp DEX بسبب مخاطر الأمن واحتكاك إجراءات KYC.",
+      "body": "في جلسة نقاش ضمن Consensus Miami، قال المشاركون إن المستثمرين المؤسسيين ما زالوا غائبين إلى حد كبير عن منصات Perp DEX، أي البورصات اللامركزية لعقود الدائم. وذكر المتحدثون أن مخاطر الأمن والاحتكاك المرتبط بإجراءات KYC هما العائقان الرئيسيان. ورغم أن هذه المنصات توفر تداول العقود الدائمة عبر بنية لامركزية، فإن تلبية معايير إدارة المخاطر والتحقق من الهوية التي تتطلبها الأموال المؤسسية لا تزال تمثل عبئاً. وبحسب النقاش، قد يظل دخول المؤسسات على نطاق أوسع محدوداً ما لم تخف هذه العقبات. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "Perp DEX में संस्थागत निवेश को रोक रहे सुरक्षा और KYC अवरोध",
+      "excerpt": "Consensus Miami के पैनलिस्टों ने कहा कि सुरक्षा जोखिम और KYC प्रक्रिया की जटिलता के कारण संस्थागत निवेशक अभी भी Perp DEX से दूर हैं।",
+      "body": "Consensus Miami की एक पैनल चर्चा में वक्ताओं ने कहा कि संस्थागत निवेशक अभी भी Perp DEX, यानी परपेचुअल फ्यूचर्स के विकेंद्रीकृत एक्सचेंजों, से बड़े पैमाने पर दूर हैं। पैनलिस्टों ने इसके मुख्य कारणों में सुरक्षा जोखिम और KYC प्रक्रियाओं से जुड़ी friction को बताया। Perp DEX विकेंद्रीकृत ढांचे के जरिए परपेचुअल कॉन्ट्रैक्ट ट्रेडिंग उपलब्ध कराते हैं, लेकिन संस्थागत पूंजी के लिए जरूरी जोखिम प्रबंधन और पहचान सत्यापन मानकों को पूरा करना अभी भी चुनौती बना हुआ है। जब तक ये बाधाएं कम नहीं होतीं, संस्थागत भागीदारी सीमित रह सकती है। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Perp DEX Terkendala Keamanan dan KYC bagi Investor Institusi",
+      "excerpt": "Panelis di Consensus Miami mengatakan investor institusional masih berhati-hati terhadap perp DEX karena risiko keamanan dan friksi KYC.",
+      "body": "Dalam panel di Consensus Miami, para pembicara mengatakan investor institusional masih sebagian besar absen dari perp DEX, yaitu bursa terdesentralisasi untuk kontrak perpetual. Panelis menyebut risiko keamanan dan friksi dalam prosedur KYC sebagai hambatan utama. Perp DEX menawarkan perdagangan kontrak perpetual melalui infrastruktur terdesentralisasi, tetapi masih ada beban untuk memenuhi standar manajemen risiko dan verifikasi identitas yang dibutuhkan modal institusional. Jika hambatan ini tidak berkurang, partisipasi institusional yang lebih luas kemungkinan tetap terbatas. Sumber: coindesk.com"
+    }
+  }
+}
