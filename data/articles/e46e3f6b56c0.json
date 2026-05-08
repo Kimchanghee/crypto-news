@@ -1,0 +1,75 @@
+{
+  "id": "e46e3f6b56c0",
+  "slug": "mantle-tokenholders-approve-30k-eth-aave-credit-facility-aft-411157",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T12:21:21.187Z",
+  "updatedAt": "2026-05-08T12:21:21.187Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/mantle-tokenholders-aave-credit-facility-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/mantle-tokenholders-aave-credit-facility-rseth-exploit",
+  "titleFingerprint": "4dbb9dccb34f55d9ba5f8bc2d6f621347978d1b4",
+  "dedupKeys": [
+    "e46e3f6b56c06009738b4ad709d68bf1e0cdc46a",
+    "4dbb9dccb34f55d9ba5f8bc2d6f621347978d1b4",
+    "a7433b462f827e143b5f5595550d8d6d02e70206"
+  ],
+  "imageUrl": "/images/articles/e46e3f6b56c0.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Mantle 토큰 보유자, rsETH 익스플로잇 후 Aave 3만 ETH 신용한도 승인",
+      "excerpt": "Mantle 토큰 보유자들은 4월 rsETH 익스플로잇 이후 Aave의 WETH 시장에 부담을 준 부실채권 대응을 위해 3만 ETH 규모 신용한도를 승인했다.",
+      "body": "Mantle 토큰 보유자들이 4월 발생한 rsETH 익스플로잇 이후 Aave에 3만 ETH 규모의 신용한도를 제공하는 안을 승인했다. 이번 신용한도는 해당 사건으로 Aave의 WETH 시장이 압박을 받으며 발생한 부실채권 문제를 처리하는 데 쓰일 예정이다. 핵심 수치는 3만 ETH이며, 목적은 Aave가 rsETH 익스플로잇 이후 생긴 재무 부담을 완화하도록 돕는 것이다. 이번 승인으로 Aave는 WETH 시장의 악성 부채를 정리할 수 있는 추가 유동성 기반을 확보하게 됐다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "Mantle tokenholders approve 30K ETH Aave credit line after rsETH exploit",
+      "excerpt": "Mantle tokenholders approved a 30,000 ETH credit facility to help Aave address bad debt after April’s rsETH exploit strained its WETH market.",
+      "body": "Mantle tokenholders have approved a 30,000 ETH credit facility for Aave after the rsETH exploit in April. The facility is intended to help Aave deal with bad debt created when the incident put pressure on its WETH market. The key figure is 30,000 ETH, and the stated purpose is to ease the financial burden that followed the rsETH exploit. With the approval, Aave gains an additional liquidity backstop to address problematic debt in the WETH market. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "Mantle保有者、rsETH被害後にAave向け3万ETH信用枠を承認",
+      "excerpt": "Mantleのトークン保有者は、4月のrsETHエクスプロイトでAaveのWETH市場に生じた不良債務対応のため、3万ETHの信用枠を承認した。",
+      "body": "Mantleのトークン保有者は、4月に発生したrsETHエクスプロイトの後、Aaveに3万ETH規模の信用枠を提供する案を承認した。この信用枠は、同事件によりAaveのWETH市場が圧迫され、発生した不良債務への対応を支援する目的で使われる。主要な数値は3万ETHであり、目的はrsETHエクスプロイト後に生じた財務負担を和らげることだ。今回の承認により、AaveはWETH市場の問題債務を処理する追加の流動性基盤を得る。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "Mantle持币者批准Aave 3万ETH信贷额度，应对rsETH事件",
+      "excerpt": "Mantle代币持有者批准3万ETH信贷额度，以帮助Aave处理4月rsETH漏洞事件后其WETH市场承压产生的不良债务。",
+      "body": "Mantle代币持有者已批准向Aave提供3万ETH规模信贷额度的提案，此前4月发生的rsETH漏洞事件对Aave造成影响。该信贷额度将用于帮助Aave处理因事件导致其WETH市场承压而形成的不良债务。核心数字为3万ETH，目的在于缓解rsETH事件后出现的财务负担。随着该提案获批，Aave获得了额外流动性支持，可用于处理WETH市场中的问题债务。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "Mantle aprueba línea de 30K ETH para Aave tras el exploit de rsETH",
+      "excerpt": "Los holders de Mantle aprobaron una línea de crédito de 30.000 ETH para ayudar a Aave con deuda incobrable tras el exploit de rsETH de abril.",
+      "body": "Los holders de tokens Mantle aprobaron una línea de crédito de 30.000 ETH para Aave tras el exploit de rsETH ocurrido en abril. La facilidad busca ayudar a Aave a abordar la deuda incobrable generada cuando el incidente presionó su mercado de WETH. La cifra clave es 30.000 ETH, y el objetivo declarado es aliviar la carga financiera surgida después del exploit de rsETH. Con esta aprobación, Aave obtiene una base adicional de liquidez para tratar la deuda problemática en el mercado de WETH. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "Mantle aprova crédito de 30 mil ETH à Aave após exploit de rsETH",
+      "excerpt": "Detentores de Mantle aprovaram uma linha de crédito de 30.000 ETH para ajudar a Aave a lidar com dívida ruim após o exploit de rsETH em abril.",
+      "body": "Detentores do token Mantle aprovaram uma linha de crédito de 30.000 ETH para a Aave após o exploit de rsETH ocorrido em abril. A facilidade deve ajudar a Aave a enfrentar a dívida ruim criada quando o incidente pressionou seu mercado de WETH. O número central é 30.000 ETH, e o objetivo é aliviar o peso financeiro surgido depois do exploit de rsETH. Com a aprovação, a Aave passa a contar com uma base adicional de liquidez para tratar dívidas problemáticas no mercado de WETH. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "Mantle-Holder genehmigen 30K ETH Kreditlinie für Aave nach rsETH-Exploit",
+      "excerpt": "Mantle-Tokenholder genehmigten eine Kreditfazilität über 30.000 ETH, um Aave nach dem rsETH-Exploit im April bei faulen Schulden im WETH-Markt zu helfen.",
+      "body": "Mantle-Tokenholder haben nach dem rsETH-Exploit im April eine Kreditfazilität über 30.000 ETH für Aave genehmigt. Die Fazilität soll Aave helfen, faule Schulden zu bewältigen, die entstanden, als der Vorfall den WETH-Markt belastete. Die zentrale Zahl lautet 30.000 ETH; Zweck ist es, die finanzielle Belastung nach dem rsETH-Exploit zu verringern. Mit der Zustimmung erhält Aave eine zusätzliche Liquiditätsbasis, um problematische Schulden im WETH-Markt anzugehen. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "Mantle approuve 30K ETH de crédit pour Aave après l’exploit rsETH",
+      "excerpt": "Les détenteurs de Mantle ont approuvé une facilité de crédit de 30 000 ETH pour aider Aave à traiter la mauvaise dette liée à l’exploit rsETH d’avril.",
+      "body": "Les détenteurs de tokens Mantle ont approuvé une facilité de crédit de 30 000 ETH pour Aave après l’exploit rsETH survenu en avril. Cette facilité doit aider Aave à traiter la mauvaise dette créée lorsque l’incident a mis sous pression son marché WETH. Le chiffre clé est 30 000 ETH, avec pour objectif d’alléger la charge financière apparue après l’exploit rsETH. Grâce à cette approbation, Aave obtient un soutien de liquidité supplémentaire pour gérer la dette problématique du marché WETH. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "حاملو Mantle يقرون تسهيلات 30 ألف ETH لـ Aave بعد استغلال rsETH",
+      "excerpt": "وافق حاملو توكن Mantle على تسهيلات ائتمانية بقيمة 30 ألف ETH لمساعدة Aave في معالجة الديون الرديئة بعد استغلال rsETH في أبريل.",
+      "body": "وافق حاملو توكن Mantle على تقديم تسهيلات ائتمانية بقيمة 30 ألف ETH إلى Aave بعد استغلال rsETH الذي وقع في أبريل. وتهدف هذه التسهيلات إلى مساعدة Aave في معالجة الديون الرديئة التي نشأت بعدما ضغطت الحادثة على سوق WETH لديها. الرقم الأساسي هو 30 ألف ETH، والغرض هو تخفيف العبء المالي الذي ظهر بعد استغلال rsETH. وبموجب هذا الإقرار، تحصل Aave على دعم سيولة إضافي للتعامل مع الديون الإشكالية في سوق WETH. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "Mantle धारकों ने rsETH exploit के बाद Aave के लिए 30K ETH क्रेडिट मंजूर किया",
+      "excerpt": "Mantle टोकनधारकों ने अप्रैल के rsETH exploit के बाद Aave के WETH बाजार पर बने दबाव से उत्पन्न bad debt से निपटने के लिए 30,000 ETH क्रेडिट सुविधा मंजूर की।",
+      "body": "Mantle टोकनधारकों ने अप्रैल में हुए rsETH exploit के बाद Aave के लिए 30,000 ETH की क्रेडिट सुविधा को मंजूरी दी है। यह सुविधा Aave को उस bad debt से निपटने में मदद करने के लिए है, जो घटना के बाद उसके WETH बाजार पर दबाव पड़ने से बना। मुख्य आंकड़ा 30,000 ETH है, और उद्देश्य rsETH exploit के बाद पैदा हुए वित्तीय बोझ को कम करना है। इस मंजूरी से Aave को WETH बाजार की समस्याग्रस्त देनदारियों को संभालने के लिए अतिरिक्त liquidity आधार मिलता है। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "Pemegang Mantle setujui kredit 30K ETH untuk Aave usai exploit rsETH",
+      "excerpt": "Pemegang token Mantle menyetujui fasilitas kredit 30.000 ETH untuk membantu Aave menangani utang bermasalah setelah exploit rsETH April menekan pasar WETH.",
+      "body": "Pemegang token Mantle menyetujui fasilitas kredit 30.000 ETH untuk Aave setelah exploit rsETH yang terjadi pada April. Fasilitas ini ditujukan untuk membantu Aave menangani utang bermasalah yang muncul ketika insiden tersebut menekan pasar WETH miliknya. Angka utamanya adalah 30.000 ETH, dengan tujuan meringankan beban keuangan setelah exploit rsETH. Dengan persetujuan ini, Aave memperoleh dasar likuiditas tambahan untuk menangani utang bermasalah di pasar WETH. Sumber: cointelegraph.com"
+    }
+  }
+}

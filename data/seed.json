@@ -1,5 +1,230 @@
 [
   {
+    "id": "b6c17247701b",
+    "slug": "morning-minute-coinbase-misses-earnings-on-surprise-loss-657304",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T12:22:13.578Z",
+    "updatedAt": "2026-05-08T12:22:13.578Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367241/morning-minute-coinbase-misses-earnings-on-surprise-loss",
+    "canonicalUrl": "https://decrypt.co/367241/morning-minute-coinbase-misses-earnings-on-surprise-loss",
+    "titleFingerprint": "1ce824496c1922ea6137c39c35433c86d89d9c05",
+    "dedupKeys": [
+      "b6c17247701b109c2aca009b11b24e41d1fd2aff",
+      "1ce824496c1922ea6137c39c35433c86d89d9c05",
+      "a3ff8815069fdef53c6f9ea9df58cf30a02cc21f"
+    ],
+    "imageUrl": "/images/articles/b6c17247701b.png",
+    "i18n": {
+      "ko": {
+        "title": "Coinbase 실적 쇼크, 예상 밖 손실에도 신사업 성장 주목",
+        "excerpt": "Coinbase가 예상 밖 손실로 실적 기대를 밑돈 가운데, 신규 사업 중 하나는 빠르게 확장되고 있으며 Tom Lee의 이더리움 매수 속도 둔화 가능성도 함께 전해졌다.",
+        "body": "Coinbase가 최근 실적 발표에서 예상 밖 손실을 기록하며 시장 기대에 미치지 못했다. 이번 소식은 Decrypt의 Morning Minute를 통해 전해졌으며, 핵심은 실적 부진과 함께 회사의 새로운 성장 축이 빠르게 커지고 있다는 점이다. Coinbase의 신규 사업 중 하나는 매우 빠른 속도로 규모를 키우고 있는 것으로 언급됐다. 동시에 Tom Lee가 그동안 이어온 이더리움 매수를 마침내 늦추고 있을 가능성도 제기됐다. 실적 미달은 단기적으로 투자 심리에 부담이 될 수 있지만, 빠르게 확장되는 신사업은 향후 Coinbase 평가에서 중요한 변수로 남을 전망이다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Coinbase Earnings Miss as Surprise Loss Puts New Growth in Focus",
+        "excerpt": "Coinbase missed earnings after a surprise loss, while one of its newest businesses is scaling quickly and Tom Lee may be slowing his Ethereum purchases.",
+        "body": "Coinbase recently missed earnings after reporting a surprise loss, according to Decrypt’s Morning Minute. The report framed the setback alongside a fast-growing part of the company’s newer business lineup. One of Coinbase’s newest businesses is said to be scaling incredibly fast, offering a counterpoint to the earnings disappointment. The update also noted that Tom Lee may finally be slowing his Ethereum buying. The earnings miss could weigh on near-term sentiment, but the rapid expansion of a newer business may remain an important factor in how investors assess Coinbase going forward. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "Coinbase決算未達、予想外の赤字でも新事業成長に注目",
+        "excerpt": "Coinbaseは予想外の赤字で決算が市場期待を下回った一方、新事業の一つは急速に拡大し、Tom Leeのイーサリアム購入鈍化の可能性も伝えられた。",
+        "body": "Coinbaseは最近の決算で予想外の赤字を計上し、市場の期待を下回った。DecryptのMorning Minuteが伝えたもので、焦点は決算不振だけでなく、新たな成長分野の拡大にもある。Coinbaseの新事業の一つは非常に速いペースで規模を拡大しているとされた。同時に、Tom Leeが続けてきたイーサリアム購入をようやく鈍らせている可能性も触れられた。決算未達は短期的な投資家心理の重荷となり得るが、急成長する新事業は今後のCoinbase評価で重要な材料となりそうだ。出典: decrypt.co。"
+      },
+      "zh": {
+        "title": "Coinbase业绩不及预期，意外亏损下新业务增长受关注",
+        "excerpt": "Coinbase因意外亏损导致业绩低于预期，但其最新业务之一正在快速扩张，同时Tom Lee可能正在放缓以太坊买入步伐。",
+        "body": "据Decrypt的Morning Minute报道，Coinbase近期公布的业绩因出现意外亏损而未能达到市场预期。报道的重点不仅是业绩失利，也包括公司新增长业务的扩张。Coinbase最新业务之一据称正在以非常快的速度扩大规模，为业绩不及预期提供了另一层背景。同时，报道还提到Tom Lee可能终于在放缓其以太坊买入。短期来看，业绩未达预期可能影响投资情绪，但快速扩张的新业务仍可能成为未来评估Coinbase的重要因素。来源: decrypt.co。"
+      },
+      "es": {
+        "title": "Coinbase falla en resultados por pérdida sorpresa, pero crece un nuevo negocio",
+        "excerpt": "Coinbase no alcanzó las expectativas de resultados tras una pérdida inesperada, mientras uno de sus negocios más nuevos escala rápido y Tom Lee podría frenar compras de Ethereum.",
+        "body": "Coinbase incumplió las expectativas de resultados tras registrar una pérdida inesperada, según Morning Minute de Decrypt. La noticia combina el tropiezo financiero con una señal de crecimiento dentro de una de las líneas más nuevas de la compañía. Uno de los negocios recientes de Coinbase está escalando a gran velocidad, lo que matiza el impacto del mal dato de resultados. El informe también señaló que Tom Lee podría estar reduciendo finalmente sus compras de Ethereum. La pérdida sorpresa puede presionar el ánimo de los inversores a corto plazo, pero el avance de ese nuevo negocio seguirá siendo un factor relevante para evaluar a Coinbase. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Coinbase decepciona no balanço com perda surpresa, mas novo negócio avança",
+        "excerpt": "A Coinbase ficou abaixo das expectativas após uma perda inesperada, enquanto um de seus negócios mais novos cresce rapidamente e Tom Lee pode reduzir compras de Ethereum.",
+        "body": "A Coinbase ficou aquém das expectativas de resultados após registrar uma perda inesperada, segundo o Morning Minute da Decrypt. A notícia destaca não só o desempenho fraco, mas também a rápida expansão de uma das novas áreas da empresa. Um dos negócios mais recentes da Coinbase estaria ganhando escala em ritmo muito acelerado, oferecendo um contraponto ao resultado decepcionante. O relatório também mencionou que Tom Lee pode finalmente estar diminuindo suas compras de Ethereum. No curto prazo, o resultado abaixo do esperado pode pesar sobre o sentimento do mercado, mas o crescimento desse novo negócio deve seguir como fator importante na avaliação da Coinbase. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Coinbase verfehlt Gewinnziele nach Überraschungsverlust, neues Geschäft wächst",
+        "excerpt": "Coinbase hat die Gewinnerwartungen nach einem überraschenden Verlust verfehlt, während ein neues Geschäft stark skaliert und Tom Lee Ethereum-Käufe wohl verlangsamt.",
+        "body": "Coinbase hat die Gewinnerwartungen nach einem überraschenden Verlust verfehlt, wie Decrypt im Morning Minute berichtete. Die Meldung stellt die schwachen Zahlen zugleich in den Kontext eines schnell wachsenden neuen Geschäftsbereichs. Eines der jüngsten Geschäfte von Coinbase soll sich in sehr hohem Tempo skalieren lassen und bildet damit einen wichtigen Gegenpunkt zur Enttäuschung bei den Ergebnissen. Zudem hieß es, Tom Lee könnte seine Ethereum-Käufe nun endlich verlangsamen. Kurzfristig kann der Ergebnisrückschlag die Anlegerstimmung belasten, doch das schnelle Wachstum des neuen Geschäfts dürfte für die weitere Bewertung von Coinbase relevant bleiben. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Coinbase manque ses résultats avec une perte surprise, un nouveau relais accélère",
+        "excerpt": "Coinbase a déçu les attentes après une perte surprise, tandis que l’une de ses nouvelles activités croît très vite et que Tom Lee pourrait ralentir ses achats d’Ethereum.",
+        "body": "Coinbase a manqué les attentes de résultats après avoir enregistré une perte surprise, selon le Morning Minute de Decrypt. L’information met en avant la déception financière, mais aussi la montée rapide d’une nouvelle activité de l’entreprise. L’un des métiers les plus récents de Coinbase serait en train de changer d’échelle à un rythme très soutenu, ce qui nuance le revers lié aux résultats. Le rapport indique aussi que Tom Lee pourrait enfin ralentir ses achats d’Ethereum. À court terme, cette contre-performance peut peser sur le sentiment des investisseurs, mais la progression de cette nouvelle activité restera un élément important pour évaluer Coinbase. Source: decrypt.co."
+      },
+      "ar": {
+        "title": "Coinbase تخفق في النتائج بسبب خسارة مفاجئة ونشاط جديد يتوسع سريعاً",
+        "excerpt": "أخفقت Coinbase في تحقيق توقعات الأرباح بعد خسارة مفاجئة، بينما يتوسع أحد أحدث أنشطتها بسرعة كبيرة وقد يكون Tom Lee يبطئ مشترياته من إيثريوم.",
+        "body": "أخفقت Coinbase مؤخراً في تحقيق توقعات النتائج بعد تسجيل خسارة مفاجئة، وفقاً لنشرة Morning Minute من Decrypt. يضع التقرير هذا الضعف المالي إلى جانب نمو سريع في أحد الأنشطة الجديدة للشركة. فقد أُشير إلى أن واحداً من أحدث أعمال Coinbase يتوسع بوتيرة كبيرة، ما يضيف بعداً آخر إلى قراءة النتائج المخيبة. كما ذكر التقرير أن Tom Lee قد يكون بدأ أخيراً في إبطاء مشترياته من إيثريوم. على المدى القصير، قد تضغط الخسارة غير المتوقعة على معنويات المستثمرين، لكن توسع النشاط الجديد قد يبقى عاملاً مهماً في تقييم Coinbase مستقبلاً. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "Coinbase नतीजे चूकी, अचानक नुकसान के बीच नए कारोबार की तेज रफ्तार",
+        "excerpt": "Coinbase ने अचानक नुकसान के बाद कमाई के अनुमान चूके, जबकि उसका एक नया कारोबार तेजी से बढ़ रहा है और Tom Lee संभवतः Ethereum खरीद की रफ्तार धीमी कर रहे हैं।",
+        "body": "Decrypt के Morning Minute के अनुसार, Coinbase ने हालिया नतीजों में अचानक नुकसान दर्ज किया और कमाई की उम्मीदों से चूक गई। रिपोर्ट का मुख्य बिंदु केवल कमजोर नतीजे नहीं, बल्कि कंपनी के एक नए कारोबार की तेज बढ़त भी है। Coinbase के सबसे नए कारोबारों में से एक बहुत तेजी से पैमाना बढ़ा रहा है, जो नतीजों की निराशा के बीच अहम संदर्भ देता है। साथ ही रिपोर्ट में कहा गया कि Tom Lee संभवतः अपनी Ethereum खरीद को आखिरकार धीमा कर रहे हैं। अल्पावधि में यह नतीजा निवेशक भावना पर दबाव डाल सकता है, लेकिन तेजी से बढ़ता नया कारोबार आगे Coinbase के मूल्यांकन में महत्वपूर्ण कारक रह सकता है। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Coinbase Gagal Penuhi Laba karena Rugi Tak Terduga, Bisnis Baru Disorot",
+        "excerpt": "Coinbase gagal memenuhi ekspektasi laba setelah rugi tak terduga, sementara salah satu bisnis barunya tumbuh cepat dan Tom Lee mungkin memperlambat pembelian Ethereum.",
+        "body": "Coinbase baru-baru ini gagal memenuhi ekspektasi laba setelah mencatat rugi tak terduga, menurut Morning Minute dari Decrypt. Laporan itu menyoroti kinerja yang mengecewakan sekaligus pertumbuhan cepat pada salah satu lini bisnis baru perusahaan. Salah satu bisnis terbaru Coinbase disebut sedang berkembang dalam skala yang sangat cepat, menjadi konteks penting di balik hasil yang lemah. Laporan tersebut juga menyebut Tom Lee mungkin akhirnya memperlambat pembelian Ethereum. Dalam jangka pendek, kegagalan laba dapat menekan sentimen investor, tetapi ekspansi bisnis baru itu tetap bisa menjadi faktor penting dalam penilaian Coinbase ke depan. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "e46e3f6b56c0",
+    "slug": "mantle-tokenholders-approve-30k-eth-aave-credit-facility-aft-411157",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T12:21:21.187Z",
+    "updatedAt": "2026-05-08T12:21:21.187Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/mantle-tokenholders-aave-credit-facility-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/mantle-tokenholders-aave-credit-facility-rseth-exploit",
+    "titleFingerprint": "4dbb9dccb34f55d9ba5f8bc2d6f621347978d1b4",
+    "dedupKeys": [
+      "e46e3f6b56c06009738b4ad709d68bf1e0cdc46a",
+      "4dbb9dccb34f55d9ba5f8bc2d6f621347978d1b4",
+      "a7433b462f827e143b5f5595550d8d6d02e70206"
+    ],
+    "imageUrl": "/images/articles/e46e3f6b56c0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Mantle 토큰 보유자, rsETH 익스플로잇 후 Aave 3만 ETH 신용한도 승인",
+        "excerpt": "Mantle 토큰 보유자들은 4월 rsETH 익스플로잇 이후 Aave의 WETH 시장에 부담을 준 부실채권 대응을 위해 3만 ETH 규모 신용한도를 승인했다.",
+        "body": "Mantle 토큰 보유자들이 4월 발생한 rsETH 익스플로잇 이후 Aave에 3만 ETH 규모의 신용한도를 제공하는 안을 승인했다. 이번 신용한도는 해당 사건으로 Aave의 WETH 시장이 압박을 받으며 발생한 부실채권 문제를 처리하는 데 쓰일 예정이다. 핵심 수치는 3만 ETH이며, 목적은 Aave가 rsETH 익스플로잇 이후 생긴 재무 부담을 완화하도록 돕는 것이다. 이번 승인으로 Aave는 WETH 시장의 악성 부채를 정리할 수 있는 추가 유동성 기반을 확보하게 됐다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Mantle tokenholders approve 30K ETH Aave credit line after rsETH exploit",
+        "excerpt": "Mantle tokenholders approved a 30,000 ETH credit facility to help Aave address bad debt after April’s rsETH exploit strained its WETH market.",
+        "body": "Mantle tokenholders have approved a 30,000 ETH credit facility for Aave after the rsETH exploit in April. The facility is intended to help Aave deal with bad debt created when the incident put pressure on its WETH market. The key figure is 30,000 ETH, and the stated purpose is to ease the financial burden that followed the rsETH exploit. With the approval, Aave gains an additional liquidity backstop to address problematic debt in the WETH market. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "Mantle保有者、rsETH被害後にAave向け3万ETH信用枠を承認",
+        "excerpt": "Mantleのトークン保有者は、4月のrsETHエクスプロイトでAaveのWETH市場に生じた不良債務対応のため、3万ETHの信用枠を承認した。",
+        "body": "Mantleのトークン保有者は、4月に発生したrsETHエクスプロイトの後、Aaveに3万ETH規模の信用枠を提供する案を承認した。この信用枠は、同事件によりAaveのWETH市場が圧迫され、発生した不良債務への対応を支援する目的で使われる。主要な数値は3万ETHであり、目的はrsETHエクスプロイト後に生じた財務負担を和らげることだ。今回の承認により、AaveはWETH市場の問題債務を処理する追加の流動性基盤を得る。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "Mantle持币者批准Aave 3万ETH信贷额度，应对rsETH事件",
+        "excerpt": "Mantle代币持有者批准3万ETH信贷额度，以帮助Aave处理4月rsETH漏洞事件后其WETH市场承压产生的不良债务。",
+        "body": "Mantle代币持有者已批准向Aave提供3万ETH规模信贷额度的提案，此前4月发生的rsETH漏洞事件对Aave造成影响。该信贷额度将用于帮助Aave处理因事件导致其WETH市场承压而形成的不良债务。核心数字为3万ETH，目的在于缓解rsETH事件后出现的财务负担。随着该提案获批，Aave获得了额外流动性支持，可用于处理WETH市场中的问题债务。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Mantle aprueba línea de 30K ETH para Aave tras el exploit de rsETH",
+        "excerpt": "Los holders de Mantle aprobaron una línea de crédito de 30.000 ETH para ayudar a Aave con deuda incobrable tras el exploit de rsETH de abril.",
+        "body": "Los holders de tokens Mantle aprobaron una línea de crédito de 30.000 ETH para Aave tras el exploit de rsETH ocurrido en abril. La facilidad busca ayudar a Aave a abordar la deuda incobrable generada cuando el incidente presionó su mercado de WETH. La cifra clave es 30.000 ETH, y el objetivo declarado es aliviar la carga financiera surgida después del exploit de rsETH. Con esta aprobación, Aave obtiene una base adicional de liquidez para tratar la deuda problemática en el mercado de WETH. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Mantle aprova crédito de 30 mil ETH à Aave após exploit de rsETH",
+        "excerpt": "Detentores de Mantle aprovaram uma linha de crédito de 30.000 ETH para ajudar a Aave a lidar com dívida ruim após o exploit de rsETH em abril.",
+        "body": "Detentores do token Mantle aprovaram uma linha de crédito de 30.000 ETH para a Aave após o exploit de rsETH ocorrido em abril. A facilidade deve ajudar a Aave a enfrentar a dívida ruim criada quando o incidente pressionou seu mercado de WETH. O número central é 30.000 ETH, e o objetivo é aliviar o peso financeiro surgido depois do exploit de rsETH. Com a aprovação, a Aave passa a contar com uma base adicional de liquidez para tratar dívidas problemáticas no mercado de WETH. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Mantle-Holder genehmigen 30K ETH Kreditlinie für Aave nach rsETH-Exploit",
+        "excerpt": "Mantle-Tokenholder genehmigten eine Kreditfazilität über 30.000 ETH, um Aave nach dem rsETH-Exploit im April bei faulen Schulden im WETH-Markt zu helfen.",
+        "body": "Mantle-Tokenholder haben nach dem rsETH-Exploit im April eine Kreditfazilität über 30.000 ETH für Aave genehmigt. Die Fazilität soll Aave helfen, faule Schulden zu bewältigen, die entstanden, als der Vorfall den WETH-Markt belastete. Die zentrale Zahl lautet 30.000 ETH; Zweck ist es, die finanzielle Belastung nach dem rsETH-Exploit zu verringern. Mit der Zustimmung erhält Aave eine zusätzliche Liquiditätsbasis, um problematische Schulden im WETH-Markt anzugehen. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Mantle approuve 30K ETH de crédit pour Aave après l’exploit rsETH",
+        "excerpt": "Les détenteurs de Mantle ont approuvé une facilité de crédit de 30 000 ETH pour aider Aave à traiter la mauvaise dette liée à l’exploit rsETH d’avril.",
+        "body": "Les détenteurs de tokens Mantle ont approuvé une facilité de crédit de 30 000 ETH pour Aave après l’exploit rsETH survenu en avril. Cette facilité doit aider Aave à traiter la mauvaise dette créée lorsque l’incident a mis sous pression son marché WETH. Le chiffre clé est 30 000 ETH, avec pour objectif d’alléger la charge financière apparue après l’exploit rsETH. Grâce à cette approbation, Aave obtient un soutien de liquidité supplémentaire pour gérer la dette problématique du marché WETH. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "حاملو Mantle يقرون تسهيلات 30 ألف ETH لـ Aave بعد استغلال rsETH",
+        "excerpt": "وافق حاملو توكن Mantle على تسهيلات ائتمانية بقيمة 30 ألف ETH لمساعدة Aave في معالجة الديون الرديئة بعد استغلال rsETH في أبريل.",
+        "body": "وافق حاملو توكن Mantle على تقديم تسهيلات ائتمانية بقيمة 30 ألف ETH إلى Aave بعد استغلال rsETH الذي وقع في أبريل. وتهدف هذه التسهيلات إلى مساعدة Aave في معالجة الديون الرديئة التي نشأت بعدما ضغطت الحادثة على سوق WETH لديها. الرقم الأساسي هو 30 ألف ETH، والغرض هو تخفيف العبء المالي الذي ظهر بعد استغلال rsETH. وبموجب هذا الإقرار، تحصل Aave على دعم سيولة إضافي للتعامل مع الديون الإشكالية في سوق WETH. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Mantle धारकों ने rsETH exploit के बाद Aave के लिए 30K ETH क्रेडिट मंजूर किया",
+        "excerpt": "Mantle टोकनधारकों ने अप्रैल के rsETH exploit के बाद Aave के WETH बाजार पर बने दबाव से उत्पन्न bad debt से निपटने के लिए 30,000 ETH क्रेडिट सुविधा मंजूर की।",
+        "body": "Mantle टोकनधारकों ने अप्रैल में हुए rsETH exploit के बाद Aave के लिए 30,000 ETH की क्रेडिट सुविधा को मंजूरी दी है। यह सुविधा Aave को उस bad debt से निपटने में मदद करने के लिए है, जो घटना के बाद उसके WETH बाजार पर दबाव पड़ने से बना। मुख्य आंकड़ा 30,000 ETH है, और उद्देश्य rsETH exploit के बाद पैदा हुए वित्तीय बोझ को कम करना है। इस मंजूरी से Aave को WETH बाजार की समस्याग्रस्त देनदारियों को संभालने के लिए अतिरिक्त liquidity आधार मिलता है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Pemegang Mantle setujui kredit 30K ETH untuk Aave usai exploit rsETH",
+        "excerpt": "Pemegang token Mantle menyetujui fasilitas kredit 30.000 ETH untuk membantu Aave menangani utang bermasalah setelah exploit rsETH April menekan pasar WETH.",
+        "body": "Pemegang token Mantle menyetujui fasilitas kredit 30.000 ETH untuk Aave setelah exploit rsETH yang terjadi pada April. Fasilitas ini ditujukan untuk membantu Aave menangani utang bermasalah yang muncul ketika insiden tersebut menekan pasar WETH miliknya. Angka utamanya adalah 30.000 ETH, dengan tujuan meringankan beban keuangan setelah exploit rsETH. Dengan persetujuan ini, Aave memperoleh dasar likuiditas tambahan untuk menangani utang bermasalah di pasar WETH. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "034aad30cd01",
+    "slug": "four-signs-that-show-ethereums-rally-is-exhausted-at-24k-284086",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T12:20:32.552Z",
+    "updatedAt": "2026-05-08T12:20:32.552Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/four-signs-show-ethereum-eth-price-rally-exhausted-2-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/four-signs-show-ethereum-eth-price-rally-exhausted-2-4k",
+    "titleFingerprint": "20f8d45b71a19792d732e3e1264afe2c8498f365",
+    "dedupKeys": [
+      "034aad30cd01cc5998bd3074de399ff1fe2b18af",
+      "20f8d45b71a19792d732e3e1264afe2c8498f365",
+      "80f67b77493cfe70d533a2eaa43367019a37785a"
+    ],
+    "imageUrl": "/images/articles/034aad30cd01.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이더리움 2,400달러 랠리 둔화 신호, 수요 약화가 변수",
+        "excerpt": "이더리움은 최근 2,400달러 부근 랠리를 이어가지 못했고, 수요 감소와 네트워크 펀더멘털 약화가 ETH 가격의 추가 하락 가능성을 키우고 있다.",
+        "body": "이더리움(ETH)은 최근 2,400달러 부근에서 상승세를 이어가지 못하며 시장의 주목을 받고 있다. cointelegraph.com에 따르면 여러 이더리움 지표는 수요 감소와 네트워크 펀더멘털 약화를 가리키며, ETH 가격이 추가 하락 압력을 받을 수 있음을 시사한다. 기사에서 제시된 핵심 신호는 랠리 피로, 줄어든 수요, 약해진 네트워크 활동, 가격 방어력 저하다. 이는 투자자들이 단기 반등보다 기초 지표의 회복 여부를 더 주의 깊게 봐야 하는 배경으로 해석된다. 출처는 cointelegraph.com이다."
+      },
+      "en": {
+        "title": "Ethereum Rally Near $2,400 Slows as Demand Signals Weaken",
+        "excerpt": "Ethereum has struggled to extend its rally near $2,400, while weaker demand and softer network fundamentals point to possible further downside for ETH.",
+        "body": "Ethereum (ETH) has drawn attention after failing to sustain momentum around the $2,400 area. According to cointelegraph.com, several Ethereum metrics point to reduced demand and weakening network fundamentals, suggesting ETH could face additional downside pressure. The key signs highlighted are rally exhaustion, lower demand, softer network activity and weaker price support. For investors, the report frames the issue as less about a short-term bounce and more about whether Ethereum’s underlying indicators can recover. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "イーサリアム2,400ドル付近の上昇鈍化、需要低下が重し",
+        "excerpt": "イーサリアムは2,400ドル付近で上昇を維持できず、需要の減少とネットワーク基盤の弱さがETH価格の追加下落リスクを示している。",
+        "body": "イーサリアム（ETH）は最近、2,400ドル付近で上昇の勢いを維持できず、市場の注目を集めている。cointelegraph.comによると、複数のイーサリアム指標は需要の低下とネットワークのファンダメンタルズ悪化を示し、ETH価格にさらなる下押し圧力がかかる可能性を示唆している。記事が挙げた主なサインは、ラリーの疲れ、需要減少、ネットワーク活動の弱まり、価格支持力の低下だ。投資家にとって焦点は短期反発より、基礎指標が回復するかどうかにある。出典はcointelegraph.com。"
+      },
+      "zh": {
+        "title": "以太坊2,400美元附近涨势放缓，需求走弱成压力",
+        "excerpt": "以太坊近期未能在2,400美元附近延续涨势，需求下降和网络基本面转弱显示ETH价格仍可能面临进一步下行压力。",
+        "body": "以太坊（ETH）近期在2,400美元附近未能维持上涨动能，引发市场关注。cointelegraph.com称，多项以太坊指标显示需求减少、网络基本面走弱，暗示ETH价格可能继续承受下行压力。报道提到的主要信号包括涨势疲劳、需求下降、网络活动减弱以及价格支撑能力降低。对投资者而言，重点不只是短期反弹，而是以太坊基础指标能否恢复。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "Ethereum pierde fuerza cerca de $2.400 por menor demanda",
+        "excerpt": "Ethereum no logró sostener su avance cerca de los $2.400, mientras la menor demanda y fundamentos de red más débiles apuntan a posible presión bajista.",
+        "body": "Ethereum (ETH) volvió a quedar bajo atención tras no sostener el impulso cerca de los $2.400. Según cointelegraph.com, varios indicadores de Ethereum apuntan a una reducción de la demanda y a fundamentos de red más débiles, lo que sugiere que el precio de ETH podría enfrentar más presión bajista. Las señales clave son agotamiento del rally, menor demanda, actividad de red más floja y menor capacidad de defensa del precio. Para los inversores, el foco está en si esos indicadores básicos logran recuperarse. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Ethereum perde força perto de US$ 2.400 com demanda menor",
+        "excerpt": "O Ethereum não conseguiu sustentar a alta perto de US$ 2.400, enquanto demanda menor e fundamentos de rede mais fracos indicam risco de nova queda.",
+        "body": "O Ethereum (ETH) voltou ao foco do mercado após não conseguir sustentar o impulso perto de US$ 2.400. Segundo o cointelegraph.com, vários indicadores do Ethereum apontam para demanda reduzida e fundamentos de rede enfraquecidos, sugerindo que o preço do ETH pode sofrer nova pressão de baixa. Os principais sinais são esgotamento do rali, menor demanda, atividade de rede mais fraca e menor sustentação de preço. Para investidores, a questão central é se os indicadores básicos da rede conseguirão se recuperar. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Ethereum-Rally bei 2.400 Dollar verliert wegen schwacher Nachfrage",
+        "excerpt": "Ethereum konnte die Rally nahe 2.400 Dollar nicht halten; geringere Nachfrage und schwächere Netzwerkdaten deuten auf möglichen weiteren Abwärtsdruck hin.",
+        "body": "Ethereum (ETH) steht im Fokus, nachdem die Bewegung nahe 2.400 Dollar nicht nachhaltig blieb. Laut cointelegraph.com zeigen mehrere Ethereum-Kennzahlen eine geringere Nachfrage und schwächere Netzwerkfundamentaldaten, was auf zusätzlichen Abwärtsdruck für ETH hindeuten könnte. Die wichtigsten Signale sind eine erschöpfte Rally, sinkende Nachfrage, schwächere Netzwerkaktivität und nachlassende Preisstützung. Für Anleger rückt damit weniger eine kurzfristige Erholung als die Frage in den Vordergrund, ob sich die Basisdaten erholen. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Ethereum faiblit près de 2 400 dollars alors que la demande recule",
+        "excerpt": "Ethereum n’a pas réussi à prolonger sa hausse près de 2 400 dollars, tandis qu’une demande plus faible et des fondamentaux réseau fragiles pèsent sur ETH.",
+        "body": "Ethereum (ETH) attire l’attention après avoir échoué à maintenir son élan autour de 2 400 dollars. Selon cointelegraph.com, plusieurs indicateurs d’Ethereum signalent une demande réduite et des fondamentaux réseau affaiblis, ce qui pourrait exposer le prix de l’ETH à une pression baissière supplémentaire. Les principaux signes sont l’essoufflement du rally, la baisse de la demande, une activité réseau plus faible et un soutien de prix moins solide. Pour les investisseurs, l’enjeu est la reprise éventuelle des indicateurs de base. Source : cointelegraph.com."
+      },
+      "ar": {
+        "title": "إيثريوم تفقد الزخم قرب 2,400 دولار مع تراجع الطلب",
+        "excerpt": "لم تتمكن إيثريوم من مواصلة صعودها قرب 2,400 دولار، فيما يشير ضعف الطلب وتراجع أساسيات الشبكة إلى احتمال استمرار الضغط الهبوطي على ETH.",
+        "body": "أصبحت إيثريوم (ETH) موضع اهتمام بعد فشلها في الحفاظ على الزخم قرب مستوى 2,400 دولار. ووفقًا لموقع cointelegraph.com، تشير عدة مقاييس خاصة بإيثريوم إلى انخفاض الطلب وضعف أساسيات الشبكة، ما قد يعني تعرض سعر ETH لمزيد من الضغط الهبوطي. وتشمل الإشارات الرئيسية إرهاق موجة الصعود، وتراجع الطلب، وضعف نشاط الشبكة، وانخفاض قدرة السعر على الصمود. وبالنسبة للمستثمرين، يتركز الاهتمام على ما إذا كانت المؤشرات الأساسية ستتعافى. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Ethereum की $2,400 रैली धीमी, कमजोर मांग बनी दबाव",
+        "excerpt": "Ethereum $2,400 के पास अपनी तेजी बनाए नहीं रख सका, जबकि घटती मांग और कमजोर नेटवर्क फंडामेंटल ETH में और गिरावट के जोखिम की ओर संकेत करते हैं।",
+        "body": "Ethereum (ETH) हाल में $2,400 के आसपास तेजी कायम नहीं रख सका, जिससे बाजार का ध्यान इस पर गया। cointelegraph.com के अनुसार, Ethereum के कई संकेतक घटती मांग और कमजोर नेटवर्क फंडामेंटल की ओर इशारा करते हैं, जिससे ETH कीमत पर और गिरावट का दबाव बन सकता है। मुख्य संकेतों में रैली की थकान, कम मांग, कमजोर नेटवर्क गतिविधि और कीमत को सहारा देने की घटती क्षमता शामिल है। निवेशकों के लिए सवाल अल्पकालिक उछाल से अधिक यह है कि बुनियादी संकेतक सुधरते हैं या नहीं। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Reli Ethereum Dekat $2.400 Melemah saat Permintaan Turun",
+        "excerpt": "Ethereum gagal mempertahankan reli di dekat $2.400, sementara turunnya permintaan dan melemahnya fundamental jaringan menunjukkan risiko tekanan lanjutan.",
+        "body": "Ethereum (ETH) menjadi perhatian setelah gagal mempertahankan momentum di sekitar $2.400. Menurut cointelegraph.com, sejumlah metrik Ethereum menunjukkan permintaan yang menurun dan fundamental jaringan yang melemah, sehingga harga ETH dapat menghadapi tekanan turun lebih lanjut. Sinyal utama yang disorot adalah reli yang mulai lelah, permintaan lebih rendah, aktivitas jaringan melemah, dan daya tahan harga yang menurun. Bagi investor, fokusnya bukan hanya pantulan jangka pendek, tetapi apakah indikator dasar Ethereum dapat pulih. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "f1f098069347",
     "slug": "arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-136045",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "PAC Kripto Gelontorkan US$7,2 Juta untuk Kandidat di 5 Negara Bagian AS",
         "excerpt": "Dua afiliasi PAC Fairshake yang didukung industri kripto melaporkan pembelian media senilai US$7,2 juta pekan ini untuk mendukung kandidat di Georgia, Alabama, Nebraska, Kentucky, dan Texas.",
         "body": "Menjelang pemilu Amerika Serikat, dua afiliasi komite aksi politik Fairshake yang didukung industri kripto melaporkan pembelian media pekan ini untuk mendukung kandidat di lima negara bagian. Menurut cointelegraph.com, total pengeluaran mencapai US$7,2 juta, dengan sasaran Georgia, Alabama, Nebraska, Kentucky, dan Texas. Pengeluaran ini menunjukkan bahwa PAC terkait kripto menyalurkan dana ke iklan dan penempatan media untuk mendukung kandidat politik tertentu selama periode pemilu. Laporan asli tidak merinci daftar kandidat maupun pembagian dana per negara bagian. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "e4d4320b75b5",
-    "slug": "trump-sons-haven39t-abandoned-world-liberty-financial-crypto-296889",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T22:14:47.536Z",
-    "updatedAt": "2026-05-07T22:14:47.536Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367215/trump-sons-havent-abandoned-world-liberty-financial",
-    "canonicalUrl": "https://decrypt.co/367215/trump-sons-havent-abandoned-world-liberty-financial",
-    "titleFingerprint": "0d0945fb123806aa3c6ce6ac990eb5969370f97b",
-    "dedupKeys": [
-      "e4d4320b75b50bfc7661801bead408225664e528",
-      "0d0945fb123806aa3c6ce6ac990eb5969370f97b",
-      "1cb541c349c0c1fa72dc52fa99dbc9ae22dac5a7"
-    ],
-    "imageUrl": "/images/articles/e4d4320b75b5.png",
-    "i18n": {
-      "ko": {
-        "title": "월드 리버티 파이낸셜 “트럼프 아들들, 사업 떠나지 않았다”",
-        "excerpt": "월드 리버티 파이낸셜은 목요일 트럼프 아들들이 회사를 떠났다는 관측을 부인하고, 은행 인가 승인 절차가 트럼프 행정부에서 최종 단계라고 밝혔다.",
-        "body": "월드 리버티 파이낸셜은 목요일 트럼프 전 대통령의 아들들이 암호화폐 회사에서 물러난 것이 아니라고 밝혔다. 공동창업자 잭 위트코프는 회사가 트럼프 행정부로부터 은행 인가 승인을 받는 절차의 “최종 단계”에 있다고 말했다. 이번 발언은 트럼프 일가와 월드 리버티 파이낸셜의 관계, 그리고 이 회사의 규제상 지위에 대한 시장의 관심이 이어지는 가운데 나왔다. 은행 인가가 실제로 승인될 경우 회사의 사업 구조와 대외 신뢰도에 영향을 줄 수 있지만, 현재 공개된 내용은 승인 절차가 진행 중이라는 설명에 그친다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "World Liberty Financial Says Trump Sons Have Not Left Crypto Firm",
-        "excerpt": "World Liberty Financial said Thursday that Trump’s sons have not abandoned the crypto firm, while co-founder Zach Witkoff said its bank charter approval is in the final stages.",
-        "body": "World Liberty Financial said Thursday that former President Trump’s sons have not stepped away from the crypto company. Co-founder Zach Witkoff also said the firm is in the “final stages” of receiving bank charter approval from the Trump administration. The comments come as market attention continues around the Trump family’s relationship with World Liberty Financial and the company’s regulatory status. If a bank charter is ultimately approved, it could affect the firm’s business structure and external credibility, but the information currently disclosed only states that the approval process is ongoing. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "ワールド・リバティ、トランプ氏の息子ら離脱を否定",
-        "excerpt": "ワールド・リバティ・ファイナンシャルは木曜日、トランプ氏の息子らが同社を離れていないと説明し、銀行認可の承認手続きは最終段階にあると述べた。",
-        "body": "ワールド・リバティ・ファイナンシャルは木曜日、トランプ前大統領の息子らが暗号資産企業から退いたわけではないと明らかにした。共同創業者のザック・ウィトコフ氏は、同社がトランプ政権から銀行認可の承認を受ける手続きの「最終段階」にあるとも述べた。この発言は、トランプ一族とワールド・リバティ・ファイナンシャルの関係、そして同社の規制上の立場に市場の関心が続く中で出た。銀行認可が実際に承認されれば、同社の事業構造や対外的な信頼性に影響する可能性があるが、現時点で公開された内容は承認手続きが進行中という説明にとどまる。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "World Liberty Financial否认特朗普之子已退出加密公司",
-        "excerpt": "World Liberty Financial周四表示，特朗普的儿子们并未放弃该加密公司；联合创始人Zach Witkoff称，银行特许审批已进入最后阶段。",
-        "body": "World Liberty Financial周四表示，前总统特朗普的儿子们并未退出这家加密货币公司。联合创始人Zach Witkoff还称，公司正处于从特朗普政府获得银行特许批准的“最后阶段”。上述表态发布之际，市场仍在关注特朗普家族与World Liberty Financial的关系，以及该公司的监管地位。如果银行特许最终获批，可能会影响公司的业务结构和外部信任度，但目前公开信息仅说明审批流程仍在推进。来源：decrypt.co"
-      },
-      "es": {
-        "title": "World Liberty Financial niega salida de los hijos de Trump",
-        "excerpt": "World Liberty Financial dijo el jueves que los hijos de Trump no han abandonado la firma cripto, mientras Zach Witkoff afirmó que la carta bancaria está en fase final.",
-        "body": "World Liberty Financial dijo el jueves que los hijos del expresidente Trump no se han apartado de la compañía de criptomonedas. El cofundador Zach Witkoff también señaló que la firma está en las “etapas finales” para recibir la aprobación de una carta bancaria por parte de la administración Trump. Las declaraciones llegan mientras el mercado mantiene el foco en la relación entre la familia Trump y World Liberty Financial, así como en el estatus regulatorio de la empresa. Si la carta bancaria finalmente se aprueba, podría influir en la estructura de negocio y la credibilidad externa de la compañía, aunque la información divulgada hasta ahora solo indica que el proceso de aprobación sigue en curso. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "World Liberty Financial nega saída dos filhos de Trump",
-        "excerpt": "A World Liberty Financial disse na quinta-feira que os filhos de Trump não abandonaram a firma cripto, enquanto Zach Witkoff afirmou que a licença bancária está na fase final.",
-        "body": "A World Liberty Financial disse na quinta-feira que os filhos do ex-presidente Trump não se afastaram da empresa de criptomoedas. O cofundador Zach Witkoff também afirmou que a companhia está nas “etapas finais” para receber aprovação de uma licença bancária da administração Trump. A declaração ocorre enquanto o mercado segue atento à relação entre a família Trump e a World Liberty Financial, além do status regulatório da empresa. Se a licença bancária for de fato aprovada, isso poderá afetar a estrutura de negócios e a credibilidade externa da companhia, mas as informações divulgadas até agora apenas indicam que o processo de aprovação continua em andamento. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "World Liberty Financial dementiert Ausstieg von Trumps Söhnen",
-        "excerpt": "World Liberty Financial erklärte am Donnerstag, Trumps Söhne hätten die Kryptofirma nicht verlassen; Zach Witkoff sagte, die Banklizenz sei in der Endphase.",
-        "body": "World Liberty Financial erklärte am Donnerstag, dass die Söhne des früheren Präsidenten Trump sich nicht aus dem Kryptounternehmen zurückgezogen hätten. Mitgründer Zach Witkoff sagte zudem, das Unternehmen befinde sich in der “Endphase”, um von der Trump-Regierung eine Banklizenz genehmigt zu bekommen. Die Aussagen fallen in eine Phase anhaltender Marktaufmerksamkeit für die Beziehung der Trump-Familie zu World Liberty Financial und den regulatorischen Status des Unternehmens. Sollte die Banklizenz tatsächlich genehmigt werden, könnte dies die Geschäftsstruktur und die externe Glaubwürdigkeit beeinflussen. Die bisher veröffentlichten Angaben beschränken sich jedoch darauf, dass der Genehmigungsprozess läuft. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "World Liberty Financial nie le départ des fils de Trump",
-        "excerpt": "World Liberty Financial a déclaré jeudi que les fils de Trump n’avaient pas quitté l’entreprise crypto, tandis que Zach Witkoff a dit que l’agrément bancaire était en phase finale.",
-        "body": "World Liberty Financial a déclaré jeudi que les fils de l’ancien président Trump ne s’étaient pas retirés de l’entreprise de cryptomonnaies. Le cofondateur Zach Witkoff a également indiqué que la société était dans les “dernières étapes” pour obtenir l’approbation d’un agrément bancaire de l’administration Trump. Ces propos interviennent alors que le marché continue de suivre la relation entre la famille Trump et World Liberty Financial, ainsi que le statut réglementaire de l’entreprise. Si l’agrément bancaire est finalement approuvé, il pourrait influencer la structure commerciale et la crédibilité externe de la société, mais les informations publiées à ce stade indiquent seulement que la procédure d’approbation est en cours. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "وورلد ليبرتي فايننشال تنفي تخلي أبناء ترامب عن شركة الكريبتو",
-        "excerpt": "قالت وورلد ليبرتي فايننشال يوم الخميس إن أبناء ترامب لم يتخلوا عن شركة الكريبتو، فيما أوضح زاك ويتكوف أن موافقة الترخيص المصرفي في مراحلها النهائية.",
-        "body": "قالت وورلد ليبرتي فايننشال يوم الخميس إن أبناء الرئيس السابق ترامب لم ينسحبوا من شركة العملات المشفرة. كما قال الشريك المؤسس زاك ويتكوف إن الشركة في “المراحل النهائية” للحصول على موافقة ترخيص مصرفي من إدارة ترامب. تأتي هذه التصريحات بينما يستمر اهتمام السوق بعلاقة عائلة ترامب مع وورلد ليبرتي فايننشال وبالوضع التنظيمي للشركة. وإذا تمت الموافقة فعلا على الترخيص المصرفي، فقد يؤثر ذلك في هيكل أعمال الشركة ومصداقيتها الخارجية، لكن المعلومات المعلنة حاليا تقتصر على أن عملية الموافقة لا تزال جارية. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "World Liberty Financial ने ट्रंप के बेटों के हटने की बात नकारी",
-        "excerpt": "World Liberty Financial ने गुरुवार को कहा कि ट्रंप के बेटों ने क्रिप्टो फर्म नहीं छोड़ी है, जबकि Zach Witkoff ने कहा कि बैंक चार्टर मंजूरी अंतिम चरण में है।",
-        "body": "World Liberty Financial ने गुरुवार को कहा कि पूर्व राष्ट्रपति ट्रंप के बेटों ने क्रिप्टोकरेंसी कंपनी से दूरी नहीं बनाई है। सह-संस्थापक Zach Witkoff ने यह भी कहा कि कंपनी ट्रंप प्रशासन से बैंक चार्टर मंजूरी प्राप्त करने की “अंतिम चरणों” में है। यह बयान ऐसे समय आया है जब बाजार में ट्रंप परिवार और World Liberty Financial के संबंधों तथा कंपनी की नियामकीय स्थिति को लेकर ध्यान बना हुआ है। यदि बैंक चार्टर को वास्तव में मंजूरी मिलती है, तो इससे कंपनी की कारोबारी संरचना और बाहरी विश्वसनीयता पर असर पड़ सकता है, लेकिन अभी सार्वजनिक जानकारी केवल यह बताती है कि मंजूरी प्रक्रिया जारी है। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "World Liberty Financial Bantah Putra Trump Tinggalkan Perusahaan",
-        "excerpt": "World Liberty Financial pada Kamis menyatakan putra-putra Trump belum meninggalkan perusahaan kripto itu, sementara Zach Witkoff menyebut persetujuan piagam bank memasuki tahap akhir.",
-        "body": "World Liberty Financial pada Kamis menyatakan bahwa putra-putra mantan Presiden Trump belum mundur dari perusahaan kripto tersebut. Salah satu pendiri Zach Witkoff juga mengatakan perusahaan berada dalam “tahap akhir” untuk menerima persetujuan piagam bank dari pemerintahan Trump. Pernyataan ini muncul saat pasar terus memperhatikan hubungan keluarga Trump dengan World Liberty Financial serta status regulasi perusahaan. Jika piagam bank benar-benar disetujui, hal itu dapat memengaruhi struktur bisnis dan kredibilitas eksternal perusahaan, tetapi informasi yang saat ini dipublikasikan hanya menyebutkan bahwa proses persetujuan masih berjalan. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "12e459724576",
-    "slug": "bitwise-enters-tokenized-funds-via-superstates-crypto-carry--486963",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T22:13:53.617Z",
-    "updatedAt": "2026-05-07T22:13:53.617Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/bitwise-enters-tokenized-funds-through-superstates-crypto-carry-vehicle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/bitwise-enters-tokenized-funds-through-superstates-crypto-carry-vehicle",
-    "titleFingerprint": "028d268a78091ed3c47652cc655b0f476fb42304",
-    "dedupKeys": [
-      "12e459724576ed11b903a7ea70949ef101bb6424",
-      "028d268a78091ed3c47652cc655b0f476fb42304",
-      "ef623d68965ace0582bf8eb48fb53d168a8eabd2"
-    ],
-    "imageUrl": "/images/articles/12e459724576.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Bitwise, Superstate USCC 인수로 토큰화 펀드 시장 첫 진입…온체인 수요 확대",
-        "excerpt": "Bitwise가 2026년 6월 1일 전환 종료 후 Superstate의 토큰화 크립토 캐리 펀드 USCC 운용을 맡고, 적극 운용형 온체인 투자 상품 수요 확대에 대응한다.",
-        "body": "Bitwise Asset Management는 Superstate의 토큰화 크립토 캐리 펀드인 Superstate Crypto Carry Fund(USCC)의 운용을 인수할 계획이다. 전환은 2026년 6월 1일 종료될 예정이며, 이후 펀드명은 Bitwise Crypto Carry Fund로 바뀔 전망이다. USCC는 현물 암호화폐 가격과 선물 계약 간 프리미엄을 활용하는 캐시앤캐리 거래로 수익을 추구하며, 적격 매수자를 대상으로 제공된다. RWA.xyz에 따르면 USCC 운용자산은 약 2억2460만 달러다. Bitwise는 고객 자산 약 110억 달러를 운용한다고 밝히며 ETF, 사모펀드, 스테이킹 상품을 제공해 왔다. Superstate는 펀드 운용에서 물러나 토큰 발행, 이전대행, 스마트계약 등 온체인 인프라와 FundOS에 집중한다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Bitwise Enters Tokenized Funds by Taking Over Superstate’s USCC",
-        "excerpt": "Bitwise will assume management of Superstate’s tokenized crypto carry fund after the transition closes on June 1, 2026, as demand grows for actively managed onchain products.",
-        "body": "Bitwise Asset Management plans to take over management of Superstate Crypto Carry Fund (USCC), Superstate’s tokenized crypto carry vehicle. The transition is expected to close on June 1, 2026, after which the fund is set to be renamed Bitwise Crypto Carry Fund. USCC seeks yield through cash-and-carry trades that capture the premium between spot crypto prices and futures contracts, and it is offered to qualified purchasers. According to RWA.xyz, USCC has about $224.6 million in assets under management. Bitwise says it manages roughly $11 billion in client assets and already offers ETFs, private funds and staking products. Superstate will step back from fund management to focus on FundOS and onchain infrastructure including token issuance, transfer agency services and smart contracts. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "Bitwise、SuperstateのUSCC引き継ぎでトークン化ファンド市場へ参入",
-        "excerpt": "Bitwiseは2026年6月1日の移行完了後、Superstateのトークン化暗号資産キャリーファンドUSCCを運用し、能動運用型オンチェーン商品需要に対応する。",
-        "body": "Bitwise Asset Managementは、Superstateのトークン化暗号資産キャリーファンドであるSuperstate Crypto Carry Fund（USCC）の運用を引き継ぐ計画だ。移行は2026年6月1日に完了する見通しで、その後ファンド名はBitwise Crypto Carry Fundに変更される予定。USCCは、現物暗号資産価格と先物契約のプレミアムを捉えるキャッシュ・アンド・キャリー取引で利回りを追求し、適格購入者向けに提供されている。RWA.xyzによると、USCCの運用資産は約2億2460万ドル。Bitwiseは顧客資産約110億ドルを運用するとしており、ETF、私募ファンド、ステーキング商品を提供してきた。Superstateは運用から退き、トークン発行、名義書換、スマートコントラクトなどのオンチェーン基盤とFundOSに注力する。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "Bitwise接手Superstate USCC，正式进入代币化基金市场",
-        "excerpt": "Bitwise计划在2026年6月1日过渡完成后接管Superstate的代币化加密套利基金USCC，以回应主动管理型链上投资产品需求增长。",
-        "body": "Bitwise Asset Management计划接管Superstate旗下代币化加密套利基金Superstate Crypto Carry Fund（USCC）的管理。该过渡预计于2026年6月1日完成，之后基金名称预计更改为Bitwise Crypto Carry Fund。USCC通过现金套利交易寻求收益，即捕捉加密现货价格与期货合约之间的溢价，并面向合格购买者开放。RWA.xyz数据显示，USCC管理资产约为2.246亿美元。Bitwise表示其管理约110亿美元客户资产，产品包括ETF、私募基金和质押服务。Superstate将退出基金管理，转而专注于FundOS以及代币发行、转让代理服务和智能合约等链上基础设施。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Bitwise entra en fondos tokenizados al asumir el USCC de Superstate",
-        "excerpt": "Bitwise asumirá la gestión del fondo cripto tokenizado USCC de Superstate tras el cierre de la transición el 1 de junio de 2026, ante la demanda de productos onchain activos.",
-        "body": "Bitwise Asset Management planea asumir la gestión de Superstate Crypto Carry Fund (USCC), el fondo cripto tokenizado de Superstate. La transición está prevista para cerrarse el 1 de junio de 2026 y, después, el fondo pasaría a llamarse Bitwise Crypto Carry Fund. USCC busca rendimiento mediante operaciones cash-and-carry que capturan la prima entre los precios spot de criptoactivos y los contratos de futuros, y está disponible para compradores calificados. Según RWA.xyz, USCC tiene unos 224,6 millones de dólares en activos bajo gestión. Bitwise afirma gestionar cerca de 11.000 millones de dólares en activos de clientes y ofrece ETF, fondos privados y productos de staking. Superstate dejará la gestión del fondo para centrarse en FundOS y en infraestructura onchain, incluida la emisión de tokens, servicios de agente de transferencias y contratos inteligentes. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Bitwise entra em fundos tokenizados ao assumir o USCC da Superstate",
-        "excerpt": "A Bitwise assumirá a gestão do fundo cripto tokenizado USCC da Superstate após a transição em 1º de junho de 2026, diante da demanda por produtos onchain ativos.",
-        "body": "A Bitwise Asset Management planeja assumir a gestão do Superstate Crypto Carry Fund (USCC), o fundo cripto tokenizado da Superstate. A transição deve ser concluída em 1º de junho de 2026 e, depois disso, o fundo deverá passar a se chamar Bitwise Crypto Carry Fund. O USCC busca rendimento por meio de operações cash-and-carry, capturando o prêmio entre preços spot de criptoativos e contratos futuros, e é oferecido a compradores qualificados. Segundo a RWA.xyz, o USCC tem cerca de US$ 224,6 milhões em ativos sob gestão. A Bitwise afirma administrar cerca de US$ 11 bilhões em ativos de clientes e já oferece ETFs, fundos privados e produtos de staking. A Superstate deixará a gestão do fundo para se concentrar no FundOS e na infraestrutura onchain, incluindo emissão de tokens, serviços de agente de transferência e contratos inteligentes. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Bitwise steigt mit Superstate-USCC in tokenisierte Fonds ein",
-        "excerpt": "Bitwise übernimmt nach dem Abschluss der Umstellung am 1. Juni 2026 die Verwaltung von Superstates tokenisiertem Krypto-Carry-Fonds USCC, während die Nachfrage nach aktiven Onchain-Produkten wächst.",
-        "body": "Bitwise Asset Management plant, die Verwaltung des Superstate Crypto Carry Fund (USCC), eines tokenisierten Krypto-Carry-Fonds von Superstate, zu übernehmen. Die Umstellung soll am 1. Juni 2026 abgeschlossen werden; danach soll der Fonds in Bitwise Crypto Carry Fund umbenannt werden. USCC strebt Erträge über Cash-and-Carry-Geschäfte an, bei denen Prämien zwischen Spotpreisen von Kryptowerten und Futures-Kontrakten genutzt werden, und richtet sich an qualifizierte Käufer. Laut RWA.xyz verwaltet USCC rund 224,6 Millionen US-Dollar. Bitwise gibt an, etwa 11 Milliarden US-Dollar an Kundengeldern zu verwalten, und bietet ETFs, private Fonds und Staking-Produkte an. Superstate zieht sich aus der Fondsverwaltung zurück und konzentriert sich auf FundOS sowie Onchain-Infrastruktur wie Token-Ausgabe, Transferstellen-Dienste und Smart Contracts. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Bitwise entre dans les fonds tokenisés avec l’USCC de Superstate",
-        "excerpt": "Bitwise prendra la gestion du fonds crypto tokenisé USCC de Superstate après la clôture de la transition le 1er juin 2026, portée par la demande de produits onchain actifs.",
-        "body": "Bitwise Asset Management prévoit de reprendre la gestion du Superstate Crypto Carry Fund (USCC), le fonds crypto tokenisé de Superstate. La transition devrait être finalisée le 1er juin 2026, après quoi le fonds devrait être renommé Bitwise Crypto Carry Fund. USCC vise du rendement via des opérations de cash-and-carry, en capturant la prime entre les prix spot des cryptoactifs et les contrats à terme, et il est proposé aux acheteurs qualifiés. Selon RWA.xyz, USCC compte environ 224,6 millions de dollars d’actifs sous gestion. Bitwise indique gérer près de 11 milliards de dollars d’actifs clients et propose déjà des ETF, des fonds privés et des produits de staking. Superstate se retirera de la gestion du fonds pour se concentrer sur FundOS et l’infrastructure onchain, dont l’émission de tokens, les services d’agent de transfert et les contrats intelligents. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "Bitwise تدخل سوق الصناديق المرمزة عبر تولي صندوق USCC من Superstate",
-        "excerpt": "تعتزم Bitwise تولي إدارة صندوق USCC المشفر والمرمز من Superstate بعد إتمام الانتقال في 1 يونيو 2026، مع نمو الطلب على منتجات استثمارية نشطة على السلسلة.",
-        "body": "تخطط Bitwise Asset Management لتولي إدارة Superstate Crypto Carry Fund (USCC)، وهو صندوق كريبتو مرمز تابع لـ Superstate. ومن المتوقع إتمام الانتقال في 1 يونيو 2026، وبعده سيعاد تسمية الصندوق إلى Bitwise Crypto Carry Fund. يسعى USCC إلى تحقيق عائد عبر صفقات النقد والحمل التي تستفيد من الفارق بين أسعار العملات المشفرة الفورية وعقودها الآجلة، وهو متاح للمشترين المؤهلين. ووفق بيانات RWA.xyz، تبلغ أصول USCC المدارة نحو 224.6 مليون دولار. وتقول Bitwise إنها تدير نحو 11 مليار دولار من أصول العملاء وتقدم صناديق ETF وصناديق خاصة ومنتجات تخزين. وستتراجع Superstate عن إدارة الصندوق للتركيز على FundOS والبنية التحتية على السلسلة، بما يشمل إصدار الرموز وخدمات وكيل التحويل والعقود الذكية. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "Bitwise ने Superstate USCC संभालकर टोकनाइज्ड फंड बाजार में प्रवेश किया",
-        "excerpt": "Bitwise 1 जून 2026 को ट्रांजिशन पूरा होने के बाद Superstate के टोकनाइज्ड क्रिप्टो कैरी फंड USCC का प्रबंधन संभालेगी, क्योंकि सक्रिय ऑनचेन उत्पादों की मांग बढ़ रही है।",
-        "body": "Bitwise Asset Management, Superstate के टोकनाइज्ड क्रिप्टो कैरी फंड Superstate Crypto Carry Fund (USCC) का प्रबंधन संभालने की योजना बना रही है। यह ट्रांजिशन 1 जून 2026 को पूरा होने की उम्मीद है, जिसके बाद फंड का नाम Bitwise Crypto Carry Fund रखा जाएगा। USCC स्पॉट क्रिप्टो कीमतों और फ्यूचर्स कॉन्ट्रैक्ट्स के बीच प्रीमियम को पकड़ने वाली कैश-एंड-कैरी ट्रेडिंग से यील्ड कमाने का लक्ष्य रखता है और योग्य खरीदारों के लिए उपलब्ध है। RWA.xyz के अनुसार, USCC के पास लगभग 22.46 करोड़ डॉलर की प्रबंधनाधीन संपत्ति है। Bitwise का कहना है कि वह करीब 11 अरब डॉलर की ग्राहक संपत्ति संभालती है और ETF, निजी फंड तथा स्टेकिंग उत्पाद देती है। Superstate फंड प्रबंधन से पीछे हटकर FundOS और टोकन जारी करने, ट्रांसफर एजेंसी सेवाओं तथा स्मार्ट कॉन्ट्रैक्ट्स जैसी ऑनचेन अवसंरचना पर ध्यान देगी। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Bitwise Masuk Dana Tokenisasi dengan Ambil Alih USCC Superstate",
-        "excerpt": "Bitwise akan mengambil alih pengelolaan dana kripto tokenisasi USCC milik Superstate setelah transisi selesai pada 1 Juni 2026, seiring naiknya permintaan produk onchain aktif.",
-        "body": "Bitwise Asset Management berencana mengambil alih pengelolaan Superstate Crypto Carry Fund (USCC), dana crypto carry tokenisasi milik Superstate. Transisi diperkirakan selesai pada 1 Juni 2026, setelah itu nama dana akan diubah menjadi Bitwise Crypto Carry Fund. USCC menargetkan imbal hasil melalui strategi cash-and-carry yang menangkap premi antara harga spot kripto dan kontrak berjangka, serta tersedia bagi pembeli yang memenuhi syarat. Menurut RWA.xyz, USCC memiliki aset kelolaan sekitar US$224,6 juta. Bitwise menyatakan mengelola sekitar US$11 miliar aset klien dan telah menawarkan ETF, dana privat, serta produk staking. Superstate akan mundur dari pengelolaan dana untuk fokus pada FundOS dan infrastruktur onchain, termasuk penerbitan token, layanan agen transfer, dan smart contract. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "eef3a7414d4a",
-    "slug": "coinbax-wins-20000-pitchfest-prize-at-consensus-miami-for-st-390397",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T22:12:39.489Z",
-    "updatedAt": "2026-05-07T22:12:39.489Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/07/coinbax-wins-usd20-000-pitchfest-prize-at-consensus-miami-for-stablecoin-compliance",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/07/coinbax-wins-usd20-000-pitchfest-prize-at-consensus-miami-for-stablecoin-compliance",
-    "titleFingerprint": "2aca46f4ab14f07cbbbf3ba69b98bd0c08124c14",
-    "dedupKeys": [
-      "eef3a7414d4a31b2e7e07b968f3e23184311acec",
-      "2aca46f4ab14f07cbbbf3ba69b98bd0c08124c14",
-      "559cd4cb45cc5db6fc1571ec6950440f7d9db3bb"
-    ],
-    "imageUrl": "/images/articles/eef3a7414d4a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Coinbax, 스테이블코인 컴플라이언스로 Consensus Miami PitchFest 우승",
-        "excerpt": "Coinbax가 Consensus Miami PitchFest에서 온체인 결제에 컴플라이언스 통제를 더하는 소프트웨어로 2만 달러 상금을 받으며 1위를 차지했다.",
-        "body": "Coinbax가 Consensus Miami에서 열린 PitchFest에서 스테이블코인 컴플라이언스 솔루션으로 1위를 차지하고 2만 달러 상금을 받았다. 이 회사가 선보인 소프트웨어는 온체인 결제에 컴플라이언스 통제 기능을 추가하도록 설계됐다. 이번 수상은 스테이블코인 결제 인프라에서 규정 준수 관리가 중요한 경쟁 요소로 부상하고 있음을 보여준다. Coinbax의 발표는 온체인 결제가 확산되는 가운데 결제 흐름에 필요한 통제 장치를 소프트웨어로 구현하는 데 초점을 맞췄다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Coinbax Wins Consensus Miami PitchFest With Stablecoin Compliance Tool",
-        "excerpt": "Coinbax took first place at Consensus Miami PitchFest, winning $20,000 for software that adds compliance controls to onchain payments.",
-        "body": "Coinbax won first place at PitchFest during Consensus Miami, earning a $20,000 prize for its stablecoin compliance solution. The company presented software designed to add compliance controls to onchain payments. The result highlights how regulatory control is becoming a key competitive factor in stablecoin payment infrastructure. Coinbax’s pitch focused on using software to build necessary controls into payment flows as onchain payments continue to expand. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "Coinbax、ステーブルコイン準拠ツールでConsensus Miami PitchFest優勝",
-        "excerpt": "CoinbaxはConsensus Miami PitchFestで、オンチェーン決済にコンプライアンス管理を加えるソフトウェアにより1位となり、2万ドルを獲得した。",
-        "body": "CoinbaxはConsensus Miamiで開催されたPitchFestで、ステーブルコインのコンプライアンスソリューションにより1位となり、2万ドルの賞金を獲得した。同社が発表したソフトウェアは、オンチェーン決済にコンプライアンス管理機能を追加するよう設計されている。今回の受賞は、ステーブルコイン決済インフラにおいて規制対応の管理が重要な競争要素になっていることを示す。Coinbaxの発表は、オンチェーン決済が広がる中で、決済フローに必要な管理機能をソフトウェアで実装する点に焦点を当てた。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Coinbax凭稳定币合规工具赢得Consensus Miami PitchFest",
-        "excerpt": "Coinbax在Consensus Miami PitchFest上凭借为链上支付加入合规控制的软件获得第一名，并赢得2万美元奖金。",
-        "body": "Coinbax在Consensus Miami举办的PitchFest中凭借稳定币合规解决方案获得第一名，并赢得2万美元奖金。该公司展示的软件旨在为链上支付添加合规控制功能。此次获奖表明，在稳定币支付基础设施中，合规管理正成为重要的竞争因素。随着链上支付继续扩展，Coinbax的展示重点是通过软件把必要的控制机制嵌入支付流程。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Coinbax gana PitchFest de Consensus Miami con cumplimiento para stablecoins",
-        "excerpt": "Coinbax ganó el primer lugar en el PitchFest de Consensus Miami y obtuvo 20.000 dólares por un software que añade controles de cumplimiento a pagos onchain.",
-        "body": "Coinbax obtuvo el primer lugar en el PitchFest celebrado durante Consensus Miami y ganó un premio de 20.000 dólares por su solución de cumplimiento para stablecoins. La empresa presentó un software diseñado para añadir controles de cumplimiento a los pagos onchain. El resultado muestra que la gestión regulatoria se está convirtiendo en un factor competitivo clave en la infraestructura de pagos con stablecoins. La presentación de Coinbax se centró en implementar mediante software los controles necesarios dentro de los flujos de pago onchain. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Coinbax vence PitchFest da Consensus Miami com compliance para stablecoins",
-        "excerpt": "A Coinbax ficou em primeiro lugar no PitchFest da Consensus Miami e ganhou US$ 20 mil com software que adiciona controles de compliance a pagamentos onchain.",
-        "body": "A Coinbax venceu o PitchFest realizado durante a Consensus Miami e recebeu um prêmio de US$ 20 mil por sua solução de compliance para stablecoins. A empresa apresentou um software criado para adicionar controles de compliance a pagamentos onchain. O resultado mostra que a gestão de conformidade regulatória está se tornando um fator competitivo importante na infraestrutura de pagamentos com stablecoins. A apresentação da Coinbax focou em implementar, por software, controles necessários nos fluxos de pagamento onchain. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Coinbax gewinnt Consensus Miami PitchFest mit Stablecoin-Compliance",
-        "excerpt": "Coinbax belegte beim Consensus Miami PitchFest den ersten Platz und gewann 20.000 Dollar mit Software für Compliance-Kontrollen bei Onchain-Zahlungen.",
-        "body": "Coinbax hat beim PitchFest während Consensus Miami den ersten Platz belegt und für seine Stablecoin-Compliance-Lösung ein Preisgeld von 20.000 Dollar erhalten. Das Unternehmen stellte Software vor, die Compliance-Kontrollen zu Onchain-Zahlungen hinzufügen soll. Der Erfolg zeigt, dass regulatorische Kontrollfunktionen in der Stablecoin-Zahlungsinfrastruktur zu einem wichtigen Wettbewerbsfaktor werden. Coinbax konzentrierte sich darauf, notwendige Kontrollen per Software direkt in Zahlungsabläufe einzubauen, während Onchain-Zahlungen weiter wachsen. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Coinbax gagne le PitchFest de Consensus Miami avec la conformité stablecoin",
-        "excerpt": "Coinbax a remporté le PitchFest de Consensus Miami et 20.000 dollars grâce à un logiciel ajoutant des contrôles de conformité aux paiements onchain.",
-        "body": "Coinbax a pris la première place du PitchFest organisé lors de Consensus Miami et a reçu un prix de 20.000 dollars pour sa solution de conformité liée aux stablecoins. L’entreprise a présenté un logiciel conçu pour ajouter des contrôles de conformité aux paiements onchain. Cette victoire montre que la gestion de la conformité devient un facteur concurrentiel important dans l’infrastructure de paiement en stablecoins. La présentation de Coinbax portait sur l’intégration, par logiciel, des contrôles nécessaires dans les flux de paiement onchain. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "Coinbax تفوز في PitchFest بميامي عبر أداة امتثال للعملات المستقرة",
-        "excerpt": "فازت Coinbax بالمركز الأول في PitchFest ضمن Consensus Miami وحصلت على 20 ألف دولار بفضل برنامج يضيف ضوابط امتثال إلى المدفوعات على السلسلة.",
-        "body": "فازت Coinbax بالمركز الأول في PitchFest الذي أقيم خلال Consensus Miami، وحصلت على جائزة قدرها 20 ألف دولار عن حل امتثال للعملات المستقرة. وقدمت الشركة برنامجا مصمما لإضافة ضوابط امتثال إلى المدفوعات على السلسلة. وتوضح هذه الجائزة أن إدارة الامتثال التنظيمي أصبحت عاملا تنافسيا مهما في بنية مدفوعات العملات المستقرة. وركز عرض Coinbax على تنفيذ الضوابط اللازمة داخل تدفقات الدفع عبر البرمجيات مع توسع المدفوعات على السلسلة. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Coinbax ने stablecoin compliance टूल से Consensus Miami PitchFest जीता",
-        "excerpt": "Coinbax ने Consensus Miami PitchFest में ऑनचेन भुगतान में compliance controls जोड़ने वाले सॉफ्टवेयर के लिए पहला स्थान और 20,000 डॉलर का पुरस्कार जीता।",
-        "body": "Coinbax ने Consensus Miami में आयोजित PitchFest में stablecoin compliance समाधान के साथ पहला स्थान हासिल किया और 20,000 डॉलर का पुरस्कार जीता। कंपनी ने ऐसा सॉफ्टवेयर पेश किया जिसे ऑनचेन भुगतान में compliance controls जोड़ने के लिए बनाया गया है। यह जीत दिखाती है कि stablecoin payment infrastructure में regulatory compliance management एक अहम प्रतिस्पर्धी तत्व बन रहा है। Coinbax की प्रस्तुति ऑनचेन भुगतान के विस्तार के बीच payment flows में जरूरी controls को सॉफ्टवेयर के जरिए लागू करने पर केंद्रित थी। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Coinbax Menang PitchFest Consensus Miami Lewat Kepatuhan Stablecoin",
-        "excerpt": "Coinbax meraih posisi pertama di PitchFest Consensus Miami dan memenangkan $20.000 lewat software yang menambahkan kontrol kepatuhan pada pembayaran onchain.",
-        "body": "Coinbax meraih posisi pertama di PitchFest yang digelar dalam Consensus Miami dan memperoleh hadiah $20.000 untuk solusi kepatuhan stablecoin. Perusahaan itu mempresentasikan software yang dirancang untuk menambahkan kontrol kepatuhan pada pembayaran onchain. Kemenangan ini menunjukkan bahwa pengelolaan kepatuhan regulasi menjadi faktor kompetitif penting dalam infrastruktur pembayaran stablecoin. Presentasi Coinbax berfokus pada penerapan kontrol yang dibutuhkan dalam alur pembayaran melalui software saat pembayaran onchain terus berkembang. Sumber: coindesk.com"
       }
     }
   }
