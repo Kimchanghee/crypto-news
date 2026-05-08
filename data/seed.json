@@ -1,5 +1,230 @@
 [
   {
+    "id": "829676ccaabd",
+    "slug": "revolut-users-report-bitcoin-price-glitch-showing-btc-at-2-c-583085",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T15:06:21.419Z",
+    "updatedAt": "2026-05-08T15:06:21.419Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/btc-flash-crash-alerts-at-revolut-users-report-extreme-price-glitches-in-multiple-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/btc-flash-crash-alerts-at-revolut-users-report-extreme-price-glitches-in-multiple-assets",
+    "titleFingerprint": "0bc3cb0aed9c4b0355f92df407633182e6284b85",
+    "dedupKeys": [
+      "829676ccaabddd54b0491b7dcd9d56e8fd3874a2",
+      "0bc3cb0aed9c4b0355f92df407633182e6284b85",
+      "a4fffa786d2135e1c74633622c7b877b84ab8c07"
+    ],
+    "imageUrl": "/images/articles/829676ccaabd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 2센트 표시 오류, Revolut 이용자들 가격 glitch 보고",
+        "excerpt": "Revolut 이용자들이 비트코인 가격이 2센트로 표시되는 오류를 보고했으며, 해당 가격은 전체 암호화폐 시장에는 반영되지 않아 플랫폼 표시 문제로 보인다.",
+        "body": "Revolut 이용자들은 비트코인 가격이 2센트로 표시되는 이상 현상을 보고했다. 보도에 따르면 이 현상은 비트코인 실제 시장 가격이나 더 넓은 암호화폐 시장 전반에 반영되지 않았다. 이는 시장 급락이나 거래소 전반의 가격 변화라기보다 Revolut 플랫폼 안에서 발생한 데이터 또는 화면 표시 오류일 가능성을 시사한다. 현재 제공된 정보상 오류의 원인, 지속 시간, 이용자 거래 영향 여부는 확인되지 않았다. 투자자 입장에서는 앱 내 표시 가격과 외부 시장 가격이 다를 수 있다는 점을 확인할 필요가 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Bitcoin at 2 cents? Revolut users report BTC price display glitch",
+        "excerpt": "Revolut users reported Bitcoin appearing at 2 cents, but the price was not reflected across wider crypto markets, pointing to a platform-specific issue.",
+        "body": "Revolut users reported an unusual issue showing Bitcoin priced at 2 cents. According to the report, the apparent price did not appear across broader cryptocurrency markets and was not reflected in Bitcoin’s wider market pricing. That suggests the incident was more likely a data or display problem within Revolut’s platform than a marketwide crash or exchange-level price move. Based on the available information, the cause, duration, and any direct impact on user transactions were not confirmed. For users, the case highlights the need to compare in-app prices with broader market data when abnormal quotes appear. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "ビットコインが2セント表示、Revolut利用者が価格不具合を報告",
+        "excerpt": "Revolut利用者がビットコイン価格が2セントと表示される不具合を報告。広範な暗号資産市場には反映されず、表示上の問題とみられる。",
+        "body": "Revolutの利用者は、ビットコイン価格が2セントと表示される異常を報告した。報道によると、この見かけ上の価格はビットコインの実勢価格や広範な暗号資産市場には反映されていなかった。そのため、市場全体の急落や取引所横断の価格変動ではなく、Revolutのプラットフォーム内で発生したデータまたは画面表示の問題である可能性が示されている。現時点で、原因、継続時間、利用者の取引への影響は確認されていない。異常な価格が表示された場合、アプリ内価格と外部市場データを照合する必要がある。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "比特币显示2美分？Revolut用户报告BTC价格故障",
+        "excerpt": "Revolut用户报告比特币价格显示为2美分，但该价格未反映在更广泛的加密市场中，显示或为平台数据问题。",
+        "body": "Revolut用户报告称，比特币价格一度显示为2美分。报道称，这一表面价格并未反映在比特币的整体市场价格或更广泛的加密货币市场中。这表明该事件更可能是Revolut平台内部的数据或界面显示问题，而不是市场整体暴跌或交易所层面的价格变动。根据目前提供的信息，错误原因、持续时间以及是否影响用户交易尚未得到确认。对投资者而言，异常报价出现时，有必要将应用内价格与外部市场数据进行核对。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Bitcoin a 2 centavos: usuarios de Revolut reportan fallo de precio",
+        "excerpt": "Usuarios de Revolut reportaron que Bitcoin aparecía a 2 centavos, pero el dato no se reflejó en el mercado cripto amplio, lo que apunta a un error interno.",
+        "body": "Usuarios de Revolut reportaron una anomalía en la que el precio de Bitcoin aparecía en 2 centavos. Según el reporte, ese precio aparente no se reflejó en la cotización general de Bitcoin ni en los mercados de criptomonedas más amplios. Esto sugiere que el incidente fue probablemente un problema de datos o de visualización dentro de la plataforma Revolut, y no una caída general del mercado ni un movimiento de precios entre exchanges. Con la información disponible, no se confirmaron la causa, la duración ni el impacto directo sobre operaciones de usuarios. Para los inversores, el caso subraya la necesidad de comparar precios inusuales de la app con datos externos de mercado. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Bitcoin a 2 centavos? Usuários da Revolut relatam falha no preço",
+        "excerpt": "Usuários da Revolut relataram Bitcoin exibido a 2 centavos, mas o valor não apareceu nos mercados cripto mais amplos, indicando erro da plataforma.",
+        "body": "Usuários da Revolut relataram uma anomalia em que o preço do Bitcoin aparecia como 2 centavos. Segundo a reportagem, esse preço aparente não foi refletido na cotação geral do Bitcoin nem nos mercados de criptomoedas mais amplos. Isso sugere que o episódio foi provavelmente um problema de dados ou de exibição dentro da plataforma Revolut, e não uma queda ampla do mercado ou uma mudança de preço entre exchanges. Com as informações disponíveis, a causa, a duração e qualquer impacto direto sobre transações de usuários não foram confirmados. Para investidores, o caso reforça a necessidade de comparar preços anormais no app com dados externos de mercado. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Bitcoin für 2 Cent? Revolut-Nutzer melden BTC-Preisanzeige-Fehler",
+        "excerpt": "Revolut-Nutzer meldeten Bitcoin bei 2 Cent, doch der Preis zeigte sich nicht im breiteren Kryptomarkt und deutet auf ein Plattformproblem hin.",
+        "body": "Revolut-Nutzer berichteten von einer ungewöhnlichen Anzeige, bei der Bitcoin mit 2 Cent ausgewiesen wurde. Dem Bericht zufolge spiegelte sich dieser scheinbare Preis weder im allgemeinen Bitcoin-Marktpreis noch in den breiteren Kryptomärkten wider. Das deutet darauf hin, dass es sich eher um ein Daten- oder Anzeigeproblem innerhalb der Revolut-Plattform handelte als um einen marktweiten Einbruch oder eine börsenübergreifende Preisbewegung. Nach den verfügbaren Informationen wurden Ursache, Dauer und mögliche direkte Auswirkungen auf Nutzertransaktionen nicht bestätigt. Für Anleger zeigt der Fall, dass auffällige App-Preise mit externen Marktdaten abgeglichen werden sollten. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Bitcoin à 2 cents: des utilisateurs Revolut signalent un bug de prix",
+        "excerpt": "Des utilisateurs de Revolut ont vu Bitcoin affiché à 2 cents, un prix absent du marché crypto global, ce qui suggère un problème propre à la plateforme.",
+        "body": "Des utilisateurs de Revolut ont signalé une anomalie affichant le prix du Bitcoin à 2 cents. Selon le reportage, ce prix apparent ne s’est pas retrouvé dans le prix de marché général du Bitcoin ni dans les marchés crypto plus larges. Cela suggère que l’incident relevait probablement d’un problème de données ou d’affichage propre à la plateforme Revolut, plutôt que d’un effondrement du marché ou d’un mouvement de prix entre plateformes d’échange. D’après les informations disponibles, la cause, la durée et un éventuel impact direct sur les transactions des utilisateurs n’ont pas été confirmés. Pour les investisseurs, l’épisode rappelle l’intérêt de comparer les prix anormaux affichés dans une application avec des données de marché externes. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "بيتكوين بسعر سنتين؟ مستخدمو Revolut يبلغون عن خلل في عرض السعر",
+        "excerpt": "أبلغ مستخدمو Revolut عن ظهور سعر بيتكوين عند سنتين، لكن السعر لم ينعكس في أسواق العملات المشفرة الأوسع، ما يشير إلى مشكلة داخل المنصة.",
+        "body": "أبلغ مستخدمو Revolut عن حالة غير معتادة ظهر فيها سعر بيتكوين عند سنتين فقط. ووفق التقرير، لم ينعكس هذا السعر الظاهر على سعر بيتكوين في السوق الأوسع ولا على أسواق العملات المشفرة عموما. وهذا يشير إلى أن الحادثة كانت على الأرجح مشكلة بيانات أو عرض داخل منصة Revolut، وليست هبوطا عاما في السوق أو حركة سعرية على مستوى المنصات. وبحسب المعلومات المتاحة، لم يتم تأكيد سبب الخلل أو مدته أو ما إذا كان قد أثر مباشرة في معاملات المستخدمين. وبالنسبة للمستثمرين، تبرز الحالة ضرورة مقارنة الأسعار غير الطبيعية داخل التطبيق مع بيانات السوق الخارجية. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Bitcoin 2 सेंट पर? Revolut यूजर्स ने BTC कीमत गड़बड़ी बताई",
+        "excerpt": "Revolut यूजर्स ने Bitcoin को 2 सेंट पर दिखने की रिपोर्ट की, लेकिन यह व्यापक क्रिप्टो बाजार में नहीं दिखा, जिससे प्लेटफॉर्म समस्या का संकेत मिला।",
+        "body": "Revolut यूजर्स ने एक असामान्य स्थिति की रिपोर्ट की, जिसमें Bitcoin की कीमत 2 सेंट दिखाई दे रही थी। रिपोर्ट के अनुसार, यह दिखने वाली कीमत Bitcoin के व्यापक बाजार मूल्य या बड़े क्रिप्टोकरेंसी बाजारों में परिलक्षित नहीं हुई। इससे संकेत मिलता है कि यह घटना बाजारव्यापी गिरावट या एक्सचेंज स्तर की कीमत चाल के बजाय Revolut प्लेटफॉर्म के भीतर डेटा या डिस्प्ले से जुड़ी समस्या हो सकती है। उपलब्ध जानकारी के आधार पर, गड़बड़ी का कारण, अवधि और यूजर लेनदेन पर कोई सीधा असर पुष्टि नहीं हुआ। निवेशकों के लिए यह मामला बताता है कि असामान्य ऐप कीमतों की तुलना बाहरी बाजार डेटा से करनी चाहिए। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Bitcoin tampil 2 sen? Pengguna Revolut laporkan gangguan harga BTC",
+        "excerpt": "Pengguna Revolut melaporkan Bitcoin tampil di 2 sen, tetapi harga itu tidak terlihat di pasar kripto lebih luas, mengarah pada masalah platform.",
+        "body": "Pengguna Revolut melaporkan anomali ketika harga Bitcoin terlihat berada di 2 sen. Menurut laporan, harga yang tampak tersebut tidak tercermin dalam harga pasar Bitcoin secara umum maupun di pasar cryptocurrency yang lebih luas. Hal ini menunjukkan bahwa insiden tersebut kemungkinan merupakan masalah data atau tampilan di dalam platform Revolut, bukan kejatuhan pasar secara luas atau pergerakan harga lintas bursa. Berdasarkan informasi yang tersedia, penyebab, durasi, dan dampak langsung terhadap transaksi pengguna belum dikonfirmasi. Bagi investor, kasus ini menegaskan perlunya membandingkan harga tidak wajar di aplikasi dengan data pasar eksternal. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "30fa4bb4be39",
+    "slug": "stablecoins-wont-strengthen-global-role-of-euro-ecbs-lagarde-750464",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T15:05:30.980Z",
+    "updatedAt": "2026-05-08T15:05:30.980Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/stablecoins-euro-global-role-ecb-christine-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/stablecoins-euro-global-role-ecb-christine-lagarde",
+    "titleFingerprint": "2ca9433654141a3e3e5a346437336d4aa3d9ef5d",
+    "dedupKeys": [
+      "30fa4bb4be39281f3ac365530d4f9f5dd6a94985",
+      "2ca9433654141a3e3e5a346437336d4aa3d9ef5d",
+      "91d0995113e759f054c22225c14dbea4cb77275a"
+    ],
+    "imageUrl": "/images/articles/30fa4bb4be39.jpg",
+    "i18n": {
+      "ko": {
+        "title": "스테이블코인, 유로 국제 위상 못 키운다…라가르드 ECB 총재 발언",
+        "excerpt": "크리스틴 라가르드 ECB 총재는 cointelegraph.com 보도에서 민간 스테이블코인보다 중앙은행 화폐에 기반한 토큰화 결제 인프라가 유럽에 필요하다고 밝혔다.",
+        "body": "크리스틴 라가르드 유럽중앙은행(ECB) 총재는 cointelegraph.com 보도에서 스테이블코인이 유로의 글로벌 역할을 강화하지 못할 것이라고 밝혔다. 라가르드는 유럽이 민간 스테이블코인에 의존하기보다 중앙은행 화폐를 기반으로 한 토큰화 결제 인프라를 구축해야 한다고 강조했다. 이번 발언은 디지털 자산 결제와 통화 주권을 둘러싼 논의 속에서 나왔다. 핵심은 결제 혁신의 기반을 민간 발행 자산이 아니라 중앙은행 화폐에 두어야 한다는 점이다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Stablecoins Won’t Boost Euro’s Global Role, ECB’s Lagarde Says",
+        "excerpt": "ECB President Christine Lagarde said in a cointelegraph.com report that Europe needs tokenized settlement infrastructure anchored by central bank money, not private stablecoins.",
+        "body": "European Central Bank President Christine Lagarde said in a cointelegraph.com report that stablecoins will not strengthen the euro’s global role. Lagarde emphasized that Europe should build tokenized settlement infrastructure based on central bank money rather than depend on private stablecoins. The remarks come amid debate over digital asset payments and monetary sovereignty. The core point is that payment innovation should be anchored in central bank money, not privately issued assets. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "ステーブルコインはユーロの国際的役割を強めず、ECBラガルド総裁",
+        "excerpt": "ECBのクリスティーヌ・ラガルド総裁はcointelegraph.comの報道で、欧州には民間ステーブルコインではなく中央銀行マネーに基づくトークン化決済基盤が必要だと述べた。",
+        "body": "欧州中央銀行（ECB）のクリスティーヌ・ラガルド総裁はcointelegraph.comの報道で、ステーブルコインはユーロの国際的な役割を強化しないと述べた。ラガルド氏は、欧州は民間ステーブルコインに依存するのではなく、中央銀行マネーを基盤とするトークン化決済インフラを構築すべきだと強調した。この発言は、デジタル資産決済と通貨主権をめぐる議論の中で示された。焦点は、決済革新の基盤を民間発行資産ではなく中央銀行マネーに置くべきだという点にある。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "稳定币难增强欧元全球地位，欧洲央行拉加德表态",
+        "excerpt": "欧洲央行行长克里斯蒂娜·拉加德在cointelegraph.com报道中表示，欧洲需要以央行货币为基础的代币化结算基础设施，而不是依赖私人稳定币。",
+        "body": "欧洲中央银行行长克里斯蒂娜·拉加德在cointelegraph.com报道中表示，稳定币不会增强欧元的全球作用。拉加德强调，欧洲应建设以央行货币为基础的代币化结算基础设施，而不是依赖私人稳定币。此番表态出现在围绕数字资产支付和货币主权的讨论之中。核心观点是，支付创新的基础应放在央行货币之上，而不是私人发行的资产。来源: cointelegraph.com."
+      },
+      "es": {
+        "title": "Las stablecoins no elevarán el papel global del euro, dice Lagarde",
+        "excerpt": "Christine Lagarde, presidenta del BCE, dijo en un reporte de cointelegraph.com que Europa necesita infraestructura de liquidación tokenizada basada en dinero de banco central, no en stablecoins privadas.",
+        "body": "La presidenta del Banco Central Europeo, Christine Lagarde, dijo en un reporte de cointelegraph.com que las stablecoins no fortalecerán el papel global del euro. Lagarde enfatizó que Europa debería construir una infraestructura de liquidación tokenizada basada en dinero de banco central en lugar de depender de stablecoins privadas. Sus comentarios llegan en medio del debate sobre pagos con activos digitales y soberanía monetaria. El punto central es que la innovación en pagos debe apoyarse en dinero de banco central, no en activos emitidos de forma privada. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Stablecoins não ampliarão papel global do euro, diz Lagarde do BCE",
+        "excerpt": "Christine Lagarde, presidente do BCE, disse em reportagem do cointelegraph.com que a Europa precisa de infraestrutura de liquidação tokenizada baseada em dinheiro de banco central, não em stablecoins privadas.",
+        "body": "A presidente do Banco Central Europeu, Christine Lagarde, disse em reportagem do cointelegraph.com que as stablecoins não fortalecerão o papel global do euro. Lagarde enfatizou que a Europa deve construir uma infraestrutura de liquidação tokenizada baseada em dinheiro de banco central, em vez de depender de stablecoins privadas. A declaração ocorre em meio ao debate sobre pagamentos com ativos digitais e soberania monetária. O ponto central é que a inovação em pagamentos deve se apoiar em dinheiro de banco central, não em ativos emitidos pelo setor privado. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Stablecoins stärken globale Rolle des Euro nicht, sagt EZB-Chefin Lagarde",
+        "excerpt": "EZB-Präsidentin Christine Lagarde sagte laut cointelegraph.com, Europa brauche eine tokenisierte Abwicklungsinfrastruktur auf Basis von Zentralbankgeld statt privater Stablecoins.",
+        "body": "EZB-Präsidentin Christine Lagarde sagte laut einem Bericht von cointelegraph.com, Stablecoins würden die globale Rolle des Euro nicht stärken. Lagarde betonte, Europa solle eine tokenisierte Abwicklungsinfrastruktur auf Basis von Zentralbankgeld aufbauen, statt sich auf private Stablecoins zu verlassen. Die Aussage fällt in die Debatte über Zahlungen mit digitalen Vermögenswerten und geldpolitische Souveränität. Im Kern geht es darum, Zahlungsinnovation auf Zentralbankgeld und nicht auf privat ausgegebene Vermögenswerte zu stützen. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Les stablecoins ne renforceront pas le rôle mondial de l’euro, dit Lagarde",
+        "excerpt": "Christine Lagarde, présidente de la BCE, a déclaré selon cointelegraph.com que l’Europe doit bâtir une infrastructure de règlement tokenisée ancrée dans la monnaie de banque centrale, pas dans des stablecoins privés.",
+        "body": "La présidente de la Banque centrale européenne, Christine Lagarde, a déclaré selon cointelegraph.com que les stablecoins ne renforceront pas le rôle mondial de l’euro. Elle a souligné que l’Europe devrait construire une infrastructure de règlement tokenisée fondée sur la monnaie de banque centrale plutôt que de dépendre de stablecoins privés. Cette position intervient dans le débat sur les paiements en actifs numériques et la souveraineté monétaire. Le point central est que l’innovation des paiements doit être ancrée dans la monnaie de banque centrale, et non dans des actifs émis par le privé. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "العملات المستقرة لن تعزز الدور العالمي لليورو، تقول لاغارد",
+        "excerpt": "قالت كريستين لاغارد، رئيسة البنك المركزي الأوروبي، في تقرير cointelegraph.com إن أوروبا تحتاج إلى بنية تسوية مرمزة تستند إلى أموال البنك المركزي لا إلى العملات المستقرة الخاصة.",
+        "body": "قالت كريستين لاغارد، رئيسة البنك المركزي الأوروبي، في تقرير نشره cointelegraph.com إن العملات المستقرة لن تعزز الدور العالمي لليورو. وأكدت لاغارد أن على أوروبا بناء بنية تحتية للتسوية المرمزة قائمة على أموال البنك المركزي بدلا من الاعتماد على العملات المستقرة الخاصة. وجاءت التصريحات ضمن النقاش حول مدفوعات الأصول الرقمية والسيادة النقدية. وتتمثل النقطة الأساسية في أن ابتكار المدفوعات يجب أن يستند إلى أموال البنك المركزي، لا إلى أصول يصدرها القطاع الخاص. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "स्टेबलकॉइन यूरो की वैश्विक भूमिका नहीं बढ़ाएंगे, ECB की लागार्ड",
+        "excerpt": "ECB अध्यक्ष क्रिस्टीन लागार्ड ने cointelegraph.com की रिपोर्ट में कहा कि यूरोप को निजी स्टेबलकॉइन पर निर्भर होने के बजाय केंद्रीय बैंक धन पर आधारित टोकनाइज्ड सेटलमेंट ढांचा बनाना चाहिए।",
+        "body": "यूरोपीय केंद्रीय बैंक की अध्यक्ष क्रिस्टीन लागार्ड ने cointelegraph.com की रिपोर्ट में कहा कि स्टेबलकॉइन यूरो की वैश्विक भूमिका को मजबूत नहीं करेंगे। लागार्ड ने जोर दिया कि यूरोप को निजी स्टेबलकॉइन पर निर्भर रहने के बजाय केंद्रीय बैंक धन पर आधारित टोकनाइज्ड सेटलमेंट इंफ्रास्ट्रक्चर बनाना चाहिए। यह बयान डिजिटल एसेट भुगतान और मौद्रिक संप्रभुता पर चल रही चर्चा के बीच आया। मुख्य बात यह है कि भुगतान नवाचार का आधार निजी जारी संपत्ति नहीं, बल्कि केंद्रीय बैंक धन होना चाहिए। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Stablecoin Tak Perkuat Peran Global Euro, Kata Lagarde ECB",
+        "excerpt": "Presiden ECB Christine Lagarde mengatakan dalam laporan cointelegraph.com bahwa Eropa perlu membangun infrastruktur penyelesaian tokenisasi berbasis uang bank sentral, bukan bergantung pada stablecoin swasta.",
+        "body": "Presiden Bank Sentral Eropa Christine Lagarde mengatakan dalam laporan cointelegraph.com bahwa stablecoin tidak akan memperkuat peran global euro. Lagarde menekankan bahwa Eropa sebaiknya membangun infrastruktur penyelesaian tokenisasi yang berbasis uang bank sentral, bukan bergantung pada stablecoin swasta. Pernyataan ini muncul di tengah pembahasan mengenai pembayaran aset digital dan kedaulatan moneter. Intinya, inovasi pembayaran harus bertumpu pada uang bank sentral, bukan pada aset yang diterbitkan pihak swasta. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "567a3bc330f0",
+    "slug": "xrp-pushes-toward-140-as-tightening-range-lowers-breakout-ch-289521",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T15:04:34.803Z",
+    "updatedAt": "2026-05-08T15:04:34.803Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/08/xrp-pushes-toward-usd1-40-as-tightening-range-lowers-breakout-chances",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/08/xrp-pushes-toward-usd1-40-as-tightening-range-lowers-breakout-chances",
+    "titleFingerprint": "ca7082968d2c5b7899aa418f09efb6bb16ed8f1f",
+    "dedupKeys": [
+      "567a3bc330f0b248610b6f81311fcfc6b62acc1a",
+      "ca7082968d2c5b7899aa418f09efb6bb16ed8f1f",
+      "a7d49478f122f48cd0bdaf3a644325d4d34ef82d"
+    ],
+    "imageUrl": "/images/articles/567a3bc330f0.png",
+    "i18n": {
+      "ko": {
+        "title": "XRP 1.40달러 근접, 좁아진 박스권에 돌파 가능성 주목",
+        "excerpt": "XRP 가격이 장 후반 거래량 증가에 힘입어 상승하며 1.39~1.40달러 부근 압축 구간에서 더 큰 움직임으로 이어질지 주목받고 있다.",
+        "body": "XRP는 장 후반 거래량이 늘어난 가운데 가격이 상승하며 1.40달러에 가까워졌다. 시장 참가자들은 1.39~1.40달러 부근에서 이어지는 좁은 가격 범위가 더 큰 움직임으로 해소될지 지켜보고 있다. 이번 흐름의 핵심은 가격 압축이다. 범위가 좁아질수록 방향성 신호를 기다리는 거래자들의 관심은 커졌지만, 원문은 조여진 구간이 돌파 가능성을 낮추고 있다고 전했다. 단기적으로는 늦은 거래량 유입이 상승을 뒷받침했는지, 또는 압축 구간이 계속 유지될지가 관건이다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "XRP Nears $1.40 as Tight Range Keeps Breakout in Focus",
+        "excerpt": "XRP rose on a late burst of volume, with traders watching whether compression around $1.39 to $1.40 turns into a larger price move.",
+        "body": "XRP moved higher after a late increase in trading volume, pushing the price closer to $1.40. Market participants are watching whether the narrow range around $1.39 to $1.40 will finally resolve into a larger move. The main issue is price compression. As the range tightens, traders waiting for a directional signal have become more focused, while the source noted that the tightened range lowers breakout chances. In the short term, the key question is whether the late volume burst continues to support the rise or whether the compressed range remains in place. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "XRPが1.40ドル接近、狭いレンジで突破の行方に注目",
+        "excerpt": "XRPは取引終盤の出来高増加を受けて上昇し、1.39〜1.40ドル付近の圧縮が大きな値動きにつながるか注目されている。",
+        "body": "XRPは取引終盤に出来高が増えたことで上昇し、1.40ドルに近づいた。市場参加者は、1.39〜1.40ドル付近で続く狭い価格帯が、より大きな値動きへ解消されるかを見ている。今回の焦点は価格の圧縮だ。レンジが狭まるほど方向感を待つトレーダーの関心は高まったが、原文は引き締まった範囲がブレイクアウトの可能性を下げていると伝えた。短期的には、終盤の出来高流入が上昇を支えるのか、圧縮されたレンジが続くのかが重要になる。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "XRP逼近1.40美元，窄幅震荡令突破前景受关注",
+        "excerpt": "XRP在尾盘成交量放大推动下上涨，交易员关注1.39至1.40美元附近的压缩区间是否会演变为更大波动。",
+        "body": "XRP在尾盘成交量增加后走高，价格接近1.40美元。市场参与者正关注，1.39至1.40美元附近持续的狭窄价格区间，是否最终会转化为更大的行情。此次走势的核心是价格压缩。区间越收窄，等待方向信号的交易员关注度越高，但原文指出，收紧的区间正在降低突破机会。短期来看，关键在于尾盘成交量的涌入是否继续支撑上涨，或压缩区间是否仍将维持。来源: coindesk.com."
+      },
+      "es": {
+        "title": "XRP se acerca a 1,40 dólares mientras el rango estrecho centra la atención",
+        "excerpt": "XRP subió con un aumento tardío del volumen, mientras los operadores observan si la compresión cerca de 1,39-1,40 dólares deriva en un movimiento mayor.",
+        "body": "XRP avanzó después de un aumento tardío del volumen de negociación y se acercó a los 1,40 dólares. Los participantes del mercado observan si el rango estrecho en torno a 1,39-1,40 dólares finalmente se convierte en un movimiento más amplio. El punto central es la compresión del precio. A medida que el rango se estrecha, crece la atención de los operadores que esperan una señal direccional, aunque la fuente indicó que el rango ajustado reduce las probabilidades de ruptura. A corto plazo, la cuestión clave es si el volumen tardío sigue apoyando la subida o si la zona comprimida se mantiene. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "XRP se aproxima de US$ 1,40 com faixa estreita no radar",
+        "excerpt": "O XRP subiu com um aumento tardio de volume, enquanto traders observam se a compressão perto de US$ 1,39 a US$ 1,40 resultará em movimento maior.",
+        "body": "O XRP avançou após um aumento tardio no volume de negociação, aproximando o preço de US$ 1,40. Participantes do mercado acompanham se a faixa estreita entre US$ 1,39 e US$ 1,40 finalmente se transformará em um movimento mais amplo. O foco principal é a compressão de preço. À medida que a faixa se estreita, cresce a atenção dos traders que aguardam um sinal de direção, embora a fonte tenha informado que a faixa apertada reduz as chances de rompimento. No curto prazo, a questão é se o volume tardio continuará sustentando a alta ou se a faixa comprimida permanecerá. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "XRP nähert sich 1,40 Dollar, enge Spanne rückt Ausbruch in den Fokus",
+        "excerpt": "XRP stieg nach einem späten Volumenschub, während Händler beobachten, ob die Kompression bei 1,39 bis 1,40 Dollar in eine größere Bewegung übergeht.",
+        "body": "XRP legte nach einem späten Anstieg des Handelsvolumens zu und näherte sich der Marke von 1,40 Dollar. Marktteilnehmer beobachten, ob die enge Preisspanne um 1,39 bis 1,40 Dollar schließlich in eine größere Bewegung mündet. Im Mittelpunkt steht die Preiskompression. Je enger die Spanne wird, desto stärker achten Händler auf ein Richtungssignal, doch die Quelle berichtete, dass die verengte Zone die Chancen auf einen Ausbruch senkt. Kurzfristig bleibt entscheidend, ob der späte Volumenzufluss den Anstieg weiter stützt oder ob die komprimierte Spanne bestehen bleibt. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "XRP approche 1,40 dollar alors que l’étroite fourchette attire l’attention",
+        "excerpt": "XRP a progressé grâce à une poussée tardive des volumes, les traders surveillant si la compression près de 1,39-1,40 dollar mènera à un mouvement plus large.",
+        "body": "XRP a progressé après une hausse tardive du volume d’échanges, rapprochant le prix de 1,40 dollar. Les participants au marché surveillent si l’étroite zone située autour de 1,39 à 1,40 dollar finira par se transformer en mouvement plus important. Le point central est la compression du prix. Plus la fourchette se resserre, plus les traders en attente d’un signal directionnel y prêtent attention, mais la source indique que cette zone resserrée réduit les chances de cassure. À court terme, l’enjeu est de savoir si l’afflux tardif de volume continue de soutenir la hausse ou si la fourchette comprimée se maintient. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "XRP يقترب من 1.40 دولار مع تركيز السوق على النطاق الضيق",
+        "excerpt": "ارتفع XRP بدعم من زيادة متأخرة في حجم التداول، فيما يراقب المتداولون ما إذا كان الضغط قرب 1.39 و1.40 دولار سيتحول إلى حركة أكبر.",
+        "body": "ارتفع XRP بعد زيادة متأخرة في حجم التداول، مقتربا من مستوى 1.40 دولار. ويراقب المشاركون في السوق ما إذا كان النطاق السعري الضيق قرب 1.39 إلى 1.40 دولار سينتهي أخيرا إلى حركة أكبر. محور التحرك الحالي هو ضغط السعر. ومع تضيق النطاق، زاد اهتمام المتداولين الذين ينتظرون إشارة اتجاهية، لكن المصدر ذكر أن هذا النطاق المشدود يقلل فرص الاختراق. على المدى القصير، يبقى السؤال الأساسي هو ما إذا كان تدفق الحجم المتأخر سيواصل دعم الصعود أم أن نطاق الضغط سيبقى قائما. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "XRP 1.40 डॉलर के करीब, संकरे दायरे से ब्रेकआउट पर नजर",
+        "excerpt": "XRP में देर से बढ़े वॉल्यूम के सहारे तेजी आई, जबकि ट्रेडर देख रहे हैं कि 1.39-1.40 डॉलर के पास दबाव बड़ा मूव बनता है या नहीं।",
+        "body": "XRP में ट्रेडिंग वॉल्यूम के देर से बढ़ने के बाद तेजी आई और कीमत 1.40 डॉलर के करीब पहुंच गई। बाजार प्रतिभागी देख रहे हैं कि 1.39 से 1.40 डॉलर के पास बना संकरा दायरा आखिरकार किसी बड़े मूव में बदलता है या नहीं। इस चाल का मुख्य बिंदु कीमत का संकुचन है। दायरा जितना संकरा हुआ, दिशा संकेत का इंतजार कर रहे ट्रेडरों की दिलचस्पी उतनी बढ़ी, लेकिन स्रोत ने बताया कि कसा हुआ दायरा ब्रेकआउट की संभावना कम कर रहा है। अल्पकाल में अहम सवाल यह है कि देर से आया वॉल्यूम उछाल को सहारा देता रहेगा या संकुचित दायरा बना रहेगा। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "XRP Dekati US$1,40 saat Rentang Ketat Jadi Fokus Pasar",
+        "excerpt": "XRP naik berkat lonjakan volume di akhir sesi, sementara trader memantau apakah kompresi dekat US$1,39-US$1,40 berubah menjadi pergerakan lebih besar.",
+        "body": "XRP bergerak lebih tinggi setelah volume perdagangan meningkat di akhir sesi, membawa harga mendekati US$1,40. Pelaku pasar mengamati apakah rentang sempit di sekitar US$1,39 hingga US$1,40 akhirnya berubah menjadi pergerakan yang lebih besar. Fokus utamanya adalah kompresi harga. Semakin ketat rentangnya, semakin besar perhatian trader yang menunggu sinyal arah, tetapi sumber menyebut rentang yang mengetat itu menurunkan peluang breakout. Dalam jangka pendek, kuncinya adalah apakah lonjakan volume akhir sesi terus menopang kenaikan atau rentang terkompresi tetap bertahan. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "af901e68351b",
     "slug": "how-ai-became-cryptos-favorite-reason-to-cut-staff-470595",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Bulls Bitcoin Bidik $115K pada Desember, Data Opsi Jadi Ujian",
         "excerpt": "Opsi Bitcoin menunjukkan trader bullish menargetkan $115.000 hingga Desember, sementara pasar menilai apakah ekspektasi itu terlalu optimistis.",
         "body": "Bulls Bitcoin menetapkan target harga $115.000 hingga Desember. Menurut cointelegraph.com, pergerakan opsi Bitcoin menunjukkan posisi investor yang mengharapkan level tinggi pada akhir tahun. Namun, pertanyaan utamanya adalah apakah ekspektasi itu didukung oleh data atau trader mulai terlalu optimistis. Pasar opsi dapat mencerminkan ekspektasi harga ke depan, tetapi tidak menjamin target akan tercapai. Pelaku pasar perlu memantau pergerakan harga Bitcoin dan perubahan permintaan opsi hingga akhir tahun. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "f5e611268422",
-    "slug": "trump-backed-american-bitcoin-shares-fall-after-82-million-q-414578",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T00:00:05.471Z",
-    "updatedAt": "2026-05-08T00:00:05.471Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367150/trump-backed-american-bitcoin-shares-fall-82-million-q1-loss",
-    "canonicalUrl": "https://decrypt.co/367150/trump-backed-american-bitcoin-shares-fall-82-million-q1-loss",
-    "titleFingerprint": "123879168718325fe22586eed16d77f2c34f53be",
-    "dedupKeys": [
-      "f5e6112684228ad961679af50162b4b3b6dd088f",
-      "123879168718325fe22586eed16d77f2c34f53be",
-      "bdc79abb3532f22c368ee2cd33f512b7d9653da0"
-    ],
-    "imageUrl": "/images/articles/f5e611268422.png",
-    "i18n": {
-      "ko": {
-        "title": "American Bitcoin 주가 9% 넘게 하락, 1분기 8,200만달러 손실 여파",
-        "excerpt": "Eric Trump 관련 채굴업체 American Bitcoin 주가가 1분기 약 8,200만달러 손실 발표 이후 9% 넘게 하락하며 실적 부담이 투자 심리에 영향을 미쳤다.",
-        "body": "Eric Trump의 채굴업체 American Bitcoin 주가가 1분기 실적 발표 이후 9% 넘게 하락했다. 회사는 해당 분기에 거의 8,200만달러에 달하는 손실을 기록했다고 밝혔다. 이번 하락은 Trump 후원을 받는 것으로 알려진 American Bitcoin이 대규모 분기 손실을 공개한 직후 나타났다. 손실 규모가 투자자들의 우려를 키우면서 주가에 부담으로 작용한 것으로 보인다. 향후 시장의 관심은 회사가 손실을 줄이고 채굴 사업의 수익성을 회복할 수 있는지에 쏠릴 전망이다. 출처: decrypt.co."
-      },
-      "en": {
-        "title": "American Bitcoin Shares Drop Over 9% After $82 Million Q1 Loss",
-        "excerpt": "Shares of Eric Trump-linked miner American Bitcoin fell more than 9% after the company reported a first-quarter loss of nearly $82 million, weighing on investor sentiment.",
-        "body": "Shares of Eric Trump's mining firm American Bitcoin fell more than 9% after the company released its first-quarter results. The firm reported a quarterly loss of nearly $82 million. The decline came shortly after Trump-backed American Bitcoin disclosed the large loss, putting pressure on its stock. The size of the loss appeared to raise investor concern and weighed on market sentiment. Looking ahead, attention is likely to focus on whether the company can reduce losses and restore profitability in its mining business. Source: decrypt.co."
-      },
-      "ja": {
-        "title": "American Bitcoin株が9％超下落、1Qの8200万ドル損失が重荷",
-        "excerpt": "Eric Trump氏関連のマイニング企業American Bitcoin株は、第1四半期に約8200万ドルの損失を発表した後、9％超下落し投資家心理を圧迫した。",
-        "body": "Eric Trump氏のマイニング企業American Bitcoinの株価は、第1四半期決算の発表後に9％超下落した。同社は同四半期に約8200万ドルの損失を計上したと明らかにした。Trump氏の支援を受けるとされるAmerican Bitcoinが大規模な四半期損失を公表した直後に、株価下落が起きた。損失規模が投資家の懸念を強め、株価の重荷になったとみられる。今後は、同社が損失を縮小し、マイニング事業の収益性を回復できるかが注目される。出典: decrypt.co."
-      },
-      "zh": {
-        "title": "American Bitcoin股价跌超9%，一季度8200万美元亏损承压",
-        "excerpt": "与Eric Trump有关的矿企American Bitcoin公布第一季度近8200万美元亏损后，股价下跌超过9%，业绩压力影响投资者情绪。",
-        "body": "Eric Trump旗下矿企American Bitcoin在公布第一季度业绩后，股价下跌超过9%。公司表示，该季度录得近8200万美元亏损。此次下跌发生在这家被称为得到Trump支持的American Bitcoin披露大额季度亏损之后。亏损规模加剧了投资者担忧，并对股价形成压力。接下来，市场关注点将集中在公司能否减少亏损，并恢复其挖矿业务的盈利能力。来源: decrypt.co."
-      },
-      "es": {
-        "title": "American Bitcoin cae más de 9% tras pérdida de US$82 millones en el 1T",
-        "excerpt": "Las acciones de American Bitcoin, minera vinculada a Eric Trump, cayeron más de 9% tras reportar una pérdida trimestral de casi US$82 millones, afectando el ánimo inversor.",
-        "body": "Las acciones de American Bitcoin, la firma minera de Eric Trump, cayeron más de 9% después de publicar sus resultados del primer trimestre. La compañía informó una pérdida trimestral de casi US$82 millones. La caída se produjo poco después de que American Bitcoin, descrita como respaldada por Trump, revelara una pérdida significativa en el periodo. El tamaño de la pérdida aumentó la preocupación de los inversores y presionó la acción. En adelante, la atención del mercado se centrará en si la empresa puede reducir pérdidas y recuperar rentabilidad en su negocio de minería. Fuente: decrypt.co."
-      },
-      "pt": {
-        "title": "American Bitcoin cai mais de 9% após prejuízo de US$82 milhões no 1T",
-        "excerpt": "As ações da mineradora American Bitcoin, ligada a Eric Trump, caíram mais de 9% após a empresa reportar prejuízo trimestral de quase US$82 milhões, afetando investidores.",
-        "body": "As ações da American Bitcoin, empresa de mineração de Eric Trump, caíram mais de 9% após a divulgação dos resultados do primeiro trimestre. A companhia informou um prejuízo trimestral de quase US$82 milhões. A queda ocorreu logo depois de a American Bitcoin, descrita como apoiada por Trump, revelar uma perda expressiva no período. O tamanho do prejuízo elevou a preocupação dos investidores e pressionou o papel. Daqui em diante, o mercado deve observar se a empresa conseguirá reduzir perdas e recuperar a rentabilidade do negócio de mineração. Fonte: decrypt.co."
-      },
-      "de": {
-        "title": "American Bitcoin fällt über 9% nach Q1-Verlust von 82 Mio. US-Dollar",
-        "excerpt": "Die Aktie von Eric Trumps Mining-Firma American Bitcoin fiel um mehr als 9%, nachdem das Unternehmen für das erste Quartal einen Verlust von fast 82 Mio. US-Dollar meldete.",
-        "body": "Die Aktie von American Bitcoin, der Mining-Firma von Eric Trump, fiel nach der Veröffentlichung der Ergebnisse für das erste Quartal um mehr als 9%. Das Unternehmen meldete für das Quartal einen Verlust von fast 82 Mio. US-Dollar. Der Rückgang folgte kurz darauf, dass die als Trump-unterstützt beschriebene American Bitcoin den hohen Quartalsverlust offengelegt hatte. Die Höhe des Verlusts verstärkte offenbar die Sorgen der Anleger und belastete den Kurs. Künftig dürfte der Markt darauf achten, ob das Unternehmen Verluste senken und die Profitabilität seines Mining-Geschäfts wiederherstellen kann. Quelle: decrypt.co."
-      },
-      "fr": {
-        "title": "American Bitcoin chute de plus de 9 % après une perte de 82 M$ au T1",
-        "excerpt": "L’action d’American Bitcoin, société de minage liée à Eric Trump, a reculé de plus de 9 % après l’annonce d’une perte trimestrielle de près de 82 M$, pesant sur le marché.",
-        "body": "L’action d’American Bitcoin, la société de minage d’Eric Trump, a reculé de plus de 9 % après la publication de ses résultats du premier trimestre. L’entreprise a fait état d’une perte trimestrielle de près de 82 millions de dollars. Cette baisse est intervenue peu après que la société, présentée comme soutenue par Trump, a dévoilé cette perte importante. Son ampleur a renforcé les inquiétudes des investisseurs et pesé sur le titre. La suite dépendra de la capacité de l’entreprise à réduire ses pertes et à restaurer la rentabilité de son activité de minage. Source : decrypt.co."
-      },
-      "ar": {
-        "title": "سهم American Bitcoin يهبط بأكثر من 9% بعد خسارة 82 مليون دولار في الربع الأول",
-        "excerpt": "هبط سهم شركة التعدين American Bitcoin المرتبطة بإريك ترامب بأكثر من 9% بعد إعلان خسارة فصلية تقارب 82 مليون دولار، ما ضغط على معنويات المستثمرين.",
-        "body": "هبط سهم شركة التعدين American Bitcoin التابعة لإريك ترامب بأكثر من 9% بعد إعلان نتائج الربع الأول. وقالت الشركة إنها سجلت خسارة فصلية تقارب 82 مليون دولار. وجاء التراجع بعد وقت قصير من كشف American Bitcoin، الموصوفة بأنها مدعومة من ترامب، عن هذه الخسارة الكبيرة. ويبدو أن حجم الخسارة زاد قلق المستثمرين وشكل ضغطا على السهم. ومن المتوقع أن يتركز اهتمام السوق لاحقا على قدرة الشركة على خفض خسائرها واستعادة ربحية نشاط التعدين. المصدر: decrypt.co."
-      },
-      "hi": {
-        "title": "American Bitcoin शेयर 9% से अधिक गिरे, Q1 में 8.2 करोड़ डॉलर का घाटा",
-        "excerpt": "Eric Trump से जुड़ी माइनिंग कंपनी American Bitcoin के शेयर पहली तिमाही में लगभग 8.2 करोड़ डॉलर के घाटे की रिपोर्ट के बाद 9% से अधिक गिर गए, जिससे निवेशक धारणा प्रभावित हुई।",
-        "body": "Eric Trump की माइनिंग कंपनी American Bitcoin के शेयर पहली तिमाही के नतीजों के बाद 9% से अधिक गिर गए। कंपनी ने बताया कि इस तिमाही में उसे लगभग 8.2 करोड़ डॉलर का घाटा हुआ। यह गिरावट Trump समर्थित कही जाने वाली American Bitcoin द्वारा बड़े तिमाही नुकसान का खुलासा करने के तुरंत बाद आई। घाटे के आकार ने निवेशकों की चिंता बढ़ाई और शेयर पर दबाव डाला। आगे बाजार का ध्यान इस बात पर रहेगा कि कंपनी घाटा कम कर पाती है या नहीं और अपने माइनिंग कारोबार की लाभप्रदता बहाल कर सकती है या नहीं। स्रोत: decrypt.co."
-      },
-      "id": {
-        "title": "Saham American Bitcoin Turun 9% Lebih Usai Rugi Q1 US$82 Juta",
-        "excerpt": "Saham perusahaan penambangan American Bitcoin yang terkait Eric Trump turun lebih dari 9% setelah melaporkan rugi kuartal pertama hampir US$82 juta, menekan sentimen investor.",
-        "body": "Saham American Bitcoin, perusahaan penambangan milik Eric Trump, turun lebih dari 9% setelah merilis hasil kuartal pertama. Perusahaan melaporkan rugi kuartalan hampir US$82 juta. Penurunan ini terjadi tak lama setelah American Bitcoin, yang disebut didukung Trump, mengungkap kerugian besar pada periode tersebut. Besarnya rugi tampaknya meningkatkan kekhawatiran investor dan membebani harga saham. Ke depan, perhatian pasar akan tertuju pada kemampuan perusahaan mengurangi kerugian dan memulihkan profitabilitas bisnis penambangannya. Sumber: decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "5e982e5897e4",
-    "slug": "bitcoin-dips-below-80k-as-analysts-say-profit-taking-is-on-t-513653",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T23:59:18.269Z",
-    "updatedAt": "2026-05-07T23:59:18.269Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367157/bitcoin-dips-below-80k-analysts-profit-taking",
-    "canonicalUrl": "https://decrypt.co/367157/bitcoin-dips-below-80k-analysts-profit-taking",
-    "titleFingerprint": "fc1cdf618ca10b511e8abecff9acdba56358d394",
-    "dedupKeys": [
-      "5e982e5897e44793b25980a6e292801f75e5e450",
-      "fc1cdf618ca10b511e8abecff9acdba56358d394",
-      "c101a1654c065eaa13f3fb85e28dc1c38092dd84"
-    ],
-    "imageUrl": "/images/articles/5e982e5897e4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 8만 달러 하회, 차익 실현 증가 분석에 시장 주목",
-        "excerpt": "비트코인이 목요일 한때 8만 달러 아래로 내려갔고, 분석가들은 암호화폐 트레이더들의 차익 실현이 늘어난 점을 가격 하락 배경으로 지목했다.",
-        "body": "비트코인이 목요일 한때 8만 달러 아래로 떨어졌다. decrypt.co에 따르면 이번 하락은 암호화폐 트레이더들 사이에서 차익 실현이 증가했다는 분석이 나오는 가운데 발생했다. 핵심 가격대인 8만 달러를 일시적으로 밑돈 점은 시장 참여자들이 단기 가격 흐름과 매도 압력을 다시 점검하게 만든다. 분석가들은 최근 움직임의 배경으로 수익을 확정하려는 거래가 늘어난 점을 언급했다. 다만 원문은 하락 폭이나 이후 회복 여부에 대한 추가 수치를 제시하지 않았다. 투자자들은 차익 실현 흐름이 이어질지, 비트코인이 8만 달러 부근에서 어떤 움직임을 보일지 주시하고 있다. 출처: decrypt.co 인용."
-      },
-      "en": {
-        "title": "Bitcoin Falls Below $80K as Profit-Taking Draws Market Focus",
-        "excerpt": "Bitcoin briefly dropped below $80,000 on Thursday as analysts pointed to rising profit-taking among crypto traders as a factor behind the move.",
-        "body": "Bitcoin briefly fell below $80,000 on Thursday. According to decrypt.co, the move came as analysts said profit-taking has increased among crypto traders. The temporary break below the key $80,000 level prompted market participants to reassess short-term price action and selling pressure. Analysts cited a rise in trades aimed at locking in gains as part of the backdrop to the latest move. The original report did not provide additional figures on the size of the decline or whether Bitcoin later recovered. Investors are watching whether profit-taking continues and how Bitcoin trades around the $80,000 area. Source: cited from decrypt.co."
-      },
-      "ja": {
-        "title": "ビットコイン8万ドル割れ、利益確定売り増加に市場が注目",
-        "excerpt": "ビットコインは木曜日に一時8万ドルを下回り、アナリストは暗号資産トレーダーの利益確定が増えている点を下落要因として指摘した。",
-        "body": "ビットコインは木曜日、一時8万ドルを下回った。decrypt.coによると、この下落は暗号資産トレーダーの間で利益確定が増えているとの分析が出る中で起きた。重要な価格水準である8万ドルを一時的に割り込んだことで、市場参加者は短期的な値動きと売り圧力を改めて確認している。アナリストは、利益を確定しようとする取引の増加を最近の動きの背景として挙げた。ただし原文は、下落幅やその後の回復の有無について追加の数値を示していない。投資家は利益確定の流れが続くか、ビットコインが8万ドル付近でどのように推移するかを注視している。出典：decrypt.coを引用。"
-      },
-      "zh": {
-        "title": "比特币跌破8万美元，获利了结增加引发市场关注",
-        "excerpt": "比特币周四一度跌破8万美元，分析师指出，加密货币交易者获利了结增加，是此次价格回落的背景之一。",
-        "body": "比特币周四一度跌破8万美元。据decrypt.co报道，这一回落发生在分析师称加密货币交易者获利了结增加之际。价格短暂跌破8万美元这一关键水平，使市场参与者重新关注短期走势和卖压。分析师将近期波动的背景之一归因于更多交易者选择锁定收益。原文并未提供跌幅大小或随后是否反弹的进一步数据。投资者正在关注获利了结趋势是否延续，以及比特币在8万美元附近将如何运行。来源：引用decrypt.co。"
-      },
-      "es": {
-        "title": "Bitcoin cae bajo US$80K mientras crece la toma de ganancias",
-        "excerpt": "Bitcoin cayó brevemente por debajo de US$80.000 el jueves, mientras analistas señalaron un aumento de la toma de ganancias entre operadores cripto.",
-        "body": "Bitcoin cayó brevemente por debajo de US$80.000 el jueves. Según decrypt.co, el movimiento ocurrió mientras analistas afirmaban que la toma de ganancias ha aumentado entre los operadores de criptomonedas. La pérdida temporal del nivel clave de US$80.000 llevó a los participantes del mercado a revisar la acción de precio de corto plazo y la presión vendedora. Los analistas citaron el incremento de operaciones destinadas a asegurar beneficios como parte del contexto del movimiento reciente. El informe original no ofreció cifras adicionales sobre la magnitud de la caída ni sobre una recuperación posterior. Los inversores observan si la toma de ganancias continúa y cómo se comporta Bitcoin cerca de US$80.000. Fuente: citado de decrypt.co."
-      },
-      "pt": {
-        "title": "Bitcoin cai abaixo de US$80 mil com aumento da realização de lucros",
-        "excerpt": "O Bitcoin caiu brevemente abaixo de US$80.000 na quinta-feira, enquanto analistas apontaram maior realização de lucros entre traders de cripto.",
-        "body": "O Bitcoin caiu brevemente abaixo de US$80.000 na quinta-feira. Segundo o decrypt.co, o movimento ocorreu enquanto analistas afirmavam que a realização de lucros aumentou entre traders de criptomoedas. A perda temporária do nível-chave de US$80.000 levou participantes do mercado a reavaliar a dinâmica de curto prazo e a pressão vendedora. Analistas citaram o aumento de operações para garantir ganhos como parte do contexto do movimento recente. O texto original não apresentou números adicionais sobre o tamanho da queda nem sobre uma eventual recuperação posterior. Investidores acompanham se a realização de lucros continuará e como o Bitcoin se comportará perto de US$80.000. Fonte: citado de decrypt.co."
-      },
-      "de": {
-        "title": "Bitcoin fällt unter 80.000 Dollar, Gewinnmitnahmen rücken in Fokus",
-        "excerpt": "Bitcoin fiel am Donnerstag kurzzeitig unter 80.000 Dollar, während Analysten auf zunehmende Gewinnmitnahmen unter Krypto-Tradern verwiesen.",
-        "body": "Bitcoin fiel am Donnerstag kurzzeitig unter 80.000 Dollar. Laut decrypt.co geschah der Rückgang, während Analysten erklärten, dass Gewinnmitnahmen unter Krypto-Tradern zugenommen haben. Das zeitweilige Unterschreiten der wichtigen Marke von 80.000 Dollar veranlasste Marktteilnehmer, die kurzfristige Kursentwicklung und den Verkaufsdruck neu zu bewerten. Analysten nannten die Zunahme von Transaktionen zur Sicherung von Gewinnen als einen Hintergrund der jüngsten Bewegung. Der Originalbericht machte keine zusätzlichen Angaben zur Höhe des Rückgangs oder dazu, ob sich Bitcoin anschließend erholte. Anleger beobachten, ob die Gewinnmitnahmen anhalten und wie sich Bitcoin im Bereich von 80.000 Dollar bewegt. Quelle: zitiert nach decrypt.co."
-      },
-      "fr": {
-        "title": "Bitcoin passe sous 80 000 $, la prise de bénéfices attire l’attention",
-        "excerpt": "Bitcoin est brièvement passé sous 80 000 $ jeudi, alors que des analystes ont signalé une hausse des prises de bénéfices chez les traders crypto.",
-        "body": "Bitcoin est brièvement passé sous 80 000 $ jeudi. Selon decrypt.co, ce repli est intervenu alors que des analystes indiquaient une augmentation des prises de bénéfices parmi les traders de cryptomonnaies. Le passage temporaire sous le seuil clé de 80 000 $ a conduit les acteurs du marché à réexaminer l’évolution de court terme des prix et la pression vendeuse. Les analystes ont cité la hausse des opérations visant à sécuriser des gains comme élément de contexte du mouvement récent. L’article original ne fournit pas de chiffres supplémentaires sur l’ampleur de la baisse ni sur une éventuelle reprise ensuite. Les investisseurs surveillent si les prises de bénéfices se poursuivent et comment Bitcoin évolue autour de 80 000 $. Source : cité de decrypt.co."
-      },
-      "ar": {
-        "title": "بيتكوين تهبط دون 80 ألف دولار مع تزايد جني الأرباح",
-        "excerpt": "هبطت بيتكوين لفترة وجيزة دون 80 ألف دولار يوم الخميس، بينما قال محللون إن جني الأرباح بين متداولي العملات المشفرة ازداد.",
-        "body": "هبطت بيتكوين يوم الخميس لفترة وجيزة دون مستوى 80 ألف دولار. وبحسب decrypt.co، جاء هذا التراجع في وقت قال فيه محللون إن جني الأرباح ازداد بين متداولي العملات المشفرة. إن كسر هذا المستوى المهم مؤقتا دفع المشاركين في السوق إلى إعادة تقييم حركة السعر القصيرة الأجل وضغط البيع. وأشار المحللون إلى زيادة الصفقات الهادفة إلى تثبيت المكاسب كجزء من خلفية الحركة الأخيرة. ولم يقدم النص الأصلي أرقاما إضافية عن حجم الانخفاض أو ما إذا كانت بيتكوين قد تعافت لاحقا. يراقب المستثمرون ما إذا كان اتجاه جني الأرباح سيستمر، وكيف ستتحرك بيتكوين قرب مستوى 80 ألف دولار. المصدر: نقلا عن decrypt.co."
-      },
-      "hi": {
-        "title": "Bitcoin $80K से नीचे फिसला, मुनाफावसूली बढ़ने पर बाजार की नजर",
-        "excerpt": "Bitcoin गुरुवार को कुछ समय के लिए $80,000 से नीचे चला गया, जबकि विश्लेषकों ने क्रिप्टो ट्रेडरों में बढ़ती मुनाफावसूली को कारण बताया।",
-        "body": "Bitcoin गुरुवार को कुछ समय के लिए $80,000 से नीचे फिसल गया। decrypt.co के अनुसार, यह गिरावट ऐसे समय आई जब विश्लेषकों ने कहा कि क्रिप्टो ट्रेडरों के बीच मुनाफावसूली बढ़ी है। $80,000 के अहम स्तर से अस्थायी रूप से नीचे जाना बाजार प्रतिभागियों को अल्पकालिक कीमत चाल और बिकवाली दबाव की फिर से समीक्षा करने के लिए प्रेरित कर रहा है। विश्लेषकों ने हालिया हलचल की पृष्ठभूमि में लाभ सुरक्षित करने वाले सौदों की बढ़ोतरी का उल्लेख किया। मूल रिपोर्ट ने गिरावट के आकार या बाद में Bitcoin की रिकवरी को लेकर अतिरिक्त आंकड़े नहीं दिए। निवेशक देख रहे हैं कि मुनाफावसूली जारी रहती है या नहीं और Bitcoin $80,000 के आसपास कैसे कारोबार करता है। स्रोत: decrypt.co से उद्धृत।"
-      },
-      "id": {
-        "title": "Bitcoin Turun di Bawah US$80K, Aksi Ambil Untung Jadi Sorotan",
-        "excerpt": "Bitcoin sempat turun di bawah US$80.000 pada Kamis, saat analis menyebut aksi ambil untung meningkat di kalangan trader kripto.",
-        "body": "Bitcoin sempat turun di bawah US$80.000 pada Kamis. Menurut decrypt.co, pelemahan ini terjadi ketika analis mengatakan aksi ambil untung meningkat di kalangan trader kripto. Penurunan sementara di bawah level penting US$80.000 membuat pelaku pasar kembali mencermati pergerakan harga jangka pendek dan tekanan jual. Analis menyebut bertambahnya transaksi untuk mengunci keuntungan sebagai bagian dari latar belakang pergerakan terbaru. Laporan asli tidak memberikan angka tambahan mengenai besarnya penurunan atau apakah Bitcoin kemudian pulih. Investor memantau apakah aksi ambil untung berlanjut dan bagaimana Bitcoin bergerak di sekitar US$80.000. Sumber: dikutip dari decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "5ffb1460faa8",
-    "slug": "21shares-debuts-first-etf-focused-on-canton-network-crypto-t-355816",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T23:58:26.711Z",
-    "updatedAt": "2026-05-07T23:58:26.711Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367153/21shares-first-etf-focused-canton-network-crypto-token",
-    "canonicalUrl": "https://decrypt.co/367153/21shares-first-etf-focused-canton-network-crypto-token",
-    "titleFingerprint": "c0083c8de22fe3fb4ec5ad1c72e66e4cbf788116",
-    "dedupKeys": [
-      "5ffb1460faa8a0ca3cf9ee0ee1b0f574f2b0a58f",
-      "c0083c8de22fe3fb4ec5ad1c72e66e4cbf788116",
-      "41c9ada4a2d6e6a2e6b7bd9c0e3374a17af43c33"
-    ],
-    "imageUrl": "/images/articles/5ffb1460faa8.png",
-    "i18n": {
-      "ko": {
-        "title": "21Shares, 캔톤 코인 첫 집중 ETF 출시…나스닥 상장 펀드 주목",
-        "excerpt": "21Shares가 나스닥 상장 펀드를 통해 프라이버시 중심 기관용 블록체인 캔톤 네트워크의 네이티브 토큰 캔톤 코인 노출 상품을 선보였다.",
-        "body": "21Shares가 캔톤 네트워크의 네이티브 암호화폐인 캔톤 코인에 초점을 맞춘 첫 ETF를 선보였다. 이 펀드는 나스닥에 상장돼 투자자에게 해당 토큰에 대한 노출을 제공한다. 캔톤 네트워크는 프라이버시 기능에 중점을 둔 기관용 블록체인 네트워크로 소개된다. 이번 상품은 기관형 블록체인 토큰을 ETF 구조로 접근하려는 투자 수요와 맞물려 주목된다. 다만 원문은 펀드의 세부 운용 규모나 수수료, 거래 개시일 등 추가 수치는 제시하지 않았다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "21Shares Launches First Canton Coin ETF on Nasdaq-Listed Fund",
-        "excerpt": "21Shares introduced a Nasdaq-listed fund offering exposure to Canton Coin, the native token of the privacy-focused institutional blockchain Canton Network.",
-        "body": "21Shares has debuted the first ETF focused on Canton Coin, the native cryptocurrency of Canton Network. The fund is listed on Nasdaq and gives investors exposure to the token. Canton Network is described as a privacy-focused institutional blockchain network. The launch draws attention as it brings an institutional blockchain token into an ETF structure for market access. The original report did not provide additional figures such as assets under management, fees, or the trading start date. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "21Shares、Canton Coin初の特化ETFを投入 ナスダック上場で注目",
-        "excerpt": "21Sharesは、プライバシー重視の機関向けブロックチェーンCanton Networkのネイティブトークン、Canton Coinへの投資機会を提供するナスダック上場ファンドを発表した。",
-        "body": "21Sharesは、Canton Networkのネイティブ暗号資産であるCanton Coinに焦点を当てた初のETFを発表した。このファンドはナスダックに上場され、投資家に同トークンへのエクスポージャーを提供する。Canton Networkは、プライバシー機能を重視した機関向けブロックチェーンネットワークとして紹介されている。今回の商品は、機関向けブロックチェーンのトークンにETF形式でアクセスする動きとして注目される。ただし原文では、運用資産、手数料、取引開始日などの追加数値は示されていない。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "21Shares推出首只Canton Coin ETF，纳斯达克上市基金受关注",
-        "excerpt": "21Shares推出一只纳斯达克上市基金，为投资者提供对隐私导向机构级区块链Canton Network原生代币Canton Coin的敞口。",
-        "body": "21Shares推出了首只专注于Canton Coin的ETF。Canton Coin是Canton Network的原生加密代币。该基金在纳斯达克上市，为投资者提供对该代币的投资敞口。Canton Network被描述为一个注重隐私的机构级区块链网络。此次产品发布受到关注，因为它通过ETF结构为市场提供了接触机构型区块链代币的方式。不过，原文未披露基金管理规模、费率或开始交易日期等更多数据。来源: decrypt.co"
-      },
-      "es": {
-        "title": "21Shares lanza el primer ETF centrado en Canton Coin en Nasdaq",
-        "excerpt": "21Shares presentó un fondo cotizado en Nasdaq que ofrece exposición a Canton Coin, el token nativo de Canton Network, una blockchain institucional centrada en privacidad.",
-        "body": "21Shares presentó el primer ETF centrado en Canton Coin, la criptomoneda nativa de Canton Network. El fondo cotiza en Nasdaq y ofrece a los inversores exposición a ese token. Canton Network se describe como una red blockchain institucional enfocada en la privacidad. El lanzamiento llama la atención porque lleva un token de blockchain institucional a una estructura de ETF accesible para el mercado. El informe original no incluyó cifras adicionales como activos bajo gestión, comisiones o fecha de inicio de negociación. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "21Shares lança primeiro ETF focado em Canton Coin listado na Nasdaq",
-        "excerpt": "A 21Shares apresentou um fundo listado na Nasdaq que oferece exposição à Canton Coin, token nativo da Canton Network, blockchain institucional focada em privacidade.",
-        "body": "A 21Shares lançou o primeiro ETF focado na Canton Coin, criptomoeda nativa da Canton Network. O fundo é listado na Nasdaq e oferece aos investidores exposição ao token. A Canton Network é descrita como uma rede blockchain institucional com foco em privacidade. O produto chama atenção por permitir acesso a um token de blockchain institucional por meio de uma estrutura de ETF. O texto original não informou dados adicionais, como ativos sob gestão, taxas ou data de início das negociações. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "21Shares startet ersten Canton-Coin-ETF als Nasdaq-gelisteten Fonds",
-        "excerpt": "21Shares hat einen an der Nasdaq gelisteten Fonds vorgestellt, der Zugang zu Canton Coin bietet, dem nativen Token des datenschutzorientierten institutionellen Blockchain-Netzwerks Canton Network.",
-        "body": "21Shares hat den ersten ETF vorgestellt, der sich auf Canton Coin konzentriert, die native Kryptowährung von Canton Network. Der Fonds ist an der Nasdaq gelistet und bietet Anlegern Zugang zu diesem Token. Canton Network wird als institutionelles Blockchain-Netzwerk mit Fokus auf Datenschutz beschrieben. Das Produkt fällt auf, weil es einen institutionellen Blockchain-Token über eine ETF-Struktur zugänglich macht. Der Originalbericht nannte keine zusätzlichen Angaben wie verwaltetes Vermögen, Gebühren oder den Handelsstart. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "21Shares lance le premier ETF axé sur Canton Coin coté au Nasdaq",
-        "excerpt": "21Shares a présenté un fonds coté au Nasdaq offrant une exposition à Canton Coin, le jeton natif de Canton Network, une blockchain institutionnelle centrée sur la confidentialité.",
-        "body": "21Shares a lancé le premier ETF axé sur Canton Coin, la cryptomonnaie native de Canton Network. Le fonds est coté au Nasdaq et offre aux investisseurs une exposition à ce jeton. Canton Network est présenté comme un réseau blockchain institutionnel centré sur la confidentialité. Ce produit attire l’attention car il rend accessible un jeton de blockchain institutionnelle via une structure d’ETF. L’article original ne fournit pas d’autres chiffres, comme les actifs sous gestion, les frais ou la date de début de cotation. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "21Shares تطلق أول ETF يركز على Canton Coin عبر صندوق مدرج في ناسداك",
-        "excerpt": "قدمت 21Shares صندوقا مدرجا في ناسداك يوفر تعرضا لعملة Canton Coin، الرمز الأصلي لشبكة Canton Network المؤسسية المعتمدة على الخصوصية.",
-        "body": "أطلقت 21Shares أول صندوق ETF يركز على Canton Coin، وهي العملة المشفرة الأصلية لشبكة Canton Network. الصندوق مدرج في ناسداك ويوفر للمستثمرين تعرضا لهذا الرمز. وتوصف Canton Network بأنها شبكة بلوكتشين مؤسسية تركز على الخصوصية. يلفت المنتج الانتباه لأنه يتيح الوصول إلى رمز مرتبط ببلوكتشين مؤسسية من خلال هيكل ETF. ولم يذكر التقرير الأصلي أرقاما إضافية مثل حجم الأصول المدارة أو الرسوم أو تاريخ بدء التداول. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "21Shares ने Nasdaq पर Canton Coin केंद्रित पहला ETF पेश किया",
-        "excerpt": "21Shares ने Nasdaq-सूचीबद्ध फंड पेश किया है, जो गोपनीयता-केंद्रित संस्थागत ब्लॉकचेन Canton Network के मूल टोकन Canton Coin में एक्सपोजर देता है।",
-        "body": "21Shares ने Canton Network की मूल क्रिप्टोकरेंसी Canton Coin पर केंद्रित पहला ETF पेश किया है। यह फंड Nasdaq पर सूचीबद्ध है और निवेशकों को इस टोकन में एक्सपोजर देता है। Canton Network को गोपनीयता पर केंद्रित संस्थागत ब्लॉकचेन नेटवर्क के रूप में बताया गया है। यह उत्पाद इसलिए ध्यान खींचता है क्योंकि यह संस्थागत ब्लॉकचेन टोकन तक ETF ढांचे के जरिए पहुंच उपलब्ध कराता है। मूल रिपोर्ट में प्रबंधनाधीन परिसंपत्तियों, शुल्क या ट्रेडिंग शुरू होने की तारीख जैसे अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "21Shares Luncurkan ETF Pertama Berfokus Canton Coin di Nasdaq",
-        "excerpt": "21Shares memperkenalkan dana yang terdaftar di Nasdaq untuk memberi eksposur ke Canton Coin, token asli Canton Network, blockchain institusional berfokus privasi.",
-        "body": "21Shares meluncurkan ETF pertama yang berfokus pada Canton Coin, kripto asli Canton Network. Dana ini terdaftar di Nasdaq dan memberi investor eksposur ke token tersebut. Canton Network digambarkan sebagai jaringan blockchain institusional yang berfokus pada privasi. Produk ini menarik perhatian karena menghadirkan token blockchain institusional dalam struktur ETF untuk akses pasar. Namun, laporan asli tidak menyebutkan angka tambahan seperti aset kelolaan, biaya, atau tanggal mulai perdagangan. Sumber: decrypt.co"
       }
     }
   }
