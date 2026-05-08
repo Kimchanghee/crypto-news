@@ -1,5 +1,230 @@
 [
   {
+    "id": "50d15c671680",
+    "slug": "kraken-parent-payward-applies-for-occ-national-trust-bank-ch-148722",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T19:18:42.748Z",
+    "updatedAt": "2026-05-08T19:18:42.748Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367299/kraken-parent-payward-applies-occ-national-trust-bank-charter",
+    "canonicalUrl": "https://decrypt.co/367299/kraken-parent-payward-applies-occ-national-trust-bank-charter",
+    "titleFingerprint": "d0908b8cb1a72d5dfb90235d606d33238e2f80d7",
+    "dedupKeys": [
+      "50d15c6716809f9632f0152a03fcdc73463b7058",
+      "d0908b8cb1a72d5dfb90235d606d33238e2f80d7",
+      "a7d56e5015719ea661996bfb118246b006cc1d22"
+    ],
+    "imageUrl": "/images/articles/50d15c671680.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Kraken 모회사 Payward, OCC 신탁은행 인가 신청",
+        "excerpt": "Kraken 모회사 Payward가 미국 OCC의 전국 신탁은행 인가를 신청했다. 이번 신청은 기존 와이오밍 SPDI 자회사를 보완하려는 움직임으로 전해졌다.",
+        "body": "Kraken의 모회사 Payward가 미국 통화감독청(OCC)에 전국 신탁은행 인가를 신청했다. 이번 신청은 Kraken이 보유한 와이오밍 특수목적예금기관(SPDI) 자회사를 보완하기 위한 조치로 설명된다. OCC 인가는 미국 연방 차원의 은행 인가에 해당하며, Payward는 이를 통해 기존 주 단위 인가 구조와 별도로 연방 차원의 신탁은행 지위를 모색하고 있다. 이번 절차의 승인 여부와 구체적 일정은 원문에 제시되지 않았다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Kraken Parent Payward Seeks OCC National Trust Bank Charter",
+        "excerpt": "Kraken parent Payward has applied for a national trust bank charter from the U.S. OCC, a move intended to complement its existing Wyoming SPDI subsidiary.",
+        "body": "Payward, the parent company of crypto exchange Kraken, has applied to the U.S. Office of the Comptroller of the Currency for a national trust bank charter. The application is described as a step to complement Kraken’s Wyoming special purpose depository institution, or SPDI, subsidiary. An OCC charter would represent a federal U.S. banking charter, separate from the company’s existing state-level structure. The original report did not provide an approval timeline or further details on the process. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "Kraken親会社Payward、OCC全国信託銀行認可を申請",
+        "excerpt": "Krakenの親会社Paywardは、米OCCに全国信託銀行認可を申請した。既存のワイオミング州SPDI子会社を補完する狙いとされる。",
+        "body": "暗号資産取引所Krakenの親会社Paywardは、米通貨監督庁（OCC）に全国信託銀行認可を申請した。今回の申請は、Krakenが保有するワイオミング州の特別目的預金機関（SPDI）子会社を補完するための動きと説明されている。OCCの認可は米連邦レベルの銀行認可にあたり、Paywardは既存の州レベルの認可構造とは別に、連邦レベルの信託銀行としての地位を模索している。承認可否や具体的な時期は原文で示されていない。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "Kraken母公司Payward申请OCC全国信托银行牌照",
+        "excerpt": "Kraken母公司Payward已向美国OCC申请全国信托银行牌照，此举旨在补充其现有的怀俄明州SPDI子公司架构。",
+        "body": "加密货币交易所Kraken的母公司Payward已向美国货币监理署（OCC）申请全国信托银行牌照。该申请被描述为对Kraken现有怀俄明州特殊目的存款机构（SPDI）子公司的补充。OCC牌照属于美国联邦层面的银行许可，意味着Payward正在寻求在既有州级许可结构之外取得联邦信托银行地位。原文未披露审批结果、时间表或更具体的程序细节。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Payward, matriz de Kraken, solicita licencia bancaria fiduciaria OCC",
+        "excerpt": "Payward, matriz de Kraken, solicitó al OCC de EE. UU. una carta bancaria fiduciaria nacional para complementar su filial SPDI en Wyoming.",
+        "body": "Payward, la empresa matriz del exchange de criptomonedas Kraken, solicitó a la Oficina del Contralor de la Moneda de EE. UU. una carta bancaria fiduciaria nacional. La solicitud se presenta como una medida para complementar la filial de institución depositaria de propósito especial, o SPDI, que Kraken tiene en Wyoming. Una carta del OCC corresponde a una autorización bancaria federal en Estados Unidos, separada de la estructura estatal ya existente. El reporte original no indicó si la solicitud fue aprobada ni detalló un calendario del proceso. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Payward, dona da Kraken, pede licença fiduciária nacional ao OCC",
+        "excerpt": "A Payward, controladora da Kraken, solicitou ao OCC dos EUA uma carta de banco fiduciário nacional para complementar sua subsidiária SPDI em Wyoming.",
+        "body": "A Payward, empresa controladora da exchange de criptomoedas Kraken, solicitou ao Escritório do Controlador da Moeda dos EUA uma carta de banco fiduciário nacional. O pedido é descrito como uma medida para complementar a subsidiária de instituição depositária de propósito especial, ou SPDI, que a Kraken possui em Wyoming. Uma carta do OCC representa uma autorização bancária federal nos Estados Unidos, separada da estrutura estadual existente. O texto original não informou aprovação, prazo ou outros detalhes do processo. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Kraken-Mutter Payward beantragt OCC-Treuhandbanklizenz",
+        "excerpt": "Kraken-Mutter Payward hat bei der US-OCC eine nationale Treuhandbanklizenz beantragt, um ihre bestehende Wyoming-SPDI-Tochter zu ergänzen.",
+        "body": "Payward, die Muttergesellschaft der Kryptobörse Kraken, hat beim Office of the Comptroller of the Currency in den USA eine nationale Treuhandbanklizenz beantragt. Der Antrag wird als Schritt beschrieben, der Krakens bestehende Tochter als Special Purpose Depository Institution, kurz SPDI, in Wyoming ergänzen soll. Eine OCC-Lizenz wäre eine bundesweite US-Banklizenz und stünde neben der vorhandenen Struktur auf Ebene des Bundesstaates. Ob und wann der Antrag genehmigt wird, wurde im Originalbericht nicht genannt. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Payward, maison mère de Kraken, demande une charte bancaire OCC",
+        "excerpt": "Payward, maison mère de Kraken, a demandé à l’OCC américain une charte nationale de banque fiduciaire afin de compléter sa filiale SPDI du Wyoming.",
+        "body": "Payward, la maison mère de la plateforme d’échange crypto Kraken, a demandé à l’Office of the Comptroller of the Currency des États-Unis une charte nationale de banque fiduciaire. Cette démarche vise à compléter la filiale de Kraken dans le Wyoming, structurée comme institution de dépôt à objectif spécial, ou SPDI. Une charte de l’OCC correspond à une autorisation bancaire fédérale américaine, distincte de la structure existante au niveau de l’État. Le rapport initial ne précise ni calendrier d’approbation ni détails supplémentaires. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "بايوارد المالكة لكراكن تطلب ترخيص بنك ائتماني وطني من OCC",
+        "excerpt": "قدمت Payward، الشركة الأم لمنصة Kraken، طلبا إلى OCC الأمريكية للحصول على ترخيص بنك ائتماني وطني لاستكمال شركتها التابعة SPDI في وايومنغ.",
+        "body": "قدمت Payward، الشركة الأم لمنصة تداول العملات المشفرة Kraken، طلبا إلى مكتب مراقب العملة الأمريكي للحصول على ترخيص بنك ائتماني وطني. ويوصف الطلب بأنه خطوة لاستكمال الشركة التابعة لـKraken في وايومنغ، وهي مؤسسة إيداع ذات غرض خاص تعرف باسم SPDI. ويمثل ترخيص OCC ترخيصا مصرفيا على المستوى الفدرالي في الولايات المتحدة، إلى جانب الهيكل القائم على مستوى الولاية. ولم يذكر التقرير الأصلي ما إذا كان الطلب قد تمت الموافقة عليه أو جدولا زمنيا للعملية. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Kraken की मूल कंपनी Payward ने OCC ट्रस्ट बैंक चार्टर मांगा",
+        "excerpt": "Kraken की मूल कंपनी Payward ने अमेरिकी OCC से नेशनल ट्रस्ट बैंक चार्टर के लिए आवेदन किया है, ताकि Wyoming SPDI सहायक कंपनी को पूरक बनाया जा सके।",
+        "body": "क्रिप्टो एक्सचेंज Kraken की मूल कंपनी Payward ने अमेरिकी Office of the Comptroller of the Currency के पास नेशनल ट्रस्ट बैंक चार्टर के लिए आवेदन किया है। इस आवेदन को Kraken की Wyoming स्थित special purpose depository institution, यानी SPDI, सहायक कंपनी को पूरक बनाने वाला कदम बताया गया है। OCC चार्टर अमेरिका में संघीय स्तर का बैंकिंग चार्टर होगा, जो मौजूदा राज्य-स्तरीय संरचना से अलग है। मूल रिपोर्ट में मंजूरी, समयसीमा या प्रक्रिया के अतिरिक्त विवरण नहीं दिए गए। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Induk Kraken Payward Ajukan Piagam Bank Trust Nasional OCC",
+        "excerpt": "Payward, induk Kraken, mengajukan piagam bank trust nasional ke OCC AS untuk melengkapi anak usaha SPDI yang sudah dimilikinya di Wyoming.",
+        "body": "Payward, perusahaan induk bursa kripto Kraken, mengajukan permohonan piagam bank trust nasional kepada Office of the Comptroller of the Currency di Amerika Serikat. Permohonan ini disebut sebagai langkah untuk melengkapi anak usaha Kraken di Wyoming yang berstatus special purpose depository institution, atau SPDI. Piagam OCC merupakan izin perbankan tingkat federal AS, terpisah dari struktur izin tingkat negara bagian yang sudah ada. Laporan asli tidak mencantumkan persetujuan, jadwal, atau rincian proses lebih lanjut. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "8d5b40207d72",
+    "slug": "trump-admin-launches-pentagon-ufo-website-with-declassified--803091",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T19:17:52.161Z",
+    "updatedAt": "2026-05-08T19:17:52.161Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367300/trump-admin-launches-pentagon-ufo-website-declassified",
+    "canonicalUrl": "https://decrypt.co/367300/trump-admin-launches-pentagon-ufo-website-declassified",
+    "titleFingerprint": "ca64477fc0eeec75f6f8f0ba5d0f446c74909e4a",
+    "dedupKeys": [
+      "8d5b40207d72d32b4ef65a90854e005ddf3ef5cb",
+      "ca64477fc0eeec75f6f8f0ba5d0f446c74909e4a",
+      "d9be9af6b68df29b831b6438e017d7372c7fb4a5"
+    ],
+    "imageUrl": "/images/articles/8d5b40207d72.png",
+    "i18n": {
+      "ko": {
+        "title": "펜타곤 UFO 웹사이트 공개, 트럼프 행정부가 기밀해제 파일 열람 허용",
+        "excerpt": "트럼프 행정부가 2026년 5월 8일 펜타곤 UFO 웹사이트를 열고 기밀해제된 UAP 파일을 공개했다. 청문회와 조사, 투명성 요구가 이어진 뒤 나온 조치다.",
+        "body": "트럼프 행정부는 2026년 5월 8일 펜타곤의 새 UFO·UAP 웹사이트를 공개하고 기밀해제 파일 열람을 시작했다. 이 사이트는 미확인 이상현상 관련 영상, 사진, 원문 문서를 한곳에 모아 일반인이 별도 보안 허가 없이 확인할 수 있도록 만든 창구다. 공개는 수년간 이어진 의회 청문회, 정부 조사, UAP 투명성 확대 압박 뒤에 나왔다. 보도에 따르면 첫 공개분에는 160건이 넘는 파일이 포함됐으며, 정부는 추가 자료를 순차적으로 올릴 수 있다고 밝혔다. 이번 조치는 UFO 자료 접근성을 높이지만, 공개 문서가 외계 생명체의 증거를 확인했다는 의미는 아니다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Pentagon UFO Website Opens as Trump Admin Releases Files",
+        "excerpt": "The Trump administration opened a Pentagon UFO website on May 8, 2026, giving public access to declassified UAP files after years of hearings, investigations, and demands for transparency.",
+        "body": "The Trump administration launched a new Pentagon UFO and UAP website on May 8, 2026, opening access to declassified files for the public. The portal gathers videos, photos, and original source documents on unidentified anomalous phenomena in one place, with no security clearance required. The release follows years of congressional hearings, government investigations, and pressure for greater UAP transparency. According to reports, the first batch includes more than 160 files, and officials said more materials may be added over time. The move expands access to UFO records, but the released documents do not confirm evidence of extraterrestrial life. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "ペンタゴンUFOサイト公開、トランプ政権が機密解除ファイルを開放",
+        "excerpt": "トランプ政権は2026年5月8日、ペンタゴンのUFOサイトを開設し、機密解除されたUAPファイルを公開した。公聴会や調査、透明性要求を受けた動きだ。",
+        "body": "トランプ政権は2026年5月8日、ペンタゴンの新たなUFO・UAPウェブサイトを公開し、機密解除ファイルへの一般アクセスを開始した。このサイトは、未確認異常現象に関する動画、写真、原資料を一カ所に集め、特別な保安許可なしで確認できる窓口となる。公開は、長年続いた議会公聴会、政府調査、UAPの透明性拡大を求める圧力の後に行われた。報道によると、初回公開分には160件を超えるファイルが含まれ、政府は今後も資料を順次追加する可能性があるとした。今回の措置はUFO記録へのアクセスを広げるが、公開文書が地球外生命の証拠を確認したことを意味するものではない。出典: decrypt.co."
+      },
+      "zh": {
+        "title": "五角大楼UFO网站上线，特朗普政府开放解密文件",
+        "excerpt": "特朗普政府于2026年5月8日推出五角大楼UFO网站，公开已解密的UAP文件；此前多年听证、调查和透明度诉求持续升温。",
+        "body": "特朗普政府于2026年5月8日推出新的五角大楼UFO和UAP网站，开始向公众开放解密文件。该门户把有关未确认异常现象的视频、照片和原始文件集中在一处，公众无需安全许可即可查看。此次公开发生在多年国会听证、政府调查以及要求提高UAP透明度的压力之后。报道称，首批公开内容包括160多份文件，政府表示未来可能继续分批添加更多资料。此举提高了UFO记录的可访问性，但公开文件并不等于确认存在外星生命证据。来源: decrypt.co."
+      },
+      "es": {
+        "title": "Sitio OVNI del Pentágono abre con archivos desclasificados",
+        "excerpt": "La administración Trump abrió el 8 de mayo de 2026 un sitio OVNI del Pentágono con archivos UAP desclasificados, tras años de audiencias, investigaciones y presión por transparencia.",
+        "body": "La administración Trump lanzó el 8 de mayo de 2026 un nuevo sitio web del Pentágono sobre OVNIs y UAP, abriendo al público archivos desclasificados. El portal reúne en un solo lugar videos, fotos y documentos originales sobre fenómenos anómalos no identificados, sin exigir autorización de seguridad. La publicación llega después de años de audiencias en el Congreso, investigaciones oficiales y presión para ampliar la transparencia sobre los UAP. Según los reportes, el primer lote incluye más de 160 archivos, y el gobierno indicó que podrían añadirse más materiales con el tiempo. La medida mejora el acceso a registros OVNI, pero los documentos publicados no confirman pruebas de vida extraterrestre. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Site de OVNIs do Pentágono abre com arquivos desclassificados",
+        "excerpt": "A administração Trump lançou em 8 de maio de 2026 um site do Pentágono sobre OVNIs com arquivos UAP desclassificados, após anos de audiências, investigações e pedidos de transparência.",
+        "body": "A administração Trump lançou em 8 de maio de 2026 um novo site do Pentágono sobre OVNIs e UAPs, abrindo ao público arquivos desclassificados. O portal reúne vídeos, fotos e documentos originais sobre fenômenos anômalos não identificados em um só lugar, sem exigir autorização de segurança. A divulgação ocorre após anos de audiências no Congresso, investigações governamentais e pressão por maior transparência sobre UAPs. Segundo relatos, o primeiro lote inclui mais de 160 arquivos, e o governo afirmou que novos materiais poderão ser adicionados gradualmente. A medida amplia o acesso a registros de OVNIs, mas os documentos divulgados não confirmam evidências de vida extraterrestre. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Pentagon-UFO-Website startet mit freigegebenen Dateien",
+        "excerpt": "Die Trump-Regierung öffnete am 8. Mai 2026 eine Pentagon-UFO-Website mit freigegebenen UAP-Dateien, nach Jahren von Anhörungen, Untersuchungen und Forderungen nach Transparenz.",
+        "body": "Die Trump-Regierung hat am 8. Mai 2026 eine neue Pentagon-Website zu UFOs und UAPs gestartet und der Öffentlichkeit Zugang zu freigegebenen Dateien eröffnet. Das Portal bündelt Videos, Fotos und Originaldokumente zu unidentifizierten anomalen Phänomenen an einem Ort, ohne dass eine Sicherheitsfreigabe nötig ist. Die Veröffentlichung folgt auf jahrelange Kongressanhörungen, Regierungsuntersuchungen und Druck für mehr UAP-Transparenz. Berichten zufolge umfasst die erste Veröffentlichung mehr als 160 Dateien, weitere Materialien könnten schrittweise ergänzt werden. Der Schritt erleichtert den Zugang zu UFO-Unterlagen, bestätigt aber keine Beweise für außerirdisches Leben. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Le site OVNI du Pentagone ouvre avec des fichiers déclassifiés",
+        "excerpt": "L’administration Trump a ouvert le 8 mai 2026 un site OVNI du Pentagone donnant accès à des fichiers UAP déclassifiés, après des années d’auditions, d’enquêtes et de demandes de transparence.",
+        "body": "L’administration Trump a lancé le 8 mai 2026 un nouveau site du Pentagone consacré aux OVNI et aux UAP, ouvrant au public l’accès à des fichiers déclassifiés. Le portail réunit au même endroit vidéos, photos et documents sources sur les phénomènes anormaux non identifiés, sans autorisation de sécurité requise. Cette publication intervient après des années d’auditions au Congrès, d’enquêtes gouvernementales et de pression en faveur d’une plus grande transparence sur les UAP. Selon les informations disponibles, le premier lot comprend plus de 160 fichiers, et le gouvernement a indiqué que d’autres documents pourraient être ajoutés progressivement. La mesure élargit l’accès aux archives OVNI, mais les documents publiés ne confirment pas de preuve de vie extraterrestre. Source: decrypt.co."
+      },
+      "ar": {
+        "title": "موقع البنتاغون للأجسام المجهولة يفتح ملفات رفعت سريتها",
+        "excerpt": "أطلقت إدارة ترامب في 8 مايو 2026 موقعا للبنتاغون عن الأجسام المجهولة يتيح ملفات UAP رفعت سريتها، بعد سنوات من جلسات الاستماع والتحقيقات ومطالب الشفافية.",
+        "body": "أطلقت إدارة ترامب في 8 مايو 2026 موقعا جديدا للبنتاغون مخصصا للأجسام المجهولة وظواهر UAP، وفتحت للجمهور إمكانية الوصول إلى ملفات رفعت سريتها. يجمع الموقع مقاطع فيديو وصورا ووثائق أصلية عن الظواهر الشاذة غير المحددة في مكان واحد، من دون الحاجة إلى تصريح أمني. تأتي الخطوة بعد سنوات من جلسات الاستماع في الكونغرس، والتحقيقات الحكومية، والضغط من أجل شفافية أكبر بشأن UAP. ووفقا للتقارير، تضم الدفعة الأولى أكثر من 160 ملفا، وقالت الحكومة إن مواد إضافية قد تضاف تدريجيا. توسع الخطوة الوصول إلى سجلات UFO، لكنها لا تعني أن الوثائق المنشورة تؤكد وجود دليل على حياة خارج الأرض. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "पेंटागन UFO वेबसाइट खुली, ट्रंप प्रशासन ने जारी की फाइलें",
+        "excerpt": "ट्रंप प्रशासन ने 8 मई 2026 को पेंटागन की UFO वेबसाइट शुरू कर डीक्लासिफाइड UAP फाइलें सार्वजनिक कीं, वर्षों की सुनवाई, जांच और पारदर्शिता की मांगों के बाद यह कदम आया।",
+        "body": "ट्रंप प्रशासन ने 8 मई 2026 को पेंटागन की नई UFO और UAP वेबसाइट शुरू की और डीक्लासिफाइड फाइलों तक सार्वजनिक पहुंच खोली। यह पोर्टल अज्ञात असामान्य घटनाओं से जुड़े वीडियो, फोटो और मूल दस्तावेजों को एक जगह लाता है, जिन्हें देखने के लिए सुरक्षा मंजूरी की जरूरत नहीं है। यह रिलीज वर्षों की कांग्रेस सुनवाई, सरकारी जांच और UAP पारदर्शिता बढ़ाने के दबाव के बाद आई है। रिपोर्टों के अनुसार, पहले बैच में 160 से अधिक फाइलें शामिल हैं, और सरकार ने कहा कि समय के साथ और सामग्री जोड़ी जा सकती है। यह कदम UFO रिकॉर्ड तक पहुंच बढ़ाता है, लेकिन जारी दस्तावेज बाहरी जीवन के प्रमाण की पुष्टि नहीं करते। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Situs UFO Pentagon Dibuka, Pemerintah Trump Rilis File Rahasia",
+        "excerpt": "Pemerintahan Trump membuka situs UFO Pentagon pada 8 Mei 2026 dan merilis file UAP yang telah dideklasifikasi, setelah bertahun-tahun dengar pendapat, penyelidikan, dan tuntutan transparansi.",
+        "body": "Pemerintahan Trump meluncurkan situs baru Pentagon tentang UFO dan UAP pada 8 Mei 2026, membuka akses publik ke file yang telah dideklasifikasi. Portal ini mengumpulkan video, foto, dan dokumen sumber asli tentang fenomena anomali tak teridentifikasi di satu tempat, tanpa memerlukan izin keamanan. Rilis ini menyusul bertahun-tahun dengar pendapat di Kongres, penyelidikan pemerintah, dan tekanan untuk meningkatkan transparansi UAP. Menurut laporan, batch pertama mencakup lebih dari 160 file, dan pemerintah mengatakan materi tambahan dapat ditambahkan secara bertahap. Langkah ini memperluas akses ke catatan UFO, tetapi dokumen yang dirilis tidak mengonfirmasi bukti kehidupan di luar Bumi. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "a93db4d4a0b3",
+    "slug": "ai-agents-fueled-a-frenzy-of-startup-building-at-the-consens-357756",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T19:16:44.574Z",
+    "updatedAt": "2026-05-08T19:16:44.575Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
+    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
+    "titleFingerprint": "67103c5747cfe955cac63aa0c6fa40a99aef403e",
+    "dedupKeys": [
+      "a93db4d4a0b36c69bd2fed96a4fab85a126fdb20",
+      "67103c5747cfe955cac63aa0c6fa40a99aef403e",
+      "9d927f6b44822451589f413a13d5024cfb5f1e86"
+    ],
+    "imageUrl": "/images/articles/a93db4d4a0b3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 에이전트 열풍, 컨센서스 마이애미 EasyA 해커톤 달궜다",
+        "excerpt": "컨센서스 마이애미 EasyA 해커톤에서 약 1,000명의 개발자가 Base, Solana 등 생태계와 Microsoft·Google 출신 참가자들과 함께 AI 에이전트 제품 구축에 경쟁했다.",
+        "body": "컨센서스 마이애미 EasyA 해커톤에서 약 1,000명의 개발자가 AI 에이전트를 주제로 스타트업형 제품을 만들기 위해 경쟁했다. 참가자들은 Base, Solana 등 여러 블록체인 생태계에서 모였고, Microsoft와 Google 같은 기업 출신 개발자들도 행사장에 참여했다. 이번 해커톤의 핵심 흐름은 AI 에이전트를 활용한 제품 구축이었다. 개발자들이 짧은 시간 안에 아이디어를 구현하며 경쟁한 만큼, AI 에이전트가 크립토 개발 현장에서 주요 실험 주제로 부상했음을 보여준다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "AI Agents Drive Startup-Building Frenzy at Consensus Miami Hackathon",
+        "excerpt": "Nearly 1,000 developers at the Consensus Miami EasyA hackathon competed to build AI agent products, drawing teams from Base, Solana and companies such as Microsoft and Google.",
+        "body": "At the Consensus Miami EasyA hackathon, nearly 1,000 developers competed to build startup-style products around the theme of AI agents. Participants came from ecosystems including Base and Solana, while developers from companies such as Microsoft and Google also joined at the venue. The central trend of the event was product development using AI agents. As teams raced to turn ideas into working products in a short period, the hackathon showed that AI agents have become a major area of experimentation in crypto development. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "AIエージェント熱、Consensus Miami EasyAハッカソンを席巻",
+        "excerpt": "Consensus MiamiのEasyAハッカソンでは約1,000人の開発者が参加し、BaseやSolana、MicrosoftやGoogle出身者らがAIエージェント製品の構築を競った。",
+        "body": "Consensus MiamiのEasyAハッカソンで、約1,000人の開発者がAIエージェントをテーマにスタートアップ型の製品づくりを競った。参加者はBase、Solanaなど複数のブロックチェーン・エコシステムから集まり、MicrosoftやGoogleといった企業出身の開発者も会場に加わった。今回のハッカソンの中心的な流れは、AIエージェントを活用した製品開発だった。短時間でアイデアを形にする競争を通じ、AIエージェントが暗号資産開発の現場で主要な実験テーマになっていることを示した。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "AI代理热潮点燃Consensus Miami EasyA黑客松",
+        "excerpt": "在Consensus Miami EasyA黑客松上，约1,000名开发者围绕AI代理产品展开竞争，参与者来自Base、Solana等生态及Microsoft、Google等公司。",
+        "body": "在Consensus Miami EasyA黑客松上，约1,000名开发者围绕AI代理主题，竞相构建创业型产品。参赛者来自Base、Solana等多个区块链生态，也包括Microsoft、Google等公司背景的开发者。此次黑客松的核心趋势，是利用AI代理进行产品开发。开发者在短时间内将想法转化为可运行产品并展开竞争，显示AI代理已成为加密开发现场的重要实验方向。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Agentes de IA impulsan el auge startup en el hackathon EasyA de Miami",
+        "excerpt": "Casi 1.000 desarrolladores compitieron en el hackathon EasyA de Consensus Miami para crear productos con agentes de IA, con participantes de Base, Solana, Microsoft y Google.",
+        "body": "En el hackathon EasyA de Consensus Miami, casi 1.000 desarrolladores compitieron para crear productos de estilo startup en torno al tema de los agentes de IA. Los participantes llegaron desde ecosistemas como Base y Solana, y también hubo desarrolladores vinculados a empresas como Microsoft y Google. La tendencia central del evento fue el desarrollo de productos que usan agentes de IA. Al competir para convertir ideas en productos en poco tiempo, el hackathon mostró que los agentes de IA se han convertido en un área clave de experimentación en el desarrollo cripto. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Agentes de IA aceleram criação de startups no hackathon EasyA em Miami",
+        "excerpt": "Quase 1.000 desenvolvedores competiram no hackathon EasyA da Consensus Miami para criar produtos com agentes de IA, vindos de Base, Solana, Microsoft, Google e outros.",
+        "body": "No hackathon EasyA da Consensus Miami, quase 1.000 desenvolvedores competiram para criar produtos com perfil de startup em torno do tema dos agentes de IA. Os participantes vieram de ecossistemas como Base e Solana, além de incluir desenvolvedores ligados a empresas como Microsoft e Google. A principal tendência do evento foi o desenvolvimento de produtos usando agentes de IA. Ao transformar ideias em produtos em pouco tempo, a competição mostrou que os agentes de IA se tornaram um importante campo de experimentação no desenvolvimento cripto. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "KI-Agenten prägen Startup-Boom beim EasyA-Hackathon in Miami",
+        "excerpt": "Fast 1.000 Entwickler traten beim EasyA-Hackathon auf der Consensus Miami an, um Produkte rund um KI-Agenten zu bauen, darunter Teilnehmer aus Base, Solana, Microsoft und Google.",
+        "body": "Beim EasyA-Hackathon auf der Consensus Miami traten fast 1.000 Entwickler an, um startupähnliche Produkte rund um das Thema KI-Agenten zu bauen. Die Teilnehmer kamen aus Ökosystemen wie Base und Solana; auch Entwickler aus Unternehmen wie Microsoft und Google waren vor Ort. Der zentrale Trend der Veranstaltung war die Produktentwicklung mit KI-Agenten. Da Teams in kurzer Zeit Ideen in Produkte umsetzten, zeigte der Hackathon, dass KI-Agenten zu einem wichtigen Experimentierfeld in der Kryptoentwicklung geworden sind. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Les agents IA stimulent l’élan startup au hackathon EasyA de Miami",
+        "excerpt": "Près de 1 000 développeurs ont concouru au hackathon EasyA de Consensus Miami pour créer des produits avec des agents IA, venus de Base, Solana, Microsoft et Google.",
+        "body": "Lors du hackathon EasyA de Consensus Miami, près de 1 000 développeurs ont concouru pour créer des produits de type startup autour du thème des agents IA. Les participants venaient d’écosystèmes comme Base et Solana, avec aussi des développeurs issus d’entreprises telles que Microsoft et Google. La tendance centrale de l’événement a été le développement de produits utilisant des agents IA. En transformant rapidement des idées en produits, la compétition a montré que les agents IA deviennent un axe majeur d’expérimentation dans le développement crypto. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "وكلاء الذكاء الاصطناعي يشعلون بناء الشركات في هاكاثون EasyA بميامي",
+        "excerpt": "تنافس نحو 1,000 مطور في هاكاثون EasyA ضمن Consensus Miami لبناء منتجات حول وكلاء الذكاء الاصطناعي، بمشاركة من Base وSolana وMicrosoft وGoogle.",
+        "body": "في هاكاثون EasyA ضمن Consensus Miami، تنافس نحو 1,000 مطور على بناء منتجات بطابع الشركات الناشئة حول موضوع وكلاء الذكاء الاصطناعي. جاء المشاركون من منظومات مثل Base وSolana، كما حضر مطورون من شركات مثل Microsoft وGoogle. كان الاتجاه الرئيسي في الحدث هو تطوير منتجات تعتمد على وكلاء الذكاء الاصطناعي. ومع تسابق الفرق لتحويل الأفكار إلى منتجات خلال وقت قصير، أظهر الهاكاثون أن وكلاء الذكاء الاصطناعي أصبحوا مجالا بارزا للتجربة في تطوير الكريبتو. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "AI एजेंट्स ने Consensus Miami EasyA हैकाथॉन में स्टार्टअप निर्माण को गति दी",
+        "excerpt": "Consensus Miami EasyA हैकाथॉन में करीब 1,000 डेवलपर्स ने AI एजेंट उत्पाद बनाने की होड़ में हिस्सा लिया, जिनमें Base, Solana, Microsoft और Google से जुड़े प्रतिभागी शामिल थे।",
+        "body": "Consensus Miami EasyA हैकाथॉन में करीब 1,000 डेवलपर्स ने AI एजेंट्स को केंद्र में रखकर स्टार्टअप जैसे उत्पाद बनाने की प्रतिस्पर्धा की। प्रतिभागी Base और Solana जैसे इकोसिस्टम से आए, जबकि Microsoft और Google जैसी कंपनियों से जुड़े डेवलपर्स भी स्थल पर मौजूद रहे। इस हैकाथॉन की मुख्य दिशा AI एजेंट्स का उपयोग कर उत्पाद विकास थी। कम समय में विचारों को उत्पाद में बदलने की होड़ ने दिखाया कि AI एजेंट्स क्रिप्टो डेवलपमेंट में एक प्रमुख प्रयोगात्मक विषय बन गए हैं। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Agen AI Picu Laju Pembangunan Startup di Hackathon EasyA Miami",
+        "excerpt": "Hampir 1.000 pengembang bersaing di hackathon EasyA Consensus Miami untuk membangun produk agen AI, dengan peserta dari Base, Solana, Microsoft, Google, dan lainnya.",
+        "body": "Di hackathon EasyA Consensus Miami, hampir 1.000 pengembang bersaing membangun produk bergaya startup dengan tema agen AI. Peserta datang dari ekosistem seperti Base dan Solana, sementara pengembang dari perusahaan seperti Microsoft dan Google juga hadir di lokasi. Arus utama acara ini adalah pengembangan produk yang memanfaatkan agen AI. Saat para peserta berlomba mengubah ide menjadi produk dalam waktu singkat, hackathon ini menunjukkan bahwa agen AI telah menjadi topik eksperimen utama dalam pengembangan kripto. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
     "id": "9270f7206b34",
     "slug": "crypto-biz-wall-street-wants-more-than-just-bitcoin-944877",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Aptos Siapkan $50 Juta untuk Pengembangan Era Agen AI",
         "excerpt": "Aptos Foundation dan Aptos Labs pada 8 Mei mengatakan akan mengucurkan $50 juta untuk infrastruktur yang mendukung finality di bawah satu detik tanpa campur tangan manusia saat adopsi agen AI meningkat.",
         "body": "Aptos Foundation dan Aptos Labs pada 8 Mei mengatakan akan mengucurkan $50 juta untuk pengembangan blockchain dan perluasan infrastruktur. Rencana ini berfokus pada penguatan sistem yang dapat memberi finality di bawah satu detik agar agen AI bisa menangani transaksi dan penyelesaian tanpa campur tangan manusia. Aptos menyebut finality cepat dan infrastruktur yang siap untuk otomasi sebagai kunci untuk mendukung gelombang berikutnya adopsi agen AI. Dana tersebut diperkirakan akan memperluas kapasitas pengembangan dan basis teknis ekosistem. Jadwal pelaksanaan dan rincian alokasi belum diungkapkan. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "9748c47a6032",
-    "slug": "strategy-yield-etn-gives-uk-investors-exposure-to-bitcoin-gi-760557",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T06:52:53.976Z",
-    "updatedAt": "2026-05-08T06:52:53.976Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/366984/strategy-yield-etn-uk-investors-exposure-bitcoin-giant-strc-shares",
-    "canonicalUrl": "https://decrypt.co/366984/strategy-yield-etn-uk-investors-exposure-bitcoin-giant-strc-shares",
-    "titleFingerprint": "6c207e03bbebdf370bbd2afd7839f227ec7a347b",
-    "dedupKeys": [
-      "9748c47a603230b98266ebf3eda8f8ef7034059d",
-      "6c207e03bbebdf370bbd2afd7839f227ec7a347b",
-      "c6d27e6083fb72a014a1de07ccc1c115a8d6849b"
-    ],
-    "imageUrl": "/images/articles/9748c47a6032.png",
-    "i18n": {
-      "ko": {
-        "title": "Strategy Yield ETN, 영국 투자자에 STRC 주식 노출 제공",
-        "excerpt": "21Shares의 Strategy Yield ETN이 영국 투자자에게 비트코인 트레저리 기업 Strategy의 우선주 STRC에 투자 노출을 제공한다고 decrypt.co가 전했다.",
-        "body": "21Shares가 출시한 Strategy Yield ETN은 영국 투자자들이 비트코인 트레저리 기업 Strategy의 우선주 STRC에 노출될 수 있도록 설계된 상장지수채권이다. 이번 상품은 직접 STRC 주식을 보유하지 않아도 관련 투자 접근성을 제공한다는 점이 핵심이다. Strategy는 비트코인 보유 전략으로 알려진 주요 비트코인 트레저리 기업으로, STRC는 이 회사의 우선주다. 영국 투자자는 21Shares 상품을 통해 해당 주식에 연계된 투자 기회를 접할 수 있게 됐다. 다만 원문은 상품 구조나 수익률, 거래 조건에 대한 추가 세부 정보는 제시하지 않았다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Strategy Yield ETN Opens STRC Share Exposure to UK Investors",
-        "excerpt": "21Shares’ Strategy Yield ETN gives UK investors exposure to STRC preferred shares of Bitcoin treasury firm Strategy, according to decrypt.co.",
-        "body": "21Shares’ Strategy Yield ETN is an exchange-traded note designed to give UK investors exposure to STRC, the preferred shares of Bitcoin treasury company Strategy. The key point of the product is that it offers investment access linked to STRC without requiring investors to hold the shares directly. Strategy is known as a major Bitcoin treasury firm, and STRC represents its preferred shares. Through the 21Shares product, UK investors can access an investment opportunity tied to those shares. The original report did not provide further details on the product structure, yield, or trading terms. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "Strategy Yield ETN、英国投資家にSTRC株エクスポージャー提供",
-        "excerpt": "21SharesのStrategy Yield ETNは、英国投資家にビットコイン財務企業Strategyの優先株STRCへの投資エクスポージャーを提供するとdecrypt.coが報じた。",
-        "body": "21Sharesが提供するStrategy Yield ETNは、英国投資家がビットコイン財務企業Strategyの優先株STRCにエクスポージャーを持てるよう設計された上場投資証券だ。この商品の要点は、STRC株を直接保有しなくても関連する投資アクセスを得られる点にある。Strategyはビットコイン保有戦略で知られる主要なビットコイン財務企業であり、STRCは同社の優先株を指す。英国投資家は21Sharesの商品を通じて、この株式に連動する投資機会にアクセスできる。原文は商品構造、利回り、取引条件の追加詳細を示していない。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "Strategy Yield ETN让英国投资者接触STRC优先股",
-        "excerpt": "decrypt.co报道称，21Shares的Strategy Yield ETN为英国投资者提供接触比特币财资公司Strategy优先股STRC的机会。",
-        "body": "21Shares推出的Strategy Yield ETN是一种交易所交易票据，旨在让英国投资者获得对比特币财资公司Strategy优先股STRC的投资敞口。该产品的核心在于，投资者无需直接持有STRC股票，也能获得相关投资渠道。Strategy是以比特币持有策略闻名的主要比特币财资公司，STRC则是该公司的优先股。通过21Shares的产品，英国投资者可以接触与这些股票相关的投资机会。原文未提供有关产品结构、收益率或交易条件的更多细节。来源: decrypt.co"
-      },
-      "es": {
-        "title": "Strategy Yield ETN da a inversores del Reino Unido exposición a STRC",
-        "excerpt": "El Strategy Yield ETN de 21Shares ofrece a inversores del Reino Unido exposición a las acciones preferentes STRC de Strategy, firma de tesorería Bitcoin, según decrypt.co.",
-        "body": "El Strategy Yield ETN de 21Shares es una nota cotizada diseñada para dar a los inversores del Reino Unido exposición a STRC, las acciones preferentes de la empresa de tesorería Bitcoin Strategy. El punto central del producto es que ofrece acceso de inversión vinculado a STRC sin exigir la tenencia directa de esas acciones. Strategy es conocida como una importante firma de tesorería Bitcoin, y STRC representa sus acciones preferentes. A través del producto de 21Shares, los inversores británicos pueden acceder a una oportunidad ligada a esas acciones. El informe original no dio más detalles sobre estructura, rendimiento o condiciones de negociación. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Strategy Yield ETN dá a investidores do Reino Unido exposição a STRC",
-        "excerpt": "O Strategy Yield ETN da 21Shares oferece a investidores do Reino Unido exposição às ações preferenciais STRC da Strategy, empresa de tesouraria Bitcoin, segundo decrypt.co.",
-        "body": "O Strategy Yield ETN da 21Shares é uma nota negociada em bolsa criada para dar a investidores do Reino Unido exposição à STRC, as ações preferenciais da empresa de tesouraria Bitcoin Strategy. O ponto central do produto é oferecer acesso de investimento ligado à STRC sem exigir a posse direta dessas ações. A Strategy é conhecida como uma importante empresa de tesouraria Bitcoin, e STRC representa suas ações preferenciais. Por meio do produto da 21Shares, investidores britânicos podem acessar uma oportunidade vinculada a essas ações. A reportagem original não trouxe detalhes adicionais sobre estrutura, rendimento ou condições de negociação. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Strategy Yield ETN bietet UK-Anlegern Zugang zu STRC-Aktien",
-        "excerpt": "Der Strategy Yield ETN von 21Shares verschafft Anlegern im Vereinigten Königreich Zugang zu STRC-Vorzugsaktien der Bitcoin-Treasury-Firma Strategy, berichtet decrypt.co.",
-        "body": "Der Strategy Yield ETN von 21Shares ist eine börsengehandelte Schuldverschreibung, die Anlegern im Vereinigten Königreich ein Engagement in STRC, den Vorzugsaktien des Bitcoin-Treasury-Unternehmens Strategy, ermöglichen soll. Der Kern des Produkts liegt darin, einen mit STRC verbundenen Anlagezugang zu bieten, ohne dass Anleger die Aktien direkt halten müssen. Strategy gilt als bedeutende Bitcoin-Treasury-Firma, STRC steht für ihre Vorzugsaktien. Über das Produkt von 21Shares erhalten britische Anleger Zugang zu einer mit diesen Aktien verknüpften Investmentmöglichkeit. Der Originalbericht nannte keine weiteren Details zu Struktur, Rendite oder Handelsbedingungen. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Strategy Yield ETN ouvre aux investisseurs UK une exposition à STRC",
-        "excerpt": "Le Strategy Yield ETN de 21Shares donne aux investisseurs britanniques une exposition aux actions préférentielles STRC de Strategy, société de trésorerie Bitcoin, selon decrypt.co.",
-        "body": "Le Strategy Yield ETN de 21Shares est une note négociée en bourse conçue pour offrir aux investisseurs britanniques une exposition à STRC, les actions préférentielles de la société de trésorerie Bitcoin Strategy. L’intérêt principal du produit est de fournir un accès d’investissement lié à STRC sans exiger la détention directe des actions. Strategy est connue comme une importante société de trésorerie Bitcoin, et STRC représente ses actions préférentielles. Grâce au produit de 21Shares, les investisseurs du Royaume-Uni peuvent accéder à une opportunité liée à ces titres. L’article original n’a pas donné d’autres détails sur la structure, le rendement ou les conditions de négociation. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "Strategy Yield ETN يتيح لمستثمري بريطانيا التعرض لأسهم STRC",
-        "excerpt": "أفاد decrypt.co بأن منتج Strategy Yield ETN من 21Shares يمنح مستثمري المملكة المتحدة تعرضا لأسهم STRC الممتازة التابعة لشركة Strategy المتخصصة في خزائن بيتكوين.",
-        "body": "يعد Strategy Yield ETN من 21Shares سندا متداولا في البورصة مصمما لمنح مستثمري المملكة المتحدة تعرضا لأسهم STRC، وهي الأسهم الممتازة لشركة Strategy المتخصصة في خزائن بيتكوين. وتكمن الفكرة الأساسية في أنه يوفر وصولا استثماريا مرتبطا بـ STRC من دون اشتراط امتلاك الأسهم مباشرة. وتعرف Strategy بأنها شركة رئيسية في مجال خزائن بيتكوين، وتمثل STRC أسهمها الممتازة. ومن خلال منتج 21Shares، يستطيع المستثمرون البريطانيون الوصول إلى فرصة استثمارية مرتبطة بهذه الأسهم. ولم يقدم التقرير الأصلي تفاصيل إضافية عن هيكل المنتج أو العائد أو شروط التداول. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "Strategy Yield ETN से UK निवेशकों को STRC शेयर एक्सपोजर",
-        "excerpt": "decrypt.co के अनुसार, 21Shares का Strategy Yield ETN UK निवेशकों को Bitcoin treasury कंपनी Strategy के STRC preferred shares में एक्सपोजर देता है।",
-        "body": "21Shares का Strategy Yield ETN एक exchange-traded note है, जिसे UK निवेशकों को Bitcoin treasury कंपनी Strategy के preferred shares STRC में एक्सपोजर देने के लिए बनाया गया है। इस उत्पाद की मुख्य बात यह है कि निवेशक STRC शेयरों को सीधे रखे बिना उनसे जुड़ी निवेश पहुंच पा सकते हैं। Strategy को एक प्रमुख Bitcoin treasury firm के रूप में जाना जाता है, और STRC उसके preferred shares हैं। 21Shares के इस उत्पाद के जरिए ब्रिटेन के निवेशक इन शेयरों से जुड़ी निवेश संभावना तक पहुंच सकते हैं। मूल रिपोर्ट में उत्पाद संरचना, यील्ड या ट्रेडिंग शर्तों पर अतिरिक्त विवरण नहीं दिया गया। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Strategy Yield ETN Buka Eksposur STRC bagi Investor Inggris",
-        "excerpt": "Strategy Yield ETN dari 21Shares memberi investor Inggris eksposur ke saham preferen STRC milik perusahaan treasury Bitcoin Strategy, menurut decrypt.co.",
-        "body": "Strategy Yield ETN dari 21Shares adalah exchange-traded note yang dirancang untuk memberi investor Inggris eksposur ke STRC, saham preferen perusahaan treasury Bitcoin Strategy. Inti produk ini adalah menyediakan akses investasi yang terkait dengan STRC tanpa mewajibkan investor memegang saham tersebut secara langsung. Strategy dikenal sebagai perusahaan treasury Bitcoin utama, dan STRC merupakan saham preferennya. Melalui produk 21Shares, investor Inggris dapat mengakses peluang investasi yang terhubung dengan saham tersebut. Laporan asli tidak memberikan rincian tambahan mengenai struktur produk, imbal hasil, atau ketentuan perdagangan. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "50edbdcc028a",
-    "slug": "chaos-labs-says-oracles-secure-after-attempted-nation-state--182941",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T06:51:57.320Z",
-    "updatedAt": "2026-05-08T06:51:57.320Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/chaos-labs-nation-state-wallet-attack-oracles-secure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/chaos-labs-nation-state-wallet-attack-oracles-secure",
-    "titleFingerprint": "9af3f41b743161c8ccf5e44a637d67a9722ed1f3",
-    "dedupKeys": [
-      "50edbdcc028a70d6590d21eaa67c665c3d47e04a",
-      "9af3f41b743161c8ccf5e44a637d67a9722ed1f3",
-      "529fe40c3c1b3e89070f888e5243bbb3e6a8fb00"
-    ],
-    "imageUrl": "/images/articles/50edbdcc028a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "카오스랩스, ‘국가 배후’ 지갑 공격 시도 후 오라클 보안 확인",
-        "excerpt": "카오스랩스는 주말 발생한 ‘국가 배후’ 지갑 공격 시도 이후 모든 키를 교체했으며, 목요일 기준 추가 의심 활동은 감지되지 않았다고 밝혔다.",
-        "body": "카오스랩스는 목요일 주말 사이 발생한 ‘국가 배후’ 지갑 공격 시도 이후 자사 오라클이 안전하다고 밝혔다. 회사는 공격 시도 뒤 모든 키를 교체했으며, 이후 의심스러운 활동은 감지하지 못했다고 설명했다. 이번 사안은 오라클 인프라와 관련 지갑 보안에 대한 점검으로 이어졌으며, 카오스랩스는 키 로테이션을 통해 노출 가능성을 줄였다고 전했다. 현재까지 추가 이상 징후가 없다는 점은 서비스 안정성 측면에서 긍정적이지만, 지갑과 키 관리의 중요성은 다시 부각됐다. 출처: cointelegraph.com 인용."
-      },
-      "en": {
-        "title": "Chaos Labs Confirms Oracles Secure After Wallet Attack Attempt",
-        "excerpt": "Chaos Labs said Thursday it rotated all keys after a weekend ‘nation-state’ wallet attack attempt and has detected no further suspicious activity.",
-        "body": "Chaos Labs said Thursday that its oracles remain secure after an attempted ‘nation-state’ wallet attack over the weekend. The company said it rotated all keys after the attempt and has not detected any suspicious activity since. The incident prompted a security review around oracle infrastructure and related wallet access, with Chaos Labs saying the key rotation reduced potential exposure. While the absence of further warning signs supports service stability for now, the case again highlights the importance of wallet and key management. Source: cited from cointelegraph.com."
-      },
-      "ja": {
-        "title": "Chaos Labs、ウォレット攻撃未遂後もオラクル安全と確認",
-        "excerpt": "Chaos Labsは木曜日、週末の「国家関与」ウォレット攻撃未遂後に全キーをローテーションし、その後不審な活動は検出していないと述べた。",
-        "body": "Chaos Labsは木曜日、週末に発生した「国家関与」とされるウォレット攻撃未遂の後も、自社オラクルは安全だと発表した。同社は攻撃未遂後にすべてのキーをローテーションし、それ以降、不審な活動は検出されていないと説明した。今回の事案は、オラクル基盤と関連ウォレットアクセスの安全確認につながり、Chaos Labsはキー交換によって潜在的な露出を抑えたとしている。現時点で追加の異常がないことはサービス安定性にとって前向きだが、ウォレットとキー管理の重要性を改めて示した。出典: cointelegraph.com引用。"
-      },
-      "zh": {
-        "title": "Chaos Labs确认钱包攻击未遂后预言机仍安全",
-        "excerpt": "Chaos Labs周四表示，在周末发生“国家级”钱包攻击未遂后已轮换所有密钥，至今未发现进一步可疑活动。",
-        "body": "Chaos Labs周四表示，在周末发生一起被称为“国家级”的钱包攻击未遂后，其预言机仍保持安全。公司称，攻击尝试发生后已轮换所有密钥，此后没有检测到任何可疑活动。该事件促使其对预言机基础设施及相关钱包访问安全进行检查，Chaos Labs表示，密钥轮换有助于降低潜在暴露风险。截至目前未出现更多异常迹象，对服务稳定性而言是积极信号，但也再次凸显钱包和密钥管理的重要性。来源：引用cointelegraph.com。"
-      },
-      "es": {
-        "title": "Chaos Labs confirma oráculos seguros tras intento de ataque a wallet",
-        "excerpt": "Chaos Labs dijo el jueves que rotó todas las claves tras el intento de ataque de wallet del fin de semana y que no detectó más actividad sospechosa.",
-        "body": "Chaos Labs dijo el jueves que sus oráculos siguen seguros después de un intento de ataque a una wallet durante el fin de semana, descrito como de ‘Estado-nación’. La compañía afirmó que rotó todas las claves tras el intento y que desde entonces no ha detectado actividad sospechosa. El caso llevó a revisar la seguridad de la infraestructura de oráculos y del acceso a wallets relacionadas, y Chaos Labs señaló que la rotación de claves redujo una posible exposición. La falta de nuevas señales anómalas respalda por ahora la estabilidad del servicio, aunque vuelve a destacar la importancia de gestionar wallets y claves. Fuente: citado de cointelegraph.com."
-      },
-      "pt": {
-        "title": "Chaos Labs confirma oráculos seguros após tentativa de ataque a wallet",
-        "excerpt": "A Chaos Labs disse na quinta-feira que rotacionou todas as chaves após a tentativa de ataque a wallet no fim de semana e não detectou novas atividades suspeitas.",
-        "body": "A Chaos Labs afirmou na quinta-feira que seus oráculos continuam seguros após uma tentativa de ataque a uma wallet no fim de semana, descrita como de ‘Estado-nação’. A empresa disse que rotacionou todas as chaves depois da tentativa e que, desde então, não detectou qualquer atividade suspeita. O episódio levou a uma revisão da segurança da infraestrutura de oráculos e do acesso a wallets relacionadas, com a Chaos Labs afirmando que a rotação de chaves reduziu possível exposição. A ausência de novos sinais anômalos favorece a estabilidade do serviço por enquanto, mas reforça a importância da gestão de wallets e chaves. Fonte: citado de cointelegraph.com."
-      },
-      "de": {
-        "title": "Chaos Labs bestätigt sichere Orakel nach versuchtem Wallet-Angriff",
-        "excerpt": "Chaos Labs teilte am Donnerstag mit, nach dem versuchten ‘Nation-State’-Wallet-Angriff vom Wochenende alle Schlüssel rotiert und keine weitere verdächtige Aktivität entdeckt zu haben.",
-        "body": "Chaos Labs erklärte am Donnerstag, dass seine Orakel nach einem versuchten ‘Nation-State’-Wallet-Angriff am Wochenende sicher geblieben seien. Das Unternehmen gab an, nach dem Angriff alle Schlüssel rotiert zu haben; seitdem sei keine verdächtige Aktivität festgestellt worden. Der Vorfall führte zu einer Sicherheitsprüfung der Orakel-Infrastruktur und des Zugriffs auf zugehörige Wallets. Chaos Labs zufolge verringerte die Schlüsselrotation eine mögliche Exponierung. Dass bislang keine weiteren Auffälligkeiten gemeldet wurden, spricht vorerst für die Stabilität des Dienstes, unterstreicht aber erneut die Bedeutung von Wallet- und Schlüsselverwaltung. Quelle: zitiert nach cointelegraph.com."
-      },
-      "fr": {
-        "title": "Chaos Labs confirme des oracles sécurisés après une tentative d’attaque",
-        "excerpt": "Chaos Labs a déclaré jeudi avoir effectué une rotation de toutes les clés après une tentative d’attaque de wallet le week-end, sans détecter d’autre activité suspecte.",
-        "body": "Chaos Labs a déclaré jeudi que ses oracles restaient sécurisés après une tentative d’attaque de wallet survenue durant le week-end, décrite comme liée à un ‘État-nation’. L’entreprise a indiqué avoir effectué une rotation de toutes les clés après la tentative et n’avoir détecté depuis aucune activité suspecte. L’incident a entraîné une vérification de la sécurité de l’infrastructure d’oracles et des accès aux wallets associés, Chaos Labs affirmant que la rotation des clés a réduit une exposition potentielle. L’absence de nouveaux signaux anormaux soutient pour l’instant la stabilité du service, tout en rappelant l’importance de la gestion des wallets et des clés. Source: cité de cointelegraph.com."
-      },
-      "ar": {
-        "title": "Chaos Labs تؤكد أمان الأوراكل بعد محاولة هجوم على محفظة",
-        "excerpt": "قالت Chaos Labs يوم الخميس إنها بدلت جميع المفاتيح بعد محاولة هجوم على محفظة خلال عطلة نهاية الأسبوع، ولم ترصد أي نشاط مريب لاحق.",
-        "body": "قالت Chaos Labs يوم الخميس إن أنظمة الأوراكل التابعة لها ما زالت آمنة بعد محاولة هجوم على محفظة خلال عطلة نهاية الأسبوع، ووصفت المحاولة بأنها مرتبطة بجهة على مستوى ‘دولة’. وأوضحت الشركة أنها أجرت تدويرا لجميع المفاتيح بعد محاولة الهجوم، ولم تكتشف منذ ذلك الحين أي نشاط مريب. وأدت الحادثة إلى مراجعة أمنية للبنية التحتية للأوراكل ووصول المحافظ المرتبطة بها، وقالت Chaos Labs إن تدوير المفاتيح قلل أي تعرض محتمل. عدم ظهور مؤشرات إضافية حتى الآن يدعم استقرار الخدمة حاليا، لكنه يبرز مجددا أهمية إدارة المحافظ والمفاتيح. المصدر: نقلا عن cointelegraph.com."
-      },
-      "hi": {
-        "title": "Chaos Labs ने वॉलेट हमले की कोशिश के बाद ओरैकल सुरक्षित बताए",
-        "excerpt": "Chaos Labs ने गुरुवार को कहा कि सप्ताहांत की ‘नेशन-स्टेट’ वॉलेट हमले की कोशिश के बाद सभी keys बदली गईं और कोई संदिग्ध गतिविधि नहीं मिली।",
-        "body": "Chaos Labs ने गुरुवार को कहा कि सप्ताहांत में हुई ‘नेशन-स्टेट’ वॉलेट हमले की कोशिश के बाद भी उसके oracles सुरक्षित हैं। कंपनी ने बताया कि प्रयास के बाद सभी keys को rotate किया गया और उसके बाद से कोई संदिग्ध गतिविधि नहीं मिली। इस घटना के बाद oracle infrastructure और संबंधित wallet access की सुरक्षा की समीक्षा की गई, और Chaos Labs के अनुसार key rotation से संभावित exposure कम हुआ। अब तक कोई अतिरिक्त असामान्य संकेत न मिलना सेवा स्थिरता के लिए सकारात्मक है, लेकिन यह wallet और key management के महत्व को फिर से रेखांकित करता है। स्रोत: cointelegraph.com से उद्धृत।"
-      },
-      "id": {
-        "title": "Chaos Labs Pastikan Oracle Aman Usai Percobaan Serangan Wallet",
-        "excerpt": "Chaos Labs mengatakan pada Kamis bahwa semua key telah dirotasi setelah percobaan serangan wallet akhir pekan dan tidak ada aktivitas mencurigakan sejak itu.",
-        "body": "Chaos Labs mengatakan pada Kamis bahwa oracle miliknya tetap aman setelah percobaan serangan wallet pada akhir pekan yang disebut sebagai serangan ‘nation-state’. Perusahaan menyatakan telah merotasi semua key setelah percobaan tersebut dan sejak itu tidak mendeteksi aktivitas mencurigakan. Insiden ini memicu pemeriksaan keamanan pada infrastruktur oracle dan akses wallet terkait, dengan Chaos Labs menyebut rotasi key mengurangi potensi paparan. Tidak adanya tanda abnormal tambahan sejauh ini mendukung stabilitas layanan, tetapi kembali menegaskan pentingnya pengelolaan wallet dan key. Sumber: dikutip dari cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "fda5f263c15a",
-    "slug": "consensus-panelists-explain-why-perp-dexes-remain-a-tough-se-255785",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T06:50:58.715Z",
-    "updatedAt": "2026-05-08T06:50:58.715Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why",
-    "titleFingerprint": "99c7dfa547416b458a0a0145a8d67024bdb65bb6",
-    "dedupKeys": [
-      "fda5f263c15a3d7a64dfe4eaa71182d6cdd120c2",
-      "99c7dfa547416b458a0a0145a8d67024bdb65bb6",
-      "e52e8541c9c95958edad47621fd6d05a19c4316f"
-    ],
-    "imageUrl": "/images/articles/fda5f263c15a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Perp DEX, 기관투자자 유입 막는 보안·KYC 장벽",
-        "excerpt": "Consensus Miami 패널들은 기관투자자들이 보안 위험과 KYC 절차의 마찰 때문에 Perp DEX 참여에 여전히 신중하다고 설명했다.",
-        "body": "Consensus Miami 패널 토론에서 참석자들은 기관투자자들이 Perp DEX, 즉 무기한 선물 탈중앙화 거래소에 아직 대체로 참여하지 않고 있다고 밝혔다. 패널들은 핵심 이유로 보안 위험과 KYC 절차에서 발생하는 마찰을 꼽았다. Perp DEX는 탈중앙화 방식으로 무기한 계약 거래를 제공하지만, 기관 자금이 요구하는 위험 관리와 신원 확인 기준을 충족하는 데 부담이 남아 있다는 설명이다. 이 같은 장벽이 해소되지 않는 한 기관투자자의 본격 유입은 제한적일 수 있다는 평가가 나온다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Perp DEX Adoption Faces Security and KYC Barriers",
-        "excerpt": "Panelists at Consensus Miami said institutional investors remain cautious toward perp DEXs because of security risks and KYC friction.",
-        "body": "At a Consensus Miami panel, speakers said institutional investors are still largely absent from perp DEXs, or decentralized exchanges for perpetual futures. The panelists cited security risks and friction around KYC procedures as the main barriers. While perp DEXs offer perpetual contract trading through decentralized infrastructure, institutions still face challenges in meeting their risk management and identity verification requirements. Unless those obstacles are reduced, broader institutional participation may remain limited, according to the discussion. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "Perp DEX、機関投資家を阻むセキュリティとKYC",
-        "excerpt": "Consensus Miamiのパネリストは、セキュリティリスクとKYC手続きの摩擦により、機関投資家のPerp DEX参加はなお限定的だと述べた。",
-        "body": "Consensus Miamiのパネル討論で、登壇者らはPerp DEX、つまり無期限先物を扱う分散型取引所に機関投資家がまだ大きく参加していないと説明した。主な理由として挙げられたのは、セキュリティリスクとKYC手続きに伴う摩擦だ。Perp DEXは分散型の仕組みで無期限契約取引を提供するが、機関資金が求めるリスク管理や本人確認の基準を満たすうえで負担が残るという。こうした障壁が緩和されない限り、機関投資家の本格的な流入は限定的にとどまる可能性がある。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Perp DEX难吸引机构，安全与KYC仍是障碍",
-        "excerpt": "Consensus Miami小组嘉宾表示，因安全风险和KYC流程摩擦，机构投资者目前仍大多缺席Perp DEX市场。",
-        "body": "在Consensus Miami的一场小组讨论中，嘉宾表示，机构投资者目前仍大多没有参与Perp DEX，即提供永续合约交易的去中心化交易所。小组嘉宾指出，主要障碍是安全风险以及KYC流程带来的摩擦。Perp DEX通过去中心化基础设施提供永续合约交易，但在满足机构资金所要求的风险管理和身份验证标准方面仍存在压力。讨论认为，如果这些障碍不能缓解，机构投资者的大规模进入可能仍会受到限制。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Perp DEX: seguridad y KYC frenan a inversores institucionales",
-        "excerpt": "Panelistas de Consensus Miami dijeron que los inversores institucionales siguen lejos de los perp DEX por riesgos de seguridad y fricción en KYC.",
-        "body": "En un panel de Consensus Miami, los participantes señalaron que los inversores institucionales siguen en gran medida ausentes de los perp DEX, es decir, exchanges descentralizados para futuros perpetuos. Los panelistas citaron como principales barreras los riesgos de seguridad y la fricción en los procedimientos KYC. Aunque los perp DEX ofrecen negociación de contratos perpetuos mediante infraestructura descentralizada, aún existe presión para cumplir los estándares de gestión de riesgo e identificación que exige el capital institucional. Si esos obstáculos no se reducen, la entrada institucional amplia podría seguir limitada. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Perp DEX enfrenta barreiras de segurança e KYC para instituições",
-        "excerpt": "Painelistas no Consensus Miami disseram que investidores institucionais seguem cautelosos com perp DEXs por riscos de segurança e fricção no KYC.",
-        "body": "Em um painel no Consensus Miami, participantes afirmaram que investidores institucionais ainda estão em grande parte ausentes dos perp DEXs, as exchanges descentralizadas de futuros perpétuos. Os painelistas apontaram riscos de segurança e atritos nos processos de KYC como as principais barreiras. Embora os perp DEXs ofereçam negociação de contratos perpétuos por infraestrutura descentralizada, ainda há dificuldades para atender aos padrões de gestão de risco e verificação de identidade exigidos pelo capital institucional. Sem redução desses obstáculos, a entrada mais ampla de instituições pode continuar limitada. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Perp DEX: Sicherheits- und KYC-Hürden bremsen Institutionelle",
-        "excerpt": "Panelisten auf der Consensus Miami sagten, institutionelle Investoren blieben Perp DEXs wegen Sicherheitsrisiken und KYC-Reibung fern.",
-        "body": "Bei einer Podiumsdiskussion auf der Consensus Miami erklärten Teilnehmer, dass institutionelle Investoren bei Perp DEXs, also dezentralen Börsen für unbefristete Futures, weiterhin weitgehend fehlen. Als zentrale Hürden nannten die Panelisten Sicherheitsrisiken und Reibungsverluste bei KYC-Prozessen. Perp DEXs ermöglichen den Handel mit unbefristeten Kontrakten über dezentrale Infrastruktur, doch für institutionelles Kapital bleiben Anforderungen an Risikomanagement und Identitätsprüfung schwer umzusetzen. Solange diese Hindernisse bestehen, dürfte eine breitere Beteiligung institutioneller Investoren begrenzt bleiben. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Perp DEX: sécurité et KYC freinent les investisseurs institutionnels",
-        "excerpt": "Des intervenants à Consensus Miami ont indiqué que les investisseurs institutionnels restent prudents face aux perp DEX, en raison de risques de sécurité et du KYC.",
-        "body": "Lors d’un panel à Consensus Miami, des intervenants ont déclaré que les investisseurs institutionnels restent encore largement absents des perp DEX, les plateformes décentralisées de contrats perpétuels. Ils ont cité les risques de sécurité et les frictions liées aux procédures KYC comme principaux obstacles. Les perp DEX permettent de négocier des contrats perpétuels via une infrastructure décentralisée, mais répondre aux exigences de gestion des risques et de vérification d’identité des capitaux institutionnels demeure difficile. Tant que ces barrières ne seront pas réduites, une adoption institutionnelle plus large pourrait rester limitée. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "منصات Perp DEX تواجه عوائق الأمن وKYC أمام المؤسسات",
-        "excerpt": "قال مشاركون في Consensus Miami إن المستثمرين المؤسسيين ما زالوا حذرين تجاه منصات Perp DEX بسبب مخاطر الأمن واحتكاك إجراءات KYC.",
-        "body": "في جلسة نقاش ضمن Consensus Miami، قال المشاركون إن المستثمرين المؤسسيين ما زالوا غائبين إلى حد كبير عن منصات Perp DEX، أي البورصات اللامركزية لعقود الدائم. وذكر المتحدثون أن مخاطر الأمن والاحتكاك المرتبط بإجراءات KYC هما العائقان الرئيسيان. ورغم أن هذه المنصات توفر تداول العقود الدائمة عبر بنية لامركزية، فإن تلبية معايير إدارة المخاطر والتحقق من الهوية التي تتطلبها الأموال المؤسسية لا تزال تمثل عبئاً. وبحسب النقاش، قد يظل دخول المؤسسات على نطاق أوسع محدوداً ما لم تخف هذه العقبات. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Perp DEX में संस्थागत निवेश को रोक रहे सुरक्षा और KYC अवरोध",
-        "excerpt": "Consensus Miami के पैनलिस्टों ने कहा कि सुरक्षा जोखिम और KYC प्रक्रिया की जटिलता के कारण संस्थागत निवेशक अभी भी Perp DEX से दूर हैं।",
-        "body": "Consensus Miami की एक पैनल चर्चा में वक्ताओं ने कहा कि संस्थागत निवेशक अभी भी Perp DEX, यानी परपेचुअल फ्यूचर्स के विकेंद्रीकृत एक्सचेंजों, से बड़े पैमाने पर दूर हैं। पैनलिस्टों ने इसके मुख्य कारणों में सुरक्षा जोखिम और KYC प्रक्रियाओं से जुड़ी friction को बताया। Perp DEX विकेंद्रीकृत ढांचे के जरिए परपेचुअल कॉन्ट्रैक्ट ट्रेडिंग उपलब्ध कराते हैं, लेकिन संस्थागत पूंजी के लिए जरूरी जोखिम प्रबंधन और पहचान सत्यापन मानकों को पूरा करना अभी भी चुनौती बना हुआ है। जब तक ये बाधाएं कम नहीं होतीं, संस्थागत भागीदारी सीमित रह सकती है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Perp DEX Terkendala Keamanan dan KYC bagi Investor Institusi",
-        "excerpt": "Panelis di Consensus Miami mengatakan investor institusional masih berhati-hati terhadap perp DEX karena risiko keamanan dan friksi KYC.",
-        "body": "Dalam panel di Consensus Miami, para pembicara mengatakan investor institusional masih sebagian besar absen dari perp DEX, yaitu bursa terdesentralisasi untuk kontrak perpetual. Panelis menyebut risiko keamanan dan friksi dalam prosedur KYC sebagai hambatan utama. Perp DEX menawarkan perdagangan kontrak perpetual melalui infrastruktur terdesentralisasi, tetapi masih ada beban untuk memenuhi standar manajemen risiko dan verifikasi identitas yang dibutuhkan modal institusional. Jika hambatan ini tidak berkurang, partisipasi institusional yang lebih luas kemungkinan tetap terbatas. Sumber: coindesk.com"
       }
     }
   }
