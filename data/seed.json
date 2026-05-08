@@ -1,5 +1,230 @@
 [
   {
+    "id": "a4f4c82960e6",
+    "slug": "zcash-targeting-post-quantum-crypto-milestone-by-2027-800190",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T16:54:50.327Z",
+    "updatedAt": "2026-05-08T16:54:50.327Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367250/zcash-targeting-post-quantum-crypto-milestone-by-2027",
+    "canonicalUrl": "https://decrypt.co/367250/zcash-targeting-post-quantum-crypto-milestone-by-2027",
+    "titleFingerprint": "8a786defabc48fce60ee578502058f3adc7bc054",
+    "dedupKeys": [
+      "a4f4c82960e6b71da429e8c51038cc4ce5e21e04",
+      "8a786defabc48fce60ee578502058f3adc7bc054",
+      "580fb89131a622ae6ec483b4e8c0c98d04418ace"
+    ],
+    "imageUrl": "/images/articles/a4f4c82960e6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Zcash, 2027년 포스트퀀텀 암호화 이정표 겨냥…복구형 지갑 예고",
+        "excerpt": "프라이버시 중심 암호화폐 Zcash가 로드맵을 공개하며 한 달 내 양자 복구형 지갑 출시와 2027년 포스트퀀텀 암호화 이정표 달성을 목표로 제시했다.",
+        "body": "프라이버시 중심 암호화폐 Zcash가 2027년까지 포스트퀀텀 암호화 분야의 이정표를 달성하겠다는 목표를 제시했다. Zcash는 로드맵을 설명하면서 한 달 안에 양자 복구형 지갑을 출시할 계획이라고 밝혔다. 이번 계획의 핵심은 양자컴퓨팅 시대에 대비해 이용자가 자산 접근을 회복할 수 있는 지갑 기능을 먼저 내놓고, 이후 장기 로드맵에 따라 포스트퀀텀 암호화 전환을 추진하는 데 있다. 프라이버시 기능을 강조해온 Zcash가 보안 내러티브를 확장하는 움직임으로 해석된다. 다만 발표된 내용은 목표와 출시 계획에 초점을 맞추고 있으며, 구체적 기술 세부사항이나 성과 수치는 공개되지 않았다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Zcash Eyes 2027 Post-Quantum Crypto Milestone, Wallet Launch Soon",
+        "excerpt": "Privacy-focused cryptocurrency Zcash outlined a roadmap targeting a 2027 post-quantum crypto milestone and plans to launch a quantum-recoverable wallet within a month.",
+        "body": "Privacy-focused cryptocurrency Zcash is targeting a post-quantum crypto milestone by 2027. As it outlined its roadmap, Zcash said it plans to launch a quantum-recoverable wallet within a month. The plan centers on first introducing wallet functionality that can help users recover access in preparation for a quantum-computing era, then pursuing a longer-term transition toward post-quantum cryptography. For Zcash, which has long emphasized privacy, the roadmap expands its security narrative. The disclosed information focuses on goals and launch timing, while specific technical details or performance figures were not provided. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "Zcash、2027年のポスト量子暗号マイルストーンへ前進",
+        "excerpt": "プライバシー重視の暗号資産Zcashはロードマップを示し、1か月以内の量子回復対応ウォレット公開と2027年のポスト量子暗号到達を目標に掲げた。",
+        "body": "プライバシー重視の暗号資産Zcashは、2027年までにポスト量子暗号分野のマイルストーン達成を目指す方針を示した。Zcashはロードマップを説明する中で、1か月以内に量子回復対応ウォレットを公開する計画だと明らかにした。計画の中心は、量子コンピューティング時代に備えて利用者が資産へのアクセスを回復できるウォレット機能を先に導入し、その後、長期ロードマップに沿ってポスト量子暗号への移行を進めることにある。プライバシー機能を重視してきたZcashが、セキュリティ面の打ち出しを広げる動きといえる。ただし公表内容は目標と公開時期が中心で、具体的な技術詳細や成果数値は示されていない。出典: decrypt.co."
+      },
+      "zh": {
+        "title": "Zcash瞄准2027年后量子加密里程碑，钱包即将推出",
+        "excerpt": "注重隐私的加密货币Zcash公布路线图，计划在一个月内推出量子可恢复钱包，并以2027年实现后量子加密里程碑为目标。",
+        "body": "注重隐私的加密货币Zcash提出目标，计划到2027年实现后量子加密领域的一个里程碑。Zcash在说明路线图时表示，计划在一个月内推出量子可恢复钱包。该计划的核心是先推出一种钱包功能，使用户在为量子计算时代做准备时能够恢复资产访问能力，随后按照长期路线图推进向后量子加密的转型。对于一直强调隐私功能的Zcash而言，这一安排意味着其安全叙事正在扩展。不过，目前披露的信息主要集中在目标和推出时间，具体技术细节或成果数据尚未公布。来源: decrypt.co."
+      },
+      "es": {
+        "title": "Zcash apunta a un hito cripto poscuántico en 2027 y prepara wallet",
+        "excerpt": "La criptomoneda centrada en privacidad Zcash presentó una hoja de ruta para un hito poscuántico en 2027 y planea lanzar una wallet recuperable ante lo cuántico en un mes.",
+        "body": "La criptomoneda centrada en la privacidad Zcash apunta a alcanzar un hito de criptografía poscuántica para 2027. Al presentar su hoja de ruta, Zcash dijo que planea lanzar en el plazo de un mes una wallet recuperable ante riesgos cuánticos. El plan se centra primero en introducir una función de wallet que permita a los usuarios recuperar el acceso a sus activos de cara a una era de computación cuántica, y después avanzar hacia una transición más amplia a la criptografía poscuántica. Para Zcash, que ha destacado por sus funciones de privacidad, la hoja de ruta amplía su narrativa de seguridad. La información divulgada se limita a objetivos y calendario de lanzamiento, sin detalles técnicos concretos ni cifras de rendimiento. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Zcash mira marco cripto pós-quântico em 2027 e prepara carteira",
+        "excerpt": "A criptomoeda focada em privacidade Zcash apresentou um roteiro para um marco pós-quântico em 2027 e planeja lançar uma carteira recuperável contra riscos quânticos em um mês.",
+        "body": "A criptomoeda focada em privacidade Zcash pretende alcançar até 2027 um marco em criptografia pós-quântica. Ao apresentar seu roteiro, a Zcash afirmou que planeja lançar dentro de um mês uma carteira recuperável em cenário quântico. O plano tem como foco lançar primeiro uma função de carteira que ajude usuários a recuperar acesso aos ativos em preparação para a era da computação quântica, e depois avançar em uma transição de longo prazo para criptografia pós-quântica. Para a Zcash, conhecida por enfatizar privacidade, o roteiro amplia sua narrativa de segurança. As informações divulgadas se concentram em metas e prazo de lançamento, sem detalhes técnicos específicos ou números de desempenho. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Zcash peilt Post-Quanten-Krypto-Meilenstein 2027 an, Wallet naht",
+        "excerpt": "Die datenschutzorientierte Kryptowährung Zcash stellte eine Roadmap vor, plant binnen eines Monats eine quantenwiederherstellbare Wallet und zielt auf 2027.",
+        "body": "Die datenschutzorientierte Kryptowährung Zcash will bis 2027 einen Meilenstein im Bereich Post-Quanten-Kryptografie erreichen. Bei der Vorstellung ihrer Roadmap erklärte Zcash, innerhalb eines Monats eine quantenwiederherstellbare Wallet starten zu wollen. Im Mittelpunkt steht zunächst eine Wallet-Funktion, mit der Nutzer in Vorbereitung auf eine Ära des Quantencomputings den Zugang zu ihren Vermögenswerten wiederherstellen können. Danach soll die langfristige Roadmap den Übergang zu Post-Quanten-Kryptografie vorantreiben. Für Zcash, das seit jeher Datenschutz betont, erweitert der Plan die Sicherheitsbotschaft. Die veröffentlichten Angaben beziehen sich vor allem auf Ziel und Zeitplan; konkrete technische Details oder Leistungszahlen wurden nicht genannt. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Zcash vise un jalon crypto post-quantique en 2027 et prépare un wallet",
+        "excerpt": "La cryptomonnaie axée sur la confidentialité Zcash a présenté une feuille de route visant 2027 et prévoit de lancer sous un mois un wallet récupérable face au quantique.",
+        "body": "La cryptomonnaie axée sur la confidentialité Zcash vise un jalon de cryptographie post-quantique d’ici 2027. En présentant sa feuille de route, Zcash a indiqué prévoir le lancement, sous un mois, d’un wallet récupérable face aux risques quantiques. Le plan consiste d’abord à proposer une fonction de wallet permettant aux utilisateurs de récupérer l’accès à leurs actifs en vue de l’ère de l’informatique quantique, puis à poursuivre une transition de plus long terme vers la cryptographie post-quantique. Pour Zcash, qui met depuis longtemps l’accent sur la confidentialité, cette feuille de route élargit son discours sur la sécurité. Les informations publiées portent surtout sur les objectifs et le calendrier, sans détails techniques précis ni chiffres de performance. Source: decrypt.co."
+      },
+      "ar": {
+        "title": "Zcash تستهدف إنجازا في التشفير ما بعد الكمي بحلول 2027",
+        "excerpt": "كشفت عملة Zcash، المركزة على الخصوصية، عن خارطة طريق تستهدف إنجازا في التشفير ما بعد الكمي بحلول 2027 مع محفظة قابلة للتعافي خلال شهر.",
+        "body": "تستهدف Zcash، وهي عملة مشفرة تركز على الخصوصية، تحقيق إنجاز في مجال التشفير ما بعد الكمي بحلول عام 2027. وخلال عرض خارطة الطريق، قالت Zcash إنها تخطط لإطلاق محفظة قابلة للتعافي في سياق المخاطر الكمية خلال شهر واحد. يقوم جوهر الخطة على تقديم وظيفة محفظة تساعد المستخدمين على استعادة الوصول إلى أصولهم استعدادا لعصر الحوسبة الكمية، ثم المضي لاحقا في انتقال أطول مدى نحو التشفير ما بعد الكمي. وبالنسبة إلى Zcash، التي ركزت طويلا على الخصوصية، تمثل الخطوة توسيعا لسردية الأمان. وتبقى المعلومات المعلنة مركزة على الأهداف وتوقيت الإطلاق، من دون تفاصيل تقنية محددة أو أرقام أداء. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "Zcash ने 2027 तक पोस्ट-क्वांटम क्रिप्टो माइलस्टोन का लक्ष्य रखा",
+        "excerpt": "प्राइवेसी-केंद्रित क्रिप्टोकरेंसी Zcash ने रोडमैप पेश करते हुए एक महीने में क्वांटम-रिकवरेबल वॉलेट लॉन्च करने और 2027 तक पोस्ट-क्वांटम लक्ष्य पाने की बात कही।",
+        "body": "प्राइवेसी-केंद्रित क्रिप्टोकरेंसी Zcash ने 2027 तक पोस्ट-क्वांटम क्रिप्टोग्राफी में एक अहम माइलस्टोन हासिल करने का लक्ष्य रखा है। अपने रोडमैप की जानकारी देते हुए Zcash ने कहा कि वह एक महीने के भीतर क्वांटम-रिकवरेबल वॉलेट लॉन्च करने की योजना बना रही है। इस योजना का केंद्र पहले ऐसा वॉलेट फीचर लाना है, जिससे उपयोगकर्ता क्वांटम कंप्यूटिंग के दौर की तैयारी में अपने एसेट्स तक पहुंच फिर से पा सकें, और फिर लंबी अवधि के रोडमैप के तहत पोस्ट-क्वांटम क्रिप्टोग्राफी की ओर बढ़ सकें। प्राइवेसी पर जोर देने वाली Zcash के लिए यह सुरक्षा से जुड़ी अपनी कहानी को आगे बढ़ाने का कदम है। फिलहाल घोषित जानकारी लक्ष्य और लॉन्च समय पर केंद्रित है; तकनीकी ब्योरे या प्रदर्शन आंकड़े साझा नहीं किए गए। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Zcash Bidik Tonggak Kripto Pascakuantum 2027, Dompet Segera Hadir",
+        "excerpt": "Kripto berfokus privasi Zcash memaparkan peta jalan untuk tonggak pascakuantum 2027 dan berencana meluncurkan dompet yang dapat dipulihkan secara kuantum dalam sebulan.",
+        "body": "Kripto berfokus privasi Zcash menargetkan pencapaian tonggak kriptografi pascakuantum pada 2027. Saat memaparkan peta jalannya, Zcash mengatakan berencana meluncurkan dompet yang dapat dipulihkan secara kuantum dalam waktu satu bulan. Inti rencana ini adalah lebih dulu menghadirkan fungsi dompet yang membantu pengguna memulihkan akses ke aset mereka sebagai persiapan menghadapi era komputasi kuantum, lalu melanjutkan transisi jangka panjang menuju kriptografi pascakuantum. Bagi Zcash, yang selama ini menonjolkan fitur privasi, langkah tersebut memperluas narasi keamanannya. Informasi yang diumumkan masih berfokus pada target dan jadwal peluncuran, tanpa rincian teknis atau angka kinerja tertentu. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "2f01d0ccc60c",
+    "slug": "xrp-new-addresses-active-supply-plunge-amid-shift-to-institu-124279",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T16:53:46.946Z",
+    "updatedAt": "2026-05-08T16:53:46.946Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367253/xrp-new-addresses-active-supply-plunge-amid-shift-to-institutional-rails",
+    "canonicalUrl": "https://decrypt.co/367253/xrp-new-addresses-active-supply-plunge-amid-shift-to-institutional-rails",
+    "titleFingerprint": "58c3da0131811a392a95c3e56352d19899ee844a",
+    "dedupKeys": [
+      "2f01d0ccc60c60ead6fa877cba5b2a548883ef22",
+      "58c3da0131811a392a95c3e56352d19899ee844a",
+      "bb9207c1f0d88a1495d30e73aad9a3486bd3c627"
+    ],
+    "imageUrl": "/images/articles/2f01d0ccc60c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "XRP 신규 주소 다년래 최저, 기관용 레일 전환 신호",
+        "excerpt": "Glassnode 데이터에 따르면 XRP 신규 주소와 활성 공급이 급감하며 네트워크 이용이 개인 투기에서 기관 중심 활용으로 이동하는 흐름이 나타났다.",
+        "body": "XRP 네트워크의 신규 주소가 Glassnode 데이터 기준 다년래 최저 수준으로 떨어지고 활성 공급도 급감한 것으로 전해졌다. 이는 XRP 이용 흐름이 기존의 개인 투자자 중심 투기 수요에서 이른바 기관용 레일 활용으로 이동하고 있다는 신호로 해석된다. 배경에는 네트워크 활동 지표의 변화가 있다. 신규 주소 감소는 새 참여자 유입 둔화를, 활성 공급 하락은 온체인에서 움직이는 XRP 물량 축소를 보여준다. 다만 원문은 가격 전망이나 추가 수치를 제시하지 않았다. decrypt.co는 이번 지표 변화가 XRP 네트워크의 사용 성격 변화를 보여준다고 보도했다."
+      },
+      "en": {
+        "title": "XRP New Addresses Hit Multi-Year Lows as Institutional Use Rises",
+        "excerpt": "Glassnode data shows XRP new addresses and active supply have dropped sharply as network usage shifts from retail speculation toward institutional rails.",
+        "body": "New addresses on the XRP network have fallen to multi-year lows, while active supply has also plunged, according to Glassnode data. The move points to a shift in XRP network activity away from retail-driven speculation and toward use on so-called institutional rails. The key context is the change in on-chain activity metrics. A decline in new addresses suggests slower inflows of new participants, while lower active supply shows fewer XRP tokens moving on-chain. The original report did not provide a price forecast or additional numerical details. decrypt.co reported that these indicators highlight a changing pattern of XRP network usage."
+      },
+      "ja": {
+        "title": "XRP新規アドレスが数年来低水準、機関向け利用へ移行",
+        "excerpt": "Glassnodeデータによると、XRPの新規アドレスとアクティブ供給が急減し、利用が個人投機から機関向けレールへ移る動きが示された。",
+        "body": "XRPネットワークの新規アドレスは、Glassnodeデータで数年来の低水準に落ち込み、アクティブ供給も急減したと伝えられた。これは、XRPの利用が従来の個人投資家による投機需要から、いわゆる機関向けレールでの活用へ移りつつあることを示す動きと受け止められる。背景にはオンチェーン活動指標の変化がある。新規アドレスの減少は新たな参加者流入の鈍化を示し、アクティブ供給の低下はオンチェーンで動くXRP量の縮小を示す。ただし原文は価格見通しや追加数値を示していない。decrypt.coは、今回の指標変化がXRPネットワークの利用性質の変化を示すと報じた。"
+      },
+      "zh": {
+        "title": "XRP新增地址创多年低点，机构化使用趋势显现",
+        "excerpt": "Glassnode数据显示，XRP新增地址和活跃供应量大幅下降，网络使用正从散户投机转向机构化轨道。",
+        "body": "据Glassnode数据，XRP网络新增地址已降至多年低位，活跃供应量也出现大幅下滑。这一变化被视为XRP使用方式正在从以散户投机为主，转向所谓机构化轨道的信号。相关背景在于链上活动指标的变化。新增地址减少意味着新参与者流入放缓，活跃供应下降则显示链上流动的XRP数量缩小。不过，原文并未给出价格预测或更多具体数值。decrypt.co报道称，这些指标变化显示XRP网络的使用性质正在发生变化。"
+      },
+      "es": {
+        "title": "XRP cae en nuevas direcciones y apunta a uso institucional",
+        "excerpt": "Datos de Glassnode muestran que las nuevas direcciones de XRP y la oferta activa cayeron con fuerza mientras la red pasa de la especulación minorista a rieles institucionales.",
+        "body": "Las nuevas direcciones en la red XRP cayeron a mínimos de varios años, mientras que la oferta activa también se desplomó, según datos de Glassnode. El movimiento apunta a un cambio en el uso de XRP, desde la especulación impulsada por usuarios minoristas hacia los llamados rieles institucionales. El contexto clave está en las métricas de actividad en cadena. La caída de nuevas direcciones sugiere una menor entrada de nuevos participantes, y la baja de la oferta activa indica que se mueve menos XRP en la red. El informe original no presentó previsiones de precio ni cifras adicionales. decrypt.co informó que estos indicadores reflejan un cambio en el patrón de uso de la red XRP."
+      },
+      "pt": {
+        "title": "XRP vê novos endereços em mínima e avança para uso institucional",
+        "excerpt": "Dados da Glassnode mostram queda forte em novos endereços e oferta ativa de XRP, enquanto a rede migra da especulação de varejo para trilhos institucionais.",
+        "body": "Os novos endereços na rede XRP caíram para mínimas de vários anos, enquanto a oferta ativa também recuou fortemente, segundo dados da Glassnode. O movimento indica uma mudança no uso da rede, saindo da especulação liderada por investidores de varejo para os chamados trilhos institucionais. O contexto está nas métricas de atividade on-chain. A queda de novos endereços sugere desaceleração na entrada de novos participantes, enquanto a redução da oferta ativa mostra menor volume de XRP em movimento na rede. O texto original não trouxe projeção de preço nem números adicionais. A decrypt.co informou que esses indicadores mostram uma mudança no perfil de uso da rede XRP."
+      },
+      "de": {
+        "title": "XRP-Neuadressen fallen auf Mehrjahrestief bei institutionellem Fokus",
+        "excerpt": "Glassnode-Daten zeigen einen starken Rückgang neuer XRP-Adressen und des aktiven Angebots, während sich die Nutzung von Retail-Spekulation zu institutionellen Rails verlagert.",
+        "body": "Neue Adressen im XRP-Netzwerk sind laut Glassnode-Daten auf ein Mehrjahrestief gefallen, zugleich ist auch das aktive Angebot stark zurückgegangen. Das deutet auf eine Verschiebung der XRP-Nutzung weg von spekulativer Retail-Aktivität hin zu sogenannten institutionellen Rails. Der Hintergrund liegt in veränderten On-Chain-Kennzahlen. Weniger neue Adressen sprechen für einen langsameren Zufluss neuer Teilnehmer, während ein niedrigeres aktives Angebot zeigt, dass weniger XRP on-chain bewegt wird. Der Originalbericht nannte keine Preisprognose und keine weiteren konkreten Zahlen. decrypt.co berichtete, dass diese Indikatoren eine veränderte Nutzung des XRP-Netzwerks zeigen."
+      },
+      "fr": {
+        "title": "XRP: les nouvelles adresses chutent avec l’essor institutionnel",
+        "excerpt": "Les données Glassnode montrent une forte baisse des nouvelles adresses XRP et de l’offre active, alors que le réseau passe de la spéculation de détail aux rails institutionnels.",
+        "body": "Les nouvelles adresses sur le réseau XRP sont tombées à des plus bas de plusieurs années, tandis que l’offre active a également fortement reculé, selon les données de Glassnode. Cette évolution signale un déplacement de l’usage de XRP, de la spéculation portée par les particuliers vers des rails dits institutionnels. Le contexte repose sur les indicateurs d’activité on-chain. La baisse des nouvelles adresses suggère un ralentissement de l’arrivée de nouveaux participants, tandis que le recul de l’offre active montre qu’une quantité moindre de XRP circule sur la chaîne. Le rapport original ne donne ni prévision de prix ni chiffres supplémentaires. decrypt.co a indiqué que ces données reflètent un changement dans la nature d’utilisation du réseau XRP."
+      },
+      "ar": {
+        "title": "عناوين XRP الجديدة تهبط لأدنى مستوياتها مع تحول مؤسسي",
+        "excerpt": "تظهر بيانات Glassnode تراجع عناوين XRP الجديدة والمعروض النشط بقوة، مع انتقال استخدام الشبكة من مضاربات الأفراد إلى مسارات مؤسسية.",
+        "body": "انخفض عدد العناوين الجديدة على شبكة XRP إلى أدنى مستويات متعددة السنوات، كما تراجع المعروض النشط بشدة، وفق بيانات Glassnode. وتشير هذه الحركة إلى تحول في استخدام XRP من طلب المضاربة المرتبط بالمستثمرين الأفراد إلى ما يسمى بالمسارات المؤسسية. وتكمن الخلفية في تغير مؤشرات النشاط على السلسلة. فتراجع العناوين الجديدة يشير إلى تباطؤ دخول مشاركين جدد، بينما يوضح انخفاض المعروض النشط تقلص كمية XRP المتحركة على الشبكة. ولم يقدم النص الأصلي توقعات سعرية أو أرقاما إضافية. وذكرت decrypt.co أن هذه المؤشرات تعكس تغيرا في طبيعة استخدام شبكة XRP."
+      },
+      "hi": {
+        "title": "XRP नए पते कई साल के निचले स्तर पर, संस्थागत उपयोग की ओर झुकाव",
+        "excerpt": "Glassnode डेटा के अनुसार XRP के नए पते और सक्रिय आपूर्ति तेजी से घटी है, जबकि नेटवर्क खुदरा सट्टेबाजी से संस्थागत रेल्स की ओर बढ़ता दिख रहा है।",
+        "body": "Glassnode डेटा के अनुसार XRP नेटवर्क पर नए पते कई साल के निचले स्तर पर पहुंच गए हैं और सक्रिय आपूर्ति में भी तेज गिरावट आई है। यह बदलाव इस बात का संकेत माना जा रहा है कि XRP का उपयोग खुदरा निवेशकों की सट्टात्मक मांग से हटकर तथाकथित संस्थागत रेल्स की ओर जा रहा है। इसका संदर्भ ऑन-चेन गतिविधि संकेतकों में बदलाव से जुड़ा है। नए पतों की कमी नए प्रतिभागियों के धीमे प्रवेश को दिखाती है, जबकि सक्रिय आपूर्ति में गिरावट बताती है कि ऑन-चेन चलने वाली XRP मात्रा कम हुई है। मूल रिपोर्ट ने कीमत का अनुमान या अतिरिक्त आंकड़े नहीं दिए। decrypt.co ने बताया कि ये संकेतक XRP नेटवर्क के उपयोग स्वरूप में बदलाव दिखाते हैं।"
+      },
+      "id": {
+        "title": "Alamat Baru XRP Turun ke Level Rendah Saat Penggunaan Institusional Meningkat",
+        "excerpt": "Data Glassnode menunjukkan alamat baru XRP dan pasokan aktif turun tajam, seiring pergeseran penggunaan jaringan dari spekulasi ritel ke rel institusional.",
+        "body": "Alamat baru di jaringan XRP turun ke level terendah dalam beberapa tahun, sementara pasokan aktif juga merosot tajam, menurut data Glassnode. Pergerakan ini menunjukkan perubahan penggunaan XRP dari spekulasi yang didorong investor ritel menuju apa yang disebut rel institusional. Konteks utamanya adalah perubahan metrik aktivitas on-chain. Penurunan alamat baru menunjukkan arus peserta baru yang melambat, sedangkan turunnya pasokan aktif memperlihatkan lebih sedikit XRP yang bergerak di jaringan. Laporan asli tidak memberikan proyeksi harga atau angka tambahan. decrypt.co melaporkan bahwa perubahan indikator ini mencerminkan pergeseran karakter penggunaan jaringan XRP."
+      }
+    }
+  },
+  {
+    "id": "ac05eaecccba",
+    "slug": "bitcoins-overbought-signal-flashes-price-top-warning-with-fo-158308",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T16:52:53.658Z",
+    "updatedAt": "2026-05-08T16:52:53.658Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/bitcoin-overbought-signal-flashes-price-top-warning-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/bitcoin-overbought-signal-flashes-price-top-warning-78k",
+    "titleFingerprint": "3eced9115b2e3cf553e6c71ecdffdfa490d2c57e",
+    "dedupKeys": [
+      "ac05eaecccbab4669a94c9c638baf8a00c0ff455",
+      "3eced9115b2e3cf553e6c71ecdffdfa490d2c57e",
+      "dc36270a9d335c0a9b509d1d28e12f723dd0f025"
+    ],
+    "imageUrl": "/images/articles/ac05eaecccba.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 과매수 신호, 7만8000달러 주목 속 가격 고점 경고",
+        "excerpt": "비트코인이 6만 달러에서 36% 반등한 뒤 RSI가 2026년 초 이후 보이지 않았던 잠재적 고점 신호를 보이며 7만8000달러 구간이 주목받고 있다.",
+        "body": "비트코인이 6만 달러에서 시작한 36% 랠리 이후 가격 고점 가능성을 알리는 과매수 신호를 보였다고 cointelegraph.com이 전했다. 핵심 지표는 상대강도지수(RSI)로, 이번 움직임은 2026년 초 이후 관측되지 않았던 잠재적 톱 신호로 제시됐다. 기사 제목은 시장의 초점이 7만8000달러에 맞춰지고 있음을 강조했다. RSI는 상승세가 빠르게 진행됐을 때 과열 여부를 살피는 데 쓰이는 지표로, 이번 신호는 단기 가격 흐름을 점검해야 한다는 경고로 해석된다. 다만 원문은 이를 확정적 하락 전망이 아니라 잠재적 가격 상단 신호로 다뤘다. 출처: cointelegraph.com 인용."
+      },
+      "en": {
+        "title": "Bitcoin Overbought Signal Warns of Price Top as $78K Draws Focus",
+        "excerpt": "After Bitcoin rallied 36% from $60,000, its RSI flashed a potential top signal not seen since early 2026, putting the $78,000 area in market focus.",
+        "body": "Bitcoin showed an overbought signal that may warn of a price top after a 36% rally from $60,000, according to cointelegraph.com. The key indicator was the relative strength index, or RSI, and the move was described as a potential top signal not seen since early 2026. The report’s focus was the $78,000 level, which has become the main area watched in the latest price discussion. RSI is commonly used to assess whether a rapid advance may be overheating, so the signal points to a need to monitor near-term price action. The original report did not present this as a confirmed decline, but as a potential price-top warning. Source: cited from cointelegraph.com."
+      },
+      "ja": {
+        "title": "ビットコイン過熱シグナル、7万8000ドル注視で高値警戒",
+        "excerpt": "ビットコインは6万ドルから36％上昇した後、RSIが2026年初め以来見られなかった潜在的な天井シグナルを示し、7万8000ドルが焦点となっている。",
+        "body": "ビットコインは6万ドルからの36％上昇後、価格の天井を警戒させる過買いシグナルを示したとcointelegraph.comが伝えた。焦点となった指標は相対力指数、つまりRSIで、今回の動きは2026年初め以来見られなかった潜在的なトップシグナルとして示された。記事は市場の注目が7万8000ドルに向かっている点も強調した。RSIは上昇が急速に進んだ際に過熱感を確認するために使われる指標であり、今回のシグナルは短期的な価格動向を点検する必要性を示すものと受け止められる。ただし原文は確定的な下落予想ではなく、潜在的な価格上限の警告として扱っている。出典: cointelegraph.comを引用。"
+      },
+      "zh": {
+        "title": "比特币超买信号预警价格见顶，7.8万美元成焦点",
+        "excerpt": "比特币从6万美元反弹36%后，RSI出现自2026年初以来未见的潜在顶部信号，市场关注点转向7.8万美元区间。",
+        "body": "据cointelegraph.com报道，比特币在从6万美元上涨36%后出现超买信号，可能提示价格顶部风险。核心指标是相对强弱指数RSI，此次信号被描述为自2026年初以来未曾出现的潜在顶部信号。报道标题同时强调，市场焦点正集中在7.8万美元水平。RSI常用于观察快速上涨后的过热程度，因此这一信号意味着短期价格走势需要被进一步关注。不过，原文并未将其表述为确定的下跌预测，而是将其作为潜在价格顶部警告来处理。来源：引用cointelegraph.com。"
+      },
+      "es": {
+        "title": "Bitcoin da señal de sobrecompra y alerta de techo con foco en USD 78K",
+        "excerpt": "Tras subir 36% desde USD 60.000, el RSI de Bitcoin mostró una posible señal de techo no vista desde comienzos de 2026, con la zona de USD 78.000 bajo atención.",
+        "body": "Bitcoin mostró una señal de sobrecompra que podría advertir de un techo de precio tras un repunte del 36% desde USD 60.000, según cointelegraph.com. El indicador clave fue el índice de fuerza relativa, o RSI, y el movimiento fue descrito como una posible señal de techo no vista desde comienzos de 2026. El informe también destacó que el foco del mercado está en USD 78.000. El RSI se utiliza para evaluar si una subida rápida puede estar entrando en una fase de sobrecalentamiento, por lo que la señal apunta a vigilar la evolución de corto plazo. El texto original no lo presentó como una caída confirmada, sino como una advertencia potencial de techo. Fuente: citado de cointelegraph.com."
+      },
+      "pt": {
+        "title": "Bitcoin em sobrecompra alerta para topo com foco nos US$ 78 mil",
+        "excerpt": "Após subir 36% desde US$ 60.000, o RSI do Bitcoin mostrou um possível sinal de topo não visto desde o início de 2026, colocando US$ 78.000 no centro das atenções.",
+        "body": "O Bitcoin exibiu um sinal de sobrecompra que pode alertar para um topo de preço após uma alta de 36% desde US$ 60.000, segundo o cointelegraph.com. O principal indicador foi o índice de força relativa, ou RSI, e o movimento foi descrito como um possível sinal de topo não visto desde o início de 2026. A reportagem também destacou que o foco do mercado está em US$ 78.000. O RSI é usado para avaliar se uma alta rápida pode estar ficando excessiva, por isso o sinal indica a necessidade de acompanhar o preço no curto prazo. O texto original não tratou isso como uma queda confirmada, mas como um alerta potencial de topo. Fonte: citado de cointelegraph.com."
+      },
+      "de": {
+        "title": "Bitcoin überkauft: Top-Warnsignal rückt 78.000 Dollar in den Fokus",
+        "excerpt": "Nach einer Rally von 36% ab 60.000 Dollar zeigte der RSI von Bitcoin ein mögliches Top-Signal, das seit Anfang 2026 nicht mehr zu sehen war; 78.000 Dollar stehen im Fokus.",
+        "body": "Bitcoin hat nach einer Rally von 36% ab 60.000 Dollar ein überkauftes Signal gezeigt, das vor einem möglichen Kurshoch warnen könnte, berichtet cointelegraph.com. Im Mittelpunkt steht der Relative-Stärke-Index, kurz RSI. Die Bewegung wurde als potenzielles Top-Signal beschrieben, das seit Anfang 2026 nicht mehr beobachtet wurde. Der Bericht betonte zudem, dass sich der Marktfokus auf 78.000 Dollar richtet. Der RSI wird genutzt, um zu prüfen, ob eine schnelle Aufwärtsbewegung überhitzt sein könnte. Daher weist das Signal darauf hin, die kurzfristige Kursentwicklung genau zu beobachten. Der Originalbericht stellte dies jedoch nicht als bestätigten Rückgang dar, sondern als mögliche Warnung vor einem Preisdeckel. Quelle: zitiert nach cointelegraph.com."
+      },
+      "fr": {
+        "title": "Bitcoin en surachat: alerte de sommet alors que les 78.000 $ focalisent",
+        "excerpt": "Après une hausse de 36% depuis 60.000 $, le RSI du Bitcoin a affiché un possible signal de sommet inédit depuis début 2026, avec la zone des 78.000 $ en ligne de mire.",
+        "body": "Le Bitcoin a affiché un signal de surachat pouvant avertir d’un sommet de prix après une progression de 36% depuis 60.000 $, selon cointelegraph.com. L’indicateur central est l’indice de force relative, ou RSI, et ce mouvement a été présenté comme un possible signal de sommet qui n’avait pas été observé depuis début 2026. Le rapport souligne aussi que l’attention du marché se porte sur les 78.000 $. Le RSI sert à évaluer si une hausse rapide devient excessive; ce signal invite donc à surveiller l’évolution de court terme. Le texte original ne le présente pas comme une baisse confirmée, mais comme une alerte potentielle de sommet. Source: cité de cointelegraph.com."
+      },
+      "ar": {
+        "title": "إشارة تشبع شرائي في بيتكوين تنبه إلى قمة سعرية مع ترقب 78 ألف دولار",
+        "excerpt": "بعد صعود بيتكوين 36% من مستوى 60 ألف دولار، أظهر مؤشر القوة النسبية إشارة قمة محتملة لم تظهر منذ أوائل 2026، بينما يتركز الاهتمام على 78 ألف دولار.",
+        "body": "أظهرت بيتكوين إشارة تشبع شرائي قد تنبه إلى قمة سعرية بعد ارتفاعها 36% من مستوى 60 ألف دولار، بحسب cointelegraph.com. المؤشر الأساسي هو مؤشر القوة النسبية RSI، وقد وُصفت الحركة بأنها إشارة قمة محتملة لم تُرصد منذ أوائل 2026. كما ركز التقرير على أن مستوى 78 ألف دولار أصبح محور المتابعة في السوق. ويُستخدم مؤشر RSI لتقييم ما إذا كان الصعود السريع قد دخل مرحلة مبالغة، لذلك تعني الإشارة ضرورة مراقبة حركة السعر على المدى القصير. ومع ذلك، لم يعرض النص الأصلي الأمر كتوقع مؤكد للهبوط، بل كتحذير محتمل من سقف سعري. المصدر: اقتباس عن cointelegraph.com."
+      },
+      "hi": {
+        "title": "Bitcoin में ओवरबॉट संकेत, $78K पर नजर के बीच टॉप चेतावनी",
+        "excerpt": "Bitcoin के $60,000 से 36% उछलने के बाद RSI ने 2026 की शुरुआत के बाद नहीं दिखा संभावित टॉप संकेत दिया, जिससे $78,000 क्षेत्र बाजार के फोकस में आ गया।",
+        "body": "cointelegraph.com के अनुसार, Bitcoin ने $60,000 से 36% की रैली के बाद ओवरबॉट संकेत दिखाया, जो संभावित मूल्य शीर्ष की चेतावनी हो सकता है। मुख्य संकेतक रिलेटिव स्ट्रेंथ इंडेक्स, यानी RSI, रहा और इस कदम को 2026 की शुरुआत के बाद नहीं दिखे संभावित टॉप संकेत के रूप में बताया गया। रिपोर्ट ने यह भी रेखांकित किया कि बाजार का ध्यान $78,000 स्तर पर है। RSI का उपयोग तेज बढ़त के बाद संभावित ओवरहीटिंग को परखने के लिए किया जाता है, इसलिए यह संकेत निकट अवधि की कीमत चाल पर नजर रखने की जरूरत बताता है। मूल रिपोर्ट ने इसे निश्चित गिरावट नहीं, बल्कि संभावित मूल्य शीर्ष चेतावनी के रूप में पेश किया। स्रोत: cointelegraph.com से उद्धृत।"
+      },
+      "id": {
+        "title": "Bitcoin Overbought Beri Peringatan Top Harga, Fokus ke US$78 Ribu",
+        "excerpt": "Setelah Bitcoin reli 36% dari US$60.000, RSI menampilkan sinyal potensi puncak yang belum terlihat sejak awal 2026, membuat area US$78.000 menjadi sorotan.",
+        "body": "Bitcoin menunjukkan sinyal overbought yang dapat memperingatkan potensi puncak harga setelah reli 36% dari US$60.000, menurut cointelegraph.com. Indikator utamanya adalah relative strength index, atau RSI, dan pergerakan ini disebut sebagai sinyal potensi top yang belum terlihat sejak awal 2026. Laporan tersebut juga menekankan bahwa fokus pasar tertuju pada US$78.000. RSI digunakan untuk menilai apakah kenaikan cepat mulai terlalu panas, sehingga sinyal ini menunjukkan perlunya memantau pergerakan harga jangka pendek. Namun, sumber asli tidak menyajikannya sebagai penurunan yang pasti, melainkan sebagai peringatan potensi batas atas harga. Sumber: dikutip dari cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "b872464142d4",
     "slug": "bitcoin-price-crashes-near-zero-on-revolut-blamed-on-third-p-276012",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Morgan Stanley Luncurkan Trading Kripto di ETrade, Tantang Coinbase",
         "excerpt": "Morgan Stanley meluncurkan trading kripto di ETrade, sementara Gedung Putih ingin Clarity Act diteken pada 4 Juli, menyoroti persaingan dan regulasi kripto AS.",
         "body": "Morgan Stanley meluncurkan layanan trading kripto di ETrade, menciptakan dinamika persaingan baru di pasar perdagangan kripto Amerika Serikat yang selama ini lekat dengan Coinbase. Kabar ini muncul bersamaan dengan informasi bahwa Gedung Putih ingin Clarity Act ditandatangani pada 4 Juli. Dengan menawarkan trading kripto melalui platform investasi online yang sudah mapan, lembaga keuangan besar dapat memperluas akses bagi investor ritel. Pada saat yang sama, jadwal Clarity Act tetap menjadi variabel penting dalam pembahasan regulasi aset digital di AS. Menurut decrypt.co, kedua perkembangan ini menunjukkan kripto makin masuk ke ranah keuangan arus utama dan persaingan pasar semakin kuat."
-      }
-    }
-  },
-  {
-    "id": "78c0e1e7928c",
-    "slug": "white-house-targets-july-4-for-clarity-act-passage-crypto-ad-213202",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T03:00:54.851Z",
-    "updatedAt": "2026-05-08T03:00:54.851Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367075/white-house-targets-july-4-for-clarity-act-passage-crypto-adviser",
-    "canonicalUrl": "https://decrypt.co/367075/white-house-targets-july-4-for-clarity-act-passage-crypto-adviser",
-    "titleFingerprint": "e322c9c859d37be15d87fc9c5ce8c34d42335d25",
-    "dedupKeys": [
-      "78c0e1e7928c7612ec94335d7fd6b69b20572229",
-      "e322c9c859d37be15d87fc9c5ce8c34d42335d25",
-      "e3253920d73f69b216c4d73c5f337cfc0b1cbecd"
-    ],
-    "imageUrl": "/images/articles/78c0e1e7928c.png",
-    "i18n": {
-      "ko": {
-        "title": "클래리티법 7월 4일 통과 목표, 백악관 암호화폐 고문 발언",
-        "excerpt": "패트릭 위트 백악관 암호화폐 고문은 상원 은행위원회가 이달 클래리티법 마크업을 계획하고 있으며, 6월 본회의 통과를 위한 시간이 남아 있다고 말했다.",
-        "body": "백악관이 암호화폐 규제 명확성을 다루는 클래리티법의 통과 시점으로 7월 4일을 목표로 하고 있다고 패트릭 위트 암호화폐 고문이 밝혔다. 그는 상원 은행위원회의 법안 마크업이 이달 예정돼 있으며, 이후 6월에는 상원 본회의 처리를 위한 근무 주간이 네 주 남아 있다고 설명했다. 이번 일정은 법안 심사와 본회의 표결 가능성을 가늠하게 하는 핵심 절차로 주목된다. 위트의 발언은 클래리티법 추진 일정이 여전히 의회 절차에 달려 있음을 보여준다. 출처: decrypt.co."
-      },
-      "en": {
-        "title": "CLARITY Act July 4 Target Cited by White House Crypto Adviser",
-        "excerpt": "White House crypto adviser Patrick Witt said the Senate Banking Committee plans a CLARITY Act markup this month, leaving four June Senate workweeks for floor passage.",
-        "body": "The White House is targeting July 4 for passage of the CLARITY Act, which addresses regulatory clarity for crypto, according to crypto adviser Patrick Witt. Witt said the Senate Banking Committee markup is planned for this month, followed by four working Senate weeks in June that could be used for floor passage. The schedule highlights the key procedural steps still ahead, from committee review to possible Senate floor action. His comments show that the bill’s timing remains tied to the congressional process. Source: decrypt.co."
-      },
-      "ja": {
-        "title": "CLARITY法、7月4日通過目標と米大統領府暗号資産顧問",
-        "excerpt": "米大統領府の暗号資産顧問パトリック・ウィット氏は、上院銀行委員会が今月CLARITY法のマークアップを予定し、6月に本会議通過の時間が残ると述べた。",
-        "body": "米大統領府は、暗号資産規制の明確化を扱うCLARITY法について、7月4日までの通過を目標にしていると、暗号資産顧問のパトリック・ウィット氏が明らかにした。ウィット氏によると、上院銀行委員会の法案マークアップは今月予定されており、その後6月には上院本会議での通過に充てられる稼働週が4週間残っている。今回の予定は、委員会審査から本会議での対応まで、今後の主要手続きを示すものとして注目される。発言は、法案の時期がなお議会手続きに左右されることを示している。出典: decrypt.co."
-      },
-      "zh": {
-        "title": "CLARITY法案瞄准7月4日通过，白宫加密顾问披露进度",
-        "excerpt": "白宫加密顾问帕特里克·维特表示，参议院银行委员会计划本月审议CLARITY法案，6月还剩四个参议院工作周可推动院会通过。",
-        "body": "白宫正将7月4日作为CLARITY法案通过的目标日期，该法案涉及加密货币监管清晰度，白宫加密顾问帕特里克·维特作出上述说明。维特表示，参议院银行委员会计划在本月进行法案标记审议，随后6月仍有四个参议院工作周可用于推动院会通过。这一时间表凸显了法案仍需经历的关键程序，包括委员会审议以及可能的参议院院会行动。维特的表态显示，该法案推进时间仍取决于国会程序。来源：decrypt.co。"
-      },
-      "es": {
-        "title": "Ley CLARITY apunta al 4 de julio, dice asesor cripto de la Casa Blanca",
-        "excerpt": "Patrick Witt, asesor cripto de la Casa Blanca, dijo que el Comité Bancario del Senado planea revisar la Ley CLARITY este mes, con cuatro semanas laborales en junio para su aprobación.",
-        "body": "La Casa Blanca apunta al 4 de julio como fecha objetivo para aprobar la Ley CLARITY, centrada en la claridad regulatoria para las criptomonedas, según el asesor cripto Patrick Witt. Witt dijo que el Comité Bancario del Senado tiene previsto realizar el markup del proyecto este mes y que después quedarían cuatro semanas laborales del Senado en junio para intentar su aprobación en el pleno. El calendario destaca los pasos clave pendientes, desde la revisión en comité hasta una posible votación en el Senado. Sus comentarios muestran que el avance del proyecto sigue sujeto al proceso del Congreso. Fuente: decrypt.co."
-      },
-      "pt": {
-        "title": "Lei CLARITY mira 4 de julho, diz assessor cripto da Casa Branca",
-        "excerpt": "Patrick Witt, assessor cripto da Casa Branca, disse que o Comitê Bancário do Senado planeja marcar a Lei CLARITY este mês, deixando quatro semanas úteis em junho para votação.",
-        "body": "A Casa Branca mira 4 de julho como data-alvo para a aprovação da Lei CLARITY, voltada à clareza regulatória sobre criptomoedas, segundo o assessor cripto Patrick Witt. Witt afirmou que o Comitê Bancário do Senado planeja realizar o markup do projeto neste mês e que, depois disso, restariam quatro semanas úteis do Senado em junho para possível aprovação em plenário. O cronograma destaca etapas importantes ainda pendentes, da análise em comissão à eventual votação no Senado. A fala indica que o avanço do projeto continua dependente do processo no Congresso. Fonte: decrypt.co."
-      },
-      "de": {
-        "title": "CLARITY Act bis 4. Juli: Krypto-Berater des Weißen Hauses nennt Ziel",
-        "excerpt": "Patrick Witt, Krypto-Berater des Weißen Hauses, sagte, der Bankenausschuss des Senats plane diesen Monat ein Markup zum CLARITY Act; im Juni blieben vier Arbeitswochen für die Plenumsbefassung.",
-        "body": "Das Weiße Haus zielt auf den 4. Juli für die Verabschiedung des CLARITY Act, der regulatorische Klarheit für Kryptowährungen schaffen soll, sagte Krypto-Berater Patrick Witt. Nach seinen Angaben plant der Bankenausschuss des Senats das Markup des Gesetzentwurfs noch in diesem Monat. Danach blieben im Juni vier Arbeitswochen des Senats, um eine Verabschiedung im Plenum zu erreichen. Der Zeitplan macht die noch ausstehenden Verfahrensschritte sichtbar, von der Ausschussprüfung bis zu möglicher Senatsbefassung. Witts Aussagen zeigen, dass der Zeitplan weiter vom Kongressverfahren abhängt. Quelle: decrypt.co."
-      },
-      "fr": {
-        "title": "CLARITY Act visé pour le 4 juillet, selon un conseiller crypto de la Maison-Blanche",
-        "excerpt": "Patrick Witt, conseiller crypto de la Maison-Blanche, a dit que la commission bancaire du Sénat prévoit un examen du CLARITY Act ce mois-ci, avec quatre semaines de session en juin pour un vote.",
-        "body": "La Maison-Blanche vise le 4 juillet pour l’adoption du CLARITY Act, un texte consacré à la clarté réglementaire des cryptomonnaies, selon le conseiller crypto Patrick Witt. Il a indiqué que la commission bancaire du Sénat prévoit le markup du projet ce mois-ci, puis que quatre semaines de travail du Sénat resteront en juin pour une possible adoption en séance plénière. Ce calendrier met en avant les étapes clés encore nécessaires, de l’examen en commission à une éventuelle action du Sénat. Ses propos montrent que le calendrier du texte dépend toujours de la procédure parlementaire. Source: decrypt.co."
-      },
-      "ar": {
-        "title": "قانون CLARITY يستهدف 4 يوليو وفق مستشار التشفير في البيت الأبيض",
-        "excerpt": "قال باتريك ويت، مستشار التشفير في البيت الأبيض، إن لجنة البنوك في مجلس الشيوخ تخطط لمراجعة قانون CLARITY هذا الشهر، مع بقاء أربعة أسابيع عمل في يونيو لتمريره.",
-        "body": "يستهدف البيت الأبيض تاريخ 4 يوليو لتمرير قانون CLARITY، المعني بتوضيح تنظيم العملات المشفرة، وفق ما قاله مستشار التشفير باتريك ويت. وأوضح ويت أن لجنة البنوك في مجلس الشيوخ تخطط لإجراء مراجعة تفصيلية لمشروع القانون هذا الشهر، على أن تبقى بعد ذلك أربعة أسابيع عمل في مجلس الشيوخ خلال يونيو يمكن استخدامها لتمريره في الجلسة العامة. يبرز هذا الجدول الخطوات الإجرائية الأساسية المتبقية، من مراجعة اللجنة إلى احتمال تحرك مجلس الشيوخ. وتظهر تصريحاته أن توقيت المشروع لا يزال مرتبطا بإجراءات الكونغرس. المصدر: decrypt.co."
-      },
-      "hi": {
-        "title": "CLARITY Act के लिए 4 जुलाई लक्ष्य, व्हाइट हाउस क्रिप्टो सलाहकार का बयान",
-        "excerpt": "व्हाइट हाउस के क्रिप्टो सलाहकार पैट्रिक विट ने कहा कि सीनेट बैंकिंग कमेटी इस महीने CLARITY Act का मार्कअप करेगी, जिससे जून में फ्लोर पासेज के लिए चार कार्य सप्ताह बचेंगे।",
-        "body": "व्हाइट हाउस क्रिप्टो नियामकीय स्पष्टता से जुड़े CLARITY Act को 4 जुलाई तक पारित कराने का लक्ष्य रख रहा है, यह बात क्रिप्टो सलाहकार पैट्रिक विट ने कही। विट के अनुसार, सीनेट बैंकिंग कमेटी इस महीने विधेयक का मार्कअप करने की योजना बना रही है। इसके बाद जून में सीनेट के चार कार्य सप्ताह बचेंगे, जिनका उपयोग फ्लोर पासेज के लिए किया जा सकता है। यह समयरेखा समिति समीक्षा से लेकर संभावित सीनेट कार्रवाई तक बाकी अहम प्रक्रियाओं को दिखाती है। उनके बयान से स्पष्ट है कि विधेयक का समय अब भी कांग्रेस की प्रक्रिया पर निर्भर है। स्रोत: decrypt.co."
-      },
-      "id": {
-        "title": "CLARITY Act Ditargetkan 4 Juli, Kata Penasihat Kripto Gedung Putih",
-        "excerpt": "Penasihat kripto Gedung Putih Patrick Witt mengatakan Komite Perbankan Senat merencanakan markup CLARITY Act bulan ini, menyisakan empat pekan kerja Senat pada Juni untuk pengesahan.",
-        "body": "Gedung Putih menargetkan 4 Juli untuk pengesahan CLARITY Act, rancangan undang-undang yang membahas kejelasan regulasi kripto, menurut penasihat kripto Patrick Witt. Witt mengatakan markup di Komite Perbankan Senat direncanakan berlangsung bulan ini. Setelah itu, masih ada empat pekan kerja Senat pada Juni yang dapat digunakan untuk proses pengesahan di sidang pleno. Jadwal ini menyoroti tahapan prosedural penting yang masih tersisa, dari pembahasan komite hingga kemungkinan tindakan di Senat. Pernyataan Witt menunjukkan waktu pengesahan masih bergantung pada proses Kongres. Sumber: decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "7b663629a27a",
-    "slug": "bitcoin-etfs-post-5-week-buying-streak-as-hedges-unwind-inst-459457",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T02:59:53.956Z",
-    "updatedAt": "2026-05-08T02:59:53.956Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367090/bitcoin-etfs-post-5-week-buying-streak-as-hedges-unwind-institutional-appetite-returns",
-    "canonicalUrl": "https://decrypt.co/367090/bitcoin-etfs-post-5-week-buying-streak-as-hedges-unwind-institutional-appetite-returns",
-    "titleFingerprint": "6d7df2b90c7119df40be95ba56cd0c3ade6c5f58",
-    "dedupKeys": [
-      "7b663629a27afd1f146ae8763cac146e802219a9",
-      "6d7df2b90c7119df40be95ba56cd0c3ade6c5f58",
-      "f59137f8620d02b89c73b71ee3ef8a0328c52d7c"
-    ],
-    "imageUrl": "/images/articles/7b663629a27a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 ETF 5주 연속 순유입, 기관 수요 회복 신호",
-        "excerpt": "스팟 비트코인 ETF가 5주 연속 자금 유입을 기록하며 순자산 1,087억6천만 달러에 도달했고, 풋 스큐 완화는 기관 수요 회복을 시사했다.",
-        "body": "스팟 비트코인 ETF가 5주 연속 순유입을 기록하며 순자산 1,087억6천만 달러에 도달했다. 하방 위험을 헤지하려는 수요를 보여주는 풋 스큐도 완화되면서, 시장에서는 기관 투자자의 비트코인 익스포저 확대 신호로 해석된다. 최근 흐름은 헤지 포지션이 일부 해소되고 매수세가 되돌아온 가운데 나타났다. 다만 원문은 순유입 지속과 옵션 시장 지표 변화가 기관 수요 회복을 가리킨다고 전했다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Bitcoin ETFs Extend 5-Week Inflow Streak as Institutional Demand Returns",
-        "excerpt": "Spot Bitcoin ETFs recorded five straight weeks of inflows, reaching $108.76 billion in net assets as easing put skew pointed to renewed institutional demand.",
-        "body": "Spot Bitcoin ETFs have posted five consecutive weeks of net inflows, lifting total net assets to $108.76 billion. At the same time, easing put skew, a signal tied to demand for downside hedges, suggests that protective positioning is being unwound. The shift is being read as a sign that institutional appetite for Bitcoin exposure has returned. The reported trend combines steady ETF buying with a change in options-market hedging behavior. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "ビットコインETF、5週連続流入で機関投資家需要の回復示す",
-        "excerpt": "スポットビットコインETFは5週連続の資金流入で純資産が1,087.6億ドルに達し、プットスキュー低下が機関需要の回復を示した。",
-        "body": "スポットビットコインETFは5週連続で純流入を記録し、純資産は1,087.6億ドルに達した。下落リスクへのヘッジ需要を示すプットスキューも低下しており、防御的なポジションの巻き戻しが進んでいることを示唆する。この動きは、機関投資家によるビットコインへのエクスポージャー需要が戻ってきた兆候と受け止められている。原文は、ETFへの継続的な資金流入とオプション市場指標の変化が機関需要の回復を示すと伝えた。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "比特币ETF连续5周净流入，机构需求回归迹象增强",
-        "excerpt": "现货比特币ETF连续五周录得资金流入，净资产达到1087.6亿美元，认沽偏斜减弱显示机构需求正在回升。",
-        "body": "现货比特币ETF已连续五周出现净流入，净资产升至1087.6亿美元。与此同时，反映下行对冲需求的认沽偏斜有所减弱，显示部分保护性仓位正在解除。市场将这一变化视为机构投资者重新增加比特币敞口的信号。原文指出，持续的ETF买盘与期权市场对冲指标的变化共同表明，机构需求正在回归。来源: decrypt.co"
-      },
-      "es": {
-        "title": "ETF de Bitcoin suman 5 semanas de entradas y vuelve la demanda institucional",
-        "excerpt": "Los ETF spot de Bitcoin acumularon cinco semanas de entradas y alcanzaron US$108.760 millones en activos netos, con menor put skew como señal institucional.",
-        "body": "Los ETF spot de Bitcoin registraron cinco semanas consecutivas de entradas netas, elevando sus activos netos a US$108.760 millones. Al mismo tiempo, la reducción del put skew, indicador asociado a la demanda de coberturas frente a caídas, apunta a que parte de esas posiciones defensivas se está deshaciendo. El movimiento se interpreta como una señal de retorno del apetito institucional por exposición a Bitcoin. El reporte vinculó las compras sostenidas en ETF con el cambio en las métricas del mercado de opciones. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "ETFs de Bitcoin têm 5 semanas de entradas e demanda institucional volta",
-        "excerpt": "ETFs spot de Bitcoin somaram cinco semanas de entradas e chegaram a US$108,76 bilhões em ativos líquidos, enquanto o put skew menor indicou demanda institucional.",
-        "body": "Os ETFs spot de Bitcoin registraram cinco semanas consecutivas de entradas líquidas, elevando os ativos líquidos para US$108,76 bilhões. Ao mesmo tempo, a queda do put skew, indicador ligado à demanda por proteção contra perdas, sugere que parte das posições de hedge está sendo desfeita. O movimento é visto como sinal de retorno do apetite institucional por exposição ao Bitcoin. O relato destacou a combinação de compras persistentes em ETFs e mudança nos indicadores do mercado de opções. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Bitcoin-ETFs mit 5 Wochen Zuflüssen, institutionelle Nachfrage kehrt zurück",
-        "excerpt": "Spot-Bitcoin-ETFs verzeichneten fünf Wochen in Folge Zuflüsse und erreichten 108,76 Mrd. US-Dollar Nettovermögen, während ein sinkender Put-Skew institutionelle Nachfrage signalisiert.",
-        "body": "Spot-Bitcoin-ETFs haben fünf Wochen in Folge Nettozuflüsse verbucht und ihr Nettovermögen auf 108,76 Mrd. US-Dollar erhöht. Zugleich schwächte sich der Put-Skew ab, ein Indikator für die Nachfrage nach Absicherung gegen Kursrückgänge. Das deutet darauf hin, dass defensive Hedge-Positionen teilweise abgebaut werden. Die Entwicklung wird als Zeichen gewertet, dass institutionelle Anleger wieder stärker Bitcoin-Exposure suchen. Der Bericht verweist auf anhaltende ETF-Käufe und veränderte Optionsmarkt-Signale. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Les ETF Bitcoin enchaînent 5 semaines d’entrées, la demande institutionnelle revient",
-        "excerpt": "Les ETF Bitcoin spot ont enregistré cinq semaines d’entrées et atteint 108,76 Md$ d’actifs nets, tandis que le recul du put skew signale une demande institutionnelle.",
-        "body": "Les ETF Bitcoin spot ont enregistré cinq semaines consécutives d’entrées nettes, portant leurs actifs nets à 108,76 milliards de dollars. Dans le même temps, le recul du put skew, indicateur lié à la demande de couverture contre la baisse, suggère que certaines positions défensives sont débouclées. Cette évolution est interprétée comme un signe de retour de l’appétit institutionnel pour une exposition au Bitcoin. Le rapport met en avant la combinaison d’achats persistants d’ETF et de signaux changeants sur le marché des options. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "صناديق بتكوين ETF تسجل تدفقات لـ5 أسابيع مع عودة الطلب المؤسسي",
-        "excerpt": "سجلت صناديق بتكوين الفورية ETF خمسة أسابيع متتالية من التدفقات، وبلغت أصولها الصافية 108.76 مليار دولار مع تراجع انحراف عقود البيع.",
-        "body": "سجلت صناديق بتكوين الفورية ETF خمسة أسابيع متتالية من صافي التدفقات، لترتفع أصولها الصافية إلى 108.76 مليار دولار. وفي الوقت نفسه، تراجع انحراف عقود البيع، وهو مؤشر يرتبط بالطلب على التحوط من الهبوط، ما يشير إلى تفكيك بعض مراكز الحماية. ويُنظر إلى هذا التحول كإشارة على عودة شهية المؤسسات للتعرض إلى بتكوين. وذكر التقرير أن استمرار الشراء في صناديق ETF وتغير مؤشرات سوق الخيارات يدلان على تعافي الطلب المؤسسي. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "Bitcoin ETF में 5 सप्ताह की इनफ्लो लड़ी, संस्थागत मांग लौटी",
-        "excerpt": "स्पॉट Bitcoin ETF में लगातार पांच सप्ताह तक निवेश प्रवाह रहा और नेट एसेट्स 108.76 अरब डॉलर पहुंचे, जबकि घटता पुट स्क्यू संस्थागत मांग का संकेत देता है।",
-        "body": "स्पॉट Bitcoin ETF ने लगातार पांच सप्ताह तक नेट इनफ्लो दर्ज किया, जिससे उनके नेट एसेट्स 108.76 अरब डॉलर तक पहुंच गए। इसी दौरान पुट स्क्यू में कमी आई, जो गिरावट से बचाव की मांग से जुड़ा संकेतक है। इससे पता चलता है कि कुछ हेज पोजिशन खोली जा रही हैं। इस बदलाव को Bitcoin एक्सपोजर के लिए संस्थागत निवेशकों की रुचि लौटने के संकेत के रूप में देखा जा रहा है। रिपोर्ट ने ETF में लगातार खरीद और ऑप्शंस बाजार के संकेतकों में बदलाव को संस्थागत मांग की वापसी से जोड़ा। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "ETF Bitcoin Catat Inflow 5 Pekan, Minat Institusional Kembali",
-        "excerpt": "ETF Bitcoin spot mencatat arus masuk lima pekan beruntun dan mencapai aset bersih US$108,76 miliar, sementara put skew yang melemah menandakan permintaan institusi.",
-        "body": "ETF Bitcoin spot mencatat arus masuk bersih selama lima pekan berturut-turut, sehingga aset bersihnya naik menjadi US$108,76 miliar. Pada saat yang sama, put skew melemah, indikator yang terkait dengan permintaan lindung nilai terhadap risiko penurunan. Kondisi ini menunjukkan sebagian posisi hedge mulai dibuka. Perubahan tersebut dipandang sebagai sinyal kembalinya minat institusional terhadap eksposur Bitcoin. Laporan itu menyoroti kombinasi pembelian ETF yang berlanjut dan perubahan indikator di pasar opsi. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "571d2dba0e1a",
-    "slug": "kraken-parent-acquires-asian-stablecoin-firm-reap-for-600-mi-761704",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T02:59:01.060Z",
-    "updatedAt": "2026-05-08T02:59:01.060Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367094/kraken-parent-acquires-asian-stablecoin-firm-reap-600-million",
-    "canonicalUrl": "https://decrypt.co/367094/kraken-parent-acquires-asian-stablecoin-firm-reap-600-million",
-    "titleFingerprint": "84083e45ffece99504e6e661ab47e2f5ef09747f",
-    "dedupKeys": [
-      "571d2dba0e1a0351c0c52cf61ea8679b9d29d021",
-      "84083e45ffece99504e6e661ab47e2f5ef09747f",
-      "41baca6930ec0314cd2d4feb30ad7af1a41cfb9c"
-    ],
-    "imageUrl": "/images/articles/571d2dba0e1a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Kraken 모회사, 아시아 스테이블코인 기업 Reap 6억달러 인수",
-        "excerpt": "Kraken 모회사가 아시아 스테이블코인 인프라 기업 Reap을 6억달러에 인수하며, 스테이블코인 기반 국경 간 결제 시장 진출을 확대한다고 decrypt.co가 전했다.",
-        "body": "Kraken 모회사가 아시아 스테이블코인 기업 Reap을 6억달러에 인수했다고 decrypt.co가 Bloomberg 보도를 인용해 전했다. 이번 거래는 Kraken의 역대 최대 인수로 소개됐다. 핵심 배경은 아시아 지역의 국경 간 결제 시장 확대다. Kraken은 스테이블코인 인프라를 통해 결제 영역으로 보폭을 넓히고 있으며, Reap 인수는 그 전략의 주요 단계로 제시됐다. 인수 금액은 6억달러로, 거래소 사업을 넘어 스테이블코인 기반 결제 인프라를 강화하려는 움직임으로 해석된다. 출처: decrypt.co."
-      },
-      "en": {
-        "title": "Kraken Parent Buys Asian Stablecoin Firm Reap for $600 Million",
-        "excerpt": "Kraken’s parent company acquired Asian stablecoin infrastructure firm Reap for $600 million, expanding its push into cross-border payments in Asia, decrypt.co reported.",
-        "body": "Kraken’s parent company has acquired Asian stablecoin firm Reap for $600 million, decrypt.co reported, citing Bloomberg. The deal was described as Kraken’s largest acquisition to date. The key context is Kraken’s expansion into Asian cross-border payments. Through stablecoin infrastructure, the company is broadening its reach beyond exchange services, and the Reap acquisition is presented as a major step in that strategy. With a $600 million value, the transaction highlights Kraken’s move to strengthen stablecoin-based payment infrastructure. Source: decrypt.co."
-      },
-      "ja": {
-        "title": "Kraken親会社、アジアのステーブルコイン企業Reapを6億ドルで買収",
-        "excerpt": "Krakenの親会社がアジアのステーブルコイン基盤企業Reapを6億ドルで買収し、同地域の越境決済分野への展開を広げるとdecrypt.coが伝えた。",
-        "body": "Krakenの親会社がアジアのステーブルコイン企業Reapを6億ドルで買収したと、decrypt.coがBloombergの報道を引用して伝えた。今回の取引はKrakenにとって過去最大の買収とされている。背景には、アジア地域における越境決済市場への進出がある。Krakenはステーブルコインのインフラを通じて決済分野での足場を広げており、Reapの買収はその戦略上の重要な段階として示された。買収額は6億ドルで、取引所事業を超えてステーブルコイン基盤の決済インフラを強化する動きと位置づけられる。出典: decrypt.co."
-      },
-      "zh": {
-        "title": "Kraken母公司以6亿美元收购亚洲稳定币公司Reap",
-        "excerpt": "decrypt.co报道称，Kraken母公司以6亿美元收购亚洲稳定币基础设施公司Reap，借此扩大其在亚洲跨境支付领域的布局。",
-        "body": "decrypt.co援引Bloomberg报道称，Kraken母公司已以6亿美元收购亚洲稳定币公司Reap。该交易被称为Kraken迄今规模最大的收购。其核心背景是Kraken正推进进入亚洲跨境支付市场。通过稳定币基础设施，Kraken正在把业务范围从交易所服务延伸至支付领域，而收购Reap被视为这一战略的重要步骤。6亿美元的收购金额显示，Kraken正在加强基于稳定币的支付基础设施布局。来源：decrypt.co."
-      },
-      "es": {
-        "title": "Matriz de Kraken compra Reap, firma asiática de stablecoins, por US$600 millones",
-        "excerpt": "La matriz de Kraken adquirió Reap, firma asiática de infraestructura de stablecoins, por US$600 millones para avanzar en pagos transfronterizos en Asia, informó decrypt.co.",
-        "body": "La empresa matriz de Kraken adquirió Reap, una firma asiática de stablecoins, por US$600 millones, informó decrypt.co citando a Bloomberg. La operación fue presentada como la mayor adquisición en la historia de Kraken. El contexto central es su avance hacia los pagos transfronterizos en Asia. Mediante infraestructura de stablecoins, Kraken amplía su alcance más allá del negocio de intercambio, y la compra de Reap se plantea como un paso clave de esa estrategia. Con un valor de US$600 millones, la transacción refuerza el foco en infraestructura de pagos basada en stablecoins. Fuente: decrypt.co."
-      },
-      "pt": {
-        "title": "Controladora da Kraken compra Reap, empresa asiática de stablecoins, por US$600 mi",
-        "excerpt": "A controladora da Kraken comprou a Reap, empresa asiática de infraestrutura de stablecoins, por US$600 milhões para avançar em pagamentos transfronteiriços na Ásia, informou o decrypt.co.",
-        "body": "A controladora da Kraken adquiriu a Reap, empresa asiática de stablecoins, por US$600 milhões, informou o decrypt.co com base em reportagem da Bloomberg. A operação foi descrita como a maior aquisição já feita pela Kraken. O principal contexto é a expansão para pagamentos transfronteiriços na Ásia. Por meio de infraestrutura de stablecoins, a Kraken amplia sua atuação para além dos serviços de exchange, e a compra da Reap aparece como uma etapa importante dessa estratégia. O valor de US$600 milhões destaca o reforço da infraestrutura de pagamentos baseada em stablecoins. Fonte: decrypt.co."
-      },
-      "de": {
-        "title": "Kraken-Mutter kauft asiatische Stablecoin-Firma Reap für 600 Millionen Dollar",
-        "excerpt": "Die Muttergesellschaft von Kraken hat die asiatische Stablecoin-Infrastrukturfirma Reap für 600 Millionen Dollar übernommen und baut damit ihr Asien-Geschäft für grenzüberschreitende Zahlungen aus, berichtete decrypt.co.",
-        "body": "Die Muttergesellschaft von Kraken hat die asiatische Stablecoin-Firma Reap für 600 Millionen Dollar übernommen, berichtete decrypt.co unter Berufung auf Bloomberg. Der Deal wurde als die bislang größte Übernahme von Kraken beschrieben. Im Mittelpunkt steht der Vorstoß in den Markt für grenzüberschreitende Zahlungen in Asien. Über Stablecoin-Infrastruktur erweitert Kraken seine Aktivitäten über das Börsengeschäft hinaus; die Reap-Übernahme gilt dabei als wichtiger Schritt dieser Strategie. Der Kaufpreis von 600 Millionen Dollar unterstreicht den Ausbau von Zahlungsinfrastruktur auf Stablecoin-Basis. Quelle: decrypt.co."
-      },
-      "fr": {
-        "title": "La maison mère de Kraken rachète Reap, société asiatique de stablecoins, pour 600 M$",
-        "excerpt": "La maison mère de Kraken a acquis Reap, société asiatique d’infrastructure de stablecoins, pour 600 millions de dollars afin d’étendre ses paiements transfrontaliers en Asie, selon decrypt.co.",
-        "body": "La maison mère de Kraken a acquis Reap, une société asiatique de stablecoins, pour 600 millions de dollars, a rapporté decrypt.co en citant Bloomberg. L’opération a été présentée comme la plus importante acquisition réalisée par Kraken à ce jour. Le contexte principal est son avancée dans les paiements transfrontaliers en Asie. Grâce à l’infrastructure des stablecoins, Kraken élargit son champ d’action au-delà des services d’échange, et l’achat de Reap apparaît comme une étape majeure de cette stratégie. Le montant de 600 millions de dollars souligne le renforcement de l’infrastructure de paiement fondée sur les stablecoins. Source : decrypt.co."
-      },
-      "ar": {
-        "title": "الشركة الأم لـKraken تستحوذ على Reap الآسيوية للعملات المستقرة مقابل 600 مليون دولار",
-        "excerpt": "استحوذت الشركة الأم لـKraken على Reap الآسيوية المتخصصة في بنية العملات المستقرة مقابل 600 مليون دولار، لتوسيع حضورها في مدفوعات آسيا العابرة للحدود، وفق decrypt.co.",
-        "body": "استحوذت الشركة الأم لـKraken على شركة Reap الآسيوية المتخصصة في العملات المستقرة مقابل 600 مليون دولار، وفق ما نقل decrypt.co عن Bloomberg. ووُصفت الصفقة بأنها أكبر عملية استحواذ في تاريخ Kraken. ويأتي السياق الرئيسي في دفع الشركة نحو مدفوعات آسيا العابرة للحدود. فمن خلال بنية العملات المستقرة، توسع Kraken نطاقها إلى ما يتجاوز خدمات منصة التداول، ويُقدَّم الاستحواذ على Reap كخطوة رئيسية في هذه الاستراتيجية. وتبرز قيمة الصفقة البالغة 600 مليون دولار تركيز Kraken على تعزيز بنية المدفوعات القائمة على العملات المستقرة. المصدر: decrypt.co."
-      },
-      "hi": {
-        "title": "Kraken की मूल कंपनी ने एशियाई स्टेबलकॉइन फर्म Reap को 60 करोड़ डॉलर में खरीदा",
-        "excerpt": "Kraken की मूल कंपनी ने एशियाई स्टेबलकॉइन इंफ्रास्ट्रक्चर फर्म Reap को 60 करोड़ डॉलर में खरीदा, जिससे एशिया में सीमा-पार भुगतान विस्तार को गति मिलेगी, decrypt.co ने बताया।",
-        "body": "Kraken की मूल कंपनी ने एशियाई स्टेबलकॉइन कंपनी Reap को 60 करोड़ डॉलर में अधिग्रहित किया है, decrypt.co ने Bloomberg के हवाले से बताया। इस सौदे को Kraken का अब तक का सबसे बड़ा अधिग्रहण बताया गया। इसका मुख्य संदर्भ एशिया में सीमा-पार भुगतान बाजार में विस्तार है। स्टेबलकॉइन इंफ्रास्ट्रक्चर के जरिए Kraken अपनी पहुंच एक्सचेंज सेवाओं से आगे भुगतान क्षेत्र तक बढ़ा रही है, और Reap का अधिग्रहण इसी रणनीति का अहम चरण बताया गया है। 60 करोड़ डॉलर का मूल्य स्टेबलकॉइन आधारित भुगतान इंफ्रास्ट्रक्चर को मजबूत करने की दिशा दिखाता है। स्रोत: decrypt.co."
-      },
-      "id": {
-        "title": "Induk Kraken Akuisisi Perusahaan Stablecoin Asia Reap Senilai US$600 Juta",
-        "excerpt": "Induk Kraken mengakuisisi Reap, perusahaan infrastruktur stablecoin Asia, senilai US$600 juta untuk memperluas dorongan ke pembayaran lintas batas di Asia, menurut decrypt.co.",
-        "body": "Perusahaan induk Kraken mengakuisisi Reap, perusahaan stablecoin Asia, senilai US$600 juta, menurut decrypt.co yang mengutip laporan Bloomberg. Kesepakatan ini disebut sebagai akuisisi terbesar Kraken sejauh ini. Konteks utamanya adalah dorongan Kraken masuk ke pembayaran lintas batas di Asia. Melalui infrastruktur stablecoin, Kraken memperluas jangkauan di luar layanan bursa, dan akuisisi Reap dipaparkan sebagai langkah penting dalam strategi tersebut. Nilai US$600 juta menegaskan upaya memperkuat infrastruktur pembayaran berbasis stablecoin. Sumber: decrypt.co."
       }
     }
   }
