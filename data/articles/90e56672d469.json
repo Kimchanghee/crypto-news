@@ -1,0 +1,75 @@
+{
+  "id": "90e56672d469",
+  "slug": "zcash-to-roll-out-quantum-recoverable-wallets-within-a-month-990235",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T09:21:42.135Z",
+  "updatedAt": "2026-05-08T09:21:42.135Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/08/zcash-to-roll-out-quantum-recoverable-wallets-within-a-month-go-quantum-proof-by-2027",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/05/08/zcash-to-roll-out-quantum-recoverable-wallets-within-a-month-go-quantum-proof-by-2027",
+  "titleFingerprint": "c0368ce0e9f238a4ffb7699d7bd69bf120e7cf44",
+  "dedupKeys": [
+    "90e56672d46948f9ea0fd4355d1413e8e1ed6d55",
+    "c0368ce0e9f238a4ffb7699d7bd69bf120e7cf44",
+    "512f8eef65cc432bc7364b74e31d27db7a55212e"
+  ],
+  "imageUrl": "/images/articles/90e56672d469.png",
+  "i18n": {
+    "ko": {
+      "title": "Zcash, 한 달 내 양자 복구 지갑 도입…2027년 양자 내성 목표",
+      "excerpt": "Zcash의 주코 윌콕스는 청중 앞에서 한 달 내 양자 복구 지갑을 내놓고 2027년까지 양자 내성을 갖추겠다는 계획을 밝혔다.",
+      "body": "Zcash가 향후 한 달 안에 양자 복구가 가능한 지갑을 도입하고, 2027년까지 네트워크를 양자 내성 수준으로 끌어올릴 계획이라고 주코 윌콕스가 밝혔다. 그는 현장에서 모인 청중에게 이 같은 로드맵을 설명하며, 비트코인은 애초 지향했던 사이퍼펑크급 화폐로서 더는 충분하지 않다고 말했다. 이번 발표의 핵심은 단기적으로는 지갑 복구 기능을 마련하고, 중기적으로는 양자 컴퓨팅 위협에 대비한 구조로 전환하는 데 있다. 양자 보안은 암호화폐 장기 생존성과 직접 연결되는 이슈로 꼽힌다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Zcash Plans Quantum-Recoverable Wallets Within a Month, 2027 Proof Goal",
+      "excerpt": "Zcash’s Zooko Wilcox said the project will launch quantum-recoverable wallets within a month and aims to become quantum-proof by 2027.",
+      "body": "Zcash plans to introduce quantum-recoverable wallets within the next month and make the network quantum-proof by 2027, Zooko Wilcox said. Speaking to an engaged audience, Wilcox outlined the roadmap and argued that Bitcoin no longer holds up as the cypherpunk-grade money it was originally meant to be. The near-term focus is wallet recovery, while the medium-term goal is a broader shift toward protection against quantum-computing risks. Quantum security is increasingly viewed as a key issue for the long-term durability of crypto networks. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "Zcash、1カ月以内に量子復旧対応ウォレット導入へ 2027年耐性目標",
+      "excerpt": "Zcashのズーコ・ウィルコックス氏は、1カ月以内に量子復旧対応ウォレットを導入し、2027年までに量子耐性を備える計画を示した。",
+      "body": "Zcashは今後1カ月以内に量子復旧に対応したウォレットを導入し、2027年までにネットワークを量子耐性のある状態にする計画だと、ズーコ・ウィルコックス氏が明らかにした。同氏は集まった聴衆にロードマップを説明し、ビットコインは当初目指していたサイファーパンク級の通貨としてはもはや十分ではないと述べた。短期的な焦点はウォレット復旧機能で、中期的には量子コンピューティングの脅威に備える構造への移行にある。量子セキュリティは暗号資産ネットワークの長期的な存続性に直結する課題とみられている。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "Zcash拟一月内推出量子可恢复钱包，2027年实现抗量子目标",
+      "excerpt": "Zcash的Zooko Wilcox表示，项目将在一个月内推出量子可恢复钱包，并计划到2027年实现抗量子能力。",
+      "body": "Zcash计划在未来一个月内推出可进行量子恢复的钱包，并在2027年前将网络提升到抗量子水平，Zooko Wilcox表示。他在现场向听众介绍这一路线图，并称比特币已不再足以承担其最初所追求的赛博朋克级货币角色。此次计划的重点是短期内提供钱包恢复功能，中期则转向能够应对量子计算威胁的结构。量子安全被视为加密货币网络长期生存能力的重要议题。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Zcash lanzará billeteras recuperables cuánticamente y apunta a 2027",
+      "excerpt": "Zooko Wilcox dijo que Zcash lanzará billeteras recuperables ante riesgos cuánticos en un mes y busca ser resistente para 2027.",
+      "body": "Zcash planea introducir billeteras recuperables frente a riesgos cuánticos en el próximo mes y llevar la red a un nivel resistente a la computación cuántica para 2027, dijo Zooko Wilcox. Ante una audiencia atenta, Wilcox explicó la hoja de ruta y afirmó que Bitcoin ya no cumple como el dinero de grado cypherpunk que originalmente pretendía ser. El foco inmediato está en la recuperación de billeteras, mientras que el objetivo de mediano plazo es preparar la estructura frente a amenazas de computación cuántica. La seguridad cuántica se considera un tema ligado a la supervivencia a largo plazo de las redes cripto. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Zcash prepara carteiras recuperáveis contra quantum e mira 2027",
+      "excerpt": "Zooko Wilcox disse que a Zcash lançará carteiras recuperáveis contra riscos quânticos em um mês e busca resistência até 2027.",
+      "body": "A Zcash planeja introduzir carteiras recuperáveis diante de riscos quânticos no próximo mês e tornar a rede resistente à computação quântica até 2027, disse Zooko Wilcox. Ao falar para uma audiência atenta, Wilcox apresentou o roteiro e afirmou que o Bitcoin já não se sustenta como o dinheiro de padrão cypherpunk que deveria ser originalmente. O foco de curto prazo está na recuperação de carteiras, enquanto a meta de médio prazo é preparar a estrutura contra ameaças da computação quântica. A segurança quântica é vista como uma questão ligada à sobrevivência de longo prazo das redes cripto. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Zcash plant quantenwiederherstellbare Wallets binnen eines Monats",
+      "excerpt": "Zooko Wilcox sagte, Zcash werde binnen eines Monats quantenwiederherstellbare Wallets einführen und bis 2027 quantensicher werden.",
+      "body": "Zcash will innerhalb des nächsten Monats quantenwiederherstellbare Wallets einführen und das Netzwerk bis 2027 quantensicher machen, sagte Zooko Wilcox. Vor einem engagierten Publikum erläuterte Wilcox die Roadmap und erklärte, Bitcoin erfülle nicht mehr die Rolle eines Cypherpunk-Geldes, die ursprünglich vorgesehen war. Kurzfristig liegt der Fokus auf der Wiederherstellung von Wallets, mittelfristig auf einer Struktur, die Risiken durch Quantencomputing berücksichtigt. Quantensicherheit gilt als Thema, das direkt mit der langfristigen Beständigkeit von Kryptonetzwerken verbunden ist. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Zcash vise des portefeuilles récupérables quantiques et l’horizon 2027",
+      "excerpt": "Zooko Wilcox a déclaré que Zcash lancera des portefeuilles récupérables face au quantique d’ici un mois et vise 2027.",
+      "body": "Zcash prévoit d’introduire d’ici un mois des portefeuilles récupérables face aux risques quantiques et de rendre le réseau résistant au quantique d’ici 2027, a déclaré Zooko Wilcox. Devant un public attentif, il a présenté cette feuille de route et affirmé que Bitcoin ne tient plus le rôle de monnaie de niveau cypherpunk qu’il devait initialement incarner. L’objectif immédiat porte sur la récupération des portefeuilles, tandis que le cap à moyen terme vise une structure préparée aux menaces de l’informatique quantique. La sécurité quantique est considérée comme un enjeu lié à la durabilité des réseaux crypto. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "Zcash تطلق محافظ قابلة للاسترداد كموميا خلال شهر وهدف 2027",
+      "excerpt": "قال زوكو ويلكوكس إن Zcash ستطرح محافظ قابلة للاسترداد في مواجهة المخاطر الكمومية خلال شهر، وتستهدف مقاومة كمومية بحلول 2027.",
+      "body": "تخطط Zcash لإطلاق محافظ قابلة للاسترداد في مواجهة المخاطر الكمومية خلال الشهر المقبل، وجعل الشبكة مقاومة للكم بحلول عام 2027، وفق ما قاله زوكو ويلكوكس. وأوضح ويلكوكس هذه الخطة أمام جمهور متفاعل، قائلا إن بيتكوين لم تعد تصمد بوصفها المال ذي الطابع السايبربانكي الذي كان يفترض أن تكونه في الأصل. يتركز الهدف القريب على استرداد المحافظ، بينما يتمثل الهدف المتوسط في الانتقال إلى بنية تستعد لتهديدات الحوسبة الكمومية. وتعد الحماية الكمومية قضية مرتبطة بقدرة شبكات العملات المشفرة على البقاء على المدى الطويل. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "Zcash एक महीने में क्वांटम-रिकवरेबल वॉलेट लाएगा, 2027 लक्ष्य",
+      "excerpt": "Zooko Wilcox ने कहा कि Zcash एक महीने में क्वांटम जोखिमों से रिकवर होने वाले वॉलेट लाएगा और 2027 तक क्वांटम-प्रूफ बनने का लक्ष्य रखता है।",
+      "body": "Zcash अगले एक महीने में क्वांटम जोखिमों से रिकवर होने वाले वॉलेट पेश करने और 2027 तक नेटवर्क को क्वांटम-प्रूफ बनाने की योजना रखता है, यह बात Zooko Wilcox ने कही। उन्होंने एक सक्रिय श्रोता समूह के सामने यह रोडमैप रखा और कहा कि Bitcoin अब उस cypherpunk-स्तर के धन के रूप में पर्याप्त नहीं रह गया है, जैसा उसे मूल रूप से होना था। निकट अवधि का ध्यान वॉलेट रिकवरी पर है, जबकि मध्यम अवधि का लक्ष्य क्वांटम कंप्यूटिंग खतरों के लिए संरचना तैयार करना है। क्वांटम सुरक्षा को क्रिप्टो नेटवर्क की दीर्घकालिक स्थिरता से जुड़ा मुद्दा माना जा रहा है। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Zcash Siapkan Dompet Quantum-Recoverable dalam Sebulan, Target 2027",
+      "excerpt": "Zooko Wilcox mengatakan Zcash akan meluncurkan dompet quantum-recoverable dalam sebulan dan menargetkan ketahanan kuantum pada 2027.",
+      "body": "Zcash berencana memperkenalkan dompet yang dapat dipulihkan dari risiko kuantum dalam satu bulan ke depan dan membuat jaringan tahan kuantum pada 2027, kata Zooko Wilcox. Di hadapan audiens yang aktif, Wilcox menjelaskan peta jalan tersebut dan mengatakan Bitcoin tidak lagi memadai sebagai uang kelas cypherpunk seperti tujuan awalnya. Fokus jangka pendeknya adalah pemulihan dompet, sementara target jangka menengahnya adalah peralihan ke struktur yang siap menghadapi ancaman komputasi kuantum. Keamanan kuantum dipandang sebagai isu yang terkait langsung dengan daya tahan jangka panjang jaringan kripto. Sumber: coindesk.com"
+    }
+  }
+}
