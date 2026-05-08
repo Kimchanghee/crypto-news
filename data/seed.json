@@ -1,5 +1,230 @@
 [
   {
+    "id": "1449b9c6641a",
+    "slug": "bitcoin-etfs-snap-5-day-inflow-streak-as-btc-dips-under-80k-946926",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T11:17:22.770Z",
+    "updatedAt": "2026-05-08T11:17:22.770Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/bitcoin-etf-snap-5-day-inflow-streak-btc-dip-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/bitcoin-etf-snap-5-day-inflow-streak-btc-dip-under-80k",
+    "titleFingerprint": "c122f044fab6305ce3217e3a425cc317af947e11",
+    "dedupKeys": [
+      "1449b9c6641aa1c78e8e28394906d6d70151bd90",
+      "c122f044fab6305ce3217e3a425cc317af947e11",
+      "94c6e7479ba5e07eeede83d9e597177a20c5789d"
+    ],
+    "imageUrl": "/images/articles/1449b9c6641a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 ETF, BTC 8만달러 하회에 5일 유입 행진 종료",
+        "excerpt": "비트코인이 장중 급격한 변동성 속에 8만달러 아래로 떨어지자 비트코인 ETF는 5일간 이어진 17억달러 유입 행진을 끝내고 2억7750만달러 순유출을 기록했다.",
+        "body": "비트코인 ETF가 비트코인 가격 하락과 함께 5일 연속 자금 유입 흐름을 멈췄다. BTC가 장중 급격한 변동성 속에 8만달러 아래로 내려가면서, 관련 ETF에서는 2억7750만달러의 자금이 빠져나갔다. 앞서 비트코인 ETF는 5거래일 동안 총 17억달러 규모의 유입세를 이어왔다. 이번 순유출은 가격 변동성이 확대되는 국면에서 투자자들의 단기 수급이 빠르게 바뀔 수 있음을 보여준다. 다만 원문은 추가적인 장기 전망이나 원인 분석은 제시하지 않았다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Bitcoin ETFs End 5-Day Inflow Streak as BTC Falls Below $80K",
+        "excerpt": "Bitcoin ETFs ended a five-day, $1.7 billion inflow streak with $277.5 million in outflows as BTC dropped below $80,000 during sharp intraday volatility.",
+        "body": "Bitcoin ETFs halted their five-day run of inflows as the price of Bitcoin declined. As BTC fell below $80,000 amid sharp intraday volatility, the related ETFs recorded $277.5 million in outflows. The funds had previously attracted a total of $1.7 billion over five trading days. The reversal shows how quickly short-term ETF flows can shift during periods of heightened price volatility. The original report did not provide further long-term forecasts or additional analysis of the cause. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "ビットコインETF、BTC8万ドル割れで5日連続流入が終了",
+        "excerpt": "ビットコインが日中の急激な変動で8万ドルを下回るなか、ビットコインETFは5日間で17億ドルの資金流入を止め、2億7750万ドルの純流出を記録した。",
+        "body": "ビットコインETFは、ビットコイン価格の下落とともに5日連続の資金流入を止めた。BTCが日中の急激な変動のなかで8万ドルを下回ると、関連ETFからは2億7750万ドルの資金が流出した。これに先立ち、ビットコインETFは5取引日で合計17億ドルの流入を続けていた。今回の純流出は、価格変動が大きくなる局面で投資家の短期的な資金需給が素早く変わり得ることを示している。ただし原文は、追加の長期見通しや原因分析を示していない。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "比特币ETF因BTC跌破8万美元终结5日资金流入",
+        "excerpt": "比特币在盘中剧烈波动中跌破8万美元后，比特币ETF结束连续5日、总额17亿美元的资金流入，并录得2.775亿美元净流出。",
+        "body": "随着比特币价格下跌，比特币ETF停止了连续5日的资金流入。BTC在盘中剧烈波动中跌破8万美元，相关ETF出现2.775亿美元资金流出。此前，比特币ETF在5个交易日内累计吸引17亿美元资金流入。此次净流出显示，在价格波动加剧时，投资者的短期资金流向可能迅速变化。不过，原文未提供进一步的长期展望或额外原因分析。来源: cointelegraph.com."
+      },
+      "es": {
+        "title": "ETF de Bitcoin cortan racha de entradas al caer BTC bajo $80K",
+        "excerpt": "Los ETF de Bitcoin terminaron una racha de cinco días y $1.700 millones en entradas con salidas de $277,5 millones, mientras BTC cayó por debajo de $80.000.",
+        "body": "Los ETF de Bitcoin frenaron su racha de cinco días de entradas de capital mientras el precio de Bitcoin retrocedía. Con BTC por debajo de los $80.000 en medio de una fuerte volatilidad intradía, los ETF relacionados registraron salidas por $277,5 millones. Antes de este giro, habían acumulado $1.700 millones en entradas durante cinco sesiones. El movimiento muestra que los flujos de corto plazo pueden cambiar con rapidez cuando aumenta la volatilidad del precio. El texto original no presentó previsiones de largo plazo ni un análisis adicional de las causas. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "ETFs de Bitcoin encerram sequência de entradas com BTC abaixo de US$80 mil",
+        "excerpt": "Os ETFs de Bitcoin encerraram uma sequência de cinco dias e US$1,7 bilhão em entradas, com saídas de US$277,5 milhões após o BTC cair abaixo de US$80 mil.",
+        "body": "Os ETFs de Bitcoin interromperam uma sequência de cinco dias de entradas à medida que o preço do Bitcoin recuou. Com o BTC abaixo de US$80 mil em meio a forte volatilidade intradiária, os ETFs relacionados registraram saídas de US$277,5 milhões. Antes disso, os fundos haviam acumulado US$1,7 bilhão em entradas ao longo de cinco pregões. A reversão mostra que os fluxos de curto prazo podem mudar rapidamente quando a volatilidade de preço aumenta. O texto original não apresentou projeções de longo prazo nem análise adicional sobre as causas. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Bitcoin-ETFs beenden Zuflussserie, während BTC unter 80.000 USD fällt",
+        "excerpt": "Bitcoin-ETFs stoppten eine fünftägige Zuflussserie von 1,7 Mrd. USD mit Abflüssen von 277,5 Mio. USD, nachdem BTC bei starker Intraday-Volatilität unter 80.000 USD fiel.",
+        "body": "Bitcoin-ETFs haben ihre fünftägige Serie von Kapitalzuflüssen beendet, während der Bitcoin-Preis nachgab. Als BTC bei starker Intraday-Volatilität unter 80.000 USD fiel, verzeichneten die entsprechenden ETFs Abflüsse von 277,5 Mio. USD. Zuvor hatten sie über fünf Handelstage insgesamt 1,7 Mrd. USD an Zuflüssen erzielt. Die Entwicklung zeigt, dass sich kurzfristige ETF-Flüsse in Phasen erhöhter Preisvolatilität schnell drehen können. Der Originalbericht enthielt keine weiteren langfristigen Prognosen oder zusätzlichen Ursachenanalysen. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Les ETF Bitcoin stoppent leurs entrées alors que le BTC passe sous 80 000 $",
+        "excerpt": "Les ETF Bitcoin ont mis fin à cinq jours d’entrées totalisant 1,7 milliard de dollars avec 277,5 millions de dollars de sorties, alors que le BTC est tombé sous 80 000 $.",
+        "body": "Les ETF Bitcoin ont interrompu une série de cinq jours d’entrées de capitaux alors que le prix du Bitcoin reculait. Le BTC est passé sous les 80 000 dollars dans un contexte de forte volatilité intrajournalière, et les ETF concernés ont enregistré 277,5 millions de dollars de sorties. Auparavant, ils avaient attiré 1,7 milliard de dollars sur cinq séances. Ce retournement montre que les flux à court terme peuvent changer rapidement lorsque la volatilité des prix s’intensifie. Le texte original ne fournit pas de prévisions de long terme ni d’analyse supplémentaire des causes. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "صناديق بيتكوين ETF تنهي موجة تدفقات مع هبوط BTC دون 80 ألف دولار",
+        "excerpt": "أنهت صناديق بيتكوين ETF موجة تدفقات استمرت خمسة أيام بقيمة 1.7 مليار دولار، مسجلة خروج 277.5 مليون دولار مع هبوط BTC دون 80 ألف دولار وسط تقلبات حادة.",
+        "body": "أنهت صناديق بيتكوين ETF سلسلة تدفقات نقدية استمرت خمسة أيام مع تراجع سعر بيتكوين. فقد هبط BTC دون 80 ألف دولار وسط تقلبات حادة خلال التداولات اليومية، وسجلت الصناديق المرتبطة به خروج أموال بقيمة 277.5 مليون دولار. وكانت هذه الصناديق قد جذبت في السابق تدفقات إجمالية بلغت 1.7 مليار دولار خلال خمسة أيام تداول. يوضح هذا التحول أن تدفقات المستثمرين قصيرة الأجل قد تتغير بسرعة عند ارتفاع تقلبات الأسعار. ولم يقدم النص الأصلي توقعات طويلة الأجل أو تحليلا إضافيا للأسباب. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Bitcoin ETFs की 5 दिन की इनफ्लो रैली खत्म, BTC $80K से नीचे",
+        "excerpt": "BTC के तेज इंट्राडे उतार-चढ़ाव के बीच $80,000 से नीचे गिरने पर Bitcoin ETFs ने पांच दिन की $1.7 अरब इनफ्लो रैली खत्म की और $277.5 मिलियन आउटफ्लो दर्ज किया।",
+        "body": "Bitcoin ETFs ने Bitcoin की कीमत में गिरावट के साथ पांच दिन से जारी फंड इनफ्लो का सिलसिला रोक दिया। तेज इंट्राडे उतार-चढ़ाव के बीच BTC $80,000 से नीचे गया, जिसके बाद संबंधित ETFs से $277.5 मिलियन की निकासी दर्ज हुई। इससे पहले Bitcoin ETFs ने पांच ट्रेडिंग दिनों में कुल $1.7 अरब का इनफ्लो हासिल किया था। यह बदलाव दिखाता है कि कीमतों में बढ़ी अस्थिरता के दौरान निवेशकों का अल्पकालिक फंड फ्लो तेजी से बदल सकता है। मूल रिपोर्ट ने कोई अतिरिक्त दीर्घकालिक अनुमान या कारणों का विश्लेषण नहीं दिया। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "ETF Bitcoin Akhiri Arus Masuk 5 Hari saat BTC Turun di Bawah US$80K",
+        "excerpt": "ETF Bitcoin mengakhiri arus masuk lima hari senilai US$1,7 miliar dengan arus keluar US$277,5 juta saat BTC jatuh di bawah US$80.000 di tengah volatilitas intraday tajam.",
+        "body": "ETF Bitcoin menghentikan arus masuk dana selama lima hari berturut-turut seiring turunnya harga Bitcoin. Ketika BTC jatuh di bawah US$80.000 di tengah volatilitas intraday yang tajam, ETF terkait mencatat arus keluar sebesar US$277,5 juta. Sebelumnya, ETF Bitcoin membukukan total arus masuk US$1,7 miliar selama lima hari perdagangan. Pembalikan ini menunjukkan bahwa aliran dana jangka pendek dapat berubah cepat saat volatilitas harga meningkat. Teks asli tidak memberikan proyeksi jangka panjang atau analisis tambahan mengenai penyebabnya. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "d573c36326d0",
+    "slug": "tether-freezes-over-500m-of-usdt-in-30-days-blocksec-data-sh-894243",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T11:16:32.795Z",
+    "updatedAt": "2026-05-08T11:16:32.795Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/tether-freezes-over-500m-usdt-30-days-blocksec-data-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/tether-freezes-over-500m-usdt-30-days-blocksec-data-show",
+    "titleFingerprint": "f599c71d00b75a5d38a6201b9478fe3c7bd55099",
+    "dedupKeys": [
+      "d573c36326d0e7f26963f91950ed69b7e7a6dab9",
+      "f599c71d00b75a5d38a6201b9478fe3c7bd55099",
+      "c318ab9a5c09ba0c93d4a4e2e7244eae4fc093d2"
+    ],
+    "imageUrl": "/images/articles/d573c36326d0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "테더, 30일간 5억 달러 이상 USDT 동결…BlockSec 데이터 공개",
+        "excerpt": "BlockSec 데이터에 따르면 테더는 최근 30일 동안 이더리움·트론 주소 370개에서 5억 달러 이상의 USDT를 동결했으며, 2025년 불법 활동 연계 동결액은 12억6000만 달러에 달했다.",
+        "body": "테더가 최근 30일 동안 이더리움과 트론 네트워크의 370개 주소에서 5억 달러 이상의 USDT를 동결한 것으로 나타났다. BlockSec 데이터에 따르면 이번 조치는 불법 활동과 연계된 자산 동결 규모가 2025년에만 12억6000만 달러까지 늘어난 흐름에 더해졌다. USDT는 주요 스테이블코인으로 여러 블록체인에서 사용되며, 발행사인 테더는 특정 주소의 토큰 이동을 제한할 수 있다. 이번 수치는 이더리움과 트론 주소를 합산한 것으로, 최근 한 달간 동결 조치가 집중됐음을 보여준다. 시장에서는 스테이블코인 발행사의 제재 대응과 온체인 자금 추적 역할이 계속 주목될 전망이다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Tether Freezes Over $500M in USDT in 30 Days, BlockSec Data Shows",
+        "excerpt": "BlockSec data shows Tether froze over $500 million in USDT across 370 Ethereum and Tron addresses in the past 30 days, bringing 2025 freezes tied to illicit activity to $1.26 billion.",
+        "body": "Tether froze more than $500 million in USDT across 370 addresses on the Ethereum and Tron networks over the past 30 days, according to BlockSec data. The action adds to a broader 2025 total of $1.26 billion in frozen USDT linked to illicit activity. USDT is a major stablecoin used across multiple blockchains, and Tether can restrict token movement at specific addresses. The figures combine Ethereum and Tron addresses and show a concentration of freeze actions over the most recent month. The data keeps attention on stablecoin issuers’ sanctions response and the role of on-chain fund tracking. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "テザー、30日で5億ドル超のUSDT凍結　BlockSecデータが示す",
+        "excerpt": "BlockSecのデータによると、テザーは直近30日でイーサリアムとトロンの370アドレスにある5億ドル超のUSDTを凍結し、2025年の違法活動関連の凍結額は12億6000万ドルに達した。",
+        "body": "BlockSecのデータによると、テザーは直近30日間にイーサリアムとトロンのネットワーク上の370アドレスで、5億ドルを超えるUSDTを凍結した。今回の措置は、違法活動に関連するとされる2025年のUSDT凍結額が12億6000万ドルに拡大した流れに加わるものだ。USDTは複数のブロックチェーンで使われる主要ステーブルコインで、発行体のテザーは特定アドレスでのトークン移動を制限できる。今回の数値はイーサリアムとトロンのアドレスを合わせたもので、直近1カ月に凍結対応が集中したことを示している。市場では、ステーブルコイン発行体の制裁対応とオンチェーン資金追跡の役割が引き続き注目される。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "Tether 30天冻结逾5亿美元USDT，BlockSec数据披露",
+        "excerpt": "BlockSec数据显示，Tether在过去30天内冻结以太坊和波场370个地址中超过5亿美元USDT，2025年与非法活动相关的冻结额已达12.6亿美元。",
+        "body": "BlockSec数据显示，Tether在过去30天内冻结了以太坊和波场网络370个地址中的超过5亿美元USDT。此次行动使2025年与非法活动相关的USDT冻结总额进一步增至12.6亿美元。USDT是被多个区块链广泛使用的主要稳定币，发行方Tether能够限制特定地址中的代币转移。本次数据合并统计了以太坊和波场地址，显示最近一个月冻结措施较为集中。市场将继续关注稳定币发行方在制裁应对中的作用，以及链上资金追踪对相关处置的影响。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "Tether congela más de $500M en USDT en 30 días, según BlockSec",
+        "excerpt": "Datos de BlockSec indican que Tether congeló más de $500 millones en USDT en 370 direcciones de Ethereum y Tron durante 30 días, elevando a $1.260 millones el total de 2025 ligado a actividad ilícita.",
+        "body": "Tether congeló más de $500 millones en USDT en 370 direcciones de las redes Ethereum y Tron durante los últimos 30 días, según datos de BlockSec. La medida se suma a un total de $1.260 millones en USDT congelados en 2025 vinculados con actividad ilícita. USDT es una stablecoin importante usada en varias blockchains, y Tether puede restringir el movimiento de tokens en direcciones específicas. Las cifras combinan direcciones de Ethereum y Tron y muestran una concentración de acciones de congelamiento en el último mes. El mercado seguirá atento a la respuesta de los emisores de stablecoins ante sanciones y al papel del rastreo de fondos en cadena. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Tether congela mais de US$ 500 mi em USDT em 30 dias, diz BlockSec",
+        "excerpt": "Dados da BlockSec mostram que a Tether congelou mais de US$ 500 milhões em USDT em 370 endereços de Ethereum e Tron em 30 dias, somando US$ 1,26 bilhão em 2025 ligado a atividade ilícita.",
+        "body": "A Tether congelou mais de US$ 500 milhões em USDT em 370 endereços nas redes Ethereum e Tron nos últimos 30 dias, segundo dados da BlockSec. A medida se soma ao total de US$ 1,26 bilhão em USDT congelado em 2025 por ligação com atividade ilícita. O USDT é uma das principais stablecoins e circula em várias blockchains, enquanto a Tether pode restringir a movimentação de tokens em endereços específicos. Os números reúnem endereços de Ethereum e Tron e indicam concentração de congelamentos no último mês. O mercado deve continuar acompanhando a resposta de emissores de stablecoins a sanções e o papel do rastreamento de fundos on-chain. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Tether friert über 500 Mio. USDT in 30 Tagen ein, zeigen BlockSec-Daten",
+        "excerpt": "BlockSec-Daten zeigen, dass Tether binnen 30 Tagen über 500 Millionen USDT auf 370 Ethereum- und Tron-Adressen eingefroren hat; 2025 summieren sich mit illegalen Aktivitäten verbundene Sperren auf 1,26 Milliarden Dollar.",
+        "body": "Tether hat in den vergangenen 30 Tagen mehr als 500 Millionen USDT auf 370 Adressen der Ethereum- und Tron-Netzwerke eingefroren, wie Daten von BlockSec zeigen. Die Maßnahme erhöht den Umfang der 2025 mit illegalen Aktivitäten verbundenen eingefrorenen USDT auf 1,26 Milliarden Dollar. USDT ist ein wichtiger Stablecoin, der auf mehreren Blockchains genutzt wird, und Tether kann Token-Bewegungen auf bestimmten Adressen beschränken. Die Zahlen fassen Ethereum- und Tron-Adressen zusammen und zeigen eine Häufung der Einfrierungen im jüngsten Monat. Der Markt dürfte die Sanktionsreaktionen von Stablecoin-Emittenten und die Rolle der On-Chain-Geldverfolgung weiter beobachten. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Tether gèle plus de 500 M$ d’USDT en 30 jours, selon BlockSec",
+        "excerpt": "Les données de BlockSec montrent que Tether a gelé plus de 500 millions de dollars d’USDT sur 370 adresses Ethereum et Tron en 30 jours, portant à 1,26 milliard le total 2025 lié à des activités illicites.",
+        "body": "Tether a gelé plus de 500 millions de dollars d’USDT sur 370 adresses des réseaux Ethereum et Tron au cours des 30 derniers jours, selon les données de BlockSec. Cette mesure s’ajoute à un total de 1,26 milliard de dollars d’USDT gelés en 2025 en lien avec des activités illicites. L’USDT est un stablecoin majeur utilisé sur plusieurs blockchains, et Tether peut limiter les mouvements de jetons sur des adresses précises. Les chiffres regroupent les adresses Ethereum et Tron et montrent une concentration des gels sur le dernier mois. Le marché devrait continuer de suivre la réponse des émetteurs de stablecoins aux sanctions et le rôle du suivi des fonds on-chain. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "تيثر تجمد أكثر من 500 مليون دولار من USDT خلال 30 يوما وفق BlockSec",
+        "excerpt": "تظهر بيانات BlockSec أن تيثر جمدت أكثر من 500 مليون دولار من USDT عبر 370 عنوانا على إيثريوم وترون خلال 30 يوما، ليصل إجمالي 2025 المرتبط بأنشطة غير مشروعة إلى 1.26 مليار دولار.",
+        "body": "أظهرت بيانات BlockSec أن تيثر جمدت خلال آخر 30 يوما أكثر من 500 مليون دولار من USDT عبر 370 عنوانا على شبكتي إيثريوم وترون. وتضاف هذه الخطوة إلى إجمالي بلغ 1.26 مليار دولار من USDT مجمدة في 2025 ومرتبطة بأنشطة غير مشروعة. يعد USDT من أبرز العملات المستقرة المستخدمة على عدة سلاسل كتل، ويمكن لجهة الإصدار تيثر تقييد حركة الرموز في عناوين محددة. تجمع الأرقام بين عناوين إيثريوم وترون، وتظهر تركز إجراءات التجميد خلال الشهر الأخير. ومن المتوقع أن يبقى اهتمام السوق منصبا على استجابة مصدري العملات المستقرة للعقوبات ودور تتبع الأموال على السلسلة. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Tether ने 30 दिनों में $500M से अधिक USDT फ्रीज किया, BlockSec डेटा",
+        "excerpt": "BlockSec डेटा के अनुसार Tether ने 30 दिनों में Ethereum और Tron के 370 पतों पर $500 मिलियन से अधिक USDT फ्रीज किया, जबकि 2025 में अवैध गतिविधि से जुड़े फ्रीज $1.26 बिलियन तक पहुंचे।",
+        "body": "BlockSec डेटा के अनुसार, Tether ने पिछले 30 दिनों में Ethereum और Tron नेटवर्क के 370 पतों पर $500 मिलियन से अधिक USDT फ्रीज किया। यह कदम 2025 में अवैध गतिविधि से जुड़े कुल $1.26 बिलियन USDT फ्रीज में जुड़ता है। USDT कई ब्लॉकचेन पर इस्तेमाल होने वाला प्रमुख स्टेबलकॉइन है, और जारीकर्ता Tether खास पतों पर टोकन की आवाजाही सीमित कर सकता है। ये आंकड़े Ethereum और Tron पतों को मिलाकर हैं और दिखाते हैं कि हाल के एक महीने में फ्रीज कार्रवाई केंद्रित रही। बाजार में स्टेबलकॉइन जारीकर्ताओं की प्रतिबंध प्रतिक्रिया और ऑन-चेन फंड ट्रैकिंग की भूमिका पर ध्यान बना रहेगा। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Tether Bekukan Lebih dari $500 Juta USDT dalam 30 Hari, Data BlockSec",
+        "excerpt": "Data BlockSec menunjukkan Tether membekukan lebih dari $500 juta USDT di 370 alamat Ethereum dan Tron dalam 30 hari, menambah total pembekuan 2025 terkait aktivitas ilegal menjadi $1,26 miliar.",
+        "body": "Tether membekukan lebih dari $500 juta USDT di 370 alamat pada jaringan Ethereum dan Tron selama 30 hari terakhir, menurut data BlockSec. Langkah ini menambah total USDT yang dibekukan pada 2025 terkait aktivitas ilegal menjadi $1,26 miliar. USDT adalah stablecoin utama yang digunakan di berbagai blockchain, dan penerbitnya, Tether, dapat membatasi pergerakan token pada alamat tertentu. Angka tersebut menggabungkan alamat Ethereum dan Tron serta menunjukkan konsentrasi tindakan pembekuan dalam satu bulan terakhir. Pasar akan terus memperhatikan respons penerbit stablecoin terhadap sanksi dan peran pelacakan dana on-chain. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "8d21e1d2fe75",
+    "slug": "bitcoin-eyes-80k-reclaim-as-traders-say-these-btc-price-supp-627738",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T11:15:36.130Z",
+    "updatedAt": "2026-05-08T11:15:36.130Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/bitcoin-eyes-80k-reclaim-traders-say-these-btc-price-support-levels-must-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/bitcoin-eyes-80k-reclaim-traders-say-these-btc-price-support-levels-must-hold",
+    "titleFingerprint": "bea44c982374b4a8620dfb151b73daede3d6c7e2",
+    "dedupKeys": [
+      "8d21e1d2fe75a89b441b6054b4f777e03f2ac3da",
+      "bea44c982374b4a8620dfb151b73daede3d6c7e2",
+      "0c0c280c1ba15d04b7d4c358bf4d4d1a8c53eaec"
+    ],
+    "imageUrl": "/images/articles/8d21e1d2fe75.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 8만달러 재탈환 시도, 트레이더가 보는 핵심 지지선은",
+        "excerpt": "비트코인이 이란 관련 우려로 3% 하락한 뒤 8만달러를 다시 터치했으며, 트레이더들은 다음 흐름을 위해 지켜야 할 주요 BTC 가격 지지선을 주목했다.",
+        "body": "비트코인은 이란 관련 우려로 3% 하락한 뒤 8만달러를 다시 터치하며 해당 가격대 재탈환을 시도했다. 시장 참가자들은 단기 변동성이 커진 상황에서 BTC 가격이 다음 국면으로 이어지려면 주요 지지선을 유지해야 한다고 봤다. 이번 움직임은 지정학적 불확실성이 위험자산 심리에 영향을 주는 가운데 나왔으며, 8만달러 부근은 매수세와 매도세가 다시 맞붙는 구간으로 부각됐다. 트레이더들은 비트코인이 핵심 지지 구간을 지켜낼 경우 가격 회복 시도가 이어질 수 있지만, 이탈 시 추가 약세 압력이 커질 수 있다고 판단했다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Bitcoin Tries to Reclaim $80K as Traders Watch Key BTC Support",
+        "excerpt": "Bitcoin retagged $80,000 after a 3% drop tied to Iran concerns, while traders focused on key BTC price support levels that need to hold next.",
+        "body": "Bitcoin retagged $80,000 after falling 3% on concerns linked to Iran, attempting to reclaim the closely watched price area. Market participants said BTC must hold important support levels for the next phase of price action to remain constructive. The move came as geopolitical uncertainty weighed on risk-asset sentiment, making the $80,000 zone a renewed battleground between buyers and sellers. Traders indicated that if Bitcoin preserves its key support areas, the recovery attempt could continue, while a break below them may increase downside pressure. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "ビットコイン8万ドル回復を試す、注目のBTC支持線は",
+        "excerpt": "ビットコインはイラン懸念で3%下落した後に8万ドルを再び付け、トレーダーは次に維持すべきBTC価格の重要支持線に注目した。",
+        "body": "ビットコインはイラン関連の懸念を受けて3%下落した後、8万ドルを再び付け、この価格帯の回復を試した。市場参加者は、短期的な変動性が高まる中で、BTC価格が次の局面へ進むには重要な支持線を維持する必要があるとみている。今回の動きは、地政学的不確実性がリスク資産心理に影響する中で発生し、8万ドル付近は買い手と売り手が再びせめぎ合う水準として浮上した。トレーダーは、ビットコインが主要支持帯を守れば回復の試みが続く可能性がある一方、下抜ければ追加の弱気圧力が強まる可能性があると判断した。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "比特币试图重返8万美元，交易员关注关键BTC支撑位",
+        "excerpt": "比特币因伊朗相关担忧下跌3%后重新触及8万美元，交易员关注接下来必须守住的关键BTC价格支撑位。",
+        "body": "比特币在受到伊朗相关担忧影响下跌3%后，重新触及8万美元，并试图收复这一备受关注的价格区域。市场参与者认为，在短期波动加大的情况下，BTC价格若要延续下一阶段走势，必须守住重要支撑位。此次波动发生在地缘政治不确定性影响风险资产情绪之际，8万美元附近再次成为买卖双方交锋的区域。交易员表示，如果比特币能够维持关键支撑区间，价格修复尝试可能延续；若跌破这些位置，下行压力可能进一步增加。来源: cointelegraph.com."
+      },
+      "es": {
+        "title": "Bitcoin busca recuperar los USD 80.000 y traders vigilan soportes clave",
+        "excerpt": "Bitcoin volvió a tocar los USD 80.000 tras caer 3% por preocupaciones sobre Irán, mientras traders observan soportes clave del precio de BTC.",
+        "body": "Bitcoin volvió a tocar los USD 80.000 después de caer 3% por preocupaciones vinculadas a Irán, intentando recuperar una zona de precio seguida de cerca. Los participantes del mercado señalaron que BTC debe mantener niveles de soporte importantes para que la siguiente fase del movimiento siga siendo constructiva. El movimiento se produjo mientras la incertidumbre geopolítica afectaba el ánimo hacia los activos de riesgo, y el área de USD 80.000 volvió a destacar como punto de disputa entre compradores y vendedores. Los traders indicaron que, si Bitcoin conserva sus soportes clave, el intento de recuperación podría continuar; si los pierde, podría aumentar la presión bajista. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Bitcoin tenta retomar US$ 80 mil enquanto traders miram suportes-chave",
+        "excerpt": "O Bitcoin voltou a tocar US$ 80 mil após cair 3% por preocupações com o Irã, enquanto traders observam suportes de preço essenciais para o BTC.",
+        "body": "O Bitcoin voltou a tocar US$ 80 mil depois de cair 3% por preocupações ligadas ao Irã, tentando recuperar essa faixa de preço acompanhada de perto. Participantes do mercado afirmaram que o BTC precisa manter níveis importantes de suporte para que a próxima fase do movimento permaneça construtiva. A movimentação ocorreu em meio ao impacto da incerteza geopolítica sobre o sentimento por ativos de risco, tornando a região de US$ 80 mil novamente um ponto de disputa entre compradores e vendedores. Traders avaliaram que, se o Bitcoin preservar seus suportes-chave, a tentativa de recuperação pode continuar; caso perca essas áreas, a pressão de baixa pode aumentar. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Bitcoin kämpft um 80.000 US-Dollar, Trader achten auf BTC-Stützen",
+        "excerpt": "Bitcoin berührte nach einem 3%-Rückgang wegen Iran-Sorgen erneut 80.000 US-Dollar, während Trader wichtige BTC-Unterstützungen im Blick behalten.",
+        "body": "Bitcoin berührte nach einem Rückgang von 3% infolge von Sorgen rund um Iran erneut die Marke von 80.000 US-Dollar und versucht, diesen viel beachteten Bereich zurückzuerobern. Marktteilnehmer erklärten, dass der BTC-Preis wichtige Unterstützungsniveaus halten müsse, damit die nächste Phase der Kursbewegung konstruktiv bleibt. Die Bewegung erfolgte, während geopolitische Unsicherheit die Stimmung bei Risikoanlagen belastete; der Bereich um 80.000 US-Dollar rückte damit erneut als Zone zwischen Käufern und Verkäufern in den Fokus. Trader sehen eine Fortsetzung der Erholung als möglich an, falls Bitcoin seine zentralen Unterstützungen hält; ein Bruch darunter könnte zusätzlichen Abwärtsdruck erzeugen. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Bitcoin tente de reprendre 80 000 $, les traders surveillent les supports BTC",
+        "excerpt": "Bitcoin a retouché 80 000 $ après une baisse de 3% liée aux inquiétudes sur l’Iran, tandis que les traders suivent les supports clés du BTC.",
+        "body": "Bitcoin a retouché 80 000 $ après avoir reculé de 3% en raison d’inquiétudes liées à l’Iran, tentant de reprendre cette zone de prix très suivie. Les participants au marché estiment que le BTC doit préserver des niveaux de support importants pour que la prochaine phase reste constructive. Ce mouvement intervient alors que l’incertitude géopolitique pèse sur l’appétit pour les actifs risqués, faisant de la zone des 80 000 $ un nouveau point de confrontation entre acheteurs et vendeurs. Les traders jugent qu’un maintien des supports clés pourrait prolonger la tentative de reprise, tandis qu’une rupture sous ces niveaux pourrait accroître la pression baissière. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "بيتكوين تحاول استعادة 80 ألف دولار والمتداولون يراقبون دعوم BTC",
+        "excerpt": "لامست بيتكوين مستوى 80 ألف دولار مجددا بعد هبوط 3% بسبب مخاوف مرتبطة بإيران، فيما ركز المتداولون على مستويات دعم BTC المهمة.",
+        "body": "لامست بيتكوين مستوى 80 ألف دولار مجددا بعد تراجعها 3% على خلفية مخاوف مرتبطة بإيران، في محاولة لاستعادة هذه المنطقة السعرية المهمة. وقال مشاركون في السوق إن سعر BTC يحتاج إلى الحفاظ على مستويات دعم رئيسية كي تبقى المرحلة التالية من الحركة السعرية بناءة. وجاءت هذه التحركات بينما أثرت حالة عدم اليقين الجيوسياسي في معنويات الأصول عالية المخاطر، ما جعل منطقة 80 ألف دولار ساحة جديدة بين المشترين والبائعين. ويرى المتداولون أن حفاظ بيتكوين على مناطق الدعم الأساسية قد يسمح باستمرار محاولة التعافي، بينما قد يؤدي كسرها إلى زيادة الضغط الهبوطي. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "बिटकॉइन $80K वापसी की कोशिश में, ट्रेडर देख रहे अहम BTC सपोर्ट",
+        "excerpt": "ईरान से जुड़ी चिंताओं पर 3% गिरने के बाद बिटकॉइन ने फिर $80,000 छुआ, जबकि ट्रेडर अगले दौर के लिए अहम BTC सपोर्ट स्तरों पर नजर रखे हुए हैं।",
+        "body": "ईरान से जुड़ी चिंताओं के कारण 3% गिरने के बाद बिटकॉइन ने फिर $80,000 का स्तर छुआ और इस महत्वपूर्ण मूल्य क्षेत्र को वापस हासिल करने की कोशिश की। बाजार प्रतिभागियों ने कहा कि अगले चरण की कीमत चाल को मजबूत बनाए रखने के लिए BTC को अहम सपोर्ट स्तरों को थामे रखना होगा। यह हलचल ऐसे समय आई जब भू-राजनीतिक अनिश्चितता ने जोखिम वाली परिसंपत्तियों की धारणा को प्रभावित किया, जिससे $80,000 के आसपास का क्षेत्र खरीदारों और विक्रेताओं के बीच फिर प्रमुख स्तर बन गया। ट्रेडरों के अनुसार, यदि बिटकॉइन अपने प्रमुख सपोर्ट क्षेत्रों को बनाए रखता है तो रिकवरी की कोशिश जारी रह सकती है, लेकिन इनके टूटने पर गिरावट का दबाव बढ़ सकता है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Bitcoin Coba Rebut Lagi US$80 Ribu, Trader Pantau Support BTC Kunci",
+        "excerpt": "Bitcoin kembali menyentuh US$80.000 setelah turun 3% akibat kekhawatiran terkait Iran, sementara trader menyoroti level support BTC penting.",
+        "body": "Bitcoin kembali menyentuh US$80.000 setelah turun 3% karena kekhawatiran terkait Iran, sekaligus mencoba merebut kembali area harga yang banyak dipantau tersebut. Pelaku pasar menilai harga BTC perlu mempertahankan level support penting agar fase pergerakan berikutnya tetap konstruktif. Pergerakan ini terjadi saat ketidakpastian geopolitik memengaruhi sentimen terhadap aset berisiko, sehingga area US$80.000 kembali menjadi titik tarik-menarik antara pembeli dan penjual. Trader menyebut upaya pemulihan Bitcoin dapat berlanjut jika support utama bertahan, sementara penembusan ke bawah area tersebut dapat meningkatkan tekanan pelemahan. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "d3b7495eab22",
     "slug": "austrac-launches-supervision-campaigns-as-australia39s-crypt-783051",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Bitcoin Perlu Rebut Support US$88.000 untuk Konfirmasi Bottom",
         "excerpt": "Analis Bitcoin menilai perlambatan aksi ambil untung dan kembalinya US$88.000 sebagai support menjadi syarat bagi BTC untuk mengonfirmasi dasar siklus.",
         "body": "Bitcoin (BTC) perlu merebut kembali US$88.000 sebagai support untuk mengonfirmasi dasar siklus, menurut analis. Mereka menyebut aksi ambil untung belakangan ini melambat, tetapi faktor itu saja belum cukup untuk memastikan pasar telah mencapai dasar. Level kuncinya adalah US$88.000. BTC tidak hanya harus bergerak di atas area harga tersebut, tetapi juga mempertahankannya sebagai support, yang dapat menandakan tekanan jual mulai mereda. Pelaku pasar diperkirakan akan memantau perlambatan ambil untung dan pemulihan support ini secara bersamaan untuk menilai peluang stabilitas harga. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "32b8fa148c01",
-    "slug": "fund-managers-double-down-on-bitcoin-as-crypto-sentiment-reb-714570",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T21:20:14.200Z",
-    "updatedAt": "2026-05-07T21:20:14.200Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/fund-managers-boost-bitcoin-exposure-crypto-sentiment-rebounds-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/fund-managers-boost-bitcoin-exposure-crypto-sentiment-rebounds-coinshares",
-    "titleFingerprint": "b5c338d2188e957d43337d9e8b1b25cb7fe0d592",
-    "dedupKeys": [
-      "32b8fa148c01db640bdb181176e7a589402f23a3",
-      "b5c338d2188e957d43337d9e8b1b25cb7fe0d592",
-      "e880bcf9d017e4dc151f31942dd78fdd96907dcd"
-    ],
-    "imageUrl": "/images/articles/32b8fa148c01.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 선호 커진 펀드매니저, 암호화폐 심리 회복에 배분 확대",
-        "excerpt": "최근 CoinShares 분석에 따르면 기관 투자자들은 펀드 유입 증가와 시장 심리 개선 속에서 비트코인을 중심으로 암호화폐 노출을 점진적으로 늘리고 있다.",
-        "body": "최근 CoinShares 분석에 따르면 기관 투자자들은 암호화폐 시장 심리가 회복되는 가운데 비트코인을 중심으로 포트폴리오 배분을 점진적으로 확대하고 있다. 펀드 유입이 늘고 투자 분위기가 개선되면서, 펀드매니저들은 디지털자산 노출을 다시 높이는 흐름을 보이고 있다. 특히 비트코인은 기관 배분 선호에서 가장 앞선 자산으로 언급됐다. 이번 흐름은 암호화폐 투자 심리가 위축 국면에서 벗어나고 있음을 보여주지만, 보도는 기관 투자자들이 급격한 전환보다 단계적 확대를 택하고 있다고 전했다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Bitcoin Leads Fund Manager Allocations as Crypto Sentiment Rebounds",
-        "excerpt": "According to a recent CoinShares analysis, institutional investors are gradually increasing crypto exposure as fund inflows rise and sentiment improves, with Bitcoin leading preferences.",
-        "body": "According to a recent CoinShares analysis, institutional investors are gradually expanding portfolio allocations to crypto as market sentiment recovers, with Bitcoin at the center of that shift. Rising fund inflows and improving investor mood have encouraged fund managers to increase exposure to digital assets again. Bitcoin was cited as the leading asset in institutional allocation preferences. The trend suggests crypto sentiment is moving away from a weaker phase, but the report said institutions are choosing gradual expansion rather than a sharp pivot. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "ビットコイン選好強まるファンド勢、暗号資産心理回復で配分拡大",
-        "excerpt": "CoinSharesの最近の分析によると、機関投資家はファンド流入の増加と市場心理の改善を背景に、ビットコインを中心に暗号資産へのエクスポージャーを徐々に増やしている。",
-        "body": "CoinSharesの最近の分析によると、機関投資家は暗号資産市場の心理が回復するなか、ビットコインを中心にポートフォリオ配分を徐々に拡大している。ファンドへの資金流入が増え、投資家心理が改善したことで、ファンドマネジャーはデジタル資産へのエクスポージャーを再び高める動きを見せている。特にビットコインは、機関投資家の配分選好で最も先行する資産として言及された。この流れは暗号資産心理が弱含み局面から離れつつあることを示すが、報道は機関投資家が急な転換ではなく段階的な拡大を選んでいると伝えた。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "基金经理更青睐比特币，情绪回暖推动加密资产配置上升",
-        "excerpt": "CoinShares近期分析显示，随着基金资金流入增加、市场情绪改善，机构投资者正以比特币为核心，逐步提高对加密资产的敞口。",
-        "body": "CoinShares近期分析显示，随着加密市场情绪回暖，机构投资者正围绕比特币逐步扩大投资组合中的加密资产配置。基金资金流入增加以及投资氛围改善，使基金经理重新提高对数字资产的敞口。比特币尤其被提及为机构配置偏好中领先的资产。这一趋势表明，加密资产投资情绪正在摆脱此前较弱阶段，但报道也指出，机构投资者选择的是渐进式增配，而非突然转向。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Bitcoin lidera las preferencias de gestores ante el repunte cripto",
-        "excerpt": "Según un análisis reciente de CoinShares, los inversores institucionales aumentan gradualmente su exposición cripto por mayores entradas en fondos y una mejora del sentimiento, con Bitcoin al frente.",
-        "body": "Según un análisis reciente de CoinShares, los inversores institucionales están ampliando gradualmente sus asignaciones a criptoactivos mientras mejora el sentimiento del mercado, con Bitcoin en el centro de ese cambio. El aumento de las entradas en fondos y un mejor ánimo inversor han llevado a los gestores a elevar de nuevo la exposición a activos digitales. Bitcoin fue señalado como el activo líder en las preferencias de asignación institucional. La tendencia muestra que el sentimiento cripto se aleja de una fase débil, aunque el informe indicó que las instituciones optan por una expansión gradual y no por un giro brusco. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Bitcoin lidera alocações de gestores com recuperação do sentimento cripto",
-        "excerpt": "Segundo análise recente da CoinShares, investidores institucionais elevam gradualmente a exposição a cripto com maiores entradas em fundos e melhora do sentimento, tendo o Bitcoin como preferência.",
-        "body": "Segundo análise recente da CoinShares, investidores institucionais estão ampliando gradualmente as alocações em criptoativos enquanto o sentimento de mercado se recupera, com o Bitcoin no centro desse movimento. O aumento das entradas em fundos e a melhora do ambiente de investimento levaram gestores a elevar novamente a exposição a ativos digitais. O Bitcoin foi citado como o principal ativo nas preferências de alocação institucional. A tendência indica que o sentimento cripto se afasta de uma fase mais fraca, mas a reportagem destacou que as instituições optam por expansão gradual, não por uma mudança abrupta. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Bitcoin führt Fondsallokationen an, während Krypto-Stimmung aufholt",
-        "excerpt": "Laut einer aktuellen CoinShares-Analyse erhöhen institutionelle Anleger ihre Krypto-Exponierung schrittweise, da Fonds-Zuflüsse steigen und sich die Marktstimmung verbessert; Bitcoin bleibt bevorzugt.",
-        "body": "Laut einer aktuellen Analyse von CoinShares bauen institutionelle Anleger ihre Portfolioallokationen in Krypto schrittweise aus, während sich die Marktstimmung erholt; Bitcoin steht dabei im Mittelpunkt. Steigende Zuflüsse in Fonds und eine bessere Anlegerstimmung veranlassen Fondsmanager, das Engagement in digitalen Vermögenswerten wieder zu erhöhen. Bitcoin wurde als führender Vermögenswert bei den institutionellen Allokationspräferenzen genannt. Der Trend deutet darauf hin, dass sich die Krypto-Stimmung von einer schwächeren Phase löst, doch der Bericht betonte, dass Institutionen eine schrittweise Ausweitung statt einer abrupten Wende wählen. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Bitcoin en tête des choix des gérants avec le rebond du sentiment crypto",
-        "excerpt": "Selon une récente analyse de CoinShares, les investisseurs institutionnels augmentent progressivement leur exposition aux cryptos grâce à la hausse des flux de fonds et à l’amélioration du sentiment, Bitcoin en tête.",
-        "body": "Selon une récente analyse de CoinShares, les investisseurs institutionnels augmentent progressivement leurs allocations aux cryptoactifs alors que le sentiment de marché se redresse, avec Bitcoin au centre du mouvement. La hausse des entrées dans les fonds et l’amélioration de l’humeur des investisseurs poussent les gérants à relever de nouveau leur exposition aux actifs numériques. Bitcoin a été cité comme l’actif dominant dans les préférences d’allocation institutionnelle. Cette tendance montre que le sentiment crypto s’éloigne d’une phase plus faible, mais le rapport indique que les institutions privilégient une expansion graduelle plutôt qu’un virage soudain. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "بيتكوين تتصدر تفضيلات مديري الصناديق مع تعافي معنويات الكريبتو",
-        "excerpt": "بحسب تحليل حديث من CoinShares، يزيد المستثمرون المؤسسيون تعرضهم للعملات المشفرة تدريجيا مع ارتفاع تدفقات الصناديق وتحسن معنويات السوق، بينما تتصدر بيتكوين التفضيلات.",
-        "body": "بحسب تحليل حديث من CoinShares، يوسع المستثمرون المؤسسيون تدريجيا مخصصات محافظهم للعملات المشفرة مع تعافي معنويات السوق، وتأتي بيتكوين في مركز هذا التحول. وقد شجع ارتفاع تدفقات الصناديق وتحسن أجواء الاستثمار مديري الصناديق على زيادة التعرض للأصول الرقمية من جديد. وذُكرت بيتكوين بوصفها الأصل المتقدم في تفضيلات التخصيص لدى المؤسسات. ويشير هذا الاتجاه إلى أن معنويات الاستثمار في العملات المشفرة تبتعد عن مرحلة الضعف، لكن التقرير أوضح أن المؤسسات تختار زيادة تدريجية لا تحولا مفاجئا. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "क्रिप्टो भावना सुधरते ही फंड मैनेजरों की पसंद में बिटकॉइन आगे",
-        "excerpt": "CoinShares के हालिया विश्लेषण के अनुसार, फंड प्रवाह बढ़ने और बाजार भावना सुधरने के बीच संस्थागत निवेशक बिटकॉइन को केंद्र में रखते हुए क्रिप्टो एक्सपोजर धीरे-धीरे बढ़ा रहे हैं।",
-        "body": "CoinShares के हालिया विश्लेषण के अनुसार, क्रिप्टो बाजार की भावना सुधरने के बीच संस्थागत निवेशक बिटकॉइन को केंद्र में रखते हुए अपने पोर्टफोलियो में क्रिप्टो आवंटन धीरे-धीरे बढ़ा रहे हैं। फंड प्रवाह में वृद्धि और निवेश माहौल में सुधार ने फंड मैनेजरों को डिजिटल एसेट्स के प्रति एक्सपोजर फिर बढ़ाने के लिए प्रेरित किया है। बिटकॉइन को संस्थागत आवंटन प्राथमिकताओं में सबसे आगे बताया गया। यह रुझान दिखाता है कि क्रिप्टो निवेश भावना कमजोरी के दौर से बाहर निकल रही है, लेकिन रिपोर्ट के अनुसार संस्थान तेज बदलाव के बजाय चरणबद्ध विस्तार चुन रहे हैं। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Bitcoin Pimpin Pilihan Manajer Dana Saat Sentimen Kripto Pulih",
-        "excerpt": "Menurut analisis terbaru CoinShares, investor institusional perlahan menambah eksposur kripto seiring kenaikan arus masuk dana dan membaiknya sentimen pasar, dengan Bitcoin sebagai pilihan utama.",
-        "body": "Menurut analisis terbaru CoinShares, investor institusional secara bertahap memperluas alokasi portofolio ke aset kripto saat sentimen pasar pulih, dengan Bitcoin sebagai pusat pergeseran tersebut. Kenaikan arus masuk dana dan membaiknya suasana investasi mendorong manajer dana kembali meningkatkan eksposur ke aset digital. Bitcoin disebut sebagai aset terdepan dalam preferensi alokasi institusional. Tren ini menunjukkan sentimen investasi kripto mulai keluar dari fase lemah, tetapi laporan menyatakan institusi memilih ekspansi bertahap, bukan perubahan mendadak. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "f6d1bf5d2c33",
-    "slug": "ai-agents-and-large-corporates-will-lead-the-next-stablecoin-743731",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T21:19:17.242Z",
-    "updatedAt": "2026-05-07T21:19:17.242Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/07/ai-agents-and-large-corporates-will-lead-the-next-stablecoin-boom-executives-say",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/07/ai-agents-and-large-corporates-will-lead-the-next-stablecoin-boom-executives-say",
-    "titleFingerprint": "9ec89af574127d284ecf5339928148ce3db9cfa2",
-    "dedupKeys": [
-      "f6d1bf5d2c33c5570883aab85df3400f58a69659",
-      "9ec89af574127d284ecf5339928148ce3db9cfa2",
-      "fc62393176ba4f7ff9e7d427e3841e8693f90f49"
-    ],
-    "imageUrl": "/images/articles/f6d1bf5d2c33.jpg",
-    "i18n": {
-      "ko": {
-        "title": "스테이블코인 다음 성장 국면, AI 에이전트와 대기업 재무 흐름이 이끈다",
-        "excerpt": "Consensus 2026에서 Bridge와 Deus X Capital 경영진은 대기업의 국경 간 재무 흐름과 AI 에이전트의 자율 결제가 스테이블코인 채택을 새 단계로 이끌고 있다고 말했다.",
-        "body": "스테이블코인이 새로운 채택 국면에 들어서고 있다. Consensus 2026에서 Bridge와 Deus X Capital 경영진은 대기업이 국경 간 재무 흐름에 스테이블코인을 활용하고, AI 에이전트가 자율 결제를 위해 블록체인 결제망을 쓰기 시작했다고 밝혔다. 이는 스테이블코인이 개인 투자나 거래 중심 활용을 넘어 기업 재무와 자동화된 결제 인프라로 확장되고 있음을 보여준다. 관련 경영진은 다음 성장 흐름의 핵심 주체로 대형 기업과 AI 에이전트를 지목했다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Stablecoin Boom May Be Led by AI Agents and Major Corporate Treasury Flows",
-        "excerpt": "At Consensus 2026, Bridge and Deus X Capital executives said large corporate treasury flows and AI agent payments are pushing stablecoin adoption into a new phase.",
-        "body": "Stablecoins are entering a new phase of adoption. At Consensus 2026, executives from Bridge and Deus X Capital said large corporations are using stablecoins for cross-border treasury flows, while AI agents are beginning to use blockchain rails for autonomous payments. The comments point to stablecoins moving beyond individual trading or payment use cases and into corporate treasury operations and automated payment infrastructure. The executives identified major companies and AI agents as key drivers of the next stage of stablecoin growth. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "ステーブルコイン次の成長局面、AIエージェントと大企業財務が主導へ",
-        "excerpt": "Consensus 2026でBridgeとDeus X Capitalの幹部は、大企業の越境財務フローとAIエージェントの自律決済がステーブルコイン採用を新段階へ進めていると述べた。",
-        "body": "ステーブルコインは新たな採用段階に入っている。Consensus 2026でBridgeとDeus X Capitalの幹部は、大企業が越境の財務フローにステーブルコインを活用し、AIエージェントが自律決済のためにブロックチェーンの決済レールを使い始めていると述べた。これはステーブルコインが個人の取引や決済用途を超え、企業財務と自動化された決済インフラへ広がっていることを示す。幹部らは次の成長を担う主体として大企業とAIエージェントを挙げた。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "稳定币下一轮增长，AI代理与大型企业资金流或成主导力量",
-        "excerpt": "在Consensus 2026上，Bridge和Deus X Capital高管表示，大企业跨境资金管理与AI代理自主支付正推动稳定币采用进入新阶段。",
-        "body": "稳定币正在进入新的采用阶段。在Consensus 2026上，Bridge和Deus X Capital的高管表示，大型企业正将稳定币用于跨境资金管理流程，而AI代理也开始使用区块链支付轨道进行自主支付。这表明稳定币的用途正从个人交易或支付扩展到企业财务和自动化支付基础设施。相关高管指出，大型企业和AI代理将成为稳定币下一阶段增长的关键主体。来源: coindesk.com."
-      },
-      "es": {
-        "title": "Stablecoins: IA y grandes empresas liderarían la próxima fase de adopción",
-        "excerpt": "En Consensus 2026, ejecutivos de Bridge y Deus X Capital dijeron que los flujos corporativos transfronterizos y los pagos autónomos de agentes de IA impulsan las stablecoins.",
-        "body": "Las stablecoins están entrando en una nueva fase de adopción. En Consensus 2026, ejecutivos de Bridge y Deus X Capital dijeron que las grandes corporaciones usan stablecoins para flujos de tesorería transfronterizos, mientras los agentes de IA empiezan a usar redes blockchain para pagos autónomos. Esto muestra que las stablecoins se están extendiendo más allá del comercio o los pagos individuales hacia la tesorería corporativa y la infraestructura de pagos automatizados. Los ejecutivos señalaron a las grandes empresas y a los agentes de IA como motores clave del próximo crecimiento. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Stablecoins: IA e grandes empresas devem liderar próxima fase de adoção",
-        "excerpt": "No Consensus 2026, executivos da Bridge e da Deus X Capital disseram que tesouraria corporativa transfronteiriça e pagamentos de agentes de IA impulsionam stablecoins.",
-        "body": "As stablecoins estão entrando em uma nova fase de adoção. No Consensus 2026, executivos da Bridge e da Deus X Capital disseram que grandes empresas usam stablecoins em fluxos de tesouraria transfronteiriços, enquanto agentes de IA começam a usar trilhos blockchain para pagamentos autônomos. Isso mostra que as stablecoins avançam além de negociações ou pagamentos individuais e passam a ocupar espaço em tesouraria corporativa e infraestrutura de pagamentos automatizados. Os executivos apontaram grandes companhias e agentes de IA como principais forças da próxima etapa de crescimento. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Stablecoin-Boom: KI-Agenten und Großunternehmen treiben nächste Phase",
-        "excerpt": "Auf der Consensus 2026 sagten Führungskräfte von Bridge und Deus X Capital, dass grenzüberschreitende Konzern-Treasury-Flüsse und KI-Agenten die Stablecoin-Nutzung vorantreiben.",
-        "body": "Stablecoins treten in eine neue Phase der Nutzung ein. Auf der Consensus 2026 sagten Führungskräfte von Bridge und Deus X Capital, große Unternehmen setzten Stablecoins für grenzüberschreitende Treasury-Flüsse ein, während KI-Agenten beginnen, Blockchain-Zahlungsschienen für autonome Zahlungen zu nutzen. Das zeigt, dass Stablecoins über privaten Handel oder einzelne Zahlungen hinaus in Unternehmensfinanzen und automatisierte Zahlungsinfrastruktur vordringen. Die Manager nannten Großunternehmen und KI-Agenten als zentrale Treiber der nächsten Wachstumsphase. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Stablecoins: agents IA et grandes entreprises mèneraient la prochaine phase",
-        "excerpt": "À Consensus 2026, des dirigeants de Bridge et Deus X Capital ont déclaré que les flux de trésorerie transfrontaliers et les paiements d’agents IA poussent l’adoption des stablecoins.",
-        "body": "Les stablecoins entrent dans une nouvelle phase d’adoption. À Consensus 2026, des dirigeants de Bridge et de Deus X Capital ont déclaré que de grandes entreprises utilisent les stablecoins pour des flux de trésorerie transfrontaliers, tandis que des agents IA commencent à utiliser les rails blockchain pour des paiements autonomes. Cela montre que les stablecoins dépassent les usages liés au trading ou aux paiements individuels pour s’étendre à la trésorerie d’entreprise et à l’infrastructure de paiement automatisée. Les dirigeants ont cité les grandes entreprises et les agents IA comme moteurs clés de la prochaine étape de croissance. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "طفرة العملات المستقرة المقبلة تقودها وكلاء الذكاء الاصطناعي والشركات الكبرى",
-        "excerpt": "في Consensus 2026 قال مسؤولون من Bridge وDeus X Capital إن تدفقات الخزانة العابرة للحدود ومدفوعات وكلاء الذكاء الاصطناعي تدفع اعتماد العملات المستقرة لمرحلة جديدة.",
-        "body": "تدخل العملات المستقرة مرحلة جديدة من الاعتماد. في Consensus 2026، قال مسؤولون من Bridge وDeus X Capital إن الشركات الكبرى تستخدم العملات المستقرة في تدفقات الخزانة العابرة للحدود، بينما بدأ وكلاء الذكاء الاصطناعي استخدام مسارات البلوكشين للمدفوعات الذاتية. ويشير ذلك إلى أن العملات المستقرة تتوسع من التداول أو المدفوعات الفردية إلى خزائن الشركات وبنية الدفع الآلية. وحدد المسؤولون الشركات الكبرى ووكلاء الذكاء الاصطناعي بوصفهم محركات رئيسية للمرحلة التالية من نمو العملات المستقرة. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "स्टेबलकॉइन की अगली वृद्धि में AI एजेंट और बड़ी कंपनियां आगे होंगी",
-        "excerpt": "Consensus 2026 में Bridge और Deus X Capital के अधिकारियों ने कहा कि बड़ी कंपनियों के सीमा पार ट्रेजरी प्रवाह और AI एजेंटों के स्वायत्त भुगतान स्टेबलकॉइन अपनाने को नए चरण में ले जा रहे हैं।",
-        "body": "स्टेबलकॉइन अपनाने का नया चरण शुरू हो रहा है। Consensus 2026 में Bridge और Deus X Capital के अधिकारियों ने कहा कि बड़ी कंपनियां सीमा पार ट्रेजरी प्रवाह के लिए स्टेबलकॉइन का उपयोग कर रही हैं, जबकि AI एजेंट स्वायत्त भुगतान के लिए ब्लॉकचेन रेल का उपयोग शुरू कर रहे हैं। यह दिखाता है कि स्टेबलकॉइन व्यक्तिगत ट्रेडिंग या भुगतान से आगे बढ़कर कॉरपोरेट ट्रेजरी और स्वचालित भुगतान अवसंरचना तक पहुंच रहे हैं। अधिकारियों ने बड़ी कंपनियों और AI एजेंटों को स्टेबलकॉइन की अगली वृद्धि के मुख्य चालक बताया। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Ledakan Stablecoin Berikutnya Dipimpin Agen AI dan Arus Treasury Korporasi",
-        "excerpt": "Di Consensus 2026, eksekutif Bridge dan Deus X Capital mengatakan arus treasury lintas batas perusahaan besar dan pembayaran otonom agen AI membawa stablecoin ke fase adopsi baru.",
-        "body": "Stablecoin memasuki fase adopsi baru. Di Consensus 2026, eksekutif Bridge dan Deus X Capital mengatakan perusahaan besar menggunakan stablecoin untuk arus treasury lintas batas, sementara agen AI mulai memakai jalur blockchain untuk pembayaran otonom. Hal ini menunjukkan stablecoin bergerak melampaui penggunaan perdagangan atau pembayaran individu menuju treasury perusahaan dan infrastruktur pembayaran otomatis. Para eksekutif menyebut perusahaan besar dan agen AI sebagai pendorong utama tahap pertumbuhan stablecoin berikutnya. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "f47032794bfb",
-    "slug": "privacy-and-accountability-can-coexist-onchain-say-panelists-604468",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T21:18:22.231Z",
-    "updatedAt": "2026-05-07T21:18:22.232Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/tech/2026/05/07/privacy-and-accountability-can-coexist-onchain-say-panelists-at-consensus-miami",
-    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/07/privacy-and-accountability-can-coexist-onchain-say-panelists-at-consensus-miami",
-    "titleFingerprint": "a416f97a2d17fc8e33d770ae68dea60c348dcf58",
-    "dedupKeys": [
-      "f47032794bfb691cd902a87c6538891d961379fa",
-      "a416f97a2d17fc8e33d770ae68dea60c348dcf58",
-      "26f8566fb3fa967500f873415cb765ec9d14c4cf"
-    ],
-    "imageUrl": "/images/articles/f47032794bfb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "온체인 프라이버시와 책임성 공존 가능성, 컨센서스 마이애미서 제기",
-        "excerpt": "컨센서스 마이애미 패널에서 무디스 레이팅스와 ChangeNOW 관계자들은 퍼블릭 블록체인의 추적성과 이용자 프라이버시를 함께 다룰 해법을 논의했다.",
-        "body": "컨센서스 마이애미 패널에서 무디스 레이팅스와 ChangeNOW 연사들은 퍼블릭 블록체인에서 프라이버시와 책임성이 동시에 유지될 수 있다고 밝혔다. 퍼블릭 블록체인은 거래 흐름을 추적할 수 있게 해 투명성을 높이지만, 이 특성은 이용자 프라이버시를 약화시킬 수 있다. 패널은 하이브리드 블록체인 아키텍처와 주소 단위 모니터링이 두 과제를 함께 해결하는 방식이 될 수 있다고 설명했다. 이는 온체인 활동의 책임성을 유지하면서도 개인정보 노출 우려를 줄이는 접근으로 제시됐다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Onchain Privacy and Accountability Can Coexist, Consensus Miami Panel Says",
-        "excerpt": "At Consensus Miami, speakers from Moody’s Ratings and ChangeNOW discussed how public blockchain traceability and user privacy could be addressed together.",
-        "body": "At a Consensus Miami panel, speakers from Moody’s Ratings and ChangeNOW said privacy and accountability can coexist on public blockchains. Public blockchains make transaction flows traceable and increase transparency, but that same feature can weaken user privacy. The panelists said hybrid blockchain architecture and address-level monitoring could help address both challenges at the same time. The approach was presented as a way to maintain accountability for onchain activity while reducing concerns about personal information exposure. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "オンチェーンのプライバシーと責任性は共存可能、Consensus Miamiで議論",
-        "excerpt": "Consensus Miamiのパネルで、Moody’s RatingsとChangeNOWの登壇者は、パブリックブロックチェーンの追跡性と利用者プライバシーを両立する方法を論じた。",
-        "body": "Consensus Miamiのパネルで、Moody’s RatingsとChangeNOWの登壇者は、パブリックブロックチェーン上でプライバシーと責任性は同時に維持できると述べた。パブリックブロックチェーンは取引の流れを追跡可能にし透明性を高める一方、その特性は利用者のプライバシーを弱める可能性がある。登壇者は、ハイブリッド型ブロックチェーン構造とアドレス単位の監視が、二つの課題を同時に解決する手段になり得ると説明した。これはオンチェーン活動の責任性を保ちながら、個人情報露出への懸念を減らすアプローチとして示された。出典: coindesk.com。"
-      },
-      "zh": {
-        "title": "链上隐私与问责可并存，Consensus Miami小组提出路径",
-        "excerpt": "在Consensus Miami小组讨论中，Moody’s Ratings和ChangeNOW发言人讨论了如何同时处理公链可追踪性与用户隐私问题。",
-        "body": "在Consensus Miami的一场小组讨论中，Moody’s Ratings和ChangeNOW的发言人表示，隐私与问责可以在公链上同时存在。公链让交易流向可以被追踪，并提高透明度，但这一特性也可能削弱用户隐私。与会者称，混合区块链架构和地址级监控可能有助于同时解决这两个问题。该方式被提出为一种在维持链上活动问责性的同时，降低个人信息暴露担忧的路径。来源: coindesk.com。"
-      },
-      "es": {
-        "title": "Privacidad y rendición de cuentas onchain pueden coexistir, dice panel en Miami",
-        "excerpt": "En Consensus Miami, representantes de Moody’s Ratings y ChangeNOW debatieron cómo combinar trazabilidad de blockchains públicas y privacidad de usuarios.",
-        "body": "En un panel de Consensus Miami, ponentes de Moody’s Ratings y ChangeNOW afirmaron que la privacidad y la rendición de cuentas pueden coexistir en blockchains públicas. Estas redes permiten rastrear los flujos de transacciones y elevan la transparencia, pero esa misma característica puede afectar la privacidad de los usuarios. Los panelistas dijeron que una arquitectura blockchain híbrida y el monitoreo a nivel de dirección pueden ayudar a resolver ambos problemas a la vez. El enfoque se presentó como una forma de mantener la responsabilidad de la actividad onchain mientras se reducen las preocupaciones por la exposición de información personal. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Privacidade e responsabilidade onchain podem coexistir, diz painel em Miami",
-        "excerpt": "No Consensus Miami, representantes da Moody’s Ratings e da ChangeNOW discutiram como conciliar rastreabilidade em blockchains públicas e privacidade do usuário.",
-        "body": "Em um painel no Consensus Miami, palestrantes da Moody’s Ratings e da ChangeNOW disseram que privacidade e responsabilidade podem coexistir em blockchains públicas. Essas redes tornam os fluxos de transações rastreáveis e aumentam a transparência, mas essa mesma característica pode reduzir a privacidade dos usuários. Os painelistas afirmaram que uma arquitetura blockchain híbrida e o monitoramento em nível de endereço podem ajudar a enfrentar os dois problemas ao mesmo tempo. A abordagem foi apresentada como uma forma de manter a responsabilidade da atividade onchain enquanto diminui preocupações com exposição de informações pessoais. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Onchain-Privatsphäre und Verantwortlichkeit können koexistieren, sagt Miami-Panel",
-        "excerpt": "Beim Consensus Miami diskutierten Vertreter von Moody’s Ratings und ChangeNOW, wie öffentliche Blockchain-Nachverfolgbarkeit und Nutzerdatenschutz zusammengehen können.",
-        "body": "Auf einem Panel beim Consensus Miami sagten Sprecher von Moody’s Ratings und ChangeNOW, dass Privatsphäre und Verantwortlichkeit auf öffentlichen Blockchains gleichzeitig bestehen können. Öffentliche Blockchains machen Transaktionsflüsse nachvollziehbar und erhöhen die Transparenz, doch genau diese Eigenschaft kann die Privatsphäre der Nutzer schwächen. Die Panelisten erklärten, hybride Blockchain-Architektur und Monitoring auf Adressebene könnten helfen, beide Probleme zugleich anzugehen. Der Ansatz wurde als Möglichkeit dargestellt, Verantwortlichkeit für Onchain-Aktivitäten zu erhalten und zugleich Bedenken wegen der Offenlegung persönlicher Informationen zu verringern. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Confidentialité et responsabilité onchain peuvent coexister, selon un panel à Miami",
-        "excerpt": "À Consensus Miami, des intervenants de Moody’s Ratings et ChangeNOW ont expliqué comment concilier traçabilité des blockchains publiques et vie privée des utilisateurs.",
-        "body": "Lors d’un panel à Consensus Miami, des intervenants de Moody’s Ratings et de ChangeNOW ont déclaré que confidentialité et responsabilité pouvaient coexister sur les blockchains publiques. Ces réseaux rendent les flux de transactions traçables et renforcent la transparence, mais cette même caractéristique peut affaiblir la vie privée des utilisateurs. Les panélistes ont indiqué qu’une architecture blockchain hybride et une surveillance au niveau des adresses pourraient aider à répondre aux deux enjeux simultanément. L’approche a été présentée comme un moyen de maintenir la responsabilité des activités onchain tout en réduisant les préoccupations liées à l’exposition d’informations personnelles. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "خصوصية البلوكشين والمساءلة يمكن أن تتعايشا على السلسلة، وفق لوحة في ميامي",
-        "excerpt": "في Consensus Miami، ناقش متحدثون من Moody’s Ratings وChangeNOW كيفية الجمع بين قابلية تتبع البلوكشين العامة وخصوصية المستخدمين.",
-        "body": "في جلسة ضمن Consensus Miami، قال متحدثون من Moody’s Ratings وChangeNOW إن الخصوصية والمساءلة يمكن أن تتعايشا على شبكات البلوكشين العامة. فهذه الشبكات تجعل تدفقات المعاملات قابلة للتتبع وتزيد الشفافية، لكن هذه السمة نفسها قد تأتي على حساب خصوصية المستخدمين. وأوضح المشاركون أن بنية بلوكشين هجينة والمراقبة على مستوى العناوين يمكن أن تساعدا في معالجة المشكلتين في الوقت نفسه. وقُدم هذا النهج كطريقة للحفاظ على مساءلة النشاط على السلسلة مع تقليل مخاوف كشف المعلومات الشخصية. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "ऑनचेन गोपनीयता और जवाबदेही साथ चल सकती हैं, Consensus Miami पैनल का मत",
-        "excerpt": "Consensus Miami में Moody’s Ratings और ChangeNOW के वक्ताओं ने सार्वजनिक ब्लॉकचेन की ट्रेसबिलिटी और यूजर प्राइवेसी को साथ संभालने के तरीकों पर चर्चा की।",
-        "body": "Consensus Miami के एक पैनल में Moody’s Ratings और ChangeNOW के वक्ताओं ने कहा कि सार्वजनिक ब्लॉकचेन पर गोपनीयता और जवाबदेही साथ-साथ बनी रह सकती हैं। सार्वजनिक ब्लॉकचेन लेनदेन के प्रवाह को ट्रेस करने योग्य बनाते हैं और पारदर्शिता बढ़ाते हैं, लेकिन यही विशेषता यूजर प्राइवेसी को कमजोर कर सकती है। पैनलिस्टों ने कहा कि हाइब्रिड ब्लॉकचेन आर्किटेक्चर और एड्रेस-लेवल मॉनिटरिंग दोनों समस्याओं को एक साथ हल करने में मदद कर सकते हैं। इसे ऑनचेन गतिविधि की जवाबदेही बनाए रखते हुए निजी जानकारी के उजागर होने की चिंता कम करने वाले दृष्टिकोण के रूप में पेश किया गया। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Privasi dan Akuntabilitas Onchain Bisa Berjalan Bersama, Kata Panel Miami",
-        "excerpt": "Di Consensus Miami, pembicara dari Moody’s Ratings dan ChangeNOW membahas cara menyelaraskan keterlacakan blockchain publik dengan privasi pengguna.",
-        "body": "Dalam panel Consensus Miami, pembicara dari Moody’s Ratings dan ChangeNOW mengatakan privasi dan akuntabilitas dapat berjalan bersama di blockchain publik. Blockchain publik membuat alur transaksi dapat dilacak dan meningkatkan transparansi, tetapi karakteristik yang sama dapat melemahkan privasi pengguna. Para panelis mengatakan arsitektur blockchain hibrida dan pemantauan tingkat alamat dapat membantu menangani kedua masalah tersebut sekaligus. Pendekatan ini dipaparkan sebagai cara menjaga akuntabilitas aktivitas onchain sambil mengurangi kekhawatiran atas paparan informasi pribadi. Sumber: coindesk.com."
       }
     }
   }
