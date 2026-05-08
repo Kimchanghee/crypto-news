@@ -1,0 +1,75 @@
+{
+  "id": "f26299e80f35",
+  "slug": "aws-northern-virginia-data-center-overheats-impacting-coinba-999736",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-08T07:28:29.357Z",
+  "updatedAt": "2026-05-08T07:28:29.357Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others",
+  "titleFingerprint": "67ec400457d2815449c8d3559423e6b5bb75f3cd",
+  "dedupKeys": [
+    "f26299e80f3549ed42f656171eec8b5aed0837e9",
+    "67ec400457d2815449c8d3559423e6b5bb75f3cd",
+    "17d400c8b7c7abfc5ed946766a0449bc8efb699c"
+  ],
+  "imageUrl": "/images/articles/f26299e80f35.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AWS 북버지니아 데이터센터 과열, 코인베이스 거래 ‘취소 전용’ 전환과 재개 예고",
+      "excerpt": "암호화폐 거래소 코인베이스는 금요일 AWS 북버지니아 데이터센터 과열 영향으로 자사 시장을 ‘취소 전용’ 모드에 두고 있으며, 거래 재활성화는 ‘곧’ 시작될 예정이라고 밝혔다.",
+      "body": "금요일 AWS 북버지니아 데이터센터에서 과열 문제가 발생해 코인베이스 시장 운영에 영향을 미쳤다. 코인베이스는 자사 시장이 현재 ‘취소 전용’ 모드에 놓이고 있다고 밝혔으며, 이는 신규 거래보다 기존 주문 취소에 초점을 둔 제한적 운영 상태를 뜻한다. 이번 상황의 핵심 배경은 AWS Northern Virginia 데이터센터의 과열이며, 원문은 이 문제가 코인베이스에 영향을 줬다고 전했다. 코인베이스는 거래를 ‘곧’ 다시 활성화하기 시작할 것이라고 설명해 단계적 정상화 가능성을 시사했다. 출처: cointelegraph.com."
+    },
+    "en": {
+      "title": "AWS Northern Virginia Data Center Overheats, Coinbase Shifts Markets to Cancel-Only",
+      "excerpt": "Coinbase said Friday that its markets are being placed in cancel-only mode after overheating at an AWS Northern Virginia data center, with trading expected to begin re-enabling shortly.",
+      "body": "On Friday, overheating at an AWS Northern Virginia data center affected Coinbase market operations. Coinbase said its markets are being placed in “cancel only” mode, a limited operating state focused on canceling existing orders rather than opening new trades. The key context is the overheating issue at the AWS Northern Virginia data center, which the original report said impacted Coinbase. Coinbase added that it would begin to re-enable trading “shortly,” pointing to a gradual move back toward normal market activity. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "AWS北バージニアのデータセンター過熱、Coinbase市場がキャンセル専用へ",
+      "excerpt": "Coinbaseは金曜日、AWS北バージニアのデータセンター過熱の影響で市場を「キャンセル専用」モードに置いており、取引の再有効化を「まもなく」始めると述べた。",
+      "body": "金曜日、AWS北バージニアのデータセンターで過熱問題が発生し、Coinbaseの市場運営に影響が出た。Coinbaseは、自社市場が現在「キャンセル専用」モードに置かれていると明らかにした。これは新規取引よりも既存注文のキャンセルを中心とする限定的な運用状態を意味する。今回の背景はAWS Northern Virginiaデータセンターの過熱であり、原文はこの問題がCoinbaseに影響したと伝えた。Coinbaseは取引を「まもなく」再有効化し始めるとしており、段階的な正常化の可能性を示した。出典: cointelegraph.com。"
+    },
+    "zh": {
+      "title": "AWS北弗吉尼亚数据中心过热，Coinbase市场转入仅取消模式",
+      "excerpt": "Coinbase周五表示，受AWS北弗吉尼亚数据中心过热影响，其市场正被置于“仅取消”模式，并将“很快”开始重新启用交易。",
+      "body": "周五，AWS北弗吉尼亚数据中心发生过热问题，影响了Coinbase的市场运营。Coinbase表示，其市场目前正被置于“仅取消”模式，这意味着运营受到限制，重点是取消现有订单，而不是开启新的交易。此次事件的核心背景是AWS Northern Virginia数据中心过热，原文称该问题对Coinbase造成影响。Coinbase还表示，将“很快”开始重新启用交易，显示市场功能可能逐步恢复正常。来源：cointelegraph.com。"
+    },
+    "es": {
+      "title": "Centro de datos AWS en Virginia del Norte se sobrecalienta y Coinbase limita mercados",
+      "excerpt": "Coinbase dijo el viernes que sus mercados están pasando a modo “solo cancelación” tras el sobrecalentamiento de un centro de datos de AWS en Virginia del Norte, y que reactivará operaciones pronto.",
+      "body": "El viernes, un sobrecalentamiento en un centro de datos de AWS en Virginia del Norte afectó las operaciones de mercado de Coinbase. La compañía dijo que sus mercados están siendo colocados en modo “solo cancelación”, un estado operativo limitado centrado en cancelar órdenes existentes en lugar de abrir nuevas operaciones. El contexto principal es el problema de sobrecalentamiento en el centro de datos AWS Northern Virginia, que según el reporte original impactó a Coinbase. Coinbase agregó que comenzará a reactivar las operaciones “en breve”, lo que apunta a una normalización gradual. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "Data center AWS na Virgínia do Norte superaquece e Coinbase limita mercados",
+      "excerpt": "A Coinbase disse na sexta-feira que seus mercados estão sendo colocados em modo “somente cancelamento” após superaquecimento em um data center da AWS na Virgínia do Norte, com reativação em breve.",
+      "body": "Na sexta-feira, um superaquecimento em um data center da AWS na Virgínia do Norte afetou as operações de mercado da Coinbase. A empresa afirmou que seus mercados estão sendo colocados em modo “somente cancelamento”, uma condição operacional limitada voltada ao cancelamento de ordens existentes, em vez da abertura de novas negociações. O contexto central é o problema de superaquecimento no data center AWS Northern Virginia, que o relato original disse ter impactado a Coinbase. A Coinbase acrescentou que começará a reativar as negociações “em breve”, indicando possível normalização gradual. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "AWS-Rechenzentrum in Nord-Virginia überhitzt, Coinbase stellt Märkte auf Cancel-Only",
+      "excerpt": "Coinbase erklärte am Freitag, dass seine Märkte nach einer Überhitzung in einem AWS-Rechenzentrum in Nord-Virginia in den „Cancel-only“-Modus versetzt werden und der Handel bald wieder aktiviert wird.",
+      "body": "Am Freitag beeinträchtigte eine Überhitzung in einem AWS-Rechenzentrum in Nord-Virginia den Marktbetrieb von Coinbase. Coinbase teilte mit, dass seine Märkte derzeit in den „Cancel only“-Modus versetzt werden. Das bedeutet einen eingeschränkten Betriebszustand, der auf das Stornieren bestehender Aufträge statt auf neue Transaktionen ausgerichtet ist. Der zentrale Hintergrund ist die Überhitzung im AWS Northern Virginia Data Center, die laut Originalbericht Coinbase betraf. Coinbase erklärte außerdem, der Handel werde „shortly“ wieder aktiviert, was auf eine schrittweise Rückkehr zum Normalbetrieb hindeutet. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "Surchauffe d’un centre de données AWS en Virginie du Nord, Coinbase limite ses marchés",
+      "excerpt": "Coinbase a déclaré vendredi que ses marchés étaient placés en mode « annulation uniquement » après la surchauffe d’un centre de données AWS en Virginie du Nord, avec une reprise des échanges prévue bientôt.",
+      "body": "Vendredi, une surchauffe dans un centre de données AWS en Virginie du Nord a affecté les opérations de marché de Coinbase. Coinbase a indiqué que ses marchés étaient placés en mode « annulation uniquement », un état de fonctionnement limité centré sur l’annulation des ordres existants plutôt que sur l’ouverture de nouvelles transactions. Le contexte principal est la surchauffe du centre de données AWS Northern Virginia, que le rapport original dit avoir impacté Coinbase. Coinbase a ajouté qu’elle commencerait à réactiver les échanges « sous peu », suggérant une normalisation progressive. Source : cointelegraph.com."
+    },
+    "ar": {
+      "title": "ارتفاع حرارة مركز بيانات AWS في شمال فيرجينيا يدفع Coinbase لوضع الإلغاء فقط",
+      "excerpt": "قالت Coinbase يوم الجمعة إن أسواقها وُضعت في وضع “الإلغاء فقط” بعد ارتفاع حرارة مركز بيانات AWS في شمال فيرجينيا، وإنها ستبدأ إعادة تفعيل التداول “قريبًا”.",
+      "body": "يوم الجمعة، أثرت مشكلة ارتفاع الحرارة في مركز بيانات AWS بشمال فيرجينيا على عمليات أسواق Coinbase. وقالت Coinbase إن أسواقها يجري وضعها في وضع “الإلغاء فقط”، وهو وضع تشغيل محدود يركز على إلغاء الأوامر القائمة بدل فتح تداولات جديدة. وتتمثل خلفية الحدث في ارتفاع حرارة مركز بيانات AWS Northern Virginia، والذي ذكر التقرير الأصلي أنه أثر في Coinbase. وأضافت Coinbase أنها ستبدأ إعادة تفعيل التداول “قريبًا”، ما يشير إلى احتمال عودة تدريجية نحو التشغيل الطبيعي. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "AWS नॉर्दर्न वर्जीनिया डेटा सेंटर ओवरहीट, Coinbase बाजार cancel-only मोड में",
+      "excerpt": "Coinbase ने शुक्रवार को कहा कि AWS नॉर्दर्न वर्जीनिया डेटा सेंटर में ओवरहीटिंग के असर से उसके बाजार “cancel only” मोड में रखे जा रहे हैं और ट्रेडिंग “जल्द” फिर सक्षम होगी।",
+      "body": "शुक्रवार को AWS नॉर्दर्न वर्जीनिया डेटा सेंटर में ओवरहीटिंग की समस्या ने Coinbase के बाजार संचालन को प्रभावित किया। Coinbase ने कहा कि उसके बाजारों को “cancel only” मोड में रखा जा रहा है। इसका मतलब सीमित संचालन है, जिसमें नई ट्रेड खोलने के बजाय मौजूदा ऑर्डर रद्द करने पर ध्यान रहता है। इस घटना की मुख्य पृष्ठभूमि AWS Northern Virginia डेटा सेंटर की ओवरहीटिंग है, जिसे मूल रिपोर्ट ने Coinbase पर असर डालने वाला बताया। Coinbase ने यह भी कहा कि वह ट्रेडिंग को “जल्द” फिर सक्षम करना शुरू करेगी, जिससे क्रमिक सामान्यीकरण की संभावना दिखती है। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "Pusat Data AWS Northern Virginia Overheat, Coinbase Alihkan Pasar ke Cancel-Only",
+      "excerpt": "Coinbase mengatakan pada Jumat bahwa pasarnya ditempatkan dalam mode “cancel only” setelah pusat data AWS Northern Virginia mengalami overheat, dan perdagangan akan mulai diaktifkan kembali “segera”.",
+      "body": "Pada Jumat, masalah overheat di pusat data AWS Northern Virginia memengaruhi operasi pasar Coinbase. Coinbase mengatakan pasarnya sedang ditempatkan dalam mode “cancel only”, yaitu kondisi operasi terbatas yang berfokus pada pembatalan order yang sudah ada, bukan pembukaan transaksi baru. Latar utama peristiwa ini adalah overheat di pusat data AWS Northern Virginia, yang menurut laporan asli berdampak pada Coinbase. Coinbase menambahkan bahwa pihaknya akan mulai mengaktifkan kembali perdagangan “segera”, menunjukkan kemungkinan pemulihan bertahap menuju operasi normal. Sumber: cointelegraph.com."
+    }
+  }
+}

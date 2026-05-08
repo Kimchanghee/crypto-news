@@ -1,5 +1,230 @@
 [
   {
+    "id": "8f8a5fb451cd",
+    "slug": "bitcoin-exchange-reserves-fall-to-two-year-low-after-8b-exod-639722",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T07:29:41.055Z",
+    "updatedAt": "2026-05-08T07:29:41.055Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/8b-bitcoin-exodus-drains-exchange-reserves-to-multi-year-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/8b-bitcoin-exodus-drains-exchange-reserves-to-multi-year-lows",
+    "titleFingerprint": "990876ac25a001459588579796eb65700d576e3f",
+    "dedupKeys": [
+      "8f8a5fb451cddebe65ea9c3039701ebd035401cf",
+      "990876ac25a001459588579796eb65700d576e3f",
+      "b62a9cda57c824e54b68988e6178bbf3c4d4220b"
+    ],
+    "imageUrl": "/images/articles/8f8a5fb451cd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 거래소 보유량 2년 최저…80억달러 유출 주목",
+        "excerpt": "주요 거래소에서 비트코인 약 10만개가 빠져나가며 보유량이 2년 최저치로 내려갔고, OTC 잔고 축소와 축적 주소 수요 증가가 유동 공급 감소를 시사했다.",
+        "body": "비트코인 거래소 보유량이 주요 거래소에서 약 10만 BTC가 빠져나간 뒤 2년 만의 최저 수준으로 떨어졌다. cointelegraph.com에 따르면 이번 유출 규모는 약 80억달러로 집계됐으며, 장외거래(OTC) 잔고도 함께 타이트해졌다. 동시에 축적 주소의 수요는 60% 증가해 시장에서 즉시 매도 가능한 유동 공급이 줄어드는 흐름을 뒷받침했다. 거래소 보유량 감소는 투자자가 코인을 외부 지갑이나 장기 보유 성격의 주소로 옮기고 있음을 보여주는 지표로 해석된다. 다만 원문은 가격 전망을 단정하지 않고, 공급 측면에서 시장 유동성이 축소되고 있다는 신호로 설명했다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Bitcoin Exchange Reserves Hit Two-Year Low After $8B Outflow",
+        "excerpt": "Nearly 100,000 Bitcoin left major exchanges as reserves fell to a two-year low, with tighter OTC balances and 60% stronger accumulator demand signaling reduced liquid supply.",
+        "body": "Bitcoin exchange reserves have dropped to their lowest level in two years after nearly 100,000 BTC exited major trading platforms. According to cointelegraph.com, the outflow was valued at about $8 billion, while over-the-counter, or OTC, balances also tightened. At the same time, demand from accumulator addresses increased by 60%, supporting the view that immediately liquid supply in the market has declined. A fall in exchange reserves is commonly read as a sign that investors are moving coins to external wallets or longer-term holding addresses. The original report did not make a firm price forecast, instead presenting the data as a supply-side signal of shrinking market liquidity. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "ビットコイン取引所準備高が2年ぶり低水準、80億ドル流出",
+        "excerpt": "主要取引所から約10万BTCが流出し、ビットコイン準備高は2年ぶり低水準に低下。OTC残高の逼迫と蓄積アドレス需要60%増が流動供給減を示した。",
+        "body": "ビットコインの取引所準備高は、主要取引所から約10万BTCが流出した後、2年ぶりの低水準に落ち込んだ。cointelegraph.comによると、今回の流出額は約80億ドルとされ、店頭取引（OTC）の残高も引き締まった。同時に、蓄積アドレスからの需要は60%増加し、市場で直ちに売却可能な流動供給が減っているとの見方を支えた。取引所準備高の減少は、投資家がコインを外部ウォレットや長期保有型のアドレスへ移している兆候として解釈される。原文は価格見通しを断定せず、供給面で市場流動性が縮小しているシグナルとして説明した。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "比特币交易所储备降至两年低点，80亿美元流出受关注",
+        "excerpt": "约10万枚比特币从主要交易所流出，储备降至两年低点；OTC余额收紧且积累地址需求增长60%，显示流动供应减少。",
+        "body": "在约10万枚BTC流出主要交易平台后，比特币交易所储备降至两年来最低水平。据cointelegraph.com报道，此次流出规模约为80亿美元，同时场外交易（OTC）余额也趋于紧张。与此同时，来自积累地址的需求增长了60%，进一步支持市场中可立即出售的流动供应正在减少这一判断。交易所储备下降通常被解读为投资者将代币转移至外部钱包或偏长期持有地址的迹象。原文并未对价格走势作出确定预测，而是将这些数据描述为供应端市场流动性收缩的信号。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "Reservas de Bitcoin en exchanges caen a mínimo de dos años tras salida de US$8.000M",
+        "excerpt": "Casi 100.000 Bitcoin salieron de grandes exchanges y las reservas tocaron un mínimo de dos años, mientras los saldos OTC ajustados y la demanda acumuladora apuntan a menor oferta líquida.",
+        "body": "Las reservas de Bitcoin en exchanges cayeron a su nivel más bajo en dos años después de que casi 100.000 BTC salieran de las principales plataformas. Según cointelegraph.com, la salida fue valorada en unos US$8.000 millones, mientras que los saldos de operaciones extrabursátiles, u OTC, también se redujeron. Al mismo tiempo, la demanda de direcciones acumuladoras aumentó un 60%, lo que respalda la lectura de una menor oferta líquida disponible de inmediato en el mercado. La caída de reservas en exchanges suele interpretarse como una señal de que los inversores trasladan monedas a billeteras externas o direcciones de tenencia más prolongada. El reporte original no fijó una previsión de precio y presentó los datos como una señal de menor liquidez desde el lado de la oferta. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Reservas de Bitcoin em exchanges caem ao menor nível em dois anos após saída de US$8 bi",
+        "excerpt": "Quase 100.000 Bitcoin deixaram grandes exchanges, levando as reservas ao menor nível em dois anos, com saldos OTC mais apertados e demanda acumuladora 60% maior indicando menor oferta líquida.",
+        "body": "As reservas de Bitcoin em exchanges caíram para o menor nível em dois anos depois que quase 100.000 BTC deixaram as principais plataformas. Segundo cointelegraph.com, a saída foi estimada em cerca de US$8 bilhões, enquanto os saldos de balcão, ou OTC, também ficaram mais apertados. Ao mesmo tempo, a demanda de endereços acumuladores aumentou 60%, reforçando a leitura de que a oferta líquida imediatamente disponível no mercado diminuiu. A redução das reservas em exchanges costuma ser interpretada como sinal de que investidores estão transferindo moedas para carteiras externas ou endereços com perfil de retenção mais longo. O relatório original não cravou uma projeção de preço e descreveu os dados como um sinal de contração da liquidez pelo lado da oferta. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Bitcoin-Bestände auf Börsen fallen nach 8-Mrd.-Dollar-Abfluss auf Zweijahrestief",
+        "excerpt": "Fast 100.000 Bitcoin verließen große Börsen, die Reserven sanken auf ein Zweijahrestief; engere OTC-Bestände und 60% mehr Nachfrage von Akkumulator-Adressen deuten auf weniger liquide Versorgung.",
+        "body": "Die Bitcoin-Bestände auf Börsen sind auf den niedrigsten Stand seit zwei Jahren gefallen, nachdem fast 100.000 BTC große Handelsplattformen verlassen hatten. Laut cointelegraph.com belief sich der Abfluss auf rund 8 Milliarden US-Dollar, während auch die Bestände im außerbörslichen Handel, also OTC, knapper wurden. Gleichzeitig stieg die Nachfrage von Akkumulator-Adressen um 60%, was die Einschätzung stützt, dass die unmittelbar liquide verfügbare Menge am Markt gesunken ist. Sinkende Börsenreserven werden häufig als Zeichen gewertet, dass Anleger Coins in externe Wallets oder längerfristig ausgerichtete Adressen verschieben. Der Originalbericht traf keine feste Preisprognose, sondern beschrieb die Daten als angebotsseitiges Signal für schrumpfende Marktliquidität. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Les réserves de Bitcoin sur exchanges au plus bas depuis deux ans après 8 Md$ de sorties",
+        "excerpt": "Près de 100.000 Bitcoin ont quitté les grandes plateformes, faisant tomber les réserves à un plus bas de deux ans, tandis que les soldes OTC serrés et la demande d’accumulation en hausse de 60% signalent moins d’offre liquide.",
+        "body": "Les réserves de Bitcoin sur les exchanges sont tombées à leur plus bas niveau depuis deux ans après la sortie de près de 100.000 BTC des principales plateformes. Selon cointelegraph.com, ces sorties représentent environ 8 milliards de dollars, tandis que les soldes de gré à gré, ou OTC, se sont également resserrés. Dans le même temps, la demande des adresses d’accumulation a augmenté de 60%, ce qui appuie l’idée d’une baisse de l’offre immédiatement liquide sur le marché. La diminution des réserves sur exchanges est souvent interprétée comme le signe que les investisseurs déplacent leurs coins vers des portefeuilles externes ou des adresses orientées vers une détention plus longue. Le rapport original ne formule pas de prévision ferme sur les prix et présente ces données comme un signal de contraction de la liquidité côté offre. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "احتياطيات بيتكوين في المنصات تهبط لأدنى مستوى في عامين بعد خروج 8 مليارات دولار",
+        "excerpt": "خرج نحو 100 ألف بيتكوين من منصات كبرى، فهبطت الاحتياطيات لأدنى مستوى في عامين، مع تضييق أرصدة OTC وزيادة طلب عناوين التجميع 60% بما يشير إلى تراجع المعروض السائل.",
+        "body": "هبطت احتياطيات بيتكوين في منصات التداول إلى أدنى مستوى لها خلال عامين بعد خروج نحو 100 ألف BTC من المنصات الرئيسية. ووفقًا لـ cointelegraph.com، بلغت قيمة هذا الخروج نحو 8 مليارات دولار، كما أصبحت أرصدة التداول خارج المنصات، أو OTC، أكثر ضيقًا. وفي الوقت نفسه، ارتفع الطلب من عناوين التجميع بنسبة 60%، ما يدعم قراءة تفيد بأن المعروض السائل المتاح للبيع الفوري في السوق قد تراجع. ويُفسَّر انخفاض احتياطيات المنصات عادةً على أنه إشارة إلى نقل المستثمرين للعملات إلى محافظ خارجية أو عناوين ذات طابع احتفاظ أطول. ولم يقدم التقرير الأصلي توقعًا حاسمًا للسعر، بل عرض البيانات كإشارة من جانب العرض إلى تقلص سيولة السوق. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Bitcoin एक्सचेंज रिजर्व दो साल के निचले स्तर पर, $8B निकासी ने खींचा ध्यान",
+        "excerpt": "करीब 100,000 Bitcoin प्रमुख एक्सचेंजों से निकले और रिजर्व दो साल के निचले स्तर पर आ गया; OTC बैलेंस सख्त होने और accumulator addresses की मांग 60% बढ़ने से लिक्विड सप्लाई घटने का संकेत मिला।",
+        "body": "करीब 100,000 BTC के प्रमुख ट्रेडिंग प्लेटफॉर्मों से बाहर निकलने के बाद Bitcoin एक्सचेंज रिजर्व दो साल के सबसे निचले स्तर पर आ गया। cointelegraph.com के अनुसार, इस निकासी का मूल्य लगभग $8 अरब था, जबकि ओवर-द-काउंटर यानी OTC बैलेंस भी सख्त हुआ। इसी दौरान accumulator addresses की मांग 60% बढ़ी, जिससे यह संकेत मजबूत हुआ कि बाजार में तुरंत बिक सकने वाली लिक्विड सप्लाई कम हुई है। एक्सचेंज रिजर्व में गिरावट को आम तौर पर इस संकेत के रूप में देखा जाता है कि निवेशक कॉइन को बाहरी वॉलेट या लंबी अवधि की होल्डिंग वाले पतों पर ले जा रहे हैं। मूल रिपोर्ट ने कीमत पर कोई निश्चित अनुमान नहीं दिया और इन आंकड़ों को सप्लाई पक्ष से बाजार की घटती लिक्विडिटी का संकेत बताया। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Cadangan Bitcoin di Exchange Turun ke Level Terendah Dua Tahun Usai Arus Keluar US$8 Miliar",
+        "excerpt": "Hampir 100.000 Bitcoin keluar dari exchange besar sehingga cadangan menyentuh level terendah dua tahun, sementara saldo OTC mengetat dan permintaan alamat akumulator naik 60% menandakan pasokan likuid berkurang.",
+        "body": "Cadangan Bitcoin di exchange turun ke level terendah dalam dua tahun setelah hampir 100.000 BTC keluar dari platform perdagangan utama. Menurut cointelegraph.com, arus keluar tersebut bernilai sekitar US$8 miliar, sementara saldo over-the-counter, atau OTC, juga mengetat. Pada saat yang sama, permintaan dari alamat akumulator meningkat 60%, mendukung pandangan bahwa pasokan likuid yang segera tersedia di pasar telah berkurang. Penurunan cadangan exchange biasanya dibaca sebagai tanda bahwa investor memindahkan koin ke dompet eksternal atau alamat dengan karakter kepemilikan jangka lebih panjang. Laporan asli tidak menetapkan proyeksi harga, melainkan menggambarkan data ini sebagai sinyal dari sisi pasokan bahwa likuiditas pasar menyusut. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "f26299e80f35",
+    "slug": "aws-northern-virginia-data-center-overheats-impacting-coinba-999736",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T07:28:29.357Z",
+    "updatedAt": "2026-05-08T07:28:29.357Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others",
+    "titleFingerprint": "67ec400457d2815449c8d3559423e6b5bb75f3cd",
+    "dedupKeys": [
+      "f26299e80f3549ed42f656171eec8b5aed0837e9",
+      "67ec400457d2815449c8d3559423e6b5bb75f3cd",
+      "17d400c8b7c7abfc5ed946766a0449bc8efb699c"
+    ],
+    "imageUrl": "/images/articles/f26299e80f35.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AWS 북버지니아 데이터센터 과열, 코인베이스 거래 ‘취소 전용’ 전환과 재개 예고",
+        "excerpt": "암호화폐 거래소 코인베이스는 금요일 AWS 북버지니아 데이터센터 과열 영향으로 자사 시장을 ‘취소 전용’ 모드에 두고 있으며, 거래 재활성화는 ‘곧’ 시작될 예정이라고 밝혔다.",
+        "body": "금요일 AWS 북버지니아 데이터센터에서 과열 문제가 발생해 코인베이스 시장 운영에 영향을 미쳤다. 코인베이스는 자사 시장이 현재 ‘취소 전용’ 모드에 놓이고 있다고 밝혔으며, 이는 신규 거래보다 기존 주문 취소에 초점을 둔 제한적 운영 상태를 뜻한다. 이번 상황의 핵심 배경은 AWS Northern Virginia 데이터센터의 과열이며, 원문은 이 문제가 코인베이스에 영향을 줬다고 전했다. 코인베이스는 거래를 ‘곧’ 다시 활성화하기 시작할 것이라고 설명해 단계적 정상화 가능성을 시사했다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "AWS Northern Virginia Data Center Overheats, Coinbase Shifts Markets to Cancel-Only",
+        "excerpt": "Coinbase said Friday that its markets are being placed in cancel-only mode after overheating at an AWS Northern Virginia data center, with trading expected to begin re-enabling shortly.",
+        "body": "On Friday, overheating at an AWS Northern Virginia data center affected Coinbase market operations. Coinbase said its markets are being placed in “cancel only” mode, a limited operating state focused on canceling existing orders rather than opening new trades. The key context is the overheating issue at the AWS Northern Virginia data center, which the original report said impacted Coinbase. Coinbase added that it would begin to re-enable trading “shortly,” pointing to a gradual move back toward normal market activity. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "AWS北バージニアのデータセンター過熱、Coinbase市場がキャンセル専用へ",
+        "excerpt": "Coinbaseは金曜日、AWS北バージニアのデータセンター過熱の影響で市場を「キャンセル専用」モードに置いており、取引の再有効化を「まもなく」始めると述べた。",
+        "body": "金曜日、AWS北バージニアのデータセンターで過熱問題が発生し、Coinbaseの市場運営に影響が出た。Coinbaseは、自社市場が現在「キャンセル専用」モードに置かれていると明らかにした。これは新規取引よりも既存注文のキャンセルを中心とする限定的な運用状態を意味する。今回の背景はAWS Northern Virginiaデータセンターの過熱であり、原文はこの問題がCoinbaseに影響したと伝えた。Coinbaseは取引を「まもなく」再有効化し始めるとしており、段階的な正常化の可能性を示した。出典: cointelegraph.com。"
+      },
+      "zh": {
+        "title": "AWS北弗吉尼亚数据中心过热，Coinbase市场转入仅取消模式",
+        "excerpt": "Coinbase周五表示，受AWS北弗吉尼亚数据中心过热影响，其市场正被置于“仅取消”模式，并将“很快”开始重新启用交易。",
+        "body": "周五，AWS北弗吉尼亚数据中心发生过热问题，影响了Coinbase的市场运营。Coinbase表示，其市场目前正被置于“仅取消”模式，这意味着运营受到限制，重点是取消现有订单，而不是开启新的交易。此次事件的核心背景是AWS Northern Virginia数据中心过热，原文称该问题对Coinbase造成影响。Coinbase还表示，将“很快”开始重新启用交易，显示市场功能可能逐步恢复正常。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "Centro de datos AWS en Virginia del Norte se sobrecalienta y Coinbase limita mercados",
+        "excerpt": "Coinbase dijo el viernes que sus mercados están pasando a modo “solo cancelación” tras el sobrecalentamiento de un centro de datos de AWS en Virginia del Norte, y que reactivará operaciones pronto.",
+        "body": "El viernes, un sobrecalentamiento en un centro de datos de AWS en Virginia del Norte afectó las operaciones de mercado de Coinbase. La compañía dijo que sus mercados están siendo colocados en modo “solo cancelación”, un estado operativo limitado centrado en cancelar órdenes existentes en lugar de abrir nuevas operaciones. El contexto principal es el problema de sobrecalentamiento en el centro de datos AWS Northern Virginia, que según el reporte original impactó a Coinbase. Coinbase agregó que comenzará a reactivar las operaciones “en breve”, lo que apunta a una normalización gradual. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Data center AWS na Virgínia do Norte superaquece e Coinbase limita mercados",
+        "excerpt": "A Coinbase disse na sexta-feira que seus mercados estão sendo colocados em modo “somente cancelamento” após superaquecimento em um data center da AWS na Virgínia do Norte, com reativação em breve.",
+        "body": "Na sexta-feira, um superaquecimento em um data center da AWS na Virgínia do Norte afetou as operações de mercado da Coinbase. A empresa afirmou que seus mercados estão sendo colocados em modo “somente cancelamento”, uma condição operacional limitada voltada ao cancelamento de ordens existentes, em vez da abertura de novas negociações. O contexto central é o problema de superaquecimento no data center AWS Northern Virginia, que o relato original disse ter impactado a Coinbase. A Coinbase acrescentou que começará a reativar as negociações “em breve”, indicando possível normalização gradual. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "AWS-Rechenzentrum in Nord-Virginia überhitzt, Coinbase stellt Märkte auf Cancel-Only",
+        "excerpt": "Coinbase erklärte am Freitag, dass seine Märkte nach einer Überhitzung in einem AWS-Rechenzentrum in Nord-Virginia in den „Cancel-only“-Modus versetzt werden und der Handel bald wieder aktiviert wird.",
+        "body": "Am Freitag beeinträchtigte eine Überhitzung in einem AWS-Rechenzentrum in Nord-Virginia den Marktbetrieb von Coinbase. Coinbase teilte mit, dass seine Märkte derzeit in den „Cancel only“-Modus versetzt werden. Das bedeutet einen eingeschränkten Betriebszustand, der auf das Stornieren bestehender Aufträge statt auf neue Transaktionen ausgerichtet ist. Der zentrale Hintergrund ist die Überhitzung im AWS Northern Virginia Data Center, die laut Originalbericht Coinbase betraf. Coinbase erklärte außerdem, der Handel werde „shortly“ wieder aktiviert, was auf eine schrittweise Rückkehr zum Normalbetrieb hindeutet. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Surchauffe d’un centre de données AWS en Virginie du Nord, Coinbase limite ses marchés",
+        "excerpt": "Coinbase a déclaré vendredi que ses marchés étaient placés en mode « annulation uniquement » après la surchauffe d’un centre de données AWS en Virginie du Nord, avec une reprise des échanges prévue bientôt.",
+        "body": "Vendredi, une surchauffe dans un centre de données AWS en Virginie du Nord a affecté les opérations de marché de Coinbase. Coinbase a indiqué que ses marchés étaient placés en mode « annulation uniquement », un état de fonctionnement limité centré sur l’annulation des ordres existants plutôt que sur l’ouverture de nouvelles transactions. Le contexte principal est la surchauffe du centre de données AWS Northern Virginia, que le rapport original dit avoir impacté Coinbase. Coinbase a ajouté qu’elle commencerait à réactiver les échanges « sous peu », suggérant une normalisation progressive. Source : cointelegraph.com."
+      },
+      "ar": {
+        "title": "ارتفاع حرارة مركز بيانات AWS في شمال فيرجينيا يدفع Coinbase لوضع الإلغاء فقط",
+        "excerpt": "قالت Coinbase يوم الجمعة إن أسواقها وُضعت في وضع “الإلغاء فقط” بعد ارتفاع حرارة مركز بيانات AWS في شمال فيرجينيا، وإنها ستبدأ إعادة تفعيل التداول “قريبًا”.",
+        "body": "يوم الجمعة، أثرت مشكلة ارتفاع الحرارة في مركز بيانات AWS بشمال فيرجينيا على عمليات أسواق Coinbase. وقالت Coinbase إن أسواقها يجري وضعها في وضع “الإلغاء فقط”، وهو وضع تشغيل محدود يركز على إلغاء الأوامر القائمة بدل فتح تداولات جديدة. وتتمثل خلفية الحدث في ارتفاع حرارة مركز بيانات AWS Northern Virginia، والذي ذكر التقرير الأصلي أنه أثر في Coinbase. وأضافت Coinbase أنها ستبدأ إعادة تفعيل التداول “قريبًا”، ما يشير إلى احتمال عودة تدريجية نحو التشغيل الطبيعي. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "AWS नॉर्दर्न वर्जीनिया डेटा सेंटर ओवरहीट, Coinbase बाजार cancel-only मोड में",
+        "excerpt": "Coinbase ने शुक्रवार को कहा कि AWS नॉर्दर्न वर्जीनिया डेटा सेंटर में ओवरहीटिंग के असर से उसके बाजार “cancel only” मोड में रखे जा रहे हैं और ट्रेडिंग “जल्द” फिर सक्षम होगी।",
+        "body": "शुक्रवार को AWS नॉर्दर्न वर्जीनिया डेटा सेंटर में ओवरहीटिंग की समस्या ने Coinbase के बाजार संचालन को प्रभावित किया। Coinbase ने कहा कि उसके बाजारों को “cancel only” मोड में रखा जा रहा है। इसका मतलब सीमित संचालन है, जिसमें नई ट्रेड खोलने के बजाय मौजूदा ऑर्डर रद्द करने पर ध्यान रहता है। इस घटना की मुख्य पृष्ठभूमि AWS Northern Virginia डेटा सेंटर की ओवरहीटिंग है, जिसे मूल रिपोर्ट ने Coinbase पर असर डालने वाला बताया। Coinbase ने यह भी कहा कि वह ट्रेडिंग को “जल्द” फिर सक्षम करना शुरू करेगी, जिससे क्रमिक सामान्यीकरण की संभावना दिखती है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Pusat Data AWS Northern Virginia Overheat, Coinbase Alihkan Pasar ke Cancel-Only",
+        "excerpt": "Coinbase mengatakan pada Jumat bahwa pasarnya ditempatkan dalam mode “cancel only” setelah pusat data AWS Northern Virginia mengalami overheat, dan perdagangan akan mulai diaktifkan kembali “segera”.",
+        "body": "Pada Jumat, masalah overheat di pusat data AWS Northern Virginia memengaruhi operasi pasar Coinbase. Coinbase mengatakan pasarnya sedang ditempatkan dalam mode “cancel only”, yaitu kondisi operasi terbatas yang berfokus pada pembatalan order yang sudah ada, bukan pembukaan transaksi baru. Latar utama peristiwa ini adalah overheat di pusat data AWS Northern Virginia, yang menurut laporan asli berdampak pada Coinbase. Coinbase menambahkan bahwa pihaknya akan mulai mengaktifkan kembali perdagangan “segera”, menunjukkan kemungkinan pemulihan bertahap menuju operasi normal. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "b42136a996bd",
+    "slug": "aptos-foundation-aptos-labs-commit-50m-to-development-as-it--289202",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-08T07:27:21.930Z",
+    "updatedAt": "2026-05-08T07:27:21.930Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/aptos-foundation-labs-commit-50m-sees-opportunity-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/aptos-foundation-labs-commit-50m-sees-opportunity-ai-agents",
+    "titleFingerprint": "56267d69b01dffaecf034b9ba7ec3c4daefc29ec",
+    "dedupKeys": [
+      "b42136a996bda298be63c964befaecd8d7125464",
+      "56267d69b01dffaecf034b9ba7ec3c4daefc29ec",
+      "34281f9dbf63096000269487e59d0c290664e91b"
+    ],
+    "imageUrl": "/images/articles/b42136a996bd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "앱토스, AI 에이전트 시대 겨냥해 개발에 5천만달러 투입",
+        "excerpt": "앱토스 재단과 앱토스 랩스는 5월 8일 AI 에이전트 채택 확대에 대비해 사람 개입 없이 1초 미만 확정성을 지원하는 인프라 개발에 5천만달러를 투입한다고 밝혔다.",
+        "body": "앱토스 재단과 앱토스 랩스는 5월 8일 블록체인 개발과 인프라 확장을 위해 5천만달러를 투입한다고 밝혔다. 이번 계획의 초점은 AI 에이전트가 사람의 개입 없이 거래와 정산을 처리할 수 있도록 1초 미만 확정성을 제공하는 기반을 강화하는 데 있다. 앱토스는 차세대 AI 에이전트 채택을 지원하려면 빠른 finality와 자동화 친화적 인프라가 핵심이라고 설명했다. 이번 자금은 개발 역량과 생태계 기반을 넓히는 데 쓰일 예정이다. 다만 구체적인 집행 일정이나 세부 배분 항목은 공개되지 않았다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Aptos Puts $50M Into Development for an AI Agent Future",
+        "excerpt": "Aptos Foundation and Aptos Labs said on May 8 they will commit $50 million to infrastructure that supports sub-second finality without human intervention as AI agent adoption grows.",
+        "body": "Aptos Foundation and Aptos Labs said on May 8 that they will commit $50 million to blockchain development and infrastructure expansion. The plan focuses on strengthening systems that can provide sub-second finality so AI agents can handle transactions and settlement without human intervention. Aptos said fast finality and automation-ready infrastructure are key to supporting the next wave of AI agent adoption. The funding is expected to broaden development capacity and the ecosystem’s technical base. Specific timelines or detailed allocation items were not disclosed. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "Aptos、AIエージェント時代へ開発に5,000万ドル投入",
+        "excerpt": "Aptos FoundationとAptos Labsは5月8日、AIエージェント普及に備え、人の介入なしに1秒未満の確定性を支えるインフラ開発へ5,000万ドルを投じると発表した。",
+        "body": "Aptos FoundationとAptos Labsは5月8日、ブロックチェーン開発とインフラ拡張に5,000万ドルを投じると明らかにした。今回の計画は、AIエージェントが人の介入なしに取引や決済を処理できるよう、1秒未満のファイナリティを提供する基盤を強化することに重点を置く。Aptosは、次のAIエージェント採用拡大を支えるには、高速な確定性と自動化に適したインフラが重要だと説明した。資金は開発力とエコシステムの技術基盤拡大に使われる見通しだ。具体的な実行時期や詳細な配分は公表されていない。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "Aptos投入5000万美元开发，押注AI代理未来",
+        "excerpt": "Aptos Foundation和Aptos Labs于5月8日表示，将投入5000万美元建设基础设施，以在人类无需介入的情况下支持亚秒级最终确定性，迎接AI代理采用增长。",
+        "body": "Aptos Foundation和Aptos Labs于5月8日表示，将投入5000万美元用于区块链开发和基础设施扩展。该计划重点是强化可提供亚秒级最终确定性的基础设施，使AI代理能够在无需人工介入的情况下处理交易和结算。Aptos称，要支持下一波AI代理采用，快速最终确定性以及适合自动化运行的基础设施是关键。相关资金预计将用于扩大开发能力和生态系统的技术基础。不过，具体执行时间表和资金细分用途尚未披露。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Aptos destina $50M al desarrollo para el futuro de agentes de IA",
+        "excerpt": "Aptos Foundation y Aptos Labs dijeron el 8 de mayo que comprometerán 50 millones de dólares a infraestructura con finalidad en menos de un segundo y sin intervención humana ante la adopción de agentes de IA.",
+        "body": "Aptos Foundation y Aptos Labs dijeron el 8 de mayo que comprometerán 50 millones de dólares al desarrollo de blockchain y a la expansión de infraestructura. El plan se centra en reforzar sistemas capaces de ofrecer finalidad en menos de un segundo para que los agentes de IA procesen transacciones y liquidaciones sin intervención humana. Aptos afirmó que la finalidad rápida y una infraestructura preparada para la automatización son claves para apoyar la próxima ola de adopción de agentes de IA. Los fondos ampliarán la capacidad de desarrollo y la base técnica del ecosistema. No se divulgaron calendarios ni asignaciones detalladas. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Aptos investe US$ 50 mi em desenvolvimento para futuro com agentes de IA",
+        "excerpt": "A Aptos Foundation e a Aptos Labs disseram em 8 de maio que destinarão US$ 50 milhões a uma infraestrutura com finalidade abaixo de um segundo e sem intervenção humana para apoiar agentes de IA.",
+        "body": "A Aptos Foundation e a Aptos Labs disseram em 8 de maio que destinarão US$ 50 milhões ao desenvolvimento de blockchain e à expansão de infraestrutura. O plano foca em fortalecer sistemas capazes de oferecer finalidade em menos de um segundo para que agentes de IA processem transações e liquidações sem intervenção humana. A Aptos afirmou que finality rápida e infraestrutura adequada à automação são essenciais para sustentar a próxima onda de adoção de agentes de IA. Os recursos devem ampliar a capacidade de desenvolvimento e a base técnica do ecossistema. Cronogramas e divisões específicas não foram divulgados. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Aptos investiert 50 Mio. Dollar in Entwicklung für KI-Agenten",
+        "excerpt": "Aptos Foundation und Aptos Labs erklärten am 8. Mai, sie würden 50 Millionen Dollar in Infrastruktur investieren, die Finalität unter einer Sekunde ohne menschliches Eingreifen für KI-Agenten ermöglicht.",
+        "body": "Aptos Foundation und Aptos Labs erklärten am 8. Mai, dass sie 50 Millionen Dollar in Blockchain-Entwicklung und den Ausbau der Infrastruktur investieren werden. Der Plan konzentriert sich auf Systeme, die Finalität in weniger als einer Sekunde ermöglichen, damit KI-Agenten Transaktionen und Abwicklungen ohne menschliches Eingreifen verarbeiten können. Aptos sagte, schnelle Finalität und automatisierungsfreundliche Infrastruktur seien entscheidend, um die nächste Welle der KI-Agenten-Adoption zu unterstützen. Die Mittel sollen Entwicklungskapazitäten und die technische Basis des Ökosystems erweitern. Konkrete Zeitpläne oder detaillierte Zuweisungen wurden nicht genannt. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Aptos engage 50 M$ pour préparer l’avenir des agents IA",
+        "excerpt": "Aptos Foundation et Aptos Labs ont déclaré le 8 mai qu’ils engageraient 50 millions de dollars dans une infrastructure offrant une finalité en moins d’une seconde sans intervention humaine pour les agents IA.",
+        "body": "Aptos Foundation et Aptos Labs ont déclaré le 8 mai qu’ils engageraient 50 millions de dollars dans le développement blockchain et l’expansion de l’infrastructure. Le plan vise à renforcer des systèmes capables d’offrir une finalité en moins d’une seconde afin que les agents IA puissent traiter transactions et règlements sans intervention humaine. Aptos a indiqué que la finalité rapide et une infrastructure adaptée à l’automatisation sont essentielles pour soutenir la prochaine vague d’adoption des agents IA. Les fonds doivent élargir les capacités de développement et la base technique de l’écosystème. Aucun calendrier ni détail d’allocation n’a été communiqué. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "أبتوس تخصص 50 مليون دولار للتطوير استعدادا لمستقبل وكلاء الذكاء الاصطناعي",
+        "excerpt": "قالت Aptos Foundation وAptos Labs في 8 مايو إنهما ستخصصان 50 مليون دولار لبنية تحتية تدعم نهائية في أقل من ثانية ومن دون تدخل بشري مع توسع اعتماد وكلاء الذكاء الاصطناعي.",
+        "body": "قالت Aptos Foundation وAptos Labs في 8 مايو إنهما ستخصصان 50 مليون دولار لتطوير البلوكشين وتوسيع البنية التحتية. تركز الخطة على تعزيز أنظمة قادرة على توفير نهائية في أقل من ثانية، بحيث تستطيع وكلاء الذكاء الاصطناعي معالجة المعاملات والتسويات من دون تدخل بشري. وأوضحت أبتوس أن سرعة النهائية والبنية التحتية الملائمة للأتمتة عنصران أساسيان لدعم الموجة المقبلة من اعتماد وكلاء الذكاء الاصطناعي. ومن المتوقع أن توسع الأموال قدرات التطوير والقاعدة التقنية للنظام البيئي. ولم تكشف الشركة عن جدول زمني محدد أو تفاصيل توزيع التمويل. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Aptos ने AI एजेंट भविष्य के लिए विकास में $50M लगाने की घोषणा की",
+        "excerpt": "Aptos Foundation और Aptos Labs ने 8 मई को कहा कि वे AI एजेंट अपनाने की अगली लहर के लिए बिना मानवीय हस्तक्षेप सब-सेकंड फाइनलिटी देने वाले इन्फ्रास्ट्रक्चर में $50 मिलियन लगाएंगे।",
+        "body": "Aptos Foundation और Aptos Labs ने 8 मई को कहा कि वे ब्लॉकचेन विकास और इन्फ्रास्ट्रक्चर विस्तार के लिए $50 मिलियन लगाएंगे। इस योजना का केंद्र ऐसे आधार को मजबूत करना है जो AI एजेंटों को मानवीय हस्तक्षेप के बिना लेनदेन और सेटलमेंट संभालने के लिए एक सेकंड से कम समय में finality दे सके। Aptos ने कहा कि AI एजेंट अपनाने की अगली लहर को सहारा देने के लिए तेज finality और ऑटोमेशन के अनुकूल इन्फ्रास्ट्रक्चर अहम हैं। यह धन विकास क्षमता और इकोसिस्टम की तकनीकी बुनियाद को बढ़ाने में इस्तेमाल होगा। ठोस समयसीमा या विस्तृत आवंटन का खुलासा नहीं किया गया। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Aptos Siapkan $50 Juta untuk Pengembangan Era Agen AI",
+        "excerpt": "Aptos Foundation dan Aptos Labs pada 8 Mei mengatakan akan mengucurkan $50 juta untuk infrastruktur yang mendukung finality di bawah satu detik tanpa campur tangan manusia saat adopsi agen AI meningkat.",
+        "body": "Aptos Foundation dan Aptos Labs pada 8 Mei mengatakan akan mengucurkan $50 juta untuk pengembangan blockchain dan perluasan infrastruktur. Rencana ini berfokus pada penguatan sistem yang dapat memberi finality di bawah satu detik agar agen AI bisa menangani transaksi dan penyelesaian tanpa campur tangan manusia. Aptos menyebut finality cepat dan infrastruktur yang siap untuk otomasi sebagai kunci untuk mendukung gelombang berikutnya adopsi agen AI. Dana tersebut diperkirakan akan memperluas kapasitas pengembangan dan basis teknis ekosistem. Jadwal pelaksanaan dan rincian alokasi belum diungkapkan. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "9748c47a6032",
     "slug": "strategy-yield-etn-gives-uk-investors-exposure-to-bitcoin-gi-760557",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Bitmine Akan Perlambat Pembelian Ether, Tom Lee Sebut Target Dekat",
         "excerpt": "Tom Lee mengatakan Bitmine bisa mencapai target akumulasi 5% ether dalam enam minggu pada laju saat ini, lalu fokus ke staking dan buyback saham.",
         "body": "Bitmine diperkirakan akan memperlambat laju pembelian ether. Tom Lee mengatakan bahwa jika laju pembelian saat ini berlanjut, perusahaan treasury Ethereum miliknya dapat mencapai target akumulasi 5% dari seluruh ether dalam sekitar enam minggu. Bitmine selama ini menjadikan perluasan kepemilikan ether sebagai strategi utama, tetapi saat target semakin dekat, perusahaan terlihat akan mengalihkan fokus dari sekadar menambah pembelian ke pengelolaan aset yang sudah dimiliki. Menurut Lee, setelah target tercapai, perusahaan berencana lebih fokus pada staking ether dan pembelian kembali saham. Hal ini menunjukkan bahwa setelah strategi pembelian mencapai tingkat tertentu, fokus dapat bergeser ke peningkatan nilai pemegang saham dan pemanfaatan kepemilikan ether. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "80358aa95bc2",
-    "slug": "germany-weighs-2027-crypto-tax-overhaul-as-one-year-holding--181337",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T17:53:09.987Z",
-    "updatedAt": "2026-05-07T17:53:09.987Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/germany-signals-2027-crypto-tax-overhaul-one-year-holding-perk-under-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/germany-signals-2027-crypto-tax-overhaul-one-year-holding-perk-under-threat",
-    "titleFingerprint": "c83923a72f15bd5d5d03f5dd94e500aadf8cb396",
-    "dedupKeys": [
-      "80358aa95bc2bccdb44cd1d5e1f53cb8f6b31808",
-      "c83923a72f15bd5d5d03f5dd94e500aadf8cb396",
-      "debc51624f6f5eac22dfc08bb1a9f194b1dac0ce"
-    ],
-    "imageUrl": "/images/articles/80358aa95bc2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "독일 2027년 암호화폐 세제 개편 검토, 1년 비과세 규칙 흔들리나",
-        "excerpt": "독일이 2027년부터 암호화폐 세제 개편을 검토하며, 대표 제도인 1년 보유 후 비과세 규칙을 축소할 가능성이 제기됐다.",
-        "body": "독일이 2027년부터 암호화폐 과세 체계를 손질하는 방안을 검토하고 있다. 핵심은 개인 투자자가 암호화폐를 1년 이상 보유하면 매각 차익에 세금을 내지 않아도 되는 기존 규칙의 유지 여부다. 이 제도는 독일 암호화폐 투자 환경의 대표적 특징으로 꼽혀 왔지만, 정부가 과세 집행을 강화하고 추가 세수를 모색하면서 변화 가능성이 커졌다. 개편이 현실화되면 장기 보유 전략을 활용해 온 투자자들의 세금 부담과 거래 판단에 영향을 줄 수 있다. 다만 구체적인 세율, 적용 범위, 시행 방식은 아직 확정되지 않았다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Germany Eyes 2027 Crypto Tax Overhaul as One-Year Exemption Faces Risk",
-        "excerpt": "Germany may revise its crypto tax rules from 2027, putting its one-year tax-free holding rule under scrutiny as enforcement and revenue needs rise.",
-        "body": "Germany is considering changes to its cryptocurrency tax framework from 2027. The central issue is whether to preserve the current rule that lets individual investors sell crypto tax-free after holding it for more than one year. That policy has long been a defining feature of Germany’s crypto investment environment, but it may come under pressure as the government tightens tax enforcement and seeks additional revenue. If the overhaul moves ahead, it could affect tax burdens and trading decisions for investors who rely on long-term holding strategies. Specific tax rates, scope, and implementation details have not yet been finalized. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "ドイツ、2027年の暗号資産税制見直し検討 1年非課税ルールに焦点",
-        "excerpt": "ドイツは2027年から暗号資産税制の見直しを検討しており、1年以上保有後の非課税ルールが縮小される可能性が浮上している。",
-        "body": "ドイツは2027年から暗号資産の課税制度を見直す案を検討している。焦点は、個人投資家が暗号資産を1年以上保有した後に売却すれば売却益が非課税となる現行ルールを維持するかどうかだ。この制度はドイツの暗号資産投資環境を特徴づける仕組みとされてきたが、政府が税務執行を強化し、追加歳入を模索する中で変更の可能性が高まっている。見直しが実現すれば、長期保有戦略を利用してきた投資家の税負担や取引判断に影響する可能性がある。ただし、具体的な税率、適用範囲、実施方法はまだ確定していない。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "德国考虑2027年加密税改，一年持有免税规则面临压力",
-        "excerpt": "德国可能自2027年起调整加密货币税制，标志性的一年持有免税规则或被收紧，以加强执法并增加收入。",
-        "body": "德国正在考虑自2027年起调整加密货币税收框架。核心问题是，是否保留个人投资者持有加密货币超过一年后出售即可免缴资本利得税的现行规则。该制度长期被视为德国加密投资环境的一项代表性特征，但随着政府加强税收执行并寻求额外财政收入，规则调整的可能性正在上升。如果改革落地，依赖长期持有策略的投资者可能面临税负和交易决策方面的影响。不过，具体税率、适用范围和实施方式目前尚未确定。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Alemania evalúa una reforma fiscal cripto para 2027 y revisa la exención anual",
-        "excerpt": "Alemania podría reformar sus normas fiscales sobre criptomonedas desde 2027, con la regla de exención tras un año de tenencia bajo presión.",
-        "body": "Alemania está considerando modificar su marco fiscal para las criptomonedas a partir de 2027. El punto central es si mantendrá la norma actual que permite a los inversores particulares vender criptoactivos sin pagar impuestos sobre las ganancias si los han mantenido durante más de un año. Esta regla ha sido una característica distintiva del entorno de inversión cripto en Alemania, pero podría verse limitada mientras el gobierno refuerza la fiscalización y busca ingresos adicionales. Si la reforma avanza, podría afectar la carga fiscal y las decisiones de compraventa de quienes usan estrategias de tenencia a largo plazo. Las tasas, el alcance y la forma de aplicación aún no están definidos. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Alemanha avalia reforma tributária cripto em 2027 e mira regra de um ano",
-        "excerpt": "A Alemanha pode rever suas regras fiscais para criptomoedas a partir de 2027, colocando sob pressão a isenção após um ano de posse.",
-        "body": "A Alemanha está considerando mudanças em seu regime de tributação de criptomoedas a partir de 2027. O ponto central é se a regra atual será mantida: investidores individuais podem vender criptoativos sem pagar imposto sobre ganhos caso os tenham mantido por mais de um ano. Essa norma é vista há muito tempo como uma característica marcante do ambiente cripto alemão, mas pode ser reduzida enquanto o governo reforça a fiscalização e busca receita adicional. Se a reforma avançar, poderá afetar a carga tributária e as decisões de negociação de investidores que usam estratégias de longo prazo. Alíquotas, escopo e formato de implementação ainda não foram definidos. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Deutschland prüft Krypto-Steuerreform 2027: Ein-Jahres-Regel unter Druck",
-        "excerpt": "Deutschland könnte ab 2027 seine Krypto-Steuern überarbeiten und die steuerfreie Veräußerung nach einem Jahr Haltefrist einschränken.",
-        "body": "Deutschland prüft ab 2027 eine Überarbeitung der steuerlichen Regeln für Kryptowährungen. Im Mittelpunkt steht die Frage, ob die bisherige Regel bestehen bleibt, nach der private Anleger Kryptowährungen nach mehr als einem Jahr Haltedauer steuerfrei verkaufen können. Diese Regel gilt als prägendes Merkmal des deutschen Krypto-Investitionsumfelds, gerät jedoch unter Druck, da der Staat die Durchsetzung der Besteuerung verschärft und zusätzliche Einnahmen sucht. Sollte die Reform umgesetzt werden, könnten sich Steuerlast und Handelsentscheidungen für Anleger verändern, die auf langfristiges Halten setzen. Konkrete Steuersätze, Anwendungsbereiche und Umsetzungsdetails sind bislang nicht festgelegt. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "L’Allemagne envisage une réforme fiscale crypto en 2027, la règle d’un an menacée",
-        "excerpt": "L’Allemagne pourrait revoir sa fiscalité crypto dès 2027, avec une possible remise en cause de l’exonération après un an de détention.",
-        "body": "L’Allemagne étudie une refonte de son cadre fiscal applicable aux cryptomonnaies à partir de 2027. Le point central est le maintien ou non de la règle actuelle, qui permet aux investisseurs particuliers de vendre des cryptos sans impôt sur les gains après plus d’un an de détention. Ce dispositif est depuis longtemps une caractéristique majeure de l’environnement d’investissement crypto allemand, mais il pourrait être restreint alors que le gouvernement renforce le contrôle fiscal et cherche des recettes supplémentaires. Si la réforme aboutit, elle pourrait modifier la charge fiscale et les décisions de transaction des investisseurs misant sur la détention longue. Les taux, le périmètre et les modalités ne sont pas encore fixés. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "ألمانيا تدرس تعديل ضرائب العملات المشفرة في 2027 وقاعدة العام مهددة",
-        "excerpt": "قد تعيد ألمانيا صياغة قواعد ضرائب العملات المشفرة اعتبارا من 2027، مع احتمال تقليص إعفاء البيع بعد عام من الحيازة.",
-        "body": "تدرس ألمانيا إدخال تغييرات على إطارها الضريبي الخاص بالعملات المشفرة اعتبارا من عام 2027. وتتمحور المسألة حول ما إذا كانت ستبقي على القاعدة الحالية التي تسمح للمستثمرين الأفراد ببيع العملات المشفرة دون ضريبة على الأرباح بعد الاحتفاظ بها لأكثر من عام. وقد عُدت هذه القاعدة سمة بارزة لبيئة الاستثمار في العملات المشفرة داخل ألمانيا، لكنها باتت تحت ضغط مع تشديد الحكومة لإنفاذ الضرائب وسعيها إلى إيرادات إضافية. وإذا مضت الإصلاحات قد تتأثر الأعباء الضريبية وقرارات التداول للمستثمرين المعتمدين على استراتيجيات الحيازة الطويلة. ولم تُحسم بعد معدلات الضرائب أو نطاق التطبيق أو آلية التنفيذ. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "जर्मनी 2027 में क्रिप्टो टैक्स बदलाव पर विचार, एक साल छूट नियम पर दबाव",
-        "excerpt": "जर्मनी 2027 से क्रिप्टो टैक्स नियम बदल सकता है, जिससे एक साल तक होल्ड करने के बाद मिलने वाली टैक्स छूट सीमित हो सकती है।",
-        "body": "जर्मनी 2027 से क्रिप्टोकरेंसी कर व्यवस्था में बदलाव पर विचार कर रहा है। मुख्य मुद्दा यह है कि क्या मौजूदा नियम जारी रहेगा, जिसके तहत व्यक्तिगत निवेशक किसी क्रिप्टो संपत्ति को एक साल से अधिक रखने के बाद बेचने पर लाभ पर कर नहीं देते। यह नियम जर्मनी के क्रिप्टो निवेश माहौल की प्रमुख पहचान माना जाता रहा है, लेकिन सरकार कर प्रवर्तन कड़ा करने और अतिरिक्त राजस्व तलाशने के बीच इसमें बदलाव की संभावना बढ़ रही है। यदि सुधार लागू होता है, तो लंबी अवधि की होल्डिंग रणनीति अपनाने वाले निवेशकों के कर बोझ और ट्रेडिंग फैसलों पर असर पड़ सकता है। हालांकि कर दर, दायरा और लागू करने का तरीका अभी तय नहीं है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Jerman Kaji Reformasi Pajak Kripto 2027, Aturan Bebas Pajak Setahun Disorot",
-        "excerpt": "Jerman dapat mengubah aturan pajak kripto mulai 2027, termasuk kemungkinan membatasi bebas pajak setelah aset disimpan satu tahun.",
-        "body": "Jerman sedang mempertimbangkan perubahan kerangka pajak cryptocurrency mulai 2027. Isu utamanya adalah apakah aturan saat ini akan dipertahankan, yakni investor individu dapat menjual aset kripto tanpa pajak atas keuntungan setelah menyimpannya lebih dari satu tahun. Aturan ini lama menjadi ciri penting lingkungan investasi kripto di Jerman, tetapi peluang perubahan meningkat saat pemerintah memperketat penegakan pajak dan mencari pendapatan tambahan. Jika reformasi diterapkan, beban pajak dan keputusan transaksi investor yang mengandalkan strategi penyimpanan jangka panjang dapat terdampak. Namun tarif, cakupan, dan mekanisme penerapan belum ditetapkan. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "602239802dd0",
-    "slug": "panther-protocol-deploys-privacy-infrastructure-on-polygon-713830",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T17:52:08.011Z",
-    "updatedAt": "2026-05-07T17:52:08.011Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/press-releases/panther-protocol-deploys-privacy-infrastructure-on-polygon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/press-releases/panther-protocol-deploys-privacy-infrastructure-on-polygon",
-    "titleFingerprint": "bf3d3028c2a433f28e82329b8430eb5b6cc3822c",
-    "dedupKeys": [
-      "602239802dd07e2aa60e9d9dc5e0ef7251baf3df",
-      "bf3d3028c2a433f28e82329b8430eb5b6cc3822c",
-      "2123f11f7970856aa0cc1c7c4c81c1f6c16ebed7"
-    ],
-    "imageUrl": "/images/articles/602239802dd0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Panther Protocol, Polygon에 프라이버시 인프라 배포",
-        "excerpt": "Panther Protocol Foundation은 수년간의 연구, 엔지니어링, 커뮤니티 협업을 거쳐 Panther Protocol이 Polygon에서 가동을 시작했다고 발표했다.",
-        "body": "Panther Protocol Foundation은 수년간의 연구와 엔지니어링, 커뮤니티 협업을 거쳐 Panther Protocol이 Polygon에서 라이브 상태에 들어갔다고 발표했다. 이번 배포의 핵심은 Polygon 네트워크 위에 Panther Protocol의 프라이버시 인프라를 올린 것이다. 재단은 그동안 진행된 개발 과정과 커뮤니티 참여를 배경으로 이번 출시를 설명했다. Polygon 배포는 Panther Protocol이 실제 네트워크 환경에서 프라이버시 인프라를 제공하기 시작했다는 점에서 의미가 있다. 향후 평가는 Polygon 생태계에서 해당 인프라가 어떻게 활용되는지에 달려 있다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Panther Protocol Deploys Privacy Infrastructure on Polygon",
-        "excerpt": "Panther Protocol Foundation announced that Panther Protocol is now live on Polygon after years of research, engineering, and community collaboration.",
-        "body": "Panther Protocol Foundation announced that Panther Protocol is now live on Polygon after years of research, engineering, and community collaboration. The deployment places Panther Protocol’s privacy infrastructure on the Polygon network. The foundation framed the launch around the long development process and the role of community participation. The Polygon deployment is significant because it marks the start of Panther Protocol offering its privacy infrastructure in a live network environment. Future assessment will depend on how the infrastructure is used within the Polygon ecosystem. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "Panther Protocol、Polygonにプライバシー基盤を展開",
-        "excerpt": "Panther Protocol Foundationは、長年の研究、エンジニアリング、コミュニティ協力を経て、Panther ProtocolがPolygonで稼働開始したと発表した。",
-        "body": "Panther Protocol Foundationは、長年にわたる研究、エンジニアリング、コミュニティとの協力を経て、Panther ProtocolがPolygonでライブ稼働を開始したと発表した。今回の展開の中心は、Polygonネットワーク上にPanther Protocolのプライバシーインフラを配置した点にある。財団は、これまでの開発過程とコミュニティ参加を背景として今回のローンチを説明した。Polygonへの展開は、Panther Protocolが実際のネットワーク環境でプライバシーインフラを提供し始めたことを示す。今後の評価は、Polygonエコシステム内でこのインフラがどのように利用されるかに左右される。出典: cointelegraph.com。"
-      },
-      "zh": {
-        "title": "Panther Protocol在Polygon部署隐私基础设施",
-        "excerpt": "Panther Protocol Foundation宣布，经过多年研究、工程开发和社区协作，Panther Protocol现已在Polygon上线运行。",
-        "body": "Panther Protocol Foundation宣布，经过多年研究、工程开发和社区协作，Panther Protocol现已在Polygon上线运行。此次部署的核心，是将Panther Protocol的隐私基础设施部署在Polygon网络之上。基金会以长期开发过程和社区参与为背景说明了这次上线。Polygon部署的意义在于，Panther Protocol开始在真实网络环境中提供其隐私基础设施。后续评价将取决于该基础设施在Polygon生态系统中的实际使用方式。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Panther Protocol despliega infraestructura de privacidad en Polygon",
-        "excerpt": "Panther Protocol Foundation anunció que Panther Protocol ya está activo en Polygon tras años de investigación, ingeniería y colaboración comunitaria.",
-        "body": "Panther Protocol Foundation anunció que Panther Protocol ya está activo en Polygon tras años de investigación, ingeniería y colaboración con la comunidad. El punto central del despliegue es llevar la infraestructura de privacidad de Panther Protocol a la red Polygon. La fundación presentó el lanzamiento en el contexto del proceso de desarrollo realizado y de la participación comunitaria. El despliegue en Polygon es relevante porque marca el inicio de la oferta de esta infraestructura de privacidad en un entorno de red en vivo. Su evaluación futura dependerá de cómo se utilice dentro del ecosistema de Polygon. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Panther Protocol implanta infraestrutura de privacidade na Polygon",
-        "excerpt": "A Panther Protocol Foundation anunciou que o Panther Protocol já está ativo na Polygon após anos de pesquisa, engenharia e colaboração da comunidade.",
-        "body": "A Panther Protocol Foundation anunciou que o Panther Protocol já está ativo na Polygon após anos de pesquisa, engenharia e colaboração com a comunidade. O ponto central da implantação é colocar a infraestrutura de privacidade do Panther Protocol sobre a rede Polygon. A fundação apresentou o lançamento com base no processo de desenvolvimento realizado e na participação comunitária. A implantação na Polygon é relevante porque marca o início da oferta dessa infraestrutura de privacidade em um ambiente de rede ativo. A avaliação futura dependerá de como ela será usada dentro do ecossistema Polygon. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Panther Protocol startet Privacy-Infrastruktur auf Polygon",
-        "excerpt": "Die Panther Protocol Foundation gab bekannt, dass Panther Protocol nach Jahren der Forschung, Entwicklung und Community-Zusammenarbeit nun auf Polygon live ist.",
-        "body": "Die Panther Protocol Foundation gab bekannt, dass Panther Protocol nach Jahren der Forschung, Entwicklung und Zusammenarbeit mit der Community nun auf Polygon live ist. Im Mittelpunkt der Bereitstellung steht die Privacy-Infrastruktur von Panther Protocol auf dem Polygon-Netzwerk. Die Stiftung erklärte den Start mit Verweis auf den bisherigen Entwicklungsprozess und die Beteiligung der Community. Die Bereitstellung auf Polygon ist relevant, weil Panther Protocol damit beginnt, seine Privacy-Infrastruktur in einer aktiven Netzwerkumgebung anzubieten. Die weitere Bewertung hängt davon ab, wie diese Infrastruktur im Polygon-Ökosystem genutzt wird. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Panther Protocol déploie son infrastructure de confidentialité sur Polygon",
-        "excerpt": "La Panther Protocol Foundation a annoncé que Panther Protocol est désormais actif sur Polygon après des années de recherche, d’ingénierie et de collaboration communautaire.",
-        "body": "La Panther Protocol Foundation a annoncé que Panther Protocol est désormais actif sur Polygon après des années de recherche, d’ingénierie et de collaboration avec la communauté. Le cœur de ce déploiement consiste à installer l’infrastructure de confidentialité de Panther Protocol sur le réseau Polygon. La fondation a présenté ce lancement en s’appuyant sur le processus de développement mené jusqu’ici et sur la participation communautaire. Le déploiement sur Polygon est important car il marque le début de la mise à disposition de cette infrastructure dans un environnement réseau actif. Son évaluation dépendra de son utilisation dans l’écosystème Polygon. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "Panther Protocol تنشر بنية الخصوصية على شبكة Polygon",
-        "excerpt": "أعلنت Panther Protocol Foundation أن Panther Protocol أصبح يعمل على Polygon بعد سنوات من البحث والهندسة والتعاون مع المجتمع.",
-        "body": "أعلنت Panther Protocol Foundation أن Panther Protocol أصبح يعمل على Polygon بعد سنوات من البحث والعمل الهندسي والتعاون مع المجتمع. يتمثل جوهر هذا النشر في وضع بنية الخصوصية الخاصة بـ Panther Protocol على شبكة Polygon. وقد عرضت المؤسسة الإطلاق في سياق مسار التطوير السابق ومشاركة المجتمع. وتكمن أهمية النشر على Polygon في أنه يمثل بداية تقديم بنية الخصوصية الخاصة بالبروتوكول ضمن بيئة شبكة حية. وسيعتمد التقييم اللاحق على كيفية استخدام هذه البنية داخل منظومة Polygon. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Panther Protocol ने Polygon पर प्राइवेसी इन्फ्रास्ट्रक्चर तैनात किया",
-        "excerpt": "Panther Protocol Foundation ने घोषणा की कि वर्षों के शोध, इंजीनियरिंग और समुदाय सहयोग के बाद Panther Protocol अब Polygon पर लाइव है।",
-        "body": "Panther Protocol Foundation ने घोषणा की कि वर्षों के शोध, इंजीनियरिंग और समुदाय के सहयोग के बाद Panther Protocol अब Polygon पर लाइव हो गया है। इस तैनाती का मुख्य बिंदु Panther Protocol के प्राइवेसी इन्फ्रास्ट्रक्चर को Polygon नेटवर्क पर लाना है। फाउंडेशन ने इस लॉन्च को अब तक की विकास प्रक्रिया और समुदाय की भागीदारी के संदर्भ में प्रस्तुत किया। Polygon पर तैनाती इसलिए महत्वपूर्ण है क्योंकि Panther Protocol ने सक्रिय नेटवर्क वातावरण में अपना प्राइवेसी इन्फ्रास्ट्रक्चर उपलब्ध कराना शुरू किया है। आगे का आकलन इस बात पर निर्भर करेगा कि Polygon इकोसिस्टम में इसका उपयोग कैसे होता है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Panther Protocol Hadirkan Infrastruktur Privasi di Polygon",
-        "excerpt": "Panther Protocol Foundation mengumumkan bahwa Panther Protocol kini live di Polygon setelah bertahun-tahun riset, rekayasa, dan kolaborasi komunitas.",
-        "body": "Panther Protocol Foundation mengumumkan bahwa Panther Protocol kini live di Polygon setelah bertahun-tahun riset, rekayasa, dan kolaborasi dengan komunitas. Inti dari penerapan ini adalah menempatkan infrastruktur privasi Panther Protocol di atas jaringan Polygon. Foundation menjelaskan peluncuran tersebut dengan latar proses pengembangan yang telah berlangsung dan partisipasi komunitas. Penerapan di Polygon penting karena menandai dimulainya penyediaan infrastruktur privasi Panther Protocol dalam lingkungan jaringan yang aktif. Penilaian ke depan akan bergantung pada bagaimana infrastruktur ini digunakan dalam ekosistem Polygon. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "ee9bb7a6f7c1",
-    "slug": "crypto-polo-cup-returns-for-its-fourth-edition-in-palm-beach-694796",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-07T17:51:22.155Z",
-    "updatedAt": "2026-05-07T17:51:22.156Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/press-releases/crypto-polo-cup-returns-for-its-fourth-edition-in-palm-beach-during-consensus-miami-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/press-releases/crypto-polo-cup-returns-for-its-fourth-edition-in-palm-beach-during-consensus-miami-week",
-    "titleFingerprint": "c80bd9aa7e02e73b8b8f21f0901a3b027df8d6eb",
-    "dedupKeys": [
-      "ee9bb7a6f7c1d069b45709e23b226314af58b39c",
-      "c80bd9aa7e02e73b8b8f21f0901a3b027df8d6eb",
-      "ca73ee7d58014ac783cbaed09faaac7c025566a5"
-    ],
-    "imageUrl": "/images/articles/ee9bb7a6f7c1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "크립토 폴로 컵, 컨센서스 마이애미 주간 팜비치서 4회 개최",
-        "excerpt": "루나 PR이 주최하는 제4회 크립토 폴로 컵이 2026년 5월 9일 팜비치 산타클라라 폴로 클럽에서 컨센서스 마이애미 주간에 열린다.",
-        "body": "루나 PR이 주최하는 제4회 크립토 폴로 컵(CPC)이 2026년 5월 9일 미국 플로리다 팜비치의 산타클라라 폴로 클럽에서 열린다. 행사는 컨센서스 마이애미 주간에 맞춰 진행된다. CPC는 2022년 팜비치에서 시작된 초청제 행사로, 디지털 자산과 금융, 문화가 만나는 네트워킹 자리로 소개돼 왔다. 2026년 행사에는 500명 이상의 참석자가 예상되며 두 차례의 프로 폴로 경기가 포함된다. 이번 복귀는 업계 주요 행사 기간에 투자자와 창업자, 기관 리더가 만나는 장을 제공한다는 점에서 주목된다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Crypto Polo Cup Returns to Palm Beach During Consensus Miami Week",
-        "excerpt": "Hosted by Luna PR, the fourth Crypto Polo Cup will take place on May 9, 2026, at Santa Clara Polo Club in Palm Beach during Consensus Miami week.",
-        "body": "Hosted by Luna PR, the fourth Crypto Polo Cup (CPC) will take place on May 9, 2026, at Santa Clara Polo Club in Palm Beach, Florida. The event is scheduled alongside Consensus Miami week. CPC began in Palm Beach in 2022 and has been presented as an invitation-only gathering where digital assets, finance and culture meet. The 2026 edition is expected to welcome more than 500 guests and include two professional polo matches. Its return offers a setting for investors, founders and institutional leaders to connect during a major industry week. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "Crypto Polo Cup、Consensus Miami週にパームビーチで第4回開催へ",
-        "excerpt": "Luna PR主催の第4回Crypto Polo Cupは、2026年5月9日にパームビーチのSanta Clara Polo ClubでConsensus Miami週に開催される。",
-        "body": "Luna PRが主催する第4回Crypto Polo Cup（CPC）は、2026年5月9日に米フロリダ州パームビーチのSanta Clara Polo Clubで開催される。日程はConsensus Miamiの週に合わせられている。CPCは2022年にパームビーチで始まった招待制イベントで、デジタル資産、金融、文化が交差するネットワーキングの場として紹介されてきた。2026年版では500人超の参加者が見込まれ、2試合のプロポロマッチも予定されている。今回の復帰は、主要業界イベントの期間中に投資家、創業者、機関リーダーが交流する機会となる。出典: cointelegraph.com。"
-      },
-      "zh": {
-        "title": "Crypto Polo Cup将在Consensus Miami周重返棕榈滩举办第四届",
-        "excerpt": "由Luna PR主办的第四届Crypto Polo Cup将于2026年5月9日在棕榈滩Santa Clara Polo Club举行，时间配合Consensus Miami周。",
-        "body": "由Luna PR主办的第四届Crypto Polo Cup（CPC）将于2026年5月9日在美国佛罗里达州棕榈滩的Santa Clara Polo Club举行。活动安排在Consensus Miami周期间。CPC于2022年在棕榈滩首次举办，是一项邀请制活动，被定位为数字资产、金融与文化交汇的交流场景。2026年活动预计迎来500多名嘉宾，并包括两场职业马球比赛。此次回归为投资者、创始人和机构领导者在重要行业周期间建立联系提供了平台。来源: cointelegraph.com。"
-      },
-      "es": {
-        "title": "Crypto Polo Cup vuelve a Palm Beach durante Consensus Miami Week",
-        "excerpt": "Organizada por Luna PR, la cuarta edición de Crypto Polo Cup se celebrará el 9 de mayo de 2026 en Santa Clara Polo Club, Palm Beach, durante Consensus Miami.",
-        "body": "Organizada por Luna PR, la cuarta edición de Crypto Polo Cup (CPC) se celebrará el 9 de mayo de 2026 en Santa Clara Polo Club, en Palm Beach, Florida. El evento tendrá lugar durante la semana de Consensus Miami. CPC comenzó en Palm Beach en 2022 y se ha presentado como una cita solo por invitación donde convergen activos digitales, finanzas y cultura. La edición de 2026 prevé recibir a más de 500 invitados e incluirá dos partidos profesionales de polo. Su regreso ofrece un espacio para que inversores, fundadores y líderes institucionales se conecten durante una semana clave del sector. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Crypto Polo Cup volta a Palm Beach na semana do Consensus Miami",
-        "excerpt": "Organizada pela Luna PR, a quarta edição da Crypto Polo Cup acontecerá em 9 de maio de 2026 no Santa Clara Polo Club, em Palm Beach, durante o Consensus Miami.",
-        "body": "Organizada pela Luna PR, a quarta edição da Crypto Polo Cup (CPC) acontecerá em 9 de maio de 2026 no Santa Clara Polo Club, em Palm Beach, Flórida. O evento será realizado durante a semana do Consensus Miami. A CPC começou em Palm Beach em 2022 e tem sido apresentada como um encontro apenas para convidados onde ativos digitais, finanças e cultura se encontram. A edição de 2026 deve receber mais de 500 convidados e incluir duas partidas profissionais de polo. O retorno cria um ambiente para investidores, fundadores e líderes institucionais se conectarem durante uma semana importante do setor. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Crypto Polo Cup kehrt in der Consensus-Miami-Woche nach Palm Beach zurück",
-        "excerpt": "Luna PR richtet die vierte Ausgabe des Crypto Polo Cup am 9. Mai 2026 im Santa Clara Polo Club in Palm Beach während der Consensus-Miami-Woche aus.",
-        "body": "Der von Luna PR ausgerichtete vierte Crypto Polo Cup (CPC) findet am 9. Mai 2026 im Santa Clara Polo Club in Palm Beach, Florida, statt. Der Termin liegt in der Woche von Consensus Miami. CPC begann 2022 in Palm Beach und wird als Veranstaltung auf Einladung beschrieben, bei der digitale Vermögenswerte, Finanzwelt und Kultur zusammenkommen. Für die Ausgabe 2026 werden mehr als 500 Gäste erwartet; außerdem sind zwei professionelle Polospiele vorgesehen. Die Rückkehr bietet Investoren, Gründern und institutionellen Führungskräften während einer wichtigen Branchenwoche einen Rahmen zum Austausch. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Crypto Polo Cup revient à Palm Beach pendant la semaine Consensus Miami",
-        "excerpt": "Organisée par Luna PR, la quatrième Crypto Polo Cup aura lieu le 9 mai 2026 au Santa Clara Polo Club de Palm Beach pendant la semaine Consensus Miami.",
-        "body": "Organisée par Luna PR, la quatrième édition de la Crypto Polo Cup (CPC) aura lieu le 9 mai 2026 au Santa Clara Polo Club de Palm Beach, en Floride. L’événement est programmé pendant la semaine de Consensus Miami. La CPC a débuté à Palm Beach en 2022 et est présentée comme un rendez-vous sur invitation où se rencontrent actifs numériques, finance et culture. L’édition 2026 devrait accueillir plus de 500 invités et inclure deux matchs de polo professionnels. Ce retour offre un cadre de rencontre aux investisseurs, fondateurs et dirigeants institutionnels durant une semaine majeure du secteur. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "Crypto Polo Cup تعود إلى بالم بيتش خلال أسبوع Consensus Miami",
-        "excerpt": "تنظم Luna PR النسخة الرابعة من Crypto Polo Cup في 9 مايو 2026 في Santa Clara Polo Club في بالم بيتش، بالتزامن مع أسبوع Consensus Miami.",
-        "body": "تستضيف Luna PR النسخة الرابعة من Crypto Polo Cup (CPC) في 9 مايو 2026 في Santa Clara Polo Club في بالم بيتش بولاية فلوريدا. ويقام الحدث بالتزامن مع أسبوع Consensus Miami. انطلقت CPC في بالم بيتش عام 2022، وقد قُدمت كفعالية مخصصة للمدعوين تجمع بين الأصول الرقمية والتمويل والثقافة. ومن المتوقع أن تستقبل نسخة 2026 أكثر من 500 ضيف، مع تنظيم مباراتين احترافيتين في رياضة البولو. وتوفر عودة الحدث مساحة للمستثمرين والمؤسسين وقادة المؤسسات للتواصل خلال أسبوع مهم للقطاع. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Crypto Polo Cup, Consensus Miami सप्ताह में Palm Beach लौटेगा",
-        "excerpt": "Luna PR द्वारा आयोजित चौथा Crypto Polo Cup 9 मई 2026 को Palm Beach के Santa Clara Polo Club में Consensus Miami सप्ताह के दौरान होगा।",
-        "body": "Luna PR द्वारा आयोजित चौथा Crypto Polo Cup (CPC) 9 मई 2026 को अमेरिका के फ्लोरिडा स्थित Palm Beach के Santa Clara Polo Club में होगा। यह आयोजन Consensus Miami सप्ताह के साथ रखा गया है। CPC की शुरुआत 2022 में Palm Beach में हुई थी और इसे डिजिटल एसेट, वित्त और संस्कृति को जोड़ने वाला आमंत्रण-आधारित कार्यक्रम बताया गया है। 2026 संस्करण में 500 से अधिक मेहमानों के आने की उम्मीद है और इसमें दो पेशेवर पोलो मैच शामिल होंगे। इसकी वापसी निवेशकों, संस्थापकों और संस्थागत नेताओं को प्रमुख उद्योग सप्ताह के दौरान जुड़ने का मंच देती है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Crypto Polo Cup Kembali ke Palm Beach Saat Consensus Miami Week",
-        "excerpt": "Diselenggarakan Luna PR, edisi keempat Crypto Polo Cup akan digelar pada 9 Mei 2026 di Santa Clara Polo Club, Palm Beach, selama pekan Consensus Miami.",
-        "body": "Diselenggarakan oleh Luna PR, edisi keempat Crypto Polo Cup (CPC) akan berlangsung pada 9 Mei 2026 di Santa Clara Polo Club, Palm Beach, Florida. Acara ini dijadwalkan bersamaan dengan pekan Consensus Miami. CPC dimulai di Palm Beach pada 2022 dan dikenal sebagai acara berbasis undangan yang mempertemukan aset digital, keuangan, dan budaya. Edisi 2026 diperkirakan menyambut lebih dari 500 tamu serta menghadirkan dua pertandingan polo profesional. Kembalinya acara ini memberi ruang bagi investor, pendiri, dan pemimpin institusi untuk terhubung selama pekan industri utama. Sumber: cointelegraph.com."
       }
     }
   }
