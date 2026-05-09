@@ -1,0 +1,75 @@
+{
+  "id": "5b45d2aca3dd",
+  "slug": "gpu-중심-ai-모델은-한계no-gpu-기반-피지컬-ai-운영체제-만들-것-995673",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-09T22:33:18.851Z",
+  "updatedAt": "2026-05-09T22:33:18.851Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/202605071165i",
+  "canonicalUrl": "https://www.hankyung.com/article/202605071165i",
+  "titleFingerprint": "6d4c4d7dd0881c6438243a7cb542b9d45775b979",
+  "dedupKeys": [
+    "5b45d2aca3dd2aefcb9bbfa4b75e61d2fdfbc77c",
+    "6d4c4d7dd0881c6438243a7cb542b9d45775b979",
+    "81266c48e628517562fc55ae88ee78bf98dd7e4d"
+  ],
+  "imageUrl": "/images/articles/5b45d2aca3dd.jpg",
+  "i18n": {
+    "ko": {
+      "title": "NO GPU 피지컬 AI 운영체제 추진…페르소나AI가 말한 GPU 의존 한계",
+      "excerpt": "유승재 페르소나AI 대표는 6일 인터뷰에서 GPU 기반 AI의 비용·구조 한계를 지적하고, 로봇·산업 현장용 ‘NO GPU’ 피지컬 AI 운영체제 전략을 밝혔다.",
+      "body": "유승재 페르소나AI 대표는 6일 한국경제와의 인터뷰에서 GPU 중심 AI 모델은 비용과 구조 측면에서 한계가 있으며, 개별 디바이스에서 작동하려면 ‘NO GPU’가 필요하다고 밝혔다. 2017년 설립된 페르소나AI는 음성인식(STT)과 음성합성(TTS)을 기반으로 AI 컨택센터(AICC) 사업을 시작했으며, 지난해 매출 104억원을 기록했다. KB금융, 신한·우리·농협은행, 금융감독원, 서울시의회 등이 주요 고객으로 언급됐다. 매출의 30% 이상은 일회성 구축이 아닌 구독형 SaaS 수익에서 발생했다. 회사는 최근 로봇용 AI 운영체제와 온디바이스 AI로 영역을 넓히며, 생성형 AI를 결합한 피지컬 AI 확장을 추진하고 있다. 출처: hankyung.com"
+    },
+    "en": {
+      "title": "NO GPU Physical AI OS Push: PersonaAI Highlights Limits of GPU Reliance",
+      "excerpt": "PersonaAI CEO Yoo Seung-jae said in a May 6 interview that GPU-based AI faces cost and structural limits, outlining a ‘NO GPU’ physical AI OS strategy for robots and industrial sites.",
+      "body": "PersonaAI CEO Yoo Seung-jae said in an interview with The Korea Economic Daily on May 6 that GPU-centered AI models have limits in cost and structure, and that ‘NO GPU’ is needed for AI to run inside individual devices. Founded in 2017, PersonaAI began with an AI contact center business based on speech-to-text and text-to-speech technologies and posted revenue of 10.4 billion won last year. Its cited clients include KB Financial Group, Shinhan, Woori and NongHyup banks, the Financial Supervisory Service, and the Seoul Metropolitan Council. More than 30% of revenue came from subscription-based SaaS rather than one-time implementation fees. The company is now expanding into robot AI operating systems and on-device AI, pursuing physical AI that combines generative AI for use in robots and industrial settings. Source: hankyung.com"
+    },
+    "ja": {
+      "title": "NO GPU型フィジカルAI OSへ、PersonaAIが語るGPU依存の限界",
+      "excerpt": "PersonaAIのユ・スンジェ代表は5月6日のインタビューで、GPU基盤AIのコストと構造上の限界を指摘し、ロボット・産業現場向けの「NO GPU」フィジカルAI OS戦略を示した。",
+      "body": "PersonaAIのユ・スンジェ代表は5月6日、韓国経済新聞とのインタビューで、GPU中心のAIモデルにはコストと構造の面で限界があり、個別デバイス内で動作させるには「NO GPU」が必要だと述べた。2017年設立のPersonaAIは、音声認識（STT）と音声合成（TTS）を基盤にAIコンタクトセンター（AICC）事業を始め、昨年104億ウォンの売上高を記録した。KB金融、シンハン・ウリ・農協銀行、金融監督院、ソウル市議会などが主要顧客として挙げられている。売上の30%以上は一回限りの構築費ではなく、継続的なサブスクリプション型SaaS収益だった。現在はロボット用AI OSとオンデバイスAIへ領域を広げ、生成AIを組み合わせたフィジカルAIへの拡張を進めている。出典: hankyung.com"
+    },
+    "zh": {
+      "title": "NO GPU物理AI操作系统推进：PersonaAI指出GPU依赖局限",
+      "excerpt": "PersonaAI代表柳承宰在5月6日采访中指出，GPU型AI在成本和结构上存在局限，并提出面向机器人和工业现场的“NO GPU”物理AI操作系统战略。",
+      "body": "PersonaAI代表柳承宰5月6日在接受韩国经济新闻采访时表示，以GPU为中心的AI模型在成本和结构方面存在局限，若要在单个设备内运行，最终需要“NO GPU”。PersonaAI成立于2017年，最初以语音识别（STT）和语音合成（TTS）技术为基础开展AI联络中心（AICC）业务，去年实现销售额104亿韩元。报道提到的主要客户包括KB金融、新韩银行、友利银行、农协银行、金融监督院和首尔市议会等。其销售额30%以上来自持续性的订阅型SaaS收入，而非一次性建设费用。公司近期正把业务扩展到机器人AI操作系统和端侧AI，并推进结合生成式AI的物理AI应用。来源: hankyung.com"
+    },
+    "es": {
+      "title": "Sistema operativo de IA física ‘NO GPU’: PersonaAI expone límites del modelo GPU",
+      "excerpt": "Yoo Seung-jae, CEO de PersonaAI, dijo en una entrevista del 6 de mayo que la IA basada en GPU tiene límites de costo y estructura, y presentó una estrategia de IA física ‘NO GPU’ para robots e industria.",
+      "body": "Yoo Seung-jae, CEO de PersonaAI, afirmó en una entrevista con The Korea Economic Daily el 6 de mayo que los modelos de IA centrados en GPU tienen límites de costo y estructura, y que para funcionar dentro de dispositivos individuales será necesario un enfoque ‘NO GPU’. Fundada en 2017, PersonaAI comenzó con centros de contacto de IA basados en reconocimiento de voz (STT) y síntesis de voz (TTS), y registró ingresos de 10.400 millones de wones el año pasado. Entre sus clientes citados figuran KB Financial, los bancos Shinhan, Woori y NongHyup, el Servicio de Supervisión Financiera y el Consejo Metropolitano de Seúl. Más del 30% de sus ingresos provino de SaaS por suscripción, no de costes únicos de instalación. La empresa se expande ahora hacia sistemas operativos de IA para robots y AI en dispositivo, con el objetivo de desarrollar IA física combinada con IA generativa. Fuente: hankyung.com"
+    },
+    "pt": {
+      "title": "Sistema operacional de IA física ‘NO GPU’: PersonaAI aponta limites da dependência de GPU",
+      "excerpt": "Yoo Seung-jae, CEO da PersonaAI, afirmou em entrevista em 6 de maio que a IA baseada em GPU enfrenta limites de custo e estrutura, detalhando uma estratégia ‘NO GPU’ para robôs e ambientes industriais.",
+      "body": "Yoo Seung-jae, CEO da PersonaAI, disse em entrevista ao The Korea Economic Daily em 6 de maio que modelos de IA centrados em GPU têm limites de custo e estrutura, e que a operação dentro de dispositivos individuais exigirá uma abordagem ‘NO GPU’. Fundada em 2017, a PersonaAI iniciou sua atuação com contact centers de IA baseados em reconhecimento de fala (STT) e síntese de voz (TTS), registrando receita de 10,4 bilhões de won no ano passado. Entre os clientes citados estão KB Financial, os bancos Shinhan, Woori e NongHyup, o Serviço de Supervisão Financeira e o Conselho Metropolitano de Seul. Mais de 30% da receita veio de SaaS por assinatura, e não de implantação única. A empresa agora amplia sua atuação para sistemas operacionais de IA para robôs e IA on-device, buscando expandir a IA física combinada à IA generativa. Fonte: hankyung.com"
+    },
+    "de": {
+      "title": "NO-GPU-Betriebssystem für Physical AI: PersonaAI sieht Grenzen der GPU-Abhängigkeit",
+      "excerpt": "PersonaAI-Chef Yoo Seung-jae sagte in einem Interview am 6. Mai, GPU-basierte KI stoße bei Kosten und Struktur an Grenzen, und skizzierte eine ‘NO GPU’-Strategie für Roboter und Industrie.",
+      "body": "PersonaAI-CEO Yoo Seung-jae sagte am 6. Mai in einem Interview mit The Korea Economic Daily, GPU-zentrierte KI-Modelle hätten klare Grenzen bei Kosten und Struktur; für den Betrieb in einzelnen Geräten sei letztlich ein ‘NO GPU’-Ansatz nötig. Das 2017 gegründete Unternehmen startete mit KI-Contact-Centern auf Basis von Spracherkennung (STT) und Sprachsynthese (TTS) und erzielte im vergangenen Jahr 10,4 Milliarden Won Umsatz. Als wichtige Kunden wurden KB Financial, Shinhan, Woori und NongHyup Bank, die Finanzaufsicht sowie der Stadtrat von Seoul genannt. Mehr als 30% des Umsatzes stammten aus wiederkehrenden SaaS-Abonnements statt aus einmaligen Implementierungsgebühren. PersonaAI erweitert sich nun auf KI-Betriebssysteme für Roboter und On-Device-KI und treibt Physical AI mit generativer KI voran. Quelle: hankyung.com"
+    },
+    "fr": {
+      "title": "Système d’exploitation d’IA physique ‘NO GPU’ : PersonaAI souligne les limites du GPU",
+      "excerpt": "Yoo Seung-jae, PDG de PersonaAI, a déclaré le 6 mai que l’IA fondée sur les GPU atteint des limites de coût et de structure, en présentant une stratégie ‘NO GPU’ pour robots et sites industriels.",
+      "body": "Yoo Seung-jae, PDG de PersonaAI, a indiqué le 6 mai dans un entretien avec The Korea Economic Daily que les modèles d’IA centrés sur les GPU présentent des limites de coût et de structure, et qu’un fonctionnement dans des appareils individuels nécessitera une approche ‘NO GPU’. Fondée en 2017, PersonaAI a démarré avec des centres de contact IA basés sur la reconnaissance vocale (STT) et la synthèse vocale (TTS), et a réalisé 10,4 milliards de wons de chiffre d’affaires l’an dernier. KB Financial, les banques Shinhan, Woori et NongHyup, le Service de supervision financière et le Conseil métropolitain de Séoul figurent parmi les clients cités. Plus de 30% du chiffre d’affaires provenait de revenus SaaS par abonnement, et non de frais ponctuels de déploiement. L’entreprise s’étend désormais aux systèmes d’exploitation IA pour robots et à l’IA embarquée, en développant une IA physique associée à l’IA générative. Source: hankyung.com"
+    },
+    "ar": {
+      "title": "نظام تشغيل للذكاء الاصطناعي الفيزيائي بلا GPU: PersonaAI تبرز حدود الاعتماد على المعالجات الرسومية",
+      "excerpt": "قال يو سونغ-جاي، رئيس PersonaAI، في مقابلة يوم 6 مايو إن الذكاء الاصطناعي القائم على GPU يواجه حدودا في التكلفة والبنية، عارضا استراتيجية ‘NO GPU’ للروبوتات والمواقع الصناعية.",
+      "body": "قال يو سونغ-جاي، الرئيس التنفيذي لشركة PersonaAI، في مقابلة مع صحيفة Korea Economic Daily يوم 6 مايو إن نماذج الذكاء الاصطناعي المتمحورة حول GPU تواجه حدودا واضحة في التكلفة والبنية، وإن تشغيلها داخل الأجهزة الفردية يتطلب في النهاية نهجا ‘NO GPU’. تأسست PersonaAI في 2017 وبدأت بأعمال مراكز اتصال مدعومة بالذكاء الاصطناعي اعتمادا على التعرف إلى الكلام STT وتوليد الكلام TTS، وسجلت إيرادات بلغت 10.4 مليار وون في العام الماضي. ومن بين العملاء المذكورين KB Financial وبنوك Shinhan وWoori وNongHyup وهيئة الرقابة المالية ومجلس مدينة سيول. وجاء أكثر من 30% من الإيرادات من نموذج SaaS القائم على الاشتراك، لا من رسوم تنفيذ لمرة واحدة. وتتوسع الشركة الآن إلى أنظمة تشغيل ذكاء اصطناعي للروبوتات والذكاء الاصطناعي على الأجهزة، مع دفع الذكاء الاصطناعي الفيزيائي المدمج بالذكاء الاصطناعي التوليدي. المصدر: hankyung.com"
+    },
+    "hi": {
+      "title": "NO GPU फिजिकल AI ऑपरेटिंग सिस्टम पर जोर: PersonaAI ने GPU निर्भरता की सीमा बताई",
+      "excerpt": "PersonaAI के CEO Yoo Seung-jae ने 6 मई के इंटरव्यू में कहा कि GPU आधारित AI में लागत और संरचना की सीमाएं हैं, और रोबोट व औद्योगिक स्थलों के लिए ‘NO GPU’ फिजिकल AI OS रणनीति बताई।",
+      "body": "PersonaAI के CEO Yoo Seung-jae ने 6 मई को The Korea Economic Daily को दिए इंटरव्यू में कहा कि GPU-केंद्रित AI मॉडल लागत और संरचना के लिहाज से सीमाओं का सामना करते हैं, और अलग-अलग डिवाइस के अंदर चलाने के लिए अंततः ‘NO GPU’ जरूरी होगा। 2017 में स्थापित PersonaAI ने स्पीच रिकग्निशन (STT) और स्पीच सिंथेसिस (TTS) तकनीक पर आधारित AI कॉन्टैक्ट सेंटर (AICC) कारोबार से शुरुआत की और पिछले साल 10.4 अरब वॉन का राजस्व दर्ज किया। बताए गए प्रमुख ग्राहकों में KB Financial, Shinhan, Woori और NongHyup बैंक, Financial Supervisory Service और Seoul Metropolitan Council शामिल हैं। राजस्व का 30% से अधिक हिस्सा एकमुश्त निर्माण शुल्क के बजाय सब्सक्रिप्शन आधारित SaaS से आया। कंपनी अब रोबोट AI ऑपरेटिंग सिस्टम और ऑन-डिवाइस AI में विस्तार कर रही है, तथा जनरेटिव AI से जुड़े फिजिकल AI को आगे बढ़ा रही है। स्रोत: hankyung.com"
+    },
+    "id": {
+      "title": "Sistem Operasi Physical AI ‘NO GPU’: PersonaAI Soroti Batas Ketergantungan GPU",
+      "excerpt": "CEO PersonaAI Yoo Seung-jae mengatakan dalam wawancara 6 Mei bahwa AI berbasis GPU memiliki batas biaya dan struktur, serta memaparkan strategi physical AI ‘NO GPU’ untuk robot dan industri.",
+      "body": "CEO PersonaAI Yoo Seung-jae mengatakan dalam wawancara dengan The Korea Economic Daily pada 6 Mei bahwa model AI yang berpusat pada GPU memiliki batas dari sisi biaya dan struktur, dan agar berjalan di perangkat individual diperlukan pendekatan ‘NO GPU’. Didirikan pada 2017, PersonaAI memulai bisnis pusat kontak AI berbasis speech-to-text (STT) dan text-to-speech (TTS), lalu mencatat pendapatan 10,4 miliar won tahun lalu. Klien yang disebut mencakup KB Financial, bank Shinhan, Woori dan NongHyup, Financial Supervisory Service, serta Dewan Metropolitan Seoul. Lebih dari 30% pendapatan berasal dari SaaS berlangganan, bukan biaya implementasi sekali pakai. Perusahaan kini memperluas area ke sistem operasi AI untuk robot dan AI on-device, sambil mendorong physical AI yang menggabungkan AI generatif. Sumber: hankyung.com"
+    }
+  }
+}

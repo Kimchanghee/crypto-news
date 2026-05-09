@@ -1,5 +1,230 @@
 [
   {
+    "id": "5b45d2aca3dd",
+    "slug": "gpu-중심-ai-모델은-한계no-gpu-기반-피지컬-ai-운영체제-만들-것-995673",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T22:33:18.851Z",
+    "updatedAt": "2026-05-09T22:33:18.851Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605071165i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605071165i",
+    "titleFingerprint": "6d4c4d7dd0881c6438243a7cb542b9d45775b979",
+    "dedupKeys": [
+      "5b45d2aca3dd2aefcb9bbfa4b75e61d2fdfbc77c",
+      "6d4c4d7dd0881c6438243a7cb542b9d45775b979",
+      "81266c48e628517562fc55ae88ee78bf98dd7e4d"
+    ],
+    "imageUrl": "/images/articles/5b45d2aca3dd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "NO GPU 피지컬 AI 운영체제 추진…페르소나AI가 말한 GPU 의존 한계",
+        "excerpt": "유승재 페르소나AI 대표는 6일 인터뷰에서 GPU 기반 AI의 비용·구조 한계를 지적하고, 로봇·산업 현장용 ‘NO GPU’ 피지컬 AI 운영체제 전략을 밝혔다.",
+        "body": "유승재 페르소나AI 대표는 6일 한국경제와의 인터뷰에서 GPU 중심 AI 모델은 비용과 구조 측면에서 한계가 있으며, 개별 디바이스에서 작동하려면 ‘NO GPU’가 필요하다고 밝혔다. 2017년 설립된 페르소나AI는 음성인식(STT)과 음성합성(TTS)을 기반으로 AI 컨택센터(AICC) 사업을 시작했으며, 지난해 매출 104억원을 기록했다. KB금융, 신한·우리·농협은행, 금융감독원, 서울시의회 등이 주요 고객으로 언급됐다. 매출의 30% 이상은 일회성 구축이 아닌 구독형 SaaS 수익에서 발생했다. 회사는 최근 로봇용 AI 운영체제와 온디바이스 AI로 영역을 넓히며, 생성형 AI를 결합한 피지컬 AI 확장을 추진하고 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "NO GPU Physical AI OS Push: PersonaAI Highlights Limits of GPU Reliance",
+        "excerpt": "PersonaAI CEO Yoo Seung-jae said in a May 6 interview that GPU-based AI faces cost and structural limits, outlining a ‘NO GPU’ physical AI OS strategy for robots and industrial sites.",
+        "body": "PersonaAI CEO Yoo Seung-jae said in an interview with The Korea Economic Daily on May 6 that GPU-centered AI models have limits in cost and structure, and that ‘NO GPU’ is needed for AI to run inside individual devices. Founded in 2017, PersonaAI began with an AI contact center business based on speech-to-text and text-to-speech technologies and posted revenue of 10.4 billion won last year. Its cited clients include KB Financial Group, Shinhan, Woori and NongHyup banks, the Financial Supervisory Service, and the Seoul Metropolitan Council. More than 30% of revenue came from subscription-based SaaS rather than one-time implementation fees. The company is now expanding into robot AI operating systems and on-device AI, pursuing physical AI that combines generative AI for use in robots and industrial settings. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "NO GPU型フィジカルAI OSへ、PersonaAIが語るGPU依存の限界",
+        "excerpt": "PersonaAIのユ・スンジェ代表は5月6日のインタビューで、GPU基盤AIのコストと構造上の限界を指摘し、ロボット・産業現場向けの「NO GPU」フィジカルAI OS戦略を示した。",
+        "body": "PersonaAIのユ・スンジェ代表は5月6日、韓国経済新聞とのインタビューで、GPU中心のAIモデルにはコストと構造の面で限界があり、個別デバイス内で動作させるには「NO GPU」が必要だと述べた。2017年設立のPersonaAIは、音声認識（STT）と音声合成（TTS）を基盤にAIコンタクトセンター（AICC）事業を始め、昨年104億ウォンの売上高を記録した。KB金融、シンハン・ウリ・農協銀行、金融監督院、ソウル市議会などが主要顧客として挙げられている。売上の30%以上は一回限りの構築費ではなく、継続的なサブスクリプション型SaaS収益だった。現在はロボット用AI OSとオンデバイスAIへ領域を広げ、生成AIを組み合わせたフィジカルAIへの拡張を進めている。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "NO GPU物理AI操作系统推进：PersonaAI指出GPU依赖局限",
+        "excerpt": "PersonaAI代表柳承宰在5月6日采访中指出，GPU型AI在成本和结构上存在局限，并提出面向机器人和工业现场的“NO GPU”物理AI操作系统战略。",
+        "body": "PersonaAI代表柳承宰5月6日在接受韩国经济新闻采访时表示，以GPU为中心的AI模型在成本和结构方面存在局限，若要在单个设备内运行，最终需要“NO GPU”。PersonaAI成立于2017年，最初以语音识别（STT）和语音合成（TTS）技术为基础开展AI联络中心（AICC）业务，去年实现销售额104亿韩元。报道提到的主要客户包括KB金融、新韩银行、友利银行、农协银行、金融监督院和首尔市议会等。其销售额30%以上来自持续性的订阅型SaaS收入，而非一次性建设费用。公司近期正把业务扩展到机器人AI操作系统和端侧AI，并推进结合生成式AI的物理AI应用。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Sistema operativo de IA física ‘NO GPU’: PersonaAI expone límites del modelo GPU",
+        "excerpt": "Yoo Seung-jae, CEO de PersonaAI, dijo en una entrevista del 6 de mayo que la IA basada en GPU tiene límites de costo y estructura, y presentó una estrategia de IA física ‘NO GPU’ para robots e industria.",
+        "body": "Yoo Seung-jae, CEO de PersonaAI, afirmó en una entrevista con The Korea Economic Daily el 6 de mayo que los modelos de IA centrados en GPU tienen límites de costo y estructura, y que para funcionar dentro de dispositivos individuales será necesario un enfoque ‘NO GPU’. Fundada en 2017, PersonaAI comenzó con centros de contacto de IA basados en reconocimiento de voz (STT) y síntesis de voz (TTS), y registró ingresos de 10.400 millones de wones el año pasado. Entre sus clientes citados figuran KB Financial, los bancos Shinhan, Woori y NongHyup, el Servicio de Supervisión Financiera y el Consejo Metropolitano de Seúl. Más del 30% de sus ingresos provino de SaaS por suscripción, no de costes únicos de instalación. La empresa se expande ahora hacia sistemas operativos de IA para robots y AI en dispositivo, con el objetivo de desarrollar IA física combinada con IA generativa. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Sistema operacional de IA física ‘NO GPU’: PersonaAI aponta limites da dependência de GPU",
+        "excerpt": "Yoo Seung-jae, CEO da PersonaAI, afirmou em entrevista em 6 de maio que a IA baseada em GPU enfrenta limites de custo e estrutura, detalhando uma estratégia ‘NO GPU’ para robôs e ambientes industriais.",
+        "body": "Yoo Seung-jae, CEO da PersonaAI, disse em entrevista ao The Korea Economic Daily em 6 de maio que modelos de IA centrados em GPU têm limites de custo e estrutura, e que a operação dentro de dispositivos individuais exigirá uma abordagem ‘NO GPU’. Fundada em 2017, a PersonaAI iniciou sua atuação com contact centers de IA baseados em reconhecimento de fala (STT) e síntese de voz (TTS), registrando receita de 10,4 bilhões de won no ano passado. Entre os clientes citados estão KB Financial, os bancos Shinhan, Woori e NongHyup, o Serviço de Supervisão Financeira e o Conselho Metropolitano de Seul. Mais de 30% da receita veio de SaaS por assinatura, e não de implantação única. A empresa agora amplia sua atuação para sistemas operacionais de IA para robôs e IA on-device, buscando expandir a IA física combinada à IA generativa. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "NO-GPU-Betriebssystem für Physical AI: PersonaAI sieht Grenzen der GPU-Abhängigkeit",
+        "excerpt": "PersonaAI-Chef Yoo Seung-jae sagte in einem Interview am 6. Mai, GPU-basierte KI stoße bei Kosten und Struktur an Grenzen, und skizzierte eine ‘NO GPU’-Strategie für Roboter und Industrie.",
+        "body": "PersonaAI-CEO Yoo Seung-jae sagte am 6. Mai in einem Interview mit The Korea Economic Daily, GPU-zentrierte KI-Modelle hätten klare Grenzen bei Kosten und Struktur; für den Betrieb in einzelnen Geräten sei letztlich ein ‘NO GPU’-Ansatz nötig. Das 2017 gegründete Unternehmen startete mit KI-Contact-Centern auf Basis von Spracherkennung (STT) und Sprachsynthese (TTS) und erzielte im vergangenen Jahr 10,4 Milliarden Won Umsatz. Als wichtige Kunden wurden KB Financial, Shinhan, Woori und NongHyup Bank, die Finanzaufsicht sowie der Stadtrat von Seoul genannt. Mehr als 30% des Umsatzes stammten aus wiederkehrenden SaaS-Abonnements statt aus einmaligen Implementierungsgebühren. PersonaAI erweitert sich nun auf KI-Betriebssysteme für Roboter und On-Device-KI und treibt Physical AI mit generativer KI voran. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Système d’exploitation d’IA physique ‘NO GPU’ : PersonaAI souligne les limites du GPU",
+        "excerpt": "Yoo Seung-jae, PDG de PersonaAI, a déclaré le 6 mai que l’IA fondée sur les GPU atteint des limites de coût et de structure, en présentant une stratégie ‘NO GPU’ pour robots et sites industriels.",
+        "body": "Yoo Seung-jae, PDG de PersonaAI, a indiqué le 6 mai dans un entretien avec The Korea Economic Daily que les modèles d’IA centrés sur les GPU présentent des limites de coût et de structure, et qu’un fonctionnement dans des appareils individuels nécessitera une approche ‘NO GPU’. Fondée en 2017, PersonaAI a démarré avec des centres de contact IA basés sur la reconnaissance vocale (STT) et la synthèse vocale (TTS), et a réalisé 10,4 milliards de wons de chiffre d’affaires l’an dernier. KB Financial, les banques Shinhan, Woori et NongHyup, le Service de supervision financière et le Conseil métropolitain de Séoul figurent parmi les clients cités. Plus de 30% du chiffre d’affaires provenait de revenus SaaS par abonnement, et non de frais ponctuels de déploiement. L’entreprise s’étend désormais aux systèmes d’exploitation IA pour robots et à l’IA embarquée, en développant une IA physique associée à l’IA générative. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "نظام تشغيل للذكاء الاصطناعي الفيزيائي بلا GPU: PersonaAI تبرز حدود الاعتماد على المعالجات الرسومية",
+        "excerpt": "قال يو سونغ-جاي، رئيس PersonaAI، في مقابلة يوم 6 مايو إن الذكاء الاصطناعي القائم على GPU يواجه حدودا في التكلفة والبنية، عارضا استراتيجية ‘NO GPU’ للروبوتات والمواقع الصناعية.",
+        "body": "قال يو سونغ-جاي، الرئيس التنفيذي لشركة PersonaAI، في مقابلة مع صحيفة Korea Economic Daily يوم 6 مايو إن نماذج الذكاء الاصطناعي المتمحورة حول GPU تواجه حدودا واضحة في التكلفة والبنية، وإن تشغيلها داخل الأجهزة الفردية يتطلب في النهاية نهجا ‘NO GPU’. تأسست PersonaAI في 2017 وبدأت بأعمال مراكز اتصال مدعومة بالذكاء الاصطناعي اعتمادا على التعرف إلى الكلام STT وتوليد الكلام TTS، وسجلت إيرادات بلغت 10.4 مليار وون في العام الماضي. ومن بين العملاء المذكورين KB Financial وبنوك Shinhan وWoori وNongHyup وهيئة الرقابة المالية ومجلس مدينة سيول. وجاء أكثر من 30% من الإيرادات من نموذج SaaS القائم على الاشتراك، لا من رسوم تنفيذ لمرة واحدة. وتتوسع الشركة الآن إلى أنظمة تشغيل ذكاء اصطناعي للروبوتات والذكاء الاصطناعي على الأجهزة، مع دفع الذكاء الاصطناعي الفيزيائي المدمج بالذكاء الاصطناعي التوليدي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "NO GPU फिजिकल AI ऑपरेटिंग सिस्टम पर जोर: PersonaAI ने GPU निर्भरता की सीमा बताई",
+        "excerpt": "PersonaAI के CEO Yoo Seung-jae ने 6 मई के इंटरव्यू में कहा कि GPU आधारित AI में लागत और संरचना की सीमाएं हैं, और रोबोट व औद्योगिक स्थलों के लिए ‘NO GPU’ फिजिकल AI OS रणनीति बताई।",
+        "body": "PersonaAI के CEO Yoo Seung-jae ने 6 मई को The Korea Economic Daily को दिए इंटरव्यू में कहा कि GPU-केंद्रित AI मॉडल लागत और संरचना के लिहाज से सीमाओं का सामना करते हैं, और अलग-अलग डिवाइस के अंदर चलाने के लिए अंततः ‘NO GPU’ जरूरी होगा। 2017 में स्थापित PersonaAI ने स्पीच रिकग्निशन (STT) और स्पीच सिंथेसिस (TTS) तकनीक पर आधारित AI कॉन्टैक्ट सेंटर (AICC) कारोबार से शुरुआत की और पिछले साल 10.4 अरब वॉन का राजस्व दर्ज किया। बताए गए प्रमुख ग्राहकों में KB Financial, Shinhan, Woori और NongHyup बैंक, Financial Supervisory Service और Seoul Metropolitan Council शामिल हैं। राजस्व का 30% से अधिक हिस्सा एकमुश्त निर्माण शुल्क के बजाय सब्सक्रिप्शन आधारित SaaS से आया। कंपनी अब रोबोट AI ऑपरेटिंग सिस्टम और ऑन-डिवाइस AI में विस्तार कर रही है, तथा जनरेटिव AI से जुड़े फिजिकल AI को आगे बढ़ा रही है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Sistem Operasi Physical AI ‘NO GPU’: PersonaAI Soroti Batas Ketergantungan GPU",
+        "excerpt": "CEO PersonaAI Yoo Seung-jae mengatakan dalam wawancara 6 Mei bahwa AI berbasis GPU memiliki batas biaya dan struktur, serta memaparkan strategi physical AI ‘NO GPU’ untuk robot dan industri.",
+        "body": "CEO PersonaAI Yoo Seung-jae mengatakan dalam wawancara dengan The Korea Economic Daily pada 6 Mei bahwa model AI yang berpusat pada GPU memiliki batas dari sisi biaya dan struktur, dan agar berjalan di perangkat individual diperlukan pendekatan ‘NO GPU’. Didirikan pada 2017, PersonaAI memulai bisnis pusat kontak AI berbasis speech-to-text (STT) dan text-to-speech (TTS), lalu mencatat pendapatan 10,4 miliar won tahun lalu. Klien yang disebut mencakup KB Financial, bank Shinhan, Woori dan NongHyup, Financial Supervisory Service, serta Dewan Metropolitan Seoul. Lebih dari 30% pendapatan berasal dari SaaS berlangganan, bukan biaya implementasi sekali pakai. Perusahaan kini memperluas area ke sistem operasi AI untuk robot dan AI on-device, sambil mendorong physical AI yang menggabungkan AI generatif. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "42beff3c8463",
+    "slug": "엄마-나-내년엔-꼭-취업해서-효도할게금융권에-목매는-청년들-캥거루족-탈출기⑰-220711",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T22:32:03.997Z",
+    "updatedAt": "2026-05-09T22:32:03.997Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12042411",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042411",
+    "titleFingerprint": "290199a9c49e2cbfccb9262ec6970e7b4a7f90f3",
+    "dedupKeys": [
+      "42beff3c846325438e08d381f71c5adcd8cdc5a9",
+      "290199a9c49e2cbfccb9262ec6970e7b4a7f90f3",
+      "17a244b3b0e0273d12c43617ab73df7060471eb3"
+    ],
+    "imageUrl": "/images/articles/42beff3c8463.png",
+    "i18n": {
+      "ko": {
+        "title": "금융권 취업 열기 고조, 고물가·취업난 속 청년들의 생존 전략",
+        "excerpt": "고물가와 취업난이 이어지며 청년들이 고연봉·복지·안정성을 갖춘 금융권 취업에 몰리고 있다. 불안정한 환경에서 중산층 삶을 지키려는 선택으로 분석된다.",
+        "body": "고물가와 취업난이 겹친 가운데 청년들의 금융권 취업 열기가 높아지고 있다. mk.co.kr에 따르면 청년들은 금융권을 선택하는 주요 이유로 고연봉, 복지, 안정성을 꼽고 있다. 불안정한 경제·고용 환경 속에서 금융권 진입은 단순한 직업 선택을 넘어 중산층의 삶을 유지하거나 회복하기 위한 생존 전략으로 받아들여지고 있다. 인사팀은 채용 과정에서 전통적인 스펙보다 AI 적응력과 개인의 성장 서사를 더 중요하게 본다고 설명했다. 다만 금융권의 문턱은 여전히 높아 지원자들의 경쟁은 계속될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Finance Jobs Draw Young Applicants as Prices and Job Market Pressure Rise",
+        "excerpt": "Amid high prices and a tough job market, young people are turning to finance jobs for pay, benefits and stability, seeing the sector as a way to secure a middle-class life.",
+        "body": "As high prices and a difficult job market continue, young people are showing strong interest in entering the financial sector. According to mk.co.kr, applicants cite high salaries, benefits and stability as the three main reasons for targeting finance jobs. In an unstable economic and employment environment, entering finance is being viewed not just as a career choice but as a survival strategy to maintain or regain a middle-class life. HR teams say adaptability to AI and a personal growth narrative now matter more than traditional credentials. Still, the threshold for finance remains high, and competition among applicants is expected to continue. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "金融業界就職に若者が殺到、物価高と就職難が促す安定志向",
+        "excerpt": "物価高と就職難が続くなか、若者は高年収・福利厚生・安定性を求めて金融業界を志望している。中産層の生活を守る選択として注目される。",
+        "body": "物価高と就職難が重なるなか、若者の金融業界への就職熱が高まっている。mk.co.krによると、若者が金融業界を選ぶ主な理由は高年収、福利厚生、安定性の三つだ。不安定な経済・雇用環境のなかで、金融業界への進入は単なる職業選択を超え、中産層の生活を維持または回復するための生存戦略として受け止められている。人事担当者は、採用では従来のスペックよりAIへの適応力や本人の成長ストーリーが重要だと説明した。ただし金融業界の門戸は依然として狭く、志望者の競争は続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "金融业就业热升温，高物价与求职难下年轻人追求稳定",
+        "excerpt": "在高物价和就业困难持续的背景下，年轻人因高薪、福利和稳定性涌向金融业，将其视为守住中产生活的现实选择。",
+        "body": "在高物价和就业困难交织的情况下，年轻人进入金融业的热情正在升温。据mk.co.kr报道，年轻人选择金融业的主要理由是高薪、福利和稳定性。在不稳定的经济与就业环境中，进入金融业已不只是职业选择，也被视为维持或恢复中产生活的生存策略。人事团队表示，招聘中比起传统资历，更看重对AI的适应能力和个人成长叙事。不过，金融业门槛依然较高，求职者之间的竞争预计仍将持续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Empleo financiero atrae a jóvenes ante inflación alta y difícil mercado laboral",
+        "excerpt": "Con precios altos y escasez de empleo, los jóvenes buscan puestos en finanzas por salario, beneficios y estabilidad, como vía para sostener una vida de clase media.",
+        "body": "En medio de precios elevados y un mercado laboral difícil, crece el interés de los jóvenes por ingresar al sector financiero. Según mk.co.kr, los aspirantes señalan tres motivos principales: altos salarios, beneficios y estabilidad. En un entorno económico y laboral inestable, entrar en finanzas se interpreta no solo como una elección profesional, sino como una estrategia de supervivencia para mantener o recuperar una vida de clase media. Los equipos de recursos humanos explican que, en la selección, pesan más la adaptación a la IA y la historia de crecimiento personal que las credenciales tradicionales. Aun así, la barrera de entrada sigue siendo alta y la competencia continuará. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Vagas no setor financeiro atraem jovens em meio a preços altos e falta de emprego",
+        "excerpt": "Com inflação elevada e mercado de trabalho difícil, jovens miram o setor financeiro por salários, benefícios e estabilidade, buscando preservar uma vida de classe média.",
+        "body": "Com preços altos e dificuldades no mercado de trabalho, cresce entre os jovens o interesse por vagas no setor financeiro. Segundo o mk.co.kr, os candidatos apontam três razões centrais para essa escolha: salários elevados, benefícios e estabilidade. Em um ambiente econômico e profissional instável, entrar no setor financeiro é visto não apenas como uma decisão de carreira, mas como uma estratégia de sobrevivência para manter ou recuperar uma vida de classe média. Equipes de RH afirmam que a adaptação à IA e a narrativa de crescimento pessoal pesam mais do que credenciais tradicionais. Ainda assim, a barreira de entrada permanece alta e a disputa deve continuar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Finanzjobs locken junge Bewerber in Zeiten hoher Preise und schwieriger Jobsuche",
+        "excerpt": "Hohe Preise und ein angespannter Arbeitsmarkt treiben junge Menschen in Richtung Finanzbranche. Gehalt, Sozialleistungen und Stabilität gelten als zentrale Gründe.",
+        "body": "Angesichts hoher Preise und einer schwierigen Jobsuche wächst unter jungen Menschen das Interesse an einer Beschäftigung in der Finanzbranche. Laut mk.co.kr nennen Bewerber vor allem drei Gründe: hohe Gehälter, Sozialleistungen und Stabilität. In einem unsicheren Wirtschafts- und Beschäftigungsumfeld wird der Einstieg in die Finanzbranche nicht nur als Berufswahl verstanden, sondern als Strategie, ein Leben in der Mittelschicht zu sichern oder zurückzugewinnen. Personalabteilungen erklären, dass bei der Auswahl Anpassungsfähigkeit an KI und eine persönliche Wachstumsgeschichte wichtiger werden als klassische Qualifikationen. Die Einstiegshürde bleibt jedoch hoch, sodass der Wettbewerb weitergehen dürfte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les emplois financiers séduisent les jeunes face aux prix élevés et au chômage",
+        "excerpt": "Avec la hausse des prix et un marché du travail difficile, les jeunes visent la finance pour les salaires, les avantages et la stabilité, afin de préserver une vie de classe moyenne.",
+        "body": "Alors que les prix restent élevés et que le marché de l’emploi est difficile, l’intérêt des jeunes pour le secteur financier augmente. Selon mk.co.kr, les candidats citent trois raisons principales: les hauts salaires, les avantages sociaux et la stabilité. Dans un environnement économique et professionnel instable, entrer dans la finance n’est pas seulement un choix de carrière, mais aussi une stratégie de survie pour maintenir ou retrouver une vie de classe moyenne. Les équipes RH indiquent que l’adaptation à l’IA et le récit de progression personnelle comptent davantage que les profils traditionnels. Toutefois, le seuil d’entrée reste élevé et la concurrence devrait se poursuivre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "وظائف القطاع المالي تجذب الشباب وسط ارتفاع الأسعار وصعوبة التوظيف",
+        "excerpt": "مع استمرار ارتفاع الأسعار وصعوبة الحصول على وظيفة، يتجه الشباب إلى القطاع المالي بحثا عن الرواتب المرتفعة والمزايا والاستقرار كسبيل للحفاظ على حياة الطبقة الوسطى.",
+        "body": "في ظل ارتفاع الأسعار وصعوبة سوق العمل، تزداد رغبة الشباب في دخول القطاع المالي. وبحسب mk.co.kr، يذكر المتقدمون ثلاثة أسباب رئيسية لاختيار هذا القطاع: الرواتب المرتفعة، والمزايا، والاستقرار. وفي بيئة اقتصادية ووظيفية غير مستقرة، لم يعد دخول القطاع المالي مجرد اختيار مهني، بل أصبح استراتيجية للبقاء والحفاظ على حياة الطبقة الوسطى أو استعادتها. وتوضح فرق الموارد البشرية أن القدرة على التكيف مع الذكاء الاصطناعي وسردية النمو الشخصي أصبحت أكثر أهمية من المؤهلات التقليدية. ومع ذلك، لا يزال حاجز الدخول إلى القطاع المالي مرتفعا، ومن المتوقع استمرار المنافسة بين المتقدمين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "महंगाई और रोजगार संकट के बीच युवाओं में वित्तीय क्षेत्र की नौकरियों का आकर्षण",
+        "excerpt": "ऊंची महंगाई और कठिन रोजगार बाजार के बीच युवा ऊंचे वेतन, लाभ और स्थिरता के लिए वित्तीय क्षेत्र की ओर जा रहे हैं, इसे मध्यमवर्गीय जीवन बचाने की रणनीति मानते हुए।",
+        "body": "ऊंची महंगाई और रोजगार की कठिन परिस्थितियों के बीच युवाओं में वित्तीय क्षेत्र में नौकरी पाने की चाह बढ़ रही है। mk.co.kr के अनुसार, युवा इस क्षेत्र को चुनने के तीन मुख्य कारण बताते हैं: ऊंचा वेतन, बेहतर लाभ और स्थिरता। अस्थिर आर्थिक और रोजगार माहौल में वित्तीय क्षेत्र में प्रवेश केवल करियर विकल्प नहीं रहा, बल्कि मध्यमवर्गीय जीवन को बनाए रखने या फिर से हासिल करने की जीवित रहने की रणनीति के रूप में देखा जा रहा है। मानव संसाधन टीमें कहती हैं कि भर्ती में पारंपरिक योग्यता से अधिक AI के अनुकूल ढलने की क्षमता और व्यक्तिगत विकास की कहानी महत्वपूर्ण हो रही है। फिर भी वित्तीय क्षेत्र की दहलीज ऊंची है और प्रतिस्पर्धा जारी रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pekerjaan Keuangan Diburu Anak Muda Saat Harga Tinggi dan Pasar Kerja Sulit",
+        "excerpt": "Di tengah harga tinggi dan sulitnya mencari kerja, anak muda membidik sektor keuangan karena gaji, tunjangan, dan stabilitas, sebagai cara menjaga hidup kelas menengah.",
+        "body": "Di tengah harga yang tinggi dan pasar kerja yang sulit, minat anak muda untuk masuk ke sektor keuangan terus meningkat. Menurut mk.co.kr, pelamar menyebut tiga alasan utama memilih sektor ini: gaji tinggi, tunjangan, dan stabilitas. Dalam lingkungan ekonomi dan pekerjaan yang tidak stabil, masuk ke sektor keuangan dipandang bukan sekadar pilihan karier, tetapi strategi bertahan untuk mempertahankan atau memulihkan kehidupan kelas menengah. Tim HR menjelaskan bahwa dalam rekrutmen, kemampuan beradaptasi dengan AI dan narasi pertumbuhan pribadi kini lebih penting daripada spesifikasi tradisional. Namun, ambang masuk sektor keuangan tetap tinggi, sehingga persaingan pelamar diperkirakan berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c36c8b0fc59e",
+    "slug": "strategy-ceo-phong-le-says-company-will-sell-btc-only-in-spe-292719",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T22:31:06.963Z",
+    "updatedAt": "2026-05-09T22:31:06.963Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc",
+    "titleFingerprint": "dbe0a790c9db7308ac3e1430f7382bcdc24f5d7f",
+    "dedupKeys": [
+      "c36c8b0fc59eccd9a5dd8cd4ed80c718f9c2a23f",
+      "dbe0a790c9db7308ac3e1430f7382bcdc24f5d7f",
+      "b3999ba65a5ab0c57872b12e210fc914781f6794"
+    ],
+    "imageUrl": "/images/articles/c36c8b0fc59e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Strategy CEO “특정 경우에만 BTC 매각”…시장 영향 제한 강조",
+        "excerpt": "Strategy CEO 퐁 레는 회사가 비트코인을 특정한 경우에만 매각할 것이라며, 최대 공급량의 4% 이상을 보유해도 매각이 시장을 움직이지 않을 것이라고 밝혔다.",
+        "body": "Strategy의 CEO 퐁 레는 회사가 보유한 비트코인을 특정한 경우에만 매각할 것이라고 밝혔다. 그는 회사가 비트코인 최대 공급량의 4% 이상을 보유하고 있음에도, 향후 매각이 시장을 움직일 수준은 아니라고 설명했다. Strategy의 대규모 BTC 보유는 시장 참여자들이 주목해 온 사안이다. 이번 발언은 회사의 매각 가능성이 전면적 유동화가 아니라 제한적 상황에 묶여 있다는 점을 분명히 한 것이다. 투자자들은 Strategy의 보유 규모와 매각 조건이 비트코인 수급 인식에 어떤 영향을 줄지 지켜볼 전망이다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Strategy CEO Says BTC Sales Only in Specific Cases, Market Impact Limited",
+        "excerpt": "Strategy CEO Phong Le said the company would sell Bitcoin only in specific cases and that any sales would not move markets despite its holding of over 4% of maximum supply.",
+        "body": "Strategy CEO Phong Le said the company would sell its Bitcoin only in specific cases. He explained that even though Strategy owns more than 4% of Bitcoin’s maximum supply, any future sales would not be large enough to move the market. The company’s sizable BTC holdings have long been watched by market participants. Le’s remarks clarify that potential sales are tied to limited circumstances rather than a broad liquidation plan. Investors are likely to monitor how Strategy’s holding size and stated sale conditions shape perceptions of Bitcoin supply and demand. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "Strategy CEO、BTC売却は特定の場合のみ 市場影響は限定的と強調",
+        "excerpt": "Strategyのフォン・リーCEOは、同社がビットコインを売却するのは特定の場合に限られ、最大供給量の4%超を保有していても市場は動かさないと述べた。",
+        "body": "Strategyのフォン・リーCEOは、同社が保有するビットコインを売却するのは特定の場合に限られると述べた。同氏は、Strategyがビットコイン最大供給量の4%超を保有しているにもかかわらず、将来の売却が市場を動かす規模にはならないと説明した。同社の大規模なBTC保有は市場参加者の注目を集めてきた。今回の発言は、売却の可能性が全面的な換金ではなく、限定された状況に結び付いていることを明確にしたものだ。投資家は、Strategyの保有規模と売却条件がビットコインの需給認識にどう影響するかを見守るとみられる。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "Strategy CEO称仅在特定情况下出售BTC，强调市场影响有限",
+        "excerpt": "Strategy首席执行官Phong Le表示，公司只会在特定情况下出售比特币，即使持有超过最大供应量4%的BTC，出售也不会推动市场波动。",
+        "body": "Strategy首席执行官Phong Le表示，公司只会在特定情况下出售其持有的比特币。他解释称，尽管Strategy持有超过比特币最大供应量4%的份额，未来出售也不会达到足以推动市场的规模。该公司的大规模BTC持仓一直受到市场参与者关注。此次表态明确了潜在出售并非全面变现计划，而是与有限情形相关。投资者预计将继续关注Strategy的持仓规模和出售条件如何影响市场对比特币供需的认知。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "CEO de Strategy: venta de BTC solo en casos específicos y sin mover mercado",
+        "excerpt": "Phong Le, CEO de Strategy, dijo que la empresa venderá Bitcoin solo en casos específicos y que sus ventas no moverán el mercado pese a poseer más del 4% del suministro máximo.",
+        "body": "Phong Le, CEO de Strategy, dijo que la empresa venderá el Bitcoin que posee solo en casos específicos. Explicó que, aunque Strategy posee más del 4% del suministro máximo de Bitcoin, las ventas futuras no serían lo bastante grandes como para mover el mercado. Las importantes tenencias de BTC de la compañía han sido observadas por los participantes del mercado. Sus declaraciones aclaran que una posible venta estaría ligada a circunstancias limitadas, no a un plan amplio de liquidación. Los inversores seguirán atentos a cómo el tamaño de la posición de Strategy y sus condiciones de venta influyen en la percepción de oferta y demanda de Bitcoin. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "CEO da Strategy: venda de BTC só em casos específicos e sem mover mercado",
+        "excerpt": "Phong Le, CEO da Strategy, disse que a empresa venderá Bitcoin apenas em casos específicos e que as vendas não moverão o mercado, apesar de deter mais de 4% da oferta máxima.",
+        "body": "Phong Le, CEO da Strategy, disse que a empresa venderá o Bitcoin que possui apenas em casos específicos. Ele explicou que, embora a Strategy detenha mais de 4% da oferta máxima de Bitcoin, futuras vendas não teriam tamanho suficiente para mover o mercado. As grandes reservas de BTC da companhia vêm sendo acompanhadas por participantes do mercado. A declaração esclarece que uma possível venda estaria vinculada a circunstâncias limitadas, e não a um plano amplo de liquidação. Investidores devem observar como o volume detido pela Strategy e suas condições de venda afetam a percepção sobre oferta e demanda de Bitcoin. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Strategy-CEO: BTC-Verkäufe nur in Sonderfällen, Markteinfluss begrenzt",
+        "excerpt": "Strategy-CEO Phong Le sagte, das Unternehmen werde Bitcoin nur in bestimmten Fällen verkaufen; trotz mehr als 4% der maximalen BTC-Menge würden Verkäufe den Markt nicht bewegen.",
+        "body": "Strategy-CEO Phong Le sagte, das Unternehmen werde seine Bitcoin-Bestände nur in bestimmten Fällen verkaufen. Er erklärte, dass Strategy zwar mehr als 4% der maximalen Bitcoin-Menge besitzt, künftige Verkäufe aber nicht groß genug wären, um den Markt zu bewegen. Die umfangreichen BTC-Bestände des Unternehmens stehen seit Langem im Blick der Marktteilnehmer. Die Aussage macht deutlich, dass mögliche Verkäufe an begrenzte Umstände gebunden sind und keinen breiten Liquidationsplan darstellen. Anleger dürften beobachten, wie die Bestandsgröße von Strategy und die genannten Verkaufsbedingungen die Wahrnehmung von Angebot und Nachfrage bei Bitcoin beeinflussen. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Le CEO de Strategy limite les ventes de BTC à des cas précis",
+        "excerpt": "Phong Le, CEO de Strategy, a déclaré que l’entreprise ne vendrait du Bitcoin que dans des cas précis et que ces ventes ne feraient pas bouger le marché malgré plus de 4% de l’offre maximale.",
+        "body": "Phong Le, CEO de Strategy, a déclaré que l’entreprise ne vendrait ses Bitcoins que dans des cas précis. Il a expliqué que, même si Strategy détient plus de 4% de l’offre maximale de Bitcoin, d’éventuelles ventes ne seraient pas assez importantes pour faire bouger le marché. Les importants avoirs en BTC de la société sont suivis de près par les acteurs du marché. Cette déclaration précise qu’une vente potentielle serait liée à des circonstances limitées, et non à un vaste plan de liquidation. Les investisseurs devraient surveiller la manière dont la taille des avoirs de Strategy et ses conditions de vente influencent la perception de l’offre et de la demande de Bitcoin. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "الرئيس التنفيذي لـStrategy: بيع BTC فقط في حالات محددة وتأثيره محدود",
+        "excerpt": "قال فونغ لي، الرئيس التنفيذي لـStrategy، إن الشركة لن تبيع بيتكوين إلا في حالات محددة، وإن المبيعات لن تحرك السوق رغم امتلاكها أكثر من 4% من الحد الأقصى للمعروض.",
+        "body": "قال فونغ لي، الرئيس التنفيذي لـStrategy، إن الشركة لن تبيع ما تملكه من بيتكوين إلا في حالات محددة. وأوضح أنه رغم امتلاك Strategy أكثر من 4% من الحد الأقصى لمعروض بيتكوين، فإن أي مبيعات مستقبلية لن تكون بالحجم الكافي لتحريك السوق. وتعد حيازات الشركة الكبيرة من BTC موضع متابعة من المشاركين في السوق. وتوضح هذه التصريحات أن احتمال البيع مرتبط بظروف محدودة، وليس بخطة تسييل واسعة. ومن المتوقع أن يراقب المستثمرون كيف يؤثر حجم حيازة Strategy وشروط البيع المعلنة في تصور العرض والطلب على بيتكوين. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Strategy CEO: BTC बिक्री केवल खास मामलों में, बाजार प्रभाव सीमित",
+        "excerpt": "Strategy के CEO Phong Le ने कहा कि कंपनी Bitcoin केवल खास मामलों में बेचेगी और अधिकतम आपूर्ति के 4% से ज्यादा होल्डिंग के बावजूद बिक्री बाजार को नहीं हिलाएगी।",
+        "body": "Strategy के CEO Phong Le ने कहा कि कंपनी अपने पास मौजूद Bitcoin को केवल खास मामलों में बेचेगी। उन्होंने बताया कि Strategy के पास Bitcoin की अधिकतम आपूर्ति के 4% से ज्यादा हिस्सेदारी होने के बावजूद, भविष्य की बिक्री बाजार को प्रभावित करने लायक बड़ी नहीं होगी। कंपनी की बड़ी BTC होल्डिंग पर बाजार भागीदार लंबे समय से नजर रखे हुए हैं। यह बयान स्पष्ट करता है कि संभावित बिक्री व्यापक लिक्विडेशन योजना नहीं, बल्कि सीमित परिस्थितियों से जुड़ी होगी। निवेशक देखेंगे कि Strategy की होल्डिंग का आकार और बिक्री की शर्तें Bitcoin की आपूर्ति और मांग की धारणा को कैसे प्रभावित करती हैं। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "CEO Strategy: Penjualan BTC Hanya Kasus Tertentu, Dampak Pasar Terbatas",
+        "excerpt": "CEO Strategy Phong Le mengatakan perusahaan hanya akan menjual Bitcoin dalam kasus tertentu, dan penjualan tidak akan menggerakkan pasar meski memegang lebih dari 4% pasokan maksimum.",
+        "body": "CEO Strategy Phong Le mengatakan perusahaan hanya akan menjual Bitcoin yang dimilikinya dalam kasus tertentu. Ia menjelaskan bahwa meski Strategy memegang lebih dari 4% pasokan maksimum Bitcoin, penjualan di masa depan tidak akan cukup besar untuk menggerakkan pasar. Kepemilikan BTC perusahaan yang besar telah lama diperhatikan pelaku pasar. Pernyataan ini menegaskan bahwa potensi penjualan terkait dengan keadaan terbatas, bukan rencana likuidasi luas. Investor kemungkinan akan memantau bagaimana ukuran kepemilikan Strategy dan syarat penjualannya memengaruhi persepsi pasokan dan permintaan Bitcoin. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "cbf993137d7b",
     "slug": "알지노믹스-간암-치료제-rz-001-fda-첨단재생의학치료제-지정-152844",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "DeFi Amerika Latin Makin Diakui sebagai Alat Keuangan Sah",
         "excerpt": "Serrano menjelaskan DeFi diam-diam bergerak dari eksperimen kripto niche menjadi alat keuangan praktis di seluruh Amerika Latin.",
         "body": "DeFi sedang mengubah lanskap keuangan di Amerika Latin. Serrano menjelaskan bahwa tren ini tidak lagi terbatas pada penggunaan kripto secara eksperimental oleh sebagian pengguna, tetapi perlahan bergerak menuju pengakuan sebagai alat keuangan yang sah di seluruh kawasan. Latar belakangnya adalah perubahan cara DeFi didekati dibandingkan layanan keuangan tradisional. Artikel asli lebih menyoroti “peralihan yang tenang” daripada angka tertentu, dengan mencatat bahwa DeFi berkembang dari wilayah niche menjadi sarana keuangan yang dapat digunakan. Seiring perubahan persepsi ini, peran DeFi di pasar keuangan Amerika Latin diperkirakan akan semakin mendapat perhatian. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "36df0398c0ab",
-    "slug": "layerzero-says-it-made-a-mistake-in-292-million-kelp-exploit-564760",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T14:17:51.304Z",
-    "updatedAt": "2026-05-09T14:17:51.304Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
-    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
-    "titleFingerprint": "10a32c6de4f0955ce3a31fdd38bc9fa11992f5b0",
-    "dedupKeys": [
-      "36df0398c0ab602b13c53f686b4ce6057b91bf2c",
-      "10a32c6de4f0955ce3a31fdd38bc9fa11992f5b0",
-      "a48595e83401124a5a0b1dad26f57ebd3b2eb559"
-    ],
-    "imageUrl": "/images/articles/36df0398c0ab.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LayerZero, 2억9200만달러 Kelp 익스플로잇서 ‘실수’ 인정",
-        "excerpt": "LayerZero는 Kelp 관련 2억9200만달러 익스플로잇을 두고 개발자 설정 실패로 설명한 초기 입장을 바꿔, 취약한 구조에서 자체 검증자에 고액 전송 보안을 맡긴 결정의 책임을 인정했다.",
-        "body": "LayerZero는 Kelp 관련 2억9200만달러 규모 익스플로잇에 대해 “실수했다”고 밝혔다. 회사는 처음에는 이번 사고를 개발자 구성 설정 실패로 설명했지만, 이후 취약한 설정에서 자체 검증자가 고액 전송을 보호하도록 허용한 결정은 자신들이 책임져야 한다고 인정했다. 이번 사안의 핵심은 단순한 개별 개발자 오류가 아니라, 고가치 전송을 어떤 검증 구조로 보호했는지에 대한 판단 문제로 옮겨갔다. LayerZero의 입장 변화는 보안 책임 범위와 검증자 구성의 중요성을 다시 부각시킨다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "LayerZero Admits ‘Mistake’ in $292 Million Kelp Exploit",
-        "excerpt": "LayerZero changed its initial explanation of the $292 million Kelp exploit, saying it owns the decision to let its own verifier secure high-value transfers in a vulnerable setup.",
-        "body": "LayerZero said it “made a mistake” in the $292 million Kelp-related exploit. The company initially described the incident as a developer configuration failure, but later acknowledged that it owns the decision to allow its own verifier to secure high-value transfers in a vulnerable setup. The focus of the issue has therefore shifted from a single developer error to the judgment behind the verification structure used for valuable transfers. LayerZero’s changed stance highlights the scope of security responsibility and the importance of verifier configuration. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "LayerZero、2億9200万ドルのKelpエクスプロイトで「ミス」認める",
-        "excerpt": "LayerZeroはKelp関連の2億9200万ドル規模エクスプロイトについて、開発者設定ミスとの初期説明を改め、脆弱な構成で自社検証者に高額送金の保護を担わせた判断の責任を認めた。",
-        "body": "LayerZeroは、Kelp関連の2億9200万ドル規模のエクスプロイトについて「ミスをした」と述べた。同社は当初、この事故を開発者の構成設定失敗として説明していたが、その後、脆弱な設定の中で自社の検証者に高額送金の保護を任せることを認めた判断について、自社が責任を負うと認めた。焦点は単なる個別開発者のミスではなく、高価値の送金をどの検証構造で守ったのかという判断に移った。LayerZeroの姿勢変更は、セキュリティ責任の範囲と検証者構成の重要性を改めて浮き彫りにしている。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "LayerZero承认在2.92亿美元Kelp攻击中“犯错”",
-        "excerpt": "LayerZero就Kelp相关2.92亿美元攻击改变最初说法，承认在存在漏洞的配置下让自家验证者保护高价值转账的决定应由其负责。",
-        "body": "LayerZero表示，在Kelp相关的2.92亿美元规模攻击事件中“犯了错误”。该公司最初将此次事件描述为开发者配置失败，但随后承认，在存在漏洞的设置中允许自家验证者保护高价值转账的决定，应由LayerZero承担责任。因此，事件焦点已从单一开发者错误，转向用于保护高价值转账的验证结构判断。LayerZero立场的变化再次凸显了安全责任边界以及验证者配置的重要性。来源: coindesk.com"
-      },
-      "es": {
-        "title": "LayerZero admite un ‘error’ en el exploit de Kelp por US$292 millones",
-        "excerpt": "LayerZero cambió su explicación inicial del exploit de Kelp por US$292 millones y asumió la decisión de usar su propio verificador para proteger transferencias de alto valor en una configuración vulnerable.",
-        "body": "LayerZero dijo que “cometió un error” en el exploit relacionado con Kelp por US$292 millones. La compañía describió inicialmente el incidente como una falla de configuración de desarrolladores, pero después reconoció que asume la decisión de permitir que su propio verificador protegiera transferencias de alto valor en una configuración vulnerable. Así, el foco pasó de un error individual de desarrollo al criterio usado para proteger transferencias valiosas mediante una estructura de verificación. El cambio de postura de LayerZero subraya el alcance de la responsabilidad en seguridad y la importancia de configurar verificadores. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "LayerZero admite ‘erro’ em exploit de US$292 milhões da Kelp",
-        "excerpt": "A LayerZero mudou a explicação inicial sobre o exploit de US$292 milhões ligado à Kelp e assumiu a decisão de deixar seu próprio verificador proteger transferências de alto valor em uma configuração vulnerável.",
-        "body": "A LayerZero afirmou que “cometeu um erro” no exploit relacionado à Kelp, avaliado em US$292 milhões. A empresa inicialmente descreveu o incidente como uma falha de configuração de desenvolvedores, mas depois reconheceu que assume a decisão de permitir que seu próprio verificador protegesse transferências de alto valor em uma configuração vulnerável. O foco do caso passou, assim, de um erro individual de desenvolvimento para o julgamento sobre a estrutura de verificação usada em transferências valiosas. A mudança de posição da LayerZero destaca o alcance da responsabilidade de segurança e a importância da configuração dos verificadores. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "LayerZero räumt ‘Fehler’ bei Kelp-Exploit über 292 Mio. Dollar ein",
-        "excerpt": "LayerZero änderte seine erste Erklärung zum Kelp-Exploit über 292 Mio. Dollar und übernahm Verantwortung dafür, eigene Verifier in einer anfälligen Konfiguration hochwertige Transfers sichern zu lassen.",
-        "body": "LayerZero erklärte, beim Kelp-bezogenen Exploit im Umfang von 292 Mio. Dollar einen „Fehler“ gemacht zu haben. Das Unternehmen hatte den Vorfall zunächst als Konfigurationsfehler von Entwicklern dargestellt, räumte später jedoch ein, die Entscheidung zu verantworten, eigene Verifier in einer anfälligen Konfiguration hochwertige Transfers absichern zu lassen. Damit verschiebt sich der Fokus von einem einzelnen Entwicklerfehler auf die Bewertung der Verifizierungsstruktur für wertvolle Transfers. LayerZeros Kurswechsel betont den Umfang von Sicherheitsverantwortung und die Bedeutung der Verifier-Konfiguration. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "LayerZero admet une ‘erreur’ dans l’exploit Kelp de 292 M$",
-        "excerpt": "LayerZero a modifié son explication initiale de l’exploit Kelp de 292 M$ et reconnu sa responsabilité dans le choix de laisser son propre vérificateur sécuriser des transferts de grande valeur dans une configuration vulnérable.",
-        "body": "LayerZero a déclaré avoir “commis une erreur” dans l’exploit lié à Kelp, d’un montant de 292 millions de dollars. L’entreprise avait d’abord présenté l’incident comme un échec de configuration côté développeur, avant de reconnaître qu’elle assumait la décision de laisser son propre vérificateur sécuriser des transferts de grande valeur dans une configuration vulnérable. Le cœur du dossier passe donc d’une simple erreur individuelle à l’évaluation de la structure de vérification utilisée pour protéger des transferts importants. Ce changement de position souligne l’étendue de la responsabilité en matière de sécurité et l’importance de la configuration des vérificateurs. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "LayerZero تقر بخطأ في استغلال Kelp بقيمة 292 مليون دولار",
-        "excerpt": "غيّرت LayerZero تفسيرها الأولي لاستغلال Kelp البالغ 292 مليون دولار، وأقرت بمسؤوليتها عن قرار ترك مدققها الخاص يؤمن تحويلات عالية القيمة ضمن إعداد ضعيف.",
-        "body": "قالت LayerZero إنها “ارتكبت خطأ” في الاستغلال المرتبط بـKelp والبالغ 292 مليون دولار. وكانت الشركة قد وصفت الحادث في البداية بأنه فشل في إعدادات المطورين، لكنها أقرت لاحقا بأنها تتحمل مسؤولية قرار السماح لمدققها الخاص بتأمين تحويلات عالية القيمة ضمن إعداد معرض للثغرات. وبذلك انتقل محور القضية من خطأ فردي لمطور إلى الحكم على بنية التحقق المستخدمة لحماية التحويلات ذات القيمة الكبيرة. ويبرز تغير موقف LayerZero نطاق مسؤولية الأمن وأهمية تكوين المدققين. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "LayerZero ने $292 मिलियन Kelp exploit में ‘गलती’ मानी",
-        "excerpt": "LayerZero ने $292 मिलियन Kelp exploit पर शुरुआती डेवलपर कॉन्फिगरेशन विफलता वाली व्याख्या बदली और कमजोर सेटअप में अपने verifier से उच्च-मूल्य ट्रांसफर सुरक्षित कराने के फैसले की जिम्मेदारी ली।",
-        "body": "LayerZero ने Kelp से जुड़े $292 मिलियन के exploit पर कहा कि उससे “गलती हुई”। कंपनी ने शुरुआत में इस घटना को डेवलपर कॉन्फिगरेशन की विफलता बताया था, लेकिन बाद में स्वीकार किया कि कमजोर सेटअप में अपने ही verifier को उच्च-मूल्य ट्रांसफर सुरक्षित करने देने का फैसला उसकी जिम्मेदारी है। इसलिए मुद्दे का केंद्र केवल किसी एक डेवलपर की गलती से हटकर इस निर्णय पर आ गया है कि मूल्यवान ट्रांसफर की सुरक्षा किस verification संरचना से की गई। LayerZero का बदला रुख सुरक्षा जिम्मेदारी की सीमा और verifier configuration के महत्व को रेखांकित करता है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "LayerZero Akui ‘Kesalahan’ dalam Exploit Kelp US$292 Juta",
-        "excerpt": "LayerZero mengubah penjelasan awal soal exploit Kelp senilai US$292 juta dan mengakui tanggung jawab atas keputusan membiarkan verifier miliknya mengamankan transfer bernilai tinggi dalam konfigurasi rentan.",
-        "body": "LayerZero menyatakan telah “membuat kesalahan” dalam exploit terkait Kelp senilai US$292 juta. Perusahaan awalnya menggambarkan insiden ini sebagai kegagalan konfigurasi pengembang, tetapi kemudian mengakui bahwa keputusan untuk membiarkan verifier miliknya mengamankan transfer bernilai tinggi dalam konfigurasi yang rentan adalah tanggung jawabnya. Fokus masalah pun bergeser dari kesalahan satu pengembang menjadi penilaian atas struktur verifikasi yang digunakan untuk melindungi transfer bernilai besar. Perubahan sikap LayerZero menyoroti cakupan tanggung jawab keamanan dan pentingnya konfigurasi verifier. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "a5457a8e7702",
-    "slug": "blackrock-deepens-tokenization-push-with-new-onchain-fund-of-940471",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T14:17:01.236Z",
-    "updatedAt": "2026-05-09T14:17:01.236Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/09/blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/09/blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings",
-    "titleFingerprint": "79424f9296182fdd2813bf2e3b1d150a7e4c5eed",
-    "dedupKeys": [
-      "a5457a8e77026c666e3c97f197c98754832c29ee",
-      "79424f9296182fdd2813bf2e3b1d150a7e4c5eed",
-      "52635d4e066f402288460fd5e9118c89809de827"
-    ],
-    "imageUrl": "/images/articles/a5457a8e7702.png",
-    "i18n": {
-      "ko": {
-        "title": "블랙록, 온체인 펀드 확대 서류 제출…토큰화 전략 강화",
-        "excerpt": "세계 최대 자산운용사 블랙록이 토큰화 펀드 라인업 확대를 위한 서류를 제출하며, 전년 대비 200% 성장한 실물자산 토큰화 시장 공략을 강화했다.",
-        "body": "세계 최대 자산운용사 블랙록이 온체인 펀드 상품을 추가하기 위한 서류를 제출하며 토큰화 전략을 한층 강화했다. 이번 움직임은 블랙록이 기존 토큰화 펀드 라인업을 넓히려는 절차로, 실물자산(RWA) 토큰화 시장이 전년 대비 200% 성장한 가운데 나왔다. 토큰화 펀드는 전통 금융 자산을 블록체인 기반 구조로 제공하는 흐름과 맞물려 주목받고 있다. 블랙록의 확대 추진은 기관 투자자와 자산운용 업계가 온체인 금융 상품을 더 본격적으로 검토하는 계기가 될 수 있다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "BlackRock files to expand onchain funds as tokenization push deepens",
-        "excerpt": "BlackRock, the world’s largest asset manager, filed paperwork to expand its tokenized fund lineup as real-world asset tokenization grows 200% year over year.",
-        "body": "BlackRock, the world’s largest asset manager, has filed paperwork to add new onchain fund offerings, deepening its tokenization strategy. The move is part of its effort to expand an existing tokenized fund lineup and comes as real-world asset (RWA) tokenization has grown 200% year over year. Tokenized funds are gaining attention as traditional financial assets move into blockchain-based structures. BlackRock’s expansion push may further encourage institutional investors and asset managers to examine onchain financial products more closely. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "ブラックロック、オンチェーン基金拡大へ書類提出しトークン化強化",
-        "excerpt": "世界最大の資産運用会社ブラックロックは、実物資産トークン化が前年比200%成長する中、トークン化ファンド拡充に向けた書類を提出した。",
-        "body": "世界最大の資産運用会社ブラックロックは、新たなオンチェーン・ファンド商品を追加するための書類を提出し、トークン化戦略を一段と強化した。今回の動きは既存のトークン化ファンドのラインアップを広げる手続きであり、実物資産（RWA）のトークン化市場が前年比200%成長する中で行われた。トークン化ファンドは、伝統的な金融資産をブロックチェーン基盤の仕組みで提供する流れと重なり注目されている。ブラックロックの拡大方針は、機関投資家や資産運用業界がオンチェーン金融商品をより本格的に検討する契機となり得る。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "贝莱德提交文件扩大链上基金，继续强化代币化布局",
-        "excerpt": "全球最大资产管理公司贝莱德提交文件，计划扩大代币化基金阵容；与此同时，现实世界资产代币化同比增长200%。",
-        "body": "全球最大资产管理公司贝莱德已提交文件，准备增加新的链上基金产品，进一步强化其代币化战略。此举是贝莱德扩大现有代币化基金阵容的步骤之一，发生在现实世界资产（RWA）代币化市场同比增长200%之际。代币化基金因将传统金融资产纳入基于区块链的结构而受到关注。贝莱德推进扩容，可能促使机构投资者和资产管理行业更认真地评估链上金融产品。来源: coindesk.com"
-      },
-      "es": {
-        "title": "BlackRock amplía fondos onchain y refuerza su apuesta por tokenización",
-        "excerpt": "BlackRock, la mayor gestora de activos del mundo, presentó documentos para ampliar sus fondos tokenizados mientras los activos del mundo real crecen 200% interanual.",
-        "body": "BlackRock, la mayor gestora de activos del mundo, presentó documentación para sumar nuevas ofertas de fondos onchain y profundizar su estrategia de tokenización. El movimiento busca ampliar su línea existente de fondos tokenizados y llega en un momento en que la tokenización de activos del mundo real (RWA) crece 200% interanual. Estos fondos ganan atención al llevar activos financieros tradicionales a estructuras basadas en blockchain. La iniciativa de BlackRock puede impulsar a inversores institucionales y gestores de activos a examinar con más detalle los productos financieros onchain. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "BlackRock amplia fundos onchain e reforça avanço em tokenização",
-        "excerpt": "A BlackRock, maior gestora de ativos do mundo, apresentou documentos para expandir fundos tokenizados enquanto ativos do mundo real crescem 200% ao ano.",
-        "body": "A BlackRock, maior gestora de ativos do mundo, apresentou documentos para adicionar novas ofertas de fundos onchain e aprofundar sua estratégia de tokenização. A iniciativa faz parte do esforço para ampliar sua linha existente de fundos tokenizados e ocorre enquanto a tokenização de ativos do mundo real (RWA) cresce 200% em relação ao ano anterior. Fundos tokenizados ganham atenção por levar ativos financeiros tradicionais a estruturas baseadas em blockchain. O avanço da BlackRock pode levar investidores institucionais e gestoras a avaliar com mais seriedade produtos financeiros onchain. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "BlackRock baut Onchain-Fonds aus und stärkt Tokenisierungsstrategie",
-        "excerpt": "BlackRock, der größte Vermögensverwalter der Welt, reichte Unterlagen zur Erweiterung tokenisierter Fonds ein, während reale Vermögenswerte jährlich um 200% wachsen.",
-        "body": "BlackRock, der größte Vermögensverwalter der Welt, hat Unterlagen eingereicht, um neue Onchain-Fondsangebote hinzuzufügen und seine Tokenisierungsstrategie zu vertiefen. Der Schritt soll die bestehende Palette tokenisierter Fonds erweitern und erfolgt, während die Tokenisierung realer Vermögenswerte (RWA) im Jahresvergleich um 200% gewachsen ist. Tokenisierte Fonds gewinnen Aufmerksamkeit, weil sie traditionelle Finanzanlagen in blockchainbasierte Strukturen überführen. BlackRocks Ausbau könnte institutionelle Investoren und Vermögensverwalter dazu bewegen, Onchain-Finanzprodukte genauer zu prüfen. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "BlackRock élargit ses fonds onchain et renforce sa stratégie de tokenisation",
-        "excerpt": "BlackRock, plus grand gestionnaire d’actifs au monde, a déposé des documents pour élargir ses fonds tokenisés alors que les actifs réels progressent de 200% sur un an.",
-        "body": "BlackRock, le plus grand gestionnaire d’actifs au monde, a déposé des documents afin d’ajouter de nouvelles offres de fonds onchain et de renforcer sa stratégie de tokenisation. Cette démarche vise à élargir sa gamme actuelle de fonds tokenisés et intervient alors que la tokenisation des actifs du monde réel (RWA) a progressé de 200% sur un an. Les fonds tokenisés attirent l’attention car ils placent des actifs financiers traditionnels dans des structures fondées sur la blockchain. L’initiative de BlackRock pourrait pousser les investisseurs institutionnels et les gestionnaires d’actifs à examiner plus sérieusement les produits financiers onchain. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "بلاك روك توسع صناديقها على السلسلة وتعزز استراتيجية الترميز",
-        "excerpt": "قدمت بلاك روك، أكبر مدير أصول في العالم، أوراقا لتوسيع صناديقها المرمزة مع نمو ترميز الأصول الحقيقية بنسبة 200% على أساس سنوي.",
-        "body": "قدمت بلاك روك، أكبر مدير أصول في العالم، أوراقا لإضافة عروض جديدة لصناديق على السلسلة، في خطوة تعمق استراتيجيتها في الترميز. تأتي هذه الخطوة ضمن مسعى الشركة لتوسيع مجموعتها الحالية من الصناديق المرمزة، بينما نما سوق ترميز الأصول الحقيقية (RWA) بنسبة 200% على أساس سنوي. وتحظى الصناديق المرمزة باهتمام لأنها تنقل الأصول المالية التقليدية إلى هياكل قائمة على البلوكشين. وقد يدفع توسع بلاك روك المستثمرين المؤسسيين ومديري الأصول إلى دراسة المنتجات المالية على السلسلة بجدية أكبر. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "ब्लैकरॉक ने ऑनचेन फंड बढ़ाने को दस्तावेज दाखिल कर टोकनाइजेशन तेज किया",
-        "excerpt": "दुनिया की सबसे बड़ी एसेट मैनेजर ब्लैकरॉक ने टोकनाइज्ड फंड लाइनअप बढ़ाने के लिए दस्तावेज दाखिल किए, जबकि RWA टोकनाइजेशन सालाना 200% बढ़ा।",
-        "body": "दुनिया की सबसे बड़ी एसेट मैनेजर ब्लैकरॉक ने नए ऑनचेन फंड उत्पाद जोड़ने के लिए दस्तावेज दाखिल किए हैं, जिससे उसकी टोकनाइजेशन रणनीति और गहरी हुई है। यह कदम मौजूदा टोकनाइज्ड फंड लाइनअप को बढ़ाने की प्रक्रिया का हिस्सा है और ऐसे समय आया है जब रियल-वर्ल्ड एसेट (RWA) टोकनाइजेशन बाजार सालाना आधार पर 200% बढ़ा है। टोकनाइज्ड फंड पारंपरिक वित्तीय परिसंपत्तियों को ब्लॉकचेन आधारित ढांचे में लाने की वजह से ध्यान खींच रहे हैं। ब्लैकरॉक का यह विस्तार संस्थागत निवेशकों और एसेट मैनेजरों को ऑनचेन वित्तीय उत्पादों पर अधिक गंभीरता से विचार करने के लिए प्रेरित कर सकता है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "BlackRock perluas dana onchain dan perkuat dorongan tokenisasi",
-        "excerpt": "BlackRock, manajer aset terbesar di dunia, mengajukan dokumen untuk memperluas jajaran dana tokenisasi saat aset dunia nyata tumbuh 200% secara tahunan.",
-        "body": "BlackRock, manajer aset terbesar di dunia, mengajukan dokumen untuk menambah penawaran dana onchain baru dan memperdalam strategi tokenisasinya. Langkah ini menjadi bagian dari upaya memperluas jajaran dana tokenisasi yang sudah ada, ketika tokenisasi aset dunia nyata (RWA) tumbuh 200% secara tahunan. Dana tokenisasi mendapat perhatian karena membawa aset keuangan tradisional ke struktur berbasis blockchain. Dorongan ekspansi BlackRock dapat membuat investor institusional dan industri manajemen aset menilai produk keuangan onchain dengan lebih serius. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "65c2e3a20f10",
-    "slug": "crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet--428756",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T14:16:08.969Z",
-    "updatedAt": "2026-05-09T14:16:08.969Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami",
-    "titleFingerprint": "664c199e3a552ffb86400c129a5b6a743c67528f",
-    "dedupKeys": [
-      "65c2e3a20f1061d8cec4d4b185f0584a89536638",
-      "664c199e3a552ffb86400c129a5b6a743c67528f",
-      "3bd36c5fcb975768fc1274359c670380a6a716e9"
-    ],
-    "imageUrl": "/images/articles/65c2e3a20f10.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 에이전트 시대, 크립토 지갑 재설계 필요성 부상",
-        "excerpt": "컨센서스 마이애미에서 Trust Wallet CEO 펠릭스 팬과 Mesh CTO 아르준 무케르지가 AI 에이전트 확산으로 크립토 지갑의 역할이 새롭게 바뀌고 있다고 밝혔다.",
-        "body": "컨센서스 마이애미에서 Trust Wallet CEO 펠릭스 팬과 Mesh CTO 아르준 무케르지는 AI 에이전트가 크립토 지갑의 새로운 역할을 만들고 있다고 말했다. 이들은 기존 지갑이 이용자 중심의 보관·서명 도구였다면, AI 에이전트가 거래와 온체인 활동을 수행하는 환경에서는 지갑 구조도 다시 설계될 필요가 있다고 설명했다. 배경에는 AI 에이전트가 디지털 자산과 블록체인 서비스에 접근하는 방식이 달라지고 있다는 흐름이 있다. 향후 지갑은 사람뿐 아니라 에이전트가 안전하게 권한을 관리하고 실행할 수 있는 접점으로 중요해질 수 있다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "AI Agents Push Crypto Wallets Toward a New Design Role",
-        "excerpt": "At Consensus Miami, Trust Wallet CEO Felix Fan and Mesh CTO Arjun Mukherjee said AI agents are reshaping why crypto wallets matter and how they may need to work.",
-        "body": "At Consensus Miami, Trust Wallet CEO Felix Fan and Mesh CTO Arjun Mukherjee said AI agents are creating a new role for crypto wallets. They explained that while traditional wallets have focused on user custody and signing, wallets may need to be redesigned for an environment where AI agents conduct transactions and on-chain activity. The context is a shift in how AI agents access digital assets and blockchain services. Looking ahead, wallets could become key interfaces for both people and agents to manage permissions and execute actions safely. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "AIエージェント時代、暗号資産ウォレット再設計が焦点に",
-        "excerpt": "コンセンサス・マイアミでTrust Walletのフェリックス・ファンCEOとMeshのアルジュン・ムケルジーCTOは、AIエージェントが暗号資産ウォレットの役割を変えていると述べた。",
-        "body": "コンセンサス・マイアミで、Trust Walletのフェリックス・ファンCEOとMeshのアルジュン・ムケルジーCTOは、AIエージェントが暗号資産ウォレットに新たな役割を生み出していると述べた。従来のウォレットが利用者の資産保管や署名を中心としてきた一方、AIエージェントが取引やオンチェーン活動を行う環境では、ウォレットの構造も再設計される必要があるという。背景には、AIエージェントがデジタル資産やブロックチェーンサービスへアクセスする方法の変化がある。今後ウォレットは、人とエージェントが権限を安全に管理し実行する接点として重要性を増す可能性がある。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "AI代理推动加密钱包重构，新角色正在形成",
-        "excerpt": "在Consensus Miami上，Trust Wallet首席执行官Felix Fan和Mesh首席技术官Arjun Mukherjee表示，AI代理正在改变加密钱包的重要性与使用方式。",
-        "body": "在Consensus Miami上，Trust Wallet首席执行官Felix Fan和Mesh首席技术官Arjun Mukherjee表示，AI代理正在为加密钱包创造新的角色。他们指出，传统钱包主要围绕用户托管和签名展开，但在AI代理执行交易和链上活动的环境中，钱包结构可能需要重新设计。其背景是AI代理访问数字资产和区块链服务的方式正在发生变化。展望未来，钱包可能成为人与代理安全管理权限并执行操作的重要入口。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Agentes de IA impulsan un nuevo diseño para wallets cripto",
-        "excerpt": "En Consensus Miami, Felix Fan, CEO de Trust Wallet, y Arjun Mukherjee, CTO de Mesh, dijeron que los agentes de IA están redefiniendo el papel de las wallets cripto.",
-        "body": "En Consensus Miami, Felix Fan, CEO de Trust Wallet, y Arjun Mukherjee, CTO de Mesh, dijeron que los agentes de IA están creando un nuevo papel para las wallets cripto. Explicaron que, si las wallets tradicionales se han centrado en la custodia y la firma por parte del usuario, en un entorno donde los agentes de IA realizan transacciones y actividad on-chain la estructura de la wallet puede necesitar un rediseño. El contexto es el cambio en la forma en que los agentes de IA acceden a activos digitales y servicios blockchain. A futuro, las wallets podrían volverse interfaces clave para que personas y agentes gestionen permisos y ejecuten acciones con seguridad. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Agentes de IA levam carteiras cripto a um novo redesenho",
-        "excerpt": "No Consensus Miami, Felix Fan, CEO da Trust Wallet, e Arjun Mukherjee, CTO da Mesh, disseram que agentes de IA estão mudando o papel das carteiras cripto.",
-        "body": "No Consensus Miami, Felix Fan, CEO da Trust Wallet, e Arjun Mukherjee, CTO da Mesh, disseram que agentes de IA estão criando um novo papel para as carteiras cripto. Eles explicaram que, enquanto as carteiras tradicionais se concentravam na custódia e na assinatura pelo usuário, em um ambiente no qual agentes de IA realizam transações e atividades on-chain a estrutura das carteiras pode precisar ser redesenhada. O contexto é a mudança na forma como agentes de IA acessam ativos digitais e serviços de blockchain. No futuro, as carteiras podem se tornar interfaces importantes para pessoas e agentes gerenciarem permissões e executarem ações com segurança. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "KI-Agenten rücken neues Design für Krypto-Wallets in den Fokus",
-        "excerpt": "Auf der Consensus Miami sagten Trust-Wallet-CEO Felix Fan und Mesh-CTO Arjun Mukherjee, dass KI-Agenten die Rolle von Krypto-Wallets neu prägen.",
-        "body": "Auf der Consensus Miami sagten Trust-Wallet-CEO Felix Fan und Mesh-CTO Arjun Mukherjee, dass KI-Agenten eine neue Rolle für Krypto-Wallets schaffen. Sie erklärten, dass klassische Wallets vor allem auf Verwahrung und Signaturen durch Nutzer ausgerichtet waren. In einer Umgebung, in der KI-Agenten Transaktionen und On-Chain-Aktivitäten ausführen, müsse die Wallet-Struktur jedoch möglicherweise neu gestaltet werden. Der Hintergrund ist ein Wandel darin, wie KI-Agenten auf digitale Vermögenswerte und Blockchain-Dienste zugreifen. Künftig könnten Wallets zu wichtigen Schnittstellen werden, über die Menschen und Agenten Berechtigungen sicher verwalten und Aktionen ausführen. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Les agents IA poussent les wallets crypto vers un nouveau rôle",
-        "excerpt": "À Consensus Miami, Felix Fan, CEO de Trust Wallet, et Arjun Mukherjee, CTO de Mesh, ont déclaré que les agents IA redéfinissent le rôle des wallets crypto.",
-        "body": "À Consensus Miami, Felix Fan, CEO de Trust Wallet, et Arjun Mukherjee, CTO de Mesh, ont déclaré que les agents IA créent un nouveau rôle pour les wallets crypto. Ils ont expliqué que les wallets traditionnels se concentraient sur la conservation et la signature par l’utilisateur, mais que leur structure pourrait devoir être repensée dans un environnement où les agents IA réalisent des transactions et des activités on-chain. Le contexte est l’évolution de la manière dont les agents IA accèdent aux actifs numériques et aux services blockchain. À l’avenir, les wallets pourraient devenir des interfaces clés permettant aux personnes et aux agents de gérer les autorisations et d’exécuter des actions en sécurité. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "وكلاء الذكاء الاصطناعي يدفعون لإعادة تصميم محافظ الكريبتو",
-        "excerpt": "في Consensus Miami، قال فيليكس فان، الرئيس التنفيذي لـTrust Wallet، وأرجون موخيرجي، المدير التقني في Mesh، إن وكلاء الذكاء الاصطناعي يغيرون دور محافظ الكريبتو.",
-        "body": "في Consensus Miami، قال فيليكس فان، الرئيس التنفيذي لـTrust Wallet، وأرجون موخيرجي، المدير التقني في Mesh، إن وكلاء الذكاء الاصطناعي يخلقون دورا جديدا لمحافظ الكريبتو. وأوضحا أن المحافظ التقليدية ركزت على حفظ أصول المستخدم والتوقيع، لكن في بيئة ينفذ فيها وكلاء الذكاء الاصطناعي معاملات وأنشطة على السلسلة قد تحتاج بنية المحافظ إلى إعادة تصميم. وتأتي الخلفية من تغير طريقة وصول وكلاء الذكاء الاصطناعي إلى الأصول الرقمية وخدمات البلوكشين. مستقبلا، قد تصبح المحافظ واجهة مهمة تتيح للبشر والوكلاء إدارة الصلاحيات وتنفيذ الإجراءات بأمان. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "AI एजेंटों से क्रिप्टो वॉलेट के नए डिजाइन की जरूरत उभरी",
-        "excerpt": "Consensus Miami में Trust Wallet के CEO Felix Fan और Mesh के CTO Arjun Mukherjee ने कहा कि AI एजेंट क्रिप्टो वॉलेट की भूमिका और उपयोग को नया रूप दे रहे हैं।",
-        "body": "Consensus Miami में Trust Wallet के CEO Felix Fan और Mesh के CTO Arjun Mukherjee ने कहा कि AI एजेंट क्रिप्टो वॉलेट के लिए नई भूमिका बना रहे हैं। उन्होंने बताया कि पारंपरिक वॉलेट अब तक उपयोगकर्ता की कस्टडी और साइनिंग पर केंद्रित रहे हैं, लेकिन ऐसे माहौल में जहां AI एजेंट लेनदेन और ऑन-चेन गतिविधि करते हैं, वॉलेट की संरचना को फिर से डिजाइन करने की जरूरत पड़ सकती है। पृष्ठभूमि में यह बदलाव है कि AI एजेंट डिजिटल एसेट और ब्लॉकचेन सेवाओं तक कैसे पहुंचते हैं। आगे चलकर वॉलेट लोगों और एजेंटों दोनों के लिए अनुमति प्रबंधन और सुरक्षित निष्पादन का अहम इंटरफेस बन सकते हैं। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Agen AI Dorong Desain Baru untuk Dompet Kripto",
-        "excerpt": "Di Consensus Miami, CEO Trust Wallet Felix Fan dan CTO Mesh Arjun Mukherjee mengatakan agen AI sedang membentuk ulang peran dompet kripto dan cara kerjanya.",
-        "body": "Di Consensus Miami, CEO Trust Wallet Felix Fan dan CTO Mesh Arjun Mukherjee mengatakan agen AI menciptakan peran baru bagi dompet kripto. Mereka menjelaskan bahwa dompet tradisional berfokus pada kustodi dan penandatanganan oleh pengguna, tetapi dalam lingkungan ketika agen AI menjalankan transaksi dan aktivitas on-chain, struktur dompet mungkin perlu dirancang ulang. Latar belakangnya adalah perubahan cara agen AI mengakses aset digital dan layanan blockchain. Ke depan, dompet dapat menjadi antarmuka penting bagi manusia dan agen untuk mengelola izin serta menjalankan tindakan secara aman. Sumber: coindesk.com"
       }
     }
   }
