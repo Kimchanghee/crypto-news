@@ -1,5 +1,230 @@
 [
   {
+    "id": "2a38f3ee6e4c",
+    "slug": "미토스-쇼크에정부-ai-보안-주권-확보-나선다-481875",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T19:34:40.424Z",
+    "updatedAt": "2026-05-09T19:34:40.424Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848201",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848201",
+    "titleFingerprint": "f85d9e0d99170f641f20d3f508329af4ce604a0c",
+    "dedupKeys": [
+      "2a38f3ee6e4ca6bcc9fac8a0e3e8ac5b932d48c5",
+      "f85d9e0d99170f641f20d3f508329af4ce604a0c",
+      "9e927d266b791ece3ce69d9272fc91eb86483c99"
+    ],
+    "imageUrl": "/images/articles/2a38f3ee6e4c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 보안 주권 확보 나선 정부, ‘미토스 쇼크’에 한국형 특화모델 추진",
+        "excerpt": "과기정통부는 2026년 5월 8일 글로벌 빅테크의 AI 보안 모델 확산에 대응해 국내 기업·전문가와 한국형 AI 보안 특화모델 개발 및 중장기 전략을 논의했다.",
+        "body": "정부가 2026년 5월 8일 ‘AI 보안 주권’ 확보에 나섰다. 과학기술정보통신부는 산학연 전문가들과 ‘글로벌 AI 보안 프로젝트 대응 간담회’를 열고, 앤스로픽의 ‘미토스’ 기반 글래스윙 프로젝트와 오픈AI의 ‘GPT-5.5 사이버’ 활용 TAC 프로젝트에 따른 대응 전략을 논의했다. 간담회에는 SK텔레콤, 업스테이지 등 독자 AI 파운데이션 모델 개발 기업과 주요 기업 CISO가 참석했다. KISA는 앤스로픽 오퍼스 4.7을 활용한 침투 점검에서 기업 운영 시스템의 취약점 7개 안팎을 10여 분 만에 찾아낸 사례를 공유했다. 정부는 글로벌 프로젝트 참여 가능성을 확인하고, 국내 독자 AI 모델과 보안 데이터를 결합한 한국형 AI 보안 특화모델 개발을 추진할 방침이다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Government Moves to Secure AI Security Sovereignty After ‘Mythos Shock’",
+        "excerpt": "On May 8, 2026, South Korea’s science ministry discussed a Korean AI security model and long-term strategy with companies and experts as Big Tech security AI projects expanded.",
+        "body": "The South Korean government moved on May 8, 2026, to secure “AI security sovereignty.” The Ministry of Science and ICT held a meeting with industry, academic and research experts to discuss responses to AI-based cyber threats, including Anthropic’s Glasswing project based on Mythos and OpenAI’s TAC project using GPT-5.5 Cyber. Participants included companies developing independent AI foundation models, such as SK Telecom and Upstage, as well as CISOs from major firms. KISA shared a penetration-testing case using Anthropic’s Opus 4.7 that found around seven vulnerabilities in a company operating system in about 10 minutes. The government plans to review participation in global projects and develop a Korean AI security-specialized model by combining domestic AI models with security data. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "「ミトス・ショック」で政府がAI安全保障主権確保へ、韓国型モデル推進",
+        "excerpt": "韓国科学技術情報通信部は2026年5月8日、ビッグテックのAIセキュリティモデル拡大を受け、企業や専門家と韓国型AI防御モデルと中長期戦略を協議した。",
+        "body": "韓国政府は2026年5月8日、「AIセキュリティ主権」の確保に乗り出した。科学技術情報通信部は産学研の専門家と「グローバルAIセキュリティプロジェクト対応懇談会」を開き、Anthropicのミトスを基盤とするGlasswingプロジェクトや、OpenAIのGPT-5.5 Cyberを活用するTACプロジェクトへの対応を議論した。会合にはSKテレコム、Upstageなど独自AI基盤モデル開発企業と主要企業のCISOが参加した。KISAはAnthropicのOpus 4.7を使った侵入点検で、企業の運用システムから7件前後の脆弱性を約10分で見つけた事例を共有した。政府はグローバルプロジェクト参加の可能性を確認し、国内AIモデルと良質なセキュリティデータを結合した韓国型AIセキュリティ特化モデルの開発を進める方針だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "“Mythos冲击”后韩国推进AI安全主权，拟开发本土专用模型",
+        "excerpt": "韩国科学技术信息通信部于2026年5月8日召集企业和专家，因应全球科技巨头AI安全模型扩散，讨论韩国型AI安全专用模型及中长期战略。",
+        "body": "韩国政府于2026年5月8日开始推动 확보“AI安全主权”。科学技术信息通信部与产学研专家召开“全球AI安全项目应对座谈会”，讨论针对AI网络攻击的中长期对策，议题包括Anthropic基于Mythos的Glasswing项目，以及OpenAI使用GPT-5.5 Cyber的TAC项目。SK Telecom、Upstage等参与独立AI基础模型开发的企业，以及主要企业CISO出席会议。韩国互联网振兴院分享了使用Anthropic Opus 4.7进行渗透检查的案例：在约10分钟内发现某企业运营系统约7个漏洞。政府将确认参与全球项目的可能性，并推动把本土AI模型与高质量安全数据结合，开发韩国型AI安全专用模型。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Corea busca soberanía en seguridad de IA tras el ‘shock Mythos’",
+        "excerpt": "El 8 de mayo de 2026, el Ministerio de Ciencia surcoreano debatió con empresas y expertos un modelo coreano de seguridad de IA y una estrategia de respuesta de medio y largo plazo.",
+        "body": "El Gobierno de Corea del Sur inició el 8 de mayo de 2026 una ofensiva para asegurar su “soberanía en seguridad de IA”. El Ministerio de Ciencia y TIC celebró una reunión con expertos de la industria, la academia y la investigación para discutir respuestas a amenazas cibernéticas basadas en IA, incluidos el proyecto Glasswing de Anthropic, basado en Mythos, y el proyecto TAC de OpenAI con GPT-5.5 Cyber. Participaron empresas que desarrollan modelos fundacionales propios, como SK Telecom y Upstage, además de CISO de grandes compañías. KISA compartió un caso de prueba de penetración con Anthropic Opus 4.7 que detectó alrededor de siete vulnerabilidades en un sistema operativo empresarial en unos 10 minutos. El Gobierno revisará la participación en proyectos globales y promoverá un modelo coreano especializado en seguridad de IA. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Coreia busca soberania em segurança de IA após o ‘choque Mythos’",
+        "excerpt": "Em 8 de maio de 2026, o Ministério da Ciência da Coreia do Sul discutiu com empresas e especialistas um modelo coreano de segurança de IA e uma estratégia de resposta de médio e longo prazo.",
+        "body": "O governo da Coreia do Sul avançou em 8 de maio de 2026 para garantir “soberania em segurança de IA”. O Ministério da Ciência e TIC realizou uma reunião com especialistas da indústria, academia e pesquisa para discutir respostas a ameaças cibernéticas baseadas em IA, incluindo o projeto Glasswing da Anthropic, baseado no Mythos, e o projeto TAC da OpenAI com GPT-5.5 Cyber. Participaram empresas que desenvolvem modelos fundacionais próprios, como SK Telecom e Upstage, além de CISOs de grandes companhias. A KISA relatou um teste de intrusão com o Anthropic Opus 4.7 que encontrou cerca de sete vulnerabilidades em um sistema operacional empresarial em aproximadamente 10 minutos. O governo avaliará participação em projetos globais e impulsionará um modelo coreano especializado em segurança de IA. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Südkorea treibt AI-Sicherheits-Souveränität nach ‘Mythos-Schock’ voran",
+        "excerpt": "Am 8. Mai 2026 beriet Südkoreas Wissenschaftsministerium mit Unternehmen und Fachleuten über ein koreanisches KI-Sicherheitsmodell und eine mittel- bis langfristige Strategie.",
+        "body": "Die südkoreanische Regierung leitete am 8. Mai 2026 Schritte ein, um „KI-Sicherheits-Souveränität“ zu sichern. Das Ministerium für Wissenschaft und IKT beriet mit Experten aus Industrie, Wissenschaft und Forschung über Reaktionen auf KI-basierte Cyberbedrohungen, darunter Anthropics Glasswing-Projekt auf Basis von Mythos und OpenAIs TAC-Projekt mit GPT-5.5 Cyber. Teilgenommen haben Unternehmen, die eigene KI-Foundation-Modelle entwickeln, darunter SK Telecom und Upstage, sowie CISOs großer Firmen. KISA berichtete von einem Penetrationstest mit Anthropic Opus 4.7, bei dem in rund 10 Minuten etwa sieben Schwachstellen in einem Unternehmensbetriebssystem gefunden wurden. Die Regierung prüft die Teilnahme an globalen Projekten und will ein koreanisches, auf KI-Sicherheit spezialisiertes Modell entwickeln. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "La Corée vise la souveraineté en sécurité IA après le ‘choc Mythos’",
+        "excerpt": "Le 8 mai 2026, le ministère sud-coréen des Sciences a discuté avec entreprises et experts d’un modèle coréen de sécurité IA et d’une stratégie de réponse à moyen et long terme.",
+        "body": "Le gouvernement sud-coréen a lancé le 8 mai 2026 une démarche pour garantir sa « souveraineté en sécurité IA ». Le ministère des Sciences et des TIC a réuni des experts industriels, académiques et de recherche afin de discuter des réponses aux cybermenaces fondées sur l’IA, dont le projet Glasswing d’Anthropic basé sur Mythos et le projet TAC d’OpenAI utilisant GPT-5.5 Cyber. Des entreprises développant des modèles de fondation IA indépendants, comme SK Telecom et Upstage, ainsi que des CISO de grands groupes, ont participé. KISA a présenté un test d’intrusion avec Anthropic Opus 4.7 ayant trouvé environ sept vulnérabilités dans un système d’entreprise en près de 10 minutes. Le gouvernement étudiera une participation aux projets mondiaux et développera un modèle coréen spécialisé en sécurité IA. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "كوريا تتحرك لتأمين سيادة أمن الذكاء الاصطناعي بعد «صدمة ميثوس»",
+        "excerpt": "في 8 مايو 2026، ناقشت وزارة العلوم الكورية الجنوبية مع شركات وخبراء تطوير نموذج كوري متخصص لأمن الذكاء الاصطناعي واستراتيجية استجابة متوسطة وطويلة الأجل.",
+        "body": "تحركت الحكومة الكورية الجنوبية في 8 مايو 2026 لتأمين «سيادة أمن الذكاء الاصطناعي». وعقدت وزارة العلوم وتكنولوجيا المعلومات والاتصالات اجتماعا مع خبراء من الصناعة والجامعات ومراكز البحث لمناقشة الرد على التهديدات السيبرانية القائمة على الذكاء الاصطناعي، بما في ذلك مشروع Glasswing من Anthropic المبني على Mythos ومشروع TAC من OpenAI باستخدام GPT-5.5 Cyber. وشاركت شركات تطور نماذج أساس مستقلة مثل SK Telecom وUpstage، إضافة إلى مسؤولي أمن معلومات في شركات كبرى. وقدمت KISA حالة اختبار اختراق باستخدام Anthropic Opus 4.7 كشفت نحو سبع ثغرات في نظام تشغيل شركة خلال حوالي 10 دقائق. وتعتزم الحكومة بحث المشاركة في المشاريع العالمية وتطوير نموذج كوري متخصص لأمن الذكاء الاصطناعي. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "‘Mythos Shock’ के बाद दक्षिण कोरिया AI सुरक्षा संप्रभुता की ओर बढ़ा",
+        "excerpt": "8 मई 2026 को दक्षिण कोरिया के विज्ञान मंत्रालय ने बिग टेक के AI सुरक्षा मॉडलों के प्रसार के बीच कंपनियों और विशेषज्ञों के साथ कोरियाई AI सुरक्षा मॉडल और रणनीति पर चर्चा की।",
+        "body": "दक्षिण कोरिया सरकार ने 8 मई 2026 को “AI सुरक्षा संप्रभुता” सुरक्षित करने की दिशा में कदम बढ़ाया। विज्ञान और ICT मंत्रालय ने उद्योग, अकादमिक और शोध विशेषज्ञों के साथ बैठक कर AI आधारित साइबर खतरों पर प्रतिक्रिया पर चर्चा की, जिसमें Anthropic का Mythos आधारित Glasswing प्रोजेक्ट और OpenAI का GPT-5.5 Cyber इस्तेमाल करने वाला TAC प्रोजेक्ट शामिल था। बैठक में SK Telecom और Upstage जैसी स्वतंत्र AI फाउंडेशन मॉडल विकसित करने वाली कंपनियां तथा प्रमुख कंपनियों के CISO शामिल हुए। KISA ने Anthropic Opus 4.7 से किए गए पेनिट्रेशन टेस्ट का उदाहरण साझा किया, जिसमें एक कंपनी के संचालन सिस्टम में करीब सात कमजोरियां लगभग 10 मिनट में मिलीं। सरकार वैश्विक परियोजनाओं में भागीदारी की संभावना देखेगी और घरेलू AI मॉडल व सुरक्षा डेटा को जोड़कर कोरियाई AI सुरक्षा विशेष मॉडल विकसित करेगी। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Korea Kejar Kedaulatan Keamanan AI Setelah ‘Mythos Shock’",
+        "excerpt": "Pada 8 Mei 2026, Kementerian Sains Korea Selatan membahas model keamanan AI Korea dan strategi jangka menengah-panjang bersama perusahaan serta pakar saat proyek AI keamanan Big Tech meluas.",
+        "body": "Pemerintah Korea Selatan pada 8 Mei 2026 bergerak untuk mengamankan “kedaulatan keamanan AI”. Kementerian Sains dan TIK menggelar pertemuan dengan pakar industri, akademisi, dan riset untuk membahas respons terhadap ancaman siber berbasis AI, termasuk proyek Glasswing Anthropic berbasis Mythos dan proyek TAC OpenAI yang memakai GPT-5.5 Cyber. Peserta mencakup perusahaan pengembang model fondasi AI independen seperti SK Telecom dan Upstage, serta CISO dari perusahaan besar. KISA membagikan kasus uji penetrasi memakai Anthropic Opus 4.7 yang menemukan sekitar tujuh kerentanan pada sistem operasi perusahaan dalam kira-kira 10 menit. Pemerintah akan meninjau peluang ikut proyek global dan mendorong model khusus keamanan AI Korea berbasis model AI domestik serta data keamanan. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "3b3f9c4be1f3",
+    "slug": "구글-제미나이가-건강-관리스마트팔찌-핏빗-신모델-출시-121560",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T19:33:33.589Z",
+    "updatedAt": "2026-05-09T19:33:33.589Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848211",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848211",
+    "titleFingerprint": "d0aeab0a42071f8482120e48cb5cf9492ac69c9c",
+    "dedupKeys": [
+      "3b3f9c4be1f382d1fff20d701301a6140f9feb18",
+      "d0aeab0a42071f8482120e48cb5cf9492ac69c9c",
+      "2c6004c5040aaaaeb7ccc814e9397906bb797723"
+    ],
+    "imageUrl": "/images/articles/3b3f9c4be1f3.png",
+    "i18n": {
+      "ko": {
+        "title": "구글 제미나이 헬스 코치 탑재, 화면 없는 핏빗 에어 3년 만에 출시",
+        "excerpt": "구글은 5월 7일 현지시간 화면 없는 스마트팔찌 핏빗 에어를 출시하고, 제미나이 기반 구글 헬스 코치와 구글 헬스 앱 통합을 함께 공개했다.",
+        "body": "구글이 5월 7일 현지시간 헬스케어 밴드 핏빗의 새 모델 핏빗 에어를 출시했다. 손목에 차는 스마트기기지만 화면을 없앤 팔찌형 제품으로, 화면 전력 소모가 없어 한 번 충전하면 최대 1주일 사용할 수 있다. 구글이 스마트밴드 신제품을 내놓은 것은 2023년 10월 핏빗 차지6 이후 3년 만이다. 핏빗은 한국계 미국인 제임스 박이 창업했고 2021년 구글에 21억달러에 인수됐다. 구글은 이번 출시와 함께 기존 핏빗 앱 운영을 중단하고 건강 데이터를 구글 헬스 앱으로 통합했다. 앱에는 AI 모델 제미나이 기반 구글 헬스 코치가 탑재되며 판매가는 99.99달러다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Google Launches Fitbit Air With Gemini Health Coach and No Screen",
+        "excerpt": "Google launched the screenless Fitbit Air on May 7 local time, pairing the wearable with Gemini-based Google Health Coach and a move to integrate Fitbit data into Google Health.",
+        "body": "Google launched Fitbit Air, a new model in its Fitbit health band lineup, on May 7 local time. The wrist-worn smart device is a bracelet-style product without a screen, and because no display consumes power, it can run for up to one week on a single charge. It is Google’s first new smart band since Fitbit Charge 6, released in October 2023. Fitbit was founded by Korean American James Park and was acquired by Google in 2021 for $2.1 billion. With the launch, Google ended operation of the existing Fitbit app and integrated health data into the Google Health app. The app includes Google Health Coach based on the Gemini AI model, and the product is priced at $99.99. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "Google、Geminiヘルスコーチ搭載の画面なしFitbit Airを発売",
+        "excerpt": "Googleは現地時間5月7日、画面のないスマートブレスレットFitbit Airを発売し、Gemini 기반のGoogle Health CoachとGoogle Healthアプリへの統合を示した。",
+        "body": "Googleは現地時間5月7日、ヘルスケアバンドFitbitの新モデル、Fitbit Airを発売した。手首に装着するスマートデバイスだが、画面をなくしたブレスレット型製品で、ディスプレーが電力を使わないため1回の充電で最大1週間使える。Googleがスマートバンドの新製品を出すのは、2023年10月発売のFitbit Charge 6以来3年ぶりとなる。Fitbitは韓国系米国人のJames Parkが創業し、2021年にGoogleが21億ドルで買収した。今回の発売に合わせ、Googleは従来のFitbitアプリの運営を停止し、健康データをGoogle Healthアプリに統合した。同アプリにはAIモデルGemini 기반のGoogle Health Coachが搭載され、価格は99.99ドル。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "谷歌发布无屏Fitbit Air，Gemini健康教练同步接入",
+        "excerpt": "谷歌于当地时间5月7日发布无屏智能手环Fitbit Air，并将Gemini驱动的Google Health Coach与健康数据整合进Google Health应用。",
+        "body": "谷歌于当地时间5月7日发布Fitbit健康手环的新型号Fitbit Air。这是一款佩戴在手腕上的智能设备，但采用无屏幕手环形态；由于没有屏幕耗电，单次充电最长可使用一周。谷歌上一次推出智能手环新品是2023年10月发布的Fitbit Charge 6，距今已有3年。Fitbit由韩裔美国人James Park创立，2021年被谷歌以21亿美元收购。伴随此次发布，谷歌停止运营原有Fitbit应用，并将健康数据整合至Google Health应用。该应用将搭载基于AI模型Gemini的Google Health Coach，售价为99.99美元。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Google lanza Fitbit Air sin pantalla con Health Coach basado en Gemini",
+        "excerpt": "Google lanzó el 7 de mayo, hora local, la pulsera inteligente Fitbit Air sin pantalla, junto con Google Health Coach basado en Gemini y la integración de datos en Google Health.",
+        "body": "Google lanzó el 7 de mayo, hora local, Fitbit Air, un nuevo modelo de su banda de salud Fitbit. Es un dispositivo inteligente para la muñeca con formato de pulsera y sin pantalla; al no consumir energía en una pantalla, puede usarse hasta una semana con una sola carga. Es el primer nuevo smart band de Google desde Fitbit Charge 6, presentado en octubre de 2023. Fitbit fue fundada por el coreano-estadounidense James Park y adquirida por Google en 2021 por 2.100 millones de dólares. Con este lanzamiento, Google dejó de operar la aplicación Fitbit existente e integró los datos de salud en Google Health. La app incorpora Google Health Coach basado en el modelo de IA Gemini, y el precio es de 99,99 dólares. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Google lança Fitbit Air sem tela com Health Coach baseado no Gemini",
+        "excerpt": "O Google lançou em 7 de maio, horário local, a pulseira inteligente Fitbit Air sem tela, com Google Health Coach baseado no Gemini e integração ao app Google Health.",
+        "body": "O Google lançou em 7 de maio, horário local, o Fitbit Air, novo modelo da linha de pulseiras de saúde Fitbit. O dispositivo inteligente é usado no pulso, mas não tem tela, em formato de pulseira; como não há consumo de energia por display, pode funcionar por até uma semana com uma carga. É o primeiro novo smart band do Google desde o Fitbit Charge 6, lançado em outubro de 2023. A Fitbit foi fundada pelo coreano-americano James Park e comprada pelo Google em 2021 por US$ 2,1 bilhões. Com o lançamento, o Google encerrou o app Fitbit existente e integrou os dados de saúde ao Google Health. O app traz o Google Health Coach baseado no modelo de IA Gemini, e o preço é de US$ 99,99. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Google bringt Fitbit Air ohne Display mit Gemini Health Coach auf den Markt",
+        "excerpt": "Google stellte am 7. Mai Ortszeit das displaylose Smart-Armband Fitbit Air vor und verbindet es mit dem Gemini-basierten Google Health Coach sowie Google Health.",
+        "body": "Google hat am 7. Mai Ortszeit Fitbit Air vorgestellt, ein neues Modell seines Fitbit-Gesundheitsbands. Das am Handgelenk getragene Smartgerät ist ein Armband ohne Display; weil kein Bildschirm Strom verbraucht, soll eine Ladung bis zu eine Woche reichen. Es ist Googles erstes neues Smartband seit Fitbit Charge 6, das im Oktober 2023 erschien. Fitbit wurde vom koreanisch-amerikanischen Gründer James Park aufgebaut und 2021 von Google für 2,1 Milliarden Dollar übernommen. Mit der Einführung stellt Google den bisherigen Fitbit-App-Betrieb ein und integriert Gesundheitsdaten in die Google-Health-App. Dort wird Google Health Coach auf Basis des KI-Modells Gemini eingebunden. Der Preis liegt bei 99,99 Dollar. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Google lance Fitbit Air sans écran avec Health Coach fondé sur Gemini",
+        "excerpt": "Google a lancé le 7 mai, heure locale, le bracelet connecté Fitbit Air sans écran, avec Google Health Coach basé sur Gemini et l’intégration des données dans Google Health.",
+        "body": "Google a lancé le 7 mai, heure locale, Fitbit Air, un nouveau modèle de son bracelet de santé Fitbit. Ce dispositif intelligent porté au poignet prend la forme d’un bracelet sans écran; l’absence d’affichage réduit la consommation et permet jusqu’à une semaine d’utilisation avec une charge. C’est le premier nouveau bracelet connecté de Google depuis le Fitbit Charge 6 lancé en octobre 2023. Fitbit a été fondée par l’Américain d’origine coréenne James Park et rachetée par Google en 2021 pour 2,1 milliards de dollars. Avec ce lancement, Google met fin à l’application Fitbit existante et intègre les données de santé dans Google Health. L’application inclut Google Health Coach basé sur le modèle d’IA Gemini, pour un prix de 99,99 dollars. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "غوغل تطلق Fitbit Air بلا شاشة مع مدرب صحة قائم على Gemini",
+        "excerpt": "أطلقت غوغل في 7 مايو بالتوقيت المحلي السوار الذكي Fitbit Air بلا شاشة، مع Google Health Coach القائم على Gemini ودمج بيانات الصحة في تطبيق Google Health.",
+        "body": "أطلقت غوغل في 7 مايو بالتوقيت المحلي الطراز الجديد Fitbit Air ضمن سوارها الصحي Fitbit. الجهاز الذكي يلبس على المعصم لكنه يأتي كسوار بلا شاشة، وبما أن الشاشة لا تستهلك الطاقة يمكن استخدامه حتى أسبوع بشحنة واحدة. وهذا أول سوار ذكي جديد من غوغل منذ Fitbit Charge 6 الذي صدر في أكتوبر 2023. أسس Fitbit جيمس بارك، وهو أميركي من أصل كوري، واستحوذت عليه غوغل في 2021 مقابل 2.1 مليار دولار. ومع الإطلاق أوقفت غوغل تشغيل تطبيق Fitbit الحالي ودمجت بيانات الصحة في تطبيق Google Health. ويتضمن التطبيق Google Health Coach القائم على نموذج الذكاء الاصطناعي Gemini، ويبلغ السعر 99.99 دولارا. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Google ने Gemini Health Coach के साथ बिना स्क्रीन वाला Fitbit Air लॉन्च किया",
+        "excerpt": "Google ने स्थानीय समयानुसार 7 मई को बिना स्क्रीन वाला स्मार्ट ब्रेसलेट Fitbit Air लॉन्च किया और Gemini आधारित Google Health Coach व Google Health में डेटा एकीकरण पेश किया।",
+        "body": "Google ने स्थानीय समयानुसार 7 मई को Fitbit हेल्थ बैंड का नया मॉडल Fitbit Air लॉन्च किया। यह कलाई पर पहना जाने वाला स्मार्ट डिवाइस है, लेकिन स्क्रीन के बिना ब्रेसलेट रूप में आता है; स्क्रीन से बिजली खर्च न होने के कारण एक बार चार्ज करने पर इसे अधिकतम एक सप्ताह तक इस्तेमाल किया जा सकता है। Google का यह नया स्मार्ट बैंड अक्टूबर 2023 में आए Fitbit Charge 6 के बाद पहला है। Fitbit की स्थापना कोरियाई-अमेरिकी James Park ने की थी और 2021 में Google ने इसे 2.1 अरब डॉलर में खरीदा था। इस लॉन्च के साथ Google ने मौजूदा Fitbit ऐप का संचालन बंद कर स्वास्थ्य डेटा को Google Health ऐप में मिला दिया। ऐप में Gemini AI मॉडल आधारित Google Health Coach होगा और कीमत 99.99 डॉलर है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Google Rilis Fitbit Air Tanpa Layar dengan Health Coach Berbasis Gemini",
+        "excerpt": "Google meluncurkan gelang pintar Fitbit Air tanpa layar pada 7 Mei waktu setempat, disertai Google Health Coach berbasis Gemini dan integrasi data ke Google Health.",
+        "body": "Google meluncurkan Fitbit Air, model baru dari band kesehatan Fitbit, pada 7 Mei waktu setempat. Perangkat pintar yang dipakai di pergelangan tangan ini berbentuk gelang tanpa layar; karena tidak ada layar yang memakai daya, satu kali pengisian dapat bertahan hingga satu minggu. Ini adalah smart band baru pertama Google sejak Fitbit Charge 6 yang dirilis pada Oktober 2023. Fitbit didirikan oleh James Park, warga Amerika keturunan Korea, dan diakuisisi Google pada 2021 senilai US$2,1 miliar. Bersamaan dengan peluncuran ini, Google menghentikan operasi aplikasi Fitbit lama dan mengintegrasikan data kesehatan ke aplikasi Google Health. Aplikasi tersebut memuat Google Health Coach berbasis model AI Gemini, dengan harga US$99,99. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "c6ed7f49807c",
+    "slug": "the-clarity-act-will-help-reshore-the-crypto-industry-in-the-186713",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T19:32:31.986Z",
+    "updatedAt": "2026-05-09T19:32:31.986Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us",
+    "titleFingerprint": "d01b7d895582b8e8a5ad8254733e8b138536f40b",
+    "dedupKeys": [
+      "c6ed7f49807c83c09f101818e9b87e53e3d5bc7f",
+      "d01b7d895582b8e8a5ad8254733e8b138536f40b",
+      "97aacae5c3b7a246132b732a0b1d56c3fa304b6a"
+    ],
+    "imageUrl": "/images/articles/c6ed7f49807c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "CLARITY Act, 미국 크립토 산업 리쇼어링 촉진할까",
+        "excerpt": "변호사 빌 휴즈는 코인텔레그래프에 크립토의 ‘최대 시장’인 미국 관련 거래량 대부분이 미국 기반 거래소 밖에서 이뤄지고 있다고 밝혔다.",
+        "body": "CLARITY Act가 미국 크립토 산업의 리쇼어링을 도울 수 있다는 분석이 나왔다. 변호사 빌 휴즈는 코인텔레그래프를 통해 크립토의 ‘최대 시장’이 미국임에도, 관련 거래량의 대부분은 미국 기반 거래소가 아닌 해외 또는 비미국 플랫폼에서 발생하고 있다고 말했다. 이 발언은 미국 내 규제 명확성이 산업 활동의 위치에 영향을 줄 수 있다는 맥락에서 제기됐다. Hughes의 설명에 따르면 CLARITY Act는 미국 시장과 거래 인프라 사이의 괴리를 줄이는 데 도움이 될 수 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "CLARITY Act Could Help Bring Crypto Industry Back to US",
+        "excerpt": "Attorney Bill Hughes told Cointelegraph that the crypto “biggest market” sees most trading volume occur outside US-based exchanges.",
+        "body": "The CLARITY Act could help reshore the crypto industry in the United States, according to attorney Bill Hughes. Speaking to Cointelegraph, Hughes said the “biggest market” in crypto is the US, yet the vast majority of related trading volume takes place outside US-based exchanges. His comments were made in the context of how regulatory clarity may influence where industry activity is located. According to Hughes, the CLARITY Act could help narrow the gap between the US market and the trading infrastructure serving it. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "CLARITY Act、米暗号資産産業の国内回帰を後押しか",
+        "excerpt": "弁護士ビル・ヒューズ氏はコインテレグラフに、暗号資産の「最大市場」である米国関連の取引量の大半が米国拠点の取引所外で行われていると述べた。",
+        "body": "CLARITY Actは米国の暗号資産産業の国内回帰を後押しする可能性がある。弁護士のビル・ヒューズ氏はコインテレグラフに対し、暗号資産の「最大市場」は米国であるにもかかわらず、関連する取引量の大半は米国拠点の取引所ではなく、海外または非米国プラットフォームで発生していると述べた。この発言は、米国内の規制の明確化が産業活動の所在に影響し得るという文脈で示された。ヒューズ氏によれば、CLARITY Actは米国市場と取引インフラの隔たりを縮める助けになり得る。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "CLARITY Act或推动美国加密行业回流本土",
+        "excerpt": "律师Bill Hughes向Cointelegraph表示，加密领域的“最大市场”相关交易量大多发生在美国本土交易所之外。",
+        "body": "律师Bill Hughes认为，CLARITY Act可能帮助美国加密行业回流本土。他向Cointelegraph表示，尽管美国是加密领域的“最大市场”，但相关交易量的绝大部分并不发生在美国本土交易所，而是在海外或非美国平台完成。此番说法的背景是，美国监管清晰度可能影响行业活动的所在地。按照Hughes的解释，CLARITY Act或有助于缩小美国市场与实际交易基础设施之间的差距。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "CLARITY Act podría traer la industria cripto de vuelta a EE. UU.",
+        "excerpt": "El abogado Bill Hughes dijo a Cointelegraph que el “mayor mercado” cripto concentra la mayoría de su volumen fuera de exchanges con sede en EE. UU.",
+        "body": "La CLARITY Act podría ayudar a repatriar la industria cripto a Estados Unidos, según el abogado Bill Hughes. En declaraciones a Cointelegraph, Hughes afirmó que el “mayor mercado” de las criptomonedas es EE. UU., pero que la gran mayoría del volumen de negociación relacionado ocurre fuera de exchanges con sede en el país. Sus comentarios se dieron en el contexto de cómo la claridad regulatoria puede influir en dónde se ubica la actividad del sector. Según Hughes, la CLARITY Act podría ayudar a reducir la brecha entre el mercado estadounidense y la infraestructura de negociación que lo atiende. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "CLARITY Act pode ajudar a trazer cripto de volta aos EUA",
+        "excerpt": "O advogado Bill Hughes disse à Cointelegraph que o “maior mercado” cripto realiza a maior parte do volume fora de exchanges sediadas nos EUA.",
+        "body": "A CLARITY Act pode ajudar a trazer a indústria cripto de volta aos Estados Unidos, segundo o advogado Bill Hughes. Em declaração à Cointelegraph, Hughes afirmou que o “maior mercado” de cripto é os EUA, mas que a vasta maioria do volume de negociação relacionado ocorre fora de exchanges sediadas no país. A fala foi feita no contexto de como a clareza regulatória pode influenciar onde a atividade do setor se concentra. Segundo Hughes, a CLARITY Act pode ajudar a reduzir a distância entre o mercado americano e a infraestrutura de negociação que o atende. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "CLARITY Act könnte Kryptoindustrie zurück in die USA holen",
+        "excerpt": "Anwalt Bill Hughes sagte Cointelegraph, der „größte Markt“ für Krypto wickle den Großteil seines Volumens außerhalb US-basierter Börsen ab.",
+        "body": "Der CLARITY Act könnte dazu beitragen, die Kryptoindustrie in die Vereinigten Staaten zurückzuholen, sagte Anwalt Bill Hughes. Gegenüber Cointelegraph erklärte Hughes, die USA seien der „größte Markt“ für Krypto, doch der überwiegende Teil des entsprechenden Handelsvolumens finde außerhalb von in den USA ansässigen Börsen statt. Seine Aussagen stehen im Zusammenhang mit der Frage, wie regulatorische Klarheit den Standort von Branchenaktivitäten beeinflussen kann. Nach Hughes’ Darstellung könnte der CLARITY Act helfen, die Lücke zwischen dem US-Markt und der Handelsinfrastruktur zu verkleinern. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Le CLARITY Act pourrait ramener l’industrie crypto aux États-Unis",
+        "excerpt": "L’avocat Bill Hughes a déclaré à Cointelegraph que le « plus grand marché » crypto réalise l’essentiel de son volume hors des plateformes basées aux États-Unis.",
+        "body": "Le CLARITY Act pourrait aider à relocaliser l’industrie crypto aux États-Unis, selon l’avocat Bill Hughes. Dans des propos rapportés par Cointelegraph, Hughes a indiqué que le « plus grand marché » des cryptomonnaies est américain, alors que la grande majorité du volume d’échanges lié se déroule en dehors des plateformes basées aux États-Unis. Cette déclaration s’inscrit dans le contexte du rôle que la clarté réglementaire peut jouer dans la localisation des activités du secteur. Selon Hughes, le CLARITY Act pourrait réduire l’écart entre le marché américain et l’infrastructure de négociation qui le sert. Source : cointelegraph.com"
+      },
+      "ar": {
+        "title": "قانون CLARITY قد يساعد في إعادة صناعة الكريبتو إلى أميركا",
+        "excerpt": "قال المحامي بيل هيوز لكوينتيليغراف إن «أكبر سوق» للكريبتو يجري معظم حجم تداوله خارج المنصات الموجودة في الولايات المتحدة.",
+        "body": "قد يساعد قانون CLARITY في إعادة صناعة الكريبتو إلى الولايات المتحدة، بحسب المحامي بيل هيوز. وقال هيوز لكوينتيليغراف إن الولايات المتحدة تمثل «أكبر سوق» في الكريبتو، لكن الغالبية العظمى من حجم التداول المرتبط بها تتم خارج المنصات القائمة في الولايات المتحدة، سواء عبر منصات خارجية أو غير أميركية. جاءت تصريحاته في سياق تأثير وضوح التنظيمات على مكان تمركز نشاط الصناعة. ووفقاً لهيوز، يمكن أن يساعد قانون CLARITY في تقليص الفجوة بين السوق الأميركية وبنية التداول التي تخدمها. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "CLARITY Act अमेरिका में क्रिप्टो उद्योग की वापसी करा सकता है",
+        "excerpt": "वकील Bill Hughes ने Cointelegraph से कहा कि क्रिप्टो का “सबसे बड़ा बाजार” अपना अधिकांश ट्रेडिंग वॉल्यूम US-based exchanges के बाहर कर रहा है।",
+        "body": "वकील Bill Hughes के अनुसार, CLARITY Act अमेरिका में क्रिप्टो उद्योग को वापस लाने में मदद कर सकता है। Cointelegraph से बात करते हुए Hughes ने कहा कि क्रिप्टो का “सबसे बड़ा बाजार” अमेरिका है, फिर भी उससे जुड़ा अधिकांश ट्रेडिंग वॉल्यूम US-based exchanges के बजाय विदेशी या गैर-अमेरिकी प्लेटफॉर्म पर होता है। यह टिप्पणी इस संदर्भ में आई कि नियामकीय स्पष्टता उद्योग गतिविधि के स्थान को प्रभावित कर सकती है। Hughes के अनुसार, CLARITY Act अमेरिकी बाजार और उसे सेवा देने वाले ट्रेडिंग इंफ्रास्ट्रक्चर के बीच की दूरी घटाने में मदद कर सकता है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "CLARITY Act Bisa Bantu Industri Kripto Kembali ke AS",
+        "excerpt": "Pengacara Bill Hughes mengatakan kepada Cointelegraph bahwa “pasar terbesar” kripto mencatat sebagian besar volume perdagangan di luar bursa berbasis AS.",
+        "body": "CLARITY Act dapat membantu membawa kembali industri kripto ke Amerika Serikat, menurut pengacara Bill Hughes. Kepada Cointelegraph, Hughes mengatakan bahwa “pasar terbesar” dalam kripto adalah AS, tetapi sebagian besar volume perdagangan terkait justru terjadi di luar bursa berbasis AS, baik melalui platform luar negeri maupun non-AS. Pernyataan ini muncul dalam konteks bagaimana kejelasan regulasi dapat memengaruhi lokasi aktivitas industri. Menurut Hughes, CLARITY Act dapat membantu memperkecil jarak antara pasar AS dan infrastruktur perdagangan yang melayaninya. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "b74dda460b92",
     "slug": "이진형-교수-할머니-뇌졸중이-바꾼-진로전자회로처럼-뇌-분석-843746",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Kasus Merkuri di Milk Tea China: Gerai Sempat Dicurigai, Pelaku Ternyata Pacar",
         "excerpt": "Seorang perempuan China menuduh jaringan milk tea terkenal memasukkan merkuri ke minumannya, tetapi laporan SCMP pada 9 menyebut pelakunya adalah pacarnya.",
         "body": "Di China, seorang perempuan mengklaim bahwa jaringan milk tea terkenal memasukkan merkuri ke dalam minumannya, tetapi kemudian ia mengetahui bahwa pelakunya adalah pacarnya. Menurut South China Morning Post (SCMP) Hong Kong pada tanggal 9, perempuan itu awalnya mencurigai pihak gerai yang menjual minuman tersebut. Kasus ini menarik perhatian karena muncul sebagai klaim konsumen bahwa zat berbahaya tercampur dalam minuman yang dibeli, sehingga merek milk tea populer terlihat ikut terseret. Namun, pemeriksaan berikutnya menunjukkan bahwa orang yang memasukkan merkuri bukan pihak jaringan gerai, melainkan pacar perempuan tersebut. Peristiwa ini bermula sebagai isu keamanan makanan dan minuman, tetapi mengejutkan karena pelaku sebenarnya adalah orang dekat korban. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "9cd19d3ededa",
-    "slug": "아픈-남편-생각나서단팥빵-훔친-할머니-사연에-경찰도-움직였다-497306",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T10:28:22.518Z",
-    "updatedAt": "2026-05-09T10:28:22.518Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042294",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042294",
-    "titleFingerprint": "34448f1278df14dd1ad10e8d4c1150ea9f5d62dd",
-    "dedupKeys": [
-      "9cd19d3ededa8b228d6cd352353f9e06e85e037f",
-      "34448f1278df14dd1ad10e8d4c1150ea9f5d62dd",
-      "bbbe65e0acd695dba34f1d23341c3c02afb48981"
-    ],
-    "imageUrl": "/images/articles/9cd19d3ededa.jpg",
-    "i18n": {
-      "ko": {
-        "title": "단팥빵 5개 훔친 80대 할머니, 경찰 긴급생계비 연계 사연",
-        "excerpt": "경제적 어려움 속에 아픈 남편을 떠올리며 단팥빵 5개를 훔친 80대 할머니에게 고양경찰서가 긴급생계비 지원을 연계한 사실이 9일 알려졌다.",
-        "body": "경제적 어려움 속에 단팥빵 5개를 훔친 80대 할머니에게 경찰이 긴급생계비 지원을 연계한 사실이 알려졌다. 9일 고양경찰서에 따르면 지난달 2일 오후 경기 고양 지역에서 관련 사건이 접수됐다. 할머니는 아픈 남편이 생각나 단팥빵을 가져간 것으로 전해졌다. 경찰은 단순 절도 사건 처리에 그치지 않고 생활 형편을 살핀 뒤 긴급생계비 지원으로 이어질 수 있도록 도움을 연결했다. 이번 사례는 생계형 어려움이 범죄로 이어질 수 있는 현실과 함께 현장 경찰의 복지 연계 역할을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Elderly Woman Who Stole Five Red Bean Buns Gets Police Aid Link",
-        "excerpt": "An elderly woman in her 80s who stole five red bean buns while struggling financially and thinking of her ill husband was connected by Goyang police to emergency living support, it was reported on the 9th.",
-        "body": "Police connected an elderly woman in her 80s to emergency living support after she stole five red bean buns amid financial hardship. According to Goyang Police Station on the 9th, the case was reported on the afternoon of the 2nd of last month in Goyang, Gyeonggi Province. The woman reportedly took the buns after thinking of her sick husband. Police did not stop at handling the case as a simple theft; they reviewed her living situation and linked her to emergency livelihood assistance. The case highlights how hardship can lead to survival-related offenses and how frontline police can connect vulnerable people with welfare support. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "あんパン5個を盗んだ80代女性、警察が緊急生活費支援へ連携",
-        "excerpt": "経済的困難の中、病気の夫を思い浮かべてあんパン5個を盗んだ80代女性に、高陽警察署が緊急生活費支援をつないだ事実が9日に明らかになった。",
-        "body": "経済的に苦しい状況であんパン5個を盗んだ80代女性に対し、警察が緊急生活費支援を連携したことが分かった。9日、高陽警察署によると、先月2日午後、京畿道高陽地域で関連事件が受理された。女性は病気の夫のことを思い、あんパンを持ち去ったと伝えられている。警察は単純な窃盗事件として処理するだけでなく、生活状況を確認したうえで緊急生計費支援につながるよう手助けした。今回の事例は、生計上の困難が犯罪につながり得る現実と、現場警察による福祉連携の役割を示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "80多岁老人偷5个红豆面包，警方为其联系紧急生活费援助",
-        "excerpt": "据9日消息，一名80多岁老人因经济困难并想起患病丈夫而偷走5个红豆面包，高阳警察署随后为她联系了紧急生活费援助。",
-        "body": "一名80多岁老人因经济困难偷走5个红豆面包后，警方为其联系紧急生活费援助的消息被公开。据高阳警察署9日消息，上月2日下午，京畿道高阳市发生并受理了相关案件。据悉，老人是在想到患病丈夫后拿走了红豆面包。警方没有仅将此事作为单纯盗窃案件处理，而是在了解其生活处境后，帮助她对接紧急生计费用支持。该案例显示了生计困难可能导致违法行为的现实，也体现了一线警方在连接福利支援方面的作用。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Anciana que robó cinco panes de frijol rojo recibe ayuda gestionada por la policía",
-        "excerpt": "Una mujer de unos 80 años robó cinco panes de frijol rojo en medio de dificultades económicas al pensar en su esposo enfermo, y la policía de Goyang la vinculó con apoyo urgente para subsistencia, se informó el día 9.",
-        "body": "La policía vinculó con ayuda urgente para gastos de subsistencia a una mujer de unos 80 años que robó cinco panes de frijol rojo en medio de dificultades económicas. Según la comisaría de Goyang el día 9, el caso fue recibido la tarde del día 2 del mes pasado en la zona de Goyang, provincia de Gyeonggi. Se informó que la mujer tomó los panes al pensar en su esposo enfermo. La policía no se limitó a tramitar el hecho como un simple robo; revisó su situación de vida y la conectó con apoyo económico urgente. El caso muestra cómo las dificultades de subsistencia pueden derivar en delitos y el papel de la policía de campo al enlazar a personas vulnerables con asistencia social. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Idosa que furtou cinco pães de feijão vermelho recebe apoio ligado pela polícia",
-        "excerpt": "Uma mulher de cerca de 80 anos furtou cinco pães de feijão vermelho em meio a dificuldades financeiras ao pensar no marido doente, e a polícia de Goyang a conectou a auxílio emergencial de subsistência, foi informado no dia 9.",
-        "body": "A polícia conectou uma mulher de cerca de 80 anos a apoio emergencial de subsistência após ela furtar cinco pães de feijão vermelho em meio a dificuldades financeiras. Segundo a Delegacia de Goyang no dia 9, o caso foi registrado na tarde do dia 2 do mês passado na região de Goyang, província de Gyeonggi. A mulher teria levado os pães ao pensar no marido doente. A polícia não se limitou a tratar o episódio como um simples furto; avaliou sua situação de vida e a encaminhou para possível auxílio emergencial. O caso evidencia como dificuldades de sobrevivência podem levar a delitos e o papel da polícia local na conexão com assistência social. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "80-Jährige stiehlt fünf Rotbohnenbrötchen, Polizei vermittelt Nothilfe",
-        "excerpt": "Eine Frau in den 80ern stahl aus finanzieller Not fünf Rotbohnenbrötchen, weil sie an ihren kranken Mann dachte; die Polizei in Goyang vermittelte ihr Nothilfe zum Lebensunterhalt, wie am 9. bekannt wurde.",
-        "body": "Die Polizei hat einer Frau in den 80ern, die aus wirtschaftlicher Not fünf Rotbohnenbrötchen gestohlen hatte, Nothilfe zum Lebensunterhalt vermittelt. Nach Angaben der Polizeistation Goyang vom 9. wurde der Fall am Nachmittag des 2. des vergangenen Monats in Goyang in der Provinz Gyeonggi aufgenommen. Die Frau soll die Brötchen mitgenommen haben, weil sie an ihren kranken Mann dachte. Die Polizei beließ es nicht bei der Behandlung als einfachen Diebstahl, sondern prüfte ihre Lebensumstände und verband sie mit möglicher Soforthilfe. Der Fall zeigt, wie existenzielle Not zu Straftaten führen kann, und welche Rolle die Polizei vor Ort bei der Vermittlung sozialer Unterstützung spielt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Une octogénaire vole cinq brioches au haricot rouge, la police l’oriente vers une aide d’urgence",
-        "excerpt": "Une femme de plus de 80 ans a volé cinq brioches au haricot rouge, en difficulté financière et en pensant à son mari malade; la police de Goyang l’a reliée à une aide d’urgence, a-t-on appris le 9.",
-        "body": "La police a orienté vers une aide d’urgence pour les frais de subsistance une femme de plus de 80 ans qui avait volé cinq brioches au haricot rouge dans un contexte de difficultés économiques. Selon le commissariat de Goyang le 9, l’affaire a été enregistrée l’après-midi du 2 du mois dernier dans la région de Goyang, province de Gyeonggi. La femme aurait emporté les brioches en pensant à son mari malade. La police ne s’est pas limitée au traitement d’un simple vol; elle a examiné sa situation de vie et l’a reliée à un dispositif d’aide d’urgence. Ce cas montre comment la précarité peut conduire à des infractions et le rôle de la police de terrain dans l’accès au soutien social. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مسنة تسرق خمسة أرغفة محشوة بالفاصوليا الحمراء والشرطة تربطها بدعم طارئ",
-        "excerpt": "أُعلن في التاسع أن امرأة في الثمانينيات سرقت خمسة أرغفة محشوة بالفاصوليا الحمراء وسط ضائقة مالية بعدما تذكرت زوجها المريض، فربطتها شرطة غويانغ بدعم معيشة طارئ.",
-        "body": "ربطت الشرطة امرأة في الثمانينيات بدعم طارئ لتكاليف المعيشة بعدما سرقت خمسة أرغفة محشوة بالفاصوليا الحمراء وسط صعوبات اقتصادية. ووفق شرطة غويانغ في التاسع، فقد سُجلت القضية بعد ظهر اليوم الثاني من الشهر الماضي في منطقة غويانغ بمقاطعة غيونغي. وذُكر أن المرأة أخذت الأرغفة بعدما تذكرت زوجها المريض. ولم تكتف الشرطة بمعالجة الواقعة كقضية سرقة بسيطة، بل راجعت ظروفها المعيشية وساعدت في ربطها بمساعدة معيشية طارئة. وتُظهر القضية كيف يمكن لضائقة المعيشة أن تقود إلى مخالفات، كما تبرز دور الشرطة الميدانية في وصل الفئات الضعيفة بالدعم الاجتماعي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "पांच रेड बीन ब्रेड चुराने वाली 80 वर्षीय महिला को पुलिस ने आपात सहायता से जोड़ा",
-        "excerpt": "आर्थिक कठिनाई में बीमार पति को याद कर पांच रेड बीन ब्रेड चुराने वाली 80 वर्षीय महिला को गोयांग पुलिस ने आपात जीवनयापन सहायता से जोड़ा, यह जानकारी 9 तारीख को सामने आई।",
-        "body": "आर्थिक कठिनाई के बीच पांच रेड बीन ब्रेड चुराने वाली 80 वर्षीय महिला को पुलिस ने आपात जीवनयापन सहायता से जोड़ा। 9 तारीख को गोयांग पुलिस स्टेशन के अनुसार, यह मामला पिछले महीने की 2 तारीख की दोपहर ग्योंगगी प्रांत के गोयांग क्षेत्र में दर्ज किया गया था। बताया गया कि महिला ने अपने बीमार पति को याद करते हुए ब्रेड ले ली। पुलिस ने इसे केवल साधारण चोरी का मामला मानकर समाप्त नहीं किया, बल्कि उसकी जीवन स्थिति देखी और उसे आपात आजीविका सहायता से जोड़ने में मदद की। यह घटना दिखाती है कि जीवनयापन की कठिनाइयां अपराध तक पहुंच सकती हैं और मैदानी पुलिस कल्याण सहायता से जोड़ने में भूमिका निभा सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Nenek 80-an Curi Lima Roti Kacang Merah, Polisi Hubungkan Bantuan Darurat",
-        "excerpt": "Seorang nenek berusia 80-an mencuri lima roti kacang merah di tengah kesulitan ekonomi karena teringat suaminya yang sakit, lalu Polisi Goyang menghubungkannya dengan bantuan biaya hidup darurat, terungkap pada tanggal 9.",
-        "body": "Polisi menghubungkan seorang nenek berusia 80-an dengan bantuan biaya hidup darurat setelah ia mencuri lima roti kacang merah di tengah kesulitan ekonomi. Menurut Kantor Polisi Goyang pada tanggal 9, kasus tersebut diterima pada sore hari tanggal 2 bulan lalu di wilayah Goyang, Provinsi Gyeonggi. Nenek itu disebut mengambil roti karena teringat suaminya yang sedang sakit. Polisi tidak berhenti pada penanganan sebagai kasus pencurian sederhana; mereka meninjau kondisi hidupnya lalu membantu menghubungkannya dengan dukungan biaya hidup darurat. Kasus ini menunjukkan kenyataan bahwa kesulitan ekonomi dapat berujung pada pelanggaran, sekaligus peran polisi lapangan dalam menghubungkan warga rentan dengan bantuan sosial. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7c65170fb8dd",
-    "slug": "한타-바이러스-공포-커지는데-쥐떼가대만서-쥐-출몰-영상-확산-934718",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T10:27:18.987Z",
-    "updatedAt": "2026-05-09T10:27:18.987Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042362",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042362",
-    "titleFingerprint": "93e29eb4f44b8b453ddad54a17d95d847d5f68b3",
-    "dedupKeys": [
-      "7c65170fb8dda763ee67384e0a6030e94ce69c3c",
-      "93e29eb4f44b8b453ddad54a17d95d847d5f68b3",
-      "fc0bf1afbd5e18fd518c1c70e4349cca511dd248"
-    ],
-    "imageUrl": "/images/articles/7c65170fb8dd.gif",
-    "i18n": {
-      "ko": {
-        "title": "대만 한타바이러스 불안 속 도심 쥐 출몰 영상 확산",
-        "excerpt": "대만에서 최근 한타바이러스 감염 사례가 잇따르는 가운데 타이중·타이베이 등 도심에서 쥐가 음식물을 먹는 영상이 확산돼 시민 불안과 방제 논란이 커지고 있다.",
-        "body": "대만에서 최근 한타바이러스 감염 사례가 잇따르는 가운데 타이중과 타이베이 등 도심에서 쥐가 출몰하는 영상이 확산되며 시민 불안이 커지고 있다. 영상에는 쥐들이 비닐봉투를 갉아 음식물을 먹는 장면이 담긴 것으로 전해졌다. 확진자 사망 소식까지 알려지면서 감염 우려가 높아졌고, 쥐 방제가 제대로 이뤄졌는지를 둘러싼 정치권 공방도 이어지고 있다. 도심 위생 관리와 방역 대응이 향후 주요 쟁점으로 떠오를 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Taiwan hantavirus fears grow as urban rat videos spread",
-        "excerpt": "As Taiwan reports a series of hantavirus infections, videos of rats eating food in urban areas including Taichung and Taipei have spread, fueling public anxiety and a pest-control dispute.",
-        "body": "In Taiwan, public anxiety is rising as videos showing rats in urban areas spread amid a recent series of hantavirus infection cases. The footage, reportedly filmed in places including Taichung and Taipei, shows rats gnawing through plastic bags and eating food. Concern grew further after news that a confirmed patient had died. The issue has also triggered political debate over whether rat-control measures have failed. Urban sanitation management and disease-prevention responses are expected to remain key points of attention. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "台湾でハンタウイルス不安拡大、都市部のネズミ動画が拡散",
-        "excerpt": "台湾でハンタウイルス感染例が相次ぐなか、台中や台北など都市部でネズミが食べ物を食べる映像が広がり、市民の不安と駆除対策を巡る論争が高まっている。",
-        "body": "台湾で最近、ハンタウイルス感染例が相次ぐなか、台中や台北などの都市部でネズミが出没する映像が拡散し、市民の不安が高まっている。映像には、ネズミがビニール袋をかじって食べ物を食べる場面が映っていると伝えられた。感染確認者が死亡したとのニュースも加わり、感染への懸念はさらに強まった。ネズミ駆除が十分だったのかを巡って政界でも攻防が続いている。都市部の衛生管理と防疫対応が今後の主要な争点になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "台湾汉坦病毒担忧升温，城市老鼠出没视频扩散",
-        "excerpt": "台湾近期接连出现汉坦病毒感染病例之际，台中、台北等城市老鼠啃食食物的视频在网上传播，引发民众不安和灭鼠防治争议。",
-        "body": "台湾近期接连出现汉坦病毒感染病例，台中、台北等城市地区老鼠出没的视频随之扩散，民众不安情绪升高。据报道，视频中老鼠啃咬塑料袋并吃其中食物。随着确诊者死亡消息传出，感染担忧进一步扩大。围绕老鼠防治是否失效，台湾政界也展开争论。城市卫生管理和防疫应对预计将成为后续关注焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Aumenta el temor al hantavirus en Taiwán por videos de ratas urbanas",
-        "excerpt": "Mientras Taiwán registra varios casos recientes de hantavirus, videos de ratas comiendo alimentos en zonas urbanas como Taichung y Taipéi elevan la inquietud ciudadana y el debate político.",
-        "body": "En Taiwán crece la inquietud pública tras la difusión de videos de ratas en zonas urbanas, en medio de recientes casos de infección por hantavirus. Las imágenes, vinculadas a lugares como Taichung y Taipéi, muestran a ratas mordiendo bolsas de plástico y comiendo alimentos. La preocupación aumentó después de conocerse la muerte de una persona confirmada como infectada. El asunto también abrió una disputa política sobre si fallaron las medidas de control de roedores. La higiene urbana y la respuesta sanitaria seguirán bajo atención. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Temor ao hantavírus cresce em Taiwan após vídeos de ratos urbanos",
-        "excerpt": "Com casos recentes de hantavírus em Taiwan, vídeos de ratos comendo alimentos em áreas urbanas como Taichung e Taipei se espalharam, ampliando a ansiedade pública e o debate sobre controle de pragas.",
-        "body": "Em Taiwan, a preocupação pública aumenta com a disseminação de vídeos que mostram ratos em áreas urbanas, em meio a recentes casos de infecção por hantavírus. As imagens, registradas em locais como Taichung e Taipei, mostram ratos roendo sacolas plásticas e comendo alimentos. A notícia da morte de uma pessoa confirmada como infectada elevou ainda mais o receio. O caso também gerou disputa política sobre uma possível falha no controle de ratos. A gestão da higiene urbana e a resposta de prevenção devem seguir em foco. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hantavirus-Sorge in Taiwan wächst nach Videos von Ratten in Städten",
-        "excerpt": "Während Taiwan jüngst mehrere Hantavirus-Fälle meldet, verbreiten sich Videos von Ratten, die in Taichung und Taipeh Nahrung fressen, und verstärken öffentliche Sorgen sowie politische Debatten.",
-        "body": "In Taiwan wächst die öffentliche Sorge, nachdem sich Videos von Ratten in städtischen Gebieten verbreitet haben, während zuletzt mehrere Hantavirus-Infektionen bekannt wurden. Die Aufnahmen aus Orten wie Taichung und Taipeh sollen zeigen, wie Ratten Plastiktüten annagen und Nahrung fressen. Nach der Nachricht vom Tod eines bestätigten Infizierten nahm die Angst vor Ansteckung weiter zu. Zugleich streitet die Politik darüber, ob die Rattenbekämpfung versagt hat. Stadthygiene und Seuchenschutz dürften weiter im Fokus bleiben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "À Taïwan, la peur du hantavirus grandit avec des vidéos de rats en ville",
-        "excerpt": "Alors que Taïwan connaît plusieurs cas récents de hantavirus, des vidéos de rats mangeant de la nourriture à Taichung et Taipei se diffusent, nourrissant l’inquiétude et le débat politique.",
-        "body": "À Taïwan, l’inquiétude du public augmente après la diffusion de vidéos montrant des rats dans des zones urbaines, sur fond de cas récents d’infection au hantavirus. Les images, signalées notamment à Taichung et Taipei, montreraient des rats rongeant des sacs en plastique pour manger de la nourriture. La mort d’une personne confirmée infectée a encore renforcé les craintes. Le sujet alimente aussi un affrontement politique sur l’efficacité de la lutte contre les rats. L’hygiène urbaine et la réponse sanitaire devraient rester au centre de l’attention. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "قلق من هانتا في تايوان مع انتشار فيديوهات فئران في المدن",
-        "excerpt": "مع توالي حالات إصابة بفيروس هانتا في تايوان، انتشرت مقاطع لفئران تأكل الطعام في تايتشونغ وتايبيه، ما زاد قلق السكان وأثار جدلا سياسيا حول مكافحة القوارض.",
-        "body": "يتزايد القلق في تايوان بعد انتشار مقاطع تظهر فئرانا في مناطق حضرية، بالتزامن مع تسجيل حالات إصابة حديثة بفيروس هانتا. وتظهر المقاطع، التي قيل إنها في تايتشونغ وتايبيه، فئرانا تقرض أكياسا بلاستيكية وتأكل الطعام. وازداد الخوف من العدوى بعد الإعلان عن وفاة مصاب مؤكد. كما أثار الأمر سجالا سياسيا حول ما إذا كانت جهود مكافحة الفئران قد فشلت. ومن المتوقع أن تبقى إدارة النظافة الحضرية والاستجابة الوقائية محور متابعة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ताइवान में हंता वायरस चिंता के बीच शहरों में चूहों के वीडियो फैले",
-        "excerpt": "ताइवान में हालिया हंता वायरस मामलों के बीच ताइचुंग और ताइपे जैसे शहरों में चूहों के भोजन खाते वीडियो फैलने से नागरिकों की चिंता और चूहा नियंत्रण पर राजनीतिक बहस बढ़ी।",
-        "body": "ताइवान में हाल में हंता वायरस संक्रमण के मामले सामने आने के बीच शहरों में चूहों के दिखने वाले वीडियो फैलने से नागरिकों की चिंता बढ़ रही है। ताइचुंग और ताइपे जैसे इलाकों से जुड़े बताए जा रहे वीडियो में चूहे प्लास्टिक बैग कुतरकर भोजन खाते दिखते हैं। एक पुष्ट संक्रमित की मौत की खबर के बाद संक्रमण को लेकर डर और बढ़ गया। इसी मुद्दे पर यह राजनीतिक बहस भी शुरू हुई है कि क्या चूहा नियंत्रण व्यवस्था विफल रही। शहरी स्वच्छता और रोकथाम की प्रतिक्रिया आगे भी मुख्य मुद्दा रह सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kekhawatiran hantavirus di Taiwan naik setelah video tikus kota menyebar",
-        "excerpt": "Saat Taiwan mencatat sejumlah kasus hantavirus baru-baru ini, video tikus memakan makanan di wilayah kota seperti Taichung dan Taipei menyebar, memicu kecemasan warga dan polemik pengendalian hama.",
-        "body": "Di Taiwan, kecemasan publik meningkat setelah video tikus di kawasan perkotaan menyebar di tengah rangkaian kasus infeksi hantavirus baru-baru ini. Rekaman yang disebut berasal dari wilayah seperti Taichung dan Taipei itu memperlihatkan tikus menggerogoti kantong plastik dan memakan makanan. Kekhawatiran bertambah setelah kabar kematian seorang pasien terkonfirmasi. Isu ini juga memicu perdebatan politik mengenai apakah pengendalian tikus telah gagal. Kebersihan kota dan respons pencegahan diperkirakan tetap menjadi perhatian utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6cd4d92d1595",
-    "slug": "엘리베이터-안에서-위층-이웃-마주치자-20대가-한-짓-충격-313717",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T10:26:17.152Z",
-    "updatedAt": "2026-05-09T10:26:17.152Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042365",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042365",
-    "titleFingerprint": "69e9e6d3a762d81ae2ddbc1a72e16ca00bb75835",
-    "dedupKeys": [
-      "6cd4d92d1595c42ff1abab2b61fc25d64158a9b8",
-      "69e9e6d3a762d81ae2ddbc1a72e16ca00bb75835",
-      "d35de903b6c776fdc492ed4fc0694c489e1a095c"
-    ],
-    "imageUrl": "/images/articles/6cd4d92d1595.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대구 엘리베이터 이웃 살해 사건, 경찰 “층간소음 범행 추정”",
-        "excerpt": "대구 서부경찰서는 9일 엘리베이터에서 위층 이웃을 마주친 뒤 흉기로 살해한 혐의로 20대 A씨를 붙잡아 조사 중이라고 밝혔다.",
-        "body": "대구에서 20대 남성이 엘리베이터 안에서 위층 이웃을 마주친 뒤 흉기로 살해한 혐의로 경찰에 붙잡혔다. 대구 서부경찰서는 9일 A씨를 살인 혐의로 조사 중이라고 밝혔다. 경찰은 이번 사건이 층간소음 문제와 관련된 범행으로 추정하고 있다. 피해자는 같은 건물 위층에 거주하던 이웃으로 알려졌다. 경찰은 구체적인 범행 경위와 동기, 사건 당시 상황을 확인한 뒤 A씨에 대해 구속영장을 신청할 방침이다. 이번 사건은 공동주거 공간에서 반복되는 층간소음 갈등이 중대 범죄로 이어질 수 있다는 우려를 다시 키우고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Daegu Elevator Neighbor Killing: Police Suspect Floor-Noise Dispute",
-        "excerpt": "Daegu Seobu Police said on May 9 they are questioning a man in his 20s accused of fatally stabbing an upstairs neighbor after encountering the victim in an elevator.",
-        "body": "A man in his 20s was taken into police custody in Daegu on suspicion of killing an upstairs neighbor with a weapon after encountering the victim inside an elevator. Daegu Seobu Police said on May 9 that the suspect, identified only as A, is being investigated on a murder charge. Police believe the case may be linked to a dispute over noise between floors. The victim was reportedly a neighbor living on an upper floor of the same building. Investigators plan to review the exact sequence of events, motive and circumstances at the time before seeking an arrest warrant for A. The case has renewed concern that conflicts over noise in shared housing can escalate into serious crimes. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "大邱のエレベーター隣人殺害事件、警察「階間騒音が原因か」",
-        "excerpt": "大邱西部警察署は9日、エレベーターで上階の隣人と遭遇した後、刃物で殺害した疑いで20代のA氏を拘束し調べていると明らかにした。",
-        "body": "大邱で20代の男性が、エレベーター内で上階の隣人と遭遇した後、刃物で殺害した疑いで警察に拘束された。大邱西部警察署は9日、A氏を殺人容疑で調べていると明らかにした。警察は今回の事件が階間騒音をめぐる問題と関連した犯行とみている。被害者は同じ建物の上階に住む隣人とされる。警察は具体的な犯行経緯や動機、当時の状況を確認したうえで、A氏に対する逮捕状を請求する方針だ。今回の事件は、共同住宅で繰り返される騒音トラブルが重大犯罪につながり得るとの懸念を改めて高めている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "大邱电梯邻里命案：警方称疑因楼层噪音纠纷引发",
-        "excerpt": "大邱西部警察署9日表示，已抓获并调查一名20多岁男子A某，其涉嫌在电梯内遇到楼上邻居后用凶器将其杀害。",
-        "body": "韩国大邱一名20多岁男子涉嫌在电梯内遇到楼上邻居后，使用凶器将其杀害，已被警方控制。大邱西部警察署9日表示，正在以杀人嫌疑对A某进行调查。警方认为，该案件可能与楼层之间的噪音问题有关。受害者据悉是住在同一建筑物楼上的邻居。警方计划进一步确认具体作案经过、动机以及案发当时情况，并将申请对A某签发拘捕令。此案再次引发外界对共同居住空间中楼层噪音矛盾可能升级为严重犯罪的担忧。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Crimen en ascensor de Daegu: policía sospecha disputa por ruido vecinal",
-        "excerpt": "La Policía de Daegu Seobu informó el 9 de mayo que investiga a un hombre de unos 20 años acusado de matar con un arma blanca a un vecino del piso superior.",
-        "body": "Un hombre de unos 20 años fue detenido en Daegu bajo sospecha de matar con un arma blanca a un vecino del piso superior tras encontrarse con él dentro de un ascensor. La Policía de Daegu Seobu informó el 9 de mayo que el sospechoso, identificado como A, está siendo investigado por homicidio. La policía estima que el caso podría estar relacionado con una disputa por ruido entre pisos. La víctima sería un vecino que vivía en un piso superior del mismo edificio. Los investigadores prevén confirmar la secuencia exacta de los hechos, el motivo y las circunstancias del momento antes de solicitar una orden de arresto contra A. El caso vuelve a generar preocupación por la posibilidad de que conflictos de ruido en viviendas compartidas escalen a delitos graves. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Crime em elevador em Daegu: polícia suspeita de disputa por ruído",
-        "excerpt": "A Polícia de Daegu Seobu informou em 9 de maio que investiga um homem na casa dos 20 anos acusado de matar com arma branca um vizinho do andar superior.",
-        "body": "Um homem na casa dos 20 anos foi detido em Daegu sob suspeita de matar com uma arma branca um vizinho do andar superior após encontrá-lo dentro de um elevador. A Polícia de Daegu Seobu informou em 9 de maio que o suspeito, identificado apenas como A, está sendo investigado por homicídio. A polícia acredita que o caso possa estar ligado a uma disputa por ruído entre andares. A vítima seria um vizinho que morava em um andar superior do mesmo prédio. Os investigadores pretendem verificar a sequência exata dos fatos, o motivo e as circunstâncias do momento antes de solicitar um mandado de prisão contra A. O caso reacende preocupações sobre conflitos de ruído em moradias coletivas que podem evoluir para crimes graves. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Tötung im Aufzug in Daegu: Polizei vermutet Streit um Lärm",
-        "excerpt": "Die Polizei Daegu Seobu teilte am 9. Mai mit, dass sie einen Mann in den Zwanzigern wegen des Verdachts befragt, einen Nachbarn aus der oberen Etage erstochen zu haben.",
-        "body": "Ein Mann in den Zwanzigern wurde in Daegu festgenommen, weil er verdächtigt wird, einen Nachbarn aus der oberen Etage nach einer Begegnung im Aufzug mit einer Waffe getötet zu haben. Die Polizei Daegu Seobu erklärte am 9. Mai, dass gegen den nur als A bezeichneten Verdächtigen wegen Mordes ermittelt werde. Nach Einschätzung der Polizei könnte die Tat mit einem Streit über Lärm zwischen den Stockwerken zusammenhängen. Das Opfer soll im selben Gebäude in einer oberen Etage gewohnt haben. Die Ermittler wollen den genauen Ablauf, das Motiv und die Umstände zur Tatzeit klären, bevor sie einen Haftbefehl gegen A beantragen. Der Fall verstärkt erneut die Sorge, dass Lärmkonflikte in Mehrfamilienhäusern zu schweren Straftaten eskalieren können. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Meurtre dans un ascenseur à Daegu: la police évoque un conflit de bruit",
-        "excerpt": "La police de Daegu Seobu a indiqué le 9 mai enquêter sur un homme d’une vingtaine d’années soupçonné d’avoir tué à l’arme blanche un voisin de l’étage supérieur.",
-        "body": "Un homme d’une vingtaine d’années a été interpellé à Daegu, soupçonné d’avoir tué à l’arme blanche un voisin de l’étage supérieur après l’avoir croisé dans un ascenseur. La police de Daegu Seobu a annoncé le 9 mai qu’elle enquêtait sur le suspect, identifié seulement comme A, pour meurtre. Les enquêteurs estiment que l’affaire pourrait être liée à un conflit de bruit entre étages. La victime serait un voisin vivant à l’étage supérieur du même immeuble. La police prévoit de vérifier le déroulement précis des faits, le mobile et les circonstances au moment de l’incident avant de demander un mandat d’arrêt contre A. Cette affaire ravive les inquiétudes sur le risque que des conflits de bruit en habitat collectif dégénèrent en crimes graves. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جريمة مصعد في دايغو: الشرطة ترجح خلافا بسبب ضوضاء بين الطوابق",
-        "excerpt": "قالت شرطة دايغو سيوبو في 9 مايو إنها تحقق مع رجل في العشرينات يشتبه في قتله جاره في الطابق العلوي بسلاح أبيض بعد لقائه داخل المصعد.",
-        "body": "أوقفت الشرطة في دايغو رجلا في العشرينات للاشتباه في قتله جاره في الطابق العلوي بسلاح أبيض بعد أن صادفه داخل مصعد. وقالت شرطة دايغو سيوبو في 9 مايو إنها تحقق مع المشتبه به، المشار إليه بالحرف A، بتهمة القتل. وترجح الشرطة أن تكون الواقعة مرتبطة بخلاف حول الضوضاء بين الطوابق. وبحسب المعلومات المتاحة، كان الضحية جارا يسكن في طابق أعلى من المبنى نفسه. وتعتزم الشرطة التحقق من تفاصيل مسار الجريمة والدافع والظروف وقت الحادث قبل طلب مذكرة توقيف بحق A. وتثير القضية مجددا القلق من أن نزاعات الضوضاء في المساكن المشتركة قد تتصاعد إلى جرائم خطيرة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "डेगू लिफ्ट पड़ोसी हत्या: पुलिस को मंजिलों के शोर विवाद का संदेह",
-        "excerpt": "डेगू सेओबू पुलिस ने 9 मई को बताया कि वह 20 वर्षीय A से पूछताछ कर रही है, जिस पर लिफ्ट में ऊपरी मंजिल के पड़ोसी से मिलने के बाद हथियार से हत्या का आरोप है।",
-        "body": "डेगू में 20 वर्षीय एक पुरुष को ऊपरी मंजिल के पड़ोसी से लिफ्ट के अंदर सामना होने के बाद हथियार से उसकी हत्या करने के संदेह में पुलिस ने पकड़ा है। डेगू सेओबू पुलिस ने 9 मई को कहा कि A नाम से पहचाने गए संदिग्ध से हत्या के आरोप में पूछताछ की जा रही है। पुलिस का अनुमान है कि यह मामला मंजिलों के बीच शोर से जुड़े विवाद से संबंधित हो सकता है। पीड़ित उसी इमारत की ऊपरी मंजिल पर रहने वाला पड़ोसी बताया गया है। पुलिस घटना की सटीक परिस्थितियों, मकसद और उस समय की स्थिति की पुष्टि करने के बाद A के खिलाफ गिरफ्तारी वारंट के लिए आवेदन करने की योजना बना रही है। यह घटना साझा आवासों में शोर विवादों के गंभीर अपराधों में बदलने की चिंता फिर बढ़ाती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pembunuhan Tetangga di Lift Daegu: Polisi Duga Terkait Kebisingan",
-        "excerpt": "Polisi Daegu Seobu pada 9 Mei menyatakan sedang memeriksa pria berusia 20-an berinisial A, yang diduga membunuh tetangga lantai atas dengan senjata tajam.",
-        "body": "Seorang pria berusia 20-an ditangkap di Daegu atas dugaan membunuh tetangga lantai atas dengan senjata tajam setelah bertemu korban di dalam lift. Polisi Daegu Seobu pada 9 Mei menyatakan bahwa tersangka, yang disebut sebagai A, sedang diperiksa atas tuduhan pembunuhan. Polisi menduga kasus ini berkaitan dengan masalah kebisingan antarlantai. Korban diketahui sebagai tetangga yang tinggal di lantai atas gedung yang sama. Penyidik akan memastikan kronologi, motif, dan situasi saat kejadian sebelum mengajukan surat perintah penahanan terhadap A. Kasus ini kembali memunculkan kekhawatiran bahwa konflik kebisingan di hunian bersama dapat berkembang menjadi kejahatan serius. Sumber: mk.co.kr"
       }
     }
   }
