@@ -1,0 +1,75 @@
+{
+  "id": "06d47bbb33a1",
+  "slug": "it-might-be-too-late-for-bitcoins-quantum-migration-project--693548",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-09T16:28:11.218Z",
+  "updatedAt": "2026-05-09T16:28:11.218Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues",
+  "canonicalUrl": "https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues",
+  "titleFingerprint": "308917d0ba01f29b78dcf01c9b06113e5f251421",
+  "dedupKeys": [
+    "06d47bbb33a1a2770554c6e388f9458e5f385009",
+    "308917d0ba01f29b78dcf01c9b06113e5f251421",
+    "0bfd8cb53b8cd8ddc3d4bc72f278e4466ccd7c5f"
+  ],
+  "imageUrl": "/images/articles/06d47bbb33a1.jpg",
+  "i18n": {
+    "ko": {
+      "title": "비트코인 양자 전환, 이미 늦었나…Project Eleven 보고서 경고",
+      "excerpt": "Project Eleven 보고서는 양자컴퓨팅이 최대 3조 달러 규모의 디지털 자산뿐 아니라 은행 시스템, 군 통신, 디지털 신원 보안까지 위협할 수 있다고 경고했다.",
+      "body": "Project Eleven은 보고서에서 비트코인의 양자컴퓨팅 대응 전환이 이미 늦었을 수 있다고 주장했다. 보고서는 양자컴퓨팅이 최대 3조 달러 규모의 디지털 자산을 위험에 노출할 뿐 아니라, 은행 시스템과 군사 통신, 디지털 신원 등 광범위한 보안 기반에도 영향을 줄 수 있다고 지적했다. 핵심 쟁점은 비트코인과 디지털 자산 생태계가 양자 위협에 맞춰 암호 체계를 이전할 충분한 시간을 확보했는지다. 보고서는 이 문제가 단순한 가상자산 리스크를 넘어 금융·통신·신원 인프라 전반의 보안 과제로 확장될 수 있음을 경고했다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Bitcoin Quantum Migration May Be Too Late, Project Eleven Warns",
+      "excerpt": "Project Eleven’s report warns that quantum computing could threaten up to $3 trillion in digital assets as well as banking systems, military communications and digital identities.",
+      "body": "Project Eleven argues in a report that Bitcoin’s migration against quantum-computing risks may already be too late. The report says quantum computing does not only put up to $3 trillion in digital assets at risk, but could also affect the security of banking systems, military communications, digital identities and other core infrastructure. The central issue is whether Bitcoin and the broader digital-asset ecosystem have enough time to move their cryptographic systems before quantum threats become material. The report frames the risk as more than a crypto-market concern, warning that it could extend across finance, communications and identity security. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "ビットコインの量子移行は遅すぎる可能性、Project Elevenが警告",
+      "excerpt": "Project Elevenの報告書は、量子コンピューティングが最大3兆ドルのデジタル資産に加え、銀行システム、軍通信、デジタルIDの安全性も脅かす可能性があると警告した。",
+      "body": "Project Elevenは報告書で、ビットコインの量子コンピューティングリスクへの移行対応は、すでに遅すぎる可能性があると主張した。報告書によると、量子コンピューティングは最大3兆ドル規模のデジタル資産を危険にさらすだけでなく、銀行システム、軍事通信、デジタルIDなど幅広い安全基盤にも影響を及ぼし得る。焦点は、ビットコインとデジタル資産エコシステムが量子脅威に備えて暗号方式を移行する十分な時間を確保できるかどうかだ。報告書は、この問題が暗号資産市場だけでなく、金融・通信・IDインフラ全体の安全保障課題に広がると警告している。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "比特币量子迁移或已太迟，Project Eleven报告发出警告",
+      "excerpt": "Project Eleven报告警告称，量子计算不仅可能威胁最高3万亿美元的数字资产，还可能影响银行系统、军事通信和数字身份安全。",
+      "body": "Project Eleven在报告中认为，比特币应对量子计算风险的迁移可能已经太迟。报告指出，量子计算不仅会让最高3万亿美元规模的数字资产面临风险，也可能影响银行系统、军事通信、数字身份等广泛安全基础。核心问题在于，比特币及数字资产生态是否仍有足够时间，在量子威胁变得现实之前完成加密体系迁移。报告将这一风险描述为超越加密资产市场的问题，并警告其可能扩展至金融、通信和身份基础设施的整体安全。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Migración cuántica de Bitcoin podría llegar tarde, advierte Project Eleven",
+      "excerpt": "El informe de Project Eleven advierte que la computación cuántica podría amenazar hasta 3 billones de dólares en activos digitales, además de bancos, comunicaciones militares e identidades digitales.",
+      "body": "Project Eleven sostiene en un informe que la migración de Bitcoin frente a los riesgos de la computación cuántica podría llegar demasiado tarde. El reporte afirma que la computación cuántica no solo pone en riesgo hasta 3 billones de dólares en activos digitales, sino que también podría afectar la seguridad de los sistemas bancarios, las comunicaciones militares, las identidades digitales y otras infraestructuras clave. La cuestión central es si Bitcoin y el ecosistema de activos digitales tienen tiempo suficiente para trasladar sus sistemas criptográficos antes de que la amenaza cuántica sea material. El informe presenta el riesgo como un problema que va más allá del mercado cripto y alcanza finanzas, comunicaciones e identidad. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Migração quântica do Bitcoin pode ser tardia, alerta Project Eleven",
+      "excerpt": "Relatório da Project Eleven alerta que a computação quântica pode ameaçar até US$ 3 trilhões em ativos digitais, além de bancos, comunicações militares e identidades digitais.",
+      "body": "A Project Eleven argumenta em relatório que a migração do Bitcoin para enfrentar riscos da computação quântica pode já estar atrasada. Segundo o documento, a computação quântica não ameaça apenas até US$ 3 trilhões em ativos digitais, mas também pode afetar a segurança de sistemas bancários, comunicações militares, identidades digitais e outras infraestruturas essenciais. A questão central é se o Bitcoin e o ecossistema de ativos digitais ainda têm tempo suficiente para migrar seus sistemas criptográficos antes que a ameaça quântica se torne concreta. O relatório trata o risco como algo além do mercado cripto, com impacto potencial sobre finanças, comunicações e identidade. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Bitcoin-Quantenmigration könnte zu spät kommen, warnt Project Eleven",
+      "excerpt": "Ein Bericht von Project Eleven warnt, dass Quantencomputing bis zu 3 Billionen US-Dollar an digitalen Vermögenswerten sowie Bankensysteme, Militärkommunikation und digitale Identitäten bedrohen könnte.",
+      "body": "Project Eleven argumentiert in einem Bericht, dass die Migration von Bitcoin gegen Risiken des Quantencomputings bereits zu spät kommen könnte. Dem Bericht zufolge gefährdet Quantencomputing nicht nur digitale Vermögenswerte von bis zu 3 Billionen US-Dollar, sondern kann auch die Sicherheit von Bankensystemen, militärischer Kommunikation, digitalen Identitäten und weiterer zentraler Infrastruktur betreffen. Entscheidend ist, ob Bitcoin und das Ökosystem digitaler Vermögenswerte noch genug Zeit haben, ihre kryptografischen Systeme vor einer realen Quantenbedrohung umzustellen. Der Bericht beschreibt das Risiko als Thema, das über den Kryptomarkt hinausgeht und Finanzen, Kommunikation und Identitätssicherheit erfasst. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Migration quantique du bitcoin peut-être trop tardive, alerte Project Eleven",
+      "excerpt": "Le rapport de Project Eleven avertit que l’informatique quantique pourrait menacer jusqu’à 3 000 milliards de dollars d’actifs numériques, ainsi que les banques, communications militaires et identités numériques.",
+      "body": "Project Eleven affirme dans un rapport que la migration du bitcoin face aux risques de l’informatique quantique pourrait déjà être trop tardive. Selon le rapport, l’informatique quantique ne menace pas seulement jusqu’à 3 000 milliards de dollars d’actifs numériques, mais pourrait aussi affecter la sécurité des systèmes bancaires, des communications militaires, des identités numériques et d’autres infrastructures essentielles. L’enjeu central est de savoir si le bitcoin et l’écosystème des actifs numériques disposent encore du temps nécessaire pour migrer leurs systèmes cryptographiques avant que la menace quantique ne devienne concrète. Le rapport présente ce risque comme dépassant le marché crypto et touchant finance, communication et identité. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "ترحيل بيتكوين لمواجهة الحوسبة الكمية قد يكون متأخرا، وفق Project Eleven",
+      "excerpt": "يحذر تقرير Project Eleven من أن الحوسبة الكمية قد تهدد أصولا رقمية تصل قيمتها إلى 3 تريليونات دولار، إلى جانب أنظمة البنوك والاتصالات العسكرية والهويات الرقمية.",
+      "body": "تقول Project Eleven في تقريرها إن انتقال بيتكوين لمواجهة مخاطر الحوسبة الكمية قد يكون متأخرا بالفعل. ويوضح التقرير أن الحوسبة الكمية لا تعرض للخطر أصولا رقمية تصل قيمتها إلى 3 تريليونات دولار فقط، بل قد تؤثر أيضا في أمن الأنظمة المصرفية والاتصالات العسكرية والهويات الرقمية وبنى أمنية أساسية أخرى. وتتمحور المسألة حول ما إذا كانت بيتكوين ومنظومة الأصول الرقمية تملكان وقتا كافيا لنقل أنظمتهما التشفيرية قبل أن تصبح التهديدات الكمية واقعية. ويعرض التقرير الخطر باعتباره يتجاوز سوق العملات المشفرة إلى أمن التمويل والاتصالات والهوية. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "बिटकॉइन का क्वांटम माइग्रेशन देर से हो सकता है, Project Eleven की चेतावनी",
+      "excerpt": "Project Eleven की रिपोर्ट चेतावनी देती है कि क्वांटम कंप्यूटिंग 3 ट्रिलियन डॉलर तक की डिजिटल संपत्तियों के साथ बैंकिंग सिस्टम, सैन्य संचार और डिजिटल पहचान सुरक्षा को भी खतरे में डाल सकती है।",
+      "body": "Project Eleven ने अपनी रिपोर्ट में कहा कि क्वांटम कंप्यूटिंग जोखिमों के खिलाफ बिटकॉइन का माइग्रेशन शायद पहले ही देर से हो रहा है। रिपोर्ट के अनुसार, क्वांटम कंप्यूटिंग केवल 3 ट्रिलियन डॉलर तक की डिजिटल संपत्तियों को जोखिम में नहीं डालती, बल्कि बैंकिंग सिस्टम, सैन्य संचार, डिजिटल पहचान और अन्य महत्वपूर्ण सुरक्षा ढांचे को भी प्रभावित कर सकती है। मुख्य सवाल यह है कि क्या बिटकॉइन और डिजिटल एसेट इकोसिस्टम के पास क्वांटम खतरे के वास्तविक होने से पहले अपनी क्रिप्टोग्राफिक प्रणालियों को स्थानांतरित करने के लिए पर्याप्त समय है। रिपोर्ट इस जोखिम को क्रिप्टो बाजार से आगे वित्त, संचार और पहचान सुरक्षा की व्यापक चुनौती के रूप में पेश करती है। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Migrasi Kuantum Bitcoin Mungkin Terlambat, Project Eleven Memperingatkan",
+      "excerpt": "Laporan Project Eleven memperingatkan bahwa komputasi kuantum dapat mengancam aset digital hingga US$3 triliun, serta keamanan sistem perbankan, komunikasi militer, dan identitas digital.",
+      "body": "Project Eleven dalam laporannya berargumen bahwa migrasi Bitcoin untuk menghadapi risiko komputasi kuantum mungkin sudah terlambat. Laporan itu menyebut komputasi kuantum tidak hanya membahayakan aset digital hingga US$3 triliun, tetapi juga dapat memengaruhi keamanan sistem perbankan, komunikasi militer, identitas digital, dan infrastruktur penting lain. Isu utamanya adalah apakah Bitcoin dan ekosistem aset digital masih memiliki cukup waktu untuk memindahkan sistem kriptografinya sebelum ancaman kuantum menjadi nyata. Laporan tersebut menempatkan risiko ini sebagai masalah yang melampaui pasar kripto dan dapat menjangkau keamanan keuangan, komunikasi, serta identitas. Sumber: coindesk.com"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "370e3a18f06c",
+  "slug": "why-a-2017-linux-bug-is-now-a-major-concern-for-the-crypto-i-801204",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-09T16:29:07.049Z",
+  "updatedAt": "2026-05-09T16:29:07.049Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security",
+  "titleFingerprint": "72a49a29245ef9a16072577c892b3afe6db65adb",
+  "dedupKeys": [
+    "370e3a18f06c541f51b7cc2a4f306757bc7a1caf",
+    "72a49a29245ef9a16072577c892b3afe6db65adb",
+    "bcdbafc0fb0db81ec5510615552b53d408c1c97b"
+  ],
+  "imageUrl": "/images/articles/370e3a18f06c.jpg",
+  "i18n": {
+    "ko": {
+      "title": "2017년 리눅스 ‘Copy Fail’ 버그, 크립토 인프라 보안 우려 확대",
+      "excerpt": "2017년 발견된 리눅스 ‘Copy Fail’ 버그가 리눅스 서버에 의존하는 크립토 인프라에 영향을 줄 수 있어 디지털 자산 업계의 사이버보안 위험이 다시 주목받고 있다.",
+      "body": "2017년 리눅스에서 발견된 ‘Copy Fail’ 버그가 현재 크립토 업계의 주요 보안 우려로 떠올랐다. 리눅스 서버에 의존하는 디지털 자산 인프라가 이 취약점의 영향을 받을 수 있기 때문이다. 원문은 이 문제가 특정 서비스 하나의 문제가 아니라, 크립토 인프라가 널리 사용하는 서버 환경과 연결돼 있다는 점을 짚었다. 배경에는 디지털 자산 산업이 성장하면서 기반 시스템 보안의 중요성도 함께 커졌다는 흐름이 있다. 이번 사례는 오래된 운영체제 버그도 시간이 지나 새로운 위험으로 부각될 수 있음을 보여준다. 향후 업계는 리눅스 기반 서버 보안 점검과 취약점 관리에 더 큰 주의를 기울일 필요가 있다. 출처: cointelegraph.com."
+    },
+    "en": {
+      "title": "2017 Linux ‘Copy Fail’ Bug Raises Crypto Infrastructure Security Concerns",
+      "excerpt": "A 2017 Linux ‘Copy Fail’ bug may affect crypto infrastructure that depends on Linux servers, bringing renewed attention to cybersecurity risks in digital assets.",
+      "body": "A Linux bug discovered in 2017, known as ‘Copy Fail,’ has become a major security concern for the crypto industry. The issue matters because digital asset infrastructure often depends on Linux servers, which could be affected by the vulnerability. The original report frames it not as a problem limited to one service, but as a risk tied to the server environment widely used across crypto systems. The context is the continued growth of the digital asset sector and the rising importance of securing its underlying infrastructure. The case shows how an older operating system bug can later emerge as a fresh risk. Industry participants may need to pay closer attention to Linux server checks and vulnerability management. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "2017年のLinux「Copy Fail」バグ、暗号資産インフラに懸念",
+      "excerpt": "2017年に見つかったLinuxの「Copy Fail」バグが、Linuxサーバーに依存する暗号資産インフラへ影響する可能性があり、業界のサイバーセキュリティリスクが再注目されている。",
+      "body": "2017年にLinuxで見つかった「Copy Fail」バグが、いま暗号資産業界の重要なセキュリティ懸念として浮上している。Linuxサーバーに依存するデジタル資産インフラが、この脆弱性の影響を受ける可能性があるためだ。原文は、これを特定のサービスだけの問題ではなく、暗号資産インフラで広く使われるサーバー環境に結び付いたリスクとして説明している。背景には、デジタル資産産業の成長とともに基盤システムの安全性が一段と重要になっている流れがある。今回の事例は、古いOSバグでも時間を経て新たなリスクとして浮上し得ることを示す。今後、業界はLinuxベースのサーバー点検と脆弱性管理により注意を払う必要がある。出典: cointelegraph.com."
+    },
+    "zh": {
+      "title": "2017年Linux“Copy Fail”漏洞引发加密基础设施安全担忧",
+      "excerpt": "2017年发现的Linux“Copy Fail”漏洞可能影响依赖Linux服务器的加密基础设施，使数字资产行业的网络安全风险再次受到关注。",
+      "body": "2017年在Linux中发现的“Copy Fail”漏洞，如今成为加密行业的重要安全担忧。原因是许多数字资产基础设施依赖Linux服务器，而这些服务器可能受到该漏洞影响。原文指出，这并非某一项服务的单独问题，而是与加密基础设施广泛使用的服务器环境相关的风险。其背景是数字资产行业持续发展，底层系统安全的重要性也随之上升。该案例显示，早期操作系统漏洞也可能在多年后以新的风险形式重新出现。未来，行业需要更加重视Linux服务器安全检查和漏洞管理。来源: cointelegraph.com."
+    },
+    "es": {
+      "title": "El fallo Linux ‘Copy Fail’ de 2017 inquieta a la infraestructura cripto",
+      "excerpt": "El fallo ‘Copy Fail’ de Linux, detectado en 2017, podría afectar infraestructura cripto basada en servidores Linux y reaviva los riesgos de ciberseguridad del sector.",
+      "body": "Un fallo de Linux descubierto en 2017, conocido como ‘Copy Fail’, se ha convertido ahora en una preocupación relevante para la seguridad de la industria cripto. El problema importa porque parte de la infraestructura de activos digitales depende de servidores Linux que podrían verse afectados por esta vulnerabilidad. El informe original lo presenta no como un problema de un único servicio, sino como un riesgo ligado al entorno de servidores usado ampliamente por los sistemas cripto. El contexto es el crecimiento del sector de activos digitales y la mayor importancia de proteger su infraestructura base. El caso muestra que un error antiguo de sistema operativo puede reaparecer años después como un nuevo riesgo. La industria deberá prestar más atención a las revisiones de servidores Linux y a la gestión de vulnerabilidades. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "Bug Linux ‘Copy Fail’ de 2017 acende alerta na infraestrutura cripto",
+      "excerpt": "O bug ‘Copy Fail’ do Linux, identificado em 2017, pode afetar infraestrutura cripto baseada em servidores Linux e reforça riscos de cibersegurança no setor.",
+      "body": "Um bug do Linux descoberto em 2017, chamado ‘Copy Fail’, tornou-se agora uma preocupação importante de segurança para a indústria cripto. A questão é relevante porque parte da infraestrutura de ativos digitais depende de servidores Linux, que podem ser impactados pela vulnerabilidade. O relato original apresenta o caso não como um problema de um único serviço, mas como um risco ligado ao ambiente de servidores amplamente usado por sistemas cripto. O contexto é o avanço do setor de ativos digitais e a crescente importância de proteger seus sistemas de base. O episódio mostra que uma falha antiga de sistema operacional pode voltar anos depois como um novo risco. A indústria deve dar mais atenção a verificações de segurança em servidores Linux e à gestão de vulnerabilidades. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "Linux-‘Copy Fail’-Bug von 2017 weckt Sorgen um Krypto-Infrastruktur",
+      "excerpt": "Der 2017 entdeckte Linux-Fehler ‘Copy Fail’ könnte Krypto-Infrastruktur treffen, die auf Linux-Server setzt, und rückt Cyberrisiken der Digital-Asset-Branche erneut in den Fokus.",
+      "body": "Ein 2017 entdeckter Linux-Fehler namens ‘Copy Fail’ ist nun zu einer wichtigen Sicherheitsfrage für die Kryptoindustrie geworden. Relevant ist das Problem, weil digitale Vermögensinfrastruktur häufig auf Linux-Server angewiesen ist und von der Schwachstelle betroffen sein könnte. Der Originalbericht beschreibt dies nicht als Problem eines einzelnen Dienstes, sondern als Risiko, das mit der in Kryptosystemen weit verbreiteten Serverumgebung verbunden ist. Der Hintergrund ist das Wachstum der Digital-Asset-Branche und die zunehmende Bedeutung sicherer Basissysteme. Der Fall zeigt, dass auch ältere Betriebssystemfehler später als neues Risiko sichtbar werden können. Die Branche dürfte Linux-Serverprüfungen und Schwachstellenmanagement stärker beachten müssen. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "Le bug Linux ‘Copy Fail’ de 2017 inquiète l’infrastructure crypto",
+      "excerpt": "Le bug Linux ‘Copy Fail’, découvert en 2017, pourrait toucher l’infrastructure crypto reposant sur des serveurs Linux et remet en avant les risques de cybersécurité du secteur.",
+      "body": "Un bug Linux découvert en 2017, appelé ‘Copy Fail’, est devenu une préoccupation majeure de sécurité pour l’industrie crypto. Le sujet compte parce que des infrastructures d’actifs numériques dépendent de serveurs Linux qui pourraient être affectés par cette vulnérabilité. Le rapport d’origine ne le présente pas comme le problème d’un seul service, mais comme un risque lié à l’environnement serveur largement utilisé par les systèmes crypto. Le contexte est la croissance du secteur des actifs numériques et l’importance accrue de sécuriser ses systèmes de base. Ce cas montre qu’un ancien bug de système d’exploitation peut réapparaître des années plus tard comme un nouveau risque. Le secteur devra accorder davantage d’attention aux contrôles de serveurs Linux et à la gestion des vulnérabilités. Source: cointelegraph.com."
+    },
+    "ar": {
+      "title": "ثغرة Linux ‘Copy Fail’ من 2017 تثير قلق بنية العملات المشفرة",
+      "excerpt": "قد تؤثر ثغرة Linux ‘Copy Fail’ المكتشفة في 2017 على بنية العملات المشفرة المعتمدة على خوادم Linux، ما يعيد تسليط الضوء على مخاطر الأمن السيبراني في الأصول الرقمية.",
+      "body": "أصبحت ثغرة في Linux اكتُشفت عام 2017 وتُعرف باسم ‘Copy Fail’ مصدر قلق أمني مهم لصناعة العملات المشفرة. تكمن أهمية القضية في أن بنية الأصول الرقمية تعتمد في أجزاء منها على خوادم Linux، وقد تتأثر بهذه الثغرة. ويعرض التقرير الأصلي المسألة ليس بوصفها مشكلة تخص خدمة واحدة، بل كخطر مرتبط ببيئة الخوادم المستخدمة على نطاق واسع في أنظمة العملات المشفرة. يأتي ذلك في سياق نمو صناعة الأصول الرقمية وازدياد أهمية تأمين أنظمتها الأساسية. وتوضح الحالة أن خطأ قديما في نظام تشغيل يمكن أن يظهر لاحقا كخطر جديد. لذلك قد تحتاج الصناعة إلى اهتمام أكبر بفحص خوادم Linux وإدارة الثغرات. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "2017 का Linux ‘Copy Fail’ बग क्रिप्टो इन्फ्रास्ट्रक्चर के लिए चिंता",
+      "excerpt": "2017 में मिला Linux ‘Copy Fail’ बग Linux सर्वरों पर निर्भर क्रिप्टो इन्फ्रास्ट्रक्चर को प्रभावित कर सकता है, जिससे डिजिटल एसेट उद्योग के साइबर सुरक्षा जोखिम फिर सामने आए हैं।",
+      "body": "2017 में Linux में मिला ‘Copy Fail’ बग अब क्रिप्टो उद्योग के लिए एक महत्वपूर्ण सुरक्षा चिंता बन गया है। यह मुद्दा इसलिए अहम है क्योंकि डिजिटल एसेट इन्फ्रास्ट्रक्चर का हिस्सा Linux सर्वरों पर निर्भर करता है, जो इस कमजोरी से प्रभावित हो सकते हैं। मूल रिपोर्ट इसे किसी एक सेवा की समस्या नहीं, बल्कि क्रिप्टो सिस्टम में व्यापक रूप से इस्तेमाल होने वाले सर्वर वातावरण से जुड़ा जोखिम बताती है। पृष्ठभूमि में डिजिटल एसेट उद्योग की वृद्धि और उसकी आधारभूत प्रणालियों की सुरक्षा का बढ़ता महत्व है। यह मामला दिखाता है कि पुराना ऑपरेटिंग सिस्टम बग भी समय के साथ नए जोखिम के रूप में उभर सकता है। आगे उद्योग को Linux सर्वर जांच और कमजोरी प्रबंधन पर अधिक ध्यान देना पड़ सकता है। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "Bug Linux ‘Copy Fail’ 2017 Picu Kekhawatiran Infrastruktur Kripto",
+      "excerpt": "Bug Linux ‘Copy Fail’ yang ditemukan pada 2017 dapat memengaruhi infrastruktur kripto berbasis server Linux dan kembali menyoroti risiko keamanan siber di industri aset digital.",
+      "body": "Bug Linux yang ditemukan pada 2017 dan dikenal sebagai ‘Copy Fail’ kini menjadi perhatian keamanan penting bagi industri kripto. Isu ini relevan karena infrastruktur aset digital banyak bergantung pada server Linux yang dapat terdampak oleh kerentanan tersebut. Laporan asli menggambarkannya bukan sebagai masalah satu layanan saja, melainkan risiko yang terkait dengan lingkungan server yang luas dipakai dalam sistem kripto. Latar belakangnya adalah pertumbuhan industri aset digital dan meningkatnya pentingnya keamanan sistem dasar. Kasus ini menunjukkan bahwa bug sistem operasi lama dapat muncul kembali sebagai risiko baru seiring waktu. Ke depan, industri perlu lebih memperhatikan pemeriksaan keamanan server Linux dan pengelolaan kerentanan. Sumber: cointelegraph.com."
+    }
+  }
+}
