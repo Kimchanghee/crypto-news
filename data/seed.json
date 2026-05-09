@@ -1,5 +1,230 @@
 [
   {
+    "id": "c1a351aa0de5",
+    "slug": "crypto-wallets-can-directly-compete-with-neobanks39-921949",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T14:42:07.394Z",
+    "updatedAt": "2026-05-09T14:42:07.394Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks",
+    "canonicalUrl": "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks",
+    "titleFingerprint": "6c33597f0b5a268af62271453b5ee3645b9e805a",
+    "dedupKeys": [
+      "c1a351aa0de5ba43f5064fef03ed0fbfae28a4e0",
+      "6c33597f0b5a268af62271453b5ee3645b9e805a",
+      "3870ddddcfff5b81970284ab811a109213ce055e"
+    ],
+    "imageUrl": "/images/articles/c1a351aa0de5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "크립토 지갑, 네오뱅크와 직접 경쟁할 수 있다는 Bitget Wallet의 구상",
+        "excerpt": "Bitget Wallet CMO 제이미 엘칼레는 Decrypt 인터뷰에서 크립토 지갑이 일상 금융 앱으로 진화하며 네오뱅크와 경쟁할 수 있다고 밝혔다.",
+        "body": "Bitget Wallet CMO 제이미 엘칼레는 Decrypt와의 인터뷰에서 크립토 지갑이 네오뱅크와 ‘직접 경쟁’할 수 있다고 말했다. 그는 Bitget Wallet이 단순한 암호화폐 보관 도구를 넘어 일상 금융 앱으로 발전하고 있다고 설명했다. 핵심은 암호화폐와 전통 금융을 끊김 없이 연결하는 방식이다. 이 방향은 Bitget Wallet이 내세우는 “Crypto for Everyone” 비전 위에 놓여 있다. 이용자가 더 익숙한 금융 경험 안에서 크립토를 접하게 하려는 전략으로 읽힌다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Crypto Wallets Could Directly Compete With Neobanks, Bitget Wallet Says",
+        "excerpt": "Bitget Wallet CMO Jamie Elkaleh told Decrypt the platform is evolving from a crypto wallet into an everyday finance app that links crypto with TradFi.",
+        "body": "Bitget Wallet CMO Jamie Elkaleh told Decrypt that crypto wallets can “directly compete” with neobanks. He said Bitget Wallet is moving beyond a simple crypto storage tool and evolving into an everyday finance app. The core idea is to connect crypto and traditional finance in a seamless experience. That direction builds on Bitget Wallet’s “Crypto for Everyone” vision. The strategy points to making crypto accessible inside financial experiences users already understand. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "暗号資産ウォレットはネオバンクと直接競争可能、Bitget Walletが構想",
+        "excerpt": "Bitget WalletのCMOジェイミー・エルカレ氏はDecryptに、同社が暗号資産ウォレットから日常金融アプリへ進化していると語った。",
+        "body": "Bitget WalletのCMO、ジェイミー・エルカレ氏はDecryptのインタビューで、暗号資産ウォレットはネオバンクと「直接競争」できると述べた。同氏によると、Bitget Walletは単なる暗号資産の保管ツールを超え、日常的に使う金融アプリへ進化している。中心にあるのは、暗号資産と従来型金融を途切れなく結び付ける体験だ。この方向性は、同社が掲げる「Crypto for Everyone」というビジョンに基づく。利用者が慣れた金融体験の中で暗号資産に触れられるようにする戦略といえる。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "加密钱包可直接竞争新银行，Bitget Wallet阐述转型方向",
+        "excerpt": "Bitget Wallet首席营销官Jamie Elkaleh向Decrypt表示，该平台正从加密钱包演进为连接加密与传统金融的日常金融应用。",
+        "body": "Bitget Wallet首席营销官Jamie Elkaleh在接受Decrypt采访时表示，加密钱包可以与新银行“直接竞争”。他称，Bitget Wallet正超越单纯的加密资产存储工具，发展为日常金融应用。其核心在于以无缝方式连接加密货币与传统金融。这一方向建立在Bitget Wallet提出的“Crypto for Everyone”愿景之上。该策略意在让用户在更熟悉的金融体验中接触和使用加密资产。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Las billeteras cripto podrían competir con neobancos, dice Bitget Wallet",
+        "excerpt": "Jamie Elkaleh, CMO de Bitget Wallet, dijo a Decrypt que la plataforma evoluciona de billetera cripto a app financiera diaria que une cripto y TradFi.",
+        "body": "Jamie Elkaleh, CMO de Bitget Wallet, dijo a Decrypt que las billeteras cripto pueden “competir directamente” con los neobancos. Explicó que Bitget Wallet está dejando de ser solo una herramienta para guardar criptomonedas y avanza hacia una aplicación financiera de uso cotidiano. La idea central es integrar cripto y finanzas tradicionales sin fricciones. Ese rumbo se apoya en la visión “Crypto for Everyone” de Bitget Wallet. La estrategia busca acercar las criptomonedas a experiencias financieras que los usuarios ya conocen. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Carteiras cripto podem competir com neobancos, diz Bitget Wallet",
+        "excerpt": "Jamie Elkaleh, CMO da Bitget Wallet, disse à Decrypt que a plataforma evolui de carteira cripto para app financeiro diário que une cripto e TradFi.",
+        "body": "Jamie Elkaleh, CMO da Bitget Wallet, disse à Decrypt que carteiras cripto podem “competir diretamente” com neobancos. Segundo ele, a Bitget Wallet está deixando de ser apenas uma ferramenta de armazenamento de criptoativos para se tornar um aplicativo financeiro do dia a dia. O ponto central é conectar cripto e finanças tradicionais de forma integrada. Essa direção se baseia na visão “Crypto for Everyone” da Bitget Wallet. A estratégia indica uma tentativa de levar cripto a experiências financeiras já familiares aos usuários. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Krypto-Wallets könnten direkt mit Neobanken konkurrieren, sagt Bitget Wallet",
+        "excerpt": "Bitget-Wallet-CMO Jamie Elkaleh sagte Decrypt, die Plattform entwickle sich von einer Krypto-Wallet zu einer Alltags-Finanzapp mit Krypto und TradFi.",
+        "body": "Jamie Elkaleh, CMO von Bitget Wallet, sagte Decrypt, dass Krypto-Wallets mit Neobanken „direkt konkurrieren“ können. Bitget Wallet entwickle sich demnach über ein reines Werkzeug zur Verwahrung von Kryptowerten hinaus zu einer Finanzapp für den Alltag. Im Mittelpunkt steht die nahtlose Verbindung von Krypto und traditioneller Finanzwelt. Diese Richtung baut auf der Vision „Crypto for Everyone“ von Bitget Wallet auf. Die Strategie zielt darauf, Krypto in Finanzumgebungen zugänglich zu machen, die Nutzern bereits vertraut sind. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Les wallets crypto peuvent concurrencer les néobanques, selon Bitget Wallet",
+        "excerpt": "Jamie Elkaleh, CMO de Bitget Wallet, a déclaré à Decrypt que la plateforme passe d’un wallet crypto à une app financière quotidienne liant crypto et TradFi.",
+        "body": "Jamie Elkaleh, CMO de Bitget Wallet, a déclaré à Decrypt que les wallets crypto peuvent « concurrencer directement » les néobanques. Il a expliqué que Bitget Wallet dépasse le simple rôle d’outil de conservation de cryptoactifs pour devenir une application financière du quotidien. L’idée centrale est de relier sans friction crypto et finance traditionnelle. Cette orientation s’appuie sur la vision « Crypto for Everyone » de Bitget Wallet. La stratégie vise à rendre la crypto accessible dans des expériences financières déjà familières aux utilisateurs. Source : decrypt.co"
+      },
+      "ar": {
+        "title": "محافظ العملات المشفرة قد تنافس البنوك الرقمية مباشرة، وفق Bitget Wallet",
+        "excerpt": "قال جيمي إلكاليه، مدير التسويق في Bitget Wallet، لـDecrypt إن المنصة تتحول من محفظة عملات مشفرة إلى تطبيق مالي يومي يربط الكريبتو بالتمويل التقليدي.",
+        "body": "قال جيمي إلكاليه، مدير التسويق في Bitget Wallet، في مقابلة مع Decrypt إن محافظ العملات المشفرة يمكن أن “تنافس مباشرة” البنوك الرقمية. وأوضح أن Bitget Wallet تتجاوز دور أداة حفظ العملات المشفرة فقط، وتتطور إلى تطبيق مالي للاستخدام اليومي. الفكرة الأساسية هي ربط العملات المشفرة بالتمويل التقليدي بتجربة سلسة. ويستند هذا التوجه إلى رؤية Bitget Wallet المسماة “Crypto for Everyone”. وتشير الاستراتيجية إلى جعل الكريبتو متاحا داخل تجارب مالية مألوفة للمستخدمين. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "क्रिप्टो वॉलेट नियोबैंकों से सीधे मुकाबला कर सकते हैं, Bitget Wallet का दावा",
+        "excerpt": "Bitget Wallet के CMO Jamie Elkaleh ने Decrypt से कहा कि प्लेटफॉर्म क्रिप्टो वॉलेट से रोजमर्रा के वित्त ऐप में बदल रहा है, जो क्रिप्टो और TradFi को जोड़ता है।",
+        "body": "Bitget Wallet के CMO Jamie Elkaleh ने Decrypt से कहा कि क्रिप्टो वॉलेट नियोबैंकों से “सीधे मुकाबला” कर सकते हैं। उनके अनुसार, Bitget Wallet केवल क्रिप्टो रखने के साधन से आगे बढ़कर रोजमर्रा के वित्त ऐप में विकसित हो रहा है। इसका मुख्य विचार क्रिप्टो और पारंपरिक वित्त को बिना रुकावट जोड़ना है। यह दिशा Bitget Wallet के “Crypto for Everyone” विजन पर आधारित है। रणनीति का संकेत है कि उपयोगकर्ताओं को पहले से परिचित वित्तीय अनुभवों के भीतर क्रिप्टो तक पहुंच दी जाए। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Dompet Kripto Bisa Bersaing Langsung dengan Neobank, Kata Bitget Wallet",
+        "excerpt": "CMO Bitget Wallet Jamie Elkaleh mengatakan kepada Decrypt bahwa platformnya berkembang dari dompet kripto menjadi aplikasi keuangan harian yang menghubungkan kripto dan TradFi.",
+        "body": "CMO Bitget Wallet Jamie Elkaleh mengatakan kepada Decrypt bahwa dompet kripto dapat “bersaing langsung” dengan neobank. Ia menjelaskan bahwa Bitget Wallet bergerak melampaui alat penyimpanan kripto semata dan berkembang menjadi aplikasi keuangan sehari-hari. Intinya adalah menghubungkan kripto dengan keuangan tradisional secara mulus. Arah ini dibangun di atas visi Bitget Wallet, “Crypto for Everyone”. Strategi tersebut menunjukkan upaya menghadirkan kripto dalam pengalaman keuangan yang sudah akrab bagi pengguna. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "2fcc16706102",
+    "slug": "crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-f-445792",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T14:41:21.070Z",
+    "updatedAt": "2026-05-09T14:41:21.070Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview",
+    "canonicalUrl": "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview",
+    "titleFingerprint": "e28293585371a8ce82925a63f710c88b7b1e44d5",
+    "dedupKeys": [
+      "2fcc1670610239e19f50d16ec2ede1b8f5695fdc",
+      "e28293585371a8ce82925a63f710c88b7b1e44d5",
+      "d02bfdf32898640120e26abead0fc31a20b1b40e"
+    ],
+    "imageUrl": "/images/articles/2fcc16706102.jpg",
+    "i18n": {
+      "ko": {
+        "title": "암호화폐 시장 3.16조달러 회복, 밈코인 강세와 ETF 자금 유입",
+        "excerpt": "2026년 첫 거래일 글로벌 암호화폐 시총이 3.16조달러로 1.5% 늘고, 비트코인 ETF 순유입과 밈코인 강세가 시장 상승세를 뒷받침했다.",
+        "body": "2026년 첫 거래일 글로벌 암호화폐 시장은 주요 코인 상승과 ETF 자금 유입 속에 회복세를 보였다. 전체 시가총액은 3.16조달러로 1.5% 증가했고, 비트코인은 2% 오른 9만3,000달러, 이더리움은 1% 오른 3,175달러에 거래됐다. BNB는 2.5% 상승한 906달러, 솔라나는 1% 오른 135달러를 기록했다. 상승 종목 중에서는 Virtuals가 24%, Render가 17%, BTT와 FET가 각각 11% 올라 두드러졌다. 밈코인도 시장 대비 강세를 보였고 Pepe는 67% 상승했다. 비트코인 ETF는 2026년 첫 거래일 4억7,100만달러 순유입을 기록해 11월 11일 이후 최대 하루 유입액을 나타냈다. 한편 SEC 위원 캐럴라인 크렌쇼는 1월 2일 공식 퇴임했고, PwC는 스테이블코인과 결제를 중심으로 암호화폐 사업을 확대하겠다고 밝혔다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Crypto Market Rebounds to $3.16T as Memes and ETF Inflows Lead",
+        "excerpt": "On the first trading day of 2026, the global crypto market cap rose 1.5% to $3.16T as Bitcoin ETF inflows and meme coin gains supported the rally.",
+        "body": "The global crypto market moved higher on the first trading day of 2026, supported by gains in major assets and fresh ETF inflows. Total market capitalization reached $3.16 trillion, up 1.5%. Bitcoin rose 2% to $93,000, while Ethereum gained 1% to trade at $3,175. BNB increased 2.5% to $906, and Solana advanced 1% to $135. Among top movers, Virtuals rose 24%, Render gained 17%, and BTT and FET each climbed 11%. Meme coins outperformed the broader market, with Pepe up 67%. Bitcoin ETFs recorded $471 million in net inflows on the first trading day of 2026, the strongest one-day total since November 11. Separately, SEC Commissioner Caroline Crenshaw officially left the agency on January 2, and PwC said it will deepen its crypto push with a focus on stablecoins and payments. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "暗号資産市場3.16兆ドルに回復、ミーム銘柄とETF流入が支え",
+        "excerpt": "2026年最初の取引日に世界の暗号資産時価総額は3.16兆ドルへ1.5%増加し、ビットコインETF流入とミーム銘柄上昇が相場を支えた。",
+        "body": "2026年最初の取引日、世界の暗号資産市場は主要銘柄の上昇とETFへの資金流入を背景に回復した。市場全体の時価総額は1.5%増の3.16兆ドルに達した。ビットコインは2%高の9万3,000ドル、イーサリアムは1%高の3,175ドルで取引された。BNBは2.5%上昇して906ドル、ソラナは1%上昇して135ドルとなった。上昇率の大きい銘柄ではVirtualsが24%、Renderが17%、BTTとFETがそれぞれ11%上昇した。ミームコインは市場全体を上回り、Pepeは67%高となった。ビットコインETFは2026年最初の取引日に4億7,100万ドルの純流入を記録し、11月11日以来最大の1日流入額となった。一方、SEC委員のキャロライン・クレンショー氏は1月2日に正式退任し、PwCはステーブルコインと決済を中心に暗号資産分野をさらに深める方針を示した。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "加密市场回升至3.16万亿美元，模因币与ETF流入领涨",
+        "excerpt": "2026年首个交易日，全球加密货币总市值升至3.16万亿美元，涨幅1.5%，比特币ETF净流入与模因币上涨支撑行情。",
+        "body": "2026年首个交易日，全球加密货币市场在主流资产上涨和ETF资金流入推动下走高。总市值达到3.16万亿美元，增长1.5%。比特币上涨2%至93,000美元，以太坊上涨1%至3,175美元。BNB上涨2.5%至906美元，Solana上涨1%至135美元。主要上涨币种中，Virtuals上涨24%，Render上涨17%，BTT和FET分别上涨11%。模因币表现强于整体市场，Pepe上涨67%。比特币ETF在2026年首个交易日录得4.71亿美元净流入，为11月11日以来最高单日流入额。与此同时，美国SEC委员Caroline Crenshaw于1月2日正式离任，PwC宣布将进一步深入加密领域，重点关注稳定币和支付。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Cripto sube a $3,16 billones con memecoins y entradas en ETF",
+        "excerpt": "En el primer día bursátil de 2026, la capitalización cripto global subió 1,5% a $3,16 billones, impulsada por entradas en ETF de Bitcoin y memecoins.",
+        "body": "El mercado global de criptomonedas avanzó en el primer día bursátil de 2026, apoyado por subidas en los principales activos y nuevas entradas en ETF. La capitalización total alcanzó los $3,16 billones, un aumento del 1,5%. Bitcoin subió 2% hasta $93.000, mientras Ethereum ganó 1% hasta $3.175. BNB avanzó 2,5% a $906 y Solana subió 1% a $135. Entre los mayores movimientos, Virtuals ganó 24%, Render subió 17%, y BTT y FET avanzaron 11% cada uno. Las memecoins superaron al mercado general, con Pepe al alza de 67%. Los ETF de Bitcoin registraron $471 millones en entradas netas en el primer día bursátil de 2026, el mayor total diario desde el 11 de noviembre. Además, la comisionada de la SEC Caroline Crenshaw dejó oficialmente la agencia el 2 de enero, y PwC anunció que profundizará en cripto con foco en stablecoins y pagos. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Cripto vai a US$ 3,16 tri com memecoins e entradas em ETFs",
+        "excerpt": "No primeiro pregão de 2026, o valor global do mercado cripto subiu 1,5% para US$ 3,16 tri, com entradas em ETFs de Bitcoin e alta de memecoins.",
+        "body": "O mercado global de criptomoedas avançou no primeiro pregão de 2026, apoiado por ganhos nos principais ativos e por novas entradas em ETFs. A capitalização total chegou a US$ 3,16 trilhões, alta de 1,5%. O Bitcoin subiu 2% para US$ 93.000, enquanto o Ethereum ganhou 1% e foi negociado a US$ 3.175. O BNB avançou 2,5% para US$ 906, e a Solana subiu 1% para US$ 135. Entre os maiores destaques, Virtuals subiu 24%, Render ganhou 17%, e BTT e FET avançaram 11% cada. As memecoins superaram o mercado mais amplo, com Pepe em alta de 67%. Os ETFs de Bitcoin registraram US$ 471 milhões em entradas líquidas no primeiro pregão de 2026, o maior total diário desde 11 de novembro. Além disso, a comissária da SEC Caroline Crenshaw deixou oficialmente a agência em 2 de janeiro, e a PwC anunciou que aprofundará sua atuação em cripto com foco em stablecoins e pagamentos. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Kryptomarkt steigt auf 3,16 Bio. Dollar, Memecoins und ETFs treiben",
+        "excerpt": "Am ersten Handelstag 2026 stieg die globale Krypto-Marktkapitalisierung um 1,5% auf 3,16 Bio. Dollar, gestützt durch Bitcoin-ETF-Zuflüsse und Memecoins.",
+        "body": "Der globale Kryptomarkt legte am ersten Handelstag 2026 zu, getragen von höheren Kursen wichtiger Coins und neuen ETF-Zuflüssen. Die gesamte Marktkapitalisierung erreichte 3,16 Billionen Dollar, ein Plus von 1,5%. Bitcoin stieg um 2% auf 93.000 Dollar, Ethereum gewann 1% auf 3.175 Dollar. BNB legte um 2,5% auf 906 Dollar zu, Solana stieg um 1% auf 135 Dollar. Zu den stärksten Bewegungen zählten Virtuals mit plus 24%, Render mit plus 17% sowie BTT und FET mit jeweils plus 11%. Memecoins entwickelten sich besser als der breitere Markt; Pepe stieg um 67%. Bitcoin-ETFs verzeichneten am ersten Handelstag 2026 Nettozuflüsse von 471 Millionen Dollar, den höchsten Tageswert seit dem 11. November. Zugleich verließ SEC-Kommissarin Caroline Crenshaw die Behörde offiziell am 2. Januar, und PwC kündigte an, sein Kryptogeschäft mit Fokus auf Stablecoins und Zahlungen auszubauen. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Le marché crypto atteint 3,16 T$, porté par memecoins et ETF",
+        "excerpt": "Au premier jour de cotation de 2026, la capitalisation crypto mondiale a gagné 1,5% à 3,16 T$, soutenue par les ETF Bitcoin et les memecoins.",
+        "body": "Le marché mondial des cryptomonnaies a progressé au premier jour de cotation de 2026, soutenu par la hausse des principaux actifs et de nouveaux flux vers les ETF. La capitalisation totale a atteint 3,16 billions de dollars, en hausse de 1,5%. Le Bitcoin a gagné 2% à 93.000 dollars, tandis que l’Ethereum a progressé de 1% à 3.175 dollars. BNB a avancé de 2,5% à 906 dollars et Solana de 1% à 135 dollars. Parmi les plus fortes hausses, Virtuals a pris 24%, Render 17%, tandis que BTT et FET ont gagné chacun 11%. Les memecoins ont surperformé le marché, avec Pepe en hausse de 67%. Les ETF Bitcoin ont enregistré 471 millions de dollars d’entrées nettes au premier jour de cotation de 2026, le plus haut total quotidien depuis le 11 novembre. Par ailleurs, la commissaire de la SEC Caroline Crenshaw a officiellement quitté l’agence le 2 janvier, et PwC a annoncé vouloir approfondir ses activités crypto autour des stablecoins et des paiements. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "سوق العملات الرقمية يبلغ 3.16 تريليون دولار بدعم الميم وETF",
+        "excerpt": "في أول يوم تداول من 2026، ارتفعت القيمة السوقية العالمية للعملات الرقمية 1.5% إلى 3.16 تريليون دولار مع تدفقات ETF البيتكوين وصعود عملات الميم.",
+        "body": "ارتفع سوق العملات الرقمية العالمي في أول يوم تداول من عام 2026، مدعوما بصعود العملات الكبرى وتدفقات جديدة إلى صناديق ETF. بلغت القيمة السوقية الإجمالية 3.16 تريليون دولار، بزيادة 1.5%. صعد البيتكوين 2% إلى 93,000 دولار، وارتفع الإيثريوم 1% إلى 3,175 دولارا. كما زاد BNB بنسبة 2.5% إلى 906 دولارات، وارتفع سولانا 1% إلى 135 دولارا. ومن بين أبرز التحركات، صعدت Virtuals بنسبة 24%، وRender بنسبة 17%، وارتفع كل من BTT وFET بنسبة 11%. تفوقت عملات الميم على السوق الأوسع، إذ ارتفعت Pepe بنسبة 67%. سجلت صناديق ETF البيتكوين صافي تدفقات بلغ 471 مليون دولار في أول يوم تداول من 2026، وهو أعلى إجمالي يومي منذ 11 نوفمبر. وفي سياق منفصل، غادرت مفوضة SEC كارولين كرينشو الوكالة رسميا في 2 يناير، وأعلنت PwC أنها ستتوسع أكثر في العملات الرقمية مع التركيز على العملات المستقرة والمدفوعات. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "क्रिप्टो बाजार $3.16T पर, मीम कॉइन और ETF इनफ्लो से तेजी",
+        "excerpt": "2026 के पहले ट्रेडिंग दिन वैश्विक क्रिप्टो मार्केट कैप 1.5% बढ़कर $3.16T हुआ, जिसे बिटकॉइन ETF इनफ्लो और मीम कॉइन तेजी ने सहारा दिया।",
+        "body": "2026 के पहले ट्रेडिंग दिन वैश्विक क्रिप्टो बाजार में प्रमुख एसेट्स की बढ़त और ETF में नई पूंजी के सहारे तेजी दिखी। कुल मार्केट कैप 1.5% बढ़कर $3.16 ट्रिलियन हो गया। बिटकॉइन 2% चढ़कर $93,000 पर पहुंचा, जबकि एथेरियम 1% बढ़कर $3,175 पर ट्रेड हुआ। BNB 2.5% बढ़कर $906 और Solana 1% बढ़कर $135 पर रहा। प्रमुख मूवर्स में Virtuals 24%, Render 17%, और BTT तथा FET प्रत्येक 11% चढ़े। मीम कॉइन्स ने व्यापक बाजार से बेहतर प्रदर्शन किया, जिसमें Pepe 67% ऊपर रहा। बिटकॉइन ETF में 2026 के पहले ट्रेडिंग दिन $471 मिलियन का शुद्ध इनफ्लो दर्ज हुआ, जो 11 नवंबर के बाद सबसे बड़ा एक-दिवसीय आंकड़ा है। अलग से, SEC कमिश्नर Caroline Crenshaw ने 2 जनवरी को एजेंसी से आधिकारिक रूप से विदाई ली, और PwC ने कहा कि वह stablecoins और payments पर ध्यान देते हुए क्रिप्टो में और गहराई से उतरेगी। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Pasar Kripto Naik ke $3,16 T, Memecoin dan Arus ETF Memimpin",
+        "excerpt": "Pada hari perdagangan pertama 2026, kapitalisasi pasar kripto global naik 1,5% ke $3,16 T, didukung arus masuk ETF Bitcoin dan penguatan memecoin.",
+        "body": "Pasar kripto global menguat pada hari perdagangan pertama 2026, ditopang kenaikan aset utama dan arus masuk baru ke ETF. Kapitalisasi pasar total mencapai $3,16 triliun, naik 1,5%. Bitcoin naik 2% ke $93.000, sementara Ethereum menguat 1% ke $3.175. BNB bertambah 2,5% ke $906, dan Solana naik 1% ke $135. Di antara penggerak utama, Virtuals naik 24%, Render menguat 17%, sementara BTT dan FET masing-masing naik 11%. Memecoin mengungguli pasar yang lebih luas, dengan Pepe melonjak 67%. ETF Bitcoin mencatat arus masuk bersih $471 juta pada hari perdagangan pertama 2026, total harian tertinggi sejak 11 November. Sementara itu, Komisaris SEC Caroline Crenshaw resmi meninggalkan lembaga tersebut pada 2 Januari, dan PwC mengumumkan akan memperdalam bisnis kripto dengan fokus pada stablecoin dan pembayaran. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "398e42f1c555",
+    "slug": "how-defi-is-changing-the-financial-landscape-for-latin-ameri-314703",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T14:40:09.572Z",
+    "updatedAt": "2026-05-09T14:40:09.572Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/opinion/2026/05/09/how-defi-is-changing-the-financial-landscape-for-latin-americans",
+    "canonicalUrl": "https://www.coindesk.com/opinion/2026/05/09/how-defi-is-changing-the-financial-landscape-for-latin-americans",
+    "titleFingerprint": "3ca6675d47197276064d33a2291ff06540de2141",
+    "dedupKeys": [
+      "398e42f1c5552a8116ff27aa0b59544033e43d72",
+      "3ca6675d47197276064d33a2291ff06540de2141",
+      "74f9fa7e0bef85c1523de7b97a159f5ca7e8c84e"
+    ],
+    "imageUrl": "/images/articles/398e42f1c555.jpg",
+    "i18n": {
+      "ko": {
+        "title": "라틴아메리카 DeFi, 금융 지형 바꾸는 합법적 도구로 부상",
+        "excerpt": "Serrano는 최근 라틴아메리카에서 DeFi가 틈새 암호화폐 실험을 넘어 지역 전반의 실질적 금융 도구로 조용히 자리 잡고 있다고 설명했다.",
+        "body": "라틴아메리카에서 DeFi가 금융 지형을 바꾸고 있다. Serrano는 이 흐름이 일부 이용자의 실험적 암호화폐 활용에 머물지 않고, 지역 전반에서 점차 합법적 금융 도구로 인식되는 단계로 이동하고 있다고 설명했다. 배경에는 DeFi가 기존 금융 서비스와 다른 방식으로 접근되는 변화가 있다. 원문은 구체적 수치보다 ‘조용한 전환’에 초점을 맞추며, DeFi가 틈새 영역에서 실사용 가능한 금융 수단으로 확장되고 있음을 짚었다. 앞으로 라틴아메리카 금융 시장에서 DeFi의 역할은 이 같은 인식 변화에 따라 더 주목받을 전망이다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Latin America DeFi Gains Ground as a Legitimate Financial Tool",
+        "excerpt": "Serrano explains that DeFi is quietly moving beyond a niche crypto experiment and becoming a practical financial tool across Latin America.",
+        "body": "DeFi is changing the financial landscape in Latin America. Serrano explains that the trend is no longer limited to experimental crypto use by a small group of users, but is gradually moving toward recognition as a legitimate financial tool across the region. The context is a shift in how DeFi is being approached compared with traditional financial services. The original article focuses less on specific figures and more on a quiet transition, noting that DeFi is expanding from a niche area into a usable financial instrument. Its role in Latin America’s financial market is expected to draw more attention as this perception changes. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "ラテンアメリカのDeFi、正当な金融ツールとして存在感拡大",
+        "excerpt": "Serrano氏は、DeFiがニッチな暗号資産実験を越え、ラテンアメリカ全域で実用的な金融ツールになりつつあると説明した。",
+        "body": "ラテンアメリカでDeFiが金融の風景を変えつつある。Serrano氏は、この流れが一部利用者による実験的な暗号資産利用にとどまらず、地域全体で正当な金融ツールとして認識される段階へ徐々に移っていると説明した。背景には、DeFiが従来の金融サービスとは異なる形で受け止められている変化がある。原文は具体的な数値よりも「静かな転換」に焦点を当て、DeFiがニッチな領域から実用可能な金融手段へ広がっている点を示した。こうした認識の変化に伴い、ラテンアメリカ金融市場におけるDeFiの役割はさらに注目される見通しだ。出典: coindesk.com。"
+      },
+      "zh": {
+        "title": "拉丁美洲DeFi崛起，正成为合法金融工具",
+        "excerpt": "Serrano表示，DeFi正悄然走出小众加密实验阶段，并在拉丁美洲各地逐渐成为实际可用的金融工具。",
+        "body": "DeFi正在改变拉丁美洲的金融格局。Serrano解释称，这一趋势不再只是少数用户对加密货币的实验性使用，而是逐步转向在整个地区被视为合法金融工具的阶段。其背景在于，DeFi正以不同于传统金融服务的方式被接触和理解。原文并未强调具体数字，而是聚焦这种“悄然转变”，指出DeFi正从小众领域扩展为可实际使用的金融手段。随着这种认知变化，DeFi在拉丁美洲金融市场中的角色预计将获得更多关注。来源：coindesk.com。"
+      },
+      "es": {
+        "title": "DeFi en América Latina avanza como herramienta financiera legítima",
+        "excerpt": "Serrano explica que DeFi está dejando atrás el experimento cripto de nicho y se consolida silenciosamente como herramienta financiera regional.",
+        "body": "DeFi está cambiando el panorama financiero en América Latina. Serrano explica que esta tendencia ya no se limita al uso experimental de criptomonedas por parte de algunos usuarios, sino que avanza gradualmente hacia su reconocimiento como una herramienta financiera legítima en toda la región. El contexto es un cambio en la forma en que DeFi se aborda frente a los servicios financieros tradicionales. El texto original se centra menos en cifras concretas y más en una “transición silenciosa”, señalando que DeFi se expande desde un nicho hacia un instrumento financiero utilizable. Su papel en el mercado financiero latinoamericano podría recibir más atención a medida que cambie esta percepción. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "DeFi na América Latina cresce como ferramenta financeira legítima",
+        "excerpt": "Serrano explica que o DeFi está deixando de ser um experimento cripto de nicho e se tornando uma ferramenta financeira prática na região.",
+        "body": "O DeFi está mudando o cenário financeiro na América Latina. Serrano explica que esse movimento já não se limita ao uso experimental de criptoativos por alguns usuários, mas avança gradualmente para o reconhecimento como uma ferramenta financeira legítima em toda a região. O contexto é uma mudança na forma como o DeFi é abordado em comparação com os serviços financeiros tradicionais. O texto original destaca menos números específicos e mais uma “transição silenciosa”, observando que o DeFi se expande de um nicho para um instrumento financeiro utilizável. À medida que essa percepção muda, seu papel no mercado financeiro latino-americano tende a receber mais atenção. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "DeFi in Lateinamerika wird zum legitimen Finanzinstrument",
+        "excerpt": "Serrano erklärt, dass DeFi in Lateinamerika leise vom Krypto-Nischenexperiment zu einem praktischen Finanzinstrument der Region wird.",
+        "body": "DeFi verändert die Finanzlandschaft in Lateinamerika. Serrano erklärt, dass diese Entwicklung nicht mehr nur auf experimentelle Kryptonutzung einzelner Anwender beschränkt ist, sondern sich schrittweise zu einer Anerkennung als legitimes Finanzinstrument in der gesamten Region bewegt. Der Hintergrund ist ein Wandel darin, wie DeFi im Vergleich zu traditionellen Finanzdienstleistungen betrachtet wird. Der Originaltext stellt weniger konkrete Zahlen in den Vordergrund, sondern eine „stille Veränderung“: DeFi wächst aus einer Nische zu einem nutzbaren Finanzmittel heran. Mit diesem Wahrnehmungswandel dürfte die Rolle von DeFi im lateinamerikanischen Finanzmarkt stärker beachtet werden. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "La DeFi en Amérique latine s’impose comme outil financier légitime",
+        "excerpt": "Serrano explique que la DeFi quitte discrètement le statut d’expérience crypto de niche pour devenir un outil financier concret dans la région.",
+        "body": "La DeFi transforme le paysage financier en Amérique latine. Serrano explique que cette évolution ne se limite plus à un usage expérimental des cryptomonnaies par quelques utilisateurs, mais progresse vers une reconnaissance comme outil financier légitime dans l’ensemble de la région. Le contexte tient au changement de perception de la DeFi par rapport aux services financiers traditionnels. L’article original met moins l’accent sur des chiffres précis que sur une « transition silencieuse », soulignant que la DeFi passe d’un domaine de niche à un moyen financier utilisable. À mesure que cette perception évolue, son rôle sur le marché financier latino-américain devrait attirer davantage l’attention. Source : coindesk.com."
+      },
+      "ar": {
+        "title": "التمويل اللامركزي في أمريكا اللاتينية يتحول إلى أداة مالية مشروعة",
+        "excerpt": "يوضح سيرانو أن التمويل اللامركزي يتجاوز بهدوء مرحلة التجربة المشفرة المحدودة ليصبح أداة مالية عملية في أمريكا اللاتينية.",
+        "body": "يغيّر التمويل اللامركزي المشهد المالي في أمريكا اللاتينية. يوضح سيرانو أن هذا الاتجاه لم يعد يقتصر على استخدام تجريبي للعملات المشفرة من جانب بعض المستخدمين، بل ينتقل تدريجيا إلى مرحلة يُنظر فيها إليه كأداة مالية مشروعة على مستوى المنطقة. وتكمن الخلفية في تغير طريقة التعامل مع التمويل اللامركزي مقارنة بالخدمات المالية التقليدية. يركز النص الأصلي على هذا “التحول الهادئ” أكثر من الأرقام المحددة، مشيرا إلى أن DeFi يتوسع من مجال متخصص إلى وسيلة مالية قابلة للاستخدام. ومع تغير هذا التصور، من المتوقع أن يحظى دوره في السوق المالية بأمريكا اللاتينية بمزيد من الاهتمام. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "लैटिन अमेरिका में DeFi वैध वित्तीय साधन के रूप में उभर रहा",
+        "excerpt": "Serrano के अनुसार DeFi अब सीमित क्रिप्टो प्रयोग से आगे बढ़कर लैटिन अमेरिका में व्यावहारिक वित्तीय साधन बनता जा रहा है।",
+        "body": "DeFi लैटिन अमेरिका के वित्तीय परिदृश्य को बदल रहा है। Serrano बताते हैं कि यह रुझान अब कुछ उपयोगकर्ताओं के प्रयोगात्मक क्रिप्टो उपयोग तक सीमित नहीं है, बल्कि पूरे क्षेत्र में एक वैध वित्तीय साधन के रूप में पहचाने जाने की दिशा में धीरे-धीरे बढ़ रहा है। इसके पीछे DeFi को पारंपरिक वित्तीय सेवाओं से अलग तरीके से अपनाए जाने का बदलाव है। मूल लेख विशिष्ट आंकड़ों के बजाय इस “शांत बदलाव” पर केंद्रित है और बताता है कि DeFi एक छोटे दायरे से निकलकर उपयोग योग्य वित्तीय माध्यम में बदल रहा है। इस धारणा में बदलाव के साथ लैटिन अमेरिका के वित्तीय बाजार में DeFi की भूमिका पर अधिक ध्यान जा सकता है। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "DeFi Amerika Latin Makin Diakui sebagai Alat Keuangan Sah",
+        "excerpt": "Serrano menjelaskan DeFi diam-diam bergerak dari eksperimen kripto niche menjadi alat keuangan praktis di seluruh Amerika Latin.",
+        "body": "DeFi sedang mengubah lanskap keuangan di Amerika Latin. Serrano menjelaskan bahwa tren ini tidak lagi terbatas pada penggunaan kripto secara eksperimental oleh sebagian pengguna, tetapi perlahan bergerak menuju pengakuan sebagai alat keuangan yang sah di seluruh kawasan. Latar belakangnya adalah perubahan cara DeFi didekati dibandingkan layanan keuangan tradisional. Artikel asli lebih menyoroti “peralihan yang tenang” daripada angka tertentu, dengan mencatat bahwa DeFi berkembang dari wilayah niche menjadi sarana keuangan yang dapat digunakan. Seiring perubahan persepsi ini, peran DeFi di pasar keuangan Amerika Latin diperkirakan akan semakin mendapat perhatian. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "36df0398c0ab",
     "slug": "layerzero-says-it-made-a-mistake-in-292-million-kelp-exploit-564760",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "IPO Jersey Mike’s Dilirik Wall Street Saat SpaceX Dinanti, Nilai 16 Triliun Won",
         "excerpt": "Saat SpaceX dinilai sebagai kandidat IPO terbesar AS pada paruh kedua tahun ini, Wall Street juga menyoroti Jersey Mike’s Subs dan kemungkinan skala sekitar 16 triliun won.",
         "body": "Di pasar IPO Amerika Serikat pada paruh kedua tahun ini, SpaceX milik Elon Musk disebut sebagai kandidat utama. Namun, perhatian Wall Street juga tertuju pada jaringan sandwich Jersey Mike’s Subs. Naskah asli membandingkan investor Korea yang menunggu pencatatan SpaceX dengan minat pasar AS terhadap Jersey Mike’s Subs sebagai nama lain yang menonjol. Angka kunci yang disebutkan adalah sekitar 16 triliun won. Di tengah ekspektasi yang berpusat pada SpaceX, potensi pencatatan perusahaan waralaba makanan juga muncul sebagai fokus tambahan di pasar IPO. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f4ac1e2fa6a5",
-    "slug": "trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-wh-150658",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T01:18:36.824Z",
-    "updatedAt": "2026-05-09T01:18:36.824Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
-    "canonicalUrl": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
-    "titleFingerprint": "d38b34ffd2fe080d2e9a22808d77790a34e5e5f6",
-    "dedupKeys": [
-      "f4ac1e2fa6a5ba50b88235f8c21fb15de86e15f1",
-      "d38b34ffd2fe080d2e9a22808d77790a34e5e5f6",
-      "47e94ca038f618345a35010e2c0085fa8de1c9b6"
-    ],
-    "imageUrl": "/images/articles/f4ac1e2fa6a5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프 관세 충격에 비트코인 약세, NYSE 토큰화 준비 주목",
-        "excerpt": "트럼프 관세 혼란 이후 주요 암호화폐가 하락한 가운데, NYSE의 토큰화 주식·ETF 24시간 거래 준비와 기업·국가 차원의 온체인 움직임이 부각됐다.",
-        "body": "트럼프 관세 혼란이 이어지며 주요 암호화폐가 9일 약세를 보였다. 비트코인은 2% 내린 9만1,100달러, 이더리움은 4% 하락한 3,105달러, 솔라나는 3% 밀린 129달러, XRP는 2% 내린 1.93달러를 기록했다. 반면 CC는 12%, MYX는 5%, SYRUP은 4% 상승하며 주요 상승 종목에 올랐다. 시장이 관세 이슈로 흔들리는 가운데 NYSE는 주식과 ETF의 24시간 토큰화 거래 준비에 들어갔다. Steak ’n Shake는 약 1,000만 달러 규모의 비트코인 익스포저와 기업 BTC 전략 준비금 조성을 공개했다. 비탈릭 부테린은 DAO의 책임성, 조정력, 장기 지속성을 높이기 위한 더 정교한 거버넌스 모델을 제안했다. 버뮤다는 Coinbase 및 Circle과 협력해 완전 온체인 국가 경제 구상을 제시했다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Bitcoin Slips on Trump Tariff Turmoil as NYSE Tokenization Plans Gain Focus",
-        "excerpt": "After Trump’s tariff turmoil hit crypto majors, NYSE plans for 24/7 tokenized stock and ETF trading and new corporate and national onchain moves drew attention.",
-        "body": "Major cryptocurrencies traded lower on May 9 as Trump’s tariff turmoil continued to weigh on risk assets. Bitcoin fell 2% to $91,100, Ethereum dropped 4% to $3,105, Solana slid 3% to $129, and XRP declined 2% to $1.93. In contrast, CC rose 12%, MYX gained 5%, and SYRUP advanced 4% among top movers. While tariff concerns pressured the market, the NYSE began preparations for 24/7 tokenized trading of stocks and ETFs. Steak ’n Shake disclosed roughly $10 million in Bitcoin exposure and the creation of a corporate BTC strategic reserve. Vitalik Buterin called for more sophisticated DAO governance models to improve accountability, coordination, and long-term sustainability. Bermuda also outlined plans for a fully onchain national economy with Coinbase and Circle. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "トランプ関税でビットコイン軟調、NYSEのトークン化準備に注目",
-        "excerpt": "トランプ関税を巡る混乱で主要暗号資産が下落する中、NYSEの株式・ETFの24時間トークン化取引準備や企業・国家のオンチェーン構想が注目された。",
-        "body": "トランプ関税を巡る混乱が続き、5月9日に主要暗号資産は軟調に推移した。ビットコインは2%下落して9万1,100ドル、イーサリアムは4%安の3,105ドル、ソラナは3%安の129ドル、XRPは2%安の1.93ドルとなった。一方、CCは12%、MYXは5%、SYRUPは4%上昇し、主要な上昇銘柄となった。関税問題で市場が揺れる中、NYSEは株式とETFの24時間トークン化取引に向けた準備を始めた。Steak ’n Shakeは約1,000万ドルのビットコインエクスポージャーと企業BTC戦略準備金の創設を明らかにした。ヴィタリック・ブテリン氏は、DAOの説明責任、調整力、長期的持続性を高めるため、より高度なガバナンスモデルを求めた。バミューダはCoinbaseおよびCircleと連携し、完全オンチェーン国家経済の計画を示した。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "特朗普关税冲击比特币走弱，NYSE代币化计划受关注",
-        "excerpt": "特朗普关税风波后，主要加密货币下跌；与此同时，NYSE筹备股票和ETF全天候代币化交易，企业与国家级链上布局受到关注。",
-        "body": "受特朗普关税风波持续影响，5月9日主要加密货币走弱。比特币下跌2%至91,100美元，以太坊下跌4%至3,105美元，Solana下跌3%至129美元，XRP下跌2%至1.93美元。与此同时，CC上涨12%，MYX上涨5%，SYRUP上涨4%，成为主要上涨标的。在关税议题扰动市场之际，NYSE已开始筹备股票和ETF的24小时代币化交易。Steak ’n Shake披露约1,000万美元的比特币敞口，并设立企业BTC战略储备。Vitalik Buterin呼吁采用更复杂的DAO治理模式，以提升问责、协调和长期可持续性。百慕大则提出与Coinbase和Circle合作，建设完全链上国家经济。来源：decrypt.co"
-      },
-      "es": {
-        "title": "Bitcoin cae por aranceles de Trump mientras NYSE avanza en tokenización",
-        "excerpt": "Tras la turbulencia por los aranceles de Trump, las principales criptomonedas bajaron y crecieron las miradas sobre el plan de NYSE para operar acciones y ETF tokenizados 24/7.",
-        "body": "Las principales criptomonedas cotizaron a la baja el 9 de mayo mientras continuaba la turbulencia por los aranceles de Trump. Bitcoin cayó 2% a 91.100 dólares, Ethereum perdió 4% hasta 3.105 dólares, Solana bajó 3% a 129 dólares y XRP retrocedió 2% a 1,93 dólares. En contraste, CC subió 12%, MYX avanzó 5% y SYRUP ganó 4% entre los mayores movimientos. Mientras el mercado seguía presionado por los aranceles, NYSE inició preparativos para la negociación tokenizada 24/7 de acciones y ETF. Steak ’n Shake reveló cerca de 10 millones de dólares en exposición a Bitcoin y la creación de una reserva estratégica corporativa en BTC. Vitalik Buterin pidió modelos de gobernanza DAO más sofisticados para mejorar responsabilidad, coordinación y sostenibilidad a largo plazo. Bermuda presentó planes para una economía nacional totalmente onchain con Coinbase y Circle. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Bitcoin recua com tarifas de Trump enquanto NYSE prepara tokenização",
-        "excerpt": "Após a turbulência causada pelas tarifas de Trump, grandes criptomoedas caíram, enquanto os planos da NYSE para negociar ações e ETFs tokenizados 24/7 ganharam destaque.",
-        "body": "As principais criptomoedas recuaram em 9 de maio enquanto a turbulência das tarifas de Trump continuava pressionando o mercado. O Bitcoin caiu 2% para US$ 91.100, o Ethereum perdeu 4% para US$ 3.105, a Solana recuou 3% para US$ 129 e o XRP baixou 2% para US$ 1,93. Em sentido oposto, CC subiu 12%, MYX avançou 5% e SYRUP ganhou 4% entre os principais destaques. Com o mercado afetado pelo tema das tarifas, a NYSE iniciou preparativos para a negociação tokenizada 24/7 de ações e ETFs. A Steak ’n Shake revelou cerca de US$ 10 milhões em exposição ao Bitcoin e a criação de uma reserva estratégica corporativa em BTC. Vitalik Buterin defendeu modelos de governança DAO mais sofisticados para melhorar responsabilidade, coordenação e sustentabilidade de longo prazo. Bermuda também apresentou planos para uma economia nacional totalmente onchain com Coinbase e Circle. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Bitcoin fällt wegen Trump-Zöllen, NYSE-Tokenisierung rückt in den Fokus",
-        "excerpt": "Nach den Turbulenzen um Trumps Zölle gaben große Kryptowährungen nach, während NYSE-Pläne für tokenisierte Aktien- und ETF-Geschäfte rund um die Uhr Aufmerksamkeit erhielten.",
-        "body": "Wichtige Kryptowährungen notierten am 9. Mai schwächer, während die Turbulenzen um Trumps Zölle anhielten. Bitcoin fiel um 2% auf 91.100 Dollar, Ethereum verlor 4% auf 3.105 Dollar, Solana gab 3% auf 129 Dollar nach und XRP sank 2% auf 1,93 Dollar. Dagegen stiegen CC um 12%, MYX um 5% und SYRUP um 4% und gehörten zu den größten Gewinnern. Während die Zollfrage den Markt belastete, begann die NYSE mit Vorbereitungen für den 24/7-Handel tokenisierter Aktien und ETFs. Steak ’n Shake meldete ein Bitcoin-Exposure von rund 10 Millionen Dollar und die Einrichtung einer strategischen BTC-Unternehmensreserve. Vitalik Buterin forderte ausgereiftere DAO-Governance-Modelle, um Rechenschaft, Koordination und langfristige Nachhaltigkeit zu verbessern. Bermuda skizzierte zudem Pläne für eine vollständig onchain geführte Volkswirtschaft mit Coinbase und Circle. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Bitcoin recule avec les tarifs de Trump, la tokenisation du NYSE attire l’attention",
-        "excerpt": "Après les turbulences liées aux tarifs de Trump, les grandes cryptos ont baissé tandis que le projet du NYSE de négocier actions et ETF tokenisés 24/7 a gagné en visibilité.",
-        "body": "Les principales cryptomonnaies ont reculé le 9 mai alors que les turbulences liées aux tarifs de Trump continuaient de peser sur le marché. Le Bitcoin a perdu 2% à 91 100 dollars, l’Ethereum a chuté de 4% à 3 105 dollars, Solana a cédé 3% à 129 dollars et XRP a reculé de 2% à 1,93 dollar. À l’inverse, CC a gagné 12%, MYX 5% et SYRUP 4%, figurant parmi les plus fortes hausses. Dans ce contexte, le NYSE a commencé à préparer la négociation 24/7 d’actions et d’ETF tokenisés. Steak ’n Shake a révélé environ 10 millions de dollars d’exposition au Bitcoin ainsi que la création d’une réserve stratégique d’entreprise en BTC. Vitalik Buterin a appelé à des modèles de gouvernance DAO plus sophistiqués pour renforcer responsabilité, coordination et durabilité à long terme. Les Bermudes ont aussi présenté un projet d’économie nationale entièrement onchain avec Coinbase et Circle. Source : decrypt.co"
-      },
-      "ar": {
-        "title": "بيتكوين تتراجع بفعل اضطراب رسوم ترامب وخطط ترميز NYSE تتصدر الاهتمام",
-        "excerpt": "بعد اضطراب رسوم ترامب تراجعت العملات المشفرة الكبرى، بينما برزت استعدادات NYSE لتداول الأسهم وصناديق ETF المرمزة على مدار الساعة وتحركات الشركات والدول على السلسلة.",
-        "body": "تراجعت العملات المشفرة الكبرى في 9 مايو مع استمرار تأثير اضطراب رسوم ترامب على السوق. هبطت بيتكوين 2% إلى 91,100 دولار، وانخفضت إيثريوم 4% إلى 3,105 دولارات، وتراجعت سولانا 3% إلى 129 دولارا، كما انخفضت XRP بنسبة 2% إلى 1.93 دولار. في المقابل، ارتفعت CC بنسبة 12%، وMYX بنسبة 5%، وSYRUP بنسبة 4% ضمن أبرز الرابحين. وبينما ضغطت قضية الرسوم على السوق، بدأت NYSE الاستعداد لتداول الأسهم وصناديق ETF المرمزة على مدار الساعة. وكشفت Steak ’n Shake عن تعرض لبيتكوين يقارب 10 ملايين دولار وإنشاء احتياطي استراتيجي مؤسسي من BTC. ودعا فيتاليك بوتيرين إلى نماذج حوكمة DAO أكثر تطورا لتحسين المساءلة والتنسيق والاستدامة طويلة الأجل. كما عرضت برمودا خططا لاقتصاد وطني بالكامل على السلسلة بالتعاون مع Coinbase وCircle. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "ट्रंप टैरिफ झटके से बिटकॉइन कमजोर, NYSE टोकनाइजेशन योजना पर नजर",
-        "excerpt": "ट्रंप के टैरिफ विवाद के बाद प्रमुख क्रिप्टोकरेंसी गिरीं, जबकि NYSE की 24/7 टोकनाइज्ड स्टॉक और ETF ट्रेडिंग तैयारी तथा ऑनचेन योजनाएं चर्चा में रहीं।",
-        "body": "ट्रंप के टैरिफ विवाद का असर जारी रहने से 9 मई को प्रमुख क्रिप्टोकरेंसी कमजोर रहीं। बिटकॉइन 2% गिरकर 91,100 डॉलर पर आया, एथेरियम 4% घटकर 3,105 डॉलर, सोलाना 3% गिरकर 129 डॉलर और XRP 2% घटकर 1.93 डॉलर पर रहा। इसके उलट CC 12%, MYX 5% और SYRUP 4% चढ़े और प्रमुख बढ़त वाले टोकन रहे। टैरिफ मुद्दे से बाजार दबाव में था, वहीं NYSE ने शेयरों और ETF की 24/7 टोकनाइज्ड ट्रेडिंग की तैयारी शुरू की। Steak ’n Shake ने लगभग 1 करोड़ डॉलर के बिटकॉइन एक्सपोजर और कॉर्पोरेट BTC रणनीतिक रिजर्व बनाने की जानकारी दी। विटालिक ब्यूटेरिन ने जवाबदेही, समन्वय और दीर्घकालिक स्थिरता बढ़ाने के लिए अधिक उन्नत DAO गवर्नेंस मॉडल की मांग की। बरमूडा ने Coinbase और Circle के साथ पूरी तरह ऑनचेन राष्ट्रीय अर्थव्यवस्था की योजना भी रखी। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Bitcoin Melemah Akibat Tarif Trump, Rencana Tokenisasi NYSE Jadi Sorotan",
-        "excerpt": "Setelah gejolak tarif Trump menekan kripto utama, perhatian beralih ke persiapan NYSE untuk perdagangan saham dan ETF tokenisasi 24/7 serta agenda onchain baru.",
-        "body": "Aset kripto utama melemah pada 9 Mei saat gejolak tarif Trump terus menekan pasar. Bitcoin turun 2% ke US$91.100, Ethereum merosot 4% ke US$3.105, Solana melemah 3% ke US$129, dan XRP turun 2% ke US$1,93. Sebaliknya, CC naik 12%, MYX menguat 5%, dan SYRUP bertambah 4% sebagai penggerak utama. Di tengah tekanan isu tarif, NYSE mulai menyiapkan perdagangan saham dan ETF tokenisasi selama 24 jam. Steak ’n Shake mengungkap eksposur Bitcoin sekitar US$10 juta serta pembentukan cadangan strategis korporat dalam BTC. Vitalik Buterin menyerukan model tata kelola DAO yang lebih canggih untuk meningkatkan akuntabilitas, koordinasi, dan keberlanjutan jangka panjang. Bermuda juga memaparkan rencana ekonomi nasional sepenuhnya onchain bersama Coinbase dan Circle. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "f8977ce2019f",
-    "slug": "trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-bu-354754",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T01:17:30.504Z",
-    "updatedAt": "2026-05-09T01:17:30.504Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
-    "canonicalUrl": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
-    "titleFingerprint": "e7e9a5f8f88fd9bb061a8cd72597d8d34cca4d61",
-    "dedupKeys": [
-      "f8977ce2019f38ae69926170e577f285f1191e2b",
-      "e7e9a5f8f88fd9bb061a8cd72597d8d34cca4d61",
-      "2ff682cdeb20d2c1f51a596323518486ba480bd4"
-    ],
-    "imageUrl": "/images/articles/f8977ce2019f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 8만8000달러 하회, 세일러 21.3억달러 BTC 매수",
-        "excerpt": "화요일 시장 전반의 약세 속에 주요 가상자산이 하락했고, 비트코인은 8만8200달러까지 밀리며 10억달러 넘는 롱 포지션 청산을 불렀다.",
-        "body": "화요일 시장 전반이 붉게 물든 뒤 주요 가상자산이 동반 하락했다. 비트코인은 3% 내린 8만8200달러, 이더리움은 6% 하락한 2905달러, 솔라나는 2% 내린 127달러, XRP는 2% 밀린 1.88달러를 기록했다. MYX는 11%, ZRO는 10% 오르며 상위 상승 종목을 이끌었다. 매도 압력이 커지면서 비트코인과 솔라나는 주요 기술적 지지선을 밑돌았고, 비트코인이 8만8000달러 아래로 떨어지는 과정에서 10억달러 넘는 롱 포지션이 청산됐다. 한편 트럼프의 다보스 연설은 시장에 작은 활력을 줬고, 세일러는 21억3000만달러 규모의 BTC를 매수했다. Delaware Life는 BlackRock 현물 BTC ETF 성과와 연동한 고정지수연금에 비트코인 노출을 추가했으며, Trump Media는 암호화폐 에어드롭 계획을 발표했다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Bitcoin Slips Below $88K as Saylor Buys $2.13B in BTC",
-        "excerpt": "Crypto majors fell after a red Tuesday across markets, with Bitcoin near $88,200 and more than $1 billion in long positions liquidated during the slide.",
-        "body": "Major cryptocurrencies moved lower after a red Tuesday across markets. Bitcoin fell 3% to $88,200, Ethereum dropped 6% to $2,905, Solana slipped 2% to $127, and XRP declined 2% to $1.88. MYX rose 11% and ZRO gained 10%, leading the top movers. As selling pressure accelerated, both Bitcoin and Solana fell below key technical support levels, while Bitcoin’s move under $88,000 triggered more than $1 billion in long liquidations. Trump’s Davos speech gave crypto a small boost, and Saylor bought $2.13 billion in BTC. Delaware Life added Bitcoin exposure to a fixed indexed annuity linked to BlackRock’s spot BTC ETF, while Trump Media announced plans for a crypto airdrop. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "ビットコイン8.8万ドル割れ、セイラー氏は21.3億ドルBTC購入",
-        "excerpt": "市場全体が赤字となった火曜日の後、主要暗号資産は下落し、ビットコインは8万8200ドル付近まで下げ、10億ドル超のロングが清算された。",
-        "body": "火曜日に市場全体が弱含んだ後、主要暗号資産はそろって下落した。ビットコインは3%安の8万8200ドル、イーサリアムは6%安の2905ドル、ソラナは2%安の127ドル、XRPは2%安の1.88ドルとなった。一方、MYXは11%、ZROは10%上昇し、上位の値上がり銘柄を主導した。売り圧力が強まる中、ビットコインとソラナはいずれも重要なテクニカル支持線を下回り、ビットコインが8万8000ドルを割り込む過程で10億ドル超のロングポジションが清算された。トランプ氏のダボス演説は暗号資産に小幅な追い風となり、セイラー氏は21億3000万ドル相当のBTCを購入した。Delaware LifeはBlackRockの現物BTC ETFに連動する固定指数年金にビットコインエクスポージャーを追加し、Trump Mediaは暗号資産エアドロップ計画を発表した。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "比特币跌破8.8万美元，Saylor买入21.3亿美元BTC",
-        "excerpt": "在周二市场普遍走弱后，主要加密资产下跌，比特币报8.82万美元附近，并在跌破8.8万美元时引发超10亿美元多头清算。",
-        "body": "周二市场整体走弱后，主要加密资产同步下跌。比特币下跌3%至88200美元，以太坊下跌6%至2905美元，Solana下跌2%至127美元，XRP下跌2%至1.88美元。MYX上涨11%、ZRO上涨10%，领涨主要异动资产。随着卖压加速，比特币和Solana均跌破关键技术支撑位；比特币跌破88000美元的过程中，超过10亿美元多头头寸被清算。与此同时，特朗普在达沃斯的讲话为加密市场带来小幅提振，Saylor买入21.3亿美元BTC。Delaware Life通过挂钩BlackRock现货BTC ETF表现的固定指数年金加入比特币敞口，Trump Media则宣布了加密货币空投计划。来源: decrypt.co"
-      },
-      "es": {
-        "title": "Bitcoin cae bajo $88K mientras Saylor compra $2.13B en BTC",
-        "excerpt": "Las principales criptomonedas bajaron tras un martes rojo en los mercados; Bitcoin rondó los $88,200 y más de $1,000 millones en largos fueron liquidados.",
-        "body": "Las principales criptomonedas retrocedieron después de un martes negativo en los mercados. Bitcoin cayó 3% a $88,200, Ethereum bajó 6% a $2,905, Solana cedió 2% a $127 y XRP perdió 2% hasta $1.88. MYX subió 11% y ZRO avanzó 10%, liderando los mayores movimientos al alza. Con la presión vendedora en aumento, Bitcoin y Solana perforaron niveles técnicos clave de soporte, mientras la caída de Bitcoin por debajo de $88,000 provocó liquidaciones de posiciones largas por más de $1,000 millones. El discurso de Trump en Davos dio un pequeño impulso al cripto, y Saylor compró $2,130 millones en BTC. Delaware Life añadió exposición a Bitcoin a una anualidad indexada fija vinculada al ETF spot de BTC de BlackRock, y Trump Media anunció planes para un airdrop cripto. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Bitcoin cai abaixo de US$ 88 mil; Saylor compra US$ 2,13 bi em BTC",
-        "excerpt": "As principais criptomoedas recuaram após uma terça-feira negativa nos mercados; Bitcoin ficou em US$ 88.200 e mais de US$ 1 bi em longs foi liquidado.",
-        "body": "As principais criptomoedas caíram após uma terça-feira de perdas nos mercados. O Bitcoin recuou 3% para US$ 88.200, o Ethereum caiu 6% para US$ 2.905, a Solana perdeu 2% para US$ 127 e o XRP baixou 2% para US$ 1,88. MYX avançou 11% e ZRO subiu 10%, liderando os maiores ganhos. Com a pressão vendedora acelerando, Bitcoin e Solana ficaram abaixo de suportes técnicos importantes, enquanto a queda do Bitcoin para menos de US$ 88.000 levou à liquidação de mais de US$ 1 bilhão em posições longas. O discurso de Trump em Davos deu um pequeno impulso ao mercado cripto, e Saylor comprou US$ 2,13 bilhões em BTC. A Delaware Life adicionou exposição a Bitcoin a uma anuidade fixa indexada ligada ao ETF spot de BTC da BlackRock, e a Trump Media anunciou planos de airdrop cripto. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Bitcoin fällt unter 88.000 Dollar, Saylor kauft BTC für 2,13 Mrd. Dollar",
-        "excerpt": "Nach einem schwachen Dienstag an den Märkten gaben große Kryptowährungen nach; Bitcoin lag bei 88.200 Dollar, über 1 Mrd. Dollar an Longs wurden liquidiert.",
-        "body": "Die großen Kryptowährungen gerieten nach einem roten Dienstag an den Märkten unter Druck. Bitcoin fiel um 3% auf 88.200 Dollar, Ethereum verlor 6% auf 2.905 Dollar, Solana gab 2% auf 127 Dollar nach und XRP sank 2% auf 1,88 Dollar. MYX legte 11% zu, ZRO stieg 10% und führte damit die Top-Mover an. Mit zunehmendem Verkaufsdruck rutschten Bitcoin und Solana unter wichtige technische Unterstützungsniveaus; beim Fall von Bitcoin unter 88.000 Dollar wurden Long-Positionen im Wert von mehr als 1 Milliarde Dollar liquidiert. Trumps Rede in Davos gab Krypto einen kleinen Schub, während Saylor BTC im Wert von 2,13 Milliarden Dollar kaufte. Delaware Life ergänzte eine fest indexierte Rentenversicherung um Bitcoin-Exposure, gekoppelt an den Spot-BTC-ETF von BlackRock, und Trump Media kündigte Pläne für einen Krypto-Airdrop an. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Bitcoin passe sous 88 000 $, Saylor achète 2,13 Md$ de BTC",
-        "excerpt": "Les principales cryptomonnaies ont reculé après un mardi rouge sur les marchés; Bitcoin a touché 88 200 $ et plus de 1 Md$ de positions longues ont été liquidées.",
-        "body": "Les principales cryptomonnaies ont reculé après un mardi négatif sur l’ensemble des marchés. Bitcoin a perdu 3% à 88 200 $, Ethereum a chuté de 6% à 2 905 $, Solana a cédé 2% à 127 $ et XRP a baissé de 2% à 1,88 $. MYX a gagné 11% et ZRO 10%, en tête des plus fortes hausses. Alors que la pression vendeuse s’accélérait, Bitcoin et Solana sont passés sous des supports techniques clés; la glissade de Bitcoin sous 88 000 $ a entraîné plus de 1 milliard de dollars de liquidations de positions longues. Le discours de Trump à Davos a donné un léger soutien au marché crypto, tandis que Saylor a acheté 2,13 milliards de dollars de BTC. Delaware Life a ajouté une exposition au Bitcoin à une rente indexée fixe liée à l’ETF spot BTC de BlackRock, et Trump Media a annoncé des plans d’airdrop crypto. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "بتكوين تهبط دون 88 ألف دولار وسايلور يشتري BTC بـ2.13 مليار دولار",
-        "excerpt": "تراجعت العملات الرقمية الكبرى بعد ثلاثاء سلبي في الأسواق، وسجلت بتكوين 88,200 دولار مع تصفية مراكز شراء طويلة بأكثر من مليار دولار.",
-        "body": "تراجعت العملات الرقمية الكبرى بعد ثلاثاء اتسم باللون الأحمر في الأسواق. انخفضت بتكوين 3% إلى 88,200 دولار، وهبطت إيثريوم 6% إلى 2,905 دولارات، وتراجعت سولانا 2% إلى 127 دولارا، كما انخفضت XRP بنسبة 2% إلى 1.88 دولار. في المقابل، تصدرت MYX الرابحين بارتفاع 11%، تلتها ZRO بزيادة 10%. ومع تسارع ضغط البيع، هبطت بتكوين وسولانا دون مستويات دعم فنية رئيسية، وأدى تراجع بتكوين إلى ما دون 88,000 دولار إلى تصفية مراكز شراء طويلة بأكثر من مليار دولار. كما منح خطاب ترامب في دافوس دفعة صغيرة للعملات الرقمية، بينما اشترى سايلور BTC بقيمة 2.13 مليار دولار. وأضافت Delaware Life تعرضا لبتكوين داخل معاش سنوي ثابت مفهرس مرتبط بأداء صندوق BlackRock الفوري لبتكوين، وأعلنت Trump Media خططا لإسقاط جوي للعملات الرقمية. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "Bitcoin $88K से नीचे फिसला, Saylor ने $2.13B BTC खरीदा",
-        "excerpt": "बाजारों में कमजोर मंगलवार के बाद प्रमुख क्रिप्टोकरेंसी गिरीं; Bitcoin $88,200 पर रहा और गिरावट में $1 अरब से अधिक लॉन्ग पोजिशन लिक्विडेट हुईं।",
-        "body": "मंगलवार को बाजारों में व्यापक कमजोरी के बाद प्रमुख क्रिप्टोकरेंसी में गिरावट आई। Bitcoin 3% गिरकर $88,200 पर, Ethereum 6% गिरकर $2,905 पर, Solana 2% गिरकर $127 पर और XRP 2% घटकर $1.88 पर रहा। MYX 11% और ZRO 10% चढ़कर शीर्ष मूवर्स में आगे रहे। बिकवाली का दबाव तेज होने पर Bitcoin और Solana दोनों अहम तकनीकी सपोर्ट स्तरों से नीचे चले गए, जबकि Bitcoin के $88,000 से नीचे फिसलने के दौरान $1 अरब से अधिक की लॉन्ग पोजिशन लिक्विडेट हुईं। ट्रंप के डावोस भाषण से क्रिप्टो को हल्का सहारा मिला, और Saylor ने $2.13 अरब मूल्य का BTC खरीदा। Delaware Life ने BlackRock के स्पॉट BTC ETF के प्रदर्शन से जुड़ी फिक्स्ड इंडेक्स्ड एन्युटी में Bitcoin एक्सपोजर जोड़ा, जबकि Trump Media ने क्रिप्टो एयरड्रॉप की योजना घोषित की। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Bitcoin Turun di Bawah $88K, Saylor Beli BTC Senilai $2,13 Miliar",
-        "excerpt": "Kripto utama melemah setelah Selasa merah di pasar; Bitcoin berada di $88.200 dan lebih dari $1 miliar posisi long terlikuidasi saat harga turun.",
-        "body": "Aset kripto utama melemah setelah pasar bergerak merah pada Selasa. Bitcoin turun 3% ke $88.200, Ethereum turun 6% ke $2.905, Solana melemah 2% ke $127, dan XRP turun 2% ke $1,88. MYX naik 11% dan ZRO menguat 10%, memimpin daftar pergerakan teratas. Saat tekanan jual meningkat, Bitcoin dan Solana sama-sama jatuh di bawah level dukungan teknikal penting, sementara penurunan Bitcoin ke bawah $88.000 memicu likuidasi posisi long lebih dari $1 miliar. Pidato Trump di Davos memberi dorongan kecil bagi kripto, dan Saylor membeli BTC senilai $2,13 miliar. Delaware Life menambahkan eksposur Bitcoin ke anuitas indeks tetap yang dikaitkan dengan kinerja ETF spot BTC BlackRock, sementara Trump Media mengumumkan rencana airdrop kripto. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "4546588e7db3",
-    "slug": "crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-s-197386",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T01:16:24.474Z",
-    "updatedAt": "2026-05-09T01:16:24.474Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
-    "canonicalUrl": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
-    "titleFingerprint": "ed1c86d60151cedb306f4315e0a723a7456ac832",
-    "dedupKeys": [
-      "4546588e7db3064c3b9e231702e67296ce7030f8",
-      "ed1c86d60151cedb306f4315e0a723a7456ac832",
-      "1055613a7b843bfbd9dd8b02209d37a418807262"
-    ],
-    "imageUrl": "/images/articles/4546588e7db3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 8만9900달러 회복, 트럼프 EU 관세 후퇴에 크립토 반등",
-        "excerpt": "트럼프 대통령이 EU 관세안에서 물러설 신호를 보이자 비트코인과 주요 알트코인이 반등했고, BitGo는 주당 18달러 IPO로 약 20억달러 가치를 제시했다.",
-        "body": "크립토 시장은 트럼프 대통령이 EU 관세 조치에서 후퇴할 가능성을 내비친 뒤 주요 코인이 일제히 상승하며 반등했다. 비트코인은 2% 오른 8만9900달러, 이더리움은 2% 상승한 2995달러, 솔라나는 2% 오른 130달러, XRP는 3% 오른 1.94달러를 기록했다. 급격한 비트코인 반등 과정에서 시장 청산 규모는 10억달러를 넘었다. 상위 상승 종목은 CC 15%, SKY 11%, SAND 10%였다. 비탈릭 부테린은 이더리움 보안과 탈중앙화를 강화하기 위한 네이티브 DVT 스테이킹을 제안했다. BitGo는 주당 18달러 IPO를 발표하며 약 20억달러 평가가치를 제시했다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Bitcoin Rebounds to $89,900 as Trump Tariff Shift Lifts Crypto",
-        "excerpt": "After President Trump signaled a retreat from EU tariff measures, Bitcoin and major altcoins rebounded, while BitGo priced its IPO at $18 a share near a $2B valuation.",
-        "body": "Crypto markets rebounded after President Trump signaled a possible retreat from proposed EU tariff measures, sending major tokens higher. Bitcoin rose 2% to $89,900, Ethereum gained 2% to $2,995, Solana climbed 2% to $130, and XRP advanced 3% to $1.94. The sharp Bitcoin rebound came as liquidations across crypto markets exceeded $1 billion. Among top movers, CC rose 15%, SKY gained 11%, and SAND climbed 10%. Vitalik Buterin proposed native DVT staking to strengthen Ethereum security and decentralization, showing continued protocol-level experimentation. BitGo also announced an IPO at $18 per share, implying a valuation of about $2 billion. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "ビットコイン8万9900ドル回復、トランプ関税後退で暗号資産反発",
-        "excerpt": "トランプ大統領がEU関税案から後退する姿勢を示し、ビットコインと主要アルトコインが反発。BitGoは1株18ドルのIPOで約20億ドル評価を示した。",
-        "body": "暗号資産市場は、トランプ大統領が提案していたEU関税措置から後退する可能性を示した後、主要銘柄がそろって上昇し反発した。ビットコインは2%高の8万9900ドル、イーサリアムは2%高の2995ドル、ソラナは2%高の130ドル、XRPは3%高の1.94ドルとなった。ビットコインの急反発に伴い、市場全体の清算額は10億ドルを超えた。上昇率上位はCCが15%、SKYが11%、SANDが10%。ビタリック・ブテリン氏は、イーサリアムの安全性と分散性を高めるネイティブDVTステーキングを提案した。BitGoは1株18ドルでIPOを発表し、評価額は約20億ドルとなった。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "比特币回升至89900美元，特朗普关税转向提振加密市场",
-        "excerpt": "特朗普总统释放退出欧盟关税措施的信号后，比特币和主要山寨币反弹；BitGo以每股18美元推进IPO，估值约20亿美元。",
-        "body": "在特朗普总统暗示可能退出拟议中的欧盟关税措施后，加密市场出现反弹，主要代币同步走高。比特币上涨2%至89900美元，以太坊上涨2%至2995美元，Solana上涨2%至130美元，XRP上涨3%至1.94美元。随着比特币快速反弹，加密市场清算规模超过10亿美元。主要涨幅个币中，CC上涨15%，SKY上涨11%，SAND上涨10%。Vitalik Buterin提出原生DVT质押方案，以增强以太坊安全性和去中心化，显示协议层实验仍在继续。BitGo宣布以每股18美元进行IPO，对应估值约20亿美元。来源: decrypt.co"
-      },
-      "es": {
-        "title": "Bitcoin repunta a 89.900 dólares tras giro de Trump sobre aranceles",
-        "excerpt": "Después de que Trump señalara un retroceso en los aranceles a la UE, Bitcoin y las principales altcoins rebotaron, mientras BitGo fijó su IPO en 18 dólares por acción.",
-        "body": "El mercado cripto rebotó después de que el presidente Trump señalara una posible retirada de las medidas arancelarias propuestas contra la UE, impulsando a los principales tokens. Bitcoin subió 2% hasta 89.900 dólares, Ethereum avanzó 2% a 2.995 dólares, Solana ganó 2% hasta 130 dólares y XRP subió 3% a 1,94 dólares. El brusco repunte de Bitcoin coincidió con liquidaciones superiores a 1.000 millones de dólares en el mercado cripto. Entre los mayores movimientos, CC subió 15%, SKY ganó 11% y SAND avanzó 10%. Vitalik Buterin propuso staking DVT nativo para reforzar la seguridad y descentralización de Ethereum. BitGo anunció su IPO a 18 dólares por acción, con una valoración cercana a 2.000 millones. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Bitcoin volta a US$ 89.900 com recuo de Trump sobre tarifas",
-        "excerpt": "Após Trump sinalizar recuo nas tarifas contra a UE, Bitcoin e principais altcoins se recuperaram; BitGo anunciou IPO a US$ 18 por ação, avaliada em cerca de US$ 2 bi.",
-        "body": "O mercado cripto se recuperou depois que o presidente Trump sinalizou uma possível retirada das medidas tarifárias propostas contra a União Europeia, levando os principais ativos a subir. O Bitcoin avançou 2% para US$ 89.900, o Ethereum subiu 2% para US$ 2.995, a Solana ganhou 2% para US$ 130 e o XRP avançou 3% para US$ 1,94. A forte recuperação do Bitcoin ocorreu enquanto as liquidações no mercado cripto passaram de US$ 1 bilhão. Entre os maiores ganhos, CC subiu 15%, SKY ganhou 11% e SAND avançou 10%. Vitalik Buterin propôs staking DVT nativo para fortalecer a segurança e a descentralização do Ethereum. A BitGo anunciou IPO a US$ 18 por ação, com avaliação de cerca de US$ 2 bilhões. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Bitcoin erholt sich auf 89.900 Dollar nach Trumps Zollwende",
-        "excerpt": "Nachdem Trump einen Rückzug bei EU-Zöllen signalisierte, legten Bitcoin und große Altcoins zu; BitGo kündigte einen IPO zu 18 Dollar je Aktie bei rund 2 Mrd. Dollar Bewertung an.",
-        "body": "Der Kryptomarkt erholte sich, nachdem Präsident Trump einen möglichen Rückzug von geplanten EU-Zollmaßnahmen signalisiert hatte. Die großen Coins legten geschlossen zu: Bitcoin stieg um 2% auf 89.900 Dollar, Ethereum um 2% auf 2.995 Dollar, Solana um 2% auf 130 Dollar und XRP um 3% auf 1,94 Dollar. Während der starken Bitcoin-Erholung überstiegen die Liquidationen am Kryptomarkt 1 Milliarde Dollar. Zu den stärksten Gewinnern zählten CC mit 15%, SKY mit 11% und SAND mit 10%. Vitalik Buterin schlug natives DVT-Staking vor, um Sicherheit und Dezentralisierung von Ethereum zu stärken. BitGo kündigte zudem einen IPO zu 18 Dollar je Aktie an, was einer Bewertung von rund 2 Milliarden Dollar entspricht. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Bitcoin remonte à 89 900 dollars après le virage tarifaire de Trump",
-        "excerpt": "Après le signal de recul de Trump sur les tarifs visant l’UE, Bitcoin et les principales altcoins ont rebondi; BitGo a fixé son IPO à 18 dollars l’action, près de 2 Md$ de valorisation.",
-        "body": "Le marché crypto a rebondi après que le président Trump a signalé un possible retrait des mesures tarifaires proposées contre l’Union européenne, entraînant une hausse des principaux actifs. Bitcoin a gagné 2% à 89 900 dollars, Ethereum 2% à 2 995 dollars, Solana 2% à 130 dollars et XRP 3% à 1,94 dollar. Ce net rebond du Bitcoin s’est accompagné de plus de 1 milliard de dollars de liquidations sur le marché crypto. Parmi les plus fortes hausses, CC a progressé de 15%, SKY de 11% et SAND de 10%. Vitalik Buterin a proposé le staking DVT natif pour renforcer la sécurité et la décentralisation d’Ethereum. BitGo a annoncé son IPO à 18 dollars par action, soit une valorisation d’environ 2 milliards de dollars. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "بتكوين تعود إلى 89900 دولار مع تراجع ترامب عن رسوم الاتحاد الأوروبي",
-        "excerpt": "بعد أن أشار ترامب إلى التراجع عن رسوم مقترحة على الاتحاد الأوروبي، ارتفعت بتكوين والعملات الكبرى، وأعلنت BitGo طرحا عاما بسعر 18 دولارا للسهم.",
-        "body": "انتعش سوق العملات المشفرة بعدما أشار الرئيس ترامب إلى احتمال التراجع عن إجراءات الرسوم المقترحة على الاتحاد الأوروبي، لترتفع العملات الرئيسية. صعدت بتكوين 2% إلى 89900 دولار، وارتفعت إيثريوم 2% إلى 2995 دولارا، وزادت سولانا 2% إلى 130 دولارا، بينما تقدم XRP بنسبة 3% إلى 1.94 دولار. وجاء الارتداد الحاد لبتكوين مع تجاوز التصفية في أسواق الكريبتو أكثر من مليار دولار. ومن بين أبرز الرابحين، ارتفعت CC بنسبة 15%، وSKY بنسبة 11%، وSAND بنسبة 10%. واقترح فيتاليك بوترين تخزين DVT أصليا لتعزيز أمن إيثريوم واللامركزية. كما أعلنت BitGo طرحها العام الأولي بسعر 18 دولارا للسهم، ما يقدرها بنحو ملياري دولار. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "बिटकॉइन 89,900 डॉलर पर लौटा, ट्रंप के टैरिफ रुख से क्रिप्टो में उछाल",
-        "excerpt": "ट्रंप द्वारा EU टैरिफ उपायों से पीछे हटने का संकेत देने के बाद बिटकॉइन और प्रमुख ऑल्टकॉइन चढ़े; BitGo ने 18 डॉलर प्रति शेयर IPO से करीब 2 अरब डॉलर मूल्यांकन बताया।",
-        "body": "राष्ट्रपति ट्रंप द्वारा प्रस्तावित EU टैरिफ उपायों से पीछे हटने का संकेत देने के बाद क्रिप्टो बाजार में सुधार आया और प्रमुख टोकन ऊपर चढ़े। बिटकॉइन 2% बढ़कर 89,900 डॉलर, एथेरियम 2% बढ़कर 2,995 डॉलर, सोलाना 2% बढ़कर 130 डॉलर और XRP 3% बढ़कर 1.94 डॉलर पर पहुंचा। बिटकॉइन की तेज वापसी के दौरान क्रिप्टो बाजार में परिसमापन 1 अरब डॉलर से अधिक रहा। शीर्ष बढ़त में CC 15%, SKY 11% और SAND 10% ऊपर रहे। विटालिक ब्यूटेरिन ने एथेरियम की सुरक्षा और विकेंद्रीकरण मजबूत करने के लिए नेटिव DVT स्टेकिंग का प्रस्ताव रखा। BitGo ने 18 डॉलर प्रति शेयर पर IPO की घोषणा की, जिससे उसका मूल्यांकन करीब 2 अरब डॉलर बताया गया। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Bitcoin Pulih ke US$89.900 Usai Sinyal Trump Mundur dari Tarif UE",
-        "excerpt": "Setelah Trump memberi sinyal mundur dari rencana tarif UE, Bitcoin dan altcoin utama menguat; BitGo mengumumkan IPO US$18 per saham dengan valuasi sekitar US$2 miliar.",
-        "body": "Pasar kripto rebound setelah Presiden Trump memberi sinyal kemungkinan mundur dari langkah tarif yang diusulkan terhadap Uni Eropa, membuat aset utama bergerak naik. Bitcoin menguat 2% ke US$89.900, Ethereum naik 2% ke US$2.995, Solana naik 2% ke US$130, dan XRP naik 3% ke US$1,94. Rebound tajam Bitcoin terjadi saat likuidasi di pasar kripto melampaui US$1 miliar. Di antara penggerak teratas, CC naik 15%, SKY naik 11%, dan SAND naik 10%. Vitalik Buterin mengusulkan native DVT staking untuk memperkuat keamanan dan desentralisasi Ethereum. BitGo juga mengumumkan IPO di harga US$18 per saham, dengan valuasi sekitar US$2 miliar. Sumber: decrypt.co"
       }
     }
   }
