@@ -1,0 +1,75 @@
+{
+  "id": "b3d97d3cb1ac",
+  "slug": "오픈ai-고쳐-말해도-바로-이해하는-ai-공개-903742",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-09T20:00:04.619Z",
+  "updatedAt": "2026-05-09T20:00:04.619Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026050848221",
+  "canonicalUrl": "https://www.hankyung.com/article/2026050848221",
+  "titleFingerprint": "74085e1e874de30cac155e1e1c58ed1c25049920",
+  "dedupKeys": [
+    "b3d97d3cb1ac36248ee3ec46daef375c437c0097",
+    "74085e1e874de30cac155e1e1c58ed1c25049920",
+    "3ae025d93f8ddaed3d5677e896f793a128ab9542"
+  ],
+  "imageUrl": "/images/articles/b3d97d3cb1ac.jpg",
+  "i18n": {
+    "ko": {
+      "title": "오픈AI 새 음성 AI 공개, 고쳐 말해도 즉각 이해하는 GPT-리얼타임-2",
+      "excerpt": "오픈AI는 7일 현지시간 차세대 음성 AI ‘GPT-리얼타임-2’를 공개하고, 사용자가 답변을 끊거나 말을 고쳐도 즉각 반응하는 기능을 선보였다.",
+      "body": "오픈AI가 7일(현지시간) 사람의 자연스러운 대화 흐름을 실시간으로 이해하고 추론하는 차세대 음성 인공지능 모델 ‘GPT-리얼타임-2’를 공개했다. 이 모델은 이용자가 AI 답변을 중간에 끊거나 앞서 한 말을 고쳐도 즉각 반응하도록 설계됐다. GPT-5급 추론 능력을 갖췄고, 상황에 맞춰 말투를 조절하며 개발자가 업무 성격에 따라 추론 수준을 선택할 수 있다. 오픈AI는 실시간 번역 모델 ‘GPT-리얼타임-트랜슬레이트’와 받아쓰기 모델 ‘GPT-리얼타임-위스퍼’도 함께 선보였다. 한국경제(hankyung.com)는 오픈AI가 챗GPT 광고 파일럿을 한국과 일본, 영국 등으로 확대할 예정이라고 전했다."
+    },
+    "en": {
+      "title": "OpenAI Unveils Voice AI That Understands Mid-Sentence Corrections Instantly",
+      "excerpt": "OpenAI unveiled GPT-Realtime-2 on May 7 local time, a next-generation voice AI model that reacts when users interrupt answers or revise what they just said.",
+      "body": "OpenAI unveiled ‘GPT-Realtime-2’ on May 7 local time, a next-generation voice AI model designed to understand and reason through natural conversation in real time. The model responds immediately when a user interrupts an AI answer or corrects something said earlier. It is described as having GPT-5-level reasoning capability, can adjust its speaking style by situation, and lets developers choose a reasoning level depending on the task. OpenAI also introduced the real-time translation model ‘GPT-Realtime-Translate’ and the dictation model ‘GPT-Realtime-Whisper.’ Hankyung.com reported that OpenAI also plans to expand its ChatGPT advertising pilot to South Korea, Japan and the United Kingdom."
+    },
+    "ja": {
+      "title": "OpenAI、新音声AI公開　言い直しも即時理解するGPT-Realtime-2",
+      "excerpt": "OpenAIは現地時間7日、次世代音声AI「GPT-Realtime-2」を公開し、回答の遮りや発話の言い直しにも即時反応する機能を示した。",
+      "body": "OpenAIは現地時間7日、自然な会話の流れをリアルタイムで理解し推論する次世代音声AIモデル「GPT-Realtime-2」を公開した。このモデルは、利用者がAIの回答を途中で遮ったり、先に話した内容を言い直したりしても即座に反応するよう設計されている。GPT-5級の推論能力を備え、状況に応じて話し方を調整でき、開発者は業務の性格に合わせて推論レベルを選べる。OpenAIはリアルタイム翻訳モデル「GPT-Realtime-Translate」と、文字起こしモデル「GPT-Realtime-Whisper」も同時に発表した。hankyung.comは、OpenAIがChatGPT広告パイロットを韓国、日本、英国などへ拡大する予定だと伝えた。"
+    },
+    "zh": {
+      "title": "OpenAI发布新语音AI：用户改口也能立即理解的GPT-Realtime-2",
+      "excerpt": "OpenAI于当地时间7日发布下一代语音AI“GPT-Realtime-2”，可在用户打断回答或临时改口时迅速作出反应。",
+      "body": "OpenAI于当地时间7日发布了下一代语音人工智能模型“GPT-Realtime-2”，用于实时理解自然对话流程并进行推理。该模型被设计为在用户中途打断AI回答，或对先前说过的内容进行修正时，也能立即作出反应。报道称，它具备GPT-5级推理能力，可根据情境调整语气，开发者也能按任务性质选择推理水平。OpenAI还同时推出实时翻译模型“GPT-Realtime-Translate”和实时转写模型“GPT-Realtime-Whisper”。hankyung.com报道称，OpenAI还计划把ChatGPT广告试点扩展至韩国、日本、英国等市场。"
+    },
+    "es": {
+      "title": "OpenAI presenta una IA de voz que entiende correcciones al instante",
+      "excerpt": "OpenAI presentó el 7 de mayo, hora local, GPT-Realtime-2, una IA de voz que responde si el usuario interrumpe una respuesta o corrige lo que acaba de decir.",
+      "body": "OpenAI presentó el 7 de mayo, hora local, ‘GPT-Realtime-2’, un modelo de inteligencia artificial de voz de nueva generación diseñado para comprender y razonar sobre conversaciones naturales en tiempo real. El modelo reacciona de inmediato cuando un usuario interrumpe una respuesta de la IA o corrige algo dicho antes. Según la información publicada, cuenta con capacidad de razonamiento de nivel GPT-5, puede ajustar el tono según la situación y permite a los desarrolladores elegir el nivel de razonamiento según la tarea. OpenAI también presentó ‘GPT-Realtime-Translate’, para traducción en tiempo real, y ‘GPT-Realtime-Whisper’, para transcripción. Hankyung.com informó además que OpenAI planea ampliar su piloto de anuncios en ChatGPT a Corea del Sur, Japón y Reino Unido."
+    },
+    "pt": {
+      "title": "OpenAI lança IA de voz que entende correções e interrupções em tempo real",
+      "excerpt": "A OpenAI apresentou em 7 de maio, no horário local, o GPT-Realtime-2, uma IA de voz que reage quando o usuário interrompe respostas ou corrige o que disse.",
+      "body": "A OpenAI apresentou em 7 de maio, no horário local, o ‘GPT-Realtime-2’, um modelo de inteligência artificial de voz de nova geração criado para entender e raciocinar sobre conversas naturais em tempo real. O modelo responde imediatamente quando o usuário interrompe uma resposta da IA ou corrige algo dito antes. Segundo a notícia, ele tem capacidade de raciocínio de nível GPT-5, pode ajustar o tom conforme a situação e permite que desenvolvedores escolham o nível de raciocínio de acordo com a tarefa. A OpenAI também apresentou o modelo de tradução em tempo real ‘GPT-Realtime-Translate’ e o modelo de transcrição ‘GPT-Realtime-Whisper’. O hankyung.com informou que a OpenAI pretende expandir o piloto de anúncios do ChatGPT para Coreia do Sul, Japão e Reino Unido."
+    },
+    "de": {
+      "title": "OpenAI zeigt neue Sprach-KI, die Korrekturen sofort versteht",
+      "excerpt": "OpenAI stellte am 7. Mai Ortszeit GPT-Realtime-2 vor, ein Sprach-KI-Modell, das reagiert, wenn Nutzer Antworten unterbrechen oder Gesagtes korrigieren.",
+      "body": "OpenAI stellte am 7. Mai Ortszeit ‘GPT-Realtime-2’ vor, ein Sprach-KI-Modell der nächsten Generation, das natürliche Gespräche in Echtzeit verstehen und dazu Schlussfolgerungen ziehen soll. Das Modell reagiert sofort, wenn Nutzer eine KI-Antwort unterbrechen oder zuvor Gesagtes korrigieren. Laut Bericht verfügt es über eine Denkfähigkeit auf GPT-5-Niveau, kann den Ton je nach Situation anpassen und lässt Entwickler je nach Aufgabe ein passendes Schlussfolgerungsniveau wählen. OpenAI präsentierte außerdem das Echtzeit-Übersetzungsmodell ‘GPT-Realtime-Translate’ und das Diktiermodell ‘GPT-Realtime-Whisper’. Hankyung.com berichtete zudem, dass OpenAI den Werbepiloten in ChatGPT auf Südkorea, Japan und Großbritannien ausweiten will."
+    },
+    "fr": {
+      "title": "OpenAI dévoile une IA vocale qui comprend les corrections en direct",
+      "excerpt": "OpenAI a présenté le 7 mai, heure locale, GPT-Realtime-2, une IA vocale qui réagit quand l’utilisateur interrompt une réponse ou corrige ses propos.",
+      "body": "OpenAI a présenté le 7 mai, heure locale, ‘GPT-Realtime-2’, un modèle d’intelligence artificielle vocale de nouvelle génération conçu pour comprendre et raisonner sur des conversations naturelles en temps réel. Le modèle réagit immédiatement lorsqu’un utilisateur interrompt une réponse de l’IA ou corrige ce qu’il a dit plus tôt. Selon l’article, il dispose d’une capacité de raisonnement de niveau GPT-5, peut ajuster son ton selon la situation et permet aux développeurs de choisir le niveau de raisonnement selon la tâche. OpenAI a aussi dévoilé ‘GPT-Realtime-Translate’, pour la traduction en direct, et ‘GPT-Realtime-Whisper’, pour la transcription. Hankyung.com rapporte qu’OpenAI prévoit également d’étendre son pilote publicitaire ChatGPT à la Corée du Sud, au Japon et au Royaume-Uni."
+    },
+    "ar": {
+      "title": "أوبن إيه آي تكشف ذكاء صوتيا يفهم التصحيح الفوري أثناء الحديث",
+      "excerpt": "كشفت أوبن إيه آي في 7 مايو بالتوقيت المحلي عن GPT-Realtime-2، نموذج صوتي يتفاعل عندما يقاطع المستخدم الإجابة أو يصحح ما قاله للتو.",
+      "body": "كشفت أوبن إيه آي في 7 مايو بالتوقيت المحلي عن نموذج الذكاء الاصطناعي الصوتي من الجيل التالي ‘GPT-Realtime-2’، المصمم لفهم مسار المحادثة الطبيعية والاستدلال عليه في الزمن الحقيقي. يستجيب النموذج فورا عندما يقاطع المستخدم إجابة الذكاء الاصطناعي أو يصحح كلاما قاله سابقا. ووفقا للتقرير، يمتلك قدرة استدلال بمستوى GPT-5، ويمكنه تعديل نبرة الحديث بحسب الموقف، كما يتيح للمطورين اختيار مستوى الاستدلال وفق طبيعة المهمة. وقدمت أوبن إيه آي أيضا نموذج الترجمة الفورية ‘GPT-Realtime-Translate’ ونموذج الإملاء ‘GPT-Realtime-Whisper’. وذكر موقع hankyung.com أن أوبن إيه آي تعتزم توسيع تجربة إعلانات ChatGPT إلى كوريا الجنوبية واليابان والمملكة المتحدة."
+    },
+    "hi": {
+      "title": "OpenAI ने नया वॉयस AI पेश किया, सुधार कर बोलने पर भी तुरंत समझता है",
+      "excerpt": "OpenAI ने 7 मई स्थानीय समय पर GPT-Realtime-2 पेश किया, जो यूजर के जवाब बीच में रोकने या अपनी बात सुधारने पर भी तुरंत प्रतिक्रिया देता है।",
+      "body": "OpenAI ने 7 मई स्थानीय समय पर अगली पीढ़ी का वॉयस AI मॉडल ‘GPT-Realtime-2’ पेश किया, जिसे प्राकृतिक बातचीत के प्रवाह को रियल टाइम में समझने और उस पर तर्क करने के लिए बनाया गया है। यह मॉडल तब भी तुरंत प्रतिक्रिया देता है जब यूजर AI के जवाब को बीच में रोकता है या पहले कही गई बात को सुधारता है। रिपोर्ट के अनुसार इसमें GPT-5 स्तर की तर्क क्षमता है, यह स्थिति के अनुसार बोलने का लहजा बदल सकता है और डेवलपर काम की प्रकृति के आधार पर तर्क स्तर चुन सकते हैं। OpenAI ने रियल टाइम अनुवाद मॉडल ‘GPT-Realtime-Translate’ और डिक्टेशन मॉडल ‘GPT-Realtime-Whisper’ भी पेश किए। hankyung.com ने बताया कि OpenAI ChatGPT विज्ञापन पायलट को दक्षिण कोरिया, जापान और ब्रिटेन तक बढ़ाने की योजना बना रही है।"
+    },
+    "id": {
+      "title": "OpenAI Rilis AI Suara Baru yang Langsung Paham Saat Pengguna Mengoreksi Ucapan",
+      "excerpt": "OpenAI pada 7 Mei waktu setempat memperkenalkan GPT-Realtime-2, model AI suara yang bereaksi saat pengguna memotong jawaban atau memperbaiki ucapannya.",
+      "body": "OpenAI pada 7 Mei waktu setempat memperkenalkan ‘GPT-Realtime-2’, model AI suara generasi baru yang dirancang untuk memahami alur percakapan alami dan bernalar secara real time. Model ini langsung merespons ketika pengguna memotong jawaban AI atau memperbaiki ucapan yang sudah disampaikan sebelumnya. Menurut laporan, model tersebut memiliki kemampuan penalaran setingkat GPT-5, dapat menyesuaikan gaya bicara sesuai situasi, dan memungkinkan pengembang memilih tingkat penalaran berdasarkan jenis tugas. OpenAI juga memperkenalkan model terjemahan real time ‘GPT-Realtime-Translate’ dan model dikte ‘GPT-Realtime-Whisper’. Hankyung.com melaporkan bahwa OpenAI berencana memperluas pilot iklan ChatGPT ke Korea Selatan, Jepang, dan Inggris."
+    }
+  }
+}
