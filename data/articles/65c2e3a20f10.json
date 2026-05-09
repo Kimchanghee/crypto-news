@@ -1,0 +1,75 @@
+{
+  "id": "65c2e3a20f10",
+  "slug": "crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet--428756",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-09T14:16:08.969Z",
+  "updatedAt": "2026-05-09T14:16:08.969Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami",
+  "canonicalUrl": "https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami",
+  "titleFingerprint": "664c199e3a552ffb86400c129a5b6a743c67528f",
+  "dedupKeys": [
+    "65c2e3a20f1061d8cec4d4b185f0584a89536638",
+    "664c199e3a552ffb86400c129a5b6a743c67528f",
+    "3bd36c5fcb975768fc1274359c670380a6a716e9"
+  ],
+  "imageUrl": "/images/articles/65c2e3a20f10.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 에이전트 시대, 크립토 지갑 재설계 필요성 부상",
+      "excerpt": "컨센서스 마이애미에서 Trust Wallet CEO 펠릭스 팬과 Mesh CTO 아르준 무케르지가 AI 에이전트 확산으로 크립토 지갑의 역할이 새롭게 바뀌고 있다고 밝혔다.",
+      "body": "컨센서스 마이애미에서 Trust Wallet CEO 펠릭스 팬과 Mesh CTO 아르준 무케르지는 AI 에이전트가 크립토 지갑의 새로운 역할을 만들고 있다고 말했다. 이들은 기존 지갑이 이용자 중심의 보관·서명 도구였다면, AI 에이전트가 거래와 온체인 활동을 수행하는 환경에서는 지갑 구조도 다시 설계될 필요가 있다고 설명했다. 배경에는 AI 에이전트가 디지털 자산과 블록체인 서비스에 접근하는 방식이 달라지고 있다는 흐름이 있다. 향후 지갑은 사람뿐 아니라 에이전트가 안전하게 권한을 관리하고 실행할 수 있는 접점으로 중요해질 수 있다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "AI Agents Push Crypto Wallets Toward a New Design Role",
+      "excerpt": "At Consensus Miami, Trust Wallet CEO Felix Fan and Mesh CTO Arjun Mukherjee said AI agents are reshaping why crypto wallets matter and how they may need to work.",
+      "body": "At Consensus Miami, Trust Wallet CEO Felix Fan and Mesh CTO Arjun Mukherjee said AI agents are creating a new role for crypto wallets. They explained that while traditional wallets have focused on user custody and signing, wallets may need to be redesigned for an environment where AI agents conduct transactions and on-chain activity. The context is a shift in how AI agents access digital assets and blockchain services. Looking ahead, wallets could become key interfaces for both people and agents to manage permissions and execute actions safely. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "AIエージェント時代、暗号資産ウォレット再設計が焦点に",
+      "excerpt": "コンセンサス・マイアミでTrust Walletのフェリックス・ファンCEOとMeshのアルジュン・ムケルジーCTOは、AIエージェントが暗号資産ウォレットの役割を変えていると述べた。",
+      "body": "コンセンサス・マイアミで、Trust Walletのフェリックス・ファンCEOとMeshのアルジュン・ムケルジーCTOは、AIエージェントが暗号資産ウォレットに新たな役割を生み出していると述べた。従来のウォレットが利用者の資産保管や署名を中心としてきた一方、AIエージェントが取引やオンチェーン活動を行う環境では、ウォレットの構造も再設計される必要があるという。背景には、AIエージェントがデジタル資産やブロックチェーンサービスへアクセスする方法の変化がある。今後ウォレットは、人とエージェントが権限を安全に管理し実行する接点として重要性を増す可能性がある。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "AI代理推动加密钱包重构，新角色正在形成",
+      "excerpt": "在Consensus Miami上，Trust Wallet首席执行官Felix Fan和Mesh首席技术官Arjun Mukherjee表示，AI代理正在改变加密钱包的重要性与使用方式。",
+      "body": "在Consensus Miami上，Trust Wallet首席执行官Felix Fan和Mesh首席技术官Arjun Mukherjee表示，AI代理正在为加密钱包创造新的角色。他们指出，传统钱包主要围绕用户托管和签名展开，但在AI代理执行交易和链上活动的环境中，钱包结构可能需要重新设计。其背景是AI代理访问数字资产和区块链服务的方式正在发生变化。展望未来，钱包可能成为人与代理安全管理权限并执行操作的重要入口。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Agentes de IA impulsan un nuevo diseño para wallets cripto",
+      "excerpt": "En Consensus Miami, Felix Fan, CEO de Trust Wallet, y Arjun Mukherjee, CTO de Mesh, dijeron que los agentes de IA están redefiniendo el papel de las wallets cripto.",
+      "body": "En Consensus Miami, Felix Fan, CEO de Trust Wallet, y Arjun Mukherjee, CTO de Mesh, dijeron que los agentes de IA están creando un nuevo papel para las wallets cripto. Explicaron que, si las wallets tradicionales se han centrado en la custodia y la firma por parte del usuario, en un entorno donde los agentes de IA realizan transacciones y actividad on-chain la estructura de la wallet puede necesitar un rediseño. El contexto es el cambio en la forma en que los agentes de IA acceden a activos digitales y servicios blockchain. A futuro, las wallets podrían volverse interfaces clave para que personas y agentes gestionen permisos y ejecuten acciones con seguridad. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Agentes de IA levam carteiras cripto a um novo redesenho",
+      "excerpt": "No Consensus Miami, Felix Fan, CEO da Trust Wallet, e Arjun Mukherjee, CTO da Mesh, disseram que agentes de IA estão mudando o papel das carteiras cripto.",
+      "body": "No Consensus Miami, Felix Fan, CEO da Trust Wallet, e Arjun Mukherjee, CTO da Mesh, disseram que agentes de IA estão criando um novo papel para as carteiras cripto. Eles explicaram que, enquanto as carteiras tradicionais se concentravam na custódia e na assinatura pelo usuário, em um ambiente no qual agentes de IA realizam transações e atividades on-chain a estrutura das carteiras pode precisar ser redesenhada. O contexto é a mudança na forma como agentes de IA acessam ativos digitais e serviços de blockchain. No futuro, as carteiras podem se tornar interfaces importantes para pessoas e agentes gerenciarem permissões e executarem ações com segurança. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "KI-Agenten rücken neues Design für Krypto-Wallets in den Fokus",
+      "excerpt": "Auf der Consensus Miami sagten Trust-Wallet-CEO Felix Fan und Mesh-CTO Arjun Mukherjee, dass KI-Agenten die Rolle von Krypto-Wallets neu prägen.",
+      "body": "Auf der Consensus Miami sagten Trust-Wallet-CEO Felix Fan und Mesh-CTO Arjun Mukherjee, dass KI-Agenten eine neue Rolle für Krypto-Wallets schaffen. Sie erklärten, dass klassische Wallets vor allem auf Verwahrung und Signaturen durch Nutzer ausgerichtet waren. In einer Umgebung, in der KI-Agenten Transaktionen und On-Chain-Aktivitäten ausführen, müsse die Wallet-Struktur jedoch möglicherweise neu gestaltet werden. Der Hintergrund ist ein Wandel darin, wie KI-Agenten auf digitale Vermögenswerte und Blockchain-Dienste zugreifen. Künftig könnten Wallets zu wichtigen Schnittstellen werden, über die Menschen und Agenten Berechtigungen sicher verwalten und Aktionen ausführen. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Les agents IA poussent les wallets crypto vers un nouveau rôle",
+      "excerpt": "À Consensus Miami, Felix Fan, CEO de Trust Wallet, et Arjun Mukherjee, CTO de Mesh, ont déclaré que les agents IA redéfinissent le rôle des wallets crypto.",
+      "body": "À Consensus Miami, Felix Fan, CEO de Trust Wallet, et Arjun Mukherjee, CTO de Mesh, ont déclaré que les agents IA créent un nouveau rôle pour les wallets crypto. Ils ont expliqué que les wallets traditionnels se concentraient sur la conservation et la signature par l’utilisateur, mais que leur structure pourrait devoir être repensée dans un environnement où les agents IA réalisent des transactions et des activités on-chain. Le contexte est l’évolution de la manière dont les agents IA accèdent aux actifs numériques et aux services blockchain. À l’avenir, les wallets pourraient devenir des interfaces clés permettant aux personnes et aux agents de gérer les autorisations et d’exécuter des actions en sécurité. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "وكلاء الذكاء الاصطناعي يدفعون لإعادة تصميم محافظ الكريبتو",
+      "excerpt": "في Consensus Miami، قال فيليكس فان، الرئيس التنفيذي لـTrust Wallet، وأرجون موخيرجي، المدير التقني في Mesh، إن وكلاء الذكاء الاصطناعي يغيرون دور محافظ الكريبتو.",
+      "body": "في Consensus Miami، قال فيليكس فان، الرئيس التنفيذي لـTrust Wallet، وأرجون موخيرجي، المدير التقني في Mesh، إن وكلاء الذكاء الاصطناعي يخلقون دورا جديدا لمحافظ الكريبتو. وأوضحا أن المحافظ التقليدية ركزت على حفظ أصول المستخدم والتوقيع، لكن في بيئة ينفذ فيها وكلاء الذكاء الاصطناعي معاملات وأنشطة على السلسلة قد تحتاج بنية المحافظ إلى إعادة تصميم. وتأتي الخلفية من تغير طريقة وصول وكلاء الذكاء الاصطناعي إلى الأصول الرقمية وخدمات البلوكشين. مستقبلا، قد تصبح المحافظ واجهة مهمة تتيح للبشر والوكلاء إدارة الصلاحيات وتنفيذ الإجراءات بأمان. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "AI एजेंटों से क्रिप्टो वॉलेट के नए डिजाइन की जरूरत उभरी",
+      "excerpt": "Consensus Miami में Trust Wallet के CEO Felix Fan और Mesh के CTO Arjun Mukherjee ने कहा कि AI एजेंट क्रिप्टो वॉलेट की भूमिका और उपयोग को नया रूप दे रहे हैं।",
+      "body": "Consensus Miami में Trust Wallet के CEO Felix Fan और Mesh के CTO Arjun Mukherjee ने कहा कि AI एजेंट क्रिप्टो वॉलेट के लिए नई भूमिका बना रहे हैं। उन्होंने बताया कि पारंपरिक वॉलेट अब तक उपयोगकर्ता की कस्टडी और साइनिंग पर केंद्रित रहे हैं, लेकिन ऐसे माहौल में जहां AI एजेंट लेनदेन और ऑन-चेन गतिविधि करते हैं, वॉलेट की संरचना को फिर से डिजाइन करने की जरूरत पड़ सकती है। पृष्ठभूमि में यह बदलाव है कि AI एजेंट डिजिटल एसेट और ब्लॉकचेन सेवाओं तक कैसे पहुंचते हैं। आगे चलकर वॉलेट लोगों और एजेंटों दोनों के लिए अनुमति प्रबंधन और सुरक्षित निष्पादन का अहम इंटरफेस बन सकते हैं। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Agen AI Dorong Desain Baru untuk Dompet Kripto",
+      "excerpt": "Di Consensus Miami, CEO Trust Wallet Felix Fan dan CTO Mesh Arjun Mukherjee mengatakan agen AI sedang membentuk ulang peran dompet kripto dan cara kerjanya.",
+      "body": "Di Consensus Miami, CEO Trust Wallet Felix Fan dan CTO Mesh Arjun Mukherjee mengatakan agen AI menciptakan peran baru bagi dompet kripto. Mereka menjelaskan bahwa dompet tradisional berfokus pada kustodi dan penandatanganan oleh pengguna, tetapi dalam lingkungan ketika agen AI menjalankan transaksi dan aktivitas on-chain, struktur dompet mungkin perlu dirancang ulang. Latar belakangnya adalah perubahan cara agen AI mengakses aset digital dan layanan blockchain. Ke depan, dompet dapat menjadi antarmuka penting bagi manusia dan agen untuk mengelola izin serta menjalankan tindakan secara aman. Sumber: coindesk.com"
+    }
+  }
+}

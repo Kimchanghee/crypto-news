@@ -1,0 +1,75 @@
+{
+  "id": "36df0398c0ab",
+  "slug": "layerzero-says-it-made-a-mistake-in-292-million-kelp-exploit-564760",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-09T14:17:51.304Z",
+  "updatedAt": "2026-05-09T14:17:51.304Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
+  "titleFingerprint": "10a32c6de4f0955ce3a31fdd38bc9fa11992f5b0",
+  "dedupKeys": [
+    "36df0398c0ab602b13c53f686b4ce6057b91bf2c",
+    "10a32c6de4f0955ce3a31fdd38bc9fa11992f5b0",
+    "a48595e83401124a5a0b1dad26f57ebd3b2eb559"
+  ],
+  "imageUrl": "/images/articles/36df0398c0ab.jpg",
+  "i18n": {
+    "ko": {
+      "title": "LayerZero, 2억9200만달러 Kelp 익스플로잇서 ‘실수’ 인정",
+      "excerpt": "LayerZero는 Kelp 관련 2억9200만달러 익스플로잇을 두고 개발자 설정 실패로 설명한 초기 입장을 바꿔, 취약한 구조에서 자체 검증자에 고액 전송 보안을 맡긴 결정의 책임을 인정했다.",
+      "body": "LayerZero는 Kelp 관련 2억9200만달러 규모 익스플로잇에 대해 “실수했다”고 밝혔다. 회사는 처음에는 이번 사고를 개발자 구성 설정 실패로 설명했지만, 이후 취약한 설정에서 자체 검증자가 고액 전송을 보호하도록 허용한 결정은 자신들이 책임져야 한다고 인정했다. 이번 사안의 핵심은 단순한 개별 개발자 오류가 아니라, 고가치 전송을 어떤 검증 구조로 보호했는지에 대한 판단 문제로 옮겨갔다. LayerZero의 입장 변화는 보안 책임 범위와 검증자 구성의 중요성을 다시 부각시킨다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "LayerZero Admits ‘Mistake’ in $292 Million Kelp Exploit",
+      "excerpt": "LayerZero changed its initial explanation of the $292 million Kelp exploit, saying it owns the decision to let its own verifier secure high-value transfers in a vulnerable setup.",
+      "body": "LayerZero said it “made a mistake” in the $292 million Kelp-related exploit. The company initially described the incident as a developer configuration failure, but later acknowledged that it owns the decision to allow its own verifier to secure high-value transfers in a vulnerable setup. The focus of the issue has therefore shifted from a single developer error to the judgment behind the verification structure used for valuable transfers. LayerZero’s changed stance highlights the scope of security responsibility and the importance of verifier configuration. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "LayerZero、2億9200万ドルのKelpエクスプロイトで「ミス」認める",
+      "excerpt": "LayerZeroはKelp関連の2億9200万ドル規模エクスプロイトについて、開発者設定ミスとの初期説明を改め、脆弱な構成で自社検証者に高額送金の保護を担わせた判断の責任を認めた。",
+      "body": "LayerZeroは、Kelp関連の2億9200万ドル規模のエクスプロイトについて「ミスをした」と述べた。同社は当初、この事故を開発者の構成設定失敗として説明していたが、その後、脆弱な設定の中で自社の検証者に高額送金の保護を任せることを認めた判断について、自社が責任を負うと認めた。焦点は単なる個別開発者のミスではなく、高価値の送金をどの検証構造で守ったのかという判断に移った。LayerZeroの姿勢変更は、セキュリティ責任の範囲と検証者構成の重要性を改めて浮き彫りにしている。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "LayerZero承认在2.92亿美元Kelp攻击中“犯错”",
+      "excerpt": "LayerZero就Kelp相关2.92亿美元攻击改变最初说法，承认在存在漏洞的配置下让自家验证者保护高价值转账的决定应由其负责。",
+      "body": "LayerZero表示，在Kelp相关的2.92亿美元规模攻击事件中“犯了错误”。该公司最初将此次事件描述为开发者配置失败，但随后承认，在存在漏洞的设置中允许自家验证者保护高价值转账的决定，应由LayerZero承担责任。因此，事件焦点已从单一开发者错误，转向用于保护高价值转账的验证结构判断。LayerZero立场的变化再次凸显了安全责任边界以及验证者配置的重要性。来源: coindesk.com"
+    },
+    "es": {
+      "title": "LayerZero admite un ‘error’ en el exploit de Kelp por US$292 millones",
+      "excerpt": "LayerZero cambió su explicación inicial del exploit de Kelp por US$292 millones y asumió la decisión de usar su propio verificador para proteger transferencias de alto valor en una configuración vulnerable.",
+      "body": "LayerZero dijo que “cometió un error” en el exploit relacionado con Kelp por US$292 millones. La compañía describió inicialmente el incidente como una falla de configuración de desarrolladores, pero después reconoció que asume la decisión de permitir que su propio verificador protegiera transferencias de alto valor en una configuración vulnerable. Así, el foco pasó de un error individual de desarrollo al criterio usado para proteger transferencias valiosas mediante una estructura de verificación. El cambio de postura de LayerZero subraya el alcance de la responsabilidad en seguridad y la importancia de configurar verificadores. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "LayerZero admite ‘erro’ em exploit de US$292 milhões da Kelp",
+      "excerpt": "A LayerZero mudou a explicação inicial sobre o exploit de US$292 milhões ligado à Kelp e assumiu a decisão de deixar seu próprio verificador proteger transferências de alto valor em uma configuração vulnerável.",
+      "body": "A LayerZero afirmou que “cometeu um erro” no exploit relacionado à Kelp, avaliado em US$292 milhões. A empresa inicialmente descreveu o incidente como uma falha de configuração de desenvolvedores, mas depois reconheceu que assume a decisão de permitir que seu próprio verificador protegesse transferências de alto valor em uma configuração vulnerável. O foco do caso passou, assim, de um erro individual de desenvolvimento para o julgamento sobre a estrutura de verificação usada em transferências valiosas. A mudança de posição da LayerZero destaca o alcance da responsabilidade de segurança e a importância da configuração dos verificadores. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "LayerZero räumt ‘Fehler’ bei Kelp-Exploit über 292 Mio. Dollar ein",
+      "excerpt": "LayerZero änderte seine erste Erklärung zum Kelp-Exploit über 292 Mio. Dollar und übernahm Verantwortung dafür, eigene Verifier in einer anfälligen Konfiguration hochwertige Transfers sichern zu lassen.",
+      "body": "LayerZero erklärte, beim Kelp-bezogenen Exploit im Umfang von 292 Mio. Dollar einen „Fehler“ gemacht zu haben. Das Unternehmen hatte den Vorfall zunächst als Konfigurationsfehler von Entwicklern dargestellt, räumte später jedoch ein, die Entscheidung zu verantworten, eigene Verifier in einer anfälligen Konfiguration hochwertige Transfers absichern zu lassen. Damit verschiebt sich der Fokus von einem einzelnen Entwicklerfehler auf die Bewertung der Verifizierungsstruktur für wertvolle Transfers. LayerZeros Kurswechsel betont den Umfang von Sicherheitsverantwortung und die Bedeutung der Verifier-Konfiguration. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "LayerZero admet une ‘erreur’ dans l’exploit Kelp de 292 M$",
+      "excerpt": "LayerZero a modifié son explication initiale de l’exploit Kelp de 292 M$ et reconnu sa responsabilité dans le choix de laisser son propre vérificateur sécuriser des transferts de grande valeur dans une configuration vulnérable.",
+      "body": "LayerZero a déclaré avoir “commis une erreur” dans l’exploit lié à Kelp, d’un montant de 292 millions de dollars. L’entreprise avait d’abord présenté l’incident comme un échec de configuration côté développeur, avant de reconnaître qu’elle assumait la décision de laisser son propre vérificateur sécuriser des transferts de grande valeur dans une configuration vulnérable. Le cœur du dossier passe donc d’une simple erreur individuelle à l’évaluation de la structure de vérification utilisée pour protéger des transferts importants. Ce changement de position souligne l’étendue de la responsabilité en matière de sécurité et l’importance de la configuration des vérificateurs. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "LayerZero تقر بخطأ في استغلال Kelp بقيمة 292 مليون دولار",
+      "excerpt": "غيّرت LayerZero تفسيرها الأولي لاستغلال Kelp البالغ 292 مليون دولار، وأقرت بمسؤوليتها عن قرار ترك مدققها الخاص يؤمن تحويلات عالية القيمة ضمن إعداد ضعيف.",
+      "body": "قالت LayerZero إنها “ارتكبت خطأ” في الاستغلال المرتبط بـKelp والبالغ 292 مليون دولار. وكانت الشركة قد وصفت الحادث في البداية بأنه فشل في إعدادات المطورين، لكنها أقرت لاحقا بأنها تتحمل مسؤولية قرار السماح لمدققها الخاص بتأمين تحويلات عالية القيمة ضمن إعداد معرض للثغرات. وبذلك انتقل محور القضية من خطأ فردي لمطور إلى الحكم على بنية التحقق المستخدمة لحماية التحويلات ذات القيمة الكبيرة. ويبرز تغير موقف LayerZero نطاق مسؤولية الأمن وأهمية تكوين المدققين. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "LayerZero ने $292 मिलियन Kelp exploit में ‘गलती’ मानी",
+      "excerpt": "LayerZero ने $292 मिलियन Kelp exploit पर शुरुआती डेवलपर कॉन्फिगरेशन विफलता वाली व्याख्या बदली और कमजोर सेटअप में अपने verifier से उच्च-मूल्य ट्रांसफर सुरक्षित कराने के फैसले की जिम्मेदारी ली।",
+      "body": "LayerZero ने Kelp से जुड़े $292 मिलियन के exploit पर कहा कि उससे “गलती हुई”। कंपनी ने शुरुआत में इस घटना को डेवलपर कॉन्फिगरेशन की विफलता बताया था, लेकिन बाद में स्वीकार किया कि कमजोर सेटअप में अपने ही verifier को उच्च-मूल्य ट्रांसफर सुरक्षित करने देने का फैसला उसकी जिम्मेदारी है। इसलिए मुद्दे का केंद्र केवल किसी एक डेवलपर की गलती से हटकर इस निर्णय पर आ गया है कि मूल्यवान ट्रांसफर की सुरक्षा किस verification संरचना से की गई। LayerZero का बदला रुख सुरक्षा जिम्मेदारी की सीमा और verifier configuration के महत्व को रेखांकित करता है। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "LayerZero Akui ‘Kesalahan’ dalam Exploit Kelp US$292 Juta",
+      "excerpt": "LayerZero mengubah penjelasan awal soal exploit Kelp senilai US$292 juta dan mengakui tanggung jawab atas keputusan membiarkan verifier miliknya mengamankan transfer bernilai tinggi dalam konfigurasi rentan.",
+      "body": "LayerZero menyatakan telah “membuat kesalahan” dalam exploit terkait Kelp senilai US$292 juta. Perusahaan awalnya menggambarkan insiden ini sebagai kegagalan konfigurasi pengembang, tetapi kemudian mengakui bahwa keputusan untuk membiarkan verifier miliknya mengamankan transfer bernilai tinggi dalam konfigurasi yang rentan adalah tanggung jawabnya. Fokus masalah pun bergeser dari kesalahan satu pengembang menjadi penilaian atas struktur verifikasi yang digunakan untuk melindungi transfer bernilai besar. Perubahan sikap LayerZero menyoroti cakupan tanggung jawab keamanan dan pentingnya konfigurasi verifier. Sumber: coindesk.com"
+    }
+  }
+}

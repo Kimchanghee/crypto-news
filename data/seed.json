@@ -1,5 +1,230 @@
 [
   {
+    "id": "36df0398c0ab",
+    "slug": "layerzero-says-it-made-a-mistake-in-292-million-kelp-exploit-564760",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T14:17:51.304Z",
+    "updatedAt": "2026-05-09T14:17:51.304Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
+    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
+    "titleFingerprint": "10a32c6de4f0955ce3a31fdd38bc9fa11992f5b0",
+    "dedupKeys": [
+      "36df0398c0ab602b13c53f686b4ce6057b91bf2c",
+      "10a32c6de4f0955ce3a31fdd38bc9fa11992f5b0",
+      "a48595e83401124a5a0b1dad26f57ebd3b2eb559"
+    ],
+    "imageUrl": "/images/articles/36df0398c0ab.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LayerZero, 2억9200만달러 Kelp 익스플로잇서 ‘실수’ 인정",
+        "excerpt": "LayerZero는 Kelp 관련 2억9200만달러 익스플로잇을 두고 개발자 설정 실패로 설명한 초기 입장을 바꿔, 취약한 구조에서 자체 검증자에 고액 전송 보안을 맡긴 결정의 책임을 인정했다.",
+        "body": "LayerZero는 Kelp 관련 2억9200만달러 규모 익스플로잇에 대해 “실수했다”고 밝혔다. 회사는 처음에는 이번 사고를 개발자 구성 설정 실패로 설명했지만, 이후 취약한 설정에서 자체 검증자가 고액 전송을 보호하도록 허용한 결정은 자신들이 책임져야 한다고 인정했다. 이번 사안의 핵심은 단순한 개별 개발자 오류가 아니라, 고가치 전송을 어떤 검증 구조로 보호했는지에 대한 판단 문제로 옮겨갔다. LayerZero의 입장 변화는 보안 책임 범위와 검증자 구성의 중요성을 다시 부각시킨다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "LayerZero Admits ‘Mistake’ in $292 Million Kelp Exploit",
+        "excerpt": "LayerZero changed its initial explanation of the $292 million Kelp exploit, saying it owns the decision to let its own verifier secure high-value transfers in a vulnerable setup.",
+        "body": "LayerZero said it “made a mistake” in the $292 million Kelp-related exploit. The company initially described the incident as a developer configuration failure, but later acknowledged that it owns the decision to allow its own verifier to secure high-value transfers in a vulnerable setup. The focus of the issue has therefore shifted from a single developer error to the judgment behind the verification structure used for valuable transfers. LayerZero’s changed stance highlights the scope of security responsibility and the importance of verifier configuration. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "LayerZero、2億9200万ドルのKelpエクスプロイトで「ミス」認める",
+        "excerpt": "LayerZeroはKelp関連の2億9200万ドル規模エクスプロイトについて、開発者設定ミスとの初期説明を改め、脆弱な構成で自社検証者に高額送金の保護を担わせた判断の責任を認めた。",
+        "body": "LayerZeroは、Kelp関連の2億9200万ドル規模のエクスプロイトについて「ミスをした」と述べた。同社は当初、この事故を開発者の構成設定失敗として説明していたが、その後、脆弱な設定の中で自社の検証者に高額送金の保護を任せることを認めた判断について、自社が責任を負うと認めた。焦点は単なる個別開発者のミスではなく、高価値の送金をどの検証構造で守ったのかという判断に移った。LayerZeroの姿勢変更は、セキュリティ責任の範囲と検証者構成の重要性を改めて浮き彫りにしている。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "LayerZero承认在2.92亿美元Kelp攻击中“犯错”",
+        "excerpt": "LayerZero就Kelp相关2.92亿美元攻击改变最初说法，承认在存在漏洞的配置下让自家验证者保护高价值转账的决定应由其负责。",
+        "body": "LayerZero表示，在Kelp相关的2.92亿美元规模攻击事件中“犯了错误”。该公司最初将此次事件描述为开发者配置失败，但随后承认，在存在漏洞的设置中允许自家验证者保护高价值转账的决定，应由LayerZero承担责任。因此，事件焦点已从单一开发者错误，转向用于保护高价值转账的验证结构判断。LayerZero立场的变化再次凸显了安全责任边界以及验证者配置的重要性。来源: coindesk.com"
+      },
+      "es": {
+        "title": "LayerZero admite un ‘error’ en el exploit de Kelp por US$292 millones",
+        "excerpt": "LayerZero cambió su explicación inicial del exploit de Kelp por US$292 millones y asumió la decisión de usar su propio verificador para proteger transferencias de alto valor en una configuración vulnerable.",
+        "body": "LayerZero dijo que “cometió un error” en el exploit relacionado con Kelp por US$292 millones. La compañía describió inicialmente el incidente como una falla de configuración de desarrolladores, pero después reconoció que asume la decisión de permitir que su propio verificador protegiera transferencias de alto valor en una configuración vulnerable. Así, el foco pasó de un error individual de desarrollo al criterio usado para proteger transferencias valiosas mediante una estructura de verificación. El cambio de postura de LayerZero subraya el alcance de la responsabilidad en seguridad y la importancia de configurar verificadores. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "LayerZero admite ‘erro’ em exploit de US$292 milhões da Kelp",
+        "excerpt": "A LayerZero mudou a explicação inicial sobre o exploit de US$292 milhões ligado à Kelp e assumiu a decisão de deixar seu próprio verificador proteger transferências de alto valor em uma configuração vulnerável.",
+        "body": "A LayerZero afirmou que “cometeu um erro” no exploit relacionado à Kelp, avaliado em US$292 milhões. A empresa inicialmente descreveu o incidente como uma falha de configuração de desenvolvedores, mas depois reconheceu que assume a decisão de permitir que seu próprio verificador protegesse transferências de alto valor em uma configuração vulnerável. O foco do caso passou, assim, de um erro individual de desenvolvimento para o julgamento sobre a estrutura de verificação usada em transferências valiosas. A mudança de posição da LayerZero destaca o alcance da responsabilidade de segurança e a importância da configuração dos verificadores. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "LayerZero räumt ‘Fehler’ bei Kelp-Exploit über 292 Mio. Dollar ein",
+        "excerpt": "LayerZero änderte seine erste Erklärung zum Kelp-Exploit über 292 Mio. Dollar und übernahm Verantwortung dafür, eigene Verifier in einer anfälligen Konfiguration hochwertige Transfers sichern zu lassen.",
+        "body": "LayerZero erklärte, beim Kelp-bezogenen Exploit im Umfang von 292 Mio. Dollar einen „Fehler“ gemacht zu haben. Das Unternehmen hatte den Vorfall zunächst als Konfigurationsfehler von Entwicklern dargestellt, räumte später jedoch ein, die Entscheidung zu verantworten, eigene Verifier in einer anfälligen Konfiguration hochwertige Transfers absichern zu lassen. Damit verschiebt sich der Fokus von einem einzelnen Entwicklerfehler auf die Bewertung der Verifizierungsstruktur für wertvolle Transfers. LayerZeros Kurswechsel betont den Umfang von Sicherheitsverantwortung und die Bedeutung der Verifier-Konfiguration. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "LayerZero admet une ‘erreur’ dans l’exploit Kelp de 292 M$",
+        "excerpt": "LayerZero a modifié son explication initiale de l’exploit Kelp de 292 M$ et reconnu sa responsabilité dans le choix de laisser son propre vérificateur sécuriser des transferts de grande valeur dans une configuration vulnérable.",
+        "body": "LayerZero a déclaré avoir “commis une erreur” dans l’exploit lié à Kelp, d’un montant de 292 millions de dollars. L’entreprise avait d’abord présenté l’incident comme un échec de configuration côté développeur, avant de reconnaître qu’elle assumait la décision de laisser son propre vérificateur sécuriser des transferts de grande valeur dans une configuration vulnérable. Le cœur du dossier passe donc d’une simple erreur individuelle à l’évaluation de la structure de vérification utilisée pour protéger des transferts importants. Ce changement de position souligne l’étendue de la responsabilité en matière de sécurité et l’importance de la configuration des vérificateurs. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "LayerZero تقر بخطأ في استغلال Kelp بقيمة 292 مليون دولار",
+        "excerpt": "غيّرت LayerZero تفسيرها الأولي لاستغلال Kelp البالغ 292 مليون دولار، وأقرت بمسؤوليتها عن قرار ترك مدققها الخاص يؤمن تحويلات عالية القيمة ضمن إعداد ضعيف.",
+        "body": "قالت LayerZero إنها “ارتكبت خطأ” في الاستغلال المرتبط بـKelp والبالغ 292 مليون دولار. وكانت الشركة قد وصفت الحادث في البداية بأنه فشل في إعدادات المطورين، لكنها أقرت لاحقا بأنها تتحمل مسؤولية قرار السماح لمدققها الخاص بتأمين تحويلات عالية القيمة ضمن إعداد معرض للثغرات. وبذلك انتقل محور القضية من خطأ فردي لمطور إلى الحكم على بنية التحقق المستخدمة لحماية التحويلات ذات القيمة الكبيرة. ويبرز تغير موقف LayerZero نطاق مسؤولية الأمن وأهمية تكوين المدققين. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "LayerZero ने $292 मिलियन Kelp exploit में ‘गलती’ मानी",
+        "excerpt": "LayerZero ने $292 मिलियन Kelp exploit पर शुरुआती डेवलपर कॉन्फिगरेशन विफलता वाली व्याख्या बदली और कमजोर सेटअप में अपने verifier से उच्च-मूल्य ट्रांसफर सुरक्षित कराने के फैसले की जिम्मेदारी ली।",
+        "body": "LayerZero ने Kelp से जुड़े $292 मिलियन के exploit पर कहा कि उससे “गलती हुई”। कंपनी ने शुरुआत में इस घटना को डेवलपर कॉन्फिगरेशन की विफलता बताया था, लेकिन बाद में स्वीकार किया कि कमजोर सेटअप में अपने ही verifier को उच्च-मूल्य ट्रांसफर सुरक्षित करने देने का फैसला उसकी जिम्मेदारी है। इसलिए मुद्दे का केंद्र केवल किसी एक डेवलपर की गलती से हटकर इस निर्णय पर आ गया है कि मूल्यवान ट्रांसफर की सुरक्षा किस verification संरचना से की गई। LayerZero का बदला रुख सुरक्षा जिम्मेदारी की सीमा और verifier configuration के महत्व को रेखांकित करता है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "LayerZero Akui ‘Kesalahan’ dalam Exploit Kelp US$292 Juta",
+        "excerpt": "LayerZero mengubah penjelasan awal soal exploit Kelp senilai US$292 juta dan mengakui tanggung jawab atas keputusan membiarkan verifier miliknya mengamankan transfer bernilai tinggi dalam konfigurasi rentan.",
+        "body": "LayerZero menyatakan telah “membuat kesalahan” dalam exploit terkait Kelp senilai US$292 juta. Perusahaan awalnya menggambarkan insiden ini sebagai kegagalan konfigurasi pengembang, tetapi kemudian mengakui bahwa keputusan untuk membiarkan verifier miliknya mengamankan transfer bernilai tinggi dalam konfigurasi yang rentan adalah tanggung jawabnya. Fokus masalah pun bergeser dari kesalahan satu pengembang menjadi penilaian atas struktur verifikasi yang digunakan untuk melindungi transfer bernilai besar. Perubahan sikap LayerZero menyoroti cakupan tanggung jawab keamanan dan pentingnya konfigurasi verifier. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "a5457a8e7702",
+    "slug": "blackrock-deepens-tokenization-push-with-new-onchain-fund-of-940471",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T14:17:01.236Z",
+    "updatedAt": "2026-05-09T14:17:01.236Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/09/blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/09/blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings",
+    "titleFingerprint": "79424f9296182fdd2813bf2e3b1d150a7e4c5eed",
+    "dedupKeys": [
+      "a5457a8e77026c666e3c97f197c98754832c29ee",
+      "79424f9296182fdd2813bf2e3b1d150a7e4c5eed",
+      "52635d4e066f402288460fd5e9118c89809de827"
+    ],
+    "imageUrl": "/images/articles/a5457a8e7702.png",
+    "i18n": {
+      "ko": {
+        "title": "블랙록, 온체인 펀드 확대 서류 제출…토큰화 전략 강화",
+        "excerpt": "세계 최대 자산운용사 블랙록이 토큰화 펀드 라인업 확대를 위한 서류를 제출하며, 전년 대비 200% 성장한 실물자산 토큰화 시장 공략을 강화했다.",
+        "body": "세계 최대 자산운용사 블랙록이 온체인 펀드 상품을 추가하기 위한 서류를 제출하며 토큰화 전략을 한층 강화했다. 이번 움직임은 블랙록이 기존 토큰화 펀드 라인업을 넓히려는 절차로, 실물자산(RWA) 토큰화 시장이 전년 대비 200% 성장한 가운데 나왔다. 토큰화 펀드는 전통 금융 자산을 블록체인 기반 구조로 제공하는 흐름과 맞물려 주목받고 있다. 블랙록의 확대 추진은 기관 투자자와 자산운용 업계가 온체인 금융 상품을 더 본격적으로 검토하는 계기가 될 수 있다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "BlackRock files to expand onchain funds as tokenization push deepens",
+        "excerpt": "BlackRock, the world’s largest asset manager, filed paperwork to expand its tokenized fund lineup as real-world asset tokenization grows 200% year over year.",
+        "body": "BlackRock, the world’s largest asset manager, has filed paperwork to add new onchain fund offerings, deepening its tokenization strategy. The move is part of its effort to expand an existing tokenized fund lineup and comes as real-world asset (RWA) tokenization has grown 200% year over year. Tokenized funds are gaining attention as traditional financial assets move into blockchain-based structures. BlackRock’s expansion push may further encourage institutional investors and asset managers to examine onchain financial products more closely. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "ブラックロック、オンチェーン基金拡大へ書類提出しトークン化強化",
+        "excerpt": "世界最大の資産運用会社ブラックロックは、実物資産トークン化が前年比200%成長する中、トークン化ファンド拡充に向けた書類を提出した。",
+        "body": "世界最大の資産運用会社ブラックロックは、新たなオンチェーン・ファンド商品を追加するための書類を提出し、トークン化戦略を一段と強化した。今回の動きは既存のトークン化ファンドのラインアップを広げる手続きであり、実物資産（RWA）のトークン化市場が前年比200%成長する中で行われた。トークン化ファンドは、伝統的な金融資産をブロックチェーン基盤の仕組みで提供する流れと重なり注目されている。ブラックロックの拡大方針は、機関投資家や資産運用業界がオンチェーン金融商品をより本格的に検討する契機となり得る。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "贝莱德提交文件扩大链上基金，继续强化代币化布局",
+        "excerpt": "全球最大资产管理公司贝莱德提交文件，计划扩大代币化基金阵容；与此同时，现实世界资产代币化同比增长200%。",
+        "body": "全球最大资产管理公司贝莱德已提交文件，准备增加新的链上基金产品，进一步强化其代币化战略。此举是贝莱德扩大现有代币化基金阵容的步骤之一，发生在现实世界资产（RWA）代币化市场同比增长200%之际。代币化基金因将传统金融资产纳入基于区块链的结构而受到关注。贝莱德推进扩容，可能促使机构投资者和资产管理行业更认真地评估链上金融产品。来源: coindesk.com"
+      },
+      "es": {
+        "title": "BlackRock amplía fondos onchain y refuerza su apuesta por tokenización",
+        "excerpt": "BlackRock, la mayor gestora de activos del mundo, presentó documentos para ampliar sus fondos tokenizados mientras los activos del mundo real crecen 200% interanual.",
+        "body": "BlackRock, la mayor gestora de activos del mundo, presentó documentación para sumar nuevas ofertas de fondos onchain y profundizar su estrategia de tokenización. El movimiento busca ampliar su línea existente de fondos tokenizados y llega en un momento en que la tokenización de activos del mundo real (RWA) crece 200% interanual. Estos fondos ganan atención al llevar activos financieros tradicionales a estructuras basadas en blockchain. La iniciativa de BlackRock puede impulsar a inversores institucionales y gestores de activos a examinar con más detalle los productos financieros onchain. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "BlackRock amplia fundos onchain e reforça avanço em tokenização",
+        "excerpt": "A BlackRock, maior gestora de ativos do mundo, apresentou documentos para expandir fundos tokenizados enquanto ativos do mundo real crescem 200% ao ano.",
+        "body": "A BlackRock, maior gestora de ativos do mundo, apresentou documentos para adicionar novas ofertas de fundos onchain e aprofundar sua estratégia de tokenização. A iniciativa faz parte do esforço para ampliar sua linha existente de fundos tokenizados e ocorre enquanto a tokenização de ativos do mundo real (RWA) cresce 200% em relação ao ano anterior. Fundos tokenizados ganham atenção por levar ativos financeiros tradicionais a estruturas baseadas em blockchain. O avanço da BlackRock pode levar investidores institucionais e gestoras a avaliar com mais seriedade produtos financeiros onchain. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "BlackRock baut Onchain-Fonds aus und stärkt Tokenisierungsstrategie",
+        "excerpt": "BlackRock, der größte Vermögensverwalter der Welt, reichte Unterlagen zur Erweiterung tokenisierter Fonds ein, während reale Vermögenswerte jährlich um 200% wachsen.",
+        "body": "BlackRock, der größte Vermögensverwalter der Welt, hat Unterlagen eingereicht, um neue Onchain-Fondsangebote hinzuzufügen und seine Tokenisierungsstrategie zu vertiefen. Der Schritt soll die bestehende Palette tokenisierter Fonds erweitern und erfolgt, während die Tokenisierung realer Vermögenswerte (RWA) im Jahresvergleich um 200% gewachsen ist. Tokenisierte Fonds gewinnen Aufmerksamkeit, weil sie traditionelle Finanzanlagen in blockchainbasierte Strukturen überführen. BlackRocks Ausbau könnte institutionelle Investoren und Vermögensverwalter dazu bewegen, Onchain-Finanzprodukte genauer zu prüfen. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "BlackRock élargit ses fonds onchain et renforce sa stratégie de tokenisation",
+        "excerpt": "BlackRock, plus grand gestionnaire d’actifs au monde, a déposé des documents pour élargir ses fonds tokenisés alors que les actifs réels progressent de 200% sur un an.",
+        "body": "BlackRock, le plus grand gestionnaire d’actifs au monde, a déposé des documents afin d’ajouter de nouvelles offres de fonds onchain et de renforcer sa stratégie de tokenisation. Cette démarche vise à élargir sa gamme actuelle de fonds tokenisés et intervient alors que la tokenisation des actifs du monde réel (RWA) a progressé de 200% sur un an. Les fonds tokenisés attirent l’attention car ils placent des actifs financiers traditionnels dans des structures fondées sur la blockchain. L’initiative de BlackRock pourrait pousser les investisseurs institutionnels et les gestionnaires d’actifs à examiner plus sérieusement les produits financiers onchain. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "بلاك روك توسع صناديقها على السلسلة وتعزز استراتيجية الترميز",
+        "excerpt": "قدمت بلاك روك، أكبر مدير أصول في العالم، أوراقا لتوسيع صناديقها المرمزة مع نمو ترميز الأصول الحقيقية بنسبة 200% على أساس سنوي.",
+        "body": "قدمت بلاك روك، أكبر مدير أصول في العالم، أوراقا لإضافة عروض جديدة لصناديق على السلسلة، في خطوة تعمق استراتيجيتها في الترميز. تأتي هذه الخطوة ضمن مسعى الشركة لتوسيع مجموعتها الحالية من الصناديق المرمزة، بينما نما سوق ترميز الأصول الحقيقية (RWA) بنسبة 200% على أساس سنوي. وتحظى الصناديق المرمزة باهتمام لأنها تنقل الأصول المالية التقليدية إلى هياكل قائمة على البلوكشين. وقد يدفع توسع بلاك روك المستثمرين المؤسسيين ومديري الأصول إلى دراسة المنتجات المالية على السلسلة بجدية أكبر. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "ब्लैकरॉक ने ऑनचेन फंड बढ़ाने को दस्तावेज दाखिल कर टोकनाइजेशन तेज किया",
+        "excerpt": "दुनिया की सबसे बड़ी एसेट मैनेजर ब्लैकरॉक ने टोकनाइज्ड फंड लाइनअप बढ़ाने के लिए दस्तावेज दाखिल किए, जबकि RWA टोकनाइजेशन सालाना 200% बढ़ा।",
+        "body": "दुनिया की सबसे बड़ी एसेट मैनेजर ब्लैकरॉक ने नए ऑनचेन फंड उत्पाद जोड़ने के लिए दस्तावेज दाखिल किए हैं, जिससे उसकी टोकनाइजेशन रणनीति और गहरी हुई है। यह कदम मौजूदा टोकनाइज्ड फंड लाइनअप को बढ़ाने की प्रक्रिया का हिस्सा है और ऐसे समय आया है जब रियल-वर्ल्ड एसेट (RWA) टोकनाइजेशन बाजार सालाना आधार पर 200% बढ़ा है। टोकनाइज्ड फंड पारंपरिक वित्तीय परिसंपत्तियों को ब्लॉकचेन आधारित ढांचे में लाने की वजह से ध्यान खींच रहे हैं। ब्लैकरॉक का यह विस्तार संस्थागत निवेशकों और एसेट मैनेजरों को ऑनचेन वित्तीय उत्पादों पर अधिक गंभीरता से विचार करने के लिए प्रेरित कर सकता है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "BlackRock perluas dana onchain dan perkuat dorongan tokenisasi",
+        "excerpt": "BlackRock, manajer aset terbesar di dunia, mengajukan dokumen untuk memperluas jajaran dana tokenisasi saat aset dunia nyata tumbuh 200% secara tahunan.",
+        "body": "BlackRock, manajer aset terbesar di dunia, mengajukan dokumen untuk menambah penawaran dana onchain baru dan memperdalam strategi tokenisasinya. Langkah ini menjadi bagian dari upaya memperluas jajaran dana tokenisasi yang sudah ada, ketika tokenisasi aset dunia nyata (RWA) tumbuh 200% secara tahunan. Dana tokenisasi mendapat perhatian karena membawa aset keuangan tradisional ke struktur berbasis blockchain. Dorongan ekspansi BlackRock dapat membuat investor institusional dan industri manajemen aset menilai produk keuangan onchain dengan lebih serius. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "65c2e3a20f10",
+    "slug": "crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet--428756",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T14:16:08.969Z",
+    "updatedAt": "2026-05-09T14:16:08.969Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami",
+    "titleFingerprint": "664c199e3a552ffb86400c129a5b6a743c67528f",
+    "dedupKeys": [
+      "65c2e3a20f1061d8cec4d4b185f0584a89536638",
+      "664c199e3a552ffb86400c129a5b6a743c67528f",
+      "3bd36c5fcb975768fc1274359c670380a6a716e9"
+    ],
+    "imageUrl": "/images/articles/65c2e3a20f10.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 에이전트 시대, 크립토 지갑 재설계 필요성 부상",
+        "excerpt": "컨센서스 마이애미에서 Trust Wallet CEO 펠릭스 팬과 Mesh CTO 아르준 무케르지가 AI 에이전트 확산으로 크립토 지갑의 역할이 새롭게 바뀌고 있다고 밝혔다.",
+        "body": "컨센서스 마이애미에서 Trust Wallet CEO 펠릭스 팬과 Mesh CTO 아르준 무케르지는 AI 에이전트가 크립토 지갑의 새로운 역할을 만들고 있다고 말했다. 이들은 기존 지갑이 이용자 중심의 보관·서명 도구였다면, AI 에이전트가 거래와 온체인 활동을 수행하는 환경에서는 지갑 구조도 다시 설계될 필요가 있다고 설명했다. 배경에는 AI 에이전트가 디지털 자산과 블록체인 서비스에 접근하는 방식이 달라지고 있다는 흐름이 있다. 향후 지갑은 사람뿐 아니라 에이전트가 안전하게 권한을 관리하고 실행할 수 있는 접점으로 중요해질 수 있다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "AI Agents Push Crypto Wallets Toward a New Design Role",
+        "excerpt": "At Consensus Miami, Trust Wallet CEO Felix Fan and Mesh CTO Arjun Mukherjee said AI agents are reshaping why crypto wallets matter and how they may need to work.",
+        "body": "At Consensus Miami, Trust Wallet CEO Felix Fan and Mesh CTO Arjun Mukherjee said AI agents are creating a new role for crypto wallets. They explained that while traditional wallets have focused on user custody and signing, wallets may need to be redesigned for an environment where AI agents conduct transactions and on-chain activity. The context is a shift in how AI agents access digital assets and blockchain services. Looking ahead, wallets could become key interfaces for both people and agents to manage permissions and execute actions safely. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "AIエージェント時代、暗号資産ウォレット再設計が焦点に",
+        "excerpt": "コンセンサス・マイアミでTrust Walletのフェリックス・ファンCEOとMeshのアルジュン・ムケルジーCTOは、AIエージェントが暗号資産ウォレットの役割を変えていると述べた。",
+        "body": "コンセンサス・マイアミで、Trust Walletのフェリックス・ファンCEOとMeshのアルジュン・ムケルジーCTOは、AIエージェントが暗号資産ウォレットに新たな役割を生み出していると述べた。従来のウォレットが利用者の資産保管や署名を中心としてきた一方、AIエージェントが取引やオンチェーン活動を行う環境では、ウォレットの構造も再設計される必要があるという。背景には、AIエージェントがデジタル資産やブロックチェーンサービスへアクセスする方法の変化がある。今後ウォレットは、人とエージェントが権限を安全に管理し実行する接点として重要性を増す可能性がある。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "AI代理推动加密钱包重构，新角色正在形成",
+        "excerpt": "在Consensus Miami上，Trust Wallet首席执行官Felix Fan和Mesh首席技术官Arjun Mukherjee表示，AI代理正在改变加密钱包的重要性与使用方式。",
+        "body": "在Consensus Miami上，Trust Wallet首席执行官Felix Fan和Mesh首席技术官Arjun Mukherjee表示，AI代理正在为加密钱包创造新的角色。他们指出，传统钱包主要围绕用户托管和签名展开，但在AI代理执行交易和链上活动的环境中，钱包结构可能需要重新设计。其背景是AI代理访问数字资产和区块链服务的方式正在发生变化。展望未来，钱包可能成为人与代理安全管理权限并执行操作的重要入口。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Agentes de IA impulsan un nuevo diseño para wallets cripto",
+        "excerpt": "En Consensus Miami, Felix Fan, CEO de Trust Wallet, y Arjun Mukherjee, CTO de Mesh, dijeron que los agentes de IA están redefiniendo el papel de las wallets cripto.",
+        "body": "En Consensus Miami, Felix Fan, CEO de Trust Wallet, y Arjun Mukherjee, CTO de Mesh, dijeron que los agentes de IA están creando un nuevo papel para las wallets cripto. Explicaron que, si las wallets tradicionales se han centrado en la custodia y la firma por parte del usuario, en un entorno donde los agentes de IA realizan transacciones y actividad on-chain la estructura de la wallet puede necesitar un rediseño. El contexto es el cambio en la forma en que los agentes de IA acceden a activos digitales y servicios blockchain. A futuro, las wallets podrían volverse interfaces clave para que personas y agentes gestionen permisos y ejecuten acciones con seguridad. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Agentes de IA levam carteiras cripto a um novo redesenho",
+        "excerpt": "No Consensus Miami, Felix Fan, CEO da Trust Wallet, e Arjun Mukherjee, CTO da Mesh, disseram que agentes de IA estão mudando o papel das carteiras cripto.",
+        "body": "No Consensus Miami, Felix Fan, CEO da Trust Wallet, e Arjun Mukherjee, CTO da Mesh, disseram que agentes de IA estão criando um novo papel para as carteiras cripto. Eles explicaram que, enquanto as carteiras tradicionais se concentravam na custódia e na assinatura pelo usuário, em um ambiente no qual agentes de IA realizam transações e atividades on-chain a estrutura das carteiras pode precisar ser redesenhada. O contexto é a mudança na forma como agentes de IA acessam ativos digitais e serviços de blockchain. No futuro, as carteiras podem se tornar interfaces importantes para pessoas e agentes gerenciarem permissões e executarem ações com segurança. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "KI-Agenten rücken neues Design für Krypto-Wallets in den Fokus",
+        "excerpt": "Auf der Consensus Miami sagten Trust-Wallet-CEO Felix Fan und Mesh-CTO Arjun Mukherjee, dass KI-Agenten die Rolle von Krypto-Wallets neu prägen.",
+        "body": "Auf der Consensus Miami sagten Trust-Wallet-CEO Felix Fan und Mesh-CTO Arjun Mukherjee, dass KI-Agenten eine neue Rolle für Krypto-Wallets schaffen. Sie erklärten, dass klassische Wallets vor allem auf Verwahrung und Signaturen durch Nutzer ausgerichtet waren. In einer Umgebung, in der KI-Agenten Transaktionen und On-Chain-Aktivitäten ausführen, müsse die Wallet-Struktur jedoch möglicherweise neu gestaltet werden. Der Hintergrund ist ein Wandel darin, wie KI-Agenten auf digitale Vermögenswerte und Blockchain-Dienste zugreifen. Künftig könnten Wallets zu wichtigen Schnittstellen werden, über die Menschen und Agenten Berechtigungen sicher verwalten und Aktionen ausführen. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Les agents IA poussent les wallets crypto vers un nouveau rôle",
+        "excerpt": "À Consensus Miami, Felix Fan, CEO de Trust Wallet, et Arjun Mukherjee, CTO de Mesh, ont déclaré que les agents IA redéfinissent le rôle des wallets crypto.",
+        "body": "À Consensus Miami, Felix Fan, CEO de Trust Wallet, et Arjun Mukherjee, CTO de Mesh, ont déclaré que les agents IA créent un nouveau rôle pour les wallets crypto. Ils ont expliqué que les wallets traditionnels se concentraient sur la conservation et la signature par l’utilisateur, mais que leur structure pourrait devoir être repensée dans un environnement où les agents IA réalisent des transactions et des activités on-chain. Le contexte est l’évolution de la manière dont les agents IA accèdent aux actifs numériques et aux services blockchain. À l’avenir, les wallets pourraient devenir des interfaces clés permettant aux personnes et aux agents de gérer les autorisations et d’exécuter des actions en sécurité. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "وكلاء الذكاء الاصطناعي يدفعون لإعادة تصميم محافظ الكريبتو",
+        "excerpt": "في Consensus Miami، قال فيليكس فان، الرئيس التنفيذي لـTrust Wallet، وأرجون موخيرجي، المدير التقني في Mesh، إن وكلاء الذكاء الاصطناعي يغيرون دور محافظ الكريبتو.",
+        "body": "في Consensus Miami، قال فيليكس فان، الرئيس التنفيذي لـTrust Wallet، وأرجون موخيرجي، المدير التقني في Mesh، إن وكلاء الذكاء الاصطناعي يخلقون دورا جديدا لمحافظ الكريبتو. وأوضحا أن المحافظ التقليدية ركزت على حفظ أصول المستخدم والتوقيع، لكن في بيئة ينفذ فيها وكلاء الذكاء الاصطناعي معاملات وأنشطة على السلسلة قد تحتاج بنية المحافظ إلى إعادة تصميم. وتأتي الخلفية من تغير طريقة وصول وكلاء الذكاء الاصطناعي إلى الأصول الرقمية وخدمات البلوكشين. مستقبلا، قد تصبح المحافظ واجهة مهمة تتيح للبشر والوكلاء إدارة الصلاحيات وتنفيذ الإجراءات بأمان. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "AI एजेंटों से क्रिप्टो वॉलेट के नए डिजाइन की जरूरत उभरी",
+        "excerpt": "Consensus Miami में Trust Wallet के CEO Felix Fan और Mesh के CTO Arjun Mukherjee ने कहा कि AI एजेंट क्रिप्टो वॉलेट की भूमिका और उपयोग को नया रूप दे रहे हैं।",
+        "body": "Consensus Miami में Trust Wallet के CEO Felix Fan और Mesh के CTO Arjun Mukherjee ने कहा कि AI एजेंट क्रिप्टो वॉलेट के लिए नई भूमिका बना रहे हैं। उन्होंने बताया कि पारंपरिक वॉलेट अब तक उपयोगकर्ता की कस्टडी और साइनिंग पर केंद्रित रहे हैं, लेकिन ऐसे माहौल में जहां AI एजेंट लेनदेन और ऑन-चेन गतिविधि करते हैं, वॉलेट की संरचना को फिर से डिजाइन करने की जरूरत पड़ सकती है। पृष्ठभूमि में यह बदलाव है कि AI एजेंट डिजिटल एसेट और ब्लॉकचेन सेवाओं तक कैसे पहुंचते हैं। आगे चलकर वॉलेट लोगों और एजेंटों दोनों के लिए अनुमति प्रबंधन और सुरक्षित निष्पादन का अहम इंटरफेस बन सकते हैं। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Agen AI Dorong Desain Baru untuk Dompet Kripto",
+        "excerpt": "Di Consensus Miami, CEO Trust Wallet Felix Fan dan CTO Mesh Arjun Mukherjee mengatakan agen AI sedang membentuk ulang peran dompet kripto dan cara kerjanya.",
+        "body": "Di Consensus Miami, CEO Trust Wallet Felix Fan dan CTO Mesh Arjun Mukherjee mengatakan agen AI menciptakan peran baru bagi dompet kripto. Mereka menjelaskan bahwa dompet tradisional berfokus pada kustodi dan penandatanganan oleh pengguna, tetapi dalam lingkungan ketika agen AI menjalankan transaksi dan aktivitas on-chain, struktur dompet mungkin perlu dirancang ulang. Latar belakangnya adalah perubahan cara agen AI mengakses aset digital dan layanan blockchain. Ke depan, dompet dapat menjadi antarmuka penting bagi manusia dan agen untuk mengelola izin serta menjalankan tindakan secara aman. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
     "id": "b10cda572613",
     "slug": "global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endors-365672",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Bitcoin Pulih ke US$89.900 Usai Sinyal Trump Mundur dari Tarif UE",
         "excerpt": "Setelah Trump memberi sinyal mundur dari rencana tarif UE, Bitcoin dan altcoin utama menguat; BitGo mengumumkan IPO US$18 per saham dengan valuasi sekitar US$2 miliar.",
         "body": "Pasar kripto rebound setelah Presiden Trump memberi sinyal kemungkinan mundur dari langkah tarif yang diusulkan terhadap Uni Eropa, membuat aset utama bergerak naik. Bitcoin menguat 2% ke US$89.900, Ethereum naik 2% ke US$2.995, Solana naik 2% ke US$130, dan XRP naik 3% ke US$1,94. Rebound tajam Bitcoin terjadi saat likuidasi di pasar kripto melampaui US$1 miliar. Di antara penggerak teratas, CC naik 15%, SKY naik 11%, dan SAND naik 10%. Vitalik Buterin mengusulkan native DVT staking untuk memperkuat keamanan dan desentralisasi Ethereum. BitGo juga mengumumkan IPO di harga US$18 per saham, dengan valuasi sekitar US$2 miliar. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "83e70aa692c1",
-    "slug": "from-stellar-to-canton-how-franklin-templeton-adopted-tokeni-896788",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T00:33:52.601Z",
-    "updatedAt": "2026-05-09T00:33:52.601Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
-    "canonicalUrl": "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
-    "titleFingerprint": "60dc91203e93444fa2399823883572baf391139a",
-    "dedupKeys": [
-      "83e70aa692c189eaf30156d017b0d2567423a4e7",
-      "60dc91203e93444fa2399823883572baf391139a",
-      "02bbe87ec661de87a4216e98296f219a20aa626d"
-    ],
-    "imageUrl": "/images/articles/83e70aa692c1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "프랭클린 템플턴 토큰화 전략, 스텔라에서 캔턴까지 간 배경",
-        "excerpt": "프랭클린 템플턴 디지털자산 책임자 로저 베이스턴은 decrypt.co 인터뷰에서 대형 자산운용사가 토큰화를 받아들인 과정을 설명했다.",
-        "body": "decrypt.co에 따르면 프랭클린 템플턴의 디지털자산 책임자 로저 베이스턴은 인터뷰에서 세계 최대 자산운용사 중 하나인 프랭클린 템플턴이 토큰화를 어떻게 받아들였는지 설명했다. 핵심은 스텔라에서 캔턴으로 이어지는 토큰화 채택 과정이다. 이번 발언은 전통 금융사가 디지털자산 인프라를 실험하고 활용하는 흐름 속에서 나왔다. 베이스턴은 프랭클린 템플턴이 토큰화를 단순한 기술 유행이 아니라 자산운용 방식과 연결된 변화로 보고 접근해 왔다는 점을 짚었다. 출처: decrypt.co."
-      },
-      "en": {
-        "title": "Franklin Templeton Tokenization: From Stellar to Canton Explained",
-        "excerpt": "Roger Bayston, Franklin Templeton’s head of digital assets, told decrypt.co how the major asset manager embraced tokenization and why it matters.",
-        "body": "According to decrypt.co, Roger Bayston, head of digital assets at Franklin Templeton, explained in an interview how one of the world’s largest asset managers adopted tokenization. The focus is the path from Stellar to Canton in the firm’s tokenization journey. His comments come as traditional financial firms continue to test and use digital asset infrastructure. Bayston described Franklin Templeton’s approach as more than following a technology trend, framing tokenization as a change connected to asset management itself. Source: decrypt.co."
-      },
-      "ja": {
-        "title": "フランクリン・テンプルトンのトークン化、ステラからカントンへ",
-        "excerpt": "フランクリン・テンプルトンのデジタル資産責任者ロジャー・ベイストン氏が、decrypt.coの取材でトークン化採用の経緯を語った。",
-        "body": "decrypt.coによると、フランクリン・テンプルトンのデジタル資産責任者ロジャー・ベイストン氏はインタビューで、世界最大級の資産運用会社の一つである同社がどのようにトークン化を受け入れたかを説明した。焦点は、ステラからカントンへと続くトークン化採用の流れだ。発言は、伝統的金融機関がデジタル資産インフラを試し、活用する動きの中で示された。ベイストン氏は、同社がトークン化を単なる技術流行ではなく、資産運用のあり方に結び付く変化として捉えてきたと述べた。出典: decrypt.co."
-      },
-      "zh": {
-        "title": "富兰克林邓普顿代币化路径：从 Stellar 到 Canton",
-        "excerpt": "富兰克林邓普顿数字资产负责人 Roger Bayston 在 decrypt.co 访谈中说明，这家大型资管公司如何接受代币化。",
-        "body": "据 decrypt.co 报道，富兰克林邓普顿数字资产负责人 Roger Bayston 在访谈中解释了这家全球最大资产管理公司之一如何采用代币化。重点在于其从 Stellar 到 Canton 的代币化路径。相关表态出现在传统金融机构持续测试和使用数字资产基础设施的背景下。Bayston 表示，富兰克林邓普顿并未把代币化仅视为技术潮流，而是将其作为与资产管理方式相关的变化来推进。来源: decrypt.co."
-      },
-      "es": {
-        "title": "Tokenización de Franklin Templeton: de Stellar a Canton",
-        "excerpt": "Roger Bayston, jefe de activos digitales de Franklin Templeton, explicó a decrypt.co cómo una gran gestora adoptó la tokenización.",
-        "body": "Según decrypt.co, Roger Bayston, jefe de activos digitales de Franklin Templeton, explicó en una entrevista cómo una de las mayores gestoras de activos del mundo adoptó la tokenización. El foco está en el recorrido desde Stellar hasta Canton dentro de esa estrategia. Sus comentarios llegan en un contexto en el que las firmas financieras tradicionales prueban y utilizan infraestructura de activos digitales. Bayston presentó la tokenización no como una simple moda tecnológica, sino como un cambio vinculado a la forma de gestionar activos. Fuente: decrypt.co."
-      },
-      "pt": {
-        "title": "Tokenização da Franklin Templeton: de Stellar a Canton",
-        "excerpt": "Roger Bayston, chefe de ativos digitais da Franklin Templeton, explicou à decrypt.co como a grande gestora adotou a tokenização.",
-        "body": "Segundo a decrypt.co, Roger Bayston, chefe de ativos digitais da Franklin Templeton, explicou em entrevista como uma das maiores gestoras de ativos do mundo adotou a tokenização. O foco está no caminho que vai de Stellar a Canton dentro dessa trajetória. A fala ocorre enquanto instituições financeiras tradicionais seguem testando e usando infraestrutura de ativos digitais. Bayston descreveu a tokenização não como uma simples tendência tecnológica, mas como uma mudança ligada à própria forma de gestão de ativos. Fonte: decrypt.co."
-      },
-      "de": {
-        "title": "Franklin Templetons Tokenisierung: Von Stellar bis Canton",
-        "excerpt": "Roger Bayston, Leiter Digital Assets bei Franklin Templeton, erklärte decrypt.co, wie der große Vermögensverwalter Tokenisierung annahm.",
-        "body": "Laut decrypt.co erklärte Roger Bayston, Leiter Digital Assets bei Franklin Templeton, in einem Interview, wie einer der weltweit größten Vermögensverwalter Tokenisierung übernommen hat. Im Mittelpunkt steht der Weg von Stellar zu Canton in dieser Entwicklung. Die Aussagen fallen in eine Phase, in der traditionelle Finanzunternehmen Infrastruktur für digitale Vermögenswerte testen und nutzen. Bayston stellte Tokenisierung nicht als bloßen Technologietrend dar, sondern als Veränderung, die mit der Art der Vermögensverwaltung verbunden ist. Quelle: decrypt.co."
-      },
-      "fr": {
-        "title": "Tokenisation chez Franklin Templeton : de Stellar à Canton",
-        "excerpt": "Roger Bayston, responsable des actifs numériques chez Franklin Templeton, a expliqué à decrypt.co comment le grand gestionnaire a adopté la tokenisation.",
-        "body": "Selon decrypt.co, Roger Bayston, responsable des actifs numériques chez Franklin Templeton, a expliqué dans une interview comment l’un des plus grands gestionnaires d’actifs au monde a adopté la tokenisation. Le point central est le passage de Stellar à Canton dans ce parcours. Ces propos s’inscrivent dans un contexte où les acteurs financiers traditionnels testent et utilisent des infrastructures d’actifs numériques. Bayston a présenté la tokenisation non comme une simple tendance technologique, mais comme une évolution liée à la gestion d’actifs elle-même. Source: decrypt.co."
-      },
-      "ar": {
-        "title": "ترميز فرانكلين تمبلتون: من ستيلر إلى كانتون",
-        "excerpt": "شرح روجر بايستون، رئيس الأصول الرقمية في فرانكلين تمبلتون، لموقع decrypt.co كيف تبنت شركة إدارة الأصول الكبرى الترميز.",
-        "body": "بحسب decrypt.co، أوضح روجر بايستون، رئيس الأصول الرقمية في فرانكلين تمبلتون، في مقابلة كيف تبنت واحدة من أكبر شركات إدارة الأصول في العالم الترميز. يتمحور الحديث حول المسار الممتد من ستيلر إلى كانتون ضمن رحلة الشركة في هذا المجال. تأتي هذه التصريحات بينما تواصل مؤسسات مالية تقليدية اختبار واستخدام بنية الأصول الرقمية. وقد عرض بايستون الترميز ليس كموضة تقنية عابرة، بل كتغير مرتبط بطريقة إدارة الأصول نفسها. المصدر: decrypt.co."
-      },
-      "hi": {
-        "title": "फ्रैंकलिन टेम्पलटन की टोकनाइजेशन राह: Stellar से Canton तक",
-        "excerpt": "फ्रैंकलिन टेम्पलटन के डिजिटल एसेट्स प्रमुख Roger Bayston ने decrypt.co को बताया कि बड़ी एसेट मैनेजर ने टोकनाइजेशन कैसे अपनाया।",
-        "body": "decrypt.co के अनुसार, फ्रैंकलिन टेम्पलटन के डिजिटल एसेट्स प्रमुख Roger Bayston ने एक इंटरव्यू में बताया कि दुनिया की सबसे बड़ी एसेट मैनेजमेंट कंपनियों में से एक ने टोकनाइजेशन को कैसे अपनाया। इसका मुख्य फोकस Stellar से Canton तक की यात्रा है। यह बयान ऐसे समय आया है जब पारंपरिक वित्तीय संस्थान डिजिटल एसेट इंफ्रास्ट्रक्चर को परख रहे हैं और इस्तेमाल कर रहे हैं। Bayston ने टोकनाइजेशन को केवल तकनीकी रुझान नहीं, बल्कि एसेट मैनेजमेंट के तरीके से जुड़ा बदलाव बताया। स्रोत: decrypt.co."
-      },
-      "id": {
-        "title": "Tokenisasi Franklin Templeton: Dari Stellar hingga Canton",
-        "excerpt": "Roger Bayston, kepala aset digital Franklin Templeton, menjelaskan kepada decrypt.co bagaimana manajer aset besar itu mengadopsi tokenisasi.",
-        "body": "Menurut decrypt.co, Roger Bayston, kepala aset digital Franklin Templeton, menjelaskan dalam wawancara bagaimana salah satu manajer aset terbesar di dunia mengadopsi tokenisasi. Fokusnya adalah perjalanan dari Stellar menuju Canton dalam strategi tokenisasi perusahaan. Pernyataan ini muncul saat lembaga keuangan tradisional terus menguji dan memakai infrastruktur aset digital. Bayston menggambarkan tokenisasi bukan sekadar tren teknologi, melainkan perubahan yang terkait dengan cara pengelolaan aset. Sumber: decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "6c6d6f9bb342",
-    "slug": "trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-118395",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T00:33:06.221Z",
-    "updatedAt": "2026-05-09T00:33:06.221Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
-    "canonicalUrl": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
-    "titleFingerprint": "c9ab1f07da9904e892ce46512b090bd22d44460f",
-    "dedupKeys": [
-      "6c6d6f9bb342fd5051c3b05270b9ead7dd3c3353",
-      "c9ab1f07da9904e892ce46512b090bd22d44460f",
-      "d3be9b850794039defd2f63a6b8f290d3d37e6f8"
-    ],
-    "imageUrl": "/images/articles/6c6d6f9bb342.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프 JPMorgan 50억달러 소송, Ledger 40억달러 IPO 추진",
-        "excerpt": "크립토 주요 종목이 약세를 보인 가운데 Ledger는 40억달러 IPO를 준비하고, 트럼프 대통령은 JPMorgan을 상대로 50억달러 소송을 제기했다.",
-        "body": "크립토데일리 시장에서 주요 암호화폐는 하락세를 보였고, 금은 5,000달러에 근접했으며 은은 100달러에 다가섰다. BTC는 1% 내린 89,100달러, ETH는 2% 하락한 2,925달러, SOL은 2% 내린 127달러, XRP는 2% 하락한 1.90달러를 기록했다. 주요 상승 종목은 ZRO 15%, AXS 10%, DASH 8%였다. 하드웨어 지갑 업체 Ledger는 40억달러 규모 IPO를 준비하며 Goldman Sachs, Jefferies, Barclays의 지원을 받는 것으로 전해졌다. Ripple CEO 브래드 갈링하우스는 규제 모멘텀과 기관 참여를 근거로 2026년 암호화폐가 새 고점에 이를 수 있다고 전망했다. 트럼프 대통령은 정치적 동기의 ‘디뱅킹’을 주장하며 JPMorgan을 상대로 50억달러 소송을 제기했다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Trump Sues JPMorgan for $5B as Ledger Plans $4B IPO",
-        "excerpt": "Major crypto assets traded lower as Ledger prepared a $4 billion IPO and President Trump filed a $5 billion lawsuit against JPMorgan over alleged debanking.",
-        "body": "In the Crypto Daily market update, major cryptocurrencies traded in the red while gold neared $5,000 and silver moved closer to $100. BTC fell 1% to $89,100, ETH dropped 2% to $2,925, SOL slipped 2% to $127, and XRP declined 2% to $1.90. Top movers included ZRO, up 15%, AXS, up 10%, and DASH, up 8%. Hardware wallet maker Ledger is reportedly preparing for a $4 billion IPO, with Goldman Sachs, Jefferies, and Barclays enlisted for support. Ripple CEO Brad Garlinghouse said crypto could reach new highs in 2026, citing regulatory momentum and institutional participation. President Trump filed a $5 billion lawsuit against JPMorgan, alleging politically motivated debanking. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "トランプ氏がJPMorganを50億ドル提訴、Ledgerは40億ドルIPO準備",
-        "excerpt": "主要暗号資産が下落する中、Ledgerは40億ドル規模のIPOを準備し、トランプ大統領はJPMorganを相手に50億ドルの訴訟を起こした。",
-        "body": "Crypto Dailyの市場動向では、主要暗号資産が下落する一方、金は5,000ドルに近づき、銀は100ドルに迫った。BTCは1%安の89,100ドル、ETHは2%安の2,925ドル、SOLは2%安の127ドル、XRPは2%安の1.90ドルとなった。上昇銘柄ではZROが15%、AXSが10%、DASHが8%上昇した。ハードウェアウォレット企業Ledgerは40億ドル規模のIPOを準備しており、Goldman Sachs、Jefferies、Barclaysの支援を得ると伝えられた。Ripple CEOのブラッド・ガーリングハウス氏は、規制面の進展と機関投資家の参加を理由に、暗号資産が2026年に新高値を付ける可能性があると述べた。トランプ大統領は政治的動機による「デバンキング」を主張し、JPMorganを50億ドルで提訴した。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "特朗普起诉JPMorgan索赔50亿美元，Ledger筹备40亿美元IPO",
-        "excerpt": "主要加密资产走低之际，Ledger正筹备40亿美元IPO，特朗普总统则因所谓政治性“去银行化”起诉JPMorgan索赔50亿美元。",
-        "body": "在Crypto Daily市场动态中，主要加密货币普遍下跌，而黄金接近5,000美元，白银逼近100美元。BTC下跌1%至89,100美元，ETH下跌2%至2,925美元，SOL下跌2%至127美元，XRP下跌2%至1.90美元。主要上涨币种包括ZRO上涨15%、AXS上涨10%、DASH上涨8%。硬件钱包公司Ledger据称正筹备40亿美元规模IPO，并聘请Goldman Sachs、Jefferies和Barclays提供支持。Ripple CEO Brad Garlinghouse表示，受监管动能和机构参与推动，加密货币可能在2026年创下新高。特朗普总统则以政治动机的“去银行化”为由，对JPMorgan提起50亿美元诉讼。来源: decrypt.co"
-      },
-      "es": {
-        "title": "Trump demanda a JPMorgan por $5.000M y Ledger prepara IPO de $4.000M",
-        "excerpt": "Los principales criptoactivos cayeron mientras Ledger preparaba una IPO de $4.000 millones y Trump demandó a JPMorgan por $5.000 millones por supuesto debanking.",
-        "body": "En la actualización de mercado de Crypto Daily, las principales criptomonedas cotizaron en rojo mientras el oro se acercó a $5.000 y la plata avanzó hacia $100. BTC cayó 1% a $89.100, ETH bajó 2% a $2.925, SOL perdió 2% hasta $127 y XRP retrocedió 2% a $1,90. Entre los mayores movimientos destacaron ZRO con +15%, AXS con +10% y DASH con +8%. El fabricante de billeteras de hardware Ledger prepara una IPO valorada en $4.000 millones, con apoyo de Goldman Sachs, Jefferies y Barclays. El CEO de Ripple, Brad Garlinghouse, dijo que las criptomonedas podrían alcanzar nuevos máximos en 2026 por el impulso regulatorio y la participación institucional. El presidente Trump demandó a JPMorgan por $5.000 millones, alegando “debanking” con motivación política. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Trump processa JPMorgan por US$ 5 bi e Ledger prepara IPO de US$ 4 bi",
-        "excerpt": "As principais criptomoedas caíram enquanto a Ledger preparava um IPO de US$ 4 bilhões e Trump processava o JPMorgan em US$ 5 bilhões por suposto debanking.",
-        "body": "Na atualização de mercado do Crypto Daily, as principais criptomoedas operaram em queda, enquanto o ouro se aproximou de US$ 5.000 e a prata ficou perto de US$ 100. O BTC caiu 1% para US$ 89.100, o ETH recuou 2% para US$ 2.925, o SOL perdeu 2% para US$ 127 e o XRP caiu 2% para US$ 1,90. Entre os maiores avanços, ZRO subiu 15%, AXS 10% e DASH 8%. A fabricante de carteiras de hardware Ledger prepara um IPO de US$ 4 bilhões, com apoio de Goldman Sachs, Jefferies e Barclays. O CEO da Ripple, Brad Garlinghouse, afirmou que as criptomoedas podem atingir novas máximas em 2026, citando impulso regulatório e participação institucional. O presidente Trump processou o JPMorgan em US$ 5 bilhões, alegando “debanking” por motivação política. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Trump verklagt JPMorgan auf 5 Mrd. Dollar, Ledger plant 4-Mrd.-IPO",
-        "excerpt": "Während große Kryptowährungen nachgaben, bereitete Ledger einen Börsengang über 4 Mrd. Dollar vor und Trump verklagte JPMorgan wegen angeblichem Debanking auf 5 Mrd. Dollar.",
-        "body": "Im Crypto-Daily-Marktbericht notierten die wichtigsten Kryptowährungen im Minus, während Gold sich 5.000 Dollar näherte und Silber auf 100 Dollar zusteuerte. BTC fiel um 1% auf 89.100 Dollar, ETH verlor 2% auf 2.925 Dollar, SOL sank 2% auf 127 Dollar und XRP gab 2% auf 1,90 Dollar nach. Zu den stärksten Gewinnern zählten ZRO mit +15%, AXS mit +10% und DASH mit +8%. Der Hardware-Wallet-Anbieter Ledger bereitet Berichten zufolge einen Börsengang im Umfang von 4 Mrd. Dollar vor und holt sich Unterstützung von Goldman Sachs, Jefferies und Barclays. Ripple-CEO Brad Garlinghouse sagte, Kryptowährungen könnten 2026 neue Höchststände erreichen, gestützt durch regulatorische Dynamik und institutionelle Beteiligung. Präsident Trump verklagte JPMorgan auf 5 Mrd. Dollar und wirft politisch motiviertes „Debanking“ vor. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Trump attaque JPMorgan pour 5 Md$, Ledger prépare une IPO à 4 Md$",
-        "excerpt": "Les principales cryptomonnaies ont reculé tandis que Ledger préparait une IPO à 4 milliards de dollars et que Trump poursuivait JPMorgan pour 5 milliards de dollars.",
-        "body": "Dans le point de marché de Crypto Daily, les principales cryptomonnaies ont évolué dans le rouge, tandis que l’or approchait 5.000 dollars et que l’argent se rapprochait de 100 dollars. Le BTC a cédé 1% à 89.100 dollars, l’ETH a perdu 2% à 2.925 dollars, le SOL a reculé de 2% à 127 dollars et le XRP a baissé de 2% à 1,90 dollar. Les plus fortes progressions ont été ZRO avec +15%, AXS avec +10% et DASH avec +8%. Le fabricant de portefeuilles matériels Ledger préparerait une IPO de 4 milliards de dollars, avec l’appui de Goldman Sachs, Jefferies et Barclays. Le CEO de Ripple, Brad Garlinghouse, a estimé que les cryptomonnaies pourraient atteindre de nouveaux sommets en 2026 grâce à l’élan réglementaire et à la participation institutionnelle. Le président Trump a poursuivi JPMorgan pour 5 milliards de dollars, alléguant un « debanking » politiquement motivé. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "ترامب يقاضي JPMorgan بـ5 مليارات دولار وLedger تجهز طرحا بـ4 مليارات",
-        "excerpt": "تراجعت العملات المشفرة الكبرى بينما تستعد Ledger لطرح عام بقيمة 4 مليارات دولار، ورفع ترامب دعوى ضد JPMorgan بقيمة 5 مليارات دولار بسبب مزاعم إقصاء مصرفي.",
-        "body": "في تحديث سوق Crypto Daily، تراجعت العملات المشفرة الرئيسية، بينما اقترب الذهب من 5,000 دولار والفضة من 100 دولار. انخفض BTC بنسبة 1% إلى 89,100 دولار، وتراجع ETH بنسبة 2% إلى 2,925 دولارا، وهبط SOL بنسبة 2% إلى 127 دولارا، وانخفض XRP بنسبة 2% إلى 1.90 دولار. تصدرت ZRO الرابحين بارتفاع 15%، تلتها AXS بنسبة 10% وDASH بنسبة 8%. وتستعد شركة محافظ الأجهزة Ledger لطرح عام أولي بقيمة 4 مليارات دولار، مع الاستعانة بدعم Goldman Sachs وJefferies وBarclays. وقال براد غارلينغهاوس، الرئيس التنفيذي لـRipple، إن العملات المشفرة قد تسجل قمما جديدة في 2026، مستندا إلى الزخم التنظيمي ومشاركة المؤسسات. ورفع الرئيس ترامب دعوى على JPMorgan بقيمة 5 مليارات دولار، مدعيا وجود “إقصاء مصرفي” بدوافع سياسية. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "Trump ने JPMorgan पर $5B मुकदमा किया, Ledger $4B IPO की तैयारी में",
-        "excerpt": "प्रमुख क्रिप्टो एसेट्स में गिरावट रही, जबकि Ledger $4 अरब IPO की तैयारी कर रहा है और Trump ने कथित debanking को लेकर JPMorgan पर $5 अरब का मुकदमा दायर किया।",
-        "body": "Crypto Daily के बाजार अपडेट में प्रमुख क्रिप्टोकरेंसी लाल निशान में रहीं, जबकि सोना $5,000 के करीब और चांदी $100 के करीब पहुंची। BTC 1% गिरकर $89,100 पर, ETH 2% गिरकर $2,925 पर, SOL 2% गिरकर $127 पर और XRP 2% गिरकर $1.90 पर रहा। प्रमुख बढ़त वाले टोकन में ZRO 15%, AXS 10% और DASH 8% ऊपर रहे। हार्डवेयर वॉलेट कंपनी Ledger कथित तौर पर $4 अरब के IPO की तैयारी कर रही है और इसके लिए Goldman Sachs, Jefferies और Barclays का समर्थन ले रही है। Ripple के CEO Brad Garlinghouse ने कहा कि नियामकीय गति और संस्थागत भागीदारी के आधार पर क्रिप्टो 2026 में नए उच्च स्तर छू सकता है। राष्ट्रपति Trump ने राजनीतिक रूप से प्रेरित “debanking” का आरोप लगाते हुए JPMorgan पर $5 अरब का मुकदमा दायर किया। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Trump Gugat JPMorgan $5 Miliar, Ledger Siapkan IPO $4 Miliar",
-        "excerpt": "Aset kripto utama melemah saat Ledger menyiapkan IPO senilai $4 miliar dan Presiden Trump menggugat JPMorgan $5 miliar atas dugaan debanking bermotif politik.",
-        "body": "Dalam pembaruan pasar Crypto Daily, kripto utama bergerak merah, sementara emas mendekati $5.000 dan perak mendekati $100. BTC turun 1% ke $89.100, ETH turun 2% ke $2.925, SOL melemah 2% ke $127, dan XRP turun 2% ke $1,90. Penggerak utama adalah ZRO yang naik 15%, AXS naik 10%, dan DASH naik 8%. Pembuat dompet perangkat keras Ledger dilaporkan menyiapkan IPO senilai $4 miliar, dengan dukungan Goldman Sachs, Jefferies, dan Barclays. CEO Ripple Brad Garlinghouse memperkirakan kripto dapat mencapai rekor baru pada 2026, dengan momentum regulasi dan partisipasi institusional sebagai pendorong utama. Presiden Trump menggugat JPMorgan sebesar $5 miliar, menuduh adanya “debanking” bermotif politik. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "f648b6c3b132",
-    "slug": "bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-cha-352249",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-09T00:32:03.517Z",
-    "updatedAt": "2026-05-09T00:32:03.517Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally",
-    "titleFingerprint": "e870295b5ba740bf7e4ac183763712a0e629e34a",
-    "dedupKeys": [
-      "f648b6c3b1326952770e2e0618f3710ac00f0252",
-      "e870295b5ba740bf7e4ac183763712a0e629e34a",
-      "15966012846e6ea2d4bd6a122826707deda6799b"
-    ],
-    "imageUrl": "/images/articles/f648b6c3b132.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 정체, BTC ETF 2억6800만달러 유출에 랠리 재개 촉각",
-        "excerpt": "비트코인은 BTC 현물 ETF 유출이 2억6800만달러로 늘고 청산이 확대되며 단기 경계감이 커진 가운데, 약한 DXY와 새 연준 의장 임명이 랠리 재개 변수로 떠올랐다.",
-        "body": "비트코인이 BTC 현물 ETF 자금 유출과 시장 청산 확대로 단기 상승 동력을 잃고 정체된 흐름을 보이고 있다. 원문에 따르면 Bitcoin ETF 유출액은 2억6800만달러에 달했으며, 이는 투자자들이 단기적으로 신중해졌다는 신호로 해석된다. 동시에 청산 증가도 시장 부담을 키우는 요인으로 제시됐다. 다만 달러지수(DXY)가 약세를 보이는 점은 위험자산에 우호적인 배경이 될 수 있다. 또 향후 새 연준 의장 임명이 이뤄질 경우 정책 기대가 비트코인 랠리 재개에 영향을 줄 수 있다는 관측이 나온다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Bitcoin Stalls as BTC ETF Outflows Hit $268M, Fed Chair in Focus",
-        "excerpt": "Bitcoin is losing short-term momentum as BTC spot ETF outflows reach $268 million and liquidations rise, while a weaker DXY and a future Fed chair appointment remain key rally factors.",
-        "body": "Bitcoin is moving sideways after BTC spot ETF outflows and market liquidations weakened short-term momentum. According to the original report, Bitcoin ETF outflows reached $268 million, a signal that investors have turned more cautious in the near term. Rising liquidations were also cited as an added source of pressure on the market. However, a weaker US Dollar Index, or DXY, may provide a more supportive backdrop for risk assets. The eventual appointment of a new Federal Reserve chair is also being watched as a potential factor that could affect whether Bitcoin’s rally resumes. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "ビットコイン停滞、BTC ETF流出2.68億ドルでFRB議長人事に注目",
-        "excerpt": "ビットコインはBTC現物ETFから2.68億ドルが流出し清算も増えたことで短期警戒感が強まる一方、弱いDXYと将来のFRB議長人事が反発材料として注目されている。",
-        "body": "ビットコインは、BTC現物ETFからの資金流出と市場の清算拡大により、短期的な上昇力を失い停滞している。原文によると、Bitcoin ETFの流出額は2億6800万ドルに達し、投資家が短期的に慎重姿勢を強めていることを示す材料とされた。清算の増加も市場の重荷として挙げられている。一方で、ドル指数（DXY）の弱さはリスク資産にとって支援材料になり得る。さらに、将来的な新FRB議長の任命が政策期待を通じてビットコインのラリー再開に影響する可能性が注目されている。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "比特币停滞：BTC ETF流出2.68亿美元，新美联储主席成焦点",
-        "excerpt": "比特币因BTC现货ETF流出达2.68亿美元且清算增加而短期承压，但疲软的DXY以及未来新美联储主席任命，仍可能影响涨势能否恢复。",
-        "body": "比特币在BTC现货ETF资金流出和市场清算增加的影响下，短期上涨动能放缓并陷入停滞。原文称，Bitcoin ETF流出额达到2.68亿美元，这被视为投资者短期趋于谨慎的信号。与此同时，清算增加也被列为加重市场压力的因素。不过，美元指数（DXY）走弱可能为风险资产提供较有利的背景。未来新任美联储主席的任命也受到关注，因为政策预期可能影响比特币涨势是否恢复。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Bitcoin se frena: salidas de ETF BTC suman $268M y la Fed queda en foco",
-        "excerpt": "Bitcoin pierde impulso de corto plazo tras salidas de ETF spot de BTC por $268 millones y más liquidaciones, mientras un DXY débil y el futuro presidente de la Fed podrían influir en el repunte.",
-        "body": "Bitcoin se mantiene estancado después de que las salidas de los ETF spot de BTC y el aumento de las liquidaciones debilitaran el impulso de corto plazo. Según el informe original, las salidas de los Bitcoin ETF alcanzaron los 268 millones de dólares, una señal de mayor cautela entre los inversores en el corto plazo. El incremento de las liquidaciones también fue citado como una presión adicional para el mercado. Sin embargo, un índice dólar, o DXY, más débil puede ofrecer un entorno más favorable para los activos de riesgo. La futura designación de un nuevo presidente de la Reserva Federal también se observa como un factor que podría influir en la reanudación del rally de Bitcoin. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Bitcoin trava com saída de US$268 mi em ETFs BTC; Fed entra no radar",
-        "excerpt": "O Bitcoin perde força no curto prazo com saídas de US$268 milhões dos ETFs spot de BTC e mais liquidações, enquanto DXY fraco e futuro presidente do Fed podem influenciar a retomada.",
-        "body": "O Bitcoin segue sem direção clara depois que as saídas dos ETFs spot de BTC e o aumento das liquidações reduziram o impulso de curto prazo. Segundo o relatório original, as saídas dos Bitcoin ETF chegaram a US$268 milhões, sinal de que investidores adotaram maior cautela no curto prazo. O avanço das liquidações também foi apontado como fator de pressão sobre o mercado. Ainda assim, um índice do dólar, ou DXY, mais fraco pode criar um ambiente mais favorável para ativos de risco. A futura nomeação de um novo presidente do Federal Reserve também é acompanhada como possível fator para a retomada do rali do Bitcoin. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Bitcoin stockt: BTC-ETF-Abflüsse von 268 Mio. Dollar rücken Fed in den Fokus",
-        "excerpt": "Bitcoin verliert kurzfristig an Schwung, nachdem BTC-Spot-ETF-Abflüsse 268 Mio. Dollar erreichen und Liquidationen steigen; ein schwacher DXY und ein neuer Fed-Chef bleiben wichtige Faktoren.",
-        "body": "Bitcoin bewegt sich seitwärts, nachdem Abflüsse aus BTC-Spot-ETFs und steigende Liquidationen die kurzfristige Dynamik geschwächt haben. Dem Originalbericht zufolge erreichten die Abflüsse aus Bitcoin ETFs 268 Millionen Dollar, was als Zeichen größerer Vorsicht der Anleger im kurzfristigen Zeitraum gewertet wird. Auch die Zunahme der Liquidationen wurde als zusätzliche Belastung für den Markt genannt. Ein schwächerer US-Dollar-Index, der DXY, könnte jedoch ein günstigeres Umfeld für Risikoanlagen schaffen. Zudem wird die spätere Ernennung eines neuen Vorsitzenden der Federal Reserve als möglicher Faktor beobachtet, der die Wiederaufnahme der Bitcoin-Rally beeinflussen könnte. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Bitcoin cale: 268 M$ sortent des ETF BTC, la future Fed en ligne de mire",
-        "excerpt": "Bitcoin perd de l’élan à court terme avec 268 millions de dollars de sorties des ETF spot BTC et davantage de liquidations, tandis qu’un DXY faible et le futur président de la Fed restent décisifs.",
-        "body": "Bitcoin évolue sans véritable élan après que les sorties des ETF spot BTC et la hausse des liquidations ont affaibli la dynamique de court terme. Selon le rapport original, les sorties des Bitcoin ETF ont atteint 268 millions de dollars, signe d’une prudence accrue des investisseurs à court terme. L’augmentation des liquidations a également été citée comme une pression supplémentaire sur le marché. Toutefois, un indice du dollar, ou DXY, plus faible peut offrir un contexte plus favorable aux actifs risqués. La future nomination d’un nouveau président de la Réserve fédérale est aussi surveillée comme un facteur pouvant influencer la reprise du rally de Bitcoin. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "بيتكوين تتوقف مع خروج 268 مليون دولار من صناديق BTC وترقب رئيس الفيدرالي",
-        "excerpt": "تتراجع قوة بيتكوين قصيرة الأجل مع خروج 268 مليون دولار من صناديق BTC الفورية وارتفاع التصفية، بينما قد يؤثر ضعف DXY وتعيين رئيس جديد للفيدرالي في عودة الصعود.",
-        "body": "تتحرك بيتكوين في نطاق محدود بعدما أضعفت تدفقات الخروج من صناديق BTC الفورية وزيادة عمليات التصفية زخمها قصير الأجل. ووفق التقرير الأصلي، بلغت تدفقات الخروج من Bitcoin ETF نحو 268 مليون دولار، ما يشير إلى أن المستثمرين أصبحوا أكثر حذرا في المدى القصير. كما ذُكرت زيادة التصفية كعامل ضغط إضافي على السوق. في المقابل، قد يوفر ضعف مؤشر الدولار الأمريكي DXY خلفية أكثر دعما للأصول عالية المخاطر. كما يراقب السوق التعيين المرتقب لرئيس جديد لمجلس الاحتياطي الفيدرالي كعامل محتمل قد يؤثر في استئناف صعود بيتكوين. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "Bitcoin रुका: BTC ETF से $268M निकासी, नए Fed चेयर पर बाजार की नजर",
-        "excerpt": "BTC स्पॉट ETF से $268 मिलियन निकासी और बढ़ती लिक्विडेशन से Bitcoin की अल्पकालिक रफ्तार कमजोर हुई, जबकि कमजोर DXY और भविष्य का नया Fed चेयर रैली बहाली को प्रभावित कर सकते हैं।",
-        "body": "Bitcoin में BTC स्पॉट ETF से निकासी और बाजार में लिक्विडेशन बढ़ने के बाद अल्पकालिक तेजी की गति कमजोर दिख रही है। मूल रिपोर्ट के अनुसार, Bitcoin ETF से निकासी $268 मिलियन तक पहुंच गई, जिसे निवेशकों की निकट अवधि की सावधानी का संकेत माना गया। लिक्विडेशन में वृद्धि को भी बाजार पर अतिरिक्त दबाव के रूप में बताया गया। हालांकि, कमजोर US Dollar Index यानी DXY जोखिम वाली परिसंपत्तियों के लिए अपेक्षाकृत सहायक पृष्ठभूमि बना सकता है। साथ ही, भविष्य में नए Federal Reserve चेयर की नियुक्ति को भी ऐसे कारक के रूप में देखा जा रहा है, जो Bitcoin रैली की बहाली को प्रभावित कर सकता है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Bitcoin Tertahan: ETF BTC Keluar $268 Juta, Ketua Fed Baru Jadi Fokus",
-        "excerpt": "Bitcoin kehilangan momentum jangka pendek setelah arus keluar ETF spot BTC mencapai $268 juta dan likuidasi meningkat, sementara DXY lemah dan calon ketua Fed baru bisa memengaruhi reli.",
-        "body": "Bitcoin bergerak tertahan setelah arus keluar dari ETF spot BTC dan meningkatnya likuidasi melemahkan momentum jangka pendek. Menurut laporan asli, arus keluar Bitcoin ETF mencapai $268 juta, sinyal bahwa investor menjadi lebih berhati-hati dalam jangka pendek. Kenaikan likuidasi juga disebut sebagai tekanan tambahan bagi pasar. Namun, US Dollar Index atau DXY yang lebih lemah dapat memberi latar yang lebih mendukung bagi aset berisiko. Penunjukan ketua Federal Reserve yang baru di masa mendatang juga dipantau sebagai faktor yang dapat memengaruhi apakah reli Bitcoin kembali berlanjut. Sumber: cointelegraph.com"
       }
     }
   }
