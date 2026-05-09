@@ -1,0 +1,75 @@
+{
+  "id": "84e26766465d",
+  "slug": "7-major-bitcoin-mining-pools-join-stratum-v2-working-group-678547",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-09T23:19:57.707Z",
+  "updatedAt": "2026-05-09T23:19:57.707Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2",
+  "titleFingerprint": "17e23ec36a61a8aab61d421b1e7c3aea6311abb4",
+  "dedupKeys": [
+    "84e26766465d957b7df1565f0497446b4b25c162",
+    "17e23ec36a61a8aab61d421b1e7c3aea6311abb4",
+    "0d63eaf93b860a9e528304ac37797c5cfa3ffda0"
+  ],
+  "imageUrl": "/images/articles/84e26766465d.jpg",
+  "i18n": {
+    "ko": {
+      "title": "비트코인 채굴풀 7곳, Stratum V2 워킹그룹 합류",
+      "excerpt": "2026년 5월 7일 ANTPOOL·Block Inc·F2Pool·Foundry·Spiderpool·MARA Foundation·DMND가 Stratum V2 워킹그룹에 합류해 비트코인 채굴 프로토콜 채택을 추진한다.",
+      "body": "2026년 5월 7일 ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation, DMND 등 7개 주요 비트코인 채굴 관련 주체가 Stratum V2 워킹그룹에 합류했다. 기존 채굴풀의 개별 채굴자는 대체로 풀 운영자가 제공하는 블록 템플릿에 의존해 왔다. 2022년 Braiins와 Spiral이 만든 이 워킹그룹은 Stratum V2를 개방적이고 벤더 중립적인 표준으로 개발·유지하는 것을 목표로 한다. Stratum V2는 대규모 채굴기 관리 효율, 종단간 암호화, 지원 풀에서 채굴자가 직접 블록 템플릿을 만들 수 있는 기능을 제공한다. 이번 합류는 실제 채굴 운영에서 호환성과 채택을 넓히는 계기가 될 수 있다. 출처: cointelegraph.com."
+    },
+    "en": {
+      "title": "Seven Bitcoin Mining Pools Join Stratum V2 Working Group",
+      "excerpt": "On May 7, 2026, ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation and DMND joined the Stratum V2 Working Group to advance Bitcoin mining protocol adoption.",
+      "body": "On May 7, 2026, seven major Bitcoin mining participants, ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation and DMND, joined the Stratum V2 Working Group. In conventional mining pools, individual miners generally rely on block templates supplied by pool operators. The working group, founded in 2022 by Braiins and Spiral, aims to develop and maintain Stratum V2 as an open, vendor-neutral standard. Stratum V2 offers more efficient management of large miner fleets, end-to-end encryption and the ability for miners to create their own block templates with supporting pools. The additions could help broaden compatibility and adoption in real mining operations. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "ビットコイン採掘プール7社、Stratum V2作業部会に参加",
+      "excerpt": "2026年5月7日、ANTPOOL、Block Inc、F2Pool、Foundry、Spiderpool、MARA Foundation、DMNDがStratum V2作業部会に参加し、ビットコイン採掘プロトコルの採用を進める。",
+      "body": "2026年5月7日、ANTPOOL、Block Inc、F2Pool、Foundry、Spiderpool、MARA Foundation、DMNDの主要なビットコイン採掘関連7者がStratum V2作業部会に参加した。従来の採掘プールでは、個々の採掘者は一般にプール運営者が提供するブロックテンプレートに依存してきた。2022年にBraiinsとSpiralが設立した同作業部会は、Stratum V2をオープンでベンダー中立の標準として開発・維持することを目指す。Stratum V2は大規模な採掘機群の効率的管理、エンドツーエンド暗号化、対応プールで採掘者が自らブロックテンプレートを作成できる機能を提供する。今回の参加は、実際の採掘運用での互換性と採用拡大につながる可能性がある。出典: cointelegraph.com."
+    },
+    "zh": {
+      "title": "七大比特币矿池加入Stratum V2工作组",
+      "excerpt": "2026年5月7日，ANTPOOL、Block Inc、F2Pool、Foundry、Spiderpool、MARA Foundation和DMND加入Stratum V2工作组，推动比特币挖矿协议采用。",
+      "body": "2026年5月7日，ANTPOOL、Block Inc、F2Pool、Foundry、Spiderpool、MARA Foundation和DMND等七个主要比特币挖矿相关主体加入Stratum V2工作组。在传统矿池中，个体矿工通常依赖矿池运营方提供的区块模板。该工作组由Braiins和Spiral于2022年创建，目标是将Stratum V2开发并维护为开放、厂商中立的标准。Stratum V2提供更高效的大规模矿机管理、端到端加密，以及在支持的矿池中让矿工自行创建区块模板的能力。此次加入可能有助于扩大其在实际挖矿运营中的兼容性和采用范围。来源：cointelegraph.com。"
+    },
+    "es": {
+      "title": "Siete pools de minería Bitcoin se suman a Stratum V2",
+      "excerpt": "El 7 de mayo de 2026, ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation y DMND se unieron al grupo de trabajo Stratum V2 para impulsar su adopción en la minería Bitcoin.",
+      "body": "El 7 de mayo de 2026, siete actores relevantes de la minería Bitcoin, ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation y DMND, se incorporaron al grupo de trabajo Stratum V2. En los pools tradicionales, los mineros individuales suelen depender de las plantillas de bloque que entrega el operador del pool. El grupo, fundado en 2022 por Braiins y Spiral, busca desarrollar y mantener Stratum V2 como un estándar abierto y neutral frente a proveedores. Stratum V2 ofrece gestión más eficiente de grandes flotas de mineros, cifrado de extremo a extremo y la posibilidad de que los mineros creen sus propias plantillas de bloque en pools compatibles. La adhesión puede ampliar la compatibilidad y adopción en operaciones reales de minería. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "Sete pools de mineração Bitcoin entram no Stratum V2",
+      "excerpt": "Em 7 de maio de 2026, ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation e DMND entraram no grupo de trabalho Stratum V2 para avançar a adoção do protocolo na mineração Bitcoin.",
+      "body": "Em 7 de maio de 2026, sete participantes relevantes da mineração Bitcoin, ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation e DMND, aderiram ao grupo de trabalho Stratum V2. Nos pools tradicionais, mineradores individuais geralmente dependem dos modelos de bloco fornecidos pelo operador do pool. O grupo, criado em 2022 por Braiins e Spiral, busca desenvolver e manter o Stratum V2 como um padrão aberto e neutro em relação a fornecedores. O Stratum V2 oferece gestão mais eficiente de grandes frotas de mineradores, criptografia de ponta a ponta e a capacidade de mineradores criarem seus próprios modelos de bloco em pools compatíveis. A adesão pode ampliar compatibilidade e adoção em operações reais de mineração. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "Sieben Bitcoin-Mining-Pools treten Stratum-V2-Gruppe bei",
+      "excerpt": "Am 7. Mai 2026 traten ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation und DMND der Stratum V2 Working Group bei, um die Einführung des Bitcoin-Mining-Protokolls voranzubringen.",
+      "body": "Am 7. Mai 2026 sind sieben wichtige Akteure im Bitcoin-Mining, ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation und DMND, der Stratum V2 Working Group beigetreten. In klassischen Mining-Pools sind einzelne Miner meist auf Blockvorlagen angewiesen, die der Pool-Betreiber bereitstellt. Die 2022 von Braiins und Spiral gegründete Gruppe will Stratum V2 als offenen und herstellerneutralen Standard entwickeln und pflegen. Stratum V2 bietet eine effizientere Verwaltung großer Miner-Flotten, Ende-zu-Ende-Verschlüsselung und die Möglichkeit, dass Miner in unterstützenden Pools eigene Blockvorlagen erstellen. Der Beitritt kann Kompatibilität und Einführung im realen Mining-Betrieb ausweiten. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "Sept pools de minage Bitcoin rejoignent Stratum V2",
+      "excerpt": "Le 7 mai 2026, ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation et DMND ont rejoint le groupe de travail Stratum V2 afin de favoriser l’adoption du protocole de minage Bitcoin.",
+      "body": "Le 7 mai 2026, sept acteurs majeurs du minage Bitcoin, ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation et DMND, ont rejoint le groupe de travail Stratum V2. Dans les pools de minage classiques, les mineurs individuels dépendent généralement des modèles de blocs fournis par l’opérateur du pool. Fondé en 2022 par Braiins et Spiral, ce groupe vise à développer et maintenir Stratum V2 comme une norme ouverte et neutre vis-à-vis des fournisseurs. Stratum V2 propose une gestion plus efficace des grands parcs de mineurs, un chiffrement de bout en bout et la possibilité pour les mineurs de créer leurs propres modèles de blocs dans les pools compatibles. Cette arrivée peut élargir la compatibilité et l’adoption dans les opérations de minage réelles. Source: cointelegraph.com."
+    },
+    "ar": {
+      "title": "سبعة مجمعات تعدين بيتكوين تنضم إلى مجموعة Stratum V2",
+      "excerpt": "في 7 مايو 2026، انضمت ANTPOOL وBlock Inc وF2Pool وFoundry وSpiderpool وMARA Foundation وDMND إلى مجموعة عمل Stratum V2 لدفع تبني بروتوكول تعدين بيتكوين.",
+      "body": "في 7 مايو 2026، انضمت سبع جهات رئيسية في تعدين بيتكوين، هي ANTPOOL وBlock Inc وF2Pool وFoundry وSpiderpool وMARA Foundation وDMND، إلى مجموعة عمل Stratum V2. في مجمعات التعدين التقليدية، يعتمد المعدنون الأفراد عادة على قوالب الكتل التي يوفرها مشغل المجمع. تأسست المجموعة في 2022 على يد Braiins وSpiral، وتهدف إلى تطوير Stratum V2 والحفاظ عليه كمعيار مفتوح ومحايد تجاه البائعين. يوفر Stratum V2 إدارة أكثر كفاءة لأساطيل كبيرة من أجهزة التعدين، وتشفيرا من طرف إلى طرف، وإمكانية أن ينشئ المعدنون قوالب كتلهم الخاصة في المجمعات الداعمة. قد تساعد هذه الخطوة في توسيع التوافق والتبني داخل عمليات التعدين الفعلية. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "सात बिटकॉइन माइनिंग पूल Stratum V2 समूह में शामिल",
+      "excerpt": "7 मई 2026 को ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation और DMND Stratum V2 Working Group में शामिल हुए, ताकि बिटकॉइन माइनिंग प्रोटोकॉल अपनाने को आगे बढ़ाया जा सके।",
+      "body": "7 मई 2026 को बिटकॉइन माइनिंग से जुड़े सात प्रमुख प्रतिभागी, ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation और DMND, Stratum V2 Working Group में शामिल हुए। पारंपरिक माइनिंग पूल में व्यक्तिगत माइनर आम तौर पर पूल ऑपरेटर द्वारा दिए गए ब्लॉक टेम्पलेट पर निर्भर रहते हैं। 2022 में Braiins और Spiral द्वारा बनाई गई यह कार्यसमूह Stratum V2 को खुले और विक्रेता-तटस्थ मानक के रूप में विकसित और बनाए रखने का लक्ष्य रखता है। Stratum V2 बड़े माइनर बेड़ों के अधिक कुशल प्रबंधन, एंड-टू-एंड एन्क्रिप्शन और समर्थित पूल में माइनरों को अपना ब्लॉक टेम्पलेट बनाने की क्षमता देता है। यह जुड़ाव वास्तविक माइनिंग संचालन में अनुकूलता और अपनाने को बढ़ा सकता है। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "Tujuh Pool Mining Bitcoin Bergabung ke Stratum V2",
+      "excerpt": "Pada 7 Mei 2026, ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation, dan DMND bergabung dengan Stratum V2 Working Group untuk mendorong adopsi protokol mining Bitcoin.",
+      "body": "Pada 7 Mei 2026, tujuh pelaku utama mining Bitcoin, yaitu ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation, dan DMND, bergabung dengan Stratum V2 Working Group. Dalam pool mining tradisional, miner individu umumnya bergantung pada template blok yang disediakan operator pool. Kelompok kerja yang dibentuk pada 2022 oleh Braiins dan Spiral ini bertujuan mengembangkan dan memelihara Stratum V2 sebagai standar terbuka dan netral vendor. Stratum V2 menawarkan pengelolaan armada miner besar yang lebih efisien, enkripsi end-to-end, serta kemampuan bagi miner untuk membuat template blok sendiri di pool yang mendukung. Bergabungnya para anggota ini dapat memperluas kompatibilitas dan adopsi dalam operasi mining nyata. Sumber: cointelegraph.com."
+    }
+  }
+}
