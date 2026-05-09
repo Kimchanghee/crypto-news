@@ -1,5 +1,230 @@
 [
   {
+    "id": "f4ac1e2fa6a5",
+    "slug": "trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-wh-150658",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T01:18:36.824Z",
+    "updatedAt": "2026-05-09T01:18:36.824Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
+    "canonicalUrl": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
+    "titleFingerprint": "d38b34ffd2fe080d2e9a22808d77790a34e5e5f6",
+    "dedupKeys": [
+      "f4ac1e2fa6a5ba50b88235f8c21fb15de86e15f1",
+      "d38b34ffd2fe080d2e9a22808d77790a34e5e5f6",
+      "47e94ca038f618345a35010e2c0085fa8de1c9b6"
+    ],
+    "imageUrl": "/images/articles/f4ac1e2fa6a5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프 관세 충격에 비트코인 약세, NYSE 토큰화 준비 주목",
+        "excerpt": "트럼프 관세 혼란 이후 주요 암호화폐가 하락한 가운데, NYSE의 토큰화 주식·ETF 24시간 거래 준비와 기업·국가 차원의 온체인 움직임이 부각됐다.",
+        "body": "트럼프 관세 혼란이 이어지며 주요 암호화폐가 9일 약세를 보였다. 비트코인은 2% 내린 9만1,100달러, 이더리움은 4% 하락한 3,105달러, 솔라나는 3% 밀린 129달러, XRP는 2% 내린 1.93달러를 기록했다. 반면 CC는 12%, MYX는 5%, SYRUP은 4% 상승하며 주요 상승 종목에 올랐다. 시장이 관세 이슈로 흔들리는 가운데 NYSE는 주식과 ETF의 24시간 토큰화 거래 준비에 들어갔다. Steak ’n Shake는 약 1,000만 달러 규모의 비트코인 익스포저와 기업 BTC 전략 준비금 조성을 공개했다. 비탈릭 부테린은 DAO의 책임성, 조정력, 장기 지속성을 높이기 위한 더 정교한 거버넌스 모델을 제안했다. 버뮤다는 Coinbase 및 Circle과 협력해 완전 온체인 국가 경제 구상을 제시했다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Bitcoin Slips on Trump Tariff Turmoil as NYSE Tokenization Plans Gain Focus",
+        "excerpt": "After Trump’s tariff turmoil hit crypto majors, NYSE plans for 24/7 tokenized stock and ETF trading and new corporate and national onchain moves drew attention.",
+        "body": "Major cryptocurrencies traded lower on May 9 as Trump’s tariff turmoil continued to weigh on risk assets. Bitcoin fell 2% to $91,100, Ethereum dropped 4% to $3,105, Solana slid 3% to $129, and XRP declined 2% to $1.93. In contrast, CC rose 12%, MYX gained 5%, and SYRUP advanced 4% among top movers. While tariff concerns pressured the market, the NYSE began preparations for 24/7 tokenized trading of stocks and ETFs. Steak ’n Shake disclosed roughly $10 million in Bitcoin exposure and the creation of a corporate BTC strategic reserve. Vitalik Buterin called for more sophisticated DAO governance models to improve accountability, coordination, and long-term sustainability. Bermuda also outlined plans for a fully onchain national economy with Coinbase and Circle. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "トランプ関税でビットコイン軟調、NYSEのトークン化準備に注目",
+        "excerpt": "トランプ関税を巡る混乱で主要暗号資産が下落する中、NYSEの株式・ETFの24時間トークン化取引準備や企業・国家のオンチェーン構想が注目された。",
+        "body": "トランプ関税を巡る混乱が続き、5月9日に主要暗号資産は軟調に推移した。ビットコインは2%下落して9万1,100ドル、イーサリアムは4%安の3,105ドル、ソラナは3%安の129ドル、XRPは2%安の1.93ドルとなった。一方、CCは12%、MYXは5%、SYRUPは4%上昇し、主要な上昇銘柄となった。関税問題で市場が揺れる中、NYSEは株式とETFの24時間トークン化取引に向けた準備を始めた。Steak ’n Shakeは約1,000万ドルのビットコインエクスポージャーと企業BTC戦略準備金の創設を明らかにした。ヴィタリック・ブテリン氏は、DAOの説明責任、調整力、長期的持続性を高めるため、より高度なガバナンスモデルを求めた。バミューダはCoinbaseおよびCircleと連携し、完全オンチェーン国家経済の計画を示した。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "特朗普关税冲击比特币走弱，NYSE代币化计划受关注",
+        "excerpt": "特朗普关税风波后，主要加密货币下跌；与此同时，NYSE筹备股票和ETF全天候代币化交易，企业与国家级链上布局受到关注。",
+        "body": "受特朗普关税风波持续影响，5月9日主要加密货币走弱。比特币下跌2%至91,100美元，以太坊下跌4%至3,105美元，Solana下跌3%至129美元，XRP下跌2%至1.93美元。与此同时，CC上涨12%，MYX上涨5%，SYRUP上涨4%，成为主要上涨标的。在关税议题扰动市场之际，NYSE已开始筹备股票和ETF的24小时代币化交易。Steak ’n Shake披露约1,000万美元的比特币敞口，并设立企业BTC战略储备。Vitalik Buterin呼吁采用更复杂的DAO治理模式，以提升问责、协调和长期可持续性。百慕大则提出与Coinbase和Circle合作，建设完全链上国家经济。来源：decrypt.co"
+      },
+      "es": {
+        "title": "Bitcoin cae por aranceles de Trump mientras NYSE avanza en tokenización",
+        "excerpt": "Tras la turbulencia por los aranceles de Trump, las principales criptomonedas bajaron y crecieron las miradas sobre el plan de NYSE para operar acciones y ETF tokenizados 24/7.",
+        "body": "Las principales criptomonedas cotizaron a la baja el 9 de mayo mientras continuaba la turbulencia por los aranceles de Trump. Bitcoin cayó 2% a 91.100 dólares, Ethereum perdió 4% hasta 3.105 dólares, Solana bajó 3% a 129 dólares y XRP retrocedió 2% a 1,93 dólares. En contraste, CC subió 12%, MYX avanzó 5% y SYRUP ganó 4% entre los mayores movimientos. Mientras el mercado seguía presionado por los aranceles, NYSE inició preparativos para la negociación tokenizada 24/7 de acciones y ETF. Steak ’n Shake reveló cerca de 10 millones de dólares en exposición a Bitcoin y la creación de una reserva estratégica corporativa en BTC. Vitalik Buterin pidió modelos de gobernanza DAO más sofisticados para mejorar responsabilidad, coordinación y sostenibilidad a largo plazo. Bermuda presentó planes para una economía nacional totalmente onchain con Coinbase y Circle. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Bitcoin recua com tarifas de Trump enquanto NYSE prepara tokenização",
+        "excerpt": "Após a turbulência causada pelas tarifas de Trump, grandes criptomoedas caíram, enquanto os planos da NYSE para negociar ações e ETFs tokenizados 24/7 ganharam destaque.",
+        "body": "As principais criptomoedas recuaram em 9 de maio enquanto a turbulência das tarifas de Trump continuava pressionando o mercado. O Bitcoin caiu 2% para US$ 91.100, o Ethereum perdeu 4% para US$ 3.105, a Solana recuou 3% para US$ 129 e o XRP baixou 2% para US$ 1,93. Em sentido oposto, CC subiu 12%, MYX avançou 5% e SYRUP ganhou 4% entre os principais destaques. Com o mercado afetado pelo tema das tarifas, a NYSE iniciou preparativos para a negociação tokenizada 24/7 de ações e ETFs. A Steak ’n Shake revelou cerca de US$ 10 milhões em exposição ao Bitcoin e a criação de uma reserva estratégica corporativa em BTC. Vitalik Buterin defendeu modelos de governança DAO mais sofisticados para melhorar responsabilidade, coordenação e sustentabilidade de longo prazo. Bermuda também apresentou planos para uma economia nacional totalmente onchain com Coinbase e Circle. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Bitcoin fällt wegen Trump-Zöllen, NYSE-Tokenisierung rückt in den Fokus",
+        "excerpt": "Nach den Turbulenzen um Trumps Zölle gaben große Kryptowährungen nach, während NYSE-Pläne für tokenisierte Aktien- und ETF-Geschäfte rund um die Uhr Aufmerksamkeit erhielten.",
+        "body": "Wichtige Kryptowährungen notierten am 9. Mai schwächer, während die Turbulenzen um Trumps Zölle anhielten. Bitcoin fiel um 2% auf 91.100 Dollar, Ethereum verlor 4% auf 3.105 Dollar, Solana gab 3% auf 129 Dollar nach und XRP sank 2% auf 1,93 Dollar. Dagegen stiegen CC um 12%, MYX um 5% und SYRUP um 4% und gehörten zu den größten Gewinnern. Während die Zollfrage den Markt belastete, begann die NYSE mit Vorbereitungen für den 24/7-Handel tokenisierter Aktien und ETFs. Steak ’n Shake meldete ein Bitcoin-Exposure von rund 10 Millionen Dollar und die Einrichtung einer strategischen BTC-Unternehmensreserve. Vitalik Buterin forderte ausgereiftere DAO-Governance-Modelle, um Rechenschaft, Koordination und langfristige Nachhaltigkeit zu verbessern. Bermuda skizzierte zudem Pläne für eine vollständig onchain geführte Volkswirtschaft mit Coinbase und Circle. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Bitcoin recule avec les tarifs de Trump, la tokenisation du NYSE attire l’attention",
+        "excerpt": "Après les turbulences liées aux tarifs de Trump, les grandes cryptos ont baissé tandis que le projet du NYSE de négocier actions et ETF tokenisés 24/7 a gagné en visibilité.",
+        "body": "Les principales cryptomonnaies ont reculé le 9 mai alors que les turbulences liées aux tarifs de Trump continuaient de peser sur le marché. Le Bitcoin a perdu 2% à 91 100 dollars, l’Ethereum a chuté de 4% à 3 105 dollars, Solana a cédé 3% à 129 dollars et XRP a reculé de 2% à 1,93 dollar. À l’inverse, CC a gagné 12%, MYX 5% et SYRUP 4%, figurant parmi les plus fortes hausses. Dans ce contexte, le NYSE a commencé à préparer la négociation 24/7 d’actions et d’ETF tokenisés. Steak ’n Shake a révélé environ 10 millions de dollars d’exposition au Bitcoin ainsi que la création d’une réserve stratégique d’entreprise en BTC. Vitalik Buterin a appelé à des modèles de gouvernance DAO plus sophistiqués pour renforcer responsabilité, coordination et durabilité à long terme. Les Bermudes ont aussi présenté un projet d’économie nationale entièrement onchain avec Coinbase et Circle. Source : decrypt.co"
+      },
+      "ar": {
+        "title": "بيتكوين تتراجع بفعل اضطراب رسوم ترامب وخطط ترميز NYSE تتصدر الاهتمام",
+        "excerpt": "بعد اضطراب رسوم ترامب تراجعت العملات المشفرة الكبرى، بينما برزت استعدادات NYSE لتداول الأسهم وصناديق ETF المرمزة على مدار الساعة وتحركات الشركات والدول على السلسلة.",
+        "body": "تراجعت العملات المشفرة الكبرى في 9 مايو مع استمرار تأثير اضطراب رسوم ترامب على السوق. هبطت بيتكوين 2% إلى 91,100 دولار، وانخفضت إيثريوم 4% إلى 3,105 دولارات، وتراجعت سولانا 3% إلى 129 دولارا، كما انخفضت XRP بنسبة 2% إلى 1.93 دولار. في المقابل، ارتفعت CC بنسبة 12%، وMYX بنسبة 5%، وSYRUP بنسبة 4% ضمن أبرز الرابحين. وبينما ضغطت قضية الرسوم على السوق، بدأت NYSE الاستعداد لتداول الأسهم وصناديق ETF المرمزة على مدار الساعة. وكشفت Steak ’n Shake عن تعرض لبيتكوين يقارب 10 ملايين دولار وإنشاء احتياطي استراتيجي مؤسسي من BTC. ودعا فيتاليك بوتيرين إلى نماذج حوكمة DAO أكثر تطورا لتحسين المساءلة والتنسيق والاستدامة طويلة الأجل. كما عرضت برمودا خططا لاقتصاد وطني بالكامل على السلسلة بالتعاون مع Coinbase وCircle. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "ट्रंप टैरिफ झटके से बिटकॉइन कमजोर, NYSE टोकनाइजेशन योजना पर नजर",
+        "excerpt": "ट्रंप के टैरिफ विवाद के बाद प्रमुख क्रिप्टोकरेंसी गिरीं, जबकि NYSE की 24/7 टोकनाइज्ड स्टॉक और ETF ट्रेडिंग तैयारी तथा ऑनचेन योजनाएं चर्चा में रहीं।",
+        "body": "ट्रंप के टैरिफ विवाद का असर जारी रहने से 9 मई को प्रमुख क्रिप्टोकरेंसी कमजोर रहीं। बिटकॉइन 2% गिरकर 91,100 डॉलर पर आया, एथेरियम 4% घटकर 3,105 डॉलर, सोलाना 3% गिरकर 129 डॉलर और XRP 2% घटकर 1.93 डॉलर पर रहा। इसके उलट CC 12%, MYX 5% और SYRUP 4% चढ़े और प्रमुख बढ़त वाले टोकन रहे। टैरिफ मुद्दे से बाजार दबाव में था, वहीं NYSE ने शेयरों और ETF की 24/7 टोकनाइज्ड ट्रेडिंग की तैयारी शुरू की। Steak ’n Shake ने लगभग 1 करोड़ डॉलर के बिटकॉइन एक्सपोजर और कॉर्पोरेट BTC रणनीतिक रिजर्व बनाने की जानकारी दी। विटालिक ब्यूटेरिन ने जवाबदेही, समन्वय और दीर्घकालिक स्थिरता बढ़ाने के लिए अधिक उन्नत DAO गवर्नेंस मॉडल की मांग की। बरमूडा ने Coinbase और Circle के साथ पूरी तरह ऑनचेन राष्ट्रीय अर्थव्यवस्था की योजना भी रखी। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Bitcoin Melemah Akibat Tarif Trump, Rencana Tokenisasi NYSE Jadi Sorotan",
+        "excerpt": "Setelah gejolak tarif Trump menekan kripto utama, perhatian beralih ke persiapan NYSE untuk perdagangan saham dan ETF tokenisasi 24/7 serta agenda onchain baru.",
+        "body": "Aset kripto utama melemah pada 9 Mei saat gejolak tarif Trump terus menekan pasar. Bitcoin turun 2% ke US$91.100, Ethereum merosot 4% ke US$3.105, Solana melemah 3% ke US$129, dan XRP turun 2% ke US$1,93. Sebaliknya, CC naik 12%, MYX menguat 5%, dan SYRUP bertambah 4% sebagai penggerak utama. Di tengah tekanan isu tarif, NYSE mulai menyiapkan perdagangan saham dan ETF tokenisasi selama 24 jam. Steak ’n Shake mengungkap eksposur Bitcoin sekitar US$10 juta serta pembentukan cadangan strategis korporat dalam BTC. Vitalik Buterin menyerukan model tata kelola DAO yang lebih canggih untuk meningkatkan akuntabilitas, koordinasi, dan keberlanjutan jangka panjang. Bermuda juga memaparkan rencana ekonomi nasional sepenuhnya onchain bersama Coinbase dan Circle. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "f8977ce2019f",
+    "slug": "trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-bu-354754",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T01:17:30.504Z",
+    "updatedAt": "2026-05-09T01:17:30.504Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
+    "canonicalUrl": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
+    "titleFingerprint": "e7e9a5f8f88fd9bb061a8cd72597d8d34cca4d61",
+    "dedupKeys": [
+      "f8977ce2019f38ae69926170e577f285f1191e2b",
+      "e7e9a5f8f88fd9bb061a8cd72597d8d34cca4d61",
+      "2ff682cdeb20d2c1f51a596323518486ba480bd4"
+    ],
+    "imageUrl": "/images/articles/f8977ce2019f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 8만8000달러 하회, 세일러 21.3억달러 BTC 매수",
+        "excerpt": "화요일 시장 전반의 약세 속에 주요 가상자산이 하락했고, 비트코인은 8만8200달러까지 밀리며 10억달러 넘는 롱 포지션 청산을 불렀다.",
+        "body": "화요일 시장 전반이 붉게 물든 뒤 주요 가상자산이 동반 하락했다. 비트코인은 3% 내린 8만8200달러, 이더리움은 6% 하락한 2905달러, 솔라나는 2% 내린 127달러, XRP는 2% 밀린 1.88달러를 기록했다. MYX는 11%, ZRO는 10% 오르며 상위 상승 종목을 이끌었다. 매도 압력이 커지면서 비트코인과 솔라나는 주요 기술적 지지선을 밑돌았고, 비트코인이 8만8000달러 아래로 떨어지는 과정에서 10억달러 넘는 롱 포지션이 청산됐다. 한편 트럼프의 다보스 연설은 시장에 작은 활력을 줬고, 세일러는 21억3000만달러 규모의 BTC를 매수했다. Delaware Life는 BlackRock 현물 BTC ETF 성과와 연동한 고정지수연금에 비트코인 노출을 추가했으며, Trump Media는 암호화폐 에어드롭 계획을 발표했다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Bitcoin Slips Below $88K as Saylor Buys $2.13B in BTC",
+        "excerpt": "Crypto majors fell after a red Tuesday across markets, with Bitcoin near $88,200 and more than $1 billion in long positions liquidated during the slide.",
+        "body": "Major cryptocurrencies moved lower after a red Tuesday across markets. Bitcoin fell 3% to $88,200, Ethereum dropped 6% to $2,905, Solana slipped 2% to $127, and XRP declined 2% to $1.88. MYX rose 11% and ZRO gained 10%, leading the top movers. As selling pressure accelerated, both Bitcoin and Solana fell below key technical support levels, while Bitcoin’s move under $88,000 triggered more than $1 billion in long liquidations. Trump’s Davos speech gave crypto a small boost, and Saylor bought $2.13 billion in BTC. Delaware Life added Bitcoin exposure to a fixed indexed annuity linked to BlackRock’s spot BTC ETF, while Trump Media announced plans for a crypto airdrop. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "ビットコイン8.8万ドル割れ、セイラー氏は21.3億ドルBTC購入",
+        "excerpt": "市場全体が赤字となった火曜日の後、主要暗号資産は下落し、ビットコインは8万8200ドル付近まで下げ、10億ドル超のロングが清算された。",
+        "body": "火曜日に市場全体が弱含んだ後、主要暗号資産はそろって下落した。ビットコインは3%安の8万8200ドル、イーサリアムは6%安の2905ドル、ソラナは2%安の127ドル、XRPは2%安の1.88ドルとなった。一方、MYXは11%、ZROは10%上昇し、上位の値上がり銘柄を主導した。売り圧力が強まる中、ビットコインとソラナはいずれも重要なテクニカル支持線を下回り、ビットコインが8万8000ドルを割り込む過程で10億ドル超のロングポジションが清算された。トランプ氏のダボス演説は暗号資産に小幅な追い風となり、セイラー氏は21億3000万ドル相当のBTCを購入した。Delaware LifeはBlackRockの現物BTC ETFに連動する固定指数年金にビットコインエクスポージャーを追加し、Trump Mediaは暗号資産エアドロップ計画を発表した。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "比特币跌破8.8万美元，Saylor买入21.3亿美元BTC",
+        "excerpt": "在周二市场普遍走弱后，主要加密资产下跌，比特币报8.82万美元附近，并在跌破8.8万美元时引发超10亿美元多头清算。",
+        "body": "周二市场整体走弱后，主要加密资产同步下跌。比特币下跌3%至88200美元，以太坊下跌6%至2905美元，Solana下跌2%至127美元，XRP下跌2%至1.88美元。MYX上涨11%、ZRO上涨10%，领涨主要异动资产。随着卖压加速，比特币和Solana均跌破关键技术支撑位；比特币跌破88000美元的过程中，超过10亿美元多头头寸被清算。与此同时，特朗普在达沃斯的讲话为加密市场带来小幅提振，Saylor买入21.3亿美元BTC。Delaware Life通过挂钩BlackRock现货BTC ETF表现的固定指数年金加入比特币敞口，Trump Media则宣布了加密货币空投计划。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Bitcoin cae bajo $88K mientras Saylor compra $2.13B en BTC",
+        "excerpt": "Las principales criptomonedas bajaron tras un martes rojo en los mercados; Bitcoin rondó los $88,200 y más de $1,000 millones en largos fueron liquidados.",
+        "body": "Las principales criptomonedas retrocedieron después de un martes negativo en los mercados. Bitcoin cayó 3% a $88,200, Ethereum bajó 6% a $2,905, Solana cedió 2% a $127 y XRP perdió 2% hasta $1.88. MYX subió 11% y ZRO avanzó 10%, liderando los mayores movimientos al alza. Con la presión vendedora en aumento, Bitcoin y Solana perforaron niveles técnicos clave de soporte, mientras la caída de Bitcoin por debajo de $88,000 provocó liquidaciones de posiciones largas por más de $1,000 millones. El discurso de Trump en Davos dio un pequeño impulso al cripto, y Saylor compró $2,130 millones en BTC. Delaware Life añadió exposición a Bitcoin a una anualidad indexada fija vinculada al ETF spot de BTC de BlackRock, y Trump Media anunció planes para un airdrop cripto. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Bitcoin cai abaixo de US$ 88 mil; Saylor compra US$ 2,13 bi em BTC",
+        "excerpt": "As principais criptomoedas recuaram após uma terça-feira negativa nos mercados; Bitcoin ficou em US$ 88.200 e mais de US$ 1 bi em longs foi liquidado.",
+        "body": "As principais criptomoedas caíram após uma terça-feira de perdas nos mercados. O Bitcoin recuou 3% para US$ 88.200, o Ethereum caiu 6% para US$ 2.905, a Solana perdeu 2% para US$ 127 e o XRP baixou 2% para US$ 1,88. MYX avançou 11% e ZRO subiu 10%, liderando os maiores ganhos. Com a pressão vendedora acelerando, Bitcoin e Solana ficaram abaixo de suportes técnicos importantes, enquanto a queda do Bitcoin para menos de US$ 88.000 levou à liquidação de mais de US$ 1 bilhão em posições longas. O discurso de Trump em Davos deu um pequeno impulso ao mercado cripto, e Saylor comprou US$ 2,13 bilhões em BTC. A Delaware Life adicionou exposição a Bitcoin a uma anuidade fixa indexada ligada ao ETF spot de BTC da BlackRock, e a Trump Media anunciou planos de airdrop cripto. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Bitcoin fällt unter 88.000 Dollar, Saylor kauft BTC für 2,13 Mrd. Dollar",
+        "excerpt": "Nach einem schwachen Dienstag an den Märkten gaben große Kryptowährungen nach; Bitcoin lag bei 88.200 Dollar, über 1 Mrd. Dollar an Longs wurden liquidiert.",
+        "body": "Die großen Kryptowährungen gerieten nach einem roten Dienstag an den Märkten unter Druck. Bitcoin fiel um 3% auf 88.200 Dollar, Ethereum verlor 6% auf 2.905 Dollar, Solana gab 2% auf 127 Dollar nach und XRP sank 2% auf 1,88 Dollar. MYX legte 11% zu, ZRO stieg 10% und führte damit die Top-Mover an. Mit zunehmendem Verkaufsdruck rutschten Bitcoin und Solana unter wichtige technische Unterstützungsniveaus; beim Fall von Bitcoin unter 88.000 Dollar wurden Long-Positionen im Wert von mehr als 1 Milliarde Dollar liquidiert. Trumps Rede in Davos gab Krypto einen kleinen Schub, während Saylor BTC im Wert von 2,13 Milliarden Dollar kaufte. Delaware Life ergänzte eine fest indexierte Rentenversicherung um Bitcoin-Exposure, gekoppelt an den Spot-BTC-ETF von BlackRock, und Trump Media kündigte Pläne für einen Krypto-Airdrop an. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Bitcoin passe sous 88 000 $, Saylor achète 2,13 Md$ de BTC",
+        "excerpt": "Les principales cryptomonnaies ont reculé après un mardi rouge sur les marchés; Bitcoin a touché 88 200 $ et plus de 1 Md$ de positions longues ont été liquidées.",
+        "body": "Les principales cryptomonnaies ont reculé après un mardi négatif sur l’ensemble des marchés. Bitcoin a perdu 3% à 88 200 $, Ethereum a chuté de 6% à 2 905 $, Solana a cédé 2% à 127 $ et XRP a baissé de 2% à 1,88 $. MYX a gagné 11% et ZRO 10%, en tête des plus fortes hausses. Alors que la pression vendeuse s’accélérait, Bitcoin et Solana sont passés sous des supports techniques clés; la glissade de Bitcoin sous 88 000 $ a entraîné plus de 1 milliard de dollars de liquidations de positions longues. Le discours de Trump à Davos a donné un léger soutien au marché crypto, tandis que Saylor a acheté 2,13 milliards de dollars de BTC. Delaware Life a ajouté une exposition au Bitcoin à une rente indexée fixe liée à l’ETF spot BTC de BlackRock, et Trump Media a annoncé des plans d’airdrop crypto. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "بتكوين تهبط دون 88 ألف دولار وسايلور يشتري BTC بـ2.13 مليار دولار",
+        "excerpt": "تراجعت العملات الرقمية الكبرى بعد ثلاثاء سلبي في الأسواق، وسجلت بتكوين 88,200 دولار مع تصفية مراكز شراء طويلة بأكثر من مليار دولار.",
+        "body": "تراجعت العملات الرقمية الكبرى بعد ثلاثاء اتسم باللون الأحمر في الأسواق. انخفضت بتكوين 3% إلى 88,200 دولار، وهبطت إيثريوم 6% إلى 2,905 دولارات، وتراجعت سولانا 2% إلى 127 دولارا، كما انخفضت XRP بنسبة 2% إلى 1.88 دولار. في المقابل، تصدرت MYX الرابحين بارتفاع 11%، تلتها ZRO بزيادة 10%. ومع تسارع ضغط البيع، هبطت بتكوين وسولانا دون مستويات دعم فنية رئيسية، وأدى تراجع بتكوين إلى ما دون 88,000 دولار إلى تصفية مراكز شراء طويلة بأكثر من مليار دولار. كما منح خطاب ترامب في دافوس دفعة صغيرة للعملات الرقمية، بينما اشترى سايلور BTC بقيمة 2.13 مليار دولار. وأضافت Delaware Life تعرضا لبتكوين داخل معاش سنوي ثابت مفهرس مرتبط بأداء صندوق BlackRock الفوري لبتكوين، وأعلنت Trump Media خططا لإسقاط جوي للعملات الرقمية. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Bitcoin $88K से नीचे फिसला, Saylor ने $2.13B BTC खरीदा",
+        "excerpt": "बाजारों में कमजोर मंगलवार के बाद प्रमुख क्रिप्टोकरेंसी गिरीं; Bitcoin $88,200 पर रहा और गिरावट में $1 अरब से अधिक लॉन्ग पोजिशन लिक्विडेट हुईं।",
+        "body": "मंगलवार को बाजारों में व्यापक कमजोरी के बाद प्रमुख क्रिप्टोकरेंसी में गिरावट आई। Bitcoin 3% गिरकर $88,200 पर, Ethereum 6% गिरकर $2,905 पर, Solana 2% गिरकर $127 पर और XRP 2% घटकर $1.88 पर रहा। MYX 11% और ZRO 10% चढ़कर शीर्ष मूवर्स में आगे रहे। बिकवाली का दबाव तेज होने पर Bitcoin और Solana दोनों अहम तकनीकी सपोर्ट स्तरों से नीचे चले गए, जबकि Bitcoin के $88,000 से नीचे फिसलने के दौरान $1 अरब से अधिक की लॉन्ग पोजिशन लिक्विडेट हुईं। ट्रंप के डावोस भाषण से क्रिप्टो को हल्का सहारा मिला, और Saylor ने $2.13 अरब मूल्य का BTC खरीदा। Delaware Life ने BlackRock के स्पॉट BTC ETF के प्रदर्शन से जुड़ी फिक्स्ड इंडेक्स्ड एन्युटी में Bitcoin एक्सपोजर जोड़ा, जबकि Trump Media ने क्रिप्टो एयरड्रॉप की योजना घोषित की। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Bitcoin Turun di Bawah $88K, Saylor Beli BTC Senilai $2,13 Miliar",
+        "excerpt": "Kripto utama melemah setelah Selasa merah di pasar; Bitcoin berada di $88.200 dan lebih dari $1 miliar posisi long terlikuidasi saat harga turun.",
+        "body": "Aset kripto utama melemah setelah pasar bergerak merah pada Selasa. Bitcoin turun 3% ke $88.200, Ethereum turun 6% ke $2.905, Solana melemah 2% ke $127, dan XRP turun 2% ke $1,88. MYX naik 11% dan ZRO menguat 10%, memimpin daftar pergerakan teratas. Saat tekanan jual meningkat, Bitcoin dan Solana sama-sama jatuh di bawah level dukungan teknikal penting, sementara penurunan Bitcoin ke bawah $88.000 memicu likuidasi posisi long lebih dari $1 miliar. Pidato Trump di Davos memberi dorongan kecil bagi kripto, dan Saylor membeli BTC senilai $2,13 miliar. Delaware Life menambahkan eksposur Bitcoin ke anuitas indeks tetap yang dikaitkan dengan kinerja ETF spot BTC BlackRock, sementara Trump Media mengumumkan rencana airdrop kripto. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "4546588e7db3",
+    "slug": "crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-s-197386",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-09T01:16:24.474Z",
+    "updatedAt": "2026-05-09T01:16:24.474Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
+    "canonicalUrl": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
+    "titleFingerprint": "ed1c86d60151cedb306f4315e0a723a7456ac832",
+    "dedupKeys": [
+      "4546588e7db3064c3b9e231702e67296ce7030f8",
+      "ed1c86d60151cedb306f4315e0a723a7456ac832",
+      "1055613a7b843bfbd9dd8b02209d37a418807262"
+    ],
+    "imageUrl": "/images/articles/4546588e7db3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 8만9900달러 회복, 트럼프 EU 관세 후퇴에 크립토 반등",
+        "excerpt": "트럼프 대통령이 EU 관세안에서 물러설 신호를 보이자 비트코인과 주요 알트코인이 반등했고, BitGo는 주당 18달러 IPO로 약 20억달러 가치를 제시했다.",
+        "body": "크립토 시장은 트럼프 대통령이 EU 관세 조치에서 후퇴할 가능성을 내비친 뒤 주요 코인이 일제히 상승하며 반등했다. 비트코인은 2% 오른 8만9900달러, 이더리움은 2% 상승한 2995달러, 솔라나는 2% 오른 130달러, XRP는 3% 오른 1.94달러를 기록했다. 급격한 비트코인 반등 과정에서 시장 청산 규모는 10억달러를 넘었다. 상위 상승 종목은 CC 15%, SKY 11%, SAND 10%였다. 비탈릭 부테린은 이더리움 보안과 탈중앙화를 강화하기 위한 네이티브 DVT 스테이킹을 제안했다. BitGo는 주당 18달러 IPO를 발표하며 약 20억달러 평가가치를 제시했다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Bitcoin Rebounds to $89,900 as Trump Tariff Shift Lifts Crypto",
+        "excerpt": "After President Trump signaled a retreat from EU tariff measures, Bitcoin and major altcoins rebounded, while BitGo priced its IPO at $18 a share near a $2B valuation.",
+        "body": "Crypto markets rebounded after President Trump signaled a possible retreat from proposed EU tariff measures, sending major tokens higher. Bitcoin rose 2% to $89,900, Ethereum gained 2% to $2,995, Solana climbed 2% to $130, and XRP advanced 3% to $1.94. The sharp Bitcoin rebound came as liquidations across crypto markets exceeded $1 billion. Among top movers, CC rose 15%, SKY gained 11%, and SAND climbed 10%. Vitalik Buterin proposed native DVT staking to strengthen Ethereum security and decentralization, showing continued protocol-level experimentation. BitGo also announced an IPO at $18 per share, implying a valuation of about $2 billion. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "ビットコイン8万9900ドル回復、トランプ関税後退で暗号資産反発",
+        "excerpt": "トランプ大統領がEU関税案から後退する姿勢を示し、ビットコインと主要アルトコインが反発。BitGoは1株18ドルのIPOで約20億ドル評価を示した。",
+        "body": "暗号資産市場は、トランプ大統領が提案していたEU関税措置から後退する可能性を示した後、主要銘柄がそろって上昇し反発した。ビットコインは2%高の8万9900ドル、イーサリアムは2%高の2995ドル、ソラナは2%高の130ドル、XRPは3%高の1.94ドルとなった。ビットコインの急反発に伴い、市場全体の清算額は10億ドルを超えた。上昇率上位はCCが15%、SKYが11%、SANDが10%。ビタリック・ブテリン氏は、イーサリアムの安全性と分散性を高めるネイティブDVTステーキングを提案した。BitGoは1株18ドルでIPOを発表し、評価額は約20億ドルとなった。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "比特币回升至89900美元，特朗普关税转向提振加密市场",
+        "excerpt": "特朗普总统释放退出欧盟关税措施的信号后，比特币和主要山寨币反弹；BitGo以每股18美元推进IPO，估值约20亿美元。",
+        "body": "在特朗普总统暗示可能退出拟议中的欧盟关税措施后，加密市场出现反弹，主要代币同步走高。比特币上涨2%至89900美元，以太坊上涨2%至2995美元，Solana上涨2%至130美元，XRP上涨3%至1.94美元。随着比特币快速反弹，加密市场清算规模超过10亿美元。主要涨幅个币中，CC上涨15%，SKY上涨11%，SAND上涨10%。Vitalik Buterin提出原生DVT质押方案，以增强以太坊安全性和去中心化，显示协议层实验仍在继续。BitGo宣布以每股18美元进行IPO，对应估值约20亿美元。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Bitcoin repunta a 89.900 dólares tras giro de Trump sobre aranceles",
+        "excerpt": "Después de que Trump señalara un retroceso en los aranceles a la UE, Bitcoin y las principales altcoins rebotaron, mientras BitGo fijó su IPO en 18 dólares por acción.",
+        "body": "El mercado cripto rebotó después de que el presidente Trump señalara una posible retirada de las medidas arancelarias propuestas contra la UE, impulsando a los principales tokens. Bitcoin subió 2% hasta 89.900 dólares, Ethereum avanzó 2% a 2.995 dólares, Solana ganó 2% hasta 130 dólares y XRP subió 3% a 1,94 dólares. El brusco repunte de Bitcoin coincidió con liquidaciones superiores a 1.000 millones de dólares en el mercado cripto. Entre los mayores movimientos, CC subió 15%, SKY ganó 11% y SAND avanzó 10%. Vitalik Buterin propuso staking DVT nativo para reforzar la seguridad y descentralización de Ethereum. BitGo anunció su IPO a 18 dólares por acción, con una valoración cercana a 2.000 millones. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Bitcoin volta a US$ 89.900 com recuo de Trump sobre tarifas",
+        "excerpt": "Após Trump sinalizar recuo nas tarifas contra a UE, Bitcoin e principais altcoins se recuperaram; BitGo anunciou IPO a US$ 18 por ação, avaliada em cerca de US$ 2 bi.",
+        "body": "O mercado cripto se recuperou depois que o presidente Trump sinalizou uma possível retirada das medidas tarifárias propostas contra a União Europeia, levando os principais ativos a subir. O Bitcoin avançou 2% para US$ 89.900, o Ethereum subiu 2% para US$ 2.995, a Solana ganhou 2% para US$ 130 e o XRP avançou 3% para US$ 1,94. A forte recuperação do Bitcoin ocorreu enquanto as liquidações no mercado cripto passaram de US$ 1 bilhão. Entre os maiores ganhos, CC subiu 15%, SKY ganhou 11% e SAND avançou 10%. Vitalik Buterin propôs staking DVT nativo para fortalecer a segurança e a descentralização do Ethereum. A BitGo anunciou IPO a US$ 18 por ação, com avaliação de cerca de US$ 2 bilhões. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Bitcoin erholt sich auf 89.900 Dollar nach Trumps Zollwende",
+        "excerpt": "Nachdem Trump einen Rückzug bei EU-Zöllen signalisierte, legten Bitcoin und große Altcoins zu; BitGo kündigte einen IPO zu 18 Dollar je Aktie bei rund 2 Mrd. Dollar Bewertung an.",
+        "body": "Der Kryptomarkt erholte sich, nachdem Präsident Trump einen möglichen Rückzug von geplanten EU-Zollmaßnahmen signalisiert hatte. Die großen Coins legten geschlossen zu: Bitcoin stieg um 2% auf 89.900 Dollar, Ethereum um 2% auf 2.995 Dollar, Solana um 2% auf 130 Dollar und XRP um 3% auf 1,94 Dollar. Während der starken Bitcoin-Erholung überstiegen die Liquidationen am Kryptomarkt 1 Milliarde Dollar. Zu den stärksten Gewinnern zählten CC mit 15%, SKY mit 11% und SAND mit 10%. Vitalik Buterin schlug natives DVT-Staking vor, um Sicherheit und Dezentralisierung von Ethereum zu stärken. BitGo kündigte zudem einen IPO zu 18 Dollar je Aktie an, was einer Bewertung von rund 2 Milliarden Dollar entspricht. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Bitcoin remonte à 89 900 dollars après le virage tarifaire de Trump",
+        "excerpt": "Après le signal de recul de Trump sur les tarifs visant l’UE, Bitcoin et les principales altcoins ont rebondi; BitGo a fixé son IPO à 18 dollars l’action, près de 2 Md$ de valorisation.",
+        "body": "Le marché crypto a rebondi après que le président Trump a signalé un possible retrait des mesures tarifaires proposées contre l’Union européenne, entraînant une hausse des principaux actifs. Bitcoin a gagné 2% à 89 900 dollars, Ethereum 2% à 2 995 dollars, Solana 2% à 130 dollars et XRP 3% à 1,94 dollar. Ce net rebond du Bitcoin s’est accompagné de plus de 1 milliard de dollars de liquidations sur le marché crypto. Parmi les plus fortes hausses, CC a progressé de 15%, SKY de 11% et SAND de 10%. Vitalik Buterin a proposé le staking DVT natif pour renforcer la sécurité et la décentralisation d’Ethereum. BitGo a annoncé son IPO à 18 dollars par action, soit une valorisation d’environ 2 milliards de dollars. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "بتكوين تعود إلى 89900 دولار مع تراجع ترامب عن رسوم الاتحاد الأوروبي",
+        "excerpt": "بعد أن أشار ترامب إلى التراجع عن رسوم مقترحة على الاتحاد الأوروبي، ارتفعت بتكوين والعملات الكبرى، وأعلنت BitGo طرحا عاما بسعر 18 دولارا للسهم.",
+        "body": "انتعش سوق العملات المشفرة بعدما أشار الرئيس ترامب إلى احتمال التراجع عن إجراءات الرسوم المقترحة على الاتحاد الأوروبي، لترتفع العملات الرئيسية. صعدت بتكوين 2% إلى 89900 دولار، وارتفعت إيثريوم 2% إلى 2995 دولارا، وزادت سولانا 2% إلى 130 دولارا، بينما تقدم XRP بنسبة 3% إلى 1.94 دولار. وجاء الارتداد الحاد لبتكوين مع تجاوز التصفية في أسواق الكريبتو أكثر من مليار دولار. ومن بين أبرز الرابحين، ارتفعت CC بنسبة 15%، وSKY بنسبة 11%، وSAND بنسبة 10%. واقترح فيتاليك بوترين تخزين DVT أصليا لتعزيز أمن إيثريوم واللامركزية. كما أعلنت BitGo طرحها العام الأولي بسعر 18 دولارا للسهم، ما يقدرها بنحو ملياري دولار. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "बिटकॉइन 89,900 डॉलर पर लौटा, ट्रंप के टैरिफ रुख से क्रिप्टो में उछाल",
+        "excerpt": "ट्रंप द्वारा EU टैरिफ उपायों से पीछे हटने का संकेत देने के बाद बिटकॉइन और प्रमुख ऑल्टकॉइन चढ़े; BitGo ने 18 डॉलर प्रति शेयर IPO से करीब 2 अरब डॉलर मूल्यांकन बताया।",
+        "body": "राष्ट्रपति ट्रंप द्वारा प्रस्तावित EU टैरिफ उपायों से पीछे हटने का संकेत देने के बाद क्रिप्टो बाजार में सुधार आया और प्रमुख टोकन ऊपर चढ़े। बिटकॉइन 2% बढ़कर 89,900 डॉलर, एथेरियम 2% बढ़कर 2,995 डॉलर, सोलाना 2% बढ़कर 130 डॉलर और XRP 3% बढ़कर 1.94 डॉलर पर पहुंचा। बिटकॉइन की तेज वापसी के दौरान क्रिप्टो बाजार में परिसमापन 1 अरब डॉलर से अधिक रहा। शीर्ष बढ़त में CC 15%, SKY 11% और SAND 10% ऊपर रहे। विटालिक ब्यूटेरिन ने एथेरियम की सुरक्षा और विकेंद्रीकरण मजबूत करने के लिए नेटिव DVT स्टेकिंग का प्रस्ताव रखा। BitGo ने 18 डॉलर प्रति शेयर पर IPO की घोषणा की, जिससे उसका मूल्यांकन करीब 2 अरब डॉलर बताया गया। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Bitcoin Pulih ke US$89.900 Usai Sinyal Trump Mundur dari Tarif UE",
+        "excerpt": "Setelah Trump memberi sinyal mundur dari rencana tarif UE, Bitcoin dan altcoin utama menguat; BitGo mengumumkan IPO US$18 per saham dengan valuasi sekitar US$2 miliar.",
+        "body": "Pasar kripto rebound setelah Presiden Trump memberi sinyal kemungkinan mundur dari langkah tarif yang diusulkan terhadap Uni Eropa, membuat aset utama bergerak naik. Bitcoin menguat 2% ke US$89.900, Ethereum naik 2% ke US$2.995, Solana naik 2% ke US$130, dan XRP naik 3% ke US$1,94. Rebound tajam Bitcoin terjadi saat likuidasi di pasar kripto melampaui US$1 miliar. Di antara penggerak teratas, CC naik 15%, SKY naik 11%, dan SAND naik 10%. Vitalik Buterin mengusulkan native DVT staking untuk memperkuat keamanan dan desentralisasi Ethereum. BitGo juga mengumumkan IPO di harga US$18 per saham, dengan valuasi sekitar US$2 miliar. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
     "id": "83e70aa692c1",
     "slug": "from-stellar-to-canton-how-franklin-templeton-adopted-tokeni-896788",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "XRP Dekati US$1,40 saat Rentang Ketat Jadi Fokus Pasar",
         "excerpt": "XRP naik berkat lonjakan volume di akhir sesi, sementara trader memantau apakah kompresi dekat US$1,39-US$1,40 berubah menjadi pergerakan lebih besar.",
         "body": "XRP bergerak lebih tinggi setelah volume perdagangan meningkat di akhir sesi, membawa harga mendekati US$1,40. Pelaku pasar mengamati apakah rentang sempit di sekitar US$1,39 hingga US$1,40 akhirnya berubah menjadi pergerakan yang lebih besar. Fokus utamanya adalah kompresi harga. Semakin ketat rentangnya, semakin besar perhatian trader yang menunggu sinyal arah, tetapi sumber menyebut rentang yang mengetat itu menurunkan peluang breakout. Dalam jangka pendek, kuncinya adalah apakah lonjakan volume akhir sesi terus menopang kenaikan atau rentang terkompresi tetap bertahan. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "af901e68351b",
-    "slug": "how-ai-became-cryptos-favorite-reason-to-cut-staff-470595",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T14:23:49.259Z",
-    "updatedAt": "2026-05-08T14:23:49.259Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/features/how-ai-cryptos-favorite-reason-cut-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/features/how-ai-cryptos-favorite-reason-cut-staff",
-    "titleFingerprint": "0d5380d5517f1a71a2ae26463b2d1a93dc530d2a",
-    "dedupKeys": [
-      "af901e68351bc7ef9b16261a100b9ad040a97704",
-      "0d5380d5517f1a71a2ae26463b2d1a93dc530d2a",
-      "9ac77b5d39affdaafaf2166be62aef299df7458f"
-    ],
-    "imageUrl": "/images/articles/af901e68351b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI가 크립토 업계 감원 명분으로 떠오른 이유",
-        "excerpt": "코인베이스, 블록, 크립토닷컴은 최근 인력 감축의 이유로 AI를 언급했지만, 스케일 AI의 제이슨 드로지는 기업들이 이를 명분으로 활용한다고 봤다.",
-        "body": "최근 크립토 업계에서 AI가 인력 감축을 설명하는 핵심 명분으로 떠올랐다. 코인베이스, 블록, 크립토닷컴은 모두 최근 감원 과정에서 AI를 이유로 언급했다. 이들 기업은 기술 변화와 조직 효율화를 연결해 인력 조정을 설명했지만, 스케일 AI의 제이슨 드로지는 일부 기업이 AI를 실제 원인이라기보다 감원 결정을 정당화하는 ‘가림막’처럼 활용하고 있을 가능성을 제기했다. AI 도입이 업무 방식과 인력 수요에 영향을 주는 흐름은 이어질 수 있으나, 이번 사례들은 기술 자체보다 기업의 비용 조정 논리와 맞물려 해석될 여지가 있다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "AI Becomes Crypto Firms’ New Reason for Staff Cuts",
-        "excerpt": "Coinbase, Block and Crypto.com have cited AI in recent layoffs, while Scale AI’s Jason Droege says some firms may be using the technology as cover.",
-        "body": "AI has recently become a central explanation for staff reductions across the crypto industry. Coinbase, Block and Crypto.com have all pointed to AI when discussing recent cuts. The companies framed workforce changes around technology shifts and organizational efficiency, but Scale AI’s Jason Droege suggested that some firms may be using AI less as the real cause and more as cover for layoff decisions. AI adoption may continue to affect workflows and labor needs, yet these cases can also be read through the lens of cost adjustment rather than technology alone. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "AIが暗号資産企業の人員削減理由として浮上",
-        "excerpt": "コインベース、ブロック、クリプトドットコムは最近の人員削減でAIを理由に挙げたが、Scale AIのジェイソン・ドローグ氏は口実の可能性を指摘した。",
-        "body": "暗号資産業界では最近、AIが人員削減を説明する主要な理由として浮上している。コインベース、ブロック、クリプトドットコムはいずれも、最近の削減に関連してAIに言及した。各社は技術変化と組織効率化を結び付けて人員調整を説明しているが、Scale AIのジェイソン・ドローグ氏は、一部企業がAIを実際の原因というより削減判断を正当化するための隠れみのとして使っている可能性を示した。AI導入が働き方や人員需要に影響する流れは続き得るが、今回の事例は技術だけでなくコスト調整の文脈でも解釈できる。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "AI成加密企业裁员新理由，争议随之升温",
-        "excerpt": "Coinbase、Block和Crypto.com近期裁员时均提到AI，但Scale AI的Jason Droege认为，一些公司或在借AI作为掩护。",
-        "body": "近期，AI已成为加密行业解释裁员的重要理由。Coinbase、Block和Crypto.com都在近期人员削减中提到AI。相关公司将技术变化与组织效率联系起来说明调整原因，但Scale AI的Jason Droege认为，部分企业可能并非因AI本身而裁员，而是在用这项技术为裁员决定提供掩护。AI应用确实可能继续影响工作方式和用工需求，不过这些案例也可从企业成本调整逻辑来理解，而不只是技术变革本身。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "La IA se vuelve el nuevo motivo de recortes en cripto",
-        "excerpt": "Coinbase, Block y Crypto.com citaron la IA para justificar recortes recientes, aunque Jason Droege de Scale AI cree que algunas firmas la usan como cobertura.",
-        "body": "La IA se ha convertido recientemente en una explicación central para los recortes de personal en la industria cripto. Coinbase, Block y Crypto.com han mencionado la IA al hablar de reducciones recientes. Las compañías vincularon los cambios laborales con transformaciones tecnológicas y eficiencia organizativa, pero Jason Droege, de Scale AI, sugirió que algunas empresas podrían estar usando la IA menos como causa real y más como cobertura para justificar despidos. La adopción de IA puede seguir afectando flujos de trabajo y demanda laboral, aunque estos casos también pueden leerse como parte de ajustes de costos. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "IA vira novo motivo para cortes de pessoal em cripto",
-        "excerpt": "Coinbase, Block e Crypto.com citaram IA em cortes recentes, mas Jason Droege, da Scale AI, suspeita que empresas usem a tecnologia como justificativa.",
-        "body": "A IA se tornou recentemente uma explicação central para cortes de pessoal no setor cripto. Coinbase, Block e Crypto.com mencionaram a tecnologia ao tratar de reduções recentes. As empresas relacionaram as mudanças de quadro a transformações tecnológicas e eficiência organizacional, mas Jason Droege, da Scale AI, sugeriu que algumas companhias podem estar usando a IA menos como causa real e mais como cobertura para justificar demissões. A adoção de IA pode continuar afetando fluxos de trabalho e demanda por mão de obra, embora esses casos também possam ser vistos como parte de ajustes de custos. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "KI wird zum neuen Argument für Stellenabbau in Krypto",
-        "excerpt": "Coinbase, Block und Crypto.com nannten KI bei jüngsten Kürzungen, doch Scale-AI-Manager Jason Droege vermutet, dass Firmen die Technologie als Vorwand nutzen.",
-        "body": "KI ist zuletzt zu einer zentralen Erklärung für Stellenabbau in der Kryptoindustrie geworden. Coinbase, Block und Crypto.com haben bei jüngsten Kürzungen jeweils auf KI verwiesen. Die Unternehmen verbanden den Personalabbau mit technologischem Wandel und organisatorischer Effizienz, doch Jason Droege von Scale AI deutete an, dass einige Firmen KI weniger als tatsächliche Ursache und eher als Deckmantel für Entlassungsentscheidungen nutzen könnten. Die Einführung von KI kann Arbeitsabläufe und Personalbedarf weiter beeinflussen, doch diese Fälle lassen sich auch im Kontext von Kostenanpassungen lesen. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "L’IA devient le nouvel argument des coupes dans la crypto",
-        "excerpt": "Coinbase, Block et Crypto.com ont cité l’IA pour des réductions récentes, mais Jason Droege de Scale AI soupçonne certaines entreprises d’y voir une couverture.",
-        "body": "L’IA est récemment devenue une explication centrale des réductions d’effectifs dans l’industrie crypto. Coinbase, Block et Crypto.com ont toutes cité l’IA en évoquant des coupes récentes. Ces entreprises ont relié les ajustements de personnel aux évolutions technologiques et à l’efficacité organisationnelle, mais Jason Droege de Scale AI a suggéré que certaines sociétés pourraient utiliser l’IA moins comme cause réelle que comme couverture pour justifier des licenciements. L’adoption de l’IA peut continuer d’influencer les méthodes de travail et les besoins en personnel, mais ces cas peuvent aussi être interprétés comme des ajustements de coûts. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "الذكاء الاصطناعي يصبح مبررًا جديدًا للتسريح في الكريبتو",
-        "excerpt": "ذكرت Coinbase وBlock وCrypto.com الذكاء الاصطناعي في تخفيضات حديثة للموظفين، بينما يرى جيسون دروج من Scale AI أن شركات قد تستخدمه كغطاء.",
-        "body": "أصبح الذكاء الاصطناعي مؤخرًا تفسيرًا رئيسيًا لتقليص الوظائف في قطاع الكريبتو. فقد أشارت Coinbase وBlock وCrypto.com جميعها إلى الذكاء الاصطناعي عند الحديث عن تخفيضات حديثة في عدد الموظفين. وربطت هذه الشركات التغييرات بتحول التكنولوجيا ورفع كفاءة التنظيم، لكن جيسون دروج من Scale AI أشار إلى أن بعض الشركات قد تستخدم الذكاء الاصطناعي ليس كسبب فعلي، بل كغطاء لتبرير قرارات التسريح. وقد يستمر تبني الذكاء الاصطناعي في التأثير على أساليب العمل والطلب على الموظفين، إلا أن هذه الحالات يمكن فهمها أيضًا ضمن منطق خفض التكاليف. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "क्रिप्टो कंपनियों में छंटनी का नया कारण बना AI",
-        "excerpt": "Coinbase, Block और Crypto.com ने हालिया कटौतियों में AI का हवाला दिया, जबकि Scale AI के Jason Droege को लगता है कि कंपनियां इसे आड़ बना रही हैं।",
-        "body": "क्रिप्टो उद्योग में हाल में AI कर्मचारियों की कटौती समझाने का प्रमुख कारण बन गया है। Coinbase, Block और Crypto.com ने हालिया छंटनियों पर बात करते हुए AI का उल्लेख किया। कंपनियों ने तकनीकी बदलाव और संगठनात्मक दक्षता को workforce adjustment से जोड़ा, लेकिन Scale AI के Jason Droege ने संकेत दिया कि कुछ कंपनियां AI को वास्तविक कारण से अधिक छंटनी के फैसलों को सही ठहराने की आड़ के रूप में इस्तेमाल कर सकती हैं। AI अपनाने से काम करने के तरीके और श्रम मांग पर असर जारी रह सकता है, लेकिन इन मामलों को केवल तकनीक नहीं, बल्कि लागत समायोजन के संदर्भ में भी देखा जा सकता है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "AI Jadi Alasan Baru Pemangkasan Staf di Industri Kripto",
-        "excerpt": "Coinbase, Block, dan Crypto.com menyebut AI dalam pemangkasan terbaru, sementara Jason Droege dari Scale AI menduga teknologi itu dipakai sebagai tameng.",
-        "body": "AI belakangan menjadi penjelasan utama untuk pemangkasan staf di industri kripto. Coinbase, Block, dan Crypto.com semuanya menyebut AI saat membahas pengurangan tenaga kerja terbaru. Perusahaan-perusahaan itu mengaitkan perubahan jumlah karyawan dengan pergeseran teknologi dan efisiensi organisasi, tetapi Jason Droege dari Scale AI menilai sebagian perusahaan mungkin memakai AI bukan sebagai penyebab utama, melainkan sebagai tameng untuk membenarkan keputusan PHK. Adopsi AI dapat terus memengaruhi cara kerja dan kebutuhan tenaga kerja, namun kasus-kasus ini juga dapat dibaca sebagai bagian dari logika penyesuaian biaya. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "152ebc2c9085",
-    "slug": "australian-police-seize-41m-in-bitcoin-tied-to-darknet-marke-299715",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T14:23:01.297Z",
-    "updatedAt": "2026-05-08T14:23:01.297Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/australian-police-seize-41m-bitcoin-largest-dark-net-bust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/australian-police-seize-41m-bitcoin-largest-dark-net-bust",
-    "titleFingerprint": "bfdea0bc8d7ed3f8fb626caab53d1411686de925",
-    "dedupKeys": [
-      "152ebc2c90858d37178d1f910fce94c449e3cc41",
-      "bfdea0bc8d7ed3f8fb626caab53d1411686de925",
-      "6f3f7c6cda853dbc6600cf2adf584fe89168a7cc"
-    ],
-    "imageUrl": "/images/articles/152ebc2c9085.jpg",
-    "i18n": {
-      "ko": {
-        "title": "호주 경찰, 다크넷 마켓 연계 비트코인 410만달러 압수",
-        "excerpt": "호주 NSW 경찰은 마약·무기 관련 불법 다크넷 마켓 활동과 연계된 것으로 의심되는 비트코인 410만달러어치를 압수했다고 밝혔다.",
-        "body": "호주 뉴사우스웨일스(NSW) 경찰은 불법 다크넷 마켓 활동과 관련된 것으로 의심되는 비트코인 410만달러어치를 압수했다고 밝혔다. 경찰 설명에 따르면 해당 비트코인은 마약과 무기 거래가 포함된 다크넷 마켓플레이스 활동과 연계된 혐의를 받고 있다. 이번 조치는 가상자산이 불법 온라인 시장에서 사용될 수 있다는 점과, 수사기관이 블록체인 기반 자산을 추적·압수 대상으로 삼고 있음을 보여준다. 압수 규모는 410만달러로 제시됐으며, 추가 세부 내용은 공개된 원문 범위에서 확인되지 않았다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Australian Police Seize $4.1M in Bitcoin Linked to Darknet Market",
-        "excerpt": "NSW Police in Australia said they seized $4.1 million in Bitcoin allegedly tied to illegal darknet marketplace activity involving drugs and weapons.",
-        "body": "New South Wales Police in Australia said they seized $4.1 million in Bitcoin suspected of being connected to illegal darknet marketplace activity. According to police, the Bitcoin was allegedly linked to darknet market operations involving drugs and weapons. The case highlights how digital assets can be used in illegal online markets and how law enforcement agencies are treating blockchain-based assets as traceable and seizable property. The reported seizure amount was $4.1 million, while further details were not confirmed within the provided source material. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "豪警察、ダークネット市場関連のビットコイン410万ドルを押収",
-        "excerpt": "豪NSW警察は、薬物や武器に関わる違法ダークネット市場活動と関連した疑いのあるビットコイン410万ドル相当を押収したと発表した。",
-        "body": "オーストラリアのニューサウスウェールズ州（NSW）警察は、違法なダークネット市場活動に関連した疑いのあるビットコイン410万ドル相当を押収したと明らかにした。警察によると、このビットコインは薬物や武器の取引を含むダークネット・マーケットプレイスの活動と関連していた疑いがある。今回の措置は、暗号資産が違法オンライン市場で使われ得ること、また捜査機関がブロックチェーン上の資産を追跡・押収の対象として扱っていることを示す。押収額は410万ドルとされ、追加の詳細は提供された原文の範囲では確認されていない。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "澳大利亚警方查扣涉暗网市场的410万美元比特币",
-        "excerpt": "澳大利亚新南威尔士州警方表示，已查扣价值410万美元的比特币，涉嫌与涉及毒品和武器的非法暗网市场活动有关。",
-        "body": "澳大利亚新南威尔士州警方表示，已查扣价值410万美元的比特币，这些资产涉嫌与非法暗网市场活动有关。警方称，该比特币疑似关联一个涉及毒品和武器交易的暗网市场活动。此案显示，加密资产可能被用于非法线上市场，同时执法机构也正将基于区块链的资产视为可追踪、可查扣的对象。此次公布的查扣规模为410万美元，更多细节在所提供原文范围内未得到确认。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Policía australiana incauta Bitcoin por $4,1M ligado a darknet",
-        "excerpt": "La Policía de NSW, Australia, dijo que incautó $4,1 millones en Bitcoin presuntamente vinculados a actividad ilegal en mercados darknet de drogas y armas.",
-        "body": "La Policía de Nueva Gales del Sur, en Australia, dijo que incautó $4,1 millones en Bitcoin presuntamente conectados con actividad ilegal en un mercado de la darknet. Según la policía, el Bitcoin estaría relacionado con operaciones de marketplaces darknet que involucraban drogas y armas. El caso muestra que los activos digitales pueden usarse en mercados ilegales en línea y que las autoridades tratan los activos basados en blockchain como bienes rastreables y sujetos a incautación. El monto informado fue de $4,1 millones, sin más detalles confirmados dentro del material original proporcionado. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Polícia australiana apreende US$ 4,1 mi em Bitcoin ligado à darknet",
-        "excerpt": "A Polícia de NSW, na Austrália, disse ter apreendido US$ 4,1 milhões em Bitcoin supostamente ligados a mercado darknet ilegal com drogas e armas.",
-        "body": "A Polícia de Nova Gales do Sul, na Austrália, informou que apreendeu US$ 4,1 milhões em Bitcoin suspeitos de ligação com atividades ilegais em um mercado da darknet. Segundo a polícia, o Bitcoin estaria associado a operações de marketplace darknet envolvendo drogas e armas. O caso mostra que ativos digitais podem ser usados em mercados ilegais online e que autoridades tratam ativos baseados em blockchain como bens rastreáveis e passíveis de apreensão. O valor informado da apreensão foi de US$ 4,1 milhões, sem outros detalhes confirmados no material original fornecido. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Australische Polizei beschlagnahmt Bitcoin für 4,1 Mio. Dollar",
-        "excerpt": "Die Polizei von NSW in Australien erklärte, sie habe Bitcoin im Wert von 4,1 Mio. Dollar beschlagnahmt, die mit illegalen Darknet-Aktivitäten zu Drogen und Waffen verbunden sein sollen.",
-        "body": "Die Polizei von New South Wales in Australien erklärte, sie habe Bitcoin im Wert von 4,1 Millionen Dollar beschlagnahmt, die mutmaßlich mit illegalen Aktivitäten auf einem Darknet-Marktplatz verbunden sind. Nach Angaben der Polizei sollen die Bitcoin mit Darknet-Marktplatzaktivitäten in Zusammenhang stehen, bei denen es um Drogen und Waffen ging. Der Fall zeigt, dass digitale Vermögenswerte in illegalen Online-Märkten genutzt werden können und dass Ermittlungsbehörden Blockchain-basierte Vermögenswerte als nachverfolgbar und beschlagnahmefähig behandeln. Der genannte Betrag liegt bei 4,1 Millionen Dollar; weitere Details wurden im bereitgestellten Ausgangsmaterial nicht bestätigt. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "La police australienne saisit 4,1 M$ en Bitcoin lié au darknet",
-        "excerpt": "La police de NSW, en Australie, a déclaré avoir saisi 4,1 M$ en Bitcoin présumés liés à un marché darknet illégal impliquant drogues et armes.",
-        "body": "La police de Nouvelle-Galles du Sud, en Australie, a déclaré avoir saisi 4,1 millions de dollars en Bitcoin soupçonnés d’être liés à des activités illégales sur un marché du darknet. Selon la police, ces bitcoins seraient associés à des opérations de marketplace darknet impliquant des drogues et des armes. L’affaire montre que les actifs numériques peuvent être utilisés sur des marchés illégaux en ligne et que les autorités considèrent les actifs basés sur la blockchain comme traçables et saisissables. Le montant annoncé est de 4,1 millions de dollars, sans autres détails confirmés dans le matériel source fourni. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "شرطة أستراليا تصادر بيتكوين بـ4.1 مليون دولار مرتبطة بالدارك نت",
-        "excerpt": "قالت شرطة نيو ساوث ويلز في أستراليا إنها صادرت بيتكوين بقيمة 4.1 مليون دولار يشتبه بارتباطها بسوق دارك نت غير قانوني يشمل مخدرات وأسلحة.",
-        "body": "قالت شرطة نيو ساوث ويلز في أستراليا إنها صادرت بيتكوين بقيمة 4.1 مليون دولار يشتبه في ارتباطها بأنشطة غير قانونية في سوق على الدارك نت. ووفق الشرطة، فإن البيتكوين يُزعم أنه مرتبط بأنشطة سوق دارك نت شملت مخدرات وأسلحة. وتوضح القضية أن الأصول الرقمية يمكن أن تُستخدم في أسواق غير قانونية عبر الإنترنت، وأن جهات إنفاذ القانون تتعامل مع الأصول القائمة على البلوكشين باعتبارها قابلة للتتبع والمصادرة. وبلغت قيمة المصادرة المعلنة 4.1 مليون دولار، من دون تأكيد تفاصيل إضافية ضمن المادة الأصلية المقدمة. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "ऑस्ट्रेलियाई पुलिस ने डार्कनेट से जुड़े $4.1M Bitcoin जब्त किए",
-        "excerpt": "ऑस्ट्रेलिया की NSW पुलिस ने कहा कि उसने ड्रग्स और हथियारों से जुड़े अवैध डार्कनेट मार्केट गतिविधि से कथित रूप से संबंधित $4.1 मिलियन के Bitcoin जब्त किए।",
-        "body": "ऑस्ट्रेलिया की न्यू साउथ वेल्स पुलिस ने कहा कि उसने अवैध डार्कनेट मार्केटप्लेस गतिविधि से संदिग्ध रूप से जुड़े $4.1 मिलियन मूल्य के Bitcoin जब्त किए हैं। पुलिस के अनुसार, ये Bitcoin ड्रग्स और हथियारों से जुड़ी डार्कनेट मार्केट गतिविधियों से कथित रूप से संबंधित थे। यह मामला दिखाता है कि डिजिटल एसेट्स का उपयोग अवैध ऑनलाइन बाजारों में हो सकता है और जांच एजेंसियां ब्लॉकचेन आधारित संपत्तियों को ट्रैक करने और जब्त करने योग्य मान रही हैं। जब्ती की घोषित राशि $4.1 मिलियन है, जबकि दिए गए मूल स्रोत में अतिरिक्त विवरण की पुष्टि नहीं है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Polisi Australia Sita Bitcoin $4,1 Juta Terkait Pasar Darknet",
-        "excerpt": "Polisi NSW Australia mengatakan telah menyita Bitcoin senilai $4,1 juta yang diduga terkait aktivitas pasar darknet ilegal melibatkan narkoba dan senjata.",
-        "body": "Polisi New South Wales di Australia mengatakan telah menyita Bitcoin senilai $4,1 juta yang diduga terkait aktivitas ilegal di marketplace darknet. Menurut polisi, Bitcoin tersebut diduga berhubungan dengan aktivitas pasar darknet yang melibatkan narkoba dan senjata. Kasus ini menunjukkan bahwa aset digital dapat digunakan di pasar online ilegal, serta bahwa aparat penegak hukum memperlakukan aset berbasis blockchain sebagai properti yang dapat dilacak dan disita. Nilai penyitaan yang dilaporkan adalah $4,1 juta, sementara rincian tambahan tidak dikonfirmasi dalam materi sumber yang diberikan. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "bf8d8fbb3c3e",
-    "slug": "europe-sees-hyperconcentration-of-crypto-wrench-attacks-as-l-440629",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-08T14:22:03.744Z",
-    "updatedAt": "2026-05-08T14:22:03.744Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/europe-crypto-wrench-attacks-losses-101m-certik-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/europe-crypto-wrench-attacks-losses-101m-certik-report",
-    "titleFingerprint": "10a9e3d576680accc0d48228aa542cdcd8304b6a",
-    "dedupKeys": [
-      "bf8d8fbb3c3eb909a5fb690ce0d2b4984dd13a58",
-      "10a9e3d576680accc0d48228aa542cdcd8304b6a",
-      "c5d8cb8e8c7566417052d9c6d04d9d47110d12e9"
-    ],
-    "imageUrl": "/images/articles/bf8d8fbb3c3e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "유럽 암호화폐 렌치 공격 ‘초집중’…피해액 1억100만달러",
-        "excerpt": "코인텔레그래프에 따르면 유럽에서 암호화폐 보유자를 노린 렌치 공격이 초집중 양상을 보이며, CertiK는 관련 피해액이 1억100만달러에 달했다고 밝혔다.",
-        "body": "유럽에서 암호화폐 보유자를 물리적으로 위협해 자산을 빼앗는 이른바 ‘렌치 공격’이 초집중 양상을 보이고 있다. 코인텔레그래프 보도에 따르면 CertiK는 이러한 공격으로 인한 손실이 1억100만달러에 이르렀다고 밝혔다. 공격 조직은 보통 3~5명으로 구성되며, 피해자에게 접근하기 위해 배달기사로 위장하거나 매복 장소로 유인하는 방식이 자주 쓰인다고 설명했다. 이번 수치는 암호화폐 보안 위험이 온라인 해킹을 넘어 오프라인 신체 위협으로도 확산되고 있음을 보여준다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Europe crypto wrench attacks hyperconcentrate as losses reach $101M",
-        "excerpt": "According to Cointelegraph, Europe is seeing a hyperconcentration of crypto wrench attacks, with CertiK saying losses tied to the physical threats have reached $101 million.",
-        "body": "Europe is seeing a hyperconcentration of so-called crypto wrench attacks, in which criminals physically threaten holders to seize digital assets. According to Cointelegraph, CertiK said losses from these attacks have reached $101 million. The criminal teams behind them usually consist of three to five people and often approach victims by posing as delivery drivers or luring them into ambushes, the firm said. The figures show that crypto security risks are not limited to online hacks but also extend to offline physical threats. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "欧州で暗号資産レンチ攻撃が「超集中」、被害額は1億100万ドル",
-        "excerpt": "Cointelegraphによると、欧州では暗号資産保有者を狙うレンチ攻撃が超集中しており、CertiKは関連被害額が1億100万ドルに達したと述べた。",
-        "body": "欧州では、暗号資産保有者を物理的に脅して資産を奪ういわゆる「レンチ攻撃」が超集中する傾向を示している。Cointelegraphの報道によると、CertiKはこうした攻撃による損失が1億100万ドルに達したと明らかにした。攻撃グループは通常3〜5人で構成され、被害者に近づくため配送員を装ったり、待ち伏せ場所へ誘い出したりする手口が多いという。今回の数字は、暗号資産のセキュリティリスクがオンラインのハッキングだけでなく、オフラインの身体的脅威にも広がっていることを示す。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "欧洲加密货币扳手攻击“高度集中”，损失达1.01亿美元",
-        "excerpt": "据Cointelegraph报道，欧洲针对加密货币持有者的扳手攻击呈高度集中态势，CertiK称相关损失已达到1.01亿美元。",
-        "body": "欧洲正出现所谓加密货币“扳手攻击”的高度集中现象，犯罪者通过现实中的身体威胁迫使持有者交出数字资产。据Cointelegraph报道，CertiK表示，此类攻击造成的损失已达到1.01亿美元。CertiK称，实施攻击的犯罪团队通常由3至5人组成，常见手法包括冒充送货司机接近受害者，或将受害者诱入埋伏地点。相关数据表明，加密货币安全风险并不只存在于线上黑客攻击，也延伸到线下的人身威胁。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Europa concentra ataques físicos cripto y las pérdidas llegan a $101M",
-        "excerpt": "Según Cointelegraph, Europa registra una hiperconcentración de ataques físicos contra tenedores de criptomonedas, y CertiK sitúa las pérdidas en 101 millones de dólares.",
-        "body": "Europa registra una hiperconcentración de los llamados ataques de llave inglesa contra criptomonedas, en los que delincuentes amenazan físicamente a los tenedores para robar activos digitales. Según Cointelegraph, CertiK dijo que las pérdidas derivadas de estos ataques alcanzan los 101 millones de dólares. La firma señaló que los grupos criminales suelen estar formados por tres a cinco personas y a menudo se hacen pasar por repartidores o atraen a las víctimas a emboscadas. La cifra muestra que los riesgos de seguridad cripto no se limitan a hackeos en línea, sino que también incluyen amenazas físicas fuera de internet. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Europa concentra ataques físicos cripto e perdas chegam a US$101 mi",
-        "excerpt": "Segundo a Cointelegraph, a Europa vê uma hiperconcentração de ataques físicos contra detentores de criptomoedas, com a CertiK estimando perdas de US$101 milhões.",
-        "body": "A Europa registra uma hiperconcentração dos chamados ataques de chave inglesa contra criptomoedas, nos quais criminosos ameaçam fisicamente detentores para roubar ativos digitais. Segundo a Cointelegraph, a CertiK afirmou que as perdas causadas por esses ataques chegaram a US$101 milhões. A empresa disse que as equipes criminosas geralmente têm de três a cinco pessoas e costumam se passar por entregadores ou atrair vítimas para emboscadas. O dado mostra que os riscos de segurança cripto não se limitam a invasões online, mas também alcançam ameaças físicas fora da internet. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Europa sieht Krypto-Wrench-Attacken gebündelt, Verluste bei 101 Mio. USD",
-        "excerpt": "Laut Cointelegraph häufen sich in Europa physische Wrench-Angriffe auf Krypto-Besitzer stark; CertiK beziffert die damit verbundenen Verluste auf 101 Millionen US-Dollar.",
-        "body": "In Europa zeigt sich eine starke Konzentration sogenannter Krypto-Wrench-Angriffe, bei denen Kriminelle Besitzer digitaler Vermögenswerte körperlich bedrohen, um deren Assets zu rauben. Laut Cointelegraph erklärte CertiK, die Verluste durch solche Angriffe hätten 101 Millionen US-Dollar erreicht. Die Tätergruppen bestehen demnach meist aus drei bis fünf Personen und geben sich häufig als Lieferfahrer aus oder locken Opfer in Hinterhalte. Die Zahlen verdeutlichen, dass Krypto-Sicherheitsrisiken nicht nur Online-Hacks betreffen, sondern auch physische Bedrohungen außerhalb des Internets. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "En Europe, les attaques physiques crypto se concentrent et coûtent 101 M$",
-        "excerpt": "Selon Cointelegraph, l’Europe connaît une hyperconcentration d’attaques physiques visant des détenteurs de cryptomonnaies, CertiK chiffrant les pertes à 101 millions de dollars.",
-        "body": "L’Europe connaît une hyperconcentration des attaques dites « wrench » contre les cryptomonnaies, dans lesquelles des criminels menacent physiquement des détenteurs pour leur voler des actifs numériques. Selon Cointelegraph, CertiK a indiqué que les pertes liées à ces attaques atteignent 101 millions de dollars. Les groupes criminels comptent généralement trois à cinq personnes et se font souvent passer pour des livreurs ou attirent les victimes dans des embuscades, selon la société. Ces chiffres montrent que les risques de sécurité crypto ne se limitent pas aux piratages en ligne, mais s’étendent aussi aux menaces physiques hors ligne. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "أوروبا تشهد تركزا لهجمات التهديد الجسدي على الكريبتو بخسائر 101 مليون دولار",
-        "excerpt": "بحسب Cointelegraph، تشهد أوروبا تركزا شديدا لهجمات التهديد الجسدي ضد حائزي العملات المشفرة، فيما قالت CertiK إن الخسائر بلغت 101 مليون دولار.",
-        "body": "تشهد أوروبا تركزا شديدا لما يعرف بهجمات التهديد الجسدي على حائزي العملات المشفرة، حيث يستخدم المجرمون التهديد المباشر لانتزاع الأصول الرقمية من الضحايا. وبحسب Cointelegraph، قالت CertiK إن الخسائر الناتجة عن هذه الهجمات وصلت إلى 101 مليون دولار. وأوضحت الشركة أن الفرق الإجرامية تتكون عادة من ثلاثة إلى خمسة أشخاص، وغالبا ما ينتحلون صفة سائقي توصيل أو يستدرجون الضحايا إلى كمائن. وتوضح هذه الأرقام أن مخاطر أمن العملات المشفرة لا تقتصر على الاختراقات عبر الإنترنت، بل تمتد أيضا إلى تهديدات جسدية خارج الشبكة. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "यूरोप में क्रिप्टो रेंच हमलों की अति-सघनता, नुकसान $101M पहुंचा",
-        "excerpt": "Cointelegraph के अनुसार, यूरोप में क्रिप्टो धारकों को निशाना बनाने वाले रेंच हमलों की अति-सघनता दिख रही है और CertiK ने नुकसान 101 मिलियन डॉलर बताया है।",
-        "body": "यूरोप में तथाकथित क्रिप्टो रेंच हमलों की अति-सघनता देखी जा रही है, जिनमें अपराधी डिजिटल संपत्ति छीनने के लिए धारकों को शारीरिक रूप से धमकाते हैं। Cointelegraph के अनुसार, CertiK ने कहा कि इन हमलों से जुड़ा नुकसान 101 मिलियन डॉलर तक पहुंच गया है। कंपनी के मुताबिक ऐसे आपराधिक दल आमतौर पर तीन से पांच लोगों के होते हैं और अक्सर पीड़ितों तक पहुंचने के लिए डिलीवरी ड्राइवर बनते हैं या उन्हें घात लगाकर किए जाने वाले हमलों में फंसाते हैं। यह आंकड़ा दिखाता है कि क्रिप्टो सुरक्षा जोखिम केवल ऑनलाइन हैकिंग तक सीमित नहीं हैं, बल्कि ऑफलाइन शारीरिक खतरों तक भी फैलते हैं। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Eropa alami hiper-konsentrasi serangan wrench kripto, rugi $101 juta",
-        "excerpt": "Menurut Cointelegraph, Eropa mengalami hiper-konsentrasi serangan wrench terhadap pemilik kripto, dengan CertiK menyebut kerugian terkait mencapai 101 juta dolar AS.",
-        "body": "Eropa mengalami hiper-konsentrasi serangan wrench kripto, yaitu aksi kriminal yang mengancam pemilik aset digital secara fisik untuk merebut kepemilikan mereka. Menurut laporan Cointelegraph, CertiK mengatakan kerugian akibat serangan semacam ini telah mencapai 101 juta dolar AS. Perusahaan itu menjelaskan bahwa tim kriminal biasanya terdiri dari tiga hingga lima orang dan kerap menyamar sebagai kurir atau memancing korban ke lokasi penyergapan. Angka ini menunjukkan bahwa risiko keamanan kripto tidak hanya berupa peretasan online, tetapi juga ancaman fisik di dunia nyata. Sumber: cointelegraph.com"
       }
     }
   }
