@@ -1,0 +1,75 @@
+{
+  "id": "2469fc0d30d0",
+  "slug": "crypto-firms-race-to-39quantum-proof39-wallets-before-bitcoi-576859",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-10T16:54:29.921Z",
+  "updatedAt": "2026-05-10T16:54:29.922Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum",
+  "canonicalUrl": "https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum",
+  "titleFingerprint": "e8178797993633b0d457904a86aa9e2cabf3041d",
+  "dedupKeys": [
+    "2469fc0d30d062285660be47f834ab6843bfd62c",
+    "e8178797993633b0d457904a86aa9e2cabf3041d",
+    "9acb2e2c4ae3504bf9ea88b0b621bda4a0fdee1f"
+  ],
+  "imageUrl": "/images/articles/2469fc0d30d0.jpg",
+  "i18n": {
+    "ko": {
+      "title": "퀀텀 방어 지갑 경쟁 가속, 비트코인·이더리움 보안 격차는 여전",
+      "excerpt": "크립토 기업들이 최근 양자컴퓨팅 위협에 대비해 지갑 보안을 강화하고 있지만, 비트코인과 이더리움 네트워크 차원의 대응은 아직 따라오지 못하고 있다.",
+      "body": "크립토 기업들이 최근 양자컴퓨팅이 기존 암호 체계를 위협할 가능성에 대비해 지갑을 ‘퀀텀 방어’ 방식으로 업그레이드하고 있다. 지갑은 이용자의 자산 접근 권한을 보호하는 핵심 접점인 만큼, 기업들은 네트워크 자체의 변화보다 먼저 보안 강화를 추진하고 있다. 다만 비트코인과 이더리움 같은 주요 블록체인 네트워크는 아직 같은 속도로 대응하지 못해 격차가 남아 있다. 업계의 선제 조치는 향후 양자컴퓨팅 위험이 현실화될 경우 이용자 보호에 도움이 될 수 있지만, 지갑 단위 개선만으로 전체 네트워크 위험을 해소하기는 어렵다. decrypt.co는 크립토 기업들이 다가오는 양자컴퓨팅 위협에 맞서 지갑을 개선하고 있으나 여전히 빈틈이 남아 있다고 보도했다."
+    },
+    "en": {
+      "title": "Quantum-Proof Wallet Race Speeds Up as Bitcoin, Ethereum Lag",
+      "excerpt": "Crypto firms are upgrading wallet security against the emerging quantum computing threat, but Bitcoin and Ethereum network-level defenses have yet to catch up.",
+      "body": "Crypto companies are moving to upgrade wallets with “quantum-proof” protections as quantum computing raises concerns over the future security of existing cryptographic systems. Wallets are a key point of control for user asset access, so firms are acting before major network-level changes arrive. However, leading blockchains such as Bitcoin and Ethereum have not yet moved at the same pace, leaving a security gap. These early wallet upgrades may help protect users if quantum risks become more concrete, but wallet-level changes alone cannot remove broader network exposure. decrypt.co reported that crypto firms are improving wallets to counter the coming quantum computing threat, while gaps remain."
+    },
+    "ja": {
+      "title": "量子耐性ウォレット競争が加速、ビットコインとイーサリアムに遅れ",
+      "excerpt": "暗号資産企業は量子コンピューティングの脅威に備えてウォレットの安全性を高めているが、ビットコインとイーサリアムのネットワーク対応は追いついていない。",
+      "body": "暗号資産企業は最近、量子コンピューティングが既存の暗号技術を脅かす可能性に備え、ウォレットを「量子耐性」仕様へアップグレードしている。ウォレットは利用者が資産へアクセスする権限を守る重要な接点であるため、企業はネットワーク全体の変更に先行して安全対策を進めている。ただし、ビットコインやイーサリアムのような主要ブロックチェーンは同じ速度では対応できておらず、なおギャップが残る。こうした先行対応は量子リスクが現実化した場合の利用者保護に役立つ可能性があるが、ウォレット単位の改善だけでネットワーク全体のリスクを解消することは難しい。decrypt.coは、暗号資産企業が迫る量子コンピューティングの脅威に対抗してウォレットを改善している一方、なお空白が残ると報じた。"
+    },
+    "zh": {
+      "title": "抗量子钱包竞赛升温，比特币和以太坊网络仍有安全缺口",
+      "excerpt": "加密公司正为应对量子计算威胁升级钱包安全，但比特币和以太坊等网络层面的防护尚未同步跟上。",
+      "body": "加密公司近期正将钱包升级为更具“抗量子”能力的方案，以应对量子计算未来可能威胁现有加密体系的风险。钱包是保护用户资产访问权限的关键入口，因此企业选择在网络本身完成调整前先推进安全强化。不过，比特币和以太坊等主要区块链网络尚未以同样速度作出响应，安全缺口仍然存在。若量子计算风险进一步现实化，这些提前进行的钱包升级可能有助于保护用户，但仅靠钱包层面的改进难以消除整个网络的风险。decrypt.co报道称，加密企业正在改进钱包以应对即将到来的量子计算威胁，但相关空白仍未完全填补。"
+    },
+    "es": {
+      "title": "Carteras resistentes a lo cuántico avanzan mientras Bitcoin y Ethereum rezagan",
+      "excerpt": "Empresas cripto están reforzando sus billeteras ante la amenaza de la computación cuántica, pero las defensas de Bitcoin y Ethereum aún no avanzan al mismo ritmo.",
+      "body": "Las empresas cripto están actualizando sus billeteras con protecciones “resistentes a lo cuántico” ante la posibilidad de que la computación cuántica amenace los sistemas criptográficos actuales. Las billeteras son un punto clave para proteger el acceso de los usuarios a sus activos, por lo que las compañías están actuando antes de que lleguen cambios a nivel de red. Sin embargo, blockchains importantes como Bitcoin y Ethereum no han avanzado al mismo ritmo, lo que deja una brecha de seguridad. Estas mejoras tempranas podrían ayudar a proteger a los usuarios si el riesgo cuántico se vuelve más concreto, pero los cambios en billeteras no bastan para resolver la exposición de toda la red. decrypt.co informó que las firmas cripto están mejorando billeteras para enfrentar la amenaza cuántica, aunque persisten vacíos."
+    },
+    "pt": {
+      "title": "Carteiras à prova quântica avançam enquanto Bitcoin e Ethereum ficam atrás",
+      "excerpt": "Empresas cripto reforçam carteiras contra a ameaça da computação quântica, mas Bitcoin e Ethereum ainda não acompanham esse movimento no nível da rede.",
+      "body": "Empresas cripto estão atualizando carteiras com proteções “à prova quântica” diante da possibilidade de a computação quântica ameaçar os sistemas criptográficos atuais. Como as carteiras são o principal ponto de proteção do acesso dos usuários aos ativos, as companhias estão avançando antes de mudanças mais amplas nas redes. Ainda assim, blockchains importantes como Bitcoin e Ethereum não acompanham o mesmo ritmo, deixando uma lacuna de segurança. Essas medidas antecipadas podem ajudar a proteger usuários se o risco quântico se tornar mais concreto, mas melhorias apenas nas carteiras não eliminam a exposição de toda a rede. Segundo o decrypt.co, empresas cripto estão aprimorando carteiras para enfrentar a ameaça quântica que se aproxima, embora ainda existam falhas."
+    },
+    "de": {
+      "title": "Quantenfeste Wallets im Wettlauf, Bitcoin und Ethereum hinken hinterher",
+      "excerpt": "Krypto-Unternehmen rüsten Wallets gegen die kommende Bedrohung durch Quantencomputing auf, doch Bitcoin und Ethereum ziehen auf Netzwerkebene noch nicht mit.",
+      "body": "Krypto-Unternehmen aktualisieren derzeit Wallets mit „quantenfesten“ Schutzmechanismen, weil Quantencomputing bestehende kryptografische Systeme künftig bedrohen könnte. Wallets sind ein zentraler Zugangspunkt zu Nutzervermögen, deshalb treiben Firmen Sicherheitsverbesserungen voran, bevor größere Änderungen an den Netzwerken selbst umgesetzt werden. Doch wichtige Blockchains wie Bitcoin und Ethereum reagieren bislang nicht im gleichen Tempo, wodurch eine Sicherheitslücke bestehen bleibt. Die frühen Wallet-Upgrades könnten Nutzer schützen, falls Quantenrisiken konkreter werden, lösen aber nicht allein das Risiko für ganze Netzwerke. decrypt.co berichtete, dass Krypto-Firmen Wallets gegen die kommende Quantencomputing-Bedrohung verbessern, während weiterhin Lücken bestehen."
+    },
+    "fr": {
+      "title": "Portefeuilles résistants au quantique: Bitcoin et Ethereum restent en retard",
+      "excerpt": "Des entreprises crypto renforcent les portefeuilles face à la menace de l’informatique quantique, mais Bitcoin et Ethereum n’ont pas encore suivi au niveau réseau.",
+      "body": "Des entreprises crypto mettent à niveau leurs portefeuilles avec des protections dites résistantes au quantique, alors que l’informatique quantique pourrait menacer les systèmes cryptographiques actuels. Les portefeuilles étant un point clé pour protéger l’accès des utilisateurs à leurs actifs, les sociétés agissent avant les changements attendus au niveau des grands réseaux. Toutefois, des blockchains majeures comme Bitcoin et Ethereum n’avancent pas au même rythme, ce qui laisse un écart de sécurité. Ces améliorations précoces peuvent aider à protéger les utilisateurs si le risque quantique devient plus concret, mais les seules mises à jour des portefeuilles ne suffisent pas à réduire l’exposition de tout un réseau. decrypt.co rapporte que les entreprises crypto améliorent les portefeuilles contre la menace quantique à venir, malgré des lacunes persistantes."
+    },
+    "ar": {
+      "title": "سباق المحافظ المقاومة للكمّ يتسارع وبيتكوين وإيثريوم لا تزالان متأخرتين",
+      "excerpt": "شركات العملات المشفرة تعزز أمن المحافظ لمواجهة تهديد الحوسبة الكمّية، لكن دفاعات شبكتي بيتكوين وإيثريوم لم تلحق بعد بهذا التحرك.",
+      "body": "تعمل شركات العملات المشفرة حديثا على ترقية المحافظ بإجراءات حماية “مقاومة للكمّ”، مع تزايد القلق من أن تهدد الحوسبة الكمّية أنظمة التشفير الحالية مستقبلا. وتعد المحافظ نقطة أساسية لحماية وصول المستخدمين إلى أصولهم، لذلك تتحرك الشركات قبل حدوث تغييرات أوسع على مستوى الشبكات نفسها. لكن شبكات كبرى مثل بيتكوين وإيثريوم لم تتحرك بالوتيرة نفسها، ما يترك فجوة أمنية قائمة. وقد تساعد هذه الترقيات المبكرة في حماية المستخدمين إذا أصبح الخطر الكمّي أكثر واقعية، إلا أن تحسين المحافظ وحده لا يكفي لإزالة مخاطر الشبكة بالكامل. وذكرت decrypt.co أن شركات الكريبتو تطور محافظها لمواجهة تهديد الحوسبة الكمّية القادم، بينما لا تزال هناك ثغرات."
+    },
+    "hi": {
+      "title": "क्वांटम-प्रूफ वॉलेट दौड़ तेज, Bitcoin और Ethereum सुरक्षा में पीछे",
+      "excerpt": "क्रिप्टो कंपनियां क्वांटम कंप्यूटिंग खतरे से निपटने के लिए वॉलेट सुरक्षा बढ़ा रही हैं, लेकिन Bitcoin और Ethereum नेटवर्क स्तर पर अभी पीछे हैं।",
+      "body": "क्रिप्टो कंपनियां हाल में वॉलेट को “क्वांटम-प्रूफ” सुरक्षा के साथ अपग्रेड कर रही हैं, क्योंकि क्वांटम कंप्यूटिंग भविष्य में मौजूदा क्रिप्टोग्राफिक प्रणालियों के लिए खतरा बन सकती है। वॉलेट उपयोगकर्ताओं की संपत्ति तक पहुंच की सुरक्षा का प्रमुख बिंदु हैं, इसलिए कंपनियां नेटवर्क स्तर के बड़े बदलावों से पहले ही कदम उठा रही हैं। हालांकि Bitcoin और Ethereum जैसे प्रमुख ब्लॉकचेन नेटवर्क इसी गति से आगे नहीं बढ़े हैं, जिससे सुरक्षा अंतर बना हुआ है। ये शुरुआती वॉलेट सुधार क्वांटम जोखिम वास्तविक होने पर उपयोगकर्ताओं की सुरक्षा में मदद कर सकते हैं, लेकिन केवल वॉलेट स्तर के बदलाव पूरे नेटवर्क जोखिम को खत्म नहीं कर सकते। decrypt.co ने बताया कि क्रिप्टो कंपनियां आने वाले क्वांटम कंप्यूटिंग खतरे से निपटने के लिए वॉलेट सुधार रही हैं, फिर भी खामियां बाकी हैं।"
+    },
+    "id": {
+      "title": "Dompet tahan kuantum dikebut, Bitcoin dan Ethereum masih tertinggal",
+      "excerpt": "Perusahaan kripto meningkatkan keamanan dompet untuk menghadapi ancaman komputasi kuantum, tetapi pertahanan jaringan Bitcoin dan Ethereum belum ikut mengejar.",
+      "body": "Perusahaan kripto belakangan meningkatkan dompet dengan perlindungan “tahan kuantum” karena komputasi kuantum berpotensi mengancam sistem kriptografi yang ada. Dompet menjadi titik penting untuk melindungi akses pengguna ke aset, sehingga perusahaan bergerak lebih dulu sebelum perubahan besar terjadi di tingkat jaringan. Namun, blockchain utama seperti Bitcoin dan Ethereum belum merespons dengan kecepatan yang sama, sehingga celah keamanan masih tersisa. Peningkatan awal ini dapat membantu melindungi pengguna jika risiko kuantum menjadi lebih nyata, tetapi perbaikan di tingkat dompet saja tidak cukup untuk menghapus risiko pada seluruh jaringan. decrypt.co melaporkan bahwa perusahaan kripto sedang memperbaiki dompet untuk melawan ancaman komputasi kuantum yang akan datang, meski celah masih ada."
+    }
+  }
+}
