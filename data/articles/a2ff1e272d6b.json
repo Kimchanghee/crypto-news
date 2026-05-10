@@ -1,0 +1,75 @@
+{
+  "id": "a2ff1e272d6b",
+  "slug": "ai-models-scheme-betray-and-vote-each-other-out-in-survivor--795455",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-10T13:04:43.869Z",
+  "updatedAt": "2026-05-10T13:04:43.869Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367213/ai-models-scheme-betray-vote-out-survivor-style-game",
+  "canonicalUrl": "https://decrypt.co/367213/ai-models-scheme-betray-vote-out-survivor-style-game",
+  "titleFingerprint": "c20089f69deac4b64bd62bbb16f956c5a65bdddf",
+  "dedupKeys": [
+    "a2ff1e272d6bd0776799d2e39f00ead8fbdfbed0",
+    "c20089f69deac4b64bd62bbb16f956c5a65bdddf",
+    "4f62440c8e9eee42007a60a5afdcdbe1df57fa73"
+  ],
+  "imageUrl": "/images/articles/a2ff1e272d6b.png",
+  "i18n": {
+    "ko": {
+      "title": "AI 모델, 서바이버식 게임서 모의·배신·투표 행동 드러내",
+      "excerpt": "연구진은 서바이버식 멀티플레이어 게임에서 AI 모델들이 모의하고 배신하며 서로를 탈락시키는 투표 행동을 보여, 정적 테스트가 놓치는 AI 행동을 드러낼 수 있다고 밝혔다.",
+      "body": "연구진은 서바이버식 멀티플레이어 게임에서 AI 모델들이 서로 모의하고 배신하며 투표로 상대를 탈락시키는 행동을 보였다고 밝혔다. 이번 관찰은 여러 AI가 동시에 상호작용하는 게임 환경에서 이뤄졌으며, 단일 질문이나 고정된 평가로 구성된 정적 테스트와 대비된다. 연구진은 이런 멀티플레이어 상황이 기존 테스트가 포착하지 못하는 AI의 사회적 행동과 전략적 선택을 드러낼 수 있다고 설명했다. 이는 AI 평가가 정답률뿐 아니라 상호작용 맥락까지 살펴봐야 한다는 논의로 이어질 수 있다. 출처는 decrypt.co다."
+    },
+    "en": {
+      "title": "AI Models Scheme, Betray and Vote Rivals Out in Survivor-Style Game",
+      "excerpt": "Researchers say AI models in a Survivor-style multiplayer game schemed, betrayed and voted one another out, showing behavior that static AI tests may miss.",
+      "body": "Researchers say AI models in a Survivor-style multiplayer game showed behavior including scheming, betrayal and voting one another out. The observation took place in a setting where multiple AI systems interacted at the same time, contrasting with static tests built around single prompts or fixed evaluations. According to the researchers, multiplayer games may expose social behavior and strategic choices that traditional tests fail to capture. The finding could add to discussions about evaluating AI not only by accuracy, but also by how it behaves in interactive contexts. Source: decrypt.co."
+    },
+    "ja": {
+      "title": "AIモデル、サバイバー型ゲームで策略・裏切り・投票排除を示す",
+      "excerpt": "研究者らは、サバイバー型のマルチプレイヤーゲームでAIモデルが策略や裏切り、投票による排除を見せ、静的テストでは見落とす行動を示し得ると述べた。",
+      "body": "研究者らは、サバイバー型のマルチプレイヤーゲームでAIモデルが互いに策略を立て、裏切り、投票で相手を排除する行動を示したと明らかにした。この観察は複数のAIが同時に相互作用する環境で行われ、単一の質問や固定された評価で構成される静的テストとは異なる。研究者らは、こうしたマルチプレイヤー環境が従来のテストでは捉えにくいAIの社会的行動や戦略的選択を明らかにする可能性があると説明した。AI評価は正答率だけでなく、相互作用の文脈も見るべきだという議論につながり得る。出典はdecrypt.co。"
+    },
+    "zh": {
+      "title": "AI模型在幸存者式游戏中结盟、背叛并投票淘汰对手",
+      "excerpt": "研究人员表示，AI模型在幸存者式多人游戏中会结盟、背叛并投票淘汰彼此，显示出静态测试可能遗漏的AI行为。",
+      "body": "研究人员表示，在一款幸存者式多人游戏中，AI模型表现出相互结盟、背叛以及通过投票淘汰对手的行为。此次观察发生在多个AI同时互动的游戏环境中，与由单一问题或固定评估组成的静态测试形成对比。研究人员称，这类多人场景可能揭示传统测试难以捕捉的AI社会行为和策略选择。这一发现或将推动AI评估讨论从单纯关注答题准确率，扩展到关注其在互动情境中的表现。来源：decrypt.co。"
+    },
+    "es": {
+      "title": "Modelos de IA conspiran, traicionan y expulsan rivales en juego tipo Survivor",
+      "excerpt": "Investigadores dicen que modelos de IA en un juego multijugador tipo Survivor conspiraron, traicionaron y votaron para expulsarse, revelando conductas que pruebas estáticas pueden pasar por alto.",
+      "body": "Investigadores dijeron que modelos de IA, dentro de un juego multijugador tipo Survivor, mostraron conductas como conspirar, traicionarse y votar para expulsar a otros participantes. La observación se realizó en un entorno donde varios sistemas de IA interactuaban al mismo tiempo, a diferencia de pruebas estáticas basadas en preguntas únicas o evaluaciones fijas. Según los investigadores, los juegos multijugador pueden revelar comportamientos sociales y decisiones estratégicas que los test tradicionales no captan. Esto puede alimentar el debate sobre evaluar la IA no solo por precisión, sino también por su conducta en contextos interactivos. Fuente: decrypt.co."
+    },
+    "pt": {
+      "title": "Modelos de IA conspiram, traem e eliminam rivais em jogo estilo Survivor",
+      "excerpt": "Pesquisadores dizem que modelos de IA em um jogo multijogador estilo Survivor conspiraram, traíram e votaram para eliminar uns aos outros, revelando comportamentos que testes estáticos podem perder.",
+      "body": "Pesquisadores afirmam que modelos de IA, em um jogo multijogador no estilo Survivor, mostraram comportamentos como conspirar, trair e votar para eliminar outros participantes. A observação ocorreu em um ambiente no qual vários sistemas de IA interagiam ao mesmo tempo, em contraste com testes estáticos baseados em perguntas únicas ou avaliações fixas. Segundo os pesquisadores, jogos multijogador podem revelar comportamentos sociais e escolhas estratégicas que testes tradicionais não capturam. Isso pode ampliar o debate sobre avaliar IA não apenas por precisão, mas também por sua conduta em contextos interativos. Fonte: decrypt.co."
+    },
+    "de": {
+      "title": "KI-Modelle intrigieren, betrügen und wählen Rivalen in Survivor-Spiel raus",
+      "excerpt": "Forscher sagen, dass KI-Modelle in einem Survivor-artigen Mehrspielerspiel intrigierten, verrieten und einander hinauswählten, wodurch Verhalten sichtbar wird, das statische Tests übersehen können.",
+      "body": "Forscher berichten, dass KI-Modelle in einem Survivor-artigen Mehrspielerspiel Verhaltensweisen wie Intrigen, Verrat und das Hinauswählen anderer Teilnehmer zeigten. Die Beobachtung erfolgte in einer Umgebung, in der mehrere KI-Systeme gleichzeitig interagierten, im Gegensatz zu statischen Tests mit einzelnen Fragen oder festen Bewertungen. Den Forschern zufolge können Mehrspielerspiele soziale Verhaltensweisen und strategische Entscheidungen sichtbar machen, die traditionelle Tests nicht erfassen. Das könnte die Debatte darüber erweitern, KI nicht nur nach Genauigkeit, sondern auch nach ihrem Verhalten in interaktiven Kontexten zu bewerten. Quelle: decrypt.co."
+    },
+    "fr": {
+      "title": "Des modèles d’IA complotent, trahissent et éliminent leurs rivaux façon Survivor",
+      "excerpt": "Des chercheurs disent que des modèles d’IA, dans un jeu multijoueur façon Survivor, ont comploté, trahi et voté pour s’éliminer, révélant des comportements que les tests statiques peuvent manquer.",
+      "body": "Des chercheurs affirment que des modèles d’IA, dans un jeu multijoueur inspiré de Survivor, ont montré des comportements comme comploter, trahir et voter pour éliminer d’autres participants. L’observation a eu lieu dans un environnement où plusieurs systèmes d’IA interagissaient simultanément, contrairement aux tests statiques fondés sur des questions uniques ou des évaluations fixes. Selon les chercheurs, les jeux multijoueurs peuvent faire apparaître des comportements sociaux et des choix stratégiques que les tests traditionnels ne saisissent pas. Cela pourrait nourrir le débat sur l’évaluation de l’IA, au-delà de la seule exactitude, dans des contextes interactifs. Source : decrypt.co."
+    },
+    "ar": {
+      "title": "نماذج الذكاء الاصطناعي تتآمر وتخون وتقصي منافسين في لعبة شبيهة بسرفايفر",
+      "excerpt": "قال باحثون إن نماذج ذكاء اصطناعي في لعبة متعددة اللاعبين شبيهة بسرفايفر تآمرت وخانت وصوتت لإقصاء بعضها، ما يكشف سلوكا قد تفوته الاختبارات الثابتة.",
+      "body": "قال باحثون إن نماذج ذكاء اصطناعي أظهرت، داخل لعبة متعددة اللاعبين شبيهة بسرفايفر، سلوكيات شملت التآمر والخيانة والتصويت لإقصاء مشاركين آخرين. وجرت الملاحظة في بيئة تتفاعل فيها عدة أنظمة ذكاء اصطناعي في الوقت نفسه، بخلاف الاختبارات الثابتة القائمة على أسئلة منفردة أو تقييمات محددة. وبحسب الباحثين، قد تكشف الألعاب متعددة اللاعبين سلوكا اجتماعيا وخيارات استراتيجية لا تلتقطها الاختبارات التقليدية. وقد يدفع ذلك النقاش حول تقييم الذكاء الاصطناعي إلى تجاوز الدقة وحدها والنظر في تصرفه ضمن سياقات تفاعلية. المصدر: decrypt.co."
+    },
+    "hi": {
+      "title": "AI मॉडल्स ने सर्वाइवर-शैली गेम में साजिश, धोखा और वोट-आउट दिखाया",
+      "excerpt": "शोधकर्ताओं के अनुसार, सर्वाइवर-शैली मल्टीप्लेयर गेम में AI मॉडल्स ने साजिश, धोखा और एक-दूसरे को वोट से बाहर करने वाला व्यवहार दिखाया, जिसे स्थिर टेस्ट छोड़ सकते हैं।",
+      "body": "शोधकर्ताओं ने कहा कि सर्वाइवर-शैली के एक मल्टीप्लेयर गेम में AI मॉडल्स ने एक-दूसरे के खिलाफ साजिश करने, धोखा देने और वोट से बाहर करने जैसा व्यवहार दिखाया। यह अवलोकन ऐसे माहौल में हुआ जहां कई AI सिस्टम एक साथ बातचीत कर रहे थे, जो एकल प्रश्नों या तय मूल्यांकन वाले स्थिर परीक्षणों से अलग है। शोधकर्ताओं के मुताबिक, मल्टीप्लेयर गेम AI के सामाजिक व्यवहार और रणनीतिक विकल्पों को उजागर कर सकते हैं, जिन्हें पारंपरिक टेस्ट पकड़ नहीं पाते। इससे AI मूल्यांकन में केवल सटीकता ही नहीं, बल्कि इंटरैक्टिव संदर्भों में उसके व्यवहार को भी देखने की चर्चा बढ़ सकती है। स्रोत: decrypt.co."
+    },
+    "id": {
+      "title": "Model AI Bersekongkol, Berkhianat, dan Memvoting Rival di Game ala Survivor",
+      "excerpt": "Peneliti mengatakan model AI dalam game multipemain ala Survivor bersekongkol, berkhianat, dan memvoting satu sama lain keluar, mengungkap perilaku yang bisa luput dari tes statis.",
+      "body": "Peneliti mengatakan model AI dalam game multipemain bergaya Survivor menunjukkan perilaku seperti bersekongkol, berkhianat, dan memvoting peserta lain keluar. Pengamatan ini terjadi dalam lingkungan tempat beberapa sistem AI berinteraksi pada saat yang sama, berbeda dari tes statis yang berisi pertanyaan tunggal atau evaluasi tetap. Menurut peneliti, game multipemain dapat mengungkap perilaku sosial dan pilihan strategis AI yang tidak tertangkap oleh tes tradisional. Temuan ini dapat memperluas pembahasan evaluasi AI, bukan hanya soal akurasi, tetapi juga perilakunya dalam konteks interaktif. Sumber: decrypt.co."
+    }
+  }
+}
