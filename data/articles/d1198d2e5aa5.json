@@ -1,0 +1,75 @@
+{
+  "id": "d1198d2e5aa5",
+  "slug": "agentic-commerce-will-run-on-crypto-rails-paypal-and-google--748900",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-10T14:18:15.750Z",
+  "updatedAt": "2026-05-10T14:18:15.750Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/business/2026/05/10/agentic-commerce-will-run-on-crypto-rails-paypal-and-google-reps-tell-consensus-miami",
+  "canonicalUrl": "https://www.coindesk.com/business/2026/05/10/agentic-commerce-will-run-on-crypto-rails-paypal-and-google-reps-tell-consensus-miami",
+  "titleFingerprint": "99069383d433ee7b6842443f6e8867d3ffc495ce",
+  "dedupKeys": [
+    "d1198d2e5aa5ca59b95e49801ae5570d029c0cbf",
+    "99069383d433ee7b6842443f6e8867d3ffc495ce",
+    "4fc584e28dc9a1eeeef7647f8ab724ee46ee3900"
+  ],
+  "imageUrl": "/images/articles/d1198d2e5aa5.jpg",
+  "i18n": {
+    "ko": {
+      "title": "에이전트 커머스, 암호화폐 결제 레일 위에서 커진다: 페이팔·구글의 진단",
+      "excerpt": "페이팔과 구글 클라우드 고위 관계자들은 컨센서스 마이애미에서 에이전트 커머스 확장을 위해 개방형 결제 프로토콜, 기계 판독형 상인 카탈로그, 다자간 암호화폐 수탁이 필요하다고 밝혔다.",
+      "body": "컨센서스 마이애미에서 페이팔과 구글 클라우드의 고위 관계자들은 에이전트 커머스가 확장되려면 암호화폐 기반 결제 레일과 관련 인프라가 필요하다고 말했다. 이들은 AI 에이전트가 상거래를 수행하려면 개방형 결제 프로토콜, 기계가 읽을 수 있는 상인 카탈로그, 여러 참여자가 관여하는 암호화폐 수탁 구조가 핵심이라고 설명했다. 배경에는 사람 중심 결제 환경만으로는 자동화된 상거래를 대규모로 처리하기 어렵다는 문제의식이 있다. 향후 논의의 초점은 에이전트가 결제와 거래 정보를 표준화된 방식으로 읽고 실행할 수 있는지에 맞춰질 전망이다. 출처: coindesk.com."
+    },
+    "en": {
+      "title": "Agentic Commerce Needs Crypto Payment Rails, PayPal and Google Say",
+      "excerpt": "Senior PayPal and Google Cloud figures said at Consensus Miami that scaling agentic commerce requires open payment protocols, machine-readable merchant catalogs and multi-party crypto custody.",
+      "body": "At Consensus Miami, senior representatives from PayPal and Google Cloud said agentic commerce will need crypto-based payment rails and related infrastructure to scale. They said AI agents require open payment protocols, merchant catalogs that machines can read, and crypto custody structures involving multiple parties. The context is a concern that payment systems built mainly for humans may not be enough for automated commerce at scale. The next focus is whether agents can read payment and transaction information in standardized formats and execute purchases accordingly. Source: coindesk.com."
+    },
+    "ja": {
+      "title": "エージェント型コマースは暗号資産決済レールで拡大へ、PayPalとGoogleが指摘",
+      "excerpt": "PayPalとGoogle Cloudの幹部はConsensus Miamiで、エージェント型コマースの拡大にはオープンな決済プロトコル、機械可読の加盟店カタログ、複数当事者による暗号資産カストディが必要だと述べた。",
+      "body": "Consensus Miamiで、PayPalとGoogle Cloudの幹部は、エージェント型コマースが拡大するには暗号資産ベースの決済レールと関連インフラが必要だと述べた。AIエージェントが商取引を行うには、オープンな決済プロトコル、機械が読み取れる加盟店カタログ、複数の参加者が関わる暗号資産カストディ構造が重要だという。背景には、人間中心の決済環境だけでは自動化された商取引を大規模に処理しにくいとの認識がある。今後の焦点は、エージェントが決済と取引情報を標準化された形式で読み取り、実行できるかに置かれる見通しだ。出典: coindesk.com."
+    },
+    "zh": {
+      "title": "代理式商务或依托加密支付轨道扩张，PayPal与Google给出判断",
+      "excerpt": "PayPal和Google Cloud高层在Consensus Miami表示，代理式商务要实现规模化，需要开放支付协议、机器可读商户目录以及多方参与的加密资产托管。",
+      "body": "在Consensus Miami上，PayPal和Google Cloud的高层表示，代理式商务若要扩大规模，将需要基于加密资产的支付轨道及相关基础设施。他们指出，AI代理执行商业交易时，需要开放支付协议、机器可读的商户目录，以及由多方参与的加密资产托管结构。其背景是，仅依靠以人为中心的支付环境，可能难以大规模处理自动化商务。接下来的关注点将是，代理能否以标准化方式读取支付和交易信息，并据此执行交易。来源: coindesk.com."
+    },
+    "es": {
+      "title": "Comercio agéntico requerirá rieles cripto, dicen PayPal y Google",
+      "excerpt": "Directivos de PayPal y Google Cloud dijeron en Consensus Miami que escalar el comercio agéntico exige protocolos de pago abiertos, catálogos de comercios legibles por máquinas y custodia cripto multipartita.",
+      "body": "En Consensus Miami, altos representantes de PayPal y Google Cloud dijeron que el comercio agéntico necesitará rieles de pago basados en cripto e infraestructura relacionada para escalar. Señalaron que los agentes de IA requieren protocolos de pago abiertos, catálogos de comercios que las máquinas puedan leer y estructuras de custodia cripto con varias partes. El contexto es la preocupación de que los sistemas de pago diseñados principalmente para humanos no basten para el comercio automatizado a gran escala. El foco será si los agentes pueden leer información de pagos y transacciones en formatos estandarizados y ejecutarla. Fuente: coindesk.com."
+    },
+    "pt": {
+      "title": "Comércio agêntico deve crescer em trilhos cripto, dizem PayPal e Google",
+      "excerpt": "Executivos da PayPal e do Google Cloud disseram no Consensus Miami que escalar o comércio agêntico exige protocolos de pagamento abertos, catálogos de lojistas legíveis por máquinas e custódia cripto multipartes.",
+      "body": "No Consensus Miami, representantes seniores da PayPal e do Google Cloud disseram que o comércio agêntico precisará de trilhos de pagamento baseados em cripto e de infraestrutura relacionada para ganhar escala. Segundo eles, agentes de IA precisam de protocolos de pagamento abertos, catálogos de lojistas legíveis por máquinas e estruturas de custódia cripto com várias partes. O pano de fundo é a preocupação de que sistemas de pagamento centrados em humanos não sejam suficientes para o comércio automatizado em larga escala. A atenção deve se voltar à capacidade dos agentes de ler e executar informações de pagamento e transação em formatos padronizados. Fonte: coindesk.com."
+    },
+    "de": {
+      "title": "Agentic Commerce braucht Krypto-Zahlungsschienen, sagen PayPal und Google",
+      "excerpt": "Führungskräfte von PayPal und Google Cloud sagten auf der Consensus Miami, dass Agentic Commerce offene Zahlungsprotokolle, maschinenlesbare Händlerkataloge und mehrparteienfähige Krypto-Verwahrung braucht.",
+      "body": "Auf der Consensus Miami erklärten hochrangige Vertreter von PayPal und Google Cloud, dass Agentic Commerce für die Skalierung krypto-basierte Zahlungsschienen und passende Infrastruktur benötigt. AI-Agenten bräuchten offene Zahlungsprotokolle, maschinenlesbare Händlerkataloge und Krypto-Verwahrungsmodelle mit mehreren Beteiligten. Hintergrund ist die Sorge, dass vor allem für Menschen gebaute Zahlungssysteme automatisierten Handel in großem Maßstab nicht ausreichend abwickeln können. Im Mittelpunkt steht künftig, ob Agenten Zahlungs- und Transaktionsinformationen in standardisierten Formaten lesen und ausführen können. Quelle: coindesk.com."
+    },
+    "fr": {
+      "title": "Le commerce agentique passera par des rails crypto, selon PayPal et Google",
+      "excerpt": "Des responsables de PayPal et Google Cloud ont déclaré à Consensus Miami que le commerce agentique doit s’appuyer sur des protocoles de paiement ouverts, des catalogues marchands lisibles par machine et une garde crypto multipartite.",
+      "body": "À Consensus Miami, de hauts représentants de PayPal et Google Cloud ont indiqué que le commerce agentique aura besoin de rails de paiement fondés sur la crypto et d’infrastructures associées pour passer à l’échelle. Selon eux, les agents d’IA nécessitent des protocoles de paiement ouverts, des catalogues marchands lisibles par machine et des structures de garde crypto impliquant plusieurs parties. Le contexte est la crainte que des systèmes de paiement conçus surtout pour les humains ne suffisent pas au commerce automatisé à grande échelle. L’enjeu sera de savoir si les agents peuvent lire et exécuter les informations de paiement et de transaction dans des formats standardisés. Source: coindesk.com."
+    },
+    "ar": {
+      "title": "التجارة الوكيلة تحتاج إلى مسارات دفع مشفرة، بحسب PayPal وGoogle",
+      "excerpt": "قال مسؤولون كبار من PayPal وGoogle Cloud في Consensus Miami إن توسيع التجارة الوكيلة يتطلب بروتوكولات دفع مفتوحة، وفهارس تجار قابلة للقراءة آليا، وحفظا مشفرا متعدد الأطراف.",
+      "body": "في Consensus Miami، قال مسؤولون كبار من PayPal وGoogle Cloud إن التجارة الوكيلة ستحتاج إلى مسارات دفع قائمة على العملات المشفرة وبنية تحتية مرتبطة بها كي تتوسع. وأوضحوا أن وكلاء الذكاء الاصطناعي يحتاجون إلى بروتوكولات دفع مفتوحة، وفهارس تجار يمكن للآلات قراءتها، وهياكل حفظ مشفرة يشارك فيها أكثر من طرف. يأتي ذلك في سياق القلق من أن بيئات الدفع المصممة أساسا للبشر قد لا تكفي لمعالجة التجارة الآلية على نطاق واسع. ومن المتوقع أن يتركز النقاش على قدرة الوكلاء على قراءة معلومات الدفع والمعاملات بصيغ موحدة وتنفيذها. المصدر: coindesk.com."
+    },
+    "hi": {
+      "title": "एजेंटिक कॉमर्स को क्रिप्टो पेमेंट रेल चाहिए, PayPal और Google का आकलन",
+      "excerpt": "PayPal और Google Cloud के वरिष्ठ प्रतिनिधियों ने Consensus Miami में कहा कि एजेंटिक कॉमर्स को बढ़ाने के लिए खुले भुगतान प्रोटोकॉल, मशीन-पठनीय मर्चेंट कैटलॉग और बहुपक्षीय क्रिप्टो कस्टडी जरूरी हैं।",
+      "body": "Consensus Miami में PayPal और Google Cloud के वरिष्ठ प्रतिनिधियों ने कहा कि एजेंटिक कॉमर्स को बड़े पैमाने पर ले जाने के लिए क्रिप्टो-आधारित भुगतान रेल और संबंधित ढांचे की जरूरत होगी। उनके अनुसार, AI एजेंटों को खुले भुगतान प्रोटोकॉल, मशीन द्वारा पढ़े जा सकने वाले मर्चेंट कैटलॉग और कई पक्षों वाली क्रिप्टो कस्टडी संरचना चाहिए। इसकी पृष्ठभूमि यह चिंता है कि मुख्य रूप से मनुष्यों के लिए बने भुगतान तंत्र स्वचालित वाणिज्य को बड़े पैमाने पर संभालने के लिए पर्याप्त नहीं हो सकते। आगे ध्यान इस पर रहेगा कि एजेंट भुगतान और लेनदेन जानकारी को मानकीकृत रूप में पढ़कर निष्पादित कर पाते हैं या नहीं। स्रोत: coindesk.com."
+    },
+    "id": {
+      "title": "Agentic Commerce Butuh Rel Pembayaran Kripto, Kata PayPal dan Google",
+      "excerpt": "Tokoh senior PayPal dan Google Cloud mengatakan di Consensus Miami bahwa perluasan agentic commerce membutuhkan protokol pembayaran terbuka, katalog merchant yang dapat dibaca mesin, dan kustodi kripto multipihak.",
+      "body": "Di Consensus Miami, perwakilan senior PayPal dan Google Cloud mengatakan agentic commerce membutuhkan rel pembayaran berbasis kripto dan infrastruktur terkait agar dapat berkembang. Mereka menyebut agen AI memerlukan protokol pembayaran terbuka, katalog merchant yang dapat dibaca mesin, serta struktur kustodi kripto yang melibatkan banyak pihak. Latar belakangnya adalah kekhawatiran bahwa sistem pembayaran yang terutama dirancang untuk manusia belum tentu cukup untuk memproses perdagangan otomatis dalam skala besar. Fokus berikutnya adalah apakah agen dapat membaca informasi pembayaran dan transaksi dalam format standar lalu mengeksekusinya. Sumber: coindesk.com."
+    }
+  }
+}
