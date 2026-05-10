@@ -13,15 +13,11 @@ const parser = new XMLParser({
 export function canonicalUrl(input: string): string {
   try {
     const u = new URL(input);
-    // Drop fragments and noisy params
     u.hash = '';
     const drop = ['utm_source','utm_medium','utm_campaign','utm_content','utm_term','fbclid','gclid','ref','ref_src','source','from'];
     drop.forEach((p) => u.searchParams.delete(p));
-    // Normalize host (lowercase, drop www.)
     u.hostname = u.hostname.toLowerCase().replace(/^www\./, '');
-    // Trailing slash off (except root)
     if (u.pathname.length > 1 && u.pathname.endsWith('/')) u.pathname = u.pathname.slice(0, -1);
-    // Sort remaining params for determinism
     const params = Array.from(u.searchParams.entries()).sort(([a],[b]) => a.localeCompare(b));
     u.search = '';
     params.forEach(([k,v]) => u.searchParams.append(k,v));
@@ -35,8 +31,8 @@ export function canonicalUrl(input: string): string {
 export function titleFingerprint(s: string): string {
   return (s || '')
     .toLowerCase()
-    .replace(/[ -⁯⸀-⹿]/g, ' ')   // unicode punctuation
-    .replace(/[^\p{L}\p{N}\s]+/gu, ' ')              // non-letter/number → space
+    .replace(/[ -⁯⸀-⹿]/g, ' ')
+    .replace(/[^\p{L}\p{N}\s]+/gu, ' ')
     .split(/\s+/).filter(Boolean).sort().join(' ');
 }
 
@@ -63,8 +59,18 @@ async function fetchOne(url: string): Promise<any> {
   return parser.parse(text);
 }
 
+/** Check if article matches at least one channel keyword. */
+function matchesChannelKeywords(title: string, description: string): boolean {
+  const keywords = (channel as any).keywords as string[] | undefined;
+  if (!keywords || keywords.length === 0) return true;
+  const haystack = ((title || '') + ' ' + (description || '')).toLowerCase();
+  return keywords.some((kw) => haystack.includes(kw.toLowerCase()));
+}
+
 export async function fetchAllSources(channelId: string): Promise<SourceItem[]> {
   const items: SourceItem[] = [];
+  let totalFetched = 0;
+  let totalDropped = 0;
   for (const src of channel.rssSources) {
     try {
       const xml = await fetchOne(src.url);
@@ -73,8 +79,15 @@ export async function fetchAllSources(channelId: string): Promise<SourceItem[]> 
       for (const it of arr) {
         const link = typeof it.link === 'string' ? it.link : it.link?.['@_href'] ?? it.link?.['#text'] ?? '';
         const title = typeof it.title === 'string' ? it.title : it.title?.['#text'] ?? '';
+        const desc = typeof it.description === 'string' ? it.description : (it.description?.['#text'] ?? it.summary?.['#text'] ?? it.summary ?? '');
         const pub = it.pubDate ?? it.published ?? it.updated ?? new Date().toISOString();
         if (!link || !title) continue;
+        totalFetched++;
+        // Topic relevance filter — drop articles not matching channel keywords
+        if (!matchesChannelKeywords(title, String(desc))) {
+          totalDropped++;
+          continue;
+        }
         items.push({
           id: stableId(link, title),
           sourceUrl: link,
@@ -89,6 +102,7 @@ export async function fetchAllSources(channelId: string): Promise<SourceItem[]> 
       console.warn(`[rss] ${src.url}: ${(err as Error).message}`);
     }
   }
+  console.log(`[rss] fetched=${totalFetched} kept=${items.length} dropped=${totalDropped} (off-topic)`);
   return items;
 }
 
