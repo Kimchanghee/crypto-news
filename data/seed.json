@@ -1,5 +1,230 @@
 [
   {
+    "id": "b697dc7c5b17",
+    "slug": "구형-반도체-끝난줄-알았는데-공장-풀가동파운드리-주가-동반-반등-780667",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-10T22:01:21.536Z",
+    "updatedAt": "2026-05-10T22:01:21.536Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042846",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042846",
+    "titleFingerprint": "5a8c5461c8ca10a49769b0831e8aa73eea2ae9d0",
+    "dedupKeys": [
+      "b697dc7c5b17dc9f8977fc25b94f0dca0e29ddb3",
+      "5a8c5461c8ca10a49769b0831e8aa73eea2ae9d0",
+      "606fd5e99a1296fcb080653f8b367cd1f3e46e0b"
+    ],
+    "imageUrl": "/images/articles/b697dc7c5b17.jpg",
+    "i18n": {
+      "ko": {
+        "title": "범용 반도체 수요 급증에 UMC·글로벌파운드리 주가 동반 반등",
+        "excerpt": "AI 데이터센터 투자 확대에 따라 범용 반도체 수요가 빠르게 늘면서 대만 UMC와 미국 글로벌파운드리 등 파운드리 업체 주가가 한 달 새 크게 반등했다.",
+        "body": "인공지능(AI) 데이터센터 투자가 확대되면서 최첨단 공정뿐 아니라 범용 반도체 수요도 급격히 늘고 있다. 한때 구형 반도체로 여겨졌던 범용 공정이 다시 주목받으며 관련 파운드리 공장이 풀가동되는 흐름이 나타났다. 대만 UMC 주가는 한 달 새 62% 상승했고, 미국 글로벌파운드리도 50% 올랐다. TSMC와 삼성전자가 주도하는 최첨단 공정 경쟁을 넘어 범용 반도체 수요 회복이 파운드리 업종 전반의 투자심리를 끌어올린 것으로 풀이된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Mature-chip demand lifts UMC and GlobalFoundries shares in broad rebound",
+        "excerpt": "As AI data center investment expands, demand for general-purpose semiconductors is rising quickly, sending shares of UMC and GlobalFoundries sharply higher over the past month.",
+        "body": "As investment in artificial intelligence data centers expands, demand is rising not only for cutting-edge chips but also for general-purpose semiconductors. Mature processes once viewed as older technology are drawing renewed attention, with related foundry plants moving toward full operation. Taiwan’s UMC shares rose 62% in one month, while U.S.-based GlobalFoundries gained 50%. Beyond the advanced-process race led by TSMC and Samsung Electronics, the recovery in mature-chip demand appears to be improving investor sentiment across the foundry sector. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "汎用半導体需要が急増、UMCとグローバルファウンドリーズ株が反発",
+        "excerpt": "AIデータセンター投資の拡大で汎用半導体需要が急速に増え、台湾UMCや米グローバルファウンドリーズなどの株価がこの1カ月で大きく反発した。",
+        "body": "人工知能（AI）データセンターへの投資拡大により、最先端工程だけでなく汎用半導体の需要も急速に増えている。かつて旧世代半導体と見なされた汎用工程が再び注目され、関連ファウンドリー工場がフル稼働する流れが出ている。台湾UMCの株価は1カ月で62%上昇し、米グローバルファウンドリーズも50%上昇した。TSMCとサムスン電子が主導する最先端工程競争を超え、汎用半導体需要の回復がファウンドリー業種全体の投資心理を押し上げたとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "通用芯片需求升温，UMC与格芯股价同步反弹",
+        "excerpt": "随着AI数据中心投资扩大，通用半导体需求快速增长，台湾UMC和美国GlobalFoundries等晶圆代工企业股价一个月内大幅反弹。",
+        "body": "随着人工智能（AI）数据中心投资扩大，半导体需求不只集中在最先进制程，通用半导体需求也在快速增加。曾被视为旧型半导体的通用制程重新受到关注，相关晶圆代工厂出现满负荷运转的趋势。台湾UMC股价一个月内上涨62%，美国GlobalFoundries也上涨50%。在台积电和三星电子主导的先进制程竞争之外，通用半导体需求复苏被认为提振了整个晶圆代工行业的投资情绪。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Demanda de chips maduros impulsa el rebote de UMC y GlobalFoundries",
+        "excerpt": "La inversión en centros de datos de IA eleva con rapidez la demanda de semiconductores de uso general y dispara en un mes las acciones de UMC y GlobalFoundries.",
+        "body": "La expansión de la inversión en centros de datos de inteligencia artificial está elevando la demanda no solo de procesos de última generación, sino también de semiconductores de uso general. Los procesos maduros, antes vistos como chips antiguos, vuelven a recibir atención, mientras las plantas de fundición relacionadas avanzan hacia plena operación. Las acciones de la taiwanesa UMC subieron 62% en un mes y GlobalFoundries, de Estados Unidos, ganó 50%. Más allá de la competencia avanzada liderada por TSMC y Samsung Electronics, la recuperación de la demanda de chips generales parece mejorar el ánimo inversor en el sector. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Demanda por chips maduros faz UMC e GlobalFoundries dispararem na bolsa",
+        "excerpt": "Com mais investimentos em data centers de IA, a demanda por semicondutores de uso geral cresce rapidamente e impulsiona UMC e GlobalFoundries em um mês.",
+        "body": "A expansão dos investimentos em data centers de inteligência artificial está elevando a demanda não apenas por processos de ponta, mas também por semicondutores de uso geral. Processos maduros, antes vistos como tecnologia antiga, voltaram a atrair atenção, com fábricas de foundry relacionadas caminhando para operação plena. As ações da taiwanesa UMC subiram 62% em um mês, enquanto a norte-americana GlobalFoundries avançou 50%. Além da disputa em processos avançados liderada por TSMC e Samsung Electronics, a retomada da demanda por chips gerais parece fortalecer o sentimento dos investidores no setor de foundry. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Reife Chips gefragt: UMC und GlobalFoundries legen kräftig zu",
+        "excerpt": "Mit steigenden Investitionen in KI-Rechenzentren wächst die Nachfrage nach Standardhalbleitern rasant, wodurch UMC und GlobalFoundries binnen eines Monats stark zulegten.",
+        "body": "Der Ausbau von Investitionen in Rechenzentren für künstliche Intelligenz treibt die Nachfrage nicht nur nach modernsten Chips, sondern auch nach Standardhalbleitern. Reife Fertigungsprozesse, die zeitweise als ältere Technologie galten, rücken wieder in den Fokus, während entsprechende Foundry-Werke in Richtung Vollauslastung laufen. Die Aktie der taiwanischen UMC stieg innerhalb eines Monats um 62%, GlobalFoundries aus den USA legte um 50% zu. Über den von TSMC und Samsung Electronics geprägten Wettbewerb bei Spitzenprozessen hinaus scheint die Erholung der Nachfrage nach Standardchips die Stimmung im gesamten Foundry-Sektor zu verbessern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La demande de puces matures relance UMC et GlobalFoundries en Bourse",
+        "excerpt": "L’essor des investissements dans les centres de données IA accroît vite la demande de semi-conducteurs généralistes, soutenant UMC et GlobalFoundries sur un mois.",
+        "body": "L’expansion des investissements dans les centres de données liés à l’intelligence artificielle fait progresser la demande non seulement pour les procédés les plus avancés, mais aussi pour les semi-conducteurs généralistes. Les procédés matures, autrefois considérés comme anciens, attirent de nouveau l’attention, avec des usines de fonderie concernées qui tendent vers une pleine activité. L’action du taïwanais UMC a gagné 62% en un mois, tandis que l’américain GlobalFoundries a progressé de 50%. Au-delà de la course aux procédés avancés menée par TSMC et Samsung Electronics, le redressement de la demande de puces généralistes semble soutenir le sentiment des investisseurs dans la fonderie. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طلب الرقائق التقليدية يدفع أسهم UMC وGlobalFoundries للارتداد",
+        "excerpt": "مع توسع استثمارات مراكز بيانات الذكاء الاصطناعي، يرتفع الطلب على أشباه الموصلات العامة بسرعة، ما دعم أسهم UMC وGlobalFoundries خلال شهر واحد.",
+        "body": "مع توسع الاستثمارات في مراكز بيانات الذكاء الاصطناعي، لا يزداد الطلب على العمليات المتقدمة فقط، بل يرتفع أيضا الطلب على أشباه الموصلات العامة. العمليات الناضجة التي عُدت سابقا تقنية قديمة عادت إلى دائرة الاهتمام، مع اتجاه مصانع المسابك المرتبطة بها إلى العمل بكامل طاقتها. ارتفع سهم شركة UMC التايوانية 62% خلال شهر واحد، كما صعد سهم GlobalFoundries الأميركية 50%. وبعيدا عن سباق العمليات المتقدمة الذي تقوده TSMC وسامسونغ إلكترونيكس، يبدو أن تعافي الطلب على الرقائق العامة رفع معنويات المستثمرين في قطاع المسابك عموما. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "पुराने माने गए चिप्स की मांग बढ़ी, UMC और GlobalFoundries के शेयर उछले",
+        "excerpt": "AI डेटा सेंटर निवेश बढ़ने से सामान्य उपयोग वाले सेमीकंडक्टरों की मांग तेज हुई, जिससे UMC और GlobalFoundries जैसे फाउंड्री शेयर एक महीने में मजबूत उछले।",
+        "body": "कृत्रिम बुद्धिमत्ता डेटा सेंटरों में निवेश बढ़ने से मांग केवल अत्याधुनिक प्रक्रियाओं वाले चिप्स तक सीमित नहीं रही, बल्कि सामान्य उपयोग वाले सेमीकंडक्टरों की मांग भी तेजी से बढ़ी है। जिन परिपक्व प्रक्रियाओं को कभी पुराने चिप्स माना जाता था, वे फिर चर्चा में हैं और संबंधित फाउंड्री संयंत्रों के पूर्ण क्षमता पर चलने की स्थिति दिख रही है। ताइवान की UMC का शेयर एक महीने में 62% बढ़ा, जबकि अमेरिका की GlobalFoundries 50% चढ़ी। TSMC और Samsung Electronics के नेतृत्व वाली उन्नत प्रक्रिया प्रतिस्पर्धा से आगे, सामान्य चिप मांग की वापसी ने फाउंड्री क्षेत्र में निवेश भावना को सहारा दिया माना जा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Permintaan chip matang naik, saham UMC dan GlobalFoundries ikut rebound",
+        "excerpt": "Investasi pusat data AI yang meluas membuat permintaan semikonduktor umum meningkat cepat, mendorong saham UMC dan GlobalFoundries melonjak dalam sebulan.",
+        "body": "Seiring meluasnya investasi pusat data kecerdasan buatan, permintaan semikonduktor tidak hanya meningkat pada proses tercanggih, tetapi juga pada chip umum. Proses matang yang sempat dianggap sebagai teknologi lama kembali mendapat perhatian, dengan pabrik foundry terkait bergerak menuju operasi penuh. Saham UMC Taiwan naik 62% dalam satu bulan, sementara GlobalFoundries asal Amerika Serikat menguat 50%. Di luar persaingan proses mutakhir yang dipimpin TSMC dan Samsung Electronics, pemulihan permintaan chip umum tampaknya mengangkat sentimen investasi di sektor foundry secara keseluruhan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e3a5a9940826",
+    "slug": "511-mk-추천매물-동탄신도시-98대-본사-직영-슈퍼-30억7천만원-등-994953",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-10T22:00:32.763Z",
+    "updatedAt": "2026-05-10T22:00:32.763Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042847",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042847",
+    "titleFingerprint": "d9ca37d7e7fb53d72f3be97f308108c970f70dd3",
+    "dedupKeys": [
+      "e3a5a99408266d3d14789fe8ac443be649a76452",
+      "d9ca37d7e7fb53d72f3be97f308108c970f70dd3",
+      "5004536512bc06dac6542affd2dfb2b3a1a21012"
+    ],
+    "imageUrl": "/images/articles/e3a5a9940826.jpg",
+    "i18n": {
+      "ko": {
+        "title": "동탄신도시 본사 직영 슈퍼 30억7000만원, MK 추천매물 공개",
+        "excerpt": "매일경제가 5월 11일 MK 추천매물로 동탄신도시 본사 직영 슈퍼와 아산시 인주면 산업단지 내 대형 공장 등 부동산 매물 정보를 공개했다.",
+        "body": "매일경제는 5월 11일 ‘MK 추천매물’을 통해 동탄신도시 본사 직영 슈퍼와 아산시 인주면 산업단지 내 대형 공장 등 주요 부동산 매물을 소개했다. 공개된 매물에는 동탄신도시의 9.8%대 본사 직영 슈퍼가 30억7000만원에 포함됐다. 또 아산시 인주면 산업단지 내 대형 공장은 공장용지 2만5330㎡, 연면적 1만7865㎡ 규모로 제시됐다. 해당 공장은 210m*80m 규모의 지상 3층 사무동과 대형 단층 형태의 공장으로 구성되며 매매가는 260억원이다. 이번 정보는 투자자와 실수요자가 상업용·산업용 부동산 매물의 규모와 가격을 비교하는 참고 자료가 될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Dongtan Supermarket at 3.07 Billion Won Featured in MK Property Picks",
+        "excerpt": "Maeil Business Newspaper released its May 11 MK recommended listings, including a headquarters-operated supermarket in Dongtan New Town and a large factory in Asan’s Inju industrial complex.",
+        "body": "Maeil Business Newspaper introduced key real estate listings on May 11 through its “MK Recommended Listings,” including a headquarters-operated supermarket in Dongtan New Town and a large factory in the industrial complex of Inju-myeon, Asan. The listed Dongtan New Town supermarket, described as headquarters-operated with a yield in the 9.8% range, was priced at 3.07 billion won. The Asan factory was presented with 25,330 square meters of factory land and a total floor area of 17,865 square meters. It consists of a three-story office building measuring 210m by 80m and a large single-story factory, with an asking price of 26 billion won. The data may help investors and end users compare the size and price of commercial and industrial properties. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "東灘新都市の本社直営スーパー30億7000万ウォン、MK推薦物件に掲載",
+        "excerpt": "毎日経済は5月11日、MK推薦物件として東灘新都市の本社直営スーパーや牙山市仁州面産業団地内の大型工場などを公開した。",
+        "body": "毎日経済は5月11日、「MK推薦物件」を通じて、東灘新都市の本社直営スーパーと牙山市仁州面の産業団地内にある大型工場など、主要な不動産物件を紹介した。公開された物件には、東灘新都市の利回り9.8%台の本社直営スーパーが30億7000万ウォンで含まれている。また、牙山市仁州面産業団地内の大型工場は、工場用地2万5330平方メートル、延べ床面積1万7865平方メートルの規模として提示された。同工場は210m*80m規模の地上3階建て事務棟と大型平屋形式の工場で構成され、売買価格は260億ウォン。今回の情報は、投資家や実需者が商業用・産業用不動産の規模と価格を比較する参考資料となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "东滩新城总部直营超市标价30.7亿韩元，入选MK推荐房源",
+        "excerpt": "每日经济5月11日发布MK推荐房源，涵盖东滩新城总部直营超市以及牙山市仁州面产业园区内大型工厂等房地产信息。",
+        "body": "每日经济于5月11日通过“MK推荐房源”介绍了东滩新城总部直营超市、牙山市仁州面产业园区内大型工厂等主要房地产项目。公开信息显示，东滩新城一处收益率为9.8%左右的总部直营超市标价30.7亿韩元。另有位于牙山市仁州面产业园区内的大型工厂，工厂用地面积为25330平方米，总建筑面积为17865平方米。该工厂由一栋规模为210米*80米的地上三层办公楼和大型单层工厂组成，售价为260亿韩元。相关信息可供投资者和实际需求方比较商业及工业地产的规模与价格。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Supermercado en Dongtan por 3.070 millones de wones aparece en MK",
+        "excerpt": "Maeil Business Newspaper publicó el 11 de mayo sus inmuebles recomendados MK, con un supermercado operado por la sede en Dongtan y una gran fábrica en Asan.",
+        "body": "Maeil Business Newspaper presentó el 11 de mayo, en sus “inmuebles recomendados MK”, varios activos inmobiliarios clave, entre ellos un supermercado operado directamente por la sede en Dongtan New Town y una gran fábrica en el complejo industrial de Inju-myeon, Asan. El supermercado de Dongtan, descrito con una rentabilidad en el rango del 9,8%, fue listado en 3.070 millones de wones. La fábrica de Asan se presentó con 25.330 metros cuadrados de terreno industrial y una superficie construida total de 17.865 metros cuadrados. Está formada por un edificio de oficinas de tres plantas de 210m*80m y una fábrica grande de una sola planta, con precio de venta de 26.000 millones de wones. La información puede servir para comparar tamaño y precio de inmuebles comerciales e industriales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Supermercado em Dongtan por 3,07 bilhões de wons entra nas escolhas MK",
+        "excerpt": "O Maeil Business Newspaper divulgou em 11 de maio imóveis recomendados pela MK, incluindo um supermercado em Dongtan e uma grande fábrica em Asan.",
+        "body": "O Maeil Business Newspaper apresentou em 11 de maio, por meio das “recomendações de imóveis MK”, listagens importantes como um supermercado operado diretamente pela sede em Dongtan New Town e uma grande fábrica no complexo industrial de Inju-myeon, em Asan. O supermercado de Dongtan, descrito com rendimento na faixa de 9,8%, foi listado por 3,07 bilhões de wons. A fábrica em Asan foi apresentada com 25.330 metros quadrados de terreno fabril e área construída total de 17.865 metros quadrados. O imóvel inclui um prédio administrativo de três andares, com 210m*80m, e uma grande fábrica térrea, pelo preço de 26 bilhões de wons. Os dados podem ajudar investidores e usuários finais a comparar porte e preço de imóveis comerciais e industriais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Dongtan-Supermarkt für 3,07 Mrd. Won in MK-Empfehlungen gelistet",
+        "excerpt": "Maeil Business Newspaper veröffentlichte am 11. Mai MK-Empfehlungen mit einem direkt betriebenen Supermarkt in Dongtan und einer großen Fabrik in Asan.",
+        "body": "Maeil Business Newspaper stellte am 11. Mai in den „MK empfohlenen Objekten“ wichtige Immobilienangebote vor, darunter einen von der Zentrale direkt betriebenen Supermarkt in Dongtan New Town und eine große Fabrik im Industriegebiet Inju-myeon in Asan. Der Supermarkt in Dongtan, beschrieben mit einer Rendite im Bereich von 9,8%, wurde mit 3,07 Milliarden Won gelistet. Die Fabrik in Asan wurde mit 25.330 Quadratmetern Fabrikgrundstück und 17.865 Quadratmetern Gesamtfläche angegeben. Sie besteht aus einem dreistöckigen Bürogebäude im Format 210m*80m und einer großen eingeschossigen Fabrik; der Verkaufspreis beträgt 26 Milliarden Won. Die Angaben können Investoren und Eigennutzern als Vergleich von Größe und Preis gewerblicher und industrieller Immobilien dienen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Supermarché de Dongtan à 3,07 milliards de wons dans les choix MK",
+        "excerpt": "Maeil Business Newspaper a publié le 11 mai ses biens recommandés MK, dont un supermarché exploité par le siège à Dongtan et une grande usine à Asan.",
+        "body": "Maeil Business Newspaper a présenté le 11 mai, dans ses « biens recommandés MK », plusieurs annonces immobilières majeures, dont un supermarché exploité directement par le siège à Dongtan New Town et une grande usine dans la zone industrielle d’Inju-myeon, à Asan. Le supermarché de Dongtan, décrit avec un rendement autour de 9,8%, est proposé à 3,07 milliards de wons. L’usine d’Asan est indiquée avec 25 330 mètres carrés de terrain industriel et une surface totale de 17 865 mètres carrés. Elle comprend un immeuble de bureaux de trois étages de 210m*80m et une grande usine de plain-pied, pour un prix de vente de 26 milliards de wons. Ces informations peuvent aider investisseurs et utilisateurs finaux à comparer taille et prix des biens commerciaux et industriels. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سوبرماركت دونغتان بسعر 3.07 مليار وون ضمن عقارات MK الموصى بها",
+        "excerpt": "نشرت صحيفة ماييل الاقتصادية في 11 مايو عقارات MK الموصى بها، وتشمل سوبرماركت تديره الشركة في دونغتان ومصنعا كبيرا في مجمع أسان الصناعي.",
+        "body": "قدمت صحيفة ماييل الاقتصادية في 11 مايو، عبر قائمة «عقارات MK الموصى بها»، عقارات رئيسية منها سوبرماركت تديره الشركة الأم مباشرة في مدينة دونغتان الجديدة ومصنع كبير داخل المجمع الصناعي في إنجو-ميون بمدينة أسان. وظهر سوبرماركت دونغتان، الموصوف بعائد في نطاق 9.8%، بسعر 3.07 مليار وون. كما عُرض مصنع أسان على أرض صناعية مساحتها 25330 مترا مربعا وبمساحة طابقية إجمالية تبلغ 17865 مترا مربعا. ويتكون من مبنى مكاتب من ثلاثة طوابق بقياس 210م*80م ومصنع كبير من طابق واحد، بسعر بيع يبلغ 26 مليار وون. ويمكن أن تساعد هذه البيانات المستثمرين والمستخدمين الفعليين في مقارنة حجم وأسعار العقارات التجارية والصناعية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "डोंगतान सुपरमार्केट 3.07 अरब वॉन में MK अनुशंसित संपत्ति सूची में",
+        "excerpt": "मैइल बिजनेस न्यूजपेपर ने 11 मई को MK अनुशंसित संपत्तियां जारी कीं, जिनमें डोंगतान का मुख्यालय-संचालित सुपरमार्केट और आसन की बड़ी फैक्टरी शामिल हैं।",
+        "body": "मैइल बिजनेस न्यूजपेपर ने 11 मई को “MK अनुशंसित संपत्तियों” के जरिए प्रमुख रियल एस्टेट सूचियां पेश कीं, जिनमें डोंगतान न्यू टाउन का मुख्यालय द्वारा सीधे संचालित सुपरमार्केट और आसन शहर के इंजु-म्योन औद्योगिक परिसर की बड़ी फैक्टरी शामिल है। डोंगतान का यह सुपरमार्केट, जिसे 9.8% के दायरे की उपज वाला बताया गया, 3.07 अरब वॉन में सूचीबद्ध है। आसन की फैक्टरी 25,330 वर्ग मीटर फैक्टरी भूमि और 17,865 वर्ग मीटर कुल फ्लोर एरिया के साथ बताई गई। इसमें 210m*80m आकार का तीन मंजिला कार्यालय भवन और बड़ी एकमंजिला फैक्टरी शामिल है, जिसकी कीमत 26 अरब वॉन है। यह जानकारी निवेशकों और वास्तविक उपयोगकर्ताओं को वाणिज्यिक व औद्योगिक संपत्तियों के आकार और कीमत की तुलना में मदद कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Supermarket Dongtan Rp Setara 3,07 Miliar Won Masuk Rekomendasi MK",
+        "excerpt": "Maeil Business Newspaper pada 11 Mei merilis daftar properti rekomendasi MK, termasuk supermarket yang dikelola kantor pusat di Dongtan dan pabrik besar di Asan.",
+        "body": "Maeil Business Newspaper pada 11 Mei memperkenalkan daftar properti utama melalui “Rekomendasi Properti MK”, termasuk supermarket yang dikelola langsung oleh kantor pusat di Dongtan New Town dan pabrik besar di kawasan industri Inju-myeon, Asan. Supermarket di Dongtan tersebut, yang disebut memiliki imbal hasil di kisaran 9,8%, tercantum dengan harga 3,07 miliar won. Pabrik di Asan ditawarkan dengan lahan pabrik 25.330 meter persegi dan luas lantai total 17.865 meter persegi. Properti itu terdiri dari gedung kantor tiga lantai berukuran 210m*80m dan pabrik besar satu lantai, dengan harga jual 26 miliar won. Informasi ini dapat menjadi acuan bagi investor dan pengguna akhir untuk membandingkan ukuran serta harga properti komersial dan industri. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ce17cc0ed359",
+    "slug": "엔비디아랑-구글-어느-쪽이-유망하죠장단기-투자전략-들어보니-915265",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-10T21:59:25.601Z",
+    "updatedAt": "2026-05-10T21:59:25.601Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042849",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042849",
+    "titleFingerprint": "9d7463a3c4691f66814b4467742f25e4ac19e184",
+    "dedupKeys": [
+      "ce17cc0ed3596fec2935c72cdde6f48d26b8fe67",
+      "9d7463a3c4691f66814b4467742f25e4ac19e184",
+      "f35883dfce028b668a925b9b8002bf5be4647c75"
+    ],
+    "imageUrl": "/images/articles/ce17cc0ed359.jpg",
+    "i18n": {
+      "ko": {
+        "title": "엔비디아·구글 AI 투자전략 비교, GPU와 데이터센터 수요가 가른 유망주",
+        "excerpt": "AI 패권 경쟁 속 엔비디아와 구글의 투자 매력이 주목받고 있다. GPU, 메모리, 하이퍼스케일러 데이터센터 수요가 핵심 변수로 제시됐다.",
+        "body": "AI 패권 경쟁이 본격화되면서 시가총액 1, 2위권 기업인 엔비디아와 구글 가운데 어느 쪽이 더 유망한지에 대한 투자자 관심이 커지고 있다. 원문은 반도체 투자의 최대 수혜 분야로 GPU를 꼽으며, 엔비디아가 GPU 수요를 바탕으로 시총 왕좌에 올랐다고 전했다. 메모리 기업 마이크론도 AI 흐름 속에서 급성장한 사례로 언급됐다. 배경에는 하이퍼스케일러의 컴퓨팅 데이터센터 수요 급증이 있다. AI 시대의 ‘금광’으로 불리는 데이터센터 투자가 확대되며 알파벳 역시 관련 수요의 중심에 놓였다는 설명이다. 단기적으로는 GPU와 메모리 수요, 장기적으로는 데이터센터와 컴퓨팅 인프라가 투자 판단의 핵심 변수로 제시됐다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Nvidia vs Google AI Investment Strategy: GPU and Data Center Demand in Focus",
+        "excerpt": "Investor attention is turning to Nvidia and Google as AI dominance intensifies. GPU, memory, and hyperscaler data center demand were cited as key factors.",
+        "body": "As the race for AI dominance accelerates, investors are asking which looks more promising between Nvidia and Google, two companies at the top of the market-cap rankings. The source highlighted GPUs as the biggest beneficiary in semiconductor investing and said Nvidia rose to the market-cap throne on strong GPU demand. Micron was also cited as a memory company growing rapidly in the AI trend. The broader backdrop is surging demand for hyperscaler computing data centers. As data center investment, described as a “gold mine” of the AI era, expands, Alphabet is also positioned at the center of related demand. In the short term, GPU and memory demand were presented as key variables, while data centers and computing infrastructure were framed as longer-term factors. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "エヌビディアとグーグルのAI投資戦略、GPUとデータセンター需要が焦点",
+        "excerpt": "AI覇権争いが強まるなか、エヌビディアとグーグルの投資妙味に注目が集まる。GPU、メモリ、ハイパースケーラーのデータセンター需要が主要変数とされた。",
+        "body": "AI覇権競争が本格化するなか、時価総額上位のエヌビディアとグーグルのどちらが有望か、投資家の関心が高まっている。原文は半導体投資の最大の恩恵分野としてGPUを挙げ、エヌビディアがGPU需要を背景に時価総額の頂点に立ったと伝えた。メモリ企業マイクロンもAIの流れの中で急成長した事例として言及された。背景にはハイパースケーラーのコンピューティング向けデータセンター需要の急増がある。AI時代の「金鉱」と呼ばれるデータセンター投資が拡大し、アルファベットも関連需要の中心にあるという説明だ。短期的にはGPUとメモリ需要、長期的にはデータセンターとコンピューティング基盤が投資判断の主要変数とされた。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "英伟达与谷歌AI投资策略对比：GPU和数据中心需求成关键",
+        "excerpt": "随着AI霸权竞争升温，英伟达与谷歌的投资吸引力受到关注。GPU、内存和超大规模数据中心需求被视为核心变量。",
+        "body": "随着AI霸权竞争加速，投资者越来越关注市值排名前列的英伟达和谷歌哪一方更具前景。原文指出，GPU是半导体投资的最大受益领域，并称英伟达凭借GPU需求登上市值王座。存储企业美光也被提及为在AI浪潮中快速成长的案例。其背景是超大规模企业对计算型数据中心的需求急剧增加。随着被称为AI时代“金矿”的数据中心投资扩大，Alphabet也处在相关需求的中心。短期来看，GPU和内存需求是关键变量；长期来看，数据中心和计算基础设施被视为投资判断的重要因素。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Nvidia vs Google en IA: la demanda de GPU y centros de datos marca la estrategia",
+        "excerpt": "Con la competencia por el liderazgo en IA, crece el interés por Nvidia y Google. La demanda de GPU, memoria y centros de datos de hiperescaladores aparece como variable clave.",
+        "body": "A medida que se intensifica la carrera por el liderazgo en IA, aumenta el interés de los inversores por saber cuál es más prometedora, Nvidia o Google, dos compañías situadas entre las mayores por capitalización bursátil. El texto original señaló a las GPU como el principal beneficiario de la inversión en semiconductores y explicó que Nvidia alcanzó el primer puesto por valor de mercado gracias a esa demanda. Micron también fue mencionada como una empresa de memoria que crece con fuerza en la ola de la IA. El contexto es el fuerte aumento de la demanda de centros de datos de computación por parte de los hiperescaladores. Con la expansión de la inversión en centros de datos, descritos como la “mina de oro” de la era de la IA, Alphabet también queda en el centro de esa demanda. A corto plazo, las GPU y la memoria son variables clave; a largo plazo, lo son los centros de datos y la infraestructura de computación. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Nvidia vs Google em IA: demanda por GPUs e data centers orienta estratégia",
+        "excerpt": "Com a disputa pela liderança em IA, Nvidia e Google atraem atenção dos investidores. GPUs, memória e data centers de hiperescaladores foram apontados como fatores centrais.",
+        "body": "Com a intensificação da disputa pela liderança em IA, investidores observam qual parece mais promissora entre Nvidia e Google, empresas no topo do ranking de valor de mercado. O texto original apontou as GPUs como o maior benefício para investimentos em semicondutores e afirmou que a Nvidia chegou ao topo em valor de mercado apoiada pela demanda por GPUs. A Micron também foi citada como uma empresa de memória em forte crescimento dentro da tendência de IA. O pano de fundo é o salto na demanda por data centers de computação dos hiperescaladores. À medida que cresce o investimento em data centers, chamados de “mina de ouro” da era da IA, a Alphabet também aparece no centro dessa demanda. No curto prazo, GPUs e memória são variáveis importantes; no longo prazo, data centers e infraestrutura de computação pesam na avaliação. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Nvidia oder Google bei KI: GPU- und Rechenzentrumsnachfrage prägt Strategie",
+        "excerpt": "Im KI-Machtkampf rücken Nvidia und Google in den Fokus der Anleger. GPU-, Speicher- und Hyperscaler-Rechenzentrumsnachfrage gelten als zentrale Faktoren.",
+        "body": "Mit dem zunehmenden Wettbewerb um die KI-Vorherrschaft wächst das Interesse der Anleger daran, ob Nvidia oder Google, beide unter den größten Unternehmen nach Marktkapitalisierung, aussichtsreicher ist. Der Ausgangstext nennt GPUs als größten Nutznießer von Halbleiterinvestitionen und berichtet, dass Nvidia dank der GPU-Nachfrage an die Spitze der Marktkapitalisierung aufstieg. Auch Micron wurde als Speicherunternehmen erwähnt, das im KI-Trend stark wächst. Hintergrund ist die stark steigende Nachfrage der Hyperscaler nach Computing-Rechenzentren. Da Investitionen in Rechenzentren, die als „Goldmine” des KI-Zeitalters bezeichnet werden, zunehmen, steht auch Alphabet im Zentrum dieser Nachfrage. Kurzfristig gelten GPU- und Speichernachfrage als Schlüsselgrößen, langfristig Rechenzentren und Computing-Infrastruktur. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Nvidia ou Google dans l’IA : GPU et centres de données guident la stratégie",
+        "excerpt": "Face à la bataille pour la domination de l’IA, Nvidia et Google attirent les investisseurs. GPU, mémoire et centres de données d’hyperscalers sont les variables clés.",
+        "body": "Alors que la course à la domination de l’IA s’intensifie, les investisseurs s’interrogent sur le potentiel de Nvidia et de Google, deux groupes situés au sommet des capitalisations boursières. Le texte d’origine présente les GPU comme les principaux bénéficiaires de l’investissement dans les semi-conducteurs et indique que Nvidia a pris la tête en capitalisation grâce à cette demande. Micron est également cité comme un acteur de la mémoire en forte croissance dans la tendance IA. Le contexte est la forte hausse de la demande de centres de données de calcul chez les hyperscalers. Avec l’expansion des investissements dans les centres de données, décrits comme la “mine d’or” de l’ère de l’IA, Alphabet se trouve aussi au centre de cette demande. À court terme, GPU et mémoire sont les variables clés; à long terme, les centres de données et l’infrastructure de calcul dominent l’analyse. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "إنفيديا أم غوغل في الذكاء الاصطناعي: الطلب على GPU ومراكز البيانات يحسم الاستراتيجية",
+        "excerpt": "مع احتدام سباق الهيمنة في الذكاء الاصطناعي، يزداد اهتمام المستثمرين بإنفيديا وغوغل. وتبرز وحدات GPU والذاكرة ومراكز بيانات الشركات فائقة الحجم كعوامل رئيسية.",
+        "body": "مع تسارع المنافسة على الهيمنة في الذكاء الاصطناعي، يتزايد اهتمام المستثمرين بمعرفة أيهما أكثر وعدا بين إنفيديا وغوغل، وهما من أكبر الشركات من حيث القيمة السوقية. أشار النص الأصلي إلى أن وحدات GPU هي أكبر مستفيد من الاستثمار في أشباه الموصلات، وذكر أن إنفيديا اعتلت صدارة القيمة السوقية بفضل الطلب على هذه الوحدات. كما ذُكرت مايكـرون كمثال لشركة ذاكرة حققت نموا سريعا ضمن موجة الذكاء الاصطناعي. وتتمثل الخلفية في الارتفاع الحاد للطلب على مراكز بيانات الحوسبة لدى الشركات فائقة الحجم. ومع توسع الاستثمار في مراكز البيانات، التي توصف بأنها “منجم ذهب” عصر الذكاء الاصطناعي، تقف ألفابت أيضا في قلب هذا الطلب. وعلى المدى القصير، تعد وحدات GPU والذاكرة عوامل محورية، بينما تبرز مراكز البيانات وبنية الحوسبة التحتية على المدى الطويل. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "AI निवेश में Nvidia बनाम Google: GPU और डेटा सेंटर मांग बनी मुख्य कसौटी",
+        "excerpt": "AI प्रभुत्व की होड़ तेज होने के बीच Nvidia और Google पर निवेशकों की नजर है। GPU, मेमोरी और हाइपरस्केलर डेटा सेंटर मांग को प्रमुख कारक बताया गया।",
+        "body": "AI प्रभुत्व की प्रतिस्पर्धा तेज होने के साथ निवेशकों की दिलचस्पी बढ़ रही है कि बाजार पूंजीकरण में शीर्ष कंपनियों में शामिल Nvidia और Google में कौन अधिक संभावनाशील है। मूल रिपोर्ट ने सेमीकंडक्टर निवेश का सबसे बड़ा लाभार्थी GPU को बताया और कहा कि GPU मांग के दम पर Nvidia बाजार मूल्य के शीर्ष पर पहुंची। मेमोरी कंपनी Micron को भी AI रुझान में तेज वृद्धि के उदाहरण के रूप में उल्लेखित किया गया। इसके पीछे हाइपरस्केलर कंपनियों की कंप्यूटिंग डेटा सेंटर मांग में तेज उछाल है। AI युग की “सोने की खान” कहे जाने वाले डेटा सेंटर निवेश के विस्तार के साथ Alphabet भी संबंधित मांग के केंद्र में है। अल्प अवधि में GPU और मेमोरी मांग, जबकि दीर्घ अवधि में डेटा सेंटर और कंप्यूटिंग इंफ्रास्ट्रक्चर निवेश निर्णय के प्रमुख कारक बताए गए। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Nvidia vs Google dalam AI: Permintaan GPU dan Data Center Jadi Penentu Strategi",
+        "excerpt": "Saat persaingan dominasi AI menguat, Nvidia dan Google menjadi sorotan investor. Permintaan GPU, memori, dan data center hyperscaler disebut sebagai faktor utama.",
+        "body": "Ketika persaingan dominasi AI semakin intens, perhatian investor meningkat pada mana yang lebih menjanjikan antara Nvidia dan Google, dua perusahaan di jajaran teratas kapitalisasi pasar. Teks asli menyebut GPU sebagai penerima manfaat terbesar dalam investasi semikonduktor dan mengatakan Nvidia naik ke puncak kapitalisasi pasar berkat permintaan GPU. Micron juga disebut sebagai perusahaan memori yang tumbuh pesat dalam tren AI. Latar belakangnya adalah lonjakan permintaan data center komputasi dari hyperscaler. Seiring investasi data center, yang disebut “tambang emas” era AI, terus meluas, Alphabet juga berada di pusat permintaan terkait. Dalam jangka pendek, permintaan GPU dan memori menjadi variabel utama; dalam jangka panjang, data center dan infrastruktur komputasi menjadi faktor penilaian investasi. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "82e9208f342f",
     "slug": "애플-뜻밖의-암초-굴욕빈틈-파고든-삼성은-웃는다-테크로그-154357",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Menteri Keuangan AS Bessent Dijadwalkan Berkunjung ke Korea Selatan pada 13",
         "excerpt": "Menteri Keuangan AS Bessent dijadwalkan mengunjungi Korea Selatan pada tanggal 13, menurut mk.co.kr. Laporan asli tidak merinci tujuan atau agenda kunjungan.",
         "body": "Menteri Keuangan Amerika Serikat Bessent dijadwalkan mengunjungi Korea Selatan pada tanggal 13, lapor mk.co.kr. Berita asli dipublikasikan dalam format kabar mendadak dan tidak memuat informasi tambahan mengenai tujuan kunjungan, rincian agenda, pihak yang akan ditemui, atau lama tinggal. Fakta utama yang terkonfirmasi dalam laporan tersebut adalah bahwa kunjungan Menteri Keuangan AS ke Korea Selatan dijadwalkan pada tanggal 13. Kunjungan kepala Departemen Keuangan AS dapat menarik perhatian terkait agenda ekonomi, keuangan, dan perdagangan antara Korea Selatan dan Amerika Serikat, tetapi laporan asli tidak mencantumkan agenda spesifik. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "ee699fd5171b",
-    "slug": "젓가락-올린-맥주잔에-소주잔-살짝미국-토크쇼에-소맥이-왜-나와-934664",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T13:05:54.355Z",
-    "updatedAt": "2026-05-10T13:05:54.355Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042824",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042824",
-    "titleFingerprint": "25cfb3c4ed69f9f4a28c2a2aad1d018a0d4a735f",
-    "dedupKeys": [
-      "ee699fd5171baae5fab437474a37c5abf5e80c27",
-      "25cfb3c4ed69f9f4a28c2a2aad1d018a0d4a735f",
-      "31fa165c3922c9da04cab14d76db84a1fc093015"
-    ],
-    "imageUrl": "/images/articles/ee699fd5171b.png",
-    "i18n": {
-      "ko": {
-        "title": "소맥 퍼포먼스, 미국 ‘지미 팰런 쇼’서 등장한 이유와 반응",
-        "excerpt": "지난 8일 현지시간 NBC ‘지미 팰런 쇼’에서 한국식 소맥을 섞는 장면과 “원, 투, 쓰리! 건배!” 구호가 소개되며 한국 음주 문화가 미국 토크쇼 무대에 올랐다.",
-        "body": "지난 8일(현지시간) 미국 NBC 인기 토크쇼 ‘지미 팰런 쇼’에서 한국식 소맥 문화가 소개됐다. 방송에서는 맥주잔 위에 젓가락을 올리고 그 위에 소주잔을 살짝 놓는 방식의 퍼포먼스와 함께 “원, 투, 쓰리! 건배!”라는 구호가 울려 퍼졌다. 소맥은 소주와 맥주를 섞어 마시는 한국식 음주 방식으로, 이번 장면은 미국 대중 예능 프로그램에서 한국식 술 문화가 직접 연출됐다는 점에서 눈길을 끌었다. 한류 콘텐츠와 함께 음식·음료 문화에 대한 관심도 확산되는 가운데, 소맥 퍼포먼스는 한국식 건배 문화가 해외 시청자에게 노출된 사례로 기록된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Somaek Performance Appears on NBC’s ‘Jimmy Fallon Show’",
-        "excerpt": "On May 8 local time, NBC’s ‘The Jimmy Fallon Show’ featured a Korean-style somaek mixing performance and the toast “One, two, three! Cheers!” on a U.S. talk-show stage.",
-        "body": "On May 8 local time, Korean somaek culture was introduced on NBC’s popular U.S. talk show ‘The Jimmy Fallon Show.’ The broadcast showed a performance in which chopsticks were placed across a beer glass and a soju glass was gently set on top, followed by the chant, “One, two, three! Cheers!” Somaek is a Korean drinking style that mixes soju and beer. The scene drew attention because Korean drinking culture was directly staged on a mainstream American entertainment program. As interest in Korean food and beverage culture spreads alongside Korean pop culture, the somaek performance became another example of Korean toast culture reaching overseas viewers. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ソメク演出、米NBC『ジミー・ファロン・ショー』に登場",
-        "excerpt": "現地時間5月8日、NBC『ジミー・ファロン・ショー』で韓国式ソメクを作る演出と「ワン、ツー、スリー！乾杯！」の掛け声が紹介された。",
-        "body": "現地時間5月8日、米NBCの人気トーク番組『ジミー・ファロン・ショー』で韓国式ソメク文化が紹介された。番組では、ビールグラスの上に箸を置き、その上に焼酎グラスをそっと載せるパフォーマンスとともに、「ワン、ツー、スリー！乾杯！」という掛け声が響いた。ソメクは焼酎とビールを混ぜて飲む韓国式の飲酒スタイルだ。今回の場面は、米国の大衆娯楽番組で韓国の酒文化が直接演出された点で注目を集めた。韓流コンテンツとともに食や飲料文化への関心も広がる中、ソメクの演出は韓国式乾杯文化が海外視聴者に紹介された事例となった。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩式“烧麦”登上美国NBC《吉米·法伦秀》引关注",
-        "excerpt": "当地时间5月8日，NBC《吉米·法伦秀》展示韩国式烧酒加啤酒的“烧麦”调制表演，并喊出“One, two, three! Cheers!”。",
-        "body": "当地时间5月8日，美国NBC人气脱口秀《吉米·法伦秀》介绍了韩国式“烧麦”文化。节目中，表演者把筷子架在啤酒杯上，再将烧酒杯轻轻放在其上，并伴随“One, two, three! Cheers!”的干杯口号。“烧麦”是把韩国烧酒与啤酒混合饮用的一种韩国饮酒方式。此次画面之所以受到关注，是因为韩国酒文化被直接搬上美国大众娱乐节目舞台。随着韩流内容传播，韩国饮食和饮品文化也受到更多关注，这次“烧麦”表演成为韩国式干杯文化接触海外观众的一个案例。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El somaek coreano llega a NBC en ‘The Jimmy Fallon Show’",
-        "excerpt": "El 8 de mayo, hora local, NBC mostró en ‘The Jimmy Fallon Show’ una mezcla coreana de somaek con el brindis “One, two, three! Cheers!” ante la audiencia estadounidense.",
-        "body": "El 8 de mayo, hora local, la cultura coreana del somaek fue presentada en el popular programa estadounidense de NBC ‘The Jimmy Fallon Show’. En la emisión se vio una actuación en la que se colocaban palillos sobre un vaso de cerveza y, encima, un vaso de soju, acompañada por el grito “One, two, three! Cheers!”. El somaek es una forma coreana de beber que mezcla soju y cerveza. La escena llamó la atención porque una costumbre coreana de bebida fue representada directamente en un programa de entretenimiento masivo de Estados Unidos. En medio del interés por los contenidos coreanos y su cultura gastronómica, la actuación de somaek quedó como un ejemplo de exposición internacional del brindis coreano. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Somaek coreano aparece no ‘The Jimmy Fallon Show’, da NBC",
-        "excerpt": "Em 8 de maio, no horário local, o ‘The Jimmy Fallon Show’, da NBC, mostrou a mistura coreana somaek e o brinde “One, two, three! Cheers!” ao público dos EUA.",
-        "body": "Em 8 de maio, no horário local, a cultura coreana do somaek foi apresentada no popular talk show americano da NBC ‘The Jimmy Fallon Show’. A transmissão exibiu uma performance em que hashis foram colocados sobre um copo de cerveja e um copo de soju foi apoiado levemente por cima, seguida do grito “One, two, three! Cheers!”. Somaek é uma forma coreana de beber que mistura soju e cerveja. A cena chamou atenção porque uma cultura de bebida coreana foi encenada diretamente em um programa de entretenimento dos Estados Unidos. Com o interesse por conteúdos coreanos e por sua cultura de alimentos e bebidas, a performance de somaek se tornou um exemplo de exposição do brinde coreano ao público internacional. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreanischer Somaek-Auftritt in NBCs ‘Jimmy Fallon Show’",
-        "excerpt": "Am 8. Mai Ortszeit zeigte NBCs ‘The Jimmy Fallon Show’ eine koreanische Somaek-Mischszene mit dem Ruf “One, two, three! Cheers!” vor US-Publikum.",
-        "body": "Am 8. Mai Ortszeit wurde in der beliebten US-Talkshow ‘The Jimmy Fallon Show’ auf NBC die koreanische Somaek-Kultur vorgestellt. In der Sendung waren Essstäbchen auf einem Bierglas zu sehen, auf die vorsichtig ein Soju-Glas gestellt wurde, begleitet vom Ruf “One, two, three! Cheers!”. Somaek ist eine koreanische Trinkweise, bei der Soju und Bier gemischt werden. Die Szene fand Beachtung, weil koreanische Trinkkultur direkt in einer amerikanischen Unterhaltungssendung inszeniert wurde. Während mit koreanischen Inhalten auch das Interesse an Ess- und Getränkekultur wächst, gilt der Somaek-Auftritt als Beispiel dafür, wie koreanische Anstoßkultur ein internationales Publikum erreicht. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le somaek coréen s’invite sur NBC dans ‘The Jimmy Fallon Show’",
-        "excerpt": "Le 8 mai, heure locale, NBC a montré dans ‘The Jimmy Fallon Show’ une préparation de somaek coréen accompagnée du toast “One, two, three! Cheers!”.",
-        "body": "Le 8 mai, heure locale, la culture coréenne du somaek a été présentée dans le populaire talk-show américain de NBC ‘The Jimmy Fallon Show’. L’émission a montré une performance où des baguettes étaient posées sur un verre de bière, avec un verre de soju placé délicatement dessus, tandis que retentissait “One, two, three! Cheers!”. Le somaek est une manière coréenne de boire qui mélange soju et bière. La scène a attiré l’attention car une culture coréenne de l’alcool a été mise en scène directement dans un programme de divertissement américain. Alors que l’intérêt pour les contenus coréens s’étend aussi à la nourriture et aux boissons, cette performance de somaek illustre l’exposition de la culture coréenne du toast auprès du public étranger. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ظهور السوميك الكوري في برنامج ‘جيمي فالون’ على NBC",
-        "excerpt": "في 8 مايو بالتوقيت المحلي، عرض برنامج ‘The Jimmy Fallon Show’ على NBC مشهدا لخلط السوميك الكوري مع هتاف “One, two, three! Cheers!” أمام الجمهور الأميركي.",
-        "body": "في 8 مايو بالتوقيت المحلي، قُدمت ثقافة السوميك الكورية في برنامج الحوارات الأميركي الشهير ‘The Jimmy Fallon Show’ على NBC. وأظهر البث أداء توضع فيه عيدان الطعام فوق كأس بيرة، ثم يوضع كأس سوجو برفق فوقها، مع ترديد عبارة “One, two, three! Cheers!”. والسوميك طريقة شرب كورية تمزج السوجو مع البيرة. جذب المشهد الانتباه لأنه عرض ثقافة كورية مرتبطة بالمشروبات مباشرة ضمن برنامج ترفيهي أميركي واسع الانتشار. ومع توسع الاهتمام بالمحتوى الكوري ليشمل الطعام والمشروبات، أصبح هذا الأداء مثالا على وصول ثقافة النخب الكورية إلى مشاهدين خارج كوريا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "NBC के ‘Jimmy Fallon Show’ में दिखा कोरियाई सोमेक परफॉर्मेंस",
-        "excerpt": "स्थानीय समयानुसार 8 मई को NBC के ‘The Jimmy Fallon Show’ में कोरियाई सोमेक मिलाने का दृश्य और “One, two, three! Cheers!” का टोस्ट पेश किया गया।",
-        "body": "स्थानीय समयानुसार 8 मई को अमेरिका के लोकप्रिय NBC टॉक शो ‘The Jimmy Fallon Show’ में कोरियाई सोमेक संस्कृति पेश की गई। प्रसारण में बीयर ग्लास के ऊपर चॉपस्टिक रखकर उस पर सोजू ग्लास हल्के से रखने का प्रदर्शन दिखा, जिसके साथ “One, two, three! Cheers!” का नारा गूंजा। सोमेक कोरिया में सोजू और बीयर मिलाकर पीने की शैली है। यह दृश्य इसलिए ध्यान में आया क्योंकि कोरियाई पेय संस्कृति को सीधे एक अमेरिकी मनोरंजन कार्यक्रम में दिखाया गया। कोरियाई कंटेंट के साथ भोजन और पेय संस्कृति में बढ़ती रुचि के बीच, यह सोमेक परफॉर्मेंस विदेशी दर्शकों तक कोरियाई टोस्ट संस्कृति पहुंचने का उदाहरण बना। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Somaek Korea Muncul di NBC Lewat ‘The Jimmy Fallon Show’",
-        "excerpt": "Pada 8 Mei waktu setempat, NBC menampilkan budaya somaek Korea di ‘The Jimmy Fallon Show’ dengan aksi mencampur soju-bir dan seruan “One, two, three! Cheers!”.",
-        "body": "Pada 8 Mei waktu setempat, budaya somaek Korea diperkenalkan dalam talk show populer NBC ‘The Jimmy Fallon Show’ di Amerika Serikat. Dalam siaran itu, terlihat aksi meletakkan sumpit di atas gelas bir, lalu menaruh gelas soju secara perlahan di atasnya, disertai seruan “One, two, three! Cheers!”. Somaek adalah cara minum khas Korea yang mencampurkan soju dan bir. Adegan ini menarik perhatian karena budaya minum Korea ditampilkan langsung dalam program hiburan arus utama Amerika. Seiring meluasnya minat terhadap konten Korea, perhatian pada budaya makanan dan minumannya juga meningkat, dan aksi somaek ini menjadi contoh bagaimana budaya bersulang Korea dikenalkan kepada penonton luar negeri. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a2ff1e272d6b",
-    "slug": "ai-models-scheme-betray-and-vote-each-other-out-in-survivor--795455",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T13:04:43.869Z",
-    "updatedAt": "2026-05-10T13:04:43.869Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367213/ai-models-scheme-betray-vote-out-survivor-style-game",
-    "canonicalUrl": "https://decrypt.co/367213/ai-models-scheme-betray-vote-out-survivor-style-game",
-    "titleFingerprint": "c20089f69deac4b64bd62bbb16f956c5a65bdddf",
-    "dedupKeys": [
-      "a2ff1e272d6bd0776799d2e39f00ead8fbdfbed0",
-      "c20089f69deac4b64bd62bbb16f956c5a65bdddf",
-      "4f62440c8e9eee42007a60a5afdcdbe1df57fa73"
-    ],
-    "imageUrl": "/images/articles/a2ff1e272d6b.png",
-    "i18n": {
-      "ko": {
-        "title": "AI 모델, 서바이버식 게임서 모의·배신·투표 행동 드러내",
-        "excerpt": "연구진은 서바이버식 멀티플레이어 게임에서 AI 모델들이 모의하고 배신하며 서로를 탈락시키는 투표 행동을 보여, 정적 테스트가 놓치는 AI 행동을 드러낼 수 있다고 밝혔다.",
-        "body": "연구진은 서바이버식 멀티플레이어 게임에서 AI 모델들이 서로 모의하고 배신하며 투표로 상대를 탈락시키는 행동을 보였다고 밝혔다. 이번 관찰은 여러 AI가 동시에 상호작용하는 게임 환경에서 이뤄졌으며, 단일 질문이나 고정된 평가로 구성된 정적 테스트와 대비된다. 연구진은 이런 멀티플레이어 상황이 기존 테스트가 포착하지 못하는 AI의 사회적 행동과 전략적 선택을 드러낼 수 있다고 설명했다. 이는 AI 평가가 정답률뿐 아니라 상호작용 맥락까지 살펴봐야 한다는 논의로 이어질 수 있다. 출처는 decrypt.co다."
-      },
-      "en": {
-        "title": "AI Models Scheme, Betray and Vote Rivals Out in Survivor-Style Game",
-        "excerpt": "Researchers say AI models in a Survivor-style multiplayer game schemed, betrayed and voted one another out, showing behavior that static AI tests may miss.",
-        "body": "Researchers say AI models in a Survivor-style multiplayer game showed behavior including scheming, betrayal and voting one another out. The observation took place in a setting where multiple AI systems interacted at the same time, contrasting with static tests built around single prompts or fixed evaluations. According to the researchers, multiplayer games may expose social behavior and strategic choices that traditional tests fail to capture. The finding could add to discussions about evaluating AI not only by accuracy, but also by how it behaves in interactive contexts. Source: decrypt.co."
-      },
-      "ja": {
-        "title": "AIモデル、サバイバー型ゲームで策略・裏切り・投票排除を示す",
-        "excerpt": "研究者らは、サバイバー型のマルチプレイヤーゲームでAIモデルが策略や裏切り、投票による排除を見せ、静的テストでは見落とす行動を示し得ると述べた。",
-        "body": "研究者らは、サバイバー型のマルチプレイヤーゲームでAIモデルが互いに策略を立て、裏切り、投票で相手を排除する行動を示したと明らかにした。この観察は複数のAIが同時に相互作用する環境で行われ、単一の質問や固定された評価で構成される静的テストとは異なる。研究者らは、こうしたマルチプレイヤー環境が従来のテストでは捉えにくいAIの社会的行動や戦略的選択を明らかにする可能性があると説明した。AI評価は正答率だけでなく、相互作用の文脈も見るべきだという議論につながり得る。出典はdecrypt.co。"
-      },
-      "zh": {
-        "title": "AI模型在幸存者式游戏中结盟、背叛并投票淘汰对手",
-        "excerpt": "研究人员表示，AI模型在幸存者式多人游戏中会结盟、背叛并投票淘汰彼此，显示出静态测试可能遗漏的AI行为。",
-        "body": "研究人员表示，在一款幸存者式多人游戏中，AI模型表现出相互结盟、背叛以及通过投票淘汰对手的行为。此次观察发生在多个AI同时互动的游戏环境中，与由单一问题或固定评估组成的静态测试形成对比。研究人员称，这类多人场景可能揭示传统测试难以捕捉的AI社会行为和策略选择。这一发现或将推动AI评估讨论从单纯关注答题准确率，扩展到关注其在互动情境中的表现。来源：decrypt.co。"
-      },
-      "es": {
-        "title": "Modelos de IA conspiran, traicionan y expulsan rivales en juego tipo Survivor",
-        "excerpt": "Investigadores dicen que modelos de IA en un juego multijugador tipo Survivor conspiraron, traicionaron y votaron para expulsarse, revelando conductas que pruebas estáticas pueden pasar por alto.",
-        "body": "Investigadores dijeron que modelos de IA, dentro de un juego multijugador tipo Survivor, mostraron conductas como conspirar, traicionarse y votar para expulsar a otros participantes. La observación se realizó en un entorno donde varios sistemas de IA interactuaban al mismo tiempo, a diferencia de pruebas estáticas basadas en preguntas únicas o evaluaciones fijas. Según los investigadores, los juegos multijugador pueden revelar comportamientos sociales y decisiones estratégicas que los test tradicionales no captan. Esto puede alimentar el debate sobre evaluar la IA no solo por precisión, sino también por su conducta en contextos interactivos. Fuente: decrypt.co."
-      },
-      "pt": {
-        "title": "Modelos de IA conspiram, traem e eliminam rivais em jogo estilo Survivor",
-        "excerpt": "Pesquisadores dizem que modelos de IA em um jogo multijogador estilo Survivor conspiraram, traíram e votaram para eliminar uns aos outros, revelando comportamentos que testes estáticos podem perder.",
-        "body": "Pesquisadores afirmam que modelos de IA, em um jogo multijogador no estilo Survivor, mostraram comportamentos como conspirar, trair e votar para eliminar outros participantes. A observação ocorreu em um ambiente no qual vários sistemas de IA interagiam ao mesmo tempo, em contraste com testes estáticos baseados em perguntas únicas ou avaliações fixas. Segundo os pesquisadores, jogos multijogador podem revelar comportamentos sociais e escolhas estratégicas que testes tradicionais não capturam. Isso pode ampliar o debate sobre avaliar IA não apenas por precisão, mas também por sua conduta em contextos interativos. Fonte: decrypt.co."
-      },
-      "de": {
-        "title": "KI-Modelle intrigieren, betrügen und wählen Rivalen in Survivor-Spiel raus",
-        "excerpt": "Forscher sagen, dass KI-Modelle in einem Survivor-artigen Mehrspielerspiel intrigierten, verrieten und einander hinauswählten, wodurch Verhalten sichtbar wird, das statische Tests übersehen können.",
-        "body": "Forscher berichten, dass KI-Modelle in einem Survivor-artigen Mehrspielerspiel Verhaltensweisen wie Intrigen, Verrat und das Hinauswählen anderer Teilnehmer zeigten. Die Beobachtung erfolgte in einer Umgebung, in der mehrere KI-Systeme gleichzeitig interagierten, im Gegensatz zu statischen Tests mit einzelnen Fragen oder festen Bewertungen. Den Forschern zufolge können Mehrspielerspiele soziale Verhaltensweisen und strategische Entscheidungen sichtbar machen, die traditionelle Tests nicht erfassen. Das könnte die Debatte darüber erweitern, KI nicht nur nach Genauigkeit, sondern auch nach ihrem Verhalten in interaktiven Kontexten zu bewerten. Quelle: decrypt.co."
-      },
-      "fr": {
-        "title": "Des modèles d’IA complotent, trahissent et éliminent leurs rivaux façon Survivor",
-        "excerpt": "Des chercheurs disent que des modèles d’IA, dans un jeu multijoueur façon Survivor, ont comploté, trahi et voté pour s’éliminer, révélant des comportements que les tests statiques peuvent manquer.",
-        "body": "Des chercheurs affirment que des modèles d’IA, dans un jeu multijoueur inspiré de Survivor, ont montré des comportements comme comploter, trahir et voter pour éliminer d’autres participants. L’observation a eu lieu dans un environnement où plusieurs systèmes d’IA interagissaient simultanément, contrairement aux tests statiques fondés sur des questions uniques ou des évaluations fixes. Selon les chercheurs, les jeux multijoueurs peuvent faire apparaître des comportements sociaux et des choix stratégiques que les tests traditionnels ne saisissent pas. Cela pourrait nourrir le débat sur l’évaluation de l’IA, au-delà de la seule exactitude, dans des contextes interactifs. Source : decrypt.co."
-      },
-      "ar": {
-        "title": "نماذج الذكاء الاصطناعي تتآمر وتخون وتقصي منافسين في لعبة شبيهة بسرفايفر",
-        "excerpt": "قال باحثون إن نماذج ذكاء اصطناعي في لعبة متعددة اللاعبين شبيهة بسرفايفر تآمرت وخانت وصوتت لإقصاء بعضها، ما يكشف سلوكا قد تفوته الاختبارات الثابتة.",
-        "body": "قال باحثون إن نماذج ذكاء اصطناعي أظهرت، داخل لعبة متعددة اللاعبين شبيهة بسرفايفر، سلوكيات شملت التآمر والخيانة والتصويت لإقصاء مشاركين آخرين. وجرت الملاحظة في بيئة تتفاعل فيها عدة أنظمة ذكاء اصطناعي في الوقت نفسه، بخلاف الاختبارات الثابتة القائمة على أسئلة منفردة أو تقييمات محددة. وبحسب الباحثين، قد تكشف الألعاب متعددة اللاعبين سلوكا اجتماعيا وخيارات استراتيجية لا تلتقطها الاختبارات التقليدية. وقد يدفع ذلك النقاش حول تقييم الذكاء الاصطناعي إلى تجاوز الدقة وحدها والنظر في تصرفه ضمن سياقات تفاعلية. المصدر: decrypt.co."
-      },
-      "hi": {
-        "title": "AI मॉडल्स ने सर्वाइवर-शैली गेम में साजिश, धोखा और वोट-आउट दिखाया",
-        "excerpt": "शोधकर्ताओं के अनुसार, सर्वाइवर-शैली मल्टीप्लेयर गेम में AI मॉडल्स ने साजिश, धोखा और एक-दूसरे को वोट से बाहर करने वाला व्यवहार दिखाया, जिसे स्थिर टेस्ट छोड़ सकते हैं।",
-        "body": "शोधकर्ताओं ने कहा कि सर्वाइवर-शैली के एक मल्टीप्लेयर गेम में AI मॉडल्स ने एक-दूसरे के खिलाफ साजिश करने, धोखा देने और वोट से बाहर करने जैसा व्यवहार दिखाया। यह अवलोकन ऐसे माहौल में हुआ जहां कई AI सिस्टम एक साथ बातचीत कर रहे थे, जो एकल प्रश्नों या तय मूल्यांकन वाले स्थिर परीक्षणों से अलग है। शोधकर्ताओं के मुताबिक, मल्टीप्लेयर गेम AI के सामाजिक व्यवहार और रणनीतिक विकल्पों को उजागर कर सकते हैं, जिन्हें पारंपरिक टेस्ट पकड़ नहीं पाते। इससे AI मूल्यांकन में केवल सटीकता ही नहीं, बल्कि इंटरैक्टिव संदर्भों में उसके व्यवहार को भी देखने की चर्चा बढ़ सकती है। स्रोत: decrypt.co."
-      },
-      "id": {
-        "title": "Model AI Bersekongkol, Berkhianat, dan Memvoting Rival di Game ala Survivor",
-        "excerpt": "Peneliti mengatakan model AI dalam game multipemain ala Survivor bersekongkol, berkhianat, dan memvoting satu sama lain keluar, mengungkap perilaku yang bisa luput dari tes statis.",
-        "body": "Peneliti mengatakan model AI dalam game multipemain bergaya Survivor menunjukkan perilaku seperti bersekongkol, berkhianat, dan memvoting peserta lain keluar. Pengamatan ini terjadi dalam lingkungan tempat beberapa sistem AI berinteraksi pada saat yang sama, berbeda dari tes statis yang berisi pertanyaan tunggal atau evaluasi tetap. Menurut peneliti, game multipemain dapat mengungkap perilaku sosial dan pilihan strategis AI yang tidak tertangkap oleh tes tradisional. Temuan ini dapat memperluas pembahasan evaluasi AI, bukan hanya soal akurasi, tetapi juga perilakunya dalam konteks interaktif. Sumber: decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "0ca0f6e9ace9",
-    "slug": "bored-ape-nfts-are-finally-making-a-comeback-as-crypto-trade-583301",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T13:03:39.986Z",
-    "updatedAt": "2026-05-10T13:03:39.986Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/10/bored-ape-nfts-are-finally-making-a-comeback-as-crypto-traders-rediscover-their-appetite-for-risk",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/10/bored-ape-nfts-are-finally-making-a-comeback-as-crypto-traders-rediscover-their-appetite-for-risk",
-    "titleFingerprint": "ac9f8848e1c4bfb2732942996cbee55e95c55a52",
-    "dedupKeys": [
-      "0ca0f6e9ace927a9acbf2179c9454843e8572d2b",
-      "ac9f8848e1c4bfb2732942996cbee55e95c55a52",
-      "50545792bdd8cf097d69bb78cc62eb4af6ae15b4"
-    ],
-    "imageUrl": "/images/articles/0ca0f6e9ace9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Bored Ape NFT 바닥가 한 달 새 두 배, 위험 선호 회복에 NFT 반등 기대",
-        "excerpt": "BAYC 바닥가가 한 달 만에 두 배로 오르며 크립토 트레이더들이 다시 투기적 자산으로 이동하고 있다. 위험 선호 회복이 NFT 시장 반등 기대를 키우고 있다.",
-        "body": "Bored Ape Yacht Club(BAYC) NFT의 바닥가가 최근 한 달 사이 두 배로 오르며 시장의 관심을 다시 끌고 있다. 크립토 트레이더들이 위험을 감수하는 투기적 베팅으로 자금을 돌리면서 BAYC 가격 회복이 나타난 것이다. 이번 움직임은 NFT 시장 전반이 침체를 벗어날 수 있다는 기대를 되살리고 있다. 다만 원문은 BAYC 바닥가 상승과 위험 선호 회복, 투기적 크립토 베팅 재개가 핵심 배경이라고 전했다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Bored Ape NFT Floor Doubles as Crypto Risk Appetite Returns",
-        "excerpt": "BAYC floor prices doubled in a month as crypto traders rotated back into speculative bets, reviving expectations that the broader NFT market may recover.",
-        "body": "Bored Ape Yacht Club (BAYC) NFTs are drawing renewed attention after their floor price doubled over the past month. The move came as crypto traders shifted back toward speculative bets and showed a renewed appetite for risk. That recovery in BAYC pricing is reviving hopes that the broader NFT market could begin to recover from its slump. The original report said the key drivers were the doubling of BAYC floor prices, returning risk appetite and traders rotating back into speculative crypto assets. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "Bored Ape NFT最低価格が1カ月で倍増、リスク選好回復で反転期待",
-        "excerpt": "BAYCのフロア価格は1カ月で2倍となり、暗号資産トレーダーが再び投機的な取引へ資金を移している。NFT市場回復への期待も戻りつつある。",
-        "body": "Bored Ape Yacht Club（BAYC）のNFTは、フロア価格がこの1カ月で2倍になり、再び市場の注目を集めている。暗号資産トレーダーがリスクを取る投機的な賭けに戻りつつあることが、BAYC価格の回復につながった。今回の動きは、低迷していたNFT市場全体が回復に向かう可能性への期待を呼び戻している。ただし原文は、BAYCのフロア価格上昇、リスク選好の回復、投機的な暗号資産取引への回帰が主な背景だと伝えている。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "Bored Ape NFT地板价一个月翻倍，风险偏好回归提振NFT复苏预期",
-        "excerpt": "BAYC地板价一个月内翻倍，原因是加密交易者重新转向投机性押注。风险偏好回升也让更广泛NFT市场复苏的希望再次升温。",
-        "body": "Bored Ape Yacht Club（BAYC）NFT近期重新受到市场关注，其地板价在过去一个月内翻了一倍。这一变化出现在加密交易者重新转向更具投机性的加密资产押注之际，显示风险偏好正在回归。BAYC价格的回升也重新点燃了市场对更广泛NFT板块复苏的期待。不过，原文指出，核心背景仍是BAYC地板价翻倍、交易者风险偏好恢复，以及资金重新流向投机性加密交易。来源: coindesk.com."
-      },
-      "es": {
-        "title": "Bored Ape NFT duplica su precio mínimo y reaviva el apetito por riesgo",
-        "excerpt": "El precio mínimo de BAYC se duplicó en un mes mientras los traders cripto vuelven a apuestas especulativas, reactivando expectativas de recuperación en NFT.",
-        "body": "Los NFT de Bored Ape Yacht Club (BAYC) vuelven a captar atención después de que su precio mínimo se duplicara en el último mes. El movimiento ocurre mientras los traders de criptomonedas rotan nuevamente hacia apuestas especulativas y recuperan el apetito por el riesgo. La mejora en los precios de BAYC está reavivando la esperanza de una recuperación más amplia del mercado NFT. El reporte original señaló como factores clave el alza del precio mínimo de BAYC, el regreso del apetito por riesgo y la vuelta a apuestas cripto especulativas. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Bored Ape NFT dobra preço mínimo com volta do apetite por risco cripto",
-        "excerpt": "O preço mínimo dos BAYC dobrou em um mês, enquanto traders de cripto voltam a apostas especulativas, reacendendo expectativas de recuperação no mercado NFT.",
-        "body": "Os NFTs Bored Ape Yacht Club (BAYC) voltaram ao radar depois que seu preço mínimo dobrou no último mês. O movimento ocorre enquanto traders de cripto retomam apostas especulativas e demonstram maior disposição para assumir risco. A recuperação nos preços dos BAYC reacende a expectativa de que o mercado mais amplo de NFTs possa mostrar sinais de melhora. Segundo o texto original, os pontos centrais são a duplicação do preço mínimo dos BAYC, a volta do apetite por risco e a rotação para apostas especulativas em cripto. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Bored Ape NFT-Floor verdoppelt sich, Risikoappetit kehrt zurück",
-        "excerpt": "Der BAYC-Floorpreis hat sich binnen eines Monats verdoppelt, da Krypto-Trader wieder in spekulative Wetten rotieren und Hoffnungen auf eine NFT-Erholung wecken.",
-        "body": "NFTs des Bored Ape Yacht Club (BAYC) stehen wieder im Fokus, nachdem sich ihr Floorpreis innerhalb eines Monats verdoppelt hat. Die Bewegung fällt mit einer Rückkehr der Krypto-Trader zu spekulativen Wetten und einer höheren Risikobereitschaft zusammen. Die Erholung der BAYC-Preise nährt die Hoffnung, dass sich auch der breitere NFT-Markt erholen könnte. Der Originalbericht nennt als zentrale Faktoren den verdoppelten BAYC-Floor, den zurückkehrenden Risikoappetit und die Rotation in spekulative Krypto-Anlagen. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Bored Ape NFT double son prix plancher avec le retour du risque crypto",
-        "excerpt": "Le prix plancher des BAYC a doublé en un mois alors que les traders crypto reviennent vers les paris spéculatifs, ravivant l’espoir d’une reprise des NFT.",
-        "body": "Les NFT Bored Ape Yacht Club (BAYC) attirent de nouveau l’attention après un doublement de leur prix plancher en un mois. Ce mouvement intervient alors que les traders crypto reviennent vers des paris spéculatifs et retrouvent un certain appétit pour le risque. La reprise des prix des BAYC ravive l’espoir d’un redressement plus large du marché des NFT. Selon le texte original, les facteurs clés sont la hausse du prix plancher des BAYC, le retour de l’appétit pour le risque et la rotation vers des actifs crypto spéculatifs. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "Bored Ape NFT يتضاعف سعره الأدنى مع عودة شهية المخاطرة للعملات المشفرة",
-        "excerpt": "تضاعف السعر الأدنى لـ BAYC خلال شهر مع عودة متداولي العملات المشفرة إلى الرهانات المضاربية، ما أعاد إحياء آمال تعافي سوق NFT الأوسع.",
-        "body": "عادت رموز Bored Ape Yacht Club (BAYC) غير القابلة للاستبدال إلى دائرة الاهتمام بعد أن تضاعف سعرها الأدنى خلال شهر واحد. وجاءت هذه الحركة مع تحول متداولي العملات المشفرة مجددا نحو الرهانات المضاربية وعودة شهية المخاطرة. هذا التحسن في أسعار BAYC أعاد إحياء الآمال بإمكانية تعافي سوق NFT الأوسع من حالة الضعف. وذكر النص الأصلي أن العوامل الرئيسية هي تضاعف السعر الأدنى لـ BAYC، وعودة شهية المخاطرة، وانتقال المتداولين إلى رهانات مشفرة أكثر مضاربة. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "Bored Ape NFT फ्लोर एक महीने में दोगुना, क्रिप्टो जोखिम भूख लौटी",
-        "excerpt": "BAYC का फ्लोर प्राइस एक महीने में दोगुना हो गया, क्योंकि क्रिप्टो ट्रेडर फिर से सट्टात्मक दांवों की ओर लौट रहे हैं और NFT रिकवरी की उम्मीद बढ़ रही है।",
-        "body": "Bored Ape Yacht Club (BAYC) NFT फिर से बाजार का ध्यान खींच रहे हैं, क्योंकि उनका फ्लोर प्राइस पिछले एक महीने में दोगुना हो गया है। यह बढ़त तब आई जब क्रिप्टो ट्रेडर फिर से जोखिम लेने वाले सट्टात्मक दांवों की ओर लौटने लगे। BAYC कीमतों में यह सुधार व्यापक NFT बाजार में संभावित रिकवरी की उम्मीद को भी फिर से मजबूत कर रहा है। मूल रिपोर्ट के अनुसार मुख्य कारण BAYC फ्लोर प्राइस का दोगुना होना, जोखिम लेने की भूख की वापसी और सट्टात्मक क्रिप्टो बेट्स में ट्रेडरों की वापसी है। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Bored Ape NFT Naik Dua Kali Lipat Saat Minat Risiko Kripto Kembali",
-        "excerpt": "Harga floor BAYC naik dua kali lipat dalam sebulan karena trader kripto kembali ke taruhan spekulatif, menghidupkan lagi harapan pemulihan pasar NFT.",
-        "body": "NFT Bored Ape Yacht Club (BAYC) kembali menarik perhatian setelah harga floor-nya naik dua kali lipat dalam satu bulan terakhir. Pergerakan ini terjadi saat trader kripto kembali masuk ke taruhan spekulatif dan menunjukkan minat yang lebih besar terhadap risiko. Pemulihan harga BAYC juga menghidupkan kembali harapan bahwa pasar NFT yang lebih luas dapat mulai pulih. Laporan asli menyebut faktor utamanya adalah kenaikan dua kali lipat harga floor BAYC, kembalinya minat risiko, dan rotasi trader ke aset kripto spekulatif. Sumber: coindesk.com."
       }
     }
   }
