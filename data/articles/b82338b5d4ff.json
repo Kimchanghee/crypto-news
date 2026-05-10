@@ -1,0 +1,75 @@
+{
+  "id": "b82338b5d4ff",
+  "slug": "자해-위험-땐-지인에게-알림챗gpt-안전-기능-도입한다-686333",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-10T19:02:01.141Z",
+  "updatedAt": "2026-05-10T19:02:01.141Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051065751",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051065751",
+  "titleFingerprint": "565e659608827f1f9edc1e1bacbaaf56b75cbe7e",
+  "dedupKeys": [
+    "b82338b5d4ff1d22dced6e4b6a06a8ed60e83df8",
+    "565e659608827f1f9edc1e1bacbaaf56b75cbe7e",
+    "8072c96beaeec8fac32149ec99ad3327578cc684"
+  ],
+  "imageUrl": "/images/articles/b82338b5d4ff.png",
+  "i18n": {
+    "ko": {
+      "title": "챗GPT 안전 기능 도입, 자해 위험 감지 시 신뢰 연락처에 알림",
+      "excerpt": "오픈AI가 챗GPT 이용자의 자해 위험 신호가 감지될 경우 사전에 지정한 지인에게 알림을 보내는 안전 기능을 도입한다.",
+      "body": "오픈AI가 챗GPT 이용자의 자해 위험 신호를 감지하면 사전에 등록한 지인에게 알릴 수 있는 안전 기능을 도입한다. 이 기능은 이용자가 신뢰 연락처를 지정해 두면, 챗GPT 대화에서 심각한 자해 가능성이 포착될 때 해당 지인에게 확인을 요청하는 방식이다. 챗GPT는 그동안 위기 상황에서 상담 전화나 긴급 지원 안내를 제공해 왔으며, 이번 기능은 실제 주변 사람과의 연결을 강화하려는 조치로 풀이된다. 다만 대화 내용 전체를 공유하는 방식이 아니라 위험 신호를 제한적으로 전달하는 데 초점이 맞춰졌다. AI 서비스의 정신건강 안전장치와 개인정보 보호 기준을 둘러싼 논의도 이어질 전망이다. 출처: hankyung.com"
+    },
+    "en": {
+      "title": "ChatGPT Safety Feature to Alert Trusted Contacts on Self-Harm Risk",
+      "excerpt": "OpenAI is introducing a ChatGPT safety feature that can notify a user’s chosen trusted contact when serious self-harm risk signals are detected.",
+      "body": "OpenAI is introducing a ChatGPT safety feature that can alert a person chosen in advance by the user when signs of serious self-harm risk are detected. Under the feature, users designate a trusted contact, and ChatGPT may ask that person to check in if a conversation suggests an urgent safety concern. ChatGPT has already guided users in crisis toward hotlines and emergency support, and this update is aimed at strengthening real-world connection. The alert is focused on limited risk information rather than sharing full chat details. Debate is expected to continue over mental-health safeguards and privacy standards in AI services. Source: hankyung.com"
+    },
+    "ja": {
+      "title": "ChatGPT安全機能導入、自傷リスク検知で信頼連絡先に通知",
+      "excerpt": "OpenAIは、ChatGPT利用者に深刻な自傷リスクの兆候が検知された場合、事前に指定した信頼連絡先へ通知する安全機能を導入する。",
+      "body": "OpenAIは、ChatGPT利用者の会話から深刻な自傷リスクの兆候が検知された場合、事前に登録した相手へ知らせる安全機能を導入する。利用者が信頼できる連絡先を指定しておくと、ChatGPTは重大な安全上の懸念がある場面で、その相手に確認を促す通知を送る仕組みだ。ChatGPTはこれまでも危機時に相談窓口や緊急支援を案内してきたが、今回の機能は現実の周囲の人とのつながりを強める狙いがある。通知は会話全文ではなく、危険の可能性を限定的に伝える形となる。AIサービスのメンタルヘルス対策とプライバシー保護を巡る議論は続きそうだ。出典: hankyung.com"
+    },
+    "zh": {
+      "title": "ChatGPT将推安全功能：发现自伤风险可通知可信联系人",
+      "excerpt": "OpenAI将为ChatGPT引入安全功能，当系统发现用户存在严重自伤风险信号时，可通知其预先指定的可信联系人。",
+      "body": "OpenAI将为ChatGPT引入一项安全功能，在检测到用户可能存在严重自伤风险信号时，可向用户事先指定的联系人发出提醒。该功能允许用户设置一名可信联系人；如果ChatGPT对话中出现重大安全隐患，系统可能会请该联系人主动关心用户。此前，ChatGPT已在危机场景中提供热线和紧急支持信息，这次更新则侧重于加强用户与现实中可信人员的连接。通知内容不会共享完整聊天记录，而是有限说明可能存在风险。围绕AI服务的心理健康安全措施和隐私保护标准，相关讨论预计仍将持续。来源: hankyung.com"
+    },
+    "es": {
+      "title": "ChatGPT avisará a contactos de confianza ante riesgo de autolesión",
+      "excerpt": "OpenAI incorporará una función de seguridad en ChatGPT para avisar a un contacto elegido por el usuario si detecta señales graves de autolesión.",
+      "body": "OpenAI incorporará en ChatGPT una función de seguridad que puede avisar a una persona designada previamente por el usuario cuando se detecten señales de riesgo grave de autolesión. Con esta herramienta, el usuario elige un contacto de confianza y ChatGPT puede pedirle que se comunique si una conversación apunta a una preocupación urgente de seguridad. Hasta ahora, ChatGPT ya ofrecía información sobre líneas de ayuda y apoyo de emergencia en situaciones de crisis; esta actualización busca reforzar el vínculo con personas reales del entorno del usuario. La alerta se centrará en información limitada sobre el riesgo, no en compartir el contenido completo del chat. Seguirá el debate sobre seguridad mental y privacidad en servicios de IA. Fuente: hankyung.com"
+    },
+    "pt": {
+      "title": "ChatGPT terá alerta a contato de confiança em risco de automutilação",
+      "excerpt": "A OpenAI vai lançar no ChatGPT um recurso de segurança que pode avisar um contato escolhido pelo usuário quando houver sinais graves de automutilação.",
+      "body": "A OpenAI vai introduzir no ChatGPT um recurso de segurança capaz de avisar uma pessoa previamente escolhida pelo usuário quando forem detectados sinais de risco grave de automutilação. O usuário poderá definir um contato de confiança, e o ChatGPT poderá pedir que essa pessoa verifique a situação se a conversa indicar uma preocupação séria de segurança. O ChatGPT já orientava usuários em crise a buscar linhas de apoio e serviços de emergência; agora, a atualização busca reforçar a conexão com alguém do convívio real. O aviso não compartilhará o histórico completo da conversa, mas apenas informações limitadas sobre o possível risco. A discussão sobre proteção à saúde mental e privacidade em serviços de IA deve continuar. Fonte: hankyung.com"
+    },
+    "de": {
+      "title": "ChatGPT-Sicherheitsfunktion warnt Vertrauensperson bei Selbstverletzungsrisiko",
+      "excerpt": "OpenAI führt für ChatGPT eine Sicherheitsfunktion ein, die bei ernsthaften Hinweisen auf Selbstverletzungsrisiken eine zuvor gewählte Vertrauensperson benachrichtigen kann.",
+      "body": "OpenAI führt für ChatGPT eine Sicherheitsfunktion ein, die eine vom Nutzer vorab festgelegte Person informieren kann, wenn ernsthafte Hinweise auf ein Selbstverletzungsrisiko erkannt werden. Nutzer können dafür einen Vertrauenskontakt bestimmen; deutet ein Gespräch auf eine akute Sicherheitslage hin, kann ChatGPT diese Person bitten, nach dem Nutzer zu sehen. Bisher verwies ChatGPT in Krisensituationen bereits auf Hotlines und Notfallangebote. Die neue Funktion soll die Verbindung zu realen Bezugspersonen stärken. Dabei werden keine vollständigen Chatverläufe geteilt, sondern nur begrenzte Informationen zum möglichen Risiko. Die Debatte über psychische Sicherheit und Datenschutz bei KI-Diensten dürfte weitergehen. Quelle: hankyung.com"
+    },
+    "fr": {
+      "title": "ChatGPT alertera un contact de confiance en cas de risque d’automutilation",
+      "excerpt": "OpenAI va ajouter à ChatGPT une fonction de sécurité pouvant prévenir un contact choisi par l’utilisateur si des signes graves d’automutilation sont détectés.",
+      "body": "OpenAI va ajouter à ChatGPT une fonction de sécurité capable de prévenir une personne désignée à l’avance par l’utilisateur lorsque des signes sérieux de risque d’automutilation sont détectés. L’utilisateur pourra choisir un contact de confiance, et ChatGPT pourra inviter cette personne à prendre des nouvelles si une conversation révèle une préoccupation urgente de sécurité. Jusqu’ici, ChatGPT orientait déjà les utilisateurs en crise vers des lignes d’aide et des services d’urgence; cette mise à jour vise à renforcer le lien avec une personne réelle de l’entourage. L’alerte ne partagera pas l’intégralité des échanges, mais seulement une information limitée sur le risque possible. Le débat sur la santé mentale et la confidentialité dans les services d’IA devrait se poursuivre. Source: hankyung.com"
+    },
+    "ar": {
+      "title": "ميزة أمان في ChatGPT تنبه جهة موثوقة عند خطر إيذاء النفس",
+      "excerpt": "تعتزم OpenAI إضافة ميزة أمان إلى ChatGPT يمكنها إخطار جهة اتصال موثوقة يختارها المستخدم عند رصد إشارات جدية لخطر إيذاء النفس.",
+      "body": "تعتزم OpenAI إدخال ميزة أمان في ChatGPT يمكنها تنبيه شخص يحدده المستخدم مسبقا عند رصد إشارات جدية إلى خطر إيذاء النفس. تقوم الفكرة على اختيار المستخدم جهة اتصال موثوقة، بحيث يمكن لـChatGPT أن يطلب من هذا الشخص الاطمئنان عليه إذا أظهرت المحادثة مخاوف سلامة خطيرة. وكان ChatGPT يقدم من قبل إرشادات إلى خطوط المساعدة أو خدمات الطوارئ في حالات الأزمة، بينما تهدف هذه الخطوة إلى تعزيز التواصل مع أشخاص حقيقيين في محيط المستخدم. ولن تتم مشاركة تفاصيل الدردشة كاملة، بل سيقتصر التنبيه على معلومات محدودة عن الخطر المحتمل. ومن المتوقع استمرار النقاش حول ضمانات الصحة النفسية والخصوصية في خدمات الذكاء الاصطناعي. المصدر: hankyung.com"
+    },
+    "hi": {
+      "title": "ChatGPT सुरक्षा फीचर: आत्म-हानि जोखिम पर भरोसेमंद संपर्क को अलर्ट",
+      "excerpt": "OpenAI ChatGPT में ऐसा सुरक्षा फीचर ला रही है जो गंभीर आत्म-हानि जोखिम के संकेत मिलने पर उपयोगकर्ता के चुने भरोसेमंद संपर्क को सूचित कर सकेगा।",
+      "body": "OpenAI ChatGPT में एक सुरक्षा फीचर ला रही है, जो उपयोगकर्ता में गंभीर आत्म-हानि जोखिम के संकेत मिलने पर पहले से चुने गए व्यक्ति को सूचना दे सकेगा। इस फीचर में उपयोगकर्ता एक भरोसेमंद संपर्क तय करता है, और यदि बातचीत में गंभीर सुरक्षा चिंता दिखती है तो ChatGPT उस व्यक्ति से उपयोगकर्ता का हाल पूछने का अनुरोध कर सकता है। ChatGPT अब तक संकट की स्थिति में हेल्पलाइन और आपात सहायता की जानकारी देता रहा है; नया फीचर वास्तविक जीवन के सहारे से जुड़ाव मजबूत करने पर केंद्रित है। सूचना में पूरी चैट साझा नहीं की जाएगी, बल्कि संभावित जोखिम की सीमित जानकारी दी जाएगी। AI सेवाओं में मानसिक स्वास्थ्य सुरक्षा और गोपनीयता मानकों पर चर्चा जारी रहने की संभावना है। स्रोत: hankyung.com"
+    },
+    "id": {
+      "title": "Fitur Keamanan ChatGPT Akan Beri Tahu Kontak Tepercaya Saat Risiko Melukai Diri",
+      "excerpt": "OpenAI akan menghadirkan fitur keamanan ChatGPT yang dapat memberi tahu kontak tepercaya pilihan pengguna saat terdeteksi sinyal serius risiko melukai diri.",
+      "body": "OpenAI akan menghadirkan fitur keamanan di ChatGPT yang dapat memberi tahu orang yang sudah dipilih pengguna ketika terdeteksi sinyal serius risiko melukai diri. Melalui fitur ini, pengguna menetapkan satu kontak tepercaya, dan ChatGPT dapat meminta orang tersebut untuk mengecek kondisi pengguna jika percakapan menunjukkan kekhawatiran keselamatan yang mendesak. Selama ini ChatGPT telah mengarahkan pengguna dalam krisis ke hotline dan dukungan darurat; pembaruan ini bertujuan memperkuat hubungan dengan orang nyata di sekitar pengguna. Pemberitahuan tidak membagikan seluruh isi obrolan, melainkan hanya informasi terbatas tentang potensi risiko. Perdebatan tentang perlindungan kesehatan mental dan privasi dalam layanan AI diperkirakan berlanjut. Sumber: hankyung.com"
+    }
+  }
+}
