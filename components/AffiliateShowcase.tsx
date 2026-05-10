@@ -47,8 +47,15 @@ function getCopy(locale: Locale, placement: Placement) {
 function getOffers(locale: Locale): Offer[] {
   const isKo = locale === 'ko';
   const keyword = channel.keywords?.[0] || channel.name;
+
+  // Coupang search URL — auto-tracked via Coupang Partners deeplink converter
+  const coupangSearch = `https://www.coupang.com/np/search?component=&q=${encodeURIComponent('비트코인 하드월렛')}`;
+
+  // AliExpress search URL — fallback to gadget category
+  const aliExpressSearch = 'https://www.aliexpress.com/w/wholesale-bitcoin-hardware-wallet.html';
+
   const amazonUrl = new URL('https://www.amazon.com/s');
-  amazonUrl.searchParams.set('k', keyword);
+  amazonUrl.searchParams.set('k', 'bitcoin hardware wallet');
   amazonUrl.searchParams.set('tag', AMAZON_TAG);
   amazonUrl.searchParams.set('linkCode', 'll2');
   amazonUrl.searchParams.set('language', 'en_US');
@@ -57,14 +64,14 @@ function getOffers(locale: Locale): Offer[] {
     {
       id: 'coupang',
       label: isKo ? '쿠팡 파트너스' : 'Coupang Partners',
-      href: process.env.NEXT_PUBLIC_COUPANG_PARTNERS_URL,
+      href: process.env.NEXT_PUBLIC_COUPANG_PARTNERS_URL || coupangSearch,
       badge: isKo ? '국내 전환용' : 'KR conversion',
       note: isKo ? '국내 배송과 즉시 구매 성향이 강한 방문자용' : 'Good fit for Korea-based visitors ready to buy.'
     },
     {
       id: 'aliexpress',
       label: isKo ? '알리익스프레스' : 'AliExpress',
-      href: process.env.NEXT_PUBLIC_ALIEXPRESS_AFFILIATE_URL,
+      href: process.env.NEXT_PUBLIC_ALIEXPRESS_AFFILIATE_URL || aliExpressSearch,
       badge: isKo ? '가성비 상품' : 'Budget picks',
       note: isKo ? '가성비 전자기기와 데스크 셋업 관심층에 적합' : 'Works well for price-sensitive gadget and desk-tool traffic.'
     },
