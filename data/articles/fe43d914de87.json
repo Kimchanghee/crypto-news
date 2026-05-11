@@ -1,0 +1,75 @@
+{
+  "id": "fe43d914de87",
+  "slug": "ronin-set-to-transition-to-ethereum-layer-2-from-independent-731100",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-11T12:28:55.554Z",
+  "updatedAt": "2026-05-11T12:28:55.554Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain",
+  "titleFingerprint": "b3c0743fc2ff0d7c1f542ed48abd7cc94368c0db",
+  "dedupKeys": [
+    "fe43d914de87ef71ea79c210a82c70bb314d9032",
+    "b3c0743fc2ff0d7c1f542ed48abd7cc94368c0db",
+    "0208dc3a7bb2aca32183c73d392c53aaac04c105"
+  ],
+  "imageUrl": "/images/articles/fe43d914de87.jpg",
+  "i18n": {
+    "ko": {
+      "title": "로닌, 독립 사이드체인에서 이더리움 레이어2 전환 추진",
+      "excerpt": "로닌은 보안, 토크노믹스, 확장성을 강화하기 위해 독립 사이드체인에서 이더리움 레이어2로 전환할 예정이라고 밝혔다.",
+      "body": "로닌은 독립 사이드체인으로 운영되던 네트워크를 이더리움 레이어2로 전환할 예정이라고 밝혔다. 이번 이전의 목적은 보안, 토크노믹스, 확장성을 강화하는 데 있다. 로닌은 2022년 기록상 최대 규모의 디파이 브리지 익스플로잇을 겪은 바 있어 보안 개선은 핵심 과제로 꼽힌다. 이더리움 레이어2 전환은 네트워크 구조와 토큰 경제, 처리 능력 전반에 영향을 줄 수 있다. 다만 로닌은 원문에서 전환 일정이나 세부 실행 방식은 구체적으로 제시하지 않았다. 출처: coindesk.com."
+    },
+    "en": {
+      "title": "Ronin Plans Ethereum Layer 2 Shift From Independent Sidechain",
+      "excerpt": "Ronin said it plans to move from an independent sidechain to Ethereum layer 2 to strengthen security, tokenomics and scalability.",
+      "body": "Ronin said it is set to transition its network from an independent sidechain to an Ethereum layer 2. The stated purpose of the migration is to improve security, tokenomics and scalability. The security focus is notable because Ronin suffered the largest DeFi bridge exploit on record in 2022. A move to Ethereum layer 2 could affect the network’s structure, token economy and transaction capacity. Ronin did not provide a specific migration timeline or detailed execution plan in the original information. Source: coindesk.com."
+    },
+    "ja": {
+      "title": "Ronin、独立サイドチェーンからEthereumレイヤー2へ移行へ",
+      "excerpt": "Roninは、セキュリティ、トークノミクス、拡張性を強化するため、独立サイドチェーンからEthereumレイヤー2へ移行する方針を示した。",
+      "body": "Roninは、独立サイドチェーンとして運用してきたネットワークをEthereumレイヤー2へ移行する予定だと明らかにした。移行の目的は、セキュリティ、トークノミクス、拡張性を高めることにある。Roninは2022年、記録上最大規模のDeFiブリッジエクスプロイトを経験しており、セキュリティ強化は重要な課題となっている。Ethereumレイヤー2への移行は、ネットワーク構造、トークン経済、処理能力に影響を与える可能性がある。ただし、原文では具体的な移行時期や実行方法は示されていない。出典: coindesk.com."
+    },
+    "zh": {
+      "title": "Ronin拟从独立侧链转向以太坊Layer 2网络",
+      "excerpt": "Ronin表示，将从独立侧链迁移至以太坊Layer 2，以提升安全性、代币经济和可扩展性。",
+      "body": "Ronin表示，计划将其网络从独立侧链转向以太坊Layer 2。此次迁移的目的，是提升安全性、代币经济和可扩展性。Ronin曾在2022年遭遇有记录以来规模最大的DeFi跨链桥漏洞攻击，因此安全改进成为重点议题。转向以太坊Layer 2可能影响网络结构、代币经济设计和交易处理能力。不过，原始信息并未披露具体迁移时间表或详细执行方式。来源: coindesk.com."
+    },
+    "es": {
+      "title": "Ronin prepara su paso de sidechain independiente a Ethereum Layer 2",
+      "excerpt": "Ronin dijo que migrará de una sidechain independiente a Ethereum Layer 2 para mejorar seguridad, tokenómica y escalabilidad.",
+      "body": "Ronin dijo que planea trasladar su red desde una sidechain independiente a una capa 2 de Ethereum. El objetivo de la migración es reforzar la seguridad, la tokenómica y la escalabilidad. El foco en seguridad es relevante porque Ronin sufrió en 2022 el mayor exploit de un puente DeFi registrado hasta ahora. El cambio a Ethereum Layer 2 podría afectar la estructura de la red, la economía del token y la capacidad de procesamiento. La información original no incluye un calendario concreto ni detalles de ejecución. Fuente: coindesk.com."
+    },
+    "pt": {
+      "title": "Ronin planeja migrar de sidechain independente para Ethereum Layer 2",
+      "excerpt": "A Ronin afirmou que migrará de uma sidechain independente para Ethereum Layer 2 para fortalecer segurança, tokenomics e escalabilidade.",
+      "body": "A Ronin afirmou que pretende transferir sua rede de uma sidechain independente para uma camada 2 do Ethereum. O objetivo da migração é melhorar segurança, tokenomics e escalabilidade. O foco em segurança é relevante porque a Ronin sofreu, em 2022, o maior exploit de ponte DeFi já registrado. A mudança para Ethereum Layer 2 pode afetar a estrutura da rede, a economia do token e a capacidade de processamento. A informação original não apresentou cronograma específico nem detalhes de execução. Fonte: coindesk.com."
+    },
+    "de": {
+      "title": "Ronin plant Wechsel von eigener Sidechain zu Ethereum Layer 2",
+      "excerpt": "Ronin will von einer unabhängigen Sidechain zu Ethereum Layer 2 wechseln, um Sicherheit, Tokenomics und Skalierbarkeit zu verbessern.",
+      "body": "Ronin erklärte, das Netzwerk solle von einer unabhängigen Sidechain zu einer Ethereum-Layer-2-Lösung wechseln. Ziel der Migration sei es, Sicherheit, Tokenomics und Skalierbarkeit zu stärken. Der Sicherheitsaspekt ist besonders relevant, da Ronin 2022 den bislang größten registrierten DeFi-Bridge-Exploit erlitt. Der Wechsel zu Ethereum Layer 2 könnte Netzwerkstruktur, Tokenökonomie und Verarbeitungskapazität beeinflussen. Einen konkreten Zeitplan oder detaillierte Umsetzungsschritte nannte die ursprüngliche Information nicht. Quelle: coindesk.com."
+    },
+    "fr": {
+      "title": "Ronin vise Ethereum Layer 2 après son modèle de sidechain indépendante",
+      "excerpt": "Ronin prévoit de passer d’une sidechain indépendante à Ethereum Layer 2 afin d’améliorer sécurité, tokenomics et scalabilité.",
+      "body": "Ronin a indiqué que son réseau devait passer d’une sidechain indépendante à une solution Ethereum Layer 2. L’objectif de cette migration est de renforcer la sécurité, les tokenomics et la scalabilité. L’enjeu de sécurité est central, car Ronin a subi en 2022 le plus grand exploit de pont DeFi jamais enregistré. Le passage à Ethereum Layer 2 pourrait modifier la structure du réseau, l’économie du token et la capacité de traitement. L’information originale ne précise pas de calendrier ni de méthode d’exécution détaillée. Source: coindesk.com."
+    },
+    "ar": {
+      "title": "رونين تتجه للتحول من سلسلة جانبية مستقلة إلى إيثريوم Layer 2",
+      "excerpt": "قالت رونين إنها ستنتقل من سلسلة جانبية مستقلة إلى إيثريوم Layer 2 لتعزيز الأمان واقتصاديات الرمز وقابلية التوسع.",
+      "body": "قالت رونين إن شبكتها تستعد للانتقال من سلسلة جانبية مستقلة إلى طبقة ثانية على إيثريوم. وتهدف هذه الهجرة إلى تحسين الأمان واقتصاديات الرمز وقابلية التوسع. ويبرز جانب الأمان لأن رونين تعرضت في عام 2022 لأكبر استغلال مسجل لجسر في قطاع DeFi. وقد يؤثر الانتقال إلى Ethereum Layer 2 في بنية الشبكة واقتصاد الرمز وقدرة المعالجة. ولم تذكر المعلومات الأصلية جدولا زمنيا محددا أو تفاصيل تنفيذية دقيقة. المصدر: coindesk.com."
+    },
+    "hi": {
+      "title": "Ronin स्वतंत्र साइडचेन से Ethereum Layer 2 पर जाने की तैयारी में",
+      "excerpt": "Ronin ने कहा कि वह सुरक्षा, टोकनॉमिक्स और स्केलेबिलिटी बढ़ाने के लिए स्वतंत्र साइडचेन से Ethereum Layer 2 पर माइग्रेट करेगी।",
+      "body": "Ronin ने कहा कि उसका नेटवर्क स्वतंत्र साइडचेन से Ethereum Layer 2 पर जाने की तैयारी में है। इस माइग्रेशन का उद्देश्य सुरक्षा, टोकनॉमिक्स और स्केलेबिलिटी को मजबूत करना है। सुरक्षा पर जोर इसलिए अहम है क्योंकि Ronin को 2022 में रिकॉर्ड पर सबसे बड़े DeFi ब्रिज एक्सप्लॉइट का सामना करना पड़ा था। Ethereum Layer 2 पर बदलाव नेटवर्क संरचना, टोकन अर्थव्यवस्था और प्रोसेसिंग क्षमता को प्रभावित कर सकता है। मूल जानकारी में माइग्रेशन की तय समयसीमा या विस्तृत कार्यान्वयन योजना नहीं दी गई। स्रोत: coindesk.com."
+    },
+    "id": {
+      "title": "Ronin Siap Beralih dari Sidechain Independen ke Ethereum Layer 2",
+      "excerpt": "Ronin mengatakan akan bermigrasi dari sidechain independen ke Ethereum Layer 2 untuk meningkatkan keamanan, tokenomics, dan skalabilitas.",
+      "body": "Ronin mengatakan jaringannya akan beralih dari sidechain independen ke Ethereum Layer 2. Tujuan migrasi ini adalah meningkatkan keamanan, tokenomics, dan skalabilitas. Fokus pada keamanan menjadi penting karena Ronin pada 2022 mengalami exploit jembatan DeFi terbesar yang tercatat. Peralihan ke Ethereum Layer 2 dapat memengaruhi struktur jaringan, ekonomi token, dan kapasitas pemrosesan. Namun, informasi asli tidak menyebutkan jadwal migrasi tertentu atau rincian teknis pelaksanaannya. Sumber: coindesk.com."
+    }
+  }
+}
