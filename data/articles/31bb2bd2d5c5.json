@@ -1,0 +1,75 @@
+{
+  "id": "31bb2bd2d5c5",
+  "slug": "australia-plans-capital-gains-tax-changes-affecting-crypto-i-150955",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-11T21:05:45.895Z",
+  "updatedAt": "2026-05-11T21:05:45.895Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/australia-government-eyes-swap-from-cgt-to-inflation-indexation-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/australia-government-eyes-swap-from-cgt-to-inflation-indexation-on-crypto-gains",
+  "titleFingerprint": "98a873d751344b140e3501daa9b7bf49f671f499",
+  "dedupKeys": [
+    "31bb2bd2d5c57d851f925cb1d5f247f5c9a987a0",
+    "98a873d751344b140e3501daa9b7bf49f671f499",
+    "b151cf2527f682fceafc0022dae28bf040d03392"
+  ],
+  "imageUrl": "/images/articles/31bb2bd2d5c5.jpg",
+  "i18n": {
+    "ko": {
+      "title": "호주 양도소득세 개편안, 암호화폐 투자자 세부담 바뀌나",
+      "excerpt": "알바니지 정부가 예산안에서 12개월 이상 보유 자산의 50% 양도소득세 할인 대신 물가상승률을 반영한 실질 이익 전액 과세 모델을 검토한다고 보도됐다.",
+      "body": "호주 알바니지 정부가 예산 계획에서 양도소득세 제도 변경을 추진하며 암호화폐 투자자에게도 영향을 줄 수 있다고 cointelegraph.com이 보도했다. 보도에 따르면 현행 제도는 12개월 이상 보유한 자산에 대해 양도소득의 50% 할인을 적용하지만, 새 모델은 물가상승률을 반영해 조정한 실질 이익 전액에 세금을 매기는 방식이다. 이번 변화는 장기 보유 자산의 과세 기준을 할인 중심에서 인플레이션 조정 중심으로 바꾸는 내용이다. 암호화폐도 자본이득 과세 대상 자산에 포함될 수 있어 투자자들은 세후 수익 계산 방식 변화를 주시해야 한다. 출처: cointelegraph.com."
+    },
+    "en": {
+      "title": "Australia Capital Gains Tax Plan May Affect Crypto Investors",
+      "excerpt": "The Albanese government is reportedly considering replacing the 50% capital gains tax discount for assets held over 12 months with a model taxing full inflation-adjusted real gains.",
+      "body": "Australia’s Albanese government is planning changes to capital gains tax in its budget that could affect crypto investors, according to cointelegraph.com. Under the current system, assets held for more than 12 months receive a 50% capital gains tax discount. The reported new model would instead tax the full real gain after adjusting for inflation. The proposal would shift long-term asset taxation from a discount-based approach to an inflation-adjusted calculation. Because crypto may fall within capital gains tax rules, investors may need to watch how after-tax returns are calculated. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "豪州のキャピタルゲイン税改正案、暗号資産投資家に影響か",
+      "excerpt": "アルバニージー政権は、12カ月超保有資産の50%キャピタルゲイン税割引を、インフレ調整後の実質利益全額に課税する方式へ置き換える案を検討していると報じられた。",
+      "body": "豪州のアルバニージー政権が予算計画でキャピタルゲイン税制度の変更を進めており、暗号資産投資家にも影響する可能性があるとcointelegraph.comが報じた。報道によると、現行制度では12カ月を超えて保有した資産に対し、キャピタルゲイン税の50%割引が適用される。新たなモデルでは、インフレ率を反映して調整した実質利益の全額に課税する方式になる。長期保有資産の課税基準は、割引中心からインフレ調整中心へ移る内容だ。暗号資産も資本利益課税の対象となり得るため、投資家は税引き後リターンの計算方法の変化を注視する必要がある。出典: cointelegraph.com."
+    },
+    "zh": {
+      "title": "澳大利亚资本利得税改革或影响加密货币投资者",
+      "excerpt": "据报道，阿尔巴尼斯政府拟在预算中取消持有超过12个月资产的50%资本利得税折扣，改为对经通胀调整后的全部实际收益征税。",
+      "body": "据cointelegraph.com报道，澳大利亚阿尔巴尼斯政府计划在预算中调整资本利得税制度，这可能影响加密货币投资者。报道称，现行制度对持有超过12个月的资产适用50%的资本利得税折扣。新模式则将按通胀调整后的全部实际收益征税。该变化意味着长期持有资产的征税基础将从折扣模式转向通胀调整模式。由于加密货币也可能属于资本利得税适用资产，投资者需要关注税后收益计算方式的变化。来源：cointelegraph.com。"
+    },
+    "es": {
+      "title": "Australia planea cambios al impuesto sobre ganancias de capital cripto",
+      "excerpt": "El gobierno de Albanese evaluaría sustituir el descuento del 50% al impuesto sobre ganancias de capital para activos mantenidos más de 12 meses por un modelo que grava ganancias reales ajustadas por inflación.",
+      "body": "El gobierno australiano de Albanese planea cambios al impuesto sobre ganancias de capital en su presupuesto que podrían afectar a los inversores en criptomonedas, informó cointelegraph.com. Bajo el sistema actual, los activos mantenidos durante más de 12 meses reciben un descuento del 50% en el impuesto sobre ganancias de capital. El nuevo modelo gravaría la totalidad de la ganancia real tras ajustarla por inflación. El cambio trasladaría la tributación de activos de largo plazo desde un enfoque de descuento hacia un cálculo ajustado por inflación. Como las criptomonedas pueden entrar en las reglas de ganancias de capital, los inversores deberán observar cómo cambia el cálculo de los rendimientos después de impuestos. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "Austrália mira imposto sobre ganhos de capital e afeta cripto",
+      "excerpt": "O governo Albanese avalia trocar o desconto de 50% no imposto sobre ganhos de capital para ativos mantidos por mais de 12 meses por tributação integral do ganho real ajustado pela inflação.",
+      "body": "O governo Albanese, da Austrália, planeja mudanças no imposto sobre ganhos de capital em seu orçamento que podem afetar investidores em criptomoedas, segundo o cointelegraph.com. Pelo sistema atual, ativos mantidos por mais de 12 meses recebem desconto de 50% no imposto sobre ganhos de capital. O novo modelo tributaria o ganho real integral após ajuste pela inflação. A mudança levaria a tributação de ativos de longo prazo de uma lógica baseada em desconto para um cálculo ajustado pela inflação. Como criptoativos podem estar sujeitos às regras de ganhos de capital, investidores devem acompanhar mudanças no cálculo do retorno líquido de impostos. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "Australiens Kapitalertragsteuer-Plan könnte Krypto-Anleger treffen",
+      "excerpt": "Die Albanese-Regierung will laut Bericht den 50%-Rabatt auf Kapitalgewinne für über 12 Monate gehaltene Vermögenswerte durch eine Besteuerung realer, inflationsbereinigter Gewinne ersetzen.",
+      "body": "Die australische Albanese-Regierung plant im Haushalt Änderungen an der Kapitalertragsteuer, die auch Krypto-Anleger betreffen könnten, berichtete cointelegraph.com. Nach dem aktuellen System gilt für Vermögenswerte, die länger als 12 Monate gehalten werden, ein Rabatt von 50% auf Kapitalgewinne. Das gemeldete neue Modell würde stattdessen den vollen realen Gewinn nach Anpassung an die Inflation besteuern. Damit würde sich die Besteuerung langfristig gehaltener Vermögenswerte von einem Rabattansatz zu einer inflationsbereinigten Berechnung verschieben. Da Kryptowährungen unter Kapitalgewinnregeln fallen können, sollten Anleger Änderungen bei der Berechnung von Nachsteuerrenditen beachten. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "Australie: la réforme des plus-values pourrait toucher les cryptos",
+      "excerpt": "Le gouvernement Albanese envisagerait de remplacer la décote de 50% sur les plus-values des actifs détenus plus de 12 mois par une imposition du gain réel ajusté de l’inflation.",
+      "body": "Le gouvernement australien d’Anthony Albanese prévoit dans son budget des changements de l’impôt sur les plus-values qui pourraient affecter les investisseurs en cryptomonnaies, selon cointelegraph.com. Le système actuel applique une décote de 50% aux plus-values sur les actifs détenus plus de 12 mois. Le nouveau modèle imposerait la totalité du gain réel après ajustement de l’inflation. Cette évolution ferait passer l’imposition des actifs détenus à long terme d’une logique de décote à un calcul ajusté de l’inflation. Les cryptomonnaies pouvant relever des règles sur les plus-values, les investisseurs devront suivre l’impact sur les rendements après impôt. Source: cointelegraph.com."
+    },
+    "ar": {
+      "title": "خطة ضريبة أرباح رأس المال في أستراليا قد تطال مستثمري الكريبتو",
+      "excerpt": "تدرس حكومة ألبانيزي، بحسب تقرير، استبدال خصم 50% على أرباح رأس المال للأصول المحتفظ بها لأكثر من 12 شهرا بنموذج يفرض الضريبة على كامل الربح الحقيقي المعدل بالتضخم.",
+      "body": "تخطط حكومة ألبانيزي في أستراليا لتغييرات في ضريبة أرباح رأس المال ضمن الميزانية قد تؤثر في مستثمري العملات المشفرة، وفق ما نقل cointelegraph.com. وبموجب النظام الحالي، تحصل الأصول المحتفظ بها لأكثر من 12 شهرا على خصم 50% من ضريبة أرباح رأس المال. أما النموذج الجديد الم reported فسيخضع كامل الربح الحقيقي بعد تعديله بالتضخم للضريبة. ويعني ذلك نقل ضريبة الأصول طويلة الأجل من نهج قائم على الخصم إلى حساب يعتمد على تعديل التضخم. وبما أن العملات المشفرة قد تندرج ضمن قواعد أرباح رأس المال، فعلى المستثمرين متابعة تغير طريقة احتساب العوائد بعد الضريبة. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "ऑस्ट्रेलिया पूंजीगत लाभ कर योजना से क्रिप्टो निवेशक प्रभावित हो सकते हैं",
+      "excerpt": "रिपोर्ट के अनुसार, अल्बानीजी सरकार 12 महीने से अधिक रखी गई संपत्तियों पर 50% पूंजीगत लाभ कर छूट हटाकर मुद्रास्फीति-समायोजित वास्तविक लाभ पर पूरा कर लगाने का मॉडल ला सकती है।",
+      "body": "ऑस्ट्रेलिया की अल्बानीजी सरकार बजट योजना में पूंजीगत लाभ कर नियम बदलने की तैयारी कर रही है, जिससे क्रिप्टो निवेशक प्रभावित हो सकते हैं, cointelegraph.com ने रिपोर्ट किया। मौजूदा व्यवस्था में 12 महीने से अधिक रखी गई संपत्तियों पर पूंजीगत लाभ कर में 50% छूट मिलती है। रिपोर्ट के अनुसार नया मॉडल मुद्रास्फीति के अनुसार समायोजित पूरे वास्तविक लाभ पर कर लगाएगा। इससे दीर्घकालिक संपत्तियों की कर गणना छूट आधारित तरीके से हटकर मुद्रास्फीति-समायोजित तरीके पर जाएगी। चूंकि क्रिप्टो पूंजीगत लाभ कर नियमों के दायरे में आ सकता है, निवेशकों को कर-पश्चात रिटर्न की गणना में बदलाव पर नजर रखनी होगी। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "Rencana Pajak Capital Gains Australia Bisa Berdampak pada Investor Kripto",
+      "excerpt": "Pemerintah Albanese dilaporkan berencana mengganti diskon pajak capital gains 50% untuk aset yang ditahan lebih dari 12 bulan dengan model pajak atas seluruh keuntungan riil yang disesuaikan inflasi.",
+      "body": "Pemerintah Albanese di Australia merencanakan perubahan pajak capital gains dalam anggaran yang dapat memengaruhi investor kripto, menurut cointelegraph.com. Dalam sistem saat ini, aset yang ditahan lebih dari 12 bulan mendapat diskon pajak capital gains sebesar 50%. Model baru yang dilaporkan akan mengenakan pajak atas seluruh keuntungan riil setelah disesuaikan dengan inflasi. Perubahan ini menggeser dasar pajak aset jangka panjang dari pendekatan diskon ke perhitungan berbasis penyesuaian inflasi. Karena kripto dapat masuk dalam aturan pajak capital gains, investor perlu memperhatikan perubahan cara menghitung imbal hasil setelah pajak. Sumber: cointelegraph.com."
+    }
+  }
+}
