@@ -1,5 +1,230 @@
 [
   {
+    "id": "9aa1c23258ee",
+    "slug": "hackers-used-ai-to-build-a-zero-day-exploit-that-bypasses-tw-246090",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T22:12:43.299Z",
+    "updatedAt": "2026-05-11T22:12:43.299Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367477/hackers-ai-zero-day-exploit-google",
+    "canonicalUrl": "https://decrypt.co/367477/hackers-ai-zero-day-exploit-google",
+    "titleFingerprint": "b14821ab8d0a5520e05ea7949fc0e68c924df2b9",
+    "dedupKeys": [
+      "9aa1c23258ee8923d1f5adf59679c87a32da9dbe",
+      "b14821ab8d0a5520e05ea7949fc0e68c924df2b9",
+      "126a678b9ad07d28d5b99f1eb016c09c02639e58"
+    ],
+    "imageUrl": "/images/articles/9aa1c23258ee.png",
+    "i18n": {
+      "ko": {
+        "title": "AI로 만든 제로데이 익스플로잇, 2단계 인증 우회 해커 공격 구글 확인",
+        "excerpt": "구글 위협 분석팀은 월요일 사이버 범죄자들이 AI 모델로 알려지지 않았던 소프트웨어 결함을 찾아 무기화하고, 이를 통해 2단계 인증을 우회했다고 확인했다.",
+        "body": "구글 위협 분석팀은 월요일 사이버 범죄자들이 AI 모델을 활용해 기존에 알려지지 않았던 소프트웨어 결함을 찾아내고 무기화했다고 확인했다. 이 취약점은 제로데이 익스플로잇으로 사용됐으며, 공격 과정에서 2단계 인증을 우회하는 데 쓰인 것으로 전해졌다. 제로데이는 보안 패치나 공개 대응이 나오기 전 악용될 수 있는 결함을 뜻해 방어가 어렵다. 이번 사례는 AI가 단순 자동화 도구를 넘어 취약점 탐색과 공격 코드 제작에 이용될 수 있음을 보여준다. 보안 업계에는 인증 체계와 취약점 대응 절차를 재점검해야 한다는 압박이 커질 전망이다. 출처 decrypt.co에 따르면 이번 내용은 구글의 위협 팀이 확인한 것이다."
+      },
+      "en": {
+        "title": "AI-Built Zero-Day Exploit Bypassed Two-Factor Authentication, Google Says",
+        "excerpt": "Google’s threat team confirmed Monday that cybercriminals used an AI model to find and weaponize a previously unknown software flaw to bypass two-factor authentication.",
+        "body": "Google’s threat team confirmed Monday that cybercriminals used an AI model to discover and weaponize a previously unknown software flaw. The vulnerability was used as a zero-day exploit and reportedly helped attackers bypass two-factor authentication during the attack. A zero-day refers to a flaw that can be abused before a security patch or public response is available, making defense difficult. The case shows that AI can be used beyond simple automation, including vulnerability discovery and exploit development. It is likely to increase pressure on security teams to review authentication systems and vulnerability response procedures. According to decrypt.co, the findings were confirmed by Google’s threat team."
+      },
+      "ja": {
+        "title": "AI作成のゼロデイ悪用、二要素認証を回避とGoogle脅威チーム確認",
+        "excerpt": "Googleの脅威分析チームは月曜日、サイバー犯罪者がAIモデルで未知のソフトウェア欠陥を見つけて武器化し、二要素認証を回避したと確認した。",
+        "body": "Googleの脅威分析チームは月曜日、サイバー犯罪者がAIモデルを使い、これまで知られていなかったソフトウェアの欠陥を発見して武器化したと確認した。この脆弱性はゼロデイエクスプロイトとして使われ、攻撃の過程で二要素認証を回避するために利用されたとされる。ゼロデイとは、セキュリティパッチや公的な対応が出る前に悪用され得る欠陥を指し、防御が難しい。今回の事例は、AIが単なる自動化ツールを超え、脆弱性の探索や攻撃コード作成にも使われ得ることを示している。セキュリティ業界では、認証体制と脆弱性対応手順の再点検を迫られる可能性がある。decrypt.coによると、この内容はGoogleの脅威チームが確認した。"
+      },
+      "zh": {
+        "title": "AI打造零日漏洞利用绕过双因素认证，谷歌威胁团队确认",
+        "excerpt": "谷歌威胁团队周一确认，网络犯罪分子使用AI模型发现并武器化一个此前未知的软件缺陷，并借此绕过双因素认证。",
+        "body": "谷歌威胁团队周一确认，网络犯罪分子使用AI模型发现并武器化了一个此前未知的软件缺陷。该漏洞被用作零日漏洞利用，并据称在攻击过程中帮助攻击者绕过双因素认证。零日漏洞指在安全补丁或公开应对措施推出前就可能被滥用的缺陷，因此防御难度较高。此次事件显示，AI的用途已不止于简单自动化，也可能被用于漏洞发现和攻击代码制作。安全行业预计将面临更大压力，需要重新审视认证体系和漏洞响应流程。据decrypt.co报道，这一情况已由谷歌威胁团队确认。"
+      },
+      "es": {
+        "title": "Exploit de día cero creado con IA eludió la autenticación en dos pasos: Google",
+        "excerpt": "El equipo de amenazas de Google confirmó el lunes que ciberdelincuentes usaron un modelo de IA para hallar y convertir en arma una falla de software desconocida.",
+        "body": "El equipo de amenazas de Google confirmó el lunes que ciberdelincuentes usaron un modelo de IA para descubrir y convertir en arma una falla de software previamente desconocida. La vulnerabilidad se utilizó como exploit de día cero y, según el reporte, ayudó a los atacantes a eludir la autenticación en dos pasos durante el ataque. Un día cero es una falla que puede explotarse antes de que exista un parche de seguridad o una respuesta pública, lo que dificulta la defensa. El caso muestra que la IA puede usarse más allá de la automatización simple, incluida la búsqueda de vulnerabilidades y la creación de código de ataque. La industria de seguridad podría enfrentar más presión para revisar sus sistemas de autenticación y sus procesos de respuesta. Según decrypt.co, la información fue confirmada por el equipo de amenazas de Google."
+      },
+      "pt": {
+        "title": "Exploit zero-day criado com IA burlou autenticação em dois fatores, diz Google",
+        "excerpt": "A equipe de ameaças do Google confirmou na segunda-feira que cibercriminosos usaram um modelo de IA para encontrar e explorar uma falha de software desconhecida.",
+        "body": "A equipe de ameaças do Google confirmou na segunda-feira que cibercriminosos usaram um modelo de IA para descobrir e transformar em arma uma falha de software até então desconhecida. A vulnerabilidade foi usada como um exploit zero-day e, segundo o relato, ajudou os invasores a burlar a autenticação em dois fatores durante o ataque. Um zero-day é uma falha que pode ser explorada antes de haver correção de segurança ou resposta pública, o que dificulta a defesa. O caso mostra que a IA pode ser usada além da automação simples, incluindo a busca por vulnerabilidades e a criação de código de ataque. O setor de segurança deve enfrentar mais pressão para revisar sistemas de autenticação e processos de resposta a falhas. Segundo decrypt.co, a informação foi confirmada pela equipe de ameaças do Google."
+      },
+      "de": {
+        "title": "KI-erstellter Zero-Day-Exploit umging Zwei-Faktor-Authentifizierung, sagt Google",
+        "excerpt": "Googles Bedrohungsteam bestätigte am Montag, dass Cyberkriminelle ein KI-Modell nutzten, um eine zuvor unbekannte Softwarelücke zu finden und zu weaponisieren.",
+        "body": "Googles Bedrohungsteam bestätigte am Montag, dass Cyberkriminelle ein KI-Modell nutzten, um eine zuvor unbekannte Softwarelücke zu entdecken und für Angriffe nutzbar zu machen. Die Schwachstelle wurde als Zero-Day-Exploit eingesetzt und soll Angreifern geholfen haben, während des Angriffs die Zwei-Faktor-Authentifizierung zu umgehen. Ein Zero-Day bezeichnet eine Lücke, die vor einem Sicherheitspatch oder einer öffentlichen Reaktion ausgenutzt werden kann, was die Verteidigung erschwert. Der Fall zeigt, dass KI über einfache Automatisierung hinaus eingesetzt werden kann, einschließlich Schwachstellensuche und Erstellung von Angriffscode. Für die Sicherheitsbranche dürfte der Druck steigen, Authentifizierungssysteme und Verfahren zur Reaktion auf Schwachstellen zu überprüfen. Laut decrypt.co wurden die Erkenntnisse von Googles Bedrohungsteam bestätigt."
+      },
+      "fr": {
+        "title": "Un exploit zero-day créé avec l’IA a contourné la double authentification, dit Google",
+        "excerpt": "L’équipe de veille de Google a confirmé lundi que des cybercriminels avaient utilisé un modèle d’IA pour trouver et armer une faille logicielle inconnue jusque-là.",
+        "body": "L’équipe de veille de Google a confirmé lundi que des cybercriminels avaient utilisé un modèle d’IA pour découvrir et armer une faille logicielle jusque-là inconnue. La vulnérabilité a été utilisée comme exploit zero-day et aurait aidé les attaquants à contourner la double authentification pendant l’attaque. Un zero-day désigne une faille pouvant être exploitée avant la publication d’un correctif de sécurité ou d’une réponse publique, ce qui rend la défense difficile. Ce cas montre que l’IA peut servir au-delà de la simple automatisation, notamment pour la recherche de vulnérabilités et la création de code d’attaque. Le secteur de la cybersécurité devrait subir une pression accrue pour réexaminer ses systèmes d’authentification et ses procédures de réponse aux failles. Selon decrypt.co, ces éléments ont été confirmés par l’équipe de veille de Google."
+      },
+      "ar": {
+        "title": "استغلال ثغرة صفرية صُنع بالذكاء الاصطناعي تجاوز المصادقة الثنائية، وفق غوغل",
+        "excerpt": "أكد فريق التهديدات في غوغل يوم الاثنين أن مجرمي الإنترنت استخدموا نموذجا للذكاء الاصطناعي لاكتشاف عيب برمجي غير معروف سابقا وتحويله إلى أداة هجوم.",
+        "body": "أكد فريق التهديدات في غوغل يوم الاثنين أن مجرمي الإنترنت استخدموا نموذجا للذكاء الاصطناعي لاكتشاف عيب برمجي لم يكن معروفا من قبل وتحويله إلى أداة هجوم. واستُخدمت الثغرة كاستغلال صفري، وقيل إنها ساعدت المهاجمين على تجاوز المصادقة الثنائية أثناء الهجوم. ويشير مصطلح الثغرة الصفرية إلى عيب يمكن استغلاله قبل صدور تصحيح أمني أو رد علني، ما يجعل الدفاع عنه صعبا. وتظهر هذه الحالة أن الذكاء الاصطناعي قد يستخدم في ما يتجاوز الأتمتة البسيطة، بما في ذلك البحث عن الثغرات وإنشاء شيفرات هجومية. ومن المتوقع أن يزداد الضغط على قطاع الأمن لمراجعة أنظمة المصادقة وإجراءات الاستجابة للثغرات. ووفقا لـ decrypt.co، فقد أكد فريق التهديدات في غوغل هذه المعلومات."
+      },
+      "hi": {
+        "title": "AI से बने जीरो-डे एक्सप्लॉइट ने टू-फैक्टर ऑथेंटिकेशन को बायपास किया: Google",
+        "excerpt": "Google की थ्रेट टीम ने सोमवार को पुष्टि की कि साइबर अपराधियों ने AI मॉडल से पहले अज्ञात सॉफ्टवेयर खामी खोजी, उसे हथियार बनाया और 2FA को बायपास किया।",
+        "body": "Google की थ्रेट टीम ने सोमवार को पुष्टि की कि साइबर अपराधियों ने AI मॉडल का उपयोग कर पहले से अज्ञात सॉफ्टवेयर खामी खोजी और उसे हमले के लिए हथियार बनाया। इस कमजोरी का इस्तेमाल जीरो-डे एक्सप्लॉइट के रूप में किया गया और बताया गया कि इससे हमलावरों को हमले के दौरान टू-फैक्टर ऑथेंटिकेशन बायपास करने में मदद मिली। जीरो-डे ऐसी खामी होती है जिसका दुरुपयोग सुरक्षा पैच या सार्वजनिक प्रतिक्रिया आने से पहले किया जा सकता है, इसलिए उससे बचाव कठिन होता है। यह मामला दिखाता है कि AI केवल साधारण ऑटोमेशन तक सीमित नहीं है, बल्कि कमजोरी खोजने और अटैक कोड बनाने में भी इस्तेमाल हो सकता है। सुरक्षा क्षेत्र पर ऑथेंटिकेशन सिस्टम और कमजोरी प्रतिक्रिया प्रक्रियाओं की समीक्षा का दबाव बढ़ सकता है। decrypt.co के अनुसार, यह जानकारी Google की थ्रेट टीम ने पुष्टि की है।"
+      },
+      "id": {
+        "title": "Eksploit Zero-Day Buatan AI Tembus Autentikasi Dua Faktor, Google Mengonfirmasi",
+        "excerpt": "Tim ancaman Google mengonfirmasi Senin bahwa penjahat siber memakai model AI untuk menemukan dan mempersenjatai celah perangkat lunak yang sebelumnya tidak diketahui.",
+        "body": "Tim ancaman Google mengonfirmasi pada Senin bahwa penjahat siber menggunakan model AI untuk menemukan dan mempersenjatai celah perangkat lunak yang sebelumnya tidak diketahui. Kerentanan itu digunakan sebagai eksploit zero-day dan disebut membantu penyerang melewati autentikasi dua faktor dalam serangan tersebut. Zero-day adalah celah yang dapat disalahgunakan sebelum patch keamanan atau respons publik tersedia, sehingga sulit dipertahankan. Kasus ini menunjukkan bahwa AI dapat digunakan melampaui otomatisasi sederhana, termasuk untuk mencari kerentanan dan membuat kode serangan. Industri keamanan kemungkinan menghadapi tekanan lebih besar untuk meninjau sistem autentikasi dan prosedur respons kerentanan. Menurut decrypt.co, temuan ini dikonfirmasi oleh tim ancaman Google."
+      }
+    }
+  },
+  {
+    "id": "3d133a3cc61f",
+    "slug": "clarity-act-vote-set-for-thursday-here39s-where-the-crypto-b-796837",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T22:11:39.587Z",
+    "updatedAt": "2026-05-11T22:11:39.587Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367487/clarity-act-vote-set-here-where-crypto-bill-stands",
+    "canonicalUrl": "https://decrypt.co/367487/clarity-act-vote-set-here-where-crypto-bill-stands",
+    "titleFingerprint": "a4a7382e0b1a81f7ed3708083e9ce7c9a5024283",
+    "dedupKeys": [
+      "3d133a3cc61f3716b51a11e72213c5435c231ffc",
+      "a4a7382e0b1a81f7ed3708083e9ce7c9a5024283",
+      "7238bb704442f59ea2eb1d124a1b522965821af8"
+    ],
+    "imageUrl": "/images/articles/3d133a3cc61f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "클래리티법 목요일 표결 앞둔 암호화폐 법안, 향방은 여전히 유동적",
+        "excerpt": "암호화폐 업계 리더들은 수개월 만에 가장 높은 자신감을 보이고 있지만, 이번 주 목요일 상원 은행위원회 표결을 앞둔 클래리티법의 결과는 아직 여러 방향으로 열려 있다.",
+        "body": "암호화폐 규제 법안인 클래리티법이 이번 주 목요일 상원 은행위원회 표결을 앞두고 있다. 업계 리더들은 최근 수개월 사이 가장 높은 자신감을 보이고 있지만, 핵심 표결의 결과는 아직 확정적이지 않다. 배경에는 미국 의회 내 암호화폐 규제 논의가 이어지는 가운데, 해당 법안이 위원회 단계에서 중요한 분기점에 놓였다는 점이 있다. 이번 표결은 법안의 정치적 추진력과 향후 처리 가능성을 가늠하는 계기가 될 수 있다. 다만 원문은 표결이 여러 방향으로 전개될 수 있다고 전했다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Clarity Act Heads to Thursday Vote as Crypto Bill Outlook Stays Open",
+        "excerpt": "Crypto industry leaders are showing their strongest confidence in months, but the Clarity Act’s Thursday vote in the Senate Banking Committee could still move in several directions.",
+        "body": "The Clarity Act, a crypto regulation bill, is set for a vote on Thursday in the Senate Banking Committee. Industry leaders are showing their highest level of confidence in months, but the outcome of the key vote is not yet settled. The context is that U.S. congressional debate over crypto regulation continues, while the bill faces an important committee-stage turning point. The vote could help indicate the bill’s political momentum and its prospects for further action. However, the original report said the vote could still go many ways. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "クラリティ法案が木曜採決へ、暗号資産法案の行方はなお流動的",
+        "excerpt": "暗号資産業界のリーダーは数カ月ぶりに強い自信を示しているが、今週木曜の上院銀行委員会でのクラリティ法案採決はなお複数の展開があり得る。",
+        "body": "暗号資産規制法案であるクラリティ法案は、今週木曜に上院銀行委員会で採決される予定だ。業界リーダーはここ数カ月で最も高い自信を示しているが、重要な採決の結果はまだ確定的ではない。背景には、米議会で暗号資産規制をめぐる議論が続くなか、この法案が委員会段階で重要な分岐点を迎えていることがある。今回の採決は、法案の政治的な推進力と今後の処理可能性を測る材料になり得る。ただし原文は、採決がなおさまざまな方向に進む可能性があると伝えている。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "Clarity Act周四将表决，加密货币法案前景仍存变数",
+        "excerpt": "加密货币行业领袖正表现出数月来最强信心，但本周四参议院银行委员会对Clarity Act的关键表决仍可能出现多种结果。",
+        "body": "加密货币监管法案Clarity Act将于本周四在参议院银行委员会进行表决。行业领袖正表现出近几个月来最高的信心，但这场关键表决的结果尚未确定。其背景是，美国国会围绕加密货币监管的讨论仍在继续，而该法案正处于委员会阶段的重要转折点。此次表决可能成为观察法案政治推进力及后续处理前景的依据。不过，原文指出，这场表决仍可能朝多个方向发展。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Clarity Act va a votación el jueves y el futuro cripto sigue abierto",
+        "excerpt": "Los líderes cripto muestran su mayor confianza en meses, pero la votación del jueves en el Comité Bancario del Senado sobre la Clarity Act aún puede tomar varios rumbos.",
+        "body": "La Clarity Act, un proyecto de regulación cripto, será sometida a votación este jueves en el Comité Bancario del Senado. Los líderes del sector muestran su mayor nivel de confianza en meses, pero el resultado de la votación clave aún no está definido. El contexto es que el debate sobre regulación de criptomonedas continúa en el Congreso de Estados Unidos, mientras el proyecto llega a un punto importante en la etapa de comité. Esta votación podría servir para medir el impulso político de la ley y sus posibilidades de avance. Sin embargo, el reporte original indicó que la votación todavía podría tomar varios caminos. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Clarity Act terá votação na quinta e futuro da lei cripto segue aberto",
+        "excerpt": "Líderes do setor cripto mostram a maior confiança em meses, mas a votação de quinta no Comitê Bancário do Senado sobre a Clarity Act ainda pode seguir vários caminhos.",
+        "body": "A Clarity Act, projeto de regulação cripto, deve ser votada nesta quinta-feira no Comitê Bancário do Senado. Líderes do setor demonstram o maior nível de confiança dos últimos meses, mas o resultado da votação decisiva ainda não está definido. O contexto é que o debate sobre regulação de criptomoedas segue no Congresso dos Estados Unidos, enquanto o projeto chega a um ponto importante na etapa de comitê. A votação pode ajudar a medir o impulso político da proposta e suas chances de avançar. No entanto, o texto original afirmou que a votação ainda pode seguir vários caminhos. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Clarity Act vor Donnerstagsvotum, Krypto-Gesetz bleibt offen",
+        "excerpt": "Krypto-Führungskräfte zeigen so viel Zuversicht wie seit Monaten nicht, doch die Abstimmung am Donnerstag im Bankenausschuss des Senats über den Clarity Act bleibt offen.",
+        "body": "Der Clarity Act, ein Gesetzentwurf zur Krypto-Regulierung, soll am Donnerstag im Bankenausschuss des Senats zur Abstimmung kommen. Branchenführer zeigen ihre größte Zuversicht seit Monaten, doch das Ergebnis dieser wichtigen Abstimmung ist noch nicht entschieden. Hintergrund ist die anhaltende Debatte im US-Kongress über Krypto-Regulierung, während der Entwurf auf Ausschussebene einen wichtigen Wendepunkt erreicht. Die Abstimmung könnte Hinweise auf den politischen Schwung des Gesetzes und seine weiteren Chancen geben. Der Originalbericht betonte jedoch, dass die Abstimmung weiterhin in mehrere Richtungen laufen kann. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Clarity Act voté jeudi, l’avenir du texte crypto reste incertain",
+        "excerpt": "Les dirigeants crypto affichent leur plus forte confiance depuis des mois, mais le vote de jeudi au comité bancaire du Sénat sur le Clarity Act peut encore évoluer dans plusieurs sens.",
+        "body": "Le Clarity Act, projet de loi sur la régulation des cryptomonnaies, doit être voté jeudi par le comité bancaire du Sénat. Les dirigeants du secteur affichent leur plus haut niveau de confiance depuis des mois, mais l’issue de ce vote clé n’est pas encore certaine. Le contexte est celui d’un débat toujours en cours au Congrès américain sur la régulation crypto, alors que le texte arrive à un moment important au stade du comité. Ce vote pourrait permettre d’évaluer l’élan politique du projet et ses perspectives de progression. Toutefois, l’article original indique que le vote peut encore prendre plusieurs directions. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "تصويت الخميس على Clarity Act يترك مصير قانون الكريبتو مفتوحا",
+        "excerpt": "يبدي قادة قطاع العملات المشفرة أعلى مستوى من الثقة منذ أشهر، لكن تصويت لجنة البنوك في مجلس الشيوخ يوم الخميس على Clarity Act قد يسير في عدة اتجاهات.",
+        "body": "من المقرر أن يخضع مشروع Clarity Act، وهو مشروع قانون لتنظيم العملات المشفرة، للتصويت يوم الخميس في لجنة البنوك بمجلس الشيوخ. ويظهر قادة القطاع أعلى مستوى من الثقة منذ أشهر، لكن نتيجة هذا التصويت المهم لم تُحسم بعد. يأتي ذلك في سياق استمرار نقاش الكونغرس الأميركي حول تنظيم العملات المشفرة، بينما يقف المشروع عند محطة مهمة في مرحلة اللجنة. وقد يساعد التصويت في قياس الزخم السياسي للقانون وفرص انتقاله إلى خطوات لاحقة. ومع ذلك، ذكر التقرير الأصلي أن التصويت لا يزال يمكن أن يتجه في عدة مسارات. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Clarity Act पर गुरुवार को वोट, क्रिप्टो बिल की दिशा अब भी खुली",
+        "excerpt": "क्रिप्टो उद्योग के नेता कई महीनों में सबसे अधिक भरोसा दिखा रहे हैं, लेकिन सीनेट बैंकिंग कमेटी में गुरुवार को Clarity Act पर होने वाला वोट अभी कई दिशाओं में जा सकता है।",
+        "body": "क्रिप्टो नियमन बिल Clarity Act पर इस गुरुवार सीनेट बैंकिंग कमेटी में वोट होना तय है। उद्योग के नेता पिछले कई महीनों की तुलना में सबसे अधिक आत्मविश्वास दिखा रहे हैं, लेकिन इस अहम वोट का परिणाम अभी तय नहीं है। पृष्ठभूमि में अमेरिकी कांग्रेस में क्रिप्टो नियमन पर जारी चर्चा है, जबकि यह बिल समिति चरण में एक महत्वपूर्ण मोड़ पर खड़ा है। यह वोट बिल की राजनीतिक गति और आगे बढ़ने की संभावना का संकेत दे सकता है। हालांकि मूल रिपोर्ट ने कहा कि वोट अभी भी कई दिशाओं में जा सकता है। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Clarity Act Dipilih Kamis, Arah RUU Kripto Masih Terbuka",
+        "excerpt": "Para pemimpin industri kripto menunjukkan kepercayaan tertinggi dalam beberapa bulan, tetapi pemungutan suara Kamis di Komite Perbankan Senat atas Clarity Act masih bisa bergerak ke banyak arah.",
+        "body": "Clarity Act, rancangan undang-undang regulasi kripto, dijadwalkan menjalani pemungutan suara pada Kamis di Komite Perbankan Senat. Para pemimpin industri menunjukkan tingkat kepercayaan tertinggi dalam beberapa bulan, tetapi hasil dari pemungutan suara penting ini belum pasti. Latar belakangnya adalah pembahasan regulasi kripto yang masih berlanjut di Kongres AS, sementara RUU tersebut berada pada titik penting di tahap komite. Pemungutan suara ini dapat menjadi ukuran momentum politik RUU dan peluang proses berikutnya. Namun, laporan asli menyebut pemungutan suara masih dapat berjalan ke berbagai arah. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "ed6e5fc9857c",
+    "slug": "baidu39s-new-ai-is-already-beating-top-models-and-cost-94-le-201635",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T22:10:43.439Z",
+    "updatedAt": "2026-05-11T22:10:43.439Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367493/baidu-ai-model-cost-less-train-beating-everyone-china",
+    "canonicalUrl": "https://decrypt.co/367493/baidu-ai-model-cost-less-train-beating-everyone-china",
+    "titleFingerprint": "77a30e2db7d6b271205ac7158de63757ca5a4409",
+    "dedupKeys": [
+      "ed6e5fc9857c399d4c8041b69e5a572762b3ce40",
+      "77a30e2db7d6b271205ac7158de63757ca5a4409",
+      "ef456825b11aeccf26797ee519404e004592267d"
+    ],
+    "imageUrl": "/images/articles/ed6e5fc9857c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "바이두 ERNIE 5.1, 중국 AI 순위 선두권…구축비 94% 절감",
+        "excerpt": "바이두의 새 AI 모델 ERNIE 5.1이 중국 AI 리더보드 상위권에 오르며, 경쟁 모델 대비 훨씬 낮은 비용과 ‘파라미터 효율성’ 개선을 앞세웠다.",
+        "body": "바이두의 새 AI 모델 ERNIE 5.1이 중국 AI 리더보드에서 최상위권에 오르며 주목받고 있다. decrypt.co에 따르면 ERNIE 5.1은 주요 상위 모델들과 경쟁하는 성능을 보이면서도 구축 비용은 경쟁사 대비 94% 낮은 수준으로 알려졌다. 바이두는 이를 ‘파라미터 효율성’의 도약이라고 설명했다. 이번 성과는 대규모 AI 개발 경쟁에서 단순한 모델 크기 확대보다 비용 대비 성능 개선이 중요해지고 있음을 보여준다. 낮은 구축 비용으로 상위권 성능을 입증한 ERNIE 5.1은 중국 AI 시장의 경쟁 구도와 향후 모델 개발 전략에 영향을 줄 수 있다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Baidu ERNIE 5.1 Tops China AI Rankings With 94% Lower Build Cost",
+        "excerpt": "Baidu’s new AI model ERNIE 5.1 has climbed to the top tier of Chinese AI leaderboards, highlighting stronger parameter efficiency and far lower build costs.",
+        "body": "Baidu’s new AI model ERNIE 5.1 is drawing attention after reaching the top tier of Chinese AI leaderboards. According to decrypt.co, ERNIE 5.1 is competing with leading models while reportedly costing 94% less to build than rivals. Baidu describes the result as a leap in “parameter efficiency.” The performance points to a shift in large-scale AI development, where improving cost-to-performance ratios is becoming as important as increasing model size. By showing top-ranking capability at a much lower build cost, ERNIE 5.1 could influence competition in China’s AI market and future model development strategies. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "百度ERNIE 5.1、中国AI順位で首位級に…構築費94％削減",
+        "excerpt": "百度の新AIモデルERNIE 5.1が中国AIリーダーボード上位に入り、競合より大幅に低い構築費と「パラメータ効率」の改善を示した。",
+        "body": "百度の新AIモデルERNIE 5.1が、中国AIリーダーボードで最上位クラスに入り注目されている。decrypt.coによると、ERNIE 5.1は主要な上位モデルと競う性能を示しながら、構築費は競合より94％低い水準とされる。百度はこれを「パラメータ効率」の飛躍だと説明している。今回の成果は、大規模AI開発競争で単にモデル規模を拡大するだけでなく、費用対効果を高めることの重要性が増していることを示す。低い構築費で上位性能を示したERNIE 5.1は、中国AI市場の競争環境と今後のモデル開発戦略に影響を与える可能性がある。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "百度ERNIE 5.1登上中国AI榜单前列，构建成本低94%",
+        "excerpt": "百度新AI模型ERNIE 5.1进入中国AI排行榜前列，以更低构建成本和“参数效率”提升挑战顶级模型。",
+        "body": "百度新AI模型ERNIE 5.1因进入中国AI排行榜最前列而受到关注。据decrypt.co报道，ERNIE 5.1在与主要顶级模型竞争时展现出强劲表现，同时其构建成本据称比竞争对手低94%。百度将这一成果称为“参数效率”的跃升。这一进展表明，在大规模AI开发竞争中，相比单纯扩大模型规模，提升成本与性能之间的效率正变得同样重要。ERNIE 5.1以较低构建成本证明了上榜实力，可能影响中国AI市场竞争格局以及未来模型开发策略。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Baidu ERNIE 5.1 lidera rankings de IA en China con 94% menos coste",
+        "excerpt": "El nuevo modelo de IA ERNIE 5.1 de Baidu subió a la cima de los rankings chinos, con menor coste de construcción y una mejora en eficiencia de parámetros.",
+        "body": "El nuevo modelo de IA de Baidu, ERNIE 5.1, está llamando la atención tras colocarse en el nivel más alto de los rankings chinos de inteligencia artificial. Según decrypt.co, ERNIE 5.1 compite con los principales modelos líderes mientras su coste de construcción sería un 94% menor que el de sus rivales. Baidu describe este avance como un salto en “eficiencia de parámetros”. El resultado muestra que, en la carrera por desarrollar IA a gran escala, mejorar la relación entre coste y rendimiento se vuelve tan importante como aumentar el tamaño del modelo. Al demostrar rendimiento de primer nivel con menor coste, ERNIE 5.1 podría influir en la competencia del mercado chino de IA y en futuras estrategias de desarrollo. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Baidu ERNIE 5.1 lidera rankings de IA na China com custo 94% menor",
+        "excerpt": "O novo modelo de IA ERNIE 5.1 da Baidu chegou ao topo dos rankings chineses, destacando menor custo de construção e avanço em eficiência de parâmetros.",
+        "body": "O novo modelo de IA da Baidu, ERNIE 5.1, chama atenção ao alcançar a faixa mais alta dos rankings chineses de inteligência artificial. Segundo o decrypt.co, o ERNIE 5.1 compete com modelos líderes enquanto teria custado 94% menos para ser construído do que os rivais. A Baidu descreve o resultado como um salto em “eficiência de parâmetros”. O desempenho indica que, na disputa por IA em larga escala, melhorar a relação entre custo e desempenho está se tornando tão importante quanto ampliar o tamanho dos modelos. Ao demonstrar capacidade de ponta com custo menor, o ERNIE 5.1 pode influenciar a competição no mercado chinês de IA e futuras estratégias de desenvolvimento. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Baidu ERNIE 5.1 führt Chinas KI-Rankings an, bei 94% weniger Baukosten",
+        "excerpt": "Baidus neues KI-Modell ERNIE 5.1 erreicht die Spitze chinesischer KI-Ranglisten und setzt auf deutlich niedrigere Kosten sowie höhere Parametereffizienz.",
+        "body": "Baidus neues KI-Modell ERNIE 5.1 sorgt für Aufmerksamkeit, nachdem es in chinesischen KI-Ranglisten in die Spitzengruppe aufgestiegen ist. Laut decrypt.co konkurriert ERNIE 5.1 mit führenden Topmodellen, soll aber 94% weniger in der Entwicklung gekostet haben als rivalisierende Modelle. Baidu bezeichnet dies als Sprung bei der „Parametereffizienz“. Das Ergebnis zeigt, dass im Wettbewerb um große KI-Modelle nicht nur die Modellgröße zählt, sondern auch ein besseres Verhältnis von Kosten und Leistung. Mit hoher Leistung bei deutlich geringeren Aufbaukosten könnte ERNIE 5.1 die Konkurrenz im chinesischen KI-Markt und künftige Entwicklungsstrategien beeinflussen. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Baidu ERNIE 5.1 en tête des classements IA chinois avec 94% de coût en moins",
+        "excerpt": "Le nouveau modèle IA ERNIE 5.1 de Baidu atteint le haut des classements chinois grâce à des coûts réduits et à une meilleure efficacité des paramètres.",
+        "body": "Le nouveau modèle d’IA de Baidu, ERNIE 5.1, attire l’attention après son arrivée dans le haut des classements chinois d’intelligence artificielle. Selon decrypt.co, ERNIE 5.1 rivalise avec les principaux modèles de pointe tout en affichant un coût de construction inférieur de 94% à celui de ses concurrents. Baidu présente ce résultat comme un bond en matière d’« efficacité des paramètres ». Cette performance montre que, dans la course au développement de l’IA à grande échelle, l’amélioration du rapport coût-performance devient aussi importante que l’augmentation de la taille des modèles. En prouvant une performance de premier plan à moindre coût, ERNIE 5.1 pourrait influencer la concurrence sur le marché chinois de l’IA et les futures stratégies de développement. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "Baidu ERNIE 5.1 يتصدر تصنيفات الذكاء الاصطناعي في الصين بتكلفة أقل 94%",
+        "excerpt": "صعد نموذج Baidu الجديد ERNIE 5.1 إلى صدارة تصنيفات الذكاء الاصطناعي الصينية، مع تكلفة بناء أقل وتحسن في كفاءة المعلمات.",
+        "body": "يجذب نموذج الذكاء الاصطناعي الجديد من بايدو، ERNIE 5.1، الانتباه بعد وصوله إلى المراتب العليا في تصنيفات الذكاء الاصطناعي الصينية. ووفقًا لـ decrypt.co، ينافس ERNIE 5.1 نماذج رائدة، بينما يُقال إن تكلفة بنائه أقل بنسبة 94% من منافسيه. وتصف بايدو هذا الإنجاز بأنه قفزة في “كفاءة المعلمات”. وتوضح هذه النتيجة أن سباق تطوير الذكاء الاصطناعي واسع النطاق لم يعد يعتمد فقط على زيادة حجم النماذج، بل أيضًا على تحسين العلاقة بين التكلفة والأداء. وبإثبات أداء متقدم بتكلفة بناء أقل، قد يؤثر ERNIE 5.1 في المنافسة داخل سوق الذكاء الاصطناعي الصيني واستراتيجيات تطوير النماذج مستقبلًا. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Baidu ERNIE 5.1 चीन AI रैंकिंग में ऊपर, निर्माण लागत 94% कम",
+        "excerpt": "Baidu का नया AI मॉडल ERNIE 5.1 चीनी AI लीडरबोर्ड में शीर्ष स्तर पर पहुंचा, कम निर्माण लागत और बेहतर पैरामीटर दक्षता को सामने लाता है।",
+        "body": "Baidu का नया AI मॉडल ERNIE 5.1 चीनी AI लीडरबोर्ड में शीर्ष स्तर पर पहुंचने के बाद ध्यान खींच रहा है। decrypt.co के अनुसार, ERNIE 5.1 प्रमुख शीर्ष मॉडलों से प्रतिस्पर्धा कर रहा है, जबकि इसके निर्माण की लागत प्रतिद्वंद्वियों की तुलना में 94% कम बताई गई है। Baidu इसे “पैरामीटर दक्षता” में छलांग बताता है। यह उपलब्धि दिखाती है कि बड़े पैमाने पर AI विकास की दौड़ में केवल मॉडल का आकार बढ़ाना ही नहीं, बल्कि लागत के मुकाबले प्रदर्शन सुधारना भी महत्वपूर्ण हो रहा है। कम निर्माण लागत पर शीर्ष स्तर की क्षमता दिखाने वाला ERNIE 5.1 चीन के AI बाजार की प्रतिस्पर्धा और भविष्य की मॉडल विकास रणनीतियों को प्रभावित कर सकता है। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Baidu ERNIE 5.1 Puncaki Ranking AI China dengan Biaya 94% Lebih Rendah",
+        "excerpt": "Model AI baru Baidu, ERNIE 5.1, naik ke jajaran teratas leaderboard AI China dengan biaya pembangunan lebih rendah dan efisiensi parameter lebih baik.",
+        "body": "Model AI baru Baidu, ERNIE 5.1, menarik perhatian setelah masuk jajaran teratas leaderboard AI China. Menurut decrypt.co, ERNIE 5.1 mampu bersaing dengan model-model unggulan sambil disebut membutuhkan biaya pembangunan 94% lebih rendah dibanding para pesaingnya. Baidu menyebut capaian ini sebagai lompatan dalam “efisiensi parameter”. Hasil tersebut menunjukkan bahwa dalam persaingan pengembangan AI skala besar, peningkatan rasio biaya terhadap kinerja semakin penting, bukan hanya memperbesar ukuran model. Dengan membuktikan performa papan atas melalui biaya pembangunan yang lebih rendah, ERNIE 5.1 dapat memengaruhi persaingan pasar AI China dan strategi pengembangan model di masa depan. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
     "id": "8231f0fcc912",
     "slug": "circle-gives-ai-agents-usdc-stablecoin-powers-alongside-222m-473976",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Bantuan kedua dampak harga BBM tinggi mulai 18, rumah tangga tunggal premi kesehatan maksimal 130.000 won",
         "excerpt": "Pemerintah akan menyalurkan bantuan kedua dampak harga BBM tinggi mulai tanggal 18, memilih 70% pendapatan terbawah berdasarkan premi asuransi kesehatan Maret dan membayar 100.000-250.000 won menurut wilayah tinggal.",
         "body": "Pemerintah mengumumkan kriteria premi asuransi kesehatan untuk memilih 70% kelompok pendapatan terbawah dan akan mulai menyalurkan bantuan kedua bagi dampak harga BBM tinggi pada tanggal 18. Rumah tangga satu orang masuk sasaran jika premi asuransi kesehatan Maret sebesar 130.000 won atau kurang. Untuk rumah tangga dua orang dengan satu pencari nafkah yang terdaftar sebagai peserta pekerja, batasnya 140.000 won atau kurang. Nilai bantuan dibedakan menurut wilayah tempat tinggal, dari 100.000 hingga 250.000 won. Pemilik aset besar, termasuk yang dasar pengenaan pajaknya tahun lalu melebihi 1,2 miliar won, dikecualikan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "45448b165e5b",
-    "slug": "경북도-세계경주포럼-성공-시동국제문화협력-학술회의-개최-890353",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T02:04:35.400Z",
-    "updatedAt": "2026-05-11T02:04:35.400Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12043057",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12043057",
-    "titleFingerprint": "7737a71bd053544c22e60b37bbdabfaf95d7939a",
-    "dedupKeys": [
-      "45448b165e5bcf266664888bcfdad50640858b34",
-      "7737a71bd053544c22e60b37bbdabfaf95d7939a",
-      "81dc6cddae38cfa3c746a23063f092a1efd6e618"
-    ],
-    "imageUrl": "/images/articles/45448b165e5b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "경북도 세계경주포럼 준비 본격화, 국제문화협력 학술회의 개최",
-        "excerpt": "경북도는 2026년 10월 세계경주포럼의 성공 추진을 위해 국제문화협력 학술회의를 열고, 2025 APEC 이후 글로벌 문화관광 협력과 MICE 전략을 모색한다.",
-        "body": "경북도는 2026년 10월 열리는 ‘세계경주포럼’의 성공적 추진을 위해 국제문화협력 학술회의를 개최하며 준비에 시동을 걸었다. 이번 회의는 2025 APEC 이후 경주를 중심으로 글로벌 문화관광 협력 방안을 모색하는 자리로 마련됐다. 경북도는 포럼과 연계해 MICE 전략 논의, 체험행사 등 다양한 프로그램을 준비하고 있다. 이번 학술회의는 세계경주포럼의 방향성을 점검하고 국제 협력 기반을 넓히는 계기가 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Gyeongbuk Launches World Gyeongju Forum Preparations With Culture Cooperation Conference",
-        "excerpt": "Gyeongbuk Province is holding an international cultural cooperation academic conference to support the October 2026 World Gyeongju Forum and explore post-2025 APEC cultural tourism cooperation.",
-        "body": "Gyeongbuk Province has begun preparations for the successful launch of the World Gyeongju Forum, scheduled for October 2026, by holding an international cultural cooperation academic conference. The event is designed to explore global cultural and tourism cooperation centered on Gyeongju after the 2025 APEC meetings. The province is preparing various programs linked to the forum, including discussions on MICE strategies and hands-on experience events. The conference is expected to help review the forum’s direction and expand the foundation for international cooperation. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "慶尚北道、世界慶州フォーラム準備を本格化 国際文化協力学術会議を開催",
-        "excerpt": "慶尚北道は2026年10月の世界慶州フォーラム成功に向け、国際文化協力学術会議を開き、2025年APEC後の文化観光協力とMICE戦略を探る。",
-        "body": "慶尚北道は、2026年10月に開かれる「世界慶州フォーラム」の成功的な推進に向け、国際文化協力学術会議を開催し、準備を本格化させた。今回の会議は、2025年APEC後に慶州を中心としたグローバルな文化観光協力の方策を模索する場として設けられた。道はフォーラムと連携し、MICE戦略の議論や体験行事など多様なプログラムを準備している。会議はフォーラムの方向性を点検し、国際協力の基盤を広げる契機になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "庆尚北道启动世界庆州论坛筹备 举办国际文化合作学术会议",
-        "excerpt": "庆尚北道为推动2026年10月世界庆州论坛成功举办，召开国际文化合作学术会议，探讨2025年APEC后的全球文化旅游合作与MICE战略。",
-        "body": "庆尚北道为推动将于2026年10月举行的“世界庆州论坛”成功举办，召开国际文化合作学术会议，正式启动相关筹备。此次会议旨在以庆州为中心，探讨2025年APEC之后的全球文化旅游合作方案。庆尚北道正准备与论坛相衔接的多项项目，包括MICE战略讨论和体验活动等。此次学术会议预计将成为检视世界庆州论坛方向、扩大国际合作基础的契机。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Gyeongbuk impulsa el Foro Mundial de Gyeongju con una conferencia de cooperación cultural",
-        "excerpt": "La provincia de Gyeongbuk celebra una conferencia académica de cooperación cultural para apoyar el Foro Mundial de Gyeongju de octubre de 2026 y explorar la cooperación turística tras APEC 2025.",
-        "body": "La provincia de Gyeongbuk inició los preparativos para impulsar con éxito el Foro Mundial de Gyeongju, previsto para octubre de 2026, mediante la celebración de una conferencia académica sobre cooperación cultural internacional. El encuentro busca analizar formas de cooperación global en cultura y turismo centradas en Gyeongju después de APEC 2025. La provincia prepara diversos programas vinculados al foro, incluidos debates sobre estrategia MICE y actividades de experiencia. La conferencia permitirá revisar la orientación del foro y ampliar la base de cooperación internacional. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Gyeongbuk avança no Fórum Mundial de Gyeongju com conferência de cooperação cultural",
-        "excerpt": "A província de Gyeongbuk realiza uma conferência acadêmica de cooperação cultural para apoiar o Fórum Mundial de Gyeongju de outubro de 2026 e discutir turismo após a APEC 2025.",
-        "body": "A província de Gyeongbuk deu início aos preparativos para promover com sucesso o Fórum Mundial de Gyeongju, previsto para outubro de 2026, com a realização de uma conferência acadêmica sobre cooperação cultural internacional. O encontro foi organizado para buscar formas de cooperação global em cultura e turismo centradas em Gyeongju após a APEC 2025. A província prepara diversos programas ligados ao fórum, incluindo debates sobre estratégia MICE e eventos de experiência. A conferência deve ajudar a revisar a direção do fórum e ampliar a base de cooperação internacional. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Gyeongbuk startet Vorbereitung des World Gyeongju Forum mit Kulturkooperationskonferenz",
-        "excerpt": "Die Provinz Gyeongbuk hält eine akademische Konferenz zur internationalen Kulturkooperation ab, um das World Gyeongju Forum im Oktober 2026 vorzubereiten und Kooperation nach APEC 2025 zu prüfen.",
-        "body": "Die Provinz Gyeongbuk hat die Vorbereitungen für eine erfolgreiche Durchführung des World Gyeongju Forum im Oktober 2026 mit einer akademischen Konferenz zur internationalen Kulturkooperation begonnen. Die Veranstaltung soll nach APEC 2025 Wege für globale Kultur- und Tourismuskooperation mit Gyeongju im Mittelpunkt ausloten. Gyeongbuk bereitet verschiedene mit dem Forum verbundene Programme vor, darunter Diskussionen zu MICE-Strategien und Erlebnisveranstaltungen. Die Konferenz dürfte helfen, die Ausrichtung des Forums zu prüfen und die Grundlage internationaler Zusammenarbeit zu erweitern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Gyeongbuk lance le Forum mondial de Gyeongju avec une conférence de coopération culturelle",
-        "excerpt": "La province de Gyeongbuk organise une conférence académique de coopération culturelle pour préparer le Forum mondial de Gyeongju d’octobre 2026 et étudier la coopération touristique après l’APEC 2025.",
-        "body": "La province de Gyeongbuk a lancé les préparatifs du Forum mondial de Gyeongju, prévu en octobre 2026, en organisant une conférence académique sur la coopération culturelle internationale. Cette réunion vise à examiner, après l’APEC 2025, des pistes de coopération mondiale en matière de culture et de tourisme autour de Gyeongju. La province prépare plusieurs programmes liés au forum, dont des discussions sur la stratégie MICE et des événements d’expérience. La conférence devrait permettre de vérifier l’orientation du forum et d’élargir la base de la coopération internationale. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "غيونغبوك تطلق تحضيرات منتدى غيونغجو العالمي بمؤتمر للتعاون الثقافي الدولي",
-        "excerpt": "تقيم مقاطعة غيونغبوك مؤتمرا أكاديميا للتعاون الثقافي الدولي دعما لمنتدى غيونغجو العالمي في أكتوبر 2026، وبحثا للتعاون الثقافي والسياحي بعد APEC 2025.",
-        "body": "بدأت مقاطعة غيونغبوك التحضير لإنجاح «منتدى غيونغجو العالمي» المقرر في أكتوبر 2026، عبر عقد مؤتمر أكاديمي للتعاون الثقافي الدولي. ويهدف المؤتمر إلى بحث سبل التعاون العالمي في الثقافة والسياحة، مع التركيز على غيونغجو، بعد اجتماعات APEC 2025. وتعد المقاطعة برامج متنوعة مرتبطة بالمنتدى، تشمل مناقشات حول استراتيجية MICE وفعاليات تجريبية. ومن المتوقع أن يسهم المؤتمر في مراجعة اتجاه المنتدى وتوسيع قاعدة التعاون الدولي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ग्योंगबुक ने विश्व ग्योंगजू फोरम की तैयारी शुरू की, सांस्कृतिक सहयोग सम्मेलन आयोजित",
-        "excerpt": "ग्योंगबुक प्रांत अक्टूबर 2026 के विश्व ग्योंगजू फोरम की सफलता के लिए अंतरराष्ट्रीय सांस्कृतिक सहयोग अकादमिक सम्मेलन आयोजित कर रहा है और APEC 2025 के बाद सांस्कृतिक पर्यटन सहयोग पर चर्चा करेगा।",
-        "body": "ग्योंगबुक प्रांत ने अक्टूबर 2026 में होने वाले ‘विश्व ग्योंगजू फोरम’ की सफल तैयारी के लिए अंतरराष्ट्रीय सांस्कृतिक सहयोग पर अकादमिक सम्मेलन आयोजित कर पहल शुरू की। यह बैठक APEC 2025 के बाद ग्योंगजू को केंद्र में रखते हुए वैश्विक सांस्कृतिक और पर्यटन सहयोग के उपाय तलाशने के लिए आयोजित की गई है। प्रांत फोरम से जुड़े विभिन्न कार्यक्रम तैयार कर रहा है, जिनमें MICE रणनीति पर चर्चा और अनुभव आधारित आयोजन शामिल हैं। यह सम्मेलन फोरम की दिशा की समीक्षा करने और अंतरराष्ट्रीय सहयोग का आधार बढ़ाने का अवसर बनेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Gyeongbuk Mulai Persiapan World Gyeongju Forum Lewat Konferensi Kerja Sama Budaya",
-        "excerpt": "Provinsi Gyeongbuk menggelar konferensi akademik kerja sama budaya internasional untuk mendukung World Gyeongju Forum pada Oktober 2026 dan membahas kerja sama pariwisata budaya pasca-APEC 2025.",
-        "body": "Provinsi Gyeongbuk mulai mempersiapkan keberhasilan World Gyeongju Forum yang dijadwalkan berlangsung pada Oktober 2026 dengan menggelar konferensi akademik kerja sama budaya internasional. Pertemuan ini disiapkan untuk mencari arah kerja sama global di bidang budaya dan pariwisata yang berpusat di Gyeongju setelah APEC 2025. Gyeongbuk menyiapkan berbagai program yang terhubung dengan forum, termasuk pembahasan strategi MICE dan acara pengalaman. Konferensi ini diperkirakan menjadi momentum untuk meninjau arah forum dan memperluas dasar kerja sama internasional. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b594c55f4f0a",
-    "slug": "반년간-가상자산-투자자-7-보유금액-38-감소투자자보호-장치-시급-443718",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T02:03:44.485Z",
-    "updatedAt": "2026-05-11T02:03:44.485Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12043059",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12043059",
-    "titleFingerprint": "5eab7319cc48afb80973f8ff9eda83490b4a7a62",
-    "dedupKeys": [
-      "b594c55f4f0a2bada657467763dbe15d9b7796e4",
-      "5eab7319cc48afb80973f8ff9eda83490b4a7a62",
-      "1a40798401d1d82af306b005fbd0b1e2e01fa259"
-    ],
-    "imageUrl": "/images/articles/b594c55f4f0a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "가상자산 투자자 반년 새 7% 감소, 보유금액 38% 줄어 보호장치 시급",
-        "excerpt": "국내 5대 가상자산거래소 투자자 수가 지난해 1099만명까지 늘어난 뒤 반년 만에 7% 줄고 보유금액은 38% 감소해 투자자보호 제도화 필요성이 제기됐다.",
-        "body": "국내 5대 가상자산거래소의 투자자 수와 보유금액이 반년 사이 뚜렷하게 줄어든 것으로 나타났다. 투자자 수는 지난해 1099만명까지 급증한 뒤 7% 감소했고, 보유금액은 같은 기간 38% 줄었다. 시장 침체와 국내 증시 활황이 맞물리며 가상자산 투자 열기가 위축된 영향으로 풀이된다. 안도걸 의원은 가상자산을 전략산업으로 정착시키기 위한 제도화와 투자자보호 장치 마련이 시급하다고 밝혔다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Crypto investors fall 7% in six months as holdings drop 38%, protection urged",
-        "excerpt": "Investors on South Korea’s five major crypto exchanges fell 7% in six months after reaching 10.99 million last year, while holdings dropped 38%, raising calls for investor protection.",
-        "body": "The number of investors and the value of holdings on South Korea’s five major crypto exchanges declined sharply over a six-month period. Investor numbers, which had surged to 10.99 million last year, fell by 7%, while total holdings dropped 38% over the same period. The pullback is attributed to a sluggish crypto market and the strength of the domestic stock market, which dampened crypto investment sentiment. Lawmaker Ahn Do-geol said institutional measures and investor-protection safeguards are urgently needed to establish virtual assets as a strategic industry. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "暗号資産投資家が半年で7%減、保有額38%減で保護策が急務に",
-        "excerpt": "韓国の5大暗号資産取引所の投資家数は昨年1099万人まで増えた後、半年で7%減少し、保有額も38%減って投資家保護制度の必要性が浮上した。",
-        "body": "韓国の5大暗号資産取引所で、投資家数と保有額が半年の間に大きく減少したことが分かった。投資家数は昨年1099万人まで急増した後、7%減少し、保有額は同じ期間に38%減った。市場低迷と韓国株式市場の活況が重なり、暗号資産への投資熱が弱まった影響とみられる。安道杰議員は、暗号資産を戦略産業として定着させるための制度化と投資家保護策の整備が急務だと述べた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "加密资产投资者半年减少7%，持有金额下降38%，保护机制受关注",
-        "excerpt": "韩国五大虚拟资产交易所投资者去年增至1099万人后，半年内减少7%，持有金额下降38%，投资者保护制度化需求随之升温。",
-        "body": "韩国五大虚拟资产交易所的投资者数量和持有金额在半年内明显下降。投资者人数去年一度增至1099万人，随后减少7%；同期持有金额下降38%。市场低迷叠加韩国国内股市活跃，被认为削弱了虚拟资产投资热度。安道杰议员表示，为使虚拟资产作为战略产业稳定发展，推进制度化并建立投资者保护机制十分紧迫。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Inversores cripto caen 7% en seis meses y tenencias bajan 38%: urgen protección",
-        "excerpt": "En los cinco grandes exchanges de criptoactivos de Corea del Sur, los inversores bajaron 7% tras llegar a 10,99 millones el año pasado y las tenencias cayeron 38%.",
-        "body": "El número de inversores y el monto de tenencias en los cinco principales exchanges de criptoactivos de Corea del Sur disminuyeron con claridad en seis meses. Los inversores, que habían aumentado hasta 10,99 millones el año pasado, cayeron 7%, mientras que las tenencias se redujeron 38% en el mismo periodo. La contracción se atribuye a la debilidad del mercado cripto y al auge del mercado bursátil local, que enfriaron el interés inversor. El legislador Ahn Do-geol afirmó que es urgente institucionalizar el sector y crear mecanismos de protección para consolidar los criptoactivos como industria estratégica. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Investidores cripto caem 7% em seis meses e saldos recuam 38%; proteção é urgente",
-        "excerpt": "Nos cinco maiores exchanges de criptoativos da Coreia do Sul, investidores caíram 7% após chegar a 10,99 milhões no ano passado, enquanto os saldos recuaram 38%.",
-        "body": "O número de investidores e o valor mantido nos cinco principais exchanges de criptoativos da Coreia do Sul caíram de forma clara em seis meses. Após subir para 10,99 milhões no ano passado, o total de investidores recuou 7%, enquanto os saldos diminuíram 38% no mesmo período. A retração é atribuída à fraqueza do mercado cripto e ao bom desempenho do mercado acionário doméstico, que reduziram o entusiasmo pelos criptoativos. O deputado Ahn Do-geol disse que é urgente avançar na institucionalização e criar mecanismos de proteção ao investidor para estabelecer os criptoativos como indústria estratégica. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kryptoanleger sinken in sechs Monaten um 7%, Bestände fallen 38%: Schutz gefordert",
-        "excerpt": "Bei Südkoreas fünf großen Kryptobörsen sank die Anlegerzahl nach 10,99 Millionen im Vorjahr binnen sechs Monaten um 7%, während die Bestände um 38% zurückgingen.",
-        "body": "Die Zahl der Anleger und der Wert ihrer Bestände bei Südkoreas fünf großen Kryptobörsen sind innerhalb eines halben Jahres deutlich zurückgegangen. Nachdem die Anlegerzahl im Vorjahr auf 10,99 Millionen gestiegen war, sank sie um 7%; die Bestände fielen im gleichen Zeitraum um 38%. Als Gründe gelten die Schwäche des Kryptomarkts und die starke Entwicklung des heimischen Aktienmarkts, die das Interesse an virtuellen Vermögenswerten gedämpft haben. Abgeordneter Ahn Do-geol erklärte, Institutionalisierung und Schutzmechanismen für Anleger seien dringend nötig, um virtuelle Vermögenswerte als strategische Branche zu etablieren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les investisseurs crypto reculent de 7% en six mois, avoirs en baisse de 38%",
-        "excerpt": "Sur les cinq grandes plateformes sud-coréennes de cryptoactifs, les investisseurs ont baissé de 7% après 10,99 millions l’an dernier, et les avoirs ont chuté de 38%.",
-        "body": "Le nombre d’investisseurs et le montant des avoirs sur les cinq principales plateformes sud-coréennes de cryptoactifs ont nettement diminué en six mois. Après avoir atteint 10,99 millions l’an dernier, le nombre d’investisseurs a reculé de 7%, tandis que les avoirs ont baissé de 38% sur la même période. Ce repli est attribué à la faiblesse du marché crypto et à la vigueur du marché boursier national, qui ont refroidi l’intérêt pour les actifs virtuels. Le député Ahn Do-geol a déclaré qu’une institutionnalisation et des dispositifs de protection des investisseurs étaient urgents pour faire des actifs virtuels une industrie stratégique. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مستثمرو الأصول المشفرة يتراجعون 7% في نصف عام والحيازات تهبط 38%",
-        "excerpt": "انخفض عدد المستثمرين في أكبر خمس بورصات أصول افتراضية بكوريا الجنوبية 7% خلال نصف عام بعد بلوغه 10.99 مليون العام الماضي، وتراجعت الحيازات 38%.",
-        "body": "أظهرت البيانات أن عدد المستثمرين وقيمة الحيازات في أكبر خمس بورصات للأصول الافتراضية في كوريا الجنوبية تراجعا بوضوح خلال نصف عام. وبعد أن ارتفع عدد المستثمرين إلى 10.99 مليون العام الماضي، انخفض بنسبة 7%، بينما هبطت قيمة الحيازات 38% في الفترة نفسها. ويُعزى التراجع إلى ركود سوق الأصول المشفرة وازدهار سوق الأسهم المحلية، ما أضعف حماس الاستثمار في الأصول الافتراضية. وقال النائب آن دو غول إن إرساء إطار مؤسسي وآليات لحماية المستثمرين أمر عاجل لترسيخ الأصول الافتراضية كصناعة استراتيجية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "क्रिप्टो निवेशक छह महीने में 7% घटे, होल्डिंग 38% कम; सुरक्षा उपाय जरूरी",
-        "excerpt": "दक्षिण कोरिया के पांच बड़े वर्चुअल एसेट एक्सचेंजों पर निवेशक पिछले साल 1.099 करोड़ तक पहुंचने के बाद छह महीने में 7% घटे और होल्डिंग 38% कम हुई।",
-        "body": "दक्षिण कोरिया के पांच प्रमुख वर्चुअल एसेट एक्सचेंजों पर निवेशकों की संख्या और उनकी होल्डिंग राशि छह महीने में स्पष्ट रूप से घटी है। निवेशकों की संख्या पिछले साल 1.099 करोड़ तक बढ़ने के बाद 7% कम हुई, जबकि इसी अवधि में होल्डिंग राशि 38% घट गई। इसका कारण क्रिप्टो बाजार की सुस्ती और घरेलू शेयर बाजार की तेजी को माना जा रहा है, जिसने वर्चुअल एसेट निवेश की गर्मी को कम किया। सांसद आन दो-गोल ने कहा कि वर्चुअल एसेट को रणनीतिक उद्योग के रूप में स्थापित करने के लिए संस्थागत ढांचा और निवेशक सुरक्षा उपाय तत्काल जरूरी हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Investor kripto turun 7% dalam enam bulan, nilai kepemilikan anjlok 38%",
-        "excerpt": "Di lima bursa aset virtual terbesar Korea Selatan, jumlah investor turun 7% setelah mencapai 10,99 juta tahun lalu, sementara nilai kepemilikan merosot 38%.",
-        "body": "Jumlah investor dan nilai kepemilikan di lima bursa aset virtual utama Korea Selatan menurun jelas dalam enam bulan. Setelah sempat melonjak menjadi 10,99 juta orang tahun lalu, jumlah investor turun 7%, sementara nilai kepemilikan berkurang 38% pada periode yang sama. Pelemahan ini dikaitkan dengan lesunya pasar kripto dan menguatnya pasar saham domestik, yang meredam minat investasi aset virtual. Anggota parlemen Ahn Do-geol menyatakan bahwa pelembagaan dan perangkat perlindungan investor mendesak untuk menjadikan aset virtual sebagai industri strategis. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bdd31cc7e8af",
-    "slug": "전몰순직-군경소방관-자녀-지원우미희망재단-히어로즈-패밀리-비전형성-캠프-진행-876081",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T01:16:38.458Z",
-    "updatedAt": "2026-05-11T01:16:38.458Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042974",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042974",
-    "titleFingerprint": "5642e42ba0821cd6632e1130e583b3c740a6f499",
-    "dedupKeys": [
-      "bdd31cc7e8afd66b6b57113c8943945f578000da",
-      "5642e42ba0821cd6632e1130e583b3c740a6f499",
-      "0ddcf7a195f6166ebff867a2fd2de37cedc81006"
-    ],
-    "imageUrl": "/images/articles/bdd31cc7e8af.jpg",
-    "i18n": {
-      "ko": {
-        "title": "우미희망재단 히어로즈 패밀리 캠프, 전몰·순직 군경·소방관 자녀 진로 지원",
-        "excerpt": "우미희망재단은 9~10일 동대문 일대에서 전몰·순직 군경·소방관 자녀 청소년 18명을 대상으로 진로 탐색과 멘토링을 제공하는 히어로즈 패밀리 비전형성 캠프를 진행했다.",
-        "body": "우미희망재단이 9~10일 동대문 일대에서 전몰·순직 군경·소방관 자녀를 위한 ‘히어로즈 패밀리 비전형성 캠프’를 진행했다. 이번 캠프에는 청소년 18명이 참여했으며, 프로그램은 진로 탐색과 멘토링 기회를 제공하는 데 초점을 맞췄다. 참가 청소년들은 캠프 기간 동안 자신의 관심 분야를 살피고 향후 진로를 구체적으로 생각해 볼 수 있는 시간을 가졌다. 우미희망재단의 이번 활동은 국가와 사회를 위해 헌신한 군경·소방관 유가족 자녀에게 교육적 지원을 제공하는 프로그램으로 의미를 더했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Woomi Hope Foundation Career Camp Supports Children of Fallen Police, Military and Firefighters",
-        "excerpt": "The Woomi Hope Foundation held the Heroes Family Vision Camp on the 9th and 10th around Dongdaemun, offering career exploration and mentoring to 18 teenagers whose parents were fallen or line-of-duty military, police and firefighters.",
-        "body": "The Woomi Hope Foundation held the “Heroes Family Vision Camp” on the 9th and 10th around Dongdaemun for children of military personnel, police officers and firefighters who died in service or in the line of duty. A total of 18 teenagers took part, with the program focused on providing career exploration and mentoring opportunities. During the camp, participants had time to look at their areas of interest and think more concretely about future career paths. The foundation’s activity added meaning as an educational support program for bereaved children of those who served the nation and society. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ウミ希望財団ヒーローズファミリーキャンプ、殉職軍警・消防士の子どもの進路支援",
-        "excerpt": "ウミ希望財団は9〜10日、東大門一帯で、戦没・殉職した軍人、警察官、消防士の子どもである青少年18人を対象に、進路探索とメンタリングを提供するヒーローズファミリー・ビジョン形成キャンプを実施した。",
-        "body": "ウミ希望財団は9〜10日、東大門一帯で、戦没・殉職した軍人、警察官、消防士の子どもを対象に「ヒーローズファミリー・ビジョン形成キャンプ」を実施した。今回のキャンプには青少年18人が参加し、プログラムは進路探索とメンタリングの機会を提供することに重点を置いた。参加した青少年はキャンプ期間中、自分の関心分野を見つめ、今後の進路をより具体的に考える時間を持った。財団の今回の活動は、国家と社会のために献身した軍警・消防士の遺族の子どもに教育的支援を提供するプログラムとして意味を加えた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "佑米希望财团英雄家庭愿景营，支持殉职军警和消防员子女探索职业",
-        "excerpt": "佑米希望财团于9日至10日在东大门一带，为18名战亡、殉职军人、警察和消防员子女青少年举办英雄家庭愿景形成营，提供职业探索和导师辅导机会。",
-        "body": "佑米希望财团于9日至10日在东大门一带，为战亡、殉职军人、警察和消防员子女举办“英雄家庭愿景形成营”。此次营会共有18名青少年参加，项目重点是提供职业探索和导师辅导机会。参加者在营会期间了解自己的兴趣领域，并有时间更具体地思考未来职业方向。佑米希望财团的此次活动，作为面向为国家和社会奉献的军警、消防员遗属子女的教育支持项目，具有相应意义。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Woomi Hope Foundation impulsa campamento vocacional para hijos de militares, policías y bomberos caídos",
-        "excerpt": "Woomi Hope Foundation realizó los días 9 y 10, en la zona de Dongdaemun, el campamento Heroes Family Vision para 18 adolescentes hijos de militares, policías y bomberos fallecidos o caídos en servicio.",
-        "body": "Woomi Hope Foundation realizó los días 9 y 10, en la zona de Dongdaemun, el “Heroes Family Vision Camp” para hijos de militares, policías y bomberos fallecidos en combate o en acto de servicio. En el campamento participaron 18 adolescentes, y el programa se centró en ofrecer oportunidades de exploración vocacional y mentoría. Durante la actividad, los participantes pudieron revisar sus áreas de interés y pensar de forma más concreta en sus futuras trayectorias profesionales. La iniciativa de la fundación añadió significado como programa de apoyo educativo para hijos de familias de quienes sirvieron al país y a la sociedad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Woomi Hope Foundation realiza campamento de carreira para filhos de militares, policiais e bombeiros mortos em serviço",
-        "excerpt": "A Woomi Hope Foundation realizou, nos dias 9 e 10, em Dongdaemun, o Heroes Family Vision Camp para 18 adolescentes filhos de militares, policiais e bombeiros mortos em combate ou em serviço.",
-        "body": "A Woomi Hope Foundation realizou nos dias 9 e 10, na região de Dongdaemun, o “Heroes Family Vision Camp” para filhos de militares, policiais e bombeiros mortos em combate ou no cumprimento do dever. Ao todo, 18 adolescentes participaram, em um programa voltado a oferecer oportunidades de exploração de carreira e mentoria. Durante o campamento, os participantes puderam observar suas áreas de interesse e pensar de maneira mais concreta sobre seus caminhos profissionais futuros. A iniciativa ganhou significado como programa de apoio educacional para filhos de famílias enlutadas de pessoas que serviram ao país e à sociedade. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Woomi Hope Foundation unterstützt Kinder gefallener Soldaten, Polizisten und Feuerwehrleute mit Karrierecamp",
-        "excerpt": "Die Woomi Hope Foundation veranstaltete am 9. und 10. rund um Dongdaemun das Heroes Family Vision Camp für 18 Jugendliche, deren Eltern als Soldaten, Polizisten oder Feuerwehrleute im Dienst starben.",
-        "body": "Die Woomi Hope Foundation veranstaltete am 9. und 10. rund um Dongdaemun das „Heroes Family Vision Camp“ für Kinder von Soldaten, Polizisten und Feuerwehrleuten, die gefallen oder im Dienst ums Leben gekommen sind. Insgesamt nahmen 18 Jugendliche teil; das Programm konzentrierte sich auf berufliche Orientierung und Mentoring. Während des Camps konnten die Teilnehmenden ihre Interessengebiete betrachten und konkreter über künftige Berufswege nachdenken. Die Aktivität der Stiftung erhielt Bedeutung als Bildungsunterstützung für Kinder hinterbliebener Familien von Menschen, die dem Staat und der Gesellschaft gedient haben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Woomi Hope Foundation organise un camp d’orientation pour enfants de militaires, policiers et pompiers morts en service",
-        "excerpt": "Woomi Hope Foundation a tenu les 9 et 10, dans le secteur de Dongdaemun, le Heroes Family Vision Camp pour 18 adolescents enfants de militaires, policiers et pompiers morts au combat ou en service.",
-        "body": "Woomi Hope Foundation a organisé les 9 et 10, dans le secteur de Dongdaemun, le « Heroes Family Vision Camp » pour les enfants de militaires, policiers et pompiers morts au combat ou dans l’exercice de leurs fonctions. Dix-huit adolescents y ont participé, avec un programme axé sur l’exploration des carrières et le mentorat. Pendant le camp, les participants ont pu examiner leurs domaines d’intérêt et réfléchir plus concrètement à leur future orientation professionnelle. Cette action de la fondation prend sens comme programme de soutien éducatif destiné aux enfants de familles endeuillées de personnes ayant servi le pays et la société. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مؤسسة وومي هوب تنظم مخيم توجيه مهني لأبناء العسكريين والشرطة والإطفائيين المتوفين أثناء الخدمة",
-        "excerpt": "نظمت مؤسسة وومي هوب يومي 9 و10 في منطقة دونغ ديمون مخيم Heroes Family Vision، بمشاركة 18 مراهقا من أبناء العسكريين ورجال الشرطة والإطفاء الذين توفوا في القتال أو أثناء أداء الواجب.",
-        "body": "نظمت مؤسسة وومي هوب يومي 9 و10 في منطقة دونغ ديمون مخيم “Heroes Family Vision” لأبناء العسكريين ورجال الشرطة والإطفاء الذين توفوا في القتال أو أثناء أداء الواجب. شارك في المخيم 18 مراهقا، وركز البرنامج على إتاحة فرص لاستكشاف المسارات المهنية وتلقي الإرشاد. وخلال فترة المخيم، حصل المشاركون على وقت للتعرف إلى مجالات اهتمامهم والتفكير بصورة أكثر تحديدا في مستقبلهم المهني. وتكتسب هذه المبادرة معنى كبرنامج دعم تعليمي لأبناء أسر من قدموا خدمة للوطن والمجتمع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "वूमी होप फाउंडेशन ने शहीद सैनिकों, पुलिसकर्मियों और दमकलकर्मियों के बच्चों के लिए करियर कैंप किया",
-        "excerpt": "वूमी होप फाउंडेशन ने 9 और 10 तारीख को डोंगदेमुन क्षेत्र में Heroes Family Vision Camp आयोजित किया, जिसमें सेवा के दौरान जान गंवाने वाले सैनिकों, पुलिसकर्मियों और दमकलकर्मियों के 18 किशोर बच्चों को करियर खोज और मेंटरिंग दी गई।",
-        "body": "वूमी होप फाउंडेशन ने 9 और 10 तारीख को डोंगदेमुन क्षेत्र में सेवा के दौरान या कर्तव्य निर्वहन में जान गंवाने वाले सैनिकों, पुलिसकर्मियों और दमकलकर्मियों के बच्चों के लिए “Heroes Family Vision Camp” आयोजित किया। इस कैंप में 18 किशोरों ने भाग लिया और कार्यक्रम का केंद्र करियर खोज तथा मेंटरिंग के अवसर देना था। कैंप के दौरान प्रतिभागियों को अपनी रुचि के क्षेत्रों को देखने और भविष्य के करियर मार्गों पर अधिक ठोस रूप से सोचने का समय मिला। फाउंडेशन की यह गतिविधि देश और समाज के लिए समर्पित लोगों के शोकाकुल परिवारों के बच्चों को शैक्षिक सहायता देने वाले कार्यक्रम के रूप में महत्वपूर्ण रही। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Woomi Hope Foundation Gelar Kamp Karier untuk Anak Tentara, Polisi, dan Pemadam yang Gugur Bertugas",
-        "excerpt": "Woomi Hope Foundation mengadakan Heroes Family Vision Camp pada tanggal 9-10 di kawasan Dongdaemun, memberi eksplorasi karier dan mentoring bagi 18 remaja anak tentara, polisi, dan pemadam yang gugur atau wafat saat bertugas.",
-        "body": "Woomi Hope Foundation mengadakan “Heroes Family Vision Camp” pada tanggal 9-10 di kawasan Dongdaemun untuk anak-anak tentara, polisi, dan petugas pemadam kebakaran yang gugur atau wafat saat menjalankan tugas. Sebanyak 18 remaja mengikuti kamp ini, dengan program yang berfokus pada pemberian kesempatan eksplorasi karier dan mentoring. Selama kamp, para peserta memiliki waktu untuk melihat bidang minat mereka dan memikirkan arah karier masa depan secara lebih konkret. Kegiatan yayasan ini bermakna sebagai program dukungan pendidikan bagi anak-anak keluarga yang ditinggalkan oleh mereka yang mengabdi untuk negara dan masyarakat. Sumber: mk.co.kr"
       }
     }
   }

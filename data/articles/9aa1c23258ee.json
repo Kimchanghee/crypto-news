@@ -1,0 +1,75 @@
+{
+  "id": "9aa1c23258ee",
+  "slug": "hackers-used-ai-to-build-a-zero-day-exploit-that-bypasses-tw-246090",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-11T22:12:43.299Z",
+  "updatedAt": "2026-05-11T22:12:43.299Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367477/hackers-ai-zero-day-exploit-google",
+  "canonicalUrl": "https://decrypt.co/367477/hackers-ai-zero-day-exploit-google",
+  "titleFingerprint": "b14821ab8d0a5520e05ea7949fc0e68c924df2b9",
+  "dedupKeys": [
+    "9aa1c23258ee8923d1f5adf59679c87a32da9dbe",
+    "b14821ab8d0a5520e05ea7949fc0e68c924df2b9",
+    "126a678b9ad07d28d5b99f1eb016c09c02639e58"
+  ],
+  "imageUrl": "/images/articles/9aa1c23258ee.png",
+  "i18n": {
+    "ko": {
+      "title": "AI로 만든 제로데이 익스플로잇, 2단계 인증 우회 해커 공격 구글 확인",
+      "excerpt": "구글 위협 분석팀은 월요일 사이버 범죄자들이 AI 모델로 알려지지 않았던 소프트웨어 결함을 찾아 무기화하고, 이를 통해 2단계 인증을 우회했다고 확인했다.",
+      "body": "구글 위협 분석팀은 월요일 사이버 범죄자들이 AI 모델을 활용해 기존에 알려지지 않았던 소프트웨어 결함을 찾아내고 무기화했다고 확인했다. 이 취약점은 제로데이 익스플로잇으로 사용됐으며, 공격 과정에서 2단계 인증을 우회하는 데 쓰인 것으로 전해졌다. 제로데이는 보안 패치나 공개 대응이 나오기 전 악용될 수 있는 결함을 뜻해 방어가 어렵다. 이번 사례는 AI가 단순 자동화 도구를 넘어 취약점 탐색과 공격 코드 제작에 이용될 수 있음을 보여준다. 보안 업계에는 인증 체계와 취약점 대응 절차를 재점검해야 한다는 압박이 커질 전망이다. 출처 decrypt.co에 따르면 이번 내용은 구글의 위협 팀이 확인한 것이다."
+    },
+    "en": {
+      "title": "AI-Built Zero-Day Exploit Bypassed Two-Factor Authentication, Google Says",
+      "excerpt": "Google’s threat team confirmed Monday that cybercriminals used an AI model to find and weaponize a previously unknown software flaw to bypass two-factor authentication.",
+      "body": "Google’s threat team confirmed Monday that cybercriminals used an AI model to discover and weaponize a previously unknown software flaw. The vulnerability was used as a zero-day exploit and reportedly helped attackers bypass two-factor authentication during the attack. A zero-day refers to a flaw that can be abused before a security patch or public response is available, making defense difficult. The case shows that AI can be used beyond simple automation, including vulnerability discovery and exploit development. It is likely to increase pressure on security teams to review authentication systems and vulnerability response procedures. According to decrypt.co, the findings were confirmed by Google’s threat team."
+    },
+    "ja": {
+      "title": "AI作成のゼロデイ悪用、二要素認証を回避とGoogle脅威チーム確認",
+      "excerpt": "Googleの脅威分析チームは月曜日、サイバー犯罪者がAIモデルで未知のソフトウェア欠陥を見つけて武器化し、二要素認証を回避したと確認した。",
+      "body": "Googleの脅威分析チームは月曜日、サイバー犯罪者がAIモデルを使い、これまで知られていなかったソフトウェアの欠陥を発見して武器化したと確認した。この脆弱性はゼロデイエクスプロイトとして使われ、攻撃の過程で二要素認証を回避するために利用されたとされる。ゼロデイとは、セキュリティパッチや公的な対応が出る前に悪用され得る欠陥を指し、防御が難しい。今回の事例は、AIが単なる自動化ツールを超え、脆弱性の探索や攻撃コード作成にも使われ得ることを示している。セキュリティ業界では、認証体制と脆弱性対応手順の再点検を迫られる可能性がある。decrypt.coによると、この内容はGoogleの脅威チームが確認した。"
+    },
+    "zh": {
+      "title": "AI打造零日漏洞利用绕过双因素认证，谷歌威胁团队确认",
+      "excerpt": "谷歌威胁团队周一确认，网络犯罪分子使用AI模型发现并武器化一个此前未知的软件缺陷，并借此绕过双因素认证。",
+      "body": "谷歌威胁团队周一确认，网络犯罪分子使用AI模型发现并武器化了一个此前未知的软件缺陷。该漏洞被用作零日漏洞利用，并据称在攻击过程中帮助攻击者绕过双因素认证。零日漏洞指在安全补丁或公开应对措施推出前就可能被滥用的缺陷，因此防御难度较高。此次事件显示，AI的用途已不止于简单自动化，也可能被用于漏洞发现和攻击代码制作。安全行业预计将面临更大压力，需要重新审视认证体系和漏洞响应流程。据decrypt.co报道，这一情况已由谷歌威胁团队确认。"
+    },
+    "es": {
+      "title": "Exploit de día cero creado con IA eludió la autenticación en dos pasos: Google",
+      "excerpt": "El equipo de amenazas de Google confirmó el lunes que ciberdelincuentes usaron un modelo de IA para hallar y convertir en arma una falla de software desconocida.",
+      "body": "El equipo de amenazas de Google confirmó el lunes que ciberdelincuentes usaron un modelo de IA para descubrir y convertir en arma una falla de software previamente desconocida. La vulnerabilidad se utilizó como exploit de día cero y, según el reporte, ayudó a los atacantes a eludir la autenticación en dos pasos durante el ataque. Un día cero es una falla que puede explotarse antes de que exista un parche de seguridad o una respuesta pública, lo que dificulta la defensa. El caso muestra que la IA puede usarse más allá de la automatización simple, incluida la búsqueda de vulnerabilidades y la creación de código de ataque. La industria de seguridad podría enfrentar más presión para revisar sus sistemas de autenticación y sus procesos de respuesta. Según decrypt.co, la información fue confirmada por el equipo de amenazas de Google."
+    },
+    "pt": {
+      "title": "Exploit zero-day criado com IA burlou autenticação em dois fatores, diz Google",
+      "excerpt": "A equipe de ameaças do Google confirmou na segunda-feira que cibercriminosos usaram um modelo de IA para encontrar e explorar uma falha de software desconhecida.",
+      "body": "A equipe de ameaças do Google confirmou na segunda-feira que cibercriminosos usaram um modelo de IA para descobrir e transformar em arma uma falha de software até então desconhecida. A vulnerabilidade foi usada como um exploit zero-day e, segundo o relato, ajudou os invasores a burlar a autenticação em dois fatores durante o ataque. Um zero-day é uma falha que pode ser explorada antes de haver correção de segurança ou resposta pública, o que dificulta a defesa. O caso mostra que a IA pode ser usada além da automação simples, incluindo a busca por vulnerabilidades e a criação de código de ataque. O setor de segurança deve enfrentar mais pressão para revisar sistemas de autenticação e processos de resposta a falhas. Segundo decrypt.co, a informação foi confirmada pela equipe de ameaças do Google."
+    },
+    "de": {
+      "title": "KI-erstellter Zero-Day-Exploit umging Zwei-Faktor-Authentifizierung, sagt Google",
+      "excerpt": "Googles Bedrohungsteam bestätigte am Montag, dass Cyberkriminelle ein KI-Modell nutzten, um eine zuvor unbekannte Softwarelücke zu finden und zu weaponisieren.",
+      "body": "Googles Bedrohungsteam bestätigte am Montag, dass Cyberkriminelle ein KI-Modell nutzten, um eine zuvor unbekannte Softwarelücke zu entdecken und für Angriffe nutzbar zu machen. Die Schwachstelle wurde als Zero-Day-Exploit eingesetzt und soll Angreifern geholfen haben, während des Angriffs die Zwei-Faktor-Authentifizierung zu umgehen. Ein Zero-Day bezeichnet eine Lücke, die vor einem Sicherheitspatch oder einer öffentlichen Reaktion ausgenutzt werden kann, was die Verteidigung erschwert. Der Fall zeigt, dass KI über einfache Automatisierung hinaus eingesetzt werden kann, einschließlich Schwachstellensuche und Erstellung von Angriffscode. Für die Sicherheitsbranche dürfte der Druck steigen, Authentifizierungssysteme und Verfahren zur Reaktion auf Schwachstellen zu überprüfen. Laut decrypt.co wurden die Erkenntnisse von Googles Bedrohungsteam bestätigt."
+    },
+    "fr": {
+      "title": "Un exploit zero-day créé avec l’IA a contourné la double authentification, dit Google",
+      "excerpt": "L’équipe de veille de Google a confirmé lundi que des cybercriminels avaient utilisé un modèle d’IA pour trouver et armer une faille logicielle inconnue jusque-là.",
+      "body": "L’équipe de veille de Google a confirmé lundi que des cybercriminels avaient utilisé un modèle d’IA pour découvrir et armer une faille logicielle jusque-là inconnue. La vulnérabilité a été utilisée comme exploit zero-day et aurait aidé les attaquants à contourner la double authentification pendant l’attaque. Un zero-day désigne une faille pouvant être exploitée avant la publication d’un correctif de sécurité ou d’une réponse publique, ce qui rend la défense difficile. Ce cas montre que l’IA peut servir au-delà de la simple automatisation, notamment pour la recherche de vulnérabilités et la création de code d’attaque. Le secteur de la cybersécurité devrait subir une pression accrue pour réexaminer ses systèmes d’authentification et ses procédures de réponse aux failles. Selon decrypt.co, ces éléments ont été confirmés par l’équipe de veille de Google."
+    },
+    "ar": {
+      "title": "استغلال ثغرة صفرية صُنع بالذكاء الاصطناعي تجاوز المصادقة الثنائية، وفق غوغل",
+      "excerpt": "أكد فريق التهديدات في غوغل يوم الاثنين أن مجرمي الإنترنت استخدموا نموذجا للذكاء الاصطناعي لاكتشاف عيب برمجي غير معروف سابقا وتحويله إلى أداة هجوم.",
+      "body": "أكد فريق التهديدات في غوغل يوم الاثنين أن مجرمي الإنترنت استخدموا نموذجا للذكاء الاصطناعي لاكتشاف عيب برمجي لم يكن معروفا من قبل وتحويله إلى أداة هجوم. واستُخدمت الثغرة كاستغلال صفري، وقيل إنها ساعدت المهاجمين على تجاوز المصادقة الثنائية أثناء الهجوم. ويشير مصطلح الثغرة الصفرية إلى عيب يمكن استغلاله قبل صدور تصحيح أمني أو رد علني، ما يجعل الدفاع عنه صعبا. وتظهر هذه الحالة أن الذكاء الاصطناعي قد يستخدم في ما يتجاوز الأتمتة البسيطة، بما في ذلك البحث عن الثغرات وإنشاء شيفرات هجومية. ومن المتوقع أن يزداد الضغط على قطاع الأمن لمراجعة أنظمة المصادقة وإجراءات الاستجابة للثغرات. ووفقا لـ decrypt.co، فقد أكد فريق التهديدات في غوغل هذه المعلومات."
+    },
+    "hi": {
+      "title": "AI से बने जीरो-डे एक्सप्लॉइट ने टू-फैक्टर ऑथेंटिकेशन को बायपास किया: Google",
+      "excerpt": "Google की थ्रेट टीम ने सोमवार को पुष्टि की कि साइबर अपराधियों ने AI मॉडल से पहले अज्ञात सॉफ्टवेयर खामी खोजी, उसे हथियार बनाया और 2FA को बायपास किया।",
+      "body": "Google की थ्रेट टीम ने सोमवार को पुष्टि की कि साइबर अपराधियों ने AI मॉडल का उपयोग कर पहले से अज्ञात सॉफ्टवेयर खामी खोजी और उसे हमले के लिए हथियार बनाया। इस कमजोरी का इस्तेमाल जीरो-डे एक्सप्लॉइट के रूप में किया गया और बताया गया कि इससे हमलावरों को हमले के दौरान टू-फैक्टर ऑथेंटिकेशन बायपास करने में मदद मिली। जीरो-डे ऐसी खामी होती है जिसका दुरुपयोग सुरक्षा पैच या सार्वजनिक प्रतिक्रिया आने से पहले किया जा सकता है, इसलिए उससे बचाव कठिन होता है। यह मामला दिखाता है कि AI केवल साधारण ऑटोमेशन तक सीमित नहीं है, बल्कि कमजोरी खोजने और अटैक कोड बनाने में भी इस्तेमाल हो सकता है। सुरक्षा क्षेत्र पर ऑथेंटिकेशन सिस्टम और कमजोरी प्रतिक्रिया प्रक्रियाओं की समीक्षा का दबाव बढ़ सकता है। decrypt.co के अनुसार, यह जानकारी Google की थ्रेट टीम ने पुष्टि की है।"
+    },
+    "id": {
+      "title": "Eksploit Zero-Day Buatan AI Tembus Autentikasi Dua Faktor, Google Mengonfirmasi",
+      "excerpt": "Tim ancaman Google mengonfirmasi Senin bahwa penjahat siber memakai model AI untuk menemukan dan mempersenjatai celah perangkat lunak yang sebelumnya tidak diketahui.",
+      "body": "Tim ancaman Google mengonfirmasi pada Senin bahwa penjahat siber menggunakan model AI untuk menemukan dan mempersenjatai celah perangkat lunak yang sebelumnya tidak diketahui. Kerentanan itu digunakan sebagai eksploit zero-day dan disebut membantu penyerang melewati autentikasi dua faktor dalam serangan tersebut. Zero-day adalah celah yang dapat disalahgunakan sebelum patch keamanan atau respons publik tersedia, sehingga sulit dipertahankan. Kasus ini menunjukkan bahwa AI dapat digunakan melampaui otomatisasi sederhana, termasuk untuk mencari kerentanan dan membuat kode serangan. Industri keamanan kemungkinan menghadapi tekanan lebih besar untuk meninjau sistem autentikasi dan prosedur respons kerentanan. Menurut decrypt.co, temuan ini dikonfirmasi oleh tim ancaman Google."
+    }
+  }
+}
