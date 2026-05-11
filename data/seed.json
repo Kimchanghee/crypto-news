@@ -1,5 +1,230 @@
 [
   {
+    "id": "ad4cbe0699f2",
+    "slug": "usdc-issuer-circle-raises-222m-in-arc-token-presale-valued-a-403010",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T17:35:43.701Z",
+    "updatedAt": "2026-05-11T17:35:43.701Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/circle-raise-222-million-arc-token-presale-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/circle-raise-222-million-arc-token-presale-3-billion",
+    "titleFingerprint": "a61009de46520ddef6156d4e3a3441fbf110aa6a",
+    "dedupKeys": [
+      "ad4cbe0699f2bbc292a19ceccbf3d91bc96e92be",
+      "a61009de46520ddef6156d4e3a3441fbf110aa6a",
+      "af5bbb928daffdb29b26e305e178d834b53a213d"
+    ],
+    "imageUrl": "/images/articles/ad4cbe0699f2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "USDC 발행사 Circle, Arc 토큰 사전판매로 2억2200만달러 조달",
+        "excerpt": "USDC 발행사 Circle이 a16z Crypto 주도 Arc 토큰 사전판매에서 2억2200만달러를 조달했으며, 1분기 매출과 USDC 유통량도 증가했다.",
+        "body": "USDC 발행사 Circle은 Arc 토큰 사전판매를 통해 2억2200만달러를 조달했다. 이번 사전판매는 a16z Crypto가 주도했으며, Arc 토큰의 평가액은 30억달러로 제시됐다. 같은 기간 Circle의 1분기 매출은 6억9400만달러를 기록했고, USDC 유통량은 770억달러까지 늘었다. 이번 조달은 Circle의 토큰 프로젝트와 스테이블코인 사업 지표가 동시에 주목받는 상황에서 이뤄졌다. 향후 시장은 Arc 토큰 평가액과 USDC 유통 확대가 Circle의 성장 흐름에 어떤 영향을 줄지 살필 전망이다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "USDC Issuer Circle Raises $222M in Arc Token Presale at $3B Value",
+        "excerpt": "USDC issuer Circle raised $222 million in an Arc token presale led by a16z Crypto as first-quarter revenue and USDC circulation both increased.",
+        "body": "USDC issuer Circle raised $222 million through an Arc token presale. The sale was led by a16z Crypto, and the Arc token was valued at $3 billion. During the same period, Circle reported first-quarter revenue of $694 million, while USDC circulation rose to $77 billion. The fundraising comes as both Circle’s token project and stablecoin business metrics draw attention. Market watchers are expected to focus on how the Arc token valuation and expanding USDC circulation may affect Circle’s growth trajectory. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "USDC発行元Circle、Arcトークン先行販売で2.22億ドル調達",
+        "excerpt": "USDC発行元Circleは、a16z Crypto主導のArcトークン先行販売で2億2200万ドルを調達し、1〜3月期売上とUSDC流通量も増加した。",
+        "body": "USDC発行元のCircleは、Arcトークンの先行販売を通じて2億2200万ドルを調達した。今回の販売はa16z Cryptoが主導し、Arcトークンの評価額は30億ドルとされた。同じ期間にCircleの第1四半期売上高は6億9400万ドルを記録し、USDCの流通量は770億ドルまで増加した。今回の資金調達は、Circleのトークン計画とステーブルコイン事業の指標が同時に注目される中で行われた。市場は今後、Arcトークンの評価額とUSDC流通拡大がCircleの成長にどのような影響を与えるかを見守る見通しだ。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "USDC发行方Circle通过Arc代币预售融资2.22亿美元",
+        "excerpt": "USDC发行方Circle在a16z Crypto领投的Arc代币预售中融资2.22亿美元，同时一季度收入和USDC流通量均有所上升。",
+        "body": "USDC发行方Circle通过Arc代币预售筹集了2.22亿美元。本轮预售由a16z Crypto领投，Arc代币估值为30亿美元。同期，Circle第一季度收入达到6.94亿美元，USDC流通量升至770亿美元。此次融资发生在Circle代币项目和稳定币业务指标同时受到关注之际。市场接下来将关注Arc代币估值以及USDC流通规模扩大，是否会对Circle的增长走势产生影响。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Circle, emisor de USDC, capta $222M en preventa de Arc a $3.000M",
+        "excerpt": "Circle, emisor de USDC, recaudó 222 millones de dólares en una preventa del token Arc liderada por a16z Crypto, mientras crecieron ingresos y circulación de USDC.",
+        "body": "Circle, emisor de USDC, recaudó 222 millones de dólares mediante una preventa del token Arc. La operación fue liderada por a16z Crypto y valoró el token Arc en 3.000 millones de dólares. En el mismo periodo, los ingresos del primer trimestre de Circle alcanzaron 694 millones de dólares, mientras la circulación de USDC subió a 77.000 millones de dólares. La captación se produjo cuando el proyecto de token de Circle y las métricas de su negocio de stablecoins atraen atención. El mercado observará cómo la valoración de Arc y la expansión de USDC pueden influir en la trayectoria de crecimiento de Circle. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Circle, emissora do USDC, levanta US$222 mi em pré-venda do Arc",
+        "excerpt": "A Circle, emissora do USDC, captou US$222 milhões em uma pré-venda do token Arc liderada pela a16z Crypto, enquanto receita trimestral e circulação do USDC cresceram.",
+        "body": "A Circle, emissora do USDC, levantou US$222 milhões por meio de uma pré-venda do token Arc. A venda foi liderada pela a16z Crypto, e o token Arc recebeu avaliação de US$3 bilhões. No mesmo período, a receita da Circle no primeiro trimestre chegou a US$694 milhões, enquanto a circulação do USDC subiu para US$77 bilhões. A captação ocorre em um momento em que o projeto de token da Circle e os indicadores de seu negócio de stablecoin recebem atenção. O mercado deve acompanhar como a avaliação do Arc e a expansão da circulação do USDC podem afetar o crescimento da Circle. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "USDC-Emittent Circle sammelt 222 Mio. Dollar mit Arc-Vorverkauf ein",
+        "excerpt": "USDC-Emittent Circle sammelte in einem von a16z Crypto geführten Arc-Token-Vorverkauf 222 Millionen Dollar ein, während Umsatz und USDC-Umlauf stiegen.",
+        "body": "Der USDC-Emittent Circle hat über einen Vorverkauf des Arc-Tokens 222 Millionen Dollar eingesammelt. Die Runde wurde von a16z Crypto geführt, und der Arc-Token wurde mit 3 Milliarden Dollar bewertet. Im selben Zeitraum erzielte Circle im ersten Quartal einen Umsatz von 694 Millionen Dollar, während der USDC-Umlauf auf 77 Milliarden Dollar stieg. Die Finanzierung erfolgte, während sowohl Circles Token-Projekt als auch die Kennzahlen des Stablecoin-Geschäfts Aufmerksamkeit erhalten. Der Markt dürfte nun beobachten, wie sich die Bewertung des Arc-Tokens und die Ausweitung des USDC-Umlaufs auf Circles Wachstum auswirken. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Circle, émetteur de l’USDC, lève 222 M$ via la prévente d’Arc",
+        "excerpt": "Circle, émetteur de l’USDC, a levé 222 millions de dollars lors d’une prévente du token Arc menée par a16z Crypto, tandis que revenus et circulation de l’USDC ont progressé.",
+        "body": "Circle, émetteur de l’USDC, a levé 222 millions de dollars grâce à une prévente du token Arc. L’opération a été menée par a16z Crypto, avec une valorisation du token Arc fixée à 3 milliards de dollars. Sur la même période, le chiffre d’affaires du premier trimestre de Circle a atteint 694 millions de dollars, tandis que la circulation de l’USDC est montée à 77 milliards de dollars. Cette levée intervient alors que le projet de token de Circle et les indicateurs de son activité de stablecoin attirent l’attention. Le marché suivra l’effet possible de la valorisation d’Arc et de l’expansion de l’USDC sur la croissance de Circle. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "Circle مُصدِرة USDC تجمع 222 مليون دولار في بيع Arc المسبق",
+        "excerpt": "جمعت Circle مُصدِرة USDC مبلغ 222 مليون دولار في بيع مسبق لتوكن Arc بقيادة a16z Crypto، مع ارتفاع إيرادات الربع الأول وتداول USDC.",
+        "body": "جمعت Circle، مُصدِرة USDC، مبلغ 222 مليون دولار عبر بيع مسبق لتوكن Arc. قادت a16z Crypto عملية البيع، وبلغ تقييم توكن Arc ثلاثة مليارات دولار. وفي الفترة نفسها، سجلت Circle إيرادات في الربع الأول بلغت 694 مليون دولار، بينما ارتفع تداول USDC إلى 77 مليار دولار. يأتي هذا التمويل في وقت يحظى فيه مشروع التوكن لدى Circle ومؤشرات أعمال العملة المستقرة باهتمام السوق. ومن المتوقع أن يراقب المستثمرون كيف يمكن لتقييم Arc وتوسع تداول USDC أن يؤثرا في مسار نمو Circle. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "USDC जारीकर्ता Circle ने Arc टोकन प्रीसेल से $222M जुटाए",
+        "excerpt": "USDC जारीकर्ता Circle ने a16z Crypto के नेतृत्व वाली Arc टोकन प्रीसेल में 222 मिलियन डॉलर जुटाए, जबकि पहली तिमाही का राजस्व और USDC सर्कुलेशन बढ़ा।",
+        "body": "USDC जारीकर्ता Circle ने Arc टोकन की प्रीसेल के जरिए 222 मिलियन डॉलर जुटाए। इस बिक्री का नेतृत्व a16z Crypto ने किया और Arc टोकन का मूल्यांकन 3 बिलियन डॉलर रखा गया। इसी अवधि में Circle का पहली तिमाही राजस्व 694 मिलियन डॉलर रहा, जबकि USDC का सर्कुलेशन बढ़कर 77 बिलियन डॉलर तक पहुंच गया। यह फंडरेजिंग ऐसे समय हुई जब Circle की टोकन परियोजना और स्टेबलकॉइन कारोबार के आंकड़े साथ-साथ ध्यान खींच रहे हैं। बाजार अब देखेगा कि Arc टोकन का मूल्यांकन और USDC सर्कुलेशन में वृद्धि Circle की विकास दिशा को कैसे प्रभावित करती है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Penerbit USDC Circle Raup $222 Juta dari Presale Token Arc",
+        "excerpt": "Penerbit USDC, Circle, mengumpulkan $222 juta dalam presale token Arc yang dipimpin a16z Crypto, saat pendapatan kuartal I dan sirkulasi USDC meningkat.",
+        "body": "Penerbit USDC, Circle, mengumpulkan $222 juta melalui presale token Arc. Penjualan ini dipimpin oleh a16z Crypto, dengan valuasi token Arc sebesar $3 miliar. Pada periode yang sama, pendapatan kuartal pertama Circle mencapai $694 juta, sementara sirkulasi USDC naik menjadi $77 miliar. Penggalangan dana ini terjadi ketika proyek token Circle dan metrik bisnis stablecoin-nya sama-sama menjadi perhatian. Pasar diperkirakan akan mencermati bagaimana valuasi token Arc dan perluasan sirkulasi USDC dapat memengaruhi arah pertumbuhan Circle. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "79b0434e1f4d",
+    "slug": "dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai--732348",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T17:34:54.238Z",
+    "updatedAt": "2026-05-11T17:34:54.238Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/press-releases/dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/press-releases/dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you",
+    "titleFingerprint": "c66a204fe0c0db4562090a7696349a02641e2910",
+    "dedupKeys": [
+      "79b0434e1f4d223c4fd4f0e617a42814de798ce3",
+      "c66a204fe0c0db4562090a7696349a02641e2910",
+      "123cf9272dff1e7255434d5034cb44d4c73c044d"
+    ],
+    "imageUrl": "/images/articles/79b0434e1f4d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "DAPPOS, AI 에이전트 xBubble 출시…간단한 프롬프트로 작업 수행",
+        "excerpt": "DAPPOS가 xBubble을 출시했다. 사용자는 더 간단한 프롬프트로 특정 작업을 요청하면, xBubble이 작업별 AI 에이전트를 자동 구성하고 실행한다.",
+        "body": "DAPPOS가 사용자의 작업 수행을 돕는 AI 에이전트 서비스 xBubble을 출시했다. xBubble은 사용자가 복잡한 지시를 길게 입력하지 않아도 특정 작업을 완료할 수 있도록 설계됐다. 핵심 기능은 작업 목적에 맞는 AI 에이전트를 자동으로 만들고 배치하는 것이다. 이를 통해 사용자는 더 단순한 프롬프트만으로 필요한 작업을 요청할 수 있다. 이번 출시는 AI 활용 과정에서 프롬프트 작성 부담을 줄이는 데 초점을 맞춘다. 향후 사용자가 AI를 직접 세밀하게 조작하지 않고도 목적 중심으로 활용하는 방식이 확대될 수 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "DAPPOS Launches xBubble, AI Agent Tool for Simpler Task Prompts",
+        "excerpt": "DAPPOS has launched xBubble, letting users request specific tasks with simpler prompts while the system builds and dispatches task-specific AI agents.",
+        "body": "DAPPOS has launched xBubble, an AI agent service designed to help users complete tasks. xBubble allows users to finish specific tasks without writing long or complex instructions. Its core function is to automatically build and dispatch AI agents tailored to each task. As a result, users can request what they need with simpler prompts. The launch focuses on reducing the burden of prompt writing when using AI. It may also support a broader shift toward goal-based AI use, where users rely on agents without manually controlling every detail. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "DAPPOS、AIエージェントxBubbleを発表　簡単なプロンプトで作業実行",
+        "excerpt": "DAPPOSはxBubbleを発表した。ユーザーが簡単なプロンプトで特定作業を依頼すると、作業別AIエージェントを自動構築し実行する。",
+        "body": "DAPPOSは、ユーザーの作業実行を支援するAIエージェントサービスxBubbleを発表した。xBubbleは、ユーザーが長く複雑な指示を入力しなくても、特定の作業を完了できるよう設計されている。中核機能は、作業目的に合わせたAIエージェントを自動で構築し、配置することだ。これにより、ユーザーはより簡単なプロンプトだけで必要な作業を依頼できる。今回の発表は、AI利用時のプロンプト作成負担を減らすことに焦点を当てている。今後、AIを細かく操作せず目的中心で使う流れが広がる可能性がある。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "DAPPOS推出xBubble：用更简单提示调用AI代理完成任务",
+        "excerpt": "DAPPOS推出xBubble。用户只需用更简单的提示提出具体任务，系统即可自动构建并分派面向任务的AI代理。",
+        "body": "DAPPOS推出了帮助用户完成任务的AI代理服务xBubble。xBubble旨在让用户无需输入冗长或复杂指令，也能完成特定任务。其核心功能是根据任务目标自动构建并分派相应的AI代理。这样，用户可以通过更简单的提示请求所需操作。此次推出的重点在于降低使用AI时编写提示词的负担。未来，用户或可更多以目标为中心使用AI，而不必手动细致控制每个步骤。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "DAPPOS lanza xBubble, un agente de IA para tareas con prompts simples",
+        "excerpt": "DAPPOS lanzó xBubble, que permite pedir tareas específicas con prompts más simples mientras crea y despacha agentes de IA adaptados a cada tarea.",
+        "body": "DAPPOS lanzó xBubble, un servicio de agentes de IA diseñado para ayudar a los usuarios a completar tareas. xBubble permite finalizar tareas específicas sin escribir instrucciones largas o complejas. Su función principal es crear y despachar automáticamente agentes de IA adaptados al objetivo de cada tarea. Así, los usuarios pueden solicitar lo que necesitan con prompts más simples. El lanzamiento se centra en reducir la carga de redactar prompts al usar IA. También puede impulsar un uso más orientado a objetivos, sin que el usuario controle manualmente cada detalle. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "DAPPOS lança xBubble, agente de IA para tarefas com prompts simples",
+        "excerpt": "A DAPPOS lançou o xBubble, que permite solicitar tarefas específicas com prompts mais simples enquanto cria e envia agentes de IA por tarefa.",
+        "body": "A DAPPOS lançou o xBubble, um serviço de agente de IA criado para ajudar usuários a concluir tarefas. O xBubble permite executar tarefas específicas sem que o usuário escreva instruções longas ou complexas. Sua função central é criar e enviar automaticamente agentes de IA ajustados ao objetivo de cada tarefa. Com isso, os usuários podem pedir o que precisam usando prompts mais simples. O lançamento foca em reduzir o esforço de escrever prompts ao usar IA. No futuro, isso pode ampliar o uso de IA baseado em objetivos, sem controle manual detalhado de cada etapa. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "DAPPOS startet xBubble: KI-Agenten erledigen Aufgaben per einfachem Prompt",
+        "excerpt": "DAPPOS hat xBubble gestartet. Nutzer können konkrete Aufgaben mit einfacheren Prompts anfordern, während passende KI-Agenten automatisch erstellt werden.",
+        "body": "DAPPOS hat xBubble gestartet, einen KI-Agentendienst zur Unterstützung bei der Erledigung von Aufgaben. xBubble soll es Nutzern ermöglichen, bestimmte Aufgaben abzuschließen, ohne lange oder komplexe Anweisungen einzugeben. Die Kernfunktion besteht darin, KI-Agenten passend zum jeweiligen Aufgabenziel automatisch zu erstellen und einzusetzen. Dadurch können Nutzer benötigte Aktionen mit einfacheren Prompts anfordern. Der Start zielt darauf ab, den Aufwand beim Schreiben von Prompts im Umgang mit KI zu verringern. Künftig könnte sich eine stärker zielorientierte Nutzung von KI verbreiten. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "DAPPOS lance xBubble, des agents IA pour agir avec des prompts simples",
+        "excerpt": "DAPPOS a lancé xBubble, qui permet de demander des tâches précises avec des prompts plus simples en créant des agents IA adaptés à chaque tâche.",
+        "body": "DAPPOS a lancé xBubble, un service d’agents IA conçu pour aider les utilisateurs à accomplir des tâches. xBubble permet de réaliser des tâches spécifiques sans saisir d’instructions longues ou complexes. Sa fonction principale consiste à créer et déployer automatiquement des agents IA adaptés à l’objectif de chaque tâche. Les utilisateurs peuvent ainsi demander ce dont ils ont besoin avec des prompts plus simples. Ce lancement met l’accent sur la réduction de l’effort lié à la rédaction de prompts lors de l’utilisation de l’IA. Il pourrait aussi favoriser un usage plus orienté vers les objectifs. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "DAPPOS تطلق xBubble: وكلاء ذكاء اصطناعي للمهام عبر أوامر أبسط",
+        "excerpt": "أطلقت DAPPOS خدمة xBubble التي تتيح للمستخدمين طلب مهام محددة بأوامر أبسط، مع بناء وكلاء ذكاء اصطناعي مخصصين لكل مهمة وإرسالهم تلقائيا.",
+        "body": "أطلقت DAPPOS خدمة xBubble، وهي خدمة وكلاء ذكاء اصطناعي مصممة لمساعدة المستخدمين على إنجاز المهام. تتيح xBubble إكمال مهام محددة من دون الحاجة إلى كتابة تعليمات طويلة أو معقدة. وتتمثل وظيفتها الأساسية في بناء وكلاء ذكاء اصطناعي مناسبين لهدف كل مهمة وإرسالهم تلقائيا. وبذلك يستطيع المستخدم طلب ما يحتاجه عبر أوامر أبسط. يركز الإطلاق على تقليل عبء صياغة الأوامر عند استخدام الذكاء الاصطناعي. وقد يدعم ذلك اتجاها أوسع نحو استخدام الذكاء الاصطناعي على أساس الهدف بدلا من التحكم اليدوي بكل التفاصيل. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "DAPPOS ने xBubble लॉन्च किया, सरल प्रॉम्प्ट से काम करने वाला AI एजेंट",
+        "excerpt": "DAPPOS ने xBubble लॉन्च किया है। उपयोगकर्ता सरल प्रॉम्प्ट से विशेष कार्य मांग सकते हैं, जबकि सिस्टम कार्य-विशिष्ट AI एजेंट बनाकर भेजता है।",
+        "body": "DAPPOS ने xBubble लॉन्च किया है, जो उपयोगकर्ताओं को कार्य पूरा करने में मदद करने वाली AI एजेंट सेवा है। xBubble को इस तरह बनाया गया है कि उपयोगकर्ता लंबी या जटिल निर्देश पंक्तियां लिखे बिना विशेष कार्य पूरे कर सकें। इसका मुख्य काम हर कार्य के उद्देश्य के अनुसार AI एजेंट को अपने आप बनाना और भेजना है। इससे उपयोगकर्ता सरल प्रॉम्प्ट के जरिए अपनी जरूरत बता सकते हैं। यह लॉन्च AI इस्तेमाल करते समय प्रॉम्प्ट लिखने का बोझ कम करने पर केंद्रित है। आगे चलकर यह AI के उद्देश्य-आधारित उपयोग को बढ़ा सकता है, जहां हर विवरण को हाथ से नियंत्रित करने की जरूरत कम हो। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "DAPPOS Luncurkan xBubble, Agen AI untuk Tugas dengan Prompt Sederhana",
+        "excerpt": "DAPPOS meluncurkan xBubble, yang memungkinkan pengguna meminta tugas tertentu dengan prompt lebih sederhana saat agen AI khusus tugas dibuat otomatis.",
+        "body": "DAPPOS meluncurkan xBubble, layanan agen AI yang dirancang untuk membantu pengguna menyelesaikan tugas. xBubble memungkinkan pengguna menuntaskan tugas tertentu tanpa menulis instruksi panjang atau rumit. Fungsi utamanya adalah secara otomatis membuat dan mengirim agen AI yang sesuai dengan tujuan setiap tugas. Dengan begitu, pengguna dapat meminta kebutuhan mereka melalui prompt yang lebih sederhana. Peluncuran ini berfokus pada pengurangan beban penulisan prompt saat menggunakan AI. Ke depan, cara memakai AI yang lebih berorientasi pada tujuan dapat semakin meluas tanpa kendali manual atas setiap detail. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "7bd61f5bcb68",
+    "slug": "strategy-resumes-bitcoin-acquisitions-with-43m-btc-buy-130976",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T17:33:58.070Z",
+    "updatedAt": "2026-05-11T17:33:58.070Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy",
+    "titleFingerprint": "161f3666d27b869fb53a9d9c6fb27bbd5019eb57",
+    "dedupKeys": [
+      "7bd61f5bcb68f52117f7a335da06a13958d4e173",
+      "161f3666d27b869fb53a9d9c6fb27bbd5019eb57",
+      "81230fca27b31a5e0ccabe16f82e7c7117c02a16"
+    ],
+    "imageUrl": "/images/articles/7bd61f5bcb68.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Strategy, 4,300만달러 비트코인 매입 재개…배당 재원 논란 속 BTC 확대",
+        "excerpt": "Strategy가 지난주 4,300만달러 규모의 비트코인을 추가 매입했다. 마이클 세일러가 배당 지급 재원 마련을 위한 BTC 매도 가능성을 시사한 뒤 나온 움직임이다.",
+        "body": "Strategy가 지난주 4,300만달러 규모의 비트코인을 추가 매입하며 BTC 축적을 재개했다. 이번 매입은 마이클 세일러가 배당금 지급 재원을 마련하기 위해 비트코인 일부 매도 가능성을 언급한 뒤 이뤄졌다. 해당 발언은 투자자들 사이에서 엇갈린 반응을 불러왔다. 회사의 비트코인 매입 재개는 배당 재원 논란 속에서도 BTC 보유 전략을 이어가고 있음을 보여준다. 다만 원문은 매입 규모와 투자자 반응 외 추가 재무 세부사항은 제시하지 않았다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Strategy resumes Bitcoin buys with $43M BTC purchase amid dividend debate",
+        "excerpt": "Strategy added $43 million in Bitcoin last week after Michael Saylor signaled possible BTC sales to fund dividend payments, drawing mixed investor reactions.",
+        "body": "Strategy resumed its Bitcoin accumulation last week with a $43 million BTC purchase. The move came after Michael Saylor indicated the company could potentially sell some Bitcoin to fund dividend payments. That signal drew mixed reactions from investors. The renewed purchase shows Strategy is continuing its BTC holding approach despite debate over dividend funding. The source did not provide additional financial details beyond the purchase size and investor response. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "Strategy、4,300万ドルのビットコイン購入再開 配当財源巡る反応分かれる",
+        "excerpt": "Strategyは先週、4,300万ドル相当のビットコインを追加購入した。マイケル・セイラー氏が配当支払い資金のためBTC売却の可能性を示した後の動きだ。",
+        "body": "Strategyは先週、4,300万ドル相当のビットコインを追加購入し、BTCの積み増しを再開した。今回の購入は、マイケル・セイラー氏が配当金支払いの財源を確保するため、一部のビットコイン売却の可能性を示した後に行われた。この発言を受け、投資家の反応は分かれた。購入再開は、配当財源を巡る議論の中でも同社がBTC保有戦略を継続していることを示す。原文は購入額と投資家反応以外の追加財務情報を示していない。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "Strategy重启比特币买入，斥资4300万美元增持BTC",
+        "excerpt": "Strategy上周追加买入4300万美元比特币。此前，Michael Saylor暗示可能出售BTC为股息支付筹资，引发投资者不同反应。",
+        "body": "Strategy上周追加买入4300万美元比特币，重启其BTC积累行动。此次买入发生在Michael Saylor表示公司可能出售部分比特币以筹集股息支付资金之后。该信号在投资者之间引发了不同反应。重新买入显示，在围绕股息资金来源的讨论中，Strategy仍在延续其BTC持有策略。不过，原文除买入规模和投资者反应外，未提供更多财务细节。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Strategy retoma compras de Bitcoin con adquisición de BTC por USD 43M",
+        "excerpt": "Strategy añadió USD 43 millones en Bitcoin la semana pasada después de que Michael Saylor señalara posibles ventas de BTC para financiar dividendos.",
+        "body": "Strategy retomó la acumulación de Bitcoin la semana pasada con una compra de BTC por USD 43 millones. La operación llegó después de que Michael Saylor indicara que la compañía podría vender parte de sus Bitcoin para financiar pagos de dividendos. Esa señal generó reacciones mixtas entre los inversores. La nueva compra muestra que Strategy continúa con su enfoque de tenencia de BTC pese al debate sobre la financiación de dividendos. La fuente no ofreció más detalles financieros aparte del tamaño de la compra y la reacción inversora. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Strategy retoma compras de Bitcoin com aquisição de US$ 43 mi em BTC",
+        "excerpt": "A Strategy adicionou US$ 43 milhões em Bitcoin na semana passada após Michael Saylor sinalizar possíveis vendas de BTC para financiar dividendos.",
+        "body": "A Strategy retomou a acumulação de Bitcoin na semana passada com uma compra de US$ 43 milhões em BTC. O movimento ocorreu depois que Michael Saylor indicou que a empresa poderia vender parte de seus Bitcoins para financiar pagamentos de dividendos. A sinalização gerou reações mistas entre investidores. A nova compra mostra que a Strategy mantém sua abordagem de posse de BTC apesar do debate sobre a fonte dos dividendos. A fonte não apresentou detalhes financeiros adicionais além do valor da compra e da reação dos investidores. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Strategy nimmt Bitcoin-Käufe mit BTC-Erwerb über 43 Mio. USD wieder auf",
+        "excerpt": "Strategy kaufte vergangene Woche Bitcoin im Wert von 43 Mio. USD, nachdem Michael Saylor mögliche BTC-Verkäufe zur Finanzierung von Dividenden angedeutet hatte.",
+        "body": "Strategy hat seine Bitcoin-Akkumulation vergangene Woche mit einem BTC-Kauf im Wert von 43 Mio. USD wieder aufgenommen. Der Schritt erfolgte, nachdem Michael Saylor angedeutet hatte, dass das Unternehmen möglicherweise einen Teil seiner Bitcoin verkaufen könnte, um Dividendenzahlungen zu finanzieren. Diese Aussage löste bei Anlegern gemischte Reaktionen aus. Der erneute Kauf zeigt, dass Strategy seine BTC-Haltestrategie trotz der Debatte über Dividendenmittel fortsetzt. Die Quelle nannte außer Kaufvolumen und Anlegerreaktionen keine weiteren Finanzdetails. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Strategy reprend ses achats de Bitcoin avec 43 M$ de BTC acquis",
+        "excerpt": "Strategy a ajouté 43 millions de dollars en Bitcoin la semaine dernière après que Michael Saylor a évoqué de possibles ventes de BTC pour financer des dividendes.",
+        "body": "Strategy a repris son accumulation de Bitcoin la semaine dernière avec un achat de BTC de 43 millions de dollars. Cette opération est intervenue après que Michael Saylor a indiqué que l’entreprise pourrait vendre une partie de ses Bitcoin afin de financer des paiements de dividendes. Ce signal a suscité des réactions mitigées chez les investisseurs. Ce nouvel achat montre que Strategy poursuit son approche de détention de BTC malgré le débat sur le financement des dividendes. La source ne fournit pas d’autres détails financiers au-delà du montant acheté et des réactions des investisseurs. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "Strategy تستأنف شراء بيتكوين بصفقة BTC قيمتها 43 مليون دولار",
+        "excerpt": "أضافت Strategy ما قيمته 43 مليون دولار من بيتكوين الأسبوع الماضي بعد أن لمح مايكل سايلور إلى احتمال بيع BTC لتمويل توزيعات الأرباح.",
+        "body": "استأنفت Strategy تراكم بيتكوين الأسبوع الماضي عبر شراء BTC بقيمة 43 مليون دولار. وجاءت الخطوة بعد أن أشار مايكل سايلور إلى أن الشركة قد تبيع جزءا من بيتكوين لتمويل مدفوعات توزيعات الأرباح. وأثارت هذه الإشارة ردود فعل متباينة بين المستثمرين. ويظهر استئناف الشراء أن Strategy تواصل نهج الاحتفاظ بـ BTC رغم الجدل حول تمويل التوزيعات. ولم يورد المصدر تفاصيل مالية إضافية بخلاف حجم الشراء ورد فعل المستثمرين. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Strategy ने $43M BTC खरीद के साथ Bitcoin अधिग्रहण फिर शुरू किया",
+        "excerpt": "Strategy ने पिछले सप्ताह $43 मिलियन के Bitcoin जोड़े, जब Michael Saylor ने लाभांश भुगतान के लिए BTC बेचने की संभावना का संकेत दिया था।",
+        "body": "Strategy ने पिछले सप्ताह $43 मिलियन मूल्य के BTC खरीदकर Bitcoin संचय फिर शुरू किया। यह कदम Michael Saylor के उस संकेत के बाद आया जिसमें उन्होंने लाभांश भुगतान के लिए कंपनी द्वारा कुछ Bitcoin बेचने की संभावना जताई थी। इस संकेत पर निवेशकों की प्रतिक्रिया मिली-जुली रही। नई खरीद दिखाती है कि लाभांश फंडिंग पर बहस के बावजूद Strategy अपनी BTC होल्डिंग रणनीति जारी रख रही है। स्रोत ने खरीद आकार और निवेशक प्रतिक्रिया के अलावा अतिरिक्त वित्तीय विवरण नहीं दिए। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Strategy lanjutkan akuisisi Bitcoin lewat pembelian BTC senilai $43 juta",
+        "excerpt": "Strategy menambah Bitcoin senilai $43 juta pekan lalu setelah Michael Saylor memberi sinyal potensi penjualan BTC untuk mendanai pembayaran dividen.",
+        "body": "Strategy melanjutkan akumulasi Bitcoin pekan lalu dengan pembelian BTC senilai $43 juta. Langkah ini terjadi setelah Michael Saylor mengindikasikan perusahaan berpotensi menjual sebagian Bitcoin untuk mendanai pembayaran dividen. Sinyal tersebut memicu reaksi beragam dari investor. Pembelian baru ini menunjukkan Strategy tetap menjalankan pendekatan kepemilikan BTC meski ada perdebatan soal sumber dana dividen. Sumber tidak memberikan rincian keuangan tambahan selain nilai pembelian dan reaksi investor. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "bfb97b4ada74",
     "slug": "augustus-gets-conditional-occ-approval-for-ai-and-stablecoin-773282",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Permintaan chip matang naik, saham UMC dan GlobalFoundries ikut rebound",
         "excerpt": "Investasi pusat data AI yang meluas membuat permintaan semikonduktor umum meningkat cepat, mendorong saham UMC dan GlobalFoundries melonjak dalam sebulan.",
         "body": "Seiring meluasnya investasi pusat data kecerdasan buatan, permintaan semikonduktor tidak hanya meningkat pada proses tercanggih, tetapi juga pada chip umum. Proses matang yang sempat dianggap sebagai teknologi lama kembali mendapat perhatian, dengan pabrik foundry terkait bergerak menuju operasi penuh. Saham UMC Taiwan naik 62% dalam satu bulan, sementara GlobalFoundries asal Amerika Serikat menguat 50%. Di luar persaingan proses mutakhir yang dipimpin TSMC dan Samsung Electronics, pemulihan permintaan chip umum tampaknya mengangkat sentimen investasi di sektor foundry secara keseluruhan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e3a5a9940826",
-    "slug": "511-mk-추천매물-동탄신도시-98대-본사-직영-슈퍼-30억7천만원-등-994953",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T22:00:32.763Z",
-    "updatedAt": "2026-05-10T22:00:32.763Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042847",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042847",
-    "titleFingerprint": "d9ca37d7e7fb53d72f3be97f308108c970f70dd3",
-    "dedupKeys": [
-      "e3a5a99408266d3d14789fe8ac443be649a76452",
-      "d9ca37d7e7fb53d72f3be97f308108c970f70dd3",
-      "5004536512bc06dac6542affd2dfb2b3a1a21012"
-    ],
-    "imageUrl": "/images/articles/e3a5a9940826.jpg",
-    "i18n": {
-      "ko": {
-        "title": "동탄신도시 본사 직영 슈퍼 30억7000만원, MK 추천매물 공개",
-        "excerpt": "매일경제가 5월 11일 MK 추천매물로 동탄신도시 본사 직영 슈퍼와 아산시 인주면 산업단지 내 대형 공장 등 부동산 매물 정보를 공개했다.",
-        "body": "매일경제는 5월 11일 ‘MK 추천매물’을 통해 동탄신도시 본사 직영 슈퍼와 아산시 인주면 산업단지 내 대형 공장 등 주요 부동산 매물을 소개했다. 공개된 매물에는 동탄신도시의 9.8%대 본사 직영 슈퍼가 30억7000만원에 포함됐다. 또 아산시 인주면 산업단지 내 대형 공장은 공장용지 2만5330㎡, 연면적 1만7865㎡ 규모로 제시됐다. 해당 공장은 210m*80m 규모의 지상 3층 사무동과 대형 단층 형태의 공장으로 구성되며 매매가는 260억원이다. 이번 정보는 투자자와 실수요자가 상업용·산업용 부동산 매물의 규모와 가격을 비교하는 참고 자료가 될 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Dongtan Supermarket at 3.07 Billion Won Featured in MK Property Picks",
-        "excerpt": "Maeil Business Newspaper released its May 11 MK recommended listings, including a headquarters-operated supermarket in Dongtan New Town and a large factory in Asan’s Inju industrial complex.",
-        "body": "Maeil Business Newspaper introduced key real estate listings on May 11 through its “MK Recommended Listings,” including a headquarters-operated supermarket in Dongtan New Town and a large factory in the industrial complex of Inju-myeon, Asan. The listed Dongtan New Town supermarket, described as headquarters-operated with a yield in the 9.8% range, was priced at 3.07 billion won. The Asan factory was presented with 25,330 square meters of factory land and a total floor area of 17,865 square meters. It consists of a three-story office building measuring 210m by 80m and a large single-story factory, with an asking price of 26 billion won. The data may help investors and end users compare the size and price of commercial and industrial properties. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "東灘新都市の本社直営スーパー30億7000万ウォン、MK推薦物件に掲載",
-        "excerpt": "毎日経済は5月11日、MK推薦物件として東灘新都市の本社直営スーパーや牙山市仁州面産業団地内の大型工場などを公開した。",
-        "body": "毎日経済は5月11日、「MK推薦物件」を通じて、東灘新都市の本社直営スーパーと牙山市仁州面の産業団地内にある大型工場など、主要な不動産物件を紹介した。公開された物件には、東灘新都市の利回り9.8%台の本社直営スーパーが30億7000万ウォンで含まれている。また、牙山市仁州面産業団地内の大型工場は、工場用地2万5330平方メートル、延べ床面積1万7865平方メートルの規模として提示された。同工場は210m*80m規模の地上3階建て事務棟と大型平屋形式の工場で構成され、売買価格は260億ウォン。今回の情報は、投資家や実需者が商業用・産業用不動産の規模と価格を比較する参考資料となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "东滩新城总部直营超市标价30.7亿韩元，入选MK推荐房源",
-        "excerpt": "每日经济5月11日发布MK推荐房源，涵盖东滩新城总部直营超市以及牙山市仁州面产业园区内大型工厂等房地产信息。",
-        "body": "每日经济于5月11日通过“MK推荐房源”介绍了东滩新城总部直营超市、牙山市仁州面产业园区内大型工厂等主要房地产项目。公开信息显示，东滩新城一处收益率为9.8%左右的总部直营超市标价30.7亿韩元。另有位于牙山市仁州面产业园区内的大型工厂，工厂用地面积为25330平方米，总建筑面积为17865平方米。该工厂由一栋规模为210米*80米的地上三层办公楼和大型单层工厂组成，售价为260亿韩元。相关信息可供投资者和实际需求方比较商业及工业地产的规模与价格。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Supermercado en Dongtan por 3.070 millones de wones aparece en MK",
-        "excerpt": "Maeil Business Newspaper publicó el 11 de mayo sus inmuebles recomendados MK, con un supermercado operado por la sede en Dongtan y una gran fábrica en Asan.",
-        "body": "Maeil Business Newspaper presentó el 11 de mayo, en sus “inmuebles recomendados MK”, varios activos inmobiliarios clave, entre ellos un supermercado operado directamente por la sede en Dongtan New Town y una gran fábrica en el complejo industrial de Inju-myeon, Asan. El supermercado de Dongtan, descrito con una rentabilidad en el rango del 9,8%, fue listado en 3.070 millones de wones. La fábrica de Asan se presentó con 25.330 metros cuadrados de terreno industrial y una superficie construida total de 17.865 metros cuadrados. Está formada por un edificio de oficinas de tres plantas de 210m*80m y una fábrica grande de una sola planta, con precio de venta de 26.000 millones de wones. La información puede servir para comparar tamaño y precio de inmuebles comerciales e industriales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Supermercado em Dongtan por 3,07 bilhões de wons entra nas escolhas MK",
-        "excerpt": "O Maeil Business Newspaper divulgou em 11 de maio imóveis recomendados pela MK, incluindo um supermercado em Dongtan e uma grande fábrica em Asan.",
-        "body": "O Maeil Business Newspaper apresentou em 11 de maio, por meio das “recomendações de imóveis MK”, listagens importantes como um supermercado operado diretamente pela sede em Dongtan New Town e uma grande fábrica no complexo industrial de Inju-myeon, em Asan. O supermercado de Dongtan, descrito com rendimento na faixa de 9,8%, foi listado por 3,07 bilhões de wons. A fábrica em Asan foi apresentada com 25.330 metros quadrados de terreno fabril e área construída total de 17.865 metros quadrados. O imóvel inclui um prédio administrativo de três andares, com 210m*80m, e uma grande fábrica térrea, pelo preço de 26 bilhões de wons. Os dados podem ajudar investidores e usuários finais a comparar porte e preço de imóveis comerciais e industriais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Dongtan-Supermarkt für 3,07 Mrd. Won in MK-Empfehlungen gelistet",
-        "excerpt": "Maeil Business Newspaper veröffentlichte am 11. Mai MK-Empfehlungen mit einem direkt betriebenen Supermarkt in Dongtan und einer großen Fabrik in Asan.",
-        "body": "Maeil Business Newspaper stellte am 11. Mai in den „MK empfohlenen Objekten“ wichtige Immobilienangebote vor, darunter einen von der Zentrale direkt betriebenen Supermarkt in Dongtan New Town und eine große Fabrik im Industriegebiet Inju-myeon in Asan. Der Supermarkt in Dongtan, beschrieben mit einer Rendite im Bereich von 9,8%, wurde mit 3,07 Milliarden Won gelistet. Die Fabrik in Asan wurde mit 25.330 Quadratmetern Fabrikgrundstück und 17.865 Quadratmetern Gesamtfläche angegeben. Sie besteht aus einem dreistöckigen Bürogebäude im Format 210m*80m und einer großen eingeschossigen Fabrik; der Verkaufspreis beträgt 26 Milliarden Won. Die Angaben können Investoren und Eigennutzern als Vergleich von Größe und Preis gewerblicher und industrieller Immobilien dienen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Supermarché de Dongtan à 3,07 milliards de wons dans les choix MK",
-        "excerpt": "Maeil Business Newspaper a publié le 11 mai ses biens recommandés MK, dont un supermarché exploité par le siège à Dongtan et une grande usine à Asan.",
-        "body": "Maeil Business Newspaper a présenté le 11 mai, dans ses « biens recommandés MK », plusieurs annonces immobilières majeures, dont un supermarché exploité directement par le siège à Dongtan New Town et une grande usine dans la zone industrielle d’Inju-myeon, à Asan. Le supermarché de Dongtan, décrit avec un rendement autour de 9,8%, est proposé à 3,07 milliards de wons. L’usine d’Asan est indiquée avec 25 330 mètres carrés de terrain industriel et une surface totale de 17 865 mètres carrés. Elle comprend un immeuble de bureaux de trois étages de 210m*80m et une grande usine de plain-pied, pour un prix de vente de 26 milliards de wons. Ces informations peuvent aider investisseurs et utilisateurs finaux à comparer taille et prix des biens commerciaux et industriels. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سوبرماركت دونغتان بسعر 3.07 مليار وون ضمن عقارات MK الموصى بها",
-        "excerpt": "نشرت صحيفة ماييل الاقتصادية في 11 مايو عقارات MK الموصى بها، وتشمل سوبرماركت تديره الشركة في دونغتان ومصنعا كبيرا في مجمع أسان الصناعي.",
-        "body": "قدمت صحيفة ماييل الاقتصادية في 11 مايو، عبر قائمة «عقارات MK الموصى بها»، عقارات رئيسية منها سوبرماركت تديره الشركة الأم مباشرة في مدينة دونغتان الجديدة ومصنع كبير داخل المجمع الصناعي في إنجو-ميون بمدينة أسان. وظهر سوبرماركت دونغتان، الموصوف بعائد في نطاق 9.8%، بسعر 3.07 مليار وون. كما عُرض مصنع أسان على أرض صناعية مساحتها 25330 مترا مربعا وبمساحة طابقية إجمالية تبلغ 17865 مترا مربعا. ويتكون من مبنى مكاتب من ثلاثة طوابق بقياس 210م*80م ومصنع كبير من طابق واحد، بسعر بيع يبلغ 26 مليار وون. ويمكن أن تساعد هذه البيانات المستثمرين والمستخدمين الفعليين في مقارنة حجم وأسعار العقارات التجارية والصناعية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "डोंगतान सुपरमार्केट 3.07 अरब वॉन में MK अनुशंसित संपत्ति सूची में",
-        "excerpt": "मैइल बिजनेस न्यूजपेपर ने 11 मई को MK अनुशंसित संपत्तियां जारी कीं, जिनमें डोंगतान का मुख्यालय-संचालित सुपरमार्केट और आसन की बड़ी फैक्टरी शामिल हैं।",
-        "body": "मैइल बिजनेस न्यूजपेपर ने 11 मई को “MK अनुशंसित संपत्तियों” के जरिए प्रमुख रियल एस्टेट सूचियां पेश कीं, जिनमें डोंगतान न्यू टाउन का मुख्यालय द्वारा सीधे संचालित सुपरमार्केट और आसन शहर के इंजु-म्योन औद्योगिक परिसर की बड़ी फैक्टरी शामिल है। डोंगतान का यह सुपरमार्केट, जिसे 9.8% के दायरे की उपज वाला बताया गया, 3.07 अरब वॉन में सूचीबद्ध है। आसन की फैक्टरी 25,330 वर्ग मीटर फैक्टरी भूमि और 17,865 वर्ग मीटर कुल फ्लोर एरिया के साथ बताई गई। इसमें 210m*80m आकार का तीन मंजिला कार्यालय भवन और बड़ी एकमंजिला फैक्टरी शामिल है, जिसकी कीमत 26 अरब वॉन है। यह जानकारी निवेशकों और वास्तविक उपयोगकर्ताओं को वाणिज्यिक व औद्योगिक संपत्तियों के आकार और कीमत की तुलना में मदद कर सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Supermarket Dongtan Rp Setara 3,07 Miliar Won Masuk Rekomendasi MK",
-        "excerpt": "Maeil Business Newspaper pada 11 Mei merilis daftar properti rekomendasi MK, termasuk supermarket yang dikelola kantor pusat di Dongtan dan pabrik besar di Asan.",
-        "body": "Maeil Business Newspaper pada 11 Mei memperkenalkan daftar properti utama melalui “Rekomendasi Properti MK”, termasuk supermarket yang dikelola langsung oleh kantor pusat di Dongtan New Town dan pabrik besar di kawasan industri Inju-myeon, Asan. Supermarket di Dongtan tersebut, yang disebut memiliki imbal hasil di kisaran 9,8%, tercantum dengan harga 3,07 miliar won. Pabrik di Asan ditawarkan dengan lahan pabrik 25.330 meter persegi dan luas lantai total 17.865 meter persegi. Properti itu terdiri dari gedung kantor tiga lantai berukuran 210m*80m dan pabrik besar satu lantai, dengan harga jual 26 miliar won. Informasi ini dapat menjadi acuan bagi investor dan pengguna akhir untuk membandingkan ukuran serta harga properti komersial dan industri. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ce17cc0ed359",
-    "slug": "엔비디아랑-구글-어느-쪽이-유망하죠장단기-투자전략-들어보니-915265",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T21:59:25.601Z",
-    "updatedAt": "2026-05-10T21:59:25.601Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042849",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042849",
-    "titleFingerprint": "9d7463a3c4691f66814b4467742f25e4ac19e184",
-    "dedupKeys": [
-      "ce17cc0ed3596fec2935c72cdde6f48d26b8fe67",
-      "9d7463a3c4691f66814b4467742f25e4ac19e184",
-      "f35883dfce028b668a925b9b8002bf5be4647c75"
-    ],
-    "imageUrl": "/images/articles/ce17cc0ed359.jpg",
-    "i18n": {
-      "ko": {
-        "title": "엔비디아·구글 AI 투자전략 비교, GPU와 데이터센터 수요가 가른 유망주",
-        "excerpt": "AI 패권 경쟁 속 엔비디아와 구글의 투자 매력이 주목받고 있다. GPU, 메모리, 하이퍼스케일러 데이터센터 수요가 핵심 변수로 제시됐다.",
-        "body": "AI 패권 경쟁이 본격화되면서 시가총액 1, 2위권 기업인 엔비디아와 구글 가운데 어느 쪽이 더 유망한지에 대한 투자자 관심이 커지고 있다. 원문은 반도체 투자의 최대 수혜 분야로 GPU를 꼽으며, 엔비디아가 GPU 수요를 바탕으로 시총 왕좌에 올랐다고 전했다. 메모리 기업 마이크론도 AI 흐름 속에서 급성장한 사례로 언급됐다. 배경에는 하이퍼스케일러의 컴퓨팅 데이터센터 수요 급증이 있다. AI 시대의 ‘금광’으로 불리는 데이터센터 투자가 확대되며 알파벳 역시 관련 수요의 중심에 놓였다는 설명이다. 단기적으로는 GPU와 메모리 수요, 장기적으로는 데이터센터와 컴퓨팅 인프라가 투자 판단의 핵심 변수로 제시됐다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Nvidia vs Google AI Investment Strategy: GPU and Data Center Demand in Focus",
-        "excerpt": "Investor attention is turning to Nvidia and Google as AI dominance intensifies. GPU, memory, and hyperscaler data center demand were cited as key factors.",
-        "body": "As the race for AI dominance accelerates, investors are asking which looks more promising between Nvidia and Google, two companies at the top of the market-cap rankings. The source highlighted GPUs as the biggest beneficiary in semiconductor investing and said Nvidia rose to the market-cap throne on strong GPU demand. Micron was also cited as a memory company growing rapidly in the AI trend. The broader backdrop is surging demand for hyperscaler computing data centers. As data center investment, described as a “gold mine” of the AI era, expands, Alphabet is also positioned at the center of related demand. In the short term, GPU and memory demand were presented as key variables, while data centers and computing infrastructure were framed as longer-term factors. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "エヌビディアとグーグルのAI投資戦略、GPUとデータセンター需要が焦点",
-        "excerpt": "AI覇権争いが強まるなか、エヌビディアとグーグルの投資妙味に注目が集まる。GPU、メモリ、ハイパースケーラーのデータセンター需要が主要変数とされた。",
-        "body": "AI覇権競争が本格化するなか、時価総額上位のエヌビディアとグーグルのどちらが有望か、投資家の関心が高まっている。原文は半導体投資の最大の恩恵分野としてGPUを挙げ、エヌビディアがGPU需要を背景に時価総額の頂点に立ったと伝えた。メモリ企業マイクロンもAIの流れの中で急成長した事例として言及された。背景にはハイパースケーラーのコンピューティング向けデータセンター需要の急増がある。AI時代の「金鉱」と呼ばれるデータセンター投資が拡大し、アルファベットも関連需要の中心にあるという説明だ。短期的にはGPUとメモリ需要、長期的にはデータセンターとコンピューティング基盤が投資判断の主要変数とされた。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "英伟达与谷歌AI投资策略对比：GPU和数据中心需求成关键",
-        "excerpt": "随着AI霸权竞争升温，英伟达与谷歌的投资吸引力受到关注。GPU、内存和超大规模数据中心需求被视为核心变量。",
-        "body": "随着AI霸权竞争加速，投资者越来越关注市值排名前列的英伟达和谷歌哪一方更具前景。原文指出，GPU是半导体投资的最大受益领域，并称英伟达凭借GPU需求登上市值王座。存储企业美光也被提及为在AI浪潮中快速成长的案例。其背景是超大规模企业对计算型数据中心的需求急剧增加。随着被称为AI时代“金矿”的数据中心投资扩大，Alphabet也处在相关需求的中心。短期来看，GPU和内存需求是关键变量；长期来看，数据中心和计算基础设施被视为投资判断的重要因素。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Nvidia vs Google en IA: la demanda de GPU y centros de datos marca la estrategia",
-        "excerpt": "Con la competencia por el liderazgo en IA, crece el interés por Nvidia y Google. La demanda de GPU, memoria y centros de datos de hiperescaladores aparece como variable clave.",
-        "body": "A medida que se intensifica la carrera por el liderazgo en IA, aumenta el interés de los inversores por saber cuál es más prometedora, Nvidia o Google, dos compañías situadas entre las mayores por capitalización bursátil. El texto original señaló a las GPU como el principal beneficiario de la inversión en semiconductores y explicó que Nvidia alcanzó el primer puesto por valor de mercado gracias a esa demanda. Micron también fue mencionada como una empresa de memoria que crece con fuerza en la ola de la IA. El contexto es el fuerte aumento de la demanda de centros de datos de computación por parte de los hiperescaladores. Con la expansión de la inversión en centros de datos, descritos como la “mina de oro” de la era de la IA, Alphabet también queda en el centro de esa demanda. A corto plazo, las GPU y la memoria son variables clave; a largo plazo, lo son los centros de datos y la infraestructura de computación. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Nvidia vs Google em IA: demanda por GPUs e data centers orienta estratégia",
-        "excerpt": "Com a disputa pela liderança em IA, Nvidia e Google atraem atenção dos investidores. GPUs, memória e data centers de hiperescaladores foram apontados como fatores centrais.",
-        "body": "Com a intensificação da disputa pela liderança em IA, investidores observam qual parece mais promissora entre Nvidia e Google, empresas no topo do ranking de valor de mercado. O texto original apontou as GPUs como o maior benefício para investimentos em semicondutores e afirmou que a Nvidia chegou ao topo em valor de mercado apoiada pela demanda por GPUs. A Micron também foi citada como uma empresa de memória em forte crescimento dentro da tendência de IA. O pano de fundo é o salto na demanda por data centers de computação dos hiperescaladores. À medida que cresce o investimento em data centers, chamados de “mina de ouro” da era da IA, a Alphabet também aparece no centro dessa demanda. No curto prazo, GPUs e memória são variáveis importantes; no longo prazo, data centers e infraestrutura de computação pesam na avaliação. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Nvidia oder Google bei KI: GPU- und Rechenzentrumsnachfrage prägt Strategie",
-        "excerpt": "Im KI-Machtkampf rücken Nvidia und Google in den Fokus der Anleger. GPU-, Speicher- und Hyperscaler-Rechenzentrumsnachfrage gelten als zentrale Faktoren.",
-        "body": "Mit dem zunehmenden Wettbewerb um die KI-Vorherrschaft wächst das Interesse der Anleger daran, ob Nvidia oder Google, beide unter den größten Unternehmen nach Marktkapitalisierung, aussichtsreicher ist. Der Ausgangstext nennt GPUs als größten Nutznießer von Halbleiterinvestitionen und berichtet, dass Nvidia dank der GPU-Nachfrage an die Spitze der Marktkapitalisierung aufstieg. Auch Micron wurde als Speicherunternehmen erwähnt, das im KI-Trend stark wächst. Hintergrund ist die stark steigende Nachfrage der Hyperscaler nach Computing-Rechenzentren. Da Investitionen in Rechenzentren, die als „Goldmine” des KI-Zeitalters bezeichnet werden, zunehmen, steht auch Alphabet im Zentrum dieser Nachfrage. Kurzfristig gelten GPU- und Speichernachfrage als Schlüsselgrößen, langfristig Rechenzentren und Computing-Infrastruktur. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Nvidia ou Google dans l’IA : GPU et centres de données guident la stratégie",
-        "excerpt": "Face à la bataille pour la domination de l’IA, Nvidia et Google attirent les investisseurs. GPU, mémoire et centres de données d’hyperscalers sont les variables clés.",
-        "body": "Alors que la course à la domination de l’IA s’intensifie, les investisseurs s’interrogent sur le potentiel de Nvidia et de Google, deux groupes situés au sommet des capitalisations boursières. Le texte d’origine présente les GPU comme les principaux bénéficiaires de l’investissement dans les semi-conducteurs et indique que Nvidia a pris la tête en capitalisation grâce à cette demande. Micron est également cité comme un acteur de la mémoire en forte croissance dans la tendance IA. Le contexte est la forte hausse de la demande de centres de données de calcul chez les hyperscalers. Avec l’expansion des investissements dans les centres de données, décrits comme la “mine d’or” de l’ère de l’IA, Alphabet se trouve aussi au centre de cette demande. À court terme, GPU et mémoire sont les variables clés; à long terme, les centres de données et l’infrastructure de calcul dominent l’analyse. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "إنفيديا أم غوغل في الذكاء الاصطناعي: الطلب على GPU ومراكز البيانات يحسم الاستراتيجية",
-        "excerpt": "مع احتدام سباق الهيمنة في الذكاء الاصطناعي، يزداد اهتمام المستثمرين بإنفيديا وغوغل. وتبرز وحدات GPU والذاكرة ومراكز بيانات الشركات فائقة الحجم كعوامل رئيسية.",
-        "body": "مع تسارع المنافسة على الهيمنة في الذكاء الاصطناعي، يتزايد اهتمام المستثمرين بمعرفة أيهما أكثر وعدا بين إنفيديا وغوغل، وهما من أكبر الشركات من حيث القيمة السوقية. أشار النص الأصلي إلى أن وحدات GPU هي أكبر مستفيد من الاستثمار في أشباه الموصلات، وذكر أن إنفيديا اعتلت صدارة القيمة السوقية بفضل الطلب على هذه الوحدات. كما ذُكرت مايكـرون كمثال لشركة ذاكرة حققت نموا سريعا ضمن موجة الذكاء الاصطناعي. وتتمثل الخلفية في الارتفاع الحاد للطلب على مراكز بيانات الحوسبة لدى الشركات فائقة الحجم. ومع توسع الاستثمار في مراكز البيانات، التي توصف بأنها “منجم ذهب” عصر الذكاء الاصطناعي، تقف ألفابت أيضا في قلب هذا الطلب. وعلى المدى القصير، تعد وحدات GPU والذاكرة عوامل محورية، بينما تبرز مراكز البيانات وبنية الحوسبة التحتية على المدى الطويل. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "AI निवेश में Nvidia बनाम Google: GPU और डेटा सेंटर मांग बनी मुख्य कसौटी",
-        "excerpt": "AI प्रभुत्व की होड़ तेज होने के बीच Nvidia और Google पर निवेशकों की नजर है। GPU, मेमोरी और हाइपरस्केलर डेटा सेंटर मांग को प्रमुख कारक बताया गया।",
-        "body": "AI प्रभुत्व की प्रतिस्पर्धा तेज होने के साथ निवेशकों की दिलचस्पी बढ़ रही है कि बाजार पूंजीकरण में शीर्ष कंपनियों में शामिल Nvidia और Google में कौन अधिक संभावनाशील है। मूल रिपोर्ट ने सेमीकंडक्टर निवेश का सबसे बड़ा लाभार्थी GPU को बताया और कहा कि GPU मांग के दम पर Nvidia बाजार मूल्य के शीर्ष पर पहुंची। मेमोरी कंपनी Micron को भी AI रुझान में तेज वृद्धि के उदाहरण के रूप में उल्लेखित किया गया। इसके पीछे हाइपरस्केलर कंपनियों की कंप्यूटिंग डेटा सेंटर मांग में तेज उछाल है। AI युग की “सोने की खान” कहे जाने वाले डेटा सेंटर निवेश के विस्तार के साथ Alphabet भी संबंधित मांग के केंद्र में है। अल्प अवधि में GPU और मेमोरी मांग, जबकि दीर्घ अवधि में डेटा सेंटर और कंप्यूटिंग इंफ्रास्ट्रक्चर निवेश निर्णय के प्रमुख कारक बताए गए। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Nvidia vs Google dalam AI: Permintaan GPU dan Data Center Jadi Penentu Strategi",
-        "excerpt": "Saat persaingan dominasi AI menguat, Nvidia dan Google menjadi sorotan investor. Permintaan GPU, memori, dan data center hyperscaler disebut sebagai faktor utama.",
-        "body": "Ketika persaingan dominasi AI semakin intens, perhatian investor meningkat pada mana yang lebih menjanjikan antara Nvidia dan Google, dua perusahaan di jajaran teratas kapitalisasi pasar. Teks asli menyebut GPU sebagai penerima manfaat terbesar dalam investasi semikonduktor dan mengatakan Nvidia naik ke puncak kapitalisasi pasar berkat permintaan GPU. Micron juga disebut sebagai perusahaan memori yang tumbuh pesat dalam tren AI. Latar belakangnya adalah lonjakan permintaan data center komputasi dari hyperscaler. Seiring investasi data center, yang disebut “tambang emas” era AI, terus meluas, Alphabet juga berada di pusat permintaan terkait. Dalam jangka pendek, permintaan GPU dan memori menjadi variabel utama; dalam jangka panjang, data center dan infrastruktur komputasi menjadi faktor penilaian investasi. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "82e9208f342f",
-    "slug": "애플-뜻밖의-암초-굴욕빈틈-파고든-삼성은-웃는다-테크로그-154357",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T21:37:50.770Z",
-    "updatedAt": "2026-05-10T21:37:50.770Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605083521g",
-    "canonicalUrl": "https://www.hankyung.com/article/202605083521g",
-    "titleFingerprint": "ae96ca1416d2c18c24d8b3b707f75cd82abe80cc",
-    "dedupKeys": [
-      "82e9208f342f8a327cd5c01673a17487895f5c53",
-      "ae96ca1416d2c18c24d8b3b707f75cd82abe80cc",
-      "01b4440bea01576a15a91ae175a4f5ce04ddb25a"
-    ],
-    "imageUrl": "/images/articles/82e9208f342f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "애플 뜻밖의 암초에 흔들린 테크 경쟁 구도, 삼성은 빈틈 공략으로 웃는다",
-        "excerpt": "한국경제 테크로그는 애플이 예상 밖의 장애물로 굴욕적인 국면을 맞은 가운데, 삼성전자가 경쟁사의 빈틈을 파고들며 반사이익을 얻는 흐름을 보도했다.",
-        "body": "한국경제 테크로그는 애플이 예상치 못한 ‘암초’를 만나 굴욕적인 상황에 놓였고, 삼성전자는 그 빈틈을 파고들며 유리한 흐름을 만들고 있다고 전했다. 보도는 두 기업의 경쟁 구도에서 애플의 차질이 삼성에 기회로 작용하는 상황을 핵심으로 다뤘다. 구체적인 요약 정보는 제공되지 않았지만, 제목상 초점은 애플의 예상 밖 변수와 삼성의 대응에 맞춰져 있다. 이번 흐름은 글로벌 테크 시장에서 선두 기업의 작은 차질도 경쟁사 전략에 영향을 줄 수 있음을 보여준다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Apple Hits an Unexpected Snag in Tech Rivalry as Samsung Exploits the Opening",
-        "excerpt": "Hankyung’s Techlog reported that Apple faced an unexpected setback and an embarrassing moment, while Samsung moved into the gap and gained an advantage in the rivalry.",
-        "body": "Hankyung’s Techlog reported that Apple encountered an unexpected obstacle and entered an embarrassing phase, while Samsung used that opening to build a more favorable position. The report centers on how Apple’s setback may create an opportunity for Samsung within the two companies’ competitive landscape. No separate summary was provided, but the headline makes clear that the focus is on Apple’s unexpected variable and Samsung’s response. The development shows how even a small disruption for a leading tech company can affect a rival’s strategy. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "アップルに予想外の暗礁、テック競争でサムスンが隙を突く展開に",
-        "excerpt": "韓国経済新聞のテックログは、アップルが予想外の障害で苦しい局面を迎える一方、サムスンがその隙を突いて優位に立つ流れを報じた。",
-        "body": "韓国経済新聞のテックログは、アップルが予想外の「暗礁」に直面し、屈辱的な状況に置かれる一方、サムスン電子がその隙を突いて有利な流れを作っていると伝えた。記事は、両社の競争構図の中でアップルのつまずきがサムスンに機会として作用する点を中心に扱っている。別途の要約情報は示されていないが、見出しからはアップルの想定外の変数とサムスンの対応が焦点であることが分かる。今回の流れは、テック市場で先頭企業の小さな支障も競合の戦略に影響し得ることを示している。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "苹果遭遇意外障碍陷入尴尬，三星抓住空档在科技竞争中受益",
-        "excerpt": "韩国经济新闻Techlog报道称，苹果因意外障碍陷入尴尬局面，而三星电子则抓住竞争对手的空档，形成相对有利的走势。",
-        "body": "韩国经济新闻Techlog报道称，苹果遇到意想不到的“暗礁”，陷入较为尴尬的处境，而三星电子则抓住这一空档，形成了更有利的竞争态势。报道的核心是，在两家公司竞争格局中，苹果的受阻如何可能转化为三星的机会。原文未提供单独摘要，但从标题可以看出，重点在于苹果的突发变量以及三星的应对。此次动向显示，在全球科技市场中，领先企业的细小波折也可能影响竞争对手的战略。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Apple tropieza con un obstáculo inesperado y Samsung aprovecha el hueco competitivo",
-        "excerpt": "Techlog de Hankyung informó que Apple afrontó un revés imprevisto y una situación incómoda, mientras Samsung entró en el hueco dejado por su rival y ganó ventaja.",
-        "body": "Techlog de Hankyung informó que Apple se encontró con un obstáculo inesperado y quedó en una situación incómoda, mientras Samsung Electronics aprovechó ese hueco para crear una posición más favorable. La nota se centra en cómo el tropiezo de Apple puede convertirse en una oportunidad para Samsung dentro de la competencia entre ambas compañías. No se proporcionó un resumen separado, pero el titular deja claro que el foco está en la variable imprevista de Apple y la respuesta de Samsung. El caso muestra que incluso una pequeña dificultad de un líder tecnológico puede influir en la estrategia de un competidor. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Apple enfrenta obstáculo inesperado e Samsung aproveita brecha na disputa tech",
-        "excerpt": "O Techlog do Hankyung informou que a Apple passou por um revés inesperado e constrangedor, enquanto a Samsung explorou a brecha da rival e ganhou vantagem.",
-        "body": "O Techlog do Hankyung informou que a Apple encontrou um obstáculo inesperado e entrou em uma fase constrangedora, enquanto a Samsung Electronics aproveitou essa brecha para construir uma posição mais favorável. A reportagem trata de como o revés da Apple pode funcionar como oportunidade para a Samsung na disputa entre as duas empresas. Não foi fornecido um resumo separado, mas o título indica que o foco está na variável inesperada da Apple e na resposta da Samsung. O episódio mostra que até uma pequena dificuldade de uma líder em tecnologia pode afetar a estratégia de uma concorrente. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Apple stößt auf unerwartetes Hindernis, Samsung nutzt die Lücke im Tech-Wettbewerb",
-        "excerpt": "Hankyungs Techlog berichtete, dass Apple durch ein unerwartetes Hindernis in eine peinliche Lage geriet, während Samsung die entstandene Lücke nutzte.",
-        "body": "Hankyungs Techlog berichtete, dass Apple auf ein unerwartetes Hindernis gestoßen ist und dadurch in eine unangenehme Lage geraten sei, während Samsung Electronics diese Lücke nutzte, um sich günstiger zu positionieren. Im Mittelpunkt steht, wie Apples Rückschlag in der Konkurrenz der beiden Unternehmen zu einer Chance für Samsung werden kann. Eine gesonderte Zusammenfassung wurde nicht bereitgestellt, doch die Überschrift zeigt klar den Fokus auf Apples unerwartete Variable und Samsungs Reaktion. Der Vorgang verdeutlicht, dass selbst kleine Störungen bei einem führenden Tech-Unternehmen die Strategie eines Wettbewerbers beeinflussen können. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Apple freinée par un obstacle inattendu, Samsung exploite l’ouverture dans la tech",
-        "excerpt": "Techlog de Hankyung a rapporté qu’Apple faisait face à un revers inattendu et embarrassant, tandis que Samsung profitait de l’ouverture laissée par son rival.",
-        "body": "Techlog de Hankyung a rapporté qu’Apple avait rencontré un obstacle inattendu et se trouvait dans une situation embarrassante, tandis que Samsung Electronics exploitait cette ouverture pour se placer dans une position plus favorable. L’article met l’accent sur la manière dont le revers d’Apple peut devenir une occasion pour Samsung dans la rivalité entre les deux entreprises. Aucun résumé séparé n’a été fourni, mais le titre indique clairement que le sujet central est la variable imprévue d’Apple et la réponse de Samsung. Cette évolution montre qu’un incident même limité chez un leader technologique peut influencer la stratégie d’un concurrent. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "أبل تواجه عقبة غير متوقعة وسامسونغ تستغل الفراغ في منافسة التكنولوجيا",
-        "excerpt": "أفاد تقرير Techlog في هانكيونغ بأن أبل واجهت انتكاسة غير متوقعة وموقفا محرجا، بينما استغلت سامسونغ الفجوة التي تركها منافسها لتعزيز موقعها.",
-        "body": "أفاد تقرير Techlog في هانكيونغ بأن أبل واجهت «عقبة» غير متوقعة ودخلت في موقف محرج، بينما استغلت سامسونغ إلكترونيكس هذه الفجوة لتكوين وضع أكثر ملاءمة. يركز التقرير على كيفية تحول تعثر أبل في مشهد المنافسة بين الشركتين إلى فرصة لسامسونغ. لم يقدم النص الأصلي ملخصا منفصلا، لكن العنوان يوضح أن المحور هو المتغير المفاجئ لدى أبل ورد سامسونغ عليه. وتظهر هذه الحالة أن أي اضطراب صغير لدى شركة رائدة في التكنولوجيا قد يؤثر في استراتيجية المنافسين. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Apple को अप्रत्याशित झटका, टेक मुकाबले में Samsung ने खाली जगह का फायदा उठाया",
-        "excerpt": "Hankyung के Techlog ने बताया कि Apple अप्रत्याशित बाधा से असहज स्थिति में पहुंची, जबकि Samsung ने प्रतिद्वंद्वी की इसी कमी का लाभ उठाकर बढ़त बनाई।",
-        "body": "Hankyung के Techlog ने बताया कि Apple को एक अप्रत्याशित ‘बाधा’ का सामना करना पड़ा और वह असहज स्थिति में आ गई, जबकि Samsung Electronics ने उसी खाली जगह का फायदा उठाकर अपने लिए बेहतर स्थिति बनाई। रिपोर्ट का केंद्र यह है कि दोनों कंपनियों की प्रतिस्पर्धा में Apple की रुकावट Samsung के लिए अवसर कैसे बन सकती है। अलग से कोई सारांश उपलब्ध नहीं था, लेकिन शीर्षक से स्पष्ट है कि ध्यान Apple के अचानक आए जोखिम और Samsung की प्रतिक्रिया पर है। यह घटनाक्रम दिखाता है कि टेक बाजार में अग्रणी कंपनी की छोटी चूक भी प्रतिद्वंद्वी की रणनीति को प्रभावित कर सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Apple Tersandung Hambatan Tak Terduga, Samsung Manfaatkan Celah Persaingan Tech",
-        "excerpt": "Techlog Hankyung melaporkan Apple menghadapi hambatan tak terduga dan situasi memalukan, sementara Samsung masuk ke celah pesaingnya dan memperoleh keuntungan.",
-        "body": "Techlog Hankyung melaporkan bahwa Apple menghadapi ‘karang’ tak terduga dan masuk ke situasi yang memalukan, sementara Samsung Electronics memanfaatkan celah tersebut untuk membangun posisi yang lebih menguntungkan. Laporan itu menyoroti bagaimana kendala Apple dalam peta persaingan dua perusahaan dapat menjadi peluang bagi Samsung. Tidak ada ringkasan terpisah yang diberikan, tetapi judul menunjukkan fokus pada variabel tak terduga Apple dan respons Samsung. Perkembangan ini menunjukkan bahwa gangguan kecil pada perusahaan teknologi terdepan pun dapat memengaruhi strategi pesaing. Sumber: hankyung.com"
       }
     }
   }
