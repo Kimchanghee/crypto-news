@@ -1,0 +1,75 @@
+{
+  "id": "e4c8c595a134",
+  "slug": "bitcoin-mining-pools-with-75-of-btc-hashrate-join-open-stand-705374",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-11T06:13:58.813Z",
+  "updatedAt": "2026-05-11T06:13:58.814Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/05/11/bitcoin-mining-pools-with-75-of-btc-hashrate-join-open-standard-for-block-construction",
+  "canonicalUrl": "https://www.coindesk.com/markets/2026/05/11/bitcoin-mining-pools-with-75-of-btc-hashrate-join-open-standard-for-block-construction",
+  "titleFingerprint": "1827bc83cd49780d5f9a3f94cc36be3fdefca40a",
+  "dedupKeys": [
+    "e4c8c595a134f20758549974835995f43da5aa2c",
+    "1827bc83cd49780d5f9a3f94cc36be3fdefca40a",
+    "5370fea464b14ff9f5d6bf9fd7f4414b36d51c20"
+  ],
+  "imageUrl": "/images/articles/e4c8c595a134.jpg",
+  "i18n": {
+    "ko": {
+      "title": "비트코인 해시레이트 75%, Stratum V2 블록 구성 표준 합류",
+      "excerpt": "Foundry, AntPool, F2Pool 등 7개 비트코인 채굴 풀이 Stratum V2 워킹그룹에 합류해 전 세계 해시레이트 약 75%가 개별 채굴자 중심 블록 구성 표준을 지지하게 됐다.",
+      "body": "Foundry, AntPool, F2Pool, SpiderPool, MARA Pool을 포함한 7개 비트코인 채굴 풀이 Stratum V2 워킹그룹에 합류했다. 이로써 전 세계 비트코인 해시레이트의 거의 4분의 3이 블록 구성 방식의 공개 표준을 지지하게 됐다. Stratum V2는 블록에 어떤 거래를 포함할지 정하는 권한을 채굴 풀에서 개별 채굴자로 되돌리는 것을 목표로 한다. 주요 풀이 참여하면서 프로토콜 채택 기반은 확대됐지만, 실제 운영 전환과 구현 범위는 각 참여자의 실행에 달려 있다. 출처: coindesk.com."
+    },
+    "en": {
+      "title": "Bitcoin Hashrate Near 75% Joins Stratum V2 Block Standard",
+      "excerpt": "Seven Bitcoin mining pools, including Foundry, AntPool and F2Pool, joined the Stratum V2 working group, putting about 75% of global hashrate behind miner-led block construction.",
+      "body": "Seven Bitcoin mining pools, including Foundry, AntPool, F2Pool, SpiderPool and MARA Pool, have joined the Stratum V2 working group. The move places nearly three-quarters of global Bitcoin hashrate behind an open standard for block construction. Stratum V2 aims to return the decision over which transactions enter a block from mining pools to individual miners. With major pools now participating, the protocol has a broader base for adoption, though actual operational rollout and implementation scope will depend on each participant. Source: coindesk.com."
+    },
+    "ja": {
+      "title": "ビットコイン採掘ハッシュレート75%、Stratum V2標準に参加",
+      "excerpt": "Foundry、AntPool、F2Poolなど7つのビットコイン採掘プールがStratum V2作業部会に加わり、世界のハッシュレート約75%が個別採掘者主導のブロック構築標準を支持した。",
+      "body": "Foundry、AntPool、F2Pool、SpiderPool、MARA Poolを含む7つのビットコイン採掘プールが、Stratum V2ワーキンググループに参加した。これにより、世界のビットコイン・ハッシュレートのほぼ4分の3が、ブロック構築のオープン標準を支持する形となった。Stratum V2は、ブロックにどの取引を含めるかを決める権限を、採掘プールから個々の採掘者へ戻すことを目指す。主要プールの参加で採用基盤は広がったが、実際の運用移行や実装範囲は各参加者の対応に左右される。出典: coindesk.com."
+    },
+    "zh": {
+      "title": "比特币75%算力加入Stratum V2区块构建开放标准",
+      "excerpt": "Foundry、AntPool、F2Pool等7家比特币矿池加入Stratum V2工作组，使全球约75%算力支持将区块构建决策还给个体矿工的协议。",
+      "body": "包括Foundry、AntPool、F2Pool、SpiderPool和MARA Pool在内的7家比特币矿池已加入Stratum V2工作组。这意味着全球比特币算力近四分之三开始支持一种区块构建开放标准。Stratum V2的目标是把决定哪些交易进入区块的权力，从矿池交还给个体矿工。随着主要矿池参与，该协议的采用基础进一步扩大，但实际运营切换和实施范围仍取决于各参与方的执行。来源: coindesk.com."
+    },
+    "es": {
+      "title": "El 75% del hashrate de Bitcoin se suma al estándar Stratum V2",
+      "excerpt": "Siete pools de minería de Bitcoin, incluidos Foundry, AntPool y F2Pool, se unieron al grupo Stratum V2 y llevaron cerca del 75% del hashrate global a un modelo de bloques decidido por mineros.",
+      "body": "Siete pools de minería de Bitcoin, entre ellos Foundry, AntPool, F2Pool, SpiderPool y MARA Pool, se unieron al grupo de trabajo de Stratum V2. Con ello, casi tres cuartas partes del hashrate global de Bitcoin respaldan un estándar abierto para la construcción de bloques. Stratum V2 busca devolver a los mineros individuales la decisión sobre qué transacciones incluir en un bloque, en lugar de dejarla en manos de los pools. La entrada de grandes pools amplía la base de adopción del protocolo, aunque la transición operativa y el alcance de la implementación dependerán de cada participante. Fuente: coindesk.com."
+    },
+    "pt": {
+      "title": "75% do hashrate do Bitcoin adere ao padrão aberto Stratum V2",
+      "excerpt": "Sete pools de mineração de Bitcoin, incluindo Foundry, AntPool e F2Pool, entraram no grupo Stratum V2, levando cerca de 75% do hashrate global a apoiar blocos definidos por mineradores.",
+      "body": "Sete pools de mineração de Bitcoin, incluindo Foundry, AntPool, F2Pool, SpiderPool e MARA Pool, aderiram ao grupo de trabalho Stratum V2. Com isso, quase três quartos do hashrate global do Bitcoin passam a apoiar um padrão aberto para construção de blocos. O Stratum V2 busca devolver aos mineradores individuais a decisão sobre quais transações entram em um bloco, em vez de concentrá-la nos pools. A participação de grandes pools amplia a base de adoção do protocolo, embora a transição operacional e o escopo de implementação dependam de cada participante. Fonte: coindesk.com."
+    },
+    "de": {
+      "title": "75% der Bitcoin-Hashrate unterstützen Stratum-V2-Blockstandard",
+      "excerpt": "Sieben Bitcoin-Mining-Pools, darunter Foundry, AntPool und F2Pool, treten der Stratum-V2-Arbeitsgruppe bei und stellen rund 75% der globalen Hashrate hinter minerbasierte Blockerstellung.",
+      "body": "Sieben Bitcoin-Mining-Pools, darunter Foundry, AntPool, F2Pool, SpiderPool und MARA Pool, sind der Stratum-V2-Arbeitsgruppe beigetreten. Damit unterstützt fast drei Viertel der weltweiten Bitcoin-Hashrate einen offenen Standard für die Blockerstellung. Stratum V2 soll die Entscheidung darüber, welche Transaktionen in einen Block aufgenommen werden, von Mining-Pools zurück an einzelne Miner verlagern. Die Beteiligung großer Pools verbreitert die Grundlage für eine Einführung des Protokolls, doch operative Umstellung und Implementierungsumfang hängen von den jeweiligen Teilnehmern ab. Quelle: coindesk.com."
+    },
+    "fr": {
+      "title": "75% du hashrate Bitcoin rejoint le standard ouvert Stratum V2",
+      "excerpt": "Sept pools de minage Bitcoin, dont Foundry, AntPool et F2Pool, ont rejoint le groupe Stratum V2, plaçant près de 75% du hashrate mondial derrière une construction de blocs décidée par les mineurs.",
+      "body": "Sept pools de minage Bitcoin, dont Foundry, AntPool, F2Pool, SpiderPool et MARA Pool, ont rejoint le groupe de travail Stratum V2. Cette décision place près des trois quarts du hashrate mondial de Bitcoin derrière un standard ouvert de construction de blocs. Stratum V2 vise à rendre aux mineurs individuels le choix des transactions à inclure dans un bloc, au lieu de le laisser aux pools. L’arrivée de grands pools élargit la base d’adoption du protocole, mais la transition opérationnelle et l’étendue de la mise en œuvre dépendront de chaque participant. Source: coindesk.com."
+    },
+    "ar": {
+      "title": "75% من قوة تعدين بيتكوين تنضم إلى معيار Stratum V2 المفتوح",
+      "excerpt": "انضمت سبعة مجمعات تعدين بيتكوين، منها Foundry وAntPool وF2Pool، إلى مجموعة Stratum V2، ما يضع نحو 75% من الهاشريت العالمي خلف بناء كتل يقرره المعدنون الأفراد.",
+      "body": "انضمت سبعة مجمعات لتعدين بيتكوين، من بينها Foundry وAntPool وF2Pool وSpiderPool وMARA Pool، إلى مجموعة عمل Stratum V2. وبذلك أصبح ما يقارب ثلاثة أرباع الهاشريت العالمي لبيتكوين داعما لمعيار مفتوح في بناء الكتل. يهدف Stratum V2 إلى إعادة قرار اختيار المعاملات التي تدخل الكتلة من مجمعات التعدين إلى المعدنين الأفراد. مشاركة المجمعات الكبرى توسع قاعدة تبني البروتوكول، لكن الانتقال التشغيلي ونطاق التنفيذ سيعتمدان على كل مشارك. المصدر: coindesk.com."
+    },
+    "hi": {
+      "title": "बिटकॉइन की 75% हैशरेट Stratum V2 ब्लॉक मानक से जुड़ी",
+      "excerpt": "Foundry, AntPool और F2Pool सहित सात बिटकॉइन माइनिंग पूल Stratum V2 वर्किंग ग्रुप में शामिल हुए, जिससे वैश्विक हैशरेट का करीब 75% माइनर-आधारित ब्लॉक निर्माण के पीछे आया।",
+      "body": "Foundry, AntPool, F2Pool, SpiderPool और MARA Pool सहित सात बिटकॉइन माइनिंग पूल Stratum V2 वर्किंग ग्रुप में शामिल हुए हैं। इससे वैश्विक बिटकॉइन हैशरेट का लगभग तीन-चौथाई हिस्सा ब्लॉक निर्माण के खुले मानक के समर्थन में आ गया है। Stratum V2 का उद्देश्य यह है कि किसी ब्लॉक में कौन से लेनदेन शामिल होंगे, इसका निर्णय माइनिंग पूल के बजाय व्यक्तिगत माइनरों को मिले। बड़े पूलों की भागीदारी से प्रोटोकॉल अपनाने का आधार बढ़ा है, लेकिन वास्तविक परिचालन बदलाव और लागू करने का दायरा हर प्रतिभागी पर निर्भर करेगा। स्रोत: coindesk.com."
+    },
+    "id": {
+      "title": "75% Hashrate Bitcoin Bergabung ke Standar Blok Stratum V2",
+      "excerpt": "Tujuh pool penambangan Bitcoin, termasuk Foundry, AntPool, dan F2Pool, bergabung dengan kelompok kerja Stratum V2, menempatkan sekitar 75% hashrate global di belakang konstruksi blok oleh penambang.",
+      "body": "Tujuh pool penambangan Bitcoin, termasuk Foundry, AntPool, F2Pool, SpiderPool, dan MARA Pool, bergabung dengan kelompok kerja Stratum V2. Langkah ini menempatkan hampir tiga perempat hashrate Bitcoin global di belakang standar terbuka untuk konstruksi blok. Stratum V2 bertujuan mengembalikan keputusan tentang transaksi mana yang masuk ke blok dari pool penambangan kepada penambang individu. Keterlibatan pool besar memperluas dasar adopsi protokol, tetapi peralihan operasional dan cakupan implementasi tetap bergantung pada masing-masing peserta. Sumber: coindesk.com."
+    }
+  }
+}
