@@ -1,5 +1,230 @@
 [
   {
+    "id": "2e1bc254e7c2",
+    "slug": "major-solana-upgrade-alpenglow-begins-testing-ahead-of-full--280626",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T22:38:42.235Z",
+    "updatedAt": "2026-05-11T22:38:42.235Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367470/solana-alpenglow-upgrade-begins-testing-ahead-full-rollout",
+    "canonicalUrl": "https://decrypt.co/367470/solana-alpenglow-upgrade-begins-testing-ahead-full-rollout",
+    "titleFingerprint": "d9187107b2f082c076df209130b1a8aa95dacae1",
+    "dedupKeys": [
+      "2e1bc254e7c26c9bc30aff08fe967581bf744a34",
+      "d9187107b2f082c076df209130b1a8aa95dacae1",
+      "81d1f407aeefb7a0105e3fe5416e7e183ef47f8e"
+    ],
+    "imageUrl": "/images/articles/2e1bc254e7c2.png",
+    "i18n": {
+      "ko": {
+        "title": "솔라나 알펜글로우 업그레이드, 메인넷 정식 적용 앞두고 테스트 돌입",
+        "excerpt": "솔라나의 합의 프로토콜 업그레이드 알펜글로우가 레이어1 네트워크 메인넷 정식 적용에 앞서 테스트 단계에 들어가며 출시 준비에 한 걸음 더 다가섰다.",
+        "body": "솔라나의 주요 합의 프로토콜 업그레이드인 알펜글로우가 레이어1 네트워크 메인넷 정식 적용을 앞두고 테스트를 시작했다. 이번 테스트는 알펜글로우가 실제 메인넷에 배포되기 전 단계로, 솔라나 네트워크의 핵심 합의 구조를 업데이트하기 위한 준비 과정이다. 원문에 따르면 알펜글로우는 이미 정식 롤아웃에 한 걸음 더 가까워진 상태다. 다만 현재 공개된 내용은 테스트 개시와 메인넷 적용 준비에 초점이 맞춰져 있으며, 구체적인 전체 배포 일정이나 추가 수치는 제시되지 않았다. decrypt.co는 이번 업그레이드가 솔라나 메인넷 적용에 가까워졌다고 전했다."
+      },
+      "en": {
+        "title": "Solana Alpenglow Upgrade Enters Testing Before Mainnet Rollout",
+        "excerpt": "Solana’s Alpenglow consensus protocol upgrade has entered testing ahead of its planned mainnet rollout, moving the layer-1 network one step closer to deployment.",
+        "body": "Solana’s major consensus protocol upgrade, Alpenglow, has begun testing ahead of its full rollout on the layer-1 network’s mainnet. The test phase marks a preparatory step before Alpenglow is deployed to Solana’s live network and is focused on updating the network’s core consensus protocol. According to the original report, Alpenglow is now one step closer to being rolled out on mainnet. The information currently available centers on the start of testing and preparations for mainnet implementation, while no specific full deployment date or additional figures were provided. decrypt.co reported that the upgrade has moved closer to Solana mainnet rollout."
+      },
+      "ja": {
+        "title": "ソラナのAlpenglowアップグレード、メインネット展開前にテスト開始",
+        "excerpt": "ソラナの合意プロトコルアップグレードAlpenglowが、レイヤー1ネットワークのメインネット正式展開を前にテスト段階へ入り、導入に一歩近づいた。",
+        "body": "ソラナの主要な合意プロトコルアップグレードであるAlpenglowが、レイヤー1ネットワークのメインネットでの正式展開を前にテストを開始した。今回のテストは、Alpenglowが実際のメインネットに導入される前の準備段階であり、ソラナネットワークの中核となる合意構造を更新するためのプロセスだ。原文によると、Alpenglowはすでに正式ロールアウトに一歩近づいた状態にある。ただし、現在公開されている内容はテスト開始とメインネット適用準備に焦点を当てており、具体的な全面展開日程や追加の数値は示されていない。decrypt.coは、このアップグレードがソラナのメインネット適用に近づいたと報じた。"
+      },
+      "zh": {
+        "title": "Solana Alpenglow升级启动测试，主网正式推出再进一步",
+        "excerpt": "Solana共识协议升级Alpenglow已在主网正式推出前进入测试阶段，使这一Layer 1网络距离部署该升级又近了一步。",
+        "body": "Solana的重大共识协议升级Alpenglow已在Layer 1网络主网正式推出前开始测试。此次测试是Alpenglow部署到实际主网之前的准备阶段，重点在于为Solana网络核心共识结构的更新做准备。根据原文信息，Alpenglow目前已距离正式推出更近一步。不过，当前公开内容主要集中在测试启动以及主网应用准备上，尚未提供完整部署时间表或其他具体数据。decrypt.co报道称，此次升级已使Solana主网部署进程进一步推进。"
+      },
+      "es": {
+        "title": "Solana inicia pruebas de Alpenglow antes de su despliegue en mainnet",
+        "excerpt": "La actualización del protocolo de consenso Alpenglow de Solana entró en fase de pruebas antes de su despliegue en la mainnet de la red layer 1, acercando su lanzamiento.",
+        "body": "Alpenglow, la principal actualización del protocolo de consenso de Solana, comenzó sus pruebas antes de su despliegue completo en la mainnet de la red layer 1. Esta fase funciona como un paso preparatorio antes de que Alpenglow se implemente en la red principal activa de Solana y se centra en actualizar la estructura central de consenso. Según el informe original, Alpenglow está un paso más cerca de su lanzamiento formal en mainnet. La información disponible se enfoca en el inicio de las pruebas y la preparación para la aplicación en mainnet, sin aportar una fecha concreta de despliegue total ni cifras adicionales. decrypt.co informó que la actualización se acerca a su implementación en la mainnet de Solana."
+      },
+      "pt": {
+        "title": "Solana inicia testes do Alpenglow antes de lançamento na mainnet",
+        "excerpt": "A atualização do protocolo de consenso Alpenglow da Solana entrou em fase de testes antes da implementação na mainnet da rede layer 1, aproximando o rollout oficial.",
+        "body": "A Alpenglow, importante atualização do protocolo de consenso da Solana, iniciou testes antes de seu lançamento completo na mainnet da rede layer 1. Essa etapa é uma preparação antes de a Alpenglow ser implantada na rede principal ativa da Solana e tem como foco atualizar a estrutura central de consenso. Segundo o relato original, a Alpenglow está agora um passo mais perto do rollout oficial na mainnet. As informações disponíveis se concentram no início dos testes e na preparação para a aplicação na mainnet, sem apresentar uma data específica para a implantação completa nem números adicionais. A decrypt.co informou que a atualização se aproximou da implementação na mainnet da Solana."
+      },
+      "de": {
+        "title": "Solana startet Alpenglow-Tests vor dem vollständigen Mainnet-Rollout",
+        "excerpt": "Solanas Konsensprotokoll-Upgrade Alpenglow ist vor dem geplanten Mainnet-Rollout in die Testphase gestartet und bringt das Layer-1-Netzwerk der Einführung näher.",
+        "body": "Solanas wichtiges Konsensprotokoll-Upgrade Alpenglow hat vor dem vollständigen Rollout im Mainnet des Layer-1-Netzwerks mit Tests begonnen. Diese Testphase ist ein vorbereitender Schritt, bevor Alpenglow im aktiven Mainnet von Solana eingeführt wird, und konzentriert sich auf die Aktualisierung der zentralen Konsensstruktur des Netzwerks. Dem ursprünglichen Bericht zufolge ist Alpenglow dem offiziellen Mainnet-Rollout nun einen Schritt näher. Die derzeit verfügbaren Informationen betreffen vor allem den Testbeginn und die Vorbereitung der Mainnet-Implementierung; ein konkreter Termin für die vollständige Bereitstellung oder zusätzliche Zahlen wurden nicht genannt. decrypt.co berichtete, dass das Upgrade der Einführung im Solana-Mainnet nähergekommen ist."
+      },
+      "fr": {
+        "title": "Solana lance les tests d’Alpenglow avant son déploiement sur mainnet",
+        "excerpt": "La mise à niveau du protocole de consensus Alpenglow de Solana est entrée en test avant son déploiement sur le mainnet du réseau layer 1, rapprochant son lancement.",
+        "body": "Alpenglow, la principale mise à niveau du protocole de consensus de Solana, a commencé ses tests avant son déploiement complet sur le mainnet du réseau layer 1. Cette phase constitue une étape préparatoire avant l’intégration d’Alpenglow au réseau principal actif de Solana et vise la mise à jour de la structure centrale de consensus. Selon le rapport original, Alpenglow se rapproche désormais d’un rollout officiel sur mainnet. Les informations disponibles portent sur le début des tests et la préparation de l’application au mainnet, sans date précise de déploiement complet ni chiffres supplémentaires. decrypt.co a rapporté que cette mise à niveau s’est rapprochée de son application au mainnet de Solana."
+      },
+      "ar": {
+        "title": "ترقية سولانا Alpenglow تبدأ الاختبار قبل الإطلاق الكامل على الشبكة الرئيسية",
+        "excerpt": "دخلت ترقية بروتوكول الإجماع Alpenglow الخاصة بسولانا مرحلة الاختبار قبل طرحها على الشبكة الرئيسية لشبكة الطبقة الأولى، ما يجعل الإطلاق أقرب خطوة.",
+        "body": "بدأت ترقية Alpenglow، وهي ترقية رئيسية لبروتوكول الإجماع في سولانا، مرحلة الاختبار قبل طرحها الكامل على الشبكة الرئيسية لشبكة الطبقة الأولى. تمثل هذه المرحلة خطوة تحضيرية قبل نشر Alpenglow على الشبكة الرئيسية الفعلية لسولانا، وتركز على تحديث البنية الأساسية للإجماع في الشبكة. ووفق التقرير الأصلي، أصبحت Alpenglow الآن أقرب بخطوة إلى الطرح الرسمي على الشبكة الرئيسية. تتركز المعلومات المتاحة حاليا على بدء الاختبار والاستعداد لتطبيقها على الشبكة الرئيسية، من دون تقديم موعد محدد للطرح الكامل أو أرقام إضافية. وذكرت decrypt.co أن الترقية اقتربت من التطبيق على شبكة سولانا الرئيسية."
+      },
+      "hi": {
+        "title": "Solana Alpenglow अपग्रेड मेननेट रोलआउट से पहले टेस्टिंग में पहुँचा",
+        "excerpt": "Solana का Alpenglow consensus protocol upgrade layer-1 network के mainnet rollout से पहले testing phase में पहुंच गया है, जिससे इसकी तैनाती एक कदम और करीब आई।",
+        "body": "Solana का प्रमुख consensus protocol upgrade Alpenglow, layer-1 network के mainnet पर पूर्ण rollout से पहले testing में प्रवेश कर गया है। यह testing phase Alpenglow को Solana के live mainnet पर deploy करने से पहले की तैयारी है और नेटवर्क की मुख्य consensus संरचना को update करने पर केंद्रित है। मूल रिपोर्ट के अनुसार, Alpenglow अब आधिकारिक mainnet rollout के एक कदम और करीब है। फिलहाल उपलब्ध जानकारी testing शुरू होने और mainnet implementation की तैयारी तक सीमित है; पूर्ण deployment की कोई निश्चित तारीख या अतिरिक्त आंकड़े नहीं दिए गए हैं। decrypt.co ने बताया कि यह upgrade Solana mainnet पर लागू होने के और करीब पहुंच गया है।"
+      },
+      "id": {
+        "title": "Upgrade Solana Alpenglow Mulai Diuji Jelang Rollout Mainnet",
+        "excerpt": "Upgrade protokol konsensus Alpenglow milik Solana mulai memasuki tahap pengujian sebelum diterapkan di mainnet jaringan layer-1, membawa rollout resmi makin dekat.",
+        "body": "Alpenglow, upgrade utama protokol konsensus Solana, mulai menjalani pengujian sebelum rollout penuh di mainnet jaringan layer-1. Tahap ini menjadi proses persiapan sebelum Alpenglow diterapkan pada jaringan utama Solana yang aktif, dengan fokus pada pembaruan struktur inti konsensus jaringan. Menurut laporan asli, Alpenglow kini selangkah lebih dekat menuju rollout resmi di mainnet. Informasi yang tersedia saat ini berpusat pada dimulainya pengujian dan persiapan implementasi mainnet, sementara jadwal penuh deployment atau angka tambahan belum disampaikan. decrypt.co melaporkan bahwa upgrade ini semakin dekat untuk diterapkan di mainnet Solana."
+      }
+    }
+  },
+  {
+    "id": "4e0d82ea2f18",
+    "slug": "openai-launches-daybreak-as-ai-firms-expand-into-cybersecuri-587137",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T22:37:52.226Z",
+    "updatedAt": "2026-05-11T22:37:52.226Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
+    "canonicalUrl": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
+    "titleFingerprint": "52cb5c3dc112054ce53974c5de663256714e5382",
+    "dedupKeys": [
+      "4e0d82ea2f188c34e738cd5b8f243850ab420a1a",
+      "52cb5c3dc112054ce53974c5de663256714e5382",
+      "d03edff05b2ae6fe78007c7ada04bfb77079b81e"
+    ],
+    "imageUrl": "/images/articles/4e0d82ea2f18.png",
+    "i18n": {
+      "ko": {
+        "title": "OpenAI 데이브레이크 출시, AI 기업 사이버보안 확장 가속",
+        "excerpt": "OpenAI는 새로운 데이브레이크 이니셔티브를 공개하고 AI로 기업의 소프트웨어 취약점 식별과 사이버 방어 대응 속도 향상을 지원한다고 밝혔다.",
+        "body": "OpenAI가 새로운 데이브레이크(Daybreak) 이니셔티브를 내놓고 AI를 활용한 사이버보안 지원에 나섰다. 이 프로그램은 기업이 소프트웨어 취약점을 더 빠르게 식별하고 사이버 방어 절차를 신속히 진행하도록 돕는 데 초점을 맞춘다. AI 기업들이 보안 영역으로 사업 범위를 넓히는 가운데, 데이브레이크는 취약점 탐지와 방어 속도 개선을 핵심 가치로 제시한다. 기업 입장에서는 소프트웨어 위험을 조기에 파악하는 도구로 활용될 수 있다. 출처 decrypt.co에 따르면 OpenAI는 AI가 기업의 취약점 식별과 사이버 방어 가속을 지원한다고 설명했다."
+      },
+      "en": {
+        "title": "OpenAI Launches Daybreak as AI Cybersecurity Push Accelerates",
+        "excerpt": "OpenAI unveiled its new Daybreak initiative, saying AI will help companies identify software vulnerabilities and speed up cyber defense efforts.",
+        "body": "OpenAI has launched Daybreak, a new initiative aimed at supporting cybersecurity with artificial intelligence. The program focuses on helping companies identify software vulnerabilities more quickly and accelerate cyber defense workflows. As AI firms expand further into security, Daybreak positions vulnerability detection and faster defense as its core functions. For companies, the initiative may serve as a tool to recognize software risks earlier within existing security efforts. According to decrypt.co, OpenAI said AI can help companies find vulnerabilities and speed up cyber defense."
+      },
+      "ja": {
+        "title": "OpenAIがDaybreak発表、AI企業のサイバー防衛進出が加速",
+        "excerpt": "OpenAIは新たなDaybreak構想を発表し、AIで企業のソフトウェア脆弱性の特定とサイバー防衛の迅速化を支援すると説明した。",
+        "body": "OpenAIは、人工知能を活用してサイバーセキュリティを支援する新たな取り組みDaybreakを発表した。このプログラムは、企業がソフトウェアの脆弱性をより速く特定し、サイバー防衛の手順を迅速に進められるようにすることを目的としている。AI企業がセキュリティ分野へ事業領域を広げる中、Daybreakは脆弱性検出と防御速度の改善を中心に据える。企業にとっては、ソフトウェア上のリスクを早期に把握する手段となり得る。decrypt.coによると、OpenAIはAIが企業の脆弱性発見とサイバー防衛の加速を支援すると述べた。"
+      },
+      "zh": {
+        "title": "OpenAI推出Daybreak，AI企业加速进入网络安全领域",
+        "excerpt": "OpenAI公布新的Daybreak计划，称将利用AI帮助企业识别软件漏洞，并提升网络防御响应速度。",
+        "body": "OpenAI推出新的Daybreak计划，开始以人工智能支持网络安全工作。该计划重点帮助企业更快识别软件漏洞，并加快网络防御流程。随着AI企业不断扩大到安全领域，Daybreak将漏洞发现和防御速度提升作为核心功能。对企业而言，这一计划可作为更早发现软件风险的工具，并配合现有安全工作使用。据decrypt.co报道，OpenAI表示，AI可以帮助企业识别漏洞并加速网络防御。"
+      },
+      "es": {
+        "title": "OpenAI lanza Daybreak y acelera su avance en ciberseguridad con IA",
+        "excerpt": "OpenAI presentó su nueva iniciativa Daybreak y dijo que la IA ayudará a empresas a identificar vulnerabilidades de software y acelerar la defensa cibernética.",
+        "body": "OpenAI lanzó Daybreak, una nueva iniciativa orientada a apoyar la ciberseguridad mediante inteligencia artificial. El programa se centra en ayudar a las empresas a identificar con mayor rapidez vulnerabilidades de software y acelerar los procesos de defensa cibernética. Mientras las compañías de IA amplían su presencia en seguridad, Daybreak plantea como funciones clave la detección de fallas y la mejora de la velocidad de respuesta defensiva. Para las empresas, puede servir como una herramienta para reconocer antes los riesgos del software. Según decrypt.co, OpenAI dijo que la IA ayuda a detectar vulnerabilidades y acelerar la defensa cibernética."
+      },
+      "pt": {
+        "title": "OpenAI lança Daybreak e amplia aposta de IA em cibersegurança",
+        "excerpt": "A OpenAI apresentou a nova iniciativa Daybreak e disse que a IA ajudará empresas a identificar vulnerabilidades de software e acelerar a defesa cibernética.",
+        "body": "A OpenAI lançou o Daybreak, uma nova iniciativa voltada a apoiar a cibersegurança com inteligência artificial. O programa tem foco em ajudar empresas a identificar vulnerabilidades de software com mais rapidez e acelerar processos de defesa cibernética. À medida que empresas de IA ampliam sua atuação em segurança, o Daybreak destaca a detecção de falhas e a melhora da velocidade de defesa como funções centrais. Para companhias, a iniciativa pode servir como ferramenta para reconhecer riscos de software mais cedo. Segundo o decrypt.co, a OpenAI afirmou que a IA pode ajudar a encontrar vulnerabilidades e acelerar a defesa cibernética."
+      },
+      "de": {
+        "title": "OpenAI startet Daybreak und treibt KI-Vorstoß in Cybersicherheit voran",
+        "excerpt": "OpenAI hat die neue Initiative Daybreak vorgestellt und erklärt, KI solle Unternehmen helfen, Softwarelücken zu erkennen und Cyberabwehr zu beschleunigen.",
+        "body": "OpenAI hat Daybreak gestartet, eine neue Initiative zur Unterstützung der Cybersicherheit durch künstliche Intelligenz. Das Programm soll Unternehmen dabei helfen, Software-Schwachstellen schneller zu identifizieren und Abläufe der Cyberabwehr zu beschleunigen. Während KI-Unternehmen ihre Aktivitäten im Sicherheitsbereich ausweiten, stellt Daybreak die Erkennung von Schwachstellen und ein höheres Tempo bei der Abwehr in den Mittelpunkt. Für Unternehmen kann die Initiative als Werkzeug dienen, um Softwarerisiken früher zu erkennen. Laut decrypt.co erklärte OpenAI, KI könne Unternehmen bei der Schwachstellensuche und schnelleren Cyberabwehr unterstützen."
+      },
+      "fr": {
+        "title": "OpenAI lance Daybreak et renforce l’essor de l’IA en cybersécurité",
+        "excerpt": "OpenAI a présenté sa nouvelle initiative Daybreak, affirmant que l’IA aidera les entreprises à repérer les failles logicielles et accélérer la cyberdéfense.",
+        "body": "OpenAI a lancé Daybreak, une nouvelle initiative destinée à soutenir la cybersécurité grâce à l’intelligence artificielle. Le programme vise à aider les entreprises à identifier plus rapidement les vulnérabilités logicielles et à accélérer les processus de cyberdéfense. Alors que les sociétés d’IA étendent leurs activités au domaine de la sécurité, Daybreak met en avant la détection des failles et l’amélioration de la vitesse de défense comme fonctions centrales. Pour les entreprises, l’initiative peut servir d’outil pour repérer plus tôt les risques logiciels. Selon decrypt.co, OpenAI a déclaré que l’IA peut aider à identifier les vulnérabilités et accélérer la cyberdéfense."
+      },
+      "ar": {
+        "title": "OpenAI تطلق Daybreak مع توسع شركات الذكاء الاصطناعي في الأمن السيبراني",
+        "excerpt": "أعلنت OpenAI عن مبادرة Daybreak الجديدة، وقالت إن الذكاء الاصطناعي سيساعد الشركات على تحديد ثغرات البرمجيات وتسريع الدفاع السيبراني.",
+        "body": "أطلقت OpenAI مبادرة Daybreak الجديدة لدعم الأمن السيبراني باستخدام الذكاء الاصطناعي. وتركز المبادرة على مساعدة الشركات في تحديد ثغرات البرمجيات بسرعة أكبر وتسريع إجراءات الدفاع السيبراني. ومع توسع شركات الذكاء الاصطناعي في مجال الأمن، تضع Daybreak كشف الثغرات وتحسين سرعة الدفاع في صميم دورها. وبالنسبة للشركات، يمكن أن تكون المبادرة أداة للتعرف المبكر على مخاطر البرمجيات ضمن جهودها الأمنية القائمة. ووفقًا لموقع decrypt.co، قالت OpenAI إن الذكاء الاصطناعي يمكنه مساعدة الشركات على اكتشاف الثغرات وتسريع الدفاع السيبراني."
+      },
+      "hi": {
+        "title": "OpenAI ने Daybreak लॉन्च किया, AI कंपनियों का साइबर सुरक्षा विस्तार तेज",
+        "excerpt": "OpenAI ने नई Daybreak पहल पेश की और कहा कि AI कंपनियों को सॉफ्टवेयर कमजोरियां पहचानने और साइबर रक्षा तेज करने में मदद करेगा।",
+        "body": "OpenAI ने Daybreak नाम की नई पहल शुरू की है, जिसका उद्देश्य कृत्रिम बुद्धिमत्ता के जरिए साइबर सुरक्षा में मदद करना है। यह कार्यक्रम कंपनियों को सॉफ्टवेयर कमजोरियां अधिक तेजी से पहचानने और साइबर रक्षा प्रक्रियाओं को तेज करने में सहायता देने पर केंद्रित है। जब AI कंपनियां सुरक्षा क्षेत्र में अपना विस्तार कर रही हैं, तब Daybreak कमजोरियों की पहचान और रक्षा की गति सुधारने को मुख्य भूमिका के रूप में प्रस्तुत करता है। कंपनियों के लिए यह सॉफ्टवेयर जोखिमों को पहले समझने का साधन बन सकता है। decrypt.co के अनुसार, OpenAI ने कहा कि AI कमजोरियों की पहचान और साइबर रक्षा तेज करने में मदद कर सकता है।"
+      },
+      "id": {
+        "title": "OpenAI Luncurkan Daybreak Saat AI Merambah Keamanan Siber",
+        "excerpt": "OpenAI memperkenalkan inisiatif baru Daybreak dan mengatakan AI akan membantu perusahaan mengidentifikasi kerentanan perangkat lunak serta mempercepat pertahanan siber.",
+        "body": "OpenAI meluncurkan Daybreak, inisiatif baru untuk mendukung keamanan siber dengan kecerdasan buatan. Program ini berfokus membantu perusahaan mengidentifikasi kerentanan perangkat lunak lebih cepat dan mempercepat proses pertahanan siber. Ketika perusahaan AI memperluas jangkauan ke bidang keamanan, Daybreak menempatkan deteksi kerentanan dan peningkatan kecepatan pertahanan sebagai fungsi utama. Bagi perusahaan, inisiatif ini dapat menjadi alat untuk mengenali risiko perangkat lunak lebih awal dalam upaya keamanan yang sudah berjalan. Menurut decrypt.co, OpenAI mengatakan AI dapat membantu perusahaan menemukan kerentanan dan mempercepat pertahanan siber."
+      }
+    }
+  },
+  {
+    "id": "9b7fa5136cfb",
+    "slug": "solana-etf-inflows-show-demand-returning-as-traders-eye-sol--741715",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T22:37:03.788Z",
+    "updatedAt": "2026-05-11T22:37:03.789Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/solana-etf-inflows-demand-returns-as-traders-eye-120?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/solana-etf-inflows-demand-returns-as-traders-eye-120",
+    "titleFingerprint": "8e85733be893d0e81d909a178252f3e483dbbb79",
+    "dedupKeys": [
+      "9b7fa5136cfba35737b3bbbe79375dcdef33162e",
+      "8e85733be893d0e81d909a178252f3e483dbbb79",
+      "f3b47a27334c4f543b8032841fdba8ef7b8009cf"
+    ],
+    "imageUrl": "/images/articles/9b7fa5136cfb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "솔라나 ETF 유입 회복, SOL 120달러 랠리 기대 커진다",
+        "excerpt": "솔라나 ETF가 2월 이후 가장 강한 주간 자금 유입을 기록한 가운데 SOL 선물 미결제약정도 약 30% 증가하며 120달러 랠리 가능성에 관심이 쏠리고 있다.",
+        "body": "솔라나 ETF가 최근 2월 이후 가장 강한 주간 자금 유입을 기록하며 투자 수요 회복 신호를 보였다. 동시에 SOL 선물 미결제약정은 약 30% 증가해 파생상품 시장에서도 거래자들의 관심이 커진 것으로 나타났다. 이번 흐름은 SOL 가격이 120달러를 향한 반등을 준비하고 있는지에 대한 시장의 관찰로 이어지고 있다. 다만 제공된 정보상 가격 상승은 아직 확정된 흐름이 아니라 ETF 유입과 선물 포지션 증가를 바탕으로 한 관심 확대에 가깝다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Solana ETF Inflows Rebound as Traders Watch SOL Rally to $120",
+        "excerpt": "Solana ETFs posted their strongest weekly inflows since February while SOL futures open interest rose nearly 30%, drawing attention to a possible move toward $120.",
+        "body": "Solana ETFs recently recorded their strongest weekly inflows since February, signaling that investor demand may be returning. At the same time, open interest in SOL futures climbed by nearly 30%, showing increased trader activity in the derivatives market. The combined move has prompted market watchers to ask whether SOL is preparing for a rebound toward $120. However, based on the provided information, the rally is not confirmed; the focus remains on ETF inflows and the rise in futures positioning. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "ソラナETF資金流入が回復、SOL120ドル上昇に注目集まる",
+        "excerpt": "ソラナETFは2月以来最も強い週間資金流入を記録し、SOL先物の未決済建玉も約30%増加。120ドルへの上昇可能性に関心が集まっている。",
+        "body": "ソラナETFは最近、2月以来最も強い週間資金流入を記録し、投資需要が戻りつつある兆しを示した。同時に、SOL先物の未決済建玉は約30%増加し、デリバティブ市場でもトレーダーの関心が高まっていることがうかがえる。この動きにより、市場ではSOLが120ドルに向けた反発を準備しているのかが注目されている。ただし、提供された情報では上昇が確定したわけではなく、ETF流入と先物ポジション増加を背景にした関心拡大として捉えられる。出典: cointelegraph.com。"
+      },
+      "zh": {
+        "title": "Solana ETF资金流入回暖，交易员关注SOL冲向120美元",
+        "excerpt": "Solana ETF录得2月以来最强单周资金流入，同时SOL期货未平仓合约增长近30%，市场开始关注其是否可能反弹至120美元。",
+        "body": "Solana ETF近期录得自2月以来最强的单周资金流入，显示投资需求有回升迹象。与此同时，SOL期货未平仓合约增加近30%，表明衍生品市场中交易员关注度上升。这一组合变化使市场开始观察SOL是否正在为反弹至120美元做准备。不过，根据已提供信息，价格上涨尚未成为确定趋势，目前重点仍在ETF资金流入恢复以及期货持仓增加所带来的市场关注。来源: cointelegraph.com。"
+      },
+      "es": {
+        "title": "Flujos en ETF de Solana repuntan y traders miran SOL a 120 dólares",
+        "excerpt": "Los ETF de Solana registraron su mayor entrada semanal desde febrero, mientras el interés abierto de futuros de SOL subió casi 30%, elevando la atención sobre los 120 dólares.",
+        "body": "Los ETF de Solana registraron recientemente su mayor entrada semanal de fondos desde febrero, una señal de que la demanda inversora podría estar regresando. Al mismo tiempo, el interés abierto en futuros de SOL aumentó cerca de 30%, lo que muestra mayor actividad de los traders en el mercado de derivados. Este movimiento ha llevado al mercado a observar si SOL se prepara para un rebote hacia los 120 dólares. Sin embargo, con la información disponible, la subida no está confirmada; el foco está en los flujos hacia ETF y el aumento de posiciones en futuros. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Fluxos em ETFs de Solana voltam e traders miram SOL a US$ 120",
+        "excerpt": "Os ETFs de Solana tiveram a maior entrada semanal desde fevereiro, enquanto o interesse em aberto dos futuros de SOL subiu quase 30%, ampliando o foco nos US$ 120.",
+        "body": "Os ETFs de Solana registraram recentemente sua maior entrada semanal de recursos desde fevereiro, sinalizando possível retorno da demanda dos investidores. Ao mesmo tempo, o interesse em aberto nos futuros de SOL avançou quase 30%, indicando maior atividade de traders no mercado de derivativos. Esse conjunto levou o mercado a observar se o SOL está se preparando para uma recuperação rumo a US$ 120. Ainda assim, pelas informações fornecidas, a alta não está confirmada; o destaque segue nos fluxos para ETFs e no aumento das posições em futuros. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Solana-ETF-Zuflüsse erholen sich, Trader blicken auf SOL bei 120 Dollar",
+        "excerpt": "Solana-ETFs verzeichneten die stärksten wöchentlichen Zuflüsse seit Februar, während das Open Interest der SOL-Futures um fast 30% stieg und 120 Dollar in den Fokus rückt.",
+        "body": "Solana-ETFs haben zuletzt die stärksten wöchentlichen Mittelzuflüsse seit Februar verzeichnet und damit Hinweise auf eine Rückkehr der Nachfrage geliefert. Gleichzeitig stieg das Open Interest bei SOL-Futures um fast 30%, was auf zunehmendes Interesse der Trader am Derivatemarkt hindeutet. Diese Entwicklung lenkt den Blick darauf, ob sich SOL auf eine Erholung in Richtung 120 Dollar vorbereitet. Nach den vorliegenden Informationen ist ein Anstieg jedoch nicht bestätigt; im Fokus stehen die ETF-Zuflüsse und der Aufbau von Futures-Positionen. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Les ETF Solana repartent, les traders surveillent SOL vers 120 dollars",
+        "excerpt": "Les ETF Solana ont enregistré leurs plus fortes entrées hebdomadaires depuis février, tandis que l’intérêt ouvert des contrats à terme SOL a gagné près de 30%.",
+        "body": "Les ETF Solana ont récemment enregistré leurs plus fortes entrées hebdomadaires depuis février, signalant un possible retour de la demande des investisseurs. Dans le même temps, l’intérêt ouvert sur les contrats à terme SOL a progressé de près de 30%, montrant une activité accrue des traders sur le marché des dérivés. Cette dynamique conduit le marché à se demander si SOL se prépare à un rebond vers 120 dollars. Toutefois, selon les informations fournies, cette hausse n’est pas confirmée; l’attention porte surtout sur les flux d’ETF et la hausse des positions à terme. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "تدفقات صناديق سولانا ETF تتعافى والمتداولون يراقبون SOL عند 120 دولارا",
+        "excerpt": "سجلت صناديق سولانا ETF أقوى تدفقات أسبوعية منذ فبراير، بينما ارتفع الاهتمام المفتوح في عقود SOL الآجلة بنحو 30%، ما زاد التركيز على مستوى 120 دولارا.",
+        "body": "سجلت صناديق سولانا ETF مؤخرا أقوى تدفقات أسبوعية منذ فبراير، في إشارة إلى احتمال عودة الطلب الاستثماري. وفي الوقت نفسه، ارتفع الاهتمام المفتوح في عقود SOL الآجلة بنحو 30%، ما يعكس زيادة نشاط المتداولين في سوق المشتقات. هذا التطور دفع السوق إلى متابعة ما إذا كانت SOL تستعد لارتداد نحو 120 دولارا. لكن وفق المعلومات المتاحة، فإن الصعود ليس مؤكدا بعد؛ إذ يظل التركيز على تدفقات الصناديق وزيادة مراكز العقود الآجلة. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Solana ETF इनफ्लो लौटा, ट्रेडर SOL के 120 डॉलर लक्ष्य पर नजर रखे",
+        "excerpt": "Solana ETF ने फरवरी के बाद सबसे मजबूत साप्ताहिक इनफ्लो दर्ज किया, जबकि SOL फ्यूचर्स ओपन इंटरेस्ट लगभग 30% बढ़ा, जिससे 120 डॉलर पर ध्यान गया।",
+        "body": "Solana ETF ने हाल में फरवरी के बाद सबसे मजबूत साप्ताहिक फंड इनफ्लो दर्ज किया, जिससे निवेश मांग लौटने के संकेत मिले। इसी दौरान SOL फ्यूचर्स का ओपन इंटरेस्ट लगभग 30% बढ़ा, जो डेरिवेटिव बाजार में ट्रेडरों की बढ़ती रुचि दिखाता है। इस संयुक्त बदलाव के बाद बाजार यह देख रहा है कि क्या SOL 120 डॉलर की ओर रिबाउंड की तैयारी कर रहा है। हालांकि उपलब्ध जानकारी के आधार पर यह तेजी अभी पुष्टि नहीं है; ध्यान ETF इनफ्लो और फ्यूचर्स पोजिशन में वृद्धि पर है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Arus Masuk ETF Solana Pulih, Trader Pantau Reli SOL ke US$120",
+        "excerpt": "ETF Solana mencatat arus masuk mingguan terkuat sejak Februari, sementara open interest futures SOL naik hampir 30%, memicu perhatian pada potensi menuju US$120.",
+        "body": "ETF Solana baru-baru ini mencatat arus masuk dana mingguan terkuat sejak Februari, memberi sinyal bahwa permintaan investor mulai kembali. Pada saat yang sama, open interest futures SOL naik hampir 30%, menunjukkan meningkatnya aktivitas trader di pasar derivatif. Pergerakan ini membuat pasar mencermati apakah SOL sedang bersiap untuk rebound menuju US$120. Namun, berdasarkan informasi yang tersedia, reli tersebut belum terkonfirmasi; fokus utama tetap pada pemulihan arus masuk ETF dan kenaikan posisi futures. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "9aa1c23258ee",
     "slug": "hackers-used-ai-to-build-a-zero-day-exploit-that-bypasses-tw-246090",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Wineking Sebut Popup Dibatalkan Setelah Kritik Kontroversi Wine di Mosu Ahn Sung-jae",
         "excerpt": "YouTuber Wineking, yang mengkritik kontroversi pergantian wine di restoran chef Ahn Sung-jae, pada 10 Mei melalui YouTube menyampaikan bahwa popup yang dijadwalkan mulai 20 Mei dibatalkan.",
         "body": "YouTuber Wineking pada 10 Mei melalui kanal YouTube miliknya menyampaikan bahwa acara popup yang dijadwalkan mulai 20 Mei telah dibatalkan. Kabar ini muncul setelah ia mengkritik kontroversi pergantian wine yang mencuat di restoran Mosu milik chef Ahn Sung-jae. Menurut teks asli, Wineking sebelumnya menyampaikan pandangan secara terbuka terkait kontroversi tersebut, lalu kemudian memberi tahu bahwa acara popup tidak jadi digelar. Ringkasan asli tidak mengonfirmasi alasan spesifik pembatalan ataupun jadwal pengganti. Perkara ini menarik perhatian karena mengaitkan kontroversi restoran seorang chef terkenal dengan pembatalan acara offline YouTuber yang membahasnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1fd8a820a826",
-    "slug": "갑질주사이모-의혹-박나래-이달-중-3차-경찰-소환-조사-132374",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T03:26:11.528Z",
-    "updatedAt": "2026-05-11T03:26:11.529Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12043141",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12043141",
-    "titleFingerprint": "1d3fe30cd8a2549e41f0b5afcaf46fa81304e6e9",
-    "dedupKeys": [
-      "1fd8a820a826ff3511d40b14c13957d05743307a",
-      "1d3fe30cd8a2549e41f0b5afcaf46fa81304e6e9",
-      "6622c7bfd1b85cfbc7aa48f0e9f4d5d715bd3c84"
-    ],
-    "imageUrl": "/images/articles/1fd8a820a826.jpg",
-    "i18n": {
-      "ko": {
-        "title": "박나래 3차 경찰 소환 조사 예정, 갑질·불법 의료행위 의혹 쟁점",
-        "excerpt": "방송인 박나래가 전직 매니저들에 대한 갑질 의혹과 이른바 주사이모 관련 불법 의료행위 의혹으로 이달 중 세 번째 경찰 조사를 받을 예정이다.",
-        "body": "방송인 박나래가 전직 매니저들에 대한 갑질 의혹과 이른바 주사이모 관련 불법 의료행위 의혹으로 이달 중 세 번째 경찰 소환 조사를 받을 예정이다. 11일 박나래 측 관계자는 이달 중 경찰 조사가 예정되어 있다고 밝혔다. 이번 조사는 앞서 제기된 전직 매니저 관련 의혹과 불법 의료행위 의혹을 둘러싼 사실관계를 확인하는 절차로 풀이된다. 경찰은 관련 진술과 자료를 토대로 의혹의 경위를 살필 것으로 보인다. 향후 조사 결과에 따라 사건의 판단과 후속 절차가 이어질 전망이다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Park Na-rae Set for Third Police Questioning Over Power Abuse and Medical Allegations",
-        "excerpt": "Broadcaster Park Na-rae is scheduled to undergo a third police questioning this month over allegations involving former managers and suspected illegal medical practices.",
-        "body": "Broadcaster Park Na-rae is expected to face a third police summons this month over allegations of power abuse toward former managers and suspected illegal medical practices linked to the so-called injection aunt issue. On the 11th, a representative for Park said a police investigation is scheduled within the month. The questioning is understood as part of efforts to confirm the facts surrounding the allegations involving former managers and the suspected unlawful medical activity. Police are expected to review related statements and materials. The outcome may shape any follow-up procedures. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "パク・ナレ、パワハラ・違法医療行為疑惑で3回目の警察聴取へ",
-        "excerpt": "放送人パク・ナレが、元マネージャーへのパワハラ疑惑といわゆる注射おばさん関連の違法医療行為疑惑で、今月中に3回目の警察調査を受ける予定だ。",
-        "body": "放送人パク・ナレが、元マネージャーらに対するパワハラ疑惑と、いわゆる注射おばさんをめぐる違法医療行為疑惑により、今月中に3回目の警察召喚調査を受ける予定だ。11日、パク・ナレ側の関係者は、今月中に警察調査が予定されていると明らかにした。今回の調査は、元マネージャー関連の疑惑と違法医療行為疑惑について事実関係を確認する手続きとみられる。警察は関連する陳述や資料を基に経緯を確認するとみられる。調査結果により、今後の判断と手続きが続く見通しだ。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "朴娜莱将接受第三次警方传唤，涉职场霸凌与非法医疗行为疑云",
-        "excerpt": "韩国艺人朴娜莱因涉嫌对前经纪人职场霸凌及所谓“注射阿姨”相关非法医疗行为，预计本月内第三次接受警方调查。",
-        "body": "韩国艺人朴娜莱因涉嫌对前经纪人进行职场霸凌，以及涉及所谓“注射阿姨”的非法医疗行为疑云，预计本月内接受第三次警方传唤调查。11日，朴娜莱方面相关人士表示，本月内已安排警方调查。此次调查被视为确认前经纪人相关指控和非法医疗行为疑云事实关系的程序。警方预计将根据相关陈述和资料，核查事件经过。后续判断和程序将取决于调查结果。消息来源为mk.co.kr。"
-      },
-      "es": {
-        "title": "Park Na-rae afrontará tercer interrogatorio policial por abuso de poder y práctica médica ilegal",
-        "excerpt": "La presentadora Park Na-rae será interrogada por tercera vez este mes por la policía por acusaciones de abuso contra exmánagers y presunta práctica médica ilegal.",
-        "body": "La presentadora Park Na-rae está prevista para una tercera citación policial este mes por acusaciones de abuso de poder contra exmánagers y sospechas de prácticas médicas ilegales vinculadas al llamado caso de la tía de las inyecciones. El día 11, un representante de Park afirmó que la investigación policial está programada para este mes. El interrogatorio busca confirmar los hechos relacionados con las denuncias de los exmánagers y la presunta actividad médica ilegal. La policía revisará declaraciones y materiales pertinentes. El resultado podría definir los pasos posteriores. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Park Na-rae terá 3º depoimento policial por abuso de poder e prática médica ilegal",
-        "excerpt": "A apresentadora Park Na-rae deve passar por um terceiro interrogatório policial neste mês por acusações envolvendo ex-empresários e suposta prática médica ilegal.",
-        "body": "A apresentadora Park Na-rae deve ser convocada pela polícia pela terceira vez neste mês por acusações de abuso de poder contra ex-empresários e suspeitas de prática médica ilegal ligadas ao chamado caso da tia das injeções. No dia 11, um representante de Park afirmou que a investigação policial está prevista para este mês. O depoimento deve confirmar os fatos relacionados às alegações dos ex-empresários e à suspeita de atividade médica ilegal. A polícia deve analisar declarações e materiais relacionados. O resultado poderá orientar os próximos procedimentos. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Park Na-rae vor dritter Polizeibefragung wegen Machtmissbrauchs und illegaler Medizinvorwürfe",
-        "excerpt": "Die Entertainerin Park Na-rae soll in diesem Monat zum dritten Mal von der Polizei befragt werden, wegen Vorwürfen gegen Ex-Manager und illegaler medizinischer Handlungen.",
-        "body": "Die Entertainerin Park Na-rae soll in diesem Monat zum dritten Mal polizeilich vorgeladen werden. Hintergrund sind Vorwürfe des Machtmissbrauchs gegenüber früheren Managern sowie der Verdacht illegaler medizinischer Handlungen im Zusammenhang mit der sogenannten Injektions-Tante. Am 11. erklärte ein Vertreter von Park, dass eine polizeiliche Untersuchung noch in diesem Monat geplant sei. Die Befragung dient offenbar der Klärung der Fakten zu den Vorwürfen ehemaliger Manager und zur mutmaßlich illegalen medizinischen Tätigkeit. Die Polizei dürfte Aussagen und Materialien prüfen. Das Ergebnis wird weitere Schritte bestimmen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Park Na-rae convoquée une 3e fois par la police pour abus de pouvoir et actes médicaux illégaux présumés",
-        "excerpt": "L’animatrice Park Na-rae doit être interrogée une troisième fois ce mois-ci par la police au sujet d’accusations impliquant d’anciens managers et des actes médicaux présumés illégaux.",
-        "body": "L’animatrice Park Na-rae devrait être convoquée une troisième fois par la police ce mois-ci pour des accusations d’abus de pouvoir envers d’anciens managers et des soupçons d’actes médicaux illégaux liés à l’affaire dite de la tante des injections. Le 11, un représentant de Park a indiqué qu’une enquête policière était prévue dans le mois. Cette audition vise à vérifier les faits entourant les accusations des anciens managers et les soupçons d’activité médicale illégale. La police devrait examiner les déclarations et documents concernés. Les résultats pourraient déterminer les procédures suivantes. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "بارك نا راي أمام ثالث استدعاء للشرطة بسبب اتهامات إساءة سلطة وممارسة طبية غير قانونية",
-        "excerpt": "من المقرر أن تخضع المذيعة بارك نا راي لتحقيق ثالث من الشرطة هذا الشهر بشأن اتهامات تتعلق بمديرين سابقين وشبهات ممارسة طبية غير قانونية.",
-        "body": "من المقرر أن تخضع المذيعة بارك نا راي لاستدعاء ثالث من الشرطة هذا الشهر على خلفية اتهامات بإساءة السلطة تجاه مديرين سابقين، وشبهات ممارسة طبية غير قانونية مرتبطة بما يعرف بقضية خالة الحقن. في يوم 11، قال ممثل عن بارك إن تحقيقا شرطيا مقررا خلال هذا الشهر. ويبدو أن التحقيق يهدف إلى التحقق من الوقائع المتعلقة بادعاءات المديرين السابقين وشبهة النشاط الطبي غير القانوني. ومن المتوقع أن تراجع الشرطة الإفادات والمواد ذات الصلة. وقد تحدد النتائج الإجراءات اللاحقة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "पार्क ना-रे से तीसरी पुलिस पूछताछ तय, बदसलूकी और अवैध चिकित्सा आरोपों पर जांच",
-        "excerpt": "ब्रॉडकास्टर पार्क ना-रे इस महीने तीसरी बार पुलिस जांच का सामना करेंगी, जिसमें पूर्व मैनेजरों से जुड़े आरोप और कथित अवैध चिकित्सा गतिविधि शामिल हैं।",
-        "body": "ब्रॉडकास्टर पार्क ना-रे को इस महीने तीसरी बार पुलिस समन जांच का सामना करना है। उन पर पूर्व मैनेजरों के प्रति सत्ता के दुरुपयोग जैसे आरोप और तथाकथित इंजेक्शन आंटी से जुड़ी कथित अवैध चिकित्सा गतिविधि के संदेह हैं। 11 तारीख को पार्क की ओर से एक प्रतिनिधि ने कहा कि इस महीने पुलिस जांच निर्धारित है। यह पूछताछ पूर्व मैनेजरों से जुड़े आरोपों और अवैध चिकित्सा गतिविधि के संदेह की तथ्यात्मक स्थिति確認 करने की प्रक्रिया मानी जा रही है। पुलिस संबंधित बयानों और सामग्री की समीक्षा कर सकती है। जांच परिणामों के आधार पर आगे की प्रक्रिया तय होगी। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Park Na-rae Akan Jalani Pemeriksaan Polisi Ketiga soal Dugaan Penyalahgunaan Kuasa dan Medis Ilegal",
-        "excerpt": "Penyiar Park Na-rae dijadwalkan menjalani pemeriksaan polisi ketiga bulan ini terkait dugaan terhadap mantan manajer dan praktik medis ilegal.",
-        "body": "Penyiar Park Na-rae dijadwalkan menjalani pemanggilan polisi ketiga bulan ini terkait dugaan penyalahgunaan kuasa terhadap mantan manajer dan dugaan praktik medis ilegal yang dikaitkan dengan isu yang disebut bibi suntikan. Pada tanggal 11, perwakilan pihak Park mengatakan pemeriksaan polisi dijadwalkan berlangsung bulan ini. Pemeriksaan ini dipahami sebagai proses untuk memastikan fakta seputar dugaan yang melibatkan mantan manajer dan aktivitas medis ilegal. Polisi diperkirakan meninjau keterangan serta materi terkait. Hasil pemeriksaan dapat menentukan langkah lanjutan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "94f340abc60d",
-    "slug": "analyst-tips-visible-flaws-in-bitcoiners-mid-bear-market-for-314206",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T03:25:07.455Z",
-    "updatedAt": "2026-05-11T03:25:07.456Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/bitcoin-bear-market-prediction-btc-price-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/bitcoin-bear-market-prediction-btc-price-crypto-analyst",
-    "titleFingerprint": "ccfb30190aa80748991ccf91098079fe904aa887",
-    "dedupKeys": [
-      "94f340abc60db570f2f0960687ba4085729342a7",
-      "ccfb30190aa80748991ccf91098079fe904aa887",
-      "aca525800bab27ac5f52094dad53a3565ff8b1b1"
-    ],
-    "imageUrl": "/images/articles/94f340abc60d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 바닥 신호 논쟁, 애널리스트가 지적한 중간 약세장 전망의 허점",
-        "excerpt": "크립토 애널리스트 매튜 하일랜드는 2월 비트코인 가격이 6만 달러에 도달했을 때 모든 바닥 신호가 켜졌다며, 중간 약세장 전망의 ‘눈에 보이는 허점’을 지적했다.",
-        "body": "크립토 애널리스트 매튜 하일랜드는 2월 비트코인 가격이 6만 달러에 도달했을 때 모든 비트코인 바닥 신호가 나타났다고 밝혔다. 그는 비트코인 투자자들 사이에서 제기된 ‘중간 약세장’ 전망에 눈에 보이는 허점이 있다고 짚었다. 핵심 배경은 가격이 6만 달러까지 오른 시점에도 바닥 신호가 동시에 포착됐다는 점이다. 이 발언은 시장 참여자들이 약세장 판단과 바닥 확인 신호를 어떻게 해석할지에 영향을 줄 수 있다. 다만 제공된 내용상 구체적 지표명이나 추가 가격 전망은 언급되지 않았다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Bitcoin bottom signals debate: analyst flags flaws in mid-bear forecast",
-        "excerpt": "Crypto analyst Matthew Hyland said all Bitcoin bottom signals appeared when BTC reached $60,000 in February, pointing to visible flaws in the mid-bear market forecast.",
-        "body": "Crypto analyst Matthew Hyland said all Bitcoin bottom signals flashed when Bitcoin’s price reached $60,000 in February. He argued that the mid-bear market forecast discussed among Bitcoiners showed visible flaws. The key context is that bottom signals were reportedly triggered at the same time Bitcoin climbed to the $60,000 level. His comment may affect how market participants interpret bearish-cycle claims and bottom-confirmation signals. Based on the provided source details, no specific indicator names or additional price targets were mentioned. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "ビットコイン底打ちシグナル論争、アナリストが中盤弱気相場予測の欠点を指摘",
-        "excerpt": "暗号資産アナリストのマシュー・ハイランド氏は、2月にビットコイン価格が6万ドルへ達した際、すべての底打ちシグナルが点灯したと述べた。",
-        "body": "暗号資産アナリストのマシュー・ハイランド氏は、2月にビットコイン価格が6万ドルへ達した時点で、すべてのビットコイン底打ちシグナルが出ていたと述べた。同氏は、ビットコイン投資家の間で語られた「中盤の弱気相場」予測には目に見える欠点があると指摘した。背景にあるのは、価格が6万ドルまで上昇した局面でも底打ちシグナルが同時に確認されたという点だ。この発言は、市場参加者が弱気相場判断や底値確認シグナルをどう解釈するかに影響し得る。ただし、提供情報では具体的な指標名や追加の価格見通しは示されていない。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "比特币底部信号引争议，分析师指出中期熊市预测存在明显缺陷",
-        "excerpt": "加密分析师Matthew Hyland表示，2月比特币价格达到6万美元时，所有比特币底部信号均已出现，并指出中期熊市预测存在明显缺陷。",
-        "body": "加密分析师Matthew Hyland表示，2月比特币价格达到6万美元时，所有比特币底部信号都已闪现。他指出，比特币投资者讨论的“中期熊市”预测存在明显缺陷。相关背景是，即使价格升至6万美元，底部信号仍在同一时间被观察到。该说法可能影响市场参与者对熊市判断以及底部确认信号的解读。不过，根据所提供信息，报道并未提及具体指标名称，也没有给出额外价格预测。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Señales de piso de Bitcoin: analista ve fallas en previsión de mercado bajista",
-        "excerpt": "El analista cripto Matthew Hyland dijo que todas las señales de piso de Bitcoin aparecieron cuando el precio llegó a 60.000 dólares en febrero, cuestionando la tesis bajista.",
-        "body": "El analista cripto Matthew Hyland afirmó que todas las señales de piso de Bitcoin se activaron cuando el precio alcanzó los 60.000 dólares en febrero. Según él, la previsión de un mercado bajista intermedio entre bitcoiners mostraba fallas visibles. El contexto central es que esas señales de suelo habrían coincidido con el avance de Bitcoin hasta el nivel de 60.000 dólares. Su comentario puede influir en la forma en que los participantes del mercado interpretan las tesis bajistas y las señales de confirmación de piso. Con la información disponible, no se mencionan indicadores concretos ni nuevos objetivos de precio. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Sinais de fundo do Bitcoin: analista aponta falhas em previsão de baixa",
-        "excerpt": "O analista cripto Matthew Hyland disse que todos os sinais de fundo do Bitcoin surgiram quando o preço chegou a US$ 60 mil em fevereiro, contestando a visão baixista.",
-        "body": "O analista cripto Matthew Hyland afirmou que todos os sinais de fundo do Bitcoin apareceram quando o preço atingiu US$ 60 mil em fevereiro. Ele apontou que a previsão de um mercado de baixa intermediário entre bitcoiners tinha falhas visíveis. O principal contexto é que os sinais de fundo teriam surgido ao mesmo tempo em que o Bitcoin avançava para o nível de US$ 60 mil. A declaração pode influenciar como participantes do mercado interpretam teses de baixa e sinais de confirmação de fundo. Com base nas informações fornecidas, não foram citados indicadores específicos nem novas projeções de preço. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Bitcoin-Bodensignale im Fokus: Analyst sieht Schwächen in Bärenmarkt-Prognose",
-        "excerpt": "Kryptoanalyst Matthew Hyland sagte, alle Bitcoin-Bodensignale seien im Februar beim Erreichen von 60.000 Dollar erschienen, und kritisierte die Mid-Bear-Market-Prognose.",
-        "body": "Kryptoanalyst Matthew Hyland sagte, alle Bitcoin-Bodensignale hätten aufgeleuchtet, als der Bitcoin-Preis im Februar 60.000 Dollar erreichte. Er verwies darauf, dass die unter Bitcoinern diskutierte Prognose eines mittleren Bärenmarkts sichtbare Schwächen aufweise. Der zentrale Kontext ist, dass die Bodensignale offenbar gleichzeitig mit dem Anstieg von Bitcoin auf die Marke von 60.000 Dollar auftraten. Diese Aussage kann beeinflussen, wie Marktteilnehmer Bärenmarkt-Einschätzungen und Signale zur Bodenbestätigung interpretieren. Nach den vorliegenden Angaben wurden keine konkreten Indikatoren oder weiteren Kursziele genannt. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Signaux de creux du Bitcoin : un analyste pointe les failles du scénario baissier",
-        "excerpt": "L’analyste crypto Matthew Hyland a déclaré que tous les signaux de creux du Bitcoin étaient apparus lorsque le prix a atteint 60 000 dollars en février.",
-        "body": "L’analyste crypto Matthew Hyland a déclaré que tous les signaux de creux du Bitcoin se sont déclenchés lorsque le prix a atteint 60 000 dollars en février. Il a estimé que la prévision d’un marché baissier intermédiaire, évoquée parmi les bitcoiners, présentait des failles visibles. Le contexte principal est que ces signaux de fond auraient été observés au même moment que la montée du Bitcoin vers 60 000 dollars. Cette déclaration peut peser sur la manière dont les acteurs du marché interprètent les thèses baissières et les signaux de confirmation d’un creux. D’après les informations fournies, aucun indicateur précis ni objectif de prix supplémentaire n’a été mentionné. Source : cointelegraph.com."
-      },
-      "ar": {
-        "title": "إشارات قاع بيتكوين تثير الجدل: محلل يرصد خللاً في توقعات السوق الهابطة",
-        "excerpt": "قال محلل العملات المشفرة ماثيو هايلاند إن جميع إشارات قاع بيتكوين ظهرت عندما بلغ السعر 60 ألف دولار في فبراير، مشيراً إلى عيوب واضحة في توقعات السوق الهابطة.",
-        "body": "قال محلل العملات المشفرة ماثيو هايلاند إن جميع إشارات قاع بيتكوين ظهرت عندما وصل سعر بيتكوين إلى 60 ألف دولار في فبراير. وأشار إلى أن توقعات «منتصف السوق الهابطة» المتداولة بين مؤيدي بيتكوين تتضمن عيوباً واضحة. والسياق الأساسي هو أن إشارات القاع رُصدت في الوقت نفسه الذي صعد فيه السعر إلى مستوى 60 ألف دولار. وقد يؤثر هذا التعليق في طريقة تفسير المشاركين في السوق لفرضيات السوق الهابطة وإشارات تأكيد القاع. ووفق المعلومات المقدمة، لم تُذكر أسماء مؤشرات محددة أو توقعات سعرية إضافية. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "बिटकॉइन बॉटम सिग्नल पर बहस, विश्लेषक ने मिड-बेयर अनुमान की खामियां बताईं",
-        "excerpt": "क्रिप्टो विश्लेषक मैथ्यू हाइलैंड ने कहा कि फरवरी में बिटकॉइन के 60,000 डॉलर पर पहुंचने पर सभी बॉटम सिग्नल दिखे, जिससे मिड-बेयर मार्केट अनुमान पर सवाल उठे।",
-        "body": "क्रिप्टो विश्लेषक मैथ्यू हाइलैंड ने कहा कि फरवरी में जब बिटकॉइन की कीमत 60,000 डॉलर पर पहुंची, तब सभी बिटकॉइन बॉटम सिग्नल दिखाई दिए। उन्होंने बिटकॉइन समर्थकों के बीच चर्चा में रहे ‘मिड-बेयर मार्केट’ अनुमान में साफ दिखने वाली खामियों की ओर इशारा किया। मुख्य संदर्भ यह है कि कीमत 60,000 डॉलर तक चढ़ने के दौरान ही बॉटम सिग्नल एक साथ दर्ज हुए। यह टिप्पणी बाजार प्रतिभागियों के लिए बेयरिश चक्र और बॉटम कन्फर्मेशन सिग्नल की व्याख्या को प्रभावित कर सकती है। उपलब्ध जानकारी में किसी विशेष संकेतक का नाम या अतिरिक्त मूल्य लक्ष्य नहीं दिया गया। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Sinyal dasar Bitcoin disorot, analis ungkap celah prediksi pasar bearish",
-        "excerpt": "Analis kripto Matthew Hyland mengatakan semua sinyal dasar Bitcoin muncul saat harga mencapai US$60.000 pada Februari, menyoroti celah dalam prediksi pasar bearish menengah.",
-        "body": "Analis kripto Matthew Hyland mengatakan semua sinyal dasar Bitcoin menyala ketika harga Bitcoin mencapai US$60.000 pada Februari. Ia menilai prediksi ‘mid-bear market’ yang dibahas di kalangan Bitcoiner memiliki celah yang terlihat. Konteks utamanya adalah sinyal dasar disebut muncul bersamaan dengan kenaikan harga Bitcoin ke level US$60.000. Pernyataan ini dapat memengaruhi cara pelaku pasar menafsirkan tesis pasar bearish dan sinyal konfirmasi dasar harga. Berdasarkan informasi yang diberikan, tidak ada nama indikator spesifik maupun target harga tambahan yang disebutkan. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "1b70d0ec6f66",
-    "slug": "1인가구-건보료-13만원-이하만2차-고유가-피해지원금-18일부터-827069",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T02:05:43.025Z",
-    "updatedAt": "2026-05-11T02:05:43.025Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12043045",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12043045",
-    "titleFingerprint": "b197f6ff3246aa28ccc3acc01ef3d0a1e9722cdc",
-    "dedupKeys": [
-      "1b70d0ec6f663f3a358264af9f26ef3180ec0fba",
-      "b197f6ff3246aa28ccc3acc01ef3d0a1e9722cdc",
-      "a9d8dd956496a9b711678596e0bb5b3e09febae2"
-    ],
-    "imageUrl": "/images/articles/1b70d0ec6f66.jpg",
-    "i18n": {
-      "ko": {
-        "title": "2차 고유가 피해지원금 18일부터 지급, 1인가구 건보료 13만원 이하 대상",
-        "excerpt": "정부가 18일부터 2차 고유가 피해지원금을 지급한다. 3월 건강보험료 기준 소득하위 70%를 선별해 거주지역별로 10만~25만원을 지원한다.",
-        "body": "정부는 18일부터 2차 고유가 피해지원금을 지급하기로 하고, 소득하위 70% 선정을 위한 건강보험료 기준을 발표했다. 1인가구는 3월 건강보험료가 13만원 이하일 때 대상에 포함된다. 직장가입자 기준 외벌이 2인가구는 14만원 이하가 기준이다. 지원금은 거주지역별로 10만원에서 25만원까지 차등 지급된다. 다만 지난해 과세표준이 12억원을 초과하는 등 고액자산 보유자는 지원 대상에서 제외된다. 이번 기준은 유가 부담 완화를 위한 2차 지원의 선별 지급 기준으로 활용된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Second Fuel Price Relief Starts on 18th, One-Person Households Capped at 130,000 Won Premiums",
-        "excerpt": "The government will begin the second fuel price relief payment on the 18th, selecting the bottom 70% by March health insurance premiums and paying 100,000 to 250,000 won by residence.",
-        "body": "The government announced the health insurance premium criteria for selecting the bottom 70% of income earners and will begin paying the second fuel price relief payment on the 18th. A one-person household qualifies when its March health insurance premium is 130,000 won or less. For a two-person, single-income household enrolled through the workplace system, the benchmark is 140,000 won or less. Payments will vary by residential area, ranging from 100,000 to 250,000 won. However, high-asset holders, including those whose taxable standard exceeded 1.2 billion won last year, are excluded. The criteria will be used for targeted payment of the second support program aimed at easing the burden of high oil prices. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "第2次高油価被害支援金は18日から、単身世帯は健保料13万ウォン以下が対象",
-        "excerpt": "政府は18日から第2次高油価被害支援金を支給する。3月の健康保険料を基準に所得下位70%を選び、居住地域別に10万～25万ウォンを支給する。",
-        "body": "政府は18日から第2次高油価被害支援金を支給するとし、所得下位70%を選定するための健康保険料基準を発表した。単身世帯は3月の健康保険料が13万ウォン以下の場合に対象となる。職場加入者基準で片働きの2人世帯は14万ウォン以下が基準だ。支援金は居住地域別に10万ウォンから25万ウォンまで差を付けて支給される。ただし、昨年の課税標準が12億ウォンを超えるなど高額資産を保有する人は支援対象から除外される。今回の基準は、高油価負担を和らげるための第2次支援を選別支給する基準として使われる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "第二轮高油价损失补助18日起发放，单人户医保费13万韩元以下可申请",
-        "excerpt": "韩国政府将于18日起发放第二轮高油价损失补助，以3月健康保险费为标准筛选收入后70%群体，并按居住地区支付10万至25万韩元。",
-        "body": "韩国政府宣布，将从18日起发放第二轮高油价损失补助，并公布用于筛选收入后70%人群的健康保险费标准。单人家庭若3月健康保险费在13万韩元以下，将被纳入对象。按职场参保者标准，单收入两人家庭的标准为14万韩元以下。补助金额将根据居住地区差异发放，从10万韩元到25万韩元不等。不过，去年课税标准超过12亿韩元等高额资产持有者将被排除在支持对象之外。该标准将用于第二轮旨在缓解油价负担的定向补助发放。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Segundo apoyo por altos precios del combustible empieza el 18; hogares unipersonales con prima hasta 130.000 wones",
-        "excerpt": "El Gobierno pagará desde el 18 el segundo apoyo por altos precios del combustible, eligiendo al 70% de menores ingresos según la prima de salud de marzo y dando 100.000 a 250.000 wones por zona.",
-        "body": "El Gobierno anunció los criterios de primas del seguro de salud para seleccionar al 70% de menores ingresos y comenzará a pagar el segundo apoyo por daños vinculados a los altos precios del combustible desde el 18. Un hogar de una persona será elegible si su prima de salud de marzo fue de 130.000 wones o menos. Para un hogar de dos personas con un solo ingreso y afiliación laboral, el criterio es de 140.000 wones o menos. El pago variará según la zona de residencia, entre 100.000 y 250.000 wones. Quedan excluidos los titulares de grandes activos, incluidos quienes tuvieron una base imponible superior a 1.200 millones de wones el año pasado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Segundo auxílio por alta do combustível começa no dia 18; pessoa só com prêmio até 130 mil won",
-        "excerpt": "O governo pagará a partir do dia 18 o segundo auxílio por alta dos combustíveis, selecionando os 70% de menor renda pela contribuição de saúde de março e pagando 100 mil a 250 mil won por região.",
-        "body": "O governo anunciou os critérios de contribuição ao seguro de saúde para selecionar os 70% de menor renda e começará a pagar, no dia 18, o segundo auxílio por danos causados pelos altos preços dos combustíveis. Um domicílio de uma pessoa entra no público-alvo se a contribuição de saúde de março foi de até 130 mil won. Para um domicílio de duas pessoas com uma única renda e vínculo como segurado empregado, o limite é de 140 mil won. O valor será diferenciado por área de residência, de 100 mil a 250 mil won. Ficam excluídos detentores de grandes ativos, incluindo quem teve base tributável superior a 1,2 bilhão de won no ano passado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Zweite Hilfe wegen hoher Ölpreise startet am 18.; Einpersonenhaushalte bis 130.000 Won Krankenversicherungsbeitrag",
-        "excerpt": "Die Regierung zahlt ab dem 18. die zweite Hilfe wegen hoher Ölpreise. Ausgewählt werden die unteren 70% nach März-Krankenversicherungsbeiträgen, mit 100.000 bis 250.000 Won je Wohnregion.",
-        "body": "Die Regierung hat die Kriterien der Krankenversicherungsbeiträge zur Auswahl der unteren 70% der Einkommen bekannt gegeben und startet am 18. die zweite Zahlung zur Entlastung von Schäden durch hohe Ölpreise. Ein Einpersonenhaushalt ist berechtigt, wenn der Krankenversicherungsbeitrag im März höchstens 130.000 Won betrug. Für einen Zweipersonenhaushalt mit einem Einkommen und betrieblicher Versicherung liegt die Grenze bei 140.000 Won. Die Zahlung unterscheidet sich nach Wohnregion und reicht von 100.000 bis 250.000 Won. Ausgeschlossen sind Besitzer hoher Vermögen, darunter Personen mit einer Steuerbemessungsgrundlage von mehr als 1,2 Milliarden Won im vergangenen Jahr. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Deuxième aide liée aux prix élevés du pétrole dès le 18; ménage seul jusqu’à 130 000 wons de cotisation santé",
-        "excerpt": "Le gouvernement versera dès le 18 la deuxième aide liée aux prix élevés du pétrole, en ciblant les 70% de revenus les plus bas selon la cotisation santé de mars, avec 100 000 à 250 000 wons selon la région.",
-        "body": "Le gouvernement a présenté les critères de cotisation à l’assurance maladie pour sélectionner les 70% de revenus les plus bas et commencera le 18 le versement de la deuxième aide liée aux dommages causés par les prix élevés du pétrole. Un ménage d’une personne est éligible si sa cotisation santé de mars ne dépasse pas 130 000 wons. Pour un ménage de deux personnes avec un seul revenu et une affiliation professionnelle, le seuil est de 140 000 wons. Le montant variera selon la zone de résidence, de 100 000 à 250 000 wons. Les détenteurs d’actifs élevés, notamment ceux dont la base imposable a dépassé 1,2 milliard de wons l’an dernier, sont exclus. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "دفعة الدعم الثانية لمتضرري ارتفاع أسعار الوقود تبدأ في 18؛ الأسر الفردية حتى 130 ألف وون تأمين صحي",
-        "excerpt": "تبدأ الحكومة في 18 صرف دفعة الدعم الثانية لمتضرري ارتفاع أسعار الوقود، مع اختيار أدنى 70% دخلا وفق اشتراكات التأمين الصحي في مارس ودفع 100 ألف إلى 250 ألف وون حسب منطقة السكن.",
-        "body": "أعلنت الحكومة معايير اشتراكات التأمين الصحي لاختيار أدنى 70% من حيث الدخل، وستبدأ في 18 صرف دفعة الدعم الثانية لمتضرري ارتفاع أسعار الوقود. تكون الأسرة المكونة من شخص واحد مؤهلة إذا كان اشتراك التأمين الصحي في مارس 130 ألف وون أو أقل. وبالنسبة إلى أسرة من شخصين بدخل واحد ضمن نظام المشتركين عبر جهة العمل، يبلغ الحد 140 ألف وون أو أقل. وتختلف قيمة الدعم حسب منطقة السكن، من 100 ألف إلى 250 ألف وون. ويستبعد من الدعم أصحاب الأصول الكبيرة، بمن فيهم من تجاوز أساسهم الضريبي 1.2 مليار وون في العام الماضي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ऊंचे ईंधन दामों पर दूसरी राहत 18 से, एकल परिवारों के लिए स्वास्थ्य बीमा प्रीमियम सीमा 1.3 लाख वोन",
-        "excerpt": "सरकार 18 तारीख से ऊंचे ईंधन दामों से प्रभावितों के लिए दूसरी राहत देगी। मार्च स्वास्थ्य बीमा प्रीमियम के आधार पर निचले 70% आय वर्ग को चुना जाएगा और क्षेत्र के अनुसार 1 लाख से 2.5 लाख वोन मिलेंगे।",
-        "body": "सरकार ने निचले 70% आय वर्ग के चयन के लिए स्वास्थ्य बीमा प्रीमियम मानदंड घोषित किए हैं और ऊंचे ईंधन दामों से प्रभावितों के लिए दूसरी राहत राशि 18 तारीख से देना शुरू करेगी। एक व्यक्ति वाला परिवार तभी पात्र होगा जब उसका मार्च का स्वास्थ्य बीमा प्रीमियम 1.3 लाख वोन या उससे कम हो। कार्यस्थल बीमा में शामिल, एक कमाऊ सदस्य वाले दो-व्यक्ति परिवार के लिए सीमा 1.4 लाख वोन या उससे कम है। राहत राशि निवास क्षेत्र के अनुसार 1 लाख से 2.5 लाख वोन तक अलग-अलग होगी। हालांकि, पिछले वर्ष 1.2 अरब वोन से अधिक कर-आधार वाले उच्च संपत्ति धारक समर्थन से बाहर रहेंगे। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Bantuan kedua dampak harga BBM tinggi mulai 18, rumah tangga tunggal premi kesehatan maksimal 130.000 won",
-        "excerpt": "Pemerintah akan menyalurkan bantuan kedua dampak harga BBM tinggi mulai tanggal 18, memilih 70% pendapatan terbawah berdasarkan premi asuransi kesehatan Maret dan membayar 100.000-250.000 won menurut wilayah tinggal.",
-        "body": "Pemerintah mengumumkan kriteria premi asuransi kesehatan untuk memilih 70% kelompok pendapatan terbawah dan akan mulai menyalurkan bantuan kedua bagi dampak harga BBM tinggi pada tanggal 18. Rumah tangga satu orang masuk sasaran jika premi asuransi kesehatan Maret sebesar 130.000 won atau kurang. Untuk rumah tangga dua orang dengan satu pencari nafkah yang terdaftar sebagai peserta pekerja, batasnya 140.000 won atau kurang. Nilai bantuan dibedakan menurut wilayah tempat tinggal, dari 100.000 hingga 250.000 won. Pemilik aset besar, termasuk yang dasar pengenaan pajaknya tahun lalu melebihi 1,2 miliar won, dikecualikan. Sumber: mk.co.kr"
       }
     }
   }
