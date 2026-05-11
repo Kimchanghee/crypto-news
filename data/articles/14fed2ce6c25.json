@@ -1,0 +1,75 @@
+{
+  "id": "14fed2ce6c25",
+  "slug": "the-biggest-consensus-overhaul-in-solana-history-is-official-466438",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-11T14:33:34.306Z",
+  "updatedAt": "2026-05-11T14:33:34.306Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
+  "titleFingerprint": "a74b9b1083721a2fc1b6d1cc16c87db9b582ba94",
+  "dedupKeys": [
+    "14fed2ce6c2556bc102c402f5744c7a0b978e649",
+    "a74b9b1083721a2fc1b6d1cc16c87db9b582ba94",
+    "b7466f73e520f6888eda4986ca4374cd27633a06"
+  ],
+  "imageUrl": "/images/articles/14fed2ce6c25.jpg",
+  "i18n": {
+    "ko": {
+      "title": "솔라나 최대 합의 개편 ‘알펜글로우’, 커뮤니티 테스트 클러스터서 공식 테스트 돌입",
+      "excerpt": "솔라나 코어 개발사 안자는 역사상 최대 합의 개편으로 불리는 알펜글로우 업그레이드가 커뮤니티 테스트 클러스터에서 공식 테스트에 들어갔다고 밝혔다.",
+      "body": "솔라나의 합의 구조를 손보는 대규모 업그레이드 ‘알펜글로우’가 커뮤니티 테스트 클러스터에서 공식 테스트에 들어갔다. 솔라나 코어 개발사 안자는 이번 업그레이드가 테스트 환경에서 가동 중이라고 밝혔다. 알펜글로우는 솔라나 역사상 가장 큰 합의 개편으로 소개됐다. 현재 공개된 핵심 사실은 업그레이드가 메인 네트워크 적용 전 커뮤니티 테스트 클러스터에서 검증 단계에 들어갔다는 점이다. 이번 테스트는 솔라나 합의 체계 변경을 실제 환경에 가까운 조건에서 확인하는 과정으로 해석된다. 향후 일정이나 구체적 적용 범위는 원문 정보에서 추가로 제시되지 않았다. 출처: coindesk.com 인용."
+    },
+    "en": {
+      "title": "Solana’s Biggest Consensus Overhaul Alpenglow Enters Official Community Test",
+      "excerpt": "Solana core developer Anza said Alpenglow, described as the largest consensus overhaul in Solana history, is now live on a community test cluster for testing.",
+      "body": "Solana’s major consensus upgrade, Alpenglow, is officially live for testing on a community test cluster. Core developer Anza said the upgrade is now running in that test environment. Alpenglow has been described as the biggest consensus overhaul in Solana’s history. The key confirmed fact is that the upgrade has entered validation on a community test cluster before any broader deployment. The test phase allows the Solana community to examine changes to the network’s consensus system in an environment closer to live conditions. The original report did not provide further details on timing or final implementation scope. Source: cited from coindesk.com."
+    },
+    "ja": {
+      "title": "ソラナ最大の合意改修「Alpenglow」、コミュニティテストで正式稼働",
+      "excerpt": "ソラナのコア開発企業Anzaは、史上最大の合意改修とされるAlpenglowアップグレードがコミュニティテストクラスターで稼働したと明らかにした。",
+      "body": "ソラナの合意構造を見直す大規模アップグレード「Alpenglow」が、コミュニティテストクラスターで正式にテスト稼働を開始した。ソラナのコア開発企業Anzaが、同アップグレードはテスト環境で稼働中だと述べた。Alpenglowはソラナ史上最大の合意改修として紹介されている。確認されている主な事実は、本格的な展開に先立ち、コミュニティテストクラスターで検証段階に入ったことだ。このテストは、ソラナの合意システム変更を実運用に近い環境で確認する過程と受け止められる。今後の日程や具体的な適用範囲は、原文では追加提示されていない。出典: coindesk.comを引用。"
+    },
+    "zh": {
+      "title": "Solana最大共识升级Alpenglow已在社区测试集群正式上线",
+      "excerpt": "Solana核心开发方Anza表示，被称为Solana史上最大共识改造的Alpenglow升级，已在社区测试集群中正式进入测试阶段。",
+      "body": "Solana的大型共识升级Alpenglow已在社区测试集群中正式进入测试。Solana核心开发方Anza表示，该升级目前正在测试环境中运行。Alpenglow被介绍为Solana历史上规模最大的共识改造。当前已确认的核心事实是，该升级在更广泛部署之前，已先进入社区测试集群的验证阶段。此次测试可被视为在接近实际运行条件的环境中检查Solana共识系统变更的过程。原文未进一步披露后续时间表或具体适用范围。来源：引用coindesk.com。"
+    },
+    "es": {
+      "title": "Alpenglow, la mayor reforma de consenso de Solana, inicia pruebas comunitarias",
+      "excerpt": "Anza, desarrollador central de Solana, dijo que Alpenglow, descrita como la mayor reforma de consenso en la historia de Solana, ya está activa en un clúster comunitario de prueba.",
+      "body": "La actualización Alpenglow, una gran reforma del sistema de consenso de Solana, ya está oficialmente activa para pruebas en un clúster comunitario. Anza, desarrollador central de Solana, afirmó que la actualización se encuentra funcionando en ese entorno de prueba. Alpenglow ha sido presentada como la mayor reforma de consenso en la historia de Solana. El dato confirmado es que la actualización entró en una fase de validación dentro de un clúster comunitario antes de cualquier despliegue más amplio. Esta etapa permite revisar los cambios del sistema de consenso de Solana en condiciones cercanas a un entorno real. El reporte original no ofreció más detalles sobre calendario o alcance final. Fuente: citado de coindesk.com."
+    },
+    "pt": {
+      "title": "Alpenglow, maior reforma de consenso da Solana, entra em teste comunitário",
+      "excerpt": "A Anza, desenvolvedora central da Solana, afirmou que a atualização Alpenglow, tratada como a maior reforma de consenso da história da rede, já está ativa em um cluster de teste comunitário.",
+      "body": "A atualização Alpenglow, uma ampla mudança no sistema de consenso da Solana, entrou oficialmente em testes em um cluster comunitário. A Anza, desenvolvedora central da Solana, informou que a atualização já está em funcionamento nesse ambiente de teste. Alpenglow foi descrita como a maior reforma de consenso da história da Solana. O principal fato confirmado é que a atualização iniciou uma etapa de validação em um cluster comunitário antes de qualquer implantação mais ampla. Esse teste permite observar mudanças no consenso da rede em condições próximas de um ambiente real. O texto original não trouxe detalhes adicionais sobre cronograma ou escopo final de aplicação. Fonte: citado de coindesk.com."
+    },
+    "de": {
+      "title": "Solanas größtes Konsens-Upgrade Alpenglow startet offiziellen Community-Test",
+      "excerpt": "Solana-Kernentwickler Anza erklärte, dass Alpenglow, das als größte Konsensüberarbeitung in der Geschichte von Solana gilt, nun auf einem Community-Testcluster läuft.",
+      "body": "Das große Solana-Konsensupgrade Alpenglow ist offiziell auf einem Community-Testcluster für Tests live gegangen. Der Solana-Kernentwickler Anza teilte mit, dass das Upgrade in dieser Testumgebung läuft. Alpenglow wurde als größte Konsensüberarbeitung in der Geschichte von Solana beschrieben. Der bestätigte Kernpunkt ist, dass das Upgrade vor einer breiteren Einführung zunächst in einem Community-Testcluster validiert wird. Diese Testphase dient dazu, Änderungen am Konsenssystem von Solana unter Bedingungen zu prüfen, die einem realen Netzwerkbetrieb näherkommen. Weitere Angaben zum Zeitplan oder zum konkreten Umfang der späteren Umsetzung wurden im Originalbericht nicht genannt. Quelle: zitiert nach coindesk.com."
+    },
+    "fr": {
+      "title": "Alpenglow, plus grande refonte du consensus de Solana, entre en test communautaire",
+      "excerpt": "Anza, développeur principal de Solana, a indiqué qu’Alpenglow, présentée comme la plus grande refonte du consensus de l’histoire de Solana, est active sur un cluster de test communautaire.",
+      "body": "La mise à niveau Alpenglow, importante refonte du système de consensus de Solana, est officiellement active pour des tests sur un cluster communautaire. Anza, développeur principal de Solana, a indiqué que cette mise à niveau fonctionne désormais dans cet environnement de test. Alpenglow est présentée comme la plus grande refonte du consensus dans l’histoire de Solana. Le fait confirmé est que la mise à niveau est entrée en phase de validation sur un cluster communautaire avant tout déploiement plus large. Cette étape permet d’examiner les changements du consensus de Solana dans des conditions proches d’un environnement réel. Le rapport original ne donne pas d’autres détails sur le calendrier ou le périmètre final. Source : cité de coindesk.com."
+    },
+    "ar": {
+      "title": "ترقية Alpenglow الأكبر في توافق سولانا تبدأ الاختبار على عنقود مجتمعي",
+      "excerpt": "قالت Anza، المطور الأساسي لسولانا، إن ترقية Alpenglow، الموصوفة بأنها أكبر تعديل لآلية التوافق في تاريخ سولانا، أصبحت نشطة على عنقود اختبار مجتمعي.",
+      "body": "دخلت ترقية Alpenglow، وهي تحديث واسع لنظام التوافق في سولانا، مرحلة الاختبار الرسمي على عنقود اختبار مجتمعي. وقالت Anza، المطور الأساسي لسولانا، إن الترقية تعمل الآن في هذا البيئة الاختبارية. وقد وُصفت Alpenglow بأنها أكبر تعديل لآلية التوافق في تاريخ سولانا. والحقيقة المؤكدة حاليا هي أن الترقية بدأت مرحلة تحقق على عنقود اختبار مجتمعي قبل أي نشر أوسع. تتيح هذه المرحلة فحص تغييرات نظام التوافق في سولانا ضمن ظروف أقرب إلى بيئة تشغيل فعلية. ولم يورد التقرير الأصلي تفاصيل إضافية عن الجدول الزمني أو نطاق التطبيق النهائي. المصدر: نقلا عن coindesk.com."
+    },
+    "hi": {
+      "title": "Solana का सबसे बड़ा consensus overhaul Alpenglow सामुदायिक टेस्ट पर लाइव",
+      "excerpt": "Solana के core developer Anza ने कहा कि Alpenglow, जिसे Solana इतिहास का सबसे बड़ा consensus overhaul बताया गया है, अब community test cluster पर testing के लिए live है.",
+      "body": "Solana के consensus system में बड़ा बदलाव लाने वाला upgrade Alpenglow आधिकारिक रूप से community test cluster पर testing के लिए live हो गया है। Solana के core developer Anza ने बताया कि यह upgrade अब test environment में चल रहा है। Alpenglow को Solana के इतिहास का सबसे बड़ा consensus overhaul कहा गया है। अभी पुष्टि की गई मुख्य बात यह है कि किसी व्यापक deployment से पहले upgrade community test cluster पर validation stage में पहुंच गया है। यह testing phase Solana के consensus system में बदलावों को live जैसी परिस्थितियों के करीब जांचने की प्रक्रिया है। मूल रिपोर्ट में आगे की समयसीमा या अंतिम implementation scope पर अतिरिक्त जानकारी नहीं दी गई। स्रोत: coindesk.com से उद्धृत."
+    },
+    "id": {
+      "title": "Alpenglow, Perombakan Konsensus Terbesar Solana, Masuk Uji Komunitas",
+      "excerpt": "Anza, pengembang inti Solana, mengatakan Alpenglow, yang disebut sebagai perombakan konsensus terbesar dalam sejarah Solana, kini aktif di cluster uji komunitas.",
+      "body": "Upgrade Alpenglow, perubahan besar pada sistem konsensus Solana, resmi aktif untuk pengujian di cluster uji komunitas. Anza, pengembang inti Solana, menyatakan bahwa upgrade tersebut kini berjalan di lingkungan pengujian itu. Alpenglow disebut sebagai perombakan konsensus terbesar dalam sejarah Solana. Fakta utama yang telah dikonfirmasi adalah bahwa upgrade ini memasuki tahap validasi di cluster uji komunitas sebelum penerapan yang lebih luas. Tahap ini memungkinkan perubahan pada sistem konsensus Solana diperiksa dalam kondisi yang lebih dekat dengan lingkungan nyata. Laporan asli tidak memberikan rincian tambahan mengenai jadwal atau cakupan penerapan akhir. Sumber: dikutip dari coindesk.com."
+    }
+  }
+}

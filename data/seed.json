@@ -1,5 +1,230 @@
 [
   {
+    "id": "ec872ec86620",
+    "slug": "canton-networks-digital-asset-targets-2-billion-valuation-in-228510",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T14:35:28.610Z",
+    "updatedAt": "2026-05-11T14:35:28.610Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/11/canton-network-s-digital-asset-targets-usd2-billion-valuation-in-a16z-crypto-led-raise-bloomberg",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/11/canton-network-s-digital-asset-targets-usd2-billion-valuation-in-a16z-crypto-led-raise-bloomberg",
+    "titleFingerprint": "00698ce9f62e3eb308e1cab40a0a5d58be1302f3",
+    "dedupKeys": [
+      "ec872ec866204ef1a6dbc0e74d641c493e0e21f4",
+      "00698ce9f62e3eb308e1cab40a0a5d58be1302f3",
+      "ec6ee6c51806c7f9fb0e3ef15ca972154255c66a"
+    ],
+    "imageUrl": "/images/articles/ec872ec86620.jpg",
+    "i18n": {
+      "ko": {
+        "title": "디지털애셋, a16z 크립토 주도 투자서 20억달러 가치 목표",
+        "excerpt": "블룸버그에 따르면 캔턴 네트워크의 디지털애셋은 a16z 크립토가 주도하는 자금 조달에서 20억달러 기업가치를 목표로 하며, 수주 내 마감될 전망이다.",
+        "body": "캔턴 네트워크의 디지털애셋이 a16z 크립토가 주도하는 자금 조달에서 20억달러 기업가치를 목표로 하고 있다고 블룸버그가 보도했다. 사안에 정통한 소식통들은 이번 투자 유치가 앞으로 몇 주 안에 마감될 것으로 예상된다고 전했다. 다만 최종 조달 규모는 달라질 수 있다. 이번 보도는 크립토 인프라 기업에 대한 투자자 관심을 보여주는 사례로, 거래가 마무리될 경우 디지털애셋의 시장 평가에 주목이 이어질 전망이다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Digital Asset Targets $2B Valuation in a16z Crypto-Led Raise",
+        "excerpt": "Bloomberg reported that Canton Network’s Digital Asset is targeting a $2 billion valuation in a funding round led by a16z crypto, expected to close in coming weeks.",
+        "body": "Canton Network’s Digital Asset is targeting a $2 billion valuation in a funding round led by a16z crypto, Bloomberg reported. Sources familiar with the matter said the fundraiser is expected to close in the coming weeks. The final amount, however, may vary. The report highlights investor attention on crypto infrastructure companies, while the market will watch Digital Asset’s valuation if the transaction is completed. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "Digital Asset、a16z crypto主導調達で20億ドル評価目標",
+        "excerpt": "ブルームバーグによると、Canton NetworkのDigital Assetはa16z crypto主導の資金調達で20億ドルの評価額を目指し、数週間以内の完了が見込まれる。",
+        "body": "Canton NetworkのDigital Assetが、a16z crypto主導の資金調達で20億ドルの評価額を目指しているとブルームバーグが報じた。事情に詳しい関係者によれば、この資金調達は今後数週間以内に完了する見通しだ。ただし、最終的な調達額は変動する可能性がある。今回の報道は暗号資産インフラ企業への投資家の関心を示すもので、取引が完了すればDigital Assetの市場評価に注目が集まりそうだ。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "Digital Asset拟在a16z crypto领投融资中估值20亿美元",
+        "excerpt": "据彭博社报道，Canton Network的Digital Asset正寻求在a16z crypto领投的融资中达到20亿美元估值，预计未来数周内完成。",
+        "body": "据彭博社报道，Canton Network的Digital Asset正寻求在a16z crypto领投的一轮融资中获得20亿美元估值。知情人士称，这项融资预计将在未来数周内完成。不过，最终融资金额可能仍会变化。该报道显示，投资者仍在关注加密基础设施公司；若交易完成，Digital Asset的市场估值将继续受到关注。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Digital Asset apunta a valoración de $2.000M con ronda liderada por a16z crypto",
+        "excerpt": "Bloomberg informó que Digital Asset, de Canton Network, busca una valoración de 2.000 millones de dólares en una ronda liderada por a16z crypto, prevista para cerrar en semanas.",
+        "body": "Digital Asset, de Canton Network, busca una valoración de 2.000 millones de dólares en una ronda de financiación liderada por a16z crypto, informó Bloomberg. Fuentes familiarizadas con el asunto dijeron que la recaudación se espera que cierre en las próximas semanas. Sin embargo, el monto final podría variar. El reporte muestra el interés de los inversores por compañías de infraestructura cripto y, si la operación se completa, la valoración de Digital Asset quedará bajo atención del mercado. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Digital Asset mira avaliação de US$ 2 bi em rodada liderada pela a16z crypto",
+        "excerpt": "Segundo a Bloomberg, a Digital Asset, da Canton Network, busca avaliação de US$ 2 bilhões em captação liderada pela a16z crypto, com fechamento esperado nas próximas semanas.",
+        "body": "A Digital Asset, da Canton Network, busca uma avaliação de US$ 2 bilhões em uma rodada de captação liderada pela a16z crypto, informou a Bloomberg. Fontes familiarizadas com o assunto disseram que a arrecadação deve ser concluída nas próximas semanas. Ainda assim, o valor final pode variar. A notícia mostra o interesse de investidores por empresas de infraestrutura cripto e, se a operação for concluída, a avaliação de mercado da Digital Asset deve seguir em foco. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Digital Asset zielt bei a16z-crypto-Runde auf 2 Mrd. USD Bewertung",
+        "excerpt": "Laut Bloomberg strebt Digital Asset von Canton Network in einer von a16z crypto geführten Finanzierung eine Bewertung von 2 Mrd. USD an; der Abschluss wird in den kommenden Wochen erwartet.",
+        "body": "Digital Asset von Canton Network strebt in einer von a16z crypto geführten Finanzierungsrunde eine Bewertung von 2 Milliarden US-Dollar an, berichtete Bloomberg. Mit der Angelegenheit vertraute Quellen sagten, die Finanzierung werde voraussichtlich in den kommenden Wochen abgeschlossen. Der endgültige Betrag könne jedoch variieren. Der Bericht zeigt das Interesse von Investoren an Krypto-Infrastrukturunternehmen; bei Abschluss der Transaktion dürfte die Marktbewertung von Digital Asset im Fokus bleiben. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Digital Asset vise 2 Md$ de valorisation dans une levée menée par a16z crypto",
+        "excerpt": "Selon Bloomberg, Digital Asset de Canton Network vise une valorisation de 2 milliards de dollars dans une levée menée par a16z crypto, attendue dans les prochaines semaines.",
+        "body": "Digital Asset, lié à Canton Network, vise une valorisation de 2 milliards de dollars dans une levée de fonds menée par a16z crypto, a rapporté Bloomberg. Des sources proches du dossier ont indiqué que l’opération devrait être finalisée dans les prochaines semaines. Le montant final pourrait toutefois varier. Cette information illustre l’intérêt des investisseurs pour les entreprises d’infrastructure crypto; si l’opération aboutit, la valorisation de Digital Asset restera suivie par le marché. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "ديجيتال أسيت تستهدف تقييما بـ2 مليار دولار في جولة تقودها a16z crypto",
+        "excerpt": "بحسب بلومبرغ، تستهدف ديجيتال أسيت التابعة لشبكة Canton تقييما يبلغ ملياري دولار في تمويل تقوده a16z crypto، ومن المتوقع إغلاقه خلال الأسابيع المقبلة.",
+        "body": "أفادت بلومبرغ بأن ديجيتال أسيت التابعة لشبكة Canton تستهدف تقييما قدره مليارا دولار في جولة تمويل تقودها a16z crypto. وقالت مصادر مطلعة على الأمر إن عملية جمع التمويل من المتوقع أن تُغلق خلال الأسابيع المقبلة. ومع ذلك، قد يختلف المبلغ النهائي. يبرز التقرير اهتمام المستثمرين بشركات البنية التحتية للعملات المشفرة، وإذا اكتملت الصفقة فستظل قيمة ديجيتال أسيت السوقية محل متابعة. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "Digital Asset a16z crypto की अगुवाई वाली फंडिंग में $2 अरब वैल्यूएशन चाहती है",
+        "excerpt": "Bloomberg के अनुसार, Canton Network की Digital Asset a16z crypto के नेतृत्व वाली फंडिंग में 2 अरब डॉलर वैल्यूएशन का लक्ष्य रख रही है, जो आने वाले हफ्तों में बंद हो सकती है।",
+        "body": "Bloomberg ने बताया कि Canton Network की Digital Asset a16z crypto के नेतृत्व वाली फंडिंग राउंड में 2 अरब डॉलर के वैल्यूएशन का लक्ष्य रख रही है। मामले से परिचित सूत्रों ने कहा कि यह फंडरेज आने वाले हफ्तों में बंद होने की उम्मीद है। हालांकि अंतिम राशि बदल सकती है। यह रिपोर्ट क्रिप्टो इन्फ्रास्ट्रक्चर कंपनियों में निवेशकों की रुचि दिखाती है, और सौदा पूरा होने पर Digital Asset के बाजार मूल्यांकन पर ध्यान बना रहेगा। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Digital Asset Incar Valuasi $2 Miliar dalam Pendanaan Dipimpin a16z crypto",
+        "excerpt": "Bloomberg melaporkan Digital Asset milik Canton Network menargetkan valuasi $2 miliar dalam pendanaan yang dipimpin a16z crypto dan diperkirakan ditutup dalam beberapa minggu.",
+        "body": "Digital Asset milik Canton Network menargetkan valuasi $2 miliar dalam putaran pendanaan yang dipimpin a16z crypto, menurut laporan Bloomberg. Sumber yang mengetahui masalah ini mengatakan penggalangan dana tersebut diperkirakan akan ditutup dalam beberapa minggu mendatang. Namun, jumlah akhirnya dapat berubah. Laporan ini menunjukkan minat investor terhadap perusahaan infrastruktur kripto, dan jika transaksi selesai, valuasi pasar Digital Asset akan tetap menjadi perhatian. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "6af98ac5dfd8",
+    "slug": "ripple-raises-200-million-from-neuberger-berman-to-expand-it-423633",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T14:34:32.110Z",
+    "updatedAt": "2026-05-11T14:34:32.110Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/11/ripple-raises-usd200-million-from-neuberger-berman-to-expand-its-ripple-prime-platform",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/11/ripple-raises-usd200-million-from-neuberger-berman-to-expand-its-ripple-prime-platform",
+    "titleFingerprint": "db979e27f9d2a7056e688ff809c234bc2fdc3e63",
+    "dedupKeys": [
+      "6af98ac5dfd8d49c63cd72700979df9b483cd64f",
+      "db979e27f9d2a7056e688ff809c234bc2fdc3e63",
+      "660f4beb6b36d161d480fe56515266d3812207e1"
+    ],
+    "imageUrl": "/images/articles/6af98ac5dfd8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "리플, 뉴버거 버먼서 2억달러 조달…Ripple Prime 확장 속도",
+        "excerpt": "리플은 월요일 글로벌 투자사 뉴버거 버먼과 2억달러 조달 합의를 발표하며, Ripple Prime 플랫폼 확대와 최근 매출 성장세를 강조했다.",
+        "body": "리플은 월요일 글로벌 투자회사 뉴버거 버먼으로부터 2억달러를 조달하기로 합의했다고 밝혔다. 이번 자금은 리플의 기관 대상 프라임 브로커리지 플랫폼인 Ripple Prime 확장에 사용될 예정이다. 리플은 지난해 Ripple Prime을 12억5000만달러에 인수했으며, 이후 해당 플랫폼의 매출이 지난 1년 동안 세 배로 늘었다고 설명했다. 회사는 이번 투자 합의를 통해 Ripple Prime의 성장 기반을 넓히겠다는 방침이다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Ripple Secures $200M From Neuberger Berman to Expand Ripple Prime",
+        "excerpt": "Ripple said Monday it reached a $200 million funding agreement with Neuberger Berman to expand Ripple Prime after the platform’s revenue tripled over the past year.",
+        "body": "Ripple announced Monday that it has agreed to raise $200 million from global investment firm Neuberger Berman. The funding is intended to support the expansion of Ripple Prime, the company’s institutional prime brokerage platform. Ripple acquired Ripple Prime last year for $1.25 billion and said the platform’s revenue has tripled over the past year. The company framed the agreement as part of its effort to broaden Ripple Prime’s growth base. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "Ripple、Neuberger Bermanから2億ドル調達しRipple Prime拡大へ",
+        "excerpt": "Rippleは月曜日、Neuberger Bermanとの2億ドル調達合意を発表し、Ripple Primeの拡大と過去1年の収益3倍増を示した。",
+        "body": "Rippleは月曜日、世界的な投資会社Neuberger Bermanから2億ドルを調達することで合意したと発表した。資金は、同社の機関投資家向けプライムブローカレッジ・プラットフォームであるRipple Primeの拡大に充てられる。Rippleは昨年、Ripple Primeを12億5000万ドルで買収しており、同プラットフォームの収益は過去1年で3倍になったと説明した。今回の合意により、Ripple Primeの成長基盤を広げる方針だ。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "Ripple获Neuberger Berman 2亿美元融资，加速扩展Ripple Prime",
+        "excerpt": "Ripple周一宣布与全球投资公司Neuberger Berman达成2亿美元融资协议，用于扩大Ripple Prime，并称其收入过去一年增长两倍。",
+        "body": "Ripple周一宣布，已与全球投资公司Neuberger Berman达成协议，将筹集2亿美元资金。该资金将用于扩展其面向机构的主经纪平台Ripple Prime。Ripple去年以12.5亿美元收购Ripple Prime，并表示该平台收入在过去一年中已增长至三倍。公司称，这项投资协议将帮助扩大Ripple Prime的增长基础。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Ripple obtiene 200 millones de dólares de Neuberger Berman para Ripple Prime",
+        "excerpt": "Ripple anunció el lunes un acuerdo de financiación de 200 millones de dólares con Neuberger Berman para ampliar Ripple Prime, cuyo ingreso se triplicó en el último año.",
+        "body": "Ripple anunció el lunes que acordó recaudar 200 millones de dólares de la firma global de inversión Neuberger Berman. Los fondos se destinarán a ampliar Ripple Prime, su plataforma de corretaje principal para instituciones. Ripple adquirió Ripple Prime el año pasado por 1.250 millones de dólares y afirmó que los ingresos de la plataforma se triplicaron durante el último año. La compañía presentó el acuerdo como parte de su plan para ampliar la base de crecimiento de Ripple Prime. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Ripple capta US$ 200 milhões da Neuberger Berman para ampliar Ripple Prime",
+        "excerpt": "A Ripple anunciou na segunda-feira um acordo de US$ 200 milhões com a Neuberger Berman para expandir a Ripple Prime, cuja receita triplicou no último ano.",
+        "body": "A Ripple anunciou na segunda-feira que fechou um acordo para captar US$ 200 milhões da gestora global Neuberger Berman. Os recursos serão usados para ampliar a Ripple Prime, plataforma de prime brokerage voltada a instituições. A Ripple comprou a Ripple Prime no ano passado por US$ 1,25 bilhão e afirmou que a receita da plataforma triplicou nos últimos 12 meses. A empresa apresentou o acordo como parte de seu plano para ampliar a base de crescimento da Ripple Prime. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Ripple erhält 200 Mio. Dollar von Neuberger Berman für Ripple Prime",
+        "excerpt": "Ripple meldete am Montag eine Finanzierungsvereinbarung über 200 Mio. Dollar mit Neuberger Berman, um Ripple Prime nach verdreifachtem Jahresumsatz auszubauen.",
+        "body": "Ripple gab am Montag bekannt, eine Vereinbarung zur Aufnahme von 200 Millionen Dollar von der globalen Investmentfirma Neuberger Berman geschlossen zu haben. Die Mittel sollen den Ausbau von Ripple Prime unterstützen, der institutionellen Prime-Brokerage-Plattform des Unternehmens. Ripple hatte Ripple Prime im vergangenen Jahr für 1,25 Milliarden Dollar übernommen und erklärte, der Umsatz der Plattform habe sich im letzten Jahr verdreifacht. Mit der Vereinbarung will Ripple die Wachstumsbasis von Ripple Prime erweitern. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Ripple lève 200 M$ auprès de Neuberger Berman pour développer Ripple Prime",
+        "excerpt": "Ripple a annoncé lundi un accord de financement de 200 millions de dollars avec Neuberger Berman afin d’étendre Ripple Prime, dont les revenus ont triplé en un an.",
+        "body": "Ripple a annoncé lundi avoir conclu un accord pour lever 200 millions de dollars auprès de la société d’investissement mondiale Neuberger Berman. Les fonds doivent servir à développer Ripple Prime, sa plateforme de prime brokerage destinée aux institutions. Ripple a acquis Ripple Prime l’an dernier pour 1,25 milliard de dollars et a indiqué que les revenus de la plateforme avaient triplé au cours de l’année écoulée. L’entreprise présente cet accord comme un moyen d’élargir la base de croissance de Ripple Prime. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "ريبل تجمع 200 مليون دولار من Neuberger Berman لتوسيع Ripple Prime",
+        "excerpt": "أعلنت ريبل يوم الاثنين اتفاقا مع Neuberger Berman لجمع 200 مليون دولار بهدف توسيع Ripple Prime، بعد تضاعف إيرادات المنصة ثلاث مرات خلال عام.",
+        "body": "أعلنت ريبل يوم الاثنين أنها توصلت إلى اتفاق لجمع 200 مليون دولار من شركة الاستثمار العالمية Neuberger Berman. وسيستخدم التمويل لتوسيع Ripple Prime، منصة الوساطة الرئيسية الموجهة للمؤسسات التابعة للشركة. وكانت ريبل قد استحوذت على Ripple Prime العام الماضي مقابل 1.25 مليار دولار، وقالت إن إيرادات المنصة تضاعفت ثلاث مرات خلال العام الماضي. وتضع الشركة هذا الاتفاق ضمن خطتها لتوسيع قاعدة نمو Ripple Prime. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "Ripple ने Neuberger Berman से $200 मिलियन जुटाए, Ripple Prime विस्तार लक्ष्य",
+        "excerpt": "Ripple ने सोमवार को Neuberger Berman के साथ $200 मिलियन जुटाने का समझौता घोषित किया, ताकि Ripple Prime का विस्तार हो सके, जिसकी आय एक साल में तीन गुना हुई।",
+        "body": "Ripple ने सोमवार को कहा कि उसने वैश्विक निवेश फर्म Neuberger Berman से $200 मिलियन जुटाने का समझौता किया है। यह धन कंपनी के संस्थागत प्राइम ब्रोकरेज प्लेटफॉर्म Ripple Prime के विस्तार में लगाया जाएगा। Ripple ने पिछले साल Ripple Prime को $1.25 बिलियन में खरीदा था और बताया कि इस प्लेटफॉर्म की आय पिछले एक वर्ष में तीन गुना हो गई है। कंपनी इस समझौते को Ripple Prime की वृद्धि का आधार व्यापक करने की योजना का हिस्सा मान रही है। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Ripple Raih US$200 Juta dari Neuberger Berman untuk Perluas Ripple Prime",
+        "excerpt": "Ripple pada Senin mengumumkan kesepakatan pendanaan US$200 juta dengan Neuberger Berman untuk memperluas Ripple Prime, setelah pendapatannya naik tiga kali lipat.",
+        "body": "Ripple pada Senin mengumumkan telah mencapai kesepakatan untuk menghimpun US$200 juta dari perusahaan investasi global Neuberger Berman. Dana tersebut akan digunakan untuk memperluas Ripple Prime, platform prime brokerage institusional milik perusahaan. Ripple mengakuisisi Ripple Prime tahun lalu senilai US$1,25 miliar dan menyebut pendapatan platform itu telah naik tiga kali lipat dalam satu tahun terakhir. Perusahaan menempatkan kesepakatan ini sebagai bagian dari upaya memperluas basis pertumbuhan Ripple Prime. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "14fed2ce6c25",
+    "slug": "the-biggest-consensus-overhaul-in-solana-history-is-official-466438",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T14:33:34.306Z",
+    "updatedAt": "2026-05-11T14:33:34.306Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
+    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
+    "titleFingerprint": "a74b9b1083721a2fc1b6d1cc16c87db9b582ba94",
+    "dedupKeys": [
+      "14fed2ce6c2556bc102c402f5744c7a0b978e649",
+      "a74b9b1083721a2fc1b6d1cc16c87db9b582ba94",
+      "b7466f73e520f6888eda4986ca4374cd27633a06"
+    ],
+    "imageUrl": "/images/articles/14fed2ce6c25.jpg",
+    "i18n": {
+      "ko": {
+        "title": "솔라나 최대 합의 개편 ‘알펜글로우’, 커뮤니티 테스트 클러스터서 공식 테스트 돌입",
+        "excerpt": "솔라나 코어 개발사 안자는 역사상 최대 합의 개편으로 불리는 알펜글로우 업그레이드가 커뮤니티 테스트 클러스터에서 공식 테스트에 들어갔다고 밝혔다.",
+        "body": "솔라나의 합의 구조를 손보는 대규모 업그레이드 ‘알펜글로우’가 커뮤니티 테스트 클러스터에서 공식 테스트에 들어갔다. 솔라나 코어 개발사 안자는 이번 업그레이드가 테스트 환경에서 가동 중이라고 밝혔다. 알펜글로우는 솔라나 역사상 가장 큰 합의 개편으로 소개됐다. 현재 공개된 핵심 사실은 업그레이드가 메인 네트워크 적용 전 커뮤니티 테스트 클러스터에서 검증 단계에 들어갔다는 점이다. 이번 테스트는 솔라나 합의 체계 변경을 실제 환경에 가까운 조건에서 확인하는 과정으로 해석된다. 향후 일정이나 구체적 적용 범위는 원문 정보에서 추가로 제시되지 않았다. 출처: coindesk.com 인용."
+      },
+      "en": {
+        "title": "Solana’s Biggest Consensus Overhaul Alpenglow Enters Official Community Test",
+        "excerpt": "Solana core developer Anza said Alpenglow, described as the largest consensus overhaul in Solana history, is now live on a community test cluster for testing.",
+        "body": "Solana’s major consensus upgrade, Alpenglow, is officially live for testing on a community test cluster. Core developer Anza said the upgrade is now running in that test environment. Alpenglow has been described as the biggest consensus overhaul in Solana’s history. The key confirmed fact is that the upgrade has entered validation on a community test cluster before any broader deployment. The test phase allows the Solana community to examine changes to the network’s consensus system in an environment closer to live conditions. The original report did not provide further details on timing or final implementation scope. Source: cited from coindesk.com."
+      },
+      "ja": {
+        "title": "ソラナ最大の合意改修「Alpenglow」、コミュニティテストで正式稼働",
+        "excerpt": "ソラナのコア開発企業Anzaは、史上最大の合意改修とされるAlpenglowアップグレードがコミュニティテストクラスターで稼働したと明らかにした。",
+        "body": "ソラナの合意構造を見直す大規模アップグレード「Alpenglow」が、コミュニティテストクラスターで正式にテスト稼働を開始した。ソラナのコア開発企業Anzaが、同アップグレードはテスト環境で稼働中だと述べた。Alpenglowはソラナ史上最大の合意改修として紹介されている。確認されている主な事実は、本格的な展開に先立ち、コミュニティテストクラスターで検証段階に入ったことだ。このテストは、ソラナの合意システム変更を実運用に近い環境で確認する過程と受け止められる。今後の日程や具体的な適用範囲は、原文では追加提示されていない。出典: coindesk.comを引用。"
+      },
+      "zh": {
+        "title": "Solana最大共识升级Alpenglow已在社区测试集群正式上线",
+        "excerpt": "Solana核心开发方Anza表示，被称为Solana史上最大共识改造的Alpenglow升级，已在社区测试集群中正式进入测试阶段。",
+        "body": "Solana的大型共识升级Alpenglow已在社区测试集群中正式进入测试。Solana核心开发方Anza表示，该升级目前正在测试环境中运行。Alpenglow被介绍为Solana历史上规模最大的共识改造。当前已确认的核心事实是，该升级在更广泛部署之前，已先进入社区测试集群的验证阶段。此次测试可被视为在接近实际运行条件的环境中检查Solana共识系统变更的过程。原文未进一步披露后续时间表或具体适用范围。来源：引用coindesk.com。"
+      },
+      "es": {
+        "title": "Alpenglow, la mayor reforma de consenso de Solana, inicia pruebas comunitarias",
+        "excerpt": "Anza, desarrollador central de Solana, dijo que Alpenglow, descrita como la mayor reforma de consenso en la historia de Solana, ya está activa en un clúster comunitario de prueba.",
+        "body": "La actualización Alpenglow, una gran reforma del sistema de consenso de Solana, ya está oficialmente activa para pruebas en un clúster comunitario. Anza, desarrollador central de Solana, afirmó que la actualización se encuentra funcionando en ese entorno de prueba. Alpenglow ha sido presentada como la mayor reforma de consenso en la historia de Solana. El dato confirmado es que la actualización entró en una fase de validación dentro de un clúster comunitario antes de cualquier despliegue más amplio. Esta etapa permite revisar los cambios del sistema de consenso de Solana en condiciones cercanas a un entorno real. El reporte original no ofreció más detalles sobre calendario o alcance final. Fuente: citado de coindesk.com."
+      },
+      "pt": {
+        "title": "Alpenglow, maior reforma de consenso da Solana, entra em teste comunitário",
+        "excerpt": "A Anza, desenvolvedora central da Solana, afirmou que a atualização Alpenglow, tratada como a maior reforma de consenso da história da rede, já está ativa em um cluster de teste comunitário.",
+        "body": "A atualização Alpenglow, uma ampla mudança no sistema de consenso da Solana, entrou oficialmente em testes em um cluster comunitário. A Anza, desenvolvedora central da Solana, informou que a atualização já está em funcionamento nesse ambiente de teste. Alpenglow foi descrita como a maior reforma de consenso da história da Solana. O principal fato confirmado é que a atualização iniciou uma etapa de validação em um cluster comunitário antes de qualquer implantação mais ampla. Esse teste permite observar mudanças no consenso da rede em condições próximas de um ambiente real. O texto original não trouxe detalhes adicionais sobre cronograma ou escopo final de aplicação. Fonte: citado de coindesk.com."
+      },
+      "de": {
+        "title": "Solanas größtes Konsens-Upgrade Alpenglow startet offiziellen Community-Test",
+        "excerpt": "Solana-Kernentwickler Anza erklärte, dass Alpenglow, das als größte Konsensüberarbeitung in der Geschichte von Solana gilt, nun auf einem Community-Testcluster läuft.",
+        "body": "Das große Solana-Konsensupgrade Alpenglow ist offiziell auf einem Community-Testcluster für Tests live gegangen. Der Solana-Kernentwickler Anza teilte mit, dass das Upgrade in dieser Testumgebung läuft. Alpenglow wurde als größte Konsensüberarbeitung in der Geschichte von Solana beschrieben. Der bestätigte Kernpunkt ist, dass das Upgrade vor einer breiteren Einführung zunächst in einem Community-Testcluster validiert wird. Diese Testphase dient dazu, Änderungen am Konsenssystem von Solana unter Bedingungen zu prüfen, die einem realen Netzwerkbetrieb näherkommen. Weitere Angaben zum Zeitplan oder zum konkreten Umfang der späteren Umsetzung wurden im Originalbericht nicht genannt. Quelle: zitiert nach coindesk.com."
+      },
+      "fr": {
+        "title": "Alpenglow, plus grande refonte du consensus de Solana, entre en test communautaire",
+        "excerpt": "Anza, développeur principal de Solana, a indiqué qu’Alpenglow, présentée comme la plus grande refonte du consensus de l’histoire de Solana, est active sur un cluster de test communautaire.",
+        "body": "La mise à niveau Alpenglow, importante refonte du système de consensus de Solana, est officiellement active pour des tests sur un cluster communautaire. Anza, développeur principal de Solana, a indiqué que cette mise à niveau fonctionne désormais dans cet environnement de test. Alpenglow est présentée comme la plus grande refonte du consensus dans l’histoire de Solana. Le fait confirmé est que la mise à niveau est entrée en phase de validation sur un cluster communautaire avant tout déploiement plus large. Cette étape permet d’examiner les changements du consensus de Solana dans des conditions proches d’un environnement réel. Le rapport original ne donne pas d’autres détails sur le calendrier ou le périmètre final. Source : cité de coindesk.com."
+      },
+      "ar": {
+        "title": "ترقية Alpenglow الأكبر في توافق سولانا تبدأ الاختبار على عنقود مجتمعي",
+        "excerpt": "قالت Anza، المطور الأساسي لسولانا، إن ترقية Alpenglow، الموصوفة بأنها أكبر تعديل لآلية التوافق في تاريخ سولانا، أصبحت نشطة على عنقود اختبار مجتمعي.",
+        "body": "دخلت ترقية Alpenglow، وهي تحديث واسع لنظام التوافق في سولانا، مرحلة الاختبار الرسمي على عنقود اختبار مجتمعي. وقالت Anza، المطور الأساسي لسولانا، إن الترقية تعمل الآن في هذا البيئة الاختبارية. وقد وُصفت Alpenglow بأنها أكبر تعديل لآلية التوافق في تاريخ سولانا. والحقيقة المؤكدة حاليا هي أن الترقية بدأت مرحلة تحقق على عنقود اختبار مجتمعي قبل أي نشر أوسع. تتيح هذه المرحلة فحص تغييرات نظام التوافق في سولانا ضمن ظروف أقرب إلى بيئة تشغيل فعلية. ولم يورد التقرير الأصلي تفاصيل إضافية عن الجدول الزمني أو نطاق التطبيق النهائي. المصدر: نقلا عن coindesk.com."
+      },
+      "hi": {
+        "title": "Solana का सबसे बड़ा consensus overhaul Alpenglow सामुदायिक टेस्ट पर लाइव",
+        "excerpt": "Solana के core developer Anza ने कहा कि Alpenglow, जिसे Solana इतिहास का सबसे बड़ा consensus overhaul बताया गया है, अब community test cluster पर testing के लिए live है.",
+        "body": "Solana के consensus system में बड़ा बदलाव लाने वाला upgrade Alpenglow आधिकारिक रूप से community test cluster पर testing के लिए live हो गया है। Solana के core developer Anza ने बताया कि यह upgrade अब test environment में चल रहा है। Alpenglow को Solana के इतिहास का सबसे बड़ा consensus overhaul कहा गया है। अभी पुष्टि की गई मुख्य बात यह है कि किसी व्यापक deployment से पहले upgrade community test cluster पर validation stage में पहुंच गया है। यह testing phase Solana के consensus system में बदलावों को live जैसी परिस्थितियों के करीब जांचने की प्रक्रिया है। मूल रिपोर्ट में आगे की समयसीमा या अंतिम implementation scope पर अतिरिक्त जानकारी नहीं दी गई। स्रोत: coindesk.com से उद्धृत."
+      },
+      "id": {
+        "title": "Alpenglow, Perombakan Konsensus Terbesar Solana, Masuk Uji Komunitas",
+        "excerpt": "Anza, pengembang inti Solana, mengatakan Alpenglow, yang disebut sebagai perombakan konsensus terbesar dalam sejarah Solana, kini aktif di cluster uji komunitas.",
+        "body": "Upgrade Alpenglow, perubahan besar pada sistem konsensus Solana, resmi aktif untuk pengujian di cluster uji komunitas. Anza, pengembang inti Solana, menyatakan bahwa upgrade tersebut kini berjalan di lingkungan pengujian itu. Alpenglow disebut sebagai perombakan konsensus terbesar dalam sejarah Solana. Fakta utama yang telah dikonfirmasi adalah bahwa upgrade ini memasuki tahap validasi di cluster uji komunitas sebelum penerapan yang lebih luas. Tahap ini memungkinkan perubahan pada sistem konsensus Solana diperiksa dalam kondisi yang lebih dekat dengan lingkungan nyata. Laporan asli tidak memberikan rincian tambahan mengenai jadwal atau cakupan penerapan akhir. Sumber: dikutip dari coindesk.com."
+      }
+    }
+  },
+  {
     "id": "4b4b235707b0",
     "slug": "bitcoin-whipsaws-on-cme-open-as-iran-tensions-pressure-crypt-271086",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Sertifikasi Robot Rehabilitasi Rumah di AS Dorong Harapan Turnaround 2027",
         "excerpt": "Menurut Hankyung, sertifikasi robot rehabilitasi rumah di AS tengah diupayakan, dengan ekspektasi turnaround pada 2027 melalui proses sertifikasi dan perluasan pasar.",
         "body": "Menurut Hankyung, sebuah perusahaan terkait sedang mengupayakan sertifikasi di Amerika Serikat untuk robot rehabilitasi penggunaan rumah dan mengharapkan turnaround pada 2027. Intinya adalah proses sertifikasi yang diperlukan untuk memperluas robot rehabilitasi dari rumah sakit ke pasar rumah tangga. Judul asli yang diberikan tidak menyebutkan nama perusahaan, nama produk, jadwal sertifikasi, atau angka pendapatan. Meski begitu, upaya sertifikasi AS disebut sebagai faktor untuk menilai masuknya bisnis robot rehabilitasi ke pasar luar negeri dan potensi perluasan permintaan rumah tangga. Hal yang perlu dipantau adalah laju sertifikasi dan apakah itu benar-benar memperbaiki kinerja. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "d50c9e3038de",
-    "slug": "국내-제약사-월-1회-비만약-개발-경쟁-428605",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T20:49:44.504Z",
-    "updatedAt": "2026-05-10T20:49:44.504Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051065621",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051065621",
-    "titleFingerprint": "76076431ae9ce1913174c326a67a93061e58fd8f",
-    "dedupKeys": [
-      "d50c9e3038de553c0386172df81cb1f54e8b53c0",
-      "76076431ae9ce1913174c326a67a93061e58fd8f",
-      "7d7286cf205b611dfd7640f816e203036a14675e"
-    ],
-    "imageUrl": "/images/articles/d50c9e3038de.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국내 제약사 ‘월 1회’ 비만약 개발 경쟁, 국산 GLP-1 시장 선점 속도",
-        "excerpt": "국내 제약·바이오 업계가 올해 국산 비만약 출시와 월 1회 주사제 등 차별화 기술 개발을 앞세워 GLP-1 비만약 시장 경쟁에 속도를 내고 있다.",
-        "body": "국내 제약·바이오 기업들이 올해 국산 비만약 시장 진입을 앞두고 개발 경쟁을 벌이고 있다. 한미약품은 주 1회 투여 GLP-1 계열 신약 ‘에페글레나타이드’의 4분기 출시를 준비하고 있으며, HK이노엔은 관련 임상 3상에 들어갔다. 일동제약은 먹는 비만약을, 유한양행은 월 1회 주사제 개발을 추진하며 투여 편의성과 기술 차별화를 내세우고 있다. 수입 비만약에 의존하던 시장에서 국산화가 이뤄지면 가격 경쟁과 제품 선택지가 확대될 수 있다는 전망이 나온다. 한국경제(hankyung.com)는 제약·바이오 업계가 비만약 개발 경쟁을 본격화하고 있다고 전했다."
-      },
-      "en": {
-        "title": "Korean Drugmakers Race to Develop Monthly Obesity Treatments as GLP-1 Market Opens",
-        "excerpt": "South Korean pharmaceutical and biotech companies are accelerating competition in GLP-1 obesity drugs this year, focusing on domestic launches and monthly injectable options.",
-        "body": "South Korean pharmaceutical and biotech companies are competing to enter the domestic obesity drug market this year. Hanmi Pharmaceutical is preparing a fourth-quarter launch of its once-weekly GLP-1 drug efpeglenatide, while HK inno.N has entered phase 3 clinical development. Ildong Pharmaceutical is developing an oral obesity drug, and Yuhan is pursuing a once-monthly injectable, emphasizing dosing convenience and technological differentiation. As the market has relied on imported obesity drugs, domestic development could broaden price competition and treatment choices. Hankyung.com reported that the pharmaceutical and biotech industry is intensifying its obesity drug development race."
-      },
-      "ja": {
-        "title": "韓国製薬各社、月1回投与の肥満薬開発競争を加速 GLP-1国産化に注目",
-        "excerpt": "韓国の製薬・バイオ企業は今年、国産肥満薬の発売と月1回注射剤などの差別化技術を軸にGLP-1肥満薬市場での競争を強めている。",
-        "body": "韓国の製薬・バイオ企業が今年、国産肥満薬市場への参入を前に開発競争を繰り広げている。韓美薬品は週1回投与のGLP-1系新薬「エフェグレナタイド」の第4四半期発売を準備しており、HKイノエンは関連する第3相臨床試験に入った。日東製薬は経口肥満薬を、柳韓洋行は月1回注射剤の開発を進め、投与の利便性と技術的差別化を打ち出している。輸入肥満薬に依存してきた市場で国産化が進めば、価格競争と製品選択肢が広がる可能性がある。韓国経済新聞(hankyung.com)は、製薬・バイオ業界の肥満薬開発競争が本格化していると報じた。"
-      },
-      "zh": {
-        "title": "韩国药企加速“每月一次”减重药研发，争夺国产GLP-1市场先机",
-        "excerpt": "韩国制药和生物科技企业今年正加快GLP-1减重药竞争，重点布局国产药上市、每月一次注射剂等差异化技术。",
-        "body": "韩国制药和生物科技企业正围绕今年进入国产减重药市场展开研发竞争。韩美药品正准备在第四季度推出每周一次给药的GLP-1类新药efpeglenatide，HK inno.N已进入相关三期临床。日东制药正在开发口服减重药，柳韩洋行则推进每月一次注射剂，强调给药便利性和技术差异化。在此前依赖进口减重药的市场中，国产化有望扩大价格竞争和产品选择。韩国经济新闻(hankyung.com)报道称，制药和生物科技行业的减重药研发竞争正在全面升温。"
-      },
-      "es": {
-        "title": "Farmacéuticas coreanas aceleran fármacos antiobesidad mensuales para liderar GLP-1",
-        "excerpt": "Las farmacéuticas y biotecnológicas surcoreanas aceleran este año la competencia en antiobesidad GLP-1 con lanzamientos locales e inyectables mensuales.",
-        "body": "Las compañías farmacéuticas y biotecnológicas de Corea del Sur compiten este año por entrar en el mercado nacional de medicamentos contra la obesidad. Hanmi Pharmaceutical prepara para el cuarto trimestre el lanzamiento de efpeglenatida, un fármaco GLP-1 de administración semanal, mientras HK inno.N ya inició la fase 3 clínica relacionada. Ildong Pharmaceutical desarrolla un medicamento oral contra la obesidad y Yuhan trabaja en un inyectable mensual, con foco en conveniencia y diferenciación tecnológica. En un mercado dependiente de fármacos importados, la producción local podría ampliar la competencia de precios y las opciones de tratamiento. Hankyung.com informó que la carrera de desarrollo en el sector farmacéutico y biotecnológico se intensifica."
-      },
-      "pt": {
-        "title": "Farmacêuticas coreanas aceleram remédios mensais contra obesidade no mercado GLP-1",
-        "excerpt": "Empresas farmacêuticas e de biotecnologia da Coreia do Sul intensificam este ano a disputa em medicamentos GLP-1 contra obesidade, com lançamentos locais e injetáveis mensais.",
-        "body": "Empresas farmacêuticas e de biotecnologia da Coreia do Sul disputam este ano a entrada no mercado nacional de medicamentos contra obesidade. A Hanmi Pharmaceutical prepara para o quarto trimestre o lançamento do efpeglenatide, um GLP-1 de aplicação semanal, enquanto a HK inno.N iniciou estudos clínicos de fase 3 relacionados. A Ildong Pharmaceutical desenvolve uma versão oral, e a Yuhan trabalha em um injetável mensal, destacando conveniência de uso e diferenciação tecnológica. Em um mercado que dependia de medicamentos importados, a nacionalização pode ampliar a competição de preços e as opções de produtos. O Hankyung.com informou que a corrida de desenvolvimento no setor farmacêutico e de biotecnologia está ganhando força."
-      },
-      "de": {
-        "title": "Südkoreas Pharmakonzerne beschleunigen Monats-Spritzen gegen Adipositas im GLP-1-Markt",
-        "excerpt": "Südkoreanische Pharma- und Biotechfirmen verschärfen 2026 den Wettbewerb bei GLP-1-Adipositasmitteln, mit heimischen Starts und monatlichen Injektionen.",
-        "body": "Südkoreanische Pharma- und Biotechunternehmen konkurrieren in diesem Jahr um den Einstieg in den heimischen Markt für Adipositasmedikamente. Hanmi Pharmaceutical bereitet für das vierte Quartal die Einführung des einmal wöchentlich verabreichten GLP-1-Wirkstoffs Efpeglenatid vor, während HK inno.N in die dazugehörige Phase-3-Entwicklung eingetreten ist. Ildong Pharmaceutical entwickelt ein orales Adipositasmittel, Yuhan arbeitet an einer monatlichen Injektion und betont dabei Anwendungskomfort und technologische Differenzierung. In einem bisher von Importpräparaten geprägten Markt könnte heimische Entwicklung Preiswettbewerb und Produktauswahl erweitern. Hankyung.com berichtete, dass sich der Entwicklungswettlauf der Pharma- und Biotechbranche bei Adipositasmitteln beschleunigt."
-      },
-      "fr": {
-        "title": "Les laboratoires coréens accélèrent les traitements mensuels anti-obésité sur le GLP-1",
-        "excerpt": "Les groupes pharmaceutiques et biotechs sud-coréens renforcent cette année la concurrence dans les traitements GLP-1 contre l’obésité, entre lancements locaux et injections mensuelles.",
-        "body": "Les entreprises pharmaceutiques et biotechnologiques sud-coréennes se disputent cette année l’entrée sur le marché national des médicaments contre l’obésité. Hanmi Pharmaceutical prépare le lancement au quatrième trimestre de l’efpeglenatide, un GLP-1 administré une fois par semaine, tandis que HK inno.N est entré en phase 3 clinique liée à ce domaine. Ildong Pharmaceutical développe un traitement oral contre l’obésité, et Yuhan travaille sur une injection mensuelle, en mettant en avant la commodité d’administration et la différenciation technologique. Sur un marché jusqu’ici dépendant des médicaments importés, la production nationale pourrait élargir la concurrence sur les prix et les choix de produits. Hankyung.com a rapporté que la course au développement s’intensifie dans la pharmacie et la biotech."
-      },
-      "ar": {
-        "title": "شركات الأدوية الكورية تسرّع تطوير علاجات سمنة شهرية مع احتدام سوق GLP-1",
-        "excerpt": "تسرّع شركات الأدوية والتكنولوجيا الحيوية في كوريا الجنوبية هذا العام منافستها في أدوية السمنة من فئة GLP-1 عبر إطلاقات محلية وحقن شهرية.",
-        "body": "تتنافس شركات الأدوية والتكنولوجيا الحيوية في كوريا الجنوبية هذا العام لدخول سوق أدوية السمنة المحلية. تستعد شركة Hanmi Pharmaceutical لإطلاق دواء efpeglenatide من فئة GLP-1 بجرعة أسبوعية في الربع الرابع، بينما دخلت HK inno.N مرحلة التجارب السريرية الثالثة ذات الصلة. وتطوّر Ildong Pharmaceutical دواء فمويا للسمنة، في حين تعمل Yuhan على حقنة شهرية، مع التركيز على سهولة الجرعات والتمييز التقني. وفي سوق اعتمد سابقا على أدوية السمنة المستوردة، قد يؤدي التطوير المحلي إلى توسيع المنافسة السعرية وخيارات المنتجات. وذكرت hankyung.com أن سباق تطوير أدوية السمنة في قطاعي الأدوية والتكنولوجيا الحيوية يتسارع."
-      },
-      "hi": {
-        "title": "कोरियाई दवा कंपनियां मासिक मोटापा दवा विकास में तेज, GLP-1 बाजार पर नजर",
-        "excerpt": "दक्षिण कोरिया की फार्मा और बायोटेक कंपनियां इस साल घरेलू लॉन्च और मासिक इंजेक्शन जैसी अलग तकनीकों के साथ GLP-1 मोटापा दवा बाजार में प्रतिस्पर्धा तेज कर रही हैं।",
-        "body": "दक्षिण कोरिया की फार्मा और बायोटेक कंपनियां इस साल घरेलू मोटापा दवा बाजार में प्रवेश के लिए विकास प्रतिस्पर्धा कर रही हैं। Hanmi Pharmaceutical सप्ताह में एक बार दिए जाने वाले GLP-1 वर्ग के नए दवा efpeglenatide को चौथी तिमाही में लॉन्च करने की तैयारी कर रही है, जबकि HK inno.N संबंधित फेज 3 क्लिनिकल विकास में प्रवेश कर चुकी है। Ildong Pharmaceutical मौखिक मोटापा दवा विकसित कर रही है और Yuhan महीने में एक बार लगने वाला इंजेक्शन आगे बढ़ा रही है, जिनमें खुराक सुविधा और तकनीकी अंतर पर जोर है। आयातित मोटापा दवाओं पर निर्भर बाजार में घरेलूकरण से कीमत प्रतिस्पर्धा और उत्पाद विकल्प बढ़ सकते हैं। hankyung.com ने बताया कि फार्मा और बायोटेक उद्योग में मोटापा दवा विकास की प्रतिस्पर्धा तेज हो रही है।"
-      },
-      "id": {
-        "title": "Farmasi Korea Percepat Obat Obesitas Bulanan untuk Rebut Pasar GLP-1 Domestik",
-        "excerpt": "Perusahaan farmasi dan biotek Korea Selatan tahun ini mempercepat persaingan obat obesitas GLP-1 lewat peluncuran lokal dan suntikan bulanan yang terdiferensiasi.",
-        "body": "Perusahaan farmasi dan biotek Korea Selatan bersaing untuk memasuki pasar obat obesitas domestik tahun ini. Hanmi Pharmaceutical menyiapkan peluncuran efpeglenatide, obat GLP-1 dengan pemberian sekali seminggu, pada kuartal keempat, sementara HK inno.N telah masuk pengembangan klinis fase 3 terkait. Ildong Pharmaceutical mengembangkan obat obesitas oral, dan Yuhan mendorong suntikan sekali sebulan dengan menekankan kemudahan pemberian serta diferensiasi teknologi. Di pasar yang selama ini bergantung pada obat obesitas impor, lokalisasi dapat memperluas persaingan harga dan pilihan produk. Hankyung.com melaporkan bahwa persaingan pengembangan obat obesitas di industri farmasi dan biotek makin menguat."
-      }
-    }
-  },
-  {
-    "id": "878ed9dd41e7",
-    "slug": "ai-주치의가-증상-진단해-처방약-배송의료도-초지능-시대-211052",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T20:48:42.053Z",
-    "updatedAt": "2026-05-10T20:48:42.054Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051065901",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051065901",
-    "titleFingerprint": "2ec2e667702cfb76d2252639ddb95fdb650d76c8",
-    "dedupKeys": [
-      "878ed9dd41e7e6be0848f2c038d088e891a5a609",
-      "2ec2e667702cfb76d2252639ddb95fdb650d76c8",
-      "4464bb8f680dbfa0b46a00d7acefc88692cf9a7e"
-    ],
-    "imageUrl": "/images/articles/878ed9dd41e7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 주치의가 증상 진단부터 처방약 배송까지, 의료 초지능 시대 진입",
-        "excerpt": "한경 보도에 따르면 AI 주치의가 환자 증상을 진단하고 처방약 배송까지 연결하는 서비스가 등장하며 의료 분야에도 초지능 기술 도입이 본격화되고 있다.",
-        "body": "AI 주치의가 환자의 증상을 진단하고 처방약 배송까지 이어주는 방식의 의료 서비스가 주목받고 있다. 한경 보도에 따르면 이 흐름은 의료 분야에서도 초지능 기술이 실제 진료와 약 배송 과정에 접목되는 사례로 소개됐다. 핵심은 사용자가 증상을 제시하면 AI가 이를 분석해 진단을 돕고, 필요한 처방약을 배송 단계까지 연결한다는 점이다. 의료 서비스가 상담, 진단 보조, 처방 이후의 접근성까지 확장되면서 환자 경험과 의료 운영 방식에도 변화가 예상된다. 다만 원문은 AI 주치의와 처방약 배송이라는 서비스 구조를 중심으로 의료의 초지능 시대 진입을 전했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "AI Primary Doctor Diagnoses Symptoms and Links Prescription Drug Delivery",
-        "excerpt": "According to hankyung.com, an AI primary doctor service diagnoses patient symptoms and connects prescription drug delivery, showing superintelligent technology entering healthcare.",
-        "body": "An AI primary doctor service that diagnoses patient symptoms and connects them to prescription drug delivery is drawing attention. According to hankyung.com, the case was presented as an example of superintelligent technology being applied to real medical care and the drug delivery process. The core structure is that users present symptoms, AI analyzes them to support diagnosis, and needed prescription drugs are linked to delivery. As healthcare expands from consultation and diagnostic support to post-prescription access, changes may follow in patient experience and medical operations. The original report focused on the AI doctor and prescription delivery model as healthcare enters the superintelligence era. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "AI主治医が症状診断から処方薬配送まで、医療も超知能時代へ",
-        "excerpt": "hankyung.comによると、AI主治医が患者の症状を診断し処方薬配送までつなぐサービスが登場し、医療分野にも超知能技術の導入が進んでいる。",
-        "body": "AI主治医が患者の症状を診断し、処方薬の配送までつなぐ医療サービスが注目されている。hankyung.comによると、この流れは医療分野でも超知能技術が実際の診療と薬の配送過程に組み込まれる事例として紹介された。中心となる仕組みは、利用者が症状を提示するとAIがそれを分析して診断を支援し、必要な処方薬を配送段階まで連結するというものだ。医療サービスが相談、診断補助、処方後のアクセスまで広がることで、患者体験や医療運営方式にも変化が見込まれる。原文はAI主治医と処方薬配送の構造を軸に、医療の超知能時代入りを伝えた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "AI家庭医生诊断症状并配送处方药，医疗迈入超智能时代",
-        "excerpt": "据hankyung.com报道，AI家庭医生可诊断患者症状并连接处方药配送服务，显示超智能技术正加速进入医疗领域。",
-        "body": "一种由AI家庭医生诊断患者症状并连接处方药配送的医疗服务正受到关注。据hankyung.com报道，这一趋势被介绍为超智能技术应用于实际诊疗和药品配送流程的案例。其核心在于，用户提出症状后，AI进行分析并辅助诊断，同时把所需处方药连接到配送环节。随着医疗服务从咨询、诊断辅助延伸到处方后的可及性，患者体验和医疗运营方式也可能发生变化。原文主要围绕AI家庭医生与处方药配送这一服务结构，报道医疗正在进入超智能时代。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Médico de cabecera con IA diagnostica síntomas y conecta fármacos recetados",
-        "excerpt": "Según hankyung.com, un médico de cabecera con IA diagnostica síntomas y enlaza la entrega de medicamentos recetados, señal de la entrada de la superinteligencia en salud.",
-        "body": "Un servicio de médico de cabecera con IA que diagnostica síntomas de pacientes y conecta la entrega de medicamentos recetados está ganando atención. Según hankyung.com, el caso se presentó como un ejemplo de tecnología superinteligente aplicada a la atención médica real y al proceso de entrega de fármacos. La estructura central consiste en que el usuario presenta sus síntomas, la IA los analiza para apoyar el diagnóstico y los medicamentos recetados necesarios se vinculan con la entrega. A medida que la atención médica se expande desde la consulta y el apoyo diagnóstico hasta el acceso posterior a la receta, podrían cambiar la experiencia del paciente y la operación médica. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Médico de IA diagnostica sintomas e conecta entrega de remédios prescritos",
-        "excerpt": "Segundo o hankyung.com, um médico de IA diagnostica sintomas de pacientes e conecta a entrega de medicamentos prescritos, mostrando a entrada da superinteligência na saúde.",
-        "body": "Um serviço de médico de IA que diagnostica sintomas de pacientes e conecta a entrega de medicamentos prescritos está chamando atenção. Segundo o hankyung.com, o caso foi apresentado como exemplo de tecnologia superinteligente aplicada ao atendimento médico real e ao processo de entrega de remédios. A estrutura central é que o usuário informa os sintomas, a IA os analisa para apoiar o diagnóstico e os medicamentos prescritos necessários são ligados à etapa de entrega. Com a expansão da saúde da consulta e do apoio diagnóstico até o acesso após a prescrição, a experiência do paciente e a operação médica podem mudar. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KI-Hausarzt diagnostiziert Symptome und verbindet Lieferung von Rezeptmitteln",
-        "excerpt": "Laut hankyung.com diagnostiziert ein KI-Hausarzt Patientensymptome und verbindet die Lieferung verschreibungspflichtiger Medikamente, ein Zeichen für Superintelligenz im Gesundheitswesen.",
-        "body": "Ein KI-Hausarztservice, der Symptome von Patienten diagnostiziert und die Lieferung verschreibungspflichtiger Medikamente verbindet, rückt in den Fokus. Laut hankyung.com wurde dies als Beispiel dafür vorgestellt, wie superintelligente Technologie in reale medizinische Versorgung und Arzneimittellieferung eingebunden wird. Der Kern: Nutzer geben Symptome an, die KI analysiert sie zur Unterstützung der Diagnose, und benötigte verschreibungspflichtige Medikamente werden mit der Lieferung verknüpft. Wenn sich Gesundheitsdienste von Beratung und Diagnosehilfe bis zum Zugang nach der Verschreibung erweitern, können sich Patientenerfahrung und medizinische Abläufe verändern. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Un médecin IA diagnostique les symptômes et relie la livraison d’ordonnances",
-        "excerpt": "Selon hankyung.com, un médecin IA diagnostique les symptômes des patients et relie la livraison de médicaments sur ordonnance, signe de l’arrivée de la superintelligence en santé.",
-        "body": "Un service de médecin IA qui diagnostique les symptômes des patients et relie la livraison de médicaments sur ordonnance attire l’attention. Selon hankyung.com, ce cas a été présenté comme un exemple d’application d’une technologie superintelligente aux soins médicaux réels et au processus de livraison des médicaments. Le principe est que l’utilisateur indique ses symptômes, l’IA les analyse pour aider au diagnostic, puis les médicaments sur ordonnance nécessaires sont reliés à l’étape de livraison. À mesure que les services médicaux s’étendent de la consultation et de l’aide au diagnostic à l’accès après prescription, l’expérience patient et l’organisation des soins peuvent évoluer. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "طبيب ذكاء اصطناعي يشخص الأعراض ويربط توصيل الأدوية الموصوفة",
-        "excerpt": "بحسب hankyung.com، ظهر طبيب ذكاء اصطناعي يشخص أعراض المرضى ويربطها بتوصيل الأدوية الموصوفة، في مؤشر على دخول تقنيات الذكاء الفائق إلى الرعاية الصحية.",
-        "body": "يحظى باهتمام متزايد نموذج طبيب ذكاء اصطناعي يشخص أعراض المرضى ويربطها بتوصيل الأدوية الموصوفة. وبحسب hankyung.com، عُرض هذا الاتجاه كمثال على إدماج تقنيات الذكاء الفائق في الرعاية الطبية الفعلية وفي عملية توصيل الدواء. تقوم الفكرة الأساسية على أن يعرض المستخدم أعراضه، فيحللها الذكاء الاصطناعي لدعم التشخيص، ثم يربط الأدوية الموصوفة اللازمة بمرحلة التوصيل. ومع توسع الخدمات الطبية من الاستشارة ودعم التشخيص إلى إتاحة الوصول بعد الوصفة، قد تتغير تجربة المرضى وطريقة تشغيل الخدمات الصحية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "AI डॉक्टर लक्षण पहचानकर प्रिस्क्रिप्शन दवा डिलीवरी से जोड़ेगा",
-        "excerpt": "hankyung.com के अनुसार, AI डॉक्टर मरीजों के लक्षणों का निदान कर प्रिस्क्रिप्शन दवा की डिलीवरी से जोड़ता है, जिससे स्वास्थ्य सेवा में सुपरइंटेलिजेंस का प्रवेश दिखता है।",
-        "body": "मरीजों के लक्षणों का निदान कर उन्हें प्रिस्क्रिप्शन दवा की डिलीवरी से जोड़ने वाली AI डॉक्टर सेवा ध्यान खींच रही है। hankyung.com के अनुसार, इसे स्वास्थ्य क्षेत्र में सुपरइंटेलिजेंट तकनीक के वास्तविक इलाज और दवा वितरण प्रक्रिया में लागू होने के उदाहरण के रूप में पेश किया गया। इसका मुख्य ढांचा यह है कि उपयोगकर्ता अपने लक्षण बताते हैं, AI उनका विश्लेषण कर निदान में मदद करता है और आवश्यक प्रिस्क्रिप्शन दवाओं को डिलीवरी चरण से जोड़ता है। चिकित्सा सेवा के परामर्श, निदान सहायता और प्रिस्क्रिप्शन के बाद पहुंच तक फैलने से मरीज अनुभव और चिकित्सा संचालन में बदलाव आ सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dokter AI Diagnosis Gejala dan Hubungkan Pengiriman Obat Resep",
-        "excerpt": "Menurut hankyung.com, dokter AI mendiagnosis gejala pasien dan menghubungkan pengiriman obat resep, menandai masuknya teknologi superinteligensi ke layanan kesehatan.",
-        "body": "Layanan dokter AI yang mendiagnosis gejala pasien dan menghubungkan pengiriman obat resep sedang menarik perhatian. Menurut hankyung.com, hal ini diperkenalkan sebagai contoh penerapan teknologi superinteligensi dalam layanan medis nyata dan proses pengiriman obat. Intinya, pengguna menyampaikan gejala, AI menganalisisnya untuk membantu diagnosis, lalu obat resep yang diperlukan dihubungkan hingga tahap pengiriman. Saat layanan kesehatan meluas dari konsultasi dan bantuan diagnosis hingga akses setelah resep, pengalaman pasien dan cara operasional medis dapat berubah. Laporan asli menyoroti struktur dokter AI dan pengiriman obat resep sebagai tanda masuknya kesehatan ke era superinteligensi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "58418ca83f50",
-    "slug": "손실-20까지는-나라가-막아줘국민성장펀드-뭐길래-327588",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T20:27:37.287Z",
-    "updatedAt": "2026-05-10T20:27:37.287Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042788",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042788",
-    "titleFingerprint": "7b5f93ceeeb3a38f89aa29570331e682c2a19bb7",
-    "dedupKeys": [
-      "58418ca83f50b8b8dc3ba0d9fcd5e6f65d87ac05",
-      "7b5f93ceeeb3a38f89aa29570331e682c2a19bb7",
-      "1a7aa5848af9d645fb216b0768bc832097b727d1"
-    ],
-    "imageUrl": "/images/articles/58418ca83f50.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민성장펀드 22일 선착순 판매…손실 20% 방어 구조 주목",
-        "excerpt": "국민참여형 국민성장펀드가 오는 22일부터 3주 동안 선착순 판매된다. 정부가 국민 참여 방식으로 펀드를 팔아 자금을 모으는 구조와 손실 방어 장치가 관심을 끈다.",
-        "body": "국민참여형 국민성장펀드가 오는 22일부터 3주 동안 선착순으로 판매된다. 이 상품은 줄여서 ‘국민참여성장펀드’로 불리며, 정부가 펀드를 판매해 국민 자금을 모으는 방식으로 소개됐다. 원문 제목에서 강조된 핵심은 손실이 20%까지 발생할 경우 나라가 막아주는 구조다. 판매 기간은 3주로 한정되며 선착순 방식이라는 점에서 투자 희망자의 관심이 집중될 수 있다. 다만 원문에 제시된 정보 범위에서는 구체적인 판매 한도나 운용 세부 조건은 확인되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "National Growth Fund to Go on Sale From the 22nd, With 20% Loss Buffer in Focus",
-        "excerpt": "The public-participation National Growth Fund will be sold on a first-come basis for three weeks from the 22nd, drawing attention for its government-backed structure to cushion losses.",
-        "body": "The public-participation National Growth Fund will be sold on a first-come, first-served basis for three weeks starting on the 22nd. The product is also referred to in shortened form as the Public Participation Growth Fund, and it was introduced as a way for the government to sell a fund and gather public money. The key point emphasized in the original headline is a structure under which the state blocks losses of up to 20%. With the sales window limited to three weeks and allocation handled by order of purchase, investor interest may concentrate early. The provided source does not confirm detailed sales limits or management terms. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "国民成長ファンド、22日から先着販売…損失20％防御の仕組みに注目",
-        "excerpt": "国民参加型の国民成長ファンドが22日から3週間、先着順で販売される。政府が国民参加方式で資金を集め、損失防御の仕組みが関心を集めている。",
-        "body": "国民参加型の国民成長ファンドが22日から3週間、先着順で販売される。この商品は略して「国民参加成長ファンド」と呼ばれ、政府がファンドを販売して国民資金を集める方式として紹介された。原文の見出しで強調された核心は、損失が20％まで発生した場合に国が防ぐ仕組みだ。販売期間は3週間に限られ、先着順であるため、投資を希望する人の関心が集まる可能性がある。ただし、原文で示された情報の範囲では、具体的な販売限度や運用条件の詳細は確認されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "国民成长基金22日起先到先得销售，20%亏损防护机制受关注",
-        "excerpt": "国民参与型国民成长基金将从22日起连续三周先到先得销售。政府通过基金吸收公众资金，其亏损防护结构引发市场关注。",
-        "body": "国民参与型国民成长基金将从22日起连续三周以先到先得方式销售。该产品简称为“国民参与成长基金”，原文介绍称，政府将通过销售基金的方式募集公众资金。原文标题强调的核心在于，当亏损发生至20%以内时，由国家进行防护的结构。销售期限定为三周，并采用先到先得方式，因此可能吸引有意投资者的集中关注。不过，在原文提供的信息范围内，具体销售额度和运作细节尚未得到确认。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Fondo Nacional de Crecimiento se venderá desde el día 22 con cobertura de pérdidas del 20%",
-        "excerpt": "El Fondo Nacional de Crecimiento de participación pública se venderá por orden de llegada durante tres semanas desde el día 22, con atención en su estructura de protección ante pérdidas.",
-        "body": "El Fondo Nacional de Crecimiento de participación pública se venderá por orden de llegada durante tres semanas a partir del día 22. El producto también se conoce de forma abreviada como Fondo de Crecimiento con Participación Pública, y fue presentado como una vía para que el Gobierno venda un fondo y reúna dinero de los ciudadanos. El punto central destacado en el titular original es una estructura en la que el Estado bloquea pérdidas de hasta el 20%. El plazo de venta está limitado a tres semanas y el sistema será por orden de solicitud, por lo que puede concentrar el interés de posibles inversores. La fuente no confirma límites de venta ni condiciones operativas detalladas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Fundo Nacional de Crescimento será vendido no dia 22 com proteção de perdas de até 20%",
-        "excerpt": "O Fundo Nacional de Crescimento com participação popular será vendido por ordem de chegada durante três semanas a partir do dia 22, com foco na estrutura de proteção contra perdas.",
-        "body": "O Fundo Nacional de Crescimento com participação popular será vendido por ordem de chegada durante três semanas a partir do dia 22. O produto também é chamado, de forma abreviada, de Fundo de Crescimento com Participação Popular, e foi apresentado como uma forma de o governo vender um fundo e reunir recursos dos cidadãos. O ponto central destacado no título original é uma estrutura em que o Estado cobre perdas de até 20%. Como o período de venda é limitado a três semanas e seguirá ordem de chegada, o interesse de investidores pode se concentrar no início. A fonte não confirma limites de venda nem detalhes de gestão. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Nationaler Wachstumsfonds startet am 22. im Windhundverfahren mit 20%-Verlustschutz",
-        "excerpt": "Der beteiligungsorientierte Nationale Wachstumsfonds wird ab dem 22. drei Wochen lang nach Reihenfolge verkauft. Im Fokus steht die staatliche Struktur zur Abfederung von Verlusten.",
-        "body": "Der beteiligungsorientierte Nationale Wachstumsfonds wird ab dem 22. drei Wochen lang nach dem Prinzip „wer zuerst kommt“ verkauft. Das Produkt wird verkürzt auch Public Participation Growth Fund genannt und wurde als Weg beschrieben, über einen staatlich verkauften Fonds Gelder der Bürger einzusammeln. Der zentrale Punkt der ursprünglichen Überschrift ist eine Struktur, bei der der Staat Verluste von bis zu 20% abfängt. Da der Verkaufszeitraum auf drei Wochen begrenzt ist und nach Reihenfolge vergeben wird, könnte sich das Interesse potenzieller Anleger früh bündeln. Konkrete Verkaufslimits oder operative Details werden in der vorliegenden Quelle nicht bestätigt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le Fonds national de croissance vendu dès le 22 avec protection des pertes jusqu’à 20%",
-        "excerpt": "Le Fonds national de croissance à participation publique sera vendu selon l’ordre d’arrivée pendant trois semaines à partir du 22, avec une attention portée à sa protection contre les pertes.",
-        "body": "Le Fonds national de croissance à participation publique sera vendu selon le principe du premier arrivé, premier servi pendant trois semaines à partir du 22. Ce produit est aussi appelé, sous forme abrégée, Fonds de croissance à participation publique, et il a été présenté comme un moyen pour le gouvernement de vendre un fonds afin de réunir l’argent des citoyens. Le point central souligné par le titre original est une structure dans laquelle l’État bloque les pertes jusqu’à 20%. La période de vente étant limitée à trois semaines et fondée sur l’ordre d’arrivée, l’intérêt des investisseurs potentiels pourrait se concentrer rapidement. La source ne confirme pas les plafonds de vente ni les conditions détaillées de gestion. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صندوق النمو الوطني يبدأ بيعه في 22 بنظام الأسبقية مع حماية خسائر حتى 20%",
-        "excerpt": "سيُطرح صندوق النمو الوطني بمشاركة الجمهور للبيع لمدة ثلاثة أسابيع من يوم 22 وفق أسبقية الحجز، مع تركيز على هيكل حكومي يحد من الخسائر حتى 20%.",
-        "body": "سيُباع صندوق النمو الوطني بمشاركة الجمهور لمدة ثلاثة أسابيع ابتداء من يوم 22 وفق نظام الأسبقية. ويُشار إلى المنتج اختصارا باسم صندوق النمو بمشاركة الجمهور، وقد قُدم بوصفه آلية تبيع من خلالها الحكومة صندوقا لجمع أموال من المواطنين. النقطة الأساسية التي أبرزها العنوان الأصلي هي هيكل يمنع فيه البلد خسائر تصل إلى 20%. وبما أن فترة البيع محددة بثلاثة أسابيع وتعتمد على أسبقية الطلب، فقد يتركز اهتمام الراغبين في الاستثمار مبكرا. ولا تؤكد المعلومات الواردة في المصدر حدود البيع التفصيلية أو شروط الإدارة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "राष्ट्रीय विकास फंड 22 से पहले आओ आधार पर बिक्री, 20% नुकसान सुरक्षा पर नजर",
-        "excerpt": "जन-भागीदारी वाला राष्ट्रीय विकास फंड 22 तारीख से तीन सप्ताह तक पहले आओ, पहले पाओ आधार पर बेचा जाएगा। सरकार की नुकसान सुरक्षा संरचना पर ध्यान है।",
-        "body": "जन-भागीदारी वाला राष्ट्रीय विकास फंड 22 तारीख से तीन सप्ताह तक पहले आओ, पहले पाओ आधार पर बेचा जाएगा। इस उत्पाद को संक्षेप में जन-भागीदारी विकास फंड कहा जा रहा है, और इसे सरकार द्वारा फंड बेचकर नागरिकों से धन जुटाने की व्यवस्था के रूप में पेश किया गया। मूल शीर्षक में मुख्य बात यह है कि 20% तक नुकसान होने पर देश उसे रोकने की संरचना रखता है। बिक्री अवधि तीन सप्ताह तक सीमित है और आवंटन क्रम के आधार पर होगा, इसलिए निवेश में रुचि रखने वालों का ध्यान जल्दी केंद्रित हो सकता है। स्रोत में बिक्री सीमा या संचालन शर्तों का विवरण पुष्टि नहीं किया गया है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Dana Pertumbuhan Nasional Dijual Mulai 22, Perlindungan Rugi 20% Jadi Sorotan",
-        "excerpt": "Dana Pertumbuhan Nasional berbasis partisipasi publik akan dijual selama tiga pekan mulai tanggal 22 dengan sistem siapa cepat. Struktur penahan kerugian menjadi perhatian.",
-        "body": "Dana Pertumbuhan Nasional berbasis partisipasi publik akan dijual dengan sistem siapa cepat dia dapat selama tiga pekan mulai tanggal 22. Produk ini juga disebut secara singkat sebagai Dana Pertumbuhan Partisipasi Publik, dan diperkenalkan sebagai cara pemerintah menjual dana untuk menghimpun uang masyarakat. Poin utama yang ditekankan dalam judul asli adalah struktur di mana negara menahan kerugian hingga 20%. Karena periode penjualan dibatasi tiga pekan dan memakai sistem urutan pembelian, minat calon investor dapat terpusat sejak awal. Informasi sumber tidak mengonfirmasi batas penjualan atau rincian pengelolaan. Sumber: mk.co.kr"
       }
     }
   }
