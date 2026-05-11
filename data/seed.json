@@ -1,5 +1,230 @@
 [
   {
+    "id": "1b70d0ec6f66",
+    "slug": "1인가구-건보료-13만원-이하만2차-고유가-피해지원금-18일부터-827069",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T02:05:43.025Z",
+    "updatedAt": "2026-05-11T02:05:43.025Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12043045",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12043045",
+    "titleFingerprint": "b197f6ff3246aa28ccc3acc01ef3d0a1e9722cdc",
+    "dedupKeys": [
+      "1b70d0ec6f663f3a358264af9f26ef3180ec0fba",
+      "b197f6ff3246aa28ccc3acc01ef3d0a1e9722cdc",
+      "a9d8dd956496a9b711678596e0bb5b3e09febae2"
+    ],
+    "imageUrl": "/images/articles/1b70d0ec6f66.jpg",
+    "i18n": {
+      "ko": {
+        "title": "2차 고유가 피해지원금 18일부터 지급, 1인가구 건보료 13만원 이하 대상",
+        "excerpt": "정부가 18일부터 2차 고유가 피해지원금을 지급한다. 3월 건강보험료 기준 소득하위 70%를 선별해 거주지역별로 10만~25만원을 지원한다.",
+        "body": "정부는 18일부터 2차 고유가 피해지원금을 지급하기로 하고, 소득하위 70% 선정을 위한 건강보험료 기준을 발표했다. 1인가구는 3월 건강보험료가 13만원 이하일 때 대상에 포함된다. 직장가입자 기준 외벌이 2인가구는 14만원 이하가 기준이다. 지원금은 거주지역별로 10만원에서 25만원까지 차등 지급된다. 다만 지난해 과세표준이 12억원을 초과하는 등 고액자산 보유자는 지원 대상에서 제외된다. 이번 기준은 유가 부담 완화를 위한 2차 지원의 선별 지급 기준으로 활용된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Second Fuel Price Relief Starts on 18th, One-Person Households Capped at 130,000 Won Premiums",
+        "excerpt": "The government will begin the second fuel price relief payment on the 18th, selecting the bottom 70% by March health insurance premiums and paying 100,000 to 250,000 won by residence.",
+        "body": "The government announced the health insurance premium criteria for selecting the bottom 70% of income earners and will begin paying the second fuel price relief payment on the 18th. A one-person household qualifies when its March health insurance premium is 130,000 won or less. For a two-person, single-income household enrolled through the workplace system, the benchmark is 140,000 won or less. Payments will vary by residential area, ranging from 100,000 to 250,000 won. However, high-asset holders, including those whose taxable standard exceeded 1.2 billion won last year, are excluded. The criteria will be used for targeted payment of the second support program aimed at easing the burden of high oil prices. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "第2次高油価被害支援金は18日から、単身世帯は健保料13万ウォン以下が対象",
+        "excerpt": "政府は18日から第2次高油価被害支援金を支給する。3月の健康保険料を基準に所得下位70%を選び、居住地域別に10万～25万ウォンを支給する。",
+        "body": "政府は18日から第2次高油価被害支援金を支給するとし、所得下位70%を選定するための健康保険料基準を発表した。単身世帯は3月の健康保険料が13万ウォン以下の場合に対象となる。職場加入者基準で片働きの2人世帯は14万ウォン以下が基準だ。支援金は居住地域別に10万ウォンから25万ウォンまで差を付けて支給される。ただし、昨年の課税標準が12億ウォンを超えるなど高額資産を保有する人は支援対象から除外される。今回の基準は、高油価負担を和らげるための第2次支援を選別支給する基準として使われる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "第二轮高油价损失补助18日起发放，单人户医保费13万韩元以下可申请",
+        "excerpt": "韩国政府将于18日起发放第二轮高油价损失补助，以3月健康保险费为标准筛选收入后70%群体，并按居住地区支付10万至25万韩元。",
+        "body": "韩国政府宣布，将从18日起发放第二轮高油价损失补助，并公布用于筛选收入后70%人群的健康保险费标准。单人家庭若3月健康保险费在13万韩元以下，将被纳入对象。按职场参保者标准，单收入两人家庭的标准为14万韩元以下。补助金额将根据居住地区差异发放，从10万韩元到25万韩元不等。不过，去年课税标准超过12亿韩元等高额资产持有者将被排除在支持对象之外。该标准将用于第二轮旨在缓解油价负担的定向补助发放。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Segundo apoyo por altos precios del combustible empieza el 18; hogares unipersonales con prima hasta 130.000 wones",
+        "excerpt": "El Gobierno pagará desde el 18 el segundo apoyo por altos precios del combustible, eligiendo al 70% de menores ingresos según la prima de salud de marzo y dando 100.000 a 250.000 wones por zona.",
+        "body": "El Gobierno anunció los criterios de primas del seguro de salud para seleccionar al 70% de menores ingresos y comenzará a pagar el segundo apoyo por daños vinculados a los altos precios del combustible desde el 18. Un hogar de una persona será elegible si su prima de salud de marzo fue de 130.000 wones o menos. Para un hogar de dos personas con un solo ingreso y afiliación laboral, el criterio es de 140.000 wones o menos. El pago variará según la zona de residencia, entre 100.000 y 250.000 wones. Quedan excluidos los titulares de grandes activos, incluidos quienes tuvieron una base imponible superior a 1.200 millones de wones el año pasado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Segundo auxílio por alta do combustível começa no dia 18; pessoa só com prêmio até 130 mil won",
+        "excerpt": "O governo pagará a partir do dia 18 o segundo auxílio por alta dos combustíveis, selecionando os 70% de menor renda pela contribuição de saúde de março e pagando 100 mil a 250 mil won por região.",
+        "body": "O governo anunciou os critérios de contribuição ao seguro de saúde para selecionar os 70% de menor renda e começará a pagar, no dia 18, o segundo auxílio por danos causados pelos altos preços dos combustíveis. Um domicílio de uma pessoa entra no público-alvo se a contribuição de saúde de março foi de até 130 mil won. Para um domicílio de duas pessoas com uma única renda e vínculo como segurado empregado, o limite é de 140 mil won. O valor será diferenciado por área de residência, de 100 mil a 250 mil won. Ficam excluídos detentores de grandes ativos, incluindo quem teve base tributável superior a 1,2 bilhão de won no ano passado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Zweite Hilfe wegen hoher Ölpreise startet am 18.; Einpersonenhaushalte bis 130.000 Won Krankenversicherungsbeitrag",
+        "excerpt": "Die Regierung zahlt ab dem 18. die zweite Hilfe wegen hoher Ölpreise. Ausgewählt werden die unteren 70% nach März-Krankenversicherungsbeiträgen, mit 100.000 bis 250.000 Won je Wohnregion.",
+        "body": "Die Regierung hat die Kriterien der Krankenversicherungsbeiträge zur Auswahl der unteren 70% der Einkommen bekannt gegeben und startet am 18. die zweite Zahlung zur Entlastung von Schäden durch hohe Ölpreise. Ein Einpersonenhaushalt ist berechtigt, wenn der Krankenversicherungsbeitrag im März höchstens 130.000 Won betrug. Für einen Zweipersonenhaushalt mit einem Einkommen und betrieblicher Versicherung liegt die Grenze bei 140.000 Won. Die Zahlung unterscheidet sich nach Wohnregion und reicht von 100.000 bis 250.000 Won. Ausgeschlossen sind Besitzer hoher Vermögen, darunter Personen mit einer Steuerbemessungsgrundlage von mehr als 1,2 Milliarden Won im vergangenen Jahr. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Deuxième aide liée aux prix élevés du pétrole dès le 18; ménage seul jusqu’à 130 000 wons de cotisation santé",
+        "excerpt": "Le gouvernement versera dès le 18 la deuxième aide liée aux prix élevés du pétrole, en ciblant les 70% de revenus les plus bas selon la cotisation santé de mars, avec 100 000 à 250 000 wons selon la région.",
+        "body": "Le gouvernement a présenté les critères de cotisation à l’assurance maladie pour sélectionner les 70% de revenus les plus bas et commencera le 18 le versement de la deuxième aide liée aux dommages causés par les prix élevés du pétrole. Un ménage d’une personne est éligible si sa cotisation santé de mars ne dépasse pas 130 000 wons. Pour un ménage de deux personnes avec un seul revenu et une affiliation professionnelle, le seuil est de 140 000 wons. Le montant variera selon la zone de résidence, de 100 000 à 250 000 wons. Les détenteurs d’actifs élevés, notamment ceux dont la base imposable a dépassé 1,2 milliard de wons l’an dernier, sont exclus. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "دفعة الدعم الثانية لمتضرري ارتفاع أسعار الوقود تبدأ في 18؛ الأسر الفردية حتى 130 ألف وون تأمين صحي",
+        "excerpt": "تبدأ الحكومة في 18 صرف دفعة الدعم الثانية لمتضرري ارتفاع أسعار الوقود، مع اختيار أدنى 70% دخلا وفق اشتراكات التأمين الصحي في مارس ودفع 100 ألف إلى 250 ألف وون حسب منطقة السكن.",
+        "body": "أعلنت الحكومة معايير اشتراكات التأمين الصحي لاختيار أدنى 70% من حيث الدخل، وستبدأ في 18 صرف دفعة الدعم الثانية لمتضرري ارتفاع أسعار الوقود. تكون الأسرة المكونة من شخص واحد مؤهلة إذا كان اشتراك التأمين الصحي في مارس 130 ألف وون أو أقل. وبالنسبة إلى أسرة من شخصين بدخل واحد ضمن نظام المشتركين عبر جهة العمل، يبلغ الحد 140 ألف وون أو أقل. وتختلف قيمة الدعم حسب منطقة السكن، من 100 ألف إلى 250 ألف وون. ويستبعد من الدعم أصحاب الأصول الكبيرة، بمن فيهم من تجاوز أساسهم الضريبي 1.2 مليار وون في العام الماضي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ऊंचे ईंधन दामों पर दूसरी राहत 18 से, एकल परिवारों के लिए स्वास्थ्य बीमा प्रीमियम सीमा 1.3 लाख वोन",
+        "excerpt": "सरकार 18 तारीख से ऊंचे ईंधन दामों से प्रभावितों के लिए दूसरी राहत देगी। मार्च स्वास्थ्य बीमा प्रीमियम के आधार पर निचले 70% आय वर्ग को चुना जाएगा और क्षेत्र के अनुसार 1 लाख से 2.5 लाख वोन मिलेंगे।",
+        "body": "सरकार ने निचले 70% आय वर्ग के चयन के लिए स्वास्थ्य बीमा प्रीमियम मानदंड घोषित किए हैं और ऊंचे ईंधन दामों से प्रभावितों के लिए दूसरी राहत राशि 18 तारीख से देना शुरू करेगी। एक व्यक्ति वाला परिवार तभी पात्र होगा जब उसका मार्च का स्वास्थ्य बीमा प्रीमियम 1.3 लाख वोन या उससे कम हो। कार्यस्थल बीमा में शामिल, एक कमाऊ सदस्य वाले दो-व्यक्ति परिवार के लिए सीमा 1.4 लाख वोन या उससे कम है। राहत राशि निवास क्षेत्र के अनुसार 1 लाख से 2.5 लाख वोन तक अलग-अलग होगी। हालांकि, पिछले वर्ष 1.2 अरब वोन से अधिक कर-आधार वाले उच्च संपत्ति धारक समर्थन से बाहर रहेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Bantuan kedua dampak harga BBM tinggi mulai 18, rumah tangga tunggal premi kesehatan maksimal 130.000 won",
+        "excerpt": "Pemerintah akan menyalurkan bantuan kedua dampak harga BBM tinggi mulai tanggal 18, memilih 70% pendapatan terbawah berdasarkan premi asuransi kesehatan Maret dan membayar 100.000-250.000 won menurut wilayah tinggal.",
+        "body": "Pemerintah mengumumkan kriteria premi asuransi kesehatan untuk memilih 70% kelompok pendapatan terbawah dan akan mulai menyalurkan bantuan kedua bagi dampak harga BBM tinggi pada tanggal 18. Rumah tangga satu orang masuk sasaran jika premi asuransi kesehatan Maret sebesar 130.000 won atau kurang. Untuk rumah tangga dua orang dengan satu pencari nafkah yang terdaftar sebagai peserta pekerja, batasnya 140.000 won atau kurang. Nilai bantuan dibedakan menurut wilayah tempat tinggal, dari 100.000 hingga 250.000 won. Pemilik aset besar, termasuk yang dasar pengenaan pajaknya tahun lalu melebihi 1,2 miliar won, dikecualikan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "45448b165e5b",
+    "slug": "경북도-세계경주포럼-성공-시동국제문화협력-학술회의-개최-890353",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T02:04:35.400Z",
+    "updatedAt": "2026-05-11T02:04:35.400Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12043057",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12043057",
+    "titleFingerprint": "7737a71bd053544c22e60b37bbdabfaf95d7939a",
+    "dedupKeys": [
+      "45448b165e5bcf266664888bcfdad50640858b34",
+      "7737a71bd053544c22e60b37bbdabfaf95d7939a",
+      "81dc6cddae38cfa3c746a23063f092a1efd6e618"
+    ],
+    "imageUrl": "/images/articles/45448b165e5b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "경북도 세계경주포럼 준비 본격화, 국제문화협력 학술회의 개최",
+        "excerpt": "경북도는 2026년 10월 세계경주포럼의 성공 추진을 위해 국제문화협력 학술회의를 열고, 2025 APEC 이후 글로벌 문화관광 협력과 MICE 전략을 모색한다.",
+        "body": "경북도는 2026년 10월 열리는 ‘세계경주포럼’의 성공적 추진을 위해 국제문화협력 학술회의를 개최하며 준비에 시동을 걸었다. 이번 회의는 2025 APEC 이후 경주를 중심으로 글로벌 문화관광 협력 방안을 모색하는 자리로 마련됐다. 경북도는 포럼과 연계해 MICE 전략 논의, 체험행사 등 다양한 프로그램을 준비하고 있다. 이번 학술회의는 세계경주포럼의 방향성을 점검하고 국제 협력 기반을 넓히는 계기가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Gyeongbuk Launches World Gyeongju Forum Preparations With Culture Cooperation Conference",
+        "excerpt": "Gyeongbuk Province is holding an international cultural cooperation academic conference to support the October 2026 World Gyeongju Forum and explore post-2025 APEC cultural tourism cooperation.",
+        "body": "Gyeongbuk Province has begun preparations for the successful launch of the World Gyeongju Forum, scheduled for October 2026, by holding an international cultural cooperation academic conference. The event is designed to explore global cultural and tourism cooperation centered on Gyeongju after the 2025 APEC meetings. The province is preparing various programs linked to the forum, including discussions on MICE strategies and hands-on experience events. The conference is expected to help review the forum’s direction and expand the foundation for international cooperation. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "慶尚北道、世界慶州フォーラム準備を本格化 国際文化協力学術会議を開催",
+        "excerpt": "慶尚北道は2026年10月の世界慶州フォーラム成功に向け、国際文化協力学術会議を開き、2025年APEC後の文化観光協力とMICE戦略を探る。",
+        "body": "慶尚北道は、2026年10月に開かれる「世界慶州フォーラム」の成功的な推進に向け、国際文化協力学術会議を開催し、準備を本格化させた。今回の会議は、2025年APEC後に慶州を中心としたグローバルな文化観光協力の方策を模索する場として設けられた。道はフォーラムと連携し、MICE戦略の議論や体験行事など多様なプログラムを準備している。会議はフォーラムの方向性を点検し、国際協力の基盤を広げる契機になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "庆尚北道启动世界庆州论坛筹备 举办国际文化合作学术会议",
+        "excerpt": "庆尚北道为推动2026年10月世界庆州论坛成功举办，召开国际文化合作学术会议，探讨2025年APEC后的全球文化旅游合作与MICE战略。",
+        "body": "庆尚北道为推动将于2026年10月举行的“世界庆州论坛”成功举办，召开国际文化合作学术会议，正式启动相关筹备。此次会议旨在以庆州为中心，探讨2025年APEC之后的全球文化旅游合作方案。庆尚北道正准备与论坛相衔接的多项项目，包括MICE战略讨论和体验活动等。此次学术会议预计将成为检视世界庆州论坛方向、扩大国际合作基础的契机。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Gyeongbuk impulsa el Foro Mundial de Gyeongju con una conferencia de cooperación cultural",
+        "excerpt": "La provincia de Gyeongbuk celebra una conferencia académica de cooperación cultural para apoyar el Foro Mundial de Gyeongju de octubre de 2026 y explorar la cooperación turística tras APEC 2025.",
+        "body": "La provincia de Gyeongbuk inició los preparativos para impulsar con éxito el Foro Mundial de Gyeongju, previsto para octubre de 2026, mediante la celebración de una conferencia académica sobre cooperación cultural internacional. El encuentro busca analizar formas de cooperación global en cultura y turismo centradas en Gyeongju después de APEC 2025. La provincia prepara diversos programas vinculados al foro, incluidos debates sobre estrategia MICE y actividades de experiencia. La conferencia permitirá revisar la orientación del foro y ampliar la base de cooperación internacional. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Gyeongbuk avança no Fórum Mundial de Gyeongju com conferência de cooperação cultural",
+        "excerpt": "A província de Gyeongbuk realiza uma conferência acadêmica de cooperação cultural para apoiar o Fórum Mundial de Gyeongju de outubro de 2026 e discutir turismo após a APEC 2025.",
+        "body": "A província de Gyeongbuk deu início aos preparativos para promover com sucesso o Fórum Mundial de Gyeongju, previsto para outubro de 2026, com a realização de uma conferência acadêmica sobre cooperação cultural internacional. O encontro foi organizado para buscar formas de cooperação global em cultura e turismo centradas em Gyeongju após a APEC 2025. A província prepara diversos programas ligados ao fórum, incluindo debates sobre estratégia MICE e eventos de experiência. A conferência deve ajudar a revisar a direção do fórum e ampliar a base de cooperação internacional. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gyeongbuk startet Vorbereitung des World Gyeongju Forum mit Kulturkooperationskonferenz",
+        "excerpt": "Die Provinz Gyeongbuk hält eine akademische Konferenz zur internationalen Kulturkooperation ab, um das World Gyeongju Forum im Oktober 2026 vorzubereiten und Kooperation nach APEC 2025 zu prüfen.",
+        "body": "Die Provinz Gyeongbuk hat die Vorbereitungen für eine erfolgreiche Durchführung des World Gyeongju Forum im Oktober 2026 mit einer akademischen Konferenz zur internationalen Kulturkooperation begonnen. Die Veranstaltung soll nach APEC 2025 Wege für globale Kultur- und Tourismuskooperation mit Gyeongju im Mittelpunkt ausloten. Gyeongbuk bereitet verschiedene mit dem Forum verbundene Programme vor, darunter Diskussionen zu MICE-Strategien und Erlebnisveranstaltungen. Die Konferenz dürfte helfen, die Ausrichtung des Forums zu prüfen und die Grundlage internationaler Zusammenarbeit zu erweitern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Gyeongbuk lance le Forum mondial de Gyeongju avec une conférence de coopération culturelle",
+        "excerpt": "La province de Gyeongbuk organise une conférence académique de coopération culturelle pour préparer le Forum mondial de Gyeongju d’octobre 2026 et étudier la coopération touristique après l’APEC 2025.",
+        "body": "La province de Gyeongbuk a lancé les préparatifs du Forum mondial de Gyeongju, prévu en octobre 2026, en organisant une conférence académique sur la coopération culturelle internationale. Cette réunion vise à examiner, après l’APEC 2025, des pistes de coopération mondiale en matière de culture et de tourisme autour de Gyeongju. La province prépare plusieurs programmes liés au forum, dont des discussions sur la stratégie MICE et des événements d’expérience. La conférence devrait permettre de vérifier l’orientation du forum et d’élargir la base de la coopération internationale. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "غيونغبوك تطلق تحضيرات منتدى غيونغجو العالمي بمؤتمر للتعاون الثقافي الدولي",
+        "excerpt": "تقيم مقاطعة غيونغبوك مؤتمرا أكاديميا للتعاون الثقافي الدولي دعما لمنتدى غيونغجو العالمي في أكتوبر 2026، وبحثا للتعاون الثقافي والسياحي بعد APEC 2025.",
+        "body": "بدأت مقاطعة غيونغبوك التحضير لإنجاح «منتدى غيونغجو العالمي» المقرر في أكتوبر 2026، عبر عقد مؤتمر أكاديمي للتعاون الثقافي الدولي. ويهدف المؤتمر إلى بحث سبل التعاون العالمي في الثقافة والسياحة، مع التركيز على غيونغجو، بعد اجتماعات APEC 2025. وتعد المقاطعة برامج متنوعة مرتبطة بالمنتدى، تشمل مناقشات حول استراتيجية MICE وفعاليات تجريبية. ومن المتوقع أن يسهم المؤتمر في مراجعة اتجاه المنتدى وتوسيع قاعدة التعاون الدولي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ग्योंगबुक ने विश्व ग्योंगजू फोरम की तैयारी शुरू की, सांस्कृतिक सहयोग सम्मेलन आयोजित",
+        "excerpt": "ग्योंगबुक प्रांत अक्टूबर 2026 के विश्व ग्योंगजू फोरम की सफलता के लिए अंतरराष्ट्रीय सांस्कृतिक सहयोग अकादमिक सम्मेलन आयोजित कर रहा है और APEC 2025 के बाद सांस्कृतिक पर्यटन सहयोग पर चर्चा करेगा।",
+        "body": "ग्योंगबुक प्रांत ने अक्टूबर 2026 में होने वाले ‘विश्व ग्योंगजू फोरम’ की सफल तैयारी के लिए अंतरराष्ट्रीय सांस्कृतिक सहयोग पर अकादमिक सम्मेलन आयोजित कर पहल शुरू की। यह बैठक APEC 2025 के बाद ग्योंगजू को केंद्र में रखते हुए वैश्विक सांस्कृतिक और पर्यटन सहयोग के उपाय तलाशने के लिए आयोजित की गई है। प्रांत फोरम से जुड़े विभिन्न कार्यक्रम तैयार कर रहा है, जिनमें MICE रणनीति पर चर्चा और अनुभव आधारित आयोजन शामिल हैं। यह सम्मेलन फोरम की दिशा की समीक्षा करने और अंतरराष्ट्रीय सहयोग का आधार बढ़ाने का अवसर बनेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Gyeongbuk Mulai Persiapan World Gyeongju Forum Lewat Konferensi Kerja Sama Budaya",
+        "excerpt": "Provinsi Gyeongbuk menggelar konferensi akademik kerja sama budaya internasional untuk mendukung World Gyeongju Forum pada Oktober 2026 dan membahas kerja sama pariwisata budaya pasca-APEC 2025.",
+        "body": "Provinsi Gyeongbuk mulai mempersiapkan keberhasilan World Gyeongju Forum yang dijadwalkan berlangsung pada Oktober 2026 dengan menggelar konferensi akademik kerja sama budaya internasional. Pertemuan ini disiapkan untuk mencari arah kerja sama global di bidang budaya dan pariwisata yang berpusat di Gyeongju setelah APEC 2025. Gyeongbuk menyiapkan berbagai program yang terhubung dengan forum, termasuk pembahasan strategi MICE dan acara pengalaman. Konferensi ini diperkirakan menjadi momentum untuk meninjau arah forum dan memperluas dasar kerja sama internasional. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b594c55f4f0a",
+    "slug": "반년간-가상자산-투자자-7-보유금액-38-감소투자자보호-장치-시급-443718",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T02:03:44.485Z",
+    "updatedAt": "2026-05-11T02:03:44.485Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12043059",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12043059",
+    "titleFingerprint": "5eab7319cc48afb80973f8ff9eda83490b4a7a62",
+    "dedupKeys": [
+      "b594c55f4f0a2bada657467763dbe15d9b7796e4",
+      "5eab7319cc48afb80973f8ff9eda83490b4a7a62",
+      "1a40798401d1d82af306b005fbd0b1e2e01fa259"
+    ],
+    "imageUrl": "/images/articles/b594c55f4f0a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "가상자산 투자자 반년 새 7% 감소, 보유금액 38% 줄어 보호장치 시급",
+        "excerpt": "국내 5대 가상자산거래소 투자자 수가 지난해 1099만명까지 늘어난 뒤 반년 만에 7% 줄고 보유금액은 38% 감소해 투자자보호 제도화 필요성이 제기됐다.",
+        "body": "국내 5대 가상자산거래소의 투자자 수와 보유금액이 반년 사이 뚜렷하게 줄어든 것으로 나타났다. 투자자 수는 지난해 1099만명까지 급증한 뒤 7% 감소했고, 보유금액은 같은 기간 38% 줄었다. 시장 침체와 국내 증시 활황이 맞물리며 가상자산 투자 열기가 위축된 영향으로 풀이된다. 안도걸 의원은 가상자산을 전략산업으로 정착시키기 위한 제도화와 투자자보호 장치 마련이 시급하다고 밝혔다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Crypto investors fall 7% in six months as holdings drop 38%, protection urged",
+        "excerpt": "Investors on South Korea’s five major crypto exchanges fell 7% in six months after reaching 10.99 million last year, while holdings dropped 38%, raising calls for investor protection.",
+        "body": "The number of investors and the value of holdings on South Korea’s five major crypto exchanges declined sharply over a six-month period. Investor numbers, which had surged to 10.99 million last year, fell by 7%, while total holdings dropped 38% over the same period. The pullback is attributed to a sluggish crypto market and the strength of the domestic stock market, which dampened crypto investment sentiment. Lawmaker Ahn Do-geol said institutional measures and investor-protection safeguards are urgently needed to establish virtual assets as a strategic industry. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "暗号資産投資家が半年で7%減、保有額38%減で保護策が急務に",
+        "excerpt": "韓国の5大暗号資産取引所の投資家数は昨年1099万人まで増えた後、半年で7%減少し、保有額も38%減って投資家保護制度の必要性が浮上した。",
+        "body": "韓国の5大暗号資産取引所で、投資家数と保有額が半年の間に大きく減少したことが分かった。投資家数は昨年1099万人まで急増した後、7%減少し、保有額は同じ期間に38%減った。市場低迷と韓国株式市場の活況が重なり、暗号資産への投資熱が弱まった影響とみられる。安道杰議員は、暗号資産を戦略産業として定着させるための制度化と投資家保護策の整備が急務だと述べた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "加密资产投资者半年减少7%，持有金额下降38%，保护机制受关注",
+        "excerpt": "韩国五大虚拟资产交易所投资者去年增至1099万人后，半年内减少7%，持有金额下降38%，投资者保护制度化需求随之升温。",
+        "body": "韩国五大虚拟资产交易所的投资者数量和持有金额在半年内明显下降。投资者人数去年一度增至1099万人，随后减少7%；同期持有金额下降38%。市场低迷叠加韩国国内股市活跃，被认为削弱了虚拟资产投资热度。安道杰议员表示，为使虚拟资产作为战略产业稳定发展，推进制度化并建立投资者保护机制十分紧迫。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Inversores cripto caen 7% en seis meses y tenencias bajan 38%: urgen protección",
+        "excerpt": "En los cinco grandes exchanges de criptoactivos de Corea del Sur, los inversores bajaron 7% tras llegar a 10,99 millones el año pasado y las tenencias cayeron 38%.",
+        "body": "El número de inversores y el monto de tenencias en los cinco principales exchanges de criptoactivos de Corea del Sur disminuyeron con claridad en seis meses. Los inversores, que habían aumentado hasta 10,99 millones el año pasado, cayeron 7%, mientras que las tenencias se redujeron 38% en el mismo periodo. La contracción se atribuye a la debilidad del mercado cripto y al auge del mercado bursátil local, que enfriaron el interés inversor. El legislador Ahn Do-geol afirmó que es urgente institucionalizar el sector y crear mecanismos de protección para consolidar los criptoactivos como industria estratégica. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Investidores cripto caem 7% em seis meses e saldos recuam 38%; proteção é urgente",
+        "excerpt": "Nos cinco maiores exchanges de criptoativos da Coreia do Sul, investidores caíram 7% após chegar a 10,99 milhões no ano passado, enquanto os saldos recuaram 38%.",
+        "body": "O número de investidores e o valor mantido nos cinco principais exchanges de criptoativos da Coreia do Sul caíram de forma clara em seis meses. Após subir para 10,99 milhões no ano passado, o total de investidores recuou 7%, enquanto os saldos diminuíram 38% no mesmo período. A retração é atribuída à fraqueza do mercado cripto e ao bom desempenho do mercado acionário doméstico, que reduziram o entusiasmo pelos criptoativos. O deputado Ahn Do-geol disse que é urgente avançar na institucionalização e criar mecanismos de proteção ao investidor para estabelecer os criptoativos como indústria estratégica. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kryptoanleger sinken in sechs Monaten um 7%, Bestände fallen 38%: Schutz gefordert",
+        "excerpt": "Bei Südkoreas fünf großen Kryptobörsen sank die Anlegerzahl nach 10,99 Millionen im Vorjahr binnen sechs Monaten um 7%, während die Bestände um 38% zurückgingen.",
+        "body": "Die Zahl der Anleger und der Wert ihrer Bestände bei Südkoreas fünf großen Kryptobörsen sind innerhalb eines halben Jahres deutlich zurückgegangen. Nachdem die Anlegerzahl im Vorjahr auf 10,99 Millionen gestiegen war, sank sie um 7%; die Bestände fielen im gleichen Zeitraum um 38%. Als Gründe gelten die Schwäche des Kryptomarkts und die starke Entwicklung des heimischen Aktienmarkts, die das Interesse an virtuellen Vermögenswerten gedämpft haben. Abgeordneter Ahn Do-geol erklärte, Institutionalisierung und Schutzmechanismen für Anleger seien dringend nötig, um virtuelle Vermögenswerte als strategische Branche zu etablieren. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les investisseurs crypto reculent de 7% en six mois, avoirs en baisse de 38%",
+        "excerpt": "Sur les cinq grandes plateformes sud-coréennes de cryptoactifs, les investisseurs ont baissé de 7% après 10,99 millions l’an dernier, et les avoirs ont chuté de 38%.",
+        "body": "Le nombre d’investisseurs et le montant des avoirs sur les cinq principales plateformes sud-coréennes de cryptoactifs ont nettement diminué en six mois. Après avoir atteint 10,99 millions l’an dernier, le nombre d’investisseurs a reculé de 7%, tandis que les avoirs ont baissé de 38% sur la même période. Ce repli est attribué à la faiblesse du marché crypto et à la vigueur du marché boursier national, qui ont refroidi l’intérêt pour les actifs virtuels. Le député Ahn Do-geol a déclaré qu’une institutionnalisation et des dispositifs de protection des investisseurs étaient urgents pour faire des actifs virtuels une industrie stratégique. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مستثمرو الأصول المشفرة يتراجعون 7% في نصف عام والحيازات تهبط 38%",
+        "excerpt": "انخفض عدد المستثمرين في أكبر خمس بورصات أصول افتراضية بكوريا الجنوبية 7% خلال نصف عام بعد بلوغه 10.99 مليون العام الماضي، وتراجعت الحيازات 38%.",
+        "body": "أظهرت البيانات أن عدد المستثمرين وقيمة الحيازات في أكبر خمس بورصات للأصول الافتراضية في كوريا الجنوبية تراجعا بوضوح خلال نصف عام. وبعد أن ارتفع عدد المستثمرين إلى 10.99 مليون العام الماضي، انخفض بنسبة 7%، بينما هبطت قيمة الحيازات 38% في الفترة نفسها. ويُعزى التراجع إلى ركود سوق الأصول المشفرة وازدهار سوق الأسهم المحلية، ما أضعف حماس الاستثمار في الأصول الافتراضية. وقال النائب آن دو غول إن إرساء إطار مؤسسي وآليات لحماية المستثمرين أمر عاجل لترسيخ الأصول الافتراضية كصناعة استراتيجية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "क्रिप्टो निवेशक छह महीने में 7% घटे, होल्डिंग 38% कम; सुरक्षा उपाय जरूरी",
+        "excerpt": "दक्षिण कोरिया के पांच बड़े वर्चुअल एसेट एक्सचेंजों पर निवेशक पिछले साल 1.099 करोड़ तक पहुंचने के बाद छह महीने में 7% घटे और होल्डिंग 38% कम हुई।",
+        "body": "दक्षिण कोरिया के पांच प्रमुख वर्चुअल एसेट एक्सचेंजों पर निवेशकों की संख्या और उनकी होल्डिंग राशि छह महीने में स्पष्ट रूप से घटी है। निवेशकों की संख्या पिछले साल 1.099 करोड़ तक बढ़ने के बाद 7% कम हुई, जबकि इसी अवधि में होल्डिंग राशि 38% घट गई। इसका कारण क्रिप्टो बाजार की सुस्ती और घरेलू शेयर बाजार की तेजी को माना जा रहा है, जिसने वर्चुअल एसेट निवेश की गर्मी को कम किया। सांसद आन दो-गोल ने कहा कि वर्चुअल एसेट को रणनीतिक उद्योग के रूप में स्थापित करने के लिए संस्थागत ढांचा और निवेशक सुरक्षा उपाय तत्काल जरूरी हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Investor kripto turun 7% dalam enam bulan, nilai kepemilikan anjlok 38%",
+        "excerpt": "Di lima bursa aset virtual terbesar Korea Selatan, jumlah investor turun 7% setelah mencapai 10,99 juta tahun lalu, sementara nilai kepemilikan merosot 38%.",
+        "body": "Jumlah investor dan nilai kepemilikan di lima bursa aset virtual utama Korea Selatan menurun jelas dalam enam bulan. Setelah sempat melonjak menjadi 10,99 juta orang tahun lalu, jumlah investor turun 7%, sementara nilai kepemilikan berkurang 38% pada periode yang sama. Pelemahan ini dikaitkan dengan lesunya pasar kripto dan menguatnya pasar saham domestik, yang meredam minat investasi aset virtual. Anggota parlemen Ahn Do-geol menyatakan bahwa pelembagaan dan perangkat perlindungan investor mendesak untuk menjadikan aset virtual sebagai industri strategis. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "bdd31cc7e8af",
     "slug": "전몰순직-군경소방관-자녀-지원우미희망재단-히어로즈-패밀리-비전형성-캠프-진행-876081",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Dompet tahan kuantum dikebut, Bitcoin dan Ethereum masih tertinggal",
         "excerpt": "Perusahaan kripto meningkatkan keamanan dompet untuk menghadapi ancaman komputasi kuantum, tetapi pertahanan jaringan Bitcoin dan Ethereum belum ikut mengejar.",
         "body": "Perusahaan kripto belakangan meningkatkan dompet dengan perlindungan “tahan kuantum” karena komputasi kuantum berpotensi mengancam sistem kriptografi yang ada. Dompet menjadi titik penting untuk melindungi akses pengguna ke aset, sehingga perusahaan bergerak lebih dulu sebelum perubahan besar terjadi di tingkat jaringan. Namun, blockchain utama seperti Bitcoin dan Ethereum belum merespons dengan kecepatan yang sama, sehingga celah keamanan masih tersisa. Peningkatan awal ini dapat membantu melindungi pengguna jika risiko kuantum menjadi lebih nyata, tetapi perbaikan di tingkat dompet saja tidak cukup untuk menghapus risiko pada seluruh jaringan. decrypt.co melaporkan bahwa perusahaan kripto sedang memperbaiki dompet untuk melawan ancaman komputasi kuantum yang akan datang, meski celah masih ada."
-      }
-    }
-  },
-  {
-    "id": "adaa0de69455",
-    "slug": "ai가-불붙인-우주-인프라-전쟁-스페이스x보다-소재부품기업-주목-985658",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T16:31:26.183Z",
-    "updatedAt": "2026-05-10T16:31:26.183Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042713",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042713",
-    "titleFingerprint": "11fa11a266e870298bed4eddb9f858bbfd920ec7",
-    "dedupKeys": [
-      "adaa0de694552dd9b8abd77f27e28022a7346feb",
-      "11fa11a266e870298bed4eddb9f858bbfd920ec7",
-      "6fe5a9d94c5c2635d9b12697bf02da4df86c0b7d"
-    ],
-    "imageUrl": "/images/articles/adaa0de69455.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI가 촉발한 우주 인프라 경쟁, 스페이스X보다 소재·부품기업 주목",
-        "excerpt": "AI와 로봇 기반 공장 확산으로 생산성이 높아지면서 우주 인프라 경쟁이 부각되고, 스페이스X보다 소재·부품기업에 대한 관심이 커지고 있다.",
-        "body": "인공지능(AI)이 태동하고 AI를 기반으로 작동하는 로봇 세상이 열리면서 우주 인프라를 둘러싼 경쟁이 주목받고 있다. 특히 로봇들만 일하는 공장이 늘고 있다는 점이 핵심 배경이다. 생산성이 탁월하기 때문이다. 원문은 미생물을 키우는 공장 사례를 언급하며, 자동화와 로봇 활용이 산업 현장의 구조를 바꾸고 있음을 짚었다. 이 흐름은 우주 산업에서도 단순한 발사체 기업보다 소재와 부품을 공급하는 기업에 대한 관심으로 이어지고 있다. AI가 불붙인 우주 인프라 전쟁에서 스페이스X만이 아니라 기반 기술 기업을 함께 봐야 한다는 분석이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "AI-Fueled Space Infrastructure Race Puts Materials and Parts Firms in Focus",
-        "excerpt": "As AI and robot-run factories spread and productivity rises, the space infrastructure race is gaining attention, shifting focus beyond SpaceX to materials and parts suppliers.",
-        "body": "As artificial intelligence emerges and a world of AI-powered robots opens up, competition over space infrastructure is drawing attention. A key backdrop is the growing number of factories where only robots work, because their productivity is outstanding. The original article cites the example of factories that cultivate microorganisms, noting how automation and robot use are changing the structure of industrial sites. This trend is also extending to the space industry, where interest is moving beyond launch companies such as SpaceX toward firms that supply materials and components. The analysis suggests that in the AI-driven space infrastructure race, investors and observers should also watch foundational technology companies. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AIが火を付けた宇宙インフラ競争、素材・部品企業に注目",
-        "excerpt": "AIとロボット工場の拡大で生産性が高まるなか、宇宙インフラ競争が浮上し、スペースXだけでなく素材・部品企業への関心が強まっている。",
-        "body": "人工知能（AI）が台頭し、AIを基盤に動くロボットの世界が開かれるなか、宇宙インフラをめぐる競争が注目されている。特に、ロボットだけが働く工場が増えていることが重要な背景だ。生産性が非常に高いためである。原文は微生物を育てる工場の例を挙げ、自動化とロボット活用が産業現場の構造を変えていると指摘した。この流れは宇宙産業にも及び、スペースXのような打ち上げ企業だけでなく、素材や部品を供給する企業への関心につながっている。AIが火を付けた宇宙インフラ競争では、基盤技術企業も併せて見る必要があるという分析だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI点燃太空基础设施竞争，材料与零部件企业受关注",
-        "excerpt": "随着AI和机器人化工厂扩散、生产率提升，太空基础设施竞争受到关注，市场焦点正从SpaceX延伸至材料和零部件企业。",
-        "body": "随着人工智能（AI）兴起，并开启以AI驱动机器人运作的世界，围绕太空基础设施的竞争正受到关注。重要背景在于，只由机器人工作的工厂正在增加，因为其生产率十分突出。原文提到培养微生物的工厂案例，指出自动化和机器人应用正在改变产业现场的结构。这一趋势也延伸至太空产业，使关注点不只停留在SpaceX等发射企业，而是进一步转向供应材料和零部件的企业。分析认为，在AI点燃的太空基础设施竞争中，也应同时关注支撑产业的基础技术企业。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La IA impulsa la carrera de infraestructura espacial y enfoca a proveedores",
-        "excerpt": "Con el avance de la IA y las fábricas operadas por robots, la productividad gana peso y la carrera espacial dirige la atención más allá de SpaceX, hacia materiales y componentes.",
-        "body": "A medida que emerge la inteligencia artificial (IA) y se abre un mundo de robots que funcionan sobre esa base, la competencia por la infraestructura espacial gana atención. Un contexto clave es el aumento de fábricas donde solo trabajan robots, debido a su elevada productividad. El texto original menciona el ejemplo de fábricas que cultivan microorganismos y señala que la automatización y el uso de robots están cambiando la estructura de los entornos industriales. Esta tendencia también alcanza a la industria espacial, donde el interés no se limita a empresas de lanzamiento como SpaceX, sino que se extiende a compañías que suministran materiales y componentes. En la carrera espacial impulsada por la IA, el análisis apunta a mirar también a las firmas de tecnología base. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "IA acende disputa por infraestrutura espacial e destaca fornecedores",
-        "excerpt": "Com a expansão da IA e de fábricas operadas por robôs, a produtividade ganha destaque e a corrida espacial amplia o foco de SpaceX para materiais e componentes.",
-        "body": "À medida que a inteligência artificial (IA) avança e abre caminho para um mundo de robôs operando com base nela, a competição por infraestrutura espacial ganha atenção. Um ponto central é o aumento de fábricas onde apenas robôs trabalham, graças à produtividade elevada. O texto original cita o exemplo de fábricas que cultivam microrganismos e observa que a automação e o uso de robôs estão mudando a estrutura dos ambientes industriais. Essa tendência também chega ao setor espacial, onde o interesse não se limita a empresas de lançamento como a SpaceX, mas se estende a companhias que fornecem materiais e componentes. Na disputa por infraestrutura espacial acesa pela IA, a análise indica que empresas de tecnologia fundamental também devem ser observadas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KI entfacht Wettlauf um Weltrauminfrastruktur und rückt Zulieferer in den Fokus",
-        "excerpt": "Mit dem Aufstieg von KI und robotergesteuerten Fabriken steigt die Produktivität, während der Weltraumwettlauf den Blick über SpaceX hinaus auf Material- und Teilefirmen lenkt.",
-        "body": "Mit dem Aufkommen künstlicher Intelligenz (KI) und einer Welt, in der Roboter auf ihrer Basis arbeiten, rückt der Wettbewerb um Weltrauminfrastruktur in den Fokus. Ein zentraler Hintergrund ist die wachsende Zahl von Fabriken, in denen ausschließlich Roboter arbeiten, weil ihre Produktivität herausragt. Der Originaltext nennt als Beispiel Fabriken, in denen Mikroorganismen gezüchtet werden, und beschreibt, wie Automatisierung und Robotereinsatz die Struktur industrieller Standorte verändern. Dieser Trend erreicht auch die Raumfahrtindustrie. Das Interesse richtet sich daher nicht nur auf Startunternehmen wie SpaceX, sondern auch auf Firmen, die Materialien und Komponenten liefern. Die Analyse legt nahe, im von KI angefachten Wettlauf um Weltrauminfrastruktur auch grundlegende Technologieunternehmen zu beachten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’IA relance la course aux infrastructures spatiales et met les fournisseurs en avant",
-        "excerpt": "Avec l’essor de l’IA et des usines robotisées, la productivité progresse et la course spatiale attire l’attention au-delà de SpaceX, vers les matériaux et composants.",
-        "body": "Avec l’émergence de l’intelligence artificielle (IA) et l’ouverture d’un monde de robots fonctionnant sur cette base, la concurrence autour des infrastructures spatiales attire l’attention. Le contexte clé est la multiplication des usines où seuls des robots travaillent, en raison de leur productivité élevée. Le texte original cite l’exemple d’usines qui cultivent des micro-organismes et souligne que l’automatisation et l’usage des robots transforment la structure des sites industriels. Cette tendance s’étend aussi à l’industrie spatiale, où l’intérêt ne se limite pas aux entreprises de lancement comme SpaceX, mais se porte également sur les sociétés fournissant matériaux et composants. Dans cette course aux infrastructures spatiales alimentée par l’IA, l’analyse invite à observer aussi les entreprises de technologies de base. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الذكاء الاصطناعي يشعل سباق البنية التحتية الفضائية ويبرز شركات المكونات",
-        "excerpt": "مع انتشار الذكاء الاصطناعي والمصانع التي تعمل بالروبوتات، ترتفع الإنتاجية ويتجه الاهتمام في سباق الفضاء من سبيس إكس إلى موردي المواد والمكونات.",
-        "body": "مع بروز الذكاء الاصطناعي وبدء عالم تعمل فيه الروبوتات اعتمادا عليه، يحظى التنافس على البنية التحتية الفضائية باهتمام متزايد. وتتمثل الخلفية الأساسية في زيادة المصانع التي تعمل فيها الروبوتات وحدها، بسبب إنتاجيتها العالية. ويشير النص الأصلي إلى مثال مصانع تزرع الكائنات الدقيقة، موضحا أن الأتمتة واستخدام الروبوتات يغيران بنية مواقع الصناعة. ويمتد هذا الاتجاه إلى قطاع الفضاء أيضا، حيث لا يتركز الاهتمام على شركات الإطلاق مثل سبيس إكس فقط، بل يشمل الشركات التي توفر المواد والمكونات. ويرى التحليل أن سباق البنية التحتية الفضائية الذي أشعله الذكاء الاصطناعي يتطلب متابعة شركات التكنولوجيا الأساسية كذلك. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI से तेज हुई अंतरिक्ष इन्फ्रास्ट्रक्चर दौड़, सामग्री व पार्ट्स कंपनियां फोकस में",
-        "excerpt": "AI और रोबोट-आधारित कारखानों के फैलने से उत्पादकता बढ़ रही है, जिससे अंतरिक्ष इन्फ्रास्ट्रक्चर की दौड़ में SpaceX से आगे सामग्री और पार्ट्स कंपनियों पर ध्यान जा रहा है।",
-        "body": "कृत्रिम बुद्धिमत्ता (AI) के उभरने और उसके आधार पर काम करने वाली रोबोट दुनिया के खुलने के साथ अंतरिक्ष इन्फ्रास्ट्रक्चर को लेकर प्रतिस्पर्धा ध्यान खींच रही है। इसका मुख्य संदर्भ यह है कि ऐसे कारखाने बढ़ रहे हैं जहां केवल रोबोट काम करते हैं, क्योंकि उनकी उत्पादकता उत्कृष्ट है। मूल लेख ने सूक्ष्मजीवों को विकसित करने वाले कारखाने का उदाहरण देते हुए बताया कि ऑटोमेशन और रोबोट का उपयोग औद्योगिक स्थलों की संरचना बदल रहा है। यह प्रवृत्ति अंतरिक्ष उद्योग तक भी पहुंच रही है, जहां रुचि SpaceX जैसी लॉन्च कंपनियों तक सीमित नहीं है, बल्कि सामग्री और पुर्जे आपूर्ति करने वाली कंपनियों की ओर भी बढ़ रही है। विश्लेषण के अनुसार, AI से तेज हुई इस अंतरिक्ष इन्फ्रास्ट्रक्चर दौड़ में आधारभूत तकनीक कंपनियों पर भी नजर रखनी चाहिए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "AI Picu Perebutan Infrastruktur Antariksa, Pemasok Material dan Komponen Disorot",
-        "excerpt": "Saat AI dan pabrik berbasis robot meluas serta produktivitas meningkat, perebutan infrastruktur antariksa membuat perhatian bergeser dari SpaceX ke pemasok material dan komponen.",
-        "body": "Seiring munculnya kecerdasan buatan (AI) dan terbukanya dunia robot yang bekerja dengan basis teknologi itu, persaingan dalam infrastruktur antariksa menjadi sorotan. Latar pentingnya adalah bertambahnya pabrik yang hanya dioperasikan oleh robot, karena produktivitasnya sangat tinggi. Artikel asli menyebut contoh pabrik yang membudidayakan mikroorganisme, serta menyoroti bahwa otomatisasi dan penggunaan robot sedang mengubah struktur lokasi industri. Arus ini juga menjangkau industri antariksa, sehingga perhatian tidak hanya tertuju pada perusahaan peluncuran seperti SpaceX, tetapi juga pada perusahaan pemasok material dan komponen. Analisis tersebut menunjukkan bahwa dalam perebutan infrastruktur antariksa yang dipicu AI, perusahaan teknologi dasar juga perlu diperhatikan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3f703628623f",
-    "slug": "머니쇼-인기-강연-다시보기-13일부터-매경플러스에서-234514",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T16:30:16.843Z",
-    "updatedAt": "2026-05-10T16:30:16.843Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/notice/12042716",
-    "canonicalUrl": "https://www.mk.co.kr/news/notice/12042716",
-    "titleFingerprint": "1a80c0ba4d631c4cdb593c7b8d11ab896668cbbc",
-    "dedupKeys": [
-      "3f703628623f7d561f8bbd30b003cf47499aa001",
-      "1a80c0ba4d631c4cdb593c7b8d11ab896668cbbc",
-      "997db5776f2e3999e1af4bba3bc2b6061ff506ff"
-    ],
-    "imageUrl": "/images/articles/3f703628623f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울머니쇼 인기 강연 다시보기, 13일부터 매경플러스에서 공개",
-        "excerpt": "2026 서울머니쇼 인기 강연 다시보기가 13일부터 매경플러스에서 제공된다. 지난 7~9일 서울 강남 코엑스에서 열린 재테크 박람회 강연을 놓친 독자를 위한 서비스다.",
-        "body": "국내 최대 재테크 박람회인 ‘2026 서울머니쇼’의 인기 강연 다시보기가 13일부터 매경플러스에서 공개된다. 행사는 지난 7일부터 9일까지 서울 강남 코엑스에서 성황리에 열렸다. 출근이나 등교 등 일정 때문에 현장에서 강연을 보지 못한 독자와 관람객은 프리미엄 재테크 플랫폼인 매경플러스를 통해 주요 강연을 다시 확인할 수 있다. 이번 다시보기 제공은 박람회 현장에 직접 참석하지 못했거나 일부 강연을 놓친 이용자에게 재테크 콘텐츠 접근성을 넓히는 계기가 될 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Seoul Money Show Popular Lectures to Stream on Maekyung Plus From May 13",
-        "excerpt": "Popular lectures from the 2026 Seoul Money Show will be available on Maekyung Plus from May 13, helping readers who missed the May 7-9 event at COEX in Gangnam, Seoul.",
-        "body": "Popular lecture replays from the 2026 Seoul Money Show, Korea’s largest personal finance expo, will be released on Maekyung Plus from May 13. The event was held successfully from May 7 to 9 at COEX in Gangnam, Seoul. Readers and visitors who could not watch the sessions on site because of work, school, or other schedules will be able to review key lectures through Maekyung Plus, a premium wealth-management platform. The replay service is expected to improve access to finance content for users who could not attend in person or missed selected lectures. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ソウルマネーショー人気講演、13日から毎経プラスで見逃し配信",
-        "excerpt": "2026ソウルマネーショーの人気講演が13日から毎経プラスで配信される。7〜9日にソウル江南COEXで開かれた資産運用博覧会を見逃した読者向けだ。",
-        "body": "韓国最大の資産運用博覧会「2026ソウルマネーショー」の人気講演の見逃し配信が、13日から毎経プラスで公開される。イベントは7日から9日まで、ソウル江南のCOEXで盛況のうちに開かれた。出勤や通学などの予定により現地で講演を見られなかった読者や来場者は、プレミアム資産運用プラットフォームの毎経プラスを通じて主要講演を改めて確認できる。今回の配信は、会場に直接参加できなかった人や一部講演を逃した利用者にとって、資産運用コンテンツへのアクセスを広げる機会になる見通しだ。出典: mk.co.kr。"
-      },
-      "zh": {
-        "title": "首尔Money Show热门讲座回放将于13日起在每日经济Plus上线",
-        "excerpt": "2026首尔Money Show热门讲座回放将于13日起在每日经济Plus提供，面向错过7日至9日首尔江南COEX理财博览会讲座的读者。",
-        "body": "韩国最大理财博览会“2026首尔Money Show”的热门讲座回放将于13日起在每日经济Plus上线。该活动已于7日至9日在首尔江南COEX顺利举行。因上班、上学等日程未能在现场观看讲座的读者和观众，可通过高端理财平台每日经济Plus重新查看主要讲座。此次回放服务预计将为未能亲临展会现场或错过部分讲座的用户扩大理财内容的获取渠道。来源: mk.co.kr。"
-      },
-      "es": {
-        "title": "Charlas populares del Seoul Money Show llegarán a Maekyung Plus el 13",
-        "excerpt": "Las charlas populares del Seoul Money Show 2026 estarán disponibles en Maekyung Plus desde el 13 de mayo para quienes no pudieron ver el evento celebrado del 7 al 9 en COEX, Seúl.",
-        "body": "Las repeticiones de las charlas populares del “Seoul Money Show 2026”, la mayor feria de finanzas personales de Corea, se publicarán en Maekyung Plus desde el 13 de mayo. El evento se celebró con éxito del 7 al 9 de mayo en COEX, en Gangnam, Seúl. Los lectores y asistentes que no pudieron ver las conferencias en el lugar por trabajo, estudios u otros horarios podrán revisar las principales sesiones a través de Maekyung Plus, una plataforma premium de inversión y gestión patrimonial. El servicio ampliará el acceso a contenidos financieros para quienes no asistieron o se perdieron algunas charlas. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Palestras populares do Seoul Money Show chegam ao Maekyung Plus no dia 13",
-        "excerpt": "As palestras populares do Seoul Money Show 2026 estarão no Maekyung Plus a partir de 13 de maio, para quem perdeu o evento realizado de 7 a 9 no COEX, em Gangnam, Seul.",
-        "body": "As reprises das palestras populares do “Seoul Money Show 2026”, a maior feira de finanças pessoais da Coreia, serão disponibilizadas no Maekyung Plus a partir de 13 de maio. O evento ocorreu com sucesso de 7 a 9 de maio no COEX, em Gangnam, Seul. Leitores e visitantes que não puderam acompanhar as sessões presencialmente por causa do trabalho, da escola ou de outros compromissos poderão rever as principais palestras pela plataforma premium de gestão financeira Maekyung Plus. A oferta deve ampliar o acesso a conteúdo de finanças para quem não pôde comparecer ou perdeu algumas apresentações. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Beliebte Seoul-Money-Show-Vorträge ab 13. Mai bei Maekyung Plus",
-        "excerpt": "Beliebte Vorträge der Seoul Money Show 2026 sind ab 13. Mai bei Maekyung Plus verfügbar. Sie richten sich an Leser, die die Messe vom 7. bis 9. Mai im COEX Seoul verpasst haben.",
-        "body": "Aufzeichnungen beliebter Vorträge der „Seoul Money Show 2026“, Koreas größter Messe für private Geldanlage, werden ab dem 13. Mai bei Maekyung Plus veröffentlicht. Die Veranstaltung fand vom 7. bis 9. Mai erfolgreich im COEX in Gangnam, Seoul, statt. Leser und Besucher, die die Vorträge wegen Arbeit, Schule oder anderer Termine nicht vor Ort verfolgen konnten, können zentrale Sessions über die Premium-Plattform Maekyung Plus nachsehen. Das Angebot dürfte den Zugang zu Finanz- und Anlageinhalten für Nutzer erweitern, die nicht persönlich teilnehmen konnten oder einzelne Vorträge verpasst haben. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Les conférences du Seoul Money Show disponibles sur Maekyung Plus le 13",
-        "excerpt": "Les conférences populaires du Seoul Money Show 2026 seront disponibles sur Maekyung Plus dès le 13 mai, pour ceux qui ont manqué l’événement tenu du 7 au 9 mai au COEX de Séoul.",
-        "body": "Les rediffusions des conférences populaires du « Seoul Money Show 2026 », le plus grand salon coréen consacré à la gestion de patrimoine, seront publiées sur Maekyung Plus à partir du 13 mai. L’événement s’est tenu avec succès du 7 au 9 mai au COEX, dans le quartier de Gangnam à Séoul. Les lecteurs et visiteurs qui n’ont pas pu assister aux sessions sur place en raison du travail, des cours ou d’autres contraintes pourront revoir les principales conférences via Maekyung Plus, plateforme premium dédiée aux finances personnelles. Cette rediffusion devrait élargir l’accès aux contenus financiers pour les utilisateurs concernés. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "محاضرات Seoul Money Show الشائعة تُعرض على Maekyung Plus ابتداء من 13 مايو",
-        "excerpt": "ستتوفر محاضرات 2026 Seoul Money Show الشائعة على Maekyung Plus ابتداء من 13 مايو، لمن فاتهم الحدث الذي أقيم من 7 إلى 9 مايو في COEX بمنطقة غانغنام في سول.",
-        "body": "ستُعرض تسجيلات المحاضرات الشائعة من “2026 Seoul Money Show”، أكبر معرض كوري للتمويل الشخصي، على منصة Maekyung Plus ابتداء من 13 مايو. وأقيم الحدث بنجاح من 7 إلى 9 مايو في مركز COEX بمنطقة غانغنام في سول. وسيتمكن القراء والزوار الذين لم يستطيعوا متابعة المحاضرات في الموقع بسبب العمل أو الدراسة أو الجداول الأخرى من مراجعة الجلسات الرئيسية عبر Maekyung Plus، وهي منصة متميزة لمحتوى إدارة الثروات. ومن المتوقع أن يوسع هذا العرض الوصول إلى محتوى التمويل الشخصي لمن لم يحضروا أو فاتهم بعض المحاضرات. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "Seoul Money Show के लोकप्रिय लेक्चर 13 मई से Maekyung Plus पर उपलब्ध",
-        "excerpt": "2026 Seoul Money Show के लोकप्रिय लेक्चर 13 मई से Maekyung Plus पर मिलेंगे। यह सेवा 7 से 9 मई तक सियोल के गंगनम COEX में हुए कार्यक्रम को न देख पाने वालों के लिए है।",
-        "body": "कोरिया के सबसे बड़े पर्सनल फाइनेंस एक्सपो “2026 Seoul Money Show” के लोकप्रिय लेक्चर की रीप्ले सेवा 13 मई से Maekyung Plus पर शुरू होगी। यह कार्यक्रम 7 से 9 मई तक सियोल के गंगनम स्थित COEX में सफलतापूर्वक आयोजित किया गया। काम, स्कूल या अन्य समय-सारणी के कारण जो पाठक और आगंतुक现场 पर लेक्चर नहीं देख पाए, वे Maekyung Plus नामक प्रीमियम वेल्थ मैनेजमेंट प्लेटफॉर्म के जरिए प्रमुख सत्र फिर से देख सकेंगे। यह रीप्ले सेवा उन उपयोगकर्ताओं के लिए वित्तीय सामग्री तक पहुंच बढ़ाएगी जो कार्यक्रम में शामिल नहीं हो सके या कुछ लेक्चर चूक गए। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Kuliah Populer Seoul Money Show Tayang Ulang di Maekyung Plus Mulai 13 Mei",
-        "excerpt": "Kuliah populer 2026 Seoul Money Show akan tersedia di Maekyung Plus mulai 13 Mei bagi pembaca yang melewatkan acara pada 7-9 Mei di COEX, Gangnam, Seoul.",
-        "body": "Tayangan ulang kuliah populer dari “2026 Seoul Money Show”, pameran keuangan pribadi terbesar di Korea, akan dirilis di Maekyung Plus mulai 13 Mei. Acara tersebut berlangsung sukses pada 7-9 Mei di COEX, Gangnam, Seoul. Pembaca dan pengunjung yang tidak sempat menonton sesi di lokasi karena bekerja, sekolah, atau jadwal lain dapat meninjau kembali kuliah utama melalui Maekyung Plus, platform premium untuk konten pengelolaan kekayaan. Layanan tayangan ulang ini diperkirakan memperluas akses ke konten keuangan bagi pengguna yang tidak hadir langsung atau melewatkan sebagian kuliah. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "e6167c0a5e9f",
-    "slug": "동여의도-위클리-트럼프-1415일-방중-삼성전자-파업-여부도-변수-652233",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T16:29:19.244Z",
-    "updatedAt": "2026-05-10T16:29:19.244Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042715",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042715",
-    "titleFingerprint": "ca2d72d961fc968df2efff1f897dedef344631e2",
-    "dedupKeys": [
-      "e6167c0a5e9f9429eb3c57c078d776cf44cbe951",
-      "ca2d72d961fc968df2efff1f897dedef344631e2",
-      "921f0e5e0766ba57fe601bc18ee83801ef9c1a87"
-    ],
-    "imageUrl": "/images/articles/e6167c0a5e9f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프 14~15일 방중·삼성전자 파업 변수, 코스피 향방 주목",
-        "excerpt": "이번 주 코스피가 지난주 13% 넘는 급등세를 이어갈지 주목된다. 트럼프의 14~15일 방중, 거시경제 부담, 지정학 변수, 삼성전자 파업 여부가 시장 변수로 거론된다.",
-        "body": "이번 주 국내 증시는 코스피가 추가 상승을 이어갈지, 단기 급등 이후 숨 고르기에 들어갈지가 핵심 관심사다. 지난주 코스피는 한 주 동안 13% 넘게 뛰며 7498에 마감했다. 그러나 이번 주에는 거시경제 부담과 지정학 변수가 동시에 부각된다. 특히 트럼프의 14~15일 방중 일정이 시장의 주요 변수로 제시됐고, 삼성전자 파업 여부도 투자 심리에 영향을 줄 수 있는 요인으로 거론됐다. 급등 이후 시장이 상승 흐름을 유지할지, 부담 요인에 반응하며 조정 국면에 들어설지 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Trump China Visit on 14-15 and Samsung Strike Risk Put KOSPI in Focus",
-        "excerpt": "Markets are watching whether the KOSPI can extend last week’s more than 13% surge, as Trump’s China visit on the 14th-15th, macro pressure, geopolitical risks, and a possible Samsung Electronics strike emerge as variables.",
-        "body": "The key question for South Korea’s stock market this week is whether the KOSPI will keep rising or enter a pause after its sharp short-term rally. Last week, the KOSPI jumped more than 13% and closed at 7,498. This week, however, macroeconomic pressure and geopolitical variables are coming into focus at the same time. Trump’s scheduled visit to China on the 14th-15th has been cited as a major market factor, while the possibility of a Samsung Electronics strike is also being discussed as a factor that could affect investor sentiment. Attention is on whether the market can maintain its upward trend or move into a correction as it reacts to these pressures. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "トランプ氏14〜15日訪中とサムスン電子スト、KOSPIの焦点に",
-        "excerpt": "今週のKOSPIが先週の13％超の急伸を続けるか注目される。トランプ氏の14〜15日訪中、マクロ経済負担、地政学要因、サムスン電子のスト可否が市場材料となる。",
-        "body": "今週の韓国株式市場では、KOSPIが上昇を続けるのか、短期急騰後の一服局面に入るのかが焦点となる。先週のKOSPIは1週間で13％超上昇し、7498で取引を終えた。ただし今週は、マクロ経済上の負担と地政学的な変数が同時に意識される。特にトランプ氏の14〜15日の訪中日程が市場の主要材料として示され、サムスン電子のスト実施 여부も投資心理に影響し得る要因として挙げられた。急伸後の市場が上昇基調を維持するのか、負担材料に反応して調整局面に入るのかが注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特朗普14至15日访华与三星电子罢工变量，KOSPI走势受关注",
-        "excerpt": "市场关注本周KOSPI能否延续上周逾13%的涨势。特朗普14至15日访华、宏观经济压力、地缘政治变量以及三星电子是否罢工被视为关键因素。",
-        "body": "本周韩国股市的核心问题是，KOSPI能否继续上涨，还是在短期大涨后进入休整。上周KOSPI一周内上涨逾13%，收于7498点。不过，本周宏观经济压力与地缘政治变量同时浮现。特朗普14至15日访华的日程被列为市场主要变量，三星电子是否罢工也被提及为可能影响投资情绪的因素。市场关注的是，在快速上涨之后，指数能否维持上行趋势，还是会因这些压力因素而进入调整阶段。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Visita de Trump a China y posible huelga en Samsung ponen al KOSPI bajo la lupa",
-        "excerpt": "El mercado observa si el KOSPI mantendrá el avance de más del 13% de la semana pasada, mientras la visita de Trump a China del 14 al 15, las presiones macro, la geopolítica y Samsung son variables clave.",
-        "body": "La pregunta central para la bolsa surcoreana esta semana es si el KOSPI seguirá subiendo o entrará en una pausa tras su fuerte avance reciente. La semana pasada, el índice ganó más de 13% y cerró en 7.498. Sin embargo, esta semana coinciden presiones macroeconómicas y factores geopolíticos. La visita de Trump a China prevista para los días 14 y 15 fue señalada como una variable relevante para el mercado, y la posibilidad de una huelga en Samsung Electronics también se menciona como un factor que podría influir en el ánimo inversor. La atención está puesta en si el mercado conservará la tendencia alcista o reaccionará con una corrección ante estos riesgos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Visita de Trump à China e greve na Samsung colocam KOSPI em destaque",
-        "excerpt": "O mercado acompanha se o KOSPI manterá a alta de mais de 13% da semana passada, enquanto a visita de Trump à China nos dias 14 e 15, pressões macro, geopolítica e Samsung surgem como variáveis.",
-        "body": "A principal questão para o mercado acionário sul-coreano nesta semana é se o KOSPI continuará avançando ou fará uma pausa após a forte alta recente. Na semana passada, o índice subiu mais de 13% e fechou em 7.498. Porém, nesta semana, pressões macroeconômicas e fatores geopolíticos aparecem ao mesmo tempo. A visita de Trump à China, prevista para os dias 14 e 15, foi citada como uma variável importante para o mercado, enquanto a possibilidade de greve na Samsung Electronics também é apontada como fator que pode afetar o sentimento dos investidores. O foco está em saber se o mercado manterá a tendência de alta ou entrará em correção diante desses elementos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Trump-Besuch in China und Samsung-Streikrisiko rücken KOSPI in den Fokus",
-        "excerpt": "Der Markt beobachtet, ob der KOSPI den Anstieg von über 13% aus der Vorwoche fortsetzt. Trumps China-Besuch am 14. und 15., Makrodruck, Geopolitik und Samsung gelten als Variablen.",
-        "body": "Die zentrale Frage für den südkoreanischen Aktienmarkt in dieser Woche ist, ob der KOSPI weiter steigen kann oder nach dem starken kurzfristigen Anstieg eine Verschnaufpause einlegt. In der vergangenen Woche legte der KOSPI um mehr als 13% zu und schloss bei 7.498. In dieser Woche treten jedoch makroökonomische Belastungen und geopolitische Faktoren gleichzeitig in den Vordergrund. Trumps geplanter China-Besuch am 14. und 15. wurde als wichtiger Marktfaktor genannt. Auch die Frage, ob es bei Samsung Electronics zu einem Streik kommt, gilt als möglicher Einfluss auf die Anlegerstimmung. Im Fokus steht, ob der Markt den Aufwärtstrend hält oder auf die Belastungsfaktoren mit einer Korrektur reagiert. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Visite de Trump en Chine et risque de grève chez Samsung, le KOSPI surveillé",
-        "excerpt": "Les marchés regardent si le KOSPI prolongera son bond de plus de 13% de la semaine dernière, alors que la visite de Trump en Chine les 14 et 15, les pressions macro, la géopolitique et Samsung pèsent.",
-        "body": "La question centrale pour la Bourse sud-coréenne cette semaine est de savoir si le KOSPI poursuivra sa hausse ou marquera une pause après son fort rebond récent. La semaine dernière, l’indice a gagné plus de 13% et a clôturé à 7 498. Cette semaine, toutefois, les pressions macroéconomiques et les facteurs géopolitiques se présentent simultanément. La visite de Trump en Chine prévue les 14 et 15 a été citée comme une variable majeure pour le marché, tandis que l’éventualité d’une grève chez Samsung Electronics est également mentionnée comme un facteur pouvant influencer le sentiment des investisseurs. L’attention porte sur la capacité du marché à maintenir sa tendance haussière ou à entrer en correction face à ces pressions. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "زيارة ترامب للصين وإضراب سامسونغ المحتمل يضعان كوسبي تحت المجهر",
-        "excerpt": "تترقب الأسواق ما إذا كان مؤشر كوسبي سيواصل صعوده الذي تجاوز 13% الأسبوع الماضي، مع بروز زيارة ترامب للصين يومي 14 و15، والضغوط الكلية، والعوامل الجيوسياسية، وسامسونغ كمتغيرات رئيسية.",
-        "body": "السؤال الأساسي في سوق الأسهم الكورية هذا الأسبوع هو ما إذا كان مؤشر كوسبي سيواصل الارتفاع أم سيدخل مرحلة تهدئة بعد صعوده السريع. في الأسبوع الماضي ارتفع كوسبي بأكثر من 13% خلال أسبوع واحد وأغلق عند 7498. لكن هذا الأسبوع يشهد بروز ضغوط الاقتصاد الكلي والعوامل الجيوسياسية في وقت واحد. وقد طُرحت زيارة ترامب المقررة إلى الصين يومي 14 و15 كعامل رئيسي للسوق، كما ذُكر احتمال إضراب سامسونغ إلكترونيكس كعامل قد يؤثر في معنويات المستثمرين. وينصب الاهتمام على ما إذا كان السوق سيحافظ على اتجاهه الصاعد أم سيتجه إلى تصحيح مع تفاعله مع هذه الضغوط. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ट्रंप की 14-15 तारीख चीन यात्रा और सैमसंग हड़ताल से KOSPI पर नजर",
-        "excerpt": "बाजार देख रहा है कि KOSPI पिछले सप्ताह की 13% से अधिक तेजी जारी रखेगा या नहीं। ट्रंप की 14-15 तारीख चीन यात्रा, मैक्रो दबाव, भू-राजनीतिक कारक और सैमसंग हड़ताल प्रमुख 변수 हैं।",
-        "body": "इस सप्ताह दक्षिण कोरिया के शेयर बाजार के लिए मुख्य सवाल यह है कि KOSPI आगे भी चढ़ेगा या तेज अल्पकालिक बढ़त के बाद ठहराव में जाएगा। पिछले सप्ताह KOSPI एक सप्ताह में 13% से अधिक उछलकर 7498 पर बंद हुआ। हालांकि इस सप्ताह मैक्रोइकॉनॉमिक दबाव और भू-राजनीतिक कारक एक साथ सामने आ रहे हैं। ट्रंप की 14-15 तारीख को तय चीन यात्रा को बाजार का प्रमुख चर बताया गया है, जबकि Samsung Electronics में हड़ताल होगी या नहीं, यह भी निवेशक भावना को प्रभावित कर सकने वाला कारक माना गया है। अब ध्यान इस पर है कि तेज बढ़त के बाद बाजार ऊपर की दिशा बनाए रखेगा या इन दबावों पर प्रतिक्रिया देते हुए सुधार के चरण में जाएगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kunjungan Trump ke China dan Risiko Mogok Samsung Soroti Arah KOSPI",
-        "excerpt": "Pasar mencermati apakah KOSPI akan melanjutkan lonjakan lebih dari 13% pekan lalu, saat kunjungan Trump ke China pada 14-15, tekanan makro, geopolitik, dan kemungkinan mogok Samsung menjadi variabel.",
-        "body": "Pertanyaan utama bagi pasar saham Korea Selatan pekan ini adalah apakah KOSPI akan terus menguat atau memasuki fase jeda setelah reli tajam jangka pendek. Pekan lalu, KOSPI naik lebih dari 13% dalam sepekan dan ditutup di 7.498. Namun pekan ini, tekanan makroekonomi dan faktor geopolitik muncul bersamaan. Jadwal kunjungan Trump ke China pada 14-15 disebut sebagai variabel utama pasar, sementara kemungkinan mogok di Samsung Electronics juga dibahas sebagai faktor yang dapat memengaruhi sentimen investor. Perhatian tertuju pada apakah pasar mampu mempertahankan tren naik atau memasuki koreksi karena merespons faktor tekanan tersebut. Sumber: mk.co.kr"
       }
     }
   }
