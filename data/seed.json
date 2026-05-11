@@ -1,5 +1,230 @@
 [
   {
+    "id": "8231f0fcc912",
+    "slug": "circle-gives-ai-agents-usdc-stablecoin-powers-alongside-222m-473976",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T21:42:48.631Z",
+    "updatedAt": "2026-05-11T21:42:48.631Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367490/circle-ai-agents-usdc-stablecoin-powers-222m-arc-token-sale",
+    "canonicalUrl": "https://decrypt.co/367490/circle-ai-agents-usdc-stablecoin-powers-222m-arc-token-sale",
+    "titleFingerprint": "5deafe8f7beeeda372978a21559278a92a14fcb1",
+    "dedupKeys": [
+      "8231f0fcc912873c090b110e751b723e132138b1",
+      "5deafe8f7beeeda372978a21559278a92a14fcb1",
+      "ccd0c4f53ce8bf5ca27014abbdad65c8c8dcd1db"
+    ],
+    "imageUrl": "/images/articles/8231f0fcc912.png",
+    "i18n": {
+      "ko": {
+        "title": "Circle, AI 에이전트에 USDC 결제 권한 부여…2.22억달러 Arc 토큰 세일 병행",
+        "excerpt": "USDC 발행사 Circle은 AI 에이전트가 사람 개입 없이 자금을 보유하고 서비스 비용을 지불하며 거래할 수 있는 도구 모음을 출시했다.",
+        "body": "USDC 발행사 Circle은 AI 에이전트가 사람의 직접 개입 없이 돈을 보유하고, 서비스 비용을 지불하며, 거래를 수행할 수 있도록 설계된 도구 모음을 출시했다. 이번 발표는 2억2,200만달러 규모의 Arc 토큰 세일 소식과 함께 전해졌다. Circle의 새 도구는 스테이블코인 USDC를 AI 기반 자동화 환경에서 활용할 수 있게 하는 데 초점을 맞춘다. 배경에는 AI 에이전트가 온라인 서비스와 결제 흐름에서 더 자율적으로 움직일 수 있도록 하려는 수요가 있다. 다만 기사에 따르면 핵심은 사람 없는 자금 보유와 결제, 거래 기능 제공에 있다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Circle Gives AI Agents USDC Payment Powers as $222M Arc Sale Advances",
+        "excerpt": "USDC issuer Circle launched tools that let AI agents hold funds, pay for services, and transact without human involvement, alongside a $222M Arc token sale.",
+        "body": "USDC issuer Circle has launched a suite of tools designed to let AI agents hold money, pay for services, and carry out transactions without direct human involvement. The announcement came alongside a $222 million Arc token sale. Circle’s new tools focus on enabling the use of the USDC stablecoin in AI-driven automated environments. The context is rising demand for AI agents that can act more independently across online services and payment flows. According to the report, the core change is giving agents the ability to hold funds, make payments, and transact without a person in the loop. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "Circle、AIエージェントにUSDC決済機能付与　Arcセール2.22億ドルも",
+        "excerpt": "USDC発行元のCircleは、AIエージェントが人の介入なしに資金を保有し、サービス料金を支払い、取引できるツール群を公開した。",
+        "body": "USDC発行元のCircleは、AIエージェントが人の直接介入なしに資金を保有し、サービス料金を支払い、取引を実行できるよう設計されたツール群を公開した。今回の発表は、2億2,200万ドル規模のArcトークンセールのニュースとあわせて伝えられた。Circleの新ツールは、ステーブルコインUSDCをAI主導の自動化環境で利用できるようにする点に焦点を当てている。背景には、オンラインサービスや決済フローでAIエージェントがより自律的に動く需要がある。ただし記事によれば、中心となるのは人を介さない資金保有、支払い、取引機能の提供だ。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "Circle赋予AI代理USDC支付能力，并推进2.22亿美元Arc代币销售",
+        "excerpt": "USDC发行方Circle推出一套工具，让AI代理无需人工介入即可持有资金、支付服务费用并完成交易，同时伴随Arc代币销售消息。",
+        "body": "USDC发行方Circle推出了一套工具，旨在让AI代理在没有人类直接介入的情况下持有资金、支付服务费用并执行交易。该消息与2.22亿美元规模的Arc代币销售一同发布。Circle的新工具重点在于让稳定币USDC能够用于由AI驱动的自动化环境。其背景是，市场对能够在在线服务和支付流程中更自主行动的AI代理需求正在增加。不过报道显示，此次核心变化是为AI代理提供无需人工参与的资金持有、支付和交易能力。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Circle da a agentes de IA poderes de pago con USDC junto a venta Arc de $222M",
+        "excerpt": "Circle, emisor de USDC, lanzó herramientas para que agentes de IA mantengan dinero, paguen servicios y realicen transacciones sin intervención humana.",
+        "body": "Circle, emisor de USDC, lanzó un conjunto de herramientas diseñado para que los agentes de IA puedan mantener dinero, pagar servicios y ejecutar transacciones sin intervención humana directa. El anuncio llegó junto con una venta de tokens Arc por 222 millones de dólares. Las nuevas herramientas de Circle se centran en permitir el uso de la stablecoin USDC en entornos automatizados impulsados por IA. El contexto es una demanda creciente de agentes de IA capaces de actuar con más autonomía en servicios en línea y flujos de pago. Según el reporte, el punto central es habilitar tenencia de fondos, pagos y transacciones sin una persona en el proceso. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Circle dá a agentes de IA poderes de pagamento em USDC com venda Arc de US$222 mi",
+        "excerpt": "A emissora do USDC, Circle, lançou ferramentas para agentes de IA guardarem dinheiro, pagarem serviços e transacionarem sem intervenção humana direta.",
+        "body": "A emissora do USDC, Circle, lançou um conjunto de ferramentas criado para permitir que agentes de IA guardem dinheiro, paguem por serviços e realizem transações sem intervenção humana direta. O anúncio veio junto com uma venda de tokens Arc de US$222 milhões. As novas ferramentas da Circle se concentram em viabilizar o uso da stablecoin USDC em ambientes automatizados movidos por IA. O contexto é a demanda por agentes de IA capazes de atuar com mais autonomia em serviços online e fluxos de pagamento. Segundo a reportagem, o ponto principal é oferecer posse de fundos, pagamentos e transações sem uma pessoa no processo. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Circle gibt KI-Agenten USDC-Zahlungsrechte neben Arc-Verkauf über 222 Mio. Dollar",
+        "excerpt": "USDC-Emittent Circle hat Tools gestartet, mit denen KI-Agenten Geld halten, Dienste bezahlen und Transaktionen ohne menschliche Beteiligung ausführen können.",
+        "body": "USDC-Emittent Circle hat eine Reihe von Tools gestartet, die KI-Agenten ermöglichen sollen, Geld zu halten, für Dienste zu bezahlen und Transaktionen ohne direkte menschliche Beteiligung auszuführen. Die Meldung wurde zusammen mit einem Arc-Token-Verkauf im Umfang von 222 Millionen Dollar bekannt. Circles neue Tools zielen darauf, den Stablecoin USDC in KI-gesteuerten automatisierten Umgebungen nutzbar zu machen. Hintergrund ist die Nachfrage nach KI-Agenten, die in Online-Diensten und Zahlungsabläufen eigenständiger handeln können. Dem Bericht zufolge liegt der Kern in der Fähigkeit, Gelder zu halten, Zahlungen zu leisten und Transaktionen ohne eine Person im Ablauf auszuführen. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Circle donne aux agents IA des pouvoirs de paiement en USDC avec la vente Arc à 222 M$",
+        "excerpt": "L’émetteur de l’USDC, Circle, a lancé des outils permettant aux agents IA de détenir des fonds, payer des services et effectuer des transactions sans humain.",
+        "body": "L’émetteur de l’USDC, Circle, a lancé une suite d’outils conçue pour permettre aux agents IA de détenir de l’argent, payer des services et effectuer des transactions sans intervention humaine directe. L’annonce accompagne une vente de tokens Arc de 222 millions de dollars. Les nouveaux outils de Circle visent à rendre le stablecoin USDC utilisable dans des environnements automatisés pilotés par l’IA. Le contexte est une demande accrue pour des agents IA capables d’agir avec plus d’autonomie dans les services en ligne et les flux de paiement. Selon le rapport, l’essentiel est de fournir détention de fonds, paiements et transactions sans personne dans la boucle. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "Circle تمنح وكلاء الذكاء الاصطناعي قدرات دفع USDC مع بيع Arc بـ222 مليون دولار",
+        "excerpt": "أطلقت Circle، مُصدِرة USDC، أدوات تتيح لوكلاء الذكاء الاصطناعي الاحتفاظ بالأموال ودفع رسوم الخدمات وتنفيذ المعاملات دون تدخل بشري.",
+        "body": "أطلقت Circle، مُصدِرة عملة USDC، مجموعة أدوات صُممت لتمكين وكلاء الذكاء الاصطناعي من الاحتفاظ بالأموال، ودفع تكاليف الخدمات، وتنفيذ المعاملات دون تدخل بشري مباشر. وجاء الإعلان بالتزامن مع بيع رموز Arc بقيمة 222 مليون دولار. تركز أدوات Circle الجديدة على إتاحة استخدام العملة المستقرة USDC داخل بيئات آلية يقودها الذكاء الاصطناعي. ويأتي ذلك في سياق طلب متزايد على وكلاء ذكاء اصطناعي يمكنهم التحرك باستقلالية أكبر عبر الخدمات الإلكترونية ومسارات الدفع. ووفق التقرير، يتمثل الجوهر في منح هذه الوكلاء القدرة على الاحتفاظ بالأموال والدفع والتعامل دون وجود شخص في العملية. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Circle ने AI एजेंटों को USDC भुगतान शक्ति दी, साथ में $222M Arc टोकन सेल",
+        "excerpt": "USDC जारीकर्ता Circle ने ऐसे टूल लॉन्च किए जिनसे AI एजेंट मानव हस्तक्षेप के बिना धन रख सकें, सेवाओं का भुगतान कर सकें और लेनदेन कर सकें।",
+        "body": "USDC जारीकर्ता Circle ने ऐसे टूल्स का एक सेट लॉन्च किया है जिसे AI एजेंटों को सीधे मानव हस्तक्षेप के बिना धन रखने, सेवाओं के लिए भुगतान करने और लेनदेन करने में सक्षम बनाने के लिए डिजाइन किया गया है। यह घोषणा 22.2 करोड़ डॉलर की Arc टोकन सेल की खबर के साथ आई। Circle के नए टूल्स का ध्यान AI संचालित स्वचालित माहौल में स्थिर मुद्रा USDC के उपयोग को संभव बनाने पर है। पृष्ठभूमि में ऐसे AI एजेंटों की मांग है जो ऑनलाइन सेवाओं और भुगतान प्रवाह में अधिक स्वायत्त रूप से काम कर सकें। रिपोर्ट के अनुसार, मुख्य बात एजेंटों को बिना किसी व्यक्ति की भागीदारी के धन रखने, भुगतान करने और लेनदेन की क्षमता देना है। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Circle Beri Agen AI Kekuatan Pembayaran USDC Bersama Penjualan Arc $222 Juta",
+        "excerpt": "Penerbit USDC, Circle, meluncurkan alat agar agen AI dapat menyimpan uang, membayar layanan, dan bertransaksi tanpa keterlibatan manusia langsung.",
+        "body": "Penerbit USDC, Circle, meluncurkan rangkaian alat yang dirancang agar agen AI dapat menyimpan uang, membayar layanan, dan menjalankan transaksi tanpa keterlibatan manusia langsung. Pengumuman ini hadir bersamaan dengan penjualan token Arc senilai 222 juta dolar AS. Alat baru Circle berfokus pada pemanfaatan stablecoin USDC di lingkungan otomatis yang digerakkan oleh AI. Latar belakangnya adalah meningkatnya kebutuhan akan agen AI yang bisa bergerak lebih mandiri dalam layanan online dan alur pembayaran. Menurut laporan, inti perubahan ini adalah memberi agen kemampuan menyimpan dana, melakukan pembayaran, dan bertransaksi tanpa seseorang berada dalam proses. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "726964b3bf92",
+    "slug": "privacy-advocates-slam-recaptcha-update-they-say-locks-out-d-481316",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T21:41:55.711Z",
+    "updatedAt": "2026-05-11T21:41:55.711Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/privacy-advocates-slam-recaptcha-update-locks-out-de-googled-phones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/privacy-advocates-slam-recaptcha-update-locks-out-de-googled-phones",
+    "titleFingerprint": "5c5048a9121f96768e29f660c06c826a24fdc74b",
+    "dedupKeys": [
+      "726964b3bf924e8fe989c91e83e8123c5babef9c",
+      "5c5048a9121f96768e29f660c06c826a24fdc74b",
+      "a61924e37401f688966894b51619d802cbf1b026"
+    ],
+    "imageUrl": "/images/articles/726964b3bf92.jpg",
+    "i18n": {
+      "ko": {
+        "title": "reCAPTCHA 업데이트 논란, 탈구글폰 이용자 배제 비판 확산",
+        "excerpt": "개인정보 보호를 중시하는 인터넷 이용자와 비트코이너 제임슨 롭은 reCAPTCHA 업데이트가 탈구글폰 사용자를 온라인 접근에서 불리하게 만든다고 비판했다.",
+        "body": "개인정보 보호 옹호자들이 구글 reCAPTCHA 업데이트를 두고 탈구글폰 이용자를 사실상 배제한다고 비판했다. 비트코이너 제임슨 롭은 개인정보를 중시하는 인터넷 이용자들이 “2등급에서 3등급 네티즌으로 강등되고 있다”고 말했다. 이번 논란의 배경은 구글 서비스 의존을 줄인 기기 사용자들이 인증 과정에서 더 큰 불편을 겪을 수 있다는 우려다. 관련 수치나 추가 기술 설명은 공개된 요약에 포함되지 않았다. 영향은 프라이버시 중심 이용자와 웹 접근성 논쟁으로 이어질 전망이다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "reCAPTCHA Update Criticized Over De-Googled Phone Access",
+        "excerpt": "Privacy-focused internet users and Bitcoiner Jameson Lopp criticized a reCAPTCHA update, saying it disadvantages de-Googled phone users online.",
+        "body": "Privacy advocates have criticized a Google reCAPTCHA update, saying it effectively locks out users of de-Googled phones. Bitcoiner Jameson Lopp said privacy-conscious internet users are being “demoted” from second- to third-class netizens. The dispute centers on concerns that people using devices with reduced reliance on Google services may face more friction during verification. No additional figures or technical details were included in the provided summary. The issue may fuel further debate over privacy-focused users and web accessibility. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "reCAPTCHA更新に批判、脱Googleスマホ利用者を排除か",
+        "excerpt": "プライバシー重視のネット利用者とビットコイナーのジェイムソン・ロップ氏は、reCAPTCHA更新が脱Googleスマホ利用者を不利にすると批判した。",
+        "body": "プライバシー擁護派は、GoogleのreCAPTCHA更新について、脱Googleスマホの利用者を事実上締め出すものだと批判している。ビットコイナーのジェイムソン・ロップ氏は、プライバシーを重視するインターネット利用者が「二級から三級のネット市民へ格下げされている」と述べた。争点は、Googleサービスへの依存を減らした端末の利用者が認証過程でより大きな不便を受ける可能性への懸念だ。提供された要約には追加の数値や技術説明は含まれていない。今後、プライバシー重視の利用者とウェブアクセシビリティをめぐる議論に広がる見通しだ。出典: cointelegraph.com。"
+      },
+      "zh": {
+        "title": "reCAPTCHA更新遭批，去谷歌手机用户或被排除",
+        "excerpt": "重视隐私的互联网用户和比特币人士Jameson Lopp批评称，reCAPTCHA更新让去谷歌手机用户在网上访问中处于不利地位。",
+        "body": "隐私倡导者批评谷歌reCAPTCHA更新，称其实际上把去谷歌手机用户挡在门外。比特币人士Jameson Lopp表示，重视隐私的互联网用户正从“二等网民”被降为“三等网民”。争议的背景在于，减少对谷歌服务依赖的设备用户，可能在验证过程中遭遇更多不便。所提供摘要未包含更多数据或技术说明。该事件预计将继续引发围绕隐私型用户和网络可访问性的讨论。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "reCAPTCHA bajo críticas por bloquear teléfonos sin Google",
+        "excerpt": "Usuarios preocupados por la privacidad y el bitcoiner Jameson Lopp criticaron una actualización de reCAPTCHA por perjudicar a quienes usan teléfonos sin Google.",
+        "body": "Defensores de la privacidad criticaron una actualización de Google reCAPTCHA, al afirmar que en la práctica excluye a usuarios de teléfonos sin Google. El bitcoiner Jameson Lopp dijo que los usuarios de internet preocupados por la privacidad están siendo “degradados” de internautas de segunda a tercera clase. La polémica se centra en el temor de que quienes usan dispositivos con menor dependencia de servicios de Google enfrenten más fricción en la verificación. El resumen proporcionado no incluye cifras adicionales ni detalles técnicos. El caso podría alimentar el debate sobre usuarios centrados en la privacidad y accesibilidad web. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "reCAPTCHA é criticado por afetar celulares sem Google",
+        "excerpt": "Usuários preocupados com privacidade e o bitcoiner Jameson Lopp criticaram uma atualização do reCAPTCHA por prejudicar quem usa celulares sem Google.",
+        "body": "Defensores da privacidade criticaram uma atualização do Google reCAPTCHA, dizendo que ela praticamente exclui usuários de celulares sem Google. O bitcoiner Jameson Lopp afirmou que usuários da internet preocupados com privacidade estão sendo “rebaixados” de internautas de segunda para terceira classe. A controvérsia gira em torno do receio de que pessoas com dispositivos menos dependentes dos serviços do Google enfrentem mais atrito na verificação. O resumo fornecido não inclui números adicionais nem explicações técnicas. O tema pode ampliar o debate sobre usuários focados em privacidade e acessibilidade na web. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "reCAPTCHA-Update kritisiert: De-Googled Phones benachteiligt",
+        "excerpt": "Datenschutzbewusste Internetnutzer und Bitcoiner Jameson Lopp kritisieren ein reCAPTCHA-Update, das Nutzer de-googelter Smartphones online benachteiligen soll.",
+        "body": "Datenschützer kritisieren ein Google-reCAPTCHA-Update, weil es Nutzer de-googelter Smartphones faktisch aussperre. Bitcoiner Jameson Lopp sagte, datenschutzbewusste Internetnutzer würden von Netzbürgern zweiter zu dritter Klasse „herabgestuft“. Im Zentrum steht die Sorge, dass Menschen mit Geräten, die weniger stark von Google-Diensten abhängen, bei der Verifizierung mehr Hürden erleben könnten. Die bereitgestellte Zusammenfassung enthält keine weiteren Zahlen oder technischen Details. Der Fall dürfte die Debatte über Privatsphäre und Webzugänglichkeit weiter anstoßen. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "reCAPTCHA critiqué pour pénaliser les téléphones sans Google",
+        "excerpt": "Des internautes soucieux de leur vie privée et le bitcoiner Jameson Lopp critiquent une mise à jour de reCAPTCHA qui désavantagerait les téléphones sans Google.",
+        "body": "Des défenseurs de la vie privée critiquent une mise à jour de Google reCAPTCHA, estimant qu’elle exclut de fait les utilisateurs de téléphones sans Google. Le bitcoiner Jameson Lopp a déclaré que les internautes soucieux de confidentialité étaient “rétrogradés” de citoyens du net de seconde à troisième classe. La controverse porte sur la crainte que les personnes utilisant des appareils moins dépendants des services Google rencontrent davantage d’obstacles lors de la vérification. Le résumé fourni ne contient pas de chiffres supplémentaires ni de détails techniques. Le sujet pourrait nourrir le débat sur la vie privée et l’accessibilité du web. Source : cointelegraph.com."
+      },
+      "ar": {
+        "title": "تحديث reCAPTCHA يثير انتقادات بسبب هواتف بلا غوغل",
+        "excerpt": "انتقد مستخدمون مهتمون بالخصوصية والبيتكويني جيمسون لوب تحديث reCAPTCHA، قائلين إنه يضع مستخدمي الهواتف الخالية من غوغل في موقف أضعف على الإنترنت.",
+        "body": "انتقد مدافعون عن الخصوصية تحديثا لخدمة Google reCAPTCHA، قائلين إنه يستبعد عمليا مستخدمي الهواتف الخالية من خدمات غوغل. وقال البيتكويني جيمسون لوب إن مستخدمي الإنترنت الحريصين على الخصوصية يجري “خفضهم” من مواطنين رقميين من الدرجة الثانية إلى الثالثة. يدور الجدل حول مخاوف من أن يواجه مستخدمو الأجهزة التي تقلل الاعتماد على خدمات غوغل صعوبات أكبر أثناء التحقق. ولا يتضمن الملخص المقدم أرقاما إضافية أو تفاصيل تقنية. وقد يمتد الأثر إلى نقاش أوسع حول الخصوصية وإتاحة الوصول إلى الويب. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "reCAPTCHA अपडेट पर विवाद, डी-गूगल फोन यूजर्स को नुकसान",
+        "excerpt": "गोपनीयता को अहम मानने वाले इंटरनेट यूजर्स और बिटकॉइनर Jameson Lopp ने reCAPTCHA अपडेट की आलोचना की, कहा कि इससे डी-गूगल फोन यूजर्स ऑनलाइन कमजोर पड़ते हैं।",
+        "body": "गोपनीयता समर्थकों ने Google reCAPTCHA अपडेट की आलोचना करते हुए कहा कि यह डी-गूगल फोन उपयोगकर्ताओं को व्यवहारिक रूप से बाहर कर देता है। बिटकॉइनर Jameson Lopp ने कहा कि गोपनीयता के प्रति सजग इंटरनेट उपयोगकर्ताओं को “दूसरी श्रेणी” से “तीसरी श्रेणी” के नेटिजन में गिराया जा रहा है। विवाद की पृष्ठभूमि यह चिंता है कि Google सेवाओं पर निर्भरता घटाने वाले डिवाइस इस्तेमाल करने वालों को सत्यापन प्रक्रिया में अधिक परेशानी हो सकती है। उपलब्ध सारांश में अतिरिक्त आंकड़े या तकनीकी विवरण शामिल नहीं हैं। इसका असर गोपनीयता-केंद्रित उपयोगकर्ताओं और वेब पहुंच पर बहस को आगे बढ़ा सकता है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Update reCAPTCHA Dikritik, Ponsel De-Googled Dinilai Terkunci",
+        "excerpt": "Pengguna internet yang peduli privasi dan Bitcoiner Jameson Lopp mengkritik update reCAPTCHA karena dinilai merugikan pengguna ponsel de-Googled saat online.",
+        "body": "Para pendukung privasi mengkritik pembaruan Google reCAPTCHA karena dinilai secara praktis mengunci pengguna ponsel de-Googled. Bitcoiner Jameson Lopp mengatakan pengguna internet yang sadar privasi sedang “diturunkan” dari warganet kelas dua menjadi kelas tiga. Perdebatan ini berpusat pada kekhawatiran bahwa pengguna perangkat yang mengurangi ketergantungan pada layanan Google dapat menghadapi hambatan lebih besar saat proses verifikasi. Ringkasan yang diberikan tidak memuat angka tambahan atau penjelasan teknis. Isu ini dapat memperluas debat tentang pengguna berorientasi privasi dan aksesibilitas web. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "c6949a4020c2",
+    "slug": "circle-makes-usdc-push-into-ai-agent-payment-tools-262421",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T21:40:53.872Z",
+    "updatedAt": "2026-05-11T21:40:53.872Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions",
+    "titleFingerprint": "156b866acc5071fbe628cc90ffdd6c57ec66b05c",
+    "dedupKeys": [
+      "c6949a4020c26a03752abbedf3afbbb0bf6ff770",
+      "156b866acc5071fbe628cc90ffdd6c57ec66b05c",
+      "96e57f4845d90d6559a31def1b59bdcbb79aeab8"
+    ],
+    "imageUrl": "/images/articles/c6949a4020c2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Circle, AI 에이전트 결제 도구에 USDC 활용 확대",
+        "excerpt": "Circle이 AI 에이전트용 결제 도구를 공개하며 지갑 보유, 서비스 탐색, 블록체인 간 프로그래머블 USDC 결제를 지원한다.",
+        "body": "Circle이 AI 에이전트 결제 환경에서 USDC 활용을 넓히기 위한 새 도구를 내놓았다. 이번 도구는 AI 에이전트가 지갑을 보유하고, 필요한 서비스를 찾으며, 여러 블록체인 네트워크에서 프로그래머블 USDC 결제를 실행할 수 있도록 설계됐다. 이는 사람이 직접 매번 결제 절차를 처리하지 않아도 에이전트 기반 서비스 이용과 온체인 결제가 연결될 수 있음을 보여준다. 배경에는 스테이블코인 USDC를 자동화 결제 흐름에 적용하려는 Circle의 움직임이 있다. 향후 관련 도구는 AI 에이전트와 블록체인 결제 인프라의 접점을 넓히는 사례로 주목된다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Circle expands USDC use in AI agent payment tools",
+        "excerpt": "Circle has introduced payment tools for AI agents, enabling wallets, service discovery and programmable USDC payments across blockchain networks.",
+        "body": "Circle has introduced new tools aimed at expanding USDC use in AI agent payments. The tools are designed to let AI agents hold wallets, discover needed services and execute programmable USDC payments across multiple blockchain networks. The move shows how agent-based services and on-chain payments can be connected without a person manually handling every payment step. The context is Circle’s push to apply its USDC stablecoin to automated payment flows. The tools are likely to be watched as an example of how AI agents and blockchain payment infrastructure can meet. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "Circle、AIエージェント決済ツールでUSDC活用を拡大",
+        "excerpt": "CircleはAIエージェント向け決済ツールを発表し、ウォレット保有、サービス探索、複数ブロックチェーンでのUSDC決済を可能にする。",
+        "body": "Circleは、AIエージェント決済でUSDCの活用を広げるための新しいツールを発表した。このツールは、AIエージェントがウォレットを保有し、必要なサービスを見つけ、複数のブロックチェーンネットワーク上でプログラム可能なUSDC決済を実行できるよう設計されている。これにより、人が毎回決済手続きを直接処理しなくても、エージェント型サービス利用とオンチェーン決済を結び付けられることが示された。背景には、ステーブルコインUSDCを自動化された決済フローに適用しようとするCircleの動きがある。今後、このツールはAIエージェントとブロックチェーン決済インフラの接点を広げる事例として注目される。出典: cointelegraph.com。"
+      },
+      "zh": {
+        "title": "Circle扩大USDC在AI代理支付工具中的应用",
+        "excerpt": "Circle推出面向AI代理的支付工具，支持持有钱包、发现服务，并在区块链网络间进行可编程USDC支付。",
+        "body": "Circle推出了新工具，旨在扩大USDC在AI代理支付场景中的使用。该工具允许AI代理持有钱包、发现所需服务，并在多个区块链网络上执行可编程USDC支付。这表明，在不需要人工每次手动处理支付流程的情况下，代理型服务与链上支付可以实现连接。其背景是Circle正推动将稳定币USDC应用于自动化支付流程。未来，这类工具将作为AI代理与区块链支付基础设施结合的案例受到关注。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "Circle impulsa USDC en herramientas de pago para agentes de IA",
+        "excerpt": "Circle presentó herramientas de pago para agentes de IA que permiten tener billeteras, descubrir servicios y hacer pagos USDC programables en blockchains.",
+        "body": "Circle presentó nuevas herramientas para ampliar el uso de USDC en pagos de agentes de IA. Las herramientas están diseñadas para que los agentes de IA puedan mantener billeteras, descubrir servicios necesarios y ejecutar pagos programables en USDC a través de varias redes blockchain. La medida muestra cómo los servicios basados en agentes y los pagos on-chain pueden conectarse sin que una persona gestione manualmente cada paso del pago. El contexto es el impulso de Circle para aplicar su stablecoin USDC a flujos de pago automatizados. Estas herramientas serán observadas como un ejemplo del vínculo entre agentes de IA e infraestructura de pagos blockchain. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Circle amplia uso do USDC em ferramentas de pagamento para IA",
+        "excerpt": "A Circle lançou ferramentas de pagamento para agentes de IA, permitindo carteiras, descoberta de serviços e pagamentos programáveis em USDC em blockchains.",
+        "body": "A Circle lançou novas ferramentas para ampliar o uso do USDC em pagamentos feitos por agentes de IA. As ferramentas foram criadas para permitir que agentes de IA mantenham carteiras, descubram serviços necessários e executem pagamentos programáveis em USDC em várias redes blockchain. A iniciativa mostra como serviços baseados em agentes e pagamentos on-chain podem ser conectados sem que uma pessoa processe manualmente cada etapa do pagamento. O contexto é o movimento da Circle para aplicar a stablecoin USDC a fluxos de pagamento automatizados. As ferramentas devem ser acompanhadas como um exemplo da aproximação entre agentes de IA e infraestrutura de pagamentos blockchain. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Circle erweitert USDC-Einsatz in Zahlungstools für KI-Agenten",
+        "excerpt": "Circle stellt Zahlungstools für KI-Agenten vor, die Wallets, Service-Erkennung und programmierbare USDC-Zahlungen über Blockchains ermöglichen.",
+        "body": "Circle hat neue Tools vorgestellt, um den Einsatz von USDC bei Zahlungen durch KI-Agenten auszuweiten. Die Tools sollen es KI-Agenten ermöglichen, Wallets zu halten, benötigte Dienste zu entdecken und programmierbare USDC-Zahlungen über mehrere Blockchain-Netzwerke hinweg auszuführen. Damit wird sichtbar, wie agentenbasierte Dienste und On-Chain-Zahlungen verbunden werden können, ohne dass eine Person jeden Zahlungsschritt manuell abwickelt. Hintergrund ist Circles Vorstoß, den Stablecoin USDC in automatisierte Zahlungsabläufe einzubinden. Die Tools dürften als Beispiel für die Schnittstelle zwischen KI-Agenten und Blockchain-Zahlungsinfrastruktur beachtet werden. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Circle étend l’usage de l’USDC aux paiements des agents IA",
+        "excerpt": "Circle lance des outils de paiement pour agents IA, avec portefeuilles, découverte de services et paiements USDC programmables sur blockchains.",
+        "body": "Circle a lancé de nouveaux outils afin d’étendre l’usage de l’USDC dans les paiements réalisés par des agents IA. Ces outils sont conçus pour permettre aux agents IA de détenir des portefeuilles, de découvrir les services nécessaires et d’exécuter des paiements programmables en USDC sur plusieurs réseaux blockchain. Cette initiative montre comment des services fondés sur des agents et des paiements on-chain peuvent être reliés sans qu’une personne traite manuellement chaque étape du paiement. Elle s’inscrit dans la volonté de Circle d’appliquer le stablecoin USDC aux flux de paiement automatisés. Ces outils seront suivis comme un exemple du lien entre agents IA et infrastructure de paiement blockchain. Source : cointelegraph.com."
+      },
+      "ar": {
+        "title": "Circle توسع استخدام USDC في أدوات دفع وكلاء الذكاء الاصطناعي",
+        "excerpt": "أطلقت Circle أدوات دفع لوكلاء الذكاء الاصطناعي تتيح امتلاك محافظ واكتشاف الخدمات وتنفيذ مدفوعات USDC مبرمجة عبر شبكات بلوكتشين.",
+        "body": "أطلقت Circle أدوات جديدة لتوسيع استخدام USDC في مدفوعات وكلاء الذكاء الاصطناعي. صُممت هذه الأدوات لتمكين وكلاء الذكاء الاصطناعي من امتلاك محافظ، واكتشاف الخدمات المطلوبة، وتنفيذ مدفوعات USDC قابلة للبرمجة عبر عدة شبكات بلوكتشين. وتوضح الخطوة كيف يمكن ربط الخدمات القائمة على الوكلاء بالمدفوعات على السلسلة من دون أن يتولى شخص معالجة كل خطوة دفع يدويا. ويأتي ذلك ضمن توجه Circle لتطبيق العملة المستقرة USDC في تدفقات الدفع المؤتمتة. ومن المتوقع أن تُتابع هذه الأدوات كحالة تربط بين وكلاء الذكاء الاصطناعي وبنية مدفوعات البلوكتشين. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Circle ने AI एजेंट पेमेंट टूल्स में USDC उपयोग बढ़ाया",
+        "excerpt": "Circle ने AI एजेंटों के लिए पेमेंट टूल्स पेश किए, जिनसे वॉलेट रखने, सेवाएं खोजने और ब्लॉकचेन पर प्रोग्रामेबल USDC भुगतान करने की सुविधा मिलती है।",
+        "body": "Circle ने AI एजेंट भुगतान में USDC के उपयोग को बढ़ाने के लिए नए टूल्स पेश किए हैं। ये टूल्स AI एजेंटों को वॉलेट रखने, जरूरी सेवाएं खोजने और कई ब्लॉकचेन नेटवर्क पर प्रोग्रामेबल USDC भुगतान करने में सक्षम बनाने के लिए डिजाइन किए गए हैं। यह कदम दिखाता है कि हर भुगतान चरण को व्यक्ति द्वारा मैन्युअल रूप से संभाले बिना एजेंट-आधारित सेवाओं और ऑन-चेन भुगतान को जोड़ा जा सकता है। पृष्ठभूमि में Circle का USDC स्टेबलकॉइन को स्वचालित भुगतान प्रवाह में लागू करने का प्रयास है। आगे ये टूल्स AI एजेंटों और ब्लॉकचेन भुगतान अवसंरचना के मिलन के उदाहरण के रूप में देखे जाएंगे। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Circle perluas USDC di alat pembayaran agen AI",
+        "excerpt": "Circle merilis alat pembayaran untuk agen AI yang memungkinkan dompet, penemuan layanan, dan pembayaran USDC terprogram di jaringan blockchain.",
+        "body": "Circle merilis alat baru untuk memperluas penggunaan USDC dalam pembayaran agen AI. Alat ini dirancang agar agen AI dapat memiliki dompet, menemukan layanan yang dibutuhkan, dan menjalankan pembayaran USDC terprogram di berbagai jaringan blockchain. Langkah ini menunjukkan bagaimana layanan berbasis agen dan pembayaran on-chain dapat terhubung tanpa seseorang harus menangani setiap tahap pembayaran secara manual. Latar belakangnya adalah dorongan Circle untuk menerapkan stablecoin USDC ke alur pembayaran otomatis. Ke depan, alat ini akan diperhatikan sebagai contoh pertemuan antara agen AI dan infrastruktur pembayaran blockchain. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "31bb2bd2d5c5",
     "slug": "australia-plans-capital-gains-tax-changes-affecting-crypto-i-150955",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Woomi Hope Foundation Gelar Kamp Karier untuk Anak Tentara, Polisi, dan Pemadam yang Gugur Bertugas",
         "excerpt": "Woomi Hope Foundation mengadakan Heroes Family Vision Camp pada tanggal 9-10 di kawasan Dongdaemun, memberi eksplorasi karier dan mentoring bagi 18 remaja anak tentara, polisi, dan pemadam yang gugur atau wafat saat bertugas.",
         "body": "Woomi Hope Foundation mengadakan “Heroes Family Vision Camp” pada tanggal 9-10 di kawasan Dongdaemun untuk anak-anak tentara, polisi, dan petugas pemadam kebakaran yang gugur atau wafat saat menjalankan tugas. Sebanyak 18 remaja mengikuti kamp ini, dengan program yang berfokus pada pemberian kesempatan eksplorasi karier dan mentoring. Selama kamp, para peserta memiliki waktu untuk melihat bidang minat mereka dan memikirkan arah karier masa depan secara lebih konkret. Kegiatan yayasan ini bermakna sebagai program dukungan pendidikan bagi anak-anak keluarga yang ditinggalkan oleh mereka yang mengabdi untuk negara dan masyarakat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "717c8dbfd1ff",
-    "slug": "속보-불장에-국내증시-시가총액-사상-처음-7000조원-돌파-668899",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T01:15:27.077Z",
-    "updatedAt": "2026-05-11T01:15:27.077Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042975",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042975",
-    "titleFingerprint": "47b8e78cefcfa1a62cb7aadc3a4cb26524b54d16",
-    "dedupKeys": [
-      "717c8dbfd1ffd76f1b71752cb6338bd748dc59c5",
-      "47b8e78cefcfa1a62cb7aadc3a4cb26524b54d16",
-      "05f272b40dbbff70d7a1635d049ddf8d4ac8ffcc"
-    ],
-    "imageUrl": "/images/articles/717c8dbfd1ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국내증시 시가총액 7000조원 첫 돌파, 불장 속 사상 최대 기록",
-        "excerpt": "국내증시가 불장 흐름 속에서 사상 처음으로 시가총액 7000조원을 넘어섰다고 mk.co.kr이 보도했다. 시장 규모 확대가 핵심이다.",
-        "body": "국내증시가 이른바 ‘불장’ 흐름 속에서 사상 처음으로 시가총액 7000조원을 돌파했다. 언제 기록됐는지와 세부 종목별 기여도는 원문에 제시되지 않았지만, 핵심은 국내 주식시장 전체 가치가 처음으로 7000조원 선을 넘어섰다는 점이다. 이번 기록은 강세장 분위기 속에서 국내증시의 외형이 사상 최대 수준으로 커졌음을 보여준다. 시장 참여자들에게는 국내 주식시장 규모 확대를 확인하는 지표로 해석될 수 있다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "South Korea Stock Market Cap Tops 7,000 Trillion Won for First Time",
-        "excerpt": "South Korea’s stock market capitalization exceeded 7,000 trillion won for the first time amid a bull market, according to mk.co.kr.",
-        "body": "South Korea’s domestic stock market has surpassed 7,000 trillion won in total market capitalization for the first time in history amid what local media described as a bull market. The original report did not provide the exact timing of the milestone or a breakdown by individual stocks, but the central fact is that the combined value of listed shares in the Korean market crossed the 7,000 trillion won threshold for the first time. The record indicates that the overall size of the domestic equity market has reached an all-time high during the strong market phase. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "韓国株式市場の時価総額、強気相場で初の7000兆ウォン突破",
-        "excerpt": "韓国の国内株式市場は強気相場の流れの中で、時価総額が史上初めて7000兆ウォンを超えたとmk.co.krが報じた。",
-        "body": "韓国の国内株式市場は、いわゆる強気相場の流れの中で、時価総額が史上初めて7000兆ウォンを突破した。原文では記録された具体的な時点や個別銘柄ごとの寄与度は示されていないが、重要なのは韓国株式市場全体の価値が初めて7000兆ウォンの水準を超えたという点だ。今回の記録は、堅調な市場環境の中で国内株式市場の規模が過去最大水準に拡大したことを示している。出典: mk.co.kr。"
-      },
-      "zh": {
-        "title": "韩国股市总市值首次突破7000万亿韩元，牛市行情创纪录",
-        "excerpt": "据mk.co.kr报道，韩国国内股市在牛市行情中总市值首次超过7000万亿韩元，市场整体规模扩大成为焦点。",
-        "body": "韩国国内股市在所谓牛市行情中，总市值史上首次突破7000万亿韩元。原文未说明这一纪录出现的具体时间，也未披露各个股票的贡献明细，但核心事实是韩国股票市场整体价值首次跨过7000万亿韩元关口。此次纪录显示，在强势市场氛围下，韩国国内股市的整体规模已扩大至历史最高水平。对市场参与者而言，这一数据可被视为确认韩国股票市场规模扩大的指标。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Capitalización bursátil surcoreana supera 7.000 billones de wones por primera vez",
-        "excerpt": "La bolsa surcoreana superó por primera vez los 7.000 billones de wones en capitalización en medio de un mercado alcista, según mk.co.kr.",
-        "body": "El mercado bursátil nacional de Corea del Sur superó por primera vez en su historia los 7.000 billones de wones de capitalización total en medio de una fase descrita como alcista. El informe original no detalló el momento exacto del hito ni la contribución de acciones individuales, pero el dato central es que el valor combinado del mercado accionario coreano cruzó por primera vez ese umbral. El récord muestra que el tamaño total del mercado bursátil nacional alcanzó un máximo histórico durante el avance del mercado. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Bolsa sul-coreana supera 7.000 trilhões de won em valor de mercado pela primeira vez",
-        "excerpt": "O mercado acionário da Coreia do Sul ultrapassou pela primeira vez 7.000 trilhões de won em valor de mercado durante uma fase de alta, segundo mk.co.kr.",
-        "body": "O mercado acionário doméstico da Coreia do Sul superou pela primeira vez na história a marca de 7.000 trilhões de won em capitalização total, em meio a um movimento descrito como mercado em alta. A reportagem original não informou o momento exato do recorde nem a contribuição de ações específicas, mas o ponto central é que o valor agregado das ações listadas no país ultrapassou esse patamar pela primeira vez. O registro indica que o tamanho total da bolsa sul-coreana chegou a um nível histórico máximo. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Südkoreas Börsenwert überschreitet erstmals 7.000 Billionen Won im Bullenmarkt",
-        "excerpt": "Die Marktkapitalisierung des südkoreanischen Aktienmarkts hat laut mk.co.kr in einem Bullenmarkt erstmals 7.000 Billionen Won überschritten.",
-        "body": "Der südkoreanische Aktienmarkt hat in einer als Bullenmarkt beschriebenen Phase erstmals eine gesamte Marktkapitalisierung von 7.000 Billionen Won überschritten. Der ursprüngliche Bericht nannte weder den genauen Zeitpunkt des Rekords noch eine Aufschlüsselung nach einzelnen Aktien. Entscheidend ist jedoch, dass der Gesamtwert des heimischen Aktienmarkts in Südkorea erstmals diese Schwelle erreicht hat. Der Rekord zeigt, dass die Größe des Marktes während der starken Marktphase auf ein historisches Hoch gestiegen ist. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "La capitalisation boursière sud-coréenne dépasse pour la première fois 7 000 billions de wons",
-        "excerpt": "Le marché boursier sud-coréen a franchi pour la première fois 7 000 billions de wons de capitalisation dans un marché haussier, selon mk.co.kr.",
-        "body": "Le marché boursier national sud-coréen a dépassé pour la première fois de son histoire 7 000 billions de wons de capitalisation totale, dans un contexte décrit comme haussier. Le rapport original ne précise pas le moment exact de ce seuil ni la contribution des différentes actions, mais le fait essentiel est que la valeur globale du marché actions coréen a franchi ce niveau inédit. Ce record montre que la taille totale du marché boursier national a atteint un plus haut historique pendant cette phase de hausse. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "القيمة السوقية للأسهم الكورية تتجاوز 7000 تريليون وون لأول مرة وسط موجة صعود",
-        "excerpt": "تجاوزت القيمة السوقية لسوق الأسهم المحلية في كوريا الجنوبية 7000 تريليون وون لأول مرة وسط موجة صعود، وفق ما ذكره mk.co.kr.",
-        "body": "تجاوزت سوق الأسهم المحلية في كوريا الجنوبية للمرة الأولى في تاريخها مستوى 7000 تريليون وون من حيث القيمة السوقية الإجمالية، وسط ما وصف بأنه موجة صعود قوية. ولم يذكر التقرير الأصلي التوقيت الدقيق لهذا الإنجاز أو مساهمة الأسهم الفردية فيه، لكن الحقيقة الأساسية هي أن القيمة المجمعة للأسهم المدرجة في السوق الكورية تخطت هذا المستوى لأول مرة. ويشير هذا الرقم إلى أن حجم سوق الأسهم المحلية وصل إلى مستوى قياسي تاريخي خلال مرحلة القوة السوقية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया शेयर बाजार मूल्य पहली बार 7,000 ट्रिलियन वॉन के पार",
-        "excerpt": "mk.co.kr के अनुसार, तेजी के बाजार माहौल में दक्षिण कोरिया के घरेलू शेयर बाजार का कुल बाजार पूंजीकरण पहली बार 7,000 ट्रिलियन वॉन से ऊपर गया।",
-        "body": "दक्षिण कोरिया के घरेलू शेयर बाजार ने तेजी के बाजार माहौल के बीच इतिहास में पहली बार कुल बाजार पूंजीकरण के रूप में 7,000 ट्रिलियन वॉन का स्तर पार किया। मूल रिपोर्ट में इस रिकॉर्ड का सटीक समय या अलग-अलग शेयरों के योगदान का विवरण नहीं दिया गया, लेकिन मुख्य तथ्य यह है कि कोरियाई शेयर बाजार का संयुक्त मूल्य पहली बार इस सीमा से ऊपर गया। यह रिकॉर्ड दिखाता है कि मजबूत बाजार स्थिति के दौरान घरेलू शेयर बाजार का आकार ऐतिहासिक उच्च स्तर पर पहुंचा। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Kapitalisasi Pasar Saham Korea Selatan Tembus 7.000 Triliun Won untuk Pertama Kali",
-        "excerpt": "Pasar saham domestik Korea Selatan menembus kapitalisasi 7.000 triliun won untuk pertama kali di tengah tren bullish, menurut mk.co.kr.",
-        "body": "Pasar saham domestik Korea Selatan untuk pertama kalinya dalam sejarah melampaui kapitalisasi pasar total 7.000 triliun won di tengah kondisi yang disebut sebagai pasar bullish. Laporan asli tidak menyebutkan waktu tepat pencapaian tersebut atau rincian kontribusi tiap saham, tetapi fakta utamanya adalah nilai gabungan pasar saham Korea melewati ambang 7.000 triliun won untuk pertama kali. Rekor ini menunjukkan bahwa ukuran pasar saham domestik telah mencapai level tertinggi sepanjang sejarah selama fase penguatan pasar. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "7359c65e4ac6",
-    "slug": "서울숲에-호반정원-조성호반그룹-가족-참여-봉사활동-구슬땀-982401",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T01:14:42.275Z",
-    "updatedAt": "2026-05-11T01:14:42.275Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12042983",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12042983",
-    "titleFingerprint": "f1adc3c8399b034a3e0c18eb766e9a936687a092",
-    "dedupKeys": [
-      "7359c65e4ac60017ea454058288f1c5bbd7bcd37",
-      "f1adc3c8399b034a3e0c18eb766e9a936687a092",
-      "369b0a06c1c7b5599b0c0f0ee6886aa3e47a1575"
-    ],
-    "imageUrl": "/images/articles/7359c65e4ac6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "호반그룹, 서울숲에 ‘호반정원’ 조성…가족 참여 봉사활동 진행",
-        "excerpt": "호반그룹은 가정의 달을 맞아 임직원과 가족 100여 명이 참여한 봉사활동으로 2026 서울국제정원박람회에서 서울숲 도심 정원을 조성했다.",
-        "body": "호반그룹이 가정의 달을 맞아 임직원과 가족 100여 명이 참여한 봉사활동을 통해 서울숲에 ‘호반정원’을 조성했다. 이번 활동은 ‘2026 서울국제정원박람회’ 참가의 일환으로 진행됐으며, 도심 속 시민들이 이용할 수 있는 정원 조성에 초점을 맞췄다. 호반그룹은 임직원뿐 아니라 가족이 함께 참여하는 방식으로 환경과 지역사회 기여의 의미를 더했다. 김대헌 호반그룹 사장은 자연과 사람을 잇는 환경·사회 기여를 확대하겠다는 뜻을 밝혔다. 이번 정원 조성은 기업의 사회공헌 활동이 생활권 녹지와 연결되는 사례로 평가된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hoban Group Builds ‘Hoban Garden’ at Seoul Forest with Family Volunteers",
-        "excerpt": "Hoban Group joined the 2026 Seoul International Garden Show by creating an urban garden at Seoul Forest with about 100 employees and family members in May.",
-        "body": "Hoban Group created the “Hoban Garden” at Seoul Forest through a volunteer activity joined by about 100 employees and family members during Korea’s Family Month. The project was carried out as part of the group’s participation in the 2026 Seoul International Garden Show and focused on building an urban garden that citizens can use in the city. By involving not only employees but also their families, Hoban Group added meaning to its environmental and community contribution. President Kim Dae-heon said the group would expand environmental and social contributions that connect nature and people. The garden project is presented as an example of corporate social contribution linked to everyday green space. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "湖畔グループ、ソウルの森に「湖畔庭園」造成…家族参加の奉仕活動",
-        "excerpt": "湖畔グループは家庭の月に合わせ、役職員と家族約100人が参加し、2026ソウル国際庭園博覧会でソウルの森に都心庭園を造成した。",
-        "body": "湖畔グループは家庭の月に合わせ、役職員と家族約100人が参加した奉仕活動を通じて、ソウルの森に「湖畔庭園」を造成した。今回の活動は「2026ソウル国際庭園博覧会」への参加の一環として行われ、都心の中で市民が利用できる庭園づくりに焦点を当てた。湖畔グループは役職員だけでなく家族も共に参加する形により、環境と地域社会への貢献の意味を加えた。金大憲社長は、自然と人をつなぐ環境・社会貢献を拡大する考えを示した。今回の庭園造成は、企業の社会貢献活動が生活圏の緑地と結び付く事例といえる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "湖畔集团在首尔林打造“湖畔庭园” 家庭志愿活动同步进行",
-        "excerpt": "湖畔集团在家庭月之际，组织约100名员工及家属参与志愿活动，并在2026首尔国际庭园博览会中于首尔林打造城市庭园。",
-        "body": "湖畔集团在家庭月之际，通过约100名员工及家属参与的志愿活动，在首尔林打造了“湖畔庭园”。此次活动作为参加“2026首尔国际庭园博览会”的一环展开，重点是在城市中建设市民可使用的庭园。湖畔集团不仅让员工参与，也让家属一同加入，从而为环境和地区社会贡献增添意义。湖畔集团社长金大宪表示，将扩大连接自然与人的环境、社会贡献。此次庭园建设被视为企业社会贡献活动与生活圈绿地相连接的案例。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "Hoban Group crea el ‘Jardín Hoban’ en Seoul Forest con familias voluntarias",
-        "excerpt": "Hoban Group participó en la Exposición Internacional de Jardines de Seúl 2026 creando un jardín urbano en Seoul Forest con unos 100 empleados y familiares.",
-        "body": "Hoban Group creó el “Jardín Hoban” en Seoul Forest mediante una actividad de voluntariado en la que participaron unos 100 empleados y familiares durante el Mes de la Familia. La iniciativa se realizó como parte de su participación en la Exposición Internacional de Jardines de Seúl 2026 y se centró en formar un jardín urbano que pueda ser utilizado por los ciudadanos. Al incorporar no solo a empleados sino también a sus familias, el grupo reforzó el sentido de contribución ambiental y social. El presidente Kim Dae-heon afirmó que ampliará las contribuciones ambientales y sociales que conectan la naturaleza con las personas. El proyecto muestra un caso de responsabilidad social empresarial vinculado a espacios verdes cotidianos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hoban Group cria ‘Jardim Hoban’ no Seoul Forest com voluntariado familiar",
-        "excerpt": "O Hoban Group participou da Exposição Internacional de Jardins de Seul 2026 ao criar um jardim urbano no Seoul Forest com cerca de 100 funcionários e familiares.",
-        "body": "O Hoban Group criou o “Jardim Hoban” no Seoul Forest por meio de uma ação voluntária com a participação de cerca de 100 funcionários e familiares durante o Mês da Família. A atividade ocorreu como parte da participação do grupo na Exposição Internacional de Jardins de Seul 2026 e teve como foco a criação de um jardim urbano que possa ser usado pelos cidadãos. Ao envolver não apenas funcionários, mas também suas famílias, o Hoban Group acrescentou significado à contribuição ambiental e comunitária. O presidente Kim Dae-heon afirmou que ampliará as contribuições ambientais e sociais que conectam natureza e pessoas. A iniciativa é um exemplo de ação social corporativa ligada a áreas verdes do cotidiano. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hoban Group gestaltet ‘Hoban Garden’ im Seoul Forest mit Familien-Freiwilligen",
-        "excerpt": "Die Hoban Group nahm an der Seoul International Garden Show 2026 teil und schuf im Seoul Forest mit rund 100 Mitarbeitenden und Familienmitgliedern einen Stadtgarten.",
-        "body": "Die Hoban Group hat im Seoul Forest den “Hoban Garden” geschaffen. Die Freiwilligenaktion fand im Monat der Familie statt und wurde von rund 100 Mitarbeitenden und Familienmitgliedern getragen. Das Projekt war Teil der Teilnahme an der Seoul International Garden Show 2026 und konzentrierte sich auf die Anlage eines urbanen Gartens, den Bürgerinnen und Bürger in der Stadt nutzen können. Durch die Beteiligung von Familien neben den Mitarbeitenden unterstrich die Gruppe den Sinn ihres Umwelt- und Gemeinwohlbeitrags. Präsident Kim Dae-heon erklärte, man wolle Beiträge ausbauen, die Natur und Menschen verbinden. Das Vorhaben gilt als Beispiel dafür, wie unternehmerisches Engagement mit wohnortnahen Grünflächen verknüpft werden kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hoban Group aménage le ‘Jardin Hoban’ à Seoul Forest avec des familles bénévoles",
-        "excerpt": "Hoban Group a participé à l’Exposition internationale des jardins de Séoul 2026 en créant un jardin urbain à Seoul Forest avec environ 100 salariés et proches.",
-        "body": "Hoban Group a aménagé le “Jardin Hoban” à Seoul Forest grâce à une activité bénévole réunissant environ 100 salariés et membres de leurs familles pendant le Mois de la famille. L’action s’inscrit dans la participation du groupe à l’Exposition internationale des jardins de Séoul 2026 et vise la création d’un jardin urbain accessible aux citoyens. En associant les familles aux salariés, Hoban Group a renforcé la portée de sa contribution environnementale et sociale. Le président Kim Dae-heon a indiqué vouloir élargir les actions qui relient la nature et les personnes. Ce projet illustre une initiative de responsabilité sociale d’entreprise liée aux espaces verts du quotidien. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مجموعة هوبان تنشئ ‘حديقة هوبان’ في غابة سيول بمشاركة عائلية تطوعية",
-        "excerpt": "شاركت مجموعة هوبان في معرض سيول الدولي للحدائق 2026 عبر إنشاء حديقة حضرية في غابة سيول بمشاركة نحو 100 موظف وأفراد من عائلاتهم.",
-        "body": "أنشأت مجموعة هوبان “حديقة هوبان” في غابة سيول من خلال نشاط تطوعي شارك فيه نحو 100 من الموظفين وأفراد عائلاتهم خلال شهر الأسرة. وجاءت هذه المبادرة ضمن مشاركة المجموعة في “معرض سيول الدولي للحدائق 2026”، وركزت على إنشاء حديقة حضرية يمكن للمواطنين استخدامها داخل المدينة. ومن خلال إشراك العائلات إلى جانب الموظفين، أضافت المجموعة معنى أوسع لمساهمتها البيئية والمجتمعية. وقال الرئيس كيم داي-هيون إن المجموعة ستوسع مساهماتها البيئية والاجتماعية التي تربط الطبيعة بالناس. ويُعد إنشاء الحديقة مثالاً على ارتباط المسؤولية الاجتماعية للشركات بالمساحات الخضراء في الحياة اليومية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "होबान ग्रुप ने Seoul Forest में ‘Hoban Garden’ बनाया, परिवारों ने किया स्वयंसेवा कार्य",
-        "excerpt": "होबान ग्रुप ने मई में करीब 100 कर्मचारियों और परिवारजनों की भागीदारी से 2026 Seoul International Garden Show के तहत Seoul Forest में शहरी उद्यान बनाया।",
-        "body": "होबान ग्रुप ने परिवार माह के अवसर पर करीब 100 कर्मचारियों और उनके परिवारजनों की भागीदारी वाले स्वयंसेवा कार्यक्रम के माध्यम से Seoul Forest में “Hoban Garden” बनाया। यह गतिविधि “2026 Seoul International Garden Show” में समूह की भागीदारी के हिस्से के रूप में की गई और इसका केंद्र शहर के भीतर नागरिकों के उपयोग के लिए एक शहरी उद्यान तैयार करना था। कर्मचारियों के साथ परिवारों को शामिल कर समूह ने पर्यावरण और समुदाय के प्रति योगदान का अर्थ और मजबूत किया। अध्यक्ष किम डे-ह्योन ने कहा कि समूह प्रकृति और लोगों को जोड़ने वाले पर्यावरणीय और सामाजिक योगदान का विस्तार करेगा। यह उद्यान परियोजना कॉरपोरेट सामाजिक योगदान को दैनिक जीवन के हरित क्षेत्र से जोड़ने का उदाहरण है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hoban Group Bangun ‘Hoban Garden’ di Seoul Forest Lewat Relawan Keluarga",
-        "excerpt": "Hoban Group ikut Seoul International Garden Show 2026 dengan membangun taman kota di Seoul Forest bersama sekitar 100 karyawan dan anggota keluarga pada bulan keluarga.",
-        "body": "Hoban Group membangun “Hoban Garden” di Seoul Forest melalui kegiatan sukarela yang diikuti sekitar 100 karyawan dan anggota keluarga pada bulan keluarga. Kegiatan ini dilakukan sebagai bagian dari partisipasi grup dalam “Seoul International Garden Show 2026” dan berfokus pada pembangunan taman kota yang dapat digunakan warga. Dengan melibatkan bukan hanya karyawan, tetapi juga keluarga mereka, Hoban Group menambahkan makna pada kontribusi lingkungan dan sosial bagi komunitas. Presiden Kim Dae-heon menyatakan bahwa grup akan memperluas kontribusi lingkungan dan sosial yang menghubungkan alam dengan manusia. Pembangunan taman ini menjadi contoh kegiatan tanggung jawab sosial perusahaan yang terhubung dengan ruang hijau dalam kehidupan sehari-hari. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0649538538d9",
-    "slug": "ai-서브프라임-위기는-시작됐다요금제-올린-앤스로픽의-속사정-475740",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T00:04:13.223Z",
-    "updatedAt": "2026-05-11T00:04:13.223Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202604293775i",
-    "canonicalUrl": "https://www.hankyung.com/article/202604293775i",
-    "titleFingerprint": "5c385aa42b02978cab694da39e9fb3fa2ef0aa10",
-    "dedupKeys": [
-      "0649538538d999ddcb177ea0f6841088b54fca3e",
-      "5c385aa42b02978cab694da39e9fb3fa2ef0aa10",
-      "c8b693e4c872539a5e261fa02243e78ac8cb177b"
-    ],
-    "imageUrl": "/images/articles/0649538538d9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 서브프라임 위기 논란, 요금제 올린 앤스로픽의 배경",
-        "excerpt": "hankyung.com은 앤스로픽의 요금제 인상을 계기로 ‘AI 서브프라임 위기는 시작됐다’는 문제 제기와 그 속사정을 다뤘다.",
-        "body": "hankyung.com은 ‘AI 서브프라임 위기는 시작됐다’는 표현을 앞세워 앤스로픽이 요금제를 올린 배경을 보도했다. 보도는 인공지능 서비스 시장에서 요금 정책 변화가 단순한 가격 조정이 아니라 기업의 비용 구조와 사업 지속성에 대한 우려와 연결돼 있음을 짚었다. 앤스로픽의 요금제 인상은 AI 서비스 이용자와 업계가 가격 부담, 수익성, 성장 속도를 함께 보게 만드는 계기가 됐다. 향후 AI 기업들의 유료화 전략과 시장 신뢰가 더 큰 쟁점이 될 수 있다. 출처: hankyung.com 인용."
-      },
-      "en": {
-        "title": "AI Subprime Crisis Debate: Why Anthropic Raised Its Plans",
-        "excerpt": "hankyung.com reported on Anthropic’s plan price increase and the issue framed as “the AI subprime crisis has begun,” explaining the context behind the move.",
-        "body": "hankyung.com reported on Anthropic’s price increase for its plans under the headline idea that “the AI subprime crisis has begun.” The report framed the change in AI service pricing as more than a simple price adjustment, linking it to concerns over cost structures and business sustainability in the artificial intelligence market. Anthropic’s plan increase has prompted users and the industry to look more closely at pricing pressure, profitability, and growth pace. Going forward, paid AI strategies and market trust may become larger issues. Source: cited from hankyung.com."
-      },
-      "ja": {
-        "title": "AIサブプライム危機論争、料金プランを上げたAnthropicの背景",
-        "excerpt": "hankyung.comは、Anthropicの料金プラン引き上げを機に「AIサブプライム危機は始まった」とする問題提起と背景を報じた。",
-        "body": "hankyung.comは、「AIサブプライム危機は始まった」という表現を掲げ、Anthropicが料金プランを引き上げた背景を報じた。報道は、人工知能サービス市場における料金政策の変化が単なる価格改定ではなく、企業のコスト構造や事業の持続性への懸念と結びついている点を指摘した。Anthropicの料金引き上げは、AIサービス利用者と業界が価格負担、収益性、成長速度を同時に見る契機となった。今後、AI企業の有料化戦略と市場の信頼がより大きな争点になり得る。出典：hankyung.com引用。"
-      },
-      "zh": {
-        "title": "AI次贷危机争议升温，Anthropic上调套餐价格的背景",
-        "excerpt": "hankyung.com报道称，Anthropic上调套餐价格引发“AI次贷危机已经开始”的讨论，并梳理了背后的原因。",
-        "body": "hankyung.com以“AI次贷危机已经开始”的表述报道了Anthropic上调套餐价格的背景。报道指出，人工智能服务市场中的收费政策变化并不只是单纯调价，还与企业成本结构和业务可持续性的担忧相关。Anthropic提高套餐价格，使AI服务用户和行业开始同时关注价格负担、盈利能力与增长速度。未来，AI企业的付费化策略和市场信任可能成为更大的议题。来源：引用hankyung.com。"
-      },
-      "es": {
-        "title": "Crisis subprime de la IA: claves del alza de planes de Anthropic",
-        "excerpt": "hankyung.com informó sobre el aumento de planes de Anthropic y el planteamiento de que “la crisis subprime de la IA ha comenzado”.",
-        "body": "hankyung.com informó sobre el aumento de precios de los planes de Anthropic bajo la idea de que “la crisis subprime de la IA ha comenzado”. La nota presentó el cambio en las tarifas de los servicios de inteligencia artificial como algo más que un simple ajuste de precios, al vincularlo con preocupaciones sobre la estructura de costos y la sostenibilidad del negocio. El alza de Anthropic llevó a usuarios y al sector a observar con más atención la carga de precios, la rentabilidad y el ritmo de crecimiento. En adelante, las estrategias de pago de las empresas de IA y la confianza del mercado podrían ganar peso. Fuente: citado de hankyung.com."
-      },
-      "pt": {
-        "title": "Crise subprime da IA: por que a Anthropic elevou seus planos",
-        "excerpt": "O hankyung.com informou que a alta nos planos da Anthropic reacendeu a tese de que “a crise subprime da IA começou”, explicando o contexto.",
-        "body": "O hankyung.com noticiou o aumento dos preços dos planos da Anthropic a partir da expressão de que “a crise subprime da IA começou”. A reportagem tratou a mudança na política de preços dos serviços de inteligência artificial como mais do que um simples reajuste, relacionando-a a preocupações sobre estrutura de custos e sustentabilidade dos negócios. A alta da Anthropic levou usuários e o setor a observar melhor a pressão de preços, a rentabilidade e o ritmo de crescimento. Daqui em diante, estratégias pagas de empresas de IA e a confiança do mercado podem se tornar questões maiores. Fonte: citado de hankyung.com."
-      },
-      "de": {
-        "title": "KI-Subprime-Krise im Fokus: Warum Anthropic seine Tarife erhöhte",
-        "excerpt": "hankyung.com berichtete über Anthropics Tariferhöhung und die These, dass „die KI-Subprime-Krise begonnen hat“, samt Hintergrund der Entscheidung.",
-        "body": "hankyung.com berichtete über Anthropics Preiserhöhung bei seinen Tarifen unter der Formulierung, dass „die KI-Subprime-Krise begonnen hat“. Der Bericht ordnete die Änderung der Preispolitik für KI-Dienste nicht nur als einfache Anpassung ein, sondern verband sie mit Sorgen über Kostenstrukturen und geschäftliche Nachhaltigkeit. Die Tariferhöhung von Anthropic veranlasst Nutzer und Branche, Preisdruck, Profitabilität und Wachstumstempo genauer zu betrachten. Künftig könnten Bezahlstrategien von KI-Unternehmen und das Vertrauen des Marktes zu größeren Themen werden. Quelle: zitiert nach hankyung.com."
-      },
-      "fr": {
-        "title": "Crise subprime de l’IA : les raisons de la hausse des offres Anthropic",
-        "excerpt": "hankyung.com a rapporté la hausse des offres d’Anthropic et l’alerte selon laquelle « la crise subprime de l’IA a commencé ».",
-        "body": "hankyung.com a rapporté la hausse des prix des offres d’Anthropic autour de l’idée que « la crise subprime de l’IA a commencé ». L’article présente l’évolution tarifaire des services d’intelligence artificielle comme plus qu’un simple ajustement de prix, en la reliant aux inquiétudes sur les structures de coûts et la durabilité des modèles économiques. La hausse d’Anthropic amène les utilisateurs et le secteur à examiner de plus près la pression sur les prix, la rentabilité et le rythme de croissance. À l’avenir, les stratégies payantes des entreprises d’IA et la confiance du marché pourraient devenir des enjeux plus importants. Source : cité de hankyung.com."
-      },
-      "ar": {
-        "title": "أزمة الرهن الثانوي في الذكاء الاصطناعي وخلفية رفع أسعار Anthropic",
-        "excerpt": "أفاد hankyung.com بأن رفع Anthropic لخطط الأسعار أعاد طرح عبارة «بدأت أزمة الرهن الثانوي في الذكاء الاصطناعي» وسياقها.",
-        "body": "أفاد hankyung.com بخلفية رفع Anthropic لأسعار خططها تحت عنوان أن «أزمة الرهن الثانوي في الذكاء الاصطناعي قد بدأت». وقدم التقرير تغيير سياسة التسعير في خدمات الذكاء الاصطناعي على أنه أكثر من تعديل بسيط للأسعار، إذ ربطه بالمخاوف من هيكل التكاليف واستدامة الأعمال. رفع أسعار Anthropic دفع المستخدمين والقطاع إلى النظر في عبء الأسعار والربحية وسرعة النمو معا. وفي المرحلة المقبلة، قد تصبح استراتيجيات الدفع لدى شركات الذكاء الاصطناعي وثقة السوق قضايا أكبر. المصدر: نقلا عن hankyung.com."
-      },
-      "hi": {
-        "title": "AI सबप्राइम संकट की बहस, Anthropic ने प्लान क्यों महंगे किए",
-        "excerpt": "hankyung.com ने Anthropic के प्लान महंगे करने और “AI सबप्राइम संकट शुरू हो गया है” वाली चिंता के संदर्भ को रिपोर्ट किया।",
-        "body": "hankyung.com ने “AI सबप्राइम संकट शुरू हो गया है” वाली अभिव्यक्ति के साथ Anthropic द्वारा अपने प्लान महंगे करने की पृष्ठभूमि पर रिपोर्ट किया। रिपोर्ट ने बताया कि कृत्रिम बुद्धिमत्ता सेवा बाजार में कीमत नीति का बदलाव केवल सामान्य मूल्य संशोधन नहीं है, बल्कि कंपनियों की लागत संरचना और कारोबार की टिकाऊ क्षमता से जुड़ी चिंताओं से भी जुड़ा है। Anthropic की कीमत वृद्धि ने AI सेवा उपयोगकर्ताओं और उद्योग को मूल्य बोझ, लाभप्रदता और वृद्धि की गति को साथ देखने का अवसर दिया। आगे AI कंपनियों की भुगतान रणनीति और बाजार भरोसा बड़े मुद्दे बन सकते हैं। स्रोत: hankyung.com से उद्धृत।"
-      },
-      "id": {
-        "title": "Krisis Subprime AI Disorot, Alasan Anthropic Menaikkan Paket",
-        "excerpt": "hankyung.com melaporkan kenaikan paket Anthropic dan isu bahwa “krisis subprime AI telah dimulai”, termasuk latar belakangnya.",
-        "body": "hankyung.com melaporkan latar belakang Anthropic menaikkan harga paketnya dengan ungkapan bahwa “krisis subprime AI telah dimulai”. Laporan itu menempatkan perubahan kebijakan harga layanan kecerdasan buatan bukan sekadar penyesuaian harga, melainkan terkait kekhawatiran atas struktur biaya dan keberlanjutan bisnis. Kenaikan paket Anthropic membuat pengguna layanan AI dan industri melihat lebih dekat beban harga, profitabilitas, serta laju pertumbuhan. Ke depan, strategi berbayar perusahaan AI dan kepercayaan pasar dapat menjadi isu yang lebih besar. Sumber: dikutip dari hankyung.com."
       }
     }
   }

@@ -1,0 +1,75 @@
+{
+  "id": "c6949a4020c2",
+  "slug": "circle-makes-usdc-push-into-ai-agent-payment-tools-262421",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-11T21:40:53.872Z",
+  "updatedAt": "2026-05-11T21:40:53.872Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions",
+  "titleFingerprint": "156b866acc5071fbe628cc90ffdd6c57ec66b05c",
+  "dedupKeys": [
+    "c6949a4020c26a03752abbedf3afbbb0bf6ff770",
+    "156b866acc5071fbe628cc90ffdd6c57ec66b05c",
+    "96e57f4845d90d6559a31def1b59bdcbb79aeab8"
+  ],
+  "imageUrl": "/images/articles/c6949a4020c2.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Circle, AI 에이전트 결제 도구에 USDC 활용 확대",
+      "excerpt": "Circle이 AI 에이전트용 결제 도구를 공개하며 지갑 보유, 서비스 탐색, 블록체인 간 프로그래머블 USDC 결제를 지원한다.",
+      "body": "Circle이 AI 에이전트 결제 환경에서 USDC 활용을 넓히기 위한 새 도구를 내놓았다. 이번 도구는 AI 에이전트가 지갑을 보유하고, 필요한 서비스를 찾으며, 여러 블록체인 네트워크에서 프로그래머블 USDC 결제를 실행할 수 있도록 설계됐다. 이는 사람이 직접 매번 결제 절차를 처리하지 않아도 에이전트 기반 서비스 이용과 온체인 결제가 연결될 수 있음을 보여준다. 배경에는 스테이블코인 USDC를 자동화 결제 흐름에 적용하려는 Circle의 움직임이 있다. 향후 관련 도구는 AI 에이전트와 블록체인 결제 인프라의 접점을 넓히는 사례로 주목된다. 출처: cointelegraph.com."
+    },
+    "en": {
+      "title": "Circle expands USDC use in AI agent payment tools",
+      "excerpt": "Circle has introduced payment tools for AI agents, enabling wallets, service discovery and programmable USDC payments across blockchain networks.",
+      "body": "Circle has introduced new tools aimed at expanding USDC use in AI agent payments. The tools are designed to let AI agents hold wallets, discover needed services and execute programmable USDC payments across multiple blockchain networks. The move shows how agent-based services and on-chain payments can be connected without a person manually handling every payment step. The context is Circle’s push to apply its USDC stablecoin to automated payment flows. The tools are likely to be watched as an example of how AI agents and blockchain payment infrastructure can meet. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "Circle、AIエージェント決済ツールでUSDC活用を拡大",
+      "excerpt": "CircleはAIエージェント向け決済ツールを発表し、ウォレット保有、サービス探索、複数ブロックチェーンでのUSDC決済を可能にする。",
+      "body": "Circleは、AIエージェント決済でUSDCの活用を広げるための新しいツールを発表した。このツールは、AIエージェントがウォレットを保有し、必要なサービスを見つけ、複数のブロックチェーンネットワーク上でプログラム可能なUSDC決済を実行できるよう設計されている。これにより、人が毎回決済手続きを直接処理しなくても、エージェント型サービス利用とオンチェーン決済を結び付けられることが示された。背景には、ステーブルコインUSDCを自動化された決済フローに適用しようとするCircleの動きがある。今後、このツールはAIエージェントとブロックチェーン決済インフラの接点を広げる事例として注目される。出典: cointelegraph.com。"
+    },
+    "zh": {
+      "title": "Circle扩大USDC在AI代理支付工具中的应用",
+      "excerpt": "Circle推出面向AI代理的支付工具，支持持有钱包、发现服务，并在区块链网络间进行可编程USDC支付。",
+      "body": "Circle推出了新工具，旨在扩大USDC在AI代理支付场景中的使用。该工具允许AI代理持有钱包、发现所需服务，并在多个区块链网络上执行可编程USDC支付。这表明，在不需要人工每次手动处理支付流程的情况下，代理型服务与链上支付可以实现连接。其背景是Circle正推动将稳定币USDC应用于自动化支付流程。未来，这类工具将作为AI代理与区块链支付基础设施结合的案例受到关注。来源：cointelegraph.com。"
+    },
+    "es": {
+      "title": "Circle impulsa USDC en herramientas de pago para agentes de IA",
+      "excerpt": "Circle presentó herramientas de pago para agentes de IA que permiten tener billeteras, descubrir servicios y hacer pagos USDC programables en blockchains.",
+      "body": "Circle presentó nuevas herramientas para ampliar el uso de USDC en pagos de agentes de IA. Las herramientas están diseñadas para que los agentes de IA puedan mantener billeteras, descubrir servicios necesarios y ejecutar pagos programables en USDC a través de varias redes blockchain. La medida muestra cómo los servicios basados en agentes y los pagos on-chain pueden conectarse sin que una persona gestione manualmente cada paso del pago. El contexto es el impulso de Circle para aplicar su stablecoin USDC a flujos de pago automatizados. Estas herramientas serán observadas como un ejemplo del vínculo entre agentes de IA e infraestructura de pagos blockchain. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "Circle amplia uso do USDC em ferramentas de pagamento para IA",
+      "excerpt": "A Circle lançou ferramentas de pagamento para agentes de IA, permitindo carteiras, descoberta de serviços e pagamentos programáveis em USDC em blockchains.",
+      "body": "A Circle lançou novas ferramentas para ampliar o uso do USDC em pagamentos feitos por agentes de IA. As ferramentas foram criadas para permitir que agentes de IA mantenham carteiras, descubram serviços necessários e executem pagamentos programáveis em USDC em várias redes blockchain. A iniciativa mostra como serviços baseados em agentes e pagamentos on-chain podem ser conectados sem que uma pessoa processe manualmente cada etapa do pagamento. O contexto é o movimento da Circle para aplicar a stablecoin USDC a fluxos de pagamento automatizados. As ferramentas devem ser acompanhadas como um exemplo da aproximação entre agentes de IA e infraestrutura de pagamentos blockchain. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "Circle erweitert USDC-Einsatz in Zahlungstools für KI-Agenten",
+      "excerpt": "Circle stellt Zahlungstools für KI-Agenten vor, die Wallets, Service-Erkennung und programmierbare USDC-Zahlungen über Blockchains ermöglichen.",
+      "body": "Circle hat neue Tools vorgestellt, um den Einsatz von USDC bei Zahlungen durch KI-Agenten auszuweiten. Die Tools sollen es KI-Agenten ermöglichen, Wallets zu halten, benötigte Dienste zu entdecken und programmierbare USDC-Zahlungen über mehrere Blockchain-Netzwerke hinweg auszuführen. Damit wird sichtbar, wie agentenbasierte Dienste und On-Chain-Zahlungen verbunden werden können, ohne dass eine Person jeden Zahlungsschritt manuell abwickelt. Hintergrund ist Circles Vorstoß, den Stablecoin USDC in automatisierte Zahlungsabläufe einzubinden. Die Tools dürften als Beispiel für die Schnittstelle zwischen KI-Agenten und Blockchain-Zahlungsinfrastruktur beachtet werden. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "Circle étend l’usage de l’USDC aux paiements des agents IA",
+      "excerpt": "Circle lance des outils de paiement pour agents IA, avec portefeuilles, découverte de services et paiements USDC programmables sur blockchains.",
+      "body": "Circle a lancé de nouveaux outils afin d’étendre l’usage de l’USDC dans les paiements réalisés par des agents IA. Ces outils sont conçus pour permettre aux agents IA de détenir des portefeuilles, de découvrir les services nécessaires et d’exécuter des paiements programmables en USDC sur plusieurs réseaux blockchain. Cette initiative montre comment des services fondés sur des agents et des paiements on-chain peuvent être reliés sans qu’une personne traite manuellement chaque étape du paiement. Elle s’inscrit dans la volonté de Circle d’appliquer le stablecoin USDC aux flux de paiement automatisés. Ces outils seront suivis comme un exemple du lien entre agents IA et infrastructure de paiement blockchain. Source : cointelegraph.com."
+    },
+    "ar": {
+      "title": "Circle توسع استخدام USDC في أدوات دفع وكلاء الذكاء الاصطناعي",
+      "excerpt": "أطلقت Circle أدوات دفع لوكلاء الذكاء الاصطناعي تتيح امتلاك محافظ واكتشاف الخدمات وتنفيذ مدفوعات USDC مبرمجة عبر شبكات بلوكتشين.",
+      "body": "أطلقت Circle أدوات جديدة لتوسيع استخدام USDC في مدفوعات وكلاء الذكاء الاصطناعي. صُممت هذه الأدوات لتمكين وكلاء الذكاء الاصطناعي من امتلاك محافظ، واكتشاف الخدمات المطلوبة، وتنفيذ مدفوعات USDC قابلة للبرمجة عبر عدة شبكات بلوكتشين. وتوضح الخطوة كيف يمكن ربط الخدمات القائمة على الوكلاء بالمدفوعات على السلسلة من دون أن يتولى شخص معالجة كل خطوة دفع يدويا. ويأتي ذلك ضمن توجه Circle لتطبيق العملة المستقرة USDC في تدفقات الدفع المؤتمتة. ومن المتوقع أن تُتابع هذه الأدوات كحالة تربط بين وكلاء الذكاء الاصطناعي وبنية مدفوعات البلوكتشين. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "Circle ने AI एजेंट पेमेंट टूल्स में USDC उपयोग बढ़ाया",
+      "excerpt": "Circle ने AI एजेंटों के लिए पेमेंट टूल्स पेश किए, जिनसे वॉलेट रखने, सेवाएं खोजने और ब्लॉकचेन पर प्रोग्रामेबल USDC भुगतान करने की सुविधा मिलती है।",
+      "body": "Circle ने AI एजेंट भुगतान में USDC के उपयोग को बढ़ाने के लिए नए टूल्स पेश किए हैं। ये टूल्स AI एजेंटों को वॉलेट रखने, जरूरी सेवाएं खोजने और कई ब्लॉकचेन नेटवर्क पर प्रोग्रामेबल USDC भुगतान करने में सक्षम बनाने के लिए डिजाइन किए गए हैं। यह कदम दिखाता है कि हर भुगतान चरण को व्यक्ति द्वारा मैन्युअल रूप से संभाले बिना एजेंट-आधारित सेवाओं और ऑन-चेन भुगतान को जोड़ा जा सकता है। पृष्ठभूमि में Circle का USDC स्टेबलकॉइन को स्वचालित भुगतान प्रवाह में लागू करने का प्रयास है। आगे ये टूल्स AI एजेंटों और ब्लॉकचेन भुगतान अवसंरचना के मिलन के उदाहरण के रूप में देखे जाएंगे। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "Circle perluas USDC di alat pembayaran agen AI",
+      "excerpt": "Circle merilis alat pembayaran untuk agen AI yang memungkinkan dompet, penemuan layanan, dan pembayaran USDC terprogram di jaringan blockchain.",
+      "body": "Circle merilis alat baru untuk memperluas penggunaan USDC dalam pembayaran agen AI. Alat ini dirancang agar agen AI dapat memiliki dompet, menemukan layanan yang dibutuhkan, dan menjalankan pembayaran USDC terprogram di berbagai jaringan blockchain. Langkah ini menunjukkan bagaimana layanan berbasis agen dan pembayaran on-chain dapat terhubung tanpa seseorang harus menangani setiap tahap pembayaran secara manual. Latar belakangnya adalah dorongan Circle untuk menerapkan stablecoin USDC ke alur pembayaran otomatis. Ke depan, alat ini akan diperhatikan sebagai contoh pertemuan antara agen AI dan infrastruktur pembayaran blockchain. Sumber: cointelegraph.com."
+    }
+  }
+}
