@@ -1,5 +1,230 @@
 [
   {
+    "id": "74bbd5a5e636",
+    "slug": "sui-spikes-50-amid-staking-moves-zero-fee-stablecoins-privac-394829",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T07:39:34.612Z",
+    "updatedAt": "2026-05-11T07:39:34.612Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers",
+    "titleFingerprint": "b81e61800de79dc9c5f06638011455ca5b2de793",
+    "dedupKeys": [
+      "74bbd5a5e636a48d1751ff28c5795cf4eff39e9f",
+      "b81e61800de79dc9c5f06638011455ca5b2de793",
+      "f989fd88e752730c8cdde3dda883f731ecd12701"
+    ],
+    "imageUrl": "/images/articles/74bbd5a5e636.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SUI 50% 급등, 수수료 없는 스테이블코인·프라이버시 추진 주목",
+        "excerpt": "미스틴랩스 공동창업자 아데니이 아비오둔은 마이애미 행사에서 수이의 수수료 없는 스테이블코인 전송 계획과 비공개 거래 도입 의지를 밝혔다.",
+        "body": "SUI가 50% 급등한 가운데, 수이 생태계의 스테이킹 움직임과 수수료 없는 스테이블코인 전송 계획, 프라이버시 기능 추진이 시장의 관심을 받았다. 미스틴랩스 공동창업자 아데니이 아비오둔은 마이애미에서 열린 행사에서 수이 네트워크에서 스테이블코인을 수수료 없이 전송할 수 있도록 하는 계획을 발표했다. 그는 비공개 거래 기능을 추가하겠다는 목표도 다시 강조했다. 이번 발언은 SUI 가격 급등과 맞물려 수이의 결제 활용성과 거래 프라이버시 강화 가능성을 부각했다. 다만 구체적인 출시 일정이나 세부 조건은 원문에서 제시되지 않았다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "SUI Jumps 50% as Zero-Fee Stablecoins and Privacy Plans Draw Focus",
+        "excerpt": "Mysten Labs co-founder Adeniyi Abiodun said at a Miami event that Sui plans zero-fee stablecoin transfers and again highlighted its goal of adding private transactions.",
+        "body": "SUI rose 50% as staking-related moves, plans for zero-fee stablecoin transfers and a renewed privacy push drew attention to the Sui ecosystem. Adeniyi Abiodun, co-founder of Mysten Labs, announced at an event in Miami that Sui aims to support stablecoin transfers without fees on its network. He also reiterated the ambition to add private transactions. The remarks came alongside the sharp SUI price move and put focus on Sui’s potential use in payments and stronger transaction privacy. The original report did not provide a specific launch timeline or detailed conditions. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "SUIが50％急騰、手数料ゼロのステーブルコインとプライバシー計画に注目",
+        "excerpt": "Mysten Labs共同創業者のAdeniyi Abiodun氏はマイアミのイベントで、Sui上の手数料ゼロのステーブルコイン送金計画と非公開取引導入の意向を示した。",
+        "body": "SUIが50％急騰する中、Suiエコシステムではステーキング関連の動き、手数料ゼロのステーブルコイン送金計画、プライバシー機能の推進が注目された。Mysten Labs共同創業者のAdeniyi Abiodun氏は、マイアミで開かれたイベントで、Suiネットワーク上でステーブルコインを手数料なしで送金できるようにする計画を発表した。同氏は非公開取引を追加する目標も改めて強調した。今回の発言はSUI価格の急騰と重なり、決済利用や取引プライバシー強化の可能性を浮き彫りにした。ただし、具体的な開始時期や詳細条件は原文で示されていない。出典: cointelegraph.com。"
+      },
+      "zh": {
+        "title": "SUI上涨50%，零费用稳定币转账与隐私交易计划受关注",
+        "excerpt": "Mysten Labs联合创始人Adeniyi Abiodun在迈阿密活动上表示，Sui计划推出零费用稳定币转账，并重申加入私密交易的目标。",
+        "body": "SUI上涨50%之际，Sui生态中的质押相关动向、零费用稳定币转账计划以及隐私功能推进受到市场关注。Mysten Labs联合创始人Adeniyi Abiodun在迈阿密举行的活动上宣布，Sui计划在其网络上支持无需手续费的稳定币转账。他还重申了增加私密交易功能的目标。上述表态与SUI价格快速上涨同时出现，使Sui在支付应用和交易隐私强化方面的潜在方向受到更多关注。不过，原文未给出具体上线时间或详细条件。来源: cointelegraph.com。"
+      },
+      "es": {
+        "title": "SUI sube 50% y enfoca la atención en stablecoins sin comisiones",
+        "excerpt": "Adeniyi Abiodun, cofundador de Mysten Labs, dijo en un evento en Miami que Sui planea transferencias de stablecoins sin comisiones y reiteró su meta de sumar transacciones privadas.",
+        "body": "SUI subió 50% mientras los movimientos de staking, los planes de transferencias de stablecoins sin comisiones y el impulso a la privacidad atrajeron atención hacia el ecosistema Sui. Adeniyi Abiodun, cofundador de Mysten Labs, anunció en un evento en Miami que Sui busca permitir transferencias de stablecoins sin tarifas dentro de su red. También reiteró la ambición de añadir transacciones privadas. Las declaraciones coincidieron con el fuerte avance del precio de SUI y pusieron el foco en el posible uso de Sui para pagos y en una mayor privacidad transaccional. El reporte original no indicó una fecha concreta de lanzamiento ni condiciones detalladas. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "SUI salta 50% com stablecoins sem taxa e plano de privacidade em foco",
+        "excerpt": "Adeniyi Abiodun, cofundador da Mysten Labs, afirmou em um evento em Miami que a Sui planeja transferências de stablecoins sem taxa e reiterou a meta de adicionar transações privadas.",
+        "body": "A SUI subiu 50% enquanto movimentos ligados a staking, planos de transferências de stablecoins sem taxa e o avanço de recursos de privacidade chamaram atenção para o ecossistema Sui. Adeniyi Abiodun, cofundador da Mysten Labs, anunciou em um evento em Miami que a Sui pretende permitir transferências de stablecoins sem cobrança de tarifas em sua rede. Ele também reiterou a ambição de adicionar transações privadas. As declarações vieram junto da forte alta da SUI e destacaram o potencial da Sui em pagamentos e no reforço da privacidade das transações. O texto original não informou prazo de lançamento nem condições específicas. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "SUI steigt 50%, gebührenfreie Stablecoins und Datenschutzpläne im Fokus",
+        "excerpt": "Mysten-Labs-Mitgründer Adeniyi Abiodun sagte bei einer Veranstaltung in Miami, Sui plane gebührenfreie Stablecoin-Transfers und halte am Ziel privater Transaktionen fest.",
+        "body": "SUI stieg um 50%, während Staking-bezogene Entwicklungen, Pläne für gebührenfreie Stablecoin-Transfers und ein erneuter Fokus auf Datenschutz die Aufmerksamkeit auf das Sui-Ökosystem lenkten. Adeniyi Abiodun, Mitgründer von Mysten Labs, kündigte bei einer Veranstaltung in Miami an, dass Sui Stablecoin-Transfers ohne Gebühren auf seinem Netzwerk ermöglichen will. Zudem bekräftigte er das Ziel, private Transaktionen hinzuzufügen. Die Aussagen fielen mit dem deutlichen Kursanstieg von SUI zusammen und rückten Suis mögliche Rolle im Zahlungsverkehr sowie stärkere Transaktionsprivatsphäre in den Vordergrund. Einen konkreten Starttermin oder genaue Bedingungen nannte der Originalbericht nicht. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "SUI bondit de 50 %, stablecoins sans frais et confidentialité en vue",
+        "excerpt": "Adeniyi Abiodun, cofondateur de Mysten Labs, a déclaré lors d’un événement à Miami que Sui prévoit des transferts de stablecoins sans frais et vise toujours des transactions privées.",
+        "body": "SUI a bondi de 50% alors que les mouvements liés au staking, les projets de transferts de stablecoins sans frais et l’accent mis sur la confidentialité ont attiré l’attention sur l’écosystème Sui. Adeniyi Abiodun, cofondateur de Mysten Labs, a annoncé lors d’un événement à Miami que Sui veut permettre des transferts de stablecoins sans frais sur son réseau. Il a aussi réaffirmé l’ambition d’ajouter des transactions privées. Ces déclarations ont accompagné la forte hausse du prix de SUI et ont mis en avant le potentiel de Sui pour les paiements ainsi que pour une meilleure confidentialité des transactions. Le rapport original ne donne pas de calendrier de lancement ni de conditions détaillées. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "ارتفاع SUI بنسبة 50% مع خطط العملات المستقرة بلا رسوم والخصوصية",
+        "excerpt": "قال أدينيي أبيودون، الشريك المؤسس لـ Mysten Labs، في فعالية بميامي إن Sui تخطط لتحويلات عملات مستقرة بلا رسوم، وجدد هدف إضافة معاملات خاصة.",
+        "body": "ارتفع SUI بنسبة 50% بينما جذبت تحركات مرتبطة بالتخزين، وخطط تحويل العملات المستقرة بلا رسوم، والدفع نحو الخصوصية الانتباه إلى منظومة Sui. أعلن أدينيي أبيودون، الشريك المؤسس لـ Mysten Labs، خلال فعالية في ميامي أن Sui تعتزم تمكين تحويل العملات المستقرة من دون رسوم على شبكتها. كما أعاد التأكيد على الطموح لإضافة معاملات خاصة. جاءت هذه التصريحات بالتزامن مع القفزة الحادة في سعر SUI، ما سلط الضوء على إمكانية استخدام Sui في المدفوعات وتعزيز خصوصية المعاملات. ولم يذكر التقرير الأصلي موعد إطلاق محددا أو شروطا تفصيلية. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "SUI 50% उछला, शून्य-शुल्क स्टेबलकॉइन और प्राइवेसी योजना चर्चा में",
+        "excerpt": "Mysten Labs के सह-संस्थापक Adeniyi Abiodun ने मियामी कार्यक्रम में कहा कि Sui शून्य-शुल्क स्टेबलकॉइन ट्रांसफर की योजना बना रहा है और निजी लेनदेन जोड़ने का लक्ष्य दोहराया।",
+        "body": "SUI में 50% की तेजी आई, जबकि स्टेकिंग से जुड़े कदम, शून्य-शुल्क स्टेबलकॉइन ट्रांसफर की योजना और प्राइवेसी पर नया जोर Sui इकोसिस्टम को चर्चा में ले आए। Mysten Labs के सह-संस्थापक Adeniyi Abiodun ने मियामी में आयोजित एक कार्यक्रम में घोषणा की कि Sui अपने नेटवर्क पर बिना शुल्क स्टेबलकॉइन ट्रांसफर सक्षम करने की योजना रखता है। उन्होंने निजी लेनदेन जोड़ने की महत्वाकांक्षा भी फिर दोहराई। ये बयान SUI की तेज कीमत बढ़त के साथ आए और भुगतान उपयोग तथा लेनदेन गोपनीयता मजबूत करने की संभावना पर ध्यान केंद्रित किया। मूल रिपोर्ट में लॉन्च की निश्चित समयसीमा या विस्तृत शर्तें नहीं दी गईं। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "SUI melonjak 50%, stablecoin tanpa biaya dan privasi jadi sorotan",
+        "excerpt": "Adeniyi Abiodun, salah satu pendiri Mysten Labs, mengatakan di acara Miami bahwa Sui merencanakan transfer stablecoin tanpa biaya dan kembali menegaskan target transaksi privat.",
+        "body": "SUI melonjak 50% saat pergerakan terkait staking, rencana transfer stablecoin tanpa biaya, dan dorongan privasi menarik perhatian ke ekosistem Sui. Adeniyi Abiodun, salah satu pendiri Mysten Labs, mengumumkan dalam sebuah acara di Miami bahwa Sui berencana memungkinkan transfer stablecoin tanpa biaya di jaringannya. Ia juga kembali menegaskan ambisi untuk menambahkan transaksi privat. Pernyataan itu muncul bersamaan dengan kenaikan tajam harga SUI dan menyoroti potensi Sui untuk penggunaan pembayaran serta penguatan privasi transaksi. Laporan asli tidak menyebutkan jadwal peluncuran tertentu atau syarat rinci. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "125a0b816f55",
+    "slug": "england-central-banker-says-global-stablecoin-rules-will-wre-500379",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T07:38:21.858Z",
+    "updatedAt": "2026-05-11T07:38:21.858Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/boe-governer-global-stablecoin-rules-wrestle-with-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/boe-governer-global-stablecoin-rules-wrestle-with-us",
+    "titleFingerprint": "97f7c1cdc94347b8da2a6486414c963ad8aa0311",
+    "dedupKeys": [
+      "125a0b816f5541af6f6e7b9697e4a21cb1350981",
+      "97f7c1cdc94347b8da2a6486414c963ad8aa0311",
+      "8a3fe4cfd2030b683a94b42f62f95bcae9ff04ae"
+    ],
+    "imageUrl": "/images/articles/125a0b816f55.jpg",
+    "i18n": {
+      "ko": {
+        "title": "스테이블코인 규칙, 영란은행 총재 “미국과 조율 불가피”",
+        "excerpt": "앤드루 베일리 영란은행 총재는 글로벌 스테이블코인 기준을 마련하는 과정에서 규제당국이 미국과의 조율 문제를 다뤄야 한다고 밝혔다.",
+        "body": "앤드루 베일리 영란은행 총재는 글로벌 스테이블코인 규칙을 만들 때 각국 규제당국이 미국과 ‘씨름’해야 할 것이라고 말했다. 그는 스테이블코인에 대한 국제 기준 형성 과정에서 미국의 입장과 제도적 방향을 다루는 일이 불가피하다는 점을 강조했다. 스테이블코인은 국경을 넘어 사용될 수 있어 단일 국가의 규제만으로는 기준을 정하기 어렵다. 이에 따라 글로벌 규제 논의는 미국과의 조율을 핵심 과제로 안게 됐다. 향후 표준 마련 과정에서 각국 감독당국이 어떤 공통 원칙을 세울지가 주목된다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Stablecoin Rules: BOE Governor Says US Coordination Is Inevitable",
+        "excerpt": "Bank of England Governor Andrew Bailey said regulators will need to deal with the United States when shaping global stablecoin standards.",
+        "body": "Bank of England Governor Andrew Bailey said regulators will have to “wrestle” with the United States when creating global stablecoin rules. His remarks stressed that the US position and regulatory direction will be unavoidable factors in forming international standards for stablecoins. Because stablecoins can be used across borders, a single country’s rules may not be enough to define common standards. As a result, global regulatory talks now face coordination with the US as a central issue. Attention will turn to what shared principles supervisors can agree on as the standard-setting process develops. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "ステーブルコイン規則、英中銀総裁「米国との調整は不可避」",
+        "excerpt": "イングランド銀行のアンドリュー・ベイリー総裁は、世界的なステーブルコイン基準づくりで規制当局は米国に対応する必要があると述べた。",
+        "body": "イングランド銀行のアンドリュー・ベイリー総裁は、世界的なステーブルコイン規則を策定する際、各国の規制当局は米国と「格闘」しなければならないと述べた。発言は、ステーブルコインの国際基準を形成する過程で、米国の立場や制度の方向性を扱うことが避けられないとの認識を示したものだ。ステーブルコインは国境を越えて利用され得るため、一国の規制だけで共通基準を定めることは難しい。今後の規制協議では、米国との調整が主要課題となる。各国当局がどのような共通原則で合意するかが注目される。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "稳定币规则成焦点，英国央行行长称必须协调美国",
+        "excerpt": "英国央行行长安德鲁·贝利表示，在制定全球稳定币标准时，监管机构将不得不处理与美国相关的协调问题。",
+        "body": "英国央行行长安德鲁·贝利表示，在制定全球稳定币规则时，各国监管机构将不得不与美国“角力”。他的表态强调，在形成稳定币国际标准的过程中，美国的立场和制度方向将是无法回避的因素。由于稳定币可能跨境使用，仅靠单一国家的监管难以确立共同标准。因此，全球监管讨论将把与美国的协调视为核心议题。随着标准制定推进，各国监管机构能否形成共同原则将受到关注。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Reglas de stablecoins: Bailey dice que coordinar con EE. UU. será clave",
+        "excerpt": "Andrew Bailey, gobernador del Banco de Inglaterra, dijo que los reguladores deberán tratar con EE. UU. al formar estándares globales para stablecoins.",
+        "body": "Andrew Bailey, gobernador del Banco de Inglaterra, dijo que los reguladores tendrán que “forcejear” con Estados Unidos al crear reglas globales para las stablecoins. Sus comentarios subrayan que la postura y la dirección regulatoria de EE. UU. serán factores inevitables en la formación de estándares internacionales. Como las stablecoins pueden usarse a través de fronteras, las normas de un solo país no bastan para fijar criterios comunes. Por eso, la coordinación con EE. UU. queda como un asunto central en las conversaciones regulatorias globales. La atención estará en qué principios compartidos acuerdan las autoridades. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Regras de stablecoins: Bailey vê coordenação inevitável com os EUA",
+        "excerpt": "Andrew Bailey, governador do Banco da Inglaterra, afirmou que reguladores terão de lidar com os EUA ao criar padrões globais para stablecoins.",
+        "body": "Andrew Bailey, governador do Banco da Inglaterra, disse que os reguladores terão de “lutar” com os Estados Unidos ao elaborar regras globais para stablecoins. A declaração destaca que a posição e a direção regulatória dos EUA serão fatores inevitáveis na formação de padrões internacionais para stablecoins. Como esses ativos podem ser usados entre fronteiras, regras de um único país não são suficientes para definir critérios comuns. Assim, a coordenação com os EUA se torna uma questão central nas discussões regulatórias globais. A atenção recai sobre quais princípios comuns os supervisores conseguirão estabelecer. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Stablecoin-Regeln: Bailey sieht Abstimmung mit den USA als unvermeidbar",
+        "excerpt": "Bank-of-England-Gouverneur Andrew Bailey sagte, Regulierer müssten sich bei globalen Stablecoin-Standards mit den USA auseinandersetzen.",
+        "body": "Andrew Bailey, Gouverneur der Bank of England, sagte, Regulierungsbehörden müssten bei der Ausarbeitung globaler Stablecoin-Regeln mit den Vereinigten Staaten „ringen“. Seine Aussage betont, dass die Position und regulatorische Ausrichtung der USA bei internationalen Standards für Stablecoins ein unvermeidbarer Faktor sind. Da Stablecoins grenzüberschreitend genutzt werden können, reichen Regeln eines einzelnen Landes kaum aus, um gemeinsame Standards festzulegen. Damit wird die Abstimmung mit den USA zu einer zentralen Aufgabe der globalen Regulierungsdebatte. Entscheidend wird sein, auf welche gemeinsamen Grundsätze sich Aufseher einigen. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Règles des stablecoins : Bailey juge inévitable l’accord avec les États-Unis",
+        "excerpt": "Andrew Bailey, gouverneur de la Banque d’Angleterre, a déclaré que les régulateurs devront composer avec les États-Unis pour les standards mondiaux.",
+        "body": "Andrew Bailey, gouverneur de la Banque d’Angleterre, a déclaré que les régulateurs devront « se mesurer » aux États-Unis lors de l’élaboration de règles mondiales pour les stablecoins. Ses propos soulignent que la position et l’orientation réglementaire américaines seront des éléments incontournables dans la formation de standards internationaux. Les stablecoins pouvant être utilisés au-delà des frontières, les règles d’un seul pays ne suffisent pas à définir des critères communs. La coordination avec les États-Unis devient donc un enjeu central des discussions mondiales. L’attention portera sur les principes communs que les superviseurs pourront établir. Source : cointelegraph.com"
+      },
+      "ar": {
+        "title": "قواعد العملات المستقرة: بيلي يؤكد أن التنسيق مع الولايات المتحدة حتمي",
+        "excerpt": "قال أندرو بيلي محافظ بنك إنجلترا إن الجهات التنظيمية ستضطر إلى التعامل مع الولايات المتحدة عند وضع معايير عالمية للعملات المستقرة.",
+        "body": "قال أندرو بيلي، محافظ بنك إنجلترا، إن الجهات التنظيمية ستضطر إلى “المصارعة” مع الولايات المتحدة عند إعداد قواعد عالمية للعملات المستقرة. وتؤكد تصريحاته أن موقف الولايات المتحدة واتجاهها التنظيمي سيكونان عاملين لا يمكن تجنبهما في تشكيل المعايير الدولية لهذه العملات. وبما أن العملات المستقرة يمكن استخدامها عبر الحدود، فإن قواعد دولة واحدة لا تكفي لتحديد معايير مشتركة. لذلك تصبح مواءمة المواقف مع الولايات المتحدة قضية محورية في النقاشات التنظيمية العالمية. وستتجه الأنظار إلى المبادئ المشتركة التي يمكن للجهات الرقابية الاتفاق عليها. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "स्टेबलकॉइन नियम: BOE गवर्नर बोले, अमेरिका से तालमेल अनिवार्य",
+        "excerpt": "बैंक ऑफ इंग्लैंड के गवर्नर एंड्रयू बेली ने कहा कि वैश्विक स्टेबलकॉइन मानक बनाते समय नियामकों को अमेरिका से निपटना होगा।",
+        "body": "बैंक ऑफ इंग्लैंड के गवर्नर एंड्रयू बेली ने कहा कि वैश्विक स्टेबलकॉइन नियम बनाते समय नियामकों को अमेरिका के साथ “जूझना” होगा। उनके बयान का संकेत है कि स्टेबलकॉइन के अंतरराष्ट्रीय मानक तय करने की प्रक्रिया में अमेरिका की स्थिति और नियामकीय दिशा को नजरअंदाज नहीं किया जा सकता। स्टेबलकॉइन सीमाओं के पार उपयोग किए जा सकते हैं, इसलिए किसी एक देश के नियम साझा मानक तय करने के लिए पर्याप्त नहीं हैं। इस कारण वैश्विक नियामकीय चर्चा में अमेरिका के साथ समन्वय केंद्रीय मुद्दा बन गया है। अब ध्यान इस पर रहेगा कि पर्यवेक्षक कौन से साझा सिद्धांत तय कर पाते हैं। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Aturan Stablecoin: Gubernur BOE Sebut Koordinasi dengan AS Tak Terhindarkan",
+        "excerpt": "Gubernur Bank of England Andrew Bailey mengatakan regulator harus berurusan dengan AS saat menyusun standar stablecoin global.",
+        "body": "Gubernur Bank of England Andrew Bailey mengatakan regulator harus “bergulat” dengan Amerika Serikat saat membuat aturan stablecoin global. Pernyataan itu menekankan bahwa posisi dan arah regulasi AS menjadi faktor yang tidak dapat dihindari dalam pembentukan standar internasional untuk stablecoin. Karena stablecoin dapat digunakan lintas negara, aturan dari satu negara saja sulit cukup untuk menetapkan standar bersama. Dengan demikian, koordinasi dengan AS menjadi isu utama dalam pembahasan regulasi global. Perhatian berikutnya tertuju pada prinsip bersama apa yang dapat disepakati oleh otoritas pengawas. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "cc4a18fed58c",
+    "slug": "whitehat-returns-190k-to-renegade-hours-after-hacking-the-pr-764035",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-11T07:37:09.109Z",
+    "updatedAt": "2026-05-11T07:37:09.109Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/whitehat-returns-190k-renegade-hours-after-hacking-the-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/whitehat-returns-190k-renegade-hours-after-hacking-the-protocol",
+    "titleFingerprint": "714938440f878abfac23a594597eab7d37eeea51",
+    "dedupKeys": [
+      "cc4a18fed58c30b51916a0df1be50d44faad40cb",
+      "714938440f878abfac23a594597eab7d37eeea51",
+      "c6c26c561489bf04886cd909e8f01ae9dacab28b"
+    ],
+    "imageUrl": "/images/articles/cc4a18fed58c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Renegade 해킹 후 몇 시간 만에 화이트햇이 19만 달러 반환",
+        "excerpt": "화이트햇 해커가 Renegade 다크풀을 공격한 지 몇 시간 만에 19만 달러를 반환했으며, DeFi 이용자 자금과 안전을 지키기 위한 조치였다고 밝혔다.",
+        "body": "화이트햇 해커가 Renegade 프로토콜의 다크풀을 해킹한 뒤 몇 시간 만에 19만 달러를 반환했다. 해당 해커는 이번 익스플로잇 결정이 DeFi 이용자의 자금과 안전을 보호하기 위한 것이었다고 설명했다. 사건의 핵심은 공격 이후 자금이 장기간 유출 상태로 남지 않고 빠르게 되돌아왔다는 점이다. Renegade는 다크풀 구조를 활용하는 프로토콜로 언급됐으며, 이번 사례는 DeFi 보안과 화이트햇 대응의 중요성을 다시 부각했다. 향후 관련 프로토콜들은 취약점 점검과 사고 대응 체계를 강화할 필요가 있다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Renegade Hack: Whitehat Returns $190K Within Hours",
+        "excerpt": "A whitehat hacker returned $190,000 to Renegade just hours after exploiting its dark pool, saying the move was intended to protect DeFi users’ funds and safety.",
+        "body": "A whitehat hacker returned $190,000 to the Renegade protocol within hours of hacking its dark pool. The hacker said the decision to exploit Renegade was made to protect the funds and safety of DeFi users. The key point in the incident is that the funds did not remain out of the protocol for an extended period and were sent back quickly. Renegade was described as a protocol using a dark pool structure, and the case again highlights the importance of DeFi security and whitehat response. Related protocols may need to strengthen vulnerability checks and incident response procedures. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "Renegadeハッキング後、ホワイトハットが19万ドルを数時間で返還",
+        "excerpt": "ホワイトハットハッカーはRenegadeのダークプールを攻撃してから数時間後に19万ドルを返還し、DeFi利用者の資金と安全を守るためだったと説明した。",
+        "body": "ホワイトハットハッカーがRenegadeプロトコルのダークプールをハッキングした後、数時間以内に19万ドルを返還した。ハッカーは、今回Renegadeをエクスプロイトした判断はDeFi利用者の資金と安全を守るためだったと説明している。事件の要点は、資金が長期間流出状態に置かれず、短時間で戻されたことだ。Renegadeはダークプール構造を利用するプロトコルとして言及されており、今回の事例はDeFiセキュリティとホワイトハット対応の重要性を改めて示した。今後、関連プロトコルには脆弱性点検と事故対応体制の強化が求められる。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "Renegade遭黑客攻击后，白帽数小时内归还19万美元",
+        "excerpt": "一名白帽黑客在利用Renegade暗池漏洞数小时后归还19万美元，并表示此举是为了保护DeFi用户的资金与安全。",
+        "body": "一名白帽黑客在攻击Renegade协议的暗池后，数小时内归还了19万美元。该黑客表示，决定利用Renegade漏洞，是为了保护DeFi用户的资金和安全。此次事件的重点在于，资金并未长期处于外流状态，而是在短时间内被返还。Renegade被提及为使用暗池结构的协议，这一案例再次凸显了DeFi安全和白帽响应的重要性。未来，相关协议可能需要加强漏洞检查和事故应对机制。来源: cointelegraph.com."
+      },
+      "es": {
+        "title": "Hackeo a Renegade: whitehat devuelve 190.000 dólares en horas",
+        "excerpt": "Un hacker whitehat devolvió 190.000 dólares a Renegade pocas horas después de explotar su dark pool y dijo que actuó para proteger fondos y seguridad de usuarios DeFi.",
+        "body": "Un hacker whitehat devolvió 190.000 dólares al protocolo Renegade pocas horas después de hackear su dark pool. El hacker afirmó que la decisión de explotar Renegade se tomó para proteger los fondos y la seguridad de los usuarios de DeFi. El punto central del caso es que los fondos no permanecieron fuera del protocolo durante un periodo prolongado y fueron devueltos rápidamente. Renegade fue descrito como un protocolo que utiliza una estructura de dark pool, y el episodio vuelve a destacar la importancia de la seguridad en DeFi y de las respuestas whitehat. Los protocolos relacionados podrían reforzar sus revisiones de vulnerabilidades y sus planes de respuesta a incidentes. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Renegade hackeado: whitehat devolve US$ 190 mil em poucas horas",
+        "excerpt": "Um hacker whitehat devolveu US$ 190 mil à Renegade horas após explorar seu dark pool, dizendo que a ação buscava proteger fundos e segurança de usuários DeFi.",
+        "body": "Um hacker whitehat devolveu US$ 190 mil ao protocolo Renegade poucas horas depois de hackear seu dark pool. O hacker afirmou que a decisão de explorar a Renegade foi tomada para proteger os fundos e a segurança dos usuários de DeFi. O ponto central do caso é que os fundos não permaneceram fora do protocolo por um período prolongado e foram devolvidos rapidamente. A Renegade foi descrita como um protocolo que usa uma estrutura de dark pool, e o episódio volta a destacar a importância da segurança em DeFi e da resposta de whitehats. Protocolos relacionados podem precisar reforçar verificações de vulnerabilidades e processos de resposta a incidentes. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Renegade-Hack: Whitehat gibt 190.000 Dollar nach Stunden zurück",
+        "excerpt": "Ein Whitehat-Hacker gab 190.000 Dollar an Renegade zurück, nur Stunden nach dem Angriff auf den Dark Pool, und verwies auf den Schutz von DeFi-Nutzern.",
+        "body": "Ein Whitehat-Hacker gab 190.000 Dollar an das Renegade-Protokoll zurück, nur wenige Stunden nachdem er dessen Dark Pool gehackt hatte. Der Hacker erklärte, die Entscheidung zur Ausnutzung von Renegade sei getroffen worden, um die Gelder und die Sicherheit von DeFi-Nutzern zu schützen. Entscheidend ist, dass die Mittel nicht lange außerhalb des Protokolls blieben, sondern schnell zurückgeführt wurden. Renegade wurde als Protokoll mit Dark-Pool-Struktur beschrieben, und der Fall unterstreicht erneut die Bedeutung von DeFi-Sicherheit und Whitehat-Reaktionen. Verwandte Protokolle dürften ihre Schwachstellenprüfungen und Reaktionsprozesse bei Vorfällen stärken müssen. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Renegade piraté: un whitehat rend 190.000 dollars en quelques heures",
+        "excerpt": "Un hacker whitehat a rendu 190.000 dollars à Renegade quelques heures après avoir exploité son dark pool, disant vouloir protéger les fonds et la sécurité des utilisateurs DeFi.",
+        "body": "Un hacker whitehat a rendu 190.000 dollars au protocole Renegade quelques heures après avoir piraté son dark pool. Le hacker a indiqué que la décision d’exploiter Renegade avait été prise pour protéger les fonds et la sécurité des utilisateurs de DeFi. Le point essentiel est que les fonds ne sont pas restés longtemps hors du protocole et ont été renvoyés rapidement. Renegade a été présenté comme un protocole utilisant une structure de dark pool, et ce cas souligne à nouveau l’importance de la sécurité DeFi et des réponses whitehat. Les protocoles concernés pourraient devoir renforcer leurs contrôles de vulnérabilités et leurs procédures de réponse aux incidents. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "اختراق Renegade: وايت هات يعيد 190 ألف دولار خلال ساعات",
+        "excerpt": "أعاد مخترق وايت هات 190 ألف دولار إلى Renegade بعد ساعات من استغلال الدارك بول الخاص بها، قائلا إن الهدف كان حماية أموال مستخدمي DeFi وسلامتهم.",
+        "body": "أعاد مخترق وايت هات 190 ألف دولار إلى بروتوكول Renegade بعد ساعات من اختراق الدارك بول الخاص به. وقال المخترق إن قرار استغلال Renegade اتخذ بهدف حماية أموال مستخدمي DeFi وسلامتهم. جوهر الحادثة أن الأموال لم تبق خارج البروتوكول لفترة طويلة، بل أعيدت بسرعة. وذُكر Renegade كبروتوكول يستخدم بنية دارك بول، ما يسلط الضوء مجددا على أهمية أمن DeFi واستجابة مخترقي الوايت هات. وقد تحتاج البروتوكولات ذات الصلة إلى تعزيز فحوص الثغرات وآليات الاستجابة للحوادث. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Renegade हैक के बाद व्हाइटहैट ने कुछ घंटों में $190K लौटाए",
+        "excerpt": "एक व्हाइटहैट हैकर ने Renegade के डार्क पूल का फायदा उठाने के कुछ घंटों बाद $190K लौटाए और कहा कि मकसद DeFi यूजर्स के फंड और सुरक्षा की रक्षा था।",
+        "body": "एक व्हाइटहैट हैकर ने Renegade प्रोटोकॉल के डार्क पूल को हैक करने के कुछ घंटों बाद $190K लौटा दिए। हैकर ने कहा कि Renegade का एक्सप्लॉइट करने का फैसला DeFi यूजर्स के फंड और सुरक्षा की रक्षा के लिए लिया गया था। इस घटना का मुख्य बिंदु यह है कि फंड लंबे समय तक प्रोटोकॉल से बाहर नहीं रहे और जल्दी वापस कर दिए गए। Renegade को डार्क पूल संरचना का उपयोग करने वाले प्रोटोकॉल के रूप में बताया गया, और यह मामला DeFi सुरक्षा तथा व्हाइटहैट प्रतिक्रिया के महत्व को फिर सामने लाता है। संबंधित प्रोटोकॉल को कमजोरियों की जांच और घटना प्रतिक्रिया व्यवस्था मजबूत करनी पड़ सकती है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Renegade Diretas: Whitehat Kembalikan $190K dalam Beberapa Jam",
+        "excerpt": "Seorang whitehat mengembalikan $190K ke Renegade beberapa jam setelah mengeksploitasi dark pool-nya, dengan alasan melindungi dana dan keamanan pengguna DeFi.",
+        "body": "Seorang hacker whitehat mengembalikan $190K ke protokol Renegade beberapa jam setelah meretas dark pool miliknya. Hacker tersebut mengatakan keputusan untuk mengeksploitasi Renegade diambil untuk melindungi dana dan keamanan pengguna DeFi. Inti dari peristiwa ini adalah dana tidak berada di luar protokol dalam waktu lama dan segera dikembalikan. Renegade disebut sebagai protokol yang menggunakan struktur dark pool, dan kasus ini kembali menyoroti pentingnya keamanan DeFi serta respons whitehat. Ke depan, protokol terkait mungkin perlu memperkuat pemeriksaan kerentanan dan prosedur respons insiden. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "933115ee7b00",
     "slug": "항공로봇헬스케어디캠프-딥테크-스타트업-배치-8기-모집-131314",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Consensus Miami Soroti Kebijakan dan Kondisi Terkini Kripto",
         "excerpt": "CoinDesk melaporkan bahwa Consensus Miami membahas “State of Crypto” dalam konteks kebijakan, di tengah pekan yang sibuk bagi industri kripto.",
         "body": "Menurut CoinDesk, topik “Policy at Consensus Miami: State of Crypto” dibahas dalam Consensus Miami. Laporan tersebut menggambarkan pekan itu sebagai periode yang sibuk dan menyoroti berlanjutnya diskusi seputar kebijakan kripto. Informasi asli terbatas pada judul dan ringkasan, tanpa menyebut pembicara, tanggal, angka, atau rincian kebijakan tertentu. Karena itu, artikel ini berfokus pada fakta terkonfirmasi bahwa kondisi terkini kripto dan pembahasan kebijakan terkait menjadi agenda penting di Consensus Miami. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "dcbb3e56d7ee",
-    "slug": "해외-학교-한국어반-4년새-54-급증-365117",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T18:08:33.483Z",
-    "updatedAt": "2026-05-10T18:08:33.483Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042703",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042703",
-    "titleFingerprint": "3d21e7dcb790b14c8c9e60dcb196aefb2eb7aa55",
-    "dedupKeys": [
-      "dcbb3e56d7ee0428fbea1577d13ac9c6c668fbfa",
-      "3d21e7dcb790b14c8c9e60dcb196aefb2eb7aa55",
-      "f6570c7e52e4ea18761c2a7a3027fd6d8c2da1ad"
-    ],
-    "imageUrl": "/images/articles/dcbb3e56d7ee.jpg",
-    "i18n": {
-      "ko": {
-        "title": "해외 학교 한국어반 4년새 54% 급증, 초중고 한국어 학습 수요도 커졌다",
-        "excerpt": "국회 교육위원회 김문수 더불어민주당 의원이 10일 공개한 자료에 따르면 해외 초중고 한국어반 운영 학교는 최근 4년간 54%, 수강 학생은 38% 늘었다.",
-        "body": "해외 초중고에서 한국어반을 운영하는 학교가 최근 4년 사이 54% 증가한 것으로 나타났다. 10일 국회 교육위원회 소속 김문수 더불어민주당 의원이 공개한 자료에 따르면, 외국 초중고 가운데 한국어반을 운영하는 학교 수가 빠르게 늘었고 같은 기간 이들 학교에서 한국어를 배우는 학생 수도 38% 증가했다. 한국어반 확대는 해외 학교 현장에서 한국어 학습 수요가 커지고 있음을 보여주는 지표로 해석된다. 학교 수와 학생 수가 동시에 늘어난 만큼 한국어 교육 기반도 더 넓어지고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korean Classes at Overseas Schools Surge 54% in Four Years as Student Demand Rises",
-        "excerpt": "Data released on the 10th by Rep. Kim Moon-soo of the National Assembly Education Committee shows overseas elementary and secondary schools with Korean classes rose 54%, while students increased 38%.",
-        "body": "The number of overseas elementary, middle and high schools offering Korean language classes has risen 54% over the past four years. According to data released on the 10th by Rep. Kim Moon-soo of the Democratic Party, a member of the National Assembly Education Committee, the number of foreign primary and secondary schools operating Korean classes has grown rapidly. During the same period, the number of students learning Korean at those schools also increased 38%. The expansion of Korean classes indicates rising demand for Korean language learning in overseas schools. With both school and student numbers increasing, the base for Korean education abroad is broadening. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "海外学校の韓国語クラスが4年で54%急増、学習生徒も38%増加",
-        "excerpt": "国会教育委員会所属の金文洙・共に民主党議員が10日に公開した資料によると、海外の初中高校で韓国語クラスを運営する学校は4年で54%、受講生は38%増えた。",
-        "body": "海外の初等・中等学校で韓国語クラスを運営する学校が、最近4年間で54%増加したことが分かった。10日、国会教育委員会所属の金文洙・共に民主党議員が公開した資料によると、外国の小中高校のうち韓国語クラスを設ける学校数が急速に増えた。同じ期間、これらの学校で韓国語を学ぶ生徒数も38%増加した。韓国語クラスの拡大は、海外の学校現場で韓国語学習需要が高まっていることを示す指標といえる。学校数と生徒数が同時に増え、韓国語教育の基盤も広がっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "海外学校韩语班四年激增54%，中小学韩语学习需求同步扩大",
-        "excerpt": "据国会教育委员会共同民主党议员金文洙10日公开的资料，海外中小学开设韩语班的学校近四年增加54%，学习韩语的学生数也增长38%。",
-        "body": "海外小学、初中和高中开设韩语班的学校在最近四年增加了54%。据国会教育委员会所属共同民主党议员金文洙10日公开的资料，在外国中小学中，运营韩语班的学校数量快速增长。同期，在这些学校学习韩语的学生人数也增加了38%。韩语班的扩大显示，海外学校现场对韩语学习的需求正在上升。随着学校数量和学生数量同时增加，海外韩语教育的基础也在进一步扩大。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Clases de coreano en escuelas extranjeras suben 54% en cuatro años y crecen alumnos",
-        "excerpt": "Según datos divulgados el día 10 por el diputado Kim Moon-soo, del Comité de Educación de la Asamblea Nacional, las escuelas extranjeras con clases de coreano aumentaron 54% y los alumnos 38%.",
-        "body": "El número de escuelas primarias y secundarias extranjeras que ofrecen clases de coreano aumentó 54% en los últimos cuatro años. Según datos divulgados el día 10 por el diputado Kim Moon-soo, del Partido Democrático y miembro del Comité de Educación de la Asamblea Nacional, creció con rapidez la cantidad de centros extranjeros que operan clases de coreano. En el mismo periodo, el número de estudiantes que aprenden coreano en esas escuelas también subió 38%. La expansión de estas clases muestra una mayor demanda de aprendizaje del idioma coreano en escuelas del exterior. Con más escuelas y alumnos, la base de la educación en coreano fuera de Corea se amplía. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Aulas de coreano em escolas no exterior crescem 54% em quatro anos, com mais alunos",
-        "excerpt": "Dados divulgados no dia 10 pelo deputado Kim Moon-soo, do Comitê de Educação da Assembleia Nacional, mostram alta de 54% nas escolas estrangeiras com aulas de coreano e de 38% nos alunos.",
-        "body": "O número de escolas de ensino fundamental e médio no exterior que oferecem aulas de coreano aumentou 54% nos últimos quatro anos. Segundo dados divulgados no dia 10 pelo deputado Kim Moon-soo, do Partido Democrático e membro do Comitê de Educação da Assembleia Nacional, cresceu rapidamente a quantidade de escolas estrangeiras que mantêm turmas de coreano. No mesmo período, o número de estudantes que aprendem coreano nessas instituições também subiu 38%. A expansão das turmas indica aumento da demanda pelo aprendizado do idioma coreano em escolas fora da Coreia. Com mais escolas e alunos, a base da educação em coreano no exterior está se ampliando. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreanischklassen an Auslandsschulen steigen in vier Jahren um 54%, Schülerzahl wächst",
-        "excerpt": "Laut Daten, die der Abgeordnete Kim Moon-soo aus dem Bildungsausschuss am 10. veröffentlichte, stieg die Zahl ausländischer Schulen mit Koreanischklassen um 54%, die Schülerzahl um 38%.",
-        "body": "Die Zahl ausländischer Grund- und weiterführender Schulen, die Koreanischklassen anbieten, ist in den vergangenen vier Jahren um 54% gestiegen. Das geht aus Daten hervor, die der Abgeordnete Kim Moon-soo von der Demokratischen Partei, Mitglied des Bildungsausschusses der Nationalversammlung, am 10. veröffentlichte. Demnach nahm die Zahl der ausländischen Schulen mit Koreanischklassen deutlich zu. Im selben Zeitraum stieg auch die Zahl der Schülerinnen und Schüler, die an diesen Schulen Koreanisch lernen, um 38%. Die Ausweitung der Koreanischklassen zeigt eine wachsende Nachfrage nach Koreanischunterricht an Schulen im Ausland. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les classes de coréen à l’étranger bondissent de 54% en quatre ans, les élèves aussi",
-        "excerpt": "Selon des données publiées le 10 par le député Kim Moon-soo, de la commission de l’éducation, les écoles étrangères proposant le coréen ont augmenté de 54% et les élèves de 38%.",
-        "body": "Le nombre d’écoles primaires et secondaires étrangères proposant des classes de coréen a augmenté de 54% au cours des quatre dernières années. Selon des données publiées le 10 par le député Kim Moon-soo, du Parti démocrate et membre de la commission de l’éducation de l’Assemblée nationale, les établissements étrangers organisant des classes de coréen se sont multipliés rapidement. Sur la même période, le nombre d’élèves apprenant le coréen dans ces écoles a aussi progressé de 38%. Cette expansion montre une demande accrue pour l’apprentissage du coréen dans les écoles à l’étranger. Avec davantage d’écoles et d’élèves, la base de l’enseignement du coréen hors de Corée s’élargit. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صفوف الكورية في المدارس الخارجية تقفز 54% خلال أربع سنوات والطلاب يزيدون 38%",
-        "excerpt": "أظهرت بيانات نشرها النائب كيم مون سو في لجنة التعليم بالجمعية الوطنية يوم 10 أن المدارس الأجنبية التي تدير صفوفا للكورية زادت 54% خلال أربع سنوات، والطلاب 38%.",
-        "body": "ارتفع عدد المدارس الابتدائية والمتوسطة والثانوية في الخارج التي تدير صفوفا للغة الكورية بنسبة 54% خلال السنوات الأربع الأخيرة. وبحسب بيانات نشرها يوم 10 النائب كيم مون سو من الحزب الديمقراطي، عضو لجنة التعليم في الجمعية الوطنية، فقد ازداد بسرعة عدد المدارس الأجنبية التي تقدم صفوفا للكورية. وخلال الفترة نفسها، زاد عدد الطلاب الذين يتعلمون الكورية في هذه المدارس بنسبة 38%. ويشير توسع صفوف الكورية إلى نمو الطلب على تعلم اللغة الكورية في المدارس خارج كوريا. ومع ارتفاع عدد المدارس والطلاب معا، تتسع قاعدة تعليم الكورية في الخارج. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "विदेशी स्कूलों में कोरियाई कक्षाएं चार साल में 54% बढ़ीं, छात्रों की संख्या 38% ऊपर",
-        "excerpt": "नेशनल असेंबली की शिक्षा समिति के सांसद किम मून-सू द्वारा 10 तारीख को जारी आंकड़ों के अनुसार, विदेशों के स्कूलों में कोरियाई कक्षाएं 54% और छात्रों की संख्या 38% बढ़ी।",
-        "body": "विदेशों के प्राथमिक, मध्य और उच्च विद्यालयों में कोरियाई भाषा की कक्षाएं चलाने वाले स्कूलों की संख्या पिछले चार वर्षों में 54% बढ़ी है। नेशनल असेंबली की शिक्षा समिति के सदस्य और डेमोक्रेटिक पार्टी के सांसद किम मून-सू द्वारा 10 तारीख को जारी आंकड़ों के अनुसार, विदेशी स्कूलों में कोरियाई कक्षाएं तेजी से बढ़ी हैं। इसी अवधि में, इन स्कूलों में कोरियाई सीखने वाले छात्रों की संख्या भी 38% बढ़ी। कोरियाई कक्षाओं का विस्तार विदेशों के स्कूलों में कोरियाई भाषा सीखने की मांग बढ़ने का संकेत देता है। स्कूलों और छात्रों दोनों की संख्या बढ़ने से विदेशों में कोरियाई शिक्षा का आधार व्यापक हो रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kelas Bahasa Korea di Sekolah Luar Negeri Naik 54% dalam Empat Tahun, Siswa Bertambah",
-        "excerpt": "Data yang dirilis pada tanggal 10 oleh anggota Komite Pendidikan Majelis Nasional Kim Moon-soo menunjukkan sekolah asing dengan kelas bahasa Korea naik 54% dan jumlah siswa naik 38%.",
-        "body": "Jumlah sekolah dasar, menengah, dan atas di luar negeri yang membuka kelas bahasa Korea meningkat 54% dalam empat tahun terakhir. Menurut data yang dirilis pada tanggal 10 oleh Kim Moon-soo dari Partai Demokrat, anggota Komite Pendidikan Majelis Nasional, jumlah sekolah asing yang mengoperasikan kelas bahasa Korea bertambah cepat. Pada periode yang sama, jumlah siswa yang belajar bahasa Korea di sekolah-sekolah tersebut juga naik 38%. Perluasan kelas bahasa Korea menunjukkan meningkatnya permintaan pembelajaran bahasa Korea di sekolah luar negeri. Karena jumlah sekolah dan siswa sama-sama bertambah, basis pendidikan bahasa Korea di luar Korea juga makin luas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a0519e91bbdd",
-    "slug": "포토-활짝-핀-유채꽃밭서-봄-만끽-424385",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T18:07:29.817Z",
-    "updatedAt": "2026-05-10T18:07:29.817Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042705",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042705",
-    "titleFingerprint": "83f37cdcd13fa23191640da5d5075a1a4ee6bcdc",
-    "dedupKeys": [
-      "a0519e91bbdd6cf1eb2751652f1d6822e6cce163",
-      "83f37cdcd13fa23191640da5d5075a1a4ee6bcdc",
-      "73646a44dd7ac34e5ec1b28f9ce491403757771e"
-    ],
-    "imageUrl": "/images/articles/a0519e91bbdd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "유채꽃밭 봄 만끽 현장, 활짝 핀 꽃밭 담은 포토 뉴스",
-        "excerpt": "mk.co.kr은 활짝 핀 유채꽃밭에서 봄을 만끽하는 모습을 포토 뉴스로 전하며, 계절의 변화를 보여주는 현장 장면을 소개했다.",
-        "body": "활짝 핀 유채꽃밭에서 봄을 만끽하는 장면이 포토 뉴스로 전해졌다. mk.co.kr은 ‘[포토] 활짝 핀 유채꽃밭서 봄 만끽’이라는 제목으로, 노란 유채꽃이 가득한 꽃밭에서 봄 분위기를 즐기는 모습을 소개했다. 원문에는 구체적인 촬영 장소, 날짜, 인물 이름, 방문객 수 등 추가 수치는 제시되지 않았다. 이번 사진 기사는 봄철 꽃밭 풍경을 통해 계절감을 전하는 데 초점을 맞췄다. 독자들은 활짝 핀 유채꽃밭의 색감과 현장 분위기를 통해 봄 나들이의 정취를 확인할 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Canola Flower Field in Full Bloom Captures a Spring Moment in Photo News",
-        "excerpt": "mk.co.kr reported a photo news item showing people enjoying spring in a fully blooming canola flower field, presenting a seasonal scene of bright flowers.",
-        "body": "A scene of spring being enjoyed in a fully blooming canola flower field was reported as photo news. Under the title “[Photo] Enjoying Spring in a Canola Field in Full Bloom,” mk.co.kr introduced a view of people taking in the spring atmosphere among yellow canola flowers. The original item did not provide additional details such as the exact location, date, names of people shown, or visitor numbers. The photo news focuses on conveying the feeling of the season through a spring flower-field landscape. Readers can understand the mood of a spring outing through the colors and setting of the blooming canola field. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "満開の菜の花畑で春を満喫する様子を伝えたフォトニュース",
-        "excerpt": "mk.co.krは、満開の菜の花畑で春を満喫する様子をフォトニュースとして伝え、季節の移ろいを感じさせる現場の風景を紹介した。",
-        "body": "満開の菜の花畑で春を満喫する場面がフォトニュースとして伝えられた。mk.co.krは「【フォト】満開の菜の花畑で春を満喫」というタイトルで、黄色い菜の花が広がる花畑の中で春の雰囲気を楽しむ様子を紹介した。原文には、具体的な撮影場所、日付、人物名、来場者数などの追加情報や数値は示されていない。今回の写真記事は、春の花畑の風景を通じて季節感を伝えることに焦点を当てている。読者は、満開の菜の花畑の色彩と現場の雰囲気から、春の外出の趣を感じ取ることができる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "盛开的油菜花田里尽享春意，照片新闻记录现场景象",
-        "excerpt": "mk.co.kr以照片新闻形式报道了人们在盛开的油菜花田中感受春天的场景，呈现出展现季节变化的现场画面。",
-        "body": "在盛开的油菜花田里尽享春天的场景被作为照片新闻报道。mk.co.kr以《【照片】在盛开的油菜花田里尽享春天》为题，介绍了黄色油菜花铺满花田、人们感受春日氛围的画面。原文未提供具体拍摄地点、日期、人物姓名、游客数量等补充信息或相关数字。此次照片新闻的重点，是通过春季花田景观传递季节感。读者可以从盛开的油菜花田色彩和现场氛围中，感受到春日出游的意趣。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Campo de flores de colza en plena floración muestra una escena de primavera",
-        "excerpt": "mk.co.kr publicó una fotonoticia sobre personas disfrutando la primavera en un campo de flores de colza en plena floración, con una imagen estacional.",
-        "body": "Una escena de primavera en un campo de flores de colza en plena floración fue presentada como fotonoticia. Con el título “[Foto] Disfrutando la primavera en un campo de colza en plena floración”, mk.co.kr mostró una vista de un campo lleno de flores amarillas donde se percibe el ambiente primaveral. El texto original no incluyó detalles adicionales como el lugar exacto de la toma, la fecha, nombres de las personas o cifras de visitantes. La pieza se centra en transmitir la sensación de la estación mediante el paisaje de un campo florido. Los lectores pueden apreciar el ambiente de una salida primaveral a través del color y la escena del campo de colza. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Campo de flores de colza em plena floração mostra momento de primavera",
-        "excerpt": "mk.co.kr publicou uma fotonotícia mostrando pessoas aproveitando a primavera em um campo de flores de colza em plena floração, com cena sazonal.",
-        "body": "Uma cena de primavera em um campo de flores de colza em plena floração foi apresentada como fotonotícia. Com o título “[Foto] Aproveitando a primavera em um campo de colza em plena floração”, o mk.co.kr mostrou uma paisagem de flores amarelas na qual se percebe o clima da estação. O texto original não informou detalhes adicionais, como local exato da foto, data, nomes das pessoas ou número de visitantes. A matéria fotográfica se concentra em transmitir a sensação da primavera por meio da paisagem do campo florido. Os leitores podem sentir o ambiente de um passeio de primavera pelas cores e pela cena do campo de colza. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Rapsblumenfeld in voller Blüte zeigt Frühlingsstimmung in Fotobeitrag",
-        "excerpt": "mk.co.kr berichtete in einem Fotobeitrag über Menschen, die den Frühling in einem voll erblühten Rapsblumenfeld genießen, und zeigte eine saisonale Szene.",
-        "body": "Eine Szene, in der der Frühling in einem voll erblühten Rapsblumenfeld genossen wird, wurde als Fotobeitrag veröffentlicht. Unter dem Titel “[Foto] Den Frühling im voll erblühten Rapsfeld genießen” zeigte mk.co.kr ein Bild gelber Rapsblumen und einer frühlingshaften Atmosphäre im Blumenfeld. Der Originaltext nannte keine weiteren Angaben wie genauen Aufnahmeort, Datum, Namen der abgebildeten Personen oder Besucherzahlen. Der Fotobeitrag konzentriert sich darauf, über die Landschaft eines Frühlingsblumenfeldes ein Gefühl für die Jahreszeit zu vermitteln. Leser können durch Farbe und Stimmung des blühenden Rapsfeldes den Eindruck eines Frühlingsausflugs erfassen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Champ de colza en pleine floraison, une scène de printemps en photo",
-        "excerpt": "mk.co.kr a publié une photo d’actualité montrant des personnes profitant du printemps dans un champ de colza en pleine floraison, avec une scène saisonnière.",
-        "body": "Une scène de printemps dans un champ de colza en pleine floraison a été présentée sous forme de photo d’actualité. Sous le titre « [Photo] Profiter du printemps dans un champ de colza en pleine floraison », mk.co.kr a montré un paysage rempli de fleurs jaunes et une atmosphère printanière. Le texte original ne précise pas le lieu exact de la prise de vue, la date, les noms des personnes représentées ni le nombre de visiteurs. Cet article photo se concentre sur la transmission du sentiment de saison à travers un paysage floral printanier. Les lecteurs peuvent percevoir l’ambiance d’une sortie de printemps grâce aux couleurs et à la scène du champ de colza. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "حقل زهور اللفت المتفتح ينقل أجواء الربيع في خبر مصور",
-        "excerpt": "نشر mk.co.kr خبرا مصورا يظهر الاستمتاع بالربيع في حقل زهور لفت متفتح بالكامل، مقدما مشهدا موسميا يعكس تغير الأجواء.",
-        "body": "نقل خبر مصور مشهدا للاستمتاع بالربيع في حقل زهور لفت متفتح بالكامل. وتحت عنوان “[صورة] الاستمتاع بالربيع في حقل زهور لفت متفتح”، عرض mk.co.kr منظرا لحقل تمتلئ مساحته بزهور صفراء وأجواء ربيعية واضحة. ولم يذكر النص الأصلي تفاصيل إضافية مثل موقع التصوير المحدد أو التاريخ أو أسماء الأشخاص أو عدد الزوار. يركز هذا الخبر المصور على نقل الإحساس بالموسم من خلال مشهد حقل الزهور في الربيع. ويمكن للقراء تلمس أجواء نزهة ربيعية عبر ألوان حقل زهور اللفت المتفتح والمشهد المحيط به. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "पूरी तरह खिले कैनोला फूलों के खेत में वसंत का दृश्य फोटो समाचार में",
-        "excerpt": "mk.co.kr ने पूरी तरह खिले कैनोला फूलों के खेत में वसंत का आनंद लेने का दृश्य फोटो समाचार के रूप में पेश किया, जिसमें मौसमी माहौल दिखा।",
-        "body": "पूरी तरह खिले कैनोला फूलों के खेत में वसंत का आनंद लेने का दृश्य फोटो समाचार के रूप में सामने आया। mk.co.kr ने “[फोटो] खिले हुए कैनोला फूलों के खेत में वसंत का आनंद” शीर्षक से पीले फूलों से भरे खेत और वसंत के माहौल को दिखाया। मूल सामग्री में सटीक स्थान, तारीख, दिखे लोगों के नाम या आगंतुकों की संख्या जैसी अतिरिक्त जानकारी नहीं दी गई। यह फोटो समाचार वसंत ऋतु के फूलों वाले परिदृश्य के जरिए मौसम का एहसास कराने पर केंद्रित है। पाठक खिले हुए कैनोला फूलों के रंग और दृश्य से वसंत की सैर का माहौल समझ सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Ladang Bunga Kanola Mekar Penuh Tampilkan Suasana Musim Semi",
-        "excerpt": "mk.co.kr menerbitkan berita foto tentang suasana menikmati musim semi di ladang bunga kanola yang mekar penuh, menampilkan pemandangan musiman.",
-        "body": "Sebuah suasana menikmati musim semi di ladang bunga kanola yang mekar penuh disampaikan sebagai berita foto. Dengan judul “[Foto] Menikmati musim semi di ladang bunga kanola yang mekar penuh”, mk.co.kr menampilkan pemandangan ladang penuh bunga kuning dengan nuansa musim semi. Teks asli tidak memberikan rincian tambahan seperti lokasi pemotretan yang spesifik, tanggal, nama orang yang terlihat, atau jumlah pengunjung. Berita foto ini berfokus pada penyampaian kesan musim melalui lanskap ladang bunga pada musim semi. Pembaca dapat menangkap suasana jalan-jalan musim semi dari warna dan kondisi ladang bunga kanola yang sedang mekar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c14903873a47",
-    "slug": "빨라지는-검찰-엑소더스경력판사-지원-역대-최대-878510",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-10T18:06:25.442Z",
-    "updatedAt": "2026-05-10T18:06:25.442Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042704",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042704",
-    "titleFingerprint": "0da51a95d2d5971290728f554e2250f3cf9694bb",
-    "dedupKeys": [
-      "c14903873a47358f81d0b9843bd1749b28d1c253",
-      "0da51a95d2d5971290728f554e2250f3cf9694bb",
-      "030c845f8eee5f40da62aaa12380723c0c0b2cda"
-    ],
-    "imageUrl": "/images/articles/c14903873a47.jpg",
-    "i18n": {
-      "ko": {
-        "title": "검찰청 폐지 앞두고 검사 이탈 가속…경력판사 지원 역대 최대",
-        "excerpt": "검찰청 폐지를 약 5개월 앞둔 가운데 검사들의 사직·휴직·외부 파견이 이어지고, 올해 검사 출신 법조경력자 법관 임용 지원자가 역대 최대를 기록했다.",
-        "body": "검찰청 폐지를 약 5개월 앞두고 검사들의 조직 이탈 움직임이 빨라지고 있다. 사직과 휴직, 외부 파견이 잇따르며 검찰 내부의 인력 이동이 확대되는 흐름이다. 특히 올해 검사 출신 법조경력자가 법관 임용에 지원한 규모가 역대 최대 수준으로 나타나면서, 경력판사 지원 현상도 두드러지고 있다. 검찰청 폐지를 앞둔 조직 변화가 검사들의 진로 선택에 직접적인 영향을 주고 있다는 점에서 법조계의 관심이 커지고 있다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Prosecutor Exodus Speeds Up Before Office Abolition, Judge Applications Hit Record",
-        "excerpt": "With about five months left before the prosecutors' office is abolished, resignations, leaves and outside assignments are rising, while prosecutor applicants for career judge posts reached a record high this year.",
-        "body": "With the abolition of the prosecutors' office about five months away, prosecutors are moving out of the organization at a faster pace. Resignations, leaves of absence and external assignments are continuing, pointing to a widening shift in personnel inside the prosecution service. This year, the number of applicants from prosecutor backgrounds seeking appointment as career judges reached an all-time high. The trend is drawing attention across the legal community because the upcoming abolition of the office appears to be directly shaping prosecutors' career choices. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "検察庁廃止控え検事の離脱加速、経歴判事志願は過去最多に",
-        "excerpt": "検察庁廃止まで約5カ月となる中、検事の辞職・休職・外部派遣が相次ぎ、今年の検事出身法曹経験者による判事任用志願者は過去最多となった。",
-        "body": "検察庁廃止を約5カ月後に控え、検事の組織離脱の動きが速まっている。辞職や休職、外部派遣が相次ぎ、検察内部で人材移動が広がる流れが見られる。特に今年は、検事出身の法曹経験者が判事任用に志願した人数が過去最多水準となり、経歴判事への志願が目立っている。検察庁廃止を前にした組織変化が、検事の進路選択に直接影響している点で、法曹界の関心が高まっている。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "检察厅废止前检察官离职加速，职业法官申请人数创历史新高",
-        "excerpt": "距离检察厅废止约5个月之际，检察官辞职、休职和外派接连出现，今年检察官出身法律从业者申请法官任用的人数创历史新高。",
-        "body": "距离检察厅废止约5个月，检察官脱离组织的动向正在加速。辞职、休职以及外部派遣相继出现，显示检察系统内部的人才流动正在扩大。尤其是今年，检察官出身的法律从业者申请法官任用的人数达到历史最高水平，职业法官申请现象更加突出。检察厅废止前的组织变化正直接影响检察官的职业选择，因此受到法律界关注。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Éxodo de fiscales se acelera antes del cierre de la fiscalía; solicitudes a juez baten récord",
-        "excerpt": "A unos cinco meses de la abolición de la fiscalía, aumentan renuncias, licencias y traslados externos, mientras fiscales que postulan a jueces de carrera alcanzan un récord este año.",
-        "body": "A unos cinco meses de la abolición de la fiscalía, se acelera la salida de fiscales de la organización. Las renuncias, las licencias y los destinos externos se suceden, mostrando una ampliación del movimiento de personal dentro del Ministerio Público. En particular, este año el número de juristas con trayectoria como fiscales que solicitaron ser nombrados jueces de carrera alcanzó un máximo histórico. El fenómeno atrae la atención del sector legal porque el cambio organizativo previo a la abolición de la fiscalía está influyendo directamente en las decisiones profesionales de los fiscales. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Êxodo de promotores acelera antes da extinção da promotoria; candidaturas a juiz batem recorde",
-        "excerpt": "A cerca de cinco meses da extinção da promotoria, aumentam demissões, licenças e designações externas, enquanto promotores candidatos a juízes de carreira chegaram a recorde neste ano.",
-        "body": "A cerca de cinco meses da extinção da promotoria, o movimento de saída de promotores da organização está acelerando. Demissões, licenças e designações externas vêm ocorrendo em sequência, indicando uma ampliação da movimentação de pessoal dentro do Ministério Público. Neste ano, em especial, o número de profissionais jurídicos oriundos da promotoria que se candidataram à nomeação como juízes de carreira atingiu o maior nível da história. A mudança organizacional antes da extinção da promotoria chama atenção do meio jurídico por influenciar diretamente as escolhas de carreira dos promotores. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Staatsanwälte verlassen Behörde schneller vor Abschaffung; Bewerbungen als Richter auf Rekordhoch",
-        "excerpt": "Rund fünf Monate vor der Abschaffung der Staatsanwaltschaft häufen sich Rücktritte, Beurlaubungen und externe Entsendungen; Bewerbungen ehemaliger Staatsanwälte für Richterposten erreichten ein Rekordhoch.",
-        "body": "Rund fünf Monate vor der Abschaffung der Staatsanwaltschaft beschleunigt sich die Abwanderung von Staatsanwälten aus der Organisation. Rücktritte, Beurlaubungen und externe Entsendungen folgen aufeinander und zeigen eine wachsende Personalbewegung innerhalb der Behörde. Besonders auffällig ist, dass in diesem Jahr die Zahl der Bewerber mit staatsanwaltlicher Laufbahn für eine Ernennung als erfahrene Richter ein historisches Hoch erreicht hat. Die bevorstehende Abschaffung der Behörde beeinflusst damit direkt die Karriereentscheidungen von Staatsanwälten und sorgt in der Rechtsbranche für Aufmerksamkeit. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "L'exode des procureurs s'accélère avant la suppression du parquet; candidatures de juges record",
-        "excerpt": "À environ cinq mois de la suppression du parquet, démissions, congés et détachements externes se multiplient, tandis que les candidatures de procureurs à des postes de juges de carrière atteignent un record cette année.",
-        "body": "À environ cinq mois de la suppression du parquet, les départs de procureurs de leur organisation s'accélèrent. Les démissions, congés et détachements externes se succèdent, signe d'un mouvement de personnel plus large au sein du ministère public. Cette année, le nombre de professionnels du droit issus du parquet ayant demandé une nomination comme juges de carrière a atteint un niveau record. Cette tendance attire l'attention du monde juridique, car la réorganisation liée à la suppression du parquet influence directement les choix de carrière des procureurs. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "تسارع خروج المدعين قبل إلغاء مكتب الادعاء وطلبات قضاة الخبرة تسجل رقما قياسيا",
-        "excerpt": "مع بقاء نحو خمسة أشهر على إلغاء مكتب الادعاء، تتزايد الاستقالات والإجازات والانتدابات الخارجية، فيما بلغ عدد المدعين المتقدمين لتعيينات قضاة من ذوي الخبرة مستوى قياسيا هذا العام.",
-        "body": "مع اقتراب إلغاء مكتب الادعاء بعد نحو خمسة أشهر، تتسارع حركة خروج المدعين من المؤسسة. وتتوالى الاستقالات والإجازات والانتدابات إلى جهات خارجية، ما يعكس اتساع حركة انتقال الكوادر داخل جهاز الادعاء. وبرز هذا العام وصول عدد القانونيين من خلفية ادعاء الذين تقدموا للتعيين كقضاة من ذوي الخبرة إلى أعلى مستوى تاريخي. ويحظى هذا الاتجاه باهتمام الأوساط القانونية لأن التغيير التنظيمي المرتبط بإلغاء مكتب الادعاء يؤثر مباشرة في خيارات المدعين المهنية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "अभियोजन कार्यालय खत्म होने से पहले अभियोजकों का पलायन तेज, जज पदों के आवेदन रिकॉर्ड पर",
-        "excerpt": "अभियोजन कार्यालय समाप्त होने में करीब पांच महीने बाकी हैं, इसी बीच इस्तीफे, अवकाश और बाहरी प्रतिनियुक्तियां बढ़ रही हैं तथा अभियोजक पृष्ठभूमि वाले करियर जज आवेदक इस साल रिकॉर्ड स्तर पर पहुंचे।",
-        "body": "अभियोजन कार्यालय के समाप्त होने में करीब पांच महीने बाकी हैं और अभियोजकों के संगठन छोड़ने की गति तेज हो रही है। इस्तीफे, अवकाश और बाहरी प्रतिनियुक्तियां लगातार हो रही हैं, जिससे अभियोजन तंत्र के भीतर कर्मियों की आवाजाही बढ़ती दिख रही है। इस साल अभियोजक पृष्ठभूमि वाले विधि पेशेवरों द्वारा करियर जज नियुक्ति के लिए आवेदन करने वालों की संख्या अब तक के उच्चतम स्तर पर पहुंच गई। कार्यालय समाप्ति से पहले का संगठनात्मक बदलाव अभियोजकों के करियर चयन को सीधे प्रभावित कर रहा है, इसलिए कानूनी जगत में इस पर ध्यान बढ़ रहा है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Eksodus Jaksa Makin Cepat Jelang Pembubaran Kejaksaan, Lamaran Hakim Karier Rekor",
-        "excerpt": "Sekitar lima bulan sebelum kejaksaan dibubarkan, pengunduran diri, cuti dan penugasan eksternal jaksa terus terjadi, sementara pelamar hakim karier berlatar jaksa mencapai rekor tahun ini.",
-        "body": "Sekitar lima bulan sebelum kejaksaan dibubarkan, pergerakan jaksa keluar dari organisasi makin cepat. Pengunduran diri, cuti, dan penugasan eksternal terus terjadi, menunjukkan meluasnya perpindahan personel di dalam kejaksaan. Tahun ini, jumlah praktisi hukum berlatar belakang jaksa yang melamar untuk diangkat sebagai hakim karier mencapai tingkat tertinggi sepanjang sejarah. Tren ini menarik perhatian kalangan hukum karena perubahan organisasi menjelang pembubaran kejaksaan secara langsung memengaruhi pilihan karier para jaksa. Sumber: mk.co.kr."
       }
     }
   }

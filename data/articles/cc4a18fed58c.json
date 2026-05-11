@@ -1,0 +1,75 @@
+{
+  "id": "cc4a18fed58c",
+  "slug": "whitehat-returns-190k-to-renegade-hours-after-hacking-the-pr-764035",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-11T07:37:09.109Z",
+  "updatedAt": "2026-05-11T07:37:09.109Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/whitehat-returns-190k-renegade-hours-after-hacking-the-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/whitehat-returns-190k-renegade-hours-after-hacking-the-protocol",
+  "titleFingerprint": "714938440f878abfac23a594597eab7d37eeea51",
+  "dedupKeys": [
+    "cc4a18fed58c30b51916a0df1be50d44faad40cb",
+    "714938440f878abfac23a594597eab7d37eeea51",
+    "c6c26c561489bf04886cd909e8f01ae9dacab28b"
+  ],
+  "imageUrl": "/images/articles/cc4a18fed58c.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Renegade 해킹 후 몇 시간 만에 화이트햇이 19만 달러 반환",
+      "excerpt": "화이트햇 해커가 Renegade 다크풀을 공격한 지 몇 시간 만에 19만 달러를 반환했으며, DeFi 이용자 자금과 안전을 지키기 위한 조치였다고 밝혔다.",
+      "body": "화이트햇 해커가 Renegade 프로토콜의 다크풀을 해킹한 뒤 몇 시간 만에 19만 달러를 반환했다. 해당 해커는 이번 익스플로잇 결정이 DeFi 이용자의 자금과 안전을 보호하기 위한 것이었다고 설명했다. 사건의 핵심은 공격 이후 자금이 장기간 유출 상태로 남지 않고 빠르게 되돌아왔다는 점이다. Renegade는 다크풀 구조를 활용하는 프로토콜로 언급됐으며, 이번 사례는 DeFi 보안과 화이트햇 대응의 중요성을 다시 부각했다. 향후 관련 프로토콜들은 취약점 점검과 사고 대응 체계를 강화할 필요가 있다. 출처: cointelegraph.com."
+    },
+    "en": {
+      "title": "Renegade Hack: Whitehat Returns $190K Within Hours",
+      "excerpt": "A whitehat hacker returned $190,000 to Renegade just hours after exploiting its dark pool, saying the move was intended to protect DeFi users’ funds and safety.",
+      "body": "A whitehat hacker returned $190,000 to the Renegade protocol within hours of hacking its dark pool. The hacker said the decision to exploit Renegade was made to protect the funds and safety of DeFi users. The key point in the incident is that the funds did not remain out of the protocol for an extended period and were sent back quickly. Renegade was described as a protocol using a dark pool structure, and the case again highlights the importance of DeFi security and whitehat response. Related protocols may need to strengthen vulnerability checks and incident response procedures. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "Renegadeハッキング後、ホワイトハットが19万ドルを数時間で返還",
+      "excerpt": "ホワイトハットハッカーはRenegadeのダークプールを攻撃してから数時間後に19万ドルを返還し、DeFi利用者の資金と安全を守るためだったと説明した。",
+      "body": "ホワイトハットハッカーがRenegadeプロトコルのダークプールをハッキングした後、数時間以内に19万ドルを返還した。ハッカーは、今回Renegadeをエクスプロイトした判断はDeFi利用者の資金と安全を守るためだったと説明している。事件の要点は、資金が長期間流出状態に置かれず、短時間で戻されたことだ。Renegadeはダークプール構造を利用するプロトコルとして言及されており、今回の事例はDeFiセキュリティとホワイトハット対応の重要性を改めて示した。今後、関連プロトコルには脆弱性点検と事故対応体制の強化が求められる。出典: cointelegraph.com."
+    },
+    "zh": {
+      "title": "Renegade遭黑客攻击后，白帽数小时内归还19万美元",
+      "excerpt": "一名白帽黑客在利用Renegade暗池漏洞数小时后归还19万美元，并表示此举是为了保护DeFi用户的资金与安全。",
+      "body": "一名白帽黑客在攻击Renegade协议的暗池后，数小时内归还了19万美元。该黑客表示，决定利用Renegade漏洞，是为了保护DeFi用户的资金和安全。此次事件的重点在于，资金并未长期处于外流状态，而是在短时间内被返还。Renegade被提及为使用暗池结构的协议，这一案例再次凸显了DeFi安全和白帽响应的重要性。未来，相关协议可能需要加强漏洞检查和事故应对机制。来源: cointelegraph.com."
+    },
+    "es": {
+      "title": "Hackeo a Renegade: whitehat devuelve 190.000 dólares en horas",
+      "excerpt": "Un hacker whitehat devolvió 190.000 dólares a Renegade pocas horas después de explotar su dark pool y dijo que actuó para proteger fondos y seguridad de usuarios DeFi.",
+      "body": "Un hacker whitehat devolvió 190.000 dólares al protocolo Renegade pocas horas después de hackear su dark pool. El hacker afirmó que la decisión de explotar Renegade se tomó para proteger los fondos y la seguridad de los usuarios de DeFi. El punto central del caso es que los fondos no permanecieron fuera del protocolo durante un periodo prolongado y fueron devueltos rápidamente. Renegade fue descrito como un protocolo que utiliza una estructura de dark pool, y el episodio vuelve a destacar la importancia de la seguridad en DeFi y de las respuestas whitehat. Los protocolos relacionados podrían reforzar sus revisiones de vulnerabilidades y sus planes de respuesta a incidentes. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "Renegade hackeado: whitehat devolve US$ 190 mil em poucas horas",
+      "excerpt": "Um hacker whitehat devolveu US$ 190 mil à Renegade horas após explorar seu dark pool, dizendo que a ação buscava proteger fundos e segurança de usuários DeFi.",
+      "body": "Um hacker whitehat devolveu US$ 190 mil ao protocolo Renegade poucas horas depois de hackear seu dark pool. O hacker afirmou que a decisão de explorar a Renegade foi tomada para proteger os fundos e a segurança dos usuários de DeFi. O ponto central do caso é que os fundos não permaneceram fora do protocolo por um período prolongado e foram devolvidos rapidamente. A Renegade foi descrita como um protocolo que usa uma estrutura de dark pool, e o episódio volta a destacar a importância da segurança em DeFi e da resposta de whitehats. Protocolos relacionados podem precisar reforçar verificações de vulnerabilidades e processos de resposta a incidentes. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "Renegade-Hack: Whitehat gibt 190.000 Dollar nach Stunden zurück",
+      "excerpt": "Ein Whitehat-Hacker gab 190.000 Dollar an Renegade zurück, nur Stunden nach dem Angriff auf den Dark Pool, und verwies auf den Schutz von DeFi-Nutzern.",
+      "body": "Ein Whitehat-Hacker gab 190.000 Dollar an das Renegade-Protokoll zurück, nur wenige Stunden nachdem er dessen Dark Pool gehackt hatte. Der Hacker erklärte, die Entscheidung zur Ausnutzung von Renegade sei getroffen worden, um die Gelder und die Sicherheit von DeFi-Nutzern zu schützen. Entscheidend ist, dass die Mittel nicht lange außerhalb des Protokolls blieben, sondern schnell zurückgeführt wurden. Renegade wurde als Protokoll mit Dark-Pool-Struktur beschrieben, und der Fall unterstreicht erneut die Bedeutung von DeFi-Sicherheit und Whitehat-Reaktionen. Verwandte Protokolle dürften ihre Schwachstellenprüfungen und Reaktionsprozesse bei Vorfällen stärken müssen. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "Renegade piraté: un whitehat rend 190.000 dollars en quelques heures",
+      "excerpt": "Un hacker whitehat a rendu 190.000 dollars à Renegade quelques heures après avoir exploité son dark pool, disant vouloir protéger les fonds et la sécurité des utilisateurs DeFi.",
+      "body": "Un hacker whitehat a rendu 190.000 dollars au protocole Renegade quelques heures après avoir piraté son dark pool. Le hacker a indiqué que la décision d’exploiter Renegade avait été prise pour protéger les fonds et la sécurité des utilisateurs de DeFi. Le point essentiel est que les fonds ne sont pas restés longtemps hors du protocole et ont été renvoyés rapidement. Renegade a été présenté comme un protocole utilisant une structure de dark pool, et ce cas souligne à nouveau l’importance de la sécurité DeFi et des réponses whitehat. Les protocoles concernés pourraient devoir renforcer leurs contrôles de vulnérabilités et leurs procédures de réponse aux incidents. Source: cointelegraph.com."
+    },
+    "ar": {
+      "title": "اختراق Renegade: وايت هات يعيد 190 ألف دولار خلال ساعات",
+      "excerpt": "أعاد مخترق وايت هات 190 ألف دولار إلى Renegade بعد ساعات من استغلال الدارك بول الخاص بها، قائلا إن الهدف كان حماية أموال مستخدمي DeFi وسلامتهم.",
+      "body": "أعاد مخترق وايت هات 190 ألف دولار إلى بروتوكول Renegade بعد ساعات من اختراق الدارك بول الخاص به. وقال المخترق إن قرار استغلال Renegade اتخذ بهدف حماية أموال مستخدمي DeFi وسلامتهم. جوهر الحادثة أن الأموال لم تبق خارج البروتوكول لفترة طويلة، بل أعيدت بسرعة. وذُكر Renegade كبروتوكول يستخدم بنية دارك بول، ما يسلط الضوء مجددا على أهمية أمن DeFi واستجابة مخترقي الوايت هات. وقد تحتاج البروتوكولات ذات الصلة إلى تعزيز فحوص الثغرات وآليات الاستجابة للحوادث. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "Renegade हैक के बाद व्हाइटहैट ने कुछ घंटों में $190K लौटाए",
+      "excerpt": "एक व्हाइटहैट हैकर ने Renegade के डार्क पूल का फायदा उठाने के कुछ घंटों बाद $190K लौटाए और कहा कि मकसद DeFi यूजर्स के फंड और सुरक्षा की रक्षा था।",
+      "body": "एक व्हाइटहैट हैकर ने Renegade प्रोटोकॉल के डार्क पूल को हैक करने के कुछ घंटों बाद $190K लौटा दिए। हैकर ने कहा कि Renegade का एक्सप्लॉइट करने का फैसला DeFi यूजर्स के फंड और सुरक्षा की रक्षा के लिए लिया गया था। इस घटना का मुख्य बिंदु यह है कि फंड लंबे समय तक प्रोटोकॉल से बाहर नहीं रहे और जल्दी वापस कर दिए गए। Renegade को डार्क पूल संरचना का उपयोग करने वाले प्रोटोकॉल के रूप में बताया गया, और यह मामला DeFi सुरक्षा तथा व्हाइटहैट प्रतिक्रिया के महत्व को फिर सामने लाता है। संबंधित प्रोटोकॉल को कमजोरियों की जांच और घटना प्रतिक्रिया व्यवस्था मजबूत करनी पड़ सकती है। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "Renegade Diretas: Whitehat Kembalikan $190K dalam Beberapa Jam",
+      "excerpt": "Seorang whitehat mengembalikan $190K ke Renegade beberapa jam setelah mengeksploitasi dark pool-nya, dengan alasan melindungi dana dan keamanan pengguna DeFi.",
+      "body": "Seorang hacker whitehat mengembalikan $190K ke protokol Renegade beberapa jam setelah meretas dark pool miliknya. Hacker tersebut mengatakan keputusan untuk mengeksploitasi Renegade diambil untuk melindungi dana dan keamanan pengguna DeFi. Inti dari peristiwa ini adalah dana tidak berada di luar protokol dalam waktu lama dan segera dikembalikan. Renegade disebut sebagai protokol yang menggunakan struktur dark pool, dan kasus ini kembali menyoroti pentingnya keamanan DeFi serta respons whitehat. Ke depan, protokol terkait mungkin perlu memperkuat pemeriksaan kerentanan dan prosedur respons insiden. Sumber: cointelegraph.com."
+    }
+  }
+}
