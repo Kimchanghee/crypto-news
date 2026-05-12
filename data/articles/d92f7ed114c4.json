@@ -1,0 +1,75 @@
+{
+  "id": "d92f7ed114c4",
+  "slug": "hackers-insert-malware-into-mistral-ai-software-download-868702",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-12T22:39:50.449Z",
+  "updatedAt": "2026-05-12T22:39:50.449Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367683/hackers-insert-malware-mistral-ai",
+  "canonicalUrl": "https://decrypt.co/367683/hackers-insert-malware-mistral-ai",
+  "titleFingerprint": "d19b3072976a7eff5eb02a6fc4e95d58f72638f6",
+  "dedupKeys": [
+    "d92f7ed114c442f1eee7f5489262fa689b11c161",
+    "d19b3072976a7eff5eb02a6fc4e95d58f72638f6",
+    "2eeedc6ade646e4091e37623a58502aab5d03459"
+  ],
+  "imageUrl": "/images/articles/d92f7ed114c4.jpg",
+  "i18n": {
+    "ko": {
+      "title": "미스트랄 AI 다운로드에 악성코드 삽입, MS가 밝힌 공격 정황",
+      "excerpt": "Microsoft Threat Intelligence는 공격자들이 파이썬 패키지를 통해 배포된 미스트랄 AI 소프트웨어 다운로드 안에 악성 코드를 넣었다고 밝혔다.",
+      "body": "Microsoft Threat Intelligence는 공격자들이 파이썬 패키지를 통해 배포된 미스트랄 AI 소프트웨어 다운로드에 악성 코드를 삽입했다고 밝혔다. 이번 사안은 사용자가 정상적인 소프트웨어 내려받기 과정에서 악성 코드가 포함된 패키지를 받을 수 있었다는 점에서 공급망 보안 문제로 주목된다. 원문에 따르면 악성 코드는 미스트랄 AI 관련 소프트웨어 다운로드 내부에 들어갔으며, 배포 경로로 파이썬 패키지가 언급됐다. 영향은 해당 다운로드를 신뢰한 개발자와 사용자에게 집중될 수 있다. decrypt.co는 Microsoft Threat Intelligence의 설명을 인용해 이 공격 정황을 보도했다."
+    },
+    "en": {
+      "title": "Mistral AI Download Hit by Malware Inserted Through Python Package",
+      "excerpt": "Microsoft Threat Intelligence said attackers placed malicious code inside a Mistral AI software download distributed through a Python package.",
+      "body": "Microsoft Threat Intelligence said attackers inserted malicious code into a Mistral AI software download distributed through a Python package. The case drew attention as a supply-chain security issue because users could receive a package containing malware during what appeared to be a normal software download process. According to the original report, the malicious code was placed inside a Mistral AI-related software download, with a Python package cited as the distribution route. The impact could fall on developers and users who trusted that download. decrypt.co reported the attack details, citing Microsoft Threat Intelligence."
+    },
+    "ja": {
+      "title": "Mistral AIのダウンロードにマルウェア、Pythonパッケージ経由で混入",
+      "excerpt": "Microsoft Threat Intelligenceは、攻撃者がPythonパッケージで配布されたMistral AIソフトウェアのダウンロード内に悪意あるコードを入れたと述べた。",
+      "body": "Microsoft Threat Intelligenceは、攻撃者がPythonパッケージを通じて配布されたMistral AIソフトウェアのダウンロードに悪意あるコードを挿入したと明らかにした。通常のソフトウェア入手手順に見える過程で、利用者がマルウェアを含むパッケージを受け取る可能性があった点から、サプライチェーン安全性の問題として注目されている。原文によると、悪意あるコードはMistral AI関連ソフトウェアのダウンロード内部に置かれ、配布経路としてPythonパッケージが挙げられた。影響は、そのダウンロードを信頼した開発者や利用者に及ぶ可能性がある。decrypt.coはMicrosoft Threat Intelligenceの説明を引用して、この攻撃の経緯を報じた。"
+    },
+    "zh": {
+      "title": "Mistral AI下载包被植入恶意代码，微软披露攻击细节",
+      "excerpt": "Microsoft Threat Intelligence称，攻击者通过一个Python软件包分发渠道，将恶意代码放入Mistral AI软件下载安装到包中。",
+      "body": "Microsoft Threat Intelligence表示，攻击者将恶意代码植入了通过Python软件包分发的Mistral AI软件下载内容中。此事受到关注，是因为用户在看似正常的软件下载安装到流程中，可能获得包含恶意代码的软件包，凸显供应链安全问题。根据原文，恶意代码被放入与Mistral AI相关的软件下载内部，分发路径被描述为Python软件包。影响可能集中在信任该下载内容的开发者和用户身上。decrypt.co援引Microsoft Threat Intelligence的说明报道了这一攻击情况。"
+    },
+    "es": {
+      "title": "Descarga de Mistral AI incluyó malware mediante un paquete de Python",
+      "excerpt": "Microsoft Threat Intelligence dijo que atacantes colocaron código malicioso dentro de una descarga de software de Mistral AI distribuida mediante un paquete de Python.",
+      "body": "Microsoft Threat Intelligence dijo que atacantes insertaron código malicioso en una descarga de software de Mistral AI distribuida mediante un paquete de Python. El caso llamó la atención como un problema de seguridad de la cadena de suministro, porque los usuarios podían recibir un paquete con malware durante un proceso que parecía una descarga normal de software. Según el reporte original, el código malicioso estaba dentro de una descarga relacionada con Mistral AI, y se mencionó un paquete de Python como vía de distribución. El impacto podría recaer en desarrolladores y usuarios que confiaron en esa descarga. decrypt.co informó estos detalles citando a Microsoft Threat Intelligence."
+    },
+    "pt": {
+      "title": "Download da Mistral AI teve malware inserido via pacote Python",
+      "excerpt": "A Microsoft Threat Intelligence disse que atacantes colocaram código malicioso dentro de um download de software da Mistral AI distribuído por um pacote Python.",
+      "body": "A Microsoft Threat Intelligence disse que atacantes inseriram código malicioso em um download de software da Mistral AI distribuído por meio de um pacote Python. O caso chamou atenção como um problema de segurança da cadeia de suprimentos, pois usuários poderiam receber um pacote com malware durante um processo que parecia ser um download normal de software. Segundo o relato original, o código malicioso foi colocado dentro de um download relacionado à Mistral AI, e um pacote Python foi citado como rota de distribuição. O impacto pode atingir desenvolvedores e usuários que confiaram nesse download. O decrypt.co noticiou os detalhes citando a Microsoft Threat Intelligence."
+    },
+    "de": {
+      "title": "Mistral-AI-Download mit Malware über Python-Paket manipuliert",
+      "excerpt": "Microsoft Threat Intelligence teilte mit, dass Angreifer Schadcode in einen Mistral-AI-Softwaredownload einfügten, der über ein Python-Paket verteilt wurde.",
+      "body": "Microsoft Threat Intelligence teilte mit, dass Angreifer Schadcode in einen Mistral-AI-Softwaredownload eingefügt haben, der über ein Python-Paket verteilt wurde. Der Fall gilt als relevantes Problem der Lieferkettensicherheit, weil Nutzer während eines scheinbar normalen Softwaredownloads ein Paket mit Malware erhalten konnten. Dem ursprünglichen Bericht zufolge befand sich der Schadcode in einem Download im Zusammenhang mit Mistral AI; als Verteilweg wurde ein Python-Paket genannt. Betroffen sein könnten vor allem Entwickler und Nutzer, die diesem Download vertrauten. decrypt.co berichtete über die Angriffsumstände unter Berufung auf Microsoft Threat Intelligence."
+    },
+    "fr": {
+      "title": "Téléchargement Mistral AI piégé par un malware via un paquet Python",
+      "excerpt": "Microsoft Threat Intelligence a indiqué que des attaquants avaient placé du code malveillant dans un téléchargement logiciel de Mistral AI distribué via un paquet Python.",
+      "body": "Microsoft Threat Intelligence a indiqué que des attaquants avaient inséré du code malveillant dans un téléchargement logiciel de Mistral AI distribué via un paquet Python. L’affaire attire l’attention comme un problème de sécurité de la chaîne d’approvisionnement, car des utilisateurs pouvaient recevoir un paquet contenant un malware lors d’un processus semblant être un téléchargement logiciel normal. Selon le rapport original, le code malveillant se trouvait dans un téléchargement lié à Mistral AI, avec un paquet Python cité comme canal de distribution. L’impact pourrait toucher les développeurs et utilisateurs ayant fait confiance à ce téléchargement. decrypt.co a rapporté ces éléments en citant Microsoft Threat Intelligence."
+    },
+    "ar": {
+      "title": "تنزيل Mistral AI يتعرض لزرع برمجية خبيثة عبر حزمة بايثون",
+      "excerpt": "قالت Microsoft Threat Intelligence إن مهاجمين وضعوا شيفرة خبيثة داخل تنزيل لبرنامج Mistral AI جرى توزيعه عبر حزمة بايثون.",
+      "body": "قالت Microsoft Threat Intelligence إن مهاجمين أدخلوا شيفرة خبيثة في تنزيل لبرنامج Mistral AI جرى توزيعه عبر حزمة بايثون. وتبرز القضية كمشكلة في أمن سلسلة التوريد، لأن المستخدمين كان بإمكانهم تلقي حزمة تحتوي على برمجية خبيثة أثناء عملية تبدو كتنزيل عادي للبرنامج. ووفق التقرير الأصلي، وُضعت الشيفرة الخبيثة داخل تنزيل مرتبط بـ Mistral AI، وذُكرت حزمة بايثون كمسار للتوزيع. وقد يتركز التأثير على المطورين والمستخدمين الذين وثقوا بذلك التنزيل. ونقل decrypt.co تفاصيل الهجوم استنادا إلى ما أوضحته Microsoft Threat Intelligence."
+    },
+    "hi": {
+      "title": "Mistral AI डाउनलोड में Python पैकेज के जरिए मैलवेयर डाला गया",
+      "excerpt": "Microsoft Threat Intelligence ने कहा कि हमलावरों ने Python पैकेज के माध्यम से वितरित Mistral AI सॉफ्टवेयर डाउनलोड के अंदर दुर्भावनापूर्ण कोड रखा।",
+      "body": "Microsoft Threat Intelligence ने कहा कि हमलावरों ने Python पैकेज के माध्यम से वितरित Mistral AI सॉफ्टवेयर डाउनलोड में दुर्भावनापूर्ण कोड शामिल किया। यह मामला सप्लाई चेन सुरक्षा से जुड़ी चिंता के रूप में सामने आया, क्योंकि उपयोगकर्ता सामान्य सॉफ्टवेयर डाउनलोड प्रक्रिया जैसी दिखने वाली स्थिति में मैलवेयर वाला पैकेज प्राप्त कर सकते थे। मूल रिपोर्ट के अनुसार, दुर्भावनापूर्ण कोड Mistral AI से संबंधित सॉफ्टवेयर डाउनलोड के अंदर रखा गया था और वितरण मार्ग के रूप में Python पैकेज का उल्लेख किया गया। इसका असर उन डेवलपरों और उपयोगकर्ताओं पर पड़ सकता है जिन्होंने उस डाउनलोड पर भरोसा किया। decrypt.co ने Microsoft Threat Intelligence के हवाले से इस हमले की जानकारी दी।"
+    },
+    "id": {
+      "title": "Unduhan Mistral AI Disisipi Malware Lewat Paket Python",
+      "excerpt": "Microsoft Threat Intelligence mengatakan penyerang menempatkan kode berbahaya di dalam unduhan perangkat lunak Mistral AI yang didistribusikan melalui paket Python.",
+      "body": "Microsoft Threat Intelligence mengatakan penyerang menyisipkan kode berbahaya ke dalam unduhan perangkat lunak Mistral AI yang didistribusikan melalui paket Python. Kasus ini menjadi perhatian sebagai masalah keamanan rantai pasok, karena pengguna dapat menerima paket berisi malware dalam proses yang tampak seperti unduhan perangkat lunak biasa. Menurut laporan asli, kode berbahaya ditempatkan di dalam unduhan terkait Mistral AI, dengan paket Python disebut sebagai jalur distribusi. Dampaknya dapat berpusat pada pengembang dan pengguna yang memercayai unduhan tersebut. decrypt.co melaporkan rincian serangan ini dengan mengutip Microsoft Threat Intelligence."
+    }
+  }
+}
