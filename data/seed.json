@@ -1,5 +1,230 @@
 [
   {
+    "id": "f505abfc0eb0",
+    "slug": "dtcc-builds-out-blockchain-based-collateral-system-with-chai-944727",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T13:03:16.017Z",
+    "updatedAt": "2026-05-12T13:03:16.017Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/12/dtcc-taps-chainlink-for-its-tokenized-collateral-platform-ahead-of-q4-launch",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/12/dtcc-taps-chainlink-for-its-tokenized-collateral-platform-ahead-of-q4-launch",
+    "titleFingerprint": "87db40fbe76b5f983e6ca7cfe9670bf9485b1906",
+    "dedupKeys": [
+      "f505abfc0eb0b11115bbf274bddb14fd8d6a0272",
+      "87db40fbe76b5f983e6ca7cfe9670bf9485b1906",
+      "27a96b25aed094777e46fd87ef986d8298c48363"
+    ],
+    "imageUrl": "/images/articles/f505abfc0eb0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "DTCC, 체인링크 통합으로 블록체인 담보 관리 시스템 확대",
+        "excerpt": "DTCC가 체인링크 통합을 통해 블록체인 기반 담보 시스템을 확장하고, 토큰화 담보와 스마트계약으로 금융시장 담보 관리를 자동화한다.",
+        "body": "DTCC는 체인링크 통합을 통해 블록체인 기반 담보 관리 시스템을 구축·확대하고 있다. 이 플랫폼은 담보를 블록체인 레일 위에서 토큰화하고, 스마트계약을 활용해 금융시장 전반의 담보 관리를 자동화하는 데 초점을 둔다. 핵심은 기존 담보 운용을 디지털 자산 인프라와 연결해 24시간, 주 7일 작동 가능한 구조로 만드는 것이다. 이를 통해 담보 이전과 관리 절차가 자동화될 수 있으며, 여러 금융시장 참가자가 블록체인 기반 인프라를 활용할 수 있는 기반이 마련된다. 다만 원문은 구체적 출시 일정이나 참여 기관 수, 처리 규모 등 추가 수치는 제시하지 않았다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "DTCC Expands Blockchain Collateral System With Chainlink Integration",
+        "excerpt": "DTCC is expanding a blockchain-based collateral platform with Chainlink, using tokenized collateral and smart contracts to automate management across markets.",
+        "body": "DTCC is building out a blockchain-based collateral management system through an integration with Chainlink. The platform tokenizes collateral on blockchain rails and uses smart contracts to support automated collateral management across financial markets. Its main focus is to connect collateral operations with digital asset infrastructure that can run 24 hours a day, seven days a week. The system could automate collateral transfer and management processes while giving market participants a blockchain-based foundation for collateral workflows. The original report did not provide a specific launch date, number of participating institutions, or processing volume. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "DTCC、チェーンリンク統合でブロックチェーン担保管理を拡大",
+        "excerpt": "DTCCはチェーンリンク統合により、担保をトークン化しスマートコントラクトで金融市場の担保管理を自動化する基盤を拡張する。",
+        "body": "DTCCは、チェーンリンクとの統合を通じてブロックチェーン基盤の担保管理システムを構築・拡大している。このプラットフォームは担保をブロックチェーン上でトークン化し、スマートコントラクトを使って金融市場全体の担保管理を自動化することに重点を置く。中核となるのは、既存の担保運用をデジタル資産インフラと結び付け、24時間365日稼働できる仕組みにする点だ。これにより担保の移転や管理手続きの自動化が可能になり、市場参加者がブロックチェーン基盤を活用する土台が整う。ただし原文では、具体的な開始時期、参加機関数、処理規模などの追加数値は示されていない。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "DTCC整合Chainlink，扩大区块链抵押品管理系统",
+        "excerpt": "DTCC通过整合Chainlink扩展区块链抵押品平台，以代币化抵押品和智能合约自动化金融市场抵押品管理。",
+        "body": "DTCC正在通过整合Chainlink建设并扩大基于区块链的抵押品管理系统。该平台将抵押品在区块链轨道上代币化，并利用智能合约支持金融市场中的自动化抵押品管理。其核心目标是把现有抵押品运营与数字资产基础设施连接起来，形成可全天候、每周七天运行的结构。通过这一方式，抵押品转移和管理流程有望实现自动化，也为市场参与者使用区块链基础设施处理抵押品流程奠定基础。不过，原文未提供具体上线时间、参与机构数量或处理规模等额外数据。来源: coindesk.com."
+      },
+      "es": {
+        "title": "DTCC amplía sistema blockchain de colateral con integración de Chainlink",
+        "excerpt": "DTCC amplía una plataforma de colateral basada en blockchain con Chainlink, usando activos tokenizados y contratos inteligentes para automatizar la gestión.",
+        "body": "DTCC está desarrollando y ampliando un sistema de gestión de colateral basado en blockchain mediante una integración con Chainlink. La plataforma tokeniza el colateral sobre rieles blockchain y utiliza contratos inteligentes para permitir una gestión automatizada del colateral en los mercados financieros. El objetivo central es conectar las operaciones de colateral con infraestructura de activos digitales capaz de funcionar las 24 horas, los siete días de la semana. Esto puede automatizar transferencias y procesos de gestión, y ofrecer a los participantes del mercado una base blockchain para estos flujos. El texto original no incluyó fecha de lanzamiento, número de instituciones participantes ni volumen de procesamiento. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "DTCC amplia sistema blockchain de colateral com integração Chainlink",
+        "excerpt": "A DTCC amplia uma plataforma de colateral em blockchain com Chainlink, usando colateral tokenizado e contratos inteligentes para automatizar a gestão.",
+        "body": "A DTCC está construindo e ampliando um sistema de gestão de colateral baseado em blockchain por meio de uma integração com a Chainlink. A plataforma tokeniza o colateral em trilhos blockchain e usa contratos inteligentes para viabilizar a gestão automatizada de colateral nos mercados financeiros. O foco principal é conectar operações de colateral à infraestrutura de ativos digitais capaz de funcionar 24 horas por dia, sete dias por semana. Com isso, transferências e processos de gestão de colateral podem ser automatizados, oferecendo aos participantes do mercado uma base em blockchain para esses fluxos. O texto original não informou data de lançamento, número de instituições participantes ou volume de processamento. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "DTCC erweitert Blockchain-Sicherheitenplattform mit Chainlink-Integration",
+        "excerpt": "DTCC baut mit Chainlink eine Blockchain-Plattform für tokenisierte Sicherheiten aus, die per Smart Contracts das Collateral Management automatisieren soll.",
+        "body": "DTCC baut über eine Integration mit Chainlink ein blockchainbasiertes System für das Management von Sicherheiten aus. Die Plattform tokenisiert Sicherheiten auf Blockchain-Infrastruktur und nutzt Smart Contracts, um ein automatisiertes Collateral Management über Finanzmärkte hinweg zu ermöglichen. Im Mittelpunkt steht die Verbindung bestehender Sicherheitenprozesse mit digitaler Asset-Infrastruktur, die rund um die Uhr und an sieben Tagen pro Woche laufen kann. Dadurch könnten Übertragungen und Verwaltungsabläufe von Sicherheiten automatisiert werden, während Marktteilnehmer eine blockchainbasierte Grundlage für entsprechende Workflows erhalten. Der Originalbericht nennt keine konkrete Startzeit, keine Zahl teilnehmender Institute und kein Verarbeitungsvolumen. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "DTCC étend son système de collatéral blockchain avec Chainlink",
+        "excerpt": "DTCC développe une plateforme de collatéral sur blockchain avec Chainlink, combinant actifs tokenisés et contrats intelligents pour automatiser la gestion.",
+        "body": "DTCC développe et étend un système de gestion du collatéral fondé sur la blockchain grâce à une intégration avec Chainlink. La plateforme tokenise le collatéral sur des rails blockchain et utilise des contrats intelligents pour permettre une gestion automatisée du collatéral sur les marchés financiers. L’objectif principal est de relier les opérations existantes de collatéral à une infrastructure d’actifs numériques capable de fonctionner 24 heures sur 24 et sept jours sur sept. Ce dispositif peut automatiser les transferts et processus de gestion, tout en fournissant aux participants de marché une base blockchain pour ces flux. Le texte original ne précise ni date de lancement, ni nombre d’institutions participantes, ni volume traité. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "DTCC توسع نظام ضمانات قائم على البلوك تشين بتكامل Chainlink",
+        "excerpt": "توسع DTCC منصة ضمانات قائمة على البلوك تشين عبر Chainlink، مع ترميز الضمانات واستخدام العقود الذكية لأتمتة الإدارة في الأسواق المالية.",
+        "body": "تعمل DTCC على بناء وتوسيع نظام لإدارة الضمانات قائم على البلوك تشين من خلال تكامل مع Chainlink. تقوم المنصة بترميز الضمانات على مسارات البلوك تشين وتستخدم العقود الذكية لدعم إدارة آلية للضمانات عبر الأسواق المالية. ويتمثل الهدف الرئيسي في ربط عمليات الضمانات الحالية ببنية تحتية للأصول الرقمية يمكنها العمل على مدار 24 ساعة طوال أيام الأسبوع. ومن خلال ذلك، يمكن أتمتة عمليات نقل الضمانات وإدارتها، مع توفير أساس قائم على البلوك تشين للمشاركين في السوق لاستخدامه في هذه الإجراءات. ولم يذكر النص الأصلي موعد إطلاق محددا أو عدد المؤسسات المشاركة أو حجم المعالجة. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "DTCC ने Chainlink इंटीग्रेशन से ब्लॉकचेन कोलेटरल सिस्टम बढ़ाया",
+        "excerpt": "DTCC Chainlink के साथ ब्लॉकचेन आधारित कोलेटरल प्लेटफॉर्म बढ़ा रहा है, जहां टोकनाइज्ड कोलेटरल और स्मार्ट कॉन्ट्रैक्ट प्रबंधन को स्वचालित करेंगे।",
+        "body": "DTCC Chainlink इंटीग्रेशन के जरिए ब्लॉकचेन आधारित कोलेटरल प्रबंधन प्रणाली का निर्माण और विस्तार कर रहा है। यह प्लेटफॉर्म कोलेटरल को ब्लॉकचेन रेल्स पर टोकनाइज करता है और वित्तीय बाजारों में स्वचालित कोलेटरल प्रबंधन के लिए स्मार्ट कॉन्ट्रैक्ट का उपयोग करता है। इसका मुख्य लक्ष्य मौजूदा कोलेटरल संचालन को ऐसी डिजिटल एसेट अवसंरचना से जोड़ना है जो 24 घंटे, सप्ताह के सातों दिन चल सके। इससे कोलेटरल ट्रांसफर और प्रबंधन प्रक्रियाएं स्वचालित हो सकती हैं तथा बाजार प्रतिभागियों को ब्लॉकचेन आधारित आधार मिल सकता है। मूल रिपोर्ट में लॉन्च की तारीख, भाग लेने वाली संस्थाओं की संख्या या प्रोसेसिंग वॉल्यूम नहीं बताया गया। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "DTCC Perluas Sistem Agunan Blockchain Lewat Integrasi Chainlink",
+        "excerpt": "DTCC memperluas platform agunan berbasis blockchain dengan Chainlink, memakai agunan tokenisasi dan smart contract untuk otomatisasi lintas pasar.",
+        "body": "DTCC sedang membangun dan memperluas sistem manajemen agunan berbasis blockchain melalui integrasi dengan Chainlink. Platform ini menokenisasi agunan di atas rel blockchain dan menggunakan smart contract untuk mendukung manajemen agunan otomatis di seluruh pasar keuangan. Fokus utamanya adalah menghubungkan operasi agunan yang ada dengan infrastruktur aset digital yang dapat berjalan 24 jam sehari, tujuh hari seminggu. Dengan struktur ini, proses pemindahan dan pengelolaan agunan dapat diotomatisasi, sekaligus memberi pelaku pasar dasar berbasis blockchain untuk alur kerja agunan. Teks asli tidak menyebut tanggal peluncuran, jumlah institusi peserta, atau volume pemrosesan. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "90d32c8bffbb",
+    "slug": "cleanspark-stock-slides-9-as-quarterly-earnings-miss-estimat-214328",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T13:01:39.504Z",
+    "updatedAt": "2026-05-12T13:01:39.504Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/12/cleanspark-s-stocks-slides-9-as-firm-reports-usd378-3-million-quarterly-loss",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/12/cleanspark-s-stocks-slides-9-as-firm-reports-usd378-3-million-quarterly-loss",
+    "titleFingerprint": "0f6bcaeacb00d4eeb9b58e181b3ff13355959569",
+    "dedupKeys": [
+      "90d32c8bffbbbd082ca0c9c889405d6acdcb385b",
+      "0f6bcaeacb00d4eeb9b58e181b3ff13355959569",
+      "90d2755163c782891cccbd7bff26ce4e23508136"
+    ],
+    "imageUrl": "/images/articles/90d32c8bffbb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "CleanSpark 주가 9% 하락, 비트코인 보유 손실에 실적 부진",
+        "excerpt": "CleanSpark는 3월 31일 종료 분기 실적이 예상치를 밑돌고 비트코인 보유 손실이 반영되며 주가가 9% 하락했다.",
+        "body": "CleanSpark 주가가 3월 31일 종료 분기 실적 발표 이후 9% 하락했다. 회사는 해당 분기에 3억7,830만 달러의 순손실을 기록했으며, 이는 지난해 같은 기간의 1억3,880만 달러 손실보다 크게 늘어난 수준이다. 이번 실적 부진은 비트코인 보유분 관련 손실이 반영된 영향으로 전해졌다. 시장은 예상치를 밑돈 분기 실적과 손실 확대를 주목했으며, 주가는 발표 이후 약세를 보였다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "CleanSpark Stock Falls 9% After Bitcoin Holdings Loss Hits Earnings",
+        "excerpt": "CleanSpark shares fell 9% after quarterly earnings missed estimates, with a bitcoin holdings loss weighing on results for the quarter ended March 31.",
+        "body": "CleanSpark shares declined 9% after the company reported results for the quarter ended March 31. The company posted a net loss of $378.3 million for the period, a sharp increase from the $138.8 million loss reported in the same period last year. The earnings miss was tied to a loss on its bitcoin holdings. Investors focused on the wider quarterly loss and results that fell short of estimates, sending the stock lower after the announcement. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "CleanSpark株が9%下落、ビットコイン保有損で決算予想未達",
+        "excerpt": "CleanSparkは3月31日終了四半期の決算が予想を下回り、ビットコイン保有損が響いたことで株価が9%下落した。",
+        "body": "CleanSparkの株価は、3月31日に終了した四半期決算の発表後に9%下落した。同社は同期間に3億7,830万ドルの純損失を計上し、前年同期の1億3,880万ドルの損失から大きく拡大した。今回の決算不振には、ビットコイン保有分に関連する損失が反映された。市場は予想を下回った四半期業績と損失拡大を注視し、発表後に株価は弱含んだ。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "CleanSpark股价跌9%，比特币持仓亏损拖累季度业绩",
+        "excerpt": "CleanSpark截至3月31日的季度业绩低于预期，因比特币持仓亏损影响表现，股价随后下跌9%。",
+        "body": "CleanSpark在公布截至3月31日的季度业绩后，股价下跌9%。该公司本季度录得3.783亿美元净亏损，较去年同期1.388亿美元的亏损大幅扩大。此次业绩不及预期，受到比特币持仓相关亏损的影响。市场关注其季度亏损扩大以及业绩低于预期，公告发布后股价走弱。来源: coindesk.com"
+      },
+      "es": {
+        "title": "CleanSpark cae 9% tras pérdidas por bitcoin y resultados débiles",
+        "excerpt": "CleanSpark cayó 9% después de que sus resultados del trimestre cerrado el 31 de marzo incumplieran estimaciones por pérdidas en bitcoin.",
+        "body": "Las acciones de CleanSpark bajaron 9% tras la publicación de sus resultados del trimestre finalizado el 31 de marzo. La compañía registró una pérdida neta de 378,3 millones de dólares en el periodo, un fuerte aumento frente a la pérdida de 138,8 millones de dólares reportada en el mismo periodo del año anterior. El incumplimiento de estimaciones estuvo vinculado a una pérdida en sus tenencias de bitcoin. El mercado reaccionó a la ampliación de las pérdidas trimestrales y al resultado por debajo de lo esperado. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "CleanSpark cai 9% após perda com bitcoin pesar no resultado trimestral",
+        "excerpt": "A CleanSpark caiu 9% depois que os resultados do trimestre encerrado em 31 de março vieram abaixo das estimativas por perdas em bitcoin.",
+        "body": "As ações da CleanSpark recuaram 9% após a divulgação dos resultados do trimestre encerrado em 31 de março. A empresa registrou prejuízo líquido de US$ 378,3 milhões no período, uma forte alta em relação ao prejuízo de US$ 138,8 milhões informado no mesmo período do ano anterior. O desempenho abaixo das estimativas foi ligado a uma perda nas posições em bitcoin. O mercado reagiu ao aumento do prejuízo trimestral e aos números aquém do esperado. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "CleanSpark-Aktie fällt 9% nach Bitcoin-Verlust und schwachen Zahlen",
+        "excerpt": "CleanSpark verfehlte im Quartal bis 31. März die Erwartungen; Verluste aus Bitcoin-Beständen belasteten die Zahlen und die Aktie fiel 9%.",
+        "body": "Die CleanSpark-Aktie fiel nach der Vorlage der Ergebnisse für das am 31. März beendete Quartal um 9%. Das Unternehmen meldete für den Zeitraum einen Nettoverlust von 378,3 Millionen US-Dollar, deutlich mehr als der Verlust von 138,8 Millionen US-Dollar im Vorjahreszeitraum. Die schwachen Zahlen standen im Zusammenhang mit einem Verlust auf Bitcoin-Bestände. Anleger reagierten auf den ausgeweiteten Quartalsverlust und die unter den Schätzungen liegenden Ergebnisse, woraufhin die Aktie nachgab. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "CleanSpark chute de 9% après une perte sur bitcoin et des résultats décevants",
+        "excerpt": "CleanSpark a reculé de 9% après des résultats trimestriels inférieurs aux attentes, pénalisés par une perte sur ses avoirs en bitcoin.",
+        "body": "L’action CleanSpark a reculé de 9% après la publication des résultats du trimestre clos le 31 mars. La société a enregistré une perte nette de 378,3 millions de dollars sur la période, en forte hausse par rapport à la perte de 138,8 millions de dollars publiée un an plus tôt. Cette contre-performance est liée à une perte sur ses avoirs en bitcoin. Le marché a retenu l’élargissement de la perte trimestrielle et des résultats inférieurs aux estimations, ce qui a pesé sur le titre. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "سهم CleanSpark يهبط 9% بعد خسائر حيازة البيتكوين وضعف الأرباح",
+        "excerpt": "تراجع سهم CleanSpark بنسبة 9% بعد أن جاءت نتائج الربع المنتهي في 31 مارس دون التقديرات بسبب خسائر مرتبطة بحيازة البيتكوين.",
+        "body": "هبط سهم CleanSpark بنسبة 9% بعد إعلان نتائج الربع المنتهي في 31 مارس. وسجلت الشركة صافي خسارة بلغ 378.3 مليون دولار خلال الفترة، بزيادة حادة عن خسارة قدرها 138.8 مليون دولار في الفترة نفسها من العام الماضي. وجاء ضعف النتائج مع تأثير خسائر مرتبطة بحيازات البيتكوين. وركز السوق على اتساع الخسارة الفصلية وعلى النتائج التي جاءت دون التقديرات، ما ضغط على السهم بعد الإعلان. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "CleanSpark शेयर 9% गिरा, बिटकॉइन होल्डिंग घाटे से नतीजे कमजोर",
+        "excerpt": "CleanSpark का 31 मार्च को समाप्त तिमाही प्रदर्शन अनुमान से कमजोर रहा, बिटकॉइन होल्डिंग नुकसान के कारण शेयर 9% गिरा।",
+        "body": "31 मार्च को समाप्त तिमाही के नतीजे जारी होने के बाद CleanSpark का शेयर 9% गिर गया। कंपनी ने इस अवधि में 378.3 मिलियन डॉलर का शुद्ध घाटा दर्ज किया, जो पिछले साल की समान अवधि में दर्ज 138.8 मिलियन डॉलर के घाटे से काफी अधिक है। नतीजों के अनुमान से कमजोर रहने में बिटकॉइन होल्डिंग से जुड़ा नुकसान शामिल रहा। बाजार ने तिमाही घाटे के बढ़ने और अनुमान से कम प्रदर्शन पर ध्यान दिया, जिसके बाद शेयर में कमजोरी आई। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Saham CleanSpark Turun 9% Setelah Rugi Bitcoin Tekan Laba Kuartalan",
+        "excerpt": "CleanSpark turun 9% setelah hasil kuartal yang berakhir 31 Maret meleset dari estimasi karena kerugian pada kepemilikan bitcoin.",
+        "body": "Saham CleanSpark turun 9% setelah perusahaan melaporkan hasil untuk kuartal yang berakhir pada 31 Maret. Perusahaan mencatat rugi bersih sebesar US$378,3 juta pada periode tersebut, meningkat tajam dari rugi US$138,8 juta pada periode yang sama tahun lalu. Kinerja yang meleset dari estimasi itu terkait dengan kerugian pada kepemilikan bitcoin. Pasar menyoroti pelebaran rugi kuartalan dan hasil yang berada di bawah perkiraan, sehingga saham melemah setelah pengumuman. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "8cd4180d95d2",
+    "slug": "hot-inflation-data-pours-cold-water-on-federal-reserve-rate--914003",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T13:00:17.216Z",
+    "updatedAt": "2026-05-12T13:00:17.216Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/12/hot-inflation-data-pours-cold-water-on-federal-reserve-rate-cut-hopes",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/12/hot-inflation-data-pours-cold-water-on-federal-reserve-rate-cut-hopes",
+    "titleFingerprint": "37f8e8952e1e8fcab46b8fab242ec433b787211c",
+    "dedupKeys": [
+      "8cd4180d95d25de8cc8460af1a17631d54af99ef",
+      "37f8e8952e1e8fcab46b8fab242ec433b787211c",
+      "b491cadd05ce2e6118ad5d184f93de3e193e31e4"
+    ],
+    "imageUrl": "/images/articles/8cd4180d95d2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "뜨거운 인플레이션 지표, 연준 금리 인하 기대 꺾고 비트코인 하락",
+        "excerpt": "뜨거운 인플레이션 지표가 연방준비제도의 금리 인하 기대를 낮추자 비트코인은 뉴스 직후 8만814달러에 거래되며 24시간 기준 1.2% 하락했다.",
+        "body": "뜨거운 인플레이션 지표가 나온 뒤 연방준비제도(Fed)의 금리 인하 기대가 약해지면서 비트코인 가격이 하락했다. coindesk.com에 따르면 해당 소식 이후 비트코인은 8만814달러에 거래됐고, 최근 24시간 동안 1.2% 내렸다. 이번 흐름은 인플레이션 데이터가 시장의 통화정책 기대에 직접 영향을 주고 있음을 보여준다. 투자자들은 금리 인하 가능성이 낮아진 상황에서 비트코인 가격 반응을 주시하고 있다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Hot inflation data dents Fed rate cut hopes as Bitcoin slips",
+        "excerpt": "Hot inflation data weakened expectations for Federal Reserve rate cuts, with Bitcoin trading at $80,814 after the news and down 1.2% over 24 hours.",
+        "body": "Bitcoin fell after hot inflation data weakened hopes that the Federal Reserve would cut interest rates. According to coindesk.com, Bitcoin was trading at $80,814 following the news, down 1.2% over the past 24 hours. The move shows how inflation data is directly affecting market expectations for monetary policy. Investors are watching Bitcoin’s price response as hopes for a Fed rate cut fade. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "強いインフレ指標でFRB利下げ期待後退、ビットコイン下落",
+        "excerpt": "強いインフレ指標でFRBの利下げ期待が後退し、ニュース後のビットコインは8万814ドルで取引され、24時間で1.2%下落した。",
+        "body": "強いインフレ指標の発表後、米連邦準備制度理事会（FRB）による利下げ期待が弱まり、ビットコイン価格は下落した。coindesk.comによると、このニュース後にビットコインは8万814ドルで取引され、過去24時間で1.2%下げた。今回の動きは、インフレデータが市場の金融政策見通しに直接影響していることを示している。投資家は利下げ期待が後退する中、ビットコインの値動きを注視している。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "高通胀数据打击美联储降息预期，比特币随即下跌",
+        "excerpt": "高通胀数据削弱了市场对美联储降息的预期，消息公布后比特币报80,814美元，过去24小时下跌1.2%。",
+        "body": "高通胀数据公布后，市场对美联储降息的预期降温，比特币价格随之下跌。据coindesk.com报道，消息公布后，比特币交易价格为80,814美元，过去24小时下跌1.2%。这一走势显示，通胀数据正直接影响市场对货币政策的判断。在降息希望减弱的背景下，投资者正在关注比特币价格反应。来源: coindesk.com."
+      },
+      "es": {
+        "title": "La inflación alta enfría las apuestas de recorte de la Fed y Bitcoin cae",
+        "excerpt": "Los datos de inflación elevada redujeron las expectativas de recortes de tasas de la Reserva Federal; Bitcoin cotizaba a 80.814 dólares, con una baja diaria del 1,2%.",
+        "body": "Bitcoin cayó después de que unos datos de inflación elevada debilitaran las expectativas de que la Reserva Federal recorte las tasas de interés. Según coindesk.com, Bitcoin cotizaba a 80.814 dólares tras la noticia, con una caída del 1,2% en las últimas 24 horas. El movimiento muestra cómo los datos de inflación influyen directamente en las expectativas del mercado sobre la política monetaria. Los inversores observan la reacción del precio de Bitcoin mientras se enfrían las esperanzas de recorte. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Inflação forte reduz apostas de corte do Fed e Bitcoin recua",
+        "excerpt": "Dados de inflação forte enfraqueceram as expectativas de cortes de juros pelo Federal Reserve; Bitcoin era negociado a US$ 80.814, queda de 1,2% em 24 horas.",
+        "body": "O Bitcoin caiu depois que dados de inflação forte enfraqueceram as expectativas de que o Federal Reserve reduza os juros. Segundo coindesk.com, após a notícia, o Bitcoin era negociado a US$ 80.814, com queda de 1,2% nas últimas 24 horas. O movimento mostra como os dados de inflação afetam diretamente as expectativas do mercado sobre a política monetária. Investidores acompanham a reação do preço do Bitcoin enquanto diminuem as esperanças de corte de juros. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Hohe Inflationsdaten dämpfen Fed-Zinssenkungshoffnungen, Bitcoin fällt",
+        "excerpt": "Hohe Inflationsdaten schwächten die Erwartungen an Zinssenkungen der Federal Reserve; Bitcoin notierte nach der Meldung bei 80.814 US-Dollar, 1,2% tiefer in 24 Stunden.",
+        "body": "Bitcoin fiel, nachdem hohe Inflationsdaten die Hoffnungen auf Zinssenkungen der Federal Reserve schwächten. Laut coindesk.com wurde Bitcoin nach der Nachricht bei 80.814 US-Dollar gehandelt und lag in den vergangenen 24 Stunden 1,2% im Minus. Die Bewegung zeigt, dass Inflationsdaten die Markterwartungen zur Geldpolitik direkt beeinflussen. Anleger beobachten die Preisreaktion von Bitcoin, während die Erwartungen an eine Zinssenkung nachlassen. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "L’inflation élevée freine les espoirs de baisse des taux de la Fed, Bitcoin recule",
+        "excerpt": "Des données d’inflation élevées ont affaibli les attentes de baisse des taux de la Réserve fédérale; Bitcoin s’échangeait à 80 814 dollars, en baisse de 1,2% sur 24 heures.",
+        "body": "Bitcoin a reculé après que des données d’inflation élevées ont affaibli les espoirs de baisse des taux de la Réserve fédérale. Selon coindesk.com, Bitcoin s’échangeait à 80 814 dollars après la nouvelle, en baisse de 1,2% sur les dernières 24 heures. Ce mouvement montre que les données d’inflation influencent directement les attentes du marché concernant la politique monétaire. Les investisseurs surveillent la réaction du prix de Bitcoin alors que l’espoir d’une baisse des taux s’estompe. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "بيانات التضخم القوية تضعف آمال خفض الفائدة وتضغط على بيتكوين",
+        "excerpt": "أضعفت بيانات التضخم القوية توقعات خفض الفائدة من جانب الاحتياطي الفيدرالي، وتداولت بيتكوين عند 80,814 دولارا بعد الخبر، منخفضة 1.2% خلال 24 ساعة.",
+        "body": "تراجعت بيتكوين بعد صدور بيانات تضخم قوية أضعفت الآمال في أن يخفض الاحتياطي الفيدرالي أسعار الفائدة. ووفقا لـ coindesk.com، جرى تداول بيتكوين عند 80,814 دولارا بعد الخبر، بانخفاض 1.2% خلال آخر 24 ساعة. ويظهر هذا التحرك أن بيانات التضخم تؤثر مباشرة في توقعات السوق بشأن السياسة النقدية. يراقب المستثمرون استجابة سعر بيتكوين مع تراجع آمال خفض الفائدة. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "तेज महंगाई आंकड़ों से Fed दर कटौती उम्मीदें कमजोर, Bitcoin फिसला",
+        "excerpt": "तेज महंगाई आंकड़ों ने Federal Reserve की दर कटौती उम्मीदों को कमजोर किया; खबर के बाद Bitcoin $80,814 पर कारोबार कर रहा था और 24 घंटे में 1.2% नीचे था।",
+        "body": "तेज महंगाई आंकड़े आने के बाद Federal Reserve की ब्याज दर कटौती की उम्मीदें कमजोर हुईं और Bitcoin की कीमत गिर गई। coindesk.com के अनुसार, खबर के बाद Bitcoin $80,814 पर कारोबार कर रहा था और पिछले 24 घंटों में 1.2% नीचे था। यह चाल दिखाती है कि महंगाई के आंकड़े मौद्रिक नीति को लेकर बाजार की अपेक्षाओं पर सीधे असर डाल रहे हैं। निवेशक दर कटौती की उम्मीद घटने के बीच Bitcoin की कीमत प्रतिक्रिया पर नजर रख रहे हैं। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Data inflasi panas tekan harapan pemangkasan suku bunga Fed, Bitcoin turun",
+        "excerpt": "Data inflasi panas melemahkan harapan pemangkasan suku bunga Federal Reserve; Bitcoin diperdagangkan di US$80.814 setelah berita dan turun 1,2% dalam 24 jam.",
+        "body": "Bitcoin turun setelah data inflasi panas melemahkan harapan bahwa Federal Reserve akan memangkas suku bunga. Menurut coindesk.com, setelah berita tersebut Bitcoin diperdagangkan di US$80.814, turun 1,2% selama 24 jam terakhir. Pergerakan ini menunjukkan bahwa data inflasi secara langsung memengaruhi ekspektasi pasar terhadap kebijakan moneter. Investor mencermati respons harga Bitcoin ketika harapan pemangkasan suku bunga mereda. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "3c54e4a357b0",
     "slug": "bhutans-gmc-offers-quick-licenses-bank-accounts-to-lure-cryp-489193",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Ripple Dapat Kredit US$200 Juta untuk Perluas Prime Brokerage",
         "excerpt": "Ripple menerima fasilitas kredit US$200 juta dari Neuberger Berman untuk meningkatkan kapasitas Ripple Prime dalam pinjaman margin dan layanan broker institusional.",
         "body": "Ripple memperoleh fasilitas kredit senilai US$200 juta dari Neuberger Berman untuk memperluas bisnis prime brokerage bagi klien institusional. Pendanaan ini akan meningkatkan kapasitas Ripple Prime dalam menawarkan pinjaman margin dan layanan broker lain kepada klien institusional yang bertransaksi di pasar kripto dan pasar tradisional. Ripple Prime akan berfokus memperkuat dukungan bagi aktivitas trading institusional dan memenuhi permintaan klien yang bergerak lintas pasar. Fasilitas kredit ini diperkirakan langsung memperluas kapasitas layanan dan memperkuat basis klien institusional. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "262c801628e1",
-    "slug": "price-predictions-511-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype--947613",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T20:28:08.067Z",
-    "updatedAt": "2026-05-11T20:28:08.067Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/price-predictions-511-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/price-predictions-511-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada",
-    "titleFingerprint": "b98ab0cc2062210b007ee5962281f6a22ce61117",
-    "dedupKeys": [
-      "262c801628e116aeff3e692b8679db62c193e4ea",
-      "b98ab0cc2062210b007ee5962281f6a22ce61117",
-      "b93c832b4a727cded04d8957447f3f3c264d12b1"
-    ],
-    "imageUrl": "/images/articles/262c801628e1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 5월 11일 가격 전망: 8만4000달러 저항선이 랠리 변수",
-        "excerpt": "5월 11일 코인텔레그래프는 비트코인이 강한 한 주를 이어갈 가능성이 있지만 8만4000달러 저항선이 상승 흐름의 변수가 될 수 있다고 분석했다.",
-        "body": "5월 11일 코인텔레그래프는 SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA의 가격 전망을 다루며 비트코인이 또 한 번 강한 한 주를 보낼 가능성이 있다고 전했다. 다만 비트코인이 8만4000달러 부근에서 잠재적 저항을 만날 수 있어 랠리 흐름이 복잡해질 수 있다고 짚었다. 알트코인 시장은 통합 흐름이 계속될지 여부가 주요 관전 포인트로 제시됐다. 이번 전망은 주요 지수와 달러지수, 대형 암호화폐 흐름을 함께 살피며 단기 시장 방향성을 점검한 내용이다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Bitcoin Price Outlook for May 11: $84,000 Resistance Tests Rally",
-        "excerpt": "On May 11, Cointelegraph said Bitcoin may be set for another strong week, but possible resistance near $84,000 could complicate the rally.",
-        "body": "On May 11, Cointelegraph reviewed price outlooks for SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE and ADA, saying Bitcoin looked positioned for another strong week. However, the report noted that potential resistance around $84,000 could make the rally more complicated. Whether consolidation in altcoins continues was presented as a key point to watch. The outlook examined major indexes, the dollar index and leading cryptocurrencies to assess near-term market direction. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "ビットコイン5月11日価格見通し、8万4000ドル抵抗線が焦点",
-        "excerpt": "コインテレグラフは5月11日、ビットコインは強い週となる可能性がある一方、8万4000ドル付近の抵抗が上昇を複雑にし得ると分析した。",
-        "body": "コインテレグラフは5月11日、SPX、DXY、BTC、ETH、XRP、BNB、SOL、DOGE、HYPE、ADAの価格見通しを取り上げ、ビットコインが再び強い一週間を迎える可能性があると伝えた。ただし、8万4000ドル付近で潜在的な抵抗に直面する可能性があり、上昇の流れは複雑になるおそれがあると指摘した。アルトコイン市場では、保ち合いが続くかどうかが主な注目点とされた。主要指数、ドル指数、大型暗号資産の動きを合わせて短期的な市場方向を点検した内容だ。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "比特币5月11日价格展望：84000美元阻力成反弹关键",
-        "excerpt": "Cointelegraph 5月11日表示，比特币或将迎来又一个强势周，但84000美元附近的潜在阻力可能使反弹走势更复杂。",
-        "body": "Cointelegraph 5月11日分析了 SPX、DXY、BTC、ETH、XRP、BNB、SOL、DOGE、HYPE 和 ADA 的价格展望，并称比特币看起来有望再次迎来强劲一周。不过，报告指出，比特币在84000美元附近可能遇到潜在阻力，这可能使反弹走势变得更复杂。山寨币市场方面，整理行情是否延续被列为主要观察点。该展望同时参考主要指数、美元指数和大型加密货币走势，以评估短期市场方向。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Bitcoin: previsión del 11 de mayo, resistencia en USD 84.000 clave",
-        "excerpt": "El 11 de mayo, Cointelegraph señaló que Bitcoin podría encarar otra semana fuerte, aunque la resistencia cerca de USD 84.000 puede complicar el repunte.",
-        "body": "El 11 de mayo, Cointelegraph revisó las previsiones de precio de SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE y ADA, indicando que Bitcoin parece encaminado a otra semana sólida. Sin embargo, el informe advirtió que una posible resistencia en torno a USD 84.000 podría complicar el avance. En el mercado de altcoins, la continuidad de la consolidación fue presentada como un punto clave a vigilar. El análisis observó índices principales, el índice dólar y grandes criptomonedas para evaluar la dirección de corto plazo. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Bitcoin em 11 de maio: resistência em US$ 84.000 testa o rali",
-        "excerpt": "Em 11 de maio, a Cointelegraph afirmou que o Bitcoin pode ter outra semana forte, mas a resistência perto de US$ 84.000 pode complicar o rali.",
-        "body": "Em 11 de maio, a Cointelegraph analisou as projeções de preço de SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE e ADA, afirmando que o Bitcoin parece pronto para mais uma semana forte. Ainda assim, o relatório destacou que uma possível resistência em torno de US$ 84.000 pode tornar o rali mais complexo. No mercado de altcoins, a continuidade da consolidação foi apontada como um ponto central de observação. A análise considerou índices principais, o índice dólar e grandes criptomoedas para avaliar a direção de curto prazo. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Bitcoin-Prognose vom 11. Mai: 84.000 Dollar als Widerstand im Fokus",
-        "excerpt": "Cointelegraph schrieb am 11. Mai, dass Bitcoin vor einer weiteren starken Woche stehen könnte, während Widerstand bei 84.000 Dollar die Rally erschweren kann.",
-        "body": "Cointelegraph betrachtete am 11. Mai die Kursausblicke für SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE und ADA und schrieb, Bitcoin könne vor einer weiteren starken Woche stehen. Zugleich wurde darauf hingewiesen, dass ein möglicher Widerstand im Bereich von 84.000 Dollar die Rally komplizierter machen könnte. Bei Altcoins gilt die Frage, ob die Konsolidierung anhält, als wichtiger Beobachtungspunkt. Die Analyse verband große Indizes, den Dollarindex und führende Kryptowährungen zur Einschätzung der kurzfristigen Marktrichtung. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Bitcoin le 11 mai: la résistance à 84.000 dollars pèse sur le rallye",
-        "excerpt": "Le 11 mai, Cointelegraph a indiqué que Bitcoin pourrait connaître une nouvelle semaine solide, mais qu’une résistance vers 84.000 dollars peut compliquer le rallye.",
-        "body": "Le 11 mai, Cointelegraph a examiné les perspectives de prix de SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE et ADA, estimant que Bitcoin semblait prêt pour une nouvelle semaine solide. Le rapport a toutefois noté qu’une résistance potentielle autour de 84.000 dollars pourrait compliquer le rallye. Sur le marché des altcoins, la poursuite éventuelle de la consolidation a été présentée comme un point clé à surveiller. L’analyse observe les grands indices, l’indice du dollar et les principales cryptomonnaies pour évaluer l’orientation à court terme. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "توقعات بيتكوين في 11 مايو: مقاومة 84 ألف دولار تختبر الصعود",
-        "excerpt": "قالت Cointelegraph في 11 مايو إن بيتكوين قد تكون مقبلة على أسبوع قوي آخر، لكن مقاومة محتملة قرب 84 ألف دولار قد تعقّد موجة الصعود.",
-        "body": "في 11 مايو، تناولت Cointelegraph توقعات أسعار SPX وDXY وBTC وETH وXRP وBNB وSOL وDOGE وHYPE وADA، وذكرت أن بيتكوين تبدو مهيأة لأسبوع قوي آخر. ومع ذلك، أشار التقرير إلى أن مقاومة محتملة قرب مستوى 84 ألف دولار قد تجعل مسار الصعود أكثر تعقيداً. وفي سوق العملات البديلة، عُد استمرار حالة التماسك من أبرز النقاط التي تستحق المتابعة. وجمعت النظرة بين المؤشرات الرئيسية ومؤشر الدولار والعملات المشفرة الكبرى لتقييم اتجاه السوق على المدى القصير. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "11 मई बिटकॉइन आउटलुक: 84,000 डॉलर की रुकावट रैली की परीक्षा",
-        "excerpt": "Cointelegraph ने 11 मई को कहा कि बिटकॉइन एक और मजबूत सप्ताह की ओर बढ़ सकता है, लेकिन 84,000 डॉलर के पास संभावित रेजिस्टेंस रैली को जटिल बना सकता है।",
-        "body": "11 मई को Cointelegraph ने SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE और ADA के मूल्य पूर्वानुमानों की समीक्षा की और कहा कि बिटकॉइन एक और मजबूत सप्ताह के लिए तैयार दिखता है। हालांकि, रिपोर्ट ने बताया कि 84,000 डॉलर के आसपास संभावित रेजिस्टेंस रैली को अधिक जटिल बना सकता है। ऑल्टकॉइन बाजार में कंसॉलिडेशन जारी रहेगा या नहीं, इसे मुख्य निगरानी बिंदु बताया गया। इस आउटलुक ने प्रमुख सूचकांकों, डॉलर इंडेक्स और बड़ी क्रिप्टोकरेंसी की चाल को साथ देखकर अल्पकालिक बाजार दिशा का आकलन किया। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Prospek Bitcoin 11 Mei: Resistensi US$84.000 Jadi Ujian Reli",
-        "excerpt": "Pada 11 Mei, Cointelegraph menyebut Bitcoin berpeluang mencatat pekan kuat lagi, tetapi resistensi di sekitar US$84.000 dapat memperumit reli.",
-        "body": "Pada 11 Mei, Cointelegraph membahas prospek harga SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, dan ADA, dengan menyebut Bitcoin tampak siap menghadapi pekan kuat lainnya. Namun, laporan itu mencatat bahwa potensi resistensi di sekitar US$84.000 dapat membuat reli menjadi lebih rumit. Di pasar altcoin, apakah konsolidasi akan berlanjut menjadi poin utama untuk dipantau. Prospek ini meninjau indeks utama, indeks dolar, dan pergerakan kripto besar untuk menilai arah pasar jangka pendek. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "a690547fa2a6",
-    "slug": "i-dont-think-thats-crazy-here-is-why-circle-is-betting-on-ne-122280",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T20:27:16.804Z",
-    "updatedAt": "2026-05-11T20:27:16.804Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/11/i-don-t-think-that-s-crazy-here-is-why-circle-is-betting-on-new-usd3-billion-blockchain",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/11/i-don-t-think-that-s-crazy-here-is-why-circle-is-betting-on-new-usd3-billion-blockchain",
-    "titleFingerprint": "d98ad11b4840657c78aa1148b89d441821bb04e9",
-    "dedupKeys": [
-      "a690547fa2a63d675c9137c248348fd312e7e9da",
-      "d98ad11b4840657c78aa1148b89d441821bb04e9",
-      "98a38185bc05b3ca7fcadd196a1fdb6c48a78716"
-    ],
-    "imageUrl": "/images/articles/a690547fa2a6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Circle의 30억달러 Arc 베팅, 월가 결제 블록체인 될까",
-        "excerpt": "USDC 발행사 Circle은 Arc가 월가의 결제와 토큰화 금융 인프라가 될 수 있다고 보고 30억달러 규모 새 블록체인 전략에 힘을 싣고 있다.",
-        "body": "USDC 스테이블코인 발행사 Circle은 새 블록체인 Arc가 월가의 결제와 토큰화 금융을 떠받치는 블록체인 레일이 될 수 있다고 보고 있다. 보도에 따르면 Circle은 30억달러 규모로 거론되는 Arc에 베팅하며 기관 금융 시장에서 스테이블코인 활용 범위를 넓히려 한다. 핵심은 결제 인프라와 토큰화 자산 이동을 기존 금융권이 쓸 수 있는 형태로 제공하는 것이다. 다만 애널리스트들은 아직 이 구상이 검증되지 않았고 투기적 성격이 남아 있다고 평가한다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Circle’s $3 Billion Arc Bet Targets Wall Street Payment Rails",
-        "excerpt": "USDC issuer Circle is backing Arc as a potential blockchain rail for Wall Street payments and tokenized finance, while analysts still call the plan speculative.",
-        "body": "USDC stablecoin issuer Circle is betting that its new blockchain, Arc, can become a blockchain rail for Wall Street payments and tokenized finance. According to the report, Circle is putting weight behind Arc, described around a $3 billion blockchain strategy, as it seeks to expand stablecoin use in institutional finance. The focus is to provide payment infrastructure and tokenized asset movement in a form traditional financial firms can use. Analysts, however, still view the idea as unproven and speculative. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "Circleの30億ドルArc構想、ウォール街決済基盤を狙う",
-        "excerpt": "USDC発行体Circleは、Arcがウォール街の決済とトークン化金融のブロックチェーン基盤になり得るとみているが、アナリストはなお投機的と評価している。",
-        "body": "USDCステーブルコイン発行体のCircleは、新ブロックチェーンArcがウォール街の決済とトークン化金融を支えるブロックチェーンレールになり得ると見ている。報道によると、Circleは30億ドル規模とされるArc戦略に力を入れ、機関投資家向け金融市場でステーブルコインの利用範囲を広げようとしている。焦点は、既存金融機関が使える形で決済インフラとトークン化資産の移動を提供することだ。ただしアナリストは、この構想はまだ実証されておらず投機的な面が残るとみている。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Circle押注30亿美元Arc，瞄准华尔街支付区块链轨道",
-        "excerpt": "USDC发行方Circle认为Arc可能成为华尔街支付和代币化金融的区块链轨道，但分析师仍认为这一计划带有投机性。",
-        "body": "USDC稳定币发行方Circle认为，新区块链Arc有机会成为支撑华尔街支付和代币化金融的区块链轨道。据报道，Circle正押注这个被称为约30亿美元规模的Arc战略，希望扩大稳定币在机构金融市场中的使用范围。其核心是以传统金融机构可采用的形式，提供支付基础设施和代币化资产转移能力。不过，分析师仍认为这一构想尚未得到验证，并带有投机性质。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Circle apuesta 3.000 millones por Arc para pagos de Wall Street",
-        "excerpt": "Circle, emisor de USDC, respalda Arc como posible red blockchain para pagos y finanzas tokenizadas de Wall Street, aunque analistas aún lo ven especulativo.",
-        "body": "Circle, emisor de la stablecoin USDC, apuesta a que su nueva blockchain Arc pueda convertirse en una vía para pagos de Wall Street y finanzas tokenizadas. Según el reporte, Circle está impulsando Arc, vinculada a una estrategia de unos 3.000 millones de dólares, para ampliar el uso de stablecoins en las finanzas institucionales. El objetivo es ofrecer infraestructura de pagos y movimiento de activos tokenizados en un formato utilizable por firmas financieras tradicionales. Aun así, los analistas consideran que la idea todavía no está probada y conserva un carácter especulativo. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Circle aposta US$ 3 bilhões na Arc para trilhos de Wall Street",
-        "excerpt": "Emissora da USDC, a Circle vê a Arc como possível trilho blockchain para pagamentos e finanças tokenizadas em Wall Street, mas analistas ainda veem risco especulativo.",
-        "body": "A Circle, emissora da stablecoin USDC, aposta que sua nova blockchain Arc pode se tornar um trilho para pagamentos de Wall Street e finanças tokenizadas. Segundo a reportagem, a Circle reforça a Arc, citada em uma estratégia de cerca de US$ 3 bilhões, para ampliar o uso de stablecoins no mercado financeiro institucional. O foco é oferecer infraestrutura de pagamentos e movimentação de ativos tokenizados em formato que instituições financeiras tradicionais possam usar. Ainda assim, analistas avaliam que a proposta não foi comprovada e segue com caráter especulativo. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Circle setzt 3 Milliarden Dollar auf Arc als Wall-Street-Rail",
-        "excerpt": "USDC-Emittent Circle sieht Arc als mögliche Blockchain-Schiene für Zahlungen und tokenisierte Finanzen an der Wall Street, doch Analysten bleiben vorsichtig.",
-        "body": "Der USDC-Stablecoin-Emittent Circle setzt darauf, dass seine neue Blockchain Arc zu einer Blockchain-Schiene für Zahlungen an der Wall Street und tokenisierte Finanzprodukte werden kann. Dem Bericht zufolge stärkt Circle Arc im Rahmen einer Strategie, die mit rund 3 Milliarden Dollar beschrieben wird, um die Nutzung von Stablecoins im institutionellen Finanzmarkt auszuweiten. Im Mittelpunkt stehen Zahlungsinfrastruktur und die Übertragung tokenisierter Vermögenswerte in einer Form, die traditionelle Finanzfirmen nutzen können. Analysten sehen die Idee jedoch weiterhin als unbewiesen und spekulativ. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Circle mise 3 milliards de dollars sur Arc pour Wall Street",
-        "excerpt": "L’émetteur de l’USDC, Circle, voit Arc comme un possible rail blockchain pour les paiements et la finance tokenisée à Wall Street, mais les analystes restent prudents.",
-        "body": "Circle, l’émetteur du stablecoin USDC, parie que sa nouvelle blockchain Arc peut devenir un rail pour les paiements de Wall Street et la finance tokenisée. Selon le reportage, Circle soutient Arc dans le cadre d’une stratégie décrite autour de 3 milliards de dollars afin d’élargir l’usage des stablecoins dans la finance institutionnelle. L’objectif est de fournir une infrastructure de paiement et de transfert d’actifs tokenisés sous une forme utilisable par les acteurs financiers traditionnels. Les analystes estiment toutefois que l’idée n’est pas encore prouvée et conserve un caractère spéculatif. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "Circle تراهن بـ3 مليارات دولار على Arc لمدفوعات وول ستريت",
-        "excerpt": "ترى Circle، مُصدرة USDC، أن Arc قد تصبح مسار بلوكتشين لمدفوعات وول ستريت والتمويل المرمز، بينما لا يزال المحللون يعدون الخطة مضاربية.",
-        "body": "تراهن Circle، مُصدرة العملة المستقرة USDC، على أن بلوكتشينها الجديدة Arc يمكن أن تصبح مساراً لمدفوعات وول ستريت والتمويل المرمز. وبحسب التقرير، تدعم Circle استراتيجية Arc التي يجري الحديث عنها بحجم يقارب 3 مليارات دولار، بهدف توسيع استخدام العملات المستقرة في أسواق التمويل المؤسسي. يتركز الهدف على توفير بنية تحتية للمدفوعات ونقل الأصول المرمزة بصيغة يمكن للمؤسسات المالية التقليدية استخدامها. ومع ذلك، يرى المحللون أن الفكرة لم تثبت بعد وما زالت تحمل طابعاً مضاربياً. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Circle की 3 अरब डॉलर Arc शर्त, Wall Street भुगतान रेल पर नजर",
-        "excerpt": "USDC जारीकर्ता Circle मानता है कि Arc, Wall Street भुगतान और टोकनाइज्ड फाइनेंस की ब्लॉकचेन रेल बन सकती है, हालांकि विश्लेषक इसे अभी सट्टात्मक मानते हैं।",
-        "body": "USDC स्टेबलकॉइन जारीकर्ता Circle अपनी नई ब्लॉकचेन Arc पर दांव लगा रहा है कि यह Wall Street के भुगतान और टोकनाइज्ड फाइनेंस के लिए ब्लॉकचेन रेल बन सकती है। रिपोर्ट के अनुसार, Circle लगभग 3 अरब डॉलर की रणनीति के रूप में देखी जा रही Arc को आगे बढ़ा रहा है, ताकि संस्थागत वित्त बाजारों में स्टेबलकॉइन का उपयोग बढ़ सके। इसका केंद्र पारंपरिक वित्तीय कंपनियों के उपयोग योग्य रूप में भुगतान अवसंरचना और टोकनाइज्ड एसेट ट्रांसफर देना है। फिर भी विश्लेषक इसे अभी अप्रमाणित और सट्टात्मक मानते हैं। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Taruhan US$3 Miliar Circle pada Arc Bidik Rel Pembayaran Wall Street",
-        "excerpt": "Penerbit USDC, Circle, menilai Arc bisa menjadi rel blockchain untuk pembayaran Wall Street dan keuangan tokenisasi, meski analis masih menyebutnya spekulatif.",
-        "body": "Penerbit stablecoin USDC, Circle, bertaruh bahwa blockchain barunya, Arc, dapat menjadi rel blockchain untuk pembayaran Wall Street dan keuangan tokenisasi. Menurut laporan tersebut, Circle mendorong Arc, yang dikaitkan dengan strategi sekitar US$3 miliar, untuk memperluas penggunaan stablecoin di pasar keuangan institusional. Fokusnya adalah menyediakan infrastruktur pembayaran dan perpindahan aset tokenisasi dalam bentuk yang dapat digunakan lembaga keuangan tradisional. Namun, analis masih menilai gagasan ini belum terbukti dan tetap bersifat spekulatif. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "d4e539339b82",
-    "slug": "a-big-nothing-burger-a-qa-with-strategys-michael-saylor-on-s-109308",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T20:26:26.887Z",
-    "updatedAt": "2026-05-11T20:26:26.887Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin",
-    "titleFingerprint": "456f4980790473e68c05ce34c10d9ff247457ebe",
-    "dedupKeys": [
-      "d4e539339b824870e344e88ee886c5e71dc14b54",
-      "456f4980790473e68c05ce34c10d9ff247457ebe",
-      "70fb91482f0d48df960b2b872fdd3276ad6df8d4"
-    ],
-    "imageUrl": "/images/articles/d4e539339b82.png",
-    "i18n": {
-      "ko": {
-        "title": "Strategy 세일러, 비트코인 매각 논란에 답하다: 배당·부채 상환 쟁점",
-        "excerpt": "마이클 세일러가 코인데스크 Q&A에서 비트코인 매각을 통한 배당, STRC 조달금의 부채 상환, ‘주간 고점 매수’ 비판에 대한 입장을 설명했다.",
-        "body": "Strategy의 마이클 세일러는 코인데스크와의 Q&A에서 비트코인 매각 가능성과 자본 운용 논란에 답했다. 핵심 쟁점은 비트코인을 팔아 배당금을 지급할 수 있는지, STRC 조달금으로 부채를 상환하는 구상, 그리고 Strategy가 매주 고점에서 비트코인을 산다는 비판이었다. 세일러는 이런 지적이 전략의 목적을 놓치고 있다고 봤다. 회사의 비트코인 중심 재무 정책을 둘러싼 투자자 관심은 배당, 부채, 매수 시점 논쟁으로 이어지고 있다. 출처: coindesk.com 인용."
-      },
-      "en": {
-        "title": "Strategy’s Saylor Addresses Bitcoin Sale Debate, Dividends and Debt",
-        "excerpt": "Michael Saylor told CoinDesk in a Q&A how he views selling bitcoin for dividends, using STRC proceeds to retire debt, and criticism of Strategy’s weekly buys.",
-        "body": "Strategy’s Michael Saylor addressed the debate over potential bitcoin sales in a CoinDesk Q&A. The discussion focused on whether bitcoin could be sold to fund dividends, how STRC proceeds might be used to retire debt, and why critics say Strategy buys bitcoin near weekly highs. Saylor argued that such criticism misses the point of the company’s approach. Investor attention around Strategy’s bitcoin-centered treasury policy now runs through three issues: dividends, debt management, and the timing of recurring bitcoin purchases. Source: cited from coindesk.com."
-      },
-      "ja": {
-        "title": "Strategyのセイラー氏、ビットコイン売却論争と配当・債務を説明",
-        "excerpt": "マイケル・セイラー氏はCoinDeskのQ&Aで、配当のためのビットコイン売却、STRC資金による債務返済、週次高値買い批判に答えた。",
-        "body": "Strategyのマイケル・セイラー氏は、CoinDeskとのQ&Aでビットコイン売却の可能性と資本運用を巡る論点に答えた。焦点は、ビットコインを売って配当を支払う可能性、STRCで調達した資金を債務返済に充てる考え、そしてStrategyが毎週の高値でビットコインを買っているとの批判だった。セイラー氏は、こうした見方は同社の戦略の目的を捉えていないと述べた。投資家の関心は配当、債務、買い付け時点の議論に集まっている。出典: coindesk.com引用。"
-      },
-      "zh": {
-        "title": "Strategy塞勒回应比特币出售争议：股息、债务与买入时点",
-        "excerpt": "迈克尔·塞勒在CoinDesk问答中谈及出售比特币用于分红、以STRC所得偿还债务，以及外界对Strategy每周高点买入的批评。",
-        "body": "Strategy的迈克尔·塞勒在CoinDesk问答中回应了有关出售比特币及资本运作的争议。讨论重点包括：是否可能出售比特币来支付股息，是否用STRC融资所得偿还债务，以及批评者所称Strategy总是在每周高点买入比特币的问题。塞勒认为，这类批评没有抓住公司策略的重点。围绕Strategy以比特币为核心的财务政策，投资者关注正集中在股息、债务处理和持续买入时点三方面。来源：引用coindesk.com。"
-      },
-      "es": {
-        "title": "Saylor de Strategy responde sobre vender bitcoin, dividendos y deuda",
-        "excerpt": "Michael Saylor habló con CoinDesk sobre vender bitcoin para dividendos, usar ingresos de STRC para retirar deuda y las críticas a las compras semanales.",
-        "body": "Michael Saylor, de Strategy, respondió en una entrevista de preguntas y respuestas con CoinDesk al debate sobre posibles ventas de bitcoin y la gestión de capital. Los temas centrales fueron si la empresa podría vender bitcoin para pagar dividendos, cómo usaría los ingresos de STRC para retirar deuda y por qué algunos críticos dicen que Strategy compra cerca del máximo semanal. Saylor sostuvo que esas críticas no captan el sentido de la estrategia. La atención de los inversores se concentra en dividendos, deuda y momento de compra. Fuente: citado de coindesk.com."
-      },
-      "pt": {
-        "title": "Saylor, da Strategy, responde sobre vender bitcoin, dividendos e dívida",
-        "excerpt": "Michael Saylor explicou ao CoinDesk sua visão sobre vender bitcoin para dividendos, usar recursos da STRC para quitar dívida e críticas às compras semanais.",
-        "body": "Michael Saylor, da Strategy, respondeu em uma sessão de perguntas e respostas com o CoinDesk ao debate sobre possíveis vendas de bitcoin e alocação de capital. A conversa tratou de vender bitcoin para financiar dividendos, usar recursos captados via STRC para quitar dívida e das críticas de que a Strategy compra bitcoin perto das máximas semanais. Saylor afirmou que essa leitura perde o ponto central da estratégia da empresa. O interesse dos investidores segue concentrado em dividendos, dívida e no momento das compras recorrentes. Fonte: citado de coindesk.com."
-      },
-      "de": {
-        "title": "Strategy-Chef Saylor erklärt Bitcoin-Verkäufe, Dividenden und Schulden",
-        "excerpt": "Michael Saylor sprach mit CoinDesk über Bitcoin-Verkäufe für Dividenden, STRC-Erlöse zur Schuldentilgung und Kritik an wöchentlichen Käufen.",
-        "body": "Michael Saylor von Strategy hat in einem Q&A mit CoinDesk die Debatte über mögliche Bitcoin-Verkäufe und die Kapitalsteuerung des Unternehmens aufgegriffen. Im Mittelpunkt standen die Frage, ob Bitcoin zur Finanzierung von Dividenden verkauft werden könnte, die Nutzung von STRC-Erlösen zur Tilgung von Schulden und die Kritik, Strategy kaufe Bitcoin nahe wöchentlicher Höchststände. Saylor sagte, diese Kritik verfehle den Zweck der Strategie. Für Investoren bleiben Dividenden, Schuldenabbau und Kaufzeitpunkte die zentralen Streitpunkte. Quelle: zitiert nach coindesk.com."
-      },
-      "fr": {
-        "title": "Saylor de Strategy répond sur la vente de bitcoin, les dividendes et la dette",
-        "excerpt": "Michael Saylor a expliqué à CoinDesk la vente éventuelle de bitcoin pour les dividendes, l’usage des fonds STRC et les critiques sur les achats hebdomadaires.",
-        "body": "Michael Saylor, de Strategy, a répondu dans un Q&A avec CoinDesk aux questions sur une éventuelle vente de bitcoin et la gestion du capital. Les points clés portaient sur la possibilité de vendre du bitcoin pour verser des dividendes, l’utilisation des produits STRC pour rembourser la dette, et les critiques affirmant que Strategy achète près des sommets hebdomadaires. Saylor estime que ces critiques passent à côté du sens de la stratégie. L’attention des investisseurs se concentre donc sur les dividendes, la dette et le calendrier des achats récurrents. Source: cité de coindesk.com."
-      },
-      "ar": {
-        "title": "سايلور من Strategy يوضح جدل بيع البيتكوين والتوزيعات وسداد الديون",
-        "excerpt": "تحدث مايكل سايلور مع CoinDesk عن بيع البيتكوين لتمويل التوزيعات، واستخدام عائدات STRC لسداد الديون، والانتقادات حول الشراء الأسبوعي.",
-        "body": "أجاب مايكل سايلور من Strategy في مقابلة أسئلة وأجوبة مع CoinDesk عن الجدل المتعلق بإمكانية بيع البيتكوين وإدارة رأس المال. وتركز النقاش على ما إذا كان يمكن بيع البيتكوين لدفع توزيعات، وعلى استخدام عائدات STRC لسداد الديون، وعلى انتقادات تقول إن Strategy تشتري البيتكوين قرب قمم أسبوعية. ورأى سايلور أن هذه الانتقادات لا تلتقط جوهر نهج الشركة. وتبقى سياسة الخزانة القائمة على البيتكوين محط اهتمام المستثمرين عبر ملفات التوزيعات والديون وتوقيت الشراء. المصدر: نقلا عن coindesk.com."
-      },
-      "hi": {
-        "title": "Strategy के Saylor ने बिटकॉइन बिक्री, लाभांश और कर्ज पर दी सफाई",
-        "excerpt": "Michael Saylor ने CoinDesk Q&A में लाभांश के लिए बिटकॉइन बेचने, STRC आय से कर्ज चुकाने और साप्ताहिक ऊंचाई पर खरीद की आलोचना पर बात की।",
-        "body": "Strategy के Michael Saylor ने CoinDesk के Q&A में बिटकॉइन बेचने की संभावना और पूंजी प्रबंधन से जुड़े विवादों पर जवाब दिया। मुख्य मुद्दे थे कि क्या लाभांश देने के लिए बिटकॉइन बेचा जा सकता है, STRC से जुटाई गई राशि का इस्तेमाल कर्ज चुकाने में कैसे हो सकता है, और आलोचक क्यों कहते हैं कि Strategy हर सप्ताह ऊंचे स्तरों पर बिटकॉइन खरीदती है। Saylor का कहना था कि ऐसी आलोचना कंपनी की रणनीति का उद्देश्य नहीं समझती। निवेशकों की नजर अब लाभांश, कर्ज और नियमित खरीद के समय पर है। स्रोत: coindesk.com से उद्धृत।"
-      },
-      "id": {
-        "title": "Saylor dari Strategy Jawab Isu Jual Bitcoin, Dividen, dan Utang",
-        "excerpt": "Michael Saylor berbicara dengan CoinDesk soal menjual bitcoin untuk dividen, memakai dana STRC guna melunasi utang, dan kritik atas pembelian mingguan.",
-        "body": "Michael Saylor dari Strategy menjawab perdebatan soal kemungkinan penjualan bitcoin dan pengelolaan modal dalam sesi tanya jawab dengan CoinDesk. Fokusnya adalah apakah bitcoin dapat dijual untuk membayar dividen, bagaimana dana hasil STRC bisa dipakai untuk melunasi utang, dan kritik bahwa Strategy membeli bitcoin di dekat puncak mingguan. Saylor menilai kritik itu melewatkan inti strategi perusahaan. Perhatian investor terhadap kebijakan treasury berbasis bitcoin Strategy kini berpusat pada dividen, utang, dan waktu pembelian berulang. Sumber: dikutip dari coindesk.com."
       }
     }
   }
