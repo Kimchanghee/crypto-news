@@ -1,5 +1,230 @@
 [
   {
+    "id": "3c2ea1e70bc3",
+    "slug": "north-korea-industrialized-crypto-theft-laundered-billions-c-828672",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T19:09:01.574Z",
+    "updatedAt": "2026-05-12T19:09:01.574Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/north-korea-industrialized-crypto-theft-laundered-billions-report-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/north-korea-industrialized-crypto-theft-laundered-billions-report-finds",
+    "titleFingerprint": "0b595b78574d1c215bcd908c1f5822981298f9f1",
+    "dedupKeys": [
+      "3c2ea1e70bc3401947e4a44bde9e23a430a1a19f",
+      "0b595b78574d1c215bcd908c1f5822981298f9f1",
+      "333349556a30870e2c37a38c423a777f98b28d24"
+    ],
+    "imageUrl": "/images/articles/3c2ea1e70bc3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "북한 해커, 2025년 암호화폐 해킹 피해 20.6억달러 훔쳤다",
+        "excerpt": "CertiK 새 보고서에 따르면 북한 연계 해커들은 2025년 암호화폐 해킹 피해 34억달러 중 약 20.6억달러를 훔쳤고, 피싱에서 물리적 침투로 전술을 넓히고 있다.",
+        "body": "CertiK의 새 보고서에 따르면 2025년 암호화폐 해킹으로 발생한 피해 34억달러 가운데 약 20.6억달러가 북한 연계 해커들에게 탈취됐다. 보고서는 북한이 암호화폐 절도를 ‘산업화’했으며, 기존 피싱 중심 공격에서 물리적 침투까지 전술을 확대하고 있다고 분석했다. 관련 수치는 2025년 전체 해킹 손실의 상당 부분이 북한 관련 활동과 연결됐음을 보여준다. 이는 암호화폐 업계가 온라인 보안뿐 아니라 인력, 내부 접근, 운영 절차에 대한 방어도 강화해야 한다는 신호로 해석된다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "North Korean hackers stole $2.06B in 2025 crypto hacks, CertiK says",
+        "excerpt": "CertiK’s new report says North Korea-linked hackers stole about $2.06 billion of the $3.4 billion lost in 2025 crypto hacks and are expanding from phishing to physical infiltration.",
+        "body": "According to a new CertiK report, North Korea-linked hackers stole about $2.06 billion of the $3.4 billion lost to crypto hacks in 2025. The report says North Korea has “industrialized” crypto theft and is widening its tactics from phishing-based attacks to physical infiltration. The figures show that a large share of 2025 crypto hack losses was tied to North Korea-linked activity. The findings signal that the crypto industry must strengthen not only online defenses but also controls around personnel, internal access and operating procedures. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "北朝鮮ハッカー、2025年の暗号資産被害20.6億ドルを奪取",
+        "excerpt": "CertiKの新報告書によると、北朝鮮系ハッカーは2025年の暗号資産ハッキング被害34億ドルのうち約20.6億ドルを盗み、フィッシングから物理的侵入へ戦術を広げている。",
+        "body": "CertiKの新報告書によると、2025年に暗号資産ハッキングで発生した被害34億ドルのうち、約20.6億ドルが北朝鮮系ハッカーに奪われた。報告書は、北朝鮮が暗号資産窃盗を「産業化」し、従来のフィッシング中心の攻撃から物理的侵入へ戦術を拡大していると分析した。この数字は、2025年のハッキング損失の大きな部分が北朝鮮関連の活動と結び付いていることを示す。暗号資産業界には、オンライン防御だけでなく、人員、内部アクセス、運用手順の管理強化も求められる。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "朝鲜黑客窃取2025年加密攻击损失中的20.6亿美元",
+        "excerpt": "CertiK最新报告称，朝鲜关联黑客在2025年34亿美元加密黑客损失中窃取约20.6亿美元，并正从网络钓鱼转向实体渗透等更广泛战术。",
+        "body": "CertiK最新报告显示，2025年加密货币黑客攻击造成的34亿美元损失中，约20.6亿美元被朝鲜关联黑客窃取。报告称，朝鲜已将加密货币盗窃“工业化”，并将战术从以网络钓鱼为主的攻击扩展到实体渗透。相关数据表明，2025年加密黑客损失中的相当大一部分与朝鲜相关活动有关。这一发现意味着，加密行业不仅需要加强线上安全，还需要强化人员、内部访问和运营流程方面的防护。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Hackers norcoreanos robaron $2.060M en criptoataques de 2025",
+        "excerpt": "Un nuevo informe de CertiK dice que hackers vinculados a Corea del Norte robaron unos $2.060 millones de los $3.400 millones perdidos en hacks cripto de 2025 y pasan del phishing a la infiltración física.",
+        "body": "Según un nuevo informe de CertiK, hackers vinculados a Corea del Norte robaron alrededor de $2.060 millones de los $3.400 millones perdidos en hacks de criptomonedas en 2025. El informe afirma que Corea del Norte ha “industrializado” el robo de criptoactivos y está ampliando sus tácticas desde ataques centrados en phishing hacia la infiltración física. Las cifras muestran que una parte importante de las pérdidas por hacks cripto de 2025 estuvo ligada a actividad relacionada con Corea del Norte. El hallazgo indica que la industria cripto debe reforzar no solo la seguridad en línea, sino también los controles sobre personal, accesos internos y procedimientos operativos. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Hackers norte-coreanos roubaram US$ 2,06 bi em hacks cripto de 2025",
+        "excerpt": "Novo relatório da CertiK diz que hackers ligados à Coreia do Norte roubaram cerca de US$ 2,06 bilhões dos US$ 3,4 bilhões perdidos em hacks cripto em 2025 e avançam do phishing para infiltração física.",
+        "body": "Segundo um novo relatório da CertiK, hackers ligados à Coreia do Norte roubaram cerca de US$ 2,06 bilhões dos US$ 3,4 bilhões perdidos em hacks de criptomoedas em 2025. O relatório afirma que a Coreia do Norte “industrializou” o roubo de criptoativos e está ampliando suas táticas, saindo de ataques baseados em phishing para infiltração física. Os números mostram que uma parcela relevante das perdas por hacks cripto em 2025 esteve ligada a atividades relacionadas à Coreia do Norte. O dado indica que o setor cripto precisa reforçar não apenas a segurança online, mas também controles sobre pessoas, acessos internos e procedimentos operacionais. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Nordkorea-Hacker stahlen 2025 Krypto-Werte über 2,06 Mrd. Dollar",
+        "excerpt": "Ein neuer CertiK-Bericht besagt, dass Nordkorea-nahe Hacker 2025 rund 2,06 Mrd. Dollar der 3,4 Mrd. Dollar Krypto-Hackverluste stahlen und ihre Taktik von Phishing auf physische Infiltration ausweiten.",
+        "body": "Laut einem neuen Bericht von CertiK stahlen Nordkorea-nahe Hacker rund 2,06 Milliarden Dollar der insgesamt 3,4 Milliarden Dollar, die 2025 durch Krypto-Hacks verloren gingen. Der Bericht erklärt, Nordkorea habe Krypto-Diebstahl „industrialisiert“ und weite seine Taktiken von phishingbasierten Angriffen auf physische Infiltration aus. Die Zahlen zeigen, dass ein erheblicher Teil der Krypto-Hackverluste 2025 mit Nordkorea-bezogenen Aktivitäten verbunden war. Für die Kryptobranche bedeutet das, nicht nur Online-Sicherheit, sondern auch Kontrollen für Personal, interne Zugänge und Betriebsabläufe zu stärken. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Des hackers nord-coréens ont volé 2,06 Md$ en crypto en 2025",
+        "excerpt": "Un nouveau rapport de CertiK indique que des hackers liés à la Corée du Nord ont volé environ 2,06 Md$ sur les 3,4 Md$ perdus dans les piratages crypto de 2025 et passent du phishing à l’infiltration physique.",
+        "body": "Selon un nouveau rapport de CertiK, des hackers liés à la Corée du Nord ont volé environ 2,06 milliards de dollars sur les 3,4 milliards de dollars perdus lors de piratages crypto en 2025. Le rapport affirme que la Corée du Nord a « industrialisé » le vol de cryptomonnaies et élargit ses tactiques, des attaques centrées sur le phishing vers l’infiltration physique. Ces chiffres montrent qu’une part importante des pertes liées aux hacks crypto de 2025 est associée à des activités nord-coréennes. Le secteur crypto doit donc renforcer non seulement sa sécurité en ligne, mais aussi ses contrôles sur le personnel, les accès internes et les procédures opérationnelles. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "قراصنة كوريا الشمالية سرقوا 2.06 مليار دولار من هجمات كريبتو 2025",
+        "excerpt": "يقول تقرير CertiK الجديد إن قراصنة مرتبطين بكوريا الشمالية سرقوا نحو 2.06 مليار دولار من أصل 3.4 مليار دولار فُقدت في اختراقات الكريبتو عام 2025، مع انتقالهم من التصيد إلى التسلل المادي.",
+        "body": "وفق تقرير جديد من CertiK، سرق قراصنة مرتبطون بكوريا الشمالية نحو 2.06 مليار دولار من أصل 3.4 مليار دولار فُقدت في اختراقات العملات المشفرة خلال 2025. ويقول التقرير إن كوريا الشمالية حولت سرقة الكريبتو إلى نشاط «صناعي»، ووسعت أساليبها من هجمات التصيد التقليدية إلى التسلل المادي. وتظهر الأرقام أن جزءا كبيرا من خسائر اختراقات الكريبتو في 2025 كان مرتبطا بأنشطة ذات صلة بكوريا الشمالية. وتشير النتائج إلى أن قطاع العملات المشفرة يحتاج إلى تعزيز الحماية الإلكترونية، إلى جانب ضوابط الموظفين والوصول الداخلي وإجراءات التشغيل. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "उत्तर कोरियाई हैकरों ने 2025 क्रिप्टो हैक में $2.06 अरब चुराए",
+        "excerpt": "CertiK की नई रिपोर्ट के अनुसार उत्तर कोरिया से जुड़े हैकरों ने 2025 में क्रिप्टो हैक से हुए $3.4 अरब नुकसान में से करीब $2.06 अरब चुराए और फिशिंग से भौतिक घुसपैठ की ओर बढ़ रहे हैं।",
+        "body": "CertiK की नई रिपोर्ट के अनुसार, 2025 में क्रिप्टो हैक से हुए $3.4 अरब के नुकसान में से लगभग $2.06 अरब उत्तर कोरिया से जुड़े हैकरों ने चुराए। रिपोर्ट में कहा गया कि उत्तर कोरिया ने क्रिप्टो चोरी को “औद्योगिक” बना दिया है और वह पारंपरिक फिशिंग आधारित हमलों से आगे बढ़कर भौतिक घुसपैठ तक अपनी रणनीति फैला रहा है। ये आंकड़े दिखाते हैं कि 2025 के क्रिप्टो हैक नुकसान का बड़ा हिस्सा उत्तर कोरिया से जुड़ी गतिविधियों से संबंधित था। इससे क्रिप्टो उद्योग के लिए ऑनलाइन सुरक्षा के साथ कर्मचारियों, आंतरिक पहुंच और संचालन प्रक्रियाओं पर नियंत्रण मजबूत करने की जरूरत सामने आती है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Peretas Korea Utara curi $2,06 miliar dalam hack kripto 2025",
+        "excerpt": "Laporan baru CertiK menyebut peretas terkait Korea Utara mencuri sekitar $2,06 miliar dari $3,4 miliar kerugian hack kripto pada 2025 dan bergerak dari phishing ke infiltrasi fisik.",
+        "body": "Menurut laporan baru CertiK, peretas yang terkait dengan Korea Utara mencuri sekitar $2,06 miliar dari total $3,4 miliar kerugian akibat hack kripto pada 2025. Laporan itu menyebut Korea Utara telah “mengindustrialisasi” pencurian kripto dan memperluas taktik dari serangan berbasis phishing ke infiltrasi fisik. Angka tersebut menunjukkan bahwa sebagian besar kerugian hack kripto pada 2025 berkaitan dengan aktivitas yang terhubung dengan Korea Utara. Temuan ini menjadi sinyal bahwa industri kripto perlu memperkuat bukan hanya keamanan online, tetapi juga kontrol atas personel, akses internal, dan prosedur operasional. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "01d20436b779",
+    "slug": "falconx-expands-tokenized-credit-facility-to-monad-network-i-348486",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T19:07:12.934Z",
+    "updatedAt": "2026-05-12T19:07:12.934Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/falconx-expands-tokenized-credit-facility-to-monad-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/falconx-expands-tokenized-credit-facility-to-monad-network",
+    "titleFingerprint": "67828fcb7e77efe4be3ab29bbfb8e166a5139a51",
+    "dedupKeys": [
+      "01d20436b77987c701bbfc41a0e01a0022138cfc",
+      "67828fcb7e77efe4be3ab29bbfb8e166a5139a51",
+      "0039c1432efc01493c1815bc082f171ead92314b"
+    ],
+    "imageUrl": "/images/articles/01d20436b779.jpg",
+    "i18n": {
+      "ko": {
+        "title": "FalconX, Monad 네트워크로 토큰화 신용 담보 확대…DeFi 기관 대출 강화",
+        "excerpt": "FalconX는 이번 발표를 통해 토큰화 신용 볼트를 Monad 네트워크의 DeFi 시장 담보로 사용할 수 있게 하며, 블록체인 전반의 기관 대출 상품 확장에 나섰다.",
+        "body": "FalconX가 토큰화 신용 볼트의 활용 범위를 Monad 네트워크로 넓혔다. 이번 조치로 해당 볼트는 Monad 기반 탈중앙화금융(DeFi) 시장에서 담보로 사용될 수 있다. 이는 기관 투자자를 겨냥한 대출 상품을 여러 블록체인 네트워크로 확장하려는 움직임이다. 토큰화 신용 볼트는 온체인 시장에서 담보 자산으로 연결되며, Monad의 DeFi 생태계는 FalconX의 기관 신용 상품을 활용할 수 있게 됐다. 영향은 기관 대출 상품의 네트워크 확장에 초점이 맞춰져 있다. 출처는 cointelegraph.com이다."
+      },
+      "en": {
+        "title": "FalconX Expands Tokenized Credit Collateral to Monad for DeFi Lending",
+        "excerpt": "FalconX said its tokenized credit vaults can now be used as collateral in DeFi markets on Monad, extending institutional lending products across blockchain networks.",
+        "body": "FalconX has expanded the use of its tokenized credit vaults to the Monad network. Under the move, the vaults can now be used as collateral in decentralized finance, or DeFi, markets built on Monad. The step is part of a push to extend institutional lending products across multiple blockchain networks. The tokenized credit vaults connect credit exposure with onchain collateral use, while Monad’s DeFi ecosystem gains access to FalconX’s institutional credit products. The immediate impact centers on broader network availability for institutional lending tools. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "FalconX、Monadでトークン化信用担保を拡大しDeFi融資を強化",
+        "excerpt": "FalconXは、トークン化信用ボルトをMonad上のDeFi市場で担保として利用可能にし、ブロックチェーン横断で機関向け融資商品を広げる。",
+        "body": "FalconXは、トークン化信用ボルトの利用範囲をMonadネットワークへ拡大した。今回の対応により、同ボルトはMonad上の分散型金融（DeFi）市場で担保として使えるようになった。これは、機関投資家向け融資商品を複数のブロックチェーンネットワークへ広げる動きの一部だ。トークン化信用ボルトはオンチェーン市場で担保資産として接続され、MonadのDeFiエコシステムはFalconXの機関向け信用商品を利用できる。影響は、機関向け融資ツールのネットワーク拡大に集中している。出典はcointelegraph.com。"
+      },
+      "zh": {
+        "title": "FalconX将代币化信贷抵押扩展至Monad，强化DeFi机构借贷",
+        "excerpt": "FalconX表示，其代币化信贷金库现可在Monad上的DeFi市场中作为抵押品使用，从而把机构借贷产品扩展到更多区块链网络。",
+        "body": "FalconX已将其代币化信贷金库的使用范围扩展至Monad网络。根据此次安排，这些金库现在可在Monad构建的去中心化金融（DeFi）市场中作为抵押品使用。此举是FalconX把机构借贷产品扩展到多个区块链网络的一部分。代币化信贷金库把信贷敞口与链上抵押用途连接起来，而Monad的DeFi生态也因此能够使用FalconX的机构级信贷产品。其直接影响主要在于扩大机构借贷工具的网络覆盖范围。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "FalconX lleva el crédito tokenizado a Monad como garantía para préstamos DeFi",
+        "excerpt": "FalconX dijo que sus bóvedas de crédito tokenizado ya pueden usarse como garantía en mercados DeFi de Monad, ampliando productos de préstamo institucional entre redes blockchain.",
+        "body": "FalconX amplió el uso de sus bóvedas de crédito tokenizado a la red Monad. Con este paso, esas bóvedas pueden utilizarse como garantía en mercados de finanzas descentralizadas, o DeFi, construidos sobre Monad. La medida forma parte de un impulso para extender productos de préstamo institucional a través de varias redes blockchain. Las bóvedas de crédito tokenizado conectan la exposición crediticia con el uso de garantías onchain, mientras el ecosistema DeFi de Monad obtiene acceso a los productos de crédito institucional de FalconX. El impacto inmediato se centra en una mayor disponibilidad de herramientas de préstamo institucional. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "FalconX amplia crédito tokenizado para Monad como garantia em empréstimos DeFi",
+        "excerpt": "A FalconX informou que seus cofres de crédito tokenizado agora podem ser usados como garantia em mercados DeFi na Monad, ampliando produtos de empréstimo institucional entre blockchains.",
+        "body": "A FalconX ampliou o uso de seus cofres de crédito tokenizado para a rede Monad. Com a mudança, esses cofres agora podem ser usados como garantia em mercados de finanças descentralizadas, ou DeFi, construídos na Monad. A iniciativa faz parte de um movimento para expandir produtos de empréstimo institucional por várias redes blockchain. Os cofres de crédito tokenizado conectam exposição de crédito ao uso de garantias onchain, enquanto o ecossistema DeFi da Monad passa a acessar os produtos de crédito institucional da FalconX. O impacto imediato está na maior disponibilidade dessas ferramentas entre redes. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "FalconX erweitert tokenisierte Kredit-Sicherheiten auf Monad für DeFi-Kredite",
+        "excerpt": "FalconX erklärte, dass seine tokenisierten Kredit-Vaults nun als Sicherheiten in DeFi-Märkten auf Monad genutzt werden können und institutionelle Kreditprodukte über Blockchain-Netzwerke ausweitet.",
+        "body": "FalconX hat die Nutzung seiner tokenisierten Kredit-Vaults auf das Monad-Netzwerk ausgeweitet. Durch diesen Schritt können die Vaults nun als Sicherheiten in DeFi-Märkten auf Monad verwendet werden. Die Maßnahme ist Teil eines Vorstoßes, institutionelle Kreditprodukte über mehrere Blockchain-Netzwerke hinweg verfügbar zu machen. Die tokenisierten Kredit-Vaults verbinden Kreditengagements mit der Nutzung als Onchain-Sicherheit, während das DeFi-Ökosystem von Monad Zugang zu den institutionellen Kreditprodukten von FalconX erhält. Die unmittelbare Wirkung liegt in der breiteren Netzwerkverfügbarkeit solcher Kreditinstrumente. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "FalconX étend le crédit tokenisé à Monad comme collatéral pour la DeFi",
+        "excerpt": "FalconX a indiqué que ses coffres de crédit tokenisé peuvent désormais servir de collatéral sur les marchés DeFi de Monad, élargissant ses produits de prêt institutionnel entre blockchains.",
+        "body": "FalconX a étendu l’utilisation de ses coffres de crédit tokenisé au réseau Monad. Avec cette évolution, ces coffres peuvent désormais être utilisés comme collatéral sur les marchés de finance décentralisée, ou DeFi, construits sur Monad. Cette mesure s’inscrit dans une volonté d’élargir les produits de prêt institutionnel à plusieurs réseaux blockchain. Les coffres de crédit tokenisé relient l’exposition au crédit à un usage de garantie onchain, tandis que l’écosystème DeFi de Monad accède aux produits de crédit institutionnel de FalconX. L’impact immédiat porte sur une disponibilité accrue de ces outils de prêt entre réseaux. Source : cointelegraph.com."
+      },
+      "ar": {
+        "title": "FalconX توسع ضمانات الائتمان المرمز إلى Monad لدعم إقراض DeFi المؤسسي",
+        "excerpt": "قالت FalconX إن خزائن الائتمان المرمز لديها أصبحت قابلة للاستخدام كضمان في أسواق DeFi على Monad، ما يوسع منتجات الإقراض المؤسسي عبر شبكات البلوكشين.",
+        "body": "وسعت FalconX نطاق استخدام خزائن الائتمان المرمز لديها إلى شبكة Monad. وبموجب هذه الخطوة، يمكن استخدام هذه الخزائن الآن كضمان في أسواق التمويل اللامركزي، أو DeFi، المبنية على Monad. يأتي ذلك ضمن توجه لتوسيع منتجات الإقراض المؤسسي عبر عدة شبكات بلوكشين. تربط خزائن الائتمان المرمز التعرض الائتماني باستخدام الضمانات على السلسلة، بينما يحصل نظام DeFi في Monad على إمكانية الوصول إلى منتجات FalconX الائتمانية المؤسسية. ويركز الأثر المباشر على توسيع إتاحة أدوات الإقراض المؤسسي عبر الشبكات. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "FalconX ने Monad पर टोकनाइज्ड क्रेडिट गारंटी बढ़ाई, DeFi ऋण पर फोकस",
+        "excerpt": "FalconX ने कहा कि उसके टोकनाइज्ड क्रेडिट वॉल्ट अब Monad के DeFi बाजारों में कोलैटरल के रूप में इस्तेमाल हो सकते हैं, जिससे संस्थागत ऋण उत्पाद कई ब्लॉकचेन तक फैलेंगे।",
+        "body": "FalconX ने अपने टोकनाइज्ड क्रेडिट वॉल्ट के उपयोग को Monad नेटवर्क तक बढ़ा दिया है। इस कदम के बाद ये वॉल्ट Monad पर बने विकेंद्रीकृत वित्त, यानी DeFi, बाजारों में कोलैटरल के रूप में इस्तेमाल किए जा सकते हैं। यह संस्थागत निवेशकों के लिए ऋण उत्पादों को कई ब्लॉकचेन नेटवर्कों तक फैलाने की पहल का हिस्सा है। टोकनाइज्ड क्रेडिट वॉल्ट क्रेडिट एक्सपोजर को ऑनचेन कोलैटरल उपयोग से जोड़ते हैं, जबकि Monad का DeFi इकोसिस्टम FalconX के संस्थागत क्रेडिट उत्पादों तक पहुंच पाता है। तत्काल प्रभाव संस्थागत ऋण साधनों की व्यापक नेटवर्क उपलब्धता पर केंद्रित है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "FalconX Perluas Kredit Tokenisasi ke Monad sebagai Agunan Pinjaman DeFi",
+        "excerpt": "FalconX menyatakan vault kredit tokenisasinya kini dapat digunakan sebagai agunan di pasar DeFi Monad, memperluas produk pinjaman institusional lintas jaringan blockchain.",
+        "body": "FalconX memperluas penggunaan vault kredit tokenisasinya ke jaringan Monad. Melalui langkah ini, vault tersebut kini dapat digunakan sebagai agunan di pasar keuangan terdesentralisasi, atau DeFi, yang dibangun di Monad. Ini menjadi bagian dari dorongan untuk memperluas produk pinjaman institusional ke berbagai jaringan blockchain. Vault kredit tokenisasi menghubungkan eksposur kredit dengan penggunaan agunan onchain, sementara ekosistem DeFi Monad mendapat akses ke produk kredit institusional FalconX. Dampak langsungnya berfokus pada ketersediaan alat pinjaman institusional yang lebih luas di berbagai jaringan. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "3e997fb7c6d9",
+    "slug": "ethereum-derivatives-unfazed-by-defi-hacks-can-eth-hit-26k-n-512535",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T19:05:23.354Z",
+    "updatedAt": "2026-05-12T19:05:23.354Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/eth-derivatives-unfazed-defi-hacks-eth-hit-2600-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/eth-derivatives-unfazed-defi-hacks-eth-hit-2600-next",
+    "titleFingerprint": "1c92a092e68fb73f0fc27f8b34bfe65e06bd7b35",
+    "dedupKeys": [
+      "3e997fb7c6d94eb936ddb7ff601fcefcfc1a07a0",
+      "1c92a092e68fb73f0fc27f8b34bfe65e06bd7b35",
+      "adf1ec3fc24dce8745e5159faa0208797601a617"
+    ],
+    "imageUrl": "/images/articles/3e997fb7c6d9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이더리움 파생상품, 디파이 해킹에도 견조…ETH 2,600달러 목표 주목",
+        "excerpt": "최근 이더리움 선물·옵션 지표는 거시 불확실성과 디파이 해킹에도 전문 투자자들의 신중한 자신감을 보여주며 ETH 2,600달러 전망을 유지했다.",
+        "body": "최근 이더리움(ETH) 파생상품 시장은 거시경제 역풍과 디파이(DeFi) 해킹 이슈에도 크게 흔들리지 않는 흐름을 보였다. 선물과 옵션 지표는 전문 투자자들이 과도한 공포보다 신중한 자신감을 유지하고 있음을 시사했다. 배경에는 ETH 가격이 단기 변동성 속에서도 2,600달러 목표를 여전히 시야에 두고 있다는 점이 있다. 다만 원문은 거시 환경과 보안 사고가 부담 요인으로 남아 있다고 설명했다. 이에 따라 ETH의 다음 흐름은 파생상품 시장의 안정된 심리와 외부 리스크 사이의 균형에 달려 있다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Ethereum Derivatives Stay Firm as ETH’s $2,600 Target Remains in Focus",
+        "excerpt": "Ethereum futures and options recently showed cautious confidence among professional traders despite macro pressure and DeFi hacks, keeping the $2,600 ETH target alive.",
+        "body": "Ethereum (ETH) derivatives have recently remained steady despite macroeconomic headwinds and DeFi hack concerns. Futures and options indicators suggest professional investors are showing cautious confidence rather than strong fear. The key context is that ETH’s $2,600 price target remains in play even as short-term volatility and external risks persist. The original report noted that macro conditions and security incidents still weigh on sentiment, but derivatives positioning has not shown a sharp loss of confidence. ETH’s next move may depend on the balance between this stable market tone and continuing outside risks. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "イーサリアム派生商品は堅調、ETHの2,600ドル目標に再び注目",
+        "excerpt": "最近のイーサリアム先物・オプションは、マクロ逆風とDeFiハッキングにもかかわらず専門投資家の慎重な自信を示し、ETH2,600ドル目標を維持した。",
+        "body": "最近、イーサリアム（ETH）の派生商品市場は、マクロ経済の逆風やDeFiハッキングへの懸念にも大きく崩れない動きを見せた。先物とオプションの指標は、専門投資家が過度な恐怖よりも慎重な自信を保っていることを示している。背景には、ETH価格が短期的な変動性の中でも2,600ドルの目標をなお視野に入れている点がある。ただし原文は、マクロ環境とセキュリティ事故が引き続き重しになると説明した。今後のETHの動きは、派生商品市場の安定した心理と外部リスクのバランスに左右される可能性がある。出典: cointelegraph.com。"
+      },
+      "zh": {
+        "title": "以太坊衍生品保持稳定，ETH 2,600美元目标仍受关注",
+        "excerpt": "近期以太坊期货和期权数据显示，尽管面临宏观压力和DeFi黑客事件，专业投资者仍保持谨慎信心，ETH 2,600美元目标未被排除。",
+        "body": "近期，以太坊（ETH）衍生品市场在宏观经济逆风和DeFi黑客事件影响下仍保持相对稳定。期货和期权指标显示，专业投资者并未表现出明显恐慌，而是维持谨慎信心。其背景是，尽管短期波动和外部风险仍在，ETH价格的2,600美元目标仍然处于市场视野之内。原文指出，宏观环境和安全事件仍是压力因素，但衍生品仓位并未显示信心急剧恶化。ETH的下一步走势，可能取决于衍生品市场稳定情绪与持续外部风险之间的平衡。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "Derivados de Ethereum resisten y el objetivo de ETH en 2.600 dólares sigue vivo",
+        "excerpt": "Los futuros y opciones de Ethereum mostraron recientemente confianza cautelosa entre profesionales pese a presiones macro y hackeos DeFi, manteniendo el objetivo de 2.600 dólares.",
+        "body": "El mercado de derivados de Ethereum (ETH) se mantuvo recientemente estable pese a los vientos macroeconómicos en contra y las preocupaciones por hackeos en DeFi. Los indicadores de futuros y opciones sugieren que los inversores profesionales conservan una confianza cautelosa, más que un temor extremo. El contexto clave es que el objetivo de precio de 2.600 dólares para ETH sigue sobre la mesa aun con volatilidad de corto plazo y riesgos externos. El informe original señaló que el entorno macro y los incidentes de seguridad continúan pesando sobre el ánimo. El próximo movimiento de ETH dependerá del equilibrio entre esa estabilidad en derivados y los riesgos persistentes. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Derivativos do Ethereum seguem firmes e meta de US$ 2.600 para ETH fica no radar",
+        "excerpt": "Futuros e opções de Ethereum mostraram recentemente confiança cautelosa entre profissionais, apesar de pressões macro e hacks DeFi, mantendo a meta de US$ 2.600.",
+        "body": "O mercado de derivativos do Ethereum (ETH) permaneceu recentemente estável apesar dos ventos contrários macroeconômicos e das preocupações com hacks em DeFi. Indicadores de futuros e opções sugerem que investidores profissionais mantêm uma confiança cautelosa, em vez de medo excessivo. O ponto central é que a meta de preço de US$ 2.600 para o ETH continua em jogo mesmo com volatilidade de curto prazo e riscos externos. O relatório original observou que o ambiente macro e incidentes de segurança ainda pesam sobre o sentimento. O próximo movimento do ETH pode depender do equilíbrio entre o tom estável dos derivativos e esses riscos persistentes. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Ethereum-Derivate bleiben stabil, ETH-Ziel von 2.600 Dollar rückt weiter in den Fokus",
+        "excerpt": "Ethereum-Futures und -Optionen zeigten zuletzt trotz Makrodruck und DeFi-Hacks vorsichtigen Optimismus professioneller Anleger und halten das ETH-Ziel von 2.600 Dollar offen.",
+        "body": "Der Derivatemarkt von Ethereum (ETH) zeigte sich zuletzt trotz makroökonomischen Gegenwinds und Sorgen über DeFi-Hacks relativ stabil. Futures- und Optionsdaten deuten darauf hin, dass professionelle Investoren eher vorsichtige Zuversicht als ausgeprägte Angst zeigen. Der zentrale Kontext ist, dass das Kursziel von 2.600 Dollar für ETH trotz kurzfristiger Volatilität und externer Risiken weiter im Spiel bleibt. Der Originalbericht betonte zugleich, dass das Makroumfeld und Sicherheitsvorfälle die Stimmung weiterhin belasten. Die nächste ETH-Bewegung dürfte davon abhängen, wie sich die stabile Derivate-Stimmung gegen anhaltende externe Risiken behauptet. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Les dérivés Ethereum tiennent bon et l’objectif de 2 600 dollars pour l’ETH reste en vue",
+        "excerpt": "Les contrats à terme et options Ethereum ont récemment montré une confiance prudente des professionnels malgré les pressions macro et les piratages DeFi, maintenant l’objectif de 2 600 dollars.",
+        "body": "Le marché des dérivés Ethereum (ETH) est récemment resté stable malgré les vents contraires macroéconomiques et les inquiétudes liées aux piratages DeFi. Les indicateurs de contrats à terme et d’options suggèrent que les investisseurs professionnels conservent une confiance prudente plutôt qu’une peur marquée. Le contexte principal est que l’objectif de prix de 2 600 dollars pour l’ETH reste pertinent, même avec la volatilité de court terme et les risques externes. Le rapport original a souligné que l’environnement macro et les incidents de sécurité continuent de peser sur le sentiment. La prochaine évolution de l’ETH pourrait dépendre de l’équilibre entre cette stabilité des dérivés et les risques persistants. Source : cointelegraph.com."
+      },
+      "ar": {
+        "title": "مشتقات إيثريوم تبقى متماسكة وهدف 2,600 دولار لـ ETH يظل تحت الأنظار",
+        "excerpt": "أظهرت عقود إيثريوم الآجلة والخيارات مؤخرا ثقة حذرة لدى المحترفين رغم الضغوط الاقتصادية الكلية واختراقات DeFi، ما أبقى هدف 2,600 دولار قائما.",
+        "body": "بقي سوق مشتقات إيثريوم (ETH) مستقرا نسبيا في الآونة الأخيرة رغم الرياح المعاكسة للاقتصاد الكلي والمخاوف المرتبطة باختراقات DeFi. وتشير مؤشرات العقود الآجلة والخيارات إلى أن المستثمرين المحترفين يحتفظون بثقة حذرة بدلا من إظهار خوف واضح. وتتمثل الخلفية الرئيسية في أن هدف سعر ETH عند 2,600 دولار لا يزال مطروحا رغم التقلبات القصيرة الأجل والمخاطر الخارجية. وأوضح التقرير الأصلي أن البيئة الكلية وحوادث الأمن لا تزال تضغط على المعنويات. وقد تعتمد الحركة التالية لـ ETH على التوازن بين استقرار مزاج سوق المشتقات واستمرار هذه المخاطر. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Ethereum डेरिवेटिव्स स्थिर, ETH का 2,600 डॉलर लक्ष्य अब भी केंद्र में",
+        "excerpt": "Ethereum फ्यूचर्स और ऑप्शंस ने हाल में मैक्रो दबाव और DeFi हैक्स के बावजूद पेशेवर निवेशकों का सतर्क भरोसा दिखाया, जिससे ETH का 2,600 डॉलर लक्ष्य बना रहा।",
+        "body": "Ethereum (ETH) का डेरिवेटिव्स बाजार हाल में मैक्रो आर्थिक दबाव और DeFi हैक से जुड़ी चिंताओं के बावजूद अपेक्षाकृत स्थिर रहा। फ्यूचर्स और ऑप्शंस संकेतक दिखाते हैं कि पेशेवर निवेशक अत्यधिक डर के बजाय सतर्क भरोसा बनाए हुए हैं। मुख्य संदर्भ यह है कि अल्पकालिक उतार-चढ़ाव और बाहरी जोखिमों के बावजूद ETH के लिए 2,600 डॉलर का मूल्य लक्ष्य अभी भी चर्चा में है। मूल रिपोर्ट ने बताया कि मैक्रो माहौल और सुरक्षा घटनाएं अब भी धारणा पर दबाव डालती हैं। ETH की अगली चाल इस बात पर निर्भर हो सकती है कि डेरिवेटिव्स बाजार की स्थिर भावना और जारी बाहरी जोखिमों में कौन सा पक्ष अधिक प्रभावी रहता है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Derivatif Ethereum Tetap Kuat, Target ETH US$2.600 Masih Jadi Sorotan",
+        "excerpt": "Futures dan opsi Ethereum baru-baru ini menunjukkan kepercayaan hati-hati dari trader profesional meski ada tekanan makro dan peretasan DeFi, menjaga target ETH US$2.600 tetap terbuka.",
+        "body": "Pasar derivatif Ethereum (ETH) baru-baru ini tetap relatif stabil meski menghadapi hambatan makroekonomi dan kekhawatiran atas peretasan DeFi. Indikator futures dan opsi menunjukkan bahwa investor profesional masih mempertahankan kepercayaan hati-hati, bukan kepanikan berlebihan. Konteks utamanya, target harga ETH di US$2.600 masih berada dalam jangkauan meski volatilitas jangka pendek dan risiko eksternal berlanjut. Laporan asli mencatat bahwa kondisi makro dan insiden keamanan tetap menjadi beban bagi sentimen. Pergerakan ETH berikutnya dapat bergantung pada keseimbangan antara psikologi pasar derivatif yang stabil dan risiko luar yang masih ada. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "4422f1005bc6",
     "slug": "xrp-traders-say-bullishness-growing-as-etfs-log-largest-infl-453013",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Bank of England Peringatkan Benturan dengan AS soal Stablecoin",
         "excerpt": "Gubernur Bank of England memperingatkan, menurut decrypt.co, celah jaminan penebusan dalam GENIUS Act dapat membuat stablecoin dolar membanjiri Inggris saat krisis.",
         "body": "Gubernur Bank of England memperingatkan, menurut decrypt.co, adanya “tarik-menarik yang akan datang” dengan Amerika Serikat terkait pengawasan stablecoin. Isu utamanya adalah token berbasis dolar AS dapat mengalir deras ke pasar Inggris dalam situasi krisis. Kekhawatiran ini berasal dari perbedaan antara GENIUS Act di AS dan kerangka regulasi Inggris soal jaminan penebusan. Gubernur menilai, jika perlindungan penebusan tidak memadai, investor dan pengguna dapat berpindah ke pasar yang terlihat lebih aman. Masalah ini diperkirakan menjadi tantangan koordinasi Inggris-AS terkait stabilitas keuangan dan standar pengawasan stablecoin. Sumber: decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "fc2b845340b9",
-    "slug": "tom-lees-bitmine-slows-ethereum-buying-pace-adding-62-millio-744107",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T23:59:15.655Z",
-    "updatedAt": "2026-05-11T23:59:15.655Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367398/tom-lee-bitmine-slows-ethereum-buying-pace-62-million-eth",
-    "canonicalUrl": "https://decrypt.co/367398/tom-lee-bitmine-slows-ethereum-buying-pace-62-million-eth",
-    "titleFingerprint": "eaaa868f504d279831e1e429a8fcba4eabe6101c",
-    "dedupKeys": [
-      "fc2b845340b9fd6be45183d03b166e43528a6ad2",
-      "eaaa868f504d279831e1e429a8fcba4eabe6101c",
-      "2c17fbe99b7215c942891b7954071e7af164fc6b"
-    ],
-    "imageUrl": "/images/articles/fc2b845340b9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "톰 리의 BitMine, 이더리움 매입 속도 늦춰…6200만달러 ETH 추가",
-        "excerpt": "이더리움 트레저리 기업 BitMine Immersion Technologies가 지난주 6200만달러 규모의 ETH만 추가하며 매입 속도를 늦췄다고 decrypt.co가 보도했다.",
-        "body": "이더리움 트레저리 기업 BitMine Immersion Technologies가 지난주 ETH 매입 속도를 늦추며 6200만달러 규모의 이더리움을 추가했다. 톰 리와 연관된 BitMine은 이더리움을 보유 자산으로 쌓아가는 기업으로 소개됐지만, 이번 주간 매입 규모는 이전보다 둔화된 흐름으로 전해졌다. 핵심 수치는 지난주 신규 매입액 6200만달러이며, 대상 자산은 ETH다. 이번 보도는 기업형 이더리움 보유 전략에서 매입 속도 변화가 시장의 관심 지점이 될 수 있음을 보여준다. 출처 decrypt.co에 따르면 BitMine은 지난주 6200만달러 상당의 ETH만 추가했다."
-      },
-      "en": {
-        "title": "Tom Lee’s BitMine Slows Ethereum Buying, Adds $62M in ETH",
-        "excerpt": "Ethereum treasury firm BitMine Immersion Technologies added only $62 million worth of ETH last week, slowing its buying pace, according to decrypt.co.",
-        "body": "Ethereum treasury firm BitMine Immersion Technologies slowed its ETH buying pace last week, adding $62 million worth of Ethereum. BitMine, associated with Tom Lee, has been described as a company accumulating Ethereum as a treasury asset, but its latest weekly purchase was reported as a slower pace. The key figure is $62 million in new ETH added last week, with ETH as the target asset. The report highlights that changes in the buying pace of corporate Ethereum treasuries can become a market focus. According to decrypt.co, BitMine added just $62 million worth of ETH last week."
-      },
-      "ja": {
-        "title": "トム・リー氏のBitMine、ETH購入ペース鈍化 6200万ドル追加",
-        "excerpt": "イーサリアム財務企業BitMine Immersion Technologiesは先週、6200万ドル相当のETHのみを追加し、購入ペースを落としたとdecrypt.coが報じた。",
-        "body": "イーサリアム財務企業BitMine Immersion Technologiesは先週、ETHの購入ペースを落とし、6200万ドル相当のイーサリアムを追加した。トム・リー氏に関連するBitMineは、イーサリアムを財務資産として積み増す企業として紹介されているが、今回の週間購入額は鈍化した動きとして伝えられた。主な数値は、先週新たに追加された6200万ドル相当のETHであり、対象資産はETHだ。今回の報道は、企業によるイーサリアム保有戦略で購入ペースの変化が市場の注目点になり得ることを示している。decrypt.coによると、BitMineは先週6200万ドル相当のETHのみを追加した。"
-      },
-      "zh": {
-        "title": "Tom Lee旗下BitMine放缓以太坊买入，上周增持6200万美元ETH",
-        "excerpt": "据decrypt.co报道，以太坊储备公司BitMine Immersion Technologies上周仅增持价值6200万美元的ETH，买入速度有所放缓。",
-        "body": "以太坊储备公司BitMine Immersion Technologies上周放缓ETH买入速度，新增价值6200万美元的以太坊。与Tom Lee相关的BitMine被描述为一家将以太坊作为储备资产积累的公司，但此次周度买入规模被报道为节奏放缓。核心数据是上周新增买入6200万美元ETH，目标资产为ETH。该报道显示，在企业型以太坊持有策略中，买入速度的变化可能成为市场关注点。据decrypt.co称，BitMine上周仅新增价值6200万美元的ETH。"
-      },
-      "es": {
-        "title": "BitMine de Tom Lee frena compras de Ethereum y suma $62M en ETH",
-        "excerpt": "La firma de tesorería de Ethereum BitMine Immersion Technologies añadió solo $62 millones en ETH la semana pasada, reduciendo su ritmo de compra, según decrypt.co.",
-        "body": "La firma de tesorería de Ethereum BitMine Immersion Technologies redujo la semana pasada su ritmo de compra de ETH y añadió $62 millones en Ethereum. BitMine, vinculada a Tom Lee, ha sido descrita como una compañía que acumula Ethereum como activo de tesorería, pero su compra semanal más reciente fue presentada como un ritmo más lento. La cifra clave es una nueva incorporación de $62 millones en ETH durante la semana pasada, con ETH como activo objetivo. El reporte muestra que los cambios en el ritmo de compra de las tesorerías corporativas de Ethereum pueden convertirse en un foco del mercado. Según decrypt.co, BitMine añadió solo $62 millones en ETH la semana pasada."
-      },
-      "pt": {
-        "title": "BitMine de Tom Lee reduz compras de Ethereum e adiciona US$62 mi em ETH",
-        "excerpt": "A empresa de tesouraria de Ethereum BitMine Immersion Technologies adicionou apenas US$62 milhões em ETH na semana passada, reduzindo o ritmo de compra, segundo decrypt.co.",
-        "body": "A empresa de tesouraria de Ethereum BitMine Immersion Technologies reduziu na semana passada seu ritmo de compra de ETH e adicionou US$62 milhões em Ethereum. A BitMine, associada a Tom Lee, é descrita como uma companhia que acumula Ethereum como ativo de tesouraria, mas a compra semanal mais recente foi relatada como um ritmo mais lento. O número central é a nova adição de US$62 milhões em ETH na semana passada, tendo ETH como ativo-alvo. A notícia mostra que mudanças no ritmo de compra de tesourarias corporativas de Ethereum podem se tornar um ponto de atenção do mercado. Segundo decrypt.co, a BitMine adicionou apenas US$62 milhões em ETH na semana passada."
-      },
-      "de": {
-        "title": "Tom Lees BitMine bremst Ethereum-Käufe und legt $62 Mio. in ETH zu",
-        "excerpt": "Die Ethereum-Treasury-Firma BitMine Immersion Technologies hat laut decrypt.co vergangene Woche nur ETH im Wert von $62 Millionen hinzugefügt und ihr Kauftempo verlangsamt.",
-        "body": "Die Ethereum-Treasury-Firma BitMine Immersion Technologies hat vergangene Woche ihr ETH-Kauftempo verlangsamt und Ethereum im Wert von $62 Millionen hinzugefügt. BitMine, das mit Tom Lee in Verbindung gebracht wird, wird als Unternehmen beschrieben, das Ethereum als Treasury-Asset aufbaut, doch der jüngste wöchentliche Kauf wurde als langsameres Tempo gemeldet. Die zentrale Zahl ist ein neuer ETH-Zukauf von $62 Millionen in der vergangenen Woche, Zielasset ist ETH. Der Bericht zeigt, dass Veränderungen im Kauftempo unternehmenseigener Ethereum-Treasurys zu einem Marktfokus werden können. Laut decrypt.co fügte BitMine vergangene Woche nur ETH im Wert von $62 Millionen hinzu."
-      },
-      "fr": {
-        "title": "BitMine de Tom Lee ralentit ses achats d’Ethereum et ajoute 62 M$ d’ETH",
-        "excerpt": "La société de trésorerie Ethereum BitMine Immersion Technologies n’a ajouté que 62 millions de dollars d’ETH la semaine dernière, ralentissant son rythme d’achat, selon decrypt.co.",
-        "body": "La société de trésorerie Ethereum BitMine Immersion Technologies a ralenti la semaine dernière son rythme d’achat d’ETH et ajouté 62 millions de dollars d’Ethereum. BitMine, associée à Tom Lee, est décrite comme une entreprise accumulant Ethereum comme actif de trésorerie, mais son dernier achat hebdomadaire a été présenté comme un rythme plus lent. Le chiffre clé est l’ajout de 62 millions de dollars d’ETH la semaine dernière, l’actif concerné étant l’ETH. Ce reportage montre que les variations du rythme d’achat des trésoreries d’entreprise en Ethereum peuvent devenir un point d’attention du marché. Selon decrypt.co, BitMine n’a ajouté que 62 millions de dollars d’ETH la semaine dernière."
-      },
-      "ar": {
-        "title": "BitMine المرتبطة بتوم لي تبطئ شراء إيثريوم وتضيف 62 مليون دولار ETH",
-        "excerpt": "أضافت شركة خزينة الإيثريوم BitMine Immersion Technologies ما قيمته 62 مليون دولار فقط من ETH الأسبوع الماضي، ما يشير إلى تباطؤ وتيرة الشراء، وفق decrypt.co.",
-        "body": "أبطأت شركة خزينة الإيثريوم BitMine Immersion Technologies وتيرة شراء ETH الأسبوع الماضي، وأضافت إيثريوم بقيمة 62 مليون دولار. وتوصف BitMine، المرتبطة بتوم لي، بأنها شركة تراكم الإيثريوم كأصل خزينة، لكن حجم الشراء الأسبوعي الأخير ورد على أنه أبطأ من السابق. الرقم الأساسي هو إضافة جديدة بقيمة 62 مليون دولار من ETH خلال الأسبوع الماضي، والأصل المستهدف هو ETH. يوضح التقرير أن تغير وتيرة شراء خزائن الشركات للإيثريوم قد يصبح نقطة اهتمام في السوق. ووفق decrypt.co، أضافت BitMine ما قيمته 62 مليون دولار فقط من ETH الأسبوع الماضي."
-      },
-      "hi": {
-        "title": "Tom Lee की BitMine ने Ethereum खरीद धीमी की, $62M ETH जोड़ा",
-        "excerpt": "Ethereum ट्रेजरी फर्म BitMine Immersion Technologies ने पिछले सप्ताह केवल $62 मिलियन मूल्य का ETH जोड़ा, जिससे उसकी खरीदारी की रफ्तार धीमी दिखी, decrypt.co के अनुसार।",
-        "body": "Ethereum ट्रेजरी फर्म BitMine Immersion Technologies ने पिछले सप्ताह ETH खरीद की रफ्तार धीमी की और $62 मिलियन मूल्य का Ethereum जोड़ा। Tom Lee से जुड़ी BitMine को Ethereum को ट्रेजरी एसेट के रूप में जमा करने वाली कंपनी के तौर पर बताया गया है, लेकिन हालिया साप्ताहिक खरीद को धीमी गति के रूप में रिपोर्ट किया गया। मुख्य आंकड़ा पिछले सप्ताह जोड़ा गया $62 मिलियन का नया ETH है, और लक्षित संपत्ति ETH ही है। यह रिपोर्ट दिखाती है कि कॉर्पोरेट Ethereum ट्रेजरी की खरीद गति में बदलाव बाजार के लिए ध्यान का विषय बन सकता है। decrypt.co के अनुसार, BitMine ने पिछले सप्ताह केवल $62 मिलियन मूल्य का ETH जोड़ा।"
-      },
-      "id": {
-        "title": "BitMine Tom Lee Perlambat Pembelian Ethereum, Tambah $62 Juta ETH",
-        "excerpt": "Perusahaan treasury Ethereum BitMine Immersion Technologies hanya menambah ETH senilai $62 juta pekan lalu, menandai perlambatan laju pembelian, menurut decrypt.co.",
-        "body": "Perusahaan treasury Ethereum BitMine Immersion Technologies memperlambat laju pembelian ETH pekan lalu dengan menambah Ethereum senilai $62 juta. BitMine, yang terkait dengan Tom Lee, digambarkan sebagai perusahaan yang mengakumulasi Ethereum sebagai aset treasury, tetapi pembelian mingguan terbaru dilaporkan berada pada laju yang lebih lambat. Angka utamanya adalah tambahan baru senilai $62 juta dalam ETH pada pekan lalu, dengan ETH sebagai aset sasaran. Laporan ini menunjukkan bahwa perubahan laju pembelian treasury Ethereum korporat dapat menjadi perhatian pasar. Menurut decrypt.co, BitMine hanya menambah ETH senilai $62 juta pekan lalu."
-      }
-    }
-  },
-  {
-    "id": "fd89260e8806",
-    "slug": "openai-just-launched-a-consulting-arm-to-help-companies-depl-587656",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T23:58:17.152Z",
-    "updatedAt": "2026-05-11T23:58:17.152Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367403/openai-launched-consulting-arm-help-companies-deploy-ai",
-    "canonicalUrl": "https://decrypt.co/367403/openai-launched-consulting-arm-help-companies-deploy-ai",
-    "titleFingerprint": "2c4877ea234563692c19b718a1073a2f56076b2a",
-    "dedupKeys": [
-      "fd89260e8806373618def9a60317fa50046fe25e",
-      "2c4877ea234563692c19b718a1073a2f56076b2a",
-      "9d9e566219c7b758c6a520c4ae246a88ba1772ab"
-    ],
-    "imageUrl": "/images/articles/fd89260e8806.jpg",
-    "i18n": {
-      "ko": {
-        "title": "OpenAI, 기업 AI 도입 돕는 컨설팅 조직 출범",
-        "excerpt": "OpenAI가 최근 기업의 AI 배포를 지원하는 컨설팅 조직 ‘OpenAI Deployment Company’를 출범하고 40억 달러와 19개 투자자를 기반으로 엔터프라이즈 시장 공략에 나섰다.",
-        "body": "OpenAI가 최근 기업의 AI 도입과 배포를 돕기 위한 컨설팅 조직 ‘OpenAI Deployment Company’를 출범했다. 이 조직은 기업 내부에 엔지니어를 투입해 AI 활용을 실행 단계까지 밀착 지원하는 방식으로 운영된다. decrypt.co에 따르면 출범 규모는 40억 달러이며, 19개 투자자가 참여했다. 운영 방식은 팔란티어식 플레이북에 비유된다. 단순한 도구 판매를 넘어 기업 현장에 기술 인력을 배치해 실제 업무 적용을 돕는 구조다. 이번 출범은 OpenAI가 대기업 고객의 AI 도입 장벽을 낮추고, 엔터프라이즈 시장에서 배포 역량을 강화하려는 움직임으로 해석된다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "OpenAI Launches Consulting Arm to Help Companies Deploy AI",
-        "excerpt": "OpenAI recently launched the OpenAI Deployment Company, backed by $4 billion and 19 investors, to help enterprises deploy AI with embedded engineering support.",
-        "body": "OpenAI has launched the OpenAI Deployment Company, a consulting arm designed to help companies adopt and deploy AI. The group will place engineers inside enterprises to support AI use through the execution stage. According to decrypt.co, the launch comes with $4 billion in backing and participation from 19 investors. Its operating model is compared to a Palantir-style playbook. Rather than only selling tools, the structure puts technical staff close to corporate workflows to help apply AI in practice. The move shows OpenAI’s effort to lower barriers for large companies adopting AI and strengthen its deployment capability in the enterprise market. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "OpenAI、企業のAI導入を支援するコンサル組織を発足",
-        "excerpt": "OpenAIは最近、企業のAI展開を支援する「OpenAI Deployment Company」を発足し、40億ドルと19の投資家を基盤にエンタープライズ市場へ踏み出した。",
-        "body": "OpenAIは最近、企業のAI導入と展開を支援するコンサルティング組織「OpenAI Deployment Company」を発足した。この組織は企業内にエンジニアを配置し、AI活用を実行段階まで密着して支援する形で運営される。decrypt.coによると、発足規模は40億ドルで、19の投資家が参加した。運営方式はパランティア型のプレイブックに例えられている。単なるツール販売にとどまらず、企業の現場に技術人材を置き、実務への適用を支援する構造だ。今回の発足は、OpenAIが大企業のAI導入障壁を下げ、エンタープライズ市場での展開力を強化する動きと受け止められる。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "OpenAI推出企业AI部署咨询部门，强化落地服务",
-        "excerpt": "OpenAI近期推出“OpenAI Deployment Company”，以40亿美元和19家投资方为基础，帮助企业通过嵌入式工程支持部署AI。",
-        "body": "OpenAI近期推出了名为“OpenAI Deployment Company”的咨询部门，旨在帮助企业采用和部署AI。该组织将把工程师嵌入企业内部，支持AI应用从规划走向执行阶段。据decrypt.co报道，该部门启动规模为40亿美元，并有19家投资方参与。其运营方式被比作Palantir式的行动手册。这一模式不只是销售工具，而是将技术人员安排到企业现场，协助AI在实际业务中落地。此次推出显示，OpenAI正试图降低大型企业采用AI的门槛，并加强其在企业市场的部署能力。来源: decrypt.co"
-      },
-      "es": {
-        "title": "OpenAI lanza una consultora para ayudar a empresas a desplegar IA",
-        "excerpt": "OpenAI lanzó recientemente OpenAI Deployment Company, respaldada por 4.000 millones de dólares y 19 inversores, para apoyar el despliegue de IA en empresas.",
-        "body": "OpenAI lanzó recientemente OpenAI Deployment Company, una unidad de consultoría creada para ayudar a las empresas a adoptar y desplegar IA. La organización insertará ingenieros dentro de las compañías para acompañar el uso de IA hasta la fase de ejecución. Según decrypt.co, el lanzamiento cuenta con 4.000 millones de dólares y la participación de 19 inversores. Su modelo operativo se compara con un manual al estilo Palantir. En lugar de limitarse a vender herramientas, la estructura coloca personal técnico cerca de los flujos de trabajo empresariales para facilitar la aplicación práctica de la IA. El movimiento apunta a reducir barreras para grandes compañías y reforzar la capacidad de despliegue de OpenAI en el mercado empresarial. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "OpenAI lança consultoria para ajudar empresas a implantar IA",
-        "excerpt": "A OpenAI lançou recentemente a OpenAI Deployment Company, com US$ 4 bilhões e 19 investidores, para apoiar empresas na implantação de IA com engenheiros incorporados.",
-        "body": "A OpenAI lançou recentemente a OpenAI Deployment Company, uma área de consultoria criada para ajudar empresas a adotar e implantar IA. A organização colocará engenheiros dentro das companhias para apoiar o uso de IA até a etapa de execução. Segundo o decrypt.co, o lançamento ocorre com US$ 4 bilhões e participação de 19 investidores. O modelo operacional é comparado a um manual ao estilo Palantir. Em vez de apenas vender ferramentas, a estrutura posiciona profissionais técnicos junto aos fluxos de trabalho corporativos para ajudar na aplicação prática da IA. A iniciativa indica o esforço da OpenAI para reduzir barreiras de adoção em grandes empresas e fortalecer sua capacidade de implantação no mercado corporativo. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "OpenAI startet Beratungseinheit für KI-Einsatz in Unternehmen",
-        "excerpt": "OpenAI hat kürzlich die OpenAI Deployment Company gestartet, gestützt auf 4 Milliarden Dollar und 19 Investoren, um Unternehmen bei der Einführung von KI zu helfen.",
-        "body": "OpenAI hat kürzlich die OpenAI Deployment Company gestartet, eine Beratungseinheit, die Unternehmen bei der Einführung und Bereitstellung von KI unterstützen soll. Die Organisation setzt Ingenieure direkt in Unternehmen ein, um die Nutzung von KI bis zur Umsetzungsphase zu begleiten. Laut decrypt.co umfasst der Start 4 Milliarden Dollar und die Beteiligung von 19 Investoren. Das Betriebsmodell wird mit einem Palantir-ähnlichen Playbook verglichen. Statt nur Werkzeuge zu verkaufen, bringt die Struktur technisches Personal nah an Unternehmensabläufe, damit KI praktisch angewendet werden kann. Der Schritt zeigt OpenAIs Bestreben, Hürden für große Unternehmen zu senken und die eigene Bereitstellungskompetenz im Enterprise-Markt zu stärken. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "OpenAI lance une branche conseil pour déployer l’IA en entreprise",
-        "excerpt": "OpenAI a récemment lancé OpenAI Deployment Company, avec 4 milliards de dollars et 19 investisseurs, afin d’aider les entreprises à déployer l’IA sur le terrain.",
-        "body": "OpenAI a récemment lancé OpenAI Deployment Company, une branche de conseil destinée à aider les entreprises à adopter et déployer l’IA. Cette organisation placera des ingénieurs au sein des entreprises afin d’accompagner l’usage de l’IA jusqu’à la phase d’exécution. Selon decrypt.co, le lancement repose sur 4 milliards de dollars et la participation de 19 investisseurs. Son mode opératoire est comparé à un playbook de type Palantir. Plutôt que de vendre seulement des outils, la structure installe des profils techniques au plus près des processus métiers pour faciliter l’application concrète de l’IA. Ce lancement illustre la volonté d’OpenAI de réduire les freins à l’adoption par les grandes entreprises et de renforcer ses capacités de déploiement sur le marché enterprise. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "OpenAI تطلق ذراعا استشارية لمساعدة الشركات على نشر الذكاء الاصطناعي",
-        "excerpt": "أطلقت OpenAI مؤخرا OpenAI Deployment Company بدعم يبلغ 4 مليارات دولار وبمشاركة 19 مستثمرا لمساعدة الشركات على نشر الذكاء الاصطناعي عبر مهندسين مدمجين.",
-        "body": "أطلقت OpenAI مؤخرا OpenAI Deployment Company، وهي ذراع استشارية تهدف إلى مساعدة الشركات على تبني الذكاء الاصطناعي ونشره. ستعمل هذه الجهة على وضع مهندسين داخل المؤسسات لدعم استخدام الذكاء الاصطناعي حتى مرحلة التنفيذ. وبحسب decrypt.co، يأتي الإطلاق بحجم يبلغ 4 مليارات دولار وبمشاركة 19 مستثمرا. ويجري تشبيه أسلوب العمل بدليل تشغيل على طريقة Palantir. فبدلا من الاكتفاء ببيع الأدوات، يعتمد النموذج على نشر كوادر تقنية قرب سير العمل داخل الشركات للمساعدة في تطبيق الذكاء الاصطناعي عمليا. تعكس الخطوة سعي OpenAI إلى خفض عوائق تبني الذكاء الاصطناعي لدى الشركات الكبرى وتعزيز قدرتها على النشر في سوق المؤسسات. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "OpenAI ने कंपनियों में AI तैनाती के लिए कंसल्टिंग शाखा शुरू की",
-        "excerpt": "OpenAI ने हाल में OpenAI Deployment Company शुरू की है, जिसे 4 अरब डॉलर और 19 निवेशकों का समर्थन है, ताकि कंपनियों को AI लागू करने में इंजीनियरिंग सहायता मिले।",
-        "body": "OpenAI ने हाल में OpenAI Deployment Company शुरू की है, जो कंपनियों को AI अपनाने और तैनात करने में मदद करने वाली कंसल्टिंग इकाई है। यह संगठन उद्यमों के भीतर इंजीनियरों को तैनात करेगा, ताकि AI उपयोग को क्रियान्वयन चरण तक करीबी समर्थन मिल सके। decrypt.co के अनुसार, इस शुरुआत का आकार 4 अरब डॉलर है और इसमें 19 निवेशक शामिल हैं। इसके संचालन मॉडल की तुलना Palantir शैली की प्लेबुक से की जा रही है। यह केवल टूल बेचने तक सीमित नहीं है, बल्कि तकनीकी कर्मचारियों को कंपनी के कामकाज के करीब रखकर AI के व्यावहारिक उपयोग में मदद करता है। यह कदम दिखाता है कि OpenAI बड़ी कंपनियों के लिए AI अपनाने की बाधाएं घटाना और एंटरप्राइज बाजार में अपनी तैनाती क्षमता मजबूत करना चाहता है। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "OpenAI Luncurkan Konsultan untuk Bantu Perusahaan Deploy AI",
-        "excerpt": "OpenAI baru-baru ini meluncurkan OpenAI Deployment Company dengan dukungan US$4 miliar dan 19 investor untuk membantu perusahaan menerapkan AI lewat insinyur tertanam.",
-        "body": "OpenAI baru-baru ini meluncurkan OpenAI Deployment Company, unit konsultasi yang dirancang untuk membantu perusahaan mengadopsi dan menerapkan AI. Organisasi ini akan menempatkan insinyur di dalam perusahaan untuk mendukung penggunaan AI hingga tahap eksekusi. Menurut decrypt.co, peluncuran ini memiliki skala US$4 miliar dan melibatkan 19 investor. Model operasinya dibandingkan dengan playbook bergaya Palantir. Alih-alih hanya menjual alat, struktur ini menempatkan tenaga teknis dekat dengan alur kerja perusahaan agar AI dapat diterapkan secara praktis. Langkah ini menunjukkan upaya OpenAI untuk menurunkan hambatan adopsi AI bagi perusahaan besar dan memperkuat kemampuan deployment di pasar enterprise. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "60004784dfc4",
-    "slug": "ethereum-firm-sharplink-posts-686-million-loss-kicks-off-125-381786",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T23:57:22.826Z",
-    "updatedAt": "2026-05-11T23:57:22.826Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367408/ethereum-firm-sharplink-686-million-loss-125m-fund-galaxy",
-    "canonicalUrl": "https://decrypt.co/367408/ethereum-firm-sharplink-686-million-loss-125m-fund-galaxy",
-    "titleFingerprint": "16c76f87fc8a013eeb87d8f61beb96311f4945c7",
-    "dedupKeys": [
-      "60004784dfc4ae52a5bcaac19edf8cf05de61802",
-      "16c76f87fc8a013eeb87d8f61beb96311f4945c7",
-      "4032683d7f10d5239efb6a926f8b9f19ddcab48b"
-    ],
-    "imageUrl": "/images/articles/60004784dfc4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "샤프링크, 6억8600만달러 손실에도 갤럭시와 1억2500만달러 펀드 추진",
-        "excerpt": "이더리움 관련 기업 샤프링크는 분기 순손실 약 6억8600만달러를 냈지만, 갤럭시와 1억2500만달러 규모 수익 펀드 협력 소식 이후 주가가 상승했다.",
-        "body": "이더리움 관련 기업 샤프링크는 최근 분기 실적에서 순손실이 거의 6억8600만달러에 달했다고 밝혔다. 손실 규모가 컸지만, 회사 주가는 갤럭시와의 1억2500만달러 규모 수익 펀드 협력 소식이 전해진 뒤 상승했다. 이번 발표는 샤프링크의 재무 부담과 동시에 디지털 자산 수익 전략 확대 움직임을 보여준다. 투자자들은 대규모 손실보다 갤럭시와의 협업 가능성에 더 주목한 것으로 보인다. 향후 시장의 관심은 해당 펀드가 샤프링크의 실적과 주가 흐름에 어떤 영향을 줄지에 쏠릴 전망이다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "SharpLink Posts $686M Loss but Rises on $125M Galaxy Yield Fund",
-        "excerpt": "Ethereum-related firm SharpLink reported a quarterly net loss of nearly $686 million, but its shares rose after news of a $125 million yield fund collaboration with Galaxy.",
-        "body": "Ethereum-related firm SharpLink said its latest quarterly net loss reached nearly $686 million. Despite the steep loss, the company’s shares rose after news emerged of a $125 million yield fund collaboration with Galaxy. The announcement highlights SharpLink’s financial pressure while also showing a move to expand its digital-asset yield strategy. Investors appeared to focus more on the potential of the Galaxy partnership than on the large quarterly loss. Market attention is expected to remain on how the fund may affect SharpLink’s performance and share price. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "シャープリンク、6.86億ドル損失もギャラクシーとの1.25億ドル基金で株価上昇",
-        "excerpt": "イーサリアム関連企業シャープリンクは四半期純損失が約6.86億ドルに達したが、ギャラクシーとの1.25億ドル利回り基金協業の発表後に株価が上昇した。",
-        "body": "イーサリアム関連企業シャープリンクは、直近四半期の純損失が約6.86億ドルに達したと明らかにした。損失規模は大きかったものの、ギャラクシーとの1.25億ドル規模の利回り基金に関する協業が伝わった後、同社株は上昇した。今回の発表は、シャープリンクの財務負担と同時に、デジタル資産の利回り戦略を広げる動きを示している。投資家は大規模な四半期損失よりも、ギャラクシーとの提携可能性に注目したとみられる。今後は同基金が業績と株価にどう影響するかが焦点となる。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "SharpLink亏损6.86亿美元，仍因Galaxy 1.25亿美元收益基金上涨",
-        "excerpt": "以太坊相关公司SharpLink公布季度净亏损近6.86亿美元，但在与Galaxy合作推出1.25亿美元收益基金的消息传出后，股价上涨。",
-        "body": "以太坊相关公司SharpLink表示，最近一个季度净亏损接近6.86亿美元。尽管亏损规模较大，但在与Galaxy合作设立1.25亿美元收益基金的消息传出后，公司股价上涨。该公告一方面显示SharpLink面临财务压力，另一方面也反映其扩大数字资产收益策略的举措。投资者似乎更关注与Galaxy合作的可能性，而不是大额季度亏损。接下来，市场关注点将是该基金会如何影响SharpLink的业绩和股价走势。来源: decrypt.co"
-      },
-      "es": {
-        "title": "SharpLink pierde 686 millones de dólares, pero sube por fondo con Galaxy",
-        "excerpt": "La firma vinculada a Ethereum SharpLink registró una pérdida neta trimestral de casi 686 millones de dólares, pero sus acciones subieron tras anunciar una colaboración de 125 millones con Galaxy.",
-        "body": "La firma vinculada a Ethereum SharpLink informó que su pérdida neta del último trimestre llegó a casi 686 millones de dólares. Pese al fuerte resultado negativo, sus acciones subieron después de conocerse una colaboración de 125 millones de dólares con Galaxy para un fondo de rendimiento. El anuncio muestra la presión financiera de SharpLink y, al mismo tiempo, su intención de ampliar una estrategia de rendimiento en activos digitales. Los inversores parecieron dar más peso al potencial acuerdo con Galaxy que a la gran pérdida trimestral. La atención del mercado seguirá puesta en el impacto del fondo sobre los resultados y la acción. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "SharpLink perde US$ 686 milhões, mas sobe com fundo de US$ 125 mi da Galaxy",
-        "excerpt": "A empresa ligada ao Ethereum SharpLink registrou prejuízo líquido trimestral de quase US$ 686 milhões, mas suas ações subiram após notícia de colaboração de US$ 125 milhões com a Galaxy.",
-        "body": "A empresa ligada ao Ethereum SharpLink informou que seu prejuízo líquido no trimestre mais recente chegou a quase US$ 686 milhões. Apesar da perda elevada, as ações da companhia subiram após a divulgação de uma colaboração de US$ 125 milhões com a Galaxy para um fundo de rendimento. O anúncio evidencia a pressão financeira da SharpLink e, ao mesmo tempo, uma tentativa de ampliar sua estratégia de rendimento em ativos digitais. Investidores pareceram focar mais no potencial da parceria com a Galaxy do que no grande prejuízo trimestral. O mercado deve acompanhar como o fundo afetará resultados e ações. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "SharpLink verliert 686 Mio. Dollar, Aktie steigt wegen Galaxy-Fonds",
-        "excerpt": "Das Ethereum-nahe Unternehmen SharpLink meldete einen Quartalsverlust von fast 686 Millionen Dollar, doch die Aktie stieg nach der Nachricht über eine 125-Millionen-Dollar-Kooperation mit Galaxy.",
-        "body": "Das Ethereum-nahe Unternehmen SharpLink teilte mit, dass der Nettoverlust im jüngsten Quartal fast 686 Millionen Dollar erreichte. Trotz des hohen Verlusts legten die Aktien zu, nachdem eine Zusammenarbeit mit Galaxy über einen 125-Millionen-Dollar-Yield-Fonds bekannt wurde. Die Meldung zeigt den finanziellen Druck auf SharpLink und zugleich den Versuch, die Renditestrategie im Bereich digitaler Vermögenswerte auszuweiten. Anleger schienen stärker auf das Potenzial der Galaxy-Partnerschaft zu achten als auf den großen Quartalsverlust. Der Markt dürfte nun verfolgen, wie der Fonds Ergebnisse und Aktienkurs beeinflusst. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "SharpLink perd 686 M$ mais monte grâce au fonds Galaxy de 125 M$",
-        "excerpt": "La société liée à Ethereum SharpLink a publié une perte nette trimestrielle de près de 686 millions de dollars, mais son action a progressé après l’annonce d’une collaboration de 125 millions avec Galaxy.",
-        "body": "La société liée à Ethereum SharpLink a indiqué que sa perte nette du dernier trimestre atteignait près de 686 millions de dollars. Malgré ce lourd déficit, son action a progressé après l’annonce d’une collaboration de 125 millions de dollars avec Galaxy autour d’un fonds de rendement. Cette annonce met en évidence la pression financière pesant sur SharpLink tout en montrant une volonté d’élargir sa stratégie de rendement sur les actifs numériques. Les investisseurs semblent avoir davantage retenu le potentiel du partenariat avec Galaxy que l’ampleur de la perte trimestrielle. Le marché suivra désormais l’effet du fonds sur les résultats et le titre. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "شاربلينك تخسر 686 مليون دولار وسهمها يصعد بفعل صندوق Galaxy",
-        "excerpt": "سجلت شركة شاربلينك المرتبطة بإيثريوم خسارة صافية فصلية تقارب 686 مليون دولار، لكن أسهمها ارتفعت بعد خبر تعاون بقيمة 125 مليون دولار مع Galaxy.",
-        "body": "قالت شركة شاربلينك المرتبطة بإيثريوم إن صافي خسارتها في الربع الأخير بلغ نحو 686 مليون دولار. ورغم حجم الخسارة الكبير، ارتفعت أسهم الشركة بعد ظهور خبر تعاون بقيمة 125 مليون دولار مع Galaxy لإطلاق صندوق عائد. يوضح الإعلان الضغوط المالية على شاربلينك، وفي الوقت نفسه يكشف عن تحرك لتوسيع استراتيجية العائد في الأصول الرقمية. وبدا أن المستثمرين ركزوا على إمكانات الشراكة مع Galaxy أكثر من تركيزهم على الخسارة الفصلية الكبيرة. ومن المتوقع أن يتركز اهتمام السوق لاحقا على أثر هذا الصندوق في أداء شاربلينك وسعر سهمها. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "SharpLink को $686 मिलियन घाटा, Galaxy फंड खबर से शेयर चढ़े",
-        "excerpt": "Ethereum से जुड़ी कंपनी SharpLink ने तिमाही में करीब $686 मिलियन का शुद्ध घाटा दर्ज किया, लेकिन Galaxy के साथ $125 मिलियन यील्ड फंड सहयोग की खबर के बाद शेयर चढ़े।",
-        "body": "Ethereum से जुड़ी कंपनी SharpLink ने बताया कि हालिया तिमाही में उसका शुद्ध घाटा लगभग $686 मिलियन रहा। घाटा बड़ा होने के बावजूद, Galaxy के साथ $125 मिलियन के यील्ड फंड सहयोग की खबर आने के बाद कंपनी के शेयर चढ़े। यह घोषणा SharpLink पर वित्तीय दबाव को दिखाती है, साथ ही डिजिटल एसेट यील्ड रणनीति को बढ़ाने की दिशा भी बताती है। निवेशकों ने बड़े तिमाही घाटे की तुलना में Galaxy साझेदारी की संभावना पर अधिक ध्यान दिया। आगे बाजार की नजर इस बात पर रहेगी कि यह फंड SharpLink के नतीजों और शेयर मूल्य को कैसे प्रभावित करता है। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "SharpLink Rugi US$686 Juta, Saham Naik karena Dana Galaxy US$125 Juta",
-        "excerpt": "Perusahaan terkait Ethereum, SharpLink, membukukan rugi bersih kuartalan hampir US$686 juta, tetapi sahamnya naik setelah kabar kolaborasi dana imbal hasil US$125 juta dengan Galaxy.",
-        "body": "Perusahaan terkait Ethereum, SharpLink, menyatakan rugi bersih kuartal terbarunya mencapai hampir US$686 juta. Meski kerugiannya besar, saham perusahaan naik setelah muncul kabar kolaborasi dana imbal hasil senilai US$125 juta dengan Galaxy. Pengumuman ini menunjukkan tekanan keuangan SharpLink sekaligus langkah untuk memperluas strategi imbal hasil aset digital. Investor tampaknya lebih memperhatikan potensi kerja sama dengan Galaxy daripada besarnya rugi kuartalan. Ke depan, perhatian pasar akan tertuju pada dampak dana tersebut terhadap kinerja dan pergerakan saham SharpLink. Sumber: decrypt.co"
       }
     }
   }
