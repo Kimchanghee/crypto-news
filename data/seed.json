@@ -1,5 +1,230 @@
 [
   {
+    "id": "526532fcb330",
+    "slug": "coindesk-20-performance-update-sui-drops-49-as-index-trades--788917",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T14:54:43.716Z",
+    "updatedAt": "2026-05-12T14:54:43.716Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/coindesk-indices/2026/05/12/coindesk-20-performance-update-sui-drops-4-9-as-index-trades-lower",
+    "canonicalUrl": "https://www.coindesk.com/coindesk-indices/2026/05/12/coindesk-20-performance-update-sui-drops-4-9-as-index-trades-lower",
+    "titleFingerprint": "bb0607150032fcc5cac718cb5a3ba896916e5b22",
+    "dedupKeys": [
+      "526532fcb33062420c9e52d32b6fb5eee939211c",
+      "bb0607150032fcc5cac718cb5a3ba896916e5b22",
+      "856faefc81befb7c19e3d906ce0206022dc6e170"
+    ],
+    "imageUrl": "/images/articles/526532fcb330.png",
+    "i18n": {
+      "ko": {
+        "title": "CoinDesk 20 하락세, SUI 4.9% 급락과 TAO 4.4% 약세 주목",
+        "excerpt": "CoinDesk 20 지수가 월요일 대비 낮게 거래된 가운데 Sui(SUI)는 4.9%, Bittensor(TAO)는 4.4% 하락하며 주요 부진 종목으로 꼽혔다.",
+        "body": "CoinDesk 20 지수가 월요일 대비 약세로 거래되는 가운데 Sui(SUI)가 4.9% 하락하며 지수 내 부진 종목으로 나타났다. 같은 흐름에서 Bittensor(TAO)도 월요일보다 4.4% 내리며 SUI와 함께 하락 폭이 두드러진 자산으로 언급됐다. 이번 성과 업데이트는 지수 전반이 낮게 움직이는 상황에서 일부 구성 종목의 낙폭이 상대적으로 컸다는 점을 보여준다. 투자자들은 CoinDesk 20의 단기 흐름과 SUI, TAO의 가격 움직임을 함께 확인할 필요가 있다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "CoinDesk 20 Trades Lower as SUI Falls 4.9% and TAO Drops 4.4%",
+        "excerpt": "As the CoinDesk 20 traded lower from Monday, Sui (SUI) fell 4.9% and Bittensor (TAO) declined 4.4%, making both notable underperformers.",
+        "body": "The CoinDesk 20 traded lower from Monday, with Sui (SUI) falling 4.9% and emerging as a notable underperformer in the index. Bittensor (TAO) also joined the weaker group, declining 4.4% from Monday. The performance update shows that while the broader index moved lower, losses in selected components stood out more clearly. Investors tracking the CoinDesk 20 may need to watch the short-term moves in SUI and TAO alongside the overall index trend. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "CoinDesk 20が下落、SUIは4.9％安でTAOも4.4％下落",
+        "excerpt": "CoinDesk 20が月曜日比で軟調に推移する中、Sui（SUI）は4.9％、Bittensor（TAO）は4.4％下落し、目立つ不振銘柄となった。",
+        "body": "CoinDesk 20は月曜日比で下落して取引される中、Sui（SUI）が4.9％下落し、指数内で目立つ不振銘柄となった。同じ流れでBittensor（TAO）も月曜日から4.4％下げ、SUIと並んで下落が大きい資産として挙げられた。今回のパフォーマンス更新は、指数全体が弱含む中で一部構成銘柄の下落幅が相対的に大きかったことを示している。投資家はCoinDesk 20の短期動向とSUI、TAOの値動きをあわせて確認する必要がある。出典: coindesk.com。"
+      },
+      "zh": {
+        "title": "CoinDesk 20走低，SUI下跌4.9%，TAO下跌4.4%受关注",
+        "excerpt": "CoinDesk 20较周一走低，Sui（SUI）下跌4.9%，Bittensor（TAO）下跌4.4%，两者成为表现偏弱的主要成分资产。",
+        "body": "CoinDesk 20较周一走低交易，其中Sui（SUI）下跌4.9%，成为指数中表现偏弱的资产。与此同时，Bittensor（TAO）也较周一下跌4.4%，与SUI一同被列为表现不佳的项目。本次表现更新显示，在指数整体下行的背景下，部分成分资产的跌幅更为突出。关注CoinDesk 20的投资者需要同时留意指数短期走势以及SUI、TAO的价格变化。来源: coindesk.com。"
+      },
+      "es": {
+        "title": "CoinDesk 20 cae: SUI baja 4,9% y TAO retrocede 4,4%",
+        "excerpt": "Mientras el CoinDesk 20 cotizó por debajo del lunes, Sui (SUI) cayó 4,9% y Bittensor (TAO) bajó 4,4%, destacando como activos rezagados.",
+        "body": "El CoinDesk 20 cotizó a la baja frente al lunes, con Sui (SUI) cayendo 4,9% y destacando como uno de los activos con peor desempeño del índice. Bittensor (TAO) también se sumó al grupo rezagado, con un descenso de 4,4% desde el lunes. La actualización de desempeño muestra que, aunque el índice general se movió a la baja, algunas caídas entre sus componentes fueron más pronunciadas. Los inversores que siguen el CoinDesk 20 deberían observar el movimiento de corto plazo de SUI y TAO junto con la tendencia del índice. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "CoinDesk 20 recua: SUI cai 4,9% e TAO perde 4,4%",
+        "excerpt": "Com o CoinDesk 20 negociado abaixo de segunda-feira, Sui (SUI) caiu 4,9% e Bittensor (TAO) recuou 4,4%, figurando entre os destaques negativos.",
+        "body": "O CoinDesk 20 foi negociado em queda em relação a segunda-feira, enquanto Sui (SUI) caiu 4,9% e apareceu como um dos ativos de pior desempenho no índice. Bittensor (TAO) também entrou no grupo de desempenho fraco, com baixa de 4,4% desde segunda-feira. A atualização mostra que, embora o índice mais amplo tenha se movido para baixo, algumas perdas entre seus componentes foram mais evidentes. Investidores que acompanham o CoinDesk 20 devem observar os movimentos de curto prazo de SUI e TAO junto com a tendência geral do índice. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "CoinDesk 20 schwächer: SUI fällt 4,9%, TAO verliert 4,4%",
+        "excerpt": "Der CoinDesk 20 notierte niedriger als am Montag; Sui (SUI) fiel um 4,9% und Bittensor (TAO) gab um 4,4% nach, beide als schwache Werte.",
+        "body": "Der CoinDesk 20 wurde niedriger als am Montag gehandelt, während Sui (SUI) um 4,9% fiel und als auffälliger Underperformer im Index hervorstach. Bittensor (TAO) gehörte ebenfalls zu den schwächeren Werten und verlor gegenüber Montag 4,4%. Das Performance-Update zeigt, dass sich der Gesamtindex zwar nach unten bewegte, einzelne Bestandteile aber besonders deutliche Rückgänge verzeichneten. Anleger, die den CoinDesk 20 verfolgen, sollten die kurzfristige Entwicklung von SUI und TAO zusammen mit dem Indextrend beobachten. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "CoinDesk 20 en baisse : SUI perd 4,9% et TAO recule de 4,4%",
+        "excerpt": "Alors que le CoinDesk 20 s’échangeait sous son niveau de lundi, Sui (SUI) a perdu 4,9% et Bittensor (TAO) a reculé de 4,4%.",
+        "body": "Le CoinDesk 20 s’est échangé en baisse par rapport à lundi, avec Sui (SUI) en recul de 4,9%, ce qui en fait l’un des actifs les moins performants de l’indice. Bittensor (TAO) a également rejoint les valeurs en retrait, avec une baisse de 4,4% depuis lundi. Cette mise à jour de performance montre que, même si l’indice global évoluait à la baisse, certaines composantes ont enregistré des pertes plus marquées. Les investisseurs suivant le CoinDesk 20 peuvent surveiller les mouvements de court terme de SUI et TAO avec la tendance générale. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "CoinDesk 20 يتراجع مع هبوط SUI بنسبة 4.9% وTAO بنسبة 4.4%",
+        "excerpt": "تداول مؤشر CoinDesk 20 عند مستويات أدنى من يوم الاثنين، بينما هبط Sui (SUI) بنسبة 4.9% وتراجع Bittensor (TAO) بنسبة 4.4%.",
+        "body": "تداول مؤشر CoinDesk 20 على انخفاض مقارنة بيوم الاثنين، مع هبوط Sui (SUI) بنسبة 4.9% ليظهر كأحد الأصول الأضعف أداء داخل المؤشر. كما انضم Bittensor (TAO) إلى قائمة المتراجعين، منخفضا بنسبة 4.4% عن يوم الاثنين. يوضح تحديث الأداء أن المؤشر الأوسع تحرك إلى مستويات أدنى، بينما كانت خسائر بعض مكوناته أكثر بروزا. على المستثمرين الذين يتابعون CoinDesk 20 مراقبة الحركة قصيرة الأجل لكل من SUI وTAO إلى جانب اتجاه المؤشر العام. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "CoinDesk 20 में गिरावट, SUI 4.9% और TAO 4.4% फिसले",
+        "excerpt": "CoinDesk 20 सोमवार की तुलना में निचले स्तर पर कारोबार करता दिखा, जबकि Sui (SUI) 4.9% और Bittensor (TAO) 4.4% गिरकर कमजोर प्रदर्शन करने वालों में रहे।",
+        "body": "CoinDesk 20 सोमवार की तुलना में निचले स्तर पर कारोबार कर रहा था, जिसमें Sui (SUI) 4.9% गिरकर सूचकांक के प्रमुख कमजोर प्रदर्शन करने वाले एसेट्स में शामिल रहा। इसी रुझान में Bittensor (TAO) भी सोमवार से 4.4% नीचे आया और SUI के साथ कमजोर श्रेणी में जुड़ गया। यह प्रदर्शन अपडेट दिखाता है कि व्यापक सूचकांक में गिरावट के बीच कुछ घटकों की कमजोरी अधिक स्पष्ट रही। CoinDesk 20 पर नजर रखने वाले निवेशकों को सूचकांक की अल्पकालिक दिशा के साथ SUI और TAO की कीमतों की चाल भी देखनी चाहिए। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "CoinDesk 20 Melemah, SUI Turun 4,9% dan TAO Susut 4,4%",
+        "excerpt": "CoinDesk 20 diperdagangkan lebih rendah dari Senin, sementara Sui (SUI) turun 4,9% dan Bittensor (TAO) melemah 4,4% sebagai aset berkinerja lemah.",
+        "body": "CoinDesk 20 diperdagangkan lebih rendah dibandingkan Senin, dengan Sui (SUI) turun 4,9% dan menjadi salah satu aset berkinerja lemah dalam indeks. Bittensor (TAO) juga masuk kelompok yang tertinggal, melemah 4,4% dari Senin. Pembaruan kinerja ini menunjukkan bahwa saat indeks secara umum bergerak turun, penurunan pada beberapa komponen terlihat lebih menonjol. Investor yang memantau CoinDesk 20 perlu mencermati pergerakan jangka pendek SUI dan TAO bersama arah indeks secara keseluruhan. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "d63b3d291a1d",
+    "slug": "elliptic-raises-120-million-backed-by-nasdaq-deutsche-bank-a-931375",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T14:53:06.462Z",
+    "updatedAt": "2026-05-12T14:53:06.462Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/12/elliptic-raises-usd120-million-backed-by-nasdaq-deutsche-bank-as-ai-reshapes-crypto-security",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/12/elliptic-raises-usd120-million-backed-by-nasdaq-deutsche-bank-as-ai-reshapes-crypto-security",
+    "titleFingerprint": "d4a7e742fa0aacfc29476c8e6de09d0f03a7dadd",
+    "dedupKeys": [
+      "d63b3d291a1d309665d735f0c21402ee956fdb0c",
+      "d4a7e742fa0aacfc29476c8e6de09d0f03a7dadd",
+      "ff6617eadb3a1309ec21df249b76216cbd55063b"
+    ],
+    "imageUrl": "/images/articles/d63b3d291a1d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "엘립틱, 나스닥·도이체방크 지원 속 1억2000만달러 조달",
+        "excerpt": "가상자산 분석기업 엘립틱은 나스닥과 도이체방크의 지원을 받아 1억2000만달러를 조달하고 AI 기반 모니터링 도구 확대에 나선다.",
+        "body": "가상자산 분석기업 엘립틱이 나스닥과 도이체방크의 지원을 받아 1억2000만달러를 조달했다. 회사는 스테이블코인과 토큰화 금융이 빠르게 성장하는 가운데 AI 기반 모니터링 도구를 확대할 계획이다. 시몬 마이니 최고경영자는 암호화폐 보안 환경이 AI로 재편되고 있으며, 이에 맞춰 분석과 감시 역량을 강화하겠다고 밝혔다. 이번 자금 조달은 가상자산 시장에서 규정 준수와 보안 수요가 커지는 흐름과 맞물린다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Elliptic Raises $120M as Nasdaq and Deutsche Bank Back Crypto AI Security",
+        "excerpt": "Crypto analytics firm Elliptic raised $120 million with backing from Nasdaq and Deutsche Bank to expand AI-powered monitoring tools as stablecoins grow.",
+        "body": "Crypto analytics firm Elliptic has raised $120 million with backing from Nasdaq and Deutsche Bank. The company plans to expand its AI-powered monitoring tools as stablecoins and tokenized finance grow rapidly. CEO Simone Maini said the crypto security landscape is being reshaped by AI, and Elliptic aims to strengthen its analytics and surveillance capabilities in response. The funding comes as demand for compliance and security in digital assets continues to rise. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "エリプティック、ナスダックとドイツ銀行支援で1.2億ドル調達",
+        "excerpt": "暗号資産分析企業エリプティックは、ナスダックとドイツ銀行の支援を受け1.2億ドルを調達し、AI監視ツールを拡大する。",
+        "body": "暗号資産分析企業エリプティックは、ナスダックとドイツ銀行の支援を受けて1億2000万ドルを調達した。同社は、ステーブルコインとトークン化金融が急速に成長するなか、AIを活用した監視ツールを拡大する計画だ。シモーネ・マイニCEOは、暗号資産セキュリティの環境がAIによって再編されており、それに合わせて分析と監視の能力を強化すると述べた。今回の資金調達は、デジタル資産市場でコンプライアンスとセキュリティ需要が高まる流れと重なる。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "Elliptic获纳斯达克、德意志银行支持融资1.2亿美元",
+        "excerpt": "加密分析公司Elliptic在纳斯达克和德意志银行支持下融资1.2亿美元，将扩大AI驱动的监控工具，应对稳定币增长。",
+        "body": "加密资产分析公司Elliptic在纳斯达克和德意志银行支持下融资1.2亿美元。该公司计划在稳定币和代币化金融快速增长之际，扩大其AI驱动的监控工具。首席执行官Simone Maini表示，AI正在重塑加密安全环境，Elliptic将相应加强分析和监控能力。此次融资也与数字资产市场对合规和安全需求上升的趋势相吻合。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Elliptic recauda 120 millones de dólares con apoyo de Nasdaq y Deutsche Bank",
+        "excerpt": "La firma de análisis cripto Elliptic recaudó 120 millones de dólares con respaldo de Nasdaq y Deutsche Bank para ampliar herramientas de monitoreo con IA.",
+        "body": "La firma de análisis de criptoactivos Elliptic recaudó 120 millones de dólares con el respaldo de Nasdaq y Deutsche Bank. La compañía planea ampliar sus herramientas de monitoreo impulsadas por IA mientras las stablecoins y las finanzas tokenizadas crecen con rapidez. La CEO Simone Maini dijo que la seguridad cripto está siendo remodelada por la IA y que Elliptic reforzará sus capacidades de análisis y vigilancia. La financiación llega en un momento de mayor demanda de cumplimiento y seguridad en activos digitales. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Elliptic capta US$ 120 milhões com apoio de Nasdaq e Deutsche Bank",
+        "excerpt": "A empresa de análise cripto Elliptic captou US$ 120 milhões com apoio de Nasdaq e Deutsche Bank para ampliar ferramentas de monitoramento com IA.",
+        "body": "A empresa de análise de criptoativos Elliptic captou US$ 120 milhões com o apoio da Nasdaq e do Deutsche Bank. A companhia planeja expandir suas ferramentas de monitoramento baseadas em IA enquanto stablecoins e finanças tokenizadas crescem rapidamente. A CEO Simone Maini afirmou que a segurança cripto está sendo remodelada pela IA e que a Elliptic pretende reforçar suas capacidades de análise e vigilância. O financiamento ocorre em meio ao aumento da demanda por conformidade e segurança em ativos digitais. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Elliptic sammelt 120 Mio. Dollar mit Nasdaq und Deutscher Bank ein",
+        "excerpt": "Das Kryptoanalyse-Unternehmen Elliptic sammelte 120 Mio. Dollar mit Unterstützung von Nasdaq und Deutscher Bank ein, um KI-Monitoring auszubauen.",
+        "body": "Das Kryptoanalyse-Unternehmen Elliptic hat 120 Millionen Dollar mit Unterstützung von Nasdaq und Deutscher Bank eingesammelt. Das Unternehmen will seine KI-gestützten Monitoring-Tools ausbauen, während Stablecoins und tokenisierte Finanzprodukte rasch wachsen. CEO Simone Maini sagte, die Kryptosicherheit werde durch KI neu geprägt, und Elliptic wolle seine Analyse- und Überwachungsfähigkeiten entsprechend stärken. Die Finanzierung fällt in eine Phase steigender Nachfrage nach Compliance und Sicherheit bei digitalen Vermögenswerten. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Elliptic lève 120 M$ avec l’appui de Nasdaq et Deutsche Bank",
+        "excerpt": "La société d’analyse crypto Elliptic a levé 120 M$ avec le soutien de Nasdaq et Deutsche Bank afin d’étendre ses outils de surveillance par IA.",
+        "body": "La société d’analyse de cryptoactifs Elliptic a levé 120 millions de dollars avec le soutien de Nasdaq et de Deutsche Bank. Elle prévoit d’élargir ses outils de surveillance alimentés par l’IA alors que les stablecoins et la finance tokenisée progressent rapidement. La CEO Simone Maini a déclaré que la sécurité crypto était remodelée par l’IA et qu’Elliptic entendait renforcer ses capacités d’analyse et de contrôle. Ce financement intervient alors que la demande de conformité et de sécurité augmente dans les actifs numériques. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "إليبتيك تجمع 120 مليون دولار بدعم ناسداك ودويتشه بنك",
+        "excerpt": "جمعت شركة تحليل العملات المشفرة إليبتيك 120 مليون دولار بدعم من ناسداك ودويتشه بنك لتوسيع أدوات المراقبة المدعومة بالذكاء الاصطناعي.",
+        "body": "جمعت شركة تحليل الأصول المشفرة إليبتيك 120 مليون دولار بدعم من ناسداك ودويتشه بنك. وتخطط الشركة لتوسيع أدوات المراقبة المدعومة بالذكاء الاصطناعي مع النمو السريع للعملات المستقرة والتمويل المرمز. وقالت الرئيسة التنفيذية سيمون مايني إن مشهد أمن العملات المشفرة يعاد تشكيله بفعل الذكاء الاصطناعي، وإن إليبتيك ستعزز قدراتها في التحليل والمراقبة تبعا لذلك. ويأتي التمويل مع تزايد الطلب على الامتثال والأمن في الأصول الرقمية. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "Elliptic ने Nasdaq और Deutsche Bank समर्थन से 12 करोड़ डॉलर जुटाए",
+        "excerpt": "क्रिप्टो एनालिटिक्स फर्म Elliptic ने Nasdaq और Deutsche Bank के समर्थन से 12 करोड़ डॉलर जुटाए और AI निगरानी टूल बढ़ाने की योजना बनाई।",
+        "body": "क्रिप्टो एसेट एनालिटिक्स फर्म Elliptic ने Nasdaq और Deutsche Bank के समर्थन से 12 करोड़ डॉलर जुटाए हैं। कंपनी स्थिरकॉइन और टोकनाइज्ड फाइनेंस के तेज विस्तार के बीच AI-संचालित मॉनिटरिंग टूल बढ़ाने की योजना बना रही है। CEO Simone Maini ने कहा कि AI क्रिप्टो सुरक्षा परिदृश्य को नया आकार दे रहा है, और Elliptic इसके अनुरूप अपनी विश्लेषण तथा निगरानी क्षमताएं मजबूत करेगी। यह फंडिंग डिजिटल एसेट बाजार में अनुपालन और सुरक्षा की बढ़ती मांग के बीच आई है। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Elliptic Raih US$120 Juta Didukung Nasdaq dan Deutsche Bank",
+        "excerpt": "Perusahaan analitik kripto Elliptic meraih US$120 juta dengan dukungan Nasdaq dan Deutsche Bank untuk memperluas alat pemantauan berbasis AI.",
+        "body": "Perusahaan analitik aset kripto Elliptic meraih pendanaan US$120 juta dengan dukungan Nasdaq dan Deutsche Bank. Perusahaan berencana memperluas alat pemantauan berbasis AI seiring pertumbuhan cepat stablecoin dan keuangan tertokenisasi. CEO Simone Maini mengatakan lanskap keamanan kripto sedang dibentuk ulang oleh AI, dan Elliptic akan memperkuat kemampuan analisis serta pengawasannya. Pendanaan ini hadir saat kebutuhan kepatuhan dan keamanan di pasar aset digital terus meningkat. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "40727d420ce1",
+    "slug": "spot-xrp-etfs-attract-biggest-inflows-since-january-354995",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T14:51:39.284Z",
+    "updatedAt": "2026-05-12T14:51:39.284Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/12/spot-xrp-etfs-attract-biggest-inflows-since-january",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/12/spot-xrp-etfs-attract-biggest-inflows-since-january",
+    "titleFingerprint": "a7532459a495c630c799e68967e3b5bc089eb4b2",
+    "dedupKeys": [
+      "40727d420ce1fc546975dd672066cec0495d67d8",
+      "a7532459a495c630c799e68967e3b5bc089eb4b2",
+      "00355e2e2ddc5b1f7327926b24ec193fdec698d7"
+    ],
+    "imageUrl": "/images/articles/40727d420ce1.png",
+    "i18n": {
+      "ko": {
+        "title": "스팟 XRP ETF, 월요일 2,580만달러 유입…1월 이후 최대",
+        "excerpt": "미국 상장 스팟 XRP 펀드 5개가 월요일 2,580만달러 순유입을 기록하며 1월 5일 이후 최대 단일일 유입을 보였고, 이더 현물 ETF는 약 1,700만달러가 빠졌다.",
+        "body": "미국에 상장된 스팟 XRP ETF 5개가 월요일 하루 동안 총 2,580만달러의 순유입을 기록했다. 이는 1월 5일 이후 가장 큰 단일일 순유입으로, 같은 날 이더 현물 ETF에서 약 1,700만달러가 유출된 흐름과 대비된다. 이번 수치는 XRP 관련 현물 상품으로 자금이 다시 유입되고 있음을 보여주는 지표다. 다만 원문은 가격 전망이나 추가 배경보다는 펀드별 자금 흐름 자체에 초점을 맞췄다. 스팟 XRP ETF의 단일일 유입 확대는 투자자 관심을 확인하는 자료로 해석될 수 있지만, 시장 전반의 방향성을 단정하기에는 제한적이다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Spot XRP ETFs Draw $25.8M Monday, Biggest Inflow Since January",
+        "excerpt": "Five U.S.-listed spot XRP funds recorded $25.8 million in net inflows on Monday, the largest one-day inflow since Jan. 5, while ether spot ETFs lost nearly $17 million.",
+        "body": "Five U.S.-listed spot XRP ETFs recorded a combined $25.8 million in net inflows on Monday. It was the largest single-day net inflow for the products since Jan. 5 and contrasted with the same-day movement in ether spot ETFs, which saw nearly $17 million in outflows. The figures show renewed capital moving into XRP-linked spot products. The original report focused on fund flows rather than price forecasts or broader market claims. While the stronger one-day inflow can be read as evidence of investor attention toward spot XRP ETFs, it is limited as a signal for the overall market direction. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "スポットXRP ETF、月曜に2,580万ドル流入 1月以来最大",
+        "excerpt": "米国上場のスポットXRPファンド5本は月曜日に2,580万ドルの純流入を記録し、1月5日以来最大の単日流入となった一方、イーサ現物ETFは約1,700万ドル流出した。",
+        "body": "米国に上場するスポットXRP ETF 5本は、月曜日の1日で合計2,580万ドルの純流入を記録した。これは1月5日以来最大の単日純流入であり、同日にイーサ現物ETFから約1,700万ドルが流出した動きと対照的だった。今回の数字は、XRP関連の現物商品に資金が再び向かっていることを示す材料だ。ただし原文は、価格見通しや追加の市場背景ではなく、ファンドの資金フローそのものに焦点を当てている。スポットXRP ETFの単日流入拡大は投資家の関心を確認する資料になり得るが、市場全体の方向性を断定するには限界がある。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "现货XRP ETF周一流入2580万美元，创1月以来最高",
+        "excerpt": "美国上市的5只现货XRP基金周一录得2580万美元净流入，为1月5日以来最大单日流入；同期以太坊现货ETF流出近1700万美元。",
+        "body": "美国上市的5只现货XRP ETF周一合计录得2580万美元净流入。这是自1月5日以来该类产品最大的单日净流入，并与同日以太坊现货ETF近1700万美元的资金流出形成对比。该数据表明，资金正重新流入与XRP相关的现货产品。原文重点放在基金资金流向本身，而非价格预测或更广泛的市场判断。现货XRP ETF单日流入扩大，可以作为投资者关注度上升的参考，但仅凭这一数据仍不足以断定整体市场方向。来源：coindesk.com。"
+      },
+      "es": {
+        "title": "ETF spot de XRP captan US$25,8M el lunes, máximo desde enero",
+        "excerpt": "Cinco fondos spot de XRP cotizados en EE. UU. registraron US$25,8 millones en entradas netas el lunes, el mayor flujo diario desde el 5 de enero, mientras los ETF spot de ether perdieron casi US$17 millones.",
+        "body": "Cinco ETF spot de XRP listados en Estados Unidos registraron el lunes entradas netas combinadas por US$25,8 millones. Fue la mayor entrada neta en un solo día desde el 5 de enero y contrastó con el movimiento de los ETF spot de ether, que ese mismo día tuvieron salidas por casi US$17 millones. La cifra muestra un renovado ingreso de capital hacia productos spot vinculados a XRP. El reporte original se centró en los flujos de fondos, no en previsiones de precio ni en afirmaciones amplias sobre el mercado. Aunque el aumento diario puede reflejar interés de los inversores, no basta para definir la dirección general del mercado. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "ETFs spot de XRP atraem US$25,8 mi na segunda, maior fluxo desde janeiro",
+        "excerpt": "Cinco fundos spot de XRP listados nos EUA tiveram US$25,8 milhões em entradas líquidas na segunda-feira, o maior fluxo diário desde 5 de janeiro, enquanto ETFs spot de ether perderam quase US$17 milhões.",
+        "body": "Cinco ETFs spot de XRP listados nos Estados Unidos registraram na segunda-feira entradas líquidas combinadas de US$25,8 milhões. Foi a maior entrada líquida em um único dia desde 5 de janeiro e contrastou com o movimento dos ETFs spot de ether, que tiveram saídas de quase US$17 milhões no mesmo dia. O número mostra capital voltando para produtos spot ligados ao XRP. A reportagem original concentrou-se nos fluxos dos fundos, sem fazer previsões de preço ou conclusões amplas sobre o mercado. Embora a entrada diária maior indique atenção dos investidores, ela é limitada para definir a direção geral do mercado. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Spot-XRP-ETFs ziehen Montag 25,8 Mio. USD an, höchster Zufluss seit Januar",
+        "excerpt": "Fünf in den USA gelistete Spot-XRP-Fonds verzeichneten am Montag Nettozuflüsse von 25,8 Mio. USD, den größten Tageszufluss seit dem 5. Januar, während Ether-Spot-ETFs fast 17 Mio. USD verloren.",
+        "body": "Fünf in den USA gelistete Spot-XRP-ETFs verzeichneten am Montag zusammen Nettozuflüsse von 25,8 Mio. US-Dollar. Das war der größte eintägige Nettozufluss seit dem 5. Januar und stand im Gegensatz zu Ether-Spot-ETFs, aus denen am selben Tag fast 17 Mio. US-Dollar abflossen. Die Zahl zeigt, dass wieder Kapital in XRP-bezogene Spot-Produkte fließt. Der ursprüngliche Bericht konzentrierte sich auf Fondsflüsse, nicht auf Preisprognosen oder weitergehende Marktaussagen. Der höhere Tageszufluss kann als Hinweis auf Anlegerinteresse gelten, reicht aber nicht aus, um die Richtung des Gesamtmarkts festzulegen. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Les ETF spot XRP attirent 25,8 M$ lundi, plus forte entrée depuis janvier",
+        "excerpt": "Cinq fonds spot XRP cotés aux États-Unis ont enregistré 25,8 M$ d’entrées nettes lundi, le plus fort flux quotidien depuis le 5 janvier, tandis que les ETF spot ether perdaient près de 17 M$.",
+        "body": "Cinq ETF spot XRP cotés aux États-Unis ont enregistré lundi 25,8 millions de dollars d’entrées nettes combinées. Il s’agit de la plus forte entrée nette en une journée depuis le 5 janvier, en contraste avec les ETF spot ether, qui ont subi près de 17 millions de dollars de sorties le même jour. Ces chiffres montrent un retour de capitaux vers les produits spot liés au XRP. Le rapport original se concentre sur les flux de fonds, sans avancer de prévisions de prix ni de conclusions plus larges sur le marché. Cette hausse quotidienne peut signaler l’intérêt des investisseurs, mais elle reste insuffisante pour déterminer la tendance générale du marché. Source : coindesk.com."
+      },
+      "ar": {
+        "title": "صناديق XRP الفورية تجذب 25.8 مليون دولار الاثنين، الأكبر منذ يناير",
+        "excerpt": "سجلت خمسة صناديق XRP فورية مدرجة في الولايات المتحدة صافي تدفقات بلغ 25.8 مليون دولار يوم الاثنين، وهو أكبر تدفق يومي منذ 5 يناير، بينما فقدت صناديق إيثر الفورية نحو 17 مليون دولار.",
+        "body": "سجلت خمسة صناديق ETF فورية لـXRP مدرجة في الولايات المتحدة صافي تدفقات داخلة مجمعة بلغ 25.8 مليون دولار يوم الاثنين. ويعد ذلك أكبر صافي تدفق يومي لهذه المنتجات منذ 5 يناير، وجاء في مقابل خروج ما يقرب من 17 مليون دولار من صناديق ETF الفورية للإيثر في اليوم نفسه. تكشف هذه الأرقام عن عودة رأس المال إلى المنتجات الفورية المرتبطة بـXRP. وركز التقرير الأصلي على حركة أموال الصناديق نفسها، لا على توقعات الأسعار أو استنتاجات أوسع للسوق. ويمكن قراءة زيادة التدفق اليومي كمؤشر على اهتمام المستثمرين، لكنها لا تكفي وحدها لتحديد اتجاه السوق العام. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "स्पॉट XRP ETF में सोमवार को $25.8M इनफ्लो, जनवरी के बाद सबसे बड़ा",
+        "excerpt": "अमेरिका में सूचीबद्ध पांच स्पॉट XRP फंडों में सोमवार को $25.8 मिलियन का नेट इनफ्लो आया, जो 5 जनवरी के बाद सबसे बड़ा एकदिवसीय प्रवाह है, जबकि ईथर स्पॉट ETF से करीब $17 मिलियन निकले।",
+        "body": "अमेरिका में सूचीबद्ध पांच स्पॉट XRP ETF में सोमवार को कुल $25.8 मिलियन का नेट इनफ्लो दर्ज हुआ। यह 5 जनवरी के बाद इन उत्पादों के लिए सबसे बड़ा एकदिवसीय नेट इनफ्लो था और उसी दिन ईथर स्पॉट ETF से लगभग $17 मिलियन की निकासी के विपरीत रहा। यह आंकड़ा दिखाता है कि XRP से जुड़े स्पॉट उत्पादों में पूंजी फिर से आ रही है। मूल रिपोर्ट का ध्यान फंड फ्लो पर था, न कि कीमत के अनुमान या व्यापक बाजार दावों पर। स्पॉट XRP ETF में बढ़ा दैनिक इनफ्लो निवेशक रुचि का संकेत माना जा सकता है, लेकिन इससे पूरे बाजार की दिशा तय करना सीमित होगा। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "ETF spot XRP serap US$25,8 juta Senin, arus terbesar sejak Januari",
+        "excerpt": "Lima dana spot XRP yang tercatat di AS membukukan arus masuk bersih US$25,8 juta pada Senin, terbesar dalam satu hari sejak 5 Januari, sementara ETF spot ether keluar hampir US$17 juta.",
+        "body": "Lima ETF spot XRP yang terdaftar di Amerika Serikat mencatat arus masuk bersih gabungan US$25,8 juta pada Senin. Angka itu menjadi arus masuk bersih harian terbesar sejak 5 Januari dan berlawanan dengan ETF spot ether, yang pada hari yang sama mencatat arus keluar hampir US$17 juta. Data ini menunjukkan modal kembali masuk ke produk spot yang terkait XRP. Laporan asli berfokus pada aliran dana, bukan proyeksi harga atau klaim pasar yang lebih luas. Kenaikan arus masuk harian dapat dibaca sebagai tanda minat investor terhadap ETF spot XRP, tetapi masih terbatas untuk menyimpulkan arah pasar secara keseluruhan. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "1d7e9f25860f",
     "slug": "kraken-parent-franklin-templeton-to-develop-onchain-investme-313208",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Baidu ERNIE 5.1 Puncaki Ranking AI China dengan Biaya 94% Lebih Rendah",
         "excerpt": "Model AI baru Baidu, ERNIE 5.1, naik ke jajaran teratas leaderboard AI China dengan biaya pembangunan lebih rendah dan efisiensi parameter lebih baik.",
         "body": "Model AI baru Baidu, ERNIE 5.1, menarik perhatian setelah masuk jajaran teratas leaderboard AI China. Menurut decrypt.co, ERNIE 5.1 mampu bersaing dengan model-model unggulan sambil disebut membutuhkan biaya pembangunan 94% lebih rendah dibanding para pesaingnya. Baidu menyebut capaian ini sebagai lompatan dalam “efisiensi parameter”. Hasil tersebut menunjukkan bahwa dalam persaingan pengembangan AI skala besar, peningkatan rasio biaya terhadap kinerja semakin penting, bukan hanya memperbesar ukuran model. Dengan membuktikan performa papan atas melalui biaya pembangunan yang lebih rendah, ERNIE 5.1 dapat memengaruhi persaingan pasar AI China dan strategi pengembangan model di masa depan. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "8231f0fcc912",
-    "slug": "circle-gives-ai-agents-usdc-stablecoin-powers-alongside-222m-473976",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T21:42:48.631Z",
-    "updatedAt": "2026-05-11T21:42:48.631Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367490/circle-ai-agents-usdc-stablecoin-powers-222m-arc-token-sale",
-    "canonicalUrl": "https://decrypt.co/367490/circle-ai-agents-usdc-stablecoin-powers-222m-arc-token-sale",
-    "titleFingerprint": "5deafe8f7beeeda372978a21559278a92a14fcb1",
-    "dedupKeys": [
-      "8231f0fcc912873c090b110e751b723e132138b1",
-      "5deafe8f7beeeda372978a21559278a92a14fcb1",
-      "ccd0c4f53ce8bf5ca27014abbdad65c8c8dcd1db"
-    ],
-    "imageUrl": "/images/articles/8231f0fcc912.png",
-    "i18n": {
-      "ko": {
-        "title": "Circle, AI 에이전트에 USDC 결제 권한 부여…2.22억달러 Arc 토큰 세일 병행",
-        "excerpt": "USDC 발행사 Circle은 AI 에이전트가 사람 개입 없이 자금을 보유하고 서비스 비용을 지불하며 거래할 수 있는 도구 모음을 출시했다.",
-        "body": "USDC 발행사 Circle은 AI 에이전트가 사람의 직접 개입 없이 돈을 보유하고, 서비스 비용을 지불하며, 거래를 수행할 수 있도록 설계된 도구 모음을 출시했다. 이번 발표는 2억2,200만달러 규모의 Arc 토큰 세일 소식과 함께 전해졌다. Circle의 새 도구는 스테이블코인 USDC를 AI 기반 자동화 환경에서 활용할 수 있게 하는 데 초점을 맞춘다. 배경에는 AI 에이전트가 온라인 서비스와 결제 흐름에서 더 자율적으로 움직일 수 있도록 하려는 수요가 있다. 다만 기사에 따르면 핵심은 사람 없는 자금 보유와 결제, 거래 기능 제공에 있다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Circle Gives AI Agents USDC Payment Powers as $222M Arc Sale Advances",
-        "excerpt": "USDC issuer Circle launched tools that let AI agents hold funds, pay for services, and transact without human involvement, alongside a $222M Arc token sale.",
-        "body": "USDC issuer Circle has launched a suite of tools designed to let AI agents hold money, pay for services, and carry out transactions without direct human involvement. The announcement came alongside a $222 million Arc token sale. Circle’s new tools focus on enabling the use of the USDC stablecoin in AI-driven automated environments. The context is rising demand for AI agents that can act more independently across online services and payment flows. According to the report, the core change is giving agents the ability to hold funds, make payments, and transact without a person in the loop. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "Circle、AIエージェントにUSDC決済機能付与　Arcセール2.22億ドルも",
-        "excerpt": "USDC発行元のCircleは、AIエージェントが人の介入なしに資金を保有し、サービス料金を支払い、取引できるツール群を公開した。",
-        "body": "USDC発行元のCircleは、AIエージェントが人の直接介入なしに資金を保有し、サービス料金を支払い、取引を実行できるよう設計されたツール群を公開した。今回の発表は、2億2,200万ドル規模のArcトークンセールのニュースとあわせて伝えられた。Circleの新ツールは、ステーブルコインUSDCをAI主導の自動化環境で利用できるようにする点に焦点を当てている。背景には、オンラインサービスや決済フローでAIエージェントがより自律的に動く需要がある。ただし記事によれば、中心となるのは人を介さない資金保有、支払い、取引機能の提供だ。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "Circle赋予AI代理USDC支付能力，并推进2.22亿美元Arc代币销售",
-        "excerpt": "USDC发行方Circle推出一套工具，让AI代理无需人工介入即可持有资金、支付服务费用并完成交易，同时伴随Arc代币销售消息。",
-        "body": "USDC发行方Circle推出了一套工具，旨在让AI代理在没有人类直接介入的情况下持有资金、支付服务费用并执行交易。该消息与2.22亿美元规模的Arc代币销售一同发布。Circle的新工具重点在于让稳定币USDC能够用于由AI驱动的自动化环境。其背景是，市场对能够在在线服务和支付流程中更自主行动的AI代理需求正在增加。不过报道显示，此次核心变化是为AI代理提供无需人工参与的资金持有、支付和交易能力。来源: decrypt.co"
-      },
-      "es": {
-        "title": "Circle da a agentes de IA poderes de pago con USDC junto a venta Arc de $222M",
-        "excerpt": "Circle, emisor de USDC, lanzó herramientas para que agentes de IA mantengan dinero, paguen servicios y realicen transacciones sin intervención humana.",
-        "body": "Circle, emisor de USDC, lanzó un conjunto de herramientas diseñado para que los agentes de IA puedan mantener dinero, pagar servicios y ejecutar transacciones sin intervención humana directa. El anuncio llegó junto con una venta de tokens Arc por 222 millones de dólares. Las nuevas herramientas de Circle se centran en permitir el uso de la stablecoin USDC en entornos automatizados impulsados por IA. El contexto es una demanda creciente de agentes de IA capaces de actuar con más autonomía en servicios en línea y flujos de pago. Según el reporte, el punto central es habilitar tenencia de fondos, pagos y transacciones sin una persona en el proceso. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Circle dá a agentes de IA poderes de pagamento em USDC com venda Arc de US$222 mi",
-        "excerpt": "A emissora do USDC, Circle, lançou ferramentas para agentes de IA guardarem dinheiro, pagarem serviços e transacionarem sem intervenção humana direta.",
-        "body": "A emissora do USDC, Circle, lançou um conjunto de ferramentas criado para permitir que agentes de IA guardem dinheiro, paguem por serviços e realizem transações sem intervenção humana direta. O anúncio veio junto com uma venda de tokens Arc de US$222 milhões. As novas ferramentas da Circle se concentram em viabilizar o uso da stablecoin USDC em ambientes automatizados movidos por IA. O contexto é a demanda por agentes de IA capazes de atuar com mais autonomia em serviços online e fluxos de pagamento. Segundo a reportagem, o ponto principal é oferecer posse de fundos, pagamentos e transações sem uma pessoa no processo. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Circle gibt KI-Agenten USDC-Zahlungsrechte neben Arc-Verkauf über 222 Mio. Dollar",
-        "excerpt": "USDC-Emittent Circle hat Tools gestartet, mit denen KI-Agenten Geld halten, Dienste bezahlen und Transaktionen ohne menschliche Beteiligung ausführen können.",
-        "body": "USDC-Emittent Circle hat eine Reihe von Tools gestartet, die KI-Agenten ermöglichen sollen, Geld zu halten, für Dienste zu bezahlen und Transaktionen ohne direkte menschliche Beteiligung auszuführen. Die Meldung wurde zusammen mit einem Arc-Token-Verkauf im Umfang von 222 Millionen Dollar bekannt. Circles neue Tools zielen darauf, den Stablecoin USDC in KI-gesteuerten automatisierten Umgebungen nutzbar zu machen. Hintergrund ist die Nachfrage nach KI-Agenten, die in Online-Diensten und Zahlungsabläufen eigenständiger handeln können. Dem Bericht zufolge liegt der Kern in der Fähigkeit, Gelder zu halten, Zahlungen zu leisten und Transaktionen ohne eine Person im Ablauf auszuführen. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Circle donne aux agents IA des pouvoirs de paiement en USDC avec la vente Arc à 222 M$",
-        "excerpt": "L’émetteur de l’USDC, Circle, a lancé des outils permettant aux agents IA de détenir des fonds, payer des services et effectuer des transactions sans humain.",
-        "body": "L’émetteur de l’USDC, Circle, a lancé une suite d’outils conçue pour permettre aux agents IA de détenir de l’argent, payer des services et effectuer des transactions sans intervention humaine directe. L’annonce accompagne une vente de tokens Arc de 222 millions de dollars. Les nouveaux outils de Circle visent à rendre le stablecoin USDC utilisable dans des environnements automatisés pilotés par l’IA. Le contexte est une demande accrue pour des agents IA capables d’agir avec plus d’autonomie dans les services en ligne et les flux de paiement. Selon le rapport, l’essentiel est de fournir détention de fonds, paiements et transactions sans personne dans la boucle. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "Circle تمنح وكلاء الذكاء الاصطناعي قدرات دفع USDC مع بيع Arc بـ222 مليون دولار",
-        "excerpt": "أطلقت Circle، مُصدِرة USDC، أدوات تتيح لوكلاء الذكاء الاصطناعي الاحتفاظ بالأموال ودفع رسوم الخدمات وتنفيذ المعاملات دون تدخل بشري.",
-        "body": "أطلقت Circle، مُصدِرة عملة USDC، مجموعة أدوات صُممت لتمكين وكلاء الذكاء الاصطناعي من الاحتفاظ بالأموال، ودفع تكاليف الخدمات، وتنفيذ المعاملات دون تدخل بشري مباشر. وجاء الإعلان بالتزامن مع بيع رموز Arc بقيمة 222 مليون دولار. تركز أدوات Circle الجديدة على إتاحة استخدام العملة المستقرة USDC داخل بيئات آلية يقودها الذكاء الاصطناعي. ويأتي ذلك في سياق طلب متزايد على وكلاء ذكاء اصطناعي يمكنهم التحرك باستقلالية أكبر عبر الخدمات الإلكترونية ومسارات الدفع. ووفق التقرير، يتمثل الجوهر في منح هذه الوكلاء القدرة على الاحتفاظ بالأموال والدفع والتعامل دون وجود شخص في العملية. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "Circle ने AI एजेंटों को USDC भुगतान शक्ति दी, साथ में $222M Arc टोकन सेल",
-        "excerpt": "USDC जारीकर्ता Circle ने ऐसे टूल लॉन्च किए जिनसे AI एजेंट मानव हस्तक्षेप के बिना धन रख सकें, सेवाओं का भुगतान कर सकें और लेनदेन कर सकें।",
-        "body": "USDC जारीकर्ता Circle ने ऐसे टूल्स का एक सेट लॉन्च किया है जिसे AI एजेंटों को सीधे मानव हस्तक्षेप के बिना धन रखने, सेवाओं के लिए भुगतान करने और लेनदेन करने में सक्षम बनाने के लिए डिजाइन किया गया है। यह घोषणा 22.2 करोड़ डॉलर की Arc टोकन सेल की खबर के साथ आई। Circle के नए टूल्स का ध्यान AI संचालित स्वचालित माहौल में स्थिर मुद्रा USDC के उपयोग को संभव बनाने पर है। पृष्ठभूमि में ऐसे AI एजेंटों की मांग है जो ऑनलाइन सेवाओं और भुगतान प्रवाह में अधिक स्वायत्त रूप से काम कर सकें। रिपोर्ट के अनुसार, मुख्य बात एजेंटों को बिना किसी व्यक्ति की भागीदारी के धन रखने, भुगतान करने और लेनदेन की क्षमता देना है। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Circle Beri Agen AI Kekuatan Pembayaran USDC Bersama Penjualan Arc $222 Juta",
-        "excerpt": "Penerbit USDC, Circle, meluncurkan alat agar agen AI dapat menyimpan uang, membayar layanan, dan bertransaksi tanpa keterlibatan manusia langsung.",
-        "body": "Penerbit USDC, Circle, meluncurkan rangkaian alat yang dirancang agar agen AI dapat menyimpan uang, membayar layanan, dan menjalankan transaksi tanpa keterlibatan manusia langsung. Pengumuman ini hadir bersamaan dengan penjualan token Arc senilai 222 juta dolar AS. Alat baru Circle berfokus pada pemanfaatan stablecoin USDC di lingkungan otomatis yang digerakkan oleh AI. Latar belakangnya adalah meningkatnya kebutuhan akan agen AI yang bisa bergerak lebih mandiri dalam layanan online dan alur pembayaran. Menurut laporan, inti perubahan ini adalah memberi agen kemampuan menyimpan dana, melakukan pembayaran, dan bertransaksi tanpa seseorang berada dalam proses. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "726964b3bf92",
-    "slug": "privacy-advocates-slam-recaptcha-update-they-say-locks-out-d-481316",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T21:41:55.711Z",
-    "updatedAt": "2026-05-11T21:41:55.711Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/privacy-advocates-slam-recaptcha-update-locks-out-de-googled-phones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/privacy-advocates-slam-recaptcha-update-locks-out-de-googled-phones",
-    "titleFingerprint": "5c5048a9121f96768e29f660c06c826a24fdc74b",
-    "dedupKeys": [
-      "726964b3bf924e8fe989c91e83e8123c5babef9c",
-      "5c5048a9121f96768e29f660c06c826a24fdc74b",
-      "a61924e37401f688966894b51619d802cbf1b026"
-    ],
-    "imageUrl": "/images/articles/726964b3bf92.jpg",
-    "i18n": {
-      "ko": {
-        "title": "reCAPTCHA 업데이트 논란, 탈구글폰 이용자 배제 비판 확산",
-        "excerpt": "개인정보 보호를 중시하는 인터넷 이용자와 비트코이너 제임슨 롭은 reCAPTCHA 업데이트가 탈구글폰 사용자를 온라인 접근에서 불리하게 만든다고 비판했다.",
-        "body": "개인정보 보호 옹호자들이 구글 reCAPTCHA 업데이트를 두고 탈구글폰 이용자를 사실상 배제한다고 비판했다. 비트코이너 제임슨 롭은 개인정보를 중시하는 인터넷 이용자들이 “2등급에서 3등급 네티즌으로 강등되고 있다”고 말했다. 이번 논란의 배경은 구글 서비스 의존을 줄인 기기 사용자들이 인증 과정에서 더 큰 불편을 겪을 수 있다는 우려다. 관련 수치나 추가 기술 설명은 공개된 요약에 포함되지 않았다. 영향은 프라이버시 중심 이용자와 웹 접근성 논쟁으로 이어질 전망이다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "reCAPTCHA Update Criticized Over De-Googled Phone Access",
-        "excerpt": "Privacy-focused internet users and Bitcoiner Jameson Lopp criticized a reCAPTCHA update, saying it disadvantages de-Googled phone users online.",
-        "body": "Privacy advocates have criticized a Google reCAPTCHA update, saying it effectively locks out users of de-Googled phones. Bitcoiner Jameson Lopp said privacy-conscious internet users are being “demoted” from second- to third-class netizens. The dispute centers on concerns that people using devices with reduced reliance on Google services may face more friction during verification. No additional figures or technical details were included in the provided summary. The issue may fuel further debate over privacy-focused users and web accessibility. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "reCAPTCHA更新に批判、脱Googleスマホ利用者を排除か",
-        "excerpt": "プライバシー重視のネット利用者とビットコイナーのジェイムソン・ロップ氏は、reCAPTCHA更新が脱Googleスマホ利用者を不利にすると批判した。",
-        "body": "プライバシー擁護派は、GoogleのreCAPTCHA更新について、脱Googleスマホの利用者を事実上締め出すものだと批判している。ビットコイナーのジェイムソン・ロップ氏は、プライバシーを重視するインターネット利用者が「二級から三級のネット市民へ格下げされている」と述べた。争点は、Googleサービスへの依存を減らした端末の利用者が認証過程でより大きな不便を受ける可能性への懸念だ。提供された要約には追加の数値や技術説明は含まれていない。今後、プライバシー重視の利用者とウェブアクセシビリティをめぐる議論に広がる見通しだ。出典: cointelegraph.com。"
-      },
-      "zh": {
-        "title": "reCAPTCHA更新遭批，去谷歌手机用户或被排除",
-        "excerpt": "重视隐私的互联网用户和比特币人士Jameson Lopp批评称，reCAPTCHA更新让去谷歌手机用户在网上访问中处于不利地位。",
-        "body": "隐私倡导者批评谷歌reCAPTCHA更新，称其实际上把去谷歌手机用户挡在门外。比特币人士Jameson Lopp表示，重视隐私的互联网用户正从“二等网民”被降为“三等网民”。争议的背景在于，减少对谷歌服务依赖的设备用户，可能在验证过程中遭遇更多不便。所提供摘要未包含更多数据或技术说明。该事件预计将继续引发围绕隐私型用户和网络可访问性的讨论。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "reCAPTCHA bajo críticas por bloquear teléfonos sin Google",
-        "excerpt": "Usuarios preocupados por la privacidad y el bitcoiner Jameson Lopp criticaron una actualización de reCAPTCHA por perjudicar a quienes usan teléfonos sin Google.",
-        "body": "Defensores de la privacidad criticaron una actualización de Google reCAPTCHA, al afirmar que en la práctica excluye a usuarios de teléfonos sin Google. El bitcoiner Jameson Lopp dijo que los usuarios de internet preocupados por la privacidad están siendo “degradados” de internautas de segunda a tercera clase. La polémica se centra en el temor de que quienes usan dispositivos con menor dependencia de servicios de Google enfrenten más fricción en la verificación. El resumen proporcionado no incluye cifras adicionales ni detalles técnicos. El caso podría alimentar el debate sobre usuarios centrados en la privacidad y accesibilidad web. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "reCAPTCHA é criticado por afetar celulares sem Google",
-        "excerpt": "Usuários preocupados com privacidade e o bitcoiner Jameson Lopp criticaram uma atualização do reCAPTCHA por prejudicar quem usa celulares sem Google.",
-        "body": "Defensores da privacidade criticaram uma atualização do Google reCAPTCHA, dizendo que ela praticamente exclui usuários de celulares sem Google. O bitcoiner Jameson Lopp afirmou que usuários da internet preocupados com privacidade estão sendo “rebaixados” de internautas de segunda para terceira classe. A controvérsia gira em torno do receio de que pessoas com dispositivos menos dependentes dos serviços do Google enfrentem mais atrito na verificação. O resumo fornecido não inclui números adicionais nem explicações técnicas. O tema pode ampliar o debate sobre usuários focados em privacidade e acessibilidade na web. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "reCAPTCHA-Update kritisiert: De-Googled Phones benachteiligt",
-        "excerpt": "Datenschutzbewusste Internetnutzer und Bitcoiner Jameson Lopp kritisieren ein reCAPTCHA-Update, das Nutzer de-googelter Smartphones online benachteiligen soll.",
-        "body": "Datenschützer kritisieren ein Google-reCAPTCHA-Update, weil es Nutzer de-googelter Smartphones faktisch aussperre. Bitcoiner Jameson Lopp sagte, datenschutzbewusste Internetnutzer würden von Netzbürgern zweiter zu dritter Klasse „herabgestuft“. Im Zentrum steht die Sorge, dass Menschen mit Geräten, die weniger stark von Google-Diensten abhängen, bei der Verifizierung mehr Hürden erleben könnten. Die bereitgestellte Zusammenfassung enthält keine weiteren Zahlen oder technischen Details. Der Fall dürfte die Debatte über Privatsphäre und Webzugänglichkeit weiter anstoßen. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "reCAPTCHA critiqué pour pénaliser les téléphones sans Google",
-        "excerpt": "Des internautes soucieux de leur vie privée et le bitcoiner Jameson Lopp critiquent une mise à jour de reCAPTCHA qui désavantagerait les téléphones sans Google.",
-        "body": "Des défenseurs de la vie privée critiquent une mise à jour de Google reCAPTCHA, estimant qu’elle exclut de fait les utilisateurs de téléphones sans Google. Le bitcoiner Jameson Lopp a déclaré que les internautes soucieux de confidentialité étaient “rétrogradés” de citoyens du net de seconde à troisième classe. La controverse porte sur la crainte que les personnes utilisant des appareils moins dépendants des services Google rencontrent davantage d’obstacles lors de la vérification. Le résumé fourni ne contient pas de chiffres supplémentaires ni de détails techniques. Le sujet pourrait nourrir le débat sur la vie privée et l’accessibilité du web. Source : cointelegraph.com."
-      },
-      "ar": {
-        "title": "تحديث reCAPTCHA يثير انتقادات بسبب هواتف بلا غوغل",
-        "excerpt": "انتقد مستخدمون مهتمون بالخصوصية والبيتكويني جيمسون لوب تحديث reCAPTCHA، قائلين إنه يضع مستخدمي الهواتف الخالية من غوغل في موقف أضعف على الإنترنت.",
-        "body": "انتقد مدافعون عن الخصوصية تحديثا لخدمة Google reCAPTCHA، قائلين إنه يستبعد عمليا مستخدمي الهواتف الخالية من خدمات غوغل. وقال البيتكويني جيمسون لوب إن مستخدمي الإنترنت الحريصين على الخصوصية يجري “خفضهم” من مواطنين رقميين من الدرجة الثانية إلى الثالثة. يدور الجدل حول مخاوف من أن يواجه مستخدمو الأجهزة التي تقلل الاعتماد على خدمات غوغل صعوبات أكبر أثناء التحقق. ولا يتضمن الملخص المقدم أرقاما إضافية أو تفاصيل تقنية. وقد يمتد الأثر إلى نقاش أوسع حول الخصوصية وإتاحة الوصول إلى الويب. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "reCAPTCHA अपडेट पर विवाद, डी-गूगल फोन यूजर्स को नुकसान",
-        "excerpt": "गोपनीयता को अहम मानने वाले इंटरनेट यूजर्स और बिटकॉइनर Jameson Lopp ने reCAPTCHA अपडेट की आलोचना की, कहा कि इससे डी-गूगल फोन यूजर्स ऑनलाइन कमजोर पड़ते हैं।",
-        "body": "गोपनीयता समर्थकों ने Google reCAPTCHA अपडेट की आलोचना करते हुए कहा कि यह डी-गूगल फोन उपयोगकर्ताओं को व्यवहारिक रूप से बाहर कर देता है। बिटकॉइनर Jameson Lopp ने कहा कि गोपनीयता के प्रति सजग इंटरनेट उपयोगकर्ताओं को “दूसरी श्रेणी” से “तीसरी श्रेणी” के नेटिजन में गिराया जा रहा है। विवाद की पृष्ठभूमि यह चिंता है कि Google सेवाओं पर निर्भरता घटाने वाले डिवाइस इस्तेमाल करने वालों को सत्यापन प्रक्रिया में अधिक परेशानी हो सकती है। उपलब्ध सारांश में अतिरिक्त आंकड़े या तकनीकी विवरण शामिल नहीं हैं। इसका असर गोपनीयता-केंद्रित उपयोगकर्ताओं और वेब पहुंच पर बहस को आगे बढ़ा सकता है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Update reCAPTCHA Dikritik, Ponsel De-Googled Dinilai Terkunci",
-        "excerpt": "Pengguna internet yang peduli privasi dan Bitcoiner Jameson Lopp mengkritik update reCAPTCHA karena dinilai merugikan pengguna ponsel de-Googled saat online.",
-        "body": "Para pendukung privasi mengkritik pembaruan Google reCAPTCHA karena dinilai secara praktis mengunci pengguna ponsel de-Googled. Bitcoiner Jameson Lopp mengatakan pengguna internet yang sadar privasi sedang “diturunkan” dari warganet kelas dua menjadi kelas tiga. Perdebatan ini berpusat pada kekhawatiran bahwa pengguna perangkat yang mengurangi ketergantungan pada layanan Google dapat menghadapi hambatan lebih besar saat proses verifikasi. Ringkasan yang diberikan tidak memuat angka tambahan atau penjelasan teknis. Isu ini dapat memperluas debat tentang pengguna berorientasi privasi dan aksesibilitas web. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "c6949a4020c2",
-    "slug": "circle-makes-usdc-push-into-ai-agent-payment-tools-262421",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T21:40:53.872Z",
-    "updatedAt": "2026-05-11T21:40:53.872Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions",
-    "titleFingerprint": "156b866acc5071fbe628cc90ffdd6c57ec66b05c",
-    "dedupKeys": [
-      "c6949a4020c26a03752abbedf3afbbb0bf6ff770",
-      "156b866acc5071fbe628cc90ffdd6c57ec66b05c",
-      "96e57f4845d90d6559a31def1b59bdcbb79aeab8"
-    ],
-    "imageUrl": "/images/articles/c6949a4020c2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Circle, AI 에이전트 결제 도구에 USDC 활용 확대",
-        "excerpt": "Circle이 AI 에이전트용 결제 도구를 공개하며 지갑 보유, 서비스 탐색, 블록체인 간 프로그래머블 USDC 결제를 지원한다.",
-        "body": "Circle이 AI 에이전트 결제 환경에서 USDC 활용을 넓히기 위한 새 도구를 내놓았다. 이번 도구는 AI 에이전트가 지갑을 보유하고, 필요한 서비스를 찾으며, 여러 블록체인 네트워크에서 프로그래머블 USDC 결제를 실행할 수 있도록 설계됐다. 이는 사람이 직접 매번 결제 절차를 처리하지 않아도 에이전트 기반 서비스 이용과 온체인 결제가 연결될 수 있음을 보여준다. 배경에는 스테이블코인 USDC를 자동화 결제 흐름에 적용하려는 Circle의 움직임이 있다. 향후 관련 도구는 AI 에이전트와 블록체인 결제 인프라의 접점을 넓히는 사례로 주목된다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Circle expands USDC use in AI agent payment tools",
-        "excerpt": "Circle has introduced payment tools for AI agents, enabling wallets, service discovery and programmable USDC payments across blockchain networks.",
-        "body": "Circle has introduced new tools aimed at expanding USDC use in AI agent payments. The tools are designed to let AI agents hold wallets, discover needed services and execute programmable USDC payments across multiple blockchain networks. The move shows how agent-based services and on-chain payments can be connected without a person manually handling every payment step. The context is Circle’s push to apply its USDC stablecoin to automated payment flows. The tools are likely to be watched as an example of how AI agents and blockchain payment infrastructure can meet. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "Circle、AIエージェント決済ツールでUSDC活用を拡大",
-        "excerpt": "CircleはAIエージェント向け決済ツールを発表し、ウォレット保有、サービス探索、複数ブロックチェーンでのUSDC決済を可能にする。",
-        "body": "Circleは、AIエージェント決済でUSDCの活用を広げるための新しいツールを発表した。このツールは、AIエージェントがウォレットを保有し、必要なサービスを見つけ、複数のブロックチェーンネットワーク上でプログラム可能なUSDC決済を実行できるよう設計されている。これにより、人が毎回決済手続きを直接処理しなくても、エージェント型サービス利用とオンチェーン決済を結び付けられることが示された。背景には、ステーブルコインUSDCを自動化された決済フローに適用しようとするCircleの動きがある。今後、このツールはAIエージェントとブロックチェーン決済インフラの接点を広げる事例として注目される。出典: cointelegraph.com。"
-      },
-      "zh": {
-        "title": "Circle扩大USDC在AI代理支付工具中的应用",
-        "excerpt": "Circle推出面向AI代理的支付工具，支持持有钱包、发现服务，并在区块链网络间进行可编程USDC支付。",
-        "body": "Circle推出了新工具，旨在扩大USDC在AI代理支付场景中的使用。该工具允许AI代理持有钱包、发现所需服务，并在多个区块链网络上执行可编程USDC支付。这表明，在不需要人工每次手动处理支付流程的情况下，代理型服务与链上支付可以实现连接。其背景是Circle正推动将稳定币USDC应用于自动化支付流程。未来，这类工具将作为AI代理与区块链支付基础设施结合的案例受到关注。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Circle impulsa USDC en herramientas de pago para agentes de IA",
-        "excerpt": "Circle presentó herramientas de pago para agentes de IA que permiten tener billeteras, descubrir servicios y hacer pagos USDC programables en blockchains.",
-        "body": "Circle presentó nuevas herramientas para ampliar el uso de USDC en pagos de agentes de IA. Las herramientas están diseñadas para que los agentes de IA puedan mantener billeteras, descubrir servicios necesarios y ejecutar pagos programables en USDC a través de varias redes blockchain. La medida muestra cómo los servicios basados en agentes y los pagos on-chain pueden conectarse sin que una persona gestione manualmente cada paso del pago. El contexto es el impulso de Circle para aplicar su stablecoin USDC a flujos de pago automatizados. Estas herramientas serán observadas como un ejemplo del vínculo entre agentes de IA e infraestructura de pagos blockchain. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Circle amplia uso do USDC em ferramentas de pagamento para IA",
-        "excerpt": "A Circle lançou ferramentas de pagamento para agentes de IA, permitindo carteiras, descoberta de serviços e pagamentos programáveis em USDC em blockchains.",
-        "body": "A Circle lançou novas ferramentas para ampliar o uso do USDC em pagamentos feitos por agentes de IA. As ferramentas foram criadas para permitir que agentes de IA mantenham carteiras, descubram serviços necessários e executem pagamentos programáveis em USDC em várias redes blockchain. A iniciativa mostra como serviços baseados em agentes e pagamentos on-chain podem ser conectados sem que uma pessoa processe manualmente cada etapa do pagamento. O contexto é o movimento da Circle para aplicar a stablecoin USDC a fluxos de pagamento automatizados. As ferramentas devem ser acompanhadas como um exemplo da aproximação entre agentes de IA e infraestrutura de pagamentos blockchain. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Circle erweitert USDC-Einsatz in Zahlungstools für KI-Agenten",
-        "excerpt": "Circle stellt Zahlungstools für KI-Agenten vor, die Wallets, Service-Erkennung und programmierbare USDC-Zahlungen über Blockchains ermöglichen.",
-        "body": "Circle hat neue Tools vorgestellt, um den Einsatz von USDC bei Zahlungen durch KI-Agenten auszuweiten. Die Tools sollen es KI-Agenten ermöglichen, Wallets zu halten, benötigte Dienste zu entdecken und programmierbare USDC-Zahlungen über mehrere Blockchain-Netzwerke hinweg auszuführen. Damit wird sichtbar, wie agentenbasierte Dienste und On-Chain-Zahlungen verbunden werden können, ohne dass eine Person jeden Zahlungsschritt manuell abwickelt. Hintergrund ist Circles Vorstoß, den Stablecoin USDC in automatisierte Zahlungsabläufe einzubinden. Die Tools dürften als Beispiel für die Schnittstelle zwischen KI-Agenten und Blockchain-Zahlungsinfrastruktur beachtet werden. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Circle étend l’usage de l’USDC aux paiements des agents IA",
-        "excerpt": "Circle lance des outils de paiement pour agents IA, avec portefeuilles, découverte de services et paiements USDC programmables sur blockchains.",
-        "body": "Circle a lancé de nouveaux outils afin d’étendre l’usage de l’USDC dans les paiements réalisés par des agents IA. Ces outils sont conçus pour permettre aux agents IA de détenir des portefeuilles, de découvrir les services nécessaires et d’exécuter des paiements programmables en USDC sur plusieurs réseaux blockchain. Cette initiative montre comment des services fondés sur des agents et des paiements on-chain peuvent être reliés sans qu’une personne traite manuellement chaque étape du paiement. Elle s’inscrit dans la volonté de Circle d’appliquer le stablecoin USDC aux flux de paiement automatisés. Ces outils seront suivis comme un exemple du lien entre agents IA et infrastructure de paiement blockchain. Source : cointelegraph.com."
-      },
-      "ar": {
-        "title": "Circle توسع استخدام USDC في أدوات دفع وكلاء الذكاء الاصطناعي",
-        "excerpt": "أطلقت Circle أدوات دفع لوكلاء الذكاء الاصطناعي تتيح امتلاك محافظ واكتشاف الخدمات وتنفيذ مدفوعات USDC مبرمجة عبر شبكات بلوكتشين.",
-        "body": "أطلقت Circle أدوات جديدة لتوسيع استخدام USDC في مدفوعات وكلاء الذكاء الاصطناعي. صُممت هذه الأدوات لتمكين وكلاء الذكاء الاصطناعي من امتلاك محافظ، واكتشاف الخدمات المطلوبة، وتنفيذ مدفوعات USDC قابلة للبرمجة عبر عدة شبكات بلوكتشين. وتوضح الخطوة كيف يمكن ربط الخدمات القائمة على الوكلاء بالمدفوعات على السلسلة من دون أن يتولى شخص معالجة كل خطوة دفع يدويا. ويأتي ذلك ضمن توجه Circle لتطبيق العملة المستقرة USDC في تدفقات الدفع المؤتمتة. ومن المتوقع أن تُتابع هذه الأدوات كحالة تربط بين وكلاء الذكاء الاصطناعي وبنية مدفوعات البلوكتشين. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Circle ने AI एजेंट पेमेंट टूल्स में USDC उपयोग बढ़ाया",
-        "excerpt": "Circle ने AI एजेंटों के लिए पेमेंट टूल्स पेश किए, जिनसे वॉलेट रखने, सेवाएं खोजने और ब्लॉकचेन पर प्रोग्रामेबल USDC भुगतान करने की सुविधा मिलती है।",
-        "body": "Circle ने AI एजेंट भुगतान में USDC के उपयोग को बढ़ाने के लिए नए टूल्स पेश किए हैं। ये टूल्स AI एजेंटों को वॉलेट रखने, जरूरी सेवाएं खोजने और कई ब्लॉकचेन नेटवर्क पर प्रोग्रामेबल USDC भुगतान करने में सक्षम बनाने के लिए डिजाइन किए गए हैं। यह कदम दिखाता है कि हर भुगतान चरण को व्यक्ति द्वारा मैन्युअल रूप से संभाले बिना एजेंट-आधारित सेवाओं और ऑन-चेन भुगतान को जोड़ा जा सकता है। पृष्ठभूमि में Circle का USDC स्टेबलकॉइन को स्वचालित भुगतान प्रवाह में लागू करने का प्रयास है। आगे ये टूल्स AI एजेंटों और ब्लॉकचेन भुगतान अवसंरचना के मिलन के उदाहरण के रूप में देखे जाएंगे। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Circle perluas USDC di alat pembayaran agen AI",
-        "excerpt": "Circle merilis alat pembayaran untuk agen AI yang memungkinkan dompet, penemuan layanan, dan pembayaran USDC terprogram di jaringan blockchain.",
-        "body": "Circle merilis alat baru untuk memperluas penggunaan USDC dalam pembayaran agen AI. Alat ini dirancang agar agen AI dapat memiliki dompet, menemukan layanan yang dibutuhkan, dan menjalankan pembayaran USDC terprogram di berbagai jaringan blockchain. Langkah ini menunjukkan bagaimana layanan berbasis agen dan pembayaran on-chain dapat terhubung tanpa seseorang harus menangani setiap tahap pembayaran secara manual. Latar belakangnya adalah dorongan Circle untuk menerapkan stablecoin USDC ke alur pembayaran otomatis. Ke depan, alat ini akan diperhatikan sebagai contoh pertemuan antara agen AI dan infrastruktur pembayaran blockchain. Sumber: cointelegraph.com."
       }
     }
   }
