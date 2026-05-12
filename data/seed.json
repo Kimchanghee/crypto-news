@@ -1,5 +1,230 @@
 [
   {
+    "id": "b9d9421ec71b",
+    "slug": "anthropic-and-openai-warn-buyers-unauthorized-ai-startup-sha-993142",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T23:39:38.691Z",
+    "updatedAt": "2026-05-12T23:39:38.691Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367614/anthropic-openai-warn-unauthorized-ai-startup-stock-worthless-spv",
+    "canonicalUrl": "https://decrypt.co/367614/anthropic-openai-warn-unauthorized-ai-startup-stock-worthless-spv",
+    "titleFingerprint": "5240f595b47d8a93d7b926b36ec0f620a8d6b04d",
+    "dedupKeys": [
+      "b9d9421ec71b778ea0371566bbc9acb6476d2e0d",
+      "5240f595b47d8a93d7b926b36ec0f620a8d6b04d",
+      "b7edaeb90e1806194609d316189277eef1a651a6"
+    ],
+    "imageUrl": "/images/articles/b9d9421ec71b.png",
+    "i18n": {
+      "ko": {
+        "title": "Anthropic·OpenAI, 무단 AI 스타트업 주식 투자 ‘무가치’ 경고",
+        "excerpt": "Anthropic과 OpenAI는 이번 주 SPV 기반 비인가 주식 투자 구조를 인정하지 않겠다고 밝히며, 투자자들이 사설 경로의 AI 스타트업 지분 노출을 주의해야 한다고 경고했다.",
+        "body": "Anthropic과 OpenAI가 이번 주 비인가 AI 스타트업 주식 투자 구조에 경고를 냈다. 두 회사는 특수목적법인(SPV)을 통한 지분 매입 또는 이전 방식이 회사 승인 없이 이뤄질 경우 유효하지 않으며, 장부상 인정되지 않을 수 있다고 밝혔다. Anthropic은 특히 Forge Global을 포함한 일부 플랫폼 이름을 거론하며 자사 주식 접근을 제공할 권한이 없다고 했다. 이번 조치는 인기 AI 기업의 비상장 주식에 투자하려는 수요가 커진 가운데, 구매자가 실제 주주 권리나 경제적 가치를 얻지 못할 위험을 부각한다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Anthropic and OpenAI Warn Unauthorized AI Startup Shares May Be Worthless",
+        "excerpt": "Anthropic and OpenAI said this week they will not recognize unauthorized SPV-based share schemes, warning buyers to be careful with private AI startup equity offers.",
+        "body": "Anthropic and OpenAI warned this week about unauthorized ways to buy exposure to AI startup shares. Both companies said share purchases or transfers routed through special purpose vehicles, or SPVs, may be invalid if they are not approved by the company and may not be recognized on company records. Anthropic also named certain platforms, including Forge Global, as not authorized to provide access to its shares. The warning comes as demand for private AI company stock grows, raising the risk that buyers may not receive shareholder rights or economic value. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "AnthropicとOpenAI、無許可AI株式投資は無価値の恐れと警告",
+        "excerpt": "AnthropicとOpenAIは今週、SPVを使った無許可の株式投資スキームを認めないと表明し、非公開AI企業株への投資家に注意を促した。",
+        "body": "AnthropicとOpenAIは今週、AIスタートアップ株への無許可の投資手法について警告した。両社は、特別目的会社（SPV）を通じた株式の購入や移転が会社の承認なしに行われた場合、無効となり、会社の記録上認められない可能性があると述べた。Anthropicはさらに、Forge Globalを含む一部プラットフォーム名を挙げ、自社株へのアクセスを提供する権限はないとした。非公開AI企業の株式需要が高まる中、買い手が株主権利や経済的価値を得られないリスクが浮上している。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "Anthropic与OpenAI警告：未授权AI初创股权或毫无价值",
+        "excerpt": "Anthropic和OpenAI本周表示，不承认基于SPV的未授权股权投资安排，并提醒投资者谨慎对待私人AI初创公司股权报价。",
+        "body": "Anthropic和OpenAI本周就购买AI初创公司股权的未授权方式发出警告。两家公司表示，如果通过特殊目的载体（SPV）进行的股份购买或转让未获公司批准，相关交易可能无效，也可能不会被公司账簿和记录承认。Anthropic还点名包括Forge Global在内的部分平台，称其无权提供购买或出售该公司股票的渠道。随着投资者对未上市AI公司股票的需求上升，买方可能无法获得股东权利或经济价值的风险更加突出。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Anthropic y OpenAI advierten que acciones de IA no autorizadas pueden no valer nada",
+        "excerpt": "Anthropic y OpenAI dijeron esta semana que no reconocerán esquemas de acciones basados en SPV sin autorización y pidieron cautela ante ofertas de startups privadas de IA.",
+        "body": "Anthropic y OpenAI advirtieron esta semana sobre vías no autorizadas para comprar exposición a acciones de startups de IA. Ambas compañías dijeron que las compras o transferencias de acciones mediante vehículos de propósito especial, o SPV, pueden ser inválidas si no cuentan con aprobación de la empresa y podrían no ser reconocidas en sus registros. Anthropic también mencionó a ciertas plataformas, incluida Forge Global, como no autorizadas para ofrecer acceso a sus acciones. El aviso llega mientras crece la demanda por acciones privadas de empresas de IA, con el riesgo de que los compradores no obtengan derechos ni valor económico. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Anthropic e OpenAI alertam: ações de IA não autorizadas podem não ter valor",
+        "excerpt": "Anthropic e OpenAI disseram nesta semana que não reconhecerão esquemas de ações via SPV sem autorização, alertando compradores sobre ofertas privadas de startups de IA.",
+        "body": "Anthropic e OpenAI alertaram nesta semana sobre formas não autorizadas de comprar exposição a ações de startups de IA. As duas empresas disseram que compras ou transferências de ações por meio de veículos de propósito específico, os SPVs, podem ser inválidas se não forem aprovadas pela companhia e podem não ser reconhecidas em seus registros. A Anthropic também citou algumas plataformas, incluindo a Forge Global, como não autorizadas a oferecer acesso às suas ações. O aviso ocorre enquanto cresce a demanda por ações privadas de empresas de IA, elevando o risco de compradores não receberem direitos de acionista ou valor econômico. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Anthropic und OpenAI warnen: Unautorisierte KI-Startup-Aktien können wertlos sein",
+        "excerpt": "Anthropic und OpenAI erklärten diese Woche, nicht autorisierte SPV-Aktienmodelle nicht anzuerkennen, und warnten Käufer vor privaten Angeboten zu KI-Startup-Anteilen.",
+        "body": "Anthropic und OpenAI haben diese Woche vor nicht autorisierten Wegen gewarnt, Anteile an KI-Startups zu erwerben. Beide Unternehmen erklärten, dass Käufe oder Übertragungen von Aktien über Special Purpose Vehicles, kurz SPVs, ohne Zustimmung des Unternehmens ungültig sein können und möglicherweise nicht in den Unternehmensunterlagen anerkannt werden. Anthropic nannte zudem bestimmte Plattformen, darunter Forge Global, die nicht berechtigt seien, Zugang zu seinen Aktien anzubieten. Die Warnung kommt, während die Nachfrage nach privaten KI-Unternehmensanteilen steigt und Käufer Gefahr laufen, keine Aktionärsrechte oder keinen wirtschaftlichen Wert zu erhalten. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Anthropic et OpenAI alertent: des actions IA non autorisées pourraient ne rien valoir",
+        "excerpt": "Anthropic et OpenAI ont déclaré cette semaine qu’elles ne reconnaîtraient pas les montages d’actions via SPV non autorisés, avertissant les acheteurs d’offres privées liées aux startups IA.",
+        "body": "Anthropic et OpenAI ont mis en garde cette semaine contre des moyens non autorisés d’obtenir une exposition aux actions de startups d’IA. Les deux entreprises ont indiqué que les achats ou transferts d’actions réalisés via des véhicules ad hoc, ou SPV, peuvent être invalides sans approbation de la société et ne pas être reconnus dans ses registres. Anthropic a aussi cité certaines plateformes, dont Forge Global, comme n’étant pas autorisées à offrir un accès à ses actions. L’avertissement intervient alors que la demande pour les actions privées d’entreprises d’IA augmente, avec le risque que les acheteurs n’obtiennent ni droits d’actionnaire ni valeur économique. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "Anthropic وOpenAI تحذران: أسهم شركات الذكاء الاصطناعي غير المصرح بها قد تكون بلا قيمة",
+        "excerpt": "قالت Anthropic وOpenAI هذا الأسبوع إنهما لن تعترفا بترتيبات الأسهم غير المصرح بها عبر كيانات SPV، محذرتين المشترين من عروض أسهم شركات الذكاء الاصطناعي الخاصة.",
+        "body": "حذرت Anthropic وOpenAI هذا الأسبوع من طرق غير مصرح بها لشراء تعرض لأسهم شركات ناشئة في الذكاء الاصطناعي. وقالت الشركتان إن شراء أو نقل الأسهم عبر كيانات ذات غرض خاص، أو SPV، قد يكون غير صالح إذا لم يحصل على موافقة الشركة، وقد لا يتم الاعتراف به في سجلاتها. وذكرت Anthropic أيضا أسماء بعض المنصات، بما في ذلك Forge Global، باعتبارها غير مخولة بتقديم الوصول إلى أسهمها. يأتي التحذير مع تزايد الطلب على أسهم شركات الذكاء الاصطناعي الخاصة، ما يبرز خطر ألا يحصل المشترون على حقوق مساهمين أو قيمة اقتصادية. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Anthropic और OpenAI की चेतावनी: अनधिकृत AI स्टार्टअप शेयर बेकार हो सकते हैं",
+        "excerpt": "Anthropic और OpenAI ने इस सप्ताह कहा कि वे SPV आधारित अनधिकृत शेयर योजनाओं को मान्यता नहीं देंगी और निजी AI स्टार्टअप इक्विटी ऑफर पर खरीदारों को सावधान किया।",
+        "body": "Anthropic और OpenAI ने इस सप्ताह AI स्टार्टअप शेयरों में निवेश के अनधिकृत तरीकों पर चेतावनी दी। दोनों कंपनियों ने कहा कि विशेष उद्देश्य वाहन, यानी SPV, के जरिये शेयर खरीद या हस्तांतरण कंपनी की मंजूरी के बिना अमान्य हो सकता है और कंपनी के रिकॉर्ड में मान्य नहीं किया जा सकता। Anthropic ने Forge Global सहित कुछ प्लेटफॉर्मों के नाम भी बताए और कहा कि वे उसके शेयरों तक पहुंच देने के लिए अधिकृत नहीं हैं। निजी AI कंपनियों के शेयरों की मांग बढ़ने के बीच यह चेतावनी खरीदारों के लिए उस जोखिम को सामने लाती है कि उन्हें शेयरधारक अधिकार या आर्थिक मूल्य न मिले। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Anthropic dan OpenAI Peringatkan Saham AI Tanpa Izin Bisa Tak Bernilai",
+        "excerpt": "Anthropic dan OpenAI pekan ini menyatakan tidak akan mengakui skema saham berbasis SPV tanpa izin, memperingatkan pembeli agar berhati-hati terhadap penawaran ekuitas startup AI privat.",
+        "body": "Anthropic dan OpenAI pekan ini memperingatkan cara tidak resmi untuk membeli eksposur ke saham startup AI. Kedua perusahaan mengatakan pembelian atau pengalihan saham melalui special purpose vehicle, atau SPV, dapat dianggap tidak sah jika tidak disetujui perusahaan dan mungkin tidak diakui dalam catatan perusahaan. Anthropic juga menyebut sejumlah platform, termasuk Forge Global, sebagai pihak yang tidak berwenang menawarkan akses ke sahamnya. Peringatan ini muncul saat permintaan atas saham perusahaan AI privat meningkat, sehingga pembeli berisiko tidak memperoleh hak pemegang saham atau nilai ekonomi. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "72b217902e34",
+    "slug": "ethereum-developers-propose-fix-to-39blind-signing39-risk-ti-727215",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T23:38:44.877Z",
+    "updatedAt": "2026-05-12T23:38:44.877Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367646/ethereum-developers-propose-fix-blind-signing-risk-massive-losses",
+    "canonicalUrl": "https://decrypt.co/367646/ethereum-developers-propose-fix-blind-signing-risk-massive-losses",
+    "titleFingerprint": "71b358f4a07abf22ac572fa725065490f7f314a7",
+    "dedupKeys": [
+      "72b217902e34135fcc99eafd018b3f7285413e13",
+      "71b358f4a07abf22ac572fa725065490f7f314a7",
+      "b8dc73aae3bb409475f983c39d5bf10d8821c692"
+    ],
+    "imageUrl": "/images/articles/72b217902e34.png",
+    "i18n": {
+      "ko": {
+        "title": "이더리움 개발자들, 막대한 손실 부른 ‘블라인드 서명’ 위험 해법 제안",
+        "excerpt": "이더리움 개발자들이 잠재적으로 수십억 달러 손실을 초래한 ‘블라인드 서명’ 문제를 끝내기 위한 기술적 해법을 제안했다고 decrypt.co가 보도했다.",
+        "body": "이더리움 개발자들이 이용자가 거래 내용을 충분히 확인하지 못한 채 승인하는 ‘블라인드 서명’ 위험을 줄이기 위한 해결책을 제안했다. 이 제안은 블라인드 서명이라는 기술적 기능이 잠재적으로 수십억 달러 규모의 손실로 이어졌다는 문제의식에서 나왔다. 블라인드 서명은 사용자가 실제로 무엇에 서명하는지 명확히 알기 어려운 상황을 만들 수 있어, 크립토 지갑과 온체인 거래 보안에서 중요한 리스크로 지적돼 왔다. 개발자들의 제안이 적용되면 이더리움 이용자의 서명 과정은 더 투명해지고, 잘못된 승인으로 인한 피해를 줄이는 방향으로 개선될 수 있다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Ethereum Developers Propose Fix for ‘Blind Signing’ Risk Behind Heavy Losses",
+        "excerpt": "Ethereum developers proposed a technical fix to end ‘blind signing,’ a feature linked to potentially billions of dollars in losses, according to decrypt.co.",
+        "body": "Ethereum developers have proposed a solution aimed at reducing the risk of “blind signing,” where users approve transactions without being able to fully verify what they are signing. The proposal comes from concerns that this technical feature has led to potentially billions of dollars in losses. Blind signing can create situations in which users do not clearly understand the action they are authorizing, making it a major security issue for crypto wallets and on-chain transactions. If adopted, the proposed fix could make Ethereum signing processes more transparent and help reduce damage from mistaken approvals. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "Ethereum開発者、巨額損失につながる「ブラインド署名」リスク対策を提案",
+        "excerpt": "Ethereum開発者は、潜在的に数十億ドル規模の損失につながった「ブラインド署名」を終わらせる技術的解決策を提案したとdecrypt.coが報じた。",
+        "body": "Ethereum開発者は、ユーザーが取引内容を十分に確認できないまま承認する「ブラインド署名」のリスクを減らすための解決策を提案した。この提案は、ブラインド署名という技術的機能が潜在的に数十億ドル規模の損失につながったという問題意識から出ている。ブラインド署名は、ユーザーが実際に何へ署名しているのかを明確に把握しにくい状況を生み、暗号資産ウォレットやオンチェーン取引の安全性における重要なリスクとされてきた。提案が採用されれば、Ethereumの署名プロセスはより透明になり、誤った承認による被害を減らす方向へ改善される可能性がある。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "以太坊开发者提出方案，解决造成巨额损失的“盲签”风险",
+        "excerpt": "decrypt.co报道称，以太坊开发者提出一项技术解决方案，旨在终结与潜在数十亿美元损失相关的“盲签”问题。",
+        "body": "以太坊开发者提出了一项解决方案，旨在降低用户在无法充分确认交易内容时仍进行授权的“盲签”风险。该提案源于一种担忧：盲签这一技术功能已经导致潜在数十亿美元规模的损失。盲签可能让用户难以清楚了解自己实际签署的内容，因此一直被视为加密钱包和链上交易安全中的重要风险。如果该方案得到采用，以太坊用户的签名流程有望变得更加透明，并朝着减少错误授权所造成损害的方向改进。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Desarrolladores de Ethereum proponen solución al riesgo de ‘firma ciega’",
+        "excerpt": "Desarrolladores de Ethereum propusieron una solución técnica para terminar con la ‘firma ciega’, vinculada a pérdidas potenciales de miles de millones, según decrypt.co.",
+        "body": "Desarrolladores de Ethereum propusieron una solución para reducir el riesgo de la “firma ciega”, una situación en la que los usuarios aprueban transacciones sin poder verificar plenamente qué están firmando. La propuesta surge por la preocupación de que esta función técnica haya provocado pérdidas potenciales de miles de millones de dólares. La firma ciega puede hacer que los usuarios no entiendan con claridad la acción que autorizan, por lo que se ha señalado como un riesgo importante para las billeteras cripto y las transacciones on-chain. Si se adopta, la solución podría hacer más transparente el proceso de firma en Ethereum y ayudar a reducir daños por aprobaciones erróneas. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Desenvolvedores do Ethereum propõem correção para risco de ‘assinatura cega’",
+        "excerpt": "Desenvolvedores do Ethereum propuseram uma solução técnica para encerrar a ‘assinatura cega’, ligada a perdas potenciais de bilhões, segundo o decrypt.co.",
+        "body": "Desenvolvedores do Ethereum propuseram uma solução para reduzir o risco da “assinatura cega”, quando usuários aprovam transações sem conseguir verificar plenamente o que estão assinando. A proposta surge da preocupação de que esse recurso técnico tenha levado a perdas potencialmente bilionárias. A assinatura cega pode criar situações em que o usuário não entende claramente qual ação está autorizando, tornando-se um risco importante para carteiras cripto e transações on-chain. Se adotada, a correção pode tornar o processo de assinatura no Ethereum mais transparente e ajudar a reduzir danos causados por aprovações equivocadas. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Ethereum-Entwickler schlagen Lösung für Risiko durch ‘Blind Signing’ vor",
+        "excerpt": "Ethereum-Entwickler haben eine technische Lösung vorgeschlagen, um ‘Blind Signing’ zu beenden, das mit potenziell milliardenschweren Verlusten verbunden ist, berichtet decrypt.co.",
+        "body": "Ethereum-Entwickler haben eine Lösung vorgeschlagen, um das Risiko des „Blind Signing“ zu verringern, bei dem Nutzer Transaktionen genehmigen, ohne vollständig prüfen zu können, was sie unterschreiben. Der Vorschlag geht auf die Sorge zurück, dass diese technische Funktion potenziell Verluste in Milliardenhöhe verursacht hat. Blind Signing kann dazu führen, dass Nutzer nicht klar erkennen, welche Handlung sie autorisieren, und gilt daher als wichtiges Sicherheitsrisiko für Krypto-Wallets und On-Chain-Transaktionen. Wird die Lösung übernommen, könnte der Signaturprozess bei Ethereum transparenter werden und Schäden durch irrtümliche Genehmigungen verringern. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Ethereum : des développeurs proposent une solution au risque de ‘signature aveugle’",
+        "excerpt": "Des développeurs Ethereum ont proposé une solution technique pour mettre fin à la ‘signature aveugle’, liée à des pertes potentielles de plusieurs milliards, selon decrypt.co.",
+        "body": "Des développeurs Ethereum ont proposé une solution visant à réduire le risque de “signature aveugle”, lorsque des utilisateurs approuvent des transactions sans pouvoir vérifier pleinement ce qu’ils signent. Cette proposition répond à la crainte que cette fonction technique ait entraîné des pertes potentielles de plusieurs milliards de dollars. La signature aveugle peut créer des situations où l’utilisateur ne comprend pas clairement l’action qu’il autorise, ce qui en fait un risque majeur pour les portefeuilles crypto et les transactions on-chain. Si elle est adoptée, la solution pourrait rendre le processus de signature sur Ethereum plus transparent et réduire les dommages liés aux approbations erronées. Source : decrypt.co"
+      },
+      "ar": {
+        "title": "مطورو إيثريوم يقترحون حلا لمخاطر ‘التوقيع الأعمى’ وخسائره الضخمة",
+        "excerpt": "اقترح مطورو إيثريوم حلا تقنيا لإنهاء ‘التوقيع الأعمى’، وهي ميزة ارتبطت بخسائر محتملة بمليارات الدولارات، وفق ما نقل decrypt.co.",
+        "body": "اقترح مطورو إيثريوم حلا يهدف إلى تقليل مخاطر “التوقيع الأعمى”، حيث يوافق المستخدمون على معاملات من دون القدرة على التحقق الكامل مما يوقعون عليه. يأتي هذا الاقتراح انطلاقا من القلق من أن هذه الميزة التقنية أدت إلى خسائر محتملة بمليارات الدولارات. ويمكن للتوقيع الأعمى أن يخلق مواقف لا يفهم فيها المستخدم بوضوح الإجراء الذي يوافق عليه، ما يجعله خطرا مهما على محافظ العملات المشفرة والمعاملات على السلسلة. وإذا تم تبني الحل، فقد تصبح عملية التوقيع في إيثريوم أكثر شفافية، بما يساعد على تقليل الأضرار الناتجة عن الموافقات الخاطئة. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Ethereum डेवलपर्स ने ‘ब्लाइंड साइनिंग’ जोखिम के लिए समाधान प्रस्तावित किया",
+        "excerpt": "Ethereum डेवलपर्स ने ‘ब्लाइंड साइनिंग’ को खत्म करने के लिए तकनीकी समाधान प्रस्तावित किया, जो संभावित अरबों डॉलर के नुकसान से जुड़ा है, decrypt.co के अनुसार।",
+        "body": "Ethereum डेवलपर्स ने “ब्लाइंड साइनिंग” के जोखिम को घटाने के लिए एक समाधान प्रस्तावित किया है, जिसमें उपयोगकर्ता लेनदेन को पूरी तरह समझे बिना मंजूरी दे सकते हैं। यह प्रस्ताव इस चिंता से आया है कि यह तकनीकी सुविधा संभावित रूप से अरबों डॉलर के नुकसान का कारण बनी है। ब्लाइंड साइनिंग ऐसी स्थिति बना सकती है जिसमें उपयोगकर्ता साफ तौर पर नहीं जान पाता कि वह किस कार्रवाई को अधिकृत कर रहा है, इसलिए इसे क्रिप्टो वॉलेट और ऑन-चेन लेनदेन सुरक्षा के लिए अहम जोखिम माना गया है। यदि यह समाधान अपनाया जाता है, तो Ethereum में साइनिंग प्रक्रिया अधिक पारदर्शी हो सकती है और गलत मंजूरियों से होने वाले नुकसान को कम करने में मदद मिल सकती है। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Pengembang Ethereum Usulkan Solusi untuk Risiko ‘Blind Signing’",
+        "excerpt": "Pengembang Ethereum mengusulkan solusi teknis untuk mengakhiri ‘blind signing’, fitur yang dikaitkan dengan potensi kerugian miliaran dolar, menurut decrypt.co.",
+        "body": "Pengembang Ethereum mengusulkan solusi untuk mengurangi risiko “blind signing”, yaitu kondisi ketika pengguna menyetujui transaksi tanpa dapat memverifikasi sepenuhnya apa yang mereka tanda tangani. Usulan ini muncul dari kekhawatiran bahwa fitur teknis tersebut telah menyebabkan potensi kerugian bernilai miliaran dolar. Blind signing dapat membuat pengguna tidak memahami dengan jelas tindakan yang mereka otorisasi, sehingga menjadi risiko penting bagi dompet kripto dan transaksi on-chain. Jika diterapkan, solusi ini dapat membuat proses penandatanganan di Ethereum lebih transparan dan membantu mengurangi kerugian akibat persetujuan yang keliru. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "a208176fb7df",
+    "slug": "bermuda-to-transition-key-financial-services-to-stellar-bloc-344757",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T23:37:55.312Z",
+    "updatedAt": "2026-05-12T23:37:55.312Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/bermuda-financial-services-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/bermuda-financial-services-stellar",
+    "titleFingerprint": "a52c1d8400c409b1928d04658820b10223d63bdd",
+    "dedupKeys": [
+      "a208176fb7df15244af35803cf6ff0a940617e96",
+      "a52c1d8400c409b1928d04658820b10223d63bdd",
+      "c209c7ee022c74b9c99251f7b9b779e4b60c8aa3"
+    ],
+    "imageUrl": "/images/articles/a208176fb7df.jpg",
+    "i18n": {
+      "ko": {
+        "title": "버뮤다, 핵심 금융서비스 스텔라 블록체인 전환 추진",
+        "excerpt": "버뮤다 총리 데이비드 버트가 디지털자산 수용·투자와 온체인 금융서비스 등 스텔라 블록체인 기반 금융 전환 구상을 발표했다.",
+        "body": "버뮤다 총리 데이비드 버트는 섬나라 버뮤다가 핵심 금융서비스를 스텔라 블록체인으로 전환하는 방안을 추진한다고 밝혔다. 발표에는 디지털자산을 받아들이고 투자하는 계획, 온체인 금융서비스 도입 등 암호화폐 산업과의 거리를 좁히기 위한 여러 구상이 포함됐다. 버뮤다는 금융서비스를 주요 산업으로 삼는 국가로, 이번 조치는 블록체인 기반 인프라를 공공·금융 영역에 적용하려는 흐름과 맞닿아 있다. 다만 구체적인 전환 일정이나 적용 범위는 원문에서 제한적으로 공개됐다. 이번 발표가 실행되면 버뮤다는 디지털자산 활용과 온체인 금융서비스 확대를 통해 암호화폐 산업과의 연계를 강화할 수 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Bermuda Moves Key Financial Services Toward Stellar Blockchain",
+        "excerpt": "Bermuda Premier David Burt announced plans to accept and invest in digital assets and introduce on-chain financial services using Stellar.",
+        "body": "Bermuda Premier David Burt said the island nation is moving to transition key financial services to the Stellar blockchain. The announcement included several crypto-related initiatives aimed at bringing Bermuda closer to the industry, including accepting and investing in digital assets and introducing on-chain financial services. Bermuda is known for financial services as a major sector, and the move aligns with efforts to apply blockchain-based infrastructure to public and financial functions. However, the original report disclosed limited details on the timeline or scope of the transition. If implemented, the plan could strengthen Bermuda’s ties to the crypto industry through broader digital asset use and on-chain finance. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "バミューダ、主要金融サービスをステラ基盤へ移行推進",
+        "excerpt": "バミューダのデービッド・バート首相は、デジタル資産の受け入れ・投資とオンチェーン金融サービス導入を発表した。",
+        "body": "バミューダのデービッド・バート首相は、同国が主要金融サービスをステラ・ブロックチェーンへ移行する方針を進めると明らかにした。発表には、デジタル資産を受け入れて投資する計画や、オンチェーン金融サービスの導入など、暗号資産業界との距離を縮める複数の施策が含まれた。バミューダは金融サービスを主要産業とする国であり、今回の動きはブロックチェーン基盤のインフラを公共・金融分野に適用しようとする流れに沿うものだ。ただし、具体的な移行時期や適用範囲は原文で限定的に示された。実行されれば、デジタル資産活用とオンチェーン金融の拡大を通じて暗号資産業界との連携を強める可能性がある。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "百慕大推动关键金融服务迁移至 Stellar 区块链",
+        "excerpt": "百慕大总理 David Burt 宣布多项加密相关计划，包括接受和投资数字资产，并引入链上金融服务。",
+        "body": "百慕大总理 David Burt 表示，该岛国正推动将关键金融服务迁移至 Stellar 区块链。此次宣布包括多项与加密货币相关的举措，旨在让百慕大与行业更紧密相连，其中包括接受并投资数字资产，以及引入链上金融服务。百慕大以金融服务为主要产业之一，此举与将区块链基础设施应用于公共和金融领域的趋势相呼应。不过，原文对具体迁移时间表和适用范围披露有限。若计划落地，百慕大可通过扩大数字资产使用和链上金融服务，加强与加密货币行业的联系。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Bermuda llevará servicios financieros clave a Stellar blockchain",
+        "excerpt": "El primer ministro David Burt anunció iniciativas para aceptar e invertir en activos digitales e introducir servicios financieros on-chain en Bermuda.",
+        "body": "El primer ministro de Bermuda, David Burt, dijo que el país insular avanza hacia la transición de servicios financieros clave a la blockchain Stellar. El anuncio incluyó varias iniciativas vinculadas con cripto para acercar a Bermuda a la industria, entre ellas aceptar e invertir en activos digitales e introducir servicios financieros on-chain. Bermuda tiene los servicios financieros como un sector importante, y la medida se alinea con el uso de infraestructura basada en blockchain en áreas públicas y financieras. Sin embargo, el reporte original ofreció detalles limitados sobre el calendario y el alcance de la transición. Si se implementa, el plan podría reforzar los vínculos de Bermuda con la industria cripto mediante mayor uso de activos digitales y finanzas on-chain. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Bermuda levará serviços financeiros-chave à blockchain Stellar",
+        "excerpt": "O premiê David Burt anunciou iniciativas para aceitar e investir em ativos digitais e introduzir serviços financeiros on-chain em Bermuda.",
+        "body": "O premiê de Bermuda, David Burt, afirmou que o país insular avança para transferir serviços financeiros-chave para a blockchain Stellar. O anúncio incluiu várias iniciativas ligadas a cripto para aproximar Bermuda da indústria, incluindo aceitar e investir em ativos digitais e introduzir serviços financeiros on-chain. Bermuda tem serviços financeiros como um setor importante, e a medida se conecta ao uso de infraestrutura baseada em blockchain em áreas públicas e financeiras. No entanto, a reportagem original divulgou detalhes limitados sobre o cronograma e o escopo da transição. Se implementado, o plano pode fortalecer os laços de Bermuda com a indústria cripto por meio de maior uso de ativos digitais e finanças on-chain. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Bermuda will zentrale Finanzdienste auf Stellar-Blockchain verlagern",
+        "excerpt": "Premier David Burt kündigte Initiativen an, digitale Vermögenswerte zu akzeptieren, darin zu investieren und On-Chain-Finanzdienste einzuführen.",
+        "body": "Bermudas Premierminister David Burt erklärte, der Inselstaat wolle wichtige Finanzdienstleistungen auf die Stellar-Blockchain verlagern. Die Ankündigung umfasste mehrere kryptobezogene Initiativen, mit denen Bermuda näher an die Branche rücken soll, darunter die Annahme und Investition in digitale Vermögenswerte sowie die Einführung von On-Chain-Finanzdiensten. Finanzdienstleistungen sind ein wichtiger Sektor Bermudas, und der Schritt passt zum Einsatz blockchainbasierter Infrastruktur in öffentlichen und finanziellen Bereichen. Der ursprüngliche Bericht nannte jedoch nur begrenzte Details zu Zeitplan und Umfang der Umstellung. Bei Umsetzung könnte der Plan Bermudas Verbindung zur Kryptobranche durch breitere Nutzung digitaler Assets und On-Chain-Finanzdienste stärken. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Bermudes veut migrer des services financiers clés vers Stellar",
+        "excerpt": "Le Premier ministre David Burt a annoncé des initiatives pour accepter et investir dans les actifs numériques et lancer des services financiers on-chain.",
+        "body": "Le Premier ministre des Bermudes, David Burt, a déclaré que l’archipel avançait vers la migration de services financiers clés vers la blockchain Stellar. L’annonce comprend plusieurs initiatives liées aux cryptomonnaies afin de rapprocher les Bermudes du secteur, notamment l’acceptation et l’investissement dans les actifs numériques ainsi que l’introduction de services financiers on-chain. Les services financiers sont un secteur majeur aux Bermudes, et cette décision s’inscrit dans l’usage d’infrastructures blockchain dans les domaines public et financier. Le rapport original donne toutefois peu de détails sur le calendrier et le périmètre de la transition. Si le plan est mis en œuvre, il pourrait renforcer les liens des Bermudes avec l’industrie crypto grâce à un usage accru des actifs numériques et de la finance on-chain. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "برمودا تدفع خدمات مالية رئيسية نحو بلوكشين ستيلر",
+        "excerpt": "أعلن رئيس وزراء برمودا ديفيد بيرت مبادرات لقبول الأصول الرقمية والاستثمار فيها وإدخال خدمات مالية على السلسلة عبر ستيلر.",
+        "body": "قال رئيس وزراء برمودا ديفيد بيرت إن الدولة الجزرية تمضي نحو نقل خدمات مالية رئيسية إلى بلوكشين ستيلر. وشمل الإعلان عدة مبادرات مرتبطة بالعملات المشفرة تهدف إلى تقريب برمودا من القطاع، منها قبول الأصول الرقمية والاستثمار فيها وإدخال خدمات مالية على السلسلة. وتعد الخدمات المالية قطاعا مهما في برمودا، وتنسجم هذه الخطوة مع توجه استخدام البنية التحتية القائمة على البلوكشين في المجالات العامة والمالية. لكن التقرير الأصلي كشف تفاصيل محدودة بشأن الجدول الزمني أو نطاق الانتقال. وإذا نُفذت الخطة، فقد تعزز صلات برمودا بصناعة العملات المشفرة عبر توسيع استخدام الأصول الرقمية والتمويل على السلسلة. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "बरमूडा प्रमुख वित्तीय सेवाओं को Stellar ब्लॉकचेन पर ले जाएगा",
+        "excerpt": "बरमूडा के प्रीमियर डेविड बर्ट ने डिजिटल एसेट स्वीकारने, उनमें निवेश करने और ऑन-चेन वित्तीय सेवाएं लाने की योजनाएं बताईं।",
+        "body": "बरमूडा के प्रीमियर डेविड बर्ट ने कहा कि द्वीपीय देश अपनी प्रमुख वित्तीय सेवाओं को Stellar ब्लॉकचेन पर स्थानांतरित करने की दिशा में बढ़ रहा है। घोषणा में क्रिप्टो उद्योग से दूरी कम करने वाली कई पहल शामिल थीं, जिनमें डिजिटल एसेट स्वीकारना और उनमें निवेश करना, साथ ही ऑन-चेन वित्तीय सेवाएं शुरू करना शामिल है। बरमूडा में वित्तीय सेवाएं एक प्रमुख क्षेत्र हैं, और यह कदम सार्वजनिक व वित्तीय क्षेत्रों में ब्लॉकचेन आधारित अवसंरचना लागू करने की प्रवृत्ति से जुड़ा है। हालांकि मूल रिपोर्ट में बदलाव की समयसीमा और दायरे पर सीमित जानकारी दी गई। यदि योजना लागू होती है, तो डिजिटल एसेट उपयोग और ऑन-चेन वित्त के विस्तार से बरमूडा का क्रिप्टो उद्योग से संबंध मजबूत हो सकता है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Bermuda Dorong Layanan Keuangan Utama ke Blockchain Stellar",
+        "excerpt": "Premier Bermuda David Burt mengumumkan rencana menerima dan berinvestasi pada aset digital serta menghadirkan layanan keuangan on-chain.",
+        "body": "Premier Bermuda David Burt mengatakan negara kepulauan itu bergerak untuk mengalihkan layanan keuangan utama ke blockchain Stellar. Pengumuman tersebut mencakup beberapa inisiatif terkait kripto untuk mendekatkan Bermuda dengan industri, termasuk menerima dan berinvestasi pada aset digital serta menghadirkan layanan keuangan on-chain. Bermuda dikenal menjadikan layanan keuangan sebagai sektor utama, dan langkah ini sejalan dengan penerapan infrastruktur berbasis blockchain di ranah publik dan finansial. Namun, laporan asli hanya memuat rincian terbatas tentang jadwal atau cakupan transisi. Jika diterapkan, rencana ini dapat memperkuat hubungan Bermuda dengan industri kripto melalui perluasan penggunaan aset digital dan layanan keuangan on-chain. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "5fc4e91e113e",
     "slug": "bitcoin-miner-mara-sells-15-billion-in-btc-reports-126-billi-493971",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Galaxy Digital Kelola Dana Yield Onchain Sharplink Senilai US$125 Juta",
         "excerpt": "Galaxy Digital akan mengelola dana yield onchain baru yang didukung US$100 juta dari treasury ETH staking Sharplink dan US$25 juta dari Galaxy.",
         "body": "Galaxy Digital akan mengelola strategi yield onchain baru Sharplink senilai US$125 juta. Instrumen bernama Galaxy Sharplink Onchain Yield Fund itu akan menerima US$100 juta dari treasury ETH staking Sharplink dan US$25 juta dari Galaxy. Rencana ini diperkenalkan sebagai cara Sharplink memanfaatkan kepemilikan ETH yang di-staking untuk peluang yield onchain. Setelah angka pendanaan diungkap, perhatian pasar diperkirakan tertuju pada cara dana dikelola dan bagaimana modal dialokasikan. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "658169670394",
-    "slug": "mara-shares-sink-on-first-quarter-revenue-miss-13b-loss-929079",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T08:36:19.151Z",
-    "updatedAt": "2026-05-12T08:36:19.151Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/mara-shares-sink-on-q1-revenue-miss-1b-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/mara-shares-sink-on-q1-revenue-miss-1b-net-loss",
-    "titleFingerprint": "a26032e6479b6448247788574886f11968e14c66",
-    "dedupKeys": [
-      "658169670394048992f2939e1eb8aa100dff4dd3",
-      "a26032e6479b6448247788574886f11968e14c66",
-      "1b6948492a9956fb7373890ff2a315c5a517db8e"
-    ],
-    "imageUrl": "/images/articles/658169670394.jpg",
-    "i18n": {
-      "ko": {
-        "title": "MARA 주가, 1분기 매출 부진과 13억달러 손실에 하락",
-        "excerpt": "MARA Holdings는 1분기 매출이 기대에 못 미치고 13억달러 손실을 기록한 뒤 주가가 하락했으며, 비트코인 채굴을 기반으로 AI 확장을 추진한다고 밝혔다.",
-        "body": "MARA Holdings 주가는 1분기 실적에서 매출이 시장 기대에 미치지 못하고 13억달러 손실이 확인되면서 하락했다. 회사는 실적 부진 속에서도 비트코인 채굴이 여전히 ‘운영의 기반’이라고 설명했다. 동시에 MARA는 비트코인 채굴 사업을 중심축으로 유지하면서 인공지능(AI) 분야로 확장을 추진하고 있다고 밝혔다. 이번 발표는 채굴 기업들이 수익성 압박과 사업 다각화 요구를 동시에 마주하고 있음을 보여준다. 다만 회사는 AI 확장에도 비트코인 채굴을 핵심 사업으로 두겠다는 입장을 유지했다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "MARA Shares Fall After Q1 Revenue Miss and $1.3B Loss",
-        "excerpt": "MARA Holdings shares fell after first-quarter revenue missed expectations and the company reported a $1.3 billion loss while reaffirming Bitcoin mining as its operational foundation.",
-        "body": "MARA Holdings shares declined after the company reported first-quarter revenue that missed expectations and a $1.3 billion loss. Despite the weak results, the company said Bitcoin mining remains its “operational foundation.” MARA also said it is working to expand into artificial intelligence while keeping Bitcoin mining at the center of its business. The update highlights how mining companies are facing pressure on profitability while also looking for ways to diversify. Even as it moves into AI, MARA maintained that Bitcoin mining remains its core business. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "MARA株、1四半期売上未達と13億ドル損失で下落",
-        "excerpt": "MARA Holdingsは第1四半期の売上が期待を下回り13億ドルの損失を計上した後、株価が下落し、ビットコイン採掘を運営基盤と位置づけた。",
-        "body": "MARA Holdingsの株価は、第1四半期決算で売上が市場の期待に届かず、13億ドルの損失が確認されたことを受けて下落した。同社は業績不振の中でも、ビットコイン採掘が依然として「運営の基盤」だと説明した。MARAはビットコイン採掘事業を中心に据えつつ、人工知能（AI）分野への拡大も進めている。今回の発表は、採掘企業が収益性への圧力と事業多角化の必要性に同時に直面していることを示す。AIに進出しても、同社はビットコイン採掘を中核事業に置く姿勢を維持した。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "MARA股价因一季度营收不及预期和13亿美元亏损下跌",
-        "excerpt": "MARA Holdings一季度营收低于预期并录得13亿美元亏损后股价下跌，公司称比特币挖矿仍是运营基础，同时推进AI扩张。",
-        "body": "MARA Holdings股价在一季度业绩公布后下跌，原因是公司营收未达市场预期，并确认出现13亿美元亏损。尽管业绩承压，公司表示，比特币挖矿仍是其“运营基础”。与此同时，MARA称将在维持比特币挖矿业务核心地位的同时，推进向人工智能（AI）领域扩张。此次公告显示，挖矿企业正同时面对盈利压力和业务多元化需求。不过，即便进入AI领域，MARA仍保持将比特币挖矿作为核心业务的立场。来源：cointelegraph.com"
-      },
-      "es": {
-        "title": "Acciones de MARA caen por menor ingreso trimestral y pérdida de $1.300M",
-        "excerpt": "MARA Holdings cayó en bolsa tras incumplir expectativas de ingresos del primer trimestre y reportar una pérdida de $1.300 millones, mientras mantiene la minería de Bitcoin como base.",
-        "body": "Las acciones de MARA Holdings cayeron después de que la compañía reportara ingresos del primer trimestre por debajo de las expectativas y una pérdida de $1.300 millones. Pese a los resultados débiles, la empresa afirmó que la minería de Bitcoin sigue siendo su “base operativa”. MARA también indicó que busca expandirse hacia la inteligencia artificial, manteniendo la minería de Bitcoin como eje de su negocio. El anuncio muestra cómo las empresas mineras enfrentan presión sobre la rentabilidad y, al mismo tiempo, demandas de diversificación. Aun con su avance hacia la IA, MARA sostuvo que la minería de Bitcoin sigue siendo su negocio principal. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Ações da MARA caem após receita fraca no 1º tri e perda de US$ 1,3 bi",
-        "excerpt": "A MARA Holdings viu suas ações recuarem após receita do primeiro trimestre abaixo do esperado e perda de US$ 1,3 bilhão, mantendo a mineração de Bitcoin como base operacional.",
-        "body": "As ações da MARA Holdings caíram depois que a empresa divulgou receita do primeiro trimestre abaixo das expectativas e uma perda de US$ 1,3 bilhão. Mesmo diante do desempenho fraco, a companhia afirmou que a mineração de Bitcoin continua sendo sua “base operacional”. A MARA também disse que busca expandir para inteligência artificial, mantendo a mineração de Bitcoin como eixo do negócio. O anúncio mostra que empresas de mineração enfrentam pressão sobre a rentabilidade e, ao mesmo tempo, necessidade de diversificação. Ainda que avance em IA, a MARA manteve a mineração de Bitcoin como seu negócio principal. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "MARA-Aktie fällt nach Q1-Umsatzverfehlung und 1,3-Mrd.-Dollar-Verlust",
-        "excerpt": "MARA Holdings verlor an der Börse, nachdem der Umsatz im ersten Quartal die Erwartungen verfehlte und ein Verlust von 1,3 Milliarden Dollar gemeldet wurde.",
-        "body": "Die Aktie von MARA Holdings gab nach, nachdem das Unternehmen für das erste Quartal einen Umsatz unter den Erwartungen und einen Verlust von 1,3 Milliarden Dollar gemeldet hatte. Trotz der schwachen Zahlen erklärte MARA, dass Bitcoin-Mining weiterhin die „operative Grundlage“ des Unternehmens sei. Zugleich will MARA in den Bereich künstliche Intelligenz expandieren, während das Bitcoin-Mining im Zentrum des Geschäfts bleibt. Die Mitteilung zeigt, dass Mining-Unternehmen unter Rentabilitätsdruck stehen und zugleich eine stärkere Diversifizierung anstreben. Auch mit dem Schritt in Richtung KI hält MARA am Bitcoin-Mining als Kerngeschäft fest. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "L’action MARA chute après un revenu trimestriel décevant et 1,3 Md$ de perte",
-        "excerpt": "MARA Holdings a vu son action reculer après un chiffre d’affaires du premier trimestre inférieur aux attentes et une perte de 1,3 milliard de dollars.",
-        "body": "L’action de MARA Holdings a reculé après la publication de résultats du premier trimestre marqués par un chiffre d’affaires inférieur aux attentes et une perte de 1,3 milliard de dollars. Malgré cette contre-performance, l’entreprise a indiqué que le minage de Bitcoin reste sa “base opérationnelle”. MARA a aussi déclaré vouloir se développer dans l’intelligence artificielle tout en conservant le minage de Bitcoin au centre de son activité. Cette annonce montre que les sociétés de minage font face à une pression sur la rentabilité et à un besoin de diversification. Même avec l’IA, MARA maintient le minage de Bitcoin comme cœur de métier. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "سهم MARA يهبط بعد ضعف إيرادات الربع الأول وخسارة 1.3 مليار دولار",
-        "excerpt": "تراجع سهم MARA Holdings بعد إيرادات فصلية دون التوقعات وخسارة قدرها 1.3 مليار دولار، مع تأكيد الشركة أن تعدين بيتكوين يبقى أساس عملياتها.",
-        "body": "تراجع سهم MARA Holdings بعد إعلان نتائج الربع الأول، إذ جاءت الإيرادات دون التوقعات وسجلت الشركة خسارة قدرها 1.3 مليار دولار. ورغم ضعف النتائج، قالت الشركة إن تعدين بيتكوين لا يزال “الأساس التشغيلي” لها. كما أوضحت MARA أنها تعمل على التوسع في مجال الذكاء الاصطناعي مع الإبقاء على تعدين بيتكوين في مركز أعمالها. ويظهر هذا الإعلان أن شركات التعدين تواجه ضغطا على الربحية وفي الوقت نفسه حاجة إلى تنويع النشاط. ومع توجهها نحو الذكاء الاصطناعي، أبقت MARA على تعدين بيتكوين كعملها الأساسي. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "MARA शेयर Q1 राजस्व चूक और 1.3 अरब डॉलर घाटे के बाद फिसले",
-        "excerpt": "MARA Holdings के शेयर पहली तिमाही के राजस्व में कमी और 1.3 अरब डॉलर के घाटे के बाद गिरे, जबकि कंपनी ने बिटकॉइन माइनिंग को अपना परिचालन आधार बताया।",
-        "body": "MARA Holdings के शेयर पहली तिमाही के नतीजों के बाद गिर गए, क्योंकि कंपनी का राजस्व उम्मीदों से कम रहा और 1.3 अरब डॉलर का घाटा दर्ज हुआ। कमजोर नतीजों के बावजूद कंपनी ने कहा कि बिटकॉइन माइनिंग अभी भी उसका “परिचालन आधार” है। MARA ने यह भी बताया कि वह बिटकॉइन माइनिंग को कारोबार के केंद्र में रखते हुए कृत्रिम बुद्धिमत्ता (AI) क्षेत्र में विस्तार कर रही है। यह घोषणा दिखाती है कि माइनिंग कंपनियां लाभप्रदता के दबाव और कारोबार में विविधता की जरूरत, दोनों का सामना कर रही हैं। AI में कदम बढ़ाने के बावजूद MARA ने बिटकॉइन माइनिंग को मुख्य कारोबार बनाए रखा। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Saham MARA Turun Setelah Pendapatan Q1 Meleset dan Rugi US$1,3 Miliar",
-        "excerpt": "Saham MARA Holdings turun setelah pendapatan kuartal pertama meleset dari ekspektasi dan rugi US$1,3 miliar, sementara penambangan Bitcoin tetap jadi fondasi operasional.",
-        "body": "Saham MARA Holdings turun setelah perusahaan melaporkan pendapatan kuartal pertama yang tidak memenuhi ekspektasi dan kerugian sebesar US$1,3 miliar. Meski hasilnya lemah, perusahaan menyatakan bahwa penambangan Bitcoin tetap menjadi “fondasi operasional” mereka. MARA juga mengatakan sedang memperluas langkah ke bidang kecerdasan buatan, sambil mempertahankan penambangan Bitcoin sebagai pusat bisnis. Pengumuman ini menunjukkan bahwa perusahaan penambangan menghadapi tekanan profitabilitas sekaligus kebutuhan diversifikasi. Walau bergerak ke AI, MARA tetap menempatkan penambangan Bitcoin sebagai bisnis inti. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "b42a1ecf68f2",
-    "slug": "three-men-charged-in-us-over-crypto-wrench-attack-spree-270511",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T08:34:41.712Z",
-    "updatedAt": "2026-05-12T08:34:41.713Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/us-trio-charged-6-5m-crypto-wrench-attack-ring-los-angeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/us-trio-charged-6-5m-crypto-wrench-attack-ring-los-angeles",
-    "titleFingerprint": "f489afda35dcab98af5ec9dc47b080539f2833f2",
-    "dedupKeys": [
-      "b42a1ecf68f293807e0f50ca4711f436a6098b40",
-      "f489afda35dcab98af5ec9dc47b080539f2833f2",
-      "dcfcf68d0b3ef095798a9574e681f4bb691584ba"
-    ],
-    "imageUrl": "/images/articles/b42a1ecf68f2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미국 암호화폐 강도 사건, 배달원 위장 3명 기소",
-        "excerpt": "미국 검찰은 배달원으로 위장한 남성 3명이 주거지에 강제로 침입해 최소 650만 달러 상당의 암호화폐를 훔친 혐의로 기소됐다고 밝혔다.",
-        "body": "미국 검찰은 남성 3명이 배달원으로 위장해 여러 주거지에 강제로 들어간 뒤 최소 650만 달러 상당의 암호화폐를 훔친 혐의로 기소됐다고 밝혔다. 이번 사건은 이른바 ‘렌치 공격’ 방식의 연쇄 범행으로, 피해자의 디지털 자산을 노리고 오프라인 물리적 침입이 이뤄졌다는 점에서 주목된다. 검찰 발표에 따르면 피의자들은 배송 기사처럼 접근해 진입을 시도했고, 이후 주택 안에서 암호화폐 탈취를 강요한 것으로 전해졌다. 사건은 개인 지갑 보유자와 고액 암호화폐 보유자를 겨냥한 물리적 보안 위험을 다시 부각시켰다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "US Crypto Robbery Case: Three Charged Over Delivery Driver Ruse",
-        "excerpt": "US prosecutors said three men were charged after allegedly posing as delivery drivers, forcing entry into homes and stealing at least $6.5 million in crypto.",
-        "body": "US prosecutors said three men have been charged after allegedly posing as delivery drivers, forcing their way into homes and stealing at least $6.5 million in cryptocurrency. The case is described as a spree of so-called wrench attacks, drawing attention because the alleged targets were digital assets but the method involved physical home intrusions. According to prosecutors, the suspects approached victims as if making deliveries, gained or attempted entry, and then forced victims inside the homes to surrender crypto. The case again highlights the physical security risks facing private wallet holders and people believed to hold large amounts of cryptocurrency. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "米国の暗号資産強盗事件、配達員装った3人を起訴",
-        "excerpt": "米検察は、配達員を装った男3人が住宅に押し入り、少なくとも650万ドル相当の暗号資産を盗んだとして起訴されたと発表した。",
-        "body": "米国の検察当局は、男3人が配達員を装って複数の住宅に押し入り、少なくとも650万ドル相当の暗号資産を盗んだ疑いで起訴されたと明らかにした。今回の事件は、いわゆる「レンチ攻撃」と呼ばれる連続的な犯行として説明されており、狙われたのはデジタル資産でありながら、手口は住宅への物理的侵入だった点で注目される。検察によると、容疑者らは配送を装って被害者に接近し、住居内で暗号資産の引き渡しを強要したとされる。この事件は、個人ウォレット保有者や多額の暗号資産を持つとみられる人々の物理的な安全リスクを改めて浮き彫りにした。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "美国加密货币抢劫案：3人伪装快递员被起诉",
-        "excerpt": "美国检方称，3名男子涉嫌伪装成快递员强行闯入住宅，并盗取至少650万美元加密货币，目前已被起诉。",
-        "body": "美国检方表示，3名男子因涉嫌伪装成快递员、强行进入多处住宅并盗取至少650万美元加密货币而被起诉。该案被描述为一系列所谓“扳手攻击”，其受害目标是数字资产，但作案方式涉及线下住宅闯入，因此引发关注。根据检方说法，嫌疑人以送货为名接近受害者，随后进入或试图进入住宅，并在屋内迫使受害者交出加密货币。此案再次凸显个人钱包持有人以及被认为持有大量加密资产者面临的现实人身安全风险。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Robo cripto en EE. UU.: tres acusados por fingir ser repartidores",
-        "excerpt": "Fiscales de EE. UU. dijeron que tres hombres fueron acusados de hacerse pasar por repartidores, entrar por la fuerza en casas y robar al menos 6,5 millones de dólares en cripto.",
-        "body": "Fiscales de Estados Unidos dijeron que tres hombres fueron acusados de hacerse pasar por repartidores, forzar la entrada en viviendas y robar al menos 6,5 millones de dólares en criptomonedas. El caso se describe como una serie de ataques tipo “wrench attack”, en los que el objetivo eran activos digitales, pero el método implicó intrusiones físicas en hogares. Según la fiscalía, los sospechosos se acercaban a las víctimas como si realizaran entregas, entraban o intentaban entrar en las casas y luego obligaban a entregar cripto. El caso vuelve a subrayar los riesgos de seguridad física para quienes guardan billeteras privadas o se cree que poseen grandes cantidades de criptomonedas. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Roubo cripto nos EUA: três acusados por se passar por entregadores",
-        "excerpt": "Promotores dos EUA disseram que três homens foram acusados de se passar por entregadores, invadir casas e roubar ao menos US$ 6,5 milhões em criptomoedas.",
-        "body": "Promotores dos Estados Unidos disseram que três homens foram acusados de se passar por entregadores, forçar a entrada em residências e roubar pelo menos US$ 6,5 milhões em criptomoedas. O caso é descrito como uma série de chamados “wrench attacks”, chamando atenção porque os alvos eram ativos digitais, mas o método envolvia invasões físicas de casas. Segundo os promotores, os suspeitos abordavam as vítimas como se estivessem fazendo entregas, entravam ou tentavam entrar nas residências e então forçavam a entrega de cripto. O caso volta a destacar os riscos de segurança física para detentores de carteiras privadas e pessoas vistas como grandes possuidoras de criptomoedas. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Krypto-Raub in den USA: Drei Männer nach Lieferfahrer-Trick angeklagt",
-        "excerpt": "US-Staatsanwälte erklärten, drei Männer seien angeklagt worden, weil sie sich als Lieferfahrer ausgaben, in Häuser eindrangen und mindestens 6,5 Millionen US-Dollar in Krypto stahlen.",
-        "body": "US-Staatsanwälte erklärten, drei Männer seien angeklagt worden, nachdem sie sich mutmaßlich als Lieferfahrer ausgegeben, sich gewaltsam Zugang zu Wohnhäusern verschafft und Kryptowährungen im Wert von mindestens 6,5 Millionen US-Dollar gestohlen hatten. Der Fall wird als Serie sogenannter Wrench Attacks beschrieben. Bemerkenswert ist, dass digitale Vermögenswerte das Ziel waren, die Methode aber auf physische Einbrüche in Wohnungen setzte. Nach Angaben der Staatsanwaltschaft näherten sich die Verdächtigen den Opfern wie bei einer Lieferung, verschafften sich Zugang oder versuchten dies und zwangen die Opfer im Haus zur Herausgabe von Krypto. Der Fall macht erneut die physischen Sicherheitsrisiken für private Wallet-Inhaber und mutmaßlich vermögende Krypto-Besitzer deutlich. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Vol de crypto aux États-Unis : trois hommes accusés après une ruse de livreurs",
-        "excerpt": "Des procureurs américains ont déclaré que trois hommes ont été inculpés pour s’être fait passer pour des livreurs, être entrés de force dans des maisons et avoir volé au moins 6,5 millions de dollars en crypto.",
-        "body": "Des procureurs américains ont déclaré que trois hommes ont été inculpés après s’être prétendument fait passer pour des livreurs, avoir forcé l’entrée de domiciles et volé au moins 6,5 millions de dollars en cryptomonnaies. L’affaire est décrite comme une série de « wrench attacks », notable parce que les actifs visés étaient numériques alors que la méthode reposait sur des intrusions physiques dans des maisons. Selon l’accusation, les suspects approchaient les victimes comme s’ils effectuaient une livraison, entraient ou tentaient d’entrer, puis forçaient les victimes à remettre leurs cryptoactifs. L’affaire souligne à nouveau les risques de sécurité physique pour les détenteurs de portefeuilles privés et les personnes perçues comme possédant d’importants montants en crypto. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "سرقة عملات مشفرة في أمريكا: اتهام 3 رجال تنكروا كسائقي توصيل",
-        "excerpt": "قال ممثلو الادعاء في الولايات المتحدة إن ثلاثة رجال اتهموا بالتنكر كسائقي توصيل واقتحام منازل وسرقة ما لا يقل عن 6.5 مليون دولار من العملات المشفرة.",
-        "body": "قال ممثلو الادعاء في الولايات المتحدة إن ثلاثة رجال وُجهت إليهم اتهامات بعد الاشتباه في تنكرهم كسائقي توصيل، واقتحامهم منازل، وسرقة ما لا يقل عن 6.5 مليون دولار من العملات المشفرة. وتوصف القضية بأنها سلسلة من هجمات تعرف باسم “wrench attacks”، إذ كانت الأصول الرقمية هي الهدف، بينما اعتمد الأسلوب على اقتحام مادي للمنازل. ووفق الادعاء، اقترب المشتبه بهم من الضحايا كما لو كانوا ينفذون عمليات توصيل، ثم دخلوا أو حاولوا الدخول إلى المنازل وأجبروا الضحايا على تسليم العملات المشفرة. وتسلط القضية الضوء مجددا على مخاطر السلامة الجسدية التي تواجه حاملي المحافظ الخاصة ومن يعتقد أنهم يمتلكون كميات كبيرة من العملات المشفرة. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "अमेरिका में क्रिप्टो लूट: डिलीवरी ड्राइवर बनकर आए 3 पुरुषों पर आरोप",
-        "excerpt": "अमेरिकी अभियोजकों ने कहा कि तीन पुरुषों पर डिलीवरी ड्राइवर बनकर घरों में जबरन घुसने और कम से कम 65 लाख डॉलर की क्रिप्टो चोरी करने का आरोप लगाया गया है।",
-        "body": "अमेरिकी अभियोजकों ने कहा कि तीन पुरुषों पर डिलीवरी ड्राइवर बनकर घरों में जबरन घुसने और कम से कम 65 लाख डॉलर मूल्य की क्रिप्टोकरेंसी चोरी करने का आरोप लगाया गया है। इस मामले को कथित “wrench attack” की श्रृंखला बताया गया है, जिसमें निशाना डिजिटल संपत्ति थी, लेकिन तरीका घरों में भौतिक घुसपैठ का था। अभियोजकों के अनुसार, संदिग्ध पीड़ितों के पास डिलीवरी करने वालों की तरह पहुंचे, घर में घुसे या घुसने की कोशिश की और फिर अंदर क्रिप्टो सौंपने के लिए मजबूर किया। यह मामला निजी वॉलेट रखने वालों और बड़ी मात्रा में क्रिप्टो रखने वाले माने जाने वाले लोगों के लिए शारीरिक सुरक्षा जोखिमों को फिर उजागर करता है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Perampokan Kripto di AS: 3 Orang Didakwa Usai Menyamar Kurir",
-        "excerpt": "Jaksa AS mengatakan tiga pria didakwa karena diduga menyamar sebagai kurir, memaksa masuk ke rumah, dan mencuri setidaknya US$6,5 juta dalam bentuk kripto.",
-        "body": "Jaksa Amerika Serikat mengatakan tiga pria telah didakwa setelah diduga menyamar sebagai kurir, memaksa masuk ke sejumlah rumah, dan mencuri setidaknya US$6,5 juta dalam bentuk mata uang kripto. Kasus ini digambarkan sebagai rangkaian serangan yang disebut “wrench attack”, menarik perhatian karena targetnya adalah aset digital, tetapi caranya melibatkan pembobolan fisik ke rumah korban. Menurut jaksa, para tersangka mendekati korban seolah sedang mengantar paket, masuk atau mencoba masuk ke rumah, lalu memaksa korban menyerahkan kripto. Kasus ini kembali menyoroti risiko keamanan fisik bagi pemegang dompet pribadi dan orang yang diyakini memiliki kripto dalam jumlah besar. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "ccc405ad09d8",
-    "slug": "binance-says-ai-powered-security-thwarted-10b-in-fraud-since-619062",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T08:32:53.680Z",
-    "updatedAt": "2026-05-12T08:32:53.680Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/binance-ai-powered-security-stopped-10b-fraud-since-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/binance-ai-powered-security-stopped-10b-fraud-since-2025",
-    "titleFingerprint": "90310fb30c9a09ff2f3ba7aa0d17dc57c5e148e8",
-    "dedupKeys": [
-      "ccc405ad09d88ab92019da7a58df65d186538eb0",
-      "90310fb30c9a09ff2f3ba7aa0d17dc57c5e148e8",
-      "90274c1d0067f8b71dc42a3c61aa5617e190d373"
-    ],
-    "imageUrl": "/images/articles/ccc405ad09d8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "바이낸스 AI 보안, 2025년 이후 105억달러 사기 피해 막고 악성 주소 3만6000개 차단",
-        "excerpt": "바이낸스는 2025년 이후 AI 기반 보안 체계로 사용자 손실 105억3000만달러를 막고 악성 주소 3만6000개를 블랙리스트에 올렸다고 밝혔다.",
-        "body": "바이낸스는 2025년 이후 AI 기반 보안 시스템을 활용해 사용자 손실 105억3000만달러를 예방했다고 밝혔다. 회사는 사기와 관련된 악성 주소 3만6000개를 블랙리스트에 올렸으며, 현재 사기 통제 장치의 절반 이상에 AI가 적용되고 있다고 설명했다. 이번 발표는 암호화폐 거래소들이 사후 대응보다 사전 탐지와 차단에 더 많은 비중을 두는 흐름을 보여준다. AI가 위험 주소 식별과 이상 거래 감시에 활용되면서 사용자 보호 체계의 중심 역할이 커지고 있다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Binance AI Security Says It Blocked $10.53B in Fraud Losses Since 2025",
-        "excerpt": "Binance said its AI-powered security controls have prevented $10.53 billion in user losses since 2025 and blacklisted 36,000 malicious addresses.",
-        "body": "Binance said it has prevented $10.53 billion in user losses since 2025 by using AI-powered security systems. The exchange said it also blacklisted 36,000 malicious addresses tied to fraud, while AI now supports more than half of its fraud control measures. The disclosure shows how crypto exchanges are placing more emphasis on detecting and blocking threats before losses occur. As AI is used to identify risky addresses and monitor suspicious activity, it is becoming a central part of Binance’s user protection framework. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "バイナンスAI安全対策、2025年以降105.3億ドルの詐欺被害を阻止",
-        "excerpt": "バイナンスは、2025年以降にAI搭載のセキュリティで利用者損失105.3億ドルを防ぎ、悪質アドレス3万6000件をブラックリスト化したと述べた。",
-        "body": "バイナンスは、2025年以降にAIを活用したセキュリティシステムで利用者の損失105.3億ドルを防いだと明らかにした。同社は詐欺に関連する悪質アドレス3万6000件をブラックリストに登録し、現在は詐欺対策の半分以上にAIが使われていると説明している。今回の発表は、暗号資産取引所が事後対応よりも事前の検知と遮断を重視する流れを示すものだ。AIは危険なアドレスの特定や不審な取引の監視に使われ、利用者保護の中核になりつつある。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "币安AI安全系统称自2025年以来阻止105.3亿美元欺诈损失",
-        "excerpt": "币安表示，自2025年以来，其AI驱动的安全控制已防止用户损失105.3亿美元，并将3.6万个恶意地址列入黑名单。",
-        "body": "币安表示，自2025年以来，借助AI驱动的安全系统，已帮助用户避免105.3亿美元损失。该交易所称，还将3.6万个与欺诈相关的恶意地址列入黑名单，目前AI已支撑其一半以上的欺诈控制措施。这一披露显示，加密货币交易所正把更多重点放在损失发生前的风险识别和拦截上。随着AI被用于识别高风险地址和监测异常交易，其在用户保护体系中的作用正在扩大。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "Seguridad con IA de Binance afirma frenar $10.530M en fraude desde 2025",
-        "excerpt": "Binance dijo que sus controles de seguridad con IA evitaron desde 2025 pérdidas de usuarios por $10.530 millones y bloquearon 36.000 direcciones maliciosas.",
-        "body": "Binance afirmó que desde 2025 ha evitado $10.530 millones en pérdidas de usuarios mediante sistemas de seguridad impulsados por IA. El exchange dijo que también incluyó en una lista negra 36.000 direcciones maliciosas vinculadas a fraude, mientras que la IA ya respalda más de la mitad de sus controles antifraude. El anuncio muestra cómo los exchanges de criptomonedas dan más peso a detectar y bloquear amenazas antes de que se produzcan pérdidas. Al identificar direcciones de riesgo y vigilar actividad sospechosa, la IA gana un papel central en la protección de usuarios. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Segurança com IA da Binance diz barrar US$10,53 bi em fraudes desde 2025",
-        "excerpt": "A Binance disse que seus controles de segurança com IA evitaram US$10,53 bilhões em perdas de usuários desde 2025 e bloquearam 36.000 endereços maliciosos.",
-        "body": "A Binance afirmou que, desde 2025, evitou US$10,53 bilhões em perdas de usuários usando sistemas de segurança baseados em IA. A exchange disse que também colocou 36.000 endereços maliciosos ligados a fraudes em uma lista negra, enquanto a IA já sustenta mais da metade de seus controles antifraude. O anúncio mostra como exchanges de criptomoedas estão dando mais peso à detecção e ao bloqueio de ameaças antes que perdas ocorram. Ao identificar endereços de risco e monitorar atividades suspeitas, a IA ganha papel central na proteção dos usuários. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Binance-KI-Sicherheit soll seit 2025 Betrug über 10,53 Mrd. USD gestoppt haben",
-        "excerpt": "Binance erklärte, KI-gestützte Sicherheitskontrollen hätten seit 2025 Nutzerverluste von 10,53 Mrd. USD verhindert und 36.000 bösartige Adressen gesperrt.",
-        "body": "Binance erklärte, seit 2025 durch KI-gestützte Sicherheitssysteme Nutzerverluste von 10,53 Milliarden US-Dollar verhindert zu haben. Die Börse gab außerdem an, 36.000 mit Betrug verbundene bösartige Adressen auf eine schwarze Liste gesetzt zu haben; KI stütze inzwischen mehr als die Hälfte der Betrugskontrollen. Die Mitteilung zeigt, dass Kryptobörsen stärker auf Erkennung und Blockierung setzen, bevor Verluste entstehen. Wenn KI riskante Adressen identifiziert und verdächtige Aktivitäten überwacht, wird sie zu einem zentralen Bestandteil des Nutzerschutzes. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "La sécurité IA de Binance dit avoir bloqué 10,53 Md$ de fraude depuis 2025",
-        "excerpt": "Binance affirme que ses contrôles de sécurité alimentés par l’IA ont évité 10,53 milliards de dollars de pertes depuis 2025 et bloqué 36.000 adresses malveillantes.",
-        "body": "Binance a déclaré avoir évité 10,53 milliards de dollars de pertes pour les utilisateurs depuis 2025 grâce à des systèmes de sécurité alimentés par l’IA. La plateforme dit aussi avoir placé sur liste noire 36.000 adresses malveillantes liées à la fraude, tandis que l’IA soutient désormais plus de la moitié de ses contrôles antifraude. Cette annonce montre que les plateformes crypto accordent davantage d’importance à la détection et au blocage des menaces avant que les pertes ne surviennent. En identifiant les adresses à risque et en surveillant les activités suspectes, l’IA prend une place centrale dans la protection des utilisateurs. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "أمن بينانس المدعوم بالذكاء الاصطناعي يوقف احتيالا بقيمة 10.53 مليار دولار منذ 2025",
-        "excerpt": "قالت بينانس إن ضوابطها الأمنية المدعومة بالذكاء الاصطناعي منعت منذ 2025 خسائر للمستخدمين بقيمة 10.53 مليار دولار وأدرجت 36 ألف عنوان خبيث في القائمة السوداء.",
-        "body": "قالت بينانس إنها منعت منذ عام 2025 خسائر للمستخدمين بقيمة 10.53 مليار دولار عبر أنظمة أمنية مدعومة بالذكاء الاصطناعي. وأضافت المنصة أنها أدرجت 36 ألف عنوان خبيث مرتبط بالاحتيال في القائمة السوداء، وأن الذكاء الاصطناعي يشغل الآن أكثر من نصف ضوابط مكافحة الاحتيال لديها. ويظهر الإعلان أن منصات العملات المشفرة تركز أكثر على اكتشاف التهديدات وحظرها قبل وقوع الخسائر. ومع استخدام الذكاء الاصطناعي لتحديد العناوين عالية المخاطر ومراقبة النشاط المشبوه، يتزايد دوره في حماية المستخدمين. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Binance की AI सुरक्षा ने 2025 से $10.53 अरब की धोखाधड़ी हानि रोकी",
-        "excerpt": "Binance ने कहा कि 2025 से उसके AI आधारित सुरक्षा नियंत्रणों ने उपयोगकर्ताओं की $10.53 अरब की संभावित हानि रोकी और 36,000 दुर्भावनापूर्ण पतों को ब्लैकलिस्ट किया।",
-        "body": "Binance ने कहा कि उसने 2025 से AI आधारित सुरक्षा प्रणालियों के जरिए उपयोगकर्ताओं की $10.53 अरब की संभावित हानि रोकी है। एक्सचेंज ने बताया कि उसने धोखाधड़ी से जुड़े 36,000 दुर्भावनापूर्ण पतों को ब्लैकलिस्ट किया है, और अब उसके आधे से अधिक फ्रॉड नियंत्रणों में AI का उपयोग हो रहा है। यह जानकारी दिखाती है कि क्रिप्टो एक्सचेंज नुकसान होने के बाद प्रतिक्रिया देने के बजाय पहले से पहचान और रोकथाम पर अधिक ध्यान दे रहे हैं। जोखिम भरे पतों की पहचान और संदिग्ध गतिविधि की निगरानी में AI की भूमिका उपयोगकर्ता सुरक्षा में बढ़ रही है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Keamanan AI Binance Klaim Cegah Kerugian Penipuan $10,53 Miliar Sejak 2025",
-        "excerpt": "Binance mengatakan kontrol keamanan berbasis AI telah mencegah kerugian pengguna senilai $10,53 miliar sejak 2025 dan memasukkan 36.000 alamat berbahaya ke daftar hitam.",
-        "body": "Binance mengatakan telah mencegah kerugian pengguna senilai $10,53 miliar sejak 2025 melalui sistem keamanan berbasis AI. Bursa itu juga menyatakan telah memasukkan 36.000 alamat berbahaya terkait penipuan ke daftar hitam, sementara AI kini mendukung lebih dari separuh kontrol antifraudnya. Pengungkapan ini menunjukkan bahwa bursa kripto semakin menekankan deteksi dan pemblokiran ancaman sebelum kerugian terjadi. Dengan digunakan untuk mengenali alamat berisiko dan memantau aktivitas mencurigakan, AI menjadi bagian penting dari perlindungan pengguna. Sumber: cointelegraph.com."
       }
     }
   }
