@@ -1,5 +1,230 @@
 [
   {
+    "id": "5fc4e91e113e",
+    "slug": "bitcoin-miner-mara-sells-15-billion-in-btc-reports-126-billi-493971",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T23:10:40.538Z",
+    "updatedAt": "2026-05-12T23:10:40.538Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367650/bitcoin-miner-mara-sells-1-5-billion-btc-q1-loss",
+    "canonicalUrl": "https://decrypt.co/367650/bitcoin-miner-mara-sells-1-5-billion-btc-q1-loss",
+    "titleFingerprint": "533774471182c170106a9999826a91f8ea73a50c",
+    "dedupKeys": [
+      "5fc4e91e113e4580ddb59397ca9ca5fd141148ec",
+      "533774471182c170106a9999826a91f8ea73a50c",
+      "218be3442313370aa3f5d630ae353903b2964aaf"
+    ],
+    "imageUrl": "/images/articles/5fc4e91e113e.png",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 채굴사 MARA, BTC 15억달러 매각·1분기 대규모 손실",
+        "excerpt": "비트코인 채굴사 MARA는 1분기 12억6000만달러 손실을 보고하고, 부채 매입과 발전소 인수를 위해 15억달러 규모의 BTC 보유분을 매각했다.",
+        "body": "비트코인 채굴사 MARA가 1분기 실적에서 12억6000만달러 손실을 보고하고, 보유 중이던 비트코인 15억달러어치를 매각했다고 decrypt.co가 전했다. 이번 BTC 처분은 부채 매입 자금 마련과 발전소 인수에 쓰기 위한 조치로 설명됐다. MARA의 결정은 비트코인 채굴 업계가 전력 자산과 인프라를 활용해 AI 인프라 영역으로 이동하는 흐름 속에서 나왔다. 대규모 손실과 보유 BTC 매각은 채굴 기업의 자본 운용 방식이 바뀌고 있음을 보여준다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Bitcoin Miner MARA Sells $1.5B in BTC, Posts Major Q1 Loss",
+        "excerpt": "Bitcoin miner MARA reported a $1.26 billion Q1 loss and sold $1.5 billion in BTC holdings to fund debt buybacks and acquire a power plant.",
+        "body": "Bitcoin miner MARA reported a $1.26 billion loss for the first quarter and sold $1.5 billion worth of Bitcoin holdings, according to decrypt.co. The BTC liquidation was described as a move to fund debt buybacks and the acquisition of a power plant. MARA’s decision comes as the Bitcoin mining industry shifts toward AI infrastructure by using power assets and infrastructure. The large loss and sale of BTC holdings show how capital strategies among mining companies are changing. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "ビットコイン採掘MARA、BTC15億ドル売却し第1四半期に巨額損失",
+        "excerpt": "ビットコイン採掘企業MARAは第1四半期に12.6億ドルの損失を報告し、債務買い戻しと発電所取得の資金として15億ドル相当のBTCを売却した。",
+        "body": "ビットコイン採掘企業MARAは第1四半期決算で12.6億ドルの損失を報告し、保有していたビットコイン15億ドル相当を売却したとdecrypt.coが伝えた。今回のBTC処分は、債務買い戻し資金と発電所取得に充てるための措置と説明されている。MARAの判断は、ビットコイン採掘業界が電力資産とインフラを活用し、AIインフラ分野へ移行する流れの中で出てきた。巨額損失と保有BTCの売却は、採掘企業の資本運用が変化していることを示している。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "比特币矿企MARA出售15亿美元BTC，一季度录得巨额亏损",
+        "excerpt": "比特币矿企MARA公布一季度亏损12.6亿美元，并出售15亿美元BTC持仓，用于债务回购及收购一座发电厂。",
+        "body": "据decrypt.co报道，比特币矿企MARA在一季度业绩中报告亏损12.6亿美元，并出售了价值15亿美元的比特币持仓。此次BTC处置被说明为用于筹集债务回购资金以及收购一座发电厂。MARA的决定出现在比特币挖矿行业利用电力资产和基础设施转向AI基础设施的趋势之中。巨额亏损和出售所持BTC显示，矿企的资本运作方式正在发生变化。来源：decrypt.co"
+      },
+      "es": {
+        "title": "Minera Bitcoin MARA vende $1.500M en BTC y registra fuerte pérdida en Q1",
+        "excerpt": "La minera Bitcoin MARA reportó una pérdida de $1.260 millones en el primer trimestre y vendió $1.500 millones en BTC para recompras de deuda y una planta eléctrica.",
+        "body": "La minera Bitcoin MARA reportó una pérdida de $1.260 millones en el primer trimestre y vendió tenencias de Bitcoin por $1.500 millones, según decrypt.co. La liquidación de BTC fue explicada como una medida para financiar recompras de deuda y la adquisición de una planta eléctrica. La decisión de MARA llega mientras la industria minera de Bitcoin usa activos e infraestructura energética para desplazarse hacia la infraestructura de IA. La gran pérdida y la venta de BTC muestran cambios en la gestión de capital de las mineras. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Mineradora Bitcoin MARA vende US$1,5 bi em BTC e tem grande perda no 1º tri",
+        "excerpt": "A mineradora Bitcoin MARA reportou prejuízo de US$1,26 bilhão no 1º trimestre e vendeu US$1,5 bilhão em BTC para recomprar dívida e adquirir uma usina.",
+        "body": "A mineradora Bitcoin MARA reportou prejuízo de US$1,26 bilhão no primeiro trimestre e vendeu US$1,5 bilhão em Bitcoin que mantinha em caixa, segundo o decrypt.co. A liquidação de BTC foi descrita como uma medida para financiar recompras de dívida e a aquisição de uma usina. A decisão da MARA ocorre enquanto o setor de mineração de Bitcoin usa ativos de energia e infraestrutura para migrar para a área de infraestrutura de IA. O grande prejuízo e a venda de BTC mostram mudanças na forma como mineradoras administram capital. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Bitcoin-Miner MARA verkauft BTC für 1,5 Mrd. Dollar und meldet Q1-Verlust",
+        "excerpt": "Bitcoin-Miner MARA meldete im ersten Quartal einen Verlust von 1,26 Mrd. Dollar und verkaufte BTC im Wert von 1,5 Mrd. Dollar für Schuldenrückkäufe und ein Kraftwerk.",
+        "body": "Bitcoin-Miner MARA meldete für das erste Quartal einen Verlust von 1,26 Milliarden Dollar und verkaufte Bitcoin-Bestände im Wert von 1,5 Milliarden Dollar, wie decrypt.co berichtete. Die BTC-Veräußerung wurde als Schritt zur Finanzierung von Schuldenrückkäufen und zur Übernahme eines Kraftwerks beschrieben. MARAs Entscheidung fällt in eine Phase, in der die Bitcoin-Mining-Branche Stromanlagen und Infrastruktur nutzt, um sich in Richtung KI-Infrastruktur zu bewegen. Der hohe Verlust und der BTC-Verkauf zeigen Veränderungen in der Kapitalsteuerung von Minern. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Le mineur Bitcoin MARA vend 1,5 Md$ de BTC et affiche une lourde perte au T1",
+        "excerpt": "Le mineur Bitcoin MARA a déclaré une perte de 1,26 Md$ au premier trimestre et vendu 1,5 Md$ de BTC pour racheter de la dette et acquérir une centrale électrique.",
+        "body": "Le mineur Bitcoin MARA a déclaré une perte de 1,26 milliard de dollars au premier trimestre et vendu 1,5 milliard de dollars de réserves en Bitcoin, selon decrypt.co. Cette liquidation de BTC a été présentée comme une mesure destinée à financer des rachats de dette et l’acquisition d’une centrale électrique. La décision de MARA intervient alors que le secteur du minage de Bitcoin utilise ses actifs énergétiques et ses infrastructures pour se tourner vers l’infrastructure d’IA. La lourde perte et la vente de BTC montrent l’évolution de la gestion du capital des mineurs. Source : decrypt.co"
+      },
+      "ar": {
+        "title": "شركة تعدين بيتكوين MARA تبيع BTC بقيمة 1.5 مليار دولار وتسجل خسارة كبيرة",
+        "excerpt": "أعلنت شركة تعدين بيتكوين MARA خسارة قدرها 1.26 مليار دولار في الربع الأول، وباعت حيازات BTC بقيمة 1.5 مليار دولار لتمويل إعادة شراء ديون والاستحواذ على محطة كهرباء.",
+        "body": "أعلنت شركة تعدين بيتكوين MARA خسارة قدرها 1.26 مليار دولار في نتائج الربع الأول، وباعت حيازات من بيتكوين بقيمة 1.5 مليار دولار، وفق decrypt.co. ووصفت عملية تسييل BTC بأنها خطوة لتمويل إعادة شراء الديون والاستحواذ على محطة كهرباء. يأتي قرار MARA في وقت يتجه فيه قطاع تعدين بيتكوين إلى استخدام أصول الطاقة والبنية التحتية للانتقال نحو بنية الذكاء الاصطناعي التحتية. وتظهر الخسارة الكبيرة وبيع حيازات BTC تغيرا في طريقة إدارة رأس المال لدى شركات التعدين. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Bitcoin माइनर MARA ने $1.5 अरब BTC बेचे, Q1 में बड़ा घाटा दर्ज",
+        "excerpt": "Bitcoin माइनर MARA ने पहली तिमाही में $1.26 अरब का घाटा बताया और कर्ज बायबैक तथा पावर प्लांट अधिग्रहण के लिए $1.5 अरब की BTC होल्डिंग बेची।",
+        "body": "Bitcoin माइनर MARA ने पहली तिमाही के नतीजों में $1.26 अरब का घाटा दर्ज किया और अपनी $1.5 अरब मूल्य की Bitcoin होल्डिंग बेच दी, decrypt.co के अनुसार। BTC की यह बिक्री कर्ज बायबैक के लिए धन जुटाने और एक पावर प्लांट खरीदने के कदम के रूप में बताई गई। MARA का फैसला ऐसे समय आया है जब Bitcoin माइनिंग उद्योग बिजली परिसंपत्तियों और इन्फ्रास्ट्रक्चर का उपयोग कर AI इन्फ्रास्ट्रक्चर की ओर बढ़ रहा है। बड़ा घाटा और BTC बिक्री दिखाते हैं कि माइनिंग कंपनियों की पूंजी प्रबंधन रणनीति बदल रही है। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Penambang Bitcoin MARA Jual BTC $1,5 Miliar, Catat Rugi Besar Q1",
+        "excerpt": "Penambang Bitcoin MARA melaporkan rugi $1,26 miliar pada kuartal I dan menjual kepemilikan BTC senilai $1,5 miliar untuk buyback utang serta akuisisi pembangkit listrik.",
+        "body": "Penambang Bitcoin MARA melaporkan rugi $1,26 miliar pada kuartal pertama dan menjual kepemilikan Bitcoin senilai $1,5 miliar, menurut decrypt.co. Likuidasi BTC itu dijelaskan sebagai langkah untuk mendanai buyback utang dan akuisisi sebuah pembangkit listrik. Keputusan MARA muncul saat industri penambangan Bitcoin memanfaatkan aset listrik dan infrastruktur untuk bergerak ke ranah infrastruktur AI. Kerugian besar dan penjualan BTC menunjukkan perubahan cara perusahaan tambang mengelola modal. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "20e4fdc187a5",
+    "slug": "android-is-about-to-get-a-lot-smarter-with-google-ai-boostsh-646467",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T23:09:47.973Z",
+    "updatedAt": "2026-05-12T23:09:47.973Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367648/android-smarter-google-ai-boosts-heres-how",
+    "canonicalUrl": "https://decrypt.co/367648/android-smarter-google-ai-boosts-heres-how",
+    "titleFingerprint": "747ba8e183e462ef82184660fd0b6d3048c0d0ff",
+    "dedupKeys": [
+      "20e4fdc187a523e6c97e693825df8f86d985be6b",
+      "747ba8e183e462ef82184660fd0b6d3048c0d0ff",
+      "ec4bf9cb92e347aad781becd678c7f52358d44d0"
+    ],
+    "imageUrl": "/images/articles/20e4fdc187a5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "구글 Gemini Intelligence, 안드로이드를 능동형 AI 비서로 바꾸는 새 AI 업데이트",
+        "excerpt": "구글은 Android 기기를 사용자의 요청을 기다리는 도구가 아니라 먼저 돕는 AI 비서로 바꾸기 위해 Gemini Intelligence 기능군을 공개했다고 decrypt.co가 보도했다.",
+        "body": "구글이 Android 기기를 더 똑똑한 AI 기기로 만들기 위해 Gemini Intelligence를 공개했다. decrypt.co에 따르면 이 기능군은 Android 스마트폰과 기기가 단순히 명령에 반응하는 수준을 넘어, 사용자를 능동적으로 돕는 AI 비서처럼 작동하도록 설계됐다. 배경에는 Gemini를 중심으로 모바일 운영체제 전반에 AI 기능을 넓히려는 구글의 흐름이 있다. 구체적인 세부 기능이나 출시 일정은 원문 요약에 제시되지 않았지만, 핵심은 Android 경험을 더 예측적이고 보조적인 방향으로 바꾸는 것이다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Google Gemini Intelligence Turns Android Into a Proactive AI Assistant",
+        "excerpt": "Google has introduced Gemini Intelligence, a feature suite designed to make Android devices proactive AI assistants instead of tools that simply wait for user commands, decrypt.co reported.",
+        "body": "Google has unveiled Gemini Intelligence to make Android devices smarter through AI. According to decrypt.co, the feature suite is designed to move Android phones and devices beyond simple command response and toward a proactive assistant role that can help users more directly. The context is Google’s broader push to bring Gemini-centered AI capabilities deeper into the mobile operating system. The source summary does not provide specific feature details or a rollout timetable, but the central point is a shift in the Android experience toward more predictive and supportive AI assistance. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "Google Gemini Intelligence、Androidを能動型AIアシスタントへ進化",
+        "excerpt": "Googleは、Android端末を単に指示を待つ道具ではなく、先回りして支援するAIアシスタントに変えるGemini Intelligence機能群を発表したとdecrypt.coが報じた。",
+        "body": "Googleは、Android端末をより賢いAIデバイスにするため、Gemini Intelligenceを発表した。decrypt.coによると、この機能群はAndroidスマートフォンや端末を、単に命令に反応する段階から、ユーザーを能動的に支援するAIアシスタントのような存在へ移行させることを狙っている。背景には、Geminiを中心としたAI機能をモバイルOS全体へ広げようとするGoogleの流れがある。原文の要約では具体的な機能詳細や提供時期は示されていないが、要点はAndroid体験をより予測的で補助的な方向へ変えることにある。出典: decrypt.co."
+      },
+      "zh": {
+        "title": "Google Gemini Intelligence让Android迈向主动式AI助手体验",
+        "excerpt": "据decrypt.co报道，Google推出Gemini Intelligence功能套件，目标是让Android设备不再只是等待指令的工具，而是能主动协助用户的AI助手。",
+        "body": "Google推出Gemini Intelligence，意在通过AI让Android设备变得更智能。据decrypt.co报道，这一功能套件旨在让Android手机和设备超越单纯响应命令的模式，转向像主动式AI助手一样为用户提供帮助。其背景是Google围绕Gemini，将AI能力进一步扩展到移动操作系统中的趋势。原文摘要未给出具体功能细节或推出时间表，但核心信息是Android体验将朝着更具预测性和辅助性的AI方向变化。来源: decrypt.co."
+      },
+      "es": {
+        "title": "Google Gemini Intelligence convierte Android en un asistente de IA proactivo",
+        "excerpt": "Google presentó Gemini Intelligence, un conjunto de funciones pensado para que los dispositivos Android dejen de limitarse a esperar órdenes y actúen como asistentes de IA proactivos, informó decrypt.co.",
+        "body": "Google presentó Gemini Intelligence para hacer que los dispositivos Android sean más inteligentes mediante IA. Según decrypt.co, este conjunto de funciones busca que los teléfonos y equipos Android vayan más allá de responder comandos y funcionen como asistentes de IA capaces de ayudar al usuario de forma proactiva. El contexto es el esfuerzo de Google por llevar capacidades de IA centradas en Gemini a una parte más amplia del sistema operativo móvil. El resumen original no ofrece detalles concretos de funciones ni un calendario de lanzamiento, pero el punto central es cambiar la experiencia Android hacia una asistencia más predictiva y útil. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Google Gemini Intelligence transforma Android em assistente de IA proativo",
+        "excerpt": "O Google apresentou o Gemini Intelligence, um pacote de recursos criado para transformar dispositivos Android em assistentes de IA proativos, em vez de ferramentas que apenas aguardam comandos, informou o decrypt.co.",
+        "body": "O Google apresentou o Gemini Intelligence para tornar os dispositivos Android mais inteligentes com IA. Segundo o decrypt.co, o pacote de recursos foi criado para levar celulares e aparelhos Android além da simples resposta a comandos, aproximando-os de um assistente de IA que ajuda o usuário de forma proativa. O contexto é o movimento do Google para ampliar, com base no Gemini, as capacidades de IA dentro do sistema operacional móvel. O resumo original não informa detalhes específicos de recursos nem um cronograma de lançamento, mas o ponto central é mudar a experiência Android para uma assistência mais preditiva e útil. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Google Gemini Intelligence macht Android zum proaktiven KI-Assistenten",
+        "excerpt": "Google hat Gemini Intelligence vorgestellt, ein Funktionspaket, das Android-Geräte laut decrypt.co von reinen Befehlsempfängern zu proaktiven KI-Assistenten machen soll.",
+        "body": "Google hat Gemini Intelligence vorgestellt, um Android-Geräte durch KI intelligenter zu machen. Laut decrypt.co soll das Funktionspaket Android-Smartphones und -Geräte über das bloße Reagieren auf Befehle hinausführen und sie stärker wie proaktive KI-Assistenten arbeiten lassen. Hintergrund ist Googles Bestreben, Gemini-zentrierte KI-Funktionen tiefer in das mobile Betriebssystem zu integrieren. Die Zusammenfassung der Quelle nennt keine konkreten Einzelfunktionen und keinen Zeitplan für die Einführung, doch der Kern ist eine Android-Erfahrung, die stärker vorausschauend und unterstützend wirkt. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Google Gemini Intelligence transforme Android en assistant IA proactif",
+        "excerpt": "Google a présenté Gemini Intelligence, une suite de fonctions destinée à faire des appareils Android des assistants IA proactifs plutôt que de simples outils en attente d’ordres, selon decrypt.co.",
+        "body": "Google a dévoilé Gemini Intelligence afin de rendre les appareils Android plus intelligents grâce à l’IA. Selon decrypt.co, cette suite de fonctions vise à faire passer les téléphones et appareils Android d’une simple réponse aux commandes à un rôle d’assistant IA capable d’aider l’utilisateur de manière proactive. Le contexte est la volonté de Google d’étendre les capacités d’IA centrées sur Gemini au sein du système d’exploitation mobile. Le résumé original ne donne pas de détails précis sur les fonctions ni de calendrier de déploiement, mais l’idée principale est de faire évoluer l’expérience Android vers une assistance plus prédictive et utile. Source: decrypt.co."
+      },
+      "ar": {
+        "title": "Google Gemini Intelligence يحول Android إلى مساعد ذكاء اصطناعي استباقي",
+        "excerpt": "أعلنت Google عن Gemini Intelligence، وهي حزمة ميزات تهدف إلى جعل أجهزة Android مساعدين استباقيين بالذكاء الاصطناعي بدلا من أدوات تنتظر أوامر المستخدم فقط، وفق decrypt.co.",
+        "body": "كشفت Google عن Gemini Intelligence لجعل أجهزة Android أكثر ذكاء عبر الذكاء الاصطناعي. ووفق decrypt.co، صممت حزمة الميزات هذه لنقل هواتف وأجهزة Android من مجرد الاستجابة للأوامر إلى العمل كمساعد ذكاء اصطناعي يساعد المستخدم بصورة استباقية. تأتي الخطوة ضمن توجه Google لتوسيع قدرات الذكاء الاصطناعي المرتبطة بـ Gemini داخل نظام التشغيل المحمول. لا يقدم ملخص المصدر تفاصيل محددة عن الميزات أو جدول الإطلاق، لكن الفكرة الأساسية هي دفع تجربة Android نحو مساعدة أكثر قدرة على التوقع والدعم. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "Google Gemini Intelligence से Android बनेगा सक्रिय AI असिस्टेंट",
+        "excerpt": "Google ने Gemini Intelligence पेश किया है, जो Android डिवाइसों को सिर्फ आदेश का इंतजार करने वाले टूल से आगे बढ़ाकर सक्रिय AI असिस्टेंट बनाने के लिए डिजाइन किया गया फीचर सूट है, decrypt.co ने बताया।",
+        "body": "Google ने AI के जरिए Android डिवाइसों को ज्यादा स्मार्ट बनाने के लिए Gemini Intelligence पेश किया। decrypt.co के अनुसार, यह फीचर सूट Android फोन और डिवाइसों को केवल कमांड का जवाब देने से आगे ले जाकर ऐसे AI असिस्टेंट की तरह काम कराने के लिए बनाया गया है जो उपयोगकर्ता की सक्रिय रूप से मदद कर सके। इसके पीछे Google की वह दिशा है जिसमें Gemini-केंद्रित AI क्षमताओं को मोबाइल ऑपरेटिंग सिस्टम में और गहराई तक लाया जा रहा है। मूल सारांश में खास फीचर विवरण या लॉन्च समयसीमा नहीं दी गई है, लेकिन मुख्य बात Android अनुभव को अधिक अनुमान लगाने वाला और सहायक बनाना है। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Google Gemini Intelligence Ubah Android Jadi Asisten AI Proaktif",
+        "excerpt": "Google meluncurkan Gemini Intelligence, rangkaian fitur yang dirancang untuk membuat perangkat Android menjadi asisten AI proaktif, bukan sekadar alat yang menunggu perintah pengguna, lapor decrypt.co.",
+        "body": "Google meluncurkan Gemini Intelligence untuk membuat perangkat Android lebih pintar dengan AI. Menurut decrypt.co, rangkaian fitur ini dirancang agar ponsel dan perangkat Android tidak hanya merespons perintah, tetapi bergerak menuju peran asisten AI yang membantu pengguna secara proaktif. Latar belakangnya adalah upaya Google memperluas kemampuan AI berbasis Gemini lebih dalam ke sistem operasi mobile. Ringkasan sumber tidak memuat rincian fitur tertentu atau jadwal peluncuran, tetapi inti beritanya adalah perubahan pengalaman Android ke arah bantuan AI yang lebih prediktif dan suportif. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "6072e82e184c",
+    "slug": "fake-openai-repo-hit-1-on-hugging-faceand-stole-passwords-wh-528371",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T23:08:53.149Z",
+    "updatedAt": "2026-05-12T23:08:53.149Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367659/fake-openai-repo-hugging-face-stole-passwords",
+    "canonicalUrl": "https://decrypt.co/367659/fake-openai-repo-hugging-face-stole-passwords",
+    "titleFingerprint": "aef25400a4a51bf16a8e99ea5af92186dfb2f8e9",
+    "dedupKeys": [
+      "6072e82e184ccd255f1662d1d0157359851e3cc5",
+      "aef25400a4a51bf16a8e99ea5af92186dfb2f8e9",
+      "be02357504a4355ec8141c1a57e455a3d014c4d2"
+    ],
+    "imageUrl": "/images/articles/6072e82e184c.png",
+    "i18n": {
+      "ko": {
+        "title": "가짜 OpenAI 저장소, Hugging Face 1위 오르며 비밀번호 탈취",
+        "excerpt": "OpenAI Privacy Filter 모델을 사칭한 가짜 저장소가 18시간도 안 돼 24만4,000회 다운로드를 기록한 뒤 Hugging Face에서 삭제됐다.",
+        "body": "OpenAI의 Privacy Filter 모델을 사칭한 가짜 저장소가 Hugging Face에서 트렌드 1위에 오르는 동안 이용자 비밀번호를 탈취한 것으로 드러났다. 해당 저장소는 공개 후 18시간이 채 지나기 전에 24만4,000회 다운로드를 기록했고, 이후 Hugging Face가 이를 삭제했다. 이번 사례는 인기 AI 모델 저장소를 가장한 악성 프로젝트가 짧은 시간 안에 대규모 이용자에게 노출될 수 있음을 보여준다. 특히 신뢰도 높은 브랜드명과 유사한 이름을 사용한 저장소가 빠르게 확산되면서, 모델 다운로드 전 출처 확인의 중요성이 커졌다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Fake OpenAI Repo Topped Hugging Face and Stole Passwords",
+        "excerpt": "A fake repo impersonating OpenAI’s Privacy Filter model logged 244,000 downloads in under 18 hours before Hugging Face removed it.",
+        "body": "A fake repository impersonating OpenAI’s Privacy Filter model was found stealing user passwords while it ranked No. 1 on Hugging Face’s trending list. The repository recorded 244,000 downloads in less than 18 hours after going public before Hugging Face removed it. The case shows how a malicious project posing as a popular AI model repository can reach a large audience in a very short time. By using a name similar to a trusted brand, the repository spread quickly, underscoring the importance of checking the source before downloading models. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "偽OpenAIリポジトリ、Hugging Face首位でパスワード窃取",
+        "excerpt": "OpenAIのPrivacy Filterモデルを装った偽リポジトリが18時間未満で24万4,000件のダウンロードを記録し、Hugging Faceに削除された。",
+        "body": "OpenAIのPrivacy Filterモデルを装った偽リポジトリが、Hugging Faceのトレンド1位に上がる間に利用者のパスワードを盗んでいたことが分かった。このリポジトリは公開後18時間に満たないうちに24万4,000件のダウンロードを記録し、その後Hugging Faceによって削除された。今回の事例は、人気AIモデルのリポジトリを装う悪質なプロジェクトが短時間で大規模な利用者に届く可能性を示している。信頼度の高いブランド名に似た名称を使ったリポジトリが急速に広がったことで、モデルをダウンロードする前に出所を確認する重要性が高まった。出典: decrypt.co。"
+      },
+      "zh": {
+        "title": "假冒OpenAI仓库登顶Hugging Face并窃取密码",
+        "excerpt": "一个假冒OpenAI Privacy Filter模型的仓库在不到18小时内获得244,000次下载，随后被Hugging Face下架。",
+        "body": "一个假冒OpenAI Privacy Filter模型的虚假仓库在登上Hugging Face趋势榜第一期间，被发现窃取用户密码。该仓库公开后不到18小时就记录了244,000次下载，随后被Hugging Face删除。此事显示，伪装成热门AI模型仓库的恶意项目，可能在很短时间内触达大量用户。该仓库使用了与高信任度品牌相似的名称并迅速传播，也凸显出在下载模型前核实来源的重要性。来源：decrypt.co。"
+      },
+      "es": {
+        "title": "Repo falso de OpenAI lideró Hugging Face y robó contraseñas",
+        "excerpt": "Un repositorio falso que imitaba el modelo Privacy Filter de OpenAI sumó 244.000 descargas en menos de 18 horas antes de ser retirado por Hugging Face.",
+        "body": "Un repositorio falso que se hacía pasar por el modelo Privacy Filter de OpenAI fue detectado robando contraseñas de usuarios mientras ocupaba el puesto número uno en las tendencias de Hugging Face. El repositorio registró 244.000 descargas en menos de 18 horas desde su publicación, antes de que Hugging Face lo eliminara. El caso muestra cómo un proyecto malicioso que imita un repositorio popular de modelos de IA puede llegar a una gran cantidad de usuarios en muy poco tiempo. Al usar un nombre similar al de una marca de confianza, se difundió rápidamente y reforzó la necesidad de verificar la fuente antes de descargar modelos. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Repo falso da OpenAI liderou Hugging Face e roubou senhas",
+        "excerpt": "Um repositório falso que imitava o modelo Privacy Filter da OpenAI somou 244.000 downloads em menos de 18 horas antes de ser removido pela Hugging Face.",
+        "body": "Um repositório falso que se passava pelo modelo Privacy Filter da OpenAI foi identificado roubando senhas de usuários enquanto ocupava o primeiro lugar nas tendências da Hugging Face. O repositório registrou 244.000 downloads em menos de 18 horas após ser publicado, até ser removido pela Hugging Face. O caso mostra como um projeto malicioso disfarçado de repositório popular de modelo de IA pode alcançar muitos usuários em pouco tempo. Ao usar um nome parecido com o de uma marca confiável, ele se espalhou rapidamente, reforçando a importância de verificar a origem antes de baixar modelos. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Gefälschtes OpenAI-Repo führte Hugging Face an und stahl Passwörter",
+        "excerpt": "Ein gefälschtes Repository, das OpenAIs Privacy-Filter-Modell imitierte, erreichte in unter 18 Stunden 244.000 Downloads, bevor Hugging Face es entfernte.",
+        "body": "Ein gefälschtes Repository, das sich als OpenAIs Privacy-Filter-Modell ausgab, soll Nutzerpasswörter gestohlen haben, während es auf Hugging Face den ersten Platz der Trends belegte. Das Repository verzeichnete weniger als 18 Stunden nach seiner Veröffentlichung 244.000 Downloads, bevor Hugging Face es entfernte. Der Fall zeigt, wie ein bösartiges Projekt, das ein beliebtes KI-Modell-Repository imitiert, in kurzer Zeit viele Nutzer erreichen kann. Durch einen Namen, der einer vertrauenswürdigen Marke ähnelt, verbreitete es sich schnell und macht deutlich, wie wichtig die Prüfung der Quelle vor dem Download von Modellen ist. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Un faux dépôt OpenAI en tête de Hugging Face volait des mots de passe",
+        "excerpt": "Un faux dépôt imitant le modèle Privacy Filter d’OpenAI a atteint 244 000 téléchargements en moins de 18 heures avant son retrait par Hugging Face.",
+        "body": "Un faux dépôt se faisant passer pour le modèle Privacy Filter d’OpenAI a été repéré en train de voler des mots de passe d’utilisateurs alors qu’il occupait la première place des tendances sur Hugging Face. Le dépôt a enregistré 244 000 téléchargements en moins de 18 heures après sa publication, avant d’être supprimé par Hugging Face. Ce cas montre qu’un projet malveillant imitant un dépôt populaire de modèle d’IA peut toucher un grand nombre d’utilisateurs en très peu de temps. En utilisant un nom proche d’une marque de confiance, il s’est diffusé rapidement, soulignant l’importance de vérifier la source avant de télécharger des modèles. Source : decrypt.co."
+      },
+      "ar": {
+        "title": "مستودع OpenAI مزيف تصدر Hugging Face وسرق كلمات المرور",
+        "excerpt": "مستودع مزيف ينتحل نموذج Privacy Filter من OpenAI سجل 244 ألف تنزيل في أقل من 18 ساعة قبل أن تزيله Hugging Face.",
+        "body": "تبيّن أن مستودعا مزيفا ينتحل نموذج Privacy Filter من OpenAI كان يسرق كلمات مرور المستخدمين بينما تصدر قائمة الرائج على Hugging Face. وسجل المستودع 244 ألف عملية تنزيل في أقل من 18 ساعة بعد نشره، قبل أن تقوم Hugging Face بحذفه. تكشف هذه الواقعة كيف يمكن لمشروع خبيث يتنكر في صورة مستودع نموذج ذكاء اصطناعي شائع أن يصل إلى عدد كبير من المستخدمين خلال وقت قصير جدا. وباستخدام اسم مشابه لعلامة موثوقة، انتشر المستودع بسرعة، ما يبرز أهمية التحقق من المصدر قبل تنزيل النماذج. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "फर्जी OpenAI रेपो Hugging Face पर शीर्ष पर पहुंचा और पासवर्ड चुराए",
+        "excerpt": "OpenAI के Privacy Filter मॉडल की नकल करने वाले फर्जी रेपो ने 18 घंटे से कम समय में 244,000 डाउनलोड दर्ज किए, फिर Hugging Face ने उसे हटा दिया।",
+        "body": "OpenAI के Privacy Filter मॉडल की नकल करने वाला एक फर्जी रिपॉजिटरी Hugging Face की ट्रेंडिंग सूची में पहले स्थान पर रहते हुए उपयोगकर्ताओं के पासवर्ड चुराता पाया गया। सार्वजनिक होने के बाद 18 घंटे से कम समय में इसने 244,000 डाउनलोड दर्ज किए, जिसके बाद Hugging Face ने इसे हटा दिया। यह मामला दिखाता है कि लोकप्रिय AI मॉडल रिपॉजिटरी जैसा दिखने वाला दुर्भावनापूर्ण प्रोजेक्ट बहुत कम समय में बड़े उपयोगकर्ता वर्ग तक पहुंच सकता है। भरोसेमंद ब्रांड से मिलते-जुलते नाम के कारण यह तेजी से फैला, जिससे मॉडल डाउनलोड करने से पहले स्रोत की जांच का महत्व बढ़ गया। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Repo OpenAI Palsu Puncaki Hugging Face dan Curi Kata Sandi",
+        "excerpt": "Repositori palsu yang meniru model Privacy Filter OpenAI meraih 244.000 unduhan dalam kurang dari 18 jam sebelum dihapus oleh Hugging Face.",
+        "body": "Repositori palsu yang menyamar sebagai model Privacy Filter milik OpenAI diketahui mencuri kata sandi pengguna saat berada di peringkat pertama tren Hugging Face. Repositori itu mencatat 244.000 unduhan dalam waktu kurang dari 18 jam setelah dipublikasikan, sebelum akhirnya dihapus oleh Hugging Face. Kasus ini menunjukkan bahwa proyek berbahaya yang meniru repositori model AI populer dapat menjangkau banyak pengguna dalam waktu sangat singkat. Dengan memakai nama yang mirip dengan merek tepercaya, repositori tersebut menyebar cepat dan menegaskan pentingnya memeriksa sumber sebelum mengunduh model. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
     "id": "030d55b0ce8f",
     "slug": "bitcoin-wallet-firm-exodus-expands-payments-push-sells-87-mi-586411",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Keamanan AI Binance Klaim Cegah Kerugian Penipuan $10,53 Miliar Sejak 2025",
         "excerpt": "Binance mengatakan kontrol keamanan berbasis AI telah mencegah kerugian pengguna senilai $10,53 miliar sejak 2025 dan memasukkan 36.000 alamat berbahaya ke daftar hitam.",
         "body": "Binance mengatakan telah mencegah kerugian pengguna senilai $10,53 miliar sejak 2025 melalui sistem keamanan berbasis AI. Bursa itu juga menyatakan telah memasukkan 36.000 alamat berbahaya terkait penipuan ke daftar hitam, sementara AI kini mendukung lebih dari separuh kontrol antifraudnya. Pengungkapan ini menunjukkan bahwa bursa kripto semakin menekankan deteksi dan pemblokiran ancaman sebelum kerugian terjadi. Dengan digunakan untuk mengenali alamat berisiko dan memantau aktivitas mencurigakan, AI menjadi bagian penting dari perlindungan pengguna. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "a0722b75a3a2",
-    "slug": "i-failed-them-goliath-ventures-ceo-charged-with-crypto-ponzi-351280",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T07:37:01.881Z",
-    "updatedAt": "2026-05-12T07:37:01.881Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/goliath-ventures-ceo-charged-over-alleged-crypto-ponzi-apologizes-to-investors-in-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/goliath-ventures-ceo-charged-over-alleged-crypto-ponzi-apologizes-to-investors-in-interview",
-    "titleFingerprint": "c72c3392d4f5b586222dc972ae8add45858aa46a",
-    "dedupKeys": [
-      "a0722b75a3a2cf19bef55c41e9be2688e1aad5b1",
-      "c72c3392d4f5b586222dc972ae8add45858aa46a",
-      "173a51b417fa160edee6dd3ad5e127b6bd8101e0"
-    ],
-    "imageUrl": "/images/articles/a0722b75a3a2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "크립토 폰지 혐의 골리앗벤처스 전 CEO, 투자자에 공개 사과",
-        "excerpt": "사기와 자금세탁 혐의로 기소된 크리스토퍼 델가도 전 골리앗벤처스 CEO가 미국 검찰이 폰지 사기라고 주장한 사건의 투자자들에게 공개 사과했다.",
-        "body": "크리스토퍼 델가도 전 골리앗벤처스 CEO가 사기와 자금세탁 혐의로 기소된 뒤 투자자들에게 공개적으로 사과했다. 미국 검찰은 해당 사건을 암호화폐 관련 폰지 사기로 보고 있으며, 델가도는 투자자들을 실망시켰다는 취지의 입장을 밝혔다. 이번 사안은 크립토 투자 상품을 둘러싼 신뢰와 규제 리스크를 다시 부각시키고 있다. 혐의가 법정에서 다뤄지는 만큼 향후 절차와 판단이 투자자 피해 회복 및 업계 감시에 영향을 줄 전망이다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Crypto Ponzi Charge: Ex-Goliath Ventures CEO Apologizes to Investors",
-        "excerpt": "Christopher Delgado, former CEO of Goliath Ventures charged with fraud and money laundering, publicly apologized to investors in a case US prosecutors allege was a Ponzi scheme.",
-        "body": "Christopher Delgado, the former CEO of Goliath Ventures, has publicly apologized to investors after being charged with fraud and money laundering. US prosecutors allege the case involved a cryptocurrency-related Ponzi scheme, and Delgado said he had failed investors. The case again highlights trust and regulatory risks surrounding crypto investment products. As the charges proceed through the legal process, the outcome could affect investor recovery efforts and scrutiny of the wider industry. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "暗号資産ポンジ疑惑、ゴリアス元CEOが投資家に公開謝罪",
-        "excerpt": "詐欺と資金洗浄の罪で起訴されたゴリアス・ベンチャーズ元CEOのクリストファー・デルガド氏が、米検察がポンジスキームと主張する事件の投資家に公開謝罪した。",
-        "body": "ゴリアス・ベンチャーズ元CEOのクリストファー・デルガド氏は、詐欺と資金洗浄の罪で起訴された後、投資家に向けて公開謝罪した。米検察はこの事件を暗号資産関連のポンジスキームとみており、デルガド氏は投資家を失望させたとの趣旨を示した。今回の件は、暗号資産投資商品をめぐる信頼と規制リスクを改めて浮き彫りにしている。今後の法的手続きと判断は、投資家の被害回復や業界監視に影響を与える可能性がある。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "加密庞氏骗局指控：Goliath Ventures前CEO向投资者道歉",
-        "excerpt": "因欺诈和洗钱被起诉的Goliath Ventures前CEO Christopher Delgado，已就美国检方所称的庞氏骗局案件向投资者公开道歉。",
-        "body": "Goliath Ventures前CEO Christopher Delgado在因欺诈和洗钱被起诉后，公开向投资者道歉。美国检方称该案件涉及与加密货币相关的庞氏骗局，Delgado表示自己辜负了投资者。此事再次凸显加密投资产品面临的信任与监管风险。随着相关指控进入法律程序，后续结果可能影响投资者损失追回以及行业监管审视。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Cargo por Ponzi cripto: ex-CEO de Goliath Ventures se disculpa",
-        "excerpt": "Christopher Delgado, ex-CEO de Goliath Ventures acusado de fraude y lavado de dinero, se disculpó públicamente con inversores de lo que fiscales de EE. UU. califican como un esquema Ponzi.",
-        "body": "Christopher Delgado, ex-CEO de Goliath Ventures, se disculpó públicamente con los inversores tras ser acusado de fraude y lavado de dinero. Los fiscales de Estados Unidos alegan que el caso involucró un esquema Ponzi relacionado con criptomonedas, y Delgado afirmó que les falló a los inversores. El caso vuelve a poner de relieve los riesgos de confianza y regulación en los productos de inversión cripto. A medida que los cargos avancen en el proceso legal, el resultado podría influir en la recuperación de los inversores y en la supervisión del sector. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Acusação de Ponzi cripto: ex-CEO da Goliath Ventures pede desculpas",
-        "excerpt": "Christopher Delgado, ex-CEO da Goliath Ventures acusado de fraude e lavagem de dinheiro, pediu desculpas públicas a investidores em caso que promotores dos EUA alegam ser um esquema Ponzi.",
-        "body": "Christopher Delgado, ex-CEO da Goliath Ventures, pediu desculpas publicamente aos investidores após ser acusado de fraude e lavagem de dinheiro. Promotores dos Estados Unidos alegam que o caso envolveu um esquema Ponzi relacionado a criptomoedas, e Delgado afirmou que falhou com os investidores. O episódio volta a destacar riscos de confiança e regulação em produtos de investimento cripto. À medida que as acusações avançam no processo legal, o desfecho pode afetar a recuperação dos investidores e a fiscalização do setor. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Krypto-Ponzi-Vorwurf: Ex-Goliath-Ventures-CEO entschuldigt sich",
-        "excerpt": "Christopher Delgado, ehemaliger CEO von Goliath Ventures und wegen Betrugs sowie Geldwäsche angeklagt, hat sich öffentlich bei Anlegern eines Falls entschuldigt, den US-Ermittler als Ponzi-System einstufen.",
-        "body": "Christopher Delgado, ehemaliger CEO von Goliath Ventures, hat sich nach Anklagen wegen Betrugs und Geldwäsche öffentlich bei Anlegern entschuldigt. US-Staatsanwälte werfen vor, dass der Fall ein kryptobezogenes Ponzi-System betraf, und Delgado erklärte sinngemäß, er habe die Investoren enttäuscht. Der Vorgang rückt erneut Vertrauens- und Regulierungsrisiken bei Kryptoanlageprodukten in den Fokus. Während die Vorwürfe juristisch verhandelt werden, könnte das Ergebnis Auswirkungen auf die Wiedergutmachung für Anleger und die Aufsicht über die Branche haben. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Accusation de Ponzi crypto: l’ex-CEO de Goliath Ventures s’excuse",
-        "excerpt": "Christopher Delgado, ex-CEO de Goliath Ventures inculpé pour fraude et blanchiment d’argent, a présenté des excuses publiques aux investisseurs dans une affaire que les procureurs américains qualifient de Ponzi.",
-        "body": "Christopher Delgado, ancien CEO de Goliath Ventures, a présenté des excuses publiques aux investisseurs après avoir été inculpé pour fraude et blanchiment d’argent. Les procureurs américains affirment que l’affaire concernait un système de Ponzi lié aux cryptomonnaies, et Delgado a reconnu avoir déçu les investisseurs. Ce dossier remet en avant les risques de confiance et de régulation autour des produits d’investissement crypto. À mesure que les accusations suivront leur cours judiciaire, l’issue pourrait peser sur l’indemnisation des investisseurs et la surveillance du secteur. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "اتهام بونزي في الكريبتو: الرئيس السابق لغولياث فينتشرز يعتذر",
-        "excerpt": "كريستوفر ديلغادو، الرئيس التنفيذي السابق لغولياث فينتشرز المتهم بالاحتيال وغسل الأموال، اعتذر علنا للمستثمرين في قضية يقول الادعاء الأمريكي إنها مخطط بونزي.",
-        "body": "اعتذر كريستوفر ديلغادو، الرئيس التنفيذي السابق لغولياث فينتشرز، علنا للمستثمرين بعد اتهامه بالاحتيال وغسل الأموال. ويقول الادعاء الأمريكي إن القضية تتعلق بمخطط بونزي مرتبط بالعملات المشفرة، بينما أقر ديلغادو بأنه خذل المستثمرين. وتسلط القضية الضوء مجددا على مخاطر الثقة والتنظيم في منتجات الاستثمار بالعملات المشفرة. ومع انتقال الاتهامات عبر المسار القانوني، قد يؤثر الحكم المنتظر في جهود تعويض المستثمرين وفي رقابة القطاع. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "क्रिप्टो पोंजी आरोप: Goliath Ventures के पूर्व CEO ने निवेशकों से माफी मांगी",
-        "excerpt": "धोखाधड़ी और मनी लॉन्ड्रिंग के आरोपों में घिरे Goliath Ventures के पूर्व CEO Christopher Delgado ने उस मामले के निवेशकों से सार्वजनिक माफी मांगी जिसे अमेरिकी अभियोजक पोंजी योजना बताते हैं।",
-        "body": "Goliath Ventures के पूर्व CEO Christopher Delgado ने धोखाधड़ी और मनी लॉन्ड्रिंग के आरोप लगने के बाद निवेशकों से सार्वजनिक रूप से माफी मांगी। अमेरिकी अभियोजकों का आरोप है कि यह मामला क्रिप्टोकरेंसी से जुड़ी पोंजी योजना था, और Delgado ने कहा कि उन्होंने निवेशकों को निराश किया। यह मामला क्रिप्टो निवेश उत्पादों में भरोसे और नियामकीय जोखिमों को फिर सामने लाता है। आरोपों पर कानूनी प्रक्रिया आगे बढ़ने के साथ, इसका नतीजा निवेशकों की क्षतिपूर्ति और उद्योग की निगरानी को प्रभावित कर सकता है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Tuduhan Ponzi Kripto: Eks CEO Goliath Ventures Minta Maaf",
-        "excerpt": "Christopher Delgado, mantan CEO Goliath Ventures yang didakwa atas penipuan dan pencucian uang, meminta maaf secara publik kepada investor dalam kasus yang disebut jaksa AS sebagai skema Ponzi.",
-        "body": "Christopher Delgado, mantan CEO Goliath Ventures, meminta maaf secara publik kepada investor setelah didakwa atas penipuan dan pencucian uang. Jaksa Amerika Serikat menuduh kasus ini melibatkan skema Ponzi terkait kripto, dan Delgado menyatakan bahwa ia telah mengecewakan investor. Perkara ini kembali menyoroti risiko kepercayaan dan regulasi dalam produk investasi kripto. Saat dakwaan berjalan melalui proses hukum, hasilnya dapat memengaruhi pemulihan kerugian investor serta pengawasan terhadap industri. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "58e40e7f47b4",
-    "slug": "ethereum-foundation-hits-glamsterdam-milestones-names-new-pr-563187",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T07:35:27.882Z",
-    "updatedAt": "2026-05-12T07:35:27.882Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/ethereum-foundation-hits-glamsterdam-milestones-names-new-protocol-leads?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/ethereum-foundation-hits-glamsterdam-milestones-names-new-protocol-leads",
-    "titleFingerprint": "1b339d2cd2c9298653754b35dc6aa5fa63b25963",
-    "dedupKeys": [
-      "58e40e7f47b453725385ff9f7169808d8425ac9a",
-      "1b339d2cd2c9298653754b35dc6aa5fa63b25963",
-      "b47aa1907077a233cd017e061af604f094a1d781"
-    ],
-    "imageUrl": "/images/articles/58e40e7f47b4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이더리움 재단, ‘Glamsterdam’ 업그레이드 핵심 이정표 확정",
-        "excerpt": "이더리움 재단은 2026년 3분기 가동 가능성이 있는 ‘Glamsterdam’ 업그레이드를 앞두고 새 가스 한도 하한과 개선 제안을 확정했다.",
-        "body": "이더리움 재단은 ‘Glamsterdam’ 업그레이드를 위한 새 가스 한도 하한과 개선 제안을 확정하고, 새로운 프로토콜 리드도 지명했다. 이번 업그레이드는 2026년 3분기 중 가동될 가능성이 있는 것으로 전해졌다. Glamsterdam은 이더리움 네트워크 개선을 위한 다음 단계로, 가스 한도 관련 기준과 개선 제안이 주요 이정표로 제시됐다. 재단의 결정은 업그레이드 준비 과정이 구체화되고 있음을 보여준다. 향후 일정과 실제 적용 시점은 업그레이드 진행 상황에 따라 주목될 전망이다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Ethereum Foundation Confirms Key Glamsterdam Upgrade Milestones",
-        "excerpt": "The Ethereum Foundation has finalized a new gas limit floor and improvement proposal ahead of the Glamsterdam upgrade, likely to go live in Q3 2026.",
-        "body": "The Ethereum Foundation has finalized a new gas limit floor and improvement proposal for its Glamsterdam upgrade and named new protocol leads. The upgrade is reportedly likely to go live sometime in the third quarter of 2026. Glamsterdam is presented as the next step in improving the Ethereum network, with the gas limit benchmark and related proposal serving as key milestones. The foundation’s move shows that upgrade preparations are becoming more concrete. The final schedule and actual activation timing will depend on how the upgrade process develops. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "イーサリアム財団、Glamsterdamアップグレードの節目を確定",
-        "excerpt": "イーサリアム財団は、2026年第3四半期に稼働する可能性があるGlamsterdamアップグレードに向け、新たなガス上限下限と改善提案を確定した。",
-        "body": "イーサリアム財団は、Glamsterdamアップグレードに向けた新たなガス上限の下限と改善提案を確定し、新しいプロトコルリードも指名した。今回のアップグレードは、2026年第3四半期中に稼働する可能性があると伝えられている。Glamsterdamはイーサリアムネットワーク改善の次の段階として位置づけられ、ガス上限に関する基準と改善提案が主要な節目となる。財団の決定は、アップグレード準備が具体化していることを示す。今後の予定と実際の適用時期は、進行状況に応じて注目される見通しだ。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "以太坊基金会确认Glamsterdam升级关键里程碑",
-        "excerpt": "以太坊基金会已为可能在2026年第三季度上线的Glamsterdam升级敲定新的Gas限制下限和改进提案。",
-        "body": "以太坊基金会已为Glamsterdam升级敲定新的Gas限制下限和改进提案，并任命了新的协议负责人。据报道，该升级可能在2026年第三季度某个时间上线。Glamsterdam被视为改进以太坊网络的下一步，其中Gas限制相关基准和改进提案是主要里程碑。基金会的决定表明，升级准备工作正在进一步具体化。后续时间表和实际启用时间将取决于升级推进情况，并受到市场关注。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Ethereum Foundation fija hitos clave para la actualización Glamsterdam",
-        "excerpt": "La Ethereum Foundation cerró un nuevo piso de límite de gas y una propuesta de mejora para Glamsterdam, actualización que podría activarse en el tercer trimestre de 2026.",
-        "body": "La Ethereum Foundation finalizó un nuevo piso de límite de gas y una propuesta de mejora para su actualización Glamsterdam, además de nombrar nuevos líderes de protocolo. Según la información disponible, la actualización probablemente se activará en algún momento del tercer trimestre de 2026. Glamsterdam se presenta como el siguiente paso para mejorar la red Ethereum, con el criterio sobre el límite de gas y la propuesta vinculada como hitos principales. La decisión de la fundación muestra que la preparación de la actualización avanza hacia una fase más concreta. El calendario final y la activación real dependerán del desarrollo del proceso. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Ethereum Foundation confirma marcos da atualização Glamsterdam",
-        "excerpt": "A Ethereum Foundation finalizou um novo piso de limite de gas e uma proposta de melhoria para a Glamsterdam, atualização provável para o terceiro trimestre de 2026.",
-        "body": "A Ethereum Foundation finalizou um novo piso de limite de gas e uma proposta de melhoria para a atualização Glamsterdam, além de nomear novos líderes de protocolo. A atualização deve entrar em operação em algum momento do terceiro trimestre de 2026. A Glamsterdam é apresentada como a próxima etapa de melhoria da rede Ethereum, tendo o parâmetro ligado ao limite de gas e a proposta de melhoria como marcos centrais. A decisão da fundação indica que os preparativos para a atualização estão se tornando mais definidos. O cronograma final e a ativação efetiva dependerão do andamento do processo. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Ethereum Foundation bestätigt wichtige Glamsterdam-Meilensteine",
-        "excerpt": "Die Ethereum Foundation hat eine neue Gas-Limit-Untergrenze und einen Verbesserungsvorschlag für Glamsterdam finalisiert, das voraussichtlich im dritten Quartal 2026 startet.",
-        "body": "Die Ethereum Foundation hat für das Glamsterdam-Upgrade eine neue Untergrenze für das Gas-Limit und einen Verbesserungsvorschlag finalisiert sowie neue Protokoll-Leads benannt. Das Upgrade wird voraussichtlich irgendwann im dritten Quartal 2026 live gehen. Glamsterdam gilt als nächster Schritt zur Verbesserung des Ethereum-Netzwerks, wobei der Gas-Limit-Standard und der zugehörige Vorschlag zentrale Meilensteine darstellen. Die Entscheidung der Stiftung zeigt, dass die Vorbereitungen für das Upgrade konkreter werden. Der endgültige Zeitplan und der tatsächliche Aktivierungszeitpunkt hängen vom weiteren Verlauf des Upgrade-Prozesses ab. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Ethereum Foundation valide les jalons clés de Glamsterdam",
-        "excerpt": "L’Ethereum Foundation a finalisé un nouveau plancher de limite de gas et une proposition d’amélioration pour Glamsterdam, attendu au troisième trimestre 2026.",
-        "body": "L’Ethereum Foundation a finalisé un nouveau plancher de limite de gas et une proposition d’amélioration pour sa mise à niveau Glamsterdam, tout en nommant de nouveaux responsables du protocole. Cette mise à niveau devrait probablement être lancée au cours du troisième trimestre 2026. Glamsterdam est présenté comme la prochaine étape d’amélioration du réseau Ethereum, avec le repère lié à la limite de gas et la proposition associée comme jalons majeurs. La décision de la fondation montre que la préparation de la mise à niveau devient plus concrète. Le calendrier final et l’activation effective dépendront de l’avancement du processus. Source : cointelegraph.com."
-      },
-      "ar": {
-        "title": "مؤسسة إيثريوم تثبت محطات رئيسية لترقية Glamsterdam",
-        "excerpt": "أقرت مؤسسة إيثريوم حدا أدنى جديدا لسقف الغاز ومقترح تحسين لترقية Glamsterdam، التي يرجح إطلاقها في الربع الثالث من 2026.",
-        "body": "أقرت مؤسسة إيثريوم حدا أدنى جديدا لسقف الغاز ومقترح تحسين لترقية Glamsterdam، كما سمت قادة جدد للبروتوكول. وبحسب المعلومات المتاحة، من المرجح أن تدخل الترقية حيز التشغيل في وقت ما خلال الربع الثالث من عام 2026. تعد Glamsterdam خطوة تالية في تحسين شبكة إيثريوم، ويبرز معيار سقف الغاز والمقترح المرتبط به كمعلمين رئيسيين في المسار. ويشير قرار المؤسسة إلى أن التحضيرات للترقية أصبحت أكثر تحديدا. وسيعتمد الجدول النهائي ووقت التفعيل الفعلي على كيفية تقدم عملية الترقية. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Ethereum Foundation ने Glamsterdam अपग्रेड के अहम पड़ाव तय किए",
-        "excerpt": "Ethereum Foundation ने 2026 की तीसरी तिमाही में संभावित Glamsterdam अपग्रेड से पहले नया गैस लिमिट फ्लोर और सुधार प्रस्ताव अंतिम किया।",
-        "body": "Ethereum Foundation ने अपने Glamsterdam अपग्रेड के लिए नया गैस लिमिट फ्लोर और सुधार प्रस्ताव अंतिम कर दिया है, साथ ही नए प्रोटोकॉल लीड भी नामित किए हैं। यह अपग्रेड 2026 की तीसरी तिमाही में किसी समय लाइव होने की संभावना रखता है। Glamsterdam को Ethereum नेटवर्क में सुधार के अगले चरण के रूप में देखा जा रहा है, जिसमें गैस लिमिट से जुड़ा मानक और सुधार प्रस्ताव प्रमुख मील के पत्थर हैं। फाउंडेशन का यह निर्णय दिखाता है कि अपग्रेड की तैयारी अधिक ठोस रूप ले रही है। अंतिम समयसीमा और वास्तविक सक्रियण प्रक्रिया की प्रगति पर निर्भर करेंगे। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Ethereum Foundation Tetapkan Tonggak Utama Upgrade Glamsterdam",
-        "excerpt": "Ethereum Foundation menuntaskan batas bawah gas limit baru dan proposal peningkatan untuk Glamsterdam, upgrade yang kemungkinan aktif pada kuartal III 2026.",
-        "body": "Ethereum Foundation telah menuntaskan batas bawah gas limit baru dan proposal peningkatan untuk upgrade Glamsterdam, serta menunjuk pemimpin protokol baru. Upgrade ini kemungkinan akan mulai aktif pada suatu waktu di kuartal ketiga 2026. Glamsterdam diposisikan sebagai langkah berikutnya dalam peningkatan jaringan Ethereum, dengan standar terkait gas limit dan proposal peningkatan sebagai tonggak utama. Keputusan yayasan menunjukkan bahwa persiapan upgrade semakin konkret. Jadwal akhir dan waktu aktivasi sebenarnya akan bergantung pada perkembangan proses upgrade tersebut. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "b728f52f5bae",
-    "slug": "aave-launches-binding-arbitrum-vote-to-move-71-million-in-di-230420",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T07:33:56.050Z",
-    "updatedAt": "2026-05-12T07:33:56.050Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/12/aave-launches-binding-arbitrum-vote-to-move-usd71-million-disputed-eth",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/12/aave-launches-binding-arbitrum-vote-to-move-usd71-million-disputed-eth",
-    "titleFingerprint": "66d7cb5173f12192487a7e0867f0a1cf77bdd377",
-    "dedupKeys": [
-      "b728f52f5bae9dad67e4659e89e37a33d2fc79c5",
-      "66d7cb5173f12192487a7e0867f0a1cf77bdd377",
-      "7a590c87c2a4d4522dfbaf233c0ab2141717a163"
-    ],
-    "imageUrl": "/images/articles/b728f52f5bae.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Aave, Arbitrum서 7,100만달러 분쟁 ETH 이전 구속 투표 착수",
-        "excerpt": "Aave가 Arbitrum에서 7,100만달러 규모의 분쟁 ETH 이전을 위한 구속력 있는 거버넌스 투표를 시작했고, 북한 테러 채권자들은 맨해튼 법원에서 소유권 다툼을 이어가고 있다.",
-        "body": "Aave가 Arbitrum에서 7,100만달러 규모의 분쟁 ETH를 Aave로 이전하기 위한 구속력 있는 거버넌스 절차를 시작했다. Arbitrum 대표자들은 이번 투표를 통해 과거 익스플로잇과 관련된 자금의 이동 여부를 결정하게 된다. 쟁점은 해당 ETH의 소유권이다. 한편 북한 테러 관련 채권자들은 맨해튼 법원에서 같은 자금에 대한 권리를 계속 주장하고 있다. 이번 투표는 온체인 거버넌스 결정과 법원 소송이 충돌할 수 있는 사례로 주목된다. 결과에 따라 분쟁 자금 처리 방식과 프로토콜 거버넌스의 책임 범위가 다시 논의될 전망이다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Aave Starts Binding Arbitrum Vote on $71M Disputed ETH Transfer",
-        "excerpt": "Aave has opened a binding Arbitrum governance vote to move $71 million in disputed ETH to Aave, while North Korean terrorism creditors continue pursuing ownership claims in Manhattan court.",
-        "body": "Aave has begun a binding governance process on Arbitrum to transfer $71 million in disputed ETH to Aave. Arbitrum delegates will decide through the vote whether funds tied to a past exploit should be moved. The central issue is ownership of the ETH. At the same time, creditors linked to North Korean terrorism claims continue to fight for rights to the same funds in a Manhattan court. The case is drawing attention because it places an on-chain governance decision alongside an active legal dispute. The outcome may shape how disputed crypto funds are handled and how far protocol governance responsibilities extend. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "Aave、Arbitrumで7100万ドル係争ETH移転の拘束投票開始",
-        "excerpt": "AaveはArbitrumで7100万ドル相当の係争中ETHをAaveへ移す拘束力あるガバナンス投票を開始し、北朝鮮テロ関連債権者はマンハッタン裁判所で所有権を争っている。",
-        "body": "AaveはArbitrum上で、7100万ドル相当の係争中ETHをAaveへ移転するための拘束力あるガバナンス手続きを開始した。Arbitrumの代表者は今回の投票を通じ、過去のエクスプロイトに関連する資金を移すかどうかを判断する。争点はこのETHの所有権だ。一方、北朝鮮テロ関連の債権者は、マンハッタンの裁判所で同じ資金に対する権利主張を続けている。今回の投票は、オンチェーンガバナンスの判断と法廷での係争が並行する事例として注目される。結果は係争資金の処理方法やプロトコルガバナンスの責任範囲の議論に影響しそうだ。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "Aave在Arbitrum启动7100万美元争议ETH转移约束性投票",
-        "excerpt": "Aave已在Arbitrum启动约束性治理投票，拟将7100万美元争议ETH转至Aave；与此同时，朝鲜恐怖主义相关债权人仍在曼哈顿法院争夺所有权。",
-        "body": "Aave已在Arbitrum启动一项具有约束力的治理程序，拟将7100万美元争议ETH转移至Aave。Arbitrum代表将通过此次投票决定是否转移与过往漏洞利用事件相关的资金。核心争议在于这些ETH的所有权。与此同时，朝鲜恐怖主义相关债权人仍在曼哈顿法院主张对同一笔资金的权利。此案受到关注，因为它把链上治理决定与正在进行的法律诉讼并置在一起。投票结果可能影响争议加密资产的处理方式，以及协议治理责任边界的讨论。来源: coindesk.com."
-      },
-      "es": {
-        "title": "Aave inicia voto vinculante en Arbitrum por ETH disputado de US$71M",
-        "excerpt": "Aave abrió en Arbitrum una votación de gobernanza vinculante para transferir US$71 millones en ETH disputado a Aave, mientras acreedores por terrorismo norcoreano siguen litigando la propiedad en Manhattan.",
-        "body": "Aave inició en Arbitrum un proceso de gobernanza vinculante para transferir a Aave US$71 millones en ETH disputado. Los delegados de Arbitrum decidirán mediante la votación si deben moverse fondos vinculados a un exploit anterior. El punto central es la propiedad de ese ETH. Al mismo tiempo, acreedores relacionados con reclamaciones por terrorismo norcoreano continúan disputando los derechos sobre los mismos fondos ante un tribunal de Manhattan. El caso atrae atención porque coloca una decisión de gobernanza on-chain junto a un litigio judicial activo. El resultado podría influir en cómo se gestionan fondos cripto disputados y en el alcance de la responsabilidad de la gobernanza de protocolos. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Aave inicia voto vinculante na Arbitrum sobre ETH disputado de US$71 mi",
-        "excerpt": "Aave abriu na Arbitrum uma votação de governança vinculante para transferir US$71 milhões em ETH disputado para a Aave, enquanto credores ligados a terrorismo norte-coreano seguem disputando a posse em Manhattan.",
-        "body": "Aave iniciou na Arbitrum um processo de governança vinculante para transferir para a Aave US$71 milhões em ETH disputado. Os delegados da Arbitrum decidirão por meio da votação se os fundos ligados a um exploit anterior devem ser movidos. O ponto central é a propriedade desse ETH. Ao mesmo tempo, credores relacionados a reivindicações de terrorismo norte-coreano continuam lutando pelos direitos sobre os mesmos fundos em um tribunal de Manhattan. O caso chama atenção por colocar uma decisão de governança on-chain ao lado de uma disputa judicial em andamento. O resultado pode influenciar a forma de tratar fundos cripto disputados e o alcance das responsabilidades da governança de protocolos. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Aave startet bindende Arbitrum-Abstimmung über 71 Mio. USD in strittigem ETH",
-        "excerpt": "Aave hat auf Arbitrum eine bindende Governance-Abstimmung zur Übertragung von 71 Mio. USD in strittigem ETH an Aave gestartet, während Gläubiger im Zusammenhang mit nordkoreanischem Terrorismus vor einem Gericht in Manhattan weiter um Eigentumsrechte kämpfen.",
-        "body": "Aave hat auf Arbitrum ein bindendes Governance-Verfahren gestartet, um 71 Mio. USD in strittigem ETH an Aave zu übertragen. Arbitrum-Delegierte entscheiden in der Abstimmung, ob Gelder, die mit einem früheren Exploit verbunden sind, bewegt werden sollen. Im Zentrum steht die Eigentumsfrage an diesem ETH. Gleichzeitig kämpfen Gläubiger im Zusammenhang mit nordkoreanischem Terrorismus vor einem Gericht in Manhattan weiter um Rechte an denselben Mitteln. Der Fall ist bedeutsam, weil eine On-Chain-Governance-Entscheidung neben einem laufenden Gerichtsverfahren steht. Das Ergebnis könnte beeinflussen, wie umstrittene Kryptogelder behandelt werden und wie weit die Verantwortung von Protokoll-Governance reicht. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Aave lance un vote Arbitrum contraignant sur 71 M$ d’ETH contestés",
-        "excerpt": "Aave a lancé sur Arbitrum un vote de gouvernance contraignant pour transférer 71 M$ d’ETH contestés vers Aave, tandis que des créanciers liés au terrorisme nord-coréen poursuivent leur bataille de propriété devant un tribunal de Manhattan.",
-        "body": "Aave a lancé sur Arbitrum une procédure de gouvernance contraignante afin de transférer vers Aave 71 M$ d’ETH contestés. Les délégués d’Arbitrum devront décider par ce vote si les fonds liés à un ancien exploit doivent être déplacés. L’enjeu central est la propriété de ces ETH. Dans le même temps, des créanciers liés à des réclamations concernant le terrorisme nord-coréen continuent de revendiquer des droits sur les mêmes fonds devant un tribunal de Manhattan. L’affaire retient l’attention car elle place une décision de gouvernance on-chain face à un litige judiciaire en cours. Son issue pourrait peser sur le traitement des fonds crypto contestés et sur l’étendue des responsabilités de la gouvernance des protocoles. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "Aave تبدأ تصويتا ملزما على Arbitrum لنقل ETH متنازع عليه بقيمة 71 مليون دولار",
-        "excerpt": "بدأت Aave على Arbitrum تصويتا حوكميا ملزما لنقل ETH متنازع عليه بقيمة 71 مليون دولار إلى Aave، بينما يواصل دائنون مرتبطون بقضايا إرهاب كورية شمالية نزاع الملكية في محكمة بمانهاتن.",
-        "body": "بدأت Aave على شبكة Arbitrum عملية حوكمة ملزمة لنقل ETH متنازع عليه بقيمة 71 مليون دولار إلى Aave. وسيقرر مندوبو Arbitrum عبر التصويت ما إذا كان ينبغي نقل أموال مرتبطة باستغلال سابق. القضية الأساسية هي ملكية هذا الـETH. في الوقت نفسه، يواصل دائنون مرتبطون بمطالبات تخص الإرهاب الكوري الشمالي المطالبة بحقوقهم في الأموال نفسها أمام محكمة في مانهاتن. تحظى القضية بالاهتمام لأنها تضع قرار حوكمة على السلسلة إلى جانب نزاع قانوني قائم. وقد تؤثر النتيجة في طريقة التعامل مع أموال العملات المشفرة المتنازع عليها وحدود مسؤولية حوكمة البروتوكولات. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "Aave ने Arbitrum पर $71M विवादित ETH ट्रांसफर के लिए बाध्यकारी वोट शुरू किया",
-        "excerpt": "Aave ने Arbitrum पर $71 मिलियन के विवादित ETH को Aave में स्थानांतरित करने के लिए बाध्यकारी गवर्नेंस वोट शुरू किया, जबकि उत्तर कोरियाई आतंकवाद से जुड़े लेनदार मैनहट्टन अदालत में स्वामित्व की लड़ाई जारी रखे हुए हैं।",
-        "body": "Aave ने Arbitrum पर $71 मिलियन मूल्य के विवादित ETH को Aave में स्थानांतरित करने के लिए बाध्यकारी गवर्नेंस प्रक्रिया शुरू की है। Arbitrum प्रतिनिधि इस मतदान के जरिए तय करेंगे कि पिछले एक्सप्लॉइट से जुड़े फंड को स्थानांतरित किया जाए या नहीं। मुख्य मुद्दा इस ETH का स्वामित्व है। इसी बीच, उत्तर कोरियाई आतंकवाद से जुड़े दावों के लेनदार मैनहट्टन की अदालत में उन्हीं फंड पर अधिकार के लिए लड़ाई जारी रखे हुए हैं। यह मामला इसलिए ध्यान खींच रहा है क्योंकि इसमें ऑन-चेन गवर्नेंस निर्णय और चल रही कानूनी कार्यवाही साथ-साथ हैं। नतीजा विवादित क्रिप्टो फंड के निपटान और प्रोटोकॉल गवर्नेंस की जिम्मेदारी की सीमा पर असर डाल सकता है। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Aave Mulai Voting Mengikat Arbitrum untuk ETH Sengketa US$71 Juta",
-        "excerpt": "Aave memulai voting tata kelola mengikat di Arbitrum untuk memindahkan ETH sengketa senilai US$71 juta ke Aave, sementara kreditur terkait terorisme Korea Utara terus memperebutkan kepemilikan di pengadilan Manhattan.",
-        "body": "Aave memulai proses tata kelola mengikat di Arbitrum untuk mentransfer ETH sengketa senilai US$71 juta ke Aave. Para delegasi Arbitrum akan memutuskan melalui voting apakah dana yang terkait dengan exploit sebelumnya harus dipindahkan. Isu utamanya adalah kepemilikan ETH tersebut. Pada saat yang sama, kreditur yang terkait dengan klaim terorisme Korea Utara terus memperjuangkan hak atas dana yang sama di pengadilan Manhattan. Kasus ini menarik perhatian karena mempertemukan keputusan tata kelola on-chain dengan sengketa hukum yang masih berjalan. Hasilnya dapat memengaruhi cara penanganan dana kripto yang disengketakan dan batas tanggung jawab tata kelola protokol. Sumber: coindesk.com."
       }
     }
   }

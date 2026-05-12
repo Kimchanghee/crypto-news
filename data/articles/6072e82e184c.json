@@ -1,0 +1,75 @@
+{
+  "id": "6072e82e184c",
+  "slug": "fake-openai-repo-hit-1-on-hugging-faceand-stole-passwords-wh-528371",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-12T23:08:53.149Z",
+  "updatedAt": "2026-05-12T23:08:53.149Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367659/fake-openai-repo-hugging-face-stole-passwords",
+  "canonicalUrl": "https://decrypt.co/367659/fake-openai-repo-hugging-face-stole-passwords",
+  "titleFingerprint": "aef25400a4a51bf16a8e99ea5af92186dfb2f8e9",
+  "dedupKeys": [
+    "6072e82e184ccd255f1662d1d0157359851e3cc5",
+    "aef25400a4a51bf16a8e99ea5af92186dfb2f8e9",
+    "be02357504a4355ec8141c1a57e455a3d014c4d2"
+  ],
+  "imageUrl": "/images/articles/6072e82e184c.png",
+  "i18n": {
+    "ko": {
+      "title": "가짜 OpenAI 저장소, Hugging Face 1위 오르며 비밀번호 탈취",
+      "excerpt": "OpenAI Privacy Filter 모델을 사칭한 가짜 저장소가 18시간도 안 돼 24만4,000회 다운로드를 기록한 뒤 Hugging Face에서 삭제됐다.",
+      "body": "OpenAI의 Privacy Filter 모델을 사칭한 가짜 저장소가 Hugging Face에서 트렌드 1위에 오르는 동안 이용자 비밀번호를 탈취한 것으로 드러났다. 해당 저장소는 공개 후 18시간이 채 지나기 전에 24만4,000회 다운로드를 기록했고, 이후 Hugging Face가 이를 삭제했다. 이번 사례는 인기 AI 모델 저장소를 가장한 악성 프로젝트가 짧은 시간 안에 대규모 이용자에게 노출될 수 있음을 보여준다. 특히 신뢰도 높은 브랜드명과 유사한 이름을 사용한 저장소가 빠르게 확산되면서, 모델 다운로드 전 출처 확인의 중요성이 커졌다. 출처: decrypt.co."
+    },
+    "en": {
+      "title": "Fake OpenAI Repo Topped Hugging Face and Stole Passwords",
+      "excerpt": "A fake repo impersonating OpenAI’s Privacy Filter model logged 244,000 downloads in under 18 hours before Hugging Face removed it.",
+      "body": "A fake repository impersonating OpenAI’s Privacy Filter model was found stealing user passwords while it ranked No. 1 on Hugging Face’s trending list. The repository recorded 244,000 downloads in less than 18 hours after going public before Hugging Face removed it. The case shows how a malicious project posing as a popular AI model repository can reach a large audience in a very short time. By using a name similar to a trusted brand, the repository spread quickly, underscoring the importance of checking the source before downloading models. Source: decrypt.co."
+    },
+    "ja": {
+      "title": "偽OpenAIリポジトリ、Hugging Face首位でパスワード窃取",
+      "excerpt": "OpenAIのPrivacy Filterモデルを装った偽リポジトリが18時間未満で24万4,000件のダウンロードを記録し、Hugging Faceに削除された。",
+      "body": "OpenAIのPrivacy Filterモデルを装った偽リポジトリが、Hugging Faceのトレンド1位に上がる間に利用者のパスワードを盗んでいたことが分かった。このリポジトリは公開後18時間に満たないうちに24万4,000件のダウンロードを記録し、その後Hugging Faceによって削除された。今回の事例は、人気AIモデルのリポジトリを装う悪質なプロジェクトが短時間で大規模な利用者に届く可能性を示している。信頼度の高いブランド名に似た名称を使ったリポジトリが急速に広がったことで、モデルをダウンロードする前に出所を確認する重要性が高まった。出典: decrypt.co。"
+    },
+    "zh": {
+      "title": "假冒OpenAI仓库登顶Hugging Face并窃取密码",
+      "excerpt": "一个假冒OpenAI Privacy Filter模型的仓库在不到18小时内获得244,000次下载，随后被Hugging Face下架。",
+      "body": "一个假冒OpenAI Privacy Filter模型的虚假仓库在登上Hugging Face趋势榜第一期间，被发现窃取用户密码。该仓库公开后不到18小时就记录了244,000次下载，随后被Hugging Face删除。此事显示，伪装成热门AI模型仓库的恶意项目，可能在很短时间内触达大量用户。该仓库使用了与高信任度品牌相似的名称并迅速传播，也凸显出在下载模型前核实来源的重要性。来源：decrypt.co。"
+    },
+    "es": {
+      "title": "Repo falso de OpenAI lideró Hugging Face y robó contraseñas",
+      "excerpt": "Un repositorio falso que imitaba el modelo Privacy Filter de OpenAI sumó 244.000 descargas en menos de 18 horas antes de ser retirado por Hugging Face.",
+      "body": "Un repositorio falso que se hacía pasar por el modelo Privacy Filter de OpenAI fue detectado robando contraseñas de usuarios mientras ocupaba el puesto número uno en las tendencias de Hugging Face. El repositorio registró 244.000 descargas en menos de 18 horas desde su publicación, antes de que Hugging Face lo eliminara. El caso muestra cómo un proyecto malicioso que imita un repositorio popular de modelos de IA puede llegar a una gran cantidad de usuarios en muy poco tiempo. Al usar un nombre similar al de una marca de confianza, se difundió rápidamente y reforzó la necesidad de verificar la fuente antes de descargar modelos. Fuente: decrypt.co."
+    },
+    "pt": {
+      "title": "Repo falso da OpenAI liderou Hugging Face e roubou senhas",
+      "excerpt": "Um repositório falso que imitava o modelo Privacy Filter da OpenAI somou 244.000 downloads em menos de 18 horas antes de ser removido pela Hugging Face.",
+      "body": "Um repositório falso que se passava pelo modelo Privacy Filter da OpenAI foi identificado roubando senhas de usuários enquanto ocupava o primeiro lugar nas tendências da Hugging Face. O repositório registrou 244.000 downloads em menos de 18 horas após ser publicado, até ser removido pela Hugging Face. O caso mostra como um projeto malicioso disfarçado de repositório popular de modelo de IA pode alcançar muitos usuários em pouco tempo. Ao usar um nome parecido com o de uma marca confiável, ele se espalhou rapidamente, reforçando a importância de verificar a origem antes de baixar modelos. Fonte: decrypt.co."
+    },
+    "de": {
+      "title": "Gefälschtes OpenAI-Repo führte Hugging Face an und stahl Passwörter",
+      "excerpt": "Ein gefälschtes Repository, das OpenAIs Privacy-Filter-Modell imitierte, erreichte in unter 18 Stunden 244.000 Downloads, bevor Hugging Face es entfernte.",
+      "body": "Ein gefälschtes Repository, das sich als OpenAIs Privacy-Filter-Modell ausgab, soll Nutzerpasswörter gestohlen haben, während es auf Hugging Face den ersten Platz der Trends belegte. Das Repository verzeichnete weniger als 18 Stunden nach seiner Veröffentlichung 244.000 Downloads, bevor Hugging Face es entfernte. Der Fall zeigt, wie ein bösartiges Projekt, das ein beliebtes KI-Modell-Repository imitiert, in kurzer Zeit viele Nutzer erreichen kann. Durch einen Namen, der einer vertrauenswürdigen Marke ähnelt, verbreitete es sich schnell und macht deutlich, wie wichtig die Prüfung der Quelle vor dem Download von Modellen ist. Quelle: decrypt.co."
+    },
+    "fr": {
+      "title": "Un faux dépôt OpenAI en tête de Hugging Face volait des mots de passe",
+      "excerpt": "Un faux dépôt imitant le modèle Privacy Filter d’OpenAI a atteint 244 000 téléchargements en moins de 18 heures avant son retrait par Hugging Face.",
+      "body": "Un faux dépôt se faisant passer pour le modèle Privacy Filter d’OpenAI a été repéré en train de voler des mots de passe d’utilisateurs alors qu’il occupait la première place des tendances sur Hugging Face. Le dépôt a enregistré 244 000 téléchargements en moins de 18 heures après sa publication, avant d’être supprimé par Hugging Face. Ce cas montre qu’un projet malveillant imitant un dépôt populaire de modèle d’IA peut toucher un grand nombre d’utilisateurs en très peu de temps. En utilisant un nom proche d’une marque de confiance, il s’est diffusé rapidement, soulignant l’importance de vérifier la source avant de télécharger des modèles. Source : decrypt.co."
+    },
+    "ar": {
+      "title": "مستودع OpenAI مزيف تصدر Hugging Face وسرق كلمات المرور",
+      "excerpt": "مستودع مزيف ينتحل نموذج Privacy Filter من OpenAI سجل 244 ألف تنزيل في أقل من 18 ساعة قبل أن تزيله Hugging Face.",
+      "body": "تبيّن أن مستودعا مزيفا ينتحل نموذج Privacy Filter من OpenAI كان يسرق كلمات مرور المستخدمين بينما تصدر قائمة الرائج على Hugging Face. وسجل المستودع 244 ألف عملية تنزيل في أقل من 18 ساعة بعد نشره، قبل أن تقوم Hugging Face بحذفه. تكشف هذه الواقعة كيف يمكن لمشروع خبيث يتنكر في صورة مستودع نموذج ذكاء اصطناعي شائع أن يصل إلى عدد كبير من المستخدمين خلال وقت قصير جدا. وباستخدام اسم مشابه لعلامة موثوقة، انتشر المستودع بسرعة، ما يبرز أهمية التحقق من المصدر قبل تنزيل النماذج. المصدر: decrypt.co."
+    },
+    "hi": {
+      "title": "फर्जी OpenAI रेपो Hugging Face पर शीर्ष पर पहुंचा और पासवर्ड चुराए",
+      "excerpt": "OpenAI के Privacy Filter मॉडल की नकल करने वाले फर्जी रेपो ने 18 घंटे से कम समय में 244,000 डाउनलोड दर्ज किए, फिर Hugging Face ने उसे हटा दिया।",
+      "body": "OpenAI के Privacy Filter मॉडल की नकल करने वाला एक फर्जी रिपॉजिटरी Hugging Face की ट्रेंडिंग सूची में पहले स्थान पर रहते हुए उपयोगकर्ताओं के पासवर्ड चुराता पाया गया। सार्वजनिक होने के बाद 18 घंटे से कम समय में इसने 244,000 डाउनलोड दर्ज किए, जिसके बाद Hugging Face ने इसे हटा दिया। यह मामला दिखाता है कि लोकप्रिय AI मॉडल रिपॉजिटरी जैसा दिखने वाला दुर्भावनापूर्ण प्रोजेक्ट बहुत कम समय में बड़े उपयोगकर्ता वर्ग तक पहुंच सकता है। भरोसेमंद ब्रांड से मिलते-जुलते नाम के कारण यह तेजी से फैला, जिससे मॉडल डाउनलोड करने से पहले स्रोत की जांच का महत्व बढ़ गया। स्रोत: decrypt.co."
+    },
+    "id": {
+      "title": "Repo OpenAI Palsu Puncaki Hugging Face dan Curi Kata Sandi",
+      "excerpt": "Repositori palsu yang meniru model Privacy Filter OpenAI meraih 244.000 unduhan dalam kurang dari 18 jam sebelum dihapus oleh Hugging Face.",
+      "body": "Repositori palsu yang menyamar sebagai model Privacy Filter milik OpenAI diketahui mencuri kata sandi pengguna saat berada di peringkat pertama tren Hugging Face. Repositori itu mencatat 244.000 unduhan dalam waktu kurang dari 18 jam setelah dipublikasikan, sebelum akhirnya dihapus oleh Hugging Face. Kasus ini menunjukkan bahwa proyek berbahaya yang meniru repositori model AI populer dapat menjangkau banyak pengguna dalam waktu sangat singkat. Dengan memakai nama yang mirip dengan merek tepercaya, repositori tersebut menyebar cepat dan menegaskan pentingnya memeriksa sumber sebelum mengunduh model. Sumber: decrypt.co."
+    }
+  }
+}
