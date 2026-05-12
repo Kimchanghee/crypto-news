@@ -1,0 +1,75 @@
+{
+  "id": "8b5d6a0b28de",
+  "slug": "the-ethereum-foundation-unveils-new-clear-signing-standard-t-185325",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-12T18:18:11.860Z",
+  "updatedAt": "2026-05-12T18:18:11.861Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
+  "titleFingerprint": "00c35f157c669db924b04f4783aeec083a36fb0b",
+  "dedupKeys": [
+    "8b5d6a0b28dede80a54162ff39836f4be5b13733",
+    "00c35f157c669db924b04f4783aeec083a36fb0b",
+    "803b94dd519feb7275a7697533cc92916a34b8fd"
+  ],
+  "imageUrl": "/images/articles/8b5d6a0b28de.jpg",
+  "i18n": {
+    "ko": {
+      "title": "이더리움 재단, 악성 거래 승인 막는 ‘클리어 사이닝’ 표준 공개",
+      "excerpt": "이더리움 재단은 피싱 공격과 지갑 탈취로 인한 수십억 달러 손실 이후, 사용자가 암호화폐 거래 승인을 더 안전하고 쉽게 이해하도록 ‘클리어 사이닝’ 표준을 공개했다.",
+      "body": "이더리움 재단이 사용자가 악성 암호화폐 거래를 승인하는 일을 줄이기 위해 새로운 ‘클리어 사이닝’ 표준을 공개했다. 이 표준은 거래 승인 화면을 더 명확하게 만들어 사용자가 무엇에 동의하는지 이해하도록 돕는 데 초점을 둔다. 이번 움직임은 피싱 공격과 지갑 드레인으로 수십억 달러 규모의 손실이 발생한 뒤 나왔다. 이더리움은 복잡한 승인 과정을 더 안전하고 읽기 쉽게 바꾸려 하고 있다. 표준이 확산되면 지갑 이용자는 거래 위험을 더 쉽게 파악할 수 있고, 생태계 전반의 보안 경험도 개선될 수 있다. 출처: coindesk.com."
+    },
+    "en": {
+      "title": "Ethereum Foundation Unveils Clear Signing Standard to Block Malicious Crypto Approvals",
+      "excerpt": "The Ethereum Foundation has introduced a Clear Signing standard after billions in phishing and wallet-drain losses, aiming to make crypto transaction approvals safer and easier to understand.",
+      "body": "The Ethereum Foundation has unveiled a new “Clear Signing” standard designed to reduce the risk of users approving malicious crypto transactions. The standard focuses on making transaction approval screens clearer so users can better understand what they are agreeing to before signing. The move follows billions of dollars in losses tied to phishing attacks and wallet drains. Ethereum is pushing to make complex approval flows safer and easier to read. If adopted broadly, the standard could help wallet users recognize transaction risks more easily and improve the security experience across the ecosystem. Source: coindesk.com."
+    },
+    "ja": {
+      "title": "イーサリアム財団、悪質な暗号資産取引承認を防ぐClear Signing標準を公開",
+      "excerpt": "イーサリアム財団は、フィッシング攻撃やウォレット流出で数十億ドル規模の損失が出たことを受け、取引承認をより安全で理解しやすくするClear Signing標準を公開した。",
+      "body": "イーサリアム財団は、利用者が悪質な暗号資産取引を承認してしまうリスクを減らすため、新たな「Clear Signing」標準を公開した。この標準は、取引承認画面をより明確にし、利用者が署名前に何に同意しているのかを理解しやすくすることに重点を置く。今回の動きは、フィッシング攻撃やウォレットドレインによって数十億ドル規模の損失が発生した後に示された。イーサリアムは複雑な承認プロセスをより安全で読みやすいものに変えようとしている。普及すれば、ウォレット利用者は取引リスクを把握しやすくなり、エコシステム全体のセキュリティ体験も改善される可能性がある。出典: coindesk.com."
+    },
+    "zh": {
+      "title": "以太坊基金会发布Clear Signing标准，防止恶意加密交易授权",
+      "excerpt": "以太坊基金会在钓鱼攻击和钱包盗取造成数十亿美元损失后，推出Clear Signing标准，旨在让加密交易授权更安全、更易理解。",
+      "body": "以太坊基金会发布了新的“Clear Signing”标准，旨在降低用户批准恶意加密交易的风险。该标准重点在于让交易授权页面更加清晰，帮助用户在签署前理解自己正在同意的内容。此举是在钓鱼攻击和钱包盗取造成数十亿美元损失之后推出的。以太坊正在推动将复杂的授权流程变得更安全、更容易阅读。如果该标准得到广泛采用，钱包用户将更容易识别交易风险，整个生态系统的安全体验也可能得到改善。来源: coindesk.com."
+    },
+    "es": {
+      "title": "Ethereum Foundation presenta Clear Signing para frenar aprobaciones cripto maliciosas",
+      "excerpt": "Ethereum Foundation lanzó el estándar Clear Signing tras miles de millones en pérdidas por phishing y vaciados de billeteras, con el objetivo de hacer las aprobaciones cripto más seguras y comprensibles.",
+      "body": "Ethereum Foundation presentó el nuevo estándar “Clear Signing” para reducir el riesgo de que los usuarios aprueben transacciones cripto maliciosas. La propuesta busca que las pantallas de aprobación sean más claras, de modo que el usuario entienda mejor qué está aceptando antes de firmar. La medida llega después de miles de millones de dólares en pérdidas vinculadas a ataques de phishing y vaciados de billeteras. Ethereum intenta hacer que los flujos de aprobación, a menudo complejos, sean más seguros y fáciles de leer. Si el estándar se adopta ampliamente, los usuarios de billeteras podrían identificar mejor los riesgos de cada transacción y mejorar la experiencia de seguridad del ecosistema. Fuente: coindesk.com."
+    },
+    "pt": {
+      "title": "Ethereum Foundation lança Clear Signing para barrar aprovações cripto maliciosas",
+      "excerpt": "A Ethereum Foundation apresentou o padrão Clear Signing após bilhões em perdas com phishing e drenagem de carteiras, buscando tornar aprovações cripto mais seguras e fáceis de entender.",
+      "body": "A Ethereum Foundation revelou o novo padrão “Clear Signing” para reduzir o risco de usuários aprovarem transações cripto maliciosas. O foco é tornar as telas de aprovação mais claras, ajudando o usuário a entender o que está aceitando antes de assinar. A iniciativa surge após bilhões de dólares em perdas ligadas a ataques de phishing e drenagem de carteiras. A Ethereum busca transformar fluxos de aprovação complexos em processos mais seguros e legíveis. Se o padrão for amplamente adotado, usuários de carteiras poderão reconhecer riscos de transações com mais facilidade, melhorando a experiência de segurança em todo o ecossistema. Fonte: coindesk.com."
+    },
+    "de": {
+      "title": "Ethereum Foundation stellt Clear Signing gegen bösartige Krypto-Freigaben vor",
+      "excerpt": "Die Ethereum Foundation hat nach Milliardenverlusten durch Phishing und Wallet-Drains den Standard Clear Signing vorgestellt, um Krypto-Transaktionsfreigaben sicherer und verständlicher zu machen.",
+      "body": "Die Ethereum Foundation hat den neuen Standard „Clear Signing“ vorgestellt, um das Risiko zu verringern, dass Nutzer bösartige Krypto-Transaktionen freigeben. Der Standard soll Freigabebildschirme klarer machen, damit Nutzer vor dem Signieren besser verstehen, wozu sie zustimmen. Der Schritt folgt auf Milliardenverluste durch Phishing-Angriffe und Wallet-Drains. Ethereum will komplexe Freigabeprozesse sicherer und leichter lesbar machen. Bei breiter Einführung könnte der Standard Wallet-Nutzern helfen, Transaktionsrisiken einfacher zu erkennen, und die Sicherheitserfahrung im gesamten Ökosystem verbessern. Quelle: coindesk.com."
+    },
+    "fr": {
+      "title": "Ethereum Foundation dévoile Clear Signing contre les validations crypto malveillantes",
+      "excerpt": "Ethereum Foundation a présenté le standard Clear Signing après des milliards de dollars perdus dans le phishing et les drains de wallets, afin de rendre les validations crypto plus sûres et lisibles.",
+      "body": "Ethereum Foundation a dévoilé le nouveau standard « Clear Signing » afin de réduire le risque que des utilisateurs approuvent des transactions crypto malveillantes. Le standard vise à rendre les écrans de validation plus clairs pour aider l’utilisateur à comprendre ce qu’il accepte avant de signer. Cette initiative intervient après des milliards de dollars de pertes liées aux attaques de phishing et aux drains de wallets. Ethereum cherche à rendre les processus d’approbation complexes plus sûrs et plus faciles à lire. S’il est largement adopté, ce standard pourrait aider les utilisateurs de wallets à repérer plus facilement les risques des transactions et améliorer l’expérience de sécurité dans l’écosystème. Source: coindesk.com."
+    },
+    "ar": {
+      "title": "مؤسسة إيثريوم تكشف معيار Clear Signing لمنع موافقات العملات المشفرة الخبيثة",
+      "excerpt": "كشفت مؤسسة إيثريوم عن معيار Clear Signing بعد خسائر بمليارات الدولارات من هجمات التصيد واستنزاف المحافظ، بهدف جعل موافقات معاملات العملات المشفرة أكثر أمانا وأسهل فهما.",
+      "body": "كشفت مؤسسة إيثريوم عن معيار جديد باسم “Clear Signing” للحد من خطر موافقة المستخدمين على معاملات عملات مشفرة خبيثة. يركز المعيار على جعل شاشات الموافقة على المعاملات أكثر وضوحا، حتى يفهم المستخدم ما يوافق عليه قبل التوقيع. تأتي هذه الخطوة بعد خسائر بمليارات الدولارات مرتبطة بهجمات التصيد واستنزاف المحافظ. وتسعى إيثريوم إلى جعل مسارات الموافقة المعقدة أكثر أمانا وأسهل قراءة. وإذا تم اعتماد المعيار على نطاق واسع، فقد يساعد مستخدمي المحافظ على التعرف إلى مخاطر المعاملات بسهولة أكبر ويحسن تجربة الأمان في المنظومة. المصدر: coindesk.com."
+    },
+    "hi": {
+      "title": "Ethereum Foundation ने दुर्भावनापूर्ण क्रिप्टो मंजूरियां रोकने के लिए Clear Signing मानक पेश किया",
+      "excerpt": "Ethereum Foundation ने फिशिंग हमलों और वॉलेट ड्रेन से अरबों डॉलर के नुकसान के बाद Clear Signing मानक पेश किया, ताकि क्रिप्टो लेनदेन मंजूरियां अधिक सुरक्षित और समझने में आसान हों।",
+      "body": "Ethereum Foundation ने नया “Clear Signing” मानक पेश किया है, जिसका उद्देश्य उपयोगकर्ताओं द्वारा दुर्भावनापूर्ण क्रिप्टो लेनदेन को मंजूरी देने के जोखिम को कम करना है। यह मानक लेनदेन अनुमोदन स्क्रीन को अधिक स्पष्ट बनाने पर केंद्रित है, ताकि उपयोगकर्ता साइन करने से पहले समझ सकें कि वे किस बात से सहमत हो रहे हैं। यह कदम फिशिंग हमलों और वॉलेट ड्रेन से जुड़े अरबों डॉलर के नुकसान के बाद आया है। Ethereum जटिल अनुमोदन प्रक्रियाओं को अधिक सुरक्षित और पढ़ने में आसान बनाना चाहता है। व्यापक अपनाने पर यह मानक वॉलेट उपयोगकर्ताओं को लेनदेन जोखिम पहचानने में मदद कर सकता है और पूरे इकोसिस्टम में सुरक्षा अनुभव सुधार सकता है। स्रोत: coindesk.com."
+    },
+    "id": {
+      "title": "Ethereum Foundation Rilis Clear Signing untuk Cegah Persetujuan Kripto Berbahaya",
+      "excerpt": "Ethereum Foundation memperkenalkan standar Clear Signing setelah kerugian miliaran dolar akibat phishing dan pengurasan wallet, dengan tujuan membuat persetujuan transaksi kripto lebih aman dan mudah dipahami.",
+      "body": "Ethereum Foundation memperkenalkan standar baru “Clear Signing” untuk mengurangi risiko pengguna menyetujui transaksi kripto berbahaya. Standar ini berfokus pada pembuatan layar persetujuan transaksi yang lebih jelas, sehingga pengguna dapat memahami apa yang mereka setujui sebelum menandatangani. Langkah ini muncul setelah kerugian miliaran dolar akibat serangan phishing dan pengurasan wallet. Ethereum berupaya membuat alur persetujuan yang kompleks menjadi lebih aman dan mudah dibaca. Jika diadopsi luas, standar ini dapat membantu pengguna wallet mengenali risiko transaksi dengan lebih mudah dan meningkatkan pengalaman keamanan di seluruh ekosistem. Sumber: coindesk.com."
+    }
+  }
+}
