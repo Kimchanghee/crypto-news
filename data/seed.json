@@ -1,5 +1,230 @@
 [
   {
+    "id": "78c328833fdf",
+    "slug": "moonpay-acquires-dawn-labs-launches-ai-trading-copilot-for-p-793759",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T01:01:59.481Z",
+    "updatedAt": "2026-05-12T01:01:59.481Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367333/moonpay-acquires-dawn-labs-ai-trading-copilot-prediction-markets",
+    "canonicalUrl": "https://decrypt.co/367333/moonpay-acquires-dawn-labs-ai-trading-copilot-prediction-markets",
+    "titleFingerprint": "d9e3275b868602f355b4a81b11ec4313008304d7",
+    "dedupKeys": [
+      "78c328833fdf9dd0bf6c33ac4d4fbd23b2dc72ea",
+      "d9e3275b868602f355b4a81b11ec4313008304d7",
+      "7b1cbd8658ef183418e5f7766b27538beefa73d7"
+    ],
+    "imageUrl": "/images/articles/78c328833fdf.png",
+    "i18n": {
+      "ko": {
+        "title": "MoonPay, Dawn Labs 인수로 예측시장 AI 트레이딩 코파일럿 출시",
+        "excerpt": "MoonPay가 Dawn Labs를 인수하고 Dawn CLI AI 트레이딩 제품을 선보이며, 사용자가 영어 프롬프트로 자동화된 암호화폐 거래 전략을 만들 수 있게 했다.",
+        "body": "MoonPay가 Dawn Labs를 인수하고 예측시장을 겨냥한 AI 트레이딩 코파일럿을 출시했다. 새 제품인 Dawn CLI는 사용자가 평문 영어 프롬프트를 입력하면 이를 자동화된 암호화폐 거래 전략으로 전환하는 방식이다. 이번 발표의 핵심은 복잡한 거래 조건을 코드나 전문 도구 없이 자연어로 구성할 수 있다는 점이다. MoonPay는 Dawn Labs 인수를 통해 AI 기반 거래 제품을 내놓았으며, 예측시장과 암호화폐 자동매매 영역에서 사용자 접근성을 높이는 데 초점을 맞췄다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "MoonPay Acquires Dawn Labs to Launch AI Copilot for Prediction Markets",
+        "excerpt": "MoonPay acquired Dawn Labs and introduced Dawn CLI, an AI trading product that turns plain-English prompts into automated crypto trading strategies.",
+        "body": "MoonPay has acquired Dawn Labs and launched an AI trading copilot aimed at prediction markets. The new product, Dawn CLI, lets users enter plain-English prompts and convert them into automated crypto trading strategies. The key point of the announcement is that complex trading conditions can be structured in natural language, without code or specialized tools. Through the Dawn Labs acquisition, MoonPay has introduced an AI-based trading product focused on making prediction markets and automated crypto trading more accessible to users. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "MoonPay、Dawn Labs買収で予測市場向けAI取引コパイロット発表",
+        "excerpt": "MoonPayはDawn Labsを買収し、英語の自然文プロンプトを自動化された暗号資産取引戦略に変換するDawn CLIを発表した。",
+        "body": "MoonPayはDawn Labsを買収し、予測市場向けのAI取引コパイロットを発表した。新製品のDawn CLIは、ユーザーが英語の自然文プロンプトを入力すると、それを自動化された暗号資産取引戦略に変換する仕組みだ。今回の発表の要点は、複雑な取引条件をコードや専門ツールなしに自然言語で構成できる点にある。MoonPayはDawn Labsの買収を通じてAIベースの取引製品を投入し、予測市場と暗号資産の自動取引におけるユーザーのアクセス性向上に焦点を当てている。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "MoonPay收购Dawn Labs，推出预测市场AI交易副驾驶",
+        "excerpt": "MoonPay收购Dawn Labs并推出Dawn CLI AI交易产品，让用户用英文提示生成自动化加密货币交易策略。",
+        "body": "MoonPay已收购Dawn Labs，并推出面向预测市场的AI交易副驾驶。新产品Dawn CLI允许用户输入普通英文提示，并将其转换为自动化加密货币交易策略。此次发布的核心在于，复杂交易条件可通过自然语言完成配置，而无需代码或专业工具。通过收购Dawn Labs，MoonPay推出了基于AI的交易产品，重点提升用户进入预测市场和加密货币自动交易领域的便利性。来源: decrypt.co"
+      },
+      "es": {
+        "title": "MoonPay compra Dawn Labs y lanza copiloto de IA para mercados predictivos",
+        "excerpt": "MoonPay adquirió Dawn Labs y presentó Dawn CLI, un producto de trading con IA que convierte prompts en inglés en estrategias cripto automatizadas.",
+        "body": "MoonPay adquirió Dawn Labs y lanzó un copiloto de trading con IA orientado a los mercados predictivos. El nuevo producto, Dawn CLI, permite que los usuarios escriban prompts en inglés común y los conviertan en estrategias automatizadas de trading de criptomonedas. El punto central del anuncio es que condiciones de operación complejas pueden estructurarse con lenguaje natural, sin código ni herramientas especializadas. Con la compra de Dawn Labs, MoonPay presentó un producto de trading basado en IA enfocado en mejorar el acceso de los usuarios a los mercados predictivos y al trading cripto automatizado. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "MoonPay compra Dawn Labs e lança copiloto de IA para mercados preditivos",
+        "excerpt": "A MoonPay adquiriu a Dawn Labs e apresentou o Dawn CLI, produto de trading com IA que transforma prompts em inglês em estratégias cripto automatizadas.",
+        "body": "A MoonPay adquiriu a Dawn Labs e lançou um copiloto de trading com IA voltado a mercados preditivos. O novo produto, Dawn CLI, permite que usuários insiram prompts em inglês simples e os transformem em estratégias automatizadas de negociação de criptomoedas. O ponto central do anúncio é que condições complexas de trading podem ser estruturadas em linguagem natural, sem código ou ferramentas especializadas. Com a aquisição da Dawn Labs, a MoonPay apresentou um produto de trading baseado em IA focado em ampliar o acesso dos usuários a mercados preditivos e à negociação cripto automatizada. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "MoonPay kauft Dawn Labs und startet KI-Copilot für Prognosemärkte",
+        "excerpt": "MoonPay hat Dawn Labs übernommen und Dawn CLI vorgestellt, ein KI-Tradingprodukt, das englische Prompts in automatisierte Krypto-Strategien umwandelt.",
+        "body": "MoonPay hat Dawn Labs übernommen und einen KI-Trading-Copiloten für Prognosemärkte gestartet. Das neue Produkt Dawn CLI ermöglicht es Nutzern, einfache englische Prompts einzugeben und daraus automatisierte Handelsstrategien für Kryptowährungen zu erstellen. Der Kern der Ankündigung liegt darin, dass komplexe Handelsbedingungen in natürlicher Sprache strukturiert werden können, ohne Code oder spezielle Werkzeuge. Mit der Übernahme von Dawn Labs bringt MoonPay ein KI-basiertes Tradingprodukt auf den Markt, das den Zugang zu Prognosemärkten und automatisiertem Kryptohandel erleichtern soll. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "MoonPay rachète Dawn Labs et lance un copilote IA pour marchés prédictifs",
+        "excerpt": "MoonPay a acquis Dawn Labs et présenté Dawn CLI, un produit de trading IA qui transforme des prompts en anglais en stratégies crypto automatisées.",
+        "body": "MoonPay a acquis Dawn Labs et lancé un copilote de trading IA destiné aux marchés prédictifs. Le nouveau produit, Dawn CLI, permet aux utilisateurs de saisir des prompts en anglais courant et de les convertir en stratégies automatisées de trading de cryptomonnaies. Le point central de l’annonce est que des conditions de trading complexes peuvent être structurées en langage naturel, sans code ni outils spécialisés. Avec l’acquisition de Dawn Labs, MoonPay introduit un produit de trading basé sur l’IA axé sur l’amélioration de l’accès des utilisateurs aux marchés prédictifs et au trading crypto automatisé. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "MoonPay تستحوذ على Dawn Labs وتطلق مساعد تداول بالذكاء الاصطناعي",
+        "excerpt": "استحوذت MoonPay على Dawn Labs وقدمت Dawn CLI، منتج تداول بالذكاء الاصطناعي يحول الأوامر الإنجليزية إلى استراتيجيات تداول كريبتو آلية.",
+        "body": "استحوذت MoonPay على Dawn Labs وأطلقت مساعد تداول بالذكاء الاصطناعي موجها إلى أسواق التوقعات. المنتج الجديد Dawn CLI يتيح للمستخدمين إدخال أوامر باللغة الإنجليزية العادية وتحويلها إلى استراتيجيات تداول آلية للعملات المشفرة. جوهر الإعلان أن شروط التداول المعقدة يمكن بناؤها بلغة طبيعية من دون كود أو أدوات متخصصة. ومن خلال الاستحواذ على Dawn Labs، طرحت MoonPay منتج تداول قائما على الذكاء الاصطناعي يركز على تسهيل وصول المستخدمين إلى أسواق التوقعات والتداول الآلي للعملات المشفرة. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "MoonPay ने Dawn Labs खरीदकर प्रेडिक्शन मार्केट AI ट्रेडिंग कोपायलट लॉन्च किया",
+        "excerpt": "MoonPay ने Dawn Labs का अधिग्रहण कर Dawn CLI पेश किया, जो सादे अंग्रेजी प्रॉम्प्ट को स्वचालित क्रिप्टो ट्रेडिंग रणनीतियों में बदलता है।",
+        "body": "MoonPay ने Dawn Labs का अधिग्रहण किया और प्रेडिक्शन मार्केट के लिए AI ट्रेडिंग कोपायलट लॉन्च किया। नया उत्पाद Dawn CLI उपयोगकर्ताओं को सादे अंग्रेजी प्रॉम्प्ट दर्ज करने और उन्हें स्वचालित क्रिप्टोकरेंसी ट्रेडिंग रणनीतियों में बदलने की सुविधा देता है। इस घोषणा का मुख्य बिंदु यह है कि जटिल ट्रेडिंग शर्तों को कोड या विशेष टूल के बिना प्राकृतिक भाषा में तैयार किया जा सकता है। Dawn Labs के अधिग्रहण के जरिए MoonPay ने AI आधारित ट्रेडिंग उत्पाद पेश किया है, जिसका ध्यान प्रेडिक्शन मार्केट और स्वचालित क्रिप्टो ट्रेडिंग तक उपयोगकर्ता पहुंच बढ़ाने पर है। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "MoonPay Akuisisi Dawn Labs, Luncurkan Kopilot AI untuk Pasar Prediksi",
+        "excerpt": "MoonPay mengakuisisi Dawn Labs dan memperkenalkan Dawn CLI, produk trading AI yang mengubah prompt bahasa Inggris menjadi strategi kripto otomatis.",
+        "body": "MoonPay mengakuisisi Dawn Labs dan meluncurkan kopilot trading AI untuk pasar prediksi. Produk baru bernama Dawn CLI memungkinkan pengguna memasukkan prompt bahasa Inggris sederhana dan mengubahnya menjadi strategi trading kripto otomatis. Inti pengumuman ini adalah bahwa kondisi trading yang kompleks dapat disusun dengan bahasa alami, tanpa kode atau alat khusus. Melalui akuisisi Dawn Labs, MoonPay menghadirkan produk trading berbasis AI yang berfokus pada peningkatan akses pengguna ke pasar prediksi dan trading kripto otomatis. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "b550dae7310e",
+    "slug": "ripple-lands-200-million-financing-facility-to-expand-instit-465656",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T01:01:11.338Z",
+    "updatedAt": "2026-05-12T01:01:11.338Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367396/ripple-200-million-financing-facility-expand-institutional-crypto-brokerage",
+    "canonicalUrl": "https://decrypt.co/367396/ripple-200-million-financing-facility-expand-institutional-crypto-brokerage",
+    "titleFingerprint": "7bd3fc8bf4646e2a4df441925e11ec05146e4665",
+    "dedupKeys": [
+      "b550dae7310ebd5b523db0e3de5a99f132c8d523",
+      "7bd3fc8bf4646e2a4df441925e11ec05146e4665",
+      "d36d05eddb7cbcbc0e7a42ec2052e1af3e1f7071"
+    ],
+    "imageUrl": "/images/articles/b550dae7310e.png",
+    "i18n": {
+      "ko": {
+        "title": "리플, 2억 달러 금융 한도 확보…기관용 크립토 프라임 브로커리지 확대",
+        "excerpt": "XRP 연계 기업 리플이 Neuberger Specialty Finance로부터 2억 달러 규모 금융 한도를 확보해 기관 대상 프라임 브로커리지 플랫폼 성장을 추진한다.",
+        "body": "XRP와 연계된 리플은 Neuberger Specialty Finance로부터 2억 달러 규모의 금융 한도를 확보해 기관용 크립토 프라임 브로커리지 플랫폼 확장에 나선다. 이번 자금 조달은 리플이 기관 투자자를 대상으로 한 중개·거래 지원 역량을 키우려는 움직임으로, 회사의 프라임 브로커리지 성장 재원으로 활용될 예정이다. 핵심 수치는 2억 달러이며, 자금 제공 주체는 Neuberger Specialty Finance다. 기관 고객 기반 확대와 플랫폼 운영 규모 확장이 주요 영향으로 거론된다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Ripple Secures $200M Facility to Expand Institutional Crypto Prime Brokerage",
+        "excerpt": "XRP-linked Ripple secured a $200 million financing facility from Neuberger Specialty Finance to support growth of its institutional prime brokerage platform.",
+        "body": "XRP-linked Ripple has secured a $200 million financing facility from Neuberger Specialty Finance to expand its institutional crypto prime brokerage platform. The financing is intended to support growth of Ripple’s prime brokerage operations for institutional clients, strengthening its capacity to provide brokerage and trading-related services. The key figure is $200 million, with Neuberger Specialty Finance named as the financing provider. The main expected effect is broader institutional reach and a larger operating base for the platform. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "リップル、2億ドル融資枠を確保し機関向け暗号資産プライム仲介を拡大",
+        "excerpt": "XRP関連企業リップルはNeuberger Specialty Financeから2億ドル規模の融資枠を確保し、機関向けプライムブローカレッジ基盤の成長を進める。",
+        "body": "XRPに関連するリップルは、Neuberger Specialty Financeから2億ドル規模の融資枠を確保し、機関投資家向け暗号資産プライムブローカレッジ・プラットフォームの拡大に乗り出す。今回の資金調達は、機関顧客向けの仲介および取引支援能力を高めるための成長資金として活用される予定だ。主要な数字は2億ドルで、資金提供元はNeuberger Specialty Finance。機関顧客基盤の拡大とプラットフォーム運営規模の拡張が主な影響として示されている。出典: decrypt.co."
+      },
+      "zh": {
+        "title": "Ripple获2亿美元融资额度，扩大机构加密主经纪业务",
+        "excerpt": "与XRP相关的Ripple从Neuberger Specialty Finance获得2亿美元融资额度，用于推动其机构级主经纪平台增长。",
+        "body": "与XRP相关的Ripple已从Neuberger Specialty Finance获得2亿美元融资额度，用于扩展其面向机构的加密货币主经纪平台。此次融资将作为Ripple机构客户经纪和交易支持能力增长的资金来源，帮助其扩大主经纪业务。核心数字为2亿美元，资金提供方为Neuberger Specialty Finance。其主要影响在于扩大机构客户覆盖范围，并提升平台运营规模。来源：decrypt.co。"
+      },
+      "es": {
+        "title": "Ripple obtiene línea de $200M para ampliar su prime brokerage cripto institucional",
+        "excerpt": "Ripple, vinculada a XRP, obtuvo una línea de financiación de $200 millones de Neuberger Specialty Finance para impulsar su plataforma prime brokerage institucional.",
+        "body": "Ripple, empresa vinculada a XRP, obtuvo una línea de financiación de $200 millones de Neuberger Specialty Finance para ampliar su plataforma de prime brokerage cripto para instituciones. El financiamiento se destinará al crecimiento de sus operaciones de corretaje principal orientadas a clientes institucionales y a reforzar su capacidad de apoyo en intermediación y negociación. La cifra clave es de $200 millones y el proveedor es Neuberger Specialty Finance. El efecto principal previsto es una mayor llegada a clientes institucionales y una base operativa más amplia. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Ripple garante linha de US$ 200 mi para ampliar prime brokerage cripto institucional",
+        "excerpt": "A Ripple, ligada ao XRP, obteve uma linha de financiamento de US$ 200 milhões da Neuberger Specialty Finance para expandir sua plataforma institucional.",
+        "body": "A Ripple, empresa ligada ao XRP, garantiu uma linha de financiamento de US$ 200 milhões da Neuberger Specialty Finance para ampliar sua plataforma de prime brokerage cripto voltada a instituições. Os recursos devem apoiar o crescimento das operações de corretagem principal da Ripple para clientes institucionais, fortalecendo sua capacidade de oferecer serviços de intermediação e suporte a negociações. O valor central é de US$ 200 milhões, com a Neuberger Specialty Finance como provedora. O impacto esperado é ampliar o alcance institucional e a escala operacional da plataforma. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Ripple sichert 200-Millionen-Dollar-Linie für institutionelles Krypto-Prime-Brokerage",
+        "excerpt": "Das mit XRP verbundene Unternehmen Ripple erhält von Neuberger Specialty Finance eine Finanzierungsfazilität über 200 Millionen Dollar für seine Prime-Brokerage-Plattform.",
+        "body": "Das mit XRP verbundene Unternehmen Ripple hat von Neuberger Specialty Finance eine Finanzierungsfazilität über 200 Millionen Dollar erhalten, um seine institutionelle Krypto-Prime-Brokerage-Plattform auszubauen. Die Mittel sollen das Wachstum der Prime-Brokerage-Aktivitäten für institutionelle Kunden unterstützen und Ripples Kapazitäten bei Vermittlungs- und handelsnahen Dienstleistungen stärken. Die zentrale Kennzahl sind 200 Millionen Dollar, der Finanzierungsgeber ist Neuberger Specialty Finance. Erwartet wird vor allem eine größere institutionelle Reichweite und eine breitere operative Plattformbasis. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Ripple obtient 200 M$ pour étendre son prime brokerage crypto institutionnel",
+        "excerpt": "Ripple, liée au XRP, a obtenu une facilité de financement de 200 millions de dollars auprès de Neuberger Specialty Finance pour soutenir sa plateforme institutionnelle.",
+        "body": "Ripple, société liée au XRP, a obtenu auprès de Neuberger Specialty Finance une facilité de financement de 200 millions de dollars afin d’étendre sa plateforme de prime brokerage crypto destinée aux institutions. Ce financement doit soutenir la croissance des activités de courtage principal de Ripple pour les clients institutionnels et renforcer ses capacités de services liés à l’intermédiation et à la négociation. Le chiffre clé est de 200 millions de dollars, avec Neuberger Specialty Finance comme fournisseur. L’effet attendu est un élargissement de la clientèle institutionnelle et de l’échelle opérationnelle. Source: decrypt.co."
+      },
+      "ar": {
+        "title": "ريبل تحصل على تمويل بـ200 مليون دولار لتوسيع وساطة الكريبتو المؤسسية",
+        "excerpt": "حصلت ريبل المرتبطة بـXRP على تسهيل تمويلي بقيمة 200 مليون دولار من Neuberger Specialty Finance لدعم نمو منصة الوساطة الرئيسية للمؤسسات.",
+        "body": "حصلت ريبل، الشركة المرتبطة بـXRP، على تسهيل تمويلي بقيمة 200 مليون دولار من Neuberger Specialty Finance لتوسيع منصة الوساطة الرئيسية للعملات المشفرة الموجهة للمؤسسات. وسيُستخدم التمويل لدعم نمو عمليات الوساطة الرئيسية لدى ريبل للعملاء المؤسسيين وتعزيز قدرتها على تقديم خدمات مرتبطة بالوساطة والتداول. الرقم الأساسي هو 200 مليون دولار، والجهة المقدمة للتمويل هي Neuberger Specialty Finance. ويتمثل الأثر المتوقع في توسيع قاعدة العملاء المؤسسيين وزيادة نطاق تشغيل المنصة. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "Ripple को $200 मिलियन सुविधा मिली, संस्थागत क्रिप्टो प्राइम ब्रोकरेज का विस्तार",
+        "excerpt": "XRP से जुड़ी Ripple ने Neuberger Specialty Finance से $200 मिलियन की वित्तीय सुविधा हासिल की है, जिससे वह संस्थागत प्राइम ब्रोकरेज प्लेटफॉर्म बढ़ाएगी।",
+        "body": "XRP से जुड़ी Ripple ने Neuberger Specialty Finance से $200 मिलियन की वित्तीय सुविधा हासिल की है, ताकि वह संस्थागत क्रिप्टो प्राइम ब्रोकरेज प्लेटफॉर्म का विस्तार कर सके। यह वित्तपोषण संस्थागत ग्राहकों के लिए Ripple की प्राइम ब्रोकरेज गतिविधियों की वृद्धि में इस्तेमाल होगा और ब्रोकरेज व ट्रेडिंग-संबंधी सेवाओं की क्षमता को मजबूत करेगा। प्रमुख आंकड़ा $200 मिलियन है और वित्तपोषण देने वाली संस्था Neuberger Specialty Finance है। इसका मुख्य प्रभाव संस्थागत ग्राहकों तक व्यापक पहुंच और प्लेटफॉर्म के परिचालन पैमाने में विस्तार माना जा रहा है। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Ripple Raih Fasilitas $200 Juta untuk Perluas Prime Brokerage Kripto Institusional",
+        "excerpt": "Ripple yang terkait XRP memperoleh fasilitas pembiayaan $200 juta dari Neuberger Specialty Finance untuk mendorong pertumbuhan platform prime brokerage institusional.",
+        "body": "Ripple, perusahaan yang terkait dengan XRP, memperoleh fasilitas pembiayaan senilai $200 juta dari Neuberger Specialty Finance untuk memperluas platform prime brokerage kripto bagi institusi. Dana ini akan digunakan untuk mendukung pertumbuhan operasi prime brokerage Ripple bagi klien institusional serta memperkuat kapasitas layanan perantara dan dukungan perdagangan. Angka utamanya adalah $200 juta, dengan Neuberger Specialty Finance sebagai penyedia pembiayaan. Dampak utama yang disebutkan adalah perluasan jangkauan klien institusional dan skala operasional platform. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "0d98fca7a014",
+    "slug": "bank-of-england-chief-flags-coming-wrestle39-with-us-on-stab-925494",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T01:00:11.640Z",
+    "updatedAt": "2026-05-12T01:00:11.640Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367399/bank-of-england-chief-flags-coming-wrestle-with-us-on-stablecoin-oversight",
+    "canonicalUrl": "https://decrypt.co/367399/bank-of-england-chief-flags-coming-wrestle-with-us-on-stablecoin-oversight",
+    "titleFingerprint": "de46a3caa9868c488660560e87fa02b5d5ec2b90",
+    "dedupKeys": [
+      "0d98fca7a0141240a6f89953f932cf4e96a0c63d",
+      "de46a3caa9868c488660560e87fa02b5d5ec2b90",
+      "d1e03b7f6672131f3cfe6e02987b60fc75df2409"
+    ],
+    "imageUrl": "/images/articles/0d98fca7a014.jpg",
+    "i18n": {
+      "ko": {
+        "title": "영란은행 총재, 스테이블코인 감독 놓고 미국과 충돌 예고",
+        "excerpt": "영란은행 총재는 decrypt.co 보도에서 GENIUS Act의 상환 보장 격차로 위기 때 달러 기반 스테이블코인이 영국에 몰릴 수 있다고 경고했다.",
+        "body": "영란은행 총재는 decrypt.co 보도에서 미국과 스테이블코인 감독을 둘러싼 ‘다가올 힘겨루기’를 경고했다. 핵심 쟁점은 위기 상황에서 미국 달러 기반 토큰이 영국 시장으로 대거 유입될 수 있다는 점이다. 배경에는 미국 GENIUS Act와 영국 규제 체계 사이의 상환 보장 차이가 있다. 총재는 상환 보장이 충분하지 않을 경우 투자자와 이용자가 더 안전해 보이는 시장으로 이동할 수 있다고 봤다. 이는 영국 금융 안정성과 스테이블코인 감독 기준을 둘러싼 미·영 조율 과제로 이어질 전망이다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Bank of England Warns of US Stablecoin Oversight Clash",
+        "excerpt": "The Bank of England governor warned in a decrypt.co report that gaps in GENIUS Act redemption guarantees could send dollar stablecoins into Britain during a crisis.",
+        "body": "The Bank of England governor warned, according to decrypt.co, of a “coming wrestle” with the United States over stablecoin oversight. The central issue is that U.S. dollar-based tokens could pour into the British market during a crisis. The concern stems from differences between the U.S. GENIUS Act and the U.K. regulatory framework on redemption guarantees. The governor said that if redemption protections are not sufficient, investors and users may move toward markets that appear safer. The issue is expected to become a coordination challenge for the U.K. and U.S. over financial stability and stablecoin supervision standards. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "英中銀総裁、ステーブルコイン監督で米国との対立を警告",
+        "excerpt": "英中銀総裁はdecrypt.coの報道で、GENIUS Actの償還保証の差により危機時にドル建てステーブルコインが英国へ流入し得ると警告した。",
+        "body": "英イングランド銀行総裁はdecrypt.coの報道で、ステーブルコイン監督をめぐり米国との「来るべき綱引き」があると警告した。中心的な論点は、危機時に米ドル建てトークンが英国市場へ大量に流入する可能性だ。背景には、米国のGENIUS Actと英国の規制枠組みの間にある償還保証の差がある。総裁は、償還保護が十分でなければ、投資家や利用者がより安全に見える市場へ移動し得るとみている。これは英国の金融安定とステーブルコイン監督基準をめぐる米英の調整課題になる見通しだ。出典: decrypt.co."
+      },
+      "zh": {
+        "title": "英格兰银行行长警告稳定币监管或与美国交锋",
+        "excerpt": "据decrypt.co报道，英格兰银行行长警告称，GENIUS Act赎回保障差距可能导致危机时美元稳定币涌入英国。",
+        "body": "据decrypt.co报道，英格兰银行行长警告称，围绕稳定币监管，英国与美国可能出现一场“即将到来的较量”。核心问题是，在危机情况下，美元计价代币可能大量流入英国市场。其背景在于美国GENIUS Act与英国监管框架之间存在赎回保障差异。行长认为，如果赎回保护不足，投资者和用户可能转向看起来更安全的市场。这一问题预计将成为英美围绕金融稳定和稳定币监管标准进行协调的重点。来源：decrypt.co。"
+      },
+      "es": {
+        "title": "Banco de Inglaterra advierte choque con EE. UU. por stablecoins",
+        "excerpt": "El gobernador del Banco de Inglaterra advirtió, según decrypt.co, que las brechas de reembolso de la GENIUS Act podrían llevar stablecoins en dólares a Reino Unido en una crisis.",
+        "body": "El gobernador del Banco de Inglaterra advirtió, según decrypt.co, sobre una “próxima pulseada” con Estados Unidos por la supervisión de las stablecoins. El punto central es que los tokens basados en el dólar estadounidense podrían entrar masivamente al mercado británico durante una crisis. La preocupación surge de la diferencia entre la GENIUS Act de EE. UU. y el marco regulatorio británico en garantías de reembolso. El gobernador señaló que, si esas garantías no son suficientes, inversores y usuarios podrían moverse hacia mercados que parezcan más seguros. El tema apunta a ser un reto de coordinación entre Reino Unido y EE. UU. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Banco da Inglaterra alerta para embate com EUA sobre stablecoins",
+        "excerpt": "O governador do Banco da Inglaterra alertou, segundo a decrypt.co, que lacunas nas garantias de resgate da GENIUS Act podem levar stablecoins em dólar ao Reino Unido numa crise.",
+        "body": "O governador do Banco da Inglaterra alertou, segundo a decrypt.co, para uma “disputa iminente” com os Estados Unidos sobre a supervisão de stablecoins. A questão central é que tokens baseados no dólar americano poderiam entrar em massa no mercado britânico durante uma crise. A preocupação vem da diferença entre a GENIUS Act dos EUA e o arcabouço regulatório do Reino Unido em garantias de resgate. O governador afirmou que, se essas proteções não forem suficientes, investidores e usuários podem migrar para mercados que pareçam mais seguros. O tema deve se tornar um desafio de coordenação entre Reino Unido e EUA. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Bank of England warnt vor Konflikt mit USA bei Stablecoins",
+        "excerpt": "Der Gouverneur der Bank of England warnte laut decrypt.co, Lücken bei Rückzahlungszusagen im GENIUS Act könnten in einer Krise Dollar-Stablecoins nach Großbritannien lenken.",
+        "body": "Der Gouverneur der Bank of England warnte laut decrypt.co vor einem bevorstehenden Ringen mit den USA über die Aufsicht von Stablecoins. Im Mittelpunkt steht die Sorge, dass auf US-Dollar lautende Token in einer Krise in großer Zahl in den britischen Markt fließen könnten. Hintergrund sind Unterschiede zwischen dem US-amerikanischen GENIUS Act und dem britischen Regulierungsrahmen bei Rückzahlungsgarantien. Der Gouverneur erklärte, wenn diese Garantien nicht ausreichend seien, könnten Investoren und Nutzer in Märkte wechseln, die sicherer erscheinen. Das Thema dürfte zu einer Koordinierungsaufgabe für Großbritannien und die USA werden. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "La Banque d’Angleterre alerte sur un bras de fer avec les États-Unis",
+        "excerpt": "Le gouverneur de la Banque d’Angleterre a averti, selon decrypt.co, que les écarts de garanties de remboursement du GENIUS Act pourraient attirer des stablecoins en dollars au Royaume-Uni en crise.",
+        "body": "Le gouverneur de la Banque d’Angleterre a averti, selon decrypt.co, d’un « bras de fer à venir » avec les États-Unis sur la supervision des stablecoins. Le point central est que des jetons adossés au dollar américain pourraient affluer sur le marché britannique en période de crise. Cette inquiétude vient des différences entre le GENIUS Act américain et le cadre réglementaire britannique concernant les garanties de remboursement. Le gouverneur estime que, si ces protections sont insuffisantes, investisseurs et utilisateurs pourraient se tourner vers des marchés jugés plus sûrs. Le sujet devrait devenir un enjeu de coordination entre Londres et Washington. Source : decrypt.co."
+      },
+      "ar": {
+        "title": "بنك إنجلترا يحذر من مواجهة مع واشنطن حول رقابة العملات المستقرة",
+        "excerpt": "حذر محافظ بنك إنجلترا، وفق decrypt.co، من أن فجوات ضمان الاسترداد في قانون GENIUS قد تدفع عملات مستقرة بالدولار إلى بريطانيا وقت الأزمات.",
+        "body": "حذر محافظ بنك إنجلترا، وفق تقرير decrypt.co، من «مواجهة قادمة» مع الولايات المتحدة بشأن الرقابة على العملات المستقرة. وتتمثل القضية الأساسية في احتمال تدفق رموز مقومة بالدولار الأمريكي إلى السوق البريطانية بكثافة خلال أي أزمة. ويعود القلق إلى الفجوة بين قانون GENIUS الأمريكي والإطار التنظيمي البريطاني في ضمانات الاسترداد. وقال المحافظ إن نقص هذه الضمانات قد يدفع المستثمرين والمستخدمين إلى الانتقال نحو أسواق تبدو أكثر أمانا. ومن المتوقع أن يصبح الملف تحديا للتنسيق بين بريطانيا والولايات المتحدة حول الاستقرار المالي ومعايير رقابة العملات المستقرة. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "बैंक ऑफ इंग्लैंड ने स्टेबलकॉइन निगरानी पर अमेरिका से टकराव चेताया",
+        "excerpt": "decrypt.co के अनुसार, बैंक ऑफ इंग्लैंड गवर्नर ने चेताया कि GENIUS Act में रिडेम्पशन गारंटी की कमी संकट में डॉलर स्टेबलकॉइन को ब्रिटेन ला सकती है।",
+        "body": "decrypt.co की रिपोर्ट के अनुसार, बैंक ऑफ इंग्लैंड के गवर्नर ने स्टेबलकॉइन निगरानी को लेकर अमेरिका के साथ “आने वाली खींचतान” की चेतावनी दी। मुख्य मुद्दा यह है कि संकट की स्थिति में अमेरिकी डॉलर आधारित टोकन बड़े पैमाने पर ब्रिटेन के बाजार में आ सकते हैं। इसकी पृष्ठभूमि अमेरिकी GENIUS Act और ब्रिटेन के नियामकीय ढांचे के बीच रिडेम्पशन गारंटी के अंतर से जुड़ी है। गवर्नर ने कहा कि यदि रिडेम्पशन सुरक्षा पर्याप्त नहीं हुई, तो निवेशक और उपयोगकर्ता अधिक सुरक्षित दिखने वाले बाजारों की ओर जा सकते हैं। यह मुद्दा वित्तीय स्थिरता और स्टेबलकॉइन निगरानी मानकों पर अमेरिका-ब्रिटेन समन्वय की चुनौती बन सकता है। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Bank of England Peringatkan Benturan dengan AS soal Stablecoin",
+        "excerpt": "Gubernur Bank of England memperingatkan, menurut decrypt.co, celah jaminan penebusan dalam GENIUS Act dapat membuat stablecoin dolar membanjiri Inggris saat krisis.",
+        "body": "Gubernur Bank of England memperingatkan, menurut decrypt.co, adanya “tarik-menarik yang akan datang” dengan Amerika Serikat terkait pengawasan stablecoin. Isu utamanya adalah token berbasis dolar AS dapat mengalir deras ke pasar Inggris dalam situasi krisis. Kekhawatiran ini berasal dari perbedaan antara GENIUS Act di AS dan kerangka regulasi Inggris soal jaminan penebusan. Gubernur menilai, jika perlindungan penebusan tidak memadai, investor dan pengguna dapat berpindah ke pasar yang terlihat lebih aman. Masalah ini diperkirakan menjadi tantangan koordinasi Inggris-AS terkait stabilitas keuangan dan standar pengawasan stablecoin. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
     "id": "fc2b845340b9",
     "slug": "tom-lees-bitmine-slows-ethereum-buying-pace-adding-62-millio-744107",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "MARA Diperkirakan Rugi Kuartal I, Investor Fokus Strategi AI",
         "excerpt": "MARA diperkirakan membukukan rugi pada kuartal pertama, sementara investor melihat melampaui volatilitas bitcoin menuju peluang pendapatan infrastruktur AI dan pusat data jangka panjang.",
         "body": "MARA diperkirakan mencatat kerugian dalam laporan kuartal pertama, sehingga perhatian investor bergeser dari kinerja jangka pendek ke strategi pertumbuhan ke depan. Isu utamanya adalah tekanan yang dapat ditimbulkan volatilitas harga bitcoin terhadap laba dan apakah pendorong pertumbuhan jangka panjang dapat mengimbanginya. Pasar mencermati apakah MARA bisa meraih peluang pendapatan baru dari infrastruktur AI dan bisnis pusat data. Meski perusahaan penambangan bitcoin masih dipengaruhi tren pasar kripto, investor juga menilai potensi diversifikasi bisnis setelah periode volatilitas. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "24994aeb1836",
-    "slug": "new-fed-chair-bases-azul-upgrade-corporate-earnings-crypto-w-118587",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T08:48:34.952Z",
-    "updatedAt": "2026-05-11T08:48:34.952Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/11/new-fed-chair-base-s-azul-upgrade-corporate-earnings-crypto-week-ahead",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/11/new-fed-chair-base-s-azul-upgrade-corporate-earnings-crypto-week-ahead",
-    "titleFingerprint": "812382e02547e9a53fa7f8dc68d4d69f82cac4da",
-    "dedupKeys": [
-      "24994aeb1836710e9604ab694c45ac19d0508d7b",
-      "812382e02547e9a53fa7f8dc68d4d69f82cac4da",
-      "034526802537684d4161091bc18418293c114782"
-    ],
-    "imageUrl": "/images/articles/24994aeb1836.jpg",
-    "i18n": {
-      "ko": {
-        "title": "암호화폐 이번 주 관전 포인트: 새 연준 의장·Base Azul 업그레이드",
-        "excerpt": "5월 11일 시작하는 이번 주 암호화폐 시장은 새 연준 의장 이슈, Base의 Azul 업그레이드, 기업 실적 발표를 중심으로 주요 일정을 주시한다.",
-        "body": "5월 11일 시작하는 이번 주 암호화폐 시장은 새 연준 의장 관련 이슈, Base의 Azul 업그레이드, 기업 실적 발표를 핵심 일정으로 살펴본다. 이번 주 전망은 거시 금융 흐름과 블록체인 인프라 업데이트, 상장 기업의 실적 공개가 동시에 맞물리는 구도다. 원문은 세부 수치나 결과를 제시하기보다, 투자자와 시장 참여자가 주간 일정에서 무엇을 확인해야 하는지에 초점을 맞췄다. 특히 연준 의장 이슈는 정책 기대와 시장 심리에 연결될 수 있고, Base의 Azul 업그레이드는 네트워크 변화로 주목된다. 기업 실적은 관련 주식과 디지털자산 투자 분위기를 함께 점검하는 재료다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Crypto Week Ahead: New Fed Chair, Base Azul Upgrade, Earnings",
-        "excerpt": "For the week starting May 11, crypto markets are watching the new Fed chair issue, Base's Azul upgrade and corporate earnings as the main scheduled catalysts.",
-        "body": "For the week starting May 11, the crypto market is focused on three items: the new Fed chair issue, Base's Azul upgrade and corporate earnings. The week-ahead view brings together macro-financial developments, a blockchain infrastructure update and listed-company results. The original article does not present detailed figures or outcomes; instead, it highlights what investors and market participants should track on the weekly calendar. The Fed chair topic may matter for policy expectations and market sentiment, while Base's Azul upgrade draws attention as a network change. Corporate earnings also provide a way to assess the mood around related stocks and digital assets. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "暗号資産の今週注目点：新FRB議長、Base Azul更新、企業決算",
-        "excerpt": "5月11日に始まる今週の暗号資産市場は、新FRB議長を巡る動き、BaseのAzulアップグレード、企業決算発表を主要予定として注視する。",
-        "body": "5月11日に始まる今週の暗号資産市場では、新FRB議長に関するテーマ、BaseのAzulアップグレード、企業決算発表が主な予定として注目される。今週の見通しは、マクロ金融の流れ、ブロックチェーン基盤の更新、上場企業の決算公開が同時に重なる構図だ。原文は詳細な数値や結果を示すのではなく、投資家と市場参加者が週間予定で何を確認すべきかに焦点を当てている。FRB議長の話題は政策期待や市場心理につながる可能性があり、BaseのAzulアップグレードはネットワークの変化として注目される。企業決算は関連株とデジタル資産投資の雰囲気を点検する材料となる。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "本周加密市场看点：新美联储主席、Base Azul升级与财报",
-        "excerpt": "5月11日开始的这一周，加密市场将关注新美联储主席相关议题、Base的Azul升级以及企业财报发布等主要日程。",
-        "body": "5月11日开始的这一周，加密市场的核心关注点包括新美联储主席相关议题、Base的Azul升级以及企业财报发布。本周展望把宏观金融动向、区块链基础设施更新和上市公司业绩披露放在同一时间框架下观察。原文并未给出具体数据或结果，而是强调投资者和市场参与者在周度日程中需要关注什么。美联储主席议题可能与政策预期和市场情绪相关，Base的Azul升级则因网络变化而受到关注。企业财报也为评估相关股票和数字资产投资氛围提供参考。来源: coindesk.com."
-      },
-      "es": {
-        "title": "Semana cripto: nuevo presidente de la Fed, Azul de Base y resultados",
-        "excerpt": "En la semana que empieza el 11 de mayo, el mercado cripto sigue el nuevo presidente de la Fed, la actualización Azul de Base y los resultados corporativos.",
-        "body": "En la semana que comienza el 11 de mayo, el mercado de criptomonedas se centra en tres puntos: el tema del nuevo presidente de la Fed, la actualización Azul de Base y los resultados corporativos. La agenda combina factores macrofinancieros, una actualización de infraestructura blockchain y la publicación de cifras de empresas cotizadas. El artículo original no ofrece datos detallados ni resultados; se enfoca en qué deben vigilar inversores y participantes del mercado durante la semana. El asunto de la Fed puede influir en expectativas de política y ánimo del mercado, mientras que Azul de Base destaca como cambio de red. Los resultados corporativos también sirven para medir el tono en acciones relacionadas y activos digitales. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Semana cripto: novo presidente do Fed, Azul da Base e balanços",
-        "excerpt": "Na semana iniciada em 11 de maio, o mercado cripto acompanha o novo presidente do Fed, a atualização Azul da Base e os balanços corporativos.",
-        "body": "Na semana que começa em 11 de maio, o mercado de criptomoedas observa três pontos centrais: o tema do novo presidente do Fed, a atualização Azul da Base e os balanços corporativos. A leitura da semana reúne movimentos macrofinanceiros, uma atualização de infraestrutura blockchain e a divulgação de resultados de empresas listadas. O texto original não apresenta números detalhados nem resultados; ele destaca o que investidores e participantes do mercado devem acompanhar no calendário semanal. O tema do Fed pode se relacionar a expectativas de política e sentimento de mercado, enquanto a atualização Azul da Base chama atenção como mudança de rede. Os balanços também ajudam a avaliar o clima em ações relacionadas e ativos digitais. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Krypto-Woche: neuer Fed-Chef, Base Azul Upgrade und Bilanzen",
-        "excerpt": "In der Woche ab dem 11. Mai blickt der Kryptomarkt auf das Thema neuer Fed-Chef, das Azul-Upgrade von Base und anstehende Unternehmenszahlen.",
-        "body": "In der Woche ab dem 11. Mai richtet sich der Kryptomarkt auf drei Punkte: das Thema neuer Fed-Chef, das Azul-Upgrade von Base und Unternehmenszahlen. Der Wochenausblick verbindet makrofinanzielle Entwicklungen, ein Update der Blockchain-Infrastruktur und die Veröffentlichung von Ergebnissen börsennotierter Unternehmen. Der Originalartikel nennt keine detaillierten Zahlen oder Ergebnisse, sondern zeigt, was Anleger und Marktteilnehmer im Wochenkalender beobachten sollten. Das Fed-Thema kann für politische Erwartungen und die Marktstimmung relevant sein, während das Azul-Upgrade von Base als Netzwerkänderung Aufmerksamkeit erhält. Unternehmenszahlen liefern zudem Hinweise auf die Stimmung bei verbundenen Aktien und digitalen Vermögenswerten. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Semaine crypto : nouveau patron de la Fed, Azul de Base et résultats",
-        "excerpt": "Pour la semaine du 11 mai, le marché crypto suit le dossier du nouveau président de la Fed, la mise à niveau Azul de Base et les résultats d’entreprises.",
-        "body": "Pour la semaine qui commence le 11 mai, le marché des cryptomonnaies se concentre sur trois éléments: le dossier du nouveau président de la Fed, la mise à niveau Azul de Base et les résultats d’entreprises. Cette perspective hebdomadaire réunit les facteurs macrofinanciers, une évolution d’infrastructure blockchain et les publications de sociétés cotées. L’article original ne donne pas de chiffres détaillés ni de résultats; il indique surtout ce que les investisseurs et participants du marché doivent surveiller dans le calendrier. Le sujet de la Fed peut compter pour les attentes de politique et le sentiment de marché, tandis qu’Azul de Base attire l’attention comme changement de réseau. Les résultats d’entreprises aident aussi à évaluer l’ambiance autour des actions liées et des actifs numériques. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "أسبوع الكريبتو: رئيس جديد للفدرالي وترقية Azul من Base والأرباح",
-        "excerpt": "في الأسبوع الذي يبدأ 11 مايو، تتابع سوق العملات المشفرة ملف الرئيس الجديد للفدرالي وترقية Azul من Base ونتائج الشركات كأبرز المحطات.",
-        "body": "في الأسبوع الذي يبدأ في 11 مايو، تركز سوق العملات المشفرة على ثلاثة عناوين: ملف الرئيس الجديد لمجلس الاحتياطي الفدرالي، وترقية Azul من Base، ونتائج الشركات. تجمع النظرة الأسبوعية بين تطورات التمويل الكلي، وتحديث في بنية البلوكشين، وإعلانات نتائج الشركات المدرجة. لا يقدم النص الأصلي أرقاما تفصيلية أو نتائج، بل يوضح ما ينبغي للمستثمرين والمشاركين في السوق متابعته ضمن جدول الأسبوع. قد يرتبط موضوع الفدرالي بتوقعات السياسة ومعنويات السوق، بينما تحظى ترقية Azul من Base بالاهتمام كتغيير في الشبكة. كما تساعد نتائج الشركات في تقييم الأجواء حول الأسهم ذات الصلة والأصول الرقمية. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "क्रिप्टो सप्ताह: नए Fed चेयर, Base Azul अपग्रेड और कमाई पर नजर",
-        "excerpt": "11 मई से शुरू सप्ताह में क्रिप्टो बाजार नए Fed चेयर से जुड़े मुद्दे, Base के Azul अपग्रेड और कॉरपोरेट अर्निंग्स को मुख्य घटनाओं के रूप में देखेगा।",
-        "body": "11 मई से शुरू होने वाले सप्ताह में क्रिप्टोकरेंसी बाजार तीन बातों पर केंद्रित है: नए Fed चेयर से जुड़ा मुद्दा, Base का Azul अपग्रेड और कॉरपोरेट अर्निंग्स। यह साप्ताहिक नजरिया मैक्रो वित्तीय रुझानों, ब्लॉकचेन इन्फ्रास्ट्रक्चर अपडेट और सूचीबद्ध कंपनियों के नतीजों को एक साथ रखता है। मूल लेख विस्तृत आंकड़े या परिणाम नहीं देता; वह बताता है कि निवेशकों और बाजार प्रतिभागियों को साप्ताहिक कैलेंडर में क्या देखना चाहिए। Fed चेयर का विषय नीति अपेक्षाओं और बाजार भावना से जुड़ सकता है, जबकि Base का Azul अपग्रेड नेटवर्क बदलाव के रूप में ध्यान खींचता है। कॉरपोरेट अर्निंग्स संबंधित शेयरों और डिजिटल एसेट निवेश माहौल को परखने का संकेत भी देती हैं। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Pekan Kripto: Ketua Fed Baru, Upgrade Azul Base, dan Laba Korporat",
-        "excerpt": "Pada pekan yang dimulai 11 Mei, pasar kripto memantau isu ketua Fed baru, upgrade Azul dari Base, dan laporan laba korporat sebagai agenda utama.",
-        "body": "Pada pekan yang dimulai 11 Mei, pasar kripto berfokus pada tiga hal: isu ketua Fed baru, upgrade Azul dari Base, dan laporan laba korporat. Gambaran pekan ini mempertemukan arus makro keuangan, pembaruan infrastruktur blockchain, dan publikasi kinerja perusahaan tercatat. Artikel asli tidak menyajikan angka rinci atau hasil; fokusnya adalah apa yang perlu dipantau investor dan pelaku pasar dalam kalender mingguan. Isu ketua Fed dapat berkaitan dengan ekspektasi kebijakan dan sentimen pasar, sementara upgrade Azul dari Base menarik perhatian sebagai perubahan jaringan. Laporan laba korporat juga menjadi bahan untuk menilai suasana pada saham terkait dan aset digital. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "ac99a3fc3b41",
-    "slug": "bitcoin-nasdaq-investors-are-celebrating-while-us-consumers--263300",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T08:47:12.254Z",
-    "updatedAt": "2026-05-11T08:47:12.254Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/11/bitcoin-nasdaq-investors-are-celebrating-while-u-s-consumers-are-panicking",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/11/bitcoin-nasdaq-investors-are-celebrating-while-u-s-consumers-are-panicking",
-    "titleFingerprint": "8509325927b36da054237599acbd6c215d6655fa",
-    "dedupKeys": [
-      "ac99a3fc3b414955cfb5b0c6133471b4c95cc1da",
-      "8509325927b36da054237599acbd6c215d6655fa",
-      "19d6ffbeddc06341f8e35f5ea947483ac7c10c7a"
-    ],
-    "imageUrl": "/images/articles/ac99a3fc3b41.png",
-    "i18n": {
-      "ko": {
-        "title": "비트코인·나스닥 급등에 투자자 환호, 미국 소비심리 역사적 저점으로 냉각되며 월가-메인스트리트 격차 부각",
-        "excerpt": "비트코인과 나스닥이 최근 가파르게 반등하며 투자자들의 낙관론을 키웠지만, 미국 소비자 심리는 역사적 저점으로 떨어져 시장과 실물 체감의 괴리를 드러냈다.",
-        "body": "비트코인과 나스닥 투자자들은 최근 급격한 상승세에 환호하고 있지만, 미국 소비자들은 훨씬 어두운 분위기를 보이고 있다. 코인데스크에 따르면 비트코인과 나스닥은 강하게 랠리했지만 미국 소비자 심리는 역사적 저점으로 하락했다. 이는 금융시장에서 위험자산에 대한 기대가 되살아나는 흐름과, 가계가 느끼는 경제 불안 사이의 간극이 커지고 있음을 보여준다. 배경에는 월가와 메인스트리트의 온도 차가 있다. 시장 투자자들은 가격 상승을 축하하는 반면, 소비자 심리 악화는 실물경제 체감이 여전히 취약하다는 신호로 읽힌다. 향후 시장 흐름은 자산 가격 랠리와 소비자 불안이 얼마나 오래 엇갈릴지에 주목하게 한다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Bitcoin and Nasdaq Rally as U.S. Consumer Sentiment Hits Historic Lows",
-        "excerpt": "Bitcoin and the Nasdaq have rallied sharply, lifting investor optimism, while U.S. consumer sentiment has dropped to historic lows and exposed a widening Wall Street-Main Street divide.",
-        "body": "Bitcoin and Nasdaq investors are celebrating a sharp recent rally, but U.S. consumers are showing a much darker mood. According to CoinDesk, Bitcoin and the Nasdaq have risen strongly while U.S. consumer sentiment has fallen to historic lows. The contrast highlights a widening gap between renewed appetite for risk assets in financial markets and the economic anxiety felt by households. The backdrop is a clear Wall Street-Main Street split. Investors are cheering higher asset prices, while weaker consumer sentiment suggests the real-economy experience remains fragile. Market watchers will be focused on how long the rally in asset prices can diverge from consumer gloom. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "ビットコインとナスダック急騰、米消費者心理は歴史的低水準で温度差鮮明",
-        "excerpt": "ビットコインとナスダックは急反発し投資家心理を押し上げた一方、米消費者心理は歴史的低水準に落ち込み、ウォール街と生活者の隔たりが広がった。",
-        "body": "ビットコインとナスダックの投資家は最近の急上昇を歓迎しているが、米国の消費者心理ははるかに暗い。CoinDeskによると、ビットコインとナスダックは大きく上昇した一方、米消費者心理は歴史的低水準まで落ち込んだ。これは金融市場でリスク資産への期待が戻る流れと、家計が感じる経済不安との間で隔たりが広がっていることを示す。背景にはウォール街とメインストリートの温度差がある。投資家は資産価格の上昇を祝う一方、消費者心理の悪化は実体経済の体感がなお弱いことを示す。今後は資産価格のラリーと消費者の悲観がどれだけ長く乖離するかが焦点となる。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "比特币与纳指大涨提振投资者，美国消费者信心跌至历史低点",
-        "excerpt": "比特币和纳斯达克近期大幅反弹，推高投资者乐观情绪，但美国消费者信心跌至历史低点，凸显华尔街与普通民众之间的分化扩大。",
-        "body": "比特币和纳斯达克投资者正在为近期的快速上涨而庆祝，但美国消费者的情绪却明显低迷。据CoinDesk报道，比特币和纳斯达克强劲反弹，而美国消费者信心已跌至历史低点。这一对比显示，金融市场对风险资产的期待正在回升，但家庭感受到的经济不安仍在加深，二者之间的距离正在扩大。其背景是华尔街与普通民众之间的温差。投资者为资产价格上涨欢呼，消费者信心恶化则表明实体经济体感仍然脆弱。未来市场将关注资产价格上涨与消费者悲观情绪还能分化多久。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Bitcoin y Nasdaq suben con fuerza, pero el ánimo del consumidor de EE. UU. cae",
-        "excerpt": "Bitcoin y el Nasdaq han repuntado con fuerza y animan a los inversores, mientras la confianza del consumidor estadounidense cae a mínimos históricos y evidencia una brecha creciente.",
-        "body": "Los inversores de Bitcoin y del Nasdaq celebran un fuerte repunte reciente, pero los consumidores estadounidenses muestran un ánimo mucho más sombrío. Según CoinDesk, Bitcoin y el Nasdaq han subido con fuerza, mientras la confianza del consumidor en Estados Unidos ha caído a mínimos históricos. El contraste destaca una brecha cada vez mayor entre el renovado apetito por activos de riesgo en los mercados financieros y la ansiedad económica que sienten los hogares. El contexto es una clara división entre Wall Street y Main Street. Los inversores celebran precios de activos más altos, mientras el deterioro del sentimiento del consumidor sugiere que la percepción de la economía real sigue siendo débil. La atención se centrará en cuánto puede durar esa divergencia. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Bitcoin e Nasdaq disparam, mas confiança do consumidor dos EUA cai a mínimas históricas",
-        "excerpt": "Bitcoin e Nasdaq avançaram com força e elevaram o otimismo dos investidores, enquanto a confiança do consumidor dos EUA caiu a mínimas históricas, expondo uma divisão crescente.",
-        "body": "Investidores de Bitcoin e do Nasdaq comemoram uma forte alta recente, mas os consumidores dos Estados Unidos mostram um humor bem mais negativo. Segundo a CoinDesk, Bitcoin e Nasdaq subiram de forma expressiva, enquanto a confiança do consumidor norte-americano caiu para mínimas históricas. O contraste evidencia uma distância maior entre a volta do apetite por ativos de risco nos mercados financeiros e a ansiedade econômica sentida pelas famílias. O pano de fundo é a diferença de percepção entre Wall Street e Main Street. Investidores celebram preços de ativos mais altos, enquanto a piora do sentimento do consumidor indica que a experiência da economia real segue frágil. O mercado observará por quanto tempo essa divergência pode continuar. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Bitcoin und Nasdaq feiern Rally, doch US-Verbraucherstimmung fällt auf historische Tiefs",
-        "excerpt": "Bitcoin und Nasdaq sind kräftig gestiegen und stärken den Optimismus der Anleger, während die US-Verbraucherstimmung auf historische Tiefs fällt und die Kluft vergrößert.",
-        "body": "Bitcoin- und Nasdaq-Anleger feiern eine jüngste kräftige Rally, doch die US-Verbraucher blicken deutlich düsterer auf die Lage. Laut CoinDesk sind Bitcoin und Nasdaq stark gestiegen, während die Verbraucherstimmung in den USA auf historische Tiefstände gefallen ist. Dieser Gegensatz zeigt eine wachsende Lücke zwischen der zurückkehrenden Risikobereitschaft an den Finanzmärkten und der wirtschaftlichen Unsicherheit, die Haushalte empfinden. Im Hintergrund steht die unterschiedliche Wahrnehmung von Wall Street und Main Street. Anleger begrüßen höhere Vermögenspreise, während die schwächere Verbraucherstimmung darauf hindeutet, dass die gefühlte Realwirtschaft weiter fragil bleibt. Entscheidend wird sein, wie lange sich die Rally der Vermögenspreise von der Konsumentenstimmung abkoppeln kann. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Bitcoin et Nasdaq s’envolent, mais le moral des consommateurs américains touche des creux",
-        "excerpt": "Bitcoin et le Nasdaq ont fortement rebondi, soutenant l’optimisme des investisseurs, tandis que le moral des consommateurs américains tombe à des niveaux historiquement bas.",
-        "body": "Les investisseurs de Bitcoin et du Nasdaq célèbrent une forte hausse récente, mais les consommateurs américains affichent une humeur beaucoup plus sombre. Selon CoinDesk, Bitcoin et le Nasdaq ont nettement progressé, tandis que le moral des consommateurs aux États-Unis est tombé à des niveaux historiquement bas. Ce contraste souligne l’écart grandissant entre le retour de l’appétit pour les actifs risqués sur les marchés financiers et l’inquiétude économique ressentie par les ménages. Le contexte est celui d’une division nette entre Wall Street et Main Street. Les investisseurs saluent la hausse des prix d’actifs, alors que la détérioration du sentiment des consommateurs suggère que l’économie réelle reste fragile dans le ressenti. Les marchés suivront la durée possible de cette divergence. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "ارتفاع بيتكوين وناسداك يبهج المستثمرين بينما تهبط ثقة المستهلك الأمريكي تاريخياً",
-        "excerpt": "ارتفعت بيتكوين وناسداك بقوة، ما عزز تفاؤل المستثمرين، لكن ثقة المستهلكين في الولايات المتحدة هبطت إلى مستويات تاريخية متدنية وكشفت اتساع الفجوة.",
-        "body": "يحتفل مستثمرو بيتكوين وناسداك بموجة صعود حادة في الآونة الأخيرة، لكن المستهلكين في الولايات المتحدة يبدون مزاجاً أكثر تشاؤماً. وبحسب CoinDesk، صعدت بيتكوين وناسداك بقوة، بينما تراجعت ثقة المستهلك الأمريكي إلى مستويات تاريخية متدنية. يبرز هذا التباين اتساع الفجوة بين عودة الإقبال على الأصول عالية المخاطر في الأسواق المالية وبين القلق الاقتصادي الذي تشعر به الأسر. الخلفية هي اختلاف واضح بين وول ستريت والشارع الرئيسي. فالمستثمرون يرحبون بارتفاع أسعار الأصول، في حين يشير تدهور معنويات المستهلكين إلى أن الإحساس بالاقتصاد الحقيقي لا يزال هشاً. وستتركز الأنظار على مدة استمرار انفصال صعود الأصول عن تشاؤم المستهلكين. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Bitcoin और Nasdaq की तेज रैली, लेकिन अमेरिकी उपभोक्ता भरोसा ऐतिहासिक निचले स्तर पर",
-        "excerpt": "Bitcoin और Nasdaq में तेज उछाल से निवेशकों का उत्साह बढ़ा, लेकिन अमेरिकी उपभोक्ता भावना ऐतिहासिक निचले स्तर पर गिर गई और Wall Street-Main Street की खाई दिखी।",
-        "body": "Bitcoin और Nasdaq के निवेशक हालिया तेज बढ़त का जश्न मना रहे हैं, लेकिन अमेरिकी उपभोक्ताओं का मूड कहीं अधिक कमजोर दिख रहा है। CoinDesk के अनुसार, Bitcoin और Nasdaq ने मजबूत रैली की है, जबकि अमेरिका में उपभोक्ता भावना ऐतिहासिक निचले स्तर पर गिर गई है। यह अंतर वित्तीय बाजारों में जोखिम वाली परिसंपत्तियों के लिए लौटती उम्मीद और घरों द्वारा महसूस की जा रही आर्थिक चिंता के बीच बढ़ती दूरी को दिखाता है। पृष्ठभूमि Wall Street और Main Street के बीच साफ तापमान अंतर की है। निवेशक परिसंपत्ति कीमतों में बढ़त से उत्साहित हैं, जबकि उपभोक्ता भावना की कमजोरी बताती है कि वास्तविक अर्थव्यवस्था का अनुभव अब भी नाजुक है। आगे ध्यान इस बात पर रहेगा कि परिसंपत्ति रैली और उपभोक्ता निराशा कितने समय तक अलग चलती हैं। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Bitcoin dan Nasdaq Melonjak, Sentimen Konsumen AS Jatuh ke Titik Terendah Historis",
-        "excerpt": "Bitcoin dan Nasdaq reli tajam dan mengangkat optimisme investor, tetapi sentimen konsumen AS turun ke level terendah historis, menyoroti jurang Wall Street-Main Street.",
-        "body": "Investor Bitcoin dan Nasdaq merayakan reli tajam terbaru, tetapi konsumen Amerika Serikat menunjukkan suasana yang jauh lebih suram. Menurut CoinDesk, Bitcoin dan Nasdaq naik kuat, sementara sentimen konsumen AS turun ke level terendah historis. Kontras ini menunjukkan jurang yang makin lebar antara kembalinya minat terhadap aset berisiko di pasar keuangan dan kecemasan ekonomi yang dirasakan rumah tangga. Latar utamanya adalah perbedaan suhu antara Wall Street dan Main Street. Investor menyambut kenaikan harga aset, sedangkan memburuknya sentimen konsumen menandakan pengalaman ekonomi riil masih rapuh. Ke depan, perhatian tertuju pada berapa lama reli harga aset dan pesimisme konsumen dapat terus bergerak berlawanan. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "74bbd5a5e636",
-    "slug": "sui-spikes-50-amid-staking-moves-zero-fee-stablecoins-privac-394829",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T07:39:34.612Z",
-    "updatedAt": "2026-05-11T07:39:34.612Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers",
-    "titleFingerprint": "b81e61800de79dc9c5f06638011455ca5b2de793",
-    "dedupKeys": [
-      "74bbd5a5e636a48d1751ff28c5795cf4eff39e9f",
-      "b81e61800de79dc9c5f06638011455ca5b2de793",
-      "f989fd88e752730c8cdde3dda883f731ecd12701"
-    ],
-    "imageUrl": "/images/articles/74bbd5a5e636.jpg",
-    "i18n": {
-      "ko": {
-        "title": "SUI 50% 급등, 수수료 없는 스테이블코인·프라이버시 추진 주목",
-        "excerpt": "미스틴랩스 공동창업자 아데니이 아비오둔은 마이애미 행사에서 수이의 수수료 없는 스테이블코인 전송 계획과 비공개 거래 도입 의지를 밝혔다.",
-        "body": "SUI가 50% 급등한 가운데, 수이 생태계의 스테이킹 움직임과 수수료 없는 스테이블코인 전송 계획, 프라이버시 기능 추진이 시장의 관심을 받았다. 미스틴랩스 공동창업자 아데니이 아비오둔은 마이애미에서 열린 행사에서 수이 네트워크에서 스테이블코인을 수수료 없이 전송할 수 있도록 하는 계획을 발표했다. 그는 비공개 거래 기능을 추가하겠다는 목표도 다시 강조했다. 이번 발언은 SUI 가격 급등과 맞물려 수이의 결제 활용성과 거래 프라이버시 강화 가능성을 부각했다. 다만 구체적인 출시 일정이나 세부 조건은 원문에서 제시되지 않았다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "SUI Jumps 50% as Zero-Fee Stablecoins and Privacy Plans Draw Focus",
-        "excerpt": "Mysten Labs co-founder Adeniyi Abiodun said at a Miami event that Sui plans zero-fee stablecoin transfers and again highlighted its goal of adding private transactions.",
-        "body": "SUI rose 50% as staking-related moves, plans for zero-fee stablecoin transfers and a renewed privacy push drew attention to the Sui ecosystem. Adeniyi Abiodun, co-founder of Mysten Labs, announced at an event in Miami that Sui aims to support stablecoin transfers without fees on its network. He also reiterated the ambition to add private transactions. The remarks came alongside the sharp SUI price move and put focus on Sui’s potential use in payments and stronger transaction privacy. The original report did not provide a specific launch timeline or detailed conditions. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "SUIが50％急騰、手数料ゼロのステーブルコインとプライバシー計画に注目",
-        "excerpt": "Mysten Labs共同創業者のAdeniyi Abiodun氏はマイアミのイベントで、Sui上の手数料ゼロのステーブルコイン送金計画と非公開取引導入の意向を示した。",
-        "body": "SUIが50％急騰する中、Suiエコシステムではステーキング関連の動き、手数料ゼロのステーブルコイン送金計画、プライバシー機能の推進が注目された。Mysten Labs共同創業者のAdeniyi Abiodun氏は、マイアミで開かれたイベントで、Suiネットワーク上でステーブルコインを手数料なしで送金できるようにする計画を発表した。同氏は非公開取引を追加する目標も改めて強調した。今回の発言はSUI価格の急騰と重なり、決済利用や取引プライバシー強化の可能性を浮き彫りにした。ただし、具体的な開始時期や詳細条件は原文で示されていない。出典: cointelegraph.com。"
-      },
-      "zh": {
-        "title": "SUI上涨50%，零费用稳定币转账与隐私交易计划受关注",
-        "excerpt": "Mysten Labs联合创始人Adeniyi Abiodun在迈阿密活动上表示，Sui计划推出零费用稳定币转账，并重申加入私密交易的目标。",
-        "body": "SUI上涨50%之际，Sui生态中的质押相关动向、零费用稳定币转账计划以及隐私功能推进受到市场关注。Mysten Labs联合创始人Adeniyi Abiodun在迈阿密举行的活动上宣布，Sui计划在其网络上支持无需手续费的稳定币转账。他还重申了增加私密交易功能的目标。上述表态与SUI价格快速上涨同时出现，使Sui在支付应用和交易隐私强化方面的潜在方向受到更多关注。不过，原文未给出具体上线时间或详细条件。来源: cointelegraph.com。"
-      },
-      "es": {
-        "title": "SUI sube 50% y enfoca la atención en stablecoins sin comisiones",
-        "excerpt": "Adeniyi Abiodun, cofundador de Mysten Labs, dijo en un evento en Miami que Sui planea transferencias de stablecoins sin comisiones y reiteró su meta de sumar transacciones privadas.",
-        "body": "SUI subió 50% mientras los movimientos de staking, los planes de transferencias de stablecoins sin comisiones y el impulso a la privacidad atrajeron atención hacia el ecosistema Sui. Adeniyi Abiodun, cofundador de Mysten Labs, anunció en un evento en Miami que Sui busca permitir transferencias de stablecoins sin tarifas dentro de su red. También reiteró la ambición de añadir transacciones privadas. Las declaraciones coincidieron con el fuerte avance del precio de SUI y pusieron el foco en el posible uso de Sui para pagos y en una mayor privacidad transaccional. El reporte original no indicó una fecha concreta de lanzamiento ni condiciones detalladas. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "SUI salta 50% com stablecoins sem taxa e plano de privacidade em foco",
-        "excerpt": "Adeniyi Abiodun, cofundador da Mysten Labs, afirmou em um evento em Miami que a Sui planeja transferências de stablecoins sem taxa e reiterou a meta de adicionar transações privadas.",
-        "body": "A SUI subiu 50% enquanto movimentos ligados a staking, planos de transferências de stablecoins sem taxa e o avanço de recursos de privacidade chamaram atenção para o ecossistema Sui. Adeniyi Abiodun, cofundador da Mysten Labs, anunciou em um evento em Miami que a Sui pretende permitir transferências de stablecoins sem cobrança de tarifas em sua rede. Ele também reiterou a ambição de adicionar transações privadas. As declarações vieram junto da forte alta da SUI e destacaram o potencial da Sui em pagamentos e no reforço da privacidade das transações. O texto original não informou prazo de lançamento nem condições específicas. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "SUI steigt 50%, gebührenfreie Stablecoins und Datenschutzpläne im Fokus",
-        "excerpt": "Mysten-Labs-Mitgründer Adeniyi Abiodun sagte bei einer Veranstaltung in Miami, Sui plane gebührenfreie Stablecoin-Transfers und halte am Ziel privater Transaktionen fest.",
-        "body": "SUI stieg um 50%, während Staking-bezogene Entwicklungen, Pläne für gebührenfreie Stablecoin-Transfers und ein erneuter Fokus auf Datenschutz die Aufmerksamkeit auf das Sui-Ökosystem lenkten. Adeniyi Abiodun, Mitgründer von Mysten Labs, kündigte bei einer Veranstaltung in Miami an, dass Sui Stablecoin-Transfers ohne Gebühren auf seinem Netzwerk ermöglichen will. Zudem bekräftigte er das Ziel, private Transaktionen hinzuzufügen. Die Aussagen fielen mit dem deutlichen Kursanstieg von SUI zusammen und rückten Suis mögliche Rolle im Zahlungsverkehr sowie stärkere Transaktionsprivatsphäre in den Vordergrund. Einen konkreten Starttermin oder genaue Bedingungen nannte der Originalbericht nicht. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "SUI bondit de 50 %, stablecoins sans frais et confidentialité en vue",
-        "excerpt": "Adeniyi Abiodun, cofondateur de Mysten Labs, a déclaré lors d’un événement à Miami que Sui prévoit des transferts de stablecoins sans frais et vise toujours des transactions privées.",
-        "body": "SUI a bondi de 50% alors que les mouvements liés au staking, les projets de transferts de stablecoins sans frais et l’accent mis sur la confidentialité ont attiré l’attention sur l’écosystème Sui. Adeniyi Abiodun, cofondateur de Mysten Labs, a annoncé lors d’un événement à Miami que Sui veut permettre des transferts de stablecoins sans frais sur son réseau. Il a aussi réaffirmé l’ambition d’ajouter des transactions privées. Ces déclarations ont accompagné la forte hausse du prix de SUI et ont mis en avant le potentiel de Sui pour les paiements ainsi que pour une meilleure confidentialité des transactions. Le rapport original ne donne pas de calendrier de lancement ni de conditions détaillées. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "ارتفاع SUI بنسبة 50% مع خطط العملات المستقرة بلا رسوم والخصوصية",
-        "excerpt": "قال أدينيي أبيودون، الشريك المؤسس لـ Mysten Labs، في فعالية بميامي إن Sui تخطط لتحويلات عملات مستقرة بلا رسوم، وجدد هدف إضافة معاملات خاصة.",
-        "body": "ارتفع SUI بنسبة 50% بينما جذبت تحركات مرتبطة بالتخزين، وخطط تحويل العملات المستقرة بلا رسوم، والدفع نحو الخصوصية الانتباه إلى منظومة Sui. أعلن أدينيي أبيودون، الشريك المؤسس لـ Mysten Labs، خلال فعالية في ميامي أن Sui تعتزم تمكين تحويل العملات المستقرة من دون رسوم على شبكتها. كما أعاد التأكيد على الطموح لإضافة معاملات خاصة. جاءت هذه التصريحات بالتزامن مع القفزة الحادة في سعر SUI، ما سلط الضوء على إمكانية استخدام Sui في المدفوعات وتعزيز خصوصية المعاملات. ولم يذكر التقرير الأصلي موعد إطلاق محددا أو شروطا تفصيلية. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "SUI 50% उछला, शून्य-शुल्क स्टेबलकॉइन और प्राइवेसी योजना चर्चा में",
-        "excerpt": "Mysten Labs के सह-संस्थापक Adeniyi Abiodun ने मियामी कार्यक्रम में कहा कि Sui शून्य-शुल्क स्टेबलकॉइन ट्रांसफर की योजना बना रहा है और निजी लेनदेन जोड़ने का लक्ष्य दोहराया।",
-        "body": "SUI में 50% की तेजी आई, जबकि स्टेकिंग से जुड़े कदम, शून्य-शुल्क स्टेबलकॉइन ट्रांसफर की योजना और प्राइवेसी पर नया जोर Sui इकोसिस्टम को चर्चा में ले आए। Mysten Labs के सह-संस्थापक Adeniyi Abiodun ने मियामी में आयोजित एक कार्यक्रम में घोषणा की कि Sui अपने नेटवर्क पर बिना शुल्क स्टेबलकॉइन ट्रांसफर सक्षम करने की योजना रखता है। उन्होंने निजी लेनदेन जोड़ने की महत्वाकांक्षा भी फिर दोहराई। ये बयान SUI की तेज कीमत बढ़त के साथ आए और भुगतान उपयोग तथा लेनदेन गोपनीयता मजबूत करने की संभावना पर ध्यान केंद्रित किया। मूल रिपोर्ट में लॉन्च की निश्चित समयसीमा या विस्तृत शर्तें नहीं दी गईं। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "SUI melonjak 50%, stablecoin tanpa biaya dan privasi jadi sorotan",
-        "excerpt": "Adeniyi Abiodun, salah satu pendiri Mysten Labs, mengatakan di acara Miami bahwa Sui merencanakan transfer stablecoin tanpa biaya dan kembali menegaskan target transaksi privat.",
-        "body": "SUI melonjak 50% saat pergerakan terkait staking, rencana transfer stablecoin tanpa biaya, dan dorongan privasi menarik perhatian ke ekosistem Sui. Adeniyi Abiodun, salah satu pendiri Mysten Labs, mengumumkan dalam sebuah acara di Miami bahwa Sui berencana memungkinkan transfer stablecoin tanpa biaya di jaringannya. Ia juga kembali menegaskan ambisi untuk menambahkan transaksi privat. Pernyataan itu muncul bersamaan dengan kenaikan tajam harga SUI dan menyoroti potensi Sui untuk penggunaan pembayaran serta penguatan privasi transaksi. Laporan asli tidak menyebutkan jadwal peluncuran tertentu atau syarat rinci. Sumber: cointelegraph.com."
       }
     }
   }
