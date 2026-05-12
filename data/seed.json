@@ -1,5 +1,230 @@
 [
   {
+    "id": "3f1aa2b8edae",
+    "slug": "wells-fargo-lifts-ether-etf-holdings-in-q1-as-bitcoin-positi-518783",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T21:01:59.864Z",
+    "updatedAt": "2026-05-12T21:01:59.864Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/wells-fargo-ether-etf-boost-q1-2026-btc-rotation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/wells-fargo-ether-etf-boost-q1-2026-btc-rotation",
+    "titleFingerprint": "35be3f98c7bc45b9583ed27a77a2c671829f73ce",
+    "dedupKeys": [
+      "3f1aa2b8edae9478a3ababb6772e8ebebe6aaaef",
+      "35be3f98c7bc45b9583ed27a77a2c671829f73ce",
+      "369fc3fe2e30eb31d8c011e32df881ab2232dfc0"
+    ],
+    "imageUrl": "/images/articles/3f1aa2b8edae.jpg",
+    "i18n": {
+      "ko": {
+        "title": "웰스파고, 1분기 이더 ETF 보유 확대…비트코인 포지션은 조정",
+        "excerpt": "웰스파고가 2026년 1분기 13F 보고서에서 이더 ETF 노출을 늘리고 비트코인 보유를 재편했으며 Strategy 지분을 크게 확대한 것으로 나타났다.",
+        "body": "웰스파고는 2026년 1분기 13F 보고서를 통해 이더 ETF 노출을 확대하고 비트코인 관련 보유 포지션을 조정한 것으로 나타났다. 이번 공시는 기관 투자자가 암호화폐 연계 상품을 어떻게 배분하고 있는지를 보여준다. 보고서에 따르면 웰스파고는 이더 ETF 보유를 늘리는 한편 비트코인 포지션을 회전시켰고, Strategy 지분은 크게 확대했다. 이는 직접 코인 보유가 아닌 상장 상품과 관련 주식을 통한 접근이 계속 활용되고 있음을 시사한다. 다만 공시 내용은 1분기 말 기준 보유 현황으로 이후 변동 가능성이 있다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Wells Fargo Raises Ether ETF Holdings in Q1 as Bitcoin Bets Shift",
+        "excerpt": "Wells Fargo’s Q1 2026 13F filing showed higher Ether ETF exposure, a rotation in Bitcoin-related holdings and a sharp increase in its Strategy stake.",
+        "body": "Wells Fargo increased its Ether ETF exposure and adjusted its Bitcoin-related positions in its Q1 2026 13F filing. The disclosure shows how an institutional investor allocated exposure to crypto-linked products during the quarter. According to the filing, Wells Fargo lifted Ether ETF holdings, rotated Bitcoin positions and sharply expanded its stake in Strategy. The move indicates continued use of listed products and related equities rather than direct coin holdings. However, the filing reflects positions as of the end of the first quarter, so holdings may have changed afterward. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "ウェルズ・ファーゴ、1QにイーサETF保有拡大 ビットコインは調整",
+        "excerpt": "ウェルズ・ファーゴの2026年第1四半期13F報告で、イーサETFへのエクスポージャー拡大、ビットコイン関連保有の入れ替え、Strategy株の大幅増加が示された。",
+        "body": "ウェルズ・ファーゴは2026年第1四半期の13F報告で、イーサETFへのエクスポージャーを拡大し、ビットコイン関連ポジションを調整したことが明らかになった。この開示は、機関投資家が暗号資産関連商品をどのように配分しているかを示すものだ。報告によると、同社はイーサETFの保有を増やす一方、ビットコインポジションを入れ替え、Strategy株の持ち分を大きく拡大した。直接保有ではなく、上場商品や関連株式を通じたアクセスが引き続き使われていることを示している。ただし、開示は第1四半期末時点の保有状況であり、その後変動している可能性がある。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "富国银行一季度增持以太坊ETF，比特币头寸出现调整",
+        "excerpt": "富国银行2026年一季度13F文件显示，该行提高以太坊ETF敞口，轮换比特币相关持仓，并大幅增加对Strategy的持股。",
+        "body": "富国银行在2026年一季度13F文件中显示，其扩大了以太坊ETF敞口，并调整了比特币相关持仓。该披露反映出机构投资者在季度内如何配置加密资产相关产品。文件显示，富国银行增持以太坊ETF，同时轮换比特币头寸，并大幅提高对Strategy的持股。这表明其仍在通过上市产品和相关股票获得加密资产敞口，而不是直接持有代币。不过，13F文件反映的是一季度末的持仓情况，之后可能已有变化。来源: cointelegraph.com."
+      },
+      "es": {
+        "title": "Wells Fargo aumenta ETF de Ether en el 1T y ajusta posiciones en Bitcoin",
+        "excerpt": "El 13F del 1T de 2026 de Wells Fargo mostró más exposición a ETF de Ether, rotación en tenencias vinculadas a Bitcoin y un fuerte aumento de su participación en Strategy.",
+        "body": "Wells Fargo aumentó su exposición a ETF de Ether y ajustó sus posiciones vinculadas a Bitcoin en su presentación 13F del primer trimestre de 2026. La divulgación muestra cómo un inversor institucional asignó exposición a productos relacionados con criptomonedas durante el trimestre. Según el documento, Wells Fargo elevó sus tenencias de ETF de Ether, rotó posiciones en Bitcoin y amplió de forma marcada su participación en Strategy. Esto indica que siguen utilizándose productos cotizados y acciones relacionadas, en lugar de tenencia directa de monedas. Sin embargo, el 13F refleja posiciones al cierre del primer trimestre y pueden haber cambiado después. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Wells Fargo amplia ETFs de Ether no 1T e ajusta posições em Bitcoin",
+        "excerpt": "O 13F do 1T de 2026 da Wells Fargo mostrou maior exposição a ETFs de Ether, rotação em posições ligadas ao Bitcoin e forte aumento da participação na Strategy.",
+        "body": "A Wells Fargo aumentou sua exposição a ETFs de Ether e ajustou posições relacionadas ao Bitcoin em seu relatório 13F do primeiro trimestre de 2026. A divulgação mostra como um investidor institucional alocou exposição a produtos ligados a criptoativos no período. Segundo o documento, a Wells Fargo elevou suas posições em ETFs de Ether, rotacionou posições em Bitcoin e ampliou fortemente sua participação na Strategy. Isso indica que produtos listados e ações relacionadas continuam sendo usados em vez de posse direta de moedas. No entanto, o 13F reflete as posições no fim do primeiro trimestre e elas podem ter mudado depois. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Wells Fargo erhöht Ether-ETF-Bestände im Q1, Bitcoin-Positionen wechseln",
+        "excerpt": "Wells Fargos 13F-Meldung für Q1 2026 zeigte höhere Ether-ETF-Exponierung, eine Rotation bei Bitcoin-bezogenen Positionen und einen starken Ausbau der Strategy-Beteiligung.",
+        "body": "Wells Fargo hat laut seiner 13F-Meldung für das erste Quartal 2026 die Exponierung gegenüber Ether-ETFs erhöht und Bitcoin-bezogene Positionen angepasst. Die Offenlegung zeigt, wie ein institutioneller Anleger im Quartal Krypto-nahe Produkte allokierte. Dem Bericht zufolge baute Wells Fargo Ether-ETF-Bestände aus, rotierte Bitcoin-Positionen und erhöhte seine Beteiligung an Strategy deutlich. Das deutet darauf hin, dass börsennotierte Produkte und verwandte Aktien weiter genutzt werden, statt Coins direkt zu halten. Die Meldung zeigt jedoch nur den Stand zum Ende des ersten Quartals; spätere Änderungen sind möglich. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Wells Fargo renforce ses ETF Ether au T1 et ajuste ses positions Bitcoin",
+        "excerpt": "Le dépôt 13F du T1 2026 de Wells Fargo montre une exposition accrue aux ETF Ether, une rotation des positions liées au Bitcoin et une forte hausse de sa participation dans Strategy.",
+        "body": "Wells Fargo a accru son exposition aux ETF Ether et ajusté ses positions liées au Bitcoin dans son dépôt 13F du premier trimestre 2026. Cette déclaration montre comment un investisseur institutionnel a réparti son exposition aux produits liés aux cryptomonnaies durant le trimestre. Selon le document, Wells Fargo a augmenté ses avoirs en ETF Ether, fait tourner ses positions Bitcoin et fortement renforcé sa participation dans Strategy. Cela indique que les produits cotés et les actions liées restent utilisés plutôt qu’une détention directe de coins. Toutefois, le 13F reflète les positions à la fin du premier trimestre et elles peuvent avoir changé depuis. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "ويلز فارجو تزيد حيازات ETF إيثريوم في الربع الأول وتعدل مراكز بيتكوين",
+        "excerpt": "أظهر إفصاح 13F للربع الأول 2026 أن ويلز فارجو رفعت تعرضها لصناديق ETF إيثريوم، وأعادت تدوير حيازات مرتبطة ببيتكوين، وزادت حصتها في Strategy بقوة.",
+        "body": "كشفت ويلز فارجو في إفصاح 13F للربع الأول من 2026 أنها زادت تعرضها لصناديق ETF إيثريوم وعدلت مراكزها المرتبطة ببيتكوين. يوضح الإفصاح كيف وزع مستثمر مؤسسي تعرضه للمنتجات المرتبطة بالعملات المشفرة خلال الربع. ووفق التقرير، رفعت ويلز فارجو حيازاتها من ETF إيثريوم، وأجرت تدويرا في مراكز بيتكوين، وزادت حصتها في Strategy بشكل كبير. يشير ذلك إلى استمرار استخدام المنتجات المدرجة والأسهم المرتبطة بدلا من الاحتفاظ المباشر بالعملات. لكن الإفصاح يعكس المراكز في نهاية الربع الأول فقط، وقد تكون تغيرت لاحقا. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Wells Fargo ने Q1 में Ether ETF होल्डिंग बढ़ाई, Bitcoin पोजिशन बदली",
+        "excerpt": "Wells Fargo की Q1 2026 13F फाइलिंग में Ether ETF एक्सपोजर बढ़ने, Bitcoin से जुड़ी होल्डिंग में रोटेशन और Strategy हिस्सेदारी में तेज वृद्धि दिखी।",
+        "body": "Wells Fargo ने 2026 की पहली तिमाही की 13F फाइलिंग में Ether ETF एक्सपोजर बढ़ाया और Bitcoin से जुड़ी पोजिशन में बदलाव किया। यह खुलासा दिखाता है कि तिमाही के दौरान एक संस्थागत निवेशक ने क्रिप्टो-संबंधित उत्पादों में एक्सपोजर कैसे बांटा। फाइलिंग के अनुसार, Wells Fargo ने Ether ETF होल्डिंग बढ़ाई, Bitcoin पोजिशन को रोटेट किया और Strategy में अपनी हिस्सेदारी काफी बढ़ाई। इससे संकेत मिलता है कि सीधे कॉइन रखने के बजाय सूचीबद्ध उत्पादों और संबंधित शेयरों के जरिए पहुंच का उपयोग जारी है। हालांकि 13F पहली तिमाही के अंत की स्थिति दिखाता है, इसलिए बाद में बदलाव संभव है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Wells Fargo Naikkan ETF Ether di Q1, Posisi Bitcoin Ikut Bergeser",
+        "excerpt": "Pengajuan 13F Q1 2026 Wells Fargo menunjukkan eksposur ETF Ether yang meningkat, rotasi kepemilikan terkait Bitcoin, dan kenaikan tajam saham Strategy.",
+        "body": "Wells Fargo meningkatkan eksposur ETF Ether dan menyesuaikan posisi terkait Bitcoin dalam pengajuan 13F kuartal pertama 2026. Pengungkapan ini menunjukkan bagaimana investor institusional mengalokasikan eksposur ke produk terkait kripto selama kuartal tersebut. Menurut laporan itu, Wells Fargo menambah kepemilikan ETF Ether, merotasi posisi Bitcoin, dan memperbesar sahamnya di Strategy secara tajam. Hal ini menunjukkan produk tercatat dan saham terkait tetap digunakan, bukan kepemilikan koin secara langsung. Namun, 13F mencerminkan posisi pada akhir kuartal pertama, sehingga kepemilikan dapat berubah setelahnya. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "7db48c81273c",
+    "slug": "istanbul-blockchain-week-returns-in-june-2026-amid-surging-c-281937",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T21:01:02.127Z",
+    "updatedAt": "2026-05-12T21:01:02.127Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/press-releases/istanbul-blockchain-week-returns-in-june-2026-amid-surging-crypto-adoption-in-trkiye?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/press-releases/istanbul-blockchain-week-returns-in-june-2026-amid-surging-crypto-adoption-in-trkiye",
+    "titleFingerprint": "1a071a7655da641465e3ab6499335fb6fe05b6a2",
+    "dedupKeys": [
+      "7db48c81273c6c61276cd279fcb505981a58ca5a",
+      "1a071a7655da641465e3ab6499335fb6fe05b6a2",
+      "d9e20307ea56c51d2198e62771e79cab9541de05"
+    ],
+    "imageUrl": "/images/articles/7db48c81273c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이스탄불 블록체인 위크 2026, 튀르키예 채택 확대 속 6월 개최",
+        "excerpt": "Web3 마케팅 에이전시 EAK Digital이 주최하는 Istanbul Blockchain Week가 2026년 6월 2~3일 힐튼 보몬티 호텔에서 다섯 번째 행사로 돌아온다.",
+        "body": "Istanbul Blockchain Week가 2026년 6월 2일부터 3일까지 튀르키예 이스탄불의 힐튼 보몬티 호텔에서 열린다. Web3 마케팅 에이전시 EAK Digital이 주최하는 이번 행사는 다섯 번째 에디션으로, 원문은 튀르키예 내 암호화폐 채택이 확대되는 흐름 속에서 개최된다고 전했다. 행사명과 개최 시기, 장소가 공개되면서 지역 블록체인 및 Web3 업계의 관심이 다시 이스탄불에 모일 전망이다. 출처는 cointelegraph.com이다."
+      },
+      "en": {
+        "title": "Istanbul Blockchain Week 2026 Returns in June as Türkiye Crypto Adoption Grows",
+        "excerpt": "Organized by Web3 marketing agency EAK Digital, Istanbul Blockchain Week returns for its fifth edition on June 2-3, 2026, at the Hilton Bomonti Hotel.",
+        "body": "Istanbul Blockchain Week will take place on June 2-3, 2026, at the Hilton Bomonti Hotel in Istanbul, Türkiye. Organized by Web3 marketing agency EAK Digital, the event is returning for its fifth edition. The original report said the event comes amid rising cryptocurrency adoption in Türkiye. With its name, date, venue and organizer now announced, attention from the regional blockchain and Web3 industry is expected to turn again toward Istanbul. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "Istanbul Blockchain Week 2026、トルコの暗号資産普及拡大の中6月開催",
+        "excerpt": "Web3マーケティング会社EAK Digital主催のIstanbul Blockchain Weekが、2026年6月2〜3日にヒルトン・ボモンティ・ホテルで第5回として開催される。",
+        "body": "Istanbul Blockchain Weekは、2026年6月2日から3日まで、トルコ・イスタンブールのヒルトン・ボモンティ・ホテルで開催される。Web3マーケティング会社EAK Digitalが主催する同イベントは、今回で第5回を迎える。原文は、トルコで暗号資産の採用が広がる流れの中で開催されると伝えている。名称、日程、会場、主催者が明らかになったことで、地域のブロックチェーンおよびWeb3業界の関心が再びイスタンブールに集まる見通しだ。出典はcointelegraph.com。"
+      },
+      "zh": {
+        "title": "Istanbul Blockchain Week 2026将于6月回归，土耳其加密采用升温",
+        "excerpt": "由Web3营销机构EAK Digital主办的Istanbul Blockchain Week将于2026年6月2日至3日在Hilton Bomonti Hotel举行第五届活动。",
+        "body": "Istanbul Blockchain Week将于2026年6月2日至3日在土耳其伊斯坦布尔的Hilton Bomonti Hotel举行。该活动由Web3营销机构EAK Digital主办，此次为第五届。原文称，活动回归正值土耳其加密货币采用持续扩大的背景下。随着活动名称、时间、地点和主办方公布，区域区块链与Web3行业的关注预计将再次转向伊斯坦布尔。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "Istanbul Blockchain Week 2026 vuelve en junio con mayor adopción cripto en Turquía",
+        "excerpt": "Organizada por la agencia de marketing Web3 EAK Digital, Istanbul Blockchain Week volverá en su quinta edición el 2 y 3 de junio de 2026 en el Hilton Bomonti Hotel.",
+        "body": "Istanbul Blockchain Week se celebrará el 2 y 3 de junio de 2026 en el Hilton Bomonti Hotel de Estambul, Turquía. Organizado por la agencia de marketing Web3 EAK Digital, el evento regresará con su quinta edición. El informe original señaló que la cita llega en un contexto de creciente adopción de criptomonedas en Turquía. Con el nombre, la fecha, la sede y el organizador ya confirmados, la atención del sector regional de blockchain y Web3 volverá a centrarse en Estambul. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Istanbul Blockchain Week 2026 volta em junho com adoção cripto em alta na Turquia",
+        "excerpt": "Organizada pela agência de marketing Web3 EAK Digital, a Istanbul Blockchain Week retorna em sua quinta edição nos dias 2 e 3 de junho de 2026, no Hilton Bomonti Hotel.",
+        "body": "A Istanbul Blockchain Week será realizada nos dias 2 e 3 de junho de 2026 no Hilton Bomonti Hotel, em Istambul, Turquia. Organizado pela agência de marketing Web3 EAK Digital, o evento retorna para sua quinta edição. O relatório original afirmou que a conferência acontece em meio ao crescimento da adoção de criptomoedas na Turquia. Com nome, data, local e organizador confirmados, a atenção do setor regional de blockchain e Web3 deve voltar novamente para Istambul. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Istanbul Blockchain Week 2026 kehrt im Juni bei wachsender Krypto-Adoption zurück",
+        "excerpt": "Die von der Web3-Marketingagentur EAK Digital organisierte Istanbul Blockchain Week findet am 2. und 3. Juni 2026 als fünfte Ausgabe im Hilton Bomonti Hotel statt.",
+        "body": "Die Istanbul Blockchain Week findet am 2. und 3. Juni 2026 im Hilton Bomonti Hotel in Istanbul, Türkei, statt. Organisiert wird die Veranstaltung von der Web3-Marketingagentur EAK Digital; es ist die fünfte Ausgabe. Der Originalbericht erklärte, dass die Veranstaltung vor dem Hintergrund einer zunehmenden Krypto-Adoption in der Türkei zurückkehrt. Nachdem Name, Termin, Ort und Veranstalter bekannt sind, dürfte sich die Aufmerksamkeit der regionalen Blockchain- und Web3-Branche erneut auf Istanbul richten. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Istanbul Blockchain Week 2026 revient en juin avec l’adoption crypto en hausse en Turquie",
+        "excerpt": "Organisée par l’agence de marketing Web3 EAK Digital, Istanbul Blockchain Week tiendra sa cinquième édition les 2 et 3 juin 2026 au Hilton Bomonti Hotel.",
+        "body": "Istanbul Blockchain Week se tiendra les 2 et 3 juin 2026 au Hilton Bomonti Hotel à Istanbul, en Turquie. Organisé par l’agence de marketing Web3 EAK Digital, l’événement revient pour sa cinquième édition. Le rapport original indique que cette édition intervient alors que l’adoption des cryptomonnaies progresse en Turquie. Avec le nom, les dates, le lieu et l’organisateur désormais annoncés, l’attention du secteur régional de la blockchain et du Web3 devrait de nouveau se tourner vers Istanbul. Source : cointelegraph.com."
+      },
+      "ar": {
+        "title": "أسبوع إسطنبول للبلوكتشين 2026 يعود في يونيو مع نمو تبني العملات المشفرة بتركيا",
+        "excerpt": "تنظم وكالة تسويق Web3 EAK Digital أسبوع إسطنبول للبلوكتشين في نسخته الخامسة يومي 2 و3 يونيو 2026 في فندق هيلتون بومونتي.",
+        "body": "سيقام أسبوع إسطنبول للبلوكتشين يومي 2 و3 يونيو 2026 في فندق هيلتون بومونتي بمدينة إسطنبول في تركيا. وتنظم الحدث وكالة تسويق Web3 EAK Digital، ويعود هذه المرة في نسخته الخامسة. وذكر التقرير الأصلي أن انعقاد الحدث يأتي وسط توسع تبني العملات المشفرة في تركيا. ومع إعلان اسم الحدث وموعده ومكانه والجهة المنظمة، من المتوقع أن يتجه اهتمام قطاع البلوكتشين وWeb3 الإقليمي مجددا إلى إسطنبول. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Istanbul Blockchain Week 2026 जून में लौटेगा, तुर्किये में क्रिप्टो अपनाने की रफ्तार तेज",
+        "excerpt": "Web3 मार्केटिंग एजेंसी EAK Digital द्वारा आयोजित Istanbul Blockchain Week का पांचवां संस्करण 2-3 जून 2026 को Hilton Bomonti Hotel में होगा।",
+        "body": "Istanbul Blockchain Week 2 से 3 जून 2026 तक तुर्किये के इस्तांबुल स्थित Hilton Bomonti Hotel में आयोजित होगा। Web3 मार्केटिंग एजेंसी EAK Digital द्वारा आयोजित यह कार्यक्रम अपने पांचवें संस्करण के रूप में लौट रहा है। मूल रिपोर्ट के अनुसार, यह आयोजन तुर्किये में क्रिप्टोकरेंसी अपनाने की बढ़ती प्रवृत्ति के बीच हो रहा है। कार्यक्रम का नाम, तारीख, स्थान और आयोजक घोषित होने के बाद क्षेत्रीय ब्लॉकचेन और Web3 उद्योग का ध्यान फिर से इस्तांबुल की ओर जाने की उम्मीद है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Istanbul Blockchain Week 2026 Kembali Juni saat Adopsi Kripto Turki Meningkat",
+        "excerpt": "Diselenggarakan agensi pemasaran Web3 EAK Digital, Istanbul Blockchain Week edisi kelima akan berlangsung pada 2-3 Juni 2026 di Hilton Bomonti Hotel.",
+        "body": "Istanbul Blockchain Week akan digelar pada 2-3 Juni 2026 di Hilton Bomonti Hotel, Istanbul, Turki. Acara yang diselenggarakan oleh agensi pemasaran Web3 EAK Digital ini kembali untuk edisi kelimanya. Laporan asli menyebut acara tersebut berlangsung di tengah meningkatnya adopsi kripto di Turki. Dengan nama acara, jadwal, lokasi, dan penyelenggara yang telah diumumkan, perhatian industri blockchain dan Web3 regional diperkirakan kembali tertuju ke Istanbul. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "6e196042392c",
+    "slug": "four-signs-that-bitcoin-has-recovered-to-full-bullish-moment-232264",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T21:00:16.143Z",
+    "updatedAt": "2026-05-12T21:00:16.143Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/four-signs-bitcoin-recovered-full-bullish-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/four-signs-bitcoin-recovered-full-bullish-momentum",
+    "titleFingerprint": "bea92e0387caa691336bf4f6c2c8154c5e9ed804",
+    "dedupKeys": [
+      "6e196042392c372d4e9eacc1ab1436bcb2774d28",
+      "bea92e0387caa691336bf4f6c2c8154c5e9ed804",
+      "50bddb47710af7a116c507bd3a0a916c47721cbf"
+    ],
+    "imageUrl": "/images/articles/6e196042392c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 강세 모멘텀 회복 신호 4가지, 상승 주도권 지속되나",
+        "excerpt": "코인텔레그래프는 비트코인 가격 모멘텀 확대, 유동성 회복, 네트워크 활동 급증이 강세 주도권 지속을 가리킨다고 전했다.",
+        "body": "비트코인이 ‘완전한’ 강세 모멘텀을 되찾았다는 신호가 나타나고 있다고 코인텔레그래프가 보도했다. 보도에 따르면 비트코인 가격 모멘텀은 확대되고 있으며, 시장 유동성도 회복 흐름을 보이고 있다. 여기에 네트워크 활동이 급증하면서 시장 전반에서 매수세가 주도권을 유지하고 있다는 해석이 나온다. 이러한 요소들은 단기 가격 흐름뿐 아니라 투자 심리와 온체인 활동까지 함께 개선되고 있음을 보여준다. 다만 보도는 이 지표들이 현재 강세 통제가 이어지고 있음을 시사한다고 설명했다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Bitcoin Bullish Momentum Shows 4 Signs of Full Recovery",
+        "excerpt": "Cointelegraph reported that expanding Bitcoin price momentum, recovering liquidity and surging network activity point to continued bullish control.",
+        "body": "Bitcoin is showing signs that it has recovered to “full” bullish momentum, Cointelegraph reported. According to the report, Bitcoin’s price momentum is expanding, while market liquidity is also recovering. At the same time, network activity is surging, supporting the view that buyers continue to hold control across the market. These factors suggest improvement not only in short-term price action but also in investor sentiment and on-chain activity. The report said the indicators point to ongoing bullish control. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "ビットコイン強気モメンタム回復、4つのサインに注目",
+        "excerpt": "コインテレグラフは、ビットコインの価格モメンタム拡大、流動性回復、ネットワーク活動急増が強気主導の継続を示すと報じた。",
+        "body": "ビットコインが「完全な」強気モメンタムを取り戻した兆候が出ていると、コインテレグラフが報じた。報道によると、ビットコインの価格モメンタムは拡大しており、市場流動性も回復傾向にある。さらにネットワーク活動が急増し、市場全体で買い手が主導権を維持しているとの見方を支えている。これらの要素は短期的な価格動向だけでなく、投資家心理やオンチェーン活動の改善も示す。報道は、これらの指標が強気の支配継続を示唆すると説明した。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "比特币强势动能显现4大恢复信号，买方仍占主导",
+        "excerpt": "Cointelegraph报道称，比特币价格动能扩大、流动性恢复以及网络活动激增，均指向市场强势控制仍在延续。",
+        "body": "据Cointelegraph报道，比特币正出现已恢复至“完全”强势动能的信号。报道称，比特币价格动能正在扩大，市场流动性也呈现恢复趋势。与此同时，网络活动大幅上升，支持了买方在整体市场中继续掌握主导权的判断。这些因素不仅反映短期价格走势改善，也显示投资情绪和链上活动同步回暖。报道指出，这些指标表明当前强势控制仍在延续。来源: cointelegraph.com."
+      },
+      "es": {
+        "title": "Bitcoin muestra 4 señales de recuperación del impulso alcista",
+        "excerpt": "Cointelegraph informó que el impulso del precio de Bitcoin, la recuperación de la liquidez y el aumento de la actividad de red apuntan al control alcista.",
+        "body": "Bitcoin muestra señales de haber recuperado un impulso alcista “pleno”, según informó Cointelegraph. De acuerdo con el reporte, el impulso del precio de Bitcoin se está ampliando y la liquidez del mercado también se está recuperando. Al mismo tiempo, la actividad de la red aumenta con fuerza, lo que respalda la lectura de que los compradores mantienen el control del mercado. Estos factores apuntan a una mejora no solo en el precio a corto plazo, sino también en el sentimiento inversor y la actividad on-chain. El informe señaló que los indicadores sugieren una continuidad del control alcista. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Bitcoin dá 4 sinais de recuperação do impulso de alta",
+        "excerpt": "A Cointelegraph informou que o avanço do momentum do preço do Bitcoin, a recuperação da liquidez e a alta na atividade da rede indicam controle comprador.",
+        "body": "O Bitcoin mostra sinais de ter recuperado um momentum de alta “pleno”, informou a Cointelegraph. Segundo a reportagem, o momentum do preço do Bitcoin está se ampliando, enquanto a liquidez do mercado também apresenta recuperação. Ao mesmo tempo, a atividade da rede dispara, reforçando a leitura de que os compradores continuam no controle do mercado. Esses fatores indicam melhora não apenas no movimento de curto prazo dos preços, mas também no sentimento dos investidores e na atividade on-chain. A publicação afirmou que os indicadores apontam para a continuidade do controle altista. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Bitcoin zeigt 4 Signale für volle Rückkehr des Aufwärtsmomentums",
+        "excerpt": "Cointelegraph berichtet, dass wachsendes Bitcoin-Preismomentum, erholte Liquidität und steigende Netzwerkaktivität auf anhaltende bullische Kontrolle hindeuten.",
+        "body": "Bitcoin zeigt Anzeichen dafür, dass das „volle“ bullische Momentum zurückgekehrt ist, berichtete Cointelegraph. Dem Bericht zufolge weitet sich das Preismomentum von Bitcoin aus, während sich auch die Marktliquidität erholt. Gleichzeitig steigt die Netzwerkaktivität stark an, was die Einschätzung stützt, dass Käufer weiterhin die Kontrolle über den Markt behalten. Diese Faktoren deuten nicht nur auf eine Verbesserung der kurzfristigen Kursentwicklung hin, sondern auch auf bessere Anlegerstimmung und stärkere On-Chain-Aktivität. Der Bericht erklärte, die Indikatoren sprächen für anhaltende bullische Kontrolle. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Bitcoin affiche 4 signes de reprise complète du momentum haussier",
+        "excerpt": "Cointelegraph rapporte que l’élan du prix du Bitcoin, la reprise de la liquidité et la forte activité du réseau indiquent un contrôle haussier durable.",
+        "body": "Le Bitcoin montre des signes d’un retour à un momentum haussier « complet », selon Cointelegraph. D’après le rapport, l’élan du prix du Bitcoin s’élargit, tandis que la liquidité du marché se redresse également. Dans le même temps, l’activité du réseau bondit, ce qui soutient l’idée que les acheteurs conservent le contrôle du marché. Ces éléments indiquent une amélioration non seulement de l’évolution des prix à court terme, mais aussi du sentiment des investisseurs et de l’activité on-chain. Le rapport précise que ces indicateurs suggèrent la poursuite d’un contrôle haussier. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "بيتكوين تظهر 4 إشارات على استعادة الزخم الصعودي الكامل",
+        "excerpt": "ذكرت Cointelegraph أن اتساع زخم سعر بيتكوين، وتعافي السيولة، وارتفاع نشاط الشبكة تشير جميعها إلى استمرار السيطرة الصعودية.",
+        "body": "تظهر بيتكوين إشارات على أنها استعادت زخما صعوديا “كاملا”، بحسب ما ذكرت Cointelegraph. ووفقا للتقرير، يتسع زخم سعر بيتكوين، بينما تظهر سيولة السوق أيضا مسارا نحو التعافي. وفي الوقت نفسه، يرتفع نشاط الشبكة بقوة، ما يدعم قراءة تفيد بأن المشترين يواصلون الاحتفاظ بالسيطرة على السوق. وتشير هذه العوامل إلى تحسن لا يقتصر على حركة السعر قصيرة الأجل، بل يشمل أيضا معنويات المستثمرين والنشاط على السلسلة. وأوضح التقرير أن هذه المؤشرات تدل على استمرار السيطرة الصعودية. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Bitcoin में तेजी की पूरी वापसी के 4 संकेत दिखे",
+        "excerpt": "Cointelegraph के अनुसार, Bitcoin की कीमत का बढ़ता मोमेंटम, सुधरती लिक्विडिटी और नेटवर्क गतिविधि में उछाल जारी तेजी के नियंत्रण की ओर इशारा करते हैं।",
+        "body": "Bitcoin में “पूर्ण” तेजी वाला मोमेंटम लौटने के संकेत दिख रहे हैं, Cointelegraph ने रिपोर्ट किया। रिपोर्ट के अनुसार, Bitcoin की कीमत का मोमेंटम बढ़ रहा है और बाजार की लिक्विडिटी भी रिकवरी दिखा रही है। इसी समय, नेटवर्क गतिविधि में तेज उछाल आया है, जिससे यह आकलन मजबूत होता है कि खरीदार बाजार पर नियंत्रण बनाए हुए हैं। ये कारक केवल अल्पकालिक कीमत चाल में सुधार नहीं, बल्कि निवेशक भावना और ऑन-चेन गतिविधि में सुधार भी दिखाते हैं। रिपोर्ट ने कहा कि ये संकेतक जारी बुलिश नियंत्रण की ओर इशारा करते हैं। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Bitcoin Tunjukkan 4 Sinyal Pemulihan Momentum Bullish Penuh",
+        "excerpt": "Cointelegraph melaporkan momentum harga Bitcoin yang meluas, likuiditas pulih, dan aktivitas jaringan melonjak menunjukkan kontrol bullish berlanjut.",
+        "body": "Bitcoin menunjukkan tanda-tanda telah memulihkan momentum bullish “penuh”, menurut laporan Cointelegraph. Dalam laporan tersebut, momentum harga Bitcoin terus meluas, sementara likuiditas pasar juga menunjukkan pemulihan. Pada saat yang sama, aktivitas jaringan melonjak, mendukung pandangan bahwa pembeli masih memegang kendali di pasar. Faktor-faktor ini menunjukkan perbaikan tidak hanya pada pergerakan harga jangka pendek, tetapi juga pada sentimen investor dan aktivitas on-chain. Laporan itu menyebut indikator tersebut mengarah pada berlanjutnya kontrol bullish. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "9da1f66cbad5",
     "slug": "roaring-kitty-linked-rkc-memecoin-crashes-as-developer-cashe-492425",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Bitcoin makin kokoh di US$80.000, tetapi trader masih ragukan breakout",
         "excerpt": "Bitcoin pulih dari penurunan Jumat akibat data tenaga kerja, tetapi Enflux melihat resistance tetap ada dan Glassnode menunjukkan posisi defensif.",
         "body": "Bitcoin (BTC) telah pulih dari penurunan hari Jumat yang dipicu data tenaga kerja, tetapi pelaku pasar belum menganggap rebound ini sebagai breakout yang terkonfirmasi. Menurut CoinDesk, Enflux menilai dukungan bawah BTC di sekitar US$80.000 terlihat lebih kuat dari sebelumnya, sementara resistance di atas masih tetap berlaku. Data struktur pasar Glassnode juga menunjukkan investor membeli reli, namun pada saat yang sama tetap mempertahankan posisi untuk menghadapi potensi penurunan. Ini menunjukkan bahwa meski ada pemulihan jangka pendek, sentimen trading belum sepenuhnya berubah menjadi keyakinan. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "637dce3d215e",
-    "slug": "속보-토지거래허가-실거주-유예-세입자-있는-모든-주택으로-확대-585464",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T02:51:32.764Z",
-    "updatedAt": "2026-05-12T02:51:32.764Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044524",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044524",
-    "titleFingerprint": "4c6f5c1b0dcbfa45b02343221060c599f5286df9",
-    "dedupKeys": [
-      "637dce3d215e5b387d26855a0076a18da6774c12",
-      "4c6f5c1b0dcbfa45b02343221060c599f5286df9",
-      "255301d34cd8d1ea2391781d8f4bfd8a3be4ef99"
-    ],
-    "imageUrl": "/images/articles/637dce3d215e.png",
-    "i18n": {
-      "ko": {
-        "title": "토지거래허가 실거주 유예, 세입자 있는 모든 주택으로 확대",
-        "excerpt": "토지거래허가구역 내 실거주 의무 유예 대상이 세입자가 있는 모든 주택으로 확대됐다. 기존보다 적용 범위가 넓어지며 주택 거래와 거주 요건에 영향을 주는 조치다.",
-        "body": "토지거래허가구역에서 주택을 취득할 때 적용되는 실거주 의무 유예 대상이 ‘세입자 있는 모든 주택’으로 확대됐다. 이번 조치는 토지거래허가와 관련한 실거주 요건의 적용 범위를 조정하는 내용이다. 기존에는 실거주 유예가 제한적으로 적용됐지만, 앞으로는 세입자가 있는 주택 전반으로 확대된다는 점이 핵심이다. 이에 따라 해당 구역에서 세입자가 거주 중인 주택을 거래하거나 취득하려는 경우 실거주 의무 적용 방식에 변화가 생길 수 있다. 다만 구체적인 시행 시점이나 세부 기준은 원문에 제시된 범위 안에서 확인이 필요하다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Land Transaction Permit Residence Deferral Expanded to All Tenant-Occupied Homes",
-        "excerpt": "The deferral of the actual residence requirement in land transaction permit zones has been expanded to all homes with tenants, widening its scope and affecting housing transactions and occupancy rules.",
-        "body": "The deferral of the actual residence requirement applied when acquiring homes in land transaction permit zones has been expanded to “all homes with tenants.” The measure adjusts how residence requirements are applied under the land transaction permit system. Previously, the deferral was applied on a more limited basis, but the key change is that it will now cover tenant-occupied homes more broadly. As a result, people seeking to buy or trade homes in these zones where tenants are already living may face a changed application of the actual residence obligation. Specific implementation timing and detailed standards should be checked within the scope provided by the original report. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "土地取引許可の実居住猶予、入居者がいる全住宅へ拡大",
-        "excerpt": "土地取引許可区域での実居住義務の猶予対象が、入居者のいるすべての住宅へ拡大された。適用範囲が広がり、住宅取引と居住要件に影響する措置だ。",
-        "body": "土地取引許可区域で住宅を取得する際に適用される実居住義務の猶予対象が、「入居者がいるすべての住宅」へ拡大された。今回の措置は、土地取引許可に関連する実居住要件の適用範囲を調整する内容だ。従来、実居住猶予は限定的に適用されていたが、今後は入居者がいる住宅全般へ広がる点が核心となる。これにより、該当区域で入居者が居住中の住宅を取引または取得しようとする場合、実居住義務の適用方式に変化が生じる可能性がある。ただし、具体的な施行時期や詳細基準は原文で示された範囲内で確認が必要だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "土地交易许可实际居住缓期扩大至所有带租户住宅",
-        "excerpt": "土地交易许可区域内实际居住义务的缓期适用对象扩大至所有有租户住宅。适用范围扩大，将影响住房交易和居住要求。",
-        "body": "在土地交易许可区域内购置住宅时适用的实际居住义务缓期对象，已扩大至“所有有租户的住宅”。这一措施是对土地交易许可相关实际居住要求适用范围的调整。此前，实际居住缓期适用范围较为有限，而此次变化的核心在于今后将覆盖所有存在租户的住宅。因此，在相关区域内交易或购置已有租户居住的住宅时，实际居住义务的适用方式可能发生变化。不过，具体实施时间和详细标准仍需在原报道所提供的信息范围内确认。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Permiso de Transacción de Suelo Amplía Aplazamiento de Residencia a Viviendas con Inquilinos",
-        "excerpt": "El aplazamiento de la obligación de residencia real en zonas con permiso de transacción de suelo se amplió a todas las viviendas con inquilinos, ampliando su alcance e impactando las reglas de ocupación.",
-        "body": "El aplazamiento de la obligación de residencia real aplicable al adquirir viviendas en zonas sujetas a permiso de transacción de suelo se amplió a “todas las viviendas con inquilinos”. La medida ajusta el alcance de aplicación de los requisitos de residencia vinculados al sistema de permiso de transacción de suelo. Antes, el aplazamiento se aplicaba de forma más limitada, pero el cambio clave es que ahora abarcará de manera más amplia las viviendas ocupadas por inquilinos. En consecuencia, quienes busquen comprar o transar viviendas en esas zonas donde ya viven inquilinos podrían enfrentar una aplicación distinta de la obligación de residencia real. El calendario de aplicación y los criterios detallados deben verificarse dentro del alcance del informe original. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Licença de Transação de Terras Amplia Adiamento de Residência a Casas com Inquilinos",
-        "excerpt": "O adiamento da exigência de residência efetiva em zonas de licença de transação de terras foi ampliado para todas as casas com inquilinos, afetando transações e regras de moradia.",
-        "body": "O adiamento da obrigação de residência efetiva aplicada na aquisição de imóveis em zonas sujeitas à licença de transação de terras foi ampliado para “todas as casas com inquilinos”. A medida ajusta o alcance da aplicação dos requisitos de residência ligados ao sistema de licença de transação de terras. Antes, o adiamento era aplicado de forma mais limitada, mas o ponto central é que agora passa a abranger de modo mais amplo imóveis ocupados por inquilinos. Assim, quem pretende comprar ou negociar imóveis nessas áreas onde já há inquilinos poderá enfrentar mudanças na forma de aplicação da obrigação de residência efetiva. O prazo de implementação e os critérios detalhados devem ser confirmados dentro do escopo indicado no relatório original. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Landtransaktionsgenehmigung: Wohnpflicht-Aufschub auf alle vermieteten Häuser ausgeweitet",
-        "excerpt": "Der Aufschub der tatsächlichen Wohnpflicht in Gebieten mit Landtransaktionsgenehmigung wurde auf alle Häuser mit Mietern ausgeweitet und verändert den Anwendungsbereich der Wohnregeln.",
-        "body": "Der Aufschub der tatsächlichen Wohnpflicht, die beim Erwerb von Wohnimmobilien in Gebieten mit Landtransaktionsgenehmigung gilt, wurde auf „alle Häuser mit Mietern“ ausgeweitet. Die Maßnahme passt den Anwendungsbereich der Wohnanforderungen im Zusammenhang mit dem System der Landtransaktionsgenehmigung an. Bisher wurde der Aufschub nur eingeschränkt angewandt; entscheidend ist nun, dass er künftig breiter für von Mietern bewohnte Immobilien gilt. Dadurch kann sich für Personen, die in diesen Gebieten bereits vermietete Wohnungen oder Häuser kaufen oder handeln wollen, die Anwendung der tatsächlichen Wohnpflicht ändern. Konkrete Umsetzungszeitpunkte und Detailkriterien sind innerhalb des im Originalbericht genannten Rahmens zu prüfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Permis de Transaction Foncière: le Report de Résidence Étendu aux Logements Loués",
-        "excerpt": "Le report de l’obligation de résidence effective dans les zones soumises au permis de transaction foncière est étendu à tous les logements occupés par des locataires, élargissant son champ d’application.",
-        "body": "Le report de l’obligation de résidence effective applicable lors de l’acquisition de logements dans les zones soumises au permis de transaction foncière a été étendu à « tous les logements avec locataires ». Cette mesure ajuste le champ d’application des exigences de résidence liées au système de permis de transaction foncière. Jusqu’ici, le report était appliqué de manière plus limitée, mais le changement essentiel est qu’il couvrira désormais plus largement les logements occupés par des locataires. Ainsi, les personnes souhaitant acheter ou échanger des logements dans ces zones, alors que des locataires y résident déjà, pourraient voir évoluer les modalités d’application de l’obligation de résidence effective. Le calendrier de mise en œuvre et les critères détaillés doivent être vérifiés dans le périmètre du rapport original. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "توسيع تأجيل شرط السكن الفعلي ليشمل كل المنازل التي تضم مستأجرين",
-        "excerpt": "تم توسيع تأجيل شرط السكن الفعلي في مناطق تصاريح تداول الأراضي ليشمل كل المنازل التي تضم مستأجرين، ما يوسع نطاق التطبيق ويؤثر في صفقات السكن ومتطلبات الإقامة.",
-        "body": "تم توسيع نطاق تأجيل شرط السكن الفعلي المطبق عند شراء المنازل في مناطق تصاريح تداول الأراضي ليشمل «كل المنازل التي تضم مستأجرين». ويعد هذا الإجراء تعديلا لنطاق تطبيق متطلبات السكن المرتبطة بنظام تصاريح تداول الأراضي. في السابق، كان تأجيل شرط السكن الفعلي يطبق بصورة محدودة، أما النقطة الأساسية الآن فهي أنه سيشمل على نطاق أوسع المنازل التي يقيم فيها مستأجرون. وبناء على ذلك، قد يتغير أسلوب تطبيق شرط السكن الفعلي على من يرغبون في شراء أو تداول منازل داخل هذه المناطق بينما يقيم فيها مستأجرون بالفعل. أما موعد التنفيذ والمعايير التفصيلية فينبغي التحقق منها ضمن ما ورد في التقرير الأصلي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "भूमि लेनदेन परमिट में निवास-स्थगन सभी किरायेदार वाले घरों तक बढ़ा",
-        "excerpt": "भूमि लेनदेन परमिट क्षेत्रों में वास्तविक निवास दायित्व की छूट अब किरायेदारों वाले सभी घरों तक बढ़ा दी गई है, जिससे आवास सौदों और निवास नियमों पर असर पड़ेगा।",
-        "body": "भूमि लेनदेन परमिट क्षेत्रों में घर खरीदते समय लागू होने वाले वास्तविक निवास दायित्व की छूट का दायरा “किरायेदारों वाले सभी घरों” तक बढ़ा दिया गया है। यह कदम भूमि लेनदेन परमिट से जुड़े वास्तविक निवास मानदंडों के लागू होने की सीमा को समायोजित करता है। पहले यह छूट सीमित रूप से लागू थी, लेकिन अब मुख्य बदलाव यह है कि यह किरायेदारों वाले सभी घरों पर व्यापक रूप से लागू होगी। इसके चलते ऐसे क्षेत्रों में पहले से किरायेदारों के रहने वाले घरों को खरीदने या उनका लेनदेन करने वालों के लिए वास्तविक निवास दायित्व लागू करने का तरीका बदल सकता है। हालांकि, लागू होने की समयसीमा और विस्तृत मानकों की पुष्टि मूल रिपोर्ट में दी गई जानकारी की सीमा में करनी होगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Penangguhan Hunian Nyata Izin Transaksi Tanah Diperluas ke Semua Rumah Berpenyewa",
-        "excerpt": "Penangguhan kewajiban hunian nyata di zona izin transaksi tanah diperluas ke semua rumah yang memiliki penyewa, memperlebar cakupan aturan dan berdampak pada transaksi hunian.",
-        "body": "Penangguhan kewajiban hunian nyata yang berlaku saat memperoleh rumah di zona izin transaksi tanah telah diperluas menjadi “semua rumah yang memiliki penyewa”. Kebijakan ini menyesuaikan cakupan penerapan syarat hunian nyata yang terkait dengan sistem izin transaksi tanah. Sebelumnya, penangguhan hunian nyata diterapkan secara lebih terbatas, tetapi inti perubahannya adalah cakupan kini diperluas ke rumah-rumah yang ditempati penyewa. Dengan demikian, pihak yang ingin membeli atau mentransaksikan rumah di zona tersebut, sementara penyewa sudah tinggal di dalamnya, dapat menghadapi perubahan dalam cara penerapan kewajiban hunian nyata. Waktu pelaksanaan dan kriteria rinci tetap perlu dikonfirmasi dalam batas informasi yang disajikan laporan asli. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3eb94eea990a",
-    "slug": "openai-faces-federal-lawsuit-over-chatgpt39s-alleged-role-in-724370",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T02:50:16.043Z",
-    "updatedAt": "2026-05-12T02:50:16.043Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367380/openai-faces-federal-lawsuit-over-chatgpts-alleged-role-in-fsu-mass-shooting",
-    "canonicalUrl": "https://decrypt.co/367380/openai-faces-federal-lawsuit-over-chatgpts-alleged-role-in-fsu-mass-shooting",
-    "titleFingerprint": "a7a45c416f4db3d56d640f1a2a270245dcd33fa8",
-    "dedupKeys": [
-      "3eb94eea990a968ce96802ef98cc55eecb3b29a7",
-      "a7a45c416f4db3d56d640f1a2a270245dcd33fa8",
-      "ee3a1f6159030ad80d38eeeca19bbf841001d11b"
-    ],
-    "imageUrl": "/images/articles/3eb94eea990a.png",
-    "i18n": {
-      "ko": {
-        "title": "OpenAI, FSU 총격 사건 관련 ChatGPT 역할 의혹으로 연방 소송 직면",
-        "excerpt": "OpenAI가 FSU 대규모 총격 사건에서 ChatGPT가 총기 사용 안내와 전술 조언을 제공했다는 의혹으로 연방 소송에 직면했다.",
-        "body": "OpenAI가 FSU 대규모 총격 사건과 관련해 연방 소송에 직면했다. 소송은 총격범이 ChatGPT로부터 총기 관련 안내와 전술적 조언을 받았다고 주장하며, AI 기업이 이용자의 폭력 행위에 대해 어디까지 책임을 져야 하는지에 대한 논쟁을 키우고 있다. 원문에서 공개된 핵심 쟁점은 ChatGPT의 답변이 사건에 어떤 역할을 했는지, 그리고 AI 서비스 제공자가 잠재적 위해를 막기 위해 어떤 의무를 부담하는지다. 이번 소송은 생성형 AI의 안전장치와 법적 책임 범위를 둘러싼 논의를 다시 부각시킬 전망이다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "OpenAI Faces Federal Lawsuit Over ChatGPT Role Claims in FSU Shooting",
-        "excerpt": "OpenAI faces a federal lawsuit alleging ChatGPT gave firearms guidance and tactical advice tied to the FSU mass shooting.",
-        "body": "OpenAI is facing a federal lawsuit related to the FSU mass shooting. The lawsuit alleges that the shooter received firearms guidance and tactical advice from ChatGPT, intensifying debate over how far AI companies may be liable for violent acts by users. The central issue described in the original report is what role ChatGPT’s responses may have played and what duties an AI service provider has to prevent potential harm. The case is expected to renew scrutiny of generative AI safeguards and the legal boundaries of responsibility. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "OpenAI、FSU銃撃事件でChatGPT関与疑惑の連邦訴訟に直面",
-        "excerpt": "OpenAIはFSUの大規模銃撃事件を巡り、ChatGPTが銃器の案内や戦術的助言を提供したとの疑惑で連邦訴訟に直面している。",
-        "body": "OpenAIはFSUの大規模銃撃事件に関連し、連邦訴訟に直面している。訴訟では、銃撃犯がChatGPTから銃器に関する案内と戦術的助言を受けたと主張されており、AI企業が利用者の暴力行為についてどこまで責任を負うべきかという議論を強めている。原文で示された核心は、ChatGPTの回答が事件にどのような役割を果たしたのか、またAIサービス提供者が潜在的な危害を防ぐためにどのような義務を負うのかという点だ。今回の訴訟は、生成AIの安全対策と法的責任の範囲を巡る議論を再び浮上させる見通しだ。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "OpenAI因FSU枪击案中ChatGPT角色指控面临联邦诉讼",
-        "excerpt": "OpenAI因FSU大规模枪击案面临联邦诉讼，诉讼称ChatGPT向枪手提供枪械指导和战术建议。",
-        "body": "OpenAI正因FSU大规模枪击案面临联邦诉讼。诉讼称，枪手从ChatGPT获得了枪械相关指导和战术建议，这加剧了关于AI企业应在多大程度上为用户的暴力行为承担责任的讨论。原文披露的核心问题是，ChatGPT的回复在事件中发挥了什么作用，以及AI服务提供商为防止潜在伤害应承担何种义务。此次诉讼预计将再次凸显围绕生成式AI安全机制和法律责任边界的争议。来源: decrypt.co"
-      },
-      "es": {
-        "title": "OpenAI enfrenta demanda federal por presunto rol de ChatGPT en tiroteo de FSU",
-        "excerpt": "OpenAI enfrenta una demanda federal que alega que ChatGPT dio guía sobre armas y consejos tácticos vinculados al tiroteo masivo de FSU.",
-        "body": "OpenAI enfrenta una demanda federal relacionada con el tiroteo masivo de FSU. La demanda alega que el atacante recibió de ChatGPT orientación sobre armas de fuego y consejos tácticos, lo que amplía el debate sobre hasta dónde deben responder las empresas de IA por actos violentos de sus usuarios. El punto central descrito en el reporte original es qué papel pudieron tener las respuestas de ChatGPT y qué deberes tiene un proveedor de servicios de IA para prevenir daños potenciales. El caso podría reactivar el escrutinio sobre las salvaguardas de la IA generativa y los límites legales de responsabilidad. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "OpenAI enfrenta ação federal por suposto papel do ChatGPT em tiroteio na FSU",
-        "excerpt": "A OpenAI enfrenta ação federal que alega que o ChatGPT forneceu orientação sobre armas e conselhos táticos ligados ao tiroteio em massa na FSU.",
-        "body": "A OpenAI enfrenta uma ação federal relacionada ao tiroteio em massa na FSU. A ação alega que o atirador recebeu do ChatGPT orientação sobre armas de fogo e conselhos táticos, ampliando o debate sobre até onde empresas de IA podem ser responsabilizadas por atos violentos de usuários. A questão central descrita no relatório original é qual papel as respostas do ChatGPT podem ter desempenhado e quais deveres um provedor de serviços de IA tem para evitar danos potenciais. O caso deve recolocar em evidência as salvaguardas da IA generativa e os limites legais de responsabilidade. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "OpenAI wegen angeblicher ChatGPT-Rolle bei FSU-Schießerei verklagt",
-        "excerpt": "OpenAI steht vor einer Bundesklage, die behauptet, ChatGPT habe dem Schützen bei der FSU-Massenschießerei Waffenhinweise und taktische Ratschläge gegeben.",
-        "body": "OpenAI sieht sich im Zusammenhang mit der Massenschießerei an der FSU mit einer Bundesklage konfrontiert. Die Klage behauptet, der Schütze habe von ChatGPT Hinweise zu Schusswaffen und taktische Ratschläge erhalten, was die Debatte darüber verschärft, wie weit KI-Unternehmen für Gewalttaten von Nutzern haften können. Im Mittelpunkt des Originalberichts steht, welche Rolle ChatGPT-Antworten gespielt haben könnten und welche Pflichten ein Anbieter von KI-Diensten zur Verhinderung möglicher Schäden trägt. Der Fall dürfte die Diskussion über Schutzmechanismen generativer KI und die rechtlichen Grenzen der Verantwortung neu beleben. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "OpenAI visée par une plainte fédérale sur le rôle présumé de ChatGPT dans la fusillade de FSU",
-        "excerpt": "OpenAI fait face à une plainte fédérale alléguant que ChatGPT a fourni des indications sur les armes et des conseils tactiques liés à la fusillade de FSU.",
-        "body": "OpenAI fait face à une plainte fédérale liée à la fusillade de masse de FSU. La plainte allègue que le tireur a reçu de ChatGPT des indications sur les armes à feu et des conseils tactiques, ce qui nourrit le débat sur l’étendue de la responsabilité des entreprises d’IA dans les actes violents commis par des utilisateurs. Le point central du rapport original est le rôle qu’auraient pu jouer les réponses de ChatGPT et les obligations d’un fournisseur de services d’IA pour prévenir des dommages potentiels. Cette affaire devrait relancer l’examen des garde-fous de l’IA générative et des limites juridiques de la responsabilité. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "OpenAI تواجه دعوى اتحادية بسبب مزاعم دور ChatGPT في إطلاق نار FSU",
-        "excerpt": "تواجه OpenAI دعوى اتحادية تزعم أن ChatGPT قدّم إرشادات بشأن الأسلحة ونصائح تكتيكية مرتبطة بإطلاق النار الجماعي في FSU.",
-        "body": "تواجه OpenAI دعوى قضائية اتحادية مرتبطة بإطلاق النار الجماعي في FSU. وتزعم الدعوى أن منفذ الهجوم تلقى من ChatGPT إرشادات تتعلق بالأسلحة النارية ونصائح تكتيكية، ما يوسع الجدل حول مدى مسؤولية شركات الذكاء الاصطناعي عن أفعال العنف التي يرتكبها المستخدمون. وتتمحور القضية، وفق التقرير الأصلي، حول الدور الذي ربما لعبته ردود ChatGPT، وما الالتزامات التي تقع على مزود خدمة الذكاء الاصطناعي لمنع الأضرار المحتملة. ومن المتوقع أن تعيد هذه الدعوى تسليط الضوء على ضوابط أمان الذكاء الاصطناعي التوليدي وحدود المسؤولية القانونية. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "FSU गोलीकांड में ChatGPT की भूमिका के आरोपों पर OpenAI को संघीय मुकदमे का सामना",
-        "excerpt": "OpenAI पर संघीय मुकदमा दायर हुआ है, जिसमें आरोप है कि ChatGPT ने FSU सामूहिक गोलीकांड से जुड़े शूटर को हथियार संबंधी मार्गदर्शन और सामरिक सलाह दी।",
-        "body": "OpenAI FSU सामूहिक गोलीकांड से जुड़े एक संघीय मुकदमे का सामना कर रही है। मुकदमे में आरोप लगाया गया है कि शूटर ने ChatGPT से आग्नेयास्त्रों से संबंधित मार्गदर्शन और सामरिक सलाह प्राप्त की, जिससे यह बहस तेज हो गई है कि उपयोगकर्ताओं की हिंसक कार्रवाइयों के लिए AI कंपनियों की जिम्मेदारी कितनी होनी चाहिए। मूल रिपोर्ट में मुख्य मुद्दा यह है कि ChatGPT के जवाबों ने घटना में क्या भूमिका निभाई हो सकती है और संभावित नुकसान रोकने के लिए AI सेवा प्रदाता पर क्या दायित्व होते हैं। यह मामला जनरेटिव AI सुरक्षा उपायों और कानूनी जिम्मेदारी की सीमाओं पर चर्चा को फिर उभार सकता है। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "OpenAI Hadapi Gugatan Federal atas Dugaan Peran ChatGPT dalam Penembakan FSU",
-        "excerpt": "OpenAI menghadapi gugatan federal yang menuduh ChatGPT memberi panduan senjata api dan saran taktis terkait penembakan massal di FSU.",
-        "body": "OpenAI menghadapi gugatan federal terkait penembakan massal di FSU. Gugatan tersebut menuduh pelaku menerima panduan tentang senjata api dan saran taktis dari ChatGPT, sehingga memperbesar perdebatan tentang sejauh mana perusahaan AI dapat dimintai tanggung jawab atas tindakan kekerasan pengguna. Isu utama dalam laporan asli adalah peran apa yang mungkin dimainkan jawaban ChatGPT dan kewajiban apa yang dimiliki penyedia layanan AI untuk mencegah potensi bahaya. Kasus ini diperkirakan kembali menyoroti pengaman AI generatif dan batas hukum tanggung jawab. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "24d82ad5ecf6",
-    "slug": "crypto-funds-add-858m-as-clarity-act-drives-market-optimism-422725",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T02:49:09.559Z",
-    "updatedAt": "2026-05-12T02:49:09.560Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367382/crypto-funds-add-858m-as-clarity-act-drives-market-optimism",
-    "canonicalUrl": "https://decrypt.co/367382/crypto-funds-add-858m-as-clarity-act-drives-market-optimism",
-    "titleFingerprint": "5709f03d4e057ebff77879df22627041946733f4",
-    "dedupKeys": [
-      "24d82ad5ecf63b335f60b5aeb19615d186b55657",
-      "5709f03d4e057ebff77879df22627041946733f4",
-      "bb7166a6fc72919c5b903479a7555cbcae9f4b20"
-    ],
-    "imageUrl": "/images/articles/24d82ad5ecf6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "크립토 펀드 8억5800만달러 유입, Clarity Act 낙관 확산",
-        "excerpt": "디지털 자산 펀드에 8억5800만달러가 유입되며 6주 만의 최고치를 기록했다. 상원 스테이블코인 합의가 비트코인과 알트코인 전반의 기관 수요를 자극했다.",
-        "body": "디지털 자산 투자 상품에 최근 8억5800만달러가 유입되며 6주 만의 최고 수준을 기록했다. decrypt.co에 따르면 이번 자금 유입은 미국 상원에서 스테이블코인 관련 합의가 이뤄지고 Clarity Act를 둘러싼 규제 명확성 기대가 커진 가운데 나타났다. 시장에서는 비트코인뿐 아니라 알트코인 전반으로 기관 투자자의 관심이 확산된 점이 주목됐다. 규제 불확실성이 완화될 수 있다는 기대가 투자 심리를 지지하면서 디지털 자산 펀드로의 자금 흐름이 강화됐다. 다만 보도는 이번 흐름을 시장 낙관론과 제도권 수요 확대의 신호로 설명하는 데 그쳤다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Crypto Funds Draw $858M as Clarity Act Lifts Market Optimism",
-        "excerpt": "Digital asset funds attracted $858 million, the highest inflow in six weeks, as a Senate stablecoin deal boosted institutional appetite for Bitcoin and altcoins.",
-        "body": "Digital asset investment products recently recorded $858 million in inflows, marking the highest level in six weeks. According to decrypt.co, the move came as a U.S. Senate stablecoin deal and expectations for clearer rules around the Clarity Act improved market sentiment. Investors focused not only on Bitcoin but also on broader altcoin exposure, signaling stronger institutional appetite across the digital asset market. The prospect of reduced regulatory uncertainty supported risk demand and helped drive more capital into crypto funds. The report framed the inflows as a sign of market optimism and growing institutional interest. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "暗号資産ファンドに8.58億ドル流入、Clarity Act期待が支え",
-        "excerpt": "デジタル資産ファンドへの資金流入は8億5800万ドルとなり6週間ぶり高水準。上院のステーブルコイン合意がビットコインとアルトコイン需要を押し上げた。",
-        "body": "デジタル資産投資商品には最近、8億5800万ドルの資金が流入し、6週間ぶりの高水準となった。decrypt.coによると、米上院でステーブルコインを巡る合意が進み、Clarity Actによる規制明確化への期待が高まったことが背景にある。市場ではビットコインだけでなく、アルトコイン全般にも機関投資家の関心が広がった点が注目された。規制不透明感が和らぐ可能性が投資心理を支え、暗号資産ファンドへの資金流入を強めた。報道は今回の動きを、市場の楽観と機関需要拡大の兆しとして伝えている。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "加密基金流入8.58亿美元，Clarity Act提振市场乐观",
-        "excerpt": "数字资产基金流入8.58亿美元，创六周高点。美国参议院稳定币协议提振机构对比特币和山寨币的需求。",
-        "body": "数字资产投资产品近期录得8.58亿美元资金流入，达到六周以来最高水平。据decrypt.co报道，这一资金流入出现在美国参议院达成稳定币相关协议、市场对Clarity Act带来监管清晰度的期待升温之际。市场关注点不仅在比特币，也扩展到更广泛的山寨币，显示机构投资者对数字资产的兴趣增强。监管不确定性可能缓解的预期支撑了投资情绪，并推动更多资金进入加密基金。报道将这一趋势描述为市场乐观情绪和机构需求扩大的信号。来源: decrypt.co"
-      },
-      "es": {
-        "title": "Fondos cripto captan $858M mientras Clarity Act impulsa optimismo",
-        "excerpt": "Los fondos de activos digitales recibieron $858 millones, su mayor entrada en seis semanas, tras un acuerdo del Senado sobre stablecoins que elevó la demanda institucional.",
-        "body": "Los productos de inversión en activos digitales registraron recientemente entradas por $858 millones, el nivel más alto en seis semanas. Según decrypt.co, el movimiento se produjo mientras un acuerdo en el Senado de EE. UU. sobre stablecoins y las expectativas de mayor claridad regulatoria vinculadas al Clarity Act mejoraron el ánimo del mercado. La atención institucional se extendió más allá de Bitcoin hacia los altcoins, reforzando el apetito por los activos digitales. La posibilidad de menor incertidumbre regulatoria apoyó la confianza y favoreció nuevos flujos hacia fondos cripto. El reporte presentó estas entradas como una señal de optimismo del mercado y mayor demanda institucional. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Fundos cripto recebem US$858 mi com otimismo pelo Clarity Act",
-        "excerpt": "Fundos de ativos digitais captaram US$858 milhões, maior entrada em seis semanas, após acordo do Senado sobre stablecoins elevar demanda institucional por Bitcoin e altcoins.",
-        "body": "Produtos de investimento em ativos digitais registraram recentemente entradas de US$858 milhões, o maior nível em seis semanas. Segundo o decrypt.co, o movimento ocorreu enquanto um acordo no Senado dos EUA sobre stablecoins e a expectativa de maior clareza regulatória em torno do Clarity Act melhoraram o sentimento do mercado. O interesse institucional não ficou restrito ao Bitcoin e se espalhou também por altcoins. A possibilidade de redução da incerteza regulatória sustentou o apetite por risco e ajudou a direcionar mais capital para fundos cripto. A reportagem descreveu o fluxo como sinal de otimismo do mercado e de expansão da demanda institucional. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Krypto-Fonds ziehen 858 Mio. Dollar an, Clarity Act stärkt Optimismus",
-        "excerpt": "Digitale Asset-Fonds verzeichneten 858 Mio. Dollar Zuflüsse, den höchsten Stand seit sechs Wochen, da ein Stablecoin-Deal im Senat institutionelle Nachfrage belebte.",
-        "body": "Anlageprodukte für digitale Vermögenswerte verzeichneten zuletzt Zuflüsse von 858 Mio. Dollar und erreichten damit den höchsten Stand seit sechs Wochen. Laut decrypt.co kam die Entwicklung, als ein Stablecoin-Deal im US-Senat und Erwartungen an mehr regulatorische Klarheit durch den Clarity Act die Marktstimmung verbesserten. Die institutionelle Aufmerksamkeit richtete sich nicht nur auf Bitcoin, sondern auch auf Altcoins im breiteren Markt. Die Aussicht auf geringere regulatorische Unsicherheit stützte die Risikobereitschaft und lenkte mehr Kapital in Krypto-Fonds. Der Bericht wertete die Zuflüsse als Zeichen von Marktoptimismus und wachsender institutioneller Nachfrage. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Les fonds crypto attirent 858 M$ avec l’optimisme lié au Clarity Act",
-        "excerpt": "Les fonds d’actifs numériques ont attiré 858 M$, un plus haut de six semaines, alors qu’un accord du Sénat sur les stablecoins stimule la demande institutionnelle.",
-        "body": "Les produits d’investissement en actifs numériques ont récemment enregistré 858 M$ d’entrées, leur plus haut niveau en six semaines. Selon decrypt.co, ce mouvement intervient alors qu’un accord au Sénat américain sur les stablecoins et les attentes de clarté réglementaire autour du Clarity Act ont amélioré le sentiment du marché. L’intérêt des investisseurs institutionnels ne s’est pas limité au Bitcoin et s’est aussi étendu aux altcoins. La perspective d’une réduction de l’incertitude réglementaire a soutenu l’appétit pour le risque et favorisé les flux vers les fonds crypto. Le rapport présente ces entrées comme un signe d’optimisme du marché et de demande institutionnelle accrue. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "صناديق الكريبتو تجذب 858 مليون دولار مع تفاؤل Clarity Act",
-        "excerpt": "اجتذبت صناديق الأصول الرقمية 858 مليون دولار، وهو أعلى تدفق في ستة أسابيع، بعدما عزز اتفاق مجلس الشيوخ بشأن العملات المستقرة شهية المؤسسات للبيتكوين والعملات البديلة.",
-        "body": "سجلت منتجات الاستثمار في الأصول الرقمية مؤخرا تدفقات داخلة بقيمة 858 مليون دولار، لتبلغ أعلى مستوى في ستة أسابيع. ووفقا لـ decrypt.co، جاء ذلك مع اتفاق في مجلس الشيوخ الأميركي بشأن العملات المستقرة وارتفاع التوقعات بأن يوفر Clarity Act وضوحا تنظيميا أكبر. وتركز اهتمام السوق على اتساع شهية المؤسسات من البيتكوين إلى العملات البديلة أيضا. وساعد احتمال تراجع الغموض التنظيمي في دعم معنويات المستثمرين ودفع مزيد من رؤوس الأموال إلى صناديق الكريبتو. ووصفت التقارير هذه التدفقات بأنها إشارة إلى تفاؤل السوق ونمو الطلب المؤسسي. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "क्रिप्टो फंड में $858M आया, Clarity Act से बाजार आशावाद बढ़ा",
-        "excerpt": "डिजिटल एसेट फंड में $858 मिलियन का प्रवाह हुआ, जो छह सप्ताह का उच्च स्तर है। सीनेट के स्टेबलकॉइन समझौते ने बिटकॉइन और ऑल्टकॉइन में संस्थागत मांग बढ़ाई।",
-        "body": "डिजिटल एसेट निवेश उत्पादों में हाल में $858 मिलियन का प्रवाह दर्ज हुआ, जो छह सप्ताह का सबसे ऊंचा स्तर है। decrypt.co के अनुसार, यह प्रवाह ऐसे समय आया जब अमेरिकी सीनेट में स्टेबलकॉइन से जुड़ा समझौता हुआ और Clarity Act को लेकर नियामकीय स्पष्टता की उम्मीद बढ़ी। बाजार में ध्यान केवल बिटकॉइन तक सीमित नहीं रहा, बल्कि ऑल्टकॉइन में भी संस्थागत रुचि बढ़ती दिखी। नियामकीय अनिश्चितता कम होने की संभावना ने निवेश भावना को सहारा दिया और क्रिप्टो फंड में पूंजी प्रवाह मजबूत किया। रिपोर्ट ने इसे बाजार आशावाद और संस्थागत मांग बढ़ने का संकेत बताया। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Dana Kripto Masuk $858 Juta, Clarity Act Dorong Optimisme Pasar",
-        "excerpt": "Dana aset digital mencatat arus masuk $858 juta, tertinggi dalam enam pekan, setelah kesepakatan stablecoin Senat mendorong minat institusi pada Bitcoin dan altcoin.",
-        "body": "Produk investasi aset digital baru-baru ini mencatat arus masuk $858 juta, level tertinggi dalam enam pekan. Menurut decrypt.co, aliran dana ini terjadi saat kesepakatan stablecoin di Senat AS dan harapan atas kejelasan regulasi melalui Clarity Act memperbaiki sentimen pasar. Perhatian institusional tidak hanya tertuju pada Bitcoin, tetapi juga meluas ke altcoin. Prospek berkurangnya ketidakpastian regulasi mendukung minat risiko dan membantu menarik lebih banyak modal ke dana kripto. Laporan tersebut menggambarkan arus masuk ini sebagai tanda optimisme pasar dan meningkatnya permintaan institusional. Sumber: decrypt.co"
       }
     }
   }
