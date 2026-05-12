@@ -1,0 +1,75 @@
+{
+  "id": "b7efb500bbb0",
+  "slug": "hackers-used-ai-to-craft-zero-day-attack-to-bypass-2fa-googl-789677",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-12T06:34:11.491Z",
+  "updatedAt": "2026-05-12T06:34:11.491Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/hackers-used-ai-craft-zero-day-attack-bypass-2fa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/hackers-used-ai-craft-zero-day-attack-bypass-2fa",
+  "titleFingerprint": "aea91d8f2f94440d19ac8acc9b331ac0184450f0",
+  "dedupKeys": [
+    "b7efb500bbb076b2a6770b6f8ae6056c504eea3e",
+    "aea91d8f2f94440d19ac8acc9b331ac0184450f0",
+    "f2776a96098c6d2366d09074f6e09a2d2e6b53f9"
+  ],
+  "imageUrl": "/images/articles/b7efb500bbb0.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 활용 제로데이 공격, 해커가 2FA 우회에 악용했다고 구글 밝혀",
+      "excerpt": "구글 위협 인텔리전스 그룹은 해커가 AI 모델을 이용해 인기 시스템 관리 도구의 취약점을 발견하고 무기화해 2FA 우회를 시도했다고 밝혔다.",
+      "body": "구글 위협 인텔리전스 그룹은 한 위협 행위자가 AI 모델을 활용해 널리 쓰이는 시스템 관리 도구의 취약점을 찾아내고 이를 공격에 사용할 수 있게 만들었다고 밝혔다. 해당 공격은 제로데이 취약점을 악용해 2단계 인증(2FA)을 우회하려는 방식으로 설명됐다. 구글은 이 판단에 대해 “높은 신뢰도”를 갖고 있다고 전했다. 이번 사례는 AI가 방어뿐 아니라 취약점 탐색과 공격 준비 과정에도 활용될 수 있음을 보여준다. 다만 공개된 정보는 원문 기준으로 도구명이나 추가 피해 규모를 제시하지 않았다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "AI-assisted zero-day attack used to bypass 2FA, Google says",
+      "excerpt": "Google’s Threat Intelligence Group said a threat actor used an AI model to find and weaponize a flaw in a popular system administration tool to target 2FA.",
+      "body": "Google’s Threat Intelligence Group said a threat actor used an AI model to help discover and weaponize a vulnerability in a widely used system administration tool. The attack was described as exploiting a zero-day flaw in an attempt to bypass two-factor authentication, or 2FA. Google said it has “high confidence” in this assessment. The case shows that AI can be used not only for defense but also in vulnerability discovery and attack preparation. However, the information available in the original report did not name the tool or provide additional figures on the scale of impact. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "AI利用のゼロデイ攻撃、2FA回避に悪用とGoogleが指摘",
+      "excerpt": "Google脅威インテリジェンスグループは、攻撃者がAIモデルで人気のシステム管理ツールの脆弱性を発見・武器化したと明らかにした。",
+      "body": "Googleの脅威インテリジェンスグループは、ある脅威アクターがAIモデルを使い、広く使われるシステム管理ツールの脆弱性を発見し、攻撃に利用できる形へ武器化したと述べた。この攻撃はゼロデイ脆弱性を悪用し、二要素認証（2FA）の回避を試みるものと説明されている。Googleはこの評価について「高い信頼度」があるとしている。今回の事例は、AIが防御だけでなく脆弱性探索や攻撃準備にも使われ得ることを示す。ただし原文で公開された情報では、ツール名や被害規模に関する追加数値は示されていない。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "AI辅助零日攻击被用于绕过2FA，Google披露细节",
+      "excerpt": "Google威胁情报小组称，一名威胁行为者使用AI模型发现并武器化热门系统管理工具中的漏洞，以尝试绕过2FA。",
+      "body": "Google威胁情报小组表示，一名威胁行为者利用AI模型，帮助发现并武器化一款广泛使用的系统管理工具中的漏洞。该攻击被描述为利用零日漏洞，试图绕过双因素认证（2FA）。Google称其对这一判断具有“高度信心”。这一案例显示，AI不仅可用于防御，也可能被用于漏洞发现和攻击准备过程。不过，按原文公开信息，相关工具名称以及额外影响规模数据并未披露。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "Ataque zero-day con IA intentó eludir 2FA, afirma Google",
+      "excerpt": "Google Threat Intelligence Group dijo que un actor de amenazas usó un modelo de IA para hallar y convertir en arma una falla en una popular herramienta de administración.",
+      "body": "Google Threat Intelligence Group afirmó que un actor de amenazas utilizó un modelo de IA para ayudar a descubrir y convertir en arma una vulnerabilidad en una herramienta de administración de sistemas ampliamente usada. El ataque fue descrito como la explotación de una falla zero-day para intentar eludir la autenticación de dos factores, o 2FA. Google dijo tener “alta confianza” en esta evaluación. El caso muestra que la IA puede emplearse no solo en defensa, sino también en la búsqueda de vulnerabilidades y la preparación de ataques. Sin embargo, la información original no identificó la herramienta ni ofreció cifras adicionales sobre el alcance del impacto. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "Ataque zero-day com IA tentou burlar 2FA, diz Google",
+      "excerpt": "O Google Threat Intelligence Group afirmou que um agente de ameaça usou um modelo de IA para encontrar e explorar uma falha em uma ferramenta popular de administração.",
+      "body": "O Google Threat Intelligence Group afirmou que um agente de ameaça usou um modelo de IA para ajudar a descobrir e transformar em arma uma vulnerabilidade em uma ferramenta de administração de sistemas amplamente usada. O ataque foi descrito como a exploração de uma falha zero-day para tentar burlar a autenticação de dois fatores, ou 2FA. O Google disse ter “alta confiança” nessa avaliação. O caso mostra que a IA pode ser usada não apenas na defesa, mas também na descoberta de vulnerabilidades e na preparação de ataques. Porém, as informações originais não citaram o nome da ferramenta nem trouxeram dados adicionais sobre a escala do impacto. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "KI-gestützter Zero-Day-Angriff sollte 2FA umgehen, sagt Google",
+      "excerpt": "Googles Threat Intelligence Group erklärte, ein Angreifer habe ein KI-Modell genutzt, um eine Schwachstelle in einem beliebten Systemverwaltungstool zu finden und zu bewaffnen.",
+      "body": "Googles Threat Intelligence Group erklärte, ein Bedrohungsakteur habe ein KI-Modell genutzt, um eine Schwachstelle in einem weit verbreiteten Systemverwaltungstool zu entdecken und für Angriffe nutzbar zu machen. Der Angriff wurde als Ausnutzung einer Zero-Day-Lücke beschrieben, mit der die Zwei-Faktor-Authentifizierung, kurz 2FA, umgangen werden sollte. Google sagte, es habe in diese Einschätzung “hohes Vertrauen”. Der Fall zeigt, dass KI nicht nur zur Verteidigung, sondern auch zur Schwachstellensuche und Angriffsvorbereitung eingesetzt werden kann. Die im Original veröffentlichten Informationen nennen jedoch weder den Namen des Tools noch zusätzliche Zahlen zum Ausmaß der Auswirkungen. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "Une attaque zero-day avec IA visait à contourner la 2FA, selon Google",
+      "excerpt": "Google Threat Intelligence Group affirme qu’un acteur malveillant a utilisé un modèle d’IA pour découvrir et exploiter une faille dans un outil d’administration populaire.",
+      "body": "Google Threat Intelligence Group a indiqué qu’un acteur malveillant avait utilisé un modèle d’IA pour l’aider à découvrir et à transformer en arme une vulnérabilité dans un outil d’administration système largement utilisé. L’attaque est décrite comme l’exploitation d’une faille zero-day visant à contourner l’authentification à deux facteurs, ou 2FA. Google affirme avoir une “confiance élevée” dans cette évaluation. Ce cas montre que l’IA peut servir non seulement à la défense, mais aussi à la recherche de vulnérabilités et à la préparation d’attaques. Toutefois, les informations publiées dans l’article original ne donnent ni le nom de l’outil ni des chiffres supplémentaires sur l’ampleur de l’impact. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "هجوم يوم صفري مدعوم بالذكاء الاصطناعي لتجاوز 2FA، وفق غوغل",
+      "excerpt": "قالت مجموعة استخبارات التهديدات في غوغل إن جهة تهديد استخدمت نموذج ذكاء اصطناعي لاكتشاف ثغرة في أداة إدارة أنظمة شائعة وتسليحها.",
+      "body": "قالت مجموعة استخبارات التهديدات في غوغل إن جهة تهديد استخدمت نموذج ذكاء اصطناعي للمساعدة في اكتشاف ثغرة في أداة إدارة أنظمة واسعة الاستخدام وتحويلها إلى وسيلة هجومية. ووُصف الهجوم بأنه استغلال لثغرة يوم صفري بهدف محاولة تجاوز المصادقة الثنائية، أو 2FA. وذكرت غوغل أن لديها “ثقة عالية” في هذا التقييم. وتُظهر هذه الحالة أن الذكاء الاصطناعي يمكن أن يُستخدم ليس فقط في الدفاع، بل أيضا في اكتشاف الثغرات والتحضير للهجمات. ومع ذلك، فإن المعلومات المنشورة في النص الأصلي لم تذكر اسم الأداة أو أرقاما إضافية عن حجم التأثير. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "AI-सहायता वाला zero-day हमला 2FA बायपास के लिए इस्तेमाल, Google ने कहा",
+      "excerpt": "Google Threat Intelligence Group ने कहा कि एक थ्रेट एक्टर ने लोकप्रिय सिस्टम एडमिन टूल की कमजोरी खोजने और उसे हथियार बनाने में AI मॉडल का इस्तेमाल किया।",
+      "body": "Google Threat Intelligence Group ने कहा कि एक थ्रेट एक्टर ने व्यापक रूप से इस्तेमाल होने वाले सिस्टम एडमिनिस्ट्रेशन टूल की कमजोरी खोजने और उसे हमले के लिए तैयार करने में AI मॉडल की मदद ली। इस हमले को zero-day vulnerability का उपयोग करके two-factor authentication, यानी 2FA, को बायपास करने की कोशिश के रूप में बताया गया। Google ने कहा कि उसे इस आकलन पर “high confidence” है। यह मामला दिखाता है कि AI का उपयोग केवल रक्षा में ही नहीं, बल्कि कमजोरियों की खोज और हमले की तैयारी में भी हो सकता है। हालांकि मूल रिपोर्ट में टूल का नाम या प्रभाव के पैमाने से जुड़े अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "Serangan zero-day berbantuan AI dipakai untuk lewati 2FA, kata Google",
+      "excerpt": "Google Threat Intelligence Group menyebut pelaku ancaman memakai model AI untuk menemukan dan mempersenjatai celah pada alat administrasi sistem populer.",
+      "body": "Google Threat Intelligence Group mengatakan seorang pelaku ancaman menggunakan model AI untuk membantu menemukan dan mempersenjatai kerentanan pada alat administrasi sistem yang banyak digunakan. Serangan itu digambarkan sebagai eksploitasi celah zero-day untuk mencoba melewati autentikasi dua faktor, atau 2FA. Google menyatakan memiliki “keyakinan tinggi” atas penilaian tersebut. Kasus ini menunjukkan bahwa AI dapat digunakan bukan hanya untuk pertahanan, tetapi juga dalam pencarian kerentanan dan persiapan serangan. Namun, informasi dalam laporan asli tidak menyebut nama alat tersebut atau memberikan angka tambahan mengenai skala dampaknya. Sumber: cointelegraph.com"
+    }
+  }
+}
