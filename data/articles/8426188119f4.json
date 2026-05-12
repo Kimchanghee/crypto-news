@@ -1,0 +1,75 @@
+{
+  "id": "8426188119f4",
+  "slug": "dtcc-to-use-chainlink-to-power-247-collateral-management-net-435058",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-12T19:47:56.617Z",
+  "updatedAt": "2026-05-12T19:47:56.618Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/dtcc-to-use-chainlink-to-power-247-collateral-management-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/dtcc-to-use-chainlink-to-power-247-collateral-management-network",
+  "titleFingerprint": "4dc54a30f97a5ff8e96f28dbb760347e6d872c1e",
+  "dedupKeys": [
+    "8426188119f4f30e8e248b6c5ddf83dbc31794f4",
+    "4dc54a30f97a5ff8e96f28dbb760347e6d872c1e",
+    "2b4bfa876335e641085f57bb964e20777873cca6"
+  ],
+  "imageUrl": "/images/articles/8426188119f4.jpg",
+  "i18n": {
+    "ko": {
+      "title": "DTCC, 체인링크로 24시간 담보 관리 네트워크 구축",
+      "excerpt": "세계 최대 포스트트레이드 인프라 제공업체 DTCC가 2026년 4분기 출시를 앞둔 토큰화 담보 플랫폼에 체인링크 기술을 통합한다.",
+      "body": "DTCC가 2026년 4분기 출시를 앞두고 24시간 운영되는 담보 관리 네트워크를 구축하기 위해 체인링크 기술을 자사 토큰화 담보 플랫폼에 통합한다. DTCC는 세계 최대 포스트트레이드 인프라 제공업체로, 이번 계획은 담보 관리 업무를 토큰화 인프라와 연결하려는 움직임이다. 공개된 내용에 따르면 체인링크는 해당 플랫폼의 기술 기반으로 활용되며, 네트워크는 연중무휴 담보 관리를 목표로 한다. 출시 일정은 2026년 4분기로 제시됐다. 이 통합은 전통 금융 시장 인프라와 블록체인 기반 토큰화 기술의 접점을 넓히는 사례로 주목된다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "DTCC to Use Chainlink for 24/7 Collateral Network",
+      "excerpt": "DTCC, the world’s largest post-trade infrastructure provider, will integrate Chainlink into its tokenized collateral platform before a Q4 2026 launch.",
+      "body": "DTCC will integrate Chainlink technology into its tokenized collateral platform as it prepares to launch a 24/7 collateral management network in Q4 2026. DTCC is the world’s largest post-trade infrastructure provider, and the plan links collateral management with tokenized market infrastructure. According to the disclosed information, Chainlink will serve as a technology layer for the platform, while the network is designed to support around-the-clock collateral management. The launch timeline is set for the fourth quarter of 2026. The integration highlights a growing connection between traditional financial market infrastructure and blockchain-based tokenization technology. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "DTCC、Chainlinkで24時間担保管理ネットワーク構築へ",
+      "excerpt": "世界最大のポストトレードインフラ提供企業DTCCは、2026年第4四半期の開始を前に、トークン化担保プラットフォームへChainlink技術を統合する。",
+      "body": "DTCCは、2026年第4四半期の開始を前に、24時間稼働する担保管理ネットワークを構築するため、Chainlink技術を自社のトークン化担保プラットフォームに統合する。DTCCは世界最大のポストトレードインフラ提供企業であり、今回の計画は担保管理業務をトークン化された市場インフラと結び付ける動きだ。公表内容によると、Chainlinkは同プラットフォームの技術基盤として活用され、ネットワークは年中無休の担保管理を目指す。開始時期は2026年第4四半期とされている。この統合は、伝統的金融市場インフラとブロックチェーン基盤のトークン化技術の接点を広げる事例として注目される。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "DTCC将用Chainlink打造24小时抵押品管理网络",
+      "excerpt": "全球最大交易后基础设施提供商DTCC将在2026年第四季度上线前，把Chainlink技术整合进其代币化抵押品平台。",
+      "body": "DTCC将在2026年第四季度推出前，把Chainlink技术整合进其代币化抵押品平台，以建设一个24小时运行的抵押品管理网络。DTCC是全球最大的交易后基础设施提供商，此举旨在把抵押品管理业务与代币化市场基础设施连接起来。根据已披露信息，Chainlink将作为该平台的技术基础之一，网络目标是支持全天候抵押品管理。上线时间被设定为2026年第四季度。此次整合显示，传统金融市场基础设施与基于区块链的代币化技术之间的连接正在扩大。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "DTCC usará Chainlink para red de colateral 24/7",
+      "excerpt": "DTCC, el mayor proveedor mundial de infraestructura postnegociación, integrará Chainlink en su plataforma de colateral tokenizado antes de lanzarla en el cuarto trimestre de 2026.",
+      "body": "DTCC integrará la tecnología de Chainlink en su plataforma de colateral tokenizado mientras prepara el lanzamiento de una red de gestión de colateral operativa las 24 horas en el cuarto trimestre de 2026. DTCC es el mayor proveedor mundial de infraestructura postnegociación, y el plan conecta la gestión de colateral con infraestructura de mercado tokenizada. Según la información divulgada, Chainlink se utilizará como base tecnológica de la plataforma, mientras que la red busca permitir la gestión continua de colateral. El calendario de lanzamiento está fijado para el cuarto trimestre de 2026. La integración destaca el vínculo creciente entre la infraestructura financiera tradicional y la tecnología de tokenización basada en blockchain. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "DTCC usará Chainlink em rede de colateral 24/7",
+      "excerpt": "A DTCC, maior provedora mundial de infraestrutura pós-negociação, integrará a Chainlink à sua plataforma de colateral tokenizado antes do lançamento no 4º tri de 2026.",
+      "body": "A DTCC integrará a tecnologia da Chainlink à sua plataforma de colateral tokenizado enquanto prepara o lançamento de uma rede de gestão de colateral 24 horas por dia no quarto trimestre de 2026. A DTCC é a maior provedora mundial de infraestrutura pós-negociação, e o plano conecta a gestão de colateral à infraestrutura de mercado tokenizada. Segundo as informações divulgadas, a Chainlink será usada como base tecnológica da plataforma, enquanto a rede terá como objetivo permitir a gestão contínua de colateral. O lançamento está previsto para o quarto trimestre de 2026. A integração evidencia a aproximação entre a infraestrutura financeira tradicional e a tecnologia de tokenização baseada em blockchain. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "DTCC nutzt Chainlink für 24/7-Netzwerk für Sicherheiten",
+      "excerpt": "DTCC, der weltweit größte Anbieter von Post-Trade-Infrastruktur, integriert Chainlink vor dem Start im 4. Quartal 2026 in seine Plattform für tokenisierte Sicherheiten.",
+      "body": "DTCC wird Chainlink-Technologie in seine Plattform für tokenisierte Sicherheiten integrieren, während das Unternehmen ein rund um die Uhr betriebenes Netzwerk für das Sicherheitenmanagement vorbereitet. Der Start ist für das vierte Quartal 2026 geplant. DTCC ist der weltweit größte Anbieter von Post-Trade-Infrastruktur, und der Schritt verbindet Sicherheitenmanagement mit tokenisierter Marktinfrastruktur. Den veröffentlichten Informationen zufolge soll Chainlink als technologische Grundlage der Plattform dienen, während das Netzwerk ein dauerhaft verfügbares Sicherheitenmanagement unterstützen soll. Die Integration zeigt eine wachsende Schnittstelle zwischen traditioneller Finanzmarktinfrastruktur und blockchainbasierter Tokenisierungstechnologie. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "DTCC choisit Chainlink pour un réseau de collatéral 24/7",
+      "excerpt": "DTCC, plus grand fournisseur mondial d’infrastructure post-marché, intégrera Chainlink à sa plateforme de collatéral tokenisé avant un lancement au T4 2026.",
+      "body": "DTCC intégrera la technologie Chainlink à sa plateforme de collatéral tokenisé alors qu’il prépare le lancement, au quatrième trimestre 2026, d’un réseau de gestion du collatéral disponible 24 heures sur 24. DTCC est le plus grand fournisseur mondial d’infrastructure post-marché, et ce projet relie la gestion du collatéral à une infrastructure de marché tokenisée. Selon les informations publiées, Chainlink servira de base technologique à la plateforme, tandis que le réseau vise une gestion continue du collatéral. Le calendrier de lancement est fixé au quatrième trimestre 2026. Cette intégration illustre le rapprochement entre l’infrastructure financière traditionnelle et la tokenisation fondée sur la blockchain. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "DTCC تستخدم Chainlink لشبكة إدارة ضمانات على مدار الساعة",
+      "excerpt": "ستدمج DTCC، أكبر مزود عالمي لبنية ما بعد التداول، تقنية Chainlink في منصتها للضمانات المرمزة قبل إطلاق مقرر في الربع الرابع من 2026.",
+      "body": "ستدمج DTCC تقنية Chainlink في منصتها للضمانات المرمزة استعدادا لإطلاق شبكة إدارة ضمانات تعمل على مدار الساعة في الربع الرابع من 2026. وتعد DTCC أكبر مزود عالمي لبنية ما بعد التداول، وتهدف الخطة إلى ربط إدارة الضمانات ببنية سوقية مرمزة. ووفق المعلومات المعلنة، ستستخدم Chainlink كطبقة تقنية للمنصة، بينما تستهدف الشبكة دعم إدارة الضمانات بشكل مستمر. وتم تحديد موعد الإطلاق في الربع الرابع من 2026. يبرز هذا الدمج اتساع الصلة بين البنية التحتية التقليدية للأسواق المالية وتقنيات الترميز القائمة على البلوكشين. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "DTCC 24/7 कोलेटरल नेटवर्क के लिए Chainlink अपनाएगा",
+      "excerpt": "दुनिया का सबसे बड़ा पोस्ट-ट्रेड इंफ्रास्ट्रक्चर प्रदाता DTCC, Q4 2026 लॉन्च से पहले अपने टोकनाइज्ड कोलेटरल प्लेटफॉर्म में Chainlink तकनीक जोड़ेगा।",
+      "body": "DTCC Q4 2026 में लॉन्च से पहले 24 घंटे चलने वाले कोलेटरल मैनेजमेंट नेटवर्क के लिए अपने टोकनाइज्ड कोलेटरल प्लेटफॉर्म में Chainlink तकनीक को एकीकृत करेगा। DTCC दुनिया का सबसे बड़ा पोस्ट-ट्रेड इंफ्रास्ट्रक्चर प्रदाता है, और यह योजना कोलेटरल मैनेजमेंट को टोकनाइज्ड मार्केट इंफ्रास्ट्रक्चर से जोड़ती है। उपलब्ध जानकारी के अनुसार, Chainlink इस प्लेटफॉर्म की तकनीकी परत के रूप में इस्तेमाल होगा, जबकि नेटवर्क का लक्ष्य लगातार कोलेटरल मैनेजमेंट को समर्थन देना है। लॉन्च समयसीमा 2026 की चौथी तिमाही तय की गई है। यह एकीकरण पारंपरिक वित्तीय बाजार अवसंरचना और ब्लॉकचेन-आधारित टोकनाइजेशन तकनीक के बीच बढ़ते संबंध को दिखाता है। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "DTCC Pakai Chainlink untuk Jaringan Kolateral 24/7",
+      "excerpt": "DTCC, penyedia infrastruktur pascaperdagangan terbesar dunia, akan mengintegrasikan Chainlink ke platform kolateral tertokenisasi jelang peluncuran Q4 2026.",
+      "body": "DTCC akan mengintegrasikan teknologi Chainlink ke platform kolateral tertokenisasi miliknya saat menyiapkan peluncuran jaringan manajemen kolateral 24 jam pada kuartal keempat 2026. DTCC adalah penyedia infrastruktur pascaperdagangan terbesar di dunia, dan rencana ini menghubungkan manajemen kolateral dengan infrastruktur pasar tertokenisasi. Berdasarkan informasi yang diungkap, Chainlink akan digunakan sebagai lapisan teknologi untuk platform tersebut, sementara jaringan ditujukan mendukung manajemen kolateral sepanjang waktu. Jadwal peluncuran ditetapkan pada Q4 2026. Integrasi ini menunjukkan makin luasnya hubungan antara infrastruktur pasar keuangan tradisional dan teknologi tokenisasi berbasis blockchain. Sumber: cointelegraph.com"
+    }
+  }
+}
