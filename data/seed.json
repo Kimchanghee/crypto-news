@@ -1,5 +1,230 @@
 [
   {
+    "id": "64ad1c759577",
+    "slug": "broadridge-expands-tokenized-securities-infrastructure-amid--109123",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T22:10:37.191Z",
+    "updatedAt": "2026-05-12T22:10:37.191Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/wall-street-tokenization-grows-as-broadridge-financial-solutions-adds-tokenized-securities-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/wall-street-tokenization-grows-as-broadridge-financial-solutions-adds-tokenized-securities-support",
+    "titleFingerprint": "f2ed0a9a1ae5239a9c12717e8dc282eeec6fadb6",
+    "dedupKeys": [
+      "64ad1c759577ac6f44bbaf20d7e56e57958cc64d",
+      "f2ed0a9a1ae5239a9c12717e8dc282eeec6fadb6",
+      "c67db73dde58476876f26cd353439069687a57b6"
+    ],
+    "imageUrl": "/images/articles/64ad1c759577.jpg",
+    "i18n": {
+      "ko": {
+        "title": "토큰화 증권 인프라 확대하는 브로드리지, 월가 블록체인 흐름 대응",
+        "excerpt": "브로드리지는 월가의 블록체인 활용 확대 흐름 속에서 자사 플랫폼이 토큰화 주식, 펀드, 머니마켓 상품의 거래·결제·후선 업무를 지원한다고 밝혔다.",
+        "body": "브로드리지는 월가에서 블록체인 기반 시장 인프라에 대한 관심이 커지는 가운데 토큰화 증권 인프라를 확대했다고 밝혔다. 회사에 따르면 해당 플랫폼은 이제 토큰화 주식, 펀드, 머니마켓 상품을 거래, 결제, 거래 후 처리 전반에서 지원한다. 이번 발표는 전통 금융사가 디지털 자산 기술을 기존 증권 업무에 접목하려는 흐름과 맞물린다. 브로드리지는 지원 범위를 넓혀 토큰화 상품의 운용과 사후 관리에 필요한 기능을 제공한다는 입장이다. 향후 월가의 블록체인 도입 논의에서 토큰화 증권 인프라의 역할이 더 주목될 수 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Broadridge expands tokenized securities infrastructure as Wall Street pushes blockchain",
+        "excerpt": "Broadridge said its platform now supports tokenized equities, funds and money market instruments across trading, settlement and post-trade operations as Wall Street explores blockchain use.",
+        "body": "Broadridge said it has expanded its tokenized securities infrastructure as Wall Street shows growing interest in blockchain-based market systems. According to the company, its platform now supports tokenized equities, funds and money market instruments across trading, settlement and post-trade operations. The announcement comes as traditional financial firms look to apply digital asset technology to existing securities workflows. Broadridge says the broader support is designed to provide functions needed for managing tokenized products and related post-trade processes. The development may keep tokenized securities infrastructure in focus as Wall Street continues discussing blockchain adoption. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "ブロードリッジ、トークン化証券インフラ拡大　ウォール街のブロックチェーン活用に対応",
+        "excerpt": "ブロードリッジは、ウォール街でブロックチェーン活用が広がる中、自社平台がトークン化株式、ファンド、マネーマーケット商品の取引・決済・ポストトレードを支援すると発表した。",
+        "body": "ブロードリッジは、ウォール街でブロックチェーン基盤の市場インフラへの関心が高まる中、トークン化証券インフラを拡大したと明らかにした。同社によると、このプラットフォームは現在、トークン化された株式、ファンド、マネーマーケット商品を取引、決済、取引後処理の全般で支援する。今回の発表は、伝統的な金融機関がデジタル資産技術を既存の証券業務に取り入れようとする流れと重なる。ブロードリッジは対応範囲を広げ、トークン化商品の運用と事後管理に必要な機能を提供する考えだ。今後、ウォール街のブロックチェーン導入議論で、トークン化証券インフラの役割がさらに注目される可能性がある。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "Broadridge扩大代币化证券基础设施，回应华尔街区块链推进",
+        "excerpt": "Broadridge表示，在华尔街扩大区块链应用的背景下，其平台现已支持代币化股票、基金和货币市场工具的交易、结算及交易后运营。",
+        "body": "Broadridge表示，随着华尔街对基于区块链的市场基础设施兴趣上升，公司已扩大其代币化证券基础设施。该公司称，其平台现在支持代币化股票、基金和货币市场工具，覆盖交易、结算和交易后处理等环节。此次发布与传统金融机构尝试将数字资产技术接入现有证券业务的趋势相一致。Broadridge表示，扩大支持范围旨在为代币化产品的运营和后续管理提供所需功能。随着华尔街继续讨论区块链采用，代币化证券基础设施的作用可能受到更多关注。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Broadridge amplía infraestructura de valores tokenizados ante impulso blockchain en Wall Street",
+        "excerpt": "Broadridge dijo que su plataforma ya admite acciones, fondos e instrumentos del mercado monetario tokenizados en negociación, liquidación y operaciones posteriores a la operación.",
+        "body": "Broadridge informó que amplió su infraestructura de valores tokenizados mientras Wall Street muestra mayor interés por sistemas de mercado basados en blockchain. Según la compañía, su plataforma ahora admite acciones, fondos e instrumentos del mercado monetario tokenizados en negociación, liquidación y procesos posteriores a la operación. El anuncio coincide con el esfuerzo de firmas financieras tradicionales por aplicar tecnología de activos digitales a flujos de trabajo de valores ya existentes. Broadridge sostiene que la ampliación del soporte busca ofrecer funciones necesarias para la gestión de productos tokenizados y sus procesos posteriores. La infraestructura de valores tokenizados podría seguir ganando atención en los debates de Wall Street sobre blockchain. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Broadridge amplia infraestrutura de títulos tokenizados com avanço blockchain em Wall Street",
+        "excerpt": "A Broadridge afirmou que sua plataforma agora suporta ações, fundos e instrumentos do mercado monetário tokenizados em negociação, liquidação e pós-negociação.",
+        "body": "A Broadridge informou que ampliou sua infraestrutura de títulos tokenizados em meio ao crescente interesse de Wall Street por sistemas de mercado baseados em blockchain. Segundo a empresa, a plataforma agora oferece suporte a ações, fundos e instrumentos do mercado monetário tokenizados em negociação, liquidação e operações pós-negociação. O anúncio ocorre enquanto instituições financeiras tradicionais buscam aplicar tecnologia de ativos digitais aos fluxos existentes de valores mobiliários. A Broadridge afirma que a expansão do suporte visa fornecer funções necessárias para operar produtos tokenizados e gerenciar processos posteriores. A infraestrutura de títulos tokenizados pode ganhar mais destaque nas discussões de Wall Street sobre adoção de blockchain. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Broadridge baut Infrastruktur für tokenisierte Wertpapiere im Wall-Street-Blockchain-Trend aus",
+        "excerpt": "Broadridge erklärte, seine Plattform unterstütze nun tokenisierte Aktien, Fonds und Geldmarktinstrumente über Handel, Abwicklung und Post-Trade-Prozesse hinweg.",
+        "body": "Broadridge hat nach eigenen Angaben seine Infrastruktur für tokenisierte Wertpapiere ausgebaut, während an der Wall Street das Interesse an blockchainbasierten Marktinfrastrukturen wächst. Laut dem Unternehmen unterstützt die Plattform nun tokenisierte Aktien, Fonds und Geldmarktinstrumente über Handel, Abwicklung und Post-Trade-Prozesse hinweg. Die Mitteilung steht im Kontext traditioneller Finanzfirmen, die Digital-Asset-Technologie in bestehende Wertpapierabläufe integrieren wollen. Broadridge erklärt, der erweiterte Funktionsumfang solle die Verwaltung tokenisierter Produkte und die nachgelagerten Prozesse unterstützen. Damit könnte die Rolle von Infrastrukturen für tokenisierte Wertpapiere in den Blockchain-Debatten der Wall Street stärker in den Fokus rücken. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Broadridge étend son infrastructure de titres tokenisés face à l’élan blockchain de Wall Street",
+        "excerpt": "Broadridge a indiqué que sa plateforme prend désormais en charge actions, fonds et instruments monétaires tokenisés pour le trading, le règlement et le post-marché.",
+        "body": "Broadridge a annoncé l’extension de son infrastructure de titres tokenisés alors que Wall Street s’intéresse davantage aux systèmes de marché fondés sur la blockchain. Selon l’entreprise, sa plateforme prend désormais en charge les actions, fonds et instruments du marché monétaire tokenisés sur l’ensemble du trading, du règlement et des opérations post-marché. Cette annonce s’inscrit dans le mouvement des institutions financières traditionnelles qui cherchent à intégrer la technologie des actifs numériques aux processus existants des titres. Broadridge affirme que ce périmètre élargi vise à fournir les fonctions nécessaires à la gestion des produits tokenisés et de leurs traitements ultérieurs. L’infrastructure des titres tokenisés pourrait ainsi rester au centre des discussions sur l’adoption de la blockchain à Wall Street. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "برودريدج توسع بنية الأوراق المالية المرمزة مع اندفاع وول ستريت نحو البلوكشين",
+        "excerpt": "قالت برودريدج إن منصتها تدعم الآن الأسهم والصناديق وأدوات سوق المال المرمزة عبر التداول والتسوية وعمليات ما بعد التداول مع توسع اهتمام وول ستريت بالبلوكشين.",
+        "body": "أعلنت برودريدج أنها وسعت بنيتها التحتية للأوراق المالية المرمزة في وقت يتزايد فيه اهتمام وول ستريت بأنظمة السوق القائمة على البلوكشين. ووفق الشركة، تدعم المنصة الآن الأسهم والصناديق وأدوات سوق المال المرمزة عبر التداول والتسوية وعمليات ما بعد التداول. يأتي الإعلان ضمن توجه المؤسسات المالية التقليدية إلى إدخال تقنيات الأصول الرقمية في إجراءات الأوراق المالية القائمة. وتقول برودريدج إن توسيع نطاق الدعم يهدف إلى توفير الوظائف اللازمة لتشغيل المنتجات المرمزة وإدارة العمليات اللاحقة لها. وقد يجعل ذلك دور بنية الأوراق المالية المرمزة أكثر حضوراً في نقاشات وول ستريت حول تبني البلوكشين. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "ब्रॉडरिज ने वॉल स्ट्रीट के ब्लॉकचेन जोर के बीच टोकनाइज्ड सिक्योरिटीज ढांचा बढ़ाया",
+        "excerpt": "ब्रॉडरिज ने कहा कि उसका प्लेटफॉर्म अब टोकनाइज्ड इक्विटी, फंड और मनी मार्केट इंस्ट्रूमेंट्स को ट्रेडिंग, सेटलमेंट और पोस्ट-ट्रेड संचालन में सपोर्ट करता है।",
+        "body": "ब्रॉडरिज ने कहा कि वॉल स्ट्रीट में ब्लॉकचेन आधारित बाजार ढांचे में बढ़ती रुचि के बीच उसने टोकनाइज्ड सिक्योरिटीज इंफ्रास्ट्रक्चर का विस्तार किया है। कंपनी के अनुसार, उसका प्लेटफॉर्म अब टोकनाइज्ड इक्विटी, फंड और मनी मार्केट इंस्ट्रूमेंट्स को ट्रेडिंग, सेटलमेंट और पोस्ट-ट्रेड संचालन के पूरे दायरे में सपोर्ट करता है। यह घोषणा ऐसे समय आई है जब पारंपरिक वित्तीय संस्थान डिजिटल एसेट तकनीक को मौजूदा सिक्योरिटीज प्रक्रियाओं में जोड़ने की कोशिश कर रहे हैं। ब्रॉडरिज का कहना है कि विस्तारित सपोर्ट टोकनाइज्ड उत्पादों के संचालन और बाद की प्रबंधन प्रक्रियाओं के लिए जरूरी क्षमताएं उपलब्ध कराता है। वॉल स्ट्रीट में ब्लॉकचेन अपनाने की चर्चा में टोकनाइज्ड सिक्योरिटीज इंफ्रास्ट्रक्चर की भूमिका और प्रमुख हो सकती है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Broadridge perluas infrastruktur sekuritas tokenisasi di tengah dorongan blockchain Wall Street",
+        "excerpt": "Broadridge mengatakan platformnya kini mendukung ekuitas, dana, dan instrumen pasar uang yang ditokenisasi di perdagangan, penyelesaian, dan operasi pascatransaksi.",
+        "body": "Broadridge mengatakan telah memperluas infrastruktur sekuritas tokenisasi saat Wall Street menunjukkan minat yang lebih besar pada sistem pasar berbasis blockchain. Menurut perusahaan, platformnya kini mendukung ekuitas, dana, dan instrumen pasar uang yang ditokenisasi di seluruh proses perdagangan, penyelesaian, dan operasi pascatransaksi. Pengumuman ini sejalan dengan langkah lembaga keuangan tradisional yang ingin menerapkan teknologi aset digital ke alur kerja sekuritas yang sudah ada. Broadridge menyatakan perluasan dukungan tersebut ditujukan untuk menyediakan fungsi yang dibutuhkan dalam pengelolaan produk tokenisasi dan proses lanjutannya. Infrastruktur sekuritas tokenisasi dapat makin menjadi perhatian dalam pembahasan Wall Street tentang adopsi blockchain. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "7b00b8a1b09b",
+    "slug": "nasdaq-ventures-deutsche-bank-back-elliptic-in-120m-funding--343577",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T22:09:36.354Z",
+    "updatedAt": "2026-05-12T22:09:36.354Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/nasdaq-ventures-deutsche-bank-back-elliptic-in-120m-funding-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/nasdaq-ventures-deutsche-bank-back-elliptic-in-120m-funding-round",
+    "titleFingerprint": "a6d70bd78c8a19ee4fc2fda21537e1e9bde56eb7",
+    "dedupKeys": [
+      "7b00b8a1b09bea276e121c9dc5d9eea92264d7a6",
+      "a6d70bd78c8a19ee4fc2fda21537e1e9bde56eb7",
+      "3dcbad3d385290c9efe77194924942fe97211224"
+    ],
+    "imageUrl": "/images/articles/7b00b8a1b09b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Nasdaq Ventures·Deutsche Bank, Elliptic 1억2000만달러 투자 참여",
+        "excerpt": "블록체인 분석 기업 Elliptic은 Nasdaq Ventures와 Deutsche Bank가 참여한 1억2000만달러 조달로 AI 기반 컴플라이언스·거래 모니터링 확대에 나선다.",
+        "body": "블록체인 분석 기업 Elliptic이 Nasdaq Ventures와 Deutsche Bank의 지원을 포함한 1억2000만달러 규모의 자금 조달 라운드를 진행했다. 회사는 이번 자금이 은행과 암호화폐 기업을 위한 AI 기반 컴플라이언스 및 거래 모니터링 소프트웨어 확장에 쓰일 것이라고 밝혔다. Elliptic은 블록체인 분석을 통해 금융기관과 크립토 기업의 거래 감시 수요에 대응해 왔다. 이번 투자에는 전통 금융과 디지털 자산 시장을 잇는 규제 준수 기술의 중요성이 반영됐다. 회사의 향후 초점은 AI 기능을 활용한 감시 역량 확대와 고객 기반 강화에 맞춰질 전망이다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Nasdaq Ventures and Deutsche Bank back Elliptic’s $120M round",
+        "excerpt": "Blockchain analytics firm Elliptic raised $120 million with backing from Nasdaq Ventures and Deutsche Bank to expand AI-powered compliance and transaction monitoring tools.",
+        "body": "Blockchain analytics company Elliptic completed a $120 million funding round backed by Nasdaq Ventures and Deutsche Bank. The company said the capital will support the expansion of AI-powered compliance and transaction monitoring software for banks and crypto firms. Elliptic has served demand from financial institutions and digital asset companies for blockchain-based transaction oversight. The round highlights the role of compliance technology linking traditional finance and crypto markets. Elliptic’s next focus is expected to be expanding monitoring capabilities through AI features and strengthening its customer base. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "Nasdaq VenturesとDeutsche Bank、Ellipticの1.2億ドル調達を支援",
+        "excerpt": "ブロックチェーン分析企業Ellipticは、Nasdaq VenturesとDeutsche Bankが参加した1.2億ドル調達でAI活用のコンプライアンスと取引監視を拡大する。",
+        "body": "ブロックチェーン分析企業Ellipticは、Nasdaq VenturesとDeutsche Bankの支援を含む1億2000万ドル規模の資金調達ラウンドを実施した。同社は、この資金を銀行や暗号資産企業向けのAI活用コンプライアンスおよび取引監視ソフトウェアの拡大に充てると説明した。Ellipticはブロックチェーン分析を通じ、金融機関と暗号資産企業の取引監視需要に対応してきた。今回の投資は、伝統的金融とデジタル資産市場をつなぐ規制対応技術の重要性を示している。今後はAI機能による監視能力の拡充と顧客基盤の強化が焦点となる見通しだ。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "Nasdaq Ventures与德意志银行支持Elliptic 1.2亿美元融资",
+        "excerpt": "区块链分析公司Elliptic获Nasdaq Ventures和德意志银行支持完成1.2亿美元融资，将扩展面向银行和加密公司的AI合规与交易监测软件。",
+        "body": "区块链分析公司Elliptic完成了1.2亿美元融资，支持方包括Nasdaq Ventures和德意志银行。该公司表示，本轮资金将用于扩展面向银行和加密货币公司的AI驱动合规及交易监测软件。Elliptic一直通过区块链分析服务金融机构和数字资产企业的交易监管需求。此次投资反映出连接传统金融与数字资产市场的合规技术重要性。公司下一步重点预计将放在利用AI功能扩大监测能力，并加强客户基础。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Nasdaq Ventures y Deutsche Bank respaldan ronda de $120M de Elliptic",
+        "excerpt": "La firma de análisis blockchain Elliptic recaudó $120 millones con apoyo de Nasdaq Ventures y Deutsche Bank para ampliar software de cumplimiento y monitoreo transaccional con IA.",
+        "body": "La empresa de análisis blockchain Elliptic completó una ronda de financiación de $120 millones con respaldo de Nasdaq Ventures y Deutsche Bank. La compañía dijo que los fondos apoyarán la expansión de software de cumplimiento y monitoreo de transacciones impulsado por IA para bancos y firmas cripto. Elliptic ha atendido la demanda de instituciones financieras y compañías de activos digitales en supervisión de operaciones basada en blockchain. La inversión refleja la importancia de la tecnología de cumplimiento que conecta las finanzas tradicionales y los mercados cripto. Su enfoque será ampliar capacidades de monitoreo con IA y reforzar su base de clientes. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Nasdaq Ventures e Deutsche Bank apoiam rodada de US$120 mi da Elliptic",
+        "excerpt": "A empresa de análise blockchain Elliptic levantou US$120 milhões com apoio da Nasdaq Ventures e do Deutsche Bank para ampliar compliance e monitoramento de transações com IA.",
+        "body": "A empresa de análise blockchain Elliptic concluiu uma rodada de financiamento de US$120 milhões com apoio da Nasdaq Ventures e do Deutsche Bank. A companhia afirmou que os recursos vão sustentar a expansão de software de compliance e monitoramento de transações com IA para bancos e empresas cripto. A Elliptic atende à demanda de instituições financeiras e companhias de ativos digitais por supervisão de transações baseada em blockchain. O investimento mostra a importância da tecnologia de conformidade que conecta finanças tradicionais e mercados cripto. O foco deve ser ampliar recursos de monitoramento com IA e fortalecer a base de clientes. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Nasdaq Ventures und Deutsche Bank stützen Elliptics 120-Mio.-Dollar-Runde",
+        "excerpt": "Das Blockchain-Analyseunternehmen Elliptic sammelte 120 Mio. Dollar mit Unterstützung von Nasdaq Ventures und Deutsche Bank ein, um KI-gestützte Compliance- und Transaktionsüberwachung auszubauen.",
+        "body": "Das Blockchain-Analyseunternehmen Elliptic hat eine Finanzierungsrunde über 120 Millionen Dollar abgeschlossen, unterstützt von Nasdaq Ventures und Deutsche Bank. Das Unternehmen erklärte, die Mittel sollten den Ausbau KI-gestützter Compliance- und Transaktionsüberwachungssoftware für Banken und Kryptofirmen finanzieren. Elliptic bedient mit Blockchain-Analysen den Bedarf von Finanzinstituten und Digital-Asset-Unternehmen an Transaktionskontrolle. Die Investition unterstreicht die Bedeutung von Compliance-Technologie zwischen traditioneller Finanzwelt und Kryptomärkten. Künftig dürfte der Fokus auf erweiterten KI-Überwachungsfunktionen und einer stärkeren Kundenbasis liegen. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Nasdaq Ventures et Deutsche Bank soutiennent la levée de 120 M$ d’Elliptic",
+        "excerpt": "La société d’analyse blockchain Elliptic a levé 120 M$ avec le soutien de Nasdaq Ventures et Deutsche Bank afin d’étendre ses outils de conformité et de surveillance des transactions par IA.",
+        "body": "La société d’analyse blockchain Elliptic a bouclé une levée de fonds de 120 millions de dollars avec le soutien de Nasdaq Ventures et de Deutsche Bank. L’entreprise a indiqué que ce financement servira à développer des logiciels de conformité et de surveillance des transactions alimentés par l’IA pour les banques et les sociétés crypto. Elliptic répond déjà aux besoins des institutions financières et des entreprises d’actifs numériques en matière de contrôle des transactions sur blockchain. Cette opération souligne l’importance des technologies de conformité reliant finance traditionnelle et marchés crypto. La priorité devrait être l’expansion des capacités de surveillance par IA et le renforcement de la clientèle. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "Nasdaq Ventures ودويتشه بنك يدعمان جولة Elliptic بقيمة 120 مليون دولار",
+        "excerpt": "جمعت شركة تحليلات البلوكشين Elliptic تمويلا بقيمة 120 مليون دولار بدعم من Nasdaq Ventures ودويتشه بنك لتوسيع أدوات الامتثال ومراقبة المعاملات المدعومة بالذكاء الاصطناعي.",
+        "body": "أكملت شركة تحليلات البلوكشين Elliptic جولة تمويل بقيمة 120 مليون دولار بدعم من Nasdaq Ventures ودويتشه بنك. وقالت الشركة إن التمويل سيدعم توسيع برمجيات الامتثال ومراقبة المعاملات المدعومة بالذكاء الاصطناعي للبنوك وشركات العملات المشفرة. وتلبي Elliptic عبر تحليلات البلوكشين طلب المؤسسات المالية وشركات الأصول الرقمية على مراقبة المعاملات. ويعكس الاستثمار أهمية تقنيات الامتثال التي تربط التمويل التقليدي بأسواق الأصول الرقمية. ومن المتوقع أن ينصب تركيز الشركة على توسيع قدرات المراقبة عبر الذكاء الاصطناعي وتعزيز قاعدة العملاء. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Nasdaq Ventures और Deutsche Bank ने Elliptic की $120M फंडिंग को समर्थन दिया",
+        "excerpt": "ब्लॉकचेन एनालिटिक्स कंपनी Elliptic ने Nasdaq Ventures और Deutsche Bank के समर्थन से $120 मिलियन जुटाए, ताकि बैंकों और क्रिप्टो फर्मों के लिए AI आधारित अनुपालन और लेनदेन निगरानी सॉफ्टवेयर बढ़ाया जा सके।",
+        "body": "ब्लॉकचेन एनालिटिक्स कंपनी Elliptic ने Nasdaq Ventures और Deutsche Bank के समर्थन सहित $120 मिलियन की फंडिंग राउंड पूरी की। कंपनी ने कहा कि यह पूंजी बैंकों और क्रिप्टो कंपनियों के लिए AI आधारित अनुपालन और लेनदेन निगरानी सॉफ्टवेयर के विस्तार में इस्तेमाल होगी। Elliptic ब्लॉकचेन विश्लेषण के जरिए वित्तीय संस्थानों और डिजिटल एसेट कंपनियों की लेनदेन निगरानी जरूरतों को पूरा करती रही है। यह निवेश पारंपरिक वित्त और डिजिटल एसेट बाजारों को जोड़ने वाली अनुपालन तकनीक के महत्व को दिखाता है। आगे कंपनी का ध्यान AI सुविधाओं से निगरानी क्षमता बढ़ाने और ग्राहक आधार मजबूत करने पर रहने की उम्मीद है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Nasdaq Ventures dan Deutsche Bank dukung pendanaan Elliptic US$120 juta",
+        "excerpt": "Perusahaan analitik blockchain Elliptic meraih US$120 juta dengan dukungan Nasdaq Ventures dan Deutsche Bank untuk memperluas kepatuhan dan pemantauan transaksi berbasis AI.",
+        "body": "Perusahaan analitik blockchain Elliptic menyelesaikan putaran pendanaan senilai US$120 juta dengan dukungan Nasdaq Ventures dan Deutsche Bank. Perusahaan mengatakan dana tersebut akan mendukung perluasan perangkat lunak kepatuhan dan pemantauan transaksi berbasis AI untuk bank dan perusahaan kripto. Elliptic telah melayani kebutuhan lembaga keuangan dan perusahaan aset digital untuk pengawasan transaksi melalui analisis blockchain. Investasi ini mencerminkan pentingnya teknologi kepatuhan yang menghubungkan keuangan tradisional dan pasar aset digital. Fokus berikutnya diperkirakan pada perluasan kemampuan pemantauan dengan AI dan penguatan basis pelanggan. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "078cd179e1eb",
+    "slug": "cleanspark-shares-slide-after-reporting-378m-fiscal-second-q-682865",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T22:08:45.515Z",
+    "updatedAt": "2026-05-12T22:08:45.515Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/cleanspark-posts-378m-in-quarterly-losses-largely-driven-by-bitcoin-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/cleanspark-posts-378m-in-quarterly-losses-largely-driven-by-bitcoin-price-drop",
+    "titleFingerprint": "193c99b6a0d00b942760036e18e7fddd7ef9876d",
+    "dedupKeys": [
+      "078cd179e1eb33183fcc4dab93c01cc607c0410b",
+      "193c99b6a0d00b942760036e18e7fddd7ef9876d",
+      "fedf5d52e81e41e7b05058a2fe919244820013cf"
+    ],
+    "imageUrl": "/images/articles/078cd179e1eb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "CleanSpark 주가 하락, 회계 2분기 3억7,830만달러 순손실 충격",
+        "excerpt": "CleanSpark가 회계 2분기 실적에서 3억7,830만달러 순손실을 기록하며 주가가 하락했다. 손실은 전년 대비 두 배 이상 늘었고 약 60%는 비트코인 가격 하락과 관련됐다.",
+        "body": "CleanSpark는 회계 2분기 실적 발표 후 주가가 하락했다. 회사는 해당 분기에 3억7,830만달러의 순손실을 기록했으며, 이는 전년 같은 기간보다 두 배 이상 커진 규모다. 손실의 거의 60%는 비트코인 가격 하락과 연결됐다. 비트코인 채굴 기업인 CleanSpark의 실적은 보유 자산과 시장 가격 변동에 민감하게 반응한다. 이번 수치는 비트코인 가격 약세가 재무제표에 직접적인 부담으로 작용했음을 보여준다. 투자자들은 손실 확대와 주가 반응을 함께 주시하고 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "CleanSpark Stock Falls After $378.3M Fiscal Q2 Net Loss",
+        "excerpt": "CleanSpark shares fell after the company reported a $378.3 million net loss for its fiscal second quarter, more than double a year earlier, with nearly 60% tied to Bitcoin price declines.",
+        "body": "CleanSpark shares declined after the company reported its fiscal second-quarter results. The Bitcoin mining firm posted a net loss of $378.3 million for the period, more than twice the loss reported a year earlier. Nearly 60% of the loss was linked to declines in the price of Bitcoin. CleanSpark’s results show how closely a mining company’s balance sheet can move with the value of its Bitcoin-related exposure. The figures underline the pressure that weaker Bitcoin prices placed on the company’s quarterly performance. Investors are watching both the wider loss and the share-price reaction. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "CleanSpark株が下落、会計第2四半期に3億7,830万ドル損失",
+        "excerpt": "CleanSparkは会計第2四半期決算で3億7,830万ドルの純損失を計上し、株価が下落した。損失は前年同期の2倍超で、約60%がビットコイン価格下落に関連した。",
+        "body": "CleanSparkは会計第2四半期決算の発表後、株価が下落した。同社は同四半期に3億7,830万ドルの純損失を計上し、その規模は前年同期の2倍を超えた。損失のほぼ60%はビットコイン価格の下落に関連している。ビットコイン採掘企業であるCleanSparkの業績は、保有資産や市場価格の変動に影響を受けやすい。今回の数字は、ビットコイン価格の弱含みが財務諸表に直接的な負担となったことを示している。投資家は損失拡大と株価反応を注視している。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "CleanSpark股价下跌，财年第二季度净亏损3.783亿美元",
+        "excerpt": "CleanSpark公布财年第二季度业绩后股价下跌，公司净亏损3.783亿美元，较上年同期增加逾一倍，其中近60%与比特币价格下跌有关。",
+        "body": "CleanSpark在公布财年第二季度业绩后股价下跌。该公司本季度录得3.783亿美元净亏损，亏损规模较上年同期增加逾一倍。近60%的亏损与比特币价格下跌有关。作为比特币挖矿企业，CleanSpark的业绩容易受到持有资产和市场价格波动影响。此次数据表明，比特币价格走弱对公司财务报表形成了直接压力。投资者正在关注亏损扩大以及股价的市场反应。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "CleanSpark cae en bolsa tras pérdida fiscal trimestral de USD 378,3M",
+        "excerpt": "CleanSpark cayó en bolsa tras reportar una pérdida neta de USD 378,3 millones en su segundo trimestre fiscal, más del doble que un año antes, con casi 60% vinculada a la baja de Bitcoin.",
+        "body": "Las acciones de CleanSpark bajaron después de que la compañía publicara sus resultados del segundo trimestre fiscal. La empresa registró una pérdida neta de USD 378,3 millones en el período, más del doble que en el mismo tramo del año anterior. Casi el 60% de la pérdida estuvo relacionado con la caída del precio de Bitcoin. Como firma de minería de Bitcoin, CleanSpark es sensible a los cambios en el valor de sus activos y del mercado. Las cifras muestran que la debilidad de Bitcoin presionó directamente sus estados financieros. Los inversores observan la ampliación de la pérdida y la reacción de la acción. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "CleanSpark recua após prejuízo fiscal trimestral de US$ 378,3 mi",
+        "excerpt": "A CleanSpark caiu após divulgar prejuízo líquido de US$ 378,3 milhões no segundo trimestre fiscal, mais que o dobro do ano anterior, com quase 60% ligado à queda do Bitcoin.",
+        "body": "As ações da CleanSpark recuaram após a empresa divulgar seus resultados do segundo trimestre fiscal. A companhia registrou prejuízo líquido de US$ 378,3 milhões no período, mais que o dobro do observado no ano anterior. Quase 60% da perda foi associada à queda no preço do Bitcoin. Como empresa de mineração de Bitcoin, a CleanSpark tem resultados sensíveis às variações dos ativos mantidos e dos preços de mercado. Os números indicam que a fraqueza do Bitcoin pesou diretamente sobre suas demonstrações financeiras. Investidores acompanham o aumento do prejuízo e a reação das ações. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "CleanSpark-Aktie fällt nach 378,3 Mio. USD Verlust im zweiten Quartal",
+        "excerpt": "CleanSpark meldete für das zweite Geschäftsquartal einen Nettoverlust von 378,3 Mio. USD, mehr als doppelt so viel wie im Vorjahr. Fast 60% hingen mit dem Rückgang des Bitcoin-Preises zusammen.",
+        "body": "Die CleanSpark-Aktie gab nach der Veröffentlichung der Ergebnisse für das zweite Geschäftsquartal nach. Das Bitcoin-Mining-Unternehmen meldete für den Zeitraum einen Nettoverlust von 378,3 Mio. USD, mehr als doppelt so hoch wie im Vorjahr. Fast 60% des Verlusts standen im Zusammenhang mit dem Rückgang des Bitcoin-Preises. Die Ergebnisse zeigen, wie stark die Bilanz eines Mining-Unternehmens auf Bestände und Marktpreise reagieren kann. Die Zahlen verdeutlichen, dass schwächere Bitcoin-Preise die Quartalszahlen direkt belasteten. Anleger beobachten den größeren Verlust und die Kursreaktion. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "CleanSpark chute après une perte fiscale trimestrielle de 378,3 M$",
+        "excerpt": "CleanSpark a reculé en Bourse après une perte nette de 378,3 M$ au deuxième trimestre fiscal, plus du double de l’an dernier, dont près de 60% liée à la baisse du Bitcoin.",
+        "body": "L’action CleanSpark a reculé après la publication des résultats du deuxième trimestre fiscal de l’entreprise. La société a enregistré une perte nette de 378,3 millions de dollars sur la période, soit plus du double de celle de l’année précédente. Près de 60% de cette perte est liée à la baisse du prix du Bitcoin. En tant qu’entreprise de minage de Bitcoin, CleanSpark reste sensible aux variations de ses actifs et des prix de marché. Ces chiffres montrent que la faiblesse du Bitcoin a pesé directement sur ses comptes trimestriels. Les investisseurs suivent l’ampleur de la perte et la réaction du titre. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "سهم CleanSpark يهبط بعد خسارة فصلية قدرها 378.3 مليون دولار",
+        "excerpt": "هبط سهم CleanSpark بعد إعلان خسارة صافية قدرها 378.3 مليون دولار في الربع المالي الثاني، بأكثر من ضعف العام السابق، مع ارتباط نحو 60% منها بانخفاض سعر بيتكوين.",
+        "body": "تراجع سهم CleanSpark بعد إعلان نتائج الربع المالي الثاني. سجلت شركة تعدين بيتكوين خسارة صافية قدرها 378.3 مليون دولار خلال الفترة، وهو رقم يزيد على ضعف خسارة الفترة نفسها من العام السابق. وارتبط نحو 60% من الخسارة بانخفاض سعر بيتكوين. تظهر النتائج مدى حساسية أداء CleanSpark لتغيرات الأصول التي تحتفظ بها وأسعار السوق. كما توضح الأرقام أن ضعف سعر بيتكوين شكل ضغطا مباشرا على بيانات الشركة المالية الفصلية. يراقب المستثمرون اتساع الخسارة ورد فعل السهم في السوق. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "CleanSpark शेयर गिरे, वित्तीय दूसरी तिमाही में $378.3M शुद्ध घाटा",
+        "excerpt": "CleanSpark के शेयर वित्तीय दूसरी तिमाही में $378.3 मिलियन के शुद्ध घाटे के बाद गिरे। घाटा पिछले वर्ष से दोगुने से अधिक रहा और लगभग 60% बिटकॉइन कीमत गिरावट से जुड़ा था।",
+        "body": "CleanSpark के शेयर वित्तीय दूसरी तिमाही के नतीजे जारी होने के बाद गिर गए। बिटकॉइन माइनिंग कंपनी ने इस अवधि में $378.3 मिलियन का शुद्ध घाटा दर्ज किया, जो पिछले वर्ष की समान अवधि से दोगुने से अधिक है। घाटे का लगभग 60% हिस्सा बिटकॉइन की कीमत में गिरावट से जुड़ा था। CleanSpark का प्रदर्शन उसके रखे गए एसेट्स और बाजार कीमतों में बदलाव के प्रति संवेदनशील रहता है। ये आंकड़े दिखाते हैं कि कमजोर बिटकॉइन कीमतों ने कंपनी के तिमाही वित्तीय नतीजों पर सीधा दबाव डाला। निवेशक घाटे के विस्तार और शेयर की प्रतिक्रिया पर नजर रख रहे हैं। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Saham CleanSpark Turun Usai Rugi Fiskal Kuartal II US$378,3 Juta",
+        "excerpt": "Saham CleanSpark turun setelah perusahaan mencatat rugi bersih US$378,3 juta pada kuartal kedua fiskal, lebih dari dua kali tahun lalu, dengan hampir 60% terkait penurunan harga Bitcoin.",
+        "body": "Saham CleanSpark turun setelah perusahaan merilis hasil kuartal kedua fiskal. Perusahaan penambangan Bitcoin itu mencatat rugi bersih US$378,3 juta pada periode tersebut, lebih dari dua kali lipat dibandingkan tahun sebelumnya. Hampir 60% kerugian terkait dengan penurunan harga Bitcoin. Sebagai perusahaan penambangan Bitcoin, kinerja CleanSpark sensitif terhadap perubahan aset yang dimiliki dan harga pasar. Angka ini menunjukkan bahwa pelemahan harga Bitcoin memberi tekanan langsung pada laporan keuangan kuartalan perusahaan. Investor memantau pelebaran rugi dan respons harga saham. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "84c4df5af1fc",
     "slug": "rewardy-wallet-launches-global-multi-chain-swap-campaign-wit-219891",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Transaksi Bitcoin Bisa Dipantau: Dalio Jelaskan Alasan Bank Sentral Menjauhi BTC",
         "excerpt": "Ray Dalio mengatakan dalam laporan CoinDesk bahwa transparansi penuh transaksi Bitcoin membuat adopsi BTC oleh bank sentral menjadi kurang mungkin.",
         "body": "Ray Dalio mengatakan bank sentral kemungkinan tidak akan mudah mengadopsi BTC karena transaksi Bitcoin dapat dipantau. Ia menjelaskan bahwa transparansi penuh riwayat transaksi di jaringan Bitcoin menjadi inti perdebatan privasi. Latar belakangnya, bank sentral mempertimbangkan kemampuan pelacakan dan keterbukaan publik secara hati-hati saat memilih aset cadangan atau infrastruktur pembayaran. Pernyataan Dalio menunjukkan bahwa desentralisasi dan buku besar publik Bitcoin adalah kekuatan, tetapi struktur yang sama juga dapat menjadi beban bagi adopsi institusional. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "af0e6d0263ae",
-    "slug": "clarity-act-in-the-flesh-unveiled-by-us-senate-banking-commi-115553",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T05:33:48.372Z",
-    "updatedAt": "2026-05-12T05:33:48.372Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing",
-    "canonicalUrl": "https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing",
-    "titleFingerprint": "41f110b46d1d5ecf83754eb4e8296408d5b25f33",
-    "dedupKeys": [
-      "af0e6d0263ae872b94f868dca378ac12ff53ec0d",
-      "41f110b46d1d5ecf83754eb4e8296408d5b25f33",
-      "80bf9407ff8aa942211d413efa114ad8acb8822e"
-    ],
-    "imageUrl": "/images/articles/af0e6d0263ae.jpg",
-    "i18n": {
-      "ko": {
-        "title": "클래리티 법안 공개, 미 상원 은행위 청문회 전 시장구조안 제시",
-        "excerpt": "미 상원 은행위원회가 표결을 앞두고 암호화폐 시장구조 법안인 클래리티 법안 전문을 공개하며, 비공개로 돌던 논의 내용을 공식화했다.",
-        "body": "미국 상원 은행위원회가 청문회를 앞두고 암호화폐 시장구조 법안인 클래리티 법안의 문안을 공개했다. 이 법안은 이미 업계 안팎에서 비공개로 공유되며 논의돼 왔지만, 의원들이 표결에 앞서 공식 텍스트를 내놓은 것이다. 공개된 문안은 미국 암호화폐 시장 구조를 다루는 입법 논의의 핵심 자료가 될 전망이다. 업계는 그동안 닫힌 문 뒤에서 오가던 내용이 실제 법안 형태로 확인됐다는 점에 주목하고 있다. 향후 청문회와 표결 과정에서 법안의 세부 조항과 시장에 미칠 영향이 검토될 것으로 보인다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Clarity Act Text Released as Senate Banking Panel Sets Crypto Hearing",
-        "excerpt": "The U.S. Senate Banking Committee released the Clarity Act text before its vote, turning a privately circulated crypto market structure bill into an official draft.",
-        "body": "The U.S. Senate Banking Committee released the text of the Clarity Act, a crypto market structure bill, ahead of a hearing. The proposal had already been circulating privately across the industry, but lawmakers have now published the official text before their vote. The document is expected to become a key reference point in U.S. legislative discussions on crypto market structure. Industry attention is focused on the fact that details previously discussed behind closed doors are now available in bill form. The hearing and vote are expected to examine the bill’s provisions and its potential market impact. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "クラリティ法案を公開、米上院銀行委が暗号資産公聴会前に提示",
-        "excerpt": "米上院銀行委員会は採決を前に、暗号資産市場構造法案であるクラリティ法案の全文を公開し、非公開で回っていた内容を公式化した。",
-        "body": "米上院銀行委員会は、公聴会を前に暗号資産市場構造法案であるクラリティ法案の文案を公開した。この法案はすでに業界内外で非公開に共有され、議論されていたが、議員らが採決を前に公式テキストを示した形だ。公開された文案は、米国の暗号資産市場構造をめぐる立法議論の重要な資料になる見通しだ。業界は、これまで閉じた場で交わされていた内容が実際の法案として確認された点に注目している。今後の公聴会と採決過程で、条項の詳細と市場への影響が検討されるとみられる。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Clarity法案文本公布，美国参议院银行委员会会前披露",
-        "excerpt": "美国参议院银行委员会在表决前公布加密市场结构法案Clarity Act全文，将此前私下流传的行业讨论内容正式化。",
-        "body": "美国参议院银行委员会在听证会前公布了加密货币市场结构法案Clarity Act的文本。该法案此前已在行业内部以非公开方式流传并讨论，但议员们如今在表决前发布了正式文本。公布的文本预计将成为美国加密市场结构立法讨论中的关键参考。行业关注的重点在于，此前闭门讨论的内容如今已以实际法案形式得到确认。接下来的听证会和表决过程中，法案的具体条款及其对市场的影响预计将接受审视。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Clarity Act sale a la luz antes de audiencia del Senado sobre cripto",
-        "excerpt": "El Comité Bancario del Senado de EE. UU. publicó antes de la votación el texto del Clarity Act, formalizando un proyecto sobre estructura del mercado cripto.",
-        "body": "El Comité Bancario del Senado de Estados Unidos publicó el texto del Clarity Act, un proyecto de ley sobre la estructura del mercado cripto, antes de una audiencia. La iniciativa ya circulaba de forma privada en la industria, pero los legisladores difundieron ahora el texto oficial antes de su votación. El documento se perfila como una referencia clave en el debate legislativo estadounidense sobre la estructura del mercado de criptomonedas. La industria observa que contenidos antes tratados a puerta cerrada ya pueden revisarse como un proyecto formal. En la audiencia y la votación se examinarán sus disposiciones y su posible impacto en el mercado. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Clarity Act é divulgado antes de audiência do Senado sobre cripto",
-        "excerpt": "O Comitê Bancário do Senado dos EUA divulgou antes da votação o texto do Clarity Act, formalizando um projeto sobre estrutura do mercado cripto.",
-        "body": "O Comitê Bancário do Senado dos Estados Unidos divulgou o texto do Clarity Act, projeto de lei sobre a estrutura do mercado cripto, antes de uma audiência. A proposta já circulava de forma privada no setor, mas os legisladores agora publicaram o texto oficial antes da votação. O documento deve se tornar uma referência central nas discussões legislativas dos EUA sobre a estrutura do mercado de criptomoedas. O setor observa que conteúdos antes debatidos a portas fechadas agora aparecem em forma de projeto de lei. Na audiência e na votação, as disposições do texto e seu possível impacto no mercado devem ser avaliados. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Clarity Act veröffentlicht: US-Senatsausschuss legt Krypto-Text vor",
-        "excerpt": "Der Bankenausschuss des US-Senats veröffentlichte vor der Abstimmung den Text des Clarity Act und machte einen bisher intern kursierenden Krypto-Gesetzentwurf offiziell.",
-        "body": "Der Bankenausschuss des US-Senats hat vor einer Anhörung den Text des Clarity Act veröffentlicht, eines Gesetzentwurfs zur Struktur des Kryptomarktes. Der Entwurf war bereits hinter verschlossenen Türen in der Branche im Umlauf, doch die Abgeordneten legten nun vor ihrer Abstimmung den offiziellen Text vor. Das Dokument dürfte zu einer zentralen Grundlage der US-Debatte über die Regulierung der Kryptomarktstruktur werden. Die Branche achtet darauf, dass zuvor nur intern diskutierte Inhalte nun in konkreter Gesetzesform vorliegen. In Anhörung und Abstimmung sollen die Bestimmungen und mögliche Marktauswirkungen geprüft werden. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Clarity Act publié avant l’audition du Sénat américain sur la crypto",
-        "excerpt": "La commission bancaire du Sénat américain a publié avant le vote le texte du Clarity Act, officialisant un projet sur la structure du marché crypto.",
-        "body": "La commission bancaire du Sénat américain a publié le texte du Clarity Act, un projet de loi sur la structure du marché crypto, avant une audition. Le texte circulait déjà dans l’industrie à huis clos, mais les élus ont désormais rendu publique sa version officielle avant leur vote. Ce document devrait devenir une référence centrale dans les discussions législatives américaines sur la structure du marché des cryptomonnaies. Le secteur note que des éléments auparavant débattus en privé sont maintenant confirmés sous forme de projet de loi. L’audition et le vote à venir devraient examiner ses dispositions et ses effets possibles sur le marché. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "نشر نص Clarity Act قبل جلسة لجنة البنوك في مجلس الشيوخ حول الكريبتو",
-        "excerpt": "نشرت لجنة البنوك في مجلس الشيوخ الأميركي نص Clarity Act قبل التصويت، محولة مشروع هيكلة سوق الكريبتو المتداول سرا إلى مسودة رسمية.",
-        "body": "نشرت لجنة البنوك في مجلس الشيوخ الأميركي نص مشروع Clarity Act، وهو مشروع قانون يتعلق بهيكل سوق العملات المشفرة، قبل جلسة استماع. كان المشروع قد تداول بالفعل داخل القطاع خلف الأبواب المغلقة، لكن المشرعين أصدروا الآن النص الرسمي قبل التصويت عليه. ومن المتوقع أن يصبح النص المنشور مرجعا أساسيا في نقاشات التشريع الأميركية حول هيكل سوق الكريبتو. يركز القطاع على أن ما كان يجري تداوله في نقاشات غير علنية أصبح الآن متاحا في صورة مشروع قانون فعلي. وخلال الجلسة والتصويت، ستخضع بنود المشروع وتأثيره المحتمل في السوق للمراجعة. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Clarity Act का पाठ जारी, अमेरिकी सीनेट बैंकिंग समिति ने क्रिप्टो बिल खोला",
-        "excerpt": "अमेरिकी सीनेट बैंकिंग समिति ने मतदान से पहले Clarity Act का पाठ जारी किया, जिससे निजी तौर पर घूम रहा क्रिप्टो बाजार संरचना बिल आधिकारिक हुआ।",
-        "body": "अमेरिकी सीनेट बैंकिंग समिति ने सुनवाई से पहले क्रिप्टो बाजार संरचना विधेयक Clarity Act का पाठ जारी किया। यह विधेयक पहले ही उद्योग जगत में बंद दरवाजों के पीछे साझा और चर्चा में था, लेकिन सांसदों ने मतदान से पहले इसका आधिकारिक पाठ प्रकाशित कर दिया। यह दस्तावेज अमेरिका में क्रिप्टो बाजार संरचना पर विधायी चर्चा का अहम आधार बन सकता है। उद्योग का ध्यान इस बात पर है कि जो बातें अब तक निजी बातचीत में थीं, वे अब वास्तविक विधेयक के रूप में सामने आ गई हैं। आगामी सुनवाई और मतदान में इसके प्रावधानों तथा बाजार पर संभावित प्रभाव की समीक्षा होने की उम्मीद है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Clarity Act Dirilis, Komite Perbankan Senat Buka RUU Struktur Kripto",
-        "excerpt": "Komite Perbankan Senat AS merilis teks Clarity Act sebelum pemungutan suara, meresmikan RUU struktur pasar kripto yang sebelumnya beredar tertutup.",
-        "body": "Komite Perbankan Senat Amerika Serikat merilis teks Clarity Act, RUU tentang struktur pasar kripto, menjelang sidang dengar pendapat. RUU ini sebelumnya sudah beredar dan dibahas secara tertutup di kalangan industri, tetapi para anggota parlemen kini menerbitkan teks resminya sebelum pemungutan suara. Dokumen tersebut diperkirakan menjadi rujukan penting dalam pembahasan legislasi AS mengenai struktur pasar kripto. Industri menyoroti bahwa isi yang sebelumnya dibicarakan di balik pintu tertutup kini dapat dilihat dalam bentuk RUU nyata. Dalam sidang dan proses pemungutan suara, ketentuan RUU serta dampaknya terhadap pasar akan ditinjau. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "512e8ba26e86",
-    "slug": "bitcoin-briefly-hits-82000-sol-doge-higher-as-michael-burry--473811",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T05:32:32.996Z",
-    "updatedAt": "2026-05-12T05:32:32.996Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/12/bitcoin-briefly-hits-usd82-000-sol-doge-higher-as-michael-burry-warns-of-stock-crash",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/12/bitcoin-briefly-hits-usd82-000-sol-doge-higher-as-michael-burry-warns-of-stock-crash",
-    "titleFingerprint": "0ed2a0c5bf0a68c4fff018f9e7f6390469517f03",
-    "dedupKeys": [
-      "512e8ba26e86657241a6debdfc160eab6114629a",
-      "0ed2a0c5bf0a68c4fff018f9e7f6390469517f03",
-      "32ac80954dd09c0e75efad8cef4baaabebd1e912"
-    ],
-    "imageUrl": "/images/articles/512e8ba26e86.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 8만2000달러 터치, SOL·DOGE 강세와 버리 경고",
-        "excerpt": "비트코인이 밤사이 8만2026달러를 찍은 뒤 8만1000달러 위를 유지했고, 솔라나와 도지코인은 강세를 보인 가운데 마이클 버리는 주식 급락 위험을 경고했다.",
-        "body": "비트코인이 밤사이 8만2026달러까지 오른 뒤 8만1000달러 위에서 거래를 이어갔다. 주요 알트코인 중에서는 솔라나가 주간 기준 상승세를 이끌었고 도지코인도 강세를 보였다. 시장 배경에는 ‘빅쇼트’ 투자자 마이클 버리의 경고가 겹쳤다. 그는 나스닥100이 닷컴 버블 수준에 도달했다고 지적하며 주식시장 급락 가능성을 언급했다. 동시에 이란 휴전 불확실성이 다시 커지면서 유가는 105달러를 넘어섰다. 위험자산 전반의 변동성이 커진 가운데, 투자자들은 비트코인의 8만1000달러 지지 여부와 주요 알트코인의 상대적 강세가 이어질지 주시하고 있다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Bitcoin Touches $82K as SOL, DOGE Rise and Burry Warns on Stocks",
-        "excerpt": "Bitcoin stayed above $81,000 after briefly hitting $82,026 overnight, while Solana and Dogecoin advanced as Michael Burry warned of stock-market crash risks.",
-        "body": "Bitcoin briefly climbed to $82,026 overnight and then continued trading above $81,000. Among major altcoins, Solana led weekly gains, while Dogecoin also moved higher. The market backdrop included a warning from “The Big Short” investor Michael Burry. He said the Nasdaq 100 had reached dot-com bubble territory and pointed to the possibility of a sharp stock-market decline. At the same time, oil surged past $105 as doubts over an Iran ceasefire resurfaced. With volatility rising across risk assets, investors are watching whether Bitcoin can hold the $81,000 level and whether relative strength in major altcoins continues. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "ビットコイン8.2万ドル到達、SOL・DOGE上昇とバリー氏警告",
-        "excerpt": "ビットコインは夜間に8万2026ドルへ一時上昇後、8万1000ドル超を維持。ソラナとドージコインが強含む中、マイケル・バリー氏は株式急落リスクを警告した。",
-        "body": "ビットコインは夜間に一時8万2026ドルまで上昇し、その後も8万1000ドルを上回って取引された。主要アルトコインではソラナが週間ベースの上昇を主導し、ドージコインも強含んだ。市場の背景には、『ビッグ・ショート』で知られる投資家マイケル・バリー氏の警告が重なった。同氏はナスダック100がドットコムバブル期の水準に達したと指摘し、株式市場の急落可能性に言及した。同時に、イラン停戦を巡る不透明感が再び強まり、原油価格は105ドルを突破した。リスク資産全体で変動性が高まる中、投資家はビットコインが8万1000ドルを維持できるか、主要アルトコインの相対的な強さが続くかを注視している。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "比特币触及8.2万美元，SOL、DOGE走强伴随伯里股市警告",
-        "excerpt": "比特币隔夜一度升至82026美元后维持在81000美元上方，Solana和狗狗币走强之际，迈克尔·伯里警告股市存在暴跌风险。",
-        "body": "比特币隔夜一度升至82026美元，随后继续在81000美元上方交易。主要山寨币中，Solana在周度涨幅中领跑，狗狗币也走高。市场背景同时受到《大空头》投资者迈克尔·伯里的警告影响。他指出纳斯达克100已达到互联网泡沫时期的水平，并提到股市可能出现急跌。与此同时，围绕伊朗停火的新疑虑升温，油价突破105美元。随着风险资产整体波动加大，投资者正关注比特币能否守住81000美元，以及主要山寨币的相对强势是否延续。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Bitcoin toca los 82.000 dólares; SOL y DOGE suben con alerta de Burry",
-        "excerpt": "Bitcoin se mantuvo sobre 81.000 dólares tras tocar 82.026 durante la noche, mientras Solana y Dogecoin avanzaron y Michael Burry advirtió de riesgo de caída bursátil.",
-        "body": "Bitcoin subió brevemente hasta 82.026 dólares durante la noche y luego siguió cotizando por encima de 81.000 dólares. Entre las principales altcoins, Solana lideró las ganancias semanales, mientras Dogecoin también avanzó. El contexto de mercado incluyó una advertencia del inversor de “The Big Short”, Michael Burry. Señaló que el Nasdaq 100 había llegado a niveles de la burbuja puntocom y mencionó la posibilidad de una fuerte caída bursátil. Al mismo tiempo, el petróleo superó los 105 dólares por nuevas dudas sobre un alto el fuego en Irán. Con mayor volatilidad en los activos de riesgo, los inversores observan si Bitcoin puede sostener los 81.000 dólares y si continúa la fortaleza relativa de las principales altcoins. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Bitcoin toca US$ 82 mil; SOL e DOGE sobem com alerta de Burry",
-        "excerpt": "O Bitcoin ficou acima de US$ 81 mil após tocar US$ 82.026 durante a noite, enquanto Solana e Dogecoin avançaram e Michael Burry alertou para risco de queda nas ações.",
-        "body": "O Bitcoin subiu brevemente para US$ 82.026 durante a noite e depois continuou sendo negociado acima de US$ 81.000. Entre as principais altcoins, a Solana liderou os ganhos na semana, enquanto o Dogecoin também avançou. O pano de fundo do mercado incluiu um alerta de Michael Burry, investidor conhecido por “The Big Short”. Ele afirmou que o Nasdaq 100 chegou a território semelhante ao da bolha das pontocom e mencionou a possibilidade de forte queda no mercado acionário. Ao mesmo tempo, o petróleo passou de US$ 105 com novas dúvidas sobre um cessar-fogo no Irã. Com a volatilidade maior nos ativos de risco, investidores observam se o Bitcoin sustenta US$ 81.000 e se a força relativa das principais altcoins continua. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Bitcoin erreicht kurz 82.000 Dollar, SOL und DOGE steigen bei Burry-Warnung",
-        "excerpt": "Bitcoin blieb über 81.000 Dollar, nachdem er nachts 82.026 Dollar erreicht hatte. Solana und Dogecoin legten zu, während Michael Burry vor Crashrisiken am Aktienmarkt warnte.",
-        "body": "Bitcoin stieg über Nacht kurz auf 82.026 Dollar und wurde anschließend weiter über 81.000 Dollar gehandelt. Unter den großen Altcoins führte Solana die Wochengewinne an, während auch Dogecoin zulegte. Zum Marktumfeld gehörte eine Warnung von Michael Burry, dem Investor aus “The Big Short”. Er sagte, der Nasdaq 100 habe das Niveau der Dotcom-Blase erreicht, und verwies auf die Möglichkeit eines starken Rückgangs am Aktienmarkt. Gleichzeitig sprang Öl wegen neuer Zweifel an einer Iran-Waffenruhe über 105 Dollar. Da die Volatilität bei Risikoanlagen zunimmt, beobachten Anleger, ob Bitcoin die Marke von 81.000 Dollar halten kann und ob die relative Stärke wichtiger Altcoins anhält. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Bitcoin touche 82.000 dollars, SOL et DOGE montent après l’alerte de Burry",
-        "excerpt": "Bitcoin est resté au-dessus de 81.000 dollars après avoir touché 82.026 dollars dans la nuit, tandis que Solana et Dogecoin progressaient et que Michael Burry alertait sur les actions.",
-        "body": "Bitcoin a brièvement grimpé à 82.026 dollars dans la nuit avant de continuer à s’échanger au-dessus de 81.000 dollars. Parmi les principales altcoins, Solana a mené les gains sur la semaine, tandis que Dogecoin a également progressé. Le contexte de marché a été marqué par l’avertissement de Michael Burry, l’investisseur rendu célèbre par “The Big Short”. Il a déclaré que le Nasdaq 100 avait atteint un territoire comparable à celui de la bulle internet et a évoqué le risque d’une forte chute des actions. Dans le même temps, le pétrole a dépassé 105 dollars avec de nouveaux doutes sur un cessez-le-feu en Iran. Avec la volatilité accrue des actifs risqués, les investisseurs surveillent le maintien de Bitcoin au-dessus de 81.000 dollars et la poursuite de la force relative des grandes altcoins. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "بيتكوين تلامس 82 ألف دولار وSOL وDOGE يرتفعان مع تحذير بيري",
-        "excerpt": "بقيت بيتكوين فوق 81 ألف دولار بعد أن لامست 82026 دولارا خلال الليل، بينما ارتفعت سولانا ودوجكوين مع تحذير مايكل بيري من مخاطر هبوط الأسهم.",
-        "body": "ارتفعت بيتكوين لفترة وجيزة إلى 82026 دولارا خلال الليل، ثم واصلت التداول فوق 81000 دولار. وبين العملات البديلة الكبرى، قادت سولانا المكاسب الأسبوعية، كما صعدت دوجكوين. وجاء ذلك وسط تحذير من مايكل بيري، المستثمر المعروف من “The Big Short”. وقال بيري إن مؤشر ناسداك 100 وصل إلى منطقة تشبه فقاعة الدوت كوم، مشيرا إلى احتمال هبوط حاد في سوق الأسهم. وفي الوقت نفسه، تجاوز النفط 105 دولارات مع تجدد الشكوك بشأن وقف إطلاق النار في إيران. ومع ارتفاع التقلبات في أصول المخاطرة، يراقب المستثمرون ما إذا كانت بيتكوين ستبقى فوق 81000 دولار، وما إذا كانت القوة النسبية في العملات البديلة الكبرى ستستمر. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "बिटकॉइन 82,000 डॉलर छूकर लौटा, SOL और DOGE चढ़े, बरी की चेतावनी",
-        "excerpt": "बिटकॉइन रात में 82,026 डॉलर छूने के बाद 81,000 डॉलर से ऊपर रहा, जबकि सोलाना और डॉगकॉइन चढ़े और माइकल बरी ने शेयर बाजार में गिरावट के जोखिम की चेतावनी दी।",
-        "body": "बिटकॉइन रात के कारोबार में कुछ समय के लिए 82,026 डॉलर तक पहुंचा और फिर 81,000 डॉलर से ऊपर कारोबार करता रहा। प्रमुख ऑल्टकॉइनों में सोलाना ने साप्ताहिक बढ़त का नेतृत्व किया, जबकि डॉगकॉइन भी ऊपर गया। बाजार की पृष्ठभूमि में “The Big Short” निवेशक माइकल बरी की चेतावनी भी रही। उन्होंने कहा कि Nasdaq 100 डॉट-कॉम बुलबुले जैसे स्तर पर पहुंच गया है और शेयर बाजार में तेज गिरावट की संभावना का उल्लेख किया। इसी समय, ईरान में युद्धविराम को लेकर नई शंकाओं के बीच तेल 105 डॉलर से ऊपर निकल गया। जोखिम वाली परिसंपत्तियों में अस्थिरता बढ़ने के बीच निवेशक देख रहे हैं कि बिटकॉइन 81,000 डॉलर का स्तर बनाए रखता है या नहीं और प्रमुख ऑल्टकॉइनों की सापेक्ष मजबूती जारी रहती है या नहीं। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Bitcoin Sentuh US$82.000, SOL dan DOGE Naik Saat Burry Peringatkan Saham",
-        "excerpt": "Bitcoin bertahan di atas US$81.000 setelah sempat menyentuh US$82.026 semalam, sementara Solana dan Dogecoin menguat saat Michael Burry memperingatkan risiko kejatuhan saham.",
-        "body": "Bitcoin sempat naik ke US$82.026 semalam lalu tetap diperdagangkan di atas US$81.000. Di antara altcoin utama, Solana memimpin kenaikan mingguan, sementara Dogecoin juga bergerak lebih tinggi. Latar pasar turut diwarnai peringatan dari Michael Burry, investor yang dikenal lewat “The Big Short”. Ia mengatakan Nasdaq 100 telah mencapai wilayah gelembung dot-com dan menyinggung kemungkinan penurunan tajam di pasar saham. Pada saat yang sama, harga minyak melesat melewati US$105 karena keraguan baru atas gencatan senjata Iran. Dengan volatilitas aset berisiko meningkat, investor memantau apakah Bitcoin dapat mempertahankan level US$81.000 dan apakah kekuatan relatif altcoin utama berlanjut. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "cf672a3d2bda",
-    "slug": "ripple-linked-xrp-holds-near-146-as-breakout-attempt-fades-d-827772",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T05:31:14.296Z",
-    "updatedAt": "2026-05-12T05:31:14.296Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/12/ripple-linked-xrp-holds-near-usd1-46-as-breakout-attempt-fades-despite-usd200-million-raise",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/12/ripple-linked-xrp-holds-near-usd1-46-as-breakout-attempt-fades-despite-usd200-million-raise",
-    "titleFingerprint": "592fda94041d1740f840967e20f5eac0662425fb",
-    "dedupKeys": [
-      "cf672a3d2bda4f576f7e3da19fc75b24d798ece1",
-      "592fda94041d1740f840967e20f5eac0662425fb",
-      "01bf6660950efd625b2bd111b31ca38936c1c5b0"
-    ],
-    "imageUrl": "/images/articles/cf672a3d2bda.png",
-    "i18n": {
-      "ko": {
-        "title": "XRP 1.46달러 부근 유지, 2억달러 조달에도 돌파 시도 둔화",
-        "excerpt": "리플 연계 토큰 XRP는 대규모 거래량 속 1.49달러에 근접했지만, 수개월간 상승을 막아온 저항 구간에서 다시 주춤하며 1.46달러 부근에 머물렀다.",
-        "body": "리플과 연계된 XRP는 최근 대규모 거래량을 동반해 1.49달러 부근까지 상승을 시도했지만, 곧 힘이 약해지며 1.46달러 근처에서 거래됐다. 이번 움직임은 2억달러 조달 소식에도 불구하고 수개월간 랠리를 제한해 온 저항 구간을 뚫지 못한 흐름으로 정리된다. 시장의 관심은 해당 가격대에서 매수세가 다시 유입될지, 아니면 저항 부담이 이어질지에 모인다. 다만 원문 기준 확인된 사실은 XRP가 강한 거래량에도 저항선 부근에서 재차 정체됐다는 점이다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "XRP Holds Near $1.46 as $200M Raise Fails to Sustain Breakout",
-        "excerpt": "Ripple-linked XRP briefly moved toward $1.49 on heavy volume, but the rally stalled near a months-long resistance zone and left the token around $1.46.",
-        "body": "Ripple-linked XRP recently tried to push higher on heavy trading volume, briefly moving toward the $1.49 area before losing momentum and trading near $1.46. The move came despite a $200 million raise, but it still failed to clear the resistance zone that has capped rallies for months. Market attention now remains on whether buying demand can return around that level or whether resistance will continue to weigh on price action. Based on the original report, the key confirmed fact is that XRP again stalled near resistance despite strong volume. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "XRPは1.46ドル付近、2億ドル調達でも上抜け失速",
-        "excerpt": "リップル関連のXRPは大商いのなか一時1.49ドル付近まで上昇したが、数カ月にわたり上値を抑えてきた抵抗帯で再び伸び悩んだ。",
-        "body": "リップルに関連するXRPは、最近大きな取引量を伴って上昇を試み、一時1.49ドル付近まで迫ったものの、勢いを失い1.46ドル近辺で推移した。今回の値動きは、2億ドルの調達にもかかわらず、数カ月にわたり上昇局面を抑えてきた抵抗帯を突破できなかったものと整理できる。市場の焦点は、この価格帯で買いが再び入るか、抵抗の重さが続くかにある。ただし原文で確認できる事実は、強い出来高にもかかわらずXRPが抵抗線付近で再び停滞した点だ。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "XRP徘徊1.46美元附近，2亿美元融资未能带动突破",
-        "excerpt": "与Ripple相关的XRP在放量交易中一度逼近1.49美元，但在数月来压制反弹的阻力区域附近再次失速，价格回到1.46美元附近。",
-        "body": "与Ripple相关的XRP近期在较大成交量推动下尝试上行，一度接近1.49美元区域，但随后动能减弱，价格徘徊在1.46美元附近。尽管出现2亿美元融资消息，这一走势仍未能突破数月来限制反弹的阻力区间。市场关注点在于，该价位附近是否会重新出现买盘，或阻力压力是否继续影响价格表现。按原文可确认的信息，关键事实是XRP即便伴随强劲成交量，也再次在阻力位附近停滞。来源: coindesk.com"
-      },
-      "es": {
-        "title": "XRP se mantiene cerca de US$1,46 pese a una ronda de US$200 millones",
-        "excerpt": "XRP, vinculado a Ripple, avanzó brevemente hacia US$1,49 con alto volumen, pero volvió a frenarse cerca de una resistencia que limita los repuntes desde hace meses.",
-        "body": "XRP, vinculado a Ripple, intentó subir recientemente con un fuerte volumen de negociación y llegó brevemente a acercarse a la zona de US$1,49, antes de perder impulso y cotizar cerca de US$1,46. El movimiento se produjo pese a una captación de US$200 millones, pero no logró superar la zona de resistencia que ha limitado los repuntes durante meses. La atención del mercado se centra ahora en si la demanda compradora volverá en ese nivel o si la resistencia seguirá pesando sobre el precio. Según el informe original, el dato confirmado es que XRP volvió a estancarse cerca de la resistencia pese al alto volumen. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "XRP fica perto de US$1,46 apesar de captação de US$200 milhões",
-        "excerpt": "O XRP ligado à Ripple avançou brevemente rumo a US$1,49 com forte volume, mas voltou a perder força perto de uma resistência que limita altas há meses.",
-        "body": "O XRP ligado à Ripple tentou subir recentemente com forte volume de negociação, chegando brevemente perto da região de US$1,49 antes de perder impulso e negociar próximo de US$1,46. O movimento ocorreu apesar de uma captação de US$200 milhões, mas ainda não conseguiu romper a zona de resistência que vem limitando ralis há meses. A atenção do mercado agora se volta para a possibilidade de retorno da demanda compradora nesse nível ou para a continuidade da pressão da resistência. Segundo o relato original, o fato confirmado é que o XRP voltou a travar perto da resistência mesmo com volume elevado. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "XRP hält sich nahe 1,46 Dollar, 200-Millionen-Raise bringt keinen Ausbruch",
-        "excerpt": "Der mit Ripple verbundene XRP stieg bei hohem Volumen kurz in Richtung 1,49 Dollar, blieb aber erneut an einer seit Monaten wirksamen Widerstandszone hängen.",
-        "body": "Der mit Ripple verbundene XRP versuchte zuletzt bei hohem Handelsvolumen einen Anstieg und näherte sich kurz dem Bereich von 1,49 Dollar, verlor dann jedoch an Schwung und notierte nahe 1,46 Dollar. Die Bewegung erfolgte trotz einer Kapitalaufnahme von 200 Millionen Dollar, reichte aber nicht aus, um die Widerstandszone zu überwinden, die Rallys seit Monaten begrenzt. Im Fokus steht nun, ob auf diesem Niveau wieder Kaufinteresse aufkommt oder ob der Widerstand weiter auf der Kursentwicklung lastet. Nach dem Originalbericht ist der bestätigte Kernpunkt, dass XRP trotz starken Volumens erneut nahe dem Widerstand ins Stocken geriet. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "XRP reste près de 1,46 dollar malgré une levée de 200 millions",
-        "excerpt": "Le XRP lié à Ripple a brièvement progressé vers 1,49 dollar avec de forts volumes, avant de caler près d’une résistance qui bloque les hausses depuis des mois.",
-        "body": "Le XRP lié à Ripple a récemment tenté de progresser avec un volume d’échanges élevé, s’approchant brièvement de la zone des 1,49 dollar avant de perdre son élan et de se traiter près de 1,46 dollar. Ce mouvement est intervenu malgré une levée de 200 millions de dollars, mais il n’a pas permis de franchir la zone de résistance qui limite les rallyes depuis plusieurs mois. L’attention du marché porte désormais sur un éventuel retour des achats à ce niveau ou sur la poursuite de la pression exercée par cette résistance. D’après le rapport original, le fait confirmé est que XRP a de nouveau stagné près de la résistance malgré un fort volume. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "XRP قرب 1.46 دولار رغم جمع 200 مليون دولار وفشل الاختراق",
-        "excerpt": "ارتفع XRP المرتبط بريبل لفترة قصيرة نحو 1.49 دولار مع أحجام تداول قوية، لكنه تعثر مجددا قرب منطقة مقاومة حدت من الصعود طوال أشهر.",
-        "body": "حاول XRP المرتبط بريبل الصعود مؤخرا بدعم من أحجام تداول كبيرة، واقترب لفترة قصيرة من مستوى 1.49 دولار قبل أن يفقد الزخم ويتداول قرب 1.46 دولار. وجاءت هذه الحركة رغم جمع 200 مليون دولار، لكنها لم تنجح في تجاوز منطقة المقاومة التي كبحت موجات الصعود منذ أشهر. يتركز اهتمام السوق الآن على ما إذا كان الطلب الشرائي سيعود عند هذا المستوى، أم أن ضغط المقاومة سيستمر في التأثير على حركة السعر. ووفقا للتقرير الأصلي، فإن الحقيقة المؤكدة هي أن XRP تعثر مجددا قرب المقاومة رغم قوة التداول. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "XRP 1.46 डॉलर के पास, 200 मिलियन डॉलर जुटाने पर भी ब्रेकआउट धीमा",
-        "excerpt": "Ripple से जुड़े XRP ने भारी वॉल्यूम पर थोड़ी देर के लिए 1.49 डॉलर की ओर बढ़त बनाई, लेकिन महीनों से रैलियों को रोक रहे रेसिस्टेंस क्षेत्र के पास फिर अटक गया।",
-        "body": "Ripple से जुड़े XRP ने हाल में भारी ट्रेडिंग वॉल्यूम के साथ ऊपर जाने की कोशिश की और थोड़ी देर के लिए 1.49 डॉलर के क्षेत्र के करीब पहुंचा, लेकिन गति कमजोर हुई और यह 1.46 डॉलर के आसपास कारोबार करता रहा। यह चाल 200 मिलियन डॉलर जुटाने की खबर के बावजूद आई, फिर भी XRP उस रेसिस्टेंस क्षेत्र को पार नहीं कर सका जिसने कई महीनों से रैलियों को सीमित किया है। बाजार की नजर अब इस बात पर है कि उस स्तर के आसपास खरीदारी फिर लौटती है या रेसिस्टेंस का दबाव जारी रहता है। मूल रिपोर्ट के आधार पर पुष्टि की गई बात यह है कि मजबूत वॉल्यूम के बावजूद XRP फिर रेसिस्टेंस के पास ठहर गया। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "XRP Bertahan Dekat US$1,46, Kenaikan US$200 Juta Belum Picu Breakout",
-        "excerpt": "XRP yang terkait Ripple sempat bergerak ke arah US$1,49 dengan volume besar, tetapi kembali tertahan di zona resistance yang membatasi reli selama berbulan-bulan.",
-        "body": "XRP yang terkait Ripple baru-baru ini mencoba naik dengan volume perdagangan besar dan sempat mendekati area US$1,49 sebelum kehilangan momentum dan diperdagangkan di sekitar US$1,46. Pergerakan itu terjadi meski ada penggalangan US$200 juta, tetapi tetap belum mampu menembus zona resistance yang membatasi reli selama berbulan-bulan. Perhatian pasar kini tertuju pada apakah minat beli akan kembali muncul di level tersebut atau tekanan resistance masih berlanjut. Berdasarkan laporan asli, fakta yang terkonfirmasi adalah XRP kembali tertahan di dekat resistance meski volumenya kuat. Sumber: coindesk.com"
       }
     }
   }
