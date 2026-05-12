@@ -1,5 +1,230 @@
 [
   {
+    "id": "cf26b9690afb",
+    "slug": "anthropic-warns-against-unauthorized-stock-exposure-as-token-507847",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T09:33:33.519Z",
+    "updatedAt": "2026-05-12T09:33:33.519Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/12/anthropic-fights-unauthorized-stock-exposure-as-token-markets-imply-trillion-dollar-valuation",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/12/anthropic-fights-unauthorized-stock-exposure-as-token-markets-imply-trillion-dollar-valuation",
+    "titleFingerprint": "e7f407a1e981f11f4f15b3935bcdc9f5f2b3b29a",
+    "dedupKeys": [
+      "cf26b9690afb11bb45a5bd33bbc27ff546553d16",
+      "e7f407a1e981f11f4f15b3935bcdc9f5f2b3b29a",
+      "8c0ba112d2defaef16faf1da39b978b48ff6f0f1"
+    ],
+    "imageUrl": "/images/articles/cf26b9690afb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Anthropic, 비인가 주식 노출 경고…토큰 시장은 조 단위 평가 시사",
+        "excerpt": "Anthropic은 토큰 시장에서 자사 가치가 조 달러 수준으로 암시되는 가운데, 투자자에게 비공식 경로의 비상장 주식 접근은 유효하지 않다고 경고했다.",
+        "body": "AI 기업 Anthropic은 토큰 시장에서 자사 가치가 조 달러 수준으로 암시되는 상황에서, 투자자들이 비공식 경로를 통한 자사 비상장 주식 노출을 유효하지 않은 것으로 봐야 한다고 밝혔다. 회사는 자사 주식 또는 자사 주식에 대한 이해관계의 이전을 인정하지 않겠다는 입장도 내놨다. 이번 경고는 민간 기업 주식에 대한 간접 접근을 표방하는 토큰 시장이 주목받는 가운데 나왔다. 투자자에게는 해당 상품이 실제 주식 보유나 권리 이전으로 인정되지 않을 수 있다는 점이 핵심 리스크다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Anthropic warns on unauthorized stock exposure as tokens imply huge valuation",
+        "excerpt": "Anthropic warned investors that unofficial access to its private shares should be treated as invalid as token markets imply a trillion-dollar valuation for the AI firm.",
+        "body": "Anthropic said investors should assume any unofficial route claiming exposure to its private shares is invalid, as token markets imply a trillion-dollar valuation for the AI company. The firm also said transfers of its stock, or interests in its stock, will not be recognized. The warning comes as token markets tied to indirect access to private company shares draw attention. For investors, the key risk is that such products may not represent actual share ownership or recognized rights. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "Anthropic、無許可の株式エクスポージャーに警告　トークン市場が巨額評価を示唆",
+        "excerpt": "Anthropicは、トークン市場が同社の評価額を兆ドル規模と示唆する中、非公式な未公開株アクセスは無効と見なすべきだと投資家に警告した。",
+        "body": "AI企業Anthropicは、トークン市場が同社の評価額を兆ドル規模と示唆する中、投資家は非公式ルートによる同社未公開株へのエクスポージャーを無効と見なすべきだと述べた。同社はまた、自社株式または自社株式に関する権益の譲渡を認めない方針を示した。今回の警告は、民間企業株への間接アクセスをうたうトークン市場が注目される中で出された。投資家にとっての主なリスクは、こうした商品が実際の株式保有や認められた権利移転を意味しない可能性がある点だ。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "Anthropic警告未经授权股票敞口：代币市场暗示万亿美元估值",
+        "excerpt": "在代币市场暗示Anthropic估值达万亿美元级别之际，该AI公司警告投资者，应将非正式渠道的私募股权接触视为无效。",
+        "body": "AI公司Anthropic表示，在代币市场暗示其估值达到万亿美元级别之际，投资者应假定通过非正式渠道获得的该公司私募股票敞口无效。公司还表示，不会承认其股票或其股票相关权益的转让。这一警告发布之时，声称可间接接触私营公司股票的代币市场正受到关注。对投资者而言，核心风险在于，此类产品可能并不代表真实持股，也不会构成被公司承认的权利转移。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Anthropic alerta sobre exposición no autorizada a sus acciones privadas",
+        "excerpt": "Anthropic advirtió que el acceso indirecto no oficial a sus acciones privadas debe considerarse inválido mientras los mercados de tokens sugieren una valoración billonaria.",
+        "body": "Anthropic dijo que los inversionistas deben asumir que cualquier vía no oficial que afirme dar exposición a sus acciones privadas es inválida, mientras los mercados de tokens sugieren una valoración de un billón de dólares para la firma de IA. La compañía también señaló que no reconocerá transferencias de sus acciones ni de intereses vinculados a ellas. La advertencia llega cuando los mercados de tokens que prometen acceso indirecto a acciones de empresas privadas atraen atención. Para los inversionistas, el riesgo clave es que esos productos no representen propiedad real ni derechos reconocidos. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Anthropic alerta sobre exposição não autorizada a ações privadas",
+        "excerpt": "A Anthropic alertou investidores que o acesso indireto não oficial a suas ações privadas deve ser considerado inválido, enquanto tokens sugerem avaliação trilionária.",
+        "body": "A Anthropic afirmou que investidores devem presumir que qualquer rota não oficial que prometa exposição a suas ações privadas é inválida, enquanto mercados de tokens sugerem uma avaliação de um trilhão de dólares para a empresa de IA. A companhia também disse que não reconhecerá transferências de suas ações nem de interesses ligados a elas. O aviso ocorre em meio à atenção sobre mercados de tokens que alegam oferecer acesso indireto a ações de empresas privadas. Para investidores, o principal risco é que esses produtos não representem posse real de ações nem direitos reconhecidos. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Anthropic warnt vor nicht autorisiertem Zugang zu privaten Aktien",
+        "excerpt": "Anthropic warnt Anleger, inoffiziellen Zugang zu seinen privaten Aktien als ungültig zu betrachten, während Token-Märkte eine Billionenbewertung nahelegen.",
+        "body": "Anthropic erklärte, Anleger sollten davon ausgehen, dass jeder inoffizielle Weg zu einem Engagement in den privaten Aktien des KI-Unternehmens ungültig ist, während Token-Märkte eine Bewertung im Billionen-Dollar-Bereich nahelegen. Das Unternehmen teilte außerdem mit, dass Übertragungen seiner Aktien oder von Interessen an diesen Aktien nicht anerkannt werden. Die Warnung kommt, während Token-Märkte, die indirekten Zugang zu Aktien privater Unternehmen versprechen, Aufmerksamkeit erhalten. Für Anleger besteht das zentrale Risiko darin, dass solche Produkte weder echtes Aktieneigentum noch anerkannte Rechte darstellen. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Anthropic alerte sur l’exposition non autorisée à ses actions privées",
+        "excerpt": "Anthropic prévient les investisseurs que tout accès indirect non officiel à ses actions privées doit être jugé invalide, alors que des tokens suggèrent une valorisation géante.",
+        "body": "Anthropic a déclaré que les investisseurs doivent considérer comme invalide toute voie non officielle prétendant offrir une exposition à ses actions privées, alors que les marchés de tokens suggèrent une valorisation de l’entreprise d’IA à mille milliards de dollars. La société a aussi indiqué qu’elle ne reconnaîtra pas les transferts de ses actions ni des intérêts liés à ces actions. Cet avertissement intervient alors que les marchés de tokens promettant un accès indirect aux actions de sociétés privées attirent l’attention. Pour les investisseurs, le risque clé est que ces produits ne représentent ni une détention réelle ni des droits reconnus. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "Anthropic تحذر من انكشاف غير مصرح به على أسهمها الخاصة",
+        "excerpt": "حذرت Anthropic المستثمرين من اعتبار أي وصول غير رسمي إلى أسهمها الخاصة غير صالح، بينما توحي أسواق التوكنات بتقييم قد يبلغ تريليون دولار.",
+        "body": "قالت شركة Anthropic للذكاء الاصطناعي إن على المستثمرين افتراض أن أي مسار غير رسمي يدعي توفير انكشاف على أسهمها الخاصة غير صالح، في وقت توحي فيه أسواق التوكنات بتقييم قد يبلغ تريليون دولار للشركة. وأضافت الشركة أنها لن تعترف بعمليات نقل أسهمها أو المصالح المرتبطة بتلك الأسهم. يأتي التحذير مع تزايد الاهتمام بأسواق توكنات تزعم إتاحة وصول غير مباشر إلى أسهم شركات خاصة. وبالنسبة للمستثمرين، يتمثل الخطر الأساسي في أن هذه المنتجات قد لا تمثل ملكية فعلية للأسهم أو حقوقا معترفا بها. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "Anthropic ने अनधिकृत शेयर एक्सपोजर पर चेताया, टोकन बाजार ने बड़ा मूल्यांकन दिखाया",
+        "excerpt": "Anthropic ने निवेशकों से कहा कि उसकी निजी शेयरों तक किसी भी अनौपचारिक पहुंच को अमान्य माना जाए, जबकि टोकन बाजार ट्रिलियन डॉलर मूल्यांकन का संकेत दे रहे हैं।",
+        "body": "एआई कंपनी Anthropic ने कहा कि निवेशकों को उसकी निजी शेयरों में एक्सपोजर का दावा करने वाले किसी भी अनौपचारिक रास्ते को अमान्य मानना चाहिए, क्योंकि टोकन बाजार कंपनी के लिए ट्रिलियन डॉलर स्तर के मूल्यांकन का संकेत दे रहे हैं। कंपनी ने यह भी कहा कि उसके शेयरों या उन शेयरों में हितों के हस्तांतरण को मान्यता नहीं दी जाएगी। यह चेतावनी ऐसे समय आई है जब निजी कंपनियों के शेयरों तक अप्रत्यक्ष पहुंच का दावा करने वाले टोकन बाजार ध्यान खींच रहे हैं। निवेशकों के लिए मुख्य जोखिम यह है कि ऐसे उत्पाद वास्तविक शेयर स्वामित्व या मान्य अधिकारों का प्रतिनिधित्व नहीं कर सकते। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Anthropic peringatkan eksposur saham tak resmi saat token isyaratkan valuasi besar",
+        "excerpt": "Anthropic memperingatkan investor bahwa akses tidak resmi ke saham privatnya harus dianggap tidak valid, saat pasar token mengisyaratkan valuasi triliunan dolar.",
+        "body": "Perusahaan AI Anthropic mengatakan investor harus menganggap setiap jalur tidak resmi yang mengklaim memberi eksposur ke saham privatnya sebagai tidak valid, ketika pasar token mengisyaratkan valuasi triliunan dolar untuk perusahaan tersebut. Anthropic juga menyatakan tidak akan mengakui pengalihan sahamnya atau kepentingan atas saham tersebut. Peringatan ini muncul saat pasar token yang menawarkan akses tidak langsung ke saham perusahaan privat mendapat perhatian. Bagi investor, risiko utamanya adalah produk semacam itu mungkin tidak mewakili kepemilikan saham nyata atau hak yang diakui. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "baa7563135bc",
+    "slug": "cathie-woods-ark-invest-chases-circle-stock-as-it-hits-a-2-m-851546",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T09:32:05.666Z",
+    "updatedAt": "2026-05-12T09:32:05.666Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/12/cathie-wood-s-ark-invest-chases-circle-stock-as-it-hits-a-2-month-high",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/12/cathie-wood-s-ark-invest-chases-circle-stock-as-it-hits-a-2-month-high",
+    "titleFingerprint": "f62108920d927a328f17b70c38545e86e5a620d3",
+    "dedupKeys": [
+      "baa7563135bc4b167c2f72d81b9d69054ecbdb3d",
+      "f62108920d927a328f17b70c38545e86e5a620d3",
+      "beb50728a38a5c5389092733ec7e95b926c71bcb"
+    ],
+    "imageUrl": "/images/articles/baa7563135bc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Circle 주가 16% 급등, Cathie Wood의 Ark Invest 추격 매수 주목",
+        "excerpt": "Circle 주가는 월요일 16% 오른 131.76달러로 마감하며 3월 18일 이후 최고 종가를 기록했고, Cathie Wood의 Ark Invest 움직임이 함께 주목받았다.",
+        "body": "Circle 주가는 월요일 16% 상승해 131.76달러에 마감했다. 이는 3월 18일 이후 가장 높은 종가다. 원문 제목은 Cathie Wood의 Ark Invest가 Circle 주식을 추격하고 있다고 전하며, 주가 급등과 Ark Invest의 관심을 함께 조명했다. 이번 움직임은 Circle 주식이 단기간 강한 상승세를 보였다는 점에서 투자자들의 시선을 끌었다. 다만 제공된 원문 정보상 추가 매수 규모나 구체적 거래 내역은 확인되지 않았다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Circle Stock Jumps 16% as Cathie Wood’s Ark Invest Chases Rally",
+        "excerpt": "Circle shares closed Monday up 16% at $131.76, their highest closing price since March 18, as Cathie Wood’s Ark Invest drew attention around the move.",
+        "body": "Circle shares rose 16% on Monday to close at $131.76, marking their highest closing price since March 18. The original headline said Cathie Wood’s Ark Invest was chasing Circle stock, placing the firm’s interest alongside the sharp share-price move. The gain drew attention because Circle shares showed strong short-term momentum. However, the provided source details do not confirm any additional purchase size or specific transaction record. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "Circle株16%高、Cathie Wood氏のArk Investの動きに注目",
+        "excerpt": "Circle株は月曜日に16%上昇して131.76ドルで取引を終え、3月18日以来の最高終値となり、Cathie Wood氏のArk Investの動きも注目された。",
+        "body": "Circle株は月曜日、16%上昇し131.76ドルで引けた。これは3月18日以来の最高終値となる。原文の見出しは、Cathie Wood氏のArk InvestがCircle株を追っていると伝え、株価急騰と同社の関心をあわせて取り上げた。今回の動きは、Circle株が短期的に強い上昇を示した点で投資家の注目を集めた。ただし、提供された原文情報では追加の購入規模や具体的な取引内容は確認されていない。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "Circle股价大涨16%，Cathie Wood旗下Ark Invest动向受关注",
+        "excerpt": "Circle股票周一上涨16%，收于131.76美元，创3月18日以来最高收盘价，Cathie Wood旗下Ark Invest的相关动向也受到关注。",
+        "body": "Circle股票周一上涨16%，收于131.76美元，创下自3月18日以来的最高收盘价。原文标题称，Cathie Wood旗下Ark Invest正在追逐Circle股票，并将股价快速上涨与该机构的关注放在同一背景下报道。此次走势之所以受到市场关注，是因为Circle股票在短期内表现出较强上涨动能。不过，根据提供的原文信息，尚未确认额外买入规模或具体交易明细。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Circle sube 16% mientras Ark Invest de Cathie Wood sigue la acción",
+        "excerpt": "Las acciones de Circle cerraron el lunes con un alza del 16% a 131,76 dólares, su mayor cierre desde el 18 de marzo, mientras Ark Invest atrajo atención.",
+        "body": "Las acciones de Circle subieron un 16% el lunes y cerraron en 131,76 dólares, su precio de cierre más alto desde el 18 de marzo. El titular original señaló que Ark Invest, de Cathie Wood, seguía de cerca la acción de Circle, vinculando el interés de la firma con el fuerte movimiento del precio. La subida llamó la atención porque mostró un impulso marcado en el corto plazo. Sin embargo, la información proporcionada no confirma un tamaño adicional de compra ni detalles concretos de operación. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Circle salta 16% enquanto Ark Invest de Cathie Wood mira a ação",
+        "excerpt": "As ações da Circle fecharam a segunda-feira em alta de 16%, a US$ 131,76, maior preço de fechamento desde 18 de março, com atenção à Ark Invest.",
+        "body": "As ações da Circle subiram 16% na segunda-feira e fecharam a US$ 131,76, o maior preço de fechamento desde 18 de março. O título original afirmou que a Ark Invest, de Cathie Wood, estava perseguindo as ações da Circle, destacando o interesse da gestora junto ao forte avanço do papel. O movimento chamou atenção por indicar impulso de curto prazo nas ações da Circle. No entanto, as informações fornecidas não confirmam tamanho adicional de compra nem detalhes específicos de transação. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Circle-Aktie steigt 16%, Ark Invest von Cathie Wood im Fokus",
+        "excerpt": "Die Circle-Aktie schloss am Montag 16% höher bei 131,76 Dollar und erreichte damit den höchsten Schlusskurs seit dem 18. März, während Ark Invest auffiel.",
+        "body": "Die Circle-Aktie stieg am Montag um 16% und schloss bei 131,76 Dollar. Das war der höchste Schlusskurs seit dem 18. März. Die ursprüngliche Überschrift berichtete, dass Cathie Woods Ark Invest der Circle-Aktie nachjagt, und stellte damit das Interesse der Firma neben den deutlichen Kursanstieg. Die Bewegung zog Aufmerksamkeit auf sich, weil Circle kurzfristig starke Dynamik zeigte. In den bereitgestellten Informationen werden jedoch keine zusätzliche Kaufgröße oder konkreten Transaktionsdetails bestätigt. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Circle grimpe de 16%, Ark Invest de Cathie Wood suit le titre",
+        "excerpt": "L’action Circle a clôturé lundi en hausse de 16% à 131,76 dollars, son plus haut cours de clôture depuis le 18 mars, tandis qu’Ark Invest attirait l’attention.",
+        "body": "L’action Circle a progressé de 16% lundi pour clôturer à 131,76 dollars, son plus haut cours de clôture depuis le 18 mars. Le titre original indiquait que l’Ark Invest de Cathie Wood suivait de près l’action Circle, associant l’intérêt de la société à la forte hausse du cours. Ce mouvement a retenu l’attention car il montre une dynamique marquée à court terme pour Circle. Toutefois, les informations fournies ne confirment ni montant d’achat supplémentaire ni détail précis de transaction. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "سهم Circle يقفز 16% مع متابعة Ark Invest التابعة لكاثي وود",
+        "excerpt": "أغلقت أسهم Circle يوم الاثنين مرتفعة 16% عند 131.76 دولار، وهو أعلى سعر إغلاق منذ 18 مارس، مع لفت تحركات Ark Invest التابعة لكاثي وود الانتباه.",
+        "body": "ارتفعت أسهم Circle يوم الاثنين بنسبة 16% لتغلق عند 131.76 دولار، وهو أعلى سعر إغلاق منذ 18 مارس. وذكر العنوان الأصلي أن Ark Invest التابعة لكاثي وود تلاحق سهم Circle، مسلطا الضوء على اهتمام الشركة بالتزامن مع القفزة السعرية. وجذب هذا التحرك الانتباه لأنه أظهر زخما قويا على المدى القصير في سهم Circle. ومع ذلك، لا تؤكد المعلومات المقدمة حجم أي شراء إضافي أو تفاصيل محددة لصفقة. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "Circle शेयर 16% चढ़ा, Cathie Wood की Ark Invest पर नजर",
+        "excerpt": "Circle के शेयर सोमवार को 16% बढ़कर 131.76 डॉलर पर बंद हुए, जो 18 मार्च के बाद सबसे ऊंचा बंद भाव है, जबकि Cathie Wood की Ark Invest भी चर्चा में रही।",
+        "body": "Circle के शेयर सोमवार को 16% बढ़कर 131.76 डॉलर पर बंद हुए। यह 18 मार्च के बाद उनका सबसे ऊंचा बंद भाव है। मूल शीर्षक में कहा गया कि Cathie Wood की Ark Invest Circle शेयर का पीछा कर रही है, जिससे तेज शेयर बढ़त के साथ फर्म की दिलचस्पी भी सामने आई। यह चाल इसलिए ध्यान में आई क्योंकि Circle शेयरों ने कम अवधि में मजबूत तेजी दिखाई। हालांकि, उपलब्ध मूल जानकारी में अतिरिक्त खरीद के आकार या किसी विशिष्ट लेनदेन विवरण की पुष्टि नहीं है। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Saham Circle Naik 16%, Ark Invest Cathie Wood Jadi Sorotan",
+        "excerpt": "Saham Circle ditutup naik 16% pada Senin ke $131,76, harga penutupan tertinggi sejak 18 Maret, sementara pergerakan Ark Invest milik Cathie Wood ikut disorot.",
+        "body": "Saham Circle naik 16% pada Senin dan ditutup di $131,76, menjadi harga penutupan tertinggi sejak 18 Maret. Judul asli menyebut Ark Invest milik Cathie Wood sedang mengejar saham Circle, menempatkan minat perusahaan itu bersama lonjakan harga saham. Pergerakan ini menarik perhatian karena saham Circle menunjukkan momentum kuat dalam jangka pendek. Namun, informasi sumber yang diberikan tidak mengonfirmasi ukuran pembelian tambahan atau rincian transaksi tertentu. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "33ca54a4b1e0",
+    "slug": "galaxy-digital-to-manage-sharplinks-new-125-million-onchain--646727",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-12T09:30:28.314Z",
+    "updatedAt": "2026-05-12T09:30:28.315Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/11/galaxy-digital-to-manage-sharplink-s-new-usd125-million-onchain-yield-play",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/11/galaxy-digital-to-manage-sharplink-s-new-usd125-million-onchain-yield-play",
+    "titleFingerprint": "c583a35871cf35e27b85676bb2b0d3009fbf8ebe",
+    "dedupKeys": [
+      "33ca54a4b1e0281fcf5203679be0e2da45f10c4d",
+      "c583a35871cf35e27b85676bb2b0d3009fbf8ebe",
+      "426ed5dcd509d175f8f4971f107865a19cd01d2d"
+    ],
+    "imageUrl": "/images/articles/33ca54a4b1e0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "갤럭시디지털, 샤프링크 1억2500만달러 온체인 수익 펀드 운용",
+        "excerpt": "갤럭시디지털은 샤프링크의 스테이킹 ETH 재무자금 1억달러와 자체 출자 2500만달러를 담는 새 온체인 수익 펀드를 운용한다.",
+        "body": "갤럭시디지털이 샤프링크의 새 1억2500만달러 규모 온체인 수익 전략을 운용한다. 이 펀드는 ‘갤럭시 샤프링크 온체인 일드 펀드’로, 샤프링크의 스테이킹 ETH 재무자금에서 1억달러를 받고 갤럭시가 2500만달러를 투입하는 구조다. 이번 계획은 샤프링크가 보유한 스테이킹 ETH를 활용해 온체인 수익 기회를 관리하려는 움직임으로 소개됐다. 관련 수치가 공개된 만큼 시장의 관심은 펀드 운용 방식과 자금 배분에 쏠릴 전망이다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Galaxy Digital to Run Sharplink’s $125M Onchain Yield Fund",
+        "excerpt": "Galaxy Digital will manage a new onchain yield fund backed by $100 million from Sharplink’s staked ETH treasury and $25 million from Galaxy.",
+        "body": "Galaxy Digital will manage Sharplink’s new $125 million onchain yield strategy. The vehicle, called the Galaxy Sharplink Onchain Yield Fund, would receive $100 million from Sharplink’s staked ETH treasury and $25 million from Galaxy. The plan was presented as a way for Sharplink to use its staked ETH holdings in an onchain yield opportunity. With the funding figures now outlined, market attention is likely to focus on how the fund is managed and how capital is allocated. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "Galaxy Digital、Sharplinkの1.25億ドルオンチェーン利回り基金を運用",
+        "excerpt": "Galaxy Digitalは、Sharplinkのステーク済みETH財務資金1億ドルと自社拠出2500万ドルを受ける新たなオンチェーン利回り基金を運用する。",
+        "body": "Galaxy Digitalは、Sharplinkの新たな1億2500万ドル規模のオンチェーン利回り戦略を運用する。ファンド名は「Galaxy Sharplink Onchain Yield Fund」で、Sharplinkのステーク済みETH財務資金から1億ドル、Galaxyから2500万ドルを受け入れる構成だ。この計画は、Sharplinkが保有するステーク済みETHを活用し、オンチェーンの利回り機会を管理する動きとして紹介された。公表された資金規模を踏まえ、市場の関心は運用方法と資金配分に向かう見通しだ。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "Galaxy Digital将管理Sharplink 1.25亿美元链上收益基金",
+        "excerpt": "Galaxy Digital将管理一只新链上收益基金，资金来自Sharplink质押ETH财库的1亿美元及Galaxy出资的2500万美元。",
+        "body": "Galaxy Digital将管理Sharplink新的1.25亿美元链上收益策略。该基金名为“Galaxy Sharplink Onchain Yield Fund”，预计将获得Sharplink质押ETH财库的1亿美元，以及Galaxy投入的2500万美元。该计划被介绍为Sharplink利用其质押ETH持仓参与链上收益机会的一项安排。随着相关资金规模披露，市场关注点预计将集中在基金如何运作以及资金如何分配。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Galaxy Digital gestionará el fondo onchain de Sharplink de 125 millones",
+        "excerpt": "Galaxy Digital gestionará un nuevo fondo de rendimiento onchain con 100 millones de dólares del ETH en staking de Sharplink y 25 millones de Galaxy.",
+        "body": "Galaxy Digital gestionará la nueva estrategia de rendimiento onchain de Sharplink por 125 millones de dólares. El vehículo, llamado Galaxy Sharplink Onchain Yield Fund, recibiría 100 millones de dólares del tesoro de ETH en staking de Sharplink y 25 millones de dólares de Galaxy. El plan fue presentado como una forma de que Sharplink use sus tenencias de ETH en staking para una oportunidad de rendimiento onchain. Con las cifras ya divulgadas, la atención del mercado se centrará en la gestión del fondo y la asignación del capital. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Galaxy Digital vai gerir fundo onchain de US$ 125 milhões da Sharplink",
+        "excerpt": "A Galaxy Digital vai gerir um novo fundo de rendimento onchain com US$ 100 milhões do ETH em staking da Sharplink e US$ 25 milhões da Galaxy.",
+        "body": "A Galaxy Digital vai gerir a nova estratégia de rendimento onchain da Sharplink, no valor de US$ 125 milhões. O veículo, chamado Galaxy Sharplink Onchain Yield Fund, receberia US$ 100 milhões do tesouro de ETH em staking da Sharplink e US$ 25 milhões da Galaxy. O plano foi apresentado como uma forma de a Sharplink usar suas posições em ETH em staking em uma oportunidade de rendimento onchain. Com os valores divulgados, a atenção do mercado deve se voltar à gestão do fundo e à alocação do capital. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Galaxy Digital verwaltet Sharplinks 125-Millionen-Dollar-Onchain-Fonds",
+        "excerpt": "Galaxy Digital verwaltet einen neuen Onchain-Yield-Fonds mit 100 Millionen Dollar aus Sharplinks gestaktem ETH-Treasury und 25 Millionen Dollar von Galaxy.",
+        "body": "Galaxy Digital wird Sharplinks neue Onchain-Yield-Strategie im Umfang von 125 Millionen Dollar verwalten. Das Vehikel mit dem Namen Galaxy Sharplink Onchain Yield Fund würde 100 Millionen Dollar aus Sharplinks gestaktem ETH-Treasury und 25 Millionen Dollar von Galaxy erhalten. Der Plan wurde als Schritt vorgestellt, mit dem Sharplink seine gestakten ETH-Bestände für eine Onchain-Renditechance nutzt. Nach Veröffentlichung der Beträge dürfte sich die Aufmerksamkeit auf die Verwaltung des Fonds und die Kapitalallokation richten. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Galaxy Digital va gérer le fonds onchain de 125 M$ de Sharplink",
+        "excerpt": "Galaxy Digital gérera un nouveau fonds de rendement onchain financé par 100 M$ du trésor en ETH staké de Sharplink et 25 M$ apportés par Galaxy.",
+        "body": "Galaxy Digital va gérer la nouvelle stratégie de rendement onchain de Sharplink, d’un montant de 125 millions de dollars. Le véhicule, nommé Galaxy Sharplink Onchain Yield Fund, recevrait 100 millions de dollars du trésor en ETH staké de Sharplink et 25 millions de dollars de Galaxy. Le projet a été présenté comme un moyen pour Sharplink d’utiliser ses avoirs en ETH staké dans une opportunité de rendement onchain. Les montants étant désormais indiqués, l’attention du marché devrait porter sur la gestion du fonds et l’allocation du capital. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "غالاكسي ديجيتال تدير صندوق شارب لينك للعائد على السلسلة بقيمة 125 مليون دولار",
+        "excerpt": "ستدير غالاكسي ديجيتال صندوق عائد جديدا على السلسلة مدعوما بـ100 مليون دولار من خزانة ETH المكدسة لدى شارب لينك و25 مليون دولار من غالاكسي.",
+        "body": "ستدير غالاكسي ديجيتال استراتيجية شارب لينك الجديدة للعائد على السلسلة بقيمة 125 مليون دولار. ويحمل الصندوق اسم Galaxy Sharplink Onchain Yield Fund، ومن المقرر أن يتلقى 100 مليون دولار من خزانة ETH المكدسة لدى شارب لينك و25 مليون دولار من غالاكسي. وجرى تقديم الخطة كطريقة لاستخدام شارب لينك حيازاتها من ETH المكدسة في فرصة عائد على السلسلة. ومع إعلان هذه الأرقام، سيتجه اهتمام السوق إلى كيفية إدارة الصندوق وتوزيع رأس المال. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "Galaxy Digital संभालेगी Sharplink का 125 मिलियन डॉलर ऑनचेन यील्ड फंड",
+        "excerpt": "Galaxy Digital नए ऑनचेन यील्ड फंड का प्रबंधन करेगी, जिसमें Sharplink के स्टेक्ड ETH ट्रेजरी से 100 मिलियन डॉलर और Galaxy से 25 मिलियन डॉलर होंगे।",
+        "body": "Galaxy Digital, Sharplink की नई 125 मिलियन डॉलर की ऑनचेन यील्ड रणनीति का प्रबंधन करेगी। इस वाहन का नाम Galaxy Sharplink Onchain Yield Fund है, जिसे Sharplink के स्टेक्ड ETH ट्रेजरी से 100 मिलियन डॉलर और Galaxy से 25 मिलियन डॉलर मिलेंगे। इस योजना को Sharplink द्वारा अपने स्टेक्ड ETH होल्डिंग्स का उपयोग ऑनचेन यील्ड अवसर में करने के तरीके के रूप में पेश किया गया। रकम सामने आने के बाद बाजार का ध्यान फंड प्रबंधन और पूंजी आवंटन पर रहेगा। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Galaxy Digital Kelola Dana Yield Onchain Sharplink Senilai US$125 Juta",
+        "excerpt": "Galaxy Digital akan mengelola dana yield onchain baru yang didukung US$100 juta dari treasury ETH staking Sharplink dan US$25 juta dari Galaxy.",
+        "body": "Galaxy Digital akan mengelola strategi yield onchain baru Sharplink senilai US$125 juta. Instrumen bernama Galaxy Sharplink Onchain Yield Fund itu akan menerima US$100 juta dari treasury ETH staking Sharplink dan US$25 juta dari Galaxy. Rencana ini diperkenalkan sebagai cara Sharplink memanfaatkan kepemilikan ETH yang di-staking untuk peluang yield onchain. Setelah angka pendanaan diungkap, perhatian pasar diperkirakan tertuju pada cara dana dikelola dan bagaimana modal dialokasikan. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "658169670394",
     "slug": "mara-shares-sink-on-first-quarter-revenue-miss-13b-loss-929079",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Bitcoin Golden Cross Pertama Sejak 2023, Apakah Reli BTC Makin Dekat?",
         "excerpt": "Bitcoin mencatat golden cross pertama sejak 2023, sementara MVRV dan struktur pasar yang menguat menunjukkan potensi peralihan momentum bullish BTC.",
         "body": "Bitcoin mencatat ‘golden cross’ untuk pertama kalinya sejak 2023, sehingga perhatian tertuju pada kemungkinan reli harga BTC. Menurut laporan asli, indikator MVRV Bitcoin menunjukkan bahwa momentum pasar dapat bergeser ke arah bullish. Pada saat yang sama, struktur pasar BTC semakin kuat, yang dapat menjadi sinyal awal dari pasar bull baru. Namun, informasi ini merupakan pengamatan berdasarkan indikator dan struktur pasar, bukan kepastian bahwa harga akan naik ke depan. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "ad4cbe0699f2",
-    "slug": "usdc-issuer-circle-raises-222m-in-arc-token-presale-valued-a-403010",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T17:35:43.701Z",
-    "updatedAt": "2026-05-11T17:35:43.701Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/circle-raise-222-million-arc-token-presale-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/circle-raise-222-million-arc-token-presale-3-billion",
-    "titleFingerprint": "a61009de46520ddef6156d4e3a3441fbf110aa6a",
-    "dedupKeys": [
-      "ad4cbe0699f2bbc292a19ceccbf3d91bc96e92be",
-      "a61009de46520ddef6156d4e3a3441fbf110aa6a",
-      "af5bbb928daffdb29b26e305e178d834b53a213d"
-    ],
-    "imageUrl": "/images/articles/ad4cbe0699f2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "USDC 발행사 Circle, Arc 토큰 사전판매로 2억2200만달러 조달",
-        "excerpt": "USDC 발행사 Circle이 a16z Crypto 주도 Arc 토큰 사전판매에서 2억2200만달러를 조달했으며, 1분기 매출과 USDC 유통량도 증가했다.",
-        "body": "USDC 발행사 Circle은 Arc 토큰 사전판매를 통해 2억2200만달러를 조달했다. 이번 사전판매는 a16z Crypto가 주도했으며, Arc 토큰의 평가액은 30억달러로 제시됐다. 같은 기간 Circle의 1분기 매출은 6억9400만달러를 기록했고, USDC 유통량은 770억달러까지 늘었다. 이번 조달은 Circle의 토큰 프로젝트와 스테이블코인 사업 지표가 동시에 주목받는 상황에서 이뤄졌다. 향후 시장은 Arc 토큰 평가액과 USDC 유통 확대가 Circle의 성장 흐름에 어떤 영향을 줄지 살필 전망이다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "USDC Issuer Circle Raises $222M in Arc Token Presale at $3B Value",
-        "excerpt": "USDC issuer Circle raised $222 million in an Arc token presale led by a16z Crypto as first-quarter revenue and USDC circulation both increased.",
-        "body": "USDC issuer Circle raised $222 million through an Arc token presale. The sale was led by a16z Crypto, and the Arc token was valued at $3 billion. During the same period, Circle reported first-quarter revenue of $694 million, while USDC circulation rose to $77 billion. The fundraising comes as both Circle’s token project and stablecoin business metrics draw attention. Market watchers are expected to focus on how the Arc token valuation and expanding USDC circulation may affect Circle’s growth trajectory. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "USDC発行元Circle、Arcトークン先行販売で2.22億ドル調達",
-        "excerpt": "USDC発行元Circleは、a16z Crypto主導のArcトークン先行販売で2億2200万ドルを調達し、1〜3月期売上とUSDC流通量も増加した。",
-        "body": "USDC発行元のCircleは、Arcトークンの先行販売を通じて2億2200万ドルを調達した。今回の販売はa16z Cryptoが主導し、Arcトークンの評価額は30億ドルとされた。同じ期間にCircleの第1四半期売上高は6億9400万ドルを記録し、USDCの流通量は770億ドルまで増加した。今回の資金調達は、Circleのトークン計画とステーブルコイン事業の指標が同時に注目される中で行われた。市場は今後、Arcトークンの評価額とUSDC流通拡大がCircleの成長にどのような影響を与えるかを見守る見通しだ。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "USDC发行方Circle通过Arc代币预售融资2.22亿美元",
-        "excerpt": "USDC发行方Circle在a16z Crypto领投的Arc代币预售中融资2.22亿美元，同时一季度收入和USDC流通量均有所上升。",
-        "body": "USDC发行方Circle通过Arc代币预售筹集了2.22亿美元。本轮预售由a16z Crypto领投，Arc代币估值为30亿美元。同期，Circle第一季度收入达到6.94亿美元，USDC流通量升至770亿美元。此次融资发生在Circle代币项目和稳定币业务指标同时受到关注之际。市场接下来将关注Arc代币估值以及USDC流通规模扩大，是否会对Circle的增长走势产生影响。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Circle, emisor de USDC, capta $222M en preventa de Arc a $3.000M",
-        "excerpt": "Circle, emisor de USDC, recaudó 222 millones de dólares en una preventa del token Arc liderada por a16z Crypto, mientras crecieron ingresos y circulación de USDC.",
-        "body": "Circle, emisor de USDC, recaudó 222 millones de dólares mediante una preventa del token Arc. La operación fue liderada por a16z Crypto y valoró el token Arc en 3.000 millones de dólares. En el mismo periodo, los ingresos del primer trimestre de Circle alcanzaron 694 millones de dólares, mientras la circulación de USDC subió a 77.000 millones de dólares. La captación se produjo cuando el proyecto de token de Circle y las métricas de su negocio de stablecoins atraen atención. El mercado observará cómo la valoración de Arc y la expansión de USDC pueden influir en la trayectoria de crecimiento de Circle. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Circle, emissora do USDC, levanta US$222 mi em pré-venda do Arc",
-        "excerpt": "A Circle, emissora do USDC, captou US$222 milhões em uma pré-venda do token Arc liderada pela a16z Crypto, enquanto receita trimestral e circulação do USDC cresceram.",
-        "body": "A Circle, emissora do USDC, levantou US$222 milhões por meio de uma pré-venda do token Arc. A venda foi liderada pela a16z Crypto, e o token Arc recebeu avaliação de US$3 bilhões. No mesmo período, a receita da Circle no primeiro trimestre chegou a US$694 milhões, enquanto a circulação do USDC subiu para US$77 bilhões. A captação ocorre em um momento em que o projeto de token da Circle e os indicadores de seu negócio de stablecoin recebem atenção. O mercado deve acompanhar como a avaliação do Arc e a expansão da circulação do USDC podem afetar o crescimento da Circle. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "USDC-Emittent Circle sammelt 222 Mio. Dollar mit Arc-Vorverkauf ein",
-        "excerpt": "USDC-Emittent Circle sammelte in einem von a16z Crypto geführten Arc-Token-Vorverkauf 222 Millionen Dollar ein, während Umsatz und USDC-Umlauf stiegen.",
-        "body": "Der USDC-Emittent Circle hat über einen Vorverkauf des Arc-Tokens 222 Millionen Dollar eingesammelt. Die Runde wurde von a16z Crypto geführt, und der Arc-Token wurde mit 3 Milliarden Dollar bewertet. Im selben Zeitraum erzielte Circle im ersten Quartal einen Umsatz von 694 Millionen Dollar, während der USDC-Umlauf auf 77 Milliarden Dollar stieg. Die Finanzierung erfolgte, während sowohl Circles Token-Projekt als auch die Kennzahlen des Stablecoin-Geschäfts Aufmerksamkeit erhalten. Der Markt dürfte nun beobachten, wie sich die Bewertung des Arc-Tokens und die Ausweitung des USDC-Umlaufs auf Circles Wachstum auswirken. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Circle, émetteur de l’USDC, lève 222 M$ via la prévente d’Arc",
-        "excerpt": "Circle, émetteur de l’USDC, a levé 222 millions de dollars lors d’une prévente du token Arc menée par a16z Crypto, tandis que revenus et circulation de l’USDC ont progressé.",
-        "body": "Circle, émetteur de l’USDC, a levé 222 millions de dollars grâce à une prévente du token Arc. L’opération a été menée par a16z Crypto, avec une valorisation du token Arc fixée à 3 milliards de dollars. Sur la même période, le chiffre d’affaires du premier trimestre de Circle a atteint 694 millions de dollars, tandis que la circulation de l’USDC est montée à 77 milliards de dollars. Cette levée intervient alors que le projet de token de Circle et les indicateurs de son activité de stablecoin attirent l’attention. Le marché suivra l’effet possible de la valorisation d’Arc et de l’expansion de l’USDC sur la croissance de Circle. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "Circle مُصدِرة USDC تجمع 222 مليون دولار في بيع Arc المسبق",
-        "excerpt": "جمعت Circle مُصدِرة USDC مبلغ 222 مليون دولار في بيع مسبق لتوكن Arc بقيادة a16z Crypto، مع ارتفاع إيرادات الربع الأول وتداول USDC.",
-        "body": "جمعت Circle، مُصدِرة USDC، مبلغ 222 مليون دولار عبر بيع مسبق لتوكن Arc. قادت a16z Crypto عملية البيع، وبلغ تقييم توكن Arc ثلاثة مليارات دولار. وفي الفترة نفسها، سجلت Circle إيرادات في الربع الأول بلغت 694 مليون دولار، بينما ارتفع تداول USDC إلى 77 مليار دولار. يأتي هذا التمويل في وقت يحظى فيه مشروع التوكن لدى Circle ومؤشرات أعمال العملة المستقرة باهتمام السوق. ومن المتوقع أن يراقب المستثمرون كيف يمكن لتقييم Arc وتوسع تداول USDC أن يؤثرا في مسار نمو Circle. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "USDC जारीकर्ता Circle ने Arc टोकन प्रीसेल से $222M जुटाए",
-        "excerpt": "USDC जारीकर्ता Circle ने a16z Crypto के नेतृत्व वाली Arc टोकन प्रीसेल में 222 मिलियन डॉलर जुटाए, जबकि पहली तिमाही का राजस्व और USDC सर्कुलेशन बढ़ा।",
-        "body": "USDC जारीकर्ता Circle ने Arc टोकन की प्रीसेल के जरिए 222 मिलियन डॉलर जुटाए। इस बिक्री का नेतृत्व a16z Crypto ने किया और Arc टोकन का मूल्यांकन 3 बिलियन डॉलर रखा गया। इसी अवधि में Circle का पहली तिमाही राजस्व 694 मिलियन डॉलर रहा, जबकि USDC का सर्कुलेशन बढ़कर 77 बिलियन डॉलर तक पहुंच गया। यह फंडरेजिंग ऐसे समय हुई जब Circle की टोकन परियोजना और स्टेबलकॉइन कारोबार के आंकड़े साथ-साथ ध्यान खींच रहे हैं। बाजार अब देखेगा कि Arc टोकन का मूल्यांकन और USDC सर्कुलेशन में वृद्धि Circle की विकास दिशा को कैसे प्रभावित करती है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Penerbit USDC Circle Raup $222 Juta dari Presale Token Arc",
-        "excerpt": "Penerbit USDC, Circle, mengumpulkan $222 juta dalam presale token Arc yang dipimpin a16z Crypto, saat pendapatan kuartal I dan sirkulasi USDC meningkat.",
-        "body": "Penerbit USDC, Circle, mengumpulkan $222 juta melalui presale token Arc. Penjualan ini dipimpin oleh a16z Crypto, dengan valuasi token Arc sebesar $3 miliar. Pada periode yang sama, pendapatan kuartal pertama Circle mencapai $694 juta, sementara sirkulasi USDC naik menjadi $77 miliar. Penggalangan dana ini terjadi ketika proyek token Circle dan metrik bisnis stablecoin-nya sama-sama menjadi perhatian. Pasar diperkirakan akan mencermati bagaimana valuasi token Arc dan perluasan sirkulasi USDC dapat memengaruhi arah pertumbuhan Circle. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "79b0434e1f4d",
-    "slug": "dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai--732348",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T17:34:54.238Z",
-    "updatedAt": "2026-05-11T17:34:54.238Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/press-releases/dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/press-releases/dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you",
-    "titleFingerprint": "c66a204fe0c0db4562090a7696349a02641e2910",
-    "dedupKeys": [
-      "79b0434e1f4d223c4fd4f0e617a42814de798ce3",
-      "c66a204fe0c0db4562090a7696349a02641e2910",
-      "123cf9272dff1e7255434d5034cb44d4c73c044d"
-    ],
-    "imageUrl": "/images/articles/79b0434e1f4d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "DAPPOS, AI 에이전트 xBubble 출시…간단한 프롬프트로 작업 수행",
-        "excerpt": "DAPPOS가 xBubble을 출시했다. 사용자는 더 간단한 프롬프트로 특정 작업을 요청하면, xBubble이 작업별 AI 에이전트를 자동 구성하고 실행한다.",
-        "body": "DAPPOS가 사용자의 작업 수행을 돕는 AI 에이전트 서비스 xBubble을 출시했다. xBubble은 사용자가 복잡한 지시를 길게 입력하지 않아도 특정 작업을 완료할 수 있도록 설계됐다. 핵심 기능은 작업 목적에 맞는 AI 에이전트를 자동으로 만들고 배치하는 것이다. 이를 통해 사용자는 더 단순한 프롬프트만으로 필요한 작업을 요청할 수 있다. 이번 출시는 AI 활용 과정에서 프롬프트 작성 부담을 줄이는 데 초점을 맞춘다. 향후 사용자가 AI를 직접 세밀하게 조작하지 않고도 목적 중심으로 활용하는 방식이 확대될 수 있다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "DAPPOS Launches xBubble, AI Agent Tool for Simpler Task Prompts",
-        "excerpt": "DAPPOS has launched xBubble, letting users request specific tasks with simpler prompts while the system builds and dispatches task-specific AI agents.",
-        "body": "DAPPOS has launched xBubble, an AI agent service designed to help users complete tasks. xBubble allows users to finish specific tasks without writing long or complex instructions. Its core function is to automatically build and dispatch AI agents tailored to each task. As a result, users can request what they need with simpler prompts. The launch focuses on reducing the burden of prompt writing when using AI. It may also support a broader shift toward goal-based AI use, where users rely on agents without manually controlling every detail. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "DAPPOS、AIエージェントxBubbleを発表　簡単なプロンプトで作業実行",
-        "excerpt": "DAPPOSはxBubbleを発表した。ユーザーが簡単なプロンプトで特定作業を依頼すると、作業別AIエージェントを自動構築し実行する。",
-        "body": "DAPPOSは、ユーザーの作業実行を支援するAIエージェントサービスxBubbleを発表した。xBubbleは、ユーザーが長く複雑な指示を入力しなくても、特定の作業を完了できるよう設計されている。中核機能は、作業目的に合わせたAIエージェントを自動で構築し、配置することだ。これにより、ユーザーはより簡単なプロンプトだけで必要な作業を依頼できる。今回の発表は、AI利用時のプロンプト作成負担を減らすことに焦点を当てている。今後、AIを細かく操作せず目的中心で使う流れが広がる可能性がある。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "DAPPOS推出xBubble：用更简单提示调用AI代理完成任务",
-        "excerpt": "DAPPOS推出xBubble。用户只需用更简单的提示提出具体任务，系统即可自动构建并分派面向任务的AI代理。",
-        "body": "DAPPOS推出了帮助用户完成任务的AI代理服务xBubble。xBubble旨在让用户无需输入冗长或复杂指令，也能完成特定任务。其核心功能是根据任务目标自动构建并分派相应的AI代理。这样，用户可以通过更简单的提示请求所需操作。此次推出的重点在于降低使用AI时编写提示词的负担。未来，用户或可更多以目标为中心使用AI，而不必手动细致控制每个步骤。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "DAPPOS lanza xBubble, un agente de IA para tareas con prompts simples",
-        "excerpt": "DAPPOS lanzó xBubble, que permite pedir tareas específicas con prompts más simples mientras crea y despacha agentes de IA adaptados a cada tarea.",
-        "body": "DAPPOS lanzó xBubble, un servicio de agentes de IA diseñado para ayudar a los usuarios a completar tareas. xBubble permite finalizar tareas específicas sin escribir instrucciones largas o complejas. Su función principal es crear y despachar automáticamente agentes de IA adaptados al objetivo de cada tarea. Así, los usuarios pueden solicitar lo que necesitan con prompts más simples. El lanzamiento se centra en reducir la carga de redactar prompts al usar IA. También puede impulsar un uso más orientado a objetivos, sin que el usuario controle manualmente cada detalle. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "DAPPOS lança xBubble, agente de IA para tarefas com prompts simples",
-        "excerpt": "A DAPPOS lançou o xBubble, que permite solicitar tarefas específicas com prompts mais simples enquanto cria e envia agentes de IA por tarefa.",
-        "body": "A DAPPOS lançou o xBubble, um serviço de agente de IA criado para ajudar usuários a concluir tarefas. O xBubble permite executar tarefas específicas sem que o usuário escreva instruções longas ou complexas. Sua função central é criar e enviar automaticamente agentes de IA ajustados ao objetivo de cada tarefa. Com isso, os usuários podem pedir o que precisam usando prompts mais simples. O lançamento foca em reduzir o esforço de escrever prompts ao usar IA. No futuro, isso pode ampliar o uso de IA baseado em objetivos, sem controle manual detalhado de cada etapa. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "DAPPOS startet xBubble: KI-Agenten erledigen Aufgaben per einfachem Prompt",
-        "excerpt": "DAPPOS hat xBubble gestartet. Nutzer können konkrete Aufgaben mit einfacheren Prompts anfordern, während passende KI-Agenten automatisch erstellt werden.",
-        "body": "DAPPOS hat xBubble gestartet, einen KI-Agentendienst zur Unterstützung bei der Erledigung von Aufgaben. xBubble soll es Nutzern ermöglichen, bestimmte Aufgaben abzuschließen, ohne lange oder komplexe Anweisungen einzugeben. Die Kernfunktion besteht darin, KI-Agenten passend zum jeweiligen Aufgabenziel automatisch zu erstellen und einzusetzen. Dadurch können Nutzer benötigte Aktionen mit einfacheren Prompts anfordern. Der Start zielt darauf ab, den Aufwand beim Schreiben von Prompts im Umgang mit KI zu verringern. Künftig könnte sich eine stärker zielorientierte Nutzung von KI verbreiten. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "DAPPOS lance xBubble, des agents IA pour agir avec des prompts simples",
-        "excerpt": "DAPPOS a lancé xBubble, qui permet de demander des tâches précises avec des prompts plus simples en créant des agents IA adaptés à chaque tâche.",
-        "body": "DAPPOS a lancé xBubble, un service d’agents IA conçu pour aider les utilisateurs à accomplir des tâches. xBubble permet de réaliser des tâches spécifiques sans saisir d’instructions longues ou complexes. Sa fonction principale consiste à créer et déployer automatiquement des agents IA adaptés à l’objectif de chaque tâche. Les utilisateurs peuvent ainsi demander ce dont ils ont besoin avec des prompts plus simples. Ce lancement met l’accent sur la réduction de l’effort lié à la rédaction de prompts lors de l’utilisation de l’IA. Il pourrait aussi favoriser un usage plus orienté vers les objectifs. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "DAPPOS تطلق xBubble: وكلاء ذكاء اصطناعي للمهام عبر أوامر أبسط",
-        "excerpt": "أطلقت DAPPOS خدمة xBubble التي تتيح للمستخدمين طلب مهام محددة بأوامر أبسط، مع بناء وكلاء ذكاء اصطناعي مخصصين لكل مهمة وإرسالهم تلقائيا.",
-        "body": "أطلقت DAPPOS خدمة xBubble، وهي خدمة وكلاء ذكاء اصطناعي مصممة لمساعدة المستخدمين على إنجاز المهام. تتيح xBubble إكمال مهام محددة من دون الحاجة إلى كتابة تعليمات طويلة أو معقدة. وتتمثل وظيفتها الأساسية في بناء وكلاء ذكاء اصطناعي مناسبين لهدف كل مهمة وإرسالهم تلقائيا. وبذلك يستطيع المستخدم طلب ما يحتاجه عبر أوامر أبسط. يركز الإطلاق على تقليل عبء صياغة الأوامر عند استخدام الذكاء الاصطناعي. وقد يدعم ذلك اتجاها أوسع نحو استخدام الذكاء الاصطناعي على أساس الهدف بدلا من التحكم اليدوي بكل التفاصيل. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "DAPPOS ने xBubble लॉन्च किया, सरल प्रॉम्प्ट से काम करने वाला AI एजेंट",
-        "excerpt": "DAPPOS ने xBubble लॉन्च किया है। उपयोगकर्ता सरल प्रॉम्प्ट से विशेष कार्य मांग सकते हैं, जबकि सिस्टम कार्य-विशिष्ट AI एजेंट बनाकर भेजता है।",
-        "body": "DAPPOS ने xBubble लॉन्च किया है, जो उपयोगकर्ताओं को कार्य पूरा करने में मदद करने वाली AI एजेंट सेवा है। xBubble को इस तरह बनाया गया है कि उपयोगकर्ता लंबी या जटिल निर्देश पंक्तियां लिखे बिना विशेष कार्य पूरे कर सकें। इसका मुख्य काम हर कार्य के उद्देश्य के अनुसार AI एजेंट को अपने आप बनाना और भेजना है। इससे उपयोगकर्ता सरल प्रॉम्प्ट के जरिए अपनी जरूरत बता सकते हैं। यह लॉन्च AI इस्तेमाल करते समय प्रॉम्प्ट लिखने का बोझ कम करने पर केंद्रित है। आगे चलकर यह AI के उद्देश्य-आधारित उपयोग को बढ़ा सकता है, जहां हर विवरण को हाथ से नियंत्रित करने की जरूरत कम हो। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "DAPPOS Luncurkan xBubble, Agen AI untuk Tugas dengan Prompt Sederhana",
-        "excerpt": "DAPPOS meluncurkan xBubble, yang memungkinkan pengguna meminta tugas tertentu dengan prompt lebih sederhana saat agen AI khusus tugas dibuat otomatis.",
-        "body": "DAPPOS meluncurkan xBubble, layanan agen AI yang dirancang untuk membantu pengguna menyelesaikan tugas. xBubble memungkinkan pengguna menuntaskan tugas tertentu tanpa menulis instruksi panjang atau rumit. Fungsi utamanya adalah secara otomatis membuat dan mengirim agen AI yang sesuai dengan tujuan setiap tugas. Dengan begitu, pengguna dapat meminta kebutuhan mereka melalui prompt yang lebih sederhana. Peluncuran ini berfokus pada pengurangan beban penulisan prompt saat menggunakan AI. Ke depan, cara memakai AI yang lebih berorientasi pada tujuan dapat semakin meluas tanpa kendali manual atas setiap detail. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "7bd61f5bcb68",
-    "slug": "strategy-resumes-bitcoin-acquisitions-with-43m-btc-buy-130976",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-11T17:33:58.070Z",
-    "updatedAt": "2026-05-11T17:33:58.070Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy",
-    "titleFingerprint": "161f3666d27b869fb53a9d9c6fb27bbd5019eb57",
-    "dedupKeys": [
-      "7bd61f5bcb68f52117f7a335da06a13958d4e173",
-      "161f3666d27b869fb53a9d9c6fb27bbd5019eb57",
-      "81230fca27b31a5e0ccabe16f82e7c7117c02a16"
-    ],
-    "imageUrl": "/images/articles/7bd61f5bcb68.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Strategy, 4,300만달러 비트코인 매입 재개…배당 재원 논란 속 BTC 확대",
-        "excerpt": "Strategy가 지난주 4,300만달러 규모의 비트코인을 추가 매입했다. 마이클 세일러가 배당 지급 재원 마련을 위한 BTC 매도 가능성을 시사한 뒤 나온 움직임이다.",
-        "body": "Strategy가 지난주 4,300만달러 규모의 비트코인을 추가 매입하며 BTC 축적을 재개했다. 이번 매입은 마이클 세일러가 배당금 지급 재원을 마련하기 위해 비트코인 일부 매도 가능성을 언급한 뒤 이뤄졌다. 해당 발언은 투자자들 사이에서 엇갈린 반응을 불러왔다. 회사의 비트코인 매입 재개는 배당 재원 논란 속에서도 BTC 보유 전략을 이어가고 있음을 보여준다. 다만 원문은 매입 규모와 투자자 반응 외 추가 재무 세부사항은 제시하지 않았다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Strategy resumes Bitcoin buys with $43M BTC purchase amid dividend debate",
-        "excerpt": "Strategy added $43 million in Bitcoin last week after Michael Saylor signaled possible BTC sales to fund dividend payments, drawing mixed investor reactions.",
-        "body": "Strategy resumed its Bitcoin accumulation last week with a $43 million BTC purchase. The move came after Michael Saylor indicated the company could potentially sell some Bitcoin to fund dividend payments. That signal drew mixed reactions from investors. The renewed purchase shows Strategy is continuing its BTC holding approach despite debate over dividend funding. The source did not provide additional financial details beyond the purchase size and investor response. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "Strategy、4,300万ドルのビットコイン購入再開 配当財源巡る反応分かれる",
-        "excerpt": "Strategyは先週、4,300万ドル相当のビットコインを追加購入した。マイケル・セイラー氏が配当支払い資金のためBTC売却の可能性を示した後の動きだ。",
-        "body": "Strategyは先週、4,300万ドル相当のビットコインを追加購入し、BTCの積み増しを再開した。今回の購入は、マイケル・セイラー氏が配当金支払いの財源を確保するため、一部のビットコイン売却の可能性を示した後に行われた。この発言を受け、投資家の反応は分かれた。購入再開は、配当財源を巡る議論の中でも同社がBTC保有戦略を継続していることを示す。原文は購入額と投資家反応以外の追加財務情報を示していない。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "Strategy重启比特币买入，斥资4300万美元增持BTC",
-        "excerpt": "Strategy上周追加买入4300万美元比特币。此前，Michael Saylor暗示可能出售BTC为股息支付筹资，引发投资者不同反应。",
-        "body": "Strategy上周追加买入4300万美元比特币，重启其BTC积累行动。此次买入发生在Michael Saylor表示公司可能出售部分比特币以筹集股息支付资金之后。该信号在投资者之间引发了不同反应。重新买入显示，在围绕股息资金来源的讨论中，Strategy仍在延续其BTC持有策略。不过，原文除买入规模和投资者反应外，未提供更多财务细节。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Strategy retoma compras de Bitcoin con adquisición de BTC por USD 43M",
-        "excerpt": "Strategy añadió USD 43 millones en Bitcoin la semana pasada después de que Michael Saylor señalara posibles ventas de BTC para financiar dividendos.",
-        "body": "Strategy retomó la acumulación de Bitcoin la semana pasada con una compra de BTC por USD 43 millones. La operación llegó después de que Michael Saylor indicara que la compañía podría vender parte de sus Bitcoin para financiar pagos de dividendos. Esa señal generó reacciones mixtas entre los inversores. La nueva compra muestra que Strategy continúa con su enfoque de tenencia de BTC pese al debate sobre la financiación de dividendos. La fuente no ofreció más detalles financieros aparte del tamaño de la compra y la reacción inversora. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Strategy retoma compras de Bitcoin com aquisição de US$ 43 mi em BTC",
-        "excerpt": "A Strategy adicionou US$ 43 milhões em Bitcoin na semana passada após Michael Saylor sinalizar possíveis vendas de BTC para financiar dividendos.",
-        "body": "A Strategy retomou a acumulação de Bitcoin na semana passada com uma compra de US$ 43 milhões em BTC. O movimento ocorreu depois que Michael Saylor indicou que a empresa poderia vender parte de seus Bitcoins para financiar pagamentos de dividendos. A sinalização gerou reações mistas entre investidores. A nova compra mostra que a Strategy mantém sua abordagem de posse de BTC apesar do debate sobre a fonte dos dividendos. A fonte não apresentou detalhes financeiros adicionais além do valor da compra e da reação dos investidores. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Strategy nimmt Bitcoin-Käufe mit BTC-Erwerb über 43 Mio. USD wieder auf",
-        "excerpt": "Strategy kaufte vergangene Woche Bitcoin im Wert von 43 Mio. USD, nachdem Michael Saylor mögliche BTC-Verkäufe zur Finanzierung von Dividenden angedeutet hatte.",
-        "body": "Strategy hat seine Bitcoin-Akkumulation vergangene Woche mit einem BTC-Kauf im Wert von 43 Mio. USD wieder aufgenommen. Der Schritt erfolgte, nachdem Michael Saylor angedeutet hatte, dass das Unternehmen möglicherweise einen Teil seiner Bitcoin verkaufen könnte, um Dividendenzahlungen zu finanzieren. Diese Aussage löste bei Anlegern gemischte Reaktionen aus. Der erneute Kauf zeigt, dass Strategy seine BTC-Haltestrategie trotz der Debatte über Dividendenmittel fortsetzt. Die Quelle nannte außer Kaufvolumen und Anlegerreaktionen keine weiteren Finanzdetails. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Strategy reprend ses achats de Bitcoin avec 43 M$ de BTC acquis",
-        "excerpt": "Strategy a ajouté 43 millions de dollars en Bitcoin la semaine dernière après que Michael Saylor a évoqué de possibles ventes de BTC pour financer des dividendes.",
-        "body": "Strategy a repris son accumulation de Bitcoin la semaine dernière avec un achat de BTC de 43 millions de dollars. Cette opération est intervenue après que Michael Saylor a indiqué que l’entreprise pourrait vendre une partie de ses Bitcoin afin de financer des paiements de dividendes. Ce signal a suscité des réactions mitigées chez les investisseurs. Ce nouvel achat montre que Strategy poursuit son approche de détention de BTC malgré le débat sur le financement des dividendes. La source ne fournit pas d’autres détails financiers au-delà du montant acheté et des réactions des investisseurs. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "Strategy تستأنف شراء بيتكوين بصفقة BTC قيمتها 43 مليون دولار",
-        "excerpt": "أضافت Strategy ما قيمته 43 مليون دولار من بيتكوين الأسبوع الماضي بعد أن لمح مايكل سايلور إلى احتمال بيع BTC لتمويل توزيعات الأرباح.",
-        "body": "استأنفت Strategy تراكم بيتكوين الأسبوع الماضي عبر شراء BTC بقيمة 43 مليون دولار. وجاءت الخطوة بعد أن أشار مايكل سايلور إلى أن الشركة قد تبيع جزءا من بيتكوين لتمويل مدفوعات توزيعات الأرباح. وأثارت هذه الإشارة ردود فعل متباينة بين المستثمرين. ويظهر استئناف الشراء أن Strategy تواصل نهج الاحتفاظ بـ BTC رغم الجدل حول تمويل التوزيعات. ولم يورد المصدر تفاصيل مالية إضافية بخلاف حجم الشراء ورد فعل المستثمرين. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "Strategy ने $43M BTC खरीद के साथ Bitcoin अधिग्रहण फिर शुरू किया",
-        "excerpt": "Strategy ने पिछले सप्ताह $43 मिलियन के Bitcoin जोड़े, जब Michael Saylor ने लाभांश भुगतान के लिए BTC बेचने की संभावना का संकेत दिया था।",
-        "body": "Strategy ने पिछले सप्ताह $43 मिलियन मूल्य के BTC खरीदकर Bitcoin संचय फिर शुरू किया। यह कदम Michael Saylor के उस संकेत के बाद आया जिसमें उन्होंने लाभांश भुगतान के लिए कंपनी द्वारा कुछ Bitcoin बेचने की संभावना जताई थी। इस संकेत पर निवेशकों की प्रतिक्रिया मिली-जुली रही। नई खरीद दिखाती है कि लाभांश फंडिंग पर बहस के बावजूद Strategy अपनी BTC होल्डिंग रणनीति जारी रख रही है। स्रोत ने खरीद आकार और निवेशक प्रतिक्रिया के अलावा अतिरिक्त वित्तीय विवरण नहीं दिए। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Strategy lanjutkan akuisisi Bitcoin lewat pembelian BTC senilai $43 juta",
-        "excerpt": "Strategy menambah Bitcoin senilai $43 juta pekan lalu setelah Michael Saylor memberi sinyal potensi penjualan BTC untuk mendanai pembayaran dividen.",
-        "body": "Strategy melanjutkan akumulasi Bitcoin pekan lalu dengan pembelian BTC senilai $43 juta. Langkah ini terjadi setelah Michael Saylor mengindikasikan perusahaan berpotensi menjual sebagian Bitcoin untuk mendanai pembayaran dividen. Sinyal tersebut memicu reaksi beragam dari investor. Pembelian baru ini menunjukkan Strategy tetap menjalankan pendekatan kepemilikan BTC meski ada perdebatan soal sumber dana dividen. Sumber tidak memberikan rincian keuangan tambahan selain nilai pembelian dan reaksi investor. Sumber: cointelegraph.com"
       }
     }
   }
