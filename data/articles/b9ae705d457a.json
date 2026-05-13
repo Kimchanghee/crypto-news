@@ -1,0 +1,75 @@
+{
+  "id": "b9ae705d457a",
+  "slug": "how-figure-is-democratizing-crypto-as-collateral-for-mainstr-544145",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-13T23:24:45.136Z",
+  "updatedAt": "2026-05-13T23:24:45.136Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/366771/how-figure-is-democratizing-crypto-as-collateral-for-mainstream-users",
+  "canonicalUrl": "https://decrypt.co/366771/how-figure-is-democratizing-crypto-as-collateral-for-mainstream-users",
+  "titleFingerprint": "ccf1b0da9a66bd6916bad2de9629113f75070b37",
+  "dedupKeys": [
+    "b9ae705d457aa04e3f16e5a36f53c7b48f9733fb",
+    "ccf1b0da9a66bd6916bad2de9629113f75070b37",
+    "b88db88b866c7d1465baf57a613700547bb35563"
+  ],
+  "imageUrl": "/images/articles/b9ae705d457a.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Figure, 비트코인·이더리움 담보 대출로 대중 신용 접근 확대",
+      "excerpt": "2026년 5월 13일 Decrypt에 따르면 Figure는 미국 일반 투자자가 BTC, ETH, SOL을 담보로 현금을 빌릴 수 있는 암호화폐 담보 대출을 확대하고 있다.",
+      "body": "2026년 5월 13일 Decrypt 보도에 따르면 핀테크 기업 Figure Technologies Solutions는 Figure Markets를 통해 미국 일반 투자자에게 암호화폐 담보 대출을 제공하고 있다. 이용자는 비트코인, 이더리움, 솔라나를 담보로 맡기고 보유 포지션을 유지한 채 현금을 빌릴 수 있다. 대출 한도는 담보 가치의 최대 75%이며, 50% LTV 이하 금리는 8.91%(APR 9.999%), 75% LTV 이하는 11.50%(APR 12.62%)로 제시됐다. 담보는 분리된 MPC 커스터디 지갑에 보관되며 재담보로 쓰이지 않는다고 Figure 측은 밝혔다. Decrypt는 이 서비스가 암호화폐 자산은 많지만 현금 유동성이 부족한 투자자의 신용 접근을 넓히는 사례라고 전했다."
+    },
+    "en": {
+      "title": "Figure Expands Bitcoin and Ethereum Collateral Loans for Mainstream Users",
+      "excerpt": "According to Decrypt on May 13, 2026, Figure is expanding crypto-backed loans that let U.S. retail investors borrow cash against BTC, ETH, or SOL collateral.",
+      "body": "According to Decrypt on May 13, 2026, fintech firm Figure Technologies Solutions is offering crypto-backed loans to everyday U.S. investors through Figure Markets. Users can pledge Bitcoin, Ethereum, or Solana as collateral and access cash while keeping their crypto exposure. Borrowing is available up to 75% of collateral value, with rates starting at 8.91% and 9.999% APR for loans up to 50% LTV, and 11.50% and 12.62% APR for loans up to 75% LTV. Figure says collateral is kept in segregated MPC custody wallets and is not used for rehypothecation. Decrypt described the service as a way to broaden credit access for investors who are crypto-rich but cash-poor."
+    },
+    "ja": {
+      "title": "Figure、ビットコイン・イーサ担保ローンで個人の信用利用を拡大",
+      "excerpt": "Decryptが2026年5月13日に報じたところによると、Figureは米国の一般投資家がBTC、ETH、SOLを担保に現金を借りられるサービスを広げている。",
+      "body": "Decryptの2026年5月13日の報道によると、フィンテック企業Figure Technologies Solutionsは、Figure Marketsを通じて米国の一般投資家向けに暗号資産担保ローンを提供している。利用者はビットコイン、イーサリアム、ソラナを担保に差し入れ、暗号資産への投資を維持したまま現金を借りられる。借入上限は担保価値の最大75%で、50% LTV以下は金利8.91%、APR 9.999%、75% LTV以下は金利11.50%、APR 12.62%とされた。担保は分離されたMPCカストディウォレットで保管され、再担保には使われないとFigureは説明している。Decryptは、暗号資産は多いが現金が不足する投資家の信用アクセスを広げる動きだと伝えた。"
+    },
+    "zh": {
+      "title": "Figure以比特币和以太坊抵押贷款扩大大众信贷入口",
+      "excerpt": "据Decrypt 2026年5月13日报道，Figure正扩大加密资产抵押贷款，让美国普通投资者用BTC、ETH或SOL作抵押借入现金。",
+      "body": "据Decrypt 2026年5月13日报道，金融科技公司Figure Technologies Solutions正通过Figure Markets向美国普通投资者提供加密资产抵押贷款。用户可以把比特币、以太坊或Solana作为抵押，在继续持有加密资产敞口的同时获得现金。贷款额度最高为抵押品价值的75%；50% LTV以内的利率为8.91%，APR为9.999%，75% LTV以内的利率为11.50%，APR为12.62%。Figure表示，抵押品存放在隔离的MPC托管钱包中，不会被再抵押使用。Decrypt称，这项服务为加密资产充足但现金不足的投资者扩大了获得信贷的渠道。"
+    },
+    "es": {
+      "title": "Figure amplía préstamos con Bitcoin y Ethereum como garantía para usuarios comunes",
+      "excerpt": "Según Decrypt el 13 de mayo de 2026, Figure amplía préstamos respaldados por cripto para que inversores de EE. UU. usen BTC, ETH o SOL como garantía.",
+      "body": "Según Decrypt el 13 de mayo de 2026, la fintech Figure Technologies Solutions ofrece préstamos respaldados por cripto a inversores minoristas de Estados Unidos mediante Figure Markets. Los usuarios pueden aportar Bitcoin, Ethereum o Solana como garantía y obtener efectivo mientras mantienen exposición a sus activos digitales. El préstamo puede llegar hasta el 75% del valor de la garantía; para hasta 50% LTV la tasa parte de 8,91%, con APR de 9,999%, y para hasta 75% LTV es de 11,50%, con APR de 12,62%. Figure afirma que la garantía se guarda en billeteras MPC segregadas y no se reutiliza como rehypothecation. Decrypt presentó el servicio como una vía para ampliar el acceso al crédito de inversores ricos en cripto pero con poca liquidez."
+    },
+    "pt": {
+      "title": "Figure amplia empréstimos com Bitcoin e Ethereum como garantia ao varejo",
+      "excerpt": "Segundo a Decrypt em 13 de maio de 2026, a Figure expande empréstimos cripto para investidores dos EUA usarem BTC, ETH ou SOL como garantia por dinheiro.",
+      "body": "Segundo a Decrypt em 13 de maio de 2026, a fintech Figure Technologies Solutions oferece empréstimos com garantia em cripto a investidores comuns dos Estados Unidos por meio da Figure Markets. Usuários podem oferecer Bitcoin, Ethereum ou Solana como garantia e acessar dinheiro mantendo sua exposição aos ativos digitais. O limite chega a 75% do valor da garantia; para até 50% de LTV, a taxa começa em 8,91%, com APR de 9,999%, e para até 75% de LTV é de 11,50%, com APR de 12,62%. A Figure afirma que a garantia fica em carteiras MPC segregadas e não é reutilizada como garantia. A Decrypt descreveu o serviço como uma forma de ampliar crédito para investidores com muitos criptoativos, mas pouca liquidez."
+    },
+    "de": {
+      "title": "Figure öffnet Bitcoin- und Ethereum-Kredite als Sicherheit für Privatanleger",
+      "excerpt": "Laut Decrypt vom 13. Mai 2026 erweitert Figure kryptobesicherte Kredite, mit denen US-Privatanleger BTC, ETH oder SOL als Sicherheit für Bargeld nutzen.",
+      "body": "Laut Decrypt vom 13. Mai 2026 bietet das Fintech Figure Technologies Solutions über Figure Markets kryptobesicherte Kredite für normale US-Anleger an. Nutzer können Bitcoin, Ethereum oder Solana als Sicherheit hinterlegen und Bargeld erhalten, während sie weiter in Krypto investiert bleiben. Kredite sind bis zu 75% des Sicherheitenwerts möglich; bis 50% LTV beginnen die Zinsen bei 8,91% mit 9,999% APR, bis 75% LTV liegen sie bei 11,50% mit 12,62% APR. Figure erklärt, die Sicherheiten würden in getrennten MPC-Verwahr-Wallets gehalten und nicht weiterverpfändet. Decrypt beschreibt den Dienst als breiteren Kreditzugang für Anleger mit vielen Kryptoassets, aber wenig Liquidität."
+    },
+    "fr": {
+      "title": "Figure élargit les prêts garantis par Bitcoin et Ethereum au grand public",
+      "excerpt": "Selon Decrypt le 13 mai 2026, Figure développe des prêts adossés aux cryptos permettant aux investisseurs américains d’utiliser BTC, ETH ou SOL en garantie.",
+      "body": "Selon Decrypt le 13 mai 2026, la fintech Figure Technologies Solutions propose via Figure Markets des prêts adossés aux cryptomonnaies aux investisseurs particuliers américains. Les utilisateurs peuvent déposer du Bitcoin, de l’Ethereum ou du Solana en garantie et obtenir des liquidités tout en conservant leur exposition aux actifs numériques. L’emprunt peut atteindre 75% de la valeur du collatéral; jusqu’à 50% de LTV, le taux démarre à 8,91%, avec un APR de 9,999%, et jusqu’à 75% de LTV, il est de 11,50%, avec un APR de 12,62%. Figure indique que les garanties sont conservées dans des portefeuilles MPC séparés et ne sont pas réutilisées. Decrypt y voit un accès au crédit élargi pour les investisseurs riches en crypto mais pauvres en liquidités."
+    },
+    "ar": {
+      "title": "Figure توسع قروض ضمان بيتكوين وإيثريوم للمستخدمين العاديين في أمريكا",
+      "excerpt": "وفق Decrypt في 13 مايو 2026، توسع Figure قروضا مدعومة بالعملات المشفرة تتيح لمستثمري الولايات المتحدة اقتراض النقد بضمان BTC أو ETH أو SOL.",
+      "body": "وفق تقرير Decrypt في 13 مايو 2026، تقدم شركة التكنولوجيا المالية Figure Technologies Solutions قروضا بضمان العملات المشفرة للمستثمرين الأفراد في الولايات المتحدة عبر Figure Markets. يستطيع المستخدمون رهن بيتكوين أو إيثريوم أو سولانا للحصول على نقد مع البقاء معرضين لاستثماراتهم المشفرة. يصل حد الاقتراض إلى 75% من قيمة الضمان؛ وتبدأ الفائدة عند 8.91% مع APR قدره 9.999% للقروض حتى 50% LTV، وتبلغ 11.50% مع APR قدره 12.62% حتى 75% LTV. وتقول Figure إن الضمانات تحفظ في محافظ MPC منفصلة ولا يعاد استخدامها كضمان. ووصفت Decrypt الخدمة بأنها توسع الوصول إلى الائتمان للمستثمرين الذين يملكون أصولا مشفرة كثيرة وسيولة نقدية محدودة."
+    },
+    "hi": {
+      "title": "Figure ने बिटकॉइन और ईथरियम गिरवी कर्ज आम निवेशकों तक बढ़ाया",
+      "excerpt": "Decrypt के अनुसार 13 मई 2026 को Figure अमेरिकी आम निवेशकों के लिए BTC, ETH या SOL गिरवी रखकर नकद उधार लेने वाली क्रिप्टो-समर्थित कर्ज सेवा बढ़ा रही है।",
+      "body": "Decrypt की 13 मई 2026 की रिपोर्ट के अनुसार, फिनटेक कंपनी Figure Technologies Solutions, Figure Markets के जरिए अमेरिकी खुदरा निवेशकों को क्रिप्टो-समर्थित कर्ज दे रही है। उपयोगकर्ता बिटकॉइन, ईथरियम या सोलाना को गिरवी रखकर नकद ले सकते हैं और अपनी क्रिप्टो होल्डिंग में निवेशित रह सकते हैं। कर्ज सीमा गिरवी मूल्य के अधिकतम 75% तक है; 50% LTV तक दर 8.91% और APR 9.999% से शुरू होती है, जबकि 75% LTV तक दर 11.50% और APR 12.62% है। Figure का कहना है कि गिरवी संपत्ति अलग MPC कस्टडी वॉलेट में रखी जाती है और उसका पुनः गिरवीकरण नहीं होता। Decrypt ने इसे उन निवेशकों के लिए क्रेडिट पहुंच बढ़ाने वाला कदम बताया जिनके पास क्रिप्टो संपत्ति अधिक है लेकिन नकदी कम है।"
+    },
+    "id": {
+      "title": "Figure Perluas Pinjaman Jaminan Bitcoin dan Ethereum untuk Pengguna Umum",
+      "excerpt": "Menurut Decrypt pada 13 Mei 2026, Figure memperluas pinjaman berbasis kripto agar investor ritel AS bisa meminjam uang tunai dengan jaminan BTC, ETH, atau SOL.",
+      "body": "Menurut Decrypt pada 13 Mei 2026, perusahaan fintech Figure Technologies Solutions menawarkan pinjaman berbasis kripto kepada investor ritel Amerika Serikat melalui Figure Markets. Pengguna dapat menjaminkan Bitcoin, Ethereum, atau Solana untuk memperoleh uang tunai sambil tetap mempertahankan eksposur pada aset kripto. Batas pinjaman mencapai 75% dari nilai jaminan; untuk LTV hingga 50%, bunga mulai 8,91% dengan APR 9,999%, sedangkan untuk LTV hingga 75% bunganya 11,50% dengan APR 12,62%. Figure menyatakan jaminan disimpan dalam dompet kustodi MPC terpisah dan tidak digunakan kembali sebagai agunan. Decrypt menggambarkan layanan ini sebagai cara memperluas akses kredit bagi investor yang kaya aset kripto tetapi minim likuiditas."
+    }
+  }
+}
