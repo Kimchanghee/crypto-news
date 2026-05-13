@@ -1,5 +1,230 @@
 [
   {
+    "id": "d39f8a93aadb",
+    "slug": "senate-banking-panel-releases-clarity-act-draft-ahead-of-thu-310657",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T02:04:02.273Z",
+    "updatedAt": "2026-05-13T02:04:02.273Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367533/senate-banking-panel-releases-clarity-act-draft-ahead-of-thursday-markup",
+    "canonicalUrl": "https://decrypt.co/367533/senate-banking-panel-releases-clarity-act-draft-ahead-of-thursday-markup",
+    "titleFingerprint": "d6a389fab086289835e58f217cbad64c2ff4c1ab",
+    "dedupKeys": [
+      "d39f8a93aadb1d685cc6c9cc5e9852e9d220568f",
+      "d6a389fab086289835e58f217cbad64c2ff4c1ab",
+      "47c66fe62a56f6ab43f48a40fad98013af07c305"
+    ],
+    "imageUrl": "/images/articles/d39f8a93aadb.png",
+    "i18n": {
+      "ko": {
+        "title": "미 상원 은행위 CLARITY Act 초안 공개, 비트코인·이더리움 증권법 제외 조항",
+        "excerpt": "미 상원 은행위원회 패널이 목요일 마크업을 앞두고 CLARITY Act 초안을 공개했으며, 비트코인과 이더리움을 증권법에서 영구 제외할 수 있는 조항이 담겼다.",
+        "body": "미 상원 은행위원회 패널은 목요일 예정된 마크업을 앞두고 CLARITY Act 초안 문구를 공개했다. 공개된 초안에는 비트코인과 이더리움을 증권법 적용 대상에서 영구적으로 제외할 수 있는 조항이 포함된 것으로 전해졌다. 이번 문서는 암호화폐 시장 규제 논의에서 두 주요 자산의 법적 지위를 다루는 내용이라는 점에서 주목된다. 다만 원문 정보상 해당 내용은 초안 단계의 조항이며, 목요일 마크업 과정에서 논의될 예정이다. decrypt.co는 이 초안 문구에 비트코인과 이더리움의 증권법 면제 가능성이 담겼다고 보도했다."
+      },
+      "en": {
+        "title": "CLARITY Act Draft Puts Bitcoin, Ethereum Securities Exemption in Focus",
+        "excerpt": "The Senate Banking panel released a CLARITY Act draft ahead of Thursday’s markup, with language that could permanently exempt Bitcoin and Ethereum from securities law.",
+        "body": "The Senate Banking panel released draft text of the CLARITY Act ahead of a markup scheduled for Thursday. The draft reportedly includes provisions that could permanently exempt Bitcoin and Ethereum from the reach of securities law. The document is drawing attention because it addresses the legal status of two major crypto assets in the broader regulatory debate. Based on the original information, the language remains part of a draft and is set to be discussed during Thursday’s markup. decrypt.co reported that the draft text contains potential securities law exemptions for Bitcoin and Ethereum."
+      },
+      "ja": {
+        "title": "CLARITY Act草案公開、ビットコインとイーサリアムの証券法除外に注目",
+        "excerpt": "米上院銀行委員会のパネルは木曜日のマークアップを前にCLARITY Act草案を公開し、ビットコインとイーサリアムを証券法から恒久的に除外し得る条項が含まれた。",
+        "body": "米上院銀行委員会のパネルは、木曜日に予定されるマークアップを前に、CLARITY Actの草案文を公開した。公開された草案には、ビットコインとイーサリアムを証券法の適用対象から恒久的に除外し得る条項が含まれていると伝えられている。この文書は、暗号資産市場の規制をめぐる議論の中で、主要2資産の法的位置付けを扱う内容として注目される。ただし原文情報によれば、内容は草案段階の条項であり、木曜日のマークアップで議論される予定だ。decrypt.coは、この草案文にビットコインとイーサリアムの証券法免除の可能性が盛り込まれたと報じた。"
+      },
+      "zh": {
+        "title": "CLARITY Act草案公布，比特币与以太坊证券法豁免受关注",
+        "excerpt": "美国参议院银行委员会小组在周四审议前公布CLARITY Act草案，其中包含可能让比特币和以太坊永久免受证券法约束的条款。",
+        "body": "美国参议院银行委员会小组在周四计划进行的审议前公布了CLARITY Act草案文本。据报道，公开的草案包含相关条款，可能使比特币和以太坊永久不受证券法适用范围约束。该文件之所以受到关注，是因为它在加密货币市场监管讨论中涉及两大主要资产的法律地位。不过，根据原文信息，这些内容仍属于草案阶段的条款，并将在周四的审议过程中讨论。decrypt.co报道称，该草案文本包含比特币和以太坊可能获得证券法豁免的内容。"
+      },
+      "es": {
+        "title": "Borrador de CLARITY Act centra la exención bursátil de Bitcoin y Ethereum",
+        "excerpt": "El panel bancario del Senado publicó el borrador del CLARITY Act antes del markup del jueves, con cláusulas que podrían excluir para siempre a Bitcoin y Ethereum de la ley de valores.",
+        "body": "El panel bancario del Senado de Estados Unidos publicó el texto preliminar del CLARITY Act antes del markup previsto para el jueves. Según la información disponible, el borrador incluye disposiciones que podrían excluir de forma permanente a Bitcoin y Ethereum del alcance de la ley de valores. El documento atrae atención porque aborda el estatus legal de dos activos principales dentro del debate regulatorio sobre el mercado cripto. No obstante, el texto citado sigue siendo una propuesta en fase de borrador y será tratado durante el markup del jueves. decrypt.co informó que el borrador contiene la posible exención de Bitcoin y Ethereum frente a la ley de valores."
+      },
+      "pt": {
+        "title": "CLARITY Act traz possível isenção de valores para Bitcoin e Ethereum",
+        "excerpt": "O painel bancário do Senado divulgou o rascunho do CLARITY Act antes da marcação de quinta-feira, com cláusulas que poderiam excluir Bitcoin e Ethereum da lei de valores mobiliários.",
+        "body": "O painel bancário do Senado dos Estados Unidos divulgou o texto preliminar do CLARITY Act antes da marcação prevista para quinta-feira. O rascunho, segundo as informações publicadas, inclui disposições que poderiam excluir permanentemente Bitcoin e Ethereum da aplicação da lei de valores mobiliários. O documento chama atenção por tratar do status legal de dois dos principais ativos cripto no debate regulatório do setor. Ainda assim, conforme a informação original, o conteúdo permanece em fase de rascunho e deve ser discutido durante a marcação de quinta-feira. A decrypt.co informou que o texto contém a possibilidade de isenção para Bitcoin e Ethereum."
+      },
+      "de": {
+        "title": "CLARITY-Act-Entwurf rückt Bitcoin- und Ethereum-Ausnahme in den Fokus",
+        "excerpt": "Das Bankengremium des US-Senats veröffentlichte vor dem Markup am Donnerstag einen CLARITY-Act-Entwurf mit Passagen, die Bitcoin und Ethereum dauerhaft vom Wertpapierrecht ausnehmen könnten.",
+        "body": "Das Bankengremium des US-Senats hat vor dem für Donnerstag geplanten Markup den Entwurfstext des CLARITY Act veröffentlicht. Der veröffentlichte Entwurf enthält Berichten zufolge Bestimmungen, die Bitcoin und Ethereum dauerhaft von der Anwendung des Wertpapierrechts ausnehmen könnten. Das Dokument findet Beachtung, weil es im Rahmen der Krypto-Regulierungsdebatte den rechtlichen Status zweier wichtiger Vermögenswerte behandelt. Nach den vorliegenden Originalangaben handelt es sich jedoch weiterhin um Formulierungen in einem Entwurfsstadium, die im Markup am Donnerstag diskutiert werden sollen. decrypt.co berichtete, der Entwurf enthalte mögliche Wertpapierrechts-Ausnahmen für Bitcoin und Ethereum."
+      },
+      "fr": {
+        "title": "Le projet CLARITY Act met l’exemption de Bitcoin et Ethereum au premier plan",
+        "excerpt": "Le panel bancaire du Sénat a publié un projet de CLARITY Act avant l’examen de jeudi, avec des dispositions pouvant exclure durablement Bitcoin et Ethereum du droit des valeurs mobilières.",
+        "body": "Le panel bancaire du Sénat américain a publié le texte provisoire du CLARITY Act avant le markup prévu jeudi. Selon les informations disponibles, ce projet contient des dispositions qui pourraient exclure de manière permanente Bitcoin et Ethereum du champ du droit des valeurs mobilières. Le document retient l’attention car il traite du statut juridique de deux actifs majeurs dans le débat sur la régulation du marché crypto. Toutefois, d’après les éléments d’origine, ces formulations restent au stade de projet et doivent être discutées lors du markup de jeudi. decrypt.co a rapporté que le texte inclut une possible exemption du droit des valeurs mobilières pour Bitcoin et Ethereum."
+      },
+      "ar": {
+        "title": "مسودة CLARITY Act تبرز احتمال إعفاء بيتكوين وإيثريوم من قوانين الأوراق المالية",
+        "excerpt": "نشرت لجنة الشؤون المصرفية في مجلس الشيوخ مسودة CLARITY Act قبل جلسة التعديل يوم الخميس، وتتضمن بنودا قد تستثني بيتكوين وإيثريوم نهائيا من قانون الأوراق المالية.",
+        "body": "نشرت لجنة الشؤون المصرفية في مجلس الشيوخ الأمريكي نص مسودة CLARITY Act قبل جلسة التعديل المقررة يوم الخميس. وبحسب المعلومات المنشورة، تتضمن المسودة بنودا قد تستثني بيتكوين وإيثريوم بشكل دائم من نطاق تطبيق قانون الأوراق المالية. يلفت هذا النص الانتباه لأنه يتناول الوضع القانوني لاثنين من أبرز الأصول المشفرة ضمن نقاش تنظيم سوق العملات المشفرة. ومع ذلك، ووفقا للمعلومات الأصلية، لا تزال هذه البنود في مرحلة المسودة وستكون موضع نقاش خلال جلسة الخميس. وذكرت decrypt.co أن نص المسودة يتضمن إمكانية إعفاء بيتكوين وإيثريوم من قانون الأوراق المالية."
+      },
+      "hi": {
+        "title": "CLARITY Act मसौदे में Bitcoin, Ethereum को प्रतिभूति कानून से छूट पर ध्यान",
+        "excerpt": "सीनेट बैंकिंग पैनल ने गुरुवार की मार्कअप प्रक्रिया से पहले CLARITY Act मसौदा जारी किया, जिसमें Bitcoin और Ethereum को प्रतिभूति कानून से स्थायी छूट मिल सकने वाले प्रावधान हैं।",
+        "body": "अमेरिकी सीनेट बैंकिंग पैनल ने गुरुवार को प्रस्तावित मार्कअप से पहले CLARITY Act का मसौदा पाठ जारी किया। उपलब्ध जानकारी के अनुसार, इस मसौदे में ऐसे प्रावधान शामिल हैं जो Bitcoin और Ethereum को प्रतिभूति कानून के दायरे से स्थायी रूप से बाहर कर सकते हैं। यह दस्तावेज इसलिए ध्यान खींच रहा है क्योंकि यह क्रिप्टो बाजार के नियामकीय विमर्श में दो प्रमुख परिसंपत्तियों की कानूनी स्थिति से जुड़ा है। हालांकि मूल जानकारी के आधार पर ये प्रावधान अभी मसौदा चरण में हैं और गुरुवार की मार्कअप प्रक्रिया में इन पर चर्चा होनी है। decrypt.co ने बताया कि मसौदा पाठ में Bitcoin और Ethereum के लिए प्रतिभूति कानून से संभावित छूट शामिल है।"
+      },
+      "id": {
+        "title": "Draf CLARITY Act Soroti Pengecualian Sekuritas Bitcoin dan Ethereum",
+        "excerpt": "Panel Perbankan Senat merilis draf CLARITY Act menjelang markup Kamis, dengan ketentuan yang dapat mengecualikan Bitcoin dan Ethereum secara permanen dari hukum sekuritas.",
+        "body": "Panel Perbankan Senat Amerika Serikat merilis teks draf CLARITY Act menjelang markup yang dijadwalkan pada Kamis. Draf yang dipublikasikan itu dilaporkan memuat ketentuan yang dapat mengecualikan Bitcoin dan Ethereum secara permanen dari penerapan hukum sekuritas. Dokumen ini menjadi perhatian karena membahas status hukum dua aset utama dalam perdebatan regulasi pasar kripto. Namun, berdasarkan informasi asli, ketentuan tersebut masih berada pada tahap draf dan akan dibahas dalam proses markup Kamis. decrypt.co melaporkan bahwa teks draf itu memuat kemungkinan pengecualian hukum sekuritas bagi Bitcoin dan Ethereum."
+      }
+    }
+  },
+  {
+    "id": "3ec0a045b1e5",
+    "slug": "morning-minute-circle-stock-soars-after-q1-beat-222m-arc-rai-556714",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T02:02:52.555Z",
+    "updatedAt": "2026-05-13T02:02:52.555Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367530/morning-minute-circle-stock-soars-after-q1-beat-222m-arc-raise",
+    "canonicalUrl": "https://decrypt.co/367530/morning-minute-circle-stock-soars-after-q1-beat-222m-arc-raise",
+    "titleFingerprint": "25395fdd1634162b0d166966c7ba3998feb95fcb",
+    "dedupKeys": [
+      "3ec0a045b1e5b245af6b4aa66533dc63ebdbc865",
+      "25395fdd1634162b0d166966c7ba3998feb95fcb",
+      "ef8aeb618c436465fad4d54c55267e3a14acf842"
+    ],
+    "imageUrl": "/images/articles/3ec0a045b1e5.png",
+    "i18n": {
+      "ko": {
+        "title": "Circle 주가 급등, 1분기 실적 호조와 Arc 2.22억달러 조달 주목",
+        "excerpt": "Circle이 1분기 실적에서 시장 기대를 웃돌고 새 Arc 블록체인을 위해 2억2200만달러를 조달하면서 주가가 급등했다. Michael Saylor의 비트코인 매각 설명도 함께 전해졌다.",
+        "body": "Circle이 1분기 실적 발표에서 기대를 웃도는 결과를 내놓고 새 Arc 블록체인을 위한 2억2200만달러 규모의 자금 조달을 알리면서 주가가 급등했다. 이번 소식은 스테이블코인 발행사 Circle의 실적 개선과 신규 블록체인 프로젝트 Arc에 대한 자본 유입이 동시에 확인됐다는 점에서 시장의 관심을 끌었다. 같은 보도에서는 Michael Saylor가 어떤 방식과 이유로 비트코인을 매각할 수 있는지도 설명했다. 실적 호조와 Arc 자금 조달은 Circle의 사업 확장 기대를 키우는 요인으로 해석된다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Circle Stock Jumps as Q1 Beat and $222M Arc Raise Draw Attention",
+        "excerpt": "Circle’s stock surged after the company topped Q1 earnings expectations and raised $222 million for its new Arc blockchain, while Michael Saylor explained how and why he would sell Bitcoin.",
+        "body": "Circle’s stock jumped after the company reported first-quarter results that beat expectations and announced a $222 million capital raise for its new Arc blockchain. The update drew market attention because it combined stronger earnings from the stablecoin issuer with fresh funding for Arc, its new blockchain project. The same report also noted that Michael Saylor explained how and why he would sell Bitcoin. Circle’s earnings beat and Arc financing are being viewed as factors that could support expectations for further business expansion. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "Circle株が急騰、1Q好決算とArc向け2.22億ドル調達に注目",
+        "excerpt": "Circleは第1四半期決算で市場予想を上回り、新たなArcブロックチェーン向けに2億2200万ドルを調達したことで株価が急騰した。Michael Saylorのビットコイン売却説明も伝えられた。",
+        "body": "Circleは第1四半期決算で市場予想を上回る結果を発表し、新たなArcブロックチェーンのために2億2200万ドルの資金調達を明らかにしたことで株価が急騰した。今回のニュースは、ステーブルコイン発行企業であるCircleの業績改善と、新規ブロックチェーンプロジェクトArcへの資本流入が同時に確認された点で市場の関心を集めた。同じ報道では、Michael Saylorがどのような方法と理由でビットコインを売却し得るのかも説明した。好決算とArc資金調達は、Circleの事業拡大期待を高める要因と受け止められている。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "Circle股价大涨，Q1业绩超预期与Arc融资2.22亿美元受关注",
+        "excerpt": "Circle一季度业绩超出市场预期，并为新的Arc区块链筹集2.22亿美元，推动股价大涨；报道还提到Michael Saylor解释了他会如何以及为何出售比特币。",
+        "body": "Circle公布第一季度业绩超出预期，并宣布为新的Arc区块链筹集2.22亿美元资金后，股价大幅上涨。这一消息受到市场关注，因为它同时显示了稳定币发行商Circle业绩改善，以及其新区块链项目Arc获得新的资本支持。同一报道还提到，Michael Saylor解释了他可能如何以及为何出售比特币。业绩超预期与Arc融资被视为可能支撑Circle业务扩张预期的因素。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Acciones de Circle suben tras superar Q1 y recaudar $222M para Arc",
+        "excerpt": "Circle superó las expectativas de resultados del primer trimestre y recaudó 222 millones de dólares para su nueva blockchain Arc, impulsando sus acciones, mientras Michael Saylor explicó cómo y por qué vendería Bitcoin.",
+        "body": "Las acciones de Circle subieron con fuerza después de que la compañía presentara resultados del primer trimestre por encima de las expectativas y anunciara una recaudación de 222 millones de dólares para su nueva blockchain Arc. La noticia atrajo atención porque combinó una mejora en el desempeño de la emisora de stablecoins con nuevo capital para su proyecto blockchain Arc. El mismo reporte también señaló que Michael Saylor explicó cómo y por qué vendería Bitcoin. El buen resultado trimestral y la financiación de Arc se interpretan como factores que pueden reforzar las expectativas de expansión del negocio de Circle. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Ações da Circle sobem com Q1 acima do esperado e US$222 mi para Arc",
+        "excerpt": "A Circle superou as expectativas no resultado do primeiro trimestre e levantou US$222 milhões para sua nova blockchain Arc, impulsionando as ações, enquanto Michael Saylor explicou como e por que venderia Bitcoin.",
+        "body": "As ações da Circle dispararam depois que a empresa divulgou resultados do primeiro trimestre acima das expectativas e anunciou uma captação de US$222 milhões para sua nova blockchain Arc. A notícia chamou atenção porque combinou melhora no desempenho da emissora de stablecoins com novo capital para o projeto Arc. A mesma reportagem também informou que Michael Saylor explicou como e por que venderia Bitcoin. O resultado positivo e o financiamento da Arc são vistos como fatores que podem sustentar expectativas de expansão dos negócios da Circle. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Circle-Aktie springt nach Q1-Überraschung und $222 Mio. für Arc",
+        "excerpt": "Circle übertraf im ersten Quartal die Gewinnerwartungen und sammelte 222 Millionen Dollar für die neue Arc-Blockchain ein, was die Aktie steigen ließ; zugleich erklärte Michael Saylor, wie und warum er Bitcoin verkaufen würde.",
+        "body": "Die Circle-Aktie stieg deutlich, nachdem das Unternehmen Ergebnisse für das erste Quartal vorlegte, die die Erwartungen übertrafen, und eine Kapitalaufnahme von 222 Millionen Dollar für seine neue Arc-Blockchain bekanntgab. Die Meldung erhielt Aufmerksamkeit, weil sie bessere Zahlen des Stablecoin-Emittenten mit frischem Kapital für das Blockchain-Projekt Arc verband. Im selben Bericht erklärte Michael Saylor außerdem, wie und warum er Bitcoin verkaufen würde. Der Ergebnisanstieg und die Arc-Finanzierung gelten als Faktoren, die Erwartungen an eine weitere Geschäftsausweitung von Circle stützen können. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "L’action Circle bondit après un T1 solide et 222 M$ levés pour Arc",
+        "excerpt": "Circle a dépassé les attentes au premier trimestre et levé 222 millions de dollars pour sa nouvelle blockchain Arc, faisant bondir son action, tandis que Michael Saylor a expliqué comment et pourquoi il vendrait du Bitcoin.",
+        "body": "L’action Circle a fortement progressé après que l’entreprise a publié des résultats du premier trimestre supérieurs aux attentes et annoncé une levée de 222 millions de dollars pour sa nouvelle blockchain Arc. L’information a attiré l’attention car elle associe l’amélioration des performances de l’émetteur de stablecoin à l’arrivée de nouveaux capitaux pour son projet Arc. Le même article indique aussi que Michael Saylor a expliqué comment et pourquoi il vendrait du Bitcoin. Le bon trimestre et le financement d’Arc sont perçus comme des éléments pouvant soutenir les attentes d’expansion de Circle. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "سهم Circle يقفز بعد نتائج الربع الأول وتمويل Arc بـ222 مليون دولار",
+        "excerpt": "تجاوزت Circle توقعات نتائج الربع الأول وجمعت 222 مليون دولار لبلوكتشين Arc الجديدة، ما دفع سهمها للصعود، بينما شرح Michael Saylor كيف ولماذا قد يبيع بيتكوين.",
+        "body": "قفز سهم Circle بعدما أعلنت الشركة نتائج للربع الأول جاءت أعلى من التوقعات، وكشفت عن جمع 222 مليون دولار لتمويل بلوكتشين Arc الجديدة. لفت الخبر انتباه السوق لأنه جمع بين تحسن أداء شركة إصدار العملات المستقرة Circle وتدفق رأس مال جديد إلى مشروعها الجديد Arc. وذكر التقرير نفسه أن Michael Saylor شرح كيف ولماذا قد يبيع بيتكوين. ويُنظر إلى تفوق النتائج وتمويل Arc كعاملين قد يدعمان توقعات توسع أعمال Circle. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Circle शेयर चढ़ा, Q1 नतीजे बेहतर और Arc के लिए $222M फंडिंग",
+        "excerpt": "Circle ने पहली तिमाही के नतीजों में उम्मीदों को पीछे छोड़ा और नई Arc ब्लॉकचेन के लिए 222 मिलियन डॉलर जुटाए, जिससे शेयर चढ़ा; Michael Saylor ने यह भी बताया कि वे Bitcoin कैसे और क्यों बेचेंगे।",
+        "body": "Circle का शेयर तब तेज चढ़ा जब कंपनी ने पहली तिमाही के ऐसे नतीजे घोषित किए जो उम्मीदों से बेहतर रहे और अपनी नई Arc ब्लॉकचेन के लिए 222 मिलियन डॉलर की पूंजी जुटाने की घोषणा की। यह खबर इसलिए चर्चा में रही क्योंकि इसमें स्टेबलकॉइन जारीकर्ता Circle के बेहतर प्रदर्शन और उसके नए ब्लॉकचेन प्रोजेक्ट Arc के लिए ताजा पूंजी, दोनों बातें सामने आईं। इसी रिपोर्ट में Michael Saylor ने यह भी समझाया कि वे Bitcoin कैसे और क्यों बेच सकते हैं। मजबूत नतीजे और Arc की फंडिंग Circle के कारोबार विस्तार की उम्मीदों को सहारा देने वाले कारक माने जा रहे हैं। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Saham Circle Melonjak Usai Q1 Lampaui Ekspektasi dan Arc Raup $222M",
+        "excerpt": "Circle melampaui ekspektasi laba kuartal pertama dan menggalang 222 juta dolar untuk blockchain baru Arc, membuat sahamnya melonjak, sementara Michael Saylor menjelaskan bagaimana dan mengapa ia akan menjual Bitcoin.",
+        "body": "Saham Circle melonjak setelah perusahaan melaporkan hasil kuartal pertama yang melampaui ekspektasi dan mengumumkan penggalangan dana 222 juta dolar untuk blockchain barunya, Arc. Kabar ini menarik perhatian pasar karena menggabungkan perbaikan kinerja penerbit stablecoin Circle dengan masuknya modal baru untuk proyek blockchain Arc. Laporan yang sama juga menyebut Michael Saylor menjelaskan bagaimana dan mengapa ia akan menjual Bitcoin. Kinerja yang lebih baik dan pendanaan Arc dipandang sebagai faktor yang dapat mendukung ekspektasi ekspansi bisnis Circle. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "b9eb9e587a02",
+    "slug": "north-korean-crypto-hackers-stole-21b-in-2025-60-of-all-loss-331411",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T02:01:57.195Z",
+    "updatedAt": "2026-05-13T02:01:57.195Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367527/north-korean-crypto-hackers-stole-2-1b-in-2025-60-of-all-losses-certik",
+    "canonicalUrl": "https://decrypt.co/367527/north-korean-crypto-hackers-stole-2-1b-in-2025-60-of-all-losses-certik",
+    "titleFingerprint": "7f62757cbffe95d26cdffa9e96031097f2aed734",
+    "dedupKeys": [
+      "b9eb9e587a02fd81143e4b007ec449917e867cc8",
+      "7f62757cbffe95d26cdffa9e96031097f2aed734",
+      "d112a7cf3af7cae8fb44e5a59bd7c2a23b5feb3d"
+    ],
+    "imageUrl": "/images/articles/b9eb9e587a02.jpg",
+    "i18n": {
+      "ko": {
+        "title": "북한 크립토 해커, 2025년 21억달러 탈취…전체 피해 60%",
+        "excerpt": "CertiK 분석에 따르면 2025년 북한 연계 크립토 해커가 21억달러를 훔쳐 전체 손실의 60%를 차지했으며, 국가 지원 조직이 크립토 범죄를 주도하고 있다.",
+        "body": "2025년 북한 연계 크립토 해커들이 21억달러를 탈취해 전체 크립토 손실의 60%를 차지했다는 CertiK 분석이 나왔다. 이번 분석은 국가 지원 조직이 크립토 범죄의 중심으로 부상했음을 보여준다. 이들은 정교한 크로스체인 네트워크를 활용해 훔친 자금을 세탁하며, 피해 규모는 수십억달러에 이른다. 관련 수치는 단일 해커 집단의 문제가 아니라 거래소, 지갑, 브리지 등 업계 전반의 보안 부담이 커졌다는 점을 시사한다. 향후 크로스체인 이동 경로 추적과 자금세탁 대응이 핵심 과제로 떠오를 전망이다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "North Korean Crypto Hackers Took $2.1B in 2025, CertiK Says",
+        "excerpt": "CertiK says North Korea-linked crypto hackers stole $2.1 billion in 2025, making up 60% of all losses as state-backed groups increasingly dominate crypto crime.",
+        "body": "North Korea-linked crypto hackers stole $2.1 billion in 2025, accounting for 60% of all crypto losses, according to CertiK analysis. The findings show that state-sponsored groups have moved to the center of crypto crime. These actors use sophisticated cross-chain networks to launder stolen funds, with the scale reaching billions of dollars. The figures suggest the issue is not limited to one hacker group but reflects rising security pressure across exchanges, wallets and bridges. Tracking cross-chain movements and responding to money laundering are expected to become key priorities. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "北朝鮮系暗号資産ハッカー、2025年に21億ドル窃取",
+        "excerpt": "CertiKの分析によると、北朝鮮系の暗号資産ハッカーは2025年に21億ドルを盗み、全損失の60%を占めた。国家支援組織が犯罪を主導している。",
+        "body": "CertiKの分析によると、北朝鮮系の暗号資産ハッカーは2025年に21億ドルを盗み、暗号資産全体の損失の60%を占めた。今回の分析は、国家支援組織が暗号資産犯罪の中心に浮上していることを示している。これらの組織は高度なクロスチェーンネットワークを使って盗んだ資金を洗浄し、その規模は数十億ドルに達する。数値は、問題が単一のハッカー集団にとどまらず、取引所、ウォレット、ブリッジなど業界全体のセキュリティ負担が増していることを示唆する。今後はクロスチェーン移動の追跡と資金洗浄対策が重要課題となる見通しだ。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "朝鲜加密黑客2025年窃取21亿美元，占损失60%",
+        "excerpt": "CertiK分析称，朝鲜相关加密黑客2025年窃取21亿美元，占全部损失的60%，国家支持组织正主导加密犯罪并跨链洗钱。",
+        "body": "CertiK分析显示，2025年朝鲜相关加密黑客窃取21亿美元，占全部加密损失的60%。这一分析表明，国家支持组织已成为加密犯罪的核心力量。这些组织利用复杂的跨链网络清洗被盗资金，涉及金额达到数十亿美元。相关数据说明，问题并不限于单一黑客团体，而是意味着交易所、钱包和跨链桥等整个行业面临更高安全压力。未来，追踪跨链资金流动和应对洗钱活动将成为关键任务。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Hackers cripto de Corea del Norte robaron $2.100M en 2025",
+        "excerpt": "Según CertiK, hackers cripto vinculados a Corea del Norte robaron $2.100 millones en 2025, el 60% de todas las pérdidas, mientras grupos estatales dominan el delito cripto.",
+        "body": "Hackers cripto vinculados a Corea del Norte robaron $2.100 millones en 2025, equivalentes al 60% de todas las pérdidas cripto, según un análisis de CertiK. El informe muestra que los grupos patrocinados por Estados han pasado al centro del delito cripto. Estos actores usan redes cross-chain sofisticadas para lavar fondos robados, con montos que alcanzan miles de millones de dólares. Las cifras sugieren que el problema no se limita a un solo grupo, sino que aumenta la presión de seguridad sobre exchanges, billeteras y puentes. Rastrear movimientos cross-chain y responder al lavado será clave. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Hackers cripto da Coreia do Norte roubaram US$2,1 bi em 2025",
+        "excerpt": "A CertiK afirma que hackers cripto ligados à Coreia do Norte roubaram US$2,1 bilhões em 2025, 60% de todas as perdas, com grupos estatais dominando o crime cripto.",
+        "body": "Hackers cripto ligados à Coreia do Norte roubaram US$2,1 bilhões em 2025, o equivalente a 60% de todas as perdas cripto, segundo análise da CertiK. O levantamento mostra que grupos patrocinados por Estados passaram a ocupar o centro do crime cripto. Esses agentes usam redes cross-chain sofisticadas para lavar fundos roubados, em escala de bilhões de dólares. Os números indicam que o problema não se limita a um único grupo hacker, mas amplia a pressão de segurança sobre exchanges, carteiras e bridges. Rastrear fluxos cross-chain e combater lavagem de dinheiro devem ser prioridades. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Nordkoreas Krypto-Hacker stahlen 2025 2,1 Mrd. Dollar",
+        "excerpt": "Laut CertiK stahlen nordkoreanische Krypto-Hacker 2025 2,1 Mrd. Dollar und verursachten 60% aller Verluste, während staatlich gestützte Gruppen Kryptokriminalität dominieren.",
+        "body": "Nordkorea-nahe Krypto-Hacker stahlen 2025 2,1 Milliarden Dollar und standen damit für 60% aller Krypto-Verluste, wie eine Analyse von CertiK zeigt. Die Auswertung macht deutlich, dass staatlich unterstützte Gruppen ins Zentrum der Kryptokriminalität gerückt sind. Sie nutzen ausgefeilte Cross-Chain-Netzwerke, um gestohlene Gelder zu waschen, deren Umfang Milliarden Dollar erreicht. Die Zahlen deuten darauf hin, dass es nicht nur um eine einzelne Hackergruppe geht, sondern um wachsenden Sicherheitsdruck auf Börsen, Wallets und Bridges. Cross-Chain-Tracking und Geldwäscheabwehr werden zentrale Aufgaben. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Des hackers crypto nord-coréens ont volé 2,1 Md$ en 2025",
+        "excerpt": "Selon CertiK, des hackers crypto liés à la Corée du Nord ont volé 2,1 milliards de dollars en 2025, soit 60% des pertes, alors que les groupes étatiques dominent ce crime.",
+        "body": "Des hackers crypto liés à la Corée du Nord ont volé 2,1 milliards de dollars en 2025, soit 60% de toutes les pertes crypto, selon une analyse de CertiK. Ces données montrent que les groupes soutenus par des États occupent désormais une place centrale dans la criminalité crypto. Ils utilisent des réseaux cross-chain sophistiqués pour blanchir les fonds volés, avec des montants qui atteignent plusieurs milliards de dollars. Ces chiffres suggèrent que le problème dépasse un seul groupe et accroît la pression de sécurité sur les exchanges, portefeuilles et bridges. Le suivi cross-chain et la lutte contre le blanchiment deviennent prioritaires. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "قراصنة كريبتو كوريون شماليون سرقوا 2.1 مليار دولار في 2025",
+        "excerpt": "تقول CertiK إن قراصنة كريبتو مرتبطين بكوريا الشمالية سرقوا 2.1 مليار دولار في 2025، بما يعادل 60% من كل الخسائر، مع تصدر جماعات مدعومة من دول للجريمة.",
+        "body": "سرق قراصنة كريبتو مرتبطون بكوريا الشمالية 2.1 مليار دولار في 2025، ما يمثل 60% من إجمالي خسائر العملات المشفرة، وفق تحليل CertiK. ويظهر التحليل أن الجماعات المدعومة من دول أصبحت في صدارة جريمة الكريبتو. تستخدم هذه الجهات شبكات كروس تشين متقدمة لغسل الأموال المسروقة، بحجم يصل إلى مليارات الدولارات. وتشير الأرقام إلى أن المسألة لا تقتصر على جماعة قرصنة واحدة، بل تعكس ضغطا أمنيا متزايدا على المنصات والمحافظ والجسور. ومن المتوقع أن يصبح تتبع حركة الأموال عبر السلاسل ومكافحة غسل الأموال أولوية رئيسية. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "उत्तर कोरियाई क्रिप्टो हैकर्स ने 2025 में $2.1 अरब चुराए",
+        "excerpt": "CertiK के अनुसार उत्तर कोरिया से जुड़े क्रिप्टो हैकर्स ने 2025 में $2.1 अरब चुराए, जो सभी नुकसानों का 60% है, जबकि राज्य समर्थित समूह क्रिप्टो अपराध में हावी हैं।",
+        "body": "CertiK के विश्लेषण के अनुसार, उत्तर कोरिया से जुड़े क्रिप्टो हैकर्स ने 2025 में $2.1 अरब चुराए, जो कुल क्रिप्टो नुकसानों का 60% है। यह विश्लेषण दिखाता है कि राज्य समर्थित समूह अब क्रिप्टो अपराध के केंद्र में आ गए हैं। ये समूह चोरी की गई रकम को धोने के लिए जटिल क्रॉस-चेन नेटवर्क का उपयोग करते हैं, और रकम अरबों डॉलर तक पहुंचती है। आंकड़े बताते हैं कि यह समस्या किसी एक हैकर समूह तक सीमित नहीं है, बल्कि एक्सचेंज, वॉलेट और ब्रिज सहित पूरे उद्योग पर सुरक्षा दबाव बढ़ा रही है। आगे क्रॉस-चेन गतिविधियों की ट्रैकिंग और मनी लॉन्ड्रिंग 대응 मुख्य प्राथमिकता होंगे। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Peretas Kripto Korea Utara Curi US$2,1 Miliar pada 2025",
+        "excerpt": "Menurut CertiK, peretas kripto terkait Korea Utara mencuri US$2,1 miliar pada 2025, 60% dari seluruh kerugian, saat kelompok negara makin mendominasi kejahatan kripto.",
+        "body": "Peretas kripto yang terkait Korea Utara mencuri US$2,1 miliar pada 2025, setara 60% dari seluruh kerugian kripto, menurut analisis CertiK. Temuan ini menunjukkan bahwa kelompok yang disponsori negara kini berada di pusat kejahatan kripto. Mereka memakai jaringan cross-chain yang canggih untuk mencuci dana curian, dengan skala mencapai miliaran dolar. Angka tersebut menunjukkan masalah ini bukan hanya soal satu kelompok peretas, tetapi tekanan keamanan yang meningkat di bursa, dompet, dan bridge. Pelacakan pergerakan cross-chain serta respons terhadap pencucian uang diperkirakan menjadi prioritas utama. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
     "id": "7e9f9eabaa9d",
     "slug": "ebay-rejects-gamestop39s-55-billion-offer-as-39neither-credi-789567",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Exodus Jual 1.000 Bitcoin untuk Danai Ekspansi Bisnis Pembayaran",
         "excerpt": "Perusahaan dompet kripto Exodus menjual aset kripto senilai US$73,2 juta hingga akhir kuartal I 2026 untuk memperkuat kas dan memperluas bisnis pembayaran.",
         "body": "Perusahaan dompet kripto Exodus menjual aset kripto senilai US$73,2 juta, termasuk 1.000 bitcoin, selama kuartal pertama 2026. Kepemilikan kas, setara kas, dan stablecoin perusahaan melonjak dari US$5,2 juta menjadi US$74,4 juta pada akhir kuartal. Penjualan ini bertujuan memperoleh dana untuk memperluas bisnis pembayaran. Exodus mengubah sebagian aset kriptonya menjadi kas untuk memperbesar fondasi infrastruktur pembayaran dan kegiatan terkait. Dalam jangka pendek, likuiditas meningkat tajam, sementara berkurangnya kepemilikan bitcoin menandai perubahan komposisi aset perusahaan. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "b93142236e65",
-    "slug": "bakkt-pivots-into-stablecoin-infrastructure-as-revenue-tumbl-189137",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T11:24:43.280Z",
-    "updatedAt": "2026-05-12T11:24:43.280Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/bakkt-pivots-into-stablecoin-infrastructure-as-revenue-tumbles-77-in-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/bakkt-pivots-into-stablecoin-infrastructure-as-revenue-tumbles-77-in-q1",
-    "titleFingerprint": "bd95399a28b6d811fd6360735eed74a8666fac2e",
-    "dedupKeys": [
-      "b93142236e65fea4e9cb2ced9838cc6faa381363",
-      "bd95399a28b6d811fd6360735eed74a8666fac2e",
-      "3d02714972d3f94f19bc7c746a752d0d87ee45d1"
-    ],
-    "imageUrl": "/images/articles/b93142236e65.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Bakkt, 1분기 매출 77% 급감에 스테이블코인 인프라로 전환",
-        "excerpt": "Bakkt는 1분기 암호화폐 거래량 감소로 매출이 77% 줄어 2억4,360만 달러를 기록했고, 주당 0.41달러 순손실을 냈다.",
-        "body": "Bakkt는 1분기 실적에서 암호화폐 거래량 감소 여파로 매출이 전년 대비 77% 급감한 2억4,360만 달러를 기록하고, 주당 0.41달러의 순손실을 냈다. 회사는 실적 부진 속에서 사업 초점을 스테이블코인 인프라로 전환하고 있다. 이번 수치는 낮아진 크립토 거래 활동이 Bakkt의 수익성에 직접적인 압박을 가했음을 보여준다. 향후 관건은 거래량 둔화가 이어지는 환경에서 스테이블코인 인프라 전략이 매출 기반을 보완할 수 있는지다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Bakkt Shifts to Stablecoin Infrastructure as Q1 Revenue Drops 77%",
-        "excerpt": "Bakkt reported Q1 revenue of $243.6 million, down 77% as crypto trading volumes fell, and posted a net loss of $0.41 per share.",
-        "body": "Bakkt reported first-quarter results showing revenue fell 77% to $243.6 million as cryptocurrency trading volumes declined, while the company posted a net loss of $0.41 per share. Amid the weaker performance, Bakkt is shifting its business focus toward stablecoin infrastructure. The figures show that lower crypto trading activity put direct pressure on Bakkt’s revenue and profitability. The key issue ahead is whether its stablecoin infrastructure strategy can support its revenue base if trading volumes remain subdued. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "Bakkt、1Q売上77%急減でステーブルコイン基盤へ転換",
-        "excerpt": "Bakktは暗号資産取引量の減少を受け、1Q売上が77%減の2億4,360万ドルとなり、1株当たり0.41ドルの純損失を計上した。",
-        "body": "Bakktは第1四半期決算で、暗号資産の取引量減少を背景に売上高が77%減の2億4,360万ドルとなり、1株当たり0.41ドルの純損失を計上した。業績低迷の中、同社は事業の重点をステーブルコイン・インフラへ移している。今回の数字は、低下した暗号資産取引活動がBakktの収益性に直接的な圧力をかけたことを示す。今後の焦点は、取引量の鈍化が続く環境でステーブルコイン基盤戦略が収益基盤を補えるかだ。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "Bakkt一季度营收骤降77%，转向稳定币基础设施",
-        "excerpt": "Bakkt一季度因加密货币交易量下降，营收减少77%至2.436亿美元，并录得每股0.41美元净亏损。",
-        "body": "Bakkt公布第一季度业绩显示，受加密货币交易量下降影响，营收同比下降77%至2.436亿美元，并录得每股0.41美元净亏损。在业绩承压之际，公司正将业务重心转向稳定币基础设施。这些数据表明，较低的加密交易活动直接压缩了Bakkt的收入和盈利能力。接下来的关键在于，如果交易量持续低迷，稳定币基础设施战略能否补充其收入基础。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "Bakkt gira a infraestructura de stablecoins tras caer 77% en ingresos",
-        "excerpt": "Bakkt informó que sus ingresos del 1T cayeron 77% a 243,6 millones de dólares por menor volumen cripto y registró una pérdida neta de 0,41 dólares por acción.",
-        "body": "Bakkt informó en sus resultados del primer trimestre que los ingresos cayeron 77% hasta 243,6 millones de dólares debido a menores volúmenes de negociación de criptomonedas, mientras registró una pérdida neta de 0,41 dólares por acción. En medio del débil desempeño, la compañía está trasladando su enfoque hacia la infraestructura de stablecoins. Las cifras muestran que la menor actividad de trading cripto presionó directamente sus ingresos y rentabilidad. La cuestión clave será si esta estrategia puede reforzar su base de ingresos si los volúmenes siguen bajos. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Bakkt migra para infraestrutura de stablecoins após receita cair 77%",
-        "excerpt": "A Bakkt registrou receita de US$ 243,6 milhões no 1º trimestre, queda de 77% com menores volumes cripto, e prejuízo líquido de US$ 0,41 por ação.",
-        "body": "A Bakkt informou nos resultados do primeiro trimestre que a receita caiu 77%, para US$ 243,6 milhões, devido à queda nos volumes de negociação de criptomoedas, enquanto registrou prejuízo líquido de US$ 0,41 por ação. Em meio ao desempenho fraco, a empresa está mudando o foco do negócio para infraestrutura de stablecoins. Os números mostram que a menor atividade de trading cripto pressionou diretamente a receita e a rentabilidade da Bakkt. O ponto central será saber se essa estratégia poderá complementar sua base de receita caso os volumes sigam reduzidos. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Bakkt setzt auf Stablecoin-Infrastruktur nach 77% Umsatzrückgang",
-        "excerpt": "Bakkt meldete im ersten Quartal 243,6 Mio. Dollar Umsatz, 77% weniger wegen geringerer Krypto-Handelsvolumina, und einen Nettoverlust von 0,41 Dollar je Aktie.",
-        "body": "Bakkt meldete für das erste Quartal einen Umsatzrückgang um 77% auf 243,6 Mio. Dollar, da die Handelsvolumina bei Kryptowährungen sanken. Gleichzeitig verzeichnete das Unternehmen einen Nettoverlust von 0,41 Dollar je Aktie. Vor dem Hintergrund der schwächeren Zahlen verlagert Bakkt den Geschäftsfokus auf Stablecoin-Infrastruktur. Die Daten zeigen, dass geringere Krypto-Handelsaktivität Umsatz und Profitabilität direkt belastete. Entscheidend wird sein, ob diese Strategie die Umsatzbasis stützen kann, falls die Volumina niedrig bleiben. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Bakkt mise sur l’infrastructure stablecoin après une chute de 77%",
-        "excerpt": "Bakkt a publié un chiffre d’affaires de 243,6 millions de dollars au 1er trimestre, en baisse de 77% avec moins de volumes crypto, et une perte nette de 0,41 dollar par action.",
-        "body": "Bakkt a annoncé pour le premier trimestre un chiffre d’affaires en baisse de 77% à 243,6 millions de dollars, sous l’effet de volumes de trading crypto plus faibles, ainsi qu’une perte nette de 0,41 dollar par action. Face à cette performance dégradée, l’entreprise réoriente son activité vers l’infrastructure des stablecoins. Ces chiffres montrent que le recul de l’activité de trading crypto a directement pesé sur ses revenus et sa rentabilité. L’enjeu sera de savoir si cette stratégie peut soutenir sa base de revenus si les volumes restent faibles. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "Bakkt تتحول إلى بنية العملات المستقرة بعد هبوط الإيرادات 77%",
-        "excerpt": "أعلنت Bakkt أن إيرادات الربع الأول تراجعت 77% إلى 243.6 مليون دولار مع انخفاض أحجام تداول العملات المشفرة، وسجلت خسارة صافية قدرها 0.41 دولار للسهم.",
-        "body": "أعلنت Bakkt في نتائج الربع الأول أن الإيرادات هبطت 77% إلى 243.6 مليون دولار بسبب انخفاض أحجام تداول العملات المشفرة، كما سجلت خسارة صافية قدرها 0.41 دولار للسهم. وفي ظل ضعف الأداء، تحول الشركة تركيز أعمالها نحو بنية العملات المستقرة. وتظهر هذه الأرقام أن تراجع نشاط تداول العملات المشفرة ضغط مباشرة على إيرادات Bakkt وربحيتها. وسيكون السؤال الرئيسي هو ما إذا كانت استراتيجية بنية العملات المستقرة قادرة على دعم قاعدة الإيرادات إذا ظلت أحجام التداول منخفضة. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Bakkt ने Q1 राजस्व 77% गिरने पर स्टेबलकॉइन इंफ्रा की ओर रुख किया",
-        "excerpt": "Bakkt का Q1 राजस्व कम क्रिप्टो ट्रेडिंग वॉल्यूम के कारण 77% घटकर 243.6 मिलियन डॉलर रहा और कंपनी ने प्रति शेयर 0.41 डॉलर का शुद्ध घाटा दर्ज किया।",
-        "body": "Bakkt ने पहली तिमाही के नतीजों में बताया कि क्रिप्टोकरेंसी ट्रेडिंग वॉल्यूम घटने से राजस्व 77% गिरकर 243.6 मिलियन डॉलर रह गया, जबकि कंपनी ने प्रति शेयर 0.41 डॉलर का शुद्ध घाटा दर्ज किया। कमजोर प्रदर्शन के बीच Bakkt अपना कारोबारी फोकस स्टेबलकॉइन इन्फ्रास्ट्रक्चर की ओर मोड़ रही है। ये आंकड़े दिखाते हैं कि कम क्रिप्टो ट्रेडिंग गतिविधि ने कंपनी के राजस्व और लाभप्रदता पर सीधा दबाव डाला। आगे मुख्य सवाल यह है कि यदि ट्रेडिंग वॉल्यूम कम रहते हैं तो यह रणनीति राजस्व आधार को सहारा दे पाएगी या नहीं। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Bakkt Beralih ke Infrastruktur Stablecoin Saat Pendapatan Q1 Turun 77%",
-        "excerpt": "Bakkt mencatat pendapatan Q1 sebesar US$243,6 juta, turun 77% karena volume perdagangan kripto melemah, serta rugi bersih US$0,41 per saham.",
-        "body": "Bakkt melaporkan hasil kuartal pertama dengan pendapatan turun 77% menjadi US$243,6 juta akibat melemahnya volume perdagangan kripto, sementara perusahaan mencatat rugi bersih US$0,41 per saham. Di tengah kinerja yang menurun, Bakkt mengalihkan fokus bisnisnya ke infrastruktur stablecoin. Angka ini menunjukkan bahwa aktivitas perdagangan kripto yang lebih rendah menekan langsung pendapatan dan profitabilitas Bakkt. Ke depan, pertanyaannya adalah apakah strategi infrastruktur stablecoin dapat menopang basis pendapatan jika volume perdagangan tetap lemah. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "d97694d5eba9",
-    "slug": "bitcoin-hovers-above-key-support-as-equities-crypto-retreat-903829",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T11:23:11.131Z",
-    "updatedAt": "2026-05-12T11:23:11.131Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/12/bitcoin-hovers-above-key-support-as-equities-and-crypto-retreat",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/12/bitcoin-hovers-above-key-support-as-equities-and-crypto-retreat",
-    "titleFingerprint": "772f71c1d0e3d76d168502e45ebfbdaec3db2324",
-    "dedupKeys": [
-      "d97694d5eba99fe26a1e9ea6d3864a9e859acfc6",
-      "772f71c1d0e3d76d168502e45ebfbdaec3db2324",
-      "431984e24a571d31b90ab66bb24015d8b3191dd4"
-    ],
-    "imageUrl": "/images/articles/d97694d5eba9.png",
-    "i18n": {
-      "ko": {
-        "title": "비트코인, 증시·가상자산 동반 약세에도 핵심 지지선 위 유지",
-        "excerpt": "비트코인과 이더는 중동 긴장 고조로 유가와 달러가 오르며 위험자산이 밀린 가운데 하락했지만, BTC는 핵심 강세장 지지선 위를 지켰다.",
-        "body": "비트코인과 이더가 중동 지역 긴장 고조 여파로 하락했다. 유가와 달러가 오르면서 주식과 가상자산 등 위험자산 전반이 후퇴한 가운데, 비트코인은 핵심 강세장 지지선 위에서 거래를 이어갔다. 이번 움직임은 지정학적 불확실성이 시장 심리를 압박한 결과로 풀이된다. 다만 BTC가 주요 지지 구간을 유지하고 있다는 점은 단기 약세 속에서도 시장이 주목하는 핵심 변수다. 투자자들은 유가와 달러 흐름, 위험자산 회피 심리가 비트코인과 이더 가격에 미칠 영향을 계속 확인할 전망이다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Bitcoin Holds Key Support as Stocks and Crypto Pull Back",
-        "excerpt": "Bitcoin and ether fell as rising Middle East tensions lifted oil and the dollar, pressuring risk assets, while BTC stayed above a key bull market support level.",
-        "body": "Bitcoin and ether declined as escalating tensions in the Middle East weighed on markets. Oil and the dollar rose, pushing equities and crypto assets lower as risk appetite weakened, while bitcoin continued to trade above a key bull market support level. The move reflects pressure from geopolitical uncertainty on broader market sentiment. Still, BTC’s ability to hold that major support area remains a central point for traders during the short-term retreat. Investors are expected to keep watching oil, the dollar and risk-off flows for their impact on bitcoin and ether prices. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "ビットコイン、株式・暗号資産安でも重要支持線を維持",
-        "excerpt": "中東情勢の緊張高まりで原油とドルが上昇し、リスク資産が売られる中、ビットコインとイーサは下落したがBTCは重要な強気相場支持線を保った。",
-        "body": "ビットコインとイーサは、中東地域の緊張高まりを受けて下落した。原油とドルが上昇し、株式や暗号資産などリスク資産全般が後退する中、ビットコインは重要な強気相場の支持線を上回って取引を続けた。今回の動きは、地政学的不確実性が市場心理を圧迫した結果とみられる。ただし、BTCが主要な支持帯を維持している点は、短期的な弱含みの中でも市場が注目する重要要素だ。投資家は原油、ドル、リスク回避の流れがビットコインとイーサ価格に与える影響を引き続き見極める見通しだ。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "比特币在股市与加密资产回落中守住关键支撑位",
-        "excerpt": "中东紧张局势升级推高油价和美元，风险资产承压，比特币和以太币下跌，但BTC仍保持在关键牛市支撑位上方。",
-        "body": "随着中东地区紧张局势升级，比特币和以太币走低。油价和美元上涨，令股票和加密资产等风险资产整体回落，但比特币仍在关键牛市支撑位上方交易。此次走势显示，地缘政治不确定性正在压制市场情绪。不过，BTC维持主要支撑区间的表现，仍是短期走弱背景下市场关注的核心变量。投资者预计将继续观察油价、美元走势以及避险情绪对比特币和以太币价格的影响。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Bitcoin mantiene soporte clave pese al retroceso de bolsas y cripto",
-        "excerpt": "Bitcoin y ether cayeron mientras las tensiones en Medio Oriente impulsaron el petróleo y el dólar, presionando activos de riesgo, aunque BTC sostuvo un soporte alcista clave.",
-        "body": "Bitcoin y ether bajaron por el impacto de la escalada de tensiones en Medio Oriente. El petróleo y el dólar subieron, lo que presionó a la baja a las acciones y a los criptoactivos en general, mientras bitcoin siguió cotizando por encima de un soporte clave del mercado alcista. El movimiento refleja cómo la incertidumbre geopolítica pesa sobre el sentimiento del mercado. Aun así, que BTC mantenga esa zona de soporte principal es un factor central durante la debilidad de corto plazo. Los inversores seguirán observando el petróleo, el dólar y la aversión al riesgo por su efecto en bitcoin y ether. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Bitcoin sustenta suporte-chave apesar da queda em ações e cripto",
-        "excerpt": "Bitcoin e ether recuaram com a alta do petróleo e do dólar após tensões no Oriente Médio, pressionando ativos de risco, mas o BTC manteve suporte altista essencial.",
-        "body": "Bitcoin e ether caíram com o agravamento das tensões no Oriente Médio. A alta do petróleo e do dólar pressionou ações e criptoativos, reduzindo o apetite por risco, enquanto o bitcoin continuou sendo negociado acima de um suporte-chave do mercado de alta. O movimento mostra o peso da incerteza geopolítica sobre o sentimento dos mercados. Ainda assim, a manutenção dessa zona de suporte pelo BTC segue como variável central em meio à fraqueza de curto prazo. Investidores devem seguir monitorando petróleo, dólar e fluxos de aversão ao risco pelo impacto sobre bitcoin e ether. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Bitcoin hält wichtige Unterstützung trotz Rückgang bei Aktien und Krypto",
-        "excerpt": "Bitcoin und Ether fielen, als Nahost-Spannungen Öl und Dollar steigen ließen und Risikoanlagen belasteten; BTC blieb jedoch über einer wichtigen Bullenmarkt-Unterstützung.",
-        "body": "Bitcoin und Ether gaben nach, nachdem sich die Spannungen im Nahen Osten verschärft hatten. Öl und Dollar stiegen, wodurch Aktien und Kryptoanlagen als Risikoassets insgesamt unter Druck gerieten, während Bitcoin weiter über einer wichtigen Unterstützung des Bullenmarkts handelte. Die Bewegung zeigt, wie geopolitische Unsicherheit die Marktstimmung belastet. Dass BTC diesen zentralen Unterstützungsbereich hält, bleibt jedoch ein wichtiger Faktor in der kurzfristigen Schwächephase. Anleger dürften Öl, Dollar und die Flucht aus Risikoanlagen weiter beobachten, um die Auswirkungen auf Bitcoin und Ether einzuschätzen. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Bitcoin tient un support clé malgré le repli des actions et cryptos",
-        "excerpt": "Bitcoin et ether ont reculé alors que les tensions au Moyen-Orient ont soutenu le pétrole et le dollar, pesant sur les actifs risqués, mais BTC conserve un support haussier clé.",
-        "body": "Bitcoin et ether ont baissé sous l’effet de l’escalade des tensions au Moyen-Orient. La hausse du pétrole et du dollar a pesé sur les actions et les cryptoactifs, tandis que le bitcoin a continué d’évoluer au-dessus d’un support clé du marché haussier. Ce mouvement illustre la pression exercée par l’incertitude géopolitique sur le sentiment de marché. Toutefois, le maintien par BTC de cette zone de support majeure reste un élément central malgré la faiblesse de court terme. Les investisseurs devraient continuer de suivre le pétrole, le dollar et l’aversion au risque pour évaluer leur impact sur bitcoin et ether. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "بيتكوين يحافظ على دعم رئيسي رغم تراجع الأسهم والعملات المشفرة",
-        "excerpt": "تراجع بيتكوين وإيثر مع تصاعد توترات الشرق الأوسط وارتفاع النفط والدولار، ما ضغط على الأصول عالية المخاطر، بينما بقي BTC فوق دعم مهم للسوق الصاعدة.",
-        "body": "تراجع بيتكوين وإيثر مع تصاعد التوترات في الشرق الأوسط. فقد ارتفع النفط والدولار، ما دفع الأسهم والأصول المشفرة عالية المخاطر إلى الانخفاض، بينما واصل بيتكوين التداول فوق مستوى دعم رئيسي في السوق الصاعدة. تعكس هذه الحركة ضغط عدم اليقين الجيوسياسي على معنويات السوق الأوسع. ومع ذلك، فإن حفاظ BTC على منطقة الدعم المهمة يبقى عاملا مركزيا يراقبه المتعاملون وسط الضعف قصير الأجل. ومن المتوقع أن يواصل المستثمرون متابعة حركة النفط والدولار واتجاهات تجنب المخاطر لمعرفة أثرها في أسعار بيتكوين وإيثر. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "शेयर और क्रिप्टो में गिरावट के बीच बिटकॉइन ने अहम सपोर्ट थामा",
-        "excerpt": "मध्य पूर्व तनाव बढ़ने से तेल और डॉलर चढ़े, जोखिम वाली संपत्तियों पर दबाव आया और बिटकॉइन व ईथर गिरे, लेकिन BTC अहम बुल मार्केट सपोर्ट से ऊपर रहा।",
-        "body": "मध्य पूर्व में तनाव बढ़ने के असर से बिटकॉइन और ईथर में गिरावट आई। तेल और डॉलर में तेजी के कारण शेयरों और क्रिप्टो जैसी जोखिम वाली संपत्तियों पर दबाव बढ़ा, जबकि बिटकॉइन एक अहम बुल मार्केट सपोर्ट स्तर से ऊपर कारोबार करता रहा। यह चाल दिखाती है कि भू-राजनीतिक अनिश्चितता बाजार भावना पर दबाव डाल रही है। फिर भी BTC का प्रमुख सपोर्ट क्षेत्र बनाए रखना अल्पकालिक कमजोरी के बीच बाजार के लिए अहम संकेत बना हुआ है। निवेशक तेल, डॉलर और जोखिम से बचने की प्रवृत्ति के बिटकॉइन और ईथर की कीमतों पर असर को देखते रहेंगे। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Bitcoin Bertahan di Support Kunci Saat Saham dan Kripto Melemah",
-        "excerpt": "Bitcoin dan ether turun saat ketegangan Timur Tengah mengangkat minyak dan dolar, menekan aset berisiko, tetapi BTC tetap berada di atas support penting pasar bull.",
-        "body": "Bitcoin dan ether melemah setelah ketegangan di Timur Tengah meningkat. Harga minyak dan dolar naik, sehingga saham dan aset kripto sebagai aset berisiko ikut tertekan, sementara bitcoin tetap diperdagangkan di atas level support kunci pasar bull. Pergerakan ini menunjukkan tekanan ketidakpastian geopolitik terhadap sentimen pasar. Namun, kemampuan BTC mempertahankan area support utama tetap menjadi faktor penting di tengah pelemahan jangka pendek. Investor diperkirakan terus memantau minyak, dolar, dan arus penghindaran risiko untuk menilai dampaknya terhadap harga bitcoin dan ether. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "345a3c9b1adb",
-    "slug": "crypto-markets-stalls-before-inflation-data-as-xrp-sol-rebuf-815915",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T11:21:39.298Z",
-    "updatedAt": "2026-05-12T11:21:39.298Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/daybook-us/2026/05/12/crypto-markets-stalls-before-inflation-data-as-xrp-sol-rebuffed-from-key-price-levels",
-    "canonicalUrl": "https://www.coindesk.com/daybook-us/2026/05/12/crypto-markets-stalls-before-inflation-data-as-xrp-sol-rebuffed-from-key-price-levels",
-    "titleFingerprint": "423b42a36054c1171a808918a101292806297638",
-    "dedupKeys": [
-      "345a3c9b1adb964eabd295fe68ddb7c9eb5ddebd",
-      "423b42a36054c1171a808918a101292806297638",
-      "a23fbe9292d14d49281b20cfe8186ab7b2f21d30"
-    ],
-    "imageUrl": "/images/articles/345a3c9b1adb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인플레이션 지표 앞둔 암호화폐 시장 정체, XRP·SOL 핵심 가격대서 제동",
-        "excerpt": "2026년 5월 12일을 앞두고 암호화폐 시장은 인플레이션 지표 발표를 기다리며 정체됐고, XRP와 SOL은 핵심 가격대 돌파에 실패해 투자자 경계감이 커졌다.",
-        "body": "2026년 5월 12일을 앞둔 암호화폐 시장은 인플레이션 지표 발표를 기다리며 뚜렷한 방향을 잡지 못했다. 원문에 따르면 시장 전반의 움직임은 정체됐고, XRP와 SOL은 각각 주목받던 핵심 가격대에서 되밀렸다. 구체적인 지표 수치나 가격 수준은 제시되지 않았지만, 인플레이션 데이터가 단기 시장 심리에 영향을 줄 변수로 부각됐다. 투자자들은 주요 알트코인의 가격 반응과 지표 발표 이후 흐름을 함께 확인할 필요가 있다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Crypto Markets Stall Before Inflation Data as XRP and SOL Hit Resistance",
-        "excerpt": "Ahead of May 12, 2026, crypto markets paused before inflation data, while XRP and SOL failed to clear key price levels, keeping investors focused on near-term direction.",
-        "body": "Crypto markets lacked clear direction ahead of May 12, 2026, as traders waited for inflation data. According to the original report, broader market activity stalled, while XRP and SOL were pushed back from key price levels that had drawn attention. No specific inflation figures or exact price levels were provided, but the data release stood out as a near-term factor for market sentiment. Investors will be watching how major altcoins respond after the inflation data is released. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "インフレ指標前に暗号資産市場が停滞、XRPとSOLは重要水準で失速",
-        "excerpt": "2026年5月12日を前に、暗号資産市場はインフレ指標の発表を待って停滞し、XRPとSOLは重要な価格水準の突破に失敗した。",
-        "body": "2026年5月12日を前に、暗号資産市場はインフレ指標の発表を控えて明確な方向感を欠いた。原文によると、市場全体の動きは停滞し、XRPとSOLは注目されていた重要な価格水準から押し戻された。具体的な指標の数値や価格水準は示されていないが、インフレデータは短期的な市場心理に影響する材料として意識された。投資家は主要アルトコインの反応と、指標発表後の流れを確認する必要がある。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "通胀数据公布前加密市场停滞，XRP与SOL受阻关键价位",
-        "excerpt": "在2026年5月12日临近之际，加密市场等待通胀数据而陷入停滞，XRP和SOL未能突破关键价位，投资者保持观望。",
-        "body": "在2026年5月12日临近之际，加密货币市场因等待通胀数据公布而缺乏明确方向。原文称，整体市场走势陷入停滞，XRP和SOL分别在受到关注的关键价格水平遭遇阻力。报道未给出具体通胀数值或精确价格位置，但通胀数据被视为可能影响短期市场情绪的因素。投资者需要继续观察主要山寨币的价格反应，以及数据公布后的市场走向。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Mercado cripto se frena antes de inflación; XRP y SOL chocan con niveles clave",
-        "excerpt": "Antes del 12 de mayo de 2026, el mercado cripto se estancó a la espera de datos de inflación, mientras XRP y SOL no lograron superar niveles clave de precio.",
-        "body": "De cara al 12 de mayo de 2026, el mercado de criptomonedas mostró falta de dirección mientras esperaba la publicación de datos de inflación. Según el texto original, el movimiento general del mercado se estancó y XRP y SOL fueron rechazados en niveles de precio clave que concentraban la atención. No se detallaron cifras concretas de inflación ni precios exactos, pero el dato se perfiló como un factor relevante para el ánimo de corto plazo. Los inversores seguirán la reacción de las principales altcoins tras la publicación. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Mercado cripto trava antes da inflação, com XRP e SOL barrados em níveis-chave",
-        "excerpt": "Antes de 12 de maio de 2026, o mercado cripto ficou parado à espera dos dados de inflação, enquanto XRP e SOL falharam ao superar níveis importantes de preço.",
-        "body": "À frente de 12 de maio de 2026, o mercado de criptomoedas ficou sem direção clara enquanto aguardava a divulgação dos dados de inflação. Segundo o texto original, o movimento mais amplo do mercado estagnou, e XRP e SOL foram rejeitados em níveis de preço importantes que estavam no foco dos investidores. Não foram informados números específicos de inflação nem preços exatos, mas o dado aparece como fator de curto prazo para o sentimento do mercado. Investidores devem acompanhar a reação das principais altcoins após a divulgação. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Kryptomarkt stockt vor Inflationsdaten, XRP und SOL scheitern an Schlüsselmarken",
-        "excerpt": "Vor dem 12. Mai 2026 wartete der Kryptomarkt auf Inflationsdaten und kam kaum voran, während XRP und SOL wichtige Preisniveaus nicht überwinden konnten.",
-        "body": "Vor dem 12. Mai 2026 fand der Kryptomarkt keine klare Richtung, da Anleger auf die Veröffentlichung von Inflationsdaten warteten. Dem Original zufolge stockte die breitere Marktbewegung, während XRP und SOL an aufmerksam verfolgten wichtigen Preisniveaus zurückgewiesen wurden. Konkrete Inflationszahlen oder exakte Preisstände wurden nicht genannt, doch die Daten gelten als kurzfristiger Faktor für die Marktstimmung. Anleger dürften die Reaktion großer Altcoins nach der Veröffentlichung genau beobachten. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Le marché crypto marque une pause avant l’inflation, XRP et SOL bloqués",
-        "excerpt": "À l’approche du 12 mai 2026, le marché crypto a stagné avant les données d’inflation, tandis que XRP et SOL ont échoué sur des niveaux de prix clés.",
-        "body": "À l’approche du 12 mai 2026, le marché des cryptomonnaies a manqué de direction claire dans l’attente des données d’inflation. Selon le texte original, le mouvement général du marché s’est figé, tandis que XRP et SOL ont été repoussés depuis des niveaux de prix clés suivis par les investisseurs. Aucun chiffre précis d’inflation ni niveau exact de prix n’a été fourni, mais cette publication apparaît comme un facteur de court terme pour le sentiment du marché. Les investisseurs surveilleront la réaction des principaux altcoins après les données. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "سوق العملات المشفرة يتوقف قبل بيانات التضخم وXRP وSOL يفشلان عند مستويات مهمة",
-        "excerpt": "قبل 12 مايو 2026، توقفت حركة سوق العملات المشفرة ترقباً لبيانات التضخم، بينما فشل XRP وSOL في تجاوز مستويات سعرية رئيسية يراقبها المستثمرون.",
-        "body": "قبل 12 مايو 2026، افتقر سوق العملات المشفرة إلى اتجاه واضح مع انتظار المستثمرين صدور بيانات التضخم. وبحسب النص الأصلي، توقفت حركة السوق الأوسع، في حين تراجع كل من XRP وSOL من مستويات سعرية رئيسية كانت موضع متابعة. لم تُذكر أرقام محددة للتضخم أو مستويات سعر دقيقة، لكن بيانات التضخم برزت كعامل قد يؤثر في معنويات السوق على المدى القصير. سيواصل المستثمرون مراقبة رد فعل العملات البديلة الرئيسية بعد صدور البيانات. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "महंगाई आंकड़ों से पहले क्रिप्टो बाजार थमा, XRP और SOL अहम स्तरों पर रुके",
-        "excerpt": "12 मई 2026 से पहले क्रिप्टो बाजार महंगाई आंकड़ों के इंतजार में ठहरा रहा, जबकि XRP और SOL अहम मूल्य स्तरों को पार करने में नाकाम रहे।",
-        "body": "12 मई 2026 से पहले क्रिप्टोकरेंसी बाजार महंगाई आंकड़ों की प्रतीक्षा में स्पष्ट दिशा नहीं पकड़ सका। मूल रिपोर्ट के अनुसार, व्यापक बाजार की चाल ठहर गई और XRP तथा SOL उन अहम मूल्य स्तरों से पीछे हटे जिन पर निवेशकों की नजर थी। रिपोर्ट में महंगाई के विशिष्ट आंकड़े या सटीक मूल्य स्तर नहीं दिए गए, लेकिन यह डेटा अल्पकालिक बाजार धारणा को प्रभावित करने वाला कारक माना गया। निवेशकों को आंकड़े जारी होने के बाद प्रमुख ऑल्टकॉइन की प्रतिक्रिया और बाजार की अगली दिशा पर नजर रखनी होगी। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Pasar Kripto Mandek Jelang Data Inflasi, XRP dan SOL Tertahan di Level Kunci",
-        "excerpt": "Menjelang 12 Mei 2026, pasar kripto bergerak datar menunggu data inflasi, sementara XRP dan SOL gagal menembus level harga kunci yang dipantau investor.",
-        "body": "Menjelang 12 Mei 2026, pasar kripto belum menunjukkan arah yang jelas karena pelaku pasar menunggu rilis data inflasi. Menurut teks asli, pergerakan pasar secara luas terhenti, sementara XRP dan SOL tertolak dari level harga kunci yang menjadi perhatian. Tidak ada angka inflasi spesifik atau level harga pasti yang disebutkan, tetapi data inflasi muncul sebagai faktor jangka pendek bagi sentimen pasar. Investor perlu memantau respons altcoin utama dan arah pasar setelah data tersebut dirilis. Sumber: coindesk.com"
       }
     }
   }
