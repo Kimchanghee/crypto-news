@@ -1,0 +1,75 @@
+{
+  "id": "bc66629f4219",
+  "slug": "myriad-adopts-chainlink-as-official-oracle-platform-to-power-209666",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-13T21:55:25.644Z",
+  "updatedAt": "2026-05-13T21:55:25.644Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367581/myriad-adopts-chainlink-as-official-oracle-platform-to-power-new-crypto-prediction-markets",
+  "canonicalUrl": "https://decrypt.co/367581/myriad-adopts-chainlink-as-official-oracle-platform-to-power-new-crypto-prediction-markets",
+  "titleFingerprint": "c94b7de8366bbc775b72d62ccc6a838958ae444d",
+  "dedupKeys": [
+    "bc66629f421982a253f1cd0fbed3ce51baf725c5",
+    "c94b7de8366bbc775b72d62ccc6a838958ae444d",
+    "12820fad76be47bd04732bafaa02a61fad99dd05"
+  ],
+  "imageUrl": "/images/articles/bc66629f4219.png",
+  "i18n": {
+    "ko": {
+      "title": "체인링크 채택한 Myriad, 즉시 정산 예측시장 확대 나선다",
+      "excerpt": "Myriad가 2026년 5월 13일 체인링크를 공식 오라클 플랫폼으로 채택하고 CRE 기반 자동화로 BTC·ETH·BNB·SOL 예측시장의 즉시 정산을 추진한다.",
+      "body": "Myriad는 2026년 5월 13일 체인링크를 공식 오라클 플랫폼으로 채택해 새로운 크립토 예측시장을 운영한다고 밝혔다. 이번 통합은 체인링크 런타임 환경(CRE)을 통해 시장 생성, 결과 확정, 정산을 자동화하고 즉시 정산에 가까운 사용자 지급을 지원하는 데 초점을 둔다. 초기 시장은 BTC, ETH, BNB, SOL을 대상으로 시작하며, 이후 RWA 시장으로 확대될 예정이다. Decrypt.co에 따르면 CRE는 체인링크 데이터 스트림 기반의 통합 오케스트레이션 레이어로 작동한다. Myriad는 최근 시드 투자 라운드 이후 확장을 준비하고 있어, 검증 가능한 데이터 인프라가 공정하고 투명한 예측시장 운영의 핵심이 될 전망이다. 출처: decrypt.co."
+    },
+    "en": {
+      "title": "Myriad Adopts Chainlink to Expand Instant-Settlement Markets",
+      "excerpt": "On May 13, 2026, Myriad adopted Chainlink as its official oracle platform, using CRE automation to support instant settlement for BTC, ETH, BNB and SOL prediction markets.",
+      "body": "Myriad said on May 13, 2026 that it has adopted Chainlink as its official oracle platform to power a new range of crypto prediction markets. The integration uses the Chainlink Runtime Environment, or CRE, to automate market creation, resolution and settlement while supporting near-immediate user payouts. Myriad will begin with markets for BTC, ETH, BNB and SOL, with RWA markets planned to follow. According to Decrypt.co, CRE works as a unified orchestration layer powered by Chainlink Data Streams. As Myriad prepares to scale after its recent seed investment round, verifiable data infrastructure is expected to be central to fair and transparent prediction market outcomes. Source: decrypt.co."
+    },
+    "ja": {
+      "title": "MyriadがChainlink採用、即時決済型予測市場を拡大へ",
+      "excerpt": "Myriadは2026年5月13日、Chainlinkを公式オラクル基盤に採用し、CRE自動化でBTC・ETH・BNB・SOL予測市場の即時決済を進める。",
+      "body": "Myriadは2026年5月13日、Chainlinkを公式オラクルプラットフォームとして採用し、新たな暗号資産予測市場を運営すると発表した。今回の統合はChainlink Runtime Environment（CRE）を使い、市場作成、結果確定、決済を自動化し、ユーザーへのほぼ即時の支払いを支えることが目的だ。初期市場はBTC、ETH、BNB、SOLを対象に始まり、その後RWA市場へ拡大する予定。Decrypt.coによると、CREはChainlink Data Streamsを基盤とする統合オーケストレーション層として機能する。Myriadは最近のシード投資ラウンド後に拡大を準備しており、検証可能なデータ基盤が公正で透明な予測市場運営の中心になる見通しだ。出典: decrypt.co."
+    },
+    "zh": {
+      "title": "Myriad采用Chainlink，扩展即时结算加密预测市场",
+      "excerpt": "Myriad于2026年5月13日采用Chainlink作为官方预言机平台，并借助CRE自动化支持BTC、ETH、BNB和SOL预测市场的即时结算。",
+      "body": "Myriad于2026年5月13日表示，已采用Chainlink作为官方预言机平台，用于推出新的加密预测市场。此次整合通过Chainlink Runtime Environment（CRE）自动化市场创建、结果确认和结算，并支持接近即时的用户支付。Myriad初期将推出BTC、ETH、BNB和SOL市场，之后计划扩展至RWA市场。据Decrypt.co报道，CRE是由Chainlink Data Streams驱动的统一编排层。随着Myriad在近期种子轮融资后准备扩张，可验证的数据基础设施将成为实现公平、透明预测市场结果的关键。来源: decrypt.co."
+    },
+    "es": {
+      "title": "Myriad adopta Chainlink para ampliar mercados de liquidación inmediata",
+      "excerpt": "El 13 de mayo de 2026, Myriad adoptó Chainlink como plataforma oráculo oficial y usará CRE para automatizar la liquidación inmediata en mercados de BTC, ETH, BNB y SOL.",
+      "body": "Myriad informó el 13 de mayo de 2026 que adoptó Chainlink como su plataforma oráculo oficial para impulsar una nueva gama de mercados de predicción cripto. La integración usa Chainlink Runtime Environment, o CRE, para automatizar la creación de mercados, la resolución de resultados y la liquidación, con pagos casi inmediatos para los usuarios. Myriad comenzará con mercados de BTC, ETH, BNB y SOL, y después prevé sumar mercados RWA. Según Decrypt.co, CRE funciona como una capa unificada de orquestación alimentada por Chainlink Data Streams. Mientras Myriad se prepara para escalar tras su reciente ronda semilla, la infraestructura de datos verificable será clave para resultados justos y transparentes. Fuente: decrypt.co."
+    },
+    "pt": {
+      "title": "Myriad adota Chainlink para expandir mercados com liquidação imediata",
+      "excerpt": "Em 13 de maio de 2026, a Myriad adotou a Chainlink como oráculo oficial e usará o CRE para automatizar a liquidação imediata em mercados de BTC, ETH, BNB e SOL.",
+      "body": "A Myriad informou em 13 de maio de 2026 que adotou a Chainlink como sua plataforma oficial de oráculo para impulsionar uma nova linha de mercados de previsão cripto. A integração usa o Chainlink Runtime Environment, ou CRE, para automatizar criação de mercados, resolução de resultados e liquidação, com pagamentos quase imediatos aos usuários. A Myriad começará com mercados de BTC, ETH, BNB e SOL, com mercados RWA previstos em seguida. Segundo a Decrypt.co, o CRE atua como uma camada unificada de orquestração movida por Chainlink Data Streams. Com a Myriad se preparando para escalar após sua recente rodada seed, a infraestrutura de dados verificável deve ser central para resultados justos e transparentes. Fonte: decrypt.co."
+    },
+    "de": {
+      "title": "Myriad setzt auf Chainlink für sofort abrechnende Prognosemärkte",
+      "excerpt": "Myriad hat am 13. Mai 2026 Chainlink als offizielle Oracle-Plattform übernommen und nutzt CRE-Automatisierung für schnelle Abwicklung bei BTC-, ETH-, BNB- und SOL-Märkten.",
+      "body": "Myriad teilte am 13. Mai 2026 mit, Chainlink als offizielle Oracle-Plattform eingeführt zu haben, um neue Krypto-Prognosemärkte zu betreiben. Die Integration nutzt die Chainlink Runtime Environment, kurz CRE, um Markterstellung, Ergebnisfeststellung und Abwicklung zu automatisieren und nahezu sofortige Auszahlungen an Nutzer zu unterstützen. Starten soll Myriad mit Märkten für BTC, ETH, BNB und SOL; RWA-Märkte sollen folgen. Laut Decrypt.co arbeitet CRE als einheitliche Orchestrierungsschicht auf Basis von Chainlink Data Streams. Da Myriad nach seiner jüngsten Seed-Finanzierungsrunde skalieren will, dürfte verifizierbare Dateninfrastruktur für faire und transparente Marktergebnisse zentral werden. Quelle: decrypt.co."
+    },
+    "fr": {
+      "title": "Myriad adopte Chainlink pour élargir ses marchés à règlement immédiat",
+      "excerpt": "Le 13 mai 2026, Myriad a adopté Chainlink comme plateforme oracle officielle et utilisera CRE pour automatiser le règlement rapide des marchés BTC, ETH, BNB et SOL.",
+      "body": "Myriad a annoncé le 13 mai 2026 avoir adopté Chainlink comme plateforme oracle officielle afin d’alimenter une nouvelle gamme de marchés de prédiction crypto. L’intégration s’appuie sur Chainlink Runtime Environment, ou CRE, pour automatiser la création des marchés, la résolution des résultats et le règlement, avec des paiements presque immédiats aux utilisateurs. Myriad commencera par des marchés sur BTC, ETH, BNB et SOL, avant une extension prévue aux marchés RWA. Selon Decrypt.co, CRE fonctionne comme une couche d’orchestration unifiée alimentée par Chainlink Data Streams. Alors que Myriad prépare son expansion après sa récente levée de fonds seed, une infrastructure de données vérifiable devrait être essentielle à des résultats justes et transparents. Source: decrypt.co."
+    },
+    "ar": {
+      "title": "Myriad تعتمد Chainlink لتوسيع أسواق التنبؤ بتسوية فورية",
+      "excerpt": "في 13 مايو 2026، اعتمدت Myriad منصة Chainlink كأوراكل رسمي، وستستخدم CRE لأتمتة التسوية السريعة في أسواق BTC وETH وBNB وSOL.",
+      "body": "أعلنت Myriad في 13 مايو 2026 اعتماد Chainlink كمنصة أوراكل رسمية لتشغيل مجموعة جديدة من أسواق التنبؤ بالعملات المشفرة. يستخدم التكامل بيئة Chainlink Runtime Environment، أو CRE، لأتمتة إنشاء الأسواق وحسم النتائج والتسوية، مع دعم مدفوعات شبه فورية للمستخدمين. ستبدأ Myriad بأسواق BTC وETH وBNB وSOL، على أن تتبعها أسواق RWA لاحقا. وبحسب Decrypt.co، تعمل CRE كطبقة تنسيق موحدة تعتمد على Chainlink Data Streams. ومع استعداد Myriad للتوسع بعد جولة التمويل التأسيسية الأخيرة، ستكون بنية البيانات القابلة للتحقق عاملا مهما لتحقيق نتائج عادلة وشفافة في أسواق التنبؤ. المصدر: decrypt.co."
+    },
+    "hi": {
+      "title": "Myriad ने Chainlink अपनाया, तुरंत सेटलमेंट वाले बाजार बढ़ेंगे",
+      "excerpt": "13 मई 2026 को Myriad ने Chainlink को आधिकारिक oracle प्लेटफॉर्म बनाया और CRE ऑटोमेशन से BTC, ETH, BNB और SOL prediction markets में तेज settlement को समर्थन देगा।",
+      "body": "Myriad ने 13 मई 2026 को कहा कि उसने नए crypto prediction markets चलाने के लिए Chainlink को अपना आधिकारिक oracle प्लेटफॉर्म अपनाया है। यह integration Chainlink Runtime Environment, यानी CRE, के जरिए market creation, result resolution और settlement को automate करता है और users को लगभग तुरंत payout देने में मदद करता है। Myriad शुरुआत में BTC, ETH, BNB और SOL markets लॉन्च करेगा, जबकि RWA markets बाद में जोड़े जाने की योजना है। Decrypt.co के अनुसार, CRE Chainlink Data Streams से संचालित unified orchestration layer के रूप में काम करता है। हालिया seed investment round के बाद Myriad scaling की तैयारी कर रहा है, इसलिए verifiable data infrastructure fair और transparent prediction market outcomes के लिए अहम रहेगा। स्रोत: decrypt.co."
+    },
+    "id": {
+      "title": "Myriad Adopsi Chainlink untuk Perluas Pasar Prediksi Instan",
+      "excerpt": "Pada 13 Mei 2026, Myriad mengadopsi Chainlink sebagai platform oracle resmi dan memakai CRE untuk mengotomatisasi settlement cepat di pasar BTC, ETH, BNB, dan SOL.",
+      "body": "Myriad pada 13 Mei 2026 menyatakan telah mengadopsi Chainlink sebagai platform oracle resmi untuk menjalankan rangkaian baru pasar prediksi kripto. Integrasi ini memakai Chainlink Runtime Environment, atau CRE, untuk mengotomatisasi pembuatan pasar, penentuan hasil, dan settlement, sekaligus mendukung payout yang hampir langsung bagi pengguna. Myriad akan memulai dengan pasar BTC, ETH, BNB, dan SOL, lalu berencana memperluas ke pasar RWA. Menurut Decrypt.co, CRE berfungsi sebagai lapisan orkestrasi terpadu yang ditenagai Chainlink Data Streams. Saat Myriad bersiap melakukan scale setelah putaran investasi seed terbarunya, infrastruktur data yang dapat diverifikasi akan menjadi kunci bagi hasil pasar prediksi yang adil dan transparan. Sumber: decrypt.co."
+    }
+  }
+}
