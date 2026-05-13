@@ -1,5 +1,230 @@
 [
   {
+    "id": "44a6a0752ff2",
+    "slug": "legend-becomes-latest-defi-app-to-throw-in-towel-367316",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T07:24:27.111Z",
+    "updatedAt": "2026-05-13T07:24:27.111Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/legend-defi-app-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/legend-defi-app-announces-shutdown",
+    "titleFingerprint": "68f8fe94b67a680ea287ecea09ff37f1ffe8abbe",
+    "dedupKeys": [
+      "44a6a0752ff2664de59e12c62b34e8630442ca10",
+      "68f8fe94b67a680ea287ecea09ff37f1ffe8abbe",
+      "4dc76fb7a3de10cbfd7b807769489ebd9fa861ed"
+    ],
+    "imageUrl": "/images/articles/44a6a0752ff2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "DeFi 앱 Legend, 운영 포기 선언…“암호화폐는 숨겨야 이긴다”",
+        "excerpt": "DeFi 앱 Legend가 최근 운영 포기를 선언했다. 제이슨 하비 CEO는 승자는 암호화폐를 더 잘 설명하는 제품이 아니라 완전히 숨기는 제품이라고 말했다.",
+        "body": "DeFi 애플리케이션 Legend가 최근 운영 포기를 선언하며 탈중앙화금융 서비스 경쟁에서 물러났다. 발표의 핵심은 제품 전략에 대한 한계 인식이다. 제이슨 하비 CEO는 “승리하는 제품은 암호화폐를 더 잘 설명하는 것이 아니라 완전히 숨기는 제품”이라고 말했다. 이는 DeFi 서비스가 기술 설명보다 사용자가 복잡성을 느끼지 않게 만드는 경험을 요구받고 있음을 보여준다. Legend의 결정은 암호화폐 앱들이 대중화 과정에서 사용자 경험을 얼마나 단순화해야 하는지에 대한 논의를 다시 부각시킨다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "DeFi App Legend Quits as CEO Says Crypto Must Be Hidden",
+        "excerpt": "DeFi app Legend has become the latest project to give up, with CEO Jayson Hobby saying the winning product is one that hides crypto completely.",
+        "body": "DeFi application Legend has become the latest decentralized finance service to throw in the towel. The move centers on a product lesson highlighted by CEO Jayson Hobby, who said the product that wins is not the one that explains crypto better, but the one that hides it completely. The statement points to a broader challenge for DeFi apps: users may value simple experiences more than detailed crypto explanations. Legend’s decision adds to the debate over how far crypto products must reduce visible complexity to reach mainstream use. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "DeFiアプリLegendが撤退、CEO「暗号資産は隠す製品が勝つ」",
+        "excerpt": "DeFiアプリLegendが最近撤退を表明した。ジェイソン・ホビーCEOは、勝つ製品は暗号資産を説明するのではなく完全に隠すものだと述べた。",
+        "body": "DeFiアプリケーションのLegendが、分散型金融サービス競争から退く最新の事例となった。焦点は製品戦略への認識だ。ジェイソン・ホビーCEOは、勝つ製品は暗号資産をより上手に説明するものではなく、それを完全に隠すものだと述べた。この発言は、DeFiサービスが技術的な説明よりも、利用者に複雑さを感じさせない体験を求められていることを示している。Legendの判断は、暗号資産アプリが普及に向けてユーザー体験をどこまで単純化すべきかという議論を改めて浮かび上がらせた。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "DeFi应用Legend宣布放弃，CEO称加密应被完全隐藏",
+        "excerpt": "DeFi应用Legend近期宣布放弃运营。CEO Jayson Hobby表示，胜出的产品不是更好解释加密，而是把加密完全隐藏起来。",
+        "body": "DeFi应用Legend成为最新一个选择放弃的去中心化金融服务。此次决定的核心在于对产品策略的重新认识。CEO Jayson Hobby表示，最终胜出的产品并不是把加密解释得更好，而是将其完全隐藏。此番表态显示，DeFi服务面临的挑战不只是技术说明，而是让用户在使用过程中尽量感受不到复杂性。Legend的决定也再次凸显，加密应用若要走向更广泛用户，必须思考用户体验应被简化到何种程度。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Legend, app DeFi, se rinde mientras su CEO pide ocultar cripto",
+        "excerpt": "La app DeFi Legend se convirtió en el proyecto más reciente en tirar la toalla; su CEO Jayson Hobby dijo que gana quien oculta cripto por completo.",
+        "body": "La aplicación DeFi Legend se convirtió en el servicio de finanzas descentralizadas más reciente en tirar la toalla. El centro del mensaje fue una lectura sobre estrategia de producto. Su CEO, Jayson Hobby, dijo que el producto ganador no es el que explica mejor las criptomonedas, sino el que las oculta por completo. La frase subraya un reto para las apps DeFi: los usuarios pueden exigir experiencias simples más que explicaciones técnicas. La decisión de Legend reabre la discusión sobre cuánto deben reducir la complejidad visible las aplicaciones cripto para llegar a un público más amplio. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "App DeFi Legend desiste enquanto CEO diz que cripto deve sumir",
+        "excerpt": "O app DeFi Legend tornou-se o mais recente projeto a jogar a toalha; o CEO Jayson Hobby afirmou que vence quem esconde cripto por completo.",
+        "body": "O aplicativo DeFi Legend tornou-se o serviço de finanças descentralizadas mais recente a jogar a toalha. O ponto central da decisão está na leitura sobre produto. O CEO Jayson Hobby disse que o produto vencedor não é o que explica melhor as criptomoedas, mas o que as esconde completamente. A declaração mostra um desafio para apps DeFi: usuários podem valorizar experiências simples mais do que explicações técnicas. A decisão da Legend recoloca em foco até que ponto produtos cripto precisam reduzir a complexidade visível para alcançar uso mais amplo. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "DeFi-App Legend gibt auf: CEO sagt, Krypto müsse verborgen sein",
+        "excerpt": "Die DeFi-App Legend gibt als jüngstes Projekt auf. CEO Jayson Hobby sagte, das Siegerprodukt erkläre Krypto nicht besser, sondern verberge es komplett.",
+        "body": "Die DeFi-Anwendung Legend ist der jüngste Dienst im Bereich dezentrale Finanzen, der das Handtuch wirft. Im Mittelpunkt steht eine Einschätzung zur Produktstrategie. CEO Jayson Hobby sagte, das Produkt, das gewinnt, sei nicht jenes, das Krypto besser erklärt, sondern jenes, das Krypto vollständig verbirgt. Die Aussage verweist auf eine zentrale Herausforderung für DeFi-Apps: Nutzer könnten einfache Erfahrungen höher bewerten als technische Erklärungen. Legends Entscheidung rückt erneut die Frage in den Fokus, wie stark Krypto-Apps sichtbare Komplexität reduzieren müssen, um breitere Nutzung zu erreichen. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "L’app DeFi Legend abandonne, son CEO veut cacher la crypto",
+        "excerpt": "L’application DeFi Legend est le dernier projet à jeter l’éponge; son CEO Jayson Hobby affirme que le produit gagnant cache entièrement la crypto.",
+        "body": "L’application DeFi Legend est devenue le dernier service de finance décentralisée à jeter l’éponge. Le message porte surtout sur la stratégie produit. Son CEO, Jayson Hobby, a déclaré que le produit gagnant n’est pas celui qui explique mieux la crypto, mais celui qui la cache entièrement. Cette position souligne un défi pour les applications DeFi: les utilisateurs peuvent préférer des expériences simples aux explications techniques. La décision de Legend relance la question du niveau de complexité visible que les produits crypto doivent réduire pour toucher un public plus large. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "تطبيق DeFi Legend ينسحب والرئيس التنفيذي: يجب إخفاء الكريبتو",
+        "excerpt": "أصبح تطبيق DeFi المسمى Legend أحدث مشروع ينسحب، إذ قال الرئيس التنفيذي جيسون هوبي إن المنتج الفائز هو الذي يخفي الكريبتو بالكامل.",
+        "body": "أصبح تطبيق التمويل اللامركزي Legend أحدث خدمة DeFi ترمي المنشفة وتنسحب من المنافسة. ويتمحور القرار حول قراءة لاستراتيجية المنتج. قال الرئيس التنفيذي جيسون هوبي إن المنتج الذي يفوز ليس الذي يشرح الكريبتو بشكل أفضل، بل الذي يخفيه بالكامل. يشير ذلك إلى تحد رئيسي أمام تطبيقات DeFi: قد يفضل المستخدمون تجربة بسيطة على الشرح التقني المفصل. قرار Legend يعيد إبراز النقاش حول مدى حاجة تطبيقات الكريبتو إلى تقليل التعقيد الظاهر للوصول إلى استخدام أوسع. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "DeFi ऐप Legend ने हार मानी, CEO बोले क्रिप्टो को छिपाना होगा",
+        "excerpt": "DeFi ऐप Legend हार मानने वाला नया प्रोजेक्ट बन गया है। CEO Jayson Hobby ने कहा कि जीतने वाला उत्पाद क्रिप्टो को समझाता नहीं, पूरी तरह छिपाता है।",
+        "body": "DeFi एप्लिकेशन Legend विकेंद्रीकृत वित्त सेवा क्षेत्र में हार मानने वाला नया नाम बन गया है। इस कदम का केंद्र उत्पाद रणनीति पर उसकी समझ है। CEO Jayson Hobby ने कहा कि जीतने वाला उत्पाद वह नहीं है जो क्रिप्टो को बेहतर ढंग से समझाता है, बल्कि वह है जो उसे पूरी तरह छिपा देता है। यह बयान DeFi ऐप्स की बड़ी चुनौती दिखाता है: उपयोगकर्ता तकनीकी व्याख्या से अधिक सरल अनुभव चाहते हैं। Legend का फैसला फिर सवाल उठाता है कि व्यापक उपयोग तक पहुंचने के लिए क्रिप्टो ऐप्स को दिखाई देने वाली जटिलता कितनी कम करनी होगी। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Aplikasi DeFi Legend Menyerah, CEO Sebut Kripto Harus Disembunyikan",
+        "excerpt": "Aplikasi DeFi Legend menjadi proyek terbaru yang menyerah. CEO Jayson Hobby mengatakan produk pemenang bukan menjelaskan kripto, melainkan menyembunyikannya.",
+        "body": "Aplikasi DeFi Legend menjadi layanan keuangan terdesentralisasi terbaru yang menyerah. Inti keputusannya terkait cara memandang strategi produk. CEO Jayson Hobby mengatakan produk yang menang bukanlah produk yang menjelaskan kripto dengan lebih baik, melainkan produk yang menyembunyikannya sepenuhnya. Pernyataan itu menunjukkan tantangan bagi aplikasi DeFi: pengguna mungkin lebih menghargai pengalaman sederhana daripada penjelasan teknis. Keputusan Legend kembali menyoroti seberapa jauh aplikasi kripto harus mengurangi kompleksitas yang terlihat agar bisa menjangkau penggunaan lebih luas. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "884a6b1d073d",
+    "slug": "nevada-regulators-push-back-after-prediction-market-conferen-678084",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T07:23:35.311Z",
+    "updatedAt": "2026-05-13T07:23:35.311Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/policy/2026/05/13/nevada-gaming-regulator-says-prediction-market-conferences-are-welcome-in-las-vegas",
+    "canonicalUrl": "https://www.coindesk.com/policy/2026/05/13/nevada-gaming-regulator-says-prediction-market-conferences-are-welcome-in-las-vegas",
+    "titleFingerprint": "2f6ad2774460ff0a85374ea7ed8596079a80d162",
+    "dedupKeys": [
+      "884a6b1d073d4b764ecf2d8c5f2241e5d3d96122",
+      "2f6ad2774460ff0a85374ea7ed8596079a80d162",
+      "61cfa1f1039e8b91da6a9af498c19c9c74b3bb6f"
+    ],
+    "imageUrl": "/images/articles/884a6b1d073d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "네바다 규제당국, Predict 2026 이전 책임론 정면 반박",
+        "excerpt": "네바다 규제당국 대변인은 예측시장 콘퍼런스 Predict 2026이 행사 이전 이유로 당국 압박을 지목하자, ARIA Resort & Casino에 압력을 행사한 사실이 없다고 부인했다.",
+        "body": "네바다 규제당국이 예측시장 콘퍼런스 Predict 2026의 행사 이전 논란에 반박했다. 규제당국 대변인은 ARIA Resort & Casino가 Predict 2026을 개최한 것과 관련해 당국이 압력을 넣었다는 주장을 부인했다. 앞서 콘퍼런스 측은 행사 장소 변경의 배경으로 네바다 규제당국을 지목한 것으로 알려졌다. 이번 해명은 예측시장 행사가 카지노 리조트에서 열리는 사안을 둘러싼 책임 공방이 커지는 가운데 나왔다. 현재 확인된 핵심 쟁점은 당국이 실제로 개최 장소에 영향력을 행사했는지 여부다. 규제당국은 압박이 없었다는 입장을 내놨고, 콘퍼런스 측의 주장과 엇갈린다. 향후 추가 설명이나 관련 당사자 입장이 나오면 Predict 2026 이전 논란의 경위가 더 분명해질 전망이다. 출처: coindesk.com 인용."
+      },
+      "en": {
+        "title": "Nevada Regulators Deny Role in Predict 2026 Venue Move Dispute",
+        "excerpt": "A Nevada regulator spokesperson denied pressuring ARIA Resort & Casino after prediction market conference Predict 2026 blamed regulators for its venue move.",
+        "body": "Nevada regulators pushed back against claims tied to the relocation of prediction market conference Predict 2026. A spokesperson for the regulator denied that the agency pressured ARIA Resort & Casino over hosting the event. The conference had reportedly pointed to Nevada regulators as the reason behind its move. The dispute centers on whether the regulator actually influenced the venue’s handling of Predict 2026. For now, the regulator says no pressure was applied, while the conference’s explanation points in the opposite direction. Further statements from the parties could clarify why the event moved and how the disagreement developed. Source: cited from coindesk.com."
+      },
+      "ja": {
+        "title": "ネバダ規制当局、Predict 2026移転責任論を否定",
+        "excerpt": "予測市場会議Predict 2026が会場移転の理由に規制当局を挙げたことを受け、ネバダ州規制当局の報道官はARIA Resort & Casinoへの圧力を否定した。",
+        "body": "ネバダ州の規制当局は、予測市場カンファレンスPredict 2026の会場移転をめぐる主張に反論した。規制当局の報道官は、ARIA Resort & CasinoがPredict 2026を開催したことに関連して、当局が圧力をかけたとの見方を否定した。カンファレンス側は、会場変更の背景としてネバダ州規制当局を挙げたとされる。焦点は、当局が実際に開催会場へ影響を及ぼしたかどうかだ。現時点で規制当局は圧力はなかったとの立場を示しており、会議側の説明と食い違っている。今後、関係者の追加説明が出れば、Predict 2026移転論争の経緯がより明確になる見通しだ。出典：coindesk.com引用。"
+      },
+      "zh": {
+        "title": "内华达监管方否认施压 Predict 2026 会场变动说法",
+        "excerpt": "预测市场会议 Predict 2026 将会场变动归因于监管方后，内华达监管机构发言人否认曾向 ARIA Resort & Casino 施压。",
+        "body": "内华达监管机构回应了预测市场会议 Predict 2026 会场变动引发的争议。监管方发言人否认该机构曾因 ARIA Resort & Casino 举办 Predict 2026 而向其施压。此前，会议方面据称将地点变更的原因指向内华达监管机构。当前争议的核心在于，监管方是否实际影响了会场安排。监管机构表示没有施压，而会议方面的说法则与此不一致。若相关各方后续作出进一步说明，Predict 2026 变动的经过可能会更加清楚。来源：引自 coindesk.com。"
+      },
+      "es": {
+        "title": "Reguladores de Nevada niegan presionar por el traslado de Predict 2026",
+        "excerpt": "Un portavoz regulador de Nevada negó haber presionado a ARIA Resort & Casino después de que la conferencia de mercados de predicción Predict 2026 los culpara por su mudanza.",
+        "body": "Los reguladores de Nevada rechazaron las acusaciones relacionadas con el traslado de la conferencia de mercados de predicción Predict 2026. Un portavoz del regulador negó que la agencia presionara a ARIA Resort & Casino por albergar el evento. La conferencia habría señalado a los reguladores de Nevada como la razón del cambio de sede. El punto central es si el regulador influyó realmente en la gestión del lugar para Predict 2026. Por ahora, la autoridad sostiene que no hubo presión, mientras que la explicación de la conferencia apunta en sentido contrario. Nuevas declaraciones de las partes podrían aclarar por qué se movió el evento y cómo surgió el desacuerdo. Fuente: citado de coindesk.com."
+      },
+      "pt": {
+        "title": "Reguladores de Nevada negam pressão sobre mudança do Predict 2026",
+        "excerpt": "Um porta-voz regulador de Nevada negou ter pressionado o ARIA Resort & Casino depois que a conferência de mercados de previsão Predict 2026 culpou o órgão por sua mudança.",
+        "body": "Reguladores de Nevada contestaram as alegações ligadas à mudança da conferência de mercados de previsão Predict 2026. Um porta-voz do regulador negou que a agência tenha pressionado o ARIA Resort & Casino por sediar o evento. A conferência teria apontado os reguladores de Nevada como motivo para a troca de local. O ponto central é saber se o regulador de fato influenciou a decisão envolvendo o Predict 2026. Por enquanto, a autoridade afirma que não houve pressão, enquanto a explicação da conferência segue em direção oposta. Novas manifestações das partes podem esclarecer por que o evento foi transferido e como a divergência surgiu. Fonte: citado de coindesk.com."
+      },
+      "de": {
+        "title": "Nevada-Regulierer weisen Vorwurf zu Predict-2026-Umzug zurück",
+        "excerpt": "Ein Sprecher der Aufsicht in Nevada bestritt Druck auf ARIA Resort & Casino, nachdem die Prognosemarkt-Konferenz Predict 2026 die Behörde für ihren Umzug verantwortlich machte.",
+        "body": "Die Regulierungsbehörden in Nevada haben Vorwürfe rund um den Umzug der Prognosemarkt-Konferenz Predict 2026 zurückgewiesen. Ein Sprecher der Aufsicht bestritt, dass die Behörde ARIA Resort & Casino wegen der Ausrichtung der Veranstaltung unter Druck gesetzt habe. Die Konferenz hatte Berichten zufolge die Regulierer in Nevada als Grund für den Ortswechsel genannt. Im Mittelpunkt steht, ob die Behörde tatsächlich Einfluss auf den Veranstaltungsort von Predict 2026 nahm. Der Regulierer erklärt, es habe keinen Druck gegeben, während die Darstellung der Konferenz davon abweicht. Weitere Stellungnahmen der Beteiligten könnten klären, warum die Veranstaltung verlegt wurde und wie der Konflikt entstand. Quelle: zitiert nach coindesk.com."
+      },
+      "fr": {
+        "title": "Les régulateurs du Nevada nient toute pression sur Predict 2026",
+        "excerpt": "Un porte-parole du régulateur du Nevada a nié avoir fait pression sur ARIA Resort & Casino après que la conférence Predict 2026 l’a rendu responsable de son déménagement.",
+        "body": "Les régulateurs du Nevada ont rejeté les accusations liées au déplacement de la conférence de marchés de prédiction Predict 2026. Un porte-parole du régulateur a nié que l’agence ait exercé une pression sur ARIA Resort & Casino en raison de l’accueil de l’événement. La conférence aurait désigné les régulateurs du Nevada comme la raison du changement de lieu. Le point central est de savoir si le régulateur a réellement influencé l’organisation du site pour Predict 2026. Pour l’instant, l’autorité affirme qu’aucune pression n’a été exercée, tandis que l’explication de la conférence va dans l’autre sens. De nouvelles déclarations des parties pourraient préciser pourquoi l’événement a été déplacé et comment le désaccord est apparu. Source : cité de coindesk.com."
+      },
+      "ar": {
+        "title": "منظمو نيفادا ينفون الضغط وراء نقل مؤتمر Predict 2026",
+        "excerpt": "نفى متحدث باسم الجهة التنظيمية في نيفادا الضغط على ARIA Resort & Casino بعدما حمّل مؤتمر أسواق التنبؤ Predict 2026 المنظمين مسؤولية تغيير مكانه.",
+        "body": "ردت الجهات التنظيمية في نيفادا على مزاعم مرتبطة بنقل مؤتمر أسواق التنبؤ Predict 2026. ونفى متحدث باسم الجهة التنظيمية أن تكون الوكالة قد ضغطت على ARIA Resort & Casino بسبب استضافة الحدث. وكان المؤتمر قد أشار، بحسب ما ورد، إلى منظمي نيفادا باعتبارهم سبب تغيير المكان. ويتمحور الخلاف حول ما إذا كانت الجهة التنظيمية أثرت فعلا في ترتيبات استضافة Predict 2026. وحتى الآن، تقول الجهة التنظيمية إنه لم يحدث أي ضغط، بينما تذهب رواية المؤتمر في اتجاه مخالف. وقد توضح أي بيانات إضافية من الأطراف سبب نقل الحدث وكيف نشأ الخلاف. المصدر: نقلا عن coindesk.com."
+      },
+      "hi": {
+        "title": "Nevada नियामकों ने Predict 2026 स्थल बदलाव के आरोप नकारे",
+        "excerpt": "Predict 2026 ने अपने स्थान बदलाव के लिए नियामकों को जिम्मेदार बताया, जिसके बाद Nevada नियामक प्रवक्ता ने ARIA Resort & Casino पर दबाव डालने से इनकार किया।",
+        "body": "Nevada के नियामकों ने prediction market conference Predict 2026 के स्थान बदलाव से जुड़े दावों का विरोध किया। नियामक के प्रवक्ता ने कहा कि एजेंसी ने ARIA Resort & Casino पर कार्यक्रम की मेजबानी को लेकर कोई दबाव नहीं डाला। सम्मेलन पक्ष ने कथित तौर पर स्थान बदलने की वजह के रूप में Nevada नियामकों का नाम लिया था। विवाद का मुख्य प्रश्न यह है कि क्या नियामक ने वास्तव में Predict 2026 के venue पर प्रभाव डाला। फिलहाल नियामक का कहना है कि कोई दबाव नहीं था, जबकि सम्मेलन की व्याख्या अलग दिशा दिखाती है। पक्षों की आगे की टिप्पणियां यह स्पष्ट कर सकती हैं कि कार्यक्रम क्यों स्थानांतरित हुआ और विवाद कैसे बढ़ा। स्रोत: coindesk.com से उद्धृत।"
+      },
+      "id": {
+        "title": "Regulator Nevada Bantah Tekanan di Balik Pindahnya Predict 2026",
+        "excerpt": "Juru bicara regulator Nevada membantah menekan ARIA Resort & Casino setelah konferensi pasar prediksi Predict 2026 menyalahkan regulator atas perpindahan acaranya.",
+        "body": "Regulator Nevada membantah klaim terkait perpindahan konferensi pasar prediksi Predict 2026. Seorang juru bicara regulator menolak tuduhan bahwa lembaga tersebut menekan ARIA Resort & Casino karena menjadi tuan rumah acara itu. Pihak konferensi dilaporkan menunjuk regulator Nevada sebagai alasan perubahan lokasi. Inti sengketa ini adalah apakah regulator benar-benar memengaruhi penanganan venue Predict 2026. Untuk saat ini, regulator menyatakan tidak ada tekanan, sementara penjelasan konferensi mengarah sebaliknya. Pernyataan lanjutan dari para pihak dapat memperjelas mengapa acara dipindahkan dan bagaimana perselisihan itu muncul. Sumber: dikutip dari coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "6441b2b0c416",
+    "slug": "xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchang-718450",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T07:22:14.020Z",
+    "updatedAt": "2026-05-13T07:22:14.020Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/13/xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/13/xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges",
+    "titleFingerprint": "b27a098780265a655a941002ca5718aa5dd411fe",
+    "dedupKeys": [
+      "6441b2b0c4165d9ae2281455eebd206ff3704715",
+      "b27a098780265a655a941002ca5718aa5dd411fe",
+      "f04958193e90c625916d4b5f284a2de5247648cb"
+    ],
+    "imageUrl": "/images/articles/6441b2b0c416.jpg",
+    "i18n": {
+      "ko": {
+        "title": "XRP, 한국 주요 거래소서 비트코인·이더 거래량 앞서",
+        "excerpt": "XRP/KRW가 최근 업비트에서 최다 거래쌍, 빗썸에서 2위에 오르며 한국 시장에서 비트코인과 이더를 웃도는 거래 관심을 보였다고 코인데스크가 전했다.",
+        "body": "XRP가 최근 한국 주요 암호화폐 거래소에서 비트코인과 이더를 앞서는 거래량을 기록했다고 코인데스크가 보도했다. XRP/KRW 거래쌍은 업비트에서 가장 많이 거래됐고, 빗썸에서는 두 번째로 높은 거래쌍에 올랐다. 한국 시장에서 원화 기반 XRP 거래가 두드러지는 현상은 이전에도 여러 차례 관찰된 신호다. 코인데스크는 이런 거래량 확대가 종종 해당 토큰의 더 큰 가격 움직임에 앞서 나타났다고 설명했다. 다만 이번 보도는 거래량 순위와 시장 신호에 초점을 맞추며, 향후 가격 방향을 단정하지 않았다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "XRP Leads Bitcoin and Ether Volumes on Major Korean Exchanges",
+        "excerpt": "XRP/KRW recently became the top traded pair on Upbit and ranked second on Bithumb, showing stronger Korean market activity than bitcoin and ether, CoinDesk reported.",
+        "body": "XRP recently recorded stronger trading volume than bitcoin and ether on major South Korean crypto exchanges, according to CoinDesk. The XRP/KRW pair was the most traded market on Upbit and the second most traded pair on Bithumb. This pattern, where won-denominated XRP trading stands out in Korea, has appeared several times before. CoinDesk noted that such volume increases have often preceded sharper moves in the token. The report, however, focused on trading rankings and market signals and did not state a definitive future price direction. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "XRP、韓国主要取引所でビットコインとイーサの出来高を上回る",
+        "excerpt": "XRP/KRWは最近、アップビットで最多取引ペア、ビッサムで2位となり、韓国市場でビットコインとイーサを上回る関心を示したとCoinDeskが伝えた。",
+        "body": "XRPは最近、韓国の主要暗号資産取引所でビットコインとイーサを上回る取引量を記録したとCoinDeskが報じた。XRP/KRWの取引ペアはアップビットで最も多く取引され、ビッサムでは2番目に多い取引ペアとなった。韓国市場でウォン建てのXRP取引が目立つ現象は、これまでも複数回確認されてきたシグナルだ。CoinDeskは、こうした取引量の拡大が同トークンのより大きな値動きに先行することが多かったと説明した。ただし報道は取引量順位と市場シグナルに焦点を当てており、今後の価格方向を断定していない。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "XRP在韩国主要交易所成交量超过比特币和以太币",
+        "excerpt": "CoinDesk称，XRP/KRW近期成为Upbit成交量最高交易对，并在Bithumb排名第二，显示韩国市场对XRP的交易关注高于比特币和以太币。",
+        "body": "据CoinDesk报道，XRP近期在韩国主要加密货币交易所的成交量超过了比特币和以太币。XRP/KRW交易对在Upbit成为成交量最高的交易对，在Bithumb则位居第二。以韩元计价的XRP交易在韩国市场表现突出，这一现象此前已多次出现。CoinDesk指出，此类成交量扩大往往曾出现在该代币更剧烈价格波动之前。不过，该报道重点在于成交量排名和市场信号，并未对未来价格方向作出确定判断。来源: coindesk.com"
+      },
+      "es": {
+        "title": "XRP supera a bitcoin y ether en volumen en grandes exchanges de Corea",
+        "excerpt": "XRP/KRW fue recientemente el par más negociado en Upbit y el segundo en Bithumb, una señal de mayor actividad frente a bitcoin y ether en Corea, informó CoinDesk.",
+        "body": "XRP registró recientemente más volumen de negociación que bitcoin y ether en los principales exchanges de criptomonedas de Corea del Sur, según informó CoinDesk. El par XRP/KRW fue el más negociado en Upbit y ocupó el segundo lugar en Bithumb. Este patrón, en el que el comercio de XRP contra el won destaca en el mercado coreano, ya se ha observado en varias ocasiones. CoinDesk señaló que estos aumentos de volumen a menudo han precedido movimientos más bruscos del token. Sin embargo, el informe se centró en los rankings de volumen y las señales de mercado, sin afirmar una dirección futura del precio. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "XRP supera bitcoin e ether em volume nas grandes exchanges coreanas",
+        "excerpt": "O par XRP/KRW foi recentemente o mais negociado na Upbit e o segundo na Bithumb, indicando maior atividade na Coreia que bitcoin e ether, informou a CoinDesk.",
+        "body": "O XRP registrou recentemente volume de negociação maior que bitcoin e ether nas principais exchanges de criptomoedas da Coreia do Sul, segundo a CoinDesk. O par XRP/KRW foi o mais negociado na Upbit e ficou em segundo lugar na Bithumb. Esse padrão, em que as negociações de XRP contra o won se destacam no mercado coreano, já foi observado várias vezes antes. A CoinDesk afirmou que aumentos desse tipo no volume muitas vezes antecederam movimentos mais fortes do token. Ainda assim, a reportagem se concentrou nos rankings de volume e nos sinais de mercado, sem definir uma direção futura para o preço. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "XRP übertrifft Bitcoin und Ether beim Volumen auf Koreas Top-Börsen",
+        "excerpt": "XRP/KRW war zuletzt das meistgehandelte Paar auf Upbit und lag bei Bithumb auf Rang zwei, ein Signal stärkerer Aktivität gegenüber Bitcoin und Ether, so CoinDesk.",
+        "body": "XRP hat zuletzt auf wichtigen südkoreanischen Kryptobörsen ein höheres Handelsvolumen als Bitcoin und Ether verzeichnet, wie CoinDesk berichtete. Das Paar XRP/KRW war auf Upbit der meistgehandelte Markt und belegte auf Bithumb den zweiten Platz. Dass wonbasierter XRP-Handel in Korea hervorsticht, wurde bereits mehrfach beobachtet. CoinDesk erklärte, solche Volumenzuwächse seien häufig größeren Bewegungen des Tokens vorausgegangen. Der Bericht konzentrierte sich jedoch auf Handelsranglisten und Marktsignale und legte keine künftige Preisrichtung fest. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "XRP dépasse bitcoin et ether en volume sur les grandes plateformes coréennes",
+        "excerpt": "XRP/KRW a récemment été la paire la plus échangée sur Upbit et la deuxième sur Bithumb, signe d’une activité coréenne supérieure à bitcoin et ether, selon CoinDesk.",
+        "body": "XRP a récemment enregistré un volume d’échange supérieur à celui du bitcoin et de l’ether sur les principales plateformes crypto sud-coréennes, selon CoinDesk. La paire XRP/KRW a été la plus échangée sur Upbit et la deuxième sur Bithumb. Ce schéma, dans lequel les échanges de XRP contre le won ressortent nettement sur le marché coréen, a déjà été observé à plusieurs reprises. CoinDesk a indiqué que ces hausses de volume ont souvent précédé des mouvements plus marqués du token. Le rapport se concentre toutefois sur les classements de volume et les signaux de marché, sans conclure sur une direction future du prix. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "XRP يتصدر أحجام التداول على بيتكوين وإيثر في بورصات كوريا الكبرى",
+        "excerpt": "أفادت CoinDesk بأن زوج XRP/KRW أصبح مؤخرا الأكثر تداولا على Upbit والثاني على Bithumb، ما يعكس نشاطا كوريا أقوى من بيتكوين وإيثر.",
+        "body": "سجل XRP مؤخرا أحجام تداول أعلى من بيتكوين وإيثر على كبرى بورصات العملات المشفرة في كوريا الجنوبية، بحسب ما أفادت CoinDesk. كان زوج XRP/KRW الأكثر تداولا على Upbit، وجاء في المركز الثاني على Bithumb. هذا النمط، حيث يبرز تداول XRP مقابل الوون في السوق الكورية، ظهر عدة مرات من قبل. وأوضحت CoinDesk أن اتساع أحجام التداول من هذا النوع غالبا ما سبق تحركات أكبر في سعر الرمز. ومع ذلك، ركز التقرير على ترتيب أحجام التداول وإشارات السوق، ولم يجزم باتجاه السعر مستقبلا. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "XRP ने कोरिया के प्रमुख एक्सचेंजों पर बिटकॉइन और ईथर वॉल्यूम को पछाड़ा",
+        "excerpt": "CoinDesk के अनुसार XRP/KRW हाल में Upbit पर सबसे अधिक और Bithumb पर दूसरा सबसे अधिक ट्रेड हुआ, जिससे कोरियाई बाजार में बिटकॉइन और ईथर से अधिक सक्रियता दिखी।",
+        "body": "CoinDesk के अनुसार XRP ने हाल में दक्षिण कोरिया के प्रमुख क्रिप्टो एक्सचेंजों पर बिटकॉइन और ईथर से अधिक ट्रेडिंग वॉल्यूम दर्ज किया। XRP/KRW जोड़ी Upbit पर सबसे अधिक ट्रेड हुई और Bithumb पर दूसरे स्थान पर रही। कोरियाई बाजार में वॉन के मुकाबले XRP ट्रेडिंग का इस तरह उभरना पहले भी कई बार देखा गया संकेत है। CoinDesk ने बताया कि ऐसे वॉल्यूम विस्तार अक्सर टोकन में बड़े मूल्य उतार-चढ़ाव से पहले दिखाई दिए हैं। हालांकि रिपोर्ट ने ट्रेडिंग रैंकिंग और बाजार संकेतों पर ध्यान दिया और भविष्य की कीमत दिशा पर कोई निश्चित दावा नहीं किया। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "XRP Ungguli Volume Bitcoin dan Ether di Bursa Utama Korea Selatan",
+        "excerpt": "XRP/KRW baru-baru ini menjadi pasangan paling aktif di Upbit dan peringkat kedua di Bithumb, menunjukkan minat pasar Korea yang lebih besar dari bitcoin dan ether, menurut CoinDesk.",
+        "body": "XRP baru-baru ini mencatat volume perdagangan lebih tinggi daripada bitcoin dan ether di bursa kripto utama Korea Selatan, menurut laporan CoinDesk. Pasangan XRP/KRW menjadi pasar yang paling banyak diperdagangkan di Upbit dan menempati posisi kedua di Bithumb. Pola ketika perdagangan XRP berbasis won menonjol di pasar Korea telah beberapa kali terlihat sebelumnya. CoinDesk menyebut kenaikan volume seperti ini sering mendahului pergerakan harga token yang lebih tajam. Namun, laporan tersebut berfokus pada peringkat volume dan sinyal pasar, tanpa memastikan arah harga berikutnya. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
     "id": "de989bbf9d47",
     "slug": "kelp-dao-eyes-unpausing-withdrawals-after-attackers-rseth-on-242614",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "CFTC Bahas Pengawasan Pasar Prediksi dengan Liga Olahraga Besar",
         "excerpt": "Ketua CFTC Michael Selig mengatakan lembaganya berdiskusi dengan semua liga olahraga profesional besar AS tentang pengawasan pasar prediksi olahraga.",
         "body": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) sedang berbicara dengan semua liga olahraga profesional besar tentang cara mengawasi pasar prediksi olahraga. Ketua Michael Selig mengatakan lembaga itu telah membawa beberapa negara bagian ke pengadilan untuk membuktikan bahwa kontrak olahraga bukan sekadar taruhan, melainkan derivatif. Isu ini terkait perdebatan tentang bagaimana produk pasar prediksi yang berhubungan dengan olahraga harus diperlakukan dalam regulasi. Hasil pembicaraan antara CFTC, negara bagian dan liga olahraga, serta proses hukum terkait, dapat memengaruhi standar pengawasan pasar ke depan. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "526532fcb330",
-    "slug": "coindesk-20-performance-update-sui-drops-49-as-index-trades--788917",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T14:54:43.716Z",
-    "updatedAt": "2026-05-12T14:54:43.716Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/coindesk-indices/2026/05/12/coindesk-20-performance-update-sui-drops-4-9-as-index-trades-lower",
-    "canonicalUrl": "https://www.coindesk.com/coindesk-indices/2026/05/12/coindesk-20-performance-update-sui-drops-4-9-as-index-trades-lower",
-    "titleFingerprint": "bb0607150032fcc5cac718cb5a3ba896916e5b22",
-    "dedupKeys": [
-      "526532fcb33062420c9e52d32b6fb5eee939211c",
-      "bb0607150032fcc5cac718cb5a3ba896916e5b22",
-      "856faefc81befb7c19e3d906ce0206022dc6e170"
-    ],
-    "imageUrl": "/images/articles/526532fcb330.png",
-    "i18n": {
-      "ko": {
-        "title": "CoinDesk 20 하락세, SUI 4.9% 급락과 TAO 4.4% 약세 주목",
-        "excerpt": "CoinDesk 20 지수가 월요일 대비 낮게 거래된 가운데 Sui(SUI)는 4.9%, Bittensor(TAO)는 4.4% 하락하며 주요 부진 종목으로 꼽혔다.",
-        "body": "CoinDesk 20 지수가 월요일 대비 약세로 거래되는 가운데 Sui(SUI)가 4.9% 하락하며 지수 내 부진 종목으로 나타났다. 같은 흐름에서 Bittensor(TAO)도 월요일보다 4.4% 내리며 SUI와 함께 하락 폭이 두드러진 자산으로 언급됐다. 이번 성과 업데이트는 지수 전반이 낮게 움직이는 상황에서 일부 구성 종목의 낙폭이 상대적으로 컸다는 점을 보여준다. 투자자들은 CoinDesk 20의 단기 흐름과 SUI, TAO의 가격 움직임을 함께 확인할 필요가 있다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "CoinDesk 20 Trades Lower as SUI Falls 4.9% and TAO Drops 4.4%",
-        "excerpt": "As the CoinDesk 20 traded lower from Monday, Sui (SUI) fell 4.9% and Bittensor (TAO) declined 4.4%, making both notable underperformers.",
-        "body": "The CoinDesk 20 traded lower from Monday, with Sui (SUI) falling 4.9% and emerging as a notable underperformer in the index. Bittensor (TAO) also joined the weaker group, declining 4.4% from Monday. The performance update shows that while the broader index moved lower, losses in selected components stood out more clearly. Investors tracking the CoinDesk 20 may need to watch the short-term moves in SUI and TAO alongside the overall index trend. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "CoinDesk 20が下落、SUIは4.9％安でTAOも4.4％下落",
-        "excerpt": "CoinDesk 20が月曜日比で軟調に推移する中、Sui（SUI）は4.9％、Bittensor（TAO）は4.4％下落し、目立つ不振銘柄となった。",
-        "body": "CoinDesk 20は月曜日比で下落して取引される中、Sui（SUI）が4.9％下落し、指数内で目立つ不振銘柄となった。同じ流れでBittensor（TAO）も月曜日から4.4％下げ、SUIと並んで下落が大きい資産として挙げられた。今回のパフォーマンス更新は、指数全体が弱含む中で一部構成銘柄の下落幅が相対的に大きかったことを示している。投資家はCoinDesk 20の短期動向とSUI、TAOの値動きをあわせて確認する必要がある。出典: coindesk.com。"
-      },
-      "zh": {
-        "title": "CoinDesk 20走低，SUI下跌4.9%，TAO下跌4.4%受关注",
-        "excerpt": "CoinDesk 20较周一走低，Sui（SUI）下跌4.9%，Bittensor（TAO）下跌4.4%，两者成为表现偏弱的主要成分资产。",
-        "body": "CoinDesk 20较周一走低交易，其中Sui（SUI）下跌4.9%，成为指数中表现偏弱的资产。与此同时，Bittensor（TAO）也较周一下跌4.4%，与SUI一同被列为表现不佳的项目。本次表现更新显示，在指数整体下行的背景下，部分成分资产的跌幅更为突出。关注CoinDesk 20的投资者需要同时留意指数短期走势以及SUI、TAO的价格变化。来源: coindesk.com。"
-      },
-      "es": {
-        "title": "CoinDesk 20 cae: SUI baja 4,9% y TAO retrocede 4,4%",
-        "excerpt": "Mientras el CoinDesk 20 cotizó por debajo del lunes, Sui (SUI) cayó 4,9% y Bittensor (TAO) bajó 4,4%, destacando como activos rezagados.",
-        "body": "El CoinDesk 20 cotizó a la baja frente al lunes, con Sui (SUI) cayendo 4,9% y destacando como uno de los activos con peor desempeño del índice. Bittensor (TAO) también se sumó al grupo rezagado, con un descenso de 4,4% desde el lunes. La actualización de desempeño muestra que, aunque el índice general se movió a la baja, algunas caídas entre sus componentes fueron más pronunciadas. Los inversores que siguen el CoinDesk 20 deberían observar el movimiento de corto plazo de SUI y TAO junto con la tendencia del índice. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "CoinDesk 20 recua: SUI cai 4,9% e TAO perde 4,4%",
-        "excerpt": "Com o CoinDesk 20 negociado abaixo de segunda-feira, Sui (SUI) caiu 4,9% e Bittensor (TAO) recuou 4,4%, figurando entre os destaques negativos.",
-        "body": "O CoinDesk 20 foi negociado em queda em relação a segunda-feira, enquanto Sui (SUI) caiu 4,9% e apareceu como um dos ativos de pior desempenho no índice. Bittensor (TAO) também entrou no grupo de desempenho fraco, com baixa de 4,4% desde segunda-feira. A atualização mostra que, embora o índice mais amplo tenha se movido para baixo, algumas perdas entre seus componentes foram mais evidentes. Investidores que acompanham o CoinDesk 20 devem observar os movimentos de curto prazo de SUI e TAO junto com a tendência geral do índice. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "CoinDesk 20 schwächer: SUI fällt 4,9%, TAO verliert 4,4%",
-        "excerpt": "Der CoinDesk 20 notierte niedriger als am Montag; Sui (SUI) fiel um 4,9% und Bittensor (TAO) gab um 4,4% nach, beide als schwache Werte.",
-        "body": "Der CoinDesk 20 wurde niedriger als am Montag gehandelt, während Sui (SUI) um 4,9% fiel und als auffälliger Underperformer im Index hervorstach. Bittensor (TAO) gehörte ebenfalls zu den schwächeren Werten und verlor gegenüber Montag 4,4%. Das Performance-Update zeigt, dass sich der Gesamtindex zwar nach unten bewegte, einzelne Bestandteile aber besonders deutliche Rückgänge verzeichneten. Anleger, die den CoinDesk 20 verfolgen, sollten die kurzfristige Entwicklung von SUI und TAO zusammen mit dem Indextrend beobachten. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "CoinDesk 20 en baisse : SUI perd 4,9% et TAO recule de 4,4%",
-        "excerpt": "Alors que le CoinDesk 20 s’échangeait sous son niveau de lundi, Sui (SUI) a perdu 4,9% et Bittensor (TAO) a reculé de 4,4%.",
-        "body": "Le CoinDesk 20 s’est échangé en baisse par rapport à lundi, avec Sui (SUI) en recul de 4,9%, ce qui en fait l’un des actifs les moins performants de l’indice. Bittensor (TAO) a également rejoint les valeurs en retrait, avec une baisse de 4,4% depuis lundi. Cette mise à jour de performance montre que, même si l’indice global évoluait à la baisse, certaines composantes ont enregistré des pertes plus marquées. Les investisseurs suivant le CoinDesk 20 peuvent surveiller les mouvements de court terme de SUI et TAO avec la tendance générale. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "CoinDesk 20 يتراجع مع هبوط SUI بنسبة 4.9% وTAO بنسبة 4.4%",
-        "excerpt": "تداول مؤشر CoinDesk 20 عند مستويات أدنى من يوم الاثنين، بينما هبط Sui (SUI) بنسبة 4.9% وتراجع Bittensor (TAO) بنسبة 4.4%.",
-        "body": "تداول مؤشر CoinDesk 20 على انخفاض مقارنة بيوم الاثنين، مع هبوط Sui (SUI) بنسبة 4.9% ليظهر كأحد الأصول الأضعف أداء داخل المؤشر. كما انضم Bittensor (TAO) إلى قائمة المتراجعين، منخفضا بنسبة 4.4% عن يوم الاثنين. يوضح تحديث الأداء أن المؤشر الأوسع تحرك إلى مستويات أدنى، بينما كانت خسائر بعض مكوناته أكثر بروزا. على المستثمرين الذين يتابعون CoinDesk 20 مراقبة الحركة قصيرة الأجل لكل من SUI وTAO إلى جانب اتجاه المؤشر العام. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "CoinDesk 20 में गिरावट, SUI 4.9% और TAO 4.4% फिसले",
-        "excerpt": "CoinDesk 20 सोमवार की तुलना में निचले स्तर पर कारोबार करता दिखा, जबकि Sui (SUI) 4.9% और Bittensor (TAO) 4.4% गिरकर कमजोर प्रदर्शन करने वालों में रहे।",
-        "body": "CoinDesk 20 सोमवार की तुलना में निचले स्तर पर कारोबार कर रहा था, जिसमें Sui (SUI) 4.9% गिरकर सूचकांक के प्रमुख कमजोर प्रदर्शन करने वाले एसेट्स में शामिल रहा। इसी रुझान में Bittensor (TAO) भी सोमवार से 4.4% नीचे आया और SUI के साथ कमजोर श्रेणी में जुड़ गया। यह प्रदर्शन अपडेट दिखाता है कि व्यापक सूचकांक में गिरावट के बीच कुछ घटकों की कमजोरी अधिक स्पष्ट रही। CoinDesk 20 पर नजर रखने वाले निवेशकों को सूचकांक की अल्पकालिक दिशा के साथ SUI और TAO की कीमतों की चाल भी देखनी चाहिए। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "CoinDesk 20 Melemah, SUI Turun 4,9% dan TAO Susut 4,4%",
-        "excerpt": "CoinDesk 20 diperdagangkan lebih rendah dari Senin, sementara Sui (SUI) turun 4,9% dan Bittensor (TAO) melemah 4,4% sebagai aset berkinerja lemah.",
-        "body": "CoinDesk 20 diperdagangkan lebih rendah dibandingkan Senin, dengan Sui (SUI) turun 4,9% dan menjadi salah satu aset berkinerja lemah dalam indeks. Bittensor (TAO) juga masuk kelompok yang tertinggal, melemah 4,4% dari Senin. Pembaruan kinerja ini menunjukkan bahwa saat indeks secara umum bergerak turun, penurunan pada beberapa komponen terlihat lebih menonjol. Investor yang memantau CoinDesk 20 perlu mencermati pergerakan jangka pendek SUI dan TAO bersama arah indeks secara keseluruhan. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "d63b3d291a1d",
-    "slug": "elliptic-raises-120-million-backed-by-nasdaq-deutsche-bank-a-931375",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T14:53:06.462Z",
-    "updatedAt": "2026-05-12T14:53:06.462Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/12/elliptic-raises-usd120-million-backed-by-nasdaq-deutsche-bank-as-ai-reshapes-crypto-security",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/12/elliptic-raises-usd120-million-backed-by-nasdaq-deutsche-bank-as-ai-reshapes-crypto-security",
-    "titleFingerprint": "d4a7e742fa0aacfc29476c8e6de09d0f03a7dadd",
-    "dedupKeys": [
-      "d63b3d291a1d309665d735f0c21402ee956fdb0c",
-      "d4a7e742fa0aacfc29476c8e6de09d0f03a7dadd",
-      "ff6617eadb3a1309ec21df249b76216cbd55063b"
-    ],
-    "imageUrl": "/images/articles/d63b3d291a1d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "엘립틱, 나스닥·도이체방크 지원 속 1억2000만달러 조달",
-        "excerpt": "가상자산 분석기업 엘립틱은 나스닥과 도이체방크의 지원을 받아 1억2000만달러를 조달하고 AI 기반 모니터링 도구 확대에 나선다.",
-        "body": "가상자산 분석기업 엘립틱이 나스닥과 도이체방크의 지원을 받아 1억2000만달러를 조달했다. 회사는 스테이블코인과 토큰화 금융이 빠르게 성장하는 가운데 AI 기반 모니터링 도구를 확대할 계획이다. 시몬 마이니 최고경영자는 암호화폐 보안 환경이 AI로 재편되고 있으며, 이에 맞춰 분석과 감시 역량을 강화하겠다고 밝혔다. 이번 자금 조달은 가상자산 시장에서 규정 준수와 보안 수요가 커지는 흐름과 맞물린다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Elliptic Raises $120M as Nasdaq and Deutsche Bank Back Crypto AI Security",
-        "excerpt": "Crypto analytics firm Elliptic raised $120 million with backing from Nasdaq and Deutsche Bank to expand AI-powered monitoring tools as stablecoins grow.",
-        "body": "Crypto analytics firm Elliptic has raised $120 million with backing from Nasdaq and Deutsche Bank. The company plans to expand its AI-powered monitoring tools as stablecoins and tokenized finance grow rapidly. CEO Simone Maini said the crypto security landscape is being reshaped by AI, and Elliptic aims to strengthen its analytics and surveillance capabilities in response. The funding comes as demand for compliance and security in digital assets continues to rise. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "エリプティック、ナスダックとドイツ銀行支援で1.2億ドル調達",
-        "excerpt": "暗号資産分析企業エリプティックは、ナスダックとドイツ銀行の支援を受け1.2億ドルを調達し、AI監視ツールを拡大する。",
-        "body": "暗号資産分析企業エリプティックは、ナスダックとドイツ銀行の支援を受けて1億2000万ドルを調達した。同社は、ステーブルコインとトークン化金融が急速に成長するなか、AIを活用した監視ツールを拡大する計画だ。シモーネ・マイニCEOは、暗号資産セキュリティの環境がAIによって再編されており、それに合わせて分析と監視の能力を強化すると述べた。今回の資金調達は、デジタル資産市場でコンプライアンスとセキュリティ需要が高まる流れと重なる。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "Elliptic获纳斯达克、德意志银行支持融资1.2亿美元",
-        "excerpt": "加密分析公司Elliptic在纳斯达克和德意志银行支持下融资1.2亿美元，将扩大AI驱动的监控工具，应对稳定币增长。",
-        "body": "加密资产分析公司Elliptic在纳斯达克和德意志银行支持下融资1.2亿美元。该公司计划在稳定币和代币化金融快速增长之际，扩大其AI驱动的监控工具。首席执行官Simone Maini表示，AI正在重塑加密安全环境，Elliptic将相应加强分析和监控能力。此次融资也与数字资产市场对合规和安全需求上升的趋势相吻合。来源: coindesk.com."
-      },
-      "es": {
-        "title": "Elliptic recauda 120 millones de dólares con apoyo de Nasdaq y Deutsche Bank",
-        "excerpt": "La firma de análisis cripto Elliptic recaudó 120 millones de dólares con respaldo de Nasdaq y Deutsche Bank para ampliar herramientas de monitoreo con IA.",
-        "body": "La firma de análisis de criptoactivos Elliptic recaudó 120 millones de dólares con el respaldo de Nasdaq y Deutsche Bank. La compañía planea ampliar sus herramientas de monitoreo impulsadas por IA mientras las stablecoins y las finanzas tokenizadas crecen con rapidez. La CEO Simone Maini dijo que la seguridad cripto está siendo remodelada por la IA y que Elliptic reforzará sus capacidades de análisis y vigilancia. La financiación llega en un momento de mayor demanda de cumplimiento y seguridad en activos digitales. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Elliptic capta US$ 120 milhões com apoio de Nasdaq e Deutsche Bank",
-        "excerpt": "A empresa de análise cripto Elliptic captou US$ 120 milhões com apoio de Nasdaq e Deutsche Bank para ampliar ferramentas de monitoramento com IA.",
-        "body": "A empresa de análise de criptoativos Elliptic captou US$ 120 milhões com o apoio da Nasdaq e do Deutsche Bank. A companhia planeja expandir suas ferramentas de monitoramento baseadas em IA enquanto stablecoins e finanças tokenizadas crescem rapidamente. A CEO Simone Maini afirmou que a segurança cripto está sendo remodelada pela IA e que a Elliptic pretende reforçar suas capacidades de análise e vigilância. O financiamento ocorre em meio ao aumento da demanda por conformidade e segurança em ativos digitais. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Elliptic sammelt 120 Mio. Dollar mit Nasdaq und Deutscher Bank ein",
-        "excerpt": "Das Kryptoanalyse-Unternehmen Elliptic sammelte 120 Mio. Dollar mit Unterstützung von Nasdaq und Deutscher Bank ein, um KI-Monitoring auszubauen.",
-        "body": "Das Kryptoanalyse-Unternehmen Elliptic hat 120 Millionen Dollar mit Unterstützung von Nasdaq und Deutscher Bank eingesammelt. Das Unternehmen will seine KI-gestützten Monitoring-Tools ausbauen, während Stablecoins und tokenisierte Finanzprodukte rasch wachsen. CEO Simone Maini sagte, die Kryptosicherheit werde durch KI neu geprägt, und Elliptic wolle seine Analyse- und Überwachungsfähigkeiten entsprechend stärken. Die Finanzierung fällt in eine Phase steigender Nachfrage nach Compliance und Sicherheit bei digitalen Vermögenswerten. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Elliptic lève 120 M$ avec l’appui de Nasdaq et Deutsche Bank",
-        "excerpt": "La société d’analyse crypto Elliptic a levé 120 M$ avec le soutien de Nasdaq et Deutsche Bank afin d’étendre ses outils de surveillance par IA.",
-        "body": "La société d’analyse de cryptoactifs Elliptic a levé 120 millions de dollars avec le soutien de Nasdaq et de Deutsche Bank. Elle prévoit d’élargir ses outils de surveillance alimentés par l’IA alors que les stablecoins et la finance tokenisée progressent rapidement. La CEO Simone Maini a déclaré que la sécurité crypto était remodelée par l’IA et qu’Elliptic entendait renforcer ses capacités d’analyse et de contrôle. Ce financement intervient alors que la demande de conformité et de sécurité augmente dans les actifs numériques. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "إليبتيك تجمع 120 مليون دولار بدعم ناسداك ودويتشه بنك",
-        "excerpt": "جمعت شركة تحليل العملات المشفرة إليبتيك 120 مليون دولار بدعم من ناسداك ودويتشه بنك لتوسيع أدوات المراقبة المدعومة بالذكاء الاصطناعي.",
-        "body": "جمعت شركة تحليل الأصول المشفرة إليبتيك 120 مليون دولار بدعم من ناسداك ودويتشه بنك. وتخطط الشركة لتوسيع أدوات المراقبة المدعومة بالذكاء الاصطناعي مع النمو السريع للعملات المستقرة والتمويل المرمز. وقالت الرئيسة التنفيذية سيمون مايني إن مشهد أمن العملات المشفرة يعاد تشكيله بفعل الذكاء الاصطناعي، وإن إليبتيك ستعزز قدراتها في التحليل والمراقبة تبعا لذلك. ويأتي التمويل مع تزايد الطلب على الامتثال والأمن في الأصول الرقمية. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "Elliptic ने Nasdaq और Deutsche Bank समर्थन से 12 करोड़ डॉलर जुटाए",
-        "excerpt": "क्रिप्टो एनालिटिक्स फर्म Elliptic ने Nasdaq और Deutsche Bank के समर्थन से 12 करोड़ डॉलर जुटाए और AI निगरानी टूल बढ़ाने की योजना बनाई।",
-        "body": "क्रिप्टो एसेट एनालिटिक्स फर्म Elliptic ने Nasdaq और Deutsche Bank के समर्थन से 12 करोड़ डॉलर जुटाए हैं। कंपनी स्थिरकॉइन और टोकनाइज्ड फाइनेंस के तेज विस्तार के बीच AI-संचालित मॉनिटरिंग टूल बढ़ाने की योजना बना रही है। CEO Simone Maini ने कहा कि AI क्रिप्टो सुरक्षा परिदृश्य को नया आकार दे रहा है, और Elliptic इसके अनुरूप अपनी विश्लेषण तथा निगरानी क्षमताएं मजबूत करेगी। यह फंडिंग डिजिटल एसेट बाजार में अनुपालन और सुरक्षा की बढ़ती मांग के बीच आई है। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Elliptic Raih US$120 Juta Didukung Nasdaq dan Deutsche Bank",
-        "excerpt": "Perusahaan analitik kripto Elliptic meraih US$120 juta dengan dukungan Nasdaq dan Deutsche Bank untuk memperluas alat pemantauan berbasis AI.",
-        "body": "Perusahaan analitik aset kripto Elliptic meraih pendanaan US$120 juta dengan dukungan Nasdaq dan Deutsche Bank. Perusahaan berencana memperluas alat pemantauan berbasis AI seiring pertumbuhan cepat stablecoin dan keuangan tertokenisasi. CEO Simone Maini mengatakan lanskap keamanan kripto sedang dibentuk ulang oleh AI, dan Elliptic akan memperkuat kemampuan analisis serta pengawasannya. Pendanaan ini hadir saat kebutuhan kepatuhan dan keamanan di pasar aset digital terus meningkat. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "40727d420ce1",
-    "slug": "spot-xrp-etfs-attract-biggest-inflows-since-january-354995",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T14:51:39.284Z",
-    "updatedAt": "2026-05-12T14:51:39.284Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/12/spot-xrp-etfs-attract-biggest-inflows-since-january",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/12/spot-xrp-etfs-attract-biggest-inflows-since-january",
-    "titleFingerprint": "a7532459a495c630c799e68967e3b5bc089eb4b2",
-    "dedupKeys": [
-      "40727d420ce1fc546975dd672066cec0495d67d8",
-      "a7532459a495c630c799e68967e3b5bc089eb4b2",
-      "00355e2e2ddc5b1f7327926b24ec193fdec698d7"
-    ],
-    "imageUrl": "/images/articles/40727d420ce1.png",
-    "i18n": {
-      "ko": {
-        "title": "스팟 XRP ETF, 월요일 2,580만달러 유입…1월 이후 최대",
-        "excerpt": "미국 상장 스팟 XRP 펀드 5개가 월요일 2,580만달러 순유입을 기록하며 1월 5일 이후 최대 단일일 유입을 보였고, 이더 현물 ETF는 약 1,700만달러가 빠졌다.",
-        "body": "미국에 상장된 스팟 XRP ETF 5개가 월요일 하루 동안 총 2,580만달러의 순유입을 기록했다. 이는 1월 5일 이후 가장 큰 단일일 순유입으로, 같은 날 이더 현물 ETF에서 약 1,700만달러가 유출된 흐름과 대비된다. 이번 수치는 XRP 관련 현물 상품으로 자금이 다시 유입되고 있음을 보여주는 지표다. 다만 원문은 가격 전망이나 추가 배경보다는 펀드별 자금 흐름 자체에 초점을 맞췄다. 스팟 XRP ETF의 단일일 유입 확대는 투자자 관심을 확인하는 자료로 해석될 수 있지만, 시장 전반의 방향성을 단정하기에는 제한적이다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Spot XRP ETFs Draw $25.8M Monday, Biggest Inflow Since January",
-        "excerpt": "Five U.S.-listed spot XRP funds recorded $25.8 million in net inflows on Monday, the largest one-day inflow since Jan. 5, while ether spot ETFs lost nearly $17 million.",
-        "body": "Five U.S.-listed spot XRP ETFs recorded a combined $25.8 million in net inflows on Monday. It was the largest single-day net inflow for the products since Jan. 5 and contrasted with the same-day movement in ether spot ETFs, which saw nearly $17 million in outflows. The figures show renewed capital moving into XRP-linked spot products. The original report focused on fund flows rather than price forecasts or broader market claims. While the stronger one-day inflow can be read as evidence of investor attention toward spot XRP ETFs, it is limited as a signal for the overall market direction. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "スポットXRP ETF、月曜に2,580万ドル流入 1月以来最大",
-        "excerpt": "米国上場のスポットXRPファンド5本は月曜日に2,580万ドルの純流入を記録し、1月5日以来最大の単日流入となった一方、イーサ現物ETFは約1,700万ドル流出した。",
-        "body": "米国に上場するスポットXRP ETF 5本は、月曜日の1日で合計2,580万ドルの純流入を記録した。これは1月5日以来最大の単日純流入であり、同日にイーサ現物ETFから約1,700万ドルが流出した動きと対照的だった。今回の数字は、XRP関連の現物商品に資金が再び向かっていることを示す材料だ。ただし原文は、価格見通しや追加の市場背景ではなく、ファンドの資金フローそのものに焦点を当てている。スポットXRP ETFの単日流入拡大は投資家の関心を確認する資料になり得るが、市場全体の方向性を断定するには限界がある。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "现货XRP ETF周一流入2580万美元，创1月以来最高",
-        "excerpt": "美国上市的5只现货XRP基金周一录得2580万美元净流入，为1月5日以来最大单日流入；同期以太坊现货ETF流出近1700万美元。",
-        "body": "美国上市的5只现货XRP ETF周一合计录得2580万美元净流入。这是自1月5日以来该类产品最大的单日净流入，并与同日以太坊现货ETF近1700万美元的资金流出形成对比。该数据表明，资金正重新流入与XRP相关的现货产品。原文重点放在基金资金流向本身，而非价格预测或更广泛的市场判断。现货XRP ETF单日流入扩大，可以作为投资者关注度上升的参考，但仅凭这一数据仍不足以断定整体市场方向。来源：coindesk.com。"
-      },
-      "es": {
-        "title": "ETF spot de XRP captan US$25,8M el lunes, máximo desde enero",
-        "excerpt": "Cinco fondos spot de XRP cotizados en EE. UU. registraron US$25,8 millones en entradas netas el lunes, el mayor flujo diario desde el 5 de enero, mientras los ETF spot de ether perdieron casi US$17 millones.",
-        "body": "Cinco ETF spot de XRP listados en Estados Unidos registraron el lunes entradas netas combinadas por US$25,8 millones. Fue la mayor entrada neta en un solo día desde el 5 de enero y contrastó con el movimiento de los ETF spot de ether, que ese mismo día tuvieron salidas por casi US$17 millones. La cifra muestra un renovado ingreso de capital hacia productos spot vinculados a XRP. El reporte original se centró en los flujos de fondos, no en previsiones de precio ni en afirmaciones amplias sobre el mercado. Aunque el aumento diario puede reflejar interés de los inversores, no basta para definir la dirección general del mercado. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "ETFs spot de XRP atraem US$25,8 mi na segunda, maior fluxo desde janeiro",
-        "excerpt": "Cinco fundos spot de XRP listados nos EUA tiveram US$25,8 milhões em entradas líquidas na segunda-feira, o maior fluxo diário desde 5 de janeiro, enquanto ETFs spot de ether perderam quase US$17 milhões.",
-        "body": "Cinco ETFs spot de XRP listados nos Estados Unidos registraram na segunda-feira entradas líquidas combinadas de US$25,8 milhões. Foi a maior entrada líquida em um único dia desde 5 de janeiro e contrastou com o movimento dos ETFs spot de ether, que tiveram saídas de quase US$17 milhões no mesmo dia. O número mostra capital voltando para produtos spot ligados ao XRP. A reportagem original concentrou-se nos fluxos dos fundos, sem fazer previsões de preço ou conclusões amplas sobre o mercado. Embora a entrada diária maior indique atenção dos investidores, ela é limitada para definir a direção geral do mercado. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Spot-XRP-ETFs ziehen Montag 25,8 Mio. USD an, höchster Zufluss seit Januar",
-        "excerpt": "Fünf in den USA gelistete Spot-XRP-Fonds verzeichneten am Montag Nettozuflüsse von 25,8 Mio. USD, den größten Tageszufluss seit dem 5. Januar, während Ether-Spot-ETFs fast 17 Mio. USD verloren.",
-        "body": "Fünf in den USA gelistete Spot-XRP-ETFs verzeichneten am Montag zusammen Nettozuflüsse von 25,8 Mio. US-Dollar. Das war der größte eintägige Nettozufluss seit dem 5. Januar und stand im Gegensatz zu Ether-Spot-ETFs, aus denen am selben Tag fast 17 Mio. US-Dollar abflossen. Die Zahl zeigt, dass wieder Kapital in XRP-bezogene Spot-Produkte fließt. Der ursprüngliche Bericht konzentrierte sich auf Fondsflüsse, nicht auf Preisprognosen oder weitergehende Marktaussagen. Der höhere Tageszufluss kann als Hinweis auf Anlegerinteresse gelten, reicht aber nicht aus, um die Richtung des Gesamtmarkts festzulegen. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Les ETF spot XRP attirent 25,8 M$ lundi, plus forte entrée depuis janvier",
-        "excerpt": "Cinq fonds spot XRP cotés aux États-Unis ont enregistré 25,8 M$ d’entrées nettes lundi, le plus fort flux quotidien depuis le 5 janvier, tandis que les ETF spot ether perdaient près de 17 M$.",
-        "body": "Cinq ETF spot XRP cotés aux États-Unis ont enregistré lundi 25,8 millions de dollars d’entrées nettes combinées. Il s’agit de la plus forte entrée nette en une journée depuis le 5 janvier, en contraste avec les ETF spot ether, qui ont subi près de 17 millions de dollars de sorties le même jour. Ces chiffres montrent un retour de capitaux vers les produits spot liés au XRP. Le rapport original se concentre sur les flux de fonds, sans avancer de prévisions de prix ni de conclusions plus larges sur le marché. Cette hausse quotidienne peut signaler l’intérêt des investisseurs, mais elle reste insuffisante pour déterminer la tendance générale du marché. Source : coindesk.com."
-      },
-      "ar": {
-        "title": "صناديق XRP الفورية تجذب 25.8 مليون دولار الاثنين، الأكبر منذ يناير",
-        "excerpt": "سجلت خمسة صناديق XRP فورية مدرجة في الولايات المتحدة صافي تدفقات بلغ 25.8 مليون دولار يوم الاثنين، وهو أكبر تدفق يومي منذ 5 يناير، بينما فقدت صناديق إيثر الفورية نحو 17 مليون دولار.",
-        "body": "سجلت خمسة صناديق ETF فورية لـXRP مدرجة في الولايات المتحدة صافي تدفقات داخلة مجمعة بلغ 25.8 مليون دولار يوم الاثنين. ويعد ذلك أكبر صافي تدفق يومي لهذه المنتجات منذ 5 يناير، وجاء في مقابل خروج ما يقرب من 17 مليون دولار من صناديق ETF الفورية للإيثر في اليوم نفسه. تكشف هذه الأرقام عن عودة رأس المال إلى المنتجات الفورية المرتبطة بـXRP. وركز التقرير الأصلي على حركة أموال الصناديق نفسها، لا على توقعات الأسعار أو استنتاجات أوسع للسوق. ويمكن قراءة زيادة التدفق اليومي كمؤشر على اهتمام المستثمرين، لكنها لا تكفي وحدها لتحديد اتجاه السوق العام. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "स्पॉट XRP ETF में सोमवार को $25.8M इनफ्लो, जनवरी के बाद सबसे बड़ा",
-        "excerpt": "अमेरिका में सूचीबद्ध पांच स्पॉट XRP फंडों में सोमवार को $25.8 मिलियन का नेट इनफ्लो आया, जो 5 जनवरी के बाद सबसे बड़ा एकदिवसीय प्रवाह है, जबकि ईथर स्पॉट ETF से करीब $17 मिलियन निकले।",
-        "body": "अमेरिका में सूचीबद्ध पांच स्पॉट XRP ETF में सोमवार को कुल $25.8 मिलियन का नेट इनफ्लो दर्ज हुआ। यह 5 जनवरी के बाद इन उत्पादों के लिए सबसे बड़ा एकदिवसीय नेट इनफ्लो था और उसी दिन ईथर स्पॉट ETF से लगभग $17 मिलियन की निकासी के विपरीत रहा। यह आंकड़ा दिखाता है कि XRP से जुड़े स्पॉट उत्पादों में पूंजी फिर से आ रही है। मूल रिपोर्ट का ध्यान फंड फ्लो पर था, न कि कीमत के अनुमान या व्यापक बाजार दावों पर। स्पॉट XRP ETF में बढ़ा दैनिक इनफ्लो निवेशक रुचि का संकेत माना जा सकता है, लेकिन इससे पूरे बाजार की दिशा तय करना सीमित होगा। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "ETF spot XRP serap US$25,8 juta Senin, arus terbesar sejak Januari",
-        "excerpt": "Lima dana spot XRP yang tercatat di AS membukukan arus masuk bersih US$25,8 juta pada Senin, terbesar dalam satu hari sejak 5 Januari, sementara ETF spot ether keluar hampir US$17 juta.",
-        "body": "Lima ETF spot XRP yang terdaftar di Amerika Serikat mencatat arus masuk bersih gabungan US$25,8 juta pada Senin. Angka itu menjadi arus masuk bersih harian terbesar sejak 5 Januari dan berlawanan dengan ETF spot ether, yang pada hari yang sama mencatat arus keluar hampir US$17 juta. Data ini menunjukkan modal kembali masuk ke produk spot yang terkait XRP. Laporan asli berfokus pada aliran dana, bukan proyeksi harga atau klaim pasar yang lebih luas. Kenaikan arus masuk harian dapat dibaca sebagai tanda minat investor terhadap ETF spot XRP, tetapi masih terbatas untuk menyimpulkan arah pasar secara keseluruhan. Sumber: coindesk.com."
       }
     }
   }
