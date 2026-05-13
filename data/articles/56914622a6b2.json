@@ -1,0 +1,75 @@
+{
+  "id": "56914622a6b2",
+  "slug": "wall-street39s-clearinghouse-dtcc-enlists-chainlink-for-coll-935940",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-13T00:05:57.557Z",
+  "updatedAt": "2026-05-13T00:05:57.557Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367600/wall-streets-clearinghouse-dtcc-chainlink-collateral-management",
+  "canonicalUrl": "https://decrypt.co/367600/wall-streets-clearinghouse-dtcc-chainlink-collateral-management",
+  "titleFingerprint": "3dadbabb7c0cb56bfce3109db2cecc857953d197",
+  "dedupKeys": [
+    "56914622a6b283d7949e9a0d46102ac6730fb665",
+    "3dadbabb7c0cb56bfce3109db2cecc857953d197",
+    "f00ed99c49f9a91a7c04dcd68c27a39b7a496231"
+  ],
+  "imageUrl": "/images/articles/56914622a6b2.jpg",
+  "i18n": {
+    "ko": {
+      "title": "DTCC·체인링크, 24시간 담보 이동으로 후거래 금융 혁신",
+      "excerpt": "월가 청산기관 DTCC가 체인링크와 협력해 담보 관리를 위한 24시간 담보 이동 체계를 추진하며 후거래 금융 변화 가능성을 제시했다.",
+      "body": "월가의 청산기관 DTCC가 체인링크와 손잡고 담보 관리 분야에서 24시간 담보 이동을 가능하게 하는 협력에 나섰다. 이번 협력은 거래가 끝난 뒤 자산과 의무를 정리하는 후거래 금융 영역에서 담보를 시간 제약 없이 움직일 수 있도록 하는 데 초점을 둔다. 원문은 구체적인 적용 일정이나 참여 기관 수치를 제시하지 않았지만, 담보 이동의 상시화가 기존 후거래 업무 방식에 변화를 줄 수 있다고 전했다. Decrypt.co는 이번 DTCC와 체인링크의 협력이 후거래 금융을 재편할 수 있는 전환점이 될 수 있다고 보도했다."
+    },
+    "en": {
+      "title": "DTCC and Chainlink Target 24/7 Collateral Movement in Post-Trade Finance",
+      "excerpt": "Wall Street clearinghouse DTCC is working with Chainlink to enable around-the-clock collateral movement, pointing to potential change in post-trade finance.",
+      "body": "Wall Street clearinghouse DTCC has enlisted Chainlink for collateral management, aiming to enable round-the-clock collateral movement. The collaboration focuses on post-trade finance, where assets and obligations are handled after transactions are completed, and seeks to remove time limits from collateral transfers. The original report did not provide a rollout date or figures on participating institutions, but it said continuous collateral movement could alter existing post-trade processes. Decrypt.co reported that the DTCC-Chainlink effort could become a shift capable of reshaping post-trade finance."
+    },
+    "ja": {
+      "title": "DTCCとチェーンリンク、24時間担保移動でポストトレード金融に変化",
+      "excerpt": "ウォール街の清算機関DTCCがチェーンリンクと協力し、担保管理で24時間の担保移動を可能にする取り組みを進めている。",
+      "body": "ウォール街の清算機関DTCCは、担保管理の分野でチェーンリンクと連携し、24時間体制で担保を移動できる仕組みを目指している。今回の協力は、取引完了後に資産や義務を処理するポストトレード金融に焦点を当て、担保移動を時間の制約から解放することを狙う。原文では具体的な導入時期や参加機関数は示されていないが、担保移動の常時化が既存のポストトレード業務に変化をもたらす可能性があると伝えた。Decrypt.coは、DTCCとチェーンリンクの協力がポストトレード金融を再編し得る転換点になる可能性があると報じた。"
+    },
+    "zh": {
+      "title": "DTCC携手Chainlink推进24小时抵押品流动，瞄准交易后金融",
+      "excerpt": "华尔街清算机构DTCC与Chainlink合作，推动抵押品管理中的全天候抵押品流动，显示交易后金融可能迎来变化。",
+      "body": "华尔街清算机构DTCC已与Chainlink合作，计划在抵押品管理领域实现全天候抵押品流动。此次合作聚焦交易完成后处理资产和义务的交易后金融，目标是让抵押品转移不再受时间限制。原文未披露具体落地时间，也未提供参与机构数量等数据，但称抵押品流动的常态化可能改变现有交易后业务流程。Decrypt.co报道称，DTCC与Chainlink的合作可能成为重塑交易后金融的一个转折点。"
+    },
+    "es": {
+      "title": "DTCC y Chainlink impulsan colateral 24/7 para finanzas postnegociación",
+      "excerpt": "La cámara de compensación de Wall Street DTCC colabora con Chainlink para habilitar el movimiento continuo de colateral y cambiar la postnegociación.",
+      "body": "La cámara de compensación de Wall Street DTCC incorporó a Chainlink para la gestión de colateral, con el objetivo de permitir movimientos de colateral durante las 24 horas. La colaboración se centra en las finanzas postnegociación, donde se procesan activos y obligaciones tras completarse las operaciones, y busca eliminar límites horarios en las transferencias de colateral. El informe original no ofreció una fecha de implementación ni cifras sobre instituciones participantes, pero señaló que el movimiento continuo de colateral podría modificar los procesos actuales. Decrypt.co informó que la iniciativa de DTCC y Chainlink podría reconfigurar las finanzas postnegociación."
+    },
+    "pt": {
+      "title": "DTCC e Chainlink miram colateral 24/7 na gestão pós-negociação",
+      "excerpt": "A câmara de compensação de Wall Street DTCC trabalha com a Chainlink para permitir movimentação contínua de colateral na gestão pós-negociação.",
+      "body": "A câmara de compensação de Wall Street DTCC recorreu à Chainlink para a gestão de colateral, buscando permitir movimentação de colateral 24 horas por dia. A colaboração se concentra nas finanças pós-negociação, etapa em que ativos e obrigações são tratados após a conclusão das operações, e procura reduzir limites de horário nas transferências de colateral. O texto original não informou uma data de implementação nem números de instituições participantes, mas afirmou que a movimentação contínua de colateral pode alterar processos existentes. Segundo a Decrypt.co, a parceria entre DTCC e Chainlink pode representar uma mudança capaz de remodelar as finanças pós-negociação."
+    },
+    "de": {
+      "title": "DTCC und Chainlink setzen auf 24/7-Sicherheiten im Post-Trade-Finanzwesen",
+      "excerpt": "Die Wall-Street-Clearingstelle DTCC arbeitet mit Chainlink zusammen, um Sicherheiten rund um die Uhr zu bewegen und Post-Trade-Prozesse zu verändern.",
+      "body": "Die Wall-Street-Clearingstelle DTCC hat Chainlink für das Sicherheitenmanagement eingebunden, um Bewegungen von Sicherheiten rund um die Uhr zu ermöglichen. Die Zusammenarbeit richtet sich auf das Post-Trade-Finanzwesen, in dem Vermögenswerte und Verpflichtungen nach abgeschlossenen Transaktionen verarbeitet werden, und soll zeitliche Grenzen bei Sicherheitenübertragungen verringern. Der Originalbericht nannte weder einen konkreten Starttermin noch Zahlen zu teilnehmenden Institutionen, erklärte aber, dass kontinuierliche Sicherheitenbewegungen bestehende Abläufe verändern könnten. Decrypt.co berichtete, die Kooperation von DTCC und Chainlink könne das Post-Trade-Finanzwesen neu prägen."
+    },
+    "fr": {
+      "title": "DTCC et Chainlink visent des garanties 24/7 dans la post-négociation",
+      "excerpt": "La chambre de compensation de Wall Street DTCC s’associe à Chainlink pour permettre le mouvement continu des garanties en finance post-négociation.",
+      "body": "La chambre de compensation de Wall Street DTCC a fait appel à Chainlink pour la gestion des garanties, avec l’objectif de permettre leur mouvement 24 heures sur 24. Cette coopération concerne la finance post-négociation, où les actifs et obligations sont traités après l’exécution des transactions, et vise à réduire les contraintes horaires sur les transferts de garanties. Le texte original ne précise ni calendrier de déploiement ni nombre d’institutions participantes, mais indique qu’un mouvement continu des garanties pourrait modifier les processus existants. Decrypt.co rapporte que l’accord entre DTCC et Chainlink pourrait contribuer à remodeler la finance post-négociation."
+    },
+    "ar": {
+      "title": "DTCC وChainlink يدفعان حركة الضمانات 24/7 في تمويل ما بعد التداول",
+      "excerpt": "تتعاون غرفة المقاصة في وول ستريت DTCC مع Chainlink لتمكين حركة الضمانات على مدار الساعة، بما قد يغير تمويل ما بعد التداول.",
+      "body": "استعانت غرفة المقاصة في وول ستريت DTCC بشركة Chainlink في مجال إدارة الضمانات، بهدف تمكين حركة الضمانات على مدار الساعة. يتركز التعاون على تمويل ما بعد التداول، حيث تتم معالجة الأصول والالتزامات بعد اكتمال الصفقات، ويسعى إلى تقليل القيود الزمنية على نقل الضمانات. لم يذكر التقرير الأصلي موعدا محددا للتطبيق أو أرقاما عن المؤسسات المشاركة، لكنه أوضح أن جعل حركة الضمانات مستمرة قد يغير أساليب العمل القائمة في مرحلة ما بعد التداول. وذكرت Decrypt.co أن تعاون DTCC وChainlink قد يشكل تحولا قادرا على إعادة رسم تمويل ما بعد التداول."
+    },
+    "hi": {
+      "title": "DTCC और Chainlink 24/7 कोलेटरल मूवमेंट से पोस्ट-ट्रेड फाइनेंस बदलने की तैयारी",
+      "excerpt": "वॉल स्ट्रीट की क्लियरिंगहाउस DTCC ने Chainlink के साथ मिलकर कोलेटरल मैनेजमेंट में चौबीसों घंटे मूवमेंट सक्षम करने की पहल की है।",
+      "body": "वॉल स्ट्रीट की क्लियरिंगहाउस DTCC ने कोलेटरल मैनेजमेंट के लिए Chainlink को जोड़ा है, ताकि कोलेटरल को चौबीसों घंटे स्थानांतरित किया जा सके। यह सहयोग पोस्ट-ट्रेड फाइनेंस पर केंद्रित है, जहां लेनदेन पूरा होने के बाद संपत्तियों और दायित्वों का निपटान होता है, और इसका उद्देश्य कोलेटरल ट्रांसफर को समय की सीमाओं से मुक्त करना है। मूल रिपोर्ट में लागू करने की तारीख या भाग लेने वाली संस्थाओं के आंकड़े नहीं दिए गए, लेकिन कहा गया कि लगातार कोलेटरल मूवमेंट मौजूदा पोस्ट-ट्रेड प्रक्रियाओं को बदल सकता है। Decrypt.co के अनुसार, DTCC और Chainlink की यह पहल पोस्ट-ट्रेड फाइनेंस को नया आकार दे सकती है।"
+    },
+    "id": {
+      "title": "DTCC dan Chainlink Dorong Pergerakan Agunan 24/7 di Pascaperdagangan",
+      "excerpt": "Lembaga kliring Wall Street DTCC menggandeng Chainlink untuk memungkinkan pergerakan agunan sepanjang waktu dalam manajemen agunan pascaperdagangan.",
+      "body": "Lembaga kliring Wall Street DTCC menggandeng Chainlink untuk manajemen agunan dengan tujuan memungkinkan pergerakan agunan sepanjang waktu. Kerja sama ini berfokus pada keuangan pascaperdagangan, yaitu tahap ketika aset dan kewajiban diproses setelah transaksi selesai, serta bertujuan mengurangi batasan waktu dalam transfer agunan. Laporan asli tidak mencantumkan jadwal penerapan atau jumlah institusi yang terlibat, tetapi menyebut bahwa pergerakan agunan secara terus-menerus dapat mengubah proses pascaperdagangan yang ada. Decrypt.co melaporkan bahwa kerja sama DTCC dan Chainlink dapat menjadi perubahan yang membentuk ulang keuangan pascaperdagangan."
+    }
+  }
+}
