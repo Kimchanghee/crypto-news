@@ -1,0 +1,75 @@
+{
+  "id": "f3260d58963c",
+  "slug": "fidelity-international-launches-moodys-rated-tokenized-fund--655634",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-13T17:52:49.237Z",
+  "updatedAt": "2026-05-13T17:52:49.237Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/fidelity-filq-tokenized-fund-chainlink-sygnum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/fidelity-filq-tokenized-fund-chainlink-sygnum",
+  "titleFingerprint": "f4ce4b998c51d276429ad8460b50b82cc0e1fb39",
+  "dedupKeys": [
+    "f3260d58963cb99280f8dbfba4461600a57e44f6",
+    "f4ce4b998c51d276429ad8460b50b82cc0e1fb39",
+    "811a477f8b15d42409ec185e35de0156d6e2bfd2"
+  ],
+  "imageUrl": "/images/articles/f3260d58963c.jpg",
+  "i18n": {
+    "ko": {
+      "title": "피델리티 인터내셔널, 체인링크 기반 무디스 등급 토큰화 펀드 출시",
+      "excerpt": "버뮤다 기반 자산운용사 피델리티 인터내셔널이 체인링크와 시그넘 인프라를 활용해 무디스 등급을 받은 토큰화 유동성 펀드를 출시했다.",
+      "body": "버뮤다 기반 자산운용사 피델리티 인터내셔널이 체인링크와 시그넘 인프라를 활용한 토큰화 유동성 펀드를 출시했다. 이 펀드는 무디스 등급을 받은 상품으로, 전통 금융 자산을 블록체인 기반 인프라와 연결하는 사례로 제시됐다. 가격 산정에는 JPMorgan이 제공하는 일일 순자산가치(NAV) 데이터가 사용된다. 체인링크는 온체인 데이터 연결을, 시그넘은 토큰화 관련 인프라를 지원하는 구조다. 이번 출시는 기관 투자자를 위한 토큰화 펀드 시장에서 신뢰 가능한 평가와 가격 데이터의 중요성을 보여준다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "Fidelity International Launches Moody’s-Rated Tokenized Fund on Chainlink",
+      "excerpt": "Bermuda-based Fidelity International launched a Moody’s-rated tokenized liquidity fund using Chainlink and Sygnum infrastructure, with JPMorgan providing daily NAV data.",
+      "body": "Fidelity International, a Bermuda-based asset manager, has launched a tokenized liquidity fund using Chainlink and Sygnum infrastructure. The fund carries a Moody’s rating and is presented as a link between traditional financial assets and blockchain-based infrastructure. JPMorgan provides daily net asset value (NAV) data used for pricing. Chainlink supports on-chain data connectivity, while Sygnum provides tokenization-related infrastructure. The launch highlights the role of trusted ratings and pricing data in tokenized funds aimed at institutional investors. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "フィデリティ、Chainlink基盤のムーディーズ格付けトークン化ファンド開始",
+      "excerpt": "バミューダ拠点のフィデリティ・インターナショナルは、ChainlinkとSygnumのインフラを使い、ムーディーズ格付け付きトークン化流動性ファンドを開始した。",
+      "body": "バミューダ拠点の資産運用会社フィデリティ・インターナショナルは、ChainlinkとSygnumのインフラを活用したトークン化流動性ファンドを開始した。このファンドはムーディーズの格付けを受けた商品で、伝統的な金融資産とブロックチェーン基盤のインフラを結び付ける事例として示された。価格算定にはJPMorganが提供する日次の純資産価値（NAV）データが使われる。Chainlinkはオンチェーンデータ接続を、Sygnumはトークン化関連インフラを支える。今回の開始は、機関投資家向けトークン化ファンド市場で信頼できる格付けと価格データの重要性を示している。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "富达国际在Chainlink推出穆迪评级代币化基金",
+      "excerpt": "总部位于百慕大的资产管理公司富达国际利用Chainlink和Sygnum基础设施，推出获得穆迪评级的代币化流动性基金，JPMorgan提供每日NAV数据。",
+      "body": "总部位于百慕大的资产管理公司富达国际利用Chainlink和Sygnum基础设施推出了一只代币化流动性基金。该基金获得穆迪评级，被视为连接传统金融资产与区块链基础设施的案例。定价使用JPMorgan提供的每日净资产价值（NAV）数据。Chainlink负责支持链上数据连接，Sygnum则提供与代币化相关的基础设施。此次推出显示，在面向机构投资者的代币化基金市场中，可信评级和定价数据具有重要作用。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "Fidelity International lanza fondo tokenizado con calificación Moody’s en Chainlink",
+      "excerpt": "Fidelity International, gestora con sede en Bermudas, lanzó un fondo de liquidez tokenizado con calificación Moody’s usando infraestructura de Chainlink y Sygnum.",
+      "body": "Fidelity International, gestora de activos con sede en Bermudas, lanzó un fondo de liquidez tokenizado que utiliza infraestructura de Chainlink y Sygnum. El fondo cuenta con calificación de Moody’s y se presenta como un caso de conexión entre activos financieros tradicionales e infraestructura basada en blockchain. Para la fijación de precios se usan datos diarios de valor liquidativo neto (NAV) proporcionados por JPMorgan. Chainlink respalda la conexión de datos en cadena, mientras que Sygnum apoya la infraestructura relacionada con la tokenización. El lanzamiento subraya la importancia de calificaciones y datos de precios confiables en fondos tokenizados para inversores institucionales. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "Fidelity International lança fundo tokenizado com rating Moody’s na Chainlink",
+      "excerpt": "A Fidelity International, gestora sediada em Bermudas, lançou um fundo de liquidez tokenizado com rating da Moody’s usando infraestrutura da Chainlink e da Sygnum.",
+      "body": "A Fidelity International, gestora de ativos sediada em Bermudas, lançou um fundo de liquidez tokenizado que usa infraestrutura da Chainlink e da Sygnum. O fundo possui rating da Moody’s e é apresentado como um caso de conexão entre ativos financeiros tradicionais e infraestrutura baseada em blockchain. A precificação usa dados diários de valor patrimonial líquido (NAV) fornecidos pelo JPMorgan. A Chainlink apoia a conexão de dados on-chain, enquanto a Sygnum fornece infraestrutura relacionada à tokenização. O lançamento mostra a importância de avaliações e dados de preço confiáveis no mercado de fundos tokenizados voltados a investidores institucionais. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "Fidelity International startet Moody’s-bewerteten tokenisierten Fonds auf Chainlink",
+      "excerpt": "Fidelity International mit Sitz auf Bermuda hat einen Moody’s-bewerteten tokenisierten Liquiditätsfonds über Chainlink- und Sygnum-Infrastruktur aufgelegt.",
+      "body": "Fidelity International, ein Vermögensverwalter mit Sitz auf Bermuda, hat einen tokenisierten Liquiditätsfonds auf Basis der Infrastruktur von Chainlink und Sygnum aufgelegt. Der Fonds verfügt über ein Moody’s-Rating und wird als Beispiel für die Verbindung traditioneller Finanzanlagen mit blockchainbasierter Infrastruktur dargestellt. Für die Preisermittlung werden tägliche Nettoinventarwertdaten (NAV) von JPMorgan genutzt. Chainlink unterstützt die On-Chain-Datenanbindung, während Sygnum tokenisierungsbezogene Infrastruktur bereitstellt. Die Auflegung zeigt die Bedeutung verlässlicher Ratings und Preisdaten im Markt für tokenisierte Fonds für institutionelle Anleger. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "Fidelity International lance un fonds tokenisé noté Moody’s sur Chainlink",
+      "excerpt": "Fidelity International, gestionnaire basé aux Bermudes, a lancé un fonds de liquidité tokenisé noté par Moody’s avec l’infrastructure Chainlink et Sygnum.",
+      "body": "Fidelity International, gestionnaire d’actifs basé aux Bermudes, a lancé un fonds de liquidité tokenisé utilisant l’infrastructure de Chainlink et de Sygnum. Le fonds bénéficie d’une notation Moody’s et illustre un lien entre les actifs financiers traditionnels et l’infrastructure fondée sur la blockchain. La valorisation s’appuie sur les données quotidiennes de valeur liquidative nette (NAV) fournies par JPMorgan. Chainlink prend en charge la connexion des données on-chain, tandis que Sygnum fournit l’infrastructure liée à la tokenisation. Ce lancement montre l’importance des notations et des données de prix fiables sur le marché des fonds tokenisés destinés aux investisseurs institutionnels. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "فيديليتي إنترناشونال تطلق صندوقا مرمزا بتصنيف موديز على Chainlink",
+      "excerpt": "أطلقت فيديليتي إنترناشونال، وهي شركة إدارة أصول مقرها برمودا، صندوق سيولة مرمزا بتصنيف موديز مستخدمة بنية Chainlink وSygnum، مع بيانات NAV يومية من JPMorgan.",
+      "body": "أطلقت فيديليتي إنترناشونال، وهي شركة إدارة أصول مقرها برمودا، صندوق سيولة مرمزا يستخدم بنية Chainlink وSygnum. ويحمل الصندوق تصنيفا من موديز، ويعرض كحالة تربط الأصول المالية التقليدية بالبنية القائمة على البلوكشين. وتستخدم عملية التسعير بيانات صافي قيمة الأصول اليومية (NAV) التي يوفرها JPMorgan. تدعم Chainlink ربط البيانات على السلسلة، بينما توفر Sygnum البنية المتعلقة بالترميز. يبرز هذا الإطلاق أهمية التصنيفات الموثوقة وبيانات الأسعار في سوق الصناديق المرمزة الموجهة للمستثمرين المؤسسيين. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "Fidelity International ने Chainlink पर Moody’s-रेटेड टोकनाइज्ड फंड लॉन्च किया",
+      "excerpt": "बरमूडा स्थित एसेट मैनेजर Fidelity International ने Chainlink और Sygnum इन्फ्रास्ट्रक्चर के जरिए Moody’s-रेटेड टोकनाइज्ड लिक्विडिटी फंड लॉन्च किया।",
+      "body": "बरमूडा स्थित एसेट मैनेजर Fidelity International ने Chainlink और Sygnum इन्फ्रास्ट्रक्चर का उपयोग करते हुए एक टोकनाइज्ड लिक्विडिटी फंड लॉन्च किया है। यह फंड Moody’s रेटिंग वाला उत्पाद है और पारंपरिक वित्तीय परिसंपत्तियों को ब्लॉकचेन आधारित इन्फ्रास्ट्रक्चर से जोड़ने के उदाहरण के रूप में पेश किया गया है। मूल्य निर्धारण के लिए JPMorgan द्वारा प्रदान किए जाने वाले दैनिक नेट एसेट वैल्यू (NAV) डेटा का उपयोग होगा। Chainlink ऑन-चेन डेटा कनेक्टिविटी का समर्थन करता है, जबकि Sygnum टोकनाइजेशन से जुड़ा इन्फ्रास्ट्रक्चर देता है। यह लॉन्च संस्थागत निवेशकों के लिए टोकनाइज्ड फंड बाजार में भरोसेमंद रेटिंग और मूल्य डेटा की अहमियत दिखाता है। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "Fidelity International Luncurkan Dana Tokenisasi Berperingkat Moody’s di Chainlink",
+      "excerpt": "Fidelity International, manajer aset berbasis Bermuda, meluncurkan dana likuiditas tokenisasi berperingkat Moody’s memakai infrastruktur Chainlink dan Sygnum.",
+      "body": "Fidelity International, manajer aset yang berbasis di Bermuda, meluncurkan dana likuiditas tokenisasi yang menggunakan infrastruktur Chainlink dan Sygnum. Dana ini memiliki peringkat Moody’s dan disajikan sebagai contoh penghubung antara aset keuangan tradisional dan infrastruktur berbasis blockchain. Penetapan harga menggunakan data nilai aset bersih (NAV) harian yang disediakan JPMorgan. Chainlink mendukung konektivitas data on-chain, sementara Sygnum menyediakan infrastruktur terkait tokenisasi. Peluncuran ini menunjukkan pentingnya peringkat dan data harga yang tepercaya di pasar dana tokenisasi untuk investor institusional. Sumber: cointelegraph.com"
+    }
+  }
+}
