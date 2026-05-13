@@ -1,5 +1,230 @@
 [
   {
+    "id": "ca78618d8665",
+    "slug": "charles-schwab-begins-us-rollout-of-spot-crypto-trading-for--454844",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T11:20:30.813Z",
+    "updatedAt": "2026-05-13T11:20:30.813Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
+    "titleFingerprint": "9917fbe5e7b6d3400f612df8588f1f7b1e58ec04",
+    "dedupKeys": [
+      "ca78618d8665b1c9be6771e4ae562a979cf45ab6",
+      "9917fbe5e7b6d3400f612df8588f1f7b1e58ec04",
+      "7a20ed165ee1803b42769630bbd59cbd9157cc26"
+    ],
+    "imageUrl": "/images/articles/ca78618d8665.jpg",
+    "i18n": {
+      "ko": {
+        "title": "찰스 슈왑, 미국 개인 고객 대상 현물 암호화폐 거래 시작",
+        "excerpt": "찰스 슈왑이 미국에서 개인 고객 대상 현물 암호화폐 거래를 단계적으로 시작했으며, 초기 고객은 Schwab Crypto에서 비트코인과 이더를 거래할 수 있다.",
+        "body": "찰스 슈왑이 미국 개인 고객을 대상으로 현물 암호화폐 거래 서비스를 단계적으로 시작했다. 이번 롤아웃의 초기 대상 고객은 Schwab Crypto 플랫폼에서 비트코인과 이더를 직접 거래할 수 있다. 대상 자산은 현재 비트코인과 이더로 제시됐으며, 서비스는 우선 일부 고객에게 제공되는 형태다. 대형 리테일 금융사가 개인 투자자에게 현물 암호화폐 거래 접근을 제공하기 시작했다는 점에서, 미국 내 전통 금융권의 암호화폐 서비스 확대 흐름을 보여준다. 다만 보도된 내용은 초기 고객 대상 제공과 거래 가능 자산에 한정된다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Charles Schwab Starts U.S. Spot Crypto Trading for Retail Clients",
+        "excerpt": "Charles Schwab has begun a phased U.S. rollout of spot crypto trading for retail clients, letting an initial group trade bitcoin and ether on Schwab Crypto.",
+        "body": "Charles Schwab has begun rolling out spot cryptocurrency trading for retail customers in the United States. An initial group of clients can now trade bitcoin and ether directly through the Schwab Crypto platform. The reported assets are bitcoin and ether, and the service is being made available first to selected customers. The move shows a major retail financial firm starting to give individual investors access to spot crypto trading within the U.S. market. However, the reported details are limited to the initial client group and the two available assets. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "チャールズ・シュワブ、米個人向け現物暗号資産取引を開始",
+        "excerpt": "チャールズ・シュワブは米国で個人顧客向けの現物暗号資産取引を段階的に開始し、初期顧客はSchwab Cryptoでビットコインとイーサを取引できる。",
+        "body": "チャールズ・シュワブは、米国の個人顧客を対象に現物暗号資産取引サービスの段階的な提供を開始した。今回の初期対象となる顧客は、Schwab Cryptoプラットフォーム上でビットコインとイーサを直接取引できる。報じられた対象資産はビットコインとイーサで、サービスはまず一部の顧客に提供される形だ。大手リテール金融会社が個人投資家に現物暗号資産取引へのアクセスを提供し始めた点で、米国の伝統的金融機関による暗号資産サービス拡大の流れを示している。ただし、報道内容は初期顧客への提供と取引可能な2資産に限られる。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "嘉信理财在美国面向散户推出现货加密货币交易",
+        "excerpt": "嘉信理财已在美国分阶段面向个人客户推出现货加密货币交易，首批客户可在 Schwab Crypto 交易比特币和以太币。",
+        "body": "嘉信理财已开始在美国面向个人客户分阶段推出现货加密货币交易服务。此次首批开放的客户现在可以通过 Schwab Crypto 平台直接交易比特币和以太币。报道中提到的可交易资产为比特币和以太币，服务目前首先提供给部分客户。作为大型零售金融机构，嘉信理财开始为个人投资者提供现货加密货币交易入口，这显示出美国传统金融领域加密服务继续扩展的趋势。不过，报道信息仅限于首批客户开放以及两种可交易资产。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Charles Schwab lanza trading cripto spot para clientes minoristas en EE. UU.",
+        "excerpt": "Charles Schwab inició en EE. UU. el despliegue gradual de trading cripto spot para clientes minoristas, con bitcoin y ether disponibles en Schwab Crypto.",
+        "body": "Charles Schwab comenzó en Estados Unidos el despliegue gradual de servicios de trading de criptomonedas al contado para clientes minoristas. Un grupo inicial de clientes ya puede operar bitcoin y ether directamente en la plataforma Schwab Crypto. Los activos mencionados son bitcoin y ether, y el servicio se ofrece primero a una parte de la base de clientes. El movimiento muestra que una gran firma financiera minorista empieza a dar a inversores individuales acceso al trading cripto spot en el mercado estadounidense. Sin embargo, la información reportada se limita al grupo inicial de clientes y a los dos activos disponibles. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Charles Schwab inicia trading cripto spot para clientes de varejo nos EUA",
+        "excerpt": "A Charles Schwab começou nos EUA a liberar gradualmente trading cripto spot para clientes de varejo, com bitcoin e ether disponíveis no Schwab Crypto.",
+        "body": "A Charles Schwab iniciou nos Estados Unidos a oferta gradual de negociação de criptomoedas à vista para clientes de varejo. Um grupo inicial de clientes já pode negociar bitcoin e ether diretamente pela plataforma Schwab Crypto. Os ativos informados são bitcoin e ether, e o serviço está sendo disponibilizado primeiro para parte dos clientes. O movimento mostra uma grande instituição financeira de varejo começando a oferecer a investidores individuais acesso à negociação cripto spot no mercado norte-americano. No entanto, as informações divulgadas se limitam ao grupo inicial de clientes e aos dois ativos disponíveis. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Charles Schwab startet Spot-Kryptohandel für Privatkunden in den USA",
+        "excerpt": "Charles Schwab hat in den USA den schrittweisen Start des Spot-Kryptohandels für Privatkunden begonnen; erste Kunden können Bitcoin und Ether auf Schwab Crypto handeln.",
+        "body": "Charles Schwab hat in den Vereinigten Staaten mit der schrittweisen Einführung von Spot-Kryptohandel für Privatkunden begonnen. Eine erste Kundengruppe kann nun Bitcoin und Ether direkt über die Plattform Schwab Crypto handeln. Die genannten Vermögenswerte sind Bitcoin und Ether, und der Dienst wird zunächst nur ausgewählten Kunden bereitgestellt. Der Schritt zeigt, dass ein großer Finanzanbieter für Privatanleger beginnt, Zugang zum Spot-Handel mit Kryptowährungen im US-Markt anzubieten. Die berichteten Informationen beschränken sich jedoch auf die erste Kundengruppe und die zwei verfügbaren Assets. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Charles Schwab lance le trading crypto spot pour particuliers aux États-Unis",
+        "excerpt": "Charles Schwab a commencé aux États-Unis le déploiement progressif du trading crypto spot pour particuliers, avec bitcoin et ether accessibles sur Schwab Crypto.",
+        "body": "Charles Schwab a commencé aux États-Unis le déploiement progressif d’un service de trading de cryptomonnaies au comptant pour les clients particuliers. Un premier groupe de clients peut désormais négocier du bitcoin et de l’ether directement sur la plateforme Schwab Crypto. Les actifs mentionnés sont le bitcoin et l’ether, et le service est d’abord proposé à une partie des clients. Cette initiative montre qu’un grand acteur financier de détail commence à donner aux investisseurs individuels un accès au trading crypto spot sur le marché américain. Toutefois, les informations rapportées se limitent au premier groupe de clients et aux deux actifs disponibles. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "تشارلز شواب تبدأ تداول العملات المشفرة الفوري للأفراد في أمريكا",
+        "excerpt": "بدأت تشارلز شواب في الولايات المتحدة طرحا تدريجيا لتداول العملات المشفرة الفوري لعملاء التجزئة، مع إتاحة البيتكوين والإيثر عبر Schwab Crypto.",
+        "body": "بدأت تشارلز شواب في الولايات المتحدة طرح خدمة تداول العملات المشفرة الفوري لعملاء التجزئة بشكل تدريجي. ويمكن لمجموعة أولية من العملاء الآن تداول البيتكوين والإيثر مباشرة عبر منصة Schwab Crypto. الأصول المذكورة في التقرير هي البيتكوين والإيثر، والخدمة متاحة أولا لبعض العملاء فقط. وتظهر هذه الخطوة أن مؤسسة مالية كبيرة موجهة للأفراد بدأت تمنح المستثمرين الأفراد إمكانية الوصول إلى تداول العملات المشفرة الفوري في السوق الأمريكية. ومع ذلك، تقتصر المعلومات المنشورة على مجموعة العملاء الأولية والأصلين المتاحين للتداول. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "चार्ल्स श्वाब ने अमेरिका में खुदरा ग्राहकों के लिए स्पॉट क्रिप्टो ट्रेडिंग शुरू की",
+        "excerpt": "चार्ल्स श्वाब ने अमेरिका में खुदरा ग्राहकों के लिए स्पॉट क्रिप्टो ट्रेडिंग का चरणबद्ध रोलआउट शुरू किया, जहां शुरुआती ग्राहक Schwab Crypto पर बिटकॉइन और ईथर ट्रेड कर सकते हैं।",
+        "body": "चार्ल्स श्वाब ने अमेरिका में खुदरा ग्राहकों के लिए स्पॉट क्रिप्टोकरेंसी ट्रेडिंग सेवा का चरणबद्ध रोलआउट शुरू किया है। शुरुआती ग्राहकों का एक समूह अब Schwab Crypto प्लेटफॉर्म पर सीधे बिटकॉइन और ईथर का ट्रेड कर सकता है। रिपोर्ट में उपलब्ध संपत्तियों के रूप में बिटकॉइन और ईथर का उल्लेख है, और सेवा पहले कुछ ग्राहकों को दी जा रही है। यह कदम दिखाता है कि एक बड़ी खुदरा वित्तीय कंपनी अमेरिकी बाजार में व्यक्तिगत निवेशकों को स्पॉट क्रिप्टो ट्रेडिंग की पहुंच देना शुरू कर रही है। हालांकि, रिपोर्ट की जानकारी शुरुआती ग्राहक समूह और दो उपलब्ध संपत्तियों तक सीमित है। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Charles Schwab Mulai Trading Kripto Spot untuk Nasabah Ritel AS",
+        "excerpt": "Charles Schwab mulai meluncurkan trading kripto spot secara bertahap untuk nasabah ritel di AS, dengan bitcoin dan ether tersedia di Schwab Crypto.",
+        "body": "Charles Schwab mulai meluncurkan layanan trading mata uang kripto spot secara bertahap untuk nasabah ritel di Amerika Serikat. Kelompok awal nasabah kini dapat memperdagangkan bitcoin dan ether langsung melalui platform Schwab Crypto. Aset yang disebutkan adalah bitcoin dan ether, dan layanan ini terlebih dahulu tersedia bagi sebagian nasabah. Langkah ini menunjukkan bahwa perusahaan keuangan ritel besar mulai memberi investor individu akses ke trading kripto spot di pasar AS. Namun, informasi yang dilaporkan terbatas pada kelompok nasabah awal dan dua aset yang tersedia untuk diperdagangkan. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
+    "id": "9460e6ac31e6",
+    "slug": "the-82000-battle-bitcoin-tests-key-resistance-zone-to-form-n-522977",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T11:19:40.823Z",
+    "updatedAt": "2026-05-13T11:19:40.823Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/13/bitcoin-faces-crucial-test-at-200-day-moving-averages-as-bulls-defend-key-support-zone",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/13/bitcoin-faces-crucial-test-at-200-day-moving-averages-as-bulls-defend-key-support-zone",
+    "titleFingerprint": "4a1a4bda85a0c684ae81558ab1ee8d082620b796",
+    "dedupKeys": [
+      "9460e6ac31e699103ba2f8239643bd58b2b741b7",
+      "4a1a4bda85a0c684ae81558ab1ee8d082620b796",
+      "fa4db1ef404b1edb487111c3adb0225ab63e3116"
+    ],
+    "imageUrl": "/images/articles/9460e6ac31e6.png",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 8만2000달러 저항 시험, 돌파 분기점 주목",
+        "excerpt": "비트코인이 최근 8만2000달러 부근에서 200일 단순이동평균과 200일 지수이동평균 아래에 머물며 다음 주요 돌파를 가를 저항 구간을 시험하고 있다.",
+        "body": "비트코인(BTC)이 최근 8만2000달러 부근에서 다음 주요 돌파 여부를 가를 기술적 분기점에 놓였다. 가격은 장기 추세 판단에 널리 쓰이는 200일 단순이동평균(SMA)과 200일 지수이동평균(EMA) 바로 아래에서 거래되고 있다. 두 지표는 시장 참여자들이 중장기 방향성을 확인할 때 주목하는 기준선으로, BTC가 이를 회복하는지 여부가 저항 돌파의 핵심으로 꼽힌다. 현재 초점은 8만2000달러 저항 구간을 넘어설 수 있는지에 맞춰져 있으며, 돌파 실패 시 기술적 부담은 이어질 수 있다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Bitcoin Tests $82,000 Resistance as Key Breakout Zone Comes Into Focus",
+        "excerpt": "Bitcoin is trading just below its 200-day SMA and 200-day EMA near $82,000, putting a key resistance zone in focus for its next major breakout attempt.",
+        "body": "Bitcoin (BTC) is facing a technical test near $82,000 as traders watch whether it can set up its next major breakout. The price is trading just below two widely followed long-term trend indicators: the 200-day Simple Moving Average (SMA) and the 200-day Exponential Moving Average (EMA). These levels are often used by market participants to assess medium- to long-term direction, making BTC’s ability to reclaim them central to the resistance battle. The immediate focus is whether bitcoin can move above the $82,000 resistance zone; failure to do so could keep technical pressure in place. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "ビットコイン、8万2000ドル抵抗線を試す 次の突破点に注目",
+        "excerpt": "ビットコインは最近、8万2000ドル付近で200日SMAと200日EMAを下回って推移し、次の大きなブレイクアウトを左右する抵抗帯を試している。",
+        "body": "ビットコイン（BTC）は最近、8万2000ドル付近で次の大きなブレイクアウトを左右する技術的な分岐点にある。価格は、長期トレンド判断で広く注目される200日単純移動平均（SMA）と200日指数移動平均（EMA）のすぐ下で取引されている。これら2つの指標は市場参加者が中長期の方向性を確認する際の重要な基準であり、BTCが回復できるかどうかが抵抗線突破の焦点となる。現在の注目点は8万2000ドルの抵抗帯を上回れるかで、失敗すれば技術的な重さが続く可能性がある。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "比特币测试82000美元阻力位，关键突破区间受关注",
+        "excerpt": "比特币近期在82000美元附近交易，仍低于200日简单移动均线和200日指数移动均线，关键阻力区间正决定下一次重要突破。",
+        "body": "比特币（BTC）近期在82000美元附近面临技术考验，市场关注其是否能形成下一次重要突破。价格目前交易在两个备受关注的长期趋势指标下方：200日简单移动平均线（SMA）和200日指数移动平均线（EMA）。这两项指标常被市场参与者用来判断中长期方向，因此BTC能否重新站上这些水平，是突破阻力的核心。当前焦点在于比特币能否越过82000美元阻力区间；若未能突破，技术压力可能继续存在。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Bitcoin prueba la resistencia de 82.000 dólares y mira una zona clave",
+        "excerpt": "Bitcoin cotiza cerca de 82.000 dólares, justo por debajo de la SMA y la EMA de 200 días, mientras el mercado observa una zona clave para su próximo gran breakout.",
+        "body": "Bitcoin (BTC) afronta una prueba técnica cerca de 82.000 dólares mientras el mercado evalúa si puede preparar su próximo gran breakout. El precio cotiza justo por debajo de dos indicadores de tendencia de largo plazo muy seguidos: la media móvil simple de 200 días (SMA) y la media móvil exponencial de 200 días (EMA). Estos niveles suelen servir a los participantes del mercado para medir la dirección de medio y largo plazo, por lo que recuperarlos es clave en la batalla contra la resistencia. El foco inmediato está en si bitcoin puede superar la zona de 82.000 dólares; si falla, la presión técnica podría continuar. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Bitcoin testa resistência de US$ 82 mil e mira zona-chave de rompimento",
+        "excerpt": "O bitcoin negocia perto de US$ 82 mil, logo abaixo da SMA e da EMA de 200 dias, colocando uma zona de resistência decisiva no centro do próximo grande rompimento.",
+        "body": "O bitcoin (BTC) enfrenta um teste técnico perto de US$ 82 mil enquanto o mercado observa se ele pode formar o próximo grande rompimento. O preço está sendo negociado logo abaixo de dois indicadores de tendência de longo prazo amplamente acompanhados: a média móvel simples de 200 dias (SMA) e a média móvel exponencial de 200 dias (EMA). Esses níveis são usados por participantes do mercado para avaliar a direção de médio e longo prazo, tornando sua recuperação central para superar a resistência. O foco agora é saber se o bitcoin consegue avançar acima da zona de US$ 82 mil; se não conseguir, a pressão técnica pode continuar. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Bitcoin testet 82.000-Dollar-Widerstand vor wichtiger Ausbruchszone",
+        "excerpt": "Bitcoin handelt nahe 82.000 Dollar knapp unter dem 200-Tage-SMA und 200-Tage-EMA, während ein zentraler Widerstandsbereich den nächsten großen Ausbruch bestimmt.",
+        "body": "Bitcoin (BTC) steht nahe 82.000 Dollar vor einem technischen Test, während Händler auf den nächsten großen Ausbruch achten. Der Kurs handelt knapp unter zwei viel beachteten langfristigen Trendindikatoren: dem einfachen gleitenden 200-Tage-Durchschnitt (SMA) und dem exponentiellen gleitenden 200-Tage-Durchschnitt (EMA). Diese Marken nutzen Marktteilnehmer häufig zur Einschätzung der mittel- bis langfristigen Richtung. Ob BTC sie zurückerobern kann, ist daher zentral für den Kampf um den Widerstand. Im Fokus steht, ob Bitcoin die Widerstandszone bei 82.000 Dollar überwinden kann; gelingt das nicht, könnte der technische Druck anhalten. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Bitcoin teste la résistance des 82 000 dollars avant une zone clé",
+        "excerpt": "Bitcoin évolue près de 82 000 dollars, juste sous sa SMA et son EMA à 200 jours, plaçant une zone de résistance clé au centre du prochain grand breakout.",
+        "body": "Bitcoin (BTC) fait face à un test technique près de 82 000 dollars, alors que le marché observe s’il peut préparer son prochain grand breakout. Le prix évolue juste sous deux indicateurs de tendance de long terme très suivis: la moyenne mobile simple à 200 jours (SMA) et la moyenne mobile exponentielle à 200 jours (EMA). Ces niveaux servent souvent aux acteurs du marché à évaluer la direction de moyen et long terme, ce qui rend leur reconquête essentielle dans la bataille contre la résistance. L’attention porte désormais sur la capacité de bitcoin à franchir la zone des 82 000 dollars; en cas d’échec, la pression technique pourrait persister. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "بيتكوين تختبر مقاومة 82 ألف دولار وسط ترقب لاختراق مهم",
+        "excerpt": "تتداول بيتكوين قرب 82 ألف دولار، أدنى بقليل من المتوسطين المتحركين لـ200 يوم SMA وEMA، ما يضع منطقة مقاومة رئيسية في قلب محاولة الاختراق المقبلة.",
+        "body": "تواجه بيتكوين (BTC) اختبارا فنيا قرب مستوى 82 ألف دولار، بينما يراقب السوق ما إذا كانت قادرة على تمهيد الطريق لاختراق رئيسي جديد. ويتداول السعر حاليا أدنى بقليل من مؤشرين طويلَي الأجل يحظيان بمتابعة واسعة: المتوسط المتحرك البسيط لـ200 يوم (SMA) والمتوسط المتحرك الأسي لـ200 يوم (EMA). يستخدم المشاركون في السوق هذين المستويين لتقييم الاتجاه المتوسط والطويل الأجل، لذلك فإن استعادتهما تعد محورا أساسيا في معركة المقاومة. يتركز الاهتمام الآن على قدرة بيتكوين على تجاوز منطقة 82 ألف دولار؛ أما الفشل فقد يبقي الضغط الفني قائما. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "बिटकॉइन ने 82,000 डॉलर प्रतिरोध को परखा, ब्रेकआउट जोन पर नजर",
+        "excerpt": "बिटकॉइन 82,000 डॉलर के पास 200-दिवसीय SMA और 200-दिवसीय EMA से ठीक नीचे कारोबार कर रहा है, जिससे अगली बड़ी ब्रेकआउट कोशिश के लिए अहम प्रतिरोध क्षेत्र केंद्र में है।",
+        "body": "बिटकॉइन (BTC) हाल में 82,000 डॉलर के पास तकनीकी परीक्षा से गुजर रहा है, जहां बाजार यह देख रहा है कि क्या अगला बड़ा ब्रेकआउट बन सकता है। कीमत दो व्यापक रूप से देखे जाने वाले दीर्घकालिक ट्रेंड संकेतकों, 200-दिवसीय सिंपल मूविंग एवरेज (SMA) और 200-दिवसीय एक्सपोनेंशियल मूविंग एवरेज (EMA), से ठीक नीचे कारोबार कर रही है। बाजार भागीदार मध्यम से दीर्घकालिक दिशा समझने के लिए इन स्तरों पर ध्यान देते हैं, इसलिए BTC का इन्हें फिर हासिल करना प्रतिरोध तोड़ने की कुंजी है। फिलहाल फोकस 82,000 डॉलर के प्रतिरोध क्षेत्र से ऊपर जाने पर है; असफलता तकनीकी दबाव बनाए रख सकती है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Bitcoin Uji Resistance US$82.000, Zona Breakout Kunci Jadi Sorotan",
+        "excerpt": "Bitcoin bergerak dekat US$82.000, tepat di bawah SMA 200 hari dan EMA 200 hari, sehingga zona resistance utama menjadi penentu upaya breakout besar berikutnya.",
+        "body": "Bitcoin (BTC) menghadapi ujian teknikal di dekat US$82.000 saat pasar mencermati apakah aset ini dapat membentuk breakout besar berikutnya. Harga diperdagangkan tepat di bawah dua indikator tren jangka panjang yang banyak diperhatikan: Simple Moving Average 200 hari (SMA) dan Exponential Moving Average 200 hari (EMA). Kedua level ini kerap digunakan pelaku pasar untuk menilai arah jangka menengah hingga panjang, sehingga kemampuan BTC merebutnya kembali menjadi inti dari pertarungan resistance. Fokus saat ini adalah apakah bitcoin dapat menembus zona resistance US$82.000; jika gagal, tekanan teknikal dapat berlanjut. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "988edd3d30bb",
+    "slug": "bitcoin-holds-below-81000-with-trump-xi-talks-on-the-horizon-647360",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T11:18:43.280Z",
+    "updatedAt": "2026-05-13T11:18:43.280Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/13/bitcoin-holds-below-usd81-000-with-trump-xi-talks-on-the-horizon",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/13/bitcoin-holds-below-usd81-000-with-trump-xi-talks-on-the-horizon",
+    "titleFingerprint": "173e613e04342e1be957c78165cd9e7700b73b77",
+    "dedupKeys": [
+      "988edd3d30bbae5b61df10ed9c9beea41fa3cca5",
+      "173e613e04342e1be957c78165cd9e7700b73b77",
+      "7404913d8494fd610895b17e16e42bf0af522510"
+    ],
+    "imageUrl": "/images/articles/988edd3d30bb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 8만1천달러 아래서 보합, 트럼프·시진핑 회담 주시",
+        "excerpt": "비트코인은 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 회담을 앞두고 8만1천달러 아래에서 안정적인 흐름을 보였다.",
+        "body": "비트코인은 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 회담을 앞두고 8만1천달러 아래에서 보합권을 유지했다. 원문에 따르면 가격은 급격한 방향성을 보이기보다 회담 전 안정적인 흐름을 이어갔다. 배경에는 미국과 중국 정상 간 대화가 예정돼 있다는 점이 있다. 비트코인이 8만1천달러를 넘지 못한 채 머문 것은 투자자들이 주요 정치 일정을 앞두고 신중하게 움직였다는 맥락으로 읽힌다. 향후 흐름은 회담 이후 시장 반응에 따라 달라질 수 있다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "Bitcoin Stays Below $81,000 as Trump-Xi Talks Draw Focus",
+        "excerpt": "Bitcoin held steady below $81,000 ahead of talks between U.S. President Donald Trump and Chinese President Xi Jinping.",
+        "body": "Bitcoin remained in a steady range below $81,000 ahead of talks between U.S. President Donald Trump and Chinese President Xi Jinping. According to the original report, the price did not show a sharp directional move and instead held stable before the meeting. The key context is the planned dialogue between the leaders of the United States and China. Bitcoin’s failure to move above $81,000 suggests investors were cautious before a major political event. The next move may depend on how markets respond after the talks. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "ビットコイン8.1万ドル下回る、トランプ・習会談を控え様子見",
+        "excerpt": "ビットコインは、ドナルド・トランプ米大統領と中国の習近平国家主席の会談を前に、8万1000ドルを下回る水準で安定した動きを見せた。",
+        "body": "ビットコインは、ドナルド・トランプ米大統領と中国の習近平国家主席の会談を控え、8万1000ドルを下回る水準で横ばいを維持した。原文によると、価格は急な方向感を示すよりも、会談前に安定した推移を続けた。背景には、米中首脳間の対話が予定されていることがある。ビットコインが8万1000ドルを上回れずに推移したことは、投資家が重要な政治日程を前に慎重に動いている文脈で受け止められる。今後の動きは会談後の市場反応に左右される可能性がある。出典: coindesk.com."
+      },
+      "zh": {
+        "title": "比特币徘徊在8.1万美元下方，市场关注特朗普与习近平会谈",
+        "excerpt": "在美国总统唐纳德·特朗普与中国国家主席习近平会谈前，比特币保持稳定，价格仍位于8.1万美元下方。",
+        "body": "在美国总统唐纳德·特朗普与中国国家主席习近平会谈前，比特币维持在8.1万美元下方并保持平稳。根据原文，价格并未出现明显方向性波动，而是在会谈前延续稳定走势。相关背景是美中两国领导人即将进行对话。比特币未能升破8.1万美元，显示投资者在重大政治日程前保持谨慎。后续走势可能取决于会谈结束后市场的反应。来源: coindesk.com."
+      },
+      "es": {
+        "title": "Bitcoin sigue bajo US$81.000 antes de las conversaciones Trump-Xi",
+        "excerpt": "Bitcoin se mantuvo estable por debajo de US$81.000 antes de la reunión entre el presidente Donald Trump y el líder chino Xi Jinping.",
+        "body": "Bitcoin se mantuvo en un rango estable por debajo de US$81.000 antes de las conversaciones entre el presidente estadounidense Donald Trump y el presidente chino Xi Jinping. Según el informe original, el precio no mostró un movimiento brusco en una dirección concreta y permaneció estable antes del encuentro. El contexto principal es el diálogo previsto entre los líderes de Estados Unidos y China. Que bitcoin no superara los US$81.000 indica cautela de los inversores ante una cita política relevante. El próximo movimiento podría depender de la reacción del mercado tras la reunión. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "Bitcoin fica abaixo de US$ 81 mil antes de conversas entre Trump e Xi",
+        "excerpt": "O bitcoin permaneceu estável abaixo de US$ 81 mil antes da reunião entre o presidente Donald Trump e o líder chinês Xi Jinping.",
+        "body": "O bitcoin permaneceu em faixa estável abaixo de US$ 81 mil antes das conversas entre o presidente dos Estados Unidos, Donald Trump, e o presidente da China, Xi Jinping. Segundo o relatório original, o preço não mostrou uma direção forte e manteve estabilidade antes do encontro. O principal contexto é o diálogo previsto entre os líderes dos Estados Unidos e da China. O fato de o bitcoin não superar US$ 81 mil indica cautela dos investidores antes de um evento político importante. O próximo movimento pode depender da reação do mercado após a reunião. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "Bitcoin bleibt unter 81.000 US-Dollar vor Gesprächen zwischen Trump und Xi",
+        "excerpt": "Bitcoin hielt sich vor dem Treffen von US-Präsident Donald Trump mit Chinas Präsident Xi Jinping stabil unter 81.000 US-Dollar.",
+        "body": "Bitcoin bewegte sich vor den Gesprächen zwischen US-Präsident Donald Trump und Chinas Präsident Xi Jinping stabil unter 81.000 US-Dollar. Dem Originalbericht zufolge zeigte der Preis keine starke Richtungsbewegung, sondern blieb vor dem Treffen ruhig. Der zentrale Hintergrund ist der geplante Dialog zwischen den Staatschefs der USA und Chinas. Dass Bitcoin die Marke von 81.000 US-Dollar nicht überschritt, deutet auf Zurückhaltung der Anleger vor einem wichtigen politischen Termin hin. Die weitere Entwicklung könnte von der Marktreaktion nach den Gesprächen abhängen. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "Bitcoin reste sous 81 000 dollars avant les discussions entre Trump et Xi",
+        "excerpt": "Bitcoin est resté stable sous 81 000 dollars avant la rencontre entre le président Donald Trump et le dirigeant chinois Xi Jinping.",
+        "body": "Bitcoin est resté dans une zone stable sous 81 000 dollars avant les discussions entre le président américain Donald Trump et le président chinois Xi Jinping. Selon le rapport original, le prix n’a pas affiché de mouvement directionnel marqué et a plutôt conservé une évolution stable avant la rencontre. Le contexte principal est le dialogue prévu entre les dirigeants des États-Unis et de la Chine. Le fait que bitcoin ne dépasse pas 81 000 dollars traduit une certaine prudence des investisseurs avant un rendez-vous politique important. La suite pourrait dépendre de la réaction du marché après les discussions. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "بيتكوين تبقى دون 81 ألف دولار مع ترقب محادثات ترامب وشي",
+        "excerpt": "استقرت بيتكوين دون 81 ألف دولار قبل محادثات بين الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ.",
+        "body": "بقيت بيتكوين مستقرة دون مستوى 81 ألف دولار قبل المحادثات المرتقبة بين الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ. ووفق التقرير الأصلي، لم يظهر السعر اتجاها حادا، بل حافظ على مسار مستقر قبل اللقاء. ويتمثل السياق الرئيسي في الحوار المقرر بين قائدي الولايات المتحدة والصين. بقاء بيتكوين دون 81 ألف دولار يشير إلى حذر المستثمرين قبل حدث سياسي مهم. وقد يتوقف المسار التالي على رد فعل السوق بعد المحادثات. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "ट्रंप-शी वार्ता से पहले बिटकॉइन 81,000 डॉलर से नीचे स्थिर",
+        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीन के राष्ट्रपति शी जिनपिंग की वार्ता से पहले बिटकॉइन 81,000 डॉलर से नीचे स्थिर रहा।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीन के राष्ट्रपति शी जिनपिंग की वार्ता से पहले बिटकॉइन 81,000 डॉलर से नीचे स्थिर दायरे में रहा। मूल रिपोर्ट के अनुसार, कीमत में किसी तेज दिशा का संकेत नहीं दिखा और बैठक से पहले यह स्थिर बनी रही। इसका मुख्य संदर्भ अमेरिका और चीन के नेताओं के बीच तय बातचीत है। बिटकॉइन का 81,000 डॉलर से ऊपर न जा पाना दिखाता है कि निवेशक एक अहम राजनीतिक कार्यक्रम से पहले सतर्क रहे। आगे की चाल वार्ता के बाद बाजार की प्रतिक्रिया पर निर्भर कर सकती है। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "Bitcoin Bertahan di Bawah US$81.000 Jelang Pembicaraan Trump-Xi",
+        "excerpt": "Bitcoin bergerak stabil di bawah US$81.000 menjelang pembicaraan antara Presiden Donald Trump dan Presiden China Xi Jinping.",
+        "body": "Bitcoin bertahan stabil di bawah US$81.000 menjelang pembicaraan antara Presiden Amerika Serikat Donald Trump dan Presiden China Xi Jinping. Menurut laporan asli, harga tidak menunjukkan arah yang tajam dan tetap stabil sebelum pertemuan tersebut. Konteks utamanya adalah dialog yang dijadwalkan antara pemimpin Amerika Serikat dan China. Bitcoin yang belum menembus US$81.000 menunjukkan investor bergerak hati-hati sebelum agenda politik penting. Pergerakan berikutnya dapat bergantung pada respons pasar setelah pembicaraan. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "f36b62bc6d9a",
     "slug": "일본-시장-30년만에-재도전합니다승용차-대신-다른-것-들고-온-기아-263046",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Derivatif Ethereum Tetap Kuat, Target ETH US$2.600 Masih Jadi Sorotan",
         "excerpt": "Futures dan opsi Ethereum baru-baru ini menunjukkan kepercayaan hati-hati dari trader profesional meski ada tekanan makro dan peretasan DeFi, menjaga target ETH US$2.600 tetap terbuka.",
         "body": "Pasar derivatif Ethereum (ETH) baru-baru ini tetap relatif stabil meski menghadapi hambatan makroekonomi dan kekhawatiran atas peretasan DeFi. Indikator futures dan opsi menunjukkan bahwa investor profesional masih mempertahankan kepercayaan hati-hati, bukan kepanikan berlebihan. Konteks utamanya, target harga ETH di US$2.600 masih berada dalam jangkauan meski volatilitas jangka pendek dan risiko eksternal berlanjut. Laporan asli mencatat bahwa kondisi makro dan insiden keamanan tetap menjadi beban bagi sentimen. Pergerakan ETH berikutnya dapat bergantung pada keseimbangan antara psikologi pasar derivatif yang stabil dan risiko luar yang masih ada. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "4422f1005bc6",
-    "slug": "xrp-traders-say-bullishness-growing-as-etfs-log-largest-infl-453013",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T18:20:59.287Z",
-    "updatedAt": "2026-05-12T18:20:59.287Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/xrp-traders-bullishness-growing-etfs-log-largest-inflow-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/xrp-traders-bullishness-growing-etfs-log-largest-inflow-since-january",
-    "titleFingerprint": "e6792af3bdbe063e38a1a2c9a44c845f5147ff3a",
-    "dedupKeys": [
-      "4422f1005bc6ab2402db58c4f8dfa2ee73b56e71",
-      "e6792af3bdbe063e38a1a2c9a44c845f5147ff3a",
-      "25ea8cca17c98df7abe9d1a25cecf3b84e180962"
-    ],
-    "imageUrl": "/images/articles/4422f1005bc6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "XRP 강세론 확산, ETF 1월 이후 최대 자금 유입에 랠리 기대",
-        "excerpt": "XRP 분석가들은 ETF가 1월 이후 최대 유입을 기록한 가운데 기관 수요와 기술적 구조가 가격 랠리 기대를 키우고 있다고 평가했다.",
-        "body": "XRP 시장에서 강세 전망이 커지고 있다. 코인텔레그래프에 따르면 XRP 관련 ETF가 1월 이후 최대 자금 유입을 기록하면서, 트레이더와 분석가들은 지속적인 가격 상승 가능성에 주목했다. 배경에는 강한 기관 수요와 견조한 기술적 구조가 있다는 설명이다. 다만 기사에서 제시된 핵심은 기대가 확대되고 있다는 점이며, 실제 가격 흐름은 시장 수요와 기술적 흐름의 지속 여부에 달려 있다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "XRP Bullish Sentiment Grows as ETFs See Biggest Inflow Since January",
-        "excerpt": "XRP analysts said ETF inflows hit their highest level since January, with institutional demand and technical structure lifting expectations for a price rally.",
-        "body": "Bullish sentiment around XRP is growing. According to Cointelegraph, XRP-related ETFs logged their largest inflow since January, prompting traders and analysts to focus on the potential for a sustained price rally. The outlook is being supported by strong institutional demand and a solid technical structure. The core point remains that optimism is increasing, while actual price movement will depend on whether demand and technical momentum continue. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "XRP強気姿勢が拡大、ETFは1月以来最大の資金流入を記録",
-        "excerpt": "XRP分析家は、ETFが1月以来最大の流入を記録し、機関投資家需要と強いテクニカル構造が価格上昇期待を高めていると見た。",
-        "body": "XRP市場で強気の見方が広がっている。Cointelegraphによると、XRP関連ETFは1月以来最大の資金流入を記録し、トレーダーや分析家は持続的な価格上昇の可能性に注目している。背景には強い機関投資家需要と堅調なテクニカル構造があるという。ただし、記事の中心は期待感の拡大であり、実際の値動きは需要とテクニカル面の流れが続くかに左右される。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "XRP看涨情绪升温，ETF录得1月以来最大资金流入",
-        "excerpt": "XRP分析师指出，相关ETF录得1月以来最大流入，机构需求和稳健技术结构正在推升价格反弹预期。",
-        "body": "XRP市场的看涨预期正在升温。据Cointelegraph报道，XRP相关ETF录得1月以来最大资金流入，交易员和分析师因此关注其持续价格上涨的可能性。支撑这一判断的因素包括强劲的机构需求和稳固的技术结构。不过，报道强调的核心是乐观情绪正在扩大，实际价格走势仍取决于需求和技术动能能否延续。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "XRP gana impulso alcista tras mayor entrada en ETF desde enero",
-        "excerpt": "Analistas de XRP dijeron que los ETF registraron su mayor entrada desde enero, impulsando expectativas de repunte por demanda institucional y fortaleza técnica.",
-        "body": "El sentimiento alcista sobre XRP está creciendo. Según Cointelegraph, los ETF relacionados con XRP registraron su mayor entrada de fondos desde enero, lo que llevó a traders y analistas a observar la posibilidad de un repunte sostenido del precio. La perspectiva se apoya en una fuerte demanda institucional y una estructura técnica sólida. Aun así, el punto central es que el optimismo aumenta, mientras el movimiento real del precio dependerá de que continúen la demanda y el impulso técnico. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "XRP vê otimismo crescer com maior entrada em ETFs desde janeiro",
-        "excerpt": "Analistas de XRP afirmam que ETFs tiveram a maior entrada desde janeiro, com demanda institucional e estrutura técnica elevando expectativas de alta.",
-        "body": "O sentimento otimista em torno do XRP está crescendo. Segundo a Cointelegraph, ETFs ligados ao XRP registraram a maior entrada de recursos desde janeiro, levando traders e analistas a observar o potencial de uma alta sustentada no preço. A avaliação é sustentada por forte demanda institucional e por uma estrutura técnica sólida. Ainda assim, o ponto central é a expansão do otimismo, enquanto o movimento real do preço dependerá da continuidade da demanda e do impulso técnico. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "XRP-Bullen werden lauter, ETFs mit größtem Zufluss seit Januar",
-        "excerpt": "XRP-Analysten sehen nach dem größten ETF-Zufluss seit Januar wachsende Rallye-Erwartungen, gestützt durch institutionelle Nachfrage und Technik.",
-        "body": "Die bullische Stimmung rund um XRP nimmt zu. Laut Cointelegraph verzeichneten XRP-bezogene ETFs den größten Mittelzufluss seit Januar, wodurch Trader und Analysten die Chance auf eine anhaltende Preisrallye stärker in den Blick nehmen. Gestützt wird diese Einschätzung durch hohe institutionelle Nachfrage und eine robuste technische Struktur. Der Kern der Meldung ist jedoch die wachsende Zuversicht; die tatsächliche Kursentwicklung hängt davon ab, ob Nachfrage und technisches Momentum anhalten. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "XRP attire plus d’optimisme après le plus gros afflux ETF depuis janvier",
-        "excerpt": "Des analystes XRP estiment que les ETF ont enregistré leur plus fort afflux depuis janvier, soutenant les attentes de hausse via demande institutionnelle et technique.",
-        "body": "Le sentiment haussier autour de XRP progresse. Selon Cointelegraph, les ETF liés à XRP ont enregistré leur plus important afflux de capitaux depuis janvier, poussant traders et analystes à surveiller le potentiel d’un rallye durable du prix. Cette lecture s’appuie sur une forte demande institutionnelle et une structure technique solide. Le point central reste toutefois l’augmentation de l’optimisme, tandis que l’évolution réelle du prix dépendra de la poursuite de la demande et de l’élan technique. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "تفاؤل متزايد حول XRP مع أكبر تدفق لصناديق ETF منذ يناير",
-        "excerpt": "قال محللو XRP إن صناديق ETF سجلت أكبر تدفق منذ يناير، مع دعم من الطلب المؤسسي والبنية الفنية القوية لتوقعات ارتفاع السعر.",
-        "body": "يتزايد التفاؤل حول XRP في السوق. وبحسب Cointelegraph، سجلت صناديق ETF المرتبطة بـXRP أكبر تدفق للأموال منذ يناير، ما دفع المتداولين والمحللين إلى التركيز على احتمال استمرار ارتفاع السعر. ويستند هذا التقييم إلى طلب مؤسسي قوي وبنية فنية متماسكة. لكن جوهر الخبر هو أن التوقعات الإيجابية تتسع، بينما سيظل مسار السعر الفعلي مرتبطا باستمرار الطلب والزخم الفني. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "XRP में तेजी की धारणा बढ़ी, ETF में जनवरी के बाद सबसे बड़ा इनफ्लो",
-        "excerpt": "XRP विश्लेषकों ने कहा कि ETF में जनवरी के बाद सबसे बड़ा इनफ्लो आया, जिससे संस्थागत मांग और तकनीकी ढांचा कीमत रैली की उम्मीद बढ़ा रहे हैं।",
-        "body": "XRP को लेकर बाजार में तेजी की धारणा बढ़ रही है। Cointelegraph के अनुसार, XRP से जुड़े ETF में जनवरी के बाद सबसे बड़ा फंड इनफ्लो दर्ज हुआ, जिसके बाद ट्रेडर और विश्लेषक टिकाऊ कीमत रैली की संभावना पर ध्यान दे रहे हैं। इस दृष्टिकोण को मजबूत संस्थागत मांग और ठोस तकनीकी संरचना से समर्थन मिल रहा है। फिर भी मुख्य बात यह है कि आशावाद बढ़ रहा है; वास्तविक कीमत चाल मांग और तकनीकी गति के जारी रहने पर निर्भर करेगी। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "XRP Makin Bullish, ETF Catat Arus Masuk Terbesar Sejak Januari",
-        "excerpt": "Analis XRP menyebut ETF mencatat arus masuk terbesar sejak Januari, dengan permintaan institusional dan struktur teknikal yang mendukung ekspektasi reli.",
-        "body": "Sentimen bullish terhadap XRP sedang meningkat. Menurut Cointelegraph, ETF terkait XRP mencatat arus masuk dana terbesar sejak Januari, membuat trader dan analis menyoroti potensi kenaikan harga yang berkelanjutan. Pandangan ini didukung oleh permintaan institusional yang kuat dan struktur teknikal yang solid. Namun inti laporan adalah meningkatnya optimisme, sementara pergerakan harga sebenarnya bergantung pada apakah permintaan dan momentum teknikal dapat berlanjut. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "011c2e49450a",
-    "slug": "senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-c-494058",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T18:19:41.200Z",
-    "updatedAt": "2026-05-12T18:19:41.200Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
-    "canonicalUrl": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
-    "titleFingerprint": "9f255125455a0d9cd2ac69d9d5c1c9fb4ce8bae8",
-    "dedupKeys": [
-      "011c2e49450a881def9435c4cae05783ce6f84d4",
-      "9f255125455a0d9cd2ac69d9d5c1c9fb4ce8bae8",
-      "98f1fad056f55f9da5e957b334fcda0f48d5cf67"
-    ],
-    "imageUrl": "/images/articles/011c2e49450a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "케빈 워시 Fed 이사 인준, 차기 의장 표결 앞두고 주목",
-        "excerpt": "미 상원이 케빈 워시의 연준 이사 임명을 인준하면서, 제롬 파월 의장 후임 가능성과 인플레이션·디지털 자산 정책 논의가 함께 부각됐다.",
-        "body": "미 상원은 예상되는 연준 의장 표결을 앞두고 케빈 워시의 연방준비제도 이사 임명을 인준했다. 워시는 암호화폐와 연결된 투자자로 알려져 있으며, 이번 인준으로 제롬 파월 의장을 대체할 수 있는 위치에 놓이게 됐다. 이번 결정은 인플레이션 대응과 디지털 자산 정책을 둘러싼 논의가 이어지는 가운데 나왔다. 시장은 워시의 이사회 합류가 향후 연준 지도부 구성과 가상자산 관련 정책 방향에 어떤 영향을 줄지 주시하고 있다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Kevin Warsh Wins Fed Board Confirmation Before Chair Vote",
-        "excerpt": "The U.S. Senate confirmed Kevin Warsh to the Federal Reserve Board, putting the crypto-linked investor in focus before an expected Fed chair vote.",
-        "body": "The U.S. Senate confirmed Kevin Warsh to the Federal Reserve Board ahead of an expected vote on the next Fed chair. Warsh, known as an investor linked to crypto, is now positioned as a potential replacement for Chair Jerome Powell. The confirmation comes as debates continue over inflation and digital asset policy. Markets are watching whether Warsh’s arrival on the board could affect the future makeup of Fed leadership and the direction of policy related to digital assets. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "ケビン・ウォーシュ氏、FRB理事に承認 次期議長投票前に注目",
-        "excerpt": "米上院がケビン・ウォーシュ氏のFRB理事就任を承認し、パウエル議長の後任候補やインフレ、デジタル資産政策の議論が焦点となった。",
-        "body": "米上院は、予想されるFRB議長投票を前に、ケビン・ウォーシュ氏の連邦準備制度理事会理事就任を承認した。ウォーシュ氏は暗号資産とつながりのある投資家として知られ、今回の承認によりジェローム・パウエル議長の後任となり得る立場に置かれた。今回の決定は、インフレ対応とデジタル資産政策を巡る議論が続く中で行われた。市場は、同氏の理事会入りが今後のFRB指導部の構成や暗号資産関連政策の方向にどう影響するかを注視している。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "凯文·沃什获美联储理事确认，主席投票前受关注",
-        "excerpt": "美国参议院确认凯文·沃什出任美联储理事，使这位与加密货币相关的投资人在预期主席投票前成为焦点。",
-        "body": "美国参议院在预期中的美联储主席投票前，确认凯文·沃什出任联邦储备委员会理事。沃什被称为与加密货币相关的投资人，此次确认使他处于可能接替杰罗姆·鲍威尔担任主席的位置。该决定出现在通胀应对和数字资产政策讨论持续之际。市场正关注沃什进入理事会后，是否会影响未来美联储领导层构成以及数字资产相关政策方向。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Kevin Warsh logra puesto en la Fed antes del voto por la presidencia",
-        "excerpt": "El Senado de EE. UU. confirmó a Kevin Warsh para la Junta de la Fed, poniendo al inversor vinculado a cripto en foco antes del voto esperado por la presidencia.",
-        "body": "El Senado de Estados Unidos confirmó a Kevin Warsh como miembro de la Junta de la Reserva Federal antes de una votación esperada sobre la presidencia de la Fed. Warsh, conocido como inversor vinculado a las criptomonedas, queda ahora posicionado como posible reemplazo de Jerome Powell. La confirmación llega mientras continúan los debates sobre inflación y política de activos digitales. El mercado observa si su llegada a la junta influirá en la futura composición del liderazgo de la Fed y en la dirección de las políticas sobre activos digitales. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Kevin Warsh é confirmado no Fed antes de votação para presidente",
-        "excerpt": "O Senado dos EUA confirmou Kevin Warsh para o conselho do Fed, colocando o investidor ligado a cripto em foco antes da esperada votação para presidente.",
-        "body": "O Senado dos Estados Unidos confirmou Kevin Warsh para o Conselho do Federal Reserve antes de uma votação esperada sobre a presidência do Fed. Warsh, conhecido como investidor ligado às criptomoedas, passa a ficar posicionado como possível substituto de Jerome Powell. A confirmação ocorre enquanto seguem os debates sobre inflação e política de ativos digitais. O mercado acompanha se sua entrada no conselho poderá influenciar a futura composição da liderança do Fed e a direção das políticas relacionadas a ativos digitais. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Kevin Warsh für Fed-Board bestätigt, Fokus vor Vorsitz-Abstimmung",
-        "excerpt": "Der US-Senat bestätigte Kevin Warsh für das Fed-Board und rückt den krypto-nahen Investor vor der erwarteten Abstimmung über den Fed-Vorsitz in den Fokus.",
-        "body": "Der US-Senat hat Kevin Warsh vor einer erwarteten Abstimmung über den Vorsitz der Federal Reserve als Mitglied des Fed-Boards bestätigt. Warsh gilt als Investor mit Verbindungen zum Kryptosektor und ist damit als möglicher Nachfolger von Jerome Powell positioniert. Die Bestätigung erfolgt, während Debatten über Inflation und die Politik für digitale Vermögenswerte anhalten. Die Märkte beobachten, ob Warshs Eintritt in das Board die künftige Zusammensetzung der Fed-Führung und die Richtung der Politik zu digitalen Assets beeinflussen wird. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Kevin Warsh confirmé à la Fed avant le vote attendu sur la présidence",
-        "excerpt": "Le Sénat américain a confirmé Kevin Warsh au conseil de la Fed, plaçant l’investisseur lié aux cryptos au centre de l’attention avant le vote attendu.",
-        "body": "Le Sénat américain a confirmé Kevin Warsh au conseil de la Réserve fédérale avant un vote attendu sur la présidence de la Fed. Warsh, connu comme investisseur lié aux cryptomonnaies, se trouve désormais en position de possible remplaçant de Jerome Powell. Cette confirmation intervient alors que les débats se poursuivent sur l’inflation et la politique des actifs numériques. Les marchés surveillent si son arrivée au conseil pourrait influencer la future composition de la direction de la Fed et l’orientation des politiques liées aux actifs numériques. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "تأكيد كيفن وورش في مجلس الفدرالي قبل تصويت رئاسة مرتقب",
-        "excerpt": "أكد مجلس الشيوخ الأميركي تعيين كيفن وورش في مجلس الاحتياطي الفدرالي، ما يضع المستثمر المرتبط بالعملات المشفرة تحت الأضواء قبل تصويت متوقع على الرئاسة.",
-        "body": "أكد مجلس الشيوخ الأميركي تعيين كيفن وورش في مجلس الاحتياطي الفدرالي قبل تصويت متوقع على رئاسة البنك المركزي. ويُعرف وورش بأنه مستثمر مرتبط بقطاع العملات المشفرة، وأصبح بهذا التأكيد في موقع قد يجعله بديلا محتملا لجيروم باول. يأتي القرار بينما تستمر النقاشات حول التضخم وسياسات الأصول الرقمية. وتراقب الأسواق ما إذا كان انضمامه إلى المجلس سيؤثر في التشكيل المستقبلي لقيادة الفدرالي واتجاه السياسات المرتبطة بالأصول الرقمية. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "केविन वार्श को Fed बोर्ड मंजूरी, चेयर वोट से पहले बढ़ी नजर",
-        "excerpt": "अमेरिकी सीनेट ने केविन वार्श को फेडरल रिजर्व बोर्ड में मंजूरी दी, जिससे क्रिप्टो से जुड़े निवेशक पर अपेक्षित चेयर वोट से पहले ध्यान बढ़ा।",
-        "body": "अमेरिकी सीनेट ने अपेक्षित फेड चेयर वोट से पहले केविन वार्श को फेडरल रिजर्व बोर्ड में नियुक्त करने की पुष्टि की। वार्श को क्रिप्टो से जुड़े निवेशक के रूप में जाना जाता है और इस मंजूरी के बाद वे जेरोम पॉवेल के संभावित उत्तराधिकारी की स्थिति में आ गए हैं। यह फैसला महंगाई और डिजिटल एसेट नीति पर जारी बहस के बीच आया है। बाजार देख रहा है कि बोर्ड में वार्श की एंट्री भविष्य में फेड नेतृत्व की संरचना और डिजिटल एसेट से जुड़ी नीतियों की दिशा को कैसे प्रभावित कर सकती है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Kevin Warsh Disetujui Masuk Dewan Fed Jelang Voting Ketua",
-        "excerpt": "Senat AS mengonfirmasi Kevin Warsh masuk Dewan Federal Reserve, menyorot investor terkait kripto itu menjelang voting ketua Fed yang diperkirakan berlangsung.",
-        "body": "Senat Amerika Serikat mengonfirmasi Kevin Warsh sebagai anggota Dewan Federal Reserve menjelang voting yang diperkirakan terkait posisi ketua Fed. Warsh dikenal sebagai investor yang terkait dengan kripto, dan konfirmasi ini menempatkannya sebagai sosok yang berpotensi menggantikan Jerome Powell. Keputusan tersebut muncul saat perdebatan tentang inflasi dan kebijakan aset digital terus berlangsung. Pasar mencermati apakah masuknya Warsh ke dewan akan memengaruhi susunan kepemimpinan Fed ke depan dan arah kebijakan terkait aset digital. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "8b5d6a0b28de",
-    "slug": "the-ethereum-foundation-unveils-new-clear-signing-standard-t-185325",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T18:18:11.860Z",
-    "updatedAt": "2026-05-12T18:18:11.861Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
-    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
-    "titleFingerprint": "00c35f157c669db924b04f4783aeec083a36fb0b",
-    "dedupKeys": [
-      "8b5d6a0b28dede80a54162ff39836f4be5b13733",
-      "00c35f157c669db924b04f4783aeec083a36fb0b",
-      "803b94dd519feb7275a7697533cc92916a34b8fd"
-    ],
-    "imageUrl": "/images/articles/8b5d6a0b28de.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이더리움 재단, 악성 거래 승인 막는 ‘클리어 사이닝’ 표준 공개",
-        "excerpt": "이더리움 재단은 피싱 공격과 지갑 탈취로 인한 수십억 달러 손실 이후, 사용자가 암호화폐 거래 승인을 더 안전하고 쉽게 이해하도록 ‘클리어 사이닝’ 표준을 공개했다.",
-        "body": "이더리움 재단이 사용자가 악성 암호화폐 거래를 승인하는 일을 줄이기 위해 새로운 ‘클리어 사이닝’ 표준을 공개했다. 이 표준은 거래 승인 화면을 더 명확하게 만들어 사용자가 무엇에 동의하는지 이해하도록 돕는 데 초점을 둔다. 이번 움직임은 피싱 공격과 지갑 드레인으로 수십억 달러 규모의 손실이 발생한 뒤 나왔다. 이더리움은 복잡한 승인 과정을 더 안전하고 읽기 쉽게 바꾸려 하고 있다. 표준이 확산되면 지갑 이용자는 거래 위험을 더 쉽게 파악할 수 있고, 생태계 전반의 보안 경험도 개선될 수 있다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Ethereum Foundation Unveils Clear Signing Standard to Block Malicious Crypto Approvals",
-        "excerpt": "The Ethereum Foundation has introduced a Clear Signing standard after billions in phishing and wallet-drain losses, aiming to make crypto transaction approvals safer and easier to understand.",
-        "body": "The Ethereum Foundation has unveiled a new “Clear Signing” standard designed to reduce the risk of users approving malicious crypto transactions. The standard focuses on making transaction approval screens clearer so users can better understand what they are agreeing to before signing. The move follows billions of dollars in losses tied to phishing attacks and wallet drains. Ethereum is pushing to make complex approval flows safer and easier to read. If adopted broadly, the standard could help wallet users recognize transaction risks more easily and improve the security experience across the ecosystem. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "イーサリアム財団、悪質な暗号資産取引承認を防ぐClear Signing標準を公開",
-        "excerpt": "イーサリアム財団は、フィッシング攻撃やウォレット流出で数十億ドル規模の損失が出たことを受け、取引承認をより安全で理解しやすくするClear Signing標準を公開した。",
-        "body": "イーサリアム財団は、利用者が悪質な暗号資産取引を承認してしまうリスクを減らすため、新たな「Clear Signing」標準を公開した。この標準は、取引承認画面をより明確にし、利用者が署名前に何に同意しているのかを理解しやすくすることに重点を置く。今回の動きは、フィッシング攻撃やウォレットドレインによって数十億ドル規模の損失が発生した後に示された。イーサリアムは複雑な承認プロセスをより安全で読みやすいものに変えようとしている。普及すれば、ウォレット利用者は取引リスクを把握しやすくなり、エコシステム全体のセキュリティ体験も改善される可能性がある。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "以太坊基金会发布Clear Signing标准，防止恶意加密交易授权",
-        "excerpt": "以太坊基金会在钓鱼攻击和钱包盗取造成数十亿美元损失后，推出Clear Signing标准，旨在让加密交易授权更安全、更易理解。",
-        "body": "以太坊基金会发布了新的“Clear Signing”标准，旨在降低用户批准恶意加密交易的风险。该标准重点在于让交易授权页面更加清晰，帮助用户在签署前理解自己正在同意的内容。此举是在钓鱼攻击和钱包盗取造成数十亿美元损失之后推出的。以太坊正在推动将复杂的授权流程变得更安全、更容易阅读。如果该标准得到广泛采用，钱包用户将更容易识别交易风险，整个生态系统的安全体验也可能得到改善。来源: coindesk.com."
-      },
-      "es": {
-        "title": "Ethereum Foundation presenta Clear Signing para frenar aprobaciones cripto maliciosas",
-        "excerpt": "Ethereum Foundation lanzó el estándar Clear Signing tras miles de millones en pérdidas por phishing y vaciados de billeteras, con el objetivo de hacer las aprobaciones cripto más seguras y comprensibles.",
-        "body": "Ethereum Foundation presentó el nuevo estándar “Clear Signing” para reducir el riesgo de que los usuarios aprueben transacciones cripto maliciosas. La propuesta busca que las pantallas de aprobación sean más claras, de modo que el usuario entienda mejor qué está aceptando antes de firmar. La medida llega después de miles de millones de dólares en pérdidas vinculadas a ataques de phishing y vaciados de billeteras. Ethereum intenta hacer que los flujos de aprobación, a menudo complejos, sean más seguros y fáciles de leer. Si el estándar se adopta ampliamente, los usuarios de billeteras podrían identificar mejor los riesgos de cada transacción y mejorar la experiencia de seguridad del ecosistema. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Ethereum Foundation lança Clear Signing para barrar aprovações cripto maliciosas",
-        "excerpt": "A Ethereum Foundation apresentou o padrão Clear Signing após bilhões em perdas com phishing e drenagem de carteiras, buscando tornar aprovações cripto mais seguras e fáceis de entender.",
-        "body": "A Ethereum Foundation revelou o novo padrão “Clear Signing” para reduzir o risco de usuários aprovarem transações cripto maliciosas. O foco é tornar as telas de aprovação mais claras, ajudando o usuário a entender o que está aceitando antes de assinar. A iniciativa surge após bilhões de dólares em perdas ligadas a ataques de phishing e drenagem de carteiras. A Ethereum busca transformar fluxos de aprovação complexos em processos mais seguros e legíveis. Se o padrão for amplamente adotado, usuários de carteiras poderão reconhecer riscos de transações com mais facilidade, melhorando a experiência de segurança em todo o ecossistema. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Ethereum Foundation stellt Clear Signing gegen bösartige Krypto-Freigaben vor",
-        "excerpt": "Die Ethereum Foundation hat nach Milliardenverlusten durch Phishing und Wallet-Drains den Standard Clear Signing vorgestellt, um Krypto-Transaktionsfreigaben sicherer und verständlicher zu machen.",
-        "body": "Die Ethereum Foundation hat den neuen Standard „Clear Signing“ vorgestellt, um das Risiko zu verringern, dass Nutzer bösartige Krypto-Transaktionen freigeben. Der Standard soll Freigabebildschirme klarer machen, damit Nutzer vor dem Signieren besser verstehen, wozu sie zustimmen. Der Schritt folgt auf Milliardenverluste durch Phishing-Angriffe und Wallet-Drains. Ethereum will komplexe Freigabeprozesse sicherer und leichter lesbar machen. Bei breiter Einführung könnte der Standard Wallet-Nutzern helfen, Transaktionsrisiken einfacher zu erkennen, und die Sicherheitserfahrung im gesamten Ökosystem verbessern. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Ethereum Foundation dévoile Clear Signing contre les validations crypto malveillantes",
-        "excerpt": "Ethereum Foundation a présenté le standard Clear Signing après des milliards de dollars perdus dans le phishing et les drains de wallets, afin de rendre les validations crypto plus sûres et lisibles.",
-        "body": "Ethereum Foundation a dévoilé le nouveau standard « Clear Signing » afin de réduire le risque que des utilisateurs approuvent des transactions crypto malveillantes. Le standard vise à rendre les écrans de validation plus clairs pour aider l’utilisateur à comprendre ce qu’il accepte avant de signer. Cette initiative intervient après des milliards de dollars de pertes liées aux attaques de phishing et aux drains de wallets. Ethereum cherche à rendre les processus d’approbation complexes plus sûrs et plus faciles à lire. S’il est largement adopté, ce standard pourrait aider les utilisateurs de wallets à repérer plus facilement les risques des transactions et améliorer l’expérience de sécurité dans l’écosystème. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "مؤسسة إيثريوم تكشف معيار Clear Signing لمنع موافقات العملات المشفرة الخبيثة",
-        "excerpt": "كشفت مؤسسة إيثريوم عن معيار Clear Signing بعد خسائر بمليارات الدولارات من هجمات التصيد واستنزاف المحافظ، بهدف جعل موافقات معاملات العملات المشفرة أكثر أمانا وأسهل فهما.",
-        "body": "كشفت مؤسسة إيثريوم عن معيار جديد باسم “Clear Signing” للحد من خطر موافقة المستخدمين على معاملات عملات مشفرة خبيثة. يركز المعيار على جعل شاشات الموافقة على المعاملات أكثر وضوحا، حتى يفهم المستخدم ما يوافق عليه قبل التوقيع. تأتي هذه الخطوة بعد خسائر بمليارات الدولارات مرتبطة بهجمات التصيد واستنزاف المحافظ. وتسعى إيثريوم إلى جعل مسارات الموافقة المعقدة أكثر أمانا وأسهل قراءة. وإذا تم اعتماد المعيار على نطاق واسع، فقد يساعد مستخدمي المحافظ على التعرف إلى مخاطر المعاملات بسهولة أكبر ويحسن تجربة الأمان في المنظومة. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "Ethereum Foundation ने दुर्भावनापूर्ण क्रिप्टो मंजूरियां रोकने के लिए Clear Signing मानक पेश किया",
-        "excerpt": "Ethereum Foundation ने फिशिंग हमलों और वॉलेट ड्रेन से अरबों डॉलर के नुकसान के बाद Clear Signing मानक पेश किया, ताकि क्रिप्टो लेनदेन मंजूरियां अधिक सुरक्षित और समझने में आसान हों।",
-        "body": "Ethereum Foundation ने नया “Clear Signing” मानक पेश किया है, जिसका उद्देश्य उपयोगकर्ताओं द्वारा दुर्भावनापूर्ण क्रिप्टो लेनदेन को मंजूरी देने के जोखिम को कम करना है। यह मानक लेनदेन अनुमोदन स्क्रीन को अधिक स्पष्ट बनाने पर केंद्रित है, ताकि उपयोगकर्ता साइन करने से पहले समझ सकें कि वे किस बात से सहमत हो रहे हैं। यह कदम फिशिंग हमलों और वॉलेट ड्रेन से जुड़े अरबों डॉलर के नुकसान के बाद आया है। Ethereum जटिल अनुमोदन प्रक्रियाओं को अधिक सुरक्षित और पढ़ने में आसान बनाना चाहता है। व्यापक अपनाने पर यह मानक वॉलेट उपयोगकर्ताओं को लेनदेन जोखिम पहचानने में मदद कर सकता है और पूरे इकोसिस्टम में सुरक्षा अनुभव सुधार सकता है। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Ethereum Foundation Rilis Clear Signing untuk Cegah Persetujuan Kripto Berbahaya",
-        "excerpt": "Ethereum Foundation memperkenalkan standar Clear Signing setelah kerugian miliaran dolar akibat phishing dan pengurasan wallet, dengan tujuan membuat persetujuan transaksi kripto lebih aman dan mudah dipahami.",
-        "body": "Ethereum Foundation memperkenalkan standar baru “Clear Signing” untuk mengurangi risiko pengguna menyetujui transaksi kripto berbahaya. Standar ini berfokus pada pembuatan layar persetujuan transaksi yang lebih jelas, sehingga pengguna dapat memahami apa yang mereka setujui sebelum menandatangani. Langkah ini muncul setelah kerugian miliaran dolar akibat serangan phishing dan pengurasan wallet. Ethereum berupaya membuat alur persetujuan yang kompleks menjadi lebih aman dan mudah dibaca. Jika diadopsi luas, standar ini dapat membantu pengguna wallet mengenali risiko transaksi dengan lebih mudah dan meningkatkan pengalaman keamanan di seluruh ekosistem. Sumber: coindesk.com."
       }
     }
   }
