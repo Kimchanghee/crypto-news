@@ -1,0 +1,75 @@
+{
+  "id": "fdf6d74d8ccb",
+  "slug": "anthropic-openai-tokens-plunge-as-ai-firms-say-pre-ipo-share-640735",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-13T15:02:33.886Z",
+  "updatedAt": "2026-05-13T15:02:33.886Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/05/13/anthropic-openai-tokens-plunge-nearly-40-as-ai-firms-warn-spv-transfers-are-invalid",
+  "canonicalUrl": "https://www.coindesk.com/markets/2026/05/13/anthropic-openai-tokens-plunge-nearly-40-as-ai-firms-warn-spv-transfers-are-invalid",
+  "titleFingerprint": "c8d2f364ee60b3ffd351721c6f788f1a5f5c88b9",
+  "dedupKeys": [
+    "fdf6d74d8ccba276b4dd151d2bea39aefbc5d367",
+    "c8d2f364ee60b3ffd351721c6f788f1a5f5c88b9",
+    "02b17466aba39fa52c0715d9d22104aa7f2690f0"
+  ],
+  "imageUrl": "/images/articles/fdf6d74d8ccb.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Anthropic·OpenAI 토큰 급락, IPO 전 주식 이전 무효 경고",
+      "excerpt": "이번 주 솔라나 기반 Anthropic·OpenAI 추적 토큰이 급락했다. 양사가 토큰을 뒷받침한 IPO 전 주식 이전 구조가 유효하지 않을 수 있다고 경고했기 때문이다.",
+      "body": "이번 주 솔라나에서 거래되는 Anthropic과 OpenAI 관련 토큰이 크게 하락했다. 이 토큰들은 두 AI 기업의 비상장 시장 가치, 즉 IPO 전 지분 가치를 추적한다고 주장해 왔다. 그러나 Anthropic과 OpenAI가 토큰을 뒷받침하는 데 쓰인 주식 이전 구조가 유효하지 않을 수 있다고 밝히면서 투자 심리가 급격히 식었다. 이번 사안은 비상장 주식과 이를 모방한 온체인 토큰 사이의 법적·구조적 불확실성을 드러냈다. 관련 토큰의 향후 신뢰도는 발행 구조와 실제 지분 권리 인정 여부에 달릴 전망이다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Anthropic and OpenAI Tokens Fall as Pre-IPO Share Transfer Warnings Hit",
+      "excerpt": "Solana tokens tied to Anthropic and OpenAI dropped this week after both AI firms warned that the pre-IPO share transfer structures backing them may be invalid.",
+      "body": "Solana-based tokens linked to Anthropic and OpenAI fell sharply this week. The tokens have claimed to track the private-market valuations of the two AI companies, effectively mirroring the value of pre-IPO equity. Sentiment weakened after Anthropic and OpenAI warned that the share transfer structures used to support the tokens may not be valid. The episode highlights legal and structural uncertainty between private-company shares and on-chain tokens that claim to represent them. Future confidence in these tokens may depend on their issuance structure and whether any real equity rights are recognized. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "Anthropic・OpenAI連動トークン急落、IPO前株式移転に無効警告",
+      "excerpt": "今週、Solana上のAnthropic・OpenAI連動トークンが急落した。両社がトークンを支えるIPO前株式移転構造は無効の可能性があると警告したためだ。",
+      "body": "今週、Solanaで取引されるAnthropicとOpenAI関連トークンが大きく下落した。これらのトークンは、両AI企業の非公開市場での評価額、つまりIPO前の株式価値を追跡すると主張してきた。しかしAnthropicとOpenAIが、トークンの裏付けに使われた株式移転の仕組みは有効ではない可能性があると警告したことで、投資家心理は急速に冷え込んだ。今回の事例は、未上場株式とそれを模倣するオンチェーントークンの間にある法的・構造的な不確実性を示した。今後の信頼性は、発行構造と実際の株式権利が認められるかに左右される見通しだ。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "Anthropic与OpenAI代币暴跌，IPO前股份转让遭无效警告",
+      "excerpt": "本周，Solana上声称追踪Anthropic和OpenAI私募估值的代币大跌，原因是两家公司警告称其背后的IPO前股份转让结构可能无效。",
+      "body": "本周，Solana上与Anthropic和OpenAI相关的代币大幅下跌。这些代币声称追踪两家AI公司的私募市场估值，也就是IPO前股权价值。但Anthropic和OpenAI警告称，用于支撑这些代币的股份转让结构可能并不有效，市场情绪随之迅速降温。此事凸显了未上市公司股份与声称代表其价值的链上代币之间存在法律和结构不确定性。相关代币未来的可信度，预计将取决于发行结构以及实际股权权利能否获得承认。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Tokens de Anthropic y OpenAI caen por alerta sobre acciones pre-IPO",
+      "excerpt": "Esta semana cayeron con fuerza tokens en Solana vinculados a Anthropic y OpenAI, después de que ambas firmas advirtieran que las transferencias de acciones pre-IPO podrían ser inválidas.",
+      "body": "Los tokens basados en Solana vinculados a Anthropic y OpenAI cayeron con fuerza esta semana. Estos activos afirmaban seguir las valoraciones de mercado privado de ambas compañías de IA, es decir, el valor de sus participaciones antes de una salida a bolsa. El ánimo del mercado se debilitó después de que Anthropic y OpenAI advirtieran que las estructuras de transferencia de acciones usadas para respaldar los tokens podrían no ser válidas. El caso expone la incertidumbre legal y estructural entre acciones de empresas privadas y tokens on-chain que dicen representarlas. La confianza futura dependerá de la estructura de emisión y del reconocimiento de derechos reales sobre acciones. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Tokens de Anthropic e OpenAI caem com alerta sobre ações pré-IPO",
+      "excerpt": "Tokens na Solana ligados a Anthropic e OpenAI caíram forte nesta semana após as duas empresas alertarem que as estruturas de transferência de ações pré-IPO podem ser inválidas.",
+      "body": "Tokens baseados na Solana ligados à Anthropic e à OpenAI caíram acentuadamente nesta semana. Esses ativos afirmavam acompanhar as avaliações de mercado privado das duas empresas de IA, ou seja, o valor de participações antes de um IPO. O sentimento do mercado enfraqueceu depois que Anthropic e OpenAI alertaram que as estruturas de transferência de ações usadas para sustentar os tokens podem não ser válidas. O caso evidencia a incerteza jurídica e estrutural entre ações de empresas privadas e tokens on-chain que dizem representá-las. A confiança futura nesses tokens deve depender da estrutura de emissão e do reconhecimento de direitos reais sobre ações. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Anthropic- und OpenAI-Token fallen nach Warnung zu Pre-IPO-Aktien",
+      "excerpt": "Solana-Token mit Bezug zu Anthropic und OpenAI stürzten diese Woche ab, nachdem beide KI-Firmen warnten, dass die zugrunde liegenden Pre-IPO-Aktienübertragungen ungültig sein könnten.",
+      "body": "Auf Solana gehandelte Token mit Bezug zu Anthropic und OpenAI sind in dieser Woche deutlich gefallen. Die Token behaupteten, die Bewertungen der beiden KI-Unternehmen am privaten Markt abzubilden, also den Wert von Anteilen vor einem möglichen Börsengang. Die Stimmung kippte, nachdem Anthropic und OpenAI warnten, dass die zur Absicherung der Token genutzten Strukturen zur Aktienübertragung möglicherweise nicht gültig sind. Der Fall zeigt rechtliche und strukturelle Unsicherheit zwischen privaten Unternehmensanteilen und On-Chain-Token, die diese abbilden wollen. Das künftige Vertrauen dürfte von der Emissionsstruktur und der Anerkennung tatsächlicher Aktienrechte abhängen. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Les tokens Anthropic et OpenAI chutent après l’alerte sur actions pré-IPO",
+      "excerpt": "Des tokens Solana liés à Anthropic et OpenAI ont fortement reculé cette semaine après l’avertissement des deux sociétés sur la possible invalidité des transferts d’actions pré-IPO.",
+      "body": "Des tokens basés sur Solana et liés à Anthropic et OpenAI ont fortement chuté cette semaine. Ces actifs affirmaient suivre les valorisations de marché privé des deux sociétés d’IA, autrement dit la valeur de leurs participations avant une introduction en Bourse. Le sentiment s’est détérioré après qu’Anthropic et OpenAI ont averti que les structures de transfert d’actions utilisées pour soutenir ces tokens pourraient ne pas être valides. L’affaire met en évidence l’incertitude juridique et structurelle entre actions de sociétés privées et tokens on-chain censés les représenter. La confiance future dépendra de la structure d’émission et de la reconnaissance de droits réels sur les actions. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "هبوط رموز Anthropic وOpenAI بعد تحذير بشأن أسهم ما قبل الطرح",
+      "excerpt": "تراجعت هذا الأسبوع رموز على Solana مرتبطة بـAnthropic وOpenAI بعدما حذرت الشركتان من أن هياكل نقل أسهم ما قبل الطرح المستخدمة لدعمها قد تكون غير صالحة.",
+      "body": "تراجعت هذا الأسبوع رموز قائمة على Solana مرتبطة بـAnthropic وOpenAI بشكل حاد. وتقول هذه الرموز إنها تتبع تقييمات الشركتين في السوق الخاصة، أي قيمة الحصص قبل الطرح العام الأولي. لكن معنويات السوق ضعفت بعد أن حذرت Anthropic وOpenAI من أن هياكل نقل الأسهم المستخدمة لدعم هذه الرموز قد لا تكون صالحة. تكشف القضية عن عدم يقين قانوني وهيكلي بين أسهم الشركات غير المدرجة والرموز على السلسلة التي تزعم تمثيلها. ومن المتوقع أن تعتمد الثقة المستقبلية بهذه الرموز على هيكل الإصدار وما إذا كانت أي حقوق فعلية في الأسهم ستُعترف بها. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "Anthropic और OpenAI टोकन गिरे, प्री-IPO शेयर ट्रांसफर पर चेतावनी",
+      "excerpt": "इस सप्ताह Solana पर Anthropic और OpenAI से जुड़े टोकन तेज गिरे, क्योंकि दोनों AI कंपनियों ने चेतावनी दी कि इन्हें सहारा देने वाली प्री-IPO शेयर ट्रांसफर संरचनाएं अमान्य हो सकती हैं।",
+      "body": "इस सप्ताह Solana पर ट्रेड होने वाले Anthropic और OpenAI से जुड़े टोकन तेज गिरावट में रहे। ये टोकन दावा करते थे कि वे दोनों AI कंपनियों के निजी बाजार मूल्यांकन, यानी IPO से पहले की इक्विटी वैल्यू, को ट्रैक करते हैं। लेकिन Anthropic और OpenAI ने चेतावनी दी कि इन टोकन को सहारा देने के लिए इस्तेमाल की गई शेयर ट्रांसफर संरचनाएं वैध नहीं हो सकतीं, जिसके बाद बाजार की धारणा कमजोर हुई। यह मामला निजी कंपनी के शेयरों और उन्हें दर्शाने का दावा करने वाले ऑन-चेन टोकन के बीच कानूनी और संरचनात्मक अनिश्चितता दिखाता है। आगे भरोसा जारी संरचना और वास्तविक शेयर अधिकारों की मान्यता पर निर्भर करेगा। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Token Anthropic dan OpenAI Anjlok Usai Peringatan Saham Pra-IPO",
+      "excerpt": "Token di Solana yang terkait Anthropic dan OpenAI turun tajam pekan ini setelah kedua perusahaan AI memperingatkan bahwa struktur transfer saham pra-IPO di baliknya bisa tidak valid.",
+      "body": "Token berbasis Solana yang terkait dengan Anthropic dan OpenAI turun tajam pekan ini. Token tersebut mengklaim melacak valuasi pasar privat kedua perusahaan AI, yaitu nilai kepemilikan sebelum IPO. Sentimen pasar melemah setelah Anthropic dan OpenAI memperingatkan bahwa struktur transfer saham yang digunakan untuk menopang token tersebut mungkin tidak valid. Kasus ini menunjukkan ketidakpastian hukum dan struktural antara saham perusahaan privat dan token on-chain yang mengklaim mewakilinya. Kepercayaan terhadap token terkait ke depan kemungkinan bergantung pada struktur penerbitan serta apakah hak kepemilikan saham yang nyata diakui. Sumber: coindesk.com"
+    }
+  }
+}

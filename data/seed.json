@@ -1,5 +1,230 @@
 [
   {
+    "id": "fdf6d74d8ccb",
+    "slug": "anthropic-openai-tokens-plunge-as-ai-firms-say-pre-ipo-share-640735",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T15:02:33.886Z",
+    "updatedAt": "2026-05-13T15:02:33.886Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/13/anthropic-openai-tokens-plunge-nearly-40-as-ai-firms-warn-spv-transfers-are-invalid",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/13/anthropic-openai-tokens-plunge-nearly-40-as-ai-firms-warn-spv-transfers-are-invalid",
+    "titleFingerprint": "c8d2f364ee60b3ffd351721c6f788f1a5f5c88b9",
+    "dedupKeys": [
+      "fdf6d74d8ccba276b4dd151d2bea39aefbc5d367",
+      "c8d2f364ee60b3ffd351721c6f788f1a5f5c88b9",
+      "02b17466aba39fa52c0715d9d22104aa7f2690f0"
+    ],
+    "imageUrl": "/images/articles/fdf6d74d8ccb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Anthropic·OpenAI 토큰 급락, IPO 전 주식 이전 무효 경고",
+        "excerpt": "이번 주 솔라나 기반 Anthropic·OpenAI 추적 토큰이 급락했다. 양사가 토큰을 뒷받침한 IPO 전 주식 이전 구조가 유효하지 않을 수 있다고 경고했기 때문이다.",
+        "body": "이번 주 솔라나에서 거래되는 Anthropic과 OpenAI 관련 토큰이 크게 하락했다. 이 토큰들은 두 AI 기업의 비상장 시장 가치, 즉 IPO 전 지분 가치를 추적한다고 주장해 왔다. 그러나 Anthropic과 OpenAI가 토큰을 뒷받침하는 데 쓰인 주식 이전 구조가 유효하지 않을 수 있다고 밝히면서 투자 심리가 급격히 식었다. 이번 사안은 비상장 주식과 이를 모방한 온체인 토큰 사이의 법적·구조적 불확실성을 드러냈다. 관련 토큰의 향후 신뢰도는 발행 구조와 실제 지분 권리 인정 여부에 달릴 전망이다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Anthropic and OpenAI Tokens Fall as Pre-IPO Share Transfer Warnings Hit",
+        "excerpt": "Solana tokens tied to Anthropic and OpenAI dropped this week after both AI firms warned that the pre-IPO share transfer structures backing them may be invalid.",
+        "body": "Solana-based tokens linked to Anthropic and OpenAI fell sharply this week. The tokens have claimed to track the private-market valuations of the two AI companies, effectively mirroring the value of pre-IPO equity. Sentiment weakened after Anthropic and OpenAI warned that the share transfer structures used to support the tokens may not be valid. The episode highlights legal and structural uncertainty between private-company shares and on-chain tokens that claim to represent them. Future confidence in these tokens may depend on their issuance structure and whether any real equity rights are recognized. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "Anthropic・OpenAI連動トークン急落、IPO前株式移転に無効警告",
+        "excerpt": "今週、Solana上のAnthropic・OpenAI連動トークンが急落した。両社がトークンを支えるIPO前株式移転構造は無効の可能性があると警告したためだ。",
+        "body": "今週、Solanaで取引されるAnthropicとOpenAI関連トークンが大きく下落した。これらのトークンは、両AI企業の非公開市場での評価額、つまりIPO前の株式価値を追跡すると主張してきた。しかしAnthropicとOpenAIが、トークンの裏付けに使われた株式移転の仕組みは有効ではない可能性があると警告したことで、投資家心理は急速に冷え込んだ。今回の事例は、未上場株式とそれを模倣するオンチェーントークンの間にある法的・構造的な不確実性を示した。今後の信頼性は、発行構造と実際の株式権利が認められるかに左右される見通しだ。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "Anthropic与OpenAI代币暴跌，IPO前股份转让遭无效警告",
+        "excerpt": "本周，Solana上声称追踪Anthropic和OpenAI私募估值的代币大跌，原因是两家公司警告称其背后的IPO前股份转让结构可能无效。",
+        "body": "本周，Solana上与Anthropic和OpenAI相关的代币大幅下跌。这些代币声称追踪两家AI公司的私募市场估值，也就是IPO前股权价值。但Anthropic和OpenAI警告称，用于支撑这些代币的股份转让结构可能并不有效，市场情绪随之迅速降温。此事凸显了未上市公司股份与声称代表其价值的链上代币之间存在法律和结构不确定性。相关代币未来的可信度，预计将取决于发行结构以及实际股权权利能否获得承认。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Tokens de Anthropic y OpenAI caen por alerta sobre acciones pre-IPO",
+        "excerpt": "Esta semana cayeron con fuerza tokens en Solana vinculados a Anthropic y OpenAI, después de que ambas firmas advirtieran que las transferencias de acciones pre-IPO podrían ser inválidas.",
+        "body": "Los tokens basados en Solana vinculados a Anthropic y OpenAI cayeron con fuerza esta semana. Estos activos afirmaban seguir las valoraciones de mercado privado de ambas compañías de IA, es decir, el valor de sus participaciones antes de una salida a bolsa. El ánimo del mercado se debilitó después de que Anthropic y OpenAI advirtieran que las estructuras de transferencia de acciones usadas para respaldar los tokens podrían no ser válidas. El caso expone la incertidumbre legal y estructural entre acciones de empresas privadas y tokens on-chain que dicen representarlas. La confianza futura dependerá de la estructura de emisión y del reconocimiento de derechos reales sobre acciones. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Tokens de Anthropic e OpenAI caem com alerta sobre ações pré-IPO",
+        "excerpt": "Tokens na Solana ligados a Anthropic e OpenAI caíram forte nesta semana após as duas empresas alertarem que as estruturas de transferência de ações pré-IPO podem ser inválidas.",
+        "body": "Tokens baseados na Solana ligados à Anthropic e à OpenAI caíram acentuadamente nesta semana. Esses ativos afirmavam acompanhar as avaliações de mercado privado das duas empresas de IA, ou seja, o valor de participações antes de um IPO. O sentimento do mercado enfraqueceu depois que Anthropic e OpenAI alertaram que as estruturas de transferência de ações usadas para sustentar os tokens podem não ser válidas. O caso evidencia a incerteza jurídica e estrutural entre ações de empresas privadas e tokens on-chain que dizem representá-las. A confiança futura nesses tokens deve depender da estrutura de emissão e do reconhecimento de direitos reais sobre ações. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Anthropic- und OpenAI-Token fallen nach Warnung zu Pre-IPO-Aktien",
+        "excerpt": "Solana-Token mit Bezug zu Anthropic und OpenAI stürzten diese Woche ab, nachdem beide KI-Firmen warnten, dass die zugrunde liegenden Pre-IPO-Aktienübertragungen ungültig sein könnten.",
+        "body": "Auf Solana gehandelte Token mit Bezug zu Anthropic und OpenAI sind in dieser Woche deutlich gefallen. Die Token behaupteten, die Bewertungen der beiden KI-Unternehmen am privaten Markt abzubilden, also den Wert von Anteilen vor einem möglichen Börsengang. Die Stimmung kippte, nachdem Anthropic und OpenAI warnten, dass die zur Absicherung der Token genutzten Strukturen zur Aktienübertragung möglicherweise nicht gültig sind. Der Fall zeigt rechtliche und strukturelle Unsicherheit zwischen privaten Unternehmensanteilen und On-Chain-Token, die diese abbilden wollen. Das künftige Vertrauen dürfte von der Emissionsstruktur und der Anerkennung tatsächlicher Aktienrechte abhängen. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Les tokens Anthropic et OpenAI chutent après l’alerte sur actions pré-IPO",
+        "excerpt": "Des tokens Solana liés à Anthropic et OpenAI ont fortement reculé cette semaine après l’avertissement des deux sociétés sur la possible invalidité des transferts d’actions pré-IPO.",
+        "body": "Des tokens basés sur Solana et liés à Anthropic et OpenAI ont fortement chuté cette semaine. Ces actifs affirmaient suivre les valorisations de marché privé des deux sociétés d’IA, autrement dit la valeur de leurs participations avant une introduction en Bourse. Le sentiment s’est détérioré après qu’Anthropic et OpenAI ont averti que les structures de transfert d’actions utilisées pour soutenir ces tokens pourraient ne pas être valides. L’affaire met en évidence l’incertitude juridique et structurelle entre actions de sociétés privées et tokens on-chain censés les représenter. La confiance future dépendra de la structure d’émission et de la reconnaissance de droits réels sur les actions. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "هبوط رموز Anthropic وOpenAI بعد تحذير بشأن أسهم ما قبل الطرح",
+        "excerpt": "تراجعت هذا الأسبوع رموز على Solana مرتبطة بـAnthropic وOpenAI بعدما حذرت الشركتان من أن هياكل نقل أسهم ما قبل الطرح المستخدمة لدعمها قد تكون غير صالحة.",
+        "body": "تراجعت هذا الأسبوع رموز قائمة على Solana مرتبطة بـAnthropic وOpenAI بشكل حاد. وتقول هذه الرموز إنها تتبع تقييمات الشركتين في السوق الخاصة، أي قيمة الحصص قبل الطرح العام الأولي. لكن معنويات السوق ضعفت بعد أن حذرت Anthropic وOpenAI من أن هياكل نقل الأسهم المستخدمة لدعم هذه الرموز قد لا تكون صالحة. تكشف القضية عن عدم يقين قانوني وهيكلي بين أسهم الشركات غير المدرجة والرموز على السلسلة التي تزعم تمثيلها. ومن المتوقع أن تعتمد الثقة المستقبلية بهذه الرموز على هيكل الإصدار وما إذا كانت أي حقوق فعلية في الأسهم ستُعترف بها. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "Anthropic और OpenAI टोकन गिरे, प्री-IPO शेयर ट्रांसफर पर चेतावनी",
+        "excerpt": "इस सप्ताह Solana पर Anthropic और OpenAI से जुड़े टोकन तेज गिरे, क्योंकि दोनों AI कंपनियों ने चेतावनी दी कि इन्हें सहारा देने वाली प्री-IPO शेयर ट्रांसफर संरचनाएं अमान्य हो सकती हैं।",
+        "body": "इस सप्ताह Solana पर ट्रेड होने वाले Anthropic और OpenAI से जुड़े टोकन तेज गिरावट में रहे। ये टोकन दावा करते थे कि वे दोनों AI कंपनियों के निजी बाजार मूल्यांकन, यानी IPO से पहले की इक्विटी वैल्यू, को ट्रैक करते हैं। लेकिन Anthropic और OpenAI ने चेतावनी दी कि इन टोकन को सहारा देने के लिए इस्तेमाल की गई शेयर ट्रांसफर संरचनाएं वैध नहीं हो सकतीं, जिसके बाद बाजार की धारणा कमजोर हुई। यह मामला निजी कंपनी के शेयरों और उन्हें दर्शाने का दावा करने वाले ऑन-चेन टोकन के बीच कानूनी और संरचनात्मक अनिश्चितता दिखाता है। आगे भरोसा जारी संरचना और वास्तविक शेयर अधिकारों की मान्यता पर निर्भर करेगा। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Token Anthropic dan OpenAI Anjlok Usai Peringatan Saham Pra-IPO",
+        "excerpt": "Token di Solana yang terkait Anthropic dan OpenAI turun tajam pekan ini setelah kedua perusahaan AI memperingatkan bahwa struktur transfer saham pra-IPO di baliknya bisa tidak valid.",
+        "body": "Token berbasis Solana yang terkait dengan Anthropic dan OpenAI turun tajam pekan ini. Token tersebut mengklaim melacak valuasi pasar privat kedua perusahaan AI, yaitu nilai kepemilikan sebelum IPO. Sentimen pasar melemah setelah Anthropic dan OpenAI memperingatkan bahwa struktur transfer saham yang digunakan untuk menopang token tersebut mungkin tidak valid. Kasus ini menunjukkan ketidakpastian hukum dan struktural antara saham perusahaan privat dan token on-chain yang mengklaim mewakilinya. Kepercayaan terhadap token terkait ke depan kemungkinan bergantung pada struktur penerbitan serta apakah hak kepemilikan saham yang nyata diakui. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "3765c2d28632",
+    "slug": "its-time-for-clarity-for-americas-digital-asset-markets-853070",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T15:01:35.339Z",
+    "updatedAt": "2026-05-13T15:01:35.339Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/opinion/2026/05/13/it-s-time-for-clarity-for-america-s-digital-asset-markets",
+    "canonicalUrl": "https://www.coindesk.com/opinion/2026/05/13/it-s-time-for-clarity-for-america-s-digital-asset-markets",
+    "titleFingerprint": "f1690f60081d67ed6c412a97969ea2cd6e596b63",
+    "dedupKeys": [
+      "3765c2d286325bb093d7b57c373e661ff0a658a1",
+      "f1690f60081d67ed6c412a97969ea2cd6e596b63",
+      "35eefc1b07c4e801e0b36249f5d9dcadf705d3b6"
+    ],
+    "imageUrl": "/images/articles/3765c2d28632.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 디지털 자산 시장 규제 명확성, 상원 행동 요구 커진다",
+        "excerpt": "최근 여론조사에서 등록 유권자들이 미국이 글로벌 금융 규칙을 주도하길 원한다는 결과가 나오며, 스미스는 상원이 디지털 자산 시장 규제에 지금 나서야 한다고 설명했다.",
+        "body": "미국 디지털 자산 시장의 규제 명확성을 둘러싼 논의가 다시 주목받고 있다. 스미스는 최근 여론조사에서 등록 유권자들이 미국이 글로벌 금융의 규칙을 정해야 한다고 보고 있다며, 이 같은 흐름이 상원의 즉각적인 행동 필요성을 뒷받침한다고 설명했다. 디지털 자산 시장은 글로벌 금융 질서와 맞물려 있는 만큼, 명확한 규칙 마련은 시장 참여자와 정책 당국 모두에 중요한 과제로 제기된다. 이번 논의는 미국이 관련 시장의 기준을 세울 수 있는지와도 연결된다. 향후 상원의 대응은 미국 디지털 자산 시장의 방향성과 글로벌 금융 규칙 주도권 논의에 영향을 줄 수 있다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "US Digital Asset Market Clarity Puts Pressure on Senate Action",
+        "excerpt": "Recent polls show registered voters want the US to set the rules for global finance, and Smith says that is why the Senate must act now on digital asset markets.",
+        "body": "The debate over regulatory clarity for America’s digital asset markets is gaining renewed attention. Smith explains that recent polls show registered voters want the United States to set the rules for global finance, a signal that reinforces the need for the Senate to act now. Because digital asset markets are tied to the broader global financial order, clear rules are becoming an important issue for both market participants and policymakers. The discussion also relates to whether the US can define standards for this market. The Senate’s next steps may influence the direction of America’s digital asset markets and the debate over leadership in global financial rules. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "米デジタル資産市場の規制明確化、上院に行動求める声強まる",
+        "excerpt": "最近の世論調査で登録有権者は米国が世界金融のルールを主導すべきだと示し、スミス氏は上院が今デジタル資産市場に対応すべき理由だと説明した。",
+        "body": "米国のデジタル資産市場における規制の明確性をめぐる議論が再び注目されている。スミス氏は、最近の世論調査で登録有権者が米国に世界金融のルールを定める役割を望んでいるとし、この流れが上院の早急な行動の必要性を裏付けると説明した。デジタル資産市場は世界的な金融秩序と結び付いているため、明確なルール作りは市場参加者と政策当局の双方にとって重要な課題となる。今回の議論は、米国が関連市場の基準を示せるかにも関わる。今後の上院の対応は、米国デジタル資産市場の方向性と世界金融ルールの主導権をめぐる議論に影響し得る。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "美国数字资产市场监管清晰度升温，参议院行动压力加大",
+        "excerpt": "近期民调显示，登记选民希望美国制定全球金融规则，Smith表示这正说明参议院必须立即处理数字资产市场监管问题。",
+        "body": "围绕美国数字资产市场监管清晰度的讨论再次受到关注。Smith解释称，近期民调显示，登记选民希望美国为全球金融制定规则，这一趋势强化了参议院现在采取行动的必要性。由于数字资产市场与全球金融秩序相互关联，建立清晰规则已成为市场参与者和政策制定者共同面对的重要课题。此次讨论也关系到美国能否为相关市场设定标准。参议院接下来的应对，可能影响美国数字资产市场的发展方向，以及全球金融规则主导权的讨论。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Claridad para activos digitales en EE. UU. aumenta presión al Senado",
+        "excerpt": "Encuestas recientes muestran que los votantes registrados quieren que EE. UU. fije las reglas de las finanzas globales, y Smith dice que el Senado debe actuar ahora.",
+        "body": "El debate sobre la claridad regulatoria para los mercados de activos digitales de Estados Unidos vuelve a ganar atención. Smith explica que encuestas recientes muestran que los votantes registrados quieren que Estados Unidos establezca las reglas de las finanzas globales, una señal que refuerza la necesidad de que el Senado actúe ahora. Como los mercados de activos digitales están vinculados al orden financiero global, contar con reglas claras se plantea como una tarea importante para participantes del mercado y autoridades. La discusión también se relaciona con si EE. UU. puede fijar estándares para este mercado. Los próximos pasos del Senado pueden influir en la dirección del mercado estadounidense de activos digitales y en el debate sobre el liderazgo de las reglas financieras globales. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Clareza para ativos digitais nos EUA eleva pressão sobre Senado",
+        "excerpt": "Pesquisas recentes mostram que eleitores registrados querem que os EUA definam as regras das finanças globais, e Smith diz que o Senado deve agir agora.",
+        "body": "O debate sobre clareza regulatória para os mercados de ativos digitais dos Estados Unidos volta a ganhar destaque. Smith explica que pesquisas recentes mostram que eleitores registrados querem que os EUA estabeleçam as regras das finanças globais, sinal que reforça a necessidade de ação imediata do Senado. Como os mercados de ativos digitais estão ligados à ordem financeira global, regras claras se tornam uma questão importante para participantes do mercado e autoridades. A discussão também envolve a capacidade dos EUA de definir padrões para esse mercado. Os próximos passos do Senado podem influenciar o rumo dos mercados americanos de ativos digitais e o debate sobre liderança nas regras financeiras globais. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Klare Regeln für digitale Assets in den USA erhöhen Druck auf Senat",
+        "excerpt": "Aktuelle Umfragen zeigen, dass registrierte Wähler die USA als Regelsetzer für globale Finanzen sehen wollen; Smith sagt, der Senat müsse jetzt handeln.",
+        "body": "Die Debatte über regulatorische Klarheit für die Märkte digitaler Vermögenswerte in den USA rückt erneut in den Fokus. Smith erklärt, aktuelle Umfragen zeigten, dass registrierte Wähler wollten, dass die Vereinigten Staaten die Regeln für die globale Finanzwelt festlegen. Dieser Trend unterstreiche, warum der Senat jetzt handeln müsse. Da digitale Asset-Märkte mit der globalen Finanzordnung verbunden sind, gelten klare Regeln als wichtige Aufgabe für Marktteilnehmer und politische Entscheidungsträger. Die Diskussion betrifft auch die Frage, ob die USA Standards für diesen Markt setzen können. Die nächsten Schritte des Senats könnten die Richtung der US-Märkte für digitale Vermögenswerte und die Debatte über Führungsanspruch bei globalen Finanzregeln beeinflussen. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Actifs numériques aux États-Unis : la clarté réglementaire presse le Sénat",
+        "excerpt": "De récents sondages montrent que les électeurs inscrits veulent que les États-Unis fixent les règles de la finance mondiale, et Smith dit que le Sénat doit agir.",
+        "body": "Le débat sur la clarté réglementaire des marchés américains des actifs numériques attire de nouveau l’attention. Smith explique que de récents sondages montrent que les électeurs inscrits veulent que les États-Unis établissent les règles de la finance mondiale, un signal qui renforce la nécessité pour le Sénat d’agir maintenant. Les marchés d’actifs numériques étant liés à l’ordre financier mondial, des règles claires deviennent un enjeu important pour les acteurs du marché comme pour les responsables politiques. Cette discussion concerne aussi la capacité des États-Unis à définir des normes pour ce marché. Les prochaines décisions du Sénat pourraient influencer l’orientation des marchés américains des actifs numériques et le débat sur le leadership des règles financières mondiales. Source : coindesk.com"
+      },
+      "ar": {
+        "title": "وضوح قواعد الأصول الرقمية في أميركا يزيد الضغط على مجلس الشيوخ",
+        "excerpt": "تظهر استطلاعات حديثة أن الناخبين المسجلين يريدون من الولايات المتحدة وضع قواعد التمويل العالمي، ويوضح سميث أن ذلك يفرض تحرك مجلس الشيوخ الآن.",
+        "body": "عاد النقاش حول وضوح التنظيم في أسواق الأصول الرقمية الأميركية إلى الواجهة. يوضح سميث أن استطلاعات حديثة أظهرت أن الناخبين المسجلين يريدون أن تحدد الولايات المتحدة قواعد التمويل العالمي، وهو ما يعزز الحاجة إلى تحرك مجلس الشيوخ الآن. وبما أن أسواق الأصول الرقمية مرتبطة بالنظام المالي العالمي، فإن وضع قواعد واضحة يعد قضية مهمة للمشاركين في السوق وصناع السياسات على حد سواء. ويرتبط هذا النقاش أيضا بقدرة الولايات المتحدة على وضع معايير لهذا السوق. وقد تؤثر خطوات مجلس الشيوخ المقبلة في اتجاه أسواق الأصول الرقمية الأميركية وفي النقاش حول قيادة قواعد التمويل العالمي. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "अमेरिकी डिजिटल एसेट बाजार में स्पष्ट नियमों के लिए सीनेट पर दबाव",
+        "excerpt": "हालिया सर्वेक्षणों में पंजीकृत मतदाता चाहते हैं कि अमेरिका वैश्विक वित्त के नियम तय करे, और स्मिथ कहते हैं कि इसी वजह से सीनेट को अभी कार्रवाई करनी चाहिए।",
+        "body": "अमेरिका के डिजिटल एसेट बाजारों में नियामकीय स्पष्टता पर चर्चा फिर केंद्र में है। स्मिथ बताते हैं कि हालिया सर्वेक्षणों में पंजीकृत मतदाताओं ने इच्छा जताई है कि अमेरिका वैश्विक वित्त के नियम तय करे, और यही रुझान सीनेट की तत्काल कार्रवाई की जरूरत को मजबूत करता है। डिजिटल एसेट बाजार वैश्विक वित्तीय व्यवस्था से जुड़े हैं, इसलिए स्पष्ट नियम बनाना बाजार प्रतिभागियों और नीति निर्माताओं दोनों के लिए अहम मुद्दा है। यह बहस इस सवाल से भी जुड़ी है कि क्या अमेरिका इस बाजार के मानक तय कर सकता है। सीनेट के अगले कदम अमेरिकी डिजिटल एसेट बाजारों की दिशा और वैश्विक वित्तीय नियमों में नेतृत्व की चर्चा को प्रभावित कर सकते हैं। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Kejelasan Pasar Aset Digital AS Dorong Desakan Aksi Senat",
+        "excerpt": "Jajak pendapat terbaru menunjukkan pemilih terdaftar ingin AS menetapkan aturan keuangan global, dan Smith menjelaskan mengapa Senat harus bertindak sekarang.",
+        "body": "Perdebatan tentang kejelasan regulasi untuk pasar aset digital Amerika kembali menjadi sorotan. Smith menjelaskan bahwa jajak pendapat terbaru menunjukkan pemilih terdaftar ingin Amerika Serikat menetapkan aturan bagi keuangan global, sebuah sinyal yang memperkuat perlunya Senat bertindak sekarang. Karena pasar aset digital terkait dengan tatanan keuangan global, aturan yang jelas menjadi agenda penting bagi pelaku pasar dan pembuat kebijakan. Pembahasan ini juga berkaitan dengan apakah AS dapat menetapkan standar untuk pasar tersebut. Langkah Senat berikutnya dapat memengaruhi arah pasar aset digital Amerika dan perdebatan tentang kepemimpinan dalam aturan keuangan global. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "55a4c9b26c39",
+    "slug": "crypto-wallet-provider-ledger-puts-us-ipo-plans-on-hold-due--448226",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T15:00:33.385Z",
+    "updatedAt": "2026-05-13T15:00:33.386Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/13/crypto-wallet-provider-ledger-puts-u-s-ipo-plans-on-hold-due-to-market-conditions",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/13/crypto-wallet-provider-ledger-puts-u-s-ipo-plans-on-hold-due-to-market-conditions",
+    "titleFingerprint": "a69f7d43c560234ab8c073beb3c76e9b09076dac",
+    "dedupKeys": [
+      "55a4c9b26c39dcb40b1b4d7c48a8aa77518be1b9",
+      "a69f7d43c560234ab8c073beb3c76e9b09076dac",
+      "150f46288cabf51ddbcacbd9d27587671dc49cf7"
+    ],
+    "imageUrl": "/images/articles/55a4c9b26c39.jpg",
+    "i18n": {
+      "ko": {
+        "title": "렛저, 시장 불안에 미국 IPO 계획 보류…4조 달러 상장 재검토",
+        "excerpt": "프랑스 크립토 보안 기업 렛저가 변동성 큰 시장 여건과 크립토 IPO 투자심리 약화로 미국 상장 계획을 보류하고 공개시장 전략을 재평가하고 있다.",
+        "body": "프랑스 크립토 지갑 및 보안 기업 렛저가 미국 기업공개(IPO) 계획을 보류했다. 시장 변동성이 커지면서 크립토 IPO에 대한 투자자 수요가 약해진 점이 배경이다. 렛저는 한때 미국 증시에서 약 40억 달러 규모의 상장을 검토한 것으로 알려졌다. 그러나 현재는 공개시장 진입 시점과 방식 전반을 다시 살피는 단계다. 이번 결정은 크립토 기업들이 자본시장 접근을 추진하는 과정에서 시장 분위기와 투자심리가 핵심 변수로 작용하고 있음을 보여준다. 향후 상장 재개 여부는 시장 안정과 투자자 appetite 회복에 달릴 전망이다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Ledger Pauses U.S. IPO Plan as Crypto Listing Appetite Weakens",
+        "excerpt": "French crypto security firm Ledger has put its U.S. IPO plans on hold as volatile market conditions weigh on investor appetite for crypto listings.",
+        "body": "French crypto wallet and security company Ledger has put its planned U.S. initial public offering on hold. The move comes as market volatility weakens investor demand for crypto IPOs. Ledger was reportedly exploring a potential U.S. listing valued at about $4 billion. For now, the company is reassessing both the timing and structure of any move into public markets. The decision shows how market conditions and investor sentiment remain key factors for crypto firms seeking access to capital markets. Whether Ledger revives the listing plan will likely depend on improved market stability and a recovery in investor appetite. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "Ledger、米国IPO計画を保留　暗号資産上場への需要低下で再検討",
+        "excerpt": "フランスの暗号資産セキュリティ企業Ledgerは、市場の変動性と暗号資産IPOへの投資家需要低下を受け、米国上場計画を保留した。",
+        "body": "フランスの暗号資産ウォレットおよびセキュリティ企業Ledgerは、米国での新規株式公開（IPO）計画を保留した。市場の変動性が高まり、暗号資産関連IPOに対する投資家の需要が弱まっていることが背景にある。Ledgerは一時、約40億ドル規模の米国上場を検討していたとされる。現在は公開市場への参入時期や方法を改めて見直している段階だ。今回の判断は、暗号資産企業が資本市場へのアクセスを進めるうえで、市場環境と投資家心理が重要な変数であることを示している。上場計画の再開は、市場の安定と投資家需要の回復に左右される見通しだ。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "Ledger暂缓美国IPO计划，加密上市投资需求走弱",
+        "excerpt": "法国加密安全公司Ledger因市场波动加剧、投资者对加密IPO兴趣下降，已暂缓美国上市计划并重新评估公开市场路径。",
+        "body": "法国加密钱包和安全公司Ledger已暂缓其美国首次公开募股（IPO）计划。背景是市场波动加剧，投资者对加密企业IPO的需求有所减弱。据称，Ledger曾考虑在美国进行估值约40亿美元的上市。目前，该公司正在重新评估进入公开市场的时间和方式。此举显示，加密企业在寻求资本市场融资时，市场环境和投资者情绪仍是关键变量。Ledger是否重启上市计划，预计将取决于市场稳定程度以及投资者兴趣能否恢复。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Ledger pausa su IPO en EE. UU. por menor apetito por salidas cripto",
+        "excerpt": "La firma francesa de seguridad cripto Ledger frenó sus planes de IPO en EE. UU. mientras la volatilidad del mercado reduce el apetito inversor por listados cripto.",
+        "body": "La empresa francesa de billeteras y seguridad cripto Ledger puso en pausa sus planes de oferta pública inicial en Estados Unidos. La decisión llega en un contexto de mayor volatilidad del mercado y menor demanda de los inversores por IPOs vinculadas a cripto. Según se informó, Ledger había explorado una posible salida a bolsa en EE. UU. con una valoración cercana a los 4.000 millones de dólares. Por ahora, la compañía está reevaluando tanto el momento como la estructura de su entrada a los mercados públicos. El caso muestra que las condiciones de mercado y el sentimiento inversor siguen siendo factores clave para las empresas cripto que buscan capital. La reactivación del plan dependerá de una mayor estabilidad y de la recuperación del apetito inversor. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Ledger suspende IPO nos EUA com menor apetite por listagens cripto",
+        "excerpt": "A francesa Ledger, empresa de segurança cripto, pausou seus planos de IPO nos EUA diante da volatilidade do mercado e da menor demanda por ofertas cripto.",
+        "body": "A empresa francesa de carteiras e segurança cripto Ledger colocou em espera seus planos de oferta pública inicial nos Estados Unidos. A decisão ocorre em meio à maior volatilidade do mercado, que reduz o apetite dos investidores por IPOs de empresas cripto. A Ledger teria avaliado uma possível listagem nos EUA com valor aproximado de US$ 4 bilhões. Por enquanto, a companhia está reavaliando tanto o momento quanto o formato de uma entrada no mercado público. O movimento mostra que as condições de mercado e o sentimento dos investidores seguem como fatores centrais para empresas cripto que buscam acesso ao mercado de capitais. A retomada do plano dependerá de maior estabilidade e de uma recuperação da demanda dos investidores. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Ledger legt US-IPO auf Eis, da Nachfrage nach Krypto-Börsengängen sinkt",
+        "excerpt": "Der französische Krypto-Sicherheitsanbieter Ledger pausiert seine US-IPO-Pläne, weil volatile Märkte die Anlegernachfrage nach Krypto-Börsengängen dämpfen.",
+        "body": "Der französische Anbieter von Krypto-Wallets und Sicherheitslösungen Ledger hat seine Pläne für einen Börsengang in den USA auf Eis gelegt. Hintergrund ist die hohe Marktvolatilität, die die Nachfrage von Investoren nach Krypto-IPOs belastet. Ledger soll zuvor eine mögliche US-Notierung mit einer Bewertung von rund 4 Milliarden US-Dollar geprüft haben. Derzeit bewertet das Unternehmen Zeitpunkt und Struktur eines möglichen Schritts an die öffentlichen Märkte neu. Die Entscheidung zeigt, dass Marktumfeld und Anlegerstimmung für Krypto-Unternehmen beim Zugang zum Kapitalmarkt entscheidend bleiben. Ob Ledger den Börsengang wieder aufnimmt, dürfte von stabileren Märkten und einer Erholung der Investorennachfrage abhängen. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Ledger suspend son projet d’IPO aux États-Unis face au repli de l’appétit crypto",
+        "excerpt": "La société française de sécurité crypto Ledger met en pause son projet d’IPO aux États-Unis, alors que la volatilité freine l’appétit des investisseurs.",
+        "body": "La société française de portefeuilles et de sécurité crypto Ledger a suspendu son projet d’introduction en Bourse aux États-Unis. Cette décision intervient alors que la volatilité des marchés pèse sur la demande des investisseurs pour les IPO liées aux cryptoactifs. Ledger aurait envisagé une cotation américaine valorisée autour de 4 milliards de dollars. Pour l’instant, l’entreprise réévalue le calendrier et la forme d’une éventuelle entrée sur les marchés publics. Ce choix montre que les conditions de marché et le sentiment des investisseurs restent déterminants pour les sociétés crypto cherchant à accéder aux marchés de capitaux. Une reprise du projet dépendra probablement d’une stabilisation du marché et d’un retour de l’appétit des investisseurs. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "ليدجر تؤجل خطة الطرح العام في أمريكا مع ضعف شهية إدراجات الكريبتو",
+        "excerpt": "أوقفت شركة ليدجر الفرنسية لأمن العملات المشفرة خططها للطرح العام في الولايات المتحدة بسبب تقلبات السوق وتراجع شهية المستثمرين لاكتتابات الكريبتو.",
+        "body": "أوقفت شركة ليدجر الفرنسية، المتخصصة في محافظ العملات المشفرة وحلول الأمان، خططها للطرح العام الأولي في الولايات المتحدة. ويأتي القرار مع ارتفاع تقلبات السوق وضعف طلب المستثمرين على اكتتابات شركات الكريبتو. وذكرت التقارير أن ليدجر درست سابقا إدراجا محتملا في السوق الأمريكية بقيمة تقارب 4 مليارات دولار. أما الآن، فتراجع الشركة توقيت وهيكل أي دخول محتمل إلى الأسواق العامة. وتوضح هذه الخطوة أن ظروف السوق ومعنويات المستثمرين ما زالت عوامل حاسمة أمام شركات الكريبتو التي تسعى إلى الوصول لأسواق رأس المال. وسيعتمد استئناف الخطة على استقرار السوق وعودة شهية المستثمرين. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "Ledger ने अमेरिकी IPO योजना रोकी, क्रिप्टो लिस्टिंग में निवेशक रुचि कमजोर",
+        "excerpt": "फ्रांसीसी क्रिप्टो सुरक्षा कंपनी Ledger ने बाजार की अस्थिरता और क्रिप्टो IPO के प्रति कमजोर निवेशक मांग के कारण अमेरिकी लिस्टिंग योजना रोक दी है।",
+        "body": "फ्रांस की क्रिप्टो वॉलेट और सुरक्षा कंपनी Ledger ने अमेरिका में अपनी प्रारंभिक सार्वजनिक पेशकश यानी IPO की योजना रोक दी है। यह कदम ऐसे समय आया है जब बाजार में अस्थिरता बढ़ी है और क्रिप्टो IPO के लिए निवेशकों की मांग कमजोर पड़ी है। बताया गया है कि Ledger ने अमेरिका में करीब 4 अरब डॉलर के संभावित मूल्यांकन वाली लिस्टिंग पर विचार किया था। फिलहाल कंपनी सार्वजनिक बाजार में प्रवेश के समय और ढांचे का फिर से आकलन कर रही है। यह फैसला दिखाता है कि पूंजी बाजार तक पहुंच चाहने वाली क्रिप्टो कंपनियों के लिए बाजार स्थितियां और निवेशक भावना अहम कारक बने हुए हैं। योजना दोबारा शुरू होगी या नहीं, यह बाजार की स्थिरता और निवेशक मांग की वापसी पर निर्भर करेगा। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Ledger Tunda IPO AS saat Minat Investor pada Listing Kripto Melemah",
+        "excerpt": "Perusahaan keamanan kripto asal Prancis, Ledger, menunda rencana IPO di AS karena volatilitas pasar menekan minat investor terhadap penawaran saham kripto.",
+        "body": "Perusahaan dompet dan keamanan kripto asal Prancis, Ledger, menunda rencana penawaran umum perdana saham di Amerika Serikat. Keputusan ini diambil saat volatilitas pasar meningkat dan permintaan investor terhadap IPO perusahaan kripto melemah. Ledger disebut pernah menjajaki kemungkinan listing di AS dengan valuasi sekitar 4 miliar dolar AS. Untuk saat ini, perusahaan sedang menilai ulang waktu dan struktur masuk ke pasar publik. Langkah tersebut menunjukkan bahwa kondisi pasar dan sentimen investor tetap menjadi faktor utama bagi perusahaan kripto yang ingin mengakses pasar modal. Kelanjutan rencana IPO akan bergantung pada stabilitas pasar dan pemulihan minat investor. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
     "id": "bcd7c42a0ac5",
     "slug": "metaplanet-q1-profit-jumps-but-bitcoin-losses-hit-bottom-lin-342769",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "JPMorgan Ajukan Dana Tokenisasi Baru, Persaingan Wall Street Memanas",
         "excerpt": "JPMorgan baru-baru ini mengajukan peluncuran dana tokenisasi baru, memperluas lini pasar uang tokenisasi setelah langkah serupa BlackRock beberapa hari sebelumnya.",
         "body": "JPMorgan baru-baru ini mengajukan peluncuran dana tokenisasi baru untuk memperluas lini produk pasar uang tokenisasi miliknya. Langkah raksasa perbankan global ini datang hanya beberapa hari setelah BlackRock mengambil langkah serupa. Tokenisasi menjadi area persaingan utama di Wall Street ketika perusahaan keuangan tradisional berupaya menawarkan produk pasar uang dalam bentuk berbasis blockchain. Pengajuan ini menunjukkan dorongan lembaga besar untuk memperluas penawaran dana tokenisasi. Laporan asli tidak menyebutkan tanggal peluncuran atau status persetujuan secara spesifik. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "3f1aa2b8edae",
-    "slug": "wells-fargo-lifts-ether-etf-holdings-in-q1-as-bitcoin-positi-518783",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T21:01:59.864Z",
-    "updatedAt": "2026-05-12T21:01:59.864Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/wells-fargo-ether-etf-boost-q1-2026-btc-rotation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/wells-fargo-ether-etf-boost-q1-2026-btc-rotation",
-    "titleFingerprint": "35be3f98c7bc45b9583ed27a77a2c671829f73ce",
-    "dedupKeys": [
-      "3f1aa2b8edae9478a3ababb6772e8ebebe6aaaef",
-      "35be3f98c7bc45b9583ed27a77a2c671829f73ce",
-      "369fc3fe2e30eb31d8c011e32df881ab2232dfc0"
-    ],
-    "imageUrl": "/images/articles/3f1aa2b8edae.jpg",
-    "i18n": {
-      "ko": {
-        "title": "웰스파고, 1분기 이더 ETF 보유 확대…비트코인 포지션은 조정",
-        "excerpt": "웰스파고가 2026년 1분기 13F 보고서에서 이더 ETF 노출을 늘리고 비트코인 보유를 재편했으며 Strategy 지분을 크게 확대한 것으로 나타났다.",
-        "body": "웰스파고는 2026년 1분기 13F 보고서를 통해 이더 ETF 노출을 확대하고 비트코인 관련 보유 포지션을 조정한 것으로 나타났다. 이번 공시는 기관 투자자가 암호화폐 연계 상품을 어떻게 배분하고 있는지를 보여준다. 보고서에 따르면 웰스파고는 이더 ETF 보유를 늘리는 한편 비트코인 포지션을 회전시켰고, Strategy 지분은 크게 확대했다. 이는 직접 코인 보유가 아닌 상장 상품과 관련 주식을 통한 접근이 계속 활용되고 있음을 시사한다. 다만 공시 내용은 1분기 말 기준 보유 현황으로 이후 변동 가능성이 있다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Wells Fargo Raises Ether ETF Holdings in Q1 as Bitcoin Bets Shift",
-        "excerpt": "Wells Fargo’s Q1 2026 13F filing showed higher Ether ETF exposure, a rotation in Bitcoin-related holdings and a sharp increase in its Strategy stake.",
-        "body": "Wells Fargo increased its Ether ETF exposure and adjusted its Bitcoin-related positions in its Q1 2026 13F filing. The disclosure shows how an institutional investor allocated exposure to crypto-linked products during the quarter. According to the filing, Wells Fargo lifted Ether ETF holdings, rotated Bitcoin positions and sharply expanded its stake in Strategy. The move indicates continued use of listed products and related equities rather than direct coin holdings. However, the filing reflects positions as of the end of the first quarter, so holdings may have changed afterward. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "ウェルズ・ファーゴ、1QにイーサETF保有拡大 ビットコインは調整",
-        "excerpt": "ウェルズ・ファーゴの2026年第1四半期13F報告で、イーサETFへのエクスポージャー拡大、ビットコイン関連保有の入れ替え、Strategy株の大幅増加が示された。",
-        "body": "ウェルズ・ファーゴは2026年第1四半期の13F報告で、イーサETFへのエクスポージャーを拡大し、ビットコイン関連ポジションを調整したことが明らかになった。この開示は、機関投資家が暗号資産関連商品をどのように配分しているかを示すものだ。報告によると、同社はイーサETFの保有を増やす一方、ビットコインポジションを入れ替え、Strategy株の持ち分を大きく拡大した。直接保有ではなく、上場商品や関連株式を通じたアクセスが引き続き使われていることを示している。ただし、開示は第1四半期末時点の保有状況であり、その後変動している可能性がある。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "富国银行一季度增持以太坊ETF，比特币头寸出现调整",
-        "excerpt": "富国银行2026年一季度13F文件显示，该行提高以太坊ETF敞口，轮换比特币相关持仓，并大幅增加对Strategy的持股。",
-        "body": "富国银行在2026年一季度13F文件中显示，其扩大了以太坊ETF敞口，并调整了比特币相关持仓。该披露反映出机构投资者在季度内如何配置加密资产相关产品。文件显示，富国银行增持以太坊ETF，同时轮换比特币头寸，并大幅提高对Strategy的持股。这表明其仍在通过上市产品和相关股票获得加密资产敞口，而不是直接持有代币。不过，13F文件反映的是一季度末的持仓情况，之后可能已有变化。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "Wells Fargo aumenta ETF de Ether en el 1T y ajusta posiciones en Bitcoin",
-        "excerpt": "El 13F del 1T de 2026 de Wells Fargo mostró más exposición a ETF de Ether, rotación en tenencias vinculadas a Bitcoin y un fuerte aumento de su participación en Strategy.",
-        "body": "Wells Fargo aumentó su exposición a ETF de Ether y ajustó sus posiciones vinculadas a Bitcoin en su presentación 13F del primer trimestre de 2026. La divulgación muestra cómo un inversor institucional asignó exposición a productos relacionados con criptomonedas durante el trimestre. Según el documento, Wells Fargo elevó sus tenencias de ETF de Ether, rotó posiciones en Bitcoin y amplió de forma marcada su participación en Strategy. Esto indica que siguen utilizándose productos cotizados y acciones relacionadas, en lugar de tenencia directa de monedas. Sin embargo, el 13F refleja posiciones al cierre del primer trimestre y pueden haber cambiado después. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Wells Fargo amplia ETFs de Ether no 1T e ajusta posições em Bitcoin",
-        "excerpt": "O 13F do 1T de 2026 da Wells Fargo mostrou maior exposição a ETFs de Ether, rotação em posições ligadas ao Bitcoin e forte aumento da participação na Strategy.",
-        "body": "A Wells Fargo aumentou sua exposição a ETFs de Ether e ajustou posições relacionadas ao Bitcoin em seu relatório 13F do primeiro trimestre de 2026. A divulgação mostra como um investidor institucional alocou exposição a produtos ligados a criptoativos no período. Segundo o documento, a Wells Fargo elevou suas posições em ETFs de Ether, rotacionou posições em Bitcoin e ampliou fortemente sua participação na Strategy. Isso indica que produtos listados e ações relacionadas continuam sendo usados em vez de posse direta de moedas. No entanto, o 13F reflete as posições no fim do primeiro trimestre e elas podem ter mudado depois. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Wells Fargo erhöht Ether-ETF-Bestände im Q1, Bitcoin-Positionen wechseln",
-        "excerpt": "Wells Fargos 13F-Meldung für Q1 2026 zeigte höhere Ether-ETF-Exponierung, eine Rotation bei Bitcoin-bezogenen Positionen und einen starken Ausbau der Strategy-Beteiligung.",
-        "body": "Wells Fargo hat laut seiner 13F-Meldung für das erste Quartal 2026 die Exponierung gegenüber Ether-ETFs erhöht und Bitcoin-bezogene Positionen angepasst. Die Offenlegung zeigt, wie ein institutioneller Anleger im Quartal Krypto-nahe Produkte allokierte. Dem Bericht zufolge baute Wells Fargo Ether-ETF-Bestände aus, rotierte Bitcoin-Positionen und erhöhte seine Beteiligung an Strategy deutlich. Das deutet darauf hin, dass börsennotierte Produkte und verwandte Aktien weiter genutzt werden, statt Coins direkt zu halten. Die Meldung zeigt jedoch nur den Stand zum Ende des ersten Quartals; spätere Änderungen sind möglich. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Wells Fargo renforce ses ETF Ether au T1 et ajuste ses positions Bitcoin",
-        "excerpt": "Le dépôt 13F du T1 2026 de Wells Fargo montre une exposition accrue aux ETF Ether, une rotation des positions liées au Bitcoin et une forte hausse de sa participation dans Strategy.",
-        "body": "Wells Fargo a accru son exposition aux ETF Ether et ajusté ses positions liées au Bitcoin dans son dépôt 13F du premier trimestre 2026. Cette déclaration montre comment un investisseur institutionnel a réparti son exposition aux produits liés aux cryptomonnaies durant le trimestre. Selon le document, Wells Fargo a augmenté ses avoirs en ETF Ether, fait tourner ses positions Bitcoin et fortement renforcé sa participation dans Strategy. Cela indique que les produits cotés et les actions liées restent utilisés plutôt qu’une détention directe de coins. Toutefois, le 13F reflète les positions à la fin du premier trimestre et elles peuvent avoir changé depuis. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "ويلز فارجو تزيد حيازات ETF إيثريوم في الربع الأول وتعدل مراكز بيتكوين",
-        "excerpt": "أظهر إفصاح 13F للربع الأول 2026 أن ويلز فارجو رفعت تعرضها لصناديق ETF إيثريوم، وأعادت تدوير حيازات مرتبطة ببيتكوين، وزادت حصتها في Strategy بقوة.",
-        "body": "كشفت ويلز فارجو في إفصاح 13F للربع الأول من 2026 أنها زادت تعرضها لصناديق ETF إيثريوم وعدلت مراكزها المرتبطة ببيتكوين. يوضح الإفصاح كيف وزع مستثمر مؤسسي تعرضه للمنتجات المرتبطة بالعملات المشفرة خلال الربع. ووفق التقرير، رفعت ويلز فارجو حيازاتها من ETF إيثريوم، وأجرت تدويرا في مراكز بيتكوين، وزادت حصتها في Strategy بشكل كبير. يشير ذلك إلى استمرار استخدام المنتجات المدرجة والأسهم المرتبطة بدلا من الاحتفاظ المباشر بالعملات. لكن الإفصاح يعكس المراكز في نهاية الربع الأول فقط، وقد تكون تغيرت لاحقا. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Wells Fargo ने Q1 में Ether ETF होल्डिंग बढ़ाई, Bitcoin पोजिशन बदली",
-        "excerpt": "Wells Fargo की Q1 2026 13F फाइलिंग में Ether ETF एक्सपोजर बढ़ने, Bitcoin से जुड़ी होल्डिंग में रोटेशन और Strategy हिस्सेदारी में तेज वृद्धि दिखी।",
-        "body": "Wells Fargo ने 2026 की पहली तिमाही की 13F फाइलिंग में Ether ETF एक्सपोजर बढ़ाया और Bitcoin से जुड़ी पोजिशन में बदलाव किया। यह खुलासा दिखाता है कि तिमाही के दौरान एक संस्थागत निवेशक ने क्रिप्टो-संबंधित उत्पादों में एक्सपोजर कैसे बांटा। फाइलिंग के अनुसार, Wells Fargo ने Ether ETF होल्डिंग बढ़ाई, Bitcoin पोजिशन को रोटेट किया और Strategy में अपनी हिस्सेदारी काफी बढ़ाई। इससे संकेत मिलता है कि सीधे कॉइन रखने के बजाय सूचीबद्ध उत्पादों और संबंधित शेयरों के जरिए पहुंच का उपयोग जारी है। हालांकि 13F पहली तिमाही के अंत की स्थिति दिखाता है, इसलिए बाद में बदलाव संभव है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Wells Fargo Naikkan ETF Ether di Q1, Posisi Bitcoin Ikut Bergeser",
-        "excerpt": "Pengajuan 13F Q1 2026 Wells Fargo menunjukkan eksposur ETF Ether yang meningkat, rotasi kepemilikan terkait Bitcoin, dan kenaikan tajam saham Strategy.",
-        "body": "Wells Fargo meningkatkan eksposur ETF Ether dan menyesuaikan posisi terkait Bitcoin dalam pengajuan 13F kuartal pertama 2026. Pengungkapan ini menunjukkan bagaimana investor institusional mengalokasikan eksposur ke produk terkait kripto selama kuartal tersebut. Menurut laporan itu, Wells Fargo menambah kepemilikan ETF Ether, merotasi posisi Bitcoin, dan memperbesar sahamnya di Strategy secara tajam. Hal ini menunjukkan produk tercatat dan saham terkait tetap digunakan, bukan kepemilikan koin secara langsung. Namun, 13F mencerminkan posisi pada akhir kuartal pertama, sehingga kepemilikan dapat berubah setelahnya. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "7db48c81273c",
-    "slug": "istanbul-blockchain-week-returns-in-june-2026-amid-surging-c-281937",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T21:01:02.127Z",
-    "updatedAt": "2026-05-12T21:01:02.127Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/press-releases/istanbul-blockchain-week-returns-in-june-2026-amid-surging-crypto-adoption-in-trkiye?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/press-releases/istanbul-blockchain-week-returns-in-june-2026-amid-surging-crypto-adoption-in-trkiye",
-    "titleFingerprint": "1a071a7655da641465e3ab6499335fb6fe05b6a2",
-    "dedupKeys": [
-      "7db48c81273c6c61276cd279fcb505981a58ca5a",
-      "1a071a7655da641465e3ab6499335fb6fe05b6a2",
-      "d9e20307ea56c51d2198e62771e79cab9541de05"
-    ],
-    "imageUrl": "/images/articles/7db48c81273c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이스탄불 블록체인 위크 2026, 튀르키예 채택 확대 속 6월 개최",
-        "excerpt": "Web3 마케팅 에이전시 EAK Digital이 주최하는 Istanbul Blockchain Week가 2026년 6월 2~3일 힐튼 보몬티 호텔에서 다섯 번째 행사로 돌아온다.",
-        "body": "Istanbul Blockchain Week가 2026년 6월 2일부터 3일까지 튀르키예 이스탄불의 힐튼 보몬티 호텔에서 열린다. Web3 마케팅 에이전시 EAK Digital이 주최하는 이번 행사는 다섯 번째 에디션으로, 원문은 튀르키예 내 암호화폐 채택이 확대되는 흐름 속에서 개최된다고 전했다. 행사명과 개최 시기, 장소가 공개되면서 지역 블록체인 및 Web3 업계의 관심이 다시 이스탄불에 모일 전망이다. 출처는 cointelegraph.com이다."
-      },
-      "en": {
-        "title": "Istanbul Blockchain Week 2026 Returns in June as Türkiye Crypto Adoption Grows",
-        "excerpt": "Organized by Web3 marketing agency EAK Digital, Istanbul Blockchain Week returns for its fifth edition on June 2-3, 2026, at the Hilton Bomonti Hotel.",
-        "body": "Istanbul Blockchain Week will take place on June 2-3, 2026, at the Hilton Bomonti Hotel in Istanbul, Türkiye. Organized by Web3 marketing agency EAK Digital, the event is returning for its fifth edition. The original report said the event comes amid rising cryptocurrency adoption in Türkiye. With its name, date, venue and organizer now announced, attention from the regional blockchain and Web3 industry is expected to turn again toward Istanbul. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "Istanbul Blockchain Week 2026、トルコの暗号資産普及拡大の中6月開催",
-        "excerpt": "Web3マーケティング会社EAK Digital主催のIstanbul Blockchain Weekが、2026年6月2〜3日にヒルトン・ボモンティ・ホテルで第5回として開催される。",
-        "body": "Istanbul Blockchain Weekは、2026年6月2日から3日まで、トルコ・イスタンブールのヒルトン・ボモンティ・ホテルで開催される。Web3マーケティング会社EAK Digitalが主催する同イベントは、今回で第5回を迎える。原文は、トルコで暗号資産の採用が広がる流れの中で開催されると伝えている。名称、日程、会場、主催者が明らかになったことで、地域のブロックチェーンおよびWeb3業界の関心が再びイスタンブールに集まる見通しだ。出典はcointelegraph.com。"
-      },
-      "zh": {
-        "title": "Istanbul Blockchain Week 2026将于6月回归，土耳其加密采用升温",
-        "excerpt": "由Web3营销机构EAK Digital主办的Istanbul Blockchain Week将于2026年6月2日至3日在Hilton Bomonti Hotel举行第五届活动。",
-        "body": "Istanbul Blockchain Week将于2026年6月2日至3日在土耳其伊斯坦布尔的Hilton Bomonti Hotel举行。该活动由Web3营销机构EAK Digital主办，此次为第五届。原文称，活动回归正值土耳其加密货币采用持续扩大的背景下。随着活动名称、时间、地点和主办方公布，区域区块链与Web3行业的关注预计将再次转向伊斯坦布尔。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Istanbul Blockchain Week 2026 vuelve en junio con mayor adopción cripto en Turquía",
-        "excerpt": "Organizada por la agencia de marketing Web3 EAK Digital, Istanbul Blockchain Week volverá en su quinta edición el 2 y 3 de junio de 2026 en el Hilton Bomonti Hotel.",
-        "body": "Istanbul Blockchain Week se celebrará el 2 y 3 de junio de 2026 en el Hilton Bomonti Hotel de Estambul, Turquía. Organizado por la agencia de marketing Web3 EAK Digital, el evento regresará con su quinta edición. El informe original señaló que la cita llega en un contexto de creciente adopción de criptomonedas en Turquía. Con el nombre, la fecha, la sede y el organizador ya confirmados, la atención del sector regional de blockchain y Web3 volverá a centrarse en Estambul. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Istanbul Blockchain Week 2026 volta em junho com adoção cripto em alta na Turquia",
-        "excerpt": "Organizada pela agência de marketing Web3 EAK Digital, a Istanbul Blockchain Week retorna em sua quinta edição nos dias 2 e 3 de junho de 2026, no Hilton Bomonti Hotel.",
-        "body": "A Istanbul Blockchain Week será realizada nos dias 2 e 3 de junho de 2026 no Hilton Bomonti Hotel, em Istambul, Turquia. Organizado pela agência de marketing Web3 EAK Digital, o evento retorna para sua quinta edição. O relatório original afirmou que a conferência acontece em meio ao crescimento da adoção de criptomoedas na Turquia. Com nome, data, local e organizador confirmados, a atenção do setor regional de blockchain e Web3 deve voltar novamente para Istambul. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Istanbul Blockchain Week 2026 kehrt im Juni bei wachsender Krypto-Adoption zurück",
-        "excerpt": "Die von der Web3-Marketingagentur EAK Digital organisierte Istanbul Blockchain Week findet am 2. und 3. Juni 2026 als fünfte Ausgabe im Hilton Bomonti Hotel statt.",
-        "body": "Die Istanbul Blockchain Week findet am 2. und 3. Juni 2026 im Hilton Bomonti Hotel in Istanbul, Türkei, statt. Organisiert wird die Veranstaltung von der Web3-Marketingagentur EAK Digital; es ist die fünfte Ausgabe. Der Originalbericht erklärte, dass die Veranstaltung vor dem Hintergrund einer zunehmenden Krypto-Adoption in der Türkei zurückkehrt. Nachdem Name, Termin, Ort und Veranstalter bekannt sind, dürfte sich die Aufmerksamkeit der regionalen Blockchain- und Web3-Branche erneut auf Istanbul richten. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Istanbul Blockchain Week 2026 revient en juin avec l’adoption crypto en hausse en Turquie",
-        "excerpt": "Organisée par l’agence de marketing Web3 EAK Digital, Istanbul Blockchain Week tiendra sa cinquième édition les 2 et 3 juin 2026 au Hilton Bomonti Hotel.",
-        "body": "Istanbul Blockchain Week se tiendra les 2 et 3 juin 2026 au Hilton Bomonti Hotel à Istanbul, en Turquie. Organisé par l’agence de marketing Web3 EAK Digital, l’événement revient pour sa cinquième édition. Le rapport original indique que cette édition intervient alors que l’adoption des cryptomonnaies progresse en Turquie. Avec le nom, les dates, le lieu et l’organisateur désormais annoncés, l’attention du secteur régional de la blockchain et du Web3 devrait de nouveau se tourner vers Istanbul. Source : cointelegraph.com."
-      },
-      "ar": {
-        "title": "أسبوع إسطنبول للبلوكتشين 2026 يعود في يونيو مع نمو تبني العملات المشفرة بتركيا",
-        "excerpt": "تنظم وكالة تسويق Web3 EAK Digital أسبوع إسطنبول للبلوكتشين في نسخته الخامسة يومي 2 و3 يونيو 2026 في فندق هيلتون بومونتي.",
-        "body": "سيقام أسبوع إسطنبول للبلوكتشين يومي 2 و3 يونيو 2026 في فندق هيلتون بومونتي بمدينة إسطنبول في تركيا. وتنظم الحدث وكالة تسويق Web3 EAK Digital، ويعود هذه المرة في نسخته الخامسة. وذكر التقرير الأصلي أن انعقاد الحدث يأتي وسط توسع تبني العملات المشفرة في تركيا. ومع إعلان اسم الحدث وموعده ومكانه والجهة المنظمة، من المتوقع أن يتجه اهتمام قطاع البلوكتشين وWeb3 الإقليمي مجددا إلى إسطنبول. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Istanbul Blockchain Week 2026 जून में लौटेगा, तुर्किये में क्रिप्टो अपनाने की रफ्तार तेज",
-        "excerpt": "Web3 मार्केटिंग एजेंसी EAK Digital द्वारा आयोजित Istanbul Blockchain Week का पांचवां संस्करण 2-3 जून 2026 को Hilton Bomonti Hotel में होगा।",
-        "body": "Istanbul Blockchain Week 2 से 3 जून 2026 तक तुर्किये के इस्तांबुल स्थित Hilton Bomonti Hotel में आयोजित होगा। Web3 मार्केटिंग एजेंसी EAK Digital द्वारा आयोजित यह कार्यक्रम अपने पांचवें संस्करण के रूप में लौट रहा है। मूल रिपोर्ट के अनुसार, यह आयोजन तुर्किये में क्रिप्टोकरेंसी अपनाने की बढ़ती प्रवृत्ति के बीच हो रहा है। कार्यक्रम का नाम, तारीख, स्थान और आयोजक घोषित होने के बाद क्षेत्रीय ब्लॉकचेन और Web3 उद्योग का ध्यान फिर से इस्तांबुल की ओर जाने की उम्मीद है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Istanbul Blockchain Week 2026 Kembali Juni saat Adopsi Kripto Turki Meningkat",
-        "excerpt": "Diselenggarakan agensi pemasaran Web3 EAK Digital, Istanbul Blockchain Week edisi kelima akan berlangsung pada 2-3 Juni 2026 di Hilton Bomonti Hotel.",
-        "body": "Istanbul Blockchain Week akan digelar pada 2-3 Juni 2026 di Hilton Bomonti Hotel, Istanbul, Turki. Acara yang diselenggarakan oleh agensi pemasaran Web3 EAK Digital ini kembali untuk edisi kelimanya. Laporan asli menyebut acara tersebut berlangsung di tengah meningkatnya adopsi kripto di Turki. Dengan nama acara, jadwal, lokasi, dan penyelenggara yang telah diumumkan, perhatian industri blockchain dan Web3 regional diperkirakan kembali tertuju ke Istanbul. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "6e196042392c",
-    "slug": "four-signs-that-bitcoin-has-recovered-to-full-bullish-moment-232264",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T21:00:16.143Z",
-    "updatedAt": "2026-05-12T21:00:16.143Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/four-signs-bitcoin-recovered-full-bullish-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/four-signs-bitcoin-recovered-full-bullish-momentum",
-    "titleFingerprint": "bea92e0387caa691336bf4f6c2c8154c5e9ed804",
-    "dedupKeys": [
-      "6e196042392c372d4e9eacc1ab1436bcb2774d28",
-      "bea92e0387caa691336bf4f6c2c8154c5e9ed804",
-      "50bddb47710af7a116c507bd3a0a916c47721cbf"
-    ],
-    "imageUrl": "/images/articles/6e196042392c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 강세 모멘텀 회복 신호 4가지, 상승 주도권 지속되나",
-        "excerpt": "코인텔레그래프는 비트코인 가격 모멘텀 확대, 유동성 회복, 네트워크 활동 급증이 강세 주도권 지속을 가리킨다고 전했다.",
-        "body": "비트코인이 ‘완전한’ 강세 모멘텀을 되찾았다는 신호가 나타나고 있다고 코인텔레그래프가 보도했다. 보도에 따르면 비트코인 가격 모멘텀은 확대되고 있으며, 시장 유동성도 회복 흐름을 보이고 있다. 여기에 네트워크 활동이 급증하면서 시장 전반에서 매수세가 주도권을 유지하고 있다는 해석이 나온다. 이러한 요소들은 단기 가격 흐름뿐 아니라 투자 심리와 온체인 활동까지 함께 개선되고 있음을 보여준다. 다만 보도는 이 지표들이 현재 강세 통제가 이어지고 있음을 시사한다고 설명했다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Bitcoin Bullish Momentum Shows 4 Signs of Full Recovery",
-        "excerpt": "Cointelegraph reported that expanding Bitcoin price momentum, recovering liquidity and surging network activity point to continued bullish control.",
-        "body": "Bitcoin is showing signs that it has recovered to “full” bullish momentum, Cointelegraph reported. According to the report, Bitcoin’s price momentum is expanding, while market liquidity is also recovering. At the same time, network activity is surging, supporting the view that buyers continue to hold control across the market. These factors suggest improvement not only in short-term price action but also in investor sentiment and on-chain activity. The report said the indicators point to ongoing bullish control. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "ビットコイン強気モメンタム回復、4つのサインに注目",
-        "excerpt": "コインテレグラフは、ビットコインの価格モメンタム拡大、流動性回復、ネットワーク活動急増が強気主導の継続を示すと報じた。",
-        "body": "ビットコインが「完全な」強気モメンタムを取り戻した兆候が出ていると、コインテレグラフが報じた。報道によると、ビットコインの価格モメンタムは拡大しており、市場流動性も回復傾向にある。さらにネットワーク活動が急増し、市場全体で買い手が主導権を維持しているとの見方を支えている。これらの要素は短期的な価格動向だけでなく、投資家心理やオンチェーン活動の改善も示す。報道は、これらの指標が強気の支配継続を示唆すると説明した。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "比特币强势动能显现4大恢复信号，买方仍占主导",
-        "excerpt": "Cointelegraph报道称，比特币价格动能扩大、流动性恢复以及网络活动激增，均指向市场强势控制仍在延续。",
-        "body": "据Cointelegraph报道，比特币正出现已恢复至“完全”强势动能的信号。报道称，比特币价格动能正在扩大，市场流动性也呈现恢复趋势。与此同时，网络活动大幅上升，支持了买方在整体市场中继续掌握主导权的判断。这些因素不仅反映短期价格走势改善，也显示投资情绪和链上活动同步回暖。报道指出，这些指标表明当前强势控制仍在延续。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "Bitcoin muestra 4 señales de recuperación del impulso alcista",
-        "excerpt": "Cointelegraph informó que el impulso del precio de Bitcoin, la recuperación de la liquidez y el aumento de la actividad de red apuntan al control alcista.",
-        "body": "Bitcoin muestra señales de haber recuperado un impulso alcista “pleno”, según informó Cointelegraph. De acuerdo con el reporte, el impulso del precio de Bitcoin se está ampliando y la liquidez del mercado también se está recuperando. Al mismo tiempo, la actividad de la red aumenta con fuerza, lo que respalda la lectura de que los compradores mantienen el control del mercado. Estos factores apuntan a una mejora no solo en el precio a corto plazo, sino también en el sentimiento inversor y la actividad on-chain. El informe señaló que los indicadores sugieren una continuidad del control alcista. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Bitcoin dá 4 sinais de recuperação do impulso de alta",
-        "excerpt": "A Cointelegraph informou que o avanço do momentum do preço do Bitcoin, a recuperação da liquidez e a alta na atividade da rede indicam controle comprador.",
-        "body": "O Bitcoin mostra sinais de ter recuperado um momentum de alta “pleno”, informou a Cointelegraph. Segundo a reportagem, o momentum do preço do Bitcoin está se ampliando, enquanto a liquidez do mercado também apresenta recuperação. Ao mesmo tempo, a atividade da rede dispara, reforçando a leitura de que os compradores continuam no controle do mercado. Esses fatores indicam melhora não apenas no movimento de curto prazo dos preços, mas também no sentimento dos investidores e na atividade on-chain. A publicação afirmou que os indicadores apontam para a continuidade do controle altista. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Bitcoin zeigt 4 Signale für volle Rückkehr des Aufwärtsmomentums",
-        "excerpt": "Cointelegraph berichtet, dass wachsendes Bitcoin-Preismomentum, erholte Liquidität und steigende Netzwerkaktivität auf anhaltende bullische Kontrolle hindeuten.",
-        "body": "Bitcoin zeigt Anzeichen dafür, dass das „volle“ bullische Momentum zurückgekehrt ist, berichtete Cointelegraph. Dem Bericht zufolge weitet sich das Preismomentum von Bitcoin aus, während sich auch die Marktliquidität erholt. Gleichzeitig steigt die Netzwerkaktivität stark an, was die Einschätzung stützt, dass Käufer weiterhin die Kontrolle über den Markt behalten. Diese Faktoren deuten nicht nur auf eine Verbesserung der kurzfristigen Kursentwicklung hin, sondern auch auf bessere Anlegerstimmung und stärkere On-Chain-Aktivität. Der Bericht erklärte, die Indikatoren sprächen für anhaltende bullische Kontrolle. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Bitcoin affiche 4 signes de reprise complète du momentum haussier",
-        "excerpt": "Cointelegraph rapporte que l’élan du prix du Bitcoin, la reprise de la liquidité et la forte activité du réseau indiquent un contrôle haussier durable.",
-        "body": "Le Bitcoin montre des signes d’un retour à un momentum haussier « complet », selon Cointelegraph. D’après le rapport, l’élan du prix du Bitcoin s’élargit, tandis que la liquidité du marché se redresse également. Dans le même temps, l’activité du réseau bondit, ce qui soutient l’idée que les acheteurs conservent le contrôle du marché. Ces éléments indiquent une amélioration non seulement de l’évolution des prix à court terme, mais aussi du sentiment des investisseurs et de l’activité on-chain. Le rapport précise que ces indicateurs suggèrent la poursuite d’un contrôle haussier. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "بيتكوين تظهر 4 إشارات على استعادة الزخم الصعودي الكامل",
-        "excerpt": "ذكرت Cointelegraph أن اتساع زخم سعر بيتكوين، وتعافي السيولة، وارتفاع نشاط الشبكة تشير جميعها إلى استمرار السيطرة الصعودية.",
-        "body": "تظهر بيتكوين إشارات على أنها استعادت زخما صعوديا “كاملا”، بحسب ما ذكرت Cointelegraph. ووفقا للتقرير، يتسع زخم سعر بيتكوين، بينما تظهر سيولة السوق أيضا مسارا نحو التعافي. وفي الوقت نفسه، يرتفع نشاط الشبكة بقوة، ما يدعم قراءة تفيد بأن المشترين يواصلون الاحتفاظ بالسيطرة على السوق. وتشير هذه العوامل إلى تحسن لا يقتصر على حركة السعر قصيرة الأجل، بل يشمل أيضا معنويات المستثمرين والنشاط على السلسلة. وأوضح التقرير أن هذه المؤشرات تدل على استمرار السيطرة الصعودية. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Bitcoin में तेजी की पूरी वापसी के 4 संकेत दिखे",
-        "excerpt": "Cointelegraph के अनुसार, Bitcoin की कीमत का बढ़ता मोमेंटम, सुधरती लिक्विडिटी और नेटवर्क गतिविधि में उछाल जारी तेजी के नियंत्रण की ओर इशारा करते हैं।",
-        "body": "Bitcoin में “पूर्ण” तेजी वाला मोमेंटम लौटने के संकेत दिख रहे हैं, Cointelegraph ने रिपोर्ट किया। रिपोर्ट के अनुसार, Bitcoin की कीमत का मोमेंटम बढ़ रहा है और बाजार की लिक्विडिटी भी रिकवरी दिखा रही है। इसी समय, नेटवर्क गतिविधि में तेज उछाल आया है, जिससे यह आकलन मजबूत होता है कि खरीदार बाजार पर नियंत्रण बनाए हुए हैं। ये कारक केवल अल्पकालिक कीमत चाल में सुधार नहीं, बल्कि निवेशक भावना और ऑन-चेन गतिविधि में सुधार भी दिखाते हैं। रिपोर्ट ने कहा कि ये संकेतक जारी बुलिश नियंत्रण की ओर इशारा करते हैं। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Bitcoin Tunjukkan 4 Sinyal Pemulihan Momentum Bullish Penuh",
-        "excerpt": "Cointelegraph melaporkan momentum harga Bitcoin yang meluas, likuiditas pulih, dan aktivitas jaringan melonjak menunjukkan kontrol bullish berlanjut.",
-        "body": "Bitcoin menunjukkan tanda-tanda telah memulihkan momentum bullish “penuh”, menurut laporan Cointelegraph. Dalam laporan tersebut, momentum harga Bitcoin terus meluas, sementara likuiditas pasar juga menunjukkan pemulihan. Pada saat yang sama, aktivitas jaringan melonjak, mendukung pandangan bahwa pembeli masih memegang kendali di pasar. Faktor-faktor ini menunjukkan perbaikan tidak hanya pada pergerakan harga jangka pendek, tetapi juga pada sentimen investor dan aktivitas on-chain. Laporan itu menyebut indikator tersebut mengarah pada berlanjutnya kontrol bullish. Sumber: cointelegraph.com."
       }
     }
   }
