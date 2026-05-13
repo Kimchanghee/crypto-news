@@ -1,5 +1,230 @@
 [
   {
+    "id": "f91a291b0c74",
+    "slug": "animoca-backed-nuva-connects-figures-19-billion-of-tokenized-588053",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T16:03:18.841Z",
+    "updatedAt": "2026-05-13T16:03:18.841Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/13/animoca-backed-nuva-connects-figure-s-usd19-billion-of-tokenized-assets-to-ethereum",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/13/animoca-backed-nuva-connects-figure-s-usd19-billion-of-tokenized-assets-to-ethereum",
+    "titleFingerprint": "c3be0bc557a7510cf6bf4546a0088f3c284fcdb1",
+    "dedupKeys": [
+      "f91a291b0c74b16c3904f38746e10002f8daf25c",
+      "c3be0bc557a7510cf6bf4546a0088f3c284fcdb1",
+      "3c4827fdc6fdaf9b3cef9d6244bf2e3e58d473db"
+    ],
+    "imageUrl": "/images/articles/f91a291b0c74.jpg",
+    "i18n": {
+      "ko": {
+        "title": "NUVA, Figure 190억달러 토큰화 자산 이더리움 연결",
+        "excerpt": "애니모카가 지원하는 NUVA가 BNY 출신 앤서니 모로 주도로 Figure의 190억달러 규모 토큰화 자산을 이더리움과 디파이 시장에 연결한다.",
+        "body": "애니모카가 지원하는 프로토콜 NUVA가 Figure의 190억달러 규모 토큰화 자산을 이더리움으로 연결한다고 coindesk.com이 보도했다. 이 프로젝트는 BNY 베테랑 임원 앤서니 모로가 이끌며, 실물자산과 디파이 시장을 잇는 것을 목표로 한다. 초기 대상은 주택자산 담보 신용한도와 미국 국채다. Figure가 보유한 대규모 토큰화 자산이 이더리움 생태계와 연결되면 실물자산 기반 상품의 디파이 접근성이 확대될 수 있다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "NUVA Links Figure’s $19B Tokenized Assets to Ethereum",
+        "excerpt": "Animoca-backed NUVA, led by former BNY executive Anthony Moro, is connecting Figure’s $19 billion in tokenized assets to Ethereum and DeFi markets.",
+        "body": "Animoca-backed protocol NUVA is connecting Figure’s $19 billion in tokenized assets to Ethereum, coindesk.com reported. The project is led by Anthony Moro, a veteran BNY executive, and aims to bridge real-world assets with DeFi markets. Its initial focus is home equity lines of credit and Treasuries. If Figure’s large pool of tokenized assets reaches the Ethereum ecosystem, access to real-world asset products in DeFi could expand. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "NUVA、Figureの190億ドル規模トークン化資産をEthereumへ接続",
+        "excerpt": "Animoca支援のNUVAは、BNY出身のアンソニー・モロ氏主導で、Figureの190億ドル規模トークン化資産をEthereumとDeFi市場につなぐ。",
+        "body": "Animocaが支援するプロトコルNUVAが、Figureの190億ドル規模のトークン化資産をEthereumへ接続するとcoindesk.comが報じた。このプロジェクトはBNYのベテラン幹部アンソニー・モロ氏が率い、実物資産とDeFi市場を結ぶことを目指す。初期対象は住宅資産担保の信用枠と米国債だ。Figureの大規模なトークン化資産がEthereumエコシステムと接続されれば、DeFiにおける実物資産商品の利用可能性が広がる可能性がある。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "NUVA将Figure的190亿美元代币化资产接入以太坊",
+        "excerpt": "Animoca支持的NUVA由BNY资深高管Anthony Moro领导，正把Figure的190亿美元代币化资产连接至以太坊和DeFi市场。",
+        "body": "据coindesk.com报道，Animoca支持的协议NUVA将把Figure的190亿美元代币化资产连接至以太坊。该项目由BNY资深高管Anthony Moro领导，目标是连接现实世界资产与DeFi市场。其初始重点包括房屋净值信用额度和美国国债。若Figure的大规模代币化资产进入以太坊生态，DeFi中现实世界资产产品的可访问性可能进一步扩大。来源: coindesk.com"
+      },
+      "es": {
+        "title": "NUVA conecta a Ethereum activos tokenizados de Figure por $19.000M",
+        "excerpt": "NUVA, respaldado por Animoca y dirigido por Anthony Moro, exejecutivo de BNY, conecta los activos tokenizados de Figure por $19.000 millones con Ethereum y DeFi.",
+        "body": "NUVA, protocolo respaldado por Animoca, conectará a Ethereum los activos tokenizados de Figure por 19.000 millones de dólares, informó coindesk.com. El proyecto está dirigido por Anthony Moro, ejecutivo veterano de BNY, y busca unir activos del mundo real con mercados DeFi. Su enfoque inicial incluye líneas de crédito sobre valor acumulado de vivienda y bonos del Tesoro. Si el gran volumen de activos tokenizados de Figure llega al ecosistema Ethereum, podría ampliarse el acceso a productos de activos reales en DeFi. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "NUVA conecta US$ 19 bi em ativos tokenizados da Figure ao Ethereum",
+        "excerpt": "A NUVA, apoiada pela Animoca e liderada por Anthony Moro, ex-executivo do BNY, conecta US$ 19 bilhões em ativos tokenizados da Figure ao Ethereum e ao DeFi.",
+        "body": "A NUVA, protocolo apoiado pela Animoca, conectará ao Ethereum os US$ 19 bilhões em ativos tokenizados da Figure, segundo o coindesk.com. O projeto é liderado por Anthony Moro, executivo veterano do BNY, e busca ligar ativos do mundo real aos mercados DeFi. O foco inicial são linhas de crédito com garantia em patrimônio imobiliário e títulos do Tesouro. Se o grande volume de ativos tokenizados da Figure chegar ao ecossistema Ethereum, o acesso a produtos de ativos reais no DeFi pode se ampliar. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "NUVA verbindet Figure-Tokenassets über 19 Mrd. Dollar mit Ethereum",
+        "excerpt": "Das von Animoca unterstützte NUVA verbindet unter Ex-BNY-Manager Anthony Moro tokenisierte Figure-Assets im Wert von 19 Milliarden Dollar mit Ethereum und DeFi.",
+        "body": "Das von Animoca unterstützte Protokoll NUVA verbindet tokenisierte Vermögenswerte von Figure im Wert von 19 Milliarden Dollar mit Ethereum, berichtete coindesk.com. Geleitet wird das Projekt von Anthony Moro, einem erfahrenen BNY-Manager. Ziel ist es, reale Vermögenswerte mit DeFi-Märkten zu verbinden. Der Start konzentriert sich auf Home-Equity-Kreditlinien und Staatsanleihen. Wenn Figures großer Bestand tokenisierter Assets das Ethereum-Ökosystem erreicht, könnte der Zugang zu Real-World-Asset-Produkten in DeFi wachsen. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "NUVA relie 19 Md$ d’actifs tokenisés de Figure à Ethereum",
+        "excerpt": "NUVA, soutenu par Animoca et dirigé par Anthony Moro, ancien cadre de BNY, relie les 19 milliards de dollars d’actifs tokenisés de Figure à Ethereum et à la DeFi.",
+        "body": "Le protocole NUVA, soutenu par Animoca, relie à Ethereum les 19 milliards de dollars d’actifs tokenisés de Figure, selon coindesk.com. Le projet est dirigé par Anthony Moro, cadre vétéran de BNY, et vise à connecter les actifs du monde réel aux marchés DeFi. Les premiers segments ciblés sont les lignes de crédit adossées à la valeur immobilière et les bons du Trésor. Si l’important volume d’actifs tokenisés de Figure rejoint l’écosystème Ethereum, l’accès aux produits d’actifs réels dans la DeFi pourrait s’élargir. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "NUVA تربط أصول Figure المرمزة البالغة 19 مليار دولار بإيثريوم",
+        "excerpt": "تعمل NUVA المدعومة من Animoca، بقيادة أنتوني مورو المخضرم في BNY، على ربط أصول Figure المرمزة بقيمة 19 مليار دولار بإيثريوم وأسواق DeFi.",
+        "body": "أفاد coindesk.com أن بروتوكول NUVA المدعوم من Animoca سيربط أصول Figure المرمزة البالغة 19 مليار دولار بشبكة إيثريوم. يقود المشروع أنتوني مورو، وهو مسؤول مخضرم في BNY، ويهدف إلى وصل الأصول الحقيقية بأسواق التمويل اللامركزي. وتبدأ المبادرة بخطوط ائتمان بضمان حقوق ملكية المنازل وسندات الخزانة. وإذا وصلت محفظة Figure الكبيرة من الأصول المرمزة إلى منظومة إيثريوم، فقد يتسع الوصول إلى منتجات الأصول الحقيقية داخل DeFi. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "NUVA ने Figure की 19 अरब डॉलर टोकनाइज्ड संपत्ति Ethereum से जोड़ी",
+        "excerpt": "Animoca समर्थित NUVA, BNY के अनुभवी Anthony Moro के नेतृत्व में, Figure की 19 अरब डॉलर की टोकनाइज्ड संपत्तियों को Ethereum और DeFi बाजारों से जोड़ रहा है।",
+        "body": "coindesk.com के अनुसार, Animoca समर्थित प्रोटोकॉल NUVA Figure की 19 अरब डॉलर की टोकनाइज्ड संपत्तियों को Ethereum से जोड़ रहा है। इस परियोजना का नेतृत्व BNY के अनुभवी कार्यकारी Anthony Moro कर रहे हैं और इसका लक्ष्य वास्तविक दुनिया की संपत्तियों को DeFi बाजारों से जोड़ना है। शुरुआती फोकस होम इक्विटी लाइन ऑफ क्रेडिट और ट्रेजरी पर है। यदि Figure की बड़ी टोकनाइज्ड संपत्ति Ethereum इकोसिस्टम तक पहुंचती है, तो DeFi में वास्तविक संपत्ति आधारित उत्पादों की पहुंच बढ़ सकती है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "NUVA Hubungkan Aset Tokenisasi Figure US$19 Miliar ke Ethereum",
+        "excerpt": "NUVA yang didukung Animoca dan dipimpin veteran BNY Anthony Moro menghubungkan aset tokenisasi Figure senilai US$19 miliar ke Ethereum dan pasar DeFi.",
+        "body": "Protokol NUVA yang didukung Animoca menghubungkan aset tokenisasi Figure senilai US$19 miliar ke Ethereum, menurut coindesk.com. Proyek ini dipimpin Anthony Moro, eksekutif veteran BNY, dan bertujuan menjembatani aset dunia nyata dengan pasar DeFi. Fokus awalnya adalah jalur kredit berbasis ekuitas rumah dan obligasi Treasury. Jika kumpulan besar aset tokenisasi Figure terhubung dengan ekosistem Ethereum, akses ke produk aset dunia nyata di DeFi dapat meningkat. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "2b3693ed1662",
+    "slug": "clarity-act-amendments-would-remake-key-parts-of-crypto-bill-342851",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T16:02:29.986Z",
+    "updatedAt": "2026-05-13T16:02:29.986Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/policy/2026/05/13/clarity-act-amendments-would-remake-key-parts-of-crypto-bill-but-have-doubtful-future",
+    "canonicalUrl": "https://www.coindesk.com/policy/2026/05/13/clarity-act-amendments-would-remake-key-parts-of-crypto-bill-but-have-doubtful-future",
+    "titleFingerprint": "d5d47d89e6acaddf505efecc972341a730b7c85d",
+    "dedupKeys": [
+      "2b3693ed1662fa4fac656db658a8af6b2dd14d74",
+      "d5d47d89e6acaddf505efecc972341a730b7c85d",
+      "8ad78b79ddde34f8eaea021b5ebd3df9fec82c0a"
+    ],
+    "imageUrl": "/images/articles/2b3693ed1662.jpg",
+    "i18n": {
+      "ko": {
+        "title": "클래리티법 수정안, 미 암호화폐 시장구조 법안 핵심 흔드나",
+        "excerpt": "미국 상원 청문회를 앞두고 암호화폐 시장구조 법안인 클래리티법을 겨냥한 수십 건의 수정안이 제기되며 법안 문구와 핵심 조항 변화 가능성이 주목된다.",
+        "body": "미국 암호화폐 시장구조 법안인 클래리티법이 상원 청문회를 앞두고 수십 건의 수정안에 직면했다. 해당 수정안들은 법안 문구를 바꾸거나 새로운 내용을 추가하는 데 초점을 맞추고 있다. 원문에 따르면 이 움직임은 법안의 핵심 부분을 다시 짤 수 있을 만큼 폭넓지만, 실제 반영될 가능성은 불확실하다. 시장구조 법안은 미국 내 디지털자산 규율의 틀을 다루는 만큼 수정 논의는 업계와 정책권의 관심을 받고 있다. 다만 청문회가 다가오는 상황에서 다수 수정안의 향방은 아직 정해지지 않았다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Clarity Act Amendments Put Key U.S. Crypto Bill in Focus",
+        "excerpt": "Ahead of a U.S. Senate hearing, dozens of amendments are targeting the Clarity Act, aiming to alter or add language to the crypto market structure bill.",
+        "body": "The Clarity Act, a U.S. crypto market structure bill, is facing dozens of proposed amendments as its Senate hearing approaches. The amendments focus on changing existing language or adding new provisions to the text. According to the original report, the effort could remake key parts of the bill, but its future remains doubtful. Because the market structure bill deals with the framework for regulating digital assets in the United States, the amendment push is drawing attention from both the crypto industry and policymakers. For now, with the hearing nearing, the fate of the many proposed changes has not been decided. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "クラリティ法修正案、米暗号資産市場構造法案の焦点に",
+        "excerpt": "米上院の公聴会を前に、暗号資産市場構造法案であるクラリティ法を対象に数十件の修正案が出され、文言や主要条項の変更可能性が注目されている。",
+        "body": "米国の暗号資産市場構造法案であるクラリティ法は、上院公聴会を控え、数十件の修正案に直面している。これらの修正案は、法案の文言を変更したり、新たな内容を追加したりすることを目的としている。原文によると、この動きは法案の主要部分を作り替える可能性があるほど広範だが、実際に反映されるかは不透明だ。市場構造法案は米国内のデジタル資産規制の枠組みに関わるため、修正論議は業界と政策当局の関心を集めている。ただし、公聴会が近づく中、多くの修正案の行方はまだ決まっていない。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "Clarity Act修正案聚焦美国加密市场结构法案核心",
+        "excerpt": "在美国参议院听证会临近之际，数十项修正案正瞄准加密市场结构法案Clarity Act，试图修改或增补其文本与关键条款。",
+        "body": "美国加密市场结构法案Clarity Act在参议院听证会临近之际，正面临数十项修正案。这些修正案的重点是修改法案现有文字，或向文本中加入新的内容。根据原文报道，这一动向覆盖范围较广，可能重塑法案的关键部分，但其前景仍存在疑问。由于该市场结构法案涉及美国数字资产监管框架，相关修正讨论正受到加密行业和政策圈关注。不过，在听证会即将到来之时，大量修正案最终走向尚未确定。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Enmiendas a la Clarity Act ponen bajo foco la ley cripto de EE. UU.",
+        "excerpt": "Antes de una audiencia en el Senado de EE. UU., decenas de enmiendas apuntan a la Clarity Act para cambiar o añadir texto al proyecto de estructura del mercado cripto.",
+        "body": "La Clarity Act, el proyecto estadounidense sobre estructura del mercado cripto, enfrenta decenas de enmiendas propuestas mientras se acerca su audiencia en el Senado. Las enmiendas buscan modificar el lenguaje existente del texto o añadir nuevas disposiciones. Según el informe original, el movimiento podría rehacer partes clave del proyecto, aunque su futuro sigue siendo dudoso. Como la ley de estructura de mercado aborda el marco para regular los activos digitales en Estados Unidos, el debate sobre las enmiendas atrae la atención de la industria cripto y de los responsables de política pública. Por ahora, con la audiencia próxima, el destino de esos cambios no está decidido. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Emendas à Clarity Act miram núcleo da lei cripto dos EUA",
+        "excerpt": "Antes de uma audiência no Senado dos EUA, dezenas de emendas miram a Clarity Act para alterar ou acrescentar texto ao projeto de estrutura do mercado cripto.",
+        "body": "A Clarity Act, projeto dos EUA sobre estrutura do mercado cripto, enfrenta dezenas de emendas propostas à medida que se aproxima sua audiência no Senado. As emendas buscam mudar a redação existente ou acrescentar novas disposições ao texto. Segundo o relatório original, o movimento poderia reformular partes centrais do projeto, mas seu futuro continua incerto. Como a proposta trata da estrutura para regular ativos digitais nos Estados Unidos, a discussão sobre as emendas atrai atenção da indústria cripto e de formuladores de política. Por enquanto, com a audiência se aproximando, o destino das muitas mudanças propostas ainda não foi definido. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Clarity-Act-Änderungen rücken US-Kryptomarktgesetz in den Fokus",
+        "excerpt": "Vor einer Anhörung im US-Senat zielen Dutzende Änderungsanträge auf den Clarity Act, um den Text des Kryptomarktstrukturgesetzes zu ändern oder zu ergänzen.",
+        "body": "Der Clarity Act, ein US-Gesetzentwurf zur Struktur des Kryptomarkts, sieht sich vor seiner Anhörung im Senat mit Dutzenden Änderungsanträgen konfrontiert. Die Anträge zielen darauf, bestehende Formulierungen zu ändern oder neue Inhalte in den Text aufzunehmen. Dem Originalbericht zufolge könnte diese Initiative zentrale Teile des Entwurfs neu gestalten, doch ihre Zukunft bleibt zweifelhaft. Da das Marktstrukturgesetz den Rahmen für die Regulierung digitaler Vermögenswerte in den USA betrifft, verfolgen sowohl die Kryptobranche als auch politische Akteure die Debatte aufmerksam. Noch ist offen, was aus den vielen vorgeschlagenen Änderungen wird. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Les amendements au Clarity Act ciblent le cœur du projet crypto américain",
+        "excerpt": "Avant une audition au Sénat américain, des dizaines d’amendements visent le Clarity Act afin de modifier ou d’ajouter du texte au projet sur la structure du marché crypto.",
+        "body": "Le Clarity Act, projet de loi américain sur la structure du marché crypto, fait face à des dizaines d’amendements proposés à l’approche de son audition au Sénat. Ces amendements cherchent à modifier la rédaction existante ou à ajouter de nouvelles dispositions au texte. Selon le rapport original, cette initiative pourrait remodeler des parties clés du projet, mais son avenir reste incertain. Comme ce texte traite du cadre de régulation des actifs numériques aux États-Unis, le débat attire l’attention de l’industrie crypto et des responsables politiques. Pour l’instant, alors que l’audition approche, le sort des nombreuses modifications proposées n’est pas tranché. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "تعديلات Clarity Act تضع مشروع قانون سوق العملات المشفرة الأميركي تحت المجهر",
+        "excerpt": "قبل جلسة استماع في مجلس الشيوخ الأميركي، تستهدف عشرات التعديلات قانون Clarity Act لتغيير أو إضافة نصوص إلى مشروع هيكلة سوق العملات المشفرة.",
+        "body": "يواجه قانون Clarity Act، وهو مشروع قانون أميركي لهيكلة سوق العملات المشفرة، عشرات التعديلات المقترحة مع اقتراب جلسة استماع في مجلس الشيوخ. تركز هذه التعديلات على تغيير صياغة النص الحالي أو إضافة مواد جديدة إليه. ووفق التقرير الأصلي، قد تكون هذه الخطوة واسعة بما يكفي لإعادة تشكيل أجزاء رئيسية من المشروع، لكن مستقبلها لا يزال غير مؤكد. وبما أن مشروع هيكلة السوق يتناول إطار تنظيم الأصول الرقمية في الولايات المتحدة، فإن نقاش التعديلات يجذب اهتمام قطاع العملات المشفرة وصناع السياسات. وحتى الآن، ومع اقتراب الجلسة، لم يتحدد مصير التغييرات المقترحة. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "Clarity Act संशोधन से अमेरिकी क्रिप्टो बाजार विधेयक पर नजर",
+        "excerpt": "अमेरिकी सीनेट की सुनवाई से पहले Clarity Act को लक्षित करते हुए दर्जनों संशोधन आए हैं, जिनका उद्देश्य क्रिप्टो बाजार संरचना विधेयक के पाठ को बदलना या जोड़ना है।",
+        "body": "अमेरिका का क्रिप्टो बाजार संरचना विधेयक Clarity Act सीनेट की सुनवाई नजदीक आने के साथ दर्जनों प्रस्तावित संशोधनों का सामना कर रहा है। ये संशोधन विधेयक की मौजूदा भाषा बदलने या उसमें नई सामग्री जोड़ने पर केंद्रित हैं। मूल रिपोर्ट के अनुसार, यह कदम विधेयक के अहम हिस्सों को फिर से आकार देने जितना व्यापक हो सकता है, लेकिन इसका भविष्य अनिश्चित है। क्योंकि यह बाजार संरचना विधेयक अमेरिका में डिजिटल संपत्तियों के नियमन के ढांचे से जुड़ा है, इसलिए संशोधन बहस पर क्रिप्टो उद्योग और नीति निर्माताओं की नजर है। फिलहाल, सुनवाई करीब आने के बावजूद कई प्रस्तावित बदलावों का रास्ता तय नहीं हुआ है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Amandemen Clarity Act Sorot RUU Struktur Pasar Kripto AS",
+        "excerpt": "Menjelang sidang Senat AS, puluhan amandemen menargetkan Clarity Act untuk mengubah atau menambah teks dalam RUU struktur pasar kripto Amerika Serikat.",
+        "body": "Clarity Act, RUU struktur pasar kripto Amerika Serikat, menghadapi puluhan usulan amandemen saat sidang Senat semakin dekat. Amandemen tersebut berfokus pada perubahan bahasa yang sudah ada atau penambahan ketentuan baru ke dalam teks. Menurut laporan asli, langkah ini cukup luas untuk membentuk ulang bagian-bagian penting RUU, tetapi masa depannya masih diragukan. Karena RUU struktur pasar ini menyangkut kerangka pengaturan aset digital di Amerika Serikat, pembahasan amandemen menarik perhatian industri kripto dan pembuat kebijakan. Untuk saat ini, menjelang sidang, nasib banyak perubahan yang diusulkan belum diputuskan. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "89be58af216c",
+    "slug": "telecom-giant-kddi-to-acquire-149-stake-in-coincheck-group-i-308305",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T16:01:15.383Z",
+    "updatedAt": "2026-05-13T16:01:15.383Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/05/13/telecom-giant-kddi-to-acquire-14-9-stake-in-coincheck-group-in-usd65-million-deal",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/05/13/telecom-giant-kddi-to-acquire-14-9-stake-in-coincheck-group-in-usd65-million-deal",
+    "titleFingerprint": "d013cc1981484171f34e766a89db3859cbe9b8bf",
+    "dedupKeys": [
+      "89be58af216ccbdabeb8a09e5bcb5357829bae3f",
+      "d013cc1981484171f34e766a89db3859cbe9b8bf",
+      "a028bb4b015c4c7f495b909112fc6d23baaccb12"
+    ],
+    "imageUrl": "/images/articles/89be58af216c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "KDDI, 6500만달러에 코인체크그룹 지분 14.9% 인수",
+        "excerpt": "일본 통신 대기업 KDDI가 6500만달러 규모 거래로 코인체크그룹 지분 14.9%를 인수하고, 제휴를 통해 일본 내 암호화폐 접근성 확대를 추진한다.",
+        "body": "일본 통신 대기업 KDDI가 6500만달러 규모 거래를 통해 코인체크그룹 지분 14.9%를 인수한다. 이번 거래와 함께 양사는 일본 내 암호화폐 접근성을 넓히기 위한 사업 제휴를 체결했다. 제휴 내용은 수익 공유, 추천 수수료, 고객 소개를 포함한다. 코인체크그룹은 암호화폐 서비스와 관련된 고객 접점을 확대할 수 있고, KDDI는 통신 기반 고객망을 활용해 관련 서비스 연결을 강화할 수 있다. 이번 협력은 일본 시장에서 기존 통신 고객과 암호화폐 서비스 간 접점을 넓히는 데 초점이 맞춰졌다. 출처: coindesk.com."
+      },
+      "en": {
+        "title": "KDDI to Buy 14.9% Coincheck Group Stake in $65M Deal",
+        "excerpt": "Japanese telecom giant KDDI will acquire a 14.9% stake in Coincheck Group through a $65 million deal, alongside an alliance to expand crypto access in Japan.",
+        "body": "Japanese telecom giant KDDI will acquire a 14.9% stake in Coincheck Group through a $65 million deal. Alongside the transaction, the companies signed a business alliance aimed at expanding access to crypto services in Japan. The partnership includes revenue sharing, referral fees and customer referrals. Coincheck Group can broaden customer touchpoints for crypto-related services, while KDDI can use its telecom customer base to strengthen links to those services. The cooperation focuses on widening the connection between existing telecom users and crypto services in the Japanese market. Source: coindesk.com."
+      },
+      "ja": {
+        "title": "KDDI、6500万ドルでコインチェックG株14.9%取得へ",
+        "excerpt": "日本の通信大手KDDIは6500万ドル規模の取引でコインチェックグループ株14.9%を取得し、提携により国内の暗号資産アクセス拡大を目指す。",
+        "body": "日本の通信大手KDDIは、6500万ドル規模の取引を通じてコインチェックグループ株14.9%を取得する。今回の取引にあわせ、両社は日本で暗号資産へのアクセスを広げるための業務提携を締結した。提携内容には、収益分配、紹介手数料、顧客紹介が含まれる。コインチェックグループは暗号資産サービスに関する顧客接点を広げることができ、KDDIは通信事業で培った顧客基盤を活用して関連サービスとの連携を強化できる。今回の協力は、日本市場で既存の通信顧客と暗号資産サービスの接点を広げることに焦点を当てている。出典: coindesk.com。"
+      },
+      "zh": {
+        "title": "KDDI将以6500万美元收购Coincheck集团14.9%股权",
+        "excerpt": "日本电信巨头KDDI将通过6500万美元交易收购Coincheck集团14.9%股权，并借业务联盟扩大日本加密货币服务可及性。",
+        "body": "日本电信巨头KDDI将通过一笔6500万美元的交易收购Coincheck集团14.9%的股权。伴随该交易，双方签署了业务联盟协议，目标是在日本扩大加密货币服务的可及性。合作内容包括收入分成、推荐费用和客户推荐。Coincheck集团可扩大其加密货币相关服务的客户触点，KDDI则可利用其电信客户网络，加强与相关服务的连接。此次合作的重点，是在日本市场扩大现有电信用户与加密货币服务之间的接触面。来源: coindesk.com。"
+      },
+      "es": {
+        "title": "KDDI comprará 14,9% de Coincheck Group por 65 millones",
+        "excerpt": "El gigante japonés de telecomunicaciones KDDI adquirirá el 14,9% de Coincheck Group en una operación de 65 millones de dólares para ampliar el acceso cripto en Japón.",
+        "body": "El gigante japonés de telecomunicaciones KDDI adquirirá una participación del 14,9% en Coincheck Group mediante una operación de 65 millones de dólares. Junto con la transacción, las compañías firmaron una alianza comercial orientada a ampliar el acceso a servicios de criptomonedas en Japón. El acuerdo incluye reparto de ingresos, comisiones por referidos y derivación de clientes. Coincheck Group podrá ampliar los puntos de contacto con clientes para servicios relacionados con cripto, mientras KDDI podrá usar su base de clientes de telecomunicaciones para reforzar la conexión con esos servicios. La cooperación se centra en ampliar el vínculo entre usuarios de telecomunicaciones y servicios cripto en el mercado japonés. Fuente: coindesk.com."
+      },
+      "pt": {
+        "title": "KDDI comprará 14,9% da Coincheck Group por US$ 65 mi",
+        "excerpt": "A gigante japonesa de telecomunicações KDDI comprará 14,9% da Coincheck Group em acordo de US$ 65 milhões, com aliança para ampliar o acesso cripto no Japão.",
+        "body": "A gigante japonesa de telecomunicações KDDI comprará uma participação de 14,9% na Coincheck Group por meio de um acordo de US$ 65 milhões. Junto com a transação, as empresas assinaram uma aliança de negócios voltada a ampliar o acesso a serviços de criptomoedas no Japão. A parceria inclui compartilhamento de receitas, taxas de indicação e encaminhamento de clientes. A Coincheck Group poderá ampliar os pontos de contato com clientes para serviços ligados a cripto, enquanto a KDDI poderá usar sua base de clientes de telecomunicações para fortalecer a conexão com esses serviços. A cooperação foca em ampliar o contato entre usuários de telecom e serviços cripto no mercado japonês. Fonte: coindesk.com."
+      },
+      "de": {
+        "title": "KDDI kauft 14,9% an Coincheck Group für 65 Mio. Dollar",
+        "excerpt": "Der japanische Telekomriese KDDI erwirbt für 65 Mio. Dollar 14,9% an Coincheck Group und will per Geschäftsallianz den Zugang zu Krypto in Japan ausbauen.",
+        "body": "Der japanische Telekommunikationsriese KDDI wird über eine Transaktion im Umfang von 65 Millionen Dollar einen Anteil von 14,9% an Coincheck Group erwerben. Parallel dazu unterzeichneten die Unternehmen eine Geschäftsallianz, die den Zugang zu Kryptodiensten in Japan erweitern soll. Die Vereinbarung umfasst Umsatzbeteiligung, Vermittlungsgebühren und Kundenempfehlungen. Coincheck Group kann dadurch Kundenkontaktpunkte für kryptobezogene Dienste ausbauen, während KDDI seine Telekom-Kundenbasis nutzen kann, um Verbindungen zu diesen Diensten zu stärken. Die Kooperation konzentriert sich darauf, im japanischen Markt bestehende Telekomkunden stärker mit Kryptodiensten zu verknüpfen. Quelle: coindesk.com."
+      },
+      "fr": {
+        "title": "KDDI va acheter 14,9% de Coincheck Group pour 65 M$",
+        "excerpt": "Le géant japonais des télécoms KDDI va acquérir 14,9% de Coincheck Group dans une opération de 65 M$, avec une alliance pour élargir l’accès crypto au Japon.",
+        "body": "Le géant japonais des télécommunications KDDI va acquérir une participation de 14,9% dans Coincheck Group dans le cadre d’une opération de 65 millions de dollars. En parallèle, les deux sociétés ont signé une alliance commerciale visant à élargir l’accès aux services de cryptomonnaies au Japon. Le partenariat comprend le partage de revenus, des frais de recommandation et l’orientation de clients. Coincheck Group pourra élargir ses points de contact avec les clients pour les services liés aux cryptos, tandis que KDDI pourra utiliser sa base de clients télécoms pour renforcer les liens avec ces services. La coopération vise à rapprocher les clients télécoms existants des services crypto sur le marché japonais. Source: coindesk.com."
+      },
+      "ar": {
+        "title": "KDDI تستحوذ على 14.9% من Coincheck Group بصفقة 65 مليون دولار",
+        "excerpt": "تعتزم شركة الاتصالات اليابانية KDDI الاستحواذ على 14.9% من Coincheck Group عبر صفقة بقيمة 65 مليون دولار، مع تحالف لتوسيع الوصول إلى العملات المشفرة في اليابان.",
+        "body": "تعتزم شركة الاتصالات اليابانية العملاقة KDDI الاستحواذ على حصة 14.9% في Coincheck Group عبر صفقة بقيمة 65 مليون دولار. وبالتوازي مع الصفقة، وقعت الشركتان تحالفا تجاريا يهدف إلى توسيع الوصول إلى خدمات العملات المشفرة في اليابان. وتشمل الشراكة تقاسم الإيرادات ورسوم الإحالة وإحالات العملاء. ويمكن لـ Coincheck Group توسيع نقاط التواصل مع العملاء في الخدمات المرتبطة بالعملات المشفرة، بينما تستطيع KDDI استخدام قاعدة عملائها في الاتصالات لتعزيز الربط مع هذه الخدمات. ويركز التعاون على توسيع الصلة بين مستخدمي الاتصالات الحاليين وخدمات العملات المشفرة في السوق اليابانية. المصدر: coindesk.com."
+      },
+      "hi": {
+        "title": "KDDI 65 मिलियन डॉलर में Coincheck Group की 14.9% हिस्सेदारी खरीदेगी",
+        "excerpt": "जापान की दूरसंचार दिग्गज KDDI 65 मिलियन डॉलर के सौदे में Coincheck Group की 14.9% हिस्सेदारी खरीदेगी और जापान में क्रिप्टो पहुंच बढ़ाने के लिए साझेदारी करेगी।",
+        "body": "जापान की दूरसंचार दिग्गज KDDI 65 मिलियन डॉलर के सौदे के तहत Coincheck Group में 14.9% हिस्सेदारी खरीदेगी। इस लेनदेन के साथ दोनों कंपनियों ने जापान में क्रिप्टो सेवाओं तक पहुंच बढ़ाने के लिए एक व्यावसायिक गठबंधन पर हस्ताक्षर किए हैं। साझेदारी में राजस्व साझा करना, रेफरल फीस और ग्राहक रेफरल शामिल हैं। Coincheck Group क्रिप्टो से जुड़ी सेवाओं के लिए ग्राहक संपर्क बिंदु बढ़ा सकती है, जबकि KDDI अपने दूरसंचार ग्राहक आधार का उपयोग कर इन सेवाओं से जुड़ाव मजबूत कर सकती है। यह सहयोग जापानी बाजार में मौजूदा दूरसंचार ग्राहकों और क्रिप्टो सेवाओं के बीच संपर्क बढ़ाने पर केंद्रित है। स्रोत: coindesk.com."
+      },
+      "id": {
+        "title": "KDDI Beli 14,9% Saham Coincheck Group Senilai US$65 Juta",
+        "excerpt": "Raksasa telekomunikasi Jepang KDDI akan membeli 14,9% saham Coincheck Group melalui transaksi US$65 juta dan aliansi untuk memperluas akses kripto di Jepang.",
+        "body": "Raksasa telekomunikasi Jepang KDDI akan mengakuisisi 14,9% saham Coincheck Group melalui transaksi senilai US$65 juta. Bersamaan dengan transaksi itu, kedua perusahaan menandatangani aliansi bisnis untuk memperluas akses ke layanan kripto di Jepang. Kemitraan tersebut mencakup pembagian pendapatan, biaya rujukan, dan rujukan pelanggan. Coincheck Group dapat memperluas titik kontak pelanggan untuk layanan terkait kripto, sementara KDDI dapat memanfaatkan basis pelanggan telekomunikasinya untuk memperkuat koneksi ke layanan tersebut. Kerja sama ini berfokus pada perluasan hubungan antara pengguna telekomunikasi yang sudah ada dan layanan kripto di pasar Jepang. Sumber: coindesk.com."
+      }
+    }
+  },
+  {
     "id": "fdf6d74d8ccb",
     "slug": "anthropic-openai-tokens-plunge-as-ai-firms-say-pre-ipo-share-640735",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Saham CleanSpark Turun Usai Rugi Fiskal Kuartal II US$378,3 Juta",
         "excerpt": "Saham CleanSpark turun setelah perusahaan mencatat rugi bersih US$378,3 juta pada kuartal kedua fiskal, lebih dari dua kali tahun lalu, dengan hampir 60% terkait penurunan harga Bitcoin.",
         "body": "Saham CleanSpark turun setelah perusahaan merilis hasil kuartal kedua fiskal. Perusahaan penambangan Bitcoin itu mencatat rugi bersih US$378,3 juta pada periode tersebut, lebih dari dua kali lipat dibandingkan tahun sebelumnya. Hampir 60% kerugian terkait dengan penurunan harga Bitcoin. Sebagai perusahaan penambangan Bitcoin, kinerja CleanSpark sensitif terhadap perubahan aset yang dimiliki dan harga pasar. Angka ini menunjukkan bahwa pelemahan harga Bitcoin memberi tekanan langsung pada laporan keuangan kuartalan perusahaan. Investor memantau pelebaran rugi dan respons harga saham. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "84c4df5af1fc",
-    "slug": "rewardy-wallet-launches-global-multi-chain-swap-campaign-wit-219891",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T21:40:03.808Z",
-    "updatedAt": "2026-05-12T21:40:03.808Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/press-releases/rewardy-wallet-launches-global-multi-chain-swap-campaign-with-incentives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/press-releases/rewardy-wallet-launches-global-multi-chain-swap-campaign-with-incentives",
-    "titleFingerprint": "bd8c3b1badf9ad8d44b2567f636db4985a3975bf",
-    "dedupKeys": [
-      "84c4df5af1fc1ccffe96f2b20bf06f4efa6d41ac",
-      "bd8c3b1badf9ad8d44b2567f636db4985a3975bf",
-      "6cf311c550a0a1ed880fd3e71cdc0579977826e2"
-    ],
-    "imageUrl": "/images/articles/84c4df5af1fc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Rewardy Wallet, 글로벌 멀티체인 스왑 캠페인 시작",
-        "excerpt": "Chainwith의 셀프커스터디 지갑 Rewardy Wallet이 이더리움·BNB Chain·솔라나·앱토스 이용자를 대상으로 2주간 인센티브 캠페인을 진행한다.",
-        "body": "Chainwith의 셀프커스터디 지갑 Rewardy Wallet이 글로벌 멀티체인 스왑 캠페인을 열고 2주간 사용자 활성화에 나선다. 이번 캠페인은 이더리움, BNB Chain, 솔라나, 앱토스 네트워크 이용자를 대상으로 하며, 멀티체인 환경에서 스왑 기능 사용을 유도하는 데 초점을 맞췄다. 보상은 100달러부터 시작하는 상품으로 구성됐다. 셀프커스터디 지갑 시장에서 여러 체인을 지원하는 사용 경험이 중요해지는 가운데, Rewardy Wallet은 인센티브를 통해 초기 참여를 확대하려는 전략을 택했다. 관련 내용은 cointelegraph.com 보도를 인용했다."
-      },
-      "en": {
-        "title": "Rewardy Wallet Starts Global Multi-Chain Swap Campaign",
-        "excerpt": "Chainwith’s self-custody wallet Rewardy Wallet is running a two-week incentive campaign for users on Ethereum, BNB Chain, Solana, and Aptos.",
-        "body": "Chainwith’s self-custody wallet Rewardy Wallet has opened a global multi-chain swap campaign aimed at user activation over two weeks. The campaign targets users across Ethereum, BNB Chain, Solana, and Aptos, focusing on encouraging use of swap functions in a multi-chain environment. Rewards include prizes starting at $100. As support for multiple chains becomes an important part of the self-custody wallet experience, Rewardy Wallet is using incentives to expand early participation. The information is cited from cointelegraph.com."
-      },
-      "ja": {
-        "title": "Rewardy Wallet、グローバルなマルチチェーンスワップ企画を開始",
-        "excerpt": "ChainwithのセルフカストディウォレットRewardy Walletが、Ethereum、BNB Chain、Solana、Aptos利用者向けに2週間のインセンティブ企画を実施する。",
-        "body": "ChainwithのセルフカストディウォレットRewardy Walletは、グローバルなマルチチェーンスワップキャンペーンを開始し、2週間にわたりユーザー活性化を図る。対象はEthereum、BNB Chain、Solana、Aptosの各ネットワーク利用者で、マルチチェーン環境におけるスワップ機能の利用促進に焦点を当てている。報酬は100ドルから始まる賞品で構成される。複数チェーン対応の利用体験がセルフカストディウォレット市場で重要になるなか、Rewardy Walletはインセンティブにより初期参加の拡大を狙う。内容はcointelegraph.comの報道を引用した。"
-      },
-      "zh": {
-        "title": "Rewardy Wallet启动全球多链兑换激励活动",
-        "excerpt": "Chainwith旗下自托管钱包Rewardy Wallet面向以太坊、BNB Chain、Solana和Aptos用户推出为期两周的激励活动。",
-        "body": "Chainwith旗下自托管钱包Rewardy Wallet启动全球多链兑换活动，开展为期两周的用户激活计划。该活动面向以太坊、BNB Chain、Solana和Aptos网络用户，重点鼓励在多链环境中使用兑换功能。奖励包括起步为100美元的奖品。随着支持多条链的使用体验在自托管钱包市场中变得更重要，Rewardy Wallet选择通过激励方式扩大早期参与。相关内容引用自cointelegraph.com报道。"
-      },
-      "es": {
-        "title": "Rewardy Wallet lanza campaña global de swaps multicadena",
-        "excerpt": "La wallet de autocustodia Rewardy Wallet, de Chainwith, activa durante dos semanas incentivos para usuarios de Ethereum, BNB Chain, Solana y Aptos.",
-        "body": "Rewardy Wallet, la wallet de autocustodia de Chainwith, lanzó una campaña global de swaps multicadena para activar usuarios durante dos semanas. La iniciativa está dirigida a usuarios de Ethereum, BNB Chain, Solana y Aptos, con foco en promover el uso de funciones de swap en un entorno multicadena. Las recompensas incluyen premios desde 100 dólares. En un mercado donde la compatibilidad con varias cadenas gana relevancia para las wallets de autocustodia, Rewardy Wallet opta por incentivos para ampliar la participación inicial. La información cita a cointelegraph.com."
-      },
-      "pt": {
-        "title": "Rewardy Wallet inicia campanha global de swap multichain",
-        "excerpt": "A carteira de autocustódia Rewardy Wallet, da Chainwith, promove por duas semanas incentivos para usuários de Ethereum, BNB Chain, Solana e Aptos.",
-        "body": "A carteira de autocustódia Rewardy Wallet, da Chainwith, iniciou uma campanha global de swap multichain voltada à ativação de usuários por duas semanas. A ação mira usuários das redes Ethereum, BNB Chain, Solana e Aptos, com foco em incentivar o uso de funções de swap em um ambiente multichain. As recompensas incluem prêmios a partir de 100 dólares. Enquanto a experiência com suporte a várias blockchains ganha importância no mercado de carteiras de autocustódia, a Rewardy Wallet usa incentivos para ampliar a participação inicial. As informações citam cointelegraph.com."
-      },
-      "de": {
-        "title": "Rewardy Wallet startet globale Multi-Chain-Swap-Kampagne",
-        "excerpt": "Die Self-Custody-Wallet Rewardy Wallet von Chainwith führt zwei Wochen lang Anreize für Nutzer von Ethereum, BNB Chain, Solana und Aptos ein.",
-        "body": "Die Self-Custody-Wallet Rewardy Wallet von Chainwith hat eine globale Multi-Chain-Swap-Kampagne gestartet, um Nutzer über zwei Wochen zu aktivieren. Die Kampagne richtet sich an Nutzer der Netzwerke Ethereum, BNB Chain, Solana und Aptos und soll die Nutzung von Swap-Funktionen in einer Multi-Chain-Umgebung fördern. Die Belohnungen umfassen Preise ab 100 US-Dollar. Da die Unterstützung mehrerer Chains im Markt für Self-Custody-Wallets an Bedeutung gewinnt, setzt Rewardy Wallet auf Anreize, um die frühe Teilnahme auszuweiten. Die Angaben werden unter Berufung auf cointelegraph.com wiedergegeben."
-      },
-      "fr": {
-        "title": "Rewardy Wallet lance une campagne mondiale de swaps multichaînes",
-        "excerpt": "Le wallet en self-custody Rewardy Wallet de Chainwith lance deux semaines d’incitations pour les utilisateurs d’Ethereum, BNB Chain, Solana et Aptos.",
-        "body": "Rewardy Wallet, le wallet en self-custody de Chainwith, a lancé une campagne mondiale de swaps multichaînes destinée à activer les utilisateurs pendant deux semaines. L’opération vise les utilisateurs d’Ethereum, BNB Chain, Solana et Aptos, avec pour objectif d’encourager l’usage des fonctions de swap dans un environnement multichaînes. Les récompenses comprennent des prix à partir de 100 dollars. Alors que la prise en charge de plusieurs blockchains devient un élément important de l’expérience des wallets en self-custody, Rewardy Wallet mise sur des incitations pour élargir la participation initiale. Les informations citent cointelegraph.com."
-      },
-      "ar": {
-        "title": "Rewardy Wallet تطلق حملة مبادلة عالمية متعددة السلاسل",
-        "excerpt": "تطلق محفظة الحفظ الذاتي Rewardy Wallet من Chainwith حملة حوافز لمدة أسبوعين لمستخدمي Ethereum وBNB Chain وSolana وAptos.",
-        "body": "أطلقت محفظة الحفظ الذاتي Rewardy Wallet التابعة لـChainwith حملة مبادلة عالمية متعددة السلاسل لتنشيط المستخدمين على مدى أسبوعين. تستهدف الحملة مستخدمي شبكات Ethereum وBNB Chain وSolana وAptos، وتركز على تشجيع استخدام وظائف المبادلة في بيئة متعددة السلاسل. وتشمل المكافآت جوائز تبدأ من 100 دولار. ومع تزايد أهمية دعم عدة سلاسل في تجربة محافظ الحفظ الذاتي، تعتمد Rewardy Wallet على الحوافز لتوسيع المشاركة المبكرة. تستند المعلومات إلى تقرير cointelegraph.com."
-      },
-      "hi": {
-        "title": "Rewardy Wallet ने वैश्विक मल्टी-चेन स्वैप अभियान शुरू किया",
-        "excerpt": "Chainwith का सेल्फ-कस्टडी वॉलेट Rewardy Wallet Ethereum, BNB Chain, Solana और Aptos उपयोगकर्ताओं के लिए दो सप्ताह का प्रोत्साहन अभियान चला रहा है।",
-        "body": "Chainwith के सेल्फ-कस्टडी वॉलेट Rewardy Wallet ने दो सप्ताह तक उपयोगकर्ता सक्रियता बढ़ाने के लिए वैश्विक मल्टी-चेन स्वैप अभियान शुरू किया है। यह अभियान Ethereum, BNB Chain, Solana और Aptos नेटवर्क के उपयोगकर्ताओं को लक्षित करता है और मल्टी-चेन माहौल में स्वैप फीचर के उपयोग को बढ़ावा देने पर केंद्रित है। पुरस्कारों में 100 डॉलर से शुरू होने वाले इनाम शामिल हैं। सेल्फ-कस्टडी वॉलेट बाजार में कई चेन का समर्थन करने वाला अनुभव महत्वपूर्ण होता जा रहा है, इसलिए Rewardy Wallet शुरुआती भागीदारी बढ़ाने के लिए प्रोत्साहन का उपयोग कर रहा है। जानकारी cointelegraph.com की रिपोर्ट पर आधारित है।"
-      },
-      "id": {
-        "title": "Rewardy Wallet Mulai Kampanye Swap Multichain Global",
-        "excerpt": "Dompet self-custody Rewardy Wallet dari Chainwith menggelar kampanye insentif dua minggu untuk pengguna Ethereum, BNB Chain, Solana, dan Aptos.",
-        "body": "Dompet self-custody Rewardy Wallet dari Chainwith membuka kampanye swap multichain global untuk aktivasi pengguna selama dua minggu. Kampanye ini menyasar pengguna jaringan Ethereum, BNB Chain, Solana, dan Aptos, dengan fokus mendorong penggunaan fitur swap di lingkungan multichain. Hadiah yang ditawarkan dimulai dari 100 dolar AS. Ketika pengalaman yang mendukung banyak chain semakin penting di pasar dompet self-custody, Rewardy Wallet memakai insentif untuk memperluas partisipasi awal. Informasi ini mengutip laporan cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "a1934b2faec4",
-    "slug": "senate-confirms-kevin-warsh-as-federal-reserve-governor-with-761305",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T21:39:15.124Z",
-    "updatedAt": "2026-05-12T21:39:15.124Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate",
-    "titleFingerprint": "5eb9781f9e6a45b9127ea6f0d9ee64b8d7c2da76",
-    "dedupKeys": [
-      "a1934b2faec4c4eb1fdbb9c049564b23a0c5a3d3",
-      "5eb9781f9e6a45b9127ea6f0d9ee64b8d7c2da76",
-      "b228147d904fad32b6dfc778deec9cc808d991e1"
-    ],
-    "imageUrl": "/images/articles/a1934b2faec4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "케빈 워시 연준 이사 인준, 상원 통과 뒤 의장 표결 주목",
-        "excerpt": "미국 상원이 케빈 워시의 연방준비제도 이사회 이사 인준안을 당파적 구도 속에 통과시키며, 중앙은행 독립성 우려와 향후 의장 표결에 관심이 쏠렸다.",
-        "body": "미국 상원은 케빈 워시를 연방준비제도 이사회 이사로 인준하는 안건을 표결로 통과시켰다. 표결은 대체로 정당 노선에 따라 갈렸으며, 다수 민주당 의원들은 중앙은행의 독립성이 훼손될 수 있다는 우려를 제기했다. 이번 인준으로 워시는 연준 이사회 구성원으로 합류하게 됐고, 시장과 정책 관계자들의 관심은 이어질 연준 의장 관련 표결 가능성으로 이동하고 있다. 연준 이사회는 미국 통화정책 결정에 핵심 역할을 하는 기구인 만큼, 인사 변화는 정책 신뢰와 독립성 논의에 직접 연결된다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Kevin Warsh Confirmed as Fed Governor as Senate Eyes Chair Vote",
-        "excerpt": "The US Senate confirmed Kevin Warsh to the Federal Reserve Board of Governors in a largely partisan vote, drawing Democratic concerns over central bank independence.",
-        "body": "The US Senate voted to confirm Kevin Warsh as a member of the Federal Reserve Board of Governors. The vote largely followed party lines, while many Democrats raised concerns that the move could affect the central bank’s independence. With the confirmation complete, Warsh is set to join the Fed’s governing board, and attention now turns to an expected vote related to the Federal Reserve chair. Because the Fed Board plays a central role in US monetary policy, changes in its membership are closely tied to debates over policy credibility and institutional independence. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "ケビン・ウォーシュ氏がFRB理事に承認、議長投票にも注目",
-        "excerpt": "米上院はケビン・ウォーシュ氏のFRB理事就任を党派色の強い採決で承認し、民主党から中央銀行の独立性を懸念する声が上がった。",
-        "body": "米上院は、ケビン・ウォーシュ氏を連邦準備制度理事会の理事に承認する案を採決で可決した。採決はおおむね党派に沿った形となり、多くの民主党議員は中央銀行の独立性が損なわれる可能性に懸念を示した。今回の承認によりウォーシュ氏はFRB理事会の一員となり、市場と政策関係者の関心は今後見込まれるFRB議長関連の投票に移っている。FRB理事会は米国の金融政策決定で中心的な役割を担うため、人事の変化は政策への信頼と独立性を巡る議論に直結する。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "凯文·沃什获参议院确认出任美联储理事，主席投票受关注",
-        "excerpt": "美国参议院以明显党派化的表决确认凯文·沃什进入美联储理事会，许多民主党人担忧央行独立性可能受到影响。",
-        "body": "美国参议院投票确认凯文·沃什出任美联储理事会成员。此次表决大体沿党派立场展开，许多民主党议员对中央银行独立性可能受到影响表示担忧。随着任命获得通过，沃什将加入美联储理事会，市场和政策人士的关注点也转向预期中的美联储主席相关投票。美联储理事会在美国货币政策决策中扮演核心角色，因此人事变化与政策可信度及机构独立性的讨论直接相关。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Kevin Warsh confirmado como gobernador de la Fed; se espera voto por la presidencia",
-        "excerpt": "El Senado de EE. UU. confirmó a Kevin Warsh para la Junta de Gobernadores de la Fed en una votación mayormente partidista, pese a preocupaciones demócratas.",
-        "body": "El Senado de Estados Unidos votó para confirmar a Kevin Warsh como miembro de la Junta de Gobernadores de la Reserva Federal. La votación siguió en gran medida líneas partidistas, mientras muchos demócratas expresaron preocupación por un posible impacto sobre la independencia del banco central. Con la confirmación aprobada, Warsh se incorporará a la junta de la Fed, y la atención se desplaza ahora hacia una esperada votación relacionada con la presidencia de la Reserva Federal. Dado que la junta cumple un papel central en la política monetaria de EE. UU., los cambios de personal se vinculan directamente con la credibilidad política y la independencia institucional. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Kevin Warsh é confirmado como governador do Fed; voto para presidência é aguardado",
-        "excerpt": "O Senado dos EUA confirmou Kevin Warsh para o Conselho de Governadores do Fed em votação amplamente partidária, apesar de preocupações democratas.",
-        "body": "O Senado dos Estados Unidos votou para confirmar Kevin Warsh como membro do Conselho de Governadores do Federal Reserve. A votação seguiu em grande parte linhas partidárias, enquanto muitos democratas levantaram preocupações sobre a independência do banco central. Com a confirmação concluída, Warsh passará a integrar o conselho do Fed, e a atenção de mercados e formuladores de política se volta para uma votação esperada relacionada à presidência do Federal Reserve. Como o conselho tem papel central na política monetária dos EUA, mudanças em sua composição se conectam diretamente ao debate sobre credibilidade e independência institucional. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Kevin Warsh als Fed-Gouverneur bestätigt, Abstimmung zum Vorsitz erwartet",
-        "excerpt": "Der US-Senat bestätigte Kevin Warsh für das Fed-Direktorium in einer weitgehend parteipolitischen Abstimmung, trotz demokratischer Sorgen um Unabhängigkeit.",
-        "body": "Der US-Senat hat Kevin Warsh per Abstimmung als Mitglied des Board of Governors der Federal Reserve bestätigt. Die Abstimmung verlief weitgehend entlang der Parteigrenzen, während viele Demokraten Bedenken äußerten, die Unabhängigkeit der Zentralbank könne beeinträchtigt werden. Mit der Bestätigung wird Warsh dem Führungsgremium der Fed angehören, und die Aufmerksamkeit von Märkten und politischen Beobachtern richtet sich nun auf eine erwartete Abstimmung im Zusammenhang mit dem Fed-Vorsitz. Da das Board eine zentrale Rolle in der US-Geldpolitik spielt, sind personelle Veränderungen eng mit Fragen der Glaubwürdigkeit und institutionellen Unabhängigkeit verbunden. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Kevin Warsh confirmé gouverneur de la Fed, vote sur la présidence attendu",
-        "excerpt": "Le Sénat américain a confirmé Kevin Warsh au Conseil des gouverneurs de la Fed lors d’un vote surtout partisan, malgré les inquiétudes démocrates.",
-        "body": "Le Sénat des États-Unis a voté pour confirmer Kevin Warsh comme membre du Conseil des gouverneurs de la Réserve fédérale. Le vote a largement suivi les lignes partisanes, tandis que de nombreux démocrates ont exprimé des inquiétudes concernant l’indépendance de la banque centrale. Avec cette confirmation, Warsh rejoint l’organe dirigeant de la Fed, et l’attention des marchés comme des responsables politiques se tourne désormais vers un vote attendu lié à la présidence de la Réserve fédérale. Le Conseil jouant un rôle central dans la politique monétaire américaine, tout changement de composition nourrit directement le débat sur la crédibilité et l’indépendance institutionnelle. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "تثبيت كيفن وورش محافظا في الفيدرالي وترقب تصويت رئاسة البنك",
-        "excerpt": "صادق مجلس الشيوخ الأمريكي على تعيين كيفن وورش في مجلس محافظي الاحتياطي الفيدرالي بتصويت غلب عليه الانقسام الحزبي وسط مخاوف ديمقراطية.",
-        "body": "صوّت مجلس الشيوخ الأمريكي لصالح تثبيت كيفن وورش عضوا في مجلس محافظي الاحتياطي الفيدرالي. وجاء التصويت إلى حد كبير وفق خطوط حزبية، بينما عبّر كثير من الديمقراطيين عن مخاوف من تأثير الخطوة على استقلالية البنك المركزي. وبعد إقرار التعيين، سينضم وورش إلى مجلس الفيدرالي، فيما تتجه أنظار الأسواق وصناع السياسات إلى تصويت متوقع يتعلق برئاسة الاحتياطي الفيدرالي. ونظرا إلى أن مجلس المحافظين يؤدي دورا محوريا في تحديد السياسة النقدية الأمريكية، فإن أي تغيير في عضويته يرتبط مباشرة بالنقاش حول مصداقية السياسة واستقلال المؤسسة. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "केविन वार्श फेड गवर्नर बने, चेयर पद पर वोट की उम्मीद बढ़ी",
-        "excerpt": "अमेरिकी सीनेट ने केविन वार्श को फेडरल रिजर्व बोर्ड ऑफ गवर्नर्स में पुष्टि दी, जबकि डेमोक्रेट्स ने केंद्रीय बैंक की स्वतंत्रता पर चिंता जताई।",
-        "body": "अमेरिकी सीनेट ने केविन वार्श को फेडरल रिजर्व के बोर्ड ऑफ गवर्नर्स का सदस्य बनाने के लिए मतदान किया। यह मतदान काफी हद तक दलगत रेखाओं पर हुआ, जबकि कई डेमोक्रेट सांसदों ने केंद्रीय बैंक की स्वतंत्रता पर संभावित असर को लेकर चिंता जताई। पुष्टि पूरी होने के बाद वार्श फेड बोर्ड में शामिल होंगे, और बाजार तथा नीति जगत का ध्यान अब फेडरल रिजर्व चेयर से जुड़े अपेक्षित मतदान पर है। चूंकि फेड बोर्ड अमेरिकी मौद्रिक नीति तय करने में केंद्रीय भूमिका निभाता है, इसलिए इसकी सदस्यता में बदलाव नीति की विश्वसनीयता और संस्थागत स्वतंत्रता की बहस से सीधे जुड़ता है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Kevin Warsh Disahkan Jadi Gubernur Fed, Voting Ketua Kini Dinanti",
-        "excerpt": "Senat AS mengesahkan Kevin Warsh sebagai anggota Dewan Gubernur The Fed dalam voting yang sebagian besar partisan, di tengah kekhawatiran Demokrat.",
-        "body": "Senat Amerika Serikat memilih untuk mengesahkan Kevin Warsh sebagai anggota Dewan Gubernur Federal Reserve. Pemungutan suara tersebut sebagian besar mengikuti garis partai, sementara banyak anggota Partai Demokrat menyuarakan kekhawatiran bahwa langkah ini dapat memengaruhi independensi bank sentral. Dengan pengesahan tersebut, Warsh akan bergabung dengan dewan The Fed, dan perhatian pasar serta pembuat kebijakan kini beralih ke voting yang diperkirakan terkait posisi ketua Federal Reserve. Karena dewan ini berperan penting dalam kebijakan moneter AS, perubahan keanggotaannya berkaitan langsung dengan kepercayaan kebijakan dan independensi institusi. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "22a5894830d0",
-    "slug": "jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-t-354563",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T21:38:16.590Z",
-    "updatedAt": "2026-05-12T21:38:16.591Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
-    "titleFingerprint": "8c293f37cf79accd700c4eef1b5a0b7bad94774d",
-    "dedupKeys": [
-      "22a5894830d0f4f1bd0696b11e3782cec93fee97",
-      "8c293f37cf79accd700c4eef1b5a0b7bad94774d",
-      "c14ae1129c6bcca0e2610b0a9c9ae04a88713087"
-    ],
-    "imageUrl": "/images/articles/22a5894830d0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "JPMorgan 토큰화 펀드 신청, 월가 머니마켓 경쟁 가열",
-        "excerpt": "JPMorgan이 최근 신규 토큰화 펀드 출시를 신청하며 토큰화 머니마켓 상품군 확대에 나섰고, BlackRock의 유사 행보 뒤 월가 경쟁이 빨라지고 있다.",
-        "body": "JPMorgan은 최근 신규 토큰화 펀드 출시를 위한 신청서를 제출하며 토큰화 머니마켓 라인업 확대에 나섰다. 글로벌 은행 대형사가 움직인 시점은 BlackRock이 며칠 전 비슷한 행보를 보인 직후다. 토큰화는 전통 금융 상품을 블록체인 기반 형태로 제공하려는 월가의 주요 경쟁 분야로 부상하고 있다. 이번 신청은 대형 금융사가 머니마켓 상품의 토큰화 범위를 넓히려는 흐름을 보여준다. 다만 원문은 구체적인 출시 일정이나 승인 여부는 전하지 않았다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "JPMorgan Tokenized Fund Filing Heats Up Wall Street Race",
-        "excerpt": "JPMorgan has recently filed to launch a new tokenized fund, expanding its tokenized money market lineup after a similar move by BlackRock just days earlier.",
-        "body": "JPMorgan has recently filed to launch a new tokenized fund as it expands its tokenized money market lineup. The global banking giant’s move follows a similar step by BlackRock only a few days earlier. Tokenization has become a key area of competition on Wall Street as traditional financial firms look to offer money market products in blockchain-based form. The filing highlights the broader push by major institutions to widen tokenized fund offerings. The original report did not provide a specific launch date or approval status. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "JPMorganのトークン化ファンド申請、ウォール街競争が加速",
-        "excerpt": "JPMorganは最近、新たなトークン化ファンドの立ち上げを申請し、BlackRockの類似した動きに続いてトークン化マネーマーケット商品を拡充する。",
-        "body": "JPMorganは最近、新たなトークン化ファンドの立ち上げに向けて申請を行い、トークン化マネーマーケットのラインアップ拡大に動いた。世界的な大手銀行による今回の動きは、BlackRockが数日前に同様の対応を取った直後のものだ。トークン化は、伝統的な金融商品をブロックチェーン基盤で提供しようとするウォール街の主要な競争分野になっている。今回の申請は、大手金融機関がトークン化ファンド商品の範囲を広げようとする流れを示す。原文は具体的な開始日や承認状況には触れていない。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "JPMorgan申请推出代币化基金，华尔街竞赛升温",
-        "excerpt": "JPMorgan近日申请推出新的代币化基金，扩大其代币化货币市场产品线，此前BlackRock刚在数日前采取类似行动。",
-        "body": "JPMorgan近日提交申请，计划推出新的代币化基金，以扩大其代币化货币市场产品线。这家全球银行巨头的行动发生在BlackRock数日前采取类似举措之后。代币化正成为华尔街竞争的重点领域，传统金融机构希望以区块链形式提供货币市场产品。此次申请显示，大型金融机构正在扩大代币化基金产品范围。不过，原文未披露具体推出时间或审批状态。来源: coindesk.com"
-      },
-      "es": {
-        "title": "JPMorgan solicita fondo tokenizado y acelera la carrera en Wall Street",
-        "excerpt": "JPMorgan presentó recientemente una solicitud para lanzar un nuevo fondo tokenizado y ampliar su línea de mercado monetario tokenizado tras un movimiento similar de BlackRock.",
-        "body": "JPMorgan presentó recientemente una solicitud para lanzar un nuevo fondo tokenizado, ampliando su línea de productos de mercado monetario tokenizado. El movimiento del gigante bancario global llega pocos días después de una iniciativa similar de BlackRock. La tokenización se ha convertido en un frente clave de competencia en Wall Street, donde las firmas financieras tradicionales buscan ofrecer productos de mercado monetario en formato basado en blockchain. La solicitud refleja el impulso de las grandes instituciones por ampliar sus fondos tokenizados. El reporte original no detalló fecha de lanzamiento ni estado de aprobación. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "JPMorgan pede fundo tokenizado e acirra disputa em Wall Street",
-        "excerpt": "O JPMorgan apresentou recentemente pedido para lançar um novo fundo tokenizado, ampliando sua linha de mercado monetário tokenizado após movimento semelhante da BlackRock.",
-        "body": "O JPMorgan apresentou recentemente um pedido para lançar um novo fundo tokenizado, ampliando sua linha de produtos de mercado monetário tokenizado. A iniciativa do gigante bancário global ocorre poucos dias depois de um movimento semelhante da BlackRock. A tokenização se tornou uma área central de disputa em Wall Street, com instituições financeiras tradicionais buscando oferecer produtos de mercado monetário em formato baseado em blockchain. O pedido mostra a intenção de grandes instituições de ampliar suas ofertas de fundos tokenizados. O texto original não informou data de lançamento nem status de aprovação. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "JPMorgan beantragt tokenisierten Fonds und verschärft Wall-Street-Rennen",
-        "excerpt": "JPMorgan hat kürzlich die Auflegung eines neuen tokenisierten Fonds beantragt und erweitert damit sein tokenisiertes Geldmarktangebot nach einem ähnlichen Schritt von BlackRock.",
-        "body": "JPMorgan hat kürzlich einen Antrag zur Auflegung eines neuen tokenisierten Fonds gestellt und erweitert damit sein Angebot an tokenisierten Geldmarktprodukten. Der Schritt des globalen Bankriesen folgt nur wenige Tage auf eine ähnliche Initiative von BlackRock. Tokenisierung entwickelt sich an der Wall Street zu einem wichtigen Wettbewerbsfeld, da traditionelle Finanzfirmen Geldmarktprodukte in blockchainbasierter Form anbieten wollen. Der Antrag zeigt den breiteren Vorstoß großer Institute, tokenisierte Fondsangebote auszubauen. Der Originalbericht nannte keinen konkreten Starttermin und keinen Genehmigungsstatus. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "JPMorgan dépose un fonds tokenisé et relance la course à Wall Street",
-        "excerpt": "JPMorgan a récemment déposé une demande pour lancer un nouveau fonds tokenisé, élargissant son offre de marché monétaire tokenisé après une initiative similaire de BlackRock.",
-        "body": "JPMorgan a récemment déposé une demande pour lancer un nouveau fonds tokenisé, afin d’élargir sa gamme de produits de marché monétaire tokenisés. Le mouvement du géant bancaire mondial intervient quelques jours après une démarche similaire de BlackRock. La tokenisation devient un terrain majeur de concurrence à Wall Street, où les acteurs financiers traditionnels cherchent à proposer des produits de marché monétaire sous forme basée sur la blockchain. Cette demande illustre l’élan des grandes institutions vers davantage de fonds tokenisés. Le texte original ne précise ni date de lancement ni statut d’approbation. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "JPMorgan تتقدم لصندوق مرمز جديد وتزيد سباق وول ستريت",
-        "excerpt": "تقدمت JPMorgan مؤخرا بطلب لإطلاق صندوق مرمز جديد، موسعة خط منتجات سوق المال المرمزة بعد خطوة مشابهة من BlackRock قبل أيام قليلة.",
-        "body": "تقدمت JPMorgan مؤخرا بطلب لإطلاق صندوق مرمز جديد، في خطوة توسع بها تشكيلة منتجات سوق المال المرمزة لديها. وتأتي خطوة العملاق المصرفي العالمي بعد أيام قليلة من تحرك مشابه قامت به BlackRock. أصبحت الترمزة مجالا رئيسيا للمنافسة في وول ستريت، إذ تسعى مؤسسات التمويل التقليدية إلى تقديم منتجات سوق المال بصيغة قائمة على البلوك تشين. يعكس هذا الطلب اتجاها أوسع لدى المؤسسات الكبرى لتوسيع عروض الصناديق المرمزة. ولم يذكر النص الأصلي موعد إطلاق محددا أو حالة الموافقة. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "JPMorgan ने टोकनाइज्ड फंड के लिए आवेदन किया, वॉल स्ट्रीट दौड़ तेज",
-        "excerpt": "JPMorgan ने हाल में नया टोकनाइज्ड फंड लॉन्च करने के लिए आवेदन किया, जिससे उसका टोकनाइज्ड मनी मार्केट लाइनअप BlackRock की समान पहल के बाद बढ़ेगा।",
-        "body": "JPMorgan ने हाल में नया टोकनाइज्ड फंड लॉन्च करने के लिए आवेदन दाखिल किया है, जिससे वह अपने टोकनाइज्ड मनी मार्केट उत्पादों की श्रृंखला बढ़ा रहा है। वैश्विक बैंकिंग दिग्गज का यह कदम BlackRock की कुछ दिन पहले हुई समान पहल के बाद आया है। टोकनाइजेशन वॉल स्ट्रीट में प्रतिस्पर्धा का प्रमुख क्षेत्र बन रहा है, क्योंकि पारंपरिक वित्तीय कंपनियां मनी मार्केट उत्पादों को ब्लॉकचेन आधारित रूप में पेश करना चाहती हैं। यह आवेदन बड़े संस्थानों की टोकनाइज्ड फंड पेशकशों को बढ़ाने की प्रवृत्ति दिखाता है। मूल रिपोर्ट में लॉन्च तारीख या मंजूरी की स्थिति नहीं बताई गई। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "JPMorgan Ajukan Dana Tokenisasi Baru, Persaingan Wall Street Memanas",
-        "excerpt": "JPMorgan baru-baru ini mengajukan peluncuran dana tokenisasi baru, memperluas lini pasar uang tokenisasi setelah langkah serupa BlackRock beberapa hari sebelumnya.",
-        "body": "JPMorgan baru-baru ini mengajukan peluncuran dana tokenisasi baru untuk memperluas lini produk pasar uang tokenisasi miliknya. Langkah raksasa perbankan global ini datang hanya beberapa hari setelah BlackRock mengambil langkah serupa. Tokenisasi menjadi area persaingan utama di Wall Street ketika perusahaan keuangan tradisional berupaya menawarkan produk pasar uang dalam bentuk berbasis blockchain. Pengajuan ini menunjukkan dorongan lembaga besar untuk memperluas penawaran dana tokenisasi. Laporan asli tidak menyebutkan tanggal peluncuran atau status persetujuan secara spesifik. Sumber: coindesk.com"
       }
     }
   }
