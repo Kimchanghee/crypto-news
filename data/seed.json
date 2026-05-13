@@ -1,5 +1,230 @@
 [
   {
+    "id": "de989bbf9d47",
+    "slug": "kelp-dao-eyes-unpausing-withdrawals-after-attackers-rseth-on-242614",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T06:05:15.417Z",
+    "updatedAt": "2026-05-13T06:05:15.417Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/kelp-dao-eyes-reopening-withdrawals-as-attackers-rseth-on-arbitrum-is-burned?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/kelp-dao-eyes-reopening-withdrawals-as-attackers-rseth-on-arbitrum-is-burned",
+    "titleFingerprint": "dac2dcf89f99ebcd8b64e5cd593448d6fb9c54c3",
+    "dedupKeys": [
+      "de989bbf9d47764426b4abd1285d6d0cf06bc376",
+      "dac2dcf89f99ebcd8b64e5cd593448d6fb9c54c3",
+      "376980284aa8d5b92a3183038183b9ae262c0ab9"
+    ],
+    "imageUrl": "/images/articles/de989bbf9d47.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Kelp DAO, Arbitrum rsETH 소각 후 출금 재개 준비 본격화",
+        "excerpt": "Kelp DAO는 5월 13일 보도에서 공격자 rsETH를 소각하고 Aave Recovery Guardian 멀티시그를 통한 2주 보충 계획을 제시했다.",
+        "body": "Kelp DAO와 Aave는 Arbitrum에서 공격자의 rsETH 토큰을 소각하며 rsETH 출금 재개를 위한 복구 절차를 진행했다. Cointelegraph에 따르면 Kelp DAO는 화요일 사후 복구 계획을 공개하고, 117,132 rsETH(약 2억7,800만 달러)를 2주에 걸쳐 Aave Recovery Guardian 및 Kelp 복구 세이프에서 LayerZero OFT 어댑터로 보충한다고 밝혔다. Kelp는 메인넷과 레이어2의 rsETH가 항상 완전 담보 상태라고 설명했다. 첫 물량이 스마트계약에 반환된 뒤에는 잠정적으로 24시간 내 출금이 재개되며 예치, 상환, 브리징, 클레임도 정상화될 예정이다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Kelp DAO Moves Toward rsETH Withdrawals After Arbitrum Burn",
+        "excerpt": "Kelp DAO said in a May 13 report it burned the attacker’s rsETH and set a two-week refill plan through Aave’s Recovery Guardian multisig.",
+        "body": "Kelp DAO and Aave have moved ahead with rsETH recovery by burning the attacker’s rsETH tokens on Arbitrum, bringing withdrawals closer to reopening. According to Cointelegraph, Kelp DAO outlined a post-exploit plan on Tuesday to refill 117,132 rsETH, worth about $278 million, over two weeks from Aave Recovery Guardian and Kelp’s recovery safe into the LayerZero OFT adapter. Kelp said rsETH on mainnet and layer-2 networks remains fully backed at all times. After the first tranche returns to the smart contract, withdrawals are tentatively expected to resume within 24 hours, along with deposits, redemptions, bridging and claims. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "Kelp DAO、ArbitrumのrsETH焼却後に出金再開へ前進",
+        "excerpt": "Kelp DAOは5月13日の報道で、攻撃者のrsETHを焼却し、Aave Recovery Guardianマルチシグ経由の2週間補充計画を示した。",
+        "body": "Kelp DAOとAaveは、Arbitrum上の攻撃者のrsETHトークンを焼却し、rsETH出金再開に向けた復旧手続きを進めた。Cointelegraphによると、Kelp DAOは火曜日に事後復旧計画を公表し、117,132 rsETH（約2億7,800万ドル）を2週間かけてAave Recovery GuardianとKelpのリカバリーセーフからLayerZero OFTアダプターへ補充すると説明した。Kelpはメインネットとレイヤー2上のrsETHが常に完全担保だとしている。最初の分割分がスマートコントラクトに戻った後、出金は暫定的に24時間以内に再開し、預入、償還、ブリッジ、請求も通常運用へ戻る見通しだ。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "Kelp DAO在Arbitrum销毁rsETH后推进提款重启",
+        "excerpt": "Kelp DAO在5月13日报道中称，已销毁攻击者rsETH，并提出通过Aave Recovery Guardian多签钱包进行两周补充的计划。",
+        "body": "Kelp DAO与Aave已在Arbitrum上销毁攻击者的rsETH代币，推动rsETH提款恢复流程。Cointelegraph称，Kelp DAO周二公布攻击后的恢复计划，将在两周内把117,132枚rsETH（约2.78亿美元）从Aave Recovery Guardian和Kelp恢复保险库逐步补充至LayerZero OFT适配器。Kelp表示，主网和二层网络上的rsETH始终保持完全抵押。首批资产回到智能合约后，提款暂定在24小时内恢复，存款、赎回、跨链和申领也将恢复正常。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Kelp DAO prepara retiros de rsETH tras quema en Arbitrum",
+        "excerpt": "Kelp DAO dijo en un reporte del 13 de mayo que quemó el rsETH del atacante y presentó un plan de dos semanas con Aave Recovery Guardian.",
+        "body": "Kelp DAO y Aave avanzaron en la recuperación de rsETH al quemar en Arbitrum los tokens rsETH del atacante, acercando la reapertura de retiros. Según Cointelegraph, Kelp DAO presentó el martes un plan posterior al exploit para reponer 117.132 rsETH, valorados en unos 278 millones de dólares, durante dos semanas desde Aave Recovery Guardian y la caja de recuperación de Kelp hacia el adaptador LayerZero OFT. Kelp afirmó que el rsETH en mainnet y redes de capa 2 sigue totalmente respaldado en todo momento. Tras el retorno del primer tramo al contrato inteligente, los retiros podrían reanudarse tentativamente en 24 horas, junto con depósitos, reembolsos, puentes y reclamos. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Kelp DAO avança em saques de rsETH após queima na Arbitrum",
+        "excerpt": "A Kelp DAO informou em reportagem de 13 de maio que queimou o rsETH do atacante e traçou um plano de reposição de duas semanas com a Aave.",
+        "body": "A Kelp DAO e a Aave avançaram na recuperação do rsETH ao queimar, na Arbitrum, os tokens rsETH do atacante, aproximando a reabertura dos saques. Segundo a Cointelegraph, a Kelp DAO apresentou na terça-feira um plano pós-exploit para repor 117.132 rsETH, avaliados em cerca de US$ 278 milhões, ao longo de duas semanas a partir da Aave Recovery Guardian e do cofre de recuperação da Kelp para o adaptador LayerZero OFT. A Kelp afirmou que o rsETH na mainnet e em redes de camada 2 permanece totalmente lastreado em todos os momentos. Após a primeira parcela voltar ao contrato inteligente, os saques devem ser retomados provisoriamente em 24 horas, junto com depósitos, resgates, bridge e claims. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Kelp DAO rückt rsETH-Auszahlungen nach Arbitrum-Burn näher",
+        "excerpt": "Kelp DAO erklärte laut Bericht vom 13. Mai, es habe die rsETH des Angreifers verbrannt und einen zweiwöchigen Auffüllplan über Aave vorgestellt.",
+        "body": "Kelp DAO und Aave haben die Wiederherstellung von rsETH vorangetrieben, indem sie die rsETH-Token des Angreifers auf Arbitrum verbrannten und damit die Wiederaufnahme von Auszahlungen näher rückten. Laut Cointelegraph stellte Kelp DAO am Dienstag einen Plan nach dem Exploit vor, um 117.132 rsETH im Wert von rund 278 Millionen US-Dollar über zwei Wochen aus Aave Recovery Guardian und Kelps Recovery Safe in den LayerZero-OFT-Adapter aufzufüllen. Kelp erklärte, rsETH auf Mainnet und Layer-2-Netzwerken sei jederzeit vollständig gedeckt. Nach Rückführung der ersten Tranche in den Smart Contract sollen Auszahlungen vorläufig binnen 24 Stunden wieder starten, ebenso Einzahlungen, Rücknahmen, Bridging und Claims. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Kelp DAO prépare les retraits rsETH après la brûlure sur Arbitrum",
+        "excerpt": "Kelp DAO a indiqué dans un article du 13 mai avoir brûlé les rsETH de l’attaquant et présenté un plan de réapprovisionnement sur deux semaines avec Aave.",
+        "body": "Kelp DAO et Aave ont avancé dans la récupération de rsETH en brûlant sur Arbitrum les jetons rsETH de l’attaquant, rapprochant la réouverture des retraits. Selon Cointelegraph, Kelp DAO a détaillé mardi un plan post-exploit visant à reconstituer 117 132 rsETH, soit environ 278 millions de dollars, sur deux semaines depuis Aave Recovery Guardian et le coffre de récupération de Kelp vers l’adaptateur LayerZero OFT. Kelp affirme que le rsETH sur le mainnet et les réseaux de couche 2 reste entièrement adossé à tout moment. Après le retour de la première tranche dans le smart contract, les retraits devraient reprendre provisoirement sous 24 heures, avec les dépôts, rachats, ponts et réclamations. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "Kelp DAO تقترب من استئناف سحب rsETH بعد حرقها على Arbitrum",
+        "excerpt": "قالت Kelp DAO في تقرير 13 مايو إنها أحرقت rsETH الخاصة بالمهاجم ووضعت خطة تعبئة لمدة أسبوعين عبر محفظة Aave Recovery Guardian متعددة التوقيع.",
+        "body": "تقدمت Kelp DAO وAave في استعادة rsETH بعد حرق رموز rsETH الخاصة بالمهاجم على شبكة Arbitrum، ما يقرب إعادة فتح السحوبات. وبحسب Cointelegraph، عرضت Kelp DAO يوم الثلاثاء خطة ما بعد الاستغلال لإعادة تعبئة 117,132 rsETH، بقيمة تقارب 278 مليون دولار، خلال أسبوعين من Aave Recovery Guardian وخزنة التعافي الخاصة بـKelp إلى محول LayerZero OFT. وقالت Kelp إن rsETH على الشبكة الرئيسية وشبكات الطبقة الثانية يبقى مدعوما بالكامل في كل وقت. وبعد عودة الدفعة الأولى إلى العقد الذكي، من المتوقع مبدئيا استئناف السحوبات خلال 24 ساعة، مع عودة الإيداعات والاسترداد والجسور والمطالبات. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Kelp DAO Arbitrum पर rsETH बर्न के बाद निकासी बहाली के करीब",
+        "excerpt": "Kelp DAO ने 13 मई की रिपोर्ट में कहा कि उसने हमलावर का rsETH बर्न किया और Aave Recovery Guardian multisig के जरिए दो सप्ताह की रीफिल योजना दी।",
+        "body": "Kelp DAO और Aave ने Arbitrum पर हमलावर के rsETH टोकन बर्न कर rsETH रिकवरी को आगे बढ़ाया, जिससे निकासी फिर खुलने के करीब है। Cointelegraph के अनुसार, Kelp DAO ने मंगलवार को पोस्ट-एक्सप्लॉइट योजना बताई, जिसके तहत 117,132 rsETH, लगभग 278 मिलियन डॉलर, दो सप्ताह में Aave Recovery Guardian और Kelp recovery safe से LayerZero OFT adapter में भरे जाएंगे। Kelp ने कहा कि mainnet और layer-2 नेटवर्क पर rsETH हर समय पूरी तरह backed है। पहली tranche smart contract में लौटने के बाद निकासी अस्थायी रूप से 24 घंटे के भीतर शुरू हो सकती है, और deposits, redemptions, bridging तथा claims भी सामान्य होंगे। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Kelp DAO Siapkan Penarikan rsETH Usai Burn di Arbitrum",
+        "excerpt": "Kelp DAO dalam laporan 13 Mei menyebut telah membakar rsETH milik penyerang dan menyiapkan rencana pengisian dua pekan lewat Aave Recovery Guardian.",
+        "body": "Kelp DAO dan Aave melanjutkan pemulihan rsETH dengan membakar token rsETH milik penyerang di Arbitrum, sehingga pembukaan kembali penarikan semakin dekat. Menurut Cointelegraph, Kelp DAO pada Selasa memaparkan rencana pasca-eksploit untuk mengisi kembali 117.132 rsETH, senilai sekitar 278 juta dolar AS, selama dua pekan dari Aave Recovery Guardian dan recovery safe Kelp ke adaptor LayerZero OFT. Kelp mengatakan rsETH di mainnet dan jaringan layer-2 selalu sepenuhnya didukung. Setelah tranche pertama kembali ke smart contract, penarikan sementara ditargetkan kembali dalam 24 jam, bersama deposit, redemption, bridging, dan claim. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "8750276a7776",
+    "slug": "ethereum-community-launches-security-feature-to-end-blind-si-194033",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T06:04:15.450Z",
+    "updatedAt": "2026-05-13T06:04:15.450Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/ethereum-contributors-launch-security-feature-to-end-blind-signing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/ethereum-contributors-launch-security-feature-to-end-blind-signing",
+    "titleFingerprint": "4376329b90b8dd73752bf541a28d718e87b23c47",
+    "dedupKeys": [
+      "8750276a7776fed3af90c7f75c7227a64cbb8339",
+      "4376329b90b8dd73752bf541a28d718e87b23c47",
+      "f4a8e95f6f5b3fbeced00cc95da58f3091f88983"
+    ],
+    "imageUrl": "/images/articles/8750276a7776.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이더리움 Clear Signing 공개, 블라인드 서명 위험 줄인다",
+        "excerpt": "이더리움 커뮤니티가 2026년 5월 13일 Clear Signing을 공개했다. Ledger·Trezor·MetaMask 등 주요 지갑이 참여해 블라인드 서명 위험을 낮추는 데 초점을 맞췄다.",
+        "body": "이더리움 커뮤니티는 2026년 5월 13일 사용자가 거래 승인 전 내용을 읽고 이해할 수 있도록 돕는 보안 기능 Clear Signing을 공개했다. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot, Fireblocks가 초기 도입자이자 기여자로 참여했다. 이 기능은 읽기 어려운 16진수 데이터를 사람이 이해할 수 있는 거래 설명으로 바꿔 블라인드 서명 공격 위험을 낮추는 것을 목표로 한다. 이더리움 재단은 블라인드 서명을 구조적 결함으로 지적하며, 지난해 14억 달러 규모 Bybit 해킹 등 대규모 손실과 연결됐다고 설명했다. Clear Signing은 Trillion Dollar Security Initiative를 통해 소개됐고, Ledger가 주도한 오픈소스 ERC-7730 표준에서 시작됐다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Ethereum Clear Signing Launch Targets Blind Signing Risks",
+        "excerpt": "The Ethereum community unveiled Clear Signing on May 13, 2026, with Ledger, Trezor, MetaMask and other platforms joining to reduce blind signing risks.",
+        "body": "The Ethereum community introduced Clear Signing on May 13, 2026, a security feature designed to help users read and understand transaction details before approval. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot and Fireblocks are among the earliest adopters and contributors. The feature aims to replace unreadable hexadecimal data with human-readable transaction descriptions and reduce the risk of blind signing attacks. The Ethereum Foundation described blind signing as a structural flaw linked to major losses, including last year’s $1.4 billion Bybit hack. Clear Signing was introduced through the Trillion Dollar Security Initiative and began with the open-source ERC-7730 standard led by Ledger. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "EthereumのClear Signing公開、ブラインド署名リスク低減へ",
+        "excerpt": "Ethereumコミュニティは2026年5月13日、Clear Signingを公開。Ledger、Trezor、MetaMaskなどが参加し、ブラインド署名リスクの低減を目指す。",
+        "body": "Ethereumコミュニティは2026年5月13日、ユーザーが承認前に取引内容を読み取り理解できるようにするセキュリティ機能Clear Signingを公開した。Ledger、Trezor、MetaMask、Keycard、WalletConnect、Argot、Fireblocksが初期導入者および貢献者として参加している。この機能は読みにくい16進データを人間が理解できる取引説明に置き換え、ブラインド署名攻撃のリスクを下げることを目的とする。Ethereum Foundationはブラインド署名を構造的欠陥とし、昨年の14億ドル規模のBybitハッキングなど大きな損失に関係したと説明した。Clear SigningはTrillion Dollar Security Initiativeを通じて紹介され、Ledger主導のオープンソースERC-7730標準から始まった。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "以太坊推出Clear Signing，降低盲签交易风险",
+        "excerpt": "以太坊社区于2026年5月13日推出Clear Signing，Ledger、Trezor、MetaMask等平台参与，旨在降低盲签带来的安全风险。",
+        "body": "以太坊社区于2026年5月13日推出Clear Signing，这是一项帮助用户在批准交易前清楚阅读并理解交易细节的安全功能。Ledger、Trezor、MetaMask、Keycard、WalletConnect、Argot和Fireblocks是最早的采用者和贡献者之一。该功能旨在用人类可读的交易说明取代难以理解的十六进制数据，从而降低盲签攻击风险。以太坊基金会称，盲签是一种结构性缺陷，并与重大损失有关，包括去年14亿美元规模的Bybit黑客事件。Clear Signing通过Trillion Dollar Security Initiative推出，源自Ledger主导的开源ERC-7730标准。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Ethereum lanza Clear Signing para reducir riesgos de firma ciega",
+        "excerpt": "La comunidad de Ethereum presentó Clear Signing el 13 de mayo de 2026, con Ledger, Trezor, MetaMask y otras plataformas para reducir riesgos de firma ciega.",
+        "body": "La comunidad de Ethereum presentó el 13 de mayo de 2026 Clear Signing, una función de seguridad diseñada para que los usuarios puedan leer y entender los detalles de una transacción antes de aprobarla. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot y Fireblocks figuran entre los primeros adoptantes y contribuyentes. La función busca sustituir datos hexadecimales difíciles de leer por descripciones de transacciones comprensibles y reducir el riesgo de ataques de firma ciega. La Ethereum Foundation calificó la firma ciega como una falla estructural vinculada a grandes pérdidas, incluido el hackeo de Bybit de 1.400 millones de dólares del año pasado. Clear Signing se presentó mediante la Trillion Dollar Security Initiative y partió del estándar abierto ERC-7730 liderado por Ledger. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Ethereum lança Clear Signing para reduzir risco de assinatura cega",
+        "excerpt": "A comunidade Ethereum apresentou o Clear Signing em 13 de maio de 2026, com Ledger, Trezor, MetaMask e outras plataformas para reduzir riscos de assinatura cega.",
+        "body": "A comunidade Ethereum apresentou em 13 de maio de 2026 o Clear Signing, um recurso de segurança criado para ajudar usuários a ler e entender detalhes de transações antes da aprovação. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot e Fireblocks estão entre os primeiros adotantes e colaboradores. O recurso busca substituir dados hexadecimais difíceis de ler por descrições de transações compreensíveis e reduzir o risco de ataques de assinatura cega. A Ethereum Foundation descreveu a assinatura cega como uma falha estrutural ligada a grandes perdas, incluindo o hack de US$ 1,4 bilhão da Bybit no ano passado. O Clear Signing foi apresentado pela Trillion Dollar Security Initiative e começou com o padrão aberto ERC-7730 liderado pela Ledger. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Ethereum startet Clear Signing gegen Blind-Signing-Risiken",
+        "excerpt": "Die Ethereum-Community stellte am 13. Mai 2026 Clear Signing vor. Ledger, Trezor, MetaMask und weitere Plattformen wollen damit Blind-Signing-Risiken senken.",
+        "body": "Die Ethereum-Community hat am 13. Mai 2026 Clear Signing vorgestellt, eine Sicherheitsfunktion, mit der Nutzer Transaktionsdetails vor der Freigabe klar lesen und verstehen sollen. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot und Fireblocks gehören zu den ersten Anwendern und Mitwirkenden. Die Funktion soll schwer lesbare Hexadezimaldaten durch verständliche Transaktionsbeschreibungen ersetzen und das Risiko von Blind-Signing-Angriffen verringern. Die Ethereum Foundation bezeichnete Blind Signing als strukturellen Fehler, der mit großen Verlusten verbunden sei, darunter der Bybit-Hack über 1,4 Milliarden US-Dollar im vergangenen Jahr. Clear Signing wurde über die Trillion Dollar Security Initiative vorgestellt und geht auf den von Ledger geführten Open-Source-Standard ERC-7730 zurück. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Ethereum lance Clear Signing pour réduire la signature aveugle",
+        "excerpt": "La communauté Ethereum a présenté Clear Signing le 13 mai 2026, avec Ledger, Trezor, MetaMask et d’autres plateformes pour réduire les risques de signature aveugle.",
+        "body": "La communauté Ethereum a présenté le 13 mai 2026 Clear Signing, une fonction de sécurité destinée à aider les utilisateurs à lire et comprendre les détails d’une transaction avant de l’approuver. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot et Fireblocks figurent parmi les premiers adoptants et contributeurs. Cette fonction vise à remplacer les données hexadécimales difficiles à lire par des descriptions de transactions compréhensibles et à réduire le risque d’attaques par signature aveugle. L’Ethereum Foundation a décrit la signature aveugle comme une faille structurelle liée à des pertes majeures, dont le piratage de Bybit de 1,4 milliard de dollars l’an dernier. Clear Signing a été présenté via la Trillion Dollar Security Initiative et provient du standard open source ERC-7730 mené par Ledger. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "إيثريوم تطلق Clear Signing لتقليل مخاطر التوقيع الأعمى",
+        "excerpt": "قدّم مجتمع إيثريوم في 13 مايو 2026 ميزة Clear Signing، بمشاركة Ledger وTrezor وMetaMask ومنصات أخرى للحد من مخاطر التوقيع الأعمى.",
+        "body": "قدّم مجتمع إيثريوم في 13 مايو 2026 ميزة Clear Signing، وهي خاصية أمنية تساعد المستخدمين على قراءة تفاصيل المعاملة وفهمها قبل الموافقة عليها. وتعد Ledger وTrezor وMetaMask وKeycard وWalletConnect وArgot وFireblocks من أوائل الجهات التي تبنتها وأسهمت فيها. وتهدف الميزة إلى استبدال بيانات سداسية عشرية يصعب قراءتها بأوصاف معاملات مفهومة للبشر، بما يقلل مخاطر هجمات التوقيع الأعمى. ووصفت مؤسسة إيثريوم التوقيع الأعمى بأنه خلل هيكلي ارتبط بخسائر كبيرة، منها اختراق Bybit العام الماضي بقيمة 1.4 مليار دولار. طُرحت Clear Signing عبر Trillion Dollar Security Initiative، وبدأت من معيار ERC-7730 المفتوح المصدر بقيادة Ledger. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Ethereum Clear Signing लॉन्च, ब्लाइंड साइनिंग जोखिम घटाने पर जोर",
+        "excerpt": "Ethereum समुदाय ने 13 मई 2026 को Clear Signing पेश किया। Ledger, Trezor, MetaMask और अन्य प्लेटफॉर्म ब्लाइंड साइनिंग जोखिम घटाने के लिए इसमें शामिल हैं।",
+        "body": "Ethereum समुदाय ने 13 मई 2026 को Clear Signing पेश किया, जो एक सुरक्षा फीचर है ताकि उपयोगकर्ता मंजूरी देने से पहले लेनदेन के विवरण पढ़ और समझ सकें। Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot और Fireblocks इसके शुरुआती अपनाने वालों और योगदानकर्ताओं में शामिल हैं। यह फीचर कठिन हेक्साडेसिमल डेटा की जगह मानव-पठनीय लेनदेन विवरण देने और ब्लाइंड साइनिंग हमलों के जोखिम को कम करने का लक्ष्य रखता है। Ethereum Foundation ने ब्लाइंड साइनिंग को एक संरचनात्मक कमी बताया, जिसे पिछले साल के 1.4 अरब डॉलर के Bybit हैक सहित बड़े नुकसान से जोड़ा गया। Clear Signing को Trillion Dollar Security Initiative के तहत पेश किया गया और इसकी शुरुआत Ledger के नेतृत्व वाले ओपन-सोर्स ERC-7730 मानक से हुई। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Ethereum Rilis Clear Signing untuk Kurangi Risiko Blind Signing",
+        "excerpt": "Komunitas Ethereum meluncurkan Clear Signing pada 13 Mei 2026, dengan Ledger, Trezor, MetaMask dan platform lain untuk menekan risiko blind signing.",
+        "body": "Komunitas Ethereum pada 13 Mei 2026 memperkenalkan Clear Signing, fitur keamanan yang membantu pengguna membaca dan memahami detail transaksi sebelum menyetujuinya. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot dan Fireblocks termasuk pengadopsi awal sekaligus kontributor. Fitur ini bertujuan mengganti data heksadesimal yang sulit dibaca dengan deskripsi transaksi yang dapat dipahami manusia, sehingga menurunkan risiko serangan blind signing. Ethereum Foundation menyebut blind signing sebagai kelemahan struktural yang terkait dengan kerugian besar, termasuk peretasan Bybit senilai 1,4 miliar dolar AS tahun lalu. Clear Signing diperkenalkan melalui Trillion Dollar Security Initiative dan berawal dari standar open-source ERC-7730 yang dipimpin Ledger. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "f552204e1e58",
+    "slug": "cftc-backs-prediction-market-kalshi-in-appeals-court-fight-a-840041",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-13T06:03:14.134Z",
+    "updatedAt": "2026-05-13T06:03:14.134Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/cftc-backs-kalshi-appeals-court-ohio-prediction-markets-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/cftc-backs-kalshi-appeals-court-ohio-prediction-markets-fight",
+    "titleFingerprint": "86817eabb83c0a4e0e0e13692ade35ca2f28b283",
+    "dedupKeys": [
+      "f552204e1e5821c5d9c298be1d637f414a45eefd",
+      "86817eabb83c0a4e0e0e13692ade35ca2f28b283",
+      "323520692a7bde7259cfa4c10f101c74fa4ecd0c"
+    ],
+    "imageUrl": "/images/articles/f552204e1e58.jpg",
+    "i18n": {
+      "ko": {
+        "title": "CFTC, 오하이오 항소전서 칼시 지지…예측시장 관할권 쟁점",
+        "excerpt": "CFTC가 오하이오와 칼시의 항소 법정 다툼에서 제6순회항소법원에 예측시장 관할권이 기관에 있다고 판단해 달라고 촉구했다.",
+        "body": "미국 상품선물거래위원회(CFTC)가 예측시장 플랫폼 칼시와 오하이오 간 항소 법정 다툼에서 칼시 측에 힘을 실었다. CFTC는 제6순회항소법원에 예측시장에 대한 관할권이 해당 기관에 있다는 판단을 내려 달라고 촉구했다. 이번 사안의 핵심은 예측시장을 누가 감독할 수 있는지에 관한 법적 권한이다. 법원이 CFTC의 주장을 받아들이면 예측시장 규제 권한을 둘러싼 기준 설정에 영향을 줄 수 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "CFTC Backs Kalshi in Ohio Appeal as Prediction Market Jurisdiction Looms",
+        "excerpt": "The CFTC urged the Sixth Circuit Court of Appeals to rule that it has jurisdiction over prediction markets in Kalshi’s legal fight with Ohio.",
+        "body": "The US Commodity Futures Trading Commission has supported prediction market platform Kalshi in its appeals court fight against Ohio. The CFTC urged the Sixth Circuit Court of Appeals to rule that the agency has jurisdiction over prediction markets. The core issue is which authority can oversee prediction markets. If the court accepts the CFTC’s position, the decision could affect how regulatory authority over prediction markets is defined. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "CFTC、オハイオ州との控訴審でKalshi支持　予測市場の管轄権が焦点",
+        "excerpt": "CFTCは、Kalshiとオハイオ州の控訴審で、第6巡回控訴裁判所に予測市場の管轄権は同機関にあるとの判断を求めた。",
+        "body": "米商品先物取引委員会（CFTC）は、予測市場プラットフォームKalshiとオハイオ州の控訴審でKalshi側を支持した。CFTCは第6巡回控訴裁判所に対し、予測市場に対する管轄権は同機関にあると判断するよう求めた。争点は、予測市場を誰が監督できるのかという法的権限にある。裁判所がCFTCの主張を認めれば、予測市場規制の権限をめぐる基準づくりに影響する可能性がある。出典：cointelegraph.com"
+      },
+      "zh": {
+        "title": "CFTC在俄亥俄上诉案中支持Kalshi，预测市场管辖权成焦点",
+        "excerpt": "CFTC在Kalshi与俄亥俄州的上诉法院争端中敦促第六巡回上诉法院裁定，该机构对预测市场拥有管辖权。",
+        "body": "美国商品期货交易委员会（CFTC）在预测市场平台Kalshi与俄亥俄州的上诉法院争端中支持Kalshi。CFTC敦促第六巡回上诉法院裁定，该机构对预测市场拥有管辖权。此案核心问题是，谁有法律权力监管预测市场。如果法院采纳CFTC的立场，这一裁决可能影响预测市场监管权如何界定。来源：cointelegraph.com"
+      },
+      "es": {
+        "title": "CFTC respalda a Kalshi en apelación contra Ohio por mercados predictivos",
+        "excerpt": "La CFTC pidió al Tribunal de Apelaciones del Sexto Circuito que determine que la agencia tiene jurisdicción sobre los mercados predictivos.",
+        "body": "La Comisión de Comercio de Futuros de Productos Básicos de Estados Unidos respaldó a la plataforma de mercados predictivos Kalshi en su disputa de apelación contra Ohio. La CFTC instó al Tribunal de Apelaciones del Sexto Circuito a dictaminar que la agencia tiene jurisdicción sobre los mercados predictivos. El punto central es qué autoridad puede supervisar estos mercados. Si el tribunal acepta la postura de la CFTC, la decisión podría influir en cómo se define la autoridad regulatoria sobre los mercados predictivos. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "CFTC apoia Kalshi em recurso contra Ohio sobre mercados preditivos",
+        "excerpt": "A CFTC pediu ao Tribunal de Apelações do Sexto Circuito que decida que a agência tem jurisdição sobre mercados preditivos.",
+        "body": "A Comissão de Negociação de Futuros de Commodities dos Estados Unidos apoiou a plataforma de mercados preditivos Kalshi em sua disputa de apelação contra Ohio. A CFTC pediu ao Tribunal de Apelações do Sexto Circuito que reconheça a jurisdição da agência sobre mercados preditivos. O ponto central é qual autoridade pode supervisionar esses mercados. Se o tribunal aceitar a posição da CFTC, a decisão poderá influenciar a definição da autoridade regulatória sobre mercados preditivos. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "CFTC unterstützt Kalshi im Ohio-Berufungsstreit um Prognosemärkte",
+        "excerpt": "Die CFTC forderte das Berufungsgericht des Sixth Circuit auf, ihre Zuständigkeit für Prognosemärkte im Streit zwischen Kalshi und Ohio anzuerkennen.",
+        "body": "Die US-Behörde Commodity Futures Trading Commission unterstützt die Prognosemarkt-Plattform Kalshi in ihrem Berufungsstreit gegen Ohio. Die CFTC forderte das Berufungsgericht des Sixth Circuit auf, festzustellen, dass die Behörde für Prognosemärkte zuständig ist. Im Kern geht es darum, welche Instanz solche Märkte beaufsichtigen darf. Sollte das Gericht der CFTC folgen, könnte die Entscheidung beeinflussen, wie regulatorische Zuständigkeit für Prognosemärkte definiert wird. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "La CFTC soutient Kalshi en appel contre l’Ohio sur les marchés prédictifs",
+        "excerpt": "La CFTC a demandé à la cour d’appel du sixième circuit de juger que l’agence a compétence sur les marchés prédictifs.",
+        "body": "La Commodity Futures Trading Commission des États-Unis a soutenu la plateforme de marchés prédictifs Kalshi dans son litige en appel contre l’Ohio. La CFTC a demandé à la cour d’appel du sixième circuit de juger que l’agence dispose d’une compétence sur les marchés prédictifs. L’enjeu central est de savoir quelle autorité peut superviser ces marchés. Si la cour accepte la position de la CFTC, la décision pourrait influencer la définition du pouvoir réglementaire sur les marchés prédictifs. Source : cointelegraph.com"
+      },
+      "ar": {
+        "title": "CFTC تدعم Kalshi في استئناف ضد أوهايو حول أسواق التنبؤ",
+        "excerpt": "حثت CFTC محكمة الاستئناف للدائرة السادسة على الحكم بأن الوكالة تملك الولاية على أسواق التنبؤ في نزاع Kalshi مع أوهايو.",
+        "body": "دعمت لجنة تداول السلع الآجلة الأمريكية CFTC منصة أسواق التنبؤ Kalshi في معركتها أمام محكمة الاستئناف ضد ولاية أوهايو. وحثت اللجنة محكمة الاستئناف للدائرة السادسة على الحكم بأن الوكالة تملك الولاية على أسواق التنبؤ. يتمحور النزاع حول الجهة التي تملك السلطة القانونية للإشراف على هذه الأسواق. وإذا قبلت المحكمة موقف CFTC، فقد يؤثر القرار في كيفية تحديد سلطة تنظيم أسواق التنبؤ. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "CFTC ने ओहायो अपील में Kalshi का समर्थन किया, प्रेडिक्शन मार्केट अधिकार क्षेत्र केंद्र में",
+        "excerpt": "CFTC ने Kalshi और ओहायो के अपील विवाद में Sixth Circuit Court से कहा कि प्रेडिक्शन मार्केट पर एजेंसी का अधिकार क्षेत्र माना जाए।",
+        "body": "अमेरिकी कमोडिटी फ्यूचर्स ट्रेडिंग कमिशन ने प्रेडिक्शन मार्केट प्लेटफॉर्म Kalshi और ओहायो के बीच अपील अदालत की लड़ाई में Kalshi का समर्थन किया। CFTC ने Sixth Circuit Court of Appeals से आग्रह किया कि वह प्रेडिक्शन मार्केट पर एजेंसी के अधिकार क्षेत्र को मान्यता दे। मुख्य मुद्दा यह है कि इन बाजारों की निगरानी किस कानूनी प्राधिकरण के पास हो सकती है। यदि अदालत CFTC की दलील स्वीकार करती है, तो यह प्रेडिक्शन मार्केट नियमन की सीमा तय करने पर असर डाल सकता है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "CFTC Dukung Kalshi dalam Banding Ohio soal Yurisdiksi Pasar Prediksi",
+        "excerpt": "CFTC mendesak Pengadilan Banding Sirkuit Keenam memutuskan bahwa lembaga itu memiliki yurisdiksi atas pasar prediksi dalam sengketa Kalshi melawan Ohio.",
+        "body": "Komisi Perdagangan Berjangka Komoditas AS mendukung platform pasar prediksi Kalshi dalam sengketa bandingnya melawan Ohio. CFTC mendesak Pengadilan Banding Sirkuit Keenam untuk memutuskan bahwa lembaga tersebut memiliki yurisdiksi atas pasar prediksi. Inti perkara ini adalah siapa yang memiliki kewenangan hukum untuk mengawasi pasar prediksi. Jika pengadilan menerima posisi CFTC, putusan tersebut dapat memengaruhi penetapan kewenangan regulasi atas pasar prediksi. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "b5bd4883c6a4",
     "slug": "senators-file-over-100-amendments-to-crypto-bill-ahead-of-ma-195298",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "ETF spot XRP serap US$25,8 juta Senin, arus terbesar sejak Januari",
         "excerpt": "Lima dana spot XRP yang tercatat di AS membukukan arus masuk bersih US$25,8 juta pada Senin, terbesar dalam satu hari sejak 5 Januari, sementara ETF spot ether keluar hampir US$17 juta.",
         "body": "Lima ETF spot XRP yang terdaftar di Amerika Serikat mencatat arus masuk bersih gabungan US$25,8 juta pada Senin. Angka itu menjadi arus masuk bersih harian terbesar sejak 5 Januari dan berlawanan dengan ETF spot ether, yang pada hari yang sama mencatat arus keluar hampir US$17 juta. Data ini menunjukkan modal kembali masuk ke produk spot yang terkait XRP. Laporan asli berfokus pada aliran dana, bukan proyeksi harga atau klaim pasar yang lebih luas. Kenaikan arus masuk harian dapat dibaca sebagai tanda minat investor terhadap ETF spot XRP, tetapi masih terbatas untuk menyimpulkan arah pasar secara keseluruhan. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "1d7e9f25860f",
-    "slug": "kraken-parent-franklin-templeton-to-develop-onchain-investme-313208",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T13:55:24.141Z",
-    "updatedAt": "2026-05-12T13:55:24.141Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/12/kraken-parent-franklin-templeton-to-develop-onchain-investment-products",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/12/kraken-parent-franklin-templeton-to-develop-onchain-investment-products",
-    "titleFingerprint": "29c70cc040d6afd7a410d872060e7621b6741e76",
-    "dedupKeys": [
-      "1d7e9f25860f5748b3c9c9d6dc6fb7475dd28c98",
-      "29c70cc040d6afd7a410d872060e7621b6741e76",
-      "cde0774ea7ac0770c0df3018654d3e3275327ac2"
-    ],
-    "imageUrl": "/images/articles/1d7e9f25860f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Kraken 모회사·Franklin Templeton, 온체인 투자상품 개발 협력",
-        "excerpt": "Kraken 모회사와 Franklin Templeton은 온체인 투자상품 개발을 위해 협력하며, 토큰화 수익 상품과 블록체인 기반 펀드, 기관용 크립토 시장에 초점을 맞춘다.",
-        "body": "Kraken 모회사와 Franklin Templeton이 온체인 투자상품 개발을 위해 협력한다. 이번 파트너십은 토큰화 수익 상품, 블록체인 기반 펀드, 기관용 크립토 시장을 중심으로 진행된다. 양사는 전통 금융과 블록체인 인프라가 만나는 영역에서 투자 상품을 설계하는 데 초점을 맞출 예정이다. 이번 협력은 기관 투자자가 접근할 수 있는 크립토 시장과 온체인 금융 상품의 범위를 넓히는 사례로 주목된다. 출처는 coindesk.com이다."
-      },
-      "en": {
-        "title": "Kraken Parent and Franklin Templeton to Build Onchain Investment Products",
-        "excerpt": "Kraken’s parent and Franklin Templeton will collaborate on onchain investment products focused on tokenized yield, blockchain-based funds and institutional crypto markets.",
-        "body": "Kraken’s parent company and Franklin Templeton are partnering to develop onchain investment products. The collaboration will focus on tokenized yield products, blockchain-based funds and institutional crypto markets. The companies plan to work in the area where traditional finance and blockchain infrastructure meet, with an emphasis on designing investment products for that environment. The partnership is being watched as an example of expanding the scope of crypto markets and onchain financial products accessible to institutional investors. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "Kraken親会社とFranklin Templeton、オンチェーン投資商品を開発へ",
-        "excerpt": "Krakenの親会社とFranklin Templetonは、トークン化利回り商品、ブロックチェーン型ファンド、機関投資家向け暗号資産市場に焦点を当てて協力する。",
-        "body": "Krakenの親会社とFranklin Templetonが、オンチェーン投資商品の開発で協力する。今回の提携は、トークン化利回り商品、ブロックチェーンベースのファンド、機関投資家向け暗号資産市場を中心に進められる。両社は、伝統金融とブロックチェーンインフラが交わる領域で投資商品を設計することに重点を置く。今回の協力は、機関投資家がアクセスできる暗号資産市場とオンチェーン金融商品の範囲を広げる事例として注目される。出典はcoindesk.com。"
-      },
-      "zh": {
-        "title": "Kraken母公司与Franklin Templeton将开发链上投资产品",
-        "excerpt": "Kraken母公司与Franklin Templeton将合作开发链上投资产品，重点包括代币化收益产品、区块链基金和机构加密市场。",
-        "body": "Kraken母公司与Franklin Templeton将合作开发链上投资产品。此次合作将聚焦代币化收益产品、基于区块链的基金以及机构加密市场。双方计划在传统金融与区块链基础设施交汇的领域设计投资产品。该合作被视为扩大机构投资者可接触的加密市场和链上金融产品范围的一个案例。消息来源为coindesk.com。"
-      },
-      "es": {
-        "title": "Kraken y Franklin Templeton desarrollarán productos de inversión onchain",
-        "excerpt": "La matriz de Kraken y Franklin Templeton colaborarán en productos de inversión onchain centrados en rendimientos tokenizados, fondos blockchain y mercados cripto institucionales.",
-        "body": "La empresa matriz de Kraken y Franklin Templeton colaborarán para desarrollar productos de inversión onchain. La alianza se centrará en productos de rendimiento tokenizados, fondos basados en blockchain y mercados cripto institucionales. Ambas compañías enfocarán su trabajo en el punto de encuentro entre las finanzas tradicionales y la infraestructura blockchain, con el objetivo de diseñar productos de inversión para ese entorno. La cooperación destaca como un caso de ampliación del alcance de los mercados cripto y los productos financieros onchain accesibles para inversores institucionales. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Kraken e Franklin Templeton vão criar produtos de investimento onchain",
-        "excerpt": "A controladora da Kraken e a Franklin Templeton vão colaborar em produtos de investimento onchain, com foco em rendimentos tokenizados, fundos em blockchain e mercados cripto institucionais.",
-        "body": "A empresa controladora da Kraken e a Franklin Templeton firmaram parceria para desenvolver produtos de investimento onchain. A colaboração terá foco em produtos de rendimento tokenizados, fundos baseados em blockchain e mercados cripto institucionais. As companhias pretendem atuar na área em que as finanças tradicionais se encontram com a infraestrutura blockchain, concentrando-se no desenho de produtos de investimento para esse ambiente. A iniciativa é observada como um exemplo de ampliação do alcance dos mercados cripto e dos produtos financeiros onchain disponíveis a investidores institucionais. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Kraken-Mutter und Franklin Templeton planen Onchain-Anlageprodukte",
-        "excerpt": "Die Kraken-Mutter und Franklin Templeton arbeiten an Onchain-Anlageprodukten mit Fokus auf tokenisierte Renditen, blockchainbasierte Fonds und institutionelle Kryptomärkte.",
-        "body": "Die Muttergesellschaft von Kraken und Franklin Templeton arbeiten zusammen, um Onchain-Anlageprodukte zu entwickeln. Die Partnerschaft konzentriert sich auf tokenisierte Renditeprodukte, blockchainbasierte Fonds und institutionelle Kryptomärkte. Beide Unternehmen wollen in dem Bereich arbeiten, in dem traditionelle Finanzmärkte und Blockchain-Infrastruktur aufeinandertreffen, und dort Anlageprodukte gestalten. Die Kooperation gilt als Beispiel dafür, wie der Zugang institutioneller Anleger zu Kryptomärkten und Onchain-Finanzprodukten erweitert werden kann. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Kraken et Franklin Templeton vont développer des produits d’investissement onchain",
-        "excerpt": "La maison mère de Kraken et Franklin Templeton vont collaborer sur des produits d’investissement onchain axés sur le rendement tokenisé, les fonds blockchain et les marchés crypto institutionnels.",
-        "body": "La société mère de Kraken et Franklin Templeton s’associent pour développer des produits d’investissement onchain. Le partenariat portera sur des produits de rendement tokenisés, des fonds basés sur la blockchain et les marchés crypto institutionnels. Les deux entreprises comptent travailler dans la zone de rencontre entre la finance traditionnelle et l’infrastructure blockchain, avec l’objectif de concevoir des produits d’investissement adaptés à cet environnement. Cette coopération illustre l’élargissement du champ des marchés crypto et des produits financiers onchain accessibles aux investisseurs institutionnels. Source : coindesk.com."
-      },
-      "ar": {
-        "title": "الشركة الأم لـKraken وFranklin Templeton تطوران منتجات استثمارية على السلسلة",
-        "excerpt": "تتعاون الشركة الأم لـKraken مع Franklin Templeton لتطوير منتجات استثمارية على السلسلة تركز على عوائد مرمزة وصناديق قائمة على البلوكشين وأسواق كريبتو مؤسسية.",
-        "body": "تتعاون الشركة الأم لـKraken مع Franklin Templeton لتطوير منتجات استثمارية على السلسلة. وتركز الشراكة على منتجات عوائد مرمزة، وصناديق قائمة على البلوكشين، وأسواق كريبتو موجهة للمؤسسات. ومن المقرر أن تعمل الشركتان في المجال الذي تلتقي فيه المالية التقليدية مع بنية البلوكشين، مع التركيز على تصميم منتجات استثمارية لهذا السياق. وتبرز هذه الخطوة كحالة توسع نطاق أسواق الكريبتو والمنتجات المالية على السلسلة المتاحة للمستثمرين المؤسسيين. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "Kraken पैरेंट और Franklin Templeton ऑनचेन निवेश उत्पाद विकसित करेंगे",
-        "excerpt": "Kraken की पैरेंट कंपनी और Franklin Templeton ऑनचेन निवेश उत्पादों पर सहयोग करेंगे, जिनका फोकस टोकनाइज्ड यील्ड, ब्लॉकचेन फंड और संस्थागत क्रिप्टो बाजारों पर होगा।",
-        "body": "Kraken की पैरेंट कंपनी और Franklin Templeton ऑनचेन निवेश उत्पाद विकसित करने के लिए सहयोग कर रहे हैं। यह साझेदारी टोकनाइज्ड यील्ड उत्पादों, ब्लॉकचेन-आधारित फंडों और संस्थागत क्रिप्टो बाजारों पर केंद्रित होगी। दोनों कंपनियां उस क्षेत्र में निवेश उत्पादों की रूपरेखा पर ध्यान देंगी जहां पारंपरिक वित्त और ब्लॉकचेन इन्फ्रास्ट्रक्चर मिलते हैं। यह सहयोग संस्थागत निवेशकों के लिए उपलब्ध क्रिप्टो बाजारों और ऑनचेन वित्तीय उत्पादों के दायरे को बढ़ाने के उदाहरण के रूप में देखा जा रहा है। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Induk Kraken dan Franklin Templeton Garap Produk Investasi Onchain",
-        "excerpt": "Induk Kraken dan Franklin Templeton akan berkolaborasi mengembangkan produk investasi onchain yang berfokus pada imbal hasil tokenisasi, dana berbasis blockchain, dan pasar kripto institusional.",
-        "body": "Perusahaan induk Kraken dan Franklin Templeton bekerja sama untuk mengembangkan produk investasi onchain. Kemitraan ini akan berfokus pada produk imbal hasil yang ditokenisasi, dana berbasis blockchain, dan pasar kripto institusional. Kedua perusahaan akan menitikberatkan kerja mereka pada area pertemuan antara keuangan tradisional dan infrastruktur blockchain, terutama dalam perancangan produk investasi untuk lingkungan tersebut. Kolaborasi ini menjadi contoh perluasan cakupan pasar kripto dan produk keuangan onchain yang dapat diakses investor institusional. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "2557d31c33a2",
-    "slug": "ebay-rejects-gamestops-56-billion-bid-putting-bitcoin-exposu-877641",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T13:53:45.586Z",
-    "updatedAt": "2026-05-12T13:53:45.586Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/12/ebay-rejects-gamestop-s-usd56-billion-bid-putting-bitcoin-exposure-back-in-focus",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/12/ebay-rejects-gamestop-s-usd56-billion-bid-putting-bitcoin-exposure-back-in-focus",
-    "titleFingerprint": "f7643669a5ab3d736d44157175bc0cef954f36be",
-    "dedupKeys": [
-      "2557d31c33a2c57b84259601f46650ad32d8c521",
-      "f7643669a5ab3d736d44157175bc0cef954f36be",
-      "243b090777358f519d254334553071f5a381488f"
-    ],
-    "imageUrl": "/images/articles/2557d31c33a2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이베이, 게임스톱 560억달러 인수 제안 거절…비트코인 노출 재부각",
-        "excerpt": "이베이 이사회는 화요일 게임스톱의 현금·주식 절반씩 구성된 560억달러 인수 제안을 “신뢰할 수도 매력적이지도 않다”며 거절했다.",
-        "body": "이베이 이사회가 화요일 게임스톱이 제시한 560억달러 규모 인수 제안을 거절했다. 제안은 현금과 주식을 절반씩 섞은 형태였지만, 이베이 측은 이를 “신뢰할 수도 매력적이지도 않다”고 평가했다. 이번 결정으로 온라인 마켓플레이스 이베이를 둘러싼 거래 가능성은 일단 후퇴했지만, 원문 제목이 지적한 대로 게임스톱과 연결된 비트코인 노출 이슈는 다시 시장의 관심사로 떠올랐다. 향후 초점은 게임스톱의 제안 신뢰도와 이베이 이사회의 판단이 관련 기업 및 비트코인 노출 논의에 어떤 영향을 줄지에 맞춰질 전망이다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "EBay Rejects GameStop’s $56B Bid as Bitcoin Exposure Returns to Focus",
-        "excerpt": "EBay’s board on Tuesday rejected GameStop’s $56 billion half-cash, half-stock takeover offer, calling it neither credible nor attractive.",
-        "body": "EBay’s board rejected GameStop’s $56 billion takeover bid on Tuesday. The proposal was structured as half cash and half stock, but eBay said it was “neither credible nor attractive.” The decision puts the potential deal involving the online marketplace on hold for now, while the bitcoin exposure highlighted in the original report’s headline returns to market attention. The next focus will be how investors assess GameStop’s offer, eBay’s board judgment and the renewed discussion around bitcoin exposure tied to the companies. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "イーベイ、ゲームストップの560億ドル提案を拒否 ビットコイン露出に再注目",
-        "excerpt": "イーベイ取締役会は火曜日、現金と株式を半分ずつ組み合わせたゲームストップの560億ドル買収提案を「信頼性も魅力もない」として拒否した。",
-        "body": "イーベイ取締役会は火曜日、ゲームストップが提示した560億ドル規模の買収提案を拒否した。提案は現金と株式を半分ずつ組み合わせた内容だったが、イーベイ側はこれを「信頼性も魅力もない」と評価した。これによりオンラインマーケットプレイスを巡る取引の可能性はいったん後退した一方、原文タイトルが示す通り、ゲームストップに関連するビットコイン露出の問題は再び市場の焦点となった。今後は提案の信頼性とイーベイ取締役会の判断が、関連企業やビットコイン露出の議論にどう影響するかが注目される。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "eBay拒绝GameStop 560亿美元收购提议，比特币敞口再受关注",
-        "excerpt": "eBay董事会周二拒绝GameStop以现金和股票各半组成的560亿美元收购报价，称该提议“既不可信，也没有吸引力”。",
-        "body": "eBay董事会周二拒绝了GameStop提出的560亿美元收购提议。该方案由一半现金和一半股票组成，但eBay方面认为其“既不可信，也没有吸引力”。这一决定意味着围绕这家在线市场平台的潜在交易暂时降温，不过正如原文标题所指出，与GameStop相关的比特币敞口问题重新回到市场视野。接下来，市场关注点将放在GameStop报价的可信度、eBay董事会的判断，以及这些因素会如何影响相关公司和比特币敞口讨论。来源: coindesk.com."
-      },
-      "es": {
-        "title": "EBay rechaza oferta de GameStop por US$56.000 millones y vuelve el foco bitcoin",
-        "excerpt": "El consejo de eBay rechazó el martes la oferta de GameStop por US$56.000 millones, mitad efectivo y mitad acciones, al verla ni creíble ni atractiva.",
-        "body": "El consejo de eBay rechazó el martes la propuesta de adquisición de GameStop por US$56.000 millones. La oferta estaba compuesta en partes iguales por efectivo y acciones, pero eBay la calificó como “ni creíble ni atractiva”. La decisión deja por ahora en pausa la posibilidad de una operación sobre el mercado en línea, mientras que la exposición a bitcoin mencionada en el titular original vuelve a quedar bajo atención del mercado. El foco estará en cómo se evalúan la credibilidad de la oferta de GameStop, el criterio del consejo de eBay y el impacto sobre el debate de exposición a bitcoin. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "EBay rejeita oferta de US$56 bi da GameStop e exposição ao bitcoin volta ao foco",
-        "excerpt": "O conselho da eBay rejeitou na terça-feira a proposta de US$56 bilhões da GameStop, metade em dinheiro e metade em ações, por vê-la como nem crível nem atraente.",
-        "body": "O conselho da eBay rejeitou na terça-feira a proposta de aquisição de US$56 bilhões apresentada pela GameStop. A oferta combinava dinheiro e ações em partes iguais, mas a eBay avaliou que ela não era “nem crível nem atraente”. Com isso, a possibilidade de uma transação envolvendo o marketplace online fica por ora reduzida, enquanto a exposição ao bitcoin destacada no título original volta ao centro das atenções do mercado. O foco agora será como a credibilidade da oferta da GameStop e a decisão do conselho da eBay influenciam as empresas relacionadas e a discussão sobre exposição ao bitcoin. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "EBay lehnt GameStops 56-Mrd.-Dollar-Angebot ab, Bitcoin-Exposure rückt in Fokus",
-        "excerpt": "Der eBay-Verwaltungsrat wies am Dienstag GameStops 56-Mrd.-Dollar-Angebot aus halb Bargeld, halb Aktien zurück und nannte es weder glaubwürdig noch attraktiv.",
-        "body": "Der Verwaltungsrat von eBay hat am Dienstag das Übernahmeangebot von GameStop über 56 Milliarden Dollar abgelehnt. Die Offerte bestand je zur Hälfte aus Bargeld und Aktien, wurde von eBay jedoch als „weder glaubwürdig noch attraktiv“ eingestuft. Damit rückt eine mögliche Transaktion rund um den Online-Marktplatz vorerst in den Hintergrund, während das im Originaltitel genannte Bitcoin-Exposure wieder stärker beachtet wird. Im Mittelpunkt steht nun, wie Marktteilnehmer die Glaubwürdigkeit von GameStops Angebot, die Entscheidung des eBay-Verwaltungsrats und deren Bedeutung für die Diskussion über Bitcoin-Exposure bewerten. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "EBay refuse l’offre de 56 Md$ de GameStop, l’exposition au bitcoin revient au centre",
-        "excerpt": "Le conseil d’eBay a rejeté mardi l’offre de GameStop à 56 milliards de dollars, moitié cash moitié actions, la jugeant ni crédible ni attractive.",
-        "body": "Le conseil d’administration d’eBay a rejeté mardi l’offre d’acquisition de GameStop d’un montant de 56 milliards de dollars. La proposition était composée pour moitié de numéraire et pour moitié d’actions, mais eBay l’a jugée « ni crédible ni attractive ». Cette décision met pour l’instant en retrait la perspective d’une opération autour de la place de marché en ligne, tandis que l’exposition au bitcoin mentionnée dans le titre original revient dans l’attention du marché. Les prochains regards porteront sur la crédibilité de l’offre de GameStop, le jugement du conseil d’eBay et leurs effets sur le débat lié à l’exposition au bitcoin. Source : coindesk.com."
-      },
-      "ar": {
-        "title": "إيباي ترفض عرض GameStop بقيمة 56 مليار دولار وملف التعرض للبيتكوين يعود للواجهة",
-        "excerpt": "رفض مجلس إدارة إيباي الثلاثاء عرض GameStop البالغ 56 مليار دولار، والمكوّن من نصف نقد ونصف أسهم، واعتبره غير موثوق وغير جذاب.",
-        "body": "رفض مجلس إدارة إيباي يوم الثلاثاء عرض الاستحواذ الذي قدمته GameStop بقيمة 56 مليار دولار. وكان العرض مكوّنا من نصف نقد ونصف أسهم، لكن إيباي وصفته بأنه “غير موثوق وغير جذاب”. وبذلك تتراجع في الوقت الحالي احتمالات الصفقة المتعلقة بسوق إيباي الإلكتروني، بينما يعود موضوع التعرض للبيتكوين، كما أشار عنوان النص الأصلي، إلى دائرة اهتمام السوق. وسينصب التركيز لاحقا على كيفية تقييم موثوقية عرض GameStop وقرار مجلس إدارة إيباي، وما قد يعنيه ذلك للنقاش المرتبط بالشركات المعنية والتعرض للبيتكوين. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "EBay ने GameStop की 56 अरब डॉलर बोली ठुकराई, बिटकॉइन एक्सपोजर फिर फोकस में",
-        "excerpt": "ईबे बोर्ड ने मंगलवार को GameStop की 56 अरब डॉलर की आधी नकद, आधी शेयर आधारित पेशकश को न विश्वसनीय और न आकर्षक बताते हुए खारिज कर दिया।",
-        "body": "ईबे के बोर्ड ने मंगलवार को GameStop की 56 अरब डॉलर की अधिग्रहण पेशकश ठुकरा दी। यह प्रस्ताव आधा नकद और आधा शेयर के रूप में था, लेकिन ईबे ने इसे “न तो विश्वसनीय और न ही आकर्षक” बताया। इस फैसले से ऑनलाइन मार्केटप्लेस ईबे से जुड़ी संभावित डील फिलहाल पीछे जाती दिखती है, जबकि मूल शीर्षक में बताए गए GameStop से जुड़े बिटकॉइन एक्सपोजर का मुद्दा फिर बाजार के ध्यान में आ गया है। आगे ध्यान इस बात पर रहेगा कि GameStop की पेशकश की विश्वसनीयता और ईबे बोर्ड का फैसला संबंधित कंपनियों तथा बिटकॉइन एक्सपोजर की चर्चा को कैसे प्रभावित करता है। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "EBay Tolak Tawaran GameStop US$56 Miliar, Eksposur Bitcoin Kembali Disorot",
-        "excerpt": "Dewan eBay pada Selasa menolak tawaran GameStop senilai US$56 miliar, setengah tunai dan setengah saham, karena dinilai tidak kredibel dan tidak menarik.",
-        "body": "Dewan eBay pada Selasa menolak tawaran akuisisi GameStop senilai US$56 miliar. Proposal itu disusun dengan komposisi setengah tunai dan setengah saham, tetapi eBay menilainya “tidak kredibel maupun menarik.” Keputusan ini membuat peluang transaksi atas marketplace online tersebut sementara mereda, sementara isu eksposur bitcoin yang disebut dalam judul asli kembali menjadi perhatian pasar. Fokus berikutnya adalah bagaimana kredibilitas tawaran GameStop dan penilaian dewan eBay memengaruhi perusahaan terkait serta pembahasan mengenai eksposur bitcoin. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "9982d765f1ca",
-    "slug": "frances-central-banker-beau-clashes-with-lagarde-over-privat-720008",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-12T13:51:58.972Z",
-    "updatedAt": "2026-05-12T13:51:58.973Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/12/france-s-central-banker-beau-breaks-with-ecb-s-lagarde-calls-for-private-tokenized-euro-mobilization",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/12/france-s-central-banker-beau-breaks-with-ecb-s-lagarde-calls-for-private-tokenized-euro-mobilization",
-    "titleFingerprint": "6d8235f01ec549283ee13aa7c161f040781f9d89",
-    "dedupKeys": [
-      "9982d765f1caab665f062aa6b94406bd42d97d50",
-      "6d8235f01ec549283ee13aa7c161f040781f9d89",
-      "083015e23353317917fae7df0bbe68704aaca64d"
-    ],
-    "imageUrl": "/images/articles/9982d765f1ca.jpg",
-    "i18n": {
-      "ko": {
-        "title": "디지털 유로 논쟁 격화, 프랑스 중앙은행 보 부총재와 라가르드 충돌",
-        "excerpt": "프랑스 중앙은행 보 부총재는 코인데스크에 유럽의 공공·민간 주체가 디지털 자산 개발에 참여해야 한다고 밝혀 라가르드 입장과 차이를 보였다.",
-        "body": "프랑스 중앙은행 부총재 보가 디지털 유로와 디지털 자산 개발 방향을 두고 크리스틴 라가르드 유럽중앙은행 총재의 견해와 뚜렷하게 엇갈렸다. 그는 코인데스크 인터뷰에서 유럽의 공공 기관뿐 아니라 민간 기업도 디지털 자산 개발에 참여해야 한다고 말했다. 이는 민간 디지털 유로 계획에 신중한 라가르드의 입장과 대비된다. 이번 발언은 유럽 내 디지털 화폐 주도권과 민간 부문의 역할을 둘러싼 논쟁을 다시 부각시켰다. 향후 관련 논의는 공공 통제와 민간 혁신의 균형을 어떻게 잡을지에 초점이 맞춰질 전망이다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Digital Euro Debate Deepens as France’s Beau Clashes With Lagarde",
-        "excerpt": "France’s central bank deputy governor told CoinDesk that public and private European players must join digital asset development, diverging from Lagarde’s view.",
-        "body": "France’s central bank deputy governor Beau has taken a sharply different position from European Central Bank President Christine Lagarde on the direction of the digital euro and digital asset development. In an interview with CoinDesk, he said not only public European institutions but also private entities need to be involved in building digital assets. The remarks contrast with Lagarde’s more cautious stance toward private digital euro plans. The comments put renewed attention on Europe’s debate over digital currency leadership and the role of the private sector. Further discussion is likely to focus on how Europe balances public oversight with private innovation. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "デジタルユーロ論争、仏中銀ボー副総裁がラガルド氏と対立",
-        "excerpt": "フランス中銀のボー副総裁はCoinDeskに対し、欧州の公的・民間主体がデジタル資産開発に関与すべきだと述べ、ラガルド氏と立場の違いを示した。",
-        "body": "フランス中央銀行のボー副総裁は、デジタルユーロとデジタル資産開発の方向性をめぐり、欧州中央銀行のクリスティーヌ・ラガルド総裁と明確に異なる見解を示した。ボー氏はCoinDeskのインタビューで、欧州の公的機関だけでなく民間主体もデジタル資産開発に参加する必要があると語った。これは民間のデジタルユーロ計画に慎重なラガルド氏の姿勢と対照的だ。今回の発言は、欧州におけるデジタル通貨の主導権と民間部門の役割をめぐる議論を改めて浮き彫りにした。今後は公的管理と民間イノベーションの均衡が焦点となる。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "数字欧元争议升温，法国央行副行长Beau与拉加德分歧明显",
-        "excerpt": "法国央行副行长Beau向CoinDesk表示，欧洲公共和私人机构都应参与数字资产开发，这与拉加德的立场形成明显差异。",
-        "body": "法国央行副行长Beau在数字欧元和数字资产发展方向上，与欧洲央行行长克里斯蒂娜·拉加德表现出明显分歧。他在接受CoinDesk采访时表示，欧洲不仅需要公共机构参与，也需要私人实体参与数字资产开发。该表态与拉加德对私人数字欧元计划更为谨慎的立场形成对比。此番言论再次凸显欧洲围绕数字货币主导权以及私营部门角色的讨论。接下来，相关争议预计将集中在如何平衡公共监管与私人创新。来源: coindesk.com"
-      },
-      "es": {
-        "title": "El debate del euro digital crece: Beau choca con Lagarde en Francia",
-        "excerpt": "El subgobernador del banco central francés dijo a CoinDesk que actores públicos y privados europeos deben participar en activos digitales, marcando distancia con Lagarde.",
-        "body": "El subgobernador del banco central francés, Beau, mostró una posición claramente distinta a la de Christine Lagarde, presidenta del Banco Central Europeo, sobre el rumbo del euro digital y el desarrollo de activos digitales. En una entrevista con CoinDesk, afirmó que no solo las instituciones públicas europeas, sino también las entidades privadas, deben participar en el desarrollo de estos activos. Sus comentarios contrastan con la postura más cautelosa de Lagarde frente a los planes privados de euro digital. La declaración reaviva el debate en Europa sobre el liderazgo en moneda digital y el papel del sector privado. La discusión seguirá centrada en equilibrar supervisión pública e innovación privada. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Debate do euro digital avança: Beau diverge de Lagarde na França",
-        "excerpt": "O vice-governador do banco central francês disse à CoinDesk que entidades públicas e privadas europeias devem participar do desenvolvimento de ativos digitais.",
-        "body": "O vice-governador do banco central da França, Beau, adotou uma posição claramente diferente da presidente do Banco Central Europeu, Christine Lagarde, sobre o rumo do euro digital e do desenvolvimento de ativos digitais. Em entrevista à CoinDesk, ele afirmou que não apenas instituições públicas europeias, mas também entidades privadas, precisam participar da criação de ativos digitais. A fala contrasta com a postura mais cautelosa de Lagarde em relação a planos privados de euro digital. O comentário recoloca em evidência o debate europeu sobre liderança em moeda digital e o papel do setor privado. As próximas discussões devem se concentrar no equilíbrio entre controle público e inovação privada. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Digitaler Euro im Streit: Frankreichs Beau widerspricht Lagarde deutlich",
-        "excerpt": "Frankreichs stellvertretender Notenbankchef sagte CoinDesk, öffentliche und private Akteure in Europa müssten an digitalen Vermögenswerten mitwirken.",
-        "body": "Der stellvertretende Gouverneur der französischen Zentralbank, Beau, hat zur Ausrichtung des digitalen Euro und der Entwicklung digitaler Vermögenswerte eine deutlich andere Position als EZB-Präsidentin Christine Lagarde eingenommen. In einem Interview mit CoinDesk sagte er, nicht nur öffentliche europäische Institutionen, sondern auch private Akteure müssten an der Entwicklung digitaler Assets beteiligt sein. Das steht im Kontrast zu Lagardes vorsichtigerer Haltung gegenüber privaten Plänen für einen digitalen Euro. Die Aussage rückt Europas Debatte über digitale Währungsführung und die Rolle des Privatsektors erneut in den Fokus. Künftig dürfte es vor allem um die Balance zwischen öffentlicher Kontrolle und privater Innovation gehen. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Euro numérique: Beau s’oppose à Lagarde sur le rôle du privé",
-        "excerpt": "Le sous-gouverneur de la Banque de France a déclaré à CoinDesk que les acteurs publics et privés européens doivent participer au développement des actifs numériques.",
-        "body": "Le sous-gouverneur de la Banque de France, Beau, a adopté une position nettement différente de celle de Christine Lagarde, présidente de la Banque centrale européenne, sur l’orientation de l’euro numérique et du développement des actifs numériques. Dans un entretien avec CoinDesk, il a estimé que les institutions publiques européennes, mais aussi les entités privées, doivent participer à ce développement. Cette déclaration contraste avec l’approche plus prudente de Lagarde à l’égard des projets privés d’euro numérique. Elle remet en lumière le débat européen sur le leadership en matière de monnaie numérique et sur le rôle du secteur privé. Les discussions devraient porter sur l’équilibre entre contrôle public et innovation privée. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "جدل اليورو الرقمي يتصاعد: بو الفرنسي يخالف موقف لاغارد",
-        "excerpt": "قال نائب محافظ البنك المركزي الفرنسي لـCoinDesk إن الجهات العامة والخاصة في أوروبا يجب أن تشارك في تطوير الأصول الرقمية، مخالفا موقف لاغارد.",
-        "body": "اتخذ نائب محافظ البنك المركزي الفرنسي، بو، موقفا مختلفا بوضوح عن موقف كريستين لاغارد، رئيسة البنك المركزي الأوروبي، بشأن اتجاه اليورو الرقمي وتطوير الأصول الرقمية. وقال في مقابلة مع CoinDesk إن المؤسسات العامة الأوروبية ليست وحدها المعنية، بل يجب أيضا أن تشارك الكيانات الخاصة في تطوير الأصول الرقمية. وتتناقض هذه التصريحات مع موقف لاغارد الأكثر حذرا تجاه خطط اليورو الرقمي الخاصة. وتعيد التصريحات إبراز الجدل في أوروبا حول قيادة العملات الرقمية ودور القطاع الخاص. ومن المتوقع أن تتركز النقاشات المقبلة على كيفية تحقيق توازن بين الرقابة العامة والابتكار الخاص. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "डिजिटल यूरो विवाद तेज: फ्रांस के Beau ने Lagarde से अलग रुख अपनाया",
-        "excerpt": "फ्रांस के केंद्रीय बैंक के डिप्टी गवर्नर ने CoinDesk से कहा कि यूरोप की सार्वजनिक और निजी संस्थाओं को डिजिटल एसेट विकास में शामिल होना चाहिए।",
-        "body": "फ्रांस के केंद्रीय बैंक के डिप्टी गवर्नर Beau ने डिजिटल यूरो और डिजिटल एसेट विकास की दिशा पर यूरोपीय सेंट्रल बैंक की अध्यक्ष Christine Lagarde से स्पष्ट रूप से अलग रुख रखा। CoinDesk को दिए इंटरव्यू में उन्होंने कहा कि यूरोप में केवल सार्वजनिक संस्थानों को ही नहीं, बल्कि निजी संस्थाओं को भी डिजिटल एसेट विकास में शामिल होना चाहिए। यह बयान निजी डिजिटल यूरो योजनाओं पर Lagarde के अधिक सतर्क रुख से अलग है। इससे यूरोप में डिजिटल मुद्रा नेतृत्व और निजी क्षेत्र की भूमिका पर बहस फिर सामने आई है। आगे चर्चा का केंद्र सार्वजनिक नियंत्रण और निजी नवाचार के बीच संतुलन हो सकता है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Debat Euro Digital Menguat, Beau Prancis Berbeda Sikap dengan Lagarde",
-        "excerpt": "Deputi gubernur bank sentral Prancis mengatakan kepada CoinDesk bahwa entitas publik dan swasta Eropa perlu terlibat dalam pengembangan aset digital.",
-        "body": "Deputi gubernur bank sentral Prancis, Beau, mengambil posisi yang jelas berbeda dari Presiden Bank Sentral Eropa Christine Lagarde mengenai arah euro digital dan pengembangan aset digital. Dalam wawancara dengan CoinDesk, ia mengatakan bahwa bukan hanya lembaga publik Eropa, tetapi juga entitas swasta perlu terlibat dalam pengembangan aset digital. Pernyataan itu berbeda dengan sikap Lagarde yang lebih berhati-hati terhadap rencana euro digital swasta. Komentar tersebut kembali menyoroti perdebatan di Eropa tentang kepemimpinan mata uang digital dan peran sektor swasta. Pembahasan berikutnya kemungkinan berfokus pada keseimbangan antara pengawasan publik dan inovasi swasta. Sumber: coindesk.com"
       }
     }
   }

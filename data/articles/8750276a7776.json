@@ -1,0 +1,75 @@
+{
+  "id": "8750276a7776",
+  "slug": "ethereum-community-launches-security-feature-to-end-blind-si-194033",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-13T06:04:15.450Z",
+  "updatedAt": "2026-05-13T06:04:15.450Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/ethereum-contributors-launch-security-feature-to-end-blind-signing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/ethereum-contributors-launch-security-feature-to-end-blind-signing",
+  "titleFingerprint": "4376329b90b8dd73752bf541a28d718e87b23c47",
+  "dedupKeys": [
+    "8750276a7776fed3af90c7f75c7227a64cbb8339",
+    "4376329b90b8dd73752bf541a28d718e87b23c47",
+    "f4a8e95f6f5b3fbeced00cc95da58f3091f88983"
+  ],
+  "imageUrl": "/images/articles/8750276a7776.jpg",
+  "i18n": {
+    "ko": {
+      "title": "이더리움 Clear Signing 공개, 블라인드 서명 위험 줄인다",
+      "excerpt": "이더리움 커뮤니티가 2026년 5월 13일 Clear Signing을 공개했다. Ledger·Trezor·MetaMask 등 주요 지갑이 참여해 블라인드 서명 위험을 낮추는 데 초점을 맞췄다.",
+      "body": "이더리움 커뮤니티는 2026년 5월 13일 사용자가 거래 승인 전 내용을 읽고 이해할 수 있도록 돕는 보안 기능 Clear Signing을 공개했다. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot, Fireblocks가 초기 도입자이자 기여자로 참여했다. 이 기능은 읽기 어려운 16진수 데이터를 사람이 이해할 수 있는 거래 설명으로 바꿔 블라인드 서명 공격 위험을 낮추는 것을 목표로 한다. 이더리움 재단은 블라인드 서명을 구조적 결함으로 지적하며, 지난해 14억 달러 규모 Bybit 해킹 등 대규모 손실과 연결됐다고 설명했다. Clear Signing은 Trillion Dollar Security Initiative를 통해 소개됐고, Ledger가 주도한 오픈소스 ERC-7730 표준에서 시작됐다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "Ethereum Clear Signing Launch Targets Blind Signing Risks",
+      "excerpt": "The Ethereum community unveiled Clear Signing on May 13, 2026, with Ledger, Trezor, MetaMask and other platforms joining to reduce blind signing risks.",
+      "body": "The Ethereum community introduced Clear Signing on May 13, 2026, a security feature designed to help users read and understand transaction details before approval. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot and Fireblocks are among the earliest adopters and contributors. The feature aims to replace unreadable hexadecimal data with human-readable transaction descriptions and reduce the risk of blind signing attacks. The Ethereum Foundation described blind signing as a structural flaw linked to major losses, including last year’s $1.4 billion Bybit hack. Clear Signing was introduced through the Trillion Dollar Security Initiative and began with the open-source ERC-7730 standard led by Ledger. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "EthereumのClear Signing公開、ブラインド署名リスク低減へ",
+      "excerpt": "Ethereumコミュニティは2026年5月13日、Clear Signingを公開。Ledger、Trezor、MetaMaskなどが参加し、ブラインド署名リスクの低減を目指す。",
+      "body": "Ethereumコミュニティは2026年5月13日、ユーザーが承認前に取引内容を読み取り理解できるようにするセキュリティ機能Clear Signingを公開した。Ledger、Trezor、MetaMask、Keycard、WalletConnect、Argot、Fireblocksが初期導入者および貢献者として参加している。この機能は読みにくい16進データを人間が理解できる取引説明に置き換え、ブラインド署名攻撃のリスクを下げることを目的とする。Ethereum Foundationはブラインド署名を構造的欠陥とし、昨年の14億ドル規模のBybitハッキングなど大きな損失に関係したと説明した。Clear SigningはTrillion Dollar Security Initiativeを通じて紹介され、Ledger主導のオープンソースERC-7730標準から始まった。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "以太坊推出Clear Signing，降低盲签交易风险",
+      "excerpt": "以太坊社区于2026年5月13日推出Clear Signing，Ledger、Trezor、MetaMask等平台参与，旨在降低盲签带来的安全风险。",
+      "body": "以太坊社区于2026年5月13日推出Clear Signing，这是一项帮助用户在批准交易前清楚阅读并理解交易细节的安全功能。Ledger、Trezor、MetaMask、Keycard、WalletConnect、Argot和Fireblocks是最早的采用者和贡献者之一。该功能旨在用人类可读的交易说明取代难以理解的十六进制数据，从而降低盲签攻击风险。以太坊基金会称，盲签是一种结构性缺陷，并与重大损失有关，包括去年14亿美元规模的Bybit黑客事件。Clear Signing通过Trillion Dollar Security Initiative推出，源自Ledger主导的开源ERC-7730标准。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "Ethereum lanza Clear Signing para reducir riesgos de firma ciega",
+      "excerpt": "La comunidad de Ethereum presentó Clear Signing el 13 de mayo de 2026, con Ledger, Trezor, MetaMask y otras plataformas para reducir riesgos de firma ciega.",
+      "body": "La comunidad de Ethereum presentó el 13 de mayo de 2026 Clear Signing, una función de seguridad diseñada para que los usuarios puedan leer y entender los detalles de una transacción antes de aprobarla. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot y Fireblocks figuran entre los primeros adoptantes y contribuyentes. La función busca sustituir datos hexadecimales difíciles de leer por descripciones de transacciones comprensibles y reducir el riesgo de ataques de firma ciega. La Ethereum Foundation calificó la firma ciega como una falla estructural vinculada a grandes pérdidas, incluido el hackeo de Bybit de 1.400 millones de dólares del año pasado. Clear Signing se presentó mediante la Trillion Dollar Security Initiative y partió del estándar abierto ERC-7730 liderado por Ledger. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "Ethereum lança Clear Signing para reduzir risco de assinatura cega",
+      "excerpt": "A comunidade Ethereum apresentou o Clear Signing em 13 de maio de 2026, com Ledger, Trezor, MetaMask e outras plataformas para reduzir riscos de assinatura cega.",
+      "body": "A comunidade Ethereum apresentou em 13 de maio de 2026 o Clear Signing, um recurso de segurança criado para ajudar usuários a ler e entender detalhes de transações antes da aprovação. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot e Fireblocks estão entre os primeiros adotantes e colaboradores. O recurso busca substituir dados hexadecimais difíceis de ler por descrições de transações compreensíveis e reduzir o risco de ataques de assinatura cega. A Ethereum Foundation descreveu a assinatura cega como uma falha estrutural ligada a grandes perdas, incluindo o hack de US$ 1,4 bilhão da Bybit no ano passado. O Clear Signing foi apresentado pela Trillion Dollar Security Initiative e começou com o padrão aberto ERC-7730 liderado pela Ledger. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "Ethereum startet Clear Signing gegen Blind-Signing-Risiken",
+      "excerpt": "Die Ethereum-Community stellte am 13. Mai 2026 Clear Signing vor. Ledger, Trezor, MetaMask und weitere Plattformen wollen damit Blind-Signing-Risiken senken.",
+      "body": "Die Ethereum-Community hat am 13. Mai 2026 Clear Signing vorgestellt, eine Sicherheitsfunktion, mit der Nutzer Transaktionsdetails vor der Freigabe klar lesen und verstehen sollen. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot und Fireblocks gehören zu den ersten Anwendern und Mitwirkenden. Die Funktion soll schwer lesbare Hexadezimaldaten durch verständliche Transaktionsbeschreibungen ersetzen und das Risiko von Blind-Signing-Angriffen verringern. Die Ethereum Foundation bezeichnete Blind Signing als strukturellen Fehler, der mit großen Verlusten verbunden sei, darunter der Bybit-Hack über 1,4 Milliarden US-Dollar im vergangenen Jahr. Clear Signing wurde über die Trillion Dollar Security Initiative vorgestellt und geht auf den von Ledger geführten Open-Source-Standard ERC-7730 zurück. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "Ethereum lance Clear Signing pour réduire la signature aveugle",
+      "excerpt": "La communauté Ethereum a présenté Clear Signing le 13 mai 2026, avec Ledger, Trezor, MetaMask et d’autres plateformes pour réduire les risques de signature aveugle.",
+      "body": "La communauté Ethereum a présenté le 13 mai 2026 Clear Signing, une fonction de sécurité destinée à aider les utilisateurs à lire et comprendre les détails d’une transaction avant de l’approuver. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot et Fireblocks figurent parmi les premiers adoptants et contributeurs. Cette fonction vise à remplacer les données hexadécimales difficiles à lire par des descriptions de transactions compréhensibles et à réduire le risque d’attaques par signature aveugle. L’Ethereum Foundation a décrit la signature aveugle comme une faille structurelle liée à des pertes majeures, dont le piratage de Bybit de 1,4 milliard de dollars l’an dernier. Clear Signing a été présenté via la Trillion Dollar Security Initiative et provient du standard open source ERC-7730 mené par Ledger. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "إيثريوم تطلق Clear Signing لتقليل مخاطر التوقيع الأعمى",
+      "excerpt": "قدّم مجتمع إيثريوم في 13 مايو 2026 ميزة Clear Signing، بمشاركة Ledger وTrezor وMetaMask ومنصات أخرى للحد من مخاطر التوقيع الأعمى.",
+      "body": "قدّم مجتمع إيثريوم في 13 مايو 2026 ميزة Clear Signing، وهي خاصية أمنية تساعد المستخدمين على قراءة تفاصيل المعاملة وفهمها قبل الموافقة عليها. وتعد Ledger وTrezor وMetaMask وKeycard وWalletConnect وArgot وFireblocks من أوائل الجهات التي تبنتها وأسهمت فيها. وتهدف الميزة إلى استبدال بيانات سداسية عشرية يصعب قراءتها بأوصاف معاملات مفهومة للبشر، بما يقلل مخاطر هجمات التوقيع الأعمى. ووصفت مؤسسة إيثريوم التوقيع الأعمى بأنه خلل هيكلي ارتبط بخسائر كبيرة، منها اختراق Bybit العام الماضي بقيمة 1.4 مليار دولار. طُرحت Clear Signing عبر Trillion Dollar Security Initiative، وبدأت من معيار ERC-7730 المفتوح المصدر بقيادة Ledger. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "Ethereum Clear Signing लॉन्च, ब्लाइंड साइनिंग जोखिम घटाने पर जोर",
+      "excerpt": "Ethereum समुदाय ने 13 मई 2026 को Clear Signing पेश किया। Ledger, Trezor, MetaMask और अन्य प्लेटफॉर्म ब्लाइंड साइनिंग जोखिम घटाने के लिए इसमें शामिल हैं।",
+      "body": "Ethereum समुदाय ने 13 मई 2026 को Clear Signing पेश किया, जो एक सुरक्षा फीचर है ताकि उपयोगकर्ता मंजूरी देने से पहले लेनदेन के विवरण पढ़ और समझ सकें। Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot और Fireblocks इसके शुरुआती अपनाने वालों और योगदानकर्ताओं में शामिल हैं। यह फीचर कठिन हेक्साडेसिमल डेटा की जगह मानव-पठनीय लेनदेन विवरण देने और ब्लाइंड साइनिंग हमलों के जोखिम को कम करने का लक्ष्य रखता है। Ethereum Foundation ने ब्लाइंड साइनिंग को एक संरचनात्मक कमी बताया, जिसे पिछले साल के 1.4 अरब डॉलर के Bybit हैक सहित बड़े नुकसान से जोड़ा गया। Clear Signing को Trillion Dollar Security Initiative के तहत पेश किया गया और इसकी शुरुआत Ledger के नेतृत्व वाले ओपन-सोर्स ERC-7730 मानक से हुई। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "Ethereum Rilis Clear Signing untuk Kurangi Risiko Blind Signing",
+      "excerpt": "Komunitas Ethereum meluncurkan Clear Signing pada 13 Mei 2026, dengan Ledger, Trezor, MetaMask dan platform lain untuk menekan risiko blind signing.",
+      "body": "Komunitas Ethereum pada 13 Mei 2026 memperkenalkan Clear Signing, fitur keamanan yang membantu pengguna membaca dan memahami detail transaksi sebelum menyetujuinya. Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot dan Fireblocks termasuk pengadopsi awal sekaligus kontributor. Fitur ini bertujuan mengganti data heksadesimal yang sulit dibaca dengan deskripsi transaksi yang dapat dipahami manusia, sehingga menurunkan risiko serangan blind signing. Ethereum Foundation menyebut blind signing sebagai kelemahan struktural yang terkait dengan kerugian besar, termasuk peretasan Bybit senilai 1,4 miliar dolar AS tahun lalu. Clear Signing diperkenalkan melalui Trillion Dollar Security Initiative dan berawal dari standar open-source ERC-7730 yang dipimpin Ledger. Sumber: cointelegraph.com"
+    }
+  }
+}

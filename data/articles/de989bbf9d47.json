@@ -1,0 +1,75 @@
+{
+  "id": "de989bbf9d47",
+  "slug": "kelp-dao-eyes-unpausing-withdrawals-after-attackers-rseth-on-242614",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-13T06:05:15.417Z",
+  "updatedAt": "2026-05-13T06:05:15.417Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/kelp-dao-eyes-reopening-withdrawals-as-attackers-rseth-on-arbitrum-is-burned?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/kelp-dao-eyes-reopening-withdrawals-as-attackers-rseth-on-arbitrum-is-burned",
+  "titleFingerprint": "dac2dcf89f99ebcd8b64e5cd593448d6fb9c54c3",
+  "dedupKeys": [
+    "de989bbf9d47764426b4abd1285d6d0cf06bc376",
+    "dac2dcf89f99ebcd8b64e5cd593448d6fb9c54c3",
+    "376980284aa8d5b92a3183038183b9ae262c0ab9"
+  ],
+  "imageUrl": "/images/articles/de989bbf9d47.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Kelp DAO, Arbitrum rsETH 소각 후 출금 재개 준비 본격화",
+      "excerpt": "Kelp DAO는 5월 13일 보도에서 공격자 rsETH를 소각하고 Aave Recovery Guardian 멀티시그를 통한 2주 보충 계획을 제시했다.",
+      "body": "Kelp DAO와 Aave는 Arbitrum에서 공격자의 rsETH 토큰을 소각하며 rsETH 출금 재개를 위한 복구 절차를 진행했다. Cointelegraph에 따르면 Kelp DAO는 화요일 사후 복구 계획을 공개하고, 117,132 rsETH(약 2억7,800만 달러)를 2주에 걸쳐 Aave Recovery Guardian 및 Kelp 복구 세이프에서 LayerZero OFT 어댑터로 보충한다고 밝혔다. Kelp는 메인넷과 레이어2의 rsETH가 항상 완전 담보 상태라고 설명했다. 첫 물량이 스마트계약에 반환된 뒤에는 잠정적으로 24시간 내 출금이 재개되며 예치, 상환, 브리징, 클레임도 정상화될 예정이다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "Kelp DAO Moves Toward rsETH Withdrawals After Arbitrum Burn",
+      "excerpt": "Kelp DAO said in a May 13 report it burned the attacker’s rsETH and set a two-week refill plan through Aave’s Recovery Guardian multisig.",
+      "body": "Kelp DAO and Aave have moved ahead with rsETH recovery by burning the attacker’s rsETH tokens on Arbitrum, bringing withdrawals closer to reopening. According to Cointelegraph, Kelp DAO outlined a post-exploit plan on Tuesday to refill 117,132 rsETH, worth about $278 million, over two weeks from Aave Recovery Guardian and Kelp’s recovery safe into the LayerZero OFT adapter. Kelp said rsETH on mainnet and layer-2 networks remains fully backed at all times. After the first tranche returns to the smart contract, withdrawals are tentatively expected to resume within 24 hours, along with deposits, redemptions, bridging and claims. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "Kelp DAO、ArbitrumのrsETH焼却後に出金再開へ前進",
+      "excerpt": "Kelp DAOは5月13日の報道で、攻撃者のrsETHを焼却し、Aave Recovery Guardianマルチシグ経由の2週間補充計画を示した。",
+      "body": "Kelp DAOとAaveは、Arbitrum上の攻撃者のrsETHトークンを焼却し、rsETH出金再開に向けた復旧手続きを進めた。Cointelegraphによると、Kelp DAOは火曜日に事後復旧計画を公表し、117,132 rsETH（約2億7,800万ドル）を2週間かけてAave Recovery GuardianとKelpのリカバリーセーフからLayerZero OFTアダプターへ補充すると説明した。Kelpはメインネットとレイヤー2上のrsETHが常に完全担保だとしている。最初の分割分がスマートコントラクトに戻った後、出金は暫定的に24時間以内に再開し、預入、償還、ブリッジ、請求も通常運用へ戻る見通しだ。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "Kelp DAO在Arbitrum销毁rsETH后推进提款重启",
+      "excerpt": "Kelp DAO在5月13日报道中称，已销毁攻击者rsETH，并提出通过Aave Recovery Guardian多签钱包进行两周补充的计划。",
+      "body": "Kelp DAO与Aave已在Arbitrum上销毁攻击者的rsETH代币，推动rsETH提款恢复流程。Cointelegraph称，Kelp DAO周二公布攻击后的恢复计划，将在两周内把117,132枚rsETH（约2.78亿美元）从Aave Recovery Guardian和Kelp恢复保险库逐步补充至LayerZero OFT适配器。Kelp表示，主网和二层网络上的rsETH始终保持完全抵押。首批资产回到智能合约后，提款暂定在24小时内恢复，存款、赎回、跨链和申领也将恢复正常。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "Kelp DAO prepara retiros de rsETH tras quema en Arbitrum",
+      "excerpt": "Kelp DAO dijo en un reporte del 13 de mayo que quemó el rsETH del atacante y presentó un plan de dos semanas con Aave Recovery Guardian.",
+      "body": "Kelp DAO y Aave avanzaron en la recuperación de rsETH al quemar en Arbitrum los tokens rsETH del atacante, acercando la reapertura de retiros. Según Cointelegraph, Kelp DAO presentó el martes un plan posterior al exploit para reponer 117.132 rsETH, valorados en unos 278 millones de dólares, durante dos semanas desde Aave Recovery Guardian y la caja de recuperación de Kelp hacia el adaptador LayerZero OFT. Kelp afirmó que el rsETH en mainnet y redes de capa 2 sigue totalmente respaldado en todo momento. Tras el retorno del primer tramo al contrato inteligente, los retiros podrían reanudarse tentativamente en 24 horas, junto con depósitos, reembolsos, puentes y reclamos. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "Kelp DAO avança em saques de rsETH após queima na Arbitrum",
+      "excerpt": "A Kelp DAO informou em reportagem de 13 de maio que queimou o rsETH do atacante e traçou um plano de reposição de duas semanas com a Aave.",
+      "body": "A Kelp DAO e a Aave avançaram na recuperação do rsETH ao queimar, na Arbitrum, os tokens rsETH do atacante, aproximando a reabertura dos saques. Segundo a Cointelegraph, a Kelp DAO apresentou na terça-feira um plano pós-exploit para repor 117.132 rsETH, avaliados em cerca de US$ 278 milhões, ao longo de duas semanas a partir da Aave Recovery Guardian e do cofre de recuperação da Kelp para o adaptador LayerZero OFT. A Kelp afirmou que o rsETH na mainnet e em redes de camada 2 permanece totalmente lastreado em todos os momentos. Após a primeira parcela voltar ao contrato inteligente, os saques devem ser retomados provisoriamente em 24 horas, junto com depósitos, resgates, bridge e claims. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "Kelp DAO rückt rsETH-Auszahlungen nach Arbitrum-Burn näher",
+      "excerpt": "Kelp DAO erklärte laut Bericht vom 13. Mai, es habe die rsETH des Angreifers verbrannt und einen zweiwöchigen Auffüllplan über Aave vorgestellt.",
+      "body": "Kelp DAO und Aave haben die Wiederherstellung von rsETH vorangetrieben, indem sie die rsETH-Token des Angreifers auf Arbitrum verbrannten und damit die Wiederaufnahme von Auszahlungen näher rückten. Laut Cointelegraph stellte Kelp DAO am Dienstag einen Plan nach dem Exploit vor, um 117.132 rsETH im Wert von rund 278 Millionen US-Dollar über zwei Wochen aus Aave Recovery Guardian und Kelps Recovery Safe in den LayerZero-OFT-Adapter aufzufüllen. Kelp erklärte, rsETH auf Mainnet und Layer-2-Netzwerken sei jederzeit vollständig gedeckt. Nach Rückführung der ersten Tranche in den Smart Contract sollen Auszahlungen vorläufig binnen 24 Stunden wieder starten, ebenso Einzahlungen, Rücknahmen, Bridging und Claims. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "Kelp DAO prépare les retraits rsETH après la brûlure sur Arbitrum",
+      "excerpt": "Kelp DAO a indiqué dans un article du 13 mai avoir brûlé les rsETH de l’attaquant et présenté un plan de réapprovisionnement sur deux semaines avec Aave.",
+      "body": "Kelp DAO et Aave ont avancé dans la récupération de rsETH en brûlant sur Arbitrum les jetons rsETH de l’attaquant, rapprochant la réouverture des retraits. Selon Cointelegraph, Kelp DAO a détaillé mardi un plan post-exploit visant à reconstituer 117 132 rsETH, soit environ 278 millions de dollars, sur deux semaines depuis Aave Recovery Guardian et le coffre de récupération de Kelp vers l’adaptateur LayerZero OFT. Kelp affirme que le rsETH sur le mainnet et les réseaux de couche 2 reste entièrement adossé à tout moment. Après le retour de la première tranche dans le smart contract, les retraits devraient reprendre provisoirement sous 24 heures, avec les dépôts, rachats, ponts et réclamations. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "Kelp DAO تقترب من استئناف سحب rsETH بعد حرقها على Arbitrum",
+      "excerpt": "قالت Kelp DAO في تقرير 13 مايو إنها أحرقت rsETH الخاصة بالمهاجم ووضعت خطة تعبئة لمدة أسبوعين عبر محفظة Aave Recovery Guardian متعددة التوقيع.",
+      "body": "تقدمت Kelp DAO وAave في استعادة rsETH بعد حرق رموز rsETH الخاصة بالمهاجم على شبكة Arbitrum، ما يقرب إعادة فتح السحوبات. وبحسب Cointelegraph، عرضت Kelp DAO يوم الثلاثاء خطة ما بعد الاستغلال لإعادة تعبئة 117,132 rsETH، بقيمة تقارب 278 مليون دولار، خلال أسبوعين من Aave Recovery Guardian وخزنة التعافي الخاصة بـKelp إلى محول LayerZero OFT. وقالت Kelp إن rsETH على الشبكة الرئيسية وشبكات الطبقة الثانية يبقى مدعوما بالكامل في كل وقت. وبعد عودة الدفعة الأولى إلى العقد الذكي، من المتوقع مبدئيا استئناف السحوبات خلال 24 ساعة، مع عودة الإيداعات والاسترداد والجسور والمطالبات. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "Kelp DAO Arbitrum पर rsETH बर्न के बाद निकासी बहाली के करीब",
+      "excerpt": "Kelp DAO ने 13 मई की रिपोर्ट में कहा कि उसने हमलावर का rsETH बर्न किया और Aave Recovery Guardian multisig के जरिए दो सप्ताह की रीफिल योजना दी।",
+      "body": "Kelp DAO और Aave ने Arbitrum पर हमलावर के rsETH टोकन बर्न कर rsETH रिकवरी को आगे बढ़ाया, जिससे निकासी फिर खुलने के करीब है। Cointelegraph के अनुसार, Kelp DAO ने मंगलवार को पोस्ट-एक्सप्लॉइट योजना बताई, जिसके तहत 117,132 rsETH, लगभग 278 मिलियन डॉलर, दो सप्ताह में Aave Recovery Guardian और Kelp recovery safe से LayerZero OFT adapter में भरे जाएंगे। Kelp ने कहा कि mainnet और layer-2 नेटवर्क पर rsETH हर समय पूरी तरह backed है। पहली tranche smart contract में लौटने के बाद निकासी अस्थायी रूप से 24 घंटे के भीतर शुरू हो सकती है, और deposits, redemptions, bridging तथा claims भी सामान्य होंगे। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "Kelp DAO Siapkan Penarikan rsETH Usai Burn di Arbitrum",
+      "excerpt": "Kelp DAO dalam laporan 13 Mei menyebut telah membakar rsETH milik penyerang dan menyiapkan rencana pengisian dua pekan lewat Aave Recovery Guardian.",
+      "body": "Kelp DAO dan Aave melanjutkan pemulihan rsETH dengan membakar token rsETH milik penyerang di Arbitrum, sehingga pembukaan kembali penarikan semakin dekat. Menurut Cointelegraph, Kelp DAO pada Selasa memaparkan rencana pasca-eksploit untuk mengisi kembali 117.132 rsETH, senilai sekitar 278 juta dolar AS, selama dua pekan dari Aave Recovery Guardian dan recovery safe Kelp ke adaptor LayerZero OFT. Kelp mengatakan rsETH di mainnet dan jaringan layer-2 selalu sepenuhnya didukung. Setelah tranche pertama kembali ke smart contract, penarikan sementara ditargetkan kembali dalam 24 jam, bersama deposit, redemption, bridging, dan claim. Sumber: cointelegraph.com"
+    }
+  }
+}
