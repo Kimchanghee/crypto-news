@@ -1,0 +1,75 @@
+{
+  "id": "f68488f58d4b",
+  "slug": "the-protocol-solanas-alpenglow-upgrade-is-live-for-testing-444412",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-13T17:00:43.182Z",
+  "updatedAt": "2026-05-13T17:00:43.182Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
+  "titleFingerprint": "2b8d7ce9d0710ed00c1a6330ab60d72973d4d606",
+  "dedupKeys": [
+    "f68488f58d4b8a44993654b288ca37c985c6a931",
+    "2b8d7ce9d0710ed00c1a6330ab60d72973d4d606",
+    "34c60fb5521a7babcb55294b02d28993c7a9e5bd"
+  ],
+  "imageUrl": "/images/articles/f68488f58d4b.jpg",
+  "i18n": {
+    "ko": {
+      "title": "솔라나 Alpenglow 테스트 시작, 합의 구조 대개편 본격화",
+      "excerpt": "솔라나 핵심 개발사 Anza는 5월 11일 Alpenglow가 커뮤니티 테스트 클러스터에서 가동됐다고 밝혔으며, 검증자들은 메인넷 전환 전 새 합의 구조를 시험한다.",
+      "body": "솔라나의 차세대 합의 업그레이드 Alpenglow가 5월 11일 커뮤니티 테스트 클러스터에서 가동되며 검증자 테스트 단계에 들어갔다. 핵심 개발사 Anza는 이를 솔라나 역사상 가장 큰 합의 변경이라고 설명했다. 현재 솔라나는 지분증명, TowerBFT, Proof-of-History를 결합해 운영되지만, Alpenglow는 검증자 간 통신과 블록 확정을 더 빠르고 효율적으로 만드는 새 구조를 목표로 한다. 테스트는 메인넷 적용 전 검증자 소프트웨어가 기존 절차에서 Alpenglow로 전환될 수 있는지 확인하는 과정이다. CoinDesk는 이번 The Protocol에서 LayerZero의 사과, Ronin의 레이어2 전환, Clear Signing도 함께 다뤘다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Solana Alpenglow Testing Begins as Consensus Overhaul Advances",
+      "excerpt": "Solana core developer Anza said on May 11 that Alpenglow is live on a community test cluster, giving validators a chance to test the new consensus design before mainnet.",
+      "body": "Solana’s next-generation consensus upgrade, Alpenglow, went live on a community test cluster on May 11, moving into validator testing. Core developer Anza described it as the biggest consensus change in Solana’s history. Solana currently relies on a combination of proof-of-stake, TowerBFT and Proof-of-History, while Alpenglow aims to make validator communication and block finality faster and more efficient. The test phase checks whether validator software can transition from the existing process to Alpenglow before any mainnet rollout. CoinDesk’s The Protocol also covered LayerZero’s apology, Ronin’s layer-2 transition and Clear Signing. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "SolanaのAlpenglowテスト開始、合意形成の大改修が前進",
+      "excerpt": "Solanaの中核開発者Anzaは5月11日、Alpenglowがコミュニティテストクラスターで稼働したと発表し、検証者はメインネット前に新しい合意設計を試す。",
+      "body": "Solanaの次世代合意アップグレードAlpenglowは5月11日、コミュニティテストクラスターで稼働し、検証者によるテスト段階に入った。中核開発者Anzaは、これをSolana史上最大の合意変更だと説明した。現在のSolanaはプルーフ・オブ・ステーク、TowerBFT、Proof-of-Historyを組み合わせて運用されているが、Alpenglowは検証者間の通信とブロック確定をより速く効率的にする新構造を目指す。今回のテストは、メインネット適用前に検証者ソフトウェアが既存手順からAlpenglowへ移行できるかを確認するものだ。CoinDeskのThe ProtocolはLayerZeroの謝罪、Roninのレイヤー2移行、Clear Signingも扱った。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "Solana Alpenglow启动测试，共识架构重大升级推进",
+      "excerpt": "Solana核心开发团队Anza于5月11日表示，Alpenglow已在社区测试集群上线，验证者将在主网部署前测试新的共识设计。",
+      "body": "Solana下一代共识升级Alpenglow于5月11日在社区测试集群上线，进入验证者测试阶段。核心开发团队Anza称，这是Solana历史上最大的共识变更。目前Solana结合权益证明、TowerBFT和Proof-of-History运行，而Alpenglow目标是让验证者通信和区块最终确认更快、更高效。本轮测试用于确认验证者软件能否在主网部署前，从现有流程切换到Alpenglow。CoinDesk在本期The Protocol中还提到LayerZero的道歉、Ronin向二层网络过渡以及Clear Signing。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Solana inicia pruebas de Alpenglow y avanza su gran cambio de consenso",
+      "excerpt": "El desarrollador central Anza dijo el 11 de mayo que Alpenglow ya funciona en un clúster comunitario de pruebas, donde los validadores ensayan el nuevo diseño antes de mainnet.",
+      "body": "La actualización de consenso de próxima generación de Solana, Alpenglow, se activó el 11 de mayo en un clúster comunitario de pruebas y entró en fase de evaluación por validadores. El desarrollador central Anza la describió como el mayor cambio de consenso en la historia de Solana. Hoy la red combina prueba de participación, TowerBFT y Proof-of-History, mientras que Alpenglow busca acelerar y hacer más eficiente la comunicación entre validadores y la finalidad de bloques. La prueba verifica si el software de validadores puede pasar del proceso actual a Alpenglow antes de una implementación en mainnet. The Protocol de CoinDesk también trató la disculpa de LayerZero, la transición de Ronin a capa 2 y Clear Signing. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Solana inicia testes do Alpenglow e avança grande mudança de consenso",
+      "excerpt": "A desenvolvedora central Anza disse em 11 de maio que o Alpenglow está ativo em um cluster comunitário de testes, onde validadores testam o novo consenso antes da mainnet.",
+      "body": "A atualização de consenso de próxima geração da Solana, Alpenglow, entrou no ar em 11 de maio em um cluster comunitário de testes, avançando para a fase de validação. A desenvolvedora central Anza descreveu a mudança como a maior alteração de consenso da história da Solana. Hoje, a rede combina prova de participação, TowerBFT e Proof-of-History, enquanto o Alpenglow busca tornar a comunicação entre validadores e a finalização de blocos mais rápidas e eficientes. O teste verifica se o software dos validadores consegue migrar do processo atual para o Alpenglow antes de uma possível mainnet. O The Protocol da CoinDesk também abordou o pedido de desculpas da LayerZero, a transição da Ronin para layer 2 e Clear Signing. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Solana startet Alpenglow-Test und treibt großen Konsensumbau voran",
+      "excerpt": "Solana-Kernentwickler Anza teilte am 11. Mai mit, dass Alpenglow auf einem Community-Testcluster läuft, damit Validatoren das neue Konsensdesign vor dem Mainnet prüfen.",
+      "body": "Solanas nächste Konsensaktualisierung Alpenglow ist am 11. Mai auf einem Community-Testcluster live gegangen und befindet sich nun in der Validator-Testphase. Kernentwickler Anza bezeichnete sie als größte Konsensänderung in der Geschichte von Solana. Derzeit nutzt Solana eine Kombination aus Proof-of-Stake, TowerBFT und Proof-of-History, während Alpenglow die Kommunikation zwischen Validatoren und die Blockfinalität schneller und effizienter machen soll. Die Tests prüfen, ob Validator-Software vor einer Mainnet-Einführung vom bisherigen Verfahren auf Alpenglow wechseln kann. CoinDesks The Protocol behandelte außerdem die Entschuldigung von LayerZero, Ronins Layer-2-Übergang und Clear Signing. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Solana lance les tests d’Alpenglow et avance sa refonte du consensus",
+      "excerpt": "Le développeur principal Anza a déclaré le 11 mai qu’Alpenglow fonctionne sur un cluster de test communautaire, où les validateurs testent le nouveau consensus avant le mainnet.",
+      "body": "La mise à niveau de consensus de nouvelle génération de Solana, Alpenglow, a été lancée le 11 mai sur un cluster de test communautaire et entre dans une phase d’essai par les validateurs. Le développeur principal Anza l’a décrite comme le plus grand changement de consensus de l’histoire de Solana. Le réseau repose aujourd’hui sur la preuve d’enjeu, TowerBFT et Proof-of-History, tandis qu’Alpenglow vise une communication entre validateurs et une finalité des blocs plus rapides et plus efficaces. Cette phase vérifie si le logiciel des validateurs peut passer du processus actuel à Alpenglow avant une éventuelle mise en production sur mainnet. The Protocol de CoinDesk a aussi couvert les excuses de LayerZero, la transition de Ronin vers la couche 2 et Clear Signing. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "سولانا تبدأ اختبار Alpenglow مع تقدم أكبر تعديل في آلية الإجماع",
+      "excerpt": "قال المطور الأساسي Anza في 11 مايو إن Alpenglow أصبح يعمل على مجموعة اختبار مجتمعية، ما يتيح للمدققين تجربة تصميم الإجماع الجديد قبل الشبكة الرئيسية.",
+      "body": "بدأت ترقية الإجماع من الجيل التالي في سولانا، Alpenglow، العمل في 11 مايو على مجموعة اختبار مجتمعية، لتدخل مرحلة اختبار المدققين. ووصف المطور الأساسي Anza هذه الخطوة بأنها أكبر تغيير في آلية الإجماع في تاريخ سولانا. تعتمد سولانا حاليا على مزيج من إثبات الحصة وTowerBFT وProof-of-History، بينما يهدف Alpenglow إلى جعل اتصال المدققين ونهائية الكتل أسرع وأكثر كفاءة. تختبر هذه المرحلة ما إذا كان برنامج المدققين قادرا على الانتقال من العملية الحالية إلى Alpenglow قبل أي إطلاق على الشبكة الرئيسية. وتناول إصدار The Protocol من CoinDesk أيضا اعتذار LayerZero وانتقال Ronin إلى الطبقة الثانية وClear Signing. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "Solana Alpenglow टेस्ट शुरू, बड़े consensus बदलाव की दिशा में कदम",
+      "excerpt": "Solana के कोर डेवलपर Anza ने 11 मई को कहा कि Alpenglow कम्युनिटी टेस्ट क्लस्टर पर लाइव है, जहां वैलिडेटर मेननेट से पहले नए consensus डिजाइन को परखेंगे।",
+      "body": "Solana का अगली पीढ़ी का consensus अपग्रेड Alpenglow 11 मई को कम्युनिटी टेस्ट क्लस्टर पर लाइव हुआ और वैलिडेटर टेस्टिंग चरण में प्रवेश कर गया। कोर डेवलपर Anza ने इसे Solana के इतिहास का सबसे बड़ा consensus बदलाव बताया। फिलहाल Solana proof-of-stake, TowerBFT और Proof-of-History के संयोजन पर चलता है, जबकि Alpenglow का लक्ष्य वैलिडेटर संचार और ब्लॉक finality को तेज और अधिक कुशल बनाना है। यह टेस्ट चरण देखता है कि मेननेट लागू होने से पहले वैलिडेटर सॉफ्टवेयर मौजूदा प्रक्रिया से Alpenglow पर जा सकता है या नहीं। CoinDesk के The Protocol ने LayerZero की माफी, Ronin के layer-2 transition और Clear Signing को भी कवर किया। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Solana Mulai Uji Alpenglow, Perombakan Konsensus Besar Maju",
+      "excerpt": "Pengembang inti Anza mengatakan pada 11 Mei bahwa Alpenglow sudah aktif di klaster uji komunitas, sehingga validator dapat menguji desain konsensus baru sebelum mainnet.",
+      "body": "Pembaruan konsensus generasi berikutnya Solana, Alpenglow, aktif pada 11 Mei di klaster uji komunitas dan masuk tahap pengujian validator. Pengembang inti Anza menyebutnya sebagai perubahan konsensus terbesar dalam sejarah Solana. Saat ini Solana memakai kombinasi proof-of-stake, TowerBFT, dan Proof-of-History, sementara Alpenglow bertujuan membuat komunikasi validator dan finalitas blok lebih cepat serta efisien. Tahap uji ini memeriksa apakah perangkat lunak validator dapat beralih dari proses yang ada ke Alpenglow sebelum penerapan mainnet. The Protocol dari CoinDesk juga membahas permintaan maaf LayerZero, transisi Ronin ke layer-2, dan Clear Signing. Sumber: coindesk.com"
+    }
+  }
+}
