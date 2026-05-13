@@ -1,0 +1,75 @@
+{
+  "id": "b1044807bd54",
+  "slug": "coinbase-backed-x402-adds-batch-settlement-for-ai-agent-paym-127912",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-13T13:04:16.333Z",
+  "updatedAt": "2026-05-13T13:04:16.333Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/coinbase-launches-x402-batch-settlement-ai-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/coinbase-launches-x402-batch-settlement-ai-payments",
+  "titleFingerprint": "236ae5780d4402d0ce384ff9450bf8e60416b186",
+  "dedupKeys": [
+    "b1044807bd540b3645ae3caf4b7efc9af591bad9",
+    "236ae5780d4402d0ce384ff9450bf8e60416b186",
+    "34603257f1ff1396a6a47126cdb597bc2834215b"
+  ],
+  "imageUrl": "/images/articles/b1044807bd54.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Coinbase 지원 x402, AI 에이전트 결제에 배치 정산 추가",
+      "excerpt": "Coinbase가 지원하는 x402가 AI 에이전트 결제를 위해 오프체인에서 다수의 소액 결제를 승인한 뒤 온체인에서 나중에 정산하는 배치 정산 기능을 추가했다.",
+      "body": "Coinbase가 지원하는 x402가 AI 에이전트 결제를 위한 배치 정산 기능을 추가했다. 이 기능은 AI 에이전트가 여러 건의 소액 결제를 오프체인에서 먼저 승인하고, 이후 온체인에서 한 번에 정산할 수 있게 하는 방식이다. 원문에 제시된 핵심은 결제 승인과 최종 정산을 분리해 많은 소액 결제를 처리할 수 있도록 했다는 점이다. 이는 AI 에이전트가 반복적으로 발생시키는 작은 결제 흐름에 맞춘 기능으로, 온체인 정산은 나중에 이뤄진다. 출처: cointelegraph.com."
+    },
+    "en": {
+      "title": "Coinbase-Backed x402 Adds Batch Settlement for AI Agent Payments",
+      "excerpt": "Coinbase-backed x402 has added batch settlement, allowing AI agents to authorize many small payments offchain before settling them later onchain.",
+      "body": "Coinbase-backed x402 has added batch settlement for AI agent payments. The feature lets AI agents authorize multiple small payments offchain first, then settle them later onchain in a batch. The key point in the original report is the separation of payment authorization from final settlement, enabling many small payments to be handled before onchain settlement occurs. The function is aimed at payment flows where AI agents generate repeated small transactions. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "Coinbase支援のx402、AIエージェント決済にバッチ精算を追加",
+      "excerpt": "Coinbaseが支援するx402は、AIエージェントが多数の少額決済をオフチェーンで承認し、後でオンチェーン精算できるバッチ精算を追加した。",
+      "body": "Coinbaseが支援するx402は、AIエージェント決済向けにバッチ精算機能を追加した。この機能により、AIエージェントは複数の少額決済をまずオフチェーンで承認し、その後オンチェーンでまとめて精算できる。原文の要点は、決済承認と最終精算を分けることで、多数の少額決済を処理できるようにした点にある。AIエージェントが繰り返し発生させる小口決済の流れに対応する機能で、オンチェーン精算は後から行われる。出典: cointelegraph.com."
+    },
+    "zh": {
+      "title": "Coinbase支持的x402为AI代理支付新增批量结算",
+      "excerpt": "Coinbase支持的x402新增批量结算功能，使AI代理可先在链下授权多笔小额支付，再于之后在链上完成结算。",
+      "body": "Coinbase支持的x402为AI代理支付新增了批量结算功能。该功能允许AI代理先在链下授权多笔小额支付，随后再在链上进行集中结算。原文的核心信息是，支付授权与最终结算被分离，从而使大量小额支付可在链上结算前先行处理。这一功能面向AI代理反复产生的小额支付流程，链上结算将在之后完成。来源: cointelegraph.com."
+    },
+    "es": {
+      "title": "x402, respaldado por Coinbase, añade liquidación por lotes para pagos de agentes de IA",
+      "excerpt": "x402, respaldado por Coinbase, añadió liquidación por lotes para que agentes de IA autoricen muchos pagos pequeños offchain y los liquiden después onchain.",
+      "body": "x402, respaldado por Coinbase, añadió una función de liquidación por lotes para pagos de agentes de IA. La función permite que los agentes de IA autoricen primero múltiples pagos pequeños fuera de la cadena y luego los liquiden en la cadena en un lote. El punto central del informe original es la separación entre la autorización del pago y la liquidación final, lo que permite procesar muchos pagos pequeños antes de la liquidación onchain. La función apunta a flujos de pagos pequeños generados repetidamente por agentes de IA. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "x402, apoiado pela Coinbase, adiciona liquidação em lote para pagamentos de agentes de IA",
+      "excerpt": "A x402, apoiada pela Coinbase, adicionou liquidação em lote para agentes de IA autorizarem muitos pagamentos pequenos offchain antes da liquidação onchain.",
+      "body": "A x402, apoiada pela Coinbase, adicionou um recurso de liquidação em lote para pagamentos de agentes de IA. A função permite que agentes de IA autorizem primeiro vários pagamentos pequenos fora da cadeia e depois os liquidem onchain em lote. O ponto central do relato original é a separação entre autorização de pagamento e liquidação final, permitindo processar muitos pagamentos pequenos antes da liquidação onchain. O recurso atende a fluxos de pequenos pagamentos gerados repetidamente por agentes de IA. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "Coinbase-gestütztes x402 ergänzt Batch-Abwicklung für KI-Agenten-Zahlungen",
+      "excerpt": "Das von Coinbase unterstützte x402 ergänzt Batch-Abwicklung, damit KI-Agenten viele Kleinstzahlungen offchain autorisieren und später onchain abrechnen können.",
+      "body": "Das von Coinbase unterstützte x402 hat eine Batch-Abwicklung für Zahlungen von KI-Agenten ergänzt. Die Funktion ermöglicht es KI-Agenten, mehrere Kleinstzahlungen zunächst offchain zu autorisieren und sie später gebündelt onchain abzurechnen. Der Kern des ursprünglichen Berichts ist die Trennung von Zahlungsautorisierung und endgültiger Abwicklung, wodurch viele kleine Zahlungen vor der Onchain-Abrechnung verarbeitet werden können. Die Funktion richtet sich an wiederkehrende Kleinstzahlungsflüsse von KI-Agenten. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "x402 soutenu par Coinbase ajoute le règlement par lots pour les paiements d’agents IA",
+      "excerpt": "x402, soutenu par Coinbase, ajoute le règlement par lots pour permettre aux agents IA d’autoriser de nombreux petits paiements hors chaîne avant règlement onchain.",
+      "body": "x402, soutenu par Coinbase, a ajouté une fonction de règlement par lots pour les paiements d’agents IA. Elle permet aux agents IA d’autoriser d’abord plusieurs petits paiements hors chaîne, puis de les régler plus tard onchain en un lot. Le point central du rapport original est la séparation entre l’autorisation du paiement et le règlement final, ce qui permet de traiter de nombreux petits paiements avant le règlement onchain. La fonction vise les flux de petits paiements générés de façon répétée par des agents IA. Source: cointelegraph.com."
+    },
+    "ar": {
+      "title": "x402 المدعوم من Coinbase يضيف التسوية المجمعة لمدفوعات وكلاء الذكاء الاصطناعي",
+      "excerpt": "أضاف x402 المدعوم من Coinbase التسوية المجمعة، ما يتيح لوكلاء الذكاء الاصطناعي اعتماد مدفوعات صغيرة كثيرة خارج السلسلة ثم تسويتها لاحقا على السلسلة.",
+      "body": "أضاف x402 المدعوم من Coinbase ميزة التسوية المجمعة لمدفوعات وكلاء الذكاء الاصطناعي. تتيح الميزة للوكلاء اعتماد عدة مدفوعات صغيرة أولا خارج السلسلة، ثم تسويتها لاحقا على السلسلة دفعة واحدة. تتمثل النقطة الأساسية في التقرير الأصلي في فصل اعتماد الدفع عن التسوية النهائية، بما يسمح بمعالجة عدد كبير من المدفوعات الصغيرة قبل حدوث التسوية على السلسلة. وتستهدف الميزة تدفقات المدفوعات الصغيرة المتكررة التي ينشئها وكلاء الذكاء الاصطناعي. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "Coinbase समर्थित x402 ने AI एजेंट भुगतान के लिए बैच सेटलमेंट जोड़ा",
+      "excerpt": "Coinbase समर्थित x402 ने बैच सेटलमेंट जोड़ा, जिससे AI एजेंट कई छोटे भुगतान ऑफचेन अधिकृत कर बाद में उन्हें ऑनचेन सेटल कर सकते हैं।",
+      "body": "Coinbase समर्थित x402 ने AI एजेंट भुगतान के लिए बैच सेटलमेंट फीचर जोड़ा है। यह फीचर AI एजेंटों को कई छोटे भुगतानों को पहले ऑफचेन अधिकृत करने और बाद में उन्हें ऑनचेन एक साथ सेटल करने की अनुमति देता है। मूल रिपोर्ट का मुख्य बिंदु भुगतान की अनुमति और अंतिम सेटलमेंट को अलग करना है, जिससे कई छोटे भुगतान ऑनचेन सेटलमेंट से पहले संभाले जा सकते हैं। यह फीचर AI एजेंटों द्वारा बार-बार बनाए जाने वाले छोटे भुगतान प्रवाह के लिए है। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "x402 Didukung Coinbase Tambah Settlement Batch untuk Pembayaran Agen AI",
+      "excerpt": "x402 yang didukung Coinbase menambahkan settlement batch agar agen AI dapat mengotorisasi banyak pembayaran kecil offchain sebelum diselesaikan onchain.",
+      "body": "x402 yang didukung Coinbase menambahkan fitur settlement batch untuk pembayaran agen AI. Fitur ini memungkinkan agen AI mengotorisasi beberapa pembayaran kecil terlebih dahulu secara offchain, lalu menyelesaikannya kemudian secara onchain dalam satu batch. Inti laporan asli adalah pemisahan antara otorisasi pembayaran dan settlement akhir, sehingga banyak pembayaran kecil dapat diproses sebelum settlement onchain dilakukan. Fitur ini ditujukan untuk alur pembayaran kecil yang berulang dari agen AI. Sumber: cointelegraph.com."
+    }
+  }
+}
