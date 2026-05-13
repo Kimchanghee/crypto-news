@@ -1,0 +1,75 @@
+{
+  "id": "ad8e26ba1ade",
+  "slug": "half-of-ai-health-advice-is-wrongand-seems-just-right-685288",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-13T23:48:42.407Z",
+  "updatedAt": "2026-05-13T23:48:42.407Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367689/half-ai-health-advice-wrong-seems-right",
+  "canonicalUrl": "https://decrypt.co/367689/half-ai-health-advice-wrong-seems-right",
+  "titleFingerprint": "575101bd0123270dbc939d76d35990b4adadebbd",
+  "dedupKeys": [
+    "ad8e26ba1aded448c41881cfdca65dccd6a4aecf",
+    "575101bd0123270dbc939d76d35990b4adadebbd",
+    "4d68857bbfe0b50fdac1f93555a611613618c485"
+  ],
+  "imageUrl": "/images/articles/ad8e26ba1ade.png",
+  "i18n": {
+    "ko": {
+      "title": "AI 건강 조언 절반이 문제…그럴듯한 답변에 커지는 검증 필요성",
+      "excerpt": "BMJ Open의 동료심사 감사는 주요 AI 챗봇 5개의 건강 답변 중 거의 절반이 출처 조작과 확신에 찬 표현 등 문제를 보였다고 밝혔다.",
+      "body": "BMJ Open에 실린 동료심사 감사에 따르면 주요 AI 챗봇 5개가 제공한 건강 관련 답변 가운데 거의 50%가 문제가 있는 것으로 나타났다. 이번 감사는 AI가 건강 조언을 생성할 때 얼마나 정확하고 신뢰할 수 있는지를 점검했다. 특히 일부 답변은 존재하지 않는 출처를 제시하거나, 근거가 불완전한 내용을 확신에 찬 어조로 전달한 것으로 지적됐다. 이는 이용자가 그럴듯한 문장과 인용 형식만 보고 잘못된 정보를 신뢰할 수 있다는 점에서 우려를 키운다. 연구 결과는 의료 정보 영역에서 AI 답변을 그대로 따르기보다 출처와 전문적 검증을 확인해야 한다는 필요성을 보여준다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "AI Health Advice Fails Nearly Half the Time, Audit Finds",
+      "excerpt": "A peer-reviewed BMJ Open audit found that nearly half of health answers from five major AI chatbots were problematic, citing fabricated sources and confident wording.",
+      "body": "A peer-reviewed audit published in BMJ Open found that nearly 50% of health-related responses from five major AI chatbots were problematic. The audit examined how accurate and reliable AI-generated health advice can be when users ask medical questions. Some answers reportedly cited sources that did not exist or presented incomplete support in a confident tone. That raises concern because users may trust polished wording and citation formats even when the information is flawed. The findings show why AI health responses should not be followed at face value and why sources and professional verification remain necessary. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "AI健康助言の約半数に問題、もっともらしい回答に注意",
+      "excerpt": "BMJ Openの査読済み監査は、主要AIチャットボット5種の健康回答のほぼ半数に、架空の出典や自信ある表現などの問題があったと示した。",
+      "body": "BMJ Openに掲載された査読済み監査によると、主要AIチャットボット5種が出した健康関連の回答のうち、ほぼ50%に問題があった。監査は、AIが健康助言を生成する際の正確性と信頼性を点検したものだ。特に一部の回答では、存在しない出典を示したり、根拠が不十分な内容を自信のある調子で伝えたりしていたと指摘された。これは、利用者が整った文章や引用形式だけを見て誤情報を信じる可能性があるため懸念される。結果は、医療情報でAI回答をそのまま受け入れず、出典確認と専門的検証が必要であることを示している。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "AI健康建议近半有问题，可信语气掩盖错误风险",
+      "excerpt": "BMJ Open一项经同行评审的审计发现，五款主要AI聊天机器人的健康回答近半存在问题，包括捏造来源和自信表达。",
+      "body": "BMJ Open发表的一项经同行评审的审计显示，五款主要AI聊天机器人给出的健康相关回答中，近50%存在问题。该审计检查了AI在生成健康建议时的准确性和可信度。报告指出，部分回答引用了并不存在的来源，或以非常肯定的语气呈现依据不完整的内容。这引发担忧，因为用户可能仅凭流畅文字和引用格式就相信错误信息。研究结果表明，在医疗信息领域，AI回答不应被直接照单全收，仍需要核对来源并进行专业验证。来源: decrypt.co"
+    },
+    "es": {
+      "title": "Consejos de salud de IA fallan casi la mitad, según auditoría",
+      "excerpt": "Una auditoría revisada por pares en BMJ Open halló que casi la mitad de las respuestas de salud de cinco grandes chatbots de IA fueron problemáticas.",
+      "body": "Una auditoría revisada por pares publicada en BMJ Open encontró que casi el 50% de las respuestas sobre salud de cinco grandes chatbots de IA fueron problemáticas. El análisis evaluó qué tan precisos y confiables son los consejos de salud generados por IA cuando los usuarios hacen preguntas médicas. Algunas respuestas citaban fuentes inexistentes o presentaban información con apoyo incompleto en un tono seguro. Esto preocupa porque los usuarios pueden confiar en textos pulidos y formatos de cita aunque la información sea errónea. Los resultados muestran que las respuestas de IA sobre salud no deben seguirse sin revisión y que siguen siendo necesarias la verificación de fuentes y la evaluación profesional. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "Conselhos de saúde por IA falham quase metade, aponta auditoria",
+      "excerpt": "Uma auditoria revisada por pares no BMJ Open apontou que quase metade das respostas de saúde de cinco grandes chatbots de IA teve problemas.",
+      "body": "Uma auditoria revisada por pares publicada no BMJ Open constatou que quase 50% das respostas sobre saúde de cinco grandes chatbots de IA foram problemáticas. A análise avaliou a precisão e a confiabilidade dos conselhos de saúde gerados por IA quando usuários fazem perguntas médicas. Algumas respostas citaram fontes inexistentes ou apresentaram informações com base incompleta em tom confiante. Isso preocupa porque usuários podem confiar em textos bem escritos e formatos de citação mesmo quando a informação está incorreta. Os resultados mostram que respostas de IA sobre saúde não devem ser seguidas sem checagem, e que a verificação de fontes e a avaliação profissional continuam necessárias. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "KI-Gesundheitsrat ist fast zur Hälfte problematisch, zeigt Audit",
+      "excerpt": "Ein peer-reviewtes BMJ-Open-Audit fand, dass fast die Hälfte der Gesundheitsantworten von fünf großen KI-Chatbots problematisch war, auch durch erfundene Quellen.",
+      "body": "Ein in BMJ Open veröffentlichtes peer-reviewtes Audit ergab, dass nahezu 50% der gesundheitsbezogenen Antworten von fünf großen KI-Chatbots problematisch waren. Untersucht wurde, wie genau und verlässlich KI-generierte Gesundheitsratschläge bei medizinischen Fragen sind. Einige Antworten nannten demnach Quellen, die nicht existierten, oder präsentierten unvollständig belegte Inhalte in einem selbstsicheren Ton. Das ist bedenklich, weil Nutzer glatte Formulierungen und Zitierformate als Vertrauenssignal werten können, selbst wenn die Information fehlerhaft ist. Die Ergebnisse zeigen, dass KI-Antworten zu Gesundheit nicht ungeprüft befolgt werden sollten und Quellenprüfung sowie fachliche Verifizierung nötig bleiben. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "Conseils santé d’IA: près de la moitié posent problème",
+      "excerpt": "Un audit évalué par les pairs dans BMJ Open a constaté que près de la moitié des réponses santé de cinq grands chatbots IA étaient problématiques.",
+      "body": "Un audit évalué par les pairs et publié dans BMJ Open a révélé que près de 50% des réponses liées à la santé fournies par cinq grands chatbots d’IA étaient problématiques. L’audit a examiné l’exactitude et la fiabilité des conseils de santé générés par l’IA face à des questions médicales. Certaines réponses citaient des sources inexistantes ou présentaient des éléments insuffisamment étayés avec un ton assuré. Cela inquiète, car les utilisateurs peuvent faire confiance à une rédaction fluide et à des formats de citation même lorsque l’information est erronée. Ces résultats montrent que les réponses d’IA sur la santé ne doivent pas être suivies telles quelles et que la vérification des sources et l’avis professionnel restent nécessaires. Source: decrypt.co"
+    },
+    "ar": {
+      "title": "نصائح الصحة من الذكاء الاصطناعي تخطئ في نحو النصف",
+      "excerpt": "أظهر تدقيق محكم في BMJ Open أن نحو نصف ردود الصحة من خمسة روبوتات دردشة كبرى بالذكاء الاصطناعي كانت إشكالية، مع مصادر ملفقة ونبرة واثقة.",
+      "body": "أظهر تدقيق محكم نُشر في BMJ Open أن ما يقرب من 50% من الردود الصحية الصادرة عن خمسة روبوتات دردشة كبرى تعمل بالذكاء الاصطناعي كانت إشكالية. فحص التدقيق مدى دقة وموثوقية النصائح الصحية التي يولدها الذكاء الاصطناعي عند طرح أسئلة طبية. وذكر أن بعض الردود استشهدت بمصادر غير موجودة أو قدمت معلومات ذات دعم غير مكتمل بنبرة واثقة. يثير ذلك القلق لأن المستخدمين قد يثقون في الصياغة المصقولة وشكل الاقتباسات رغم أن المعلومات قد تكون خاطئة. وتوضح النتائج أن ردود الذكاء الاصطناعي في المجال الصحي لا ينبغي اتباعها كما هي، وأن التحقق من المصادر والمراجعة المهنية يظلان ضروريين. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "AI स्वास्थ्य सलाह लगभग आधी बार गलत, ऑडिट में खुलासा",
+      "excerpt": "BMJ Open के पीयर-रिव्यू ऑडिट में पाया गया कि पांच बड़े AI चैटबॉट्स के स्वास्थ्य जवाबों में करीब आधे समस्याग्रस्त थे, जिनमें गढ़े स्रोत और आत्मविश्वासी भाषा शामिल थी।",
+      "body": "BMJ Open में प्रकाशित पीयर-रिव्यू ऑडिट के अनुसार, पांच बड़े AI चैटबॉट्स द्वारा दिए गए स्वास्थ्य-संबंधी जवाबों में लगभग 50% समस्याग्रस्त पाए गए। ऑडिट ने यह जांचा कि चिकित्सा सवालों पर AI से बनी स्वास्थ्य सलाह कितनी सटीक और भरोसेमंद है। कुछ जवाबों में ऐसे स्रोत दिए गए जो मौजूद नहीं थे, या अधूरे आधार वाली जानकारी को बहुत आत्मविश्वास भरे स्वर में पेश किया गया। यह चिंता बढ़ाता है क्योंकि उपयोगकर्ता साफ-सुथरी भाषा और उद्धरण प्रारूप देखकर गलत जानकारी पर भरोसा कर सकते हैं। नतीजे बताते हैं कि स्वास्थ्य मामलों में AI जवाबों को सीधे नहीं मानना चाहिए और स्रोतों की जांच तथा पेशेवर सत्यापन जरूरी है। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "Saran Kesehatan AI Hampir Separuh Bermasalah, Temuan Audit",
+      "excerpt": "Audit peer-review di BMJ Open menemukan hampir separuh jawaban kesehatan dari lima chatbot AI besar bermasalah, termasuk sumber palsu dan penyampaian percaya diri.",
+      "body": "Audit peer-review yang diterbitkan di BMJ Open menemukan bahwa hampir 50% jawaban terkait kesehatan dari lima chatbot AI besar bermasalah. Audit ini menilai seberapa akurat dan dapat dipercaya saran kesehatan yang dibuat AI saat pengguna mengajukan pertanyaan medis. Beberapa jawaban disebut mencantumkan sumber yang tidak ada atau menyampaikan informasi dengan dasar tidak lengkap dalam nada yang sangat yakin. Hal ini memicu kekhawatiran karena pengguna dapat mempercayai kalimat yang rapi dan format kutipan meski informasinya keliru. Temuan ini menunjukkan bahwa jawaban AI tentang kesehatan tidak boleh diikuti begitu saja, sementara verifikasi sumber dan pemeriksaan profesional tetap diperlukan. Sumber: decrypt.co"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "d0a2ae9f119f",
+  "slug": "quantum-computing-threat-39mostly-a-coordination-issue39-for-420062",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-13T23:49:49.296Z",
+  "updatedAt": "2026-05-13T23:49:49.296Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367714/quantum-computing-threat-coordination-issue-bitcoin-fireblocks-ceo",
+  "canonicalUrl": "https://decrypt.co/367714/quantum-computing-threat-coordination-issue-bitcoin-fireblocks-ceo",
+  "titleFingerprint": "6299351070be222db6b9d1a53493413c15559ab6",
+  "dedupKeys": [
+    "d0a2ae9f119f118dfef5f28f24a74f44dc537b1b",
+    "6299351070be222db6b9d1a53493413c15559ab6",
+    "6315ebcc08595505d6f2249364976459e774f448"
+  ],
+  "imageUrl": "/images/articles/d0a2ae9f119f.jpg",
+  "i18n": {
+    "ko": {
+      "title": "비트코인 양자컴퓨팅 위협, 파이어블록스 CEO “기술보다 조율 문제”",
+      "excerpt": "파이어블록스 CEO 마이클 샤울로프는 2026년 5월 13일 비트코인의 양자컴퓨팅 위협 대응이 기술 난제가 아니라 포스트양자 서명 체계로 전환하기 위한 조율 문제라고 밝혔다.",
+      "body": "2026년 5월 13일 decrypt.co에 따르면 파이어블록스 CEO 마이클 샤울로프는 파이낸셜타임스 디지털자산 서밋에서 비트코인의 양자컴퓨팅 위협은 “사람들이 말하는 것만큼 실제 위협은 아니다”라고 말했다. 그는 비트코인이 Q-Day 이전 포스트양자 암호 서명 체계로 옮겨가야 하지만, 이는 기술적 난제가 아니라 개발자와 커뮤니티가 계획에 합의하고 실행해야 하는 조율의 문제라고 설명했다. 샤울로프는 인터넷 산업 전체가 포스트양자 암호로 전환해야 하며, 일반적으로 사용할 수 있는 알고리즘은 이미 있다고 덧붙였다. 또 비트코인은 생애 동안 서명 체계를 한두 차례 바꾼 적이 있다고 언급했다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "Bitcoin Quantum Threat Is Mainly Coordination, Fireblocks CEO Says",
+      "excerpt": "Fireblocks CEO Michael Shaulov said on May 13, 2026 that Bitcoin’s quantum computing response is not a technical hurdle but a coordination challenge for moving to post-quantum signatures.",
+      "body": "According to decrypt.co on May 13, 2026, Fireblocks CEO Michael Shaulov said at the Financial Times Digital Asset Summit that the quantum computing threat to Bitcoin is “not actually a threat as people make it out to be.” He said Bitcoin should move to a post-quantum cryptographic signature scheme before Q-Day, but framed the shift as a coordination issue rather than a technical challenge. Developers and the community need to agree on a plan and execute the required moving parts. Shaulov added that the whole internet industry must move toward post-quantum encryption and that, generally speaking, usable algorithms already exist. He also noted that Bitcoin has changed signature schemes once or twice during its lifetime. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "ビットコイン量子脅威、Fireblocks CEO「技術より調整問題」",
+      "excerpt": "Fireblocks CEOのマイケル・シャウロフ氏は2026年5月13日、ビットコインの量子コンピューター対応は技術的難題ではなく、ポスト量子署名への移行を巡る調整課題だと述べた。",
+      "body": "decrypt.coが2026年5月13日に報じたところによると、FireblocksのCEOマイケル・シャウロフ氏はFinancial Times Digital Asset Summitで、ビットコインへの量子コンピューターの脅威は「人々が言うほど実際の脅威ではない」と語った。ビットコインはQ-Day前にポスト量子暗号署名方式へ移行する必要があるが、それは技術的な難題ではなく、開発者とコミュニティが計画に合意し実行するための調整問題だと説明した。シャウロフ氏は、インターネット業界全体がポスト量子暗号へ移る必要があり、一般的に利用可能なアルゴリズムはすでにあるとも述べた。また、ビットコインはこれまでに署名方式を一、二度変更したことがあると指摘した。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "比特币量子计算威胁，Fireblocks CEO称关键在协调",
+      "excerpt": "Fireblocks CEO Michael Shaulov于2026年5月13日表示，比特币应对量子计算威胁并非技术难题，核心是协调社区转向后量子签名方案。",
+      "body": "据decrypt.co 2026年5月13日报道，Fireblocks CEO Michael Shaulov在《金融时报》数字资产峰会上表示，量子计算对比特币的威胁“并不像人们说的那样是真正的威胁”。他认为，比特币需要在Q-Day之前迁移到后量子密码签名方案，但这不是技术挑战，而是开发者和社区就计划达成共识并执行各项工作的协调问题。Shaulov补充说，整个互联网行业都需要转向后量子加密，而一般来说，可用算法已经存在。他还提到，比特币在其生命周期中已经一两次更改过签名方案。来源: decrypt.co"
+    },
+    "es": {
+      "title": "Amenaza cuántica de Bitcoin: Fireblocks CEO apunta a coordinación",
+      "excerpt": "Michael Shaulov, CEO de Fireblocks, dijo el 13 de mayo de 2026 que la respuesta de Bitcoin a la computación cuántica no es técnica, sino de coordinación para adoptar firmas poscuánticas.",
+      "body": "Según decrypt.co el 13 de mayo de 2026, Michael Shaulov, CEO de Fireblocks, dijo en el Financial Times Digital Asset Summit que la amenaza de la computación cuántica para Bitcoin “no es realmente una amenaza como la gente la presenta”. Explicó que Bitcoin debe migrar a un esquema de firmas criptográficas poscuánticas antes del Q-Day, pero que el cambio es un asunto de coordinación, no un desafío técnico. Los desarrolladores y la comunidad deben acordar un plan y ejecutar las partes necesarias. Shaulov añadió que toda la industria de internet debe avanzar hacia el cifrado poscuántico y que, en general, los algoritmos disponibles ya existen. También señaló que Bitcoin ya cambió sus esquemas de firma una o dos veces durante su vida. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "Ameaça quântica ao Bitcoin é coordenação, diz CEO da Fireblocks",
+      "excerpt": "Michael Shaulov, CEO da Fireblocks, disse em 13 de maio de 2026 que a resposta do Bitcoin à computação quântica não é técnica, mas de coordenação para migrar a assinaturas pós-quânticas.",
+      "body": "Segundo a decrypt.co em 13 de maio de 2026, Michael Shaulov, CEO da Fireblocks, afirmou no Financial Times Digital Asset Summit que a ameaça da computação quântica ao Bitcoin “não é realmente uma ameaça como as pessoas dizem”. Ele disse que o Bitcoin deve migrar para um esquema de assinaturas criptográficas pós-quânticas antes do Q-Day, mas classificou a mudança como uma questão de coordenação, não um desafio técnico. Desenvolvedores e comunidade precisam concordar com um plano e executar as partes necessárias. Shaulov acrescentou que toda a indústria da internet deve avançar para a criptografia pós-quântica e que, em geral, os algoritmos disponíveis já existem. Ele também observou que o Bitcoin já mudou esquemas de assinatura uma ou duas vezes ao longo de sua existência. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "Bitcoin-Quantenrisiko ist Koordination, sagt Fireblocks-CEO",
+      "excerpt": "Fireblocks-CEO Michael Shaulov sagte am 13. Mai 2026, Bitcoins Reaktion auf Quantencomputing sei keine technische Hürde, sondern Koordination beim Wechsel zu Post-Quanten-Signaturen.",
+      "body": "Laut decrypt.co vom 13. Mai 2026 sagte Fireblocks-CEO Michael Shaulov auf dem Financial Times Digital Asset Summit, die Bedrohung durch Quantencomputing für Bitcoin sei “nicht wirklich eine Bedrohung, wie die Leute sie darstellen”. Bitcoin müsse vor dem Q-Day auf ein postquantenkryptografisches Signaturschema wechseln, doch das sei eher eine Koordinationsfrage als eine technische Herausforderung. Entwickler und Community müssten sich auf einen Plan einigen und die nötigen Schritte umsetzen. Shaulov ergänzte, die gesamte Internetbranche müsse auf Post-Quanten-Verschlüsselung umstellen, und allgemein seien nutzbare Algorithmen bereits vorhanden. Zudem habe Bitcoin im Laufe seiner Existenz schon ein- oder zweimal Signaturschemata geändert. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "Menace quantique sur Bitcoin: le CEO de Fireblocks parle coordination",
+      "excerpt": "Michael Shaulov, CEO de Fireblocks, a déclaré le 13 mai 2026 que la réponse de Bitcoin à l’informatique quantique n’est pas technique, mais relève de la coordination vers des signatures post-quantiques.",
+      "body": "Selon decrypt.co le 13 mai 2026, Michael Shaulov, CEO de Fireblocks, a déclaré au Financial Times Digital Asset Summit que la menace de l’informatique quantique pour Bitcoin “n’est pas réellement une menace comme les gens la présentent”. Il a expliqué que Bitcoin doit migrer vers un schéma de signatures cryptographiques post-quantiques avant le Q-Day, mais que ce changement relève de la coordination plutôt que d’un défi technique. Les développeurs et la communauté doivent s’accorder sur un plan puis exécuter les éléments nécessaires. Shaulov a ajouté que toute l’industrie internet doit passer au chiffrement post-quantique et que, de manière générale, des algorithmes utilisables existent déjà. Il a aussi rappelé que Bitcoin a déjà changé de schéma de signature une ou deux fois au cours de son existence. Source: decrypt.co"
+    },
+    "ar": {
+      "title": "تهديد الحوسبة الكمية لبيتكوين مسألة تنسيق، وفق رئيس Fireblocks",
+      "excerpt": "قال مايكل شاولوف، رئيس Fireblocks، في 13 مايو 2026 إن تعامل بيتكوين مع تهديد الحوسبة الكمية ليس تحديا تقنيا، بل مسألة تنسيق للانتقال إلى توقيعات ما بعد كمية.",
+      "body": "بحسب decrypt.co في 13 مايو 2026، قال مايكل شاولوف، الرئيس التنفيذي لشركة Fireblocks، خلال قمة Financial Times Digital Asset Summit إن تهديد الحوسبة الكمية لبيتكوين “ليس في الواقع تهديدا كما يصوره الناس”. وأوضح أن بيتكوين يجب أن تنتقل قبل Q-Day إلى نظام توقيعات تشفيرية ما بعد كمية، لكنه وصف ذلك بأنه مسألة تنسيق لا تحديا تقنيا. فالمطورون والمجتمع بحاجة إلى الاتفاق على خطة وتنفيذ الأجزاء المطلوبة. وأضاف شاولوف أن صناعة الإنترنت كلها يجب أن تتحول إلى التشفير ما بعد الكمي، وأن الخوارزميات القابلة للاستخدام موجودة عموما بالفعل. كما أشار إلى أن بيتكوين غيرت أنظمة التوقيع مرة أو مرتين خلال عمرها. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "Bitcoin पर क्वांटम खतरा तकनीक नहीं, समन्वय का मुद्दा: Fireblocks CEO",
+      "excerpt": "Fireblocks CEO माइकल शाउलोव ने 13 मई 2026 को कहा कि Bitcoin की क्वांटम कंप्यूटिंग प्रतिक्रिया तकनीकी बाधा नहीं, बल्कि पोस्ट-क्वांटम सिग्नेचर अपनाने का समन्वय मुद्दा है।",
+      "body": "decrypt.co के अनुसार, 13 मई 2026 को Financial Times Digital Asset Summit में Fireblocks CEO माइकल शाउलोव ने कहा कि Bitcoin के लिए क्वांटम कंप्यूटिंग का खतरा “वास्तव में उतना बड़ा खतरा नहीं है जितना लोग बताते हैं।” उन्होंने कहा कि Bitcoin को Q-Day से पहले पोस्ट-क्वांटम क्रिप्टोग्राफिक सिग्नेचर स्कीम पर जाना चाहिए, लेकिन यह तकनीकी चुनौती नहीं बल्कि समन्वय का मामला है। डेवलपर्स और समुदाय को योजना पर सहमत होकर जरूरी हिस्सों को लागू करना होगा। शाउलोव ने जोड़ा कि पूरे इंटरनेट उद्योग को पोस्ट-क्वांटम एन्क्रिप्शन की ओर बढ़ना होगा और सामान्य रूप से उपयोगी एल्गोरिदम पहले से उपलब्ध हैं। उन्होंने यह भी कहा कि Bitcoin अपने जीवनकाल में एक या दो बार सिग्नेचर स्कीम बदल चुका है। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "Ancaman Kuantum Bitcoin Disebut Soal Koordinasi oleh CEO Fireblocks",
+      "excerpt": "CEO Fireblocks Michael Shaulov pada 13 Mei 2026 mengatakan respons Bitcoin terhadap komputasi kuantum bukan hambatan teknis, melainkan koordinasi untuk beralih ke tanda tangan pascakuantum.",
+      "body": "Menurut decrypt.co pada 13 Mei 2026, CEO Fireblocks Michael Shaulov mengatakan di Financial Times Digital Asset Summit bahwa ancaman komputasi kuantum terhadap Bitcoin “sebenarnya bukan ancaman seperti yang digambarkan banyak orang”. Ia menjelaskan bahwa Bitcoin perlu beralih ke skema tanda tangan kriptografi pascakuantum sebelum Q-Day, tetapi perubahan itu lebih merupakan masalah koordinasi daripada tantangan teknis. Pengembang dan komunitas perlu menyepakati rencana lalu menjalankan bagian-bagian yang diperlukan. Shaulov menambahkan bahwa seluruh industri internet harus bergerak menuju enkripsi pascakuantum dan, secara umum, algoritme yang bisa digunakan sudah tersedia. Ia juga menyebut Bitcoin pernah mengubah skema tanda tangan satu atau dua kali selama masa hidupnya. Sumber: decrypt.co"
+    }
+  }
+}
