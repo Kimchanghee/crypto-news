@@ -17,6 +17,7 @@ const FALLBACK_PROMOS = [
 ];
 
 export function AdSlot({ network, zoneId, format = 'banner', size, className = '' }: Props) {
+  const displayAdsEnabled = process.env.NEXT_PUBLIC_ENABLE_DISPLAY_ADS === 'true';
   const t = useTranslations('ad');
   const ref = useRef<HTMLDivElement>(null);
   const [isVisible, setIsVisible] = useState(false);
@@ -34,7 +35,7 @@ export function AdSlot({ network, zoneId, format = 'banner', size, className = '
 
   // Load ad
   useEffect(() => {
-    if (!ref.current || !zoneId || !isVisible) return;
+    if (!displayAdsEnabled || !ref.current || !zoneId || !isVisible) return;
     if (network === 'mgid') {
       const w = (window as any)._mgwidget = (window as any)._mgwidget || [];
       w.push({ widgetId: zoneId });
@@ -63,7 +64,7 @@ export function AdSlot({ network, zoneId, format = 'banner', size, className = '
       };
       ref.current.appendChild(s);
     }
-  }, [network, zoneId, format, isVisible]);
+  }, [displayAdsEnabled, network, zoneId, format, isVisible]);
 
   const promo = FALLBACK_PROMOS[Math.floor(Math.random() * FALLBACK_PROMOS.length)];
   const isMobile = typeof window !== 'undefined' && window.innerWidth < 640;
@@ -71,6 +72,8 @@ export function AdSlot({ network, zoneId, format = 'banner', size, className = '
     minHeight: isMobile && size.w > 360 ? Math.min(250, size.h) : size.h,
     minWidth: isMobile && size.w > 360 ? '100%' as const : size.w
   } : undefined;
+
+  if (!displayAdsEnabled) return null;
 
   if (!zoneId) {
     return (
