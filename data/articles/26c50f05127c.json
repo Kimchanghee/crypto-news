@@ -1,0 +1,75 @@
+{
+  "id": "26c50f05127c",
+  "slug": "tezos-launches-quantum-resistant-private-payments-prototype--340572",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-14T21:21:35.868Z",
+  "updatedAt": "2026-05-14T21:21:35.868Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/tezos-quantum-resistant-private-payments-prototype-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/tezos-quantum-resistant-private-payments-prototype-testnet",
+  "titleFingerprint": "e28c3034af5c070f7c1e08c27d8348afa14c379c",
+  "dedupKeys": [
+    "26c50f05127cc1fb12f9f3581680b5c0b0de5c99",
+    "e28c3034af5c070f7c1e08c27d8348afa14c379c",
+    "ff6b19c8d818242e543e53b4cfd0126d5677616d"
+  ],
+  "imageUrl": "/images/articles/26c50f05127c.jpg",
+  "i18n": {
+    "ko": {
+      "title": "테조스, 양자 내성 비공개 결제 프로토타입 테스트넷 공개",
+      "excerpt": "테조스가 테스트넷에서 양자 내성 비공개 결제 프로토타입을 공개했다. 포스트 양자 암호와 zk-STARK 증명으로 암호화된 거래 데이터를 보호하는 것이 핵심이다.",
+      "body": "테조스는 테스트넷에서 양자 내성 비공개 결제 프로토타입을 공개했다. 이 시스템은 향후 양자 컴퓨팅 공격에 대비해 암호화된 거래 데이터를 보호하는 것을 목표로 한다. 핵심 기술은 포스트 양자 암호와 zk-STARK 증명이다. 테스트넷 단계인 만큼 실제 상용 결제망이 아니라 보안 설계를 검증하는 초기 구현에 가깝다. 양자 컴퓨팅이 기존 암호 체계에 장기적 위험으로 거론되는 가운데, 블록체인 결제의 개인정보 보호와 내구성을 함께 다루려는 시도라는 점에서 주목된다. cointelegraph.com은 이 프로토타입이 암호화 거래 데이터를 미래의 양자 공격으로부터 보호하도록 설계됐다고 전했다."
+    },
+    "en": {
+      "title": "Tezos Unveils Quantum-Resistant Private Payments Prototype on Testnet",
+      "excerpt": "Tezos has launched a quantum-resistant private payments prototype on testnet, using post-quantum cryptography and zk-STARK proofs to protect encrypted transaction data.",
+      "body": "Tezos has unveiled a quantum-resistant private payments prototype on its testnet. The system is designed to protect encrypted transaction data against potential future attacks from quantum computing. Its core technologies are post-quantum cryptography and zk-STARK proofs. Because it is still at the testnet stage, the release is closer to an early implementation for validating the security design than a live commercial payments network. As quantum computing is discussed as a long-term risk to existing cryptographic systems, the prototype draws attention for addressing both privacy and resilience in blockchain payments. cointelegraph.com reported that the prototype is built to protect encrypted transaction data from future quantum attacks."
+    },
+    "ja": {
+      "title": "テゾス、量子耐性の非公開決済プロトタイプをテストネットで公開",
+      "excerpt": "テゾスはテストネットで量子耐性を備えた非公開決済プロトタイプを公開した。ポスト量子暗号とzk-STARK証明で暗号化取引データを保護する。",
+      "body": "テゾスは、テストネット上で量子耐性を備えた非公開決済プロトタイプを公開した。このシステムは、将来の量子コンピューティング攻撃に備え、暗号化された取引データを保護することを目的としている。中核技術はポスト量子暗号とzk-STARK証明だ。現段階ではテストネットでの提供であり、実際の商用決済網ではなく、セキュリティ設計を検証する初期実装に近い。量子コンピューティングが既存の暗号体系に対する長期的リスクとして語られる中、ブロックチェーン決済のプライバシーと耐久性を同時に扱う試みとして注目される。cointelegraph.comは、このプロトタイプが暗号化取引データを将来の量子攻撃から守るよう設計されたと伝えた。"
+    },
+    "zh": {
+      "title": "Tezos在测试网上推出抗量子私密支付原型",
+      "excerpt": "Tezos已在测试网上推出抗量子私密支付原型，使用后量子密码学和zk-STARK证明，保护加密交易数据免受未来量子计算攻击。",
+      "body": "Tezos在测试网上推出了抗量子私密支付原型。该系统旨在应对未来可能出现的量子计算攻击，保护加密交易数据。其核心技术是后量子密码学和zk-STARK证明。由于目前仍处于测试网阶段，这一发布更接近用于验证安全设计的早期实现，而不是已经上线的商业支付网络。随着量子计算被视为现有密码体系的长期风险，该原型因同时关注区块链支付的隐私保护和长期韧性而受到关注。cointelegraph.com报道称，该原型被设计用于保护加密交易数据免受未来量子攻击。"
+    },
+    "es": {
+      "title": "Tezos lanza en testnet un prototipo de pagos privados resistente a la computación cuántica",
+      "excerpt": "Tezos lanzó en testnet un prototipo de pagos privados resistente a ataques cuánticos, con criptografía poscuántica y pruebas zk-STARK para proteger datos cifrados.",
+      "body": "Tezos presentó en testnet un prototipo de pagos privados resistente a la computación cuántica. El sistema busca proteger los datos de transacciones cifradas frente a posibles ataques futuros derivados de la computación cuántica. Sus tecnologías principales son la criptografía poscuántica y las pruebas zk-STARK. Al estar en fase de testnet, no se trata de una red comercial de pagos en funcionamiento, sino de una implementación inicial para validar su diseño de seguridad. Mientras la computación cuántica se considera un riesgo de largo plazo para los sistemas criptográficos actuales, el prototipo destaca por abordar privacidad y resistencia en pagos blockchain. cointelegraph.com informó que fue diseñado para proteger datos cifrados de transacciones frente a futuros ataques cuánticos."
+    },
+    "pt": {
+      "title": "Tezos lança na testnet protótipo de pagamentos privados resistente à computação quântica",
+      "excerpt": "A Tezos lançou na testnet um protótipo de pagamentos privados resistente a ataques quânticos, usando criptografia pós-quântica e provas zk-STARK para proteger dados cifrados.",
+      "body": "A Tezos lançou na testnet um protótipo de pagamentos privados resistente à computação quântica. O sistema foi criado para proteger dados de transações cifradas contra possíveis ataques futuros ligados à computação quântica. As tecnologias centrais são criptografia pós-quântica e provas zk-STARK. Como ainda está em fase de testnet, a iniciativa se aproxima de uma implementação inicial para validar o desenho de segurança, não de uma rede comercial de pagamentos em operação. Com a computação quântica sendo apontada como risco de longo prazo para sistemas criptográficos existentes, o protótipo chama atenção por tratar privacidade e resiliência em pagamentos blockchain. O cointelegraph.com informou que ele foi projetado para proteger dados cifrados de transações contra futuros ataques quânticos."
+    },
+    "de": {
+      "title": "Tezos startet quantenresistenten Prototyp für private Zahlungen im Testnet",
+      "excerpt": "Tezos hat im Testnet einen quantenresistenten Prototyp für private Zahlungen gestartet, der Post-Quanten-Kryptografie und zk-STARK-Beweise zum Schutz verschlüsselter Transaktionsdaten nutzt.",
+      "body": "Tezos hat im Testnet einen quantenresistenten Prototyp für private Zahlungen vorgestellt. Das System soll verschlüsselte Transaktionsdaten vor möglichen künftigen Angriffen durch Quantencomputing schützen. Die zentralen Technologien sind Post-Quanten-Kryptografie und zk-STARK-Beweise. Da sich die Lösung noch im Testnet befindet, handelt es sich nicht um ein kommerziell betriebenes Zahlungsnetz, sondern eher um eine frühe Implementierung zur Prüfung des Sicherheitsdesigns. Während Quantencomputing als langfristiges Risiko für bestehende Kryptosysteme diskutiert wird, fällt der Prototyp auf, weil er Datenschutz und Widerstandsfähigkeit bei Blockchain-Zahlungen zugleich adressiert. cointelegraph.com berichtete, der Prototyp sei darauf ausgelegt, verschlüsselte Transaktionsdaten vor zukünftigen Quantenangriffen zu schützen."
+    },
+    "fr": {
+      "title": "Tezos lance sur testnet un prototype de paiements privés résistant au quantique",
+      "excerpt": "Tezos a lancé sur testnet un prototype de paiements privés résistant au quantique, combinant cryptographie post-quantique et preuves zk-STARK pour protéger les données chiffrées.",
+      "body": "Tezos a présenté sur testnet un prototype de paiements privés résistant au quantique. Le système vise à protéger les données de transaction chiffrées contre de futures attaques possibles liées à l’informatique quantique. Ses technologies centrales sont la cryptographie post-quantique et les preuves zk-STARK. Comme il reste au stade du testnet, il s’agit davantage d’une première implémentation destinée à valider la conception de sécurité que d’un réseau de paiement commercial déjà en service. Alors que l’informatique quantique est évoquée comme un risque de long terme pour les systèmes cryptographiques existants, ce prototype retient l’attention en traitant à la fois la confidentialité et la résilience des paiements blockchain. cointelegraph.com a indiqué qu’il est conçu pour protéger les données de transaction chiffrées contre de futures attaques quantiques."
+    },
+    "ar": {
+      "title": "تيزوس تطلق نموذجا لمدفوعات خاصة مقاومة للكم على شبكة اختبار",
+      "excerpt": "أطلقت تيزوس على شبكة اختبار نموذجا لمدفوعات خاصة مقاومة لهجمات الحوسبة الكمية، مستخدمة تشفير ما بعد الكم وبراهين zk-STARK لحماية بيانات المعاملات المشفرة.",
+      "body": "أطلقت تيزوس نموذجا أوليا لمدفوعات خاصة مقاومة للكم على شبكة اختبار. يهدف النظام إلى حماية بيانات المعاملات المشفرة من هجمات مستقبلية محتملة تعتمد على الحوسبة الكمية. وتعتمد بنيته الأساسية على تشفير ما بعد الكم وبراهين zk-STARK. وبما أنه لا يزال في مرحلة شبكة الاختبار، فهو أقرب إلى تنفيذ مبكر لاختبار تصميم الأمان وليس شبكة مدفوعات تجارية عاملة. ومع اعتبار الحوسبة الكمية خطرا طويل الأمد على أنظمة التشفير الحالية، يلفت النموذج الانتباه لأنه يتناول الخصوصية والمتانة في مدفوعات البلوكشين معا. وذكر cointelegraph.com أن هذا النموذج صمم لحماية بيانات المعاملات المشفرة من الهجمات الكمية المستقبلية."
+    },
+    "hi": {
+      "title": "Tezos ने टेस्टनेट पर क्वांटम-प्रतिरोधी निजी भुगतान प्रोटोटाइप लॉन्च किया",
+      "excerpt": "Tezos ने टेस्टनेट पर क्वांटम-प्रतिरोधी निजी भुगतान प्रोटोटाइप लॉन्च किया, जो पोस्ट-क्वांटम क्रिप्टोग्राफी और zk-STARK प्रूफ से एन्क्रिप्टेड लेनदेन डेटा की सुरक्षा करता है।",
+      "body": "Tezos ने अपने टेस्टनेट पर क्वांटम-प्रतिरोधी निजी भुगतान प्रोटोटाइप लॉन्च किया है। यह सिस्टम भविष्य में क्वांटम कंप्यूटिंग से होने वाले संभावित हमलों से एन्क्रिप्टेड लेनदेन डेटा की रक्षा करने के लिए बनाया गया है। इसकी मुख्य तकनीकें पोस्ट-क्वांटम क्रिप्टोग्राफी और zk-STARK प्रूफ हैं। चूंकि यह अभी टेस्टनेट चरण में है, इसलिए इसे चालू व्यावसायिक भुगतान नेटवर्क के बजाय सुरक्षा डिजाइन की जांच करने वाला शुरुआती कार्यान्वयन माना जा सकता है। जब क्वांटम कंप्यूटिंग को मौजूदा क्रिप्टोग्राफिक प्रणालियों के लिए दीर्घकालिक जोखिम के रूप में देखा जा रहा है, यह प्रोटोटाइप ब्लॉकचेन भुगतान में गोपनीयता और मजबूती दोनों पर ध्यान देने के कारण महत्वपूर्ण है। cointelegraph.com ने बताया कि यह प्रोटोटाइप एन्क्रिप्टेड लेनदेन डेटा को भविष्य के क्वांटम हमलों से बचाने के लिए डिजाइन किया गया है।"
+    },
+    "id": {
+      "title": "Tezos Luncurkan Prototipe Pembayaran Privat Tahan Kuantum di Testnet",
+      "excerpt": "Tezos meluncurkan prototipe pembayaran privat tahan kuantum di testnet, memakai kriptografi pascakuantum dan bukti zk-STARK untuk melindungi data transaksi terenkripsi.",
+      "body": "Tezos meluncurkan prototipe pembayaran privat tahan kuantum di testnet. Sistem ini dirancang untuk melindungi data transaksi terenkripsi dari potensi serangan komputasi kuantum di masa depan. Teknologi utamanya adalah kriptografi pascakuantum dan bukti zk-STARK. Karena masih berada pada tahap testnet, rilis ini lebih tepat dilihat sebagai implementasi awal untuk menguji desain keamanan, bukan jaringan pembayaran komersial yang sudah berjalan. Saat komputasi kuantum dibahas sebagai risiko jangka panjang bagi sistem kriptografi yang ada, prototipe ini menarik perhatian karena membahas privasi dan ketahanan pembayaran blockchain sekaligus. cointelegraph.com melaporkan bahwa prototipe tersebut dirancang untuk melindungi data transaksi terenkripsi dari serangan kuantum di masa depan."
+    }
+  }
+}

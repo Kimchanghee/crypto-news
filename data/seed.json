@@ -1,5 +1,230 @@
 [
   {
+    "id": "26c50f05127c",
+    "slug": "tezos-launches-quantum-resistant-private-payments-prototype--340572",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T21:21:35.868Z",
+    "updatedAt": "2026-05-14T21:21:35.868Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/tezos-quantum-resistant-private-payments-prototype-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/tezos-quantum-resistant-private-payments-prototype-testnet",
+    "titleFingerprint": "e28c3034af5c070f7c1e08c27d8348afa14c379c",
+    "dedupKeys": [
+      "26c50f05127cc1fb12f9f3581680b5c0b0de5c99",
+      "e28c3034af5c070f7c1e08c27d8348afa14c379c",
+      "ff6b19c8d818242e543e53b4cfd0126d5677616d"
+    ],
+    "imageUrl": "/images/articles/26c50f05127c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "테조스, 양자 내성 비공개 결제 프로토타입 테스트넷 공개",
+        "excerpt": "테조스가 테스트넷에서 양자 내성 비공개 결제 프로토타입을 공개했다. 포스트 양자 암호와 zk-STARK 증명으로 암호화된 거래 데이터를 보호하는 것이 핵심이다.",
+        "body": "테조스는 테스트넷에서 양자 내성 비공개 결제 프로토타입을 공개했다. 이 시스템은 향후 양자 컴퓨팅 공격에 대비해 암호화된 거래 데이터를 보호하는 것을 목표로 한다. 핵심 기술은 포스트 양자 암호와 zk-STARK 증명이다. 테스트넷 단계인 만큼 실제 상용 결제망이 아니라 보안 설계를 검증하는 초기 구현에 가깝다. 양자 컴퓨팅이 기존 암호 체계에 장기적 위험으로 거론되는 가운데, 블록체인 결제의 개인정보 보호와 내구성을 함께 다루려는 시도라는 점에서 주목된다. cointelegraph.com은 이 프로토타입이 암호화 거래 데이터를 미래의 양자 공격으로부터 보호하도록 설계됐다고 전했다."
+      },
+      "en": {
+        "title": "Tezos Unveils Quantum-Resistant Private Payments Prototype on Testnet",
+        "excerpt": "Tezos has launched a quantum-resistant private payments prototype on testnet, using post-quantum cryptography and zk-STARK proofs to protect encrypted transaction data.",
+        "body": "Tezos has unveiled a quantum-resistant private payments prototype on its testnet. The system is designed to protect encrypted transaction data against potential future attacks from quantum computing. Its core technologies are post-quantum cryptography and zk-STARK proofs. Because it is still at the testnet stage, the release is closer to an early implementation for validating the security design than a live commercial payments network. As quantum computing is discussed as a long-term risk to existing cryptographic systems, the prototype draws attention for addressing both privacy and resilience in blockchain payments. cointelegraph.com reported that the prototype is built to protect encrypted transaction data from future quantum attacks."
+      },
+      "ja": {
+        "title": "テゾス、量子耐性の非公開決済プロトタイプをテストネットで公開",
+        "excerpt": "テゾスはテストネットで量子耐性を備えた非公開決済プロトタイプを公開した。ポスト量子暗号とzk-STARK証明で暗号化取引データを保護する。",
+        "body": "テゾスは、テストネット上で量子耐性を備えた非公開決済プロトタイプを公開した。このシステムは、将来の量子コンピューティング攻撃に備え、暗号化された取引データを保護することを目的としている。中核技術はポスト量子暗号とzk-STARK証明だ。現段階ではテストネットでの提供であり、実際の商用決済網ではなく、セキュリティ設計を検証する初期実装に近い。量子コンピューティングが既存の暗号体系に対する長期的リスクとして語られる中、ブロックチェーン決済のプライバシーと耐久性を同時に扱う試みとして注目される。cointelegraph.comは、このプロトタイプが暗号化取引データを将来の量子攻撃から守るよう設計されたと伝えた。"
+      },
+      "zh": {
+        "title": "Tezos在测试网上推出抗量子私密支付原型",
+        "excerpt": "Tezos已在测试网上推出抗量子私密支付原型，使用后量子密码学和zk-STARK证明，保护加密交易数据免受未来量子计算攻击。",
+        "body": "Tezos在测试网上推出了抗量子私密支付原型。该系统旨在应对未来可能出现的量子计算攻击，保护加密交易数据。其核心技术是后量子密码学和zk-STARK证明。由于目前仍处于测试网阶段，这一发布更接近用于验证安全设计的早期实现，而不是已经上线的商业支付网络。随着量子计算被视为现有密码体系的长期风险，该原型因同时关注区块链支付的隐私保护和长期韧性而受到关注。cointelegraph.com报道称，该原型被设计用于保护加密交易数据免受未来量子攻击。"
+      },
+      "es": {
+        "title": "Tezos lanza en testnet un prototipo de pagos privados resistente a la computación cuántica",
+        "excerpt": "Tezos lanzó en testnet un prototipo de pagos privados resistente a ataques cuánticos, con criptografía poscuántica y pruebas zk-STARK para proteger datos cifrados.",
+        "body": "Tezos presentó en testnet un prototipo de pagos privados resistente a la computación cuántica. El sistema busca proteger los datos de transacciones cifradas frente a posibles ataques futuros derivados de la computación cuántica. Sus tecnologías principales son la criptografía poscuántica y las pruebas zk-STARK. Al estar en fase de testnet, no se trata de una red comercial de pagos en funcionamiento, sino de una implementación inicial para validar su diseño de seguridad. Mientras la computación cuántica se considera un riesgo de largo plazo para los sistemas criptográficos actuales, el prototipo destaca por abordar privacidad y resistencia en pagos blockchain. cointelegraph.com informó que fue diseñado para proteger datos cifrados de transacciones frente a futuros ataques cuánticos."
+      },
+      "pt": {
+        "title": "Tezos lança na testnet protótipo de pagamentos privados resistente à computação quântica",
+        "excerpt": "A Tezos lançou na testnet um protótipo de pagamentos privados resistente a ataques quânticos, usando criptografia pós-quântica e provas zk-STARK para proteger dados cifrados.",
+        "body": "A Tezos lançou na testnet um protótipo de pagamentos privados resistente à computação quântica. O sistema foi criado para proteger dados de transações cifradas contra possíveis ataques futuros ligados à computação quântica. As tecnologias centrais são criptografia pós-quântica e provas zk-STARK. Como ainda está em fase de testnet, a iniciativa se aproxima de uma implementação inicial para validar o desenho de segurança, não de uma rede comercial de pagamentos em operação. Com a computação quântica sendo apontada como risco de longo prazo para sistemas criptográficos existentes, o protótipo chama atenção por tratar privacidade e resiliência em pagamentos blockchain. O cointelegraph.com informou que ele foi projetado para proteger dados cifrados de transações contra futuros ataques quânticos."
+      },
+      "de": {
+        "title": "Tezos startet quantenresistenten Prototyp für private Zahlungen im Testnet",
+        "excerpt": "Tezos hat im Testnet einen quantenresistenten Prototyp für private Zahlungen gestartet, der Post-Quanten-Kryptografie und zk-STARK-Beweise zum Schutz verschlüsselter Transaktionsdaten nutzt.",
+        "body": "Tezos hat im Testnet einen quantenresistenten Prototyp für private Zahlungen vorgestellt. Das System soll verschlüsselte Transaktionsdaten vor möglichen künftigen Angriffen durch Quantencomputing schützen. Die zentralen Technologien sind Post-Quanten-Kryptografie und zk-STARK-Beweise. Da sich die Lösung noch im Testnet befindet, handelt es sich nicht um ein kommerziell betriebenes Zahlungsnetz, sondern eher um eine frühe Implementierung zur Prüfung des Sicherheitsdesigns. Während Quantencomputing als langfristiges Risiko für bestehende Kryptosysteme diskutiert wird, fällt der Prototyp auf, weil er Datenschutz und Widerstandsfähigkeit bei Blockchain-Zahlungen zugleich adressiert. cointelegraph.com berichtete, der Prototyp sei darauf ausgelegt, verschlüsselte Transaktionsdaten vor zukünftigen Quantenangriffen zu schützen."
+      },
+      "fr": {
+        "title": "Tezos lance sur testnet un prototype de paiements privés résistant au quantique",
+        "excerpt": "Tezos a lancé sur testnet un prototype de paiements privés résistant au quantique, combinant cryptographie post-quantique et preuves zk-STARK pour protéger les données chiffrées.",
+        "body": "Tezos a présenté sur testnet un prototype de paiements privés résistant au quantique. Le système vise à protéger les données de transaction chiffrées contre de futures attaques possibles liées à l’informatique quantique. Ses technologies centrales sont la cryptographie post-quantique et les preuves zk-STARK. Comme il reste au stade du testnet, il s’agit davantage d’une première implémentation destinée à valider la conception de sécurité que d’un réseau de paiement commercial déjà en service. Alors que l’informatique quantique est évoquée comme un risque de long terme pour les systèmes cryptographiques existants, ce prototype retient l’attention en traitant à la fois la confidentialité et la résilience des paiements blockchain. cointelegraph.com a indiqué qu’il est conçu pour protéger les données de transaction chiffrées contre de futures attaques quantiques."
+      },
+      "ar": {
+        "title": "تيزوس تطلق نموذجا لمدفوعات خاصة مقاومة للكم على شبكة اختبار",
+        "excerpt": "أطلقت تيزوس على شبكة اختبار نموذجا لمدفوعات خاصة مقاومة لهجمات الحوسبة الكمية، مستخدمة تشفير ما بعد الكم وبراهين zk-STARK لحماية بيانات المعاملات المشفرة.",
+        "body": "أطلقت تيزوس نموذجا أوليا لمدفوعات خاصة مقاومة للكم على شبكة اختبار. يهدف النظام إلى حماية بيانات المعاملات المشفرة من هجمات مستقبلية محتملة تعتمد على الحوسبة الكمية. وتعتمد بنيته الأساسية على تشفير ما بعد الكم وبراهين zk-STARK. وبما أنه لا يزال في مرحلة شبكة الاختبار، فهو أقرب إلى تنفيذ مبكر لاختبار تصميم الأمان وليس شبكة مدفوعات تجارية عاملة. ومع اعتبار الحوسبة الكمية خطرا طويل الأمد على أنظمة التشفير الحالية، يلفت النموذج الانتباه لأنه يتناول الخصوصية والمتانة في مدفوعات البلوكشين معا. وذكر cointelegraph.com أن هذا النموذج صمم لحماية بيانات المعاملات المشفرة من الهجمات الكمية المستقبلية."
+      },
+      "hi": {
+        "title": "Tezos ने टेस्टनेट पर क्वांटम-प्रतिरोधी निजी भुगतान प्रोटोटाइप लॉन्च किया",
+        "excerpt": "Tezos ने टेस्टनेट पर क्वांटम-प्रतिरोधी निजी भुगतान प्रोटोटाइप लॉन्च किया, जो पोस्ट-क्वांटम क्रिप्टोग्राफी और zk-STARK प्रूफ से एन्क्रिप्टेड लेनदेन डेटा की सुरक्षा करता है।",
+        "body": "Tezos ने अपने टेस्टनेट पर क्वांटम-प्रतिरोधी निजी भुगतान प्रोटोटाइप लॉन्च किया है। यह सिस्टम भविष्य में क्वांटम कंप्यूटिंग से होने वाले संभावित हमलों से एन्क्रिप्टेड लेनदेन डेटा की रक्षा करने के लिए बनाया गया है। इसकी मुख्य तकनीकें पोस्ट-क्वांटम क्रिप्टोग्राफी और zk-STARK प्रूफ हैं। चूंकि यह अभी टेस्टनेट चरण में है, इसलिए इसे चालू व्यावसायिक भुगतान नेटवर्क के बजाय सुरक्षा डिजाइन की जांच करने वाला शुरुआती कार्यान्वयन माना जा सकता है। जब क्वांटम कंप्यूटिंग को मौजूदा क्रिप्टोग्राफिक प्रणालियों के लिए दीर्घकालिक जोखिम के रूप में देखा जा रहा है, यह प्रोटोटाइप ब्लॉकचेन भुगतान में गोपनीयता और मजबूती दोनों पर ध्यान देने के कारण महत्वपूर्ण है। cointelegraph.com ने बताया कि यह प्रोटोटाइप एन्क्रिप्टेड लेनदेन डेटा को भविष्य के क्वांटम हमलों से बचाने के लिए डिजाइन किया गया है।"
+      },
+      "id": {
+        "title": "Tezos Luncurkan Prototipe Pembayaran Privat Tahan Kuantum di Testnet",
+        "excerpt": "Tezos meluncurkan prototipe pembayaran privat tahan kuantum di testnet, memakai kriptografi pascakuantum dan bukti zk-STARK untuk melindungi data transaksi terenkripsi.",
+        "body": "Tezos meluncurkan prototipe pembayaran privat tahan kuantum di testnet. Sistem ini dirancang untuk melindungi data transaksi terenkripsi dari potensi serangan komputasi kuantum di masa depan. Teknologi utamanya adalah kriptografi pascakuantum dan bukti zk-STARK. Karena masih berada pada tahap testnet, rilis ini lebih tepat dilihat sebagai implementasi awal untuk menguji desain keamanan, bukan jaringan pembayaran komersial yang sudah berjalan. Saat komputasi kuantum dibahas sebagai risiko jangka panjang bagi sistem kriptografi yang ada, prototipe ini menarik perhatian karena membahas privasi dan ketahanan pembayaran blockchain sekaligus. cointelegraph.com melaporkan bahwa prototipe tersebut dirancang untuk melindungi data transaksi terenkripsi dari serangan kuantum di masa depan."
+      }
+    }
+  },
+  {
+    "id": "b33c11505f95",
+    "slug": "bank-of-england-reconsiders-strict-stablecoin-regime-975185",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T21:20:35.819Z",
+    "updatedAt": "2026-05-14T21:20:35.819Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/boe-signals-softer-uk-stablecoin-regime-after-industry-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/boe-signals-softer-uk-stablecoin-regime-after-industry-backlash",
+    "titleFingerprint": "2baffbec2c53d33fd62b5b8253f82807508c0358",
+    "dedupKeys": [
+      "b33c11505f957d9dc813659a5e4b05ac9cce7cca",
+      "2baffbec2c53d33fd62b5b8253f82807508c0358",
+      "7a6cd20a9a5c8e255f168ed51637ec9301514bee"
+    ],
+    "imageUrl": "/images/articles/b33c11505f95.jpg",
+    "i18n": {
+      "ko": {
+        "title": "영국 스테이블코인 규제 재검토, BoE 완화 가능성 주목",
+        "excerpt": "영란은행이 업계 반발 이후 영국 스테이블코인 보유 한도와 준비금 요건 완화를 검토하며, 파운드 연동 토큰 경쟁력에 영향을 줄 전망이다.",
+        "body": "영란은행(BoE)이 영국 스테이블코인 규제 체계를 다시 검토하고 있다. 업계의 반발이 커진 뒤, BoE는 스테이블코인 보유 한도와 준비금 요건을 완화할 가능성을 저울질하는 것으로 전해졌다. 이번 논의는 파운드화 연동 토큰이 달러 연동 스테이블코인과 경쟁할 수 있을지를 가를 수 있는 사안이다. 엄격한 한도와 준비금 요구는 안정성 확보를 위한 장치로 제시됐지만, 업계는 과도한 규제가 시장 성장과 채택을 제한할 수 있다고 우려해왔다. 규제가 완화될 경우 영국 내 GBP 토큰 발행과 활용 여지가 넓어질 수 있으나, 최종 방향은 BoE의 판단에 달려 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "UK Stablecoin Rules Under Review as BoE Weighs Softer Limits",
+        "excerpt": "The Bank of England is weighing softer UK stablecoin caps and reserve demands after industry pushback, a move that could affect GBP token competition.",
+        "body": "The Bank of England is reconsidering the United Kingdom’s stablecoin regulatory framework. After industry backlash, the BoE is reportedly weighing whether to ease stablecoin holding caps and reserve requirements. The discussion could help determine whether pound-linked tokens can compete with dollar-pegged stablecoins. Strict caps and reserve demands were presented as safeguards for stability, but the industry has warned that excessive regulation could limit market growth and adoption. If the rules are eased, issuance and use of GBP tokens in the UK could have more room to develop, though the final direction depends on the BoE’s decision. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "英国ステーブルコイン規制を再検討、BoEが緩和を模索",
+        "excerpt": "イングランド銀行は業界の反発を受け、英国ステーブルコインの保有限度と準備金要件の緩和を検討しており、GBPトークンの競争力に影響する可能性がある。",
+        "body": "イングランド銀行（BoE）は、英国のステーブルコイン規制枠組みを再検討している。業界からの反発が強まった後、BoEはステーブルコインの保有限度と準備金要件を緩和する可能性を検討しているとされる。今回の議論は、ポンド連動トークンがドル連動ステーブルコインと競争できるかを左右し得る。厳格な上限と準備金要件は安定性確保の手段として示されたが、業界は過度な規制が市場成長と採用を制限しかねないと懸念してきた。規制が緩和されれば、英国でのGBPトークンの発行と利用の余地が広がる可能性がある。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "英国稳定币监管再评估，英格兰银行考虑放宽限制",
+        "excerpt": "英格兰银行在行业反弹后考虑放宽英国稳定币持有上限和储备要求，此举可能影响英镑代币与美元稳定币的竞争力。",
+        "body": "英格兰银行（BoE）正在重新评估英国稳定币监管框架。在行业反弹之后，BoE据称正在权衡是否放宽稳定币持有上限和储备要求。这一讨论可能决定英镑挂钩代币能否与美元挂钩稳定币竞争。严格的上限和储备要求被视为维护稳定性的措施，但行业担心，过度监管可能限制市场增长和采用。如果规则放宽，英国境内GBP代币的发行和使用空间可能扩大，不过最终方向仍取决于BoE的判断。来源：cointelegraph.com"
+      },
+      "es": {
+        "title": "Reglas de stablecoins del Reino Unido, bajo revisión del BoE",
+        "excerpt": "El Banco de Inglaterra evalúa suavizar límites y reservas para stablecoins tras críticas del sector, una decisión clave para los tokens vinculados a la libra.",
+        "body": "El Banco de Inglaterra (BoE) está revisando el marco regulatorio de stablecoins del Reino Unido. Tras la reacción negativa de la industria, el BoE sopesa aliviar los límites de tenencia y las exigencias de reservas para stablecoins. La discusión podría definir si los tokens vinculados a la libra pueden competir con rivales anclados al dólar. Los topes estrictos y los requisitos de reservas se presentaron como medidas de estabilidad, pero el sector ha advertido que una regulación excesiva podría limitar el crecimiento y la adopción del mercado. Si se flexibilizan las reglas, la emisión y el uso de tokens GBP en el Reino Unido podrían ganar margen. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Regras de stablecoins no Reino Unido entram em revisão pelo BoE",
+        "excerpt": "O Banco da Inglaterra avalia aliviar limites e exigências de reserva para stablecoins após reação do setor, decisão que pode afetar tokens ligados à libra.",
+        "body": "O Banco da Inglaterra (BoE) está reavaliando o regime regulatório de stablecoins do Reino Unido. Após críticas da indústria, o BoE considera flexibilizar limites de posse e exigências de reservas para stablecoins. A discussão pode definir se tokens vinculados à libra conseguirão competir com rivais atrelados ao dólar. Limites rígidos e reservas elevadas foram apresentados como mecanismos de estabilidade, mas o setor alerta que regras excessivas podem restringir o crescimento e a adoção do mercado. Se houver flexibilização, a emissão e o uso de tokens GBP no Reino Unido podem ganhar espaço, dependendo da decisão final do BoE. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "UK-Stablecoin-Regeln auf dem Prüfstand: BoE erwägt Lockerung",
+        "excerpt": "Die Bank of England prüft nach Branchenprotesten lockerere Stablecoin-Obergrenzen und Reservepflichten, was GBP-Token im Wettbewerb beeinflussen könnte.",
+        "body": "Die Bank of England (BoE) überprüft den britischen Regulierungsrahmen für Stablecoins. Nach Kritik aus der Branche erwägt die BoE, Halteobergrenzen und Reserveanforderungen für Stablecoins zu lockern. Die Debatte könnte mitentscheiden, ob an das Pfund gekoppelte Token mit dollarbasierten Stablecoins konkurrieren können. Strenge Grenzen und Reservepflichten wurden als Stabilitätsmaßnahmen vorgestellt, doch die Branche warnt, dass übermäßige Regulierung Marktwachstum und Akzeptanz bremsen könnte. Bei einer Lockerung könnten Ausgabe und Nutzung von GBP-Token im Vereinigten Königreich mehr Spielraum erhalten. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Stablecoins au Royaume-Uni : la BoE réévalue un cadre strict",
+        "excerpt": "La Banque d’Angleterre envisage d’assouplir les plafonds et réserves des stablecoins après les critiques du secteur, avec un enjeu pour les tokens GBP.",
+        "body": "La Banque d’Angleterre (BoE) réexamine le cadre britannique de régulation des stablecoins. Après les critiques de l’industrie, la BoE étudie un possible assouplissement des plafonds de détention et des exigences de réserves. Ce débat pourrait déterminer si les tokens adossés à la livre peuvent rivaliser avec les stablecoins indexés sur le dollar. Les plafonds stricts et les réserves obligatoires ont été présentés comme des garanties de stabilité, mais le secteur craint qu’une réglementation excessive ne limite la croissance et l’adoption du marché. En cas d’assouplissement, l’émission et l’usage de tokens GBP au Royaume-Uni pourraient s’élargir. Source : cointelegraph.com"
+      },
+      "ar": {
+        "title": "قواعد العملات المستقرة في بريطانيا قيد مراجعة من بنك إنجلترا",
+        "excerpt": "يدرس بنك إنجلترا تخفيف حدود حيازة العملات المستقرة ومتطلبات الاحتياطي بعد اعتراضات القطاع، بما قد يؤثر في قدرة رموز الجنيه على المنافسة.",
+        "body": "يعيد بنك إنجلترا النظر في إطار تنظيم العملات المستقرة في المملكة المتحدة. وبعد اعتراضات من القطاع، يدرس البنك إمكانية تخفيف حدود الحيازة ومتطلبات الاحتياطي الخاصة بالعملات المستقرة. وقد تحدد هذه المناقشة ما إذا كانت الرموز المرتبطة بالجنيه الإسترليني قادرة على منافسة العملات المستقرة المرتبطة بالدولار. وقد طُرحت الحدود الصارمة ومتطلبات الاحتياطي كأدوات لحماية الاستقرار، لكن القطاع حذر من أن التنظيم المفرط قد يحد من نمو السوق وتبنيها. وإذا تم تخفيف القواعد، فقد تتسع فرص إصدار واستخدام رموز GBP داخل بريطانيا، مع بقاء القرار النهائي بيد بنك إنجلترا. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "यूके Stablecoin नियमों की समीक्षा, BoE नरमी पर विचार कर रहा",
+        "excerpt": "बैंक ऑफ इंग्लैंड उद्योग की आपत्तियों के बाद यूके stablecoin सीमा और रिजर्व मांगों में ढील पर विचार कर रहा है, जिससे GBP टोकन प्रतिस्पर्धा प्रभावित हो सकती है।",
+        "body": "बैंक ऑफ इंग्लैंड (BoE) यूनाइटेड किंगडम के stablecoin नियामकीय ढांचे पर फिर से विचार कर रहा है। उद्योग की प्रतिक्रिया के बाद, BoE stablecoin होल्डिंग सीमा और रिजर्व आवश्यकताओं को नरम करने की संभावना पर विचार कर रहा है। यह चर्चा तय कर सकती है कि पाउंड से जुड़े टोकन डॉलर-पेग्ड stablecoins से प्रतिस्पर्धा कर पाएंगे या नहीं। सख्त सीमा और रिजर्व मांगों को स्थिरता के उपाय के रूप में पेश किया गया था, लेकिन उद्योग ने चेताया है कि अत्यधिक नियम बाजार की वृद्धि और अपनाने को सीमित कर सकते हैं। यदि नियम नरम होते हैं, तो यूके में GBP टोकन जारी करने और उपयोग की गुंजाइश बढ़ सकती है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Aturan Stablecoin Inggris Dikaji Ulang, BoE Pertimbangkan Pelonggaran",
+        "excerpt": "Bank of England menimbang pelonggaran batas stablecoin dan tuntutan cadangan Inggris setelah penolakan industri, langkah yang dapat memengaruhi token GBP.",
+        "body": "Bank of England (BoE) sedang meninjau kembali kerangka regulasi stablecoin Inggris. Setelah mendapat penolakan dari industri, BoE dilaporkan mempertimbangkan pelonggaran batas kepemilikan stablecoin dan persyaratan cadangan. Pembahasan ini dapat menentukan apakah token yang terkait pound mampu bersaing dengan stablecoin yang dipatok ke dolar. Batas ketat dan tuntutan cadangan diajukan sebagai alat menjaga stabilitas, tetapi industri khawatir regulasi berlebihan dapat membatasi pertumbuhan dan adopsi pasar. Jika aturan dilonggarkan, penerbitan dan penggunaan token GBP di Inggris dapat memiliki ruang lebih besar, bergantung pada keputusan akhir BoE. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "9f3c7098cd68",
+    "slug": "cftc-no-action-letter-eases-event-contract-reporting-rules-379781",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T21:19:39.918Z",
+    "updatedAt": "2026-05-14T21:19:39.918Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/cftc-issues-no-action-letter-prediction-market-data-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/cftc-issues-no-action-letter-prediction-market-data-reporting",
+    "titleFingerprint": "5d2713b2a2cd700b5656987e4d688218ad0a1d5f",
+    "dedupKeys": [
+      "9f3c7098cd68f59653079bf867c23250da13f57c",
+      "5d2713b2a2cd700b5656987e4d688218ad0a1d5f",
+      "0c47f076d878edf19477b64a5d23c0d657688d42"
+    ],
+    "imageUrl": "/images/articles/9f3c7098cd68.jpg",
+    "i18n": {
+      "ko": {
+        "title": "CFTC 노액션 서한, 이벤트 계약 보고 규정 완화",
+        "excerpt": "미국 CFTC가 예측시장 분쟁이 확대되는 가운데 완전 담보형 이벤트 계약에 대해 일부 스왑 보고 규정 적용을 면제하는 노액션 구제를 발표했다.",
+        "body": "미국 상품선물거래위원회(CFTC)가 완전 담보형 이벤트 계약에 대해 특정 스왑 보고 규정에서 노액션 구제를 부여했다. 이번 조치는 예측시장 관련 분쟁이 확대되는 상황에서 나왔다. 노액션 서한은 해당 이벤트 계약이 완전히 담보화된 경우 일부 보고 의무와 관련해 집행 조치를 취하지 않겠다는 취지다. 이벤트 계약과 예측시장을 둘러싼 규제 논쟁이 커지는 가운데, 이번 완화는 관련 시장 참가자들의 보고 부담에 직접 영향을 줄 수 있다. 다만 원문은 구제 범위가 특정 스왑 보고 규정에 한정된다고 전했다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "CFTC No-Action Letter Eases Event Contract Reporting Rules",
+        "excerpt": "The US CFTC issued no-action relief for fully collateralized event contracts, easing certain swap reporting rules as prediction market disputes widen.",
+        "body": "The US Commodity Futures Trading Commission issued no-action relief from certain swap reporting rules for fully collateralized event contracts. The move comes as disputes around prediction markets continue to widen. The no-action letter means the agency would not pursue enforcement tied to some reporting obligations when the event contracts are fully collateralized. As regulatory debate over event contracts and prediction markets grows, the relief may directly affect reporting burdens for relevant market participants. However, the original report said the relief is limited to certain swap reporting rules. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "CFTCノーアクション書簡、イベント契約の報告規則を緩和",
+        "excerpt": "米CFTCは、予測市場をめぐる係争が広がる中、完全担保型イベント契約に対し一部スワップ報告規則のノーアクション救済を出した。",
+        "body": "米商品先物取引委員会（CFTC）は、完全担保型イベント契約について、特定のスワップ報告規則からのノーアクション救済を付与した。この措置は、予測市場をめぐる係争が広がる中で示された。ノーアクション書簡は、対象となるイベント契約が完全に担保されている場合、一部の報告義務に関連して執行措置を取らないという趣旨だ。イベント契約と予測市場をめぐる規制上の議論が強まる中、今回の緩和は関係する市場参加者の報告負担に直接影響し得る。ただし原文は、救済範囲が特定のスワップ報告規則に限られると伝えている。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "CFTC无行动函放宽事件合约报告规则",
+        "excerpt": "美国CFTC在预测市场争议扩大之际，对完全抵押的事件合约给予无行动救济，放宽部分掉期报告规则。",
+        "body": "美国商品期货交易委员会（CFTC）对完全抵押的事件合约给予了针对部分掉期报告规则的无行动救济。该举措出台之际，围绕预测市场的争议正在扩大。无行动函的含义是，在相关事件合约完全抵押的情况下，监管机构不会就部分报告义务采取执法行动。随着事件合约和预测市场相关监管讨论升温，此次放宽可能直接影响相关市场参与者的报告负担。不过，原文称该救济范围仅限于特定掉期报告规则。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "La CFTC suaviza reglas de reporte para contratos de eventos",
+        "excerpt": "La CFTC de EE. UU. emitió alivio de no acción para contratos de eventos totalmente colateralizados, aliviando ciertas reglas de reporte de swaps.",
+        "body": "La Comisión de Negociación de Futuros de Productos Básicos de EE. UU. (CFTC) otorgó alivio de no acción respecto de ciertas reglas de reporte de swaps para contratos de eventos totalmente colateralizados. La medida llega mientras se amplían las disputas en torno a los mercados de predicción. La carta de no acción indica que, cuando esos contratos estén completamente respaldados por colateral, la agencia no tomaría medidas de aplicación relacionadas con algunas obligaciones de reporte. En medio del debate regulatorio sobre contratos de eventos y mercados de predicción, el alivio puede afectar directamente la carga de reporte de los participantes relevantes. La fuente señala que el alcance se limita a ciertas reglas de reporte de swaps. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "CFTC flexibiliza regras de reporte para contratos de eventos",
+        "excerpt": "A CFTC dos EUA emitiu alívio de não ação para contratos de eventos totalmente colateralizados, suavizando certas regras de reporte de swaps.",
+        "body": "A Comissão de Negociação de Futuros de Commodities dos EUA (CFTC) concedeu alívio de não ação em relação a certas regras de reporte de swaps para contratos de eventos totalmente colateralizados. A medida ocorre enquanto disputas sobre mercados de previsão se ampliam. A carta de não ação indica que, quando esses contratos estiverem totalmente garantidos por colateral, a agência não buscaria medidas de aplicação ligadas a algumas obrigações de reporte. Em meio ao debate regulatório sobre contratos de eventos e mercados de previsão, a flexibilização pode afetar diretamente a carga de reporte dos participantes relevantes. O texto original afirma que o alcance se limita a certas regras de reporte de swaps. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "CFTC-No-Action-Schreiben lockert Meldepflichten für Event-Kontrakte",
+        "excerpt": "Die US-CFTC gewährte No-Action Relief für vollständig besicherte Event-Kontrakte und lockerte damit bestimmte Swap-Meldepflichten.",
+        "body": "Die US Commodity Futures Trading Commission (CFTC) hat für vollständig besicherte Event-Kontrakte No-Action Relief von bestimmten Swap-Meldepflichten gewährt. Der Schritt erfolgt, während Streitigkeiten rund um Prognosemärkte zunehmen. Das No-Action-Schreiben bedeutet, dass die Behörde bei vollständig besicherten Event-Kontrakten in Bezug auf einige Meldepflichten keine Durchsetzungsmaßnahmen verfolgen würde. Da die regulatorische Debatte über Event-Kontrakte und Prognosemärkte wächst, kann die Erleichterung die Berichtslast betroffener Marktteilnehmer direkt beeinflussen. Der Originalbericht betont jedoch, dass sich die Entlastung auf bestimmte Swap-Meldevorschriften beschränkt. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "La CFTC allège les règles de déclaration des contrats événementiels",
+        "excerpt": "La CFTC américaine a accordé une mesure de non-intervention aux contrats événementiels entièrement collatéralisés, allégeant certaines règles de déclaration de swaps.",
+        "body": "La Commodity Futures Trading Commission (CFTC) des États-Unis a accordé une mesure de non-intervention concernant certaines règles de déclaration de swaps pour les contrats événementiels entièrement collatéralisés. Cette décision intervient alors que les différends autour des marchés de prédiction s’élargissent. La lettre de non-intervention signifie que, lorsque ces contrats sont entièrement garantis, l’agence ne poursuivrait pas d’action d’application liée à certaines obligations de déclaration. Dans un contexte de débat réglementaire croissant sur les contrats événementiels et les marchés de prédiction, cet allègement peut toucher directement la charge de déclaration des acteurs concernés. Le texte original précise toutefois que la mesure reste limitée à certaines règles de déclaration de swaps. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "خطاب عدم اتخاذ إجراء من CFTC يخفف قواعد تقارير عقود الأحداث",
+        "excerpt": "أصدرت CFTC الأمريكية إعفاء عدم اتخاذ إجراء لعقود الأحداث المضمونة بالكامل، مخففة بعض قواعد تقارير المبادلات مع اتساع نزاعات أسواق التنبؤ.",
+        "body": "أصدرت لجنة تداول السلع الآجلة الأمريكية (CFTC) إعفاء عدم اتخاذ إجراء من بعض قواعد تقارير المبادلات لعقود الأحداث المضمونة بالكامل. ويأتي هذا التحرك مع اتساع النزاعات المرتبطة بأسواق التنبؤ. ويعني خطاب عدم اتخاذ إجراء أن الوكالة لن تسعى إلى إجراءات إنفاذ مرتبطة ببعض التزامات التقارير عندما تكون عقود الأحداث مضمونة بالكامل. ومع تزايد الجدل التنظيمي حول عقود الأحداث وأسواق التنبؤ، قد يؤثر هذا التخفيف مباشرة في أعباء التقارير على المشاركين المعنيين في السوق. ومع ذلك، ذكر النص الأصلي أن نطاق الإعفاء يقتصر على قواعد محددة لتقارير المبادلات. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "CFTC नो-एक्शन पत्र से इवेंट कॉन्ट्रैक्ट रिपोर्टिंग नियम नरम",
+        "excerpt": "अमेरिकी CFTC ने पूरी तरह संपार्श्विक इवेंट कॉन्ट्रैक्ट्स के लिए नो-एक्शन राहत दी, जिससे कुछ स्वैप रिपोर्टिंग नियम नरम हुए।",
+        "body": "अमेरिकी कमोडिटी फ्यूचर्स ट्रेडिंग कमीशन (CFTC) ने पूरी तरह संपार्श्विक इवेंट कॉन्ट्रैक्ट्स के लिए कुछ स्वैप रिपोर्टिंग नियमों से नो-एक्शन राहत जारी की। यह कदम ऐसे समय आया है जब प्रेडिक्शन मार्केट से जुड़े विवाद बढ़ रहे हैं। नो-एक्शन पत्र का अर्थ है कि यदि इवेंट कॉन्ट्रैक्ट पूरी तरह संपार्श्विक हैं, तो एजेंसी कुछ रिपोर्टिंग दायित्वों से जुड़े प्रवर्तन कदम नहीं उठाएगी। इवेंट कॉन्ट्रैक्ट्स और प्रेडिक्शन मार्केट्स पर नियामकीय बहस बढ़ने के बीच यह राहत संबंधित बाजार प्रतिभागियों के रिपोर्टिंग बोझ को सीधे प्रभावित कर सकती है। मूल रिपोर्ट के अनुसार राहत का दायरा केवल कुछ स्वैप रिपोर्टिंग नियमों तक सीमित है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Surat No-Action CFTC Ringankan Aturan Laporan Kontrak Event",
+        "excerpt": "CFTC AS menerbitkan keringanan no-action untuk kontrak event yang sepenuhnya dijaminkan, melonggarkan aturan pelaporan swap tertentu.",
+        "body": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) memberikan keringanan no-action dari aturan pelaporan swap tertentu untuk kontrak event yang sepenuhnya dijaminkan. Langkah ini muncul saat sengketa terkait pasar prediksi semakin meluas. Surat no-action berarti lembaga tersebut tidak akan mengambil tindakan penegakan terkait sebagian kewajiban pelaporan ketika kontrak event sepenuhnya dijamin kolateral. Di tengah meningkatnya perdebatan regulasi tentang kontrak event dan pasar prediksi, pelonggaran ini dapat langsung memengaruhi beban pelaporan peserta pasar terkait. Namun, laporan asli menyebut cakupan keringanan terbatas pada aturan pelaporan swap tertentu. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "22ea8da3a1f5",
     "slug": "bitcoin-trades-at-a-discount-on-coinbase-is-a-76k-retest-nex-895469",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Claude bantu pulihkan bitcoin US$395 ribu yang terkunci bertahun-tahun",
         "excerpt": "Claude membantu memulihkan bitcoin senilai US$395 ribu yang terjebak di komputer selama bertahun-tahun setelah pemiliknya delapan minggu mencoba kata sandi dompet secara brute force.",
         "body": "Claude membantu memulihkan bitcoin senilai US$395 ribu yang terkunci di sebuah komputer selama bertahun-tahun. Pemiliknya telah mencoba selama delapan minggu untuk menebak kata sandi dompet Blockchain.com miliknya saat ini dengan metode brute force. Dalam proses itu, ia memakai layanan btcrecover dan menguji sekitar 3,5 triliun kombinasi menggunakan chip komputasi sewaan. Kasus ini menunjukkan bahwa kehilangan akses ke dompet bitcoin dapat membutuhkan waktu lama dan sumber daya komputasi besar untuk dipulihkan. Namun, informasi yang dilaporkan terbatas pada kasus pemulihan khusus ini. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "b9ea686190f4",
-    "slug": "only-4-of-americans-weigh-crypto-when-placing-their-votes-po-545593",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T04:50:23.957Z",
-    "updatedAt": "2026-05-14T04:50:23.957Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/4-percent-americans-weigh-crypto-policy-when-voting-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/4-percent-americans-weigh-crypto-policy-when-voting-poll",
-    "titleFingerprint": "7e9ca2464b8623f27d99fddd538cb495f04162e2",
-    "dedupKeys": [
-      "b9ea686190f421c742e0feed238c9bee28e2d5a7",
-      "7e9ca2464b8623f27d99fddd538cb495f04162e2",
-      "0096009eb4086d3b9c6284162550e1eb37d0d5be"
-    ],
-    "imageUrl": "/images/articles/b9ea686190f4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미국 유권자 암호화폐 관심 낮아…투표 기준 반영은 4%뿐",
-        "excerpt": "POLITICO 여론조사에 따르면 미국 성인 다수는 암호화폐에 신중하며, 후보 선택 때 암호화폐 정책을 고려한다는 응답은 4%에 그쳤다.",
-        "body": "미국 성인들은 투표할 후보를 고를 때 암호화폐를 중요한 기준으로 보지 않는 것으로 나타났다. POLITICO 여론조사에 따르면 암호화폐 정책을 표심에 반영한다고 답한 미국인은 4%에 불과했다. 응답자들은 전반적으로 암호화폐에 경계심을 보였으며, 후보 선택에 영향을 주는 정책 이슈 가운데 암호화폐를 가장 덜 중요한 항목으로 평가했다. 이번 결과는 암호화폐가 정치권의 주요 의제로 거론되더라도 일반 유권자에게는 우선순위가 낮다는 점을 보여준다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Crypto ranks low with US voters as only 4% weigh it in ballots",
-        "excerpt": "A POLITICO poll found most US adults remain wary of crypto, with only 4% saying crypto policy affects their choice of candidate when voting.",
-        "body": "US adults do not appear to see cryptocurrency as a major factor when choosing whom to vote for. According to a POLITICO poll, only 4% of Americans said they consider crypto policy when casting their ballots. Respondents were broadly cautious about cryptocurrency and ranked it as the least important policy issue influencing candidate choice. The result suggests that, even as crypto appears in political debate, it remains a low-priority issue for many ordinary voters. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "米有権者の暗号資産関心は低調、投票で考慮は4%のみ",
-        "excerpt": "POLITICOの世論調査によると、米成人の多くは暗号資産に慎重で、候補者選びで暗号資産政策を考慮する人は4%にとどまった。",
-        "body": "米国の成人は、投票する候補者を選ぶ際に暗号資産を重要な判断材料とは見ていないようだ。POLITICOの世論調査によれば、暗号資産政策を投票判断に反映すると答えた米国人はわずか4%だった。回答者は全体として暗号資産に警戒感を示し、候補者選びに影響する政策課題の中で暗号資産を最も重要度の低い項目と評価した。この結果は、暗号資産が政治の議題に上っても、一般有権者の優先順位は低いことを示している。出典: cointelegraph.com。"
-      },
-      "zh": {
-        "title": "美国选民对加密货币兴趣偏低，仅4%投票时会考虑",
-        "excerpt": "POLITICO民调显示，多数美国成年人对加密货币持谨慎态度，只有4%表示在选择候选人时会考虑加密政策。",
-        "body": "美国成年人在选择投票对象时，似乎并不把加密货币视为重要标准。根据POLITICO的一项民调，只有4%的美国人表示会把加密货币政策纳入投票考量。受访者整体上对加密货币保持警惕，并将其评为影响候选人选择的政策议题中最不重要的一项。这一结果表明，即使加密货币进入政治讨论，对普通选民而言仍然不是优先事项。来源: cointelegraph.com。"
-      },
-      "es": {
-        "title": "Cripto pesa poco entre votantes de EE. UU.: solo 4% la considera",
-        "excerpt": "Una encuesta de POLITICO indica que la mayoría de adultos en EE. UU. desconfía de las criptomonedas y solo 4% las considera al votar.",
-        "body": "Los adultos en Estados Unidos no parecen ver las criptomonedas como un factor relevante al elegir por quién votar. Según una encuesta de POLITICO, solo el 4% de los estadounidenses dijo que considera la política cripto al emitir su voto. Los encuestados mostraron cautela general hacia las criptomonedas y las ubicaron como el tema de política menos importante para decidir entre candidatos. El resultado sugiere que, aunque cripto aparezca en el debate político, sigue siendo una prioridad baja para muchos votantes. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Cripto pesa pouco para eleitores dos EUA; só 4% consideram",
-        "excerpt": "Pesquisa da POLITICO mostra que a maioria dos adultos nos EUA é cautelosa com cripto, e apenas 4% consideram políticas cripto ao votar.",
-        "body": "Adultos nos Estados Unidos não parecem ver as criptomoedas como um fator importante na escolha de em quem votar. Segundo uma pesquisa da POLITICO, apenas 4% dos americanos disseram considerar políticas de cripto ao depositar seus votos. Os entrevistados demonstraram cautela geral em relação às criptomoedas e classificaram o tema como o menos importante entre as questões políticas que influenciam a escolha de candidatos. O resultado indica que, mesmo presente no debate político, cripto segue com baixa prioridade para muitos eleitores. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Krypto ist US-Wählern kaum wichtig: Nur 4% beachten es bei Wahl",
-        "excerpt": "Eine POLITICO-Umfrage zeigt: Viele US-Erwachsene bleiben gegenüber Krypto vorsichtig, nur 4% berücksichtigen Kryptopolitik bei der Wahl.",
-        "body": "US-Erwachsene scheinen Kryptowährungen bei der Entscheidung, wen sie wählen, nicht als wichtigen Faktor zu betrachten. Laut einer POLITICO-Umfrage gaben nur 4% der Amerikaner an, Kryptopolitik bei ihrer Stimmabgabe zu berücksichtigen. Die Befragten zeigten insgesamt Zurückhaltung gegenüber Kryptowährungen und bewerteten das Thema als das am wenigsten wichtige politische Feld für die Kandidatenwahl. Das Ergebnis deutet darauf hin, dass Krypto trotz politischer Debatten für viele Wähler eine geringe Priorität bleibt. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Crypto peu décisive chez les électeurs américains: seuls 4% y pensent",
-        "excerpt": "Selon un sondage POLITICO, la plupart des adultes américains restent prudents face à la crypto, et seuls 4% l’intègrent à leur vote.",
-        "body": "Les adultes américains ne semblent pas considérer les cryptomonnaies comme un critère majeur au moment de choisir pour qui voter. Selon un sondage POLITICO, seuls 4% des Américains disent tenir compte de la politique crypto lorsqu’ils déposent leur bulletin. Les répondants se montrent globalement prudents envers les cryptomonnaies et classent ce sujet comme le moins important parmi les enjeux politiques influençant le choix d’un candidat. Ce résultat montre que, même présente dans le débat politique, la crypto reste peu prioritaire pour de nombreux électeurs. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "العملات المشفرة لا تؤثر كثيرا في ناخبي أميركا: 4% فقط يراعونها",
-        "excerpt": "أظهر استطلاع POLITICO أن معظم البالغين في الولايات المتحدة حذرون تجاه العملات المشفرة، وأن 4% فقط يراعون سياساتها عند التصويت.",
-        "body": "لا يبدو أن البالغين في الولايات المتحدة ينظرون إلى العملات المشفرة كعامل مهم عند اختيار المرشح الذي سيصوتون له. ووفقا لاستطلاع أجرته POLITICO، قال 4% فقط من الأميركيين إنهم يأخذون سياسات العملات المشفرة في الاعتبار عند الإدلاء بأصواتهم. وأظهر المشاركون حذرا عاما تجاه العملات المشفرة، وصنفوها كأقل قضية سياسية أهمية في التأثير على اختيار المرشح. وتشير النتيجة إلى أن العملات المشفرة، رغم حضورها في النقاش السياسي، لا تزال ذات أولوية منخفضة لدى كثير من الناخبين. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "अमेरिकी वोटरों में क्रिप्टो की अहमियत कम, केवल 4% करते हैं विचार",
-        "excerpt": "POLITICO सर्वे के अनुसार, अधिकतर अमेरिकी वयस्क क्रिप्टो को लेकर सतर्क हैं और केवल 4% मतदान करते समय क्रिप्टो नीति पर विचार करते हैं।",
-        "body": "अमेरिकी वयस्क वोट देने के लिए उम्मीदवार चुनते समय क्रिप्टोकरेंसी को बड़ा मानदंड नहीं मानते दिखते। POLITICO के एक सर्वे के अनुसार, केवल 4% अमेरिकियों ने कहा कि वे मतदान करते समय क्रिप्टो नीति को ध्यान में रखते हैं। उत्तरदाताओं ने कुल मिलाकर क्रिप्टोकरेंसी के प्रति सतर्क रुख दिखाया और उम्मीदवार चयन को प्रभावित करने वाले नीतिगत मुद्दों में इसे सबसे कम महत्वपूर्ण माना। यह नतीजा बताता है कि राजनीतिक चर्चा में क्रिप्टो के मौजूद होने के बावजूद आम मतदाताओं के लिए इसकी प्राथमिकता कम है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Kripto kurang penting bagi pemilih AS, hanya 4% menimbangnya",
-        "excerpt": "Survei POLITICO menunjukkan sebagian besar orang dewasa AS berhati-hati terhadap kripto, dan hanya 4% mempertimbangkan kebijakan kripto saat memilih.",
-        "body": "Orang dewasa di Amerika Serikat tampaknya tidak melihat kripto sebagai faktor penting saat memilih kandidat yang akan mereka dukung. Menurut survei POLITICO, hanya 4% warga Amerika mengatakan mereka mempertimbangkan kebijakan kripto saat memberikan suara. Responden secara umum bersikap waspada terhadap kripto dan menempatkannya sebagai isu kebijakan paling tidak penting dalam memengaruhi pilihan kandidat. Hasil ini menunjukkan bahwa, meski kripto muncul dalam perdebatan politik, isu tersebut masih menjadi prioritas rendah bagi banyak pemilih. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "9b7210c63e24",
-    "slug": "ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding--680348",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T04:49:28.219Z",
-    "updatedAt": "2026-05-14T04:49:28.219Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase",
-    "titleFingerprint": "ca621ec56babf50a078b0683dc448ed8de62dd7a",
-    "dedupKeys": [
-      "9b7210c63e24ffe943d5b7d0c0a15f527cfd3ee4",
-      "ca621ec56babf50a078b0683dc448ed8de62dd7a",
-      "a0bac6c7a81689e3b4454bfbc78784e52e7c7e44"
-    ],
-    "imageUrl": "/images/articles/9b7210c63e24.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 챗봇 클로드, 오래된 시드 문구 단서로 5비트코인 회수 도와",
-        "excerpt": "한 암호화폐 투자자가 오래된 시드 문구를 찾은 뒤 AI 챗봇 클로드로 맥과 외장하드, 이메일, X 메시지를 검색해 5비트코인 회수를 도왔다.",
-        "body": "한 암호화폐 투자자가 오래된 시드 문구를 발견한 뒤 AI 챗봇 클로드의 도움으로 5비트코인을 되찾는 데 성공했다. 그는 회수 단서를 찾기 위해 클로드가 두 대의 맥, 두 개의 외장 하드드라이브, 애플 노트 내보내기 파일, 아이클라우드 메일, 지메일 받은편지함, X 메시지를 살펴보도록 했다. 이번 사례는 분실된 암호화폐 접근 정보가 여러 기기와 계정에 흩어져 있을 때 AI 검색 보조가 회수 과정에 활용될 수 있음을 보여준다. 다만 보도된 내용은 해당 투자자가 클로드를 통해 자료를 검색했다는 사실에 한정된다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "AI chatbot Claude helps recover 5 Bitcoin from an old seed phrase",
-        "excerpt": "A crypto investor used AI chatbot Claude to search Macs, external drives, emails and X messages after finding an old seed phrase, helping recover 5 Bitcoin.",
-        "body": "A crypto investor recovered 5 Bitcoin after finding an old seed phrase and using the AI chatbot Claude to help locate the needed clues. The investor had Claude search through two Macs, two external hard drives, an Apple Notes export, iCloud Mail, a Gmail inbox and X messages as part of the recovery process. The case shows how AI-assisted search can be used when crypto access information is scattered across devices and online accounts. The reported facts are limited to Claude being used to search those materials and help retrieve the Bitcoin. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "AIチャットボットClaude、古いシードフレーズから5BTC回収を支援",
-        "excerpt": "暗号資産投資家が古いシードフレーズを見つけた後、ClaudeでMac、外付けドライブ、メール、Xメッセージを検索し、5BTC回収を助けた。",
-        "body": "ある暗号資産投資家が古いシードフレーズを見つけた後、AIチャットボットClaudeの支援で5ビットコインを取り戻した。投資家は回収の手がかりを探すため、Claudeに2台のMac、2台の外付けハードドライブ、Apple Notesのエクスポート、iCloud Mail、Gmailの受信箱、Xメッセージを検索させた。今回の事例は、暗号資産へのアクセス情報が複数の端末やアカウントに分散している場合、AIによる検索支援が回収作業に使われ得ることを示す。ただし報道内容は、Claudeがそれらの資料検索に使われ、ビットコイン回収を助けたという事実に限られる。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "AI聊天机器人Claude借旧助记词线索帮助找回5枚比特币",
-        "excerpt": "一名加密投资者找到旧助记词后，让Claude搜索两台Mac、外置硬盘、邮件和X消息，帮助其找回5枚比特币。",
-        "body": "一名加密货币投资者在找到旧助记词后，借助AI聊天机器人Claude成功找回5枚比特币。为寻找恢复线索，他让Claude检索两台Mac、两块外置硬盘、Apple Notes导出文件、iCloud Mail、Gmail收件箱以及X消息。该案例显示，当加密资产访问资料分散在多台设备和多个账户中时，AI辅助搜索可被用于恢复流程。不过，报道内容仅限于这名投资者使用Claude搜索这些资料，并帮助取回比特币这一事实。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "Claude ayuda a recuperar 5 Bitcoin tras hallar una antigua frase semilla",
-        "excerpt": "Un inversor cripto usó el chatbot Claude para revisar Macs, discos externos, correos y mensajes de X tras hallar una vieja frase semilla y recuperar 5 Bitcoin.",
-        "body": "Un inversor en criptomonedas logró recuperar 5 Bitcoin después de encontrar una antigua frase semilla y usar el chatbot de IA Claude para buscar pistas. El inversor hizo que Claude revisara dos Macs, dos discos duros externos, una exportación de Apple Notes, iCloud Mail, la bandeja de entrada de Gmail y mensajes de X durante el proceso de recuperación. El caso muestra que la búsqueda asistida por IA puede utilizarse cuando la información de acceso a criptoactivos está dispersa entre dispositivos y cuentas. Los hechos reportados se limitan a que Claude fue usado para buscar esos materiales y ayudar a recuperar el Bitcoin. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Claude ajuda investidor a recuperar 5 Bitcoin com antiga seed phrase",
-        "excerpt": "Um investidor cripto usou o chatbot Claude para vasculhar Macs, HDs externos, e-mails e mensagens do X após achar uma antiga seed phrase e recuperar 5 Bitcoin.",
-        "body": "Um investidor em criptomoedas conseguiu recuperar 5 Bitcoin depois de encontrar uma antiga seed phrase e usar o chatbot de IA Claude para localizar pistas. Ele fez o Claude pesquisar em dois Macs, dois discos rígidos externos, uma exportação do Apple Notes, iCloud Mail, caixa de entrada do Gmail e mensagens do X durante o processo de recuperação. O caso mostra que a busca assistida por IA pode ser usada quando informações de acesso a criptoativos estão espalhadas por dispositivos e contas. Os fatos relatados se limitam ao uso do Claude para pesquisar esses materiais e ajudar a recuperar o Bitcoin. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Claude hilft nach alter Seed-Phrase bei Rückholung von 5 Bitcoin",
-        "excerpt": "Ein Krypto-Investor nutzte den KI-Chatbot Claude, um Macs, externe Festplatten, E-Mails und X-Nachrichten zu durchsuchen und nach einer alten Seed-Phrase 5 Bitcoin zurückzuholen.",
-        "body": "Ein Krypto-Investor konnte 5 Bitcoin zurückerlangen, nachdem er eine alte Seed-Phrase gefunden und den KI-Chatbot Claude zur Suche nach weiteren Hinweisen eingesetzt hatte. Claude sollte zwei Macs, zwei externe Festplatten, einen Apple-Notes-Export, iCloud Mail, den Gmail-Posteingang und X-Nachrichten durchsuchen. Der Fall zeigt, dass KI-gestützte Suche in einem Wiederherstellungsprozess genutzt werden kann, wenn Zugangsinformationen zu Kryptowerten über Geräte und Online-Konten verteilt sind. Die berichteten Fakten beschränken sich darauf, dass Claude diese Materialien durchsucht und bei der Rückholung der Bitcoin geholfen hat. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Claude aide à récupérer 5 Bitcoin grâce à une ancienne phrase seed",
-        "excerpt": "Un investisseur crypto a utilisé le chatbot Claude pour fouiller Macs, disques externes, e-mails et messages X après avoir retrouvé une ancienne phrase seed.",
-        "body": "Un investisseur en cryptomonnaies a récupéré 5 Bitcoin après avoir retrouvé une ancienne phrase seed et utilisé le chatbot d’IA Claude pour chercher les indices nécessaires. Il a fait parcourir à Claude deux Macs, deux disques durs externes, une exportation Apple Notes, iCloud Mail, une boîte de réception Gmail et des messages X dans le cadre du processus de récupération. Ce cas montre que la recherche assistée par IA peut servir lorsque des informations d’accès à des cryptoactifs sont dispersées entre appareils et comptes. Les faits rapportés se limitent à l’utilisation de Claude pour rechercher ces éléments et aider à récupérer les Bitcoin. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "كلود يساعد في استرداد 5 بيتكوين بعد العثور على عبارة بذور قديمة",
-        "excerpt": "استخدم مستثمر عملات مشفرة روبوت الذكاء الاصطناعي كلود للبحث في أجهزة ماك وأقراص خارجية وبريد ورسائل X بعد العثور على عبارة بذور قديمة.",
-        "body": "تمكن مستثمر في العملات المشفرة من استرداد 5 بيتكوين بعد العثور على عبارة بذور قديمة والاستعانة بروبوت الذكاء الاصطناعي كلود للبحث عن الأدلة اللازمة. وطلب المستثمر من كلود فحص جهازي ماك، وقرصي تخزين خارجيين، وملف تصدير من Apple Notes، وبريد iCloud، وصندوق وارد Gmail، ورسائل X ضمن عملية الاسترداد. وتوضح هذه الحالة أن البحث بمساعدة الذكاء الاصطناعي يمكن استخدامه عندما تكون معلومات الوصول إلى الأصول المشفرة موزعة بين أجهزة وحسابات متعددة. وتقتصر الوقائع المنشورة على استخدام كلود للبحث في هذه المواد والمساعدة في استرداد البيتكوين. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Claude ने पुराने seed phrase से 5 Bitcoin रिकवर करने में मदद की",
-        "excerpt": "एक क्रिप्टो निवेशक ने पुराना seed phrase मिलने के बाद Claude से दो Mac, बाहरी हार्ड ड्राइव, ईमेल और X संदेश खोजवाए, जिससे 5 Bitcoin रिकवर हुए।",
-        "body": "एक क्रिप्टो निवेशक ने पुराना seed phrase मिलने के बाद AI चैटबॉट Claude की मदद से 5 Bitcoin वापस पाने में सफलता पाई। निवेशक ने रिकवरी से जुड़े संकेत खोजने के लिए Claude से दो Mac, दो बाहरी हार्ड ड्राइव, Apple Notes export, iCloud Mail, Gmail inbox और X messages की जांच कराई। यह मामला दिखाता है कि जब क्रिप्टो एक्सेस जानकारी कई डिवाइस और खातों में बिखरी हो, तब AI-assisted search रिकवरी प्रक्रिया में उपयोगी हो सकती है। रिपोर्ट की गई जानकारी केवल इस तथ्य तक सीमित है कि Claude ने इन सामग्रियों को खोजने और Bitcoin वापस पाने में मदद की। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Claude bantu pulihkan 5 Bitcoin dari petunjuk seed phrase lama",
-        "excerpt": "Seorang investor kripto memakai chatbot Claude untuk menelusuri Mac, hard drive eksternal, email, dan pesan X setelah menemukan seed phrase lama demi memulihkan 5 Bitcoin.",
-        "body": "Seorang investor kripto berhasil memulihkan 5 Bitcoin setelah menemukan seed phrase lama dan menggunakan chatbot AI Claude untuk mencari petunjuk yang diperlukan. Investor itu meminta Claude menelusuri dua Mac, dua hard drive eksternal, ekspor Apple Notes, iCloud Mail, kotak masuk Gmail, dan pesan X sebagai bagian dari proses pemulihan. Kasus ini menunjukkan bahwa pencarian berbantuan AI dapat digunakan ketika informasi akses aset kripto tersebar di berbagai perangkat dan akun. Fakta yang dilaporkan terbatas pada penggunaan Claude untuk mencari materi tersebut dan membantu mengambil kembali Bitcoin. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "c364b8513622",
-    "slug": "solana-drops-5-bitcoin-below-80000-as-xi-warns-trump-on-taiw-977407",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T04:48:32.639Z",
-    "updatedAt": "2026-05-14T04:48:32.639Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/14/solana-drops-5-bitcoin-below-usd80-000-as-xi-warns-trump-on-taiwan-conflict",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/14/solana-drops-5-bitcoin-below-usd80-000-as-xi-warns-trump-on-taiwan-conflict",
-    "titleFingerprint": "4bbd994f718f8f364fd6b7fe6b9e2ff994c07a23",
-    "dedupKeys": [
-      "c364b8513622e2fbafdaf0719c8d08a6990d1500",
-      "4bbd994f718f8f364fd6b7fe6b9e2ff994c07a23",
-      "2373d62f935243b93786b716aa07ef48207bf901"
-    ],
-    "imageUrl": "/images/articles/c364b8513622.jpg",
-    "i18n": {
-      "ko": {
-        "title": "솔라나 5% 하락, 비트코인 8만달러 하회…시진핑 대만 경고",
-        "excerpt": "시진핑 중국 국가주석이 약 10년 만의 미국 대통령 방중에서 도널드 트럼프에게 대만 문제를 둘러싼 잠재적 충돌을 경고하자 솔라나는 5% 내리고 비트코인은 8만달러 아래로 떨어졌다.",
-        "body": "시진핑 중국 국가주석이 도널드 트럼프에게 대만을 둘러싼 잠재적 충돌 가능성을 경고한 가운데, 암호화폐 시장에서는 솔라나가 5% 하락하고 비트코인이 8만달러 아래로 밀렸다. 이번 발언은 약 10년 만에 이뤄진 미국 대통령의 중국 방문 중 나왔다. 원문은 정치적 긴장이 부각되는 상황에서 주요 암호화폐 가격이 약세를 보였다고 전했다. 대만 문제를 둘러싼 미중 갈등 신호는 위험자산 투자심리에 부담으로 작용한 것으로 제시됐다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Solana Falls 5%, Bitcoin Slips Below $80K as Xi Warns Trump",
-        "excerpt": "Chinese President Xi Jinping warned Donald Trump of potential conflict over Taiwan during the first U.S. presidential visit to China in nearly a decade, as Solana fell 5% and bitcoin dropped below $80,000.",
-        "body": "Solana fell 5% and bitcoin slipped below $80,000 after Chinese President Xi Jinping warned Donald Trump about the potential for conflict over Taiwan. The warning came during the first visit by a U.S. president to China in nearly a decade. The original report said major crypto prices weakened as political tension came into focus. The Taiwan issue, a key point of U.S.-China friction, was presented as a factor weighing on risk-asset sentiment. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "ソラナ5%下落、ビットコイン8万ドル割れ　習氏が台湾で警告",
-        "excerpt": "中国の習近平国家主席が、約10年ぶりとなる米大統領の中国訪問中に、台湾問題を巡る潜在的な衝突についてトランプ氏に警告し、ソラナは5%下落、ビットコインは8万ドルを下回った。",
-        "body": "中国の習近平国家主席がドナルド・トランプ氏に対し、台湾を巡る潜在的な衝突の可能性を警告する中、暗号資産市場ではソラナが5%下落し、ビットコインは8万ドルを下回った。この発言は、約10年ぶりとなる米大統領の中国訪問中に出た。原文は、政治的緊張が意識される中で主要暗号資産の価格が弱含んだと伝えている。台湾問題を巡る米中摩擦の兆しは、リスク資産への投資心理の重荷として示された。出典: coindesk.com。"
-      },
-      "zh": {
-        "title": "Solana下跌5%，比特币跌破8万美元，习近平就台湾警告特朗普",
-        "excerpt": "中国国家主席习近平在近十年来美国总统首次访华期间，就台湾问题潜在冲突警告特朗普；与此同时，Solana下跌5%，比特币跌破8万美元。",
-        "body": "中国国家主席习近平就台湾问题可能引发的潜在冲突警告唐纳德·特朗普之际，加密货币市场走弱，Solana下跌5%，比特币跌破8万美元。该警告出现在近十年来美国总统首次访问中国期间。原文称，在政治紧张局势受到关注的背景下，主要加密货币价格承压。台湾问题所显示的中美摩擦信号，被视为影响风险资产投资情绪的因素。来源：coindesk.com。"
-      },
-      "es": {
-        "title": "Solana cae 5% y bitcoin baja de US$80.000 tras advertencia de Xi",
-        "excerpt": "Xi Jinping advirtió a Donald Trump sobre un posible conflicto por Taiwán durante la primera visita de un presidente de EE. UU. a China en casi una década; Solana cayó 5% y bitcoin bajó de US$80.000.",
-        "body": "Solana cayó 5% y bitcoin retrocedió por debajo de US$80.000 después de que el presidente chino, Xi Jinping, advirtiera a Donald Trump sobre la posibilidad de un conflicto por Taiwán. La advertencia se produjo durante la primera visita de un presidente de Estados Unidos a China en casi una década. El informe original señaló que los principales criptoactivos se debilitaron mientras la tensión política ganaba atención. El tema de Taiwán, punto clave de fricción entre Washington y Pekín, fue presentado como un factor de presión para el apetito por activos de riesgo. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Solana cai 5% e bitcoin fica abaixo de US$80 mil após alerta de Xi",
-        "excerpt": "Xi Jinping alertou Donald Trump sobre um possível conflito envolvendo Taiwan durante a primeira visita de um presidente dos EUA à China em quase uma década; Solana caiu 5% e bitcoin ficou abaixo de US$80 mil.",
-        "body": "A Solana caiu 5% e o bitcoin recuou para abaixo de US$80 mil depois que o presidente chinês Xi Jinping alertou Donald Trump sobre a possibilidade de conflito em torno de Taiwan. O aviso ocorreu durante a primeira visita de um presidente dos Estados Unidos à China em quase uma década. A reportagem original afirmou que os principais criptoativos enfraqueceram enquanto a tensão política ganhava destaque. A questão de Taiwan, ponto central de atrito entre EUA e China, foi apresentada como fator de pressão sobre o sentimento por ativos de risco. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Solana fällt 5%, Bitcoin unter 80.000 Dollar nach Xis Taiwan-Warnung",
-        "excerpt": "Chinas Präsident Xi Jinping warnte Donald Trump bei dem ersten Besuch eines US-Präsidenten in China seit fast zehn Jahren vor einem möglichen Konflikt um Taiwan; Solana fiel 5%, Bitcoin rutschte unter 80.000 Dollar.",
-        "body": "Solana fiel um 5%, und Bitcoin rutschte unter 80.000 Dollar, nachdem Chinas Präsident Xi Jinping Donald Trump vor einem möglichen Konflikt um Taiwan gewarnt hatte. Die Warnung erfolgte während des ersten Besuchs eines US-Präsidenten in China seit fast zehn Jahren. Der ursprüngliche Bericht erklärte, dass wichtige Kryptowährungen schwächer tendierten, während politische Spannungen in den Fokus rückten. Die Taiwan-Frage, ein zentraler Reibungspunkt zwischen den USA und China, wurde als Belastungsfaktor für die Stimmung bei Risikoanlagen dargestellt. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Solana perd 5%, bitcoin sous 80.000 dollars après l’avertissement de Xi",
-        "excerpt": "Xi Jinping a averti Donald Trump d’un possible conflit autour de Taïwan lors de la première visite d’un président américain en Chine depuis près de dix ans; Solana a perdu 5% et le bitcoin est passé sous 80.000 dollars.",
-        "body": "Solana a reculé de 5% et le bitcoin est passé sous 80.000 dollars après que le président chinois Xi Jinping a averti Donald Trump du risque potentiel de conflit autour de Taïwan. Cet avertissement est intervenu lors de la première visite d’un président américain en Chine depuis près de dix ans. Le rapport original indique que les principaux cryptoactifs ont faibli alors que les tensions politiques revenaient au premier plan. La question de Taïwan, point majeur de friction entre Washington et Pékin, a été présentée comme un facteur pesant sur l’appétit pour les actifs risqués. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "سولانا تهبط 5% وبيتكوين دون 80 ألف دولار بعد تحذير شي بشأن تايوان",
-        "excerpt": "حذّر الرئيس الصيني شي جين بينغ دونالد ترامب من احتمال اندلاع صراع حول تايوان خلال أول زيارة لرئيس أمريكي إلى الصين منذ نحو عقد، بينما هبطت سولانا 5% وتراجعت بيتكوين دون 80 ألف دولار.",
-        "body": "هبطت سولانا 5% وتراجعت بيتكوين إلى ما دون 80 ألف دولار بعدما حذّر الرئيس الصيني شي جين بينغ دونالد ترامب من احتمال حدوث صراع حول تايوان. جاء التحذير خلال أول زيارة يقوم بها رئيس أمريكي إلى الصين منذ نحو عقد. وذكر التقرير الأصلي أن أسعار العملات المشفرة الرئيسية ضعفت مع تصاعد التركيز على التوتر السياسي. وقد عُرضت قضية تايوان، وهي نقطة احتكاك رئيسية بين الولايات المتحدة والصين، كعامل يضغط على شهية المستثمرين تجاه الأصول عالية المخاطر. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "सोलाना 5% गिरा, बिटकॉइन $80,000 से नीचे; शी की ताइवान चेतावनी",
-        "excerpt": "चीनी राष्ट्रपति शी जिनपिंग ने करीब एक दशक में किसी अमेरिकी राष्ट्रपति की पहली चीन यात्रा के दौरान डोनाल्ड ट्रंप को ताइवान पर संभावित संघर्ष की चेतावनी दी; सोलाना 5% गिरा और बिटकॉइन $80,000 से नीचे गया।",
-        "body": "चीनी राष्ट्रपति शी जिनपिंग द्वारा डोनाल्ड ट्रंप को ताइवान को लेकर संभावित संघर्ष की चेतावनी देने के बाद क्रिप्टो बाजार में सोलाना 5% गिरा और बिटकॉइन $80,000 से नीचे चला गया। यह चेतावनी करीब एक दशक में किसी अमेरिकी राष्ट्रपति की पहली चीन यात्रा के दौरान आई। मूल रिपोर्ट के अनुसार, राजनीतिक तनाव पर ध्यान बढ़ने के बीच प्रमुख क्रिप्टोकरेंसी की कीमतें कमजोर रहीं। ताइवान मुद्दे से जुड़े अमेरिका-चीन तनाव के संकेतों को जोखिम वाली संपत्तियों के प्रति निवेश भावना पर दबाव के रूप में पेश किया गया। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Solana Turun 5%, Bitcoin di Bawah US$80.000 usai Peringatan Xi",
-        "excerpt": "Presiden China Xi Jinping memperingatkan Donald Trump soal potensi konflik terkait Taiwan dalam kunjungan pertama presiden AS ke China dalam hampir satu dekade; Solana turun 5% dan bitcoin jatuh di bawah US$80.000.",
-        "body": "Solana turun 5% dan bitcoin melemah ke bawah US$80.000 setelah Presiden China Xi Jinping memperingatkan Donald Trump tentang potensi konflik terkait Taiwan. Peringatan itu muncul dalam kunjungan pertama presiden Amerika Serikat ke China dalam hampir satu dekade. Laporan asli menyebut harga kripto utama melemah ketika ketegangan politik menjadi sorotan. Isu Taiwan, salah satu titik gesekan utama antara AS dan China, disajikan sebagai faktor yang menekan sentimen terhadap aset berisiko. Sumber: coindesk.com."
       }
     }
   }
