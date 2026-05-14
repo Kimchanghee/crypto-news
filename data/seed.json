@@ -1,5 +1,230 @@
 [
   {
+    "id": "ce29fd867ea5",
+    "slug": "bitcoin-firm-strive-unveils-daily-dividend-payments-for-sata-276562",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T22:21:44.786Z",
+    "updatedAt": "2026-05-14T22:21:44.786Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367878/bitcoin-firm-strive-daily-dividend-payments-preferred-share",
+    "canonicalUrl": "https://decrypt.co/367878/bitcoin-firm-strive-daily-dividend-payments-preferred-share",
+    "titleFingerprint": "c18114844a792987738d9d9dd8320e0a4062a3a1",
+    "dedupKeys": [
+      "ce29fd867ea5f29ae78f959ecc9c0f773298d5d6",
+      "c18114844a792987738d9d9dd8320e0a4062a3a1",
+      "db6fc8f1c4fd45d5e7c29dee8d4bf7bbc7f120ce"
+    ],
+    "imageUrl": "/images/articles/ce29fd867ea5.png",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 기업 스트라이브, SATA 우선주 일일 배당 지급 공개",
+        "excerpt": "비트코인 기업 스트라이브가 SATA 우선주 배당을 매일 지급하는 방안을 공개했으며, Strategy의 마이클 세일러는 이 예정된 전환을 “인상적”이라고 평가했다.",
+        "body": "비트코인 기업 스트라이브가 SATA 우선주에 대해 배당금을 매일 지급하는 방안을 공개했다. 이번 발표는 우선주 투자자에게 배당 지급 주기를 더 짧게 가져가는 구조를 제시한 것으로, 구체적인 전환 시점은 원문에서 별도로 언급되지 않았다. Strategy의 마이클 세일러는 스트라이브의 예정된 일일 배당 전환을 두고 “인상적”이라고 말했다. 시장에서는 비트코인 관련 기업의 자본 조달과 배당 상품 설계가 어떻게 확장되는지에 관심이 모인다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Bitcoin Firm Strive Unveils Daily Dividends for SATA Preferred Shares",
+        "excerpt": "Bitcoin firm Strive unveiled plans to pay dividends on SATA preferred shares daily, while Strategy’s Michael Saylor called the pending shift “impressive.”",
+        "body": "Bitcoin firm Strive has unveiled a plan to pay dividends on its SATA preferred shares on a daily basis. The announcement presents a structure that would shorten the dividend payment cycle for preferred shareholders, though the original report did not specify an exact transition date. Strategy’s Michael Saylor described Strive’s pending move to daily dividend payments as “impressive.” The development draws attention to how Bitcoin-focused companies are shaping capital-raising and dividend products. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "ビットコイン企業Strive、SATA優先株の日次配当を発表",
+        "excerpt": "ビットコイン企業StriveはSATA優先株の配当を毎日支払う方針を明らかにし、Strategyのマイケル・セイラー氏はこの移行を「印象的」と評価した。",
+        "body": "ビットコイン企業Striveは、SATA優先株について配当を毎日支払う計画を明らかにした。今回の発表は、優先株投資家に対して配当支払いの周期をより短くする仕組みを示すものだが、原文では具体的な移行時期は示されていない。Strategyのマイケル・セイラー氏は、Striveが予定する日次配当への移行について「印象的」と述べた。ビットコイン関連企業の資本調達と配当商品の設計がどう広がるかに注目が集まる。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "比特币公司Strive公布SATA优先股每日派息计划",
+        "excerpt": "比特币公司Strive公布SATA优先股每日派息方案，Strategy的Michael Saylor称其即将进行的日派息转变“令人印象深刻”。",
+        "body": "比特币公司Strive公布了针对SATA优先股每日支付股息的计划。该公告显示，公司拟为优先股投资者提供更短周期的股息支付安排，但原文并未说明具体转换时间。Strategy的Michael Saylor评价称，Strive即将转向每日派息的做法“令人印象深刻”。这一动向使市场关注比特币相关企业在资本筹集和股息产品设计上的进一步发展。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Strive, firma de Bitcoin, revela dividendos diarios para acciones SATA",
+        "excerpt": "La firma de Bitcoin Strive reveló planes para pagar dividendos diarios sobre acciones preferentes SATA, y Michael Saylor de Strategy calificó el cambio como “impresionante”.",
+        "body": "La firma de Bitcoin Strive reveló un plan para pagar dividendos diarios sobre sus acciones preferentes SATA. El anuncio plantea una estructura que acorta el ciclo de pago de dividendos para los accionistas preferentes, aunque el informe original no indicó una fecha exacta para la transición. Michael Saylor, de Strategy, calificó el próximo cambio de Strive hacia pagos diarios de dividendos como “impresionante”. El movimiento centra la atención en cómo las empresas vinculadas a Bitcoin están diseñando productos de capital y dividendos. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Strive, empresa de Bitcoin, revela dividendos diários para ações SATA",
+        "excerpt": "A empresa de Bitcoin Strive revelou planos de pagar dividendos diários sobre ações preferenciais SATA, e Michael Saylor, da Strategy, chamou a mudança de “impressionante”.",
+        "body": "A empresa de Bitcoin Strive revelou um plano para pagar dividendos diariamente sobre suas ações preferenciais SATA. O anúncio apresenta uma estrutura que encurta o ciclo de pagamento de dividendos para acionistas preferenciais, embora a reportagem original não informe uma data exata para a transição. Michael Saylor, da Strategy, chamou a mudança iminente da Strive para pagamentos diários de dividendos de “impressionante”. O caso destaca como empresas ligadas ao Bitcoin estão estruturando captação de capital e produtos de dividendos. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Bitcoin-Firma Strive kündigt tägliche Dividenden für SATA-Vorzugsaktien an",
+        "excerpt": "Die Bitcoin-Firma Strive stellte tägliche Dividendenzahlungen für SATA-Vorzugsaktien vor; Strategys Michael Saylor nannte den geplanten Wechsel “beeindruckend”.",
+        "body": "Die Bitcoin-Firma Strive hat einen Plan vorgestellt, Dividenden auf SATA-Vorzugsaktien täglich auszuzahlen. Die Ankündigung beschreibt eine Struktur, die den Zahlungszyklus für Vorzugsaktionäre verkürzt; ein konkretes Datum für die Umstellung nannte der Originalbericht jedoch nicht. Michael Saylor von Strategy bezeichnete Strives bevorstehenden Wechsel zu täglichen Dividendenzahlungen als “beeindruckend”. Die Entwicklung lenkt den Blick darauf, wie Bitcoin-orientierte Unternehmen Kapitalaufnahme und Dividendenprodukte gestalten. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Strive, société Bitcoin, dévoile des dividendes quotidiens pour SATA",
+        "excerpt": "La société Bitcoin Strive a dévoilé des paiements de dividendes quotidiens pour les actions préférentielles SATA, un changement jugé “impressionnant” par Michael Saylor de Strategy.",
+        "body": "La société Bitcoin Strive a dévoilé un plan visant à verser quotidiennement des dividendes sur ses actions préférentielles SATA. L’annonce présente une structure qui raccourcit le cycle de paiement pour les détenteurs d’actions préférentielles, même si le rapport original ne précise pas de date exacte de transition. Michael Saylor, de Strategy, a qualifié le passage prévu de Strive aux dividendes quotidiens d’“impressionnant”. Cette évolution met en lumière la façon dont les entreprises liées au Bitcoin conçoivent financement et produits de dividendes. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "شركة بيتكوين Strive تكشف توزيعات يومية لأسهم SATA الممتازة",
+        "excerpt": "كشفت شركة بيتكوين Strive عن خطة لدفع توزيعات أرباح يومية على أسهم SATA الممتازة، فيما وصف مايكل سايلور من Strategy هذا التحول المرتقب بأنه “مثير للإعجاب”.",
+        "body": "كشفت شركة بيتكوين Strive عن خطة لدفع توزيعات أرباح يومية على أسهمها الممتازة SATA. ويعرض الإعلان هيكلا يقلص دورة دفع التوزيعات لحملة الأسهم الممتازة، لكن التقرير الأصلي لم يحدد موعدا دقيقا للانتقال. ووصف مايكل سايلور من Strategy تحول Strive المرتقب إلى مدفوعات توزيعات يومية بأنه “مثير للإعجاب”. وتسلط الخطوة الضوء على كيفية تطوير الشركات المرتبطة بالبيتكوين لأساليب جمع رأس المال ومنتجات التوزيعات. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Bitcoin कंपनी Strive ने SATA preferred shares पर दैनिक डिविडेंड बताया",
+        "excerpt": "Bitcoin कंपनी Strive ने SATA preferred shares पर दैनिक डिविडेंड भुगतान की योजना पेश की, जबकि Strategy के Michael Saylor ने इस आगामी बदलाव को “impressive” कहा।",
+        "body": "Bitcoin कंपनी Strive ने अपने SATA preferred shares पर डिविडेंड रोजाना चुकाने की योजना पेश की है। यह घोषणा preferred shareholders के लिए डिविडेंड भुगतान चक्र को छोटा करने वाली संरचना दिखाती है, हालांकि मूल रिपोर्ट में बदलाव की सटीक तारीख नहीं बताई गई। Strategy के Michael Saylor ने Strive के दैनिक डिविडेंड भुगतान की ओर आने वाले बदलाव को “impressive” कहा। यह घटनाक्रम दिखाता है कि Bitcoin से जुड़ी कंपनियां पूंजी जुटाने और डिविडेंड उत्पादों की संरचना को कैसे आगे बढ़ा रही हैं। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Perusahaan Bitcoin Strive Ungkap Dividen Harian untuk Saham SATA",
+        "excerpt": "Perusahaan Bitcoin Strive mengungkap rencana pembayaran dividen harian untuk saham preferen SATA, dan Michael Saylor dari Strategy menyebut peralihan itu “impressive”.",
+        "body": "Perusahaan Bitcoin Strive mengungkap rencana untuk membayar dividen atas saham preferen SATA setiap hari. Pengumuman ini memperlihatkan struktur yang mempersingkat siklus pembayaran dividen bagi pemegang saham preferen, meski laporan asli tidak menyebut tanggal pasti peralihan. Michael Saylor dari Strategy menyebut rencana Strive menuju pembayaran dividen harian sebagai “impressive”. Perkembangan ini menyoroti bagaimana perusahaan terkait Bitcoin merancang penggalangan modal dan produk dividen. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "91e1f036d0dd",
+    "slug": "nfl-all-day-stops-issuing-nfts-as-dapper-labs-signals-future-860490",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T22:20:55.068Z",
+    "updatedAt": "2026-05-14T22:20:55.068Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367926/nfl-all-day-stops-issuing-nfts-dapper-labs-future-plans-league",
+    "canonicalUrl": "https://decrypt.co/367926/nfl-all-day-stops-issuing-nfts-dapper-labs-future-plans-league",
+    "titleFingerprint": "ab2f739531125dd09a7d70a89254a7d1623a6986",
+    "dedupKeys": [
+      "91e1f036d0dd9349b753d59e866afd66932b6bd5",
+      "ab2f739531125dd09a7d70a89254a7d1623a6986",
+      "9392f2a3688885dc59afb90215cd5a472d665334"
+    ],
+    "imageUrl": "/images/articles/91e1f036d0dd.png",
+    "i18n": {
+      "ko": {
+        "title": "NFL All Day NFT 발행 중단, 대퍼랩스는 NFL과 새 계약",
+        "excerpt": "대퍼랩스가 NFL과 새로운 라이선스 계약을 체결했다고 밝히며 All Day 플랫폼에서 NFT 신규 발행을 중단한다. 향후 리그와의 계획은 계속 이어질 전망이다.",
+        "body": "대퍼랩스는 NFL과 새로운 라이선스 계약을 체결했다고 밝히면서, NFL All Day 플랫폼에서 NFT 신규 발행을 중단한다고 밝혔다. NFL All Day는 리그 관련 디지털 수집품을 제공해 온 플랫폼이지만, 이번 결정으로 추가 NFT 출시는 멈추게 됐다. 회사는 발행 중단과 함께 NFL과의 새 계약을 알리며 리그와의 향후 계획이 남아 있음을 시사했다. 이번 변화는 플랫폼 운영 방향이 조정되는 신호로 해석된다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "NFL All Day Halts NFT Minting as Dapper Labs Signs New NFL Deal",
+        "excerpt": "Dapper Labs said it has signed a new licensing agreement with the NFL and will stop issuing new NFTs on the All Day platform while signaling future league plans.",
+        "body": "Dapper Labs said it has signed a new licensing agreement with the NFL while discontinuing new NFT releases on its NFL All Day platform. NFL All Day has offered league-related digital collectibles, but the latest move means additional NFT issuance on the platform will stop. By announcing the new NFL agreement alongside the halt, the company indicated that future plans with the league remain in place. The change points to an adjustment in the platform’s operating direction. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "NFL All DayがNFT発行停止、Dapper LabsはNFLと新契約",
+        "excerpt": "Dapper LabsはNFLとの新たなライセンス契約締結を明らかにし、All DayプラットフォームでのNFT新規発行を停止すると発表した。",
+        "body": "Dapper Labsは、NFLとの新たなライセンス契約を締結したと明らかにする一方、NFL All DayプラットフォームでのNFT新規発行を停止すると発表した。NFL All Dayはリーグ関連のデジタルコレクティブルを提供してきたが、今回の決定により追加NFTのリリースは止まることになる。同社は発行停止と同時にNFLとの新契約を示し、リーグとの今後の計画が残っていることを示唆した。これはプラットフォーム運営方針の調整を示す動きといえる。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "NFL All Day停止发行NFT，Dapper Labs与NFL签新协议",
+        "excerpt": "Dapper Labs表示已与NFL签署新的授权协议，并将停止在All Day平台发行新的NFT，同时暗示与联盟仍有后续计划。",
+        "body": "Dapper Labs表示，已与NFL签署新的授权协议，同时将停止在NFL All Day平台发行新的NFT。NFL All Day此前提供与联盟相关的数字收藏品，但这一决定意味着该平台不会继续推出新增NFT。公司在宣布停止发行的同时披露与NFL的新协议，显示其与联盟之间仍保留未来计划。此次变化可被视为平台运营方向调整的信号。来源: decrypt.co"
+      },
+      "es": {
+        "title": "NFL All Day detiene NFT mientras Dapper Labs firma nuevo acuerdo",
+        "excerpt": "Dapper Labs dijo que firmó un nuevo acuerdo de licencia con la NFL y dejará de emitir nuevos NFT en All Day, aunque mantiene planes futuros con la liga.",
+        "body": "Dapper Labs dijo que firmó un nuevo acuerdo de licencia con la NFL mientras deja de lanzar nuevos NFT en su plataforma NFL All Day. NFL All Day ha ofrecido coleccionables digitales relacionados con la liga, pero la decisión implica que ya no habrá nuevas emisiones de NFT en la plataforma. Al anunciar el acuerdo con la NFL junto con la suspensión, la compañía señaló que aún existen planes futuros con la liga. El cambio apunta a un ajuste en la dirección operativa de la plataforma. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "NFL All Day pausa NFTs enquanto Dapper Labs fecha novo acordo",
+        "excerpt": "A Dapper Labs afirmou que assinou um novo acordo de licenciamento com a NFL e deixará de emitir novos NFTs na plataforma All Day, mantendo planos com a liga.",
+        "body": "A Dapper Labs afirmou que assinou um novo acordo de licenciamento com a NFL enquanto interrompe o lançamento de novos NFTs na plataforma NFL All Day. A NFL All Day vinha oferecendo colecionáveis digitais ligados à liga, mas a decisão significa que novas emissões de NFT na plataforma serão encerradas. Ao anunciar o acordo com a NFL junto da suspensão, a empresa indicou que ainda há planos futuros com a liga. A mudança sinaliza um ajuste na direção operacional da plataforma. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "NFL All Day stoppt NFT-Ausgabe, Dapper Labs schließt NFL-Deal",
+        "excerpt": "Dapper Labs erklärte, einen neuen Lizenzvertrag mit der NFL unterzeichnet zu haben und keine neuen NFTs mehr auf der All Day-Plattform auszugeben.",
+        "body": "Dapper Labs erklärte, einen neuen Lizenzvertrag mit der NFL unterzeichnet zu haben, während die Ausgabe neuer NFTs auf der Plattform NFL All Day eingestellt wird. NFL All Day bot bislang digitale Sammlerstücke mit Bezug zur Liga an, doch die Entscheidung bedeutet, dass keine zusätzlichen NFT-Veröffentlichungen auf der Plattform erfolgen. Mit der gleichzeitigen Ankündigung des neuen NFL-Abkommens deutete das Unternehmen an, dass weiterhin Pläne mit der Liga bestehen. Die Änderung weist auf eine Anpassung der Plattformausrichtung hin. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "NFL All Day arrête les NFT, Dapper Labs signe un nouvel accord NFL",
+        "excerpt": "Dapper Labs a annoncé un nouvel accord de licence avec la NFL et l’arrêt de l’émission de nouveaux NFT sur All Day, tout en évoquant des plans futurs.",
+        "body": "Dapper Labs a annoncé avoir signé un nouvel accord de licence avec la NFL tout en mettant fin aux nouvelles émissions de NFT sur sa plateforme NFL All Day. NFL All Day proposait des objets de collection numériques liés à la ligue, mais cette décision signifie que les sorties supplémentaires de NFT sur la plateforme s’arrêtent. En annonçant le nouvel accord NFL en même temps que l’arrêt des émissions, l’entreprise a indiqué que des plans futurs avec la ligue demeurent. Ce changement signale un ajustement de l’orientation de la plateforme. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "NFL All Day يوقف إصدار NFT مع اتفاق جديد بين Dapper Labs وNFL",
+        "excerpt": "قالت Dapper Labs إنها وقعت اتفاق ترخيص جديدا مع NFL وستوقف إصدار NFTs جديدة على منصة All Day، مع الإشارة إلى خطط مستقبلية مع الدوري.",
+        "body": "قالت Dapper Labs إنها وقعت اتفاق ترخيص جديدا مع NFL، وفي الوقت نفسه ستوقف إصدار NFTs جديدة على منصة NFL All Day. وقد قدمت NFL All Day مقتنيات رقمية مرتبطة بالدوري، لكن هذا القرار يعني أن الإصدارات الإضافية من NFTs على المنصة ستتوقف. ومن خلال إعلان الاتفاق الجديد مع NFL إلى جانب وقف الإصدار، أشارت الشركة إلى أن خططا مستقبلية مع الدوري لا تزال قائمة. ويعكس هذا التغيير تعديلا في اتجاه تشغيل المنصة. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "NFL All Day ने NFT जारी करना रोका, Dapper Labs ने NFL डील की",
+        "excerpt": "Dapper Labs ने कहा कि उसने NFL के साथ नया लाइसेंसिंग समझौता किया है और All Day प्लेटफॉर्म पर नए NFT जारी करना बंद करेगी।",
+        "body": "Dapper Labs ने कहा कि उसने NFL के साथ नया लाइसेंसिंग समझौता किया है, साथ ही वह NFL All Day प्लेटफॉर्म पर नए NFT जारी करना बंद कर रही है। NFL All Day अब तक लीग से जुड़े डिजिटल कलेक्टिबल्स उपलब्ध कराता रहा है, लेकिन इस फैसले का मतलब है कि प्लेटफॉर्म पर अतिरिक्त NFT रिलीज रुक जाएंगी। कंपनी ने NFT जारी करने की रोक के साथ NFL के नए समझौते की जानकारी देकर संकेत दिया कि लीग के साथ भविष्य की योजनाएं अभी बनी हुई हैं। यह बदलाव प्लेटफॉर्म की संचालन दिशा में समायोजन दिखाता है। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "NFL All Day Setop NFT, Dapper Labs Teken Kesepakatan NFL Baru",
+        "excerpt": "Dapper Labs mengatakan telah menandatangani perjanjian lisensi baru dengan NFL dan akan menghentikan penerbitan NFT baru di platform All Day.",
+        "body": "Dapper Labs mengatakan telah menandatangani perjanjian lisensi baru dengan NFL sekaligus menghentikan rilis NFT baru di platform NFL All Day. NFL All Day selama ini menyediakan koleksi digital terkait liga, tetapi keputusan ini berarti penerbitan NFT tambahan di platform tersebut akan berhenti. Dengan mengumumkan kesepakatan baru bersama NFL bersamaan dengan penghentian penerbitan, perusahaan memberi sinyal bahwa rencana masa depan dengan liga masih ada. Perubahan ini menunjukkan penyesuaian arah operasional platform. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "81b21ecd37a9",
+    "slug": "dartmouth-endowment-invests-in-solana-etf-holds-14m-in-crypt-825391",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T22:20:10.731Z",
+    "updatedAt": "2026-05-14T22:20:10.731Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec",
+    "titleFingerprint": "b7537d73cfe6c470d6513034a52ab3fd42af6500",
+    "dedupKeys": [
+      "81b21ecd37a945c795fb589cafcd3284ad6cf808",
+      "b7537d73cfe6c470d6513034a52ab3fd42af6500",
+      "a8ae590fc27eb9e54ed221708345e1b66cd524d5"
+    ],
+    "imageUrl": "/images/articles/81b21ecd37a9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다트머스 기금, 솔라나 ETF 투자 공개…암호화폐 노출 1,400만달러",
+        "excerpt": "다트머스대 기금은 공시를 통해 Bitwise 솔라나 스테이킹 ETF, Grayscale 이더리움 스테이킹 ETF, BlackRock iShares 비트코인 ETF 보유와 총 1,400만달러 암호화폐 노출을 밝혔다.",
+        "body": "다트머스대 기금이 공시를 통해 암호화폐 ETF 보유 현황을 공개했다. 공개된 보유 종목에는 Bitwise 솔라나 스테이킹 ETF, Grayscale 이더리움 스테이킹 ETF, BlackRock의 iShares 비트코인 ETF가 포함됐다. 원문에 따르면 이 기금의 암호화폐 관련 노출 규모는 1,400만달러다. 이번 공시는 대학 기금이 비트코인뿐 아니라 솔라나와 이더리움 스테이킹 ETF까지 보유하고 있다는 점을 보여준다. 향후 보유 규모 변화는 추가 공시를 통해 확인될 전망이다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Dartmouth Endowment Reveals Solana ETF Stake and $14M Crypto Exposure",
+        "excerpt": "Dartmouth’s endowment disclosed holdings in Bitwise’s Solana staking ETF, Grayscale’s Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF, with $14 million in crypto exposure.",
+        "body": "Dartmouth’s endowment has disclosed its cryptocurrency ETF holdings. The disclosed positions include the Bitwise Solana staking ETF, the Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF. According to the original report, the endowment’s crypto-related exposure totals $14 million. The filing shows that the university endowment holds exposure not only to Bitcoin, but also to Solana and Ethereum staking ETFs. Any future change in the size of these holdings will need to be confirmed through additional disclosures. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "ダートマス基金、ソラナETF投資を開示 暗号資産エクスポージャーは1400万ドル",
+        "excerpt": "ダートマス大学の基金は、Bitwiseのソラナ・ステーキングETF、Grayscaleのイーサリアム・ステーキングETF、BlackRockのiSharesビットコインETFの保有と、総額1400万ドルの暗号資産エクスポージャーを開示した。",
+        "body": "ダートマス大学の基金が、暗号資産ETFの保有状況を開示した。開示された保有銘柄には、Bitwiseのソラナ・ステーキングETF、Grayscaleのイーサリアム・ステーキングETF、BlackRockのiSharesビットコインETFが含まれる。原文によると、同基金の暗号資産関連エクスポージャーは1400万ドルに上る。今回の開示は、大学基金がビットコインだけでなく、ソラナとイーサリアムのステーキングETFも保有していることを示している。今後の保有規模の変化は、追加の開示で確認される見通しだ。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "达特茅斯基金披露Solana ETF投资，加密敞口达1400万美元",
+        "excerpt": "达特茅斯大学基金披露持有Bitwise Solana质押ETF、Grayscale以太坊质押ETF及BlackRock iShares比特币ETF，加密资产敞口合计1400万美元。",
+        "body": "达特茅斯大学基金通过披露文件公布了其加密货币ETF持仓。披露的持仓包括Bitwise Solana质押ETF、Grayscale以太坊质押ETF，以及BlackRock的iShares比特币ETF。原文称，该基金与加密资产相关的敞口总额为1400万美元。此次披露显示，这只大学基金的配置并不限于比特币，也包括Solana和以太坊质押ETF。未来持仓规模是否变化，仍需通过后续披露确认。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Fondo de Dartmouth revela inversión en ETF de Solana y exposición cripto de $14M",
+        "excerpt": "El fondo de Dartmouth divulgó posiciones en el ETF de staking de Solana de Bitwise, el ETF de staking de Ethereum de Grayscale y el iShares Bitcoin ETF de BlackRock, con $14 millones en exposición cripto.",
+        "body": "El fondo de Dartmouth divulgó sus tenencias en ETF vinculados a criptomonedas. Las posiciones informadas incluyen el ETF de staking de Solana de Bitwise, el ETF de staking de Ethereum de Grayscale y el iShares Bitcoin ETF de BlackRock. Según el reporte original, la exposición relacionada con cripto del fondo asciende a $14 millones. La divulgación muestra que el fondo universitario mantiene exposición no solo a Bitcoin, sino también a ETF de staking de Solana y Ethereum. Cualquier cambio futuro en el tamaño de estas posiciones deberá confirmarse mediante nuevas divulgaciones. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Fundo de Dartmouth revela ETF de Solana e exposição cripto de US$ 14 mi",
+        "excerpt": "O fundo de Dartmouth divulgou posições no ETF de staking de Solana da Bitwise, no ETF de staking de Ethereum da Grayscale e no iShares Bitcoin ETF da BlackRock, somando US$ 14 milhões em exposição cripto.",
+        "body": "O fundo de Dartmouth divulgou suas posições em ETFs ligados a criptomoedas. As participações informadas incluem o ETF de staking de Solana da Bitwise, o ETF de staking de Ethereum da Grayscale e o iShares Bitcoin ETF da BlackRock. Segundo o relatório original, a exposição relacionada a cripto do fundo soma US$ 14 milhões. A divulgação mostra que o fundo universitário mantém exposição não apenas ao Bitcoin, mas também a ETFs de staking de Solana e Ethereum. Qualquer mudança futura no tamanho dessas posições deverá ser confirmada por novas divulgações. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Dartmouth-Stiftung legt Solana-ETF-Investment und 14 Mio. USD Krypto-Exposure offen",
+        "excerpt": "Die Dartmouth-Stiftung meldete Bestände im Bitwise Solana Staking ETF, im Grayscale Ethereum Staking ETF und im iShares Bitcoin ETF von BlackRock, mit insgesamt 14 Mio. USD Krypto-Exposure.",
+        "body": "Die Dartmouth-Stiftung hat ihre Bestände in kryptobezogenen ETFs offengelegt. Zu den gemeldeten Positionen gehören der Bitwise Solana Staking ETF, der Grayscale Ethereum Staking ETF und BlackRocks iShares Bitcoin ETF. Dem ursprünglichen Bericht zufolge beläuft sich das Krypto-Exposure der Stiftung auf 14 Mio. USD. Die Offenlegung zeigt, dass die Universitätsstiftung nicht nur Bitcoin-Exposure hält, sondern auch Positionen in Solana- und Ethereum-Staking-ETFs. Ob sich die Größe dieser Bestände künftig verändert, muss durch weitere Offenlegungen bestätigt werden. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Dartmouth dévoile un ETF Solana et 14 M$ d’exposition aux cryptos",
+        "excerpt": "Le fonds de Dartmouth a déclaré des positions dans l’ETF de staking Solana de Bitwise, l’ETF de staking Ethereum de Grayscale et l’iShares Bitcoin ETF de BlackRock, pour 14 M$ d’exposition crypto.",
+        "body": "Le fonds de Dartmouth a divulgué ses avoirs dans des ETF liés aux cryptomonnaies. Les positions déclarées comprennent l’ETF de staking Solana de Bitwise, l’ETF de staking Ethereum de Grayscale et l’iShares Bitcoin ETF de BlackRock. Selon le rapport original, l’exposition crypto du fonds atteint 14 M$. Cette divulgation montre que le fonds universitaire n’est pas seulement exposé au Bitcoin, mais aussi à des ETF de staking Solana et Ethereum. Toute évolution future du montant de ces positions devra être confirmée par de nouvelles déclarations. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "صندوق دارتموث يكشف استثمارا في ETF سولانا وانكشافا رقميا بـ14 مليون دولار",
+        "excerpt": "كشف صندوق دارتموث عن حيازات في ETF تخزين سولانا من Bitwise وETF تخزين إيثريوم من Grayscale وiShares Bitcoin ETF من BlackRock، مع انكشاف على العملات الرقمية بقيمة 14 مليون دولار.",
+        "body": "كشف صندوق دارتموث عن حيازاته في صناديق ETF مرتبطة بالعملات الرقمية. وتشمل المراكز المعلنة ETF تخزين سولانا من Bitwise، وETF تخزين إيثريوم من Grayscale، وiShares Bitcoin ETF التابع لـBlackRock. ووفقا للتقرير الأصلي، يبلغ الانكشاف المرتبط بالعملات الرقمية لدى الصندوق 14 مليون دولار. يوضح هذا الإفصاح أن صندوق الجامعة لا يحتفظ بانكشاف على بيتكوين فقط، بل يشمل أيضا صناديق ETF لتخزين سولانا وإيثريوم. وأي تغير لاحق في حجم هذه الحيازات سيتطلب تأكيدا عبر إفصاحات إضافية. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Dartmouth एंडोमेंट ने Solana ETF निवेश और $14M क्रिप्टो एक्सपोजर बताया",
+        "excerpt": "Dartmouth के एंडोमेंट ने Bitwise Solana staking ETF, Grayscale Ethereum staking ETF और BlackRock iShares Bitcoin ETF में होल्डिंग्स का खुलासा किया, जिससे कुल क्रिप्टो एक्सपोजर $14 मिलियन रहा।",
+        "body": "Dartmouth के एंडोमेंट ने क्रिप्टोकरेंसी से जुड़े ETF में अपनी होल्डिंग्स का खुलासा किया है। घोषित पोजिशन में Bitwise Solana staking ETF, Grayscale Ethereum staking ETF और BlackRock का iShares Bitcoin ETF शामिल हैं। मूल रिपोर्ट के अनुसार, फंड का क्रिप्टो-संबंधित एक्सपोजर कुल $14 मिलियन है। यह खुलासा दिखाता है कि विश्वविद्यालय का एंडोमेंट केवल Bitcoin तक सीमित नहीं है, बल्कि Solana और Ethereum staking ETF में भी एक्सपोजर रखता है। इन होल्डिंग्स के आकार में भविष्य का कोई बदलाव अतिरिक्त खुलासों से ही पुष्टि किया जाएगा। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Dana Abadi Dartmouth Ungkap ETF Solana dan Eksposur Kripto $14 Juta",
+        "excerpt": "Dana abadi Dartmouth mengungkap kepemilikan di ETF staking Solana Bitwise, ETF staking Ethereum Grayscale, dan iShares Bitcoin ETF BlackRock, dengan total eksposur kripto $14 juta.",
+        "body": "Dana abadi Dartmouth mengungkap kepemilikan ETF yang terkait dengan kripto. Posisi yang dilaporkan mencakup ETF staking Solana Bitwise, ETF staking Ethereum Grayscale, dan iShares Bitcoin ETF milik BlackRock. Menurut laporan asli, eksposur terkait kripto dana tersebut mencapai $14 juta. Pengungkapan ini menunjukkan bahwa dana abadi universitas tersebut tidak hanya memiliki eksposur ke Bitcoin, tetapi juga ke ETF staking Solana dan Ethereum. Perubahan ukuran kepemilikan di masa depan perlu dikonfirmasi melalui pengungkapan tambahan. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "1cdbbfe49718",
     "slug": "apple-mac-m5-system-exploited-with-anthropic39s-claude-mytho-710319",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "LG Gelar Tech Conference pada 14, Bidik Talenta Teknologi Masa Depan",
         "excerpt": "LG menggelar LG Tech Conference pada 14 untuk mengamankan talenta teknologi masa depan, dari anak berbakat sains Generasi Alfa hingga lulusan magister dan doktor di dalam dan luar negeri.",
         "body": "LG menggelar LG Tech Conference pada 14 untuk mengamankan talenta teknologi masa depan. Sasarannya mencakup anak berbakat sains dari Generasi Alfa, yang lahir pada 2010 hingga 2024, serta talenta magister dan doktor di Korea maupun luar negeri. Acara ini disiapkan sebagai tempat bagi LG untuk lebih awal bertemu orang-orang yang memiliki potensi tumbuh di bidang teknologi masa depan dan 확보 kemampuan teknis yang dibutuhkan. LG Tech Conference dimulai pada 2012. Melalui konferensi ini, LG menunjukkan langkah untuk memperluas kontak dengan talenta sains dan peneliti tingkat lanjut, sekaligus membangun dasar daya saing teknologi masa depan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3d5fd7baf85e",
-    "slug": "bitcoin-risks-slump-after-hitting-major-bear-market-resistan-316963",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T07:20:53.457Z",
-    "updatedAt": "2026-05-14T07:20:53.457Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/bitcoin-at-risk-of-falling-after-hitting-major-bear-market-resistance-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/bitcoin-at-risk-of-falling-after-hitting-major-bear-market-resistance-cryptoquant",
-    "titleFingerprint": "dd7277371c02ce72a13ac44dfcb9d3546810f8a3",
-    "dedupKeys": [
-      "3d5fd7baf85e305ac8d0eec29b6a873d1815cd3f",
-      "dd7277371c02ce72a13ac44dfcb9d3546810f8a3",
-      "97087243380549fde163bba86181d12046f2a8ab"
-    ],
-    "imageUrl": "/images/articles/3d5fd7baf85e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인, 주요 약세장 저항 도달 후 하락 위험 확대: CryptoQuant",
-        "excerpt": "CryptoQuant는 5월 13일 보고서에서 비트코인이 200일 이동평균 기반의 역사적 저항에 닿고 트레이더 차익실현 신호가 커져 랠리 반전 위험이 있다고 밝혔다.",
-        "body": "비트코인은 5월 13일 CryptoQuant 보고서에서 역사적으로 주요 약세장 저항으로 작용한 200일 이동평균에 도달하며 하락 전환 위험이 제기됐다. Cointelegraph.com에 따르면 비트코인은 4월 초 6만6000달러까지 밀린 뒤 6주간 반등해 200일 이동평균인 8만2400달러를 시험했다. CryptoQuant는 2022년 3월에도 이 수준을 맞은 뒤 하락 추세가 재개됐다고 설명했다. 여기에 5월 5일 트레이더 미실현 이익률이 17.7%로 지난해 6월 이후 최고치를 기록했고, 5월 4일에는 1만4600 BTC, 약 12억 달러 규모의 실현 이익이 발생했다. 비트코인은 24시간 동안 2.3% 하락해 7만9300달러였으며, 하락 시 약 7만 달러가 지지선으로 제시됐다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Bitcoin Faces Drop Risk After Major Bear Market Resistance: CryptoQuant",
-        "excerpt": "CryptoQuant said on May 13 that Bitcoin’s rally could reverse after price reached a historic 200-day moving average resistance and traders showed profit-taking signals.",
-        "body": "Bitcoin faces a possible downturn after reaching a 200-day moving average that has historically acted as major bear market resistance, CryptoQuant said in a May 13 report. According to cointelegraph.com, Bitcoin rebounded for six weeks after falling to $66,000 in early April and tested its 200-day moving average near $82,400. CryptoQuant said a similar test in March 2022 was followed by a renewed downtrend. The firm also noted that traders’ unrealized profit margins reached 17.7% on May 5, the highest since last June, while realized profits rose on May 4 as traders cashed out 14,600 BTC worth about $1.2 billion. Bitcoin was down 2.3% over 24 hours at $79,300, with support near $70,000 if it falls. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "ビットコイン、主要弱気相場の抵抗到達で下落リスク: CryptoQuant",
-        "excerpt": "CryptoQuantは5月13日、ビットコインが200日移動平均に基づく歴史的抵抗に達し、利確の兆候も出ているため反落リスクがあると指摘した。",
-        "body": "ビットコインは5月13日のCryptoQuantのレポートで、過去に主要な弱気相場の抵抗として機能した200日移動平均に到達し、下落転換のリスクが示された。cointelegraph.comによると、ビットコインは4月初めに6万6000ドルまで下げた後、6週間反発し、200日移動平均の8万2400ドルを試した。CryptoQuantは、2022年3月にも同水準を試した後に下落トレンドが再開したと説明した。さらに5月5日にはトレーダーの未実現利益率が17.7%と昨年6月以来の高水準となり、5月4日には1万4600BTC、約12億ドル相当の実現利益が発生した。ビットコインは24時間で2.3%下落し7万9300ドルとなり、下落時の支持線は約7万ドルとされた。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "比特币触及主要熊市阻力后面临回落风险：CryptoQuant",
-        "excerpt": "CryptoQuant在5月13日报告称，比特币触及基于200日均线的历史阻力位，且交易员获利了结迹象升温，涨势可能反转。",
-        "body": "CryptoQuant在5月13日的报告中表示，比特币触及历史上曾作为主要熊市阻力的200日移动平均线后，存在转入下行的风险。cointelegraph.com报道，比特币在4月初跌至66000美元后连续六周反弹，并测试约82400美元的200日均线。CryptoQuant指出，2022年3月比特币测试这一水平后，随后恢复下跌趋势。同时，5月5日交易员未实现利润率升至17.7%，为去年6月以来最高；5月4日，交易员兑现14600枚BTC，约合12亿美元，推动已实现利润上升。比特币24小时内下跌2.3%，报79300美元；若继续下跌，约70000美元被视为支撑位。来源：cointelegraph.com。"
-      },
-      "es": {
-        "title": "Bitcoin afronta riesgo de caída tras resistencia bajista clave: CryptoQuant",
-        "excerpt": "CryptoQuant dijo el 13 de mayo que el repunte de Bitcoin podría revertirse tras tocar una resistencia histórica ligada a la media de 200 días y señales de toma de ganancias.",
-        "body": "Bitcoin enfrenta riesgo de giro bajista después de alcanzar la media móvil de 200 días, un nivel que históricamente actuó como resistencia importante en mercados bajistas, según un informe de CryptoQuant del 13 de mayo. De acuerdo con cointelegraph.com, Bitcoin rebotó durante seis semanas tras caer a 66.000 dólares a comienzos de abril y probó la media de 200 días cerca de 82.400 dólares. CryptoQuant recordó que una prueba similar en marzo de 2022 fue seguida por la reanudación de la tendencia bajista. Además, los márgenes de ganancia no realizada de los traders llegaron al 17,7% el 5 de mayo, su máximo desde junio pasado, y el 4 de mayo se realizaron ganancias por 14.600 BTC, unos 1.200 millones de dólares. Bitcoin caía 2,3% en 24 horas a 79.300 dólares, con soporte cercano a 70.000 dólares si retrocede. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Bitcoin tem risco de queda após resistência de bear market: CryptoQuant",
-        "excerpt": "A CryptoQuant afirmou em 13 de maio que o rali do Bitcoin pode reverter após o preço tocar uma resistência histórica da média de 200 dias e surgirem sinais de realização.",
-        "body": "O Bitcoin corre risco de queda após alcançar a média móvel de 200 dias, nível que historicamente atuou como grande resistência em mercados de baixa, disse a CryptoQuant em relatório de 13 de maio. Segundo o cointelegraph.com, o Bitcoin se recuperou por seis semanas depois de cair a US$ 66.000 no início de abril e testou a média de 200 dias perto de US$ 82.400. A CryptoQuant afirmou que, em março de 2022, um teste semelhante foi seguido pela retomada da tendência de baixa. A empresa também destacou que as margens de lucro não realizado dos traders chegaram a 17,7% em 5 de maio, maior nível desde junho passado, enquanto em 4 de maio houve realização de 14.600 BTC, cerca de US$ 1,2 bilhão. O Bitcoin caía 2,3% em 24 horas, a US$ 79.300, com suporte em torno de US$ 70.000 se recuar. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Bitcoin droht Rückgang nach wichtiger Bärenmarkt-Hürde: CryptoQuant",
-        "excerpt": "CryptoQuant erklärte am 13. Mai, Bitcoins Rally könne kippen, nachdem der Kurs eine historische 200-Tage-Linien-Resistenz erreicht habe und Gewinnmitnahmen sichtbar seien.",
-        "body": "Bitcoin steht nach Einschätzung von CryptoQuant vor einem möglichen Rückgang, nachdem der Kurs den gleitenden 200-Tage-Durchschnitt erreicht hat, der historisch als wichtige Bärenmarkt-Resistenz galt. Laut cointelegraph.com erholte sich Bitcoin sechs Wochen lang, nachdem er Anfang April auf 66.000 US-Dollar gefallen war, und testete die 200-Tage-Linie bei rund 82.400 US-Dollar. CryptoQuant verwies darauf, dass ein ähnlicher Test im März 2022 von einer erneuten Abwärtsbewegung gefolgt wurde. Zusätzlich stiegen die nicht realisierten Gewinnmargen der Trader am 5. Mai auf 17,7%, den höchsten Stand seit Juni vergangenen Jahres. Am 4. Mai wurden zudem Gewinne aus 14.600 BTC im Wert von etwa 1,2 Milliarden US-Dollar realisiert. Bitcoin lag binnen 24 Stunden 2,3% tiefer bei 79.300 US-Dollar; bei weiteren Verlusten nannte CryptoQuant etwa 70.000 US-Dollar als Unterstützung. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Bitcoin menacé après une résistance clé de marché baissier: CryptoQuant",
-        "excerpt": "CryptoQuant a indiqué le 13 mai que le rebond du Bitcoin pourrait s’inverser après le contact avec une résistance historique liée à la moyenne 200 jours et des prises de bénéfices.",
-        "body": "Bitcoin risque de repartir à la baisse après avoir atteint sa moyenne mobile à 200 jours, un niveau qui a historiquement servi de résistance majeure en marché baissier, selon un rapport de CryptoQuant publié le 13 mai. D’après cointelegraph.com, Bitcoin a rebondi pendant six semaines après être tombé à 66.000 dollars début avril, puis a testé la moyenne à 200 jours autour de 82.400 dollars. CryptoQuant a rappelé qu’un test similaire en mars 2022 avait été suivi d’une reprise de la tendance baissière. La société a aussi relevé que les marges de gains non réalisés des traders ont atteint 17,7% le 5 mai, un plus haut depuis juin dernier, tandis que 14.600 BTC, soit près de 1,2 milliard de dollars, ont été encaissés le 4 mai. Bitcoin reculait de 2,3% sur 24 heures à 79.300 dollars, avec un support proche de 70.000 dollars en cas de baisse. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "بيتكوين تواجه خطر الهبوط بعد مقاومة سوق هابطة رئيسية: CryptoQuant",
-        "excerpt": "قالت CryptoQuant في 13 مايو إن صعود بيتكوين قد ينعكس بعد بلوغ مقاومة تاريخية مرتبطة بمتوسط 200 يوم، مع ظهور إشارات على جني المتداولين للأرباح.",
-        "body": "تواجه بيتكوين خطر التحول إلى مسار هابط بعدما وصلت إلى المتوسط المتحرك لـ200 يوم، وهو مستوى عمل تاريخيا كمقاومة رئيسية في السوق الهابطة، وفق تقرير CryptoQuant في 13 مايو. وبحسب cointelegraph.com، ارتدت بيتكوين على مدى ستة أسابيع بعد هبوطها إلى 66000 دولار في أوائل أبريل، ثم اختبرت متوسط 200 يوم قرب 82400 دولار. وقالت CryptoQuant إن اختبارا مشابها في مارس 2022 تبعته عودة الاتجاه الهابط. كما بلغت هوامش الأرباح غير المحققة للمتداولين 17.7% في 5 مايو، وهو أعلى مستوى منذ يونيو الماضي، بينما جرى تحقيق أرباح من 14600 بيتكوين، بنحو 1.2 مليار دولار، في 4 مايو. وتراجعت بيتكوين 2.3% خلال 24 ساعة إلى 79300 دولار، مع دعم محتمل قرب 70000 دولار إذا استمر الهبوط. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "बिटकॉइन पर प्रमुख बेयर मार्केट रेजिस्टेंस के बाद गिरावट जोखिम: CryptoQuant",
-        "excerpt": "CryptoQuant ने 13 मई को कहा कि बिटकॉइन की तेजी पलट सकती है, क्योंकि कीमत 200-दिवसीय मूविंग एवरेज आधारित ऐतिहासिक रेजिस्टेंस पर पहुंची और मुनाफावसूली के संकेत दिखे।",
-        "body": "CryptoQuant की 13 मई की रिपोर्ट के अनुसार, बिटकॉइन 200-दिवसीय मूविंग एवरेज पर पहुंचने के बाद गिरावट के जोखिम में है, जो ऐतिहासिक रूप से बेयर मार्केट में प्रमुख रेजिस्टेंस रहा है। cointelegraph.com के मुताबिक, बिटकॉइन अप्रैल की शुरुआत में 66000 डॉलर तक गिरने के बाद छह सप्ताह तक चढ़ा और करीब 82400 डॉलर के 200-दिवसीय औसत को परखा। CryptoQuant ने कहा कि मार्च 2022 में इसी तरह की जांच के बाद गिरावट का रुझान फिर शुरू हुआ था। इसके साथ, 5 मई को ट्रेडरों का अवास्तविक लाभ मार्जिन 17.7% पर पहुंचा, जो पिछले जून के बाद सबसे ऊंचा स्तर था। 4 मई को 14600 BTC, करीब 1.2 अरब डॉलर, पर मुनाफा बुक हुआ। बिटकॉइन 24 घंटे में 2.3% गिरकर 79300 डॉलर पर था; गिरावट जारी रहने पर करीब 70000 डॉलर समर्थन माना गया। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Bitcoin Berisiko Turun Usai Sentuh Resistance Bear Market: CryptoQuant",
-        "excerpt": "CryptoQuant pada 13 Mei menyebut reli Bitcoin bisa berbalik setelah harga menyentuh resistance historis berbasis MA 200 hari dan sinyal ambil untung trader meningkat.",
-        "body": "Bitcoin berisiko berbalik turun setelah mencapai moving average 200 hari, level yang secara historis menjadi resistance utama dalam bear market, menurut laporan CryptoQuant pada 13 Mei. Mengutip cointelegraph.com, Bitcoin memantul selama enam minggu setelah turun ke 66.000 dolar AS pada awal April dan menguji MA 200 hari di sekitar 82.400 dolar AS. CryptoQuant mengatakan pengujian serupa pada Maret 2022 diikuti kembalinya tren turun. Perusahaan itu juga mencatat margin laba belum terealisasi trader mencapai 17,7% pada 5 Mei, tertinggi sejak Juni lalu, sementara pada 4 Mei trader merealisasikan keuntungan dari 14.600 BTC senilai hampir 1,2 miliar dolar AS. Bitcoin turun 2,3% dalam 24 jam ke 79.300 dolar AS, dengan support sekitar 70.000 dolar AS jika penurunan berlanjut. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "9820f7944457",
-    "slug": "bitcoin-firm-nakamoto-records-net-loss-in-q1-despite-sixfold-852605",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T07:19:33.664Z",
-    "updatedAt": "2026-05-14T07:19:33.665Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-reports-238m-net-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-reports-238m-net-loss-q1",
-    "titleFingerprint": "0bc3567f01627a8f1a74c41c84de9ddc19e9c2a2",
-    "dedupKeys": [
-      "9820f79444573e51a31fa5619902259ca7b6b140",
-      "0bc3567f01627a8f1a74c41c84de9ddc19e9c2a2",
-      "945ae396d1be549773e85093494b1a91a13a6834"
-    ],
-    "imageUrl": "/images/articles/9820f7944457.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 기업 나카모토, 매출 6배 성장에도 1분기 순손실 기록",
-        "excerpt": "비트코인 기업 나카모토는 2026년 1분기 매출이 6배 증가했지만 순손실을 기록했으며, 데이비드 베일리 CEO는 남은 해에 비트코인 재무 전략과 서비스, 거래 전략 확대에 집중하겠다고 밝혔다.",
-        "body": "비트코인 기업 나카모토가 2026년 1분기에 매출을 6배로 늘렸음에도 순손실을 기록했다. 회사의 실적은 빠른 외형 성장과 수익성 부담이 동시에 나타난 사례로 주목된다. 원문에 따르면 나카모토는 1분기 매출 성장에도 불구하고 최종 손익에서 적자를 냈다. 데이비드 베일리 CEO는 2026년 남은 기간 동안 회사가 비트코인 트레저리 확대, 서비스 사업 강화, 거래 전략 확장에 집중하고 있다고 설명했다. 이번 결과는 나카모토가 성장 속도를 유지하면서 손실을 줄일 수 있는지가 핵심 과제로 남아 있음을 보여준다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "Bitcoin Firm Nakamoto Posts Q1 Net Loss Despite Sixfold Revenue Growth",
-        "excerpt": "Bitcoin firm Nakamoto recorded a net loss in Q1 2026 despite revenue growing sixfold, while CEO David Bailey said the company will focus on scaling its Bitcoin treasury, services and trading strategies.",
-        "body": "Bitcoin firm Nakamoto recorded a net loss in the first quarter of 2026 even as its revenue increased sixfold. The result highlights a case in which rapid top-line growth and pressure on profitability appeared at the same time. According to the original report, Nakamoto expanded revenue during the quarter but still ended with a net loss. CEO David Bailey said the company is focused for the remainder of 2026 on scaling its Bitcoin treasury, strengthening services and expanding trading strategies. The results show that Nakamoto’s key challenge remains whether it can maintain growth while reducing losses. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "ビットコイン企業ナカモト、売上6倍成長でも第1四半期は純損失",
-        "excerpt": "ビットコイン企業ナカモトは2026年第1四半期に売上が6倍へ拡大した一方で純損失を計上し、デイビッド・ベイリーCEOは年内にビットコイン財務、サービス、取引戦略の拡大へ注力すると述べた。",
-        "body": "ビットコイン企業ナカモトは、2026年第1四半期に売上を6倍に伸ばしたにもかかわらず、純損失を計上した。急速な売上成長と収益性への負担が同時に表れた事例として注目される。原文によると、ナカモトは同四半期に売上を拡大したものの、最終損益では赤字となった。デイビッド・ベイリーCEOは、2026年の残りの期間にビットコイン・トレジャリーの拡大、サービス事業の強化、取引戦略の拡張に注力していると説明した。今回の結果は、同社が成長ペースを維持しながら損失を減らせるかが重要課題であることを示している。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "比特币公司Nakamoto一季度营收增六倍仍录得净亏损",
-        "excerpt": "比特币公司Nakamoto在2026年第一季度营收增长六倍但仍录得净亏损，CEO David Bailey表示，公司今年余下时间将专注扩大比特币财库、服务和交易策略。",
-        "body": "比特币公司Nakamoto在2026年第一季度营收增长六倍，但仍录得净亏损。这一业绩显示，公司在快速扩大收入的同时，也面临盈利能力压力。根据原文报道，Nakamoto在该季度实现营收增长，但最终净利润仍为亏损。首席执行官David Bailey表示，2026年余下时间，公司将专注于扩大比特币财库、加强服务业务，并拓展交易策略。此次结果表明，Nakamoto接下来的关键挑战，是能否在保持增长速度的同时减少亏损。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "Nakamoto, firma de Bitcoin, registra pérdida neta en Q1 pese a multiplicar ingresos por seis",
-        "excerpt": "La firma de Bitcoin Nakamoto registró una pérdida neta en el primer trimestre de 2026 pese a multiplicar por seis sus ingresos, mientras su CEO David Bailey dijo que enfocará el resto del año en tesorería Bitcoin, servicios y estrategias de trading.",
-        "body": "La firma de Bitcoin Nakamoto registró una pérdida neta en el primer trimestre de 2026, aunque sus ingresos aumentaron seis veces. El resultado muestra un caso en el que el rápido crecimiento de ingresos convivió con presión sobre la rentabilidad. Según el reporte original, Nakamoto expandió sus ingresos durante el trimestre, pero terminó con pérdidas netas. El CEO David Bailey dijo que, durante el resto de 2026, la compañía se concentrará en ampliar su tesorería de Bitcoin, reforzar sus servicios y expandir sus estrategias de trading. El resultado deja como reto central si Nakamoto puede sostener el crecimiento mientras reduce pérdidas. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "Nakamoto, empresa de Bitcoin, tem prejuízo líquido no 1º tri apesar de receita seis vezes maior",
-        "excerpt": "A empresa de Bitcoin Nakamoto registrou prejuízo líquido no primeiro trimestre de 2026 apesar de receita seis vezes maior, enquanto o CEO David Bailey disse que focará o restante do ano em tesouraria de Bitcoin, serviços e estratégias de negociação.",
-        "body": "A empresa de Bitcoin Nakamoto registrou prejuízo líquido no primeiro trimestre de 2026, apesar de sua receita ter crescido seis vezes. O resultado mostra um caso em que a rápida expansão da receita ocorreu junto com pressão sobre a rentabilidade. Segundo o relatório original, a Nakamoto ampliou a receita no trimestre, mas terminou com prejuízo líquido. O CEO David Bailey afirmou que, no restante de 2026, a companhia está focada em ampliar sua tesouraria de Bitcoin, fortalecer serviços e expandir estratégias de negociação. O resultado indica que o principal desafio da Nakamoto será manter o crescimento enquanto reduz perdas. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "Bitcoin-Firma Nakamoto meldet Nettoverlust im Q1 trotz sechsfach höherem Umsatz",
-        "excerpt": "Die Bitcoin-Firma Nakamoto verzeichnete im ersten Quartal 2026 trotz versechsfachtem Umsatz einen Nettoverlust; CEO David Bailey will den Rest des Jahres auf Bitcoin-Treasury, Services und Handelsstrategien ausrichten.",
-        "body": "Die Bitcoin-Firma Nakamoto hat im ersten Quartal 2026 einen Nettoverlust verbucht, obwohl der Umsatz auf das Sechsfache stieg. Das Ergebnis zeigt, dass starkes Umsatzwachstum und Druck auf die Profitabilität gleichzeitig auftreten können. Dem Originalbericht zufolge steigerte Nakamoto im Quartal den Umsatz, schloss unter dem Strich aber mit Verlust ab. CEO David Bailey sagte, das Unternehmen konzentriere sich im weiteren Verlauf von 2026 darauf, seine Bitcoin-Treasury auszubauen, Services zu stärken und Handelsstrategien zu erweitern. Damit bleibt die zentrale Frage, ob Nakamoto sein Wachstum halten und zugleich Verluste senken kann. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "Nakamoto, société Bitcoin, affiche une perte nette au T1 malgré des revenus multipliés par six",
-        "excerpt": "La société Bitcoin Nakamoto a enregistré une perte nette au premier trimestre 2026 malgré des revenus multipliés par six, tandis que son CEO David Bailey dit viser l’expansion de la trésorerie Bitcoin, des services et des stratégies de trading.",
-        "body": "La société Bitcoin Nakamoto a enregistré une perte nette au premier trimestre 2026, malgré des revenus multipliés par six. Ce résultat illustre une situation où la croissance rapide du chiffre d’affaires s’accompagne encore d’une pression sur la rentabilité. Selon le rapport original, Nakamoto a accru ses revenus sur le trimestre, mais a terminé avec une perte nette. Le CEO David Bailey a indiqué que, pour le reste de 2026, l’entreprise se concentre sur l’expansion de sa trésorerie en Bitcoin, le renforcement de ses services et le développement de ses stratégies de trading. Le principal enjeu reste donc de maintenir la croissance tout en réduisant les pertes. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "شركة بيتكوين ناكاموتو تسجل خسارة صافية في الربع الأول رغم نمو الإيرادات ستة أضعاف",
-        "excerpt": "سجلت شركة بيتكوين ناكاموتو خسارة صافية في الربع الأول من 2026 رغم نمو الإيرادات ستة أضعاف، وقال الرئيس التنفيذي ديفيد بيلي إن الشركة ستركز بقية العام على توسيع خزانة البيتكوين والخدمات واستراتيجيات التداول.",
-        "body": "سجلت شركة بيتكوين ناكاموتو خسارة صافية في الربع الأول من عام 2026، رغم أن إيراداتها زادت ستة أضعاف. وتبرز النتيجة حالة يجتمع فيها النمو السريع في الإيرادات مع ضغط مستمر على الربحية. ووفق التقرير الأصلي، وسعت ناكاموتو إيراداتها خلال الربع، لكنها أنهته بخسارة صافية. وقال الرئيس التنفيذي ديفيد بيلي إن الشركة تركز خلال ما تبقى من 2026 على توسيع خزانة البيتكوين، وتعزيز الخدمات، وتطوير استراتيجيات التداول. وتوضح هذه النتائج أن التحدي الأساسي أمام ناكاموتو هو الحفاظ على النمو مع تقليص الخسائر. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "Bitcoin फर्म Nakamoto को Q1 में शुद्ध घाटा, राजस्व छह गुना बढ़ने के बावजूद",
-        "excerpt": "Bitcoin फर्म Nakamoto ने 2026 की पहली तिमाही में राजस्व छह गुना बढ़ने के बावजूद शुद्ध घाटा दर्ज किया, जबकि CEO David Bailey ने कहा कि कंपनी शेष वर्ष Bitcoin treasury, सेवाओं और trading strategies को बढ़ाने पर ध्यान देगी।",
-        "body": "Bitcoin फर्म Nakamoto ने 2026 की पहली तिमाही में राजस्व छह गुना बढ़ने के बावजूद शुद्ध घाटा दर्ज किया। यह नतीजा दिखाता है कि तेज राजस्व वृद्धि के साथ लाभप्रदता पर दबाव भी बना रहा। मूल रिपोर्ट के अनुसार, Nakamoto ने तिमाही में राजस्व बढ़ाया, लेकिन अंतिम परिणाम शुद्ध घाटे में रहा। CEO David Bailey ने कहा कि 2026 के शेष हिस्से में कंपनी Bitcoin treasury को बढ़ाने, सेवाओं को मजबूत करने और trading strategies का विस्तार करने पर ध्यान केंद्रित कर रही है। यह परिणाम बताता है कि Nakamoto के सामने मुख्य चुनौती वृद्धि बनाए रखते हुए घाटे को कम करना है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "Perusahaan Bitcoin Nakamoto Catat Rugi Bersih Q1 Meski Pendapatan Naik Enam Kali",
-        "excerpt": "Perusahaan Bitcoin Nakamoto mencatat rugi bersih pada kuartal pertama 2026 meski pendapatan naik enam kali, sementara CEO David Bailey mengatakan perusahaan akan fokus memperbesar treasury Bitcoin, layanan, dan strategi perdagangan sepanjang sisa tahun.",
-        "body": "Perusahaan Bitcoin Nakamoto mencatat rugi bersih pada kuartal pertama 2026, meski pendapatannya meningkat enam kali. Hasil ini menunjukkan pertumbuhan pendapatan yang cepat berjalan bersamaan dengan tekanan pada profitabilitas. Menurut laporan asli, Nakamoto memperluas pendapatan selama kuartal tersebut, tetapi tetap berakhir dengan rugi bersih. CEO David Bailey mengatakan bahwa selama sisa 2026 perusahaan berfokus pada perluasan treasury Bitcoin, penguatan layanan, dan pengembangan strategi perdagangan. Hasil ini menunjukkan tantangan utama Nakamoto adalah mempertahankan pertumbuhan sambil mengurangi kerugian. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "0f2943875784",
-    "slug": "bitcoin-investors-yanked-635-million-from-spot-etfs-in-a-day-197253",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T07:18:40.265Z",
-    "updatedAt": "2026-05-14T07:18:40.265Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/14/bitcoin-investors-yanked-usd635-million-from-spot-etfs-in-a-day-here-s-what-it-means-for-price",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/14/bitcoin-investors-yanked-usd635-million-from-spot-etfs-in-a-day-here-s-what-it-means-for-price",
-    "titleFingerprint": "e8e1cf25154c34315d3476189ddeae1c1bf908f9",
-    "dedupKeys": [
-      "0f2943875784aa1f73d6c39abedc32f2acf098ea",
-      "e8e1cf25154c34315d3476189ddeae1c1bf908f9",
-      "567c71bf83aec869e71468b3b17199236759e51c"
-    ],
-    "imageUrl": "/images/articles/0f2943875784.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 현물 ETF서 하루 6억3500만달러 유출, 가격 의미는",
-        "excerpt": "비트코인 투자자들이 하루 만에 현물 ETF에서 6억3500만달러를 빼냈고, 이는 1월 말 이후 최대 단일 유출로 200일 이동평균선 부근 약세와 맞물렸다.",
-        "body": "비트코인 투자자들이 하루 동안 미국 현물 비트코인 ETF에서 6억3500만달러를 인출했다. 코인데스크에 따르면 이번 유출은 1월 말 이후 단일 기준 최대 규모다. 같은 시기 비트코인은 200일 이동평균선에서 반등을 이어가지 못하고 하락세로 돌아섰다. 현물 ETF 자금 흐름은 기관 및 개인 투자 수요를 가늠하는 주요 지표로 여겨진다. 대규모 유출은 단기적으로 매수세 약화와 가격 부담을 시사하지만, 원문은 추가 하락 폭이나 목표가를 제시하지 않았다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Bitcoin Spot ETFs See $635M Daily Outflow as Price Turns Lower",
-        "excerpt": "Bitcoin investors pulled $635 million from spot ETFs in one day, the largest single outflow since late January, as BTC weakened near its 200-day moving average.",
-        "body": "Bitcoin investors withdrew $635 million from U.S. spot bitcoin ETFs in a single day. According to CoinDesk, it was the largest one-day outflow since late January. The move came as bitcoin failed to extend gains near its 200-day moving average and turned lower. Spot ETF flows are widely watched as a gauge of institutional and retail demand for bitcoin exposure. The large outflow points to weaker near-term buying pressure and potential price stress, but the original report did not provide a specific downside target or forecast. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "ビットコイン現物ETFから1日で6.35億ドル流出、価格への意味",
-        "excerpt": "ビットコイン投資家は現物ETFから1日で6.35億ドルを引き揚げた。1月下旬以来最大の単日流出で、200日移動平均線付近の弱含みと重なった。",
-        "body": "ビットコイン投資家は1日で米国の現物ビットコインETFから6億3500万ドルを引き出した。CoinDeskによると、これは1月下旬以来で最大の単日流出となる。同じ時期にビットコインは200日移動平均線付近で上昇を続けられず、下落に転じた。現物ETFの資金フローは、機関投資家と個人投資家の需要を測る重要な指標とされる。大規模な流出は短期的な買い需要の弱まりと価格への重荷を示すが、原文は具体的な下値目標や予想を示していない。出典: coindesk.com."
-      },
-      "zh": {
-        "title": "比特币现货ETF单日流出6.35亿美元，价格信号受关注",
-        "excerpt": "比特币投资者一天内从现货ETF撤出6.35亿美元，创1月下旬以来最大单日流出，同时BTC在200日均线附近转弱。",
-        "body": "比特币投资者在一天内从美国现货比特币ETF撤出6.35亿美元。CoinDesk称，这是自1月下旬以来规模最大的单日资金流出。与此同时，比特币未能在200日移动平均线附近延续反弹，并转向下行。现货ETF资金流通常被视为衡量机构和散户比特币需求的重要指标。大规模流出显示短期买盘可能减弱，并给价格带来压力，但原文未给出进一步下跌幅度或具体目标价。来源: coindesk.com."
-      },
-      "es": {
-        "title": "ETF spot de Bitcoin pierden 635 millones de dólares en un día",
-        "excerpt": "Los inversores retiraron 635 millones de dólares de ETF spot de Bitcoin en un día, la mayor salida desde finales de enero, mientras BTC cedía desde la media de 200 días.",
-        "body": "Los inversores de bitcoin retiraron 635 millones de dólares de los ETF spot de bitcoin en Estados Unidos en una sola jornada. Según CoinDesk, fue la mayor salida diaria desde finales de enero. El movimiento coincidió con un bitcoin que no logró sostenerse cerca de su media móvil de 200 días y giró a la baja. Los flujos de los ETF spot se siguen como un indicador de la demanda institucional y minorista. Una salida de este tamaño sugiere menor presión compradora a corto plazo y más carga para el precio, aunque el informe original no dio un objetivo bajista concreto. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "ETFs spot de Bitcoin têm saída diária de US$ 635 milhões",
-        "excerpt": "Investidores retiraram US$ 635 milhões de ETFs spot de Bitcoin em um dia, a maior saída desde o fim de janeiro, enquanto o BTC recuava da média móvel de 200 dias.",
-        "body": "Investidores de bitcoin retiraram US$ 635 milhões dos ETFs spot de bitcoin nos Estados Unidos em apenas um dia. Segundo a CoinDesk, foi a maior saída diária desde o fim de janeiro. O movimento ocorreu enquanto o bitcoin não conseguiu sustentar ganhos perto da média móvel de 200 dias e passou a cair. Os fluxos dos ETFs spot são acompanhados como indicador da demanda institucional e de varejo por exposição ao bitcoin. A saída elevada aponta para menor força compradora no curto prazo e pressão sobre o preço, mas o texto original não indicou alvo de queda ou previsão específica. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Bitcoin-Spot-ETFs verlieren an einem Tag 635 Millionen US-Dollar",
-        "excerpt": "Bitcoin-Anleger zogen an einem Tag 635 Millionen US-Dollar aus Spot-ETFs ab, der größte Tagesabfluss seit Ende Januar, während BTC an der 200-Tage-Linie schwächer wurde.",
-        "body": "Bitcoin-Anleger zogen an einem einzigen Tag 635 Millionen US-Dollar aus US-Spot-Bitcoin-ETFs ab. Laut CoinDesk war dies der größte Tagesabfluss seit Ende Januar. Zugleich konnte Bitcoin die Erholung an der 200-Tage-Durchschnittslinie nicht fortsetzen und drehte nach unten. Die Mittelzuflüsse und -abflüsse der Spot-ETFs gelten als wichtiger Gradmesser für institutionelle und private Nachfrage. Der starke Abfluss deutet kurzfristig auf schwächeren Kaufdruck und Belastung für den Preis hin, doch der Originalbericht nannte kein konkretes Kursziel oder Abwärtsszenario. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Les ETF spot Bitcoin perdent 635 millions de dollars en une journée",
-        "excerpt": "Les investisseurs ont retiré 635 millions de dollars des ETF spot Bitcoin en un jour, la plus forte sortie depuis fin janvier, alors que BTC reculait près de sa moyenne 200 jours.",
-        "body": "Les investisseurs en bitcoin ont retiré 635 millions de dollars des ETF spot bitcoin américains en une seule journée. Selon CoinDesk, il s’agit de la plus forte sortie quotidienne depuis fin janvier. Le mouvement intervient alors que le bitcoin n’a pas réussi à prolonger son rebond près de sa moyenne mobile à 200 jours et s’est orienté à la baisse. Les flux des ETF spot sont suivis comme un indicateur de la demande institutionnelle et des particuliers. Une sortie aussi importante suggère une pression acheteuse plus faible à court terme, mais l’article original ne donne pas d’objectif de baisse précis. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "صناديق بيتكوين الفورية تفقد 635 مليون دولار في يوم واحد",
-        "excerpt": "سحب مستثمرو بيتكوين 635 مليون دولار من صناديق التداول الفورية خلال يوم واحد، في أكبر خروج منذ أواخر يناير، مع تراجع السعر قرب متوسط 200 يوم.",
-        "body": "سحب مستثمرو بيتكوين 635 مليون دولار من صناديق بيتكوين المتداولة الفورية في الولايات المتحدة خلال يوم واحد. وبحسب CoinDesk، فإن هذا أكبر خروج يومي منذ أواخر يناير. جاء ذلك بينما لم يتمكن بيتكوين من مواصلة الصعود قرب المتوسط المتحرك لـ200 يوم واتجه إلى الانخفاض. تعد تدفقات صناديق التداول الفورية مؤشرا مهما لقياس طلب المؤسسات والأفراد على التعرض لبيتكوين. يشير الخروج الكبير إلى ضعف ضغط الشراء على المدى القصير وضغط محتمل على السعر، لكن التقرير الأصلي لم يحدد هدفا سعريا أو توقعا لهبوط إضافي. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "Bitcoin Spot ETF से एक दिन में 635 मिलियन डॉलर निकले",
-        "excerpt": "निवेशकों ने एक दिन में Bitcoin spot ETF से 635 मिलियन डॉलर निकाले, जो जनवरी के अंत के बाद सबसे बड़ी दैनिक निकासी है, जबकि BTC 200-दिवसीय औसत से कमजोर पड़ा।",
-        "body": "Bitcoin निवेशकों ने एक ही दिन में अमेरिकी spot bitcoin ETF से 635 मिलियन डॉलर निकाल लिए। CoinDesk के अनुसार, यह जनवरी के अंत के बाद सबसे बड़ी एकदिवसीय निकासी है। इसी दौरान bitcoin 200-दिवसीय मूविंग एवरेज के पास बढ़त बनाए रखने में असफल रहा और नीचे मुड़ गया। Spot ETF में धन का प्रवाह संस्थागत और खुदरा मांग को मापने का अहम संकेतक माना जाता है। इतनी बड़ी निकासी अल्पावधि में कमजोर खरीदारी दबाव और कीमत पर बोझ का संकेत देती है, लेकिन मूल रिपोर्ट ने किसी खास गिरावट लक्ष्य या पूर्वानुमान का उल्लेख नहीं किया। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "ETF Spot Bitcoin Keluar US$635 Juta Sehari, Harga Melemah",
-        "excerpt": "Investor menarik US$635 juta dari ETF spot Bitcoin dalam satu hari, arus keluar terbesar sejak akhir Januari, saat BTC melemah dari rata-rata bergerak 200 hari.",
-        "body": "Investor bitcoin menarik US$635 juta dari ETF spot bitcoin di Amerika Serikat dalam satu hari. Menurut CoinDesk, ini adalah arus keluar harian terbesar sejak akhir Januari. Pergerakan itu terjadi ketika bitcoin gagal mempertahankan penguatan di dekat rata-rata bergerak 200 hari dan berbalik turun. Arus dana ETF spot dipantau sebagai indikator permintaan institusional dan ritel terhadap eksposur bitcoin. Arus keluar besar menunjukkan tekanan beli jangka pendek yang melemah dan beban pada harga, tetapi laporan asli tidak memberikan target penurunan atau proyeksi khusus. Sumber: coindesk.com."
       }
     }
   }
