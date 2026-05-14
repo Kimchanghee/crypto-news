@@ -1,0 +1,75 @@
+{
+  "id": "9b7210c63e24",
+  "slug": "ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding--680348",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-14T04:49:28.219Z",
+  "updatedAt": "2026-05-14T04:49:28.219Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase",
+  "titleFingerprint": "ca621ec56babf50a078b0683dc448ed8de62dd7a",
+  "dedupKeys": [
+    "9b7210c63e24ffe943d5b7d0c0a15f527cfd3ee4",
+    "ca621ec56babf50a078b0683dc448ed8de62dd7a",
+    "a0bac6c7a81689e3b4454bfbc78784e52e7c7e44"
+  ],
+  "imageUrl": "/images/articles/9b7210c63e24.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 챗봇 클로드, 오래된 시드 문구 단서로 5비트코인 회수 도와",
+      "excerpt": "한 암호화폐 투자자가 오래된 시드 문구를 찾은 뒤 AI 챗봇 클로드로 맥과 외장하드, 이메일, X 메시지를 검색해 5비트코인 회수를 도왔다.",
+      "body": "한 암호화폐 투자자가 오래된 시드 문구를 발견한 뒤 AI 챗봇 클로드의 도움으로 5비트코인을 되찾는 데 성공했다. 그는 회수 단서를 찾기 위해 클로드가 두 대의 맥, 두 개의 외장 하드드라이브, 애플 노트 내보내기 파일, 아이클라우드 메일, 지메일 받은편지함, X 메시지를 살펴보도록 했다. 이번 사례는 분실된 암호화폐 접근 정보가 여러 기기와 계정에 흩어져 있을 때 AI 검색 보조가 회수 과정에 활용될 수 있음을 보여준다. 다만 보도된 내용은 해당 투자자가 클로드를 통해 자료를 검색했다는 사실에 한정된다. 출처: cointelegraph.com."
+    },
+    "en": {
+      "title": "AI chatbot Claude helps recover 5 Bitcoin from an old seed phrase",
+      "excerpt": "A crypto investor used AI chatbot Claude to search Macs, external drives, emails and X messages after finding an old seed phrase, helping recover 5 Bitcoin.",
+      "body": "A crypto investor recovered 5 Bitcoin after finding an old seed phrase and using the AI chatbot Claude to help locate the needed clues. The investor had Claude search through two Macs, two external hard drives, an Apple Notes export, iCloud Mail, a Gmail inbox and X messages as part of the recovery process. The case shows how AI-assisted search can be used when crypto access information is scattered across devices and online accounts. The reported facts are limited to Claude being used to search those materials and help retrieve the Bitcoin. Source: cointelegraph.com."
+    },
+    "ja": {
+      "title": "AIチャットボットClaude、古いシードフレーズから5BTC回収を支援",
+      "excerpt": "暗号資産投資家が古いシードフレーズを見つけた後、ClaudeでMac、外付けドライブ、メール、Xメッセージを検索し、5BTC回収を助けた。",
+      "body": "ある暗号資産投資家が古いシードフレーズを見つけた後、AIチャットボットClaudeの支援で5ビットコインを取り戻した。投資家は回収の手がかりを探すため、Claudeに2台のMac、2台の外付けハードドライブ、Apple Notesのエクスポート、iCloud Mail、Gmailの受信箱、Xメッセージを検索させた。今回の事例は、暗号資産へのアクセス情報が複数の端末やアカウントに分散している場合、AIによる検索支援が回収作業に使われ得ることを示す。ただし報道内容は、Claudeがそれらの資料検索に使われ、ビットコイン回収を助けたという事実に限られる。出典: cointelegraph.com."
+    },
+    "zh": {
+      "title": "AI聊天机器人Claude借旧助记词线索帮助找回5枚比特币",
+      "excerpt": "一名加密投资者找到旧助记词后，让Claude搜索两台Mac、外置硬盘、邮件和X消息，帮助其找回5枚比特币。",
+      "body": "一名加密货币投资者在找到旧助记词后，借助AI聊天机器人Claude成功找回5枚比特币。为寻找恢复线索，他让Claude检索两台Mac、两块外置硬盘、Apple Notes导出文件、iCloud Mail、Gmail收件箱以及X消息。该案例显示，当加密资产访问资料分散在多台设备和多个账户中时，AI辅助搜索可被用于恢复流程。不过，报道内容仅限于这名投资者使用Claude搜索这些资料，并帮助取回比特币这一事实。来源: cointelegraph.com."
+    },
+    "es": {
+      "title": "Claude ayuda a recuperar 5 Bitcoin tras hallar una antigua frase semilla",
+      "excerpt": "Un inversor cripto usó el chatbot Claude para revisar Macs, discos externos, correos y mensajes de X tras hallar una vieja frase semilla y recuperar 5 Bitcoin.",
+      "body": "Un inversor en criptomonedas logró recuperar 5 Bitcoin después de encontrar una antigua frase semilla y usar el chatbot de IA Claude para buscar pistas. El inversor hizo que Claude revisara dos Macs, dos discos duros externos, una exportación de Apple Notes, iCloud Mail, la bandeja de entrada de Gmail y mensajes de X durante el proceso de recuperación. El caso muestra que la búsqueda asistida por IA puede utilizarse cuando la información de acceso a criptoactivos está dispersa entre dispositivos y cuentas. Los hechos reportados se limitan a que Claude fue usado para buscar esos materiales y ayudar a recuperar el Bitcoin. Fuente: cointelegraph.com."
+    },
+    "pt": {
+      "title": "Claude ajuda investidor a recuperar 5 Bitcoin com antiga seed phrase",
+      "excerpt": "Um investidor cripto usou o chatbot Claude para vasculhar Macs, HDs externos, e-mails e mensagens do X após achar uma antiga seed phrase e recuperar 5 Bitcoin.",
+      "body": "Um investidor em criptomoedas conseguiu recuperar 5 Bitcoin depois de encontrar uma antiga seed phrase e usar o chatbot de IA Claude para localizar pistas. Ele fez o Claude pesquisar em dois Macs, dois discos rígidos externos, uma exportação do Apple Notes, iCloud Mail, caixa de entrada do Gmail e mensagens do X durante o processo de recuperação. O caso mostra que a busca assistida por IA pode ser usada quando informações de acesso a criptoativos estão espalhadas por dispositivos e contas. Os fatos relatados se limitam ao uso do Claude para pesquisar esses materiais e ajudar a recuperar o Bitcoin. Fonte: cointelegraph.com."
+    },
+    "de": {
+      "title": "Claude hilft nach alter Seed-Phrase bei Rückholung von 5 Bitcoin",
+      "excerpt": "Ein Krypto-Investor nutzte den KI-Chatbot Claude, um Macs, externe Festplatten, E-Mails und X-Nachrichten zu durchsuchen und nach einer alten Seed-Phrase 5 Bitcoin zurückzuholen.",
+      "body": "Ein Krypto-Investor konnte 5 Bitcoin zurückerlangen, nachdem er eine alte Seed-Phrase gefunden und den KI-Chatbot Claude zur Suche nach weiteren Hinweisen eingesetzt hatte. Claude sollte zwei Macs, zwei externe Festplatten, einen Apple-Notes-Export, iCloud Mail, den Gmail-Posteingang und X-Nachrichten durchsuchen. Der Fall zeigt, dass KI-gestützte Suche in einem Wiederherstellungsprozess genutzt werden kann, wenn Zugangsinformationen zu Kryptowerten über Geräte und Online-Konten verteilt sind. Die berichteten Fakten beschränken sich darauf, dass Claude diese Materialien durchsucht und bei der Rückholung der Bitcoin geholfen hat. Quelle: cointelegraph.com."
+    },
+    "fr": {
+      "title": "Claude aide à récupérer 5 Bitcoin grâce à une ancienne phrase seed",
+      "excerpt": "Un investisseur crypto a utilisé le chatbot Claude pour fouiller Macs, disques externes, e-mails et messages X après avoir retrouvé une ancienne phrase seed.",
+      "body": "Un investisseur en cryptomonnaies a récupéré 5 Bitcoin après avoir retrouvé une ancienne phrase seed et utilisé le chatbot d’IA Claude pour chercher les indices nécessaires. Il a fait parcourir à Claude deux Macs, deux disques durs externes, une exportation Apple Notes, iCloud Mail, une boîte de réception Gmail et des messages X dans le cadre du processus de récupération. Ce cas montre que la recherche assistée par IA peut servir lorsque des informations d’accès à des cryptoactifs sont dispersées entre appareils et comptes. Les faits rapportés se limitent à l’utilisation de Claude pour rechercher ces éléments et aider à récupérer les Bitcoin. Source: cointelegraph.com."
+    },
+    "ar": {
+      "title": "كلود يساعد في استرداد 5 بيتكوين بعد العثور على عبارة بذور قديمة",
+      "excerpt": "استخدم مستثمر عملات مشفرة روبوت الذكاء الاصطناعي كلود للبحث في أجهزة ماك وأقراص خارجية وبريد ورسائل X بعد العثور على عبارة بذور قديمة.",
+      "body": "تمكن مستثمر في العملات المشفرة من استرداد 5 بيتكوين بعد العثور على عبارة بذور قديمة والاستعانة بروبوت الذكاء الاصطناعي كلود للبحث عن الأدلة اللازمة. وطلب المستثمر من كلود فحص جهازي ماك، وقرصي تخزين خارجيين، وملف تصدير من Apple Notes، وبريد iCloud، وصندوق وارد Gmail، ورسائل X ضمن عملية الاسترداد. وتوضح هذه الحالة أن البحث بمساعدة الذكاء الاصطناعي يمكن استخدامه عندما تكون معلومات الوصول إلى الأصول المشفرة موزعة بين أجهزة وحسابات متعددة. وتقتصر الوقائع المنشورة على استخدام كلود للبحث في هذه المواد والمساعدة في استرداد البيتكوين. المصدر: cointelegraph.com."
+    },
+    "hi": {
+      "title": "Claude ने पुराने seed phrase से 5 Bitcoin रिकवर करने में मदद की",
+      "excerpt": "एक क्रिप्टो निवेशक ने पुराना seed phrase मिलने के बाद Claude से दो Mac, बाहरी हार्ड ड्राइव, ईमेल और X संदेश खोजवाए, जिससे 5 Bitcoin रिकवर हुए।",
+      "body": "एक क्रिप्टो निवेशक ने पुराना seed phrase मिलने के बाद AI चैटबॉट Claude की मदद से 5 Bitcoin वापस पाने में सफलता पाई। निवेशक ने रिकवरी से जुड़े संकेत खोजने के लिए Claude से दो Mac, दो बाहरी हार्ड ड्राइव, Apple Notes export, iCloud Mail, Gmail inbox और X messages की जांच कराई। यह मामला दिखाता है कि जब क्रिप्टो एक्सेस जानकारी कई डिवाइस और खातों में बिखरी हो, तब AI-assisted search रिकवरी प्रक्रिया में उपयोगी हो सकती है। रिपोर्ट की गई जानकारी केवल इस तथ्य तक सीमित है कि Claude ने इन सामग्रियों को खोजने और Bitcoin वापस पाने में मदद की। स्रोत: cointelegraph.com."
+    },
+    "id": {
+      "title": "Claude bantu pulihkan 5 Bitcoin dari petunjuk seed phrase lama",
+      "excerpt": "Seorang investor kripto memakai chatbot Claude untuk menelusuri Mac, hard drive eksternal, email, dan pesan X setelah menemukan seed phrase lama demi memulihkan 5 Bitcoin.",
+      "body": "Seorang investor kripto berhasil memulihkan 5 Bitcoin setelah menemukan seed phrase lama dan menggunakan chatbot AI Claude untuk mencari petunjuk yang diperlukan. Investor itu meminta Claude menelusuri dua Mac, dua hard drive eksternal, ekspor Apple Notes, iCloud Mail, kotak masuk Gmail, dan pesan X sebagai bagian dari proses pemulihan. Kasus ini menunjukkan bahwa pencarian berbantuan AI dapat digunakan ketika informasi akses aset kripto tersebar di berbagai perangkat dan akun. Fakta yang dilaporkan terbatas pada penggunaan Claude untuk mencari materi tersebut dan membantu mengambil kembali Bitcoin. Sumber: cointelegraph.com."
+    }
+  }
+}
