@@ -1,5 +1,230 @@
 [
   {
+    "id": "99704525f35f",
+    "slug": "bitcoin-etfs-bleed-635m-as-btc-slips-under-80k-138678",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T18:53:11.774Z",
+    "updatedAt": "2026-05-14T18:53:11.774Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/bitcoin-funds-635-million-outflows-btc-dips-back-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/bitcoin-funds-635-million-outflows-btc-dips-back-under-80k",
+    "titleFingerprint": "a6cd761b9b85d4266337fd5b34154c76cd0c1670",
+    "dedupKeys": [
+      "99704525f35fb96054f7a0bb03fcd3ed941b7227",
+      "a6cd761b9b85d4266337fd5b34154c76cd0c1670",
+      "08bbf28d874316240f57afc6f33183fae534c150"
+    ],
+    "imageUrl": "/images/articles/99704525f35f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 ETF 6억3500만달러 유출, BTC 8만달러 하회에 환매 확대",
+        "excerpt": "수요일 비트코인 현물 ETF에서 6억3500만달러가 빠져나가며 1월 말 이후 최대 유출을 기록했고, BTC가 8만달러 부근에서 흔들리자 차익 실현이 확대됐다.",
+        "body": "수요일 비트코인 현물 ETF에서 총 6억3500만달러가 순유출됐다. BTC 가격이 8만달러 아래로 밀리고 8만달러 부근에서 변동성을 보인 가운데 투자자들의 차익 실현과 환매가 이어진 결과다. 이번 유출 규모는 1월 말 이후 가장 큰 수준으로 전해졌다. 상품별로는 블랙록의 IBIT가 환매를 주도하며 전체 자금 이탈을 끌어올렸다. 비트코인 ETF는 최근 BTC 가격 흐름과 기관 투자 수요를 가늠하는 지표로 주목받아 왔다. 대규모 유출은 단기적으로 시장 심리와 ETF 자금 흐름에 부담을 줄 수 있지만, 원문은 추가 가격 전망이나 장기 추세 변화는 제시하지 않았다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Bitcoin ETF Outflows Hit $635M as BTC Drops Below $80K",
+        "excerpt": "Bitcoin spot ETFs saw $635 million in outflows on Wednesday, the biggest since late January, as BTC swung near $80,000 and investors took profits.",
+        "body": "Bitcoin spot ETFs recorded total net outflows of $635 million on Wednesday. The redemptions came as BTC slipped below $80,000 and continued to swing around that level, prompting profit-taking by investors. The outflow was reported as the largest since late January. By product, BlackRock’s IBIT led redemptions and lifted the overall pace of withdrawals. Bitcoin ETFs have been watched as a gauge of BTC price momentum and institutional demand. The large outflow may weigh on short-term market sentiment and ETF fund flows, but the source did not provide an additional price forecast or a long-term trend call. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "ビットコインETFから6.35億ドル流出、BTC8万ドル割れで償還拡大",
+        "excerpt": "水曜日、ビットコイン現物ETFから6億3500万ドルが流出し、1月下旬以来最大となった。BTCが8万ドル付近で揺れ、利益確定が広がった。",
+        "body": "水曜日、ビットコイン現物ETFは合計6億3500万ドルの純流出を記録した。BTC価格が8万ドルを下回り、その水準付近で変動する中、投資家による利益確定と償還が続いたためだ。今回の流出額は1月下旬以来で最大と伝えられている。商品別では、ブラックロックのIBITが償還を主導し、全体の資金流出を押し上げた。ビットコインETFは、BTC価格の動きや機関投資家の需要を測る指標として注目されてきた。大規模な流出は短期的に市場心理やETF資金フローの重荷となり得るが、原文は追加の価格見通しや長期トレンドの変化を示していない。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "比特币ETF单日流出6.35亿美元，BTC跌破8万美元引发赎回",
+        "excerpt": "周三，比特币现货ETF流出6.35亿美元，创1月下旬以来最大规模；BTC在8万美元附近波动并跌破该关口，投资者获利了结增加。",
+        "body": "周三，比特币现货ETF合计出现6.35亿美元净流出。随着BTC价格跌破8万美元，并在这一水平附近波动，投资者获利了结和赎回行为增加。报道称，这是自1月下旬以来最大的一次资金流出。按产品看，贝莱德的IBIT主导赎回，推高了整体资金撤离规模。比特币ETF一直被视为观察BTC价格走势和机构投资需求的重要指标。大规模流出可能在短期内对市场情绪和ETF资金流形成压力，但原文并未给出额外价格预测或长期趋势变化判断。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "ETF de Bitcoin pierden 635 millones de dólares al caer BTC bajo 80.000",
+        "excerpt": "Los ETF spot de Bitcoin registraron el miércoles salidas por 635 millones de dólares, la mayor cifra desde finales de enero, mientras BTC oscilaba cerca de 80.000 dólares.",
+        "body": "Los ETF spot de Bitcoin registraron el miércoles salidas netas totales de 635 millones de dólares. El movimiento se produjo cuando BTC cayó por debajo de 80.000 dólares y siguió moviéndose cerca de ese nivel, lo que impulsó tomas de beneficios y reembolsos por parte de los inversores. La salida fue señalada como la mayor desde finales de enero. Por producto, el IBIT de BlackRock lideró los reembolsos y elevó la magnitud total de la retirada de fondos. Los ETF de Bitcoin se observan como indicador del precio de BTC y de la demanda institucional. Esta salida puede presionar el ánimo del mercado y los flujos de ETF a corto plazo, pero la fuente no presentó una previsión adicional de precio ni un cambio de tendencia a largo plazo. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "ETFs de Bitcoin perdem US$ 635 mi enquanto BTC cai abaixo de US$ 80 mil",
+        "excerpt": "Os ETFs spot de Bitcoin tiveram US$ 635 milhões em saídas na quarta-feira, o maior volume desde o fim de janeiro, com BTC perto de US$ 80 mil e realização de lucros.",
+        "body": "Os ETFs spot de Bitcoin registraram na quarta-feira saídas líquidas totais de US$ 635 milhões. O movimento ocorreu enquanto o BTC caiu abaixo de US$ 80 mil e continuou oscilando perto desse nível, levando investidores a realizar lucros e resgatar posições. O volume foi apontado como o maior desde o fim de janeiro. Por produto, o IBIT da BlackRock liderou os resgates e ampliou a saída total de recursos. Os ETFs de Bitcoin vêm sendo acompanhados como indicador do comportamento do preço do BTC e da demanda institucional. A saída expressiva pode pesar no sentimento de curto prazo e nos fluxos dos ETFs, mas a fonte não apresentou nova previsão de preço nem mudança de tendência de longo prazo. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Bitcoin-ETFs verlieren 635 Mio. Dollar, BTC fällt unter 80.000 Dollar",
+        "excerpt": "Bitcoin-Spot-ETFs verzeichneten am Mittwoch Abflüsse von 635 Mio. Dollar, den höchsten Wert seit Ende Januar, während BTC um 80.000 Dollar schwankte.",
+        "body": "Bitcoin-Spot-ETFs verzeichneten am Mittwoch Nettoabflüsse von insgesamt 635 Millionen Dollar. Die Rückgaben erfolgten, als BTC unter 80.000 Dollar fiel und weiter um diese Marke schwankte, wodurch Gewinnmitnahmen der Anleger zunahmen. Der Abfluss wurde als größter seit Ende Januar gemeldet. Nach Produkten führte BlackRocks IBIT die Rücknahmen an und verstärkte damit den gesamten Mittelabzug. Bitcoin-ETFs gelten als beobachteter Indikator für die Kursentwicklung von BTC und die institutionelle Nachfrage. Der starke Abfluss kann kurzfristig auf Marktstimmung und ETF-Mittelflüsse lasten, doch die Quelle nannte keine zusätzliche Preisprognose und keine Änderung eines langfristigen Trends. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Les ETF Bitcoin perdent 635 M$ alors que le BTC passe sous 80.000 $",
+        "excerpt": "Les ETF spot Bitcoin ont subi mercredi 635 millions de dollars de sorties, un plus haut depuis fin janvier, alors que le BTC évoluait près de 80.000 dollars.",
+        "body": "Les ETF spot Bitcoin ont enregistré mercredi des sorties nettes totales de 635 millions de dollars. Ces rachats sont intervenus alors que le BTC est passé sous 80.000 dollars et continuait de fluctuer autour de ce niveau, favorisant des prises de bénéfices chez les investisseurs. Ce montant a été présenté comme le plus élevé depuis fin janvier. Par produit, l’IBIT de BlackRock a mené les rachats et accru la sortie globale de capitaux. Les ETF Bitcoin sont suivis comme un indicateur de la dynamique du prix du BTC et de la demande institutionnelle. Cette sortie importante peut peser à court terme sur le sentiment de marché et les flux des ETF, mais la source ne donne pas de nouvelle prévision de prix ni de changement de tendance à long terme. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "صناديق بيتكوين المتداولة تخسر 635 مليون دولار مع هبوط BTC دون 80 ألفا",
+        "excerpt": "سجلت صناديق بيتكوين الفورية المتداولة يوم الأربعاء تدفقات خارجة بقيمة 635 مليون دولار، وهي الأكبر منذ أواخر يناير، مع تذبذب BTC قرب 80 ألف دولار.",
+        "body": "سجلت صناديق بيتكوين الفورية المتداولة يوم الأربعاء صافي تدفقات خارجة بلغ 635 مليون دولار. جاء ذلك بعدما هبط سعر BTC دون 80 ألف دولار واستمر في التذبذب قرب هذا المستوى، ما دفع المستثمرين إلى جني الأرباح وتنفيذ عمليات استرداد. وورد أن حجم الخروج هو الأكبر منذ أواخر يناير. وعلى مستوى المنتجات، قاد صندوق IBIT التابع لبلاك روك عمليات الاسترداد ورفع إجمالي خروج الأموال. وتُتابع صناديق بيتكوين المتداولة كمؤشر على حركة سعر BTC والطلب المؤسسي. وقد يضغط هذا الخروج الكبير على معنويات السوق وتدفقات الصناديق في الأجل القصير، لكن المصدر لم يقدم توقعا إضافيا للسعر أو تغييرا في الاتجاه طويل الأجل. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Bitcoin ETF से 635 मिलियन डॉलर निकले, BTC 80 हजार डॉलर से नीचे फिसला",
+        "excerpt": "बुधवार को Bitcoin स्पॉट ETF से 635 मिलियन डॉलर की निकासी हुई, जो जनवरी के अंत के बाद सबसे बड़ी है; BTC के 80,000 डॉलर के पास झूलने से मुनाफावसूली बढ़ी।",
+        "body": "बुधवार को Bitcoin स्पॉट ETF से कुल 635 मिलियन डॉलर की शुद्ध निकासी दर्ज हुई। यह तब हुआ जब BTC 80,000 डॉलर से नीचे फिसला और उसी स्तर के आसपास उतार-चढ़ाव दिखाता रहा, जिससे निवेशकों में मुनाफावसूली और रिडेम्पशन बढ़े। रिपोर्ट के अनुसार यह जनवरी के अंत के बाद सबसे बड़ी निकासी थी। उत्पादों में BlackRock के IBIT ने रिडेम्पशन का नेतृत्व किया और कुल फंड आउटफ्लो को बढ़ाया। Bitcoin ETF को BTC कीमत की दिशा और संस्थागत मांग के संकेतक के रूप में देखा जाता है। यह बड़ी निकासी अल्पावधि में बाजार धारणा और ETF फंड फ्लो पर दबाव डाल सकती है, लेकिन स्रोत ने अतिरिक्त मूल्य पूर्वानुमान या दीर्घकालिक रुझान में बदलाव नहीं बताया। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "ETF Bitcoin Keluar Dana US$635 Juta saat BTC Turun di Bawah US$80 Ribu",
+        "excerpt": "ETF spot Bitcoin mencatat arus keluar US$635 juta pada Rabu, terbesar sejak akhir Januari, saat BTC berayun dekat US$80.000 dan investor mengambil untung.",
+        "body": "ETF spot Bitcoin mencatat total arus keluar bersih US$635 juta pada Rabu. Pergerakan itu terjadi saat BTC turun di bawah US$80.000 dan terus berfluktuasi di sekitar level tersebut, sehingga investor melakukan aksi ambil untung dan penebusan. Jumlah arus keluar ini dilaporkan sebagai yang terbesar sejak akhir Januari. Berdasarkan produk, IBIT milik BlackRock memimpin penebusan dan mendorong total dana keluar. ETF Bitcoin selama ini dipantau sebagai indikator arah harga BTC dan permintaan institusional. Arus keluar besar dapat menekan sentimen pasar dan aliran dana ETF dalam jangka pendek, tetapi sumber tidak memberikan perkiraan harga tambahan atau perubahan tren jangka panjang. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "f6d5ba0607ae",
+    "slug": "wall-streets-tokenization-boom-has-a-liquidity-problem-axis--997499",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T18:52:10.468Z",
+    "updatedAt": "2026-05-14T18:52:10.468Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/features/wall-street-tokenization-boom-liquidity-problem-axis-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/features/wall-street-tokenization-boom-liquidity-problem-axis-ceo",
+    "titleFingerprint": "2551db76e36d9ca4d407f50503c9b3363a9ec28b",
+    "dedupKeys": [
+      "f6d5ba0607ae465f8483c4ff9d82d409ea8917d1",
+      "2551db76e36d9ca4d407f50503c9b3363a9ec28b",
+      "9e9e63c1d09b51d21afb734b964449add4f40eee"
+    ],
+    "imageUrl": "/images/articles/f6d5ba0607ae.jpg",
+    "i18n": {
+      "ko": {
+        "title": "RWA 토큰화 320억달러 돌파, 월가 확산 속 Axis CEO가 지적한 유동성 공백",
+        "excerpt": "2026년 5월 14일 Cointelegraph에 따르면 RWA 토큰화 시장이 320억달러를 넘고 JPMorgan이 새 토큰화 펀드를 신청한 가운데, Axis CEO 크리스 김은 업계의 초점이 유동성이 아닌 발행에 쏠렸다고 지적했다.",
+        "body": "2026년 5월 14일 Cointelegraph에 따르면 실물자산(RWA) 토큰화 시장이 320억달러를 넘어섰고 JPMorgan은 새로운 토큰화 펀드를 신청했다. 그러나 유동성 제공업체 Axis의 창업자 겸 CEO 크리스 김은 월가의 토큰화 확산이 잘못된 이정표를 축하하고 있다고 평가했다. 그는 전통 금융권과 크립토 프로젝트 상당수가 토큰 발행 단계에 집중하지만, 실제 거래와 유동성 문제는 충분히 해결되지 않았다고 봤다. RWA 성장세가 이어져도 2차 시장과 매매 가능성이 뒷받침되지 않으면 토큰화의 실질적 효용은 제한될 수 있다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "RWA tokenization tops $32B as Axis CEO flags Wall Street’s liquidity gap",
+        "excerpt": "According to Cointelegraph on May 14, 2026, RWA tokenization passed $32 billion and JPMorgan filed for a new tokenized fund, while Axis CEO Chris Kim warned that the market is focused on issuance, not liquidity.",
+        "body": "According to Cointelegraph on May 14, 2026, the tokenized real-world asset market has crossed $32 billion, and JPMorgan has filed for a new tokenized fund. But Chris Kim, founder and CEO of liquidity provider Axis, said Wall Street’s tokenization boom is celebrating the wrong milestone. He argued that many traditional finance players and crypto projects are concentrating on the issuance layer, while actual trading and liquidity remain insufficiently solved. Even if RWA growth continues, tokenization’s practical value may stay limited without secondary markets and real tradability. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "RWAトークン化320億ドル突破、Axis CEOが指摘する流動性の空白",
+        "excerpt": "Cointelegraphが2026年5月14日に報じたところによると、RWAトークン化市場は320億ドルを超え、JPMorganは新たなトークン化ファンドを申請した。一方でAxis CEOのクリス・キム氏は、業界の焦点が流動性ではなく発行に偏っていると指摘した。",
+        "body": "Cointelegraphが2026年5月14日に報じたところによると、現実資産（RWA）のトークン化市場は320億ドルを突破し、JPMorganは新たなトークン化ファンドを申請した。しかし、流動性プロバイダーAxisの創業者兼CEOであるクリス・キム氏は、ウォール街のトークン化拡大は誤った節目を祝っていると述べた。同氏は、伝統金融機関や多くの暗号資産プロジェクトが発行レイヤーに集中する一方、実際の取引と流動性の問題は十分に解決されていないと見ている。RWAの成長が続いても、二次市場と売買可能性が伴わなければ、トークン化の実用価値は限定される可能性がある。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "RWA代币化突破320亿美元，Axis CEO警示华尔街流动性缺口",
+        "excerpt": "据Cointelegraph 2026年5月14日报道，RWA代币化市场已超过320亿美元，JPMorgan申请新的代币化基金；Axis CEO Chris Kim指出，行业关注点偏向发行，而非流动性。",
+        "body": "据Cointelegraph 2026年5月14日报道，现实世界资产（RWA）代币化市场规模已超过320亿美元，JPMorgan也提交了新的代币化基金申请。但流动性提供商Axis创始人兼CEO Chris Kim认为，华尔街的代币化热潮正在庆祝错误的里程碑。他指出，许多传统金融机构和加密项目把重点放在发行层面，而实际交易和流动性问题并未得到充分解决。即使RWA继续增长，如果缺乏二级市场和真实可交易性，代币化的实际价值仍可能受到限制。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Tokenización RWA supera $32.000M y Axis CEO advierte falta de liquidez",
+        "excerpt": "Según Cointelegraph el 14 de mayo de 2026, la tokenización de RWA superó los 32.000 millones de dólares y JPMorgan solicitó un nuevo fondo tokenizado, mientras el CEO de Axis, Chris Kim, advirtió que el mercado mira la emisión más que la liquidez.",
+        "body": "Según Cointelegraph el 14 de mayo de 2026, el mercado de activos del mundo real tokenizados (RWA) superó los 32.000 millones de dólares y JPMorgan solicitó un nuevo fondo tokenizado. Sin embargo, Chris Kim, fundador y CEO del proveedor de liquidez Axis, afirmó que el auge de la tokenización en Wall Street celebra el hito equivocado. Según Kim, muchas firmas financieras tradicionales y proyectos cripto se concentran en la capa de emisión, mientras que el comercio real y la liquidez siguen sin resolverse por completo. Aunque los RWA sigan creciendo, el valor práctico de la tokenización puede quedar limitado sin mercados secundarios y verdadera negociabilidad. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Tokenização RWA passa de US$ 32 bi e CEO da Axis vê lacuna de liquidez",
+        "excerpt": "Segundo a Cointelegraph em 14 de maio de 2026, a tokenização de RWA superou US$ 32 bilhões e o JPMorgan pediu um novo fundo tokenizado, enquanto Chris Kim, CEO da Axis, alertou que o setor prioriza emissão, não liquidez.",
+        "body": "Segundo a Cointelegraph em 14 de maio de 2026, o mercado de ativos do mundo real tokenizados (RWA) ultrapassou US$ 32 bilhões, e o JPMorgan protocolou um novo fundo tokenizado. Mas Chris Kim, fundador e CEO da provedora de liquidez Axis, disse que o avanço da tokenização em Wall Street celebra o marco errado. Para ele, muitas instituições financeiras tradicionais e projetos cripto estão focados na camada de emissão, enquanto a negociação efetiva e a liquidez ainda não foram suficientemente resolvidas. Mesmo com o crescimento dos RWA, o valor prático da tokenização pode ficar limitado sem mercados secundários e real capacidade de compra e venda. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "RWA-Tokenisierung über 32 Mrd. Dollar: Axis-CEO warnt vor Liquiditätslücke",
+        "excerpt": "Laut Cointelegraph vom 14. Mai 2026 hat die RWA-Tokenisierung 32 Milliarden Dollar überschritten und JPMorgan einen neuen tokenisierten Fonds beantragt; Axis-CEO Chris Kim warnt jedoch, dass der Markt Emission statt Liquidität feiert.",
+        "body": "Laut Cointelegraph vom 14. Mai 2026 hat der Markt für tokenisierte Real-World Assets (RWA) die Marke von 32 Milliarden Dollar überschritten, während JPMorgan einen neuen tokenisierten Fonds beantragt hat. Chris Kim, Gründer und CEO des Liquiditätsanbieters Axis, sagte jedoch, der Tokenisierungsboom an der Wall Street feiere den falschen Meilenstein. Viele traditionelle Finanzakteure und Kryptoprojekte konzentrierten sich auf die Emissionsschicht, während tatsächlicher Handel und Liquidität nicht ausreichend gelöst seien. Selbst bei weiterem RWA-Wachstum könnte der praktische Nutzen der Tokenisierung ohne Sekundärmärkte und echte Handelbarkeit begrenzt bleiben. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Tokenisation RWA au-delà de 32 Md$: le CEO d’Axis pointe la liquidité",
+        "excerpt": "Selon Cointelegraph le 14 mai 2026, la tokenisation des RWA a dépassé 32 milliards de dollars et JPMorgan a déposé un nouveau fonds tokenisé, tandis que Chris Kim, CEO d’Axis, estime que le secteur privilégie l’émission à la liquidité.",
+        "body": "Selon Cointelegraph le 14 mai 2026, le marché des actifs du monde réel tokenisés (RWA) a dépassé 32 milliards de dollars, et JPMorgan a déposé une demande pour un nouveau fonds tokenisé. Mais Chris Kim, fondateur et CEO du fournisseur de liquidité Axis, estime que l’essor de la tokenisation à Wall Street célèbre le mauvais jalon. Il affirme que de nombreux acteurs de la finance traditionnelle et projets crypto se concentrent sur la couche d’émission, tandis que le trading réel et la liquidité ne sont pas suffisamment résolus. Même si les RWA continuent de croître, la valeur pratique de la tokenisation pourrait rester limitée sans marchés secondaires et véritable négociabilité. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "ترميز الأصول الواقعية يتجاوز 32 مليار دولار ورئيس Axis يحذر من فجوة السيولة",
+        "excerpt": "بحسب Cointelegraph في 14 مايو 2026، تجاوز سوق ترميز الأصول الواقعية 32 مليار دولار وقدمت JPMorgan طلبا لصندوق مرمز جديد، بينما حذر كريس كيم، الرئيس التنفيذي لـAxis، من أن القطاع يركز على الإصدار لا السيولة.",
+        "body": "بحسب Cointelegraph في 14 مايو 2026، تجاوز سوق الأصول الواقعية المرمزة (RWA) مستوى 32 مليار دولار، وقدمت JPMorgan طلبا لإنشاء صندوق مرمز جديد. لكن كريس كيم، مؤسس ورئيس مزود السيولة Axis، قال إن طفرة الترميز في وول ستريت تحتفي بالمؤشر الخطأ. ويرى أن كثيرا من مؤسسات التمويل التقليدي ومشاريع الكريبتو تركز على طبقة الإصدار، بينما لم تتم معالجة التداول الفعلي ومشكلة السيولة بما يكفي. وحتى إذا استمر نمو RWA، فقد تبقى الفائدة العملية للترميز محدودة من دون أسواق ثانوية وقابلية حقيقية للتداول. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "RWA टोकनाइजेशन $32 अरब पार, Axis CEO ने बताई वॉल स्ट्रीट की लिक्विडिटी कमी",
+        "excerpt": "Cointelegraph के अनुसार 14 मई 2026 को RWA टोकनाइजेशन बाजार $32 अरब से ऊपर गया और JPMorgan ने नया टोकनाइज्ड फंड दाखिल किया, जबकि Axis CEO Chris Kim ने कहा कि उद्योग लिक्विडिटी नहीं, जारी करने पर केंद्रित है।",
+        "body": "Cointelegraph के अनुसार 14 मई 2026 को टोकनाइज्ड रियल-वर्ल्ड एसेट्स (RWA) बाजार $32 अरब से ऊपर पहुंच गया और JPMorgan ने नए टोकनाइज्ड फंड के लिए आवेदन किया। लेकिन लिक्विडिटी प्रदाता Axis के संस्थापक और CEO Chris Kim ने कहा कि वॉल स्ट्रीट का टोकनाइजेशन उछाल गलत उपलब्धि का जश्न मना रहा है। उनके अनुसार कई पारंपरिक वित्तीय संस्थान और क्रिप्टो प्रोजेक्ट जारी करने की परत पर ध्यान दे रहे हैं, जबकि वास्तविक ट्रेडिंग और लिक्विडिटी की समस्या पर्याप्त रूप से हल नहीं हुई है। RWA की वृद्धि जारी रहने पर भी सेकेंडरी मार्केट और वास्तविक ट्रेडेबिलिटी के बिना टोकनाइजेशन का व्यावहारिक मूल्य सीमित रह सकता है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Tokenisasi RWA tembus $32 miliar, CEO Axis soroti celah likuiditas Wall Street",
+        "excerpt": "Menurut Cointelegraph pada 14 Mei 2026, tokenisasi RWA melampaui $32 miliar dan JPMorgan mengajukan dana tokenisasi baru, sementara CEO Axis Chris Kim memperingatkan bahwa industri lebih fokus pada penerbitan daripada likuiditas.",
+        "body": "Menurut Cointelegraph pada 14 Mei 2026, pasar aset dunia nyata yang ditokenisasi (RWA) telah melewati $32 miliar, dan JPMorgan mengajukan dana tokenisasi baru. Namun Chris Kim, pendiri sekaligus CEO penyedia likuiditas Axis, menilai ledakan tokenisasi Wall Street merayakan tonggak yang keliru. Ia mengatakan banyak pelaku keuangan tradisional dan proyek kripto berfokus pada lapisan penerbitan, sementara perdagangan nyata dan masalah likuiditas belum cukup terselesaikan. Meski RWA terus tumbuh, nilai praktis tokenisasi dapat tetap terbatas tanpa pasar sekunder dan kemampuan jual beli yang nyata. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "337e495c3996",
+    "slug": "whats-preventing-bitcoin-price-from-breaking-above-80k-839598",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T18:50:56.654Z",
+    "updatedAt": "2026-05-14T18:50:56.655Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/whats-preventing-bitcoin-price-from-breaking-above-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/whats-preventing-bitcoin-price-from-breaking-above-80k",
+    "titleFingerprint": "6e2205aeddcde178906452e53d678c2d6b663de3",
+    "dedupKeys": [
+      "337e495c3996a0db6af4e1d25c783f9a389fa955",
+      "6e2205aeddcde178906452e53d678c2d6b663de3",
+      "95b85ab88a23f432c937f46930ee2369f699bf1f"
+    ],
+    "imageUrl": "/images/articles/337e495c3996.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 8만달러 돌파 지연, 매수 주저와 상단 저항이 만든 가격 압박",
+        "excerpt": "2026년 5월 14일 비트코인은 8만달러 위 안착에 어려움을 겪고 있다. 신규 자금 유입이 약하고 선물 매수세가 식은 가운데, 8만6900달러 부근 보유자 매도 가능성이 저항을 키운다.",
+        "body": "2026년 5월 14일 비트코인은 8만달러 선을 되찾았지만 그 위에서 확실히 안착하지 못하고 있다. 일부 매수자가 관망하는 가운데 상단 저항이 두꺼워진 점이 돌파를 가로막는 요인으로 제시됐다. Glassnode에 따르면 30일 실현 시가총액 순포지션 변화는 월 28억달러로 올라 4월 6만5000달러 부근 저점 이후 회복을 지지했다. 그러나 2023~2025년 강한 돌파 국면보다 자금 유입 속도는 느리다. 또 8만6900달러 부근에는 지난해 11월부터 2월 사이 매수한 보유자들이 손익분기점에 가까워지며 매도 물량을 낼 가능성이 있다. 단기 매수자는 7만6900달러 부근에서 지지하지만, 선물 시장 매수 압력은 최근 약 35% 줄었고 펀딩비는 3월 이후 음수에 머물렀다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Bitcoin $80K Breakout Stalls as Hesitant Buyers Face Heavy Resistance",
+        "excerpt": "On May 14, 2026, Bitcoin struggled to hold above $80,000 as muted capital inflows, weaker futures buying and possible selling near $86,900 kept resistance overhead.",
+        "body": "On May 14, 2026, Bitcoin reclaimed the $80,000 area but failed to settle firmly above it. The main obstacle is a mix of hesitant buyers and heavy overhead resistance. According to Glassnode, Bitcoin’s 30-day realized cap net position change rose to $2.8 billion per month, supporting the rebound from April lows near $65,000. Still, capital inflows remain slower than during the stronger breakout phases of the 2023-2025 rally. Another pressure point sits near $86,900, where holders who bought between November and February are approaching breakeven and could sell near their entry price. Short-term buyers continue to support BTC around $76,900, but futures buying pressure has fallen about 35%, while funding rates have stayed negative since March. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "ビットコイン8万ドル突破が停滞、買い控えと上値抵抗が重荷に",
+        "excerpt": "2026年5月14日、ビットコインは8万ドル超での定着に苦戦。資金流入の弱さ、先物買い圧力の低下、8万6900ドル付近の売り圧力が上値を抑えている。",
+        "body": "2026年5月14日、ビットコインは8万ドル台を回復したものの、その上で明確に定着できていない。一部の買い手が様子見を続け、上値の厚い抵抗が突破を妨げている。Glassnodeによると、30日間の実現時価総額ネットポジション変化は月28億ドルに上昇し、4月の6万5000ドル付近の安値からの回復を支えた。ただし、2023〜2025年の強いブレイクアウト局面に比べると資金流入のペースは遅い。さらに8万6900ドル付近では、昨年11月から2月に購入した保有者が損益分岐点に近づき、売りを出す可能性がある。短期買い手は7万6900ドル付近を支えているが、先物の買い圧力は約35%低下し、資金調達率は3月以降マイナスにとどまっている。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "比特币8万美元突破受阻，买盘犹豫与上方阻力压制价格",
+        "excerpt": "2026年5月14日，比特币难以站稳8万美元上方。资金流入偏弱、期货买盘降温，以及8.69万美元附近潜在卖压，继续形成上方阻力。",
+        "body": "2026年5月14日，比特币重新回到8万美元区域，但仍未能在其上方稳固站稳。部分买家保持观望，加上上方阻力加厚，被认为是价格难以突破的主要原因。Glassnode数据显示，比特币30日已实现市值净头寸变化升至每月28亿美元，支撑了其自4月约6.5万美元低点以来的反弹。不过，与2023至2025年强劲突破阶段相比，今年资金流入速度较慢。另一个压力位在8.69万美元附近，去年11月至今年2月买入的持有者正接近盈亏平衡，可能在接近成本价时卖出。短线买家仍在7.69万美元附近提供支撑，但期货市场买盘压力近期下降约35%，资金费率自3月以来一直为负。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Bitcoin frena su ruptura de 80.000 dólares por cautela compradora y resistencia",
+        "excerpt": "El 14 de mayo de 2026, Bitcoin tuvo dificultades para sostenerse sobre 80.000 dólares por entradas de capital débiles, menor compra en futuros y posible venta cerca de 86.900 dólares.",
+        "body": "El 14 de mayo de 2026, Bitcoin recuperó la zona de 80.000 dólares, pero no logró consolidarse con claridad por encima de ese nivel. La cautela de algunos compradores y una fuerte resistencia superior aparecen como los principales obstáculos. Según Glassnode, el cambio neto de posición de la capitalización realizada a 30 días subió a 2.800 millones de dólares mensuales, apoyando la recuperación desde los mínimos de abril cerca de 65.000 dólares. Aun así, el ritmo de entrada de capital es más lento que en las fases de ruptura de 2023-2025. Cerca de 86.900 dólares, los compradores de noviembre a febrero se acercan al punto de equilibrio y podrían vender. Los compradores de corto plazo sostienen el área de 76.900 dólares, pero la presión compradora en futuros cayó cerca de 35% y las tasas de financiación siguen negativas desde marzo. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Bitcoin trava acima de US$ 80 mil com compradores cautelosos e forte resistência",
+        "excerpt": "Em 14 de maio de 2026, o Bitcoin teve dificuldade para se firmar acima de US$ 80 mil, com entradas de capital fracas, menor compra em futuros e possível venda perto de US$ 86.900.",
+        "body": "Em 14 de maio de 2026, o Bitcoin voltou à região de US$ 80 mil, mas não conseguiu se firmar claramente acima desse nível. A hesitação de parte dos compradores e uma resistência pesada no topo são apontadas como os principais entraves. Segundo a Glassnode, a mudança líquida da capitalização realizada em 30 dias subiu para US$ 2,8 bilhões por mês, ajudando a recuperação desde as mínimas de abril perto de US$ 65 mil. Ainda assim, o ritmo de entrada de capital é menor que nas fases fortes de rompimento entre 2023 e 2025. Perto de US$ 86.900, investidores que compraram entre novembro e fevereiro se aproximam do ponto de equilíbrio e podem vender. Compradores de curto prazo sustentam a área de US$ 76.900, mas a pressão compradora em futuros caiu cerca de 35% e o funding segue negativo desde março. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Bitcoin scheitert an 80.000 Dollar: Zögernde Käufer und Widerstand bremsen",
+        "excerpt": "Am 14. Mai 2026 kämpfte Bitcoin darum, sich über 80.000 Dollar zu halten. Schwache Kapitalzuflüsse, geringerer Futures-Kaufdruck und mögliche Verkäufe nahe 86.900 Dollar belasten.",
+        "body": "Am 14. Mai 2026 kehrte Bitcoin in den Bereich von 80.000 Dollar zurück, konnte sich darüber aber nicht klar festsetzen. Als Hauptgründe gelten zögernde Käufer und starker Widerstand oberhalb des aktuellen Preises. Laut Glassnode stieg die 30-Tage-Veränderung der realisierten Marktkapitalisierung netto auf 2,8 Milliarden Dollar pro Monat und stützte die Erholung von den April-Tiefs nahe 65.000 Dollar. Im Vergleich zu den Ausbruchsphasen der Rally von 2023 bis 2025 fließt Kapital jedoch langsamer zu. Zudem liegt bei rund 86.900 Dollar ein Bereich, in dem Käufer aus November bis Februar nahe ihrem Einstand sind und verkaufen könnten. Kurzfristige Käufer stützen Bitcoin um 76.900 Dollar, doch der Kaufdruck am Futures-Markt sank um etwa 35%, während die Funding-Raten seit März negativ bleiben. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Bitcoin bloque sous 80.000 dollars, freiné par l’attente des acheteurs et la résistance",
+        "excerpt": "Le 14 mai 2026, Bitcoin peinait à tenir au-dessus de 80.000 dollars, sous l’effet d’entrées de capitaux modestes, d’un recul des achats sur futures et d’une pression vendeuse vers 86.900 dollars.",
+        "body": "Le 14 mai 2026, Bitcoin a retrouvé la zone des 80.000 dollars, mais n’a pas réussi à s’y installer nettement. La prudence de certains acheteurs et une résistance importante au-dessus du prix actuel sont citées comme les principaux freins. Selon Glassnode, la variation nette sur 30 jours de la capitalisation réalisée a atteint 2,8 milliards de dollars par mois, soutenant le rebond depuis les creux d’avril proches de 65.000 dollars. Toutefois, les entrées de capitaux restent plus lentes que lors des fortes phases de rupture entre 2023 et 2025. Près de 86.900 dollars, des détenteurs ayant acheté entre novembre et février approchent de leur seuil de rentabilité et pourraient vendre. Les acheteurs de court terme soutiennent encore la zone de 76.900 dollars, mais la pression acheteuse sur les futures a reculé d’environ 35% et les taux de financement restent négatifs depuis mars. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "تعثر اختراق بيتكوين لمستوى 80 ألف دولار مع تردد المشترين وقوة المقاومة",
+        "excerpt": "في 14 مايو 2026، واجهت بيتكوين صعوبة في الثبات فوق 80 ألف دولار مع ضعف تدفقات رأس المال، وتراجع الشراء في العقود الآجلة، واحتمال بيع قرب 86,900 دولار.",
+        "body": "في 14 مايو 2026، عادت بيتكوين إلى منطقة 80 ألف دولار، لكنها لم تتمكن من الثبات بوضوح فوقها. ويعود ذلك إلى تردد بعض المشترين وتراكم مقاومة قوية فوق السعر الحالي. ووفق Glassnode، ارتفع صافي تغير القيمة المحققة خلال 30 يوما إلى 2.8 مليار دولار شهريا، ما دعم التعافي من قيعان أبريل قرب 65 ألف دولار. لكن وتيرة دخول رأس المال ما زالت أبطأ من مراحل الاختراق القوية بين 2023 و2025. كما توجد منطقة ضغط قرب 86,900 دولار، حيث يقترب حائزون اشتروا بين نوفمبر وفبراير من نقطة التعادل وقد يبيعون قرب سعر دخولهم. ويدعم المشترون قصيرو الأجل السوق قرب 76,900 دولار، لكن ضغط الشراء في العقود الآجلة انخفض بنحو 35%، وبقيت معدلات التمويل سلبية منذ مارس. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "बिटकॉइन 80,000 डॉलर पार करने में अटका, कमजोर खरीदारी और ऊपरी प्रतिरोध हावी",
+        "excerpt": "14 मई 2026 को बिटकॉइन 80,000 डॉलर के ऊपर टिकने में संघर्ष करता दिखा। कमजोर पूंजी प्रवाह, फ्यूचर्स में घटी खरीदारी और 86,900 डॉलर के पास संभावित बिक्री दबाव बने हुए हैं।",
+        "body": "14 मई 2026 को बिटकॉइन 80,000 डॉलर के दायरे में लौटा, लेकिन इसके ऊपर मजबूती से टिक नहीं पाया। कुछ खरीदारों की सतर्कता और ऊपरी स्तरों पर भारी प्रतिरोध को मुख्य बाधा बताया गया। Glassnode के अनुसार, 30 दिन का realized cap net position change बढ़कर 2.8 अरब डॉलर प्रति माह हो गया, जिससे अप्रैल में लगभग 65,000 डॉलर के निचले स्तर से रिकवरी को सहारा मिला। फिर भी 2023-2025 की मजबूत breakout अवधि की तुलना में पूंजी आने की गति धीमी है। करीब 86,900 डॉलर पर वे धारक मौजूद हैं जिन्होंने नवंबर से फरवरी के बीच खरीदारी की थी और अब breakeven के पास हैं, इसलिए वे बेच सकते हैं। अल्पकालिक खरीदार 76,900 डॉलर के पास समर्थन दे रहे हैं, लेकिन फ्यूचर्स बाजार में खरीद दबाव लगभग 35% घटा है और funding rates मार्च से नकारात्मक हैं। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Bitcoin Tertahan di US$80.000, Pembeli Ragu dan Resistensi Atas Menguat",
+        "excerpt": "Pada 14 Mei 2026, Bitcoin sulit bertahan di atas US$80.000 karena arus modal masih lemah, tekanan beli futures menurun, dan potensi jual muncul dekat US$86.900.",
+        "body": "Pada 14 Mei 2026, Bitcoin kembali ke area US$80.000, tetapi belum mampu bertahan jelas di atas level tersebut. Keraguan sebagian pembeli dan resistensi tebal di atas harga menjadi faktor utama yang menghambat penembusan. Menurut Glassnode, perubahan posisi bersih realized cap 30 hari naik menjadi US$2,8 miliar per bulan, menopang pemulihan dari titik rendah April dekat US$65.000. Namun, laju masuknya modal masih lebih lambat dibanding fase breakout kuat pada reli 2023-2025. Tekanan lain berada di sekitar US$86.900, tempat pemegang yang membeli antara November dan Februari mendekati titik impas dan bisa menjual. Pembeli jangka pendek masih menopang area US$76.900, tetapi tekanan beli di pasar futures turun sekitar 35% dan funding rate tetap negatif sejak Maret. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "69ee4a307132",
     "slug": "xrp-whale-wallets-hit-all-time-highs-will-it-push-price-abov-522161",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Saham Samyang Foods Melonjak Usai Rekor Kinerja Kuartal I, Naik 13% di Awal Sesi",
         "excerpt": "Samyang Foods menguat tajam pada 14 Mei setelah merilis kinerja kuartal I tertinggi sepanjang sejarah. Pukul 09.25, sahamnya berada di 1.394.000 won, naik 7,64%.",
         "body": "Saham Samyang Foods naik tajam pada awal perdagangan 14 Mei setelah perusahaan merilis kinerja kuartal pertama tertinggi sepanjang sejarah. Pada pukul 09.25, saham Samyang Foods diperdagangkan di 1.394.000 won, naik 99.000 won atau 7,64% dibanding sesi sebelumnya. Menurut judul asli, kenaikan pada awal perdagangan sempat melebar ke kisaran 13%. Penguatan ini mencerminkan respons investor terhadap pencapaian laba kuartalan terbesar perusahaan. Setelah perbaikan kinerja kuartal pertama terkonfirmasi, perhatian pasar tertuju pada saham tersebut, dan aksi beli masuk tidak lama setelah pembukaan. Informasi dalam laporan terbatas pada pengumuman kinerja kuartal pertama dan pergerakan harga saham. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6ed43291ce59",
-    "slug": "이달-36-급등한-lg전자로봇타고-20-더-오를-것-오늘-나온-보고서-546837",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T00:17:51.386Z",
-    "updatedAt": "2026-05-14T00:17:51.386Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047163",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047163",
-    "titleFingerprint": "a1025d3ef3a8b4b6a7a4dd9eacfcec87882d8730",
-    "dedupKeys": [
-      "6ed43291ce59d049f22d9fbcdf113929d6492edc",
-      "a1025d3ef3a8b4b6a7a4dd9eacfcec87882d8730",
-      "15cb2907d006f781fa4a0f4872a3ccb5c8a82a33"
-    ],
-    "imageUrl": "/images/articles/6ed43291ce59.png",
-    "i18n": {
-      "ko": {
-        "title": "LG전자 이달 36% 급등, 로봇 신사업 기대에 20% 추가 상승 전망",
-        "excerpt": "이달 들어 36% 오른 LG전자에 대해 전사 원가 구조 개선과 마케팅 비용 효율화, 로보틱스 신사업 기대를 근거로 20% 추가 상승 가능성이 제기됐다.",
-        "body": "이달 들어 LG전자 주가가 36% 급등한 가운데, 향후 20%가량 더 오를 수 있다는 증권가 분석이 나왔다. 보고서는 LG전자가 전사적인 원가 구조 개선과 마케팅 비용 효율화를 통해 수익 체질을 개선한 점을 배경으로 제시했다. 여기에 로보틱스 신사업이 새로운 성장 기대 요인으로 언급되며 투자자 관심이 커지고 있다. 단기간 주가 상승 폭이 컸지만, 보고서는 비용 구조 변화와 신사업 모멘텀이 추가 상승 여력을 뒷받침할 수 있다고 봤다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "LG Electronics Jumps 36% This Month as Robot Business Lifts 20% Upside View",
-        "excerpt": "After LG Electronics rose 36% this month, analysts cited cost-structure improvements, more efficient marketing spending and robotics growth as reasons for a possible further 20% gain.",
-        "body": "LG Electronics has surged 36% this month, and a new market report says the stock could rise about 20% more. The analysis pointed to companywide cost-structure improvements and more efficient marketing spending as factors that have strengthened its earnings profile. It also cited the robotics business as a new growth area drawing investor attention. Although the share price has already climbed sharply in a short period, the report said changes in the cost base and momentum from the new robotics business could support further upside. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "LG電子が今月36%急騰、ロボット新事業でさらに20%上昇余地",
-        "excerpt": "今月だけで36%上昇したLG電子について、全社的なコスト構造改善、マーケティング費用の効率化、ロボティクス新事業を根拠に20%追加上昇の可能性が示された。",
-        "body": "LG電子の株価が今月に入り36%急騰する中、今後さらに約20%上昇する可能性があるとの分析が出た。報告書は、同社が全社的なコスト構造の改善とマーケティング費用の効率化を通じて収益体質を強化した点を背景に挙げた。加えて、ロボティクス新事業が新たな成長期待として言及され、投資家の関心を集めている。短期間で株価は大きく上昇したが、報告書は費用構造の変化と新事業のモメンタムが追加上昇余地を支え得ると見ている。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "LG电子本月大涨36%，机器人新业务带来再涨20%预期",
-        "excerpt": "LG电子本月已上涨36%，有分析认为，凭借全公司成本结构改善、营销费用效率提升以及机器人新业务期待，股价仍可能再涨20%。",
-        "body": "LG电子股价本月以来已大涨36%，最新报告认为其未来仍可能再上涨约20%。分析指出，LG电子通过全公司范围内的成本结构改善和营销费用效率化，提升了盈利体质，这是股价受到关注的背景之一。同时，机器人新业务被提及为新的增长期待因素，也进一步吸引投资者关注。尽管短期内股价涨幅已经较大，报告认为成本结构变化和新业务动能仍可能支撑进一步上行空间。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "LG Electronics sube 36% este mes y robots sostienen potencial adicional del 20%",
-        "excerpt": "Tras subir 36% este mes, LG Electronics podría avanzar otro 20% por mejoras de costos, mayor eficiencia en marketing y expectativas sobre su nuevo negocio de robótica.",
-        "body": "Las acciones de LG Electronics han subido 36% en lo que va del mes, y un nuevo informe estima que podrían avanzar cerca de 20% adicional. El análisis señaló como contexto la mejora de la estructura de costos en toda la empresa y la mayor eficiencia del gasto en marketing, factores que habrían fortalecido su perfil de rentabilidad. También mencionó el negocio de robótica como una nueva fuente de expectativas de crecimiento que atrae a los inversores. Aunque el alza reciente ha sido marcada, el informe considera que los cambios de costos y el impulso del nuevo negocio pueden respaldar más recorrido. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "LG Electronics sobe 36% no mês e robótica sustenta visão de alta extra de 20%",
-        "excerpt": "Depois de avançar 36% neste mês, a LG Electronics pode subir mais 20%, segundo análise baseada em melhora de custos, eficiência em marketing e expectativas com robótica.",
-        "body": "As ações da LG Electronics subiram 36% neste mês, e um novo relatório aponta que ainda podem avançar cerca de 20%. A análise destacou a melhora da estrutura de custos em toda a companhia e a maior eficiência das despesas de marketing como fatores que fortaleceram o perfil de rentabilidade. O relatório também citou o novo negócio de robótica como um elemento de expectativa de crescimento que vem atraindo investidores. Embora a alta recente tenha sido expressiva, a avaliação é que a mudança na base de custos e o impulso da robótica podem sustentar valorização adicional. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "LG Electronics steigt im Monat 36%, Robotik stützt weiteres Kurspotenzial von 20%",
-        "excerpt": "Nach einem Kursplus von 36% in diesem Monat sehen Analysten bei LG Electronics dank besserer Kostenstruktur, effizienterem Marketing und Robotik-Geschäft weiteres Potenzial von 20%.",
-        "body": "Die Aktie von LG Electronics ist in diesem Monat um 36% gestiegen, und ein neuer Bericht sieht weiteres Aufwärtspotenzial von rund 20%. Als Hintergrund nennt die Analyse unternehmensweite Verbesserungen der Kostenstruktur und eine effizientere Nutzung der Marketingausgaben, wodurch sich das Ertragsprofil verbessert habe. Zudem wird das neue Robotik-Geschäft als Wachstumsfaktor genannt, der die Aufmerksamkeit der Anleger erhöht. Trotz des bereits starken kurzfristigen Kursanstiegs sieht der Bericht in der veränderten Kostenbasis und dem Momentum des neuen Geschäfts Gründe für weiteres Potenzial. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "LG Electronics bondit de 36% ce mois-ci, la robotique soutient un potentiel de 20%",
-        "excerpt": "Après une hausse de 36% ce mois-ci, LG Electronics pourrait encore gagner 20% grâce à l’amélioration des coûts, à l’efficacité marketing et aux attentes liées à la robotique.",
-        "body": "L’action LG Electronics a bondi de 36% depuis le début du mois, et un nouveau rapport estime qu’elle pourrait encore progresser d’environ 20%. L’analyse met en avant l’amélioration de la structure de coûts à l’échelle du groupe et une meilleure efficacité des dépenses marketing, qui auraient renforcé le profil de rentabilité. Le rapport cite aussi la nouvelle activité de robotique comme facteur d’attente de croissance attirant l’attention des investisseurs. Malgré la forte hausse récente, il estime que l’évolution des coûts et l’élan de cette nouvelle activité peuvent soutenir un potentiel supplémentaire. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "سهم LG Electronics يقفز 36% هذا الشهر والروبوتات تدعم صعودا إضافيا 20%",
-        "excerpt": "بعد ارتفاع LG Electronics بنسبة 36% هذا الشهر، يرى تحليل أن تحسين هيكل التكاليف وكفاءة التسويق وتوقعات نشاط الروبوتات قد تتيح صعودا إضافيا بنحو 20%.",
-        "body": "ارتفع سهم LG Electronics بنسبة 36% منذ بداية هذا الشهر، وذكر تقرير جديد أنه قد يصعد بنحو 20% إضافية. وأشار التحليل إلى أن الشركة حسنت بنيتها الربحية عبر تحسين هيكل التكاليف على مستوى المجموعة ورفع كفاءة الإنفاق التسويقي. كما ورد نشاط الروبوتات الجديد كعامل نمو محتمل يجذب اهتمام المستثمرين. ورغم أن السهم حقق مكاسب كبيرة خلال فترة قصيرة، يرى التقرير أن تغير قاعدة التكاليف والزخم المرتبط بنشاط الروبوتات يمكن أن يدعما مساحة إضافية للصعود. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "LG Electronics इस महीने 36% उछला, रोबोटिक्स से 20% और तेजी की संभावना",
-        "excerpt": "इस महीने 36% चढ़े LG Electronics पर रिपोर्ट ने लागत ढांचे में सुधार, मार्केटिंग खर्च की दक्षता और रोबोटिक्स नए कारोबार की उम्मीदों के आधार पर 20% और तेजी की संभावना जताई।",
-        "body": "LG Electronics का शेयर इस महीने 36% चढ़ चुका है और एक नई रिपोर्ट के अनुसार इसमें लगभग 20% और बढ़त की संभावना है। विश्लेषण में कंपनी-स्तर पर लागत ढांचे में सुधार और मार्केटिंग खर्च की दक्षता को ऐसे कारक बताया गया है, जिनसे उसकी आय क्षमता बेहतर हुई है। रिपोर्ट ने रोबोटिक्स के नए कारोबार को भी नए विकास की उम्मीद के रूप में रेखांकित किया, जिससे निवेशकों की रुचि बढ़ रही है। कम समय में तेज उछाल के बावजूद, रिपोर्ट का मानना है कि लागत आधार में बदलाव और नए कारोबार की गति आगे की बढ़त को सहारा दे सकती है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "LG Electronics Naik 36% Bulan Ini, Bisnis Robotik Buka Peluang Tambahan 20%",
-        "excerpt": "Setelah LG Electronics naik 36% bulan ini, laporan menilai perbaikan struktur biaya, efisiensi pemasaran, dan harapan bisnis robotik dapat membuka kenaikan lanjutan 20%.",
-        "body": "Saham LG Electronics telah melonjak 36% sepanjang bulan ini, dan laporan terbaru menilai saham tersebut masih berpotensi naik sekitar 20%. Analisis itu menyebut perbaikan struktur biaya di seluruh perusahaan dan efisiensi biaya pemasaran sebagai faktor yang memperkuat kualitas laba. Selain itu, bisnis baru di bidang robotik disebut sebagai sumber harapan pertumbuhan yang menarik perhatian investor. Meski kenaikan harga saham dalam waktu singkat sudah besar, laporan tersebut menilai perubahan basis biaya dan momentum bisnis robotik dapat menopang ruang kenaikan tambahan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "8ac1009dabea",
-    "slug": "차익-실현-고점-신호불장속-외국인-최근-5거래일간-24조-매도-763437",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T00:17:06.443Z",
-    "updatedAt": "2026-05-14T00:17:06.443Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047165",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047165",
-    "titleFingerprint": "340c03455184492260667a7a5300feae864f55dd",
-    "dedupKeys": [
-      "8ac1009dabea3f4e19c38bf918aa77976a230a6a",
-      "340c03455184492260667a7a5300feae864f55dd",
-      "c8f740a80f2f0d2a8467625bf748a820a8308cef"
-    ],
-    "imageUrl": "/images/articles/8ac1009dabea.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 최고가에도 외국인 5거래일 24조 매도, 변동성 확대 주목",
-        "excerpt": "코스피가 사상 최고가를 경신한 가운데 외국인 투자자들이 최근 5거래일 연속 24조원 규모 순매도에 나서며 국내 증시 변동성이 커지고 있다.",
-        "body": "코스피가 사상 최고가를 경신하는 불장 국면에서도 외국인 투자자들은 최근 5거래일 동안 국내 증시에서 연속 순매도에 나섰다. 순매도는 매도가 매수보다 많은 흐름을 뜻하며, 원문에 따르면 해당 기간 외국인 매도 규모는 24조원으로 집계됐다. 지수가 고점을 새로 쓰는 가운데 외국인 매도세가 이어지면서 시장에서는 차익 실현인지, 고점 신호인지에 대한 관심이 커지고 있다. 증권가에서는 외국인 수급 변화가 단기 증시 변동성을 확대하는 요인으로 작용하고 있다고 보고 있다. 향후 코스피 흐름은 사상 최고가 이후 외국인 매도세가 완화되는지 여부와 함께 변동성 관리가 관건으로 거론된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Hits Record High as Foreigners Sell 24 Trillion Won in Five Sessions",
-        "excerpt": "As the KOSPI renews its all-time high, foreign investors have net sold for five straight trading days, totaling 24 trillion won and increasing volatility in Korea’s stock market.",
-        "body": "Even as the KOSPI reaches a new all-time high in a strong market, foreign investors have continued to net sell Korean stocks for the past five trading days. Net selling means sales exceed purchases, and according to the original report, foreign selling over the period totaled 24 trillion won. With the index setting fresh highs, attention is growing over whether the move reflects profit-taking or a possible high-point signal. Market watchers say the change in foreign fund flows is contributing to wider short-term volatility. The next key issue for the KOSPI is whether foreign selling eases after the record high and how volatility is managed. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI最高値更新も外国人が5営業日で24兆ウォン売り、変動性拡大",
-        "excerpt": "KOSPIが過去最高値を更新する中、外国人投資家は直近5営業日連続で24兆ウォン規模の売り越しとなり、韓国株式市場の変動性が拡大している。",
-        "body": "KOSPIが強気相場の中で過去最高値を更新しているにもかかわらず、外国人投資家は直近5営業日にわたり韓国株式市場で連続して売り越している。売り越しとは、売りが買いを上回る流れを指す。原文によると、この期間の外国人売り規模は24兆ウォンと集計された。指数が高値を更新する一方で外国人の売りが続き、市場では利益確定なのか、高値のシグナルなのかに関心が集まっている。証券業界では、外国人需給の変化が短期的な市場変動性を拡大させる要因になっているとみている。今後は最高値更新後に外国人売りが和らぐか、変動性をどう管理するかが焦点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI创新高之际外资5个交易日卖出24万亿韩元，波动扩大",
-        "excerpt": "在KOSPI刷新历史最高点的同时，外国投资者最近5个交易日连续净卖出，规模达24万亿韩元，韩国股市波动性随之扩大。",
-        "body": "尽管KOSPI在牛市氛围中刷新历史最高点，外国投资者最近5个交易日仍在韩国股市连续净卖出。净卖出是指卖出金额大于买入金额。根据原文报道，该期间外国投资者卖出规模统计为24万亿韩元。随着指数不断改写高点，外资卖盘持续出现，市场对这究竟是获利了结，还是高位信号的关注升温。证券业界认为，外资资金流向变化正在成为扩大短期股市波动性的因素。未来KOSPI走势的关键，将在于历史高点之后外资卖势是否缓和，以及市场如何管理波动。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI marca récord, pero extranjeros venden 24 billones de wones en cinco sesiones",
-        "excerpt": "Mientras el KOSPI renueva su máximo histórico, los inversores extranjeros acumulan cinco sesiones seguidas de ventas netas por 24 billones de wones, elevando la volatilidad.",
-        "body": "Aunque el KOSPI ha marcado un nuevo máximo histórico dentro de un mercado alcista, los inversores extranjeros han mantenido ventas netas en la bolsa surcoreana durante los últimos cinco días de negociación. La venta neta significa que las ventas superan a las compras y, según el informe original, el volumen vendido por extranjeros en ese periodo alcanzó 24 billones de wones. Con el índice renovando máximos, crece la atención sobre si este movimiento responde a toma de ganancias o a una señal de techo. En el sector bursátil se considera que el cambio en los flujos extranjeros está ampliando la volatilidad de corto plazo. La clave será si las ventas extranjeras se moderan tras el récord y cómo se gestiona esa volatilidad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI renova máxima, mas estrangeiros vendem 24 trilhões de wons em cinco pregões",
-        "excerpt": "Enquanto o KOSPI atinge máxima histórica, investidores estrangeiros registram cinco pregões seguidos de venda líquida, somando 24 trilhões de wons e ampliando a volatilidade.",
-        "body": "Mesmo com o KOSPI renovando sua máxima histórica em um mercado de alta, investidores estrangeiros venderam ações sul-coreanas em termos líquidos nos últimos cinco pregões. Venda líquida significa que as vendas superam as compras e, segundo o relato original, o volume vendido por estrangeiros no período chegou a 24 trilhões de wons. Com o índice atingindo novos picos, cresce a atenção sobre se o movimento representa realização de lucros ou um sinal de topo. No mercado financeiro, avalia-se que a mudança no fluxo estrangeiro está contribuindo para ampliar a volatilidade de curto prazo. O ponto central agora é saber se a pressão vendedora estrangeira diminuirá após a máxima histórica e como a volatilidade será administrada. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI auf Rekordhoch, doch Ausländer verkaufen 24 Billionen Won in fünf Sitzungen",
-        "excerpt": "Während der KOSPI ein Allzeithoch erreicht, verkaufen ausländische Investoren fünf Handelstage in Folge netto Aktien im Wert von 24 Billionen Won und erhöhen die Volatilität.",
-        "body": "Obwohl der KOSPI in einem starken Markt ein neues Allzeithoch erreicht hat, haben ausländische Investoren an den vergangenen fünf Handelstagen südkoreanische Aktien netto verkauft. Nettoverkauf bedeutet, dass die Verkäufe die Käufe übersteigen. Laut dem Originalbericht belief sich das Verkaufsvolumen ausländischer Anleger in diesem Zeitraum auf 24 Billionen Won. Da der Index neue Höchststände markiert, wächst die Aufmerksamkeit dafür, ob es sich um Gewinnmitnahmen oder ein Signal für einen Hochpunkt handelt. Marktteilnehmer sehen die Veränderung der ausländischen Kapitalflüsse als Faktor, der die kurzfristige Volatilität erhöht. Entscheidend wird nun sein, ob der Verkaufsdruck nach dem Rekordhoch nachlässt und wie die Volatilität gesteuert wird. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI au plus haut, mais les étrangers vendent 24 billions de wons en cinq séances",
-        "excerpt": "Alors que le KOSPI atteint un record historique, les investisseurs étrangers enchaînent cinq séances de ventes nettes pour 24 billions de wons, accentuant la volatilité.",
-        "body": "Même si le KOSPI atteint un nouveau plus haut historique dans un marché haussier, les investisseurs étrangers ont vendu net des actions sud-coréennes pendant les cinq dernières séances. Une vente nette signifie que les ventes dépassent les achats et, selon l’article d’origine, le montant vendu par les étrangers sur cette période a atteint 24 billions de wons. Alors que l’indice inscrit de nouveaux sommets, l’attention se porte sur la question de savoir s’il s’agit de prises de bénéfices ou d’un signal de point haut. Les professionnels du marché estiment que l’évolution des flux étrangers contribue à accroître la volatilité à court terme. La suite dépendra de l’éventuel apaisement des ventes étrangères après le record et de la gestion de cette volatilité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يسجل ذروة تاريخية رغم بيع الأجانب 24 تريليون وون خلال خمس جلسات",
-        "excerpt": "بينما يجدد مؤشر كوسبي أعلى مستوى تاريخي له، سجل المستثمرون الأجانب صافي بيع لخمس جلسات تداول متتالية بقيمة 24 تريليون وون، ما زاد تقلبات السوق الكورية.",
-        "body": "رغم أن مؤشر كوسبي سجل أعلى مستوى تاريخي في ظل سوق صاعدة، واصل المستثمرون الأجانب تسجيل صافي بيع في سوق الأسهم الكورية خلال آخر خمس جلسات تداول. ويعني صافي البيع أن قيمة المبيعات تفوق قيمة المشتريات. ووفقا للنص الأصلي، بلغ حجم مبيعات الأجانب خلال هذه الفترة 24 تريليون وون. ومع تسجيل المؤشر مستويات قياسية جديدة، تزايد الاهتمام بما إذا كانت هذه التحركات تمثل جني أرباح أم إشارة إلى بلوغ قمة. وترى الأوساط المالية أن تغير تدفقات الأجانب يسهم في توسيع تقلبات السوق على المدى القصير. وسيكون التركيز لاحقا على ما إذا كانت مبيعات الأجانب ستتراجع بعد القمة التاريخية وكيف ستتم إدارة التقلبات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI रिकॉर्ड ऊंचाई पर, फिर भी विदेशी निवेशकों ने पांच सत्रों में 24 ट्रिलियन वॉन बेचे",
-        "excerpt": "KOSPI के ऐतिहासिक उच्च स्तर पर पहुंचने के बीच विदेशी निवेशकों ने हाल के पांच कारोबारी सत्रों में 24 ट्रिलियन वॉन की शुद्ध बिक्री की, जिससे बाजार में उतार-चढ़ाव बढ़ा।",
-        "body": "तेजी के माहौल में KOSPI ने ऐतिहासिक उच्च स्तर छू लिया है, फिर भी विदेशी निवेशकों ने पिछले पांच कारोबारी सत्रों में दक्षिण कोरियाई शेयर बाजार में लगातार शुद्ध बिक्री की। शुद्ध बिक्री का अर्थ है कि बिक्री, खरीद से अधिक रही। मूल रिपोर्ट के अनुसार, इस अवधि में विदेशी निवेशकों की बिक्री का आकार 24 ट्रिलियन वॉन रहा। सूचकांक के नए शिखर बनाने के बीच विदेशी बिकवाली जारी रहने से यह सवाल उठ रहा है कि यह मुनाफावसूली है या ऊपरी स्तर का संकेत। प्रतिभूति बाजार से जुड़े लोगों का मानना है कि विदेशी पूंजी प्रवाह में बदलाव अल्पकालिक बाजार उतार-चढ़ाव को बढ़ा रहा है। आगे KOSPI के लिए मुख्य मुद्दा यह होगा कि रिकॉर्ड ऊंचाई के बाद विदेशी बिकवाली कम होती है या नहीं और उतार-चढ़ाव को कैसे संभाला जाता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Cetak Rekor, Asing Jual 24 Triliun Won dalam Lima Hari Bursa",
-        "excerpt": "Saat KOSPI menembus rekor tertinggi, investor asing mencatat jual bersih selama lima hari bursa berturut-turut senilai 24 triliun won, memperbesar volatilitas pasar Korea.",
-        "body": "Meski KOSPI mencetak rekor tertinggi baru di tengah pasar yang menguat, investor asing terus melakukan jual bersih di pasar saham Korea selama lima hari bursa terakhir. Jual bersih berarti nilai penjualan lebih besar daripada pembelian. Menurut laporan asli, nilai penjualan asing pada periode tersebut mencapai 24 triliun won. Saat indeks terus memperbarui level tertinggi, perhatian pasar tertuju pada apakah aksi ini merupakan realisasi keuntungan atau sinyal puncak. Kalangan sekuritas menilai perubahan arus dana asing menjadi faktor yang memperbesar volatilitas jangka pendek. Ke depan, arah KOSPI akan bergantung pada apakah tekanan jual asing mereda setelah rekor tertinggi dan bagaimana volatilitas dikelola. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "52065b74e91a",
-    "slug": "인플레-우려에도-상승-마감나스닥sp500-사상-최고치-뉴욕증시-499834",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T00:16:02.203Z",
-    "updatedAt": "2026-05-14T00:16:02.203Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12047166",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12047166",
-    "titleFingerprint": "22270c97de64e94813f0584be9a9dd11f3341780",
-    "dedupKeys": [
-      "52065b74e91ab91e23a72b16b6e8ff9623705dc6",
-      "22270c97de64e94813f0584be9a9dd11f3341780",
-      "b1ee5a807baea61f39a47f90546f1f8bbff47901"
-    ],
-    "imageUrl": "/images/articles/52065b74e91a.png",
-    "i18n": {
-      "ko": {
-        "title": "뉴욕증시, 인플레 우려에도 반도체주 랠리로 나스닥·S&P500 최고치",
-        "excerpt": "13일 현지시간 뉴욕증시는 인플레이션 부담에도 반도체주 상승세가 이어지며 강세로 마감했고, 나스닥과 S&P500은 사상 최고치를 기록했다.",
-        "body": "13일(현지시간) 뉴욕증권거래소(NYSE)에서 뉴욕증시는 인플레이션 부담이 이어지는 가운데도 반도체주 상승 랠리에 힘입어 강세로 마감했다. S&P500지수는 전일 대비 0.58% 오르며 상승세를 보였고, 나스닥과 S&P500은 사상 최고치를 기록했다. 시장은 물가 부담이라는 불확실성 속에서도 기술주와 반도체주 흐름에 주목했다. 이번 마감은 인플레이션 우려가 남아 있는 상황에서도 주요 지수가 강세를 유지했다는 점에서 의미가 있다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Wall Street rises as chip rally lifts Nasdaq and S&P 500 to record highs",
-        "excerpt": "On May 13 local time, U.S. stocks closed higher despite inflation concerns as semiconductor shares rallied, with the Nasdaq and S&P 500 reaching record highs.",
-        "body": "On May 13 local time, U.S. stocks closed higher on the New York Stock Exchange despite continuing inflation concerns, supported by a rally in semiconductor shares. The S&P 500 rose 0.58% from the previous session, while both the Nasdaq and the S&P 500 recorded all-time highs. Investors focused on the strength in technology and chip-related shares even as price pressures remained an uncertainty. The close was notable because major indexes held firm despite ongoing worries over inflation. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "米国株、インフレ懸念でも半導体株高でナスダックとS&P500が最高値",
-        "excerpt": "現地時間13日の米国株式市場は、インフレ負担が続く中でも半導体株の上昇に支えられて強含みで引け、ナスダックとS&P500は最高値を記録した。",
-        "body": "現地時間13日、ニューヨーク証券取引所（NYSE）で米国株式市場は、インフレ負担が続く中でも半導体株の上昇ラリーに支えられ、強含みで取引を終えた。S&P500指数は前日比0.58%上昇し、ナスダックとS&P500は史上最高値を記録した。市場では物価負担という不確実性が残る一方、テクノロジー株と半導体株の流れに関心が集まった。今回の終値は、インフレ懸念が残る状況でも主要指数が堅調さを維持した点で意味がある。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "美股无惧通胀担忧收高，芯片股拉动纳指与标普500创新高",
-        "excerpt": "当地时间13日，纽约股市在通胀压力仍存的情况下，受半导体股上涨带动走强收盘，纳斯达克和标普500均创历史新高。",
-        "body": "当地时间13日，纽约证券交易所（NYSE）美股在通胀压力持续的背景下，仍受半导体股上涨行情推动而强势收盘。标普500指数较前一交易日上涨0.58%，纳斯达克和标普500均创下历史最高纪录。市场在物价压力这一不确定性仍然存在的情况下，关注科技股和半导体股的走势。本次收盘的意义在于，尽管通胀担忧尚未消退，主要股指仍保持强势。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Wall Street sube pese a la inflación y Nasdaq y S&P 500 marcan récords",
-        "excerpt": "El 13 de mayo, hora local, la bolsa de Nueva York cerró al alza pese a la presión inflacionaria, impulsada por el repunte de los semiconductores.",
-        "body": "El 13 de mayo, hora local, la bolsa de Nueva York cerró con ganancias en la Bolsa de Nueva York pese a que persistía la presión de la inflación, apoyada por un repunte de las acciones de semiconductores. El S&P 500 avanzó un 0,58% frente a la sesión anterior, mientras que el Nasdaq y el S&P 500 alcanzaron máximos históricos. El mercado prestó atención al comportamiento de las tecnológicas y de los semiconductores en medio de la incertidumbre por los precios. El cierre fue relevante porque los principales índices mantuvieron la fortaleza pese a las preocupaciones inflacionarias. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Wall Street avança apesar da inflação, com Nasdaq e S&P 500 em máximas",
-        "excerpt": "Em 13 de maio, no horário local, as bolsas de Nova York fecharam em alta apesar da pressão inflacionária, impulsionadas pela valorização dos semicondutores.",
-        "body": "Em 13 de maio, no horário local, o mercado acionário de Nova York fechou em alta na Bolsa de Valores de Nova York apesar da continuidade das pressões inflacionárias, apoiado por uma recuperação das ações de semicondutores. O índice S&P 500 subiu 0,58% em relação ao pregão anterior, enquanto Nasdaq e S&P 500 atingiram máximas históricas. O mercado acompanhou a força das ações de tecnologia e semicondutores mesmo com a inflação ainda como fator de incerteza. O fechamento foi significativo porque os principais índices mantiveram o avanço apesar das preocupações com os preços. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "US-Börsen steigen trotz Inflationssorgen, Nasdaq und S&P 500 auf Rekordhoch",
-        "excerpt": "Am 13. Mai Ortszeit schlossen die US-Börsen trotz Inflationsbelastung fester, gestützt von einer Rally bei Halbleiterwerten; Nasdaq und S&P 500 erreichten Rekorde.",
-        "body": "Am 13. Mai Ortszeit schlossen die US-Aktienmärkte an der New York Stock Exchange trotz anhaltender Inflationsbelastung fester, gestützt durch eine Rally bei Halbleiterwerten. Der S&P 500 legte gegenüber dem Vortag um 0,58% zu, während Nasdaq und S&P 500 neue Allzeithochs erreichten. Der Markt richtete den Blick auf die Stärke von Technologie- und Halbleiteraktien, obwohl der Preisdruck weiter für Unsicherheit sorgte. Der Schlussstand ist bemerkenswert, weil die wichtigsten Indizes trotz bestehender Inflationssorgen ihre Stärke behaupteten. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Wall Street monte malgré l’inflation, Nasdaq et S&P 500 à des records",
-        "excerpt": "Le 13 mai, heure locale, la Bourse de New York a clôturé en hausse malgré les tensions inflationnistes, portée par le rally des semi-conducteurs.",
-        "body": "Le 13 mai, heure locale, la Bourse de New York a terminé en hausse au New York Stock Exchange malgré la persistance des tensions liées à l’inflation, soutenue par un rally des valeurs de semi-conducteurs. L’indice S&P 500 a progressé de 0,58% par rapport à la séance précédente, tandis que le Nasdaq et le S&P 500 ont atteint des records historiques. Le marché a suivi la vigueur des valeurs technologiques et des semi-conducteurs alors que la pression sur les prix restait une incertitude. Cette clôture est notable car les grands indices ont conservé leur solidité malgré les craintes d’inflation. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "وول ستريت ترتفع رغم مخاوف التضخم وناسداك وS&P 500 يسجلان قمما قياسية",
-        "excerpt": "في 13 مايو بالتوقيت المحلي، أغلقت الأسهم الأميركية على ارتفاع رغم ضغوط التضخم، مدعومة بصعود أسهم أشباه الموصلات وتسجيل ناسداك وS&P 500 قمما قياسية.",
-        "body": "في 13 مايو بالتوقيت المحلي، أغلقت الأسهم الأميركية في بورصة نيويورك على ارتفاع رغم استمرار ضغوط التضخم، بدعم من موجة صعود في أسهم أشباه الموصلات. وارتفع مؤشر S&P 500 بنسبة 0.58% مقارنة بالجلسة السابقة، بينما سجل كل من ناسداك وS&P 500 أعلى مستوياتهما التاريخية. وركز السوق على قوة أسهم التكنولوجيا وأشباه الموصلات في ظل بقاء ضغوط الأسعار عاملا من عوامل عدم اليقين. ويعد هذا الإغلاق لافتا لأن المؤشرات الرئيسية حافظت على قوتها رغم استمرار مخاوف التضخم. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "महंगाई चिंता के बावजूद वॉल स्ट्रीट चढ़ी, Nasdaq और S&P 500 रिकॉर्ड पर",
-        "excerpt": "स्थानीय समयानुसार 13 मई को अमेरिकी शेयर बाजार महंगाई दबाव के बावजूद सेमीकंडक्टर शेयरों की तेजी से मजबूत बंद हुआ और Nasdaq व S&P 500 रिकॉर्ड ऊंचाई पर पहुंचे।",
-        "body": "स्थानीय समयानुसार 13 मई को न्यूयॉर्क स्टॉक एक्सचेंज में अमेरिकी शेयर बाजार महंगाई के दबाव के बावजूद सेमीकंडक्टर शेयरों की तेजी के सहारे मजबूत बंद हुआ। S&P 500 सूचकांक पिछले सत्र की तुलना में 0.58% बढ़ा, जबकि Nasdaq और S&P 500 ने सर्वकालिक उच्च स्तर दर्ज किया। बाजार ने कीमतों के दबाव से जुड़ी अनिश्चितता के बीच तकनीकी और सेमीकंडक्टर शेयरों की मजबूती पर ध्यान दिया। यह बंद इसलिए अहम रहा क्योंकि महंगाई की चिंता बने रहने के बावजूद प्रमुख सूचकांकों ने तेजी बरकरार रखी। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Wall Street naik meski inflasi membayangi, Nasdaq dan S&P 500 cetak rekor",
-        "excerpt": "Pada 13 Mei waktu setempat, bursa New York ditutup menguat meski tekanan inflasi berlanjut, didorong reli saham semikonduktor yang membawa Nasdaq dan S&P 500 ke rekor tertinggi.",
-        "body": "Pada 13 Mei waktu setempat, pasar saham New York di New York Stock Exchange ditutup menguat meski tekanan inflasi masih berlanjut, ditopang reli saham semikonduktor. Indeks S&P 500 naik 0,58% dibanding sesi sebelumnya, sementara Nasdaq dan S&P 500 mencatat rekor tertinggi sepanjang masa. Pasar mencermati kekuatan saham teknologi dan semikonduktor di tengah ketidakpastian akibat tekanan harga. Penutupan ini penting karena indeks utama tetap menunjukkan penguatan meski kekhawatiran inflasi belum mereda. Sumber: mk.co.kr."
       }
     }
   }
