@@ -1,0 +1,75 @@
+{
+  "id": "6f4693fa8bc2",
+  "slug": "ny-judge-pushes-back-hearing-for-aaves-bid-to-unfreeze-71m-i-828149",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-14T09:21:21.525Z",
+  "updatedAt": "2026-05-14T09:21:21.525Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/judge-delays-aaves-emergency-bid-to-unfreeze-71m-hacked-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/judge-delays-aaves-emergency-bid-to-unfreeze-71m-hacked-crypto",
+  "titleFingerprint": "b6864be5e680744fd48ee1fdd741288b8686b3f5",
+  "dedupKeys": [
+    "6f4693fa8bc24784421ff9acafa0d813954f792c",
+    "b6864be5e680744fd48ee1fdd741288b8686b3f5",
+    "b9343474b883f611b43c77ced85b005c8e994624"
+  ],
+  "imageUrl": "/images/articles/6f4693fa8bc2.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Aave 7100만달러 ETH 동결 해제 심리 연기, 뉴욕 판사 추가 서면 명령",
+      "excerpt": "뉴욕 판사가 Aave의 7100만달러 규모 ETH 동결 해제 요청 심리를 미루고, 제한 통지가 유지될 경우 복리 손실이 어떻게 발생하는지 추가 설명을 요구했다.",
+      "body": "뉴욕 법원이 Aave의 7100만달러 규모 ETH 동결 해제 요청에 대한 심리를 연기했다. 판사는 현재의 제한 통지가 유지될 경우 손실이 복리로 확대될 수 있다는 Aave 측 주장이 충분히 구체적으로 제시되지 않았다고 보고 추가 서면 제출을 명령했다. 이번 사안의 핵심은 동결된 ETH를 둘러싼 법적 제한이 계속될 때 Aave가 주장하는 손실 구조가 실제로 어떻게 누적되는지다. 법원은 본안 판단에 앞서 관련 설명을 보완하도록 한 만큼, 동결 해제 여부는 추가 자료 제출 이후 다시 검토될 전망이다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "Aave $71M ETH Unfreeze Hearing Delayed as NY Judge Seeks More Briefs",
+      "excerpt": "A New York judge delayed Aave’s bid to unfreeze $71 million in ETH, asking for more detail on how losses could compound if the restraining notice stays in place.",
+      "body": "A New York court has delayed a hearing on Aave’s request to unfreeze $71 million in ETH. The judge ordered supplemental briefings after finding that Aave had not sufficiently explained how compounding losses could occur if the current restraining notice remains in effect. The central issue is how the legal restriction on the frozen ETH could lead to the loss structure Aave described. Because the court asked for more detail before moving forward, the question of whether the ETH will be unfrozen is expected to be reviewed again after the additional filings are submitted. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "Aaveの7100万ドルETH凍結解除審理延期、NY判事が追加書面を命令",
+      "excerpt": "ニューヨークの判事は、Aaveによる7100万ドル相当のETH凍結解除請求の審理を延期し、制限通知が続く場合の複利的損失について追加説明を求めた。",
+      "body": "ニューヨークの裁判所は、Aaveが求めている7100万ドル相当のETH凍結解除をめぐる審理を延期した。判事は、現在の制限通知が維持された場合に損失が複利的に拡大し得るというAave側の主張について、十分に具体的な説明が示されていないとして、追加の書面提出を命じた。争点は、凍結されたETHに対する法的制限が続くことで、Aaveが説明する損失構造がどのように積み上がるのかにある。裁判所は判断に先立ち補足を求めており、凍結解除の可否は追加資料の提出後に改めて検討される見通しだ。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "Aave 7100万美元ETH解冻听证推迟，纽约法官要求补充文件",
+      "excerpt": "纽约法官推迟Aave要求解冻7100万美元ETH的听证，并要求其进一步说明若限制通知继续有效，损失为何可能复利式扩大。",
+      "body": "纽约一家法院推迟了Aave要求解冻7100万美元ETH的听证。法官认为，Aave并未充分说明如果当前限制通知继续有效，损失可能如何以复利方式扩大，因此下令提交补充书面材料。该案核心在于，围绕被冻结ETH的法律限制若持续存在，Aave所主张的损失结构究竟会如何累积。由于法院要求在作出进一步判断前补充说明，ETH能否解除冻结预计将在追加文件提交后再次审查。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "Aave ve aplazada audiencia por $71M en ETH congelado en Nueva York",
+      "excerpt": "Un juez de Nueva York aplazó la solicitud de Aave para descongelar $71 millones en ETH y pidió más detalles sobre cómo podrían acumularse pérdidas compuestas.",
+      "body": "Un tribunal de Nueva York aplazó la audiencia sobre la solicitud de Aave para descongelar $71 millones en ETH. El juez ordenó escritos suplementarios al considerar que Aave no explicó con suficiente detalle cómo podrían producirse pérdidas compuestas si el aviso restrictivo actual sigue vigente. El punto central es cómo la restricción legal sobre el ETH congelado podría generar la estructura de pérdidas descrita por Aave. Como el tribunal pidió más información antes de avanzar, la decisión sobre si se liberará el ETH quedará para una nueva revisión tras la presentación de los documentos adicionales. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "Aave tem audiência de $71 mi em ETH congelado adiada por juiz de NY",
+      "excerpt": "Um juiz de Nova York adiou o pedido da Aave para liberar $71 milhões em ETH e solicitou mais detalhes sobre como perdas compostas poderiam ocorrer.",
+      "body": "Um tribunal de Nova York adiou a audiência sobre o pedido da Aave para liberar $71 milhões em ETH congelados. O juiz determinou a apresentação de manifestações suplementares ao avaliar que a Aave não explicou de forma suficiente como perdas compostas poderiam ocorrer se a atual notificação restritiva permanecer em vigor. O ponto central é como a restrição legal sobre o ETH congelado poderia levar à estrutura de perdas descrita pela Aave. Como o tribunal pediu mais esclarecimentos antes de avançar, a decisão sobre a liberação do ETH deve ser reavaliada após o envio dos documentos adicionais. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "Aave-Anhörung zu 71 Mio. USD in ETH verschoben, NY-Richter fordert Details",
+      "excerpt": "Ein New Yorker Richter verschob Aaves Antrag auf Freigabe von 71 Mio. USD in ETH und verlangte mehr Angaben dazu, wie sich Verluste aufaddieren könnten.",
+      "body": "Ein New Yorker Gericht hat die Anhörung zu Aaves Antrag auf Freigabe von 71 Millionen US-Dollar in ETH verschoben. Der Richter ordnete ergänzende Schriftsätze an, weil Aave nicht ausreichend dargelegt habe, wie sich Verluste verzinslich beziehungsweise kumulativ ausweiten könnten, falls die derzeitige Beschränkungsmitteilung bestehen bleibt. Im Mittelpunkt steht die Frage, wie die rechtliche Einschränkung der eingefrorenen ETH zu der von Aave beschriebenen Verluststruktur führen könnte. Da das Gericht vor einer weiteren Entscheidung zusätzliche Erläuterungen verlangt, dürfte die Freigabe der ETH nach Einreichung der Unterlagen erneut geprüft werden. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "Aave: audience reportée sur 71 M$ d’ETH gelés, un juge de NY veut plus d’éléments",
+      "excerpt": "Un juge de New York a reporté la demande d’Aave visant à débloquer 71 M$ en ETH et réclamé des précisions sur de possibles pertes composées.",
+      "body": "Un tribunal de New York a reporté l’audience sur la demande d’Aave visant à débloquer 71 millions de dollars en ETH. Le juge a ordonné des mémoires supplémentaires, estimant qu’Aave n’avait pas suffisamment expliqué comment des pertes composées pourraient survenir si l’avis restrictif actuel restait en place. L’enjeu central est de comprendre comment la restriction juridique visant les ETH gelés pourrait produire la structure de pertes décrite par Aave. Le tribunal ayant demandé des précisions avant d’aller plus loin, la question du dégel des ETH devrait être réexaminée après le dépôt des documents complémentaires. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "تأجيل جلسة Aave لفك تجميد 71 مليون دولار من ETH بأمر قاض في نيويورك",
+      "excerpt": "أجل قاض في نيويورك طلب Aave لفك تجميد 71 مليون دولار من ETH، وطلب توضيحات إضافية حول كيفية حدوث خسائر مركبة إذا استمر إشعار التقييد.",
+      "body": "أجلت محكمة في نيويورك جلسة النظر في طلب Aave لفك تجميد 71 مليون دولار من ETH. وأمر القاضي بتقديم مذكرات تكميلية بعدما رأى أن Aave لم توضح بما يكفي كيف يمكن أن تنشأ خسائر مركبة إذا ظل إشعار التقييد الحالي قائما. وتتمحور القضية حول كيفية تحول القيد القانوني المفروض على ETH المجمدة إلى بنية الخسائر التي وصفتها Aave. وبما أن المحكمة طلبت مزيدا من التفاصيل قبل المضي قدما، فمن المتوقع إعادة النظر في مسألة فك التجميد بعد تقديم الملفات الإضافية. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "Aave की $71M ETH अनफ्रीज सुनवाई टली, न्यूयॉर्क जज ने और ब्रीफ मांगे",
+      "excerpt": "न्यूयॉर्क के जज ने Aave की $71 मिलियन ETH अनफ्रीज याचिका पर सुनवाई टाल दी और पूछा कि restraining notice रहने पर नुकसान कैसे चक्रवृद्धि हो सकता है।",
+      "body": "न्यूयॉर्क की एक अदालत ने Aave की $71 मिलियन मूल्य की ETH अनफ्रीज करने की मांग पर सुनवाई टाल दी है। जज ने अतिरिक्त लिखित दलीलें दाखिल करने का आदेश दिया, क्योंकि Aave ने यह पर्याप्त रूप से नहीं बताया कि मौजूदा restraining notice लागू रहने पर नुकसान चक्रवृद्धि रूप से कैसे बढ़ सकता है। इस मामले का मुख्य प्रश्न यह है कि फ्रीज की गई ETH पर कानूनी रोक जारी रहने से Aave द्वारा बताए गए नुकसान की संरचना कैसे जमा हो सकती है। अदालत ने आगे बढ़ने से पहले और विवरण मांगे हैं, इसलिए ETH अनफ्रीज होगी या नहीं, यह अतिरिक्त दस्तावेजों के बाद फिर से देखा जाएगा। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "Sidang Aave soal ETH $71 Juta Dibekukan Ditunda Hakim New York",
+      "excerpt": "Hakim New York menunda permintaan Aave untuk mencairkan ETH senilai $71 juta dan meminta rincian tambahan tentang potensi kerugian majemuk.",
+      "body": "Pengadilan New York menunda sidang atas permintaan Aave untuk mencairkan ETH senilai $71 juta. Hakim memerintahkan pengajuan dokumen tambahan karena menilai Aave belum cukup menjelaskan bagaimana kerugian majemuk dapat terjadi jika pemberitahuan pembatasan saat ini tetap berlaku. Inti perkara ini adalah bagaimana pembatasan hukum atas ETH yang dibekukan dapat menyebabkan struktur kerugian seperti yang dijelaskan Aave. Karena pengadilan meminta penjelasan tambahan sebelum melanjutkan, keputusan apakah ETH tersebut akan dicairkan diperkirakan akan ditinjau kembali setelah dokumen tambahan diajukan. Sumber: cointelegraph.com"
+    }
+  }
+}

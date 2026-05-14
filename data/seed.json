@@ -1,5 +1,230 @@
 [
   {
+    "id": "6f4693fa8bc2",
+    "slug": "ny-judge-pushes-back-hearing-for-aaves-bid-to-unfreeze-71m-i-828149",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T09:21:21.525Z",
+    "updatedAt": "2026-05-14T09:21:21.525Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/judge-delays-aaves-emergency-bid-to-unfreeze-71m-hacked-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/judge-delays-aaves-emergency-bid-to-unfreeze-71m-hacked-crypto",
+    "titleFingerprint": "b6864be5e680744fd48ee1fdd741288b8686b3f5",
+    "dedupKeys": [
+      "6f4693fa8bc24784421ff9acafa0d813954f792c",
+      "b6864be5e680744fd48ee1fdd741288b8686b3f5",
+      "b9343474b883f611b43c77ced85b005c8e994624"
+    ],
+    "imageUrl": "/images/articles/6f4693fa8bc2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Aave 7100만달러 ETH 동결 해제 심리 연기, 뉴욕 판사 추가 서면 명령",
+        "excerpt": "뉴욕 판사가 Aave의 7100만달러 규모 ETH 동결 해제 요청 심리를 미루고, 제한 통지가 유지될 경우 복리 손실이 어떻게 발생하는지 추가 설명을 요구했다.",
+        "body": "뉴욕 법원이 Aave의 7100만달러 규모 ETH 동결 해제 요청에 대한 심리를 연기했다. 판사는 현재의 제한 통지가 유지될 경우 손실이 복리로 확대될 수 있다는 Aave 측 주장이 충분히 구체적으로 제시되지 않았다고 보고 추가 서면 제출을 명령했다. 이번 사안의 핵심은 동결된 ETH를 둘러싼 법적 제한이 계속될 때 Aave가 주장하는 손실 구조가 실제로 어떻게 누적되는지다. 법원은 본안 판단에 앞서 관련 설명을 보완하도록 한 만큼, 동결 해제 여부는 추가 자료 제출 이후 다시 검토될 전망이다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Aave $71M ETH Unfreeze Hearing Delayed as NY Judge Seeks More Briefs",
+        "excerpt": "A New York judge delayed Aave’s bid to unfreeze $71 million in ETH, asking for more detail on how losses could compound if the restraining notice stays in place.",
+        "body": "A New York court has delayed a hearing on Aave’s request to unfreeze $71 million in ETH. The judge ordered supplemental briefings after finding that Aave had not sufficiently explained how compounding losses could occur if the current restraining notice remains in effect. The central issue is how the legal restriction on the frozen ETH could lead to the loss structure Aave described. Because the court asked for more detail before moving forward, the question of whether the ETH will be unfrozen is expected to be reviewed again after the additional filings are submitted. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "Aaveの7100万ドルETH凍結解除審理延期、NY判事が追加書面を命令",
+        "excerpt": "ニューヨークの判事は、Aaveによる7100万ドル相当のETH凍結解除請求の審理を延期し、制限通知が続く場合の複利的損失について追加説明を求めた。",
+        "body": "ニューヨークの裁判所は、Aaveが求めている7100万ドル相当のETH凍結解除をめぐる審理を延期した。判事は、現在の制限通知が維持された場合に損失が複利的に拡大し得るというAave側の主張について、十分に具体的な説明が示されていないとして、追加の書面提出を命じた。争点は、凍結されたETHに対する法的制限が続くことで、Aaveが説明する損失構造がどのように積み上がるのかにある。裁判所は判断に先立ち補足を求めており、凍結解除の可否は追加資料の提出後に改めて検討される見通しだ。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "Aave 7100万美元ETH解冻听证推迟，纽约法官要求补充文件",
+        "excerpt": "纽约法官推迟Aave要求解冻7100万美元ETH的听证，并要求其进一步说明若限制通知继续有效，损失为何可能复利式扩大。",
+        "body": "纽约一家法院推迟了Aave要求解冻7100万美元ETH的听证。法官认为，Aave并未充分说明如果当前限制通知继续有效，损失可能如何以复利方式扩大，因此下令提交补充书面材料。该案核心在于，围绕被冻结ETH的法律限制若持续存在，Aave所主张的损失结构究竟会如何累积。由于法院要求在作出进一步判断前补充说明，ETH能否解除冻结预计将在追加文件提交后再次审查。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Aave ve aplazada audiencia por $71M en ETH congelado en Nueva York",
+        "excerpt": "Un juez de Nueva York aplazó la solicitud de Aave para descongelar $71 millones en ETH y pidió más detalles sobre cómo podrían acumularse pérdidas compuestas.",
+        "body": "Un tribunal de Nueva York aplazó la audiencia sobre la solicitud de Aave para descongelar $71 millones en ETH. El juez ordenó escritos suplementarios al considerar que Aave no explicó con suficiente detalle cómo podrían producirse pérdidas compuestas si el aviso restrictivo actual sigue vigente. El punto central es cómo la restricción legal sobre el ETH congelado podría generar la estructura de pérdidas descrita por Aave. Como el tribunal pidió más información antes de avanzar, la decisión sobre si se liberará el ETH quedará para una nueva revisión tras la presentación de los documentos adicionales. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Aave tem audiência de $71 mi em ETH congelado adiada por juiz de NY",
+        "excerpt": "Um juiz de Nova York adiou o pedido da Aave para liberar $71 milhões em ETH e solicitou mais detalhes sobre como perdas compostas poderiam ocorrer.",
+        "body": "Um tribunal de Nova York adiou a audiência sobre o pedido da Aave para liberar $71 milhões em ETH congelados. O juiz determinou a apresentação de manifestações suplementares ao avaliar que a Aave não explicou de forma suficiente como perdas compostas poderiam ocorrer se a atual notificação restritiva permanecer em vigor. O ponto central é como a restrição legal sobre o ETH congelado poderia levar à estrutura de perdas descrita pela Aave. Como o tribunal pediu mais esclarecimentos antes de avançar, a decisão sobre a liberação do ETH deve ser reavaliada após o envio dos documentos adicionais. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Aave-Anhörung zu 71 Mio. USD in ETH verschoben, NY-Richter fordert Details",
+        "excerpt": "Ein New Yorker Richter verschob Aaves Antrag auf Freigabe von 71 Mio. USD in ETH und verlangte mehr Angaben dazu, wie sich Verluste aufaddieren könnten.",
+        "body": "Ein New Yorker Gericht hat die Anhörung zu Aaves Antrag auf Freigabe von 71 Millionen US-Dollar in ETH verschoben. Der Richter ordnete ergänzende Schriftsätze an, weil Aave nicht ausreichend dargelegt habe, wie sich Verluste verzinslich beziehungsweise kumulativ ausweiten könnten, falls die derzeitige Beschränkungsmitteilung bestehen bleibt. Im Mittelpunkt steht die Frage, wie die rechtliche Einschränkung der eingefrorenen ETH zu der von Aave beschriebenen Verluststruktur führen könnte. Da das Gericht vor einer weiteren Entscheidung zusätzliche Erläuterungen verlangt, dürfte die Freigabe der ETH nach Einreichung der Unterlagen erneut geprüft werden. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Aave: audience reportée sur 71 M$ d’ETH gelés, un juge de NY veut plus d’éléments",
+        "excerpt": "Un juge de New York a reporté la demande d’Aave visant à débloquer 71 M$ en ETH et réclamé des précisions sur de possibles pertes composées.",
+        "body": "Un tribunal de New York a reporté l’audience sur la demande d’Aave visant à débloquer 71 millions de dollars en ETH. Le juge a ordonné des mémoires supplémentaires, estimant qu’Aave n’avait pas suffisamment expliqué comment des pertes composées pourraient survenir si l’avis restrictif actuel restait en place. L’enjeu central est de comprendre comment la restriction juridique visant les ETH gelés pourrait produire la structure de pertes décrite par Aave. Le tribunal ayant demandé des précisions avant d’aller plus loin, la question du dégel des ETH devrait être réexaminée après le dépôt des documents complémentaires. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "تأجيل جلسة Aave لفك تجميد 71 مليون دولار من ETH بأمر قاض في نيويورك",
+        "excerpt": "أجل قاض في نيويورك طلب Aave لفك تجميد 71 مليون دولار من ETH، وطلب توضيحات إضافية حول كيفية حدوث خسائر مركبة إذا استمر إشعار التقييد.",
+        "body": "أجلت محكمة في نيويورك جلسة النظر في طلب Aave لفك تجميد 71 مليون دولار من ETH. وأمر القاضي بتقديم مذكرات تكميلية بعدما رأى أن Aave لم توضح بما يكفي كيف يمكن أن تنشأ خسائر مركبة إذا ظل إشعار التقييد الحالي قائما. وتتمحور القضية حول كيفية تحول القيد القانوني المفروض على ETH المجمدة إلى بنية الخسائر التي وصفتها Aave. وبما أن المحكمة طلبت مزيدا من التفاصيل قبل المضي قدما، فمن المتوقع إعادة النظر في مسألة فك التجميد بعد تقديم الملفات الإضافية. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "Aave की $71M ETH अनफ्रीज सुनवाई टली, न्यूयॉर्क जज ने और ब्रीफ मांगे",
+        "excerpt": "न्यूयॉर्क के जज ने Aave की $71 मिलियन ETH अनफ्रीज याचिका पर सुनवाई टाल दी और पूछा कि restraining notice रहने पर नुकसान कैसे चक्रवृद्धि हो सकता है।",
+        "body": "न्यूयॉर्क की एक अदालत ने Aave की $71 मिलियन मूल्य की ETH अनफ्रीज करने की मांग पर सुनवाई टाल दी है। जज ने अतिरिक्त लिखित दलीलें दाखिल करने का आदेश दिया, क्योंकि Aave ने यह पर्याप्त रूप से नहीं बताया कि मौजूदा restraining notice लागू रहने पर नुकसान चक्रवृद्धि रूप से कैसे बढ़ सकता है। इस मामले का मुख्य प्रश्न यह है कि फ्रीज की गई ETH पर कानूनी रोक जारी रहने से Aave द्वारा बताए गए नुकसान की संरचना कैसे जमा हो सकती है। अदालत ने आगे बढ़ने से पहले और विवरण मांगे हैं, इसलिए ETH अनफ्रीज होगी या नहीं, यह अतिरिक्त दस्तावेजों के बाद फिर से देखा जाएगा। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Sidang Aave soal ETH $71 Juta Dibekukan Ditunda Hakim New York",
+        "excerpt": "Hakim New York menunda permintaan Aave untuk mencairkan ETH senilai $71 juta dan meminta rincian tambahan tentang potensi kerugian majemuk.",
+        "body": "Pengadilan New York menunda sidang atas permintaan Aave untuk mencairkan ETH senilai $71 juta. Hakim memerintahkan pengajuan dokumen tambahan karena menilai Aave belum cukup menjelaskan bagaimana kerugian majemuk dapat terjadi jika pemberitahuan pembatasan saat ini tetap berlaku. Inti perkara ini adalah bagaimana pembatasan hukum atas ETH yang dibekukan dapat menyebabkan struktur kerugian seperti yang dijelaskan Aave. Karena pengadilan meminta penjelasan tambahan sebelum melanjutkan, keputusan apakah ETH tersebut akan dicairkan diperkirakan akan ditinjau kembali setelah dokumen tambahan diajukan. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "2980b23033d2",
+    "slug": "trumps-white-house-weighs-250-pardons-to-celebrate-americas--424118",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T09:20:10.622Z",
+    "updatedAt": "2026-05-14T09:20:10.622Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/trump-weighs-250-pardons-as-crypto-founders-seek-clemency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/trump-weighs-250-pardons-as-crypto-founders-seek-clemency",
+    "titleFingerprint": "d8494f20fc397912039006627e111774392a4aa5",
+    "dedupKeys": [
+      "2980b23033d25907251f0792ab3ea8f9bec18e54",
+      "d8494f20fc397912039006627e111774392a4aa5",
+      "4e62de871220cfa3cdab67e9ac00174f675ce085"
+    ],
+    "imageUrl": "/images/articles/2980b23033d2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프 백악관, 미국 250주년 맞아 250명 사면 검토",
+        "excerpt": "트럼프 백악관이 미국 건국 250주년을 기념해 250명 사면을 검토하는 가운데, 사무라이 월렛 개발자와 샘 뱅크먼-프리드가 사면 기대를 드러냈다.",
+        "body": "트럼프 백악관이 미국의 250번째 생일을 기념하기 위해 250명 규모의 사면을 검토하고 있다고 코인텔레그래프가 보도했다. 보도에 따르면 암호화폐 믹싱 프로토콜 사무라이 월렛 개발자 중 한 명은 공개적으로 사면에 대한 기대를 밝혔다. FTX 창업자 샘 뱅크먼-프리드도 함께 언급됐다. 이번 논의는 미국 250주년이라는 상징적 시점과 맞물려 사면 대상에 관심을 모으고 있다. 다만 원문은 사면이 확정됐다고 전하지 않았으며, 검토 단계라는 점을 강조했다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "Trump White House Weighs 250 Pardons for America’s 250th Birthday",
+        "excerpt": "The Trump White House is weighing 250 pardons for America’s 250th birthday, while a Samourai Wallet developer and Sam Bankman-Fried have expressed hopes for clemency.",
+        "body": "The Trump White House is considering 250 pardons to mark America’s 250th birthday, Cointelegraph reported. According to the report, one developer behind the crypto-mixing protocol Samourai Wallet has publicly expressed hopes for a pardon. FTX founder Sam Bankman-Fried was also mentioned in connection with clemency hopes. The discussion has drawn attention because the proposed number of pardons matches the symbolic 250th anniversary. However, the original report did not say the pardons had been approved, describing the matter as under consideration. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "トランプ政権、米国250周年で250人恩赦を検討",
+        "excerpt": "トランプ政権のホワイトハウスが米国250周年を記念して250人の恩赦を検討する中、サムライウォレット開発者とSBFが期待を示した。",
+        "body": "トランプ政権のホワイトハウスが、米国の250回目の誕生日を記念するため250人規模の恩赦を検討していると、Cointelegraphが報じた。報道によると、暗号資産ミキシングプロトコルであるサムライウォレットの開発者の一人が、恩赦への期待を公に表明した。FTX創業者のサム・バンクマン＝フリードも同様に言及された。今回の議論は、米国250周年という象徴的な節目と重なり、対象者への関心を集めている。ただし原文は恩赦が確定したとは伝えておらず、検討段階だとしている。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "特朗普白宫考虑为美国250周年推出250项赦免",
+        "excerpt": "特朗普白宫正考虑为美国建国250周年实施250项赦免，Samourai Wallet一名开发者及SBF已公开表达获得赦免的期待。",
+        "body": "据 Cointelegraph 报道，特朗普白宫正在考虑以250项赦免来纪念美国第250个生日。报道指出，加密混币协议 Samourai Wallet 背后的一名开发者已公开表达希望获得赦免。FTX 创始人山姆·班克曼-弗里德也被一同提及。由于赦免数量与美国250周年这一象征性时间点相对应，该议题引发关注。不过，原文并未称赦免已经确定，而是强调此事仍处于考虑阶段。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Casa Blanca de Trump sopesa 250 indultos por los 250 años de EE. UU.",
+        "excerpt": "La Casa Blanca de Trump evalúa 250 indultos por el 250 aniversario de EE. UU.; un desarrollador de Samourai Wallet y Sam Bankman-Fried esperan clemencia.",
+        "body": "La Casa Blanca de Trump está considerando 250 indultos para conmemorar el 250 cumpleaños de Estados Unidos, informó Cointelegraph. Según el reporte, uno de los desarrolladores detrás del protocolo de mezcla cripto Samourai Wallet expresó públicamente su esperanza de recibir un indulto. También se mencionó al fundador de FTX, Sam Bankman-Fried, en relación con expectativas de clemencia. La discusión atrae atención porque la cifra propuesta coincide con el aniversario número 250. Sin embargo, el texto original no afirma que los indultos estén aprobados, sino que siguen bajo consideración. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Casa Branca de Trump avalia 250 perdões pelos 250 anos dos EUA",
+        "excerpt": "A Casa Branca de Trump avalia 250 perdões para o aniversário de 250 anos dos EUA; desenvolvedor da Samourai Wallet e SBF esperam clemência.",
+        "body": "A Casa Branca de Trump está considerando 250 perdões para marcar o 250º aniversário dos Estados Unidos, informou a Cointelegraph. Segundo a reportagem, um dos desenvolvedores por trás do protocolo de mistura de cripto Samourai Wallet expressou publicamente esperança de receber perdão. O fundador da FTX, Sam Bankman-Fried, também foi mencionado junto a essas expectativas de clemência. A discussão chama atenção porque o número de perdões corresponde ao marco simbólico dos 250 anos. No entanto, o texto original não afirma que os perdões foram aprovados; trata-se de uma avaliação. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "Trumps Weißes Haus prüft 250 Begnadigungen zu Amerikas 250. Geburtstag",
+        "excerpt": "Das Weiße Haus unter Trump prüft 250 Begnadigungen zum 250. Geburtstag der USA; ein Samourai-Wallet-Entwickler und Sam Bankman-Fried hoffen darauf.",
+        "body": "Das Weiße Haus unter Trump erwägt 250 Begnadigungen, um den 250. Geburtstag der Vereinigten Staaten zu würdigen, berichtete Cointelegraph. Dem Bericht zufolge hat einer der Entwickler hinter dem Krypto-Mixing-Protokoll Samourai Wallet öffentlich Hoffnung auf eine Begnadigung geäußert. Auch FTX-Gründer Sam Bankman-Fried wurde in diesem Zusammenhang genannt. Die Diskussion zieht Aufmerksamkeit auf sich, weil die geplante Zahl der Begnadigungen mit dem symbolischen 250-jährigen Jubiläum übereinstimmt. Der Originalbericht sagt jedoch nicht, dass die Begnadigungen beschlossen sind, sondern beschreibt sie als in Prüfung. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "La Maison-Blanche de Trump envisage 250 grâces pour les 250 ans des États-Unis",
+        "excerpt": "La Maison-Blanche de Trump envisage 250 grâces pour les 250 ans des États-Unis; un développeur de Samourai Wallet et Sam Bankman-Fried espèrent une clémence.",
+        "body": "La Maison-Blanche de Trump envisage 250 grâces afin de marquer le 250e anniversaire des États-Unis, a rapporté Cointelegraph. Selon l’article, l’un des développeurs du protocole de mixage crypto Samourai Wallet a publiquement exprimé l’espoir d’obtenir une grâce. Le fondateur de FTX, Sam Bankman-Fried, a également été mentionné dans ce contexte. Le sujet attire l’attention parce que le nombre de grâces correspond au jalon symbolique des 250 ans. Toutefois, le texte original n’indique pas que ces grâces sont approuvées; il précise qu’elles sont à l’étude. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "بيت ترامب الأبيض يدرس 250 عفوا بمناسبة الذكرى 250 لأمريكا",
+        "excerpt": "يدرس البيت الأبيض في عهد ترامب 250 عفوا بمناسبة عيد أمريكا الـ250، بينما أعرب مطور في Samourai Wallet وسام بانكمان-فريد عن أملهم في العفو.",
+        "body": "يدرس البيت الأبيض في عهد ترامب إصدار 250 عفوا للاحتفال بعيد الولايات المتحدة الـ250، بحسب ما أوردته Cointelegraph. ووفقا للتقرير، أعرب أحد المطورين وراء بروتوكول خلط العملات المشفرة Samourai Wallet علنا عن أمله في الحصول على عفو. كما ورد اسم مؤسس FTX سام بانكمان-فريد ضمن السياق نفسه. يجذب النقاش الانتباه لأن عدد قرارات العفو المقترح يتطابق مع الذكرى الرمزية الـ250. لكن التقرير الأصلي لم يقل إن العفو قد أقر، بل أوضح أن الأمر قيد الدراسة. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "ट्रंप व्हाइट हाउस अमेरिका की 250वीं वर्षगांठ पर 250 माफियां विचाराधीन",
+        "excerpt": "ट्रंप व्हाइट हाउस अमेरिका की 250वीं वर्षगांठ पर 250 माफियों पर विचार कर रहा है; Samourai Wallet डेवलपर और SBF ने क्षमादान की उम्मीद जताई।",
+        "body": "Cointelegraph के अनुसार, ट्रंप व्हाइट हाउस अमेरिका के 250वें जन्मदिन को चिह्नित करने के लिए 250 माफियों पर विचार कर रहा है। रिपोर्ट में कहा गया कि क्रिप्टो-मिक्सिंग प्रोटोकॉल Samourai Wallet के पीछे के एक डेवलपर ने सार्वजनिक रूप से क्षमादान की उम्मीद जताई है। FTX के संस्थापक सैम बैंकमैन-फ्रीड का भी इसी संदर्भ में उल्लेख हुआ। यह चर्चा इसलिए ध्यान खींच रही है क्योंकि प्रस्तावित माफियों की संख्या 250वीं वर्षगांठ से मेल खाती है। हालांकि, मूल रिपोर्ट ने यह नहीं कहा कि माफियां मंजूर हो गई हैं; मामला अभी विचाराधीन है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Gedung Putih Trump Pertimbangkan 250 Pengampunan untuk HUT AS ke-250",
+        "excerpt": "Gedung Putih Trump mempertimbangkan 250 pengampunan untuk HUT AS ke-250; pengembang Samourai Wallet dan Sam Bankman-Fried berharap mendapat grasi.",
+        "body": "Gedung Putih Trump sedang mempertimbangkan 250 pengampunan untuk menandai ulang tahun Amerika Serikat yang ke-250, menurut laporan Cointelegraph. Dalam laporan itu, salah satu pengembang di balik protokol pencampur kripto Samourai Wallet secara terbuka menyatakan harapan mendapat pengampunan. Pendiri FTX Sam Bankman-Fried juga disebut dalam konteks harapan grasi tersebut. Isu ini menarik perhatian karena jumlah pengampunan yang dipertimbangkan sesuai dengan momentum simbolis 250 tahun AS. Namun, laporan asli tidak menyatakan pengampunan sudah disetujui, melainkan masih dalam tahap pertimbangan. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "fbc1a91a26e0",
+    "slug": "moodys-awards-top-rating-to-fidelity-and-blackrocks-tokenize-856959",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T09:19:02.556Z",
+    "updatedAt": "2026-05-14T09:19:02.556Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
+    "titleFingerprint": "87f5dfd8ec266b4ca71245ec380d7998da2b17f5",
+    "dedupKeys": [
+      "fbc1a91a26e0a809da76ec6f8ffcd6fc6bd080d5",
+      "87f5dfd8ec266b4ca71245ec380d7998da2b17f5",
+      "c8551132e1ee220f5b571d1b0dd3b99c7703932b"
+    ],
+    "imageUrl": "/images/articles/fbc1a91a26e0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "무디스 AAA 평가, 피델리티·블랙록 토큰화 머니마켓펀드 주목",
+        "excerpt": "무디스가 피델리티와 블랙록의 토큰화 머니마켓펀드에 최고 등급인 AAA를 부여하며 신용 품질, 유동성, 자본 보존 수준이 매우 높다고 평가했다.",
+        "body": "무디스가 피델리티와 블랙록의 토큰화 머니마켓펀드에 최고 등급인 AAA를 부여했다고 CoinDesk가 보도했다. 이번 평가는 해당 펀드가 신용 품질, 유동성, 자본 보존 측면에서 가장 높은 수준으로 평가됐다는 의미다. 토큰화 머니마켓펀드는 전통 금융 상품을 블록체인 기반 형태로 제공하는 흐름 속에서 주목받고 있다. 무디스의 AAA 평가는 투자자가 펀드의 안정성과 유동성을 판단할 때 참고할 수 있는 핵심 신호로 해석된다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Moody’s AAA Rating Puts Fidelity and BlackRock Tokenized Funds in Focus",
+        "excerpt": "Moody’s gave Fidelity and BlackRock’s tokenized money market funds its top AAA rating, signaling the highest credit quality, liquidity and capital preservation.",
+        "body": "Moody’s has assigned its top AAA rating to tokenized money market funds from Fidelity and BlackRock, CoinDesk reported. The rating means the funds are viewed at the highest level for credit quality, liquidity and capital preservation. Tokenized money market funds are drawing attention as traditional financial products are offered in blockchain-based form. Moody’s AAA rating is a key signal investors can use when assessing the funds’ stability and liquidity. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "ムーディーズAAA評価、フィデリティとブラックロックのトークン化MMFに注目",
+        "excerpt": "ムーディーズはフィデリティとブラックロックのトークン化マネーマーケットファンドに最高格付けAAAを付与し、信用力、流動性、資本保全の高さを示した。",
+        "body": "ムーディーズがフィデリティとブラックロックのトークン化マネーマーケットファンドに最高格付けAAAを付与したとCoinDeskが報じた。この格付けは、同ファンドが信用力、流動性、資本保全の面で最も高い水準と評価されたことを意味する。トークン化マネーマーケットファンドは、従来型金融商品をブロックチェーン基盤で提供する流れの中で注目されている。ムーディーズのAAA評価は、投資家が安定性と流動性を判断する際の重要な手掛かりとなる。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "穆迪AAA评级聚焦富达与贝莱德代币化货币市场基金",
+        "excerpt": "穆迪授予富达和贝莱德的代币化货币市场基金最高AAA评级，显示其在信用质量、流动性和资本保全方面处于最高水平。",
+        "body": "据CoinDesk报道，穆迪已向富达和贝莱德的代币化货币市场基金授予最高AAA评级。该评级意味着这些基金在信用质量、流动性和资本保全方面被评为最高水平。代币化货币市场基金正因将传统金融产品以区块链形式提供而受到关注。穆迪的AAA评级可被视为投资者评估基金稳定性和流动性时的重要信号。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Moody’s otorga AAA a fondos tokenizados de Fidelity y BlackRock",
+        "excerpt": "Moody’s concedió la máxima calificación AAA a los fondos monetarios tokenizados de Fidelity y BlackRock, señalando alta calidad crediticia, liquidez y preservación de capital.",
+        "body": "Moody’s otorgó su máxima calificación AAA a los fondos del mercado monetario tokenizados de Fidelity y BlackRock, informó CoinDesk. La nota indica que los fondos son evaluados en el nivel más alto de calidad crediticia, liquidez y preservación de capital. Los fondos monetarios tokenizados ganan atención a medida que productos financieros tradicionales se ofrecen en formato basado en blockchain. La calificación AAA de Moody’s es una señal clave para que los inversores evalúen estabilidad y liquidez. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Moody’s dá AAA a fundos tokenizados da Fidelity e BlackRock",
+        "excerpt": "A Moody’s atribuiu nota máxima AAA aos fundos de mercado monetário tokenizados da Fidelity e da BlackRock, indicando elevada qualidade de crédito, liquidez e preservação de capital.",
+        "body": "A Moody’s atribuiu sua nota máxima AAA aos fundos de mercado monetário tokenizados da Fidelity e da BlackRock, segundo a CoinDesk. A classificação significa que os fundos foram avaliados no nível mais alto em qualidade de crédito, liquidez e preservação de capital. Fundos monetários tokenizados ganham atenção com a oferta de produtos financeiros tradicionais em formato baseado em blockchain. A nota AAA da Moody’s é um sinal relevante para investidores avaliarem estabilidade e liquidez. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Moody’s AAA-Rating rückt Fidelity- und BlackRock-Tokenfonds in Fokus",
+        "excerpt": "Moody’s vergab das höchste AAA-Rating an tokenisierte Geldmarktfonds von Fidelity und BlackRock und signalisiert damit höchste Kreditqualität, Liquidität und Kapitalerhalt.",
+        "body": "Moody’s hat tokenisierten Geldmarktfonds von Fidelity und BlackRock das höchste AAA-Rating verliehen, berichtete CoinDesk. Die Bewertung bedeutet, dass die Fonds bei Kreditqualität, Liquidität und Kapitalerhalt auf dem höchsten Niveau eingestuft werden. Tokenisierte Geldmarktfonds rücken in den Fokus, weil traditionelle Finanzprodukte in blockchainbasierter Form angeboten werden. Das AAA-Rating von Moody’s ist ein wichtiges Signal für Anleger, die Stabilität und Liquidität der Fonds beurteilen. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Moody’s attribue AAA aux fonds tokenisés de Fidelity et BlackRock",
+        "excerpt": "Moody’s a accordé la note maximale AAA aux fonds monétaires tokenisés de Fidelity et BlackRock, signalant une qualité de crédit, une liquidité et une préservation du capital très élevées.",
+        "body": "Moody’s a attribué sa note maximale AAA aux fonds du marché monétaire tokenisés de Fidelity et BlackRock, selon CoinDesk. Cette note signifie que les fonds sont évalués au plus haut niveau en matière de qualité de crédit, de liquidité et de préservation du capital. Les fonds monétaires tokenisés attirent l’attention alors que des produits financiers traditionnels sont proposés sous forme basée sur la blockchain. La note AAA de Moody’s constitue un signal clé pour évaluer stabilité et liquidité. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "موديز تمنح AAA لصناديق فيديليتي وبلاك روك النقدية المرمزة",
+        "excerpt": "منحت موديز صناديق سوق النقد المرمزة التابعة لفيديليتي وبلاك روك أعلى تصنيف AAA، في إشارة إلى أعلى مستويات جودة الائتمان والسيولة والحفاظ على رأس المال.",
+        "body": "منحت موديز أعلى تصنيف لها، AAA، لصناديق سوق النقد المرمزة التابعة لفيديليتي وبلاك روك، وفق ما نقلته CoinDesk. ويعني التصنيف أن هذه الصناديق قيّمت عند أعلى مستوى من حيث جودة الائتمان والسيولة والحفاظ على رأس المال. وتستقطب صناديق سوق النقد المرمزة الاهتمام مع تقديم منتجات مالية تقليدية بصيغة قائمة على البلوكشين. ويعد تصنيف موديز AAA إشارة رئيسية يمكن للمستثمرين الاستناد إليها عند تقييم الاستقرار والسيولة. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "Moody’s AAA रेटिंग से Fidelity और BlackRock के टोकनाइज्ड फंड चर्चा में",
+        "excerpt": "Moody’s ने Fidelity और BlackRock के टोकनाइज्ड मनी मार्केट फंड्स को शीर्ष AAA रेटिंग दी, जो उच्चतम क्रेडिट गुणवत्ता, तरलता और पूंजी संरक्षण का संकेत है।",
+        "body": "CoinDesk के अनुसार, Moody’s ने Fidelity और BlackRock के टोकनाइज्ड मनी मार्केट फंड्स को अपनी शीर्ष AAA रेटिंग दी है। यह रेटिंग बताती है कि इन फंड्स को क्रेडिट गुणवत्ता, तरलता और पूंजी संरक्षण के लिहाज से उच्चतम स्तर पर आंका गया है। टोकनाइज्ड मनी मार्केट फंड्स पारंपरिक वित्तीय उत्पादों को ब्लॉकचेन आधारित रूप में उपलब्ध कराने की प्रवृत्ति के बीच ध्यान खींच रहे हैं। Moody’s की AAA रेटिंग निवेशकों के लिए स्थिरता और तरलता का आकलन करने का अहम संकेत है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Moody’s Beri AAA untuk Dana Tokenisasi Fidelity dan BlackRock",
+        "excerpt": "Moody’s memberi peringkat tertinggi AAA pada dana pasar uang tokenisasi Fidelity dan BlackRock, menandakan kualitas kredit, likuiditas, dan pelestarian modal tertinggi.",
+        "body": "Moody’s memberikan peringkat tertinggi AAA kepada dana pasar uang tokenisasi milik Fidelity dan BlackRock, menurut CoinDesk. Peringkat ini berarti dana tersebut dinilai berada pada level tertinggi dalam kualitas kredit, likuiditas, dan pelestarian modal. Dana pasar uang tokenisasi menarik perhatian seiring produk keuangan tradisional ditawarkan dalam bentuk berbasis blockchain. Peringkat AAA dari Moody’s menjadi sinyal penting bagi investor saat menilai stabilitas dan likuiditas dana tersebut. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
     "id": "13c5ea6050f2",
     "slug": "인사-보건복지부-안전보건공단-국가유산진흥원-등-501776",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Pembeli Bitcoin Berkeyakinan Naikkan Kepemilikan 300%, Pembeli Baru Untung",
         "excerpt": "Bitcoin yang dipegang pembeli jangka panjang dengan “keyakinan” naik sekitar 300% sejak akhir 2025 hingga hampir 4 juta BTC, sementara sebagian besar pembeli terbaru masih untung.",
         "body": "Di pasar Bitcoin, kepemilikan oleh pembeli jangka panjang yang disebut memiliki “keyakinan” baru-baru ini mendekati 4 juta BTC. Angka itu naik sekitar 300% sejak akhir 2025. Menurut laporan asli, sebagian besar investor yang membeli Bitcoin belakangan ini juga berada dalam posisi untung. Peningkatan kepemilikan oleh pembeli berkeyakinan, bersama keuntungan pembeli baru, menunjukkan basis permintaan Bitcoin lebih condong ke arah menyimpan aset daripada perdagangan jangka pendek. Namun, data utama dalam artikel terbatas pada kenaikan kepemilikan dan status keuntungan pembeli terbaru. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "8068c6ee7a03",
-    "slug": "uk-parliament-to-probe-nigel-farages-68-million-donation-fro-321131",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-13T17:02:41.856Z",
-    "updatedAt": "2026-05-13T17:02:41.856Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/policy/2026/05/13/uk-parliament-to-probe-nigel-farage-s-usd6-8-million-donation-from-crypto-billionaire",
-    "canonicalUrl": "https://www.coindesk.com/policy/2026/05/13/uk-parliament-to-probe-nigel-farage-s-usd6-8-million-donation-from-crypto-billionaire",
-    "titleFingerprint": "4d1b5edb41fef750854a77c41d95e6c1ca4b8a15",
-    "dedupKeys": [
-      "8068c6ee7a03954884a4c9658a7d9970f72147ae",
-      "4d1b5edb41fef750854a77c41d95e6c1ca4b8a15",
-      "65a6c0c63686c9da6d853753329401af5481e058"
-    ],
-    "imageUrl": "/images/articles/8068c6ee7a03.png",
-    "i18n": {
-      "ko": {
-        "title": "영국 의회, 나이절 패라지 680만달러 기부 의혹 조사",
-        "excerpt": "영국 의회가 리폼 UK 대표 나이절 패라지의 암호화폐 억만장자 680만달러 기부 관련 의회 행동강령 위반 여부를 조사한다.",
-        "body": "영국 의회가 리폼 UK 대표 나이절 패라지가 암호화폐 억만장자로부터 받은 680만달러 규모 기부와 관련해 의회 행동강령 위반 여부를 조사한다. 이번 조사는 해당 기부가 하원의원에게 적용되는 규정에 어긋났는지를 확인하는 절차다. 원문에 따르면 패라지가 의회 행동강령을 위반한 것으로 판단될 경우 하원에서 정직 처분을 받을 수 있다. 이번 사안은 정치 자금과 암호화폐 업계 자금의 접점이 의회 윤리 기준 안에서 어떻게 다뤄질지 주목받게 한다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "UK Parliament Probes Nigel Farage’s $6.8M Crypto Donation",
-        "excerpt": "The UK Parliament is investigating whether Reform UK leader Nigel Farage violated conduct rules over a $6.8 million donation from a crypto billionaire.",
-        "body": "The UK Parliament is investigating Reform UK leader Nigel Farage over a $6.8 million donation from a crypto billionaire and whether it breached the Parliamentary code of conduct. The probe will examine whether the donation conflicted with rules applying to members of the House of Commons. According to the original report, if Farage is found to have violated the Parliamentary code of conduct, he could be suspended from the House of Commons. The case puts attention on how political donations connected to the crypto sector are handled under parliamentary ethics rules. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "英議会、ファラージ氏の680万ドル暗号資産寄付を調査",
-        "excerpt": "英議会は、リフォームUK党首ナイジェル・ファラージ氏が暗号資産億万長者から受けた680万ドル寄付をめぐり行動規範違反の有無を調査する。",
-        "body": "英議会は、リフォームUK党首ナイジェル・ファラージ氏が暗号資産億万長者から受けた680万ドル規模の寄付について、議会の行動規範に違反したかどうかを調査する。今回の調査は、この寄付が下院議員に適用される規則に反していないかを確認する手続きだ。原文によると、ファラージ氏が議会行動規範に違反したと判断された場合、下院で停職処分を受ける可能性がある。政治資金と暗号資産業界の資金が議会倫理基準の中でどう扱われるかが注目される。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "英国议会调查法拉奇680万美元加密富豪捐款",
-        "excerpt": "英国议会正调查改革英国党领袖奈杰尔·法拉奇是否因收受加密货币亿万富豪680万美元捐款而违反议会行为准则。",
-        "body": "英国议会正在调查改革英国党领袖奈杰尔·法拉奇从一名加密货币亿万富豪处获得的680万美元捐款，并审查此事是否违反议会行为准则。此次调查将确认该笔捐款是否与适用于下议院议员的规则相冲突。根据原文报道，如果法拉奇被认定违反议会行为准则，他可能会被暂停下议院职务。该事件使政治捐款与加密货币行业资金之间的交集，以及其在议会伦理规则下如何处理，受到关注。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Parlamento británico investiga donación cripto a Nigel Farage",
-        "excerpt": "El Parlamento británico investiga si Nigel Farage, líder de Reform UK, violó el código de conducta por una donación de 6,8 millones de dólares de un multimillonario cripto.",
-        "body": "El Parlamento británico investiga al líder de Reform UK, Nigel Farage, por una donación de 6,8 millones de dólares recibida de un multimillonario de las criptomonedas y si esta infringió el código de conducta parlamentario. La investigación revisará si la donación entró en conflicto con las normas aplicables a los miembros de la Cámara de los Comunes. Según el reporte original, si se determina que Farage violó el código de conducta parlamentario, podría ser suspendido de la Cámara de los Comunes. El caso centra la atención en cómo se tratan las donaciones políticas vinculadas al sector cripto bajo las reglas éticas del Parlamento. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Parlamento do Reino Unido apura doação cripto a Nigel Farage",
-        "excerpt": "O Parlamento do Reino Unido investiga se Nigel Farage, líder do Reform UK, violou o código de conduta por uma doação de US$ 6,8 milhões de um bilionário cripto.",
-        "body": "O Parlamento do Reino Unido está investigando o líder do Reform UK, Nigel Farage, por uma doação de US$ 6,8 milhões recebida de um bilionário das criptomoedas e se ela violou o código de conduta parlamentar. A apuração verificará se a doação entrou em conflito com as regras aplicáveis aos membros da Câmara dos Comuns. Segundo o relatório original, se Farage for considerado culpado de violar o código de conduta parlamentar, poderá ser suspenso da Câmara dos Comuns. O caso chama atenção para como doações políticas ligadas ao setor cripto são tratadas pelas normas éticas do Parlamento. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Britisches Parlament prüft Farage-Spende von Krypto-Milliardär",
-        "excerpt": "Das britische Parlament untersucht, ob Reform-UK-Chef Nigel Farage wegen einer 6,8-Millionen-Dollar-Spende eines Krypto-Milliardärs gegen Verhaltensregeln verstieß.",
-        "body": "Das britische Parlament untersucht Reform-UK-Chef Nigel Farage wegen einer Spende über 6,8 Millionen Dollar von einem Krypto-Milliardär und prüft, ob sie gegen den parlamentarischen Verhaltenskodex verstieß. Die Untersuchung soll klären, ob die Spende mit den Regeln für Mitglieder des Unterhauses kollidierte. Dem Originalbericht zufolge könnte Farage aus dem House of Commons suspendiert werden, falls ein Verstoß gegen den parlamentarischen Verhaltenskodex festgestellt wird. Der Fall lenkt den Blick darauf, wie politische Spenden mit Bezug zur Kryptobranche unter den Ethikregeln des Parlaments behandelt werden. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Le Parlement britannique enquête sur un don crypto à Farage",
-        "excerpt": "Le Parlement britannique enquête pour savoir si Nigel Farage, chef de Reform UK, a enfreint le code de conduite avec un don de 6,8 millions de dollars d’un milliardaire crypto.",
-        "body": "Le Parlement britannique enquête sur Nigel Farage, chef de Reform UK, au sujet d’un don de 6,8 millions de dollars reçu d’un milliardaire des cryptomonnaies et sur une éventuelle violation du code de conduite parlementaire. L’enquête vérifiera si ce don contrevient aux règles applicables aux membres de la Chambre des communes. Selon le rapport original, si Farage est reconnu coupable d’avoir enfreint le code de conduite parlementaire, il pourrait être suspendu de la Chambre des communes. L’affaire met en lumière la manière dont les dons politiques liés au secteur crypto sont traités dans le cadre des règles éthiques du Parlement. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "البرلمان البريطاني يحقق في تبرع كريبتو لفاراج بـ6.8 مليون دولار",
-        "excerpt": "يحقق البرلمان البريطاني فيما إذا كان زعيم حزب ريفورم يو كيه نايجل فاراج قد خالف قواعد السلوك بسبب تبرع بقيمة 6.8 مليون دولار من ملياردير كريبتو.",
-        "body": "يحقق البرلمان البريطاني مع زعيم حزب ريفورم يو كيه نايجل فاراج بشأن تبرع بقيمة 6.8 مليون دولار تلقاه من ملياردير في قطاع العملات المشفرة، وما إذا كان ذلك قد خالف مدونة السلوك البرلمانية. وستفحص التحقيقات ما إذا كان التبرع يتعارض مع القواعد المطبقة على أعضاء مجلس العموم. ووفق التقرير الأصلي، إذا ثبت أن فاراج انتهك مدونة السلوك البرلمانية، فقد يواجه الإيقاف عن مجلس العموم. وتسلط القضية الضوء على كيفية التعامل مع التبرعات السياسية المرتبطة بقطاع الكريبتو ضمن معايير الأخلاقيات البرلمانية. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "ब्रिटिश संसद ने फाराज को मिले 68 लाख डॉलर क्रिप्टो दान की जांच शुरू की",
-        "excerpt": "ब्रिटिश संसद जांच कर रही है कि रिफॉर्म यूके नेता नाइजल फाराज ने क्रिप्टो अरबपति से मिले 68 लाख डॉलर के दान पर आचार संहिता तोड़ी या नहीं।",
-        "body": "ब्रिटिश संसद रिफॉर्म यूके के नेता नाइजल फाराज की जांच कर रही है। मामला एक क्रिप्टो अरबपति से मिले 68 लाख डॉलर के दान से जुड़ा है और यह देखा जाएगा कि क्या इससे संसदीय आचार संहिता का उल्लंघन हुआ। जांच यह परखेगी कि यह दान हाउस ऑफ कॉमन्स के सदस्यों पर लागू नियमों से टकराता है या नहीं। मूल रिपोर्ट के अनुसार, यदि फाराज को संसदीय आचार संहिता का उल्लंघन करने का दोषी पाया गया, तो उन्हें हाउस ऑफ कॉमन्स से निलंबित किया जा सकता है। यह मामला दिखाता है कि क्रिप्टो क्षेत्र से जुड़े राजनीतिक दान को संसदीय नैतिक नियमों के तहत कैसे देखा जाता है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Parlemen Inggris Selidiki Donasi Kripto US$6,8 Juta ke Farage",
-        "excerpt": "Parlemen Inggris menyelidiki apakah pemimpin Reform UK Nigel Farage melanggar kode etik terkait donasi US$6,8 juta dari miliarder kripto.",
-        "body": "Parlemen Inggris sedang menyelidiki pemimpin Reform UK Nigel Farage terkait donasi senilai US$6,8 juta dari seorang miliarder kripto dan apakah hal itu melanggar kode etik Parlemen. Penyelidikan ini akan menilai apakah donasi tersebut bertentangan dengan aturan yang berlaku bagi anggota House of Commons. Menurut laporan asli, jika Farage terbukti melanggar kode etik Parlemen, ia dapat diskors dari House of Commons. Kasus ini menyoroti bagaimana donasi politik yang terkait dengan sektor kripto diperlakukan dalam kerangka aturan etika Parlemen. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "a11e7b582e9c",
-    "slug": "metaplanet-delays-preferred-share-listing-amid-challenging-j-630935",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-13T17:01:43.566Z",
-    "updatedAt": "2026-05-13T17:01:43.566Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure",
-    "titleFingerprint": "02c2979fa906fe4de3f0e493e4a9c1e35dad8d91",
-    "dedupKeys": [
-      "a11e7b582e9cc4be3a195b64da7d8dede8066e1e",
-      "02c2979fa906fe4de3f0e493e4a9c1e35dad8d91",
-      "15b75b02983be0a9dd7958057adf40228daaefdc"
-    ],
-    "imageUrl": "/images/articles/a11e7b582e9c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "메타플래닛 우선주 상장 지연, 일본 시장 구조 난관이 변수로",
-        "excerpt": "메타플래닛 CEO 사이먼 게로비치는 일본의 규제와 시장 인프라 문제가 영구 우선주 출시를 늦추고 있다고 밝혔다.",
-        "body": "메타플래닛의 영구 우선주 상장 일정이 일본 시장 구조의 제약 속에 지연되고 있다. CEO 사이먼 게로비치는 해당 상품 출시가 규제 요건과 거래 인프라 관련 과제 때문에 예상보다 늦어지고 있다고 설명했다. 이 우선주는 회사가 추진해 온 자금 조달 수단 중 하나로, 일본 내 상장 절차와 시장 운영 체계가 핵심 변수로 떠올랐다. 현재 공개된 내용은 출시 지연의 배경이 규제와 인프라 문제라는 점에 집중돼 있으며, 구체적인 새 일정은 제시되지 않았다. 이번 지연은 일본 시장에서 새로운 유형의 금융상품을 도입할 때 제도와 실무 기반이 얼마나 중요한지 보여준다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Metaplanet Preferred Share Listing Delayed by Japan Market Hurdles",
-        "excerpt": "Metaplanet CEO Simon Gerovich said regulatory and infrastructure challenges in Japan are slowing the launch of the company’s perpetual preferred share.",
-        "body": "Metaplanet’s planned listing of a perpetual preferred share has been delayed as the company faces constraints in Japan’s market structure. CEO Simon Gerovich said the launch is taking longer than expected because of regulatory requirements and trading infrastructure challenges. The preferred share is one of the financing tools the company has been pursuing, but Japan’s listing process and market operating framework have become key factors. The information released so far focuses on regulation and infrastructure as the reasons for the delay, while no specific new timetable has been provided. The setback highlights how important institutional rules and practical market systems are when introducing new financial products in Japan. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "メタプラネット優先株上場が遅延、日本市場構造の課題が焦点",
-        "excerpt": "メタプラネットのサイモン・ゲロビッチCEOは、日本の規制と市場インフラ上の課題が永久優先株の開始を遅らせていると述べた。",
-        "body": "メタプラネットが計画する永久優先株の上場は、日本の市場構造上の制約を受けて遅れている。サイモン・ゲロビッチCEOは、この商品の開始が規制要件と取引インフラに関する課題により、想定より時間を要していると説明した。この優先株は同社が進めてきた資金調達手段の一つだが、日本での上場手続きと市場運営体制が重要な変数となっている。現時点で公表されている内容は、遅延の背景が規制とインフラ問題にあるという点に限られ、具体的な新日程は示されていない。今回の遅れは、日本市場で新しい金融商品を導入する際、制度と実務基盤がいかに重要かを示している。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Metaplanet优先股上市推迟，日本市场结构挑战成关键",
-        "excerpt": "Metaplanet首席执行官Simon Gerovich表示，日本的监管和市场基础设施挑战正在拖慢该公司永久优先股的推出。",
-        "body": "Metaplanet计划上市的永久优先股正在因日本市场结构限制而推迟。首席执行官Simon Gerovich表示，该产品推出时间慢于预期，原因在于监管要求以及交易基础设施方面的挑战。该优先股是公司推进的融资工具之一，但日本的上市流程和市场运行体系已成为关键变量。目前披露的信息主要集中在延迟原因，即监管和基础设施问题，尚未公布具体的新时间表。此次推迟显示，在日本市场引入新型金融产品时，制度安排和实际市场基础设施具有重要影响。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Metaplanet retrasa su acción preferente por obstáculos en Japón",
-        "excerpt": "El CEO de Metaplanet, Simon Gerovich, dijo que los desafíos regulatorios y de infraestructura en Japón están ralentizando el lanzamiento de su acción preferente perpetua.",
-        "body": "La prevista cotización de la acción preferente perpetua de Metaplanet se ha retrasado por las limitaciones de la estructura del mercado japonés. El CEO Simon Gerovich explicó que el lanzamiento está tardando más de lo esperado debido a requisitos regulatorios y desafíos vinculados a la infraestructura de negociación. Esta acción preferente es una de las herramientas de financiación que la compañía venía impulsando, pero el proceso de cotización y el marco operativo del mercado en Japón se han convertido en factores clave. La información disponible se centra en la regulación y la infraestructura como causas del retraso, sin una nueva fecha concreta. El caso muestra la importancia de las reglas institucionales y los sistemas prácticos al introducir nuevos productos financieros en Japón. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Metaplanet adia ação preferencial por desafios do mercado japonês",
-        "excerpt": "O CEO da Metaplanet, Simon Gerovich, afirmou que desafios regulatórios e de infraestrutura no Japão estão atrasando o lançamento da ação preferencial perpétua.",
-        "body": "A listagem planejada da ação preferencial perpétua da Metaplanet foi adiada diante das limitações da estrutura do mercado japonês. O CEO Simon Gerovich disse que o lançamento está levando mais tempo do que o esperado por causa de exigências regulatórias e desafios ligados à infraestrutura de negociação. A ação preferencial é uma das ferramentas de financiamento que a empresa vinha buscando, mas o processo de listagem e o sistema operacional do mercado no Japão se tornaram fatores centrais. As informações divulgadas até agora apontam regulação e infraestrutura como motivos do atraso, sem indicar um novo cronograma específico. O adiamento mostra a importância das regras institucionais e da base prática de mercado para lançar novos produtos financeiros no Japão. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Metaplanet verschiebt Vorzugsaktie wegen Japans Marktstruktur",
-        "excerpt": "Metaplanet-CEO Simon Gerovich sagte, regulatorische Vorgaben und Infrastrukturprobleme in Japan verzögern den Start der unbefristeten Vorzugsaktie.",
-        "body": "Die geplante Notierung der unbefristeten Vorzugsaktie von Metaplanet verzögert sich wegen Einschränkungen in der japanischen Marktstruktur. CEO Simon Gerovich erklärte, der Start dauere länger als erwartet, da regulatorische Anforderungen und Herausforderungen bei der Handelsinfrastruktur bestehen. Die Vorzugsaktie gehört zu den Finanzierungsinstrumenten, die das Unternehmen verfolgt, doch Japans Listing-Prozess und der operative Marktrahmen sind zu entscheidenden Faktoren geworden. Die bisher veröffentlichten Angaben konzentrieren sich auf Regulierung und Infrastruktur als Gründe für die Verzögerung; ein konkreter neuer Zeitplan wurde nicht genannt. Der Fall zeigt, wie wichtig institutionelle Regeln und praktische Marktsysteme bei der Einführung neuer Finanzprodukte in Japan sind. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Metaplanet retarde son action préférentielle face aux défis japonais",
-        "excerpt": "Le PDG de Metaplanet, Simon Gerovich, a indiqué que les défis réglementaires et d’infrastructure au Japon ralentissent le lancement de l’action préférentielle perpétuelle.",
-        "body": "La cotation prévue de l’action préférentielle perpétuelle de Metaplanet est retardée en raison des contraintes liées à la structure du marché japonais. Le PDG Simon Gerovich a expliqué que le lancement prend plus de temps que prévu à cause des exigences réglementaires et des défis touchant l’infrastructure de négociation. Cette action préférentielle fait partie des outils de financement poursuivis par l’entreprise, mais le processus de cotation et le cadre opérationnel du marché au Japon sont devenus des facteurs clés. Les informations publiées jusqu’ici mettent l’accent sur la réglementation et l’infrastructure comme causes du retard, sans fournir de nouveau calendrier précis. Ce retard montre l’importance des règles institutionnelles et des systèmes de marché concrets lors de l’introduction de nouveaux produits financiers au Japon. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "تأجيل إدراج سهم Metaplanet الممتاز بسبب تحديات السوق الياباني",
-        "excerpt": "قال الرئيس التنفيذي لشركة Metaplanet سايمون غيروفيتش إن التحديات التنظيمية ومشكلات البنية التحتية في اليابان تبطئ إطلاق السهم الممتاز الدائم للشركة.",
-        "body": "تأجلت خطة Metaplanet لإدراج سهم ممتاز دائم في ظل قيود مرتبطة ببنية السوق الياباني. وأوضح الرئيس التنفيذي سايمون غيروفيتش أن إطلاق المنتج يستغرق وقتا أطول من المتوقع بسبب المتطلبات التنظيمية وتحديات البنية التحتية للتداول. ويعد هذا السهم الممتاز أحد أدوات التمويل التي تسعى إليها الشركة، لكن إجراءات الإدراج في اليابان وإطار تشغيل السوق أصبحا عاملين حاسمين. المعلومات المنشورة حتى الآن تركز على التنظيم والبنية التحتية كسببين للتأخير، من دون تقديم جدول زمني جديد محدد. ويبرز هذا التأجيل أهمية القواعد المؤسسية والأنظمة العملية للسوق عند إدخال منتجات مالية جديدة في اليابان. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Metaplanet प्रेफर्ड शेयर लिस्टिंग टली, जापान बाजार ढांचा बना बाधा",
-        "excerpt": "Metaplanet के CEO साइमन गेरोविच ने कहा कि जापान में नियामकीय और इन्फ्रास्ट्रक्चर चुनौतियां कंपनी के परपेचुअल प्रेफर्ड शेयर लॉन्च को धीमा कर रही हैं।",
-        "body": "Metaplanet के परपेचुअल प्रेफर्ड शेयर की नियोजित लिस्टिंग जापान के बाजार ढांचे से जुड़ी सीमाओं के कारण टल रही है। CEO साइमन गेरोविच ने कहा कि इस उत्पाद का लॉन्च नियामकीय आवश्यकताओं और ट्रेडिंग इन्फ्रास्ट्रक्चर से जुड़ी चुनौतियों की वजह से अपेक्षा से अधिक समय ले रहा है। यह प्रेफर्ड शेयर कंपनी द्वारा आगे बढ़ाए जा रहे वित्तपोषण साधनों में से एक है, लेकिन जापान की लिस्टिंग प्रक्रिया और बाजार संचालन व्यवस्था अहम कारक बन गए हैं। अब तक जारी जानकारी में देरी का कारण नियमन और इन्फ्रास्ट्रक्चर बताया गया है, जबकि कोई नई निश्चित समयसीमा नहीं दी गई है। यह देरी दिखाती है कि जापान में नए वित्तीय उत्पाद पेश करते समय संस्थागत नियम और व्यावहारिक बाजार प्रणाली कितनी महत्वपूर्ण हैं। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Listing Saham Preferen Metaplanet Tertunda oleh Tantangan Jepang",
-        "excerpt": "CEO Metaplanet Simon Gerovich mengatakan tantangan regulasi dan infrastruktur di Jepang memperlambat peluncuran saham preferen perpetual perusahaan.",
-        "body": "Rencana listing saham preferen perpetual Metaplanet tertunda karena keterbatasan struktur pasar Jepang. CEO Simon Gerovich mengatakan peluncuran produk tersebut memakan waktu lebih lama dari perkiraan akibat persyaratan regulasi dan tantangan infrastruktur perdagangan. Saham preferen ini merupakan salah satu instrumen pendanaan yang sedang diupayakan perusahaan, tetapi proses listing dan kerangka operasional pasar di Jepang menjadi faktor utama. Informasi yang tersedia sejauh ini menyoroti regulasi dan infrastruktur sebagai alasan penundaan, tanpa jadwal baru yang spesifik. Penundaan ini menunjukkan pentingnya aturan kelembagaan dan sistem pasar praktis saat memperkenalkan produk keuangan baru di Jepang. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "f68488f58d4b",
-    "slug": "the-protocol-solanas-alpenglow-upgrade-is-live-for-testing-444412",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-13T17:00:43.182Z",
-    "updatedAt": "2026-05-13T17:00:43.182Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
-    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
-    "titleFingerprint": "2b8d7ce9d0710ed00c1a6330ab60d72973d4d606",
-    "dedupKeys": [
-      "f68488f58d4b8a44993654b288ca37c985c6a931",
-      "2b8d7ce9d0710ed00c1a6330ab60d72973d4d606",
-      "34c60fb5521a7babcb55294b02d28993c7a9e5bd"
-    ],
-    "imageUrl": "/images/articles/f68488f58d4b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "솔라나 Alpenglow 테스트 시작, 합의 구조 대개편 본격화",
-        "excerpt": "솔라나 핵심 개발사 Anza는 5월 11일 Alpenglow가 커뮤니티 테스트 클러스터에서 가동됐다고 밝혔으며, 검증자들은 메인넷 전환 전 새 합의 구조를 시험한다.",
-        "body": "솔라나의 차세대 합의 업그레이드 Alpenglow가 5월 11일 커뮤니티 테스트 클러스터에서 가동되며 검증자 테스트 단계에 들어갔다. 핵심 개발사 Anza는 이를 솔라나 역사상 가장 큰 합의 변경이라고 설명했다. 현재 솔라나는 지분증명, TowerBFT, Proof-of-History를 결합해 운영되지만, Alpenglow는 검증자 간 통신과 블록 확정을 더 빠르고 효율적으로 만드는 새 구조를 목표로 한다. 테스트는 메인넷 적용 전 검증자 소프트웨어가 기존 절차에서 Alpenglow로 전환될 수 있는지 확인하는 과정이다. CoinDesk는 이번 The Protocol에서 LayerZero의 사과, Ronin의 레이어2 전환, Clear Signing도 함께 다뤘다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Solana Alpenglow Testing Begins as Consensus Overhaul Advances",
-        "excerpt": "Solana core developer Anza said on May 11 that Alpenglow is live on a community test cluster, giving validators a chance to test the new consensus design before mainnet.",
-        "body": "Solana’s next-generation consensus upgrade, Alpenglow, went live on a community test cluster on May 11, moving into validator testing. Core developer Anza described it as the biggest consensus change in Solana’s history. Solana currently relies on a combination of proof-of-stake, TowerBFT and Proof-of-History, while Alpenglow aims to make validator communication and block finality faster and more efficient. The test phase checks whether validator software can transition from the existing process to Alpenglow before any mainnet rollout. CoinDesk’s The Protocol also covered LayerZero’s apology, Ronin’s layer-2 transition and Clear Signing. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "SolanaのAlpenglowテスト開始、合意形成の大改修が前進",
-        "excerpt": "Solanaの中核開発者Anzaは5月11日、Alpenglowがコミュニティテストクラスターで稼働したと発表し、検証者はメインネット前に新しい合意設計を試す。",
-        "body": "Solanaの次世代合意アップグレードAlpenglowは5月11日、コミュニティテストクラスターで稼働し、検証者によるテスト段階に入った。中核開発者Anzaは、これをSolana史上最大の合意変更だと説明した。現在のSolanaはプルーフ・オブ・ステーク、TowerBFT、Proof-of-Historyを組み合わせて運用されているが、Alpenglowは検証者間の通信とブロック確定をより速く効率的にする新構造を目指す。今回のテストは、メインネット適用前に検証者ソフトウェアが既存手順からAlpenglowへ移行できるかを確認するものだ。CoinDeskのThe ProtocolはLayerZeroの謝罪、Roninのレイヤー2移行、Clear Signingも扱った。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Solana Alpenglow启动测试，共识架构重大升级推进",
-        "excerpt": "Solana核心开发团队Anza于5月11日表示，Alpenglow已在社区测试集群上线，验证者将在主网部署前测试新的共识设计。",
-        "body": "Solana下一代共识升级Alpenglow于5月11日在社区测试集群上线，进入验证者测试阶段。核心开发团队Anza称，这是Solana历史上最大的共识变更。目前Solana结合权益证明、TowerBFT和Proof-of-History运行，而Alpenglow目标是让验证者通信和区块最终确认更快、更高效。本轮测试用于确认验证者软件能否在主网部署前，从现有流程切换到Alpenglow。CoinDesk在本期The Protocol中还提到LayerZero的道歉、Ronin向二层网络过渡以及Clear Signing。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Solana inicia pruebas de Alpenglow y avanza su gran cambio de consenso",
-        "excerpt": "El desarrollador central Anza dijo el 11 de mayo que Alpenglow ya funciona en un clúster comunitario de pruebas, donde los validadores ensayan el nuevo diseño antes de mainnet.",
-        "body": "La actualización de consenso de próxima generación de Solana, Alpenglow, se activó el 11 de mayo en un clúster comunitario de pruebas y entró en fase de evaluación por validadores. El desarrollador central Anza la describió como el mayor cambio de consenso en la historia de Solana. Hoy la red combina prueba de participación, TowerBFT y Proof-of-History, mientras que Alpenglow busca acelerar y hacer más eficiente la comunicación entre validadores y la finalidad de bloques. La prueba verifica si el software de validadores puede pasar del proceso actual a Alpenglow antes de una implementación en mainnet. The Protocol de CoinDesk también trató la disculpa de LayerZero, la transición de Ronin a capa 2 y Clear Signing. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Solana inicia testes do Alpenglow e avança grande mudança de consenso",
-        "excerpt": "A desenvolvedora central Anza disse em 11 de maio que o Alpenglow está ativo em um cluster comunitário de testes, onde validadores testam o novo consenso antes da mainnet.",
-        "body": "A atualização de consenso de próxima geração da Solana, Alpenglow, entrou no ar em 11 de maio em um cluster comunitário de testes, avançando para a fase de validação. A desenvolvedora central Anza descreveu a mudança como a maior alteração de consenso da história da Solana. Hoje, a rede combina prova de participação, TowerBFT e Proof-of-History, enquanto o Alpenglow busca tornar a comunicação entre validadores e a finalização de blocos mais rápidas e eficientes. O teste verifica se o software dos validadores consegue migrar do processo atual para o Alpenglow antes de uma possível mainnet. O The Protocol da CoinDesk também abordou o pedido de desculpas da LayerZero, a transição da Ronin para layer 2 e Clear Signing. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Solana startet Alpenglow-Test und treibt großen Konsensumbau voran",
-        "excerpt": "Solana-Kernentwickler Anza teilte am 11. Mai mit, dass Alpenglow auf einem Community-Testcluster läuft, damit Validatoren das neue Konsensdesign vor dem Mainnet prüfen.",
-        "body": "Solanas nächste Konsensaktualisierung Alpenglow ist am 11. Mai auf einem Community-Testcluster live gegangen und befindet sich nun in der Validator-Testphase. Kernentwickler Anza bezeichnete sie als größte Konsensänderung in der Geschichte von Solana. Derzeit nutzt Solana eine Kombination aus Proof-of-Stake, TowerBFT und Proof-of-History, während Alpenglow die Kommunikation zwischen Validatoren und die Blockfinalität schneller und effizienter machen soll. Die Tests prüfen, ob Validator-Software vor einer Mainnet-Einführung vom bisherigen Verfahren auf Alpenglow wechseln kann. CoinDesks The Protocol behandelte außerdem die Entschuldigung von LayerZero, Ronins Layer-2-Übergang und Clear Signing. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Solana lance les tests d’Alpenglow et avance sa refonte du consensus",
-        "excerpt": "Le développeur principal Anza a déclaré le 11 mai qu’Alpenglow fonctionne sur un cluster de test communautaire, où les validateurs testent le nouveau consensus avant le mainnet.",
-        "body": "La mise à niveau de consensus de nouvelle génération de Solana, Alpenglow, a été lancée le 11 mai sur un cluster de test communautaire et entre dans une phase d’essai par les validateurs. Le développeur principal Anza l’a décrite comme le plus grand changement de consensus de l’histoire de Solana. Le réseau repose aujourd’hui sur la preuve d’enjeu, TowerBFT et Proof-of-History, tandis qu’Alpenglow vise une communication entre validateurs et une finalité des blocs plus rapides et plus efficaces. Cette phase vérifie si le logiciel des validateurs peut passer du processus actuel à Alpenglow avant une éventuelle mise en production sur mainnet. The Protocol de CoinDesk a aussi couvert les excuses de LayerZero, la transition de Ronin vers la couche 2 et Clear Signing. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "سولانا تبدأ اختبار Alpenglow مع تقدم أكبر تعديل في آلية الإجماع",
-        "excerpt": "قال المطور الأساسي Anza في 11 مايو إن Alpenglow أصبح يعمل على مجموعة اختبار مجتمعية، ما يتيح للمدققين تجربة تصميم الإجماع الجديد قبل الشبكة الرئيسية.",
-        "body": "بدأت ترقية الإجماع من الجيل التالي في سولانا، Alpenglow، العمل في 11 مايو على مجموعة اختبار مجتمعية، لتدخل مرحلة اختبار المدققين. ووصف المطور الأساسي Anza هذه الخطوة بأنها أكبر تغيير في آلية الإجماع في تاريخ سولانا. تعتمد سولانا حاليا على مزيج من إثبات الحصة وTowerBFT وProof-of-History، بينما يهدف Alpenglow إلى جعل اتصال المدققين ونهائية الكتل أسرع وأكثر كفاءة. تختبر هذه المرحلة ما إذا كان برنامج المدققين قادرا على الانتقال من العملية الحالية إلى Alpenglow قبل أي إطلاق على الشبكة الرئيسية. وتناول إصدار The Protocol من CoinDesk أيضا اعتذار LayerZero وانتقال Ronin إلى الطبقة الثانية وClear Signing. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Solana Alpenglow टेस्ट शुरू, बड़े consensus बदलाव की दिशा में कदम",
-        "excerpt": "Solana के कोर डेवलपर Anza ने 11 मई को कहा कि Alpenglow कम्युनिटी टेस्ट क्लस्टर पर लाइव है, जहां वैलिडेटर मेननेट से पहले नए consensus डिजाइन को परखेंगे।",
-        "body": "Solana का अगली पीढ़ी का consensus अपग्रेड Alpenglow 11 मई को कम्युनिटी टेस्ट क्लस्टर पर लाइव हुआ और वैलिडेटर टेस्टिंग चरण में प्रवेश कर गया। कोर डेवलपर Anza ने इसे Solana के इतिहास का सबसे बड़ा consensus बदलाव बताया। फिलहाल Solana proof-of-stake, TowerBFT और Proof-of-History के संयोजन पर चलता है, जबकि Alpenglow का लक्ष्य वैलिडेटर संचार और ब्लॉक finality को तेज और अधिक कुशल बनाना है। यह टेस्ट चरण देखता है कि मेननेट लागू होने से पहले वैलिडेटर सॉफ्टवेयर मौजूदा प्रक्रिया से Alpenglow पर जा सकता है या नहीं। CoinDesk के The Protocol ने LayerZero की माफी, Ronin के layer-2 transition और Clear Signing को भी कवर किया। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Solana Mulai Uji Alpenglow, Perombakan Konsensus Besar Maju",
-        "excerpt": "Pengembang inti Anza mengatakan pada 11 Mei bahwa Alpenglow sudah aktif di klaster uji komunitas, sehingga validator dapat menguji desain konsensus baru sebelum mainnet.",
-        "body": "Pembaruan konsensus generasi berikutnya Solana, Alpenglow, aktif pada 11 Mei di klaster uji komunitas dan masuk tahap pengujian validator. Pengembang inti Anza menyebutnya sebagai perubahan konsensus terbesar dalam sejarah Solana. Saat ini Solana memakai kombinasi proof-of-stake, TowerBFT, dan Proof-of-History, sementara Alpenglow bertujuan membuat komunikasi validator dan finalitas blok lebih cepat serta efisien. Tahap uji ini memeriksa apakah perangkat lunak validator dapat beralih dari proses yang ada ke Alpenglow sebelum penerapan mainnet. The Protocol dari CoinDesk juga membahas permintaan maaf LayerZero, transisi Ronin ke layer-2, dan Clear Signing. Sumber: coindesk.com"
       }
     }
   }
