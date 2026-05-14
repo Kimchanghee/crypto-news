@@ -1,5 +1,230 @@
 [
   {
+    "id": "d534c4838ea5",
+    "slug": "openai-confirms-security-breach-linked-to-ai-malware-campaig-978821",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T22:47:11.954Z",
+    "updatedAt": "2026-05-14T22:47:11.954Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367883/openai-confirms-security-breach-ai-malware-campaign",
+    "canonicalUrl": "https://decrypt.co/367883/openai-confirms-security-breach-ai-malware-campaign",
+    "titleFingerprint": "df0535015695daaeef8eb84253e99451654a20c2",
+    "dedupKeys": [
+      "d534c4838ea59499ab81075d5de09f005394fc48",
+      "df0535015695daaeef8eb84253e99451654a20c2",
+      "468b818554bde96c30b77bb6bc004ba68aa967c0"
+    ],
+    "imageUrl": "/images/articles/d534c4838ea5.png",
+    "i18n": {
+      "ko": {
+        "title": "OpenAI 보안 침해 확인, Shai-Hulud AI 악성코드 캠페인 연관",
+        "excerpt": "OpenAI는 Shai-Hulud 공급망 공격과 연계된 악성코드가 직원 기기 2대를 감염시킨 뒤 내부 저장소에 접근했다고 밝혔다.",
+        "body": "OpenAI가 Shai-Hulud 공급망 공격과 연계된 악성코드로 인한 보안 침해를 확인했다. 회사에 따르면 해당 악성코드는 직원 기기 2대를 감염시킨 뒤 내부 저장소에 접근했다. 이번 사안은 AI 악성코드 캠페인이 소프트웨어 공급망을 통해 조직 내부 시스템까지 영향을 미칠 수 있음을 보여준다. 현재 공개된 핵심 내용은 감염된 기기 수가 2대였고, 접근 대상이 내부 저장소였다는 점이다. OpenAI는 침해 사실을 확인했으며, 관련 보도는 decrypt.co가 전했다."
+      },
+      "en": {
+        "title": "OpenAI Confirms Security Breach Tied to Shai-Hulud AI Malware",
+        "excerpt": "OpenAI said malware linked to the Shai-Hulud supply chain attack infected two employee devices and then accessed internal repositories.",
+        "body": "OpenAI has confirmed a security breach involving malware connected to the Shai-Hulud supply chain attack. According to the company, the malware infected two employee devices before accessing internal repositories. The case shows how an AI malware campaign tied to software supply chains can reach internal systems inside an organization. The key details disclosed so far are that two devices were infected and that the accessed target was internal repositories. OpenAI confirmed the breach, and the report was cited by decrypt.co."
+      },
+      "ja": {
+        "title": "OpenAIがShai-Hulud系AIマルウェアによる侵害を確認",
+        "excerpt": "OpenAIは、Shai-Huludのサプライチェーン攻撃に関連するマルウェアが従業員端末2台に感染し、内部リポジトリへアクセスしたと明らかにした。",
+        "body": "OpenAIは、Shai-Huludのサプライチェーン攻撃に関連するマルウェアによるセキュリティ侵害を確認した。同社によると、このマルウェアは従業員の端末2台に感染した後、内部リポジトリへアクセスした。今回の事案は、ソフトウェア供給網に絡むAIマルウェアキャンペーンが組織内システムにまで影響し得ることを示している。現時点で明らかな主な事実は、感染端末が2台だったこと、アクセス先が内部リポジトリだったことだ。OpenAIが侵害を確認し、decrypt.coが報じた。"
+      },
+      "zh": {
+        "title": "OpenAI确认安全事件，关联Shai-Hulud AI恶意软件活动",
+        "excerpt": "OpenAI表示，与Shai-Hulud供应链攻击有关的恶意软件感染了两台员工设备，随后访问了内部代码库。",
+        "body": "OpenAI确认发生一起与Shai-Hulud供应链攻击相关的安全事件。该公司表示，相关恶意软件先感染了两台员工设备，随后访问了内部代码库。此事显示，依托软件供应链传播的AI恶意软件活动可能影响组织内部系统。目前公开的核心信息包括：受感染设备为两台，访问目标为内部代码库。OpenAI已确认该安全事件，decrypt.co对此进行了报道。"
+      },
+      "es": {
+        "title": "OpenAI confirma brecha vinculada al malware de IA Shai-Hulud",
+        "excerpt": "OpenAI dijo que un malware ligado al ataque de cadena de suministro Shai-Hulud infectó dos dispositivos de empleados y accedió a repositorios internos.",
+        "body": "OpenAI confirmó una brecha de seguridad relacionada con un malware vinculado al ataque de cadena de suministro Shai-Hulud. Según la compañía, el malware infectó dos dispositivos de empleados antes de acceder a repositorios internos. El caso muestra cómo una campaña de malware de IA conectada con la cadena de suministro de software puede alcanzar sistemas internos de una organización. Los datos clave divulgados hasta ahora son que hubo dos dispositivos infectados y que el objetivo accedido fueron repositorios internos. OpenAI confirmó el incidente, reportado por decrypt.co."
+      },
+      "pt": {
+        "title": "OpenAI confirma violação ligada ao malware de IA Shai-Hulud",
+        "excerpt": "A OpenAI disse que um malware associado ao ataque de cadeia de suprimentos Shai-Hulud infectou dois dispositivos de funcionários e acessou repositórios internos.",
+        "body": "A OpenAI confirmou uma violação de segurança relacionada a um malware ligado ao ataque de cadeia de suprimentos Shai-Hulud. Segundo a empresa, o malware infectou dois dispositivos de funcionários antes de acessar repositórios internos. O caso mostra como uma campanha de malware de IA conectada à cadeia de suprimentos de software pode atingir sistemas internos de uma organização. As principais informações divulgadas até agora são que dois dispositivos foram infectados e que o alvo acessado foram repositórios internos. A OpenAI confirmou a violação, informada pela decrypt.co."
+      },
+      "de": {
+        "title": "OpenAI bestätigt Sicherheitsvorfall durch Shai-Hulud-KI-Malware",
+        "excerpt": "OpenAI erklärte, Malware im Zusammenhang mit dem Shai-Hulud-Lieferkettenangriff habe zwei Mitarbeitergeräte infiziert und interne Repositories aufgerufen.",
+        "body": "OpenAI hat einen Sicherheitsvorfall bestätigt, der mit Malware aus dem Shai-Hulud-Lieferkettenangriff zusammenhängt. Nach Angaben des Unternehmens infizierte die Malware zwei Mitarbeitergeräte und griff anschließend auf interne Repositories zu. Der Fall zeigt, dass eine mit Software-Lieferketten verbundene KI-Malware-Kampagne interne Systeme einer Organisation erreichen kann. Die bislang bekannten Kerndaten sind, dass zwei Geräte infiziert wurden und dass interne Repositories betroffen waren. OpenAI bestätigte den Vorfall; berichtet wurde dies von decrypt.co."
+      },
+      "fr": {
+        "title": "OpenAI confirme une faille liée au malware IA Shai-Hulud",
+        "excerpt": "OpenAI a indiqué qu’un malware lié à l’attaque de chaîne d’approvisionnement Shai-Hulud avait infecté deux appareils d’employés puis accédé à des dépôts internes.",
+        "body": "OpenAI a confirmé une faille de sécurité impliquant un malware lié à l’attaque de chaîne d’approvisionnement Shai-Hulud. Selon l’entreprise, ce malware a infecté deux appareils d’employés avant d’accéder à des dépôts internes. L’affaire montre qu’une campagne de malware IA associée à la chaîne d’approvisionnement logicielle peut atteindre des systèmes internes d’une organisation. Les éléments clés connus à ce stade sont que deux appareils ont été infectés et que la cible consultée était des dépôts internes. OpenAI a confirmé l’incident, rapporté par decrypt.co."
+      },
+      "ar": {
+        "title": "OpenAI تؤكد اختراقا أمنيا مرتبطا ببرمجية Shai-Hulud الخبيثة",
+        "excerpt": "قالت OpenAI إن برمجية خبيثة مرتبطة بهجوم سلسلة التوريد Shai-Hulud أصابت جهازين لموظفين ثم وصلت إلى مستودعات داخلية.",
+        "body": "أكدت OpenAI وقوع اختراق أمني مرتبط ببرمجية خبيثة متصلة بهجوم سلسلة التوريد Shai-Hulud. وبحسب الشركة، أصابت البرمجية جهازين تابعين لموظفين قبل أن تصل إلى مستودعات داخلية. يوضح الحادث أن حملة برمجيات خبيثة تعتمد على الذكاء الاصطناعي وترتبط بسلاسل توريد البرمجيات يمكن أن تؤثر في أنظمة داخلية داخل المؤسسات. التفاصيل الأساسية المعلنة حتى الآن هي أن عدد الأجهزة المصابة كان جهازين، وأن هدف الوصول كان مستودعات داخلية. أكدت OpenAI الواقعة، ونقل التقرير موقع decrypt.co."
+      },
+      "hi": {
+        "title": "OpenAI ने Shai-Hulud AI मालवेयर से जुड़ी सुरक्षा सेंध की पुष्टि की",
+        "excerpt": "OpenAI ने कहा कि Shai-Hulud सप्लाई चेन हमले से जुड़ा मालवेयर दो कर्मचारी उपकरणों को संक्रमित कर आंतरिक रिपॉजिटरी तक पहुंचा।",
+        "body": "OpenAI ने Shai-Hulud सप्लाई चेन हमले से जुड़े मालवेयर के कारण हुई सुरक्षा सेंध की पुष्टि की है। कंपनी के अनुसार, इस मालवेयर ने दो कर्मचारी उपकरणों को संक्रमित किया और उसके बाद आंतरिक रिपॉजिटरी तक पहुंच बनाई। यह घटना दिखाती है कि सॉफ्टवेयर सप्लाई चेन से जुड़ा AI मालवेयर अभियान किसी संगठन की आंतरिक प्रणालियों तक पहुंच सकता है। अब तक सामने आए मुख्य तथ्य हैं कि संक्रमित उपकरणों की संख्या दो थी और पहुंच का लक्ष्य आंतरिक रिपॉजिटरी थीं। OpenAI ने सेंध की पुष्टि की, और यह रिपोर्ट decrypt.co ने दी।"
+      },
+      "id": {
+        "title": "OpenAI Konfirmasi Pelanggaran Keamanan Terkait Malware AI Shai-Hulud",
+        "excerpt": "OpenAI mengatakan malware yang terkait serangan rantai pasok Shai-Hulud menginfeksi dua perangkat karyawan lalu mengakses repositori internal.",
+        "body": "OpenAI mengonfirmasi pelanggaran keamanan yang melibatkan malware terkait serangan rantai pasok Shai-Hulud. Menurut perusahaan, malware tersebut menginfeksi dua perangkat karyawan sebelum mengakses repositori internal. Kasus ini menunjukkan bahwa kampanye malware AI yang terhubung dengan rantai pasok perangkat lunak dapat menjangkau sistem internal organisasi. Informasi utama yang telah diungkap sejauh ini adalah dua perangkat terinfeksi dan target aksesnya adalah repositori internal. OpenAI mengonfirmasi insiden tersebut, sebagaimana dilaporkan oleh decrypt.co."
+      }
+    }
+  },
+  {
+    "id": "b91f0af81327",
+    "slug": "chatgpt-is-losing-ground-to-rivalshere-are-some-numbers-539812",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T22:46:23.642Z",
+    "updatedAt": "2026-05-14T22:46:23.642Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367884/chatgpt-losing-ground-anthrophic-google-numbers",
+    "canonicalUrl": "https://decrypt.co/367884/chatgpt-losing-ground-anthrophic-google-numbers",
+    "titleFingerprint": "a041c12803360c1be0e12495a45ec859413cdad0",
+    "dedupKeys": [
+      "b91f0af81327ce295666572bb2932b43f06ff993",
+      "a041c12803360c1be0e12495a45ec859413cdad0",
+      "3c109ec0654e738d399ee84ed6d58ebd39c94363"
+    ],
+    "imageUrl": "/images/articles/b91f0af81327.png",
+    "i18n": {
+      "ko": {
+        "title": "ChatGPT 웹 트래픽 점유율 하락, 경쟁 AI 서비스 상승세 뚜렷",
+        "excerpt": "decrypt.co에 따르면 ChatGPT의 웹 트래픽 점유율은 하락하는 반면 경쟁 서비스는 상승하며, 기업들도 OpenAI 외 대안을 검토하기 시작했다.",
+        "body": "ChatGPT가 생성형 AI 시장에서 여전히 대표 서비스로 꼽히지만, decrypt.co는 최근 웹 트래픽 점유율에서 ChatGPT가 경쟁 서비스에 밀리고 있다고 보도했다. 원문에 따르면 ChatGPT의 웹 트래픽 비중은 낮아지는 반면, rival AI 서비스들의 비중은 올라가고 있다. 이 흐름은 기업들이 OpenAI만을 기본 선택지로 보지 않고 다른 AI 제공업체와 모델을 함께 검토하기 시작한 시점과 맞물린다. 관련 수치는 ChatGPT의 독주가 약해지고 경쟁 구도가 넓어지고 있음을 보여준다. 향후 기업용 AI 채택 경쟁은 성능, 비용, 안정성, 공급처 다변화 여부에 따라 더 치열해질 전망이다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "ChatGPT Web Traffic Share Falls as Rival AI Services Gain Ground",
+        "excerpt": "According to decrypt.co, ChatGPT’s web traffic share is declining while rival services are rising, just as businesses begin looking beyond OpenAI.",
+        "body": "ChatGPT remains one of the best-known generative AI services, but decrypt.co reported that it is losing ground to competitors in web traffic share. According to the original report, ChatGPT’s share of web traffic is falling, while rival AI services are seeing their share rise. The shift comes as businesses begin to look beyond OpenAI instead of treating it as the default option. The figures cited in the report point to a market where ChatGPT’s lead is becoming less dominant and competition is widening. Enterprise AI adoption may become more competitive as buyers weigh performance, cost, reliability, and provider diversification. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "ChatGPTのウェブ流入シェア低下、競合AIサービスが台頭",
+        "excerpt": "decrypt.coによると、ChatGPTのウェブトラフィックシェアは低下し、競合サービスは上昇しており、企業もOpenAI以外の選択肢を検討し始めている。",
+        "body": "生成AI市場でChatGPTはなお代表的なサービスとされるが、decrypt.coは最近のウェブトラフィックシェアで競合に押されていると報じた。原文によると、ChatGPTのウェブトラフィック比率は下がる一方、競合AIサービスの比率は上昇している。この動きは、企業がOpenAIだけを標準的な選択肢と見なさず、他のAI提供企業やモデルも検討し始めた時期と重なる。報告された数値は、ChatGPTの独走が弱まり、競争環境が広がっていることを示す。今後の企業向けAI導入競争は、性能、コスト、安定性、供給元の多様化を軸にさらに激しくなる可能性がある。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "ChatGPT网页流量份额下滑，竞争AI服务加速追赶",
+        "excerpt": "decrypt.co称，ChatGPT的网页流量份额正在下降，而竞争服务持续上升，企业也开始评估OpenAI之外的AI选择。",
+        "body": "ChatGPT仍被视为生成式AI市场的代表性服务之一，但decrypt.co报道称，它在网页流量份额上正被竞争对手追赶。原文显示，ChatGPT的网页流量占比正在下降，而其他竞争AI服务的占比则在上升。这一变化发生在企业开始不再只把OpenAI当作默认选择，并同时评估其他AI供应商和模型之际。相关数据表明，ChatGPT的领先优势正在减弱，市场竞争格局正在扩大。未来企业AI采用竞争可能会围绕性能、成本、稳定性以及供应商多元化进一步加剧。来源: decrypt.co"
+      },
+      "es": {
+        "title": "ChatGPT pierde cuota de tráfico web mientras rivales de IA avanzan",
+        "excerpt": "Según decrypt.co, la cuota de tráfico web de ChatGPT cae mientras sus rivales crecen, justo cuando las empresas empiezan a mirar más allá de OpenAI.",
+        "body": "ChatGPT sigue siendo uno de los servicios más reconocidos de IA generativa, pero decrypt.co informó que está perdiendo terreno frente a sus competidores en cuota de tráfico web. Según el reporte original, la proporción de tráfico web de ChatGPT está bajando, mientras que la de servicios rivales de IA está subiendo. Este movimiento coincide con el momento en que las empresas empiezan a mirar más allá de OpenAI y a evaluar otros proveedores y modelos. Las cifras citadas muestran que el dominio de ChatGPT se debilita y que la competencia se amplía. La adopción empresarial de IA podría volverse más disputada por rendimiento, costo, estabilidad y diversificación de proveedores. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "ChatGPT perde fatia de tráfego web enquanto rivais de IA avançam",
+        "excerpt": "Segundo o decrypt.co, a participação do ChatGPT no tráfego web está caindo enquanto rivais crescem, no momento em que empresas olham além da OpenAI.",
+        "body": "O ChatGPT ainda é um dos serviços mais conhecidos de IA generativa, mas o decrypt.co informou que ele está perdendo espaço para concorrentes em participação de tráfego web. Segundo a reportagem original, a fatia de tráfego web do ChatGPT está diminuindo, enquanto serviços rivais de IA registram alta. Esse movimento ocorre quando empresas começam a olhar além da OpenAI, em vez de tratá-la como escolha padrão, e passam a avaliar outros provedores e modelos. Os números citados indicam que a liderança do ChatGPT está menos dominante e que a concorrência se amplia. A adoção corporativa de IA pode ficar mais acirrada por desempenho, custo, estabilidade e diversificação de fornecedores. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "ChatGPT verliert Web-Traffic-Anteil, während KI-Rivalen zulegen",
+        "excerpt": "Laut decrypt.co sinkt der Web-Traffic-Anteil von ChatGPT, während Rivalen wachsen und Unternehmen zunehmend Optionen jenseits von OpenAI prüfen.",
+        "body": "ChatGPT gilt weiterhin als einer der bekanntesten Dienste für generative KI, doch decrypt.co berichtete, dass der Dienst beim Web-Traffic-Anteil gegenüber Wettbewerbern an Boden verliert. Dem Originalbericht zufolge sinkt der Anteil von ChatGPT am Web-Traffic, während konkurrierende KI-Dienste zulegen. Diese Entwicklung fällt in eine Phase, in der Unternehmen OpenAI nicht mehr nur als Standardwahl betrachten, sondern auch andere Anbieter und Modelle prüfen. Die genannten Zahlen deuten darauf hin, dass die Dominanz von ChatGPT schwächer wird und sich der Wettbewerb verbreitert. Bei der Einführung von Unternehmens-KI dürften Leistung, Kosten, Stabilität und die Diversifizierung der Anbieter wichtiger werden. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "ChatGPT perd des parts de trafic web face à des rivaux IA en hausse",
+        "excerpt": "Selon decrypt.co, la part de trafic web de ChatGPT recule tandis que ses rivaux progressent, alors que les entreprises regardent au-delà d’OpenAI.",
+        "body": "ChatGPT reste l’un des services d’IA générative les plus connus, mais decrypt.co rapporte qu’il perd du terrain face à ses concurrents en part de trafic web. Selon l’article original, la part de trafic web de ChatGPT diminue, tandis que celle de services d’IA concurrents augmente. Ce mouvement intervient au moment où les entreprises commencent à ne plus considérer OpenAI comme l’unique choix par défaut et évaluent d’autres fournisseurs et modèles. Les chiffres cités indiquent que l’avance de ChatGPT devient moins dominante et que la concurrence s’élargit. L’adoption de l’IA en entreprise pourrait devenir plus disputée autour de la performance, du coût, de la stabilité et de la diversification des fournisseurs. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "تراجع حصة ChatGPT من زيارات الويب مع صعود خدمات ذكاء منافسة",
+        "excerpt": "بحسب decrypt.co، تتراجع حصة ChatGPT من زيارات الويب بينما ترتفع حصص المنافسين، في وقت بدأت فيه الشركات تنظر إلى ما beyond OpenAI.",
+        "body": "لا يزال ChatGPT من أبرز خدمات الذكاء الاصطناعي التوليدي، لكن decrypt.co أفاد بأنه يفقد بعض زخمه أمام المنافسين في حصة زيارات الويب. ووفق التقرير الأصلي، فإن حصة ChatGPT من حركة الويب تتراجع، بينما ترتفع حصص خدمات ذكاء اصطناعي منافسة. يأتي ذلك في وقت بدأت فيه الشركات لا تنظر إلى OpenAI كخيار افتراضي وحيد، بل تدرس مزودين ونماذج أخرى أيضا. وتشير الأرقام المذكورة إلى أن تفوق ChatGPT أصبح أقل هيمنة وأن نطاق المنافسة يتسع. ومن المرجح أن تشتد منافسة تبني الذكاء الاصطناعي في المؤسسات حول الأداء والتكلفة والاستقرار وتنويع المزودين. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "ChatGPT की वेब ट्रैफिक हिस्सेदारी घटी, प्रतिद्वंद्वी AI सेवाएं आगे बढ़ीं",
+        "excerpt": "decrypt.co के अनुसार ChatGPT की वेब ट्रैफिक हिस्सेदारी घट रही है, जबकि प्रतिद्वंद्वी सेवाएं बढ़ रही हैं और कंपनियां OpenAI से आगे विकल्प देख रही हैं।",
+        "body": "ChatGPT अब भी जनरेटिव AI बाजार की सबसे पहचानी जाने वाली सेवाओं में शामिल है, लेकिन decrypt.co ने बताया कि वेब ट्रैफिक हिस्सेदारी में यह प्रतिद्वंद्वियों से जमीन खो रहा है। मूल रिपोर्ट के अनुसार ChatGPT की वेब ट्रैफिक हिस्सेदारी घट रही है, जबकि rival AI सेवाओं की हिस्सेदारी बढ़ रही है। यह बदलाव ऐसे समय आया है जब कंपनियां OpenAI को ही डिफॉल्ट विकल्प मानने के बजाय अन्य AI प्रदाताओं और मॉडलों की भी समीक्षा करने लगी हैं। रिपोर्ट में दिए गए आंकड़े संकेत देते हैं कि ChatGPT की बढ़त पहले जैसी एकतरफा नहीं रही और प्रतिस्पर्धा फैल रही है। आगे एंटरप्राइज AI अपनाने की होड़ प्रदर्शन, लागत, स्थिरता और प्रदाता विविधीकरण पर अधिक निर्भर हो सकती है। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Pangsa Trafik Web ChatGPT Turun, Layanan AI Rival Mulai Menguat",
+        "excerpt": "Menurut decrypt.co, pangsa trafik web ChatGPT menurun sementara layanan rival naik, saat perusahaan mulai melihat opsi di luar OpenAI.",
+        "body": "ChatGPT masih menjadi salah satu layanan AI generatif paling dikenal, tetapi decrypt.co melaporkan bahwa layanan ini mulai kehilangan posisi terhadap pesaing dalam pangsa trafik web. Menurut laporan asli, porsi trafik web ChatGPT menurun, sementara layanan AI rival mencatat kenaikan. Perubahan ini terjadi ketika perusahaan mulai tidak lagi melihat OpenAI sebagai satu-satunya pilihan utama dan mulai menilai penyedia serta model AI lain. Angka yang dikutip menunjukkan bahwa dominasi ChatGPT melemah dan persaingan pasar makin luas. Ke depan, adopsi AI untuk perusahaan dapat semakin ketat berdasarkan kinerja, biaya, stabilitas, dan diversifikasi penyedia. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "6c5251d15acc",
+    "slug": "kimi-webbridge-lets-ai-agents-drive-your-browserand-keep-you-415352",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T22:45:31.708Z",
+    "updatedAt": "2026-05-14T22:45:31.708Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367916/kimi-webbridge-ai-agents-browser-local",
+    "canonicalUrl": "https://decrypt.co/367916/kimi-webbridge-ai-agents-browser-local",
+    "titleFingerprint": "1ea086c2d6abcea3b905987dd2fbd9bc7df069ec",
+    "dedupKeys": [
+      "6c5251d15acce9586ded795f512a8946525f06a6",
+      "1ea086c2d6abcea3b905987dd2fbd9bc7df069ec",
+      "a23dc3ba04f3d6af62a2d5a316f470168c991bd1"
+    ],
+    "imageUrl": "/images/articles/6c5251d15acc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Kimi WebBridge, AI 에이전트가 브라우저를 조작하는 확장 기능 공개",
+        "excerpt": "Moonshot AI가 Kimi WebBridge 브라우저 확장 기능을 출시해 AI 에이전트가 Chrome·Edge에서 클릭, 스크롤, 양식 입력, 탐색을 로컬 세션으로 수행하게 했다.",
+        "body": "Moonshot AI가 AI 에이전트에 브라우저 조작 권한을 주는 Kimi WebBridge 확장 기능을 공개했다. 이 도구는 Chrome 또는 Edge에서 클릭, 스크롤, 양식 입력, 페이지 탐색을 수행하도록 설계됐다. 핵심은 세션 데이터가 사용자의 기기를 떠나지 않는다는 점이다. 원문에 따르면 Kimi WebBridge는 AI 에이전트가 웹 작업을 직접 처리하게 하면서도 브라우저 세션을 로컬에 유지한다. 이는 웹 자동화와 AI 에이전트 활용이 확대되는 흐름 속에서 개인정보와 작업 환경을 기기 안에 두려는 접근으로 해석된다. 향후 이용자는 반복적인 웹操作를 AI에 맡기면서도 세션 외부 전송 부담을 줄일 수 있다. 출처: decrypt.co."
+      },
+      "en": {
+        "title": "Kimi WebBridge Lets AI Agents Control Browsers While Data Stays Local",
+        "excerpt": "Moonshot AI launched the Kimi WebBridge browser extension, letting AI agents click, scroll, fill forms, and navigate Chrome or Edge while keeping sessions on the user’s machine.",
+        "body": "Moonshot AI has introduced Kimi WebBridge, a browser extension that gives AI agents control over web browsing tasks. The tool is designed to click, scroll, fill out forms, and navigate pages in Chrome or Edge. Its key point is that session data does not leave the user’s device. According to the original report, Kimi WebBridge lets AI agents directly handle web tasks while keeping browser sessions local. In the broader rise of web automation and AI agents, this represents an approach focused on keeping personal data and the working environment on-device. Users may be able to delegate repetitive browser actions to AI while reducing concerns about session data being sent elsewhere. Source: decrypt.co."
+      },
+      "ja": {
+        "title": "Kimi WebBridge、AIエージェントがブラウザ操作しデータはローカル保持",
+        "excerpt": "Moonshot AIはKimi WebBridge拡張機能を公開し、AIエージェントがChromeやEdgeでクリック、スクロール、フォーム入力、ページ移動をローカルセッションで行えるようにした。",
+        "body": "Moonshot AIは、AIエージェントにブラウザ操作の権限を与えるKimi WebBridge拡張機能を公開した。このツールはChromeまたはEdge上でクリック、スクロール、フォーム入力、ページ移動を行うよう設計されている。最大の特徴は、セッションデータがユーザーの端末から外へ出ない点だ。原文によると、Kimi WebBridgeはAIエージェントにウェブ作業を直接処理させながら、ブラウザセッションをローカルに保持する。ウェブ自動化とAIエージェント活用が広がる中で、個人データと作業環境を端末内に置くアプローチといえる。今後、利用者は反復的なブラウザ作業をAIに任せつつ、セッション外部送信への懸念を抑えられる。出典: decrypt.co。"
+      },
+      "zh": {
+        "title": "Kimi WebBridge让AI代理操控浏览器，数据仍留在本地",
+        "excerpt": "Moonshot AI推出Kimi WebBridge浏览器扩展，让AI代理在Chrome或Edge中点击、滚动、填写表单和导航，同时把会话保留在用户设备上。",
+        "body": "Moonshot AI发布了Kimi WebBridge浏览器扩展，让AI代理获得执行浏览器操作的能力。该工具面向Chrome和Edge，可完成点击、滚动、填写表单和页面导航等任务。其核心在于，会话数据不会离开用户设备。根据原文，Kimi WebBridge允许AI代理直接处理网页任务，同时将浏览器会话保留在本地。随着网页自动化和AI代理应用扩大，这是一种把个人数据和工作环境留在设备内的做法。未来，用户可将重复性的浏览器操作交给AI，同时减少对会话数据外传的顾虑。来源：decrypt.co。"
+      },
+      "es": {
+        "title": "Kimi WebBridge permite a agentes de IA manejar el navegador con datos locales",
+        "excerpt": "Moonshot AI lanzó la extensión Kimi WebBridge para que agentes de IA hagan clic, desplacen, completen formularios y naveguen en Chrome o Edge manteniendo la sesión en el equipo.",
+        "body": "Moonshot AI presentó Kimi WebBridge, una extensión de navegador que da a los agentes de IA control sobre tareas web. La herramienta está diseñada para hacer clic, desplazarse, completar formularios y navegar páginas en Chrome o Edge. Su punto central es que los datos de sesión no salen del dispositivo del usuario. Según el informe original, Kimi WebBridge permite que los agentes de IA gestionen directamente tareas web mientras las sesiones del navegador permanecen en local. En un contexto de mayor automatización web y uso de agentes de IA, esto plantea un enfoque centrado en mantener los datos personales y el entorno de trabajo dentro del dispositivo. Los usuarios podrán delegar acciones repetitivas del navegador en la IA reduciendo la preocupación por el envío externo de sesiones. Fuente: decrypt.co."
+      },
+      "pt": {
+        "title": "Kimi WebBridge deixa agentes de IA controlar o navegador com dados locais",
+        "excerpt": "A Moonshot AI lançou a extensão Kimi WebBridge para agentes de IA clicarem, rolarem, preencherem formulários e navegarem no Chrome ou Edge mantendo as sessões no dispositivo.",
+        "body": "A Moonshot AI apresentou o Kimi WebBridge, uma extensão de navegador que dá a agentes de IA controle sobre tarefas na web. A ferramenta foi criada para clicar, rolar páginas, preencher formulários e navegar no Chrome ou Edge. O ponto central é que os dados de sessão não saem do dispositivo do usuário. Segundo o relato original, o Kimi WebBridge permite que agentes de IA executem diretamente tarefas web enquanto as sessões do navegador permanecem locais. Com a expansão da automação web e do uso de agentes de IA, trata-se de uma abordagem voltada a manter dados pessoais e o ambiente de trabalho dentro do aparelho. Usuários poderão delegar ações repetitivas do navegador à IA com menor preocupação sobre envio externo de sessões. Fonte: decrypt.co."
+      },
+      "de": {
+        "title": "Kimi WebBridge lässt KI-Agenten Browser steuern, Daten bleiben lokal",
+        "excerpt": "Moonshot AI hat die Browsererweiterung Kimi WebBridge veröffentlicht, mit der KI-Agenten in Chrome oder Edge klicken, scrollen, Formulare ausfüllen und navigieren, während Sitzungen lokal bleiben.",
+        "body": "Moonshot AI hat Kimi WebBridge vorgestellt, eine Browsererweiterung, die KI-Agenten die Steuerung von Webaufgaben ermöglicht. Das Tool ist dafür ausgelegt, in Chrome oder Edge zu klicken, zu scrollen, Formulare auszufüllen und Seiten zu navigieren. Der zentrale Punkt ist, dass Sitzungsdaten das Gerät des Nutzers nicht verlassen. Dem Originalbericht zufolge lässt Kimi WebBridge KI-Agenten Webaufgaben direkt ausführen, während Browsersitzungen lokal bleiben. Vor dem Hintergrund wachsender Webautomatisierung und zunehmender Nutzung von KI-Agenten steht dieser Ansatz dafür, persönliche Daten und Arbeitsumgebung auf dem Gerät zu halten. Nutzer können wiederkehrende Browseraktionen an KI delegieren und zugleich Bedenken wegen externer Sitzungsübertragung verringern. Quelle: decrypt.co."
+      },
+      "fr": {
+        "title": "Kimi WebBridge donne le contrôle du navigateur aux agents IA en local",
+        "excerpt": "Moonshot AI a lancé l’extension Kimi WebBridge, qui permet aux agents IA de cliquer, faire défiler, remplir des formulaires et naviguer dans Chrome ou Edge tout en gardant les sessions sur l’appareil.",
+        "body": "Moonshot AI a présenté Kimi WebBridge, une extension de navigateur qui donne aux agents IA la capacité d’exécuter des tâches web. L’outil est conçu pour cliquer, faire défiler, remplir des formulaires et naviguer dans Chrome ou Edge. Son point clé est que les données de session ne quittent pas l’appareil de l’utilisateur. Selon le rapport original, Kimi WebBridge permet aux agents IA de traiter directement des tâches web tout en maintenant les sessions du navigateur en local. Dans un contexte de développement de l’automatisation web et des agents IA, cette approche vise à garder les données personnelles et l’environnement de travail sur l’appareil. Les utilisateurs peuvent déléguer des actions répétitives du navigateur à l’IA tout en réduisant les inquiétudes liées à l’envoi externe des sessions. Source : decrypt.co."
+      },
+      "ar": {
+        "title": "Kimi WebBridge يتيح لوكلاء الذكاء الاصطناعي التحكم بالمتصفح محلياً",
+        "excerpt": "أطلقت Moonshot AI إضافة Kimi WebBridge للمتصفح، لتمكين وكلاء الذكاء الاصطناعي من النقر والتمرير وملء النماذج والتنقل في Chrome أو Edge مع بقاء الجلسات على جهاز المستخدم.",
+        "body": "قدمت Moonshot AI إضافة Kimi WebBridge للمتصفح، وهي أداة تمنح وكلاء الذكاء الاصطناعي قدرة تنفيذ مهام التصفح. صممت الإضافة للعمل على Chrome أو Edge من خلال النقر والتمرير وملء النماذج والتنقل بين الصفحات. النقطة الأساسية أن بيانات الجلسة لا تغادر جهاز المستخدم. ووفقاً للتقرير الأصلي، يتيح Kimi WebBridge لوكلاء الذكاء الاصطناعي معالجة مهام الويب مباشرة مع إبقاء جلسات المتصفح محلية. ومع توسع أتمتة الويب واستخدام وكلاء الذكاء الاصطناعي، يمثل ذلك نهجاً يركز على إبقاء البيانات الشخصية وبيئة العمل داخل الجهاز. ويمكن للمستخدمين إسناد عمليات المتصفح المتكررة إلى الذكاء الاصطناعي مع تقليل القلق من إرسال بيانات الجلسة خارجياً. المصدر: decrypt.co."
+      },
+      "hi": {
+        "title": "Kimi WebBridge से AI एजेंट ब्राउज़र चलाएंगे, डेटा स्थानीय रहेगा",
+        "excerpt": "Moonshot AI ने Kimi WebBridge ब्राउज़र एक्सटेंशन लॉन्च किया, जिससे AI एजेंट Chrome या Edge में क्लिक, स्क्रॉल, फॉर्म भरने और नेविगेशन जैसे काम स्थानीय सत्रों के साथ कर सकते हैं।",
+        "body": "Moonshot AI ने Kimi WebBridge पेश किया है, जो एक ब्राउज़र एक्सटेंशन है और AI एजेंटों को वेब कार्यों पर नियंत्रण देता है। यह टूल Chrome या Edge में क्लिक करने, स्क्रॉल करने, फॉर्म भरने और पेज नेविगेशन के लिए बनाया गया है। इसकी मुख्य बात यह है कि सत्र डेटा उपयोगकर्ता के डिवाइस से बाहर नहीं जाता। मूल रिपोर्ट के अनुसार, Kimi WebBridge AI एजेंटों को वेब कार्य सीधे करने देता है, जबकि ब्राउज़र सत्र स्थानीय रहते हैं। वेब ऑटोमेशन और AI एजेंटों के बढ़ते उपयोग के बीच यह तरीका व्यक्तिगत डेटा और कार्य वातावरण को डिवाइस के भीतर रखने पर केंद्रित है। आगे उपयोगकर्ता दोहराए जाने वाले ब्राउज़र कार्य AI को सौंप सकेंगे और सत्र डेटा बाहर भेजे जाने की चिंता कम कर सकेंगे। स्रोत: decrypt.co."
+      },
+      "id": {
+        "title": "Kimi WebBridge Buat Agen AI Kendalikan Browser, Data Tetap Lokal",
+        "excerpt": "Moonshot AI meluncurkan ekstensi Kimi WebBridge agar agen AI dapat mengeklik, menggulir, mengisi formulir, dan bernavigasi di Chrome atau Edge sambil menjaga sesi tetap di perangkat pengguna.",
+        "body": "Moonshot AI memperkenalkan Kimi WebBridge, ekstensi browser yang memberi agen AI kemampuan menjalankan tugas web. Alat ini dirancang untuk mengeklik, menggulir, mengisi formulir, dan menavigasi halaman di Chrome atau Edge. Poin utamanya adalah data sesi tidak meninggalkan perangkat pengguna. Menurut laporan asli, Kimi WebBridge memungkinkan agen AI menangani tugas web secara langsung sambil menjaga sesi browser tetap lokal. Di tengah meningkatnya otomasi web dan penggunaan agen AI, pendekatan ini berfokus pada penyimpanan data pribadi dan lingkungan kerja di dalam perangkat. Pengguna dapat menyerahkan tindakan browser yang berulang kepada AI sekaligus mengurangi kekhawatiran tentang pengiriman sesi ke luar. Sumber: decrypt.co."
+      }
+    }
+  },
+  {
     "id": "ce29fd867ea5",
     "slug": "bitcoin-firm-strive-unveils-daily-dividend-payments-for-sata-276562",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Moody’s Beri AAA untuk Dana Tokenisasi Fidelity dan BlackRock",
         "excerpt": "Moody’s memberi peringkat tertinggi AAA pada dana pasar uang tokenisasi Fidelity dan BlackRock, menandakan kualitas kredit, likuiditas, dan pelestarian modal tertinggi.",
         "body": "Moody’s memberikan peringkat tertinggi AAA kepada dana pasar uang tokenisasi milik Fidelity dan BlackRock, menurut CoinDesk. Peringkat ini berarti dana tersebut dinilai berada pada level tertinggi dalam kualitas kredit, likuiditas, dan pelestarian modal. Dana pasar uang tokenisasi menarik perhatian seiring produk keuangan tradisional ditawarkan dalam bentuk berbasis blockchain. Peringkat AAA dari Moody’s menjadi sinyal penting bagi investor saat menilai stabilitas dan likuiditas dana tersebut. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "13c5ea6050f2",
-    "slug": "인사-보건복지부-안전보건공단-국가유산진흥원-등-501776",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T08:20:08.661Z",
-    "updatedAt": "2026-05-14T08:20:08.661Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12047762",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12047762",
-    "titleFingerprint": "75fb26928178583641702f1eb28ba5672d5baaf8",
-    "dedupKeys": [
-      "13c5ea6050f2eea996dd72fe69452240f1018d03",
-      "75fb26928178583641702f1eb28ba5672d5baaf8",
-      "0854910c93c881ee042fa5c2a8fdb765c85876ed"
-    ],
-    "imageUrl": "/images/articles/13c5ea6050f2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "보건복지부·안전보건공단 등 주요 기관 인사 발표, 과장급 전보 포함",
-        "excerpt": "보건복지부와 안전보건공단, 국가유산진흥원, 서울대병원 등 주요 기관이 과장급 전보와 임원·본부장급 인사를 발표했다.",
-        "body": "보건복지부와 안전보건공단, 국가유산진흥원, 서울대병원 등 주요 기관의 인사 소식이 전해졌다. 보건복지부는 과장급 전보로 복지정책과장에 김연숙, 보험약제과장에 강준혁을 각각 발령했다. 안전보건공단은 정혜선을 상임감사로 선임했고, 국가유산진흥원은 장철호를 문화유산활용본부장으로 임명했다. 서울대병원에서는 병원관리지원실장·기획 관련 인사가 함께 소개됐다. 이번 인사는 각 기관의 복지정책, 보험약제, 안전보건, 문화유산 활용, 병원 행정 분야 운영과 직결되는 자리라는 점에서 조직별 후속 업무 수행에 관심이 모인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Health Ministry, KOSHA and Heritage Agency Announce Key Personnel Moves",
-        "excerpt": "South Korea’s Health Ministry, KOSHA, the Korea Heritage Agency and Seoul National University Hospital announced transfers and senior appointments.",
-        "body": "Major personnel changes were reported at South Korea’s Ministry of Health and Welfare, the Korea Occupational Safety and Health Agency, the Korea Heritage Agency and Seoul National University Hospital. At the Health Ministry, Kim Yeon-suk was named director of the Welfare Policy Division, while Kang Jun-hyuk was appointed director of the Pharmaceutical Benefits Division in director-level transfers. KOSHA appointed Jung Hye-sun as standing auditor, and the Korea Heritage Agency named Jang Cheol-ho head of the Cultural Heritage Utilization Division. Seoul National University Hospital also listed an appointment related to its hospital management support and planning office. The moves concern roles tied to welfare policy, insurance medicines, occupational safety, heritage use and hospital administration. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "保健福祉部・安全保健公団など主要機関が人事発表、課長級異動も",
-        "excerpt": "保健福祉部、安全保健公団、国家遺産振興院、ソウル大学病院などが、課長級異動や幹部級人事を発表した。",
-        "body": "保健福祉部、安全保健公団、国家遺産振興院、ソウル大学病院など主要機関の人事が伝えられた。保健福祉部では課長級の転任として、福祉政策課長にキム・ヨンスク氏、保険薬剤課長にカン・ジュンヒョク氏がそれぞれ発令された。安全保健公団はチョン・ヘソン氏を常任監査に選任し、国家遺産振興院はチャン・チョルホ氏を文化遺産活用本部長に任命した。ソウル大学病院では病院管理支援室長・企画関連の人事も紹介された。今回の人事は福祉政策、保険薬剤、安全保健、文化遺産活用、病院行政に関わる職務であり、各機関の業務運営に関連する動きとして注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国保健福祉部、安全保健公团等发布主要人事调整",
-        "excerpt": "韩国保健福祉部、安全保健公团、国家遗产振兴院和首尔大学医院等机构公布了课长级调任及高层任命。",
-        "body": "韩国保健福祉部、安全保健公团、国家遗产振兴院、首尔大学医院等主要机构的人事消息公布。保健福祉部进行课长级调任，任命金妍淑为福利政策课长，姜俊赫为保险药剂课长。安全保健公团任命郑惠善为常任监察，国家遗产振兴院任命张哲镐为文化遗产活用本部长。首尔大学医院也公布了与医院管理支援室长及企划相关的人事。此次调整涉及福利政策、保险药剂、安全保健、文化遗产活用和医院行政等岗位，均与各机构日常业务运行直接相关。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Ministerio de Salud, KOSHA y Patrimonio anuncian cambios clave de personal",
-        "excerpt": "El Ministerio de Salud y Bienestar de Corea del Sur, KOSHA, la Agencia de Patrimonio y el Hospital de la Universidad Nacional de Seúl anunciaron nombramientos.",
-        "body": "Se informaron cambios de personal en el Ministerio de Salud y Bienestar de Corea del Sur, la Agencia de Seguridad y Salud Ocupacional de Corea, la Agencia de Patrimonio de Corea y el Hospital de la Universidad Nacional de Seúl. En el Ministerio de Salud, Kim Yeon-suk fue designada directora de la División de Política de Bienestar y Kang Jun-hyuk director de la División de Medicamentos Cubiertos por Seguros, como parte de traslados de nivel de jefe de división. KOSHA nombró a Jung Hye-sun auditora permanente, y la Agencia de Patrimonio designó a Jang Cheol-ho jefe de la división de uso del patrimonio cultural. El hospital también incluyó un nombramiento vinculado a apoyo de gestión y planificación. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ministério da Saúde, KOSHA e Patrimônio anunciam novas nomeações",
-        "excerpt": "O Ministério da Saúde da Coreia do Sul, a KOSHA, a Agência de Patrimônio e o Hospital da Universidade Nacional de Seul divulgaram mudanças de pessoal.",
-        "body": "Foram divulgadas mudanças de pessoal no Ministério da Saúde e Bem-Estar da Coreia do Sul, na Agência Coreana de Segurança e Saúde Ocupacional, na Agência de Patrimônio da Coreia e no Hospital da Universidade Nacional de Seul. No ministério, Kim Yeon-suk foi nomeada diretora da Divisão de Política de Bem-Estar, e Kang Jun-hyuk diretor da Divisão de Medicamentos Cobertos por Seguro, em transferências de nível de chefia. A KOSHA nomeou Jung Hye-sun auditora permanente, enquanto a Agência de Patrimônio designou Jang Cheol-ho chefe da divisão de uso do patrimônio cultural. O hospital também listou uma nomeação ligada a apoio administrativo e planejamento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Gesundheitsministerium, KOSHA und Kulturerbe-Agentur melden Personalwechsel",
-        "excerpt": "Das südkoreanische Gesundheitsministerium, KOSHA, die Korea Heritage Agency und das Seoul National University Hospital gaben neue Ernennungen bekannt.",
-        "body": "Mehrere südkoreanische Institutionen haben Personaländerungen gemeldet, darunter das Ministerium für Gesundheit und Wohlfahrt, die Korea Occupational Safety and Health Agency, die Korea Heritage Agency und das Seoul National University Hospital. Im Gesundheitsministerium wurde Kim Yeon-suk zur Leiterin der Abteilung für Wohlfahrtspolitik ernannt, Kang Jun-hyuk zur Leitung der Abteilung für versicherte Arzneimittel. KOSHA ernannte Jung Hye-sun zur ständigen Prüferin, die Korea Heritage Agency berief Jang Cheol-ho zum Leiter der Abteilung für Nutzung des Kulturerbes. Das Krankenhaus nannte zudem eine Ernennung im Bereich Verwaltungsunterstützung und Planung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Santé, KOSHA et patrimoine en Corée annoncent des nominations clés",
-        "excerpt": "Le ministère sud-coréen de la Santé, la KOSHA, l’Agence du patrimoine et l’Hôpital de l’Université nationale de Séoul ont annoncé des mouvements de personnel.",
-        "body": "Des mouvements de personnel ont été annoncés au ministère sud-coréen de la Santé et du Bien-être, à l’Agence coréenne de sécurité et de santé au travail, à l’Agence coréenne du patrimoine et à l’Hôpital de l’Université nationale de Séoul. Au ministère, Kim Yeon-suk devient directrice de la division de la politique sociale, tandis que Kang Jun-hyuk prend la direction de la division des médicaments couverts par l’assurance. La KOSHA a nommé Jung Hye-sun auditrice permanente, et l’Agence du patrimoine a désigné Jang Cheol-ho à la tête de la division d’utilisation du patrimoine culturel. L’hôpital a aussi signalé une nomination liée au soutien de gestion et à la planification. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "وزارة الصحة الكورية وKOSHA وهيئة التراث تعلن تعيينات رئيسية",
-        "excerpt": "أعلنت وزارة الصحة والرفاه الكورية وKOSHA وهيئة التراث الكورية ومستشفى جامعة سول الوطنية تغييرات تشمل نقل مديرين وتعيينات قيادية.",
-        "body": "أُعلنت تغييرات في عدد من المؤسسات الكورية الجنوبية، بينها وزارة الصحة والرفاه، ووكالة السلامة والصحة المهنية الكورية، وهيئة التراث الكورية، ومستشفى جامعة سول الوطنية. في وزارة الصحة، نُقلت كيم يون سوك إلى منصب مديرة قسم سياسة الرفاه، وعُين كانغ جون هيوك مديرا لقسم الأدوية المشمولة بالتأمين. وعيّنت وكالة السلامة والصحة المهنية جونغ هي سون مدققة دائمة، فيما اختارت هيئة التراث الكورية جانغ تشول هو رئيسا لقسم استخدام التراث الثقافي. كما ورد تعيين في مستشفى جامعة سول الوطنية مرتبط بمكتب دعم إدارة المستشفى والتخطيط. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया के स्वास्थ्य मंत्रालय, KOSHA और विरासत एजेंसी में अहम नियुक्तियां",
-        "excerpt": "दक्षिण कोरिया के स्वास्थ्य मंत्रालय, KOSHA, कोरिया हेरिटेज एजेंसी और सियोल नेशनल यूनिवर्सिटी हॉस्पिटल ने स्थानांतरण और वरिष्ठ नियुक्तियां घोषित कीं।",
-        "body": "दक्षिण कोरिया के स्वास्थ्य और कल्याण मंत्रालय, कोरिया ऑक्यूपेशनल सेफ्टी एंड हेल्थ एजेंसी, कोरिया हेरिटेज एजेंसी और सियोल नेशनल यूनिवर्सिटी हॉस्पिटल में कर्मियों से जुड़े बदलाव सामने आए। स्वास्थ्य मंत्रालय में निदेशक स्तर के स्थानांतरण के तहत किम योन-सुक को वेलफेयर पॉलिसी डिविजन का निदेशक और कांग जून-ह्युक को फार्मास्युटिकल बेनिफिट्स डिविजन का निदेशक नियुक्त किया गया। KOSHA ने जंग ह्ये-सन को स्थायी लेखा परीक्षक बनाया, जबकि कोरिया हेरिटेज एजेंसी ने जांग चोल-हो को सांस्कृतिक विरासत उपयोग विभाग का प्रमुख नियुक्त किया। अस्पताल ने प्रबंधन समर्थन और योजना से जुड़ी नियुक्ति भी सूचीबद्ध की। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kementerian Kesehatan, KOSHA dan Badan Warisan Umumkan Mutasi Kunci",
-        "excerpt": "Kementerian Kesehatan Korea Selatan, KOSHA, Badan Warisan Korea dan Rumah Sakit Universitas Nasional Seoul mengumumkan mutasi serta penunjukan pejabat.",
-        "body": "Perubahan personalia diumumkan di sejumlah lembaga Korea Selatan, termasuk Kementerian Kesehatan dan Kesejahteraan, Badan Keselamatan dan Kesehatan Kerja Korea, Badan Warisan Korea, serta Rumah Sakit Universitas Nasional Seoul. Di kementerian, Kim Yeon-suk ditunjuk sebagai kepala Divisi Kebijakan Kesejahteraan, sedangkan Kang Jun-hyuk menjadi kepala Divisi Obat yang Ditanggung Asuransi dalam mutasi tingkat kepala divisi. KOSHA menunjuk Jung Hye-sun sebagai auditor tetap, dan Badan Warisan Korea menunjuk Jang Cheol-ho sebagai kepala divisi pemanfaatan warisan budaya. Rumah sakit juga mencantumkan penunjukan terkait dukungan manajemen dan perencanaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "aef3edbbd745",
-    "slug": "부음-이준재씨-별세-외-640153",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T08:18:59.576Z",
-    "updatedAt": "2026-05-14T08:18:59.576Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12047763",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12047763",
-    "titleFingerprint": "23f69532fa2883dddf7fad9e0436947a11509b5e",
-    "dedupKeys": [
-      "aef3edbbd745abd659f44cd8925594d3c0159dda",
-      "23f69532fa2883dddf7fad9e0436947a11509b5e",
-      "45ac51fc058e1e2de4df791b15cdc3c760efc4a3"
-    ],
-    "imageUrl": "/images/articles/aef3edbbd745.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이준재 씨 별세, 이은석 일요신문 광고국장 부친상…16일 발인",
-        "excerpt": "이준재 씨가 별세했다. 이은석 일요신문사 광고국장 등 유족은 14일 김포우리병원에 빈소를 마련했으며 발인은 16일 낮 진행된다.",
-        "body": "이준재 씨가 별세했다. 고인은 이은석 일요신문사 광고국장, 이성호 정읍시청 팀장, 이애경 씨, 이수진 씨의 부친이다. 김은주 씨와 임솜결 씨는 시부상이며, 지준섭 씨와 김석태 씨는 장인상을 당했다. 빈소는 14일 김포우리병원에 마련됐다. 발인은 16일 낮으로 예정돼 있다. 이번 부음은 유족과 지인들에게 장례 일정과 조문 장소를 알리기 위한 공지 성격이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Lee Jun-jae Passes Away; Father of Illyo Shinmun Ad Director Lee Eun-seok",
-        "excerpt": "Lee Jun-jae has passed away. His family set up a funeral hall at Gimpo Woori Hospital on May 14, with the funeral procession scheduled for noon on May 16.",
-        "body": "Lee Jun-jae has passed away. He was the father of Lee Eun-seok, advertising director at Illyo Shinmun, Lee Seong-ho, a team leader at Jeongeup City Hall, Lee Ae-gyeong, and Lee Su-jin. Kim Eun-joo and Im Som-gyeol are daughters-in-law of the deceased, while Ji Jun-seop and Kim Seok-tae are sons-in-law. The funeral hall was arranged at Gimpo Woori Hospital on May 14. The funeral procession is scheduled for noon on May 16. The notice provides funeral schedule and visitation information for relatives and acquaintances. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "李俊宰氏が死去、李恩錫・日曜新聞広告局長の父…16日出棺",
-        "excerpt": "李俊宰氏が死去した。遺族は5月14日に金浦ウリ病院に葬儀場を設け、出棺は5月16日正午に予定されている。",
-        "body": "李俊宰氏が死去した。故人は、日曜新聞社広告局長の李恩錫氏、井邑市庁チーム長の李成浩氏、李愛敬氏、李秀珍氏の父にあたる。金恩珠氏と林솜결氏は嫁、池俊燮氏と金錫泰氏は婿として喪に服している。葬儀場は5月14日、金浦ウリ病院に設けられた。出棺は5月16日正午の予定。今回の訃報は、遺族と知人に葬儀日程と弔問場所を知らせるための案内である。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "李俊宰去世，李恩锡《星期日新闻》广告局长父亲丧礼16日出殡",
-        "excerpt": "李俊宰去世。家属于5月14日在金浦我们医院设置灵堂，出殡时间定于5月16日中午。",
-        "body": "李俊宰去世。逝者是《星期日新闻》广告局长李恩锡、井邑市厅组长李成浩、李爱敬、李秀珍的父亲。金恩珠、林솜결为其儿媳，池俊燮、金锡泰为其女婿。灵堂已于5月14日设在金浦我们医院。出殡定于5月16日中午举行。此次讣告旨在向遗属、亲友和相关人士告知葬礼日程及吊唁地点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Fallece Lee Jun-jae, padre de Lee Eun-seok, director de anuncios de Illyo Shinmun",
-        "excerpt": "Lee Jun-jae falleció. La familia instaló la capilla ardiente el 14 de mayo en el Hospital Gimpo Woori y el cortejo será el 16 de mayo al mediodía.",
-        "body": "Lee Jun-jae falleció. Era padre de Lee Eun-seok, director de publicidad de Illyo Shinmun; de Lee Seong-ho, jefe de equipo en el Ayuntamiento de Jeongeup; y de Lee Ae-gyeong y Lee Su-jin. Kim Eun-joo e Im Som-gyeol son sus nueras, mientras que Ji Jun-seop y Kim Seok-tae son sus yernos. La capilla ardiente se instaló el 14 de mayo en el Hospital Gimpo Woori. El cortejo fúnebre está previsto para el mediodía del 16 de mayo. El aviso informa a familiares y conocidos sobre el calendario del funeral y el lugar de condolencias. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Morre Lee Jun-jae, pai de Lee Eun-seok, diretor de publicidade do Illyo Shinmun",
-        "excerpt": "Lee Jun-jae morreu. A família instalou a sala funerária em 14 de maio no Hospital Gimpo Woori, e o cortejo está marcado para o meio-dia de 16 de maio.",
-        "body": "Lee Jun-jae morreu. Ele era pai de Lee Eun-seok, diretor de publicidade do Illyo Shinmun; de Lee Seong-ho, chefe de equipe da Prefeitura de Jeongeup; e de Lee Ae-gyeong e Lee Su-jin. Kim Eun-joo e Im Som-gyeol são suas noras, enquanto Ji Jun-seop e Kim Seok-tae são seus genros. A sala funerária foi preparada em 14 de maio no Hospital Gimpo Woori. O cortejo está previsto para o meio-dia de 16 de maio. O comunicado informa familiares e conhecidos sobre o cronograma do funeral e o local de condolências. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lee Jun-jae gestorben: Vater von Illyo-Shinmun-Werbeleiter Lee Eun-seok",
-        "excerpt": "Lee Jun-jae ist verstorben. Die Familie richtete am 14. Mai im Gimpo Woori Hospital eine Trauerhalle ein; die Beisetzung ist für den 16. Mai mittags angesetzt.",
-        "body": "Lee Jun-jae ist verstorben. Er war der Vater von Lee Eun-seok, Werbeleiter bei Illyo Shinmun, von Lee Seong-ho, Teamleiter im Rathaus von Jeongeup, sowie von Lee Ae-gyeong und Lee Su-jin. Kim Eun-joo und Im Som-gyeol sind seine Schwiegertöchter, Ji Jun-seop und Kim Seok-tae seine Schwiegersöhne. Die Trauerhalle wurde am 14. Mai im Gimpo Woori Hospital eingerichtet. Der Trauerzug ist für den 16. Mai mittags vorgesehen. Die Mitteilung informiert Angehörige und Bekannte über Termin und Ort der Kondolenz. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Décès de Lee Jun-jae, père de Lee Eun-seok, directeur publicité d’Illyo Shinmun",
-        "excerpt": "Lee Jun-jae est décédé. Sa famille a installé la chambre funéraire le 14 mai à l’hôpital Gimpo Woori, avec un départ prévu le 16 mai à midi.",
-        "body": "Lee Jun-jae est décédé. Il était le père de Lee Eun-seok, directeur de la publicité d’Illyo Shinmun, de Lee Seong-ho, chef d’équipe à la mairie de Jeongeup, ainsi que de Lee Ae-gyeong et Lee Su-jin. Kim Eun-joo et Im Som-gyeol sont ses belles-filles, tandis que Ji Jun-seop et Kim Seok-tae sont ses gendres. La chambre funéraire a été installée le 14 mai à l’hôpital Gimpo Woori. Le départ du cortège est prévu le 16 mai à midi. L’avis communique aux proches et connaissances le calendrier des obsèques et le lieu des condoléances. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "وفاة لي جون-جاي، والد لي أون-سوك مدير الإعلانات في صحيفة إيليو شينمون",
-        "excerpt": "توفي لي جون-جاي. أقامت الأسرة قاعة العزاء في 14 مايو في مستشفى غيمبو ووري، ومن المقرر أن يكون التشييع ظهر 16 مايو.",
-        "body": "توفي لي جون-جاي. الراحل هو والد لي أون-سوك، مدير الإعلانات في صحيفة إيليو شينمون، ولي سونغ-هو، رئيس فريق في بلدية جونغ أوب، ولي إيه-غيونغ، ولي سو-جين. وتعد كيم أون-جو وإيم سوم-غيول كنتيه، بينما يعد جي جون-سوب وكيم سوك-تاي صهريه. أُقيمت قاعة العزاء في 14 مايو في مستشفى غيمبو ووري. ومن المقرر أن يجري التشييع ظهر 16 مايو. يهدف النعي إلى إبلاغ أفراد الأسرة والمعارف بموعد الجنازة ومكان تقديم العزاء. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ली जून-जे का निधन, इल्यो शिनमुन विज्ञापन निदेशक ली यून-सोक के पिता थे",
-        "excerpt": "ली जून-जे का निधन हो गया। परिवार ने 14 मई को गिम्पो वूरी अस्पताल में अंतिम संस्कार कक्ष रखा है और विदाई 16 मई दोपहर तय है।",
-        "body": "ली जून-जे का निधन हो गया। वे इल्यो शिनमुन के विज्ञापन निदेशक ली यून-सोक, जोंगउप सिटी हॉल के टीम लीडर ली सोंग-हो, ली ए-ग्योंग और ली सु-जिन के पिता थे। किम यून-जू और इम सोम-ग्योल उनकी पुत्रवधुएं हैं, जबकि जी जून-सोप और किम सोक-ते उनके दामाद हैं। अंतिम संस्कार कक्ष 14 मई को गिम्पो वूरी अस्पताल में स्थापित किया गया। विदाई 16 मई दोपहर निर्धारित है। यह शोक सूचना परिजनों और परिचितों को अंतिम संस्कार की तिथि और शोक स्थल बताने के लिए है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lee Jun-jae Meninggal, Ayah Lee Eun-seok Direktur Iklan Illyo Shinmun",
-        "excerpt": "Lee Jun-jae meninggal dunia. Keluarga membuka ruang duka pada 14 Mei di Rumah Sakit Gimpo Woori, dengan prosesi pelepasan dijadwalkan siang 16 Mei.",
-        "body": "Lee Jun-jae meninggal dunia. Almarhum adalah ayah dari Lee Eun-seok, direktur periklanan Illyo Shinmun; Lee Seong-ho, kepala tim di Balai Kota Jeongeup; Lee Ae-gyeong; dan Lee Su-jin. Kim Eun-joo dan Im Som-gyeol adalah menantu perempuan, sementara Ji Jun-seop dan Kim Seok-tae adalah menantu laki-laki. Ruang duka dibuka pada 14 Mei di Rumah Sakit Gimpo Woori. Prosesi pelepasan dijadwalkan pada siang 16 Mei. Kabar duka ini menyampaikan jadwal pemakaman dan lokasi pelayat kepada keluarga serta kenalan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0714378cbdae",
-    "slug": "lg-미래-기술-인재-선점-나섰다-729985",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T08:17:44.664Z",
-    "updatedAt": "2026-05-14T08:17:44.664Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047765",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047765",
-    "titleFingerprint": "0a302e8df9df12d6c3a20196b3c971b59200edb3",
-    "dedupKeys": [
-      "0714378cbdaec45beb5eae0438becd89d59effcd",
-      "0a302e8df9df12d6c3a20196b3c971b59200edb3",
-      "cfb7adc44fdb4a94c620741033a34445d00f44a7"
-    ],
-    "imageUrl": "/images/articles/0714378cbdae.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG 테크 콘퍼런스 14일 개최, 알파 세대부터 석박사까지 미래 기술 인재 확보 본격화",
-        "excerpt": "LG는 14일 알파 세대 과학 영재와 국내외 석박사 등 미래 기술 인재를 확보하기 위해 LG 테크 콘퍼런스를 개최하며 인재 선점에 나섰다.",
-        "body": "LG가 14일 미래 기술 인재 확보를 위한 LG 테크 콘퍼런스를 개최했다. 대상은 2010~2024년생 알파 세대 과학 영재부터 국내외 석박사 인재까지 포함됐다. 이번 행사는 미래 기술 분야에서 성장 가능성이 있는 인재를 조기에 만나고, LG가 필요한 기술 역량을 확보하기 위한 자리로 마련됐다. LG 테크 콘퍼런스는 2012년 시작된 프로그램이다. LG는 이번 콘퍼런스를 통해 과학 영재와 고급 연구 인력을 폭넓게 접촉하며 미래 기술 경쟁력 기반을 다지려는 흐름을 보였다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LG Tech Conference Opens on the 14th to Secure Future Technology Talent",
-        "excerpt": "LG held the LG Tech Conference on the 14th to secure future technology talent, from Alpha Generation science prodigies to master’s and doctoral researchers at home and abroad.",
-        "body": "LG held the LG Tech Conference on the 14th to secure future technology talent. The event covered science prodigies from the Alpha Generation, born between 2010 and 2024, as well as master’s and doctoral talent in Korea and overseas. It was organized as a venue for LG to meet people with growth potential in future technology fields and to secure the technical capabilities it needs. The LG Tech Conference began in 2012. Through this conference, LG showed a move to build a foundation for future technology competitiveness by broadly engaging science prodigies and advanced research talent. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LGテックカンファレンス14日開催、アルファ世代から修博士人材まで確保へ",
-        "excerpt": "LGは14日、アルファ世代の科学英才から国内外の修士・博士人材まで、未来技術人材を確保するためLGテックカンファレンスを開催した。",
-        "body": "LGは14日、未来技術人材の確保に向けてLGテックカンファレンスを開催した。対象には、2010年から2024年生まれのアルファ世代の科学英才から、国内外の修士・博士人材までが含まれた。今回の行事は、未来技術分野で成長可能性のある人材と早期に接点を持ち、LGが必要とする技術力を確保するための場として設けられた。LGテックカンファレンスは2012年に始まったプログラムだ。LGは今回のカンファレンスを通じ、科学英才と高度研究人材に幅広く接触し、未来技術競争力の基盤を固める動きを示した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LG技术大会14日举行，面向Alpha世代至海内外硕博人才",
-        "excerpt": "LG于14日举行LG技术大会，面向Alpha世代科学英才以及韩国国内外硕博人才，推进未来技术人才 확보。",
-        "body": "LG于14日举行LG技术大会，旨在 확보未来技术人才。对象包括2010年至2024年出生的Alpha世代科学英才，以及韩国国内外硕士、博士人才。此次活动被设置为LG及早接触未来技术领域中具备成长潜力的人才，并 확보所需技术能力的平台。LG技术大会始于2012年。通过本次大会，LG展现出广泛接触科学英才和高端研究人才、夯实未来技术竞争力基础的动向。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "LG celebra Tech Conference el día 14 para captar talento tecnológico futuro",
-        "excerpt": "LG celebró el día 14 la LG Tech Conference para captar talento tecnológico futuro, desde prodigios científicos de la generación Alfa hasta másteres y doctores nacionales e internacionales.",
-        "body": "LG celebró el día 14 la LG Tech Conference para asegurar talento tecnológico de futuro. El encuentro incluyó a prodigios científicos de la generación Alfa, nacidos entre 2010 y 2024, así como a talento con máster y doctorado de Corea y del extranjero. La cita se preparó como un espacio para que LG conozca de forma temprana a personas con potencial de crecimiento en áreas de tecnología futura y asegure las capacidades técnicas que necesita. La LG Tech Conference comenzó en 2012. Con esta conferencia, LG mostró su intención de ampliar el contacto con prodigios científicos e investigadores avanzados para reforzar la base de su competitividad tecnológica futura. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "LG realiza Tech Conference no dia 14 para captar talentos de tecnologia futura",
-        "excerpt": "A LG realizou no dia 14 a LG Tech Conference para captar talentos de tecnologia futura, de jovens prodígios científicos da geração Alfa a mestres e doutores no país e no exterior.",
-        "body": "A LG realizou no dia 14 a LG Tech Conference para garantir talentos de tecnologia futura. O público incluiu prodígios científicos da geração Alfa, nascidos entre 2010 e 2024, além de talentos com mestrado e doutorado na Coreia e no exterior. O evento foi preparado como um espaço para a LG encontrar cedo pessoas com potencial de crescimento em áreas de tecnologia futura e assegurar as competências técnicas de que precisa. A LG Tech Conference começou em 2012. Por meio desta conferência, a LG mostrou um movimento para ampliar o contato com prodígios científicos e pesquisadores avançados, fortalecendo a base de sua competitividade tecnológica futura. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LG Tech Conference am 14. eröffnet, Fokus auf künftige Technologietalente",
-        "excerpt": "LG veranstaltete am 14. die LG Tech Conference, um künftige Technologietalente zu gewinnen, von naturwissenschaftlich Begabten der Alpha-Generation bis zu Master- und Promotionskräften im In- und Ausland.",
-        "body": "LG hat am 14. die LG Tech Conference veranstaltet, um künftige Technologietalente zu sichern. Angesprochen wurden naturwissenschaftlich Begabte der Alpha-Generation, geboren zwischen 2010 und 2024, ebenso wie Master- und Promotionskräfte in Korea und im Ausland. Die Veranstaltung wurde als Plattform vorbereitet, auf der LG frühzeitig Menschen mit Wachstumspotenzial in Zukunftstechnologien treffen und die benötigten technischen Fähigkeiten sichern kann. Die LG Tech Conference begann 2012. Mit der Konferenz zeigte LG den Schritt, durch breiten Kontakt zu naturwissenschaftlichen Talenten und hochqualifizierten Forschungskräften die Grundlage für künftige technologische Wettbewerbsfähigkeit zu stärken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LG organise sa Tech Conference le 14 pour attirer les talents technologiques",
-        "excerpt": "LG a organisé le 14 la LG Tech Conference afin d’attirer les talents des technologies d’avenir, des jeunes scientifiques de la génération Alpha aux masters et docteurs en Corée et à l’étranger.",
-        "body": "LG a organisé le 14 la LG Tech Conference pour 확보 les talents des technologies d’avenir. Le public visé allait des jeunes scientifiques de la génération Alpha, nés entre 2010 et 2024, aux titulaires de masters et doctorats en Corée et à l’étranger. L’événement a été conçu comme un lieu permettant à LG de rencontrer tôt des profils à potentiel dans les domaines des technologies futures et d’obtenir les compétences techniques nécessaires. La LG Tech Conference a débuté en 2012. Avec cette conférence, LG a montré sa volonté d’élargir ses contacts avec les jeunes talents scientifiques et les chercheurs de haut niveau afin de consolider la base de sa compétitivité technologique future. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إل جي تعقد مؤتمرها التقني في 14 لاستقطاب مواهب تكنولوجيا المستقبل",
-        "excerpt": "عقدت إل جي في 14 مؤتمر LG Tech Conference لاستقطاب مواهب تكنولوجيا المستقبل، من موهوبي العلوم في جيل ألفا إلى حملة الماجستير والدكتوراه داخل كوريا وخارجها.",
-        "body": "عقدت إل جي في 14 مؤتمر LG Tech Conference بهدف تأمين مواهب تكنولوجيا المستقبل. وشمل المستهدفون موهوبي العلوم من جيل ألفا، المولودين بين 2010 و2024، إضافة إلى أصحاب الماجستير والدكتوراه داخل كوريا وخارجها. وجاء الحدث كمساحة تتيح للشركة لقاء أصحاب الإمكانات في مجالات التكنولوجيا المستقبلية في وقت مبكر، وتأمين القدرات التقنية التي تحتاجها. بدأ مؤتمر LG Tech Conference في عام 2012. ومن خلال هذا المؤتمر، أظهرت إل جي توجها لتوسيع التواصل مع المواهب العلمية والباحثين المتقدمين، وبناء أساس للتنافسية في تقنيات المستقبل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LG Tech Conference 14 को आयोजित, भविष्य की तकनीकी प्रतिभा पर फोकस",
-        "excerpt": "LG ने 14 तारीख को LG Tech Conference आयोजित की, जिसका उद्देश्य अल्फा पीढ़ी के विज्ञान प्रतिभाशाली छात्रों से लेकर देश-विदेश के मास्टर और पीएचडी प्रतिभाओं तक भविष्य की तकनीकी प्रतिभा 확보 करना है।",
-        "body": "LG ने 14 तारीख को भविष्य की तकनीकी प्रतिभा 확보 करने के लिए LG Tech Conference आयोजित की। इसमें 2010 से 2024 के बीच जन्मी अल्फा पीढ़ी के विज्ञान प्रतिभाशाली छात्रों से लेकर कोरिया और विदेशों के मास्टर तथा पीएचडी स्तर की प्रतिभाएं शामिल थीं। यह आयोजन भविष्य की तकनीक के क्षेत्रों में विकास क्षमता रखने वाले लोगों से शुरुआती संपर्क बनाने और LG को आवश्यक तकनीकी क्षमताएं 확보 करने के लिए तैयार किया गया। LG Tech Conference की शुरुआत 2012 में हुई थी। इस सम्मेलन के जरिए LG ने विज्ञान प्रतिभाओं और उच्च शोध प्रतिभाओं से व्यापक संपर्क बनाकर भविष्य की तकनीकी प्रतिस्पर्धा की नींव मजबूत करने की दिशा दिखाई। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "LG Gelar Tech Conference pada 14, Bidik Talenta Teknologi Masa Depan",
-        "excerpt": "LG menggelar LG Tech Conference pada 14 untuk mengamankan talenta teknologi masa depan, dari anak berbakat sains Generasi Alfa hingga lulusan magister dan doktor di dalam dan luar negeri.",
-        "body": "LG menggelar LG Tech Conference pada 14 untuk mengamankan talenta teknologi masa depan. Sasarannya mencakup anak berbakat sains dari Generasi Alfa, yang lahir pada 2010 hingga 2024, serta talenta magister dan doktor di Korea maupun luar negeri. Acara ini disiapkan sebagai tempat bagi LG untuk lebih awal bertemu orang-orang yang memiliki potensi tumbuh di bidang teknologi masa depan dan 확보 kemampuan teknis yang dibutuhkan. LG Tech Conference dimulai pada 2012. Melalui konferensi ini, LG menunjukkan langkah untuk memperluas kontak dengan talenta sains dan peneliti tingkat lanjut, sekaligus membangun dasar daya saing teknologi masa depan. Sumber: mk.co.kr"
       }
     }
   }

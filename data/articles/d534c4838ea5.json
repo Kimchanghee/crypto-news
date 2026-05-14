@@ -1,0 +1,75 @@
+{
+  "id": "d534c4838ea5",
+  "slug": "openai-confirms-security-breach-linked-to-ai-malware-campaig-978821",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-14T22:47:11.954Z",
+  "updatedAt": "2026-05-14T22:47:11.954Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367883/openai-confirms-security-breach-ai-malware-campaign",
+  "canonicalUrl": "https://decrypt.co/367883/openai-confirms-security-breach-ai-malware-campaign",
+  "titleFingerprint": "df0535015695daaeef8eb84253e99451654a20c2",
+  "dedupKeys": [
+    "d534c4838ea59499ab81075d5de09f005394fc48",
+    "df0535015695daaeef8eb84253e99451654a20c2",
+    "468b818554bde96c30b77bb6bc004ba68aa967c0"
+  ],
+  "imageUrl": "/images/articles/d534c4838ea5.png",
+  "i18n": {
+    "ko": {
+      "title": "OpenAI 보안 침해 확인, Shai-Hulud AI 악성코드 캠페인 연관",
+      "excerpt": "OpenAI는 Shai-Hulud 공급망 공격과 연계된 악성코드가 직원 기기 2대를 감염시킨 뒤 내부 저장소에 접근했다고 밝혔다.",
+      "body": "OpenAI가 Shai-Hulud 공급망 공격과 연계된 악성코드로 인한 보안 침해를 확인했다. 회사에 따르면 해당 악성코드는 직원 기기 2대를 감염시킨 뒤 내부 저장소에 접근했다. 이번 사안은 AI 악성코드 캠페인이 소프트웨어 공급망을 통해 조직 내부 시스템까지 영향을 미칠 수 있음을 보여준다. 현재 공개된 핵심 내용은 감염된 기기 수가 2대였고, 접근 대상이 내부 저장소였다는 점이다. OpenAI는 침해 사실을 확인했으며, 관련 보도는 decrypt.co가 전했다."
+    },
+    "en": {
+      "title": "OpenAI Confirms Security Breach Tied to Shai-Hulud AI Malware",
+      "excerpt": "OpenAI said malware linked to the Shai-Hulud supply chain attack infected two employee devices and then accessed internal repositories.",
+      "body": "OpenAI has confirmed a security breach involving malware connected to the Shai-Hulud supply chain attack. According to the company, the malware infected two employee devices before accessing internal repositories. The case shows how an AI malware campaign tied to software supply chains can reach internal systems inside an organization. The key details disclosed so far are that two devices were infected and that the accessed target was internal repositories. OpenAI confirmed the breach, and the report was cited by decrypt.co."
+    },
+    "ja": {
+      "title": "OpenAIがShai-Hulud系AIマルウェアによる侵害を確認",
+      "excerpt": "OpenAIは、Shai-Huludのサプライチェーン攻撃に関連するマルウェアが従業員端末2台に感染し、内部リポジトリへアクセスしたと明らかにした。",
+      "body": "OpenAIは、Shai-Huludのサプライチェーン攻撃に関連するマルウェアによるセキュリティ侵害を確認した。同社によると、このマルウェアは従業員の端末2台に感染した後、内部リポジトリへアクセスした。今回の事案は、ソフトウェア供給網に絡むAIマルウェアキャンペーンが組織内システムにまで影響し得ることを示している。現時点で明らかな主な事実は、感染端末が2台だったこと、アクセス先が内部リポジトリだったことだ。OpenAIが侵害を確認し、decrypt.coが報じた。"
+    },
+    "zh": {
+      "title": "OpenAI确认安全事件，关联Shai-Hulud AI恶意软件活动",
+      "excerpt": "OpenAI表示，与Shai-Hulud供应链攻击有关的恶意软件感染了两台员工设备，随后访问了内部代码库。",
+      "body": "OpenAI确认发生一起与Shai-Hulud供应链攻击相关的安全事件。该公司表示，相关恶意软件先感染了两台员工设备，随后访问了内部代码库。此事显示，依托软件供应链传播的AI恶意软件活动可能影响组织内部系统。目前公开的核心信息包括：受感染设备为两台，访问目标为内部代码库。OpenAI已确认该安全事件，decrypt.co对此进行了报道。"
+    },
+    "es": {
+      "title": "OpenAI confirma brecha vinculada al malware de IA Shai-Hulud",
+      "excerpt": "OpenAI dijo que un malware ligado al ataque de cadena de suministro Shai-Hulud infectó dos dispositivos de empleados y accedió a repositorios internos.",
+      "body": "OpenAI confirmó una brecha de seguridad relacionada con un malware vinculado al ataque de cadena de suministro Shai-Hulud. Según la compañía, el malware infectó dos dispositivos de empleados antes de acceder a repositorios internos. El caso muestra cómo una campaña de malware de IA conectada con la cadena de suministro de software puede alcanzar sistemas internos de una organización. Los datos clave divulgados hasta ahora son que hubo dos dispositivos infectados y que el objetivo accedido fueron repositorios internos. OpenAI confirmó el incidente, reportado por decrypt.co."
+    },
+    "pt": {
+      "title": "OpenAI confirma violação ligada ao malware de IA Shai-Hulud",
+      "excerpt": "A OpenAI disse que um malware associado ao ataque de cadeia de suprimentos Shai-Hulud infectou dois dispositivos de funcionários e acessou repositórios internos.",
+      "body": "A OpenAI confirmou uma violação de segurança relacionada a um malware ligado ao ataque de cadeia de suprimentos Shai-Hulud. Segundo a empresa, o malware infectou dois dispositivos de funcionários antes de acessar repositórios internos. O caso mostra como uma campanha de malware de IA conectada à cadeia de suprimentos de software pode atingir sistemas internos de uma organização. As principais informações divulgadas até agora são que dois dispositivos foram infectados e que o alvo acessado foram repositórios internos. A OpenAI confirmou a violação, informada pela decrypt.co."
+    },
+    "de": {
+      "title": "OpenAI bestätigt Sicherheitsvorfall durch Shai-Hulud-KI-Malware",
+      "excerpt": "OpenAI erklärte, Malware im Zusammenhang mit dem Shai-Hulud-Lieferkettenangriff habe zwei Mitarbeitergeräte infiziert und interne Repositories aufgerufen.",
+      "body": "OpenAI hat einen Sicherheitsvorfall bestätigt, der mit Malware aus dem Shai-Hulud-Lieferkettenangriff zusammenhängt. Nach Angaben des Unternehmens infizierte die Malware zwei Mitarbeitergeräte und griff anschließend auf interne Repositories zu. Der Fall zeigt, dass eine mit Software-Lieferketten verbundene KI-Malware-Kampagne interne Systeme einer Organisation erreichen kann. Die bislang bekannten Kerndaten sind, dass zwei Geräte infiziert wurden und dass interne Repositories betroffen waren. OpenAI bestätigte den Vorfall; berichtet wurde dies von decrypt.co."
+    },
+    "fr": {
+      "title": "OpenAI confirme une faille liée au malware IA Shai-Hulud",
+      "excerpt": "OpenAI a indiqué qu’un malware lié à l’attaque de chaîne d’approvisionnement Shai-Hulud avait infecté deux appareils d’employés puis accédé à des dépôts internes.",
+      "body": "OpenAI a confirmé une faille de sécurité impliquant un malware lié à l’attaque de chaîne d’approvisionnement Shai-Hulud. Selon l’entreprise, ce malware a infecté deux appareils d’employés avant d’accéder à des dépôts internes. L’affaire montre qu’une campagne de malware IA associée à la chaîne d’approvisionnement logicielle peut atteindre des systèmes internes d’une organisation. Les éléments clés connus à ce stade sont que deux appareils ont été infectés et que la cible consultée était des dépôts internes. OpenAI a confirmé l’incident, rapporté par decrypt.co."
+    },
+    "ar": {
+      "title": "OpenAI تؤكد اختراقا أمنيا مرتبطا ببرمجية Shai-Hulud الخبيثة",
+      "excerpt": "قالت OpenAI إن برمجية خبيثة مرتبطة بهجوم سلسلة التوريد Shai-Hulud أصابت جهازين لموظفين ثم وصلت إلى مستودعات داخلية.",
+      "body": "أكدت OpenAI وقوع اختراق أمني مرتبط ببرمجية خبيثة متصلة بهجوم سلسلة التوريد Shai-Hulud. وبحسب الشركة، أصابت البرمجية جهازين تابعين لموظفين قبل أن تصل إلى مستودعات داخلية. يوضح الحادث أن حملة برمجيات خبيثة تعتمد على الذكاء الاصطناعي وترتبط بسلاسل توريد البرمجيات يمكن أن تؤثر في أنظمة داخلية داخل المؤسسات. التفاصيل الأساسية المعلنة حتى الآن هي أن عدد الأجهزة المصابة كان جهازين، وأن هدف الوصول كان مستودعات داخلية. أكدت OpenAI الواقعة، ونقل التقرير موقع decrypt.co."
+    },
+    "hi": {
+      "title": "OpenAI ने Shai-Hulud AI मालवेयर से जुड़ी सुरक्षा सेंध की पुष्टि की",
+      "excerpt": "OpenAI ने कहा कि Shai-Hulud सप्लाई चेन हमले से जुड़ा मालवेयर दो कर्मचारी उपकरणों को संक्रमित कर आंतरिक रिपॉजिटरी तक पहुंचा।",
+      "body": "OpenAI ने Shai-Hulud सप्लाई चेन हमले से जुड़े मालवेयर के कारण हुई सुरक्षा सेंध की पुष्टि की है। कंपनी के अनुसार, इस मालवेयर ने दो कर्मचारी उपकरणों को संक्रमित किया और उसके बाद आंतरिक रिपॉजिटरी तक पहुंच बनाई। यह घटना दिखाती है कि सॉफ्टवेयर सप्लाई चेन से जुड़ा AI मालवेयर अभियान किसी संगठन की आंतरिक प्रणालियों तक पहुंच सकता है। अब तक सामने आए मुख्य तथ्य हैं कि संक्रमित उपकरणों की संख्या दो थी और पहुंच का लक्ष्य आंतरिक रिपॉजिटरी थीं। OpenAI ने सेंध की पुष्टि की, और यह रिपोर्ट decrypt.co ने दी।"
+    },
+    "id": {
+      "title": "OpenAI Konfirmasi Pelanggaran Keamanan Terkait Malware AI Shai-Hulud",
+      "excerpt": "OpenAI mengatakan malware yang terkait serangan rantai pasok Shai-Hulud menginfeksi dua perangkat karyawan lalu mengakses repositori internal.",
+      "body": "OpenAI mengonfirmasi pelanggaran keamanan yang melibatkan malware terkait serangan rantai pasok Shai-Hulud. Menurut perusahaan, malware tersebut menginfeksi dua perangkat karyawan sebelum mengakses repositori internal. Kasus ini menunjukkan bahwa kampanye malware AI yang terhubung dengan rantai pasok perangkat lunak dapat menjangkau sistem internal organisasi. Informasi utama yang telah diungkap sejauh ini adalah dua perangkat terinfeksi dan target aksesnya adalah repositori internal. OpenAI mengonfirmasi insiden tersebut, sebagaimana dilaporkan oleh decrypt.co."
+    }
+  }
+}

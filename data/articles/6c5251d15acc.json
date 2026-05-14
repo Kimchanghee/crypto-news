@@ -1,0 +1,75 @@
+{
+  "id": "6c5251d15acc",
+  "slug": "kimi-webbridge-lets-ai-agents-drive-your-browserand-keep-you-415352",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-14T22:45:31.708Z",
+  "updatedAt": "2026-05-14T22:45:31.708Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367916/kimi-webbridge-ai-agents-browser-local",
+  "canonicalUrl": "https://decrypt.co/367916/kimi-webbridge-ai-agents-browser-local",
+  "titleFingerprint": "1ea086c2d6abcea3b905987dd2fbd9bc7df069ec",
+  "dedupKeys": [
+    "6c5251d15acce9586ded795f512a8946525f06a6",
+    "1ea086c2d6abcea3b905987dd2fbd9bc7df069ec",
+    "a23dc3ba04f3d6af62a2d5a316f470168c991bd1"
+  ],
+  "imageUrl": "/images/articles/6c5251d15acc.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Kimi WebBridge, AI 에이전트가 브라우저를 조작하는 확장 기능 공개",
+      "excerpt": "Moonshot AI가 Kimi WebBridge 브라우저 확장 기능을 출시해 AI 에이전트가 Chrome·Edge에서 클릭, 스크롤, 양식 입력, 탐색을 로컬 세션으로 수행하게 했다.",
+      "body": "Moonshot AI가 AI 에이전트에 브라우저 조작 권한을 주는 Kimi WebBridge 확장 기능을 공개했다. 이 도구는 Chrome 또는 Edge에서 클릭, 스크롤, 양식 입력, 페이지 탐색을 수행하도록 설계됐다. 핵심은 세션 데이터가 사용자의 기기를 떠나지 않는다는 점이다. 원문에 따르면 Kimi WebBridge는 AI 에이전트가 웹 작업을 직접 처리하게 하면서도 브라우저 세션을 로컬에 유지한다. 이는 웹 자동화와 AI 에이전트 활용이 확대되는 흐름 속에서 개인정보와 작업 환경을 기기 안에 두려는 접근으로 해석된다. 향후 이용자는 반복적인 웹操作를 AI에 맡기면서도 세션 외부 전송 부담을 줄일 수 있다. 출처: decrypt.co."
+    },
+    "en": {
+      "title": "Kimi WebBridge Lets AI Agents Control Browsers While Data Stays Local",
+      "excerpt": "Moonshot AI launched the Kimi WebBridge browser extension, letting AI agents click, scroll, fill forms, and navigate Chrome or Edge while keeping sessions on the user’s machine.",
+      "body": "Moonshot AI has introduced Kimi WebBridge, a browser extension that gives AI agents control over web browsing tasks. The tool is designed to click, scroll, fill out forms, and navigate pages in Chrome or Edge. Its key point is that session data does not leave the user’s device. According to the original report, Kimi WebBridge lets AI agents directly handle web tasks while keeping browser sessions local. In the broader rise of web automation and AI agents, this represents an approach focused on keeping personal data and the working environment on-device. Users may be able to delegate repetitive browser actions to AI while reducing concerns about session data being sent elsewhere. Source: decrypt.co."
+    },
+    "ja": {
+      "title": "Kimi WebBridge、AIエージェントがブラウザ操作しデータはローカル保持",
+      "excerpt": "Moonshot AIはKimi WebBridge拡張機能を公開し、AIエージェントがChromeやEdgeでクリック、スクロール、フォーム入力、ページ移動をローカルセッションで行えるようにした。",
+      "body": "Moonshot AIは、AIエージェントにブラウザ操作の権限を与えるKimi WebBridge拡張機能を公開した。このツールはChromeまたはEdge上でクリック、スクロール、フォーム入力、ページ移動を行うよう設計されている。最大の特徴は、セッションデータがユーザーの端末から外へ出ない点だ。原文によると、Kimi WebBridgeはAIエージェントにウェブ作業を直接処理させながら、ブラウザセッションをローカルに保持する。ウェブ自動化とAIエージェント活用が広がる中で、個人データと作業環境を端末内に置くアプローチといえる。今後、利用者は反復的なブラウザ作業をAIに任せつつ、セッション外部送信への懸念を抑えられる。出典: decrypt.co。"
+    },
+    "zh": {
+      "title": "Kimi WebBridge让AI代理操控浏览器，数据仍留在本地",
+      "excerpt": "Moonshot AI推出Kimi WebBridge浏览器扩展，让AI代理在Chrome或Edge中点击、滚动、填写表单和导航，同时把会话保留在用户设备上。",
+      "body": "Moonshot AI发布了Kimi WebBridge浏览器扩展，让AI代理获得执行浏览器操作的能力。该工具面向Chrome和Edge，可完成点击、滚动、填写表单和页面导航等任务。其核心在于，会话数据不会离开用户设备。根据原文，Kimi WebBridge允许AI代理直接处理网页任务，同时将浏览器会话保留在本地。随着网页自动化和AI代理应用扩大，这是一种把个人数据和工作环境留在设备内的做法。未来，用户可将重复性的浏览器操作交给AI，同时减少对会话数据外传的顾虑。来源：decrypt.co。"
+    },
+    "es": {
+      "title": "Kimi WebBridge permite a agentes de IA manejar el navegador con datos locales",
+      "excerpt": "Moonshot AI lanzó la extensión Kimi WebBridge para que agentes de IA hagan clic, desplacen, completen formularios y naveguen en Chrome o Edge manteniendo la sesión en el equipo.",
+      "body": "Moonshot AI presentó Kimi WebBridge, una extensión de navegador que da a los agentes de IA control sobre tareas web. La herramienta está diseñada para hacer clic, desplazarse, completar formularios y navegar páginas en Chrome o Edge. Su punto central es que los datos de sesión no salen del dispositivo del usuario. Según el informe original, Kimi WebBridge permite que los agentes de IA gestionen directamente tareas web mientras las sesiones del navegador permanecen en local. En un contexto de mayor automatización web y uso de agentes de IA, esto plantea un enfoque centrado en mantener los datos personales y el entorno de trabajo dentro del dispositivo. Los usuarios podrán delegar acciones repetitivas del navegador en la IA reduciendo la preocupación por el envío externo de sesiones. Fuente: decrypt.co."
+    },
+    "pt": {
+      "title": "Kimi WebBridge deixa agentes de IA controlar o navegador com dados locais",
+      "excerpt": "A Moonshot AI lançou a extensão Kimi WebBridge para agentes de IA clicarem, rolarem, preencherem formulários e navegarem no Chrome ou Edge mantendo as sessões no dispositivo.",
+      "body": "A Moonshot AI apresentou o Kimi WebBridge, uma extensão de navegador que dá a agentes de IA controle sobre tarefas na web. A ferramenta foi criada para clicar, rolar páginas, preencher formulários e navegar no Chrome ou Edge. O ponto central é que os dados de sessão não saem do dispositivo do usuário. Segundo o relato original, o Kimi WebBridge permite que agentes de IA executem diretamente tarefas web enquanto as sessões do navegador permanecem locais. Com a expansão da automação web e do uso de agentes de IA, trata-se de uma abordagem voltada a manter dados pessoais e o ambiente de trabalho dentro do aparelho. Usuários poderão delegar ações repetitivas do navegador à IA com menor preocupação sobre envio externo de sessões. Fonte: decrypt.co."
+    },
+    "de": {
+      "title": "Kimi WebBridge lässt KI-Agenten Browser steuern, Daten bleiben lokal",
+      "excerpt": "Moonshot AI hat die Browsererweiterung Kimi WebBridge veröffentlicht, mit der KI-Agenten in Chrome oder Edge klicken, scrollen, Formulare ausfüllen und navigieren, während Sitzungen lokal bleiben.",
+      "body": "Moonshot AI hat Kimi WebBridge vorgestellt, eine Browsererweiterung, die KI-Agenten die Steuerung von Webaufgaben ermöglicht. Das Tool ist dafür ausgelegt, in Chrome oder Edge zu klicken, zu scrollen, Formulare auszufüllen und Seiten zu navigieren. Der zentrale Punkt ist, dass Sitzungsdaten das Gerät des Nutzers nicht verlassen. Dem Originalbericht zufolge lässt Kimi WebBridge KI-Agenten Webaufgaben direkt ausführen, während Browsersitzungen lokal bleiben. Vor dem Hintergrund wachsender Webautomatisierung und zunehmender Nutzung von KI-Agenten steht dieser Ansatz dafür, persönliche Daten und Arbeitsumgebung auf dem Gerät zu halten. Nutzer können wiederkehrende Browseraktionen an KI delegieren und zugleich Bedenken wegen externer Sitzungsübertragung verringern. Quelle: decrypt.co."
+    },
+    "fr": {
+      "title": "Kimi WebBridge donne le contrôle du navigateur aux agents IA en local",
+      "excerpt": "Moonshot AI a lancé l’extension Kimi WebBridge, qui permet aux agents IA de cliquer, faire défiler, remplir des formulaires et naviguer dans Chrome ou Edge tout en gardant les sessions sur l’appareil.",
+      "body": "Moonshot AI a présenté Kimi WebBridge, une extension de navigateur qui donne aux agents IA la capacité d’exécuter des tâches web. L’outil est conçu pour cliquer, faire défiler, remplir des formulaires et naviguer dans Chrome ou Edge. Son point clé est que les données de session ne quittent pas l’appareil de l’utilisateur. Selon le rapport original, Kimi WebBridge permet aux agents IA de traiter directement des tâches web tout en maintenant les sessions du navigateur en local. Dans un contexte de développement de l’automatisation web et des agents IA, cette approche vise à garder les données personnelles et l’environnement de travail sur l’appareil. Les utilisateurs peuvent déléguer des actions répétitives du navigateur à l’IA tout en réduisant les inquiétudes liées à l’envoi externe des sessions. Source : decrypt.co."
+    },
+    "ar": {
+      "title": "Kimi WebBridge يتيح لوكلاء الذكاء الاصطناعي التحكم بالمتصفح محلياً",
+      "excerpt": "أطلقت Moonshot AI إضافة Kimi WebBridge للمتصفح، لتمكين وكلاء الذكاء الاصطناعي من النقر والتمرير وملء النماذج والتنقل في Chrome أو Edge مع بقاء الجلسات على جهاز المستخدم.",
+      "body": "قدمت Moonshot AI إضافة Kimi WebBridge للمتصفح، وهي أداة تمنح وكلاء الذكاء الاصطناعي قدرة تنفيذ مهام التصفح. صممت الإضافة للعمل على Chrome أو Edge من خلال النقر والتمرير وملء النماذج والتنقل بين الصفحات. النقطة الأساسية أن بيانات الجلسة لا تغادر جهاز المستخدم. ووفقاً للتقرير الأصلي، يتيح Kimi WebBridge لوكلاء الذكاء الاصطناعي معالجة مهام الويب مباشرة مع إبقاء جلسات المتصفح محلية. ومع توسع أتمتة الويب واستخدام وكلاء الذكاء الاصطناعي، يمثل ذلك نهجاً يركز على إبقاء البيانات الشخصية وبيئة العمل داخل الجهاز. ويمكن للمستخدمين إسناد عمليات المتصفح المتكررة إلى الذكاء الاصطناعي مع تقليل القلق من إرسال بيانات الجلسة خارجياً. المصدر: decrypt.co."
+    },
+    "hi": {
+      "title": "Kimi WebBridge से AI एजेंट ब्राउज़र चलाएंगे, डेटा स्थानीय रहेगा",
+      "excerpt": "Moonshot AI ने Kimi WebBridge ब्राउज़र एक्सटेंशन लॉन्च किया, जिससे AI एजेंट Chrome या Edge में क्लिक, स्क्रॉल, फॉर्म भरने और नेविगेशन जैसे काम स्थानीय सत्रों के साथ कर सकते हैं।",
+      "body": "Moonshot AI ने Kimi WebBridge पेश किया है, जो एक ब्राउज़र एक्सटेंशन है और AI एजेंटों को वेब कार्यों पर नियंत्रण देता है। यह टूल Chrome या Edge में क्लिक करने, स्क्रॉल करने, फॉर्म भरने और पेज नेविगेशन के लिए बनाया गया है। इसकी मुख्य बात यह है कि सत्र डेटा उपयोगकर्ता के डिवाइस से बाहर नहीं जाता। मूल रिपोर्ट के अनुसार, Kimi WebBridge AI एजेंटों को वेब कार्य सीधे करने देता है, जबकि ब्राउज़र सत्र स्थानीय रहते हैं। वेब ऑटोमेशन और AI एजेंटों के बढ़ते उपयोग के बीच यह तरीका व्यक्तिगत डेटा और कार्य वातावरण को डिवाइस के भीतर रखने पर केंद्रित है। आगे उपयोगकर्ता दोहराए जाने वाले ब्राउज़र कार्य AI को सौंप सकेंगे और सत्र डेटा बाहर भेजे जाने की चिंता कम कर सकेंगे। स्रोत: decrypt.co."
+    },
+    "id": {
+      "title": "Kimi WebBridge Buat Agen AI Kendalikan Browser, Data Tetap Lokal",
+      "excerpt": "Moonshot AI meluncurkan ekstensi Kimi WebBridge agar agen AI dapat mengeklik, menggulir, mengisi formulir, dan bernavigasi di Chrome atau Edge sambil menjaga sesi tetap di perangkat pengguna.",
+      "body": "Moonshot AI memperkenalkan Kimi WebBridge, ekstensi browser yang memberi agen AI kemampuan menjalankan tugas web. Alat ini dirancang untuk mengeklik, menggulir, mengisi formulir, dan menavigasi halaman di Chrome atau Edge. Poin utamanya adalah data sesi tidak meninggalkan perangkat pengguna. Menurut laporan asli, Kimi WebBridge memungkinkan agen AI menangani tugas web secara langsung sambil menjaga sesi browser tetap lokal. Di tengah meningkatnya otomasi web dan penggunaan agen AI, pendekatan ini berfokus pada penyimpanan data pribadi dan lingkungan kerja di dalam perangkat. Pengguna dapat menyerahkan tindakan browser yang berulang kepada AI sekaligus mengurangi kekhawatiran tentang pengiriman sesi ke luar. Sumber: decrypt.co."
+    }
+  }
+}
