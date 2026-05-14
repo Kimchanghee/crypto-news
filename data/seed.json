@@ -1,5 +1,230 @@
 [
   {
+    "id": "d54c143af16c",
+    "slug": "us-banks-expect-slow-then-fast-shift-to-digitized-finance-mo-621288",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T06:07:22.565Z",
+    "updatedAt": "2026-05-14T06:07:22.565Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/moodys-us-banks-tokenized-finance-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/moodys-us-banks-tokenized-finance-transition",
+    "titleFingerprint": "eb30e52c6d784a033b48e86150a82d1f65fb1522",
+    "dedupKeys": [
+      "d54c143af16c1df24f19c43ea40055773816411f",
+      "eb30e52c6d784a033b48e86150a82d1f65fb1522",
+      "cc6b5904736bc0ef7e551960942725fa1dac16ea"
+    ],
+    "imageUrl": "/images/articles/d54c143af16c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 은행, 디지털 금융 전환 ‘천천히 후 빠르게’ 대비",
+        "excerpt": "무디스는 2026년 5월 12일 보고서에서 미국 주요 은행과 금융시장 중개기관들이 수요 급변에 뒤처지지 않기 위해 디지털 금융 전환을 준비하고 있다고 밝혔다.",
+        "body": "미국 주요 은행과 금융시장 중개기관들은 디지털 금융 시스템 전환이 처음에는 느리게 진행되다가 일정한 변곡점을 지나 빠르게 확산될 것으로 보고 있다고 무디스 레이팅스가 밝혔다. 무디스는 5월 12일 보고서에서 업계 관계자들과의 대화를 바탕으로 자산 토큰화가 불가피하다는 인식이 많았으며, 토큰화 규모가 더 많은 시장 참여자와 자산, 활용 사례로 확대될 수 있다고 설명했다. 현재 토큰화 활동은 낮은 수준이며 주요 활용처는 암호화폐 거래, 국경 간 소매 결제, 일부 기관용 사례다. 무디스는 별도 보고서에서 토큰화 속도에 따라 금융 시스템의 변화 폭이 달라질 수 있다고 봤다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "US Banks Prepare for ‘Slow, Then Fast’ Digital Finance Shift",
+        "excerpt": "Moody’s said in a May 12, 2026 report that major US banks and market intermediaries are preparing for digital finance adoption to avoid being caught by a sudden demand shift.",
+        "body": "Major US banks and financial market intermediaries expect the move to a digitized financial system to begin slowly and then accelerate after a tipping point, Moody’s Ratings said. In its May 12 report, Moody’s said conversations with industry leaders showed broad belief that asset tokenization is likely to happen, with uncertainty mainly around timing and sequence. Tokenization volume could expand to more market participants, assets and use cases. Current activity remains low, centered on crypto trading, cross-border retail payments and some institutional use cases. Moody’s also said in a separate report that the financial system’s outcome depends on the pace of tokenization. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "米銀、デジタル金融移行は「緩やか後に急加速」と想定",
+        "excerpt": "ムーディーズは2026年5月12日の報告書で、米主要銀行と金融市場仲介機関が需要の急変に備え、デジタル金融の採用拡大を準備していると述べた。",
+        "body": "米国の主要銀行と金融市場仲介機関は、デジタル化された金融システムへの移行が当初は緩やかに進み、その後ある転換点を越えると加速すると見ている。ムーディーズ・レーティングスが5月12日の報告書で明らかにした。業界関係者との対話では、資産トークン化は起こるとの見方が多く、主な不確実性は速度と順序にあるとされた。トークン化の規模は、より多くの市場参加者、資産、用途へ広がる可能性がある。現時点の活動は低水準で、暗号資産取引、越境小売決済、一部の機関向け用途が中心だ。出典: cointelegraph.com。"
+      },
+      "zh": {
+        "title": "美国银行预期数字金融转型将“先慢后快”推进",
+        "excerpt": "穆迪在2026年5月12日报告中称，美国主要银行和金融市场中介正为数字金融采用上升做准备，以避免被需求突然转向打乱节奏。",
+        "body": "穆迪评级表示，美国主要银行和金融市场中介预计，向数字化金融体系的转型起初会较慢，随后在达到某个临界点后加速。穆迪在5月12日的报告中称，根据与行业人士的交流，多数人认为资产代币化将会发生，不确定性主要在于速度和先后顺序。代币化规模可能扩展到更多市场参与者、资产和应用场景。目前代币化活动仍处低位，主要用途包括加密货币交易、跨境零售支付和部分机构场景。穆迪另称，金融体系的变化取决于代币化推进速度。来源: cointelegraph.com。"
+      },
+      "es": {
+        "title": "Bancos de EE. UU. prevén un giro digital ‘lento y luego rápido’",
+        "excerpt": "Moody’s dijo en un informe del 12 de mayo de 2026 que grandes bancos e intermediarios de EE. UU. se preparan para una mayor adopción de finanzas digitales ante un posible cambio súbito de demanda.",
+        "body": "Los principales bancos de Estados Unidos y los intermediarios del mercado financiero esperan que la transición hacia un sistema financiero digitalizado comience lentamente y luego se acelere tras un punto de inflexión, según Moody’s Ratings. En su informe del 12 de mayo, la agencia dijo que sus conversaciones con líderes del sector mostraron una creencia amplia en que la tokenización de activos ocurrirá, aunque con dudas sobre el ritmo y la secuencia. El volumen de tokenización podría extenderse a más participantes, activos y casos de uso. La actividad actual sigue baja y se concentra en comercio cripto, pagos minoristas transfronterizos y algunos usos institucionales. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Bancos dos EUA veem finanças digitais ‘lentas, depois rápidas’",
+        "excerpt": "A Moody’s disse em relatório de 12 de maio de 2026 que grandes bancos e intermediários dos EUA se preparam para maior adoção das finanças digitais diante de possível mudança brusca na demanda.",
+        "body": "Grandes bancos dos Estados Unidos e intermediários do mercado financeiro esperam que a transição para um sistema financeiro digitalizado comece lentamente e depois acelere após um ponto de inflexão, segundo a Moody’s Ratings. No relatório de 12 de maio, a agência afirmou que conversas com líderes do setor indicaram ampla visão de que a tokenização de ativos ocorrerá, com incertezas sobretudo sobre ritmo e sequência. O volume tokenizado pode alcançar mais participantes, ativos e casos de uso. A atividade atual ainda é baixa, centrada em negociação cripto, pagamentos varejistas internacionais e alguns usos institucionais. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "US-Banken erwarten digitalen Finanzwandel ‘langsam, dann schnell’",
+        "excerpt": "Moody’s erklärte in einem Bericht vom 12. Mai 2026, dass große US-Banken und Marktvermittler sich auf mehr digitale Finanznutzung vorbereiten, um auf plötzliche Nachfragewechsel reagieren zu können.",
+        "body": "Große US-Banken und Finanzmarktintermediäre erwarten, dass der Übergang zu einem digitalisierten Finanzsystem zunächst langsam beginnt und sich nach einem Wendepunkt beschleunigt, teilte Moody’s Ratings mit. In dem Bericht vom 12. Mai erklärte die Agentur, Gespräche mit Branchenführern zeigten eine breite Annahme, dass Asset-Tokenisierung stattfinden werde; unklar seien vor allem Tempo und Reihenfolge. Das Tokenisierungsvolumen könnte auf mehr Marktteilnehmer, Vermögenswerte und Anwendungsfälle ausgeweitet werden. Derzeit ist die Aktivität niedrig und konzentriert sich auf Kryptohandel, grenzüberschreitende Einzelhandelszahlungen und einige institutionelle Anwendungen. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Les banques américaines anticipent une finance numérique ‘lente puis rapide’",
+        "excerpt": "Moody’s a indiqué dans un rapport du 12 mai 2026 que les grandes banques et intermédiaires américains se préparent à l’adoption accrue de la finance numérique face à un possible changement soudain de demande.",
+        "body": "Les grandes banques américaines et les intermédiaires des marchés financiers s’attendent à ce que la transition vers un système financier numérisé commence lentement, puis accélère après un point de bascule, selon Moody’s Ratings. Dans son rapport du 12 mai, l’agence indique que ses échanges avec des dirigeants du secteur montrent une large conviction que la tokenisation des actifs aura lieu, même si le rythme et l’ordre restent incertains. Les volumes pourraient s’étendre à davantage d’acteurs, d’actifs et d’usages. L’activité actuelle reste faible, centrée sur le trading crypto, les paiements de détail transfrontaliers et certains usages institutionnels. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "بنوك أمريكية تتوقع تحول التمويل الرقمي ‘ببطء ثم بسرعة’",
+        "excerpt": "قالت موديز في تقرير بتاريخ 12 مايو 2026 إن البنوك الأمريكية الكبرى ووسطاء الأسواق المالية يستعدون لزيادة تبني التمويل الرقمي لتجنب مفاجآت تحول الطلب.",
+        "body": "تتوقع البنوك الأمريكية الكبرى ووسطاء الأسواق المالية أن يبدأ الانتقال إلى نظام مالي رقمي ببطء، ثم يتسارع بعد بلوغ نقطة تحول، بحسب موديز ريتنغز. وقالت الوكالة في تقريرها الصادر في 12 مايو إن محادثاتها مع قادة القطاع أظهرت اعتقادا واسعا بأن ترميز الأصول سيحدث، بينما تتركز الشكوك حول السرعة والتسلسل. وقد يمتد حجم الترميز إلى مزيد من المشاركين في السوق والأصول وحالات الاستخدام. ولا يزال النشاط الحالي منخفضا، مع تركيز على تداول العملات المشفرة، والمدفوعات العابرة للحدود للأفراد، وبعض الاستخدامات المؤسسية. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "अमेरिकी बैंक डिजिटल वित्त बदलाव को ‘धीमे, फिर तेज’ मान रहे हैं",
+        "excerpt": "मूडीज ने 12 मई 2026 की रिपोर्ट में कहा कि बड़े अमेरिकी बैंक और वित्तीय बाजार मध्यस्थ डिजिटल वित्त अपनाने की बढ़ती मांग के लिए तैयारी कर रहे हैं।",
+        "body": "मूडीज रेटिंग्स के अनुसार, बड़े अमेरिकी बैंक और वित्तीय बाजार मध्यस्थ मानते हैं कि डिजिटल वित्तीय प्रणाली की ओर बदलाव पहले धीमा रहेगा और फिर एक मोड़ के बाद तेज हो जाएगा। 12 मई की रिपोर्ट में मूडीज ने कहा कि उद्योग नेताओं से बातचीत में व्यापक राय थी कि एसेट टोकनाइजेशन होगा, जबकि मुख्य अनिश्चितता इसकी गति और क्रम को लेकर है। टोकनाइजेशन की मात्रा अधिक बाजार प्रतिभागियों, संपत्तियों और उपयोग मामलों तक बढ़ सकती है। अभी गतिविधि कम है और मुख्य रूप से क्रिप्टो ट्रेडिंग, सीमा-पार खुदरा भुगतान और कुछ संस्थागत उपयोगों तक सीमित है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Bank AS Bersiap untuk Peralihan Keuangan Digital ‘Lambat Lalu Cepat’",
+        "excerpt": "Moody’s mengatakan dalam laporan 12 Mei 2026 bahwa bank besar AS dan perantara pasar keuangan bersiap menghadapi adopsi keuangan digital agar tidak tertinggal saat permintaan berubah tiba-tiba.",
+        "body": "Bank-bank besar Amerika Serikat dan perantara pasar keuangan memperkirakan transisi menuju sistem keuangan digital akan dimulai perlahan, lalu meningkat cepat setelah mencapai titik balik, menurut Moody’s Ratings. Dalam laporan 12 Mei, Moody’s menyebut percakapan dengan para pemimpin industri menunjukkan keyakinan luas bahwa tokenisasi aset akan terjadi, dengan ketidakpastian utama pada kecepatan dan urutannya. Volume tokenisasi dapat meluas ke lebih banyak pelaku pasar, aset, dan penggunaan. Aktivitas saat ini masih rendah, terutama pada perdagangan kripto, pembayaran ritel lintas batas, dan beberapa penggunaan institusional. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "24f68b735a64",
+    "slug": "trump-token-down-5-as-namesake-handset-begins-shipping-next--423629",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T06:06:15.913Z",
+    "updatedAt": "2026-05-14T06:06:15.913Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/05/14/trump-token-down-5-as-namesake-handset-begins-shipping-next-week",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/14/trump-token-down-5-as-namesake-handset-begins-shipping-next-week",
+    "titleFingerprint": "38cdef84806eb4a518b3e5dc162deda2f78426b4",
+    "dedupKeys": [
+      "24f68b735a64c1dc4582d1415d0e2cd236464861",
+      "38cdef84806eb4a518b3e5dc162deda2f78426b4",
+      "9767a50b2783e739a2dae0ddd55f0615d469ff7d"
+    ],
+    "imageUrl": "/images/articles/24f68b735a64.jpg",
+    "i18n": {
+      "ko": {
+        "title": "TRUMP 토큰 5% 하락, T1 휴대전화 다음 주 배송 앞두고 주목",
+        "excerpt": "TRUMP 토큰이 5% 하락한 가운데, Trump Mobile의 T1 휴대전화가 다음 주 배송을 시작할 예정이며 미국 조립 HTC U24 리스킨 모델로 보인다고 코인데스크가 전했다.",
+        "body": "TRUMP 토큰은 Trump Mobile의 T1 휴대전화가 다음 주 배송을 시작한다는 소식 속에 5% 하락했다. 코인데스크에 따르면 이 단말기는 외형과 사양상 HTC U24를 다시 꾸민 모델로 보이며, 조립은 미국에서 이뤄진 것으로 파악된다. 이번 보도는 토큰 가격 움직임과 트럼프 브랜드 모바일 제품 출시 일정이 함께 주목받는 상황에서 나왔다. 다만 원문은 T1이 완전히 새로운 독자 설계 제품이라는 내용은 제시하지 않았다. 시장의 관심은 실제 배송 개시와 제품 정체성 확인으로 이어질 전망이다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "TRUMP Token Falls 5% as T1 Handset Nears Shipping Next Week",
+        "excerpt": "TRUMP token fell 5% as Trump Mobile’s T1 handset is set to begin shipping next week, with CoinDesk reporting it appears to be a U.S.-assembled re-skinned HTC U24.",
+        "body": "TRUMP token declined 5% as Trump Mobile’s T1 handset is expected to start shipping next week. According to CoinDesk, the device appears, based on its look and specifications, to be a re-skinned HTC U24, with assembly carried out in the United States. The report links the token’s price move with renewed attention on the Trump-branded mobile product launch schedule. It does not state that the T1 is a wholly new, independently designed handset. Market focus is likely to turn to the actual start of shipments and confirmation of the product’s identity. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "TRUMPトークン5%下落、T1端末の来週出荷開始で関心高まる",
+        "excerpt": "TRUMPトークンが5%下落する中、Trump MobileのT1端末は来週出荷開始予定で、米国組立のHTC U24リスキン機種とみられるとCoinDeskが報じた。",
+        "body": "TRUMPトークンは、Trump MobileのT1端末が来週出荷を開始する見通しとなる中で5%下落した。CoinDeskによると、この端末は外観や仕様からHTC U24を再設計風に見せたリスキンモデルとみられ、組み立ては米国で行われたとされる。今回の報道は、トークン価格の動きとトランプブランドのモバイル製品の発売日程が同時に注目される局面で出た。ただし原文は、T1が完全な新規独自設計端末だとは示していない。市場の関心は実際の出荷開始と製品の正体確認に向かいそうだ。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "TRUMP代币下跌5%，T1手机下周发货引发关注",
+        "excerpt": "TRUMP代币下跌5%，Trump Mobile的T1手机预计下周开始发货，CoinDesk称其似乎是美国组装、重新换壳的HTC U24。",
+        "body": "在Trump Mobile的T1手机预计下周开始发货之际，TRUMP代币下跌5%。据CoinDesk报道，从外观和规格来看，这款设备似乎是重新包装的HTC U24，组装工作在美国完成。该报道使代币价格波动与特朗普品牌移动产品的发货安排同时受到关注。不过，原文并未说明T1是一款完全全新、独立设计的手机。市场接下来可能会关注实际发货是否开始，以及产品身份能否得到进一步确认。来源: coindesk.com"
+      },
+      "es": {
+        "title": "TRUMP cae 5% mientras el teléfono T1 se enviará la próxima semana",
+        "excerpt": "El token TRUMP cayó 5% mientras el T1 de Trump Mobile comenzaría a enviarse la próxima semana; CoinDesk dice que parece un HTC U24 remarcado y ensamblado en EE. UU.",
+        "body": "El token TRUMP cayó 5% mientras el teléfono T1 de Trump Mobile se prepara para empezar a enviarse la próxima semana. Según CoinDesk, el dispositivo parece, por su aspecto y especificaciones, una versión remarcada del HTC U24, con ensamblaje realizado en Estados Unidos. La información llega en un momento en que el movimiento del precio del token y el calendario de lanzamiento del producto móvil con marca Trump reciben atención conjunta. El texto original no afirma que el T1 sea un teléfono totalmente nuevo ni de diseño independiente. El foco del mercado pasará al inicio real de los envíos y a la confirmación de la identidad del producto. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "TRUMP cai 5% enquanto celular T1 se aproxima do envio na próxima semana",
+        "excerpt": "O token TRUMP caiu 5% enquanto o T1 da Trump Mobile deve começar a ser enviado na próxima semana; a CoinDesk diz que parece um HTC U24 reestilizado e montado nos EUA.",
+        "body": "O token TRUMP caiu 5% enquanto o celular T1 da Trump Mobile deve começar a ser enviado na próxima semana. Segundo a CoinDesk, o aparelho parece, pelo visual e pelas especificações, uma versão reestilizada do HTC U24, com montagem realizada nos Estados Unidos. A reportagem coloca o movimento de preço do token e o cronograma de lançamento do produto móvel da marca Trump no mesmo foco. O texto original não afirma que o T1 seja um telefone totalmente novo ou com projeto independente. A atenção do mercado deve se voltar ao início efetivo dos envios e à confirmação da identidade do produto. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "TRUMP fällt 5%, während T1-Handy nächste Woche ausgeliefert werden soll",
+        "excerpt": "Der TRUMP-Token fiel um 5%, während das T1 von Trump Mobile nächste Woche ausgeliefert werden soll; CoinDesk zufolge wirkt es wie ein in den USA montiertes HTC U24 mit neuer Hülle.",
+        "body": "Der TRUMP-Token gab um 5% nach, während das T1-Handy von Trump Mobile voraussichtlich nächste Woche mit der Auslieferung beginnt. Laut CoinDesk wirkt das Gerät nach Aussehen und Spezifikationen wie ein neu gestaltetes HTC U24, dessen Montage in den USA erfolgt ist. Der Bericht rückt damit sowohl die Kursbewegung des Tokens als auch den Startplan des mobilen Trump-Markenprodukts in den Fokus. Der Originaltext behauptet nicht, dass das T1 ein vollständig neues, eigenständig entwickeltes Smartphone ist. Der Markt dürfte nun auf den tatsächlichen Versandstart und die Bestätigung der Produktidentität achten. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "TRUMP recule de 5% alors que le téléphone T1 doit être livré la semaine prochaine",
+        "excerpt": "Le token TRUMP a perdu 5% alors que le T1 de Trump Mobile doit commencer à être livré la semaine prochaine; CoinDesk indique qu’il ressemble à un HTC U24 réhabillé et assemblé aux États-Unis.",
+        "body": "Le token TRUMP a reculé de 5% alors que le téléphone T1 de Trump Mobile devrait commencer à être livré la semaine prochaine. Selon CoinDesk, l’appareil semble, d’après son apparence et ses caractéristiques, être un HTC U24 réhabillé, avec un assemblage réalisé aux États-Unis. L’information intervient alors que le mouvement du prix du token et le calendrier de lancement du produit mobile de marque Trump attirent l’attention. Le texte original n’indique pas que le T1 serait un téléphone entièrement nouveau ou conçu de façon indépendante. Le marché devrait désormais surveiller le début effectif des livraisons et la confirmation de l’identité du produit. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "انخفاض TRUMP بنسبة 5% مع ترقب شحن هاتف T1 الأسبوع المقبل",
+        "excerpt": "انخفض توكن TRUMP بنسبة 5% بينما تستعد Trump Mobile لبدء شحن هاتف T1 الأسبوع المقبل، وتقول CoinDesk إنه يبدو كنسخة معاد تغليفها من HTC U24 ومجمعة في الولايات المتحدة.",
+        "body": "انخفض توكن TRUMP بنسبة 5% مع توقع بدء شحن هاتف T1 من Trump Mobile الأسبوع المقبل. وبحسب CoinDesk، يبدو الجهاز من حيث الشكل والمواصفات كأنه نسخة معاد تغليفها من هاتف HTC U24، مع تنفيذ التجميع في الولايات المتحدة. جاء التقرير في وقت يتركز فيه الاهتمام على حركة سعر التوكن وجدول إطلاق المنتج المحمول المرتبط بعلامة ترامب. ولا يذكر النص الأصلي أن T1 هاتف جديد بالكامل أو مصمم بشكل مستقل. ومن المرجح أن يتجه تركيز السوق إلى بدء الشحن فعليا والتحقق من هوية المنتج. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "TRUMP टोकन 5% गिरा, T1 हैंडसेट की अगले सप्ताह शिपिंग पर नजर",
+        "excerpt": "TRUMP टोकन 5% गिरा, जबकि Trump Mobile का T1 हैंडसेट अगले सप्ताह शिप होना शुरू हो सकता है; CoinDesk के अनुसार यह अमेरिका में असेंबल किया गया री-स्किन HTC U24 लगता है।",
+        "body": "TRUMP टोकन 5% गिर गया, जबकि Trump Mobile का T1 हैंडसेट अगले सप्ताह शिप होना शुरू होने की उम्मीद है। CoinDesk के अनुसार, डिवाइस अपने डिजाइन और स्पेसिफिकेशन के आधार पर HTC U24 का री-स्किन मॉडल लगता है, जिसकी असेंबली अमेरिका में की गई है। यह रिपोर्ट ऐसे समय आई है जब टोकन की कीमत में बदलाव और Trump ब्रांड वाले मोबाइल उत्पाद की लॉन्च समयसीमा साथ-साथ चर्चा में हैं। मूल रिपोर्ट यह नहीं कहती कि T1 पूरी तरह नया या स्वतंत्र रूप से डिजाइन किया गया फोन है। बाजार का ध्यान अब वास्तविक शिपिंग शुरू होने और उत्पाद की पहचान की पुष्टि पर रहेगा। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "TRUMP Turun 5% Saat Ponsel T1 Siap Dikirim Pekan Depan",
+        "excerpt": "Token TRUMP turun 5% saat ponsel T1 dari Trump Mobile dijadwalkan mulai dikirim pekan depan; CoinDesk menyebut perangkat itu tampak seperti HTC U24 re-skinned yang dirakit di AS.",
+        "body": "Token TRUMP turun 5% ketika ponsel T1 dari Trump Mobile diperkirakan mulai dikirim pekan depan. Menurut CoinDesk, perangkat tersebut, dilihat dari tampilan dan spesifikasinya, tampak seperti HTC U24 yang diberi kulit ulang, dengan perakitan dilakukan di Amerika Serikat. Laporan ini muncul saat pergerakan harga token dan jadwal peluncuran produk seluler bermerek Trump sama-sama menjadi perhatian. Teks asli tidak menyatakan bahwa T1 adalah ponsel yang sepenuhnya baru atau dirancang secara independen. Fokus pasar kemungkinan beralih ke awal pengiriman aktual dan konfirmasi identitas produk. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
+    "id": "461ce31b147c",
+    "slug": "claude-helps-recover-395000-in-bitcoin-trapped-on-a-computer-859174",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T06:05:01.966Z",
+    "updatedAt": "2026-05-14T06:05:01.966Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/tech/2026/05/14/claude-helps-recover-usd395-000-in-bitcoin-trapped-on-a-computer-for-years",
+    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/14/claude-helps-recover-usd395-000-in-bitcoin-trapped-on-a-computer-for-years",
+    "titleFingerprint": "7aedfa3ad496a0e90ba26f29cd08a2c2aaa3cbaa",
+    "dedupKeys": [
+      "461ce31b147c117e252d9bce16bfbe73c351d07c",
+      "7aedfa3ad496a0e90ba26f29cd08a2c2aaa3cbaa",
+      "e4739f85e5a7d0881238702b729bee7b0d50f350"
+    ],
+    "imageUrl": "/images/articles/461ce31b147c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "클로드, 수년간 묶인 39만5천달러 비트코인 복구 도와",
+        "excerpt": "수년간 컴퓨터에 묶여 있던 39만5천달러 상당 비트코인이 클로드의 도움으로 복구됐다. 소유자는 8주간 지갑 비밀번호를 무차별 대입했다.",
+        "body": "클로드가 수년간 한 컴퓨터에 갇혀 있던 39만5천달러 상당의 비트코인 복구를 도왔다. 해당 소유자는 현재 사용 중인 Blockchain.com 지갑의 비밀번호를 찾기 위해 8주 동안 무차별 대입 방식으로 복구를 시도했다. 이 과정에서 btcrecover 서비스를 이용했으며, 임대한 컴퓨팅 칩으로 약 3조5천억 개의 조합을 테스트했다. 이번 사례는 비트코인 지갑 접근권을 잃었을 때 복구가 얼마나 긴 시간과 연산 자원을 요구할 수 있는지를 보여준다. 다만 보도된 내용은 이 특정 복구 사례에 한정된다. 출처: coindesk.com"
+      },
+      "en": {
+        "title": "Claude Helps Recover $395,000 in Bitcoin Locked Away for Years",
+        "excerpt": "Claude helped recover $395,000 worth of bitcoin that had been trapped on a computer for years after the owner spent eight weeks brute-forcing a wallet password.",
+        "body": "Claude helped recover $395,000 worth of bitcoin that had been locked on a computer for years. The owner had spent eight weeks trying to brute-force the password to their current Blockchain.com wallet. During the effort, they used the btcrecover service and tested roughly 3.5 trillion combinations with a rented computing chip. The case shows how much time and computing power may be required when access to a bitcoin wallet is lost. The reported details are limited to this specific recovery effort. Source: coindesk.com"
+      },
+      "ja": {
+        "title": "Claude、数年間ロックされた39.5万ドル相当のビットコイン復旧を支援",
+        "excerpt": "数年間コンピューター内で動かせなかった39.5万ドル相当のビットコインが、Claudeの支援で復旧された。所有者は8週間、ウォレットのパスワードを総当たりで試した。",
+        "body": "Claudeは、数年間コンピューター上でロックされていた39.5万ドル相当のビットコインの復旧を支援した。所有者は現在利用しているBlockchain.comウォレットのパスワードを見つけるため、8週間にわたり総当たり方式で復旧を試みていた。この過程でbtcrecoverサービスを使い、レンタルしたコンピューティングチップで約3兆5,000億通りの組み合わせをテストした。今回の事例は、ビットコインウォレットへのアクセスを失った場合、復旧に長い時間と大きな計算資源が必要になり得ることを示している。ただし報道内容はこの特定の復旧事例に限られる。出典: coindesk.com"
+      },
+      "zh": {
+        "title": "Claude帮助找回被锁多年、价值39.5万美元的比特币",
+        "excerpt": "一笔被困在电脑中多年的39.5万美元比特币在Claude帮助下被找回。所有者曾连续8周暴力破解Blockchain.com钱包密码。",
+        "body": "Claude帮助找回了一笔被锁在电脑中多年的比特币，价值约39.5万美元。该所有者此前为了找回当前Blockchain.com钱包的密码，连续8周尝试暴力破解。在这一过程中，其使用btcrecover服务，并借助租用的计算芯片测试了约3.5万亿种组合。此案例显示，当比特币钱包访问权限丢失时，恢复过程可能需要很长时间和大量计算资源。不过，报道信息仅限于这一具体恢复案例。来源: coindesk.com"
+      },
+      "es": {
+        "title": "Claude ayuda a recuperar 395.000 dólares en bitcoin bloqueados durante años",
+        "excerpt": "Claude ayudó a recuperar 395.000 dólares en bitcoin atrapados durante años en una computadora, tras ocho semanas de intentos de fuerza bruta sobre la contraseña del monedero.",
+        "body": "Claude ayudó a recuperar 395.000 dólares en bitcoin que habían permanecido bloqueados durante años en una computadora. El propietario llevaba ocho semanas intentando descifrar por fuerza bruta la contraseña de su monedero actual de Blockchain.com. Para ello utilizó el servicio btcrecover y probó alrededor de 3,5 billones de combinaciones con un chip de computación alquilado. El caso muestra cuánto tiempo y capacidad de cálculo puede requerir recuperar el acceso perdido a un monedero de bitcoin. La información reportada se limita a este caso específico de recuperación. Fuente: coindesk.com"
+      },
+      "pt": {
+        "title": "Claude ajuda a recuperar US$ 395 mil em bitcoin preso por anos",
+        "excerpt": "Claude ajudou a recuperar US$ 395 mil em bitcoin que estavam presos em um computador havia anos, após o dono passar oito semanas tentando a senha por força bruta.",
+        "body": "Claude ajudou a recuperar US$ 395 mil em bitcoin que estavam bloqueados em um computador havia anos. O proprietário vinha tentando por oito semanas descobrir, por força bruta, a senha de sua carteira atual da Blockchain.com. No processo, usou o serviço btcrecover e testou cerca de 3,5 trilhões de combinações com um chip de computação alugado. O caso mostra quanto tempo e capacidade computacional podem ser necessários quando o acesso a uma carteira de bitcoin é perdido. As informações relatadas se limitam a esse caso específico de recuperação. Fonte: coindesk.com"
+      },
+      "de": {
+        "title": "Claude hilft, seit Jahren gesperrte Bitcoin im Wert von 395.000 Dollar zu retten",
+        "excerpt": "Claude half dabei, Bitcoin im Wert von 395.000 Dollar wiederherzustellen, die jahrelang auf einem Computer festsaßen. Der Besitzer testete acht Wochen lang Wallet-Passwörter per Brute Force.",
+        "body": "Claude half dabei, Bitcoin im Wert von 395.000 Dollar wiederherzustellen, die seit Jahren auf einem Computer gesperrt waren. Der Besitzer hatte acht Wochen lang versucht, das Passwort seiner aktuellen Blockchain.com-Wallet per Brute Force zu finden. Dabei nutzte er den Dienst btcrecover und testete mit einem gemieteten Rechenchip rund 3,5 Billionen Kombinationen. Der Fall zeigt, wie viel Zeit und Rechenleistung nötig sein können, wenn der Zugang zu einer Bitcoin-Wallet verloren geht. Die berichteten Angaben beziehen sich jedoch nur auf diesen konkreten Wiederherstellungsfall. Quelle: coindesk.com"
+      },
+      "fr": {
+        "title": "Claude aide à récupérer 395.000 dollars en bitcoin bloqués depuis des années",
+        "excerpt": "Claude a aidé à récupérer 395.000 dollars en bitcoin restés bloqués pendant des années sur un ordinateur, après huit semaines d’essais par force brute du mot de passe du portefeuille.",
+        "body": "Claude a aidé à récupérer 395.000 dollars en bitcoin qui étaient bloqués depuis des années sur un ordinateur. Le propriétaire tentait depuis huit semaines de retrouver par force brute le mot de passe de son portefeuille Blockchain.com actuel. Pour cela, il a utilisé le service btcrecover et testé environ 3,5 billions de combinaisons avec une puce de calcul louée. Ce cas montre le temps et les ressources informatiques que peut exiger la récupération d’un accès perdu à un portefeuille bitcoin. Les informations rapportées se limitent toutefois à ce cas précis de récupération. Source: coindesk.com"
+      },
+      "ar": {
+        "title": "Claude يساعد في استعادة بيتكوين بقيمة 395 ألف دولار عالقة منذ سنوات",
+        "excerpt": "ساعد Claude في استعادة بيتكوين بقيمة 395 ألف دولار كانت عالقة على جهاز كمبيوتر لسنوات، بعدما حاول المالك ثمانية أسابيع كسر كلمة مرور المحفظة بالقوة الغاشمة.",
+        "body": "ساعد Claude في استعادة بيتكوين بقيمة 395 ألف دولار كانت مقفلة على جهاز كمبيوتر لسنوات. وكان المالك يحاول طوال ثمانية أسابيع الوصول إلى كلمة مرور محفظته الحالية على Blockchain.com باستخدام أسلوب القوة الغاشمة. وخلال العملية استخدم خدمة btcrecover، واختبر نحو 3.5 تريليون توليفة عبر شريحة حوسبة مستأجرة. توضح هذه الحالة مقدار الوقت والقدرة الحاسوبية اللذين قد يتطلبهما فقدان الوصول إلى محفظة بيتكوين. ومع ذلك، تقتصر المعلومات المنشورة على حالة الاستعادة المحددة هذه. المصدر: coindesk.com"
+      },
+      "hi": {
+        "title": "Claude ने वर्षों से फंसे 3.95 लाख डॉलर के बिटकॉइन वापस पाने में मदद की",
+        "excerpt": "Claude की मदद से कंप्यूटर में वर्षों से फंसे 3.95 लाख डॉलर मूल्य के बिटकॉइन वापस मिले। मालिक ने Blockchain.com वॉलेट पासवर्ड पर आठ हफ्ते तक ब्रूट-फोर्स प्रयास किया।",
+        "body": "Claude ने वर्षों से एक कंप्यूटर में फंसे 3.95 लाख डॉलर मूल्य के बिटकॉइन को वापस पाने में मदद की। मालिक अपने मौजूदा Blockchain.com वॉलेट का पासवर्ड खोजने के लिए आठ हफ्तों से ब्रूट-फोर्स तरीका आजमा रहा था। इस प्रक्रिया में btcrecover सेवा का उपयोग किया गया और किराए पर लिए गए कंप्यूटिंग चिप से लगभग 3.5 ट्रिलियन संयोजन जांचे गए। यह मामला दिखाता है कि बिटकॉइन वॉलेट की पहुंच खोने पर रिकवरी में कितना समय और कंप्यूटिंग संसाधन लग सकते हैं। हालांकि प्रकाशित जानकारी इसी विशेष रिकवरी मामले तक सीमित है। स्रोत: coindesk.com"
+      },
+      "id": {
+        "title": "Claude bantu pulihkan bitcoin US$395 ribu yang terkunci bertahun-tahun",
+        "excerpt": "Claude membantu memulihkan bitcoin senilai US$395 ribu yang terjebak di komputer selama bertahun-tahun setelah pemiliknya delapan minggu mencoba kata sandi dompet secara brute force.",
+        "body": "Claude membantu memulihkan bitcoin senilai US$395 ribu yang terkunci di sebuah komputer selama bertahun-tahun. Pemiliknya telah mencoba selama delapan minggu untuk menebak kata sandi dompet Blockchain.com miliknya saat ini dengan metode brute force. Dalam proses itu, ia memakai layanan btcrecover dan menguji sekitar 3,5 triliun kombinasi menggunakan chip komputasi sewaan. Kasus ini menunjukkan bahwa kehilangan akses ke dompet bitcoin dapat membutuhkan waktu lama dan sumber daya komputasi besar untuk dipulihkan. Namun, informasi yang dilaporkan terbatas pada kasus pemulihan khusus ini. Sumber: coindesk.com"
+      }
+    }
+  },
+  {
     "id": "b9ea686190f4",
     "slug": "only-4-of-americans-weigh-crypto-when-placing-their-votes-po-545593",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Ledger Tunda IPO AS saat Minat Investor pada Listing Kripto Melemah",
         "excerpt": "Perusahaan keamanan kripto asal Prancis, Ledger, menunda rencana IPO di AS karena volatilitas pasar menekan minat investor terhadap penawaran saham kripto.",
         "body": "Perusahaan dompet dan keamanan kripto asal Prancis, Ledger, menunda rencana penawaran umum perdana saham di Amerika Serikat. Keputusan ini diambil saat volatilitas pasar meningkat dan permintaan investor terhadap IPO perusahaan kripto melemah. Ledger disebut pernah menjajaki kemungkinan listing di AS dengan valuasi sekitar 4 miliar dolar AS. Untuk saat ini, perusahaan sedang menilai ulang waktu dan struktur masuk ke pasar publik. Langkah tersebut menunjukkan bahwa kondisi pasar dan sentimen investor tetap menjadi faktor utama bagi perusahaan kripto yang ingin mengakses pasar modal. Kelanjutan rencana IPO akan bergantung pada stabilitas pasar dan pemulihan minat investor. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "bcd7c42a0ac5",
-    "slug": "metaplanet-q1-profit-jumps-but-bitcoin-losses-hit-bottom-lin-342769",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-13T13:56:28.997Z",
-    "updatedAt": "2026-05-13T13:56:28.997Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/metaplanet-reports-strong-q1-operating-income-wider-loss-on-bitcoin-revaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/metaplanet-reports-strong-q1-operating-income-wider-loss-on-bitcoin-revaluation",
-    "titleFingerprint": "1e19444c10e29fab1413c8c7605a5ab9aeace12d",
-    "dedupKeys": [
-      "bcd7c42a0ac538f2140d2414b7d3e572c436a6cb",
-      "1e19444c10e29fab1413c8c7605a5ab9aeace12d",
-      "fffd1ab06ea99bbd13117f0466e40e6a10ecefb9"
-    ],
-    "imageUrl": "/images/articles/bcd7c42a0ac5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "Metaplanet 1분기 영업이익 급증, 비트코인 평가손실이 순손익 압박",
-        "excerpt": "Metaplanet은 1분기 비트코인 옵션 수익으로 영업이익이 크게 늘었지만, BTC 가격 하락에 따른 평가손실로 7억2800만달러 손실을 기록했다.",
-        "body": "Metaplanet은 1분기 비트코인 옵션 수익에 힘입어 강한 영업이익을 냈지만, BTC 가격 하락이 보유 자산 평가에 반영되면서 순손익은 손실로 돌아섰다. 회사는 운영 측면에서 비트코인 관련 수익을 확대했으나, 시장 가격 하락에 따른 평가절하가 재무제표 하단을 압박했다. 이번 손실 규모는 7억2800만달러로 제시됐으며, 이는 영업성과 개선과 별개로 비트코인 가격 변동성이 실적에 미치는 영향을 보여준다. 향후 실적은 옵션 수익 지속 여부와 BTC 가격 흐름에 따라 달라질 수 있다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Metaplanet Q1 operating profit jumps as Bitcoin markdowns hit net result",
-        "excerpt": "Metaplanet reported strong Q1 operating income from Bitcoin options revenue, but BTC price declines led to valuation markdowns and a $728 million loss.",
-        "body": "Metaplanet posted strong operating income in the first quarter, supported by revenue from Bitcoin options, but its bottom line turned negative as falling BTC prices triggered valuation markdowns on its holdings. The company expanded Bitcoin-related operating revenue, yet the decline in market prices weighed on the lower part of its financial statements. The reported loss reached $728 million, showing how Bitcoin volatility can affect results even when operating performance improves. Future results may depend on whether options revenue continues and how BTC prices move. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "Metaplanet第1四半期営業益急増、ビットコイン評価損が最終損益を圧迫",
-        "excerpt": "Metaplanetは第1四半期にビットコインオプション収益で営業益を伸ばしたが、BTC価格下落による評価損で7億2800万ドルの損失となった。",
-        "body": "Metaplanetは第1四半期、ビットコインオプション収益に支えられて強い営業利益を計上したが、BTC価格の下落が保有資産の評価に反映され、最終損益は赤字に転じた。同社は事業面でビットコイン関連収益を拡大した一方、市場価格の下落による評価切り下げが財務諸表の下段を圧迫した。損失額は7億2800万ドルとされ、営業成績の改善とは別に、ビットコイン価格の変動性が業績に与える影響を示した。今後はオプション収益の継続性とBTC価格動向が焦点となる。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "Metaplanet一季度运营利润大增，比特币减值拖累净结果",
-        "excerpt": "Metaplanet一季度受比特币期权收入推动，运营利润强劲增长，但BTC价格下跌引发估值减记，最终录得7.28亿美元亏损。",
-        "body": "Metaplanet第一季度在比特币期权收入推动下实现强劲运营利润，但由于BTC价格下跌反映到所持资产估值中，净结果转为亏损。公司在经营层面扩大了比特币相关收入，不过市场价格走低带来的估值下调压制了财务报表底线。本次亏损规模为7.28亿美元，显示即便经营表现改善，比特币价格波动仍会对业绩产生明显影响。未来表现可能取决于期权收入能否持续，以及BTC价格走势。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "Metaplanet eleva su beneficio operativo en Q1, pero Bitcoin golpea el resultado",
-        "excerpt": "Metaplanet registró un sólido ingreso operativo en Q1 por opciones de Bitcoin, pero la caída del precio de BTC provocó ajustes de valoración y una pérdida de 728 millones de dólares.",
-        "body": "Metaplanet registró un sólido beneficio operativo en el primer trimestre, impulsado por ingresos de opciones de Bitcoin, pero su resultado final pasó a pérdidas cuando la caída del precio de BTC generó ajustes de valoración sobre sus tenencias. La compañía amplió sus ingresos operativos ligados a Bitcoin, aunque el descenso del precio de mercado presionó la parte baja de sus estados financieros. La pérdida reportada fue de 728 millones de dólares, lo que muestra cómo la volatilidad de Bitcoin puede afectar los resultados incluso con una mejora operativa. El desempeño futuro dependerá de la continuidad de esos ingresos y del precio de BTC. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Metaplanet vê lucro operacional saltar no Q1, mas Bitcoin pesa no resultado",
-        "excerpt": "A Metaplanet teve forte receita operacional no Q1 com opções de Bitcoin, mas a queda do BTC levou a ajustes de avaliação e a uma perda de US$ 728 milhões.",
-        "body": "A Metaplanet registrou forte lucro operacional no primeiro trimestre, apoiada por receitas de opções de Bitcoin, mas o resultado final virou prejuízo quando a queda do preço do BTC gerou ajustes de avaliação sobre seus ativos. A empresa ampliou receitas operacionais ligadas ao Bitcoin, porém a baixa dos preços de mercado pressionou a linha final das demonstrações financeiras. A perda informada foi de US$ 728 milhões, mostrando como a volatilidade do Bitcoin pode afetar os resultados mesmo com melhora operacional. O desempenho futuro pode depender da continuidade das receitas com opções e da trajetória do BTC. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Metaplanet steigert Q1-Betriebsgewinn, doch Bitcoin-Abwertung belastet Ergebnis",
-        "excerpt": "Metaplanet meldete im Q1 starke operative Erträge aus Bitcoin-Optionen, doch fallende BTC-Preise führten zu Bewertungsabschlägen und einem Verlust von 728 Millionen US-Dollar.",
-        "body": "Metaplanet erzielte im ersten Quartal dank Einnahmen aus Bitcoin-Optionen einen starken Betriebsgewinn, doch das Nettoergebnis rutschte ins Minus, weil fallende BTC-Preise Bewertungsabschläge auf die Bestände auslösten. Das Unternehmen steigerte seine operativen Bitcoin-bezogenen Erträge, während der Rückgang der Marktpreise die untere Zeile der Finanzrechnung belastete. Der ausgewiesene Verlust betrug 728 Millionen US-Dollar und zeigt, wie stark Bitcoin-Volatilität Ergebnisse beeinflussen kann, selbst wenn sich die operative Leistung verbessert. Künftige Zahlen dürften von den Optionserträgen und dem BTC-Preis abhängen. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Metaplanet bondit en résultat opérationnel au T1, mais Bitcoin pèse sur le net",
-        "excerpt": "Metaplanet a publié un solide résultat opérationnel au T1 grâce aux options Bitcoin, mais la baisse du BTC a entraîné des dépréciations et une perte de 728 millions de dollars.",
-        "body": "Metaplanet a enregistré au premier trimestre un solide résultat opérationnel, soutenu par les revenus issus des options Bitcoin, mais son résultat net est passé en perte après la baisse du prix du BTC et les dépréciations de valeur sur ses avoirs. L’entreprise a accru ses revenus opérationnels liés au Bitcoin, tandis que le recul des prix de marché a pesé sur le bas de son compte de résultat. La perte annoncée atteint 728 millions de dollars, illustrant l’impact de la volatilité du Bitcoin sur les résultats même lorsque l’activité opérationnelle progresse. Les prochains résultats dépendront des revenus d’options et du prix du BTC. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "Metaplanet تحقق قفزة في ربح التشغيل بالربع الأول لكن خسائر بيتكوين تضغط",
-        "excerpt": "سجلت Metaplanet دخلا تشغيليا قويا في الربع الأول بفضل إيرادات خيارات بيتكوين، لكن تراجع سعر BTC أدى إلى خفض تقييمات وخسارة قدرها 728 مليون دولار.",
-        "body": "حققت Metaplanet في الربع الأول دخلا تشغيليا قويا مدعوما بإيرادات خيارات بيتكوين، لكن صافي النتيجة تحول إلى خسارة بعد أن أدى انخفاض سعر BTC إلى خفض تقييمات الأصول التي تحتفظ بها. وسعت الشركة إيراداتها التشغيلية المرتبطة ببيتكوين، إلا أن هبوط أسعار السوق ضغط على النتيجة النهائية في القوائم المالية. وبلغت الخسارة المعلنة 728 مليون دولار، ما يوضح كيف يمكن لتقلبات بيتكوين أن تؤثر في النتائج حتى مع تحسن الأداء التشغيلي. وقد تعتمد النتائج المقبلة على استمرار إيرادات الخيارات واتجاه سعر BTC. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Metaplanet का Q1 ऑपरेटिंग लाभ उछला, पर Bitcoin मूल्यह्रास से नतीजा दबा",
-        "excerpt": "Metaplanet ने Q1 में Bitcoin ऑप्शंस आय से मजबूत ऑपरेटिंग इनकम दर्ज की, लेकिन BTC कीमत गिरने से वैल्यूएशन मार्कडाउन हुआ और 728 मिलियन डॉलर का घाटा आया।",
-        "body": "Metaplanet ने पहली तिमाही में Bitcoin ऑप्शंस से हुई आय के सहारे मजबूत ऑपरेटिंग लाभ दर्ज किया, लेकिन BTC कीमतों में गिरावट उसके होल्डिंग्स के मूल्यांकन में दिखी और अंतिम नतीजा घाटे में बदल गया। कंपनी ने संचालन स्तर पर Bitcoin से जुड़ी आय बढ़ाई, फिर भी बाजार कीमतों में कमी से वित्तीय विवरणों की निचली पंक्ति पर दबाव पड़ा। रिपोर्ट किया गया घाटा 728 मिलियन डॉलर रहा, जो दिखाता है कि ऑपरेटिंग प्रदर्शन सुधरने के बावजूद Bitcoin की अस्थिरता परिणामों को प्रभावित कर सकती है। आगे के नतीजे ऑप्शंस आय की निरंतरता और BTC कीमतों पर निर्भर हो सकते हैं। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Laba operasional Q1 Metaplanet melonjak, rugi Bitcoin tekan hasil akhir",
-        "excerpt": "Metaplanet mencatat pendapatan operasional Q1 yang kuat dari opsi Bitcoin, tetapi penurunan harga BTC memicu penurunan valuasi dan rugi 728 juta dolar AS.",
-        "body": "Metaplanet membukukan laba operasional yang kuat pada kuartal pertama, didukung pendapatan dari opsi Bitcoin, tetapi hasil akhirnya berubah menjadi rugi setelah penurunan harga BTC memicu penyesuaian valuasi atas kepemilikannya. Perusahaan memperluas pendapatan operasional terkait Bitcoin, namun turunnya harga pasar menekan bagian bawah laporan keuangan. Kerugian yang dilaporkan mencapai 728 juta dolar AS, menunjukkan bagaimana volatilitas Bitcoin dapat memengaruhi hasil meski kinerja operasional membaik. Hasil berikutnya dapat bergantung pada keberlanjutan pendapatan opsi dan pergerakan harga BTC. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "f36cd0ec20e7",
-    "slug": "live-markets-bitcoin-dips-below-80000-as-producer-price-infl-630767",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-13T13:55:32.788Z",
-    "updatedAt": "2026-05-13T13:55:32.788Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/13/live-markets-bitcoin-dips-below-usd80-000-as-producer-price-inflation-surges-to-6",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/13/live-markets-bitcoin-dips-below-usd80-000-as-producer-price-inflation-surges-to-6",
-    "titleFingerprint": "4fefd2f9d38b2581a3ec0b8dec87f62e1eaad684",
-    "dedupKeys": [
-      "f36cd0ec20e70032a95f84a275b653e18af86588",
-      "4fefd2f9d38b2581a3ec0b8dec87f62e1eaad684",
-      "c900e693a4f7186c02f58167b39bf87f42f73318"
-    ],
-    "imageUrl": "/images/articles/f36cd0ec20e7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 8만달러 하회, 미국 4월 PPI 6% 급등에 인플레 우려 재점화",
-        "excerpt": "미국 4월 생산자물가지수(PPI)가 전망치를 크게 웃돌며 6% 급등하자, 유가 상승과 이란 관련 공급 위험이 새 인플레이션 파동으로 번질 수 있다는 우려 속에 비트코인이 8만달러 아래로 밀렸다.",
-        "body": "비트코인은 미국의 4월 생산자물가지수(PPI)가 예상을 크게 웃돌며 6% 급등했다는 소식 이후 8만달러 아래로 하락했다. 이번 지표는 생산 단계의 물가 압력이 다시 커지고 있음을 보여주며, 시장에는 인플레이션 재가속 가능성에 대한 경계가 확산됐다. 특히 유가 상승과 이란 관련 공급 리스크가 맞물리면 추가 물가 압력으로 이어질 수 있다는 우려가 커졌다. 이에 따라 투자자들은 위험자산인 비트코인 가격 흐름과 향후 물가 지표를 주시하고 있다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Bitcoin Falls Below $80K as April U.S. PPI Jumps 6%, Reviving Inflation Fears",
-        "excerpt": "Bitcoin slipped below $80,000 after U.S. April PPI surged 6% above forecasts, as rising oil prices and Iran-related supply risks revived concerns over another inflation wave.",
-        "body": "Bitcoin fell below $80,000 after U.S. producer price inflation for April surged well above forecasts to 6%. The data showed renewed price pressure at the production level and brought inflation concerns back into focus across markets. Rising oil prices and Iran-related supply risks added to worries that another wave of inflation could develop if those pressures feed through the economy. Investors are now watching Bitcoin’s price action and upcoming inflation data closely. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "ビットコイン8万ドル割れ、米4月PPI 6%急伸でインフレ懸念再燃",
-        "excerpt": "米4月の生産者物価指数（PPI）が予想を大きく上回り6%上昇したことで、原油高とイラン関連の供給リスクが新たなインフレ波につながるとの懸念が強まり、ビットコインは8万ドルを下回った。",
-        "body": "ビットコインは、米国の4月生産者物価指数（PPI）が予想を大きく上回り6%上昇したことを受け、8万ドルを下回った。この指標は生産段階での物価圧力が再び強まっていることを示し、市場ではインフレ再加速への警戒感が広がった。特に原油価格の上昇とイラン関連の供給リスクが重なれば、追加的な物価圧力につながる可能性が意識されている。投資家は今後の物価指標とビットコインの値動きを注視している。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "比特币跌破8万美元，美国4月PPI飙升6%重燃通胀担忧",
-        "excerpt": "美国4月生产者价格指数（PPI）远超预期并上涨6%，油价上升和伊朗相关供应风险引发新一轮通胀担忧，比特币跌破8万美元。",
-        "body": "在美国4月生产者价格指数（PPI）远高于预期并上涨6%后，比特币跌破8万美元。该数据表明生产端价格压力再次增强，市场对通胀重新加速的担忧升温。尤其是油价上涨与伊朗相关供应风险叠加，可能进一步带来物价压力，令投资者更加谨慎。市场目前正密切关注比特币价格走势以及后续通胀数据。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Bitcoin cae bajo 80.000 dólares tras PPI de EE. UU. al 6% en abril",
-        "excerpt": "Bitcoin cayó por debajo de 80.000 dólares después de que el PPI de abril en EE. UU. subiera un 6% y superara previsiones, reavivando temores por petróleo y riesgos de suministro ligados a Irán.",
-        "body": "Bitcoin cayó por debajo de 80.000 dólares después de que la inflación de precios al productor de abril en Estados Unidos superara ampliamente las previsiones y subiera al 6%. El dato mostró una renovada presión de precios en la etapa de producción y devolvió al mercado la preocupación por una posible reaceleración de la inflación. El aumento del petróleo y los riesgos de suministro relacionados con Irán reforzaron el temor a otra ola inflacionaria. Los inversores vigilan ahora el precio de Bitcoin y los próximos datos de inflación. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Bitcoin cai abaixo de US$ 80 mil após PPI dos EUA subir 6% em abril",
-        "excerpt": "O Bitcoin recuou abaixo de US$ 80 mil depois que o PPI dos EUA em abril subiu 6%, acima das previsões, reacendendo temores ligados ao petróleo e a riscos de oferta envolvendo o Irã.",
-        "body": "O Bitcoin caiu abaixo de US$ 80 mil depois que a inflação ao produtor dos Estados Unidos em abril avançou 6%, bem acima das previsões. O indicador mostrou que a pressão de preços na etapa de produção voltou a ganhar força e reacendeu preocupações sobre uma nova aceleração da inflação. A alta do petróleo e os riscos de oferta relacionados ao Irã aumentaram o receio de que outra onda inflacionária possa surgir. Investidores acompanham agora o preço do Bitcoin e os próximos dados de inflação. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Bitcoin fällt unter 80.000 Dollar, US-PPI steigt im April auf 6%",
-        "excerpt": "Bitcoin rutschte unter 80.000 Dollar, nachdem der US-Erzeugerpreisindex im April mit 6% deutlich über den Erwartungen lag und Sorgen über Ölpreise sowie iranbezogene Liefer risksiken neue Inflationsängste auslöste.",
-        "body": "Bitcoin fiel unter 80.000 Dollar, nachdem die US-Erzeugerpreisinflation im April deutlich über den Prognosen lag und auf 6% stieg. Die Daten zeigen, dass der Preisdruck auf Produktionsebene wieder zunimmt, wodurch Inflationssorgen an den Märkten erneut in den Vordergrund rückten. Steigende Ölpreise und iranbezogene Liefer risksiken verstärken die Sorge, dass daraus eine weitere Inflationswelle entstehen könnte. Anleger beobachten nun die Kursentwicklung von Bitcoin und kommende Inflationsdaten. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Bitcoin sous 80 000 dollars après un PPI américain d’avril à 6%",
-        "excerpt": "Le Bitcoin est passé sous 80 000 dollars après un bond de 6% du PPI américain d’avril, supérieur aux prévisions, ravivant les craintes liées au pétrole et aux risques d’offre associés à l’Iran.",
-        "body": "Le Bitcoin est tombé sous 80 000 dollars après que l’inflation des prix à la production aux États-Unis en avril a largement dépassé les prévisions pour atteindre 6%. Cette donnée montre un regain de pression sur les prix au stade de la production et remet les inquiétudes inflationnistes au centre des marchés. La hausse des prix du pétrole et les risques d’approvisionnement liés à l’Iran renforcent la crainte d’une nouvelle vague d’inflation. Les investisseurs surveillent désormais le Bitcoin et les prochaines données de prix. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "بيتكوين تهبط دون 80 ألف دولار مع قفزة مؤشر المنتجين الأميركي 6%",
-        "excerpt": "تراجعت بيتكوين دون 80 ألف دولار بعد أن قفز مؤشر أسعار المنتجين الأميركي في أبريل 6% متجاوزا التوقعات، مع عودة المخاوف من النفط ومخاطر الإمداد المرتبطة بإيران.",
-        "body": "هبطت بيتكوين دون مستوى 80 ألف دولار بعدما ارتفع مؤشر أسعار المنتجين في الولايات المتحدة خلال أبريل بنسبة 6%، متجاوزا التوقعات بفارق واضح. أظهر المؤشر عودة ضغوط الأسعار في مرحلة الإنتاج، ما أعاد مخاوف التضخم إلى واجهة الأسواق. كما زادت أسعار النفط ومخاطر الإمداد المرتبطة بإيران القلق من احتمال تشكل موجة تضخم أخرى إذا انتقلت هذه الضغوط إلى الاقتصاد الأوسع. ويراقب المستثمرون الآن حركة سعر بيتكوين وبيانات التضخم المقبلة. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "बिटकॉइन 80,000 डॉलर से नीचे, अप्रैल अमेरिकी PPI 6% उछला",
-        "excerpt": "अप्रैल में अमेरिकी PPI अनुमान से काफी ऊपर 6% बढ़ा, जिससे तेल कीमतों और ईरान से जुड़े आपूर्ति जोखिमों के बीच नई महंगाई लहर की चिंता बढ़ी और बिटकॉइन 80,000 डॉलर से नीचे फिसला।",
-        "body": "अमेरिका में अप्रैल का उत्पादक मूल्य सूचकांक (PPI) अनुमान से काफी अधिक 6% बढ़ने के बाद बिटकॉइन 80,000 डॉलर से नीचे आ गया। इस आंकड़े ने उत्पादन स्तर पर कीमतों के दबाव के फिर से बढ़ने का संकेत दिया और बाजार में महंगाई के दोबारा तेज होने की चिंता लौटा दी। तेल कीमतों में वृद्धि और ईरान से जुड़े आपूर्ति जोखिमों ने यह आशंका बढ़ाई कि ये दबाव आगे चलकर महंगाई की नई लहर बना सकते हैं। निवेशक अब बिटकॉइन की कीमत और आने वाले महंगाई आंकड़ों पर नजर रख रहे हैं। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Bitcoin Turun di Bawah US$80 Ribu saat PPI AS April Melonjak 6%",
-        "excerpt": "Bitcoin turun di bawah US$80.000 setelah PPI AS April melonjak 6% di atas perkiraan, memicu kembali kekhawatiran bahwa harga minyak dan risiko pasokan terkait Iran dapat mendorong inflasi baru.",
-        "body": "Bitcoin turun di bawah US$80.000 setelah inflasi harga produsen AS untuk April melonjak jauh di atas perkiraan ke 6%. Data ini menunjukkan tekanan harga di tingkat produksi kembali menguat dan membawa kekhawatiran inflasi kembali menjadi fokus pasar. Kenaikan harga minyak serta risiko pasokan yang terkait dengan Iran menambah kekhawatiran bahwa tekanan tersebut dapat memicu gelombang inflasi lain. Investor kini mencermati pergerakan harga Bitcoin dan data inflasi berikutnya. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "07b386bc574b",
-    "slug": "coindesk-20-performance-update-sui-drops-32-as-index-trades--719147",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-13T13:54:34.943Z",
-    "updatedAt": "2026-05-13T13:54:34.944Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/coindesk-indices/2026/05/13/coindesk-20-performance-update-sui-drops-3-2-as-index-trades-lower",
-    "canonicalUrl": "https://www.coindesk.com/coindesk-indices/2026/05/13/coindesk-20-performance-update-sui-drops-3-2-as-index-trades-lower",
-    "titleFingerprint": "cd6d1d67acde75753268bb03c88d136d9aabad01",
-    "dedupKeys": [
-      "07b386bc574baccecf444cfae2ddd94f2fc4a79a",
-      "cd6d1d67acde75753268bb03c88d136d9aabad01",
-      "e2fd0442c434c7a024931932681fbf5eb860da51"
-    ],
-    "imageUrl": "/images/articles/07b386bc574b.png",
-    "i18n": {
-      "ko": {
-        "title": "CoinDesk 20 하락세, SUI 3.2% 급락하며 지수 부진 주도",
-        "excerpt": "CoinDesk 20 지수가 낮게 거래되는 가운데 Sui(SUI)는 3.2% 하락했고, Bittensor(TAO)도 화요일 대비 2.7% 내리며 부진 종목에 합류했다.",
-        "body": "CoinDesk 20 지수가 낮게 거래되는 가운데 Sui(SUI)가 3.2% 하락하며 주요 부진 종목으로 나타났다. Bittensor(TAO) 역시 화요일 대비 2.7% 내려 SUI와 함께 약세 흐름에 포함됐다. 이번 성과 업데이트는 지수 전반의 거래 분위기가 낮아진 상황에서 일부 구성 자산의 낙폭이 두드러졌다는 점을 보여준다. SUI와 TAO의 하락은 CoinDesk 20 내 단기 성과 차이를 확인하게 하는 지표로 해석된다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "CoinDesk 20 Slips as SUI Falls 3.2% and TAO Joins Laggards",
-        "excerpt": "As the CoinDesk 20 traded lower, Sui (SUI) fell 3.2%, while Bittensor (TAO) was down 2.7% from Tuesday and joined SUI among the underperformers.",
-        "body": "The CoinDesk 20 traded lower, with Sui (SUI) standing out as a key underperformer after dropping 3.2%. Bittensor (TAO) also moved lower, falling 2.7% from Tuesday and joining SUI among the laggards. The performance update shows that, amid weaker trading across the index, declines in selected constituents were more pronounced. The drops in SUI and TAO highlight short-term performance differences within the CoinDesk 20. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "CoinDesk 20が下落、SUIは3.2%安で指数の重荷に",
-        "excerpt": "CoinDesk 20が安く取引される中、Sui（SUI）は3.2%下落し、Bittensor（TAO）も火曜日比で2.7%下げて不振銘柄に加わった。",
-        "body": "CoinDesk 20が安く取引される中、Sui（SUI）は3.2%下落し、主要な不振銘柄として目立った。Bittensor（TAO）も火曜日比で2.7%下げ、SUIとともに弱い動きに含まれた。今回のパフォーマンス更新は、指数全体の取引ムードが低下する中で、一部構成資産の下落幅が際立ったことを示している。SUIとTAOの下落は、CoinDesk 20内の短期的なパフォーマンス差を確認させる材料となる。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "CoinDesk 20走低，SUI下跌3.2%拖累指数表现",
-        "excerpt": "CoinDesk 20指数走低之际，Sui（SUI）下跌3.2%，Bittensor（TAO）较周二下跌2.7%，与SUI一同成为表现落后的资产。",
-        "body": "CoinDesk 20指数走低，Sui（SUI）下跌3.2%，成为主要表现落后的资产之一。Bittensor（TAO）同样走弱，较周二下跌2.7%，并与SUI一起被列为表现不佳的成分资产。此次表现更新显示，在指数整体交易偏弱的背景下，部分成分资产的跌幅更为明显。SUI和TAO的下跌凸显了CoinDesk 20内部短期表现的差异。来源: coindesk.com"
-      },
-      "es": {
-        "title": "CoinDesk 20 cae mientras SUI baja 3,2% y TAO queda rezagado",
-        "excerpt": "Mientras el CoinDesk 20 cotizaba a la baja, Sui (SUI) cayó 3,2% y Bittensor (TAO) retrocedió 2,7% frente al martes, uniéndose a los activos rezagados.",
-        "body": "El CoinDesk 20 cotizó a la baja, con Sui (SUI) destacando entre los principales rezagados tras caer 3,2%. Bittensor (TAO) también retrocedió, con una baja de 2,7% frente al martes, y se unió a SUI entre los activos de peor desempeño. La actualización de rendimiento muestra que, en medio de un tono más débil para el índice, algunas caídas de sus componentes fueron más marcadas. Los descensos de SUI y TAO reflejan diferencias de desempeño de corto plazo dentro del CoinDesk 20. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "CoinDesk 20 recua com SUI em queda de 3,2% e TAO entre baixas",
-        "excerpt": "Com o CoinDesk 20 negociado em queda, Sui (SUI) caiu 3,2%, enquanto Bittensor (TAO) recuou 2,7% ante terça-feira e se juntou aos ativos de pior desempenho.",
-        "body": "O CoinDesk 20 foi negociado em queda, com Sui (SUI) se destacando entre os principais ativos de pior desempenho após recuar 3,2%. Bittensor (TAO) também caiu, com baixa de 2,7% em relação a terça-feira, juntando-se ao SUI entre os retardatários. A atualização de desempenho mostra que, em meio a um tom mais fraco do índice, algumas quedas entre os componentes foram mais evidentes. As perdas de SUI e TAO destacam diferenças de desempenho de curto prazo dentro do CoinDesk 20. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "CoinDesk 20 fällt: SUI verliert 3,2%, TAO ebenfalls schwach",
-        "excerpt": "Während der CoinDesk 20 niedriger gehandelt wurde, fiel Sui (SUI) um 3,2%; Bittensor (TAO) gab gegenüber Dienstag 2,7% nach und zählte ebenfalls zu den Nachzüglern.",
-        "body": "Der CoinDesk 20 wurde niedriger gehandelt, wobei Sui (SUI) nach einem Rückgang von 3,2% als wichtiger Nachzügler auffiel. Auch Bittensor (TAO) bewegte sich schwächer und verlor gegenüber Dienstag 2,7%, womit es sich SUI unter den schwächeren Werten anschloss. Das Performance-Update zeigt, dass bei einem insgesamt schwächeren Handel des Index einzelne Bestandteile deutlicher nachgaben. Die Rückgänge von SUI und TAO machen kurzfristige Leistungsunterschiede innerhalb des CoinDesk 20 sichtbar. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "CoinDesk 20 en baisse: SUI perd 3,2% et TAO rejoint les retardataires",
-        "excerpt": "Alors que le CoinDesk 20 se négociait en baisse, Sui (SUI) a reculé de 3,2%, tandis que Bittensor (TAO) a perdu 2,7% depuis mardi et rejoint les moins performants.",
-        "body": "Le CoinDesk 20 s’est négocié en baisse, avec Sui (SUI) parmi les principaux retardataires après une chute de 3,2%. Bittensor (TAO) a également reculé, perdant 2,7% par rapport à mardi, et a rejoint SUI parmi les actifs les moins performants. Cette mise à jour de performance montre que, dans un contexte plus faible pour l’indice, certains composants ont enregistré des baisses plus marquées. Les replis de SUI et TAO soulignent les écarts de performance à court terme au sein du CoinDesk 20. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "مؤشر CoinDesk 20 يتراجع مع هبوط SUI بنسبة 3.2% وانضمام TAO للمتأخرين",
-        "excerpt": "مع تداول مؤشر CoinDesk 20 على انخفاض، هبطت Sui (SUI) بنسبة 3.2%، بينما تراجعت Bittensor (TAO) بنسبة 2.7% عن الثلاثاء وانضمت إلى الأصول الضعيفة.",
-        "body": "تداول مؤشر CoinDesk 20 على انخفاض، وبرزت Sui (SUI) كأحد الأصول الأضعف أداء بعد هبوطها بنسبة 3.2%. كما تراجعت Bittensor (TAO) بنسبة 2.7% مقارنة بيوم الثلاثاء، لتنضم إلى SUI بين الأصول المتأخرة. يوضح تحديث الأداء أن تراجع نبرة التداول في المؤشر ترافق مع انخفاضات أوضح في بعض مكوناته. وتسلط خسائر SUI وTAO الضوء على فروق الأداء القصيرة الأجل داخل CoinDesk 20. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "CoinDesk 20 में गिरावट, SUI 3.2% टूटा और TAO भी पिछड़ा",
-        "excerpt": "CoinDesk 20 के निचले स्तर पर कारोबार के बीच Sui (SUI) 3.2% गिरा, जबकि Bittensor (TAO) मंगलवार से 2.7% नीचे रहा और कमजोर प्रदर्शन वालों में शामिल हुआ।",
-        "body": "CoinDesk 20 निचले स्तर पर कारोबार कर रहा था, जहां Sui (SUI) 3.2% की गिरावट के साथ प्रमुख कमजोर प्रदर्शन करने वाले एसेट में दिखा। Bittensor (TAO) भी मंगलवार की तुलना में 2.7% नीचे रहा और SUI के साथ पिछड़े एसेट में शामिल हुआ। यह प्रदर्शन अपडेट दिखाता है कि सूचकांक में कमजोर कारोबार के बीच कुछ घटक एसेट की गिरावट अधिक स्पष्ट रही। SUI और TAO की कमजोरी CoinDesk 20 के भीतर अल्पकालिक प्रदर्शन अंतर को रेखांकित करती है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "CoinDesk 20 Melemah, SUI Turun 3,2% dan TAO Ikut Tertinggal",
-        "excerpt": "Saat CoinDesk 20 diperdagangkan lebih rendah, Sui (SUI) turun 3,2%, sementara Bittensor (TAO) melemah 2,7% dari Selasa dan ikut menjadi aset berkinerja lemah.",
-        "body": "CoinDesk 20 diperdagangkan lebih rendah, dengan Sui (SUI) menonjol sebagai salah satu aset berkinerja lemah setelah turun 3,2%. Bittensor (TAO) juga melemah, turun 2,7% dari Selasa, dan bergabung dengan SUI di antara aset yang tertinggal. Pembaruan kinerja ini menunjukkan bahwa di tengah perdagangan indeks yang lebih lemah, penurunan pada beberapa komponen terlihat lebih jelas. Pelemahan SUI dan TAO menyoroti perbedaan kinerja jangka pendek di dalam CoinDesk 20. Sumber: coindesk.com"
       }
     }
   }

@@ -1,0 +1,75 @@
+{
+  "id": "461ce31b147c",
+  "slug": "claude-helps-recover-395000-in-bitcoin-trapped-on-a-computer-859174",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-14T06:05:01.966Z",
+  "updatedAt": "2026-05-14T06:05:01.966Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/14/claude-helps-recover-usd395-000-in-bitcoin-trapped-on-a-computer-for-years",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/05/14/claude-helps-recover-usd395-000-in-bitcoin-trapped-on-a-computer-for-years",
+  "titleFingerprint": "7aedfa3ad496a0e90ba26f29cd08a2c2aaa3cbaa",
+  "dedupKeys": [
+    "461ce31b147c117e252d9bce16bfbe73c351d07c",
+    "7aedfa3ad496a0e90ba26f29cd08a2c2aaa3cbaa",
+    "e4739f85e5a7d0881238702b729bee7b0d50f350"
+  ],
+  "imageUrl": "/images/articles/461ce31b147c.jpg",
+  "i18n": {
+    "ko": {
+      "title": "클로드, 수년간 묶인 39만5천달러 비트코인 복구 도와",
+      "excerpt": "수년간 컴퓨터에 묶여 있던 39만5천달러 상당 비트코인이 클로드의 도움으로 복구됐다. 소유자는 8주간 지갑 비밀번호를 무차별 대입했다.",
+      "body": "클로드가 수년간 한 컴퓨터에 갇혀 있던 39만5천달러 상당의 비트코인 복구를 도왔다. 해당 소유자는 현재 사용 중인 Blockchain.com 지갑의 비밀번호를 찾기 위해 8주 동안 무차별 대입 방식으로 복구를 시도했다. 이 과정에서 btcrecover 서비스를 이용했으며, 임대한 컴퓨팅 칩으로 약 3조5천억 개의 조합을 테스트했다. 이번 사례는 비트코인 지갑 접근권을 잃었을 때 복구가 얼마나 긴 시간과 연산 자원을 요구할 수 있는지를 보여준다. 다만 보도된 내용은 이 특정 복구 사례에 한정된다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Claude Helps Recover $395,000 in Bitcoin Locked Away for Years",
+      "excerpt": "Claude helped recover $395,000 worth of bitcoin that had been trapped on a computer for years after the owner spent eight weeks brute-forcing a wallet password.",
+      "body": "Claude helped recover $395,000 worth of bitcoin that had been locked on a computer for years. The owner had spent eight weeks trying to brute-force the password to their current Blockchain.com wallet. During the effort, they used the btcrecover service and tested roughly 3.5 trillion combinations with a rented computing chip. The case shows how much time and computing power may be required when access to a bitcoin wallet is lost. The reported details are limited to this specific recovery effort. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "Claude、数年間ロックされた39.5万ドル相当のビットコイン復旧を支援",
+      "excerpt": "数年間コンピューター内で動かせなかった39.5万ドル相当のビットコインが、Claudeの支援で復旧された。所有者は8週間、ウォレットのパスワードを総当たりで試した。",
+      "body": "Claudeは、数年間コンピューター上でロックされていた39.5万ドル相当のビットコインの復旧を支援した。所有者は現在利用しているBlockchain.comウォレットのパスワードを見つけるため、8週間にわたり総当たり方式で復旧を試みていた。この過程でbtcrecoverサービスを使い、レンタルしたコンピューティングチップで約3兆5,000億通りの組み合わせをテストした。今回の事例は、ビットコインウォレットへのアクセスを失った場合、復旧に長い時間と大きな計算資源が必要になり得ることを示している。ただし報道内容はこの特定の復旧事例に限られる。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "Claude帮助找回被锁多年、价值39.5万美元的比特币",
+      "excerpt": "一笔被困在电脑中多年的39.5万美元比特币在Claude帮助下被找回。所有者曾连续8周暴力破解Blockchain.com钱包密码。",
+      "body": "Claude帮助找回了一笔被锁在电脑中多年的比特币，价值约39.5万美元。该所有者此前为了找回当前Blockchain.com钱包的密码，连续8周尝试暴力破解。在这一过程中，其使用btcrecover服务，并借助租用的计算芯片测试了约3.5万亿种组合。此案例显示，当比特币钱包访问权限丢失时，恢复过程可能需要很长时间和大量计算资源。不过，报道信息仅限于这一具体恢复案例。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Claude ayuda a recuperar 395.000 dólares en bitcoin bloqueados durante años",
+      "excerpt": "Claude ayudó a recuperar 395.000 dólares en bitcoin atrapados durante años en una computadora, tras ocho semanas de intentos de fuerza bruta sobre la contraseña del monedero.",
+      "body": "Claude ayudó a recuperar 395.000 dólares en bitcoin que habían permanecido bloqueados durante años en una computadora. El propietario llevaba ocho semanas intentando descifrar por fuerza bruta la contraseña de su monedero actual de Blockchain.com. Para ello utilizó el servicio btcrecover y probó alrededor de 3,5 billones de combinaciones con un chip de computación alquilado. El caso muestra cuánto tiempo y capacidad de cálculo puede requerir recuperar el acceso perdido a un monedero de bitcoin. La información reportada se limita a este caso específico de recuperación. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Claude ajuda a recuperar US$ 395 mil em bitcoin preso por anos",
+      "excerpt": "Claude ajudou a recuperar US$ 395 mil em bitcoin que estavam presos em um computador havia anos, após o dono passar oito semanas tentando a senha por força bruta.",
+      "body": "Claude ajudou a recuperar US$ 395 mil em bitcoin que estavam bloqueados em um computador havia anos. O proprietário vinha tentando por oito semanas descobrir, por força bruta, a senha de sua carteira atual da Blockchain.com. No processo, usou o serviço btcrecover e testou cerca de 3,5 trilhões de combinações com um chip de computação alugado. O caso mostra quanto tempo e capacidade computacional podem ser necessários quando o acesso a uma carteira de bitcoin é perdido. As informações relatadas se limitam a esse caso específico de recuperação. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Claude hilft, seit Jahren gesperrte Bitcoin im Wert von 395.000 Dollar zu retten",
+      "excerpt": "Claude half dabei, Bitcoin im Wert von 395.000 Dollar wiederherzustellen, die jahrelang auf einem Computer festsaßen. Der Besitzer testete acht Wochen lang Wallet-Passwörter per Brute Force.",
+      "body": "Claude half dabei, Bitcoin im Wert von 395.000 Dollar wiederherzustellen, die seit Jahren auf einem Computer gesperrt waren. Der Besitzer hatte acht Wochen lang versucht, das Passwort seiner aktuellen Blockchain.com-Wallet per Brute Force zu finden. Dabei nutzte er den Dienst btcrecover und testete mit einem gemieteten Rechenchip rund 3,5 Billionen Kombinationen. Der Fall zeigt, wie viel Zeit und Rechenleistung nötig sein können, wenn der Zugang zu einer Bitcoin-Wallet verloren geht. Die berichteten Angaben beziehen sich jedoch nur auf diesen konkreten Wiederherstellungsfall. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Claude aide à récupérer 395.000 dollars en bitcoin bloqués depuis des années",
+      "excerpt": "Claude a aidé à récupérer 395.000 dollars en bitcoin restés bloqués pendant des années sur un ordinateur, après huit semaines d’essais par force brute du mot de passe du portefeuille.",
+      "body": "Claude a aidé à récupérer 395.000 dollars en bitcoin qui étaient bloqués depuis des années sur un ordinateur. Le propriétaire tentait depuis huit semaines de retrouver par force brute le mot de passe de son portefeuille Blockchain.com actuel. Pour cela, il a utilisé le service btcrecover et testé environ 3,5 billions de combinaisons avec une puce de calcul louée. Ce cas montre le temps et les ressources informatiques que peut exiger la récupération d’un accès perdu à un portefeuille bitcoin. Les informations rapportées se limitent toutefois à ce cas précis de récupération. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "Claude يساعد في استعادة بيتكوين بقيمة 395 ألف دولار عالقة منذ سنوات",
+      "excerpt": "ساعد Claude في استعادة بيتكوين بقيمة 395 ألف دولار كانت عالقة على جهاز كمبيوتر لسنوات، بعدما حاول المالك ثمانية أسابيع كسر كلمة مرور المحفظة بالقوة الغاشمة.",
+      "body": "ساعد Claude في استعادة بيتكوين بقيمة 395 ألف دولار كانت مقفلة على جهاز كمبيوتر لسنوات. وكان المالك يحاول طوال ثمانية أسابيع الوصول إلى كلمة مرور محفظته الحالية على Blockchain.com باستخدام أسلوب القوة الغاشمة. وخلال العملية استخدم خدمة btcrecover، واختبر نحو 3.5 تريليون توليفة عبر شريحة حوسبة مستأجرة. توضح هذه الحالة مقدار الوقت والقدرة الحاسوبية اللذين قد يتطلبهما فقدان الوصول إلى محفظة بيتكوين. ومع ذلك، تقتصر المعلومات المنشورة على حالة الاستعادة المحددة هذه. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "Claude ने वर्षों से फंसे 3.95 लाख डॉलर के बिटकॉइन वापस पाने में मदद की",
+      "excerpt": "Claude की मदद से कंप्यूटर में वर्षों से फंसे 3.95 लाख डॉलर मूल्य के बिटकॉइन वापस मिले। मालिक ने Blockchain.com वॉलेट पासवर्ड पर आठ हफ्ते तक ब्रूट-फोर्स प्रयास किया।",
+      "body": "Claude ने वर्षों से एक कंप्यूटर में फंसे 3.95 लाख डॉलर मूल्य के बिटकॉइन को वापस पाने में मदद की। मालिक अपने मौजूदा Blockchain.com वॉलेट का पासवर्ड खोजने के लिए आठ हफ्तों से ब्रूट-फोर्स तरीका आजमा रहा था। इस प्रक्रिया में btcrecover सेवा का उपयोग किया गया और किराए पर लिए गए कंप्यूटिंग चिप से लगभग 3.5 ट्रिलियन संयोजन जांचे गए। यह मामला दिखाता है कि बिटकॉइन वॉलेट की पहुंच खोने पर रिकवरी में कितना समय और कंप्यूटिंग संसाधन लग सकते हैं। हालांकि प्रकाशित जानकारी इसी विशेष रिकवरी मामले तक सीमित है। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Claude bantu pulihkan bitcoin US$395 ribu yang terkunci bertahun-tahun",
+      "excerpt": "Claude membantu memulihkan bitcoin senilai US$395 ribu yang terjebak di komputer selama bertahun-tahun setelah pemiliknya delapan minggu mencoba kata sandi dompet secara brute force.",
+      "body": "Claude membantu memulihkan bitcoin senilai US$395 ribu yang terkunci di sebuah komputer selama bertahun-tahun. Pemiliknya telah mencoba selama delapan minggu untuk menebak kata sandi dompet Blockchain.com miliknya saat ini dengan metode brute force. Dalam proses itu, ia memakai layanan btcrecover dan menguji sekitar 3,5 triliun kombinasi menggunakan chip komputasi sewaan. Kasus ini menunjukkan bahwa kehilangan akses ke dompet bitcoin dapat membutuhkan waktu lama dan sumber daya komputasi besar untuk dipulihkan. Namun, informasi yang dilaporkan terbatas pada kasus pemulihan khusus ini. Sumber: coindesk.com"
+    }
+  }
+}
