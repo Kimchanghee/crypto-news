@@ -1,5 +1,230 @@
 [
   {
+    "id": "795d44f8f425",
+    "slug": "jpmorgan-lifts-bitcoin-etf-exposure-in-q1-led-by-blackrocks--533776",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T20:12:14.977Z",
+    "updatedAt": "2026-05-14T20:12:14.977Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/jpmorgan-bitcoin-etf-buy-blackrock-ibit-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/jpmorgan-bitcoin-etf-buy-blackrock-ibit-q1-2026",
+    "titleFingerprint": "6c2265a3761d97023b9b4ab0ef322e0839edc0aa",
+    "dedupKeys": [
+      "795d44f8f4252c06882f2f2541def4f2d4d5fd50",
+      "6c2265a3761d97023b9b4ab0ef322e0839edc0aa",
+      "0975bdb5951823f5db913eb63746e7254a6afcb1"
+    ],
+    "imageUrl": "/images/articles/795d44f8f425.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 ETF 노출 늘린 JPMorgan, 1분기 BlackRock IBIT 비중 확대",
+        "excerpt": "JPMorgan은 1분기 BlackRock의 비트코인 ETF IBIT 보유 보고액을 174% 늘리고 비트코인·이더·솔라나 연계 펀드 노출도 추가했다.",
+        "body": "JPMorgan이 1분기 보고된 비트코인 ETF 노출을 확대했다. 핵심은 BlackRock의 IBIT로, 은행은 해당 ETF 보유 보고액을 전 분기보다 174% 늘렸다. 이는 기관 금융사가 비트코인 현물 ETF를 통해 디지털자산 관련 상품에 접근하는 흐름 속에서 나온 변화다. JPMorgan은 IBIT 외에도 일부 비트코인, 이더, 솔라나 연계 펀드에 대한 노출을 추가했다. 다만 이번 내용은 보유 보고 기준의 변화이며, 향후 투자 방향을 단정할 근거는 아니다. 관련 수치는 대형 금융기관의 ETF 활용 범위를 보여주는 자료로 해석된다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "JPMorgan Raises Bitcoin ETF Exposure in Q1, Led by BlackRock IBIT",
+        "excerpt": "JPMorgan increased its reported BlackRock IBIT holdings by 174% in Q1 while adding exposure to selected Bitcoin, Ether and Solana-linked funds.",
+        "body": "JPMorgan expanded its reported Bitcoin ETF exposure in the first quarter. The main driver was BlackRock’s IBIT, with the bank raising its reported holdings in the ETF by 174% from the prior quarter. The move comes as institutional financial firms access digital asset products through spot Bitcoin ETFs. Beyond IBIT, JPMorgan also added exposure to selected funds linked to Bitcoin, Ether and Solana. However, the update reflects reported holdings and does not by itself confirm the bank’s future investment direction. The figures offer a snapshot of how a major financial institution is using crypto-linked ETFs and funds. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "JPMorgan、1QにビットコインETF露出拡大 BlackRock IBITが主導",
+        "excerpt": "JPMorganは第1四半期にBlackRockのビットコインETF「IBIT」の報告保有額を174%増やし、BTC・ETH・SOL関連ファンドにも露出を追加した。",
+        "body": "JPMorganは第1四半期に、報告ベースのビットコインETFエクスポージャーを拡大した。中心となったのはBlackRockのIBITで、同行は同ETFの報告保有額を前四半期比で174%増やした。これは、機関投資家や金融機関が現物ビットコインETFを通じてデジタル資産関連商品にアクセスする流れの中で示された動きだ。JPMorganはIBIT以外にも、ビットコイン、イーサ、ソラナに連動する一部ファンドへの露出を追加した。ただし、今回の内容は報告保有額の変化であり、今後の投資方針を断定するものではない。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "JPMorgan一季度增持比特币ETF敞口，BlackRock IBIT领跑",
+        "excerpt": "JPMorgan第一季度将BlackRock比特币ETF IBIT的报告持仓提高174%，并增加部分比特币、以太坊和Solana相关基金敞口。",
+        "body": "JPMorgan在第一季度扩大了其报告中的比特币ETF敞口。核心变化来自BlackRock的IBIT，该行报告的IBIT持仓较上一季度增加174%。这一变化出现在机构金融公司通过现货比特币ETF接触数字资产相关产品的背景下。除IBIT外，JPMorgan还增加了对部分比特币、以太坊和Solana相关基金的敞口。不过，这些数据反映的是报告持仓变化，并不能单独用来判断其未来投资方向。相关数字展示了大型金融机构使用加密资产相关ETF和基金的范围。来源：cointelegraph.com"
+      },
+      "es": {
+        "title": "JPMorgan eleva exposición a ETF de Bitcoin en Q1 con BlackRock IBIT al frente",
+        "excerpt": "JPMorgan aumentó en el primer trimestre un 174% sus tenencias reportadas de BlackRock IBIT y sumó exposición a fondos ligados a Bitcoin, Ether y Solana.",
+        "body": "JPMorgan amplió en el primer trimestre su exposición reportada a ETF de Bitcoin. El principal impulso vino de IBIT, el ETF de BlackRock, ya que el banco elevó sus tenencias reportadas en ese producto un 174% frente al trimestre anterior. El movimiento se produce mientras firmas financieras institucionales acceden a productos de activos digitales mediante ETF spot de Bitcoin. Además de IBIT, JPMorgan añadió exposición a fondos seleccionados vinculados a Bitcoin, Ether y Solana. Aun así, el dato refleja cambios en tenencias reportadas y no permite concluir por sí solo una dirección futura de inversión. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "JPMorgan amplia exposição a ETF de Bitcoin no 1º tri com BlackRock IBIT em destaque",
+        "excerpt": "O JPMorgan elevou em 174% suas posições reportadas no BlackRock IBIT no 1º trimestre e adicionou exposição a fundos ligados a Bitcoin, Ether e Solana.",
+        "body": "O JPMorgan ampliou no primeiro trimestre sua exposição reportada a ETFs de Bitcoin. O destaque foi o IBIT, da BlackRock, com o banco aumentando em 174% suas posições reportadas nesse ETF em relação ao trimestre anterior. O movimento ocorre em um contexto no qual instituições financeiras acessam produtos de ativos digitais por meio de ETFs spot de Bitcoin. Além do IBIT, o JPMorgan também adicionou exposição a fundos selecionados ligados a Bitcoin, Ether e Solana. Ainda assim, os dados refletem mudanças em posições reportadas e não confirmam, por si só, uma direção futura de investimento. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "JPMorgan erhöht Bitcoin-ETF-Exposure im Q1, BlackRock IBIT im Fokus",
+        "excerpt": "JPMorgan steigerte im ersten Quartal seine gemeldeten BlackRock-IBIT-Bestände um 174% und ergänzte Exposure zu Bitcoin-, Ether- und Solana-nahen Fonds.",
+        "body": "JPMorgan hat im ersten Quartal sein gemeldetes Exposure gegenüber Bitcoin-ETFs erhöht. Im Mittelpunkt stand BlackRocks IBIT: Die Bank steigerte ihre gemeldeten Bestände an diesem ETF gegenüber dem Vorquartal um 174%. Die Entwicklung fällt in eine Phase, in der institutionelle Finanzhäuser über Spot-Bitcoin-ETFs Zugang zu Produkten rund um digitale Vermögenswerte suchen. Neben IBIT baute JPMorgan auch Exposure zu ausgewählten Fonds mit Bezug zu Bitcoin, Ether und Solana auf. Die Angaben beschreiben jedoch gemeldete Bestandsveränderungen und lassen für sich genommen keine sichere Aussage zur künftigen Anlagestrategie zu. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "JPMorgan accroît son exposition aux ETF Bitcoin au T1, portée par BlackRock IBIT",
+        "excerpt": "JPMorgan a augmenté de 174% ses avoirs déclarés dans BlackRock IBIT au premier trimestre et ajouté une exposition à des fonds liés à Bitcoin, Ether et Solana.",
+        "body": "JPMorgan a accru au premier trimestre son exposition déclarée aux ETF Bitcoin. Le principal moteur a été l’IBIT de BlackRock, dont les avoirs déclarés par la banque ont progressé de 174% par rapport au trimestre précédent. Ce mouvement intervient alors que des institutions financières accèdent aux produits d’actifs numériques via les ETF Bitcoin au comptant. En plus d’IBIT, JPMorgan a aussi ajouté une exposition à certains fonds liés à Bitcoin, Ether et Solana. Ces données reflètent toutefois des positions déclarées et ne permettent pas, à elles seules, de conclure à une orientation future d’investissement. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "JPMorgan ترفع تعرضها لصناديق Bitcoin ETF في الربع الأول بقيادة BlackRock IBIT",
+        "excerpt": "رفعت JPMorgan حيازاتها المعلنة في BlackRock IBIT بنسبة 174% في الربع الأول، وأضافت تعرضا لصناديق مرتبطة ببيتكوين وإيثر وسولانا.",
+        "body": "وسعت JPMorgan في الربع الأول تعرضها المعلن لصناديق Bitcoin ETF. وكان العامل الأبرز هو صندوق IBIT التابع لـBlackRock، إذ زادت الحيازات المعلنة للبنك في هذا الصندوق بنسبة 174% مقارنة بالربع السابق. تأتي هذه الخطوة ضمن سياق توجه مؤسسات مالية إلى استخدام صناديق بيتكوين الفورية للوصول إلى منتجات مرتبطة بالأصول الرقمية. وإلى جانب IBIT، أضافت JPMorgan تعرضا مختارا لصناديق مرتبطة ببيتكوين وإيثر وسولانا. مع ذلك، تعكس الأرقام تغيرات في الحيازات المعلنة ولا تكفي وحدها لتأكيد اتجاه استثماري مستقبلي. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "JPMorgan ने Q1 में Bitcoin ETF एक्सपोजर बढ़ाया, BlackRock IBIT सबसे आगे",
+        "excerpt": "JPMorgan ने पहली तिमाही में BlackRock IBIT की रिपोर्टेड होल्डिंग 174% बढ़ाई और Bitcoin, Ether व Solana से जुड़े चुनिंदा फंडों में एक्सपोजर जोड़ा।",
+        "body": "JPMorgan ने पहली तिमाही में Bitcoin ETF में अपनी रिपोर्टेड एक्सपोजर बढ़ाई। इसका मुख्य केंद्र BlackRock का IBIT रहा, जिसमें बैंक की रिपोर्टेड होल्डिंग पिछली तिमाही से 174% बढ़ी। यह बदलाव ऐसे समय आया है जब संस्थागत वित्तीय कंपनियां स्पॉट Bitcoin ETF के जरिए डिजिटल एसेट से जुड़े उत्पादों तक पहुंच बना रही हैं। IBIT के अलावा JPMorgan ने Bitcoin, Ether और Solana से जुड़े कुछ चुनिंदा फंडों में भी एक्सपोजर जोड़ा। हालांकि, ये आंकड़े रिपोर्टेड होल्डिंग में बदलाव दिखाते हैं और अकेले इनके आधार पर भविष्य की निवेश दिशा तय नहीं मानी जा सकती। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "JPMorgan Naikkan Eksposur ETF Bitcoin Q1, BlackRock IBIT Jadi Pendorong",
+        "excerpt": "JPMorgan menaikkan kepemilikan terlapor di BlackRock IBIT sebesar 174% pada kuartal pertama dan menambah eksposur ke dana terkait Bitcoin, Ether, dan Solana.",
+        "body": "JPMorgan memperluas eksposur ETF Bitcoin yang dilaporkan pada kuartal pertama. Pendorong utamanya adalah IBIT milik BlackRock, dengan kepemilikan terlapor bank tersebut naik 174% dibanding kuartal sebelumnya. Perubahan ini terjadi ketika lembaga keuangan institusional mengakses produk aset digital melalui ETF Bitcoin spot. Selain IBIT, JPMorgan juga menambah eksposur ke sejumlah dana yang terkait dengan Bitcoin, Ether, dan Solana. Namun, informasi ini mencerminkan perubahan kepemilikan terlapor dan tidak cukup untuk menyimpulkan arah investasi ke depan. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "091f0b3afca4",
+    "slug": "law-firm-fenwick-west-sued-for-525m-over-alleged-role-in-ftx-323749",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T20:11:22.232Z",
+    "updatedAt": "2026-05-14T20:11:22.232Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/law-firm-fenwick-west-sued-for-525m-over-alleged-role-in-ftx-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/law-firm-fenwick-west-sued-for-525m-over-alleged-role-in-ftx-collapse",
+    "titleFingerprint": "ec2f7d9282d1c9555c7c5709284be97678be503d",
+    "dedupKeys": [
+      "091f0b3afca4fa25615dacb7176114a476d82597",
+      "ec2f7d9282d1c9555c7c5709284be97678be503d",
+      "937a458a848123dc48c99bf10ef0f015ea2f54b8"
+    ],
+    "imageUrl": "/images/articles/091f0b3afca4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "FTX 붕괴 피해자 20명, Fenwick & West에 5억2500만달러 소송",
+        "excerpt": "FTX 피해자 20명이 로펌 Fenwick & West를 상대로 5억2500만달러 소송을 제기하며, 회사가 단순 법률대리를 넘어 사기 지속 인프라 구축을 도왔다고 주장했다.",
+        "body": "FTX 붕괴와 관련해 피해자 20명이 로펌 Fenwick & West를 상대로 5억2500만달러 규모의 소송을 제기했다. 이들은 Fenwick & West가 FTX를 단순히 대리한 수준이 아니라, 사기가 계속 운영될 수 있도록 한 인프라 구축에 관여했다고 주장했다. 이번 소송의 핵심은 로펌의 법률 서비스가 FTX 운영 구조와 어느 정도 연결됐는지에 맞춰져 있다. 피해자들은 FTX 붕괴로 인한 손실 책임을 묻고 있으며, 사건은 FTX 사태 이후 법률 자문사의 역할까지 쟁점으로 확대되는 흐름을 보여준다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "FTX Victims Sue Fenwick & West for $525M Over Alleged Collapse Role",
+        "excerpt": "Twenty FTX victims sued Fenwick & West for $525 million, alleging the law firm went beyond legal representation and helped build infrastructure that kept the fraud running.",
+        "body": "Twenty victims of the FTX collapse have filed a $525 million lawsuit against law firm Fenwick & West. They claim the firm did more than represent FTX, alleging it helped build infrastructure that allowed the fraud to continue operating. The central issue is how closely the firm’s legal services were connected to FTX’s operating structure. The plaintiffs are seeking accountability for losses tied to the collapse, expanding scrutiny from FTX itself to the role of its legal advisers. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "FTX被害者20人、Fenwick & Westを5.25億ドルで提訴",
+        "excerpt": "FTX被害者20人がFenwick & Westを相手に5億2500万ドルの訴訟を起こし、同事務所が法務代理を超えて不正継続の基盤構築を助けたと主張した。",
+        "body": "FTX崩壊に関連し、被害者20人が法律事務所Fenwick & Westを相手に5億2500万ドル規模の訴訟を起こした。原告側は、同事務所がFTXを単に代理しただけでなく、不正が継続して運営されるためのインフラ構築に関与したと主張している。争点は、同事務所の法務サービスがFTXの運営構造とどの程度結び付いていたかにある。被害者はFTX崩壊に伴う損失の責任を問うており、問題はFTX本体から法律顧問の役割へも広がっている。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "FTX受害者起诉Fenwick & West，索赔5.25亿美元",
+        "excerpt": "20名FTX受害者起诉律所Fenwick & West，索赔5.25亿美元，称其不只是代理FTX，还帮助搭建维持欺诈运转的基础设施。",
+        "body": "与FTX崩盘相关，20名受害者已对律师事务所Fenwick & West提起5.25亿美元诉讼。他们声称，该律所并非只是为FTX提供法律代理，而是帮助搭建了让欺诈持续运转的基础设施。本案核心在于该律所的法律服务与FTX运营结构之间究竟存在多深联系。原告正就FTX崩盘造成的损失追责，也显示FTX事件后的审视范围正从交易平台本身扩大到其法律顾问的角色。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "Víctimas de FTX demandan a Fenwick & West por $525 millones",
+        "excerpt": "Veinte víctimas de FTX demandaron a Fenwick & West por 525 millones de dólares, alegando que el bufete no solo representó a FTX, sino que ayudó a sostener el fraude.",
+        "body": "Veinte víctimas del colapso de FTX presentaron una demanda de 525 millones de dólares contra el bufete Fenwick & West. Afirman que la firma no se limitó a representar legalmente a FTX, sino que ayudó a construir la infraestructura que permitió que el presunto fraude siguiera operando. El punto central es hasta qué grado los servicios legales del bufete estuvieron conectados con la estructura operativa de FTX. Los demandantes buscan responsabilizar por las pérdidas vinculadas al colapso, ampliando el foco hacia el papel de los asesores legales. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Vítimas da FTX processam Fenwick & West por US$ 525 milhões",
+        "excerpt": "Vinte vítimas da FTX processaram a Fenwick & West em US$ 525 milhões, alegando que o escritório foi além da representação legal e ajudou a manter a fraude em operação.",
+        "body": "Vinte vítimas do colapso da FTX entraram com uma ação de US$ 525 milhões contra o escritório Fenwick & West. Elas alegam que a firma não apenas representou a FTX, mas também ajudou a construir a infraestrutura que permitiu que a fraude continuasse funcionando. O ponto central do caso é até que ponto os serviços jurídicos do escritório estavam ligados à estrutura operacional da FTX. Os autores buscam responsabilização por perdas ligadas ao colapso, ampliando o escrutínio para o papel dos consultores jurídicos. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "FTX-Opfer verklagen Fenwick & West auf 525 Millionen Dollar",
+        "excerpt": "Zwanzig FTX-Opfer verklagen Fenwick & West auf 525 Millionen Dollar und behaupten, die Kanzlei habe nicht nur vertreten, sondern Infrastruktur für den fortlaufenden Betrug mit aufgebaut.",
+        "body": "Zwanzig Opfer des FTX-Zusammenbruchs haben eine Klage über 525 Millionen Dollar gegen die Kanzlei Fenwick & West eingereicht. Sie behaupten, die Kanzlei habe FTX nicht nur rechtlich vertreten, sondern auch beim Aufbau der Infrastruktur geholfen, die den Betrug weiterlaufen ließ. Im Mittelpunkt steht, wie eng die juristischen Dienstleistungen der Kanzlei mit der operativen Struktur von FTX verbunden waren. Die Kläger wollen Verluste aus dem Zusammenbruch geltend machen; damit rückt auch die Rolle der Rechtsberater stärker in den Fokus. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Des victimes de FTX poursuivent Fenwick & West pour 525 M$",
+        "excerpt": "Vingt victimes de FTX poursuivent Fenwick & West pour 525 millions de dollars, affirmant que le cabinet ne s’est pas limité à représenter FTX et a aidé l’infrastructure de la fraude.",
+        "body": "Vingt victimes de l’effondrement de FTX ont intenté une action de 525 millions de dollars contre le cabinet Fenwick & West. Elles affirment que le cabinet ne s’est pas contenté de représenter FTX, mais a aidé à bâtir l’infrastructure qui aurait permis à la fraude de continuer. L’enjeu central est de déterminer dans quelle mesure les services juridiques du cabinet étaient liés à la structure opérationnelle de FTX. Les plaignants cherchent à faire reconnaître une responsabilité pour les pertes liées à l’effondrement, élargissant l’examen au rôle des conseillers juridiques. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "ضحايا FTX يقاضون Fenwick & West مطالبين بـ525 مليون دولار",
+        "excerpt": "رفع 20 من ضحايا FTX دعوى ضد Fenwick & West بقيمة 525 مليون دولار، زاعمين أن مكتب المحاماة لم يكتف بتمثيل FTX بل ساعد في بناء بنية أبقت الاحتيال مستمرا.",
+        "body": "رفع 20 من ضحايا انهيار FTX دعوى قضائية بقيمة 525 مليون دولار ضد مكتب المحاماة Fenwick & West. ويزعم المدعون أن المكتب لم يقتصر دوره على تمثيل FTX قانونيا، بل ساعد في بناء البنية التحتية التي أبقت الاحتيال قيد التشغيل. يتمحور النزاع حول مدى ارتباط الخدمات القانونية للمكتب بالبنية التشغيلية لـFTX. ويسعى الضحايا إلى تحميل أطراف مسؤولية الخسائر المرتبطة بالانهيار، ما يوسع نطاق التدقيق ليشمل دور المستشارين القانونيين بعد قضية FTX. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "FTX पीड़ितों ने Fenwick & West पर $525 मिलियन का मुकदमा किया",
+        "excerpt": "FTX के 20 पीड़ितों ने Fenwick & West पर $525 मिलियन का मुकदमा किया, आरोप लगाया कि फर्म ने सिर्फ प्रतिनिधित्व नहीं किया बल्कि धोखाधड़ी चलाने वाली संरचना बनाने में मदद की।",
+        "body": "FTX के पतन से जुड़े 20 पीड़ितों ने लॉ फर्म Fenwick & West के खिलाफ $525 मिलियन का मुकदमा दायर किया है। उनका आरोप है कि फर्म ने केवल FTX का कानूनी प्रतिनिधित्व नहीं किया, बल्कि ऐसी अवसंरचना बनाने में मदद की जिससे कथित धोखाधड़ी चलती रही। इस मुकदमे का मुख्य सवाल यह है कि फर्म की कानूनी सेवाएं FTX की संचालन संरचना से कितनी जुड़ी थीं। वादी पतन से हुए नुकसान के लिए जवाबदेही चाहते हैं, जिससे FTX मामले में कानूनी सलाहकारों की भूमिका भी जांच के दायरे में आ रही है। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Korban FTX Gugat Fenwick & West US$525 Juta Terkait Keruntuhan",
+        "excerpt": "Dua puluh korban FTX menggugat Fenwick & West senilai US$525 juta, menuduh firma hukum itu bukan hanya mewakili FTX, tetapi membantu membangun infrastruktur yang menjaga penipuan berjalan.",
+        "body": "Dua puluh korban keruntuhan FTX mengajukan gugatan senilai US$525 juta terhadap firma hukum Fenwick & West. Mereka menuduh firma tersebut tidak hanya mewakili FTX secara hukum, tetapi juga membantu membangun infrastruktur yang memungkinkan penipuan terus berjalan. Pokok perkara ini adalah seberapa erat layanan hukum firma tersebut terhubung dengan struktur operasional FTX. Para penggugat menuntut pertanggungjawaban atas kerugian akibat keruntuhan itu, memperluas sorotan dari FTX sendiri ke peran penasihat hukumnya. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "ea9cc79d64bc",
+    "slug": "analysts-are-watching-these-bitcoin-price-levels-ahead-of-cl-333737",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T20:10:26.854Z",
+    "updatedAt": "2026-05-14T20:10:26.854Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/analysts-these-bitcoin-price-levels-ahead-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/analysts-these-bitcoin-price-levels-ahead-clarity-act-vote",
+    "titleFingerprint": "1f73f386d162a9913584414e7ca598d3e5bbfb47",
+    "dedupKeys": [
+      "ea9cc79d64bc52626acfb043935b87b302c88d15",
+      "1f73f386d162a9913584414e7ca598d3e5bbfb47",
+      "bf39ffb824c1e41a543c9e040fa275d765bbbccf"
+    ],
+    "imageUrl": "/images/articles/ea9cc79d64bc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 8만 달러 하회, CLARITY Act 표결 앞두고 가격대 주목",
+        "excerpt": "비트코인은 미국 상원 CLARITY Act 마크업 표결을 앞두고 8만 달러 아래에서 거래됐으며, 투자자들은 주요 BTC 가격대 변동 가능성에 대비하고 있다.",
+        "body": "비트코인 가격은 미국 상원의 CLARITY Act 마크업 표결을 앞두고 8만 달러 아래에서 거래됐다. 투자자들은 해당 표결이 시장 심리에 영향을 줄 수 있다는 점에 주목하며 단기 가격 변동에 대비하고 있다. 원문에 따르면 애널리스트들은 BTC가 갑작스러운 등락을 보일 경우 확인해야 할 주요 가격대를 살피고 있다. 이번 이슈는 규제 관련 일정이 비트코인 거래 흐름과 투자자 대응에 어떤 영향을 줄지 가늠하는 변수로 평가된다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Bitcoin Below $80K as CLARITY Act Vote Puts Key Levels in Focus",
+        "excerpt": "Bitcoin traded below $80,000 ahead of the US Senate CLARITY Act markup vote, with investors watching for possible swings toward key BTC price levels.",
+        "body": "Bitcoin traded below $80,000 as investors prepared for the US Senate’s CLARITY Act markup vote. Market participants were watching the vote as a potential factor for short-term sentiment and price volatility. According to the source, analysts are monitoring key BTC price levels that could come into focus if sudden swings occur. The event is being viewed as a regulatory timetable that may shape Bitcoin trading flows and investor positioning. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "ビットコイン8万ドル割れ、CLARITY Act採決前に重要水準へ注目",
+        "excerpt": "ビットコインは米上院のCLARITY Actマークアップ採決を前に8万ドルを下回って取引され、投資家は主要BTC価格帯への変動に備えている。",
+        "body": "ビットコイン価格は、米上院のCLARITY Actマークアップ採決を前に8万ドルを下回って取引された。投資家は、この採決が市場心理に影響を与える可能性を意識し、短期的な値動きに備えている。原文によると、アナリストはBTCが急変動した場合に注目される主要価格帯を確認している。今回の動きは、規制関連の日程がビットコインの取引フローと投資家対応にどう影響するかを測る材料とみられる。出典: cointelegraph.com。"
+      },
+      "zh": {
+        "title": "比特币跌破8万美元，CLARITY Act投票前关键价位受关注",
+        "excerpt": "在美国参议院CLARITY Act标记投票前，比特币交投于8万美元下方，投资者正关注BTC关键价位可能出现的波动。",
+        "body": "在美国参议院CLARITY Act标记投票前，比特币价格跌至8万美元下方交易。投资者认为该投票可能影响市场情绪，因此正为短期价格波动做准备。据原文称，分析师正在关注一旦BTC出现突然涨跌时需要观察的关键价格水平。此次事件被视为一项监管相关日程，可能影响比特币交易走势和投资者应对。来源: cointelegraph.com。"
+      },
+      "es": {
+        "title": "Bitcoin cae bajo 80.000 dólares antes del voto sobre la CLARITY Act",
+        "excerpt": "Bitcoin cotizó por debajo de 80.000 dólares antes del voto de marcado de la CLARITY Act en el Senado de EE. UU., mientras inversores vigilan niveles clave.",
+        "body": "El precio de Bitcoin cotizó por debajo de 80.000 dólares mientras los inversores se preparaban para el voto de marcado de la CLARITY Act en el Senado de Estados Unidos. El mercado observa esa votación como un posible factor para el sentimiento y la volatilidad de corto plazo. Según la fuente, los analistas siguen niveles clave de BTC que podrían entrar en foco si se producen movimientos bruscos. El evento se considera una fecha regulatoria capaz de influir en los flujos de negociación y en el posicionamiento de los inversores. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Bitcoin abaixo de US$ 80 mil antes de voto sobre a CLARITY Act",
+        "excerpt": "O Bitcoin negociou abaixo de US$ 80.000 antes da votação de marcação da CLARITY Act no Senado dos EUA, com investidores atentos a níveis-chave do BTC.",
+        "body": "O preço do Bitcoin foi negociado abaixo de US$ 80.000 enquanto investidores se preparavam para a votação de marcação da CLARITY Act no Senado dos Estados Unidos. O mercado acompanha a votação como um possível fator para o sentimento e a volatilidade de curto prazo. Segundo a fonte, analistas monitoram níveis-chave do BTC que podem ganhar atenção caso ocorram oscilações repentinas. O evento é visto como uma agenda regulatória que pode influenciar o fluxo de negociação do Bitcoin e o posicionamento dos investidores. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Bitcoin unter 80.000 Dollar: CLARITY-Act-Votum rückt Kursmarken in den Blick",
+        "excerpt": "Bitcoin notierte vor der Markup-Abstimmung zum CLARITY Act im US-Senat unter 80.000 Dollar, während Anleger mögliche Bewegungen zu wichtigen BTC-Marken beobachten.",
+        "body": "Der Bitcoin-Kurs notierte unter 80.000 Dollar, während sich Anleger auf die Markup-Abstimmung zum CLARITY Act im US-Senat vorbereiteten. Marktteilnehmer sehen die Abstimmung als möglichen Faktor für kurzfristige Stimmung und Volatilität. Laut Quelle beobachten Analysten wichtige BTC-Kursniveaus, die bei plötzlichen Bewegungen in den Fokus rücken könnten. Der Termin gilt als regulatorisches Ereignis, das Handelsströme bei Bitcoin und die Positionierung von Investoren beeinflussen kann. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Bitcoin sous 80 000 dollars avant le vote sur le CLARITY Act",
+        "excerpt": "Le Bitcoin s’est échangé sous 80 000 dollars avant le vote de balisage du CLARITY Act au Sénat américain, les investisseurs surveillant des niveaux clés du BTC.",
+        "body": "Le prix du Bitcoin s’est échangé sous 80 000 dollars alors que les investisseurs se préparaient au vote de balisage du CLARITY Act au Sénat des États-Unis. Le marché suit ce vote comme un facteur potentiel pour le sentiment et la volatilité à court terme. Selon la source, les analystes surveillent des niveaux clés du BTC qui pourraient devenir importants en cas de mouvements soudains. Cet événement est considéré comme une échéance réglementaire susceptible d’influencer les flux de trading du Bitcoin et le positionnement des investisseurs. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "بيتكوين دون 80 ألف دولار قبل تصويت CLARITY Act وترقب مستويات مهمة",
+        "excerpt": "تداولت بيتكوين دون 80 ألف دولار قبل تصويت لجنة مجلس الشيوخ الأمريكي على CLARITY Act، بينما يراقب المستثمرون تحركات محتملة نحو مستويات BTC رئيسية.",
+        "body": "تداول سعر بيتكوين دون 80 ألف دولار مع استعداد المستثمرين لتصويت المراجعة في مجلس الشيوخ الأمريكي على CLARITY Act. ويراقب المشاركون في السوق هذا التصويت باعتباره عاملا قد يؤثر في المعنويات والتقلبات قصيرة الأجل. وبحسب المصدر، يتابع المحللون مستويات سعرية رئيسية لبيتكوين قد تصبح محط اهتمام إذا حدثت تقلبات مفاجئة. ويعد هذا الحدث موعدا تنظيميا قد يؤثر في تدفقات تداول بيتكوين وتموضع المستثمرين. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "CLARITY Act वोट से पहले बिटकॉइन $80,000 से नीचे, अहम स्तरों पर नजर",
+        "excerpt": "अमेरिकी सीनेट में CLARITY Act मार्कअप वोट से पहले बिटकॉइन $80,000 से नीचे ट्रेड हुआ, जबकि निवेशक BTC के अहम मूल्य स्तरों की संभावित चाल देख रहे हैं।",
+        "body": "अमेरिकी सीनेट के CLARITY Act मार्कअप वोट से पहले बिटकॉइन की कीमत $80,000 से नीचे कारोबार कर रही थी। निवेशक इस वोट को बाजार धारणा और अल्पकालिक उतार-चढ़ाव को प्रभावित करने वाले संभावित कारक के रूप में देख रहे हैं। स्रोत के अनुसार, विश्लेषक BTC के उन प्रमुख मूल्य स्तरों पर नजर रख रहे हैं जो अचानक तेजी या गिरावट की स्थिति में महत्वपूर्ण हो सकते हैं। यह मुद्दा एक नियामकीय कार्यक्रम के रूप में देखा जा रहा है, जो बिटकॉइन ट्रेडिंग प्रवाह और निवेशकों की पोजिशनिंग को प्रभावित कर सकता है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Bitcoin di Bawah US$80.000, Level Kunci Disorot Jelang Vote CLARITY Act",
+        "excerpt": "Bitcoin diperdagangkan di bawah US$80.000 menjelang voting markup CLARITY Act di Senat AS, saat investor mencermati potensi pergerakan menuju level kunci BTC.",
+        "body": "Harga Bitcoin diperdagangkan di bawah US$80.000 saat investor bersiap menghadapi voting markup CLARITY Act di Senat Amerika Serikat. Pelaku pasar memantau pemungutan suara tersebut sebagai faktor yang berpotensi memengaruhi sentimen dan volatilitas jangka pendek. Menurut sumber, analis mengamati level harga utama BTC yang dapat menjadi perhatian jika terjadi pergerakan mendadak. Agenda ini dipandang sebagai faktor regulasi yang dapat memengaruhi arus perdagangan Bitcoin dan posisi investor. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "6d23e2baaed6",
     "slug": "tethers-t3-crime-unit-says-it-has-frozen-450m-in-suspected-i-853698",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Electronics Kirim Surat Resmi ke Serikat, Usulkan Dialog Langsung",
         "excerpt": "Samsung Electronics mengirim surat resmi kepada serikat pekerja untuk mengusulkan dialog langsung, menurut mk.co.kr. Teks asli tidak memuat agenda, jadwal, peserta, atau respons resmi serikat.",
         "body": "Samsung Electronics mengirim surat resmi kepada serikat pekerja untuk mengusulkan dialog langsung, lapor mk.co.kr. Kabar ini menjadi perhatian karena membuka kembali kemungkinan komunikasi antara perusahaan dan serikat. Fakta utama dalam teks asli adalah bahwa Samsung Electronics menyampaikan usulan “dialog langsung” melalui surat resmi kepada serikat pekerja. Namun, informasi yang diberikan tidak mencantumkan rincian agenda, jadwal pembicaraan, pihak yang akan hadir, maupun respons resmi dari serikat. Fokus berikutnya adalah apakah kedua pihak benar-benar akan melanjutkan ke proses dialog. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "40726edaf883",
-    "slug": "미래차에-정책금융-18조-공급국민성장펀드도-15조-투입-130222",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T02:12:51.868Z",
-    "updatedAt": "2026-05-14T02:12:51.868Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12047375",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12047375",
-    "titleFingerprint": "a79d1c9c61a9fe26c65dff156f352854298c5770",
-    "dedupKeys": [
-      "40726edaf8831c83d71182c7ce6422d32f6fa229",
-      "a79d1c9c61a9fe26c65dff156f352854298c5770",
-      "c5e3c70e6a88fb070f4c943f1ae9b848ed5a0a02"
-    ],
-    "imageUrl": "/images/articles/40726edaf883.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미래차 정책금융 18조 공급, 부품업계·자율주행 전환 지원 확대",
-        "excerpt": "정부는 올해 금융위와 산업부의 미래차 전환 간담회를 통해 자동차 부품업계와 자율주행차 등 미래차 산업에 총 18조원의 정책금융을 공급한다고 밝혔다.",
-        "body": "정부가 올해 자동차 부품업계와 자율주행차 등 미래차 산업 육성을 위해 총 18조원의 정책금융을 공급한다. 금융위원회와 산업통상자원부는 ‘미래차 전환 간담회’를 열고 자동차 산업의 전환을 지원하기 위한 금융 공급 계획을 논의했다. 정책금융은 자동차 부품업계에 9조7000억원, 미래차 산업 분야에 8조3000억원이 배정된다. 여기에 국민성장펀드도 15조원 규모로 투입돼 관련 산업 전환을 뒷받침할 예정이다. 이번 지원은 부품업계의 미래차 대응과 자율주행차 등 신산업 육성에 초점이 맞춰졌다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Future Car Policy Finance Reaches 18 Trillion Won for Parts and Autonomous Driving",
-        "excerpt": "The Korean government said it will provide 18 trillion won in policy finance this year for auto parts makers and future car sectors, including autonomous vehicles, after a Finance Ministry and Industry Ministry meeting.",
-        "body": "The Korean government will supply a total of 18 trillion won in policy finance this year to foster the auto parts industry and future car sectors such as autonomous vehicles. The Financial Services Commission and the Ministry of Trade, Industry and Energy held a “future car transition meeting” to discuss financing plans for supporting the auto industry’s shift. Of the funds, 9.7 trillion won will go to auto parts companies and 8.3 trillion won to future car industries. In addition, 15 trillion won from the National Growth Fund will be invested to support the transition. The support focuses on helping parts makers respond to future vehicles and nurturing new industries such as autonomous driving. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "未来車に政策金融18兆ウォン、部品業界と自動運転転換を支援",
-        "excerpt": "韓国政府は金融委員会と産業通商資源部の未来車転換懇談会を通じ、今年、部品業界と自動運転車など未来車産業に計18兆ウォンの政策金融を供給すると明らかにした。",
-        "body": "韓国政府は今年、自動車部品業界と自動運転車など未来車産業の育成に向け、計18兆ウォンの政策金融を供給する。金融委員会と産業通商資源部は「未来車転換懇談会」を開き、自動車産業の転換を支援する金融供給計画を協議した。政策金融は自動車部品業界に9兆7000億ウォン、未来車産業分野に8兆3000億ウォンが配分される。さらに国民成長ファンドも15兆ウォン規模で投入され、関連産業の転換を後押しする予定だ。今回の支援は、部品業界の未来車対応と自動運転車など新産業の育成に焦点を当てている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "未来汽车获18万亿韩元政策金融，支持零部件与自动驾驶转型",
-        "excerpt": "韩国政府通过金融委员会和产业通商资源部的未来汽车转型座谈会表示，今年将向汽车零部件行业及自动驾驶等未来汽车产业提供共18万亿韩元政策金融。",
-        "body": "韩国政府今年将为汽车零部件行业和自动驾驶汽车等未来汽车产业培育提供共18万亿韩元政策金融。金融委员会与产业通商资源部举行“未来汽车转型座谈会”，讨论支持汽车产业转型的金融供给计划。相关政策金融中，9.7万亿韩元将投向汽车零部件行业，8.3万亿韩元将投向未来汽车产业领域。此外，国民成长基金也将投入15万亿韩元规模，用于支撑相关产业转型。此次支持重点在于帮助零部件行业应对未来汽车变化，并培育自动驾驶汽车等新产业。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Financiación pública de 18 billones de wones impulsa autos del futuro en Corea",
-        "excerpt": "El Gobierno surcoreano anunció que este año aportará 18 billones de wones en financiación pública para fabricantes de autopartes y sectores de autos del futuro, incluida la conducción autónoma.",
-        "body": "El Gobierno surcoreano suministrará este año un total de 18 billones de wones en financiación pública para fomentar la industria de autopartes y los sectores de autos del futuro, como los vehículos autónomos. La Comisión de Servicios Financieros y el Ministerio de Comercio, Industria y Energía celebraron una “reunión sobre la transición hacia autos del futuro” para debatir el plan de apoyo financiero a la transformación automotriz. De esa suma, 9,7 billones de wones se destinarán a la industria de autopartes y 8,3 billones a las áreas de autos del futuro. Además, se invertirán 15 billones de wones del Fondo Nacional de Crecimiento para respaldar la transición. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Financiamento público de 18 trilhões de wons apoia carros do futuro na Coreia",
-        "excerpt": "O governo sul-coreano informou que fornecerá neste ano 18 trilhões de wons em financiamento público para autopeças e setores de carros do futuro, incluindo veículos autônomos.",
-        "body": "O governo sul-coreano fornecerá neste ano um total de 18 trilhões de wons em financiamento público para desenvolver a indústria de autopeças e setores de carros do futuro, como veículos autônomos. A Comissão de Serviços Financeiros e o Ministério do Comércio, Indústria e Energia realizaram uma “reunião sobre a transição para carros do futuro” para discutir o plano de financiamento destinado a apoiar a transformação do setor automotivo. Desse montante, 9,7 trilhões de wons irão para a indústria de autopeças e 8,3 trilhões para áreas de carros do futuro. Além disso, 15 trilhões de wons do Fundo Nacional de Crescimento serão aplicados para apoiar a transição. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "18 Billionen Won Politikfinanzierung für Zukunftsautos und Zulieferer in Korea",
-        "excerpt": "Südkoreas Regierung kündigte nach einem Treffen von Finanz- und Industrieministerium an, dieses Jahr 18 Billionen Won an Politikfinanzierung für Autozulieferer und Zukunftsauto-Sektoren bereitzustellen.",
-        "body": "Südkoreas Regierung stellt in diesem Jahr insgesamt 18 Billionen Won an Politikfinanzierung bereit, um die Autozulieferindustrie und Zukunftsauto-Sektoren wie autonome Fahrzeuge zu fördern. Die Finanzdienstleistungskommission und das Ministerium für Handel, Industrie und Energie hielten ein „Treffen zur Transformation zu Zukunftsautos“ ab und berieten über Finanzierungspläne zur Unterstützung des Wandels der Autoindustrie. Davon entfallen 9,7 Billionen Won auf Autozulieferer und 8,3 Billionen Won auf Zukunftsauto-Branchen. Zusätzlich sollen 15 Billionen Won aus dem Nationalen Wachstumsfonds eingesetzt werden, um die Transformation verwandter Industrien zu stützen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "18 billions de wons de financement public pour les voitures du futur en Corée",
-        "excerpt": "Le gouvernement sud-coréen a annoncé qu’il fournira cette année 18 billions de wons de financement public aux équipementiers automobiles et aux secteurs des voitures du futur, dont les véhicules autonomes.",
-        "body": "Le gouvernement sud-coréen fournira cette année un total de 18 billions de wons de financement public afin de soutenir l’industrie des pièces automobiles et les secteurs des voitures du futur, comme les véhicules autonomes. La Commission des services financiers et le ministère du Commerce, de l’Industrie et de l’Énergie ont tenu une “réunion sur la transition vers les voitures du futur” pour discuter du plan de financement destiné à accompagner la transformation de l’industrie automobile. Sur ce total, 9,7 billions de wons iront aux équipementiers automobiles et 8,3 billions aux industries des voitures du futur. En outre, 15 billions de wons du Fonds national de croissance seront investis pour soutenir cette transition. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تمويل سياساتي بقيمة 18 تريليون وون يدعم سيارات المستقبل في كوريا",
-        "excerpt": "أعلنت الحكومة الكورية الجنوبية أنها ستوفر هذا العام 18 تريليون وون من التمويل السياساتي لقطاع قطع السيارات وصناعات سيارات المستقبل، بما في ذلك المركبات ذاتية القيادة.",
-        "body": "ستوفر الحكومة الكورية الجنوبية هذا العام ما مجموعه 18 تريليون وون من التمويل السياساتي لتنمية قطاع قطع السيارات وصناعات سيارات المستقبل مثل المركبات ذاتية القيادة. وعقدت لجنة الخدمات المالية ووزارة التجارة والصناعة والطاقة “اجتماعا حول التحول إلى سيارات المستقبل” لمناقشة خطة التمويل الداعمة لتحول صناعة السيارات. وسيتم تخصيص 9.7 تريليون وون لقطاع قطع السيارات و8.3 تريليون وون لمجالات صناعة سيارات المستقبل. كما سيتم ضخ 15 تريليون وون من صندوق النمو الوطني لدعم تحول الصناعات ذات الصلة. ويركز الدعم على مساعدة قطاع القطع في الاستجابة لسيارات المستقبل وتنمية صناعات جديدة مثل القيادة الذاتية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "भविष्य की कारों के लिए 18 ट्रिलियन वॉन नीति वित्त, पुर्जों और स्वचालित ड्राइविंग को समर्थन",
-        "excerpt": "दक्षिण कोरियाई सरकार ने बताया कि वह इस वर्ष ऑटो पुर्जा उद्योग और स्वचालित वाहनों सहित भविष्य की कारों के क्षेत्रों को कुल 18 ट्रिलियन वॉन नीति वित्त उपलब्ध कराएगी।",
-        "body": "दक्षिण कोरियाई सरकार इस वर्ष ऑटो पुर्जा उद्योग और स्वचालित वाहनों जैसे भविष्य की कारों के उद्योग को बढ़ावा देने के लिए कुल 18 ट्रिलियन वॉन का नीति वित्त उपलब्ध कराएगी। वित्तीय सेवा आयोग और व्यापार, उद्योग एवं ऊर्जा मंत्रालय ने “भविष्य की कारों में परिवर्तन बैठक” आयोजित कर ऑटो उद्योग के बदलाव को समर्थन देने वाली वित्त आपूर्ति योजना पर चर्चा की। इसमें 9.7 ट्रिलियन वॉन ऑटो पुर्जा उद्योग को और 8.3 ट्रिलियन वॉन भविष्य की कारों के उद्योग क्षेत्रों को आवंटित किए जाएंगे। इसके अलावा, राष्ट्रीय विकास कोष से 15 ट्रिलियन वॉन भी संबंधित उद्योगों के परिवर्तन को सहारा देने के लिए लगाए जाएंगे। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pembiayaan Kebijakan 18 Triliun Won Dukung Mobil Masa Depan Korea",
-        "excerpt": "Pemerintah Korea Selatan menyatakan akan menyediakan pembiayaan kebijakan 18 triliun won tahun ini untuk industri suku cadang mobil dan sektor mobil masa depan, termasuk kendaraan otonom.",
-        "body": "Pemerintah Korea Selatan akan menyediakan total 18 triliun won pembiayaan kebijakan tahun ini untuk mengembangkan industri suku cadang mobil dan sektor mobil masa depan seperti kendaraan otonom. Komisi Jasa Keuangan dan Kementerian Perdagangan, Industri, dan Energi menggelar “pertemuan transisi mobil masa depan” untuk membahas rencana penyediaan pembiayaan guna mendukung perubahan industri otomotif. Dari dana tersebut, 9,7 triliun won dialokasikan untuk industri suku cadang mobil dan 8,3 triliun won untuk sektor industri mobil masa depan. Selain itu, Dana Pertumbuhan Nasional sebesar 15 triliun won juga akan diinvestasikan untuk menopang transisi industri terkait. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e73e075dc4f9",
-    "slug": "면비디아-다시-왔다호실적에-10-불기둥-삼양식품-오늘-이-종목-716689",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T02:11:52.362Z",
-    "updatedAt": "2026-05-14T02:11:52.362Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047378",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047378",
-    "titleFingerprint": "f26c270acd0620e7fbf3e061635ed0003148785e",
-    "dedupKeys": [
-      "e73e075dc4f957a2ab14270ee34c6d2f8c46a5c8",
-      "f26c270acd0620e7fbf3e061635ed0003148785e",
-      "65454685e9c1e0c7c54be6b1fee88a77b3f5a614"
-    ],
-    "imageUrl": "/images/articles/e73e075dc4f9.png",
-    "i18n": {
-      "ko": {
-        "title": "삼양식품, 호실적에 주가 10% 급등…‘면비디아’ 존재감 재부각",
-        "excerpt": "삼양식품이 매출 7144억원, 영업이익 1771억원의 호실적과 해외 매출 6000억원 육박 소식에 주가가 10% 급등하며 다시 시장의 주목을 받았다.",
-        "body": "삼양식품이 호실적 발표 이후 주식시장에서 다시 강한 존재감을 드러냈다. 매출 7144억원, 영업이익 1771억원을 기록했고, 해외 매출은 6000억원에 육박한 것으로 전해졌다. 한때 ‘면비디아’로 불리며 투자자 관심을 모았던 삼양식품은 이번 실적을 계기로 재차 주목받고 있다. 시장에서는 목표주가 200만원이 제시됐고, 주가는 10% 급등했다. 해외 매출 확대와 수익성 개선이 투자심리에 영향을 준 것으로 풀이된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samyang Foods Jumps 10% on Strong Earnings as ‘Myeonvidia’ Returns to Focus",
-        "excerpt": "Samyang Foods drew renewed market attention after posting revenue of 714.4 billion won and operating profit of 177.1 billion won, with overseas sales nearing 600 billion won.",
-        "body": "Samyang Foods has reasserted its presence in the stock market after reporting strong earnings. The company posted revenue of 714.4 billion won and operating profit of 177.1 billion won, while overseas sales were reported to be close to 600 billion won. Once nicknamed “Myeonvidia” for its strong market buzz, Samyang Foods is again attracting investor attention on the back of these results. A target price of 2 million won was presented, and the share price surged 10%. Expanding overseas sales and improved profitability appear to have influenced investor sentiment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "三養食品、好決算で株価10％急騰…「麺ビディア」の存在感が再浮上",
-        "excerpt": "三養食品は売上高7144億ウォン、営業利益1771億ウォンを記録し、海外売上高が6000億ウォンに迫ったことで株価が10％急騰した。",
-        "body": "三養食品が好決算の発表後、株式市場で再び強い存在感を示した。売上高は7144億ウォン、営業利益は1771億ウォンを記録し、海外売上高は6000億ウォンに迫ったと伝えられた。かつて「麺ビディア」と呼ばれ投資家の関心を集めた三養食品は、今回の業績をきっかけに再び注目されている。市場では目標株価200万ウォンが提示され、株価は10％急騰した。海外売上の拡大と収益性改善が投資心理に影響したとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三养食品业绩强劲股价大涨10%，“面维迪亚”存在感再升温",
-        "excerpt": "三养食品公布销售额7144亿韩元、营业利润1771亿韩元，海外销售额接近6000亿韩元，推动股价上涨10%。",
-        "body": "三养食品在公布强劲业绩后，再次在股市中展现存在感。公司实现销售额7144亿韩元、营业利润1771亿韩元，海外销售额据称接近6000亿韩元。曾因受到投资者热捧而被称为“面维迪亚”的三养食品，借此次业绩重新获得市场关注。市场上已出现200万韩元的目标股价，股价则上涨10%。海外销售扩大和盈利能力改善被认为影响了投资情绪。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samyang Foods sube 10% por sólidos resultados y revive el foco en ‘Myeonvidia’",
-        "excerpt": "Samyang Foods volvió a captar la atención del mercado tras registrar ventas de 714.400 millones de wones y beneficio operativo de 177.100 millones, con ingresos exteriores cerca de 600.000 millones.",
-        "body": "Samyang Foods volvió a mostrar una fuerte presencia en el mercado bursátil tras anunciar sólidos resultados. La compañía registró ventas de 714.400 millones de wones y un beneficio operativo de 177.100 millones, mientras que las ventas en el extranjero se acercaron a 600.000 millones de wones. Conocida en su momento como “Myeonvidia” por el interés que despertó entre inversores, Samyang Foods vuelve a estar en el centro de atención por estas cifras. El mercado presentó un precio objetivo de 2 millones de wones y la acción subió 10%. La expansión exterior y la mejora de rentabilidad influyeron en el ánimo inversor. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samyang Foods salta 10% com resultados fortes e volta ao foco como ‘Myeonvidia’",
-        "excerpt": "A Samyang Foods voltou a atrair atenção após registrar receita de 714,4 bilhões de wons e lucro operacional de 177,1 bilhões, com vendas externas perto de 600 bilhões.",
-        "body": "A Samyang Foods voltou a mostrar forte presença no mercado acionário após divulgar resultados robustos. A empresa registrou receita de 714,4 bilhões de wons e lucro operacional de 177,1 bilhões, enquanto as vendas no exterior chegaram perto de 600 bilhões de wons. Antes chamada de “Myeonvidia” pelo entusiasmo que gerou entre investidores, a Samyang Foods voltou a ganhar destaque com estes números. O mercado apresentou preço-alvo de 2 milhões de wons, e a ação subiu 10%. A expansão das vendas externas e a melhora da rentabilidade parecem ter influenciado o sentimento dos investidores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samyang Foods steigt nach starken Zahlen um 10%, ‘Myeonvidia’ rückt zurück in den Fokus",
-        "excerpt": "Samyang Foods zog erneut Aufmerksamkeit auf sich: Der Umsatz lag bei 714,4 Mrd. Won, der Betriebsgewinn bei 177,1 Mrd. Won, Auslandsumsätze näherten sich 600 Mrd. Won.",
-        "body": "Samyang Foods hat nach der Veröffentlichung starker Ergebnisse an der Börse erneut Präsenz gezeigt. Das Unternehmen erzielte einen Umsatz von 714,4 Milliarden Won und einen Betriebsgewinn von 177,1 Milliarden Won; die Auslandsumsätze näherten sich laut Bericht 600 Milliarden Won. Samyang Foods, einst wegen des starken Anlegerinteresses als “Myeonvidia” bezeichnet, steht mit diesen Zahlen wieder im Fokus. Am Markt wurde ein Kursziel von 2 Millionen Won genannt, während die Aktie um 10% zulegte. Wachsende Auslandsumsätze und eine bessere Profitabilität dürften die Anlegerstimmung beeinflusst haben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samyang Foods bondit de 10% après de solides résultats, ‘Myeonvidia’ revient au premier plan",
-        "excerpt": "Samyang Foods a regagné l’attention du marché avec un chiffre d’affaires de 714,4 milliards de wons et un bénéfice d’exploitation de 177,1 milliards, les ventes à l’étranger approchant 600 milliards.",
-        "body": "Samyang Foods a de nouveau affirmé sa présence en Bourse après l’annonce de solides résultats. L’entreprise a enregistré un chiffre d’affaires de 714,4 milliards de wons et un bénéfice d’exploitation de 177,1 milliards de wons, tandis que les ventes à l’étranger se sont rapprochées de 600 milliards de wons. Autrefois surnommée “Myeonvidia” en raison de l’intérêt des investisseurs, Samyang Foods revient au centre de l’attention grâce à ces performances. Un objectif de cours de 2 millions de wons a été évoqué, et l’action a bondi de 10%. L’expansion à l’international et l’amélioration de la rentabilité semblent avoir pesé sur le sentiment des investisseurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم ساميانغ فودز يقفز 10% بعد نتائج قوية وعودة لقب ‘ميونفيديا’ للواجهة",
-        "excerpt": "عادت ساميانغ فودز إلى دائرة اهتمام السوق بعد تسجيل مبيعات قدرها 714.4 مليار وون وربح تشغيلي 177.1 مليار وون، مع اقتراب المبيعات الخارجية من 600 مليار وون.",
-        "body": "عادت ساميانغ فودز إلى إبراز حضورها في سوق الأسهم بعد إعلان نتائج قوية. سجلت الشركة مبيعات قدرها 714.4 مليار وون وربحا تشغيليا بلغ 177.1 مليار وون، فيما اقتربت المبيعات الخارجية من 600 مليار وون. وكانت ساميانغ فودز قد عرفت سابقا بلقب “ميونفيديا” بسبب الاهتمام الكبير من المستثمرين، وهي تجذب الانتباه مجددا بفضل هذه النتائج. وطرح السوق سعرا مستهدفا عند مليوني وون، بينما قفز السهم 10%. ويبدو أن توسع المبيعات الخارجية وتحسن الربحية أثرا في معنويات المستثمرين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "मजबूत नतीजों पर Samyang Foods 10% उछला, ‘Myeonvidia’ फिर चर्चा में",
-        "excerpt": "Samyang Foods ने 714.4 अरब वॉन की बिक्री और 177.1 अरब वॉन का परिचालन लाभ दर्ज किया, जबकि विदेशी बिक्री 600 अरब वॉन के करीब पहुंचने से शेयर 10% चढ़ा।",
-        "body": "मजबूत नतीजों की घोषणा के बाद Samyang Foods ने शेयर बाजार में फिर अपनी मौजूदगी दर्ज कराई। कंपनी ने 714.4 अरब वॉन की बिक्री और 177.1 अरब वॉन का परिचालन लाभ दर्ज किया, जबकि विदेशी बिक्री 600 अरब वॉन के करीब बताई गई। कभी निवेशकों की भारी रुचि के कारण “Myeonvidia” कही जाने वाली Samyang Foods इन नतीजों के बाद फिर ध्यान में आई है। बाजार में 20 लाख वॉन का लक्ष्य मूल्य सामने आया और शेयर 10% उछला। विदेशी बिक्री में विस्तार और लाभप्रदता में सुधार ने निवेशक धारणा को प्रभावित किया माना जाता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Samyang Foods Melonjak 10% Berkat Kinerja Kuat, ‘Myeonvidia’ Kembali Disorot",
-        "excerpt": "Samyang Foods kembali menarik perhatian pasar setelah mencatat penjualan 714,4 miliar won dan laba operasi 177,1 miliar won, dengan penjualan luar negeri mendekati 600 miliar won.",
-        "body": "Samyang Foods kembali menunjukkan kehadiran kuat di pasar saham setelah merilis kinerja yang solid. Perusahaan mencatat penjualan 714,4 miliar won dan laba operasi 177,1 miliar won, sementara penjualan luar negeri dilaporkan mendekati 600 miliar won. Pernah dijuluki “Myeonvidia” karena menarik minat investor, Samyang Foods kembali menjadi sorotan melalui hasil ini. Pasar menyajikan target harga 2 juta won, dan sahamnya melonjak 10%. Perluasan penjualan luar negeri serta peningkatan profitabilitas dinilai memengaruhi sentimen investor. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0aa9a9beda8f",
-    "slug": "마이크론은-팔았는데국민연금-삼전닉스는-어찌할까-912519",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T02:10:56.259Z",
-    "updatedAt": "2026-05-14T02:10:56.259Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12047381",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12047381",
-    "titleFingerprint": "852ca2219b85c04b283bec370fbcc9d4dd3a6363",
-    "dedupKeys": [
-      "0aa9a9beda8fa884ddb83026e3a51fb2f31d74ae",
-      "852ca2219b85c04b283bec370fbcc9d4dd3a6363",
-      "768a3d10163a263baacdcbfce73bd6a4c7483bd5"
-    ],
-    "imageUrl": "/images/articles/0aa9a9beda8f.png",
-    "i18n": {
-      "ko": {
-        "title": "국민연금, 마이크론 매도 후 ‘삼전닉스’ 보유 전략 주목",
-        "excerpt": "국민연금이 마이크론·웨스턴디지털·시게이트 등 미국 메모리 반도체 관련주를 일부 처분하며 차익 실현에 나서자 삼성전자·SK하이닉스 보유 전략에 관심이 쏠린다.",
-        "body": "국민연금이 최근 마이크론을 비롯해 웨스턴디지털, 시게이트 등 미국 메모리 반도체 관련주 일부를 매도하며 차익 실현에 나섰다. 이번 처분은 메모리 업황 둔화 가능성에 대비한 선제 조치라는 해석과, AI 인프라 수요로 과거 불황 국면과 다르다는 시각이 엇갈리는 가운데 이뤄졌다. 이에 따라 국내 투자자들의 관심은 국민연금이 삼성전자와 SK하이닉스, 이른바 ‘삼전닉스’ 지분을 어떻게 운용할지로 옮겨가고 있다. 원문은 국민연금의 해외 메모리주 매도가 향후 국내 반도체 대표주 전략을 가늠할 단서가 될 수 있다고 전했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "NPS Sells Micron Shares, Focus Turns to Samsung and SK Hynix",
-        "excerpt": "South Korea’s National Pension Service sold part of its holdings in Micron, Western Digital and Seagate, drawing attention to how it may manage Samsung Electronics and SK Hynix.",
-        "body": "South Korea’s National Pension Service has recently taken profits by selling part of its holdings in U.S. memory semiconductor-related stocks, including Micron, Western Digital and Seagate. The move came as views diverge between those who see it as a preemptive step against a possible memory downturn and those who argue this cycle is different because of AI infrastructure demand. Investor attention is now shifting to how the fund will manage its stakes in Samsung Electronics and SK Hynix, often grouped in Korea as “Samjeon-Nix.” The original report said the overseas memory stock sales may offer a clue to the fund’s future strategy for Korea’s leading chip shares. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "国民年金、マイクロン売却後にサムスン・SKハイニックス戦略へ注目",
-        "excerpt": "韓国の国民年金がマイクロン、ウエスタンデジタル、シーゲイトなど米メモリー半導体関連株を一部売却し、サムスン電子とSKハイニックスの運用方針に関心が集まっている。",
-        "body": "韓国の国民年金は最近、マイクロンをはじめウエスタンデジタル、シーゲイトなど米国のメモリー半導体関連株の一部を売却し、利益確定に動いた。今回の処分については、メモリー市況の悪化に備えた先制的な措置との見方と、AIインフラ需要により今回は過去の不況局面とは異なるとの見方が分かれている。これを受け、投資家の関心は国民年金がサムスン電子とSKハイニックスの保有分をどう運用するかに移っている。原文は、海外メモリー株の売却が今後の韓国半導体代表株戦略を読む手掛かりになり得ると伝えた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国国民年金卖出美光后，三星与SK海力士持仓策略受关注",
-        "excerpt": "韩国国民年金部分出售美光、西部数据和希捷等美国存储半导体相关股票并获利了结，其三星电子与SK海力士持仓动向受到关注。",
-        "body": "韩国国民年金近期部分出售了包括美光、西部数据和希捷在内的美国存储半导体相关股票，开始获利了结。外界对此看法不一：一方面认为这是为应对存储行业可能下行而采取的预防性措施，另一方面则认为在AI基础设施需求支撑下，本轮周期不同于以往低迷阶段。因此，投资者的关注焦点转向国民年金将如何管理三星电子和SK海力士这两只韩国代表性半导体股的持仓。原文称，海外存储股的出售可能成为观察其未来韩国芯片股策略的线索。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Fondo Nacional de Pensiones vende Micron y mira a Samsung y SK Hynix",
-        "excerpt": "El Fondo Nacional de Pensiones de Corea del Sur vendió parte de sus posiciones en Micron, Western Digital y Seagate, y aumenta la atención sobre Samsung Electronics y SK Hynix.",
-        "body": "El Fondo Nacional de Pensiones de Corea del Sur tomó ganancias recientemente al vender parte de sus posiciones en acciones estadounidenses vinculadas a memorias, incluidas Micron, Western Digital y Seagate. La operación se produjo en medio de lecturas divididas: para algunos, es una medida preventiva ante una posible desaceleración del mercado de memorias; para otros, este ciclo es distinto por la demanda de infraestructura de IA. La atención de los inversores se desplaza ahora a cómo gestionará el fondo sus participaciones en Samsung Electronics y SK Hynix. El informe original señaló que la venta de acciones extranjeras de memoria puede servir como pista sobre su futura estrategia en los principales valores coreanos de semiconductores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Fundo Nacional vende Micron e atenção vai para Samsung e SK Hynix",
-        "excerpt": "O Fundo Nacional de Pensões da Coreia do Sul vendeu parte de suas posições em Micron, Western Digital e Seagate, elevando o foco sobre Samsung Electronics e SK Hynix.",
-        "body": "O Fundo Nacional de Pensões da Coreia do Sul realizou lucros recentemente ao vender parte de suas posições em ações norte-americanas ligadas a memória, incluindo Micron, Western Digital e Seagate. A decisão ocorre em meio a avaliações divergentes: alguns veem a venda como uma medida preventiva contra uma possível desaceleração do setor de memória, enquanto outros afirmam que este ciclo é diferente por causa da demanda por infraestrutura de IA. Com isso, a atenção dos investidores se volta para a forma como o fundo administrará suas participações em Samsung Electronics e SK Hynix. A reportagem original afirmou que a venda de ações estrangeiras de memória pode indicar pistas sobre a futura estratégia para os principais papéis coreanos de semicondutores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Pensionsfonds verkauft Micron, Fokus auf Samsung und SK Hynix",
-        "excerpt": "Südkoreas National Pension Service hat Teile seiner Positionen in Micron, Western Digital und Seagate verkauft; nun richtet sich der Blick auf Samsung Electronics und SK Hynix.",
-        "body": "Südkoreas National Pension Service hat zuletzt Gewinne realisiert, indem er Teile seiner Beteiligungen an US-Aktien aus dem Speicherchip-Bereich verkaufte, darunter Micron, Western Digital und Seagate. Der Schritt wird unterschiedlich bewertet: Einige sehen darin eine vorsorgliche Maßnahme gegen eine mögliche Abkühlung des Speichermarkts, andere verweisen auf die Nachfrage nach KI-Infrastruktur und sehen diesen Zyklus als anders an. Damit richtet sich die Aufmerksamkeit der Anleger darauf, wie der Fonds seine Anteile an Samsung Electronics und SK Hynix steuern wird. Der Originalbericht schrieb, die Verkäufe ausländischer Speicherchip-Aktien könnten Hinweise auf die künftige Strategie bei Koreas führenden Halbleiterwerten geben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le fonds coréen vend Micron, Samsung et SK Hynix sous surveillance",
-        "excerpt": "Le National Pension Service sud-coréen a cédé une partie de ses positions dans Micron, Western Digital et Seagate, attirant l’attention sur Samsung Electronics et SK Hynix.",
-        "body": "Le National Pension Service sud-coréen a récemment pris des bénéfices en vendant une partie de ses positions dans des valeurs américaines liées aux mémoires, dont Micron, Western Digital et Seagate. Cette décision intervient alors que les analyses divergent: certains y voient une mesure préventive face à un possible ralentissement du marché des mémoires, tandis que d’autres estiment que ce cycle est différent grâce à la demande d’infrastructures d’IA. L’attention des investisseurs se porte désormais sur la manière dont le fonds gérera ses participations dans Samsung Electronics et SK Hynix. L’article original indique que la vente de titres étrangers de la mémoire pourrait donner un indice sur sa future stratégie concernant les grandes valeurs coréennes des semi-conducteurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صندوق التقاعد الكوري يبيع ميكرون والأنظار تتجه إلى سامسونغ وSK هاينكس",
-        "excerpt": "باع صندوق التقاعد الوطني في كوريا الجنوبية جزءا من حصصه في ميكرون ووسترن ديجيتال وسيغيت، ما زاد الاهتمام بكيفية إدارته لسامسونغ إلكترونيكس وSK هاينكس.",
-        "body": "أقدم صندوق التقاعد الوطني في كوريا الجنوبية مؤخرا على جني أرباح عبر بيع جزء من حصصه في أسهم أمريكية مرتبطة بذاكرة أشباه الموصلات، منها ميكرون ووسترن ديجيتال وسيغيت. وجاءت الخطوة وسط تباين في التفسيرات؛ فهناك من يراها إجراء استباقيا تحسبا لاحتمال تباطؤ سوق الذاكرة، بينما يرى آخرون أن هذه الدورة مختلفة بسبب الطلب على بنية الذكاء الاصطناعي التحتية. لذلك انتقل اهتمام المستثمرين إلى كيفية إدارة الصندوق لحصصه في سامسونغ إلكترونيكس وSK هاينكس. وذكر التقرير الأصلي أن بيع أسهم الذاكرة الأجنبية قد يوفر مؤشرا إلى استراتيجية الصندوق المقبلة تجاه أبرز أسهم أشباه الموصلات الكورية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "NPS ने माइक्रोन बेचा, अब Samsung और SK Hynix रणनीति पर नजर",
-        "excerpt": "दक्षिण कोरिया के नेशनल पेंशन सर्विस ने Micron, Western Digital और Seagate में अपनी कुछ हिस्सेदारी बेचकर मुनाफा वसूला, जिससे Samsung Electronics और SK Hynix पर ध्यान बढ़ा।",
-        "body": "दक्षिण कोरिया के नेशनल पेंशन सर्विस ने हाल ही में Micron, Western Digital और Seagate जैसे अमेरिकी मेमोरी सेमीकंडक्टर संबंधित शेयरों में अपनी कुछ हिस्सेदारी बेचकर मुनाफा वसूला। इस कदम को लेकर राय बंटी हुई है। कुछ इसे मेमोरी उद्योग में संभावित मंदी से पहले उठाया गया एहतियाती कदम मानते हैं, जबकि अन्य का कहना है कि AI इन्फ्रास्ट्रक्चर की मांग के कारण इस बार स्थिति अलग है। अब निवेशकों का ध्यान इस पर है कि फंड Samsung Electronics और SK Hynix में अपनी हिस्सेदारी कैसे संभालेगा। मूल रिपोर्ट के अनुसार, विदेशी मेमोरी शेयरों की बिक्री कोरिया की प्रमुख सेमीकंडक्टर कंपनियों को लेकर भविष्य की रणनीति का संकेत दे सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "NPS Jual Micron, Strategi di Samsung dan SK Hynix Jadi Sorotan",
-        "excerpt": "National Pension Service Korea Selatan menjual sebagian kepemilikan di Micron, Western Digital, dan Seagate, membuat strategi atas Samsung Electronics dan SK Hynix jadi perhatian.",
-        "body": "National Pension Service Korea Selatan baru-baru ini merealisasikan keuntungan dengan menjual sebagian saham terkait semikonduktor memori AS, termasuk Micron, Western Digital, dan Seagate. Langkah ini memunculkan dua pandangan: sebagian menilainya sebagai tindakan awal untuk menghadapi kemungkinan pelemahan industri memori, sementara pihak lain menilai siklus kali ini berbeda karena permintaan infrastruktur AI. Perhatian investor kini beralih pada bagaimana dana tersebut akan mengelola kepemilikannya di Samsung Electronics dan SK Hynix. Laporan asli menyebut penjualan saham memori luar negeri itu dapat menjadi petunjuk strategi berikutnya terhadap saham semikonduktor utama Korea. Sumber: mk.co.kr"
       }
     }
   }
