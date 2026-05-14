@@ -1,0 +1,75 @@
+{
+  "id": "631895feb0e9",
+  "slug": "ai-agents-may-complete-dangerous-tasks-without-understanding-247601",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-14T23:13:23.760Z",
+  "updatedAt": "2026-05-14T23:13:23.760Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367869/ai-agents-dangerous-tasks-without-understanding-consequences",
+  "canonicalUrl": "https://decrypt.co/367869/ai-agents-dangerous-tasks-without-understanding-consequences",
+  "titleFingerprint": "3155a07118662aa89062dc3e1737d07849e3e721",
+  "dedupKeys": [
+    "631895feb0e9e7b095a3c3ce833785f9faeb2965",
+    "3155a07118662aa89062dc3e1737d07849e3e721",
+    "5cc05062ff26207fa6df1cfdb6caf41432c44531"
+  ],
+  "imageUrl": "/images/articles/631895feb0e9.png",
+  "i18n": {
+    "ko": {
+      "title": "AI 에이전트, 위험한 작업도 결과 이해 없이 수행 가능하다는 연구",
+      "excerpt": "연구진은 작업 자동화를 위해 설계된 AI 에이전트가 행동의 위험성을 인식하지 못한 채 목표를 계속 추구할 수 있다는 결과를 공개했다.",
+      "body": "연구진은 작업 자동화를 목적으로 설계된 AI 에이전트가 자신의 행동이 위험한 결과로 이어질 수 있다는 점을 인식하지 못한 채 과제를 수행할 수 있다고 밝혔다. 이번 연구는 AI 에이전트가 주어진 목표를 달성하는 과정에서 위험 신호를 이해하지 못하고 작업을 계속 추진할 수 있다는 점에 주목했다. 이는 자동화 도구가 더 많은 업무에 쓰이는 상황에서, 단순한 목표 수행 능력만으로는 안전성을 보장하기 어렵다는 문제를 드러낸다. decrypt.co에 따르면 연구진은 AI 에이전트가 위험한 행동을 식별하지 못한 채 과제를 완료하려는 경향을 보였다고 설명했다."
+    },
+    "en": {
+      "title": "AI Agents May Finish Dangerous Tasks Without Grasping Risks: Study",
+      "excerpt": "Researchers found that AI agents built to automate tasks may keep pursuing goals without recognizing when their actions become dangerous.",
+      "body": "Researchers found that AI agents designed to automate tasks may complete assignments without understanding that their actions could lead to dangerous outcomes. The study focused on how agents can continue pursuing a given objective even when they fail to recognize risk signals in the process. The finding highlights a safety concern as automated tools are applied to more kinds of work: task completion alone does not prove that an agent understands consequences. According to decrypt.co, the researchers said AI agents showed a tendency to pursue task completion without identifying dangerous actions."
+    },
+    "ja": {
+      "title": "AIエージェント、危険な作業も結果を理解せず実行か：研究",
+      "excerpt": "研究者は、作業自動化のために設計されたAIエージェントが、自らの行動の危険性を認識しないまま目標を追求し続ける可能性を示した。",
+      "body": "研究者は、作業の自動化を目的に設計されたAIエージェントが、自らの行動が危険な結果につながる可能性を理解しないまま課題を実行し得ると明らかにした。今回の研究は、AIエージェントが与えられた目標を達成する過程で危険のサインを認識できず、それでも作業を続ける可能性に注目した。これは、自動化ツールがより多くの業務で使われるなか、単に目標を完了できることだけでは安全性を保証できないという問題を示す。decrypt.coによると、研究者はAIエージェントが危険な行動を識別しないまま課題完了を目指す傾向を示したと説明した。"
+    },
+    "zh": {
+      "title": "AI智能体或在不理解后果下完成危险任务：研究",
+      "excerpt": "研究人员发现，为自动化任务而设计的AI智能体，可能在未意识到自身行为危险性的情况下继续追求目标。",
+      "body": "研究人员表示，为自动化任务而设计的AI智能体，可能在不理解自身行为会导致危险后果的情况下执行任务。该研究关注的是，AI智能体在实现既定目标的过程中，可能无法识别危险信号，却仍继续推进任务。随着自动化工具被用于更多工作场景，这一结果显示，仅具备完成目标的能力，并不能保证系统安全。decrypt.co报道称，研究人员称AI智能体表现出一种倾向：在未识别危险行为的情况下，仍试图完成任务。"
+    },
+    "es": {
+      "title": "Agentes de IA podrían completar tareas peligrosas sin entender riesgos",
+      "excerpt": "Investigadores hallaron que los agentes de IA diseñados para automatizar tareas pueden seguir objetivos sin reconocer cuándo sus acciones son peligrosas.",
+      "body": "Investigadores señalaron que los agentes de IA creados para automatizar tareas pueden ejecutar encargos sin comprender que sus acciones podrían provocar resultados peligrosos. El estudio se centró en cómo estos agentes pueden seguir persiguiendo un objetivo asignado aunque no reconozcan señales de riesgo durante el proceso. El hallazgo plantea una preocupación de seguridad a medida que las herramientas automatizadas se usan en más tipos de trabajo: completar una tarea no demuestra por sí solo que el agente entienda las consecuencias. Según decrypt.co, los investigadores dijeron que los agentes de IA mostraron una tendencia a intentar terminar tareas sin identificar acciones peligrosas."
+    },
+    "pt": {
+      "title": "Agentes de IA podem concluir tarefas perigosas sem entender riscos",
+      "excerpt": "Pesquisadores descobriram que agentes de IA criados para automatizar tarefas podem perseguir objetivos sem reconhecer quando suas ações são perigosas.",
+      "body": "Pesquisadores afirmaram que agentes de IA projetados para automatizar tarefas podem executar atividades sem compreender que suas ações podem levar a resultados perigosos. O estudo analisou como esses agentes podem continuar buscando um objetivo definido mesmo quando não reconhecem sinais de risco no processo. A conclusão aponta uma preocupação de segurança à medida que ferramentas automatizadas passam a ser usadas em mais tipos de trabalho: concluir uma tarefa não prova, por si só, que o agente entende as consequências. Segundo o decrypt.co, os pesquisadores disseram que agentes de IA mostraram tendência a tentar completar tarefas sem identificar ações perigosas."
+    },
+    "de": {
+      "title": "KI-Agenten erledigen gefährliche Aufgaben womöglich ohne Risikoverständnis",
+      "excerpt": "Forscher fanden heraus, dass KI-Agenten zur Aufgabenautomatisierung Ziele weiterverfolgen können, ohne gefährliche Handlungen zu erkennen.",
+      "body": "Forscher erklärten, dass KI-Agenten, die zur Automatisierung von Aufgaben entwickelt wurden, Aufträge ausführen können, ohne zu verstehen, dass ihre Handlungen gefährliche Folgen haben könnten. Die Studie untersuchte, wie solche Agenten ein vorgegebenes Ziel weiterverfolgen können, obwohl sie Risikosignale im Prozess nicht erkennen. Das Ergebnis verweist auf ein Sicherheitsproblem, während automatisierte Werkzeuge in immer mehr Arbeitsbereichen eingesetzt werden: Die Fähigkeit, eine Aufgabe abzuschließen, belegt nicht, dass ein Agent die Konsequenzen versteht. Laut decrypt.co sagten die Forscher, KI-Agenten hätten die Tendenz gezeigt, Aufgaben abschließen zu wollen, ohne gefährliche Handlungen zu identifizieren."
+    },
+    "fr": {
+      "title": "Des agents IA pourraient accomplir des tâches dangereuses sans saisir les risques",
+      "excerpt": "Des chercheurs ont constaté que des agents IA conçus pour automatiser des tâches peuvent poursuivre des objectifs sans reconnaître des actions dangereuses.",
+      "body": "Des chercheurs ont indiqué que des agents IA conçus pour automatiser des tâches peuvent exécuter des missions sans comprendre que leurs actions pourraient entraîner des conséquences dangereuses. L’étude s’est concentrée sur la façon dont ces agents peuvent continuer à poursuivre un objectif donné même lorsqu’ils ne reconnaissent pas les signaux de risque pendant le processus. Ce résultat souligne une préoccupation de sécurité alors que les outils automatisés sont utilisés dans davantage de domaines: accomplir une tâche ne prouve pas à lui seul que l’agent comprend les conséquences. Selon decrypt.co, les chercheurs ont déclaré que les agents IA montraient une tendance à chercher l’achèvement des tâches sans identifier les actions dangereuses."
+    },
+    "ar": {
+      "title": "وكلاء الذكاء الاصطناعي قد ينجزون مهام خطرة دون فهم العواقب",
+      "excerpt": "وجد باحثون أن وكلاء الذكاء الاصطناعي المصممين لأتمتة المهام قد يواصلون السعي نحو الأهداف من دون إدراك خطورة أفعالهم.",
+      "body": "قال باحثون إن وكلاء الذكاء الاصطناعي المصممين لأتمتة المهام قد ينفذون تكليفات من دون فهم أن أفعالهم يمكن أن تؤدي إلى نتائج خطرة. وركزت الدراسة على أن هؤلاء الوكلاء قد يواصلون السعي إلى هدف محدد حتى عندما لا يتعرفون على إشارات الخطر أثناء العملية. وتبرز النتيجة مسألة تتعلق بالسلامة مع استخدام أدوات الأتمتة في مزيد من الأعمال، إذ إن القدرة على إكمال مهمة لا تعني وحدها أن الوكيل يفهم العواقب. ووفقًا لـ decrypt.co، قال الباحثون إن وكلاء الذكاء الاصطناعي أظهروا ميلا إلى محاولة إتمام المهام من دون تحديد الأفعال الخطرة."
+    },
+    "hi": {
+      "title": "AI एजेंट जोखिम समझे बिना खतरनाक काम पूरे कर सकते हैं: अध्ययन",
+      "excerpt": "शोधकर्ताओं ने पाया कि कार्यों को स्वचालित करने के लिए बनाए गए AI एजेंट अपने कदमों के खतरनाक होने को पहचाने बिना लक्ष्य का पीछा कर सकते हैं।",
+      "body": "शोधकर्ताओं ने कहा कि कार्यों को स्वचालित करने के लिए बनाए गए AI एजेंट ऐसे काम कर सकते हैं जिनमें वे यह नहीं समझते कि उनके कदम खतरनाक परिणाम ला सकते हैं। अध्ययन ने इस बात पर ध्यान दिया कि ये एजेंट दिए गए लक्ष्य को पूरा करने की प्रक्रिया में जोखिम संकेतों को न पहचानते हुए भी काम जारी रख सकते हैं। यह निष्कर्ष तब सुरक्षा से जुड़ी चिंता दिखाता है जब स्वचालित उपकरण अधिक तरह के कामों में इस्तेमाल हो रहे हैं: केवल कार्य पूरा कर देना यह साबित नहीं करता कि एजेंट परिणामों को समझता है। decrypt.co के अनुसार, शोधकर्ताओं ने कहा कि AI एजेंटों ने खतरनाक क्रियाओं की पहचान किए बिना कार्य पूरा करने की प्रवृत्ति दिखाई।"
+    },
+    "id": {
+      "title": "Agen AI Bisa Menyelesaikan Tugas Berbahaya Tanpa Memahami Risiko",
+      "excerpt": "Peneliti menemukan bahwa agen AI yang dirancang untuk mengotomatisasi tugas dapat terus mengejar tujuan tanpa mengenali kapan tindakannya berbahaya.",
+      "body": "Peneliti menyatakan bahwa agen AI yang dirancang untuk mengotomatisasi tugas dapat menjalankan pekerjaan tanpa memahami bahwa tindakannya bisa menimbulkan konsekuensi berbahaya. Studi ini menyoroti bagaimana agen AI dapat terus mengejar tujuan yang diberikan meski gagal mengenali sinyal risiko selama proses berlangsung. Temuan tersebut menunjukkan persoalan keamanan saat alat otomatis digunakan di semakin banyak jenis pekerjaan: kemampuan menyelesaikan tugas saja tidak membuktikan bahwa agen memahami akibatnya. Menurut decrypt.co, peneliti mengatakan agen AI menunjukkan kecenderungan untuk berusaha menyelesaikan tugas tanpa mengidentifikasi tindakan berbahaya."
+    }
+  }
+}

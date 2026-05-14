@@ -1,0 +1,75 @@
+{
+  "id": "323dc3b657f0",
+  "slug": "kraken-to-migrate-wrapped-bitcoin-tech-to-chainlink-as-layer-699429",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-14T23:12:26.433Z",
+  "updatedAt": "2026-05-14T23:12:26.433Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367880/kraken-migrate-wrapped-bitcoin-chainlink-layerzero-exodus",
+  "canonicalUrl": "https://decrypt.co/367880/kraken-migrate-wrapped-bitcoin-chainlink-layerzero-exodus",
+  "titleFingerprint": "5a9f1ff40769227ff303363a6825e4357fd81c7c",
+  "dedupKeys": [
+    "323dc3b657f0a10d8f2a2aa5ef61d35f4eb8d835",
+    "5a9f1ff40769227ff303363a6825e4357fd81c7c",
+    "6ebb83da5c74eb66063fbb676eb54ad58b0b5e45"
+  ],
+  "imageUrl": "/images/articles/323dc3b657f0.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Kraken, 래핑 비트코인 기술 Chainlink로 이전…LayerZero 이탈 확대",
+      "excerpt": "크립토 거래소 Kraken은 지난달 2억9200만달러 규모 Kelp DAO 익스플로잇 이후 LayerZero 기술에서 벗어나 Chainlink로 래핑 비트코인 기술을 이전한다.",
+      "body": "크립토 거래소 Kraken이 래핑 비트코인 관련 기술을 LayerZero에서 Chainlink로 이전한다. 이번 결정은 지난달 발생한 2억9200만달러 규모 Kelp DAO 익스플로잇 이후 LayerZero 기술을 떠나는 움직임이 확대되는 가운데 나왔다. Kraken은 이 흐름에 합류한 최신 기업으로 언급됐다. 래핑 비트코인은 여러 블록체인 환경에서 비트코인 기반 자산을 활용할 수 있게 하는 기술 영역인 만큼, 기반 인프라 선택은 보안과 신뢰에 직접적인 영향을 준다. 이번 이전은 Kelp DAO 사건 이후 업계가 크로스체인 기술 리스크를 재점검하고 있음을 보여준다. 출처: decrypt.co."
+    },
+    "en": {
+      "title": "Kraken Moves Wrapped Bitcoin Tech to Chainlink as LayerZero Exit Widens",
+      "excerpt": "Crypto exchange Kraken will move its wrapped Bitcoin technology to Chainlink after last month’s $292 million Kelp DAO exploit accelerated departures from LayerZero tech.",
+      "body": "Crypto exchange Kraken is moving its wrapped Bitcoin technology from LayerZero to Chainlink. The decision comes as more firms shift away from LayerZero technology following last month’s $292 million Kelp DAO exploit. Kraken is described as the latest company to join that migration. Because wrapped Bitcoin infrastructure helps Bitcoin-based assets operate across blockchain environments, the choice of underlying technology carries direct implications for security and trust. The move signals that the industry is reassessing cross-chain technology risks after the Kelp DAO incident. Source: decrypt.co."
+    },
+    "ja": {
+      "title": "Kraken、ラップドビットコイン技術をChainlinkへ移行 LayerZero離れ拡大",
+      "excerpt": "暗号資産取引所Krakenは、先月の2億9200万ドル規模のKelp DAOエクスプロイト後、LayerZero技術から離れChainlinkへ移行する。",
+      "body": "暗号資産取引所Krakenは、ラップドビットコイン関連技術をLayerZeroからChainlinkへ移行する。今回の決定は、先月発生した2億9200万ドル規模のKelp DAOエクスプロイト以降、LayerZero技術から離れる動きが広がる中で明らかになった。Krakenはこの流れに加わった最新の企業とされる。ラップドビットコインは複数のブロックチェーン環境でビットコイン由来の資産を利用可能にする技術領域であり、基盤インフラの選択は安全性と信頼に直結する。今回の移行は、Kelp DAO事件後に業界がクロスチェーン技術リスクを再点検していることを示す。出典: decrypt.co."
+    },
+    "zh": {
+      "title": "Kraken将封装比特币技术迁至Chainlink，LayerZero出走扩大",
+      "excerpt": "加密交易所Kraken将在上月2.92亿美元Kelp DAO漏洞事件后，把封装比特币技术从LayerZero转向Chainlink。",
+      "body": "加密货币交易所Kraken将把封装比特币相关技术从LayerZero迁移至Chainlink。此决定出现在上月发生2.92亿美元规模Kelp DAO漏洞利用事件之后，越来越多公司开始远离LayerZero技术的背景下。Kraken被视为加入这一迁移趋势的最新企业。封装比特币技术使基于比特币的资产可在多个区块链环境中使用，因此底层基础设施的选择直接关系到安全与信任。此次迁移显示，Kelp DAO事件后，行业正在重新审视跨链技术风险。来源：decrypt.co。"
+    },
+    "es": {
+      "title": "Kraken migra su bitcoin envuelto a Chainlink ante salida de LayerZero",
+      "excerpt": "El exchange Kraken trasladará su tecnología de bitcoin envuelto a Chainlink tras el exploit de Kelp DAO por 292 millones de dólares ocurrido el mes pasado.",
+      "body": "El exchange de criptomonedas Kraken migrará su tecnología de bitcoin envuelto de LayerZero a Chainlink. La decisión llega mientras más firmas se alejan de la tecnología de LayerZero tras el exploit de Kelp DAO por 292 millones de dólares ocurrido el mes pasado. Kraken es señalado como la empresa más reciente en sumarse a esa migración. Como la infraestructura de bitcoin envuelto permite usar activos basados en Bitcoin en distintos entornos blockchain, la elección de la tecnología base tiene implicaciones directas para la seguridad y la confianza. El movimiento muestra que la industria revisa los riesgos de la tecnología cross-chain tras el caso Kelp DAO. Fuente: decrypt.co."
+    },
+    "pt": {
+      "title": "Kraken migra tecnologia de Bitcoin wrapped para Chainlink com saída da LayerZero",
+      "excerpt": "A corretora Kraken vai migrar sua tecnologia de Bitcoin wrapped para a Chainlink após o exploit de US$292 milhões da Kelp DAO no mês passado.",
+      "body": "A corretora de criptomoedas Kraken vai migrar sua tecnologia de Bitcoin wrapped da LayerZero para a Chainlink. A decisão ocorre enquanto mais empresas se afastam da tecnologia da LayerZero após o exploit de US$292 milhões da Kelp DAO no mês passado. A Kraken é citada como a companhia mais recente a aderir a esse movimento. Como a infraestrutura de Bitcoin wrapped permite usar ativos baseados em Bitcoin em diferentes ambientes blockchain, a escolha da tecnologia subjacente tem impacto direto em segurança e confiança. A migração mostra que o setor está reavaliando riscos de tecnologias cross-chain depois do caso Kelp DAO. Fonte: decrypt.co."
+    },
+    "de": {
+      "title": "Kraken verlagert Wrapped-Bitcoin-Technik zu Chainlink, LayerZero-Abkehr wächst",
+      "excerpt": "Die Kryptobörse Kraken verlagert ihre Wrapped-Bitcoin-Technologie zu Chainlink, nachdem der Kelp-DAO-Exploit über 292 Mio. US-Dollar LayerZero-Abgänge verstärkte.",
+      "body": "Die Kryptobörse Kraken verlagert ihre Wrapped-Bitcoin-Technologie von LayerZero zu Chainlink. Die Entscheidung fällt in eine Phase, in der sich nach dem Kelp-DAO-Exploit über 292 Millionen US-Dollar im vergangenen Monat immer mehr Firmen von LayerZero-Technologie entfernen. Kraken wird als jüngstes Unternehmen genannt, das sich dieser Bewegung anschließt. Da Wrapped-Bitcoin-Infrastruktur Bitcoin-basierte Vermögenswerte in verschiedenen Blockchain-Umgebungen nutzbar macht, wirkt sich die Wahl der zugrunde liegenden Technik direkt auf Sicherheit und Vertrauen aus. Der Schritt zeigt, dass die Branche nach dem Kelp-DAO-Vorfall Cross-Chain-Risiken neu bewertet. Quelle: decrypt.co."
+    },
+    "fr": {
+      "title": "Kraken migre sa technologie Wrapped Bitcoin vers Chainlink alors que LayerZero recule",
+      "excerpt": "La plateforme crypto Kraken va transférer sa technologie Wrapped Bitcoin vers Chainlink après l’exploit de Kelp DAO à 292 millions de dollars le mois dernier.",
+      "body": "La plateforme d’échange crypto Kraken va déplacer sa technologie Wrapped Bitcoin de LayerZero vers Chainlink. Cette décision intervient alors que davantage d’entreprises s’éloignent de la technologie LayerZero après l’exploit de Kelp DAO, estimé à 292 millions de dollars, survenu le mois dernier. Kraken est présentée comme la dernière société à rejoindre ce mouvement. Comme l’infrastructure Wrapped Bitcoin permet d’utiliser des actifs adossés au Bitcoin dans plusieurs environnements blockchain, le choix de la technologie sous-jacente touche directement à la sécurité et à la confiance. Cette migration montre que le secteur réévalue les risques cross-chain après l’incident Kelp DAO. Source : decrypt.co."
+    },
+    "ar": {
+      "title": "Kraken تنقل تقنية البيتكوين المغلف إلى Chainlink مع اتساع الابتعاد عن LayerZero",
+      "excerpt": "ستحوّل منصة Kraken تقنية البيتكوين المغلف إلى Chainlink بعد استغلال Kelp DAO بقيمة 292 مليون دولار الشهر الماضي وتزايد الابتعاد عن LayerZero.",
+      "body": "تعتزم منصة تداول العملات المشفرة Kraken نقل تقنية البيتكوين المغلف من LayerZero إلى Chainlink. يأتي القرار بينما تتجه شركات أخرى إلى الابتعاد عن تقنية LayerZero بعد استغلال Kelp DAO بقيمة 292 مليون دولار في الشهر الماضي. وتُعد Kraken أحدث شركة تنضم إلى هذا المسار. تتيح بنية البيتكوين المغلف استخدام أصول قائمة على Bitcoin عبر بيئات بلوكتشين متعددة، لذلك يرتبط اختيار البنية التحتية الأساسية مباشرة بالأمان والثقة. تشير هذه الخطوة إلى أن القطاع يعيد تقييم مخاطر تقنيات الربط بين السلاسل بعد حادثة Kelp DAO. المصدر: decrypt.co."
+    },
+    "hi": {
+      "title": "Kraken Wrapped Bitcoin तकनीक Chainlink पर ले जाएगा, LayerZero से दूरी बढ़ी",
+      "excerpt": "क्रिप्टो एक्सचेंज Kraken पिछले महीने के 292 मिलियन डॉलर के Kelp DAO exploit के बाद Wrapped Bitcoin तकनीक को LayerZero से Chainlink पर ले जाएगा।",
+      "body": "क्रिप्टो एक्सचेंज Kraken अपनी Wrapped Bitcoin से जुड़ी तकनीक को LayerZero से Chainlink पर स्थानांतरित करेगा। यह फैसला पिछले महीने हुए 292 मिलियन डॉलर के Kelp DAO exploit के बाद आया है, जब LayerZero तकनीक से दूर जाने वाली कंपनियों की संख्या बढ़ रही है। Kraken को इस बदलाव में शामिल होने वाली नवीनतम कंपनी बताया गया है। Wrapped Bitcoin इंफ्रास्ट्रक्चर Bitcoin आधारित संपत्तियों को कई blockchain वातावरणों में उपयोग योग्य बनाता है, इसलिए आधार तकनीक का चयन सुरक्षा और भरोसे पर सीधा असर डालता है। यह कदम दिखाता है कि Kelp DAO घटना के बाद उद्योग cross-chain तकनीक के जोखिमों की फिर से समीक्षा कर रहा है। स्रोत: decrypt.co."
+    },
+    "id": {
+      "title": "Kraken Pindahkan Teknologi Wrapped Bitcoin ke Chainlink saat Eksodus LayerZero Meluas",
+      "excerpt": "Bursa kripto Kraken akan memindahkan teknologi Wrapped Bitcoin ke Chainlink setelah exploit Kelp DAO senilai US$292 juta bulan lalu mendorong peralihan dari LayerZero.",
+      "body": "Bursa kripto Kraken akan memindahkan teknologi Wrapped Bitcoin dari LayerZero ke Chainlink. Keputusan ini muncul ketika semakin banyak perusahaan menjauh dari teknologi LayerZero setelah exploit Kelp DAO senilai US$292 juta bulan lalu. Kraken disebut sebagai perusahaan terbaru yang bergabung dalam arus migrasi tersebut. Infrastruktur Wrapped Bitcoin memungkinkan aset berbasis Bitcoin digunakan di berbagai lingkungan blockchain, sehingga pilihan teknologi dasar berdampak langsung pada keamanan dan kepercayaan. Peralihan ini menunjukkan bahwa industri sedang meninjau ulang risiko teknologi cross-chain setelah insiden Kelp DAO. Sumber: decrypt.co."
+    }
+  }
+}
