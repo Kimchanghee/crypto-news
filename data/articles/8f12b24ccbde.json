@@ -1,0 +1,75 @@
+{
+  "id": "8f12b24ccbde",
+  "slug": "kraken-to-replace-layerzero-with-chainlink-to-bridge-assets--518577",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-14T15:39:44.404Z",
+  "updatedAt": "2026-05-14T15:39:44.404Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/business/2026/05/14/kraken-to-replace-layerzero-with-chainlink-to-bridge-assets-across-blockchains",
+  "canonicalUrl": "https://www.coindesk.com/business/2026/05/14/kraken-to-replace-layerzero-with-chainlink-to-bridge-assets-across-blockchains",
+  "titleFingerprint": "96f556d090de9ea5f1a6b512f96d4273bf156999",
+  "dedupKeys": [
+    "8f12b24ccbde4f8aaabf8aaf1dd77bf824394bf6",
+    "96f556d090de9ea5f1a6b512f96d4273bf156999",
+    "7dd665b3801f89790bd309f3ca6b93aad7c60b00"
+  ],
+  "imageUrl": "/images/articles/8f12b24ccbde.jpg",
+  "i18n": {
+    "ko": {
+      "title": "크라켄, 블록체인 자산 브리지에 체인링크 채택",
+      "excerpt": "크라켄은 블록체인 간 자산 브리지 인프라를 레이어제로에서 체인링크로 바꾸며, 켈프 관련 2억9200만 달러 익스플로잇 이후 30억 달러 이상 TVL 이전을 촉발했다.",
+      "body": "크라켄은 블록체인 간 자산 이동을 위한 브리지 인프라에서 레이어제로를 체인링크로 대체하기로 했다. 이번 결정은 켈프와 관련된 레이어제로 기반 브리지에서 2억9200만 달러 규모 익스플로잇이 발생한 뒤 나왔다. 이에 따라 총 예치가치(TVL) 30억 달러 이상이 체인링크 쪽으로 이동하는 흐름이 나타났다. 이번 전환은 크로스체인 자산 전송에서 보안과 인프라 선택이 핵심 쟁점으로 부상했음을 보여준다. 출처: coindesk.com."
+    },
+    "en": {
+      "title": "Kraken Picks Chainlink Over LayerZero for Asset Bridges",
+      "excerpt": "Kraken is replacing LayerZero with Chainlink for cross-chain asset bridges, a move tied to more than $3 billion in TVL migration after a $292 million Kelp-related exploit.",
+      "body": "Kraken will replace LayerZero with Chainlink for infrastructure used to bridge assets across blockchains. The decision follows a $292 million exploit involving a LayerZero-powered bridge connected to Kelp. As a result, more than $3 billion in total value locked is moving toward Chainlink-based infrastructure. The shift highlights how security and provider choice have become central issues for cross-chain asset transfers. Source: coindesk.com."
+    },
+    "ja": {
+      "title": "Kraken、資産ブリッジでLayerZeroからChainlinkへ移行",
+      "excerpt": "Krakenはブロックチェーン間の資産ブリッジ基盤をLayerZeroからChainlinkへ変更し、Kelp関連の2億9200万ドル被害後に30億ドル超のTVL移行を伴った。",
+      "body": "Krakenは、ブロックチェーン間で資産を移動するブリッジ基盤について、LayerZeroをChainlinkに置き換える方針を決めた。この判断は、Kelpに関係するLayerZero基盤のブリッジで2億9200万ドル規模のエクスプロイトが発生した後に示された。これにより、30億ドル超の総預かり資産（TVL）がChainlink側へ移行する流れとなった。今回の変更は、クロスチェーン資産移転で安全性と基盤選定が重要な論点になっていることを示す。出典: coindesk.com."
+    },
+    "zh": {
+      "title": "Kraken改用Chainlink，取代LayerZero跨链桥方案",
+      "excerpt": "Kraken将区块链间资产桥接基础设施从LayerZero转向Chainlink，此前涉及Kelp的2.92亿美元漏洞事件引发逾30亿美元TVL迁移。",
+      "body": "Kraken将把用于区块链间资产转移的桥接基础设施由LayerZero更换为Chainlink。该决定是在一起涉及Kelp、由LayerZero支持的桥接漏洞事件之后作出的，该事件规模达2.92亿美元。受此影响，超过30亿美元的总锁仓价值（TVL）正转向Chainlink相关基础设施。此次变化显示，在跨链资产转移中，安全性和基础设施提供方的选择已成为核心议题。来源: coindesk.com."
+    },
+    "es": {
+      "title": "Kraken cambia LayerZero por Chainlink para puentes cripto",
+      "excerpt": "Kraken sustituirá LayerZero por Chainlink en sus puentes entre blockchains, tras un exploit de 292 millones de dólares vinculado a Kelp que mueve más de 3.000 millones en TVL.",
+      "body": "Kraken reemplazará LayerZero por Chainlink como infraestructura para puentear activos entre blockchains. La decisión llega después de un exploit de 292 millones de dólares en un puente basado en LayerZero e involucrado con Kelp. Como resultado, más de 3.000 millones de dólares en valor total bloqueado (TVL) están migrando hacia infraestructura vinculada a Chainlink. El cambio subraya que la seguridad y la elección del proveedor son puntos clave para las transferencias de activos entre cadenas. Fuente: coindesk.com."
+    },
+    "pt": {
+      "title": "Kraken troca LayerZero por Chainlink em pontes cripto",
+      "excerpt": "A Kraken substituirá a LayerZero pela Chainlink em pontes entre blockchains, após exploit de US$ 292 milhões ligado à Kelp que leva mais de US$ 3 bilhões em TVL a migrar.",
+      "body": "A Kraken vai substituir a LayerZero pela Chainlink na infraestrutura usada para fazer a ponte de ativos entre blockchains. A decisão ocorre após um exploit de US$ 292 milhões em uma ponte baseada na LayerZero envolvendo a Kelp. Com isso, mais de US$ 3 bilhões em valor total bloqueado (TVL) passam a migrar para infraestrutura ligada à Chainlink. A mudança mostra que segurança e escolha de provedor se tornaram questões centrais nas transferências de ativos entre cadeias. Fonte: coindesk.com."
+    },
+    "de": {
+      "title": "Kraken ersetzt LayerZero durch Chainlink für Krypto-Bridges",
+      "excerpt": "Kraken stellt seine Cross-Chain-Bridges von LayerZero auf Chainlink um, nachdem ein Kelp-bezogener Exploit über 292 Millionen Dollar mehr als 3 Milliarden Dollar TVL bewegt.",
+      "body": "Kraken wird LayerZero durch Chainlink als Infrastruktur für das Bridging von Vermögenswerten zwischen Blockchains ersetzen. Die Entscheidung folgt auf einen Exploit über 292 Millionen Dollar bei einer LayerZero-gestützten Bridge mit Bezug zu Kelp. Dadurch migrieren mehr als 3 Milliarden Dollar an Total Value Locked (TVL) in Richtung Chainlink-Infrastruktur. Der Schritt zeigt, dass Sicherheit und die Wahl des Infrastrukturproviders bei Cross-Chain-Transfers zu zentralen Themen geworden sind. Quelle: coindesk.com."
+    },
+    "fr": {
+      "title": "Kraken remplace LayerZero par Chainlink pour ses bridges",
+      "excerpt": "Kraken remplacera LayerZero par Chainlink pour les ponts entre blockchains, après un exploit de 292 millions de dollars lié à Kelp entraînant plus de 3 milliards de dollars de TVL.",
+      "body": "Kraken va remplacer LayerZero par Chainlink pour l’infrastructure servant à transférer des actifs entre blockchains. Cette décision intervient après un exploit de 292 millions de dollars sur un bridge propulsé par LayerZero et impliquant Kelp. Elle s’accompagne d’une migration de plus de 3 milliards de dollars de valeur totale verrouillée (TVL) vers l’infrastructure Chainlink. Ce changement montre que la sécurité et le choix du fournisseur sont devenus des enjeux majeurs pour les transferts cross-chain. Source: coindesk.com."
+    },
+    "ar": {
+      "title": "كراكن تستبدل LayerZero بـ Chainlink لجسور الأصول الرقمية",
+      "excerpt": "ستستبدل كراكن LayerZero بـ Chainlink في جسور الأصول بين سلاسل الكتل، بعد استغلال مرتبط بـ Kelp بقيمة 292 مليون دولار دفع أكثر من 3 مليارات دولار من TVL للهجرة.",
+      "body": "قررت كراكن استبدال LayerZero بـ Chainlink في البنية التحتية المستخدمة لجسر الأصول بين سلاسل الكتل. وجاء القرار بعد استغلال بقيمة 292 مليون دولار طال جسرا مدعوما من LayerZero ومرتبطا بـ Kelp. ونتيجة لذلك، ينتقل أكثر من 3 مليارات دولار من إجمالي القيمة المقفلة TVL نحو بنية Chainlink. يبرز هذا التحول أن الأمان واختيار مزود البنية التحتية أصبحا محورين أساسيين في تحويل الأصول عبر السلاسل. المصدر: coindesk.com."
+    },
+    "hi": {
+      "title": "Kraken ने एसेट ब्रिज के लिए LayerZero की जगह Chainlink चुना",
+      "excerpt": "Kraken ब्लॉकचेन के बीच एसेट ब्रिजिंग के लिए LayerZero की जगह Chainlink अपनाएगा, Kelp से जुड़े 292 मिलियन डॉलर के exploit के बाद 3 अरब डॉलर से अधिक TVL माइग्रेट हो रहा है।",
+      "body": "Kraken ब्लॉकचेन के बीच एसेट ले जाने वाली ब्रिज इन्फ्रास्ट्रक्चर में LayerZero की जगह Chainlink का उपयोग करेगा। यह फैसला Kelp से जुड़े LayerZero-संचालित ब्रिज में 292 मिलियन डॉलर के exploit के बाद आया। इसके चलते 3 अरब डॉलर से अधिक का कुल लॉक्ड वैल्यू यानी TVL Chainlink आधारित इन्फ्रास्ट्रक्चर की ओर माइग्रेट हो रहा है। यह बदलाव दिखाता है कि क्रॉस-चेन एसेट ट्रांसफर में सुरक्षा और इन्फ्रास्ट्रक्चर प्रदाता का चुनाव प्रमुख मुद्दा बन गया है। स्रोत: coindesk.com."
+    },
+    "id": {
+      "title": "Kraken Ganti LayerZero dengan Chainlink untuk Bridge Aset",
+      "excerpt": "Kraken akan mengganti LayerZero dengan Chainlink untuk bridge aset lintas blockchain, setelah exploit senilai US$292 juta terkait Kelp memicu migrasi TVL lebih dari US$3 miliar.",
+      "body": "Kraken akan mengganti LayerZero dengan Chainlink sebagai infrastruktur untuk menjembatani aset antar-blockchain. Keputusan ini muncul setelah exploit senilai US$292 juta pada bridge berbasis LayerZero yang melibatkan Kelp. Dampaknya, lebih dari US$3 miliar total value locked (TVL) bergerak menuju infrastruktur berbasis Chainlink. Peralihan ini menunjukkan bahwa keamanan dan pilihan penyedia infrastruktur menjadi isu utama dalam transfer aset lintas rantai. Sumber: coindesk.com."
+    }
+  }
+}
