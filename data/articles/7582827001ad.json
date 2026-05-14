@@ -1,0 +1,75 @@
+{
+  "id": "7582827001ad",
+  "slug": "openai-pushes-new-chatgpt-safety-features-as-lawsuits-mount-972615",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-14T21:50:32.556Z",
+  "updatedAt": "2026-05-14T21:50:32.556Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367937/openai-new-chatgpt-safety-features-lawsuits-investigations",
+  "canonicalUrl": "https://decrypt.co/367937/openai-new-chatgpt-safety-features-lawsuits-investigations",
+  "titleFingerprint": "0d22b10126f66fd70b3dea8106f40f9dc266e181",
+  "dedupKeys": [
+    "7582827001ad3484ed0effe244f46936eadc9e86",
+    "0d22b10126f66fd70b3dea8106f40f9dc266e181",
+    "f2e4d2c070ced955bc372adff43dd382daf68ac5"
+  ],
+  "imageUrl": "/images/articles/7582827001ad.png",
+  "i18n": {
+    "ko": {
+      "title": "OpenAI, 소송 속 ChatGPT 자해·폭력 감지 안전 기능 강화",
+      "excerpt": "OpenAI는 위험한 챗봇 상호작용을 둘러싼 소송과 조사에 직면한 가운데 ChatGPT가 자해와 폭력 징후를 더 잘 감지할 수 있다고 밝혔다.",
+      "body": "OpenAI가 ChatGPT의 안전 기능을 강화하고 있다고 밝혔다. 회사는 ChatGPT가 사용자 대화에서 자해와 폭력의 징후를 더 잘 감지할 수 있도록 개선됐다고 설명했다. 이번 발표는 위험한 챗봇 상호작용을 둘러싼 소송과 조사가 이어지는 가운데 나왔다. 배경에는 AI 챗봇이 민감한 상황에서 어떤 방식으로 반응해야 하는지에 대한 사회적·법적 관심이 커진 흐름이 있다. OpenAI는 감지 능력 개선을 통해 잠재적으로 위험한 대화를 더 정확히 파악하는 데 초점을 맞추고 있다. 다만 원문은 구체적 수치나 적용 일정은 제시하지 않았다. 이번 조치는 생성형 AI 서비스의 안전성과 책임 논의에 계속 영향을 줄 전망이다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "OpenAI Boosts ChatGPT Safety Tools as Lawsuits Keep Mounting",
+      "excerpt": "OpenAI says ChatGPT can better detect signs of self-harm and violence as the company faces lawsuits and investigations over dangerous chatbot interactions.",
+      "body": "OpenAI says it is strengthening ChatGPT’s safety features. The company said ChatGPT has been improved to better detect signs of self-harm and violence in user conversations. The announcement comes as lawsuits and investigations continue over dangerous chatbot interactions. The backdrop is growing social and legal scrutiny over how AI chatbots should respond in sensitive situations. OpenAI is focusing on improved detection to identify potentially dangerous conversations more accurately. The original report did not provide specific figures or an implementation timeline. The move is expected to remain part of the wider debate over safety and responsibility in generative AI services. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "OpenAI、訴訟拡大の中でChatGPTの自傷・暴力検知を強化",
+      "excerpt": "OpenAIは、危険なチャットボット対話を巡る訴訟や調査に直面する中、ChatGPTが自傷や暴力の兆候をより適切に検知できると述べた。",
+      "body": "OpenAIは、ChatGPTの安全機能を強化していると明らかにした。同社は、ユーザーとの会話の中で自傷や暴力の兆候をよりよく検知できるようChatGPTを改善したと説明している。この発表は、危険なチャットボット対話を巡る訴訟や調査が続く中で行われた。背景には、AIチャットボットが敏感な状況でどのように応答すべきかを巡る社会的・法的関心の高まりがある。OpenAIは検知能力の改善により、潜在的に危険な会話をより正確に把握することに重点を置いている。ただし原文は具体的な数値や導入時期を示していない。今回の対応は、生成AIサービスの安全性と責任を巡る議論に引き続き影響するとみられる。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "OpenAI在诉讼压力下强化ChatGPT自伤与暴力识别",
+      "excerpt": "OpenAI表示，在危险聊天机器人互动引发诉讼和调查之际，ChatGPT已能更好识别自伤和暴力迹象。",
+      "body": "OpenAI表示，正在加强ChatGPT的安全功能。该公司称，ChatGPT已得到改进，可以在用户对话中更好地识别自伤和暴力迹象。此项声明发布之际，围绕危险聊天机器人互动的诉讼和调查仍在持续。其背景是，社会和法律层面对AI聊天机器人在敏感情境中应如何回应的关注不断上升。OpenAI将重点放在提升识别能力，以更准确发现潜在危险对话。原文未提供具体数字或实施时间表。此举预计将继续影响围绕生成式AI服务安全性与责任的讨论。来源: decrypt.co"
+    },
+    "es": {
+      "title": "OpenAI refuerza la seguridad de ChatGPT ante más demandas",
+      "excerpt": "OpenAI afirma que ChatGPT puede detectar mejor señales de autolesión y violencia mientras enfrenta demandas e investigaciones por interacciones peligrosas con chatbots.",
+      "body": "OpenAI afirmó que está reforzando las funciones de seguridad de ChatGPT. La compañía dijo que ChatGPT fue mejorado para detectar con mayor precisión señales de autolesión y violencia en conversaciones con usuarios. El anuncio llega mientras continúan demandas e investigaciones por interacciones peligrosas con chatbots. El contexto es un creciente escrutinio social y legal sobre cómo deben responder los chatbots de IA en situaciones sensibles. OpenAI centra el cambio en mejorar la detección para identificar conversaciones potencialmente peligrosas con mayor exactitud. El texto original no ofrece cifras concretas ni un calendario de aplicación. La medida seguirá influyendo en el debate sobre seguridad y responsabilidad en los servicios de IA generativa. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "OpenAI reforça segurança do ChatGPT em meio a novas ações",
+      "excerpt": "A OpenAI diz que o ChatGPT consegue detectar melhor sinais de automutilação e violência enquanto enfrenta processos e investigações sobre interações perigosas com chatbots.",
+      "body": "A OpenAI afirmou que está reforçando os recursos de segurança do ChatGPT. A empresa disse que o ChatGPT foi aprimorado para detectar melhor sinais de automutilação e violência em conversas com usuários. O anúncio ocorre enquanto processos e investigações continuam sobre interações perigosas com chatbots. O contexto é o aumento do escrutínio social e jurídico sobre como chatbots de IA devem responder em situações sensíveis. A OpenAI concentra a mudança na melhora da detecção para identificar conversas potencialmente perigosas com mais precisão. O texto original não apresentou números específicos nem prazo de implementação. A medida deve seguir influenciando o debate sobre segurança e responsabilidade em serviços de IA generativa. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "OpenAI stärkt ChatGPT-Schutz vor Selbstverletzung und Gewalt",
+      "excerpt": "OpenAI sagt, ChatGPT könne Hinweise auf Selbstverletzung und Gewalt besser erkennen, während das Unternehmen wegen gefährlicher Chatbot-Interaktionen Klagen und Untersuchungen gegenübersteht.",
+      "body": "OpenAI erklärte, die Sicherheitsfunktionen von ChatGPT zu verstärken. Das Unternehmen sagte, ChatGPT sei verbessert worden, um in Nutzergesprächen Anzeichen von Selbstverletzung und Gewalt besser zu erkennen. Die Ankündigung erfolgt, während Klagen und Untersuchungen wegen gefährlicher Chatbot-Interaktionen weiterlaufen. Hintergrund ist die wachsende gesellschaftliche und rechtliche Aufmerksamkeit dafür, wie KI-Chatbots in sensiblen Situationen reagieren sollten. OpenAI legt den Schwerpunkt auf bessere Erkennung, um potenziell gefährliche Gespräche genauer zu identifizieren. Der Originalbericht nannte keine konkreten Zahlen und keinen Zeitplan für die Umsetzung. Der Schritt dürfte die Debatte über Sicherheit und Verantwortung bei generativen KI-Diensten weiter prägen. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "OpenAI renforce la sécurité de ChatGPT face aux poursuites",
+      "excerpt": "OpenAI affirme que ChatGPT détecte mieux les signes d’automutilation et de violence alors que l’entreprise fait face à des poursuites et enquêtes sur des interactions dangereuses.",
+      "body": "OpenAI a indiqué renforcer les fonctions de sécurité de ChatGPT. L’entreprise affirme que ChatGPT a été amélioré afin de mieux détecter les signes d’automutilation et de violence dans les conversations avec les utilisateurs. Cette annonce intervient alors que se poursuivent des poursuites et des enquêtes concernant des interactions dangereuses avec des chatbots. Le contexte est celui d’une attention sociale et juridique croissante sur la manière dont les chatbots d’IA doivent répondre dans des situations sensibles. OpenAI met l’accent sur une meilleure détection pour identifier plus précisément les échanges potentiellement dangereux. Le texte original ne donne ni chiffres précis ni calendrier de déploiement. Cette mesure devrait continuer d’alimenter le débat sur la sécurité et la responsabilité des services d’IA générative. Source: decrypt.co"
+    },
+    "ar": {
+      "title": "OpenAI تعزز أمان ChatGPT مع تصاعد قضايا التفاعل الخطر",
+      "excerpt": "تقول OpenAI إن ChatGPT أصبح أكثر قدرة على رصد مؤشرات إيذاء النفس والعنف، بينما تواجه الشركة دعاوى وتحقيقات بشأن تفاعلات خطرة مع روبوتات الدردشة.",
+      "body": "قالت OpenAI إنها تعزز ميزات الأمان في ChatGPT. وأوضحت الشركة أن ChatGPT حُسّن ليتمكن من رصد مؤشرات إيذاء النفس والعنف في محادثات المستخدمين بشكل أفضل. يأتي الإعلان بينما تستمر دعاوى قضائية وتحقيقات بشأن تفاعلات خطرة مع روبوتات الدردشة. وتتمثل الخلفية في تزايد الاهتمام الاجتماعي والقانوني بكيفية استجابة روبوتات الدردشة المعتمدة على الذكاء الاصطناعي في المواقف الحساسة. تركز OpenAI على تحسين قدرات الرصد لتحديد المحادثات التي قد تكون خطرة بدقة أكبر. ولم يذكر النص الأصلي أرقاما محددة أو جدولا زمنيا للتطبيق. ومن المتوقع أن تواصل هذه الخطوة التأثير في النقاش حول سلامة ومسؤولية خدمات الذكاء الاصطناعي التوليدي. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "OpenAI ने मुकदमों के बीच ChatGPT सुरक्षा फीचर मजबूत किए",
+      "excerpt": "OpenAI का कहना है कि ChatGPT अब आत्म-हानि और हिंसा के संकेत बेहतर पहचान सकता है, जबकि कंपनी खतरनाक चैटबॉट बातचीत पर मुकदमों और जांचों का सामना कर रही है।",
+      "body": "OpenAI ने कहा कि वह ChatGPT की सुरक्षा सुविधाओं को मजबूत कर रही है। कंपनी के अनुसार, ChatGPT को इस तरह बेहतर किया गया है कि वह उपयोगकर्ताओं की बातचीत में आत्म-हानि और हिंसा के संकेतों को अधिक अच्छी तरह पहचान सके। यह घोषणा ऐसे समय आई है जब खतरनाक चैटबॉट बातचीत को लेकर मुकदमे और जांच जारी हैं। पृष्ठभूमि में यह बढ़ती सामाजिक और कानूनी चिंता है कि संवेदनशील स्थितियों में AI चैटबॉट को कैसे प्रतिक्रिया देनी चाहिए। OpenAI संभावित रूप से खतरनाक बातचीत को अधिक सटीक पहचानने के लिए डिटेक्शन क्षमता सुधारने पर ध्यान दे रही है। मूल रिपोर्ट में कोई ठोस आंकड़ा या लागू करने की समयसीमा नहीं दी गई। यह कदम जनरेटिव AI सेवाओं की सुरक्षा और जिम्मेदारी पर बहस को प्रभावित करता रहेगा। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "OpenAI Perkuat Keamanan ChatGPT Saat Gugatan Terus Bertambah",
+      "excerpt": "OpenAI menyebut ChatGPT kini lebih mampu mendeteksi tanda melukai diri dan kekerasan saat perusahaan menghadapi gugatan serta penyelidikan atas interaksi chatbot berbahaya.",
+      "body": "OpenAI menyatakan sedang memperkuat fitur keamanan ChatGPT. Perusahaan mengatakan ChatGPT telah ditingkatkan agar lebih mampu mendeteksi tanda melukai diri dan kekerasan dalam percakapan pengguna. Pengumuman ini muncul ketika gugatan dan penyelidikan atas interaksi chatbot yang berbahaya masih berlanjut. Latar belakangnya adalah meningkatnya perhatian sosial dan hukum tentang bagaimana chatbot AI harus merespons situasi sensitif. OpenAI berfokus pada peningkatan kemampuan deteksi untuk mengenali percakapan yang berpotensi berbahaya dengan lebih akurat. Teks asli tidak memberikan angka spesifik atau jadwal penerapan. Langkah ini diperkirakan tetap memengaruhi perdebatan tentang keamanan dan tanggung jawab layanan AI generatif. Sumber: decrypt.co"
+    }
+  }
+}

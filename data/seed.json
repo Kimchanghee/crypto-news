@@ -1,5 +1,230 @@
 [
   {
+    "id": "1cdbbfe49718",
+    "slug": "apple-mac-m5-system-exploited-with-anthropic39s-claude-mytho-710319",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T21:51:25.741Z",
+    "updatedAt": "2026-05-14T21:51:25.741Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
+    "canonicalUrl": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
+    "titleFingerprint": "0691ba201637510420dfaba0199d2e4d09fbe048",
+    "dedupKeys": [
+      "1cdbbfe497182828ca9ebdc946d43b93cea5396d",
+      "0691ba201637510420dfaba0199d2e4d09fbe048",
+      "94c477c9c4aa41c2a6a5b657d8a3373f105616c1"
+    ],
+    "imageUrl": "/images/articles/1cdbbfe49718.png",
+    "i18n": {
+      "ko": {
+        "title": "Apple Mac M5 macOS 커널 익스플로잇, Claude Mythos AI 활용 주장",
+        "excerpt": "보안 스타트업 Calif는 연구진이 Anthropic의 Claude Mythos AI 프리뷰 버전을 활용해 Apple Mac M5 macOS 커널 익스플로잇 구축을 도왔다고 밝혔다.",
+        "body": "보안 스타트업 Calif는 연구진이 Anthropic의 Claude Mythos AI 프리뷰 버전을 활용해 Apple Mac M5 시스템의 macOS 커널 익스플로잇 구축을 도왔다고 주장했다. 이번 내용은 Apple 기기 보안과 생성형 AI 활용이 맞물린 사례로 제시됐다. 원문에 따르면 핵심은 Claude Mythos가 익스플로잇 개발 과정에서 보조 역할을 했다는 점이다. 다만 공개된 정보는 연구진의 주장과 Calif의 설명에 한정된다. 이번 사례는 AI 도구가 보안 연구에 쓰일 수 있다는 점을 보여주지만, 실제 영향 범위나 후속 조치는 원문에서 구체적으로 제시되지 않았다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "Apple Mac M5 macOS Kernel Exploit Built With Claude Mythos AI, Calif Claims",
+        "excerpt": "Security startup Calif said researchers used a preview version of Anthropic’s Claude Mythos AI to help build a macOS kernel exploit for Apple Mac M5.",
+        "body": "Security startup Calif claimed that researchers used a preview version of Anthropic’s Claude Mythos AI to help build a macOS kernel exploit targeting an Apple Mac M5 system. The report frames the case as an example where Apple device security and generative AI use intersect. According to the original report, the central point is that Claude Mythos assisted during the exploit development process. However, the available information is limited to the researchers’ claim and Calif’s explanation. The case shows that AI tools may be used in security research, but the original report did not specify the actual scope of impact or follow-up actions. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "Apple Mac M5のmacOSカーネル悪用、Claude Mythos AI活用とCalif主張",
+        "excerpt": "セキュリティ企業Califは、研究者がAnthropicのClaude Mythos AIプレビュー版を使い、Apple Mac M5向けmacOSカーネルエクスプロイト構築を支援したと述べた。",
+        "body": "セキュリティスタートアップのCalifは、研究者がAnthropicのClaude Mythos AIプレビュー版を活用し、Apple Mac M5システムのmacOSカーネルエクスプロイト構築を支援したと主張した。今回の内容は、Apple端末のセキュリティと生成AIの利用が交差する事例として示された。原文によると、焦点はClaude Mythosがエクスプロイト開発過程で補助的な役割を果たした点にある。ただし、公開情報は研究者の主張とCalifの説明に限られる。この事例はAIツールがセキュリティ研究に使われ得ることを示すが、実際の影響範囲や後続対応は原文で具体的に示されていない。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "Apple Mac M5 macOS内核漏洞利用被指借助Claude Mythos AI构建",
+        "excerpt": "安全初创公司Calif称，研究人员使用Anthropic的Claude Mythos AI预览版，帮助构建针对Apple Mac M5的macOS内核漏洞利用。",
+        "body": "安全初创公司Calif声称，研究人员使用Anthropic的Claude Mythos AI预览版，帮助构建了针对Apple Mac M5系统的macOS内核漏洞利用。该事件被呈现为Apple设备安全与生成式AI使用相交的案例。根据原文，核心在于Claude Mythos在漏洞利用开发过程中发挥了辅助作用。不过，目前公开信息仅限于研究人员的说法和Calif的说明。此案例显示AI工具可能被用于安全研究，但原文未具体说明实际影响范围或后续措施。来源: decrypt.co"
+      },
+      "es": {
+        "title": "Apple Mac M5 y macOS: Calif afirma un exploit creado con Claude Mythos AI",
+        "excerpt": "La startup de seguridad Calif dijo que investigadores usaron una versión preliminar de Claude Mythos AI de Anthropic para ayudar a crear un exploit del kernel de macOS en Apple Mac M5.",
+        "body": "La startup de seguridad Calif afirmó que investigadores usaron una versión preliminar de Claude Mythos AI de Anthropic para ayudar a construir un exploit del kernel de macOS dirigido a un sistema Apple Mac M5. El caso se presenta como un cruce entre la seguridad de dispositivos Apple y el uso de IA generativa. Según el reporte original, el punto central es que Claude Mythos asistió durante el proceso de desarrollo del exploit. Sin embargo, la información disponible se limita a la afirmación de los investigadores y la explicación de Calif. El caso muestra que las herramientas de IA pueden usarse en investigación de seguridad, pero el reporte no detalló el alcance real del impacto ni acciones posteriores. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "Apple Mac M5 tem exploit de kernel macOS ligado ao Claude Mythos AI, diz Calif",
+        "excerpt": "A startup de segurança Calif disse que pesquisadores usaram uma prévia do Claude Mythos AI, da Anthropic, para ajudar a criar um exploit de kernel do macOS no Apple Mac M5.",
+        "body": "A startup de segurança Calif afirmou que pesquisadores usaram uma versão prévia do Claude Mythos AI, da Anthropic, para ajudar a construir um exploit de kernel do macOS voltado a um sistema Apple Mac M5. O caso é apresentado como um exemplo da interseção entre segurança de dispositivos Apple e uso de IA generativa. Segundo o relato original, o ponto central é que o Claude Mythos auxiliou no processo de desenvolvimento do exploit. No entanto, as informações disponíveis se limitam à alegação dos pesquisadores e à explicação da Calif. O caso mostra que ferramentas de IA podem ser usadas em pesquisa de segurança, mas o texto original não detalhou o alcance real do impacto nem medidas posteriores. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "Apple Mac M5: macOS-Kernel-Exploit soll mit Claude Mythos AI entstanden sein",
+        "excerpt": "Das Sicherheits-Startup Calif erklärte, Forscher hätten eine Vorschauversion von Anthropics Claude Mythos AI genutzt, um einen macOS-Kernel-Exploit für Apple Mac M5 zu entwickeln.",
+        "body": "Das Sicherheits-Startup Calif behauptete, Forscher hätten eine Vorschauversion von Anthropics Claude Mythos AI genutzt, um beim Bau eines macOS-Kernel-Exploits für ein Apple-Mac-M5-System zu helfen. Der Fall wird als Beispiel dargestellt, in dem Apple-Gerätesicherheit und der Einsatz generativer KI aufeinandertreffen. Dem Originalbericht zufolge liegt der Kern darin, dass Claude Mythos den Entwicklungsprozess des Exploits unterstützte. Die verfügbaren Informationen beschränken sich jedoch auf die Aussage der Forscher und die Erklärung von Calif. Der Fall zeigt, dass KI-Werkzeuge in der Sicherheitsforschung genutzt werden können; konkrete Angaben zum tatsächlichen Ausmaß der Auswirkungen oder zu Folgemaßnahmen nennt der Originalbericht nicht. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "Apple Mac M5: un exploit du noyau macOS aurait utilisé Claude Mythos AI",
+        "excerpt": "La startup de sécurité Calif a déclaré que des chercheurs avaient utilisé une version préliminaire de Claude Mythos AI d’Anthropic pour aider à créer un exploit du noyau macOS sur Apple Mac M5.",
+        "body": "La startup de sécurité Calif a affirmé que des chercheurs avaient utilisé une version préliminaire de Claude Mythos AI d’Anthropic pour aider à construire un exploit du noyau macOS visant un système Apple Mac M5. L’affaire est présentée comme un cas où la sécurité des appareils Apple et l’usage de l’IA générative se croisent. Selon le rapport original, le point central est que Claude Mythos a joué un rôle d’assistance dans le développement de l’exploit. Toutefois, les informations disponibles se limitent à l’affirmation des chercheurs et aux explications de Calif. Ce cas montre que des outils d’IA peuvent être utilisés dans la recherche en sécurité, mais le rapport original ne précise pas l’ampleur réelle de l’impact ni les suites éventuelles. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "Apple Mac M5: ادعاء ببناء استغلال لنواة macOS بمساعدة Claude Mythos AI",
+        "excerpt": "قالت شركة الأمن الناشئة Calif إن باحثين استخدموا نسخة معاينة من Claude Mythos AI التابعة لـAnthropic للمساعدة في بناء استغلال لنواة macOS على Apple Mac M5.",
+        "body": "زعمت شركة الأمن الناشئة Calif أن باحثين استخدموا نسخة معاينة من Claude Mythos AI التابعة لـAnthropic للمساعدة في بناء استغلال لنواة macOS يستهدف نظام Apple Mac M5. وتُعرض القضية كمثال على تقاطع أمن أجهزة Apple مع استخدام الذكاء الاصطناعي التوليدي. ووفق التقرير الأصلي، تتمثل النقطة الأساسية في أن Claude Mythos أدى دورا مساعدا خلال عملية تطوير الاستغلال. لكن المعلومات المتاحة تقتصر على ادعاء الباحثين وشرح Calif. يوضح هذا المثال أن أدوات الذكاء الاصطناعي قد تُستخدم في أبحاث الأمن، غير أن التقرير الأصلي لم يحدد نطاق التأثير الفعلي أو أي خطوات لاحقة. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "Apple Mac M5 macOS Kernel Exploit में Claude Mythos AI के इस्तेमाल का दावा",
+        "excerpt": "सुरक्षा स्टार्टअप Calif ने कहा कि शोधकर्ताओं ने Anthropic के Claude Mythos AI के प्रीव्यू संस्करण का उपयोग Apple Mac M5 के लिए macOS kernel exploit बनाने में मदद के लिए किया।",
+        "body": "सुरक्षा स्टार्टअप Calif ने दावा किया कि शोधकर्ताओं ने Anthropic के Claude Mythos AI के प्रीव्यू संस्करण का उपयोग Apple Mac M5 सिस्टम को लक्षित करने वाले macOS kernel exploit के निर्माण में मदद के लिए किया। यह मामला Apple डिवाइस सुरक्षा और generative AI उपयोग के मेल के उदाहरण के रूप में सामने रखा गया। मूल रिपोर्ट के अनुसार, मुख्य बात यह है कि Claude Mythos ने exploit विकास प्रक्रिया में सहायक भूमिका निभाई। हालांकि उपलब्ध जानकारी शोधकर्ताओं के दावे और Calif की व्याख्या तक सीमित है। यह मामला दिखाता है कि AI टूल सुरक्षा शोध में इस्तेमाल हो सकते हैं, लेकिन मूल रिपोर्ट ने वास्तविक प्रभाव के दायरे या आगे की कार्रवाइयों का विवरण नहीं दिया। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "Apple Mac M5 macOS Kernel Exploit Diklaim Dibantu Claude Mythos AI",
+        "excerpt": "Startup keamanan Calif mengatakan peneliti memakai versi pratinjau Claude Mythos AI dari Anthropic untuk membantu membangun exploit kernel macOS pada Apple Mac M5.",
+        "body": "Startup keamanan Calif mengklaim bahwa peneliti menggunakan versi pratinjau Claude Mythos AI dari Anthropic untuk membantu membangun exploit kernel macOS yang menargetkan sistem Apple Mac M5. Kasus ini disajikan sebagai contoh pertemuan antara keamanan perangkat Apple dan penggunaan AI generatif. Menurut laporan asli, poin utamanya adalah Claude Mythos berperan sebagai alat bantu dalam proses pengembangan exploit. Namun, informasi yang tersedia terbatas pada klaim peneliti dan penjelasan Calif. Kasus ini menunjukkan bahwa alat AI dapat digunakan dalam riset keamanan, tetapi laporan asli tidak merinci cakupan dampak nyata atau langkah lanjutan. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "7582827001ad",
+    "slug": "openai-pushes-new-chatgpt-safety-features-as-lawsuits-mount-972615",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T21:50:32.556Z",
+    "updatedAt": "2026-05-14T21:50:32.556Z",
+    "sourceName": "decrypt.co",
+    "sourceUrl": "https://decrypt.co/367937/openai-new-chatgpt-safety-features-lawsuits-investigations",
+    "canonicalUrl": "https://decrypt.co/367937/openai-new-chatgpt-safety-features-lawsuits-investigations",
+    "titleFingerprint": "0d22b10126f66fd70b3dea8106f40f9dc266e181",
+    "dedupKeys": [
+      "7582827001ad3484ed0effe244f46936eadc9e86",
+      "0d22b10126f66fd70b3dea8106f40f9dc266e181",
+      "f2e4d2c070ced955bc372adff43dd382daf68ac5"
+    ],
+    "imageUrl": "/images/articles/7582827001ad.png",
+    "i18n": {
+      "ko": {
+        "title": "OpenAI, 소송 속 ChatGPT 자해·폭력 감지 안전 기능 강화",
+        "excerpt": "OpenAI는 위험한 챗봇 상호작용을 둘러싼 소송과 조사에 직면한 가운데 ChatGPT가 자해와 폭력 징후를 더 잘 감지할 수 있다고 밝혔다.",
+        "body": "OpenAI가 ChatGPT의 안전 기능을 강화하고 있다고 밝혔다. 회사는 ChatGPT가 사용자 대화에서 자해와 폭력의 징후를 더 잘 감지할 수 있도록 개선됐다고 설명했다. 이번 발표는 위험한 챗봇 상호작용을 둘러싼 소송과 조사가 이어지는 가운데 나왔다. 배경에는 AI 챗봇이 민감한 상황에서 어떤 방식으로 반응해야 하는지에 대한 사회적·법적 관심이 커진 흐름이 있다. OpenAI는 감지 능력 개선을 통해 잠재적으로 위험한 대화를 더 정확히 파악하는 데 초점을 맞추고 있다. 다만 원문은 구체적 수치나 적용 일정은 제시하지 않았다. 이번 조치는 생성형 AI 서비스의 안전성과 책임 논의에 계속 영향을 줄 전망이다. 출처: decrypt.co"
+      },
+      "en": {
+        "title": "OpenAI Boosts ChatGPT Safety Tools as Lawsuits Keep Mounting",
+        "excerpt": "OpenAI says ChatGPT can better detect signs of self-harm and violence as the company faces lawsuits and investigations over dangerous chatbot interactions.",
+        "body": "OpenAI says it is strengthening ChatGPT’s safety features. The company said ChatGPT has been improved to better detect signs of self-harm and violence in user conversations. The announcement comes as lawsuits and investigations continue over dangerous chatbot interactions. The backdrop is growing social and legal scrutiny over how AI chatbots should respond in sensitive situations. OpenAI is focusing on improved detection to identify potentially dangerous conversations more accurately. The original report did not provide specific figures or an implementation timeline. The move is expected to remain part of the wider debate over safety and responsibility in generative AI services. Source: decrypt.co"
+      },
+      "ja": {
+        "title": "OpenAI、訴訟拡大の中でChatGPTの自傷・暴力検知を強化",
+        "excerpt": "OpenAIは、危険なチャットボット対話を巡る訴訟や調査に直面する中、ChatGPTが自傷や暴力の兆候をより適切に検知できると述べた。",
+        "body": "OpenAIは、ChatGPTの安全機能を強化していると明らかにした。同社は、ユーザーとの会話の中で自傷や暴力の兆候をよりよく検知できるようChatGPTを改善したと説明している。この発表は、危険なチャットボット対話を巡る訴訟や調査が続く中で行われた。背景には、AIチャットボットが敏感な状況でどのように応答すべきかを巡る社会的・法的関心の高まりがある。OpenAIは検知能力の改善により、潜在的に危険な会話をより正確に把握することに重点を置いている。ただし原文は具体的な数値や導入時期を示していない。今回の対応は、生成AIサービスの安全性と責任を巡る議論に引き続き影響するとみられる。出典: decrypt.co"
+      },
+      "zh": {
+        "title": "OpenAI在诉讼压力下强化ChatGPT自伤与暴力识别",
+        "excerpt": "OpenAI表示，在危险聊天机器人互动引发诉讼和调查之际，ChatGPT已能更好识别自伤和暴力迹象。",
+        "body": "OpenAI表示，正在加强ChatGPT的安全功能。该公司称，ChatGPT已得到改进，可以在用户对话中更好地识别自伤和暴力迹象。此项声明发布之际，围绕危险聊天机器人互动的诉讼和调查仍在持续。其背景是，社会和法律层面对AI聊天机器人在敏感情境中应如何回应的关注不断上升。OpenAI将重点放在提升识别能力，以更准确发现潜在危险对话。原文未提供具体数字或实施时间表。此举预计将继续影响围绕生成式AI服务安全性与责任的讨论。来源: decrypt.co"
+      },
+      "es": {
+        "title": "OpenAI refuerza la seguridad de ChatGPT ante más demandas",
+        "excerpt": "OpenAI afirma que ChatGPT puede detectar mejor señales de autolesión y violencia mientras enfrenta demandas e investigaciones por interacciones peligrosas con chatbots.",
+        "body": "OpenAI afirmó que está reforzando las funciones de seguridad de ChatGPT. La compañía dijo que ChatGPT fue mejorado para detectar con mayor precisión señales de autolesión y violencia en conversaciones con usuarios. El anuncio llega mientras continúan demandas e investigaciones por interacciones peligrosas con chatbots. El contexto es un creciente escrutinio social y legal sobre cómo deben responder los chatbots de IA en situaciones sensibles. OpenAI centra el cambio en mejorar la detección para identificar conversaciones potencialmente peligrosas con mayor exactitud. El texto original no ofrece cifras concretas ni un calendario de aplicación. La medida seguirá influyendo en el debate sobre seguridad y responsabilidad en los servicios de IA generativa. Fuente: decrypt.co"
+      },
+      "pt": {
+        "title": "OpenAI reforça segurança do ChatGPT em meio a novas ações",
+        "excerpt": "A OpenAI diz que o ChatGPT consegue detectar melhor sinais de automutilação e violência enquanto enfrenta processos e investigações sobre interações perigosas com chatbots.",
+        "body": "A OpenAI afirmou que está reforçando os recursos de segurança do ChatGPT. A empresa disse que o ChatGPT foi aprimorado para detectar melhor sinais de automutilação e violência em conversas com usuários. O anúncio ocorre enquanto processos e investigações continuam sobre interações perigosas com chatbots. O contexto é o aumento do escrutínio social e jurídico sobre como chatbots de IA devem responder em situações sensíveis. A OpenAI concentra a mudança na melhora da detecção para identificar conversas potencialmente perigosas com mais precisão. O texto original não apresentou números específicos nem prazo de implementação. A medida deve seguir influenciando o debate sobre segurança e responsabilidade em serviços de IA generativa. Fonte: decrypt.co"
+      },
+      "de": {
+        "title": "OpenAI stärkt ChatGPT-Schutz vor Selbstverletzung und Gewalt",
+        "excerpt": "OpenAI sagt, ChatGPT könne Hinweise auf Selbstverletzung und Gewalt besser erkennen, während das Unternehmen wegen gefährlicher Chatbot-Interaktionen Klagen und Untersuchungen gegenübersteht.",
+        "body": "OpenAI erklärte, die Sicherheitsfunktionen von ChatGPT zu verstärken. Das Unternehmen sagte, ChatGPT sei verbessert worden, um in Nutzergesprächen Anzeichen von Selbstverletzung und Gewalt besser zu erkennen. Die Ankündigung erfolgt, während Klagen und Untersuchungen wegen gefährlicher Chatbot-Interaktionen weiterlaufen. Hintergrund ist die wachsende gesellschaftliche und rechtliche Aufmerksamkeit dafür, wie KI-Chatbots in sensiblen Situationen reagieren sollten. OpenAI legt den Schwerpunkt auf bessere Erkennung, um potenziell gefährliche Gespräche genauer zu identifizieren. Der Originalbericht nannte keine konkreten Zahlen und keinen Zeitplan für die Umsetzung. Der Schritt dürfte die Debatte über Sicherheit und Verantwortung bei generativen KI-Diensten weiter prägen. Quelle: decrypt.co"
+      },
+      "fr": {
+        "title": "OpenAI renforce la sécurité de ChatGPT face aux poursuites",
+        "excerpt": "OpenAI affirme que ChatGPT détecte mieux les signes d’automutilation et de violence alors que l’entreprise fait face à des poursuites et enquêtes sur des interactions dangereuses.",
+        "body": "OpenAI a indiqué renforcer les fonctions de sécurité de ChatGPT. L’entreprise affirme que ChatGPT a été amélioré afin de mieux détecter les signes d’automutilation et de violence dans les conversations avec les utilisateurs. Cette annonce intervient alors que se poursuivent des poursuites et des enquêtes concernant des interactions dangereuses avec des chatbots. Le contexte est celui d’une attention sociale et juridique croissante sur la manière dont les chatbots d’IA doivent répondre dans des situations sensibles. OpenAI met l’accent sur une meilleure détection pour identifier plus précisément les échanges potentiellement dangereux. Le texte original ne donne ni chiffres précis ni calendrier de déploiement. Cette mesure devrait continuer d’alimenter le débat sur la sécurité et la responsabilité des services d’IA générative. Source: decrypt.co"
+      },
+      "ar": {
+        "title": "OpenAI تعزز أمان ChatGPT مع تصاعد قضايا التفاعل الخطر",
+        "excerpt": "تقول OpenAI إن ChatGPT أصبح أكثر قدرة على رصد مؤشرات إيذاء النفس والعنف، بينما تواجه الشركة دعاوى وتحقيقات بشأن تفاعلات خطرة مع روبوتات الدردشة.",
+        "body": "قالت OpenAI إنها تعزز ميزات الأمان في ChatGPT. وأوضحت الشركة أن ChatGPT حُسّن ليتمكن من رصد مؤشرات إيذاء النفس والعنف في محادثات المستخدمين بشكل أفضل. يأتي الإعلان بينما تستمر دعاوى قضائية وتحقيقات بشأن تفاعلات خطرة مع روبوتات الدردشة. وتتمثل الخلفية في تزايد الاهتمام الاجتماعي والقانوني بكيفية استجابة روبوتات الدردشة المعتمدة على الذكاء الاصطناعي في المواقف الحساسة. تركز OpenAI على تحسين قدرات الرصد لتحديد المحادثات التي قد تكون خطرة بدقة أكبر. ولم يذكر النص الأصلي أرقاما محددة أو جدولا زمنيا للتطبيق. ومن المتوقع أن تواصل هذه الخطوة التأثير في النقاش حول سلامة ومسؤولية خدمات الذكاء الاصطناعي التوليدي. المصدر: decrypt.co"
+      },
+      "hi": {
+        "title": "OpenAI ने मुकदमों के बीच ChatGPT सुरक्षा फीचर मजबूत किए",
+        "excerpt": "OpenAI का कहना है कि ChatGPT अब आत्म-हानि और हिंसा के संकेत बेहतर पहचान सकता है, जबकि कंपनी खतरनाक चैटबॉट बातचीत पर मुकदमों और जांचों का सामना कर रही है।",
+        "body": "OpenAI ने कहा कि वह ChatGPT की सुरक्षा सुविधाओं को मजबूत कर रही है। कंपनी के अनुसार, ChatGPT को इस तरह बेहतर किया गया है कि वह उपयोगकर्ताओं की बातचीत में आत्म-हानि और हिंसा के संकेतों को अधिक अच्छी तरह पहचान सके। यह घोषणा ऐसे समय आई है जब खतरनाक चैटबॉट बातचीत को लेकर मुकदमे और जांच जारी हैं। पृष्ठभूमि में यह बढ़ती सामाजिक और कानूनी चिंता है कि संवेदनशील स्थितियों में AI चैटबॉट को कैसे प्रतिक्रिया देनी चाहिए। OpenAI संभावित रूप से खतरनाक बातचीत को अधिक सटीक पहचानने के लिए डिटेक्शन क्षमता सुधारने पर ध्यान दे रही है। मूल रिपोर्ट में कोई ठोस आंकड़ा या लागू करने की समयसीमा नहीं दी गई। यह कदम जनरेटिव AI सेवाओं की सुरक्षा और जिम्मेदारी पर बहस को प्रभावित करता रहेगा। स्रोत: decrypt.co"
+      },
+      "id": {
+        "title": "OpenAI Perkuat Keamanan ChatGPT Saat Gugatan Terus Bertambah",
+        "excerpt": "OpenAI menyebut ChatGPT kini lebih mampu mendeteksi tanda melukai diri dan kekerasan saat perusahaan menghadapi gugatan serta penyelidikan atas interaksi chatbot berbahaya.",
+        "body": "OpenAI menyatakan sedang memperkuat fitur keamanan ChatGPT. Perusahaan mengatakan ChatGPT telah ditingkatkan agar lebih mampu mendeteksi tanda melukai diri dan kekerasan dalam percakapan pengguna. Pengumuman ini muncul ketika gugatan dan penyelidikan atas interaksi chatbot yang berbahaya masih berlanjut. Latar belakangnya adalah meningkatnya perhatian sosial dan hukum tentang bagaimana chatbot AI harus merespons situasi sensitif. OpenAI berfokus pada peningkatan kemampuan deteksi untuk mengenali percakapan yang berpotensi berbahaya dengan lebih akurat. Teks asli tidak memberikan angka spesifik atau jadwal penerapan. Langkah ini diperkirakan tetap memengaruhi perdebatan tentang keamanan dan tanggung jawab layanan AI generatif. Sumber: decrypt.co"
+      }
+    }
+  },
+  {
+    "id": "85156c6d0a7d",
+    "slug": "cme-and-nasdaq-to-launch-crypto-index-futures-featuring-btc--461761",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-14T21:49:37.560Z",
+    "updatedAt": "2026-05-14T21:49:37.560Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/cme-nasdaq-crypto-index-futures-btc-eth-sol-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/cme-nasdaq-crypto-index-futures-btc-eth-sol-xrp",
+    "titleFingerprint": "1af76a1ffd85a36b15799084341d3b9318617cb8",
+    "dedupKeys": [
+      "85156c6d0a7d48411a520122bd77607df08a12ed",
+      "1af76a1ffd85a36b15799084341d3b9318617cb8",
+      "7f166f7da593c261fed218c3896775e5e760d8af"
+    ],
+    "imageUrl": "/images/articles/85156c6d0a7d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "CME·나스닥, BTC·ETH·SOL·XRP 포함 크립토 지수 선물 출시",
+        "excerpt": "CME와 나스닥이 BTC, ETH, SOL, XRP를 포함한 크립토 지수 선물을 선보이며, 표준·마이크로 선물로 규제된 다중 가상자산 노출을 제공한다.",
+        "body": "CME와 나스닥은 BTC, ETH, SOL, XRP를 포함한 크립토 지수 선물 상품을 출시할 예정이다. 이번 계약은 여러 가상자산에 대한 규제된 노출을 제공하는 것이 핵심이다. 회사에 따르면 상품은 표준 크기와 마이크로 크기 선물로 제공돼 투자자가 동일한 지수 기반 접근을 서로 다른 규모로 활용할 수 있다. 이번 출시 계획은 단일 코인 중심 상품을 넘어 여러 주요 암호화폐를 묶은 선물 노출을 제도권 시장에서 제공한다는 점에서 주목된다. 향후 시장 참여자는 BTC와 ETH뿐 아니라 SOL, XRP까지 포함한 지수형 상품을 통해 크립토 시장 접근 방식을 넓힐 수 있다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "CME and Nasdaq to Launch Crypto Index Futures With BTC, ETH, SOL and XRP",
+        "excerpt": "CME and Nasdaq will introduce crypto index futures featuring BTC, ETH, SOL and XRP, offering regulated multi-asset exposure through standard and micro contracts.",
+        "body": "CME and Nasdaq are set to launch crypto index futures that include BTC, ETH, SOL and XRP. The key feature of the contracts is regulated exposure to multiple cryptocurrencies. According to the company, the products will be available as both standard-sized and micro-sized futures, allowing investors to access the same index-based structure at different contract sizes. The planned launch stands out because it moves beyond single-coin products and packages several major crypto assets into futures exposure within regulated markets. Market participants may gain a broader way to approach crypto through an index product that includes not only BTC and ETH, but also SOL and XRP. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "CMEとナスダック、BTC・ETH・SOL・XRP入り暗号資産指数先物を開始へ",
+        "excerpt": "CMEとナスダックはBTC、ETH、SOL、XRPを含む暗号資産指数先物を導入し、標準型とマイクロ型で規制下の複数資産エクスポージャーを提供する。",
+        "body": "CMEとナスダックは、BTC、ETH、SOL、XRPを含む暗号資産指数先物を開始する予定だ。今回の契約の中心は、複数の暗号資産に対する規制下のエクスポージャーを提供する点にある。会社によれば、商品は標準サイズとマイクロサイズの先物として提供され、投資家は同じ指数ベースの仕組みを異なる契約規模で利用できる。今回の開始計画は、単一コイン中心の商品を超え、複数の主要暗号資産をまとめた先物エクスポージャーを規制市場で提供する点で注目される。市場参加者はBTCとETHだけでなく、SOLとXRPも含む指数型商品を通じて暗号資産市場への 접근方法を広げられる。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "CME与纳斯达克将推出含BTC、ETH、SOL和XRP的加密指数期货",
+        "excerpt": "CME与纳斯达克将推出涵盖BTC、ETH、SOL和XRP的加密指数期货，通过标准和微型合约提供受监管的多资产加密敞口。",
+        "body": "CME与纳斯达克计划推出包含BTC、ETH、SOL和XRP的加密指数期货。该合约的核心是为多种加密资产提供受监管的市场敞口。公司表示，相关产品将以标准规模和微型规模期货形式提供，使投资者能够以不同合约规模使用同一指数化结构。此次推出计划值得关注，因为它不再局限于单一币种产品，而是在受监管市场中把多种主要加密货币打包为期货敞口。市场参与者未来可通过这一指数型产品，以涵盖BTC、ETH以及SOL、XRP的方式拓宽进入加密市场的路径。来源：cointelegraph.com。"
+      },
+      "es": {
+        "title": "CME y Nasdaq lanzarán futuros de índice cripto con BTC, ETH, SOL y XRP",
+        "excerpt": "CME y Nasdaq lanzarán futuros de índice cripto con BTC, ETH, SOL y XRP, ofreciendo exposición regulada a varios activos mediante contratos estándar y micro.",
+        "body": "CME y Nasdaq se preparan para lanzar futuros de índice cripto que incluirán BTC, ETH, SOL y XRP. La característica central de estos contratos será ofrecer exposición regulada a múltiples criptomonedas. Según la compañía, los productos estarán disponibles como futuros de tamaño estándar y micro, lo que permitirá a los inversores usar la misma estructura basada en índice con distintos tamaños de contrato. El plan destaca porque va más allá de los productos centrados en una sola moneda y reúne varios criptoactivos importantes dentro de una exposición de futuros en mercados regulados. Los participantes del mercado podrán ampliar su acceso al sector cripto mediante un producto de índice que incluye no solo BTC y ETH, sino también SOL y XRP. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "CME e Nasdaq lançarão futuros de índice cripto com BTC, ETH, SOL e XRP",
+        "excerpt": "CME e Nasdaq lançarão futuros de índice cripto com BTC, ETH, SOL e XRP, oferecendo exposição regulada a múltiplos ativos via contratos padrão e micro.",
+        "body": "CME e Nasdaq planejam lançar futuros de índice cripto que incluirão BTC, ETH, SOL e XRP. O ponto central dos contratos é oferecer exposição regulada a várias criptomoedas. Segundo a empresa, os produtos serão disponibilizados como futuros de tamanho padrão e micro, permitindo que investidores acessem a mesma estrutura baseada em índice em diferentes tamanhos de contrato. O plano chama atenção por ir além de produtos focados em uma única moeda e reunir diversos criptoativos importantes em uma exposição de futuros dentro de mercados regulados. Participantes do mercado poderão ampliar sua forma de acesso ao setor cripto por meio de um produto de índice que inclui não apenas BTC e ETH, mas também SOL e XRP. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "CME und Nasdaq planen Krypto-Index-Futures mit BTC, ETH, SOL und XRP",
+        "excerpt": "CME und Nasdaq wollen Krypto-Index-Futures mit BTC, ETH, SOL und XRP starten und regulierten Multi-Asset-Zugang über Standard- und Mikro-Futures bieten.",
+        "body": "CME und Nasdaq wollen Krypto-Index-Futures auflegen, die BTC, ETH, SOL und XRP umfassen. Kern der Kontrakte ist ein regulierter Zugang zu mehreren Kryptowährungen. Nach Angaben des Unternehmens sollen die Produkte als Futures in Standardgröße und als Mikro-Futures angeboten werden, sodass Anleger dieselbe indexbasierte Struktur in unterschiedlichen Kontraktgrößen nutzen können. Der geplante Start fällt auf, weil er über Produkte mit Fokus auf einzelne Coins hinausgeht und mehrere große Kryptoassets in einem regulierten Futures-Exposure bündelt. Marktteilnehmer können ihren Zugang zum Kryptomarkt über ein Indexprodukt erweitern, das neben BTC und ETH auch SOL und XRP einschließt. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "CME et Nasdaq vont lancer des futures d’indice crypto avec BTC, ETH, SOL et XRP",
+        "excerpt": "CME et Nasdaq vont lancer des futures d’indice crypto incluant BTC, ETH, SOL et XRP, avec une exposition réglementée via contrats standards et micro.",
+        "body": "CME et Nasdaq prévoient de lancer des futures d’indice crypto incluant BTC, ETH, SOL et XRP. L’élément central de ces contrats est de fournir une exposition réglementée à plusieurs cryptomonnaies. Selon la société, les produits seront proposés sous forme de futures de taille standard et de micro-futures, permettant aux investisseurs d’utiliser la même structure fondée sur un indice avec différentes tailles de contrat. Ce projet se distingue car il dépasse les produits centrés sur une seule monnaie et regroupe plusieurs grands actifs crypto dans une exposition à terme sur des marchés réglementés. Les participants au marché pourront élargir leur accès au secteur crypto grâce à un produit indiciel comprenant non seulement BTC et ETH, mais aussi SOL et XRP. Source : cointelegraph.com."
+      },
+      "ar": {
+        "title": "CME وناسداك تطلقان عقود مؤشر كريبتو تضم BTC وETH وSOL وXRP",
+        "excerpt": "تعتزم CME وناسداك إطلاق عقود مؤشر كريبتو تضم BTC وETH وSOL وXRP، لتوفير تعرض منظم لعدة أصول عبر عقود قياسية ومصغرة.",
+        "body": "تعتزم CME وناسداك إطلاق عقود آجلة لمؤشر كريبتو تشمل BTC وETH وSOL وXRP. وتتمثل النقطة الأساسية في هذه العقود في توفير تعرض منظم لعدة عملات مشفرة. وبحسب الشركة، ستتاح المنتجات في شكل عقود آجلة قياسية الحجم وعقود مصغرة، ما يسمح للمستثمرين باستخدام البنية نفسها القائمة على المؤشر بأحجام عقود مختلفة. وتبرز هذه الخطة لأنها تتجاوز المنتجات التي تركز على عملة واحدة، وتجمع عدة أصول مشفرة رئيسية ضمن تعرض للعقود الآجلة في أسواق منظمة. وقد يتمكن المشاركون في السوق من توسيع طريقة دخولهم إلى قطاع الكريبتو عبر منتج مؤشري لا يضم BTC وETH فقط، بل يشمل أيضا SOL وXRP. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "CME और Nasdaq BTC, ETH, SOL, XRP वाले क्रिप्टो इंडेक्स फ्यूचर्स लाएंगे",
+        "excerpt": "CME और Nasdaq BTC, ETH, SOL और XRP वाले क्रिप्टो इंडेक्स फ्यूचर्स पेश करेंगे, जिनसे स्टैंडर्ड और माइक्रो कॉन्ट्रैक्ट्स के जरिए विनियमित मल्टी-एसेट एक्सपोजर मिलेगा।",
+        "body": "CME और Nasdaq ऐसे क्रिप्टो इंडेक्स फ्यूचर्स लॉन्च करने की तैयारी में हैं जिनमें BTC, ETH, SOL और XRP शामिल होंगे। इन कॉन्ट्रैक्ट्स की मुख्य बात कई क्रिप्टोकरेंसी में विनियमित एक्सपोजर प्रदान करना है। कंपनी के अनुसार, उत्पाद स्टैंडर्ड-साइज और माइक्रो-साइज फ्यूचर्स के रूप में उपलब्ध होंगे, जिससे निवेशक एक ही इंडेक्स-आधारित संरचना को अलग-अलग कॉन्ट्रैक्ट आकारों में इस्तेमाल कर सकेंगे। यह योजना इसलिए ध्यान खींचती है क्योंकि यह सिंगल-कॉइन उत्पादों से आगे बढ़कर कई प्रमुख क्रिप्टो एसेट्स को विनियमित बाजारों में फ्यूचर्स एक्सपोजर के रूप में जोड़ती है। बाजार प्रतिभागी BTC और ETH के साथ SOL और XRP को शामिल करने वाले इंडेक्स उत्पाद से क्रिप्टो बाजार तक अपनी पहुंच बढ़ा सकते हैं। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "CME dan Nasdaq Akan Luncurkan Futures Indeks Kripto dengan BTC, ETH, SOL, XRP",
+        "excerpt": "CME dan Nasdaq akan meluncurkan futures indeks kripto berisi BTC, ETH, SOL, dan XRP, memberi eksposur teregulasi lewat kontrak standar dan mikro.",
+        "body": "CME dan Nasdaq berencana meluncurkan futures indeks kripto yang mencakup BTC, ETH, SOL, dan XRP. Inti dari kontrak ini adalah memberikan eksposur teregulasi ke beberapa mata uang kripto. Menurut perusahaan, produk tersebut akan tersedia dalam futures ukuran standar dan mikro, sehingga investor dapat memakai struktur berbasis indeks yang sama dengan ukuran kontrak berbeda. Rencana peluncuran ini menonjol karena melampaui produk yang berfokus pada satu koin dan menggabungkan beberapa aset kripto utama ke dalam eksposur futures di pasar teregulasi. Pelaku pasar dapat memperluas cara mengakses pasar kripto melalui produk indeks yang mencakup bukan hanya BTC dan ETH, tetapi juga SOL dan XRP. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
     "id": "26c50f05127c",
     "slug": "tezos-launches-quantum-resistant-private-payments-prototype--340572",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "ETF Spot Bitcoin Keluar US$635 Juta Sehari, Harga Melemah",
         "excerpt": "Investor menarik US$635 juta dari ETF spot Bitcoin dalam satu hari, arus keluar terbesar sejak akhir Januari, saat BTC melemah dari rata-rata bergerak 200 hari.",
         "body": "Investor bitcoin menarik US$635 juta dari ETF spot bitcoin di Amerika Serikat dalam satu hari. Menurut CoinDesk, ini adalah arus keluar harian terbesar sejak akhir Januari. Pergerakan itu terjadi ketika bitcoin gagal mempertahankan penguatan di dekat rata-rata bergerak 200 hari dan berbalik turun. Arus dana ETF spot dipantau sebagai indikator permintaan institusional dan ritel terhadap eksposur bitcoin. Arus keluar besar menunjukkan tekanan beli jangka pendek yang melemah dan beban pada harga, tetapi laporan asli tidak memberikan target penurunan atau proyeksi khusus. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "d54c143af16c",
-    "slug": "us-banks-expect-slow-then-fast-shift-to-digitized-finance-mo-621288",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T06:07:22.565Z",
-    "updatedAt": "2026-05-14T06:07:22.565Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/moodys-us-banks-tokenized-finance-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/moodys-us-banks-tokenized-finance-transition",
-    "titleFingerprint": "eb30e52c6d784a033b48e86150a82d1f65fb1522",
-    "dedupKeys": [
-      "d54c143af16c1df24f19c43ea40055773816411f",
-      "eb30e52c6d784a033b48e86150a82d1f65fb1522",
-      "cc6b5904736bc0ef7e551960942725fa1dac16ea"
-    ],
-    "imageUrl": "/images/articles/d54c143af16c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미국 은행, 디지털 금융 전환 ‘천천히 후 빠르게’ 대비",
-        "excerpt": "무디스는 2026년 5월 12일 보고서에서 미국 주요 은행과 금융시장 중개기관들이 수요 급변에 뒤처지지 않기 위해 디지털 금융 전환을 준비하고 있다고 밝혔다.",
-        "body": "미국 주요 은행과 금융시장 중개기관들은 디지털 금융 시스템 전환이 처음에는 느리게 진행되다가 일정한 변곡점을 지나 빠르게 확산될 것으로 보고 있다고 무디스 레이팅스가 밝혔다. 무디스는 5월 12일 보고서에서 업계 관계자들과의 대화를 바탕으로 자산 토큰화가 불가피하다는 인식이 많았으며, 토큰화 규모가 더 많은 시장 참여자와 자산, 활용 사례로 확대될 수 있다고 설명했다. 현재 토큰화 활동은 낮은 수준이며 주요 활용처는 암호화폐 거래, 국경 간 소매 결제, 일부 기관용 사례다. 무디스는 별도 보고서에서 토큰화 속도에 따라 금융 시스템의 변화 폭이 달라질 수 있다고 봤다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "US Banks Prepare for ‘Slow, Then Fast’ Digital Finance Shift",
-        "excerpt": "Moody’s said in a May 12, 2026 report that major US banks and market intermediaries are preparing for digital finance adoption to avoid being caught by a sudden demand shift.",
-        "body": "Major US banks and financial market intermediaries expect the move to a digitized financial system to begin slowly and then accelerate after a tipping point, Moody’s Ratings said. In its May 12 report, Moody’s said conversations with industry leaders showed broad belief that asset tokenization is likely to happen, with uncertainty mainly around timing and sequence. Tokenization volume could expand to more market participants, assets and use cases. Current activity remains low, centered on crypto trading, cross-border retail payments and some institutional use cases. Moody’s also said in a separate report that the financial system’s outcome depends on the pace of tokenization. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "米銀、デジタル金融移行は「緩やか後に急加速」と想定",
-        "excerpt": "ムーディーズは2026年5月12日の報告書で、米主要銀行と金融市場仲介機関が需要の急変に備え、デジタル金融の採用拡大を準備していると述べた。",
-        "body": "米国の主要銀行と金融市場仲介機関は、デジタル化された金融システムへの移行が当初は緩やかに進み、その後ある転換点を越えると加速すると見ている。ムーディーズ・レーティングスが5月12日の報告書で明らかにした。業界関係者との対話では、資産トークン化は起こるとの見方が多く、主な不確実性は速度と順序にあるとされた。トークン化の規模は、より多くの市場参加者、資産、用途へ広がる可能性がある。現時点の活動は低水準で、暗号資産取引、越境小売決済、一部の機関向け用途が中心だ。出典: cointelegraph.com。"
-      },
-      "zh": {
-        "title": "美国银行预期数字金融转型将“先慢后快”推进",
-        "excerpt": "穆迪在2026年5月12日报告中称，美国主要银行和金融市场中介正为数字金融采用上升做准备，以避免被需求突然转向打乱节奏。",
-        "body": "穆迪评级表示，美国主要银行和金融市场中介预计，向数字化金融体系的转型起初会较慢，随后在达到某个临界点后加速。穆迪在5月12日的报告中称，根据与行业人士的交流，多数人认为资产代币化将会发生，不确定性主要在于速度和先后顺序。代币化规模可能扩展到更多市场参与者、资产和应用场景。目前代币化活动仍处低位，主要用途包括加密货币交易、跨境零售支付和部分机构场景。穆迪另称，金融体系的变化取决于代币化推进速度。来源: cointelegraph.com。"
-      },
-      "es": {
-        "title": "Bancos de EE. UU. prevén un giro digital ‘lento y luego rápido’",
-        "excerpt": "Moody’s dijo en un informe del 12 de mayo de 2026 que grandes bancos e intermediarios de EE. UU. se preparan para una mayor adopción de finanzas digitales ante un posible cambio súbito de demanda.",
-        "body": "Los principales bancos de Estados Unidos y los intermediarios del mercado financiero esperan que la transición hacia un sistema financiero digitalizado comience lentamente y luego se acelere tras un punto de inflexión, según Moody’s Ratings. En su informe del 12 de mayo, la agencia dijo que sus conversaciones con líderes del sector mostraron una creencia amplia en que la tokenización de activos ocurrirá, aunque con dudas sobre el ritmo y la secuencia. El volumen de tokenización podría extenderse a más participantes, activos y casos de uso. La actividad actual sigue baja y se concentra en comercio cripto, pagos minoristas transfronterizos y algunos usos institucionales. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Bancos dos EUA veem finanças digitais ‘lentas, depois rápidas’",
-        "excerpt": "A Moody’s disse em relatório de 12 de maio de 2026 que grandes bancos e intermediários dos EUA se preparam para maior adoção das finanças digitais diante de possível mudança brusca na demanda.",
-        "body": "Grandes bancos dos Estados Unidos e intermediários do mercado financeiro esperam que a transição para um sistema financeiro digitalizado comece lentamente e depois acelere após um ponto de inflexão, segundo a Moody’s Ratings. No relatório de 12 de maio, a agência afirmou que conversas com líderes do setor indicaram ampla visão de que a tokenização de ativos ocorrerá, com incertezas sobretudo sobre ritmo e sequência. O volume tokenizado pode alcançar mais participantes, ativos e casos de uso. A atividade atual ainda é baixa, centrada em negociação cripto, pagamentos varejistas internacionais e alguns usos institucionais. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "US-Banken erwarten digitalen Finanzwandel ‘langsam, dann schnell’",
-        "excerpt": "Moody’s erklärte in einem Bericht vom 12. Mai 2026, dass große US-Banken und Marktvermittler sich auf mehr digitale Finanznutzung vorbereiten, um auf plötzliche Nachfragewechsel reagieren zu können.",
-        "body": "Große US-Banken und Finanzmarktintermediäre erwarten, dass der Übergang zu einem digitalisierten Finanzsystem zunächst langsam beginnt und sich nach einem Wendepunkt beschleunigt, teilte Moody’s Ratings mit. In dem Bericht vom 12. Mai erklärte die Agentur, Gespräche mit Branchenführern zeigten eine breite Annahme, dass Asset-Tokenisierung stattfinden werde; unklar seien vor allem Tempo und Reihenfolge. Das Tokenisierungsvolumen könnte auf mehr Marktteilnehmer, Vermögenswerte und Anwendungsfälle ausgeweitet werden. Derzeit ist die Aktivität niedrig und konzentriert sich auf Kryptohandel, grenzüberschreitende Einzelhandelszahlungen und einige institutionelle Anwendungen. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Les banques américaines anticipent une finance numérique ‘lente puis rapide’",
-        "excerpt": "Moody’s a indiqué dans un rapport du 12 mai 2026 que les grandes banques et intermédiaires américains se préparent à l’adoption accrue de la finance numérique face à un possible changement soudain de demande.",
-        "body": "Les grandes banques américaines et les intermédiaires des marchés financiers s’attendent à ce que la transition vers un système financier numérisé commence lentement, puis accélère après un point de bascule, selon Moody’s Ratings. Dans son rapport du 12 mai, l’agence indique que ses échanges avec des dirigeants du secteur montrent une large conviction que la tokenisation des actifs aura lieu, même si le rythme et l’ordre restent incertains. Les volumes pourraient s’étendre à davantage d’acteurs, d’actifs et d’usages. L’activité actuelle reste faible, centrée sur le trading crypto, les paiements de détail transfrontaliers et certains usages institutionnels. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "بنوك أمريكية تتوقع تحول التمويل الرقمي ‘ببطء ثم بسرعة’",
-        "excerpt": "قالت موديز في تقرير بتاريخ 12 مايو 2026 إن البنوك الأمريكية الكبرى ووسطاء الأسواق المالية يستعدون لزيادة تبني التمويل الرقمي لتجنب مفاجآت تحول الطلب.",
-        "body": "تتوقع البنوك الأمريكية الكبرى ووسطاء الأسواق المالية أن يبدأ الانتقال إلى نظام مالي رقمي ببطء، ثم يتسارع بعد بلوغ نقطة تحول، بحسب موديز ريتنغز. وقالت الوكالة في تقريرها الصادر في 12 مايو إن محادثاتها مع قادة القطاع أظهرت اعتقادا واسعا بأن ترميز الأصول سيحدث، بينما تتركز الشكوك حول السرعة والتسلسل. وقد يمتد حجم الترميز إلى مزيد من المشاركين في السوق والأصول وحالات الاستخدام. ولا يزال النشاط الحالي منخفضا، مع تركيز على تداول العملات المشفرة، والمدفوعات العابرة للحدود للأفراد، وبعض الاستخدامات المؤسسية. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "अमेरिकी बैंक डिजिटल वित्त बदलाव को ‘धीमे, फिर तेज’ मान रहे हैं",
-        "excerpt": "मूडीज ने 12 मई 2026 की रिपोर्ट में कहा कि बड़े अमेरिकी बैंक और वित्तीय बाजार मध्यस्थ डिजिटल वित्त अपनाने की बढ़ती मांग के लिए तैयारी कर रहे हैं।",
-        "body": "मूडीज रेटिंग्स के अनुसार, बड़े अमेरिकी बैंक और वित्तीय बाजार मध्यस्थ मानते हैं कि डिजिटल वित्तीय प्रणाली की ओर बदलाव पहले धीमा रहेगा और फिर एक मोड़ के बाद तेज हो जाएगा। 12 मई की रिपोर्ट में मूडीज ने कहा कि उद्योग नेताओं से बातचीत में व्यापक राय थी कि एसेट टोकनाइजेशन होगा, जबकि मुख्य अनिश्चितता इसकी गति और क्रम को लेकर है। टोकनाइजेशन की मात्रा अधिक बाजार प्रतिभागियों, संपत्तियों और उपयोग मामलों तक बढ़ सकती है। अभी गतिविधि कम है और मुख्य रूप से क्रिप्टो ट्रेडिंग, सीमा-पार खुदरा भुगतान और कुछ संस्थागत उपयोगों तक सीमित है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Bank AS Bersiap untuk Peralihan Keuangan Digital ‘Lambat Lalu Cepat’",
-        "excerpt": "Moody’s mengatakan dalam laporan 12 Mei 2026 bahwa bank besar AS dan perantara pasar keuangan bersiap menghadapi adopsi keuangan digital agar tidak tertinggal saat permintaan berubah tiba-tiba.",
-        "body": "Bank-bank besar Amerika Serikat dan perantara pasar keuangan memperkirakan transisi menuju sistem keuangan digital akan dimulai perlahan, lalu meningkat cepat setelah mencapai titik balik, menurut Moody’s Ratings. Dalam laporan 12 Mei, Moody’s menyebut percakapan dengan para pemimpin industri menunjukkan keyakinan luas bahwa tokenisasi aset akan terjadi, dengan ketidakpastian utama pada kecepatan dan urutannya. Volume tokenisasi dapat meluas ke lebih banyak pelaku pasar, aset, dan penggunaan. Aktivitas saat ini masih rendah, terutama pada perdagangan kripto, pembayaran ritel lintas batas, dan beberapa penggunaan institusional. Sumber: cointelegraph.com."
-      }
-    }
-  },
-  {
-    "id": "24f68b735a64",
-    "slug": "trump-token-down-5-as-namesake-handset-begins-shipping-next--423629",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T06:06:15.913Z",
-    "updatedAt": "2026-05-14T06:06:15.913Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/14/trump-token-down-5-as-namesake-handset-begins-shipping-next-week",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/14/trump-token-down-5-as-namesake-handset-begins-shipping-next-week",
-    "titleFingerprint": "38cdef84806eb4a518b3e5dc162deda2f78426b4",
-    "dedupKeys": [
-      "24f68b735a64c1dc4582d1415d0e2cd236464861",
-      "38cdef84806eb4a518b3e5dc162deda2f78426b4",
-      "9767a50b2783e739a2dae0ddd55f0615d469ff7d"
-    ],
-    "imageUrl": "/images/articles/24f68b735a64.jpg",
-    "i18n": {
-      "ko": {
-        "title": "TRUMP 토큰 5% 하락, T1 휴대전화 다음 주 배송 앞두고 주목",
-        "excerpt": "TRUMP 토큰이 5% 하락한 가운데, Trump Mobile의 T1 휴대전화가 다음 주 배송을 시작할 예정이며 미국 조립 HTC U24 리스킨 모델로 보인다고 코인데스크가 전했다.",
-        "body": "TRUMP 토큰은 Trump Mobile의 T1 휴대전화가 다음 주 배송을 시작한다는 소식 속에 5% 하락했다. 코인데스크에 따르면 이 단말기는 외형과 사양상 HTC U24를 다시 꾸민 모델로 보이며, 조립은 미국에서 이뤄진 것으로 파악된다. 이번 보도는 토큰 가격 움직임과 트럼프 브랜드 모바일 제품 출시 일정이 함께 주목받는 상황에서 나왔다. 다만 원문은 T1이 완전히 새로운 독자 설계 제품이라는 내용은 제시하지 않았다. 시장의 관심은 실제 배송 개시와 제품 정체성 확인으로 이어질 전망이다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "TRUMP Token Falls 5% as T1 Handset Nears Shipping Next Week",
-        "excerpt": "TRUMP token fell 5% as Trump Mobile’s T1 handset is set to begin shipping next week, with CoinDesk reporting it appears to be a U.S.-assembled re-skinned HTC U24.",
-        "body": "TRUMP token declined 5% as Trump Mobile’s T1 handset is expected to start shipping next week. According to CoinDesk, the device appears, based on its look and specifications, to be a re-skinned HTC U24, with assembly carried out in the United States. The report links the token’s price move with renewed attention on the Trump-branded mobile product launch schedule. It does not state that the T1 is a wholly new, independently designed handset. Market focus is likely to turn to the actual start of shipments and confirmation of the product’s identity. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "TRUMPトークン5%下落、T1端末の来週出荷開始で関心高まる",
-        "excerpt": "TRUMPトークンが5%下落する中、Trump MobileのT1端末は来週出荷開始予定で、米国組立のHTC U24リスキン機種とみられるとCoinDeskが報じた。",
-        "body": "TRUMPトークンは、Trump MobileのT1端末が来週出荷を開始する見通しとなる中で5%下落した。CoinDeskによると、この端末は外観や仕様からHTC U24を再設計風に見せたリスキンモデルとみられ、組み立ては米国で行われたとされる。今回の報道は、トークン価格の動きとトランプブランドのモバイル製品の発売日程が同時に注目される局面で出た。ただし原文は、T1が完全な新規独自設計端末だとは示していない。市場の関心は実際の出荷開始と製品の正体確認に向かいそうだ。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "TRUMP代币下跌5%，T1手机下周发货引发关注",
-        "excerpt": "TRUMP代币下跌5%，Trump Mobile的T1手机预计下周开始发货，CoinDesk称其似乎是美国组装、重新换壳的HTC U24。",
-        "body": "在Trump Mobile的T1手机预计下周开始发货之际，TRUMP代币下跌5%。据CoinDesk报道，从外观和规格来看，这款设备似乎是重新包装的HTC U24，组装工作在美国完成。该报道使代币价格波动与特朗普品牌移动产品的发货安排同时受到关注。不过，原文并未说明T1是一款完全全新、独立设计的手机。市场接下来可能会关注实际发货是否开始，以及产品身份能否得到进一步确认。来源: coindesk.com"
-      },
-      "es": {
-        "title": "TRUMP cae 5% mientras el teléfono T1 se enviará la próxima semana",
-        "excerpt": "El token TRUMP cayó 5% mientras el T1 de Trump Mobile comenzaría a enviarse la próxima semana; CoinDesk dice que parece un HTC U24 remarcado y ensamblado en EE. UU.",
-        "body": "El token TRUMP cayó 5% mientras el teléfono T1 de Trump Mobile se prepara para empezar a enviarse la próxima semana. Según CoinDesk, el dispositivo parece, por su aspecto y especificaciones, una versión remarcada del HTC U24, con ensamblaje realizado en Estados Unidos. La información llega en un momento en que el movimiento del precio del token y el calendario de lanzamiento del producto móvil con marca Trump reciben atención conjunta. El texto original no afirma que el T1 sea un teléfono totalmente nuevo ni de diseño independiente. El foco del mercado pasará al inicio real de los envíos y a la confirmación de la identidad del producto. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "TRUMP cai 5% enquanto celular T1 se aproxima do envio na próxima semana",
-        "excerpt": "O token TRUMP caiu 5% enquanto o T1 da Trump Mobile deve começar a ser enviado na próxima semana; a CoinDesk diz que parece um HTC U24 reestilizado e montado nos EUA.",
-        "body": "O token TRUMP caiu 5% enquanto o celular T1 da Trump Mobile deve começar a ser enviado na próxima semana. Segundo a CoinDesk, o aparelho parece, pelo visual e pelas especificações, uma versão reestilizada do HTC U24, com montagem realizada nos Estados Unidos. A reportagem coloca o movimento de preço do token e o cronograma de lançamento do produto móvel da marca Trump no mesmo foco. O texto original não afirma que o T1 seja um telefone totalmente novo ou com projeto independente. A atenção do mercado deve se voltar ao início efetivo dos envios e à confirmação da identidade do produto. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "TRUMP fällt 5%, während T1-Handy nächste Woche ausgeliefert werden soll",
-        "excerpt": "Der TRUMP-Token fiel um 5%, während das T1 von Trump Mobile nächste Woche ausgeliefert werden soll; CoinDesk zufolge wirkt es wie ein in den USA montiertes HTC U24 mit neuer Hülle.",
-        "body": "Der TRUMP-Token gab um 5% nach, während das T1-Handy von Trump Mobile voraussichtlich nächste Woche mit der Auslieferung beginnt. Laut CoinDesk wirkt das Gerät nach Aussehen und Spezifikationen wie ein neu gestaltetes HTC U24, dessen Montage in den USA erfolgt ist. Der Bericht rückt damit sowohl die Kursbewegung des Tokens als auch den Startplan des mobilen Trump-Markenprodukts in den Fokus. Der Originaltext behauptet nicht, dass das T1 ein vollständig neues, eigenständig entwickeltes Smartphone ist. Der Markt dürfte nun auf den tatsächlichen Versandstart und die Bestätigung der Produktidentität achten. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "TRUMP recule de 5% alors que le téléphone T1 doit être livré la semaine prochaine",
-        "excerpt": "Le token TRUMP a perdu 5% alors que le T1 de Trump Mobile doit commencer à être livré la semaine prochaine; CoinDesk indique qu’il ressemble à un HTC U24 réhabillé et assemblé aux États-Unis.",
-        "body": "Le token TRUMP a reculé de 5% alors que le téléphone T1 de Trump Mobile devrait commencer à être livré la semaine prochaine. Selon CoinDesk, l’appareil semble, d’après son apparence et ses caractéristiques, être un HTC U24 réhabillé, avec un assemblage réalisé aux États-Unis. L’information intervient alors que le mouvement du prix du token et le calendrier de lancement du produit mobile de marque Trump attirent l’attention. Le texte original n’indique pas que le T1 serait un téléphone entièrement nouveau ou conçu de façon indépendante. Le marché devrait désormais surveiller le début effectif des livraisons et la confirmation de l’identité du produit. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "انخفاض TRUMP بنسبة 5% مع ترقب شحن هاتف T1 الأسبوع المقبل",
-        "excerpt": "انخفض توكن TRUMP بنسبة 5% بينما تستعد Trump Mobile لبدء شحن هاتف T1 الأسبوع المقبل، وتقول CoinDesk إنه يبدو كنسخة معاد تغليفها من HTC U24 ومجمعة في الولايات المتحدة.",
-        "body": "انخفض توكن TRUMP بنسبة 5% مع توقع بدء شحن هاتف T1 من Trump Mobile الأسبوع المقبل. وبحسب CoinDesk، يبدو الجهاز من حيث الشكل والمواصفات كأنه نسخة معاد تغليفها من هاتف HTC U24، مع تنفيذ التجميع في الولايات المتحدة. جاء التقرير في وقت يتركز فيه الاهتمام على حركة سعر التوكن وجدول إطلاق المنتج المحمول المرتبط بعلامة ترامب. ولا يذكر النص الأصلي أن T1 هاتف جديد بالكامل أو مصمم بشكل مستقل. ومن المرجح أن يتجه تركيز السوق إلى بدء الشحن فعليا والتحقق من هوية المنتج. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "TRUMP टोकन 5% गिरा, T1 हैंडसेट की अगले सप्ताह शिपिंग पर नजर",
-        "excerpt": "TRUMP टोकन 5% गिरा, जबकि Trump Mobile का T1 हैंडसेट अगले सप्ताह शिप होना शुरू हो सकता है; CoinDesk के अनुसार यह अमेरिका में असेंबल किया गया री-स्किन HTC U24 लगता है।",
-        "body": "TRUMP टोकन 5% गिर गया, जबकि Trump Mobile का T1 हैंडसेट अगले सप्ताह शिप होना शुरू होने की उम्मीद है। CoinDesk के अनुसार, डिवाइस अपने डिजाइन और स्पेसिफिकेशन के आधार पर HTC U24 का री-स्किन मॉडल लगता है, जिसकी असेंबली अमेरिका में की गई है। यह रिपोर्ट ऐसे समय आई है जब टोकन की कीमत में बदलाव और Trump ब्रांड वाले मोबाइल उत्पाद की लॉन्च समयसीमा साथ-साथ चर्चा में हैं। मूल रिपोर्ट यह नहीं कहती कि T1 पूरी तरह नया या स्वतंत्र रूप से डिजाइन किया गया फोन है। बाजार का ध्यान अब वास्तविक शिपिंग शुरू होने और उत्पाद की पहचान की पुष्टि पर रहेगा। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "TRUMP Turun 5% Saat Ponsel T1 Siap Dikirim Pekan Depan",
-        "excerpt": "Token TRUMP turun 5% saat ponsel T1 dari Trump Mobile dijadwalkan mulai dikirim pekan depan; CoinDesk menyebut perangkat itu tampak seperti HTC U24 re-skinned yang dirakit di AS.",
-        "body": "Token TRUMP turun 5% ketika ponsel T1 dari Trump Mobile diperkirakan mulai dikirim pekan depan. Menurut CoinDesk, perangkat tersebut, dilihat dari tampilan dan spesifikasinya, tampak seperti HTC U24 yang diberi kulit ulang, dengan perakitan dilakukan di Amerika Serikat. Laporan ini muncul saat pergerakan harga token dan jadwal peluncuran produk seluler bermerek Trump sama-sama menjadi perhatian. Teks asli tidak menyatakan bahwa T1 adalah ponsel yang sepenuhnya baru atau dirancang secara independen. Fokus pasar kemungkinan beralih ke awal pengiriman aktual dan konfirmasi identitas produk. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "461ce31b147c",
-    "slug": "claude-helps-recover-395000-in-bitcoin-trapped-on-a-computer-859174",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T06:05:01.966Z",
-    "updatedAt": "2026-05-14T06:05:01.966Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/tech/2026/05/14/claude-helps-recover-usd395-000-in-bitcoin-trapped-on-a-computer-for-years",
-    "canonicalUrl": "https://www.coindesk.com/tech/2026/05/14/claude-helps-recover-usd395-000-in-bitcoin-trapped-on-a-computer-for-years",
-    "titleFingerprint": "7aedfa3ad496a0e90ba26f29cd08a2c2aaa3cbaa",
-    "dedupKeys": [
-      "461ce31b147c117e252d9bce16bfbe73c351d07c",
-      "7aedfa3ad496a0e90ba26f29cd08a2c2aaa3cbaa",
-      "e4739f85e5a7d0881238702b729bee7b0d50f350"
-    ],
-    "imageUrl": "/images/articles/461ce31b147c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "클로드, 수년간 묶인 39만5천달러 비트코인 복구 도와",
-        "excerpt": "수년간 컴퓨터에 묶여 있던 39만5천달러 상당 비트코인이 클로드의 도움으로 복구됐다. 소유자는 8주간 지갑 비밀번호를 무차별 대입했다.",
-        "body": "클로드가 수년간 한 컴퓨터에 갇혀 있던 39만5천달러 상당의 비트코인 복구를 도왔다. 해당 소유자는 현재 사용 중인 Blockchain.com 지갑의 비밀번호를 찾기 위해 8주 동안 무차별 대입 방식으로 복구를 시도했다. 이 과정에서 btcrecover 서비스를 이용했으며, 임대한 컴퓨팅 칩으로 약 3조5천억 개의 조합을 테스트했다. 이번 사례는 비트코인 지갑 접근권을 잃었을 때 복구가 얼마나 긴 시간과 연산 자원을 요구할 수 있는지를 보여준다. 다만 보도된 내용은 이 특정 복구 사례에 한정된다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Claude Helps Recover $395,000 in Bitcoin Locked Away for Years",
-        "excerpt": "Claude helped recover $395,000 worth of bitcoin that had been trapped on a computer for years after the owner spent eight weeks brute-forcing a wallet password.",
-        "body": "Claude helped recover $395,000 worth of bitcoin that had been locked on a computer for years. The owner had spent eight weeks trying to brute-force the password to their current Blockchain.com wallet. During the effort, they used the btcrecover service and tested roughly 3.5 trillion combinations with a rented computing chip. The case shows how much time and computing power may be required when access to a bitcoin wallet is lost. The reported details are limited to this specific recovery effort. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "Claude、数年間ロックされた39.5万ドル相当のビットコイン復旧を支援",
-        "excerpt": "数年間コンピューター内で動かせなかった39.5万ドル相当のビットコインが、Claudeの支援で復旧された。所有者は8週間、ウォレットのパスワードを総当たりで試した。",
-        "body": "Claudeは、数年間コンピューター上でロックされていた39.5万ドル相当のビットコインの復旧を支援した。所有者は現在利用しているBlockchain.comウォレットのパスワードを見つけるため、8週間にわたり総当たり方式で復旧を試みていた。この過程でbtcrecoverサービスを使い、レンタルしたコンピューティングチップで約3兆5,000億通りの組み合わせをテストした。今回の事例は、ビットコインウォレットへのアクセスを失った場合、復旧に長い時間と大きな計算資源が必要になり得ることを示している。ただし報道内容はこの特定の復旧事例に限られる。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Claude帮助找回被锁多年、价值39.5万美元的比特币",
-        "excerpt": "一笔被困在电脑中多年的39.5万美元比特币在Claude帮助下被找回。所有者曾连续8周暴力破解Blockchain.com钱包密码。",
-        "body": "Claude帮助找回了一笔被锁在电脑中多年的比特币，价值约39.5万美元。该所有者此前为了找回当前Blockchain.com钱包的密码，连续8周尝试暴力破解。在这一过程中，其使用btcrecover服务，并借助租用的计算芯片测试了约3.5万亿种组合。此案例显示，当比特币钱包访问权限丢失时，恢复过程可能需要很长时间和大量计算资源。不过，报道信息仅限于这一具体恢复案例。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Claude ayuda a recuperar 395.000 dólares en bitcoin bloqueados durante años",
-        "excerpt": "Claude ayudó a recuperar 395.000 dólares en bitcoin atrapados durante años en una computadora, tras ocho semanas de intentos de fuerza bruta sobre la contraseña del monedero.",
-        "body": "Claude ayudó a recuperar 395.000 dólares en bitcoin que habían permanecido bloqueados durante años en una computadora. El propietario llevaba ocho semanas intentando descifrar por fuerza bruta la contraseña de su monedero actual de Blockchain.com. Para ello utilizó el servicio btcrecover y probó alrededor de 3,5 billones de combinaciones con un chip de computación alquilado. El caso muestra cuánto tiempo y capacidad de cálculo puede requerir recuperar el acceso perdido a un monedero de bitcoin. La información reportada se limita a este caso específico de recuperación. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Claude ajuda a recuperar US$ 395 mil em bitcoin preso por anos",
-        "excerpt": "Claude ajudou a recuperar US$ 395 mil em bitcoin que estavam presos em um computador havia anos, após o dono passar oito semanas tentando a senha por força bruta.",
-        "body": "Claude ajudou a recuperar US$ 395 mil em bitcoin que estavam bloqueados em um computador havia anos. O proprietário vinha tentando por oito semanas descobrir, por força bruta, a senha de sua carteira atual da Blockchain.com. No processo, usou o serviço btcrecover e testou cerca de 3,5 trilhões de combinações com um chip de computação alugado. O caso mostra quanto tempo e capacidade computacional podem ser necessários quando o acesso a uma carteira de bitcoin é perdido. As informações relatadas se limitam a esse caso específico de recuperação. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Claude hilft, seit Jahren gesperrte Bitcoin im Wert von 395.000 Dollar zu retten",
-        "excerpt": "Claude half dabei, Bitcoin im Wert von 395.000 Dollar wiederherzustellen, die jahrelang auf einem Computer festsaßen. Der Besitzer testete acht Wochen lang Wallet-Passwörter per Brute Force.",
-        "body": "Claude half dabei, Bitcoin im Wert von 395.000 Dollar wiederherzustellen, die seit Jahren auf einem Computer gesperrt waren. Der Besitzer hatte acht Wochen lang versucht, das Passwort seiner aktuellen Blockchain.com-Wallet per Brute Force zu finden. Dabei nutzte er den Dienst btcrecover und testete mit einem gemieteten Rechenchip rund 3,5 Billionen Kombinationen. Der Fall zeigt, wie viel Zeit und Rechenleistung nötig sein können, wenn der Zugang zu einer Bitcoin-Wallet verloren geht. Die berichteten Angaben beziehen sich jedoch nur auf diesen konkreten Wiederherstellungsfall. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Claude aide à récupérer 395.000 dollars en bitcoin bloqués depuis des années",
-        "excerpt": "Claude a aidé à récupérer 395.000 dollars en bitcoin restés bloqués pendant des années sur un ordinateur, après huit semaines d’essais par force brute du mot de passe du portefeuille.",
-        "body": "Claude a aidé à récupérer 395.000 dollars en bitcoin qui étaient bloqués depuis des années sur un ordinateur. Le propriétaire tentait depuis huit semaines de retrouver par force brute le mot de passe de son portefeuille Blockchain.com actuel. Pour cela, il a utilisé le service btcrecover et testé environ 3,5 billions de combinaisons avec une puce de calcul louée. Ce cas montre le temps et les ressources informatiques que peut exiger la récupération d’un accès perdu à un portefeuille bitcoin. Les informations rapportées se limitent toutefois à ce cas précis de récupération. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "Claude يساعد في استعادة بيتكوين بقيمة 395 ألف دولار عالقة منذ سنوات",
-        "excerpt": "ساعد Claude في استعادة بيتكوين بقيمة 395 ألف دولار كانت عالقة على جهاز كمبيوتر لسنوات، بعدما حاول المالك ثمانية أسابيع كسر كلمة مرور المحفظة بالقوة الغاشمة.",
-        "body": "ساعد Claude في استعادة بيتكوين بقيمة 395 ألف دولار كانت مقفلة على جهاز كمبيوتر لسنوات. وكان المالك يحاول طوال ثمانية أسابيع الوصول إلى كلمة مرور محفظته الحالية على Blockchain.com باستخدام أسلوب القوة الغاشمة. وخلال العملية استخدم خدمة btcrecover، واختبر نحو 3.5 تريليون توليفة عبر شريحة حوسبة مستأجرة. توضح هذه الحالة مقدار الوقت والقدرة الحاسوبية اللذين قد يتطلبهما فقدان الوصول إلى محفظة بيتكوين. ومع ذلك، تقتصر المعلومات المنشورة على حالة الاستعادة المحددة هذه. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Claude ने वर्षों से फंसे 3.95 लाख डॉलर के बिटकॉइन वापस पाने में मदद की",
-        "excerpt": "Claude की मदद से कंप्यूटर में वर्षों से फंसे 3.95 लाख डॉलर मूल्य के बिटकॉइन वापस मिले। मालिक ने Blockchain.com वॉलेट पासवर्ड पर आठ हफ्ते तक ब्रूट-फोर्स प्रयास किया।",
-        "body": "Claude ने वर्षों से एक कंप्यूटर में फंसे 3.95 लाख डॉलर मूल्य के बिटकॉइन को वापस पाने में मदद की। मालिक अपने मौजूदा Blockchain.com वॉलेट का पासवर्ड खोजने के लिए आठ हफ्तों से ब्रूट-फोर्स तरीका आजमा रहा था। इस प्रक्रिया में btcrecover सेवा का उपयोग किया गया और किराए पर लिए गए कंप्यूटिंग चिप से लगभग 3.5 ट्रिलियन संयोजन जांचे गए। यह मामला दिखाता है कि बिटकॉइन वॉलेट की पहुंच खोने पर रिकवरी में कितना समय और कंप्यूटिंग संसाधन लग सकते हैं। हालांकि प्रकाशित जानकारी इसी विशेष रिकवरी मामले तक सीमित है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Claude bantu pulihkan bitcoin US$395 ribu yang terkunci bertahun-tahun",
-        "excerpt": "Claude membantu memulihkan bitcoin senilai US$395 ribu yang terjebak di komputer selama bertahun-tahun setelah pemiliknya delapan minggu mencoba kata sandi dompet secara brute force.",
-        "body": "Claude membantu memulihkan bitcoin senilai US$395 ribu yang terkunci di sebuah komputer selama bertahun-tahun. Pemiliknya telah mencoba selama delapan minggu untuk menebak kata sandi dompet Blockchain.com miliknya saat ini dengan metode brute force. Dalam proses itu, ia memakai layanan btcrecover dan menguji sekitar 3,5 triliun kombinasi menggunakan chip komputasi sewaan. Kasus ini menunjukkan bahwa kehilangan akses ke dompet bitcoin dapat membutuhkan waktu lama dan sumber daya komputasi besar untuk dipulihkan. Namun, informasi yang dilaporkan terbatas pada kasus pemulihan khusus ini. Sumber: coindesk.com"
       }
     }
   }

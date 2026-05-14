@@ -1,0 +1,75 @@
+{
+  "id": "1cdbbfe49718",
+  "slug": "apple-mac-m5-system-exploited-with-anthropic39s-claude-mytho-710319",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-14T21:51:25.741Z",
+  "updatedAt": "2026-05-14T21:51:25.741Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
+  "canonicalUrl": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
+  "titleFingerprint": "0691ba201637510420dfaba0199d2e4d09fbe048",
+  "dedupKeys": [
+    "1cdbbfe497182828ca9ebdc946d43b93cea5396d",
+    "0691ba201637510420dfaba0199d2e4d09fbe048",
+    "94c477c9c4aa41c2a6a5b657d8a3373f105616c1"
+  ],
+  "imageUrl": "/images/articles/1cdbbfe49718.png",
+  "i18n": {
+    "ko": {
+      "title": "Apple Mac M5 macOS 커널 익스플로잇, Claude Mythos AI 활용 주장",
+      "excerpt": "보안 스타트업 Calif는 연구진이 Anthropic의 Claude Mythos AI 프리뷰 버전을 활용해 Apple Mac M5 macOS 커널 익스플로잇 구축을 도왔다고 밝혔다.",
+      "body": "보안 스타트업 Calif는 연구진이 Anthropic의 Claude Mythos AI 프리뷰 버전을 활용해 Apple Mac M5 시스템의 macOS 커널 익스플로잇 구축을 도왔다고 주장했다. 이번 내용은 Apple 기기 보안과 생성형 AI 활용이 맞물린 사례로 제시됐다. 원문에 따르면 핵심은 Claude Mythos가 익스플로잇 개발 과정에서 보조 역할을 했다는 점이다. 다만 공개된 정보는 연구진의 주장과 Calif의 설명에 한정된다. 이번 사례는 AI 도구가 보안 연구에 쓰일 수 있다는 점을 보여주지만, 실제 영향 범위나 후속 조치는 원문에서 구체적으로 제시되지 않았다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "Apple Mac M5 macOS Kernel Exploit Built With Claude Mythos AI, Calif Claims",
+      "excerpt": "Security startup Calif said researchers used a preview version of Anthropic’s Claude Mythos AI to help build a macOS kernel exploit for Apple Mac M5.",
+      "body": "Security startup Calif claimed that researchers used a preview version of Anthropic’s Claude Mythos AI to help build a macOS kernel exploit targeting an Apple Mac M5 system. The report frames the case as an example where Apple device security and generative AI use intersect. According to the original report, the central point is that Claude Mythos assisted during the exploit development process. However, the available information is limited to the researchers’ claim and Calif’s explanation. The case shows that AI tools may be used in security research, but the original report did not specify the actual scope of impact or follow-up actions. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "Apple Mac M5のmacOSカーネル悪用、Claude Mythos AI活用とCalif主張",
+      "excerpt": "セキュリティ企業Califは、研究者がAnthropicのClaude Mythos AIプレビュー版を使い、Apple Mac M5向けmacOSカーネルエクスプロイト構築を支援したと述べた。",
+      "body": "セキュリティスタートアップのCalifは、研究者がAnthropicのClaude Mythos AIプレビュー版を活用し、Apple Mac M5システムのmacOSカーネルエクスプロイト構築を支援したと主張した。今回の内容は、Apple端末のセキュリティと生成AIの利用が交差する事例として示された。原文によると、焦点はClaude Mythosがエクスプロイト開発過程で補助的な役割を果たした点にある。ただし、公開情報は研究者の主張とCalifの説明に限られる。この事例はAIツールがセキュリティ研究に使われ得ることを示すが、実際の影響範囲や後続対応は原文で具体的に示されていない。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "Apple Mac M5 macOS内核漏洞利用被指借助Claude Mythos AI构建",
+      "excerpt": "安全初创公司Calif称，研究人员使用Anthropic的Claude Mythos AI预览版，帮助构建针对Apple Mac M5的macOS内核漏洞利用。",
+      "body": "安全初创公司Calif声称，研究人员使用Anthropic的Claude Mythos AI预览版，帮助构建了针对Apple Mac M5系统的macOS内核漏洞利用。该事件被呈现为Apple设备安全与生成式AI使用相交的案例。根据原文，核心在于Claude Mythos在漏洞利用开发过程中发挥了辅助作用。不过，目前公开信息仅限于研究人员的说法和Calif的说明。此案例显示AI工具可能被用于安全研究，但原文未具体说明实际影响范围或后续措施。来源: decrypt.co"
+    },
+    "es": {
+      "title": "Apple Mac M5 y macOS: Calif afirma un exploit creado con Claude Mythos AI",
+      "excerpt": "La startup de seguridad Calif dijo que investigadores usaron una versión preliminar de Claude Mythos AI de Anthropic para ayudar a crear un exploit del kernel de macOS en Apple Mac M5.",
+      "body": "La startup de seguridad Calif afirmó que investigadores usaron una versión preliminar de Claude Mythos AI de Anthropic para ayudar a construir un exploit del kernel de macOS dirigido a un sistema Apple Mac M5. El caso se presenta como un cruce entre la seguridad de dispositivos Apple y el uso de IA generativa. Según el reporte original, el punto central es que Claude Mythos asistió durante el proceso de desarrollo del exploit. Sin embargo, la información disponible se limita a la afirmación de los investigadores y la explicación de Calif. El caso muestra que las herramientas de IA pueden usarse en investigación de seguridad, pero el reporte no detalló el alcance real del impacto ni acciones posteriores. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "Apple Mac M5 tem exploit de kernel macOS ligado ao Claude Mythos AI, diz Calif",
+      "excerpt": "A startup de segurança Calif disse que pesquisadores usaram uma prévia do Claude Mythos AI, da Anthropic, para ajudar a criar um exploit de kernel do macOS no Apple Mac M5.",
+      "body": "A startup de segurança Calif afirmou que pesquisadores usaram uma versão prévia do Claude Mythos AI, da Anthropic, para ajudar a construir um exploit de kernel do macOS voltado a um sistema Apple Mac M5. O caso é apresentado como um exemplo da interseção entre segurança de dispositivos Apple e uso de IA generativa. Segundo o relato original, o ponto central é que o Claude Mythos auxiliou no processo de desenvolvimento do exploit. No entanto, as informações disponíveis se limitam à alegação dos pesquisadores e à explicação da Calif. O caso mostra que ferramentas de IA podem ser usadas em pesquisa de segurança, mas o texto original não detalhou o alcance real do impacto nem medidas posteriores. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "Apple Mac M5: macOS-Kernel-Exploit soll mit Claude Mythos AI entstanden sein",
+      "excerpt": "Das Sicherheits-Startup Calif erklärte, Forscher hätten eine Vorschauversion von Anthropics Claude Mythos AI genutzt, um einen macOS-Kernel-Exploit für Apple Mac M5 zu entwickeln.",
+      "body": "Das Sicherheits-Startup Calif behauptete, Forscher hätten eine Vorschauversion von Anthropics Claude Mythos AI genutzt, um beim Bau eines macOS-Kernel-Exploits für ein Apple-Mac-M5-System zu helfen. Der Fall wird als Beispiel dargestellt, in dem Apple-Gerätesicherheit und der Einsatz generativer KI aufeinandertreffen. Dem Originalbericht zufolge liegt der Kern darin, dass Claude Mythos den Entwicklungsprozess des Exploits unterstützte. Die verfügbaren Informationen beschränken sich jedoch auf die Aussage der Forscher und die Erklärung von Calif. Der Fall zeigt, dass KI-Werkzeuge in der Sicherheitsforschung genutzt werden können; konkrete Angaben zum tatsächlichen Ausmaß der Auswirkungen oder zu Folgemaßnahmen nennt der Originalbericht nicht. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "Apple Mac M5: un exploit du noyau macOS aurait utilisé Claude Mythos AI",
+      "excerpt": "La startup de sécurité Calif a déclaré que des chercheurs avaient utilisé une version préliminaire de Claude Mythos AI d’Anthropic pour aider à créer un exploit du noyau macOS sur Apple Mac M5.",
+      "body": "La startup de sécurité Calif a affirmé que des chercheurs avaient utilisé une version préliminaire de Claude Mythos AI d’Anthropic pour aider à construire un exploit du noyau macOS visant un système Apple Mac M5. L’affaire est présentée comme un cas où la sécurité des appareils Apple et l’usage de l’IA générative se croisent. Selon le rapport original, le point central est que Claude Mythos a joué un rôle d’assistance dans le développement de l’exploit. Toutefois, les informations disponibles se limitent à l’affirmation des chercheurs et aux explications de Calif. Ce cas montre que des outils d’IA peuvent être utilisés dans la recherche en sécurité, mais le rapport original ne précise pas l’ampleur réelle de l’impact ni les suites éventuelles. Source: decrypt.co"
+    },
+    "ar": {
+      "title": "Apple Mac M5: ادعاء ببناء استغلال لنواة macOS بمساعدة Claude Mythos AI",
+      "excerpt": "قالت شركة الأمن الناشئة Calif إن باحثين استخدموا نسخة معاينة من Claude Mythos AI التابعة لـAnthropic للمساعدة في بناء استغلال لنواة macOS على Apple Mac M5.",
+      "body": "زعمت شركة الأمن الناشئة Calif أن باحثين استخدموا نسخة معاينة من Claude Mythos AI التابعة لـAnthropic للمساعدة في بناء استغلال لنواة macOS يستهدف نظام Apple Mac M5. وتُعرض القضية كمثال على تقاطع أمن أجهزة Apple مع استخدام الذكاء الاصطناعي التوليدي. ووفق التقرير الأصلي، تتمثل النقطة الأساسية في أن Claude Mythos أدى دورا مساعدا خلال عملية تطوير الاستغلال. لكن المعلومات المتاحة تقتصر على ادعاء الباحثين وشرح Calif. يوضح هذا المثال أن أدوات الذكاء الاصطناعي قد تُستخدم في أبحاث الأمن، غير أن التقرير الأصلي لم يحدد نطاق التأثير الفعلي أو أي خطوات لاحقة. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "Apple Mac M5 macOS Kernel Exploit में Claude Mythos AI के इस्तेमाल का दावा",
+      "excerpt": "सुरक्षा स्टार्टअप Calif ने कहा कि शोधकर्ताओं ने Anthropic के Claude Mythos AI के प्रीव्यू संस्करण का उपयोग Apple Mac M5 के लिए macOS kernel exploit बनाने में मदद के लिए किया।",
+      "body": "सुरक्षा स्टार्टअप Calif ने दावा किया कि शोधकर्ताओं ने Anthropic के Claude Mythos AI के प्रीव्यू संस्करण का उपयोग Apple Mac M5 सिस्टम को लक्षित करने वाले macOS kernel exploit के निर्माण में मदद के लिए किया। यह मामला Apple डिवाइस सुरक्षा और generative AI उपयोग के मेल के उदाहरण के रूप में सामने रखा गया। मूल रिपोर्ट के अनुसार, मुख्य बात यह है कि Claude Mythos ने exploit विकास प्रक्रिया में सहायक भूमिका निभाई। हालांकि उपलब्ध जानकारी शोधकर्ताओं के दावे और Calif की व्याख्या तक सीमित है। यह मामला दिखाता है कि AI टूल सुरक्षा शोध में इस्तेमाल हो सकते हैं, लेकिन मूल रिपोर्ट ने वास्तविक प्रभाव के दायरे या आगे की कार्रवाइयों का विवरण नहीं दिया। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "Apple Mac M5 macOS Kernel Exploit Diklaim Dibantu Claude Mythos AI",
+      "excerpt": "Startup keamanan Calif mengatakan peneliti memakai versi pratinjau Claude Mythos AI dari Anthropic untuk membantu membangun exploit kernel macOS pada Apple Mac M5.",
+      "body": "Startup keamanan Calif mengklaim bahwa peneliti menggunakan versi pratinjau Claude Mythos AI dari Anthropic untuk membantu membangun exploit kernel macOS yang menargetkan sistem Apple Mac M5. Kasus ini disajikan sebagai contoh pertemuan antara keamanan perangkat Apple dan penggunaan AI generatif. Menurut laporan asli, poin utamanya adalah Claude Mythos berperan sebagai alat bantu dalam proses pengembangan exploit. Namun, informasi yang tersedia terbatas pada klaim peneliti dan penjelasan Calif. Kasus ini menunjukkan bahwa alat AI dapat digunakan dalam riset keamanan, tetapi laporan asli tidak merinci cakupan dampak nyata atau langkah lanjutan. Sumber: decrypt.co"
+    }
+  }
+}
