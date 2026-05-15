@@ -1,0 +1,75 @@
+{
+  "id": "0b7bc088dd80",
+  "slug": "lombard-finance-dumps-layerzero-will-use-chainlink-to-power--835588",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-15T21:10:55.479Z",
+  "updatedAt": "2026-05-15T21:10:55.479Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
+  "canonicalUrl": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
+  "titleFingerprint": "f47dcea1e25cfa45155b4724a868785df0174471",
+  "dedupKeys": [
+    "0b7bc088dd802faf8390f9377bc340505af8b77e",
+    "f47dcea1e25cfa45155b4724a868785df0174471",
+    "9600ace0ce5e6216b5212dcddb373fc6affde18d"
+  ],
+  "imageUrl": "/images/articles/0b7bc088dd80.png",
+  "i18n": {
+    "ko": {
+      "title": "롬바드 파이낸스, 레이어제로 떠나 체인링크로 10억달러 비트코인 자산 지원",
+      "excerpt": "비트코인 디파이 프로토콜 롬바드 파이낸스가 켈프 DAO 익스플로잇으로 2억9200만달러 손실이 발생한 뒤 레이어제로 대신 체인링크를 사용해 10억달러 규모 비트코인 자산을 지원한다.",
+      "body": "비트코인 디파이 프로토콜 롬바드 파이낸스가 레이어제로에서 자산을 옮기고 체인링크를 활용해 10억달러 규모의 비트코인 자산을 지원하기로 했다. 이번 결정은 켈프 DAO 익스플로잇으로 2억9200만달러 손실이 발생한 이후 나왔다. 롬바드 파이낸스는 기존 레이어제로 기반 운용에서 벗어나 체인링크를 새 인프라로 선택한다. 관련 수치는 이동 대상 자산 규모가 10억달러, 익스플로잇 손실 규모가 2억9200만달러라는 점에 집중된다. 이번 전환은 비트코인 디파이 자산 운용에서 크로스체인 인프라 선택이 더 민감한 이슈가 됐음을 보여준다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "Lombard Finance Leaves LayerZero, Taps Chainlink for $1B Bitcoin Assets",
+      "excerpt": "Bitcoin DeFi protocol Lombard Finance will move assets away from LayerZero and use Chainlink after the Kelp DAO exploit caused a $292 million loss.",
+      "body": "Bitcoin DeFi protocol Lombard Finance is moving assets away from LayerZero and will use Chainlink to support $1 billion in Bitcoin assets. The decision follows the Kelp DAO exploit, which led to a $292 million loss. Lombard Finance is shifting from its previous LayerZero-based setup and selecting Chainlink as its new infrastructure. The key figures are the $1 billion in Bitcoin assets involved and the $292 million lost in the exploit. The move shows that cross-chain infrastructure choices have become a more sensitive issue in Bitcoin DeFi asset operations. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "ロンバード・ファイナンス、LayerZero離脱しChainlinkで10億ドルBTC資産支援",
+      "excerpt": "ビットコインDeFiプロトコルのロンバード・ファイナンスは、Kelp DAOのエクスプロイトで2億9200万ドルの損失が出た後、LayerZeroから資産を移しChainlinkを利用する。",
+      "body": "ビットコインDeFiプロトコルのロンバード・ファイナンスは、LayerZeroから資産を移し、Chainlinkを使って10億ドル規模のビットコイン資産を支援する。今回の決定は、Kelp DAOのエクスプロイトにより2億9200万ドルの損失が発生した後に示された。ロンバード・ファイナンスは従来のLayerZeroベースの運用から離れ、新たなインフラとしてChainlinkを選ぶ。関連する主な数字は、移行対象の資産規模10億ドルと、エクスプロイトによる損失2億9200万ドルだ。この転換は、ビットコインDeFiの資産運用でクロスチェーンインフラの選択がより敏感な論点になったことを示している。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "Lombard Finance离开LayerZero，改用Chainlink支持10亿美元比特币资产",
+      "excerpt": "比特币DeFi协议Lombard Finance将在Kelp DAO漏洞事件造成2.92亿美元损失后，把资产从LayerZero迁出，并改用Chainlink支持10亿美元比特币资产。",
+      "body": "比特币DeFi协议Lombard Finance正将资产从LayerZero迁出，并将使用Chainlink支持10亿美元规模的比特币资产。该决定是在Kelp DAO漏洞事件导致2.92亿美元损失之后作出的。Lombard Finance将摆脱此前基于LayerZero的运行方式，选择Chainlink作为新的基础设施。相关核心数据集中在两点：迁移涉及10亿美元比特币资产，漏洞事件造成2.92亿美元损失。此次转向表明，在比特币DeFi资产运营中，跨链基础设施的选择已成为更加敏感的议题。来源: decrypt.co"
+    },
+    "es": {
+      "title": "Lombard Finance deja LayerZero y usará Chainlink para $1.000M en Bitcoin",
+      "excerpt": "El protocolo Bitcoin DeFi Lombard Finance moverá activos fuera de LayerZero y usará Chainlink tras el exploit de Kelp DAO que provocó pérdidas de $292 millones.",
+      "body": "El protocolo Bitcoin DeFi Lombard Finance está trasladando activos fuera de LayerZero y usará Chainlink para respaldar $1.000 millones en activos de Bitcoin. La decisión llega después del exploit de Kelp DAO, que provocó una pérdida de $292 millones. Lombard Finance dejará su operación basada en LayerZero y elegirá Chainlink como nueva infraestructura. Las cifras clave son los $1.000 millones en activos de Bitcoin implicados y los $292 millones perdidos en el exploit. El cambio muestra que la elección de infraestructura cross-chain se ha vuelto un asunto más sensible en la gestión de activos de Bitcoin DeFi. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "Lombard Finance deixa LayerZero e usará Chainlink em US$ 1 bi em Bitcoin",
+      "excerpt": "O protocolo Bitcoin DeFi Lombard Finance moverá ativos da LayerZero para a Chainlink após o exploit da Kelp DAO causar perda de US$ 292 milhões.",
+      "body": "O protocolo Bitcoin DeFi Lombard Finance está transferindo ativos para fora da LayerZero e usará a Chainlink para dar suporte a US$ 1 bilhão em ativos de Bitcoin. A decisão vem após o exploit da Kelp DAO, que levou a uma perda de US$ 292 milhões. A Lombard Finance deixará a operação baseada na LayerZero e escolherá a Chainlink como nova infraestrutura. Os principais números são US$ 1 bilhão em ativos de Bitcoin envolvidos e US$ 292 milhões perdidos no exploit. A mudança mostra que a escolha de infraestrutura cross-chain se tornou um tema mais sensível na gestão de ativos de Bitcoin DeFi. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "Lombard Finance verlässt LayerZero und nutzt Chainlink für 1 Mrd. USD Bitcoin",
+      "excerpt": "Das Bitcoin-DeFi-Protokoll Lombard Finance verlagert Assets weg von LayerZero und nutzt Chainlink, nachdem der Kelp-DAO-Exploit einen Verlust von 292 Mio. USD verursachte.",
+      "body": "Das Bitcoin-DeFi-Protokoll Lombard Finance verlagert Assets weg von LayerZero und wird Chainlink nutzen, um Bitcoin-Assets im Wert von 1 Milliarde US-Dollar zu unterstützen. Die Entscheidung folgt auf den Kelp-DAO-Exploit, der zu einem Verlust von 292 Millionen US-Dollar führte. Lombard Finance rückt damit von der bisherigen LayerZero-basierten Nutzung ab und wählt Chainlink als neue Infrastruktur. Die zentralen Zahlen sind 1 Milliarde US-Dollar an betroffenen Bitcoin-Assets und 292 Millionen US-Dollar Verlust durch den Exploit. Der Wechsel zeigt, dass die Wahl der Cross-Chain-Infrastruktur im Bitcoin-DeFi-Asset-Management sensibler geworden ist. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "Lombard Finance quitte LayerZero et choisit Chainlink pour 1 Md$ en Bitcoin",
+      "excerpt": "Le protocole Bitcoin DeFi Lombard Finance va déplacer ses actifs hors de LayerZero et utiliser Chainlink après l’exploit de Kelp DAO ayant causé 292 M$ de pertes.",
+      "body": "Le protocole Bitcoin DeFi Lombard Finance déplace ses actifs hors de LayerZero et utilisera Chainlink pour soutenir 1 milliard de dollars d’actifs en Bitcoin. Cette décision intervient après l’exploit de Kelp DAO, qui a entraîné une perte de 292 millions de dollars. Lombard Finance abandonne ainsi son fonctionnement basé sur LayerZero et choisit Chainlink comme nouvelle infrastructure. Les chiffres clés sont 1 milliard de dollars d’actifs Bitcoin concernés et 292 millions de dollars perdus lors de l’exploit. Ce changement montre que le choix de l’infrastructure cross-chain est devenu un sujet plus sensible dans la gestion des actifs Bitcoin DeFi. Source: decrypt.co"
+    },
+    "ar": {
+      "title": "لومبارد فاينانس تترك LayerZero وتستخدم Chainlink لأصول بيتكوين بـ1 مليار دولار",
+      "excerpt": "بروتوكول بيتكوين للتمويل اللامركزي لومبارد فاينانس سينقل أصوله من LayerZero إلى Chainlink بعد استغلال Kelp DAO الذي تسبب بخسارة 292 مليون دولار.",
+      "body": "تعمل لومبارد فاينانس، وهي بروتوكول بيتكوين للتمويل اللامركزي، على نقل أصولها بعيداً عن LayerZero وستستخدم Chainlink لدعم أصول بيتكوين بقيمة 1 مليار دولار. جاء القرار بعد استغلال Kelp DAO الذي أدى إلى خسارة 292 مليون دولار. وبذلك تبتعد لومبارد فاينانس عن التشغيل المعتمد سابقاً على LayerZero وتختار Chainlink كبنية تحتية جديدة. تتركز الأرقام الرئيسية في أصول بيتكوين بقيمة 1 مليار دولار وحجم خسارة الاستغلال البالغ 292 مليون دولار. يوضح هذا التحول أن اختيار بنية الربط عبر السلاسل أصبح قضية أكثر حساسية في إدارة أصول بيتكوين DeFi. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "Lombard Finance ने LayerZero छोड़ा, $1B Bitcoin एसेट्स के लिए Chainlink चुना",
+      "excerpt": "Bitcoin DeFi प्रोटोकॉल Lombard Finance, Kelp DAO exploit से $292 मिलियन नुकसान के बाद LayerZero से एसेट्स हटाकर Chainlink का उपयोग करेगा।",
+      "body": "Bitcoin DeFi प्रोटोकॉल Lombard Finance अपने एसेट्स LayerZero से हटा रहा है और $1 बिलियन मूल्य के Bitcoin एसेट्स को सपोर्ट करने के लिए Chainlink का उपयोग करेगा। यह फैसला Kelp DAO exploit के बाद आया, जिसमें $292 मिलियन का नुकसान हुआ। Lombard Finance पहले के LayerZero आधारित संचालन से हटकर Chainlink को नई इन्फ्रास्ट्रक्चर के रूप में चुन रहा है। मुख्य आंकड़े हैं: स्थानांतरित किए जाने वाले Bitcoin एसेट्स का आकार $1 बिलियन और exploit से हुआ $292 मिलियन नुकसान। यह बदलाव दिखाता है कि Bitcoin DeFi एसेट संचालन में cross-chain इन्फ्रास्ट्रक्चर का चुनाव अधिक संवेदनशील मुद्दा बन गया है। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "Lombard Finance Tinggalkan LayerZero, Pakai Chainlink untuk Aset Bitcoin $1 Miliar",
+      "excerpt": "Protokol Bitcoin DeFi Lombard Finance akan memindahkan aset dari LayerZero dan memakai Chainlink setelah eksploit Kelp DAO menyebabkan kerugian $292 juta.",
+      "body": "Protokol Bitcoin DeFi Lombard Finance sedang memindahkan aset dari LayerZero dan akan menggunakan Chainlink untuk mendukung aset Bitcoin senilai $1 miliar. Keputusan ini muncul setelah eksploit Kelp DAO yang menyebabkan kerugian $292 juta. Lombard Finance beralih dari penggunaan berbasis LayerZero sebelumnya dan memilih Chainlink sebagai infrastruktur baru. Angka utamanya adalah aset Bitcoin senilai $1 miliar yang akan didukung dan kerugian eksploit sebesar $292 juta. Perubahan ini menunjukkan bahwa pilihan infrastruktur cross-chain menjadi isu yang lebih sensitif dalam pengelolaan aset Bitcoin DeFi. Sumber: decrypt.co"
+    }
+  }
+}
