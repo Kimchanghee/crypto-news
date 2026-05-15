@@ -1,0 +1,75 @@
+{
+  "id": "224dca182358",
+  "slug": "lombard-joins-layerzero-exodus-as-4-billion-in-assets-switch-678934",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-15T16:18:17.945Z",
+  "updatedAt": "2026-05-15T16:18:17.946Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/business/2026/05/15/lombard-joins-layerzero-exodus-as-usd4-billion-in-assets-switch-to-chainlink-s-bridge",
+  "canonicalUrl": "https://www.coindesk.com/business/2026/05/15/lombard-joins-layerzero-exodus-as-usd4-billion-in-assets-switch-to-chainlink-s-bridge",
+  "titleFingerprint": "1e868db32ef29cae0dbfea9b5e59641342c5c6b8",
+  "dedupKeys": [
+    "224dca1823587644f8cc2829eb1994b07e083fd6",
+    "1e868db32ef29cae0dbfea9b5e59641342c5c6b8",
+    "256a201880d4cf201ece0e2dd0b204f31008a786"
+  ],
+  "imageUrl": "/images/articles/224dca182358.jpg",
+  "i18n": {
+    "ko": {
+      "title": "롬바드, 레이어제로 이탈 합류…40억 달러 자산 체인링크 브리지로 이동",
+      "excerpt": "롬바드는 최근 크로스체인 보안 우려가 커지는 가운데 레이어제로 기반 브리지에서 벗어나 40억 달러 규모 자산을 체인링크 브리지로 전환했다.",
+      "body": "롬바드가 최근 레이어제로 이탈 흐름에 합류하며 40억 달러 규모의 자산을 체인링크 브리지로 옮겼다. 이번 전환은 Kelp DAO 익스플로잇으로 레이어제로 기반 브리지에서 2억9,200만 달러가 유출된 뒤 이뤄졌다. 해당 사건은 크로스체인 인프라의 보안성에 대한 시장 우려를 키웠고, 자산 이동은 브리지 선택에서 보안 신뢰가 더 중요한 변수로 부상했음을 보여준다. 향후 크로스체인 프로젝트들은 브리지 기술과 위험 관리 체계에 대한 검증 압박을 더 크게 받을 전망이다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Lombard Joins LayerZero Exodus as $4B Moves to Chainlink Bridge",
+      "excerpt": "Lombard has shifted $4 billion in assets from a LayerZero-powered bridge to Chainlink’s bridge as cross-chain security concerns grow after the Kelp DAO exploit.",
+      "body": "Lombard has joined the recent LayerZero exodus by moving $4 billion in assets to Chainlink’s bridge. The shift followed the Kelp DAO exploit, which drained $292 million from a LayerZero-powered bridge. That incident intensified market concerns over the security of cross-chain infrastructure. The move shows that security trust is becoming a more important factor in bridge selection, especially for projects handling large asset flows. Cross-chain projects may now face greater pressure to prove both their bridge technology and risk management systems. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "LombardがLayerZero離脱に合流、40億ドル資産をChainlinkブリッジへ",
+      "excerpt": "LombardはKelp DAOの被害後に高まったクロスチェーンの安全性懸念を受け、LayerZero系ブリッジから40億ドル規模の資産をChainlinkへ移した。",
+      "body": "Lombardは最近、LayerZeroからの離脱の流れに加わり、40億ドル規模の資産をChainlinkのブリッジへ移した。今回の移行は、Kelp DAOのエクスプロイトによりLayerZeroを利用したブリッジから2億9,200万ドルが流出した後に行われた。この事件はクロスチェーンインフラの安全性に対する市場の懸念を強めた。今回の資産移動は、ブリッジ選択において安全性への信頼がより重要な要素になっていることを示す。今後、クロスチェーン関連プロジェクトには、ブリッジ技術とリスク管理体制の検証圧力がさらに高まる可能性がある。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "Lombard加入LayerZero出走潮，40亿美元资产转向Chainlink桥",
+      "excerpt": "Kelp DAO漏洞事件导致LayerZero驱动的桥损失2.92亿美元后，跨链安全担忧升温，Lombard将40亿美元资产转向Chainlink桥。",
+      "body": "Lombard近期加入LayerZero出走潮，将40亿美元规模的资产转移至Chainlink桥。此次转移发生在Kelp DAO漏洞事件之后，该事件从一个由LayerZero驱动的桥中盗走2.92亿美元。事件加剧了市场对跨链基础设施安全性的担忧。此次资产迁移显示，在选择桥方案时，安全信任正成为更重要的因素，尤其是对承载大规模资产流动的项目而言。未来，跨链项目可能面临更大压力，以证明其桥技术和风险管理体系的可靠性。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Lombard se suma al éxodo de LayerZero y mueve $4.000M a Chainlink",
+      "excerpt": "Lombard trasladó $4.000 millones en activos desde un puente basado en LayerZero hacia Chainlink tras el exploit de Kelp DAO y las crecientes dudas de seguridad cross-chain.",
+      "body": "Lombard se sumó recientemente al éxodo de LayerZero al mover $4.000 millones en activos al puente de Chainlink. El cambio llegó después del exploit de Kelp DAO, que drenó $292 millones de un puente impulsado por LayerZero. Ese incidente elevó las preocupaciones del mercado sobre la seguridad de la infraestructura cross-chain. El movimiento muestra que la confianza en la seguridad se está volviendo un factor más relevante al elegir puentes, especialmente para proyectos que manejan grandes flujos de activos. En adelante, los proyectos cross-chain podrían enfrentar más presión para demostrar la solidez de su tecnología de puente y de sus sistemas de gestión de riesgos. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Lombard adere ao êxodo da LayerZero e leva US$ 4 bi à Chainlink",
+      "excerpt": "A Lombard transferiu US$ 4 bilhões em ativos de uma ponte baseada na LayerZero para a Chainlink após o exploit da Kelp DAO elevar preocupações com segurança cross-chain.",
+      "body": "A Lombard aderiu recentemente ao êxodo da LayerZero ao transferir US$ 4 bilhões em ativos para a ponte da Chainlink. A mudança ocorreu após o exploit da Kelp DAO, que drenou US$ 292 milhões de uma ponte alimentada pela LayerZero. O episódio aumentou as preocupações do mercado com a segurança da infraestrutura cross-chain. A movimentação mostra que a confiança em segurança está se tornando um fator mais importante na escolha de pontes, sobretudo para projetos que movimentam grandes volumes de ativos. Daqui em diante, projetos cross-chain podem sofrer mais pressão para comprovar sua tecnologia de ponte e seus sistemas de gestão de risco. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Lombard folgt LayerZero-Exodus: 4 Mrd. Dollar wechseln zu Chainlink",
+      "excerpt": "Lombard verlagert 4 Milliarden Dollar an Vermögenswerten von einer LayerZero-basierten Bridge zu Chainlink, nachdem der Kelp-DAO-Exploit neue Sicherheitsbedenken ausgelöst hat.",
+      "body": "Lombard hat sich zuletzt dem LayerZero-Exodus angeschlossen und Vermögenswerte im Umfang von 4 Milliarden Dollar auf die Bridge von Chainlink verlagert. Der Wechsel erfolgte nach dem Kelp-DAO-Exploit, bei dem 292 Millionen Dollar aus einer von LayerZero betriebenen Bridge abgezogen wurden. Der Vorfall verstärkte die Sorgen des Marktes über die Sicherheit von Cross-Chain-Infrastruktur. Die Bewegung zeigt, dass Sicherheitsvertrauen bei der Auswahl von Bridges zu einem wichtigeren Faktor wird, besonders für Projekte mit großen Asset-Strömen. Cross-Chain-Projekte dürften künftig stärker unter Druck geraten, ihre Bridge-Technologie und ihr Risikomanagement nachzuweisen. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Lombard rejoint l’exode LayerZero et transfère 4 Md$ vers Chainlink",
+      "excerpt": "Lombard a déplacé 4 milliards de dollars d’actifs d’un pont basé sur LayerZero vers Chainlink après l’exploit de Kelp DAO et la montée des inquiétudes de sécurité cross-chain.",
+      "body": "Lombard a récemment rejoint le mouvement de départ de LayerZero en transférant 4 milliards de dollars d’actifs vers le pont de Chainlink. Ce changement intervient après l’exploit de Kelp DAO, qui a vidé 292 millions de dollars d’un pont alimenté par LayerZero. L’incident a renforcé les inquiétudes du marché sur la sécurité des infrastructures cross-chain. Ce transfert montre que la confiance en matière de sécurité devient un critère plus important dans le choix des ponts, surtout pour les projets gérant d’importants flux d’actifs. Les projets cross-chain pourraient désormais subir une pression accrue pour démontrer la robustesse de leur technologie de pont et de leurs systèmes de gestion des risques. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "لومبارد تنضم إلى نزوح LayerZero وتنقل 4 مليارات دولار إلى Chainlink",
+      "excerpt": "نقلت لومبارد أصولا بقيمة 4 مليارات دولار من جسر مدعوم بـLayerZero إلى جسر Chainlink بعد استغلال Kelp DAO وتزايد مخاوف أمن البنية العابرة للسلاسل.",
+      "body": "انضمت لومبارد مؤخرا إلى موجة الابتعاد عن LayerZero عبر نقل أصول بقيمة 4 مليارات دولار إلى جسر Chainlink. وجاء هذا التحول بعد استغلال Kelp DAO، الذي أدى إلى سحب 292 مليون دولار من جسر مدعوم بتقنية LayerZero. زاد ذلك الحادث مخاوف السوق بشأن أمن البنية التحتية العابرة للسلاسل. وتوضح هذه الخطوة أن الثقة الأمنية أصبحت عاملا أكثر أهمية عند اختيار الجسور، خصوصا للمشاريع التي تتعامل مع تدفقات كبيرة من الأصول. وقد تواجه مشاريع الكروس تشين ضغطا أكبر لإثبات قوة تقنيات الجسور وأنظمة إدارة المخاطر لديها. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "Lombard LayerZero से हटकर Chainlink ब्रिज पर ले गया $4 अरब संपत्ति",
+      "excerpt": "Kelp DAO exploit में LayerZero-powered ब्रिज से $292 मिलियन निकलने के बाद सुरक्षा चिंताएं बढ़ीं और Lombard ने $4 अरब की संपत्ति Chainlink ब्रिज पर स्थानांतरित की।",
+      "body": "Lombard ने हाल में LayerZero से दूरी बनाने वाली परियोजनाओं की कतार में शामिल होकर $4 अरब की संपत्ति Chainlink के ब्रिज पर स्थानांतरित की। यह बदलाव Kelp DAO exploit के बाद हुआ, जिसमें LayerZero-powered ब्रिज से $292 मिलियन निकल गए थे। इस घटना ने cross-chain infrastructure की सुरक्षा को लेकर बाजार की चिंताएं बढ़ा दीं। यह संपत्ति स्थानांतरण दिखाता है कि ब्रिज चुनते समय सुरक्षा पर भरोसा अब अधिक महत्वपूर्ण कारक बन रहा है, खासकर उन परियोजनाओं के लिए जो बड़े asset flows संभालती हैं। आगे cross-chain परियोजनाओं पर अपनी ब्रिज तकनीक और risk management systems साबित करने का दबाव बढ़ सकता है। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Lombard Ikut Eksodus LayerZero, Aset $4 Miliar Pindah ke Chainlink",
+      "excerpt": "Lombard memindahkan aset senilai $4 miliar dari bridge berbasis LayerZero ke Chainlink setelah exploit Kelp DAO memperbesar kekhawatiran keamanan cross-chain.",
+      "body": "Lombard baru-baru ini ikut dalam arus eksodus dari LayerZero dengan memindahkan aset senilai $4 miliar ke bridge Chainlink. Peralihan ini terjadi setelah exploit Kelp DAO menguras $292 juta dari bridge yang didukung LayerZero. Insiden tersebut meningkatkan kekhawatiran pasar terhadap keamanan infrastruktur cross-chain. Pergerakan aset ini menunjukkan bahwa kepercayaan pada keamanan menjadi faktor yang makin penting dalam pemilihan bridge, terutama bagi proyek yang menangani arus aset besar. Ke depan, proyek cross-chain dapat menghadapi tekanan lebih besar untuk membuktikan teknologi bridge dan sistem manajemen risikonya. Sumber: coindesk.com"
+    }
+  }
+}
