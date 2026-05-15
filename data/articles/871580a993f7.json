@@ -1,0 +1,75 @@
+{
+  "id": "871580a993f7",
+  "slug": "애플은-안-뚫립니다-5일뒤-뚫렸다최악의-ai해커-만든-앤스로픽-782863",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-15T23:54:27.921Z",
+  "updatedAt": "2026-05-15T23:54:27.921Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/it/12049902",
+  "canonicalUrl": "https://www.mk.co.kr/news/it/12049902",
+  "titleFingerprint": "1e0b07d42dd383585c02186638b349599ec8c0cc",
+  "dedupKeys": [
+    "871580a993f737f6e14e64d2a10c3ce144a41f7e",
+    "1e0b07d42dd383585c02186638b349599ec8c0cc",
+    "7a9eaa3e4747d6767636e58b42aa0fd8358c5e29"
+  ],
+  "imageUrl": "/images/articles/871580a993f7.jpg",
+  "i18n": {
+    "ko": {
+      "title": "애플 최신 보안 뚫은 AI 해킹 실험, 앤스로픽 ‘미토스’ 5일 만에 코드 생성",
+      "excerpt": "미국 보안업체가 테스트 과정에서 앤스로픽의 AI 미토스를 활용해 애플 최신 보안 기술로 보호되던 맥OS 해킹 우회 코드를 5일 만에 만든 사례가 공개됐다.",
+      "body": "애플의 최신 보안 기술로 보호되던 맥OS에서 AI를 활용한 새로운 해킹 우회 기법이 확인됐다. 미국 보안업체는 테스트 과정에서 앤스로픽이 만든 AI 미토스를 활용해 맥OS 해킹 코드를 만드는 데 단 5일이 걸렸다고 밝혔다. 이번 사례는 보안 강화를 내세운 애플 환경에서도 생성형 AI가 취약점 탐색과 코드 작성에 악용될 수 있음을 보여준다. 관련 수치로는 해킹 코드 생성까지 걸린 시간이 5일이었다는 점이 핵심이다. 업계는 AI 기반 공격 도구가 보안 검증 방식에 부담을 키울 수 있다고 본다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "AI Hacking Test Breaches Apple macOS Defenses as Anthropic’s Mythos Builds Code in 5 Days",
+      "excerpt": "A U.S. security firm said Anthropic’s AI Mythos created macOS hacking bypass code in just five days during testing, despite Apple’s latest security protections.",
+      "body": "A new AI-assisted hacking bypass technique was identified in macOS, which had been protected by Apple’s latest security technology. During a test, a U.S. security firm said it used Anthropic’s AI Mythos to create macOS hacking code, and the process took only five days. The case shows that even Apple’s security-focused environment can face risks when generative AI is used to search for weaknesses and write attack code. The key figure is the five-day timeline for producing the hacking code. The industry is expected to face greater pressure on security verification as AI-based attack tools advance. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "Apple最新防御をAI実験が突破、AnthropicのMythosが5日でmacOS攻撃コード生成",
+      "excerpt": "米セキュリティ企業はテスト中、AnthropicのAI「Mythos」を使い、Appleの最新保護下にあるmacOS向け回避コードをわずか5日で作成したと明らかにした。",
+      "body": "Appleの最新セキュリティ技術で保護されていたmacOSで、AIを活用した新たなハッキング回避手法が確認された。米セキュリティ企業はテスト過程で、Anthropicが開発したAI「Mythos」を使い、macOSのハッキングコード作成に要した時間はわずか5日だったと説明した。今回の事例は、セキュリティ強化を掲げるApple環境でも、生成AIが脆弱性探索やコード作成に悪用され得ることを示す。重要な数値は、コード生成まで5日だった点だ。業界では、AIベースの攻撃ツールがセキュリティ検証の負担を高める可能性があるとみられている。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "苹果最新macOS防线遭AI测试突破，Anthropic的Mythos仅5天生成攻击代码",
+      "excerpt": "一家美国安全公司在测试中称，使用Anthropic的AI Mythos，仅用5天就为受苹果最新安全技术保护的macOS生成了黑客绕过代码。",
+      "body": "受苹果最新安全技术保护的macOS中，出现了一种利用AI的新型黑客绕过方法。美国一家安全公司表示，在测试过程中使用Anthropic开发的AI Mythos生成macOS黑客代码，仅耗时5天。该案例显示，即便是在强调安全强化的苹果环境中，生成式AI也可能被用于寻找弱点并编写攻击代码。相关核心数字是，从开始到生成黑客代码只用了5天。业界认为，随着AI型攻击工具的发展，现有安全验证方式可能面临更大压力。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Prueba de IA supera defensas de macOS: Mythos de Anthropic crea código en 5 días",
+      "excerpt": "Una firma de seguridad de EE. UU. dijo que, durante una prueba, usó la IA Mythos de Anthropic para crear en solo cinco días código de evasión contra macOS protegido por Apple.",
+      "body": "Una nueva técnica de evasión de hacking asistida por IA fue detectada en macOS, pese a estar protegido por la tecnología de seguridad más reciente de Apple. Una firma de seguridad de Estados Unidos afirmó que, durante una prueba, utilizó Mythos, la IA creada por Anthropic, para generar código de hacking para macOS, y que el proceso tomó solo cinco días. El caso muestra que incluso el entorno de Apple, centrado en reforzar la seguridad, puede verse expuesto si la IA generativa se usa para buscar debilidades y escribir código de ataque. La cifra clave es el plazo de cinco días. La industria prevé más presión sobre la verificación de seguridad. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Teste de IA rompe defesas do macOS: Mythos da Anthropic cria código em 5 dias",
+      "excerpt": "Uma empresa de segurança dos EUA disse que usou a IA Mythos, da Anthropic, para criar em apenas cinco dias código de evasão contra o macOS protegido pela tecnologia recente da Apple.",
+      "body": "Uma nova técnica de evasão de hacking com uso de IA foi identificada no macOS, mesmo sob a proteção da tecnologia de segurança mais recente da Apple. Uma empresa de segurança dos Estados Unidos afirmou que, durante um teste, utilizou o Mythos, IA criada pela Anthropic, para produzir código de hacking para macOS, processo que levou apenas cinco dias. O caso mostra que até o ambiente da Apple, voltado ao reforço de segurança, pode enfrentar riscos quando IA generativa é usada para buscar falhas e escrever código de ataque. O dado central é o prazo de cinco dias para gerar o código. O setor vê maior pressão sobre a verificação de segurança. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "KI-Test durchbricht Apples macOS-Schutz: Anthropics Mythos schreibt Code in 5 Tagen",
+      "excerpt": "Eine US-Sicherheitsfirma erklärte, sie habe im Test Anthropics KI Mythos genutzt, um binnen fünf Tagen Umgehungscode für ein durch Apples neue Sicherheit geschütztes macOS zu erstellen.",
+      "body": "In macOS, das durch Apples neueste Sicherheitstechnologie geschützt war, wurde eine neue KI-gestützte Umgehungsmethode für Hacking entdeckt. Eine US-Sicherheitsfirma teilte mit, sie habe im Test Anthropics KI Mythos eingesetzt, um Hacking-Code für macOS zu erstellen; dafür seien nur fünf Tage nötig gewesen. Der Fall zeigt, dass auch Apples auf Sicherheit ausgerichtete Umgebung Risiken ausgesetzt sein kann, wenn generative KI zur Schwachstellensuche und Code-Erstellung missbraucht wird. Die zentrale Kennzahl ist die Dauer von fünf Tagen bis zur Code-Erzeugung. Die Branche rechnet mit wachsendem Druck auf Sicherheitsprüfungen. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Test IA contre macOS: Mythos d’Anthropic génère un code de contournement en 5 jours",
+      "excerpt": "Une société de sécurité américaine affirme avoir utilisé l’IA Mythos d’Anthropic pour créer en cinq jours un code de contournement visant macOS malgré les protections récentes d’Apple.",
+      "body": "Une nouvelle méthode de contournement de piratage assistée par IA a été identifiée dans macOS, pourtant protégé par la technologie de sécurité la plus récente d’Apple. Une société de sécurité américaine a indiqué qu’au cours d’un test, elle avait utilisé Mythos, l’IA développée par Anthropic, pour créer du code de piratage destiné à macOS, en seulement cinq jours. Ce cas montre que même l’environnement d’Apple, axé sur le renforcement de la sécurité, peut être exposé si l’IA générative sert à chercher des failles et à écrire du code d’attaque. Le chiffre clé est ce délai de cinq jours. Le secteur anticipe une pression accrue sur les contrôles de sécurité. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "اختبار ذكاء اصطناعي يخترق دفاعات macOS: ميثوس من أنثروبيك يكتب الكود خلال 5 أيام",
+      "excerpt": "قالت شركة أمنية أمريكية إنها استخدمت في اختبار ذكاء ميثوس من أنثروبيك لإنشاء كود تجاوز يستهدف macOS المحمي بأحدث تقنيات آبل خلال خمسة أيام فقط.",
+      "body": "تم رصد أسلوب جديد لتجاوز الحماية في macOS باستخدام الذكاء الاصطناعي، رغم أن النظام كان محميا بأحدث تقنيات آبل الأمنية. وقالت شركة أمنية أمريكية إنها استخدمت خلال اختبار ذكاء ميثوس الذي طورته أنثروبيك لإنشاء كود اختراق لنظام macOS، واستغرق ذلك خمسة أيام فقط. وتوضح هذه الحالة أن بيئة آبل التي تركز على تعزيز الأمان قد تتعرض لمخاطر عندما يستخدم الذكاء الاصطناعي التوليدي في البحث عن الثغرات وكتابة كود هجومي. الرقم الأبرز هو مدة الأيام الخمسة اللازمة لإنشاء الكود. ويتوقع القطاع ضغطا أكبر على عمليات التحقق الأمني مع تطور أدوات الهجوم المعتمدة على الذكاء الاصطناعي. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "Apple macOS सुरक्षा पर AI परीक्षण भारी, Anthropic के Mythos ने 5 दिन में कोड बनाया",
+      "excerpt": "अमेरिकी सुरक्षा कंपनी ने कहा कि परीक्षण में Anthropic के AI Mythos से Apple की नई सुरक्षा से सुरक्षित macOS के लिए हैकिंग बायपास कोड केवल पांच दिन में बनाया गया।",
+      "body": "Apple की नवीनतम सुरक्षा तकनीक से सुरक्षित macOS में AI का उपयोग करने वाली नई हैकिंग बायपास तकनीक की पहचान हुई। एक अमेरिकी सुरक्षा कंपनी ने बताया कि परीक्षण के दौरान Anthropic द्वारा बनाए गए AI Mythos का उपयोग कर macOS हैकिंग कोड तैयार किया गया और इसमें केवल पांच दिन लगे। यह मामला दिखाता है कि सुरक्षा को मजबूत बताने वाले Apple परिवेश में भी जनरेटिव AI का इस्तेमाल कमजोरियां खोजने और हमलावर कोड लिखने के लिए किया जा सकता है। मुख्य आंकड़ा यह है कि हैकिंग कोड बनाने में पांच दिन लगे। उद्योग को लगता है कि AI आधारित हमलावर उपकरण सुरक्षा जांच पर अधिक दबाव डाल सकते हैं। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Uji AI Tembus Keamanan macOS Apple, Mythos Anthropic Buat Kode dalam 5 Hari",
+      "excerpt": "Perusahaan keamanan AS mengatakan dalam pengujian, AI Mythos dari Anthropic dipakai untuk membuat kode bypass peretasan macOS yang dilindungi teknologi terbaru Apple hanya dalam lima hari.",
+      "body": "Teknik bypass peretasan baru berbasis AI teridentifikasi pada macOS yang dilindungi teknologi keamanan terbaru Apple. Sebuah perusahaan keamanan Amerika Serikat mengatakan bahwa dalam proses pengujian, mereka menggunakan AI Mythos buatan Anthropic untuk membuat kode peretasan macOS, dan proses itu hanya memakan waktu lima hari. Kasus ini menunjukkan bahwa lingkungan Apple yang menekankan penguatan keamanan tetap dapat menghadapi risiko jika AI generatif dipakai untuk mencari kelemahan dan menulis kode serangan. Angka utama dalam laporan ini adalah waktu lima hari hingga kode peretasan dibuat. Industri menilai alat serangan berbasis AI dapat menambah beban verifikasi keamanan. Sumber: mk.co.kr"
+    }
+  }
+}

@@ -1,5 +1,230 @@
 [
   {
+    "id": "871580a993f7",
+    "slug": "애플은-안-뚫립니다-5일뒤-뚫렸다최악의-ai해커-만든-앤스로픽-782863",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-15T23:54:27.921Z",
+    "updatedAt": "2026-05-15T23:54:27.921Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12049902",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12049902",
+    "titleFingerprint": "1e0b07d42dd383585c02186638b349599ec8c0cc",
+    "dedupKeys": [
+      "871580a993f737f6e14e64d2a10c3ce144a41f7e",
+      "1e0b07d42dd383585c02186638b349599ec8c0cc",
+      "7a9eaa3e4747d6767636e58b42aa0fd8358c5e29"
+    ],
+    "imageUrl": "/images/articles/871580a993f7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "애플 최신 보안 뚫은 AI 해킹 실험, 앤스로픽 ‘미토스’ 5일 만에 코드 생성",
+        "excerpt": "미국 보안업체가 테스트 과정에서 앤스로픽의 AI 미토스를 활용해 애플 최신 보안 기술로 보호되던 맥OS 해킹 우회 코드를 5일 만에 만든 사례가 공개됐다.",
+        "body": "애플의 최신 보안 기술로 보호되던 맥OS에서 AI를 활용한 새로운 해킹 우회 기법이 확인됐다. 미국 보안업체는 테스트 과정에서 앤스로픽이 만든 AI 미토스를 활용해 맥OS 해킹 코드를 만드는 데 단 5일이 걸렸다고 밝혔다. 이번 사례는 보안 강화를 내세운 애플 환경에서도 생성형 AI가 취약점 탐색과 코드 작성에 악용될 수 있음을 보여준다. 관련 수치로는 해킹 코드 생성까지 걸린 시간이 5일이었다는 점이 핵심이다. 업계는 AI 기반 공격 도구가 보안 검증 방식에 부담을 키울 수 있다고 본다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Hacking Test Breaches Apple macOS Defenses as Anthropic’s Mythos Builds Code in 5 Days",
+        "excerpt": "A U.S. security firm said Anthropic’s AI Mythos created macOS hacking bypass code in just five days during testing, despite Apple’s latest security protections.",
+        "body": "A new AI-assisted hacking bypass technique was identified in macOS, which had been protected by Apple’s latest security technology. During a test, a U.S. security firm said it used Anthropic’s AI Mythos to create macOS hacking code, and the process took only five days. The case shows that even Apple’s security-focused environment can face risks when generative AI is used to search for weaknesses and write attack code. The key figure is the five-day timeline for producing the hacking code. The industry is expected to face greater pressure on security verification as AI-based attack tools advance. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "Apple最新防御をAI実験が突破、AnthropicのMythosが5日でmacOS攻撃コード生成",
+        "excerpt": "米セキュリティ企業はテスト中、AnthropicのAI「Mythos」を使い、Appleの最新保護下にあるmacOS向け回避コードをわずか5日で作成したと明らかにした。",
+        "body": "Appleの最新セキュリティ技術で保護されていたmacOSで、AIを活用した新たなハッキング回避手法が確認された。米セキュリティ企業はテスト過程で、Anthropicが開発したAI「Mythos」を使い、macOSのハッキングコード作成に要した時間はわずか5日だったと説明した。今回の事例は、セキュリティ強化を掲げるApple環境でも、生成AIが脆弱性探索やコード作成に悪用され得ることを示す。重要な数値は、コード生成まで5日だった点だ。業界では、AIベースの攻撃ツールがセキュリティ検証の負担を高める可能性があるとみられている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "苹果最新macOS防线遭AI测试突破，Anthropic的Mythos仅5天生成攻击代码",
+        "excerpt": "一家美国安全公司在测试中称，使用Anthropic的AI Mythos，仅用5天就为受苹果最新安全技术保护的macOS生成了黑客绕过代码。",
+        "body": "受苹果最新安全技术保护的macOS中，出现了一种利用AI的新型黑客绕过方法。美国一家安全公司表示，在测试过程中使用Anthropic开发的AI Mythos生成macOS黑客代码，仅耗时5天。该案例显示，即便是在强调安全强化的苹果环境中，生成式AI也可能被用于寻找弱点并编写攻击代码。相关核心数字是，从开始到生成黑客代码只用了5天。业界认为，随着AI型攻击工具的发展，现有安全验证方式可能面临更大压力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Prueba de IA supera defensas de macOS: Mythos de Anthropic crea código en 5 días",
+        "excerpt": "Una firma de seguridad de EE. UU. dijo que, durante una prueba, usó la IA Mythos de Anthropic para crear en solo cinco días código de evasión contra macOS protegido por Apple.",
+        "body": "Una nueva técnica de evasión de hacking asistida por IA fue detectada en macOS, pese a estar protegido por la tecnología de seguridad más reciente de Apple. Una firma de seguridad de Estados Unidos afirmó que, durante una prueba, utilizó Mythos, la IA creada por Anthropic, para generar código de hacking para macOS, y que el proceso tomó solo cinco días. El caso muestra que incluso el entorno de Apple, centrado en reforzar la seguridad, puede verse expuesto si la IA generativa se usa para buscar debilidades y escribir código de ataque. La cifra clave es el plazo de cinco días. La industria prevé más presión sobre la verificación de seguridad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Teste de IA rompe defesas do macOS: Mythos da Anthropic cria código em 5 dias",
+        "excerpt": "Uma empresa de segurança dos EUA disse que usou a IA Mythos, da Anthropic, para criar em apenas cinco dias código de evasão contra o macOS protegido pela tecnologia recente da Apple.",
+        "body": "Uma nova técnica de evasão de hacking com uso de IA foi identificada no macOS, mesmo sob a proteção da tecnologia de segurança mais recente da Apple. Uma empresa de segurança dos Estados Unidos afirmou que, durante um teste, utilizou o Mythos, IA criada pela Anthropic, para produzir código de hacking para macOS, processo que levou apenas cinco dias. O caso mostra que até o ambiente da Apple, voltado ao reforço de segurança, pode enfrentar riscos quando IA generativa é usada para buscar falhas e escrever código de ataque. O dado central é o prazo de cinco dias para gerar o código. O setor vê maior pressão sobre a verificação de segurança. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI-Test durchbricht Apples macOS-Schutz: Anthropics Mythos schreibt Code in 5 Tagen",
+        "excerpt": "Eine US-Sicherheitsfirma erklärte, sie habe im Test Anthropics KI Mythos genutzt, um binnen fünf Tagen Umgehungscode für ein durch Apples neue Sicherheit geschütztes macOS zu erstellen.",
+        "body": "In macOS, das durch Apples neueste Sicherheitstechnologie geschützt war, wurde eine neue KI-gestützte Umgehungsmethode für Hacking entdeckt. Eine US-Sicherheitsfirma teilte mit, sie habe im Test Anthropics KI Mythos eingesetzt, um Hacking-Code für macOS zu erstellen; dafür seien nur fünf Tage nötig gewesen. Der Fall zeigt, dass auch Apples auf Sicherheit ausgerichtete Umgebung Risiken ausgesetzt sein kann, wenn generative KI zur Schwachstellensuche und Code-Erstellung missbraucht wird. Die zentrale Kennzahl ist die Dauer von fünf Tagen bis zur Code-Erzeugung. Die Branche rechnet mit wachsendem Druck auf Sicherheitsprüfungen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Test IA contre macOS: Mythos d’Anthropic génère un code de contournement en 5 jours",
+        "excerpt": "Une société de sécurité américaine affirme avoir utilisé l’IA Mythos d’Anthropic pour créer en cinq jours un code de contournement visant macOS malgré les protections récentes d’Apple.",
+        "body": "Une nouvelle méthode de contournement de piratage assistée par IA a été identifiée dans macOS, pourtant protégé par la technologie de sécurité la plus récente d’Apple. Une société de sécurité américaine a indiqué qu’au cours d’un test, elle avait utilisé Mythos, l’IA développée par Anthropic, pour créer du code de piratage destiné à macOS, en seulement cinq jours. Ce cas montre que même l’environnement d’Apple, axé sur le renforcement de la sécurité, peut être exposé si l’IA générative sert à chercher des failles et à écrire du code d’attaque. Le chiffre clé est ce délai de cinq jours. Le secteur anticipe une pression accrue sur les contrôles de sécurité. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "اختبار ذكاء اصطناعي يخترق دفاعات macOS: ميثوس من أنثروبيك يكتب الكود خلال 5 أيام",
+        "excerpt": "قالت شركة أمنية أمريكية إنها استخدمت في اختبار ذكاء ميثوس من أنثروبيك لإنشاء كود تجاوز يستهدف macOS المحمي بأحدث تقنيات آبل خلال خمسة أيام فقط.",
+        "body": "تم رصد أسلوب جديد لتجاوز الحماية في macOS باستخدام الذكاء الاصطناعي، رغم أن النظام كان محميا بأحدث تقنيات آبل الأمنية. وقالت شركة أمنية أمريكية إنها استخدمت خلال اختبار ذكاء ميثوس الذي طورته أنثروبيك لإنشاء كود اختراق لنظام macOS، واستغرق ذلك خمسة أيام فقط. وتوضح هذه الحالة أن بيئة آبل التي تركز على تعزيز الأمان قد تتعرض لمخاطر عندما يستخدم الذكاء الاصطناعي التوليدي في البحث عن الثغرات وكتابة كود هجومي. الرقم الأبرز هو مدة الأيام الخمسة اللازمة لإنشاء الكود. ويتوقع القطاع ضغطا أكبر على عمليات التحقق الأمني مع تطور أدوات الهجوم المعتمدة على الذكاء الاصطناعي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Apple macOS सुरक्षा पर AI परीक्षण भारी, Anthropic के Mythos ने 5 दिन में कोड बनाया",
+        "excerpt": "अमेरिकी सुरक्षा कंपनी ने कहा कि परीक्षण में Anthropic के AI Mythos से Apple की नई सुरक्षा से सुरक्षित macOS के लिए हैकिंग बायपास कोड केवल पांच दिन में बनाया गया।",
+        "body": "Apple की नवीनतम सुरक्षा तकनीक से सुरक्षित macOS में AI का उपयोग करने वाली नई हैकिंग बायपास तकनीक की पहचान हुई। एक अमेरिकी सुरक्षा कंपनी ने बताया कि परीक्षण के दौरान Anthropic द्वारा बनाए गए AI Mythos का उपयोग कर macOS हैकिंग कोड तैयार किया गया और इसमें केवल पांच दिन लगे। यह मामला दिखाता है कि सुरक्षा को मजबूत बताने वाले Apple परिवेश में भी जनरेटिव AI का इस्तेमाल कमजोरियां खोजने और हमलावर कोड लिखने के लिए किया जा सकता है। मुख्य आंकड़ा यह है कि हैकिंग कोड बनाने में पांच दिन लगे। उद्योग को लगता है कि AI आधारित हमलावर उपकरण सुरक्षा जांच पर अधिक दबाव डाल सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Uji AI Tembus Keamanan macOS Apple, Mythos Anthropic Buat Kode dalam 5 Hari",
+        "excerpt": "Perusahaan keamanan AS mengatakan dalam pengujian, AI Mythos dari Anthropic dipakai untuk membuat kode bypass peretasan macOS yang dilindungi teknologi terbaru Apple hanya dalam lima hari.",
+        "body": "Teknik bypass peretasan baru berbasis AI teridentifikasi pada macOS yang dilindungi teknologi keamanan terbaru Apple. Sebuah perusahaan keamanan Amerika Serikat mengatakan bahwa dalam proses pengujian, mereka menggunakan AI Mythos buatan Anthropic untuk membuat kode peretasan macOS, dan proses itu hanya memakan waktu lima hari. Kasus ini menunjukkan bahwa lingkungan Apple yang menekankan penguatan keamanan tetap dapat menghadapi risiko jika AI generatif dipakai untuk mencari kelemahan dan menulis kode serangan. Angka utama dalam laporan ini adalah waktu lima hari hingga kode peretasan dibuat. Industri menilai alat serangan berbasis AI dapat menambah beban verifikasi keamanan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b0d1feaad4e1",
+    "slug": "얘야-음주운전-절대-안된다모친-신고로-출동한-경찰에-흉기협박-130803",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-15T23:53:32.413Z",
+    "updatedAt": "2026-05-15T23:53:32.413Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12049906",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12049906",
+    "titleFingerprint": "07fd9a9237dd8cb7b66396086a2a26d2eec80856",
+    "dedupKeys": [
+      "b0d1feaad4e1057ef252d88687f7b5163bae9339",
+      "07fd9a9237dd8cb7b66396086a2a26d2eec80856",
+      "a8324a0dc489cde71c324813b241e36f63ad5497"
+    ],
+    "imageUrl": "/images/articles/b0d1feaad4e1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "음주운전 제지하던 모친 신고에 출동한 경찰 흉기협박 40대 처벌",
+        "excerpt": "술을 마신 뒤 운전하려던 40대가 이를 막으려던 어머니의 신고로 출동한 경찰을 흉기로 협박해 창원지법에서 특수공무집행방해 혐의로 처벌을 받게 됐다.",
+        "body": "술을 마신 상태에서 운전하려던 40대가 이를 말리던 어머니의 신고로 출동한 경찰관을 흉기로 협박해 처벌을 받게 됐다. 사건은 음주운전을 막으려는 가족의 신고에서 시작됐고, 현장에 도착한 경찰을 상대로 흉기를 들고 위협한 행위가 문제가 됐다. 연합뉴스에 따르면 창원지법 형사6단독 우상범 부장판사는 특수공무집행방해 혐의로 기소된 40대에게 유죄 판단을 내렸다. 법원은 경찰의 정당한 직무집행을 흉기로 방해한 점을 중하게 본 것으로 전해졌다. 이번 사건은 음주운전 시도뿐 아니라 신고를 받고 출동한 공권력에 대한 위협까지 더해진 사례로, 관련 처벌의 엄정성을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Man in His 40s Punished After Threatening Police Called by Mother Over Drunk Driving",
+        "excerpt": "A man in his 40s who tried to drive after drinking was punished after threatening police with a weapon when officers arrived following his mother’s report to stop him.",
+        "body": "A man in his 40s who attempted to drive while intoxicated has been punished for threatening police officers with a weapon after they were dispatched following a report by his mother. The case began when the mother tried to stop her son from drunk driving and called police. When officers arrived at the scene, the man allegedly threatened them with a weapon, leading to charges of special obstruction of official duties. According to Yonhap News Agency, cited by mk.co.kr, Judge Woo Sang-beom of Changwon District Court’s Criminal Division 6 found the defendant guilty. The court reportedly viewed seriously the act of obstructing lawful police duties with a weapon. The case highlights not only an attempted drunk-driving incident but also a threat against public authority responding to a family report. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "飲酒運転を止めた母の通報で出動した警察に凶器で脅迫、40代に処罰",
+        "excerpt": "酒を飲んだ状態で運転しようとした40代が、母親の通報で出動した警察官を凶器で脅迫し、昌原地裁で特殊公務執行妨害罪に問われ処罰を受けた。",
+        "body": "酒を飲んだ状態で運転しようとした40代の男が、それを止めようとした母親の通報で出動した警察官を凶器で脅迫し、処罰を受けることになった。事件は、飲酒運転を防ごうとした家族の通報から始まった。現場に到着した警察官に対し、男が凶器を持って威嚇した行為が問題となった。聯合ニュースによると、mk.co.krが伝えたところでは、昌原地裁刑事6単独の禹相範部長判事は、特殊公務執行妨害の罪で起訴された40代に有罪判断を下した。裁判所は、警察の正当な職務執行を凶器で妨害した点を重く見たとされる。今回の事件は、飲酒運転の試みに加え、通報を受けて出動した公権力への脅迫が加わった事例だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "母亲报警阻止酒驾，40多岁男子持凶器威胁出警警察被处罚",
+        "excerpt": "一名40多岁男子酒后试图驾车，母亲报警阻止后，出警警察遭其持凶器威胁，案件在昌原地方法院以特殊妨碍公务罪作出处罚。",
+        "body": "一名40多岁男子在饮酒后试图驾车，因威胁接到其母亲报警后赶到现场的警察而受到处罚。案件起因是母亲为阻止儿子酒后驾驶而报警。警察到场后，该男子持凶器进行威胁，相关行为被认定为妨碍正当公务。根据韩联社消息，mk.co.kr报道称，昌原地方法院刑事6单独审判部禹相范法官对这名以特殊妨碍公务罪被起诉的40多岁男子作出有罪判断。法院据称重视其以凶器妨碍警察正当执行职务的情节。此案不仅涉及酒后驾驶企图，也涉及对接警出动公权力的威胁，显示相关处罚的严肃性。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hombre de 40 años castigado por amenazar con arma a policías llamados por su madre",
+        "excerpt": "Un hombre de unos 40 años intentó conducir tras beber y amenazó con un arma a policías que acudieron después de que su madre llamara para impedir la conducción ebria.",
+        "body": "Un hombre de unos 40 años que intentó conducir bajo los efectos del alcohol fue castigado por amenazar con un arma a agentes de policía enviados al lugar tras una llamada de su madre. El caso comenzó cuando la madre intentó impedir que su hijo condujera ebrio y avisó a la policía. Al llegar los agentes, el hombre los amenazó con un arma, lo que derivó en cargos por obstrucción especial de funciones públicas. Según Yonhap, citado por mk.co.kr, el juez Woo Sang-beom, de la Sala Penal 6 del Tribunal de Distrito de Changwon, declaró culpable al acusado. El tribunal habría considerado grave que se obstaculizara con un arma una actuación policial legítima. El caso muestra una tentativa de conducción bajo los efectos del alcohol y una amenaza contra la autoridad pública que respondió a la denuncia familiar. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Homem de 40 anos é punido após ameaçar policiais chamados pela mãe por direção alcoolizada",
+        "excerpt": "Um homem na faixa dos 40 anos tentou dirigir após beber e ameaçou com uma arma policiais acionados por sua mãe para impedir a condução sob efeito de álcool.",
+        "body": "Um homem na faixa dos 40 anos que tentou dirigir alcoolizado foi punido por ameaçar com uma arma policiais enviados ao local após uma denúncia feita por sua mãe. O caso começou quando a mãe tentou impedir o filho de dirigir depois de beber e chamou a polícia. Quando os agentes chegaram, o homem os ameaçou com uma arma, o que levou à acusação de obstrução especial do exercício de função pública. Segundo a Yonhap, citada pelo mk.co.kr, o juiz Woo Sang-beom, da 6ª Vara Criminal do Tribunal Distrital de Changwon, considerou o réu culpado. O tribunal teria avaliado como grave o uso de arma para impedir uma atuação policial legítima. O episódio reúne uma tentativa de direção alcoolizada e uma ameaça contra a autoridade pública chamada pela própria família. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Mann bedroht Polizei nach Alkohol am Steuer mit Waffe, nachdem Mutter Anzeige erstattet",
+        "excerpt": "Ein Mann in den Vierzigern wollte nach Alkoholkonsum fahren und bedrohte Polizisten mit einer Waffe, nachdem seine Mutter die Beamten gerufen hatte, um ihn zu stoppen.",
+        "body": "Ein Mann in den Vierzigern, der nach Alkoholkonsum fahren wollte, ist bestraft worden, weil er Polizisten mit einer Waffe bedrohte. Die Beamten waren nach einer Meldung seiner Mutter zum Einsatzort gekommen. Der Fall begann damit, dass die Mutter ihren Sohn am Fahren unter Alkoholeinfluss hindern wollte und die Polizei rief. Als die Beamten eintrafen, soll der Mann sie mit einer Waffe bedroht haben. Daraus entstand der Vorwurf der besonderen Behinderung der Amtsausübung. Nach Angaben von Yonhap, die mk.co.kr zitierte, sprach Richter Woo Sang-beom von der Strafabteilung 6 des Bezirksgerichts Changwon den Angeklagten schuldig. Das Gericht wertete offenbar schwer, dass eine rechtmäßige Polizeimaßnahme mit einer Waffe behindert wurde. Der Fall zeigt neben einem Versuch der Trunkenheitsfahrt auch eine Drohung gegen eingesetzte Staatsgewalt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un quadragénaire puni après avoir menacé des policiers appelés par sa mère pour conduite ivre",
+        "excerpt": "Un homme d’une quarantaine d’années a tenté de conduire après avoir bu et a menacé avec une arme des policiers appelés par sa mère pour l’empêcher de prendre le volant.",
+        "body": "Un homme d’une quarantaine d’années qui tentait de conduire en état d’ivresse a été puni pour avoir menacé avec une arme des policiers dépêchés sur place après un signalement de sa mère. L’affaire a commencé lorsque la mère a appelé la police pour empêcher son fils de conduire après avoir bu. À l’arrivée des agents, l’homme les a menacés avec une arme, ce qui a conduit à des poursuites pour obstruction spéciale à l’exercice de fonctions publiques. Selon Yonhap, cité par mk.co.kr, le juge Woo Sang-beom, de la 6e chambre pénale du tribunal de district de Changwon, a reconnu le quadragénaire coupable. Le tribunal aurait accordé une importance particulière au fait qu’une intervention policière légitime ait été entravée au moyen d’une arme. Cette affaire combine une tentative de conduite en état d’ivresse et une menace contre l’autorité publique appelée par la famille. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "معاقبة رجل في الأربعينيات هدد الشرطة بسلاح بعد بلاغ والدته لمنع قيادته مخمورا",
+        "excerpt": "حاول رجل في الأربعينيات القيادة بعد شرب الكحول، ثم هدد بسلاح عناصر شرطة حضروا بعد بلاغ من والدته التي كانت تحاول منعه من القيادة وهو مخمور.",
+        "body": "تقرر معاقبة رجل في الأربعينيات حاول القيادة تحت تأثير الكحول بعدما هدد بسلاح عناصر الشرطة الذين حضروا إلى الموقع إثر بلاغ قدمته والدته. بدأت القضية عندما حاولت الأم منع ابنها من القيادة بعد شرب الكحول فاتصلت بالشرطة. وعند وصول العناصر، هددهم الرجل بسلاح، ما أدى إلى اتهامه بعرقلة خاصة لتنفيذ واجب رسمي. وبحسب وكالة يونهاب، كما نقل موقع mk.co.kr، أصدر القاضي وو سانغ بوم في الدائرة الجنائية السادسة بمحكمة تشانغوون المحلية حكما بإدانة الرجل. واعتبرت المحكمة أن عرقلة أداء الشرطة لواجبها المشروع باستخدام سلاح أمر خطير. وتبرز القضية محاولة قيادة تحت تأثير الكحول، إضافة إلى تهديد سلطة عامة استجابت لبلاغ عائلي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मां की शिकायत पर पहुंची पुलिस को हथियार से धमकाने पर 40 वर्षीय व्यक्ति दंडित",
+        "excerpt": "शराब पीकर गाड़ी चलाने की कोशिश कर रहे 40 वर्ष की उम्र के व्यक्ति ने मां की शिकायत पर पहुंची पुलिस को हथियार से धमकाया, जिसके बाद अदालत ने उसे दंडित किया।",
+        "body": "शराब के नशे में गाड़ी चलाने की कोशिश कर रहे 40 वर्ष की उम्र के एक व्यक्ति को पुलिसकर्मियों को हथियार से धमकाने के लिए दंडित किया गया। पुलिस उसकी मां की शिकायत पर मौके पर पहुंची थी, जो उसे नशे में वाहन चलाने से रोकना चाहती थीं। मामला तब शुरू हुआ जब मां ने बेटे को रोकने के लिए पुलिस को सूचना दी। मौके पर पहुंचे अधिकारियों के सामने व्यक्ति ने हथियार दिखाकर धमकी दी, जिसके बाद उस पर सरकारी कर्तव्य के विशेष अवरोध का आरोप लगा। योनहाप के अनुसार, जिसे mk.co.kr ने उद्धृत किया, चांगवोन जिला अदालत की आपराधिक शाखा 6 के न्यायाधीश वू सांग-बोम ने आरोपी को दोषी माना। अदालत ने वैध पुलिस कार्रवाई को हथियार से बाधित करने को गंभीर माना। यह घटना शराब पीकर गाड़ी चलाने की कोशिश और पारिवारिक शिकायत पर पहुंची पुलिस को धमकाने दोनों को दिखाती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pria 40-an Dihukum Usai Ancam Polisi yang Dipanggil Ibu karena Hendak Mengemudi Mabuk",
+        "excerpt": "Seorang pria berusia 40-an mencoba mengemudi setelah minum alkohol dan mengancam polisi dengan senjata saat petugas datang setelah ibunya melapor untuk mencegahnya.",
+        "body": "Seorang pria berusia 40-an yang mencoba mengemudi dalam keadaan mabuk dijatuhi hukuman setelah mengancam polisi dengan senjata. Polisi datang ke lokasi setelah menerima laporan dari ibunya, yang berusaha mencegah sang anak mengemudi setelah minum alkohol. Perkara ini bermula dari laporan keluarga untuk menghentikan upaya mengemudi mabuk. Saat petugas tiba, pria tersebut mengancam mereka dengan senjata, sehingga ia didakwa menghalangi pelaksanaan tugas resmi secara khusus. Menurut Yonhap, sebagaimana dikutip mk.co.kr, Hakim Woo Sang-beom dari Pengadilan Distrik Changwon, Divisi Pidana 6, menyatakan pria itu bersalah. Pengadilan disebut menilai serius tindakan menghalangi tugas sah polisi dengan senjata. Kasus ini menunjukkan bukan hanya percobaan mengemudi dalam keadaan mabuk, tetapi juga ancaman terhadap aparat yang merespons laporan keluarga. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "02bbc88a25a7",
+    "slug": "아이유는-좌파라-되고-전한길-폭싹-통편집-언급-559280",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-15T23:52:26.318Z",
+    "updatedAt": "2026-05-15T23:52:26.318Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12049908",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12049908",
+    "titleFingerprint": "3261f2ac9d909bf6ab2a0be8a2bd439155827011",
+    "dedupKeys": [
+      "02bbc88a25a7bddce31733907bb832f3f907cd82",
+      "3261f2ac9d909bf6ab2a0be8a2bd439155827011",
+      "38bbceafb8ff801895a867a9bdcf3fed68c8dfc3"
+    ],
+    "imageUrl": "/images/articles/02bbc88a25a7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전한길, 넷플릭스 ‘폭싹 속았수다’ 통편집 주장…아이유 언급 배경",
+        "excerpt": "한국사 강사 출신 보수 성향 유튜버 전한길이 넷플릭스 시리즈 ‘폭싹 속았수다’ 특별출연분 통편집 이유로 자신의 정치색을 거론하며 주연 배우 아이유를 언급했다.",
+        "body": "한국사 강사 출신 보수 성향 유튜버 전한길이 넷플릭스 시리즈 ‘폭싹 속았수다’에 특별출연했지만 해당 장면이 통편집됐다고 밝혔다. 그는 자신의 출연분이 빠진 이유가 정치적 성향 때문이라고 주장하며, 주연 배우 아이유를 함께 언급했다. 이번 발언은 온라인에서 콘텐츠 편집과 출연자의 정치색을 둘러싼 논쟁으로 이어질 수 있다. 다만 공개된 원문 정보상 제작진의 공식 입장이나 구체적인 편집 경위는 확인되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Jeon Han-gil Claims Netflix’s ‘When Life Gives You Tangerines’ Cut Him, Mentions IU",
+        "excerpt": "Conservative YouTuber and former Korean history instructor Jeon Han-gil said his cameo in Netflix’s ‘When Life Gives You Tangerines’ was fully edited out due to his politics, mentioning lead actor IU.",
+        "body": "Jeon Han-gil, a conservative YouTuber and former Korean history instructor, said he made a special appearance in the Netflix series ‘When Life Gives You Tangerines’ but that his scenes were entirely edited out. He claimed the reason was his political stance and mentioned lead actor IU in the process. The remarks could fuel online debate over content editing and performers’ political identities. However, based on the original report, no official production response or detailed explanation of the editing decision has been confirmed. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "チョン・ハンギル、Netflix『おつかれさま』全カット主張…IUにも言及",
+        "excerpt": "韓国史講師出身の保守系ユーチューバー、チョン・ハンギル氏がNetflixシリーズ『おつかれさま』の特別出演分を全カットされた理由として自身の政治色を挙げ、主演のIUに言及した。",
+        "body": "韓国史講師出身の保守系ユーチューバー、チョン・ハンギル氏がNetflixシリーズ『おつかれさま』に特別出演したものの、該当シーンが全て編集で削除されたと明らかにした。チョン氏は出演分が外された理由について、自身の政治的傾向のためだと主張し、主演俳優IUにも言及した。今回の発言は、コンテンツ編集と出演者の政治色をめぐるオンライン上の議論につながる可能性がある。ただし、原文情報では制作陣の公式立場や具体的な編集経緯は確認されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "全韩吉称Netflix《苦尽柑来遇见你》戏份被全删，并提及IU",
+        "excerpt": "韩国史讲师出身的保守倾向YouTuber全韩吉称，他特别出演Netflix剧集《苦尽柑来遇见你》的戏份因其政治色彩被全部剪掉，并提到主演IU。",
+        "body": "韩国史讲师出身的保守倾向YouTuber全韩吉表示，他曾特别出演Netflix剧集《苦尽柑来遇见你》，但相关场面被全部剪掉。他主张，自己的出演部分被删除是因为其政治倾向，并在发言中提及主演演员IU。此番言论可能引发围绕内容剪辑与出演者政治色彩的网络讨论。不过，根据原文信息，制作方尚未被确认有正式立场，具体剪辑经过也未被确认。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Jeon Han-gil dice que Netflix eliminó su cameo en ‘When Life Gives You Tangerines’ y menciona a IU",
+        "excerpt": "El youtuber conservador Jeon Han-gil, exprofesor de historia coreana, afirmó que su aparición especial en la serie de Netflix fue eliminada por su postura política y mencionó a IU.",
+        "body": "Jeon Han-gil, youtuber de tendencia conservadora y exprofesor de historia coreana, dijo que participó como invitado especial en la serie de Netflix ‘When Life Gives You Tangerines’, pero que sus escenas fueron eliminadas por completo. Afirmó que la razón fue su orientación política y mencionó a la actriz principal IU. Sus declaraciones podrían generar debate en línea sobre la edición de contenidos y el perfil político de los participantes. Sin embargo, según la información original, no se ha confirmado una postura oficial del equipo de producción ni detalles concretos sobre la edición. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Jeon Han-gil diz que Netflix cortou sua participação em ‘When Life Gives You Tangerines’ e cita IU",
+        "excerpt": "O youtuber conservador Jeon Han-gil, ex-professor de história coreana, afirmou que sua participação especial na série da Netflix foi totalmente cortada por sua posição política e mencionou IU.",
+        "body": "Jeon Han-gil, youtuber de orientação conservadora e ex-professor de história coreana, disse que fez uma participação especial na série da Netflix ‘When Life Gives You Tangerines’, mas que suas cenas foram totalmente editadas. Ele afirmou que o motivo foi sua inclinação política e mencionou a atriz principal IU. A declaração pode alimentar debates online sobre edição de conteúdo e posicionamento político de participantes. No entanto, segundo as informações originais, não há confirmação de uma posição oficial da produção nem de detalhes específicos sobre a edição. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Jeon Han-gil behauptet Schnitt aus Netflix-Serie und erwähnt IU als Kontext",
+        "excerpt": "Der konservative YouTuber Jeon Han-gil, früher Dozent für koreanische Geschichte, sagte, sein Gastauftritt in Netflix’ ‘When Life Gives You Tangerines’ sei wegen seiner politischen Haltung komplett entfernt worden.",
+        "body": "Jeon Han-gil, ein konservativer YouTuber und ehemaliger Dozent für koreanische Geschichte, erklärte, er habe einen Sonderauftritt in der Netflix-Serie ‘When Life Gives You Tangerines’ gehabt, seine Szenen seien jedoch vollständig herausgeschnitten worden. Er behauptete, der Grund dafür sei seine politische Ausrichtung, und erwähnte dabei Hauptdarstellerin IU. Die Aussage könnte online Debatten über redaktionelle Entscheidungen und die politische Identität von Mitwirkenden auslösen. Nach den vorliegenden Originalinformationen gibt es jedoch keine bestätigte offizielle Stellungnahme der Produktion oder konkrete Details zum Schnitt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Jeon Han-gil affirme avoir été coupé d’une série Netflix et cite IU",
+        "excerpt": "Le youtubeur conservateur Jeon Han-gil, ancien professeur d’histoire coréenne, a affirmé que son apparition spéciale dans la série Netflix avait été entièrement supprimée en raison de ses opinions politiques, en mentionnant IU.",
+        "body": "Jeon Han-gil, youtubeur conservateur et ancien professeur d’histoire coréenne, a déclaré avoir fait une apparition spéciale dans la série Netflix ‘When Life Gives You Tangerines’, mais que ses scènes avaient été entièrement supprimées au montage. Il a affirmé que cette décision était liée à son orientation politique et a mentionné l’actrice principale IU. Ces propos pourraient alimenter un débat en ligne sur le montage des contenus et les opinions politiques des intervenants. Toutefois, selon les informations d’origine, aucune position officielle de la production ni aucun détail précis sur le montage n’a été confirmé. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جون هان غيل يقول إن نتفليكس حذفت ظهوره في مسلسلها ويذكر آي يو",
+        "excerpt": "قال اليوتيوبر المحافظ جون هان غيل، وهو محاضر سابق في التاريخ الكوري، إن ظهوره الخاص في مسلسل نتفليكس حُذف بالكامل بسبب توجهه السياسي، وذكر الممثلة الرئيسية آي يو.",
+        "body": "قال جون هان غيل، اليوتيوبر ذي التوجه المحافظ والمحاضر السابق في التاريخ الكوري، إنه شارك بظهور خاص في مسلسل نتفليكس ‘When Life Gives You Tangerines’، لكن مشاهده حُذفت بالكامل في المونتاج. وادعى أن سبب حذف ظهوره يعود إلى توجهه السياسي، كما ذكر الممثلة الرئيسية آي يو خلال حديثه. وقد تثير تصريحاته نقاشا عبر الإنترنت حول تحرير المحتوى والميول السياسية للمشاركين. ومع ذلك، ووفقا للمعلومات الأصلية، لم يتم تأكيد موقف رسمي من فريق الإنتاج أو تفاصيل محددة بشأن عملية الحذف. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Jeon Han-gil ने Netflix सीरीज से अपना कैमियो कटने का दावा किया, IU का जिक्र",
+        "excerpt": "कोरियाई इतिहास के पूर्व शिक्षक और रूढ़िवादी YouTuber Jeon Han-gil ने कहा कि Netflix सीरीज में उनका विशेष出演 पूरी तरह हटा दिया गया, जिसकी वजह उन्होंने अपनी राजनीतिक पहचान बताई और IU का उल्लेख किया।",
+        "body": "कोरियाई इतिहास के पूर्व शिक्षक और रूढ़िवादी रुझान वाले YouTuber Jeon Han-gil ने कहा कि उन्होंने Netflix सीरीज ‘When Life Gives You Tangerines’ में विशेष उपस्थिति दी थी, लेकिन उनके दृश्य पूरी तरह संपादित कर हटा दिए गए। उन्होंने दावा किया कि इसका कारण उनकी राजनीतिक प्रवृत्ति थी और इसी संदर्भ में मुख्य अभिनेत्री IU का उल्लेख किया। यह बयान कंटेंट एडिटिंग और कलाकारों की राजनीतिक पहचान पर ऑनलाइन बहस को जन्म दे सकता है। हालांकि, मूल जानकारी के अनुसार, निर्माताओं की आधिकारिक प्रतिक्रिया या संपादन के ठोस कारणों की पुष्टि नहीं हुई है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jeon Han-gil Klaim Adegan di Serial Netflix Dipotong, Sebut IU",
+        "excerpt": "YouTuber konservatif Jeon Han-gil, mantan instruktur sejarah Korea, mengatakan penampilan khususnya di serial Netflix dipotong seluruhnya karena warna politiknya dan menyebut pemeran utama IU.",
+        "body": "Jeon Han-gil, YouTuber berhaluan konservatif dan mantan instruktur sejarah Korea, mengatakan bahwa ia tampil khusus dalam serial Netflix ‘When Life Gives You Tangerines’, tetapi seluruh adegannya dipotong. Ia mengklaim alasan bagian penampilannya dihapus adalah kecenderungan politiknya, dan ia juga menyebut aktris utama IU. Pernyataan ini dapat memicu perdebatan daring tentang penyuntingan konten dan warna politik para pengisi acara. Namun, berdasarkan informasi asli, belum ada konfirmasi mengenai sikap resmi tim produksi atau rincian konkret proses penyuntingan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "d399d35dec9f",
     "slug": "단독-한국산-철근-없인-ai-못돌린다美-데이터센터-뼈대로-화려한-부활-393662",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Gemini melonjak 25% usai suntikan bitcoin $100 juta meski rugi berlanjut",
         "excerpt": "Gemini milik Winklevoss naik 25% setelah suntikan bitcoin $100 juta; pendapatan tumbuh 42% secara tahunan, tetapi rugi bersih masih berlanjut.",
         "body": "Gemini yang terkait dengan Winklevoss melonjak 25% setelah kabar suntikan bitcoin senilai $100 juta. Kenaikan itu terjadi meski perusahaan masih mencatat kerugian besar. Pendapatan Gemini naik 42% secara tahunan menjadi $50,3 juta. Rugi bersihnya menyempit 27% dari $149,3 juta pada tahun sebelumnya. Angka ini menunjukkan bahwa pemulihan pendapatan membantu mengurangi kerugian, namun tekanan defisit masih ada. Investor mencermati suntikan bitcoin dan perbaikan kinerja secara bersamaan. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "46e35e90c81d",
-    "slug": "okx-reportedly-eyes-coinone-stake-in-south-korea-push-420009",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T11:29:30.566Z",
-    "updatedAt": "2026-05-15T11:29:30.566Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/okx-reportedly-eyeing-south-korea-move-with-coinone-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/okx-reportedly-eyeing-south-korea-move-with-coinone-stake",
-    "titleFingerprint": "7febdb051cdf2011ec635066cd663f6b31e44543",
-    "dedupKeys": [
-      "46e35e90c81d4de74b4e9a7994d586a3716abf6c",
-      "7febdb051cdf2011ec635066cd663f6b31e44543",
-      "08222a60846c680f7bb13efea5098114988f6082"
-    ],
-    "imageUrl": "/images/articles/46e35e90c81d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "OKX, 코인원 지분 20% 추진 보도…한국 시장 진출 경쟁 가열",
-        "excerpt": "OKX가 한국 가상자산 거래소 코인원 지분 20% 확보를 추진하는 것으로 알려지며, 외국계와 국내 기업의 시장 접근 경쟁이 주목받고 있다.",
-        "body": "OKX가 한국 가상자산 거래소 코인원 지분 20% 확보를 추진하고 있다는 보도가 나왔다. 보도에 따르면 OKX는 한국 시장 진출을 확대하기 위해 코인원 지분 인수를 검토하는 것으로 알려졌다. 코인원은 국내 가상자산 거래소 중 하나로, 한국 시장 접근성을 둘러싸고 외국계 기업과 국내 기업의 경쟁이 이어지는 상황에서 이번 움직임이 주목된다. 실제 거래 성사 여부와 구체적 조건은 아직 확인되지 않았다. 이번 보도는 글로벌 거래소가 한국 시장에서 입지를 넓히려는 흐름을 보여주는 사례로 해석된다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "OKX Reportedly Seeks 20% Coinone Stake as Korea Push Heats Up",
-        "excerpt": "OKX is reportedly pursuing a 20% stake in South Korean crypto exchange Coinone as foreign and local firms compete for market access.",
-        "body": "OKX is reportedly seeking to acquire a 20% stake in South Korean crypto exchange Coinone. According to the report, OKX is reviewing the stake purchase as part of a broader push to expand access to South Korea’s crypto market. Coinone is one of the country’s crypto exchanges, and the move is drawing attention as foreign and domestic firms continue to compete for market entry. Whether a deal will be completed and what specific terms may apply have not been confirmed. The report is viewed as another sign that global exchanges are looking to strengthen their position in South Korea. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "OKX、Coinone株20％取得を検討か 韓国市場参入競争が加速",
-        "excerpt": "OKXが韓国の暗号資産取引所Coinoneの株式20％取得を目指していると報じられ、外資系と国内企業の市場アクセス競争が注目されている。",
-        "body": "OKXが韓国の暗号資産取引所Coinoneの株式20％取得を目指しているとの報道が出た。報道によると、OKXは韓国市場への進出拡大に向け、Coinone株の取得を検討しているとされる。Coinoneは韓国の暗号資産取引所の一つであり、市場アクセスを巡って外資系企業と国内企業の競争が続く中、この動きが注目されている。実際に取引が成立するか、具体的な条件はまだ確認されていない。今回の報道は、グローバル取引所が韓国市場での存在感を高めようとする流れを示す事例と受け止められている。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "OKX据称寻求Coinone 20%股权，韩国市场竞争升温",
-        "excerpt": "据报道，OKX正寻求获得韩国加密货币交易所Coinone 20%股权，外资与本土企业围绕市场准入的竞争受到关注。",
-        "body": "据报道，OKX正寻求收购韩国加密货币交易所Coinone 20%的股权。报道称，OKX正在评估该股权收购，以扩大其进入韩国加密市场的机会。Coinone是韩国加密货币交易所之一，在外资企业和本土企业持续争夺市场准入的背景下，这一动向引发关注。目前，交易是否会最终达成以及具体条款尚未得到确认。该报道被视为全球交易所试图在韩国市场扩大影响力的又一信号。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "OKX buscaría 20% de Coinone mientras crece la puja en Corea",
-        "excerpt": "OKX estaría buscando una participación del 20% en el exchange surcoreano Coinone, en medio de la competencia de firmas extranjeras y locales por entrar al mercado.",
-        "body": "OKX estaría buscando adquirir una participación del 20% en el exchange surcoreano de criptomonedas Coinone. Según el reporte, OKX evalúa la compra como parte de un esfuerzo más amplio para ampliar su acceso al mercado cripto de Corea del Sur. Coinone es uno de los exchanges del país, y el movimiento atrae atención mientras empresas extranjeras y nacionales compiten por el acceso al mercado. Aún no se ha confirmado si la operación se concretará ni cuáles serían sus condiciones específicas. El reporte se interpreta como otra señal de que los exchanges globales buscan reforzar su presencia en Corea del Sur. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "OKX mira fatia de 20% na Coinone em avanço pelo mercado coreano",
-        "excerpt": "A OKX estaria buscando uma participação de 20% na exchange sul-coreana Coinone enquanto empresas estrangeiras e locais disputam acesso ao mercado.",
-        "body": "A OKX estaria buscando adquirir uma participação de 20% na exchange sul-coreana de criptomoedas Coinone. Segundo a reportagem, a OKX avalia a compra da fatia como parte de um movimento mais amplo para ampliar seu acesso ao mercado cripto da Coreia do Sul. A Coinone é uma das exchanges do país, e a iniciativa chama atenção em meio à concorrência entre empresas estrangeiras e locais pelo acesso ao mercado. Ainda não foi confirmado se a transação será concluída nem quais seriam os termos específicos. A notícia é vista como mais um sinal de que exchanges globais buscam fortalecer sua posição na Coreia do Sul. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "OKX soll 20% an Coinone anstreben, Koreas Kryptomarkt im Fokus",
-        "excerpt": "OKX will Berichten zufolge 20% an der südkoreanischen Kryptobörse Coinone erwerben, während ausländische und lokale Firmen um Marktzugang konkurrieren.",
-        "body": "OKX strebt Berichten zufolge den Erwerb eines 20%-Anteils an der südkoreanischen Kryptobörse Coinone an. Dem Bericht zufolge prüft OKX den Kauf, um den Zugang zum südkoreanischen Kryptomarkt auszubauen. Coinone gehört zu den Kryptobörsen des Landes, und der Schritt sorgt für Aufmerksamkeit, da ausländische und einheimische Unternehmen weiter um Marktzugang konkurrieren. Ob eine Transaktion tatsächlich zustande kommt und welche konkreten Bedingungen gelten würden, ist bislang nicht bestätigt. Der Bericht gilt als weiteres Zeichen dafür, dass globale Börsen ihre Position in Südkorea stärken wollen. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "OKX viserait 20% de Coinone dans sa poussée sur le marché coréen",
-        "excerpt": "OKX chercherait à acquérir 20% de la plateforme sud-coréenne Coinone, alors que les acteurs étrangers et locaux se disputent l’accès au marché.",
-        "body": "OKX chercherait à acquérir une participation de 20% dans la plateforme sud-coréenne d’échange de cryptomonnaies Coinone. Selon le rapport, OKX étudie cette acquisition dans le cadre d’un effort plus large pour accroître son accès au marché crypto sud-coréen. Coinone est l’une des plateformes du pays, et cette démarche attire l’attention alors que les entreprises étrangères et nationales continuent de se disputer l’accès au marché. La conclusion éventuelle de l’opération et ses conditions précises n’ont pas encore été confirmées. Ce rapport est perçu comme un nouveau signe de l’intérêt des plateformes mondiales pour renforcer leur position en Corée du Sud. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "OKX تسعى لحصة 20% في Coinone مع اشتداد سباق سوق كوريا",
-        "excerpt": "تسعى OKX reportedly إلى حصة 20% في منصة Coinone الكورية الجنوبية، وسط منافسة بين الشركات الأجنبية والمحلية للوصول إلى سوق العملات المشفرة.",
-        "body": "أفادت تقارير بأن OKX تسعى للاستحواذ على حصة 20% في منصة Coinone الكورية الجنوبية لتداول العملات المشفرة. وبحسب التقرير، تدرس OKX شراء الحصة ضمن مسعى أوسع لتوسيع وصولها إلى سوق العملات المشفرة في كوريا الجنوبية. وتعد Coinone إحدى منصات التداول في البلاد، وتجذب هذه الخطوة الانتباه في ظل استمرار المنافسة بين الشركات الأجنبية والمحلية على دخول السوق. ولم يتم تأكيد ما إذا كانت الصفقة ستكتمل أو ما الشروط المحددة لها. ويُنظر إلى التقرير كإشارة أخرى إلى رغبة المنصات العالمية في تعزيز موقعها داخل كوريا الجنوبية. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "OKX की Coinone में 20% हिस्सेदारी पर नजर, कोरिया बाजार में होड़ तेज",
-        "excerpt": "OKX कथित तौर पर दक्षिण कोरियाई क्रिप्टो एक्सचेंज Coinone में 20% हिस्सेदारी चाहती है, जबकि विदेशी और घरेलू कंपनियां बाजार पहुंच के लिए प्रतिस्पर्धा कर रही हैं।",
-        "body": "OKX कथित तौर पर दक्षिण कोरियाई क्रिप्टो एक्सचेंज Coinone में 20% हिस्सेदारी हासिल करने की कोशिश कर रही है। रिपोर्ट के अनुसार, OKX दक्षिण कोरिया के क्रिप्टो बाजार में अपनी पहुंच बढ़ाने के व्यापक प्रयास के तहत इस हिस्सेदारी खरीद की समीक्षा कर रही है। Coinone देश के क्रिप्टो एक्सचेंजों में से एक है, और यह कदम ऐसे समय ध्यान खींच रहा है जब विदेशी और घरेलू कंपनियां बाजार में प्रवेश के लिए प्रतिस्पर्धा कर रही हैं। सौदा पूरा होगा या नहीं और इसकी विशिष्ट शर्तें क्या होंगी, इसकी पुष्टि अभी नहीं हुई है। यह रिपोर्ट वैश्विक एक्सचेंजों की दक्षिण कोरिया में स्थिति मजबूत करने की कोशिश का एक और संकेत मानी जा रही है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "OKX Bidik 20% Saham Coinone saat Persaingan Pasar Korea Memanas",
-        "excerpt": "OKX dilaporkan mengincar 20% saham bursa kripto Korea Selatan Coinone, ketika perusahaan asing dan domestik bersaing mendapatkan akses pasar.",
-        "body": "OKX dilaporkan berupaya memperoleh 20% saham bursa kripto Korea Selatan Coinone. Menurut laporan tersebut, OKX sedang meninjau pembelian saham itu sebagai bagian dari dorongan yang lebih luas untuk memperluas akses ke pasar kripto Korea Selatan. Coinone merupakan salah satu bursa kripto di negara tersebut, dan langkah ini menarik perhatian ketika perusahaan asing dan domestik terus bersaing untuk masuk ke pasar. Belum ada konfirmasi apakah transaksi akan selesai atau seperti apa syarat rincinya. Laporan ini dipandang sebagai tanda lain bahwa bursa global berusaha memperkuat posisi mereka di Korea Selatan. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "28836aefd33d",
-    "slug": "why-is-hyperliquids-hype-token-price-up-23-in-a-day-606876",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T11:28:38.511Z",
-    "updatedAt": "2026-05-15T11:28:38.511Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/why-is-hyperliquid-hype-price-up-23-percent-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/why-is-hyperliquid-hype-price-up-23-percent-in-a-day",
-    "titleFingerprint": "448a240e96a30acd75712e4318df917b13f2aa00",
-    "dedupKeys": [
-      "28836aefd33db9f24f32b0befa0d2e264a3ddc6c",
-      "448a240e96a30acd75712e4318df917b13f2aa00",
-      "fb0f08678294b7582b7c9b1649faac6d21f0f331"
-    ],
-    "imageUrl": "/images/articles/28836aefd33d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HYPE 토큰 하루 23% 급등, 미국 ETF·코인베이스 딜이 촉매",
-        "excerpt": "이번 주 Hyperliquid의 HYPE 토큰은 미국 ETF 출시와 코인베이스의 Hyperliquid 관련 거래 기대감이 맞물리며 하루 23% 올랐지만, 기술적 지표는 단기 조정 가능성을 경고했다.",
-        "body": "Hyperliquid의 HYPE 토큰 가격이 이번 주 하루 만에 23% 상승했다. 상승 배경으로는 미국에서 새로 나온 HYPE 관련 ETF 출시와 코인베이스의 Hyperliquid 거래가 꼽힌다. 두 재료는 투자자 관심을 키우며 단기 매수세를 자극했다. 다만 가격 급등 이후 차트상 기술 지표는 과열 또는 되돌림 가능성을 시사하고 있다. 시장은 ETF를 통한 접근성 확대와 코인베이스와의 연계가 HYPE 수요에 어떤 영향을 줄지 주시하는 분위기다. Cointelegraph.com은 이번 랠리가 강한 호재에 힘입었지만, 기술적 관점에서는 단기 pullback 위험도 함께 남아 있다고 전했다."
-      },
-      "en": {
-        "title": "HYPE Token Jumps 23% in a Day as US ETFs and Coinbase Deal Drive Rally",
-        "excerpt": "Hyperliquid’s HYPE token rose 23% in a day this week as new US ETF launches and Coinbase’s Hyperliquid deal lifted market attention, while technical signals warned of a possible pullback.",
-        "body": "Hyperliquid’s HYPE token climbed 23% in a single day this week. The rally was driven by newly launched US HYPE-related ETFs and Coinbase’s Hyperliquid deal, both of which increased investor attention and encouraged short-term buying. Still, after the sharp move, technical indicators suggested the price could be vulnerable to overheating or a retracement. Markets are watching whether easier ETF access and Coinbase’s connection with Hyperliquid can support further demand for HYPE. Cointelegraph.com reported that the rally was fueled by strong catalysts, but that technicals still point to the risk of a near-term pullback."
-      },
-      "ja": {
-        "title": "HYPEトークンが1日で23％急騰、米ETFとCoinbase提携が材料に",
-        "excerpt": "HyperliquidのHYPEトークンは今週、米国ETFの新規ローンチとCoinbaseのHyperliquid関連取引を背景に1日で23％上昇したが、テクニカル面では短期調整リスクも示された。",
-        "body": "HyperliquidのHYPEトークン価格は今週、1日で23％上昇した。上昇要因として、米国で新たに登場したHYPE関連ETFのローンチと、CoinbaseによるHyperliquid関連の取引が挙げられる。これらの材料は投資家の関心を高め、短期的な買いを促した。一方で、急騰後のチャートでは過熱感や反落の可能性を示すテクニカルシグナルも見られる。市場はETFによるアクセス改善とCoinbaseとのつながりがHYPE需要をどこまで支えるかを注視している。Cointelegraph.comは、今回のラリーは強い材料に支えられたものの、テクニカル面では短期的なプルバックリスクが残ると報じた。"
-      },
-      "zh": {
-        "title": "HYPE代币单日上涨23%，美国ETF与Coinbase交易成催化剂",
-        "excerpt": "本周，Hyperliquid的HYPE代币在美国ETF推出和Coinbase相关交易推动下单日上涨23%，但技术指标提示短期回调风险仍然存在。",
-        "body": "Hyperliquid的HYPE代币价格本周单日上涨23%。推动上涨的主要因素包括美国新推出的HYPE相关ETF，以及Coinbase与Hyperliquid相关的交易安排。这两项消息提升了投资者关注度，并刺激了短期买盘。不过，在价格快速上涨后，技术指标显示市场可能出现过热或回撤。投资者正在观察ETF带来的更便利投资渠道，以及Coinbase与Hyperliquid的关联能否继续支撑HYPE需求。Cointelegraph.com报道称，本轮上涨受到强劲利好推动，但从技术面看，短期pullback风险仍未消除。"
-      },
-      "es": {
-        "title": "HYPE sube 23% en un día por ETF en EE. UU. y acuerdo de Coinbase",
-        "excerpt": "El token HYPE de Hyperliquid avanzó 23% en un día esta semana por nuevos ETF en EE. UU. y el acuerdo de Coinbase con Hyperliquid, aunque los indicadores técnicos advierten de un posible retroceso.",
-        "body": "El precio del token HYPE de Hyperliquid subió 23% en un solo día esta semana. El repunte se atribuye al lanzamiento de nuevos ETF vinculados a HYPE en Estados Unidos y al acuerdo de Coinbase con Hyperliquid, dos factores que aumentaron la atención de los inversores e impulsaron compras de corto plazo. Sin embargo, tras la fuerte subida, los indicadores técnicos apuntan a un posible sobrecalentamiento o retroceso. El mercado observa si el acceso mediante ETF y la relación con Coinbase pueden sostener la demanda de HYPE. Cointelegraph.com informó que el rally se apoyó en catalizadores sólidos, pero que el análisis técnico aún advierte de un riesgo de pullback a corto plazo."
-      },
-      "pt": {
-        "title": "HYPE sobe 23% em um dia com ETFs nos EUA e acordo da Coinbase",
-        "excerpt": "O token HYPE da Hyperliquid avançou 23% em um dia nesta semana, impulsionado por novos ETFs nos EUA e pelo acordo da Coinbase com a Hyperliquid, enquanto indicadores técnicos alertam para possível correção.",
-        "body": "O preço do token HYPE da Hyperliquid subiu 23% em um único dia nesta semana. A alta foi associada ao lançamento de novos ETFs ligados ao HYPE nos Estados Unidos e ao acordo da Coinbase com a Hyperliquid, fatores que ampliaram a atenção dos investidores e estimularam compras de curto prazo. Ainda assim, depois do avanço forte, indicadores técnicos sugerem risco de sobreaquecimento ou recuo. O mercado acompanha se o acesso via ETF e a conexão com a Coinbase poderão sustentar a demanda por HYPE. Segundo o Cointelegraph.com, o rali foi alimentado por catalisadores relevantes, mas a leitura técnica ainda aponta risco de pullback no curto prazo."
-      },
-      "de": {
-        "title": "HYPE-Token steigt 23% an einem Tag: US-ETFs und Coinbase-Deal treiben Kurs",
-        "excerpt": "Der HYPE-Token von Hyperliquid legte diese Woche an einem Tag 23% zu, gestützt durch neue US-ETF-Starts und den Coinbase-Deal mit Hyperliquid, während technische Signale vor einem möglichen Rücksetzer warnen.",
-        "body": "Der Preis des Hyperliquid-Tokens HYPE ist diese Woche innerhalb eines Tages um 23% gestiegen. Als Auslöser gelten neue HYPE-bezogene ETF-Starts in den USA sowie der Hyperliquid-Deal von Coinbase. Beide Faktoren erhöhten die Aufmerksamkeit der Anleger und förderten kurzfristige Käufe. Nach dem starken Anstieg deuten technische Indikatoren jedoch auf mögliche Überhitzung oder eine Gegenbewegung hin. Der Markt beobachtet, ob der einfachere Zugang über ETFs und die Verbindung zu Coinbase die Nachfrage nach HYPE weiter stützen können. Cointelegraph.com berichtete, dass die Rally von starken Impulsen getragen wurde, aus technischer Sicht aber weiterhin ein kurzfristiges Pullback-Risiko besteht."
-      },
-      "fr": {
-        "title": "HYPE bondit de 23% en un jour, porté par les ETF US et l’accord Coinbase",
-        "excerpt": "Le token HYPE de Hyperliquid a gagné 23% en une journée cette semaine grâce à de nouveaux ETF américains et à l’accord de Coinbase avec Hyperliquid, mais les signaux techniques préviennent d’un possible repli.",
-        "body": "Le prix du token HYPE de Hyperliquid a progressé de 23% en une seule journée cette semaine. Cette hausse est liée au lancement de nouveaux ETF américains associés à HYPE et à l’accord de Coinbase avec Hyperliquid, deux éléments qui ont accru l’attention des investisseurs et soutenu les achats de court terme. Toutefois, après cette forte progression, les indicateurs techniques suggèrent un risque de surchauffe ou de retracement. Le marché surveille si l’accès via les ETF et le lien avec Coinbase peuvent maintenir la demande pour HYPE. Cointelegraph.com a indiqué que le rally s’appuyait sur des catalyseurs solides, mais que l’analyse technique signalait encore un risque de pullback à court terme."
-      },
-      "ar": {
-        "title": "ارتفاع HYPE بنسبة 23% في يوم مع إطلاق صناديق ETF أمريكية وصفقة Coinbase",
-        "excerpt": "ارتفع رمز HYPE الخاص بـHyperliquid بنسبة 23% في يوم واحد هذا الأسبوع بدعم من إطلاق صناديق ETF أمريكية جديدة وصفقة Coinbase مع Hyperliquid، بينما حذرت المؤشرات الفنية من احتمال تراجع قصير الأجل.",
-        "body": "ارتفع سعر رمز HYPE الخاص بـHyperliquid بنسبة 23% خلال يوم واحد هذا الأسبوع. وجاء الصعود مدفوعا بإطلاق صناديق ETF أمريكية جديدة مرتبطة بـHYPE، إضافة إلى صفقة Coinbase مع Hyperliquid، وهما عاملان زادا اهتمام المستثمرين وشجعا عمليات شراء قصيرة الأجل. ومع ذلك، وبعد الارتفاع الحاد، تشير المؤشرات الفنية إلى احتمال وجود حالة تشبع أو تراجع سعري. يراقب السوق ما إذا كان الوصول عبر صناديق ETF والارتباط مع Coinbase قادرين على دعم الطلب على HYPE. وذكر Cointelegraph.com أن الارتفاع استفاد من محفزات قوية، لكن القراءة الفنية لا تزال تشير إلى خطر pullback قريب الأجل."
-      },
-      "hi": {
-        "title": "HYPE टोकन एक दिन में 23% उछला, US ETF और Coinbase डील बनी वजह",
-        "excerpt": "Hyperliquid का HYPE टोकन इस सप्ताह नए अमेरिकी ETF लॉन्च और Coinbase की Hyperliquid डील से एक दिन में 23% चढ़ा, लेकिन तकनीकी संकेत संभावित अल्पकालिक गिरावट की चेतावनी दे रहे हैं।",
-        "body": "Hyperliquid के HYPE टोकन की कीमत इस सप्ताह एक ही दिन में 23% बढ़ी। इस तेजी के पीछे अमेरिका में नए HYPE-संबंधित ETF लॉन्च और Coinbase की Hyperliquid डील को प्रमुख कारण माना गया। इन दोनों घटनाओं ने निवेशकों का ध्यान बढ़ाया और अल्पकालिक खरीदारी को प्रोत्साहित किया। हालांकि तेज उछाल के बाद तकनीकी संकेतक ओवरहीटिंग या रिट्रेसमेंट की संभावना दिखा रहे हैं। बाजार यह देख रहा है कि ETF के जरिए आसान पहुंच और Coinbase से जुड़ाव HYPE की मांग को कितना सहारा दे पाएंगे। Cointelegraph.com के अनुसार, यह रैली मजबूत कारकों से प्रेरित थी, लेकिन तकनीकी दृष्टि से अल्पकालिक pullback का जोखिम अभी भी बना हुआ है।"
-      },
-      "id": {
-        "title": "HYPE Naik 23% Sehari, ETF AS dan Kesepakatan Coinbase Jadi Pemicu",
-        "excerpt": "Token HYPE milik Hyperliquid naik 23% dalam sehari pekan ini setelah peluncuran ETF AS baru dan kesepakatan Coinbase dengan Hyperliquid menarik perhatian pasar, meski teknikal memperingatkan potensi koreksi.",
-        "body": "Harga token HYPE milik Hyperliquid naik 23% dalam satu hari pekan ini. Kenaikan tersebut didorong oleh peluncuran ETF baru di Amerika Serikat yang terkait HYPE serta kesepakatan Coinbase dengan Hyperliquid. Kedua faktor itu meningkatkan perhatian investor dan mendorong pembelian jangka pendek. Namun, setelah lonjakan tajam, indikator teknikal menunjukkan kemungkinan kondisi terlalu panas atau retracement. Pasar kini mencermati apakah akses melalui ETF dan hubungan dengan Coinbase dapat menopang permintaan HYPE. Cointelegraph.com melaporkan bahwa reli ini ditopang katalis kuat, tetapi secara teknikal risiko pullback jangka pendek masih tetap ada."
-      }
-    }
-  },
-  {
-    "id": "fedc45fe8e15",
-    "slug": "hyperliquid-leads-24-hour-gains-as-altcoins-pace-bitcoin-191647",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T11:27:35.107Z",
-    "updatedAt": "2026-05-15T11:27:35.108Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/15/hyperliquid-leads-24-hour-gains-as-altcoins-pace-bitcoin",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/15/hyperliquid-leads-24-hour-gains-as-altcoins-pace-bitcoin",
-    "titleFingerprint": "0d704115f350809e8abf1adb30f20accee4f5d8e",
-    "dedupKeys": [
-      "fedc45fe8e1547452f4177d200068ce969102d2b",
-      "0d704115f350809e8abf1adb30f20accee4f5d8e",
-      "12754db963413268dc75ff68145152124cc7f5af"
-    ],
-    "imageUrl": "/images/articles/fedc45fe8e15.jpg",
-    "i18n": {
-      "ko": {
-        "title": "하이퍼리퀴드 HYPE, 24시간 상승률 선두…알트코인 강세 속 비트코인 앞서",
-        "excerpt": "하이퍼리퀴드 토큰 HYPE가 24시간 상승률 선두에 올랐다. Bitwise의 현물 Hyperliquid ETF와 Coinbase의 공식 USDC 재무 배치자 역할 확대가 상승 배경으로 꼽힌다.",
-        "body": "하이퍼리퀴드의 토큰 HYPE가 최근 24시간 기준 상승률에서 선두를 기록하며 비트코인보다 빠른 흐름을 보인 알트코인 강세를 이끌었다. 상승 배경으로는 Bitwise가 새로 추진한 현물 Hyperliquid ETF와 Coinbase의 역할 확대가 제시됐다. Coinbase는 Hyperliquid의 공식 USDC 재무 배치자로 더 큰 역할을 맡게 됐다. 이 두 가지 소식은 HYPE에 대한 시장 관심을 키운 요인으로 언급된다. 다만 원문은 구체적인 상승률이나 ETF 세부 조건은 제시하지 않았다. 알트코인이 비트코인의 흐름을 앞서는 장면에서 HYPE가 가장 두드러진 사례로 부각됐다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Hyperliquid HYPE Tops 24-Hour Gains as Altcoins Outpace Bitcoin",
-        "excerpt": "Hyperliquid token HYPE led 24-hour gains as Bitwise’s new spot Hyperliquid ETF and Coinbase’s expanded role as official USDC treasury deployer fueled market attention.",
-        "body": "Hyperliquid’s token HYPE led gains over the latest 24-hour period, standing out as altcoins moved faster than bitcoin. The advance was linked to two developments: Bitwise’s new spot Hyperliquid ETF and Coinbase’s expanded role for Hyperliquid. Coinbase is taking on a larger position as Hyperliquid’s official USDC treasury deployer. These updates were cited as factors behind stronger market attention on HYPE. The source did not provide a specific percentage gain or detailed ETF terms. In a session where altcoins paced ahead of bitcoin, HYPE emerged as the clearest example. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "HyperliquidのHYPE、24時間上昇率で首位に　アルトコインがビットコインを先行",
-        "excerpt": "HyperliquidのHYPEは24時間上昇率で首位に立った。Bitwiseの現物Hyperliquid ETFとCoinbaseの公式USDC財務配置者としての役割拡大が背景とされる。",
-        "body": "HyperliquidのトークンHYPEは直近24時間の上昇率で首位となり、ビットコインより速い動きを見せたアルトコイン相場をけん引した。上昇の背景には、Bitwiseが新たに進める現物Hyperliquid ETFと、Coinbaseの役割拡大があるとされた。CoinbaseはHyperliquidの公式USDC財務配置者として、より大きな役割を担う。これらの材料がHYPEへの市場関心を高めた要因として挙げられている。ただし原文は具体的な上昇率やETFの詳細条件を示していない。アルトコインがビットコインを先行する局面で、HYPEが最も目立つ例となった。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Hyperliquid代币HYPE领涨24小时，山寨币走势跑在比特币前面",
-        "excerpt": "Hyperliquid代币HYPE领跑24小时涨幅。Bitwise新的现货Hyperliquid ETF，以及Coinbase扩大作为官方USDC财库部署方的角色，被视为推动因素。",
-        "body": "Hyperliquid的代币HYPE在最近24小时涨幅中位居前列，并在山寨币走势快于比特币的背景下表现突出。上涨背景包括Bitwise新推出的现货Hyperliquid ETF，以及Coinbase在Hyperliquid中的角色扩大。Coinbase将作为Hyperliquid官方USDC财库部署方承担更大作用。上述两项消息被提及为提升市场对HYPE关注度的因素。不过，原文未给出具体涨幅，也未披露该ETF的详细条款。在山寨币领先比特币的行情中，HYPE成为最醒目的案例。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Hyperliquid HYPE lidera las ganancias de 24 horas mientras las altcoins superan a bitcoin",
-        "excerpt": "El token HYPE de Hyperliquid encabezó las ganancias de 24 horas, impulsado por el nuevo ETF spot de Bitwise y el papel ampliado de Coinbase como desplegador oficial de tesorería USDC.",
-        "body": "El token HYPE de Hyperliquid lideró las ganancias durante las últimas 24 horas y destacó en una sesión en la que las altcoins avanzaron más rápido que bitcoin. El movimiento se vinculó con dos novedades: el nuevo ETF spot de Hyperliquid de Bitwise y la ampliación del papel de Coinbase dentro de Hyperliquid. Coinbase asumirá una función mayor como desplegador oficial de la tesorería USDC de Hyperliquid. Ambos hechos fueron citados como factores que elevaron la atención del mercado sobre HYPE. La fuente no ofreció un porcentaje concreto de subida ni detalles específicos del ETF. En un mercado donde las altcoins marcaron el ritmo frente a bitcoin, HYPE fue el caso más destacado. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Hyperliquid HYPE lidera ganhos em 24 horas enquanto altcoins superam bitcoin",
-        "excerpt": "O token HYPE da Hyperliquid liderou os ganhos em 24 horas, com impulso do novo ETF spot da Bitwise e do papel ampliado da Coinbase como implantadora oficial da tesouraria em USDC.",
-        "body": "O token HYPE da Hyperliquid liderou os ganhos nas últimas 24 horas e se destacou em um movimento no qual as altcoins avançaram mais rápido que o bitcoin. A alta foi associada a dois fatores: o novo ETF spot de Hyperliquid da Bitwise e a ampliação do papel da Coinbase no ecossistema. A Coinbase passa a ter uma função maior como implantadora oficial da tesouraria em USDC da Hyperliquid. Essas novidades foram apontadas como elementos que aumentaram a atenção do mercado sobre o HYPE. A fonte não informou uma porcentagem específica de alta nem detalhes completos do ETF. Em um cenário no qual as altcoins ditaram o ritmo frente ao bitcoin, HYPE foi o principal destaque. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Hyperliquid HYPE führt 24-Stunden-Gewinne an, während Altcoins Bitcoin überholen",
-        "excerpt": "Der Hyperliquid-Token HYPE führte die 24-Stunden-Gewinne an. Als Treiber gelten Bitwise’ neuer Spot-Hyperliquid-ETF und Coinbases erweiterte Rolle als offizieller USDC-Treasury-Deployer.",
-        "body": "Der Hyperliquid-Token HYPE führte in den jüngsten 24 Stunden die Kursgewinne an und stach hervor, während Altcoins schneller zulegten als Bitcoin. Als Hintergrund wurden zwei Entwicklungen genannt: der neue Spot-Hyperliquid-ETF von Bitwise und die ausgeweitete Rolle von Coinbase bei Hyperliquid. Coinbase übernimmt eine größere Funktion als offizieller USDC-Treasury-Deployer von Hyperliquid. Diese Nachrichten wurden als Faktoren genannt, die das Marktinteresse an HYPE verstärkten. Die Quelle nannte jedoch keinen konkreten prozentualen Anstieg und keine detaillierten ETF-Bedingungen. In einer Phase, in der Altcoins Bitcoin überholten, wurde HYPE zum auffälligsten Beispiel. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Hyperliquid HYPE en tête des gains sur 24 heures alors que les altcoins dépassent bitcoin",
-        "excerpt": "Le token HYPE de Hyperliquid a mené les gains sur 24 heures, soutenu par le nouvel ETF spot de Bitwise et le rôle élargi de Coinbase comme déployeur officiel de la trésorerie USDC.",
-        "body": "Le token HYPE de Hyperliquid a pris la tête des gains sur les dernières 24 heures et s’est distingué alors que les altcoins progressaient plus vite que bitcoin. Cette hausse a été reliée à deux éléments: le nouvel ETF spot Hyperliquid de Bitwise et l’élargissement du rôle de Coinbase auprès de Hyperliquid. Coinbase doit assumer une fonction plus importante comme déployeur officiel de la trésorerie USDC de Hyperliquid. Ces annonces ont été citées comme des facteurs ayant renforcé l’attention du marché sur HYPE. La source n’a pas indiqué de pourcentage précis de hausse ni de conditions détaillées pour l’ETF. Dans une séquence où les altcoins ont devancé bitcoin, HYPE est ressorti comme l’exemple le plus visible. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "عملة Hyperliquid HYPE تتصدر مكاسب 24 ساعة مع تقدم العملات البديلة على بيتكوين",
-        "excerpt": "تصدر رمز HYPE الخاص بـHyperliquid مكاسب 24 ساعة، مدفوعا بصندوق Bitwise الفوري الجديد ودور Coinbase الموسع كجهة نشر رسمية لخزانة USDC الخاصة بـHyperliquid.",
-        "body": "تصدر رمز HYPE الخاص بـHyperliquid المكاسب خلال آخر 24 ساعة، وبرز مع تحرك العملات البديلة بوتيرة أسرع من بيتكوين. ويرتبط هذا الصعود بتطورين رئيسيين: صندوق Bitwise الفوري الجديد لـHyperliquid، وتوسيع دور Coinbase داخل Hyperliquid. وستتولى Coinbase دورا أكبر بصفتها الجهة الرسمية لنشر خزانة USDC الخاصة بـHyperliquid. وذكرت هذه المستجدات كعوامل زادت اهتمام السوق بـHYPE. ولم يقدم المصدر نسبة صعود محددة أو تفاصيل شروط الصندوق المتداول. وفي جلسة سبقت فيها العملات البديلة بيتكوين، ظهر HYPE كأبرز مثال. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Hyperliquid HYPE 24 घंटे की बढ़त में आगे, ऑल्टकॉइन बिटकॉइन से तेज",
-        "excerpt": "Hyperliquid का HYPE टोकन 24 घंटे की बढ़त में सबसे आगे रहा। Bitwise के नए स्पॉट Hyperliquid ETF और Coinbase की आधिकारिक USDC ट्रेजरी डिप्लॉयर भूमिका के विस्तार ने ध्यान बढ़ाया।",
-        "body": "Hyperliquid का टोकन HYPE पिछले 24 घंटों की बढ़त में सबसे आगे रहा और उस समय खास दिखा जब ऑल्टकॉइन बिटकॉइन से तेज चले। इस तेजी के पीछे दो घटनाओं का उल्लेख किया गया: Bitwise का नया स्पॉट Hyperliquid ETF और Hyperliquid में Coinbase की भूमिका का विस्तार। Coinbase अब Hyperliquid के आधिकारिक USDC ट्रेजरी डिप्लॉयर के रूप में बड़ी भूमिका निभा रहा है। इन दोनों खबरों को HYPE पर बाजार का ध्यान बढ़ाने वाले कारणों के रूप में देखा गया। स्रोत ने बढ़त का कोई विशिष्ट प्रतिशत या ETF की विस्तृत शर्तें नहीं दीं। ऐसे बाजार में जहां ऑल्टकॉइन ने बिटकॉइन से बेहतर गति दिखाई, HYPE सबसे प्रमुख उदाहरण बना। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Hyperliquid HYPE Pimpin Kenaikan 24 Jam Saat Altcoin Melaju di Depan Bitcoin",
-        "excerpt": "Token HYPE milik Hyperliquid memimpin kenaikan 24 jam, didorong ETF spot Hyperliquid baru dari Bitwise dan peran Coinbase yang diperluas sebagai deployer resmi treasury USDC.",
-        "body": "Token HYPE milik Hyperliquid memimpin kenaikan dalam 24 jam terakhir dan menonjol saat altcoin bergerak lebih cepat daripada bitcoin. Kenaikan itu dikaitkan dengan dua perkembangan: ETF spot Hyperliquid baru dari Bitwise dan perluasan peran Coinbase di Hyperliquid. Coinbase mengambil peran lebih besar sebagai deployer resmi treasury USDC Hyperliquid. Dua kabar tersebut disebut sebagai faktor yang meningkatkan perhatian pasar terhadap HYPE. Sumber tidak memberikan persentase kenaikan spesifik atau rincian syarat ETF. Dalam sesi ketika altcoin memimpin laju di depan bitcoin, HYPE menjadi contoh paling menonjol. Sumber: coindesk.com"
       }
     }
   }
