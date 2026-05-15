@@ -1,0 +1,75 @@
+{
+  "id": "47c1db0bb2dc",
+  "slug": "thorchain-halts-trading-after-10-million-cross-chain-exploit-949677",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-15T10:33:25.646Z",
+  "updatedAt": "2026-05-15T10:33:25.646Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12",
+  "titleFingerprint": "cdc4f030008367a1c53476a253b80b258fb39220",
+  "dedupKeys": [
+    "47c1db0bb2dcaf7660718c209fb10b7e411993d8",
+    "cdc4f030008367a1c53476a253b80b258fb39220",
+    "39940376f6bffd75eb59669efee0cb088c66c82f"
+  ],
+  "imageUrl": "/images/articles/47c1db0bb2dc.jpg",
+  "i18n": {
+    "ko": {
+      "title": "토르체인, 1,080만 달러 크로스체인 공격에 거래 중단…RUNE 12% 하락",
+      "excerpt": "토르체인은 금요일 비트코인·이더리움·BSC·베이스 전반에서 약 1,080만 달러가 유출된 뒤 모든 거래와 서명을 중단했고 RUNE은 12% 하락했다.",
+      "body": "크로스체인 유동성 프로토콜 토르체인(Thorchain)이 금요일 공격자가 비트코인, 이더리움, BSC, 베이스 전반에서 약 1,080만 달러를 빼낸 뒤 모든 거래와 서명을 중단했다. 이번 조치는 추가 피해를 막기 위한 대응으로, 프로토콜의 핵심 기능인 체인 간 거래 처리가 일시적으로 멈춘 것이다. 원문에 따르면 공격은 여러 네트워크에 걸쳐 발생했으며, 사건 직후 토르체인 관련 토큰 RUNE은 12% 하락했다. 크로스체인 유동성 서비스의 보안 리스크가 다시 부각된 가운데, 거래 재개 여부와 이용자 자산 영향이 시장의 주요 관심사로 남았다. 출처: coindesk.com"
+    },
+    "en": {
+      "title": "Thorchain halts trading after $10.8M cross-chain exploit as RUNE falls 12%",
+      "excerpt": "Thorchain paused all trading and signing on Friday after an attacker drained about $10.8 million across Bitcoin, Ethereum, BSC and Base, sending RUNE down 12%.",
+      "body": "Thorchain, a cross-chain liquidity protocol, halted all trading and signing on Friday after an attacker drained roughly $10.8 million across Bitcoin, Ethereum, BSC and Base. The move was a response aimed at limiting further damage, temporarily stopping the protocol’s core cross-chain transaction functions. According to the original report, the exploit affected multiple networks, and Thorchain’s RUNE token dropped 12% after the incident. As security risks around cross-chain liquidity services return to focus, the timing of any trading restart and the impact on user assets remain key market concerns. Source: coindesk.com"
+    },
+    "ja": {
+      "title": "Thorchain、1080万ドルのクロスチェーン攻撃で取引停止、RUNEは12%下落",
+      "excerpt": "Thorchainは金曜日、Bitcoin、Ethereum、BSC、Base全体で約1080万ドルが流出した後、全取引と署名を停止し、RUNEは12%下落した。",
+      "body": "クロスチェーン流動性プロトコルのThorchainは金曜日、攻撃者がBitcoin、Ethereum、BSC、Base全体から約1080万ドルを流出させた後、すべての取引と署名を停止した。この対応は追加被害を防ぐためのもので、プロトコルの中核機能であるチェーン間取引処理が一時的に止まった。原文によると、攻撃は複数のネットワークにまたがって発生し、事件後にThorchain関連トークンのRUNEは12%下落した。クロスチェーン流動性サービスのセキュリティリスクが再び注目される中、取引再開の時期と利用者資産への影響が市場の主な関心事となっている。出典: coindesk.com"
+    },
+    "zh": {
+      "title": "Thorchain遭1080万美元跨链攻击后暂停交易，RUNE下跌12%",
+      "excerpt": "Thorchain周五在攻击者从比特币、以太坊、BSC和Base等网络盗走约1080万美元后，暂停所有交易和签名，RUNE下跌12%。",
+      "body": "跨链流动性协议Thorchain周五暂停了所有交易和签名，此前一名攻击者从比特币、以太坊、BSC和Base等网络中盗走约1080万美元。该措施旨在防止进一步损失，也意味着该协议的核心跨链交易处理功能暂时停止。根据原文，攻击发生在多个网络之间，事件发生后，Thorchain相关代币RUNE下跌12%。随着跨链流动性服务的安全风险再次受到关注，交易何时恢复以及用户资产受到的影响，仍是市场关注的重点。来源: coindesk.com"
+    },
+    "es": {
+      "title": "Thorchain pausa operaciones tras exploit cross-chain de USD 10,8M; RUNE cae 12%",
+      "excerpt": "Thorchain suspendió el viernes todas las operaciones y firmas tras el drenaje de unos USD 10,8 millones en Bitcoin, Ethereum, BSC y Base; RUNE cayó 12%.",
+      "body": "Thorchain, un protocolo de liquidez cross-chain, suspendió el viernes todas las operaciones y firmas después de que un atacante drenara cerca de USD 10,8 millones en Bitcoin, Ethereum, BSC y Base. La medida buscó limitar daños adicionales y detuvo temporalmente la función central del protocolo para procesar transacciones entre cadenas. Según el reporte original, el ataque abarcó varias redes y, tras el incidente, el token RUNE vinculado a Thorchain cayó 12%. Con los riesgos de seguridad de los servicios de liquidez cross-chain nuevamente bajo atención, el momento de una posible reanudación y el impacto sobre los activos de usuarios siguen siendo focos del mercado. Fuente: coindesk.com"
+    },
+    "pt": {
+      "title": "Thorchain suspende negociações após exploit cross-chain de US$ 10,8 mi; RUNE cai 12%",
+      "excerpt": "A Thorchain pausou na sexta-feira todas as negociações e assinaturas após um invasor drenar cerca de US$ 10,8 milhões em Bitcoin, Ethereum, BSC e Base; RUNE caiu 12%.",
+      "body": "A Thorchain, protocolo de liquidez cross-chain, suspendeu na sexta-feira todas as negociações e assinaturas depois que um invasor drenou cerca de US$ 10,8 milhões em Bitcoin, Ethereum, BSC e Base. A medida foi uma resposta para limitar danos adicionais, interrompendo temporariamente a principal função do protocolo de processar transações entre cadeias. Segundo o relato original, o ataque ocorreu em várias redes e, após o incidente, o token RUNE ligado à Thorchain caiu 12%. Com os riscos de segurança dos serviços de liquidez cross-chain novamente em destaque, a retomada das negociações e o impacto sobre ativos de usuários seguem no foco do mercado. Fonte: coindesk.com"
+    },
+    "de": {
+      "title": "Thorchain stoppt Handel nach Cross-Chain-Exploit über 10,8 Mio. Dollar; RUNE fällt 12%",
+      "excerpt": "Thorchain stoppte am Freitag alle Handels- und Signiervorgänge, nachdem ein Angreifer rund 10,8 Mio. Dollar über Bitcoin, Ethereum, BSC und Base abzog; RUNE fiel 12%.",
+      "body": "Thorchain, ein Cross-Chain-Liquiditätsprotokoll, stoppte am Freitag alle Handels- und Signiervorgänge, nachdem ein Angreifer rund 10,8 Millionen Dollar über Bitcoin, Ethereum, BSC und Base abgezogen hatte. Die Maßnahme sollte weiteren Schaden begrenzen und legte die Kernfunktion des Protokolls zur Verarbeitung kettenübergreifender Transaktionen vorübergehend still. Dem Originalbericht zufolge betraf der Angriff mehrere Netzwerke; der mit Thorchain verbundene Token RUNE fiel nach dem Vorfall um 12%. Während Sicherheitsrisiken bei Cross-Chain-Liquiditätsdiensten erneut in den Fokus rücken, bleiben die mögliche Wiederaufnahme des Handels und Auswirkungen auf Nutzervermögen zentrale Marktthemen. Quelle: coindesk.com"
+    },
+    "fr": {
+      "title": "Thorchain suspend les échanges après un exploit cross-chain de 10,8 M$; RUNE perd 12%",
+      "excerpt": "Thorchain a suspendu vendredi tous les échanges et signatures après le drainage d’environ 10,8 M$ sur Bitcoin, Ethereum, BSC et Base; RUNE a reculé de 12%.",
+      "body": "Thorchain, protocole de liquidité cross-chain, a suspendu vendredi tous les échanges et signatures après qu’un attaquant a drainé environ 10,8 millions de dollars sur Bitcoin, Ethereum, BSC et Base. Cette mesure visait à limiter de nouveaux dégâts et a temporairement arrêté la fonction centrale du protocole, le traitement des transactions entre chaînes. Selon le rapport original, l’attaque a touché plusieurs réseaux et le jeton RUNE lié à Thorchain a chuté de 12% après l’incident. Alors que les risques de sécurité des services de liquidité cross-chain reviennent au premier plan, la reprise éventuelle des échanges et l’impact sur les actifs des utilisateurs restent des sujets clés pour le marché. Source: coindesk.com"
+    },
+    "ar": {
+      "title": "ثور تشين توقف التداول بعد اختراق عابر للسلاسل بقيمة 10.8 مليون دولار وRUNE يهبط 12%",
+      "excerpt": "أوقفت ثور تشين يوم الجمعة كل عمليات التداول والتوقيع بعدما سحب مهاجم نحو 10.8 مليون دولار عبر بيتكوين وإيثريوم وBSC وBase، بينما هبط RUNE بنسبة 12%.",
+      "body": "أوقفت ثور تشين، وهي بروتوكول سيولة عابر للسلاسل، يوم الجمعة جميع عمليات التداول والتوقيع بعدما سحب مهاجم نحو 10.8 مليون دولار عبر شبكات بيتكوين وإيثريوم وBSC وBase. وجاءت الخطوة للحد من أضرار إضافية، ما أدى إلى توقف مؤقت للوظيفة الأساسية للبروتوكول في معالجة المعاملات بين السلاسل. ووفق التقرير الأصلي، وقع الهجوم عبر عدة شبكات، وبعد الحادث هبط رمز RUNE المرتبط بثور تشين بنسبة 12%. ومع عودة مخاطر أمن خدمات السيولة العابرة للسلاسل إلى الواجهة، يبقى موعد استئناف التداول وتأثير الحادث على أصول المستخدمين محور اهتمام السوق. المصدر: coindesk.com"
+    },
+    "hi": {
+      "title": "Thorchain ने $10.8 मिलियन क्रॉस-चेन हमले के बाद ट्रेडिंग रोकी, RUNE 12% गिरा",
+      "excerpt": "Thorchain ने शुक्रवार को Bitcoin, Ethereum, BSC और Base पर करीब $10.8 मिलियन निकाले जाने के बाद सभी ट्रेडिंग और साइनिंग रोक दी, जिससे RUNE 12% गिरा।",
+      "body": "क्रॉस-चेन लिक्विडिटी प्रोटोकॉल Thorchain ने शुक्रवार को सभी ट्रेडिंग और साइनिंग रोक दी, जब एक हमलावर ने Bitcoin, Ethereum, BSC और Base पर करीब $10.8 मिलियन निकाल लिए। यह कदम आगे के नुकसान को सीमित करने के लिए उठाया गया और इससे प्रोटोकॉल की मुख्य क्रॉस-चेन लेनदेन प्रक्रिया अस्थायी रूप से रुक गई। मूल रिपोर्ट के अनुसार, हमला कई नेटवर्क पर हुआ और घटना के बाद Thorchain से जुड़ा टोकन RUNE 12% गिर गया। क्रॉस-चेन लिक्विडिटी सेवाओं की सुरक्षा जोखिमों पर फिर ध्यान बढ़ने के बीच, ट्रेडिंग कब फिर शुरू होगी और यूजर एसेट्स पर असर क्या होगा, ये बाजार की प्रमुख चिंताएं बनी हुई हैं। स्रोत: coindesk.com"
+    },
+    "id": {
+      "title": "Thorchain hentikan perdagangan usai eksploit cross-chain US$10,8 juta; RUNE turun 12%",
+      "excerpt": "Thorchain pada Jumat menghentikan semua perdagangan dan penandatanganan setelah penyerang menguras sekitar US$10,8 juta di Bitcoin, Ethereum, BSC, dan Base; RUNE turun 12%.",
+      "body": "Thorchain, protokol likuiditas cross-chain, pada Jumat menghentikan semua perdagangan dan penandatanganan setelah seorang penyerang menguras sekitar US$10,8 juta di jaringan Bitcoin, Ethereum, BSC, dan Base. Langkah ini diambil untuk membatasi kerugian tambahan dan untuk sementara menghentikan fungsi utama protokol dalam memproses transaksi lintas rantai. Menurut laporan asli, serangan terjadi di beberapa jaringan, dan token RUNE yang terkait dengan Thorchain turun 12% setelah insiden tersebut. Saat risiko keamanan layanan likuiditas cross-chain kembali menjadi sorotan, waktu pembukaan kembali perdagangan dan dampaknya terhadap aset pengguna tetap menjadi perhatian utama pasar. Sumber: coindesk.com"
+    }
+  }
+}
