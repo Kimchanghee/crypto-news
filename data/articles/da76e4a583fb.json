@@ -1,0 +1,75 @@
+{
+  "id": "da76e4a583fb",
+  "slug": "packs-of-empty-waymos-are-weirding-out-atlanta-neighborhood-675319",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-15T19:38:32.989Z",
+  "updatedAt": "2026-05-15T19:38:32.989Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/368058/atlanta-residents-wake-up-to-empty-waymos-circling-their-neighborhood",
+  "canonicalUrl": "https://decrypt.co/368058/atlanta-residents-wake-up-to-empty-waymos-circling-their-neighborhood",
+  "titleFingerprint": "c62611158a9f27b55fc3bff8e85d498b889ad1c2",
+  "dedupKeys": [
+    "da76e4a583fb31f4afc09b371813632fa6d495b7",
+    "c62611158a9f27b55fc3bff8e85d498b889ad1c2",
+    "ddbc10c03e925e36a97156ce3d8affb3bd34c274"
+  ],
+  "imageUrl": "/images/articles/da76e4a583fb.jpg",
+  "i18n": {
+    "ko": {
+      "title": "애틀랜타 주택가 도는 빈 웨이모 로보택시, 주민 불안 커졌다",
+      "excerpt": "미국 애틀랜타 북서부 주민들은 최근 몇 주 동안 이른 아침마다 승객 없는 웨이모 로보택시 여러 대가 주택가 도로를 반복적으로 순환했다고 밝혔다.",
+      "body": "미국 애틀랜타 북서부의 한 주택가에서 승객이 없는 웨이모 로보택시 여러 대가 최근 몇 주 동안 이른 아침 시간대에 반복적으로 도로를 돌고 있다고 주민들이 전했다. 보도에 따르면 차량들은 특정 주거 지역을 계속 순환했고, 이를 본 주민들은 낯설고 불편한 반응을 보였다. 이번 사례는 자율주행 로보택시가 실제 생활권 도로에서 운행될 때 지역 주민이 느끼는 체감과 수용성을 보여준다. 현재 원문에서 확인되는 핵심 수치는 ‘몇 주’ 동안 반복됐다는 점이다. decrypt.co는 애틀랜타 북서부 주민들이 빈 웨이모 차량의 반복 주행을 이상하게 느끼고 있다고 보도했다."
+    },
+    "en": {
+      "title": "Empty Waymo Robotaxis Circling Atlanta Streets Unsettle Residents",
+      "excerpt": "Residents in northwest Atlanta say several empty Waymo robotaxis have repeatedly circled residential streets early in the morning for weeks, raising unease locally.",
+      "body": "Residents in northwest Atlanta say multiple empty Waymo robotaxis have been repeatedly circling residential streets early in the morning for the past several weeks. According to the report, the vehicles kept looping through a specific residential area, leaving some residents with an unfamiliar and uncomfortable feeling. The case highlights how people experience and react to autonomous robotaxis when they operate on everyday neighborhood roads. The key figure confirmed in the original report is that the repeated driving has continued for “weeks.” decrypt.co reported that northwest Atlanta residents found the repeated movement of empty Waymo vehicles strange."
+    },
+    "ja": {
+      "title": "空のWaymoロボタクシーがアトランタ住宅街を周回、住民に戸惑い",
+      "excerpt": "米アトランタ北西部の住民は、ここ数週間、早朝に乗客のいないWaymoロボタクシー数台が住宅街の道路を繰り返し回っていると話している。",
+      "body": "米アトランタ北西部の住宅街で、乗客のいないWaymoロボタクシー数台がここ数週間、早朝の時間帯に住宅街の道路を繰り返し周回していると住民が語った。報道によると、車両は特定の住宅エリアを何度も走行し、それを見た住民の間では見慣れず不安だという反応が出ている。今回の事例は、自動運転ロボタクシーが日常の生活道路で走る際、地域住民がどう受け止めるかを示している。原文で確認できる主な数字は、こうした走行が「数週間」続いたという点だ。decrypt.coは、アトランタ北西部の住民が空のWaymo車両の反復走行を奇妙に感じていると報じた。"
+    },
+    "zh": {
+      "title": "空载Waymo机器人出租车反复绕行亚特兰大社区引居民不安",
+      "excerpt": "美国亚特兰大西北部居民称，过去数周，多辆空载Waymo机器人出租车在清晨反复绕行住宅街道，让当地人感到陌生和不适。",
+      "body": "美国亚特兰大西北部一处住宅区的居民表示，过去数周，多辆没有乘客的Waymo机器人出租车在清晨时段反复沿住宅街道行驶。报道称，这些车辆持续在特定居民区内绕行，目击居民对此感到陌生并产生不适。此事显示，当自动驾驶机器人出租车进入日常生活道路运行时，社区居民的实际感受和接受度会受到关注。原文中可确认的关键时间信息是，这种反复行驶已经持续了“数周”。decrypt.co报道称，亚特兰大西北部居民认为空载Waymo车辆的重复行驶显得奇怪。"
+    },
+    "es": {
+      "title": "Robotaxis Waymo vacíos inquietan a vecinos al rodear calles de Atlanta",
+      "excerpt": "Vecinos del noroeste de Atlanta dicen que varios robotaxis Waymo vacíos llevan semanas circulando repetidamente por calles residenciales a primera hora de la mañana.",
+      "body": "Vecinos del noroeste de Atlanta afirman que varios robotaxis Waymo sin pasajeros han estado circulando repetidamente por calles residenciales durante las primeras horas de la mañana en las últimas semanas. Según el reporte, los vehículos continuaron dando vueltas por una zona residencial concreta, lo que generó entre algunos residentes una sensación extraña e incómoda. El caso muestra cómo se perciben los robotaxis autónomos cuando operan en vías cotidianas de barrios habitados. El dato principal confirmado en el texto original es que el patrón se ha repetido durante “semanas”. decrypt.co informó que residentes del noroeste de Atlanta consideran extraño el recorrido repetido de vehículos Waymo vacíos."
+    },
+    "pt": {
+      "title": "Robotáxis Waymo vazios circulam por Atlanta e incomodam moradores",
+      "excerpt": "Moradores do noroeste de Atlanta dizem que vários robotáxis Waymo vazios passaram semanas circulando repetidamente por ruas residenciais nas primeiras horas da manhã.",
+      "body": "Moradores do noroeste de Atlanta afirmam que vários robotáxis Waymo sem passageiros vêm circulando repetidamente por ruas residenciais nas primeiras horas da manhã ao longo das últimas semanas. Segundo a reportagem, os veículos continuaram dando voltas por uma área residencial específica, provocando em alguns moradores uma sensação de estranhamento e desconforto. O caso mostra como a presença de robotáxis autônomos em vias de uso cotidiano pode ser percebida por comunidades locais. O principal dado confirmado no texto original é que a circulação repetida durou “semanas”. O decrypt.co informou que moradores do noroeste de Atlanta acharam estranho o movimento repetido de veículos Waymo vazios."
+    },
+    "de": {
+      "title": "Leere Waymo-Robotaxis kreisen durch Atlanta und verunsichern Anwohner",
+      "excerpt": "Anwohner im Nordwesten Atlantas sagen, mehrere leere Waymo-Robotaxis seien seit Wochen früh morgens wiederholt durch Wohnstraßen gefahren und hätten Unbehagen ausgelöst.",
+      "body": "Anwohner im Nordwesten von Atlanta berichten, dass mehrere Waymo-Robotaxis ohne Fahrgäste seit einigen Wochen früh am Morgen wiederholt durch Wohnstraßen fahren. Dem Bericht zufolge kreisten die Fahrzeuge immer wieder durch ein bestimmtes Wohngebiet, was bei Bewohnern ein ungewohntes und unangenehmes Gefühl auslöste. Der Fall zeigt, wie autonome Robotaxis wahrgenommen werden, wenn sie auf alltäglichen Straßen in Wohnvierteln unterwegs sind. Die zentrale im Original bestätigte Angabe ist, dass dieses wiederholte Fahren über “Wochen” anhielt. decrypt.co berichtete, Bewohner im Nordwesten Atlantas hätten die wiederholten Fahrten leerer Waymo-Fahrzeuge als seltsam empfunden."
+    },
+    "fr": {
+      "title": "Des robotaxis Waymo vides tournent dans Atlanta et troublent les habitants",
+      "excerpt": "Des habitants du nord-ouest d’Atlanta disent que plusieurs robotaxis Waymo vides circulent depuis des semaines, tôt le matin, en boucle dans des rues résidentielles.",
+      "body": "Des habitants du nord-ouest d’Atlanta affirment que plusieurs robotaxis Waymo sans passagers circulent de façon répétée dans des rues résidentielles tôt le matin depuis plusieurs semaines. Selon l’article, les véhicules ont continué à tourner dans un secteur résidentiel précis, suscitant chez certains riverains une impression étrange et inconfortable. Ce cas montre comment les robotaxis autonomes sont perçus lorsqu’ils opèrent sur les routes ordinaires d’un quartier habité. Le principal élément chiffré confirmé par le texte original est que ces trajets répétés durent depuis “plusieurs semaines”. decrypt.co a rapporté que des habitants du nord-ouest d’Atlanta trouvaient étrange la circulation répétée de véhicules Waymo vides."
+    },
+    "ar": {
+      "title": "سيارات Waymo ذاتية القيادة الفارغة تربك سكان حي في أتلانتا",
+      "excerpt": "قال سكان في شمال غرب أتلانتا إن عدة سيارات أجرة روبوتية فارغة من Waymo ظلت لأسابيع تدور مرارا في شوارع سكنية خلال ساعات الصباح الباكر.",
+      "body": "قال سكان في شمال غرب أتلانتا إن عدة سيارات أجرة روبوتية من Waymo، من دون ركاب، ظلت خلال الأسابيع الأخيرة تدور مرارا في شوارع سكنية في ساعات الصباح الباكر. ووفقا للتقرير، واصلت المركبات المرور داخل منطقة سكنية محددة، ما جعل بعض السكان يشعرون بأن المشهد غريب وغير مريح. تكشف هذه الحالة كيف يتلقى السكان المحليون وجود سيارات الأجرة ذاتية القيادة عندما تعمل على طرق الأحياء اليومية. المعلومة الزمنية الأساسية المؤكدة في النص الأصلي هي أن هذا النمط تكرر على مدى “أسابيع”. وذكر decrypt.co أن سكان شمال غرب أتلانتا وجدوا حركة سيارات Waymo الفارغة المتكررة أمرا غريبا."
+    },
+    "hi": {
+      "title": "खाली Waymo रोबोटैक्सी अटलांटा की गलियों में घूमीं, निवासी असहज",
+      "excerpt": "उत्तर-पश्चिम अटलांटा के निवासियों का कहना है कि कई खाली Waymo रोबोटैक्सी हफ्तों से सुबह-सुबह आवासीय सड़कों पर बार-बार चक्कर लगा रही हैं।",
+      "body": "उत्तर-पश्चिम अटलांटा के एक आवासीय इलाके के निवासियों ने कहा कि बिना यात्रियों वाली कई Waymo रोबोटैक्सी पिछले कई हफ्तों से सुबह-सुबह आवासीय सड़कों पर बार-बार चक्कर लगा रही हैं। रिपोर्ट के अनुसार, ये वाहन एक खास रिहायशी क्षेत्र में लगातार घूमते रहे, जिससे कुछ निवासियों को यह दृश्य अजीब और असहज लगा। यह मामला दिखाता है कि जब स्वचालित रोबोटैक्सी रोजमर्रा की मोहल्ले की सड़कों पर चलती हैं, तो स्थानीय लोग उन्हें कैसे महसूस करते हैं और स्वीकार करते हैं। मूल रिपोर्ट में पुष्टि की गई मुख्य समय-सूचना यह है कि यह दोहराव “कई हफ्तों” तक चला। decrypt.co ने बताया कि उत्तर-पश्चिम अटलांटा के निवासियों को खाली Waymo वाहनों की बार-बार आवाजाही अजीब लगी।"
+    },
+    "id": {
+      "title": "Robotaksi Waymo Kosong Berputar di Atlanta, Warga Merasa Risih",
+      "excerpt": "Warga di barat laut Atlanta mengatakan beberapa robotaksi Waymo kosong selama berminggu-minggu berulang kali mengitari jalan permukiman pada pagi hari.",
+      "body": "Warga di barat laut Atlanta mengatakan beberapa robotaksi Waymo tanpa penumpang telah berulang kali mengitari jalan permukiman pada pagi hari selama beberapa minggu terakhir. Menurut laporan, kendaraan-kendaraan itu terus berputar di area hunian tertentu, membuat sejumlah warga merasa situasinya asing dan tidak nyaman. Kasus ini menunjukkan bagaimana robotaksi otonom dirasakan oleh warga ketika beroperasi di jalan lingkungan sehari-hari. Informasi waktu utama yang dikonfirmasi dalam sumber asli adalah bahwa pola tersebut berlangsung selama “beberapa minggu”. decrypt.co melaporkan bahwa warga barat laut Atlanta menganggap pergerakan berulang kendaraan Waymo kosong itu aneh."
+    }
+  }
+}
