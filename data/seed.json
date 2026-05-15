@@ -1,5 +1,230 @@
 [
   {
+    "id": "566bae2b4c30",
+    "slug": "thorchain-pauses-trading-after-suspected-10m-exploit-690894",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-15T18:19:23.252Z",
+    "updatedAt": "2026-05-15T18:19:23.252Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/thorchain-halts-trading-zachxbt-flags-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/thorchain-halts-trading-zachxbt-flags-10m-exploit",
+    "titleFingerprint": "6d2f73ad6be161b60c850a2121bc949dd2b6d2d2",
+    "dedupKeys": [
+      "566bae2b4c30dc1b6186414cafc040fae127cff0",
+      "6d2f73ad6be161b60c850a2121bc949dd2b6d2d2",
+      "4a48d72070c404c1318f637315ede6326c30b01f"
+    ],
+    "imageUrl": "/images/articles/566bae2b4c30.jpg",
+    "i18n": {
+      "ko": {
+        "title": "THORChain, 1,000만 달러 의심 익스플로잇에 거래 일시 중단",
+        "excerpt": "THORChain은 5월 15일 ZachXBT가 비트코인, 이더리움, BNB 체인, 베이스 전반의 1,000만 달러 규모 의심 익스플로잇을 제기한 뒤 거래를 멈췄다.",
+        "body": "THORChain은 5월 15일 블록체인 조사자 ZachXBT가 약 1,000만 달러 규모의 의심 익스플로잇을 지적한 직후 거래를 일시 중단했다. 문제는 비트코인, 이더리움, BNB 체인, 베이스에 걸친 것으로 언급됐다. THORChain은 텔레그램 공지를 통해 약 12시간 42분 동안, 블록 26191149까지 거래가 중단될 예정이라고 밝혔다. Arkham이 THORChain 익스플로이터로 표시한 지갑에는 1,080만 달러 상당의 보유액이 나타났고, RUNE 가격은 24시간 기준 13% 하락한 것으로 전해졌다. 이번 중단은 크로스체인 유동성 프로토콜의 보안 우려를 다시 부각시켰다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "THORChain Pauses Trading After Suspected $10M Exploit Alert",
+        "excerpt": "THORChain halted trading on May 15 after ZachXBT flagged a suspected $10 million exploit across Bitcoin, Ethereum, BNB Chain and Base.",
+        "body": "THORChain temporarily paused trading on May 15 shortly after blockchain investigator ZachXBT flagged a suspected exploit worth about $10 million. The issue was described as spanning Bitcoin, Ethereum, BNB Chain and Base. In a Telegram announcement, THORChain said trading would be paused for about 12 hours and 42 minutes, until block 26191149. A wallet labeled by Arkham as the THORChain exploiter showed $10.8 million in holdings, while RUNE reportedly fell 13% over 24 hours. The halt again highlighted security concerns around cross-chain liquidity protocols. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "THORChain、1,000万ドル疑惑のエクスプロイトで取引停止",
+        "excerpt": "THORChainは5月15日、ZachXBTがビットコイン、イーサリアム、BNB Chain、Baseにまたがる1,000万ドル規模の疑惑を指摘後、取引を停止した。",
+        "body": "THORChainは5月15日、ブロックチェーン調査者ZachXBTが約1,000万ドル規模の疑わしいエクスプロイトを指摘した直後、取引を一時停止した。問題はビットコイン、イーサリアム、BNB Chain、Baseにまたがるものとされた。THORChainはテレグラムで、取引停止は約12時間42分続き、ブロック26191149まで実施される予定だと発表した。ArkhamがTHORChainのエクスプロイターと表示したウォレットには1,080万ドル相当の保有額があり、RUNE価格は24時間で13%下落したと伝えられた。今回の停止は、クロスチェーン流動性プロトコルの安全性への懸念を改めて示した。出典: cointelegraph.com"
+      },
+      "zh": {
+        "title": "THORChain因疑似1000万美元漏洞暂停交易",
+        "excerpt": "5月15日，ZachXBT指出一起疑似涉及比特币、以太坊、BNB Chain和Base的1000万美元漏洞后，THORChain暂停交易。",
+        "body": "5月15日，在区块链调查员ZachXBT指出一起约1000万美元的疑似漏洞后，THORChain随即暂停交易。该问题被称涉及比特币、以太坊、BNB Chain和Base。THORChain在Telegram公告中表示，交易将暂停约12小时42分钟，直到区块26191149。Arkham标记为THORChain攻击者的钱包显示持有约1080万美元资产，同时RUNE价格据称在24小时内下跌13%。此次暂停再次凸显跨链流动性协议面临的安全担忧。来源: cointelegraph.com"
+      },
+      "es": {
+        "title": "THORChain pausa operaciones tras alerta de exploit de 10M de dólares",
+        "excerpt": "THORChain detuvo operaciones el 15 de mayo después de que ZachXBT señalara un presunto exploit de 10 millones de dólares en Bitcoin, Ethereum, BNB Chain y Base.",
+        "body": "THORChain pausó temporalmente las operaciones el 15 de mayo poco después de que el investigador blockchain ZachXBT señalara un presunto exploit de unos 10 millones de dólares. El incidente fue descrito como relacionado con Bitcoin, Ethereum, BNB Chain y Base. En un anuncio en Telegram, THORChain dijo que la pausa duraría unas 12 horas y 42 minutos, hasta el bloque 26191149. Una billetera etiquetada por Arkham como explotador de THORChain mostraba 10,8 millones de dólares en activos, mientras RUNE habría caído 13% en 24 horas. La medida volvió a poner el foco en los riesgos de seguridad de los protocolos de liquidez cross-chain. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "THORChain pausa negociações após suspeita de exploit de US$ 10 mi",
+        "excerpt": "A THORChain interrompeu negociações em 15 de maio depois que ZachXBT apontou um possível exploit de US$ 10 milhões envolvendo Bitcoin, Ethereum, BNB Chain e Base.",
+        "body": "A THORChain pausou temporariamente as negociações em 15 de maio pouco depois de o investigador blockchain ZachXBT apontar um possível exploit de cerca de US$ 10 milhões. O problema foi descrito como abrangendo Bitcoin, Ethereum, BNB Chain e Base. Em anúncio no Telegram, a THORChain disse que a pausa duraria cerca de 12 horas e 42 minutos, até o bloco 26191149. Uma carteira marcada pela Arkham como exploradora da THORChain mostrava US$ 10,8 milhões em ativos, enquanto o RUNE teria caído 13% em 24 horas. A suspensão reforçou preocupações de segurança em protocolos de liquidez cross-chain. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "THORChain stoppt Handel nach Verdacht auf 10-Mio.-Dollar-Exploit",
+        "excerpt": "THORChain setzte den Handel am 15. Mai aus, nachdem ZachXBT einen mutmaßlichen 10-Millionen-Dollar-Exploit über Bitcoin, Ethereum, BNB Chain und Base gemeldet hatte.",
+        "body": "THORChain setzte den Handel am 15. Mai vorübergehend aus, kurz nachdem der Blockchain-Ermittler ZachXBT auf einen mutmaßlichen Exploit im Wert von rund 10 Millionen US-Dollar hingewiesen hatte. Das Problem wurde mit Bitcoin, Ethereum, BNB Chain und Base in Verbindung gebracht. In einer Telegram-Mitteilung erklärte THORChain, der Handel werde etwa 12 Stunden und 42 Minuten bis Block 26191149 pausiert. Eine von Arkham als THORChain-Exploiter markierte Wallet zeigte Bestände von 10,8 Millionen US-Dollar, während RUNE binnen 24 Stunden um 13% gefallen sein soll. Der Stopp unterstreicht erneut Sicherheitsbedenken bei Cross-Chain-Liquiditätsprotokollen. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "THORChain suspend le trading après un exploit présumé de 10 M$",
+        "excerpt": "THORChain a suspendu le trading le 15 mai après que ZachXBT a signalé un exploit présumé de 10 millions de dollars touchant Bitcoin, Ethereum, BNB Chain et Base.",
+        "body": "THORChain a temporairement suspendu le trading le 15 mai peu après que l’enquêteur blockchain ZachXBT a signalé un exploit présumé d’environ 10 millions de dollars. Le problème a été décrit comme concernant Bitcoin, Ethereum, BNB Chain et Base. Dans une annonce sur Telegram, THORChain a indiqué que la pause durerait environ 12 heures et 42 minutes, jusqu’au bloc 26191149. Un portefeuille identifié par Arkham comme exploiteur de THORChain affichait 10,8 millions de dollars d’actifs, tandis que le prix de RUNE aurait reculé de 13% sur 24 heures. Cette suspension remet en avant les inquiétudes de sécurité autour des protocoles de liquidité cross-chain. Source: cointelegraph.com"
+      },
+      "ar": {
+        "title": "THORChain توقف التداول بعد شبهة استغلال بقيمة 10 ملايين دولار",
+        "excerpt": "أوقفت THORChain التداول في 15 مايو بعدما أشار ZachXBT إلى استغلال مشتبه به بقيمة 10 ملايين دولار عبر بيتكوين وإيثريوم وBNB Chain وBase.",
+        "body": "أوقفت THORChain التداول مؤقتا في 15 مايو بعد وقت قصير من إشارة محقق البلوكشين ZachXBT إلى استغلال مشتبه به بنحو 10 ملايين دولار. وذُكر أن المشكلة تمتد عبر بيتكوين وإيثريوم وBNB Chain وBase. وقالت THORChain في إعلان على تيليغرام إن التوقف سيستمر نحو 12 ساعة و42 دقيقة حتى الكتلة 26191149. وأظهرت محفظة وسمتها Arkham بأنها تابعة لمستغل THORChain أرصدة بقيمة 10.8 ملايين دولار، بينما ورد أن سعر RUNE هبط 13% خلال 24 ساعة. وأعاد التوقف إبراز مخاوف الأمان في بروتوكولات السيولة العابرة للسلاسل. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "THORChain ने 10 मिलियन डॉलर के संदिग्ध exploit पर ट्रेडिंग रोकी",
+        "excerpt": "THORChain ने 15 मई को ZachXBT द्वारा Bitcoin, Ethereum, BNB Chain और Base में फैले 10 मिलियन डॉलर के संदिग्ध exploit की सूचना के बाद ट्रेडिंग रोकी।",
+        "body": "THORChain ने 15 मई को ब्लॉकचेन जांचकर्ता ZachXBT द्वारा लगभग 10 मिलियन डॉलर के संदिग्ध exploit की जानकारी देने के तुरंत बाद ट्रेडिंग अस्थायी रूप से रोक दी। यह मामला Bitcoin, Ethereum, BNB Chain और Base से जुड़ा बताया गया। THORChain ने Telegram घोषणा में कहा कि ट्रेडिंग करीब 12 घंटे 42 मिनट तक, ब्लॉक 26191149 तक रुकी रहेगी। Arkham द्वारा THORChain exploiter के रूप में चिह्नित वॉलेट में 10.8 मिलियन डॉलर की होल्डिंग दिखी, जबकि RUNE की कीमत 24 घंटे में 13% गिरने की सूचना है। इस रोक ने cross-chain liquidity protocols की सुरक्षा चिंताओं को फिर सामने रखा। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "THORChain Jeda Trading Usai Dugaan Eksploitasi US$10 Juta",
+        "excerpt": "THORChain menghentikan trading pada 15 Mei setelah ZachXBT menandai dugaan eksploitasi US$10 juta yang mencakup Bitcoin, Ethereum, BNB Chain, dan Base.",
+        "body": "THORChain menghentikan sementara trading pada 15 Mei tak lama setelah penyelidik blockchain ZachXBT menandai dugaan eksploitasi sekitar US$10 juta. Masalah itu disebut mencakup Bitcoin, Ethereum, BNB Chain, dan Base. Dalam pengumuman Telegram, THORChain menyatakan trading akan dijeda sekitar 12 jam 42 menit hingga blok 26191149. Dompet yang ditandai Arkham sebagai exploiter THORChain menunjukkan kepemilikan US$10,8 juta, sementara harga RUNE dilaporkan turun 13% dalam 24 jam. Penghentian ini kembali menyoroti kekhawatiran keamanan pada protokol likuiditas cross-chain. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
+    "id": "b5602e424fc7",
+    "slug": "bitwise-launches-us-listed-hyperliquid-fund-with-staking-rew-555433",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-15T18:18:26.064Z",
+    "updatedAt": "2026-05-15T18:18:26.064Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/news/bitwise-asset-management-us-listed-hyperliquid-fund-staking-reward?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/news/bitwise-asset-management-us-listed-hyperliquid-fund-staking-reward",
+    "titleFingerprint": "f66a1aaec1b486c8f1e9519763c9ea9cc52812f5",
+    "dedupKeys": [
+      "b5602e424fc79eb6e17a596e993b8634ac8a4b9a",
+      "f66a1aaec1b486c8f1e9519763c9ea9cc52812f5",
+      "03548d906d00ef7c886d4db45ad9152620664486"
+    ],
+    "imageUrl": "/images/articles/b5602e424fc7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Bitwise, 스테이킹 보상 담은 미국 상장 Hyperliquid 펀드 출시",
+        "excerpt": "Bitwise가 미국 상장 Hyperliquid 펀드 BHYP를 출시했다. 이 상품은 HYPE 토큰 현물 노출을 제공하고 일부 보유분을 자체 스테이킹 부문을 통해 운용한다.",
+        "body": "Bitwise가 미국 상장 Hyperliquid 펀드 BHYP를 출시했다. 이 펀드는 Hyperliquid의 HYPE 토큰에 대한 현물 노출을 제공하며, 보유 자산의 일부를 Bitwise의 사내 스테이킹 부문을 통해 스테이킹할 예정이다. BHYP의 핵심 구조는 투자자가 HYPE 토큰을 직접 보유하지 않고도 해당 자산 가격에 연동된 노출을 얻도록 설계된 점이다. 또한 일부 보유분에서 발생할 수 있는 스테이킹 보상을 상품 운용에 반영하는 방식이 특징이다. 이번 출시는 미국 상장 크립토 투자 상품의 선택지를 넓히는 사례로 평가된다. 출처: cointelegraph.com."
+      },
+      "en": {
+        "title": "Bitwise Launches US-Listed Hyperliquid Fund With Staking Rewards",
+        "excerpt": "Bitwise has launched BHYP, a US-listed Hyperliquid fund that offers spot exposure to HYPE and will stake part of its holdings through its in-house staking division.",
+        "body": "Bitwise has launched BHYP, a US-listed Hyperliquid fund. The fund provides spot exposure to Hyperliquid’s HYPE token and plans to stake a portion of its holdings through Bitwise’s in-house staking division. BHYP is structured to give investors exposure linked to the price of HYPE without requiring them to hold the token directly. A key feature is that part of the fund’s holdings may be used to generate staking rewards as part of its management approach. The launch adds another option to the US-listed crypto investment product market. Source: cointelegraph.com."
+      },
+      "ja": {
+        "title": "Bitwise、ステーキング報酬付き米国上場Hyperliquidファンドを開始",
+        "excerpt": "Bitwiseは米国上場のHyperliquidファンドBHYPを開始した。HYPEトークンへの現物エクスポージャーを提供し、一部保有分を社内部門でステーキングする。",
+        "body": "Bitwiseは、米国上場のHyperliquidファンドBHYPを開始した。このファンドはHyperliquidのHYPEトークンへの現物エクスポージャーを提供し、保有資産の一部をBitwiseの社内ステーキング部門を通じてステーキングする予定だ。BHYPの基本構造は、投資家がHYPEトークンを直接保有しなくても、その価格に連動するエクスポージャーを得られるよう設計されている点にある。また、一部保有分から生じ得るステーキング報酬を運用に反映する点も特徴だ。今回の開始は、米国上場の暗号資産投資商品の選択肢を広げる動きとなる。出典: cointelegraph.com."
+      },
+      "zh": {
+        "title": "Bitwise推出美国上市Hyperliquid基金，纳入质押奖励",
+        "excerpt": "Bitwise推出美国上市Hyperliquid基金BHYP，提供HYPE代币现货敞口，并将通过其内部质押部门质押部分持仓。",
+        "body": "Bitwise推出了美国上市的Hyperliquid基金BHYP。该基金为Hyperliquid的HYPE代币提供现货敞口，并计划通过Bitwise内部质押部门质押其部分持仓。BHYP的核心结构在于，投资者无需直接持有HYPE代币，也可获得与该资产价格相关的敞口。与此同时，基金部分持仓可能产生的质押奖励将被纳入产品运作方式之中。此次推出为美国上市的加密投资产品市场增加了一个选择。来源: cointelegraph.com."
+      },
+      "es": {
+        "title": "Bitwise lanza fondo Hyperliquid listado en EE. UU. con recompensas de staking",
+        "excerpt": "Bitwise lanzó BHYP, un fondo Hyperliquid listado en EE. UU. que ofrece exposición spot a HYPE y hará staking de parte de sus tenencias mediante su división interna.",
+        "body": "Bitwise lanzó BHYP, un fondo Hyperliquid listado en Estados Unidos. El producto ofrece exposición spot al token HYPE de Hyperliquid y prevé hacer staking de una parte de sus tenencias mediante la división interna de staking de Bitwise. La estructura de BHYP está diseñada para que los inversores obtengan exposición vinculada al precio de HYPE sin tener que mantener directamente el token. Otra característica es que una parte de las tenencias puede generar recompensas de staking dentro de la gestión del producto. El lanzamiento amplía las opciones de productos de inversión cripto listados en EE. UU. Fuente: cointelegraph.com."
+      },
+      "pt": {
+        "title": "Bitwise lança fundo Hyperliquid listado nos EUA com recompensas de staking",
+        "excerpt": "A Bitwise lançou o BHYP, fundo Hyperliquid listado nos EUA que oferece exposição spot ao HYPE e fará staking de parte das posições por sua divisão interna.",
+        "body": "A Bitwise lançou o BHYP, um fundo Hyperliquid listado nos Estados Unidos. O produto oferece exposição spot ao token HYPE da Hyperliquid e pretende fazer staking de parte de suas posições por meio da divisão interna de staking da Bitwise. A estrutura do BHYP foi desenhada para permitir que investidores tenham exposição ligada ao preço do HYPE sem precisar deter diretamente o token. Outro ponto do produto é que parte das posições pode gerar recompensas de staking dentro da gestão do fundo. O lançamento amplia as opções de produtos cripto listados nos EUA. Fonte: cointelegraph.com."
+      },
+      "de": {
+        "title": "Bitwise startet US-gelisteten Hyperliquid-Fonds mit Staking-Erträgen",
+        "excerpt": "Bitwise hat BHYP gestartet, einen in den USA gelisteten Hyperliquid-Fonds mit Spot-Exposure auf HYPE und Staking eines Teils der Bestände über die eigene Sparte.",
+        "body": "Bitwise hat BHYP gestartet, einen in den USA gelisteten Hyperliquid-Fonds. Der Fonds bietet Spot-Exposure auf den HYPE-Token von Hyperliquid und soll einen Teil seiner Bestände über die interne Staking-Sparte von Bitwise staken. Die Struktur von BHYP ist darauf ausgelegt, Anlegern ein an den Preis von HYPE gebundenes Exposure zu ermöglichen, ohne dass sie den Token direkt halten müssen. Ein weiteres Merkmal ist, dass mögliche Staking-Erträge aus einem Teil der Bestände in die Produktverwaltung einfließen können. Der Start erweitert die Auswahl US-gelisteter Kryptoanlageprodukte. Quelle: cointelegraph.com."
+      },
+      "fr": {
+        "title": "Bitwise lance un fonds Hyperliquid coté aux États-Unis avec staking",
+        "excerpt": "Bitwise a lancé BHYP, un fonds Hyperliquid coté aux États-Unis offrant une exposition spot au HYPE et le staking d’une partie des avoirs via sa division interne.",
+        "body": "Bitwise a lancé BHYP, un fonds Hyperliquid coté aux États-Unis. Le produit offre une exposition spot au token HYPE de Hyperliquid et prévoit de staker une partie de ses avoirs par l’intermédiaire de la division de staking interne de Bitwise. La structure de BHYP vise à donner aux investisseurs une exposition liée au prix du HYPE sans qu’ils aient à détenir directement le token. Autre caractéristique, une partie des avoirs peut générer des récompenses de staking intégrées à la gestion du produit. Ce lancement élargit les options de produits d’investissement crypto cotés aux États-Unis. Source: cointelegraph.com."
+      },
+      "ar": {
+        "title": "Bitwise تطلق صندوق Hyperliquid مدرجا في أمريكا مع مكافآت تخزين",
+        "excerpt": "أطلقت Bitwise صندوق BHYP المدرج في الولايات المتحدة، مانحا تعرضا فوريا لرمز HYPE، مع تخزين جزء من الحيازات عبر قسم التخزين الداخلي لديها.",
+        "body": "أطلقت Bitwise صندوق BHYP، وهو صندوق Hyperliquid مدرج في الولايات المتحدة. يوفر الصندوق تعرضا فوريا لرمز HYPE الخاص بـ Hyperliquid، ويعتزم تخزين جزء من حيازاته عبر قسم التخزين الداخلي لدى Bitwise. يقوم هيكل BHYP على إتاحة تعرض مرتبط بسعر HYPE للمستثمرين من دون الحاجة إلى الاحتفاظ بالرمز مباشرة. كما أن جزءا من الحيازات قد يولد مكافآت تخزين ضمن طريقة إدارة المنتج. يضيف هذا الإطلاق خيارا آخر إلى سوق منتجات الاستثمار في العملات المشفرة المدرجة في الولايات المتحدة. المصدر: cointelegraph.com."
+      },
+      "hi": {
+        "title": "Bitwise ने staking rewards वाला US-listed Hyperliquid fund लॉन्च किया",
+        "excerpt": "Bitwise ने US-listed Hyperliquid fund BHYP लॉन्च किया है, जो HYPE token का spot exposure देता है और holdings का हिस्सा in-house staking division से stake करेगा।",
+        "body": "Bitwise ने BHYP लॉन्च किया है, जो अमेरिका में सूचीबद्ध Hyperliquid fund है। यह fund Hyperliquid के HYPE token का spot exposure देता है और अपनी holdings के एक हिस्से को Bitwise के in-house staking division के जरिए stake करने की योजना रखता है। BHYP की संरचना निवेशकों को HYPE token सीधे रखे बिना उसकी कीमत से जुड़ा exposure देने के लिए बनाई गई है। इसकी एक खास बात यह भी है कि holdings का कुछ हिस्सा staking rewards पैदा कर सकता है, जिसे product management में शामिल किया जाएगा। यह लॉन्च US-listed crypto investment products के विकल्पों को बढ़ाता है। स्रोत: cointelegraph.com."
+      },
+      "id": {
+        "title": "Bitwise Luncurkan Dana Hyperliquid Terdaftar AS dengan Imbalan Staking",
+        "excerpt": "Bitwise meluncurkan BHYP, dana Hyperliquid terdaftar di AS yang memberi eksposur spot ke HYPE dan akan men-stake sebagian aset melalui divisi internalnya.",
+        "body": "Bitwise meluncurkan BHYP, dana Hyperliquid yang terdaftar di Amerika Serikat. Dana ini menyediakan eksposur spot ke token HYPE milik Hyperliquid dan berencana men-stake sebagian kepemilikannya melalui divisi staking internal Bitwise. Struktur BHYP dirancang agar investor mendapat eksposur yang terkait dengan harga HYPE tanpa harus memegang token tersebut secara langsung. Ciri lainnya, sebagian kepemilikan dapat menghasilkan imbalan staking sebagai bagian dari pengelolaan produk. Peluncuran ini menambah pilihan produk investasi kripto yang terdaftar di AS. Sumber: cointelegraph.com."
+      }
+    }
+  },
+  {
+    "id": "878d45e3890c",
+    "slug": "price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec--476973",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-05-15T18:16:50.166Z",
+    "updatedAt": "2026-05-15T18:16:50.167Z",
+    "sourceName": "cointelegraph.com",
+    "sourceUrl": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "canonicalUrl": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch",
+    "titleFingerprint": "8e91acb4cc439740bb6d5d45d4ce11105dedb6da",
+    "dedupKeys": [
+      "878d45e3890c05edd309e1f0e5165346fc5629df",
+      "8e91acb4cc439740bb6d5d45d4ce11105dedb6da",
+      "378a46be726a482c38d5c5ff5dcdbbb025ef7a30"
+    ],
+    "imageUrl": "/images/articles/878d45e3890c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "BTC 가격 전망: 7만9000달러 이탈, 7만6000달러 지지 주목",
+        "excerpt": "5월 15일 크립토 가격 전망에서 비트코인은 매도세로 7만9000달러 아래로 밀렸고, 시장은 7만6000달러 지지선 부근의 매수 유입 가능성을 주시한다.",
+        "body": "5월 15일 크립토 가격 전망에 따르면 비트코인(BTC)은 매도세 영향으로 7만9000달러 아래로 되밀렸다. 시장의 관심은 가격이 7만6000달러 지지선에 가까워질 때 매수세가 다시 나타날지에 모인다. 이번 분석은 BTC와 함께 ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH의 흐름을 다룬다. 핵심 변수는 비트코인이 단기 하락 압력을 소화하며 7만6000달러 부근에서 지지를 확인할 수 있는지다. 해당 구간에서 매수가 유입되면 하락세가 완화될 수 있지만, 원문은 추가 전망을 단정하지 않았다. 출처: cointelegraph.com"
+      },
+      "en": {
+        "title": "BTC Price Outlook: Slip Below $79K Puts $76K Support in Focus",
+        "excerpt": "In the May 15 crypto price outlook, Bitcoin fell below $79,000 as sellers gained control, while traders watch for possible buying near $76,000 support.",
+        "body": "According to the May 15 crypto price outlook, Bitcoin (BTC) was pushed back below $79,000 by sellers. Market attention is now focused on whether buying may emerge as the price nears the $76,000 support level. The analysis also covers ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC and BCH alongside BTC. The key factor is whether Bitcoin can absorb near-term selling pressure and confirm support around $76,000. Buying in that area could ease the decline, but the source did not make a firm further projection. Source: cointelegraph.com"
+      },
+      "ja": {
+        "title": "BTC価格見通し：7万9000ドル割れ、7万6000ドル支持線に注目",
+        "excerpt": "5月15日の暗号資産価格見通しで、ビットコインは売りに押され7万9000ドルを下回り、7万6000ドル支持線付近の買いに注目が集まる。",
+        "body": "5月15日の暗号資産価格見通しによると、ビットコイン（BTC）は売り手の圧力で7万9000ドルを下回った。市場の焦点は、価格が7万6000ドルの支持線に近づく場面で買いが現れるかどうかに移っている。今回の分析はBTCに加え、ETH、BNB、XRP、SOL、DOGE、HYPE、ADA、ZEC、BCHの動きも扱う。重要なのは、ビットコインが短期的な下落圧力をこなし、7万6000ドル付近で支持を確認できるかだ。この水準で買いが入れば下落は和らぐ可能性があるが、原文は追加の見通しを断定していない。出典：cointelegraph.com"
+      },
+      "zh": {
+        "title": "BTC价格展望：跌破7.9万美元，7.6万美元支撑受关注",
+        "excerpt": "在5月15日加密货币价格展望中，比特币受卖方压力跌破7.9万美元，市场关注价格接近7.6万美元支撑位时是否出现买盘。",
+        "body": "根据5月15日加密货币价格展望，比特币（BTC）在卖方压力下回落至7.9万美元下方。市场关注的焦点是，当价格接近7.6万美元支撑位时，买盘是否可能出现。本次分析除BTC外，还涵盖ETH、BNB、XRP、SOL、DOGE、HYPE、ADA、ZEC和BCH的走势。关键在于比特币能否消化短期下行压力，并在7.6万美元附近确认支撑。如果该区域出现买入，跌势可能有所缓和，但原文并未作出进一步确定性预测。来源：cointelegraph.com"
+      },
+      "es": {
+        "title": "Pronóstico BTC: caída bajo $79.000 enfoca el soporte de $76.000",
+        "excerpt": "En el análisis cripto del 15 de mayo, Bitcoin cayó por debajo de $79.000 por presión vendedora y el mercado observa posible demanda cerca de $76.000.",
+        "body": "Según el pronóstico de precios cripto del 15 de mayo, Bitcoin (BTC) volvió a caer por debajo de $79.000 por la presión de los vendedores. La atención del mercado se centra ahora en si podrían aparecer compras cuando el precio se acerque al soporte de $76.000. El análisis también incluye ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC y BCH junto con BTC. La variable clave es si Bitcoin puede absorber la presión bajista de corto plazo y confirmar soporte cerca de $76.000. Si entra demanda en esa zona, la caída podría moderarse, aunque el texto original no formula una proyección definitiva. Fuente: cointelegraph.com"
+      },
+      "pt": {
+        "title": "Previsão do BTC: queda abaixo de US$ 79 mil mira suporte em US$ 76 mil",
+        "excerpt": "Na análise cripto de 15 de maio, o Bitcoin caiu abaixo de US$ 79 mil com pressão vendedora, enquanto o mercado observa compras perto de US$ 76 mil.",
+        "body": "Segundo a previsão de preços cripto de 15 de maio, o Bitcoin (BTC) foi levado novamente para abaixo de US$ 79.000 pela pressão dos vendedores. A atenção do mercado agora se concentra na possibilidade de surgirem compras quando o preço se aproximar do suporte de US$ 76.000. A análise também aborda ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC e BCH junto com o BTC. O ponto central é saber se o Bitcoin conseguirá absorver a pressão de baixa de curto prazo e confirmar suporte perto de US$ 76.000. Compras nessa faixa poderiam aliviar a queda, mas o texto original não apresenta uma projeção definitiva. Fonte: cointelegraph.com"
+      },
+      "de": {
+        "title": "BTC-Ausblick: Rutsch unter 79.000 Dollar lenkt Blick auf 76.000 Dollar",
+        "excerpt": "Im Krypto-Preisausblick vom 15. Mai fiel Bitcoin durch Verkaufsdruck unter 79.000 Dollar; der Markt achtet nun auf mögliche Käufe nahe 76.000 Dollar.",
+        "body": "Laut dem Krypto-Preisausblick vom 15. Mai wurde Bitcoin (BTC) von Verkäufern wieder unter die Marke von 79.000 Dollar gedrückt. Der Fokus des Marktes liegt nun darauf, ob Käufe einsetzen könnten, wenn sich der Preis der Unterstützung bei 76.000 Dollar nähert. Die Analyse behandelt neben BTC auch ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC und BCH. Entscheidend ist, ob Bitcoin den kurzfristigen Abwärtsdruck verarbeiten und im Bereich von 76.000 Dollar Unterstützung bestätigen kann. Käufe in dieser Zone könnten den Rückgang abschwächen, doch die Quelle trifft keine feste weitere Prognose. Quelle: cointelegraph.com"
+      },
+      "fr": {
+        "title": "Prévision BTC : sous 79 000 $, le support des 76 000 $ se précise",
+        "excerpt": "Dans l’analyse crypto du 15 mai, Bitcoin est repassé sous 79 000 $ sous la pression vendeuse, tandis que le marché surveille le support à 76 000 $.",
+        "body": "Selon la prévision des prix crypto du 15 mai, Bitcoin (BTC) a été ramené sous les 79 000 $ par les vendeurs. L’attention du marché se porte désormais sur l’éventuelle apparition d’achats lorsque le prix approchera du support des 76 000 $. L’analyse couvre aussi ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC et BCH aux côtés du BTC. L’enjeu principal est de savoir si Bitcoin peut absorber la pression baissière de court terme et confirmer un support près de 76 000 $. Des achats dans cette zone pourraient atténuer le recul, mais le texte source ne formule pas de prévision ferme supplémentaire. Source : cointelegraph.com"
+      },
+      "ar": {
+        "title": "توقعات سعر BTC: الهبوط دون 79 ألف دولار يركز الأنظار على دعم 76 ألفاً",
+        "excerpt": "في توقعات أسعار العملات المشفرة ليوم 15 مايو، تراجع بيتكوين دون 79 ألف دولار بفعل البائعين، مع ترقب شراء محتمل قرب دعم 76 ألف دولار.",
+        "body": "وفقاً لتوقعات أسعار العملات المشفرة في 15 مايو، دفع البائعون بيتكوين (BTC) إلى ما دون مستوى 79,000 دولار. يتركز اهتمام السوق الآن على ما إذا كان الشراء قد يظهر عندما يقترب السعر من دعم 76,000 دولار. ويغطي التحليل أيضاً ETH وBNB وXRP وSOL وDOGE وHYPE وADA وZEC وBCH إلى جانب BTC. العامل الأهم هو قدرة بيتكوين على استيعاب ضغط الهبوط قصير الأجل وتأكيد الدعم قرب 76,000 دولار. قد يخفف ظهور الشراء في تلك المنطقة من التراجع، لكن النص الأصلي لم يقدم توقعاً قاطعاً إضافياً. المصدر: cointelegraph.com"
+      },
+      "hi": {
+        "title": "BTC कीमत पूर्वानुमान: $79,000 से नीचे गिरावट, $76,000 सपोर्ट पर नजर",
+        "excerpt": "15 मई के क्रिप्टो कीमत पूर्वानुमान में बिटकॉइन विक्रेताओं के दबाव से $79,000 से नीचे आया और बाजार $76,000 सपोर्ट के पास खरीदारी देख रहा है।",
+        "body": "15 मई के क्रिप्टो कीमत पूर्वानुमान के अनुसार, विक्रेताओं के दबाव से बिटकॉइन (BTC) फिर $79,000 के स्तर से नीचे आ गया। अब बाजार की नजर इस बात पर है कि कीमत $76,000 के सपोर्ट के पास पहुंचने पर खरीदारी उभर सकती है या नहीं। इस विश्लेषण में BTC के साथ ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC और BCH की चाल भी शामिल है। मुख्य बात यह है कि बिटकॉइन निकट अवधि के गिरावट दबाव को झेलकर $76,000 के आसपास सपोर्ट की पुष्टि कर पाता है या नहीं। उस क्षेत्र में खरीदारी आने पर गिरावट नरम हो सकती है, लेकिन मूल स्रोत ने आगे का निश्चित अनुमान नहीं दिया। स्रोत: cointelegraph.com"
+      },
+      "id": {
+        "title": "Prospek Harga BTC: Turun di Bawah $79.000, Support $76.000 Disorot",
+        "excerpt": "Dalam prospek harga kripto 15 Mei, Bitcoin turun di bawah $79.000 akibat tekanan jual, sementara pasar memantau potensi beli dekat support $76.000.",
+        "body": "Menurut prospek harga kripto 15 Mei, Bitcoin (BTC) terdorong kembali ke bawah level $79.000 oleh para penjual. Perhatian pasar kini tertuju pada apakah aksi beli dapat muncul saat harga mendekati support $76.000. Analisis ini juga mencakup ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, dan BCH bersama BTC. Faktor utama adalah apakah Bitcoin mampu menyerap tekanan turun jangka pendek dan mengonfirmasi support di sekitar $76.000. Jika pembelian muncul di area tersebut, penurunan dapat mereda, tetapi sumber asli tidak memberikan proyeksi lanjutan yang pasti. Sumber: cointelegraph.com"
+      }
+    }
+  },
+  {
     "id": "ee17915a4406",
     "slug": "blofin-war-of-whales-2026-grand-prix-opens-registration-for--295667",
     "channelId": "CRYPTO",
@@ -4271,231 +4496,6 @@
         "title": "Surat No-Action CFTC Ringankan Pelaporan Data Swap Pasar Prediksi",
         "excerpt": "Surat no-action CFTC memberi keringanan regulasi bagi operator pasar prediksi dengan menyederhanakan kepatuhan pelaporan data kontrak peristiwa.",
         "body": "Surat no-action dari Commodity Futures Trading Commission AS (CFTC) disampaikan sebagai keringanan regulasi yang mengurangi beban pelaporan data swap bagi operator pasar prediksi. Langkah ini berfokus pada penyederhanaan kepatuhan bagi pelaku usaha yang menangani data kontrak peristiwa dan harus memenuhi persyaratan pelaporan terkait. Latar belakangnya adalah data kontrak peristiwa yang muncul di pasar prediksi terhubung dengan kerangka pelaporan data swap, sehingga dapat menambah pekerjaan kepatuhan bagi operator. Keringanan ini tidak mengubah pokok pelaporan, melainkan menurunkan beban prosedural untuk memenuhi persyaratan tersebut. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "73cb8c8d7d61",
-    "slug": "bullish-shares-dip-on-earnings-miss-605-million-loss-as-valu-147900",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T23:39:57.523Z",
-    "updatedAt": "2026-05-14T23:39:57.523Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367857/bullish-shares-dip-earnings-miss-605-million-loss",
-    "canonicalUrl": "https://decrypt.co/367857/bullish-shares-dip-earnings-miss-605-million-loss",
-    "titleFingerprint": "37118dec7d2a60f9c997672aded25900a77670a8",
-    "dedupKeys": [
-      "73cb8c8d7d61b64f4a30e0fd8453e7080efe001c",
-      "37118dec7d2a60f9c997672aded25900a77670a8",
-      "d78fa9774eae923c78d23ce9c4859e08bada1e43"
-    ],
-    "imageUrl": "/images/articles/73cb8c8d7d61.png",
-    "i18n": {
-      "ko": {
-        "title": "Bullish 주가 하락, 1분기 실적 부진과 6억500만달러 손실 영향",
-        "excerpt": "Bullish 주가는 목요일 1분기 손실과 기대에 못 미친 구독·서비스 매출 발표 후 하락했다. 암호화폐 보유 가치 하락이 손실에 영향을 줬다.",
-        "body": "Bullish 주가는 목요일 회사가 1분기 실적을 발표한 뒤 하락했다. 회사는 해당 분기에 6억500만달러 손실을 기록했으며, 구독 및 서비스 매출도 시장 기대에 미치지 못한 것으로 전해졌다. 손실의 배경에는 보유 암호화폐 가치 하락이 포함됐다. 이번 발표는 암호화폐 관련 기업의 실적이 디지털 자산 가격 변동에 얼마나 민감한지를 다시 보여준다. 투자자들은 손실 규모와 반복 매출 부진이 향후 실적 흐름에 어떤 영향을 줄지 주시할 것으로 보인다. 출처: decrypt.co."
-      },
-      "en": {
-        "title": "Bullish Shares Fall After Q1 Earnings Miss and $605M Loss",
-        "excerpt": "Bullish shares fell Thursday after the company reported a first-quarter loss and weaker-than-expected subscription and services revenue, hit by lower crypto holding values.",
-        "body": "Bullish shares declined Thursday after the company released its first-quarter results. The firm reported a $605 million loss for the quarter, while subscription and services revenue also came in below expectations. The loss was tied in part to a decline in the value of its crypto holdings. The report highlights how earnings at crypto-linked companies can remain sensitive to moves in digital asset prices. Investors are likely to watch how the size of the loss and weaker recurring revenue affect future performance. Source: decrypt.co."
-      },
-      "ja": {
-        "title": "Bullish株が下落、1四半期決算未達と6.05億ドル損失が重荷",
-        "excerpt": "Bullish株は木曜日、1四半期の損失と予想を下回るサブスクリプション・サービス収入を発表した後に下落した。暗号資産保有価値の低下も響いた。",
-        "body": "Bullish株は木曜日、同社が第1四半期決算を発表した後に下落した。同社は同四半期に6億500万ドルの損失を計上し、サブスクリプションおよびサービス収入も市場の期待を下回ったと伝えられている。損失の背景には、保有する暗号資産の価値下落が含まれる。今回の発表は、暗号資産関連企業の業績がデジタル資産価格の変動に左右されやすいことを改めて示した。投資家は損失規模と継続収入の弱さが今後の業績に与える影響を注視するとみられる。出典: decrypt.co。"
-      },
-      "zh": {
-        "title": "Bullish股价下跌，首季业绩不及预期且亏损6.05亿美元",
-        "excerpt": "Bullish周四公布第一季度亏损及低于预期的订阅和服务收入后，股价下跌。其加密资产持仓价值下降也拖累业绩。",
-        "body": "Bullish股价周四在公司公布第一季度业绩后下跌。该公司本季度录得6.05亿美元亏损，订阅和服务收入也被报道低于市场预期。亏损的一部分原因来自其持有加密货币价值下降。此次业绩显示，加密货币相关企业的表现仍会受到数字资产价格波动影响。投资者预计将关注亏损规模以及经常性收入疲软会如何影响未来业绩。来源：decrypt.co。"
-      },
-      "es": {
-        "title": "Acciones de Bullish caen tras fallo de resultados y pérdida de US$605M",
-        "excerpt": "Las acciones de Bullish cayeron el jueves después de que la firma reportara una pérdida trimestral y menores ingresos por suscripciones y servicios, afectados por sus tenencias cripto.",
-        "body": "Las acciones de Bullish bajaron el jueves después de que la compañía publicara sus resultados del primer trimestre. La firma registró una pérdida de US$605 millones en el periodo, mientras que los ingresos por suscripciones y servicios también quedaron por debajo de las expectativas. La pérdida estuvo vinculada en parte a la caída del valor de sus tenencias de criptomonedas. El informe muestra de nuevo cómo los resultados de empresas ligadas a cripto pueden ser sensibles a los movimientos de precios de los activos digitales. Los inversores seguirán atentos al impacto de la pérdida y de los ingresos recurrentes más débiles. Fuente: decrypt.co."
-      },
-      "pt": {
-        "title": "Ações da Bullish caem após resultado fraco e perda de US$605 mi",
-        "excerpt": "As ações da Bullish caíram na quinta-feira após a empresa divulgar prejuízo no primeiro trimestre e receita de assinaturas e serviços abaixo do esperado, afetada por criptoativos.",
-        "body": "As ações da Bullish recuaram na quinta-feira depois que a empresa divulgou seus resultados do primeiro trimestre. A companhia registrou prejuízo de US$605 milhões no período, enquanto a receita de assinaturas e serviços também ficou abaixo das expectativas. A perda esteve ligada em parte à queda no valor de suas participações em criptomoedas. O relatório reforça como o desempenho de empresas relacionadas a cripto pode ser sensível às oscilações dos preços de ativos digitais. Investidores devem acompanhar o efeito do prejuízo e da receita recorrente mais fraca nos resultados futuros. Fonte: decrypt.co."
-      },
-      "de": {
-        "title": "Bullish-Aktie fällt nach Ergebnisverfehlung und 605-Mio.-Dollar-Verlust",
-        "excerpt": "Die Bullish-Aktie fiel am Donnerstag, nachdem das Unternehmen einen Verlust im ersten Quartal und schwächere Abo- und Serviceumsätze meldete, belastet durch geringere Kryptowerte.",
-        "body": "Die Bullish-Aktie gab am Donnerstag nach, nachdem das Unternehmen seine Zahlen für das erste Quartal veröffentlicht hatte. Für den Zeitraum meldete Bullish einen Verlust von 605 Millionen US-Dollar, während auch die Erlöse aus Abonnements und Dienstleistungen hinter den Erwartungen zurückblieben. Ein Teil des Verlusts hing mit dem gesunkenen Wert der gehaltenen Kryptowährungen zusammen. Die Mitteilung zeigt erneut, wie empfindlich die Ergebnisse kryptobezogener Unternehmen auf Preisbewegungen digitaler Vermögenswerte reagieren können. Anleger dürften nun beobachten, wie Verlusthöhe und schwächere wiederkehrende Umsätze die künftige Entwicklung beeinflussen. Quelle: decrypt.co."
-      },
-      "fr": {
-        "title": "L’action Bullish recule après un raté de résultats et 605 M$ de perte",
-        "excerpt": "L’action Bullish a chuté jeudi après l’annonce d’une perte au premier trimestre et de revenus d’abonnements et services inférieurs aux attentes, sous l’effet des avoirs crypto.",
-        "body": "L’action Bullish a reculé jeudi après la publication des résultats du premier trimestre de l’entreprise. La société a fait état d’une perte de 605 millions de dollars sur la période, tandis que les revenus issus des abonnements et services ont également été inférieurs aux attentes. Cette perte est en partie liée à la baisse de valeur de ses avoirs en cryptomonnaies. L’annonce rappelle que les résultats des entreprises liées aux cryptos peuvent rester sensibles aux variations des prix des actifs numériques. Les investisseurs devraient surveiller l’effet de cette perte et de revenus récurrents plus faibles sur les prochains résultats. Source : decrypt.co."
-      },
-      "ar": {
-        "title": "سهم Bullish يهبط بعد نتائج دون التوقعات وخسارة 605 ملايين دولار",
-        "excerpt": "هبط سهم Bullish يوم الخميس بعدما أعلنت الشركة خسارة في الربع الأول وإيرادات اشتراكات وخدمات دون التوقعات، مع تأثرها بانخفاض قيمة حيازاتها من العملات المشفرة.",
-        "body": "تراجع سهم Bullish يوم الخميس بعد أن أعلنت الشركة نتائج الربع الأول. وسجلت الشركة خسارة قدرها 605 ملايين دولار خلال الفترة، بينما جاءت إيرادات الاشتراكات والخدمات دون التوقعات. وارتبط جزء من الخسارة بانخفاض قيمة ما تحتفظ به الشركة من عملات مشفرة. ويظهر هذا الإعلان مجددا أن نتائج الشركات المرتبطة بالعملات المشفرة قد تبقى حساسة لتحركات أسعار الأصول الرقمية. ومن المرجح أن يراقب المستثمرون أثر حجم الخسارة وضعف الإيرادات المتكررة على الأداء المقبل. المصدر: decrypt.co."
-      },
-      "hi": {
-        "title": "Bullish शेयर गिरे, कमजोर नतीजों और 605 मिलियन डॉलर घाटे का असर",
-        "excerpt": "Bullish के शेयर गुरुवार को पहली तिमाही के घाटे और उम्मीद से कम सब्सक्रिप्शन व सेवा राजस्व की घोषणा के बाद गिरे। क्रिप्टो होल्डिंग्स का घटता मूल्य भी कारण रहा।",
-        "body": "Bullish के शेयर गुरुवार को कंपनी के पहली तिमाही के नतीजे जारी करने के बाद गिर गए। कंपनी ने इस तिमाही में 605 मिलियन डॉलर का घाटा दर्ज किया, जबकि सब्सक्रिप्शन और सेवाओं से राजस्व भी उम्मीद से कम रहा। इस घाटे के पीछे कंपनी की क्रिप्टो होल्डिंग्स के मूल्य में गिरावट भी शामिल रही। यह रिपोर्ट दिखाती है कि क्रिप्टो से जुड़ी कंपनियों की आय डिजिटल एसेट कीमतों में बदलाव के प्रति कितनी संवेदनशील हो सकती है। निवेशक अब घाटे के आकार और कमजोर आवर्ती राजस्व के भविष्य के प्रदर्शन पर असर को देखेंगे। स्रोत: decrypt.co."
-      },
-      "id": {
-        "title": "Saham Bullish Turun Usai Laba Meleset dan Rugi US$605 Juta",
-        "excerpt": "Saham Bullish turun pada Kamis setelah perusahaan melaporkan rugi kuartal pertama serta pendapatan langganan dan layanan yang mengecewakan, dipicu turunnya nilai aset kripto.",
-        "body": "Saham Bullish melemah pada Kamis setelah perusahaan merilis hasil kuartal pertama. Perusahaan mencatat rugi US$605 juta pada periode tersebut, sementara pendapatan dari langganan dan layanan juga berada di bawah ekspektasi. Kerugian itu sebagian terkait dengan penurunan nilai kepemilikan kripto perusahaan. Laporan ini kembali menunjukkan bahwa kinerja perusahaan yang terkait kripto dapat sensitif terhadap pergerakan harga aset digital. Investor kemungkinan akan mencermati dampak besarnya rugi dan lemahnya pendapatan berulang terhadap kinerja berikutnya. Sumber: decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "6b06a274569d",
-    "slug": "democrats-split-on-clarity-act-as-crypto-bill-passes-key-sen-846626",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T23:39:07.056Z",
-    "updatedAt": "2026-05-14T23:39:07.056Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/367871/democrats-split-clarity-act-crypto-bill-passes-senate-committee-vote",
-    "canonicalUrl": "https://decrypt.co/367871/democrats-split-clarity-act-crypto-bill-passes-senate-committee-vote",
-    "titleFingerprint": "532ca439a217cae4b5062240a27fb8069afc5adc",
-    "dedupKeys": [
-      "6b06a274569d22bfef8a8a1f1aab9e9208824eba",
-      "532ca439a217cae4b5062240a27fb8069afc5adc",
-      "beb11c547208f5e7cb6827d3f7b7e4ae85e6d2c4"
-    ],
-    "imageUrl": "/images/articles/6b06a274569d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "클래리티법 상원 핵심위 통과, 민주당 분열 속 암호화폐 규제 최종 표결로",
-        "excerpt": "미 상원 은행위원회가 2026년 5월 14일 클라리티법을 본회의로 넘기며, 민주당 일부 이탈과 윤리 조항 논란 속 암호화폐 규제안의 최종 관문이 남았다.",
-        "body": "미 상원 은행위원회는 2026년 5월 14일 핵심 암호화폐 법안인 클라리티법을 본회의 표결로 넘겼다. 표결 과정에서 민주당은 갈라졌고, 친암호화폐 성향의 루벤 갈레고 상원의원과 앤절라 알소브룩스 상원의원은 찬성했으며 다른 민주당 위원들은 반대했다. 공화당 위원 전원도 찬성에 합류했다. 이 법안은 도널드 트럼프 대통령이 서명하면 미국 내 대부분의 암호화폐 활동을 공식적으로 합법화할 수 있다. 다만 상원 통과를 위해서는 최소 7명의 민주당 지지가 필요하며, 트럼프 대통령의 개인 암호화폐 사업을 제한하는 윤리 조항 합의도 아직 남아 있다. 출처: decrypt.co."
-      },
-      "en": {
-        "title": "Clarity Act Clears Key Senate Panel as Democrats Split on Crypto Rules",
-        "excerpt": "The Senate Banking Committee advanced the Clarity Act on May 14, 2026, sending the crypto bill to the floor as Democratic divisions and ethics disputes remain.",
-        "body": "The Senate Banking Committee voted on May 14, 2026, to advance the Clarity Act, a major cryptocurrency bill, to a full Senate vote. Democrats split during the markup: pro-crypto Senators Ruben Gallego and Angela Alsobrooks supported the bill, while other Democratic members opposed it. All Republican committee members also voted in favor. If passed by the Senate and signed by President Donald Trump, the bill would formally legalize most crypto activity in the United States. The measure still needs support from at least seven Democrats on the Senate floor, and negotiators have not yet reached a deal on ethics language limiting Trump’s personal crypto ventures. Source: decrypt.co."
-      },
-      "ja": {
-        "title": "クラリティ法案が上院主要委員会通過、民主党分裂のまま本会議へ",
-        "excerpt": "米上院銀行委員会は2026年5月14日、暗号資産規制のクラリティ法案を本会議へ送付し、民主党の分裂と倫理条項の課題が残った。",
-        "body": "米上院銀行委員会は2026年5月14日、暗号資産に関する重要法案であるクラリティ法案を上院本会議の採決に進めることを決めた。審議では民主党が割れ、暗号資産に前向きなルーベン・ガレゴ上院議員とアンジェラ・アルソブルックス上院議員が賛成し、他の民主党委員は反対した。共和党委員は全員が賛成した。法案が上院を通過し、ドナルド・トランプ大統領が署名すれば、米国内の大半の暗号資産活動が正式に合法化される可能性がある。ただし本会議での可決には少なくとも7人の民主党議員の支持が必要で、トランプ氏の個人的な暗号資産事業を制限する倫理条項の合意も未了だ。出典: decrypt.co。"
-      },
-      "zh": {
-        "title": "Clarity法案闯过参院关键委员会，民主党分裂下走向最终表决",
-        "excerpt": "美国参议院银行委员会于2026年5月14日推进Clarity法案，令加密监管议案进入全院表决，但民主党分歧和伦理条款仍待解决。",
-        "body": "美国参议院银行委员会于2026年5月14日投票推进关键加密货币法案Clarity Act，使其进入参议院全院表决。表决中民主党出现分裂，支持加密行业的参议员Ruben Gallego和Angela Alsobrooks投下赞成票，其他民主党委员反对。所有共和党委员也支持该法案。若法案最终在参议院通过并由唐纳德·特朗普总统签署，将正式使美国大部分加密活动合法化。不过，该法案在参议院仍需至少7名民主党人的支持，同时有关限制特朗普个人加密业务的伦理条款尚未达成协议。来源: decrypt.co。"
-      },
-      "es": {
-        "title": "Clarity Act supera comité clave del Senado entre división demócrata cripto",
-        "excerpt": "El Comité Bancario del Senado avanzó el 14 de mayo de 2026 el Clarity Act, enviando la ley cripto al pleno pese a divisiones demócratas y disputas éticas.",
-        "body": "El Comité Bancario del Senado de EE. UU. votó el 14 de mayo de 2026 para llevar el Clarity Act, una pieza clave de legislación cripto, al pleno del Senado. Durante la votación, los demócratas se dividieron: los senadores procripto Ruben Gallego y Angela Alsobrooks apoyaron el proyecto, mientras que los demás demócratas del comité votaron en contra. Todos los republicanos del comité también lo respaldaron. Si el Senado lo aprueba y el presidente Donald Trump lo firma, la ley formalizaría la legalidad de la mayor parte de la actividad cripto en Estados Unidos. Aún necesita el apoyo de al menos siete demócratas en el pleno y sigue pendiente un acuerdo sobre normas éticas que limiten los negocios cripto personales de Trump. Fuente: decrypt.co."
-      },
-      "pt": {
-        "title": "Clarity Act avança em comitê-chave do Senado com democratas divididos",
-        "excerpt": "O Comitê Bancário do Senado avançou em 14 de maio de 2026 o Clarity Act, levando o projeto cripto ao plenário apesar de divisões democratas e impasses éticos.",
-        "body": "O Comitê Bancário do Senado dos EUA votou em 14 de maio de 2026 para encaminhar o Clarity Act, um importante projeto de lei sobre criptomoedas, ao plenário do Senado. Na votação, os democratas se dividiram: os senadores pró-cripto Ruben Gallego e Angela Alsobrooks apoiaram o texto, enquanto os demais democratas do comitê votaram contra. Todos os republicanos do comitê também votaram a favor. Se aprovado pelo Senado e sancionado pelo presidente Donald Trump, o projeto formalizaria a legalidade da maior parte da atividade cripto nos Estados Unidos. Ainda são necessários ao menos sete votos democratas no plenário, e não há acordo final sobre regras éticas para limitar os negócios cripto pessoais de Trump. Fonte: decrypt.co."
-      },
-      "de": {
-        "title": "Clarity Act passiert Schlüsselgremium im Senat trotz Spaltung der Demokraten",
-        "excerpt": "Der Bankenausschuss des US-Senats brachte den Clarity Act am 14. Mai 2026 ins Plenum, während demokratische Spaltung und Ethikfragen offen bleiben.",
-        "body": "Der Bankenausschuss des US-Senats stimmte am 14. Mai 2026 dafür, den Clarity Act, ein zentrales Kryptogesetz, zur Abstimmung in den gesamten Senat zu schicken. Bei der Abstimmung waren die Demokraten gespalten: Die krypto-freundlichen Senatoren Ruben Gallego und Angela Alsobrooks unterstützten den Entwurf, die übrigen demokratischen Ausschussmitglieder stimmten dagegen. Alle republikanischen Mitglieder votierten ebenfalls dafür. Wird das Gesetz vom Senat verabschiedet und von Präsident Donald Trump unterzeichnet, könnte es den Großteil der Kryptoaktivitäten in den USA offiziell legalisieren. Dafür braucht der Entwurf im Plenum mindestens sieben demokratische Stimmen; zudem fehlt weiter eine Einigung über Ethikregeln zu Trumps persönlichen Kryptogeschäften. Quelle: decrypt.co."
-      },
-      "fr": {
-        "title": "Le Clarity Act franchit un comité clé du Sénat malgré la division démocrate",
-        "excerpt": "La commission bancaire du Sénat a avancé le Clarity Act le 14 mai 2026, envoyant le texte crypto en séance malgré des divisions démocrates et un débat éthique.",
-        "body": "La commission bancaire du Sénat américain a voté le 14 mai 2026 pour transmettre le Clarity Act, un projet de loi majeur sur les cryptomonnaies, à l’ensemble du Sénat. Les démocrates se sont divisés lors du vote: les sénateurs pro-crypto Ruben Gallego et Angela Alsobrooks ont soutenu le texte, tandis que les autres démocrates de la commission s’y sont opposés. Tous les républicains de la commission ont également voté pour. Si le Sénat l’adopte et que le président Donald Trump le signe, le texte légaliserait officiellement la majeure partie de l’activité crypto aux États-Unis. Il lui faut encore au moins sept voix démocrates en séance, et aucun accord n’est finalisé sur les garde-fous éthiques visant les activités crypto personnelles de Trump. Source: decrypt.co."
-      },
-      "ar": {
-        "title": "قانون Clarity يجتاز لجنة حاسمة في مجلس الشيوخ وسط انقسام ديمقراطي",
-        "excerpt": "دفعت لجنة البنوك في مجلس الشيوخ يوم 14 مايو 2026 مشروع Clarity Act إلى التصويت العام، مع بقاء انقسام ديمقراطي وخلافات أخلاقية حول التشفير.",
-        "body": "صوتت لجنة البنوك في مجلس الشيوخ الأميركي في 14 مايو 2026 على تمرير مشروع Clarity Act، وهو تشريع رئيسي للعملات المشفرة، إلى تصويت كامل في مجلس الشيوخ. خلال التصويت انقسم الديمقراطيون؛ إذ أيد السيناتوران المؤيدان للتشفير روبن غاليغو وأنجيلا ألسبروكس المشروع، بينما عارضه باقي الديمقراطيين في اللجنة. كما أيد جميع الأعضاء الجمهوريين في اللجنة التشريع. إذا أقره مجلس الشيوخ ووقعه الرئيس دونالد ترامب، فقد يضفي المشروع طابعا قانونيا رسميا على معظم أنشطة العملات المشفرة في الولايات المتحدة. لكنه لا يزال يحتاج إلى دعم ما لا يقل عن سبعة ديمقراطيين في الجلسة العامة، ولم يتم التوصل بعد إلى اتفاق بشأن بنود أخلاقية تحد من مشاريع ترامب الشخصية في التشفير. المصدر: decrypt.co."
-      },
-      "hi": {
-        "title": "Clarity Act सीनेट की अहम समिति से पास, क्रिप्टो नियमों पर डेमोक्रेट बंटे",
-        "excerpt": "अमेरिकी सीनेट बैंकिंग समिति ने 14 मई 2026 को Clarity Act को पूर्ण मतदान के लिए भेजा, लेकिन डेमोक्रेट विभाजन और नैतिक प्रावधानों की बाधाएं बाकी हैं।",
-        "body": "अमेरिकी सीनेट बैंकिंग समिति ने 14 मई 2026 को प्रमुख क्रिप्टोकरेंसी विधेयक Clarity Act को पूर्ण सीनेट मतदान के लिए आगे बढ़ा दिया। मतदान के दौरान डेमोक्रेट बंटे दिखे; क्रिप्टो समर्थक सीनेटर Ruben Gallego और Angela Alsobrooks ने विधेयक का समर्थन किया, जबकि समिति के अन्य डेमोक्रेट सदस्यों ने विरोध किया। सभी रिपब्लिकन सदस्यों ने भी पक्ष में मतदान किया। यदि विधेयक सीनेट से पारित होकर राष्ट्रपति Donald Trump के हस्ताक्षर पा लेता है, तो यह अमेरिका में अधिकांश क्रिप्टो गतिविधियों को औपचारिक रूप से वैध कर सकता है। फिर भी इसे सीनेट में कम से कम सात डेमोक्रेटों के समर्थन की जरूरत है, और Trump की निजी क्रिप्टो परियोजनाओं को सीमित करने वाले नैतिक प्रावधानों पर समझौता अभी नहीं हुआ है। स्रोत: decrypt.co."
-      },
-      "id": {
-        "title": "Clarity Act Lolos Komite Kunci Senat, Demokrat Terbelah soal Aturan Kripto",
-        "excerpt": "Komite Perbankan Senat AS pada 14 Mei 2026 meloloskan Clarity Act ke pemungutan suara penuh, meski Demokrat terbelah dan isu etik masih belum selesai.",
-        "body": "Komite Perbankan Senat AS pada 14 Mei 2026 memilih untuk memajukan Clarity Act, rancangan undang-undang penting tentang kripto, ke pemungutan suara penuh di Senat. Dalam proses itu, Demokrat terbelah: senator pro-kripto Ruben Gallego dan Angela Alsobrooks mendukung rancangan tersebut, sementara anggota Demokrat lain di komite menolak. Semua anggota Republik di komite juga memberi dukungan. Jika disahkan Senat dan ditandatangani Presiden Donald Trump, aturan ini dapat secara resmi melegalkan sebagian besar aktivitas kripto di Amerika Serikat. Namun rancangan itu masih membutuhkan dukungan sedikitnya tujuh Demokrat di pleno, dan kesepakatan tentang klausul etik yang membatasi bisnis kripto pribadi Trump belum tercapai. Sumber: decrypt.co."
-      }
-    }
-  },
-  {
-    "id": "78cba08a8d63",
-    "slug": "uk-politician-nigel-farage-bought-18m-house-after-a-67m-cryp-302015",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-14T23:37:58.816Z",
-    "updatedAt": "2026-05-14T23:37:58.816Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/nigel-farage-house-crypto-gift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/nigel-farage-house-crypto-gift",
-    "titleFingerprint": "a597f0ee6d7bc77eb765cffa321a1aa024fe55f0",
-    "dedupKeys": [
-      "78cba08a8d63855c91fe0b357c0bfaa447a1f62d",
-      "a597f0ee6d7bc77eb765cffa321a1aa024fe55f0",
-      "b06b3b8257ca7ad38f4e6cf9fe7e3cc8680c65e9"
-    ],
-    "imageUrl": "/images/articles/78cba08a8d63.jpg",
-    "i18n": {
-      "ko": {
-        "title": "나이절 패라지, 670만달러 암호화폐 선물 후 180만달러 주택 매입",
-        "excerpt": "영국 개혁당 대표 나이절 패라지가 2024년 5월 670만달러 규모의 암호화폐 업계 인사 선물을 받은 뒤 180만달러 주택을 산 것으로 보도됐다.",
-        "body": "영국 정치인 나이절 패라지 개혁당 대표가 암호화폐 억만장자 크리스토퍼 하버른으로부터 500만파운드(670만달러) 규모의 ‘개인 선물’을 받은 뒤 140만파운드(180만달러)로 평가된 주택을 매입한 것으로 전해졌다. 부동산 거래는 2024년 5월 마무리됐으며, 이는 패라지가 총선 출마를 발표하기 몇 주 전이었다. 이번 보도는 영국 의원과 정부 관계자들이 정치권 암호화폐 기부를 제한하거나 일시 금지해야 한다는 요구를 키우는 가운데 나왔다. 관련 논의는 정치 자금 투명성과 디지털자산 기부 규제의 향방에 영향을 줄 수 있다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Nigel Farage Bought $1.8M Home After $6.7M Crypto Gift",
-        "excerpt": "Reform UK leader Nigel Farage reportedly bought a $1.8 million property in May 2024 after receiving a $6.7 million gift from crypto billionaire Christopher Harborne.",
-        "body": "UK politician Nigel Farage, leader of Reform UK, reportedly purchased a property valued at 1.4 million pounds ($1.8 million) after receiving a 5 million pound ($6.7 million) “personal gift” from crypto billionaire Christopher Harborne. The real estate deal closed in May 2024, several weeks before Farage announced he would run in the general election. The report comes as UK lawmakers and government officials increasingly call for crypto political donations to be curbed or temporarily banned. The issue may affect debate over political finance transparency and digital asset donation rules. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "ナイジェル・ファラージ氏、670万ドル相当の暗号資産ギフト後に180万ドル住宅購入",
-        "excerpt": "英リフォームUK党首ナイジェル・ファラージ氏が2024年5月、暗号資産富豪から670万ドル相当の贈与を受けた後、180万ドルの住宅を購入したと報じられた。",
-        "body": "英国の政治家でリフォームUK党首のナイジェル・ファラージ氏は、暗号資産富豪クリストファー・ハーバーン氏から500万ポンド（670万ドル）の「個人的贈与」を受けた後、140万ポンド（180万ドル）相当の不動産を購入したと報じられた。不動産取引は2024年5月に完了し、同氏が総選挙への出馬を表明する数週間前だった。今回の報道は、英国の議員や政府関係者の間で、暗号資産による政治献金を制限または一時禁止すべきだとの声が高まる中で出た。政治資金の透明性とデジタル資産献金規制の議論に影響する可能性がある。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "奈杰尔·法拉奇获670万美元加密礼物后购入180万美元房产",
-        "excerpt": "英国改革党领袖奈杰尔·法拉奇据报在2024年5月获得加密富豪670万美元个人礼物后，购入一处价值180万美元的房产。",
-        "body": "英国政治人物、改革党领袖奈杰尔·法拉奇据报在收到加密货币亿万富豪克里斯托弗·哈伯恩500万英镑（670万美元）“个人礼物”后，购买了一处估值140万英镑（180万美元）的房产。该房地产交易于2024年5月完成，距离法拉奇宣布参加大选还有数周。报道称，此事发生之际，英国议员和政府官员要求限制或暂时禁止加密货币政治捐款的呼声正在上升。相关争议可能影响政治资金透明度和数字资产捐赠规则的讨论。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "Nigel Farage compró casa de $1,8M tras regalo cripto de $6,7M",
-        "excerpt": "Nigel Farage, líder de Reform UK, habría comprado en mayo de 2024 una propiedad de $1,8 millones tras recibir un regalo de $6,7 millones de un multimillonario cripto.",
-        "body": "El político británico Nigel Farage, líder de Reform UK, habría comprado una propiedad valorada en 1,4 millones de libras ($1,8 millones) después de recibir un “regalo personal” de 5 millones de libras ($6,7 millones) del multimillonario cripto Christopher Harborne. La operación inmobiliaria se cerró en mayo de 2024, varias semanas antes de que Farage anunciara que se presentaría a las elecciones generales. La noticia llega mientras legisladores y funcionarios del Reino Unido piden cada vez más limitar o prohibir temporalmente las donaciones políticas en criptomonedas. El caso puede influir en el debate sobre transparencia financiera política y reglas para donaciones de activos digitales. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Nigel Farage comprou casa de US$1,8 mi após presente cripto de US$6,7 mi",
-        "excerpt": "Nigel Farage, líder do Reform UK, teria comprado em maio de 2024 um imóvel de US$1,8 milhão após receber um presente de US$6,7 milhões de um bilionário cripto.",
-        "body": "O político britânico Nigel Farage, líder do Reform UK, teria comprado um imóvel avaliado em 1,4 milhão de libras (US$1,8 milhão) depois de receber um “presente pessoal” de 5 milhões de libras (US$6,7 milhões) do bilionário cripto Christopher Harborne. A transação imobiliária foi concluída em maio de 2024, algumas semanas antes de Farage anunciar que concorreria nas eleições gerais. A notícia surge em meio a crescentes pedidos de parlamentares e autoridades do Reino Unido para restringir ou proibir temporariamente doações políticas em criptomoedas. O caso pode pesar no debate sobre transparência no financiamento político e regras para doações em ativos digitais. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Nigel Farage kaufte Haus für 1,8 Mio. Dollar nach 6,7-Mio.-Krypto-Geschenk",
-        "excerpt": "Reform-UK-Chef Nigel Farage soll im Mai 2024 nach einem 6,7-Mio.-Dollar-Geschenk eines Krypto-Milliardärs eine Immobilie für 1,8 Mio. Dollar gekauft haben.",
-        "body": "Der britische Politiker Nigel Farage, Vorsitzender von Reform UK, soll nach einem “persönlichen Geschenk” über 5 Millionen Pfund (6,7 Millionen Dollar) des Krypto-Milliardärs Christopher Harborne eine Immobilie im Wert von 1,4 Millionen Pfund (1,8 Millionen Dollar) gekauft haben. Der Immobilienabschluss erfolgte im Mai 2024, mehrere Wochen bevor Farage seine Kandidatur bei der Parlamentswahl bekanntgab. Der Bericht erscheint, während britische Abgeordnete und Regierungsvertreter zunehmend fordern, politische Krypto-Spenden einzuschränken oder vorübergehend zu verbieten. Der Fall könnte die Debatte über Transparenz bei Parteienfinanzierung und Regeln für Digital-Asset-Spenden beeinflussen. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Nigel Farage a acheté une maison à 1,8 M$ après un don crypto de 6,7 M$",
-        "excerpt": "Nigel Farage, chef de Reform UK, aurait acheté en mai 2024 un bien immobilier de 1,8 million de dollars après un cadeau de 6,7 millions de dollars d’un milliardaire crypto.",
-        "body": "Le responsable politique britannique Nigel Farage, chef de Reform UK, aurait acheté un bien estimé à 1,4 million de livres sterling (1,8 million de dollars) après avoir reçu un “cadeau personnel” de 5 millions de livres (6,7 millions de dollars) du milliardaire crypto Christopher Harborne. La transaction immobilière a été finalisée en mai 2024, quelques semaines avant que Farage annonce sa candidature aux élections générales. Cette information intervient alors que des parlementaires et responsables gouvernementaux britanniques appellent de plus en plus à limiter ou suspendre temporairement les dons politiques en cryptomonnaies. Le dossier pourrait peser sur le débat autour de la transparence du financement politique et des règles applicables aux dons d’actifs numériques. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "نايجل فاراج اشترى منزلا بـ1.8 مليون دولار بعد هدية كريبتو بـ6.7 مليون",
-        "excerpt": "أفادت تقارير بأن زعيم حزب ريفورم يو كيه نايجل فاراج اشترى في مايو 2024 عقارا بقيمة 1.8 مليون دولار بعد تلقي هدية شخصية من ملياردير في قطاع الكريبتو.",
-        "body": "أفادت تقارير بأن السياسي البريطاني نايجل فاراج، زعيم حزب ريفورم يو كيه، اشترى عقارا بقيمة 1.4 مليون جنيه إسترليني (1.8 مليون دولار) بعد تلقي “هدية شخصية” قيمتها 5 ملايين جنيه إسترليني (6.7 مليون دولار) من ملياردير الكريبتو كريستوفر هاربورن. وأُغلقت صفقة العقار في مايو 2024، قبل أسابيع عدة من إعلان فاراج ترشحه في الانتخابات العامة. ويأتي التقرير وسط تزايد دعوات نواب ومسؤولين حكوميين في المملكة المتحدة إلى تقييد التبرعات السياسية بالعملات المشفرة أو حظرها مؤقتا. وقد يؤثر الملف في نقاش شفافية التمويل السياسي وقواعد التبرع بالأصول الرقمية. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "नाइजल फैराज ने $6.7M क्रिप्टो गिफ्ट के बाद $1.8M का घर खरीदा",
-        "excerpt": "Reform UK नेता नाइजल फैराज ने कथित तौर पर 2024 मई में क्रिप्टो अरबपति से $6.7 मिलियन का व्यक्तिगत उपहार मिलने के बाद $1.8 मिलियन की संपत्ति खरीदी।",
-        "body": "ब्रिटेन के राजनेता और Reform UK के नेता नाइजल फैराज ने कथित तौर पर क्रिप्टो अरबपति क्रिस्टोफर हारबोर्न से 50 लाख पाउंड ($6.7 मिलियन) का “व्यक्तिगत उपहार” मिलने के बाद 14 लाख पाउंड ($1.8 मिलियन) मूल्य की संपत्ति खरीदी। यह रियल एस्टेट सौदा मई 2024 में पूरा हुआ, यानी फैराज द्वारा आम चुनाव में उतरने की घोषणा से कई सप्ताह पहले। यह खबर ऐसे समय आई है जब ब्रिटेन के सांसद और सरकारी अधिकारी राजनीतिक क्रिप्टो दान पर रोक लगाने या अस्थायी प्रतिबंध की मांग बढ़ा रहे हैं। यह मामला राजनीतिक फंडिंग की पारदर्शिता और डिजिटल एसेट दान नियमों पर बहस को प्रभावित कर सकता है। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Nigel Farage Beli Rumah $1,8 Juta Usai Hadiah Kripto $6,7 Juta",
-        "excerpt": "Pemimpin Reform UK Nigel Farage dilaporkan membeli properti senilai $1,8 juta pada Mei 2024 setelah menerima hadiah pribadi $6,7 juta dari miliarder kripto.",
-        "body": "Politikus Inggris Nigel Farage, pemimpin Reform UK, dilaporkan membeli properti senilai 1,4 juta pound ($1,8 juta) setelah menerima “hadiah pribadi” sebesar 5 juta pound ($6,7 juta) dari miliarder kripto Christopher Harborne. Transaksi real estat itu selesai pada Mei 2024, beberapa pekan sebelum Farage mengumumkan pencalonannya dalam pemilihan umum. Laporan ini muncul saat anggota parlemen dan pejabat pemerintah Inggris makin sering menyerukan pembatasan atau larangan sementara terhadap donasi politik berbasis kripto. Isu ini dapat memengaruhi perdebatan tentang transparansi pendanaan politik dan aturan donasi aset digital. Sumber: cointelegraph.com."
       }
     }
   }

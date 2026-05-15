@@ -1,0 +1,75 @@
+{
+  "id": "566bae2b4c30",
+  "slug": "thorchain-pauses-trading-after-suspected-10m-exploit-690894",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-15T18:19:23.252Z",
+  "updatedAt": "2026-05-15T18:19:23.252Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/thorchain-halts-trading-zachxbt-flags-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/thorchain-halts-trading-zachxbt-flags-10m-exploit",
+  "titleFingerprint": "6d2f73ad6be161b60c850a2121bc949dd2b6d2d2",
+  "dedupKeys": [
+    "566bae2b4c30dc1b6186414cafc040fae127cff0",
+    "6d2f73ad6be161b60c850a2121bc949dd2b6d2d2",
+    "4a48d72070c404c1318f637315ede6326c30b01f"
+  ],
+  "imageUrl": "/images/articles/566bae2b4c30.jpg",
+  "i18n": {
+    "ko": {
+      "title": "THORChain, 1,000만 달러 의심 익스플로잇에 거래 일시 중단",
+      "excerpt": "THORChain은 5월 15일 ZachXBT가 비트코인, 이더리움, BNB 체인, 베이스 전반의 1,000만 달러 규모 의심 익스플로잇을 제기한 뒤 거래를 멈췄다.",
+      "body": "THORChain은 5월 15일 블록체인 조사자 ZachXBT가 약 1,000만 달러 규모의 의심 익스플로잇을 지적한 직후 거래를 일시 중단했다. 문제는 비트코인, 이더리움, BNB 체인, 베이스에 걸친 것으로 언급됐다. THORChain은 텔레그램 공지를 통해 약 12시간 42분 동안, 블록 26191149까지 거래가 중단될 예정이라고 밝혔다. Arkham이 THORChain 익스플로이터로 표시한 지갑에는 1,080만 달러 상당의 보유액이 나타났고, RUNE 가격은 24시간 기준 13% 하락한 것으로 전해졌다. 이번 중단은 크로스체인 유동성 프로토콜의 보안 우려를 다시 부각시켰다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "THORChain Pauses Trading After Suspected $10M Exploit Alert",
+      "excerpt": "THORChain halted trading on May 15 after ZachXBT flagged a suspected $10 million exploit across Bitcoin, Ethereum, BNB Chain and Base.",
+      "body": "THORChain temporarily paused trading on May 15 shortly after blockchain investigator ZachXBT flagged a suspected exploit worth about $10 million. The issue was described as spanning Bitcoin, Ethereum, BNB Chain and Base. In a Telegram announcement, THORChain said trading would be paused for about 12 hours and 42 minutes, until block 26191149. A wallet labeled by Arkham as the THORChain exploiter showed $10.8 million in holdings, while RUNE reportedly fell 13% over 24 hours. The halt again highlighted security concerns around cross-chain liquidity protocols. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "THORChain、1,000万ドル疑惑のエクスプロイトで取引停止",
+      "excerpt": "THORChainは5月15日、ZachXBTがビットコイン、イーサリアム、BNB Chain、Baseにまたがる1,000万ドル規模の疑惑を指摘後、取引を停止した。",
+      "body": "THORChainは5月15日、ブロックチェーン調査者ZachXBTが約1,000万ドル規模の疑わしいエクスプロイトを指摘した直後、取引を一時停止した。問題はビットコイン、イーサリアム、BNB Chain、Baseにまたがるものとされた。THORChainはテレグラムで、取引停止は約12時間42分続き、ブロック26191149まで実施される予定だと発表した。ArkhamがTHORChainのエクスプロイターと表示したウォレットには1,080万ドル相当の保有額があり、RUNE価格は24時間で13%下落したと伝えられた。今回の停止は、クロスチェーン流動性プロトコルの安全性への懸念を改めて示した。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "THORChain因疑似1000万美元漏洞暂停交易",
+      "excerpt": "5月15日，ZachXBT指出一起疑似涉及比特币、以太坊、BNB Chain和Base的1000万美元漏洞后，THORChain暂停交易。",
+      "body": "5月15日，在区块链调查员ZachXBT指出一起约1000万美元的疑似漏洞后，THORChain随即暂停交易。该问题被称涉及比特币、以太坊、BNB Chain和Base。THORChain在Telegram公告中表示，交易将暂停约12小时42分钟，直到区块26191149。Arkham标记为THORChain攻击者的钱包显示持有约1080万美元资产，同时RUNE价格据称在24小时内下跌13%。此次暂停再次凸显跨链流动性协议面临的安全担忧。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "THORChain pausa operaciones tras alerta de exploit de 10M de dólares",
+      "excerpt": "THORChain detuvo operaciones el 15 de mayo después de que ZachXBT señalara un presunto exploit de 10 millones de dólares en Bitcoin, Ethereum, BNB Chain y Base.",
+      "body": "THORChain pausó temporalmente las operaciones el 15 de mayo poco después de que el investigador blockchain ZachXBT señalara un presunto exploit de unos 10 millones de dólares. El incidente fue descrito como relacionado con Bitcoin, Ethereum, BNB Chain y Base. En un anuncio en Telegram, THORChain dijo que la pausa duraría unas 12 horas y 42 minutos, hasta el bloque 26191149. Una billetera etiquetada por Arkham como explotador de THORChain mostraba 10,8 millones de dólares en activos, mientras RUNE habría caído 13% en 24 horas. La medida volvió a poner el foco en los riesgos de seguridad de los protocolos de liquidez cross-chain. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "THORChain pausa negociações após suspeita de exploit de US$ 10 mi",
+      "excerpt": "A THORChain interrompeu negociações em 15 de maio depois que ZachXBT apontou um possível exploit de US$ 10 milhões envolvendo Bitcoin, Ethereum, BNB Chain e Base.",
+      "body": "A THORChain pausou temporariamente as negociações em 15 de maio pouco depois de o investigador blockchain ZachXBT apontar um possível exploit de cerca de US$ 10 milhões. O problema foi descrito como abrangendo Bitcoin, Ethereum, BNB Chain e Base. Em anúncio no Telegram, a THORChain disse que a pausa duraria cerca de 12 horas e 42 minutos, até o bloco 26191149. Uma carteira marcada pela Arkham como exploradora da THORChain mostrava US$ 10,8 milhões em ativos, enquanto o RUNE teria caído 13% em 24 horas. A suspensão reforçou preocupações de segurança em protocolos de liquidez cross-chain. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "THORChain stoppt Handel nach Verdacht auf 10-Mio.-Dollar-Exploit",
+      "excerpt": "THORChain setzte den Handel am 15. Mai aus, nachdem ZachXBT einen mutmaßlichen 10-Millionen-Dollar-Exploit über Bitcoin, Ethereum, BNB Chain und Base gemeldet hatte.",
+      "body": "THORChain setzte den Handel am 15. Mai vorübergehend aus, kurz nachdem der Blockchain-Ermittler ZachXBT auf einen mutmaßlichen Exploit im Wert von rund 10 Millionen US-Dollar hingewiesen hatte. Das Problem wurde mit Bitcoin, Ethereum, BNB Chain und Base in Verbindung gebracht. In einer Telegram-Mitteilung erklärte THORChain, der Handel werde etwa 12 Stunden und 42 Minuten bis Block 26191149 pausiert. Eine von Arkham als THORChain-Exploiter markierte Wallet zeigte Bestände von 10,8 Millionen US-Dollar, während RUNE binnen 24 Stunden um 13% gefallen sein soll. Der Stopp unterstreicht erneut Sicherheitsbedenken bei Cross-Chain-Liquiditätsprotokollen. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "THORChain suspend le trading après un exploit présumé de 10 M$",
+      "excerpt": "THORChain a suspendu le trading le 15 mai après que ZachXBT a signalé un exploit présumé de 10 millions de dollars touchant Bitcoin, Ethereum, BNB Chain et Base.",
+      "body": "THORChain a temporairement suspendu le trading le 15 mai peu après que l’enquêteur blockchain ZachXBT a signalé un exploit présumé d’environ 10 millions de dollars. Le problème a été décrit comme concernant Bitcoin, Ethereum, BNB Chain et Base. Dans une annonce sur Telegram, THORChain a indiqué que la pause durerait environ 12 heures et 42 minutes, jusqu’au bloc 26191149. Un portefeuille identifié par Arkham comme exploiteur de THORChain affichait 10,8 millions de dollars d’actifs, tandis que le prix de RUNE aurait reculé de 13% sur 24 heures. Cette suspension remet en avant les inquiétudes de sécurité autour des protocoles de liquidité cross-chain. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "THORChain توقف التداول بعد شبهة استغلال بقيمة 10 ملايين دولار",
+      "excerpt": "أوقفت THORChain التداول في 15 مايو بعدما أشار ZachXBT إلى استغلال مشتبه به بقيمة 10 ملايين دولار عبر بيتكوين وإيثريوم وBNB Chain وBase.",
+      "body": "أوقفت THORChain التداول مؤقتا في 15 مايو بعد وقت قصير من إشارة محقق البلوكشين ZachXBT إلى استغلال مشتبه به بنحو 10 ملايين دولار. وذُكر أن المشكلة تمتد عبر بيتكوين وإيثريوم وBNB Chain وBase. وقالت THORChain في إعلان على تيليغرام إن التوقف سيستمر نحو 12 ساعة و42 دقيقة حتى الكتلة 26191149. وأظهرت محفظة وسمتها Arkham بأنها تابعة لمستغل THORChain أرصدة بقيمة 10.8 ملايين دولار، بينما ورد أن سعر RUNE هبط 13% خلال 24 ساعة. وأعاد التوقف إبراز مخاوف الأمان في بروتوكولات السيولة العابرة للسلاسل. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "THORChain ने 10 मिलियन डॉलर के संदिग्ध exploit पर ट्रेडिंग रोकी",
+      "excerpt": "THORChain ने 15 मई को ZachXBT द्वारा Bitcoin, Ethereum, BNB Chain और Base में फैले 10 मिलियन डॉलर के संदिग्ध exploit की सूचना के बाद ट्रेडिंग रोकी।",
+      "body": "THORChain ने 15 मई को ब्लॉकचेन जांचकर्ता ZachXBT द्वारा लगभग 10 मिलियन डॉलर के संदिग्ध exploit की जानकारी देने के तुरंत बाद ट्रेडिंग अस्थायी रूप से रोक दी। यह मामला Bitcoin, Ethereum, BNB Chain और Base से जुड़ा बताया गया। THORChain ने Telegram घोषणा में कहा कि ट्रेडिंग करीब 12 घंटे 42 मिनट तक, ब्लॉक 26191149 तक रुकी रहेगी। Arkham द्वारा THORChain exploiter के रूप में चिह्नित वॉलेट में 10.8 मिलियन डॉलर की होल्डिंग दिखी, जबकि RUNE की कीमत 24 घंटे में 13% गिरने की सूचना है। इस रोक ने cross-chain liquidity protocols की सुरक्षा चिंताओं को फिर सामने रखा। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "THORChain Jeda Trading Usai Dugaan Eksploitasi US$10 Juta",
+      "excerpt": "THORChain menghentikan trading pada 15 Mei setelah ZachXBT menandai dugaan eksploitasi US$10 juta yang mencakup Bitcoin, Ethereum, BNB Chain, dan Base.",
+      "body": "THORChain menghentikan sementara trading pada 15 Mei tak lama setelah penyelidik blockchain ZachXBT menandai dugaan eksploitasi sekitar US$10 juta. Masalah itu disebut mencakup Bitcoin, Ethereum, BNB Chain, dan Base. Dalam pengumuman Telegram, THORChain menyatakan trading akan dijeda sekitar 12 jam 42 menit hingga blok 26191149. Dompet yang ditandai Arkham sebagai exploiter THORChain menunjukkan kepemilikan US$10,8 juta, sementara harga RUNE dilaporkan turun 13% dalam 24 jam. Penghentian ini kembali menyoroti kekhawatiran keamanan pada protokol likuiditas cross-chain. Sumber: cointelegraph.com"
+    }
+  }
+}
