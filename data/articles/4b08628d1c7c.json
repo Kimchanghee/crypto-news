@@ -1,0 +1,75 @@
+{
+  "id": "4b08628d1c7c",
+  "slug": "tezos-tests-post-quantum-privacy-as-founder-slams-39half-bak-161429",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-15T01:12:42.826Z",
+  "updatedAt": "2026-05-15T01:12:42.826Z",
+  "sourceName": "decrypt.co",
+  "sourceUrl": "https://decrypt.co/367795/tezos-post-quantum-privacy-founder-slams-half-baked-bitcoin-theories",
+  "canonicalUrl": "https://decrypt.co/367795/tezos-post-quantum-privacy-founder-slams-half-baked-bitcoin-theories",
+  "titleFingerprint": "6563635d338f8f2ed11efa16844c12a18e03f3ba",
+  "dedupKeys": [
+    "4b08628d1c7c4f7642c8765a951e22c8d2b33a8d",
+    "6563635d338f8f2ed11efa16844c12a18e03f3ba",
+    "2af5d3533b92ebfcb65a33692ecb1b8233c614af"
+  ],
+  "imageUrl": "/images/articles/4b08628d1c7c.jpg",
+  "i18n": {
+    "ko": {
+      "title": "테조스, 포스트퀀텀 프라이버시 시험…창업자 비트코인 양자론 비판",
+      "excerpt": "테조스가 미래 양자 공격으로부터 암호화된 블록체인 데이터를 보호하기 위한 포스트퀀텀 프라이버시 시스템을 시험하는 가운데, 창업자 아서 브라이트먼은 비트코인 양자 이론을 비판했다.",
+      "body": "테조스가 암호화된 블록체인 데이터를 미래 양자 공격으로부터 보호하기 위한 포스트퀀텀 프라이버시 시스템을 시험하고 있다. 이 움직임은 테조스 공동창업자 아서 브라이트먼이 비트코인을 둘러싼 일부 양자 컴퓨팅 위협 이론을 ‘설익은’ 주장으로 비판한 발언과 함께 주목받았다. 배경에는 양자 컴퓨팅이 기존 암호 체계와 블록체인 보안에 미칠 수 있는 장기적 위험에 대한 업계의 관심이 있다. 테조스의 시험은 현재의 네트워크 운영보다 미래 데이터 보호와 프라이버시 내구성에 초점을 맞춘 조치로 해석된다. 다만 공개된 내용은 시험 단계에 관한 것으로, 실제 적용 범위나 일정은 제시되지 않았다. 출처: decrypt.co"
+    },
+    "en": {
+      "title": "Tezos Tests Post-Quantum Privacy as Founder Criticizes Bitcoin Quantum Claims",
+      "excerpt": "Tezos is testing a post-quantum privacy system to protect encrypted blockchain data from future attacks, while founder Arthur Breitman criticizes Bitcoin quantum theories.",
+      "body": "Tezos is testing a post-quantum privacy system designed to protect encrypted blockchain data from future quantum attacks. The move drew attention alongside comments from Tezos co-founder Arthur Breitman, who criticized some theories about quantum computing threats to Bitcoin as “half-baked.” The context is the crypto industry’s growing focus on long-term risks that quantum computing could pose to existing encryption and blockchain security. Tezos’ test appears focused less on current network operations and more on future data protection and privacy resilience. However, the information available concerns a testing phase, and no specific rollout scope or timeline was provided. Source: decrypt.co"
+    },
+    "ja": {
+      "title": "テゾス、ポスト量子プライバシーを試験 創業者はビットコイン量子論を批判",
+      "excerpt": "テゾスは将来の量子攻撃から暗号化されたブロックチェーンデータを守るポスト量子プライバシーシステムを試験し、創業者アーサー・ブライトマン氏はビットコイン量子論を批判した。",
+      "body": "テゾスは、暗号化されたブロックチェーンデータを将来の量子攻撃から保護するためのポスト量子プライバシーシステムを試験している。この動きは、テゾス共同創業者アーサー・ブライトマン氏が、ビットコインをめぐる一部の量子コンピューティング脅威論を「半端な」主張だと批判した発言とともに注目された。背景には、量子コンピューティングが既存の暗号技術やブロックチェーンの安全性に与え得る長期的リスクへの業界の関心がある。今回の試験は現在のネットワーク運用よりも、将来のデータ保護とプライバシーの耐久性に焦点を当てた取り組みとみられる。ただし公開情報は試験段階に関するもので、実際の適用範囲や時期は示されていない。出典: decrypt.co"
+    },
+    "zh": {
+      "title": "Tezos测试后量子隐私，创始人批评比特币量子理论不成熟",
+      "excerpt": "Tezos正在测试后量子隐私系统，以保护加密区块链数据免受未来攻击；创始人Arthur Breitman同时批评部分比特币量子威胁理论。",
+      "body": "Tezos正在测试一套后量子隐私系统，旨在保护加密的区块链数据免受未来量子攻击。这一进展受到关注的同时，Tezos联合创始人Arthur Breitman批评围绕比特币的一些量子计算威胁理论是“不成熟”的说法。其背景是，行业正越来越关注量子计算可能对现有加密体系和区块链安全带来的长期风险。Tezos的测试重点似乎不在当前网络运行，而在未来数据保护和隐私韧性。不过，公开信息仅涉及测试阶段，尚未说明实际应用范围或时间表。来源：decrypt.co"
+    },
+    "es": {
+      "title": "Tezos prueba privacidad poscuántica y su fundador critica teorías cuánticas sobre Bitcoin",
+      "excerpt": "Tezos prueba un sistema de privacidad poscuántica para proteger datos blockchain cifrados de futuros ataques, mientras Arthur Breitman critica teorías cuánticas sobre Bitcoin.",
+      "body": "Tezos está probando un sistema de privacidad poscuántica diseñado para proteger datos cifrados de blockchain frente a futuros ataques cuánticos. El avance llamó la atención junto con los comentarios del cofundador de Tezos, Arthur Breitman, quien criticó algunas teorías sobre amenazas de computación cuántica contra Bitcoin por considerarlas “a medio hacer”. El contexto es el creciente interés del sector por los riesgos de largo plazo que la computación cuántica podría representar para los sistemas de cifrado actuales y la seguridad blockchain. La prueba de Tezos parece centrarse menos en la operación actual de la red y más en la protección futura de datos y la resiliencia de la privacidad. Sin embargo, la información disponible se limita a una fase de prueba y no se indicó un alcance ni calendario de implementación. Fuente: decrypt.co"
+    },
+    "pt": {
+      "title": "Tezos testa privacidade pós-quântica e fundador critica teorias quânticas sobre Bitcoin",
+      "excerpt": "A Tezos testa um sistema de privacidade pós-quântica para proteger dados blockchain criptografados de ataques futuros, enquanto Arthur Breitman critica teorias quânticas sobre Bitcoin.",
+      "body": "A Tezos está testando um sistema de privacidade pós-quântica projetado para proteger dados criptografados de blockchain contra futuros ataques quânticos. A iniciativa ganhou destaque junto aos comentários do cofundador da Tezos, Arthur Breitman, que criticou algumas teorias sobre ameaças da computação quântica ao Bitcoin, classificando-as como “mal acabadas”. O contexto é o interesse crescente do setor nos riscos de longo prazo que a computação quântica pode trazer aos sistemas de criptografia atuais e à segurança de blockchains. O teste da Tezos parece focar menos na operação atual da rede e mais na proteção futura de dados e na resistência da privacidade. No entanto, as informações disponíveis tratam apenas da fase de testes, sem escopo ou cronograma de aplicação definidos. Fonte: decrypt.co"
+    },
+    "de": {
+      "title": "Tezos testet Post-Quanten-Privatsphäre, Gründer kritisiert Bitcoin-Quantentheorien",
+      "excerpt": "Tezos testet ein Post-Quanten-Privatsphäre-System zum Schutz verschlüsselter Blockchain-Daten vor künftigen Angriffen, während Arthur Breitman Bitcoin-Quantentheorien kritisiert.",
+      "body": "Tezos testet ein Post-Quanten-Privatsphäre-System, das verschlüsselte Blockchain-Daten vor künftigen Quantenangriffen schützen soll. Aufmerksamkeit erhielt der Schritt auch durch Aussagen von Tezos-Mitgründer Arthur Breitman, der einige Theorien über Quantencomputing-Bedrohungen für Bitcoin als „halbgar“ kritisierte. Hintergrund ist das wachsende Interesse der Branche an langfristigen Risiken, die Quantencomputing für bestehende Verschlüsselungssysteme und die Blockchain-Sicherheit bedeuten könnte. Der Test von Tezos scheint weniger auf den aktuellen Netzwerkbetrieb als auf künftigen Datenschutz und widerstandsfähige Privatsphäre ausgerichtet zu sein. Die verfügbaren Angaben beziehen sich jedoch nur auf eine Testphase; ein konkreter Anwendungsumfang oder Zeitplan wurde nicht genannt. Quelle: decrypt.co"
+    },
+    "fr": {
+      "title": "Tezos teste la confidentialité post-quantique, son fondateur critique les théories sur Bitcoin",
+      "excerpt": "Tezos teste un système de confidentialité post-quantique pour protéger les données blockchain chiffrées de futures attaques, tandis qu’Arthur Breitman critique les théories quantiques sur Bitcoin.",
+      "body": "Tezos teste un système de confidentialité post-quantique conçu pour protéger les données blockchain chiffrées contre de futures attaques quantiques. Cette initiative a attiré l’attention en même temps que les propos du cofondateur de Tezos, Arthur Breitman, qui a critiqué certaines théories sur les menaces de l’informatique quantique visant Bitcoin, les jugeant « à moitié cuites ». Le contexte est l’intérêt croissant du secteur pour les risques de long terme que l’informatique quantique pourrait faire peser sur les systèmes de chiffrement actuels et la sécurité des blockchains. Le test de Tezos semble viser moins l’exploitation actuelle du réseau que la protection future des données et la résilience de la confidentialité. Toutefois, les informations disponibles concernent une phase de test, sans portée ni calendrier de déploiement précisés. Source : decrypt.co"
+    },
+    "ar": {
+      "title": "تيزوس تختبر خصوصية ما بعد الكم ومؤسسها ينتقد نظريات بيتكوين الكمية",
+      "excerpt": "تختبر تيزوس نظام خصوصية ما بعد الكم لحماية بيانات البلوكشين المشفرة من هجمات مستقبلية، بينما انتقد آرثر بريتمان نظريات التهديد الكمي حول بيتكوين.",
+      "body": "تختبر تيزوس نظاما للخصوصية ما بعد الكم يهدف إلى حماية بيانات البلوكشين المشفرة من هجمات كمية مستقبلية. وجاءت هذه الخطوة في دائرة الاهتمام مع تصريحات المؤسس المشارك لتيزوس، آرثر بريتمان، الذي انتقد بعض النظريات المتعلقة بتهديدات الحوسبة الكمية لبيتكوين ووصفها بأنها غير ناضجة. وتأتي الخلفية من تزايد اهتمام قطاع العملات المشفرة بالمخاطر طويلة الأجل التي قد تفرضها الحوسبة الكمية على أنظمة التشفير الحالية وأمن البلوكشين. ويبدو أن اختبار تيزوس يركز بدرجة أقل على تشغيل الشبكة الحالي وبدرجة أكبر على حماية البيانات مستقبلا ومتانة الخصوصية. لكن المعلومات المتاحة تتعلق بمرحلة اختبار فقط، من دون تحديد نطاق تطبيق أو جدول زمني. المصدر: decrypt.co"
+    },
+    "hi": {
+      "title": "Tezos ने पोस्ट-क्वांटम प्राइवेसी टेस्ट की, संस्थापक ने Bitcoin क्वांटम थ्योरी पर सवाल उठाए",
+      "excerpt": "Tezos भविष्य के हमलों से एन्क्रिप्टेड ब्लॉकचेन डेटा बचाने के लिए पोस्ट-क्वांटम प्राइवेसी सिस्टम टेस्ट कर रहा है, जबकि Arthur Breitman ने Bitcoin क्वांटम थ्योरी की आलोचना की।",
+      "body": "Tezos एन्क्रिप्टेड ब्लॉकचेन डेटा को भविष्य के क्वांटम हमलों से बचाने के लिए एक पोस्ट-क्वांटम प्राइवेसी सिस्टम का परीक्षण कर रहा है। यह कदम Tezos के सह-संस्थापक Arthur Breitman की उन टिप्पणियों के साथ चर्चा में आया, जिनमें उन्होंने Bitcoin से जुड़ी कुछ क्वांटम कंप्यूटिंग खतरे की थ्योरी को “अधपकी” बताया। इसकी पृष्ठभूमि में उद्योग की वह बढ़ती चिंता है कि क्वांटम कंप्यूटिंग मौजूदा एन्क्रिप्शन प्रणालियों और ब्लॉकचेन सुरक्षा के लिए दीर्घकालिक जोखिम पैदा कर सकती है। Tezos का परीक्षण मौजूदा नेटवर्क संचालन से अधिक भविष्य के डेटा संरक्षण और प्राइवेसी की मजबूती पर केंद्रित दिखता है। हालांकि उपलब्ध जानकारी केवल परीक्षण चरण से जुड़ी है, और वास्तविक लागू करने की सीमा या समयसीमा नहीं बताई गई है। स्रोत: decrypt.co"
+    },
+    "id": {
+      "title": "Tezos Uji Privasi Pasca-Kuantum, Pendiri Kritik Teori Kuantum Bitcoin",
+      "excerpt": "Tezos menguji sistem privasi pasca-kuantum untuk melindungi data blockchain terenkripsi dari serangan masa depan, sementara Arthur Breitman mengkritik teori kuantum tentang Bitcoin.",
+      "body": "Tezos sedang menguji sistem privasi pasca-kuantum yang dirancang untuk melindungi data blockchain terenkripsi dari serangan kuantum di masa depan. Langkah ini menjadi sorotan bersamaan dengan komentar salah satu pendiri Tezos, Arthur Breitman, yang mengkritik beberapa teori tentang ancaman komputasi kuantum terhadap Bitcoin sebagai klaim yang “setengah matang”. Latar belakangnya adalah meningkatnya perhatian industri terhadap risiko jangka panjang yang dapat ditimbulkan komputasi kuantum bagi sistem enkripsi saat ini dan keamanan blockchain. Uji coba Tezos tampak lebih berfokus pada perlindungan data masa depan dan ketahanan privasi daripada operasi jaringan saat ini. Namun, informasi yang tersedia hanya menyangkut tahap pengujian, tanpa rincian cakupan penerapan atau jadwal. Sumber: decrypt.co"
+    }
+  }
+}
