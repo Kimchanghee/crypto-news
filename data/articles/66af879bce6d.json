@@ -1,0 +1,75 @@
+{
+  "id": "66af879bce6d",
+  "slug": "kraken-joins-layerzero-exodus-as-it-switches-to-chainlink-cc-239131",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-05-15T07:27:28.633Z",
+  "updatedAt": "2026-05-15T07:27:28.633Z",
+  "sourceName": "cointelegraph.com",
+  "sourceUrl": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "canonicalUrl": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip",
+  "titleFingerprint": "2ecf23ac2b6fd0860c23dc4999861f5a185214e6",
+  "dedupKeys": [
+    "66af879bce6da5f46bc479bdedffa5d13280ae86",
+    "2ecf23ac2b6fd0860c23dc4999861f5a185214e6",
+    "d7c685d08eb98c3a41a2de9bf44e9a315065296d"
+  ],
+  "imageUrl": "/images/articles/66af879bce6d.jpg",
+  "i18n": {
+    "ko": {
+      "title": "크라켄, LayerZero 이탈 흐름 합류…Chainlink CCIP로 전환",
+      "excerpt": "크라켄은 4월 LayerZero 익스플로잇 이후 커진 보안 우려 속에서 크로스체인 제공업체를 재검토하고 Chainlink CCIP로 전환했다.",
+      "body": "크라켄이 LayerZero에서 Chainlink CCIP로 크로스체인 인프라를 전환하며 LayerZero 이탈 흐름에 합류했다. 이번 결정은 4월 LayerZero가 익스플로잇을 겪은 뒤 보안성에 대한 scrutiny가 커진 가운데 나왔다. 원문은 여러 크립토 프로토콜이 크로스체인 제공업체를 다시 평가하고 더 안전한 대안을 찾고 있다고 설명했다. 크라켄의 전환은 크로스체인 메시징과 자산 이동 인프라 선택에서 보안 신뢰가 핵심 기준으로 부상했음을 보여준다. 출처: cointelegraph.com"
+    },
+    "en": {
+      "title": "Kraken Joins LayerZero Exodus, Moves Cross-Chain Stack to Chainlink CCIP",
+      "excerpt": "Kraken switched from LayerZero to Chainlink CCIP as security concerns grew after LayerZero’s April exploit and protocols reassessed cross-chain providers.",
+      "body": "Kraken has moved its cross-chain infrastructure from LayerZero to Chainlink CCIP, joining the broader LayerZero exodus. The decision follows increased scrutiny after LayerZero was exploited in April. According to the original report, crypto protocols are reevaluating their cross-chain providers and looking for safer alternatives. Kraken’s switch shows that security trust is becoming a central factor when protocols choose infrastructure for cross-chain messaging and asset movement. Source: cointelegraph.com"
+    },
+    "ja": {
+      "title": "KrakenがLayerZero離れに合流、Chainlink CCIPへ移行",
+      "excerpt": "Krakenは4月のLayerZeroエクスプロイト後に高まった安全性への懸念を受け、クロスチェーン提供元を見直しChainlink CCIPへ移行した。",
+      "body": "Krakenはクロスチェーン基盤をLayerZeroからChainlink CCIPへ移行し、LayerZero離れの流れに加わった。今回の判断は、4月にLayerZeroがエクスプロイトを受けた後、安全性を巡る監視が強まる中で行われた。原文は、複数の暗号資産プロトコルがクロスチェーン提供元を再評価し、より安全な代替策を探していると説明している。Krakenの移行は、クロスチェーンのメッセージングや資産移動の基盤選定で、セキュリティへの信頼が重要な基準になっていることを示す。出典: cointelegraph.com"
+    },
+    "zh": {
+      "title": "Kraken加入LayerZero出走潮，跨链基础设施转向Chainlink CCIP",
+      "excerpt": "Kraken在LayerZero于4月遭遇漏洞利用后，因安全担忧升温而重新评估跨链服务提供方，并转向Chainlink CCIP。",
+      "body": "Kraken已将其跨链基础设施从LayerZero切换至Chainlink CCIP，加入LayerZero出走潮。此举发生在LayerZero于4月遭遇漏洞利用后，外界对其安全性的审视持续升温之际。原文称，多家加密协议正在重新评估跨链服务提供方，并寻找更安全的替代方案。Kraken的转向显示，在选择跨链消息传递和资产转移基础设施时，安全信任正成为核心标准。来源: cointelegraph.com"
+    },
+    "es": {
+      "title": "Kraken se suma al éxodo de LayerZero y migra a Chainlink CCIP",
+      "excerpt": "Kraken cambió LayerZero por Chainlink CCIP tras el exploit de abril y el aumento de dudas de seguridad entre protocolos que revisan proveedores cross-chain.",
+      "body": "Kraken trasladó su infraestructura cross-chain de LayerZero a Chainlink CCIP y se sumó al éxodo de LayerZero. La decisión llega después de que LayerZero sufriera un exploit en abril, lo que elevó el escrutinio sobre su seguridad. Según el informe original, varios protocolos cripto están reevaluando sus proveedores cross-chain y buscando alternativas más seguras. El cambio de Kraken muestra que la confianza en la seguridad se está convirtiendo en un criterio clave al elegir infraestructura para mensajería y movimiento de activos entre cadenas. Fuente: cointelegraph.com"
+    },
+    "pt": {
+      "title": "Kraken entra no êxodo da LayerZero e migra para Chainlink CCIP",
+      "excerpt": "A Kraken trocou a LayerZero pela Chainlink CCIP após o exploit de abril e a alta nas preocupações de segurança entre protocolos que revisam provedores cross-chain.",
+      "body": "A Kraken transferiu sua infraestrutura cross-chain da LayerZero para a Chainlink CCIP, entrando no movimento de saída da LayerZero. A decisão ocorre depois que a LayerZero sofreu um exploit em abril, o que aumentou o escrutínio sobre sua segurança. Segundo o relato original, protocolos cripto estão reavaliando seus provedores cross-chain e buscando alternativas mais seguras. A mudança da Kraken mostra que a confiança em segurança se tornou um critério central na escolha de infraestrutura para mensagens e movimentação de ativos entre cadeias. Fonte: cointelegraph.com"
+    },
+    "de": {
+      "title": "Kraken folgt LayerZero-Abwanderung und wechselt zu Chainlink CCIP",
+      "excerpt": "Kraken stellt nach dem LayerZero-Exploit im April und wachsender Sicherheitskritik seine Cross-Chain-Infrastruktur auf Chainlink CCIP um.",
+      "body": "Kraken hat seine Cross-Chain-Infrastruktur von LayerZero auf Chainlink CCIP umgestellt und schließt sich damit der Abwanderung von LayerZero an. Die Entscheidung folgt auf stärkere Prüfung, nachdem LayerZero im April ausgenutzt wurde. Dem Originalbericht zufolge bewerten mehrere Krypto-Protokolle ihre Cross-Chain-Anbieter neu und suchen sicherere Alternativen. Der Wechsel von Kraken zeigt, dass Sicherheitsvertrauen bei der Auswahl von Infrastruktur für Cross-Chain-Messaging und Asset-Transfers zu einem zentralen Kriterium wird. Quelle: cointelegraph.com"
+    },
+    "fr": {
+      "title": "Kraken rejoint l’exode de LayerZero et passe à Chainlink CCIP",
+      "excerpt": "Kraken a remplacé LayerZero par Chainlink CCIP après l’exploit d’avril, alors que les protocoles réévaluent leurs fournisseurs cross-chain pour plus de sécurité.",
+      "body": "Kraken a transféré son infrastructure cross-chain de LayerZero vers Chainlink CCIP, rejoignant ainsi le mouvement de départ de LayerZero. Cette décision intervient après l’exploit subi par LayerZero en avril, qui a renforcé l’examen de sa sécurité. Selon l’article original, plusieurs protocoles crypto réévaluent leurs fournisseurs cross-chain et recherchent des alternatives plus sûres. Le choix de Kraken montre que la confiance en matière de sécurité devient un critère central pour l’infrastructure de messagerie et de transfert d’actifs entre chaînes. Source: cointelegraph.com"
+    },
+    "ar": {
+      "title": "كراكن تنضم إلى موجة مغادرة LayerZero وتنتقل إلى Chainlink CCIP",
+      "excerpt": "انتقلت كراكن من LayerZero إلى Chainlink CCIP بعد استغلال أبريل وارتفاع مخاوف الأمان، بينما تعيد بروتوكولات الكريبتو تقييم مزودي الربط بين السلاسل.",
+      "body": "نقلت كراكن بنيتها التحتية للربط بين السلاسل من LayerZero إلى Chainlink CCIP، لتنضم إلى موجة الابتعاد عن LayerZero. جاء القرار بعد تعرض LayerZero لاستغلال في أبريل، ما زاد التدقيق في مستوى أمانها. ووفق التقرير الأصلي، تعيد بروتوكولات كريبتو تقييم مزودي خدمات الربط بين السلاسل وتبحث عن بدائل أكثر أمانا. يوضح تحول كراكن أن الثقة الأمنية أصبحت معيارا رئيسيا عند اختيار بنية المراسلة ونقل الأصول بين السلاسل. المصدر: cointelegraph.com"
+    },
+    "hi": {
+      "title": "Kraken ने LayerZero छोड़ने की लहर पकड़ी, Chainlink CCIP पर शिफ्ट",
+      "excerpt": "Kraken ने अप्रैल में LayerZero exploit के बाद बढ़ी सुरक्षा चिंताओं के बीच cross-chain प्रदाता की समीक्षा कर Chainlink CCIP पर स्विच किया।",
+      "body": "Kraken ने अपनी cross-chain infrastructure को LayerZero से Chainlink CCIP पर स्थानांतरित कर दिया है और LayerZero से दूर जाने की व्यापक लहर में शामिल हो गया है। यह फैसला अप्रैल में LayerZero के exploit के बाद बढ़ी सुरक्षा जांच के बीच आया। मूल रिपोर्ट के अनुसार, कई crypto protocols अपने cross-chain providers का पुनर्मूल्यांकन कर रहे हैं और अधिक सुरक्षित विकल्पों की तलाश में हैं। Kraken का यह बदलाव दिखाता है कि cross-chain messaging और asset movement infrastructure चुनते समय security trust प्रमुख मानदंड बन रहा है। स्रोत: cointelegraph.com"
+    },
+    "id": {
+      "title": "Kraken Ikut Eksodus LayerZero, Alihkan Infrastruktur ke Chainlink CCIP",
+      "excerpt": "Kraken beralih dari LayerZero ke Chainlink CCIP setelah exploit April memicu kekhawatiran keamanan dan protokol kripto meninjau ulang penyedia cross-chain.",
+      "body": "Kraken memindahkan infrastruktur cross-chain dari LayerZero ke Chainlink CCIP dan bergabung dengan arus eksodus LayerZero. Keputusan ini muncul setelah LayerZero mengalami exploit pada April, yang membuat keamanan platform tersebut semakin disorot. Menurut laporan asli, sejumlah protokol kripto sedang mengevaluasi ulang penyedia cross-chain mereka dan mencari alternatif yang lebih aman. Langkah Kraken menunjukkan bahwa kepercayaan keamanan menjadi kriteria utama dalam memilih infrastruktur untuk pesan dan perpindahan aset antarchain. Sumber: cointelegraph.com"
+    }
+  }
+}
