@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import type { GeneratedArticle } from '@/lib/types';
 import { defaultLocale, type Locale } from '@/i18n';
 import { useTranslations } from 'next-intl';
@@ -51,7 +50,7 @@ export function ArticleCard({ article, locale, large = false }: { article: Gener
 
   return (
     <article itemScope itemType="https://schema.org/NewsArticle" style={{ height: '100%' }}>
-      <Link
+      <a
         href={`/${locale}/article/${article.slug}`}
         className="card"
         itemProp="url"
@@ -85,7 +84,7 @@ export function ArticleCard({ article, locale, large = false }: { article: Gener
             )}
           </div>
         </div>
-      </Link>
+      </a>
     </article>
   );
 }
