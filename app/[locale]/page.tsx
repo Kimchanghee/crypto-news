@@ -1,7 +1,5 @@
 import { db } from '@/lib/db';
 import { ArticleCard } from '@/components/ArticleCard';
-import { AdSlot } from '@/components/AdSlot';
-import { AffiliateShowcase } from '@/components/AffiliateShowcase';
 import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
 import { getTranslations } from 'next-intl/server';
@@ -38,21 +36,15 @@ export default async function Home({ params: { locale } }: { params: { locale: L
             </div>
           )}
         </div>
-        <aside>
-          <AffiliateShowcase locale={locale} placement="sidebar" />
-          <div style={{ height: 16 }} />
-          <AdSlot
-            network="adsterra"
-            zoneId={process.env.NEXT_PUBLIC_ADSTERRA_BANNER_300_KEY}
-            format="banner"
-            size={{ w: 300, h: 250 }}
-          />
-          <div style={{ height: 16 }} />
-          <AdSlot
-            network="mgid"
-            zoneId={process.env.NEXT_PUBLIC_MGID_WIDGET_ID}
-            size={{ w: 300, h: 600 }}
-          />
+        <aside className="card" style={{ padding: 18, alignSelf: 'start' }}>
+          <h2 style={{ fontSize: 18, fontWeight: 600, marginBottom: 12 }}>{t('nav.categories')}</h2>
+          <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+            {channel.categories.map((c: any) => (
+              <a key={c.slug} href={'/' + locale + '/category/' + c.slug} className="tag">
+                {c.name?.[locale] ?? c.name?.[defaultLocale] ?? c.slug}
+              </a>
+            ))}
+          </div>
         </aside>
       </section>
 
@@ -64,29 +56,10 @@ export default async function Home({ params: { locale } }: { params: { locale: L
           ))}
         </div>
 
-        {/* In-feed native ad after 5th card */}
-        <div style={{ margin: '20px 0' }}>
-          <AdSlot
-            network="adsterra"
-            zoneId={process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_KEY}
-            format="native"
-          />
-        </div>
-
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16 }}>
           {rest.slice(5, 13).map((a) => (
             <ArticleCard key={a.id} article={a} locale={locale} />
           ))}
-        </div>
-
-        {/* 728x90 horizontal banner mid-page (desktop) */}
-        <div style={{ margin: '20px 0' }}>
-          <AdSlot
-            network="adsterra"
-            zoneId={process.env.NEXT_PUBLIC_ADSTERRA_BANNER_728_KEY}
-            format="banner"
-            size={{ w: 728, h: 90 }}
-          />
         </div>
 
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16 }}>

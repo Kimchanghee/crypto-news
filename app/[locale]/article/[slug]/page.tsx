@@ -2,9 +2,7 @@ import { notFound } from 'next/navigation';
 import { db } from '@/lib/db';
 import { defaultLocale, type Locale } from '@/i18n';
 import { SITE_URL, articleMetadata, breadcrumbJsonLd, faqJsonLd, newsArticleJsonLd } from '@/lib/seo';
-import { AdSlot } from '@/components/AdSlot';
 import { ArticleCard } from '@/components/ArticleCard';
-import { AffiliateShowcase } from '@/components/AffiliateShowcase';
 import { getTranslations } from 'next-intl/server';
 import { channel } from '@/channel.config';
 
@@ -86,30 +84,8 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
       <div className="divider" />
 
       <div style={{ maxWidth: 760, margin: '0 auto' }}>
-        {/* Top 728x90 banner (desktop, mobile auto-shrinks) */}
-        <AdSlot network="adsterra" zoneId={process.env.NEXT_PUBLIC_ADSTERRA_BANNER_728_KEY} format="banner" size={{ w: 728, h: 90 }} />
-
-        <div className="prose-paper" style={{ marginTop: 18 }} dangerouslySetInnerHTML={{ __html: bodyHtml }} />
-
-        {/* Mid: native banner inside article */}
-        <div style={{ margin: '24px 0' }}>
-          <AdSlot
-            network="adsterra"
-            zoneId={process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_KEY}
-            format="native"
-          />
-        </div>
-
-        <div style={{ marginTop: 24 }}>
-          <AffiliateShowcase locale={params.locale} placement="article" />
-        </div>
-
-        {/* MGID widget after affiliate */}
-        <div style={{ margin: '24px 0' }}>
-          <AdSlot network="mgid" zoneId={process.env.NEXT_PUBLIC_MGID_WIDGET_ID} />
-        </div>
-
-        {faqs.length > 0 && (
+<div className="prose-paper" style={{ marginTop: 18 }} dangerouslySetInnerHTML={{ __html: bodyHtml }} />
+{faqs.length > 0 && (
           <section style={{ marginTop: 24 }}>
             <h2 style={{ fontSize: 22, marginBottom: 10 }}>{t('article.faq')}</h2>
             {faqs.map((f: any, idx: number) => (
@@ -120,18 +96,7 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
             ))}
           </section>
         )}
-
-        {/* Bottom 300x250 banner before related */}
-        <div style={{ margin: '24px 0' }}>
-          <AdSlot
-            network="adsterra"
-            zoneId={process.env.NEXT_PUBLIC_ADSTERRA_BANNER_300_KEY}
-            format="banner"
-            size={{ w: 300, h: 250 }}
-          />
-        </div>
-
-        {related.length > 0 && (
+{related.length > 0 && (
           <section style={{ marginTop: 32 }}>
             <h2 style={{ fontSize: 22, marginBottom: 10 }}>{t('article.related')}</h2>
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(220px, 1fr))', gap: 12 }}>
