@@ -3,6 +3,7 @@ import { db } from '@/lib/db';
 import { defaultLocale, type Locale } from '@/i18n';
 import { SITE_URL, articleMetadata, breadcrumbJsonLd, faqJsonLd, newsArticleJsonLd } from '@/lib/seo';
 import { ArticleCard } from '@/components/ArticleCard';
+import { AffiliateShowcase } from '@/components/AffiliateShowcase';
 import { getTranslations } from 'next-intl/server';
 import { channel } from '@/channel.config';
 
@@ -85,6 +86,9 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
 
       <div style={{ maxWidth: 760, margin: '0 auto' }}>
 <div className="prose-paper" style={{ marginTop: 18 }} dangerouslySetInnerHTML={{ __html: bodyHtml }} />
+        <div className="article-affiliate-after-body" style={{ marginTop: 26 }}>
+          <AffiliateShowcase locale={params.locale} placement="article" />
+        </div>
 {faqs.length > 0 && (
           <section style={{ marginTop: 24 }}>
             <h2 style={{ fontSize: 22, marginBottom: 10 }}>{t('article.faq')}</h2>

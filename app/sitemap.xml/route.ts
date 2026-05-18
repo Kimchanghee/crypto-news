@@ -55,8 +55,8 @@ export async function GET() {
       lines.push('<url>');
       lines.push(`<loc>${escapeXml(url(l, `/article/${a.slug}`))}</loc>`);
       lines.push(`<lastmod>${a.updatedAt}</lastmod>`);
-      lines.push('<changefreq>daily</changefreq>');
-      lines.push('<priority>0.7</priority>');
+      lines.push('<changefreq>hourly</changefreq>');
+      lines.push('<priority>0.8</priority>');
       alternates(lines, `/article/${a.slug}`);
       const image = absoluteUrl(a.imageUrl || `/images/category-${a.category || 'breaking'}.svg`);
       lines.push('<image:image>');
