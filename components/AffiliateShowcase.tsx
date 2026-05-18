@@ -1,5 +1,6 @@
 import { channel } from '@/channel.config';
 import type { Locale } from '@/i18n';
+import { AdSlot } from '@/components/AdSlot';
 
 type Placement = 'sidebar' | 'article';
 
@@ -120,6 +121,19 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
           </a>
         ))}
       </div>
+
+
+      {placement === 'article' && (
+        <div
+          className="safe-inline-adsterra-news"
+          style={{ marginTop: 20, padding: 12, border: '1px solid var(--soft)', borderRadius: 8, background: '#fff' }}
+        >
+          <p style={{ margin: '0 0 8px', fontSize: 11, fontWeight: 700, textTransform: 'uppercase', color: '#7b7a76' }}>
+            Advertisement
+          </p>
+          <AdSlot network="adsterra" format="banner" size={{ w: 300, h: 250 }} className="safe-inline-adsterra-frame" />
+        </div>
+      )}
 
       <p className="affiliate-disclosure">
         {copy.disclosure} {channel.name}
