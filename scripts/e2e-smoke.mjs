@@ -10,6 +10,7 @@ const PORT = Number(process.env.E2E_PORT || 3100);
 const BASE_URL = `http://${HOST}:${PORT}`;
 const START_TIMEOUT_MS = Number(process.env.E2E_START_TIMEOUT_MS || 120000);
 const REQUEST_TIMEOUT_MS = Number(process.env.E2E_REQUEST_TIMEOUT_MS || 20000);
+const READY_LOG_EVERY = Number(process.env.E2E_READY_LOG_EVERY || 5);
 const ARTICLES_DIR = path.join(process.cwd(), 'data', 'articles');
 const LOCAL_NO_PROXY = '127.0.0.1,localhost,::1';
 const execFileAsync = promisify(execFile);
@@ -87,19 +88,22 @@ async function fetchText(pathname) {
   const timeoutSec = String(Math.ceil(REQUEST_TIMEOUT_MS / 1000));
   const marker = '__CODE__';
   const args = [
+    '--proxy', '',
     '--noproxy', '*',
+    '--ipv4',
     '-sS',
     '-L',
+    '--connect-timeout', '5',
     '--max-time', timeoutSec,
     '-w', `\n${marker}%{http_code}`,
     url
   ];
 
   try {
-    const { stdout } = await execFileAsync('curl', args, { maxBuffer: 10 * 1024 * 1024 });
+    const { stdout, stderr } = await execFileAsync('curl', args, { maxBuffer: 10 * 1024 * 1024 });
     const idx = stdout.lastIndexOf(`\n${marker}`);
     if (idx === -1) {
-      throw new Error(`Could not parse curl status marker for ${url}`);
+      throw new Error(`Could not parse curl status marker for ${url}; stderr=${tail(stderr || '', 300)}`);
     }
     const text = stdout.slice(0, idx);
     const status = Number(stdout.slice(idx + marker.length + 1).trim());
@@ -128,24 +132,37 @@ function assertIncludes(pathname, text, needles) {
   }
 }
 
-async function waitForServerReady() {
+async function waitForServerReady(isServerExited) {
   const deadline = Date.now() + START_TIMEOUT_MS;
+  let attempts = 0;
+  let lastError = '';
 
   while (Date.now() < deadline) {
+    attempts += 1;
+    if (isServerExited()) {
+      throw new Error('Next server exited before readiness checks completed');
+    }
     try {
       const probe = await fetchText('/ko');
       if (probe.status === 200) {
-        log('Server is ready');
+        log(`Server is ready after ${attempts} probe(s)`);
         return;
       }
-    } catch {
-      // retry
+      lastError = `HTTP ${probe.status} for /ko`;
+      if (attempts % READY_LOG_EVERY === 0) {
+        log(`Waiting for readiness (attempt ${attempts}): ${lastError}`);
+      }
+    } catch (error) {
+      lastError = error instanceof Error ? error.message : 'unknown request error';
+      if (attempts % READY_LOG_EVERY === 0) {
+        log(`Waiting for readiness (attempt ${attempts}): ${lastError}`);
+      }
     }
 
     await sleep(2000);
   }
 
-  throw new Error(`Server did not become ready within ${START_TIMEOUT_MS}ms`);
+  throw new Error(`Server did not become ready within ${START_TIMEOUT_MS}ms. Last probe result: ${lastError || 'n/a'}`);
 }
 
 async function run() {
@@ -200,6 +217,11 @@ async function run() {
 
   server.stdout.on('data', capture);
   server.stderr.on('data', capture);
+  let serverExited = false;
+  server.on('exit', (code, signal) => {
+    serverExited = true;
+    log(`Next server exited (code=${String(code)}, signal=${String(signal)})`);
+  });
 
   const shutdown = () => {
     if (!server.killed) {
@@ -217,7 +239,7 @@ async function run() {
   });
 
   try {
-    await waitForServerReady();
+    await waitForServerReady(() => serverExited);
 
     for (const check of checks) {
       const res = await fetchText(check.path);
