@@ -18,3 +18,6 @@ jobs:
       - run: npm run build
         env:
           NEXT_PUBLIC_ADSTERRA_POPUNDER_KEY: ${{ secrets.NEXT_PUBLIC_ADSTERRA_POPUNDER_KEY || '' }}
+      - run: npm run e2e:smoke
+        env:
+          NEXT_PUBLIC_ADSTERRA_POPUNDER_KEY: ${{ secrets.NEXT_PUBLIC_ADSTERRA_POPUNDER_KEY || '' }}
