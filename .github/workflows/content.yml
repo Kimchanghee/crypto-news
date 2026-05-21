@@ -67,7 +67,20 @@ jobs:
       - name: Generate content via codex
         env:
           MAX_ARTICLES: ${{ inputs.max_articles || '3' }}
+          TARGET_BODY_MIN: '1000'
+          TARGET_BODY_MAX: '1200'
+          MAX_KO_REPAIR_RETRIES: '2'
+          CODEX_TIMEOUT_MS: '900000'
+          GENERATE_ALL_LOCALES: '0'
         run: node scripts/codex-cron.mjs
+
+      - name: Freshness guard (48h window + stale alert)
+        env:
+          FRESH_WINDOW_HOURS: '48'
+          MIN_FRESH_ARTICLES_48H: '1'
+          STALE_HOURS: '36'
+          FAIL_ON_STALE: '1'
+        run: node scripts/freshness-check.mjs
 
       - name: Commit & push if changed (with rebase retry)
         shell: bash
@@ -79,7 +92,7 @@ jobs:
           ls -la data/articles/ 2>&1 | head -30 || echo "(no articles dir)"
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/ public/images/ 2>&1
+          git add data/ public/images/ reports/ 2>&1
           STAGED=$(git diff --cached --name-only | head -100)
           if [ -z "$STAGED" ]; then
             echo "변경 없음 — skip commit"

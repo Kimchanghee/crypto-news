@@ -16,7 +16,13 @@ const SEED_PATH = path.join(ROOT, 'data', 'seed.json');
 const IMG_DIR = path.join(ROOT, 'public', 'images', 'articles');
 const MAX_ARTICLES = Number(process.env.MAX_ARTICLES || '3');
 const LOCALES = ['ko','en','ja','zh','es','pt','de','fr','ar','hi','id'];
+const GENERATE_ALL_LOCALES = process.env.GENERATE_ALL_LOCALES === '1';
+const PROMPT_LOCALES = GENERATE_ALL_LOCALES ? LOCALES : ['ko'];
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36';
+const TARGET_BODY_MIN = Number(process.env.TARGET_BODY_MIN || '1000');
+const TARGET_BODY_MAX = Number(process.env.TARGET_BODY_MAX || '1200');
+const MAX_KO_REPAIR_RETRIES = Number(process.env.MAX_KO_REPAIR_RETRIES || '2');
+const CODEX_TIMEOUT_MS = Number(process.env.CODEX_TIMEOUT_MS || '900000');
 
 async function loadChannel() {
   const txt = await fs.readFile(path.join(ROOT, 'channel.config.ts'), 'utf8');
@@ -287,8 +293,17 @@ function parseJson(stdout) {
 }
 
 function buildTranslationPrompt(channel, item) {
+  const localeRule = GENERATE_ALL_LOCALES
+    ? '9. 11개 언어 모두 동일 사실, 자연스러운 현지어 어순'
+    : '9. ko 1개 언어만 출력';
+  const translationRule = GENERATE_ALL_LOCALES
+    ? '10. 한국어가 원천이며 다른 언어는 한국어 본문을 충실 번역'
+    : '10. 한국어 문장 가독성·정확성 최우선';
+  const modeLine = GENERATE_ALL_LOCALES
+    ? `당신은 다국어 ${channel.name} 뉴스 에디터입니다. SEO/AEO/GEO에 최적화된 뉴스 기사 1개를 작성하세요.`
+    : `당신은 한국어 ${channel.name} 뉴스 에디터입니다. SEO/AEO/GEO에 최적화된 한국어 기사 1개를 작성하세요.`;
   return [
-    `당신은 다국어 ${channel.name} 뉴스 에디터입니다. SEO/AEO/GEO에 최적화된 뉴스 기사 1개를 11개 언어로 작성하세요.`,
+    modeLine,
     ``,
     `=== 원문 ===`,
     `제목: ${item.title.slice(0, 250)}`,
@@ -296,18 +311,133 @@ function buildTranslationPrompt(channel, item) {
     `출처: ${item.sourceName}`,
     ``,
     `=== 작성 규칙 ===`,
-    `1. title: 50-80자, 핵심 키워드 앞쪽 배치, 클릭률 높은 톤, 과장·낚시 금지`,
-    `2. excerpt: 150-200자, meta description용. 누가/무엇을/언제/왜를 한 줄로 압축`,
-    `3. body: 400-700자. 뉴스 구조: 리드(5W1H) → 배경/맥락/관련 수치 → 영향/전망 → 출처: ${item.sourceName} 인용`,
-    `4. 사실 그대로(원문 정보만 사용), 추측·과장 금지`,
-    `5. 11개 언어 모두 동일 사실, 자연스러운 현지어 어순`,
-    `6. 한국어가 원천이며 다른 언어는 한국어 본문을 충실 번역`,
+    `1. title: 50-80자, 핵심 키워드 앞쪽 배치, 과장·낚시 금지`,
+    `2. excerpt: 150-210자. 누가/무엇을/언제/왜를 한 줄 요약`,
+    `3. metaDescription: 140-180자. 검색 스니펫 최적화`,
+    `4. summary: 220-320자. 핵심 포인트 3~4문장`,
+    `5. body: ko(한국어)는 정확히 ${TARGET_BODY_MIN}~${TARGET_BODY_MAX}자. 리드(5W1H) → 배경/맥락/수치 → 영향/전망 → 출처(${item.sourceName})`,
+    `   나머지 언어는 동일 사실을 자연 번역하되 450~900자 권장`,
+    `6. keywords: 핵심 키워드 6~10개 배열(string[])`,
+    `7. faq: 질문/답변 3개. 사실 기반, 과장 금지`,
+    `8. 사실 그대로(원문 정보만 사용), 추측·과장 금지`,
+    localeRule,
+    translationRule,
     ``,
     `=== 출력 ===`,
     `반드시 다음 JSON 한 개만 출력. 마크다운 코드블록·설명 금지.`,
     `{`,
-    LOCALES.map(l => `  "${l}": {"title":"...","excerpt":"...","body":"..."}`).join(',\n'),
+    PROMPT_LOCALES.map(l => `  "${l}": {"title":"...","excerpt":"...","metaDescription":"...","summary":"...","body":"...","keywords":["..."],"faq":[{"q":"...","a":"..."}]}`).join(',\n'),
     `}`,
+  ].join('\n');
+}
+
+function toText(v) {
+  return String(v ?? '').trim();
+}
+
+function charLen(v) {
+  return Array.from(String(v ?? '')).length;
+}
+
+function bodyInRange(v) {
+  const n = charLen(v);
+  return n >= TARGET_BODY_MIN && n <= TARGET_BODY_MAX;
+}
+
+function cleanKeywords(raw, fallback = []) {
+  const src = Array.isArray(raw)
+    ? raw
+    : toText(raw).split(/[,\n]/g);
+  const dedup = [];
+  const seen = new Set();
+  for (const it of src) {
+    const k = toText(it).replace(/^#+/, '');
+    if (!k) continue;
+    if (k.length < 2 || k.length > 40) continue;
+    const key = k.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    dedup.push(k);
+  }
+  for (const it of fallback) {
+    const k = toText(it);
+    if (!k) continue;
+    const key = k.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    dedup.push(k);
+  }
+  return dedup.slice(0, 10);
+}
+
+function cleanFaq(raw, sourceName, title) {
+  const arr = Array.isArray(raw) ? raw : [];
+  const out = [];
+  for (const it of arr) {
+    const q = toText(it?.q).slice(0, 120);
+    const a = toText(it?.a).slice(0, 280);
+    if (!q || !a) continue;
+    out.push({ q, a });
+    if (out.length >= 3) break;
+  }
+  if (out.length >= 2) return out;
+  if (out.length === 0) {
+    out.push({
+      q: `${title.slice(0, 50)} 핵심 포인트는 무엇인가요?`,
+      a: `기사 본문은 ${sourceName} 보도를 바탕으로 사건의 배경, 주요 수치, 시장 영향을 순서대로 설명합니다.`
+    });
+  }
+  out.push({
+    q: '이 기사에서 가장 먼저 확인할 수치는 무엇인가요?',
+    a: '본문에 제시된 발표 시점, 당사자 발언, 가격·지표 변화를 우선 확인하는 것이 좋습니다.'
+  });
+  return out.slice(0, 3);
+}
+
+function normalizeLocalePayload(locale, payload, item) {
+  const title = toText(payload?.title || item.title).slice(0, 180);
+  const excerpt = toText(payload?.excerpt || payload?.summary).slice(0, 240);
+  const metaDescription = toText(payload?.metaDescription || excerpt).slice(0, 200);
+  const summary = toText(payload?.summary || excerpt).slice(0, 360);
+  const body = toText(payload?.body)
+    .replace(/\r\n/g, '\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+  return {
+    title,
+    excerpt,
+    metaDescription,
+    summary,
+    body,
+    keywords: cleanKeywords(payload?.keywords, [item.sourceName, item.category, title.slice(0, 20)]),
+    faq: cleanFaq(payload?.faq, item.sourceName, title),
+  };
+}
+
+function buildKoRepairPrompt(channel, item, ko) {
+  return [
+    `당신은 ${channel.name} 한국어 뉴스 에디터입니다.`,
+    `아래 초안을 사실관계를 유지한 채 SEO/AEO 기준으로 다시 작성하세요.`,
+    ``,
+    `=== 원문 정보 ===`,
+    `제목: ${item.title.slice(0, 250)}`,
+    `요약: ${item.description.slice(0, 600)}`,
+    `출처: ${item.sourceName}`,
+    ``,
+    `=== 현재 초안 ===`,
+    `title: ${toText(ko?.title).slice(0, 250)}`,
+    `excerpt: ${toText(ko?.excerpt).slice(0, 300)}`,
+    `body: ${toText(ko?.body).slice(0, 2500)}`,
+    ``,
+    `=== 수정 규칙 ===`,
+    `1) 사실 추가/삭제 금지, 추측 금지`,
+    `2) body는 정확히 ${TARGET_BODY_MIN}~${TARGET_BODY_MAX}자`,
+    `3) 뉴스 문체 유지 (리드→배경/수치→영향/전망→출처)`,
+    `4) keywords 6~10개, faq 3개`,
+    ``,
+    `=== 출력 ===`,
+    `JSON 한 개만 출력`,
+    `{"title":"...","excerpt":"...","metaDescription":"...","summary":"...","body":"...","keywords":["..."],"faq":[{"q":"...","a":"..."}]}`
   ].join('\n');
 }
 
@@ -322,18 +452,35 @@ async function generateOne(channel, item) {
   // Step 2: 11-language translation via codex
   const tPrompt = buildTranslationPrompt(channel, item);
   console.log(`[translate] start: ${item.title.slice(0,60)}...`);
-  const stdout = await runCodex(tPrompt, { sandbox: 'read-only', timeoutMs: 240_000 });
+  const stdout = await runCodex(tPrompt, { sandbox: 'read-only', timeoutMs: CODEX_TIMEOUT_MS });
   const data = parseJson(stdout);
 
   const i18n = {};
-  for (const lc of LOCALES) {
-    const obj = data[lc];
-    if (obj && typeof obj.title === 'string' && typeof obj.excerpt === 'string' && typeof obj.body === 'string') {
-      i18n[lc] = { title: obj.title, excerpt: obj.excerpt, body: obj.body };
-    }
-  }
-  if (!i18n.ko) {
+  const koPayload = data?.ko || data;
+  i18n.ko = normalizeLocalePayload('ko', koPayload || {}, item);
+  if (!i18n.ko?.body) {
     throw new Error('ko translation missing. got locales: '+Object.keys(data).join(','));
+  }
+
+  let retries = 0;
+  while (!bodyInRange(i18n.ko.body) && retries < MAX_KO_REPAIR_RETRIES) {
+    retries += 1;
+    console.warn(`[repair] ko body length ${charLen(i18n.ko.body)} out of range. retry=${retries}`);
+    const repairPrompt = buildKoRepairPrompt(channel, item, i18n.ko);
+    const repairOut = await runCodex(repairPrompt, { sandbox: 'read-only', timeoutMs: Math.min(CODEX_TIMEOUT_MS, 300_000) });
+    const repaired = parseJson(repairOut);
+    i18n.ko = normalizeLocalePayload('ko', repaired?.ko || repaired || {}, item);
+  }
+
+  if (!bodyInRange(i18n.ko.body)) {
+    throw new Error(`ko body length out of range: ${charLen(i18n.ko.body)} (target ${TARGET_BODY_MIN}-${TARGET_BODY_MAX})`);
+  }
+
+  if (GENERATE_ALL_LOCALES) {
+    for (const lc of LOCALES) {
+      if (lc === 'ko') continue;
+      i18n[lc] = normalizeLocalePayload(lc, data[lc] || {}, item);
+    }
   }
 
   const article = {
@@ -357,7 +504,7 @@ async function generateOne(channel, item) {
 
   await fs.mkdir(ART_DIR, { recursive: true });
   await fs.writeFile(path.join(ART_DIR, `${id}.json`), JSON.stringify(article, null, 2));
-  console.log(`[OK] ${id}.json — locales=${Object.keys(i18n).length}/${LOCALES.length} img=${!!imageUrl}`);
+  console.log(`[OK] ${id}.json — locales=${Object.keys(i18n).length}/${LOCALES.length} img=${!!imageUrl} koLen=${charLen(i18n.ko.body)}`);
   return article;
 }
 
