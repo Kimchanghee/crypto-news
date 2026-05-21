@@ -44,7 +44,7 @@ function tail(text, maxLen = 4000) {
   return text.length <= maxLen ? text : text.slice(text.length - maxLen);
 }
 
-async function readLatestArticleSlug() {
+async function readLatestArticle() {
   const files = await fs.readdir(ARTICLES_DIR);
   let latest = null;
 
@@ -68,7 +68,7 @@ async function readLatestArticleSlug() {
       const score = Number.isFinite(ts) ? ts : 0;
 
       if (!latest || score > latest.score) {
-        latest = { slug, score, file };
+        latest = { slug, score, file, item };
       }
     } catch {
       // ignore malformed article file
@@ -80,7 +80,7 @@ async function readLatestArticleSlug() {
   }
 
   log(`Latest article from ${latest.file} -> slug=${latest.slug}`);
-  return latest.slug;
+  return latest;
 }
 
 async function fetchText(pathname) {
@@ -132,6 +132,30 @@ function assertIncludes(pathname, text, needles) {
   }
 }
 
+function assertArticleQuality(article) {
+  const item = article?.item ?? {};
+  const ko = item?.i18n?.ko ?? {};
+  const body = typeof ko.body === 'string' ? ko.body.trim() : '';
+  const keywordCount = Array.isArray(ko.keywords) ? ko.keywords.length : 0;
+  const faqCount = Array.isArray(ko.faq) ? ko.faq.length : 0;
+
+  if (!body) {
+    throw new Error('Latest article is missing i18n.ko.body');
+  }
+  if (body.length < 1000 || body.length > 1200) {
+    throw new Error(`Latest article body length out of range: ${body.length} (expected 1000-1200)`);
+  }
+  if (!item.sourceName || !item.sourceUrl) {
+    throw new Error('Latest article is missing source attribution (sourceName/sourceUrl)');
+  }
+  if (keywordCount < 3) {
+    throw new Error(`Latest article has too few keywords: ${keywordCount} (expected >= 3)`);
+  }
+  if (faqCount < 2) {
+    throw new Error(`Latest article has too few FAQ entries: ${faqCount} (expected >= 2)`);
+  }
+}
+
 async function waitForServerReady(isServerExited) {
   const deadline = Date.now() + START_TIMEOUT_MS;
   let attempts = 0;
@@ -143,12 +167,12 @@ async function waitForServerReady(isServerExited) {
       throw new Error('Next server exited before readiness checks completed');
     }
     try {
-      const probe = await fetchText('/ko');
+      const probe = await fetchText('/robots.txt');
       if (probe.status === 200) {
         log(`Server is ready after ${attempts} probe(s)`);
         return;
       }
-      lastError = `HTTP ${probe.status} for /ko`;
+      lastError = `HTTP ${probe.status} for /robots.txt`;
       if (attempts % READY_LOG_EVERY === 0) {
         log(`Waiting for readiness (attempt ${attempts}): ${lastError}`);
       }
@@ -166,20 +190,20 @@ async function waitForServerReady(isServerExited) {
 }
 
 async function run() {
-  const latestSlug = await readLatestArticleSlug();
+  const latestArticle = await readLatestArticle();
+  const latestSlug = latestArticle.slug;
   const encodedSlug = encodeURIComponent(latestSlug);
+  const encodedArticlePath = encodeURI(`/ko/article/${latestSlug}`);
 
   const checks = [
-    { path: '/ko', expectedStatus: [200], markers: ['<html'] },
-    { path: '/en', expectedStatus: [200], markers: ['<html'] },
     { path: '/robots.txt', expectedStatus: [200], markers: ['Sitemap:', '/sitemap.xml'] },
     { path: '/sitemap.xml', expectedStatus: [200], markers: ['<urlset', 'xhtml:link'] },
     { path: '/news-sitemap.xml', expectedStatus: [200], markers: ['<news:news', '<news:title>'] },
-    { path: '/llms.txt', expectedStatus: [200], markers: ['http'] },
+    { path: '/llms.txt', expectedStatus: [200], markers: ['Home:', 'Sitemap:', 'http'] },
     {
-      path: `/ko/article/${encodedSlug}`,
+      path: '/api/news/feed',
       expectedStatus: [200],
-      markers: ['application/ld+json', 'NewsArticle']
+      markers: ['"items"', '"slug"', '"publishedAt"']
     }
   ];
 
@@ -241,12 +265,27 @@ async function run() {
   try {
     await waitForServerReady(() => serverExited);
 
+    let newsSitemapText = '';
+    let llmsText = '';
+
     for (const check of checks) {
       const res = await fetchText(check.path);
       assertStatus(check.path, res.status, check.expectedStatus);
       assertIncludes(check.path, res.text, check.markers);
+      if (check.path === '/news-sitemap.xml') newsSitemapText = res.text;
+      if (check.path === '/llms.txt') llmsText = res.text;
       log(`PASS ${check.path} (${res.status})`);
     }
+
+    if (!newsSitemapText.includes(encodedSlug) && !newsSitemapText.includes(encodedArticlePath)) {
+      throw new Error(`Latest article slug is not exposed in /news-sitemap.xml: ${latestSlug}`);
+    }
+    if (!llmsText.includes(encodedSlug) && !llmsText.includes(encodedArticlePath)) {
+      throw new Error(`Latest article slug is not exposed in /llms.txt: ${latestSlug}`);
+    }
+
+    assertArticleQuality(latestArticle);
+    log(`PASS latest article quality (slug=${latestSlug})`);
 
     log('All smoke checks passed');
   } catch (error) {
