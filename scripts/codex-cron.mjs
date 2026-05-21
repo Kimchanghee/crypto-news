@@ -23,7 +23,7 @@ const TARGET_BODY_MIN = Number(process.env.TARGET_BODY_MIN || '1000');
 const TARGET_BODY_MAX = Number(process.env.TARGET_BODY_MAX || '1200');
 const MAX_KO_REPAIR_RETRIES = Number(process.env.MAX_KO_REPAIR_RETRIES || '2');
 const CODEX_TIMEOUT_MS = Number(process.env.CODEX_TIMEOUT_MS || '900000');
-const CODEX_MODEL = (process.env.CODEX_MODEL || 'gpt-5.5').trim();
+const CODEX_MODEL = 'gpt-5.5';
 
 async function loadChannel() {
   const txt = await fs.readFile(path.join(ROOT, 'channel.config.ts'), 'utf8');
