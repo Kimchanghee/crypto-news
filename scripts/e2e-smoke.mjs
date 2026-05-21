@@ -3,6 +3,7 @@ import { spawn } from 'node:child_process';
 import { existsSync } from 'node:fs';
 import { promises as fs } from 'node:fs';
 import http from 'node:http';
+import net from 'node:net';
 import path from 'node:path';
 
 const HOST = process.env.E2E_HOST || '127.0.0.1';
@@ -83,15 +84,19 @@ async function readLatestArticleSlug() {
 
 async function fetchText(pathname) {
   const url = new URL(pathname, BASE_URL);
+  const requestPath = `${url.pathname}${url.search}`;
 
   return new Promise((resolve, reject) => {
     const req = http.request(
       {
-        hostname: url.hostname,
-        port: url.port,
-        path: `${url.pathname}${url.search}`,
+        hostname: '127.0.0.1',
+        port: PORT,
+        path: requestPath,
         method: 'GET',
+        agent: false,
+        createConnection: () => net.connect({ host: '127.0.0.1', port: PORT, family: 4 }),
         headers: {
+          host: `127.0.0.1:${PORT}`,
           'user-agent': 'e2e-smoke'
         }
       },
