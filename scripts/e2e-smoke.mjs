@@ -2,6 +2,7 @@
 import { spawn } from 'node:child_process';
 import { existsSync } from 'node:fs';
 import { promises as fs } from 'node:fs';
+import http from 'node:http';
 import path from 'node:path';
 
 const HOST = process.env.E2E_HOST || '127.0.0.1';
@@ -64,21 +65,42 @@ async function readLatestArticleSlug() {
 }
 
 async function fetchText(pathname) {
-  const url = `${BASE_URL}${pathname}`;
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
+  const url = new URL(pathname, BASE_URL);
 
-  try {
-    const res = await fetch(url, {
-      method: 'GET',
-      redirect: 'follow',
-      signal: controller.signal
+  return new Promise((resolve, reject) => {
+    const req = http.request(
+      {
+        hostname: url.hostname,
+        port: url.port,
+        path: `${url.pathname}${url.search}`,
+        method: 'GET',
+        headers: {
+          'user-agent': 'e2e-smoke'
+        }
+      },
+      (res) => {
+        let text = '';
+        res.setEncoding('utf8');
+        res.on('data', (chunk) => {
+          text += chunk;
+        });
+        res.on('end', () => {
+          resolve({
+            url: url.toString(),
+            status: res.statusCode || 0,
+            text
+          });
+        });
+      }
+    );
+
+    req.setTimeout(REQUEST_TIMEOUT_MS, () => {
+      req.destroy(new Error(`Request timeout after ${REQUEST_TIMEOUT_MS}ms: ${url.toString()}`));
     });
-    const text = await res.text();
-    return { url, status: res.status, text };
-  } finally {
-    clearTimeout(timer);
-  }
+
+    req.on('error', reject);
+    req.end();
+  });
 }
 
 function assertStatus(pathname, status, expected) {
