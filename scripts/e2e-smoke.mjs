@@ -1,10 +1,9 @@
 #!/usr/bin/env node
-import { spawn } from 'node:child_process';
+import { execFile, spawn } from 'node:child_process';
 import { existsSync } from 'node:fs';
 import { promises as fs } from 'node:fs';
-import http from 'node:http';
-import net from 'node:net';
 import path from 'node:path';
+import { promisify } from 'node:util';
 
 const HOST = process.env.E2E_HOST || '127.0.0.1';
 const PORT = Number(process.env.E2E_PORT || 3100);
@@ -13,6 +12,7 @@ const START_TIMEOUT_MS = Number(process.env.E2E_START_TIMEOUT_MS || 120000);
 const REQUEST_TIMEOUT_MS = Number(process.env.E2E_REQUEST_TIMEOUT_MS || 20000);
 const ARTICLES_DIR = path.join(process.cwd(), 'data', 'articles');
 const LOCAL_NO_PROXY = '127.0.0.1,localhost,::1';
+const execFileAsync = promisify(execFile);
 
 function sanitizeProxyEnv() {
   const proxyKeys = [
@@ -83,46 +83,34 @@ async function readLatestArticleSlug() {
 }
 
 async function fetchText(pathname) {
-  const url = new URL(pathname, BASE_URL);
-  const requestPath = `${url.pathname}${url.search}`;
+  const url = new URL(pathname, BASE_URL).toString();
+  const timeoutSec = String(Math.ceil(REQUEST_TIMEOUT_MS / 1000));
+  const marker = '__CODE__';
+  const args = [
+    '--noproxy', '*',
+    '-sS',
+    '-L',
+    '--max-time', timeoutSec,
+    '-w', `\n${marker}%{http_code}`,
+    url
+  ];
 
-  return new Promise((resolve, reject) => {
-    const req = http.request(
-      {
-        hostname: '127.0.0.1',
-        port: PORT,
-        path: requestPath,
-        method: 'GET',
-        agent: false,
-        createConnection: () => net.connect({ host: '127.0.0.1', port: PORT, family: 4 }),
-        headers: {
-          host: `127.0.0.1:${PORT}`,
-          'user-agent': 'e2e-smoke'
-        }
-      },
-      (res) => {
-        let text = '';
-        res.setEncoding('utf8');
-        res.on('data', (chunk) => {
-          text += chunk;
-        });
-        res.on('end', () => {
-          resolve({
-            url: url.toString(),
-            status: res.statusCode || 0,
-            text
-          });
-        });
-      }
-    );
-
-    req.setTimeout(REQUEST_TIMEOUT_MS, () => {
-      req.destroy(new Error(`Request timeout after ${REQUEST_TIMEOUT_MS}ms: ${url.toString()}`));
-    });
-
-    req.on('error', reject);
-    req.end();
-  });
+  try {
+    const { stdout } = await execFileAsync('curl', args, { maxBuffer: 10 * 1024 * 1024 });
+    const idx = stdout.lastIndexOf(`\n${marker}`);
+    if (idx === -1) {
+      throw new Error(`Could not parse curl status marker for ${url}`);
+    }
+    const text = stdout.slice(0, idx);
+    const status = Number(stdout.slice(idx + marker.length + 1).trim());
+    if (!Number.isFinite(status)) {
+      throw new Error(`Invalid HTTP status from curl for ${url}`);
+    }
+    return { url, status, text };
+  } catch (error) {
+    const detail = error instanceof Error ? error.message : String(error);
+    throw new Error(`curl request failed for ${url}: ${detail}`);
+  }
 }
 
 function assertStatus(pathname, status, expected) {
