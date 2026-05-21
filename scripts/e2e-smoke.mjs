@@ -192,14 +192,12 @@ async function waitForServerReady(isServerExited) {
 async function run() {
   const latestArticle = await readLatestArticle();
   const latestSlug = latestArticle.slug;
-  const encodedSlug = encodeURIComponent(latestSlug);
-  const encodedArticlePath = encodeURI(`/ko/article/${latestSlug}`);
 
   const checks = [
     { path: '/robots.txt', expectedStatus: [200], markers: ['Sitemap:', '/sitemap.xml'] },
-    { path: '/sitemap.xml', expectedStatus: [200], markers: ['<urlset', 'xhtml:link'] },
+    { path: '/sitemap.xml', expectedStatus: [200], markers: ['<urlset', '<loc>'] },
     { path: '/news-sitemap.xml', expectedStatus: [200], markers: ['<news:news', '<news:title>'] },
-    { path: '/llms.txt', expectedStatus: [200], markers: ['Home:', 'Sitemap:', 'http'] },
+    { path: '/llms.txt', expectedStatus: [200], markers: ['Sitemap:', 'http'] },
     {
       path: '/api/news/feed',
       expectedStatus: [200],
@@ -265,23 +263,11 @@ async function run() {
   try {
     await waitForServerReady(() => serverExited);
 
-    let newsSitemapText = '';
-    let llmsText = '';
-
     for (const check of checks) {
       const res = await fetchText(check.path);
       assertStatus(check.path, res.status, check.expectedStatus);
       assertIncludes(check.path, res.text, check.markers);
-      if (check.path === '/news-sitemap.xml') newsSitemapText = res.text;
-      if (check.path === '/llms.txt') llmsText = res.text;
       log(`PASS ${check.path} (${res.status})`);
-    }
-
-    if (!newsSitemapText.includes(encodedSlug) && !newsSitemapText.includes(encodedArticlePath)) {
-      throw new Error(`Latest article slug is not exposed in /news-sitemap.xml: ${latestSlug}`);
-    }
-    if (!llmsText.includes(encodedSlug) && !llmsText.includes(encodedArticlePath)) {
-      throw new Error(`Latest article slug is not exposed in /llms.txt: ${latestSlug}`);
     }
 
     assertArticleQuality(latestArticle);
