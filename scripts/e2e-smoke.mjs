@@ -11,6 +11,23 @@ const BASE_URL = `http://${HOST}:${PORT}`;
 const START_TIMEOUT_MS = Number(process.env.E2E_START_TIMEOUT_MS || 120000);
 const REQUEST_TIMEOUT_MS = Number(process.env.E2E_REQUEST_TIMEOUT_MS || 20000);
 const ARTICLES_DIR = path.join(process.cwd(), 'data', 'articles');
+const LOCAL_NO_PROXY = '127.0.0.1,localhost,::1';
+
+function sanitizeProxyEnv() {
+  const proxyKeys = [
+    'HTTP_PROXY',
+    'HTTPS_PROXY',
+    'ALL_PROXY',
+    'http_proxy',
+    'https_proxy',
+    'all_proxy'
+  ];
+  for (const key of proxyKeys) delete process.env[key];
+  process.env.NO_PROXY = LOCAL_NO_PROXY;
+  process.env.no_proxy = LOCAL_NO_PROXY;
+}
+
+sanitizeProxyEnv();
 
 function log(message) {
   console.log(`[e2e-smoke] ${message}`);
@@ -166,7 +183,18 @@ async function run() {
   log(`Starting server: ${process.execPath} ${startArgs.join(' ')}`);
   const server = spawn(process.execPath, startArgs, {
     cwd: process.cwd(),
-    env: { ...process.env, NODE_ENV: 'production' },
+    env: {
+      ...process.env,
+      NODE_ENV: 'production',
+      NO_PROXY: LOCAL_NO_PROXY,
+      no_proxy: LOCAL_NO_PROXY,
+      HTTP_PROXY: '',
+      HTTPS_PROXY: '',
+      ALL_PROXY: '',
+      http_proxy: '',
+      https_proxy: '',
+      all_proxy: ''
+    },
     stdio: ['ignore', 'pipe', 'pipe']
   });
 
