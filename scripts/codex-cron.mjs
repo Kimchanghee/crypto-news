@@ -23,6 +23,7 @@ const TARGET_BODY_MIN = Number(process.env.TARGET_BODY_MIN || '1000');
 const TARGET_BODY_MAX = Number(process.env.TARGET_BODY_MAX || '1200');
 const MAX_KO_REPAIR_RETRIES = Number(process.env.MAX_KO_REPAIR_RETRIES || '2');
 const CODEX_TIMEOUT_MS = Number(process.env.CODEX_TIMEOUT_MS || '900000');
+const CODEX_MODEL = (process.env.CODEX_MODEL || 'gpt-5.5').trim();
 
 async function loadChannel() {
   const txt = await fs.readFile(path.join(ROOT, 'channel.config.ts'), 'utf8');
@@ -250,7 +251,9 @@ function makeSlug(title) {
 async function runCodex(prompt, opts = {}) {
   const sandbox = opts.sandbox || 'read-only';
   const timeoutMs = opts.timeoutMs || 240_000;
-  const args = ['exec','--json','--sandbox', sandbox,'--skip-git-repo-check','--ignore-rules', prompt];
+  const args = ['exec','--json','--sandbox', sandbox,'--skip-git-repo-check','--ignore-rules'];
+  if (CODEX_MODEL) args.push('--model', CODEX_MODEL);
+  args.push(prompt);
   return new Promise((resolve, reject) => {
     const child = spawn('codex', args, { cwd: ROOT, stdio: ['ignore', 'pipe', 'pipe'] });
     let out = '', err = '';
@@ -521,6 +524,7 @@ async function rebuildSeed() {
 
 async function main() {
   console.log('=== codex-cron v12 (real OG images + 11-locale + SEO) ===');
+  console.log(`model: ${CODEX_MODEL || 'default'}`);
   const channel = await loadChannel();
   console.log(`channel: ${channel.name} (${channel.id})  sources: ${channel.sources.length}`);
 

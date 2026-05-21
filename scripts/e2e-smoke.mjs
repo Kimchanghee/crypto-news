@@ -132,12 +132,13 @@ function assertIncludes(pathname, text, needles) {
   }
 }
 
-function assertArticleQuality(article) {
+async function assertArticleQuality(article) {
   const item = article?.item ?? {};
   const ko = item?.i18n?.ko ?? {};
   const body = typeof ko.body === 'string' ? ko.body.trim() : '';
   const keywordCount = Array.isArray(ko.keywords) ? ko.keywords.length : 0;
   const faqCount = Array.isArray(ko.faq) ? ko.faq.length : 0;
+  const imageUrl = typeof item?.imageUrl === 'string' ? item.imageUrl.trim() : '';
 
   if (!body) {
     throw new Error('Latest article is missing i18n.ko.body');
@@ -153,6 +154,17 @@ function assertArticleQuality(article) {
   }
   if (faqCount < 2) {
     throw new Error(`Latest article has too few FAQ entries: ${faqCount} (expected >= 2)`);
+  }
+  if (!imageUrl || !imageUrl.startsWith('/images/articles/')) {
+    throw new Error(`Latest article imageUrl is invalid: ${imageUrl || '(empty)'}`);
+  }
+  const imagePath = path.join(process.cwd(), 'public', imageUrl.replace(/^\//, ''));
+  const st = await fs.stat(imagePath).catch(() => null);
+  if (!st || !st.isFile()) {
+    throw new Error(`Latest article image file not found: ${imagePath}`);
+  }
+  if (st.size < 1500) {
+    throw new Error(`Latest article image file is too small: ${imagePath} (${st.size} bytes)`);
   }
 }
 
@@ -270,7 +282,7 @@ async function run() {
       log(`PASS ${check.path} (${res.status})`);
     }
 
-    assertArticleQuality(latestArticle);
+    await assertArticleQuality(latestArticle);
     log(`PASS latest article quality (slug=${latestSlug})`);
 
     log('All smoke checks passed');
