@@ -71,6 +71,31 @@ export default async function Home({ params: { locale } }: { params: { locale: L
         </div>
       </section>
 
+      <section className="reader-workflow-panel" aria-label="Reader workflow">
+        <div>
+          <p className="affiliate-eyebrow">Reader workflow</p>
+          <h2 style={{ fontSize: 20, fontWeight: 600, marginBottom: 10 }}>
+            {locale === 'ko' ? '탐색-비교-확인 흐름' : 'Find, compare, and verify quickly'}
+          </h2>
+          <p style={{ color: '#5f5c55', marginBottom: 12 }}>
+            {locale === 'ko'
+              ? '최신 기사에서 카테고리 허브, 관련 기사, 사이트맵까지 한 번에 이동할 수 있게 구성했습니다.'
+              : 'Move from latest stories to category hubs, related posts, and sitemap paths without leaving the site.'}
+          </p>
+        </div>
+        <div className="reader-workflow-links">
+          <a href={'/' + locale} className="tag">{channel.name}</a>
+          <a href={'/' + locale + '/rss.xml'} className="tag">RSS</a>
+          <a href="/sitemap.xml" className="tag">Sitemap</a>
+          <a href="/llms.txt" className="tag">llms.txt</a>
+          {channel.categories.slice(0, 6).map((c: any) => (
+            <a key={c.slug} href={'/' + locale + '/category/' + c.slug} className="tag">
+              {c.name?.[locale] ?? c.name?.[defaultLocale] ?? c.slug}
+            </a>
+          ))}
+        </div>
+      </section>
+
       <section id="latest">
         <h2 style={{ fontSize: 20, fontWeight: 600, marginBottom: 14 }}>{t('nav.latest')}</h2>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16 }}>

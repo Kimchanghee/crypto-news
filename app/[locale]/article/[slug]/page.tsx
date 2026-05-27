@@ -80,6 +80,19 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
             <span>{summary}</span>
           </div>
         )}
+        <section className="article-key-points" aria-label={params.locale === 'ko' ? '핵심 포인트' : 'Key points'}>
+          <h2>{params.locale === 'ko' ? '핵심 포인트' : 'Key points'}</h2>
+          <ul>
+            <li>{summary || title}</li>
+            <li>{params.locale === 'ko' ? '본문과 FAQ에서 맥락을 확인한 뒤 판단하세요.' : 'Use the body and FAQ context before acting on this update.'}</li>
+            <li>{params.locale === 'ko' ? '카테고리 허브에서 유사 이슈를 함께 비교하세요.' : 'Compare with related issues inside the category hub.'}</li>
+          </ul>
+          <div className="article-action-links">
+            <a href={'/' + params.locale + '/category/' + a.category}>{params.locale === 'ko' ? '카테고리 허브' : 'Category hub'}</a>
+            <a href={'/' + params.locale}>{params.locale === 'ko' ? '최신 기사' : 'Latest stories'}</a>
+            <a href="/sitemap.xml">Sitemap</a>
+          </div>
+        </section>
       </header>
 
       <div className="divider" />
@@ -108,6 +121,19 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
             </div>
           </section>
         )}
+        <section className="article-next-actions" aria-label={params.locale === 'ko' ? '다음 읽기 경로' : 'Next reading path'}>
+          <h2>{params.locale === 'ko' ? '다음 탐색 경로' : 'Continue your research path'}</h2>
+          <p>
+            {params.locale === 'ko'
+              ? '관련 카테고리와 최신 허브를 함께 확인하면 체류 시간이 늘고, 정보 검증도 더 정확해집니다.'
+              : 'Use category and latest hubs to deepen context and compare multiple sources in one session.'}
+          </p>
+          <div className="article-action-links">
+            <a href={'/' + params.locale + '/category/' + a.category}>{params.locale === 'ko' ? '같은 카테고리 보기' : 'Explore this category'}</a>
+            <a href={'/' + params.locale + '/rss.xml'}>RSS</a>
+            <a href="/llms.txt">llms.txt</a>
+          </div>
+        </section>
       </div>
     </article>
   );
