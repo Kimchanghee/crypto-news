@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: { locale: Locale } 
   const t = await getTranslations({ locale: params.locale, namespace: 'site' });
   const channelName = (channel as any).name || t('name');
   return {
-    title: { default: channelName, template: `%s — ${channelName}` },
+    title: { /* seo-title-v2 */ default: (channel as any).tagline ? `${channelName} — ${(channel as any).tagline}` : channelName, template: `%s — ${channelName}` },
     description: (channel as any).description || t('description'),
     applicationName: channelName,
     keywords: (channel as any).keywords || [],
