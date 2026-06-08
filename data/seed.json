@@ -1,5 +1,111 @@
 [
   {
+    "id": "3d3c07ea49db",
+    "slug": "aave-chief-defends-protocols-resilience-after-845-billion-ba-667611",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-06-08T16:26:46.322Z",
+    "updatedAt": "2026-06-08T16:26:46.322Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/06/08/aave-labs-founder-stani-kulechov-deflects-responsibility-in-usd8-billion-run-on-stage",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/06/08/aave-labs-founder-stani-kulechov-deflects-responsibility-in-usd8-billion-run-on-stage",
+    "titleFingerprint": "9b31f8c331f056fd274f117602f47461c7aa1fa1",
+    "dedupKeys": [
+      "3d3c07ea49dbc6a1b7710c174d7cfe1c87fae186",
+      "9b31f8c331f056fd274f117602f47461c7aa1fa1",
+      "f09a08715e2ed5e0e45ae9256b4cc3c4298220d0"
+    ],
+    "imageUrl": "/images/articles/3d3c07ea49db.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Aave 84억5000만달러 뱅크런 후 회복력 논쟁, V4 리스크 관리 구조 개편 추진",
+        "excerpt": "Aave Labs 창업자 스타니 쿨레초프는 2026년 4월 KelpDAO 브리지 공격 뒤 발생한 84억5000만달러 예치금 이탈을 두고 프로토콜 회복력을 강조했지만, 외부 데이터는 리스크 관리 공백을 지적했다.",
+        "metaDescription": "Aave가 KelpDAO 브리지 익스플로잇 이후 48시간 만에 84억5000만달러 예치금 이탈을 겪은 가운데, 회복력 주장과 리스크 구조 논쟁이 이어졌다.",
+        "summary": "Aave는 2026년 4월 KelpDAO의 LayerZero 기반 브리지 익스플로잇 이후 48시간 동안 84억5000만달러 규모 예치금 이탈을 겪었다. 스타니 쿨레초프는 Aave V3의 회복력을 강조했지만, LlamaRisk는 약 1억2370만달러 부실채권을 지적했다. Aave Labs는 V4에서 모듈형 구조로 리스크 전염을 줄이려 하고 있다.",
+        "body": "세계 최대 탈중앙화 대출 플랫폼으로 꼽히는 Aave가 2026년 4월 KelpDAO의 LayerZero 기반 브리지 익스플로잇 이후 48시간 동안 84억5000만달러 규모의 예치금 이탈을 겪자, Aave Labs 창업자 겸 CEO 스타니 쿨레초프는 파리 Proof of Talk 행사에서 프로토콜의 회복력을 강조했다. 그는 Aave V3 인프라가 여러 시장 사이클을 거쳤고, 최근의 혼란 속에서도 회복력이 있었다고 말했다.\n\n사태의 출발점은 KelpDAO 브리지에서 발생한 2억9200만달러 규모 공격이었다. CoinDesk에 따르면 공격자는 이 취약점을 이용해 가치 없는 담보를 발행한 뒤 Aave에 예치하고 실제 래핑 이더(WETH)를 빼냈다. LlamaRisk는 그 결과 Aave V3에 약 1억2370만달러의 부실채권이 남았다고 밝혔다. 대규모 인출은 전통 금융의 뱅크런과 유사한 압박을 만들었고, Aave의 주요 리스크 방어 장치가 자율 설계만으로 충분했는지에 대한 논쟁을 불러왔다.\n\n쿨레초프는 문제의 원인을 Aave 핵심 스마트컨트랙트가 아니라 외부 인프라와 제3자 의존성에서 찾았다. 그는 DeFi 프로토콜의 스마트컨트랙트 자체에는 일반적으로 문제가 적고, 최근 사례처럼 전통적 보안 성격의 외부 의존성이 DeFi 전반에 영향을 줄 수 있다고 주장했다. 그러나 CoinDesk는 Aave가 위기를 넘긴 과정이 완전한 자동화보다는 사람 주도의 긴급 대응에 가까웠다고 지적했다. 실제로 Aave DAO는 2만5000 ETH를 약속했고, 쿨레초프도 개인적으로 5000 ETH, 약 840만달러를 투입했다.\n\nAave Labs는 향후 V4 업그레이드에서 기존의 풀링된 토큰 구조를 모듈형 허브앤드스포크 방식으로 바꿔 위험을 국지화하는 방안을 추진하고 있다. 이 구조는 특정 담보 라인을 동결하고, 위험 프리미엄을 정교하게 부과해 브리지 실패가 핵심 대출 준비금으로 전염되는 것을 막는 데 초점을 둔다. 이번 사건은 DeFi가 공개적이고 감사 가능한 시스템이라는 장점에도, 대규모 외부 의존성과 유동성 충격 앞에서 리스크 관리 구조를 재검토해야 한다는 과제를 남겼다. 출처: coindesk.com.",
+        "keywords": [
+          "Aave",
+          "아베",
+          "DeFi",
+          "뱅크런",
+          "KelpDAO",
+          "LayerZero",
+          "WETH",
+          "Aave V4",
+          "LlamaRisk",
+          "탈중앙화 금융"
+        ],
+        "faq": [
+          {
+            "q": "Aave에서 84억5000만달러 예치금 이탈이 발생한 이유는 무엇인가요?",
+            "a": "CoinDesk에 따르면 2026년 4월 KelpDAO의 LayerZero 기반 브리지 익스플로잇 이후 공격자가 가치 없는 담보를 이용해 WETH를 빼내면서 대규모 인출이 발생했습니다."
+          },
+          {
+            "q": "스타니 쿨레초프는 이번 사태를 어떻게 설명했나요?",
+            "a": "쿨레초프는 Aave 핵심 스마트컨트랙트보다 외부 인프라와 제3자 의존성이 문제였다고 보며, Aave V3가 혼란 속에서도 회복력을 보였다고 주장했습니다."
+          },
+          {
+            "q": "Aave는 향후 어떤 대응을 준비하고 있나요?",
+            "a": "Aave Labs는 V4 업그레이드에서 모듈형 허브앤드스포크 구조를 도입해 위험을 국지화하고 특정 담보 라인을 동결할 수 있는 리스크 관리 방식을 추진하고 있습니다."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "df662d42b187",
+    "slug": "the-startup-killer-ledger-cto-says-the-eus-crushing-complian-817929",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-06-08T16:25:49.326Z",
+    "updatedAt": "2026-06-08T16:25:49.326Z",
+    "sourceName": "coindesk.com",
+    "sourceUrl": "https://www.coindesk.com/business/2026/06/08/europe-s-strict-new-crypto-rules-are-crushing-small-startups-ledger-cto-says",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/06/08/europe-s-strict-new-crypto-rules-are-crushing-small-startups-ledger-cto-says",
+    "titleFingerprint": "264e3d37e91db3e2edfbd590163f46513b5ca4c6",
+    "dedupKeys": [
+      "df662d42b187bd2d2795250c8a179bd55aac9e1c",
+      "264e3d37e91db3e2edfbd590163f46513b5ca4c6",
+      "1ce1ebbb24db4b8fa11039e750ee2617c28a9ac9"
+    ],
+    "imageUrl": "/images/articles/df662d42b187.jpg",
+    "i18n": {
+      "ko": {
+        "title": "MiCA 규제 비용, EU 웹3 스타트업 혁신 장벽으로 부상했다는 레저 CTO 분석",
+        "excerpt": "레저 CTO 샤를 기유메는 2026년 6월 8일 코인데스크 보도에서 EU MiCA 규제가 높은 자본·법률·컴플라이언스 비용으로 초기 웹3 스타트업의 시장 진입을 어렵게 한다고 지적했다.",
+        "metaDescription": "EU MiCA 규제 비용이 웹3 스타트업에 미치는 영향을 레저 CTO 발언과 자본 요건, 백서 비용, 전통 금융기관의 블록체인 진입 흐름을 중심으로 정리했다.",
+        "summary": "레저 CTO 샤를 기유메는 EU MiCA가 의도와 달리 웹3 스타트업보다 대형 금융기관에 유리한 환경을 만들 수 있다고 말했다. MiCA는 자본, 법률, 보험, 감사, 지속적 컴플라이언스 비용을 요구한다. 규제 당국은 소비자 보호와 제도 신뢰를 강조하지만, 업계는 초기 혁신 위축을 우려한다.",
+        "body": "2026년 6월 8일 코인데스크에 따르면 하드웨어 지갑 업체 레저의 최고기술책임자(CTO) 샤를 기유메는 유럽연합(EU)의 암호자산시장법(MiCA)이 웹3 경쟁 구도를 바꾸고 있다고 말했다. MiCA는 통합되고 안전한 암호자산 시장을 만들기 위해 설계됐지만, 업계 관계자들은 높은 자본·법률·컴플라이언스 비용이 초기 단계 스타트업의 시장 진입을 막는 요인으로 작용한다고 지적했다. 규정상 암호화폐 기업은 업무 유형별 최소 자본 요건을 충족해야 한다. 자문 서비스는 5만 유로, 거래 플랫폼 운영은 15만 유로 수준의 요건이 제시되며, 의무 법률 감사와 보험, 지속적인 컴플라이언스 인프라 비용으로 수백만 유로가 추가될 수 있다. EU 집행위원회의 MiCA 영향평가는 백서 1건 작성 비용도 제도 복잡성과 법률 자문 필요성에 따라 4,500달러에서 8만7,000달러까지 들 수 있다고 추산했다. 기유메 CTO는 이런 비용 구조가 의도와 다를 수 있지만 결과적으로 비용을 감당할 수 있는 기업과 그렇지 못한 기업을 나누며, 작은 플레이어의 시장 접근을 어렵게 하고 대형 기업에는 진입장벽을 만든다고 설명했다. 반면 유럽 규제 당국은 엄격한 요건이 소비자 보호와 주류 기관 신뢰 구축에 필요하다는 입장이다. 동시에 전통 금융기관은 2024년 초 현물 암호화폐 ETF 상장을 계기로 블록체인 실험을 넘어 엔터프라이즈급 커스터디와 자산 토큰화 수요를 키우고 있다. 레저는 소매용 지갑 사업을 넘어 B2B 인프라로 확장했으며, 기유메는 회사가 200~250명의 엔지니어와 전담 보안팀을 두고 보안을 핵심에 놓고 있다고 밝혔다. 다만 레저도 과거 제3자 프로세서 관련 클라우드 침해, 2020년 27만 고객에 영향을 준 데이터 유출, 2023년 디앱에서 50만 달러가 빠져나간 익스플로잇을 겪었다. 코인데스크는 높은 규제 비용으로 유럽의 소규모 스타트업이 밀려나는 동안, 전통 금융기관은 네이티브 크립토 보안 기업의 기술을 활용해 금융 인프라를 구축하고 있다고 전했다. 출처는 coindesk.com이다.",
+        "keywords": [
+          "MiCA",
+          "EU 암호화폐 규제",
+          "웹3 스타트업",
+          "레저 CTO",
+          "컴플라이언스 비용",
+          "암호자산시장법",
+          "크립토 커스터디",
+          "자산 토큰화",
+          "coindesk.com",
+          "MiCA 규제 비용, EU 웹3 스타"
+        ],
+        "faq": [
+          {
+            "q": "MiCA가 웹3 스타트업에 부담이 된다는 이유는 무엇인가?",
+            "a": "자본 요건뿐 아니라 법률 감사, 보험, 지속적인 컴플라이언스 인프라 비용이 필요해 초기 기업의 시장 진입 비용이 커질 수 있기 때문이다."
+          },
+          {
+            "q": "기사에서 언급된 MiCA 관련 비용은 어느 정도인가?",
+            "a": "자문 서비스는 5만 유로, 거래 플랫폼 운영은 15만 유로 수준의 최소 자본 요건이 언급됐고, 백서 작성 비용은 4,500달러에서 8만7,000달러로 추산됐다."
+          },
+          {
+            "q": "유럽 규제 당국은 MiCA를 왜 필요하다고 보나?",
+            "a": "규제 당국은 엄격한 요건이 소비자를 보호하고 암호자산 시장에 대한 주류 기관의 신뢰를 구축하는 데 필요하다고 보고 있다."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "38790a1cc678",
     "slug": "bybit-challenges-wall-street-with-a-massive-push-into-tokeni-934279",
     "channelId": "CRYPTO",
@@ -4302,156 +4408,6 @@
         "title": "RUU Kripto Polandia Lolos Voting untuk Adopsi MiCA Uni Eropa",
         "excerpt": "Anggota parlemen Polandia menyetujui RUU kripto revisi yang didukung Kementerian Keuangan dengan suara 241-200 setelah veto berulang, mendorong penerapan kerangka MiCA Uni Eropa.",
         "body": "Anggota parlemen Polandia menyetujui RUU kripto revisi yang didukung Kementerian Keuangan dalam voting 241-200. RUU ini dirancang untuk menerapkan kerangka Markets in Crypto-Assets Uni Eropa, atau MiCA, di Polandia. Persetujuan ini terjadi setelah veto berulang, sehingga reformasi regulasi kripto negara tersebut kembali bergerak di jalur legislasi. Hasil voting tercatat 241 suara mendukung dan 200 menolak. RUU ini berfokus pada pembentukan dasar regulasi untuk implementasi MiCA dan diperkirakan memengaruhi pembahasan lanjutan tentang formalisasi pasar kripto Polandia. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "2a28945472b3",
-    "slug": "kraken-parent-payward-cuts-150-staff-streamlining-business-a-741209",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T14:37:40.305Z",
-    "updatedAt": "2026-05-15T14:37:40.305Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/business/2026/05/14/kraken-parent-payward-cuts-150-staff-streamlining-business-ahead-of-planned-ipo",
-    "canonicalUrl": "https://www.coindesk.com/business/2026/05/14/kraken-parent-payward-cuts-150-staff-streamlining-business-ahead-of-planned-ipo",
-    "titleFingerprint": "7d0000fe24fb912f2f6180fb39e0e2c8ccb9d4d0",
-    "dedupKeys": [
-      "2a28945472b3a172094fcee5ec99cdc01b9ff3a5",
-      "7d0000fe24fb912f2f6180fb39e0e2c8ccb9d4d0",
-      "d0c439d930b82b50377328e5c426ef1a39986e68"
-    ],
-    "imageUrl": "/images/articles/2a28945472b3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "크라켄 모회사 페이워드, IPO 앞두고 150명 감원",
-        "excerpt": "크라켄 모회사 페이워드는 계획된 IPO를 앞두고 사업 효율화를 위해 직원 150명을 감원했으며, 200억 달러 기업가치로 신규 자금 조달도 추진 중이다.",
-        "body": "크립토 거래소 크라켄의 모회사 페이워드가 계획된 기업공개(IPO)를 앞두고 사업 구조를 간소화하기 위해 직원 150명을 감원했다. 이번 조치는 공개 상장을 준비하는 과정에서 조직 효율성을 높이려는 움직임으로 전해졌다. 페이워드는 동시에 200억 달러 기업가치를 기준으로 신규 자금 조달도 추진하고 있다. 회사는 인수합병을 확대하며 상장 준비 속도를 높이고 있으며, 감원과 자금 조달은 이 같은 전략의 일부로 해석된다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Kraken Parent Payward Cuts 150 Jobs Ahead of Planned IPO",
-        "excerpt": "Kraken parent Payward has cut 150 staff to streamline operations before its planned IPO, while also seeking fresh funding at a $20 billion valuation.",
-        "body": "Payward, the parent company of crypto exchange Kraken, has cut 150 employees as it streamlines its business ahead of a planned initial public offering. The move is aimed at improving organizational efficiency as the company prepares for a public listing. Payward is also seeking fresh funding at a $20 billion valuation. The company is accelerating preparations for a listing while expanding acquisitions, and the job cuts and fundraising effort are viewed as part of that strategy. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "クラーケン親会社ペイワード、IPO前に150人削減",
-        "excerpt": "クラーケン親会社ペイワードは計画中のIPOを前に事業効率化のため150人を削減し、200億ドル評価で新規資金調達も進めている。",
-        "body": "暗号資産取引所クラーケンの親会社ペイワードは、計画中の新規株式公開（IPO）を前に事業構造を簡素化するため、従業員150人を削減した。今回の措置は、上場準備の過程で組織効率を高める動きと伝えられている。ペイワードは同時に、200億ドルの企業価値を前提に新規資金調達も進めている。同社は買収を拡大しながら上場準備を加速しており、人員削減と資金調達はその戦略の一部とみられる。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Kraken母公司Payward拟IPO前裁员150人",
-        "excerpt": "Kraken母公司Payward在计划IPO前为精简业务裁员150人，同时正以200亿美元估值寻求新一轮融资。",
-        "body": "加密货币交易所Kraken的母公司Payward在计划首次公开募股（IPO）前，为简化业务结构裁减了150名员工。此举被认为是在准备公开上市过程中提升组织效率的措施。与此同时，Payward还在以200亿美元估值寻求新的资金。该公司正扩大收购并加快上市准备，裁员和融资被视为这一战略的一部分。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Payward, matriz de Kraken, recorta 150 empleos antes de su IPO",
-        "excerpt": "Payward, matriz de Kraken, recortó 150 puestos para agilizar su negocio antes de la IPO prevista y busca nueva financiación con una valoración de 20.000 millones de dólares.",
-        "body": "Payward, la empresa matriz del exchange de criptomonedas Kraken, recortó 150 empleados para simplificar su estructura de negocio antes de una oferta pública inicial prevista. La medida busca mejorar la eficiencia organizativa mientras la compañía se prepara para cotizar en bolsa. Payward también está buscando nueva financiación con una valoración de 20.000 millones de dólares. La empresa acelera sus preparativos de salida al mercado mientras amplía adquisiciones, y los recortes y la financiación forman parte de esa estrategia. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Payward, dona da Kraken, corta 150 vagas antes de IPO planejado",
-        "excerpt": "A Payward, controladora da Kraken, cortou 150 funcionários para simplificar o negócio antes do IPO planejado e busca novo aporte com avaliação de US$ 20 bilhões.",
-        "body": "A Payward, controladora da exchange de criptomoedas Kraken, demitiu 150 funcionários para simplificar sua estrutura de negócios antes de uma oferta pública inicial planejada. A medida busca aumentar a eficiência organizacional enquanto a empresa se prepara para abrir capital. A Payward também procura novo financiamento com avaliação de US$ 20 bilhões. A companhia acelera os preparativos para a listagem enquanto amplia aquisições, e os cortes de pessoal e a captação são vistos como parte dessa estratégia. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Kraken-Mutter Payward streicht 150 Stellen vor geplantem IPO",
-        "excerpt": "Payward, die Muttergesellschaft von Kraken, streicht vor dem geplanten IPO 150 Stellen zur Straffung des Geschäfts und sucht frisches Kapital bei 20 Milliarden Dollar Bewertung.",
-        "body": "Payward, die Muttergesellschaft der Kryptobörse Kraken, hat 150 Mitarbeiter entlassen, um das Geschäft vor einem geplanten Börsengang zu straffen. Der Schritt soll die organisatorische Effizienz erhöhen, während sich das Unternehmen auf eine öffentliche Notierung vorbereitet. Zugleich sucht Payward frisches Kapital auf Basis einer Bewertung von 20 Milliarden Dollar. Das Unternehmen beschleunigt die Vorbereitungen für die Börsennotierung und weitet Übernahmen aus; Stellenabbau und Finanzierung gelten als Teil dieser Strategie. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Payward, maison mère de Kraken, supprime 150 postes avant son IPO",
-        "excerpt": "Payward, maison mère de Kraken, supprime 150 postes pour rationaliser ses activités avant son IPO prévue et recherche des fonds à une valorisation de 20 milliards de dollars.",
-        "body": "Payward, la maison mère de la plateforme crypto Kraken, a supprimé 150 postes afin de rationaliser son activité avant une introduction en Bourse prévue. Cette mesure vise à améliorer l’efficacité de l’organisation pendant que l’entreprise prépare sa cotation publique. Payward cherche également à lever de nouveaux fonds sur la base d’une valorisation de 20 milliards de dollars. La société accélère ses préparatifs de cotation tout en intensifiant les acquisitions, et les suppressions de postes comme la levée de fonds s’inscrivent dans cette stratégie. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "بايوارد مالكة كراكن تخفض 150 وظيفة قبل طرح عام مخطط",
-        "excerpt": "خفضت بايوارد، الشركة الأم لكراكن، 150 موظفا لتبسيط الأعمال قبل الطرح العام المخطط، وتسعى أيضا لتمويل جديد بتقييم 20 مليار دولار.",
-        "body": "خفضت بايوارد، الشركة الأم لمنصة تداول العملات المشفرة كراكن، 150 موظفا في إطار تبسيط هيكل أعمالها قبل طرح عام أولي مخطط له. وتهدف الخطوة إلى رفع كفاءة التنظيم بينما تستعد الشركة للإدراج العام. وتسعى بايوارد في الوقت نفسه إلى الحصول على تمويل جديد على أساس تقييم يبلغ 20 مليار دولار. وتسرع الشركة استعداداتها للإدراج مع توسيع عمليات الاستحواذ، وتعد التخفيضات والتمويل جزءا من هذه الاستراتيجية. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Kraken की मूल कंपनी Payward ने IPO से पहले 150 नौकरियां घटाईं",
-        "excerpt": "Kraken की मूल कंपनी Payward ने नियोजित IPO से पहले कारोबार को सरल बनाने के लिए 150 कर्मचारियों की कटौती की और 20 अरब डॉलर मूल्यांकन पर नई फंडिंग भी तलाश रही है।",
-        "body": "क्रिप्टो एक्सचेंज Kraken की मूल कंपनी Payward ने नियोजित प्रारंभिक सार्वजनिक निर्गम (IPO) से पहले अपने कारोबार की संरचना को सरल बनाने के लिए 150 कर्मचारियों की कटौती की है। यह कदम सार्वजनिक लिस्टिंग की तैयारी के दौरान संगठनात्मक दक्षता बढ़ाने की दिशा में बताया गया है। Payward साथ ही 20 अरब डॉलर के मूल्यांकन पर नई फंडिंग भी तलाश रही है। कंपनी अधिग्रहण बढ़ाते हुए लिस्टिंग की तैयारी तेज कर रही है, और कर्मचारियों की कटौती व फंड जुटाने की कोशिश इसी रणनीति का हिस्सा मानी जा रही है। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Induk Kraken Payward Pangkas 150 Staf Jelang Rencana IPO",
-        "excerpt": "Payward, induk Kraken, memangkas 150 staf untuk merampingkan bisnis sebelum rencana IPO dan mencari pendanaan baru pada valuasi 20 miliar dolar AS.",
-        "body": "Payward, perusahaan induk bursa kripto Kraken, memangkas 150 karyawan untuk merampingkan struktur bisnisnya menjelang rencana penawaran umum perdana (IPO). Langkah ini ditujukan untuk meningkatkan efisiensi organisasi saat perusahaan bersiap melantai di bursa. Payward juga tengah mencari pendanaan baru dengan valuasi 20 miliar dolar AS. Perusahaan mempercepat persiapan pencatatan saham sambil meningkatkan akuisisi, dan pemangkasan staf serta penggalangan dana dipandang sebagai bagian dari strategi tersebut. Sumber: coindesk.com"
-      }
-    }
-  },
-  {
-    "id": "62a566589848",
-    "slug": "bitcoin-stalls-above-80k-despite-clarity-act-pass-what-will--512091",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T13:45:19.414Z",
-    "updatedAt": "2026-05-15T13:45:19.414Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/bitcoin-stalls-80k-despite-clarity-act-pass-what-will-trigger-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/bitcoin-stalls-80k-despite-clarity-act-pass-what-will-trigger-breakout",
-    "titleFingerprint": "0b975e1b5e17eb65499eb3db56f42cbe4a6a9e73",
-    "dedupKeys": [
-      "62a5665898488e69dd0bc793d4551b979f6ca7cb",
-      "0b975e1b5e17eb65499eb3db56f42cbe4a6a9e73",
-      "eca29f1d273c1ad4d025e03260c7f0437c8f1b2f"
-    ],
-    "imageUrl": "/images/articles/62a566589848.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 8만 달러 위 정체, CLARITY Act 통과에도 돌파 조건은",
-        "excerpt": "비트코인은 CLARITY Act 통과에도 8만 달러 위에서 정체 중이며, 8만2,000달러 상향 돌파와 강한 기관 수요 회복이 추세 전환 확인 조건으로 꼽힌다.",
-        "body": "비트코인 가격은 CLARITY Act 통과 이후에도 8만 달러 위에서 뚜렷한 돌파 흐름을 만들지 못하고 있다. 원문에 따르면 BTC가 추세 전환을 확인하려면 8만2,000달러 상향 돌파와 강한 기관 수요의 복귀가 전제돼야 한다. 현재 핵심 수치는 8만 달러와 8만2,000달러다. 8만 달러 위 안착은 가격 방어를 보여주지만, 8만2,000달러를 넘어서는 움직임이 확인되지 않으면 상승 추세 전환으로 보기 어렵다는 맥락이다. 시장의 다음 관심은 제도권 수요가 다시 강해지는지, 그리고 BTC가 해당 가격대를 돌파하는지에 맞춰져 있다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "Bitcoin Stalls Above $80K as CLARITY Act Passes: Breakout Triggers",
-        "excerpt": "Bitcoin remains stalled above $80,000 after the CLARITY Act passed, with a move above $82,000 and renewed institutional demand needed to confirm a BTC trend shift.",
-        "body": "Bitcoin has yet to build a clear breakout above $80,000 despite the passage of the CLARITY Act. According to the source, BTC needs two conditions to confirm a trend change: a break above $82,000 and the return of strong institutional demand. The key levels are now $80,000 and $82,000. Holding above $80,000 shows price support, but without a confirmed move through $82,000, the market has limited basis to call a bullish trend shift. Attention now centers on whether institutional demand strengthens again and whether BTC can clear that price zone. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "ビットコイン8万ドル上で停滞、CLARITY Act通過後の突破条件",
-        "excerpt": "ビットコインはCLARITY Act通過後も8万ドル上で停滞し、8万2,000ドル突破と強い機関投資家需要の回復がトレンド転換確認の条件とされる。",
-        "body": "ビットコイン価格はCLARITY Actの通過後も、8万ドルを上回る水準で明確な上抜けを示せていない。原文によると、BTCのトレンド転換を確認するには、8万2,000ドルの上方突破と強い機関投資家需要の回復が前提となる。現在の重要水準は8万ドルと8万2,000ドルだ。8万ドル上での推移は価格の下支えを示す一方、8万2,000ドルを明確に超えなければ上昇トレンドへの転換とは判断しにくい。市場の焦点は、機関需要が再び強まるか、そしてBTCがその価格帯を突破できるかに向かっている。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "比特币守在8万美元上方，CLARITY Act通过后突破条件成焦点",
-        "excerpt": "CLARITY Act通过后，比特币仍在8万美元上方停滞；突破8.2万美元并恢复强劲机构需求，被视为确认BTC趋势转变的前提。",
-        "body": "CLARITY Act通过后，比特币价格仍未在8万美元上方形成明确突破。原文称，若要确认BTC价格趋势发生转变，需要两个前提：向上突破8.2万美元，以及强劲机构需求回归。当前关键价位是8万美元和8.2万美元。站稳8万美元上方显示价格具备支撑，但如果未能确认突破8.2万美元，市场仍难以将其视为上涨趋势转变。接下来，投资者关注的重点是机构需求是否重新增强，以及BTC能否突破该价格区间。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "Bitcoin se estanca sobre $80K: claves tras la aprobación de CLARITY Act",
-        "excerpt": "Bitcoin sigue estancado sobre los $80,000 tras la aprobación de CLARITY Act; superar $82,000 y recuperar demanda institucional fuerte son claves para confirmar un giro.",
-        "body": "El precio de Bitcoin aún no logra un avance claro por encima de los $80,000 pese a la aprobación de CLARITY Act. Según el texto original, BTC necesita dos condiciones para confirmar un cambio de tendencia: romper por encima de $82,000 y ver el regreso de una fuerte demanda institucional. Los niveles clave son ahora $80,000 y $82,000. Mantenerse sobre $80,000 muestra soporte de precio, pero sin una ruptura confirmada de $82,000 resulta difícil hablar de un giro alcista. La atención del mercado se centra en si la demanda institucional vuelve a fortalecerse y si BTC supera esa zona. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Bitcoin trava acima de US$ 80 mil: gatilhos após CLARITY Act",
-        "excerpt": "O Bitcoin segue travado acima de US$ 80 mil após a aprovação do CLARITY Act; romper US$ 82 mil e retomar forte demanda institucional são condições para confirmar virada.",
-        "body": "O preço do Bitcoin ainda não formou um rompimento claro acima de US$ 80 mil, mesmo após a aprovação do CLARITY Act. Segundo o texto original, o BTC precisa de duas condições para confirmar uma mudança de tendência: superar US$ 82 mil e registrar o retorno de uma forte demanda institucional. Os níveis centrais agora são US$ 80 mil e US$ 82 mil. Permanecer acima de US$ 80 mil indica sustentação de preço, mas sem um avanço confirmado além de US$ 82 mil, é difícil caracterizar uma virada de alta. O foco do mercado está em saber se a demanda institucional voltará a ganhar força e se o BTC romperá essa faixa. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Bitcoin stockt über 80.000 Dollar: Ausbruch nach CLARITY Act im Fokus",
-        "excerpt": "Bitcoin verharrt nach der Verabschiedung des CLARITY Act über 80.000 Dollar; erst ein Anstieg über 82.000 Dollar und starke institutionelle Nachfrage würden den Trendwechsel bestätigen.",
-        "body": "Der Bitcoin-Kurs hat trotz der Verabschiedung des CLARITY Act noch keinen klaren Ausbruch über 80.000 Dollar geschafft. Laut Vorlage braucht BTC zwei Voraussetzungen, um einen Trendwechsel zu bestätigen: einen Anstieg über 82.000 Dollar und die Rückkehr starker institutioneller Nachfrage. Die zentralen Marken liegen damit bei 80.000 und 82.000 Dollar. Das Halten über 80.000 Dollar zeigt zwar Unterstützung, doch ohne einen bestätigten Sprung über 82.000 Dollar bleibt ein Aufwärtstrendwechsel schwer belegbar. Der Markt richtet den Blick nun darauf, ob die institutionelle Nachfrage wieder anzieht und ob BTC diese Preiszone überwindet. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "Bitcoin bloque au-dessus de 80 000 $: seuils clés après le CLARITY Act",
-        "excerpt": "Bitcoin reste bloqué au-dessus de 80 000 $ après l’adoption du CLARITY Act; un passage au-dessus de 82 000 $ et le retour d’une forte demande institutionnelle sont nécessaires.",
-        "body": "Le prix du Bitcoin ne parvient toujours pas à établir une cassure nette au-dessus de 80 000 $, malgré l’adoption du CLARITY Act. Selon le texte source, BTC doit remplir deux conditions pour confirmer un changement de tendance: franchir 82 000 $ et voir revenir une forte demande institutionnelle. Les niveaux clés sont donc 80 000 $ et 82 000 $. Le maintien au-dessus de 80 000 $ montre un soutien du prix, mais sans rupture confirmée des 82 000 $, il reste difficile de valider un retournement haussier. Le marché surveille désormais le regain éventuel de la demande institutionnelle et la capacité de BTC à dépasser cette zone. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "بتكوين تتوقف فوق 80 ألف دولار: شروط الاختراق بعد تمرير CLARITY Act",
-        "excerpt": "ما زالت بتكوين عالقة فوق 80 ألف دولار بعد تمرير CLARITY Act، بينما يعد تجاوز 82 ألف دولار وعودة الطلب المؤسسي القوي شرطين لتأكيد تحول اتجاه BTC.",
-        "body": "لم ينجح سعر بتكوين حتى الآن في تكوين اختراق واضح فوق مستوى 80 ألف دولار، رغم تمرير CLARITY Act. ووفق النص الأصلي، يحتاج BTC إلى شرطين لتأكيد تغير الاتجاه: اختراق مستوى 82 ألف دولار وعودة الطلب المؤسسي القوي. المستويات المحورية حاليا هي 80 ألف دولار و82 ألف دولار. البقاء فوق 80 ألف دولار يظهر دعما للسعر، لكن من دون حركة مؤكدة فوق 82 ألف دولار يصعب اعتبار ذلك تحولا صعوديا في الاتجاه. يتركز اهتمام السوق الآن على ما إذا كان الطلب المؤسسي سيقوى مجددا، وما إذا كان BTC قادرا على تجاوز تلك المنطقة السعرية. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "Bitcoin $80K के ऊपर रुका: CLARITY Act के बाद ब्रेकआउट की शर्तें",
-        "excerpt": "CLARITY Act पास होने के बाद Bitcoin $80,000 के ऊपर अटका है; BTC ट्रेंड बदलाव की पुष्टि के लिए $82,000 से ऊपर ब्रेक और मजबूत संस्थागत मांग की वापसी जरूरी मानी जा रही है।",
-        "body": "CLARITY Act पास होने के बावजूद Bitcoin की कीमत $80,000 के ऊपर स्पष्ट ब्रेकआउट नहीं बना पाई है। मूल रिपोर्ट के अनुसार, BTC में ट्रेंड बदलाव की पुष्टि के लिए दो शर्तें जरूरी हैं: $82,000 से ऊपर का ब्रेक और मजबूत संस्थागत मांग की वापसी। अभी प्रमुख स्तर $80,000 और $82,000 हैं। $80,000 के ऊपर टिके रहना कीमत में समर्थन दिखाता है, लेकिन $82,000 के पार पुष्टि वाला कदम न हो तो इसे तेजी के ट्रेंड बदलाव के रूप में देखना कठिन है। बाजार की अगली नजर इस पर है कि संस्थागत मांग फिर मजबूत होती है या नहीं और BTC उस कीमत क्षेत्र को पार कर पाता है या नहीं। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Bitcoin Tertahan di Atas $80K: Syarat Breakout Usai CLARITY Act",
-        "excerpt": "Bitcoin masih tertahan di atas $80.000 setelah CLARITY Act disahkan; penembusan $82.000 dan kembalinya permintaan institusional kuat dibutuhkan untuk mengonfirmasi perubahan tren BTC.",
-        "body": "Harga Bitcoin belum membentuk breakout yang jelas di atas $80.000 meski CLARITY Act telah disahkan. Menurut teks sumber, BTC membutuhkan dua prasyarat untuk mengonfirmasi perubahan tren: penembusan di atas $82.000 dan kembalinya permintaan institusional yang kuat. Level utama saat ini adalah $80.000 dan $82.000. Bertahan di atas $80.000 menunjukkan dukungan harga, tetapi tanpa pergerakan terkonfirmasi melewati $82.000, sulit menyebutnya sebagai perubahan menuju tren naik. Fokus pasar berikutnya tertuju pada apakah permintaan institusional kembali menguat dan apakah BTC mampu menembus zona harga tersebut. Sumber: cointelegraph.com."
       }
     }
   }

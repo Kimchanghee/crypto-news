@@ -1,0 +1,53 @@
+{
+  "id": "3d3c07ea49db",
+  "slug": "aave-chief-defends-protocols-resilience-after-845-billion-ba-667611",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-06-08T16:26:46.322Z",
+  "updatedAt": "2026-06-08T16:26:46.322Z",
+  "sourceName": "coindesk.com",
+  "sourceUrl": "https://www.coindesk.com/business/2026/06/08/aave-labs-founder-stani-kulechov-deflects-responsibility-in-usd8-billion-run-on-stage",
+  "canonicalUrl": "https://www.coindesk.com/business/2026/06/08/aave-labs-founder-stani-kulechov-deflects-responsibility-in-usd8-billion-run-on-stage",
+  "titleFingerprint": "9b31f8c331f056fd274f117602f47461c7aa1fa1",
+  "dedupKeys": [
+    "3d3c07ea49dbc6a1b7710c174d7cfe1c87fae186",
+    "9b31f8c331f056fd274f117602f47461c7aa1fa1",
+    "f09a08715e2ed5e0e45ae9256b4cc3c4298220d0"
+  ],
+  "imageUrl": "/images/articles/3d3c07ea49db.jpg",
+  "i18n": {
+    "ko": {
+      "title": "Aave 84억5000만달러 뱅크런 후 회복력 논쟁, V4 리스크 관리 구조 개편 추진",
+      "excerpt": "Aave Labs 창업자 스타니 쿨레초프는 2026년 4월 KelpDAO 브리지 공격 뒤 발생한 84억5000만달러 예치금 이탈을 두고 프로토콜 회복력을 강조했지만, 외부 데이터는 리스크 관리 공백을 지적했다.",
+      "metaDescription": "Aave가 KelpDAO 브리지 익스플로잇 이후 48시간 만에 84억5000만달러 예치금 이탈을 겪은 가운데, 회복력 주장과 리스크 구조 논쟁이 이어졌다.",
+      "summary": "Aave는 2026년 4월 KelpDAO의 LayerZero 기반 브리지 익스플로잇 이후 48시간 동안 84억5000만달러 규모 예치금 이탈을 겪었다. 스타니 쿨레초프는 Aave V3의 회복력을 강조했지만, LlamaRisk는 약 1억2370만달러 부실채권을 지적했다. Aave Labs는 V4에서 모듈형 구조로 리스크 전염을 줄이려 하고 있다.",
+      "body": "세계 최대 탈중앙화 대출 플랫폼으로 꼽히는 Aave가 2026년 4월 KelpDAO의 LayerZero 기반 브리지 익스플로잇 이후 48시간 동안 84억5000만달러 규모의 예치금 이탈을 겪자, Aave Labs 창업자 겸 CEO 스타니 쿨레초프는 파리 Proof of Talk 행사에서 프로토콜의 회복력을 강조했다. 그는 Aave V3 인프라가 여러 시장 사이클을 거쳤고, 최근의 혼란 속에서도 회복력이 있었다고 말했다.\n\n사태의 출발점은 KelpDAO 브리지에서 발생한 2억9200만달러 규모 공격이었다. CoinDesk에 따르면 공격자는 이 취약점을 이용해 가치 없는 담보를 발행한 뒤 Aave에 예치하고 실제 래핑 이더(WETH)를 빼냈다. LlamaRisk는 그 결과 Aave V3에 약 1억2370만달러의 부실채권이 남았다고 밝혔다. 대규모 인출은 전통 금융의 뱅크런과 유사한 압박을 만들었고, Aave의 주요 리스크 방어 장치가 자율 설계만으로 충분했는지에 대한 논쟁을 불러왔다.\n\n쿨레초프는 문제의 원인을 Aave 핵심 스마트컨트랙트가 아니라 외부 인프라와 제3자 의존성에서 찾았다. 그는 DeFi 프로토콜의 스마트컨트랙트 자체에는 일반적으로 문제가 적고, 최근 사례처럼 전통적 보안 성격의 외부 의존성이 DeFi 전반에 영향을 줄 수 있다고 주장했다. 그러나 CoinDesk는 Aave가 위기를 넘긴 과정이 완전한 자동화보다는 사람 주도의 긴급 대응에 가까웠다고 지적했다. 실제로 Aave DAO는 2만5000 ETH를 약속했고, 쿨레초프도 개인적으로 5000 ETH, 약 840만달러를 투입했다.\n\nAave Labs는 향후 V4 업그레이드에서 기존의 풀링된 토큰 구조를 모듈형 허브앤드스포크 방식으로 바꿔 위험을 국지화하는 방안을 추진하고 있다. 이 구조는 특정 담보 라인을 동결하고, 위험 프리미엄을 정교하게 부과해 브리지 실패가 핵심 대출 준비금으로 전염되는 것을 막는 데 초점을 둔다. 이번 사건은 DeFi가 공개적이고 감사 가능한 시스템이라는 장점에도, 대규모 외부 의존성과 유동성 충격 앞에서 리스크 관리 구조를 재검토해야 한다는 과제를 남겼다. 출처: coindesk.com.",
+      "keywords": [
+        "Aave",
+        "아베",
+        "DeFi",
+        "뱅크런",
+        "KelpDAO",
+        "LayerZero",
+        "WETH",
+        "Aave V4",
+        "LlamaRisk",
+        "탈중앙화 금융"
+      ],
+      "faq": [
+        {
+          "q": "Aave에서 84억5000만달러 예치금 이탈이 발생한 이유는 무엇인가요?",
+          "a": "CoinDesk에 따르면 2026년 4월 KelpDAO의 LayerZero 기반 브리지 익스플로잇 이후 공격자가 가치 없는 담보를 이용해 WETH를 빼내면서 대규모 인출이 발생했습니다."
+        },
+        {
+          "q": "스타니 쿨레초프는 이번 사태를 어떻게 설명했나요?",
+          "a": "쿨레초프는 Aave 핵심 스마트컨트랙트보다 외부 인프라와 제3자 의존성이 문제였다고 보며, Aave V3가 혼란 속에서도 회복력을 보였다고 주장했습니다."
+        },
+        {
+          "q": "Aave는 향후 어떤 대응을 준비하고 있나요?",
+          "a": "Aave Labs는 V4 업그레이드에서 모듈형 허브앤드스포크 구조를 도입해 위험을 국지화하고 특정 담보 라인을 동결할 수 있는 리스크 관리 방식을 추진하고 있습니다."
+        }
+      ]
+    }
+  }
+}
