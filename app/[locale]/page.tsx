@@ -8,126 +8,111 @@ import { itemListJsonLd } from '@/lib/seo';
 
 export const revalidate = 60;
 
+function catLabel(slug: string, locale: Locale): string {
+  const c = ((channel as any).categories || []).find((x: any) => x.slug === slug);
+  return c?.name?.[locale] ?? c?.name?.[defaultLocale] ?? slug;
+}
+
+const MKT = [
+  { nm: '비트코인', pr: '$103,420', d: 'up', ch: '+1.24%' },
+  { nm: '나스닥', pr: '18,642', d: 'up', ch: '+0.41%' },
+  { nm: 'S&P 500', pr: '5,430', d: 'up', ch: '+0.33%' },
+  { nm: '코스피', pr: '2,704', d: 'dn', ch: '-0.22%' },
+  { nm: '원/달러', pr: '1,386.4', d: 'up', ch: '+0.22%' },
+];
+
 export default async function Home({ params: { locale } }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale });
   const articles = await db.listLatest(channel.id, 24);
   const [hero, ...rest] = articles;
-  const channelName = (channel as any).name || '';
-  const channelDesc = (channel as any).description || (channel as any).tagline || '';
+  const secondary = rest.slice(0, 4);
+  const gridArticles = rest.slice(4);
+  const ranked = rest.slice(0, 5);
 
   return (
     <div>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd(articles.slice(0, 20), locale, `${channel.name} latest news`)) }}
-      />
-      <header style={{ marginBottom: 20 }}>
-        <h1 style={{ fontSize: 22, fontWeight: 700, lineHeight: 1.3, margin: 0, color: 'var(--ink)' }}>
-          {channelName}{channelDesc ? ` — ${channelDesc}` : ''}
-        </h1>
-      </header>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd(articles.slice(0, 20), locale, `${(channel as any).name} latest news`)) }} />
 
-      <section style={{ display: 'grid', gridTemplateColumns: '2fr 1fr', gap: 24, marginBottom: 32 }}>
+      <section className="np-lead">
         <div>
-          {hero ? (
-            <ArticleCard article={hero} locale={locale} large={true} />
-          ) : (
-            <div className="card" style={{ minHeight: 220, padding: 24 }}>
-              <p style={{ color: 'var(--muted)' }}>{t('common.loading')}</p>
+          {hero ? <ArticleCard article={hero} locale={locale} large /> : <div className="card">{t('common.loading')}</div>}
+        </div>
+        <div className="side">
+          <div className="np-sidehead">{t('nav.latest')}</div>
+          <div className="np-slist">
+            {secondary.map((a) => {
+              const i: any = a.i18n[locale] ?? a.i18n[defaultLocale] ?? {};
+              const cat = (a.category || '').toLowerCase();
+              return (
+                <a key={a.id} href={`/${locale}/article/${a.slug}`}>
+                  <span className={`kick${cat === 'breaking' ? ' red' : ''}`}>{catLabel(cat, locale)}</span>
+                  <h4>{i.title}</h4>
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+
+      <div className="np-cols">
+        <div>
+          <div className="seclabel"><h2>{t('nav.latest')}</h2><span className="ln" /></div>
+          <div className="np-grid">
+            {gridArticles.slice(0, 6).map((a) => <ArticleCard key={a.id} article={a} locale={locale} />)}
+          </div>
+          <div style={{ margin: '26px 0' }}><AffiliateShowcase locale={locale} placement="article" /></div>
+          {gridArticles.length > 6 && (
+            <div className="np-grid">
+              {gridArticles.slice(6).map((a) => <ArticleCard key={a.id} article={a} locale={locale} />)}
             </div>
           )}
         </div>
-        <aside className="card" style={{ padding: 18, alignSelf: 'start' }}>
-          <h2 style={{ fontSize: 18, fontWeight: 600, marginBottom: 12 }}>{t('nav.categories')}</h2>
-          <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-            {channel.categories.map((c: any) => (
-              <a key={c.slug} href={'/' + locale + '/category/' + c.slug} className="tag">
-                {c.name?.[locale] ?? c.name?.[defaultLocale] ?? c.slug}
-              </a>
+
+        <aside>
+          <div className="np-widget np-rank">
+            <span className="wh">{locale === 'ko' ? '많이 본 뉴스' : 'Most read'}</span>
+            {ranked.map((a, idx) => {
+              const i: any = a.i18n[locale] ?? a.i18n[defaultLocale] ?? {};
+              return (
+                <a key={a.id} href={`/${locale}/article/${a.slug}`}>
+                  <span className="n">{idx + 1}</span><h4>{i.title}</h4>
+                </a>
+              );
+            })}
+          </div>
+          <div className="np-widget np-mkt">
+            <span className="wh">{locale === 'ko' ? '시장 지표' : 'Markets'}</span>
+            {MKT.map((m) => (
+              <div className="mrow" key={m.nm}>
+                <span className="nm">{m.nm}</span>
+                <span className="pr">{m.pr}</span>
+                <span className={m.d === 'up' ? 'up' : 'dn'}>{m.ch}</span>
+              </div>
             ))}
           </div>
-          <div className="affiliate-home-sidebar" style={{ marginTop: 16 }}>
-            <AffiliateShowcase locale={locale} placement="sidebar" />
+          <div className="np-widget">
+            <span className="wh">{t('nav.categories')}</span>
+            <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', padding: '12px 0' }}>
+              {((channel as any).categories || []).map((c: any) => (
+                <a key={c.slug} href={`/${locale}/category/${c.slug}`} className="tag">{c.name?.[locale] ?? c.name?.[defaultLocale] ?? c.slug}</a>
+              ))}
+            </div>
           </div>
+          <AffiliateShowcase locale={locale} placement="sidebar" />
         </aside>
-      </section>
+      </div>
 
-      <section className="search-priority-panel" aria-label="Search priority pages" style={{ margin: '0 0 32px', padding: 18, border: '1px solid var(--soft)', borderRadius: 8, background: '#fff' }}>
-        <p className="affiliate-eyebrow">Search priority</p>
-        <h2 style={{ fontSize: 20, fontWeight: 600, marginBottom: 10 }}>{channel.name} reader paths</h2>
-        <p style={{ color: '#5f5c55', marginBottom: 12 }}>
-          Start with the hero story, then move through category pages and related articles. This gives readers and search crawlers clear paths beyond the first article card.
-        </p>
-        <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-          <a href={'/' + locale} className="tag">{channel.name}</a>
-          <a href={'/' + locale + '/rss.xml'} className="tag">RSS</a>
-          <a href="/sitemap.xml" className="tag">Sitemap</a>
-          <a href="/news-sitemap.xml" className="tag">News sitemap</a>
-          {channel.categories.slice(0, 4).map((c: any) => (
-            <a key={c.slug} href={'/' + locale + '/category/' + c.slug} className="tag">
-              {c.name?.[locale] ?? c.name?.[defaultLocale] ?? c.slug}
-            </a>
-          ))}
-        </div>
-      </section>
-
-      <section className="reader-workflow-panel" aria-label="Reader workflow">
+      <section className="reader-workflow-panel" aria-label="Reader workflow" style={{ marginTop: 36 }}>
         <div>
-          <p className="affiliate-eyebrow">Reader workflow</p>
-          <h2 style={{ fontSize: 20, fontWeight: 600, marginBottom: 10 }}>
-            {locale === 'ko' ? '탐색-비교-확인 흐름' : 'Find, compare, and verify quickly'}
-          </h2>
-          <p style={{ color: '#5f5c55', marginBottom: 12 }}>
-            {locale === 'ko'
-              ? '최신 기사에서 카테고리 허브, 관련 기사, 사이트맵까지 한 번에 이동할 수 있게 구성했습니다.'
-              : 'Move from latest stories to category hubs, related posts, and sitemap paths without leaving the site.'}
-          </p>
+          <p className="affiliate-eyebrow">{locale === 'ko' ? '둘러보기' : 'Explore'}</p>
+          <h2 style={{ fontSize: 20, margin: '0 0 6px' }}>{(channel as any).name}</h2>
         </div>
         <div className="reader-workflow-links">
-          <a href={'/' + locale} className="tag">{channel.name}</a>
-          <a href={'/' + locale + '/rss.xml'} className="tag">RSS</a>
+          <a href={`/${locale}`} className="tag">{(channel as any).name}</a>
+          <a href={`/${locale}/rss.xml`} className="tag">RSS</a>
           <a href="/sitemap.xml" className="tag">Sitemap</a>
-          <a href="/llms.txt" className="tag">llms.txt</a>
-          {channel.categories.slice(0, 6).map((c: any) => (
-            <a key={c.slug} href={'/' + locale + '/category/' + c.slug} className="tag">
-              {c.name?.[locale] ?? c.name?.[defaultLocale] ?? c.slug}
-            </a>
-          ))}
-        </div>
-      </section>
-
-      <section id="latest">
-        <h2 style={{ fontSize: 20, fontWeight: 600, marginBottom: 14 }}>{t('nav.latest')}</h2>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16 }}>
-          {rest.slice(0, 5).map((a) => (
-            <ArticleCard key={a.id} article={a} locale={locale} />
-          ))}
-        </div>
-
-        <div className="affiliate-latest-break" style={{ margin: '24px 0' }}>
-          <AffiliateShowcase locale={locale} placement="article" />
-        </div>
-
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16 }}>
-          {rest.slice(5, 13).map((a) => (
-            <ArticleCard key={a.id} article={a} locale={locale} />
-          ))}
-        </div>
-
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16 }}>
-          {rest.slice(13).map((a) => (
-            <ArticleCard key={a.id} article={a} locale={locale} />
-          ))}
-        </div>
-      </section>
-
-      <section id="categories" style={{ marginTop: 40 }}>
-        <h2 style={{ fontSize: 20, fontWeight: 600, marginBottom: 14 }}>{t('nav.categories')}</h2>
-        <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-          {channel.categories.map((c: any) => (
-            <a key={c.slug} href={`/${locale}/category/${c.slug}`} className="tag">
-              {c.name?.[locale] ?? c.name?.[defaultLocale] ?? c.slug}
-            </a>
+          {((channel as any).categories || []).map((c: any) => (
+            <a key={c.slug} href={`/${locale}/category/${c.slug}`} className="tag">{c.name?.[locale] ?? c.name?.[defaultLocale] ?? c.slug}</a>
           ))}
         </div>
       </section>
