@@ -522,6 +522,22 @@ async function rebuildSeed() {
   console.log(`seed: ${Math.min(all.length,60)}/${all.length}`);
 }
 
+// ===== 테마 관련성 필터: 채널 키워드(한+영)와 무관한 항목 제외 =====
+const RELEVANCE = {
+  CRYPTO: ['비트코인','이더리움','암호화폐','가상자산','코인','디파이','블록체인','스테이블코인','토큰','거래소','업비트','빗썸','nft','bitcoin','ethereum','crypto','blockchain','defi','btc','eth','altcoin','stablecoin','web3','token','solana','binance','coinbase','ripple','xrp','usdc','usdt'],
+  ETF: ['etf','펀드','패시브','인덱스','상장지수','자산배분','자금유입','자금유출','자산운용','운용사','순자산','분배금','index fund','passive'],
+  FX: ['외환','환율','달러','원화','엔화','유로','위안','원/달러','금값','원유','원자재','국제유가','귀금속','달러인덱스','wti','forex','currency','dollar','crude'],
+  MACRO: ['거시경제','금리','기준금리','연준','연방준비','한국은행','인플레이션','물가','cpi','gdp','경제성장','경기','고용','실업률','경상수지','무역수지','수출','fed','inflation','recession'],
+  STOCKS: ['주식','증시','코스피','코스닥','나스닥','다우','s&p','종목','실적','상장','시가총액','배당','반도체','공모주','ipo','상한가','하한가','삼성전자','sk하이닉스','stock','equity','earnings','nasdaq'],
+  REALESTATE: ['부동산','아파트','청약','분양','분양가','시세','집값','재건축','재개발','전세','월세','전월세','매매','매물','입주','임대','주택','갭투자','분양권','property','housing'],
+};
+function isRelevant(channelId, item) {
+  const kws = RELEVANCE[(channelId || '').toUpperCase()];
+  if (!kws || !kws.length) return true;
+  const hay = ((item.title || '') + ' ' + (item.description || '')).toLowerCase();
+  return kws.some((k) => hay.includes(k.toLowerCase()));
+}
+
 async function main() {
   console.log('=== codex-cron v12 (real OG images + 11-locale + SEO) ===');
   console.log(`model: ${CODEX_MODEL || 'default'}`);
@@ -532,6 +548,7 @@ async function main() {
   console.log(`dedup: ${seen.size}`);
 
   const candidates = [];
+  let skipped = 0;
   for (const src of channel.sources) {
     try {
       const items = await fetchRss(src.url);
@@ -540,11 +557,12 @@ async function main() {
         const k2 = titleFp(it.title);
         const k3 = sha1((it.sourceName||'') + '|' + (it.title||'').toLowerCase());
         if (seen.has(k1) || seen.has(k2) || seen.has(k3)) continue;
+        if (!isRelevant(channel.id, it)) { skipped++; continue; }
         candidates.push(it);
       }
     } catch (e) { console.warn(`RSS skip ${src.url}: ${e.message}`); }
   }
-  console.log(`candidates: ${candidates.length}`);
+  console.log(`candidates: ${candidates.length} (off-topic skipped: ${skipped})`);
 
   const picked = candidates.slice(0, MAX_ARTICLES);
   let ok = 0;
