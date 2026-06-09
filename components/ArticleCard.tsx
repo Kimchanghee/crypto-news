@@ -49,7 +49,7 @@ export function ArticleCard({ article, locale, large = false }: { article: Gener
         {summary && <p itemProp="description">{summary}</p>}
         <div className="np-meta">
           <span className="src" itemProp="publisher" itemScope itemType="https://schema.org/Organization">
-            <span itemProp="name">{article.sourceName}</span>
+            <span itemProp="name">{(channel as any).name}</span>
           </span>
           {article.publishedAt && (
             <>

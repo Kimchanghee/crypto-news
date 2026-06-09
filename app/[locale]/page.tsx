@@ -54,6 +54,10 @@ export default async function Home({ params: { locale } }: { params: { locale: L
         </div>
       </section>
 
+      <div style={{ margin: '6px 0 22px' }}>
+        <AffiliateShowcase locale={locale} placement="article" />
+      </div>
+
       <div className="np-cols">
         <div>
           <div className="seclabel"><h2>{t('nav.latest')}</h2><span className="ln" /></div>

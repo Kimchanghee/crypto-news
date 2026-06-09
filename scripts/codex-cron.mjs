@@ -303,26 +303,26 @@ function buildTranslationPrompt(channel, item) {
     ? '10. 한국어가 원천이며 다른 언어는 한국어 본문을 충실 번역'
     : '10. 한국어 문장 가독성·정확성 최우선';
   const modeLine = GENERATE_ALL_LOCALES
-    ? `당신은 다국어 ${channel.name} 뉴스 에디터입니다. SEO/AEO/GEO에 최적화된 뉴스 기사 1개를 작성하세요.`
-    : `당신은 한국어 ${channel.name} 뉴스 에디터입니다. SEO/AEO/GEO에 최적화된 한국어 기사 1개를 작성하세요.`;
+    ? `당신은 ${channel.name}의 베테랑 기자입니다. 아래 사실을 바탕으로, 당신이 직접 취재해 쓴 것처럼 완전히 독립적인 뉴스 기사 1개를 SEO/AEO/GEO 극강으로 작성하세요. (11개 언어)`
+    : `당신은 ${channel.name}의 베테랑 기자입니다. 아래 사실을 바탕으로, 당신이 직접 취재해 쓴 것처럼 완전히 독립적인 한국어 뉴스 기사 1개를 SEO/AEO/GEO 극강으로 작성하세요.`;
   return [
     modeLine,
     ``,
-    `=== 원문 ===`,
-    `제목: ${item.title.slice(0, 250)}`,
-    `요약: ${item.description.slice(0, 600)}`,
-    `출처: ${item.sourceName}`,
+    `=== 참고 사실 (이 정보로 직접 기사를 작성합니다) ===`,
+    `핵심 사실: ${item.title.slice(0, 250)}`,
+    `세부 정보: ${item.description.slice(0, 600)}`,
     ``,
     `=== 작성 규칙 ===`,
+    `[절대 금지] 원문·출처·~에 따르면·~가 전했다·매체명/기자명 등 출처를 가리키는 표현 일절 금지. 당신이 1차 취재한 기사처럼 단정적·자기완결적으로 서술합니다.`,
     `1. title: 50-80자, 핵심 키워드 앞쪽 배치, 과장·낚시 금지`,
     `2. excerpt: 150-210자. 누가/무엇을/언제/왜를 한 줄 요약`,
     `3. metaDescription: 140-180자. 검색 스니펫 최적화`,
     `4. summary: 220-320자. 핵심 포인트 3~4문장`,
-    `5. body: ko(한국어)는 정확히 ${TARGET_BODY_MIN}~${TARGET_BODY_MAX}자. 리드(5W1H) → 배경/맥락/수치 → 영향/전망 → 출처(${item.sourceName})`,
+    `5. body(한국어): 공백 제외 1000자 이상(최대 ${TARGET_BODY_MAX}자). 구성: 핵심 결론 리드 → 배경/맥락 → 구체 수치·데이터 → 시장·독자 영향 → 전망. 소제목(##) 2~3개로 스캔성 강화. 한국 독자 맥락(원화 환산·국내 규제·국내 시장 영향)을 자연스럽게 반영(GEO).`,
     `   나머지 언어는 동일 사실을 자연 번역하되 450~900자 권장`,
     `6. keywords: 핵심 키워드 6~10개 배열(string[])`,
     `7. faq: 질문/답변 3개. 사실 기반, 과장 금지`,
-    `8. 사실 그대로(원문 정보만 사용), 추측·과장 금지`,
+    `8. 신문 기사체·단정적 서술. 사실은 정확히, 불확실한 건 전망된다 수준으로만. AEO/SEO/GEO 극대화: 핵심 키워드 자연 배치, 질의응답형 단락, 한국 시장 맥락 포함.`,
     localeRule,
     translationRule,
     ``,
@@ -339,7 +339,7 @@ function toText(v) {
 }
 
 function charLen(v) {
-  return Array.from(String(v ?? '')).length;
+  return Array.from(String(v ?? '').replace(/\s+/g, '')).length;
 }
 
 function bodyInRange(v) {
@@ -387,7 +387,7 @@ function cleanFaq(raw, sourceName, title) {
   if (out.length === 0) {
     out.push({
       q: `${title.slice(0, 50)} 핵심 포인트는 무엇인가요?`,
-      a: `기사 본문은 ${sourceName} 보도를 바탕으로 사건의 배경, 주요 수치, 시장 영향을 순서대로 설명합니다.`
+      a: `핵심 배경, 주요 수치, 시장에 미치는 영향을 본문에서 순서대로 정리했습니다.`
     });
   }
   out.push({
@@ -412,8 +412,8 @@ function normalizeLocalePayload(locale, payload, item) {
     metaDescription,
     summary,
     body,
-    keywords: cleanKeywords(payload?.keywords, [item.sourceName, item.category, title.slice(0, 20)]),
-    faq: cleanFaq(payload?.faq, item.sourceName, title),
+    keywords: cleanKeywords(payload?.keywords, [item.category, title.slice(0, 20)]),
+    faq: cleanFaq(payload?.faq, '', title),
   };
 }
 
@@ -423,9 +423,10 @@ function buildKoRepairPrompt(channel, item, ko) {
     `아래 초안을 사실관계를 유지한 채 SEO/AEO 기준으로 다시 작성하세요.`,
     ``,
     `=== 원문 정보 ===`,
-    `제목: ${item.title.slice(0, 250)}`,
-    `요약: ${item.description.slice(0, 600)}`,
-    `출처: ${item.sourceName}`,
+    `핵심 사실: ${item.title.slice(0, 250)}`,
+    `세부 정보: ${item.description.slice(0, 600)}`,
+    ``,
+    `[출처·원문 언급 금지] 매체/출처 표현 없이 직접 쓴 기사처럼 작성.`,
     ``,
     `=== 현재 초안 ===`,
     `title: ${toText(ko?.title).slice(0, 250)}`,
@@ -434,8 +435,8 @@ function buildKoRepairPrompt(channel, item, ko) {
     ``,
     `=== 수정 규칙 ===`,
     `1) 사실 추가/삭제 금지, 추측 금지`,
-    `2) body는 정확히 ${TARGET_BODY_MIN}~${TARGET_BODY_MAX}자`,
-    `3) 뉴스 문체 유지 (리드→배경/수치→영향/전망→출처)`,
+    `2) body는 공백 제외 1000자 이상(최대 ${TARGET_BODY_MAX}자)`,
+    `3) 신문 기사체 유지 (리드→배경/수치→영향/전망). 출처·원문 언급 금지`,
     `4) keywords 6~10개, faq 3개`,
     ``,
     `=== 출력 ===`,
@@ -492,8 +493,8 @@ async function generateOne(channel, item) {
     category: (channel.id || '').toLowerCase(),
     publishedAt: new Date().toISOString(),
     updatedAt: new Date().toISOString(),
-    sourceName: item.sourceName,
-    sourceUrl: item.link,
+    sourceName: '',
+    sourceUrl: '',
     canonicalUrl: canonicalUrl(item.link),
     titleFingerprint: titleFp(item.title),
     dedupKeys: [

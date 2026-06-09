@@ -68,7 +68,7 @@ jobs:
         env:
           MAX_ARTICLES: ${{ inputs.max_articles || '3' }}
           TARGET_BODY_MIN: '1000'
-          TARGET_BODY_MAX: '1200'
+          TARGET_BODY_MAX: '2000'
           MAX_KO_REPAIR_RETRIES: '2'
           CODEX_TIMEOUT_MS: '900000'
           GENERATE_ALL_LOCALES: '0'

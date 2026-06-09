@@ -74,12 +74,16 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
         <h1>{title}</h1>
         {summary && <p className="deck">{summary}</p>}
         <div className="np-byline">
-          <span className="src"><a href={a.sourceUrl} rel="noopener nofollow" target="_blank">{a.sourceName}</a></span>
+          <span className="src">{(channel as any).name} 편집부</span>
           <span>·</span>
           <time dateTime={a.publishedAt}>{new Date(a.publishedAt).toLocaleDateString(params.locale)}</time>
           <span>·</span>
           <span>{readingTime}{params.locale === 'ko' ? '분' : ' min'}</span>
         </div>
+      </div>
+
+      <div className="np-art" style={{ margin: '2px 0 0' }}>
+        <AffiliateShowcase locale={params.locale} placement="article" />
       </div>
 
       <div className="np-art">
@@ -129,6 +133,10 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
             </div>
           </section>
         )}
+
+        <div style={{ marginTop: 28 }}>
+          <AffiliateShowcase locale={params.locale} placement="article" />
+        </div>
 
         <section className="article-next-actions" aria-label={params.locale === 'ko' ? '다음 읽기 경로' : 'Next reading path'}>
           <h2>{params.locale === 'ko' ? '다음 탐색 경로' : 'Continue your research path'}</h2>
