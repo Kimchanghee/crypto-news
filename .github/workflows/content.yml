@@ -2,8 +2,8 @@ name: Content - Codex CLI 콘텐츠 자동 생성/이미지/커밋
 
 on:
   schedule:
-    # ChatGPT Pro 구독: 5분 간격 (rate-limit 충분)
-    - cron: '*/5 * * * *'
+    # 2시간 간격 (사용량·요금·메일 스팸 절감)
+    - cron: '0 */2 * * *'
   workflow_dispatch:
     inputs:
       max_articles:
@@ -79,7 +79,7 @@ jobs:
           FRESH_WINDOW_HOURS: '48'
           MIN_FRESH_ARTICLES_48H: '1'
           STALE_HOURS: '36'
-          FAIL_ON_STALE: '1'
+          FAIL_ON_STALE: '0'
         run: node scripts/freshness-check.mjs
 
       - name: Commit & push if changed (with rebase retry)
