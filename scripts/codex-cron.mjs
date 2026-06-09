@@ -518,9 +518,10 @@ async function rebuildSeed() {
   for (const f of files) {
     try { all.push(JSON.parse(await fs.readFile(path.join(ART_DIR, f), 'utf8'))); } catch {}
   }
-  all.sort((a,b) => (b.publishedAt||'').localeCompare(a.publishedAt||''));
-  await fs.writeFile(SEED_PATH, JSON.stringify(all.slice(0, 60), null, 2));
-  console.log(`seed: ${Math.min(all.length,60)}/${all.length}`);
+  const relevant = all.filter(a => isRelevant(a.channelId, { title: (a.i18n && a.i18n.ko && a.i18n.ko.title) || '', description: (a.i18n && a.i18n.ko && (a.i18n.ko.excerpt || a.i18n.ko.summary)) || '' }));
+  relevant.sort((a,b) => (b.publishedAt||'').localeCompare(a.publishedAt||''));
+  await fs.writeFile(SEED_PATH, JSON.stringify(relevant.slice(0, 60), null, 2));
+  console.log(`seed: ${Math.min(relevant.length,60)}/${relevant.length} (relevant of ${all.length})`);
 }
 
 // ===== 테마 관련성 필터: 채널 키워드(한+영)와 무관한 항목 제외 =====
