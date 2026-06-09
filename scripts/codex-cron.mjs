@@ -528,8 +528,8 @@ async function rebuildSeed() {
 const RELEVANCE = {
   CRYPTO: ['비트코인','이더리움','암호화폐','가상자산','코인','디파이','블록체인','스테이블코인','토큰','거래소','업비트','빗썸','nft','bitcoin','ethereum','crypto','blockchain','defi','btc','eth','altcoin','stablecoin','web3','token','solana','binance','coinbase','ripple','xrp','usdc','usdt'],
   ETF: ['etf','펀드','패시브','인덱스','상장지수','자산배분','자금유입','자금유출','자산운용','운용사','순자산','분배금','index fund','passive'],
-  FX: ['외환','환율','원화','원·달러','원/달러','달러 강세','달러 약세','달러인덱스','달러화','엔화','유로화','위안화','원유','원자재','국제유가','금값','금 시세','귀금속','곡물','wti','forex','exchange rate','crude'],
-  MACRO: ['거시경제','금리','기준금리','연준','연방준비','한국은행','인플레이션','물가','cpi','gdp','경제성장','경기 침체','경기 둔화','경기 회복','고용','실업률','경상수지','무역수지','수출','통화정책','fed','inflation','recession'],
+  FX: ['외환','환율','원화','원·달러','원/달러','달러 강세','달러 약세','달러인덱스','달러화','엔화','유로화','위안화','원유','원자재','국제유가','금값','금 시세','귀금속','곡물','wti','forex','exchange rate','crude','gold','silver','metals','oil','commodity','currency','usd','euro','yen'],
+  MACRO: ['거시경제','금리','기준금리','연준','연방준비','한국은행','인플레이션','물가','cpi','gdp','경제성장','경기 침체','경기 둔화','경기 회복','고용','실업률','경상수지','무역수지','수출','통화정책','fed','inflation','recession','interest rate','federal reserve','unemployment','economy','rate cut','rate hike','treasury'],
   STOCKS: ['주식','증시','코스피','코스닥','나스닥','다우','s&p','종목','실적','상장','시가총액','배당','반도체','공모주','ipo','상한가','하한가','삼성전자','sk하이닉스','stock','equity','earnings','nasdaq'],
   REALESTATE: ['부동산','아파트','청약','분양','분양가','시세','집값','재건축','재개발','전세','월세','전월세','매매','매물','입주','임대','주택','갭투자','분양권','property','housing'],
 };
