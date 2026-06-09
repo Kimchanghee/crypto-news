@@ -18,8 +18,14 @@ export async function generateMetadata({ params }: { params: { locale: Locale; s
 
 function bodyToHtml(text: string): string {
   if (!text) return '';
-  return text.split(/\n\n+|\n/).filter(Boolean)
-    .map((p) => `<p>${p.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}</p>`)
+  const esc = (x: string) => x.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  return text.split(/\n\n+|\n/).map((l) => l.trim()).filter(Boolean)
+    .map((p) => {
+      if (/^###\s+/.test(p)) return `<h3>${esc(p.replace(/^###\s+/, ''))}</h3>`;
+      if (/^##\s+/.test(p)) return `<h2>${esc(p.replace(/^##\s+/, ''))}</h2>`;
+      const t = esc(p.replace(/^#{1,6}\s+/, ''));
+      return `<p>${t}</p>`;
+    })
     .join('\n');
 }
 function calcReadingTime(text: string): number {
