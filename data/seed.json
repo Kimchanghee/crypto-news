@@ -1,5 +1,110 @@
 [
   {
+    "id": "425d80a6fef0",
+    "slug": "the-quantum-clock-is-ticking-its-bitcoins-problem-not-ethere-729136",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-06-10T17:18:28.154Z",
+    "updatedAt": "2026-06-10T17:18:28.154Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s",
+    "titleFingerprint": "7874eefb9a6261ecae9398419fd182e5038ab13b",
+    "dedupKeys": [
+      "425d80a6fef032cdfacc83030f575c2ef3edd664",
+      "7874eefb9a6261ecae9398419fd182e5038ab13b",
+      "4233630991d4c48b0892335c704c51cf0e3a8a91"
+    ],
+    "imageUrl": "/images/articles/425d80a6fef0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 양자컴퓨터 리스크 부각, 이더리움보다 기관 보유자 부담 커졌다",
+        "excerpt": "양자컴퓨터 상용화 시계가 빨라지면서 비트코인의 장기 보안 리스크가 기관 투자자의 핵심 점검 항목으로 떠올랐다. 이더리움보다 비트코인이 더 큰 부담을 안는 구조가 시장의 관심사다.",
+        "metaDescription": "비트코인 양자컴퓨터 리스크가 기관 투자자의 새 변수로 부상했다. 이더리움과 보안 구조 차이, 국내 시장 영향, 장기 전망을 분석한다.",
+        "summary": "양자컴퓨터 리스크는 단기 가격 변동보다 장기 보유 전략에 더 큰 의미를 갖는다. 현재 쟁점은 비트코인이 이더리움보다 제도적 대응 속도와 구조적 유연성에서 더 큰 부담을 안는다는 점이다. 기관 투자자는 보관 방식, 지갑 노출, 네트워크 업그레이드 가능성을 함께 점검해야 한다. 국내 투자자도 현물 ETF와 거래소 보관 자산 확대 흐름 속에서 보안 리스크를 별도 변수로 봐야 한다.",
+        "body": "비트코인 양자컴퓨터 리스크가 기관 투자자의 장기 보유 전략을 흔드는 핵심 변수로 떠올랐다. 결론은 분명하다. 양자컴퓨터의 시계가 빨라질수록 가장 먼저 부담을 떠안는 쪽은 이더리움이 아니라 비트코인이다. 이는 비트코인의 현재 보안이 당장 무너진다는 뜻이 아니다. 다만 수년 단위로 자산을 보유하는 연기금, 운용사, 상장사, 패밀리오피스에는 더 이상 뒤로 미룰 수 없는 리스크 관리 항목이 됐다.\n\n## 왜 비트코인 문제가 더 큰가\n\n양자컴퓨터 리스크의 핵심은 공개키 암호 체계다. 충분히 강력한 양자컴퓨터가 등장하면 기존 전자서명 방식의 일부 취약점이 현실적 공격 경로로 바뀔 수 있다. 비트코인은 장기 보유 주소, 오래된 지갑, 이미 공개키가 노출된 거래 이력에서 점검 부담이 커진다. 특히 기관은 단순히 코인을 사는 데서 끝나지 않는다. 수탁, 내부 통제, 보험, 감사, 회계, 리스크위원회 승인까지 모두 통과해야 한다.\n\n이더리움도 양자컴퓨터 리스크에서 완전히 자유롭지는 않다. 그러나 네트워크 업그레이드 문화와 기술 전환 속도에서 비트코인과 차이가 있다. 이더리움은 이미 대규모 합의 알고리즘 전환을 경험했고, 애플리케이션 계층과 지갑 계층의 변화가 비교적 빠르게 진행된다. 반면 비트코인은 보수적 설계와 강한 합의 문화를 장점으로 삼아 왔다. 바로 그 장점이 양자 대응 국면에서는 의사결정 속도의 부담으로 작용할 수 있다.\n\n## 기관 보유자는 무엇을 봐야 하나\n\n비트코인 시가총액은 여전히 가상자산 시장의 기준축이다. 1BTC 가격이 1억 원 안팎에서 움직일 때 기관 지갑 하나의 운영 실수는 수십억 원에서 수천억 원 규모의 손실로 번질 수 있다. 국내 투자자에게도 남의 일이 아니다. 한국 시장에서는 거래소 보관 비중이 높고, 해외 현물 ETF와 연동된 투자 상품에 대한 관심도 커졌다. 자산을 직접 보유하지 않더라도 운용사와 수탁기관이 어떤 양자 대응 계획을 갖고 있는지가 투자 판단의 일부가 된다.\n\n점검 대상은 세 가지다. 첫째, 장기 보관 주소의 공개키 노출 여부다. 둘째, 기관 수탁사가 향후 서명 체계 전환을 어떻게 준비하는지다. 셋째, 네트워크 차원의 양자 내성 암호 도입 논의가 실제 실행 가능한 일정으로 이어지는지다. 단기 매매자는 가격 변동성에 더 민감할 수 있지만, 5년 이상 보유하는 투자자는 암호 체계 전환 가능성을 별도 리스크로 반영해야 한다.\n\n## 한국 시장 영향과 전망\n\n국내 규제 환경에서도 이 이슈는 중요해진다. 가상자산 이용자 보호, 수탁 안정성, 상장 심사, 기관 참여 확대가 맞물리면 보안 리스크 공시는 더 정교해질 가능성이 크다. 비트코인 현물 투자 수요가 커질수록 국내 금융권은 단순 가격 전망보다 기술적 생존력과 네트워크 거버넌스를 함께 검토하게 된다.\n\n당장 양자컴퓨터가 비트코인을 공격한다는 결론은 성급하다. 그러나 시장은 실제 사고가 발생한 뒤에야 리스크를 가격에 반영하지 않는다. 장기 리스크가 제도권 보고서와 투자위원회 안건으로 올라오는 순간, 기관 자금은 할인율을 조정한다. 앞으로 비트코인의 관건은 양자 내성 전환 논의가 얼마나 구체적인 실행 경로를 갖추느냐다. 이더리움의 관건은 빠른 전환 능력을 실제 보안 강화로 연결하는 것이다. 투자자에게 필요한 판단은 단순하다. 비트코인은 디지털 금이라는 서사만으로 충분하지 않다. 장기 보유 자산이라면 양자컴퓨터 시대에도 안전하게 이전·보관·검증될 수 있어야 한다.",
+        "keywords": [
+          "비트코인 양자컴퓨터",
+          "양자컴퓨터 리스크",
+          "비트코인 보안",
+          "이더리움 보안",
+          "기관 투자자",
+          "가상자산 수탁",
+          "암호화폐 리스크",
+          "양자 내성 암호",
+          "비트코인 양자컴퓨터 리스크 부각, 이"
+        ],
+        "faq": [
+          {
+            "q": "양자컴퓨터가 당장 비트코인을 해킹할 수 있나?",
+            "a": "현재 시장의 핵심 쟁점은 즉각적인 해킹 가능성이 아니라 장기 보유 자산의 구조적 리스크다. 충분히 강력한 양자컴퓨터가 등장할 경우 기존 서명 체계의 취약성이 커질 수 있어 선제 대응이 필요하다."
+          },
+          {
+            "q": "왜 이더리움보다 비트코인의 부담이 더 크다고 보나?",
+            "a": "비트코인은 보수적인 업그레이드 문화와 오래된 지갑 구조 때문에 전환 합의와 실행 속도에서 부담이 크다. 이더리움도 리스크가 있지만 네트워크 변화와 지갑 계층 개선이 상대적으로 빠르게 진행될 수 있다."
+          },
+          {
+            "q": "국내 투자자는 무엇을 확인해야 하나?",
+            "a": "거래소와 수탁기관의 보안 정책, 장기 보관 주소 관리, 향후 양자 내성 암호 전환 계획을 확인해야 한다. ETF나 간접 상품 투자자도 운용사와 수탁 구조의 기술 리스크를 함께 봐야 한다."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3994ecbdffdd",
+    "slug": "netomi-ceo-says-5-trillion-ai-customer-experience-market-cou-816216",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-06-10T17:17:53.515Z",
+    "updatedAt": "2026-06-10T17:17:53.515Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.coindesk.com/business/2026/06/10/netomi-ceo-says-usd5-trillion-ai-customer-experience-market-could-boost-stablecoin-demand",
+    "titleFingerprint": "38169395bfc0f1d96f1ece02c2472c31414c999a",
+    "dedupKeys": [
+      "3994ecbdffddf162fc9aec3545c5920c27e664e8",
+      "38169395bfc0f1d96f1ece02c2472c31414c999a",
+      "3e2d1a0a38a510ced3094bf05dcce8f994477f7a"
+    ],
+    "imageUrl": "/images/articles/3994ecbdffdd.png",
+    "i18n": {
+      "ko": {
+        "title": "스테이블코인 수요, 5조달러 AI 고객경험 시장 성장에 새 동력",
+        "excerpt": "넷오미 최고경영자 푸닛 메타는 엔터프라이즈 AI 소프트웨어 확산이 기업 결제·정산 구조를 바꾸며 스테이블코인과 블록체인 수요를 키울 것으로 내다봤다.",
+        "metaDescription": "5조달러 규모로 거론되는 AI 고객경험 시장이 기업용 AI 소프트웨어 확산과 함께 스테이블코인·블록체인 수요를 자극하고 있다.",
+        "summary": "AI 고객경험 시장의 급성장이 스테이블코인 수요를 밀어 올릴 핵심 변수로 부상했다. 월가 출신 엔지니어이자 데이터 과학자인 푸닛 메타는 기업용 AI 소프트웨어가 결제·정산·데이터 신뢰 체계를 함께 바꿀 것으로 본다. 한국 시장에서는 원화 스테이블코인 논의, 가상자산 규제 정비, 기업 자동화 수요가 맞물릴 가능성이 크다.",
+        "body": "AI 고객경험 시장이 5조달러 규모로 커질 경우 스테이블코인과 블록체인 수요는 기업 인프라의 실사용 영역에서 확대될 전망이다. 넷오미 최고경영자 푸닛 메타는 엔터프라이즈 AI 소프트웨어가 고객 응대 자동화를 넘어 결제, 정산, 데이터 검증, 서비스 운영 방식까지 재편하면서 디지털 달러 기반 결제 수요를 키울 것으로 보고 있다.\n\n## AI 고객경험 시장과 스테이블코인의 접점\n기업용 AI는 콜센터 챗봇이나 상담 자동화에 머물지 않는다. 고객 문의 처리, 주문 변경, 환불, 구독 관리, 해외 서비스 정산처럼 돈의 이동이 동반되는 업무로 빠르게 확장되고 있다. 이 과정에서 기업은 24시간 작동하고 국경 간 처리가 빠르며 프로그램화가 쉬운 결제 수단을 필요로 한다. 스테이블코인은 달러 등 법정화폐 가치에 연동되기 때문에 변동성이 큰 일반 암호화폐보다 기업 회계와 결제 시스템에 접목하기 쉽다.\n\n메타는 월가 고위 엔지니어와 데이터 과학자로 일한 경험을 바탕으로 AI 소프트웨어 확산이 블록체인 활용을 촉진할 수 있다고 판단한다. AI 에이전트가 고객과 상호작용하고 거래 조건을 확인한 뒤 결제를 실행하는 구조가 늘어나면, 결제 기록의 투명성·자동화·정산 속도가 경쟁력이 된다. 블록체인은 이 지점에서 거래 이력과 데이터 무결성을 보완하는 기술로 부상한다.\n\n## 5조달러 시장이 만드는 결제 인프라 변화\n5조달러는 약 6,900조원 안팎에 해당하는 거대한 시장 규모다. 이 수치는 AI 고객경험 산업이 단순 소프트웨어 판매를 넘어 금융 인프라와 연결될 수 있음을 보여준다. 기업이 AI 상담, 개인화 마케팅, 자동 환불, 글로벌 고객 지원을 하나의 흐름으로 통합하면 거래 건수는 폭발적으로 증가한다. 기존 은행망만으로는 소액·다빈도·실시간 거래를 모두 효율적으로 처리하기 어렵다.\n\n스테이블코인은 이러한 환경에서 기업 간 결제, 플랫폼 정산, 해외 고객 환불, 디지털 서비스 구독료 처리에 활용될 여지가 있다. 특히 달러 기반 스테이블코인은 글로벌 SaaS 기업과 전자상거래 플랫폼에 익숙한 회계 단위를 제공한다. 다만 수요 확대가 곧바로 모든 기업의 채택을 의미하지는 않는다. 규제 명확성, 준비금 투명성, 회계 처리 기준, 소비자 보호 장치가 함께 정비돼야 한다.\n\n## 한국 시장 영향과 규제 변수\n한국 기업에도 영향은 직접적이다. 국내 전자상거래, 게임, 콘텐츠, 핀테크 기업은 해외 고객 비중을 늘리고 있으며 AI 고객 응대 도입 속도도 빠르다. 원화로 환산하면 수천조원 규모의 글로벌 AI 고객경험 시장에서 결제 효율을 확보하는 기업이 비용 경쟁력을 얻을 수 있다. 원화 스테이블코인 논의가 제도권에서 본격화될 경우 국내 기업의 디지털 정산 실험도 확대될 가능성이 있다.\n\n핵심 변수는 규제다. 한국은 가상자산 이용자 보호와 거래소 규율을 강화해 왔고, 스테이블코인은 지급결제와 통화정책 영역까지 걸쳐 있어 별도 기준이 필요하다. 준비자산 보관, 발행사 감독, 환매 보장, 자금세탁 방지 기준이 분명해져야 기업 도입이 가능하다. AI가 고객 접점에서 결제를 실행하는 시대에는 기술 혁신보다 신뢰 구조가 먼저 시장 규모를 결정한다.\n\n전망은 분명하다. AI 고객경험 시장이 커질수록 기업은 더 빠르고 자동화된 결제 인프라를 요구하게 된다. 스테이블코인은 그 요구에 대응할 수 있는 유력한 수단이지만, 제도권 신뢰를 확보한 발행사와 투명한 블록체인 인프라가 선택받을 가능성이 크다.",
+        "keywords": [
+          "스테이블코인",
+          "AI 고객경험",
+          "넷오미",
+          "푸닛 메타",
+          "블록체인",
+          "엔터프라이즈 AI",
+          "AI 소프트웨어",
+          "가상자산 규제",
+          "원화 스테이블코인",
+          "스테이블코인 수요, 5조달러 AI 고"
+        ],
+        "faq": [
+          {
+            "q": "AI 고객경험 시장 성장이 왜 스테이블코인 수요와 연결되나?",
+            "a": "AI가 고객 응대뿐 아니라 주문, 환불, 구독, 해외 정산까지 자동화하면 빠르고 프로그램화 가능한 결제 수단이 필요해진다. 스테이블코인은 가치 변동성이 낮아 기업 결제 인프라와 연결될 가능성이 있다."
+          },
+          {
+            "q": "5조달러 AI 고객경험 시장은 원화로 어느 정도 규모인가?",
+            "a": "5조달러는 환율에 따라 달라지지만 약 6,900조원 안팎의 규모다. 이 정도 시장이 형성되면 AI 소프트웨어뿐 아니라 결제, 정산, 데이터 검증 인프라 수요도 함께 커질 수 있다."
+          },
+          {
+            "q": "한국 기업도 스테이블코인을 바로 활용할 수 있나?",
+            "a": "즉각적인 대규모 도입은 규제와 회계 기준에 달려 있다. 준비자산 투명성, 환매 보장, 자금세탁 방지, 원화 스테이블코인 제도화 여부가 국내 기업 활용의 핵심 조건이다."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "3c5262f0a88e",
     "slug": "crypto-outflows-are-sentiment-shock-not-structural-crisis-co-264384",
     "channelId": "CRYPTO",
@@ -3239,156 +3344,6 @@
         "title": "Strategy Incar Pelunasan Utang Konversi $1,5 Miliar, Bisa Jual BTC",
         "excerpt": "Strategy menyepakati pembelian kembali surat utang konversi senilai $1,5 miliar untuk memangkas utang dan kembali membuka peluang penjualan Bitcoin.",
         "body": "Strategy, perusahaan besar pemegang Bitcoin, bergerak memangkas utang melalui kesepakatan pembelian kembali surat utang konversi senilai $1,5 miliar. Saat mendorong pelunasan instrumen tersebut, perusahaan kembali mengisyaratkan bahwa Bitcoin dapat dijual sebagai bagian dari pengelolaan keuangan. Langkah ini menunjukkan upaya menata struktur aset dan liabilitas Strategy. Karena nilai utang konversi mencapai $1,5 miliar, pasar akan mencermati cara pendanaan transaksi dan apakah strategi kepemilikan Bitcoin berubah. Laporan itu tidak menyebut adanya penjualan Bitcoin yang sudah pasti atau jumlahnya. Sumber: decrypt.co"
-      }
-    }
-  },
-  {
-    "id": "5dfac38ccc31",
-    "slug": "bitcoin-miner-iren-closes-3-billion-convertible-notes-offeri-418823",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T20:12:06.936Z",
-    "updatedAt": "2026-05-15T20:12:06.936Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/368028/bitcoin-miner-iren-3-billion-convertible-notes-offering-ai-ambitions-grow",
-    "canonicalUrl": "https://decrypt.co/368028/bitcoin-miner-iren-3-billion-convertible-notes-offering-ai-ambitions-grow",
-    "titleFingerprint": "8c6ce5cba4c578ebf5301e85d753178572dc2545",
-    "dedupKeys": [
-      "5dfac38ccc31900e1e5ab6d5dfbe0f93b2234e83",
-      "8c6ce5cba4c578ebf5301e85d753178572dc2545",
-      "218e73f0cd8be597ab4c07f8dec3884b1485d66d"
-    ],
-    "imageUrl": "/images/articles/5dfac38ccc31.png",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 채굴사 IREN, 30억 달러 전환사채 마감…AI 전환 가속",
-        "excerpt": "비트코인 채굴 기업 IREN은 최근 30억 달러 규모 전환사채 발행을 마무리하고 AI 클라우드 인프라 구축을 앞당기겠다고 밝혔다.",
-        "body": "비트코인 채굴 기업 IREN이 30억 달러 규모의 전환사채 발행을 완료하며 AI 전환에 속도를 내고 있다. 이번 조달은 회사의 AI 클라우드 인프라 구축을 가속하기 위한 자금 마련으로, 기존 비트코인 채굴 사업 기반 위에서 인프라 확장 방향을 분명히 한 것이다. 전환사채는 향후 조건에 따라 주식으로 전환될 수 있는 채권 형태다. IREN은 이번 거래를 통해 AI 클라우드 인프라 빌드아웃에 필요한 재원을 확보했다. decrypt.co에 따르면 IREN은 30억 달러 전환사채 오퍼링을 마감했으며, 이는 AI 클라우드 인프라 구축을 앞당기기 위한 목적이다."
-      },
-      "en": {
-        "title": "Bitcoin Miner IREN Closes $3 Billion Notes Deal to Speed AI Shift",
-        "excerpt": "Bitcoin mining firm IREN has closed a $3 billion convertible notes offering to accelerate the buildout of its AI cloud infrastructure.",
-        "body": "Bitcoin mining firm IREN has completed a $3 billion convertible notes offering as it moves to accelerate its AI transformation. The financing is intended to support the company’s AI cloud infrastructure buildout, marking a clearer push beyond its established Bitcoin mining base. Convertible notes are debt instruments that may later convert into equity under set terms. With the offering now closed, IREN has secured capital for its planned AI cloud infrastructure expansion. According to decrypt.co, IREN closed the $3 billion convertible notes offering to fuel its AI cloud infrastructure buildout."
-      },
-      "ja": {
-        "title": "ビットコイン採掘IREN、30億ドル転換社債でAI転換を加速",
-        "excerpt": "ビットコイン採掘企業IRENは、AIクラウドインフラ整備を加速するため、30億ドル規模の転換社債発行を完了した。",
-        "body": "ビットコイン採掘企業IRENは、30億ドル規模の転換社債発行を完了し、AIへの転換を加速している。今回の資金調達は、同社のAIクラウドインフラ構築を前倒しするためのもので、既存のビットコイン採掘事業を基盤にインフラ拡張の方向性を明確にした。転換社債は、一定の条件に基づき将来株式へ転換できる債券だ。IRENは今回の取引により、AIクラウドインフラ整備に必要な資金を確保した。decrypt.coによると、IRENは30億ドルの転換社債オファリングを終了し、AIクラウドインフラ構築を進める目的だ。"
-      },
-      "zh": {
-        "title": "比特币矿企IREN完成30亿美元可转债发行，加速AI转型",
-        "excerpt": "比特币挖矿企业IREN已完成30亿美元可转换票据发行，用于加快其AI云基础设施建设。",
-        "body": "比特币挖矿企业IREN已完成30亿美元可转换票据发行，正在加快其AI转型。此次融资旨在推动公司AI云基础设施建设，也表明其在既有比特币挖矿业务基础上进一步扩展基础设施的方向。可转换票据是一种债务工具，在约定条件下未来可转换为股权。随着本次发行完成，IREN获得了推进AI云基础设施建设所需的资金。decrypt.co报道称，IREN已完成30亿美元可转换票据发行，目的在于为AI云基础设施建设提供动力。"
-      },
-      "es": {
-        "title": "Minera Bitcoin IREN cierra notas por US$3.000 millones para acelerar IA",
-        "excerpt": "La minera de Bitcoin IREN cerró una oferta de notas convertibles por US$3.000 millones para acelerar su infraestructura de nube de IA.",
-        "body": "La empresa de minería de Bitcoin IREN completó una oferta de notas convertibles por US$3.000 millones mientras busca acelerar su transformación hacia la IA. La financiación está destinada a impulsar la construcción de su infraestructura de nube de IA, mostrando una dirección de expansión sobre la base de su negocio de minería de Bitcoin. Las notas convertibles son instrumentos de deuda que pueden convertirse en acciones bajo condiciones definidas. Con la operación cerrada, IREN aseguró capital para su despliegue de infraestructura de nube de IA. Según decrypt.co, IREN cerró la oferta de notas convertibles por US$3.000 millones para impulsar esa construcción."
-      },
-      "pt": {
-        "title": "Mineradora de Bitcoin IREN fecha US$3 bi em notas para acelerar IA",
-        "excerpt": "A mineradora de Bitcoin IREN concluiu uma oferta de notas conversíveis de US$3 bilhões para acelerar sua infraestrutura de nuvem de IA.",
-        "body": "A mineradora de Bitcoin IREN concluiu uma oferta de notas conversíveis de US$3 bilhões enquanto busca acelerar sua transformação em IA. O financiamento tem como objetivo apoiar a construção de sua infraestrutura de nuvem de IA, indicando uma direção de expansão a partir da base já existente de mineração de Bitcoin. Notas conversíveis são instrumentos de dívida que podem ser convertidos em ações sob condições definidas. Com a oferta encerrada, a IREN garantiu capital para avançar em sua infraestrutura de nuvem de IA. Segundo o decrypt.co, a IREN fechou a oferta de US$3 bilhões em notas conversíveis para impulsionar essa construção."
-      },
-      "de": {
-        "title": "Bitcoin-Miner IREN schließt 3-Milliarden-Dollar-Wandelanleihe für KI ab",
-        "excerpt": "Bitcoin-Mining-Unternehmen IREN hat eine Wandelanleihe über 3 Milliarden Dollar abgeschlossen, um seine KI-Cloud-Infrastruktur auszubauen.",
-        "body": "Das Bitcoin-Mining-Unternehmen IREN hat eine Wandelanleihe über 3 Milliarden Dollar abgeschlossen und treibt damit seine KI-Transformation voran. Die Finanzierung soll den Ausbau der KI-Cloud-Infrastruktur des Unternehmens beschleunigen und zeigt eine klarere Erweiterung über die bestehende Bitcoin-Mining-Basis hinaus. Wandelanleihen sind Schuldinstrumente, die unter festgelegten Bedingungen später in Aktien umgewandelt werden können. Mit dem Abschluss der Transaktion hat IREN Kapital für den geplanten Ausbau seiner KI-Cloud-Infrastruktur gesichert. Laut decrypt.co schloss IREN das Angebot über 3 Milliarden Dollar ab, um diesen Ausbau zu finanzieren."
-      },
-      "fr": {
-        "title": "Le mineur Bitcoin IREN boucle 3 milliards de dollars pour accélérer l’IA",
-        "excerpt": "Le mineur de Bitcoin IREN a finalisé une émission de notes convertibles de 3 milliards de dollars pour accélérer son infrastructure cloud IA.",
-        "body": "L’entreprise de minage de Bitcoin IREN a finalisé une émission de notes convertibles de 3 milliards de dollars afin d’accélérer sa transformation vers l’IA. Ce financement doit soutenir le développement de son infrastructure cloud dédiée à l’IA, tout en clarifiant une expansion fondée sur son activité existante de minage de Bitcoin. Les notes convertibles sont des instruments de dette pouvant être convertis en actions selon des conditions définies. Avec cette opération clôturée, IREN a sécurisé des capitaux pour son déploiement d’infrastructure cloud IA. Selon decrypt.co, IREN a bouclé cette offre de 3 milliards de dollars pour financer cette construction."
-      },
-      "ar": {
-        "title": "شركة تعدين بيتكوين IREN تغلق طرح سندات بـ3 مليارات دولار لتسريع الذكاء الاصطناعي",
-        "excerpt": "أغلقت شركة تعدين البيتكوين IREN طرح سندات قابلة للتحويل بقيمة 3 مليارات دولار لتسريع بناء بنيتها التحتية السحابية للذكاء الاصطناعي.",
-        "body": "أكملت شركة تعدين البيتكوين IREN طرح سندات قابلة للتحويل بقيمة 3 مليارات دولار، في خطوة تهدف إلى تسريع تحولها نحو الذكاء الاصطناعي. ويستهدف التمويل دعم بناء البنية التحتية السحابية للذكاء الاصطناعي لدى الشركة، مع إبراز اتجاه توسع يستند إلى قاعدة أعمالها القائمة في تعدين البيتكوين. والسندات القابلة للتحويل هي أدوات دين يمكن تحويلها لاحقا إلى أسهم وفق شروط محددة. ومع إغلاق الطرح، حصلت IREN على رأس مال مخصص لتوسيع بنيتها السحابية للذكاء الاصطناعي. ووفقا لـ decrypt.co، أغلقت IREN طرح السندات البالغ 3 مليارات دولار لدفع بناء هذه البنية التحتية."
-      },
-      "hi": {
-        "title": "Bitcoin Miner IREN ने AI बदलाव के लिए $3 अरब के convertible notes बंद किए",
-        "excerpt": "Bitcoin mining कंपनी IREN ने AI cloud infrastructure buildout तेज करने के लिए $3 अरब के convertible notes offering को पूरा किया।",
-        "body": "Bitcoin mining कंपनी IREN ने $3 अरब के convertible notes offering को पूरा कर AI transformation की दिशा में गति बढ़ाई है। यह फंडिंग कंपनी के AI cloud infrastructure buildout को तेज करने के लिए है और उसके मौजूदा Bitcoin mining आधार पर infrastructure विस्तार की दिशा दिखाती है। Convertible notes ऐसे debt instruments होते हैं जिन्हें तय शर्तों के तहत आगे चलकर equity में बदला जा सकता है। Offering बंद होने के बाद IREN ने AI cloud infrastructure विस्तार के लिए पूंजी सुरक्षित कर ली है। decrypt.co के अनुसार, IREN ने $3 अरब की convertible notes offering बंद की, जिसका उद्देश्य AI cloud infrastructure buildout को आगे बढ़ाना है।"
-      },
-      "id": {
-        "title": "Penambang Bitcoin IREN Tutup Notes US$3 Miliar untuk Percepat AI",
-        "excerpt": "Perusahaan penambangan Bitcoin IREN menutup penawaran notes konversi US$3 miliar untuk mempercepat pembangunan infrastruktur cloud AI.",
-        "body": "Perusahaan penambangan Bitcoin IREN telah menyelesaikan penawaran notes konversi senilai US$3 miliar untuk mempercepat transformasi AI. Pendanaan ini ditujukan untuk mendukung pembangunan infrastruktur cloud AI perusahaan, sekaligus menunjukkan arah ekspansi di atas basis bisnis penambangan Bitcoin yang sudah ada. Notes konversi adalah instrumen utang yang dapat dikonversi menjadi saham berdasarkan ketentuan tertentu. Dengan penawaran yang telah ditutup, IREN memperoleh modal untuk ekspansi infrastruktur cloud AI. Menurut decrypt.co, IREN menutup penawaran notes konversi US$3 miliar untuk mendorong pembangunan infrastruktur cloud AI tersebut."
-      }
-    }
-  },
-  {
-    "id": "d1927eb9d6da",
-    "slug": "president-trump-discloses-coinbase-robinhood-and-bitcoin-min-748435",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T20:11:12.706Z",
-    "updatedAt": "2026-05-15T20:11:12.706Z",
-    "sourceName": "decrypt.co",
-    "sourceUrl": "https://decrypt.co/368084/president-trump-discloses-coinbase-robinhood-bitcoin-mining-stock-trades",
-    "canonicalUrl": "https://decrypt.co/368084/president-trump-discloses-coinbase-robinhood-bitcoin-mining-stock-trades",
-    "titleFingerprint": "7b1f0a68dd5e88af6f9aec35f92667b712177bab",
-    "dedupKeys": [
-      "d1927eb9d6dac8620b20734d1e2eb901afb59643",
-      "7b1f0a68dd5e88af6f9aec35f92667b712177bab",
-      "fcfb021718b1697a0ecb84cac17507387434d749"
-    ],
-    "imageUrl": "/images/articles/d1927eb9d6da.png",
-    "i18n": {
-      "ko": {
-        "title": "트럼프, 코인베이스·로빈후드·비트코인 채굴주 거래 공개",
-        "excerpt": "도널드 트럼프 미국 대통령이 새 윤리 신고서에서 코인베이스, 로빈후드, 비트코인 채굴 관련 주식 등 암호화폐 기업 거래 내역을 보고했다.",
-        "body": "도널드 트럼프 미국 대통령이 새 윤리 신고서를 통해 코인베이스와 로빈후드, 비트코인 채굴 관련 주식 등 암호화폐 기업 거래 내역을 공개했다. 이번 신고는 대통령의 금융 활동과 암호화폐 관련 기업 보유·거래 내역이 공식 문서에 포함됐다는 점에서 주목된다. 원문은 구체적인 거래 규모나 시점, 추가 종목의 세부 내용은 제시하지 않았다. 시장에서는 현직 대통령의 관련 주식 거래 보고가 암호화폐 업계와 정치권의 접점을 다시 부각시키는 사안으로 받아들여질 수 있다. 출처: decrypt.co"
-      },
-      "en": {
-        "title": "Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades",
-        "excerpt": "President Donald Trump reported trades involving Coinbase, Robinhood and Bitcoin mining-related stocks in new ethics filings, according to Decrypt.",
-        "body": "President Donald Trump disclosed trades involving crypto-related companies, including Coinbase, Robinhood and Bitcoin mining stocks, through new ethics filings. The disclosure draws attention because the president’s financial activity and exposure to companies tied to the crypto sector were included in official documents. The original report did not provide specific trade sizes, dates or detailed information on additional names. The filing may renew attention on the overlap between the cryptocurrency industry and politics. Source: decrypt.co"
-      },
-      "ja": {
-        "title": "トランプ氏、コインベースやロビンフッドなど暗号資産株取引を開示",
-        "excerpt": "ドナルド・トランプ米大統領は新たな倫理開示書類で、コインベース、ロビンフッド、ビットコイン採掘関連株などの取引を報告した。",
-        "body": "ドナルド・トランプ米大統領は、新たな倫理開示書類を通じて、コインベース、ロビンフッド、ビットコイン採掘関連株など暗号資産関連企業の取引を明らかにした。今回の開示は、大統領の金融活動と暗号資産分野に結び付く企業の保有・取引情報が公式文書に含まれた点で注目される。原文では、具体的な取引規模や時期、その他の銘柄の詳細は示されていない。市場では、暗号資産業界と政治の接点を改めて意識させる材料となり得る。出典: decrypt.co"
-      },
-      "zh": {
-        "title": "特朗普披露Coinbase、Robinhood及比特币矿业股交易",
-        "excerpt": "美国总统唐纳德·特朗普在新的伦理申报文件中报告了Coinbase、Robinhood和比特币矿业相关股票等加密企业交易。",
-        "body": "美国总统唐纳德·特朗普通过新的伦理申报文件披露了与加密行业相关的企业交易，包括Coinbase、Robinhood以及比特币矿业相关股票。此次披露受到关注，是因为总统的金融活动以及与加密领域企业相关的持有和交易信息被纳入正式文件。原文没有提供具体交易规模、时间或其他股票的详细内容。市场可能会将这一申报视为加密货币行业与政治领域交集再次受到关注的事件。来源: decrypt.co"
-      },
-      "es": {
-        "title": "Trump revela operaciones con Coinbase, Robinhood y mineras de Bitcoin",
-        "excerpt": "El presidente Donald Trump informó en nuevas declaraciones éticas operaciones con Coinbase, Robinhood y acciones vinculadas a la minería de Bitcoin.",
-        "body": "El presidente de Estados Unidos, Donald Trump, reveló en nuevas declaraciones éticas operaciones relacionadas con empresas cripto, incluidas Coinbase, Robinhood y acciones vinculadas a la minería de Bitcoin. La presentación llama la atención porque la actividad financiera del presidente y su exposición a compañías conectadas con el sector cripto aparecen en documentos oficiales. El reporte original no detalló montos, fechas ni información específica sobre otros nombres incluidos. El caso puede volver a destacar el cruce entre la industria de criptomonedas y la política. Fuente: decrypt.co"
-      },
-      "pt": {
-        "title": "Trump revela negociações com Coinbase, Robinhood e mineradoras de Bitcoin",
-        "excerpt": "O presidente Donald Trump informou em novas declarações de ética negociações com Coinbase, Robinhood e ações ligadas à mineração de Bitcoin.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, divulgou em novas declarações de ética negociações envolvendo empresas ligadas a cripto, incluindo Coinbase, Robinhood e ações relacionadas à mineração de Bitcoin. A divulgação chama atenção porque a atividade financeira do presidente e sua exposição a companhias conectadas ao setor cripto aparecem em documentos oficiais. O texto original não informou valores, datas ou detalhes sobre outros ativos citados. O caso pode recolocar em foco a relação entre a indústria de criptomoedas e a política. Fonte: decrypt.co"
-      },
-      "de": {
-        "title": "Trump legt Trades mit Coinbase, Robinhood und Bitcoin-Mining-Aktien offen",
-        "excerpt": "US-Präsident Donald Trump meldete in neuen Ethikunterlagen Trades mit Coinbase, Robinhood und Aktien aus dem Bitcoin-Mining-Umfeld.",
-        "body": "US-Präsident Donald Trump hat in neuen Ethikunterlagen Trades mit kryptobezogenen Unternehmen offengelegt, darunter Coinbase, Robinhood und Aktien aus dem Bitcoin-Mining-Umfeld. Die Meldung ist bemerkenswert, weil die Finanzaktivitäten des Präsidenten und sein Bezug zu Unternehmen aus dem Kryptosektor in offiziellen Dokumenten erscheinen. Der Originalbericht nennt keine konkreten Handelsvolumina, Zeitpunkte oder detaillierten Angaben zu weiteren Titeln. Die Offenlegung könnte die Schnittstelle zwischen Kryptobranche und Politik erneut in den Fokus rücken. Quelle: decrypt.co"
-      },
-      "fr": {
-        "title": "Trump déclare des opérations sur Coinbase, Robinhood et des actions Bitcoin",
-        "excerpt": "Le président Donald Trump a signalé dans de nouveaux documents d’éthique des opérations liées à Coinbase, Robinhood et à des actions de minage Bitcoin.",
-        "body": "Le président américain Donald Trump a déclaré, dans de nouveaux documents d’éthique, des opérations concernant des entreprises liées aux cryptomonnaies, dont Coinbase, Robinhood et des actions associées au minage de Bitcoin. Cette déclaration attire l’attention car les activités financières du président et son exposition à des sociétés du secteur crypto figurent dans des documents officiels. Le rapport original ne précise pas les montants, les dates ni les détails sur les autres titres. Le dossier pourrait raviver l’intérêt pour les liens entre l’industrie crypto et la politique. Source: decrypt.co"
-      },
-      "ar": {
-        "title": "ترامب يكشف تداولات في Coinbase وRobinhood وأسهم تعدين بيتكوين",
-        "excerpt": "أبلغ الرئيس دونالد ترامب في إفصاحات أخلاقية جديدة عن تداولات شملت Coinbase وRobinhood وأسهمًا مرتبطة بتعدين بيتكوين.",
-        "body": "كشف الرئيس الأميركي دونالد ترامب، عبر إفصاحات أخلاقية جديدة، عن تداولات مرتبطة بشركات في قطاع العملات المشفرة، من بينها Coinbase وRobinhood وأسهم ذات صلة بتعدين بيتكوين. يلفت الإفصاح الانتباه لأن النشاط المالي للرئيس وتعامله مع شركات مرتبطة بقطاع الكريبتو وردا في وثائق رسمية. ولم يذكر التقرير الأصلي أحجام التداول أو توقيتاتها أو تفاصيل إضافية عن الأسماء الأخرى. وقد يعيد هذا الإفصاح تسليط الضوء على تقاطع صناعة العملات المشفرة مع السياسة. المصدر: decrypt.co"
-      },
-      "hi": {
-        "title": "ट्रंप ने Coinbase, Robinhood और बिटकॉइन माइनिंग शेयर ट्रेड बताए",
-        "excerpt": "राष्ट्रपति डोनाल्ड ट्रंप ने नई एथिक्स फाइलिंग में Coinbase, Robinhood और बिटकॉइन माइनिंग से जुड़े शेयरों सहित क्रिप्टो फर्मों के ट्रेड रिपोर्ट किए।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने नई एथिक्स फाइलिंग के जरिए Coinbase, Robinhood और बिटकॉइन माइनिंग से जुड़े शेयरों सहित क्रिप्टो संबंधित कंपनियों के ट्रेड का खुलासा किया। यह जानकारी इसलिए ध्यान खींचती है क्योंकि राष्ट्रपति की वित्तीय गतिविधियां और क्रिप्टो सेक्टर से जुड़ी कंपनियों में लेनदेन आधिकारिक दस्तावेजों में दर्ज हुए हैं। मूल रिपोर्ट में ट्रेड की राशि, तारीख या अन्य नामों का विस्तृत विवरण नहीं दिया गया। यह खुलासा क्रिप्टो उद्योग और राजनीति के बीच संबंधों पर फिर ध्यान ला सकता है। स्रोत: decrypt.co"
-      },
-      "id": {
-        "title": "Trump Ungkap Transaksi Saham Coinbase, Robinhood dan Penambang Bitcoin",
-        "excerpt": "Presiden Donald Trump melaporkan transaksi di Coinbase, Robinhood dan saham terkait penambangan Bitcoin dalam pengajuan etika terbaru.",
-        "body": "Presiden Amerika Serikat Donald Trump mengungkap transaksi yang terkait dengan perusahaan kripto, termasuk Coinbase, Robinhood dan saham yang berhubungan dengan penambangan Bitcoin, melalui pengajuan etika terbaru. Laporan ini menarik perhatian karena aktivitas keuangan presiden dan eksposurnya terhadap perusahaan di sektor kripto tercantum dalam dokumen resmi. Artikel asli tidak menyebutkan nilai transaksi, waktu, atau rincian tambahan mengenai nama lain. Pengungkapan ini dapat kembali menyoroti hubungan antara industri kripto dan politik. Sumber: decrypt.co"
       }
     }
   }
