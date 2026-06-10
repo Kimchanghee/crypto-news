@@ -1,5 +1,163 @@
 [
   {
+    "id": "7e7d541c5d9c",
+    "slug": "crypto-users-wary-as-anthropic-releases-claude-mythos-with-s-667988",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-06-10T07:45:37.744Z",
+    "updatedAt": "2026-06-10T07:45:37.744Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://cointelegraph.com/news/anthropic-releases-claude-mythos-with-safeguards-crypto-users-wary",
+    "titleFingerprint": "f6d3dbf8cba267b8ecf3a3e80ab701687cec604e",
+    "dedupKeys": [
+      "7e7d541c5d9cbc106ab5cb73b7e09f96c262a2ca",
+      "f6d3dbf8cba267b8ecf3a3e80ab701687cec604e",
+      "2ce8264237ca2342686b1de13cadc4e3c9c7638e"
+    ],
+    "imageUrl": "/images/articles/7e7d541c5d9c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "클로드 미토스 출시로 커진 암호화폐 취약점 탐색 비용 제로 논란과 보안 경계",
+        "excerpt": "앤트로픽이 최신 AI 모델 클로드 미토스를 공개하면서 암호화폐 이용자와 프로젝트가 보안 리스크를 다시 점검하고 있다. 취약점 탐색 비용과 기술 장벽이 급격히 낮아질 수 있다는 우려가 확산됐다.",
+        "metaDescription": "앤트로픽 클로드 미토스 출시 이후 암호화폐 취약점 탐색 자동화 우려가 커졌다. 국내 거래소, 프로젝트, 투자자가 점검해야 할 보안 쟁점을 정리했다.",
+        "summary": "앤트로픽의 최신 AI 모델 클로드 미토스 공개 이후 암호화폐 업계의 보안 긴장감이 높아졌다. 핵심 우려는 AI가 스마트컨트랙트와 지갑, 브리지 취약점 탐색 비용을 사실상 0에 가깝게 낮출 수 있다는 점이다. 안전장치가 포함됐지만 악용 가능성을 완전히 제거하기 어렵다는 시각이 우세하다. 국내 투자자와 프로젝트는 코드 감사, 키 관리, 이상거래 탐지를 강화해야 한다.",
+        "body": "앤트로픽의 최신 AI 모델 클로드 미토스 공개가 암호화폐 시장의 새 보안 변수로 부상했다. 모델에는 안전장치가 포함됐지만, 암호화폐 이용자들은 AI가 취약점 탐색의 비용과 기술 장벽을 급격히 낮출 가능성에 주목하고 있다. 벤처투자자 사이먼 데딕은 최신 AI 모델이 크립토 익스플로잇을 찾아내는 데 필요한 비용과 숙련도를 사실상 제로에 가깝게 만들 수 있다고 평가했다.\n\n## AI 보안 경쟁의 초점은 스마트컨트랙트\n암호화폐 보안의 핵심 표적은 스마트컨트랙트, 브리지, 지갑, 디파이 프로토콜이다. 이 영역은 코드가 공개된 경우가 많고, 작은 논리 오류가 곧바로 자금 손실로 이어질 수 있다. 과거에는 취약점을 찾기 위해 블록체인 구조, 솔리디티 문법, 온체인 거래 흐름, 공격 시뮬레이션 경험이 필요했다. 그러나 고성능 AI 모델은 코드 검토, 공격 경로 추론, 테스트 케이스 작성, 취약 함수 식별을 한 번에 보조할 수 있다.\n\n클로드 미토스의 안전장치는 악성 요청 차단과 위험 행동 제한을 목표로 한다. 다만 암호화폐 공격은 일반적인 해킹 지시와 달리 정상적인 보안 감사, 버그바운티, 코드 리뷰 요청과 형태가 비슷하다. 이 때문에 방어 목적의 분석과 악용 목적의 분석을 기계적으로 나누기 어렵다. 사용자가 질문을 쪼개거나 우회적으로 구성하면 모델이 의도치 않게 공격 준비 과정에 도움을 줄 가능성도 남아 있다.\n\n## 비용이 낮아지면 공격 빈도도 달라진다\n이번 논란의 핵심은 비용 구조다. 취약점 탐색 비용이 낮아지면 공격자는 더 많은 프로젝트를 더 짧은 시간에 훑을 수 있다. 예를 들어 한 명의 전문 감사자가 며칠 동안 살피던 컨트랙트 묶음을 AI 보조로 몇 시간 안에 1차 점검할 수 있다면, 공격자는 실패 비용을 크게 줄인다. 반대로 프로젝트도 같은 도구를 방어에 활용할 수 있지만, 공개 배포 전 검증 체계가 약한 팀은 불리하다.\n\n국내 시장 영향도 작지 않다. 국내 투자자는 업비트, 빗썸, 코인원 등 원화 거래소 상장 여부를 신뢰 지표로 보는 경향이 강하다. 그러나 거래소 상장은 코드 보안의 영구 보증이 아니다. 원화 마켓에서 거래되는 토큰이라도 외부 브리지, 스테이킹 컨트랙트, 거버넌스 계약에 취약점이 있으면 가격 급락과 입출금 중단으로 이어질 수 있다. 국내 가상자산 이용자보호법 환경에서는 이상거래 감시와 공시 투명성이 중요하지만, 기술적 취약점 자체를 사전에 모두 제거하는 장치는 아니다.\n\n## 투자자는 공시보다 보안 구조를 봐야 한다\n투자자가 확인해야 할 지점은 명확하다. 첫째, 프로젝트가 독립 보안 감사를 정기적으로 받는지 살펴야 한다. 둘째, 버그바운티가 실제 보상 규모와 처리 절차를 갖췄는지 확인해야 한다. 셋째, 관리자 키가 멀티시그와 타임락으로 통제되는지 봐야 한다. 넷째, 브리지와 예치 컨트랙트에 자금이 과도하게 집중되는 구조인지 점검해야 한다.\n\n프로젝트 입장에서는 AI를 위협으로만 볼 수 없다. 방어팀이 클로드 미토스 같은 모델을 내부 코드 리뷰, 테스트 자동화, 취약 패턴 탐지에 활용하면 보안 수준을 높일 수 있다. 문제는 공격자도 같은 속도로 도구를 흡수한다는 점이다. 앞으로 암호화폐 보안 경쟁은 더 빠른 개발이 아니라 더 빠른 검증으로 이동할 전망이다. 한국 투자자에게는 고수익보다 보안 이력, 감사 보고서, 운영 키 관리, 사고 대응 속도가 더 중요한 선별 기준이 되고 있다.",
+        "keywords": [
+          "클로드 미토스",
+          "앤트로픽",
+          "암호화폐 보안",
+          "크립토 익스플로잇",
+          "스마트컨트랙트 취약점",
+          "AI 보안",
+          "디파이 해킹",
+          "국내 가상자산 시장",
+          "클로드 미토스 출시로 커진 암호화폐"
+        ],
+        "faq": [
+          {
+            "q": "클로드 미토스가 암호화폐 시장에서 논란이 된 이유는 무엇인가?",
+            "a": "최신 AI 모델이 스마트컨트랙트와 디파이 프로토콜의 취약점 탐색 비용과 기술 장벽을 크게 낮출 수 있다는 우려 때문이다."
+          },
+          {
+            "q": "안전장치가 있으면 악용 위험이 사라지나?",
+            "a": "사라지지 않는다. 보안 감사와 공격 준비는 요청 형태가 비슷할 수 있어 모델이 의도치 않게 위험한 분석을 도울 가능성이 남아 있다."
+          },
+          {
+            "q": "국내 투자자는 무엇을 확인해야 하나?",
+            "a": "거래소 상장 여부만 보지 말고 보안 감사 이력, 버그바운티, 멀티시그 적용, 브리지 의존도, 사고 대응 공시를 함께 확인해야 한다."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "7d2c071785d9",
+    "slug": "chainalysis-south-korean-police-link-up-to-fight-crypto-crim-448579",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-06-10T07:44:57.343Z",
+    "updatedAt": "2026-06-10T07:44:57.343Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://cointelegraph.com/news/chainalysis-south-korean-police-link-up-to-fight-crypto-crime",
+    "titleFingerprint": "74c90753be68d2d9b82a66717f3538ac6bffc959",
+    "dedupKeys": [
+      "7d2c071785d925f048c1b225878072638320f41c",
+      "74c90753be68d2d9b82a66717f3538ac6bffc959",
+      "50804703bc4fdc1e2c8806f1f6daf46fab5f5b7b"
+    ],
+    "imageUrl": "/images/articles/7d2c071785d9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "Chainalysis·한국 경찰청 공조 강화, 가상자산 범죄 추적 전선 확대",
+        "excerpt": "Chainalysis와 한국 경찰청이 가상자산 범죄 대응 협력을 강화하며 북한 연계 해킹, 투자 사기, 자금세탁 등 국내외 위협에 대한 추적·분석 체계를 넓히고 있다.",
+        "metaDescription": "Chainalysis와 한국 경찰청의 가상자산 범죄 대응 공조가 강화됐다. 북한 해킹, 투자 사기, 자금세탁 추적이 국내 시장 핵심 과제로 떠올랐다.",
+        "summary": "Chainalysis와 한국 경찰청이 가상자산 범죄 대응을 위해 공조를 강화했다. 한국 수사당국은 북한 연계 국가급 해킹부터 개인 투자자를 겨냥한 사기까지 폭넓은 위협을 추적해 왔다. 이번 협력은 블록체인 분석 역량과 수사 실무를 결합해 피해 자금 흐름을 더 빠르게 식별하는 데 초점이 맞춰진다.",
+        "body": "Chainalysis와 한국 경찰청의 가상자산 범죄 대응 공조가 강화되면서 국내 암호화폐 시장의 수사 기준이 한층 촘촘해지고 있다. 핵심은 블록체인상 자금 흐름을 실시간에 가깝게 추적해 북한 연계 해킹, 피싱, 투자 리딩방 사기, 불법 환전, 자금세탁으로 이어지는 경로를 조기에 차단하는 것이다. 가상자산이 국경을 빠르게 넘나드는 결제·은닉 수단으로 쓰이면서 한국 경찰의 수사 범위도 거래소 계정 추적을 넘어 온체인 분석, 지갑 군집화, 해외 수사기관 협력으로 확대되고 있다.\n\n## 북한 해킹부터 개인 투자자 사기까지\n한국은 가상자산 범죄의 최전선에 서 있다. 북한 연계 조직은 거래소, 브리지, 디파이 프로토콜, 개인 지갑을 겨냥해 탈취 자금을 쪼개고 섞어 추적을 어렵게 만든다. 동시에 국내에서는 고수익 보장, 원금 보장, 상장 예정 코인 판매, 유명인 사칭 광고, 텔레그램·오픈채팅 기반 리딩방 사기가 반복되고 있다. 범죄 유형은 다르지만 구조는 같다. 피해자의 원화가 가상자산으로 바뀐 뒤 여러 지갑과 거래소를 거쳐 이동하고, 일부는 해외 플랫폼이나 믹싱 서비스로 흘러간다.\n\n경찰청이 Chainalysis와 손잡은 배경도 여기에 있다. 수사기관은 압수수색과 계좌 추적만으로는 초 단위로 이동하는 디지털 자산을 따라잡기 어렵다. 블록체인 분석 도구는 특정 지갑의 입출금 패턴, 거래 상대, 위험 지갑과의 접점, 거래소 유입 가능성을 시각화한다. 이를 통해 피해 신고 직후 지갑 주소를 특정하고, 자금이 현금화되기 전 동결 요청이나 국제 공조로 이어질 가능성이 커진다.\n\n## 국내 규제와 수사 실무의 결합\n한국의 가상자산 시장은 원화마켓 중심의 거래 비중이 높고, 신고 가상자산사업자와 은행 실명계좌 체계가 맞물려 있다. 이 구조는 투자자 접근성을 높이는 동시에 수사기관에는 중요한 단서를 제공한다. 범죄 자금이 국내 거래소로 유입될 경우 계정 정보, 입출금 기록, 지갑 주소, 원화 환전 흐름을 연결해 피해 회복 가능성을 높일 수 있다. 다만 해외 무신고 플랫폼, 개인 간 장외거래, 탈중앙화 서비스로 이동하면 추적 난도는 급격히 올라간다.\n\n이번 공조는 단순한 기술 도입을 넘어 수사 절차의 표준화를 의미한다. 경찰은 사건 접수 단계에서 지갑 주소와 트랜잭션 해시를 확보하고, 분석 결과를 토대로 범죄 유형을 분류하며, 거래소와 금융기관에 필요한 보전 조치를 요청하는 방식으로 대응 속도를 높일 수 있다. 투자자 입장에서는 신고 시점이 중요해진다. 피해 직후 입금 지갑, 송금 시간, 거래소 출금 내역, 대화 기록을 확보하면 자금 추적의 출발점이 분명해진다.\n\n## 시장 영향과 전망\n국내 거래소와 프로젝트에는 컴플라이언스 부담이 커질 전망이다. 의심 지갑 모니터링, 입출금 위험 평가, 고객확인 절차, 이상거래 탐지 체계가 경쟁력의 일부가 되고 있다. 특히 원화 환전 단계에서 범죄 자금이 드러나는 경우가 많아 거래소의 대응 속도와 내부 통제 수준이 투자자 보호의 핵심 지표로 부상한다.\n\n투자자에게도 변화가 뚜렷하다. 고수익 보장형 코인 판매, 비공개 프리세일, 해외 거래소 대리 운용, 지갑 시드문구 요구는 대표적인 위험 신호다. 경찰과 분석 기업의 공조가 강화되더라도 탈취된 코인이 여러 체인을 거쳐 분산되면 전액 회수는 어렵다. 따라서 사후 추적만큼 사전 예방이 중요하다. Chainalysis와 한국 경찰청의 협력은 한국 가상자산 시장이 투기 중심에서 수사·규제·투자자 보호가 결합된 성숙 단계로 이동하고 있음을 보여준다.",
+        "keywords": [
+          "Chainalysis",
+          "한국 경찰청",
+          "가상자산 범죄",
+          "암호화폐 범죄",
+          "북한 해킹",
+          "코인 사기",
+          "블록체인 분석",
+          "가상자산 수사",
+          "원화마켓",
+          "투자자 보호"
+        ],
+        "faq": [
+          {
+            "q": "Chainalysis와 한국 경찰청의 공조 핵심은 무엇인가요?",
+            "a": "블록체인 분석 기술과 경찰 수사 역량을 결합해 가상자산 범죄 자금 흐름을 추적하고, 북한 연계 해킹과 개인 투자자 대상 사기에 대응하는 것이다."
+          },
+          {
+            "q": "이번 협력이 국내 투자자에게 어떤 영향을 주나요?",
+            "a": "피해 자금 추적과 거래소 동결 요청이 빨라질 가능성이 있다. 다만 전액 회수가 보장되는 것은 아니므로 송금 전 검증과 피해 직후 증거 확보가 중요하다."
+          },
+          {
+            "q": "가장 주의해야 할 가상자산 사기 유형은 무엇인가요?",
+            "a": "고수익·원금 보장, 상장 예정 코인 판매, 유명인 사칭 광고, 리딩방 대리 투자, 시드문구 요구가 대표적 위험 신호다."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "82ffc80ad714",
+    "slug": "live-updates-what-next-for-bitcoin-as-it-faces-headwinds-fro-100050",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-06-10T07:44:08.957Z",
+    "updatedAt": "2026-06-10T07:44:08.957Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.coindesk.com/markets/2026/06/10/live-updates-what-next-for-bitcoin-as-it-faces-headwinds-from-fed-rates-to-claude-s-mythos",
+    "titleFingerprint": "b2b5ad46fa268b9a2227076b28de0abcdd09a94f",
+    "dedupKeys": [
+      "82ffc80ad71460c36b0dc6baeb085c053e70abf3",
+      "b2b5ad46fa268b9a2227076b28de0abcdd09a94f",
+      "a37aa75b42c977c491d9a7abdd6d2c258012ac24"
+    ],
+    "imageUrl": "/images/articles/82ffc80ad714.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인, 연준 금리와 앤트로픽 IPO 변수에 약세 압력 확대",
+        "excerpt": "비트코인은 6월 들어 연준 금리 부담과 대형 AI 기업 상장 대기 수요가 겹치며 6만 달러대 초반에서 방향성을 시험받고 있다. 시장의 초점은 Claude 새 모델보다 앤트로픽 IPO 파이프라인으로 이동했다.",
+        "metaDescription": "비트코인이 연준 금리 부담과 앤트로픽 IPO 기대라는 이중 변수에 흔들리고 있다. 국내 투자자는 달러 강세, ETF 자금 흐름, 원화 가격 변동을 함께 봐야 한다.",
+        "summary": "비트코인은 금리 인하 기대 약화와 AI IPO 대기 자금 이동으로 단기 상승 동력이 약해졌다. Claude의 새 모델 이슈보다 앤트로픽의 상장 파이프라인이 유동성 측면에서 더 큰 변수다. 국내 투자자는 원화 환산 가격, 김치프리미엄, 가상자산 규제 환경을 함께 점검해야 한다.",
+        "body": "비트코인의 다음 방향은 기술 뉴스가 아니라 자금의 이동 속도에 달려 있다. 6월 현재 시장을 누르는 핵심 변수는 연준의 고금리 부담, 위험자산 전반의 유동성 축소, 그리고 앤트로픽을 포함한 대형 AI 기업의 IPO 파이프라인이다. Claude 관련 새 모델 이슈는 단기 관심을 끌 수 있지만, 크립토 트레이더가 실제로 추적해야 할 변수는 상장 대기 자금이 어디에서 빠져나가고 어디로 들어가는지다.\n\n## 금리 부담이 비트코인 반등을 막는다\n비트코인은 최근 6만 달러대 초반에서 불안정한 흐름을 보이고 있다. 6만1,000달러를 기준으로 보면 원·달러 환율 1,370원을 적용한 원화 환산 가격은 약 8,357만 원이다. 6만 달러가 깨질 경우 단순 환산 가격은 약 8,220만 원까지 내려간다. 국내 거래소 가격은 환율, 수급, 김치프리미엄에 따라 달라지지만, 글로벌 달러 가격의 1,000달러 변동은 원화 기준 약 137만 원의 변동 압력으로 이어진다.\n\n연준 금리가 높은 수준에서 오래 유지되면 비트코인에는 두 가지 부담이 생긴다. 첫째, 달러 현금과 단기채의 매력이 커져 무이자 자산인 비트코인의 상대 매력이 낮아진다. 둘째, 기관투자자는 포트폴리오 위험을 줄이기 위해 변동성이 큰 자산부터 비중을 낮춘다. 금리 인하 기대가 늦춰질수록 현물 ETF로 들어오던 자금도 둔화될 가능성이 커진다.\n\n## Claude보다 앤트로픽 IPO가 더 중요하다\n시장에서는 Claude의 새 모델 이름과 성능보다 앤트로픽의 IPO 파이프라인을 더 중요한 가격 변수로 본다. 이유는 단순하다. 새 모델은 AI 섹터의 기술 기대를 키우지만, IPO는 실제 투자금 배분을 바꾼다. 대형 AI 기업 상장을 앞두고 기관과 고액 투자자는 현금 비중을 늘리거나 기존 위험자산을 매도해 청약·상장 초기 매수 여력을 확보한다. 이 과정에서 비트코인, 이더리움, 고베타 알트코인이 우선 매도 대상이 될 수 있다.\n\n비트코인이 2025년 고점 대비 큰 폭으로 밀린 상태에서 AI IPO 수요까지 겹치면 반등의 질이 약해진다. 단기 급등이 나오더라도 거래량이 충분히 붙지 않으면 차익실현 매물이 빨라진다. 특히 200주 이동평균선 같은 장기 추세 지표를 밑도는 구간에서는 신규 매수보다 방어적 대응이 늘어난다.\n\n## 국내 투자자에게 미치는 영향\n한국 투자자는 세 가지를 함께 봐야 한다. 첫째, 달러 기준 비트코인 가격이다. 둘째, 원·달러 환율이다. 셋째, 국내 거래소 프리미엄이다. 글로벌 가격이 하락해도 환율이 오르면 원화 하락폭은 줄어들 수 있다. 반대로 글로벌 가격과 환율이 동시에 내려가면 원화 기준 손실은 더 커진다.\n\n국내 규제 환경도 무시하기 어렵다. 가상자산 이용자 보호 체계가 강화되면서 거래소의 상장 심사, 이상거래 감시, 투자자 공시 요구가 더 엄격해졌다. 이는 중장기적으로 시장 신뢰를 높일 수 있지만, 단기적으로는 투기성 알트코인보다 비트코인 중심의 보수적 매매를 강화하는 요인이다.\n\n전망은 중립적이다. 비트코인이 6만 달러 선을 지키고 ETF 자금 유입이 회복되면 기술적 반등은 가능하다. 그러나 연준 금리 인하 시점이 늦어지고 앤트로픽 IPO 기대가 위험자산 자금을 계속 흡수하면 상승 폭은 제한될 전망이다. 지금 시장의 핵심 질문은 “Claude가 얼마나 좋아졌나”가 아니라 “AI 상장 대기 자금이 비트코인 유동성을 얼마나 빼앗는가”다.",
+        "keywords": [
+          "비트코인",
+          "연준 금리",
+          "앤트로픽 IPO",
+          "Claude",
+          "AI IPO",
+          "가상자산 시장",
+          "비트코인 전망",
+          "김치프리미엄",
+          "크립토 투자",
+          "비트코인, 연준 금리와 앤트로픽 IP"
+        ],
+        "faq": [
+          {
+            "q": "비트코인 가격에 연준 금리가 왜 중요한가요?",
+            "a": "금리가 높으면 달러 현금과 단기채 수익률의 매력이 커져 비트코인 같은 무이자 위험자산의 상대 매력이 낮아진다. 기관투자자의 위험 축소 매도도 늘어날 수 있다."
+          },
+          {
+            "q": "Claude 새 모델보다 앤트로픽 IPO가 더 중요한 이유는 무엇인가요?",
+            "a": "새 모델은 기술 기대를 키우는 이벤트지만 IPO는 실제 자금 배분을 바꾼다. 대형 AI 상장을 준비하는 투자금이 비트코인 등 기존 위험자산에서 빠져나올 수 있다."
+          },
+          {
+            "q": "국내 투자자는 무엇을 가장 먼저 확인해야 하나요?",
+            "a": "달러 기준 비트코인 가격, 원·달러 환율, 국내 거래소 프리미엄을 함께 확인해야 한다. 같은 6만 달러대 가격이라도 환율과 김치프리미엄에 따라 원화 체감 가격은 달라진다."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "3c179450ffa6",
     "slug": "bitcoin-etfs-are-no-bigger-today-than-when-trump-won-the-ele-867390",
     "channelId": "CRYPTO",
@@ -3430,231 +3588,6 @@
         "title": "AI dan Stablecoin: CEO Augustus Sebut Bank Lama Sulit Dibangun Ulang",
         "excerpt": "CEO Augustus Bank Ferdinand Dabitz mengatakan setelah persetujuan bersyarat OCC bahwa bank kliring lama tidak dapat dibangun ulang untuk AI dan stablecoin.",
         "body": "CEO Augustus Bank Ferdinand Dabitz mengatakan bank kliring lama tidak dapat dibangun ulang untuk lingkungan AI dan stablecoin setelah OCC memberi persetujuan bersyarat atas dorongan bank tersebut di AS yang berfokus pada stablecoin. Pernyataan ini muncul saat Augustus mendorong model bank Amerika Serikat yang berpusat pada stablecoin. Dabitz menekankan bahwa struktur bank kliring legacy membuatnya sulit memenuhi tuntutan teknologi baru. Hal ini menunjukkan bahwa keuangan berbasis AI dan pembayaran stablecoin makin menjadi inti pembahasan infrastruktur perbankan. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "315f5547245c",
-    "slug": "bitcoin-tumbles-below-79000-as-rising-bond-yields-inflation--667594",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T15:31:17.562Z",
-    "updatedAt": "2026-05-15T15:31:17.562Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/15/bitcoin-tumbles-below-usd79-000-as-rising-bond-yields-inflation-worries-rattle-markets",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/15/bitcoin-tumbles-below-usd79-000-as-rising-bond-yields-inflation-worries-rattle-markets",
-    "titleFingerprint": "c0c4dd577857550e26e5633167a5660d36448e1d",
-    "dedupKeys": [
-      "315f5547245c98e51a9aa61022f3132937409376",
-      "c0c4dd577857550e26e5633167a5660d36448e1d",
-      "2b6bcc76eaf649e6ca241ecef6e2bf8341928f05"
-    ],
-    "imageUrl": "/images/articles/315f5547245c.png",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 7만9천달러 아래 급락, 국채금리·인플레 우려에 시장 흔들",
-        "excerpt": "비트코인이 국채금리 상승과 인플레이션 우려로 7만9천달러 아래로 떨어졌고, 주식·금·암호화폐가 동반 약세를 보인 가운데 원유는 100달러를 넘어섰다.",
-        "body": "비트코인이 국채금리 상승과 인플레이션 우려가 금융시장을 압박하면서 7만9천달러 아래로 하락했다. 시장 전반에서는 주식, 금, 암호화폐가 함께 밀렸고, 반대로 원유 가격은 100달러를 넘어섰다. 투자자들은 물가 압력이 이어질 수 있다는 불안 속에 연방준비제도의 금리 인상 전망을 빠르게 다시 반영했다. 안전자산과 위험자산이 동시에 흔들린 이번 흐름은 금리와 인플레이션 변수가 암호화폐 시장에도 직접적인 압력으로 작용하고 있음을 보여준다. 출처: coindesk.com."
-      },
-      "en": {
-        "title": "Bitcoin Falls Below $79,000 as Bond Yields and Inflation Fears Hit Markets",
-        "excerpt": "Bitcoin dropped below $79,000 as rising bond yields and inflation worries pressured markets, while stocks, gold and crypto slid and crude oil topped $100.",
-        "body": "Bitcoin fell below $79,000 as rising bond yields and inflation concerns weighed on financial markets. Across markets, stocks, gold and cryptocurrencies moved lower, while crude oil prices climbed above $100. Traders quickly repriced expectations for Federal Reserve rate hikes as worries grew that price pressures could persist. The simultaneous weakness in safe-haven and risk assets showed how interest-rate and inflation concerns were applying direct pressure to the crypto market. Source: coindesk.com."
-      },
-      "ja": {
-        "title": "ビットコイン7万9000ドル割れ、国債利回り上昇とインフレ懸念が重荷",
-        "excerpt": "国債利回りの上昇とインフレ懸念を受け、ビットコインは7万9000ドルを下回り、株式・金・暗号資産が下落、原油は100ドルを超えた。",
-        "body": "国債利回りの上昇とインフレ懸念が金融市場を圧迫する中、ビットコインは7万9000ドルを下回った。市場全体では株式、金、暗号資産がそろって下落し、一方で原油価格は100ドルを超えた。物価圧力が続く可能性への不安から、トレーダーは米連邦準備制度理事会による利上げ見通しを急速に織り込み直した。安全資産とリスク資産が同時に揺れた今回の動きは、金利とインフレの要因が暗号資産市場にも直接的な圧力となっていることを示している。出典: coindesk.com。"
-      },
-      "zh": {
-        "title": "比特币跌破7.9万美元，债券收益率上升与通胀担忧冲击市场",
-        "excerpt": "在债券收益率上升和通胀担忧影响下，比特币跌破7.9万美元，股票、黄金和加密货币同步下滑，原油价格升破100美元。",
-        "body": "随着债券收益率上升和通胀担忧压制金融市场，比特币跌破7.9万美元。市场整体承压，股票、黄金和加密货币均走低，而原油价格则升至100美元上方。由于担心物价压力可能持续，交易员迅速重新定价美联储加息预期。安全资产与风险资产同时波动，显示利率和通胀因素正对加密货币市场形成直接压力。来源: coindesk.com。"
-      },
-      "es": {
-        "title": "Bitcoin cae por debajo de 79.000 dólares por rendimientos e inflación",
-        "excerpt": "Bitcoin cayó por debajo de 79.000 dólares por el alza de los rendimientos de bonos y temores de inflación, mientras acciones, oro y cripto bajaron y el crudo superó 100 dólares.",
-        "body": "Bitcoin cayó por debajo de 79.000 dólares mientras el aumento de los rendimientos de los bonos y las preocupaciones por la inflación presionaban a los mercados financieros. En el mercado amplio, las acciones, el oro y las criptomonedas retrocedieron, mientras que el petróleo crudo superó los 100 dólares. Los operadores reajustaron rápidamente sus expectativas sobre subidas de tasas de la Reserva Federal ante el temor de que las presiones de precios persistan. La caída simultánea de activos refugio y de riesgo muestra que las tasas y la inflación también presionan directamente al mercado cripto. Fuente: coindesk.com."
-      },
-      "pt": {
-        "title": "Bitcoin cai abaixo de US$ 79 mil com juros dos títulos e inflação no radar",
-        "excerpt": "O Bitcoin caiu abaixo de US$ 79 mil com alta dos rendimentos dos títulos e temores de inflação, enquanto ações, ouro e criptos recuaram e o petróleo passou de US$ 100.",
-        "body": "O Bitcoin caiu abaixo de US$ 79 mil enquanto a alta dos rendimentos dos títulos e as preocupações com inflação pressionavam os mercados financeiros. No mercado em geral, ações, ouro e criptomoedas recuaram, enquanto o petróleo bruto superou US$ 100. Operadores rapidamente reajustaram as expectativas para aumentos de juros pelo Federal Reserve diante do receio de que a pressão sobre os preços continue. A fraqueza simultânea em ativos de proteção e de risco mostra que juros e inflação também exercem pressão direta sobre o mercado cripto. Fonte: coindesk.com."
-      },
-      "de": {
-        "title": "Bitcoin fällt unter 79.000 Dollar, Renditen und Inflationssorgen belasten",
-        "excerpt": "Bitcoin fiel unter 79.000 Dollar, da steigende Anleiherenditen und Inflationssorgen die Märkte belasteten; Aktien, Gold und Krypto gaben nach, Öl stieg über 100 Dollar.",
-        "body": "Bitcoin fiel unter 79.000 Dollar, während steigende Anleiherenditen und Inflationssorgen die Finanzmärkte belasteten. Marktweit gaben Aktien, Gold und Kryptowährungen nach, während der Rohölpreis über 100 Dollar stieg. Händler preisten die Erwartungen an Zinserhöhungen der US-Notenbank rasch neu ein, da die Sorge wuchs, dass der Preisdruck anhalten könnte. Dass sichere Anlagen und Risikoanlagen zugleich unter Druck gerieten, zeigt, wie stark Zins- und Inflationsfaktoren auch direkt auf den Kryptomarkt wirken. Quelle: coindesk.com."
-      },
-      "fr": {
-        "title": "Bitcoin passe sous 79 000 dollars, rendements et inflation secouent les marchés",
-        "excerpt": "Le bitcoin est tombé sous 79 000 dollars sous l’effet de la hausse des rendements obligataires et des craintes d’inflation, tandis qu’actions, or et cryptos reculaient et que le pétrole dépassait 100 dollars.",
-        "body": "Le bitcoin est tombé sous 79 000 dollars alors que la hausse des rendements obligataires et les inquiétudes liées à l’inflation pesaient sur les marchés financiers. Sur l’ensemble des marchés, les actions, l’or et les cryptomonnaies ont reculé, tandis que le pétrole brut a dépassé 100 dollars. Les traders ont rapidement réévalué leurs attentes concernant les hausses de taux de la Réserve fédérale, face à la crainte d’une persistance des pressions sur les prix. La faiblesse simultanée des actifs refuges et risqués montre que taux et inflation exercent aussi une pression directe sur le marché crypto. Source: coindesk.com."
-      },
-      "ar": {
-        "title": "بيتكوين تهبط دون 79 ألف دولار مع صعود العوائد ومخاوف التضخم",
-        "excerpt": "هبطت بيتكوين دون 79 ألف دولار مع ضغط ارتفاع عوائد السندات ومخاوف التضخم على الأسواق، بينما تراجعت الأسهم والذهب والعملات المشفرة وتجاوز النفط 100 دولار.",
-        "body": "هبطت بيتكوين دون 79 ألف دولار مع ضغط ارتفاع عوائد السندات ومخاوف التضخم على الأسواق المالية. وعلى نطاق أوسع، تراجعت الأسهم والذهب والعملات المشفرة، في حين تجاوز سعر النفط الخام 100 دولار. وأعاد المتداولون سريعاً تسعير توقعات رفع الفائدة من جانب مجلس الاحتياطي الفيدرالي وسط مخاوف من استمرار ضغوط الأسعار. ويظهر تراجع أصول الملاذ الآمن والأصول عالية المخاطر في الوقت نفسه أن عوامل الفائدة والتضخم تضغط مباشرة أيضاً على سوق العملات المشفرة. المصدر: coindesk.com."
-      },
-      "hi": {
-        "title": "बिटकॉइन 79,000 डॉलर से नीचे फिसला, बॉन्ड यील्ड और महंगाई चिंता से दबाव",
-        "excerpt": "बॉन्ड यील्ड बढ़ने और महंगाई की चिंता के बीच बिटकॉइन 79,000 डॉलर से नीचे गिरा; शेयर, सोना और क्रिप्टो फिसले, जबकि कच्चा तेल 100 डॉलर से ऊपर पहुंचा।",
-        "body": "बॉन्ड यील्ड में बढ़ोतरी और महंगाई की चिंता से वित्तीय बाजारों पर दबाव बढ़ा और बिटकॉइन 79,000 डॉलर से नीचे गिर गया। व्यापक बाजार में शेयर, सोना और क्रिप्टोकरेंसी कमजोर हुए, जबकि कच्चे तेल की कीमत 100 डॉलर से ऊपर चली गई। कीमतों का दबाव जारी रह सकने की आशंका के बीच ट्रेडरों ने फेडरल रिजर्व की दर वृद्धि से जुड़ी उम्मीदों का तेजी से पुनर्मूल्यांकन किया। सुरक्षित और जोखिम वाली संपत्तियों में एक साथ कमजोरी दिखाती है कि ब्याज दर और महंगाई के कारक क्रिप्टो बाजार पर भी सीधा दबाव डाल रहे हैं। स्रोत: coindesk.com."
-      },
-      "id": {
-        "title": "Bitcoin Turun di Bawah US$79.000, Imbal Hasil dan Inflasi Tekan Pasar",
-        "excerpt": "Bitcoin jatuh di bawah US$79.000 karena kenaikan imbal hasil obligasi dan kekhawatiran inflasi, sementara saham, emas dan kripto melemah dan minyak mentah menembus US$100.",
-        "body": "Bitcoin jatuh di bawah US$79.000 ketika kenaikan imbal hasil obligasi dan kekhawatiran inflasi menekan pasar keuangan. Di pasar yang lebih luas, saham, emas, dan aset kripto sama-sama melemah, sementara harga minyak mentah naik melewati US$100. Para trader dengan cepat menyesuaikan ulang ekspektasi terhadap kenaikan suku bunga Federal Reserve karena kekhawatiran tekanan harga dapat berlanjut. Pelemahan serentak pada aset aman dan aset berisiko menunjukkan bahwa faktor suku bunga dan inflasi juga memberi tekanan langsung pada pasar kripto. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "895b9a6d6bbb",
-    "slug": "crypto-market-structure-bill-clears-key-hurdle-as-ethics-deb-474700",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T15:30:25.122Z",
-    "updatedAt": "2026-05-15T15:30:25.122Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/coindesk-news/2026/05/15/crypto-market-structure-bill-clears-key-hurdle-as-ethics-debate-looms-over-floor-vote",
-    "canonicalUrl": "https://www.coindesk.com/coindesk-news/2026/05/15/crypto-market-structure-bill-clears-key-hurdle-as-ethics-debate-looms-over-floor-vote",
-    "titleFingerprint": "0458bd45838f6e77b98a6c178714618507c9cd13",
-    "dedupKeys": [
-      "895b9a6d6bbbf5d1077bbc864a42dbaeb9226723",
-      "0458bd45838f6e77b98a6c178714618507c9cd13",
-      "bc4696b1cf3c795ea7830d2d4d6d025ee83c2ac3"
-    ],
-    "imageUrl": "/images/articles/895b9a6d6bbb.png",
-    "i18n": {
-      "ko": {
-        "title": "클래리티법, 상원 은행위 통과…암호화폐 시장구조 표결 주목",
-        "excerpt": "미 상원 은행위원회가 5월 14일 초당적 지지로 클래리티법을 통과시키며, 암호화폐 시장구조 법안의 본회의 표결 가능성이 수주 내 열렸다.",
-        "body": "미국 상원 은행위원회는 5월 14일 디지털자산 시장구조 법안인 클래리티법을 초당적 지지로 통과시켰다. 이로써 암호화폐 규제 체계를 정비하려는 법안은 본회의 표결을 향한 핵심 절차를 넘었다. 법안은 디지털자산 시장의 감독 구조를 명확히 하는 데 초점을 맞추며, 위원회 단계에서 여야 지지를 확보했다. 다만 본회의 표결을 앞두고 의원들의 암호화폐 이해관계와 관련한 윤리 논쟁이 남아 있어 최종 처리까지는 추가 협의가 필요하다. coindesk.com에 따르면 전체 상원 표결은 수주 내 추진될 가능성이 있다."
-      },
-      "en": {
-        "title": "Clarity Act clears Senate panel as crypto market vote nears",
-        "excerpt": "The Senate Banking Committee advanced the Clarity Act on May 14 with bipartisan support, moving the crypto market structure bill toward a possible floor vote within weeks.",
-        "body": "The U.S. Senate Banking Committee advanced the Clarity Act on May 14 with bipartisan support, clearing a key procedural hurdle for crypto market structure legislation. The bill is aimed at clarifying the regulatory framework for digital asset markets and now moves closer to a potential vote by the full Senate. Its progress shows cross-party support at the committee stage, but the floor debate is expected to include unresolved ethics questions tied to lawmakers’ crypto interests. According to coindesk.com, a full Senate vote could come within weeks."
-      },
-      "ja": {
-        "title": "クラリティ法が上院委員会通過、暗号資産市場法案の採決焦点",
-        "excerpt": "米上院銀行委員会は5月14日、超党派の支持でクラリティ法を前進させ、暗号資産市場構造法案の本会議採決が数週間内に見込まれる状況となった。",
-        "body": "米上院銀行委員会は5月14日、デジタル資産の市場構造を定めるクラリティ法を超党派の支持で通過させた。これにより、暗号資産規制の枠組みを整備する法案は本会議採決に向けた重要な手続きを越えた。法案はデジタル資産市場の監督体制を明確にすることを目的としており、委員会段階では与野党の支持を得た。ただし本会議を前に、議員の暗号資産関連の利害関係をめぐる倫理論争が残っており、最終処理には追加協議が必要となる。coindesk.comによると、上院全体での採決は数週間内に行われる可能性がある。"
-      },
-      "zh": {
-        "title": "CLARITY法案闯过参院委员会，加密市场结构投票受关注",
-        "excerpt": "美国参议院银行委员会5月14日以两党支持推进CLARITY法案，使加密市场结构立法距离数周内可能举行的全院表决更近一步。",
-        "body": "美国参议院银行委员会5月14日以两党支持推进数字资产市场结构法案CLARITY Act，扫清了加密监管立法的一项关键程序障碍。该法案旨在明确数字资产市场的监管框架，并因此更接近参议院全院可能举行的表决。委员会阶段的通过显示出跨党派支持，但在进入全院辩论前，围绕议员加密资产相关利益关系的伦理争议仍未解决，最终推进仍需要进一步协商。据coindesk.com报道，参议院全院表决可能在数周内展开。"
-      },
-      "es": {
-        "title": "Clarity Act supera comité del Senado y acerca voto cripto clave",
-        "excerpt": "El Comité Bancario del Senado de EE. UU. aprobó el 14 de mayo el Clarity Act con apoyo bipartidista, acercando la ley de estructura del mercado cripto a una votación en semanas.",
-        "body": "El Comité Bancario del Senado de Estados Unidos aprobó el 14 de mayo el Clarity Act con apoyo bipartidista, superando un trámite clave para la legislación sobre estructura del mercado cripto. El proyecto busca aclarar el marco regulatorio de los mercados de activos digitales y ahora queda más cerca de una posible votación del pleno del Senado. El avance muestra respaldo de ambos partidos en la etapa de comité, aunque el debate en el pleno seguirá marcado por cuestiones éticas sobre intereses cripto de legisladores. Según coindesk.com, la votación completa del Senado podría llegar en las próximas semanas."
-      },
-      "pt": {
-        "title": "Clarity Act passa em comitê do Senado e aproxima voto cripto",
-        "excerpt": "O Comitê Bancário do Senado dos EUA aprovou em 14 de maio o Clarity Act com apoio bipartidário, aproximando o projeto de estrutura do mercado cripto de votação em semanas.",
-        "body": "O Comitê Bancário do Senado dos Estados Unidos aprovou em 14 de maio o Clarity Act com apoio bipartidário, superando uma etapa central para a legislação de estrutura do mercado cripto. O projeto busca esclarecer o marco regulatório dos mercados de ativos digitais e agora se aproxima de uma possível votação no plenário do Senado. O avanço indica apoio dos dois partidos na comissão, mas o debate em plenário ainda deve enfrentar questões éticas ligadas a interesses de legisladores em cripto. Segundo coindesk.com, a votação pelo Senado completo pode ocorrer nas próximas semanas."
-      },
-      "de": {
-        "title": "Clarity Act passiert Senatsausschuss, Krypto-Abstimmung rückt näher",
-        "excerpt": "Der Bankenausschuss des US-Senats brachte den Clarity Act am 14. Mai mit parteiübergreifender Unterstützung voran und ebnete den Weg für eine mögliche Plenarabstimmung binnen Wochen.",
-        "body": "Der Bankenausschuss des US-Senats hat den Clarity Act am 14. Mai mit parteiübergreifender Unterstützung gebilligt und damit eine zentrale Hürde für ein Gesetz zur Struktur des Kryptomarkts genommen. Der Entwurf soll den Regulierungsrahmen für Märkte digitaler Vermögenswerte klarer fassen und rückt nun näher an eine mögliche Abstimmung im gesamten Senat. Die Zustimmung im Ausschuss zeigt Unterstützung aus beiden Parteien, doch vor der Plenardebatte bleiben Ethikfragen zu Krypto-Interessen von Abgeordneten offen. Laut coindesk.com könnte die Abstimmung im Senat innerhalb weniger Wochen stattfinden."
-      },
-      "fr": {
-        "title": "Le Clarity Act franchit le Sénat et rapproche le vote crypto",
-        "excerpt": "La commission bancaire du Sénat américain a adopté le 14 mai le Clarity Act avec un soutien bipartisan, rapprochant le texte sur la structure du marché crypto d’un vote sous quelques semaines.",
-        "body": "La commission bancaire du Sénat américain a fait avancer le 14 mai le Clarity Act avec un soutien bipartisan, franchissant une étape clé pour la législation sur la structure du marché crypto. Le texte vise à clarifier le cadre réglementaire des marchés d’actifs numériques et se rapproche désormais d’un possible vote en séance plénière du Sénat. Cette avancée montre un appui des deux partis au stade de la commission, mais le débat final reste lié à des questions d’éthique concernant les intérêts crypto de certains élus. Selon coindesk.com, le vote de l’ensemble du Sénat pourrait intervenir dans les prochaines semaines."
-      },
-      "ar": {
-        "title": "قانون كلاريتي يتجاوز لجنة الشيوخ ويقرب تصويت تنظيم الكريبتو",
-        "excerpt": "أقرت لجنة البنوك في مجلس الشيوخ الأميركي قانون كلاريتي في 14 مايو بدعم من الحزبين، ما يقرّب مشروع هيكلة سوق العملات المشفرة من تصويت كامل خلال أسابيع.",
-        "body": "أقرت لجنة البنوك في مجلس الشيوخ الأميركي في 14 مايو مشروع قانون كلاريتي، المتعلق بهيكل سوق الأصول الرقمية، بدعم من الحزبين. وبذلك تجاوز مشروع تنظيم سوق العملات المشفرة عقبة إجرائية رئيسية في طريقه إلى تصويت محتمل في المجلس بكامل أعضائه. يركز المشروع على توضيح إطار الرقابة على أسواق الأصول الرقمية، وقد حصل في مرحلة اللجنة على دعم من الجانبين. لكن قبل التصويت العام، لا تزال هناك أسئلة أخلاقية مرتبطة بمصالح بعض المشرعين في العملات المشفرة، ما يتطلب مزيدا من النقاش. ووفقا لـ coindesk.com، قد يجري التصويت الكامل في غضون أسابيع."
-      },
-      "hi": {
-        "title": "Clarity Act सीनेट समिति से पास, क्रिप्टो बाजार वोट नजदीक",
-        "excerpt": "अमेरिकी सीनेट बैंकिंग समिति ने 14 मई को द्विदलीय समर्थन से Clarity Act आगे बढ़ाया, जिससे क्रिप्टो बाजार संरचना विधेयक पर पूर्ण सीनेट वोट कुछ हफ्तों में संभव हुआ।",
-        "body": "अमेरिकी सीनेट बैंकिंग समिति ने 14 मई को डिजिटल एसेट बाजार संरचना से जुड़े Clarity Act को द्विदलीय समर्थन के साथ आगे बढ़ाया। इससे क्रिप्टो नियामकीय ढांचा स्पष्ट करने वाला यह विधेयक पूर्ण सीनेट वोट की दिशा में एक अहम प्रक्रिया पार कर गया। विधेयक का उद्देश्य डिजिटल एसेट बाजारों की निगरानी संरचना को स्पष्ट करना है और समिति स्तर पर इसे दोनों दलों से समर्थन मिला। हालांकि पूर्ण सदन में मतदान से पहले सांसदों के क्रिप्टो हितों से जुड़ी नैतिक बहस बाकी है, इसलिए अंतिम मंजूरी के लिए और बातचीत जरूरी होगी। coindesk.com के अनुसार पूर्ण सीनेट वोट कुछ हफ्तों में हो सकता है।"
-      },
-      "id": {
-        "title": "Clarity Act lolos komite Senat, vote struktur pasar kripto dekat",
-        "excerpt": "Komite Perbankan Senat AS pada 14 Mei meloloskan Clarity Act dengan dukungan bipartisan, membuka peluang vote penuh atas RUU struktur pasar kripto dalam beberapa pekan.",
-        "body": "Komite Perbankan Senat Amerika Serikat pada 14 Mei meloloskan Clarity Act dengan dukungan bipartisan, melewati tahapan penting bagi legislasi struktur pasar kripto. RUU ini bertujuan memperjelas kerangka regulasi untuk pasar aset digital dan kini bergerak lebih dekat ke kemungkinan vote penuh di Senat. Dukungan di tingkat komite menunjukkan persetujuan lintas partai, tetapi perdebatan di lantai Senat masih dibayangi isu etika terkait kepentingan kripto para legislator. Menurut coindesk.com, vote penuh Senat dapat digelar dalam beberapa pekan mendatang."
-      }
-    }
-  },
-  {
-    "id": "85ea13013d1f",
-    "slug": "south-korea-plans-july-rules-for-tokenized-securities-966174",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T14:39:28.871Z",
-    "updatedAt": "2026-05-15T14:39:28.871Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/south-korea-announce-tokenized-securities-laws-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/south-korea-announce-tokenized-securities-laws-july",
-    "titleFingerprint": "46fc3985155d46b1670c661bfc6bf74e7bd5e0d9",
-    "dedupKeys": [
-      "85ea13013d1f43381e7467e5ab5515ce5a52c07b",
-      "46fc3985155d46b1670c661bfc6bf74e7bd5e0d9",
-      "40b8056cbf7a7371d14c19fde2c3aad4d4c0f5a2"
-    ],
-    "imageUrl": "/images/articles/85ea13013d1f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국 토큰화 증권 7월 세부 규칙 추진, 2027년 제도 시행 전 정비",
-        "excerpt": "한국 금융위원회(FSC)는 블록체인 기반 증권 법적 틀이 2027년 2월 시행되기 전, 7월 토큰화 증권 세부 규칙 마련을 준비하고 있다.",
-        "body": "한국 금융위원회(FSC)가 토큰화 증권에 대한 세부 규칙을 7월 마련하는 방안을 준비하고 있다. 이는 블록체인 기반 증권을 다루는 법적 체계가 2027년 2월 시행되기 전에 필요한 규율을 정비하려는 움직임이다. 이번 규칙은 토큰화 증권이 기존 증권 제도와 어떻게 연결될지에 대한 구체적 기준을 마련하는 데 초점이 맞춰진다. 법적 프레임워크 시행 전 세부 기준이 제시되면 시장 참여자들은 제도 적용 방향을 더 명확히 파악할 수 있다. 출처: cointelegraph.com."
-      },
-      "en": {
-        "title": "South Korea Tokenized Securities Rules Planned for July Before 2027 Framework",
-        "excerpt": "South Korea’s FSC is preparing detailed tokenized securities rules for July before a legal framework for blockchain-based securities takes effect in February 2027.",
-        "body": "South Korea’s Financial Services Commission (FSC) is preparing to introduce detailed rules for tokenized securities in July. The move comes before a legal framework for blockchain-based securities is set to take effect in February 2027. The rules are expected to focus on detailed standards for how tokenized securities will fit within the existing securities system. If the detailed guidance is presented before the legal framework begins, market participants will have a clearer view of how the rules may apply. Source: cointelegraph.com."
-      },
-      "ja": {
-        "title": "韓国、トークン化証券の7月規則を準備 2027年制度開始前に整備",
-        "excerpt": "韓国の金融委員会（FSC）は、ブロックチェーン基盤の証券法制度が2027年2月に施行される前に、7月の詳細規則策定を準備している。",
-        "body": "韓国の金融委員会（FSC）は、トークン化証券に関する詳細規則を7月に整備する準備を進めている。これは、ブロックチェーン基盤の証券を扱う法的枠組みが2027年2月に施行される前に、必要な規律を整える動きだ。今回の規則は、トークン化証券が既存の証券制度とどのように接続されるかについて、具体的な基準を示すことに焦点を当てる。施行前に詳細基準が示されれば、市場参加者は制度の適用方向をより明確に把握できる。出典: cointelegraph.com."
-      },
-      "zh": {
-        "title": "韩国拟7月出台代币化证券细则，为2027年制度实施铺路",
-        "excerpt": "韩国金融委员会（FSC）正准备在7月制定代币化证券细则，以配合区块链证券法律框架于2027年2月生效。",
-        "body": "韩国金融委员会（FSC）正准备在7月推出代币化证券的详细规则。此举发生在区块链基础证券法律框架计划于2027年2月生效之前，目的在于提前完善相关监管安排。该规则将重点说明代币化证券如何与现有证券制度衔接，并提出更具体的标准。若详细指引能在法律框架实施前公布，市场参与者将能更清楚了解制度适用方向。来源: cointelegraph.com."
-      },
-      "es": {
-        "title": "Corea del Sur prepara reglas de valores tokenizados para julio antes de 2027",
-        "excerpt": "La FSC de Corea del Sur prepara reglas detalladas para valores tokenizados en julio, antes de que el marco legal de valores blockchain entre en vigor en febrero de 2027.",
-        "body": "La Comisión de Servicios Financieros de Corea del Sur (FSC) prepara reglas detalladas para los valores tokenizados en julio. La medida llega antes de que el marco legal para valores basados en blockchain entre en vigor en febrero de 2027. Las reglas se centrarán en fijar criterios concretos sobre cómo los valores tokenizados se conectarán con el sistema de valores existente. Si las directrices se presentan antes de la aplicación del marco legal, los participantes del mercado podrán comprender con mayor claridad la dirección regulatoria. Fuente: cointelegraph.com."
-      },
-      "pt": {
-        "title": "Coreia do Sul prepara regras de valores tokenizados para julho antes de 2027",
-        "excerpt": "A FSC da Coreia do Sul prepara regras detalhadas para valores mobiliários tokenizados em julho, antes do marco legal de ativos em blockchain entrar em vigor em fevereiro de 2027.",
-        "body": "A Comissão de Serviços Financeiros da Coreia do Sul (FSC) prepara regras detalhadas para valores mobiliários tokenizados em julho. A iniciativa ocorre antes de o marco legal para valores baseados em blockchain entrar em vigor em fevereiro de 2027. As regras devem se concentrar em definir critérios concretos sobre como os valores tokenizados se conectam ao sistema de valores mobiliários existente. Com diretrizes detalhadas antes da vigência do marco legal, participantes do mercado poderão entender melhor a direção da aplicação regulatória. Fonte: cointelegraph.com."
-      },
-      "de": {
-        "title": "Südkorea plant Juli-Regeln für tokenisierte Wertpapiere vor Rahmen 2027",
-        "excerpt": "Südkoreas FSC bereitet detaillierte Regeln für tokenisierte Wertpapiere im Juli vor, bevor der Rechtsrahmen für Blockchain-Wertpapiere im Februar 2027 in Kraft tritt.",
-        "body": "Südkoreas Finanzaufsicht FSC bereitet detaillierte Regeln für tokenisierte Wertpapiere im Juli vor. Der Schritt erfolgt, bevor ein Rechtsrahmen für blockchainbasierte Wertpapiere im Februar 2027 in Kraft treten soll. Die Regeln sollen konkrete Standards dafür liefern, wie tokenisierte Wertpapiere mit dem bestehenden Wertpapiersystem verbunden werden. Werden die detaillierten Vorgaben vor Beginn des Rechtsrahmens vorgestellt, können Marktteilnehmer die künftige Anwendung der Regeln klarer einschätzen. Quelle: cointelegraph.com."
-      },
-      "fr": {
-        "title": "La Corée du Sud prépare des règles de juillet pour les titres tokenisés",
-        "excerpt": "La FSC sud-coréenne prépare des règles détaillées sur les titres tokenisés pour juillet, avant l’entrée en vigueur du cadre légal des titres blockchain en février 2027.",
-        "body": "La Commission des services financiers de Corée du Sud (FSC) prépare des règles détaillées pour les titres tokenisés en juillet. Cette démarche intervient avant l’entrée en vigueur, prévue en février 2027, d’un cadre légal pour les titres fondés sur la blockchain. Les règles devraient préciser comment les titres tokenisés s’articuleront avec le système de valeurs mobilières existant. Si ces critères détaillés sont présentés avant l’application du cadre légal, les acteurs du marché auront une vision plus claire de l’orientation réglementaire. Source: cointelegraph.com."
-      },
-      "ar": {
-        "title": "كوريا الجنوبية تعد قواعد يوليو للأوراق المالية المرمزة قبل إطار 2027",
-        "excerpt": "تستعد لجنة الخدمات المالية في كوريا الجنوبية لإعداد قواعد تفصيلية للأوراق المالية المرمزة في يوليو قبل بدء إطار قانوني لأوراق البلوكشين في فبراير 2027.",
-        "body": "تستعد لجنة الخدمات المالية في كوريا الجنوبية (FSC) لوضع قواعد تفصيلية للأوراق المالية المرمزة في يوليو. وتأتي هذه الخطوة قبل دخول الإطار القانوني للأوراق المالية القائمة على البلوكشين حيز التنفيذ في فبراير 2027. وتركز القواعد على تحديد معايير أوضح لكيفية ارتباط الأوراق المالية المرمزة بالنظام القائم للأوراق المالية. وإذا صدرت الإرشادات التفصيلية قبل بدء الإطار القانوني، فسيتمكن المشاركون في السوق من فهم اتجاه التطبيق التنظيمي بصورة أوضح. المصدر: cointelegraph.com."
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया जुलाई में टोकनाइज्ड सिक्योरिटीज नियम लाने की तैयारी में",
-        "excerpt": "दक्षिण कोरिया की FSC फरवरी 2027 में ब्लॉकचेन आधारित सिक्योरिटीज कानूनी ढांचा लागू होने से पहले जुलाई में टोकनाइज्ड सिक्योरिटीज के विस्तृत नियम तैयार कर रही है।",
-        "body": "दक्षिण कोरिया का वित्तीय सेवा आयोग (FSC) जुलाई में टोकनाइज्ड सिक्योरिटीज के लिए विस्तृत नियम तैयार करने की योजना बना रहा है। यह कदम ब्लॉकचेन आधारित सिक्योरिटीज के कानूनी ढांचे के फरवरी 2027 में लागू होने से पहले उठाया जा रहा है। इन नियमों का ध्यान इस बात पर होगा कि टोकनाइज्ड सिक्योरिटीज मौजूदा सिक्योरिटीज व्यवस्था से कैसे जुड़ेंगी। कानूनी ढांचा लागू होने से पहले विस्तृत मानक आने पर बाजार प्रतिभागी नियामकीय दिशा को अधिक स्पष्ट रूप से समझ सकेंगे। स्रोत: cointelegraph.com."
-      },
-      "id": {
-        "title": "Korea Selatan Siapkan Aturan Sekuritas Tokenisasi Juli Sebelum 2027",
-        "excerpt": "FSC Korea Selatan menyiapkan aturan rinci sekuritas tokenisasi pada Juli sebelum kerangka hukum sekuritas berbasis blockchain berlaku pada Februari 2027.",
-        "body": "Komisi Jasa Keuangan Korea Selatan (FSC) sedang menyiapkan aturan rinci untuk sekuritas tokenisasi pada Juli. Langkah ini dilakukan sebelum kerangka hukum untuk sekuritas berbasis blockchain mulai berlaku pada Februari 2027. Aturan tersebut akan berfokus pada standar konkret mengenai bagaimana sekuritas tokenisasi terhubung dengan sistem sekuritas yang sudah ada. Jika pedoman rinci disampaikan sebelum kerangka hukum berlaku, pelaku pasar dapat memahami arah penerapan regulasi dengan lebih jelas. Sumber: cointelegraph.com."
       }
     }
   }
