@@ -1,15 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#dc2626"/>
-      <stop offset="1" stop-color="#0e1116"/>
+      <stop offset="0" stop-color="#0aa06e"/>
+      <stop offset="1" stop-color="#11151c"/>
     </linearGradient>
-    <pattern id="p" width="60" height="60" patternUnits="userSpaceOnUse">
-      <circle cx="30" cy="30" r="1.5" fill="rgba(255,255,255,0.15)"/>
+    <pattern id="p" width="64" height="64" patternUnits="userSpaceOnUse">
+      <circle cx="32" cy="32" r="1.6" fill="rgba(255,255,255,0.14)"/>
     </pattern>
   </defs>
   <rect width="1200" height="630" fill="url(#g)"/>
   <rect width="1200" height="630" fill="url(#p)"/>
-  <text x="60" y="560" font-family="-apple-system,Helvetica,sans-serif" font-size="42" font-weight="700" fill="white" letter-spacing="0.04em" opacity="0.95">BREAKING</text>
-  <line x1="60" y1="495" x2="200" y2="495" stroke="white" stroke-width="3" opacity="0.9"/>
+  <text x="64" y="96" font-family="-apple-system,'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="30" font-weight="800" fill="rgba(255,255,255,0.92)" letter-spacing="0.02em">크립토데일리</text>
+  <line x1="64" y1="486" x2="196" y2="486" stroke="white" stroke-width="4" opacity="0.95"/>
+  <text x="62" y="560" font-family="-apple-system,Helvetica,sans-serif" font-size="62" font-weight="800" fill="white" letter-spacing="0.03em">BREAKING</text>
 </svg>
