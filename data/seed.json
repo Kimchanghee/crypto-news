@@ -1,5 +1,164 @@
 [
   {
+    "id": "952c461f24e7",
+    "slug": "unverified-defi-contracts-linked-to-367m-in-losses-chainalys-109287",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-06-10T01:17:45.501Z",
+    "updatedAt": "2026-06-10T01:17:45.501Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://cointelegraph.com/news/ai-powered-attackers-stole-367m-from-unverified-defi-contracts-chainalysis",
+    "titleFingerprint": "98f98f435777b2da552c539e9d120584fcc94d2b",
+    "dedupKeys": [
+      "952c461f24e7e791182bbdafdcd19b21115a8a2c",
+      "98f98f435777b2da552c539e9d120584fcc94d2b",
+      "d86aa0244571a118724313ab98066d8604c10672"
+    ],
+    "imageUrl": "/images/articles/952c461f24e7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미검증 DeFi 컨트랙트 공격 확산, 1월 이후 4건서 3,670만달러 피해",
+        "excerpt": "올해 1월 이후 미검증 DeFi 스마트 컨트랙트를 겨냥한 공격이 뚜렷하게 늘며 4건의 익스플로잇에서 총 3,670만달러 규모의 피해가 발생했다.",
+        "metaDescription": "미검증 DeFi 컨트랙트 공격이 1월 이후 4건에서 3,670만달러 피해를 냈다. 국내 투자자와 프로젝트의 보안 검증 필요성이 커지고 있다.",
+        "summary": "미검증 DeFi 스마트 컨트랙트가 해커들의 주요 표적으로 떠올랐다. 올해 1월 이후 확인된 4건의 익스플로잇 피해액은 3,670만달러에 달한다. 원화 환산 시 약 495억원 규모로, 국내 DeFi 이용자와 프로젝트에도 직접적인 보안 경고가 되고 있다.",
+        "body": "미검증 DeFi 스마트 컨트랙트를 겨냥한 공격이 새로운 주요 해킹 패턴으로 굳어지고 있다. 올해 1월 이후 확인된 관련 익스플로잇은 4건이며, 피해액은 총 3,670만달러에 이른다. 환율 1달러 1,350원을 적용하면 약 495억원 규모다. 피해는 단순한 코드 오류를 넘어, 외부 검증을 거치지 않은 계약 구조와 공개되지 않은 로직이 결합될 때 얼마나 큰 손실로 번질 수 있는지를 보여준다.\n\n## 미검증 컨트랙트가 왜 표적이 됐나\nDeFi 서비스는 예치, 대출, 스왑, 보상 분배를 스마트 컨트랙트로 자동 처리한다. 이 과정에서 컨트랙트 코드가 검증되지 않으면 이용자는 실제 작동 방식, 관리자 권한, 자금 이동 조건, 긴급 중지 장치의 존재 여부를 확인하기 어렵다. 해커는 바로 이 불투명성을 파고든다. 코드가 공개 검증되지 않은 컨트랙트는 취약점 분석이 어렵지만, 동시에 방어자와 이용자도 위험을 식별하기 어렵다. 공격자는 배포된 바이트코드, 트랜잭션 흐름, 권한 호출 내역을 추적해 취약한 경로를 찾고, 단기간에 유동성을 빼내는 방식으로 피해를 키운다.\n\n## 4건 3,670만달러 피해가 던지는 신호\n1월 이후 4건에서 3,670만달러가 빠져나간 것은 개별 사고의 합산을 넘어 시장 구조의 취약성을 드러낸다. 평균 피해액은 건당 약 917만달러, 원화로 약 124억원 수준이다. 특히 DeFi 시장에서는 한 컨트랙트가 여러 풀, 브리지, 보상 시스템과 연결되는 경우가 많아 작은 결함도 연쇄 손실로 확대될 수 있다. 검증되지 않은 컨트랙트가 높은 연환산수익률, 신규 토큰 보상, 초기 유동성 이벤트와 결합하면 투자자는 보안 확인보다 수익 기회에 먼저 반응하기 쉽다. 이 지점에서 공격자는 예치금이 빠르게 쌓이는 시간을 노린다.\n\n## 국내 투자자와 프로젝트의 영향\n국내 이용자에게도 이번 흐름은 직접적인 경고다. 해외 DeFi 프로토콜은 별도 가입 절차 없이 지갑 연결만으로 접근할 수 있고, 국내 커뮤니티와 텔레그램 채널을 통해 신규 풀 정보가 빠르게 확산된다. 그러나 국내 가상자산 이용자 보호 체계가 강화되고 있어도 탈중앙화 프로토콜의 스마트 컨트랙트 위험을 사전에 차단하는 데는 한계가 있다. 투자자는 컨트랙트 검증 여부, 감사 보고서, 관리자 권한, 락업 구조, TVL 급증 배경을 확인해야 한다. 프로젝트는 출시 속도보다 코드 공개, 제3자 감사, 버그바운티, 실시간 모니터링을 우선순위에 둬야 한다.\n\n미검증 컨트랙트 공격은 당분간 계속될 전망이다. DeFi 유동성이 회복될수록 해커는 검증 절차가 약한 신규 프로토콜과 복잡한 권한 구조를 가진 컨트랙트를 집중적으로 살필 가능성이 크다. 시장 신뢰를 지키는 핵심은 높은 수익률 홍보가 아니라 검증 가능한 코드와 투명한 위험 공시다. 국내 투자자 역시 DeFi 참여 전 ‘계약이 검증됐는가’라는 질문을 가장 먼저 던져야 한다.",
+        "keywords": [
+          "미검증 DeFi 컨트랙트",
+          "DeFi 해킹",
+          "스마트 컨트랙트 보안",
+          "체이널리시스",
+          "익스플로잇",
+          "가상자산 보안",
+          "디파이 피해",
+          "암호화폐 해킹",
+          "국내 가상자산 투자자",
+          "미검증 DeFi 컨트랙트 공격 확산,"
+        ],
+        "faq": [
+          {
+            "q": "미검증 DeFi 컨트랙트란 무엇인가?",
+            "a": "블록체인 탐색기 등에서 소스코드가 공개 검증되지 않았거나 외부 감사와 공개 검토가 부족한 스마트 컨트랙트를 말한다. 이용자는 실제 권한 구조와 자금 이동 조건을 확인하기 어렵다."
+          },
+          {
+            "q": "이번 피해 규모는 어느 정도인가?",
+            "a": "1월 이후 확인된 4건의 익스플로잇에서 총 3,670만달러가 탈취됐다. 환율 1달러 1,350원을 적용하면 약 495억원 규모다."
+          },
+          {
+            "q": "국내 투자자는 무엇을 확인해야 하나?",
+            "a": "컨트랙트 검증 여부, 보안 감사, 관리자 권한, 유동성 잠금 구조, TVL 급증 원인, 과도한 수익률 제시 여부를 확인해야 한다. 검증되지 않은 컨트랙트에는 예치 규모를 제한하는 접근이 필요하다."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "e8644c4ce052",
+    "slug": "sbi-shinsei-links-bank-deposits-to-crypto-rewards-in-japan-n-872066",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-06-10T01:17:06.929Z",
+    "updatedAt": "2026-06-10T01:17:06.929Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://cointelegraph.com/news/sbi-shinsei-bank-crypto-vouchers-deposit-interest-japan",
+    "titleFingerprint": "f9d3a31c487d74e967eb8edb8d3d4928d420cb19",
+    "dedupKeys": [
+      "e8644c4ce052dcb1efa908bc8bf8925f1d7c040b",
+      "f9d3a31c487d74e967eb8edb8d3d4928d420cb19",
+      "34c430cb59946c9f15e594938e23bf2083a22e6e"
+    ],
+    "imageUrl": "/images/articles/e8644c4ce052.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SBI신세이은행, 예금 고객에 비트코인·이더리움·XRP 보상 연동",
+        "excerpt": "SBI신세이은행이 일본 예금 고객을 대상으로 비트코인, 이더리움, XRP로 교환 가능한 바우처 보상을 도입하며 은행 예금과 암호화폐 거래 서비스를 직접 연결한다.",
+        "metaDescription": "SBI신세이은행이 예금 고객에게 비트코인·이더리움·XRP 교환 바우처를 제공한다. 일본 은행권의 예금-암호화폐 연계 전략과 한국 시장 영향을 짚었다.",
+        "summary": "SBI신세이은행이 예금 상품과 암호화폐 보상을 결합한다. 고객은 지급받은 바우처를 SBI VC 트레이드를 통해 비트코인, 이더리움, XRP로 교환할 수 있다. 은행 예금 기반 고객을 그룹 내 암호화폐 거래 서비스로 유입시키는 전략이다. 한국에서도 은행권 디지털자산 제휴 논의에 참고 사례가 될 전망이다.",
+        "body": "SBI신세이은행이 일본 예금 고객에게 암호화폐 보상을 제공하는 새 연계 모델을 도입한다. 고객은 은행 예금 이용 과정에서 받은 바우처를 SBI그룹의 암호화폐 거래 플랫폼 SBI VC 트레이드에서 비트코인, 이더리움, XRP로 교환할 수 있다. 전통 은행 예금과 디지털자산 거래 계정을 하나의 금융 생태계 안에서 연결하는 방식이다.\n\n## 예금 보상에 암호화폐를 붙인 SBI의 전략\n이번 구조의 핵심은 현금성 포인트나 단순 우대금리 대신 암호화폐 교환권을 보상 수단으로 배치했다는 점이다. 은행은 안정적 예금 고객 기반을 보유하고, 거래소는 신규 이용자와 거래 활성화가 필요하다. SBI신세이은행과 SBI VC 트레이드의 연결은 두 수요를 동시에 겨냥한다.\n\n대상 자산은 비트코인, 이더리움, XRP 3종이다. 비트코인은 디지털자산 시장의 대표 자산, 이더리움은 스마트계약 생태계의 핵심 자산, XRP는 일본 내 개인 투자자 인지도가 높은 결제 특화 자산으로 분류된다. 고객 입장에서는 예금과 별도로 현금을 추가 투입하지 않고 암호화폐 노출을 시작할 수 있다. 다만 지급률, 최대 지급 한도, 적용 예금 조건은 상품 설계에 따라 달라질 수 있어 실제 수익성은 세부 약관 확인이 필요하다.\n\n## 일본 은행권 디지털자산 경쟁의 신호\n일본 금융권은 암호화폐를 투기성 상품으로만 다루던 단계에서 벗어나, 기존 금융 서비스의 보상·결제·자산관리 영역에 점진적으로 편입하고 있다. SBI그룹은 은행, 증권, 암호화폐 거래 인프라를 함께 보유하고 있어 그룹 내부 교차 판매 효과를 키우기 쉽다. 예금 고객이 바우처를 사용하려면 SBI VC 트레이드 접점이 필요하고, 이는 거래소 계좌 개설과 장기 이용으로 이어질 수 있다.\n\n이번 모델은 예금 금리 경쟁이 제한적인 환경에서 차별화 수단으로도 작동한다. 일본의 저금리 경험은 은행들이 비가격 혜택을 강화하게 만든 배경이다. 암호화폐 바우처는 예금 이자와 성격이 다르지만, 고객에게는 추가 보상처럼 인식될 수 있다. 은행에는 젊은 투자자층 유입, 거래소에는 기존 은행 고객 확보라는 효과가 기대된다.\n\n## 한국 시장에 주는 의미\n한국 금융시장에도 시사점이 있다. 국내 은행은 실명확인 입출금계정 제휴를 통해 암호화폐 거래소와 연결돼 있지만, 예금 보상 자체를 비트코인·이더리움·XRP 교환권으로 제공하는 방식은 규제 검토가 필요하다. 가상자산이용자보호법 시행 이후 투자자 보호, 광고 규제, 설명 의무, 이해상충 관리가 더 중요해졌기 때문이다.\n\n원화 기준으로 보면 비트코인과 이더리움은 가격 변동성이 커 바우처 수령 시점과 교환 시점의 체감 가치가 달라질 수 있다. XRP도 국내 투자자 거래 비중이 높은 자산이지만 변동성은 작지 않다. 따라서 같은 1만 원 상당의 바우처라도 교환 후 자산 가격 움직임에 따라 실제 평가액은 달라진다. 은행권 보상으로 제공될 경우 고객에게 예금 원금 보장과 암호화폐 가격 변동 위험을 명확히 구분해 설명하는 절차가 필수다.\n\nSBI신세이은행의 시도는 은행이 암호화폐를 직접 예금 상품으로 편입했다기보다, 보상 바우처를 통해 디지털자산 거래 경험을 연결한 사례다. 향후 일본 금융권에서 유사한 예금 연계 보상, 포인트형 암호화폐 전환, 거래소 계좌 연동 프로모션이 늘어날 가능성이 있다. 한국에서는 규제 안정성과 소비자 보호 장치가 전제될 때 은행·거래소 간 제휴 모델 논의가 다시 확대될 전망이다.",
+        "keywords": [
+          "SBI신세이은행",
+          "SBI VC 트레이드",
+          "비트코인 보상",
+          "이더리움",
+          "XRP",
+          "암호화폐 바우처",
+          "일본 은행",
+          "예금 보상",
+          "디지털자산",
+          "가상자산 규제"
+        ],
+        "faq": [
+          {
+            "q": "SBI신세이은행의 암호화폐 보상은 무엇인가?",
+            "a": "예금 고객에게 바우처를 제공하고, 고객이 이를 SBI VC 트레이드에서 비트코인, 이더리움, XRP로 교환할 수 있게 하는 보상 구조다."
+          },
+          {
+            "q": "고객이 받을 수 있는 암호화폐는 어떤 자산인가?",
+            "a": "교환 대상은 비트코인, 이더리움, XRP 3종이다. 각 자산은 가격 변동성이 있어 교환 후 평가액은 시장 상황에 따라 달라질 수 있다."
+          },
+          {
+            "q": "한국 은행도 같은 방식의 예금 보상을 할 수 있나?",
+            "a": "국내에서는 가상자산 이용자 보호, 광고·판매 규제, 은행과 거래소 제휴 구조 등을 검토해야 한다. 유사 모델은 가능성이 있지만 규제 해석과 소비자 보호 장치가 전제돼야 한다."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "226fa204230d",
+    "slug": "bitcoin-normal-4-year-cycle-puts-focus-on-53k-low-before-202-196392",
+    "channelId": "CRYPTO",
+    "category": "crypto",
+    "publishedAt": "2026-06-10T01:16:32.379Z",
+    "updatedAt": "2026-06-10T01:16:32.380Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://cointelegraph.com/markets/bitcoin-normal-four-year-cycle-puts-focus-on-53k-low-before-2028-btc-price-high",
+    "titleFingerprint": "8217fa692c20b03bb7cc6e3671d1556507b4ee68",
+    "dedupKeys": [
+      "226fa204230d32842dc5b0c188218ae6f55291ea",
+      "8217fa692c20b03bb7cc6e3671d1556507b4ee68",
+      "96b6007153bf4fdcd5beaa1ed71cc73d9fe939e3"
+    ],
+    "imageUrl": "/images/articles/226fa204230d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 4년 주기 분석, 2028년 고점 전 5만3000달러 저점 주목",
+        "excerpt": "비트코인 가격이 통상적 4년 사이클의 저점 형성 구간에 가까워지면서 5만3000달러 안팎의 사이클 중간값이 장기 매수 판단의 핵심 가격대로 떠올랐다.",
+        "metaDescription": "비트코인 4년 주기상 저점 구간이 가까워지며 5만3000달러가 2028년 고점 전 주요 매수 기준선으로 부각됐다. 국내 투자 영향도 분석한다.",
+        "summary": "비트코인 시장의 초점이 2028년 예상 고점보다 먼저 5만3000달러 저점 가능성으로 이동하고 있다. 통상적 4년 사이클이 유지될 경우 현재 구간은 저점 확인 창에 가까운 흐름으로 해석된다. 5만3000달러는 사이클 중간값이자 장기 매수 대기 수요가 몰릴 수 있는 가격대다. 국내 투자자는 원화 환산 가격, 환율, 거래소 프리미엄을 함께 점검해야 한다.",
+        "body": "비트코인 가격 분석의 핵심은 2028년 고점보다 먼저 확인될 수 있는 저점이다. 통상적인 4년 사이클이 유지된다는 전제에서 비트코인은 사이클 바닥을 형성하는 시간대에 접근하고 있으며, 5만3000달러가 주요 매수 기준선으로 부상했다. 이 가격은 단순한 심리선이 아니라 사이클 중간값으로 해석되는 구간이다. 시장은 이 지점에서 장기 보유자와 신규 매수세의 반응을 확인하게 된다.\n\n## 5만3000달러가 중요한 이유\n비트코인 4년 주기는 반감기, 유동성 변화, 위험자산 선호 회복이 결합되며 형성돼 왔다. 과거 사이클에서도 고점은 한 번에 만들어지지 않았고, 중간 조정과 저점 확인 과정을 거친 뒤 다음 상승 국면으로 이동했다. 이번 분석에서 5만3000달러는 사이클 중간값으로 제시된다. 원화로는 1달러 1,350원 가정 시 약 7,155만원 수준이다. 실제 국내 거래 가격은 환율, 김치프리미엄, 거래소 유동성에 따라 달라진다.\n\n이 구간이 중요한 이유는 가격 자체보다 시장의 반응이다. 비트코인이 5만3000달러 부근에서 매도 압력을 흡수하고 거래량을 동반한 반등을 보이면 사이클 저점 인식이 강화될 수 있다. 반대로 이 가격대를 뚜렷하게 이탈하면 저점 확인 기간은 더 길어질 수 있다. 따라서 5만3000달러는 확정된 바닥이 아니라, 2028년 고점 시나리오를 검증하는 기준선이다.\n\n## 국내 투자자가 봐야 할 변수\n한국 투자자에게는 달러 기준 가격만으로 판단하기 어렵다. 원화 환산 가격은 환율에 직접 영향을 받고, 국내 거래소의 프리미엄은 글로벌 가격과 차이를 만든다. 같은 5만3000달러라도 원·달러 환율이 오르면 원화 매수 부담은 커진다. 국내 가상자산 규제 환경도 투자 심리에 영향을 준다. 거래소 예치금 관리, 이상거래 감시, 투자자 보호 제도 강화는 단기 투기 수요를 줄이는 반면 장기 투자자의 진입 기준은 더 명확하게 만들 수 있다.\n\n또한 비트코인은 국내 주식시장과 달리 24시간 거래된다. 저점 구간에서는 야간 변동성이 커질 수 있고, 레버리지 포지션 청산이 가격을 일시적으로 과도하게 밀어낼 수 있다. 현물 매수자는 분할 매수, 목표 비중, 손실 허용 범위를 사전에 정해야 한다. 5만3000달러는 관심 가격대일 뿐 전액 매수 신호로 해석하기 어렵다.\n\n## 2028년 고점 전망과 리스크\n2028년 고점 시나리오는 4년 주기가 정상적으로 반복된다는 가정에 기반한다. 이 경우 현재 시장은 다음 상승장의 연료를 모으는 구간으로 평가된다. 다만 거시경제 여건, 미국 금리 경로, 비트코인 현물 ETF 자금 흐름, 채굴자 매도 압력은 사이클의 속도와 폭을 바꿀 수 있다.\n\n결론적으로 비트코인 시장은 지금 고점 예측보다 저점 확인에 더 민감한 단계다. 5만3000달러 부근은 2028년 고점 가능성을 논의하기 전 반드시 점검해야 할 가격대다. 이 구간에서의 수급, 거래량, 원화 프리미엄이 향후 상승장 신뢰도를 가르는 핵심 지표가 될 전망이다.",
+        "keywords": [
+          "비트코인",
+          "BTC 가격",
+          "비트코인 4년 주기",
+          "비트코인 저점",
+          "5만3000달러",
+          "2028년 비트코인",
+          "가상자산 시장",
+          "김치프리미엄",
+          "비트코인 전망",
+          "비트코인 4년 주기 분석, 2028년"
+        ],
+        "faq": [
+          {
+            "q": "비트코인 5만3000달러가 왜 중요한가요?",
+            "a": "5만3000달러는 이번 4년 사이클의 중간값으로 해석되는 가격대다. 저점 형성 여부와 장기 매수세 유입을 확인하는 기준선 역할을 한다."
+          },
+          {
+            "q": "5만3000달러가 오면 무조건 매수해야 하나요?",
+            "a": "아니다. 해당 가격은 관심 구간이지 확정 매수 신호가 아니다. 거래량, 반등 강도, 환율, 국내 프리미엄, 투자자별 위험 허용 범위를 함께 봐야 한다."
+          },
+          {
+            "q": "2028년에 비트코인 고점이 올 가능성이 있나요?",
+            "a": "통상적 4년 사이클이 유지되면 2028년 고점 시나리오가 가능하다. 다만 금리, ETF 자금 흐름, 채굴자 매도, 규제 환경에 따라 시점과 가격 폭은 달라질 수 있다."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "98deaaeeb45b",
     "slug": "eth-crash-to-1k-looms-if-key-support-breaks-will-futures-tra-246339",
     "channelId": "CRYPTO",
@@ -3629,231 +3788,6 @@
         "title": "Gemini melonjak 25% usai suntikan bitcoin $100 juta meski rugi berlanjut",
         "excerpt": "Gemini milik Winklevoss naik 25% setelah suntikan bitcoin $100 juta; pendapatan tumbuh 42% secara tahunan, tetapi rugi bersih masih berlanjut.",
         "body": "Gemini yang terkait dengan Winklevoss melonjak 25% setelah kabar suntikan bitcoin senilai $100 juta. Kenaikan itu terjadi meski perusahaan masih mencatat kerugian besar. Pendapatan Gemini naik 42% secara tahunan menjadi $50,3 juta. Rugi bersihnya menyempit 27% dari $149,3 juta pada tahun sebelumnya. Angka ini menunjukkan bahwa pemulihan pendapatan membantu mengurangi kerugian, namun tekanan defisit masih ada. Investor mencermati suntikan bitcoin dan perbaikan kinerja secara bersamaan. Sumber: coindesk.com."
-      }
-    }
-  },
-  {
-    "id": "46e35e90c81d",
-    "slug": "okx-reportedly-eyes-coinone-stake-in-south-korea-push-420009",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T11:29:30.566Z",
-    "updatedAt": "2026-05-15T11:29:30.566Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/news/okx-reportedly-eyeing-south-korea-move-with-coinone-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/news/okx-reportedly-eyeing-south-korea-move-with-coinone-stake",
-    "titleFingerprint": "7febdb051cdf2011ec635066cd663f6b31e44543",
-    "dedupKeys": [
-      "46e35e90c81d4de74b4e9a7994d586a3716abf6c",
-      "7febdb051cdf2011ec635066cd663f6b31e44543",
-      "08222a60846c680f7bb13efea5098114988f6082"
-    ],
-    "imageUrl": "/images/articles/46e35e90c81d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "OKX, 코인원 지분 20% 추진 보도…한국 시장 진출 경쟁 가열",
-        "excerpt": "OKX가 한국 가상자산 거래소 코인원 지분 20% 확보를 추진하는 것으로 알려지며, 외국계와 국내 기업의 시장 접근 경쟁이 주목받고 있다.",
-        "body": "OKX가 한국 가상자산 거래소 코인원 지분 20% 확보를 추진하고 있다는 보도가 나왔다. 보도에 따르면 OKX는 한국 시장 진출을 확대하기 위해 코인원 지분 인수를 검토하는 것으로 알려졌다. 코인원은 국내 가상자산 거래소 중 하나로, 한국 시장 접근성을 둘러싸고 외국계 기업과 국내 기업의 경쟁이 이어지는 상황에서 이번 움직임이 주목된다. 실제 거래 성사 여부와 구체적 조건은 아직 확인되지 않았다. 이번 보도는 글로벌 거래소가 한국 시장에서 입지를 넓히려는 흐름을 보여주는 사례로 해석된다. 출처: cointelegraph.com"
-      },
-      "en": {
-        "title": "OKX Reportedly Seeks 20% Coinone Stake as Korea Push Heats Up",
-        "excerpt": "OKX is reportedly pursuing a 20% stake in South Korean crypto exchange Coinone as foreign and local firms compete for market access.",
-        "body": "OKX is reportedly seeking to acquire a 20% stake in South Korean crypto exchange Coinone. According to the report, OKX is reviewing the stake purchase as part of a broader push to expand access to South Korea’s crypto market. Coinone is one of the country’s crypto exchanges, and the move is drawing attention as foreign and domestic firms continue to compete for market entry. Whether a deal will be completed and what specific terms may apply have not been confirmed. The report is viewed as another sign that global exchanges are looking to strengthen their position in South Korea. Source: cointelegraph.com"
-      },
-      "ja": {
-        "title": "OKX、Coinone株20％取得を検討か 韓国市場参入競争が加速",
-        "excerpt": "OKXが韓国の暗号資産取引所Coinoneの株式20％取得を目指していると報じられ、外資系と国内企業の市場アクセス競争が注目されている。",
-        "body": "OKXが韓国の暗号資産取引所Coinoneの株式20％取得を目指しているとの報道が出た。報道によると、OKXは韓国市場への進出拡大に向け、Coinone株の取得を検討しているとされる。Coinoneは韓国の暗号資産取引所の一つであり、市場アクセスを巡って外資系企業と国内企業の競争が続く中、この動きが注目されている。実際に取引が成立するか、具体的な条件はまだ確認されていない。今回の報道は、グローバル取引所が韓国市場での存在感を高めようとする流れを示す事例と受け止められている。出典: cointelegraph.com"
-      },
-      "zh": {
-        "title": "OKX据称寻求Coinone 20%股权，韩国市场竞争升温",
-        "excerpt": "据报道，OKX正寻求获得韩国加密货币交易所Coinone 20%股权，外资与本土企业围绕市场准入的竞争受到关注。",
-        "body": "据报道，OKX正寻求收购韩国加密货币交易所Coinone 20%的股权。报道称，OKX正在评估该股权收购，以扩大其进入韩国加密市场的机会。Coinone是韩国加密货币交易所之一，在外资企业和本土企业持续争夺市场准入的背景下，这一动向引发关注。目前，交易是否会最终达成以及具体条款尚未得到确认。该报道被视为全球交易所试图在韩国市场扩大影响力的又一信号。来源: cointelegraph.com"
-      },
-      "es": {
-        "title": "OKX buscaría 20% de Coinone mientras crece la puja en Corea",
-        "excerpt": "OKX estaría buscando una participación del 20% en el exchange surcoreano Coinone, en medio de la competencia de firmas extranjeras y locales por entrar al mercado.",
-        "body": "OKX estaría buscando adquirir una participación del 20% en el exchange surcoreano de criptomonedas Coinone. Según el reporte, OKX evalúa la compra como parte de un esfuerzo más amplio para ampliar su acceso al mercado cripto de Corea del Sur. Coinone es uno de los exchanges del país, y el movimiento atrae atención mientras empresas extranjeras y nacionales compiten por el acceso al mercado. Aún no se ha confirmado si la operación se concretará ni cuáles serían sus condiciones específicas. El reporte se interpreta como otra señal de que los exchanges globales buscan reforzar su presencia en Corea del Sur. Fuente: cointelegraph.com"
-      },
-      "pt": {
-        "title": "OKX mira fatia de 20% na Coinone em avanço pelo mercado coreano",
-        "excerpt": "A OKX estaria buscando uma participação de 20% na exchange sul-coreana Coinone enquanto empresas estrangeiras e locais disputam acesso ao mercado.",
-        "body": "A OKX estaria buscando adquirir uma participação de 20% na exchange sul-coreana de criptomoedas Coinone. Segundo a reportagem, a OKX avalia a compra da fatia como parte de um movimento mais amplo para ampliar seu acesso ao mercado cripto da Coreia do Sul. A Coinone é uma das exchanges do país, e a iniciativa chama atenção em meio à concorrência entre empresas estrangeiras e locais pelo acesso ao mercado. Ainda não foi confirmado se a transação será concluída nem quais seriam os termos específicos. A notícia é vista como mais um sinal de que exchanges globais buscam fortalecer sua posição na Coreia do Sul. Fonte: cointelegraph.com"
-      },
-      "de": {
-        "title": "OKX soll 20% an Coinone anstreben, Koreas Kryptomarkt im Fokus",
-        "excerpt": "OKX will Berichten zufolge 20% an der südkoreanischen Kryptobörse Coinone erwerben, während ausländische und lokale Firmen um Marktzugang konkurrieren.",
-        "body": "OKX strebt Berichten zufolge den Erwerb eines 20%-Anteils an der südkoreanischen Kryptobörse Coinone an. Dem Bericht zufolge prüft OKX den Kauf, um den Zugang zum südkoreanischen Kryptomarkt auszubauen. Coinone gehört zu den Kryptobörsen des Landes, und der Schritt sorgt für Aufmerksamkeit, da ausländische und einheimische Unternehmen weiter um Marktzugang konkurrieren. Ob eine Transaktion tatsächlich zustande kommt und welche konkreten Bedingungen gelten würden, ist bislang nicht bestätigt. Der Bericht gilt als weiteres Zeichen dafür, dass globale Börsen ihre Position in Südkorea stärken wollen. Quelle: cointelegraph.com"
-      },
-      "fr": {
-        "title": "OKX viserait 20% de Coinone dans sa poussée sur le marché coréen",
-        "excerpt": "OKX chercherait à acquérir 20% de la plateforme sud-coréenne Coinone, alors que les acteurs étrangers et locaux se disputent l’accès au marché.",
-        "body": "OKX chercherait à acquérir une participation de 20% dans la plateforme sud-coréenne d’échange de cryptomonnaies Coinone. Selon le rapport, OKX étudie cette acquisition dans le cadre d’un effort plus large pour accroître son accès au marché crypto sud-coréen. Coinone est l’une des plateformes du pays, et cette démarche attire l’attention alors que les entreprises étrangères et nationales continuent de se disputer l’accès au marché. La conclusion éventuelle de l’opération et ses conditions précises n’ont pas encore été confirmées. Ce rapport est perçu comme un nouveau signe de l’intérêt des plateformes mondiales pour renforcer leur position en Corée du Sud. Source: cointelegraph.com"
-      },
-      "ar": {
-        "title": "OKX تسعى لحصة 20% في Coinone مع اشتداد سباق سوق كوريا",
-        "excerpt": "تسعى OKX reportedly إلى حصة 20% في منصة Coinone الكورية الجنوبية، وسط منافسة بين الشركات الأجنبية والمحلية للوصول إلى سوق العملات المشفرة.",
-        "body": "أفادت تقارير بأن OKX تسعى للاستحواذ على حصة 20% في منصة Coinone الكورية الجنوبية لتداول العملات المشفرة. وبحسب التقرير، تدرس OKX شراء الحصة ضمن مسعى أوسع لتوسيع وصولها إلى سوق العملات المشفرة في كوريا الجنوبية. وتعد Coinone إحدى منصات التداول في البلاد، وتجذب هذه الخطوة الانتباه في ظل استمرار المنافسة بين الشركات الأجنبية والمحلية على دخول السوق. ولم يتم تأكيد ما إذا كانت الصفقة ستكتمل أو ما الشروط المحددة لها. ويُنظر إلى التقرير كإشارة أخرى إلى رغبة المنصات العالمية في تعزيز موقعها داخل كوريا الجنوبية. المصدر: cointelegraph.com"
-      },
-      "hi": {
-        "title": "OKX की Coinone में 20% हिस्सेदारी पर नजर, कोरिया बाजार में होड़ तेज",
-        "excerpt": "OKX कथित तौर पर दक्षिण कोरियाई क्रिप्टो एक्सचेंज Coinone में 20% हिस्सेदारी चाहती है, जबकि विदेशी और घरेलू कंपनियां बाजार पहुंच के लिए प्रतिस्पर्धा कर रही हैं।",
-        "body": "OKX कथित तौर पर दक्षिण कोरियाई क्रिप्टो एक्सचेंज Coinone में 20% हिस्सेदारी हासिल करने की कोशिश कर रही है। रिपोर्ट के अनुसार, OKX दक्षिण कोरिया के क्रिप्टो बाजार में अपनी पहुंच बढ़ाने के व्यापक प्रयास के तहत इस हिस्सेदारी खरीद की समीक्षा कर रही है। Coinone देश के क्रिप्टो एक्सचेंजों में से एक है, और यह कदम ऐसे समय ध्यान खींच रहा है जब विदेशी और घरेलू कंपनियां बाजार में प्रवेश के लिए प्रतिस्पर्धा कर रही हैं। सौदा पूरा होगा या नहीं और इसकी विशिष्ट शर्तें क्या होंगी, इसकी पुष्टि अभी नहीं हुई है। यह रिपोर्ट वैश्विक एक्सचेंजों की दक्षिण कोरिया में स्थिति मजबूत करने की कोशिश का एक और संकेत मानी जा रही है। स्रोत: cointelegraph.com"
-      },
-      "id": {
-        "title": "OKX Bidik 20% Saham Coinone saat Persaingan Pasar Korea Memanas",
-        "excerpt": "OKX dilaporkan mengincar 20% saham bursa kripto Korea Selatan Coinone, ketika perusahaan asing dan domestik bersaing mendapatkan akses pasar.",
-        "body": "OKX dilaporkan berupaya memperoleh 20% saham bursa kripto Korea Selatan Coinone. Menurut laporan tersebut, OKX sedang meninjau pembelian saham itu sebagai bagian dari dorongan yang lebih luas untuk memperluas akses ke pasar kripto Korea Selatan. Coinone merupakan salah satu bursa kripto di negara tersebut, dan langkah ini menarik perhatian ketika perusahaan asing dan domestik terus bersaing untuk masuk ke pasar. Belum ada konfirmasi apakah transaksi akan selesai atau seperti apa syarat rincinya. Laporan ini dipandang sebagai tanda lain bahwa bursa global berusaha memperkuat posisi mereka di Korea Selatan. Sumber: cointelegraph.com"
-      }
-    }
-  },
-  {
-    "id": "28836aefd33d",
-    "slug": "why-is-hyperliquids-hype-token-price-up-23-in-a-day-606876",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T11:28:38.511Z",
-    "updatedAt": "2026-05-15T11:28:38.511Z",
-    "sourceName": "cointelegraph.com",
-    "sourceUrl": "https://cointelegraph.com/markets/why-is-hyperliquid-hype-price-up-23-percent-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "canonicalUrl": "https://cointelegraph.com/markets/why-is-hyperliquid-hype-price-up-23-percent-in-a-day",
-    "titleFingerprint": "448a240e96a30acd75712e4318df917b13f2aa00",
-    "dedupKeys": [
-      "28836aefd33db9f24f32b0befa0d2e264a3ddc6c",
-      "448a240e96a30acd75712e4318df917b13f2aa00",
-      "fb0f08678294b7582b7c9b1649faac6d21f0f331"
-    ],
-    "imageUrl": "/images/articles/28836aefd33d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HYPE 토큰 하루 23% 급등, 미국 ETF·코인베이스 딜이 촉매",
-        "excerpt": "이번 주 Hyperliquid의 HYPE 토큰은 미국 ETF 출시와 코인베이스의 Hyperliquid 관련 거래 기대감이 맞물리며 하루 23% 올랐지만, 기술적 지표는 단기 조정 가능성을 경고했다.",
-        "body": "Hyperliquid의 HYPE 토큰 가격이 이번 주 하루 만에 23% 상승했다. 상승 배경으로는 미국에서 새로 나온 HYPE 관련 ETF 출시와 코인베이스의 Hyperliquid 거래가 꼽힌다. 두 재료는 투자자 관심을 키우며 단기 매수세를 자극했다. 다만 가격 급등 이후 차트상 기술 지표는 과열 또는 되돌림 가능성을 시사하고 있다. 시장은 ETF를 통한 접근성 확대와 코인베이스와의 연계가 HYPE 수요에 어떤 영향을 줄지 주시하는 분위기다. Cointelegraph.com은 이번 랠리가 강한 호재에 힘입었지만, 기술적 관점에서는 단기 pullback 위험도 함께 남아 있다고 전했다."
-      },
-      "en": {
-        "title": "HYPE Token Jumps 23% in a Day as US ETFs and Coinbase Deal Drive Rally",
-        "excerpt": "Hyperliquid’s HYPE token rose 23% in a day this week as new US ETF launches and Coinbase’s Hyperliquid deal lifted market attention, while technical signals warned of a possible pullback.",
-        "body": "Hyperliquid’s HYPE token climbed 23% in a single day this week. The rally was driven by newly launched US HYPE-related ETFs and Coinbase’s Hyperliquid deal, both of which increased investor attention and encouraged short-term buying. Still, after the sharp move, technical indicators suggested the price could be vulnerable to overheating or a retracement. Markets are watching whether easier ETF access and Coinbase’s connection with Hyperliquid can support further demand for HYPE. Cointelegraph.com reported that the rally was fueled by strong catalysts, but that technicals still point to the risk of a near-term pullback."
-      },
-      "ja": {
-        "title": "HYPEトークンが1日で23％急騰、米ETFとCoinbase提携が材料に",
-        "excerpt": "HyperliquidのHYPEトークンは今週、米国ETFの新規ローンチとCoinbaseのHyperliquid関連取引を背景に1日で23％上昇したが、テクニカル面では短期調整リスクも示された。",
-        "body": "HyperliquidのHYPEトークン価格は今週、1日で23％上昇した。上昇要因として、米国で新たに登場したHYPE関連ETFのローンチと、CoinbaseによるHyperliquid関連の取引が挙げられる。これらの材料は投資家の関心を高め、短期的な買いを促した。一方で、急騰後のチャートでは過熱感や反落の可能性を示すテクニカルシグナルも見られる。市場はETFによるアクセス改善とCoinbaseとのつながりがHYPE需要をどこまで支えるかを注視している。Cointelegraph.comは、今回のラリーは強い材料に支えられたものの、テクニカル面では短期的なプルバックリスクが残ると報じた。"
-      },
-      "zh": {
-        "title": "HYPE代币单日上涨23%，美国ETF与Coinbase交易成催化剂",
-        "excerpt": "本周，Hyperliquid的HYPE代币在美国ETF推出和Coinbase相关交易推动下单日上涨23%，但技术指标提示短期回调风险仍然存在。",
-        "body": "Hyperliquid的HYPE代币价格本周单日上涨23%。推动上涨的主要因素包括美国新推出的HYPE相关ETF，以及Coinbase与Hyperliquid相关的交易安排。这两项消息提升了投资者关注度，并刺激了短期买盘。不过，在价格快速上涨后，技术指标显示市场可能出现过热或回撤。投资者正在观察ETF带来的更便利投资渠道，以及Coinbase与Hyperliquid的关联能否继续支撑HYPE需求。Cointelegraph.com报道称，本轮上涨受到强劲利好推动，但从技术面看，短期pullback风险仍未消除。"
-      },
-      "es": {
-        "title": "HYPE sube 23% en un día por ETF en EE. UU. y acuerdo de Coinbase",
-        "excerpt": "El token HYPE de Hyperliquid avanzó 23% en un día esta semana por nuevos ETF en EE. UU. y el acuerdo de Coinbase con Hyperliquid, aunque los indicadores técnicos advierten de un posible retroceso.",
-        "body": "El precio del token HYPE de Hyperliquid subió 23% en un solo día esta semana. El repunte se atribuye al lanzamiento de nuevos ETF vinculados a HYPE en Estados Unidos y al acuerdo de Coinbase con Hyperliquid, dos factores que aumentaron la atención de los inversores e impulsaron compras de corto plazo. Sin embargo, tras la fuerte subida, los indicadores técnicos apuntan a un posible sobrecalentamiento o retroceso. El mercado observa si el acceso mediante ETF y la relación con Coinbase pueden sostener la demanda de HYPE. Cointelegraph.com informó que el rally se apoyó en catalizadores sólidos, pero que el análisis técnico aún advierte de un riesgo de pullback a corto plazo."
-      },
-      "pt": {
-        "title": "HYPE sobe 23% em um dia com ETFs nos EUA e acordo da Coinbase",
-        "excerpt": "O token HYPE da Hyperliquid avançou 23% em um dia nesta semana, impulsionado por novos ETFs nos EUA e pelo acordo da Coinbase com a Hyperliquid, enquanto indicadores técnicos alertam para possível correção.",
-        "body": "O preço do token HYPE da Hyperliquid subiu 23% em um único dia nesta semana. A alta foi associada ao lançamento de novos ETFs ligados ao HYPE nos Estados Unidos e ao acordo da Coinbase com a Hyperliquid, fatores que ampliaram a atenção dos investidores e estimularam compras de curto prazo. Ainda assim, depois do avanço forte, indicadores técnicos sugerem risco de sobreaquecimento ou recuo. O mercado acompanha se o acesso via ETF e a conexão com a Coinbase poderão sustentar a demanda por HYPE. Segundo o Cointelegraph.com, o rali foi alimentado por catalisadores relevantes, mas a leitura técnica ainda aponta risco de pullback no curto prazo."
-      },
-      "de": {
-        "title": "HYPE-Token steigt 23% an einem Tag: US-ETFs und Coinbase-Deal treiben Kurs",
-        "excerpt": "Der HYPE-Token von Hyperliquid legte diese Woche an einem Tag 23% zu, gestützt durch neue US-ETF-Starts und den Coinbase-Deal mit Hyperliquid, während technische Signale vor einem möglichen Rücksetzer warnen.",
-        "body": "Der Preis des Hyperliquid-Tokens HYPE ist diese Woche innerhalb eines Tages um 23% gestiegen. Als Auslöser gelten neue HYPE-bezogene ETF-Starts in den USA sowie der Hyperliquid-Deal von Coinbase. Beide Faktoren erhöhten die Aufmerksamkeit der Anleger und förderten kurzfristige Käufe. Nach dem starken Anstieg deuten technische Indikatoren jedoch auf mögliche Überhitzung oder eine Gegenbewegung hin. Der Markt beobachtet, ob der einfachere Zugang über ETFs und die Verbindung zu Coinbase die Nachfrage nach HYPE weiter stützen können. Cointelegraph.com berichtete, dass die Rally von starken Impulsen getragen wurde, aus technischer Sicht aber weiterhin ein kurzfristiges Pullback-Risiko besteht."
-      },
-      "fr": {
-        "title": "HYPE bondit de 23% en un jour, porté par les ETF US et l’accord Coinbase",
-        "excerpt": "Le token HYPE de Hyperliquid a gagné 23% en une journée cette semaine grâce à de nouveaux ETF américains et à l’accord de Coinbase avec Hyperliquid, mais les signaux techniques préviennent d’un possible repli.",
-        "body": "Le prix du token HYPE de Hyperliquid a progressé de 23% en une seule journée cette semaine. Cette hausse est liée au lancement de nouveaux ETF américains associés à HYPE et à l’accord de Coinbase avec Hyperliquid, deux éléments qui ont accru l’attention des investisseurs et soutenu les achats de court terme. Toutefois, après cette forte progression, les indicateurs techniques suggèrent un risque de surchauffe ou de retracement. Le marché surveille si l’accès via les ETF et le lien avec Coinbase peuvent maintenir la demande pour HYPE. Cointelegraph.com a indiqué que le rally s’appuyait sur des catalyseurs solides, mais que l’analyse technique signalait encore un risque de pullback à court terme."
-      },
-      "ar": {
-        "title": "ارتفاع HYPE بنسبة 23% في يوم مع إطلاق صناديق ETF أمريكية وصفقة Coinbase",
-        "excerpt": "ارتفع رمز HYPE الخاص بـHyperliquid بنسبة 23% في يوم واحد هذا الأسبوع بدعم من إطلاق صناديق ETF أمريكية جديدة وصفقة Coinbase مع Hyperliquid، بينما حذرت المؤشرات الفنية من احتمال تراجع قصير الأجل.",
-        "body": "ارتفع سعر رمز HYPE الخاص بـHyperliquid بنسبة 23% خلال يوم واحد هذا الأسبوع. وجاء الصعود مدفوعا بإطلاق صناديق ETF أمريكية جديدة مرتبطة بـHYPE، إضافة إلى صفقة Coinbase مع Hyperliquid، وهما عاملان زادا اهتمام المستثمرين وشجعا عمليات شراء قصيرة الأجل. ومع ذلك، وبعد الارتفاع الحاد، تشير المؤشرات الفنية إلى احتمال وجود حالة تشبع أو تراجع سعري. يراقب السوق ما إذا كان الوصول عبر صناديق ETF والارتباط مع Coinbase قادرين على دعم الطلب على HYPE. وذكر Cointelegraph.com أن الارتفاع استفاد من محفزات قوية، لكن القراءة الفنية لا تزال تشير إلى خطر pullback قريب الأجل."
-      },
-      "hi": {
-        "title": "HYPE टोकन एक दिन में 23% उछला, US ETF और Coinbase डील बनी वजह",
-        "excerpt": "Hyperliquid का HYPE टोकन इस सप्ताह नए अमेरिकी ETF लॉन्च और Coinbase की Hyperliquid डील से एक दिन में 23% चढ़ा, लेकिन तकनीकी संकेत संभावित अल्पकालिक गिरावट की चेतावनी दे रहे हैं।",
-        "body": "Hyperliquid के HYPE टोकन की कीमत इस सप्ताह एक ही दिन में 23% बढ़ी। इस तेजी के पीछे अमेरिका में नए HYPE-संबंधित ETF लॉन्च और Coinbase की Hyperliquid डील को प्रमुख कारण माना गया। इन दोनों घटनाओं ने निवेशकों का ध्यान बढ़ाया और अल्पकालिक खरीदारी को प्रोत्साहित किया। हालांकि तेज उछाल के बाद तकनीकी संकेतक ओवरहीटिंग या रिट्रेसमेंट की संभावना दिखा रहे हैं। बाजार यह देख रहा है कि ETF के जरिए आसान पहुंच और Coinbase से जुड़ाव HYPE की मांग को कितना सहारा दे पाएंगे। Cointelegraph.com के अनुसार, यह रैली मजबूत कारकों से प्रेरित थी, लेकिन तकनीकी दृष्टि से अल्पकालिक pullback का जोखिम अभी भी बना हुआ है।"
-      },
-      "id": {
-        "title": "HYPE Naik 23% Sehari, ETF AS dan Kesepakatan Coinbase Jadi Pemicu",
-        "excerpt": "Token HYPE milik Hyperliquid naik 23% dalam sehari pekan ini setelah peluncuran ETF AS baru dan kesepakatan Coinbase dengan Hyperliquid menarik perhatian pasar, meski teknikal memperingatkan potensi koreksi.",
-        "body": "Harga token HYPE milik Hyperliquid naik 23% dalam satu hari pekan ini. Kenaikan tersebut didorong oleh peluncuran ETF baru di Amerika Serikat yang terkait HYPE serta kesepakatan Coinbase dengan Hyperliquid. Kedua faktor itu meningkatkan perhatian investor dan mendorong pembelian jangka pendek. Namun, setelah lonjakan tajam, indikator teknikal menunjukkan kemungkinan kondisi terlalu panas atau retracement. Pasar kini mencermati apakah akses melalui ETF dan hubungan dengan Coinbase dapat menopang permintaan HYPE. Cointelegraph.com melaporkan bahwa reli ini ditopang katalis kuat, tetapi secara teknikal risiko pullback jangka pendek masih tetap ada."
-      }
-    }
-  },
-  {
-    "id": "fedc45fe8e15",
-    "slug": "hyperliquid-leads-24-hour-gains-as-altcoins-pace-bitcoin-191647",
-    "channelId": "CRYPTO",
-    "category": "crypto",
-    "publishedAt": "2026-05-15T11:27:35.107Z",
-    "updatedAt": "2026-05-15T11:27:35.108Z",
-    "sourceName": "coindesk.com",
-    "sourceUrl": "https://www.coindesk.com/markets/2026/05/15/hyperliquid-leads-24-hour-gains-as-altcoins-pace-bitcoin",
-    "canonicalUrl": "https://www.coindesk.com/markets/2026/05/15/hyperliquid-leads-24-hour-gains-as-altcoins-pace-bitcoin",
-    "titleFingerprint": "0d704115f350809e8abf1adb30f20accee4f5d8e",
-    "dedupKeys": [
-      "fedc45fe8e1547452f4177d200068ce969102d2b",
-      "0d704115f350809e8abf1adb30f20accee4f5d8e",
-      "12754db963413268dc75ff68145152124cc7f5af"
-    ],
-    "imageUrl": "/images/articles/fedc45fe8e15.jpg",
-    "i18n": {
-      "ko": {
-        "title": "하이퍼리퀴드 HYPE, 24시간 상승률 선두…알트코인 강세 속 비트코인 앞서",
-        "excerpt": "하이퍼리퀴드 토큰 HYPE가 24시간 상승률 선두에 올랐다. Bitwise의 현물 Hyperliquid ETF와 Coinbase의 공식 USDC 재무 배치자 역할 확대가 상승 배경으로 꼽힌다.",
-        "body": "하이퍼리퀴드의 토큰 HYPE가 최근 24시간 기준 상승률에서 선두를 기록하며 비트코인보다 빠른 흐름을 보인 알트코인 강세를 이끌었다. 상승 배경으로는 Bitwise가 새로 추진한 현물 Hyperliquid ETF와 Coinbase의 역할 확대가 제시됐다. Coinbase는 Hyperliquid의 공식 USDC 재무 배치자로 더 큰 역할을 맡게 됐다. 이 두 가지 소식은 HYPE에 대한 시장 관심을 키운 요인으로 언급된다. 다만 원문은 구체적인 상승률이나 ETF 세부 조건은 제시하지 않았다. 알트코인이 비트코인의 흐름을 앞서는 장면에서 HYPE가 가장 두드러진 사례로 부각됐다. 출처: coindesk.com"
-      },
-      "en": {
-        "title": "Hyperliquid HYPE Tops 24-Hour Gains as Altcoins Outpace Bitcoin",
-        "excerpt": "Hyperliquid token HYPE led 24-hour gains as Bitwise’s new spot Hyperliquid ETF and Coinbase’s expanded role as official USDC treasury deployer fueled market attention.",
-        "body": "Hyperliquid’s token HYPE led gains over the latest 24-hour period, standing out as altcoins moved faster than bitcoin. The advance was linked to two developments: Bitwise’s new spot Hyperliquid ETF and Coinbase’s expanded role for Hyperliquid. Coinbase is taking on a larger position as Hyperliquid’s official USDC treasury deployer. These updates were cited as factors behind stronger market attention on HYPE. The source did not provide a specific percentage gain or detailed ETF terms. In a session where altcoins paced ahead of bitcoin, HYPE emerged as the clearest example. Source: coindesk.com"
-      },
-      "ja": {
-        "title": "HyperliquidのHYPE、24時間上昇率で首位に　アルトコインがビットコインを先行",
-        "excerpt": "HyperliquidのHYPEは24時間上昇率で首位に立った。Bitwiseの現物Hyperliquid ETFとCoinbaseの公式USDC財務配置者としての役割拡大が背景とされる。",
-        "body": "HyperliquidのトークンHYPEは直近24時間の上昇率で首位となり、ビットコインより速い動きを見せたアルトコイン相場をけん引した。上昇の背景には、Bitwiseが新たに進める現物Hyperliquid ETFと、Coinbaseの役割拡大があるとされた。CoinbaseはHyperliquidの公式USDC財務配置者として、より大きな役割を担う。これらの材料がHYPEへの市場関心を高めた要因として挙げられている。ただし原文は具体的な上昇率やETFの詳細条件を示していない。アルトコインがビットコインを先行する局面で、HYPEが最も目立つ例となった。出典: coindesk.com"
-      },
-      "zh": {
-        "title": "Hyperliquid代币HYPE领涨24小时，山寨币走势跑在比特币前面",
-        "excerpt": "Hyperliquid代币HYPE领跑24小时涨幅。Bitwise新的现货Hyperliquid ETF，以及Coinbase扩大作为官方USDC财库部署方的角色，被视为推动因素。",
-        "body": "Hyperliquid的代币HYPE在最近24小时涨幅中位居前列，并在山寨币走势快于比特币的背景下表现突出。上涨背景包括Bitwise新推出的现货Hyperliquid ETF，以及Coinbase在Hyperliquid中的角色扩大。Coinbase将作为Hyperliquid官方USDC财库部署方承担更大作用。上述两项消息被提及为提升市场对HYPE关注度的因素。不过，原文未给出具体涨幅，也未披露该ETF的详细条款。在山寨币领先比特币的行情中，HYPE成为最醒目的案例。来源: coindesk.com"
-      },
-      "es": {
-        "title": "Hyperliquid HYPE lidera las ganancias de 24 horas mientras las altcoins superan a bitcoin",
-        "excerpt": "El token HYPE de Hyperliquid encabezó las ganancias de 24 horas, impulsado por el nuevo ETF spot de Bitwise y el papel ampliado de Coinbase como desplegador oficial de tesorería USDC.",
-        "body": "El token HYPE de Hyperliquid lideró las ganancias durante las últimas 24 horas y destacó en una sesión en la que las altcoins avanzaron más rápido que bitcoin. El movimiento se vinculó con dos novedades: el nuevo ETF spot de Hyperliquid de Bitwise y la ampliación del papel de Coinbase dentro de Hyperliquid. Coinbase asumirá una función mayor como desplegador oficial de la tesorería USDC de Hyperliquid. Ambos hechos fueron citados como factores que elevaron la atención del mercado sobre HYPE. La fuente no ofreció un porcentaje concreto de subida ni detalles específicos del ETF. En un mercado donde las altcoins marcaron el ritmo frente a bitcoin, HYPE fue el caso más destacado. Fuente: coindesk.com"
-      },
-      "pt": {
-        "title": "Hyperliquid HYPE lidera ganhos em 24 horas enquanto altcoins superam bitcoin",
-        "excerpt": "O token HYPE da Hyperliquid liderou os ganhos em 24 horas, com impulso do novo ETF spot da Bitwise e do papel ampliado da Coinbase como implantadora oficial da tesouraria em USDC.",
-        "body": "O token HYPE da Hyperliquid liderou os ganhos nas últimas 24 horas e se destacou em um movimento no qual as altcoins avançaram mais rápido que o bitcoin. A alta foi associada a dois fatores: o novo ETF spot de Hyperliquid da Bitwise e a ampliação do papel da Coinbase no ecossistema. A Coinbase passa a ter uma função maior como implantadora oficial da tesouraria em USDC da Hyperliquid. Essas novidades foram apontadas como elementos que aumentaram a atenção do mercado sobre o HYPE. A fonte não informou uma porcentagem específica de alta nem detalhes completos do ETF. Em um cenário no qual as altcoins ditaram o ritmo frente ao bitcoin, HYPE foi o principal destaque. Fonte: coindesk.com"
-      },
-      "de": {
-        "title": "Hyperliquid HYPE führt 24-Stunden-Gewinne an, während Altcoins Bitcoin überholen",
-        "excerpt": "Der Hyperliquid-Token HYPE führte die 24-Stunden-Gewinne an. Als Treiber gelten Bitwise’ neuer Spot-Hyperliquid-ETF und Coinbases erweiterte Rolle als offizieller USDC-Treasury-Deployer.",
-        "body": "Der Hyperliquid-Token HYPE führte in den jüngsten 24 Stunden die Kursgewinne an und stach hervor, während Altcoins schneller zulegten als Bitcoin. Als Hintergrund wurden zwei Entwicklungen genannt: der neue Spot-Hyperliquid-ETF von Bitwise und die ausgeweitete Rolle von Coinbase bei Hyperliquid. Coinbase übernimmt eine größere Funktion als offizieller USDC-Treasury-Deployer von Hyperliquid. Diese Nachrichten wurden als Faktoren genannt, die das Marktinteresse an HYPE verstärkten. Die Quelle nannte jedoch keinen konkreten prozentualen Anstieg und keine detaillierten ETF-Bedingungen. In einer Phase, in der Altcoins Bitcoin überholten, wurde HYPE zum auffälligsten Beispiel. Quelle: coindesk.com"
-      },
-      "fr": {
-        "title": "Hyperliquid HYPE en tête des gains sur 24 heures alors que les altcoins dépassent bitcoin",
-        "excerpt": "Le token HYPE de Hyperliquid a mené les gains sur 24 heures, soutenu par le nouvel ETF spot de Bitwise et le rôle élargi de Coinbase comme déployeur officiel de la trésorerie USDC.",
-        "body": "Le token HYPE de Hyperliquid a pris la tête des gains sur les dernières 24 heures et s’est distingué alors que les altcoins progressaient plus vite que bitcoin. Cette hausse a été reliée à deux éléments: le nouvel ETF spot Hyperliquid de Bitwise et l’élargissement du rôle de Coinbase auprès de Hyperliquid. Coinbase doit assumer une fonction plus importante comme déployeur officiel de la trésorerie USDC de Hyperliquid. Ces annonces ont été citées comme des facteurs ayant renforcé l’attention du marché sur HYPE. La source n’a pas indiqué de pourcentage précis de hausse ni de conditions détaillées pour l’ETF. Dans une séquence où les altcoins ont devancé bitcoin, HYPE est ressorti comme l’exemple le plus visible. Source: coindesk.com"
-      },
-      "ar": {
-        "title": "عملة Hyperliquid HYPE تتصدر مكاسب 24 ساعة مع تقدم العملات البديلة على بيتكوين",
-        "excerpt": "تصدر رمز HYPE الخاص بـHyperliquid مكاسب 24 ساعة، مدفوعا بصندوق Bitwise الفوري الجديد ودور Coinbase الموسع كجهة نشر رسمية لخزانة USDC الخاصة بـHyperliquid.",
-        "body": "تصدر رمز HYPE الخاص بـHyperliquid المكاسب خلال آخر 24 ساعة، وبرز مع تحرك العملات البديلة بوتيرة أسرع من بيتكوين. ويرتبط هذا الصعود بتطورين رئيسيين: صندوق Bitwise الفوري الجديد لـHyperliquid، وتوسيع دور Coinbase داخل Hyperliquid. وستتولى Coinbase دورا أكبر بصفتها الجهة الرسمية لنشر خزانة USDC الخاصة بـHyperliquid. وذكرت هذه المستجدات كعوامل زادت اهتمام السوق بـHYPE. ولم يقدم المصدر نسبة صعود محددة أو تفاصيل شروط الصندوق المتداول. وفي جلسة سبقت فيها العملات البديلة بيتكوين، ظهر HYPE كأبرز مثال. المصدر: coindesk.com"
-      },
-      "hi": {
-        "title": "Hyperliquid HYPE 24 घंटे की बढ़त में आगे, ऑल्टकॉइन बिटकॉइन से तेज",
-        "excerpt": "Hyperliquid का HYPE टोकन 24 घंटे की बढ़त में सबसे आगे रहा। Bitwise के नए स्पॉट Hyperliquid ETF और Coinbase की आधिकारिक USDC ट्रेजरी डिप्लॉयर भूमिका के विस्तार ने ध्यान बढ़ाया।",
-        "body": "Hyperliquid का टोकन HYPE पिछले 24 घंटों की बढ़त में सबसे आगे रहा और उस समय खास दिखा जब ऑल्टकॉइन बिटकॉइन से तेज चले। इस तेजी के पीछे दो घटनाओं का उल्लेख किया गया: Bitwise का नया स्पॉट Hyperliquid ETF और Hyperliquid में Coinbase की भूमिका का विस्तार। Coinbase अब Hyperliquid के आधिकारिक USDC ट्रेजरी डिप्लॉयर के रूप में बड़ी भूमिका निभा रहा है। इन दोनों खबरों को HYPE पर बाजार का ध्यान बढ़ाने वाले कारणों के रूप में देखा गया। स्रोत ने बढ़त का कोई विशिष्ट प्रतिशत या ETF की विस्तृत शर्तें नहीं दीं। ऐसे बाजार में जहां ऑल्टकॉइन ने बिटकॉइन से बेहतर गति दिखाई, HYPE सबसे प्रमुख उदाहरण बना। स्रोत: coindesk.com"
-      },
-      "id": {
-        "title": "Hyperliquid HYPE Pimpin Kenaikan 24 Jam Saat Altcoin Melaju di Depan Bitcoin",
-        "excerpt": "Token HYPE milik Hyperliquid memimpin kenaikan 24 jam, didorong ETF spot Hyperliquid baru dari Bitwise dan peran Coinbase yang diperluas sebagai deployer resmi treasury USDC.",
-        "body": "Token HYPE milik Hyperliquid memimpin kenaikan dalam 24 jam terakhir dan menonjol saat altcoin bergerak lebih cepat daripada bitcoin. Kenaikan itu dikaitkan dengan dua perkembangan: ETF spot Hyperliquid baru dari Bitwise dan perluasan peran Coinbase di Hyperliquid. Coinbase mengambil peran lebih besar sebagai deployer resmi treasury USDC Hyperliquid. Dua kabar tersebut disebut sebagai faktor yang meningkatkan perhatian pasar terhadap HYPE. Sumber tidak memberikan persentase kenaikan spesifik atau rincian syarat ETF. Dalam sesi ketika altcoin memimpin laju di depan bitcoin, HYPE menjadi contoh paling menonjol. Sumber: coindesk.com"
       }
     }
   }
