@@ -1,0 +1,383 @@
+{
+  "id": "ab53d1783b11",
+  "slug": "ethereums-biggest-sandwich-bot-drained-of-75-million-in-iron-533727",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-06-21T17:45:48.475Z",
+  "updatedAt": "2026-06-21T17:45:48.485Z",
+  "sourceName": "",
+  "sourceUrl": "",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+  "titleFingerprint": "acb898233da2d3e72a1ca64257c4da84ac393bee",
+  "dedupKeys": [
+    "ab53d1783b112832ab8042f3c72f47650c88e377",
+    "acb898233da2d3e72a1ca64257c4da84ac393bee",
+    "db3593b7f53d387e79746fbb82ba196ea8010766"
+  ],
+  "imageUrl": "/images/articles/ab53d1783b11.jpg",
+  "i18n": {
+    "ko": {
+      "title": "이더리움 최대 샌드위치 봇 Jaredfromsubway.eth, 가짜 경로 승인 후 750만달러 유출",
+      "excerpt": "최근 이더리움 최대 샌드위치 봇 Jaredfromsubway.eth가 가짜 거래 경로를 승인하도록 유도된 뒤 WETH, USDC, USDT에서 총 750만달러를 빼앗겼다. MEV 수익을 노리던 자동화 봇이 승인 권한 공격의 피해자가 되며 국내 투자자의 지갑 관리 경고가 커졌다.",
+      "metaDescription": "Jaredfromsubway.eth가 가짜 거래 경로 승인 공격으로 WETH, USDC, USDT 750만달러를 잃었다. 원화 약 100억원대 피해, 이더리움 MEV 봇 보안과 국내 투자자 영향까지 정리했다.",
+      "summary": "이더리움 최대 샌드위치 봇 Jaredfromsubway.eth가 가짜 거래 경로를 승인한 뒤 750만달러 상당의 WETH, USDC, USDT를 잃었다. 공격자는 봇의 자동화된 승인 구조를 이용해 자금을 빼냈다. 피해액은 원화로 약 100억원대다. 이번 사건은 디파이 지갑 승인 관리와 MEV 봇 보안의 취약성을 드러냈다.",
+      "body": "이더리움 최대 샌드위치 봇으로 분류되는 Jaredfromsubway.eth가 가짜 거래 경로 승인 공격으로 750만달러 규모 자금을 잃었다. 공격자는 봇이 정상 거래 라우팅으로 인식하도록 설계된 허위 경로를 제시했고, 봇이 부여한 승인 권한을 이용해 WETH, USDC, USDT를 빼냈다. 달러당 1,350원 단순 환산 기준 피해액은 약 101억원이다. 다른 이용자의 거래 앞뒤에 주문을 배치해 이익을 얻던 자동화 봇이 권한 남용 공격의 피해자가 된 점에서 사건의 상징성이 크다.\n## MEV 봇을 노린 승인 권한 공격\n샌드위치 봇은 탈중앙화거래소 주문 흐름을 빠르게 읽고 특정 거래 전후에 매수와 매도를 끼워 넣는 MEV 전략을 쓴다. 이 전략은 체결 순서와 가스비 경쟁을 이용하기 때문에 봇의 라우팅 엔진, 승인 관리, 지갑 권한이 모두 자동화돼 있다. 이번 공격은 그 자동화 구조를 정면으로 찔렀다. 공격자는 실제 거래처럼 보이는 경로를 만들고 Jaredfromsubway.eth가 해당 경로를 승인하게 한 뒤, 이미 열린 승인 한도를 이용해 래핑 이더인 WETH와 달러 연동 스테이블코인 USDC, USDT를 외부 주소로 이동시켰다. 개인키 탈취보다 토큰 승인과 라우터 신뢰를 악용한 유형에 가깝다.\n## 750만달러 손실이 던진 시장 경고\n피해 규모 750만달러는 국내 투자자 기준으로도 작은 금액이 아니다. 원화 100억원대 자금이 단일 봇의 승인 실수에서 빠져나간 셈이다. 특히 USDC와 USDT는 글로벌 유동성의 핵심 결제 수단이고 WETH는 디파이 담보와 거래쌍에서 널리 쓰인다. 훔친 자금이 여러 주소와 스왑 경로를 거치면 국내 거래소의 의심 입금 모니터링, 외부지갑 출처 확인, 스테이블코인 유동성 관리 부담도 커질 수 있다. 한국 이용자에게도 핵심은 단순하다. 디파이 지갑에서 오래된 토큰 승인, 무제한 승인, 검증되지 않은 라우터 권한을 그대로 두면 자동화 봇이 아니어도 같은 방식의 피해가 발생할 수 있다.\n## 전망과 대응 포인트\n이번 사건은 MEV 생태계의 수익성보다 보안 설계가 먼저라는 메시지를 남긴다. 앞으로 고빈도 온체인 전략을 운영하는 지갑은 라우터 화이트리스트, 승인 한도 제한, 실시간 이상 거래 차단, 다중 서명 출금 통제를 기본값으로 채택할 가능성이 크다. 국내 투자자는 거래소 보관 자산과 개인지갑 자산을 분리해 관리하고, DEX 이용 뒤에는 승인 취소 도구로 권한을 점검하는 습관이 필요하다. 이더리움 디파이 시장에서는 샌드위치 공격을 둘러싼 윤리 논쟁과 별개로, 권한 기반 공격을 막는 보안 표준 강화가 빠르게 진행될 전망이다.",
+      "keywords": [
+        "이더리움",
+        "샌드위치 봇",
+        "Jaredfromsubway.eth",
+        "MEV",
+        "WETH",
+        "USDC",
+        "USDT",
+        "디파이 보안",
+        "토큰 승인",
+        "가상자산 해킹"
+      ],
+      "faq": [
+        {
+          "q": "Jaredfromsubway.eth는 무엇을 잃었나?",
+          "a": "가짜 거래 경로 승인 공격으로 WETH, USDC, USDT 등 총 750만달러 상당의 자금을 잃었다."
+        },
+        {
+          "q": "공격은 어떻게 이뤄졌나?",
+          "a": "공격자는 봇이 허위 거래 경로를 정상 라우팅으로 승인하게 만든 뒤 그 승인 권한을 이용해 토큰을 빼냈다."
+        },
+        {
+          "q": "국내 투자자는 무엇을 점검해야 하나?",
+          "a": "디파이 지갑의 오래된 토큰 승인, 무제한 승인, 검증되지 않은 라우터 권한을 정기적으로 취소하거나 제한해야 한다."
+        }
+      ]
+    },
+    "en": {
+      "title": "Ethereum Sandwich Bot Jaredfromsubway.eth Drained of $7.5M via Fake Routes",
+      "excerpt": "Ethereum’s largest sandwich bot, Jaredfromsubway.eth, recently lost $7.5 million after approving fake trading routes that let an attacker drain WETH, USDC and USDT. The case puts MEV bot approval security and DeFi wallet hygiene under sharp",
+      "metaDescription": "Jaredfromsubway.eth lost $7.5 million in WETH, USDC and USDT after approving fake trading routes. The exploit highlights Ethereum MEV bot risks and token approval security.",
+      "summary": "Jaredfromsubway.eth, Ethereum’s largest sandwich bot, lost $7.5 million after it was induced to approve fake trading routes. The attacker used those approvals to drain WETH, USDC and USDT. The loss equals roughly more than 10 billion won on a simple conversion basis. The incident exposes approval risk across MEV bots and DeFi wallets.",
+      "body": "Jaredfromsubway.eth, Ethereum’s largest sandwich bot, has lost $7.5 million through a fake trading-route approval exploit. The attacker presented routes that the bot treated as legitimate, then used the granted approvals to drain WETH, USDC and USDT. At a simple 1,350 won per dollar conversion, the loss is about 10.1 billion won. The irony is clear: an automated bot built to profit from positioning trades around other users became the victim of an approval-abuse attack.\n## Approval Attack on an MEV Bot\nSandwich bots read decentralized exchange order flow and place buys and sells around target trades. That strategy depends on speed, routing automation, gas bidding and broad token permissions. This exploit hit that automation layer. Once Jaredfromsubway.eth approved the fake routes, the attacker used the open allowance to move wrapped ether and dollar-linked stablecoins out of the bot’s control. The case is closer to token-approval abuse than private-key theft.\n## Why the Loss Matters\nA $7.5 million loss is material for Korean investors as well, equal to roughly 10 billion won. USDC and USDT are core liquidity rails, while WETH is widely used in DeFi collateral and trading pairs. If stolen funds pass through multiple addresses and swaps, Korean exchanges may face higher monitoring pressure around suspicious deposits and external-wallet origin checks. Users should review old approvals, unlimited allowances and unverified routers after using DEX services.\n## Outlook\nThe incident shows that MEV profitability cannot outrun basic security design. High-frequency on-chain strategies are likely to adopt stricter router allowlists, allowance caps, real-time anomaly blocks and multisig withdrawal controls. For ordinary users, the lesson is practical: separate exchange custody from self-custody and revoke unnecessary token approvals after DeFi activity.",
+      "keywords": [
+        "Ethereum",
+        "sandwich bot",
+        "Jaredfromsubway.eth",
+        "MEV",
+        "WETH",
+        "USDC",
+        "USDT",
+        "DeFi security",
+        "token approval",
+        "crypto exploit"
+      ],
+      "faq": [
+        {
+          "q": "What did Jaredfromsubway.eth lose?",
+          "a": "It lost $7.5 million worth of WETH, USDC and USDT after approving fake trading routes."
+        },
+        {
+          "q": "How did the exploit work?",
+          "a": "The attacker made the bot approve fake routes, then used those approvals to drain tokens from the bot’s wallet."
+        },
+        {
+          "q": "What should DeFi users check?",
+          "a": "Users should review old token approvals, revoke unlimited allowances and avoid granting permissions to unverified routers."
+        }
+      ]
+    },
+    "ja": {
+      "title": "イーサリアム最大サンドイッチボット、偽ルート承認で750万ドル流出",
+      "excerpt": "イーサリアム最大級のサンドイッチボットJaredfromsubway.ethが、偽の取引ルートを承認させられた後、WETH、USDC、USDTで計750万ドルを失った。MEVボットの承認管理とDeFiウォレット運用が改めて問われている。",
+      "metaDescription": "Jaredfromsubway.ethが偽の取引ルート承認攻撃でWETH、USDC、USDT計750万ドルを失った。イーサリアムMEVボットとDeFi承認リスクを整理する。",
+      "summary": "イーサリアム最大のサンドイッチボットJaredfromsubway.ethが、偽の取引ルートを承認した後に750万ドル相当のWETH、USDC、USDTを失った。攻撃者は自動化された承認構造を悪用した。被害額は単純換算で韓国ウォン100億ウォン規模に達する。今回の事件はMEVボットとDeFiウォレットの承認管理リスクを浮き彫りにした。",
+      "body": "イーサリアム最大のサンドイッチボットとされるJaredfromsubway.ethが、偽の取引ルート承認攻撃により750万ドル規模の資金を失った。攻撃者は正規のルーティングに見える経路を提示し、ボットが与えた承認権限を使ってWETH、USDC、USDTを引き出した。1ドル1,350ウォンで単純換算すると被害額は約101億ウォンに相当する。他の利用者の取引前後に注文を置いて利益を狙う自動化ボットが、承認権限の悪用で被害者になった点が象徴的だ。\n## MEVボットを狙った承認攻撃\nサンドイッチボットは分散型取引所の注文フローを読み取り、対象取引の前後に売買を差し込むMEV戦略を使う。速度、ルート選択、ガス代競争、広いトークン権限が前提となる。今回の攻撃はその自動化層を突いた。偽ルートが承認された後、開かれたアローワンスを使ってラップドイーサとドル連動ステーブルコインが外部に移された。秘密鍵窃取よりもトークン承認とルーター信頼の悪用に近い。\n## 市場への警告\n750万ドルの損失は韓国投資家にとっても小さくない。USDCとUSDTは流動性の中心で、WETHはDeFi担保や取引ペアで広く使われる。資金が複数アドレスやスワップを経由すれば、韓国取引所の疑わしい入金監視や外部ウォレット確認の負担も増える。利用者は古い承認、無制限承認、未検証ルーター権限を定期的に取り消す必要がある。\n## 見通し\n今回の事件は、MEVの収益性より安全設計が先にあることを示した。高頻度オンチェーン戦略では、ルーターのホワイトリスト、承認上限、異常取引遮断、マルチシグ出金管理が標準化するとみられる。一般利用者も取引所保管資産と自己管理ウォレットを分け、DEX利用後に承認状況を確認する習慣が必要だ。",
+      "keywords": [
+        "イーサリアム",
+        "サンドイッチボット",
+        "Jaredfromsubway.eth",
+        "MEV",
+        "WETH",
+        "USDC",
+        "USDT",
+        "DeFiセキュリティ",
+        "トークン承認",
+        "暗号資産流出"
+      ],
+      "faq": [
+        {
+          "q": "Jaredfromsubway.ethは何を失ったのか。",
+          "a": "偽の取引ルート承認攻撃により、WETH、USDC、USDTで計750万ドル相当を失った。"
+        },
+        {
+          "q": "攻撃はどのように行われたのか。",
+          "a": "攻撃者は偽ルートを承認させ、その承認権限を使ってボットのトークンを移動させた。"
+        },
+        {
+          "q": "利用者は何を確認すべきか。",
+          "a": "古いトークン承認、無制限承認、未検証ルーターへの権限付与を定期的に取り消すべきだ。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "以太坊最大三明治机器人Jaredfromsubway.eth因虚假交易路径授权流失750万美元",
+      "excerpt": "以太坊最大三明治机器人Jaredfromsubway.eth近日被诱导批准虚假交易路径，随后WETH、USDC和USDT共计750万美元被转走。事件暴露MEV机器人授权管理和DeFi钱包安全风险。",
+      "metaDescription": "Jaredfromsubway.eth因批准虚假交易路径损失750万美元WETH、USDC和USDT。以太坊MEV机器人安全、代币授权和韩国市场影响全面梳理。",
+      "summary": "以太坊最大三明治机器人Jaredfromsubway.eth在批准虚假交易路径后，损失750万美元的WETH、USDC和USDT。攻击者利用自动化授权结构转走资产。按简单汇率折算，损失约为100亿韩元级别。该事件凸显MEV机器人和DeFi钱包的授权风险。",
+      "body": "以太坊最大三明治机器人Jaredfromsubway.eth因虚假交易路径授权攻击损失750万美元。攻击者构造看似正常的交易路由，使机器人授予权限，随后利用该授权转走WETH、USDC和USDT。按1美元兑1,350韩元简单折算，损失约101亿韩元。一个通过夹在其他用户交易前后获利的自动化机器人，反而成为授权滥用攻击的受害者，这一反差具有强烈警示意义。\n## 针对MEV机器人的授权攻击\n三明治机器人读取去中心化交易所订单流，并在目标交易前后插入买卖单，以获取MEV收益。该策略依赖高速执行、路由自动化、Gas竞争和较宽的代币权限。本次攻击正是击中了这套自动化结构。Jaredfromsubway.eth批准虚假路径后，攻击者利用已开放的额度，把包装以太WETH以及美元稳定币USDC、USDT转出。此类事件更接近代币授权和路由信任滥用，而非私钥被盗。\n## 市场警示\n750万美元对韩国投资者同样不是小数目，相当于100亿韩元级资金。USDC和USDT是全球流动性的核心通道，WETH则广泛用于DeFi抵押和交易对。如果被盗资金经多个地址和兑换路径流动，韩国交易所对可疑入金、外部钱包来源和稳定币流动性的管理压力也可能上升。普通用户应定期检查旧授权、无限授权和未经验证的路由器权限。\n## 后续趋势\n事件说明，MEV收益不能替代基础安全设计。高频链上策略预计会更重视路由白名单、授权上限、实时异常交易拦截和多签提现控制。对普通投资者而言，交易所托管资产与自托管钱包应分开管理，使用DEX后应及时撤销不必要的代币授权。",
+      "keywords": [
+        "以太坊",
+        "三明治机器人",
+        "Jaredfromsubway.eth",
+        "MEV",
+        "WETH",
+        "USDC",
+        "USDT",
+        "DeFi安全",
+        "代币授权",
+        "加密资产攻击"
+      ],
+      "faq": [
+        {
+          "q": "Jaredfromsubway.eth损失了什么？",
+          "a": "它在虚假交易路径授权攻击中损失了价值750万美元的WETH、USDC和USDT。"
+        },
+        {
+          "q": "攻击方式是什么？",
+          "a": "攻击者诱导机器人批准虚假路径，然后利用这些授权转走钱包中的代币。"
+        },
+        {
+          "q": "DeFi用户应检查什么？",
+          "a": "应检查并撤销旧的代币授权、无限授权以及授予未验证路由器的权限。"
+        }
+      ]
+    },
+    "es": {
+      "title": "Bot sándwich de Ethereum Jaredfromsubway.eth pierde $7,5M por rutas falsas",
+      "excerpt": "El mayor bot sándwich de Ethereum, Jaredfromsubway.eth, perdió recientemente $7,5 millones tras aprobar rutas de trading falsas que permitieron drenar WETH, USDC y USDT. El caso eleva la alerta sobre permisos de tokens, MEV y seguridad DeFi",
+      "metaDescription": "Jaredfromsubway.eth perdió $7,5 millones en WETH, USDC y USDT tras aprobar rutas de trading falsas. Claves del riesgo MEV, permisos DeFi e impacto para inversores coreanos.",
+      "summary": "Jaredfromsubway.eth, el mayor bot sándwich de Ethereum, perdió $7,5 millones después de aprobar rutas de trading falsas. El atacante usó esas aprobaciones para drenar WETH, USDC y USDT. La cifra equivale a más de 10.000 millones de wones en conversión simple. El incidente expone riesgos críticos en permisos de tokens y bots MEV.",
+      "body": "Jaredfromsubway.eth, considerado el mayor bot sándwich de Ethereum, perdió $7,5 millones mediante un ataque de aprobación de rutas falsas. El atacante presentó rutas que el bot interpretó como legítimas y luego usó los permisos concedidos para retirar WETH, USDC y USDT. Con una conversión simple de 1.350 wones por dólar, el daño ronda los 10.100 millones de wones. La paradoja es clara: un bot automatizado que buscaba ganancias alrededor de operaciones ajenas terminó atrapado por un abuso de permisos.\n## Ataque de permisos contra un bot MEV\nLos bots sándwich leen el flujo de órdenes de los DEX y colocan compras y ventas antes y después de una transacción objetivo. Esta estrategia depende de velocidad, automatización de rutas, competencia por gas y permisos amplios. El ataque golpeó esa capa. Tras aprobar las rutas falsas, Jaredfromsubway.eth dejó abierta una autorización que permitió mover ether envuelto y stablecoins vinculadas al dólar. No se trata tanto de robo de clave privada como de abuso de aprobación y confianza en el router.\n## Impacto de mercado\nUna pérdida de $7,5 millones también es relevante para inversores coreanos, por encima de los 10.000 millones de wones. USDC y USDT son ejes de liquidez global, mientras WETH se usa ampliamente en garantías y pares DeFi. Si los fondos pasan por varias direcciones y swaps, los exchanges coreanos pueden enfrentar más presión al monitorear depósitos sospechosos y orígenes de billeteras externas. Los usuarios deben revisar aprobaciones antiguas, permisos ilimitados y routers no verificados.\n## Perspectiva\nEl caso muestra que la rentabilidad MEV no sustituye un diseño de seguridad sólido. Las estrategias on-chain de alta frecuencia probablemente adoptarán listas blancas de routers, límites de autorización, bloqueos de anomalías en tiempo real y retiros con multifirma. Para usuarios comunes, la respuesta es práctica: separar custodia en exchanges y autocustodia, y revocar permisos innecesarios después de usar DEX.",
+      "keywords": [
+        "Ethereum",
+        "bot sándwich",
+        "Jaredfromsubway.eth",
+        "MEV",
+        "WETH",
+        "USDC",
+        "USDT",
+        "seguridad DeFi",
+        "aprobación de tokens",
+        "exploit cripto"
+      ],
+      "faq": [
+        {
+          "q": "¿Qué perdió Jaredfromsubway.eth?",
+          "a": "Perdió $7,5 millones en WETH, USDC y USDT tras aprobar rutas de trading falsas."
+        },
+        {
+          "q": "¿Cómo funcionó el ataque?",
+          "a": "El atacante hizo que el bot aprobara rutas falsas y luego usó esos permisos para drenar los tokens."
+        },
+        {
+          "q": "¿Qué deben revisar los usuarios DeFi?",
+          "a": "Deben revisar aprobaciones antiguas, retirar permisos ilimitados y evitar routers no verificados."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Bot sanduíche da Ethereum Jaredfromsubway.eth perde US$ 7,5 mi em rotas falsas",
+      "excerpt": "O maior bot sanduíche da Ethereum, Jaredfromsubway.eth, perdeu recentemente US$ 7,5 milhões após aprovar rotas de negociação falsas que permitiram drenar WETH, USDC e USDT. O caso reforça o risco de aprovações em bots MEV e carteiras DeFi.",
+      "metaDescription": "Jaredfromsubway.eth perdeu US$ 7,5 milhões em WETH, USDC e USDT após aprovar rotas falsas. Entenda o risco em bots MEV, aprovações DeFi e impacto para investidores coreanos.",
+      "summary": "Jaredfromsubway.eth, o maior bot sanduíche da Ethereum, perdeu US$ 7,5 milhões depois de aprovar rotas de negociação falsas. O atacante usou essas aprovações para drenar WETH, USDC e USDT. O prejuízo equivale a mais de 10 bilhões de wons em conversão simples. O episódio expõe falhas de segurança em permissões de tokens e bots MEV.",
+      "body": "Jaredfromsubway.eth, classificado como o maior bot sanduíche da Ethereum, perdeu US$ 7,5 milhões em um ataque de aprovação de rotas falsas. O atacante apresentou caminhos que o bot tratou como legítimos e usou as permissões concedidas para retirar WETH, USDC e USDT. Com conversão simples de 1.350 wons por dólar, o prejuízo fica perto de 10,1 bilhões de wons. O ponto simbólico é forte: um bot automatizado criado para lucrar com operações ao redor de outros usuários virou vítima de abuso de autorização.\n## Ataque de aprovação contra bot MEV\nBots sanduíche leem o fluxo de ordens em DEXs e inserem compras e vendas antes e depois de uma transação alvo. A estratégia depende de velocidade, rotas automatizadas, disputa por gas e permissões amplas de tokens. O ataque atingiu exatamente essa camada. Depois que Jaredfromsubway.eth aprovou as rotas falsas, o atacante usou a allowance aberta para mover ether encapsulado e stablecoins em dólar. O caso se aproxima mais de abuso de aprovação do que de roubo de chave privada.\n## Alerta para o mercado\nUS$ 7,5 milhões também é relevante para investidores coreanos, acima de 10 bilhões de wons. USDC e USDT são trilhos centrais de liquidez, enquanto WETH é usado em garantias e pares DeFi. Se os fundos roubados passarem por endereços e swaps diversos, exchanges coreanas podem intensificar o monitoramento de depósitos suspeitos e origem de carteiras externas. Usuários devem revisar aprovações antigas, permissões ilimitadas e routers não verificados.\n## Perspectiva\nO episódio mostra que lucro em MEV não substitui segurança básica. Estratégias on-chain de alta frequência devem adotar listas permitidas de routers, limites de aprovação, bloqueio de anomalias em tempo real e saques por multisig. Para usuários comuns, a orientação é separar custódia em exchanges e autocustódia, e revogar permissões desnecessárias após usar DEXs.",
+      "keywords": [
+        "Ethereum",
+        "bot sanduíche",
+        "Jaredfromsubway.eth",
+        "MEV",
+        "WETH",
+        "USDC",
+        "USDT",
+        "segurança DeFi",
+        "aprovação de tokens",
+        "exploit cripto"
+      ],
+      "faq": [
+        {
+          "q": "O que Jaredfromsubway.eth perdeu?",
+          "a": "Perdeu US$ 7,5 milhões em WETH, USDC e USDT após aprovar rotas de negociação falsas."
+        },
+        {
+          "q": "Como o ataque ocorreu?",
+          "a": "O atacante fez o bot aprovar rotas falsas e depois usou essas permissões para drenar os tokens."
+        },
+        {
+          "q": "O que usuários DeFi devem verificar?",
+          "a": "Devem revisar aprovações antigas, revogar permissões ilimitadas e evitar routers não verificados."
+        }
+      ]
+    },
+    "de": {
+      "title": "Ethereum-Sandwich-Bot Jaredfromsubway.eth verliert 7,5 Mio. Dollar über Fake-Routen",
+      "excerpt": "Der größte Sandwich-Bot auf Ethereum, Jaredfromsubway.eth, verlor jüngst 7,5 Millionen Dollar, nachdem er gefälschte Handelsrouten genehmigt hatte. Dadurch konnten WETH, USDC und USDT abgezogen werden, was MEV-Bot-Sicherheit und DeFi-Approv",
+      "metaDescription": "Jaredfromsubway.eth verlor 7,5 Mio. Dollar in WETH, USDC und USDT durch gefälschte Handelsrouten. Analyse zu Ethereum-MEV, Token-Approvals und Risiken für koreanische Anleger.",
+      "summary": "Jaredfromsubway.eth, der größte Sandwich-Bot auf Ethereum, verlor 7,5 Millionen Dollar nach der Genehmigung gefälschter Handelsrouten. Der Angreifer nutzte diese Approvals, um WETH, USDC und USDT abzuziehen. Der Schaden entspricht grob mehr als 10 Milliarden Won. Der Fall zeigt Schwächen bei Token-Genehmigungen, MEV-Bots und DeFi-Wallets.",
+      "body": "Jaredfromsubway.eth, der größte Sandwich-Bot auf Ethereum, hat durch einen Angriff mit gefälschten Handelsrouten 7,5 Millionen Dollar verloren. Der Angreifer präsentierte Routen, die der Bot als legitim behandelte, und nutzte anschließend die erteilten Genehmigungen, um WETH, USDC und USDT abzuziehen. Bei einer einfachen Umrechnung von 1.350 Won je Dollar entspricht das etwa 10,1 Milliarden Won. Die Ironie ist deutlich: Ein automatisierter Bot, der rund um fremde Trades Gewinne erzielen sollte, wurde selbst Opfer eines Approval-Missbrauchs.\n## Angriff auf einen MEV-Bot\nSandwich-Bots lesen Orderflüsse dezentraler Börsen und platzieren Käufe und Verkäufe vor und nach Zieltransaktionen. Diese Strategie hängt von Geschwindigkeit, automatisierten Routen, Gas-Wettbewerb und breiten Token-Berechtigungen ab. Genau diese Ebene wurde getroffen. Nach der Zustimmung zu Fake-Routen konnte der Angreifer die offene Allowance nutzen und Wrapped Ether sowie Dollar-Stablecoins verschieben. Der Fall ähnelt eher einem Missbrauch von Token-Approvals als einem Diebstahl privater Schlüssel.\n## Marktsignal\n7,5 Millionen Dollar sind auch aus Sicht koreanischer Anleger erheblich und liegen grob im Bereich von 10 Milliarden Won. USDC und USDT sind zentrale Liquiditätswege, WETH wird breit in DeFi-Sicherheiten und Handelspaaren genutzt. Wenn gestohlene Gelder über mehrere Adressen und Swaps laufen, steigt der Druck auf koreanische Börsen bei verdächtigen Einzahlungen und externen Wallet-Prüfungen. Nutzer sollten alte Approvals, unbegrenzte Berechtigungen und ungeprüfte Router regelmäßig entfernen.\n## Ausblick\nDer Vorfall zeigt, dass MEV-Rendite ohne solide Sicherheit nicht trägt. Hochfrequente On-Chain-Strategien dürften strengere Router-Whitelists, Approval-Limits, Echtzeit-Anomaliesperren und Multisig-Auszahlungen übernehmen. Für normale Nutzer bleibt die wichtigste Maßnahme, Börsenverwahrung und Self-Custody zu trennen und nach DEX-Nutzung unnötige Token-Berechtigungen zu widerrufen.",
+      "keywords": [
+        "Ethereum",
+        "Sandwich-Bot",
+        "Jaredfromsubway.eth",
+        "MEV",
+        "WETH",
+        "USDC",
+        "USDT",
+        "DeFi-Sicherheit",
+        "Token-Approval",
+        "Krypto-Exploit"
+      ],
+      "faq": [
+        {
+          "q": "Was hat Jaredfromsubway.eth verloren?",
+          "a": "Der Bot verlor 7,5 Millionen Dollar in WETH, USDC und USDT nach der Genehmigung gefälschter Handelsrouten."
+        },
+        {
+          "q": "Wie funktionierte der Angriff?",
+          "a": "Der Angreifer ließ den Bot Fake-Routen genehmigen und nutzte diese Approvals, um Token abzuziehen."
+        },
+        {
+          "q": "Was sollten DeFi-Nutzer prüfen?",
+          "a": "Sie sollten alte Token-Approvals, unbegrenzte Berechtigungen und nicht geprüfte Router regelmäßig widerrufen."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Le bot sandwich Ethereum Jaredfromsubway.eth perd 7,5 M$ via de fausses routes",
+      "excerpt": "Le plus grand bot sandwich d’Ethereum, Jaredfromsubway.eth, a récemment perdu 7,5 millions de dollars après avoir approuvé de fausses routes de trading. WETH, USDC et USDT ont été drainés, relançant l’alerte sur les permissions MEV et DeFi.",
+      "metaDescription": "Jaredfromsubway.eth a perdu 7,5 M$ en WETH, USDC et USDT après avoir approuvé de fausses routes. Analyse des risques MEV, DeFi et des impacts pour les investisseurs coréens.",
+      "summary": "Jaredfromsubway.eth, le plus grand bot sandwich d’Ethereum, a perdu 7,5 millions de dollars après avoir approuvé de fausses routes de trading. L’attaquant a utilisé ces autorisations pour drainer WETH, USDC et USDT. Le montant équivaut à plus de 10 milliards de wons en conversion simple. L’incident met en évidence les failles de gestion des approvals dans le",
+      "body": "Jaredfromsubway.eth, considéré comme le plus grand bot sandwich d’Ethereum, a perdu 7,5 millions de dollars lors d’une attaque fondée sur l’approbation de fausses routes de trading. L’attaquant a présenté des chemins que le bot a traités comme légitimes, puis a utilisé les permissions accordées pour retirer WETH, USDC et USDT. Avec une conversion simple à 1 350 wons pour un dollar, la perte atteint environ 10,1 milliards de wons. Le symbole est fort: un bot automatisé conçu pour profiter des transactions d’autrui est devenu victime d’un abus d’autorisation.\n## Une attaque contre un bot MEV\nLes bots sandwich lisent le flux d’ordres des DEX et placent des achats et ventes avant et après une transaction cible. La stratégie repose sur la vitesse, l’automatisation des routes, la concurrence sur le gas et des permissions de tokens étendues. L’attaque a touché cette couche. Une fois les fausses routes approuvées, l’attaquant a utilisé l’allocation ouverte pour déplacer l’ether enveloppé et les stablecoins en dollars. Il s’agit davantage d’un abus d’approval que d’un vol de clé privée.\n## Signal pour le marché\nUne perte de 7,5 millions de dollars est aussi significative pour les investisseurs coréens, au-dessus de 10 milliards de wons. USDC et USDT sont des rails majeurs de liquidité, tandis que WETH sert largement de collatéral et de paire DeFi. Si les fonds passent par plusieurs adresses et swaps, les plateformes coréennes pourraient renforcer la surveillance des dépôts suspects et des portefeuilles externes. Les utilisateurs doivent vérifier les anciennes permissions, les approvals illimités et les routeurs non validés.\n## Perspectives\nL’affaire montre que la rentabilité MEV ne remplace pas une sécurité solide. Les stratégies on-chain à haute fréquence devraient adopter des listes blanches de routeurs, des plafonds d’autorisation, des blocages d’anomalies en temps réel et des retraits multisig. Pour les particuliers, la règle pratique consiste à séparer conservation en bourse et autocustodie, puis à révoquer les permissions inutiles après utilisation d’un DEX.",
+      "keywords": [
+        "Ethereum",
+        "bot sandwich",
+        "Jaredfromsubway.eth",
+        "MEV",
+        "WETH",
+        "USDC",
+        "USDT",
+        "sécurité DeFi",
+        "approval token",
+        "exploit crypto"
+      ],
+      "faq": [
+        {
+          "q": "Qu’a perdu Jaredfromsubway.eth ?",
+          "a": "Le bot a perdu 7,5 millions de dollars en WETH, USDC et USDT après avoir approuvé de fausses routes."
+        },
+        {
+          "q": "Comment l’attaque a-t-elle fonctionné ?",
+          "a": "L’attaquant a fait approuver de fausses routes au bot, puis a utilisé ces permissions pour drainer les tokens."
+        },
+        {
+          "q": "Que doivent vérifier les utilisateurs DeFi ?",
+          "a": "Ils doivent révoquer les anciennes permissions, limiter les approvals illimités et éviter les routeurs non vérifiés."
+        }
+      ]
+    },
+    "ar": {
+      "title": "أكبر روبوت ساندويتش على إيثريوم يخسر 7.5 مليون دولار عبر مسارات مزيفة",
+      "excerpt": "خسر Jaredfromsubway.eth، أكبر روبوت ساندويتش على إيثريوم، 7.5 مليون دولار بعد الموافقة على مسارات تداول مزيفة أتاحت سحب WETH وUSDC وUSDT. الحادث يضع أمان موافقات التوكنات وروبوتات MEV تحت ضغط جديد.",
+      "metaDescription": "Jaredfromsubway.eth خسر 7.5 مليون دولار من WETH وUSDC وUSDT بعد موافقة على مسارات تداول مزيفة. تحليل لمخاطر MEV وDeFi وتأثيرها على المستثمرين الكوريين.",
+      "summary": "خسر Jaredfromsubway.eth، أكبر روبوت ساندويتش على إيثريوم، 7.5 مليون دولار بعد أن وافق على مسارات تداول مزيفة. استخدم المهاجم تلك الموافقات لسحب WETH وUSDC وUSDT. يعادل الضرر أكثر من 10 مليارات وون بحساب تقريبي. تكشف الحادثة ضعف إدارة الموافقات في روبوتات MEV ومحافظ DeFi.",
+      "body": "خسر Jaredfromsubway.eth، المصنف كأكبر روبوت ساندويتش على إيثريوم، 7.5 مليون دولار عبر هجوم اعتمد على موافقة مسارات تداول مزيفة. صمم المهاجم مسارات بدت شرعية للروبوت، ثم استخدم الصلاحيات الممنوحة لسحب WETH وUSDC وUSDT. وبحساب بسيط عند 1,350 وون للدولار، يصل الضرر إلى نحو 10.1 مليارات وون. المفارقة واضحة: روبوت آلي صمم للربح من وضع الصفقات حول معاملات الآخرين أصبح ضحية لإساءة استخدام الموافقات.\n## هجوم موافقات على روبوت MEV\nتقرأ روبوتات الساندويتش تدفق أوامر البورصات اللامركزية وتضع أوامر شراء وبيع قبل الصفقة المستهدفة وبعدها. تعتمد هذه الاستراتيجية على السرعة، وأتمتة التوجيه، ومنافسة رسوم الغاز، وصلاحيات واسعة للتوكنات. أصاب الهجوم هذه الطبقة مباشرة. بعد موافقة Jaredfromsubway.eth على المسارات المزيفة، استخدم المهاجم الحد المفتوح لنقل الإيثر المغلف والعملات المستقرة المرتبطة بالدولار إلى عناوين خارجية. الحادث أقرب إلى إساءة استخدام موافقات التوكنات منه إلى سرقة مفتاح خاص.\n## دلالة السوق\nخسارة 7.5 مليون دولار مهمة أيضا للمستثمرين الكوريين، فهي تتجاوز 10 مليارات وون تقريبا. USDC وUSDT قناتان مركزيتان للسيولة، وWETH مستخدم على نطاق واسع في الضمانات وأزواج التداول داخل DeFi. إذا تحركت الأموال المسروقة عبر عناوين ومقايضات متعددة، فقد ترتفع أعباء مراقبة الإيداعات المشبوهة ومصادر المحافظ الخارجية على المنصات الكورية. على المستخدمين مراجعة الموافقات القديمة، والصلاحيات غير المحدودة، والراوترات غير الموثقة.\n## التوقعات\nتوضح الحادثة أن أرباح MEV لا تكفي من دون تصميم أمني قوي. من المتوقع أن تعتمد استراتيجيات التداول السريع على السلسلة قوائم راوترات مسموحة، وحدودا للموافقات، وحجبا فوريا للمعاملات الشاذة، وتحكما بالسحب عبر توقيعات متعددة. أما المستخدم العادي فعليه فصل أصول المنصات عن الحفظ الذاتي وإلغاء الموافقات غير الضرورية بعد استخدام DEX.",
+      "keywords": [
+        "إيثريوم",
+        "روبوت ساندويتش",
+        "Jaredfromsubway.eth",
+        "MEV",
+        "WETH",
+        "USDC",
+        "USDT",
+        "أمان DeFi",
+        "موافقة التوكن",
+        "اختراق كريبتو"
+      ],
+      "faq": [
+        {
+          "q": "ماذا خسر Jaredfromsubway.eth؟",
+          "a": "خسر 7.5 مليون دولار من WETH وUSDC وUSDT بعد الموافقة على مسارات تداول مزيفة."
+        },
+        {
+          "q": "كيف حدث الهجوم؟",
+          "a": "دفع المهاجم الروبوت إلى الموافقة على مسارات مزيفة، ثم استخدم تلك الصلاحيات لسحب التوكنات."
+        },
+        {
+          "q": "ما الذي يجب على مستخدمي DeFi فحصه؟",
+          "a": "ينبغي فحص الموافقات القديمة، وإلغاء الصلاحيات غير المحدودة، وتجنب منح أذونات لراوترات غير موثقة."
+        }
+      ]
+    },
+    "hi": {
+      "title": "Ethereum sandwich bot Jaredfromsubway.eth fake routes से $7.5M गंवाया",
+      "excerpt": "Ethereum के सबसे बड़े sandwich bot Jaredfromsubway.eth ने fake trading routes को approve करने के बाद WETH, USDC और USDT में कुल $7.5 million गंवा दिए। घटना ने MEV bots, token approvals और DeFi wallet सुरक्षा पर बड़ा सवाल खड़ा किया है।",
+      "metaDescription": "Jaredfromsubway.eth ने fake trading routes approve करने के बाद WETH, USDC और USDT में $7.5M गंवाए। Ethereum MEV, DeFi approvals और Korean market impact समझें।",
+      "summary": "Ethereum के सबसे बड़े sandwich bot Jaredfromsubway.eth ने fake trading routes approve करने के बाद $7.5 million के WETH, USDC और USDT गंवा दिए। हमलावर ने bot की automated approval structure का फायदा उठाया। नुकसान simple conversion पर करीब 10 billion won से अधिक है। यह घटना MEV bots और DeFi wallets में token approval risk को उजागर करती है।",
+      "body": "Ethereum के सबसे बड़े sandwich bot माने जाने वाले Jaredfromsubway.eth ने fake trading-route approval attack में $7.5 million गंवा दिए। हमलावर ने ऐसे routes दिखाए जिन्हें bot ने legitimate routing समझा, फिर उसी approval का उपयोग कर WETH, USDC और USDT निकाल लिए। 1 dollar को 1,350 won मानकर simple conversion करें तो नुकसान करीब 10.1 billion won है। विडंबना यह है कि दूसरे users के trades के आगे-पीछे orders रखकर profit कमाने वाला automated bot खुद approval abuse का शिकार बना।\n## MEV bot पर approval attack\nSandwich bots DEX order flow पढ़ते हैं और target trade से पहले व बाद buy-sell orders लगाते हैं। यह strategy speed, routing automation, gas competition और broad token permissions पर निर्भर करती है। इस exploit ने उसी automation layer को निशाना बनाया। Jaredfromsubway.eth ने fake routes approve किए, जिसके बाद attacker ने open allowance से wrapped ether और dollar-linked stablecoins बाहर भेज दिए। यह private key theft से अधिक token approval और router trust abuse जैसा मामला है।\n## Market warning\n$7.5 million का नुकसान Korean investors के लिए भी बड़ा है, क्योंकि यह roughly 10 billion won से ऊपर बैठता है। USDC और USDT global liquidity के मुख्य rails हैं, जबकि WETH DeFi collateral और trading pairs में widely used है। अगर stolen funds कई addresses और swaps से गुजरते हैं, तो Korean exchanges पर suspicious deposits और external-wallet origin checks का दबाव बढ़ सकता है। Users को old approvals, unlimited allowances और unverified router permissions नियमित रूप से हटानी चाहिए।\n## Outlook\nयह घटना दिखाती है कि MEV profitability से पहले security design जरूरी है। High-frequency on-chain strategies अब router whitelists, approval caps, real-time anomaly blocks और multisig withdrawals को ज्यादा अपनाएंगी। सामान्य users के लिए practical step है: exchange custody और self-custody को अलग रखें और DEX use के बाद unnecessary token approvals revoke करें।",
+      "keywords": [
+        "Ethereum",
+        "sandwich bot",
+        "Jaredfromsubway.eth",
+        "MEV",
+        "WETH",
+        "USDC",
+        "USDT",
+        "DeFi security",
+        "token approval",
+        "crypto exploit"
+      ],
+      "faq": [
+        {
+          "q": "Jaredfromsubway.eth ने क्या खोया?",
+          "a": "Fake trading routes approve करने के बाद उसने WETH, USDC और USDT में $7.5 million गंवाए।"
+        },
+        {
+          "q": "Attack कैसे हुआ?",
+          "a": "हमलावर ने bot से fake routes approve कराए और उन्हीं approvals से wallet के tokens drain किए।"
+        },
+        {
+          "q": "DeFi users को क्या check करना चाहिए?",
+          "a": "Old token approvals, unlimited allowances और unverified routers को दी गई permissions नियमित रूप से revoke करनी चाहिए।"
+        }
+      ]
+    },
+    "id": {
+      "title": "Bot sandwich Ethereum Jaredfromsubway.eth kehilangan $7,5 juta lewat rute palsu",
+      "excerpt": "Bot sandwich terbesar Ethereum, Jaredfromsubway.eth, baru-baru ini kehilangan $7,5 juta setelah menyetujui rute trading palsu yang membuat WETH, USDC, dan USDT terkuras. Kasus ini menyoroti risiko approval token, MEV, dan keamanan wallet De",
+      "metaDescription": "Jaredfromsubway.eth kehilangan $7,5 juta dalam WETH, USDC, dan USDT setelah menyetujui rute trading palsu. Simak risiko bot MEV, approval DeFi, dan dampaknya bagi investor Korea.",
+      "summary": "Jaredfromsubway.eth, bot sandwich terbesar di Ethereum, kehilangan $7,5 juta setelah menyetujui rute trading palsu. Penyerang memakai approval tersebut untuk menguras WETH, USDC, dan USDT. Nilainya setara lebih dari 10 miliar won dalam konversi sederhana. Insiden ini membuka kelemahan approval token pada bot MEV dan wallet DeFi.",
+      "body": "Jaredfromsubway.eth, bot sandwich terbesar di Ethereum, kehilangan $7,5 juta melalui serangan approval rute trading palsu. Penyerang menampilkan rute yang diperlakukan bot sebagai jalur sah, lalu memakai izin yang diberikan untuk menarik WETH, USDC, dan USDT. Dengan konversi sederhana 1 dolar setara 1.350 won, kerugiannya sekitar 10,1 miliar won. Ironinya kuat: bot otomatis yang dirancang untuk mengambil keuntungan dari posisi transaksi pengguna lain justru menjadi korban penyalahgunaan approval.\n## Serangan approval pada bot MEV\nBot sandwich membaca aliran order di DEX dan menempatkan order beli serta jual sebelum dan sesudah transaksi target. Strategi ini bergantung pada kecepatan, otomatisasi rute, persaingan gas, dan izin token yang luas. Eksploit ini menyerang lapisan tersebut. Setelah Jaredfromsubway.eth menyetujui rute palsu, penyerang memakai allowance terbuka untuk memindahkan wrapped ether dan stablecoin berbasis dolar. Kasus ini lebih dekat ke penyalahgunaan token approval daripada pencurian private key.\n## Peringatan pasar\nKerugian $7,5 juta juga besar bagi investor Korea karena setara lebih dari 10 miliar won. USDC dan USDT adalah jalur likuiditas utama, sementara WETH banyak dipakai dalam collateral dan pasangan perdagangan DeFi. Jika dana curian melewati banyak alamat dan swap, exchange Korea dapat menghadapi tekanan lebih besar dalam memantau deposit mencurigakan dan asal wallet eksternal. Pengguna perlu meninjau approval lama, izin tanpa batas, dan router yang belum terverifikasi.\n## Prospek\nInsiden ini menunjukkan bahwa profit MEV tidak bisa menggantikan desain keamanan dasar. Strategi on-chain berfrekuensi tinggi kemungkinan akan memakai whitelist router, batas approval, pemblokiran anomali real-time, dan kontrol penarikan multisig. Untuk pengguna biasa, langkah praktisnya adalah memisahkan aset di exchange dan self-custody, lalu mencabut approval token yang tidak diperlukan setelah memakai DEX.",
+      "keywords": [
+        "Ethereum",
+        "bot sandwich",
+        "Jaredfromsubway.eth",
+        "MEV",
+        "WETH",
+        "USDC",
+        "USDT",
+        "keamanan DeFi",
+        "approval token",
+        "eksploit kripto"
+      ],
+      "faq": [
+        {
+          "q": "Apa yang hilang dari Jaredfromsubway.eth?",
+          "a": "Bot itu kehilangan $7,5 juta dalam WETH, USDC, dan USDT setelah menyetujui rute trading palsu."
+        },
+        {
+          "q": "Bagaimana serangan terjadi?",
+          "a": "Penyerang membuat bot menyetujui rute palsu, lalu memakai approval tersebut untuk menguras token."
+        },
+        {
+          "q": "Apa yang harus diperiksa pengguna DeFi?",
+          "a": "Pengguna perlu meninjau approval lama, mencabut izin tanpa batas, dan menghindari router yang tidak terverifikasi."
+        }
+      ]
+    }
+  }
+}
