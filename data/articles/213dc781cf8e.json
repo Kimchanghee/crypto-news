@@ -1,0 +1,383 @@
+{
+  "id": "213dc781cf8e",
+  "slug": "are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypt-847597",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-06-21T21:33:55.779Z",
+  "updatedAt": "2026-06-21T21:33:55.780Z",
+  "sourceName": "",
+  "sourceUrl": "",
+  "canonicalUrl": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
+  "titleFingerprint": "91e83736aeabd11a1170f5f90b6e14271615ad7f",
+  "dedupKeys": [
+    "213dc781cf8e7b32a0a440e842a38a7c08a909f3",
+    "91e83736aeabd11a1170f5f90b6e14271615ad7f",
+    "b202eba9324b35c9f66f76ba7fe8c80265653b41"
+  ],
+  "imageUrl": "/images/articles/213dc781cf8e.jpg",
+  "i18n": {
+    "ko": {
+      "title": "CME-CFTC 소송 격화, 칼시 무기한 선물 승인 두고 파생상품 경계 논쟁",
+      "excerpt": "CME그룹이 2026년 6월 18일 CFTC를 상대로 소송을 제기하며 칼시의 미국 첫 무기한 선물 상품 승인이 파생상품 규제 체계를 흔들 수 있다고 주장했다.",
+      "metaDescription": "CME그룹의 CFTC 소송으로 칼시 무기한 선물 승인, 스와프 분류, 미국 파생상품 규제와 한국 가상자산 시장 영향이 쟁점으로 떠올랐다.",
+      "summary": "CME그룹은 CFTC가 칼시의 미국 첫 무기한 선물 상품을 승인한 절차와 분류가 잘못됐다고 소송을 냈다. 핵심은 무기한 선물이 일반 선물인지, 스와프 성격을 가진 상품인지다. 이번 분쟁은 미국 파생상품 규제와 가상자산 연계 파생상품의 확장 속도를 가를 시험대가 됐다.",
+      "body": "CME그룹과 미국 상품선물거래위원회(CFTC)의 정면 충돌은 칼시가 내놓은 미국 첫 무기한 선물 상품을 둘러싼 규제 경계 논쟁으로 번졌다. CME는 2026년 6월 18일 현지시간 CFTC를 상대로 소송을 제기했고, 쟁점은 단순한 경쟁 문제가 아니라 ‘무기한 선물이 선물인가, 스와프인가’라는 파생상품 체계의 핵심 분류다.\n\n## 결론: 무기한 선물의 법적 성격이 핵심\n무기한 선물은 만기일이 없는 파생상품이다. 일반 선물은 정해진 만기와 결제 구조를 전제로 가격이 형성되지만, 무기한 선물은 포지션을 계속 유지할 수 있어 자금조달률, 청산 구조, 레버리지 관리가 상품 안전성의 중심이 된다. CME는 CFTC가 칼시 상품을 승인하는 과정에서 이 특성을 충분히 반영하지 않았고, 스와프에 가까운 구조를 선물로 처리했다고 문제 삼고 있다. 칼시는 미국에서 처음으로 규제권 안에서 무기한 선물 상품을 내놓은 플랫폼이 됐다.\n\n## 배경: 예측시장과 크립토 파생상품의 결합\n칼시는 이벤트 계약과 예측시장으로 성장한 거래 플랫폼이다. 이번 무기한 선물 상품은 비트코인, 이더리움 등 가상자산 시장에서 이미 널리 쓰인 ‘퍼프(perps)’ 구조를 미국 제도권 파생상품 시장으로 옮긴 사례다. CFTC는 미국 파생상품 시장을 감독하는 기관이며, 선물과 스와프의 분류는 상장 절차, 공시, 리스크 관리, 투자자 보호 기준을 달라지게 만든다. CME는 세계 최대 파생상품 거래소 그룹 중 하나로, 기존 선물 시장의 청산·증거금·시장감시 체계를 강조하고 있다.\n\n## 시장 영향: 한국 투자자도 간접 영향권\n한국 투자자에게도 이번 소송은 남의 일이 아니다. 국내에서는 가상자산 현물 거래가 활발하지만, 고레버리지 파생상품과 무기한 계약은 투자자 보호와 규제 공백 우려가 함께 제기돼 왔다. 미국에서 무기한 선물이 제도권 상품으로 굳어지면 국내 거래소, 증권사, 금융당국도 유사 상품의 허용 범위와 위험 고지 방식을 다시 검토할 가능성이 있다. 원화 기준으로 비트코인 가격 변동성이 커질 때 무기한 선물의 청산 압력이 현물 가격에 영향을 줄 수 있다는 점도 투자자가 살펴야 한다. 법원이 CFTC의 승인 절차를 인정하면 미국 내 크립토 파생상품 확장은 빨라질 전망이다. 반대로 CME의 문제 제기가 받아들여지면 무기한 선물은 스와프에 준하는 더 엄격한 규제 검토를 받게 될 가능성이 커진다.",
+      "keywords": [
+        "CME 소송",
+        "CFTC",
+        "칼시",
+        "무기한 선물",
+        "퍼프",
+        "스와프",
+        "가상자산 파생상품",
+        "미국 파생상품 규제",
+        "한국 가상자산 시장",
+        "CME-CFTC 소송 격화, 칼시 무"
+      ],
+      "faq": [
+        {
+          "q": "CME그룹은 왜 CFTC를 상대로 소송을 냈나?",
+          "a": "CME그룹은 CFTC가 칼시의 미국 첫 무기한 선물 상품을 승인하면서 상품 성격과 절차를 잘못 판단했다고 주장한다."
+        },
+        {
+          "q": "무기한 선물과 스와프 논쟁이 중요한 이유는 무엇인가?",
+          "a": "상품이 선물인지 스와프인지에 따라 상장 절차, 리스크 관리, 공시, 투자자 보호 기준이 달라지기 때문이다."
+        },
+        {
+          "q": "한국 투자자에게 어떤 영향이 있나?",
+          "a": "미국 규제 방향은 국내 가상자산 파생상품 논의와 거래소 리스크 관리 기준에 간접적인 기준점이 될 수 있다."
+        }
+      ]
+    },
+    "en": {
+      "title": "CME-CFTC Lawsuit Tests Kalshi Perpetual Futures and Swap Boundaries",
+      "excerpt": "CME Group sued the CFTC on June 18, 2026, challenging approval of Kalshi’s first U.S. perpetual futures product and its regulatory treatment.",
+      "metaDescription": "CME’s CFTC lawsuit puts Kalshi perpetual futures, swap classification, U.S. derivatives oversight and crypto market structure in focus.",
+      "summary": "CME Group is challenging the CFTC’s approval of Kalshi’s first U.S. perpetual futures product. The dispute turns on whether perps should be treated as futures or closer to swaps. The case may shape how crypto-linked derivatives enter regulated U.S. markets.",
+      "body": "CME Group’s lawsuit against the U.S. Commodity Futures Trading Commission has turned Kalshi’s first U.S. perpetual futures product into a defining regulatory fight. Filed on June 18, 2026, the case centers on a direct question: are perpetual futures ordinary futures, or do they carry swap-like features that require stricter treatment?\n\n## Core Issue\nPerpetual futures have no fixed expiry. Unlike standard futures, they can remain open indefinitely, making funding rates, margin controls and liquidation rules central to market safety. CME argues that the CFTC approved Kalshi’s product without properly accounting for those features and treated a swap-like structure as a futures contract.\n\n## Market Context\nKalshi built its position in event contracts and prediction markets. Its perpetual product brings a structure already common in crypto trading into the regulated U.S. derivatives arena. The classification matters because futures and swaps face different listing processes, disclosures and risk controls.\n\n## Investor Impact\nThe case matters beyond the United States. If the approval stands, regulated crypto derivatives may expand faster and could influence policy debates in markets such as South Korea, where leverage, liquidation risk and investor protection remain sensitive issues. If CME prevails, perps may face a tougher review path closer to swap regulation.",
+      "keywords": [
+        "CME lawsuit",
+        "CFTC",
+        "Kalshi",
+        "perpetual futures",
+        "perps",
+        "swaps",
+        "crypto derivatives",
+        "U.S. derivatives regulation",
+        "market structure",
+        "CME-CFTC Lawsuit Tes"
+      ],
+      "faq": [
+        {
+          "q": "Why did CME sue the CFTC?",
+          "a": "CME argues that the CFTC wrongly approved Kalshi’s first U.S. perpetual futures product and misjudged its regulatory character."
+        },
+        {
+          "q": "Why does the futures-versus-swaps question matter?",
+          "a": "The classification affects listing procedures, disclosures, margin controls and investor protection standards."
+        },
+        {
+          "q": "Could this affect non-U.S. markets?",
+          "a": "Yes. U.S. treatment of perps can influence how other regulators assess crypto-linked derivatives and retail risk."
+        }
+      ]
+    },
+    "ja": {
+      "title": "CMEとCFTC訴訟、カルシの無期限先物承認でスワップ境界が焦点",
+      "excerpt": "CMEグループは2026年6月18日、カルシの米国初の無期限先物商品承認をめぐり、CFTCの判断が不適切だったとして提訴した。",
+      "metaDescription": "CMEのCFTC提訴で、カルシ無期限先物、スワップ分類、米国デリバティブ規制、暗号資産市場への影響が焦点となった。",
+      "summary": "CMEグループは、CFTCによるカルシの米国初無期限先物商品の承認を争っている。争点は、無期限先物を通常の先物として扱うべきか、スワップに近い商品として扱うべきかだ。判断は暗号資産デリバティブの制度化に影響する。",
+      "body": "CMEグループと米商品先物取引委員会（CFTC）の対立は、カルシが投入した米国初の無期限先物商品をめぐる規制上の境界問題に発展した。CMEは2026年6月18日、CFTCを相手取り訴訟を起こし、承認手続きと商品分類に重大な誤りがあると主張している。\n\n## 核心争点\n無期限先物は満期がないデリバティブだ。通常の先物は満期と決済を前提に設計されるが、無期限先物はポジションを継続できるため、資金調達率、証拠金、強制清算の仕組みが重要になる。CMEは、この構造がスワップに近いにもかかわらず先物として扱われた点を問題にしている。\n\n## 市場背景\nカルシはイベント契約と予測市場で成長してきた。今回の商品は、暗号資産市場で普及したパープスを米国の規制市場へ持ち込むものだ。先物かスワップかの分類は、上場手続き、開示、リスク管理、投資家保護の水準を左右する。\n\n## 投資家への影響\nこの訴訟は日本や韓国を含む海外市場にも示唆を与える。米国で承認が維持されれば、規制下の暗号資産デリバティブ拡大は速まる可能性がある。CMEの主張が認められれば、無期限先物はより厳格な審査を受ける流れになる。",
+      "keywords": [
+        "CME訴訟",
+        "CFTC",
+        "カルシ",
+        "無期限先物",
+        "パープス",
+        "スワップ",
+        "暗号資産デリバティブ",
+        "米国規制",
+        "投資家保護",
+        "CMEとCFTC訴訟、カルシの無期限先物"
+      ],
+      "faq": [
+        {
+          "q": "CMEはなぜCFTCを提訴したのか。",
+          "a": "カルシの米国初の無期限先物商品を承認したCFTCの手続きと分類が誤っていると判断したためだ。"
+        },
+        {
+          "q": "先物かスワップかがなぜ重要なのか。",
+          "a": "分類によって上場手続き、開示、証拠金管理、投資家保護の基準が変わるためだ。"
+        },
+        {
+          "q": "海外投資家にも影響はあるのか。",
+          "a": "米国の判断は、各国の暗号資産デリバティブ規制に参照点を与える可能性がある。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "CME起诉CFTC，Kalshi永续期货审批引发掉期边界之争",
+      "excerpt": "CME集团于2026年6月18日起诉CFTC，质疑其批准Kalshi美国首个永续期货产品的程序和监管分类。",
+      "metaDescription": "CME起诉CFTC使Kalshi永续期货、掉期分类、美国衍生品监管和加密资产市场结构成为焦点。",
+      "summary": "CME集团正在挑战CFTC对Kalshi美国首个永续期货产品的批准。争议核心在于，永续期货应被视为普通期货，还是更接近掉期。该案可能影响加密衍生品进入美国监管市场的路径。",
+      "body": "CME集团与美国商品期货交易委员会CFTC的冲突，已围绕Kalshi美国首个永续期货产品演变为一场监管边界之争。CME于2026年6月18日提起诉讼，主张CFTC在审批程序和产品分类上存在错误。\n\n## 核心问题\n永续期货没有固定到期日。传统期货依赖到期和结算机制，而永续期货可长期持仓，因此资金费率、保证金控制和强制平仓规则直接关系到市场安全。CME认为，CFTC没有充分处理这些特征，却将更接近掉期的结构按期货处理。\n\n## 市场背景\nKalshi以事件合约和预测市场起家。此次产品把加密资产市场常见的perps结构带入美国受监管衍生品市场。期货与掉期的分类不同，会影响上市流程、信息披露、风险管理和投资者保护标准。\n\n## 投资者影响\n这场诉讼也会被韩国等市场关注。若审批维持，美国受监管加密衍生品可能加速扩张。若CME主张获支持，永续期货未来可能面临接近掉期监管的更严格审查。",
+      "keywords": [
+        "CME诉讼",
+        "CFTC",
+        "Kalshi",
+        "永续期货",
+        "perps",
+        "掉期",
+        "加密衍生品",
+        "美国监管",
+        "投资者保护",
+        "CME起诉CFTC，Kalshi永续期货"
+      ],
+      "faq": [
+        {
+          "q": "CME为何起诉CFTC？",
+          "a": "CME认为CFTC错误批准了Kalshi美国首个永续期货产品，并错误判断其监管属性。"
+        },
+        {
+          "q": "期货和掉期分类为何重要？",
+          "a": "分类会决定上市流程、披露要求、保证金管理和投资者保护标准。"
+        },
+        {
+          "q": "该案会影响海外市场吗？",
+          "a": "会。美国监管路径可能成为其他市场评估加密衍生品风险的重要参考。"
+        }
+      ]
+    },
+    "es": {
+      "title": "Demanda CME-CFTC pone a prueba futuros perpetuos de Kalshi y swaps",
+      "excerpt": "CME Group demandó a la CFTC el 18 de junio de 2026 por la aprobación del primer producto de futuros perpetuos de Kalshi en EE. UU.",
+      "metaDescription": "La demanda de CME contra la CFTC centra el debate en Kalshi, futuros perpetuos, swaps, regulación de derivados y criptoactivos.",
+      "summary": "CME Group impugna la aprobación de la CFTC al primer producto estadounidense de futuros perpetuos de Kalshi. El punto central es si los perps son futuros ordinarios o instrumentos cercanos a los swaps. El caso puede definir la expansión regulada de derivados cripto.",
+      "body": "La demanda de CME Group contra la Comisión de Negociación de Futuros de Materias Primas de EE. UU. convirtió el producto de futuros perpetuos de Kalshi en una prueba clave para la regulación de derivados. La acción fue presentada el 18 de junio de 2026 y cuestiona tanto el proceso de aprobación como la clasificación del producto.\n\n## Punto central\nLos futuros perpetuos no tienen vencimiento fijo. A diferencia de los futuros tradicionales, permiten mantener posiciones de forma indefinida, por lo que las tasas de financiación, el margen y las liquidaciones son esenciales. CME sostiene que la CFTC trató como futuro una estructura más cercana a un swap.\n\n## Contexto\nKalshi creció en contratos de eventos y mercados de predicción. Su producto lleva al mercado regulado estadounidense una estructura muy usada en cripto. La diferencia entre futuro y swap cambia requisitos de listado, divulgación, control de riesgo y protección al inversor.\n\n## Impacto\nEl caso será observado por otros mercados, incluida Corea del Sur. Si la aprobación se mantiene, los derivados cripto regulados podrían expandirse más rápido. Si prospera la posición de CME, los perps enfrentarían revisiones más estrictas.",
+      "keywords": [
+        "demanda CME",
+        "CFTC",
+        "Kalshi",
+        "futuros perpetuos",
+        "perps",
+        "swaps",
+        "derivados cripto",
+        "regulación estadounidense",
+        "protección al inversor",
+        "Demanda CME-CFTC pon"
+      ],
+      "faq": [
+        {
+          "q": "¿Por qué CME demandó a la CFTC?",
+          "a": "CME afirma que la CFTC aprobó de forma incorrecta el primer producto de futuros perpetuos de Kalshi en EE. UU."
+        },
+        {
+          "q": "¿Por qué importa la diferencia entre futuros y swaps?",
+          "a": "Porque determina el proceso de listado, la divulgación, los márgenes y las normas de protección al inversor."
+        },
+        {
+          "q": "¿Puede afectar a otros países?",
+          "a": "Sí. La decisión de EE. UU. puede influir en cómo otros reguladores evalúan derivados vinculados a criptoactivos."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Processo CME-CFTC testa futuros perpétuos da Kalshi e limite dos swaps",
+      "excerpt": "O CME Group processou a CFTC em 18 de junho de 2026, contestando a aprovação do primeiro produto de futuros perpétuos da Kalshi nos EUA.",
+      "metaDescription": "A ação da CME contra a CFTC coloca Kalshi, futuros perpétuos, swaps, regulação de derivativos e criptoativos no centro do debate.",
+      "summary": "O CME Group contesta a aprovação da CFTC ao primeiro produto de futuros perpétuos da Kalshi nos EUA. A questão é se perps devem ser tratados como futuros ou como instrumentos próximos de swaps. O caso pode moldar a expansão de derivativos cripto regulados.",
+      "body": "O processo do CME Group contra a Comissão de Negociação de Futuros de Commodities dos EUA transformou o produto de futuros perpétuos da Kalshi em um teste regulatório decisivo. A ação foi apresentada em 18 de junho de 2026 e questiona a aprovação e a classificação do produto.\n\n## Questão central\nFuturos perpétuos não têm vencimento fixo. Diferentemente dos futuros tradicionais, eles permitem manter posições por prazo indefinido, tornando taxas de financiamento, margem e liquidação pontos críticos. A CME sustenta que a CFTC tratou como futuro uma estrutura mais próxima de swap.\n\n## Contexto\nA Kalshi cresceu com contratos de eventos e mercados de previsão. O produto leva ao mercado regulado dos EUA uma estrutura comum no cripto. A classificação define listagem, divulgação, controle de risco e proteção ao investidor.\n\n## Impacto\nO caso também interessa a mercados como a Coreia do Sul. Se a aprovação permanecer, derivativos cripto regulados podem avançar mais rápido. Se a tese da CME vencer, perps devem enfrentar revisão mais rigorosa.",
+      "keywords": [
+        "processo CME",
+        "CFTC",
+        "Kalshi",
+        "futuros perpétuos",
+        "perps",
+        "swaps",
+        "derivativos cripto",
+        "regulação dos EUA",
+        "proteção ao investidor",
+        "Processo CME-CFTC te"
+      ],
+      "faq": [
+        {
+          "q": "Por que a CME processou a CFTC?",
+          "a": "A CME afirma que a CFTC aprovou incorretamente o primeiro produto de futuros perpétuos da Kalshi nos EUA."
+        },
+        {
+          "q": "Por que a classificação entre futuros e swaps importa?",
+          "a": "Ela altera procedimentos de listagem, divulgação, margem e padrões de proteção ao investidor."
+        },
+        {
+          "q": "Há impacto fora dos EUA?",
+          "a": "Sim. A decisão americana pode orientar debates regulatórios sobre derivativos cripto em outros mercados."
+        }
+      ]
+    },
+    "de": {
+      "title": "CME-CFTC-Klage rückt Kalshi-Perpetual-Futures und Swaps ins Zentrum",
+      "excerpt": "CME Group verklagte die CFTC am 18. Juni 2026 wegen der Genehmigung des ersten US-Produkts für Perpetual Futures von Kalshi.",
+      "metaDescription": "Die CME-Klage gegen die CFTC macht Kalshi, Perpetual Futures, Swap-Einstufung, Derivateregulierung und Kryptomärkte zum Thema.",
+      "summary": "CME Group greift die CFTC-Genehmigung für Kalshis erstes US-Produkt für Perpetual Futures an. Im Mittelpunkt steht die Frage, ob Perps normale Futures oder swapähnliche Instrumente sind. Der Fall kann die regulierte Expansion von Krypto-Derivaten prägen.",
+      "body": "Die Klage der CME Group gegen die US-Behörde CFTC macht Kalshis erstes US-Produkt für Perpetual Futures zu einem Grundsatzfall der Derivateregulierung. Eingereicht wurde die Klage am 18. Juni 2026. Angegriffen werden die Genehmigung und die rechtliche Einordnung des Produkts.\n\n## Kernfrage\nPerpetual Futures haben kein festes Verfallsdatum. Anders als klassische Futures können Positionen unbegrenzt gehalten werden. Deshalb sind Finanzierungsraten, Margen und Liquidationsmechanismen entscheidend. CME sieht darin eine Struktur, die eher einem Swap ähnelt und nicht wie ein gewöhnlicher Future behandelt werden sollte.\n\n## Hintergrund\nKalshi ist mit Event-Kontrakten und Prognosemärkten gewachsen. Das neue Produkt bringt eine aus dem Kryptohandel bekannte Perps-Struktur in den regulierten US-Derivatemarkt. Die Einstufung bestimmt Zulassung, Offenlegung, Risikokontrollen und Anlegerschutz.\n\n## Wirkung\nAuch Märkte wie Südkorea werden den Fall beobachten. Bleibt die Genehmigung bestehen, könnten regulierte Krypto-Derivate schneller wachsen. Setzt sich CME durch, droht Perps ein strengerer Prüfpfad nahe der Swap-Regulierung.",
+      "keywords": [
+        "CME Klage",
+        "CFTC",
+        "Kalshi",
+        "Perpetual Futures",
+        "Perps",
+        "Swaps",
+        "Krypto-Derivate",
+        "US-Regulierung",
+        "Anlegerschutz",
+        "CME-CFTC-Klage rückt"
+      ],
+      "faq": [
+        {
+          "q": "Warum verklagte CME die CFTC?",
+          "a": "CME hält die Genehmigung von Kalshis erstem US-Produkt für Perpetual Futures für regulatorisch falsch."
+        },
+        {
+          "q": "Warum ist die Abgrenzung zu Swaps wichtig?",
+          "a": "Sie entscheidet über Zulassung, Offenlegung, Marginregeln und Anlegerschutz."
+        },
+        {
+          "q": "Kann der Fall internationale Folgen haben?",
+          "a": "Ja. Die US-Linie kann beeinflussen, wie andere Regulierer Krypto-Derivate bewerten."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Plainte CME-CFTC: les contrats perpétuels Kalshi face au débat des swaps",
+      "excerpt": "CME Group a poursuivi la CFTC le 18 juin 2026, contestant l’approbation du premier produit de contrats perpétuels de Kalshi aux États-Unis.",
+      "metaDescription": "La plainte de CME contre la CFTC place Kalshi, contrats perpétuels, swaps, dérivés crypto et régulation américaine au centre du débat.",
+      "summary": "CME Group conteste l’approbation par la CFTC du premier produit américain de contrats perpétuels de Kalshi. Le litige porte sur la nature des perps: futures ordinaires ou instruments proches des swaps. L’affaire peut orienter l’avenir des dérivés crypto régulés.",
+      "body": "La plainte de CME Group contre la Commodity Futures Trading Commission transforme le produit de contrats perpétuels de Kalshi en test majeur pour la régulation des dérivés. Déposée le 18 juin 2026, l’action vise la procédure d’approbation et la classification du produit.\n\n## Enjeu central\nLes contrats perpétuels n’ont pas d’échéance fixe. Contrairement aux futures classiques, les positions peuvent rester ouvertes indéfiniment. Les taux de financement, les marges et les règles de liquidation deviennent donc essentiels. CME estime que la CFTC a traité comme future une structure proche d’un swap.\n\n## Contexte\nKalshi s’est développé avec les contrats d’événements et les marchés de prédiction. Son produit transpose dans le marché américain régulé une structure déjà courante dans la crypto. La classification modifie les règles de cotation, de transparence, de risque et de protection des investisseurs.\n\n## Impact\nLe dossier sera suivi par des marchés comme la Corée du Sud. Si l’approbation tient, les dérivés crypto régulés pourraient accélérer. Si CME l’emporte, les perps devraient affronter un examen plus strict.",
+      "keywords": [
+        "plainte CME",
+        "CFTC",
+        "Kalshi",
+        "contrats perpétuels",
+        "perps",
+        "swaps",
+        "dérivés crypto",
+        "régulation américaine",
+        "protection des investisseurs",
+        "Plainte CME-CFTC: le"
+      ],
+      "faq": [
+        {
+          "q": "Pourquoi CME poursuit-elle la CFTC ?",
+          "a": "CME estime que la CFTC a approuvé à tort le premier produit américain de contrats perpétuels de Kalshi."
+        },
+        {
+          "q": "Pourquoi la distinction futures-swaps est-elle importante ?",
+          "a": "Elle détermine les règles de cotation, de transparence, de marge et de protection des investisseurs."
+        },
+        {
+          "q": "L’affaire peut-elle toucher d’autres marchés ?",
+          "a": "Oui. La position américaine peut influencer l’examen des dérivés crypto par d’autres régulateurs."
+        }
+      ]
+    },
+    "ar": {
+      "title": "دعوى CME ضد CFTC تضع عقود Kalshi الدائمة وحدود المقايضات تحت الاختبار",
+      "excerpt": "رفعت CME Group دعوى ضد CFTC في 18 يونيو 2026 اعتراضا على اعتماد أول منتج أمريكي للعقود المستقبلية الدائمة من Kalshi.",
+      "metaDescription": "دعوى CME ضد CFTC تسلط الضوء على Kalshi والعقود الدائمة وتصنيف المقايضات وتنظيم المشتقات المرتبطة بالعملات المشفرة.",
+      "summary": "تطعن CME Group في موافقة CFTC على أول منتج أمريكي للعقود المستقبلية الدائمة من Kalshi. يدور النزاع حول ما إذا كانت هذه العقود مستقبلية عادية أم أقرب إلى المقايضات. وقد يحدد الملف مسار توسع مشتقات الكريبتو المنظمة.",
+      "body": "تحولت دعوى CME Group ضد لجنة تداول السلع الآجلة الأمريكية CFTC إلى اختبار حاسم لمنتج Kalshi الأول من العقود المستقبلية الدائمة في الولايات المتحدة. رفعت الدعوى في 18 يونيو 2026، وتركز على طريقة الموافقة والتصنيف التنظيمي للمنتج.\n\n## جوهر النزاع\nالعقود المستقبلية الدائمة لا تملك تاريخ انتهاء ثابتا. وعلى خلاف العقود المستقبلية التقليدية، يمكن إبقاء المراكز مفتوحة مدة غير محددة، لذلك تصبح معدلات التمويل والهامش وآليات التصفية عناصر أساسية للسلامة السوقية. ترى CME أن CFTC تعاملت مع هيكل أقرب إلى المقايضة كأنه عقد مستقبلي عادي.\n\n## السياق السوقي\nنمت Kalshi عبر عقود الأحداث وأسواق التوقعات. المنتج الجديد ينقل بنية شائعة في تداول العملات المشفرة إلى سوق المشتقات الأمريكية المنظمة. التصنيف بين مستقبل ومقايضة يغير قواعد الإدراج والإفصاح وإدارة المخاطر وحماية المستثمرين.\n\n## الأثر المتوقع\nستراقب أسواق أخرى، بينها كوريا الجنوبية، نتيجة القضية. إذا بقيت الموافقة قائمة فقد تتسارع المشتقات المشفرة المنظمة. وإذا نجح موقف CME فقد تواجه العقود الدائمة مراجعة أشد قربا من تنظيم المقايضات.",
+      "keywords": [
+        "دعوى CME",
+        "CFTC",
+        "Kalshi",
+        "العقود المستقبلية الدائمة",
+        "perps",
+        "المقايضات",
+        "مشتقات الكريبتو",
+        "التنظيم الأمريكي",
+        "حماية المستثمرين",
+        "دعوى CME ضد CFTC تضع"
+      ],
+      "faq": [
+        {
+          "q": "لماذا رفعت CME دعوى ضد CFTC؟",
+          "a": "تؤكد CME أن CFTC أخطأت في اعتماد أول منتج أمريكي للعقود المستقبلية الدائمة من Kalshi."
+        },
+        {
+          "q": "لماذا يهم التصنيف بين العقود المستقبلية والمقايضات؟",
+          "a": "لأنه يحدد إجراءات الإدراج والإفصاح وقواعد الهامش ومعايير حماية المستثمرين."
+        },
+        {
+          "q": "هل تمتد الآثار إلى خارج الولايات المتحدة؟",
+          "a": "نعم. قد تؤثر المعالجة الأمريكية في طريقة تقييم الجهات التنظيمية الأخرى لمشتقات الكريبتو."
+        }
+      ]
+    },
+    "hi": {
+      "title": "CME-CFTC मुकदमा Kalshi परपेचुअल फ्यूचर्स और स्वैप सीमा की परीक्षा",
+      "excerpt": "CME Group ने 18 जून 2026 को CFTC पर मुकदमा दायर किया और Kalshi के पहले अमेरिकी परपेचुअल फ्यूचर्स उत्पाद की मंजूरी को चुनौती दी।",
+      "metaDescription": "CME की CFTC के खिलाफ कार्रवाई में Kalshi, परपेचुअल फ्यूचर्स, स्वैप वर्गीकरण, क्रिप्टो डेरिवेटिव और अमेरिकी नियमन केंद्र में हैं।",
+      "summary": "CME Group ने Kalshi के पहले अमेरिकी परपेचुअल फ्यूचर्स उत्पाद को CFTC की मंजूरी पर सवाल उठाया है। विवाद इस बात पर है कि perps को सामान्य फ्यूचर्स माना जाए या स्वैप जैसी संरचना। यह मामला क्रिप्टो डेरिवेटिव के नियामकीय विस्तार को प्रभावित कर सकता है।",
+      "body": "CME Group और अमेरिकी CFTC के बीच मुकदमे ने Kalshi के पहले अमेरिकी परपेचुअल फ्यूचर्स उत्पाद को डेरिवेटिव नियमन की बड़ी कसौटी बना दिया है। यह मुकदमा 18 जून 2026 को दायर हुआ और इसमें मंजूरी प्रक्रिया तथा उत्पाद वर्गीकरण को चुनौती दी गई है।\n\n## मुख्य सवाल\nपरपेचुअल फ्यूचर्स की कोई तय समाप्ति तारीख नहीं होती। पारंपरिक फ्यूचर्स के विपरीत, इनमें पोजिशन अनिश्चित समय तक रखी जा सकती है। इसलिए फंडिंग रेट, मार्जिन और लिक्विडेशन नियम बेहद अहम हैं। CME का तर्क है कि CFTC ने स्वैप जैसी संरचना को सामान्य फ्यूचर्स की तरह माना।\n\n## बाजार संदर्भ\nKalshi ने इवेंट कॉन्ट्रैक्ट और प्रेडिक्शन मार्केट से बढ़त बनाई। नया उत्पाद क्रिप्टो बाजार में आम perps संरचना को अमेरिकी विनियमित डेरिवेटिव बाजार में लाता है। फ्यूचर्स या स्वैप की श्रेणी लिस्टिंग, खुलासे, जोखिम नियंत्रण और निवेशक सुरक्षा को बदलती है।\n\n## असर\nदक्षिण कोरिया जैसे बाजार भी इस मामले को देखेंगे। मंजूरी कायम रही तो विनियमित क्रिप्टो डेरिवेटिव तेज बढ़ सकते हैं। CME सफल रहा तो perps पर स्वैप जैसे कठोर परीक्षण लागू हो सकते हैं।",
+      "keywords": [
+        "CME मुकदमा",
+        "CFTC",
+        "Kalshi",
+        "परपेचुअल फ्यूचर्स",
+        "perps",
+        "स्वैप",
+        "क्रिप्टो डेरिवेटिव",
+        "अमेरिकी नियमन",
+        "निवेशक सुरक्षा",
+        "CME-CFTC मुकदमा Kals"
+      ],
+      "faq": [
+        {
+          "q": "CME ने CFTC पर मुकदमा क्यों किया?",
+          "a": "CME का कहना है कि CFTC ने Kalshi के पहले अमेरिकी परपेचुअल फ्यूचर्स उत्पाद को गलत तरीके से मंजूरी दी।"
+        },
+        {
+          "q": "फ्यूचर्स और स्वैप की श्रेणी क्यों अहम है?",
+          "a": "इससे लिस्टिंग प्रक्रिया, खुलासा, मार्जिन नियम और निवेशक सुरक्षा मानक तय होते हैं।"
+        },
+        {
+          "q": "क्या इसका असर अन्य देशों पर पड़ेगा?",
+          "a": "हां। अमेरिकी रुख अन्य नियामकों के लिए क्रिप्टो डेरिवेटिव पर संदर्भ बन सकता है।"
+        }
+      ]
+    },
+    "id": {
+      "title": "Gugatan CME-CFTC Uji Futures Perpetual Kalshi dan Batas Swap",
+      "excerpt": "CME Group menggugat CFTC pada 18 Juni 2026 atas persetujuan produk futures perpetual pertama Kalshi di AS dan klasifikasi regulasinya.",
+      "metaDescription": "Gugatan CME terhadap CFTC menyorot Kalshi, futures perpetual, klasifikasi swap, regulasi derivatif AS, dan pasar aset kripto.",
+      "summary": "CME Group menantang persetujuan CFTC atas produk futures perpetual pertama Kalshi di Amerika Serikat. Isunya adalah apakah perps termasuk futures biasa atau instrumen yang lebih dekat dengan swap. Perkara ini dapat membentuk arah derivatif kripto teregulasi.",
+      "body": "Gugatan CME Group terhadap Komisi Perdagangan Berjangka Komoditas AS menjadikan produk futures perpetual Kalshi sebagai ujian penting bagi regulasi derivatif. Gugatan diajukan pada 18 Juni 2026 dan menyoal proses persetujuan serta klasifikasi produk.\n\n## Isu Utama\nFutures perpetual tidak memiliki tanggal jatuh tempo tetap. Berbeda dari futures tradisional, posisi dapat dipertahankan tanpa batas waktu. Karena itu, funding rate, margin, dan aturan likuidasi menjadi pusat keamanan pasar. CME menilai CFTC memperlakukan struktur yang mirip swap sebagai futures biasa.\n\n## Konteks Pasar\nKalshi tumbuh lewat kontrak peristiwa dan pasar prediksi. Produk ini membawa struktur perps yang umum di kripto ke pasar derivatif AS yang teregulasi. Klasifikasi sebagai futures atau swap memengaruhi pencatatan, pengungkapan, kontrol risiko, dan perlindungan investor.\n\n## Dampak\nPasar seperti Korea Selatan juga akan mencermati hasilnya. Jika persetujuan bertahan, derivatif kripto teregulasi dapat berkembang lebih cepat. Jika posisi CME diterima, perps akan menghadapi peninjauan yang lebih ketat.",
+      "keywords": [
+        "gugatan CME",
+        "CFTC",
+        "Kalshi",
+        "futures perpetual",
+        "perps",
+        "swap",
+        "derivatif kripto",
+        "regulasi AS",
+        "perlindungan investor",
+        "Gugatan CME-CFTC Uji"
+      ],
+      "faq": [
+        {
+          "q": "Mengapa CME menggugat CFTC?",
+          "a": "CME menilai CFTC keliru menyetujui produk futures perpetual pertama Kalshi di Amerika Serikat."
+        },
+        {
+          "q": "Mengapa perbedaan futures dan swap penting?",
+          "a": "Klasifikasi menentukan proses pencatatan, pengungkapan, margin, dan standar perlindungan investor."
+        },
+        {
+          "q": "Apakah perkara ini berdampak ke luar AS?",
+          "a": "Ya. Sikap AS dapat menjadi acuan regulator lain dalam menilai risiko derivatif kripto."
+        }
+      ]
+    }
+  }
+}
