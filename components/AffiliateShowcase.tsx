@@ -85,7 +85,7 @@ function getOffers(locale: Locale): Offer[] {
     }
   ];
 
-  return offers.filter((offer) => Boolean(offer.href));
+  return offers.filter((offer) => offer.id === "coupang" && Boolean(offer.href));
 }
 
 export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
