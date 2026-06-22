@@ -1,0 +1,372 @@
+{
+  "id": "4972bf6ddda4",
+  "slug": "microsoft-found-malware-that-hijacks-crypto-wallets-and-spre-680175",
+  "channelId": "CRYPTO",
+  "category": "crypto",
+  "publishedAt": "2026-06-22T01:23:01.143Z",
+  "updatedAt": "2026-06-22T01:23:01.144Z",
+  "sourceName": "",
+  "sourceUrl": "",
+  "canonicalUrl": "https://www.coindesk.com/tech/2026/06/19/microsoft-found-malware-that-hijacks-crypto-wallets-and-spreads-through-usb-sticks",
+  "titleFingerprint": "b217bcba9a9a676fa92b7725f78d0f5074b088ad",
+  "dedupKeys": [
+    "4972bf6ddda42203e27035bb6f4b92043d16ee09",
+    "b217bcba9a9a676fa92b7725f78d0f5074b088ad",
+    "bfdc60e8a7c19372852bb97bb5edef49059f79da"
+  ],
+  "imageUrl": "/images/articles/4972bf6ddda4.jpg",
+  "i18n": {
+    "ko": {
+      "title": "USB 암호화폐 지갑 탈취 악성코드 확산, 윈도우 바로가기 파일로 개인키와 송금 주소 노린다",
+      "excerpt": "공격자는 최근 USB 바로가기 파일을 감염 통로로 악용해 윈도우 PC에 웜을 설치하고, 클립보드의 개인키와 지갑 주소를 감시한다. 암호화폐 송금 순간 목적지 주소를 공격자 지갑으로 바꿔 피해를 만든다. 국내 투자자는 원화 입출금 거래소와 개인 지갑을 오갈 때 주소 전체를 직접 확인해야 한다.",
+      "metaDescription": "USB 바로가기 파일로 퍼지는 암호화폐 지갑 탈취 악성코드가 윈도우 클립보드를 감시해 개인키와 송금 주소를 노린다. LNK 실행, 웜 설치, 주소 바꿔치기, 원화 환산 피해 구조와 국내 투자자 예방 수칙을 정리했다.",
+      "summary": "USB 저장장치를 통해 확산되는 암호화폐 지갑 탈취 악성코드가 윈도우 바로가기 파일을 감염 통로로 삼고 있다. 이 웜은 클립보드에 복사된 개인키와 지갑 주소를 감시한 뒤 송금 순간 목적지 주소를 공격자 지갑으로 바꾼다. 블록체인 거래는 승인 후 되돌리기 어려워 국내 투자자의 주소 확인 습관과 USB 보안 관리가 핵심 방어선이다.",
+      "body": "암호화폐 지갑 탈취 악성코드의 핵심 위험은 지갑 앱이 아니라 사용자의 전송 경로를 장악한다는 데 있다. 공격자는 USB 저장장치 안의 바로가기 파일을 미끼로 삼아 윈도우 PC에 웜을 설치하고, 이후 클립보드에 복사되는 개인키와 지갑 주소 패턴을 감시한다. 사용자가 송금 주소를 복사해 거래소나 지갑에 붙여넣는 순간 악성코드는 목적지 주소를 공격자 지갑으로 바꿔치기한다. 블록체인 송금은 승인 뒤 되돌리기 어렵기 때문에 피해는 거래가 체결되는 즉시 확정될 수 있다.\n\n## USB 바로가기 파일이 감염 통로\n공격 흐름은 USB 삽입, LNK 바로가기 실행, 웜 설치, 클립보드 감시, 주소 교체의 5단계로 요약된다. 사용자가 파일 탐색기에서 문서나 폴더처럼 보이는 바로가기를 누르면 실제 대상 대신 악성 설치 명령이 실행된다. 웜 형태로 동작하기 때문에 같은 PC에 연결되는 다른 USB로도 복제될 수 있고, 오프라인 백업용 저장장치를 자주 쓰는 투자자에게 특히 위험하다. 현재 감염 건수, 탈취액, 공격자 지갑 수는 특정할 수 없다. 다만 피해 단위는 거래 1건마다 달라진다. 개인키 1개가 노출되면 해당 지갑의 전체 잔액이 위험해지고, 주소 교체 1회만 성공해도 송금액 전부가 엉뚱한 지갑으로 이동한다.\n\n## 국내 투자자에게 생기는 위험\n국내 이용자는 원화 입출금 거래소, 개인 지갑, 해외 디파이 서비스를 오가며 주소를 복사하는 경우가 많다. 이 습관이 클립보드 하이재킹 공격의 표적이다. 원화 환산 피해액은 코인 수량, 거래 체결가, 환율을 곱해 산정되며, 스테이블코인·비트코인·이더리움처럼 즉시 전송되는 자산일수록 복구 가능성이 낮다. 국내 가상자산사업자는 이상거래 탐지와 고객확인을 강화하고 있지만, 개인 지갑에서 서명된 온체인 송금까지 되돌리는 것은 제도적으로도 기술적으로도 제한적이다. 기업 보안팀은 업무망에서 개인 USB를 차단하고, 바로가기 실행 정책과 이동식 저장장치 검사 로그를 점검해야 한다.\n\n## 확인 습관이 최종 방어선\n전망은 명확하다. 지갑 탈취 악성코드는 거래소 해킹보다 작은 단위로 반복되며, 개인 PC와 이동식 저장장치를 노리는 방식으로 계속 확산될 가능성이 크다. 사용자는 USB 자동 실행을 끄고, 알 수 없는 바로가기 파일을 열지 말며, 송금 전 주소 앞뒤 문자만이 아니라 전체 주소를 하드웨어 지갑이나 별도 화면에서 대조해야 한다. 개인키는 클립보드에 복사하지 않는 것이 원칙이다. 백신 업데이트, 윈도우 보안 패치, 읽기 전용 백업 매체 사용은 선택이 아니라 기본 보안 절차다.",
+      "keywords": [
+        "USB 악성코드",
+        "암호화폐 지갑 탈취",
+        "클립보드 하이재킹",
+        "윈도우 바로가기 파일",
+        "개인키 보안",
+        "LNK 웜",
+        "지갑 주소 바꿔치기",
+        "국내 가상자산 보안",
+        "USB 암호화폐 지갑 탈취 악성코드"
+      ],
+      "faq": [
+        {
+          "q": "USB 악성코드는 어떻게 암호화폐 지갑을 노리나?",
+          "a": "USB 안의 바로가기 파일 실행을 웜 설치 단계로 연결하고, 감염된 윈도우 PC에서 클립보드의 개인키와 지갑 주소를 감시한다."
+        },
+        {
+          "q": "송금 주소 바꿔치기는 언제 발생하나?",
+          "a": "사용자가 암호화폐 주소를 복사해 지갑이나 거래소 화면에 붙여넣는 순간 악성코드가 공격자 지갑 주소로 목적지를 바꿀 수 있다."
+        },
+        {
+          "q": "국내 투자자는 무엇을 점검해야 하나?",
+          "a": "알 수 없는 USB와 LNK 파일을 열지 말고, 송금 전 전체 주소를 별도 화면에서 대조하며, 개인키를 클립보드에 복사하지 않아야 한다."
+        }
+      ]
+    },
+    "en": {
+      "title": "USB Crypto Wallet Malware Spreads via Windows Shortcuts to Steal Keys",
+      "excerpt": "Attackers are using USB shortcut files to install a worm on Windows PCs, watch the clipboard for private keys and wallet addresses, and replace crypto transfer destinations with their own wallets.",
+      "metaDescription": "USB-borne crypto wallet malware abuses Windows shortcut files, monitors clipboard private keys and wallet addresses, and swaps transfer destinations. Key risks and prevention steps for Korean investor",
+      "summary": "Crypto wallet-stealing malware is spreading through USB drives and Windows shortcut files. The worm watches the clipboard for private keys and wallet addresses, then replaces the destination address during a transfer. Because blockchain payments are hard to reverse, Korean investors need stronger USB controls and full-address verification.",
+      "body": "The main risk in this crypto wallet attack is not the wallet app itself but the path users take to move funds. Attackers use shortcut files on USB drives to install a worm on Windows PCs. Once active, it monitors the clipboard for private keys and wallet address patterns. When a user copies a destination address into an exchange or wallet, the malware can replace it with an attacker-controlled address.\n\n## USB shortcuts are the entry point\nThe flow has five steps: USB insertion, LNK shortcut execution, worm installation, clipboard monitoring, and address replacement. A file that looks like a document or folder can trigger a malicious install command. Because it behaves as a worm, it can spread to other USB drives connected to the same PC. No reliable infection count, stolen amount, or attacker-wallet count is fixed at this stage. Still, one exposed private key can put an entire wallet balance at risk, and one successful address swap can redirect the whole transfer.\n\n## Impact on Korean investors\nKorean users often move between won-linked exchanges, personal wallets, and overseas DeFi services by copying addresses. That habit is exactly what clipboard hijacking targets. The won-denominated loss depends on coin amount, market price, and exchange rate at settlement. Domestic virtual-asset operators can strengthen monitoring, but an on-chain transfer signed from a personal wallet is technically and legally hard to reverse.\n\n## The last defense is verification\nThis threat is likely to persist in smaller repeated attacks against personal PCs and removable storage. Users should disable autorun, avoid unknown shortcuts, compare the full recipient address on a separate screen or hardware wallet, keep Windows patched, and never copy private keys to the clipboard.",
+      "keywords": [
+        "USB malware",
+        "crypto wallet theft",
+        "clipboard hijacking",
+        "Windows shortcut files",
+        "private key security",
+        "LNK worm",
+        "wallet address swap",
+        "Korea crypto security",
+        "USB Crypto Wallet Ma"
+      ],
+      "faq": [
+        {
+          "q": "How does the USB malware target crypto wallets?",
+          "a": "It uses USB shortcut files to install a worm on Windows PCs, then watches the clipboard for private keys and wallet addresses."
+        },
+        {
+          "q": "When does the address swap happen?",
+          "a": "It can happen when a user copies and pastes a crypto destination address into an exchange or wallet transfer screen."
+        },
+        {
+          "q": "What should Korean investors check first?",
+          "a": "Avoid unknown USB drives and LNK files, verify the full recipient address, and never copy private keys to the clipboard."
+        }
+      ]
+    },
+    "ja": {
+      "title": "USB暗号資産ウォレット窃取マルウェア拡大、Windowsショートカットで秘密鍵と送金先を狙う",
+      "excerpt": "攻撃者はUSB内のショートカットファイルを悪用してWindows PCにワームを入れ、クリップボード上の秘密鍵とウォレットアドレスを監視し、送金時に送付先を自分のアドレスへ差し替える。",
+      "metaDescription": "USB経由で広がる暗号資産ウォレット窃取マルウェアがWindowsショートカットとクリップボードを悪用。秘密鍵、送金先差し替え、韓国投資家の対策を整理。",
+      "summary": "USBメモリーで広がる暗号資産ウォレット窃取マルウェアがWindowsのショートカットファイルを感染経路にしている。ワームはクリップボードの秘密鍵とアドレスを監視し、送金時に宛先を攻撃者のウォレットへ置き換える。承認済みのブロックチェーン送金は戻しにくく、韓国利用者にも影響が大きい。",
+      "body": "暗号資産ウォレット窃取マルウェアの危険は、ウォレットアプリだけでなく送金の操作経路を奪う点にある。攻撃者はUSB内のショートカットを使ってWindows PCにワームを入れ、クリップボードにコピーされた秘密鍵やウォレットアドレスを監視する。利用者が取引所やウォレットへ送金先を貼り付ける瞬間、宛先が攻撃者のアドレスへ差し替えられる。\n\n## USBショートカットが入口\n流れはUSB挿入、LNK実行、ワーム導入、クリップボード監視、アドレス置換の5段階だ。文書やフォルダーに見える項目を開くと、実際には悪性インストール命令が動く。ワーム型のため同じPCに接続した別のUSBにも広がり得る。感染件数、盗難額、攻撃者ウォレット数は特定できないが、秘密鍵1つの流出で残高全体が危険になり、置換1回で送金全額が失われる。\n\n## 韓国投資家への影響\n韓国の利用者はウォン入出金取引所、個人ウォレット、海外DeFiを行き来しながらアドレスをコピーすることが多い。この習慣がクリップボード・ハイジャックの標的になる。ウォン換算の被害額は数量、価格、為替で決まり、個人ウォレットから署名されたオンチェーン送金の取り消しは難しい。\n\n## 最後の防御は確認\nUSBの自動実行を止め、不明なショートカットを開かず、送金前に全アドレスを別画面やハードウェアウォレットで照合する必要がある。秘密鍵をクリップボードへコピーしないことが基本だ。",
+      "keywords": [
+        "USBマルウェア",
+        "暗号資産ウォレット窃取",
+        "クリップボードハイジャック",
+        "Windowsショートカット",
+        "秘密鍵保護",
+        "LNKワーム",
+        "送金先差し替え",
+        "韓国暗号資産セキュリティ",
+        "USB暗号資産ウォレット窃取マルウェア拡"
+      ],
+      "faq": [
+        {
+          "q": "USBマルウェアはどう感染するのか?",
+          "a": "USB内のショートカット実行をワーム導入につなげ、Windows PCでクリップボードを監視する。"
+        },
+        {
+          "q": "送金先の差し替えはいつ起きるのか?",
+          "a": "利用者が暗号資産アドレスをコピーして取引所やウォレットに貼り付ける時に起き得る。"
+        },
+        {
+          "q": "投資家の対策は何か?",
+          "a": "不明なUSBとLNKを避け、全アドレスを照合し、秘密鍵をクリップボードにコピーしないことだ。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "USB加密货币钱包窃取恶意软件扩散，Windows快捷方式诱导安装蠕虫并瞄准私钥与转账地址",
+      "excerpt": "攻击者利用USB中的Windows快捷方式文件安装蠕虫，监控剪贴板里的私钥和钱包地址，并在用户发起加密货币转账时把目的地址替换为攻击者钱包。",
+      "metaDescription": "USB传播的加密货币钱包窃取恶意软件滥用Windows快捷方式，监控剪贴板私钥和地址并替换转账目的地。解析韩国投资者风险与防护要点。",
+      "summary": "一种通过USB扩散的加密货币钱包窃取恶意软件正在利用Windows快捷方式作为入口。蠕虫会监控剪贴板中的私钥和钱包地址，并在转账时替换收款地址。链上交易确认后难以撤回，韩国投资者需要加强USB管控和完整地址核验。",
+      "body": "这类加密货币钱包窃取恶意软件的关键风险，不在于直接攻破钱包应用，而在于接管用户的转账路径。攻击者把USB中的快捷方式文件伪装成普通文件或文件夹，诱导Windows PC执行蠕虫安装。感染后，恶意程序监控剪贴板中的私钥和钱包地址模式；当用户把地址复制到交易所或钱包页面时，目的地址可能被替换为攻击者钱包。\n\n## USB快捷方式成为入口\n攻击链可分为5步：插入USB、执行LNK快捷方式、安装蠕虫、监控剪贴板、替换地址。由于具备蠕虫特征，它还可能复制到连接同一电脑的其他USB。当前无法确定感染数量、被盗金额和攻击者钱包数量。但只要一个私钥泄露，整个钱包余额就会面临风险；一次地址替换成功，也可能让整笔转账流向错误地址。\n\n## 对韩国投资者的影响\n韩国用户经常在韩元出入金交易所、个人钱包和海外DeFi之间复制地址。这个习惯正是剪贴板劫持的目标。韩元计价损失由币种数量、成交价格和汇率决定。即便本地虚拟资产平台加强异常交易监测，从个人钱包签名发出的链上转账仍很难在技术和制度上撤回。\n\n## 最后的防线是核验\n投资者应关闭USB自动运行，不打开未知快捷方式，在转账前用硬件钱包或另一屏幕核对完整地址，并避免把私钥复制到剪贴板。系统补丁和杀毒更新也应作为基本流程。",
+      "keywords": [
+        "USB恶意软件",
+        "加密货币钱包盗窃",
+        "剪贴板劫持",
+        "Windows快捷方式",
+        "私钥安全",
+        "LNK蠕虫",
+        "钱包地址替换",
+        "韩国虚拟资产安全",
+        "USB加密货币钱包窃取恶意软件扩散，Wi"
+      ],
+      "faq": [
+        {
+          "q": "USB恶意软件如何攻击加密钱包?",
+          "a": "它通过USB快捷方式安装蠕虫，并在Windows电脑上监控剪贴板里的私钥和钱包地址。"
+        },
+        {
+          "q": "地址替换什么时候发生?",
+          "a": "用户复制并粘贴加密货币收款地址到交易所或钱包转账页面时可能发生。"
+        },
+        {
+          "q": "韩国投资者应先做什么?",
+          "a": "避免未知USB和LNK文件，转账前核对完整地址，不把私钥复制到剪贴板。"
+        }
+      ]
+    },
+    "es": {
+      "title": "Malware USB contra billeteras cripto usa accesos de Windows para robar claves",
+      "excerpt": "Los atacantes usan accesos directos en USB para instalar un gusano en PC con Windows, vigilar claves privadas y direcciones en el portapapeles, y cambiar el destino de transferencias cripto.",
+      "metaDescription": "Malware cripto propagado por USB abusa de accesos directos de Windows, vigila claves privadas y direcciones en el portapapeles y sustituye destinos de pago. Riesgos para inversores coreanos.",
+      "summary": "Un malware que roba billeteras cripto se propaga mediante USB y accesos directos de Windows. El gusano vigila el portapapeles en busca de claves privadas y direcciones, y cambia la dirección de destino durante una transferencia. Como las operaciones en blockchain son difíciles de revertir, la verificación completa de direcciones es esencial.",
+      "body": "El riesgo central de este malware contra billeteras cripto está en capturar la ruta de envío del usuario. Los atacantes usan archivos de acceso directo dentro de memorias USB para instalar un gusano en equipos Windows. Luego monitorea el portapapeles en busca de claves privadas y patrones de direcciones. Cuando el usuario pega una dirección en una billetera o exchange, el destino puede cambiarse por una billetera del atacante.\n\n## El acceso directo USB es la puerta\nLa cadena tiene cinco pasos: conexión del USB, ejecución del LNK, instalación del gusano, monitoreo del portapapeles y sustitución de dirección. Un archivo que parece documento o carpeta puede ejecutar el comando malicioso. Al comportarse como gusano, puede copiarse a otros USB conectados al mismo PC. No hay una cifra fija de infecciones, fondos robados o billeteras atacantes, pero una sola clave privada expuesta pone en riesgo todo el saldo.\n\n## Impacto en Corea\nLos usuarios coreanos suelen copiar direcciones entre exchanges con entrada y salida en won, billeteras personales y DeFi extranjero. Esa costumbre alimenta el secuestro del portapapeles. La pérdida en won depende de cantidad, precio y tipo de cambio. Una transferencia firmada desde una billetera personal es difícil de revertir en la cadena.\n\n## Verificar es la última defensa\nConviene desactivar la ejecución automática de USB, evitar accesos directos desconocidos, comparar la dirección completa en otra pantalla o hardware wallet y no copiar claves privadas al portapapeles.",
+      "keywords": [
+        "malware USB",
+        "robo de billetera cripto",
+        "secuestro del portapapeles",
+        "accesos directos Windows",
+        "clave privada",
+        "gusano LNK",
+        "cambio de dirección cripto",
+        "seguridad cripto Corea",
+        "Malware USB contra b"
+      ],
+      "faq": [
+        {
+          "q": "Cómo ataca este malware a las billeteras cripto?",
+          "a": "Usa accesos directos en USB para instalar un gusano y vigilar claves privadas y direcciones en el portapapeles de Windows."
+        },
+        {
+          "q": "Cuándo ocurre el cambio de dirección?",
+          "a": "Puede ocurrir cuando el usuario copia y pega una dirección de destino en un exchange o billetera."
+        },
+        {
+          "q": "Qué deben revisar los inversores?",
+          "a": "Evitar USB desconocidos, verificar la dirección completa y no copiar claves privadas al portapapeles."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Malware USB contra carteiras cripto usa atalhos do Windows para roubar chaves",
+      "excerpt": "Atacantes usam atalhos em pendrives para instalar um worm em PCs Windows, monitorar chaves privadas e endereços no clipboard e trocar o destino de transferências cripto.",
+      "metaDescription": "Malware cripto propagado por USB explora atalhos do Windows, monitora chaves privadas e endereços no clipboard e substitui destinos de envio. Riscos e prevenção para investidores coreanos.",
+      "summary": "Um malware voltado ao roubo de carteiras cripto se espalha por USB e atalhos do Windows. O worm monitora o clipboard em busca de chaves privadas e endereços de carteira, depois substitui o destino durante a transferência. Como pagamentos em blockchain são difíceis de reverter, a conferência integral do endereço é decisiva.",
+      "body": "O principal risco desse malware contra carteiras cripto está em dominar o caminho de envio usado pela vítima. Atacantes colocam arquivos de atalho em dispositivos USB para instalar um worm em PCs Windows. Depois da infecção, ele monitora o clipboard em busca de chaves privadas e padrões de endereço. Quando o usuário cola um destino em uma exchange ou carteira, o endereço pode ser trocado por uma carteira do atacante.\n\n## O atalho USB é a porta de entrada\nA cadeia tem cinco etapas: inserir o USB, executar o LNK, instalar o worm, monitorar o clipboard e substituir o endereço. Um item que parece documento ou pasta pode acionar o comando malicioso. Por agir como worm, ele pode se copiar para outros USB ligados ao mesmo computador. Não há número fechado de infecções, valores roubados ou carteiras atacantes, mas uma chave privada exposta coloca todo o saldo em risco.\n\n## Efeito para investidores na Coreia\nUsuários coreanos costumam copiar endereços entre exchanges com depósitos em won, carteiras pessoais e serviços DeFi externos. Esse hábito é o alvo do sequestro de clipboard. O prejuízo em won depende da quantidade, preço do ativo e câmbio. Uma transação on-chain assinada por carteira pessoal é difícil de desfazer.\n\n## Verificação é a defesa final\nDesative execução automática de USB, evite atalhos desconhecidos, confira o endereço completo em outra tela ou hardware wallet e nunca copie chaves privadas para o clipboard.",
+      "keywords": [
+        "malware USB",
+        "roubo de carteira cripto",
+        "sequestro de clipboard",
+        "atalhos Windows",
+        "chave privada",
+        "worm LNK",
+        "troca de endereço",
+        "segurança cripto Coreia",
+        "Malware USB contra c"
+      ],
+      "faq": [
+        {
+          "q": "Como o malware USB ataca carteiras cripto?",
+          "a": "Ele usa atalhos no USB para instalar um worm e monitorar chaves privadas e endereços no clipboard do Windows."
+        },
+        {
+          "q": "Quando ocorre a troca de endereço?",
+          "a": "Pode ocorrer quando o usuário copia e cola um endereço de destino em uma exchange ou carteira."
+        },
+        {
+          "q": "O que investidores devem checar?",
+          "a": "Evitar USB desconhecidos, conferir o endereço completo e não copiar chaves privadas para o clipboard."
+        }
+      ]
+    },
+    "de": {
+      "title": "USB-Malware gegen Krypto-Wallets nutzt Windows-Verknüpfungen für Schlüsselraub",
+      "excerpt": "Angreifer nutzen USB-Verknüpfungen, um auf Windows-PCs einen Wurm zu installieren, private Schlüssel und Wallet-Adressen in der Zwischenablage zu überwachen und Transferziele auszutauschen.",
+      "metaDescription": "USB-Krypto-Malware missbraucht Windows-Verknüpfungen, überwacht private Schlüssel und Wallet-Adressen in der Zwischenablage und ersetzt Transferziele. Risiken für Anleger in Korea.",
+      "summary": "Wallet-stehlende Krypto-Malware verbreitet sich über USB-Laufwerke und Windows-Verknüpfungen. Der Wurm überwacht die Zwischenablage auf private Schlüssel und Wallet-Adressen und ersetzt beim Transfer die Zieladresse. Da Blockchain-Zahlungen nach Bestätigung kaum umkehrbar sind, zählt die vollständige Adressprüfung.",
+      "body": "Das Kernrisiko dieser Krypto-Wallet-Malware liegt darin, den Übertragungsweg des Nutzers zu übernehmen. Angreifer platzieren Verknüpfungsdateien auf USB-Laufwerken, die auf Windows-PCs einen Wurm installieren. Danach überwacht die Malware die Zwischenablage auf private Schlüssel und Wallet-Adressmuster. Fügt der Nutzer eine Zieladresse in Börse oder Wallet ein, kann sie durch eine Angreiferadresse ersetzt werden.\n\n## USB-Verknüpfungen sind der Einstieg\nDie Kette besteht aus fünf Schritten: USB einstecken, LNK ausführen, Wurm installieren, Zwischenablage überwachen, Adresse ersetzen. Was wie Dokument oder Ordner aussieht, kann einen Installationsbefehl starten. Als Wurm kann sich die Software auf weitere USB-Geräte am selben PC kopieren. Feste Zahlen zu Infektionen, Schäden oder Angreifer-Wallets lassen sich nicht bestimmen. Ein offengelegter privater Schlüssel gefährdet jedoch das gesamte Wallet-Guthaben.\n\n## Folgen für Korea\nKoreanische Nutzer kopieren häufig Adressen zwischen Won-Börsen, privaten Wallets und ausländischen DeFi-Diensten. Genau dieses Verhalten zielt Clipboard-Hijacking an. Der Schaden in Won ergibt sich aus Menge, Marktpreis und Wechselkurs. Eine signierte On-Chain-Transaktion aus einer privaten Wallet ist schwer zurückzuholen.\n\n## Kontrolle bleibt entscheidend\nNutzer sollten USB-Autorun deaktivieren, unbekannte Verknüpfungen meiden, die vollständige Adresse auf separatem Bildschirm oder Hardware-Wallet vergleichen und private Schlüssel nie in die Zwischenablage kopieren.",
+      "keywords": [
+        "USB-Malware",
+        "Krypto-Wallet-Diebstahl",
+        "Clipboard-Hijacking",
+        "Windows-Verknüpfung",
+        "privater Schlüssel",
+        "LNK-Wurm",
+        "Adressersetzung",
+        "Krypto-Sicherheit Korea",
+        "USB-Malware gegen Kr"
+      ],
+      "faq": [
+        {
+          "q": "Wie greift USB-Malware Krypto-Wallets an?",
+          "a": "Sie nutzt USB-Verknüpfungen, installiert einen Wurm und überwacht private Schlüssel sowie Wallet-Adressen in der Windows-Zwischenablage."
+        },
+        {
+          "q": "Wann wird die Zieladresse ersetzt?",
+          "a": "Beim Kopieren und Einfügen einer Krypto-Adresse in eine Börse oder Wallet kann die Adresse ausgetauscht werden."
+        },
+        {
+          "q": "Was sollten Anleger prüfen?",
+          "a": "Unbekannte USB-Geräte meiden, die komplette Adresse prüfen und private Schlüssel nicht in die Zwischenablage kopieren."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Malware USB visant les portefeuilles crypto via raccourcis Windows et clés privées",
+      "excerpt": "Des attaquants utilisent des raccourcis sur clé USB pour installer un ver sur PC Windows, surveiller clés privées et adresses dans le presse-papiers, puis remplacer la destination des transferts crypto.",
+      "metaDescription": "Un malware crypto propagé par USB exploite les raccourcis Windows, surveille les clés privées et adresses du presse-papiers et remplace les destinations. Risques pour investisseurs coréens.",
+      "summary": "Un malware de vol de portefeuilles crypto se propage par clés USB et raccourcis Windows. Le ver surveille le presse-papiers pour repérer clés privées et adresses, puis remplace l’adresse de destination au moment du transfert. Les transactions blockchain étant difficiles à annuler, la vérification complète de l’adresse devient essentielle.",
+      "body": "Le danger principal de ce malware de portefeuille crypto est la prise de contrôle du chemin de transfert. Les attaquants placent des fichiers de raccourci sur des supports USB pour installer un ver sur des PC Windows. Une fois actif, il surveille le presse-papiers à la recherche de clés privées et de modèles d’adresses. Quand l’utilisateur colle une adresse dans une bourse ou un portefeuille, la destination peut être remplacée par celle de l’attaquant.\n\n## Le raccourci USB sert d’entrée\nLa chaîne comporte cinq étapes: insertion USB, exécution du LNK, installation du ver, surveillance du presse-papiers et remplacement d’adresse. Un élément qui ressemble à un document ou dossier peut lancer une commande malveillante. Comme il agit en ver, il peut se copier vers d’autres USB connectés au même PC. Aucun total fiable d’infections, de montants volés ou de portefeuilles attaquants n’est fixé, mais une seule clé privée exposée met tout le solde en danger.\n\n## Enjeu pour la Corée\nLes utilisateurs coréens copient souvent des adresses entre plateformes en won, portefeuilles personnels et DeFi étrangère. Cette habitude nourrit le détournement du presse-papiers. La perte en won dépend de la quantité, du prix et du change. Un transfert on-chain signé depuis un portefeuille personnel est difficile à annuler.\n\n## Vérifier reste la défense finale\nIl faut désactiver l’exécution automatique USB, éviter les raccourcis inconnus, comparer l’adresse complète sur un écran séparé ou un hardware wallet et ne jamais copier de clé privée dans le presse-papiers.",
+      "keywords": [
+        "malware USB",
+        "vol de portefeuille crypto",
+        "détournement du presse-papiers",
+        "raccourci Windows",
+        "clé privée",
+        "ver LNK",
+        "remplacement adresse wallet",
+        "sécurité crypto Corée",
+        "Malware USB visant l"
+      ],
+      "faq": [
+        {
+          "q": "Comment le malware USB vise-t-il les portefeuilles crypto?",
+          "a": "Il installe un ver via des raccourcis USB et surveille les clés privées et adresses dans le presse-papiers Windows."
+        },
+        {
+          "q": "Quand l’adresse peut-elle être remplacée?",
+          "a": "Lorsqu’un utilisateur copie-colle une adresse de destination dans une bourse ou un portefeuille."
+        },
+        {
+          "q": "Que doivent vérifier les investisseurs?",
+          "a": "Éviter les USB inconnus, contrôler l’adresse complète et ne pas copier de clés privées dans le presse-papiers."
+        }
+      ]
+    },
+    "ar": {
+      "title": "برمجية USB خبيثة تستهدف محافظ العملات المشفرة عبر اختصارات Windows والمفاتيح الخاصة",
+      "excerpt": "يستغل المهاجمون ملفات اختصار داخل وحدات USB لتثبيت دودة على أجهزة Windows، ثم يراقبون الحافظة بحثا عن المفاتيح الخاصة وعناوين المحافظ ويستبدلون وجهة التحويل بمحفظة تابعة لهم.",
+      "metaDescription": "برمجية خبيثة تنتشر عبر USB وتستغل اختصارات Windows لمراقبة المفاتيح الخاصة وعناوين المحافظ في الحافظة واستبدال وجهات التحويل. مخاطرها على مستثمري كوريا وإجراءات الوقاية.",
+      "summary": "تنتشر برمجية خبيثة لسرقة محافظ العملات المشفرة عبر وحدات USB وملفات اختصار Windows. تراقب الدودة الحافظة بحثا عن المفاتيح الخاصة وعناوين المحافظ، ثم تستبدل عنوان الوجهة أثناء التحويل. وبما أن معاملات البلوكشين يصعب عكسها بعد التأكيد، تصبح مراجعة العنوان كاملا وإدارة USB أمرا حاسما.",
+      "body": "الخطر الأساسي في هذه البرمجية لا يكمن في اختراق تطبيق المحفظة فقط، بل في السيطرة على مسار التحويل الذي يستخدمه المستثمر. يضع المهاجمون ملفات اختصار داخل USB لتثبيت دودة على أجهزة Windows. بعد الإصابة، تراقب البرمجية الحافظة بحثا عن المفاتيح الخاصة وأنماط عناوين المحافظ. وعندما ينسخ المستخدم عنوانا إلى منصة تداول أو محفظة، يمكن استبدال الوجهة بعنوان يملكه المهاجم.\n\n## اختصار USB هو بوابة الإصابة\nتتكون السلسلة من خمس مراحل: إدخال USB، تشغيل ملف LNK، تثبيت الدودة، مراقبة الحافظة، ثم تبديل العنوان. قد يبدو الملف كمستند أو مجلد عادي، لكنه ينفذ أمرا خبيثا. وبسبب سلوك الدودة يمكن أن ينتقل إلى وحدات USB أخرى متصلة بالحاسوب نفسه. لا توجد أرقام ثابتة لعدد الإصابات أو قيمة المسروقات أو محافظ المهاجمين، لكن تسرب مفتاح خاص واحد قد يعرض الرصيد كله للخطر.\n\n## أثره على مستثمري كوريا\nينسخ مستخدمون في كوريا العناوين كثيرا بين منصات تدعم الوون، محافظ شخصية، وخدمات DeFi خارجية. هذه العادة هي هدف اختطاف الحافظة. الخسارة بالوون تتحدد حسب كمية العملة والسعر وسعر الصرف. التحويل الموقع من محفظة شخصية على السلسلة يصعب إلغاؤه.\n\n## التحقق هو خط الدفاع الأخير\nيجب إيقاف التشغيل التلقائي لـ USB، تجنب الاختصارات المجهولة، مطابقة العنوان كاملا على شاشة منفصلة أو محفظة عتادية، وعدم نسخ المفاتيح الخاصة إلى الحافظة.",
+      "keywords": [
+        "برمجية USB خبيثة",
+        "سرقة محافظ العملات المشفرة",
+        "اختطاف الحافظة",
+        "اختصارات Windows",
+        "المفتاح الخاص",
+        "دودة LNK",
+        "تبديل عنوان المحفظة",
+        "أمن العملات المشفرة في كوريا",
+        "برمجية USB خبيثة تست"
+      ],
+      "faq": [
+        {
+          "q": "كيف تستهدف برمجية USB محافظ العملات المشفرة؟",
+          "a": "تستخدم اختصارات USB لتثبيت دودة على Windows ثم تراقب الحافظة بحثا عن المفاتيح الخاصة وعناوين المحافظ."
+        },
+        {
+          "q": "متى يحدث تبديل عنوان التحويل؟",
+          "a": "قد يحدث عند نسخ ولصق عنوان وجهة التحويل داخل منصة تداول أو محفظة."
+        },
+        {
+          "q": "ما أول ما يجب على المستثمرين فعله؟",
+          "a": "تجنب وحدات USB وملفات LNK المجهولة، التحقق من العنوان كاملا، وعدم نسخ المفاتيح الخاصة إلى الحافظة."
+        }
+      ]
+    },
+    "hi": {
+      "title": "USB क्रिप्टो वॉलेट मालवेयर Windows शॉर्टकट से निजी कुंजी और ट्रांसफर पता निशाना बनाता है",
+      "excerpt": "हमलावर USB शॉर्टकट फाइलों से Windows PC पर वर्म इंस्टॉल कर रहे हैं, क्लिपबोर्ड में निजी कुंजी और वॉलेट पते देखते हैं और क्रिप्टो ट्रांसफर के समय गंतव्य पता अपने वॉलेट से बदल देते हैं।",
+      "metaDescription": "USB से फैलने वाला क्रिप्टो वॉलेट मालवेयर Windows शॉर्टकट का दुरुपयोग कर क्लिपबोर्ड की निजी कुंजी और वॉलेट पता देखता है तथा ट्रांसफर गंतव्य बदलता है। कोरियाई निवेशकों के लिए जोखिम और बचाव।",
+      "summary": "क्रिप्टो वॉलेट चोरी करने वाला मालवेयर USB ड्राइव और Windows शॉर्टकट फाइलों से फैल रहा है। यह वर्म क्लिपबोर्ड में निजी कुंजी और वॉलेट पते की निगरानी करता है और ट्रांसफर के दौरान गंतव्य पता बदल सकता है। ब्लॉकचेन भुगतान पुष्टि के बाद पलटना कठिन होता है, इसलिए पूरा पता जांचना जरूरी है।",
+      "body": "इस क्रिप्टो वॉलेट मालवेयर का बड़ा जोखिम वॉलेट ऐप नहीं, बल्कि उपयोगकर्ता का ट्रांसफर रास्ता है। हमलावर USB में रखी शॉर्टकट फाइलों से Windows PC पर वर्म इंस्टॉल कराते हैं। सक्रिय होने के बाद यह क्लिपबोर्ड में कॉपी हुई निजी कुंजी और वॉलेट पते के पैटर्न देखता है। जब उपयोगकर्ता किसी एक्सचेंज या वॉलेट में पता पेस्ट करता है, तो गंतव्य हमला करने वाले के वॉलेट से बदला जा सकता है।\n\n## USB शॉर्टकट प्रवेश मार्ग है\nहमले के पांच चरण हैं: USB लगाना, LNK चलाना, वर्म इंस्टॉल होना, क्लिपबोर्ड देखना और पता बदलना। दस्तावेज या फोल्डर जैसा दिखने वाला आइटम असल में दुर्भावनापूर्ण कमांड चला सकता है। वर्म होने के कारण यह उसी PC से जुड़े अन्य USB में भी जा सकता है। संक्रमण संख्या, चोरी की रकम और हमलावर वॉलेट की संख्या तय नहीं है, लेकिन एक निजी कुंजी लीक होने पर पूरा बैलेंस खतरे में पड़ता है।\n\n## कोरिया के निवेशकों पर असर\nकोरियाई उपयोगकर्ता वोन आधारित एक्सचेंज, निजी वॉलेट और विदेशी DeFi सेवाओं के बीच पते कॉपी करते हैं। यही आदत क्लिपबोर्ड हाईजैकिंग का लक्ष्य है। वोन में नुकसान कॉइन मात्रा, बाजार मूल्य और विनिमय दर से तय होता है। निजी वॉलेट से साइन किया गया ऑन-चेन ट्रांसफर वापस कराना कठिन है।\n\n## अंतिम बचाव जांच है\nUSB ऑटो रन बंद करें, अनजान शॉर्टकट न खोलें, पूरे पते को अलग स्क्रीन या हार्डवेयर वॉलेट पर मिलाएं और निजी कुंजी कभी क्लिपबोर्ड में कॉपी न करें।",
+      "keywords": [
+        "USB मालवेयर",
+        "क्रिप्टो वॉलेट चोरी",
+        "क्लिपबोर्ड हाईजैकिंग",
+        "Windows शॉर्टकट",
+        "निजी कुंजी सुरक्षा",
+        "LNK वर्म",
+        "वॉलेट पता बदलना",
+        "कोरिया क्रिप्टो सुरक्षा",
+        "USB क्रिप्टो वॉलेट म"
+      ],
+      "faq": [
+        {
+          "q": "USB मालवेयर क्रिप्टो वॉलेट को कैसे निशाना बनाता है?",
+          "a": "यह USB शॉर्टकट से वर्म इंस्टॉल करता है और Windows क्लिपबोर्ड में निजी कुंजी व वॉलेट पते देखता है।"
+        },
+        {
+          "q": "पता कब बदला जाता है?",
+          "a": "जब उपयोगकर्ता एक्सचेंज या वॉलेट में क्रिप्टो गंतव्य पता कॉपी-पेस्ट करता है, तब बदलाव हो सकता है।"
+        },
+        {
+          "q": "निवेशकों को क्या जांचना चाहिए?",
+          "a": "अनजान USB और LNK फाइलों से बचें, पूरा पता मिलाएं और निजी कुंजी क्लिपबोर्ड में कॉपी न करें।"
+        }
+      ]
+    },
+    "id": {
+      "title": "Malware USB Pencuri Wallet Kripto Pakai Shortcut Windows untuk Curi Kunci",
+      "excerpt": "Penyerang memakai file shortcut di USB untuk memasang worm di PC Windows, memantau private key dan alamat wallet di clipboard, lalu mengganti tujuan transfer kripto ke wallet milik mereka.",
+      "metaDescription": "Malware kripto lewat USB menyalahgunakan shortcut Windows, memantau private key dan alamat wallet di clipboard, serta mengganti tujuan transfer. Risiko dan langkah aman bagi investor Korea.",
+      "summary": "Malware pencuri wallet kripto menyebar melalui USB dan file shortcut Windows. Worm ini memantau clipboard untuk mencari private key dan alamat wallet, lalu mengganti alamat tujuan saat transfer. Karena transaksi blockchain sulit dibatalkan setelah disetujui, verifikasi alamat penuh menjadi pertahanan utama.",
+      "body": "Risiko utama malware pencuri wallet kripto ini bukan hanya aplikasi wallet, melainkan jalur transfer yang digunakan korban. Penyerang memakai file shortcut di perangkat USB untuk memasang worm pada PC Windows. Setelah aktif, malware memantau clipboard untuk mencari private key dan pola alamat wallet. Saat pengguna menempelkan alamat tujuan ke exchange atau wallet, alamat itu dapat diganti dengan wallet milik penyerang.\n\n## Shortcut USB menjadi pintu masuk\nRantai serangan terdiri dari lima tahap: USB dipasang, LNK dijalankan, worm terinstal, clipboard dipantau, lalu alamat diganti. File yang tampak seperti dokumen atau folder dapat menjalankan perintah berbahaya. Karena bersifat worm, malware bisa menyalin diri ke USB lain yang terhubung ke PC yang sama. Jumlah infeksi, nilai curian, dan jumlah wallet penyerang belum dapat dipastikan, tetapi satu private key bocor dapat membahayakan seluruh saldo.\n\n## Dampak bagi investor Korea\nPengguna Korea sering menyalin alamat antara exchange berbasis won, wallet pribadi, dan layanan DeFi luar negeri. Kebiasaan ini menjadi target clipboard hijacking. Kerugian dalam won ditentukan oleh jumlah aset, harga pasar, dan kurs. Transfer on-chain yang ditandatangani dari wallet pribadi sulit dibatalkan.\n\n## Verifikasi adalah pertahanan akhir\nMatikan autorun USB, hindari shortcut tidak dikenal, cocokkan alamat lengkap di layar terpisah atau hardware wallet, dan jangan pernah menyalin private key ke clipboard.",
+      "keywords": [
+        "malware USB",
+        "pencurian wallet kripto",
+        "clipboard hijacking",
+        "shortcut Windows",
+        "private key",
+        "worm LNK",
+        "penggantian alamat wallet",
+        "keamanan kripto Korea",
+        "Malware USB Pencuri"
+      ],
+      "faq": [
+        {
+          "q": "Bagaimana malware USB menyerang wallet kripto?",
+          "a": "Malware memakai shortcut USB untuk memasang worm dan memantau private key serta alamat wallet di clipboard Windows."
+        },
+        {
+          "q": "Kapan alamat transfer diganti?",
+          "a": "Saat pengguna menyalin dan menempel alamat tujuan kripto ke exchange atau wallet."
+        },
+        {
+          "q": "Apa yang harus dicek investor?",
+          "a": "Hindari USB dan file LNK tidak dikenal, verifikasi alamat lengkap, dan jangan salin private key ke clipboard."
+        }
+      ]
+    }
+  }
+}
