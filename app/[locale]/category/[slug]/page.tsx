@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { db } from '@/lib/db';
 import { ArticleCard } from '@/components/ArticleCard';
-import { AdSlot } from '@/components/AdSlot';
+import { AffiliateShowcase } from '@/components/AffiliateShowcase';
 import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
 import { itemListJsonLd } from '@/lib/seo';
@@ -47,19 +47,11 @@ export default async function CategoryPage({ params }: { params: { locale: Local
       <p style={{ color: 'var(--muted)', lineHeight: 1.7, margin: '0 0 18px' }}>
         {channel.name} curated stories for this section. If the feed source does not provide a direct category match, the latest verified articles are shown so readers never land on an empty news page.
       </p>
-      <div style={{ display: 'flex', justifyContent: 'center', margin: '4px 0 20px' }}>
-        <AdSlot network="adsterra" />
+      <div data-category-monetization style={{ margin: '18px 0 22px' }}>
+        <AffiliateShowcase locale={params.locale} placement="article" />
       </div>
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16, marginTop: 16 }}>
-        {items.flatMap((a, idx) => {
-          const card = <ArticleCard key={a.id} article={a} locale={params.locale} />;
-          return idx > 0 && idx % 8 === 0
-            ? [<div key={`ad-${idx}`} style={{ gridColumn: '1 / -1', display: 'flex', justifyContent: 'center', margin: '6px 0' }}><AdSlot network="adsterra" /></div>, card]
-            : [card];
-        })}
-      </div>
-      <div style={{ display: 'flex', justifyContent: 'center', margin: '24px 0 4px' }}>
-        <AdSlot network="adsterra" />
+        {items.map((a) => <ArticleCard key={a.id} article={a} locale={params.locale} />)}
       </div>
     </div>
   );

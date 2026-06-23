@@ -48,9 +48,8 @@ function getCopy(locale: Locale, placement: Placement) {
 function getOffers(locale: Locale): Offer[] {
   const isKo = locale === 'ko';
   const keyword = channel.keywords?.[0] || channel.name;
-
-  // Coupang search URL — auto-tracked via Coupang Partners deeplink converter
-  const coupangSearch = `https://www.coupang.com/np/search?component=&q=${encodeURIComponent('비트코인 하드월렛')}`;
+  // Official Coupang Partners short link. Env can override per site.
+  const coupangPartnerUrl = process.env.NEXT_PUBLIC_COUPANG_FALLBACK_URL || 'https://link.coupang.com/a/efySALPmDc';
 
   // AliExpress search URL — fallback to gadget category
   const aliExpressSearch = 'https://www.aliexpress.com/w/wholesale-bitcoin-hardware-wallet.html';
@@ -65,7 +64,7 @@ function getOffers(locale: Locale): Offer[] {
     {
       id: 'coupang',
       label: isKo ? '쿠팡 파트너스' : 'Coupang Partners',
-      href: process.env.NEXT_PUBLIC_COUPANG_PARTNERS_URL || coupangSearch,
+      href: process.env.NEXT_PUBLIC_COUPANG_PARTNERS_URL || coupangPartnerUrl,
       badge: isKo ? '국내 전환용' : 'KR conversion',
       note: isKo ? '국내 배송과 즉시 구매 성향이 강한 방문자용' : 'Good fit for Korea-based visitors ready to buy.'
     },
@@ -85,7 +84,7 @@ function getOffers(locale: Locale): Offer[] {
     }
   ];
 
-  return offers.filter((offer) => offer.id === "coupang" && Boolean(offer.href));
+  return offers.filter((offer) => Boolean(offer.href));
 }
 
 export function AffiliateShowcase({ locale, placement = 'article' }: Props) {

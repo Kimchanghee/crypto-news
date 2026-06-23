@@ -33,6 +33,10 @@ export default async function Home({ params: { locale } }: { params: { locale: L
     <div>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd(articles.slice(0, 20), locale, `${(channel as any).name} latest news`)) }} />
 
+      <h1 data-primary-home-heading style={{ fontFamily: 'var(--serif)', fontSize: 34, lineHeight: 1.2, margin: '0 0 18px' }}>
+        {(channel as any).name} {locale === 'ko' ? '최신 뉴스' : 'Latest News'}
+      </h1>
+
       <section className="np-lead">
         <div>
           {hero ? <ArticleCard article={hero} locale={locale} large /> : <div className="card">{t('common.loading')}</div>}
