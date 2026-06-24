@@ -1,6 +1,7 @@
 import { channel } from '@/channel.config';
 import type { Locale } from '@/i18n';
 import { AdSlot } from '@/components/AdSlot';
+import { CoupangBanner } from '@/components/CoupangBanner';
 
 type Placement = 'sidebar' | 'article';
 
@@ -10,14 +11,12 @@ type Props = {
 };
 
 type Offer = {
-  id: 'coupang' | 'aliexpress' | 'amazon';
+  id: 'coupang';
   label: string;
   href?: string;
   badge: string;
   note: string;
 };
-
-const AMAZON_TAG = 'amazonfi00681-20';
 
 function getCopy(locale: Locale, placement: Placement) {
   if (locale === 'ko') {
@@ -47,18 +46,8 @@ function getCopy(locale: Locale, placement: Placement) {
 
 function getOffers(locale: Locale): Offer[] {
   const isKo = locale === 'ko';
-  const keyword = channel.keywords?.[0] || channel.name;
   // Official Coupang Partners short link. Env can override per site.
   const coupangPartnerUrl = process.env.NEXT_PUBLIC_COUPANG_FALLBACK_URL || 'https://link.coupang.com/a/efySALPmDc';
-
-  // AliExpress search URL — fallback to gadget category
-  const aliExpressSearch = 'https://www.aliexpress.com/w/wholesale-bitcoin-hardware-wallet.html';
-
-  const amazonUrl = new URL('https://www.amazon.com/s');
-  amazonUrl.searchParams.set('k', 'bitcoin hardware wallet');
-  amazonUrl.searchParams.set('tag', AMAZON_TAG);
-  amazonUrl.searchParams.set('linkCode', 'll2');
-  amazonUrl.searchParams.set('language', 'en_US');
 
   const offers: Offer[] = [
     {
@@ -67,20 +56,6 @@ function getOffers(locale: Locale): Offer[] {
       href: process.env.NEXT_PUBLIC_COUPANG_PARTNERS_URL || coupangPartnerUrl,
       badge: isKo ? '국내 전환용' : 'KR conversion',
       note: isKo ? '국내 배송과 즉시 구매 성향이 강한 방문자용' : 'Good fit for Korea-based visitors ready to buy.'
-    },
-    {
-      id: 'aliexpress',
-      label: isKo ? '알리익스프레스' : 'AliExpress',
-      href: process.env.NEXT_PUBLIC_ALIEXPRESS_AFFILIATE_URL || aliExpressSearch,
-      badge: isKo ? '가성비 상품' : 'Budget picks',
-      note: isKo ? '가성비 전자기기와 데스크 셋업 관심층에 적합' : 'Works well for price-sensitive gadget and desk-tool traffic.'
-    },
-    {
-      id: 'amazon',
-      label: isKo ? '아마존 어필리에이트' : 'Amazon Associates',
-      href: process.env.NEXT_PUBLIC_AMAZON_AFFILIATE_URL || amazonUrl.toString(),
-      badge: isKo ? '글로벌 상품' : 'Global reach',
-      note: isKo ? '도서, 업무 도구, 글로벌 구매 수요 대응' : 'Useful for books, work tools, and international shoppers.'
     }
   ];
 
@@ -107,6 +82,10 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
         <p className="affiliate-eyebrow">{copy.eyebrow}</p>
         <h2 className="affiliate-title">{copy.title}</h2>
         <p className="affiliate-description">{copy.description}</p>
+      </div>
+
+      <div style={{ display: 'flex', justifyContent: 'center', margin: '12px 0' }}>
+        <CoupangBanner subId={channel.id || ''} />
       </div>
 
       <div className={`affiliate-grid ${compact ? 'affiliate-grid-compact' : ''}`}>
