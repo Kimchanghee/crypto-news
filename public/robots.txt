@@ -19,9 +19,6 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-User-agent: Amazonbot
-Allow: /
-
 Sitemap: https://dailycryptonews.online/sitemap.xml
 Host: dailycryptonews.online
 IndexNow-Key: 5e6b5204ad8f906cddef351f6cd154b6

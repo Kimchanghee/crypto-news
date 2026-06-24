@@ -6,20 +6,33 @@ type Props = {
   className?: string;
 };
 
+const DEFAULT_ADSTERRA_KEY = '3e4bce1484f612934ea3087016160d51';
+const DEFAULT_ADSTERRA_HOST = 'molecularshindy.com';
+
 function pickAdsterraKey(explicit?: string) {
   return (
-    explicit || '3e4bce1484f612934ea3087016160d51' ||
+    explicit ||
     process.env.NEXT_PUBLIC_ADSTERRA_BANNER_300_KEY ||
     process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY ||
     process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_KEY ||
     process.env.NEXT_PUBLIC_ADSTERRA_POPUNDER_KEY ||
     process.env.NEXT_PUBLIC_ADSTERRA_SMARTLINK_KEY ||
-    ''
+    DEFAULT_ADSTERRA_KEY
   );
 }
 
-function buildSrcDoc(key: string, width: number, height: number) {
-  return `<!doctype html><html><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><style>html,body{margin:0;padding:0;overflow:hidden;background:transparent}body{display:grid;place-items:center;min-height:${height}px}#ad{width:${width}px;min-height:${height}px}</style></head><body><div id="ad"></div><script type="text/javascript">atOptions={'key':'${key}','format':'iframe','height':${height},'width':${width},'params':{}};<\/script><script type="text/javascript" src="https://www.highperformanceformat.com/${key}/invoke.js"><\/script></body></html>`;
+function pickAdsterraHost() {
+  return process.env.NEXT_PUBLIC_ADSTERRA_SCRIPT_HOST || DEFAULT_ADSTERRA_HOST;
+}
+
+function buildFrameSrc(key: string, width: number, height: number) {
+  const params = new URLSearchParams({
+    key,
+    host: pickAdsterraHost(),
+    w: String(width),
+    h: String(height)
+  });
+  return `/ads/adsterra?${params.toString()}`;
 }
 
 export function AdSlot({ network, zoneId, size, className }: Props) {
@@ -32,12 +45,13 @@ export function AdSlot({ network, zoneId, size, className }: Props) {
 
   return (
     <iframe
-      title={`safe-inline-adsterra-${key.slice(0, 8)}`}
+      title={`adsterra-banner-${key.slice(0, 8)}`}
+      data-adsterra-slot="true"
       width={width}
       height={height}
       loading="eager"
       scrolling="no"
-      srcDoc={buildSrcDoc(key, width, height)}
+      src={buildFrameSrc(key, width, height)}
       style={{ border: 0, display: 'block', margin: '0 auto', maxWidth: '100%' }}
       className={className}
       referrerPolicy="no-referrer-when-downgrade"

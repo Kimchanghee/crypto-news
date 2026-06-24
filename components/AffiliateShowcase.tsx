@@ -68,13 +68,7 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
 
   const copy = getCopy(locale, placement);
   const compact = placement === 'sidebar';
-  const hasAdsterra = Boolean(
-    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_300_KEY ||
-    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY ||
-    process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_KEY ||
-    process.env.NEXT_PUBLIC_ADSTERRA_POPUNDER_KEY ||
-    process.env.NEXT_PUBLIC_ADSTERRA_SMARTLINK_KEY
-  );
+  const hasAdsterra = true;
 
   return (
     <section className={`affiliate-module ${compact ? 'affiliate-module-compact' : ''}`} aria-label={copy.title}>
