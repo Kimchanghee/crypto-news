@@ -5,13 +5,26 @@ import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
 
 const TICKER = [
-  { nm: '비트코인', pr: '$103,420', d: 'up', ch: '▲ 1.24%' },
-  { nm: '나스닥', pr: '18,642', d: 'up', ch: '▲ 0.41%' },
-  { nm: 'S&P 500', pr: '5,430', d: 'up', ch: '▲ 0.33%' },
-  { nm: '코스피', pr: '2,704', d: 'dn', ch: '▼ 0.22%' },
-  { nm: '원/달러', pr: '1,386.4', d: 'up', ch: '▲ 3.10' },
-  { nm: '금', pr: '$2,418', d: 'up', ch: '▲ 0.55%' },
+  { id: 'bitcoin', pr: '$103,420', d: 'up', ch: '▲ 1.24%' },
+  { id: 'nasdaq', pr: '18,642', d: 'up', ch: '▲ 0.41%' },
+  { id: 'sp500', pr: '5,430', d: 'up', ch: '▲ 0.33%' },
+  { id: 'kospi', pr: '2,704', d: 'dn', ch: '▼ 0.22%' },
+  { id: 'usdkrw', pr: '1,386.4', d: 'up', ch: '▲ 3.10' },
+  { id: 'gold', pr: '$2,418', d: 'up', ch: '▲ 0.55%' },
 ];
+
+const TICKER_NAMES: Record<string, Partial<Record<Locale, string>>> = {
+  bitcoin: { ko: '비트코인', en: 'Bitcoin', ja: 'ビットコイン', zh: '比特币', es: 'Bitcoin', pt: 'Bitcoin', de: 'Bitcoin', fr: 'Bitcoin', ar: 'بيتكوين', hi: 'बिटकॉइन', id: 'Bitcoin' },
+  nasdaq: { ko: '나스닥', en: 'Nasdaq', ja: 'ナスダック', zh: '纳斯达克', es: 'Nasdaq', pt: 'Nasdaq', de: 'Nasdaq', fr: 'Nasdaq', ar: 'ناسداك', hi: 'नैस्डैक', id: 'Nasdaq' },
+  sp500: { ko: 'S&P 500', en: 'S&P 500', ja: 'S&P 500', zh: 'S&P 500', es: 'S&P 500', pt: 'S&P 500', de: 'S&P 500', fr: 'S&P 500', ar: 'S&P 500', hi: 'S&P 500', id: 'S&P 500' },
+  kospi: { ko: '코스피', en: 'KOSPI', ja: 'KOSPI', zh: 'KOSPI', es: 'KOSPI', pt: 'KOSPI', de: 'KOSPI', fr: 'KOSPI', ar: 'كوسبي', hi: 'KOSPI', id: 'KOSPI' },
+  usdkrw: { ko: '원/달러', en: 'USD/KRW', ja: 'ドル/ウォン', zh: '美元/韩元', es: 'USD/KRW', pt: 'USD/KRW', de: 'USD/KRW', fr: 'USD/KRW', ar: 'دولار/وون', hi: 'USD/KRW', id: 'USD/KRW' },
+  gold: { ko: '금', en: 'Gold', ja: '金', zh: '黄金', es: 'Oro', pt: 'Ouro', de: 'Gold', fr: 'Or', ar: 'الذهب', hi: 'सोना', id: 'Emas' }
+};
+
+function tickerName(id: string, locale: Locale) {
+  return TICKER_NAMES[id]?.[locale] ?? TICKER_NAMES[id]?.en ?? id;
+}
 
 export function Header({ locale }: { locale: Locale }) {
   const t = useTranslations();
@@ -26,8 +39,8 @@ export function Header({ locale }: { locale: Locale }) {
       </div></div>
       <div className="np-ticker"><div className="in">
         {TICKER.map((x) => (
-          <span className="tk" key={x.nm}>
-            <span className="nm">{x.nm}</span>
+          <span className="tk" key={x.id}>
+            <span className="nm">{tickerName(x.id, locale)}</span>
             <span className="pr">{x.pr}</span>
             <span className={x.d === 'up' ? 'up' : 'dn'}>{x.ch}</span>
           </span>
