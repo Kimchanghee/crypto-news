@@ -4,6 +4,6 @@
   "common": { "readMore": "اقرأ المزيد", "search": "بحث", "loading": "جارٍ التحميل…", "language": "اللغة", "back": "رجوع", "copy": "نسخ", "share": "مشاركة" },
   "article": { "published": "تاريخ النشر", "updated": "آخر تحديث", "source": "المصدر", "summary": "ملخص", "easyRead": "نسخة مبسطة", "faq": "الأسئلة الشائعة", "related": "مقالات ذات صلة", "minutes": "{count} دقيقة قراءة" },
   "ad": { "disclosure": "إعلان", "sponsored": "مموَّل" },
-  "footer": { "copyright": "© {year} {{CHANNEL_NAME}}. جميع الحقوق محفوظة.", "privacy": "الخصوصية", "terms": "الشروط", "contact": "تواصل" },
+  "footer": {"copyright":"© {year} {channelName}. جميع الحقوق محفوظة.","privacy":"الخصوصية","terms":"الشروط","contact":"تواصل"},
   "errors": { "notFound": "الصفحة غير موجودة", "general": "حدث خطأ." }
 }

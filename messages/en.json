@@ -4,6 +4,6 @@
   "common": { "readMore": "Read more", "search": "Search", "loading": "Loading…", "language": "Language", "back": "Back", "copy": "Copy", "share": "Share" },
   "article": { "published": "Published", "updated": "Updated", "source": "Source", "summary": "TL;DR", "easyRead": "Plain-English version", "faq": "FAQ", "related": "Related stories", "minutes": "{count} min read" },
   "ad": { "disclosure": "Advertisement", "sponsored": "Sponsored" },
-  "footer": { "copyright": "© {year} {{CHANNEL_NAME}}. All rights reserved.", "privacy": "Privacy", "terms": "Terms", "contact": "Contact" },
+  "footer": {"copyright":"© {year} {channelName}. All rights reserved.","privacy":"Privacy","terms":"Terms","contact":"Contact"},
   "errors": { "notFound": "Page not found", "general": "Something went wrong. Please try again." }
 }

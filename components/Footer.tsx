@@ -8,7 +8,7 @@ export function Footer({ locale }: { locale: Locale }) {
   const t = useTranslations();
   const cats: any[] = (channel as any).categories || [];
   const site = getChannelLocale(locale);
-  const copyright = t('footer.copyright', { year: new Date().getFullYear() }).replace('{{CHANNEL_NAME}}', site.name);
+  const copyright = t('footer.copyright', { year: new Date().getFullYear(), channelName: site.name });
   return (
     <footer className="np-footer"><div className="in">
       <div className="np-fcols">

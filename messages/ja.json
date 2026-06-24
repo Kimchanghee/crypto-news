@@ -4,6 +4,6 @@
   "common": { "readMore": "続きを読む", "search": "検索", "loading": "読み込み中…", "language": "言語", "back": "戻る", "copy": "コピー", "share": "共有" },
   "article": { "published": "公開日", "updated": "更新日", "source": "出典", "summary": "要点", "easyRead": "やさしい解説", "faq": "よくある質問", "related": "関連記事", "minutes": "{count}分で読める" },
   "ad": { "disclosure": "広告", "sponsored": "スポンサー" },
-  "footer": { "copyright": "© {year} {{CHANNEL_NAME}}. 無断転載を禁じます。", "privacy": "プライバシー", "terms": "利用規約", "contact": "お問い合わせ" },
+  "footer": {"copyright":"© {year} {channelName}. 無断転載を禁じます。","privacy":"プライバシー","terms":"利用規約","contact":"お問い合わせ"},
   "errors": { "notFound": "ページが見つかりません", "general": "問題が発生しました。" }
 }

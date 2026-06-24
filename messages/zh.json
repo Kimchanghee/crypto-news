@@ -4,6 +4,6 @@
   "common": { "readMore": "阅读更多", "search": "搜索", "loading": "加载中…", "language": "语言", "back": "返回", "copy": "复制", "share": "分享" },
   "article": { "published": "发布", "updated": "更新", "source": "来源", "summary": "一句话总结", "easyRead": "通俗版", "faq": "常见问题", "related": "相关文章", "minutes": "阅读 {count} 分钟" },
   "ad": { "disclosure": "广告", "sponsored": "赞助" },
-  "footer": { "copyright": "© {year} {{CHANNEL_NAME}}. 保留所有权利。", "privacy": "隐私", "terms": "条款", "contact": "联系" },
+  "footer": {"copyright":"© {year} {channelName}. 保留所有权利。","privacy":"隐私","terms":"条款","contact":"联系"},
   "errors": { "notFound": "页面未找到", "general": "出现问题，请稍后重试。" }
 }

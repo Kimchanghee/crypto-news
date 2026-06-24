@@ -4,6 +4,6 @@
   "common": { "readMore": "Ler mais", "search": "Buscar", "loading": "Carregando…", "language": "Idioma", "back": "Voltar", "copy": "Copiar", "share": "Compartilhar" },
   "article": { "published": "Publicado", "updated": "Atualizado", "source": "Fonte", "summary": "Resumo", "easyRead": "Versão simples", "faq": "Perguntas frequentes", "related": "Relacionados", "minutes": "{count} min de leitura" },
   "ad": { "disclosure": "Publicidade", "sponsored": "Patrocinado" },
-  "footer": { "copyright": "© {year} {{CHANNEL_NAME}}. Todos os direitos reservados.", "privacy": "Privacidade", "terms": "Termos", "contact": "Contato" },
+  "footer": {"copyright":"© {year} {channelName}. Todos os direitos reservados.","privacy":"Privacidade","terms":"Termos","contact":"Contato"},
   "errors": { "notFound": "Página não encontrada", "general": "Algo deu errado. Tente novamente." }
 }
