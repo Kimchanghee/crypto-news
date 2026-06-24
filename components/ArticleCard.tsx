@@ -1,6 +1,7 @@
 import type { GeneratedArticle } from '@/lib/types';
 import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
+import { channelLabel, getChannelLocale } from '@/lib/channel-locale';
 
 const CHANNEL_TO_CAT: Record<string, string> = { REALESTATE: 'realestate', STOCKS: 'stocks', CRYPTO: 'crypto', MACRO: 'macro', ETF: 'etf', FX: 'fx' };
 
@@ -33,6 +34,7 @@ function rel(iso: string, locale: string): string {
 
 export function ArticleCard({ article, locale, large = false }: { article: GeneratedArticle; locale: Locale; large?: boolean }) {
   const i: any = article.i18n[locale] ?? article.i18n[defaultLocale] ?? {};
+  const site = getChannelLocale(locale);
   const summary = i.summary || i.excerpt || '';
   const readingTime = i.readingTime || calcReadingTime(i.body || i.bodyHtml || '');
   const cat = pickCat(article);
@@ -49,7 +51,7 @@ export function ArticleCard({ article, locale, large = false }: { article: Gener
         {summary && <p itemProp="description">{summary}</p>}
         <div className="np-meta">
           <span className="src" itemProp="publisher" itemScope itemType="https://schema.org/Organization">
-            <span itemProp="name">{(channel as any).name}</span>
+            <span itemProp="name">{site.name}</span>
           </span>
           {article.publishedAt && (
             <>
@@ -57,7 +59,7 @@ export function ArticleCard({ article, locale, large = false }: { article: Gener
               <time dateTime={article.publishedAt} itemProp="datePublished">{r}</time>
             </>
           )}
-          <span>·</span><span>{readingTime}m</span>
+          <span>·</span><span>{readingTime}{channelLabel('minuteShort', locale)}</span>
         </div>
       </a>
     </article>

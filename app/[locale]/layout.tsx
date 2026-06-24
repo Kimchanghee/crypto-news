@@ -8,18 +8,19 @@ import { AdsterraPopunder } from '@/components/AdsterraPopunder';
 import { AdsterraSocialBar } from '@/components/AdsterraSocialBar';
 import { locales, rtlLocales, type Locale } from '@/i18n';
 import { SITE_URL, alternateLanguages, organizationJsonLd, websiteJsonLd } from '@/lib/seo';
-import { channel } from '@/channel.config';
+import { getChannelLocale } from '@/lib/channel-locale';
 
 export const dynamic = 'force-dynamic';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'site' });
-  const channelName = (channel as any).name || t('name');
+  const site = getChannelLocale(params.locale);
+  const channelName = site.name || t('name');
   return {
-    title: { /* seo-title-v2 */ default: (channel as any).tagline ? `${channelName} — ${(channel as any).tagline}` : channelName, template: `%s — ${channelName}` },
-    description: (channel as any).description || t('description'),
+    title: { /* seo-title-v2 */ default: site.tagline ? `${channelName} — ${site.tagline}` : channelName, template: `%s — ${channelName}` },
+    description: site.description || t('description'),
     applicationName: channelName,
-    keywords: (channel as any).keywords || [],
+    keywords: site.keywords,
     alternates: {
       canonical: `${SITE_URL}/${params.locale}`,
       languages: alternateLanguages(''),
@@ -39,13 +40,13 @@ export async function generateMetadata({ params }: { params: { locale: Locale } 
       type: 'website',
       url: `${SITE_URL}/${params.locale}`,
       title: channelName,
-      description: (channel as any).description || t('description'),
+      description: site.description || t('description'),
       images: [{ url: '/icon-512.svg', width: 512, height: 512, alt: channelName }]
     },
     twitter: {
       card: 'summary_large_image',
       title: channelName,
-      description: (channel as any).description || t('description'),
+      description: site.description || t('description'),
       images: ['/icon-512.svg']
     },
     robots: {
@@ -77,7 +78,7 @@ export default async function LocaleLayout({
     <div lang={locale} dir={isRTL ? 'rtl' : 'ltr'}>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd(locale)) }}
       />
       <script
         type="application/ld+json"

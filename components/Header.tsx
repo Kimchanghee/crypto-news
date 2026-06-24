@@ -3,6 +3,7 @@ import { useTranslations } from 'next-intl';
 import { LocaleSwitcher } from './LocaleSwitcher';
 import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
+import { getChannelLocale } from '@/lib/channel-locale';
 
 const TICKER = [
   { id: 'bitcoin', pr: '$103,420', d: 'up', ch: '▲ 1.24%' },
@@ -29,6 +30,7 @@ function tickerName(id: string, locale: Locale) {
 export function Header({ locale }: { locale: Locale }) {
   const t = useTranslations();
   const cats: any[] = (channel as any).categories || [];
+  const site = getChannelLocale(locale);
   const dateStr = new Date().toLocaleDateString(locale, { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' });
   return (
     <>
@@ -48,10 +50,10 @@ export function Header({ locale }: { locale: Locale }) {
       </div></div>
       <div className="np-mast">
         <Link href={`/${locale}`} style={{ textDecoration: 'none' }}>
-          <div className="logo">{(channel as any).name}<span className="dot">.</span></div>
+          <div className="logo">{site.name}<span className="dot">.</span></div>
         </Link>
-        {(channel as any).tagline ? (
-          <div style={{ marginTop: 9, fontSize: 13, color: 'var(--muted)' }}>{(channel as any).tagline}</div>
+        {site.tagline ? (
+          <div style={{ marginTop: 9, fontSize: 13, color: 'var(--muted)' }}>{site.tagline}</div>
         ) : null}
       </div>
       <div className="np-nav"><div className="in">

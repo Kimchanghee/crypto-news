@@ -1,10 +1,12 @@
 import { db } from '@/lib/db';
 import { ArticleCard } from '@/components/ArticleCard';
 import { AffiliateShowcase } from '@/components/AffiliateShowcase';
+import { AdSlot } from '@/components/AdSlot';
 import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
 import { getTranslations } from 'next-intl/server';
 import { itemListJsonLd } from '@/lib/seo';
+import { channelLabel, getChannelLocale } from '@/lib/channel-locale';
 
 export const revalidate = 60;
 
@@ -14,15 +16,28 @@ function catLabel(slug: string, locale: Locale): string {
 }
 
 const MKT = [
-  { nm: '비트코인', pr: '$103,420', d: 'up', ch: '+1.24%' },
-  { nm: '나스닥', pr: '18,642', d: 'up', ch: '+0.41%' },
-  { nm: 'S&P 500', pr: '5,430', d: 'up', ch: '+0.33%' },
-  { nm: '코스피', pr: '2,704', d: 'dn', ch: '-0.22%' },
-  { nm: '원/달러', pr: '1,386.4', d: 'up', ch: '+0.22%' },
+  { id: 'bitcoin', pr: '$103,420', d: 'up', ch: '+1.24%' },
+  { id: 'nasdaq', pr: '18,642', d: 'up', ch: '+0.41%' },
+  { id: 'sp500', pr: '5,430', d: 'up', ch: '+0.33%' },
+  { id: 'kospi', pr: '2,704', d: 'dn', ch: '-0.22%' },
+  { id: 'usdkrw', pr: '1,386.4', d: 'up', ch: '+0.22%' },
 ];
+
+const MARKET_NAMES: Record<string, Partial<Record<Locale, string>>> = {
+  bitcoin: { ko: '비트코인', en: 'Bitcoin', ja: 'ビットコイン', zh: '比特币', es: 'Bitcoin', pt: 'Bitcoin', de: 'Bitcoin', fr: 'Bitcoin', ar: 'بيتكوين', hi: 'बिटकॉइन', id: 'Bitcoin' },
+  nasdaq: { ko: '나스닥', en: 'Nasdaq', ja: 'ナスダック', zh: '纳斯达克', es: 'Nasdaq', pt: 'Nasdaq', de: 'Nasdaq', fr: 'Nasdaq', ar: 'ناسداك', hi: 'नैस्डैक', id: 'Nasdaq' },
+  sp500: { ko: 'S&P 500', en: 'S&P 500', ja: 'S&P 500', zh: 'S&P 500', es: 'S&P 500', pt: 'S&P 500', de: 'S&P 500', fr: 'S&P 500', ar: 'S&P 500', hi: 'S&P 500', id: 'S&P 500' },
+  kospi: { ko: '코스피', en: 'KOSPI', ja: 'KOSPI', zh: 'KOSPI', es: 'KOSPI', pt: 'KOSPI', de: 'KOSPI', fr: 'KOSPI', ar: 'كوسبي', hi: 'KOSPI', id: 'KOSPI' },
+  usdkrw: { ko: '원/달러', en: 'USD/KRW', ja: 'ドル/ウォン', zh: '美元/韩元', es: 'USD/KRW', pt: 'USD/KRW', de: 'USD/KRW', fr: 'USD/KRW', ar: 'دولار/وون', hi: 'USD/KRW', id: 'USD/KRW' },
+};
+
+function marketName(id: string, locale: Locale) {
+  return MARKET_NAMES[id]?.[locale] ?? MARKET_NAMES[id]?.en ?? id;
+}
 
 export default async function Home({ params: { locale } }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale });
+  const site = getChannelLocale(locale);
   const articles = await db.listLatest(channel.id, 24);
   const [hero, ...rest] = articles;
   const secondary = rest.slice(0, 4);
@@ -31,10 +46,10 @@ export default async function Home({ params: { locale } }: { params: { locale: L
 
   return (
     <div>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd(articles.slice(0, 20), locale, `${(channel as any).name} latest news`)) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd(articles.slice(0, 20), locale, `${site.name} ${channelLabel('latestNews', locale)}`)) }} />
 
       <h1 data-primary-home-heading style={{ fontFamily: 'var(--serif)', fontSize: 34, lineHeight: 1.2, margin: '0 0 18px' }}>
-        {(channel as any).name} {locale === 'ko' ? '최신 뉴스' : 'Latest News'}
+        {site.name} {channelLabel('latestNews', locale)}
       </h1>
 
       <section className="np-lead">
@@ -77,8 +92,11 @@ export default async function Home({ params: { locale } }: { params: { locale: L
         </div>
 
         <aside>
+          <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 16 }}>
+            <AdSlot network="adsterra" />
+          </div>
           <div className="np-widget np-rank">
-            <span className="wh">{locale === 'ko' ? '많이 본 뉴스' : 'Most read'}</span>
+            <span className="wh">{channelLabel('mostRead', locale)}</span>
             {ranked.map((a, idx) => {
               const i: any = a.i18n[locale] ?? a.i18n[defaultLocale] ?? {};
               return (
@@ -89,10 +107,10 @@ export default async function Home({ params: { locale } }: { params: { locale: L
             })}
           </div>
           <div className="np-widget np-mkt">
-            <span className="wh">{locale === 'ko' ? '시장 지표' : 'Markets'}</span>
+            <span className="wh">{channelLabel('markets', locale)}</span>
             {MKT.map((m) => (
-              <div className="mrow" key={m.nm}>
-                <span className="nm">{m.nm}</span>
+              <div className="mrow" key={m.id}>
+                <span className="nm">{marketName(m.id, locale)}</span>
                 <span className="pr">{m.pr}</span>
                 <span className={m.d === 'up' ? 'up' : 'dn'}>{m.ch}</span>
               </div>
@@ -110,13 +128,13 @@ export default async function Home({ params: { locale } }: { params: { locale: L
         </aside>
       </div>
 
-      <section className="reader-workflow-panel" aria-label="Reader workflow" style={{ marginTop: 36 }}>
+      <section className="reader-workflow-panel" aria-label={channelLabel('readerWorkflow', locale)} style={{ marginTop: 36 }}>
         <div>
-          <p className="affiliate-eyebrow">{locale === 'ko' ? '둘러보기' : 'Explore'}</p>
-          <h2 style={{ fontSize: 20, margin: '0 0 6px' }}>{(channel as any).name}</h2>
+          <p className="affiliate-eyebrow">{channelLabel('explore', locale)}</p>
+          <h2 style={{ fontSize: 20, margin: '0 0 6px' }}>{site.name}</h2>
         </div>
         <div className="reader-workflow-links">
-          <a href={`/${locale}`} className="tag">{(channel as any).name}</a>
+          <a href={`/${locale}`} className="tag">{site.name}</a>
           <a href={`/${locale}/rss.xml`} className="tag">RSS</a>
           <a href="/sitemap.xml" className="tag">Sitemap</a>
           {((channel as any).categories || []).map((c: any) => (

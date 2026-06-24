@@ -3,6 +3,7 @@ import type { GeneratedArticle } from './types';
 import type { Locale } from '@/i18n';
 import { locales, defaultLocale } from '@/i18n';
 import { channel } from '@/channel.config';
+import { getChannelLocale } from '@/lib/channel-locale';
 
 const rawSiteUrl = process.env.SITE_URL || `https://${(channel as any).domain || ''}`;
 export const SITE_URL = rawSiteUrl.replace(/\/+$/, '');
@@ -34,8 +35,8 @@ export function alternateLanguages(path: string): Record<string, string> {
   return out;
 }
 
-function siteKeywords(extra: string[] = []): string[] {
-  return Array.from(new Set([...(channel as any).keywords ?? [], ...extra].filter(Boolean)));
+function siteKeywords(locale: Locale, extra: string[] = []): string[] {
+  return Array.from(new Set([...getChannelLocale(locale).keywords, ...extra].filter(Boolean)));
 }
 
 function siteImage(): string {
@@ -44,14 +45,15 @@ function siteImage(): string {
 
 export function articleMetadata(a: GeneratedArticle, locale: Locale): Metadata {
   const i = pickI18n(a, locale);
+  const site = getChannelLocale(locale);
   const url = `${SITE_URL}/${locale}/article/${a.slug}`;
   const title = i.title || a.slug;
   const desc = pickMetaDescription(i);
   const image = absoluteUrl(a.imageUrl || `/images/category-${a.category || 'breaking'}.svg`);
   return {
-    title: title, // layout template adds " — channel.name"
+    title: title, // layout template adds the localized site name
     description: desc,
-    keywords: siteKeywords(Array.isArray(i.keywords) ? i.keywords : [a.category, a.sourceName]),
+    keywords: siteKeywords(locale, Array.isArray(i.keywords) ? i.keywords : [a.category, a.sourceName]),
     alternates: {
       canonical: url,
       languages: alternateLanguages(`/article/${a.slug}`)
@@ -61,11 +63,11 @@ export function articleMetadata(a: GeneratedArticle, locale: Locale): Metadata {
       url,
       title,
       description: desc,
-      siteName: channel.name,
+      siteName: site.name,
       locale,
       publishedTime: a.publishedAt,
       modifiedTime: a.updatedAt,
-      authors: [channel.name],
+      authors: [site.name],
       images: [{ url: image, width: 1200, height: 630, alt: title }]
     },
     twitter: { card: 'summary_large_image', title, description: desc, images: [image] },
@@ -85,6 +87,7 @@ export function articleMetadata(a: GeneratedArticle, locale: Locale): Metadata {
 
 export function newsArticleJsonLd(a: GeneratedArticle, locale: Locale) {
   const i = pickI18n(a, locale);
+  const site = getChannelLocale(locale);
   const url = `${SITE_URL}/${locale}/article/${a.slug}`;
   const title = i.title || a.slug;
   const desc = pickMetaDescription(i);
@@ -102,11 +105,11 @@ export function newsArticleJsonLd(a: GeneratedArticle, locale: Locale) {
     isAccessibleForFree: true,
     publisher: {
       '@type': 'NewsMediaOrganization',
-      name: channel.name,
+      name: site.name,
       url: SITE_URL,
       logo: { '@type': 'ImageObject', url: siteImage() }
     },
-    author: { '@type': 'Organization', name: channel.name },
+    author: { '@type': 'Organization', name: site.name },
     articleSection: a.category,
     keywords: pickKeywords(i, a),
     spatialCoverage: (channel as any).geo ? { '@type': 'Place', name: (channel as any).geo.country } : undefined,
@@ -127,35 +130,38 @@ export function faqJsonLd(i: any) {
   };
 }
 
-export function organizationJsonLd() {
+export function organizationJsonLd(locale: Locale = defaultLocale) {
+  const site = getChannelLocale(locale);
   return {
     '@context': 'https://schema.org',
     '@type': 'NewsMediaOrganization',
-    name: channel.name,
+    name: site.name,
     url: SITE_URL,
-    description: (channel as any).description || '',
+    description: site.description,
     logo: siteImage(),
     areaServed: (channel as any).geo ? { '@type': 'Country', name: (channel as any).geo.country } : undefined
   };
 }
 
 export function websiteJsonLd(locale: Locale) {
+  const site = getChannelLocale(locale);
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: channel.name,
+    name: site.name,
     url: `${SITE_URL}/${locale}`,
     inLanguage: locale,
-    description: (channel as any).description || (channel as any).tagline || '',
-    publisher: organizationJsonLd()
+    description: site.description || site.tagline,
+    publisher: organizationJsonLd(locale)
   };
 }
 
-export function itemListJsonLd(items: GeneratedArticle[], locale: Locale, name = channel.name) {
+export function itemListJsonLd(items: GeneratedArticle[], locale: Locale, name?: string) {
+  const site = getChannelLocale(locale);
   return {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name,
+    name: name || site.name,
     itemListElement: items.map((a, index) => {
       const i = pickI18n(a, locale);
       return {

@@ -2,6 +2,7 @@ import { db } from '@/lib/db';
 import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
 import { SITE_URL, absoluteUrl } from '@/lib/seo';
+import { getChannelLocale } from '@/lib/channel-locale';
 
 export const revalidate = 300; // 5분 캐시
 
@@ -20,6 +21,7 @@ function imageType(url: string): string {
 
 export async function GET(_req: Request, { params }: { params: { locale: Locale } }) {
   const locale = params.locale;
+  const site = getChannelLocale(locale);
   const articles = await db.listLatest(channel.id, 30);
   const items = articles.map((a) => {
     const i: any = (a.i18n as any)[locale] ?? (a.i18n as any)[defaultLocale] ?? {};
@@ -42,12 +44,12 @@ export async function GET(_req: Request, { params }: { params: { locale: Locale 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<title>${escapeXml(channel.name)}</title>
+<title>${escapeXml(site.name)}</title>
 <link>${SITE_URL}/${locale}</link>
 <atom:link href="${SITE_URL}/${locale}/rss.xml" rel="self" type="application/rss+xml" />
-<description>${escapeXml((channel as any).description || '')}</description>
+<description>${escapeXml(site.description)}</description>
 <language>${locale}</language>
-<image><url>${SITE_URL}/icon-512.svg</url><title>${escapeXml(channel.name)}</title><link>${SITE_URL}/${locale}</link></image>
+<image><url>${SITE_URL}/icon-512.svg</url><title>${escapeXml(site.name)}</title><link>${SITE_URL}/${locale}</link></image>
 <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
 ${items}
 </channel>

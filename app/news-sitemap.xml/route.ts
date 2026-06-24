@@ -2,6 +2,7 @@ import { db } from '@/lib/db';
 import { channel } from '@/channel.config';
 import { defaultLocale } from '@/i18n';
 import { SITE_URL } from '@/lib/seo';
+import { getChannelLocale } from '@/lib/channel-locale';
 
 export const revalidate = 300;
 
@@ -12,6 +13,7 @@ function escapeXml(s: string): string {
 }
 
 export async function GET() {
+  const site = getChannelLocale(defaultLocale);
   const articles = await db.listLatest(channel.id, 1000);
   const cutoff = Date.now() - 48 * 60 * 60 * 1000;
   const fresh = articles.filter((a) => new Date(a.publishedAt).getTime() >= cutoff).slice(0, 1000);
@@ -25,7 +27,7 @@ export async function GET() {
     lines.push('<url>');
     lines.push(`<loc>${escapeXml(encodeURI(`${SITE_URL}/${defaultLocale}/article/${a.slug}`))}</loc>`);
     lines.push('<news:news>');
-    lines.push(`<news:publication><news:name>${escapeXml(channel.name)}</news:name><news:language>${defaultLocale}</news:language></news:publication>`);
+    lines.push(`<news:publication><news:name>${escapeXml(site.name)}</news:name><news:language>${defaultLocale}</news:language></news:publication>`);
     lines.push(`<news:publication_date>${escapeXml(a.publishedAt)}</news:publication_date>`);
     lines.push(`<news:title>${escapeXml(i.title || a.slug)}</news:title>`);
     lines.push('</news:news>');

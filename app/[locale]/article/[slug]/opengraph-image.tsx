@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og';
 import { db } from '@/lib/db';
 import { defaultLocale, type Locale } from '@/i18n';
-import { channel } from '@/channel.config';
+import { getChannelLocale } from '@/lib/channel-locale';
 
 export const runtime = 'edge';
 export const alt = 'Article preview';
@@ -24,7 +24,7 @@ export default async function OG({ params }: { params: { locale: Locale; slug: s
   const title = i.title || params.slug.replace(/-\d+$/, '').replace(/-/g, ' ');
   const cat = a?.category || 'breaking';
   const color = COLORS[cat] || COLORS.breaking;
-  const channelName = channel.name;
+  const channelName = getChannelLocale(params.locale).name;
   const sourceName = a?.sourceName || '';
 
   return new ImageResponse(

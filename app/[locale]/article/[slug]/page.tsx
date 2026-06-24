@@ -6,6 +6,7 @@ import { ArticleCard } from '@/components/ArticleCard';
 import { AffiliateShowcase } from '@/components/AffiliateShowcase';
 import { getTranslations } from 'next-intl/server';
 import { channel } from '@/channel.config';
+import { channelEditorial, channelLabel, getChannelLocale } from '@/lib/channel-locale';
 
 export const revalidate = 60;
 export const dynamicParams = true;
@@ -42,6 +43,7 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
   if (!a) notFound();
   const i: any = a.i18n[params.locale] ?? a.i18n[defaultLocale] ?? {};
   const t = await getTranslations({ locale: params.locale });
+  const site = getChannelLocale(params.locale);
 
   const summary = i.summary || i.excerpt || '';
   const bodyHtml = i.bodyHtml || bodyToHtml(i.body || '');
@@ -62,7 +64,7 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(breadcrumbJsonLd([
-            { name: (channel as any).name, url: `/${params.locale}` },
+            { name: site.name, url: `/${params.locale}` },
             { name: a.category, url: `/${params.locale}/category/${a.category}` },
             { name: title, url: `${SITE_URL}/${params.locale}/article/${a.slug}` },
           ])),
@@ -74,17 +76,17 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
 
       <div className="np-art">
         <div className="np-crumb">
-          <a href={`/${params.locale}`}>{(channel as any).name}</a> › <a href={`/${params.locale}/category/${a.category}`}>{catLabel(cat, params.locale)}</a>
+          <a href={`/${params.locale}`}>{site.name}</a> › <a href={`/${params.locale}/category/${a.category}`}>{catLabel(cat, params.locale)}</a>
         </div>
         <span className={`kick${cat === 'breaking' ? ' red' : ''}`}>{catLabel(cat, params.locale)}</span>
         <h1>{title}</h1>
         {summary && <p className="deck">{summary}</p>}
         <div className="np-byline">
-          <span className="src">{(channel as any).name} 편집부</span>
+          <span className="src">{channelEditorial(params.locale)}</span>
           <span>·</span>
           <time dateTime={a.publishedAt}>{new Date(a.publishedAt).toLocaleDateString(params.locale)}</time>
           <span>·</span>
-          <span>{readingTime}{params.locale === 'ko' ? '분' : ' min'}</span>
+          <span>{t('article.minutes', { count: readingTime })}</span>
         </div>
       </div>
 
@@ -105,16 +107,16 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
           <AffiliateShowcase locale={params.locale} placement="article" />
         </div>
 
-        <section className="article-key-points" aria-label={params.locale === 'ko' ? '핵심 포인트' : 'Key points'}>
-          <h2>{params.locale === 'ko' ? '핵심 포인트' : 'Key points'}</h2>
+        <section className="article-key-points" aria-label={channelLabel('keyPoints', params.locale)}>
+          <h2>{channelLabel('keyPoints', params.locale)}</h2>
           <ul>
             <li>{summary || title}</li>
-            <li>{params.locale === 'ko' ? '본문과 FAQ에서 맥락을 확인한 뒤 판단하세요.' : 'Use the body and FAQ context before acting on this update.'}</li>
-            <li>{params.locale === 'ko' ? '카테고리 허브에서 유사 이슈를 함께 비교하세요.' : 'Compare with related issues inside the category hub.'}</li>
+            <li>{channelLabel('keyPointContext', params.locale)}</li>
+            <li>{channelLabel('keyPointCompare', params.locale)}</li>
           </ul>
           <div className="article-action-links">
-            <a href={`/${params.locale}/category/${a.category}`}>{params.locale === 'ko' ? '카테고리 허브' : 'Category hub'}</a>
-            <a href={`/${params.locale}`}>{params.locale === 'ko' ? '최신 기사' : 'Latest stories'}</a>
+            <a href={`/${params.locale}/category/${a.category}`}>{channelLabel('categoryHub', params.locale)}</a>
+            <a href={`/${params.locale}`}>{channelLabel('latestStories', params.locale)}</a>
             <a href="/sitemap.xml">Sitemap</a>
           </div>
         </section>
@@ -144,15 +146,13 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
           <AffiliateShowcase locale={params.locale} placement="article" />
         </div>
 
-        <section className="article-next-actions" aria-label={params.locale === 'ko' ? '다음 읽기 경로' : 'Next reading path'}>
-          <h2>{params.locale === 'ko' ? '다음 탐색 경로' : 'Continue your research path'}</h2>
+        <section className="article-next-actions" aria-label={channelLabel('nextReadingPath', params.locale)}>
+          <h2>{channelLabel('continueResearch', params.locale)}</h2>
           <p>
-            {params.locale === 'ko'
-              ? '관련 카테고리와 최신 허브를 함께 확인하면 체류 시간이 늘고, 정보 검증도 더 정확해집니다.'
-              : 'Use category and latest hubs to deepen context and compare multiple sources in one session.'}
+            {channelLabel('nextReadingBody', params.locale)}
           </p>
           <div className="article-action-links">
-            <a href={`/${params.locale}/category/${a.category}`}>{params.locale === 'ko' ? '같은 카테고리 보기' : 'Explore this category'}</a>
+            <a href={`/${params.locale}/category/${a.category}`}>{channelLabel('exploreCategory', params.locale)}</a>
             <a href={`/${params.locale}/rss.xml`}>RSS</a>
             <a href="/llms.txt">llms.txt</a>
           </div>
