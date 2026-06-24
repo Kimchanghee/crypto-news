@@ -4,6 +4,7 @@ import type { Locale } from '@/i18n';
 import { locales, defaultLocale } from '@/i18n';
 import { channel } from '@/channel.config';
 import { getChannelLocale } from '@/lib/channel-locale';
+import { articleI18n, articleLocales } from '@/lib/article-locale';
 
 const rawSiteUrl = process.env.SITE_URL || `https://${(channel as any).domain || ''}`;
 export const SITE_URL = rawSiteUrl.replace(/\/+$/, '');
@@ -12,10 +13,6 @@ export const INDEXNOW_KEY = 'e5f4a1c9d3b748e6a12c4f0b9d87e35a';
 export function absoluteUrl(path = ''): string {
   if (/^https?:\/\//i.test(path)) return path;
   return `${SITE_URL}${path.startsWith('/') ? path : `/${path}`}`;
-}
-
-function pickI18n(a: GeneratedArticle, locale: Locale): any {
-  return (a.i18n as any)[locale] ?? (a.i18n as any)[defaultLocale] ?? {};
 }
 
 function pickMetaDescription(i: any): string {
@@ -35,6 +32,13 @@ export function alternateLanguages(path: string): Record<string, string> {
   return out;
 }
 
+function articleAlternateLanguages(a: GeneratedArticle): Record<string, string> {
+  const out: Record<string, string> = {};
+  for (const l of articleLocales(a)) out[l] = `${SITE_URL}/${l}/article/${a.slug}`;
+  out['x-default'] = `${SITE_URL}/${defaultLocale}/article/${a.slug}`;
+  return out;
+}
+
 function siteKeywords(locale: Locale, extra: string[] = []): string[] {
   return Array.from(new Set([...getChannelLocale(locale).keywords, ...extra].filter(Boolean)));
 }
@@ -44,7 +48,7 @@ function siteImage(): string {
 }
 
 export function articleMetadata(a: GeneratedArticle, locale: Locale): Metadata {
-  const i = pickI18n(a, locale);
+  const i = articleI18n(a, locale);
   const site = getChannelLocale(locale);
   const url = `${SITE_URL}/${locale}/article/${a.slug}`;
   const title = i.title || a.slug;
@@ -56,7 +60,7 @@ export function articleMetadata(a: GeneratedArticle, locale: Locale): Metadata {
     keywords: siteKeywords(locale, Array.isArray(i.keywords) ? i.keywords : [a.category, a.sourceName]),
     alternates: {
       canonical: url,
-      languages: alternateLanguages(`/article/${a.slug}`)
+      languages: articleAlternateLanguages(a)
     },
     openGraph: {
       type: 'article',
@@ -86,7 +90,7 @@ export function articleMetadata(a: GeneratedArticle, locale: Locale): Metadata {
 }
 
 export function newsArticleJsonLd(a: GeneratedArticle, locale: Locale) {
-  const i = pickI18n(a, locale);
+  const i = articleI18n(a, locale);
   const site = getChannelLocale(locale);
   const url = `${SITE_URL}/${locale}/article/${a.slug}`;
   const title = i.title || a.slug;
@@ -163,7 +167,7 @@ export function itemListJsonLd(items: GeneratedArticle[], locale: Locale, name?:
     '@type': 'ItemList',
     name: name || site.name,
     itemListElement: items.map((a, index) => {
-      const i = pickI18n(a, locale);
+      const i = articleI18n(a, locale);
       return {
         '@type': 'ListItem',
         position: index + 1,

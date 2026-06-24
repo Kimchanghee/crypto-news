@@ -7,6 +7,7 @@ import { AffiliateShowcase } from '@/components/AffiliateShowcase';
 import { getTranslations } from 'next-intl/server';
 import { channel } from '@/channel.config';
 import { channelEditorial, channelLabel, getChannelLocale } from '@/lib/channel-locale';
+import { articleI18n, hasArticleLocale } from '@/lib/article-locale';
 
 export const revalidate = 60;
 export const dynamicParams = true;
@@ -14,6 +15,7 @@ export const dynamicParams = true;
 export async function generateMetadata({ params }: { params: { locale: Locale; slug: string } }) {
   const a = await db.getBySlug(params.slug);
   if (!a) return {};
+  if (!hasArticleLocale(a, params.locale)) return {};
   return articleMetadata(a, params.locale);
 }
 
@@ -41,7 +43,8 @@ function catLabel(slug: string, locale: Locale): string {
 export default async function ArticlePage({ params }: { params: { locale: Locale; slug: string } }) {
   const a = await db.getBySlug(params.slug);
   if (!a) notFound();
-  const i: any = a.i18n[params.locale] ?? a.i18n[defaultLocale] ?? {};
+  if (!hasArticleLocale(a, params.locale)) notFound();
+  const i = articleI18n(a, params.locale);
   const t = await getTranslations({ locale: params.locale });
   const site = getChannelLocale(params.locale);
 
@@ -55,6 +58,7 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
 
   const related = (await db.listLatest(channel.id, 30))
     .filter((r) => r.id !== a.id && r.category === a.category)
+    .filter((r) => hasArticleLocale(r, params.locale))
     .slice(0, 3);
 
   return (

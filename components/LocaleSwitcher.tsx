@@ -6,9 +6,24 @@ export function LocaleSwitcher({ current }: { current: Locale }) {
   const router = useRouter();
   const pathname = usePathname();
 
-  function onChange(e: React.ChangeEvent<HTMLSelectElement>) {
+  async function onChange(e: React.ChangeEvent<HTMLSelectElement>) {
     const next = e.target.value as Locale;
     const segs = pathname.split('/').filter(Boolean);
+
+    if (segs[1] === 'article' && segs[2]) {
+      try {
+        const res = await fetch(`/api/article-locales/${encodeURIComponent(segs[2])}`, { cache: 'no-store' });
+        const data = res.ok ? await res.json() : null;
+        if (!data?.locales?.includes(next)) {
+          router.push(`/${next}`);
+          return;
+        }
+      } catch {
+        router.push(`/${next}`);
+        return;
+      }
+    }
+
     if (locales.includes(segs[0] as Locale)) segs[0] = next; else segs.unshift(next);
     router.push('/' + segs.join('/'));
   }

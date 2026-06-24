@@ -1,7 +1,8 @@
 import { ImageResponse } from 'next/og';
 import { db } from '@/lib/db';
-import { defaultLocale, type Locale } from '@/i18n';
+import { type Locale } from '@/i18n';
 import { getChannelLocale } from '@/lib/channel-locale';
+import { articleI18n } from '@/lib/article-locale';
 
 export const runtime = 'edge';
 export const alt = 'Article preview';
@@ -20,7 +21,7 @@ const COLORS: Record<string, string> = {
 
 export default async function OG({ params }: { params: { locale: Locale; slug: string } }) {
   const a = await db.getBySlug(params.slug);
-  const i: any = a ? ((a.i18n as any)[params.locale] ?? (a.i18n as any)[defaultLocale] ?? {}) : {};
+  const i = a ? articleI18n(a, params.locale) : {};
   const title = i.title || params.slug.replace(/-\d+$/, '').replace(/-/g, ' ');
   const cat = a?.category || 'breaking';
   const color = COLORS[cat] || COLORS.breaking;

@@ -1,8 +1,9 @@
 import { db } from '@/lib/db';
 import { channel } from '@/channel.config';
-import { defaultLocale, type Locale } from '@/i18n';
+import { type Locale } from '@/i18n';
 import { SITE_URL, absoluteUrl } from '@/lib/seo';
 import { getChannelLocale } from '@/lib/channel-locale';
+import { articleI18n, filterArticlesForLocale } from '@/lib/article-locale';
 
 export const revalidate = 300; // 5분 캐시
 
@@ -22,9 +23,9 @@ function imageType(url: string): string {
 export async function GET(_req: Request, { params }: { params: { locale: Locale } }) {
   const locale = params.locale;
   const site = getChannelLocale(locale);
-  const articles = await db.listLatest(channel.id, 30);
+  const articles = filterArticlesForLocale(await db.listLatest(channel.id, 30), locale);
   const items = articles.map((a) => {
-    const i: any = (a.i18n as any)[locale] ?? (a.i18n as any)[defaultLocale] ?? {};
+    const i = articleI18n(a, locale);
     const title = i.title || a.slug;
     const desc = i.metaDescription || i.excerpt || i.summary || '';
     const url = encodeURI(`${SITE_URL}/${locale}/article/${a.slug}`);

@@ -7,6 +7,7 @@ import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
 import { itemListJsonLd } from '@/lib/seo';
 import { channelLabel, getChannelLocale } from '@/lib/channel-locale';
+import { filterArticlesForLocale } from '@/lib/article-locale';
 
 export const revalidate = 120;
 
@@ -39,6 +40,7 @@ export default async function CategoryPage({ params }: { params: { locale: Local
   if (items.length === 0) {
     items = await db.listLatest(channel.id, 60);
   }
+  items = filterArticlesForLocale(items, params.locale);
   const name = cat.name[params.locale] ?? cat.name[defaultLocale] ?? params.slug;
   const site = getChannelLocale(params.locale);
   return (

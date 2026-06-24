@@ -7,6 +7,7 @@ import { defaultLocale, type Locale } from '@/i18n';
 import { getTranslations } from 'next-intl/server';
 import { itemListJsonLd } from '@/lib/seo';
 import { channelLabel, getChannelLocale } from '@/lib/channel-locale';
+import { articleI18n, filterArticlesForLocale } from '@/lib/article-locale';
 
 export const revalidate = 60;
 
@@ -38,7 +39,7 @@ function marketName(id: string, locale: Locale) {
 export default async function Home({ params: { locale } }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale });
   const site = getChannelLocale(locale);
-  const articles = await db.listLatest(channel.id, 24);
+  const articles = filterArticlesForLocale(await db.listLatest(channel.id, 24), locale);
   const [hero, ...rest] = articles;
   const secondary = rest.slice(0, 4);
   const gridArticles = rest.slice(4);
@@ -60,7 +61,7 @@ export default async function Home({ params: { locale } }: { params: { locale: L
           <div className="np-sidehead">{t('nav.latest')}</div>
           <div className="np-slist">
             {secondary.map((a) => {
-              const i: any = a.i18n[locale] ?? a.i18n[defaultLocale] ?? {};
+              const i = articleI18n(a, locale);
               const cat = (a.category || '').toLowerCase();
               return (
                 <a key={a.id} href={`/${locale}/article/${a.slug}`}>
@@ -98,7 +99,7 @@ export default async function Home({ params: { locale } }: { params: { locale: L
           <div className="np-widget np-rank">
             <span className="wh">{channelLabel('mostRead', locale)}</span>
             {ranked.map((a, idx) => {
-              const i: any = a.i18n[locale] ?? a.i18n[defaultLocale] ?? {};
+              const i = articleI18n(a, locale);
               return (
                 <a key={a.id} href={`/${locale}/article/${a.slug}`}>
                   <span className="n">{idx + 1}</span><h4>{i.title}</h4>

@@ -1,7 +1,8 @@
 import { db } from '@/lib/db';
 import { channel } from '@/channel.config';
-import { locales } from '@/i18n';
+import { defaultLocale, locales, type Locale } from '@/i18n';
 import { SITE_URL, absoluteUrl } from '@/lib/seo';
+import { articleLocales } from '@/lib/article-locale';
 
 function url(locale: string, path = '') {
   return encodeURI(`${SITE_URL}/${locale}${path}`);
@@ -16,6 +17,11 @@ function escapeXml(s: string): string {
 function alternates(lines: string[], path = '') {
   for (const lo of locales) lines.push(`<xhtml:link rel="alternate" hreflang="${lo}" href="${escapeXml(url(lo, path))}"/>`);
   lines.push(`<xhtml:link rel="alternate" hreflang="x-default" href="${escapeXml(url('ko', path))}"/>`);
+}
+
+function articleAlternates(lines: string[], articleLocales: Locale[], path = '') {
+  for (const lo of articleLocales) lines.push(`<xhtml:link rel="alternate" hreflang="${lo}" href="${escapeXml(url(lo, path))}"/>`);
+  lines.push(`<xhtml:link rel="alternate" hreflang="x-default" href="${escapeXml(url(defaultLocale, path))}"/>`);
 }
 
 export async function GET() {
@@ -51,13 +57,14 @@ export async function GET() {
 
   // Articles
   for (const a of arts) {
-    for (const l of locales) {
+    const availableLocales = articleLocales(a);
+    for (const l of availableLocales) {
       lines.push('<url>');
       lines.push(`<loc>${escapeXml(url(l, `/article/${a.slug}`))}</loc>`);
       lines.push(`<lastmod>${a.updatedAt}</lastmod>`);
       lines.push('<changefreq>hourly</changefreq>');
       lines.push('<priority>0.8</priority>');
-      alternates(lines, `/article/${a.slug}`);
+      articleAlternates(lines, availableLocales, `/article/${a.slug}`);
       const image = absoluteUrl(a.imageUrl || `/images/category-${a.category || 'breaking'}.svg`);
       lines.push('<image:image>');
       lines.push(`<image:loc>${escapeXml(image)}</image:loc>`);
