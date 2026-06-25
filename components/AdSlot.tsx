@@ -14,15 +14,15 @@ function normalizeAdsterraKey(value?: string) {
   return key || '';
 }
 
-function pickAdsterraKey(explicit?: string) {
+function pickAdsterraKey(explicit?: string, width = 300) {
+  const sizeKey = width >= 728
+    ? process.env.NEXT_PUBLIC_ADSTERRA_BANNER_728_KEY
+    : process.env.NEXT_PUBLIC_ADSTERRA_BANNER_300_KEY;
   const candidates = [
     explicit,
-    DEFAULT_ADSTERRA_KEY,
-    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_300_KEY,
+    sizeKey,
     process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY,
-    process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_KEY,
-    process.env.NEXT_PUBLIC_ADSTERRA_POPUNDER_KEY,
-    process.env.NEXT_PUBLIC_ADSTERRA_SMARTLINK_KEY
+    DEFAULT_ADSTERRA_KEY
   ];
 
   return candidates.map(normalizeAdsterraKey).find(Boolean) || '';
@@ -44,11 +44,11 @@ function buildFrameSrc(key: string, width: number, height: number) {
 
 export function AdSlot({ network, zoneId, size, className }: Props) {
   if (network !== 'adsterra') return null;
-  const key = pickAdsterraKey(zoneId);
-  if (!key) return null;
 
   const width = size?.w ?? 300;
   const height = size?.h ?? 250;
+  const key = pickAdsterraKey(zoneId, width);
+  if (!key) return null;
 
   return (
     <iframe
