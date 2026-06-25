@@ -193,14 +193,14 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
   const hasAdsterra = true;
 
   return (
-    <section className={`affiliate-module ${compact ? 'affiliate-module-compact' : ''}`} aria-label={copy.title}>
+    <section className={`affiliate-module affiliate-module-placement-${placement} ${compact ? 'affiliate-module-compact' : ''}`} aria-label={copy.title}>
       <div className="affiliate-module-header">
         <p className="affiliate-eyebrow">{copy.eyebrow}</p>
         <h2 className="affiliate-title">{copy.title}</h2>
         <p className="affiliate-description">{copy.description}</p>
       </div>
 
-      <div style={{ display: 'flex', justifyContent: 'center', margin: '12px 0' }}>
+      <div className="affiliate-media-frame">
         <CoupangBanner subId={channel.id || ''} />
       </div>
 
@@ -225,13 +225,8 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
 
 
       {placement === 'article' && hasAdsterra && (
-        <div
-          className="safe-inline-adsterra-news"
-          style={{ marginTop: 20, padding: 12, border: '1px solid var(--soft)', borderRadius: 8, background: '#fff' }}
-        >
-          <p style={{ margin: '0 0 8px', fontSize: 11, fontWeight: 700, textTransform: 'uppercase', color: '#7b7a76' }}>
-            {channelLabel('advertisement', locale)}
-          </p>
+        <div className="safe-inline-adsterra-news">
+          <p>{channelLabel('advertisement', locale)}</p>
           <AdSlot network="adsterra" format="banner" size={{ w: 300, h: 250 }} className="safe-inline-adsterra-frame" />
         </div>
       )}

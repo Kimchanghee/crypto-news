@@ -39,6 +39,14 @@ function catLabel(slug: string, locale: Locale): string {
   const c = ((channel as any).categories || []).find((x: any) => x.slug === slug);
   return c?.name?.[locale] ?? c?.name?.[defaultLocale] ?? slug;
 }
+function uniqueArticles<T extends { id: string }>(items: T[]): T[] {
+  const seen = new Set<string>();
+  return items.filter((item) => {
+    if (seen.has(item.id)) return false;
+    seen.add(item.id);
+    return true;
+  });
+}
 
 export default async function ArticlePage({ params }: { params: { locale: Locale; slug: string } }) {
   const a = await db.getBySlug(params.slug);
@@ -56,10 +64,16 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
   const cat = (a.category || 'breaking').toLowerCase();
   const heroImg = a.imageUrl || `/images/category-${cat}.svg`;
 
-  const related = (await db.listLatest(channel.id, 30))
+  const latest = (await db.listLatest(channel.id, 40))
     .filter((r) => r.id !== a.id && r.category === a.category)
-    .filter((r) => hasArticleLocale(r, params.locale))
-    .slice(0, 3);
+    .filter((r) => hasArticleLocale(r, params.locale));
+  const otherLatest = (await db.listLatest(channel.id, 40))
+    .filter((r) => r.id !== a.id)
+    .filter((r) => hasArticleLocale(r, params.locale));
+  const sidebarNews = uniqueArticles([...latest, ...otherLatest]).slice(0, 6);
+  const sidebarIds = new Set(sidebarNews.map((item) => item.id));
+  const bottomNews = otherLatest.filter((item) => !sidebarIds.has(item.id)).slice(0, 8);
+  const bottomNewsItems = bottomNews.length > 0 ? bottomNews : otherLatest.slice(0, 8);
 
   return (
     <article>
@@ -94,74 +108,93 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
         </div>
       </div>
 
-      <div className="np-art" style={{ margin: '2px 0 0' }}>
-        <AffiliateShowcase locale={params.locale} placement="article" />
-      </div>
-
-      <div className="np-art">
-        <figure className="np-hero" style={{ margin: '22px auto 6px' }}>
-          <div className="ph"><img src={heroImg} alt={title} decoding="async" fetchPriority="high" /></div>
-        </figure>
-      </div>
-
-      <div className="np-art">
-        <div className="np-body" dangerouslySetInnerHTML={{ __html: bodyHtml }} />
-
-        <div style={{ marginTop: 26 }}>
-          <AffiliateShowcase locale={params.locale} placement="article" />
-        </div>
-
-        <section className="article-key-points" aria-label={channelLabel('keyPoints', params.locale)}>
-          <h2>{channelLabel('keyPoints', params.locale)}</h2>
-          <ul>
-            <li>{summary || title}</li>
-            <li>{channelLabel('keyPointContext', params.locale)}</li>
-            <li>{channelLabel('keyPointCompare', params.locale)}</li>
-          </ul>
-          <div className="article-action-links">
-            <a href={`/${params.locale}/category/${a.category}`}>{channelLabel('categoryHub', params.locale)}</a>
-            <a href={`/${params.locale}`}>{channelLabel('latestStories', params.locale)}</a>
-            <a href="/sitemap.xml">Sitemap</a>
+      <div className="article-shell">
+        <main className="article-main">
+          <div className="np-art">
+            <figure className="np-hero" style={{ margin: '22px auto 6px' }}>
+              <div className="ph"><img src={heroImg} alt={title} decoding="async" fetchPriority="high" /></div>
+            </figure>
           </div>
-        </section>
 
-        {faqs.length > 0 && (
-          <section style={{ marginTop: 28 }}>
-            <h2 style={{ fontSize: 22, marginBottom: 10 }}>{t('article.faq')}</h2>
-            {faqs.map((f: any, idx: number) => (
-              <details key={idx} style={{ borderTop: '1px solid var(--soft)', padding: '12px 0' }}>
-                <summary style={{ fontFamily: 'var(--sans)', fontWeight: 600, cursor: 'pointer' }}>{f.q}</summary>
-                <p style={{ marginTop: 8 }}>{f.a}</p>
-              </details>
-            ))}
-          </section>
-        )}
+          <div className="np-art">
+            <div className="np-body" dangerouslySetInnerHTML={{ __html: bodyHtml }} />
 
-        {related.length > 0 && (
-          <section style={{ marginTop: 34 }}>
-            <div className="seclabel"><h2>{t('article.related')}</h2><span className="ln" /></div>
-            <div className="np-grid">
-              {related.map((r) => <ArticleCard key={r.id} article={r} locale={params.locale} />)}
+            <div className="article-ad-break">
+              <AffiliateShowcase locale={params.locale} placement="article" />
             </div>
-          </section>
+
+            <section className="article-key-points" aria-label={channelLabel('keyPoints', params.locale)}>
+              <h2>{channelLabel('keyPoints', params.locale)}</h2>
+              <ul>
+                <li>{summary || title}</li>
+                <li>{channelLabel('keyPointContext', params.locale)}</li>
+                <li>{channelLabel('keyPointCompare', params.locale)}</li>
+              </ul>
+              <div className="article-action-links">
+                <a href={`/${params.locale}/category/${a.category}`}>{channelLabel('categoryHub', params.locale)}</a>
+                <a href={`/${params.locale}`}>{channelLabel('latestStories', params.locale)}</a>
+                <a href="/sitemap.xml">Sitemap</a>
+              </div>
+            </section>
+
+            {faqs.length > 0 && (
+              <section style={{ marginTop: 28 }}>
+                <h2 style={{ fontSize: 22, marginBottom: 10 }}>{t('article.faq')}</h2>
+                {faqs.map((f: any, idx: number) => (
+                  <details key={idx} style={{ borderTop: '1px solid var(--soft)', padding: '12px 0' }}>
+                    <summary style={{ fontFamily: 'var(--sans)', fontWeight: 600, cursor: 'pointer' }}>{f.q}</summary>
+                    <p style={{ marginTop: 8 }}>{f.a}</p>
+                  </details>
+                ))}
+              </section>
+            )}
+
+            <section className="article-next-actions" aria-label={channelLabel('nextReadingPath', params.locale)}>
+              <h2>{channelLabel('continueResearch', params.locale)}</h2>
+              <p>
+                {channelLabel('nextReadingBody', params.locale)}
+              </p>
+              <div className="article-action-links">
+                <a href={`/${params.locale}/category/${a.category}`}>{channelLabel('exploreCategory', params.locale)}</a>
+                <a href={`/${params.locale}/rss.xml`}>RSS</a>
+                <a href="/llms.txt">llms.txt</a>
+              </div>
+            </section>
+          </div>
+        </main>
+
+        {sidebarNews.length > 0 && (
+          <aside className="article-rail" aria-label={t('article.related')}>
+            <section className="article-rail-card">
+              <div className="article-rail-title">{t('article.related')}</div>
+              <div className="article-rail-list">
+                {sidebarNews.map((item, index) => {
+                  const itemI18n = articleI18n(item, params.locale);
+                  const itemCat = (item.category || 'breaking').toLowerCase();
+                  return (
+                    <a key={item.id} href={`/${params.locale}/article/${item.slug}`} className="article-rail-link">
+                      <span className="article-rail-index">{index + 1}</span>
+                      <span>
+                        <span className={`kick${itemCat === 'breaking' ? ' red' : ''}`}>{catLabel(itemCat, params.locale)}</span>
+                        <strong>{itemI18n.title}</strong>
+                      </span>
+                    </a>
+                  );
+                })}
+              </div>
+            </section>
+          </aside>
         )}
+      </div>
 
-        <div style={{ marginTop: 28 }}>
-          <AffiliateShowcase locale={params.locale} placement="article" />
-        </div>
-
-        <section className="article-next-actions" aria-label={channelLabel('nextReadingPath', params.locale)}>
-          <h2>{channelLabel('continueResearch', params.locale)}</h2>
-          <p>
-            {channelLabel('nextReadingBody', params.locale)}
-          </p>
-          <div className="article-action-links">
-            <a href={`/${params.locale}/category/${a.category}`}>{channelLabel('exploreCategory', params.locale)}</a>
-            <a href={`/${params.locale}/rss.xml`}>RSS</a>
-            <a href="/llms.txt">llms.txt</a>
+      {bottomNewsItems.length > 0 && (
+        <section className="article-bottom-news">
+          <div className="seclabel"><h2>{channelLabel('latestStories', params.locale)}</h2><span className="ln" /></div>
+          <div className="np-grid article-bottom-grid">
+            {bottomNewsItems.map((r) => <ArticleCard key={r.id} article={r} locale={params.locale} />)}
           </div>
         </section>
-      </div>
+      )}
     </article>
   );
 }
