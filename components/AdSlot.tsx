@@ -32,14 +32,12 @@ function pickAdsterraHost() {
   return process.env.NEXT_PUBLIC_ADSTERRA_SCRIPT_HOST || DEFAULT_ADSTERRA_HOST;
 }
 
-function buildFrameSrc(key: string, width: number, height: number) {
-  const params = new URLSearchParams({
-    key,
-    host: pickAdsterraHost(),
-    w: String(width),
-    h: String(height)
-  });
-  return `/ads/adsterra?${params.toString()}`;
+function buildInvokeSrc(key: string) {
+  return `https://${pickAdsterraHost()}/${key}/invoke.js`;
+}
+
+function buildOptionsScript(key: string, width: number, height: number) {
+  return `atOptions = {'key':'${key}','format':'iframe','height':${height},'width':${width},'params':{}};`;
 }
 
 export function AdSlot({ network, zoneId, size, className }: Props) {
@@ -51,17 +49,17 @@ export function AdSlot({ network, zoneId, size, className }: Props) {
   if (!key) return null;
 
   return (
-    <iframe
-      title={`adsterra-banner-${key.slice(0, 8)}`}
+    <div
       data-adsterra-slot="true"
-      width={width}
-      height={height}
-      loading="eager"
-      scrolling="no"
-      src={buildFrameSrc(key, width, height)}
-      style={{ border: 0, display: 'block', margin: '0 auto', maxWidth: '100%' }}
+      style={{ display: 'block', margin: '0 auto', maxWidth: '100%', overflow: 'hidden', width, minHeight: height }}
       className={className}
-      referrerPolicy="no-referrer-when-downgrade"
-    />
+      suppressHydrationWarning
+    >
+      <script
+        type="text/javascript"
+        dangerouslySetInnerHTML={{ __html: buildOptionsScript(key, width, height) }}
+      />
+      <script src={buildInvokeSrc(key)} type="text/javascript" />
+    </div>
   );
 }
