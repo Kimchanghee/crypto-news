@@ -11,6 +11,7 @@ import { SITE_URL, alternateLanguages, organizationJsonLd, websiteJsonLd } from 
 import { getChannelLocale } from '@/lib/channel-locale';
 
 export const dynamic = 'force-dynamic';
+const GA_MEASUREMENT_ID = 'G-MYM8Z3KX52';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'site' });
@@ -75,23 +76,33 @@ export default async function LocaleLayout({
   const isRTL = rtlLocales.includes(locale);
 
   return (
-    <div lang={locale} dir={isRTL ? 'rtl' : 'ltr'}>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd(locale)) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd(locale)) }}
-      />
-      <NextIntlClientProvider messages={messages}>
-        <Header locale={locale} />
-        <main style={{ maxWidth: 1200, margin: '0 auto', padding: '24px' }}>{children}</main>
-        <Footer locale={locale} />
-        <MGIDLoader />
-        <AdsterraPopunder />
-        <AdsterraSocialBar />
-      </NextIntlClientProvider>
-    </div>
+    <html lang={locale} dir={isRTL ? 'rtl' : 'ltr'}>
+      <head>
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`} />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_MEASUREMENT_ID}',{page_path:window.location.pathname});`,
+          }}
+        />
+      </head>
+      <body>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd(locale)) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd(locale)) }}
+        />
+        <NextIntlClientProvider messages={messages}>
+          <Header locale={locale} />
+          <main style={{ maxWidth: 1200, margin: '0 auto', padding: '24px' }}>{children}</main>
+          <Footer locale={locale} />
+          <MGIDLoader />
+          <AdsterraPopunder />
+          <AdsterraSocialBar />
+        </NextIntlClientProvider>
+      </body>
+    </html>
   );
 }
