@@ -20,10 +20,40 @@ const GENERATE_ALL_LOCALES = process.env.GENERATE_ALL_LOCALES === '1';
 const PROMPT_LOCALES = GENERATE_ALL_LOCALES ? LOCALES : ['ko'];
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36';
 const TARGET_BODY_MIN = Number(process.env.TARGET_BODY_MIN || '1000');
-const TARGET_BODY_MAX = Number(process.env.TARGET_BODY_MAX || '1200');
+const TARGET_BODY_MAX = Number(process.env.TARGET_BODY_MAX || '4000');
 const MAX_KO_REPAIR_RETRIES = Number(process.env.MAX_KO_REPAIR_RETRIES || '2');
+const MAX_LOCALE_REPAIR_RETRIES = Number(process.env.MAX_LOCALE_REPAIR_RETRIES || '2');
 const CODEX_TIMEOUT_MS = Number(process.env.CODEX_TIMEOUT_MS || '900000');
 const CODEX_MODEL = 'gpt-5.5';
+const LOCALE_LABELS = {
+  ko: '한국어',
+  en: 'English',
+  ja: '日本語',
+  zh: '中文',
+  es: 'Español',
+  pt: 'Português',
+  de: 'Deutsch',
+  fr: 'Français',
+  ar: 'العربية',
+  hi: 'हिन्दी',
+  id: 'Bahasa Indonesia',
+};
+const SOURCE_LEAK_PATTERNS = [
+  /(?:출처|source|sources|sumber|quelle|fuente|fonte|来源|出典|مصدر|स्रोत)\s*[:：]/iu,
+  /\baccording to\b/iu,
+  /\bthe original report\b/iu,
+  /\bthe report said\b/iu,
+  /\breports said\b/iu,
+  /\bsegún\b/iu,
+  /\bsegundo\b/iu,
+  /\bselon\b/iu,
+  /\blaut\b/iu,
+  /\bmenurut\b/iu,
+  /원문 제목/u,
+  /원문에 따르면/u,
+  /보도에 따르면/u,
+  /据[^。！？\n]{0,40}(?:报道|消息)/u,
+];
 
 async function loadChannel() {
   const txt = await fs.readFile(path.join(ROOT, 'channel.config.ts'), 'utf8');
@@ -300,7 +330,7 @@ function buildTranslationPrompt(channel, item) {
     ? '9. 11개 언어 모두 동일 사실, 자연스러운 현지어 어순'
     : '9. ko 1개 언어만 출력';
   const translationRule = GENERATE_ALL_LOCALES
-    ? '10. 한국어가 원천이며 다른 언어는 한국어 본문을 충실 번역'
+    ? `10. 한국어가 원천이며 다른 언어도 한국어 본문과 같은 정보 밀도로 충실 번역. 모든 언어 body는 공백 제외 ${TARGET_BODY_MIN}-${TARGET_BODY_MAX}자`
     : '10. 한국어 문장 가독성·정확성 최우선';
   const modeLine = GENERATE_ALL_LOCALES
     ? `당신은 ${channel.name}의 베테랑 기자입니다. 아래 사실을 바탕으로, 당신이 직접 취재해 쓴 것처럼 완전히 독립적인 뉴스 기사 1개를 SEO/AEO/GEO 극강으로 작성하세요. (11개 언어)`
@@ -313,13 +343,13 @@ function buildTranslationPrompt(channel, item) {
     `세부 정보: ${item.description.slice(0, 600)}`,
     ``,
     `=== 작성 규칙 ===`,
-    `[절대 금지] 원문·출처·~에 따르면·~가 전했다·매체명/기자명 등 출처를 가리키는 표현 일절 금지. 당신이 1차 취재한 기사처럼 단정적·자기완결적으로 서술합니다.`,
+    `[절대 금지] 원문·출처·~에 따르면·매체명/기자명·according to·reported by·Source:·출처:·来源:·出典: 등 출처를 가리키는 표현 일절 금지. 당신이 1차 취재한 기사처럼 단정적·자기완결적으로 서술합니다.`,
     `1. title: 50-80자, 핵심 키워드 앞쪽 배치, 과장·낚시 금지`,
     `2. excerpt: 150-210자. 누가/무엇을/언제/왜를 한 줄 요약`,
     `3. metaDescription: 140-180자. 검색 스니펫 최적화`,
     `4. summary: 220-320자. 핵심 포인트 3~4문장`,
-    `5. body(한국어): 공백 제외 1000자 이상(최대 ${TARGET_BODY_MAX}자). 구성: 핵심 결론 리드 → 배경/맥락 → 구체 수치·데이터 → 시장·독자 영향 → 전망. 소제목(##) 2~3개로 스캔성 강화. 한국 독자 맥락(원화 환산·국내 규제·국내 시장 영향)을 자연스럽게 반영(GEO).`,
-    `   나머지 언어는 동일 사실을 자연 번역하되 450~900자 권장`,
+    `5. body(모든 언어): 공백 제외 ${TARGET_BODY_MIN}자 이상(최대 ${TARGET_BODY_MAX}자). 구성: 핵심 결론 리드 → 배경/맥락 → 구체 수치·데이터 → 시장·독자 영향 → 전망. 소제목(##) 2~3개로 스캔성 강화. 한국 독자 맥락(원화 환산·국내 규제·국내 시장 영향)을 자연스럽게 반영(GEO).`,
+    `   다른 언어도 문장 수를 줄이지 말고 동일 사실, 수치, 맥락, 영향, 전망을 빠짐없이 유지`,
     `6. keywords: 핵심 키워드 6~10개 배열(string[])`,
     `7. faq: 질문/답변 3개. 사실 기반, 과장 금지`,
     `8. 신문 기사체·단정적 서술. 사실은 정확히, 불확실한 건 전망된다 수준으로만. AEO/SEO/GEO 극대화: 핵심 키워드 자연 배치, 질의응답형 단락, 한국 시장 맥락 포함.`,
@@ -345,6 +375,76 @@ function charLen(v) {
 function bodyInRange(v) {
   const n = charLen(v);
   return n >= TARGET_BODY_MIN && n <= TARGET_BODY_MAX;
+}
+
+function escapeRegExp(v = '') {
+  return String(v).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function stripSourceBoilerplate(text, sourceName = '') {
+  let out = toText(text)
+    .replace(/\r\n/g, '\n')
+    .replace(/\u00a0/g, ' ')
+    .replace(/[ \t]+\n/g, '\n');
+
+  const cleanupPatterns = [
+    /\n?\s*(?:출처|source|sources|sumber|quelle|fuente|fonte|来源|出典|مصدر|स्रोत)\s*[:：]\s*[^\n]+/giu,
+    /(?:^|[\s(])according to\s+[^,.\n]{1,120},\s*/giu,
+    /(?:^|[\s(])the original report said[^.?!\n]*[.?!]?\s*/giu,
+    /(?:^|[\s(])the report said[^.?!\n]*[.?!]?\s*/giu,
+    /(?:^|[\s(])reports said[^.?!\n]*[.?!]?\s*/giu,
+    /(?:^|[\s(])según\s+[^,.\n]{1,120},\s*/giu,
+    /(?:^|[\s(])segundo\s+[^,.\n]{1,120},\s*/giu,
+    /(?:^|[\s(])selon\s+[^,.\n]{1,120},\s*/giu,
+    /(?:^|[\s(])laut\s+[^,.\n]{1,120},\s*/giu,
+    /(?:^|[\s(])menurut\s+[^,.\n]{1,120},\s*/giu,
+    /原文标题[^。！？\n]*[。！？]?\s*/gu,
+    /원문 제목은[^.。！？\n]*[.。！？]?\s*/gu,
+    /원문에 따르면[^.。！？\n]*[.。！？]?\s*/gu,
+    /[A-Za-z0-9._-]+\s*보도에 따르면\s*/gu,
+    /据[^。！？\n]{1,80}(?:报道|消息)[，,]?\s*/gu,
+  ];
+
+  for (const re of cleanupPatterns) out = out.replace(re, '');
+
+  if (sourceName) {
+    const escaped = escapeRegExp(sourceName);
+    const namedPatterns = [
+      new RegExp(`(?:출처|source|sources|sumber|quelle|fuente|fonte|来源|出典|مصدر|स्रोत)\\s*[:：]\\s*${escaped}`, 'giu'),
+      new RegExp(`\\baccording to\\s+${escaped}\\b[, ]*`, 'giu'),
+      new RegExp(`\\b(?:según|segundo|selon|laut|menurut)\\s+${escaped}\\b[, ]*`, 'giu'),
+      new RegExp(`${escaped}\\s*보도에 따르면\\s*`, 'gu'),
+      new RegExp(`据${escaped}(?:报道|消息)?[，,]?`, 'gu'),
+    ];
+    for (const re of namedPatterns) out = out.replace(re, '');
+  }
+
+  return out
+    .replace(/[ \t]{2,}/g, ' ')
+    .replace(/\n{3,}/g, '\n\n')
+    .replace(/\s+([,.;:!?])/g, '$1')
+    .trim();
+}
+
+function hasSourceLeak(text, sourceName = '') {
+  const value = toText(text);
+  if (!value) return false;
+  if (sourceName && value.toLowerCase().includes(String(sourceName).toLowerCase())) return true;
+  return SOURCE_LEAK_PATTERNS.some((re) => re.test(value));
+}
+
+function payloadNeedsRepair(payload, sourceName = '') {
+  if (!payload?.body) return true;
+  if (!bodyInRange(payload.body)) return true;
+  for (const key of ['title', 'excerpt', 'metaDescription', 'summary', 'body']) {
+    if (hasSourceLeak(payload?.[key], sourceName)) return true;
+  }
+  if (Array.isArray(payload?.faq)) {
+    for (const entry of payload.faq) {
+      if (hasSourceLeak(entry?.q, sourceName) || hasSourceLeak(entry?.a, sourceName)) return true;
+    }
+  }
+  return false;
 }
 
 function cleanKeywords(raw, fallback = []) {
@@ -373,12 +473,12 @@ function cleanKeywords(raw, fallback = []) {
   return dedup.slice(0, 10);
 }
 
-function cleanFaq(raw, sourceName, title) {
+function cleanFaq(locale, raw, title, sourceName = '') {
   const arr = Array.isArray(raw) ? raw : [];
   const out = [];
   for (const it of arr) {
-    const q = toText(it?.q).slice(0, 120);
-    const a = toText(it?.a).slice(0, 280);
+    const q = stripSourceBoilerplate(toText(it?.q), sourceName).slice(0, 120);
+    const a = stripSourceBoilerplate(toText(it?.a), sourceName).slice(0, 280);
     if (!q || !a) continue;
     out.push({ q, a });
     if (out.length >= 3) break;
@@ -386,24 +486,27 @@ function cleanFaq(raw, sourceName, title) {
   if (out.length >= 2) return out;
   if (out.length === 0) {
     out.push({
-      q: `${title.slice(0, 50)} 핵심 포인트는 무엇인가요?`,
-      a: `핵심 배경, 주요 수치, 시장에 미치는 영향을 본문에서 순서대로 정리했습니다.`
+      q: locale === 'ko' ? `${title.slice(0, 50)} 핵심 포인트는 무엇인가요?` : `What is the key takeaway from ${title.slice(0, 48)}?`,
+      a: locale === 'ko'
+        ? '핵심 배경, 주요 수치, 시장에 미치는 영향을 본문에서 순서대로 정리했습니다.'
+        : 'The article walks through the core backdrop, the main figures and the likely market impact in order.'
     });
   }
   out.push({
-    q: '이 기사에서 가장 먼저 확인할 수치는 무엇인가요?',
-    a: '본문에 제시된 발표 시점, 당사자 발언, 가격·지표 변화를 우선 확인하는 것이 좋습니다.'
+    q: locale === 'ko' ? '이 기사에서 가장 먼저 확인할 수치는 무엇인가요?' : 'Which figure should readers verify first?',
+    a: locale === 'ko'
+      ? '본문에 제시된 발표 시점, 당사자 발언, 가격·지표 변화를 우선 확인하는 것이 좋습니다.'
+      : 'Start with the published timing, the main figure and the immediate price or indicator move cited in the article.'
   });
   return out.slice(0, 3);
 }
 
 function normalizeLocalePayload(locale, payload, item) {
-  const title = toText(payload?.title || item.title).slice(0, 180);
-  const excerpt = toText(payload?.excerpt || payload?.summary).slice(0, 240);
-  const metaDescription = toText(payload?.metaDescription || excerpt).slice(0, 200);
-  const summary = toText(payload?.summary || excerpt).slice(0, 360);
-  const body = toText(payload?.body)
-    .replace(/\r\n/g, '\n')
+  const title = stripSourceBoilerplate(toText(payload?.title || item.title), item.sourceName).slice(0, 180);
+  const excerpt = stripSourceBoilerplate(toText(payload?.excerpt || payload?.summary), item.sourceName).slice(0, 240);
+  const metaDescription = stripSourceBoilerplate(toText(payload?.metaDescription || excerpt), item.sourceName).slice(0, 200);
+  const summary = stripSourceBoilerplate(toText(payload?.summary || excerpt), item.sourceName).slice(0, 360);
+  const body = stripSourceBoilerplate(toText(payload?.body), item.sourceName)
     .replace(/\n{3,}/g, '\n\n')
     .trim();
   return {
@@ -413,7 +516,7 @@ function normalizeLocalePayload(locale, payload, item) {
     summary,
     body,
     keywords: cleanKeywords(payload?.keywords, [item.category, title.slice(0, 20)]),
-    faq: cleanFaq(payload?.faq, '', title),
+    faq: cleanFaq(locale, payload?.faq, title, item.sourceName),
   };
 }
 
@@ -445,6 +548,52 @@ function buildKoRepairPrompt(channel, item, ko) {
   ].join('\n');
 }
 
+function buildLocaleRepairPrompt(channel, item, locale, ko, current) {
+  const localeLabel = LOCALE_LABELS[locale] || locale;
+  return [
+    `당신은 ${channel.name} ${localeLabel} 뉴스 에디터입니다.`,
+    `아래 한국어 기사 초안을 바탕으로 ${localeLabel} 기사를 다시 작성하세요.`,
+    ``,
+    `[절대 금지] 출처·원문·매체명·기자명·according to·reported by·Source:·출처:·来源:·出典: 등 출처를 가리키는 표현을 넣지 마세요.`,
+    `[필수] 사실은 한국어 초안을 기준으로 유지하고, ${localeLabel} 독자가 읽어도 자연스럽고 완결된 기사로 만드세요.`,
+    ``,
+    `=== 한국어 사실 기준 ===`,
+    `title: ${toText(ko?.title || item.title).slice(0, 250)}`,
+    `excerpt: ${toText(ko?.excerpt).slice(0, 300)}`,
+    `body: ${toText(ko?.body).slice(0, 3200)}`,
+    ``,
+    `=== 현재 ${localeLabel} 초안 ===`,
+    `title: ${toText(current?.title).slice(0, 250)}`,
+    `excerpt: ${toText(current?.excerpt).slice(0, 300)}`,
+    `body: ${toText(current?.body).slice(0, 3200)}`,
+    ``,
+    `=== 수정 규칙 ===`,
+    `1) 사실 추가/삭제 금지, 추측 금지`,
+    `2) body는 공백 제외 ${TARGET_BODY_MIN}자 이상(최대 ${TARGET_BODY_MAX}자)`,
+    `3) 제목/요약/FAQ도 ${localeLabel}로 자연스럽게 작성`,
+    `4) 본문은 리드 → 배경/맥락 → 구체 수치·데이터 → 영향 → 전망 순서 유지`,
+    `5) keywords 6~10개, faq 3개`,
+    ``,
+    `=== 출력 ===`,
+    `JSON 한 개만 출력`,
+    `{"title":"...","excerpt":"...","metaDescription":"...","summary":"...","body":"...","keywords":["..."],"faq":[{"q":"...","a":"..."}]}`
+  ].join('\n');
+}
+
+async function repairLocalePayload(channel, item, locale, current, koBase) {
+  if (locale === 'ko') {
+    const repairPrompt = buildKoRepairPrompt(channel, item, current);
+    const repairOut = await runCodex(repairPrompt, { sandbox: 'read-only', timeoutMs: Math.min(CODEX_TIMEOUT_MS, 300_000) });
+    const repaired = parseJson(repairOut);
+    return normalizeLocalePayload('ko', repaired?.ko || repaired || {}, item);
+  }
+
+  const repairPrompt = buildLocaleRepairPrompt(channel, item, locale, koBase, current);
+  const repairOut = await runCodex(repairPrompt, { sandbox: 'read-only', timeoutMs: Math.min(CODEX_TIMEOUT_MS, 300_000) });
+  const repaired = parseJson(repairOut);
+  return normalizeLocalePayload(locale, repaired?.[locale] || repaired || {}, item);
+}
+
 async function generateOne(channel, item) {
   const slug = makeSlug(item.title);
   const id = sha1(canonicalUrl(item.link)).slice(0, 12);
@@ -467,23 +616,31 @@ async function generateOne(channel, item) {
   }
 
   let retries = 0;
-  while (!bodyInRange(i18n.ko.body) && retries < MAX_KO_REPAIR_RETRIES) {
+  while (payloadNeedsRepair(i18n.ko, item.sourceName) && retries < MAX_KO_REPAIR_RETRIES) {
     retries += 1;
-    console.warn(`[repair] ko body length ${charLen(i18n.ko.body)} out of range. retry=${retries}`);
-    const repairPrompt = buildKoRepairPrompt(channel, item, i18n.ko);
-    const repairOut = await runCodex(repairPrompt, { sandbox: 'read-only', timeoutMs: Math.min(CODEX_TIMEOUT_MS, 300_000) });
-    const repaired = parseJson(repairOut);
-    i18n.ko = normalizeLocalePayload('ko', repaired?.ko || repaired || {}, item);
+    console.warn(`[repair] ko failed validation. len=${charLen(i18n.ko.body)} retry=${retries}`);
+    i18n.ko = await repairLocalePayload(channel, item, 'ko', i18n.ko, i18n.ko);
   }
 
-  if (!bodyInRange(i18n.ko.body)) {
-    throw new Error(`ko body length out of range: ${charLen(i18n.ko.body)} (target ${TARGET_BODY_MIN}-${TARGET_BODY_MAX})`);
+  if (payloadNeedsRepair(i18n.ko, item.sourceName)) {
+    throw new Error(`ko locale failed validation after repair: len=${charLen(i18n.ko.body)} target=${TARGET_BODY_MIN}-${TARGET_BODY_MAX}`);
   }
 
   if (GENERATE_ALL_LOCALES) {
     for (const lc of LOCALES) {
       if (lc === 'ko') continue;
       i18n[lc] = normalizeLocalePayload(lc, data[lc] || {}, item);
+
+      let localeRetries = 0;
+      while (payloadNeedsRepair(i18n[lc], item.sourceName) && localeRetries < MAX_LOCALE_REPAIR_RETRIES) {
+        localeRetries += 1;
+        console.warn(`[repair] ${lc} failed validation. len=${charLen(i18n[lc]?.body)} retry=${localeRetries}`);
+        i18n[lc] = await repairLocalePayload(channel, item, lc, i18n[lc], i18n.ko);
+      }
+
+      if (payloadNeedsRepair(i18n[lc], item.sourceName)) {
+        throw new Error(`${lc} locale failed validation after repair: len=${charLen(i18n[lc]?.body)} target=${TARGET_BODY_MIN}-${TARGET_BODY_MAX}`);
+      }
     }
   }
 

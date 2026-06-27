@@ -136,18 +136,20 @@ async function assertArticleQuality(article) {
   const item = article?.item ?? {};
   const ko = item?.i18n?.ko ?? {};
   const body = typeof ko.body === 'string' ? ko.body.trim() : '';
+  const bodyChars = body.replace(/\s+/g, '').length;
   const keywordCount = Array.isArray(ko.keywords) ? ko.keywords.length : 0;
   const faqCount = Array.isArray(ko.faq) ? ko.faq.length : 0;
   const imageUrl = typeof item?.imageUrl === 'string' ? item.imageUrl.trim() : '';
+  const sourceLeak = /(?:출처|source|sources|sumber|quelle|fuente|fonte|来源|出典|مصدر|स्रोत)\s*[:：]|\baccording to\b|원문 제목|원문에 따르면|보도에 따르면|据[^。！？\n]{0,40}(?:报道|消息)/iu;
 
   if (!body) {
     throw new Error('Latest article is missing i18n.ko.body');
   }
-  if (body.length < 1000 || body.length > 1200) {
-    throw new Error(`Latest article body length out of range: ${body.length} (expected 1000-1200)`);
+  if (bodyChars < 1000 || bodyChars > 4000) {
+    throw new Error(`Latest article body length out of range: ${bodyChars} (expected 1000-4000, no spaces)`);
   }
-  if (!item.sourceName || !item.sourceUrl) {
-    throw new Error('Latest article is missing source attribution (sourceName/sourceUrl)');
+  if (sourceLeak.test(body)) {
+    throw new Error('Latest article body still contains source attribution language');
   }
   if (keywordCount < 3) {
     throw new Error(`Latest article has too few keywords: ${keywordCount} (expected >= 3)`);

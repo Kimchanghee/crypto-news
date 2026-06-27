@@ -1,8 +1,7 @@
 import { ImageResponse } from 'next/og';
 import { db } from '@/lib/db';
-import { type Locale } from '@/i18n';
-import { getChannelLocale } from '@/lib/channel-locale';
-import { articleI18n } from '@/lib/article-locale';
+import { defaultLocale, type Locale } from '@/i18n';
+import { channel } from '@/channel.config';
 
 export const runtime = 'edge';
 export const alt = 'Article preview';
@@ -21,12 +20,11 @@ const COLORS: Record<string, string> = {
 
 export default async function OG({ params }: { params: { locale: Locale; slug: string } }) {
   const a = await db.getBySlug(params.slug);
-  const i = a ? articleI18n(a, params.locale) : {};
+  const i: any = a ? ((a.i18n as any)[params.locale] ?? (a.i18n as any)[defaultLocale] ?? {}) : {};
   const title = i.title || params.slug.replace(/-\d+$/, '').replace(/-/g, ' ');
   const cat = a?.category || 'breaking';
   const color = COLORS[cat] || COLORS.breaking;
-  const channelName = getChannelLocale(params.locale).name;
-  const sourceName = a?.sourceName || '';
+  const channelName = channel.name;
 
   return new ImageResponse(
     (
@@ -44,7 +42,6 @@ export default async function OG({ params }: { params: { locale: Locale; slug: s
           <div style={{ fontSize: 56, fontWeight: 700, lineHeight: 1.15, letterSpacing: -1, color: 'white' }}>
             {title.slice(0, 120)}
           </div>
-          {sourceName && <div style={{ fontSize: 22, opacity: 0.7 }}>via {sourceName}</div>}
         </div>
       </div>
     ),

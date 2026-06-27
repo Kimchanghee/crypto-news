@@ -4,34 +4,19 @@
   "channelId": "CRYPTO",
   "category": "crypto",
   "publishedAt": "2026-06-18T11:32:46.440Z",
-  "updatedAt": "2026-06-18T11:32:46.440Z",
+  "updatedAt": "2026-06-27T02:48:17.414Z",
   "sourceName": "",
   "sourceUrl": "",
-  "canonicalUrl": "https://www.coindesk.com/policy/2026/06/18/malta-s-financial-regulator-explores-bringing-parts-of-defi-under-mica-s-orbit",
-  "titleFingerprint": "b3e0794df5c2794ffbcd32ea52c4eda5f2881846",
-  "dedupKeys": [
-    "d028281ec6f2510bd8132fb17d5fd457aed456eb",
-    "b3e0794df5c2794ffbcd32ea52c4eda5f2881846",
-    "eef55efb54497bff4439f8f8393e96b6626139e3"
-  ],
   "imageUrl": "/images/articles/d028281ec6f2.jpg",
   "i18n": {
     "ko": {
       "title": "몰타 금융당국, DeFi 일부 MiCA 편입 검토…탈중앙화 ‘스펙트럼’ 평가 부상",
-      "excerpt": "몰타 금융서비스당국이 DeFi 일부를 유럽 MiCA 규제권 안으로 들이는 방안을 검토하며, 탈중앙화를 완전한 유무가 아닌 단계별 스펙트럼으로 판단하는 기준에 대한 시장 의견을 모으고 있다.",
-      "metaDescription": "몰타 금융당국이 DeFi 일부의 MiCA 적용 가능성을 검토한다. 탈중앙화 수준을 이분법이 아닌 스펙트럼으로 평가하는 방식이 핵심 쟁점이다.",
+      "excerpt": "몰타 금융서비스당국은 DeFi 서비스 가운데 사실상 관리 주체가 존재하는 영역을 MiCA 규제 체계로 포섭할 수 있는지 검토하고 있다. 핵심은 탈중앙화를 ‘있다·없다’가 아니라 단계별 스펙트럼으로 평가하는 방식이다. 이번 논의는 유럽 가상자산 규제의 적용 범위를 넓히는 신호로, 한국 DeFi 사업자와 투자자에게도 규제 기준 변화의 참고점이 된다.",
+      "metaDescription": "몰타 금융서비스당국은 DeFi 서비스 가운데 사실상 관리 주체가 존재하는 영역을 MiCA 규제 체계로 포섭할 수 있는지 검토하고 있다. 핵심은 탈중앙화를 ‘있다·없다’가 아니라 단계별 스펙트럼으로 평가하는 방식이다. 이번 논의는 유럽 가상자산 규제의 적용 범위를 넓히는 신호로, 한국 DeFi 사업자와 투자자에게도 규제 기준 변화의 참고점이 된다.",
       "summary": "몰타 금융서비스당국은 DeFi 서비스 가운데 사실상 관리 주체가 존재하는 영역을 MiCA 규제 체계로 포섭할 수 있는지 검토하고 있다. 핵심은 탈중앙화를 ‘있다·없다’가 아니라 단계별 스펙트럼으로 평가하는 방식이다. 이번 논의는 유럽 가상자산 규제의 적용 범위를 넓히는 신호로, 한국 DeFi 사업자와 투자자에게도 규제 기준 변화의 참고점이 된다.",
-      "body": "몰타 금융서비스당국이 탈중앙화금융, DeFi의 일부 영역을 유럽연합 가상자산 규제 체계인 MiCA 안으로 끌어들이는 방안을 본격 검토하고 있다. 핵심은 DeFi를 규제 밖의 완전 자율 프로토콜로만 볼 것인지, 아니면 운영자·거버넌스·수수료 구조·프런트엔드 통제권 등 실질적 개입 정도에 따라 규제 대상성을 판단할 것인지다. 이번 검토는 탈중앙화를 단순한 ‘예·아니오’ 문제가 아니라 연속선상의 개념으로 다루겠다는 방향을 분명히 한다.\n\n## DeFi와 MiCA의 경계가 다시 그어진다\nMiCA는 유럽연합이 마련한 가상자산 포괄 규제 체계다. 가상자산 발행, 거래, 수탁, 중개 등 중앙화된 서비스 제공자를 주요 대상으로 삼아 투자자 보호와 시장 건전성을 높이는 데 초점을 둔다. 문제는 DeFi다. 스마트계약으로 자동 실행되고 분산 거버넌스를 표방하는 서비스는 전통적 사업자 개념에 잘 들어맞지 않는다. 그러나 실제 시장에서는 이름만 DeFi일 뿐 특정 개발팀, 재단, 프런트엔드 운영자, 수수료 수취 구조가 존재하는 사례가 적지 않다.\n\n몰타 당국의 검토는 바로 이 회색지대를 겨냥한다. 탈중앙화가 완전하면 규제 적용이 제한될 수 있지만, 사용자 접점과 핵심 의사결정이 소수 주체에게 집중돼 있다면 MiCA의 적용 가능성이 커진다. 이는 DeFi 프로젝트가 단순히 토큰 보유자 투표나 오픈소스 코드를 내세우는 것만으로 규제 책임에서 벗어나기 어려워질 수 있음을 뜻한다.\n\n## ‘스펙트럼’ 평가가 핵심 기준\n이번 논의의 핵심 키워드는 탈중앙화 스펙트럼이다. 평가 대상은 프로토콜 코드 변경 권한, 관리자 키 존재 여부, 프런트엔드 운영 통제, 수익 배분 구조, 거버넌스 투표 집중도, 이용자 자산에 대한 실질적 영향력 등이 될 수 있다. 예컨대 스마트계약은 자동화돼 있어도 웹사이트 접속 차단, 수수료 조정, 신규 자산 상장, 긴급 중단 권한이 특정 주체에 있다면 완전한 탈중앙화로 보기 어렵다.\n\n구체적 수치로 보면 MiCA는 27개 유럽연합 회원국 전체에 적용되는 단일 규제 틀이다. 몰타는 유럽 내 가상자산 사업자 유치에 적극적이었던 관할권으로, 이곳의 판단 기준은 EU 시장 진입을 준비하는 프로젝트에 실무적 영향을 줄 수 있다. DeFi 프로토콜이 유럽 이용자를 대상으로 서비스를 제공하거나 유럽 내 법인을 활용한다면, 규제 회피형 구조보다 투명한 운영 권한 공개와 책임 주체 정리가 더 중요해진다.\n\n## 한국 시장에도 규제 신호가 된다\n한국 투자자에게도 영향은 작지 않다. 국내에서는 가상자산이용자보호법 시행 이후 거래소와 사업자 책임이 강화됐고, 스테이블코인·발행·공시·불공정거래 규율 논의가 이어지고 있다. 유럽이 DeFi의 실질 통제권을 기준으로 규제 범위를 넓히면 한국 당국도 유사한 접근을 참고할 가능성이 있다. 특히 국내 이용자가 해외 DeFi에 원화 환산 기준 수백만 원에서 수천만 원 단위로 예치하거나 유동성 공급에 참여하는 사례가 늘어난 만큼, 책임 주체가 불명확한 손실 구조는 소비자 보호 쟁점으로 커질 수 있다.\n\n시장 측면에서는 DeFi 프로젝트의 비용 부담이 늘어날 수 있다. 법률 검토, 거버넌스 문서화, 관리자 권한 축소, 리스크 공시 강화가 필요해질 수 있기 때문이다. 반대로 규제 기준이 명확해지면 기관투자자와 핀테크 기업의 참여 장벽은 낮아질 수 있다. DeFi가 제도권과 접점을 넓히려면 탈중앙화라는 선언보다 실제 통제 구조를 입증하는 단계로 이동해야 한다.\n\n전망은 분명하다. DeFi 전체가 곧바로 MiCA 안으로 들어가는 흐름은 아니다. 다만 ‘진짜 탈중앙화’와 ‘관리 주체가 있는 DeFi형 서비스’를 구분하려는 움직임은 강해지고 있다. 몰타의 검토는 유럽 규제의 다음 질문을 보여준다. 앞으로 DeFi 프로젝트의 경쟁력은 수익률뿐 아니라 투명한 권한 구조, 이용자 보호 장치, 규제 대응 능력에서 갈릴 전망이다.",
+      "body": "몰타 금융서비스당국이 탈중앙화금융, DeFi의 일부 영역을 유럽연합 가상자산 규제 체계인 MiCA 안으로 끌어들이는 방안을 본격 검토하고 있다. 핵심은 DeFi를 규제 밖의 완전 자율 프로토콜로만 볼 것인지, 아니면 운영자·거버넌스·수수료 구조·프런트엔드 통제권 등 실질적 개입 정도에 따라 규제 대상성을 판단할 것인지다. 이번 검토는 탈중앙화를 단순한 ‘예·아니오’ 문제가 아니라 연속선상의 개념으로 다루겠다는 방향을 분명히 한다.\n\n## DeFi와 MiCA의 경계가 다시 그어진다\n\nMiCA는 유럽연합이 마련한 가상자산 포괄 규제 체계다. 가상자산 발행, 거래, 수탁, 중개 등 중앙화된 서비스 제공자를 주요 대상으로 삼아 투자자 보호와 시장 건전성을 높이는 데 초점을 둔다. 문제는 DeFi다. 스마트계약으로 자동 실행되고 분산 거버넌스를 표방하는 서비스는 전통적 사업자 개념에 잘 들어맞지 않는다. 그러나 실제 시장에서는 이름만 DeFi일 뿐 특정 개발팀, 재단, 프런트엔드 운영자, 수수료 수취 구조가 존재하는 사례가 적지 않다.\n\n몰타 당국의 검토는 바로 이 회색지대를 겨냥한다. 탈중앙화가 완전하면 규제 적용이 제한될 수 있지만, 사용자 접점과 핵심 의사결정이 소수 주체에게 집중돼 있다면 MiCA의 적용 가능성이 커진다. 이는 DeFi 프로젝트가 단순히 토큰 보유자 투표나 오픈소스 코드를 내세우는 것만으로 규제 책임에서 벗어나기 어려워질 수 있음을 뜻한다.\n\n## ‘스펙트럼’ 평가가 핵심 기준\n\n이번 논의의 핵심 키워드는 탈중앙화 스펙트럼이다. 평가 대상은 프로토콜 코드 변경 권한, 관리자 키 존재 여부, 프런트엔드 운영 통제, 수익 배분 구조, 거버넌스 투표 집중도, 이용자 자산에 대한 실질적 영향력 등이 될 수 있다. 예컨대 스마트계약은 자동화돼 있어도 웹사이트 접속 차단, 수수료 조정, 신규 자산 상장, 긴급 중단 권한이 특정 주체에 있다면 완전한 탈중앙화로 보기 어렵다.\n\n구체적 수치로 보면 MiCA는 27개 유럽연합 회원국 전체에 적용되는 단일 규제 틀이다. 몰타는 유럽 내 가상자산 사업자 유치에 적극적이었던 관할권으로, 이곳의 판단 기준은 EU 시장 진입을 준비하는 프로젝트에 실무적 영향을 줄 수 있다. DeFi 프로토콜이 유럽 이용자를 대상으로 서비스를 제공하거나 유럽 내 법인을 활용한다면, 규제 회피형 구조보다 투명한 운영 권한 공개와 책임 주체 정리가 더 중요해진다.\n\n## 한국 시장에도 규제 신호가 된다\n\n한국 투자자에게도 영향은 작지 않다. 국내에서는 가상자산이용자보호법 시행 이후 거래소와 사업자 책임이 강화됐고, 스테이블코인·발행·공시·불공정거래 규율 논의가 이어지고 있다. 유럽이 DeFi의 실질 통제권을 기준으로 규제 범위를 넓히면 한국 당국도 유사한 접근을 참고할 가능성이 있다. 특히 국내 이용자가 해외 DeFi에 원화 환산 기준 수백만 원에서 수천만 원 단위로 예치하거나 유동성 공급에 참여하는 사례가 늘어난 만큼, 책임 주체가 불명확한 손실 구조는 소비자 보호 쟁점으로 커질 수 있다.\n\n시장 측면에서는 DeFi 프로젝트의 비용 부담이 늘어날 수 있다. 법률 검토, 거버넌스 문서화, 관리자 권한 축소, 리스크 공시 강화가 필요해질 수 있기 때문이다. 반대로 규제 기준이 명확해지면 기관투자자와 핀테크 기업의 참여 장벽은 낮아질 수 있다. DeFi가 제도권과 접점을 넓히려면 탈중앙화라는 선언보다 실제 통제 구조를 입증하는 단계로 이동해야 한다.\n\n전망은 분명하다. DeFi 전체가 곧바로 MiCA 안으로 들어가는 흐름은 아니다. 다만 ‘진짜 탈중앙화’와 ‘관리 주체가 있는 DeFi형 서비스’를 구분하려는 움직임은 강해지고 있다. 몰타의 검토는 유럽 규제의 다음 질문을 보여준다. 앞으로 DeFi 프로젝트의 경쟁력은 수익률뿐 아니라 투명한 권한 구조, 이용자 보호 장치, 규제 대응 능력에서 갈릴 전망이다.",
       "keywords": [
-        "몰타 금융당국",
-        "DeFi",
-        "MiCA",
-        "탈중앙화 스펙트럼",
-        "가상자산 규제",
-        "유럽 암호화폐 규제",
-        "분산금융",
-        "한국 가상자산 시장",
-        "가상자산이용자보호법",
+        "crypto",
         "몰타 금융당국, DeFi 일부 MiC"
       ],
       "faq": [
@@ -46,6 +31,250 @@
         {
           "q": "이번 검토가 한국 투자자에게 중요한 이유는 무엇인가?",
           "a": "한국 투자자도 해외 DeFi를 이용하는 경우가 많다. 유럽의 기준이 구체화되면 국내 규제 논의와 사업자 리스크 관리, 투자자 보호 기준에도 참고 사례가 될 수 있다."
+        }
+      ]
+    },
+    "en": {
+      "title": "Malta Weighs Bringing Parts of DeFi Under MiCA as Decentralization Spectrum Gains Focus",
+      "excerpt": "Malta's financial regulator is examining whether areas of DeFi with de facto managing parties can be brought into the MiCA regulatory framework. The key issue is assessing decentralization as a staged spectrum rather than a simple yes-or-no",
+      "metaDescription": "Malta is reviewing whether partially managed DeFi services could fall under MiCA, highlighting a spectrum-based test for decentralization.",
+      "summary": "Malta's financial regulator is examining whether areas of DeFi with de facto managing parties can be brought into the MiCA regulatory framework. The core issue is treating decentralization as a spectrum, not as a binary condition. The discussion signals a possible widening of European crypto regulation and offers a reference point for Korean DeFi operators a",
+      "body": "Malta's financial regulator is taking a closer look at whether certain areas of decentralized finance, or DeFi, can be drawn into MiCA, the European Union's crypto-asset regulatory framework. The central question is whether DeFi should be treated only as a fully autonomous protocol outside ordinary regulatory boundaries, or whether its regulatory status should depend on the actual level of intervention by operators, governance groups, fee structures, and front-end controllers. This review makes clear that decentralization is being approached not as a simple yes-or-no label, but as a concept that exists on a continuum.\n\nMiCA is the comprehensive crypto-asset framework prepared by the European Union. It mainly targets centralized service providers involved in crypto issuance, trading, custody, brokerage, and similar activities, with a focus on investor protection and market integrity. DeFi creates a harder boundary problem. Services that run automatically through smart contracts and present themselves as governed in a distributed way do not fit neatly into the traditional idea of a business operator. In practice, however, many services described as DeFi still have a specific development team, foundation, front-end operator, or fee-collection structure.\n\nMalta's review is aimed at that grey area. If decentralization is complete, regulatory application may be limited. If user access points and key decisions are concentrated in the hands of a small number of parties, the possibility of MiCA applying becomes greater. This means DeFi projects may find it harder to avoid regulatory responsibility simply by pointing to token-holder votes or open-source code.\n\nThe main standard in the discussion is the decentralization spectrum. Factors that may be assessed include authority to change protocol code, the existence of administrator keys, control over front-end operations, revenue distribution structures, concentration in governance voting, and practical influence over user assets. For example, even if a smart contract is automated, a service may be difficult to view as fully decentralized if a particular party can block website access, adjust fees, list new assets, or activate emergency suspension powers.\n\nIn concrete terms, MiCA is a single regulatory framework that applies across all 27 European Union member states. Malta has been active in attracting crypto-asset businesses within Europe, so its criteria could have practical effects for projects preparing to enter the EU market. If a DeFi protocol serves European users or uses a legal entity inside Europe, transparent disclosure of operational authority and a clear allocation of responsible parties may become more important than structures designed mainly to avoid regulation.\n\nThe signal also matters for the Korean market. In Korea, responsibilities for exchanges and operators have grown stronger after the enforcement of the Virtual Asset User Protection Act, while discussions continue on stablecoins, issuance, disclosure, and unfair trading rules. If Europe expands regulatory coverage based on actual control over DeFi, Korean regulators may study a similar approach. As more domestic users deposit amounts ranging from several million won to tens of millions of won in overseas DeFi or participate in liquidity supply, loss structures without a clear responsible party may become a larger consumer protection issue.\n\nFor the market, DeFi projects could face higher costs. Legal review, governance documentation, reduction of administrator authority, and stronger risk disclosure may become necessary. At the same time, clearer regulatory standards could lower participation barriers for institutional investors and fintech companies. For DeFi to widen its connection with the regulated financial sector, it will need to move beyond declaring decentralization and toward proving its actual control structure.\n\nThe outlook is clear. This is not a move that places all DeFi immediately inside MiCA. Still, momentum is building around separating truly decentralized protocols from DeFi-style services that have identifiable managing parties. Malta's review points to the next question for European regulation. The competitiveness of DeFi projects is likely to be determined not only by yield, but also by transparent authority structures, user protection measures, and the ability to respond to regulation.",
+      "keywords": [
+        "DeFi",
+        "MiCA",
+        "Malta",
+        "decentralization",
+        "crypto regulation"
+      ],
+      "faq": [
+        {
+          "q": "What is the main issue in Malta's DeFi review?",
+          "a": "The main issue is whether DeFi services with actual managing parties or concentrated control can fall under MiCA, using a spectrum-based view of decentralization."
+        },
+        {
+          "q": "Which figure should readers verify first?",
+          "a": "Start with the published timing, the main figure and the immediate price or indicator move cited in the article."
+        }
+      ]
+    },
+    "ja": {
+      "title": "マルタ金融当局、DeFiの一部をMiCAに組み込む案を検討　分散化の「スペクトラム」評価が焦点に",
+      "excerpt": "マルタの金融当局は、DeFiサービスのうち実質的な管理主体が存在する領域をMiCA規制の枠組みに含められるかを検討している。焦点は、分散化を有無ではなく段階的なスペクトラムとして評価する点にある。",
+      "metaDescription": "マルタ金融当局が、管理主体のあるDeFi領域をMiCAに含める可能性を検討。分散化を段階的に評価する考え方が注目されている。",
+      "summary": "マルタの金融当局は、DeFiサービスのうち実質的な管理主体が存在する領域をMiCA規制の枠組みに含められるかを検討している。核心は、分散化をあるかないかではなく段階的なスペクトラムとして評価する方法だ。この議論は欧州の暗号資産規制の適用範囲を広げる兆しであり、韓国のDeFi事業者と投資家にとっても規制基準の変化を考える材料となる。",
+      "body": "マルタの金融当局は、分散型金融であるDeFiの一部領域を、欧州連合の暗号資産規制枠組みであるMiCAの中に取り込む案を本格的に検討している。中心となる論点は、DeFiを規制の外にある完全自律型プロトコルとしてのみ見るのか、それとも運営者、ガバナンス、手数料構造、フロントエンドの管理権限など、実質的な関与の度合いに応じて規制対象性を判断するのかという点である。今回の検討は、分散化を単純な「はい・いいえ」の問題ではなく、連続線上にある概念として扱う方向を明確にしている。\n\nMiCAは、欧州連合が整備した暗号資産に関する包括的な規制枠組みだ。暗号資産の発行、取引、カストディ、仲介など、中央集権的なサービス提供者を主な対象とし、投資家保護と市場の健全性を高めることに重点を置いている。問題となるのはDeFiである。スマートコントラクトによって自動実行され、分散型ガバナンスを掲げるサービスは、従来の事業者という概念にうまく当てはまらない。しかし実際の市場では、名称はDeFiであっても、特定の開発チーム、財団、フロントエンド運営者、手数料の受領構造が存在する事例が少なくない。\n\nマルタ当局の検討は、このグレーゾーンを対象としている。分散化が完全であれば規制の適用は限定され得るが、利用者との接点や重要な意思決定が少数の主体に集中していれば、MiCAが適用される可能性は高まる。これは、DeFiプロジェクトがトークン保有者の投票やオープンソースコードを掲げるだけで規制上の責任から離れにくくなる可能性を意味する。\n\n今回の議論における重要なキーワードは、分散化のスペクトラムである。評価対象には、プロトコルコードの変更権限、管理者キーの有無、フロントエンド運営の支配、収益分配構造、ガバナンス投票の集中度、利用者資産への実質的影響力などが含まれ得る。たとえばスマートコントラクトが自動化されていても、ウェブサイトへのアクセス遮断、手数料調整、新規資産の上場、緊急停止権限が特定の主体にあるなら、完全な分散化とは見なしにくい。\n\n具体的な数字で見ると、MiCAは欧州連合の27加盟国すべてに適用される単一の規制枠組みである。マルタは欧州内で暗号資産事業者の誘致に積極的だった法域であり、そこで示される判断基準はEU市場参入を準備するプロジェクトに実務上の影響を与え得る。DeFiプロトコルが欧州の利用者にサービスを提供したり、欧州内の法人を活用したりする場合、規制回避型の構造よりも、運営権限の透明な開示と責任主体の整理が重要になる。\n\n韓国市場への影響も小さくない。韓国では仮想資産利用者保護法の施行後、取引所と事業者の責任が強化され、ステーブルコイン、発行、開示、不公正取引に関する規律の議論が続いている。欧州がDeFiの実質的な支配権を基準に規制範囲を広げれば、韓国当局も類似の考え方を参考にする可能性がある。特に国内利用者が海外DeFiにウォン換算で数百万ウォンから数千万ウォン規模の資金を預けたり、流動性供給に参加したりする事例が増えているため、責任主体が不明確な損失構造は消費者保護上の論点として大きくなり得る。\n\n市場面では、DeFiプロジェクトのコスト負担が増える可能性がある。法務レビュー、ガバナンス文書化、管理者権限の縮小、リスク開示の強化が必要になるためだ。一方で、規制基準が明確になれば、機関投資家やフィンテック企業の参加障壁は低くなり得る。DeFiが制度圏との接点を広げるには、分散化という宣言よりも、実際の支配構造を証明する段階へ移る必要がある。\n\n見通しは明確だ。DeFi全体が直ちにMiCAの中に入る流れではない。ただし、「真の分散化」と「管理主体のあるDeFi型サービス」を区別しようとする動きは強まっている。マルタの検討は、欧州規制の次の問いを示している。今後のDeFiプロジェクトの競争力は、利回りだけでなく、透明な権限構造、利用者保護装置、規制対応能力によって分かれる見通しだ。",
+      "keywords": [
+        "DeFi",
+        "MiCA",
+        "マルタ",
+        "分散化",
+        "暗号資産規制"
+      ],
+      "faq": [
+        {
+          "q": "マルタのDeFi検討で最も重要な点は何ですか。",
+          "a": "実質的な管理主体や集中した支配があるDeFiサービスを、分散化のスペクトラム評価に基づいてMiCAの対象にできるかという点です。"
+        },
+        {
+          "q": "Which figure should readers verify first?",
+          "a": "Start with the published timing, the main figure and the immediate price or indicator move cited in the article."
+        }
+      ]
+    },
+    "zh": {
+      "title": "马耳他金融监管方研究将部分DeFi纳入MiCA，去中心化“光谱”评估受关注",
+      "excerpt": "马耳他金融监管方正在研究，DeFi服务中存在事实管理主体的领域是否可被纳入MiCA监管框架。核心在于不把去中心化视为有或无，而是按阶段性的光谱进行评估。",
+      "metaDescription": "马耳他正在研究部分存在管理主体的DeFi是否可纳入MiCA，去中心化光谱评估成为关键。",
+      "summary": "马耳他金融监管方正在研究，DeFi服务中存在事实管理主体的领域是否可被纳入MiCA监管框架。核心是将去中心化视为阶段性的光谱，而不是简单的有无判断。这一讨论释放出欧洲扩大加密资产监管适用范围的信号，也可成为韩国DeFi经营方和投资者观察监管标准变化的参照。",
+      "body": "马耳他金融监管方正在正式研究，将去中心化金融DeFi的部分领域纳入欧盟加密资产监管框架MiCA的方案。核心问题在于，DeFi究竟应被视为完全处于监管之外的自治协议，还是应根据运营者、治理、费用结构、前端控制权等实际介入程度来判断其是否属于监管对象。此次研究明确显示，去中心化不再只是一个简单的是或否问题，而是一个位于连续线上的概念。\n\nMiCA是欧盟建立的综合性加密资产监管框架。它主要针对加密资产发行、交易、托管、中介等中心化服务提供者，重点在于提高投资者保护水平和市场健全性。难点在于DeFi。通过智能合约自动执行、并主张分布式治理的服务，并不容易纳入传统经营者的概念。然而在实际市场中，许多名义上属于DeFi的服务，仍然存在特定开发团队、基金会、前端运营者或费用收取结构。\n\n马耳他方面的研究正是指向这一灰色地带。如果去中心化程度完整，监管适用可能受到限制；但如果用户接触点和关键决策集中在少数主体手中，MiCA适用的可能性就会提高。这意味着，DeFi项目仅凭代币持有人投票或开源代码，可能越来越难以摆脱监管责任。\n\n本次讨论的关键词是去中心化光谱。评估对象可能包括协议代码修改权限、管理员密钥是否存在、前端运营控制、收益分配结构、治理投票集中度、对用户资产的实际影响力等。举例来说，即使智能合约已经自动化，如果网站访问封锁、费用调整、新资产上线、紧急暂停权限掌握在特定主体手中，就很难将其视为完全去中心化。\n\n从具体数字看，MiCA是适用于欧盟全部27个成员国的单一监管框架。马耳他一直是欧洲范围内积极吸引加密资产业务的司法辖区，因此当地判断标准可能对准备进入欧盟市场的项目产生实际影响。如果DeFi协议面向欧洲用户提供服务，或使用欧洲境内法人，那么相较于规避监管式结构，透明披露运营权限和明确责任主体将变得更加重要。\n\n这一变化对韩国市场也有明显意义。韩国在虚拟资产用户保护法实施后，交易所和经营者责任已经加强，关于稳定币、发行、披露、不公平交易规则的讨论也在继续。如果欧洲以DeFi的实际控制权为标准扩大监管范围，韩国监管方也可能参考类似方法。尤其是随着韩国用户向海外DeFi投入按韩元折算数百万至数千万韩元的资金，或参与流动性供应的案例增加，责任主体不明确的损失结构可能成为更大的消费者保护议题。\n\n从市场角度看，DeFi项目的成本负担可能上升。法律审查、治理文件化、管理员权限缩减、风险披露强化，都可能成为必要事项。相反，如果监管标准更加明确，机构投资者和金融科技企业的参与门槛也可能降低。DeFi若要扩大与制度金融的接点，就必须从宣称去中心化，转向证明实际控制结构。\n\n前景相对清晰。DeFi整体并不会立即全部进入MiCA之内。不过，区分“真正去中心化”和“存在管理主体的DeFi型服务”的动向正在增强。马耳他的研究显示了欧洲监管的下一个问题。未来DeFi项目的竞争力，预计不仅取决于收益率，也将取决于透明的权限结构、用户保护装置和监管应对能力。",
+      "keywords": [
+        "DeFi",
+        "MiCA",
+        "马耳他",
+        "去中心化",
+        "加密资产监管"
+      ],
+      "faq": [
+        {
+          "q": "马耳他对DeFi的研究重点是什么？",
+          "a": "重点是对存在实际管理主体或集中控制的DeFi服务，能否通过去中心化光谱评估纳入MiCA框架。"
+        },
+        {
+          "q": "Which figure should readers verify first?",
+          "a": "Start with the published timing, the main figure and the immediate price or indicator move cited in the article."
+        }
+      ]
+    },
+    "es": {
+      "title": "Malta evalúa incluir parte de DeFi en MiCA con un enfoque de descentralización por espectro",
+      "excerpt": "La autoridad financiera de Malta estudia si ciertos servicios DeFi con una entidad de control efectiva pueden entrar en el marco MiCA. El eje del debate es medir la descentralización como un espectro gradual, no como una condición binaria.",
+      "metaDescription": "Malta revisa si áreas de DeFi con control operativo real pueden quedar bajo MiCA, usando una evaluación gradual de descentralización.",
+      "summary": "La autoridad financiera de Malta estudia si ciertos servicios DeFi con una entidad de control efectiva pueden entrar en el marco MiCA. El eje del debate es medir la descentralización como un espectro gradual, no como una condición binaria. La discusión amplía el alcance potencial de la regulación europea de criptoactivos y ofrece una referencia para operador",
+      "body": "La autoridad financiera de Malta analiza con mayor detalle la posibilidad de incorporar algunas áreas de las finanzas descentralizadas, DeFi, al marco europeo de criptoactivos MiCA. El punto central no es tratar a todo DeFi como un protocolo plenamente autónomo fuera de la regulación, sino observar si existen operadores, estructuras de gobernanza, sistemas de comisiones o control sobre la interfaz de usuario que impliquen una intervención real. Con este enfoque, la descentralización deja de verse como una respuesta de sí o no y pasa a evaluarse como una posición dentro de una línea continua.\n\nMiCA es el marco integral de la Unión Europea para criptoactivos. Su foco principal está en proveedores centralizados vinculados con emisión, negociación, custodia e intermediación, con el objetivo de reforzar la protección del inversor y la integridad del mercado. La dificultad aparece con DeFi, porque muchos servicios se ejecutan mediante contratos inteligentes y presentan una gobernanza distribuida. Sin embargo, en el mercado existen casos que solo son DeFi en apariencia, mientras mantienen un equipo de desarrollo, una fundación, un operador de frontend o una estructura de cobro de comisiones.\n\nLa revisión de Malta se dirige a esa zona gris. Si la descentralización es completa, la aplicación regulatoria puede ser limitada. Pero si los puntos de acceso para usuarios y las decisiones esenciales están concentrados en pocos actores, aumenta la posibilidad de aplicar MiCA. Esto significa que un proyecto DeFi podría tener más dificultades para eludir responsabilidades regulatorias solo por exhibir votaciones de tenedores de tokens o código abierto.\n\nLa palabra clave es el espectro de descentralización. La evaluación puede incluir quién puede modificar el código del protocolo, si existen claves administrativas, quién controla el frontend, cómo se distribuyen los ingresos, cuán concentradas están las votaciones de gobernanza y qué influencia real existe sobre los activos de los usuarios. Aunque el contrato inteligente esté automatizado, no sería fácil hablar de plena descentralización si una entidad puede bloquear el acceso al sitio web, ajustar comisiones, listar nuevos activos o activar una suspensión de emergencia.\n\nMiCA se aplica como un marco único en los 27 Estados miembros de la Unión Europea. Malta ha sido una jurisdicción activa en la atracción de empresas de criptoactivos, por lo que sus criterios pueden tener efectos prácticos para proyectos que preparan su entrada al mercado europeo. Si un protocolo DeFi atiende a usuarios europeos o utiliza una entidad dentro de Europa, será más relevante revelar de forma transparente los poderes operativos y ordenar las responsabilidades que diseñar estructuras orientadas a evitar la regulación.\n\nEl impacto también alcanza a Corea. Tras la entrada en vigor de la ley de protección de usuarios de criptoactivos, aumentó la responsabilidad de exchanges y empresas, mientras continúan las discusiones sobre stablecoins, emisión, divulgación e infracciones de mercado. Si Europa amplía el perímetro regulatorio usando como criterio el control real dentro de DeFi, las autoridades coreanas podrían tomarlo como referencia. Con más usuarios locales colocando en DeFi extranjero montos equivalentes a millones o decenas de millones de wones, las pérdidas con responsables poco claros pueden convertirse en una cuestión mayor de protección al consumidor.\n\nPara el mercado, los proyectos DeFi podrían enfrentar mayores costes por revisión legal, documentación de gobernanza, reducción de privilegios administrativos y divulgación de riesgos. A la vez, reglas más claras pueden reducir barreras para inversores institucionales y empresas fintech. DeFi no entrará de inmediato y por completo en MiCA, pero se fortalece la distinción entre la descentralización real y los servicios tipo DeFi con una entidad de gestión. La competitividad futura dependerá no solo del rendimiento, sino también de estructuras de autoridad transparentes, protección del usuario y capacidad de respuesta regulatoria.",
+      "keywords": [
+        "DeFi",
+        "MiCA",
+        "Malta",
+        "descentralización",
+        "regulación cripto",
+        "Corea"
+      ],
+      "faq": [
+        {
+          "q": "¿Qué analiza Malta sobre DeFi y MiCA?",
+          "a": "Analiza si los servicios DeFi con control operativo real, gobernanza concentrada o intervención sobre usuarios y comisiones pueden entrar en el marco regulatorio MiCA."
+        },
+        {
+          "q": "Which figure should readers verify first?",
+          "a": "Start with the published timing, the main figure and the immediate price or indicator move cited in the article."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Malta avalia incluir parte do DeFi no MiCA com análise de descentralização em espectro",
+      "excerpt": "A autoridade financeira de Malta avalia se serviços DeFi com um responsável efetivo de gestão podem ser enquadrados no MiCA. O ponto central é tratar a descentralização como um espectro gradual, e não como uma condição binária.",
+      "metaDescription": "Malta examina se áreas de DeFi com controle operacional real podem entrar no MiCA, usando uma avaliação gradual da descentralização.",
+      "summary": "A autoridade financeira de Malta avalia se serviços DeFi com um responsável efetivo de gestão podem ser enquadrados no MiCA. O ponto central é tratar a descentralização como um espectro gradual, e não como uma condição binária. A discussão sinaliza uma possível ampliação do alcance regulatório europeu e serve de referência para operadores e investidores DeFi",
+      "body": "A autoridade financeira de Malta está examinando de forma mais concreta a possibilidade de trazer algumas áreas das finanças descentralizadas, DeFi, para dentro do marco europeu de criptoativos MiCA. O ponto essencial é decidir se DeFi deve ser visto apenas como um protocolo totalmente autônomo fora da regulação ou se sua sujeição às regras deve depender do grau real de intervenção, incluindo operadores, governança, estrutura de taxas e controle sobre o frontend. A direção do debate deixa claro que a descentralização passa a ser tratada como um conceito contínuo, e não como uma simples resposta de sim ou não.\n\nMiCA é o marco regulatório abrangente da União Europeia para criptoativos. Ele mira principalmente prestadores de serviços centralizados envolvidos em emissão, negociação, custódia e intermediação, com foco em proteção do investidor e integridade do mercado. O problema está em DeFi. Serviços executados automaticamente por contratos inteligentes e apresentados como governança distribuída não se encaixam facilmente no conceito tradicional de empresa prestadora. Ainda assim, no mercado há muitos casos em que o nome DeFi convive com uma equipe de desenvolvimento específica, uma fundação, um operador de interface ou uma estrutura de recebimento de taxas.\n\nA análise de Malta mira exatamente essa zona cinzenta. Quando a descentralização é completa, a aplicação regulatória pode ser limitada. Mas, quando o contato com usuários e as decisões principais ficam concentrados em poucos agentes, cresce a possibilidade de aplicação do MiCA. Isso indica que projetos DeFi podem ter mais dificuldade para afastar responsabilidades regulatórias apenas com votações de detentores de tokens ou código aberto.\n\nO conceito decisivo é o espectro de descentralização. A avaliação pode considerar quem tem poder para alterar o código do protocolo, se existem chaves administrativas, quem controla o frontend, como a receita é distribuída, qual é a concentração dos votos de governança e que influência real existe sobre os ativos dos usuários. Mesmo que o contrato inteligente seja automatizado, não é simples classificá-lo como plenamente descentralizado se um agente específico pode bloquear o acesso ao site, ajustar taxas, listar novos ativos ou acionar uma pausa de emergência.\n\nEm termos concretos, o MiCA é um marco único aplicável aos 27 Estados-membros da União Europeia. Malta tem sido uma jurisdição ativa na atração de empresas de criptoativos na Europa, e seus critérios podem gerar efeitos práticos para projetos que planejam entrar no mercado europeu. Se um protocolo DeFi oferece serviços a usuários europeus ou usa uma entidade dentro da Europa, a divulgação transparente de poderes operacionais e a organização de responsáveis tornam-se mais importantes do que estruturas desenhadas para evitar regulação.\n\nO sinal também é relevante para o mercado coreano. Após a entrada em vigor da lei de proteção de usuários de criptoativos, as responsabilidades de exchanges e empresas aumentaram, enquanto continuam os debates sobre stablecoins, emissão, divulgação e práticas injustas de mercado. Se a Europa ampliar o alcance regulatório com base no controle efetivo em DeFi, as autoridades coreanas podem observar abordagem semelhante. Como cresce o número de usuários locais que depositam ou fornecem liquidez em DeFi estrangeiro em valores equivalentes a milhões ou dezenas de milhões de wones, perdas em estruturas sem responsável claro podem se tornar uma questão maior de proteção ao consumidor.\n\nDo ponto de vista do mercado, projetos DeFi podem enfrentar aumento de custos com revisão jurídica, documentação de governança, redução de poderes administrativos e reforço de divulgações de risco. Por outro lado, critérios mais claros podem reduzir barreiras para investidores institucionais e empresas fintech. O cenário não aponta para a entrada imediata de todo DeFi no MiCA, mas reforça a separação entre descentralização real e serviços do tipo DeFi com uma entidade de gestão. A competitividade futura tende a depender não apenas de rendimento, mas também de estruturas de autoridade transparentes, proteção ao usuário e capacidade de resposta regulatória.",
+      "keywords": [
+        "DeFi",
+        "MiCA",
+        "Malta",
+        "descentralização",
+        "regulação cripto",
+        "Coreia"
+      ],
+      "faq": [
+        {
+          "q": "Qual é o foco da análise de Malta sobre DeFi?",
+          "a": "O foco é verificar se serviços DeFi com controle operacional, governança concentrada, taxas ou intervenção sobre usuários podem ser enquadrados no MiCA."
+        },
+        {
+          "q": "Which figure should readers verify first?",
+          "a": "Start with the published timing, the main figure and the immediate price or indicator move cited in the article."
+        }
+      ]
+    },
+    "de": {
+      "title": "Malta prüft teilweise Einordnung von DeFi unter MiCA und rückt Dezentralisierungsspektrum in den Fokus",
+      "excerpt": "Die maltesische Finanzaufsicht prüft, ob DeFi-Dienste mit faktisch vorhandener Steuerungsinstanz in den MiCA-Rahmen fallen können. Entscheidend ist eine Bewertung von Dezentralisierung als abgestuftes Spektrum statt als Ja-oder-Nein-Frage.",
+      "metaDescription": "Malta prüft, ob DeFi-Bereiche mit tatsächlicher Kontrolle unter MiCA fallen können, und setzt auf ein Spektrum der Dezentralisierung.",
+      "summary": "Die maltesische Finanzaufsicht prüft, ob DeFi-Dienste mit faktisch vorhandener Steuerungsinstanz in den MiCA-Rahmen fallen können. Entscheidend ist eine Bewertung von Dezentralisierung als abgestuftes Spektrum statt als Ja-oder-Nein-Frage. Die Debatte signalisiert eine mögliche Ausweitung europäischer Kryptoregulierung und bietet auch für koreanische DeFi-An",
+      "body": "Die maltesische Finanzaufsicht prüft intensiver, ob bestimmte Bereiche der dezentralen Finanzdienste, DeFi, in den europäischen Kryptorechtsrahmen MiCA einbezogen werden können. Im Kern geht es darum, ob DeFi pauschal als vollständig autonomes Protokoll außerhalb der Regulierung gelten soll oder ob die Regulierungspflicht nach dem tatsächlichen Grad der Einflussnahme bestimmt wird. Dazu zählen Betreiber, Governance-Strukturen, Gebührenmodelle und die Kontrolle über das Frontend. Damit wird Dezentralisierung nicht als einfache Ja-oder-Nein-Frage behandelt, sondern als Konzept auf einer fortlaufenden Skala.\n\nMiCA ist der umfassende Regulierungsrahmen der Europäischen Union für Kryptoassets. Er richtet sich vor allem an zentralisierte Dienstleister in Bereichen wie Emission, Handel, Verwahrung und Vermittlung und soll Anlegerschutz sowie Marktintegrität stärken. Schwieriger ist die Einordnung von DeFi. Dienste, die über Smart Contracts automatisch ausgeführt werden und verteilte Governance beanspruchen, passen nur begrenzt in den klassischen Begriff eines Dienstleisters. In der Praxis gibt es jedoch zahlreiche Angebote, die zwar DeFi heißen, aber ein bestimmtes Entwicklerteam, eine Stiftung, einen Frontend-Betreiber oder eine Struktur zur Gebührenerhebung aufweisen.\n\nDie maltesische Prüfung zielt genau auf diese Grauzone. Ist die Dezentralisierung vollständig, kann die Anwendung regulatorischer Vorgaben begrenzt sein. Wenn aber Nutzerzugang und wesentliche Entscheidungen bei wenigen Akteuren konzentriert sind, steigt die Wahrscheinlichkeit einer Einordnung unter MiCA. Für DeFi-Projekte bedeutet das, dass Tokeninhaberabstimmungen oder Open-Source-Code allein möglicherweise nicht mehr ausreichen, um regulatorische Verantwortung auszuschließen.\n\nDer zentrale Maßstab ist das Spektrum der Dezentralisierung. Bewertet werden können etwa die Befugnis zur Änderung des Protokollcodes, das Vorhandensein von Admin-Schlüsseln, die Kontrolle des Frontends, die Verteilung von Einnahmen, die Konzentration von Governance-Stimmen und der tatsächliche Einfluss auf Nutzervermögen. Selbst wenn ein Smart Contract automatisiert ist, spricht wenig für vollständige Dezentralisierung, wenn eine bestimmte Stelle den Website-Zugang sperren, Gebühren ändern, neue Vermögenswerte listen oder eine Notabschaltung auslösen kann.\n\nKonkret gilt MiCA als einheitlicher Rahmen in allen 27 Mitgliedstaaten der Europäischen Union. Malta war in Europa eine aktive Jurisdiktion bei der Ansiedlung von Kryptounternehmen, sodass dortige Bewertungskriterien praktische Folgen für Projekte haben können, die den Zugang zum EU-Markt vorbereiten. Wenn ein DeFi-Protokoll europäische Nutzer bedient oder eine Gesellschaft in Europa nutzt, werden transparente Offenlegung operativer Befugnisse und klare Verantwortlichkeiten wichtiger als Strukturen zur regulatorischen Umgehung.\n\nAuch für den koreanischen Markt ist das Signal relevant. Nach Inkrafttreten des Gesetzes zum Schutz von Nutzern virtueller Vermögenswerte wurden die Pflichten von Börsen und Unternehmen gestärkt, während Diskussionen über Stablecoins, Emission, Offenlegung und unfaire Handelspraktiken weiterlaufen. Wenn Europa den Regulierungsbereich anhand tatsächlicher Kontrolle in DeFi erweitert, könnten koreanische Behörden einen ähnlichen Ansatz berücksichtigen. Da mehr inländische Nutzer bei ausländischen DeFi-Angeboten Beträge im Gegenwert von mehreren Millionen bis mehreren zehn Millionen Won einzahlen oder Liquidität bereitstellen, können Verluststrukturen ohne klaren Verantwortlichen zu einem größeren Verbraucherschutzthema werden.\n\nFür den Markt könnten DeFi-Projekte höhere Kosten tragen müssen, etwa für rechtliche Prüfungen, Governance-Dokumentation, den Abbau administrativer Befugnisse und stärkere Risikohinweise. Umgekehrt könnten klarere Regeln die Einstiegshürden für institutionelle Anleger und Fintech-Unternehmen senken. Eine sofortige Einbeziehung des gesamten DeFi-Sektors in MiCA zeichnet sich nicht ab. Stärker wird jedoch die Trennung zwischen echter Dezentralisierung und DeFi-ähnlichen Diensten mit steuernder Instanz. Die künftige Wettbewerbsfähigkeit dürfte nicht nur von Renditen abhängen, sondern auch von transparenten Kontrollstrukturen, Nutzerschutz und regulatorischer Reaktionsfähigkeit.",
+      "keywords": [
+        "DeFi",
+        "MiCA",
+        "Malta",
+        "Dezentralisierung",
+        "Kryptoregulierung",
+        "Korea"
+      ],
+      "faq": [
+        {
+          "q": "Was prüft Malta im Zusammenhang mit DeFi und MiCA?",
+          "a": "Geprüft wird, ob DeFi-Dienste mit tatsächlicher Kontrolle, konzentrierter Governance, Gebührenstrukturen oder Frontend-Eingriffen unter MiCA fallen können."
+        },
+        {
+          "q": "Which figure should readers verify first?",
+          "a": "Start with the published timing, the main figure and the immediate price or indicator move cited in the article."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Malte examine l’intégration partielle de DeFi dans MiCA avec une évaluation par spectre",
+      "excerpt": "L’autorité financière maltaise étudie si certains services DeFi disposant d’un organe de gestion effectif peuvent relever de MiCA. Le point clé est d’évaluer la décentralisation comme un spectre progressif, et non comme une condition binair",
+      "metaDescription": "Malte examine si des services DeFi avec contrôle réel peuvent entrer dans MiCA grâce à une analyse graduelle de la décentralisation.",
+      "summary": "L’autorité financière maltaise étudie si certains services DeFi disposant d’un organe de gestion effectif peuvent relever de MiCA. Le point clé est d’évaluer la décentralisation comme un spectre progressif, et non comme une condition binaire. Cette discussion signale un possible élargissement du champ de la régulation européenne des cryptoactifs et sert de r",
+      "body": "L’autorité financière maltaise examine plus activement la possibilité d’intégrer certaines parties de la finance décentralisée, DeFi, dans le cadre européen des cryptoactifs MiCA. La question centrale consiste à savoir si DeFi doit être considéré uniquement comme un protocole totalement autonome situé hors du champ réglementaire, ou si l’applicabilité des règles doit dépendre du degré réel d’intervention. Les éléments observés peuvent inclure l’existence d’opérateurs, la gouvernance, la structure des frais et le contrôle du frontend. Cette approche indique clairement que la décentralisation est traitée comme une notion continue, et non comme une réponse limitée à oui ou non.\n\nMiCA est le cadre réglementaire global de l’Union européenne pour les cryptoactifs. Il vise principalement les prestataires centralisés liés à l’émission, à l’échange, à la conservation et à l’intermédiation, avec pour objectif de renforcer la protection des investisseurs et l’intégrité du marché. La difficulté concerne DeFi. Les services exécutés automatiquement par des contrats intelligents et présentés comme gouvernés de façon distribuée correspondent mal à la notion traditionnelle de prestataire. Pourtant, sur le marché, de nombreux cas portent le nom DeFi tout en conservant une équipe de développement précise, une fondation, un opérateur de frontend ou un mécanisme de perception de frais.\n\nL’examen mené à Malte cible cette zone grise. Lorsque la décentralisation est complète, l’application réglementaire peut être limitée. Mais si les points de contact avec les utilisateurs et les décisions essentielles sont concentrés entre quelques acteurs, la possibilité d’appliquer MiCA augmente. Cela signifie qu’un projet DeFi pourrait plus difficilement échapper à ses responsabilités réglementaires en mettant seulement en avant le vote des détenteurs de jetons ou du code open source.\n\nLe critère majeur est le spectre de décentralisation. L’évaluation peut porter sur le pouvoir de modifier le code du protocole, l’existence de clés administrateur, le contrôle du frontend, la répartition des revenus, la concentration des votes de gouvernance et l’influence réelle sur les actifs des utilisateurs. Même si un contrat intelligent est automatisé, il est difficile de parler de décentralisation complète lorsqu’une entité donnée peut bloquer l’accès au site, ajuster les frais, lister de nouveaux actifs ou déclencher une interruption d’urgence.\n\nMiCA s’applique comme cadre unique dans les 27 États membres de l’Union européenne. Malte a été une juridiction active dans l’accueil d’entreprises de cryptoactifs en Europe, ce qui donne à ses critères une portée pratique pour les projets préparant leur accès au marché européen. Si un protocole DeFi fournit des services à des utilisateurs européens ou s’appuie sur une entité située en Europe, la divulgation transparente des pouvoirs opérationnels et la clarification des responsabilités deviennent plus importantes que les structures destinées à éviter la régulation.\n\nLe signal compte aussi pour le marché coréen. Depuis l’entrée en vigueur de la loi sur la protection des utilisateurs de cryptoactifs, les responsabilités des plateformes et des entreprises se sont renforcées, tandis que les discussions continuent sur les stablecoins, l’émission, la divulgation et les pratiques de marché déloyales. Si l’Europe élargit son périmètre réglementaire en se fondant sur le contrôle réel dans DeFi, les autorités coréennes pourraient s’inspirer d’une approche similaire. Comme davantage d’utilisateurs locaux déposent des montants équivalents à plusieurs millions ou dizaines de millions de wons dans des services DeFi étrangers ou participent à la fourniture de liquidité, les pertes sans responsable clairement identifié peuvent devenir un enjeu plus important de protection des consommateurs.\n\nPour le marché, les projets DeFi pourraient supporter des coûts plus élevés liés aux analyses juridiques, à la documentation de gouvernance, à la réduction des pouvoirs administratifs et au renforcement des informations sur les risques. À l’inverse, des critères plus clairs peuvent abaisser les barrières pour les investisseurs institutionnels et les entreprises fintech. L’ensemble de DeFi ne semble pas devoir entrer immédiatement dans MiCA, mais le mouvement visant à distinguer la vraie décentralisation des services de type DeFi avec organe de gestion se renforce. La compétitivité future dépendra non seulement du rendement, mais aussi de structures de contrôle transparentes, de dispositifs de protection des utilisateurs et de la capacité de réponse réglementaire.",
+      "keywords": [
+        "DeFi",
+        "MiCA",
+        "Malte",
+        "décentralisation",
+        "régulation crypto",
+        "Corée"
+      ],
+      "faq": [
+        {
+          "q": "Que signifie l’évaluation de DeFi comme un spectre?",
+          "a": "Elle consiste à mesurer le niveau réel de contrôle, de gouvernance, de frais, de frontend et d’influence sur les actifs au lieu de classer DeFi comme simplement centralisé ou décentralisé."
+        },
+        {
+          "q": "Which figure should readers verify first?",
+          "a": "Start with the published timing, the main figure and the immediate price or indicator move cited in the article."
+        }
+      ]
+    },
+    "ar": {
+      "title": "مالطا تدرس إدخال أجزاء من التمويل اللامركزي ضمن MiCA مع صعود تقييم اللامركزية كطيف متدرج",
+      "excerpt": "يدرس المنظم المالي في مالطا ما إذا كانت بعض خدمات التمويل اللامركزي التي تضم جهة إدارة فعلية يمكن أن تدخل ضمن إطار MiCA. النقطة المحورية هي تقييم اللامركزية كطيف متدرج لا كحالة ثنائية بين موجودة وغير موجودة.",
+      "metaDescription": "مالطا تراجع إمكان إخضاع خدمات DeFi ذات السيطرة الفعلية لإطار MiCA، مع التركيز على تقييم اللامركزية كطيف.",
+      "summary": "يدرس المنظم المالي في مالطا ما إذا كانت بعض خدمات التمويل اللامركزي التي تضم جهة إدارة فعلية يمكن أن تدخل ضمن إطار MiCA. جوهر النقاش هو التعامل مع اللامركزية كطيف من المراحل، لا كمسألة وجود أو عدم وجود. هذا النقاش يشير إلى احتمال اتساع نطاق تنظيم الأصول المشفرة في أوروبا، ويشكل مرجعا لمشغلي DeFi والمستثمرين في كوريا.",
+      "body": "يدرس المنظم المالي في مالطا بصورة أكثر جدية إمكانية إدخال بعض مجالات التمويل اللامركزي، أو DeFi، ضمن MiCA، وهو الإطار التنظيمي للأصول المشفرة في الاتحاد الأوروبي. السؤال المركزي هو ما إذا كان ينبغي النظر إلى DeFi فقط كبروتوكول مستقل تماما خارج نطاق التنظيم، أم ينبغي تحديد خضوعه التنظيمي وفق درجة التدخل الفعلية من جانب المشغلين، والحوكمة، وهيكل الرسوم، والسيطرة على الواجهة الأمامية. هذه المراجعة توضح أن اللامركزية لا تعامل كمسألة بسيطة من نعم أو لا، بل كمفهوم يقع على خط متصل.\n\nMiCA هو إطار شامل للأصول المشفرة أعده الاتحاد الأوروبي. يستهدف في الأساس مزودي الخدمات المركزيين المرتبطين بإصدار الأصول المشفرة وتداولها وحفظها والوساطة فيها، مع التركيز على حماية المستثمرين وتعزيز سلامة السوق. المشكلة تظهر مع DeFi. فالخدمات التي تنفذ تلقائيا عبر العقود الذكية وتقدم نفسها على أنها تعمل بحوكمة موزعة لا تنسجم بسهولة مع مفهوم المشغل التجاري التقليدي. لكن في السوق الفعلية، توجد حالات كثيرة تحمل اسم DeFi بينما تتضمن فريق تطوير محددا، أو مؤسسة، أو مشغلا للواجهة الأمامية، أو هيكلا لتحصيل الرسوم.\n\nتستهدف مراجعة مالطا هذه المنطقة الرمادية تحديدا. إذا كانت اللامركزية كاملة، فقد يكون تطبيق التنظيم محدودا. أما إذا كانت نقاط اتصال المستخدمين والقرارات الأساسية مركزة لدى عدد قليل من الأطراف، فإن احتمال تطبيق MiCA يصبح أكبر. وهذا يعني أن مشاريع DeFi قد تجد صعوبة أكبر في الابتعاد عن المسؤولية التنظيمية بمجرد الإشارة إلى تصويت حاملي الرموز أو الكود المفتوح.\n\nالكلمة المحورية في هذا النقاش هي طيف اللامركزية. قد تشمل عناصر التقييم صلاحية تعديل كود البروتوكول، ووجود مفاتيح إدارية، والسيطرة على تشغيل الواجهة الأمامية، وهيكل توزيع العوائد، ودرجة تركيز التصويت في الحوكمة، والتأثير الفعلي في أصول المستخدمين. فعلى سبيل المثال، حتى إذا كان العقد الذكي مؤتمتا، فمن الصعب اعتبار الخدمة لامركزية بالكامل إذا كان طرف محدد قادرا على حجب الوصول إلى الموقع، أو تعديل الرسوم، أو إدراج أصول جديدة، أو تفعيل صلاحية إيقاف طارئ.\n\nمن حيث الأرقام المحددة، يعد MiCA إطارا تنظيميا واحدا ينطبق على جميع دول الاتحاد الأوروبي البالغ عددها 27 دولة. وكانت مالطا من الولايات القضائية النشطة في جذب شركات الأصول المشفرة داخل أوروبا، لذلك قد يكون لمعاييرها أثر عملي في المشاريع التي تستعد لدخول سوق الاتحاد الأوروبي. إذا كان بروتوكول DeFi يقدم خدمات لمستخدمين أوروبيين أو يستخدم كيانا قانونيا داخل أوروبا، فإن الإفصاح الشفاف عن الصلاحيات التشغيلية وتحديد الجهة المسؤولة يصبحان أكثر أهمية من الهياكل المصممة لتجنب التنظيم.\n\nللإشارة أثر مهم أيضا على السوق الكورية. في كوريا، بعد بدء تطبيق قانون حماية مستخدمي الأصول الافتراضية، تعززت مسؤوليات منصات التداول والمشغلين، بينما تستمر النقاشات حول العملات المستقرة والإصدار والإفصاح وقواعد التداول غير العادل. إذا وسعت أوروبا نطاق التنظيم بناء على السيطرة الفعلية في DeFi، فقد تدرس السلطات الكورية نهجا مشابها. ومع ازدياد الحالات التي يودع فيها مستخدمون محليون مبالغ في DeFi خارجي تعادل من عدة ملايين إلى عشرات الملايين من الوون، أو يشاركون في توفير السيولة، فقد تصبح هياكل الخسارة التي تفتقر إلى جهة مسؤولة واضحة قضية أكبر في حماية المستهلك.\n\nمن جانب السوق، قد تواجه مشاريع DeFi عبئا أعلى من حيث التكاليف. فقد تصبح المراجعة القانونية، وتوثيق الحوكمة، وتقليص صلاحيات المديرين، وتعزيز الإفصاح عن المخاطر أمورا ضرورية. وفي المقابل، إذا أصبحت المعايير التنظيمية أكثر وضوحا، فقد تنخفض حواجز مشاركة المستثمرين المؤسسيين وشركات التكنولوجيا المالية. ولكي توسع DeFi اتصالها بالنظام المالي المنظم، عليها أن تنتقل من إعلان اللامركزية إلى إثبات بنية السيطرة الفعلية.\n\nالصورة المستقبلية واضحة. لا يعني ذلك أن DeFi بأكمله سيدخل فورا ضمن MiCA. ومع ذلك، تزداد قوة التوجه الهادف إلى التمييز بين اللامركزية الحقيقية والخدمات الشبيهة بDeFi التي توجد فيها جهة إدارة. مراجعة مالطا تكشف السؤال التالي للتنظيم الأوروبي. ومن المتوقع أن تتحدد قدرة مشاريع DeFi على المنافسة ليس بالعائد فقط، بل أيضا ببنية صلاحيات شفافة، وآليات حماية للمستخدمين، وقدرة على التعامل مع التنظيم.",
+      "keywords": [
+        "DeFi",
+        "MiCA",
+        "مالطا",
+        "اللامركزية",
+        "تنظيم العملات المشفرة"
+      ],
+      "faq": [
+        {
+          "q": "ما القضية الأساسية في مراجعة مالطا لخدمات DeFi؟",
+          "a": "القضية الأساسية هي ما إذا كانت خدمات DeFi ذات السيطرة الفعلية أو جهة الإدارة يمكن أن تدخل ضمن MiCA عبر تقييم اللامركزية كطيف متدرج."
+        },
+        {
+          "q": "Which figure should readers verify first?",
+          "a": "Start with the published timing, the main figure and the immediate price or indicator move cited in the article."
+        }
+      ]
+    },
+    "hi": {
+      "title": "माल्टा DeFi के कुछ हिस्सों को MiCA में लाने पर विचार कर रहा है, विकेंद्रीकरण के स्पेक्ट्रम मूल्यांकन पर जोर",
+      "excerpt": "माल्टा का वित्तीय नियामक यह देख रहा है कि DeFi सेवाओं के वे हिस्से, जहां व्यवहार में प्रबंधन करने वाली इकाई मौजूद है, MiCA ढांचे में लाए जा सकते हैं या नहीं। मुख्य बात विकेंद्रीकरण को हां या नहीं के बजाय चरणबद्ध स्पेक्ट्रम के रूप में आंकना ",
+      "metaDescription": "माल्टा उन DeFi सेवाओं को MiCA में लाने की संभावना देख रहा है जिनमें वास्तविक नियंत्रण मौजूद है, और विकेंद्रीकरण को स्पेक्ट्रम की तरह परख रहा है।",
+      "summary": "माल्टा का वित्तीय नियामक यह देख रहा है कि DeFi सेवाओं के वे हिस्से, जहां व्यवहार में प्रबंधन करने वाली इकाई मौजूद है, MiCA नियामकीय ढांचे में लाए जा सकते हैं या नहीं। मुख्य मुद्दा विकेंद्रीकरण को मौजूद या अनुपस्थित मानने के बजाय चरणबद्ध स्पेक्ट्रम के रूप में मूल्यांकित करना है। यह चर्चा यूरोप में क्रिप्टो विनियमन के दायरे के विस्तार का संकेत देती है और कोरिय",
+      "body": "माल्टा का वित्तीय नियामक विकेंद्रीकृत वित्त, यानी DeFi, के कुछ क्षेत्रों को यूरोपीय संघ के क्रिप्टो-एसेट नियामकीय ढांचे MiCA में लाने की संभावना पर गंभीरता से विचार कर रहा है। मूल प्रश्न यह है कि DeFi को नियमन से बाहर स्थित पूरी तरह स्वायत्त प्रोटोकॉल के रूप में ही देखा जाए, या ऑपरेटर, गवर्नेंस, शुल्क संरचना और फ्रंट-एंड नियंत्रण जैसे वास्तविक हस्तक्षेप के स्तर के आधार पर इसकी नियामकीय स्थिति तय की जाए। यह समीक्षा स्पष्ट करती है कि विकेंद्रीकरण को केवल हां या नहीं के प्रश्न के रूप में नहीं, बल्कि एक निरंतर रेखा पर मौजूद अवधारणा के रूप में देखा जा रहा है।\n\nMiCA यूरोपीय संघ द्वारा तैयार किया गया व्यापक क्रिप्टो-एसेट नियामकीय ढांचा है। इसका मुख्य लक्ष्य क्रिप्टो-एसेट जारी करने, कारोबार, कस्टडी, मध्यस्थता और इसी तरह की केंद्रीकृत सेवाओं के प्रदाताओं पर है, ताकि निवेशक संरक्षण और बाजार की सेहत मजबूत हो सके। समस्या DeFi से पैदा होती है। स्मार्ट कॉन्ट्रैक्ट के जरिए अपने आप चलने वाली और वितरित गवर्नेंस का दावा करने वाली सेवाएं पारंपरिक कारोबारी संचालक की अवधारणा में आसानी से फिट नहीं बैठतीं। फिर भी वास्तविक बाजार में ऐसे कई मामले हैं जहां नाम DeFi है, लेकिन एक विशेष डेवलपमेंट टीम, फाउंडेशन, फ्रंट-एंड ऑपरेटर या शुल्क वसूलने की संरचना मौजूद रहती है।\n\nमाल्टा की यह समीक्षा इसी धुंधले क्षेत्र को निशाना बनाती है। यदि विकेंद्रीकरण पूरा है, तो नियमन का लागू होना सीमित हो सकता है। लेकिन यदि उपयोगकर्ता संपर्क बिंदु और मुख्य निर्णय थोड़े से पक्षों के हाथों में केंद्रित हैं, तो MiCA लागू होने की संभावना बढ़ जाती है। इसका अर्थ है कि DeFi परियोजनाओं के लिए केवल टोकन धारक मतदान या ओपन-सोर्स कोड का हवाला देकर नियामकीय जिम्मेदारी से दूर रहना कठिन हो सकता है।\n\nइस चर्चा का मुख्य शब्द विकेंद्रीकरण स्पेक्ट्रम है। मूल्यांकन के तत्वों में प्रोटोकॉल कोड बदलने की शक्ति, प्रशासक कुंजियों का अस्तित्व, फ्रंट-एंड संचालन पर नियंत्रण, आय वितरण संरचना, गवर्नेंस मतदान का संकेंद्रण और उपयोगकर्ता संपत्तियों पर वास्तविक प्रभाव शामिल हो सकते हैं। उदाहरण के लिए, यदि स्मार्ट कॉन्ट्रैक्ट स्वचालित है, तब भी किसी विशिष्ट पक्ष के पास वेबसाइट पहुंच रोकने, शुल्क बदलने, नई संपत्ति सूचीबद्ध करने या आपातकालीन रोक लगाने की शक्ति है, तो उसे पूर्ण विकेंद्रीकरण मानना कठिन होगा।\n\nठोस संख्या के स्तर पर, MiCA यूरोपीय संघ के सभी 27 सदस्य देशों पर लागू होने वाला एकल नियामकीय ढांचा है। माल्टा यूरोप में क्रिप्टो-एसेट कारोबारों को आकर्षित करने में सक्रिय रहा है, इसलिए वहां के मानदंड उन परियोजनाओं पर व्यावहारिक प्रभाव डाल सकते हैं जो यूरोपीय संघ के बाजार में प्रवेश की तैयारी कर रही हैं। यदि कोई DeFi प्रोटोकॉल यूरोपीय उपयोगकर्ताओं को सेवा देता है या यूरोप के भीतर किसी कानूनी इकाई का उपयोग करता है, तो संचालन अधिकारों का पारदर्शी खुलासा और जिम्मेदार पक्षों की स्पष्ट पहचान, नियमन से बचने वाली संरचना से अधिक महत्वपूर्ण हो जाएगी।\n\nकोरियाई बाजार के लिए भी यह संकेत छोटा नहीं है। कोरिया में वर्चुअल एसेट यूजर प्रोटेक्शन एक्ट लागू होने के बाद एक्सचेंजों और संचालकों की जिम्मेदारी मजबूत हुई है, और स्टेबलकॉइन, जारीकरण, खुलासा तथा अनुचित कारोबार नियमों पर चर्चा जारी है। यदि यूरोप DeFi में वास्तविक नियंत्रण को आधार बनाकर नियामकीय दायरा बढ़ाता है, तो कोरियाई अधिकारी भी समान दृष्टिकोण पर विचार कर सकते हैं। खासकर जब अधिक घरेलू उपयोगकर्ता विदेशी DeFi में कोरियाई वोन के हिसाब से कई मिलियन से लेकर दसियों मिलियन वोन तक जमा कर रहे हैं या लिक्विडिटी सप्लाई में भाग ले रहे हैं, तब अस्पष्ट जिम्मेदारी वाली हानि संरचनाएं उपभोक्ता संरक्षण का बड़ा मुद्दा बन सकती हैं।\n\nबाजार के लिहाज से DeFi परियोजनाओं पर लागत का बोझ बढ़ सकता है। कानूनी समीक्षा, गवर्नेंस दस्तावेजीकरण, प्रशासक अधिकारों में कमी और जोखिम खुलासे को मजबूत करना आवश्यक हो सकता है। दूसरी ओर, यदि नियामकीय मानक स्पष्ट होते हैं, तो संस्थागत निवेशकों और फिनटेक कंपनियों की भागीदारी बाधा कम हो सकती है। DeFi को यदि विनियमित वित्तीय व्यवस्था से अपना संपर्क बढ़ाना है, तो उसे विकेंद्रीकरण की घोषणा से आगे बढ़कर वास्तविक नियंत्रण संरचना साबित करनी होगी।\n\nपरिदृश्य स्पष्ट है। इसका अर्थ यह नहीं कि पूरा DeFi तुरंत MiCA के भीतर आ जाएगा। फिर भी वास्तविक विकेंद्रीकरण और ऐसे DeFi-प्रकार सेवाओं को अलग करने की कोशिश मजबूत हो रही है जिनमें प्रबंधन करने वाला पक्ष मौजूद है। माल्टा की समीक्षा यूरोपीय नियमन के अगले प्रश्न को दिखाती है। आगे DeFi परियोजनाओं की प्रतिस्पर्धी क्षमता केवल प्रतिफल पर ���हीं, बल्कि पारदर्शी अधिकार संरचना, उपयोगकर्ता संरक्षण व्यवस्था और नियामकीय प्रतिक्रिया क्षमता पर भी निर्भर रहने की संभावना है।",
+      "keywords": [
+        "DeFi",
+        "MiCA",
+        "माल्टा",
+        "विकेंद्रीकरण",
+        "क्रिप्टो नियमन"
+      ],
+      "faq": [
+        {
+          "q": "माल्टा की DeFi समीक्षा का मुख्य मुद्दा क्या है?",
+          "a": "मुख्य मुद्दा यह है कि वास्तविक नियंत्रण या प्रबंधन इकाई वाली DeFi सेवाओं को विकेंद्रीकरण स्पेक्ट्रम के आधार पर MiCA में लाया जा सकता है या नहीं।"
+        },
+        {
+          "q": "Which figure should readers verify first?",
+          "a": "Start with the published timing, the main figure and the immediate price or indicator move cited in the article."
+        }
+      ]
+    },
+    "id": {
+      "title": "Malta Kaji Memasukkan Sebagian DeFi ke MiCA, Penilaian Spektrum Desentralisasi Menguat",
+      "excerpt": "Regulator keuangan Malta sedang mengkaji apakah area DeFi yang memiliki pihak pengelola secara faktual dapat dimasukkan ke kerangka MiCA. Intinya adalah menilai desentralisasi sebagai spektrum bertahap, bukan sekadar ada atau tidak ada.",
+      "metaDescription": "Malta mengkaji apakah layanan DeFi dengan kontrol faktual dapat masuk MiCA, dengan desentralisasi dinilai sebagai spektrum.",
+      "summary": "Regulator keuangan Malta sedang mengkaji apakah area DeFi yang memiliki pihak pengelola secara faktual dapat dimasukkan ke kerangka MiCA. Pokoknya adalah menilai desentralisasi sebagai spektrum bertahap, bukan sebagai kondisi biner. Diskusi ini menjadi sinyal perluasan cakupan regulasi aset kripto Eropa dan dapat menjadi acuan bagi pelaku serta investor DeFi",
+      "body": "Regulator keuangan Malta sedang meninjau secara lebih serius kemungkinan memasukkan sebagian area decentralized finance, atau DeFi, ke dalam MiCA, kerangka regulasi aset kripto Uni Eropa. Pertanyaan utamanya adalah apakah DeFi harus dipandang hanya sebagai protokol otonom sepenuhnya di luar regulasi, atau apakah status regulasinya perlu ditentukan berdasarkan tingkat campur tangan nyata dari operator, tata kelola, struktur biaya, dan kontrol front-end. Kajian ini menegaskan bahwa desentralisasi tidak diperlakukan sebagai persoalan ya atau tidak, tetapi sebagai konsep yang berada pada garis berkelanjutan.\n\nMiCA adalah kerangka regulasi aset kripto komprehensif yang disiapkan Uni Eropa. Fokus utamanya adalah penyedia layanan terpusat dalam penerbitan, perdagangan, kustodi, perantara, dan aktivitas sejenis, dengan tujuan meningkatkan perlindungan investor dan kesehatan pasar. Masalahnya muncul pada DeFi. Layanan yang berjalan otomatis melalui smart contract dan mengusung tata kelola terdistribusi tidak mudah masuk ke dalam konsep tradisional tentang pelaku usaha. Namun di pasar nyata, tidak sedikit layanan yang disebut DeFi tetap memiliki tim pengembang tertentu, yayasan, operator front-end, atau struktur penerimaan biaya.\n\nKajian Malta menargetkan wilayah abu-abu ini. Jika desentralisasi benar-benar penuh, penerapan regulasi dapat terbatas. Namun jika titik akses pengguna dan keputusan kunci terkonsentrasi pada sedikit pihak, kemungkinan penerapan MiCA menjadi lebih besar. Ini berarti proyek DeFi dapat semakin sulit menghindari tanggung jawab regulasi hanya dengan menunjuk pada voting pemegang token atau kode sumber terbuka.\n\nKata kunci dalam diskusi ini adalah spektrum desentralisasi. Hal yang dapat dinilai mencakup wewenang mengubah kode protokol, keberadaan kunci administrator, kontrol atas operasi front-end, struktur pembagian pendapatan, konsentrasi voting tata kelola, dan pengaruh nyata terhadap aset pengguna. Misalnya, meskipun smart contract sudah otomatis, suatu layanan sulit disebut sepenuhnya terdesentralisasi jika pihak tertentu dapat memblokir akses situs web, menyesuaikan biaya, mencatatkan aset baru, atau mengaktifkan penghentian darurat.\n\nSecara angka, MiCA adalah kerangka regulasi tunggal yang berlaku di seluruh 27 negara anggota Uni Eropa. Malta merupakan yurisdiksi yang aktif menarik pelaku usaha aset kripto di Eropa, sehingga kriteria yang dipakai di sana dapat berdampak praktis bagi proyek yang bersiap masuk pasar Uni Eropa. Jika protokol DeFi menyediakan layanan bagi pengguna Eropa atau menggunakan badan hukum di Eropa, pengungkapan transparan atas kewenangan operasional dan penataan pihak yang bertanggung jawab menjadi lebih penting dibanding struktur yang dirancang untuk menghindari regulasi.\n\nSinyal ini juga penting bagi pasar Korea. Di Korea, setelah berlakunya Undang-Undang Perlindungan Pengguna Aset Virtual, tanggung jawab bursa dan operator menguat, sementara pembahasan tentang stablecoin, penerbitan, pengungkapan, dan aturan perdagangan tidak adil terus berlanjut. Jika Eropa memperluas cakupan regulasi berdasarkan kontrol aktual dalam DeFi, otoritas Korea juga dapat mempertimbangkan pendekatan serupa. Terutama karena semakin banyak pengguna domestik menempatkan dana di DeFi luar negeri dalam nilai setara beberapa juta hingga puluhan juta won, atau ikut menyediakan likuiditas, struktur kerugian tanpa pihak bertanggung jawab yang jelas dapat berkembang menjadi isu perlindungan konsumen yang lebih besar.\n\nDari sisi pasar, proyek DeFi dapat menghadapi beban biaya yang meningkat. Tinjauan hukum, dokumentasi tata kelola, pengurangan kewenangan administrator, dan penguatan pengungkapan risiko mungkin diperlukan. Sebaliknya, jika standar regulasi menjadi lebih jelas, hambatan partisipasi bagi investor institusional dan perusahaan fintech dapat menurun. Agar DeFi dapat memperluas titik temu dengan sistem keuangan teregulasi, proyek perlu bergerak dari sekadar menyatakan desentralisasi menuju pembuktian struktur kontrol yang sebenarnya.\n\nArah ke depan cukup jelas. Ini bukan arus yang langsung memasukkan seluruh DeFi ke dalam MiCA. Namun gerakan untuk membedakan desentralisasi sejati dari layanan bergaya DeFi yang memiliki pihak pengelola semakin kuat. Kajian Malta menunjukkan pertanyaan berikutnya dalam regulasi Eropa. Daya saing proyek DeFi ke depan diperkirakan tidak hanya ditentukan oleh imbal hasil, tetapi juga oleh struktur kewenangan yang transparan, perangkat perlindungan pengguna, dan kemampuan merespons regulasi.",
+      "keywords": [
+        "DeFi",
+        "MiCA",
+        "Malta",
+        "desentralisasi",
+        "regulasi kripto"
+      ],
+      "faq": [
+        {
+          "q": "Apa fokus utama kajian Malta tentang DeFi?",
+          "a": "Fokus utamanya adalah apakah layanan DeFi dengan kontrol aktual atau pihak pengelola dapat masuk ke MiCA melalui penilaian desentralisasi sebagai spektrum."
+        },
+        {
+          "q": "Which figure should readers verify first?",
+          "a": "Start with the published timing, the main figure and the immediate price or indicator move cited in the article."
         }
       ]
     }
