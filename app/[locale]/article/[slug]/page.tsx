@@ -4,6 +4,7 @@ import { defaultLocale, type Locale } from '@/i18n';
 import { SITE_URL, articleMetadata, breadcrumbJsonLd, faqJsonLd, newsArticleJsonLd } from '@/lib/seo';
 import { ArticleCard } from '@/components/ArticleCard';
 import { AffiliateShowcase } from '@/components/AffiliateShowcase';
+import { ArticleExperienceTracker } from '@/components/ArticleExperienceTracker';
 import { getTranslations } from 'next-intl/server';
 import { channel } from '@/channel.config';
 import { channelEditorial, channelLabel, getChannelLocale } from '@/lib/channel-locale';
@@ -77,6 +78,7 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
 
   return (
     <article>
+      <ArticleExperienceTracker articleSlug={a.slug} articleCategory={cat} locale={params.locale} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(newsArticleJsonLd(a, params.locale)) }} />
       <script
         type="application/ld+json"
@@ -117,6 +119,10 @@ export default async function ArticlePage({ params }: { params: { locale: Locale
           </div>
 
           <div className="np-art">
+            <div className="article-lead-commerce">
+              <AffiliateShowcase locale={params.locale} placement="article-lead" />
+            </div>
+
             <div className="np-body" dangerouslySetInnerHTML={{ __html: bodyHtml }} />
 
             <div className="article-ad-break">

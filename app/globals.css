@@ -129,6 +129,7 @@ a:hover { text-decoration: none; }
 .article-rail-link strong { display: block; margin-top: 5px; font-family: var(--serif); font-size: 15.5px; line-height: 1.36; color: var(--ink); }
 .article-rail-link:hover strong { color: var(--accent); }
 .article-ad-break { max-width: 680px; margin: 34px auto 30px; }
+.article-lead-commerce { max-width: 680px; margin: 26px auto 30px; }
 .article-bottom-news { max-width: 1180px; margin: 44px auto 0; padding-top: 6px; }
 .article-bottom-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 
@@ -151,6 +152,8 @@ a:hover { text-decoration: none; }
   .article-shell { grid-template-columns: 1fr; gap: 28px; }
   .article-rail { position: static; max-width: 760px; width: 100%; margin: 28px auto 0; }
   .article-bottom-news { max-width: 760px; }
+  .article-ad-break,
+  .article-lead-commerce { max-width: 100%; }
   .article-bottom-grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
   .np-fcols { grid-template-columns: 1fr 1fr; }
   .np-mast .logo { font-size: 34px; }
@@ -179,6 +182,10 @@ a:hover { text-decoration: none; }
 .affiliate-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; }
 .affiliate-grid-compact { grid-template-columns: 1fr; }
 .affiliate-media-frame { display: flex; justify-content: center; margin: 12px 0; }
+.affiliate-module-placement-article-lead { text-align: center; border-top: 2px solid var(--ink); }
+.affiliate-module-placement-article-lead .affiliate-module-header { max-width: 600px; margin: 0 auto 14px; }
+.affiliate-module-placement-article-lead .affiliate-grid { max-width: 520px; margin: 0 auto; }
+.affiliate-module-placement-article-lead .affiliate-card { text-align: left; min-height: auto; }
 .affiliate-module-placement-article { text-align: center; }
 .affiliate-module-placement-article .affiliate-module-header { max-width: 560px; margin: 0 auto 14px; }
 .affiliate-module-placement-article .affiliate-grid { max-width: 520px; margin: 0 auto; }

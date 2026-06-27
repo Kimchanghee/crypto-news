@@ -4,6 +4,7 @@ type Props = {
   format?: 'banner' | 'native' | 'social' | 'popunder';
   size?: { w: number; h: number };
   className?: string;
+  slotId?: string;
 };
 
 const DEFAULT_ADSTERRA_KEY = '3e4bce1484f612934ea3087016160d51';
@@ -40,7 +41,7 @@ function buildOptionsScript(key: string, width: number, height: number) {
   return `atOptions = {'key':'${key}','format':'iframe','height':${height},'width':${width},'params':{}};`;
 }
 
-export function AdSlot({ network, zoneId, size, className }: Props) {
+export function AdSlot({ network, zoneId, size, className, slotId }: Props) {
   if (network !== 'adsterra') return null;
 
   const width = size?.w ?? 300;
@@ -51,6 +52,7 @@ export function AdSlot({ network, zoneId, size, className }: Props) {
   return (
     <div
       data-adsterra-slot="true"
+      data-ad-slot-id={slotId}
       style={{ display: 'block', margin: '0 auto', maxWidth: '100%', overflow: 'hidden', width, minHeight: height }}
       className={className}
       suppressHydrationWarning

@@ -4,7 +4,7 @@ import { AdSlot } from '@/components/AdSlot';
 import { CoupangBanner } from '@/components/CoupangBanner';
 import { channelLabel, getChannelLocale } from '@/lib/channel-locale';
 
-type Placement = 'sidebar' | 'article';
+type Placement = 'sidebar' | 'article-lead' | 'article';
 
 type Props = {
   locale: Locale;
@@ -190,10 +190,19 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
 
   const site = getChannelLocale(locale);
   const compact = placement === 'sidebar';
-  const hasAdsterra = true;
+  const bannerWidth = placement === 'article-lead' ? 680 : 300;
+  const bannerHeight = placement === 'article-lead' ? 140 : 250;
+  const bannerTemplate = placement === 'article-lead' ? 'banner' : 'carousel';
+  const affiliatePlacement = placement === 'sidebar' ? 'sidebar' : placement === 'article-lead' ? 'article-lead' : 'article-bottom';
+  const hasAdsterra = placement === 'article';
 
   return (
-    <section className={`affiliate-module affiliate-module-placement-${placement} ${compact ? 'affiliate-module-compact' : ''}`} aria-label={copy.title}>
+    <section
+      className={`affiliate-module affiliate-module-placement-${placement} ${compact ? 'affiliate-module-compact' : ''}`}
+      aria-label={copy.title}
+      data-affiliate-module="true"
+      data-affiliate-placement={affiliatePlacement}
+    >
       <div className="affiliate-module-header">
         <p className="affiliate-eyebrow">{copy.eyebrow}</p>
         <h2 className="affiliate-title">{copy.title}</h2>
@@ -201,7 +210,13 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
       </div>
 
       <div className="affiliate-media-frame">
-        <CoupangBanner subId={channel.id || ''} />
+        <CoupangBanner
+          subId={`${channel.id || 'channel'}-${affiliatePlacement}`}
+          width={bannerWidth}
+          height={bannerHeight}
+          template={bannerTemplate}
+          loading={placement === 'article-lead' ? 'eager' : 'lazy'}
+        />
       </div>
 
       <div className={`affiliate-grid ${compact ? 'affiliate-grid-compact' : ''}`}>
@@ -212,6 +227,8 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
             target="_blank"
             rel="noopener noreferrer nofollow sponsored"
             className="affiliate-card"
+            data-affiliate-network={offer.id}
+            data-affiliate-placement={affiliatePlacement}
           >
             <div className="affiliate-card-top">
               <span className="affiliate-brand">{offer.label}</span>
@@ -227,7 +244,13 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
       {placement === 'article' && hasAdsterra && (
         <div className="safe-inline-adsterra-news">
           <p>{channelLabel('advertisement', locale)}</p>
-          <AdSlot network="adsterra" format="banner" size={{ w: 300, h: 250 }} className="safe-inline-adsterra-frame" />
+          <AdSlot
+            network="adsterra"
+            format="banner"
+            size={{ w: 300, h: 250 }}
+            className="safe-inline-adsterra-frame"
+            slotId="article-bottom-inline"
+          />
         </div>
       )}
 

@@ -6,6 +6,7 @@ import { Footer } from '@/components/Footer';
 import { MGIDLoader } from '@/components/MGIDLoader';
 import { AdsterraPopunder } from '@/components/AdsterraPopunder';
 import { AdsterraSocialBar } from '@/components/AdsterraSocialBar';
+import { AnalyticsPageView } from '@/components/AnalyticsPageView';
 import { locales, rtlLocales, type Locale } from '@/i18n';
 import { SITE_URL, alternateLanguages, organizationJsonLd, websiteJsonLd } from '@/lib/seo';
 import { getChannelLocale } from '@/lib/channel-locale';
@@ -78,10 +79,17 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={isRTL ? 'rtl' : 'ltr'}>
       <head>
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://ads-partners.coupang.com" />
+        <link rel="preconnect" href="https://molecularshindy.com" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://ads-partners.coupang.com" />
+        <link rel="dns-prefetch" href="https://molecularshindy.com" />
+        <link rel="dns-prefetch" href="https://clicks.pipaffiliates.com" />
         <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`} />
         <script
           dangerouslySetInnerHTML={{
-            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_MEASUREMENT_ID}',{page_path:window.location.pathname});`,
+            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_MEASUREMENT_ID}',{send_page_view:false,page_path:window.location.pathname});`,
           }}
         />
       </head>
@@ -95,6 +103,7 @@ export default async function LocaleLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd(locale)) }}
         />
         <NextIntlClientProvider messages={messages}>
+          <AnalyticsPageView locale={locale} />
           <Header locale={locale} />
           <main style={{ maxWidth: 1200, margin: '0 auto', padding: '24px' }}>{children}</main>
           <Footer locale={locale} />
