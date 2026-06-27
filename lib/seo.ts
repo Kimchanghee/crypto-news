@@ -125,7 +125,7 @@ export function faqJsonLd(i: any) {
   };
 }
 
-export function organizationJsonLd() {
+export function organizationJsonLd(_locale: Locale = defaultLocale) {
   return {
     '@context': 'https://schema.org',
     '@type': 'NewsMediaOrganization',
