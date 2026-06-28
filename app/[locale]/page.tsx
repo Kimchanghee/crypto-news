@@ -94,7 +94,7 @@ export default async function Home({ params: { locale } }: { params: { locale: L
 
         <aside>
           <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 16 }}>
-            <AdSlot network="adsterra" />
+            <AdSlot network="adsterra" zoneId="3e4bce1484f612934ea3087016160d51" />
           </div>
           <div className="np-widget np-rank">
             <span className="wh">{channelLabel('mostRead', locale)}</span>

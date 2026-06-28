@@ -54,7 +54,7 @@ export default async function CategoryPage({ params }: { params: { locale: Local
         {site.name}: {channelLabel('categoryIntro', params.locale)}
       </p>
       <div style={{ display: 'flex', justifyContent: 'center', margin: '4px 0 20px' }}>
-        <AdSlot network="adsterra" />
+        <AdSlot network="adsterra" zoneId="3e4bce1484f612934ea3087016160d51" />
       </div>
       <div data-category-monetization style={{ margin: '18px 0 22px' }}>
         <AffiliateShowcase locale={params.locale} placement="article" />
@@ -63,12 +63,12 @@ export default async function CategoryPage({ params }: { params: { locale: Local
         {items.flatMap((a, idx) => {
           const card = <ArticleCard key={a.id} article={a} locale={params.locale} />;
           return idx > 0 && idx % 8 === 0
-            ? [<div key={`ad-${idx}`} style={{ gridColumn: '1 / -1', display: 'flex', justifyContent: 'center', margin: '6px 0' }}><AdSlot network="adsterra" /></div>, card]
+            ? [<div key={`ad-${idx}`} style={{ gridColumn: '1 / -1', display: 'flex', justifyContent: 'center', margin: '6px 0' }}><AdSlot network="adsterra" zoneId="3e4bce1484f612934ea3087016160d51" /></div>, card]
             : [card];
         })}
       </div>
       <div style={{ display: 'flex', justifyContent: 'center', margin: '24px 0 4px' }}>
-        <AdSlot network="adsterra" />
+        <AdSlot network="adsterra" zoneId="3e4bce1484f612934ea3087016160d51" />
       </div>
     </div>
   );
