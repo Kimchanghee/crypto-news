@@ -67,8 +67,8 @@ export function GET(request: Request) {
     </div>
     <a id="fallback" href="${fallbackHref}" target="_blank" rel="noopener noreferrer nofollow sponsored" data-visible="true">
       <span>Sponsored</span>
-      <strong>Coupang partner picks</strong>
-      <em>Open shopping deals</em>
+      <strong>Sponsored shopping deals</strong>
+      <em>Open offer</em>
     </a>
   </div>
   <script>
@@ -77,6 +77,16 @@ export function GET(request: Request) {
       var fallback = document.getElementById('fallback');
       if (!ad || !fallback || !window.MutationObserver) return;
       function iframeReady(node){
+        try {
+          var doc = node.contentDocument;
+          if (doc) {
+            var body = doc.body;
+            var html = doc.documentElement ? doc.documentElement.outerHTML : '';
+            if ((body && (body.children.length > 0 || (body.innerText || '').trim().length > 0)) || html.length > 80) return true;
+          }
+        } catch (error) {
+          return true;
+        }
         try {
           var attrSrc = node.getAttribute('src') || '';
           if (attrSrc && !/^about:(blank|srcdoc)$/i.test(attrSrc)) return true;
@@ -118,6 +128,7 @@ export function GET(request: Request) {
       window.setTimeout(sync, 1800);
       window.setTimeout(sync, 3200);
       window.setTimeout(sync, 6000);
+      window.setTimeout(sync, 10000);
     })();
   </script>
 </body>
