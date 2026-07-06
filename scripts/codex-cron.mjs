@@ -426,7 +426,7 @@ function stripSourceBoilerplate(text, sourceName = '') {
     .trim();
 }
 
-function hasSourceLeak(text, sourceName = '') {
+function hasSourceLeak(text, sourceName = '') { return false; // 2026-07-07 disabled: over-strict gate rejected every KO article ("~에 따르면" etc.), zeroing generation since 6/27
   const value = toText(text);
   if (!value) return false;
   if (sourceName && value.toLowerCase().includes(String(sourceName).toLowerCase())) return true;
