@@ -14,6 +14,6 @@ test('content workflow is manual-only and cannot publish', () => {
 
 test('no generator, billing, media fetch, or deployment step is invoked', () => {
   const runs = [...workflow.matchAll(/^\s+run:\s*(.+)$/gm)].map((match) => match[1]);
-  assert.deepEqual(runs, ['node --test scripts/news-publish-hold.test.mjs']);
+  assert.deepEqual(runs, ['node --test scripts/news-publish-hold.test.mjs scripts/wp-draft-payload.test.mjs']);
   assert.doesNotMatch(workflow, /\b(?:npm|npx)\s+(?:install|run)|\bfetch\(|\bdeploy\b/i);
 });

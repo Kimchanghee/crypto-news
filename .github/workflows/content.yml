@@ -19,4 +19,4 @@ jobs:
         with:
           node-version: '20'
       - name: Verify publication stays disabled
-        run: node --test scripts/news-publish-hold.test.mjs
+        run: node --test scripts/news-publish-hold.test.mjs scripts/wp-draft-payload.test.mjs
