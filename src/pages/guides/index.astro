@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const guides = (await getCollection('guides')).sort((a, b) => a.data.kicker.localeCompare(b.data.kicker) || a.data.title.localeCompare(b.data.title));
+const title = 'Bitcoin & Ethereum Network Guides: Fees, Custody, Tax';
+const description = 'Plain-English guides to reading Bitcoin and Ethereum network data: fee rates, SegWit and Taproot, RBF and CPFP, self-custody, scam warning signs and tax basics.';
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Network guides', description, url: 'https://dailycryptonews.online/guides/',
+  hasPart: guides.map((g) => ({ '@type': 'Article', headline: g.data.h1, url: `https://dailycryptonews.online/guides/${g.id}/` })),
+}];
+---
+<Base title={title} description={description} path="/guides/" og="guides" ld={ld} crumbs={[{ name: 'Guides', path: '/guides/' }]}>
+  <section class="entry">
+    <div class="entry__mark"><span>Reference shelf</span><span>{guides.length} guides</span></div>
+    <div class="entry__body">
+      <h1>Which guide answers your network question?</h1>
+      <p class="answer" id="answer">These guides explain the numbers in the daily log: why Bitcoin fees are priced per byte, how to speed up a stuck transaction, what the Ethereum base fee is, and how to keep coins and records safe. Each one lists its official sources and review date.</p>
+      <ul class="index">
+        {guides.map((g) => <li><a href={`/guides/${g.id}/`}><span class="k">{g.data.kicker}</span><span class="t">{g.data.h1}<span class="d">{g.data.description}</span></span></a></li>)}
+      </ul>
+      <p class="small">Prefer feeds? Subscribe via <a href="/rss.xml">RSS</a>. Today’s readings are on the <a href="/">network log</a>.</p>
+    </div>
+  </section>
+</Base>

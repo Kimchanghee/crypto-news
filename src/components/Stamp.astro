@@ -1,0 +1,10 @@
+---
+import { fmtUtc, ageHours } from '../lib/data';
+interface Props { asOf: string; source: string; sourceUrl: string; stale?: boolean }
+const { asOf, source, sourceUrl, stale = false } = Astro.props;
+const old = stale || ageHours(asOf) > 6;
+---
+<p class:list={['stamp', { 'stamp--stale': old }]}>
+  {old ? 'Stale reading — last good data ' : 'Reading taken '}<time datetime={asOf}>{fmtUtc(asOf)}</time>
+  · source: <a href={sourceUrl} rel="noopener">{source}</a>
+</p>

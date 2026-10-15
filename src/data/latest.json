@@ -1,0 +1,57 @@
+{
+  "asOf": "2026-10-15T14:59:17.207Z",
+  "source": "See per-section source fields",
+  "sourceUrl": "https://dailycryptonews.online/methodology/",
+  "btc": {
+    "asOf": "2026-10-15T14:59:17.207Z",
+    "source": "mempool.space public REST API",
+    "sourceUrl": "https://mempool.space/docs/api/rest",
+    "tipHeight": 971587,
+    "fees": {
+      "fastest": 5,
+      "halfHour": 4,
+      "hour": 3,
+      "economy": 2,
+      "minimum": 1
+    },
+    "mempool": {
+      "count": 86896,
+      "vsize": 41676010,
+      "totalFeeSat": 20300793
+    },
+    "difficulty": {
+      "progressPercent": 93.79960317460318,
+      "estimatedChangePercent": 6.63550515188891,
+      "estimatedRetargetDate": "2026-10-16T10:32:07.125Z",
+      "remainingBlocks": 125,
+      "nextRetargetHeight": 971712,
+      "previousRetargetPercent": -0.03093703234718248,
+      "avgBlockSeconds": 562.961
+    },
+    "hashrate": {
+      "currentEHs": 1033.868658894778,
+      "currentDifficulty": 132716002350731.3
+    },
+    "stale": false
+  },
+  "prices": {
+    "asOf": "2026-10-15T14:59:16.680Z",
+    "source": "Binance spot public market data (USDT pairs, used as a USD proxy)",
+    "sourceUrl": "https://developers.binance.com/docs/binance-spot-api-docs/rest-api/market-data-endpoints",
+    "BTCUSDT": 81892.48,
+    "ETHUSDT": 2398.52,
+    "stale": false
+  },
+  "eth": {
+    "asOf": "2026-10-15T14:59:16.701Z",
+    "source": "Ethereum mainnet JSON-RPC eth_feeHistory (public endpoint ethereum-rpc.publicnode.com)",
+    "sourceUrl": "https://ethereum.org/en/developers/docs/apis/json-rpc/",
+    "latestBlock": 26198667,
+    "baseFeeGwei": 0.755040977,
+    "nextBaseFeeGwei": 0.757902044,
+    "priorityP50Gwei": 0.200013162,
+    "blocksSampled": 20,
+    "gasUsedRatioAvg": 0.4940153240878772,
+    "stale": false
+  }
+}

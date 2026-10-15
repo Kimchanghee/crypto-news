@@ -1,0 +1,141 @@
+---
+import Base from '../layouts/Base.astro';
+import SeaState from '../components/SeaState.astro';
+import Stamp from '../components/Stamp.astro';
+import { report, fmtUtc, fmtDay, days } from '../lib/data';
+import { fmtUsd, fmtInt } from '../lib/calc.mjs';
+import { getCollection } from 'astro:content';
+
+const r = report();
+const guides = (await getCollection('guides')).sort((a, b) => b.data.updated.localeCompare(a.data.updated)).slice(0, 6);
+const day = r.b.asOf.slice(0, 10);
+const title = 'Bitcoin Fees Today in Dollars, Mempool & ETH Gas Log';
+const description = 'Today’s Bitcoin and Ethereum network log: what a payment costs at each fee tier in USD, mempool backlog, next difficulty change and halving countdown, with sources.';
+const answer = `At ${fmtUtc(r.b.asOf)}, a typical native SegWit Bitcoin payment (${r.txs[0].vsize} vB) costs about ${r.segwitNext.usd != null ? fmtUsd(r.segwitNext.usd) : fmtInt(r.segwitNext.sats) + ' sats'} to target the next block at ${r.b.fees.fastest} sat/vB. The mempool holds ${r.backlog.toFixed(1)} blocks of pending transactions (${r.sea.label.toLowerCase()}).${r.ethTransferUsd != null ? ` A plain ETH transfer costs about ${fmtUsd(r.ethTransferUsd)}.` : ''}`;
+const ld = [{
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'Bitcoin and Ethereum daily network log',
+  description: 'Fee tiers, mempool backlog, difficulty adjustment estimate, hashrate and Ethereum base fee recorded from public sources, with timestamps.',
+  url: 'https://dailycryptonews.online/',
+  dateModified: r.b.asOf,
+  temporalCoverage: `2026-10-15/${day}`,
+  creator: { '@id': 'https://dailycryptonews.online/#org' },
+  isAccessibleForFree: true,
+  isBasedOn: ['https://mempool.space/docs/api/rest', 'https://ethereum.org/en/developers/docs/apis/json-rpc/'],
+  variableMeasured: ['fee rate (sat/vB)', 'mempool virtual size (vB)', 'estimated difficulty change (%)', 'hashrate (EH/s)', 'Ethereum base fee (gwei)'],
+}];
+const pctDiff = r.b.difficulty.estimatedChangePercent;
+---
+<Base title={title} description={description} path="/" og="home" ld={ld}>
+  <article>
+    <section class="entry">
+      <div class="entry__mark">
+        <span>Log entry</span>
+        <time datetime={day}>{day}</time>
+        <span>Block {fmtInt(r.b.tipHeight)}</span>
+      </div>
+      <div class="entry__body">
+        <h1>What does it cost to send Bitcoin today?</h1>
+        <p class="answer" id="answer">{answer}</p>
+        <Stamp asOf={r.b.asOf} source="mempool.space" sourceUrl={r.b.sourceUrl} stale={r.b.stale} />
+        <p class="small">{fmtDay(day)}. Dollar figures use the Binance BTC/USDT spot price ({r.price ? '$' + fmtInt(r.price) : 'unavailable'}) as a USD proxy. Fees are estimates for a transaction’s size, not for the amount sent.</p>
+      </div>
+    </section>
+
+    <section class="entry" aria-labelledby="fees-h">
+      <div class="entry__mark"><span>Reading 1</span><span>Fee tiers</span></div>
+      <div class="entry__body entry__body--wide">
+        <h2 id="fees-h">How much is each fee tier in dollars?</h2>
+        <p>Bitcoin fees are paid per virtual byte (vB) of transaction data, so the same fee rate costs more for bigger transactions. The table prices three common one-input, two-output payments at each tier mempool.space recommends right now.</p>
+        <div class="table-wrap">
+          <table class="readings">
+            <caption>Recommended fee rates and the resulting cost, {fmtUtc(r.b.asOf)}</caption>
+            <thead>
+              <tr><th scope="col">Tier</th><th scope="col">sat/vB</th>{r.txs.map((t) => <th scope="col">{t.label.split(' (')[0]} · {t.vsize} vB</th>)}</tr>
+            </thead>
+            <tbody>
+              {r.rows.map((row) => (
+                <tr>
+                  <th scope="row" style="font-weight:400">{row.label} <span class="note">— {row.note}</span></th>
+                  <td>{row.rate}</td>
+                  {row.costs.map((c) => <td>{c.usd != null ? fmtUsd(c.usd) : '—'}<br /><span class="note">{fmtInt(c.sats)} sats</span></td>)}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="small">Want a different shape of transaction? Use the <a href="/tools/btc-fee-estimator/">fee estimator</a>. Why legacy costs more: <a href="/guides/segwit-taproot-fees/">SegWit and Taproot explained</a>.</p>
+      </div>
+    </section>
+
+    <section class="entry" aria-labelledby="sea-h">
+      <div class="entry__mark"><span>Reading 2</span><span>Sea state</span></div>
+      <div class="entry__body">
+        <h2 id="sea-h">How congested is the Bitcoin mempool?</h2>
+        <p><strong>{r.sea.label}.</strong> {fmtInt(r.b.mempool.count)} unconfirmed transactions totalling {fmtInt(r.b.mempool.vsize)} vB are waiting — about {r.backlog.toFixed(1)} blocks’ worth at 1,000,000 vB per block. {r.sea.note}</p>
+        <SeaState blocks={r.backlog} label={r.sea.label} />
+        <p class="small">A large backlog does not always mean high fees: much of it can sit at 1–2 sat/vB. Bands are defined in our <a href="/methodology/#sea-state">methodology</a>.</p>
+      </div>
+    </section>
+
+    <div class="ad-slot" aria-hidden="true"></div>
+
+    <section class="entry" aria-labelledby="diff-h">
+      <div class="entry__mark"><span>Reading 3</span><span>Difficulty</span></div>
+      <div class="entry__body">
+        <h2 id="diff-h">When is the next difficulty adjustment?</h2>
+        <p>The next retarget is at block {fmtInt(r.b.difficulty.nextRetargetHeight)}, {fmtInt(r.b.difficulty.remainingBlocks)} blocks away, estimated around <time datetime={r.b.difficulty.estimatedRetargetDate}>{fmtUtc(r.b.difficulty.estimatedRetargetDate)}</time>. If blocks keep arriving at the current pace (average {(r.b.difficulty.avgBlockSeconds / 60).toFixed(1)} minutes), difficulty would change by about <strong>{pctDiff >= 0 ? '+' : ''}{pctDiff.toFixed(2)}%</strong>. The previous adjustment was {r.b.difficulty.previousRetargetPercent >= 0 ? '+' : ''}{r.b.difficulty.previousRetargetPercent.toFixed(2)}%.</p>
+        <div class="figures">
+          <div class="figure"><span class="figure__value">{r.b.difficulty.progressPercent.toFixed(1)}%</span><span class="figure__label">of the 2,016-block epoch done</span></div>
+          <div class="figure"><span class="figure__value">{r.b.hashrate.currentEHs.toFixed(0)} EH/s</span><span class="figure__label">estimated network hashrate</span></div>
+        </div>
+        <p class="small">Countdown detail and halving math: <a href="/tools/halving-countdown/">difficulty &amp; halving countdowns</a>.</p>
+      </div>
+    </section>
+
+    <section class="entry" aria-labelledby="halv-h">
+      <div class="entry__mark"><span>Reading 4</span><span>Halving</span></div>
+      <div class="entry__body">
+        <h2 id="halv-h">How many blocks until the next Bitcoin halving?</h2>
+        <p>{fmtInt(r.halving.remainingBlocks)} blocks remain until block {fmtInt(r.halving.nextHeight)}, when the block subsidy falls from {r.halving.subsidyNow} BTC to {r.halving.subsidyNext} BTC. At the 10-minute target spacing that is roughly {fmtUtc(r.halving.halvingEta.toISOString()).replace(/, \d\d:\d\d UTC/, '')}; real timing drifts with hashrate.</p>
+      </div>
+    </section>
+
+    <section class="entry" aria-labelledby="eth-h">
+      <div class="entry__mark"><span>Reading 5</span><span>Ethereum</span></div>
+      <div class="entry__body">
+        <h2 id="eth-h">What is the Ethereum base fee right now?</h2>
+        {r.eth ? (
+          <>
+            <p>At block {fmtInt(r.eth.latestBlock)} the base fee was <strong>{r.eth.baseFeeGwei.toFixed(3)} gwei</strong>, with a median priority tip of {r.eth.priorityP50Gwei.toFixed(3)} gwei over the last {r.eth.blocksSampled} blocks. A plain ETH transfer uses exactly 21,000 gas, so it costs about {r.ethTransferEth?.toFixed(7)} ETH{r.ethTransferUsd != null ? ` (${fmtUsd(r.ethTransferUsd)})` : ''}. Blocks were on average {(r.eth.gasUsedRatioAvg * 100).toFixed(0)}% full against the gas target’s 50%.</p>
+            <Stamp asOf={r.eth.asOf} source="Ethereum JSON-RPC eth_feeHistory" sourceUrl={r.eth.sourceUrl} stale={r.eth.stale} />
+          </>
+        ) : <p class="stamp stamp--stale">Ethereum fee data is unavailable for this entry.</p>}
+        <p class="small">Why the base fee moves: <a href="/guides/ethereum-gas-base-fee/">Ethereum gas, base fee and tips</a>.</p>
+      </div>
+    </section>
+
+    <section class="entry" aria-labelledby="arch-h">
+      <div class="entry__mark"><span>Archive</span></div>
+      <div class="entry__body">
+        <h2 id="arch-h">Earlier log entries</h2>
+        <p>The log started on {fmtDay('2026-10-15')}. Days are added only from readings actually recorded; nothing is backfilled.</p>
+        <ul class="index">
+          {days.slice(0, 7).map((d) => <li><a href={`/log/${d.date}/`}><span class="k">{d.date}</span><span class="t">{fmtDay(d.date)}<span class="d">{d.readings.length} reading(s)</span></span></a></li>)}
+        </ul>
+      </div>
+    </section>
+
+    <section class="entry" aria-labelledby="g-h">
+      <div class="entry__mark"><span>Reference</span></div>
+      <div class="entry__body">
+        <h2 id="g-h">Guides for reading the log</h2>
+        <ul class="index">
+          {guides.map((g) => <li><a href={`/guides/${g.id}/`}><span class="k">{g.data.kicker}</span><span class="t">{g.data.title}<span class="d">{g.data.description}</span></span></a></li>)}
+        </ul>
+        <p><a href="/guides/">All guides</a></p>
+      </div>
+    </section>
+  </article>
+</Base>
