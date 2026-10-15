@@ -10,7 +10,7 @@ const r = report();
 const guides = (await getCollection('guides')).sort((a, b) => b.data.updated.localeCompare(a.data.updated)).slice(0, 6);
 const day = r.b.asOf.slice(0, 10);
 const title = 'Bitcoin Fees Today in Dollars, Mempool & ETH Gas Log';
-const description = 'Today’s Bitcoin and Ethereum network log: what a payment costs at each fee tier in USD, mempool backlog, next difficulty change and halving countdown, with sources.';
+const description = 'Today’s Bitcoin and Ethereum network log: each fee tier priced in USD, mempool backlog, next difficulty change and halving countdown, with timestamped sources.';
 const answer = `At ${fmtUtc(r.b.asOf)}, a typical native SegWit Bitcoin payment (${r.txs[0].vsize} vB) costs about ${r.segwitNext.usd != null ? fmtUsd(r.segwitNext.usd) : fmtInt(r.segwitNext.sats) + ' sats'} to target the next block at ${r.b.fees.fastest} sat/vB. The mempool holds ${r.backlog.toFixed(1)} blocks of pending transactions (${r.sea.label.toLowerCase()}).${r.ethTransferUsd != null ? ` A plain ETH transfer costs about ${fmtUsd(r.ethTransferUsd)}.` : ''}`;
 const ld = [{
   '@context': 'https://schema.org',

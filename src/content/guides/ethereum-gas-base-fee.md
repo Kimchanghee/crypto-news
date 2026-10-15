@@ -1,7 +1,7 @@
 ---
 title: "Ethereum Gas Fees Explained: Base Fee, Tip and Gas Limit"
 h1: "How are Ethereum gas fees calculated?"
-description: "Ethereum fees are gas used times the base fee plus a priority tip. How EIP-1559 moves the base fee by up to 12.5% per block, with worked examples in ETH and USD."
+description: "Ethereum fees are gas used times the base fee plus a priority tip. How EIP-1559 moves the base fee by up to 12.5% a block, with worked examples in ETH and USD."
 kicker: "Ethereum"
 question: "How are Ethereum gas fees calculated?"
 answer: "An Ethereum fee is the gas a transaction uses multiplied by the base fee plus your priority tip, both in gwei. A plain ETH transfer always uses 21,000 gas, so at a 0.8 gwei base fee and 0.2 gwei tip it costs 21,000 × 1 gwei = 0.000021 ETH."

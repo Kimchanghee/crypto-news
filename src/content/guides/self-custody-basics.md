@@ -1,7 +1,7 @@
 ---
 title: "Self-Custody Basics: Seed Phrases, Backups and Wallet Types"
 h1: "How do you hold your own bitcoin safely?"
-description: "Self-custody means you hold the keys. How seed phrases work, how to back them up, hardware vs software wallets, test transactions and the mistakes that lose coins."
+description: "Self-custody means you hold the keys. How seed phrases work, how to back them up, hardware vs software wallets, test transactions and mistakes that lose coins."
 kicker: "Custody"
 question: "How do you hold your own bitcoin safely?"
 answer: "Use a reputable wallet that gives you a seed phrase, write the phrase on paper or metal, store it offline where only you can reach it, never type it into a website, and send a small test amount before moving larger sums. Whoever has the seed phrase controls the coins."

@@ -1,7 +1,7 @@
 ---
-title: "Crypto Scam Warning Signs: Investment, Romance and Support Scams"
+title: "Crypto Scam Warning Signs: Red Flags and Where to Report"
 h1: "How can you spot a cryptocurrency scam?"
-description: "Crypto scams share patterns: guaranteed returns, pressure, requests for seed phrases, fake support and withdrawal fees. Red flags from the FTC and FBI and where to report."
+description: "Crypto scams share patterns: guaranteed returns, pressure, seed phrase requests, fake support and withdrawal fees. FTC and FBI red flags and where to report."
 kicker: "Safety"
 question: "How can you spot a cryptocurrency scam?"
 answer: "Treat any promise of guaranteed or unusually high returns, any request for your seed phrase, any demand to pay in crypto, and any fee required to withdraw your own money as a scam. Pause, verify independently through official channels, and report it."

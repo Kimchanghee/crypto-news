@@ -1,7 +1,7 @@
 ---
-title: "SegWit vs Taproot vs Legacy: Which Bitcoin Address Is Cheapest?"
+title: "SegWit vs Taproot vs Legacy: Which Address Has Lower Fees?"
 h1: "Do SegWit and Taproot addresses lower Bitcoin fees?"
-description: "Native SegWit and Taproot inputs use far fewer virtual bytes than legacy inputs, so the same fee rate costs less. Sizes, worked comparisons and address prefixes."
+description: "Native SegWit and Taproot inputs use far fewer virtual bytes than legacy inputs, so the same fee rate costs less. Sizes, worked examples and address prefixes."
 kicker: "Addresses"
 question: "Do SegWit and Taproot addresses lower Bitcoin fees?"
 answer: "Yes. Spending from a native SegWit (bc1q) address takes about 68 vB per input and Taproot (bc1p) about 57.5 vB, versus 148 vB for a legacy (1…) address. At the same fee rate a one-input payment costs roughly 35–40% less than legacy."

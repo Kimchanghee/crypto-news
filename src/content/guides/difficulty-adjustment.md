@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Difficulty Adjustment Explained: 2,016 Blocks"
 h1: "How does the Bitcoin difficulty adjustment work?"
-description: "Every 2,016 blocks Bitcoin resets mining difficulty so blocks average ten minutes. The formula, the 4x clamp, how estimates are made and what they mean for fees."
+description: "Every 2,016 blocks Bitcoin resets mining difficulty so blocks average ten minutes. The formula, the 4x clamp, how estimates are made and what it means for fees."
 kicker: "Difficulty"
 question: "How does the Bitcoin difficulty adjustment work?"
 answer: "Every 2,016 blocks, each node compares how long those blocks actually took with the two-week target (20,160 minutes) and scales mining difficulty by that ratio, limited to a factor of four either way. Faster blocks raise difficulty; slower blocks lower it."

@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Halving Explained: Schedule, Subsidy and the Next One"
+title: "Bitcoin Halving Explained: Schedule, Subsidy, Next Date"
 h1: "When is the next Bitcoin halving and what changes?"
 description: "Every 210,000 blocks the Bitcoin block subsidy halves. Past halving dates, the next one at block 1,050,000, how its date is estimated and what it does to fees."
 kicker: "Halving"

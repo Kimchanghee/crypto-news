@@ -23,7 +23,8 @@ const comparison = prevLast
   ? `Compared with the last reading on ${prev!.date}, the next-block rate ${last.fees.fastest > prevLast.fees.fastest ? 'rose' : last.fees.fastest < prevLast.fees.fastest ? 'fell' : 'was unchanged'} (${prevLast.fees.fastest} → ${last.fees.fastest} sat/vB) and the backlog went from ${backlogBlocks(prevLast.mempoolVsize).toFixed(1)} to ${backlogBlocks(last.mempoolVsize).toFixed(1)} blocks.`
   : 'This is the first day in the log, so there is no earlier day to compare with. Readings before this date were not recorded and are not reconstructed.';
 const title = `Bitcoin Fees & Mempool Log for ${d.date} (UTC daily entry)`;
-const description = `Recorded Bitcoin network readings for ${d.date}: next-block fee ${minFast}–${maxFast} sat/vB, mempool backlog ${minBack.toFixed(1)}–${maxBack.toFixed(1)} blocks, difficulty estimate and ETH base fee.`;
+const descBase = `Recorded Bitcoin network readings for ${d.date}: next-block fee ${minFast}–${maxFast} sat/vB, mempool backlog ${minBack.toFixed(1)}–${maxBack.toFixed(1)} blocks`;
+const description = [descBase + ', difficulty estimate and the Ethereum base fee, with sources.', descBase + ', difficulty estimate and the Ethereum base fee.', descBase + ', difficulty and ETH base fee.', descBase + '.'].find((s) => [...s].length >= 150 && [...s].length <= 160) ?? descBase + ', difficulty estimate and ETH base fee.';
 const path = `/log/${d.date}/`;
 const ld = [{
   '@context': 'https://schema.org', '@type': 'Dataset',

@@ -8,7 +8,7 @@ const price = latest.prices?.BTCUSDT ?? null;
 const defVsize = estimateVsize({ p2wpkh: 1 }, { p2wpkh: 2 });
 const defSats = feeSats(defVsize, b.fees.halfHour);
 const title = 'Bitcoin Fee Estimator: Transaction Size and Cost in USD';
-const description = 'Estimate a Bitcoin transaction’s virtual size from its inputs and outputs, then see the fee at today’s recommended rates in satoshis and US dollars. Free, no login.';
+const description = 'Estimate a Bitcoin transaction’s virtual size from its inputs and outputs, then see the fee at today’s recommended rates in satoshis and US dollars. Free tool.';
 const ld = [{
   '@context': 'https://schema.org', '@type': 'WebApplication', name: 'Bitcoin fee estimator', url: 'https://dailycryptonews.online/tools/btc-fee-estimator/',
   applicationCategory: 'FinanceApplication', operatingSystem: 'Any', isAccessibleForFree: true,

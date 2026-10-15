@@ -1,7 +1,7 @@
 ---
 title: "What Is the Bitcoin Mempool? Backlog, Wait Times and Purging"
 h1: "What is the Bitcoin mempool and why does it fill up?"
-description: "The mempool is each node’s waiting room for unconfirmed Bitcoin transactions. How backlog is measured in blocks, why it spikes, and when low-fee payments get dropped."
+description: "The mempool is each node’s waiting room for unconfirmed Bitcoin transactions. How backlog is measured in blocks, why it spikes and when low-fee payments drop."
 kicker: "Mempool"
 question: "What is the Bitcoin mempool and why does it fill up?"
 answer: "The mempool is the set of valid but unconfirmed transactions a node is holding while they wait for a block. It fills up when people broadcast more transactions than the roughly 1 million vB per block that miners can confirm, so low fee-rate transactions queue behind higher ones."

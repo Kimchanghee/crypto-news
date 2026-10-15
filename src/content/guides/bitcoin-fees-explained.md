@@ -1,7 +1,7 @@
 ---
 title: "How Bitcoin Transaction Fees Work: sat/vB Explained"
 h1: "How are Bitcoin transaction fees calculated?"
-description: "Bitcoin fees depend on transaction size in virtual bytes times a fee rate in sat/vB, not on the amount sent. Worked examples, fee tiers and how to avoid overpaying."
+description: "Bitcoin fees are a transaction’s size in virtual bytes times a fee rate in sat/vB, not a share of the amount sent. Examples, fee tiers and how to pay less."
 kicker: "Fees"
 question: "How are Bitcoin transaction fees calculated?"
 answer: "A Bitcoin fee is the transaction’s size in virtual bytes (vB) multiplied by a fee rate in satoshis per vB. Sending 0.001 BTC or 10 BTC costs the same if the transactions are the same size; what changes the fee is the number of inputs, the address types and how busy the mempool is."
