@@ -152,3 +152,6 @@ output { font-family: var(--mono); }
 .colophon__links { list-style: none; display: flex; flex-wrap: wrap; gap: 0 1.25rem; padding: 0; margin: 0 0 .75rem; }
 .colophon__links a { display: inline-flex; min-height: 44px; align-items: center; }
 .colophon__small { color: var(--ink-soft); max-width: 44rem; }
+
+@media (max-width: 40rem) { .tier-note { display: none; } .readings th, .readings td { padding-right: .4rem; } .readings td { font-size: .9rem; } }
+

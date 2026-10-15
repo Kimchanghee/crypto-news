@@ -52,12 +52,12 @@ const pctDiff = r.b.difficulty.estimatedChangePercent;
           <table class="readings">
             <caption>Recommended fee rates and the resulting cost, {fmtUtc(r.b.asOf)}</caption>
             <thead>
-              <tr><th scope="col">Tier</th><th scope="col">sat/vB</th>{r.txs.map((t) => <th scope="col">{t.label.split(' (')[0]} · {t.vsize} vB</th>)}</tr>
+              <tr><th scope="col">Tier</th><th scope="col">sat/vB</th>{r.txs.map((t, i) => <th scope="col">{['SegWit', 'Taproot', 'Legacy'][i]}<br />{t.vsize} vB</th>)}</tr>
             </thead>
             <tbody>
               {r.rows.map((row) => (
                 <tr>
-                  <th scope="row" style="font-weight:400">{row.label} <span class="note">— {row.note}</span></th>
+                  <th scope="row" style="font-weight:400">{row.label} <span class="note tier-note">— {row.note}</span></th>
                   <td>{row.rate}</td>
                   {row.costs.map((c) => <td>{c.usd != null ? fmtUsd(c.usd) : '—'}<br /><span class="note">{fmtInt(c.sats)} sats</span></td>)}
                 </tr>

@@ -40,7 +40,7 @@ if (d.faq.length) {
     <div class="entry__mark">
       <span>{d.kicker}</span>
       <span>Updated <time datetime={d.updated}>{d.updated}</time></span>
-      <span>Facts as of {d.data_asof}</span>
+      <span>Facts as of</span><time datetime={d.data_asof}>{d.data_asof}</time>
     </div>
     <div class="entry__body prose">
       <h1>{d.h1}</h1>
@@ -57,7 +57,7 @@ if (d.faq.length) {
       <section class="sources" aria-labelledby="src-h">
         <h2 id="src-h">Sources</h2>
         <ol>{d.sources.map((s) => <li><a href={s.url} rel="noopener">{s.title}</a></li>)}</ol>
-        <p>Written and checked by the Daily Crypto News editors. Published {d.published}; last reviewed {d.updated}. See our <a href="/about/#standards">editorial standards</a>. Not financial, tax or legal advice.</p>
+        <p>Prepared by Daily Crypto News from the sources above. Published {d.published}; last reviewed {d.updated}. See our <a href="/about/#standards">editorial standards</a>. Not financial, tax or legal advice.</p>
       </section>
       <section aria-labelledby="rel-h">
         <h2 id="rel-h">Related in the log</h2>
