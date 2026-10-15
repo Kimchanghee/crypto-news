@@ -1,0 +1,15 @@
+---
+import Base from './Base.astro';
+interface Props { title: string; description: string; path: string; h1: string; mark: string; answer: string; updated: string; ld?: Record<string, unknown>[] }
+const { title, description, path, h1, mark, answer, updated, ld = [] } = Astro.props;
+---
+<Base title={title} description={description} path={path} ld={ld} crumbs={[{ name: mark, path }]} modified={updated}>
+  <article class="entry">
+    <div class="entry__mark"><span>{mark}</span><span>Updated <time datetime={updated}>{updated}</time></span></div>
+    <div class="entry__body prose">
+      <h1>{h1}</h1>
+      <p class="answer" id="answer">{answer}</p>
+      <slot />
+    </div>
+  </article>
+</Base>

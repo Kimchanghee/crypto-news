@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import { days, fmtDay } from '../../lib/data';
+import { backlogBlocks } from '../../lib/calc.mjs';
+const title = 'Bitcoin Network Log Archive: Daily Fee and Mempool Records';
+const description = 'Archive of daily Bitcoin and Ethereum network log entries since 15 October 2026: recorded fee ranges, mempool backlog and base fee per day. No backfilled data.';
+const rows = days.map((d) => {
+  const f = d.readings.map((r) => r.fees.fastest);
+  const b = d.readings.map((r) => backlogBlocks(r.mempoolVsize));
+  return { d, minF: Math.min(...f), maxF: Math.max(...f), maxB: Math.max(...b) };
+});
+---
+<Base title={title} description={description} path="/log/" og="log" crumbs={[{ name: 'Log', path: '/log/' }]}>
+  <section class="entry">
+    <div class="entry__mark"><span>Archive</span><span>{days.length} day(s)</span></div>
+    <div class="entry__body">
+      <h1>Which days are in the network log?</h1>
+      <p class="answer" id="answer">The log has recorded Bitcoin and Ethereum network readings every day since {fmtDay('2026-10-15')}. Each day below links to every reading taken that day. Days before the start date, or days when our data source was unreachable, are missing rather than estimated.</p>
+      {rows.length === 0 ? <p class="stamp stamp--stale">No days recorded yet.</p> : (
+        <ul class="index">
+          {rows.map((x) => <li><a href={`/log/${x.d.date}/`}><span class="k">{x.d.date}</span><span class="t">{fmtDay(x.d.date)}<span class="d">Next-block fee {x.minF}–{x.maxF} sat/vB · peak backlog {x.maxB.toFixed(1)} blocks · {x.d.readings.length} reading(s)</span></span></a></li>)}
+        </ul>
+      )}
+      <p class="small">How readings are taken: <a href="/methodology/">methodology</a>. Today: <a href="/">current entry</a>.</p>
+    </div>
+  </section>
+</Base>

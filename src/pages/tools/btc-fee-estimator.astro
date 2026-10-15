@@ -1,0 +1,124 @@
+---
+import Base from '../../layouts/Base.astro';
+import Stamp from '../../components/Stamp.astro';
+import { latest, TIERS } from '../../lib/data';
+import { estimateVsize, feeSats, satsToUsd, fmtUsd, fmtInt } from '../../lib/calc.mjs';
+const b = latest.btc;
+const price = latest.prices?.BTCUSDT ?? null;
+const defVsize = estimateVsize({ p2wpkh: 1 }, { p2wpkh: 2 });
+const defSats = feeSats(defVsize, b.fees.halfHour);
+const title = 'Bitcoin Fee Estimator: Transaction Size and Cost in USD';
+const description = 'Estimate a Bitcoin transaction’s virtual size from its inputs and outputs, then see the fee at today’s recommended rates in satoshis and US dollars. Free, no login.';
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'WebApplication', name: 'Bitcoin fee estimator', url: 'https://dailycryptonews.online/tools/btc-fee-estimator/',
+  applicationCategory: 'FinanceApplication', operatingSystem: 'Any', isAccessibleForFree: true,
+  description: 'Estimates Bitcoin transaction virtual size from input and output types and prices it at recommended fee rates.',
+  publisher: { '@id': 'https://dailycryptonews.online/#org' },
+}];
+const inputs = [
+  { id: 'p2wpkh', label: 'Native SegWit (bc1q…)', def: 1 },
+  { id: 'p2tr', label: 'Taproot (bc1p…)', def: 0 },
+  { id: 'p2sh-p2wpkh', label: 'Nested SegWit (3…)', def: 0 },
+  { id: 'p2pkh', label: 'Legacy (1…)', def: 0 },
+];
+const outputs = [
+  { id: 'p2wpkh', label: 'Native SegWit (bc1q…)', def: 2 },
+  { id: 'p2tr', label: 'Taproot (bc1p…)', def: 0 },
+  { id: 'p2sh', label: 'Script hash (3…)', def: 0 },
+  { id: 'p2pkh', label: 'Legacy (1…)', def: 0 },
+];
+---
+<Base title={title} description={description} path="/tools/btc-fee-estimator/" og="fee-estimator" ld={ld} crumbs={[{ name: 'Tools', path: '/tools/' }, { name: 'Fee estimator', path: '/tools/btc-fee-estimator/' }]}>
+  <section class="entry">
+    <div class="entry__mark"><span>Tool</span><span>Fee estimator</span></div>
+    <div class="entry__body">
+      <h1>How much will my Bitcoin transaction cost?</h1>
+      <p class="answer" id="answer">Count the coins (inputs) your wallet will spend and the outputs you create, and multiply the resulting size by a fee rate. A one-input, two-output native SegWit payment is {defVsize} vB; at the 30-minute rate of {b.fees.halfHour} sat/vB that is {fmtInt(defSats)} sats{price ? ` (${fmtUsd(satsToUsd(defSats, price))})` : ''}.</p>
+      <Stamp asOf={b.asOf} source="mempool.space" sourceUrl={b.sourceUrl} stale={b.stale} />
+    </div>
+  </section>
+  <section class="entry" aria-labelledby="calc-h">
+    <div class="entry__mark"><span>Worksheet</span></div>
+    <div class="entry__body">
+      <h2 id="calc-h">Describe the transaction</h2>
+      <form id="fee-form" data-price={price ?? ''} data-rates={JSON.stringify(b.fees)} novalidate>
+        <fieldset>
+          <legend>Inputs spent</legend>
+          <div class="field-grid">
+            {inputs.map((i) => (<div><label for={`in-${i.id}`}>{i.label}</label><input type="number" inputmode="numeric" min="0" max="500" step="1" id={`in-${i.id}`} name={`in-${i.id}`} value={i.def} /></div>))}
+          </div>
+        </fieldset>
+        <fieldset>
+          <legend>Outputs created (include change)</legend>
+          <div class="field-grid">
+            {outputs.map((o) => (<div><label for={`out-${o.id}`}>{o.label}</label><input type="number" inputmode="numeric" min="0" max="500" step="1" id={`out-${o.id}`} name={`out-${o.id}`} value={o.def} /></div>))}
+          </div>
+        </fieldset>
+        <fieldset>
+          <legend>Fee rate</legend>
+          <label for="rate">sat/vB (pre-filled from today’s tiers; editable)</label>
+          <select id="tier" aria-label="Fee tier">
+            {TIERS.map((t) => <option value={b.fees[t.key]} selected={t.key === 'halfHour'}>{t.label}: {b.fees[t.key]} sat/vB</option>)}
+            <option value="custom">Custom rate</option>
+          </select>
+          <div style="margin-top:.6rem"><input type="number" id="rate" min="0.1" max="10000" step="0.1" value={b.fees.halfHour} inputmode="decimal" aria-describedby="err" /></div>
+        </fieldset>
+        <p class="error" id="err" role="alert"></p>
+      </form>
+      <div class="result" aria-live="polite">
+        <table class="readings">
+          <caption>Estimate</caption>
+          <tbody>
+            <tr><th scope="row">Virtual size</th><td><output id="o-vsize" form="fee-form">{defVsize} vB</output></td></tr>
+            <tr><th scope="row">Fee</th><td><output id="o-sats" form="fee-form">{fmtInt(defSats)} sats</output></td></tr>
+            <tr><th scope="row">In USD</th><td><output id="o-usd" form="fee-form">{price ? fmtUsd(satsToUsd(defSats, price)) : 'price unavailable'}</output></td></tr>
+          </tbody>
+        </table>
+        <p class="small">Sizes are standard estimates (signatures can vary by a byte); the method is on the <a href="/methodology/#vsize">methodology page</a>. Exchange withdrawals use the exchange’s own fee, not this one.</p>
+      </div>
+    </div>
+  </section>
+  <section class="entry" aria-labelledby="how-h">
+    <div class="entry__mark"><span>Notes</span></div>
+    <div class="entry__body">
+      <h2 id="how-h">How the estimate is worked out</h2>
+      <p>Size = 10 vB of fixed overhead, plus each input and output at its standard size, plus 0.5 vB if any input is SegWit or Taproot, rounded up. Native SegWit inputs are 68 vB, Taproot 57.5 vB, nested SegWit 91 vB and legacy 148 vB. The fee is size × rate. More background: <a href="/guides/bitcoin-fees-explained/">how fees are calculated</a> and <a href="/guides/segwit-taproot-fees/">SegWit vs Taproot</a>.</p>
+    </div>
+  </section>
+  <script>
+    import { estimateVsize, feeSats, satsToUsd, fmtUsd, fmtInt } from '../../lib/calc.mjs';
+    const form = document.getElementById('fee-form') as HTMLFormElement;
+    const price = Number(form.dataset.price) || 0;
+    const tier = document.getElementById('tier') as HTMLSelectElement;
+    const rate = document.getElementById('rate') as HTMLInputElement;
+    const err = document.getElementById('err')!;
+    const out = (id: string, v: string) => { (document.getElementById(id) as HTMLOutputElement).value = v; };
+    let used = false;
+    function update() {
+      const ins: Record<string, number> = {}; const outs: Record<string, number> = {};
+      let bad = '';
+      form.querySelectorAll<HTMLInputElement>('input[name]').forEach((el) => {
+        const n = Number(el.value);
+        const ok = el.value !== '' && Number.isInteger(n) && n >= 0 && n <= 500;
+        el.setAttribute('aria-invalid', ok ? 'false' : 'true');
+        if (!ok) bad = 'Counts must be whole numbers from 0 to 500.';
+        const [kind, type] = [el.name.slice(0, el.name.indexOf('-')), el.name.slice(el.name.indexOf('-') + 1)];
+        (kind === 'in' ? ins : outs)[type] = ok ? n : 0;
+      });
+      const r = Number(rate.value);
+      const rateOk = rate.value !== '' && r > 0 && r <= 10000;
+      rate.setAttribute('aria-invalid', rateOk ? 'false' : 'true');
+      if (!rateOk) bad = bad || 'Enter a fee rate above 0 sat/vB.';
+      const nIn = Object.values(ins).reduce((a, b) => a + b, 0), nOut = Object.values(outs).reduce((a, b) => a + b, 0);
+      if (!bad && (nIn === 0 || nOut === 0)) bad = 'A transaction needs at least one input and one output.';
+      err.textContent = bad;
+      if (bad) { out('o-vsize', '—'); out('o-sats', '—'); out('o-usd', '—'); return; }
+      const vs = estimateVsize(ins, outs); const sats = feeSats(vs, r);
+      out('o-vsize', vs + ' vB'); out('o-sats', fmtInt(sats) + ' sats'); out('o-usd', price ? fmtUsd(satsToUsd(sats, price)) : 'price unavailable');
+      if (!used) { used = true; (window as any).dcnTrack?.('tool_used', { tool: 'btc_fee_estimator' }); }
+    }
+    tier.addEventListener('change', () => { if (tier.value !== 'custom') rate.value = tier.value; else rate.focus(); update(); });
+    rate.addEventListener('input', () => { tier.value = 'custom'; update(); });
+    form.addEventListener('input', update);
+  </script>
+</Base>

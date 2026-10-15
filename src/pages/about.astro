@@ -1,0 +1,23 @@
+---
+import Page from '../layouts/Page.astro';
+import { site } from '../site.config';
+const ld = [{ '@context': 'https://schema.org', '@type': 'AboutPage', name: 'About Daily Crypto News', url: 'https://dailycryptonews.online/about/', about: { '@id': 'https://dailycryptonews.online/#org' } }];
+---
+<Page title="About Daily Crypto News: An Independent Network Log" description="Who runs Daily Crypto News, why it records Bitcoin and Ethereum network conditions instead of chasing headlines, and the editorial standards every page follows." path="/about/" h1="Who runs Daily Crypto News and why?" mark="About" updated="2026-10-15" ld={ld}
+  answer={site.entity}>
+  <h2>Why a network log instead of news</h2>
+  <p>This domain used to publish automatically rewritten crypto headlines. In October 2026 we removed that archive entirely and rebuilt the site around something more useful: a dated record of what the Bitcoin and Ethereum networks are actually doing, and plain-English guides for reading it. A log can be checked against public data; rewritten headlines cannot.</p>
+  <h2 id="standards">Editorial standards</h2>
+  <ul>
+    <li><strong>Data first.</strong> Every number links to its source and carries a timestamp. Missing data stays missing.</li>
+    <li><strong>No promotion.</strong> We do not promote exchanges, tokens or trading products and carry no affiliate links.</li>
+    <li><strong>No invented experience.</strong> Guides explain rules and arithmetic; they do not claim personal results or testimonials.</li>
+    <li><strong>Official sources.</strong> Guides cite protocol specifications (BIPs, EIPs), project documentation and government agencies.</li>
+    <li><strong>Reviewed and dated.</strong> Each guide shows when it was published and last reviewed. Corrections are welcome.</li>
+    <li><strong>Not advice.</strong> Nothing here is financial, tax or legal advice. See the <a href="/disclaimer/">disclaimer</a>.</li>
+  </ul>
+  <h2>How the site is funded</h2>
+  <p>The site shows Google AdSense advertising. Advertisers do not influence what we record or write. Details are in the <a href="/privacy/">privacy policy</a>.</p>
+  <h2>Contact</h2>
+  <p>Email <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>, or read <a href="/methodology/">how the data is collected</a>.</p>
+</Page>

@@ -1,0 +1,83 @@
+---
+import Base from '../../layouts/Base.astro';
+import { days, fmtDay, fmtUtc, type DayLog } from '../../lib/data';
+import { backlogBlocks, congestionLabel, fmtInt, fmtUsd, feeSats, satsToUsd, TYPICAL_TX } from '../../lib/calc.mjs';
+
+export function getStaticPaths() {
+  return days.map((d, i) => ({ params: { date: d.date }, props: { d, prev: days[i + 1] ?? null, next: days[i - 1] ?? null } }));
+}
+const { d, prev, next } = Astro.props as { d: DayLog; prev: DayLog | null; next: DayLog | null };
+const rs = d.readings;
+const fast = rs.map((r) => r.fees.fastest);
+const minFast = Math.min(...fast), maxFast = Math.max(...fast);
+const backs = rs.map((r) => backlogBlocks(r.mempoolVsize));
+const maxBack = Math.max(...backs), minBack = Math.min(...backs);
+const last = rs[rs.length - 1];
+const first = rs[0];
+const segVb = TYPICAL_TX[0].vsize;
+const lastUsd = last.btcUsd ? satsToUsd(feeSats(segVb, last.fees.fastest), last.btcUsd) : null;
+const prevLast = prev ? prev.readings[prev.readings.length - 1] : null;
+const blocksMined = last.height - first.height;
+const lead = `On ${fmtDay(d.date)} the log recorded ${rs.length} reading${rs.length === 1 ? '' : 's'}. The next-block fee rate ranged from ${minFast} to ${maxFast} sat/vB${lastUsd != null ? `; at the last reading a typical SegWit payment cost about ${fmtUsd(lastUsd)} for the next block` : ''}, and the mempool backlog ranged from ${minBack.toFixed(1)} to ${maxBack.toFixed(1)} blocks.`;
+const comparison = prevLast
+  ? `Compared with the last reading on ${prev!.date}, the next-block rate ${last.fees.fastest > prevLast.fees.fastest ? 'rose' : last.fees.fastest < prevLast.fees.fastest ? 'fell' : 'was unchanged'} (${prevLast.fees.fastest} → ${last.fees.fastest} sat/vB) and the backlog went from ${backlogBlocks(prevLast.mempoolVsize).toFixed(1)} to ${backlogBlocks(last.mempoolVsize).toFixed(1)} blocks.`
+  : 'This is the first day in the log, so there is no earlier day to compare with. Readings before this date were not recorded and are not reconstructed.';
+const title = `Bitcoin Fees & Mempool Log for ${d.date} (UTC daily entry)`;
+const description = `Recorded Bitcoin network readings for ${d.date}: next-block fee ${minFast}–${maxFast} sat/vB, mempool backlog ${minBack.toFixed(1)}–${maxBack.toFixed(1)} blocks, difficulty estimate and ETH base fee.`;
+const path = `/log/${d.date}/`;
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'Dataset',
+  name: `Bitcoin and Ethereum network readings, ${d.date}`,
+  description: `Timestamped readings recorded on ${d.date} (UTC) from mempool.space, Binance public market data and Ethereum JSON-RPC.`,
+  url: `https://dailycryptonews.online${path}`,
+  temporalCoverage: d.date,
+  dateModified: d.asOf,
+  creator: { '@id': 'https://dailycryptonews.online/#org' },
+  isAccessibleForFree: true,
+  variableMeasured: ['fee rate (sat/vB)', 'mempool virtual size (vB)', 'estimated difficulty change (%)', 'Ethereum base fee (gwei)'],
+}];
+---
+<Base title={title} description={description} path={path} og="log" ld={ld} crumbs={[{ name: 'Log', path: '/log/' }, { name: d.date, path }]} modified={d.asOf}>
+  <section class="entry">
+    <div class="entry__mark"><span>Daily entry</span><time datetime={d.date}>{d.date}</time><span>{rs.length} reading(s)</span></div>
+    <div class="entry__body">
+      <h1>Network log for {fmtDay(d.date)}</h1>
+      <p class="answer" id="answer">{lead}</p>
+      <p>{comparison} {blocksMined > 0 ? `${fmtInt(blocksMined)} blocks were mined between the first and last reading.` : ''}</p>
+      <p class="small">Sea state at the last reading: <strong>{congestionLabel(backlogBlocks(last.mempoolVsize)).label}</strong>. Definitions are on the <a href="/methodology/">methodology page</a>; today’s live entry is on the <a href="/">front page</a>.</p>
+    </div>
+  </section>
+  <section class="entry" aria-labelledby="t-h">
+    <div class="entry__mark"><span>Readings</span><span>UTC</span></div>
+    <div class="entry__body entry__body--wide">
+      <h2 id="t-h">All readings recorded this day</h2>
+      <div class="table-wrap">
+        <table class="readings">
+          <caption>Fee rates in sat/vB; backlog in 1,000,000-vB blocks; prices are Binance USDT spot as a USD proxy</caption>
+          <thead><tr><th scope="col">Time</th><th scope="col">Block</th><th scope="col">Next</th><th scope="col">1 h</th><th scope="col">Econ.</th><th scope="col">Backlog</th><th scope="col">Diff. est.</th><th scope="col">BTC</th><th scope="col">ETH base</th></tr></thead>
+          <tbody>
+            {rs.map((r) => (
+              <tr>
+                <th scope="row" style="font-weight:400"><time datetime={r.t}>{fmtUtc(r.t).split(', ')[1]}</time></th>
+                <td>{fmtInt(r.height)}</td>
+                <td>{r.fees.fastest}</td>
+                <td>{r.fees.hour}</td>
+                <td>{r.fees.economy}</td>
+                <td>{backlogBlocks(r.mempoolVsize).toFixed(1)}</td>
+                <td>{r.diffChange >= 0 ? '+' : ''}{r.diffChange.toFixed(2)}%</td>
+                <td>{r.btcUsd ? '$' + fmtInt(r.btcUsd) : '—'}</td>
+                <td>{r.ethBaseGwei != null ? r.ethBaseGwei.toFixed(3) + ' gwei' : '—'}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <nav aria-label="Adjacent days" class="small">
+        {prev && <a href={`/log/${prev.date}/`}>← {prev.date}</a>}
+        {prev && next && ' · '}
+        {next && <a href={`/log/${next.date}/`}>{next.date} →</a>}
+        {' · '}<a href="/log/">All days</a>
+      </nav>
+    </div>
+  </section>
+</Base>

@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+const title = 'Free Bitcoin Tools: Fee Estimator and Halving Countdown';
+const description = 'Two free Bitcoin tools built on today’s network readings: estimate a transaction’s size and fee in dollars, and count blocks to the next halving and difficulty change.';
+---
+<Base title={title} description={description} path="/tools/" crumbs={[{ name: 'Tools', path: '/tools/' }]}>
+  <section class="entry">
+    <div class="entry__mark"><span>Tools</span></div>
+    <div class="entry__body">
+      <h1>Which Bitcoin tool do you need?</h1>
+      <p class="answer" id="answer">Use the fee estimator to price a specific transaction from its inputs and outputs at today’s fee tiers, and the countdown page to see how many blocks remain until the next halving and the next difficulty adjustment.</p>
+      <ul class="index">
+        <li><a href="/tools/btc-fee-estimator/"><span class="k">Fees</span><span class="t">Bitcoin fee estimator<span class="d">Size in vB, fee in sats and USD</span></span></a></li>
+        <li><a href="/tools/halving-countdown/"><span class="k">Clocks</span><span class="t">Halving and difficulty countdowns<span class="d">Blocks remaining and estimated dates</span></span></a></li>
+      </ul>
+    </div>
+  </section>
+</Base>

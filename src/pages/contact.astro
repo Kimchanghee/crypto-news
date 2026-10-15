@@ -1,0 +1,18 @@
+---
+import Page from '../layouts/Page.astro';
+import { site } from '../site.config';
+const ld = [{ '@context': 'https://schema.org', '@type': 'ContactPage', name: 'Contact Daily Crypto News', url: 'https://dailycryptonews.online/contact/' }];
+---
+<Page title="Contact Daily Crypto News: Corrections, Data and Privacy" description="How to reach Daily Crypto News by email for corrections, data questions and privacy requests. We never ask for funds, seed phrases or private keys under any circumstances." path="/contact/" h1="How do I contact Daily Crypto News?" mark="Contact" updated="2026-10-15" ld={ld}
+  answer={`Email ${site.contactEmail}. We read every message and aim to reply within a few working days. Please include the page address if you are reporting an error in the log or a guide.`}>
+  <h2>What to write to us about</h2>
+  <ul>
+    <li><strong>Corrections</strong> to a guide or to how a reading is displayed.</li>
+    <li><strong>Data questions</strong> about sources or formulas (see the <a href="/methodology/">methodology</a> first).</li>
+    <li><strong>Privacy requests</strong> under the <a href="/privacy/">privacy policy</a>.</li>
+  </ul>
+  <h2>What we will never do</h2>
+  <p>We will never contact you asking for cryptocurrency, payment, seed phrases, private keys or wallet "verification". Any message claiming to be us that does so is a scam; read our <a href="/guides/crypto-scams-warning-signs/">scam warning signs</a>.</p>
+  <h2>What we cannot help with</h2>
+  <p>We cannot recover funds, reverse transactions, or give personal investment or tax advice, and we have no relationship with any exchange.</p>
+</Page>

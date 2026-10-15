@@ -1,0 +1,98 @@
+---
+import Base from '../../layouts/Base.astro';
+import Stamp from '../../components/Stamp.astro';
+import { latest, fmtUtc } from '../../lib/data';
+import { halvingInfo, fmtInt, RETARGET_INTERVAL, HALVING_INTERVAL } from '../../lib/calc.mjs';
+const b = latest.btc;
+const h = halvingInfo(b.tipHeight);
+const eta = new Date(new Date(b.asOf).getTime() + h.remainingBlocks * 600_000);
+const days = h.remainingBlocks * 10 / 1440;
+const epochDone = HALVING_INTERVAL - h.remainingBlocks;
+const etaMonth = eta.toLocaleDateString('en-GB', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+const d = b.difficulty;
+const title = 'Bitcoin Halving Countdown and Next Difficulty Adjustment';
+const description = 'Blocks remaining to the next Bitcoin halving at block 1,050,000 and to the next difficulty retarget, with estimated dates and the projected difficulty change.';
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'WebApplication', name: 'Bitcoin halving and difficulty countdown', url: 'https://dailycryptonews.online/tools/halving-countdown/',
+  applicationCategory: 'ReferenceApplication', operatingSystem: 'Any', isAccessibleForFree: true,
+  description: 'Counts blocks to the next Bitcoin halving and difficulty adjustment from the latest block height.',
+  publisher: { '@id': 'https://dailycryptonews.online/#org' },
+}];
+const W = 720, H = 56;
+const bar = (frac: number) => Math.max(0, Math.min(1, frac)) * (W - 2);
+---
+<Base title={title} description={description} path="/tools/halving-countdown/" og="countdown" ld={ld} crumbs={[{ name: 'Tools', path: '/tools/' }, { name: 'Countdowns', path: '/tools/halving-countdown/' }]}>
+  <section class="entry">
+    <div class="entry__mark"><span>Tool</span><span>Countdowns</span><span>Block {fmtInt(b.tipHeight)}</span></div>
+    <div class="entry__body">
+      <h1>How long until the next Bitcoin halving?</h1>
+      <p class="answer" id="answer"><span data-live="remaining">{fmtInt(h.remainingBlocks)}</span> blocks remain until the halving at block {fmtInt(h.nextHeight)}, when the subsidy drops from {h.subsidyNow} to {h.subsidyNext} BTC. At ten minutes per block that is about {fmtInt(days)} days, or around {etaMonth}.</p>
+      <Stamp asOf={b.asOf} source="mempool.space" sourceUrl={b.sourceUrl} stale={b.stale} />
+      <p><button type="button" id="live" class="btn" style="min-height:44px;padding:.4rem .9rem;border:1.5px solid var(--ink);background:#fffdf7;cursor:pointer">Check the latest block height now</button> <span id="live-msg" class="small" aria-live="polite"></span></p>
+    </div>
+  </section>
+  <section class="entry" aria-labelledby="h-h">
+    <div class="entry__mark"><span>Clock 1</span><span>Halving era {h.epoch}</span></div>
+    <div class="entry__body">
+      <h2 id="h-h">Progress through the current halving era</h2>
+      <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label={`${(epochDone / HALVING_INTERVAL * 100).toFixed(1)}% of 210,000 blocks mined in this era`}>
+        <rect x="1" y="8" width={W - 2} height="22" fill="none" stroke="#1c2530" />
+        <rect x="1" y="8" width={bar(epochDone / HALVING_INTERVAL)} height="22" fill="#1d4c69" />
+        <text x="1" y="48" font-family="ui-monospace, Consolas, monospace" font-size="13" fill="#46505c">block 840,000</text>
+        <text x={W - 1} y="48" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="13" fill="#46505c">block 1,050,000</text>
+      </svg>
+      <table class="readings">
+        <tbody>
+          <tr><th scope="row">Blocks mined this era</th><td>{fmtInt(epochDone)} of 210,000</td></tr>
+          <tr><th scope="row">Blocks remaining</th><td>{fmtInt(h.remainingBlocks)}</td></tr>
+          <tr><th scope="row">Estimated date (10-min blocks)</th><td>{fmtUtc(eta.toISOString()).replace(/, \d\d:\d\d UTC/, '')}</td></tr>
+          <tr><th scope="row">Subsidy now → after</th><td>{h.subsidyNow} → {h.subsidyNext} BTC</td></tr>
+        </tbody>
+      </table>
+      <p class="small">The date is an estimate; real block times vary. Background: <a href="/guides/bitcoin-halving/">the halving explained</a>.</p>
+    </div>
+  </section>
+  <section class="entry" aria-labelledby="d-h">
+    <div class="entry__mark"><span>Clock 2</span><span>Retarget</span></div>
+    <div class="entry__body">
+      <h2 id="d-h">When does mining difficulty change next?</h2>
+      <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label={`${d.progressPercent.toFixed(1)}% of the 2,016-block difficulty epoch complete`}>
+        <rect x="1" y="8" width={W - 2} height="22" fill="none" stroke="#1c2530" />
+        <rect x="1" y="8" width={bar(d.progressPercent / 100)} height="22" fill="#a8322a" />
+        <text x="1" y="48" font-family="ui-monospace, Consolas, monospace" font-size="13" fill="#46505c">epoch start</text>
+        <text x={W - 1} y="48" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="13" fill="#46505c">block {fmtInt(d.nextRetargetHeight)}</text>
+      </svg>
+      <table class="readings">
+        <tbody>
+          <tr><th scope="row">Epoch progress</th><td>{d.progressPercent.toFixed(1)}% of {fmtInt(RETARGET_INTERVAL)} blocks</td></tr>
+          <tr><th scope="row">Blocks remaining</th><td>{fmtInt(d.remainingBlocks)}</td></tr>
+          <tr><th scope="row">Estimated retarget</th><td>{fmtUtc(d.estimatedRetargetDate)}</td></tr>
+          <tr><th scope="row">Projected change</th><td>{d.estimatedChangePercent >= 0 ? '+' : ''}{d.estimatedChangePercent.toFixed(2)}%</td></tr>
+          <tr><th scope="row">Average block time this epoch</th><td>{(d.avgBlockSeconds / 60).toFixed(2)} min</td></tr>
+          <tr><th scope="row">Previous change</th><td>{d.previousRetargetPercent >= 0 ? '+' : ''}{d.previousRetargetPercent.toFixed(2)}%</td></tr>
+        </tbody>
+      </table>
+      <p class="small">Projection assumes the current average pace continues. Read <a href="/guides/difficulty-adjustment/">how the adjustment works</a>, or return to <a href="/">today’s log</a>.</p>
+    </div>
+  </section>
+  <script>
+    const btn = document.getElementById('live') as HTMLButtonElement;
+    const msg = document.getElementById('live-msg')!;
+    btn.addEventListener('click', async () => {
+      btn.disabled = true; msg.textContent = 'Checking mempool.space…';
+      try {
+        const r = await fetch('https://mempool.space/api/blocks/tip/height', { signal: AbortSignal.timeout(8000) });
+        if (!r.ok) throw new Error(String(r.status));
+        const tip = Number(await r.text());
+        if (!Number.isFinite(tip)) throw new Error('bad');
+        const next = (Math.floor(tip / 210000) + 1) * 210000;
+        const el = document.querySelector('[data-live="remaining"]');
+        if (el) el.textContent = (next - tip).toLocaleString('en-US');
+        msg.textContent = `Live: block ${tip.toLocaleString('en-US')}, ${(next - tip).toLocaleString('en-US')} blocks to go (checked ${new Date().toUTCString().slice(17, 22)} UTC).`;
+        (window as any).dcnTrack?.('tool_used', { tool: 'halving_countdown_live' });
+      } catch {
+        msg.textContent = 'Could not reach mempool.space; the figures above are from the last recorded reading.';
+      } finally { btn.disabled = false; }
+    });
+  </script>
+</Base>

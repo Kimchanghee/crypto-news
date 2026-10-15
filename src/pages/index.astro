@@ -98,7 +98,7 @@ const pctDiff = r.b.difficulty.estimatedChangePercent;
       <div class="entry__mark"><span>Reading 4</span><span>Halving</span></div>
       <div class="entry__body">
         <h2 id="halv-h">How many blocks until the next Bitcoin halving?</h2>
-        <p>{fmtInt(r.halving.remainingBlocks)} blocks remain until block {fmtInt(r.halving.nextHeight)}, when the block subsidy falls from {r.halving.subsidyNow} BTC to {r.halving.subsidyNext} BTC. At the 10-minute target spacing that is roughly {fmtUtc(r.halving.halvingEta.toISOString()).replace(/, \d\d:\d\d UTC/, '')}; real timing drifts with hashrate.</p>
+        <p>{fmtInt(r.halving.remainingBlocks)} blocks remain until block {fmtInt(r.halving.nextHeight)}, when the block subsidy falls from {r.halving.subsidyNow} BTC to {r.halving.subsidyNext} BTC. At the 10-minute target spacing that is roughly {fmtUtc(r.halvingEta.toISOString()).replace(/, \d\d:\d\d UTC/, '')}; real timing drifts with hashrate.</p>
       </div>
     </section>
 
