@@ -3,7 +3,7 @@ import Page from '../layouts/Page.astro';
 import { site } from '../site.config';
 ---
 <Page title="Privacy Policy: Analytics, AdSense Cookies and Your Choices" description="How Daily Crypto News uses Google Analytics 4 and AdSense, which cookies may be set, consent in the EEA, UK and Switzerland, and how to opt out of personal ads." path="/privacy/" h1="What data does Daily Crypto News collect?" mark="Privacy" updated="2026-10-15"
-  answer="We do not run accounts or collect forms. Google Analytics 4 measures visits and Google AdSense shows ads; both may use cookies. Visitors in the EEA, UK and Switzerland are asked for consent first, and anyone can opt out of personalised ads.">
+  answer="We do not run accounts or collect forms. Google Analytics 4 measures visits with region-specific storage defaults. AdSense ad loading is disabled pending account and consent setup; no active consent banner is claimed.">
   <h2>Who is responsible</h2>
   <p>Daily Crypto News ({site.domain}) is the controller for this website. Contact: <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.</p>
   <h2>What we collect</h2>
@@ -14,13 +14,13 @@ import { site } from '../site.config';
     <li><strong>Email.</strong> If you write to us, we keep the message to reply and for our records.</li>
   </ul>
   <h2>Advertising and third-party cookies</h2>
-  <p>We use Google AdSense. Google and its partners use cookies or similar identifiers to serve ads based on your prior visits to this and other websites, to limit repeat ads, and to measure performance. Third-party vendors, including Google, may place and read cookies on your browser.</p>
+  <p>AdSense integration is prepared, but ad loading is currently disabled. If enabled after required consent setup, Google and its partners use cookies or similar identifiers to serve ads based on your prior visits to this and other websites, to limit repeat ads, and to measure performance. Third-party vendors, including Google, may place and read cookies on your browser.</p>
   <ul>
     <li>Learn how Google uses data: <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites that use its services</a>.</li>
     <li>Opt out of personalised advertising: <a href="https://adssettings.google.com/">Google Ads Settings</a>, or <a href="https://www.aboutads.info/choices/">aboutads.info</a> for other vendors.</li>
   </ul>
   <h2>Consent in the EEA, UK and Switzerland</h2>
-  <p>For visitors in these regions, analytics and advertising storage default to <em>denied</em> using Google Consent Mode, and consent is collected through Google’s certified consent management platform before personalised ads or analytics cookies are used. You can change your choice at any time through the consent link shown by the platform.</p>
+  <p>For visitors in the EEA, UK and Switzerland, advertising and analytics storage default to denied through Google Consent Mode v2. The AdSense advertising loader is disabled until the publisher account and required certified consent management platform are verified. A consent banner is not currently configured. You can opt out of analytics through the browser settings and Google tools linked on this page.</p>
   <h2>Your rights</h2>
   <p>Depending on where you live you may have rights to access, correct, delete or object to processing of personal data. Email us and we will respond within the time required by applicable law. You can also block cookies in your browser settings.</p>
   <h2>Retention</h2>

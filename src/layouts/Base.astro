@@ -98,7 +98,7 @@ const current = Astro.url.pathname;
     window.dcnTrack = function(name, params){ if (ga4) gtag('event', name, params || {}); };
   </script>
   {site.ga4Id && <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${site.ga4Id}`}></script>}
-  <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsenseClient}`} crossorigin="anonymous"></script>
+  {site.adsEnabled && (<script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsenseClient}`} crossorigin="anonymous"></script>)}
   {allLd.map((obj) => <script type="application/ld+json" set:html={JSON.stringify(obj)} />)}
 </head>
 <body>

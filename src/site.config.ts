@@ -16,6 +16,8 @@ export const site = {
   gscVerification: (env.PUBLIC_GSC_VERIFICATION as string | undefined) ?? '',
   naverVerification: (env.PUBLIC_NAVER_VERIFICATION as string | undefined) ?? '',
   adsenseClient: 'ca-pub-4490818204529253',
+  // Enable only after publisher account and required certified CMP are verified.
+  adsEnabled: env.PUBLIC_ADS_ENABLED === 'true',
   contactEmail: 'contact@dailycryptonews.online',
   indexNowKey: 'b7d3f2a94c1e4e58a6d0c2f19e3b7a51',
   // Affiliate URLs stay empty: this site does not promote exchanges.
