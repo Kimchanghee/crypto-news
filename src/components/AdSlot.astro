@@ -1,0 +1,14 @@
+---
+// Reserved in-content ad unit. Renders nothing unless ads are enabled (PUBLIC_ADS_ENABLED=true) AND a real
+// AdSense slot ID is configured (PUBLIC_ADSENSE_SLOT_INCONTENT1), so no empty boxes ship before approval.
+// When on, the fixed min-height reserves space so the ad cannot shift the layout (CLS).
+import { site } from '../site.config';
+const slot = (import.meta.env.PUBLIC_ADSENSE_SLOT_INCONTENT1 as string | undefined) ?? '';
+const show = site.adsEnabled === true && /^\d{6,}$/.test(slot);
+---
+{show && (
+  <aside class="ad-slot" aria-label="Advertisement" style="min-height:280px;margin:2rem 0;contain:layout">
+    <ins class="adsbygoogle" style="display:block;min-height:250px" data-ad-client={site.adsenseClient} data-ad-slot={slot} data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script is:inline>(window.adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </aside>
+)}

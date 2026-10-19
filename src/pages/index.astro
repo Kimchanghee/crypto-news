@@ -1,4 +1,5 @@
 ---
+import AdSlot from '../components/AdSlot.astro';
 import Base from '../layouts/Base.astro';
 import SeaState from '../components/SeaState.astro';
 import Stamp from '../components/Stamp.astro';
@@ -79,7 +80,7 @@ const pctDiff = r.b.difficulty.estimatedChangePercent;
       </div>
     </section>
 
-    <div class="ad-slot" aria-hidden="true"></div>
+    <AdSlot />
 
     <section class="entry" aria-labelledby="diff-h">
       <div class="entry__mark"><span>Reading 3</span><span>Difficulty</span></div>
