@@ -29,3 +29,9 @@ Baseline date: deployment day (parent records it). Before deploy the domain retu
 
 ## Not claimed
 No indexing, ranking, traffic, AdSense approval or revenue is claimed by this rebuild.
+
+## Re-measure 2026-11-03 (five-lane pass of 2026-10-20)
+- Numeric baseline: pending console data (GSC/Bing exports not pulled; no numbers recorded until they are).
+- Shipped 2026-10-20: robots names Claude-SearchBot and Perplexity-User; llms.txt "Last updated" stamp and Data downloads section; /data/network-log.json and /data/network-log.csv (recorded readings only, observation time UTC, source per day), linked from /log/; gate check that a question H1 is followed by the #answer paragraph.
+- On 2026-11-03 record per changed URL: indexed (Y/N), impressions, clicks, average position (GSC); Bing indexed (Y/N); whether the JSON/CSV URLs were fetched (Cloudflare analytics, if available).
+- Citation probes (O/X, with date and exact prompt): How congested is the Bitcoin mempool today? / What is Ethereum gas costing today? / What are Bitcoin difficulty and hashrate right now? / What is Daily Crypto News?
