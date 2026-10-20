@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "asOf": "2026-10-20T00:54:12.960Z",
+  "asOf": "2026-10-20T01:59:16.688Z",
   "source": "mempool.space, Binance, Ethereum JSON-RPC",
   "sourceUrl": "https://dailycryptonews.online/methodology/",
   "readings": [
@@ -21,6 +21,24 @@
       "btcUsd": 81618.64,
       "ethUsd": 2397.79,
       "ethBaseGwei": 0.103
+    },
+    {
+      "t": "2026-10-20T01:59:16.688Z",
+      "height": 972241,
+      "fees": {
+        "fastest": 1,
+        "halfHour": 1,
+        "hour": 1,
+        "economy": 1,
+        "minimum": 1
+      },
+      "mempoolVsize": 24206503,
+      "mempoolCount": 41951,
+      "diffChange": 3.4795823069438736,
+      "hashrateEHs": 1037.4,
+      "btcUsd": 81764,
+      "ethUsd": 2397.81,
+      "ethBaseGwei": 0.135
     }
   ]
 }
