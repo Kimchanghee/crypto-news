@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-21T00:34:33.543Z",
+  "asOf": "2026-10-21T02:32:14.931Z",
   "source": "See per-section source fields",
   "sourceUrl": "https://dailycryptonews.online/methodology/",
   "btc": {
@@ -32,26 +32,26 @@
       "currentEHs": 1048.7107862625771,
       "currentDifficulty": 140577680051919.6
     },
-    "stale": false
+    "stale": true
   },
   "prices": {
-    "asOf": "2026-10-21T00:34:32.765Z",
+    "asOf": "2026-10-21T02:32:13.382Z",
     "source": "Binance spot public market data (USDT pairs, used as a USD proxy)",
     "sourceUrl": "https://developers.binance.com/docs/binance-spot-api-docs/rest-api/market-data-endpoints",
-    "BTCUSDT": 83186.3,
-    "ETHUSDT": 2455.1,
+    "BTCUSDT": 82732.56,
+    "ETHUSDT": 2446.78,
     "stale": false
   },
   "eth": {
-    "asOf": "2026-10-21T00:34:33.211Z",
+    "asOf": "2026-10-21T02:32:14.931Z",
     "source": "Ethereum mainnet JSON-RPC eth_feeHistory (public endpoint ethereum-rpc.publicnode.com)",
     "sourceUrl": "https://ethereum.org/en/developers/docs/apis/json-rpc/",
-    "latestBlock": 26237412,
-    "baseFeeGwei": 0.042829719,
-    "nextBaseFeeGwei": 0.047099706,
-    "priorityP50Gwei": 0.005421576,
+    "latestBlock": 26238001,
+    "baseFeeGwei": 0.044864908,
+    "nextBaseFeeGwei": 0.045550183,
+    "priorityP50Gwei": 0.006899231,
     "blocksSampled": 20,
-    "gasUsedRatioAvg": 0.5196024164674353,
+    "gasUsedRatioAvg": 0.5254503210306327,
     "stale": false
   }
 }
