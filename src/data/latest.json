@@ -1,57 +1,57 @@
 {
-  "asOf": "2026-10-22T20:14:10.018Z",
+  "asOf": "2026-10-22T21:19:07.065Z",
   "source": "See per-section source fields",
   "sourceUrl": "https://dailycryptonews.online/methodology/",
   "btc": {
-    "asOf": "2026-10-22T20:14:10.018Z",
+    "asOf": "2026-10-22T21:19:07.065Z",
     "source": "mempool.space public REST API",
     "sourceUrl": "https://mempool.space/docs/api/rest",
-    "tipHeight": 972656,
+    "tipHeight": 972660,
     "fees": {
-      "fastest": 2,
+      "fastest": 1,
       "halfHour": 1,
       "hour": 1,
       "economy": 1,
       "minimum": 1
     },
     "mempool": {
-      "count": 46838,
-      "vsize": 24595358,
-      "totalFeeSat": 4423059
+      "count": 45952,
+      "vsize": 24353754,
+      "totalFeeSat": 3907058
     },
     "difficulty": {
-      "progressPercent": 46.82539682539682,
-      "estimatedChangePercent": 3.884397003292417,
-      "estimatedRetargetDate": "2026-10-30T00:24:14.672Z",
-      "remainingBlocks": 1072,
+      "progressPercent": 47.023809523809526,
+      "estimatedChangePercent": 3.584715160225227,
+      "estimatedRetargetDate": "2026-10-30T01:20:22.596Z",
+      "remainingBlocks": 1068,
       "nextRetargetHeight": 973728,
       "previousRetargetPercent": 5.923684832227039,
-      "avgBlockSeconds": 578.176
+      "avgBlockSeconds": 579.847
     },
     "hashrate": {
-      "currentEHs": 1039.292974829888,
+      "currentEHs": 1035.853595811243,
       "currentDifficulty": 140577680051919.6
     },
     "stale": false
   },
   "prices": {
-    "asOf": "2026-10-22T20:14:09.476Z",
+    "asOf": "2026-10-22T21:19:06.552Z",
     "source": "Binance spot public market data (USDT pairs, used as a USD proxy)",
     "sourceUrl": "https://developers.binance.com/docs/binance-spot-api-docs/rest-api/market-data-endpoints",
-    "BTCUSDT": 81435.18,
-    "ETHUSDT": 2387.34,
+    "BTCUSDT": 81531.99,
+    "ETHUSDT": 2397.92,
     "stale": false
   },
   "eth": {
-    "asOf": "2026-10-22T20:14:09.498Z",
+    "asOf": "2026-10-22T21:19:06.575Z",
     "source": "Ethereum mainnet JSON-RPC eth_feeHistory (public endpoint ethereum-rpc.publicnode.com)",
     "sourceUrl": "https://ethereum.org/en/developers/docs/apis/json-rpc/",
-    "latestBlock": 26250478,
-    "baseFeeGwei": 0.160701159,
-    "nextBaseFeeGwei": 0.15351099,
-    "priorityP50Gwei": 0.038587236,
+    "latestBlock": 26250800,
+    "baseFeeGwei": 0.115063737,
+    "nextBaseFeeGwei": 0.115450398,
+    "priorityP50Gwei": 0.01972184,
     "blocksSampled": 20,
-    "gasUsedRatioAvg": 0.4824792605699481,
+    "gasUsedRatioAvg": 0.5016105208333332,
     "stale": false
   }
 }
